@@ -2,7 +2,7 @@ mode = "parallelqueue"
 build = "nx"
 
 [trunk]
-api = "api.trunk.io"
+api = "api.trunk-staging.io"
 
 [git]
 name = "trunk bot"
