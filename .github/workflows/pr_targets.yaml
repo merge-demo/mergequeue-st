@@ -39,7 +39,7 @@ jobs:
           echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_OUTPUT
           echo "sleep_for=$(echo "$output" | jq -r '.sleep_for')" >> $GITHUB_OUTPUT
         env:
-          TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
 
       - name: mergeq queue configuration
         run: |
@@ -52,7 +52,7 @@ jobs:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
           steps.get-demo-config.outputs.build == 'bazel'
         with:
-          trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          trunk-token: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
           bazel-workspace-path: bazel
           bazel-diff-generate-hashes-extra-args: --no-excludeExternalTargets
           verbose: 1
@@ -65,7 +65,7 @@ jobs:
           steps.get-demo-config.outputs.build == 'nx'
         uses: ./.github/actions/nx-pr-targets
         with:
-          trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          trunk-token: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
           base-sha: ${{ github.event.pull_request.base.sha }}
           head-sha: ${{ github.event.pull_request.head.sha }}
 
@@ -79,7 +79,7 @@ jobs:
           TEMP_FILE=$(mktemp)
           echo '${{ toJSON(github) }}' > $TEMP_FILE
           echo "::endgroup::"
-          ./mq upload-targets --github-json=$TEMP_FILE --trunk-token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          ./mq upload-targets --github-json=$TEMP_FILE --trunk-token=${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
         env:
-          TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
