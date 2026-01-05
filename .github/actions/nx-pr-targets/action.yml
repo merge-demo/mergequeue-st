@@ -15,6 +15,17 @@ inputs:
 runs:
   using: composite
   steps:
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r tools/requirements.txt
+      shell: bash
+
     - name: Setup Node.js for Nx
       uses: actions/setup-node@v4
       with:
@@ -42,8 +53,8 @@ runs:
       run: |
         python3 tools/upload_nx_targets.py \
           --targets-file=impacted_targets_json_tmp \
-          --trunk-token="${{ inputs.trunk-token }}" \ 
-          --api-url=api.trunk-staging.io
+          --trunk-token="${{ inputs.trunk-token }}" \
+          --api-url="https://api.trunk-staging.io/v1/setImpactedTargets"
       env:
         TRUNK_TOKEN: ${{ inputs.trunk-token }}
         GITHUB_REPOSITORY: ${{ github.repository }}
