@@ -8366,7 +8366,6 @@ corkir
 chamaelirium
 chamaepericlymenum
 chamaephyte
-chamaerops
 chamaesiphonales
 chamar
 chambered
@@ -28078,6 +28077,7 @@ cran
 cranage
 compotator
 catholics
+chamaerops
 cranberries
 cranch
 chondrigen
