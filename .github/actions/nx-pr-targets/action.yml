@@ -42,7 +42,8 @@ runs:
       run: |
         python3 tools/upload_nx_targets.py \
           --targets-file=impacted_targets_json_tmp \
-          --trunk-token="${{ inputs.trunk-token }}"
+          --trunk-token="${{ inputs.trunk-token }}" \ 
+          --api-url=api.trunk-staging.io
       env:
         TRUNK_TOKEN: ${{ inputs.trunk-token }}
         GITHUB_REPOSITORY: ${{ github.repository }}
