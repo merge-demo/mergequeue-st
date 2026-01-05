@@ -1,0 +1,45 @@
+name: PR Testing
+run-name: PR Checks for ${{ github.ref_name }}
+on:
+  pull_request: {}
+
+jobs:
+  test:
+    name: run tests to validate pr
+    runs-on: ubuntu-latest
+    env:
+      BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: false
+          extract: true
+
+      - name: Make mq executable
+        run: chmod +x ./mq
+
+      - name: Determine is_merge
+        id: check_is_merge
+        run: |
+          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then            
+            echo "on_merge=true" >> $GITHUB_OUTPUT
+          else
+          echo "on_merge=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: run tests
+        id: test
+        # only actually run the test if we're on the merge branch
+        # so we can simulate delay and flakiness
+        if: steps.check_is_merge.outputs.on_merge == 'true'
+        run: |
+          ./mq test-sim --trunk-token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+        env:
+          IS_MERGE: ${{ steps.check_is_merge.outputs.on_merge }}

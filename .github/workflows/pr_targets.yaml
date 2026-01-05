@@ -1,0 +1,85 @@
+name: Upload Impacted Targets
+run-name: pr targets for ${{ github.ref_name }}
+on: pull_request
+
+jobs:
+  compute_pr_targets:
+    name: compute_pr_targets
+    runs-on: ubuntu-latest
+    if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: truefilenames.sort();
+
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@v1
+        with:
+          tools: jq
+
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: false
+          extract: true
+
+      - name: Make mq executable
+        run: chmod +x ./mq
+
+      - name: get demo config
+        id: get-demo-config
+        run: |
+          output=$(./mq config)
+          echo "$output" | jq -r '.mode'
+          echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_OUTPUT
+          echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_OUTPUT
+          echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_OUTPUT
+          echo "sleep_for=$(echo "$output" | jq -r '.sleep_for')" >> $GITHUB_OUTPUT
+        env:
+          TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+
+      - name: mergeq queue configuration
+        run: |
+          echo 'mode ${{ steps.get-demo-config.outputs.mode }}'
+          echo 'build ${{ steps.get-demo-config.outputs.build }}'
+
+      - name: bazel pr targets
+        uses: trunk-io/merge-action@752cadfa168ce011c0fa396f4cbc6159ea445c02
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'bazel'
+        with:
+          trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          bazel-workspace-path: bazel
+          bazel-diff-generate-hashes-extra-args: --no-excludeExternalTargets
+          verbose: 1
+        env:
+          API_URL: https://api.trunk.io:443/v1/setImpactedTargets
+
+      - name: nx pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'nx'
+        uses: ./.github/actions/nx-pr-targets
+        with:
+          trunk-token: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          base-sha: ${{ github.event.pull_request.base.sha }}
+          head-sha: ${{ github.event.pull_request.head.sha }}
+
+      - name: named pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          steps.get-demo-config.outputs.build == 'folders'
+        run: |
+          # uncomment if you want to see full github json
+          # echo "::group::GitHub Json"
+          TEMP_FILE=$(mktemp)
+          echo '${{ toJSON(github) }}' > $TEMP_FILE
+          echo "::endgroup::"
+          ./mq upload-targets --github-json=$TEMP_FILE --trunk-token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+        env:
+          TRUNK_TOKEN: ${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

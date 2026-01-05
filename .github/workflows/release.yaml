@@ -1,0 +1,76 @@
+name: Release Generator
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        type: string
+        description: Tag to create
+concurrency: ${{ github.workflow }}
+
+jobs:
+  build:
+    name: Build ${{ matrix.target }}
+    strategy:
+      matrix:
+        include:
+          - target: x86_64-unknown-linux-gnu
+            runs-on: [ubuntu-latest]
+    runs-on: ${{ matrix.runs-on }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - name: Set up toolchains
+        run: |
+          rustup target add ${{ matrix.target }}
+          if [[ ${{ matrix.target }} == "aarch64-unknown-linux-gnu" ]]; then
+            sudo apt update;
+            sudo apt install -y binutils-aarch64-linux-gnu gcc-aarch64-linux-gnu;
+          fi
+
+      - name: Build --release
+        run: cargo build --release --target ${{ matrix.target }}
+        env:
+          HORTON_RELEASE: ${{ github.event.inputs.release_tag }}
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.target }}
+          path: target/${{ matrix.target }}/release/mq
+
+  tag_and_release:
+    name: Tag and Release [ ${{ github.event.inputs.release_tag }} ]
+    runs-on: ubuntu-latest
+    needs: [build]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@v1
+        with:
+          tools: gh
+
+      - id: download
+        uses: actions/download-artifact@v3
+        with:
+          path: build
+
+      - name: Compress binaries
+        run: |
+          for target in $(ls build)
+          do
+            chmod u+x build/${target}/mq
+            tar czvf \
+              build/mq-${{ github.event.inputs.release_tag }}-${target}.tar.gz \
+              -C build/${target} mq
+          done
+
+      - name: Create GH release and upload binary
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create --target ${{ github.ref }}  \
+            ${{ github.event.inputs.release_tag }} ./build/*.tar.gz
