@@ -1,0 +1,78 @@
+name: Upload Impacted Targets
+run-name: pr targets for ${{ github.ref_name }}
+on: pull_request
+
+permissions:
+  contents: read
+
+jobs:
+  compute_pr_targets:
+    name: compute
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@v1
+        with:
+          tools: gh jq
+
+      - name: Download mq binary
+        run: |
+          # Determine target triple based on runner OS and architecture
+          if [[ "${{ runner.os }}" == "Linux" ]]; then
+            if [[ "${{ runner.arch }}" == "X64" ]]; then
+              TARGET="x86_64-unknown-linux-gnu"
+              EXT="tar.gz"
+            elif [[ "${{ runner.arch }}" == "ARM64" ]]; then
+              TARGET="aarch64-unknown-linux-gnu"
+              EXT="tar.gz"
+            else
+              echo "Unsupported Linux architecture: ${{ runner.arch }}"
+              exit 1
+            fi
+          elif [[ "${{ runner.os }}" == "macOS" ]]; then
+            if [[ "${{ runner.arch }}" == "ARM64" ]]; then
+              TARGET="aarch64-apple-darwin"
+              EXT="zip"
+            else
+              echo "Unsupported macOS architecture: ${{ runner.arch }} (only ARM64 is supported)"
+              exit 1
+            fi
+          else
+            echo "Unsupported OS: ${{ runner.os }}"
+            exit 1
+          fi
+
+          # Download and extract the binary
+          PATTERN="mq-*-${TARGET}.${EXT}"
+          gh release download --pattern="$PATTERN" --output "mq.${EXT}" --clobber
+
+          if [[ "$EXT" == "zip" ]]; then
+            unzip -o mq.zip
+          else
+            tar -xf mq.tar.gz
+          fi
+          chmod +x mq
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build --release
+        run: cargo build
+
+      - name: compute targets
+        id: targes
+        run: |
+          echo "::group::GitHub Json"
+          TEMP_FILE=$(mktemp)
+          echo '${{ toJSON(github) }}' > $TEMP_FILE
+          echo "::endgroup::"
+          cargo run -- upload-targets --github-json=$TEMP_FILE
+        env:
+          TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
