@@ -8724,6 +8724,7 @@ colonises
 chapelry
 combflower
 chapelries
+carrs
 cinerins
 chapels
 chapelward
@@ -24470,7 +24471,6 @@ candles
 chlorosis
 copa
 copable
-carrs
 carphophis
 confraternity
 copacetic
