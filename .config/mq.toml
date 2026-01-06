@@ -19,6 +19,7 @@ comment = ""
 requests_per_hour = 10         # target number of pull requests per hour
 run_generate_for = "30 minutes"
 change_code_path = "nx"
+target_branches = ["main", "master"]
 
 
 # the max number of deps in this repo. setting to 3 for example will cause
