@@ -16,10 +16,10 @@ sleep_for = "10m"
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 10         # target number of pull requests per hour
+requests_per_hour = 30         # target number of pull requests per hour
 run_generate_for = "30 minutes"
 change_code_path = "nx"
-protected_branches = ["main", "master"]
+protected_branches = ["master", "main"]
 
 
 # the max number of deps in this repo. setting to 3 for example will cause
