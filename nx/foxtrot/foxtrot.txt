@@ -3620,7 +3620,6 @@ frisbees
 flook
 farmable
 fridstool
-frictionlessly
 flashing
 faintishness
 fielder
@@ -6340,6 +6339,7 @@ forefingers
 ferments
 fumigatorium
 fpm
+frictionlessly
 frolicness
 forthcomingness
 furcraeas
