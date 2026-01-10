@@ -9,7 +9,7 @@ name = "trunk bot"
 email = "bot@trunk.io"
 
 [test]
-flake_rate = 0.01
+flake_rate = 0.10
 # how long test should spin for (can be described as 10s, 7m, 1hr)
 sleep_for = "15m"
 
@@ -25,7 +25,7 @@ change_code_path = "nx"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
-max_deps = 7
+max_deps = 10
 
 # the max number of deps per PR to edit
 max_impacted_deps = 2
