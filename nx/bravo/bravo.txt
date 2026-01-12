@@ -2361,7 +2361,6 @@ bones
 butterless
 bluelines
 bastinade
-biolysis
 belligerency
 bachelorlike
 barbula
@@ -9529,6 +9528,7 @@ birthstool
 birthwort
 bitnet
 biters
+biolysis
 bandarlog
 brandreth
 breviger
