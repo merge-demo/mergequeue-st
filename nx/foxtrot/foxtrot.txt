@@ -5899,7 +5899,6 @@ fisherfolk
 faultfinding
 fdname
 flockings
-fudged
 fulsamic
 folgerite
 fencepost
@@ -7840,6 +7839,7 @@ fungify
 favorite
 fligged
 focusing
+fudged
 fatiguable
 fellen
 findings
