@@ -5097,7 +5097,6 @@ cesspipe
 coestate
 chemoprophylaxis
 cascable
-cascadable
 cascade
 coupes
 crotaline
@@ -14886,6 +14885,7 @@ cytotactic
 cerebroganglion
 cytotaxis
 creosols
+cascadable
 cytotaxonomy
 conky
 claudius
