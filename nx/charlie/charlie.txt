@@ -8909,7 +8909,6 @@ combmaker
 charge
 chargeable
 ciphertext
-collective
 clements
 chargeably
 chargeant
@@ -10108,6 +10107,7 @@ chevachee
 chevage
 careened
 columnwise
+collective
 cheval
 chevalet
 chevalets
