@@ -11,13 +11,13 @@ email = "bot@trunk.io"
 [test]
 flake_rate = 0.10
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "15m"
+sleep_for = "10m"
 
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 20         # target number of pull requests per hour
-run_generate_for = "30 minutes"
+requests_per_hour = 50         # target number of pull requests per hour
+run_generate_for = "40 minutes"
 change_code_path = "nx"
 # set protected_branches to automate generation and MQ operations of multiple branches
 # protected_branches = ["master", "main"]
