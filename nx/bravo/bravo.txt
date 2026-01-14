@@ -5582,7 +5582,6 @@ bedframe
 basilican
 bekissed
 bekisses
-bouleuterion
 borons
 beknighted
 ballistite
@@ -14436,6 +14435,7 @@ blowline
 bypath
 brainstems
 brainstone
+bouleuterion
 biconical
 bodykins
 boxfuls
