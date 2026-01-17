@@ -525,7 +525,6 @@ dalton
 denomination
 dermaskeleton
 dama
-damageability
 damageably
 detonatable
 damaged
@@ -12152,6 +12151,7 @@ disflesh
 disfoliage
 dayward
 disrelate
+damageability
 disfoliaged
 demobilization
 distich
