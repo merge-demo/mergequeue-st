@@ -6077,6 +6077,7 @@ catlike
 crowns
 catling
 catlings
+condescend
 cairds
 catlins
 craftsperson
@@ -14314,7 +14315,6 @@ circumrotatory
 calochortus
 cask
 connectivity
-condescend
 circumscribed
 collapsed
 capiases
