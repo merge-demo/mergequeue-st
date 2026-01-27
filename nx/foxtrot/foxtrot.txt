@@ -3511,6 +3511,7 @@ figshell
 flankard
 fury
 foam
+forger
 ficins
 fordays
 floorhead
@@ -6839,7 +6840,6 @@ foretold
 fasces
 forswearer
 fructifier
-forger
 foliaged
 firetower
 fustigator
