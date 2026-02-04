@@ -5312,7 +5312,6 @@ fogbound
 flukes
 fumage
 fluoridize
-fatwood
 fretters
 flain
 fernwort
@@ -11118,6 +11117,7 @@ forhoo
 frizzed
 filamentous
 frostbit
+fatwood
 febres
 fearlessness
 fisticuffs
