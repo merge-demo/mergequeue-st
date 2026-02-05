@@ -39,7 +39,7 @@ jobs:
       - name: run mq
         id: edits
         run:
-          ./mq generate --gh-token=${{ secrets.PAT_MERGEDEMO }} --gh-token=${{ secrets.ELI_MERGEDEMO }} --gh-token=${{ secrets.PHIL_MERGEDEMO }} --gh-token=${{ secrets.BEN_MERGEDEMO }} --trunk-token=${{
+          ./mq generate --gh-token=${{ secrets.ROBERT_MERGEDEMO }}  --gh-token=${{ secrets.PAT_MERGEDEMO }} --gh-token=${{ secrets.ELI_MERGEDEMO }} --gh-token=${{ secrets.PHIL_MERGEDEMO }} --gh-token=${{ secrets.BEN_MERGEDEMO }} --trunk-token=${{
           secrets.TRUNK_PROD_ORG_API_TOKEN }}
         env:
           TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
@@ -48,7 +48,6 @@ jobs:
         if: always()
         id: clean
         run:
-          ./mq housekeeping --gh-token=${{ secrets.PAT_MERGEDEMO }} --gh-token=${{ secrets.ELI_MERGEDEMO }} --gh-token=${{ secrets.PHIL_MERGEDEMO }} --gh-token=${{ secrets.BEN_MERGEDEMO }} --trunk-token=${{
-          secrets.TRUNK_PROD_ORG_API_TOKEN }}
+          ./mq housekeeping --gh-token=${{ secrets.ELI_MERGEDEMO }} --trunk-token=${{ secrets.TRUNK_PROD_ORG_API_TOKEN }}
         env:
           TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
