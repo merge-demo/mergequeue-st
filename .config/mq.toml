@@ -19,8 +19,7 @@ comment = ""
 requests_per_hour = 40         # target number of pull requests per hour
 run_generate_for = "40 minutes"
 change_code_path = "nx"
-# set protected_branches to automate generation and MQ operations of multiple branches
-protected_branches = ["master", "main"]
+protected_branches = ["main"] # set protected_branches to automate generation on one or many branches
 
 
 # the max number of deps in this repo. setting to 3 for example will cause
