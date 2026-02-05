@@ -2524,7 +2524,6 @@ candyweed
 candle
 coehorn
 candleball
-candleberries
 candlebomb
 candlefish
 corporeal
@@ -5621,6 +5620,7 @@ carking
 choiceless
 carnality
 catalogist
+candleberries
 catalogistic
 conquinamine
 catalogize
