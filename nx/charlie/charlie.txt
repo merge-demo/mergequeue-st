@@ -16840,6 +16840,7 @@ cenotaph
 clubfoot
 clubfooted
 clubhand
+crouching
 clubhands
 cerebralgia
 clubhaul
@@ -21186,7 +21187,6 @@ concentrator
 communitywide
 circumneutral
 concentricate
-crouching
 conceptualizer
 concents
 concentual
