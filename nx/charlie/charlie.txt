@@ -4181,7 +4181,6 @@ cholecystotomies
 cardiometer
 cardiometric
 cardiomyomalacia
-cardiomyopathy
 camshaft
 cafoy
 cardionecrosis
@@ -14602,6 +14601,7 @@ cystoepithelioma
 complemental
 crosby
 cystofibroma
+cardiomyopathy
 cystogenesis
 cystogram
 cystoid
