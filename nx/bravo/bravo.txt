@@ -2344,6 +2344,7 @@ bathonian
 bepuff
 barbierite
 busyish
+bombable
 blatancies
 bromite
 briber
@@ -14817,7 +14818,6 @@ bern
 backword
 barres
 ballooner
-bombable
 burgheress
 baru
 brava
