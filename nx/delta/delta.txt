@@ -8428,7 +8428,6 @@ dorsiventrally
 ds
 degreed
 diamagnet
-diamagnetic
 diamagnetism
 dredging
 ditrochee
@@ -16758,6 +16757,7 @@ downline
 draping
 diswood
 drastic
+diamagnetic
 dirtfarmer
 drastically
 depencil
