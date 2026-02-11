@@ -2538,7 +2538,6 @@ corporeal
 candlefishes
 collogued
 candleholder
-candlelight
 candlelighter
 chaloth
 confraternities
@@ -22305,6 +22304,7 @@ conventionalise
 congolese
 coincline
 circumpolygon
+candlelight
 congoleum
 congou
 coessentialness
