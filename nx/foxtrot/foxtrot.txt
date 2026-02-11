@@ -4464,7 +4464,6 @@ fishplate
 feste
 fate
 fishpole
-fishpoles
 flueless
 flameproof
 fazed
@@ -7134,6 +7133,7 @@ foundress
 feeder
 ferly
 flanging
+fishpoles
 footballs
 flinchers
 footboard
