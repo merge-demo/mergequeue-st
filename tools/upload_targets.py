@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Upload impacted Nx targets to Trunk API.
+Upload impacted targets to Trunk API.
 
 This script reads impacted targets from a JSON file and uploads them to Trunk's API.
+It's a generic script that works for any build system (Nx, Turbo, Bazel, etc.).
 """
 
 import json
@@ -13,7 +14,7 @@ from typing import Optional
 import requests
 import typer
 
-app = typer.Typer(help="Upload impacted Nx targets to Trunk API")
+app = typer.Typer(help="Upload impacted targets to Trunk API")
 
 
 def eprint(*args, **kwargs):
@@ -61,7 +62,7 @@ def main(
         help="Target branch name (or set TARGET_BRANCH/GITHUB_BASE_REF env var)",
     ),
 ):
-    """Upload impacted Nx targets to Trunk API."""
+    """Upload impacted targets to Trunk API."""
     # Get token from arg or env
     if not trunk_token:
         eprint("Error: Trunk token required (--trunk-token or TRUNK_TOKEN env var)")

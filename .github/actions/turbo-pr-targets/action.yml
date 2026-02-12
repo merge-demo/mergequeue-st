@@ -1,5 +1,5 @@
-name: Nx PR Targets
-description: Detect and upload impacted Nx targets for a pull request
+name: Turbo PR Targets
+description: Detect and upload impacted Turbo targets for a pull request
 
 inputs:
   trunk-token:
@@ -29,14 +29,14 @@ runs:
         pip install -r tools/requirements.txt
       shell: bash
 
-    - name: Setup Node.js for Nx
+    - name: Setup Node.js for Turbo
       uses: actions/setup-node@v4
       with:
         node-version: 24
 
-    - name: Install Nx dependencies
+    - name: Install Turbo dependencies
       run: |
-        cd nx
+        cd turbo
         npm install
       shell: bash
 
@@ -46,10 +46,13 @@ runs:
         git fetch --no-tags origin "${{ inputs.head-sha }}"
       shell: bash
 
-    - name: Generate impacted Nx targets
+    - name: Generate impacted Turbo targets
+      env:
+        BASE_SHA: ${{ inputs.base-sha }}
+        HEAD_SHA: ${{ inputs.head-sha }}
       run: |
         # Generate impacted targets using the detection script
-        python3 tools/detect_impacted_nx_targets.py --base="${{ inputs.base-sha }}" --head="${{ inputs.head-sha }}" -o impacted_targets_json_tmp
+        python3 tools/detect_impacted_turbo_targets.py --base="$BASE_SHA" --head="$HEAD_SHA" -o impacted_targets_json_tmp
       shell: bash
 
     - name: Upload targets to Trunk API
