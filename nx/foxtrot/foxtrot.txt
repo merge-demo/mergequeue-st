@@ -10694,7 +10694,7 @@ foodstuffs
 fruitiness
 fieldworker
 fist
-footler
+footler 1
 famish
 frightable
 facultied
