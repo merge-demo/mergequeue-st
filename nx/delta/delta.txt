@@ -6097,6 +6097,7 @@ dimission
 durgen
 dissolvable
 deckedout
+digestible
 derated
 diphtheroid
 derater
@@ -9468,7 +9469,6 @@ digestibility
 disserting
 dentition
 demark
-digestible
 dite
 digestibleness
 delesseriaceae
