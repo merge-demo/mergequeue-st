@@ -4156,7 +4156,7 @@ flocculation
 fellowcraft
 floerkea
 fibrils
-faintness
+faintness 1
 fluophosphate
 foreaccounting
 frequence
