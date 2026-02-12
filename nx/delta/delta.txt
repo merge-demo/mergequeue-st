@@ -1506,7 +1506,6 @@ dc
 dcb
 depressure
 deaccessioning
-drawbolt
 dingbats
 draughts
 dermatorrhea
@@ -11979,6 +11978,7 @@ dotting
 disenclose
 daint
 diammine
+drawbolt
 decimus
 domicella
 distichous
