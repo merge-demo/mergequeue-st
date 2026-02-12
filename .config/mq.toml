@@ -21,13 +21,12 @@ run_generate_for = "40 minutes"
 change_code_path = "nx"
 protected_branches = ["main"] # set protected_branches to automate generation on one or many branches
 
-
-# the max number of deps in this repo. setting to 3 for example will cause
-# files in alpha, bravo, charlie deps to be changed
-max_deps = 10
-
-# the max number of deps per PR to edit
-max_impacted_deps = 2
+# how to distribute changes of impacted deps
+# 55% - 1 dep change
+# 35% - 2 dep change
+# 9%  - 3 deps
+# 1% - ALL will be specified
+deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
