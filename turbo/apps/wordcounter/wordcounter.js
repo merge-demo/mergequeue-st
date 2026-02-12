@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Word counter application - displays word dictionary statistics.
- * Similar to the UV wordcounter app, but implemented in Node.js for Nx.
+ * Similar to the Nx and UV wordcounter apps, but for Turbo.
  */
 
 const fs = require("fs");
@@ -10,7 +10,7 @@ const path = require("path");
 // Dictionary mapping folder names to their word lists
 const WORD_DICT = {};
 
-// Word list packages (similar to UV setup)
+// Word list packages (similar to Nx and UV setup)
 const wordPackages = [
   "alpha",
   "bravo",
@@ -27,7 +27,7 @@ const wordPackages = [
 
 // Load words from each package's .txt file
 for (const pkg of wordPackages) {
-  const txtPath = path.join(__dirname, "../../", pkg, `${pkg}.txt`);
+  const txtPath = path.join(__dirname, "../../packages", pkg, `${pkg}.txt`);
   try {
     const content = fs.readFileSync(txtPath, "utf-8");
     const words = content
@@ -42,7 +42,7 @@ for (const pkg of wordPackages) {
 }
 
 function main() {
-  console.log("Nx Word Dictionary");
+  console.log("Turbo Word Dictionary");
   console.log("=".repeat(50));
 
   for (const [folder, words] of Object.entries(WORD_DICT)) {
