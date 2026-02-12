@@ -27,5 +27,8 @@ tools:
     - bazel@8.2.1
     - jq@jq-1.7.1
 lint:
+  enabled:
+    - actionlint@1.7.10
   disabled:
     - eslint
+    - semgrep

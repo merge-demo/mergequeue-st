@@ -9,6 +9,10 @@ import delta
 import echo
 import foxtrot
 import golf
+import hotel
+import indigo
+import juliet
+import kilo
 
 # Dictionary mapping folder names to their word lists
 WORD_DICT = {
@@ -19,6 +23,10 @@ WORD_DICT = {
     "echo": echo.WORDS,
     "foxtrot": foxtrot.WORDS,
     "golf": golf.WORDS,
+    "hotel": hotel.WORDS,
+    "indigo": indigo.WORDS,
+    "juliet": juliet.WORDS,
+    "kilo": kilo.WORDS,
 }
 
 __all__ = ["WORD_DICT", "main"]
