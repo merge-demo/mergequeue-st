@@ -5604,7 +5604,7 @@ enforest
 epacme
 elicitable
 enform
-extrospection
+extrospection 1
 ergometric
 embarrasses
 epicritic
