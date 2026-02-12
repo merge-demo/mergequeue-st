@@ -3517,7 +3517,7 @@ dismissable
 doom
 drowsed
 desaturate
-desiccated
+desiccated 1
 defloration
 dagobas
 desmomyaria
