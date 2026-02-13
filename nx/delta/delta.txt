@@ -5703,7 +5703,7 @@ depolarise
 dearies
 dehumidify
 disrobers
-depolarization
+depolarization 1
 dernly
 depolarize
 dextrorsal
