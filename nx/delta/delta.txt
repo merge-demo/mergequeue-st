@@ -2659,7 +2659,7 @@ downstairs
 desmoma
 decompress
 decompresses
-detectaphone
+detectaphone 1
 dingiest
 demiplacate
 dogies
