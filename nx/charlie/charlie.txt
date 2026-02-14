@@ -31354,7 +31354,7 @@ cawk
 consolitorily
 cruziero
 curfew
-curfewed
+curfewed 1
 curfews
 concordats
 curfs
