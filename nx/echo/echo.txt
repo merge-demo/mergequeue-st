@@ -4796,7 +4796,7 @@ embusy
 emirs
 escapable
 exorciser
-encoder
+encoder 1
 episcopable
 embryogenetic
 enshrining
