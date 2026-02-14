@@ -19942,7 +19942,7 @@ coml
 confessionals
 conjugating
 commandable
-commandatory
+commandatory 1
 commanded
 commandedness
 coelacanthine
