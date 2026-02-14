@@ -3610,7 +3610,7 @@ bathometry
 blockmaking
 bathool
 balneary
-bathophobia
+bathophobia 1
 buvette
 bradypeptic
 bathos
