@@ -5740,7 +5740,7 @@ fleuronnee
 fungous
 fuzzball
 furnage
-fungistatic
+fungistatic 1
 fougue
 frequentation
 fractuosity
