@@ -13301,7 +13301,7 @@ englifier
 empierce
 endophragm
 estranger
-englishable
+englishable 1
 evict
 eponymize
 ensheath
