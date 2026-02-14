@@ -19888,7 +19888,7 @@ asymbiotic
 aeolis
 armlike
 armlock
-autoconvection
+autoconvection 1
 armoracia
 albertite
 akuammin
