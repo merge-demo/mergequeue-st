@@ -3885,7 +3885,7 @@ electrotonus
 ethnomusicologically
 extraboldface
 eminencies
-evendown
+evendown 1
 exterminating
 eminent
 endorsor
