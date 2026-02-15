@@ -10927,7 +10927,7 @@ fleets
 frowsty
 flivver
 fletched
-fullmouthed
+fullmouthed 1
 florist
 firesafeness
 flirtations
