@@ -5605,7 +5605,7 @@ epacme
 elicitable
 enform
 extrospection 1
-ergometric
+ergometric 1
 embarrasses
 epicritic
 enforth
