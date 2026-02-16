@@ -5110,7 +5110,7 @@ beflag
 bamboo
 binits
 basilicon
-beflagged
+beflagged 1
 biopoiesis
 broidering
 burrows
