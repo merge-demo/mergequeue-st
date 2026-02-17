@@ -2105,7 +2105,7 @@ foins
 fleshen
 frument
 fayence
-federate
+federate 1
 fermentate
 fonding
 fluming
