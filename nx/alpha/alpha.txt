@@ -5600,7 +5600,7 @@ afflux
 afterplanting
 absinthium
 acknew
-afterreckoning
+afterreckoning 1
 audiotypist
 auxofluor
 andiroba
