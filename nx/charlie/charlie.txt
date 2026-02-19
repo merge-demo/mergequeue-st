@@ -1103,7 +1103,7 @@ calcimined
 crudeness
 calcimining
 choppin
-crossbarred
+crossbarred 1
 calcinate
 calcinator
 calcine
@@ -1760,7 +1760,7 @@ chipped
 coloured
 calumniates
 comeliness
-calumniating
+calumniating 1
 calumniation
 coaldealer
 consolably
@@ -2121,7 +2121,7 @@ campanologically
 coniology
 campanologist
 corrober
-campanologists
+campanologists 1
 cytophysics
 counterassertion
 ceilingward
@@ -3269,7 +3269,7 @@ casques
 capitalizing
 capitalness
 capitan
-capitana
+capitana 1
 capitasti
 capitated
 croquette
@@ -3831,7 +3831,7 @@ carbolated
 cerning
 cogitation
 cineolic
-carbolfuchsin
+carbolfuchsin 1
 curlewberry
 ceratophyllaceae
 carbolic
@@ -4284,7 +4284,7 @@ caret
 caretake
 caretakers
 caretaking
-chastisers
+chastisers 1
 chondrosteous
 caretook
 comfiest
@@ -6598,7 +6598,7 @@ ceasing
 conferment
 cebalrai
 culteranismo
-cebell
+cebell 1
 crystallite
 cecidogenous
 cebid
@@ -8655,7 +8655,7 @@ carman
 commonest 1
 cheiloplasties
 chantry
-chanukah
+chanukah 1
 chaology
 chaori
 campholide
@@ -9102,7 +9102,7 @@ charter
 charterer
 charterers
 charterhouse
-chartering
+chartering 1
 charterism
 charterless
 chartermaster
@@ -9997,7 +9997,7 @@ chernomorish
 cooried
 chernozem
 cyclarthrosis
-cuprammonia
+cuprammonia 1
 cherokee
 corodiastole
 copartaker
@@ -10626,7 +10626,7 @@ chylous
 chilte
 chiltern
 chilver
-chimaera
+chimaera 1
 chimaeroid
 chimakum
 curled
@@ -12354,7 +12354,7 @@ cenote
 chromate
 conjunction
 chromates
-chromatically
+chromatically 1
 chromatician
 chromaticness
 chromatid
@@ -12646,7 +12646,7 @@ chroococcales
 chroococcoid
 charcoalist
 cacafuego
-cicatrisation
+cicatrisation 1
 chteau
 chauffeuses
 chthonian
@@ -13599,7 +13599,7 @@ cotsetle
 conferted
 cimbric
 cyme
-cymelet
+cymelet 1
 cimelium
 cymenes
 coproite
@@ -14100,7 +14100,7 @@ codecree
 circue
 circuit
 circuital
-cleidoscapular
+cleidoscapular 1
 chimonanthus
 circuiteer
 clyer
@@ -14306,7 +14306,7 @@ cacciatore
 clavierist
 cautelous
 circumpose 1
-condite
+condite 1
 circumquaque
 circumradius
 circumradiuses
@@ -15992,7 +15992,7 @@ clernly
 cramper
 compromises
 covado
-cleromancy
+cleromancy 1
 canniness
 clerstory
 clansmen
@@ -16151,7 +16151,7 @@ climatic
 climatius
 climatize
 climatographical
-compony
+compony 1
 cardsharp
 conductitious
 crenulated
@@ -16193,7 +16193,7 @@ capitalism
 collodiochloride
 checkroom
 cavus
-clinchers
+clinchers 1
 clinches
 charmingly
 cornulites
@@ -17753,7 +17753,7 @@ corojo
 cocreator
 cocreatorship
 citation
-campbellism
+campbellism 1
 coct
 coctile
 chloroformist
@@ -18115,7 +18115,7 @@ coenospecies
 coenospecifically
 chicory
 cacopharyngia
-coenotype
+coenotype 1
 coenotypic
 coenotrope
 coenthrone
@@ -18542,7 +18542,7 @@ cohosts
 cohow
 cohune
 commingling
-chadri
+chadri 1
 callianassa
 choloidic
 cohunes
@@ -19588,7 +19588,7 @@ ciliata
 chromaticism
 coextensiveness
 capanne
-coregence
+coregence 1
 coprozoic
 columellia
 columna
@@ -20152,7 +20152,7 @@ caelian
 comminglement
 cuspids
 commingler
-commingles
+commingles 1
 comminuted
 cybercultural
 cheiroline
@@ -20932,7 +20932,7 @@ compressibility
 compressibleness
 criminals
 compressibly
-cruzeiros
+cruzeiros 1
 cathetometric
 compressive
 chasubles
@@ -21410,7 +21410,7 @@ concludent
 concludently
 contacting
 concluder
-cymbium
+cymbium 1
 concluders
 caulome
 correa
@@ -21581,7 +21581,7 @@ concussions
 concutient
 crepitacula
 condemn
-convent
+convent 1
 condemnations
 clangour
 chichimecan
@@ -22276,7 +22276,7 @@ congesting
 congestion
 consultatively
 calk
-chylification
+chylification 1
 congestive
 conceitedly
 cornered
@@ -22416,7 +22416,7 @@ chessman
 conidae
 champlainic
 conidioid
-conidiophorous
+conidiophorous 1
 conidiospore
 copy
 chutneys
@@ -23142,7 +23142,7 @@ caretaken
 chuddahs
 chamberletted
 constate
-curettement
+curettement 1
 confers
 celtically
 constellate
@@ -23232,7 +23232,7 @@ cajon
 cholecystocolotomy
 courtepy
 construability
-clavis
+clavis 1
 clerestory
 cataractine
 cabernets
@@ -25383,7 +25383,7 @@ cambogias
 counterly
 cornigeous
 corneosiliceous
-corner
+corner 1
 cornerback
 cornerer
 cornering
@@ -25488,7 +25488,7 @@ cornus
 concertstuck
 cornute
 cru
-cambodians
+cambodians 1
 clathrina
 cornuting
 caddisflies
@@ -26329,7 +26329,7 @@ censorious
 consultative
 chacoli
 costopneumopexy
-collusiveness
+collusiveness 1
 cicerone
 costosternal
 costothoracic
@@ -27526,7 +27526,7 @@ covey
 coveys
 covelline
 covellite
-cartooned
+cartooned 1
 certie
 conceptualistic
 corpus
@@ -28309,7 +28309,7 @@ champaca
 cheepily
 citriculturist
 cratinean
-crating
+crating 1
 confederation
 cratometry
 carobs
@@ -29458,7 +29458,7 @@ crystallin
 crystalling
 crystallisability
 caramel
-correctedness
+correctedness 1
 cueist
 circuiter
 candlewicking
@@ -29926,7 +29926,7 @@ crosslegs
 complainer
 captived
 criolla
-containments
+containments 1
 crossleted
 coelenterata
 carcase
@@ -30095,7 +30095,7 @@ crocodilus
 comptrol
 cephalophorous
 chordoid
-crowder
+crowder 1
 cmdg
 crowdy
 crowdies
@@ -30128,7 +30128,7 @@ counsels
 circumvolutory
 cadua
 crownet
-cantilevering
+cantilevering 1
 crownets
 caprinic
 crownlike
@@ -30962,7 +30962,7 @@ culvers
 cum
 cants
 coremiumia
-cumay
+cumay 1
 currack
 caprigenous
 cumal
@@ -31651,7 +31651,7 @@ cuscuta
 convivio
 choiciest
 corselets
-cuscutaceae
+cuscutaceae 1
 cuppin
 cuscutaceous
 cusecs
@@ -31753,7 +31753,7 @@ cervisial
 customers
 customhouses
 copernicia
-controvertist
+controvertist 1
 centrings
 copresent
 chimlas
@@ -31845,7 +31845,7 @@ cutleriaceous
 cutleries
 cutlers
 cutlet
-condenseries
+condenseries 1
 cashable
 cutline
 clunking
