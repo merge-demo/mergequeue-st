@@ -12193,7 +12193,7 @@ detector
 despoticly
 deviators
 disfurnish
-deport
+deport 1
 disfurnished
 deathshot
 dervishes
@@ -18183,7 +18183,7 @@ dictionary
 dumper
 defensemen
 demethylchlortetracycline
-dalesman
+dalesman 1
 duikerbuck
 dermographism
 disney
