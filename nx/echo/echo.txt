@@ -11971,7 +11971,7 @@ emirs
 ensilages
 exothermicity
 endurance
-enlist
+enlist 1
 epithecate
 exactress
 enarthroses
