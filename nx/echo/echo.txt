@@ -1867,7 +1867,7 @@ elapsed
 endamage
 everwho
 eightball
-eclat
+eclat 1
 earthstar
 epurate
 eptatretidae
