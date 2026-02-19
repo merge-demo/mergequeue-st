@@ -552,7 +552,7 @@ effeminating
 emotively
 echinulated
 endogastrically
-echis
+echis 1
 enthean
 emulations
 euglenas
@@ -817,7 +817,7 @@ extremest
 extradecretal
 encrust
 ectypography
-epitheton
+epitheton 1
 elbowchair
 entrecote
 epop
@@ -963,7 +963,7 @@ esoterics
 exhumes
 excavatory
 eumitosis
-exocardia
+exocardia 1
 emasculating
 enthymematic
 ensaffron
@@ -1062,7 +1062,7 @@ euchred
 eisteddfodism
 edification
 exfigure
-ectoplasm
+ectoplasm 1
 exercise
 earock
 equipoised
@@ -1077,7 +1077,7 @@ electrologic
 essayish
 edifying
 ectoblastic
-egolatrous
+egolatrous 1
 effractor
 edile
 erogenetic
@@ -1123,7 +1123,7 @@ editorship
 enhorror
 editorships
 elasticness
-equatability
+equatability 1
 encrown
 enthrill
 enfrai
@@ -1435,7 +1435,7 @@ ejectivity
 entoparasite
 extensile
 existential
-euphuisms
+euphuisms 1
 enarbour
 eerock
 esconson
@@ -1583,7 +1583,7 @@ evacuations
 erianthus
 estopped
 embay
-euphonetics
+euphonetics 1
 enablers
 eyewitnesses
 erecting
@@ -1653,7 +1653,7 @@ eligent
 elboic 1
 extinguishes
 enlivening
-erythrophleine
+erythrophleine 1
 euphuized
 ethylenes
 epiphloedal
@@ -1938,7 +1938,7 @@ encephalomalacia
 eurasians
 edgeman
 europeward
-enliveningly
+enliveningly 1
 equalised
 electroceramic
 energism
@@ -2048,7 +2048,7 @@ eulogises
 endothermy
 elapine
 emes
-endysis
+endysis 1
 eutectics
 edictal
 entraps
@@ -2821,7 +2821,7 @@ ensiled
 endomastoiditis
 erratuta
 expone
-elan
+elan 1
 eggfish
 endoubt
 enseat
@@ -4853,7 +4853,7 @@ english
 encumbrous
 evolves
 eyednesses
-enterocoelic
+enterocoelic 1
 exsanguination
 effatum
 electrodialysis
@@ -4899,7 +4899,7 @@ emulsifiable
 embole
 endowed
 expertly
-entopical
+entopical 1
 epineurial
 enthronise
 exigenter
@@ -4972,7 +4972,7 @@ equerry
 endings
 elapsing
 endozoic
-emplace
+emplace 1
 elaeomargaric
 enrolled
 econometer
@@ -5067,7 +5067,7 @@ effaced
 expositoriness
 evanishment
 endoconidia
-edificate
+edificate 1
 epiplanktonic
 ecstasize
 encrustment
@@ -7197,7 +7197,7 @@ entamebae
 eradicably
 enterally
 eolopiles
-expurgates
+expurgates 1
 enraptures
 enigmatically
 emulsification
@@ -7280,7 +7280,7 @@ elongate
 epanorthidae
 electrojet
 ephorates
-enravishment
+enravishment 1
 enzyme
 evangeliser
 eventide
@@ -7304,7 +7304,7 @@ emasculations
 experiencible
 epaulement
 enstranged
-eyries
+eyries 1
 epee
 elsin
 epeeist
@@ -7392,7 +7392,7 @@ ecchondrotome
 emboliform
 enregistering
 emphatical
-encyclicals
+encyclicals 1
 ephelcystic
 eunuchizing
 enstool
@@ -7447,7 +7447,7 @@ extensively
 estrins
 estall
 eophytic
-endited
+endited 1
 eastmost
 electrosynthesis
 epibatholithic
@@ -7577,7 +7577,7 @@ endshake
 equichangeable
 enviousness
 exported
-encephalous
+encephalous 1
 ensconce
 elixirs
 enhungered
@@ -7638,7 +7638,7 @@ emblem
 euphemiser
 extensionist
 electrotautomerism
-expoundable
+expoundable 1
 epideistic
 enthymematical
 enfeebler
@@ -8227,7 +8227,7 @@ eyrar
 endplay
 epacrid
 enlaurel
-epitheliomatous
+epitheliomatous 1
 epitaphian
 ejection
 expensively
@@ -8661,7 +8661,7 @@ equipoise
 erotical
 euphemizing
 epilepsy
-ejecta
+ejecta 1
 exconjugant
 endostyle
 epulotic
@@ -9014,7 +9014,7 @@ epicardiac
 epiphyll
 excretes
 entria 1
-erigenia
+erigenia 1
 ephesine
 emlen
 eleoplast
@@ -9293,7 +9293,7 @@ estriate
 ericaceous
 espieglerie
 erubescent
-entelechy
+entelechy 1
 ecus
 electroori
 erucivorous
@@ -9796,7 +9796,7 @@ estampede
 estang
 ethnographist
 extincteur
-econometrician
+econometrician 1
 eatables
 entrance
 enanthema
@@ -9816,7 +9816,7 @@ esterified
 eclipsation
 eatage
 esterization
-esterize
+esterize 1
 euciliate
 exhumated
 electorate
@@ -10648,7 +10648,7 @@ excavate
 endozoa
 eques
 enharmonical
-enchilada
+enchilada 1
 eudemonistic
 enfacement
 eudemonics
@@ -10988,7 +10988,7 @@ emydea
 estufa
 eupsychics
 eurafric
-eurasianism
+eurasianism 1
 eremites
 endocervicitis
 electrizing
@@ -11009,7 +11009,7 @@ eutaxies
 eusynchite
 eurycephalic
 epiglot
-enridged
+enridged 1
 epiclastic
 electrodialitically
 egomism
@@ -11070,7 +11070,7 @@ enmarbling
 emporial
 elegit
 electrostereotype
-exteriorise
+exteriorise 1
 europium
 expressionistically
 epipharynx
@@ -11588,7 +11588,7 @@ evoking
 enlighten
 extensiveness
 evolutionism
-epizeuxis
+epizeuxis 1
 evolutionistic
 epigenesis
 endotheloid
@@ -11653,7 +11653,7 @@ economics
 ew
 errhines
 exacerbatingly
-expulses
+expulses 1
 enddamaged
 exactable
 exactas
@@ -12305,14 +12305,14 @@ enfoul
 exemplificator
 egypt
 exemplified
-ergasia
+ergasia 1
 ellagitannin
 epibolic
 exsequatur
 euploidy
 exempted
 exemption
-essenhout
+essenhout 1
 entremess
 errorless
 exemptions
@@ -12394,7 +12394,7 @@ eurasian
 exfoliative
 ebbman
 erodibility
-exhalents
+exhalents 1
 etude
 entermise
 exhales
@@ -12803,7 +12803,7 @@ enmask
 eemis
 exorcizer
 epiceratodus
-engold
+engold 1
 exotism
 equilibrations
 elsewise
@@ -13900,7 +13900,7 @@ engagingness
 euphenic
 emandibulate
 extraparental
-extroverts
+extroverts 1
 encyst
 endgame
 extraneity
