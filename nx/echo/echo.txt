@@ -12905,7 +12905,7 @@ elaborate
 elvish
 eserines
 extorting
-expandible
+expandible 1
 expediment
 editions
 envenoms
