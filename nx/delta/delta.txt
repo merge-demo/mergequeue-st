@@ -5535,7 +5535,7 @@ dibber
 dustfall
 draftable
 depended
-descends
+descends 1
 darker
 dolichopellic
 dependence
