@@ -65,7 +65,7 @@ arcadian
 abaiser
 abbadide
 avery
-alluvia
+alluvia 1
 androgynic
 anticreative
 accessaryship
@@ -464,7 +464,7 @@ authorities
 angiotomy
 aggrandizing
 anagignoskomena
-ascot
+ascot 1
 antinarcotic
 abiotical
 anklebone
@@ -698,7 +698,7 @@ aborted
 antiscorbutic
 abortient
 anacardic
-assuring
+assuring 1
 anticipator
 athwartship
 aphroditidae
@@ -1257,7 +1257,7 @@ acromia
 acanthopterygii
 archeus
 acanthuridae
-acanthuthi
+acanthuthi 1
 ascetical
 adenocarcinomata
 articulator
@@ -1285,7 +1285,7 @@ awaiters
 acarines
 achromasia
 alacritous
-anucleate
+anucleate 1
 acontias
 arteriodiastasis
 acarocecidium
@@ -2185,7 +2185,7 @@ arend
 apiculate
 achymia
 acuminated
-azobenzol
+azobenzol 1
 amphophilous
 adspiration
 anthophilian 1
@@ -2652,7 +2652,7 @@ armenite
 actutate
 arriswise
 acquiesce
-almoin
+almoin 1
 adrian
 addiction
 apparatus
@@ -2964,7 +2964,7 @@ acrostic
 accidentiality
 anacromyodian
 armamentary
-advisive
+advisive 1
 aerobatics
 albugineous
 acrostichoid
@@ -4318,7 +4318,7 @@ archesporium
 anchoretish
 adrenalectomize
 aumous
-adrenalin
+adrenalin 1
 aparejo
 acquiesced
 adrenalize
@@ -4530,7 +4530,7 @@ aerobiotically
 admiralty
 adventitiousness
 archdemon
-adventive
+adventive 1
 adventively
 apaesthesia
 alencons
@@ -5053,7 +5053,7 @@ areolation
 apologising
 alkylogen
 anile
-aerophyte
+aerophyte 1
 airfield
 antiparagraphe
 alloeostropha
@@ -5094,7 +5094,7 @@ androgyneity
 aerosteam
 arised
 aerotaxis
-agacant
+agacant 1
 autoecous
 argo
 ablush
@@ -5771,7 +5771,7 @@ ascrive
 acop
 amant
 arrowwood
-adaty
+adaty 1
 antisacerdotal
 anabaenas
 agapai
@@ -6162,7 +6162,7 @@ akaniaceae
 amphizoidae
 aglint
 arbitrated
-alfaquis
+alfaquis 1
 ahey
 autocytolytic
 alois
@@ -6495,7 +6495,7 @@ ameliorant
 auxanology
 aphroditic
 adams
-acidaemia
+acidaemia 1
 agunah
 avoidance
 arrosion
@@ -6658,7 +6658,7 @@ anodynous
 apterous
 augustal
 astropecten
-anathematize
+anathematize 1
 aquinas
 aldeament
 antidomestically
@@ -7244,7 +7244,7 @@ anadipsia
 accommodative
 algorist
 alalonga
-aurodiamine
+aurodiamine 1
 ambidexterity
 alalus
 androl
@@ -7301,7 +7301,7 @@ abamps
 alarmedly
 alarmingly
 aftercure
-aurantiaceae
+aurantiaceae 1
 assn
 alarmingness
 adcons
@@ -8078,7 +8078,7 @@ alleging
 antimoniureted
 alfaje
 alfaki
-alfalfas
+alfalfas 1
 anapaest
 algesia
 alfaqui
@@ -8420,7 +8420,7 @@ alisphenoidal
 achaemenid
 asynapsis
 aliter
-archaiser
+archaiser 1
 ality
 apocentricity
 alphabeting
@@ -9936,7 +9936,7 @@ anacoenosis
 amating
 atrophous
 alumstone
-amornings
+amornings 1
 antiballistic
 assacu
 awaste
@@ -10312,7 +10312,7 @@ atoll
 aftaba
 allocaffeine
 amenably
-aluminography
+aluminography 1
 assess
 amenance
 amydon
@@ -12176,7 +12176,7 @@ astrodynamic
 arterioverter
 acedia
 anatomicopathologic
-arteriofibrosis
+arteriofibrosis 1
 anatomiser
 anatomize
 anopsy
@@ -13250,7 +13250,7 @@ alleviant
 animist
 antigraft
 aecium
-antisilverite
+antisilverite 1
 alloplasmic
 animistic
 anabatic
@@ -14362,7 +14362,7 @@ anthicidae
 adroiter
 arthroplastic
 amercements
-anthills
+anthills 1
 anthine
 amnesic
 anthypnotic
@@ -14675,7 +14675,7 @@ atle
 antianaphylaxis
 anakinetomer
 antiangular
-autocarp
+autocarp 1
 antiannexation
 angioplany
 antiannexationist
@@ -18247,7 +18247,7 @@ apiales
 alectorioid
 ashet
 adjument
-aquopentamminecobaltic
+aquopentamminecobaltic 1
 arcady
 aquose
 analogistic
@@ -18517,7 +18517,7 @@ azoturias
 assassinating
 adulteress
 arbores
-aequipalpia
+aequipalpia 1
 arborescently
 arango
 aphrodisia
@@ -18566,7 +18566,7 @@ arborway
 arbota
 arbour
 amazeful
-arboured
+arboured 1
 abbate
 aedoeology
 amaga
@@ -19009,7 +19009,7 @@ angeluses
 azocochineal
 alar
 abecedarian
-areae
+areae 1
 axonopus
 azelate
 archmocker
@@ -19980,7 +19980,7 @@ arne
 arnee
 astrofell
 advitant
-arnold
+arnold 1
 aptitudinally
 ashweed
 agavose
@@ -20075,7 +20075,7 @@ acantharia
 archespores
 adenization
 anthomyia
-acmic
+acmic 1
 armenia
 agentive 1
 alderflies
@@ -20336,7 +20336,7 @@ aistopod
 arsenization
 acrologically
 amphimacer
-acanthodidae
+acanthodidae 1
 arsenobenzol
 ankylocheilia
 ascogonial
@@ -21054,7 +21054,7 @@ asporous
 asclepiadaceae
 asclepiadae
 avengingly
-aircheck
+aircheck 1
 asclepiadean
 airwaves
 asclepiadic
@@ -21294,7 +21294,7 @@ alpheratz
 averaged
 asideu
 asylabia
-acalyptrata
+acalyptrata 1
 abscess
 akhissar
 asilidae
@@ -21309,7 +21309,7 @@ azonic
 asymbolic
 arums
 asymbolical 1
-asimmer
+asimmer 1
 animalhood
 argentide
 allotype
@@ -22979,7 +22979,7 @@ aeolism
 anhelation
 antilysis
 atroceruleous
-afgod
+afgod 1
 arenicole
 aroynted
 atrochous
@@ -24682,7 +24682,7 @@ asteer
 arabized
 actinidia
 anastrophia
-archimage
+archimage 1
 autostylic
 averagely
 averaging
@@ -25154,7 +25154,7 @@ aspirated
 axites
 assault
 anacanthini
-accommodatingly
+accommodatingly 1
 antimonious
 axled
 apophylactic
