@@ -219,7 +219,7 @@ abolishments
 acridyl
 ambystomidae
 apotactite
-alantolic
+alantolic 1
 apteran
 acology
 advantage
@@ -711,7 +711,7 @@ autotoxaemia
 abortional
 antiglobulin 1
 abortionists
-ariot
+ariot 1
 aminating
 aspern
 absorbency
@@ -2193,7 +2193,7 @@ abbaye
 amortissement
 algebraization
 arborized
-achiness
+achiness 1
 achinesses
 aching
 achiotes
@@ -2334,7 +2334,7 @@ acetamid
 accessless
 acidiferous
 argil
-aneurin
+aneurin 1
 arbtrn
 axletrees
 adderfish
@@ -2844,7 +2844,7 @@ acrogen
 anaesthetics
 acrolein
 amylenes
-antianthropocentric
+antianthropocentric 1
 antireactionary
 acroleins
 acrolithan
@@ -2972,7 +2972,7 @@ acrostichum
 adoptianism
 acrosticism
 axiomatized
-areawide
+areawide 1
 antiliberalist
 acroteleutic
 acception
@@ -3078,7 +3078,7 @@ autotomy
 appriser
 actinolitic
 anthropogenesis
-antimeson
+antimeson 1
 aland
 atonics
 agapemonite
@@ -3451,7 +3451,7 @@ apostemation
 argosies
 alliaria
 adaptorial
-atrophias
+atrophias 1
 allotransplant
 assemblywoman
 auxil
@@ -4287,7 +4287,7 @@ anthropomorphisation
 arsenotherapy
 alright
 antioxidizer
-assemblement
+assemblement 1
 autosuggest
 aclastic
 adposition
@@ -4566,7 +4566,7 @@ antebridal
 adverbial
 adverbially
 autographical
-acloud
+acloud 1
 aggerose
 adverbiation
 atticism
@@ -4610,7 +4610,7 @@ atypicality
 advice
 advices
 affectional
-atomatic
+atomatic 1
 antas
 advisableness
 amidon
@@ -4979,7 +4979,7 @@ alluvivia
 arake
 aerohydrous
 archagitator
-anoestrus
+anoestrus 1
 aerolite
 argumentatory
 apterygogenea
@@ -4990,7 +4990,7 @@ aerolites
 avulsions
 admonitioner
 antepalatal
-aerolitic
+aerolitic 1
 aerological
 antepartum
 aeromancer
@@ -5604,7 +5604,7 @@ afterreckoning
 audiotypist
 auxofluor
 andiroba
-absolute
+absolute 1
 afters
 amphibrach
 allomerism
@@ -6267,7 +6267,7 @@ ajoure
 ambrosio
 arvicolinae
 avelonge
-annulettee
+annulettee 1
 allodian
 agonizedly
 agabanee
@@ -6302,7 +6302,7 @@ agouara
 acetoacetic
 amarth
 antioptimist
-anachronically
+anachronically 1
 agoutis
 arthrodynic
 adience
@@ -6838,7 +6838,7 @@ ammonify
 airdrome
 airdromes
 advertizing
-apart
+apart 1
 airdropping
 aired
 anabolic
@@ -7989,7 +7989,7 @@ arenicolous
 alkalis
 acetphenetidin
 aletap
-actos
+actos 1
 autarchy
 arabin
 arabist
@@ -8543,7 +8543,7 @@ alkylic
 antiphonetic
 alkylidene
 afterburners
-autocoids
+autocoids 1
 astronautics
 actinotrocha
 aborts
@@ -9442,7 +9442,7 @@ adverts
 alsike
 actinolite
 aspersoir
-arbitrage
+arbitrage 1
 avoir
 alsmekill
 antidancing
@@ -9744,7 +9744,7 @@ alveololingual
 aggregatae
 alveolosubnasal
 accustomized
-antagonising
+antagonising 1
 alvissmal
 antirabic
 actinical
@@ -10113,7 +10113,7 @@ amblystegite
 autodialer
 amblotic
 apostrophizing
-arenosity
+arenosity 1
 anythings
 ambo
 acanthin
@@ -11904,7 +11904,7 @@ adendric
 albescent
 alconde
 analogousness
-analogue
+analogue 1
 analphabet
 analphabete
 amphibium
@@ -12340,7 +12340,7 @@ asthmatic
 antiblennorrhagic
 alysson
 anticipate
-anconas
+anconas 1
 anconeus
 aeroneurosis
 ancony
@@ -12747,7 +12747,7 @@ angelized
 angellike
 auf
 angelolatry
-arthrography
+arthrography 1
 apodioxis
 awarrant
 anoretic
@@ -13229,7 +13229,7 @@ areosystyle
 animato
 autohypnotically
 anociation
-agrimotor
+agrimotor 1
 anteva
 animes
 alienship
@@ -16527,7 +16527,7 @@ athyridae
 aortal
 aortarctia
 aortas
-avogadro
+avogadro 1
 aegagri
 antheral
 amadis
@@ -16858,7 +16858,7 @@ aphthartodocetic
 acromonogrammatic
 aphthong
 arkite
-admittedly
+admittedly 1
 apyrene
 anaerobe
 apiaca
@@ -17274,7 +17274,7 @@ allanites
 apnoeas
 autobiographal
 actinidiaceae
-asserting
+asserting 1
 aporias
 androsace
 antifederal
@@ -18361,7 +18361,7 @@ antrotome
 albuginaceae
 adcraft
 araire
-amphigory
+amphigory 1
 appendage
 araise
 aronia
@@ -19910,7 +19910,7 @@ abstrusenesses
 antileukemic
 autohemorrhage
 aplopappus
-armors
+armors 1
 aqueous
 apophyge
 acle
@@ -19972,7 +19972,7 @@ alexipharmacon
 amines
 arnberry
 adenotome
-alkanol
+alkanol 1
 address
 antiscientifically
 announcements
@@ -20194,7 +20194,7 @@ amphidetic
 atrophies
 acanth
 assaulting
-abdominoscope
+abdominoscope 1
 arrhenal
 arrhenatherum
 afterburner
@@ -20685,7 +20685,7 @@ aleuroscope
 argemony
 anoa
 actinons
-acrobatholithic
+acrobatholithic 1
 asterion
 archenia
 anthesteriac 1
@@ -20793,7 +20793,7 @@ angico
 assimilated
 autophobia
 alicant
-alienors
+alienors 1
 artlessness
 adverseness
 animalcule
@@ -20872,13 +20872,13 @@ asana
 aconitin
 arachnidism
 avalvular
-arcate
+arcate 1
 antiparasitically
 acetose
 ashiver
 atherosperma
 asaphia
-ambulators
+ambulators 1
 azotized
 aerosinusitis
 asaphidae
@@ -21177,7 +21177,7 @@ anagogical
 assiduate
 arginases
 atomicism
-aseptolin
+aseptolin 1
 alighted
 adipous
 asexualisation
@@ -21255,7 +21255,7 @@ anticonformist
 ashrama
 alloxanate
 ashtoreth
-anorchus
+anorchus 1
 aspartic
 anchat
 anonyma
@@ -21815,7 +21815,7 @@ aphacial
 assessors
 anthophile
 apotheose
-animals
+animals 1
 antiquarium
 asseveration
 apaesthetic
@@ -23539,7 +23539,7 @@ auhuhu
 aularian
 assagai
 accipenser
-auksinas
+auksinas 1
 allotropy
 andalusite
 aldeia
@@ -23741,7 +23741,7 @@ anisuria
 aurums
 alopecurus
 auscultascope
-adzes
+adzes 1
 andropetalar
 academic
 auscultates
@@ -23856,7 +23856,7 @@ amices
 autoerotic
 ascanian
 autarchic
-arrowweed
+arrowweed 1
 autarchically
 auxesis
 ashlaring
