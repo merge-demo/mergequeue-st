@@ -4610,7 +4610,7 @@ atypicality
 advice
 advices
 affectional
-atomatic
+atomatic 1
 antas
 advisableness
 amidon
