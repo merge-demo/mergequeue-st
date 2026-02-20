@@ -5136,7 +5136,7 @@ endogenous
 enlistment
 echar
 electo
-embroider
+embroider 1
 endoglobular
 eleme
 existibility
