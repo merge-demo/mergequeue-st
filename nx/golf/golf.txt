@@ -53,7 +53,7 @@ groats
 graperies
 gedact
 gangue
-glaucolite
+glaucolite 1
 guemal
 geometrine
 gelatinousness
@@ -525,7 +525,7 @@ geophagist
 gogo
 gonadotrophin
 gritten
-grapiest
+grapiest 1
 germinates
 gastromelus
 gascons
@@ -915,7 +915,7 @@ guna
 gambia
 gunners
 garblings
-garnishable
+garnishable 1
 gemeinschaften
 guidership
 gelsemiumia
@@ -1736,7 +1736,7 @@ giaour
 guberla
 gandharva
 gynopara
-geminately
+geminately 1
 glycolipin
 gomerils
 geochronologic
@@ -1791,7 +1791,7 @@ guiltiest
 golandause
 grushie
 granat
-gymnospermae
+gymnospermae 1
 gratility
 gaggling
 gouts
@@ -1821,7 +1821,7 @@ gossypium
 gatemaker
 gladfully
 ghibli
-glyconics
+glyconics 1
 gerhardtite
 gregory
 grandfer
@@ -2097,7 +2097,7 @@ gazebo
 gazeboes
 guestship
 grassing
-gastrostomies
+gastrostomies 1
 glumiferous
 galla
 graced
@@ -2111,7 +2111,7 @@ garth
 galeiform
 gynocratic
 ganglands
-guillermo
+guillermo 1
 gazette
 ginnet
 gumshoing
@@ -2268,7 +2268,7 @@ geomorphologist
 guerdonless
 gestant
 grosse
-gripmen
+gripmen 1
 geological
 gonangia
 gooseberry
@@ -2290,7 +2290,7 @@ guaranis
 gondoliere
 ge
 gagsters
-gingival
+gingival 1
 guige
 gerocomy
 gerard
@@ -2410,7 +2410,7 @@ gekkones
 gimels
 grillage
 graniferous
-gotched
+gotched 1
 glycohemia
 gainsayer
 ghoulish
@@ -2595,7 +2595,7 @@ galluot
 genesial
 genesitic
 glees
-genethliacal
+genethliacal 1
 gabelled
 glaciomarine
 givens
@@ -3347,7 +3347,7 @@ gethsemanic
 glimpsing
 greeks
 gerocomical
-gerodontic
+gerodontic 1
 geobiont
 gothicist
 gerontic
@@ -3629,7 +3629,7 @@ gory
 ghost
 gnathonism
 gnathometer
-gasoliner
+gasoliner 1
 grubbery
 glyceral
 gulist
@@ -3806,7 +3806,7 @@ giftwrapping
 genepi
 gazeless 1
 gorgonesque
-goats
+goats 1
 gushing
 goatees
 gruffed
@@ -3861,7 +3861,7 @@ glossem
 geminated
 glens
 glossocarcinoma
-grossly
+grossly 1
 gubbertush
 grecing
 gawkies
@@ -4900,7 +4900,7 @@ ganancias
 goldic
 gymnogen
 gawker
-galling
+galling 1
 glew
 goodwilled
 gigantic
@@ -5543,7 +5543,7 @@ georgical
 gadus
 goffle
 glycerizine
-grandames
+grandames 1
 gconvert
 guars
 glare
@@ -5705,7 +5705,7 @@ ghillies
 glamberry
 gadroons
 glendale
-glossocele
+glossocele 1
 graian
 gaduin
 gallicize
@@ -6057,7 +6057,7 @@ grizelin
 girlishness
 guly
 gallature
-grinding
+grinding 1
 gastrocnemial
 gypsography
 gph
@@ -6103,7 +6103,7 @@ geissorhiza
 griege
 genep
 geitonogamous
-gnomologist
+gnomologist 1
 gyroma
 greit
 greatly
@@ -6425,7 +6425,7 @@ goburra
 glucidic
 gems
 gigartina
-gregorian
+gregorian 1
 grandeeship
 geneses
 gallivanted
@@ -6539,7 +6539,7 @@ gleeman
 gastrologists
 gomer
 gesten
-grew
+grew 1
 gurrah
 gpss
 glutting
@@ -6907,7 +6907,7 @@ galacthidrosis
 geochemically
 gongoristic
 goodishness
-grallatores
+grallatores 1
 guserid
 glore
 gastight
@@ -8246,7 +8246,7 @@ goldbug
 gutturalising
 gnosticism
 greater
-gallowsmaker
+gallowsmaker 1
 grossers
 glam
 geranin
@@ -8639,7 +8639,7 @@ gullied
 gambol
 goslarite
 gregge
-guidwilly
+guidwilly 1
 gotos
 glomus
 gimbaling
@@ -9057,7 +9057,7 @@ galbraithian
 gilguy
 galoshes
 gateways
-gomasta
+gomasta 1
 gothlander
 gristbite
 grateful
@@ -9470,7 +9470,7 @@ grassiest
 gluish
 gabriella
 glaciate
-grumbling
+grumbling 1
 goldfinnies
 gaseously
 griffonne
@@ -9531,7 +9531,7 @@ garden
 groupist
 genipapada
 guar
-genual
+genual 1
 grs
 gristliness
 groundkeeper
@@ -9956,7 +9956,7 @@ gazetted
 gamasoidea
 guaiocums
 groset
-glossmeter
+glossmeter 1
 groundman
 guatibero
 grysbok
@@ -10212,7 +10212,7 @@ gastradenitis
 glamourously
 geissospermin
 gainsays
-gowpin
+gowpin 1
 gweduck
 grovelingly
 gobbet
@@ -10568,7 +10568,7 @@ guebre
 grecoue
 giftedly
 gurmukhi
-goffering
+goffering 1
 grasshouse
 griphus
 gneissitic
@@ -10633,7 +10633,7 @@ griseous
 gunstocker
 geronto
 girns
-glimmerous
+glimmerous 1
 grillades 1
 gambette
 greenly
@@ -10750,7 +10750,7 @@ garnish
 gesticulatory
 gournard
 groggy
-gustiest
+gustiest 1
 geromorphism
 galewort
 glyphograph
