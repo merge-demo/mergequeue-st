@@ -6872,7 +6872,7 @@ cashbox
 celt
 cofaster
 celtiberian
-celticize
+celticize 1
 counterwill
 celtidaceae
 celtiform
