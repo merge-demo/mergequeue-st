@@ -4920,7 +4920,7 @@ euhemerize
 entropy
 exencephalic
 ectocoelic
-eyelight
+eyelight 1
 emporetic
 eurytomid
 emulsifiers
