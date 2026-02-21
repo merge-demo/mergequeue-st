@@ -4415,7 +4415,7 @@ gregarianism
 grazierdom 1
 grainsickness
 gosplan
-gammelost
+gammelost 1
 graminology
 gommelin
 grandsire
@@ -5187,7 +5187,7 @@ guiler
 gripsacks
 galletas
 guttae
-groundsheet
+groundsheet 1
 gale
 gleamless
 georgic
