@@ -2270,7 +2270,7 @@ exormia
 enbloc
 eyelets
 endolymph
-excretal
+excretal 1
 eger
 egest
 equality
