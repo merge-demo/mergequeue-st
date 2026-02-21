@@ -7742,7 +7742,7 @@ flavour
 foremen
 fanbearer
 ferroprussic
-fractionize
+fractionize 1
 flyflower
 flawed
 fabliau
