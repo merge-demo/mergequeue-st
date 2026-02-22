@@ -5720,7 +5720,7 @@ doodler
 dewormed
 depopulation
 denitrize
-debeak
+debeak 1
 dowve
 disimitation
 demipuppet
