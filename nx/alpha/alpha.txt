@@ -6527,7 +6527,7 @@ ahull
 ascomata
 anacrustic
 airward
-amicableness
+amicableness 1
 ahunt
 azocyclic
 ahuula
