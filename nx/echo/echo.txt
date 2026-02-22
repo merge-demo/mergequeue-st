@@ -5275,7 +5275,7 @@ enchest
 emulsionize
 engrafting
 ecmnesia
-endorsable
+endorsable 1
 excerpt
 extravagation
 enrolles
