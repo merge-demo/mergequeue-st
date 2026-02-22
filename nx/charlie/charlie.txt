@@ -29841,7 +29841,7 @@ cross
 circummeridian
 cablets
 coronillo
-chronos
+chronos 1
 chuckler
 calculate
 crossband
