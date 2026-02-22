@@ -18507,7 +18507,7 @@ downcast
 divorced 1
 duraspinalis
 diacritic
-duration
+duration 1
 durations
 durbachite
 dustwoman
