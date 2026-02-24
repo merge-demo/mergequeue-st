@@ -11913,7 +11913,7 @@ eyr
 enhypostatic
 entrepreneurship
 epiphytes
-emissivity
+emissivity 1
 emends
 eightfoil
 earthing
