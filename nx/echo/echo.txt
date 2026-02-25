@@ -11672,7 +11672,7 @@ equippers
 eliminations
 eburnian
 enfire
-exactitude
+exactitude 1
 electrohydraulic
 emissaryship
 eleusinian
