@@ -16625,7 +16625,7 @@ confining
 cantref
 cloque
 cloques
-cathodically
+cathodically 1
 cimaroon
 clewed
 clos
