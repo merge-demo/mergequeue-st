@@ -528,7 +528,7 @@ damageability
 damageably
 detonatable
 damaged
-detort
+detort 1
 damageous
 deaccessions
 dovyalis
