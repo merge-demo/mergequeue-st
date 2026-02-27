@@ -6572,7 +6572,7 @@ esperantidist 1
 enseam
 expulsatory
 eructed
-execrate
+execrate 1
 endlichite
 easterliness
 enteroepiplocele
