@@ -28501,7 +28501,7 @@ creatures
 coruscant
 carapo
 creatureship
-conversibility
+conversibility 1
 creaturize
 churchanity
 crebricostate
