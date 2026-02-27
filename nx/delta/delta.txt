@@ -15205,7 +15205,7 @@ depreciated
 downing
 defamers
 dolisie
-deny
+deny 1
 dolite 1
 dolium
 darogha
