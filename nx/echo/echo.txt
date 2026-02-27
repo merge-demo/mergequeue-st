@@ -8225,7 +8225,7 @@ emulate
 endolaryngeal
 eyrar
 endplay
-epacrid
+epacrid 1
 enlaurel
 epitheliomatous
 epitaphian
