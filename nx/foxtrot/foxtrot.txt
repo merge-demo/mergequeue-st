@@ -2605,7 +2605,7 @@ fibrillation
 fangle
 featherlight
 filthy
-feoffed
+feoffed 1
 fancily
 foresheet
 ferromanganese
