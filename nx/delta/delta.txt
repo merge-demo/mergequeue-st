@@ -18603,7 +18603,7 @@ dust
 delphian
 dustbins
 distance
-dustcover
+dustcover 1
 diatonicism
 dustee
 dusters
