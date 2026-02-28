@@ -4395,7 +4395,7 @@ gpd 1
 gleba
 gluttony
 galloman
-graphicalness
+graphicalness 1
 gaultherine
 geese
 gipon
