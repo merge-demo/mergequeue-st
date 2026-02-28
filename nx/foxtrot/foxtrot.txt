@@ -7562,7 +7562,7 @@ flattops
 foretake
 fructokinase
 funebrial
-forswornness
+forswornness 1
 formers
 falconries
 fragor
