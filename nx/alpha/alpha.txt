@@ -15956,7 +15956,7 @@ arnut
 amenities
 angloman
 appointor 1
-autorotate
+autorotate 1
 antiq
 antiqua
 acetylated
