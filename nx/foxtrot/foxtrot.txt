@@ -5295,7 +5295,7 @@ foreinstruct
 farmsteads
 frightless
 fogbound
-flukes
+flukes 1
 fluoridize
 fretters
 flain
