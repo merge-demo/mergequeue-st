@@ -4552,7 +4552,7 @@ depths
 disusing
 detected
 digitigrade
-dewatering
+dewatering 1
 decretal
 demiox
 dharmasmriti
