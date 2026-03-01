@@ -9534,7 +9534,7 @@ formaliter
 fissiparousness
 flatbottom
 forejudger
-forbreak
+forbreak 1
 forbidden
 floatman
 florets
