@@ -3048,7 +3048,7 @@ deescalate
 dyehouse
 deeses
 deepfrozen
-deemphasize
+deemphasize 1
 downward
 diestock
 diuretic
