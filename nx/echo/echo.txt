@@ -9314,7 +9314,7 @@ endosiphon
 encrusted
 erugos
 escapage
-eruptible
+eruptible 1
 eruption
 ellen
 eruptive
