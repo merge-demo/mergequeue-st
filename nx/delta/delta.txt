@@ -3825,7 +3825,7 @@ dichroiscope
 diatropic
 deionize
 dephlegm
-deselects
+deselects 1
 disinteresting
 dissceptred
 decorationist
