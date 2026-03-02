@@ -6672,7 +6672,7 @@ guttler
 grint
 gibbet
 gulae
-growable
+growable 1
 gromatic
 geochronometry
 gibbergunyah
