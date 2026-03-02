@@ -3634,7 +3634,7 @@ flook
 farmable
 fridstool
 flashing
-faintishness
+faintishness 1
 fielder
 floatsman
 froglets
