@@ -9988,7 +9988,7 @@ derv
 disconnectiveness 1
 dimorph
 dimorphism
-dissatisfactorily
+dissatisfactorily 1
 dally
 disparted
 desophisticate
