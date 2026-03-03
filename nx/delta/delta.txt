@@ -10439,7 +10439,7 @@ damask
 discolith
 devinct
 disinflame
-dow
+dow 1
 douzainier
 diplomatism 1
 demibath
