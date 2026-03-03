@@ -2137,7 +2137,7 @@ detectors
 deskman
 diabolology
 disturbs
-diosmosis
+diosmosis 1
 decantist
 decaffeinated
 decapitation
