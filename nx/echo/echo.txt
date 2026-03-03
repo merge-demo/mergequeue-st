@@ -3887,7 +3887,7 @@ extraboldface
 eminencies 1
 evendown
 exterminating
-eminent
+eminent 1
 endorsor
 easternized
 esperance
