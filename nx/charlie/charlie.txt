@@ -22025,7 +22025,7 @@ confiscatable
 cynebot
 confiscate
 countertrend
-crois
+crois 1
 chookies
 count
 confiscates
