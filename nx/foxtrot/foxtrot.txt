@@ -4867,7 +4867,7 @@ forearm
 froglet 1
 ferocities
 formalness
-followable
+followable 1
 flails
 feuilletonism
 furoic
