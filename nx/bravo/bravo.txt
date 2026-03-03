@@ -8140,7 +8140,7 @@ bidiagonal
 binucleate
 barble
 biding
-bidirectional
+bidirectional 1
 biophagy
 bhumij
 beliefs
