@@ -1675,7 +1675,7 @@ fearless
 freighted
 forehammer
 fondlike
-frangible
+frangible 1
 ferrament
 fleeching
 furnace
