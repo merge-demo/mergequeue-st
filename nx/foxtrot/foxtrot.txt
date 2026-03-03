@@ -3894,7 +3894,7 @@ footslogged
 febriferous
 fluidextract
 findable
-fruz
+fruz 1
 familiarize
 function
 findhorn
