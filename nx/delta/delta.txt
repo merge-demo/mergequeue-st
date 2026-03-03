@@ -2544,7 +2544,7 @@ declass
 dimorphs
 dweller
 declassification 1
-declassifies
+declassifies 1
 diplophonic
 disequality
 dematerialize
