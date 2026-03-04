@@ -4172,7 +4172,7 @@ fingent
 floodtime
 firebrick
 fecifork
-foulmouthed
+foulmouthed 1
 fictionary
 firebug
 fumiduct
