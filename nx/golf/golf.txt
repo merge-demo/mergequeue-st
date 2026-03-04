@@ -1081,7 +1081,7 @@ gypsums
 gegenion
 glares
 guarding
-graphicness
+graphicness 1
 galactolipin
 goularo 1
 glossopharyngeal
