@@ -6811,7 +6811,7 @@ airbusses
 antibias
 axometer
 archsacrificer
-arid
+arid 1
 altars
 aircraftmen
 allotriomorphic
