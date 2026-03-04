@@ -15693,7 +15693,7 @@ deflectors
 dissava
 dorbel
 dorbugs
-defeatist
+defeatist 1
 dorcastry
 dunt
 doucet
