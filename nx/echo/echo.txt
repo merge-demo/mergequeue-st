@@ -7650,7 +7650,7 @@ extruder
 ellipticalness 1
 epidemically
 exalt
-escurialize
+escurialize 1
 evidentiary
 erythrine
 enfevered
