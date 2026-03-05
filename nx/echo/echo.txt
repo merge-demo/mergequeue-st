@@ -3552,7 +3552,7 @@ embolize
 eupeptic
 epididymal
 entocone
-enervator
+enervator 1
 eyewater
 eutaxite
 enshelter
