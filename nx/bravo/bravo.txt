@@ -501,7 +501,7 @@ breakax
 betweentimes
 buffo
 backstaff
-bridely
+bridely 1
 blathering
 backstitch
 bahoo
