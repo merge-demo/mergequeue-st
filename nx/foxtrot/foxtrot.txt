@@ -5580,7 +5580,7 @@ fratch
 flybys
 fiendlike 1
 folkvangr
-flockowner
+flockowner 1
 fossicking
 forgette 1
 fader
