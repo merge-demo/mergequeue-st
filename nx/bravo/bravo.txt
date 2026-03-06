@@ -270,7 +270,7 @@ boltuprightness 1
 belar
 back
 brachiocubital
-backache
+backache 1
 bocardo
 backadation
 brumbies
