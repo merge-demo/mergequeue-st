@@ -5752,7 +5752,7 @@ fmt
 foredeserved 1
 fecket
 facultize
-fringepod
+fringepod 1
 flyspecking
 folate
 forenoons
