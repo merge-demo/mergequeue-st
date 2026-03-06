@@ -2895,7 +2895,7 @@ bilocation
 beads
 bottleful
 broadcasts
-broadthroat
+broadthroat 1
 biverbal
 beclatter 1
 bestride
