@@ -11917,7 +11917,7 @@ disbloom
 disembarks
 dentifrices
 degum
-decrease
+decrease 1
 dyable
 deliberation
 deutovum 1
