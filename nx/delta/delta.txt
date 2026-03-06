@@ -15502,7 +15502,7 @@ disquisitorial
 desensitize
 dongola
 drams
-decrew
+decrew 1
 doni
 diopsides
 deliquesced
