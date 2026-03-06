@@ -7456,7 +7456,7 @@ flutelike
 forcipressure
 faulx
 fenestrule
-frigidoreceptor
+frigidoreceptor 1
 foy
 fossick
 feigning
