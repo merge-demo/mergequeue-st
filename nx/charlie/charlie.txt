@@ -2218,7 +2218,7 @@ calcaneus
 cample
 campimetry
 cordyline
-cornamute
+cornamute 1
 campo
 creedbound
 campodeoid
@@ -3504,7 +3504,7 @@ capsizes
 capsizing
 capernaitish
 capsomere
-capsomers
+capsomers 1
 capstan
 capstans
 capstone
@@ -15251,7 +15251,7 @@ chivalry
 capricornus
 clamjamfery
 clammed
-caramelizes
+caramelizes 1
 cenacles
 clammy
 cardiagraph
@@ -17534,7 +17534,7 @@ cocamama
 cocao
 chaneling
 caped
-cocarde
+cocarde 1
 chomped
 cocash 1
 cocause
@@ -22162,7 +22162,7 @@ colpeurynter 1
 confrerie
 cass
 confricamentum
-counsellors
+counsellors 1
 confrontation
 confrontationist
 chimopeelagic
@@ -31462,7 +31462,7 @@ caulking
 countermen
 crewelist
 cuckoldry
-curred
+curred 1
 contorta
 cancellus
 current
