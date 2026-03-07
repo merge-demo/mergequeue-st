@@ -1887,7 +1887,7 @@ bandfile
 burdon
 brownism
 blobbiness
-bipolarization
+bipolarization 1
 brython
 birken
 bandhook
