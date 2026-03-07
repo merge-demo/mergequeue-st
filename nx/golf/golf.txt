@@ -7596,7 +7596,7 @@ geneserin
 gillotype
 gelatiniferous
 grounded
-generability
+generability 1
 grinagog
 gypsying
 gambet
