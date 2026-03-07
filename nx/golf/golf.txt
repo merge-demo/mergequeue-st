@@ -1944,7 +1944,7 @@ garnishments 1
 gnomonical
 gimbal
 geology
-glasslikeness
+glasslikeness 1
 geranic
 goring
 grubroot
