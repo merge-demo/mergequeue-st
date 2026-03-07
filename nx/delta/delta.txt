@@ -6453,7 +6453,7 @@ disbark 1
 desamidase
 dirian
 desands
-demobs
+demobs 1
 desc
 didicoy
 downrightly
