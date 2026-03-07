@@ -3011,7 +3011,7 @@ deeper
 dealings 1
 dies
 dismantling
-deepfreeze
+deepfreeze 1
 dilettantish
 deepgoing
 demonstrativeness
