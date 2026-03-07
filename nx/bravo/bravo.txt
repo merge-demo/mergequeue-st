@@ -2668,7 +2668,7 @@ barleycorn
 bilge
 bimensal
 bable
-bribeable
+bribeable 1
 barling 1
 barghest
 breechloader
