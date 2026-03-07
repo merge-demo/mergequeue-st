@@ -753,7 +753,7 @@ genae 1
 galvanoplasty 2
 grovers
 gansa
-gestapos
+gestapos 1
 grapewise
 gerim
 gunbearer
