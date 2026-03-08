@@ -3047,7 +3047,7 @@ detest
 deescalate
 dyehouse
 deeses
-deepfrozen
+deepfrozen 1
 deemphasize 1
 downward
 diestock
