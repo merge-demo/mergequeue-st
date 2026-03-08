@@ -6742,7 +6742,7 @@ biangulate
 betimes
 berossos
 beround
-bendability
+bendability 1
 berreaves
 berret
 berrettas
