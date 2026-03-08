@@ -5423,7 +5423,7 @@ fabricators
 forefigure
 furor
 flurt
-fittingness
+fittingness 1
 flagellula
 fault
 freezing
