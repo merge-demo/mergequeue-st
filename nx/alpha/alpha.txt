@@ -2478,7 +2478,7 @@ azygos 1
 argemone
 afterfeed
 aftertime
-armoured
+armoured 1
 ackmen
 acanthocephali
 algonquin
