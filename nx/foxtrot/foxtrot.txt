@@ -6509,7 +6509,7 @@ forgie
 farweltered
 fip
 failsoft 1
-frapping
+frapping 1
 ft
 forspread
 foldskirt
