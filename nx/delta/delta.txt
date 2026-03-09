@@ -5254,7 +5254,7 @@ dissimulate
 degressively
 disabled 1
 downhearted
-darkener
+darkener 1
 dentalia
 dentalism
 dodoes
