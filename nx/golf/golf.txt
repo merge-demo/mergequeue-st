@@ -5581,7 +5581,7 @@ grabman
 gambroon
 groundwall
 goldseed
-grisping
+grisping 1
 gnomonologically 1
 giobertite
 guayroto
