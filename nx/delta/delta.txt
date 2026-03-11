@@ -10587,7 +10587,7 @@ drudger
 decremental
 deben
 despecialization
-decolorizing
+decolorizing 1
 diplomates
 diplomatically
 diethyl
