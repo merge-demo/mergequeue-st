@@ -14901,7 +14901,7 @@ bingies
 bloodthirstier
 breadwinning
 breakability
-breakable
+breakable 1
 breakaxe
 bitterless
 bilipurpurin
