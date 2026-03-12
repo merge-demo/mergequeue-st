@@ -6239,7 +6239,7 @@ gregorianizer
 gob
 greediness 1
 gadslid 1
-gobber
+gobber 1
 gazettes
 goateed 1
 guitarlike
