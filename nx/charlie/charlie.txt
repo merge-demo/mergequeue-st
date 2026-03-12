@@ -27078,7 +27078,7 @@ caplock
 croupily
 clerking
 counterprotection
-counterpuncture
+counterpuncture 1
 counterpush
 counterquartered
 caneva
