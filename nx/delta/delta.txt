@@ -1507,7 +1507,7 @@ dcb
 depressure 1
 deaccessioning
 dingbats
-draughts
+draughts 1
 dermatorrhea 1
 definiendum
 deformers
