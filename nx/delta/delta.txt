@@ -10438,7 +10438,7 @@ dosimeters 1
 damask 1
 discolith
 devinct
-disinflame
+disinflame 1
 dow 1
 douzainier 1
 diplomatism 1
