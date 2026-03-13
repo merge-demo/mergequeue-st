@@ -11105,7 +11105,7 @@ disattune
 defiling
 diplomacy
 dysautonomia
-disavail
+disavail 1
 dayroom
 discomforted
 dissaves
