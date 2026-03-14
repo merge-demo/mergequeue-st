@@ -4006,7 +4006,7 @@ beslur
 bonyfish
 believer
 beacons
-buoyancy
+buoyancy 1
 beadeye
 beader
 bellmaker
