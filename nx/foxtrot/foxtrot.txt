@@ -5353,7 +5353,7 @@ feedbin
 fettles
 frayn
 flanken 2
-feebleness
+feebleness 1
 fullmouth
 fascia
 flitterbat
