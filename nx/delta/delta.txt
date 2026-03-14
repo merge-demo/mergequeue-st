@@ -9736,7 +9736,7 @@ disapprovable
 descender 1
 decolourization
 dilatometer
-dilatometrically
+dilatometrically 1
 dynamometers
 dcbname 1
 dilatoriness
