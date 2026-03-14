@@ -6705,7 +6705,7 @@ gauges
 gametangia
 gyrostats
 gnarrs
-gabbart
+gabbart 1
 glomerate 1
 globulimeter
 geyseral
