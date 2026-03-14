@@ -8174,7 +8174,7 @@ fanegadas
 fundmonger
 forcepses
 forevers
-forclose
+forclose 1
 foregate
 forthwith
 ferberite
