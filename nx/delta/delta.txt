@@ -5080,7 +5080,7 @@ desexes
 detect
 dola 1
 daubes
-dumber
+dumber 1
 dendrologous
 derivatives
 depth 1
