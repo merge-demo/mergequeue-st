@@ -3785,7 +3785,7 @@ basialveolar
 begger 1
 bobflies
 befleaing
-battute
+battute 1
 burratine
 bacterian
 blephillia
@@ -5865,7 +5865,7 @@ braggingly 1
 boracite
 buttstock
 batholith 1
-bidactyle 1
+bidactyle 2
 beefin 1
 bypaths 1
 beerocracy
@@ -7586,7 +7586,7 @@ bulldozers
 boke
 beshrewed
 breaming
-barbudos
+barbudos 1
 bricole
 bindweeds
 bewilderedly
@@ -9480,7 +9480,7 @@ baconianism
 banya
 bipunctal
 bores
-barbarian
+barbarian 1
 birn
 byrnie
 biotope
@@ -13222,7 +13222,7 @@ blazonry
 blushless
 boustrophedonic
 boskier 1
-bosn
+bosn 1
 balneologist
 brinkless
 bundists 1
@@ -15268,7 +15268,7 @@ bulbospinal
 bricklike 1
 blennoid
 bucketing
-balneal
+balneal 1
 beardom
 bestrewn
 benchers
@@ -15821,7 +15821,7 @@ blare
 beshame
 baldness
 broiling
-brokage
+brokage 1
 brokages
 banande 1
 bihalve
@@ -17576,7 +17576,7 @@ blayne
 boorishly
 blore
 brutally
-belong
+belong 1
 bugle
 burgau
 benzidins

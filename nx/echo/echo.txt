@@ -2717,7 +2717,7 @@ estadal
 euphrates
 eyetooth
 electrostenolytic 1
-enceint
+enceint 1
 equipotent
 electees
 edentate
@@ -4844,7 +4844,7 @@ electrodialyzer
 englishly 1
 eggers
 electrostenolysis
-ensured
+ensured 1
 entablements
 ef
 encumbrance
@@ -8082,7 +8082,7 @@ episcopalianism
 endangium 1
 elvet
 engineered
-encanthis
+encanthis 1
 enclosers
 elutriation
 echelon
@@ -9637,7 +9637,7 @@ espinal
 electrogalvanic
 expressmen
 enters
-eustatic
+eustatic 1
 ensearcher
 espingole
 equaling
@@ -11506,7 +11506,7 @@ etouffe
 erbium
 enlistees
 eidolic
-etchant
+etchant 1
 electrophotometer
 electroconvulsive
 evigilation
@@ -14199,7 +14199,7 @@ epulation
 endlong
 equidistance
 enlists
-effecters
+effecters 1
 enjoyments
 enow
 erotetic
