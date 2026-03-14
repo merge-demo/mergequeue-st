@@ -6349,7 +6349,7 @@ gofer
 gastrotrich
 genit 1
 given
-getspace
+getspace 1
 goldspink
 glimmered
 goosegrass
