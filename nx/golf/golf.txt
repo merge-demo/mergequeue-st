@@ -3264,7 +3264,7 @@ glent
 grabbable
 glosseme
 geodic
-gula
+gula 1
 greenside
 geneticists
 germanized
