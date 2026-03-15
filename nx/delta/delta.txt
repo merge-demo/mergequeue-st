@@ -1351,7 +1351,7 @@ dhobies
 daunters
 digraph
 dipentine
-demissive
+demissive 1
 diploid
 draftsperson
 doggerelize
