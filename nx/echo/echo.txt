@@ -4299,7 +4299,7 @@ epigrammatize
 entoproct
 eloquence 1
 exclaustration
-enamelist
+enamelist 1
 enamelless
 emit
 enami
