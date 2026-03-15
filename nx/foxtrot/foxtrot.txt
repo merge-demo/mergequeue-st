@@ -1346,7 +1346,7 @@ filecard 1
 flenser
 fullword
 filicology
-forspoke
+forspoke 1
 fishboat
 fatly 1
 floscularia
