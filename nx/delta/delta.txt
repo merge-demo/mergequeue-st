@@ -9869,7 +9869,7 @@ desilicification
 dimensionally 1
 dimensioning
 dimensum
-disangularize
+disangularize 1
 dimer
 decadency
 deludable
