@@ -5624,7 +5624,7 @@ fourgons 1
 flight
 frusla
 fortitude
-flighter
+flighter 1
 fraik
 foret
 fleysome
