@@ -3469,7 +3469,7 @@ fingerable
 frostfishes
 foreseason 1
 foreconsider
-fallback
+fallback 1
 fighteress
 fatigation
 fighting
