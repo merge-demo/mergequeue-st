@@ -14780,7 +14780,7 @@ corruptibleness
 cascan
 citizens
 cytoanalyzer
-cis
+cis 1
 copremia
 cytoarchitectural 1
 cytoblast
