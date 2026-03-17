@@ -8403,7 +8403,7 @@ fireboard
 faradmeter
 fotched
 frontenis
-fightable
+fightable 1
 forking
 flaveria 1
 forkless
