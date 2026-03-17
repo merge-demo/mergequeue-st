@@ -5296,7 +5296,7 @@ farmsteads
 frightless
 fogbound
 flukes 1
-fluoridize
+fluoridize 1
 fretters 1
 flain
 fernwort
