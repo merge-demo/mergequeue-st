@@ -10812,7 +10812,7 @@ beplumed
 broses 1
 blepharoplastic
 bassan
-blepharoptosis
+blepharoptosis 1
 biosynthetic
 blepharosynechia
 blepharosphincterectomy
