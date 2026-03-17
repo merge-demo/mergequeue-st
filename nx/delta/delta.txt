@@ -538,7 +538,7 @@ dainty
 dao
 damagers
 damalic
-dextrorotation
+dextrorotation 1
 demobilized
 designations 1
 dialyzing
