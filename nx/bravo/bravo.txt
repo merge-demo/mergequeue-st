@@ -4907,7 +4907,7 @@ backspeer
 bryanite
 bomarea
 beechwood
-bright
+bright 1
 bourbons 1
 belaud 1
 blackeyes
