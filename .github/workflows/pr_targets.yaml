@@ -48,11 +48,48 @@ jobs:
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_OUTPUT
           echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_OUTPUT
 
+      # When every changed file lives outside the active build tool's folder,
+      # skip the expensive per-tool setup (Python deps, Node, npm, bazel graph, ...)
+      # and upload the first-level folder names as the impacted targets.
+      - name: fetch commits for shortcut check
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          contains(fromJSON('["bazel","nx","turbo"]'), steps.get-demo-config.outputs.build)
+        run: |
+          git fetch --no-tags origin "${{ github.event.pull_request.base.sha }}"
+          git fetch --no-tags origin "${{ github.event.pull_request.head.sha }}"
+
+      - name: quick shortcut for external changes
+        id: quick-check
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
+          contains(fromJSON('["bazel","nx","turbo"]'), steps.get-demo-config.outputs.build)
+        env:
+          TRUNK_TOKEN: ${{ steps.get-trunk-token.outputs.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_SHA: ${{ github.event.pull_request.head.sha }}
+          TARGET_BRANCH: ${{ github.event.pull_request.base.ref }}
+        run: |
+          set +e
+          python3 tools/quick_impacted_targets.py \
+            --mode-dir="${{ steps.get-demo-config.outputs.build }}" \
+            --base="${{ github.event.pull_request.base.sha }}" \
+            --head="${{ github.event.pull_request.head.sha }}" \
+            --api-url="${{ steps.get-trunk-token.outputs.api_url }}"
+          rc=$?
+          case "$rc" in
+            0) echo "shortcut=true" >> "$GITHUB_OUTPUT" ;;
+            2) echo "shortcut=false" >> "$GITHUB_OUTPUT" ;;
+            *) echo "shortcut=false" >> "$GITHUB_OUTPUT"; exit "$rc" ;;
+          esac
+
       - name: bazel pr targets
         uses: trunk-io/merge-action@752cadfa168ce011c0fa396f4cbc6159ea445c02
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
-          steps.get-demo-config.outputs.build == 'bazel'
+          steps.get-demo-config.outputs.build == 'bazel' &&
+          steps.quick-check.outputs.shortcut != 'true'
         with:
           trunk-token: ${{ steps.get-trunk-token.outputs.token }}
           bazel-workspace-path: bazel
@@ -64,7 +101,8 @@ jobs:
       - name: nx pr targets
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
-          steps.get-demo-config.outputs.build == 'nx'
+          steps.get-demo-config.outputs.build == 'nx' &&
+          steps.quick-check.outputs.shortcut != 'true'
         uses: ./.github/actions/nx-pr-targets
         with:
           trunk-token: ${{ steps.get-trunk-token.outputs.token }}
@@ -75,7 +113,8 @@ jobs:
       - name: turbo pr targets
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
-          steps.get-demo-config.outputs.build == 'turbo'
+          steps.get-demo-config.outputs.build == 'turbo' &&
+          steps.quick-check.outputs.shortcut != 'true'
         uses: ./.github/actions/turbo-pr-targets
         with:
           trunk-token: ${{ steps.get-trunk-token.outputs.token }}

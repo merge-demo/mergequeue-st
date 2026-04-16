@@ -43,3 +43,27 @@ Uploads impacted targets to Trunk API.
 ### `glob_targets.sh`
 
 Helper script for glob-based target detection.
+
+### `quick_impacted_targets.py`
+
+Shortcut detector that skips the expensive per-tool setup when a PR only
+touches folders outside the active build tool's workspace. Uses only Python
+stdlib so it runs without `pip install`.
+
+If every changed file is outside `--mode-dir`, it uploads the set of
+first-level folder names of the changed files as the impacted targets and
+exits `0`. Otherwise it exits `2` so the caller falls through to the full
+tool-specific detection.
+
+**Usage:**
+
+```bash
+python3 tools/quick_impacted_targets.py \
+  --mode-dir=nx \
+  --base="$BASE_SHA" --head="$HEAD_SHA" \
+  --api-url="https://api.trunk.io:443/v1/setImpactedTargets"
+```
+
+Reads `TRUNK_TOKEN`, `GITHUB_REPOSITORY`, `PR_NUMBER`, `PR_SHA`, and
+`TARGET_BRANCH` from the environment (same variables already set by the
+PR-targets workflow).
