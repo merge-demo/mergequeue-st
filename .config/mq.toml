@@ -28,6 +28,14 @@ protected_branches = ["main"] # set protected_branches to automate generation on
 # 1% - ALL will be specified
 deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
 
+# Distribution of stack depths for generated PRs.
+# Format: "0.8x1,0.2x2" means 80% of the PR budget is solo PRs (depth 1)
+# and 20% is grouped into 2-deep stacks. Each stack consumes N PR slots
+# from the total budget (requests_per_run / requests_per_hour).
+# Stacked PRs are built on top of each other using `gh pr create --base`
+# targeting the prior PR's head branch. If not set, all PRs are solo.
+stack_distributions = "0.25x2,0.25x2,0.4x3,0.1x4"
+
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
 logical_conflict_file = "logical-conflict.txt"
