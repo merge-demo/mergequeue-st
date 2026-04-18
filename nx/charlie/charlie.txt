@@ -21181,7 +21181,7 @@ concelebration
 concenter
 compasses
 concento
-concolor
+concolor 1
 chemicobiological 1
 concentrated
 concentrates
