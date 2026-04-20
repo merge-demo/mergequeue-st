@@ -34,7 +34,7 @@ deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
 # from the total budget (requests_per_run / requests_per_hour).
 # Stacked PRs are built on top of each other using `gh pr create --base`
 # targeting the prior PR's head branch. If not set, all PRs are solo.
-stacks_distribution = "0.25x2,0.25x2,0.4x3,0.1x4"
+stacks_distribution = "0.80x2,0.20x3"
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
