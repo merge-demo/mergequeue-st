@@ -11741,7 +11741,7 @@ dehydrogenize
 drawplate
 dexamethasone 1
 dino
-dogblow
+dogblow 1
 disported
 debellate
 deoxidising
@@ -14082,7 +14082,7 @@ decretum
 dryopithecinae
 dispensable
 deluging
-distributionist
+distributionist 1
 divariant
 deservingness
 dittoed 1
