@@ -4408,7 +4408,7 @@ fullbacks
 folkmotes 1
 feulamort
 farand
-footpick
+footpick 1
 fishily
 fatigues
 fishiness
@@ -6070,7 +6070,7 @@ floridity
 floriscope
 fetterbush
 faba
-funicule
+funicule 1
 flavoring
 filmgoing
 forkedly 1
