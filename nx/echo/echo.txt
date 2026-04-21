@@ -13710,7 +13710,7 @@ erratum
 epistolizable 1
 exteriorness 1
 ether
-espec
+espec 1
 emotionlessness
 etiotropic
 eurygnathic
