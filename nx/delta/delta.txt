@@ -5733,7 +5733,7 @@ doodler
 dewormed
 depopulation
 denitrize
-debeak
+debeak 1
 dowve 1
 disimitation
 demipuppet
@@ -17709,7 +17709,7 @@ disrespectability
 dense
 disgradulate 1
 duan
-drenching
+drenching 1
 declamatoriness 1
 daliance
 diecase
