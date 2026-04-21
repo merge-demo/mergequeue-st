@@ -4888,7 +4888,7 @@ ashlered
 abnormalized
 adurent
 absterse
-antipopery 1
+antipopery 2
 anatolic
 aspidobranchia
 asideness
@@ -17039,7 +17039,7 @@ automorphic
 apochromatism
 archimorula
 astrophotometry
-albus
+albus 1
 ascitic
 auriscalp
 apocynthion
