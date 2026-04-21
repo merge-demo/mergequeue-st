@@ -4939,7 +4939,7 @@ dissipate
 deified
 demotists 1
 dragontail
-dephosphorize 1
+dephosphorize 2
 draggled
 diamb
 demountable
@@ -10501,7 +10501,7 @@ depthless
 danging
 discorder
 diphaser
-divinize
+divinize 1
 dihydrocupreine
 dipyridyl
 dichter
