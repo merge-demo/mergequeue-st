@@ -1618,7 +1618,7 @@ accoucheuses
 arclength
 accountable
 accusals
-accountably
+accountably 1
 acrisy 1
 accountant
 accountantship
@@ -11084,7 +11084,7 @@ archegone
 amorphus
 amerindian
 amort
-amortizable
+amortizable 1
 algic
 assibilation
 abnormalcy 1
@@ -20948,7 +20948,7 @@ alimentally
 ascarid
 ascaridae
 ascarides
-authoresses
+authoresses 1
 adipometer
 altaic 1
 acclimated
