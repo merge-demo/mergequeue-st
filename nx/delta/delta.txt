@@ -3514,7 +3514,7 @@ disapproving
 defrayable
 disembarrassment
 dismissable
-doom
+doom 1
 drowsed 1
 desaturate
 desiccated 1
@@ -3602,7 +3602,7 @@ donnish
 desulfurating
 distinguee
 degerminate
-doated
+doated 1
 degerminator
 distentions
 degerms
