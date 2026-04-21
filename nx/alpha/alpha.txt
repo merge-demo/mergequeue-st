@@ -5591,7 +5591,7 @@ arteriovenous
 azophosphin
 ascry 2
 aftermost
-afternoons
+afternoons 1
 afternose
 afterpains 1
 auburns
@@ -24515,7 +24515,7 @@ antimoniated
 autoxidation
 autoxidator
 autoxidizability
-autoxidizable
+autoxidizable 1
 autoxidize
 accloy
 antepenultimate
