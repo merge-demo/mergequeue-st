@@ -5651,7 +5651,7 @@ demigods
 desterilized 1
 disposit
 deplenish
-dialup
+dialup 1
 ducape
 dichroite
 daftlike
@@ -10820,7 +10820,7 @@ dashwheel
 diadematoida
 desmidiaceous
 digit 1
-dynameter
+dynameter 1
 darkest
 dau
 doob
