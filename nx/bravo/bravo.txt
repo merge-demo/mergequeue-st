@@ -9901,7 +9901,7 @@ bitsy
 birled
 bioscope
 bestialist
-brotherly
+brotherly 1
 beasties
 besmirches
 bitter
@@ -14139,7 +14139,7 @@ byzantinesque
 begob 1
 bacach
 beaujolais 1
-brachyrrhinia 1
+brachyrrhinia 2
 battleward
 budged
 brushups
