@@ -10414,7 +10414,7 @@ fletcherite 1
 fanwise
 fz
 frontierless
-fireproofness
+fireproofness 1
 fungite
 flusterment
 fibroplasia
