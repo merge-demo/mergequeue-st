@@ -11453,7 +11453,7 @@ doest
 deads
 drivellers 1
 discolorment
-discolouring
+discolouring 1
 discourt
 discombobulate
 disuniform
