@@ -2077,7 +2077,7 @@ famishes
 fumage 1
 fructidor
 fusibleness
-freeform 1
+freeform 2
 fideistic
 fogle
 federalist
@@ -7781,7 +7781,7 @@ fabliau
 financial 1
 forejudging
 florentines
-feudalized
+feudalized 1
 fettucine
 foremother
 frithbot 1
