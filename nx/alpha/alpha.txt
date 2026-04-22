@@ -968,7 +968,7 @@ azoflavine
 absorpt 1
 absorptiometer
 allegeable
-alive
+alive 1
 analcites
 absorptional
 aggregate 1
@@ -20268,7 +20268,7 @@ acutangular 1
 adpromission
 aribin
 arrogation
-adenyls
+adenyls 1
 antiquarism
 aleutian
 adsignification
