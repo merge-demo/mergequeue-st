@@ -3827,7 +3827,7 @@ deionize
 dephlegm
 deselects
 disinteresting
-dissceptred
+dissceptred 1
 decorationist
 deionizer
 deipnophobia
@@ -5423,7 +5423,7 @@ decolouriser 1
 doubtfully
 documentarian
 deregister
-demulsifier
+demulsifier 1
 donation 1
 disenablement
 deorsum
