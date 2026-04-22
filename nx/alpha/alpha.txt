@@ -5286,7 +5286,7 @@ affied
 abjured
 applaudingly
 affiliable
-addio
+addio 1
 alpenhorn
 affiliating
 apery 1
@@ -6759,7 +6759,7 @@ aine
 antinegro
 aubrey
 ainee
-allures
+allures 1
 ainhum 1
 arrivederla
 arthropleure
@@ -15356,7 +15356,7 @@ antihypochondriac
 annal
 anticoincidence
 agomphosis 1
-antihypophora
+antihypophora 1
 acetopiperone 1
 autodecrements
 attempted
