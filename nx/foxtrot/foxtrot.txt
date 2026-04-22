@@ -11394,7 +11394,7 @@ facies
 furnish
 flocked 1
 fluorindine
-furnishable
+furnishable 1
 fluoroformol
 frontirostria
 forgiveably
