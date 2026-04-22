@@ -4851,7 +4851,7 @@ encumbrance
 extrabureau
 english
 encumbrous
-evolves
+evolves 1
 eyednesses
 enterocoelic
 exsanguination
