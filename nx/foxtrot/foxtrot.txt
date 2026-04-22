@@ -3950,7 +3950,7 @@ finew
 fish
 fermentor 1
 fruitcakey
-frenziedly 1
+frenziedly 2
 frightfulness 1
 foreshown
 funneled 1
@@ -10414,7 +10414,7 @@ fletcherite 1
 fanwise
 fz
 frontierless
-fireproofness
+fireproofness 1
 fungite
 flusterment
 fibroplasia
