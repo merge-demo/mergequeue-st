@@ -2573,7 +2573,7 @@ earth
 etua
 enantioblastous
 eruginous
-evaporativity
+evaporativity 1
 eighteenthly
 ensnarl
 exudatory
@@ -10519,7 +10519,7 @@ eubteria
 engelmann
 edicts
 embezzlers
-endaortic
+endaortic 1
 epistoma
 enodal
 evulge
