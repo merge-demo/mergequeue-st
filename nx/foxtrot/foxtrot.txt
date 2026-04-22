@@ -5901,7 +5901,7 @@ fdname 1
 flockings 1
 fallouts
 fulsamic
-forgiveable
+forgiveable 1
 folgerite 1
 frittered 1
 fencepost
