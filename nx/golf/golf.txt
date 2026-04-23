@@ -4142,7 +4142,7 @@ ganef
 gulflike
 gnomons
 geniculum
-gossy
+gossy 1
 gymnotus
 gutling
 geomagnetic
@@ -8130,7 +8130,7 @@ gourdworm 1
 guaican
 grantia 1
 greekist
-grassplat
+grassplat 1
 gallet
 graustark 1
 grindelia 1
