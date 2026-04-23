@@ -22024,7 +22024,7 @@ ceraunite
 confiscatable
 cynebot
 confiscate
-countertrend
+countertrend 1
 crois 2
 chookies
 count
