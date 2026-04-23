@@ -3126,7 +3126,7 @@ basecourt
 betokener
 boosting
 boneset
-baselevel
+baselevel 1
 bismarck
 bowstringing
 bustards 1
