@@ -1646,7 +1646,7 @@ centrobaric
 crureus
 calmest
 cytode
-calmier
+calmier 1
 calmiest
 compiling
 coeducationally
@@ -12538,7 +12538,7 @@ colonnette
 ceasmic
 chromoptometrical
 coadjacency
-chromoscopy
+chromoscopy 1
 capacitances
 coobah 1
 chromosomally
