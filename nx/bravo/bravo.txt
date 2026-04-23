@@ -3126,7 +3126,7 @@ basecourt
 betokener
 boosting
 boneset
-baselevel
+baselevel 1
 bismarck
 bowstringing
 bustards 1
@@ -3589,7 +3589,7 @@ bathysophical
 bathysphere 1
 bigmouths
 boliviano
-bathythermograph
+bathythermograph 1
 bipartite 1
 bathmat
 bathmats
