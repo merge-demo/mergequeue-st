@@ -11983,7 +11983,7 @@ envelopes
 encinal
 ensilages
 exothermicity
-endurance
+endurance 1
 enlist
 epithecate
 exactress
@@ -13398,7 +13398,7 @@ elytral
 erose
 expository
 enteropexia
-expositorial 1
+expositorial 2
 ephererist
 ethicists
 ethnopsychological
