@@ -3511,7 +3511,7 @@ def
 dinitrotoluene
 demarcatordemarcators
 disapproving
-defrayable
+defrayable 1
 disembarrassment
 dismissable
 doom 1
