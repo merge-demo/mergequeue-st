@@ -16575,7 +16575,7 @@ clomp
 clonal
 cloned
 cloner
-caps
+caps 1
 collateralize
 contraparallelogram
 complicities
@@ -18924,7 +18924,7 @@ convicted
 collagenase
 collagenous
 cardholder
-collapsability
+collapsability 1
 collapses
 contam
 collapsing
