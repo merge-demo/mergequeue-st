@@ -6510,7 +6510,7 @@ farweltered
 fip
 failsoft 2
 frapping 1
-ft
+ft 1
 forspread
 foldskirt
 fortifying
