@@ -2900,7 +2900,7 @@ biverbal
 beclatter 1
 bestride
 boxlike
-braked
+braked 1
 badinage
 barrater
 barratries
@@ -13384,7 +13384,7 @@ bawn
 bulletproofs
 bimillenniums
 buffoonery
-bare
+bare 1
 boondoggler
 buckety
 boundlessness
