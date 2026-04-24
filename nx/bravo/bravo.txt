@@ -8202,7 +8202,7 @@ battailous
 bestream 1
 beudanite
 bluebuck
-binds
+binds 1
 baryes
 backus
 baccar
