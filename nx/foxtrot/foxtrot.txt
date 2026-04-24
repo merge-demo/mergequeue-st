@@ -2825,7 +2825,7 @@ fumigatories
 fcomp
 fretted
 faunae
-fibrointestinal
+fibrointestinal 1
 ficus 2
 fluidly 1
 flosses
@@ -4099,7 +4099,7 @@ frostation
 florizine
 fergusonite 1
 featherbrain
-fattable
+fattable 1
 flocculous 1
 formal
 forgery
