@@ -8053,7 +8053,7 @@ enthuse
 epiprecoracoid
 extrude
 elegant
-epipterous
+epipterous 1
 epipubis 1
 expostulations
 erminois 1
@@ -9245,7 +9245,7 @@ erratic
 erratically
 enantiomorphic
 elite
-eulogist
+eulogist 1
 endosmos
 electropism 1
 esdras
