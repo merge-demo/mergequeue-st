@@ -16000,7 +16000,7 @@ downsize 1
 decrepitude
 direct
 double
-dotter
+dotter 1
 detrimentality
 doubleheartedness
 doddypoll 2
