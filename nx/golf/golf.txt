@@ -397,7 +397,7 @@ gains
 goalposts 2
 glandulation 1
 gilsonite
-gorgon
+gorgon 1
 gunl 2
 geostrategy
 germinogony
@@ -5380,7 +5380,7 @@ gour
 grandmotherliness 1
 gimble
 gangplank
-gender
+gender 1
 gorbelly 1
 glutenin
 gleewoman
