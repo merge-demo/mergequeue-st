@@ -13011,7 +13011,7 @@ brigadiers
 beelike
 bedquilts
 barmaid
-boppist
+boppist 1
 beadings
 brideless 1
 bombazine
