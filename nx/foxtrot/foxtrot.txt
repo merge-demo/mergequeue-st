@@ -5003,7 +5003,7 @@ formals
 freelage
 forego
 flankers
-foists
+foists 1
 feued 1
 folksier
 flashtester
