@@ -16804,7 +16804,7 @@ diplomate
 developed
 dumbness
 draw 1
-disreputation
+disreputation 1
 diarrhoeic
 disesteemer
 disorganized
