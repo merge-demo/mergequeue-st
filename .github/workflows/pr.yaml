@@ -62,19 +62,28 @@ jobs:
         id: check_is_merge
         if: steps.duplicate.outputs.skip_duplicate != 'true'
         run: |
-          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then            
+          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) || "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then
             echo "on_merge=true" >> $GITHUB_OUTPUT
           else
           echo "on_merge=false" >> $GITHUB_OUTPUT
           fi
 
+      # Fast-pass any PR whose title contains [e2e].
+      - name: Check for e2e fast-pass
+        id: fast_pass
+        if: steps.duplicate.outputs.skip_duplicate != 'true' && github.event_name == 'pull_request'
+        run: |
+          title="${{ github.event.pull_request.title }}"
+          [[ "$title" == *"[e2e]"* ]] && echo "fast_pass=true" >> $GITHUB_OUTPUT || echo "fast_pass=false" >> $GITHUB_OUTPUT
+
       - name: run tests
         id: test
         # only actually run the test if we're on the merge branch
-        # so we can simulate delay and flakiness
+        # so we can simulate delay and flakiness. PRs tagged [e2e]
+        # fast-pass without invoking the test simulator.
         if:
           steps.duplicate.outputs.skip_duplicate != 'true' && steps.check_is_merge.outputs.on_merge
-          == 'true'
+          == 'true' && steps.fast_pass.outputs.fast_pass != 'true'
         run: |
           ./mq test-sim
         env:
