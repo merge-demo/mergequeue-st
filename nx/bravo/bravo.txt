@@ -8202,7 +8202,7 @@ battailous
 bestream 1
 beudanite
 bluebuck
-binds
+binds 1
 baryes
 backus
 baccar
@@ -15765,7 +15765,7 @@ bandyman
 beneficiating
 brochettes
 burble
-brambly
+brambly 1
 beamster 2
 bandmasters
 brainiest
