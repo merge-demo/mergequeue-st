@@ -71,16 +71,9 @@ jobs:
       # Fast-pass any PR whose title contains [e2e].
       - name: Check for e2e fast-pass
         id: fast_pass
-        if: steps.duplicate.outputs.skip_duplicate != 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+        if: steps.duplicate.outputs.skip_duplicate != 'true' && github.event_name == 'pull_request'
         run: |
-          if [[ "${GITHUB_EVENT_NAME}" == "pull_request" ]]; then
-            title="${{ github.event.pull_request.title }}"
-          else
-            title=$(gh pr list --repo "${GITHUB_REPOSITORY}" --head "${BRANCH_NAME}" --state all --json title --jq '.[0].title // ""')
-          fi
+          title="${{ github.event.pull_request.title }}"
           [[ "$title" == *"[e2e]"* ]] && echo "fast_pass=true" >> $GITHUB_OUTPUT || echo "fast_pass=false" >> $GITHUB_OUTPUT
 
       - name: run tests
