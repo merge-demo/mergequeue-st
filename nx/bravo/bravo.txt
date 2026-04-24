@@ -6481,7 +6481,7 @@ bepen 1
 beleaguer
 backdown 2
 bepepper
-blandness
+blandness 1
 ballat
 booley
 boltropes
