@@ -9786,7 +9786,7 @@ denumerable
 dolefish
 deicer
 dillydally
-diapaused
+diapaused 1
 discanonize
 debcle
 dotterels
@@ -10900,7 +10900,7 @@ disaccomodate
 dromons 1
 detache
 dobsonflies
-droplike
+droplike 1
 diclytra
 disunionism
 disaccustomedness
