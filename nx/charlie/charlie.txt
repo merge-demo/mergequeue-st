@@ -27233,7 +27233,7 @@ countervalue
 cobs 1
 coxarthrocace
 countervenom
-countervibration
+countervibration 1
 chymiferous
 countervote
 correlation
