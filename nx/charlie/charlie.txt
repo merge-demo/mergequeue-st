@@ -11577,7 +11577,7 @@ cueball
 chimachima 1
 countermeasure
 cholecystenterorrhaphy
-cholecystenterostomy
+cholecystenterostomy 1
 cholecystgastrostomy 1
 carburisation 1
 cholecystic
@@ -27918,7 +27918,7 @@ centeses 1
 cancelers 1
 crackdowns
 cyclonically
-crackedness
+crackedness 1
 coelostat
 cracker
 coenobium
