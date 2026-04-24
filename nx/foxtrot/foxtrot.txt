@@ -4099,7 +4099,7 @@ frostation
 florizine
 fergusonite 1
 featherbrain
-fattable
+fattable 1
 flocculous 1
 formal
 forgery
