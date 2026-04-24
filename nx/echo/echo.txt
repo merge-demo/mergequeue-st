@@ -4302,7 +4302,7 @@ exclaustration
 enamelist 1
 enamelless
 emit
-enami
+enami 1
 enamorado
 enamorato
 extraordinariness
