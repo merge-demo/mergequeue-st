@@ -920,7 +920,7 @@ endowments
 endorsements 1
 electrophoretic
 ectropion 1
-eluvia
+eluvia 1
 erogenesis
 ectrosyndactyly
 earring
@@ -3688,7 +3688,7 @@ endocoeliac
 embosking
 embryologist 1
 entify 1
-embryonic 1
+embryonic 2
 erythromycin
 expectant
 elec
