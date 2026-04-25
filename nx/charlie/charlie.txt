@@ -5303,7 +5303,7 @@ chiaroscuros
 charterage
 cassimere
 creamiest
-caurus
+caurus 1
 cassina
 corymbed 1
 cassinian
@@ -19309,7 +19309,7 @@ clinid
 consumingness
 colonisationist
 colonised 1
-colonising
+colonising 1
 colonist
 colonizable 1
 colonize
