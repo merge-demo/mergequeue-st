@@ -4103,7 +4103,7 @@ fattable 1
 flocculous 1
 formal
 forgery
-fatalness
+fatalness 1
 fissipedal
 ferth 1
 fiendful
