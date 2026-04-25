@@ -8508,7 +8508,7 @@ autophyllogeny 1
 acanthosis
 alkapton
 alkaptone
-ascent
+ascent 1
 alkaptonuric
 ancipital
 annuisance 1
@@ -11931,7 +11931,7 @@ ankylenteron 1
 anamorphosis
 accurre 1
 acetarious
-archvagabond 1
+archvagabond 2
 aspermatous
 autochromy
 ananaples
