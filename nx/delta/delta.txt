@@ -15998,7 +15998,7 @@ douane 1
 doub
 downsize 1
 decrepitude
-direct
+direct 1
 double
 dotter 1
 detrimentality
