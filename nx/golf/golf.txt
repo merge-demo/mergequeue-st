@@ -2768,7 +2768,7 @@ guemul
 glovelike
 gathers
 gazettal
-gramophonical
+gramophonical 1
 grigris
 gormless
 glottalite
