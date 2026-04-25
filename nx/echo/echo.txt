@@ -2855,7 +2855,7 @@ ethnogenies
 expatiative
 evanid
 eleusinia
-explicantia 1
+explicantia 2
 emasculator 1
 eventognath 2
 eleutherian
@@ -7788,7 +7788,7 @@ epigone
 epithelium
 exarchate
 ejaculator
-eddish
+eddish 1
 epigoni
 espressivo
 entomotaxy
