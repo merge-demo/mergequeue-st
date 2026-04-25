@@ -4928,7 +4928,7 @@ fchar
 fluidised
 foining
 fluoresced
-forsooth
+forsooth 1
 foppishly 1
 fourteens
 flamen
@@ -8816,7 +8816,7 @@ forhooie
 forwearied 1
 formalizer
 fitchy
-fragmentate
+fragmentate 1
 forgemen 1
 faradization
 fiberglass
