@@ -9532,7 +9532,7 @@ endosmotic 1
 ergastoplasmic 1
 enchytraeidae
 emigree
-euchromatic
+euchromatic 1
 embarrassed 1
 eskimoized
 electrolysed
@@ -10605,7 +10605,7 @@ epicoeliac
 exhalant
 eucone
 electrotechnic 1
-ecstasis 2
+ecstasis 3
 expensing
 englobing 2
 elvanite
