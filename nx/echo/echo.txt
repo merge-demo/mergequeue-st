@@ -4825,7 +4825,7 @@ emptings 1
 excludible
 explete
 enjamb
-encroachments
+encroachments 1
 epitaxic 1
 encrustation
 elepaio
