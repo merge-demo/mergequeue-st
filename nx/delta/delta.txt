@@ -2115,7 +2115,7 @@ decancellate
 dominator
 decancellated
 disciplinarian
-debaser 1
+debaser 2
 decades
 decandria 1
 didst
@@ -7672,7 +7672,7 @@ decorativeness
 difform
 deviated
 deviately
-dramatical
+dramatical 1
 dioecism
 daddock
 depredable
