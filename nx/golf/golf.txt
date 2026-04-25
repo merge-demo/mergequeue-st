@@ -343,7 +343,7 @@ gubbings 1
 gravigrada 1
 galactolipide
 gorling
-gaussian
+gaussian 1
 grilses 1
 gillar
 gleen
@@ -7690,7 +7690,7 @@ gaffes
 gaucy
 girdler
 gopherwood
-gunsmithery 1
+gunsmithery 2
 graded
 gorgonlike
 gool
