@@ -6228,7 +6228,7 @@ gonne
 greaves
 gamelike
 gaum
-goatweed
+goatweed 1
 guerrillaism
 glanduliferous
 genitures
@@ -8543,7 +8543,7 @@ grownups
 geomedical
 go
 goshdarn 2
-gramaphone 1
+gramaphone 2
 gametophyte
 ganglioblast 1
 gyrophoric
