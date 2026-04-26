@@ -408,7 +408,7 @@ elfish
 exposits
 exacerbation
 eriphyle
-ebullioscopic
+ebullioscopic 1
 extendibility
 echappee
 ethenic
@@ -7538,7 +7538,7 @@ eikonology
 experiences 1
 enamelware 1
 enfeoffs 1
-essling
+essling 1
 effoliate
 eavesing
 ersar
