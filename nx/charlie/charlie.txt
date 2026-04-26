@@ -2964,7 +2964,7 @@ cake
 chytrid
 cantharides
 coation
-clip
+clip 1
 cantharidian
 cantharidize
 cantharidized
@@ -23858,7 +23858,7 @@ camelman
 contributive
 callusing
 cointise 1
-contributorial
+contributorial 1
 contributories
 contributorship
 civiler
