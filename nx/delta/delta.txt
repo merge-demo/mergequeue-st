@@ -12562,7 +12562,7 @@ disintegrators 1
 dextrer
 disintegrity
 disinter
-disinterest
+disinterest 1
 disinterestedly
 disinterestedness
 disinterment 1
@@ -14415,7 +14415,7 @@ diversify
 diversification
 disporous 1
 diarch
-diversified 2
+diversified 3
 devils
 diversifier
 driveller
