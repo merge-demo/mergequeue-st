@@ -6511,7 +6511,7 @@ fip
 failsoft 2
 frapping 1
 ft 1
-forspread
+forspread 1
 foldskirt
 fortifying
 flexuousness 1
