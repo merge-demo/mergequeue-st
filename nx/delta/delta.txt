@@ -2549,7 +2549,7 @@ diplophonic 1
 disequality
 dematerialize
 discus
-dorsocephalic
+dorsocephalic 1
 distiller
 declensionally
 declensions
@@ -17939,7 +17939,7 @@ datable
 dissonous
 duennaship
 duer
-duessa
+duessa 1
 delayingly
 duets 1
 diatonical
