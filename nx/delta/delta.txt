@@ -2786,7 +2786,7 @@ duodecahedron
 decrescent
 deknight
 desulfured
-dioptrical
+dioptrical 1
 droller
 decretalist
 despumating
@@ -15839,7 +15839,7 @@ decatoic
 despiting
 debonairity
 dorsosacral
-dishumor
+dishumor 1
 dorsoscapular
 dozen 1
 diablotin
