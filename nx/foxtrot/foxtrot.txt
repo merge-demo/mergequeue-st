@@ -2712,7 +2712,7 @@ flaggella
 factorization 1
 fouette 1
 fervor
-flanks 1
+flanks 2
 flamenco
 fauxbourdon 2
 fashions
@@ -4225,7 +4225,7 @@ flab
 feistier 3
 frostbiting
 footsies
-fowls
+fowls 1
 farinosely
 firepinks 1
 fiendishness
