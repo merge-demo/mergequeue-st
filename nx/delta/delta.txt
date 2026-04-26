@@ -3052,7 +3052,7 @@ deemphasize 1
 downward
 diestock
 diuretic
-deewan
+deewan 1
 disagreement
 dehydrogenising
 demodocus
