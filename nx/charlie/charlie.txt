@@ -17320,7 +17320,7 @@ coarseness
 canonizations
 chickory
 coarsening
-coarsens
+coarsens 1
 coarticulate
 coarticulation 1
 claylike
