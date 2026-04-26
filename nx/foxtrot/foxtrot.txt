@@ -5808,7 +5808,7 @@ fructicultural
 furyl
 fumeroot
 fastigium 1
-foreswearing
+foreswearing 1
 filmer
 flittermouse
 fellowship
@@ -8634,7 +8634,7 @@ flexor 2
 fornix
 fanegada
 forspent 1
-freehold
+freehold 1
 fainters
 farfara
 floodmark
