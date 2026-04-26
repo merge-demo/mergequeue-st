@@ -9433,7 +9433,7 @@ deglut
 destructively
 digamma
 demilegato
-downfeed
+downfeed 1
 dodgier
 disworkmanship
 drunkelew 1
@@ -12896,7 +12896,7 @@ dermaptera
 disnew
 drachmae
 drawspan
-delving
+delving 1
 deorientalize
 disobeying 1
 delineative 1
