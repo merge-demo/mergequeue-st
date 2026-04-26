@@ -4007,7 +4007,7 @@ bonyfish
 believer
 beacons
 buoyancy 1
-beadeye
+beadeye 1
 beader
 bellmaker
 barnhardtite
@@ -9676,7 +9676,7 @@ breaches 1
 brabant
 becap
 bullish
-bonefish
+bonefish 1
 bisymmetry
 brandyman
 bushily
