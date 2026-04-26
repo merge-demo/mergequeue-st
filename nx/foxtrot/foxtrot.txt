@@ -5851,7 +5851,7 @@ flotas
 fulcrums
 flidge 1
 farine
-fertilisable
+fertilisable 1
 flagellatory
 foreplot
 fowling
