@@ -9433,7 +9433,7 @@ deglut
 destructively
 digamma
 demilegato
-downfeed
+downfeed 1
 dodgier
 disworkmanship
 drunkelew 1
