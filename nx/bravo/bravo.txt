@@ -1211,7 +1211,7 @@ bakelite 1
 bakemeats
 bronchially
 bloop
-bakeoven
+bakeoven 1
 blennostatic 1
 bakeress
 blenniidae
@@ -7232,7 +7232,7 @@ bestrown
 bathochromatic 1
 bullshot
 ballywrack
-barbarity
+barbarity 1
 ballplayers
 bipartible
 brankiest
