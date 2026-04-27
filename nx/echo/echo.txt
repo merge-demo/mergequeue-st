@@ -3304,7 +3304,7 @@ euplastic
 emanational
 extrapelvic 1
 enosist
-eobiont
+eobiont 1
 enthraller
 emanatism
 euphorias 1
@@ -6964,7 +6964,7 @@ extractors 1
 electrotitration
 enamourment
 explorable
-effigiating 1
+effigiating 2
 estated
 emetines
 extradialectal
@@ -11538,7 +11538,7 @@ eserin
 extractable
 elegantly
 evincing
-entoblast
+entoblast 1
 evincive
 excavationist
 echnida
