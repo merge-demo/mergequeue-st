@@ -10612,7 +10612,7 @@ diplont
 delisting
 diplonts
 diplophase
-difficultness
+difficultness 1
 dosology
 divisions
 deviously
@@ -12434,7 +12434,7 @@ disoccupying
 dishwatery
 disportive
 disidentify
-dentally
+dentally 1
 deracinate
 doubtably
 dertrum
