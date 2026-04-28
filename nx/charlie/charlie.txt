@@ -2942,7 +2942,7 @@ cantation
 cantatrice
 coverts
 chestily
-chorioids
+chorioids 1
 condylos
 crappy
 cantdog
@@ -31087,7 +31087,7 @@ cumulocirrus
 cottoned
 countershading
 chawed
-cun
+cun 1
 cunarder
 capeadors
 cunctative
