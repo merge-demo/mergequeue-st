@@ -1977,7 +1977,7 @@ bandstring
 bathymetric
 brandishes
 bigeye 1
-believes
+believes 1
 bosquets
 baahling
 beeway
@@ -9575,7 +9575,7 @@ bothridium
 barque
 burucha 1
 bogue
-betaking
+betaking 1
 bluejack
 battlements 1
 ballhawk
