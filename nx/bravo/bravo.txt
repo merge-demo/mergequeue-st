@@ -9015,7 +9015,7 @@ bremsstrahlung
 baidak
 bacterioagglutinin
 bets
-byp
+byp 1
 biomechanical
 begrims
 biomedicine
@@ -12093,7 +12093,7 @@ boronic
 berengarian
 bovinely
 bokharan
-bokom 1
+bokom 2
 bolag
 bosey
 bolas
