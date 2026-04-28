@@ -11277,7 +11277,7 @@ chloritize 1
 culicid
 chlorize
 cynocephalus
-chesterbed
+chesterbed 1
 chlormethane
 chrysidella
 chloroacetone
@@ -20719,7 +20719,7 @@ complexation
 complexedness
 complexer
 cuinfo
-complexes
+complexes 1
 cercis
 convolvuli
 consonantise
