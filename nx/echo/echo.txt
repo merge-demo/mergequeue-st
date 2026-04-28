@@ -587,7 +587,7 @@ elitisms
 ebonise
 exobiological
 echt
-earliness 1
+earliness 2
 ecchymosed
 excommenge
 exostoses
@@ -7592,7 +7592,7 @@ eoliths
 enterohelcosis
 epiparodos 1
 epicortical
-enterostomy
+enterostomy 1
 esere
 educed
 enterogastritis
