@@ -3748,7 +3748,7 @@ argoan
 amies
 archidiaceae
 appreciation 1
-antilogarithmic 1
+antilogarithmic 2
 alloted
 abrenounce
 alliteration
@@ -12591,7 +12591,7 @@ articulus
 acoustician
 appendicate 1
 adiapneustia
-androgonial
+androgonial 1
 augurers
 anemotaxis
 anemotropism
