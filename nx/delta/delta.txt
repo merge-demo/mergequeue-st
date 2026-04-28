@@ -16412,7 +16412,7 @@ drawtube
 deltal
 doeuvre
 downwind
-dowp
+dowp 1
 dowse
 defibrillative
 dihydric 1
