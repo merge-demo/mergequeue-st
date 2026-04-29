@@ -7260,7 +7260,7 @@ coda
 centurial
 covenably
 centuriator
-conehead
+conehead 1
 centuries
 cupidone
 cataractous
@@ -24485,7 +24485,7 @@ convoker
 coories
 coos 1
 counterpractice
-coosers
+coosers 1
 coltskin
 coost
 curves
