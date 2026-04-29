@@ -3289,7 +3289,7 @@ fivescore
 fantasticly
 flounces 2
 fortier
-fulgency
+fulgency 1
 finity 2
 factitious
 framed
@@ -10850,7 +10850,7 @@ failures
 formicarioid 2
 fortescure
 fulcruming 1
-feeable 1
+feeable 2
 fanatical 1
 fulfiller 1
 flambeaux 1
