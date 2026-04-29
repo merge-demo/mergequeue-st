@@ -8722,7 +8722,7 @@ commonplaces
 chapelmaster
 colonises
 chapelry
-combflower
+combflower 1
 chapelries
 carrs 1
 cinerins
@@ -11084,7 +11084,7 @@ cocos 1
 codeless
 chiton 1
 cageling
-chitons
+chitons 1
 chitosamine
 chitosan
 committeeism
