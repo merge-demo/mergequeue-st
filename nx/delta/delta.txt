@@ -15544,7 +15544,7 @@ deflocculent
 deathsmen
 donum 1
 donzel
-discovering
+discovering 1
 doubt
 dinky 1
 divelled
