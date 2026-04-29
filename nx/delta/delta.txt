@@ -4468,7 +4468,7 @@ danubian
 defused
 drinkableness
 drumloidal
-destruction
+destruction 1
 dialyzer
 demiculverin
 dodgiest
@@ -6289,7 +6289,7 @@ dryophyllum
 disload
 dermatozzoa 1
 dermatrophia
-disgrade
+disgrade 1
 dephlegmatory
 dermenchysis
 delacrimation
