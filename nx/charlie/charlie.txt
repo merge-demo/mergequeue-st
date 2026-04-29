@@ -1149,7 +1149,7 @@ cataphatic
 claiborne
 caryopsides
 chapmanship
-cordaitaceae
+cordaitaceae 1
 castrum
 countermark
 calcography
@@ -12827,7 +12827,7 @@ chunked
 circumumbilical
 crucifers
 chunkiest 1
-crumpy
+crumpy 1
 center
 cuartino
 comburimetry
@@ -28818,7 +28818,7 @@ carcinosarcomas
 cloyed
 casement
 concumbency
-cress
+cress 1
 cleanable
 cassena
 countertail
