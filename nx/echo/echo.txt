@@ -3396,7 +3396,7 @@ entozoon
 embargoes 2
 endocrinologist 1
 enc
-eavedropper
+eavedropper 1
 embark
 epichorial
 embarkations
