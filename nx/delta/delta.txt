@@ -10987,7 +10987,7 @@ disalliege
 dodona
 downbend
 doorframe
-disallow
+disallow 1
 displaying 1
 dorneck
 disconformably
