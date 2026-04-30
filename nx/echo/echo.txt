@@ -2573,7 +2573,7 @@ earth 1
 etua
 enantioblastous
 eruginous
-evaporativity 1
+evaporativity 2
 eighteenthly
 ensnarl
 exudatory
@@ -13539,7 +13539,7 @@ erythrophagous
 evaluations
 endangeitis
 evonymus 1
-epitomic
+epitomic 1
 epigrapher
 elinor
 ectosteal
