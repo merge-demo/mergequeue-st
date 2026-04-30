@@ -2450,7 +2450,7 @@ atterminal
 acinic
 aciniform
 anatomicophysiological
-aggrate
+aggrate 1
 acinus 2
 anus
 actinozoon
@@ -10124,7 +10124,7 @@ anisette 1
 autolaryngoscope
 antinationally
 archecclesiastic
-amylosynthesis
+amylosynthesis 1
 adelpholite
 alumin
 acidyl
