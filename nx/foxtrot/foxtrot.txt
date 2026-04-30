@@ -1660,7 +1660,7 @@ fathometer
 frypan 1
 fellest
 firesafety
-flatworm
+flatworm 1
 folioing
 fleshless
 festa 1
@@ -11386,7 +11386,7 @@ fruitade
 faute
 furnacelike 1
 firetraps
-ferromagneticism 1
+ferromagneticism 2
 fen
 furnariides
 flect 1
