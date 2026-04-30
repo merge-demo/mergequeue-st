@@ -15886,7 +15886,7 @@ disclaiming
 drench
 dossennus
 dressings
-decapodiform
+decapodiform 1
 dosser
 decoloriser
 dosseret
@@ -16414,7 +16414,7 @@ doeuvre
 downwind
 dowp 2
 dowse
-defibrillative
+defibrillative 1
 dihydric 1
 drolled 1
 defyingly
