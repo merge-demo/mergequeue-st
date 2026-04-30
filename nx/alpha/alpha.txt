@@ -4295,7 +4295,7 @@ acmispon 1
 azonium
 aggenerate
 armorer
-autotomize
+autotomize 1
 alchornea
 aesculapius
 anomaloflorous
