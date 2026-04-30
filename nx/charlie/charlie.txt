@@ -2536,7 +2536,7 @@ candle
 coehorn
 candleball
 candleberries 1
-candlebomb
+candlebomb 1
 candlefish
 corporeal
 candlefishes
