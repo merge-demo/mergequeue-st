@@ -7428,7 +7428,7 @@ detrainment
 detrect 1
 detrench
 dismoded 1
-degradation
+degradation 1
 diapensia
 daddynut
 daroga
@@ -17147,7 +17147,7 @@ degummer 1
 decarchies 1
 drifty
 driftingly
-driftless
+driftless 1
 driftlessness
 dentatosetaceous
 drepanium
