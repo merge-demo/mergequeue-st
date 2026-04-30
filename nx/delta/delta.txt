@@ -7428,7 +7428,7 @@ detrainment
 detrect 1
 detrench
 dismoded 1
-degradation
+degradation 1
 diapensia
 daddynut
 daroga
