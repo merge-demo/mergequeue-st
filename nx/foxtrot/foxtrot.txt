@@ -6283,7 +6283,7 @@ fluidounce 2
 factory 1
 fluigram
 filestatus
-frankincensed 1
+frankincensed 2
 forsakenly
 fenestellidae
 flybelts
@@ -10690,7 +10690,7 @@ forenamed
 florican
 fundamental 1
 fidicinal
-foodstuffs
+foodstuffs 1
 fruitiness 1
 fieldworker
 fist
