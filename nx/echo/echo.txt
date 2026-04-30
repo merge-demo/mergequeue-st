@@ -984,7 +984,7 @@ edaphosaurus 1
 explosibility 1
 encapsules
 eastlins
-euthanasic
+euthanasic 1
 enterocinetic
 epoxide
 eruditeness
