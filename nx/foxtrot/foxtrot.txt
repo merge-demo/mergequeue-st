@@ -5595,7 +5595,7 @@ flaglike
 flicker
 fixity
 frapler
-floatable 1
+floatable 2
 fiords
 ferfel 1
 fatties
