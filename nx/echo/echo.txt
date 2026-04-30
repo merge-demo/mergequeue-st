@@ -13712,7 +13712,7 @@ exteriorness 1
 ether
 espec 1
 emotionlessness
-etiotropic
+etiotropic 1
 eurygnathic
 exterminatrix
 extraconscious
