@@ -2547,7 +2547,7 @@ grammar
 graywall
 guv 2
 gangliasthenia
-goosefish
+goosefish 1
 granodiorite
 giltheads
 gibber
