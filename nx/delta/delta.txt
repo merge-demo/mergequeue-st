@@ -2774,7 +2774,7 @@ disharmonize
 decremeter
 dicyemida
 demarches
-degass
+degass 1
 duodecahedral 1
 drypoints 1
 drivellingly
