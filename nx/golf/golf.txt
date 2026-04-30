@@ -1947,7 +1947,7 @@ geology
 glasslikeness 1
 geranic
 goring
-grubroot
+grubroot 1
 glut
 gripes 2
 grudged
@@ -7033,7 +7033,7 @@ gigameter
 gaudish
 gimbaled
 gramash
-greenweed
+greenweed 1
 gismondine 1
 glacially
 galilees
