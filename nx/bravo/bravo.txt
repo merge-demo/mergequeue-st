@@ -7208,7 +7208,7 @@ bestow
 burgee
 breaching 1
 blades
-beveled
+beveled 1
 buckjump
 bongrace
 bauta
