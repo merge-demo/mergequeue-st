@@ -2458,7 +2458,7 @@ diplodocus
 dipyre
 decision 2
 defeatists
-distinctly
+distinctly 1
 decisional
 decisions
 decisis
@@ -12156,7 +12156,7 @@ despiciency
 demander 1
 depurates
 duply
-disambiguates
+disambiguates 1
 demideify
 dribblement 1
 dysphonic
@@ -13788,7 +13788,7 @@ droopiness
 demain
 ditrochous 1
 disspirit
-disspread
+disspread 1
 dammars
 disstate
 dissuaded
