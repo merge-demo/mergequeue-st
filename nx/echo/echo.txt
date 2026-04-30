@@ -916,7 +916,7 @@ eyelashes
 efreet
 ensisternal
 equipping
-endowments
+endowments 1
 endorsements 1
 electrophoretic
 ectropion 1
@@ -6572,7 +6572,7 @@ esperantidist 1
 enseam
 expulsatory
 eructed
-execrate 1
+execrate 2
 endlichite
 easterliness
 enteroepiplocele 1
