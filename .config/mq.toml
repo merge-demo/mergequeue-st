@@ -16,7 +16,7 @@ sleep_for = "5m"
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 250         # target number of pull requests per hour
+requests_per_hour = 500         # target number of pull requests per hour
 run_generate_for = "30 minutes"
 change_code_path = "nx"
 protected_branches = ["main"] # set protected_branches to automate generation on one or many branches
