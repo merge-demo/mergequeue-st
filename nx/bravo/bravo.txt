@@ -2516,7 +2516,7 @@ bedark
 barge
 bergere
 bult
-bargelike
+bargelike 1
 bargellos
 beswinge 1
 begroans
@@ -17382,7 +17382,7 @@ biathlons
 butteries
 brachistochronic
 beignets
-bottles
+bottles 1
 bejeled
 bungling
 bullit
