@@ -14296,7 +14296,7 @@ crosspieces
 communique
 circumparallelogram
 circumpentagon
-convexed
+convexed 1
 circumplanetary
 crone
 chrysazin 1
@@ -30521,7 +30521,7 @@ choiring
 cameoed
 cubelet
 caladiums
-correctives
+correctives 1
 carsten
 cubera
 cardioptosis
