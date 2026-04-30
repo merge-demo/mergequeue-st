@@ -8069,7 +8069,7 @@ disables
 disembowelled
 drawable
 dhurra
-detrimentalness
+detrimentalness 1
 doghole
 definienda
 di 1
