@@ -7231,7 +7231,7 @@ forthgaze
 fimbrillose
 flobby
 fiend
-flexive
+flexive 1
 fiver
 foreground
 footpad
@@ -8502,7 +8502,7 @@ formations
 fatbrained 1
 formazan 1
 furiant
-foresinger 2
+foresinger 3
 formelt
 ferritic
 filmsetter
