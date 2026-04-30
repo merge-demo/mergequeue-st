@@ -68,19 +68,27 @@ jobs:
           echo "on_merge=false" >> $GITHUB_OUTPUT
           fi
 
-      # Fast-pass any PR whose title contains [e2e].
-      - name: Check for e2e fast-pass
+      # Fast-pass any PR whose changed files are entirely within extension/.
+      - name: Check for extension-only fast-pass
         id: fast_pass
         if: steps.duplicate.outputs.skip_duplicate != 'true' && github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: |
-          title="${{ github.event.pull_request.title }}"
-          [[ "$title" == *"[e2e]"* ]] && echo "fast_pass=true" >> $GITHUB_OUTPUT || echo "fast_pass=false" >> $GITHUB_OUTPUT
+          git fetch --no-tags origin "$BASE_SHA" "$HEAD_SHA"
+          changed=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA")
+          if [[ -n "$changed" ]] && ! grep -qv '^extension/' <<< "$changed"; then
+            echo "fast_pass=true" >> $GITHUB_OUTPUT
+          else
+            echo "fast_pass=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: run tests
         id: test
         # only actually run the test if we're on the merge branch
-        # so we can simulate delay and flakiness. PRs tagged [e2e]
-        # fast-pass without invoking the test simulator.
+        # so we can simulate delay and flakiness. PRs whose changes are
+        # entirely under extension/ fast-pass without invoking the test simulator.
         if:
           steps.duplicate.outputs.skip_duplicate != 'true' && steps.check_is_merge.outputs.on_merge
           == 'true' && steps.fast_pass.outputs.fast_pass != 'true'
