@@ -11227,7 +11227,7 @@ disbursing
 denazify 1
 discabinet 1
 discamp
-drawstring
+drawstring 1
 discanted 1
 dermochelys
 decompoundable
@@ -15170,7 +15170,7 @@ dotate
 drunkly
 dolerophanite 1
 disproperty
-durr
+durr 1
 decants
 dungbird
 defrayment
