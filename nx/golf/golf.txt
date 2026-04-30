@@ -3261,7 +3261,7 @@ glancer
 glycosin
 grein 1
 glent
-grabbable
+grabbable 1
 glosseme
 geodic
 gula 1
