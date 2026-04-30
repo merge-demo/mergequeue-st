@@ -6279,7 +6279,7 @@ footlock 1
 fearnought
 fakirism
 forceful
-fluidounce
+fluidounce 1
 factory 1
 fluigram
 filestatus
@@ -9604,7 +9604,7 @@ frederik 1
 futilitarian
 freightyard
 forwalk
-flatwoods
+flatwoods 1
 foolmonger
 fluorid 1
 fogginess
