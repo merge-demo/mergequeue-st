@@ -1760,7 +1760,7 @@ goutiest
 gonadial
 genealogizer
 gastroscopist
-gavelled
+gavelled 1
 gasterosteid
 gynandrism 1
 gutterblood 2
@@ -3919,7 +3919,7 @@ gagers
 grassnut
 grex
 gluttonousness
-graphometrical 1
+graphometrical 2
 gratia
 groaner
 graduated
