@@ -2920,7 +2920,7 @@ cantabrigian
 cantalever
 cantaliver
 catacombs
-cackled
+cackled 1
 cantaloup
 careerer 1
 cantaloupes 1
@@ -14400,7 +14400,7 @@ circumvolved
 circumzenithal
 climb
 crosses
-circus
+circus 1
 circusy
 correspondents
 consolableness
