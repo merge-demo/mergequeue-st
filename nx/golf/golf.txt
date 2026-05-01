@@ -777,7 +777,7 @@ goods
 gery
 geomorphic
 gemologies
-galvanotropism
+galvanotropism 1
 guntub
 globulolysis 1
 gaulter
@@ -1464,7 +1464,7 @@ glissading
 gastrophilus 1
 gastric
 gisarme
-greta
+greta 1
 gasolier
 ghostology 1
 granolith
@@ -1809,7 +1809,7 @@ glos
 gentile 1
 groupage
 grasses 1
-galvanotaxis
+galvanotaxis 1
 glutenous
 generalcies
 gemmules
@@ -2825,7 +2825,7 @@ genuflecting 1
 gaberdine 1
 gratifier
 guser
-gullish 1
+gullish 2
 genuflects 2
 glanduliform 1
 glossiphonidae
@@ -5287,7 +5287,7 @@ greener
 galiongee 1
 glycollate
 glomerulose
-geometricist
+geometricist 1
 generalised 1
 grammatology
 guanidine 1
@@ -5304,7 +5304,7 @@ galivant
 gynecomastism
 gymnopaedic
 grandevity
-gombeenism
+gombeenism 1
 goofer
 gonopod 1
 generalisation 1
@@ -6079,7 +6079,7 @@ gnessic 1
 gastromancy
 golcondas
 grogging
-gnetales
+gnetales 1
 grimmiaceous
 gude
 galga 1
@@ -6177,7 +6177,7 @@ gargarize
 glamorousness 1
 gladdening
 goalpost
-gymnostomata 1
+gymnostomata 2
 geopony 1
 granulations
 gagster 1
@@ -7607,7 +7607,7 @@ gruntle
 geophyte
 gowdnie
 goalie
-gaspiness
+gaspiness 1
 goatfish
 grangeriser 1
 geothlypis 1
@@ -8172,7 +8172,7 @@ graftages 1
 gloomless 1
 gooey 2
 granuloblastic 2
-gemology 1
+gemology 2
 gerontal 1
 galbanum 1
 generalissimo
@@ -8255,7 +8255,7 @@ glucosan 1
 gnomish 1
 guidebooky
 girdlingly
-gator
+gator 1
 giantly
 gyrations 1
 gram
@@ -10080,7 +10080,7 @@ gibsons
 galahs 2
 gastropods
 garrulus
-ghostwrote 1
+ghostwrote 2
 galactodensimeter
 gelatinised
 grammarian
@@ -10198,7 +10198,7 @@ globalism 1
 garnishes 1
 gladdon
 goundou
-gimbaljawed
+gimbaljawed 1
 granulocyte
 groundneedle
 generaliser
@@ -10214,7 +10214,7 @@ geissospermin
 gainsays
 gowpin
 gweduck
-grovelingly
+grovelingly 1
 gobbet
 gunless
 glutaraldehyde
