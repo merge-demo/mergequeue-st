@@ -3452,7 +3452,7 @@ florilegia
 figeater
 floriate
 fascisti
-freesp
+freesp 1
 filthily
 foresters
 forebowline 1
@@ -11126,7 +11126,7 @@ fastland 2
 formality
 firecrackers
 factionate
-fundatrices
+fundatrices 1
 forhoo
 frizzed
 filamentous
