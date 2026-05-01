@@ -14916,7 +14916,7 @@ brighid 2
 butlerage 1
 breaking
 barkeep
-breakings
+breakings 1
 bovicide
 breaklist 2
 blandishes
