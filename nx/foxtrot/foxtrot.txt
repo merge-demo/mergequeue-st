@@ -5680,7 +5680,7 @@ fillebeg
 forbearant 1
 finite 1
 flancards
-friended
+friended 1
 fuzz
 firking
 fountains
