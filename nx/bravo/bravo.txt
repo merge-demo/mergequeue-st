@@ -11665,7 +11665,7 @@ boatloader
 beigy
 boatmanship 1
 biogenetic 1
-boats
+boats 1
 boatsetter 2
 bisymmetric
 badju
