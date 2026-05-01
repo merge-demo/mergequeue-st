@@ -2606,7 +2606,7 @@ electrophoretogram
 exturb
 estimated
 elanet
-eave
+eave 1
 eu 2
 ecthetically
 execrations
