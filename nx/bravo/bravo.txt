@@ -10348,7 +10348,7 @@ bounderish
 buffability 1
 bamboozlers
 binarium
-boil 1
+boil 2
 boozers
 blame
 blamefully
@@ -13945,7 +13945,7 @@ belugas 1
 barylite
 boxcars
 bishopful
-barwing
+barwing 1
 billete
 befuddler
 bostonese
