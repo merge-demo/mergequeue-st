@@ -8732,7 +8732,7 @@ grammars
 gearing 1
 gastraeal
 gates
-glunching
+glunching 1
 gnathonical
 gastrodisc
 growler
