@@ -3781,7 +3781,7 @@ greave
 gawkishness 1
 gameball
 gantlets
-gastroenterotomy 1
+gastroenterotomy 2
 giver
 ground 1
 gids
@@ -5599,7 +5599,7 @@ gonadotrophic 1
 golfers 1
 glossocomium 1
 gauming
-gruidae
+gruidae 1
 gallicanism
 gastrasthenia 1
 game 1
