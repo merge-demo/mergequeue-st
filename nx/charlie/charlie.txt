@@ -5348,7 +5348,7 @@ chariotway 1
 cynodont
 cassowary
 cassowaries
-commonty
+commonty 1
 cassumunar 1
 cellarers
 cast
@@ -7161,7 +7161,7 @@ centre
 clinoaxis
 centreboard
 centred
-centref
+centref 1
 centrepiece
 canephoroe
 centrer
@@ -19123,7 +19123,7 @@ collyrite
 carder
 collyrium
 cedes 1
-cystocyte
+cystocyte 1
 collisive
 curtseying
 collyweston
@@ -21755,7 +21755,7 @@ condoner
 condoners 1
 cypriotes 1
 counterthwarting
-condones
+condones 1
 clematis
 conspiringly 1
 cylinders
@@ -27468,7 +27468,7 @@ conversaziones 1
 couthier
 couthless
 couthly
-coutil
+coutil 1
 coupleteer
 chemicophysics
 conspirer
@@ -31233,7 +31233,7 @@ covetousness
 cantharidate
 commonplace
 coque
-cupuliferous
+cupuliferous 1
 clawhammer
 cacanapa
 cura
