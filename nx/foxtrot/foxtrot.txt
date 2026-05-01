@@ -3292,7 +3292,7 @@ fortier
 fulgency 1
 finity 3
 factitious
-framed
+framed 1
 fisherman 1
 fideicommissaries
 fungus
@@ -4997,7 +4997,7 @@ faured
 flaneurs
 flanked
 fledging 1
-factordom 1
+factordom 2
 fribourg 1
 formals
 freelage
