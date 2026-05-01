@@ -154,7 +154,7 @@ deprivations 1
 depasturable
 drugstore 1
 doltishly
-dareall
+dareall 1
 designfully 1
 dadoes
 deiparous
@@ -1882,7 +1882,7 @@ deboite 2
 defet
 docimasies
 decoy
-daleswoman 1
+daleswoman 2
 debonairness
 deboned
 dioxin
@@ -6448,7 +6448,7 @@ departmentalising
 diploes
 delinquent
 decadenza
-dactylioglyph
+dactylioglyph 1
 disbark 1
 desamidase
 dirian
@@ -6954,7 +6954,7 @@ dorcas
 dispatcher
 despisableness 1
 downfalls
-despiser
+despiser 1
 decemvii
 dipleuric
 desertness
@@ -7596,7 +7596,7 @@ deva
 dequeuing
 dactylonomy
 devadasi 1
-deval
+deval 1
 digitaria
 devaloka
 drenched
@@ -7841,7 +7841,7 @@ doers
 daylighting
 danziger
 devouringly
-dignification
+dignification 1
 divesting
 diprotodon
 divertise
@@ -8910,7 +8910,7 @@ departition
 disheartening
 detailers
 dully 1
-divinyl
+divinyl 1
 dichloramine
 dichloride
 dichloroacetic
@@ -13452,7 +13452,7 @@ disreputableness
 dittologies
 dispersiveness
 dading
-dubitatingly
+dubitatingly 1
 dreamsy
 defamous
 diphyesis
@@ -18111,7 +18111,7 @@ dungol
 dulocracy
 dissuasory
 dictograph
-donsy
+donsy 1
 dag
 dilling
 disentangles 2

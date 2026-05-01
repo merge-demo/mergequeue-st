@@ -178,7 +178,7 @@ flimsies
 finitary 1
 factoryship
 floatiness
-foment
+foment 1
 flashily
 feuar
 florin 1
@@ -220,7 +220,7 @@ functionaries
 fulimart
 frostbound
 friezed
-fritterer 2
+fritterer 3
 frettingly 1
 fulgur
 finify
@@ -1462,7 +1462,7 @@ fluoroscopist
 folkish 1
 floatability
 fungillus 1
-faucre 1
+faucre 2
 faultiest
 fishmeal
 fairgoer
@@ -2121,7 +2121,7 @@ foldboat
 flappered
 fellating
 furane
-fluorometric
+fluorometric 1
 fellation
 fidejussory
 frowningly
@@ -3169,7 +3169,7 @@ fingerpost
 ferment
 frighty
 frisii
-fenceplay 1
+fenceplay 2
 flowerier 1
 fatso
 fossate 1
@@ -3843,7 +3843,7 @@ fiberscope 1
 filiopietistic
 fungistat
 flavanthrene
-feretory
+feretory 1
 fornical
 forjudging
 favous
@@ -8513,7 +8513,7 @@ fierabras 2
 formatter 1
 frutage
 floridans 1
-flong
+flong 1
 flunkeyite
 fuzztail 1
 formularizing
@@ -9016,7 +9016,7 @@ fourneau
 femes
 filly
 feltings
-farcist
+farcist 1
 flavine 1
 fourpenny 1
 fernless
@@ -9310,7 +9310,7 @@ freckling
 fungate 1
 frangipani
 forenames 1
-frizers
+frizers 1
 framea
 feuillet
 framer
