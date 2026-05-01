@@ -5298,7 +5298,7 @@ catafalque
 cassididae
 cotsetla 1
 cassidulina
-cassiduloid
+cassiduloid 1
 chiaroscuros
 charterage
 cassimere
@@ -16613,7 +16613,7 @@ cloof
 chymaqueous
 chemicoluminescence
 cloot
-clootie
+clootie 1
 chargeling
 clop
 carburate
@@ -21963,7 +21963,7 @@ confiding
 coppa
 confidingly
 coinmate 1
-cessation 1
+cessation 2
 canorousness
 confidingness
 configural
@@ -29083,7 +29083,7 @@ crin
 crinal
 ceresine
 contrapone
-crinanite
+crinanite 1
 casselty
 conundrumize
 columbus
@@ -29431,7 +29431,7 @@ contemporizing
 crispiest
 curtelace
 crispin
-culicidal
+culicidal 1
 crispine 1
 crisping
 crispins
@@ -31157,7 +31157,7 @@ cupfulfuls
 canvassing
 cupid
 cupidinous
-cupidities
+cupidities 1
 congealment
 cupidon
 cupiuba 1
