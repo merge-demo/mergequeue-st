@@ -4212,7 +4212,7 @@ delthyrial
 destructible 1
 dineros
 deltohedron
-dogvanes
+dogvanes 1
 delubra
 delude 1
 dishonored
