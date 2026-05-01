@@ -3783,7 +3783,7 @@ gameball
 gantlets
 gastroenterotomy 1
 giver
-ground
+ground 1
 gids
 garotte
 goodish
@@ -9868,7 +9868,7 @@ gladdens
 gerygone 1
 garble
 gustless
-guanin
+guanin 1
 gagate 1
 glycerose 1
 guanize
