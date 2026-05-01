@@ -5745,7 +5745,7 @@ fougue
 frequentation 1
 fractuosity
 fels 1
-fins
+fins 1
 figureheadless
 fisher
 fmt
@@ -11201,7 +11201,7 @@ fundungi
 firewall
 forcipal
 fireplugs 1
-felonwort
+felonwort 1
 frenzelite
 fastly 1
 flinter
