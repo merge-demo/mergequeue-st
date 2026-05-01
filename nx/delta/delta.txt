@@ -4152,7 +4152,7 @@ determinateness
 denigrators 1
 dicyclica 1
 discharger
-deadlatch
+deadlatch 1
 digestively
 deloo
 deloul
