@@ -11645,7 +11645,7 @@ bosket
 boatage
 barspoon
 boatbuilding 1
-boathouse
+boathouse 1
 boffos 2
 blacketeer
 baccare
