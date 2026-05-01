@@ -2448,7 +2448,7 @@ cancerogenic
 circumcentral 1
 condescent
 cancerophobe
-cancerophobia
+cancerophobia 1
 coolth
 cancerousness
 cancerweed
@@ -6078,7 +6078,7 @@ catling
 catlings
 condescend
 cairds 1
-catlins
+catlins 1
 craftsperson
 cryptoporticus
 canephroi
