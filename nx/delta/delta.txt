@@ -3267,7 +3267,7 @@ deblocked
 daughterliness 4
 dockhead
 domesticate
-defiber
+defiber 1
 deionized
 dyaus 1
 duodecillionth
@@ -9425,7 +9425,7 @@ disenroll
 disheathing
 dehematize
 digamy
-disobeyal
+disobeyal 1
 digamies
 divekeeper
 displume
