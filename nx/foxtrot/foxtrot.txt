@@ -8772,7 +8772,7 @@ fabricatress
 fraenular
 forlie
 foredecks
-flocculator 1
+flocculator 2
 footlog 1
 fellatee
 faultsman 1
@@ -11385,7 +11385,7 @@ fibropolypus 1
 fruitade
 faute
 furnacelike 1
-firetraps
+firetraps 1
 ferromagneticism 2
 fen
 furnariides
