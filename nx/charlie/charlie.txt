@@ -4178,7 +4178,7 @@ cardiomegaly
 cyclus 1
 cardiomelanosis
 contradivide
-cholecystotomies
+cholecystotomies 1
 cardiometer
 cardiometric
 cardiomyomalacia
@@ -6561,7 +6561,7 @@ cretaceous
 caxton
 confluence 1
 caxtonian
-caza
+caza 1
 cazimi
 crossability
 confusticate 1
@@ -16146,7 +16146,7 @@ corticate
 climatarchic
 climate
 climates
-corporatively
+corporatively 1
 climatic
 climatius
 climatize
@@ -18066,7 +18066,7 @@ capouch 1
 coenesthesia
 coengage
 coproduce
-cullionry
+cullionry 1
 coengager
 cleidosternal
 caverns
@@ -24007,7 +24007,7 @@ campanili
 chamaesiphon 2
 convenances
 convene
-comedically
+comedically 1
 communaliser
 convened
 convener
@@ -26525,7 +26525,7 @@ cottas
 cotte
 cotted
 cotter
-cottered
+cottered 1
 cottid
 capitulating
 cottise 1
@@ -26822,7 +26822,7 @@ clamping
 counterdogmatism
 counterdrive
 countered
-cypselomorph
+cypselomorph 1
 counterefficiency
 countereffort
 comfortful
@@ -29921,7 +29921,7 @@ chipper
 crossings
 crossite
 contriteness
-cinnamenyl
+cinnamenyl 1
 crosslegs
 complainer
 captived

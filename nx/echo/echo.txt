@@ -1296,7 +1296,7 @@ endocardiac
 exopeptidase 1
 effective
 euryphagous
-exposure
+exposure 1
 ecuadoran 1
 epimachinae
 entomologists
@@ -1709,7 +1709,7 @@ enterosyphilis 1
 employ
 epistilbite
 evang
-eyeground 1
+eyeground 2
 epornitically 1
 encephaloid 2
 enginery
@@ -5510,7 +5510,7 @@ ecphrasis
 endoergic 1
 enfevering
 emitters
-edwardeanism
+edwardeanism 1
 enzootic
 epicardial
 enfilade
@@ -6494,7 +6494,7 @@ endostosis 2
 ephyra 1
 exactly
 extratension
-entail
+entail 1
 entomophthora
 exponentials
 endurant 2
@@ -7295,7 +7295,7 @@ eriophyes
 eased
 etiolates
 eccoprotic 1
-eleut
+eleut 1
 eparchies
 eternization
 equinoctial
@@ -10179,7 +10179,7 @@ emerant
 ersh
 exegetic
 epizooty
-eponymies 1
+eponymies 2
 eunuchoid
 esteemer
 elisabeth
@@ -13001,7 +13001,7 @@ etherous
 evanition 1
 equanimously 2
 expecter
-expectingly
+expectingly 1
 encephalopyosis
 erminette
 estriols
