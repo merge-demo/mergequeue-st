@@ -2547,7 +2547,7 @@ grammar
 graywall
 guv 2
 gangliasthenia
-goosefish 1
+goosefish 2
 granodiorite
 giltheads
 gibber
@@ -4439,7 +4439,7 @@ gummed
 gypsywise
 guzzling 1
 gyromele 1
-gangliitis 1
+gangliitis 2
 gorgio 1
 groovy
 gays
