@@ -13529,7 +13529,7 @@ bijouterie
 briquette
 bouch 1
 beatae
-blacksmith
+blacksmith 1
 blesmol
 belime
 baccae
@@ -14033,7 +14033,7 @@ boarishly
 bracery
 blankeel
 belaboured 1
-barriguda
+barriguda 1
 braceros
 butcherbroom 2
 bacchanalism
