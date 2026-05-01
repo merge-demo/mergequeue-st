@@ -3128,7 +3128,7 @@ boosting
 boneset
 baselevel 1
 bismarck
-bowstringing
+bowstringing 1
 bustards 1
 boswellize
 basella
@@ -14817,7 +14817,7 @@ brazier
 bern
 backword
 barres
-ballooner 1
+ballooner 2
 bombable
 burgheress 1
 baru
