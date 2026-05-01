@@ -3286,7 +3286,7 @@ atolls 1
 antitank
 aready
 abram
-adductors
+adductors 1
 antilevelling
 accusatorial
 aleberry
