@@ -4151,7 +4151,7 @@ figments
 farmhouses 1
 formentation
 forthrights
-firebox
+firebox 1
 flocculation
 fellowcraft
 floerkea
