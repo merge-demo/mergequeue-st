@@ -9603,7 +9603,7 @@ branchiostomous
 bisdiapason 1
 binary 2
 bicapsular
-bandlimits
+bandlimits 1
 bisectors
 bisectrices
 bednighted
@@ -16794,7 +16794,7 @@ bulltoad
 budgerow
 bowdlerizer 1
 balanoposthitis
-brujo
+brujo 1
 budgeter
 beyrichite
 bioassayed
