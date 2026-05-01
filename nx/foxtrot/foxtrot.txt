@@ -2538,7 +2538,7 @@ foal
 fibromembranous
 filamentule 1
 frangibility 1
-freeboot
+freeboot 1
 fem
 functionalistic
 foresightful
