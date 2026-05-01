@@ -777,7 +777,7 @@ admetus
 abrash
 aeromechanics 1
 abashment
-autogyro
+autogyro 1
 agnition
 accordatura
 angustiseptal
@@ -15899,7 +15899,7 @@ aclemon
 adenoid
 acrophony
 abutter
-anglers
+anglers 1
 abrader
 annotations
 antidynasty 1
