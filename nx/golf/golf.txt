@@ -2180,7 +2180,7 @@ grotty
 guinde
 genarchship
 giraffoid
-geoidal
+geoidal 1
 garmented
 gooseskin
 goaves
@@ -4800,7 +4800,7 @@ gaff 3
 geopolar 1
 gait 2
 guttersnipe
-guessed 1
+guessed 2
 gorgonizing 1
 gallflies 1
 gladiatrix
