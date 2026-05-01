@@ -11632,7 +11632,7 @@ configurationism
 cholepoietic
 choler
 cholera
-counterround
+counterround 1
 circumjacent
 colombia
 coinfers
@@ -20602,7 +20602,7 @@ compere
 compered
 cumulous
 compering
-compert
+compert 1
 competed
 competent
 competentness
