@@ -7395,7 +7395,7 @@ cepheids
 cephen
 coastings
 cardionephric
-ceps
+ceps 1
 contrastable 1
 chairmaned
 cerago
@@ -23220,7 +23220,7 @@ crakefeet
 constricted
 cobby
 constricting 1
-constriction
+constriction 1
 coelomic
 constrictive
 constrictor
