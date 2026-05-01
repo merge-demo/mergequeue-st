@@ -1221,7 +1221,7 @@ fastbacks
 flagman 2
 faradism 1
 futteret 2
-fama
+fama 1
 favella
 forevouch 1
 footwall 1
@@ -9558,7 +9558,7 @@ fliffus 2
 frappes
 figurers 2
 floppiness
-fattrels
+fattrels 1
 faithworthy
 frontways 1
 footling 1
