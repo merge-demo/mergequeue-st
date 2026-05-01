@@ -7577,7 +7577,7 @@ endshake 1
 equichangeable
 enviousness
 exported
-encephalous
+encephalous 1
 ensconce 1
 elixirs
 enhungered
@@ -10348,7 +10348,7 @@ elvers
 ecumenistic
 endorsement
 englacially
-excitability 2
+excitability 3
 edgestone
 erythroscope
 exhibitive
