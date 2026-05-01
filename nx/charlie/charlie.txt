@@ -2199,7 +2199,7 @@ campy
 cavalcade
 campier
 campiest
-campylite 1
+campylite 2
 campylometer
 cynicist
 coffeecup
@@ -6543,7 +6543,7 @@ cannulas
 cometh
 cawed 1
 cawker
-cawky
+cawky 1
 collide
 cawl 1
 coagulants
@@ -10575,7 +10575,7 @@ choes
 chillness
 crucifixes
 concremation
-celebrator
+celebrator 1
 chillroom
 chills
 chillsome
