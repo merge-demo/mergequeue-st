@@ -5699,7 +5699,7 @@ diallel
 deconsider
 depoh
 decd
-depolarise
+depolarise 1
 dearies
 dehumidify
 disrobers
