@@ -14647,7 +14647,7 @@ cystoplegia
 cystoproctostomy
 cystopteris
 cystoptosis 1
-cystopus
+cystopus 1
 cystoradiography
 cragged
 clethraceous
@@ -14850,7 +14850,7 @@ cytologic
 cussedness
 coranoch
 caperdewsie
-cytomere
+cytomere 1
 carefully 1
 cytomicrosome
 citrated
