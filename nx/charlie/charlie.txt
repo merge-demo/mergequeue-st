@@ -11618,7 +11618,7 @@ colorization 2
 cholelith 2
 conchotome
 cholelithic 1
-cholelithotomy
+cholelithotomy 1
 chastising
 counterbore
 crossrail
@@ -20159,7 +20159,7 @@ cheiroline
 comminution
 corroborate
 chokingly
-commiserates
+commiserates 1
 calcareocorneous
 commiserations 1
 callicebus
