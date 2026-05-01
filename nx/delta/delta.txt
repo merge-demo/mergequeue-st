@@ -6094,7 +6094,7 @@ dissolvable
 deckedout
 digestible
 derated
-diphtheroid
+diphtheroid 1
 derater
 dijudicant
 disilane
