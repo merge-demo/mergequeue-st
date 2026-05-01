@@ -3236,7 +3236,7 @@ epilogize
 enfollow
 elul
 epidemic
-erects
+erects 1
 enclitical
 encephalotomy 1
 eyesore 1
