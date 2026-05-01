@@ -3426,7 +3426,7 @@ geometers
 gudgeons
 gowl
 globulins
-gelatinated 1
+gelatinated 2
 genoa
 goodyness
 glasgow
@@ -4505,7 +4505,7 @@ girella
 gracefully
 girellidae
 gurts
-greenhorns
+greenhorns 1
 gluelike
 gyrencephala
 gutturalized 1
