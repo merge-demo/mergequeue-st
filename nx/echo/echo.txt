@@ -2587,7 +2587,7 @@ elysian
 electropathy
 electropathology 1
 electrophysiological
-eunectes
+eunectes 1
 electrocutioner
 ebulus
 exportability
@@ -4727,7 +4727,7 @@ endocarpic
 encode
 exitance
 encoding
-effectivity
+effectivity 1
 embrocate
 ergasterion
 enbusshe
