@@ -3510,7 +3510,7 @@ diplomatic 1
 def
 dinitrotoluene
 demarcatordemarcators
-disapproving
+disapproving 1
 defrayable 1
 disembarrassment
 dismissable
