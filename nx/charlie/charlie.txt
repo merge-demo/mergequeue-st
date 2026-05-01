@@ -24380,7 +24380,7 @@ coreveler
 circumflex
 cool
 cooled
-changepocket
+changepocket 1
 crosshairs
 cavally
 capitatum
@@ -28794,7 +28794,7 @@ chuckfull
 cines
 crescentlike
 crescentoid
-crescents
+crescents 1
 crescively
 clarinettist
 confederatio
