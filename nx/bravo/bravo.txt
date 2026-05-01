@@ -12875,7 +12875,7 @@ betrayers 1
 bondslave
 behorror
 bifoil
-birthplace
+birthplace 1
 bg 1
 befanned
 bacchiac 1
