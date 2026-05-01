@@ -6804,7 +6804,7 @@ adipocerous
 adopt
 airbrushing
 amitabha
-airburst 1
+airburst 2
 arresting
 angularity 1
 airbusses
@@ -18641,7 +18641,7 @@ adoral
 anatira
 archaeologic
 amylases
-archaeological
+archaeological 1
 anilinophile
 abyssa
 apprehensibly
@@ -18839,7 +18839,7 @@ archflamen 1
 archfoe 1
 ancestresses
 aedoeagus
-angloid
+angloid 1
 acervose
 ancientism
 alamodality 3
