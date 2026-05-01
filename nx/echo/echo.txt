@@ -1451,7 +1451,7 @@ emunct
 exenteritis
 epipleural
 envelop 1
-enfarce 1
+enfarce 2
 euxanthate 2
 euhemerism
 efforts
@@ -4778,7 +4778,7 @@ entranceway
 encashing
 encountering
 eros
-ecclesial
+ecclesial 1
 ethical 2
 ecize
 exhalate 1
