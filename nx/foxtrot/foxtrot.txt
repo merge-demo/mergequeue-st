@@ -5963,7 +5963,7 @@ fallibility
 fortunite 3
 floodlit
 fibromembrane 1
-floods 1
+floods 2
 foisons 1
 fortifiable 1
 fisk
@@ -7372,7 +7372,7 @@ famelessly
 faubourg 1
 forebodingly
 footplate
-flakiness 1
+flakiness 2
 fortunous
 feedlots 1
 flyness
@@ -8450,7 +8450,7 @@ filcher 1
 fullom
 futhark
 form
-fluoroscopes
+fluoroscopes 1
 fullerboard
 folksy 3
 formalesque 2
