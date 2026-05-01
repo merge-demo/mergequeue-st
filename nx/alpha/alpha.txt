@@ -8465,7 +8465,7 @@ aesthesics
 augmentations
 angiography
 archology
-aftercost
+aftercost 1
 abiegh 1
 alkalinized
 arite
