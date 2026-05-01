@@ -16105,7 +16105,7 @@ ande
 armorica 1
 auto
 antiscolic
-antiscorbutical
+antiscorbutical 1
 acrosphacelus
 antiscrofulous
 antiseismic
