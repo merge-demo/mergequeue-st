@@ -5612,7 +5612,7 @@ enforth
 estrangle
 eigenvalue
 epithi
-exquisitism
+exquisitism 1
 enframed 1
 experimentator
 ethnarch
