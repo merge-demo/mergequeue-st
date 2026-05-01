@@ -10845,7 +10845,7 @@ centropomus
 chip 1
 chipchop
 chipewyan
-chiplet
+chiplet 1
 culvert
 congeals
 claviharp
