@@ -1557,7 +1557,7 @@ deactivation
 deactivators
 distressedness
 doublure 1
-drail
+drail 1
 deaden
 droops 1
 docked 1
@@ -1750,7 +1750,7 @@ dishwiping
 deathify
 diobol
 dasewe
-discantus
+discantus 1
 duckpond
 dysenteric
 deathless 1
@@ -2486,7 +2486,7 @@ deferral
 duds
 dishonourary
 declaim
-dichasial
+dichasial 1
 diaclastic 1
 dichorisandra
 dresser
@@ -9854,7 +9854,7 @@ digests
 draconically 2
 dialyphyllous
 dimastigate
-delawarean
+delawarean 1
 deli
 divergences
 delitescence 1
@@ -11108,7 +11108,7 @@ dysautonomia
 disavail 2
 dayroom
 discomforted 1
-dissaves
+dissaves 1
 despect
 deploredly 1
 dishabituating
@@ -11368,7 +11368,7 @@ disciplining
 depopulator 1
 disyllabism
 diphosphothiamine
-desktop 1
+desktop 2
 discontentedly
 deadbeats
 doctrinize
@@ -11468,7 +11468,7 @@ demiparallel
 deepened
 demimondaines
 dado
-dullhead
+dullhead 1
 dwarfy
 discomedusae 1
 defrauded 1
@@ -12804,7 +12804,7 @@ dialogs
 dorsomedian 1
 decreptitude 1
 dehydrogenized
-dyemaking
+dyemaking 1
 demibob 1
 daubs
 devolutive
@@ -12812,7 +12812,7 @@ deliquiesce
 demiparadise
 dismals
 dithalous
-disman 1
+disman 2
 dismantles
 darksome
 dishevelment 1
