@@ -14564,7 +14564,7 @@ divisor
 digitalein
 deckels
 desalinize
-dondine
+dondine 1
 divisorial
 dreint 1
 diesinking
