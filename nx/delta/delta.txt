@@ -438,7 +438,7 @@ defog 1
 disinthrall 1
 disposal
 drenchers
-dimyaric
+dimyaric 1
 diathermous
 dimercaprol
 daises
