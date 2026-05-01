@@ -10845,7 +10845,7 @@ centropomus
 chip 1
 chipchop
 chipewyan
-chiplet
+chiplet 1
 culvert
 congeals
 claviharp
@@ -13169,7 +13169,7 @@ cicelies
 ciceronage 1
 ciceroni 1
 crossbreeds
-chiaroscuro
+chiaroscuro 1
 clon
 ciceronianisms
 ciceronianist
