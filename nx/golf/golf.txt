@@ -1296,7 +1296,7 @@ gloria
 gestation
 grandpa
 garefowl
-gyrene
+gyrene 1
 generalizable
 gnawingly 1
 gargalize 1
@@ -3264,7 +3264,7 @@ glent
 grabbable 1
 glosseme
 geodic
-gula 1
+gula 2
 greenside 1
 geneticists
 germanized
@@ -6842,7 +6842,7 @@ glauconite 1
 granulomas
 gaffsman
 grisettish 1
-gemmiparous
+gemmiparous 1
 graphics
 gorbal
 guaranty
@@ -10575,7 +10575,7 @@ gneissitic 2
 greenwithe
 gatewoman
 geomalism
-grenadiership
+grenadiership 1
 grommets 1
 goads
 grimacers 1
