@@ -4727,7 +4727,7 @@ endocarpic
 encode
 exitance
 encoding
-effectivity
+effectivity 1
 embrocate
 ergasterion
 enbusshe
