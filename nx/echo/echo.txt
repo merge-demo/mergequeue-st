@@ -2381,7 +2381,7 @@ electrodeposition 1
 ethiopic
 ebriosity
 entomologize 1
-epitrochlea 1
+epitrochlea 2
 electrodes 2
 etherization 2
 elotherium
@@ -3771,7 +3771,7 @@ embusk 1
 encardion
 encrypts
 equiponderance
-ectoethmoid
+ectoethmoid 1
 exercising
 electroacoustical
 espigle
@@ -3995,7 +3995,7 @@ estus 1
 effloresce
 etymologise
 evangelian 3
-estrapade
+estrapade 1
 enage
 extirpated
 epionychia
@@ -11381,7 +11381,7 @@ ebriate
 eryopid
 enchains
 embarrel
-epinikion
+epinikion 1
 edificator
 eruciform
 evovae 1
