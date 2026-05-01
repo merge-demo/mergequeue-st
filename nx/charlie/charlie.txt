@@ -6682,7 +6682,7 @@ ceilers
 ceilidhe
 ceiling
 ceilings
-ceilingwards
+ceilingwards 1
 copiability 1
 celtophobia
 couac
