@@ -4295,7 +4295,7 @@ acmispon 1
 azonium
 aggenerate
 armorer
-autotomize
+autotomize 1
 alchornea
 aesculapius
 anomaloflorous
@@ -22231,7 +22231,7 @@ apostrophe
 astogeny
 aglutition
 arrestees
-anticholinergic
+anticholinergic 1
 astomia 1
 astone
 allylamine
