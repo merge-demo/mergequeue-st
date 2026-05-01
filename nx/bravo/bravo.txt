@@ -3164,7 +3164,7 @@ biphase 1
 baseplug 1
 basepoint 1
 behavers
-baser
+baser 1
 brazen
 blanda
 besetter 1
@@ -13010,7 +13010,7 @@ bailli
 brigadiers
 beelike
 bedquilts
-barmaid
+barmaid 1
 boppist 1
 beadings 1
 brideless 1
