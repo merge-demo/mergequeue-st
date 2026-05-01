@@ -4009,7 +4009,7 @@ beacons
 buoyancy 1
 beadeye 2
 beader
-bellmaker
+bellmaker 1
 barnhardtite
 beerothite
 binges
