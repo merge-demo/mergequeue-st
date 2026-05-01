@@ -499,7 +499,7 @@ bituminiferous
 batteries
 breakax
 betweentimes
-buffo
+buffo 1
 backstaff
 bridely 1
 blathering 1
@@ -15173,7 +15173,7 @@ baldicoot
 bronchotyphoid
 brickliner 1
 brewership
-brewhouse
+brewhouse 1
 brewhouses 1
 bulked
 businesslikeness
