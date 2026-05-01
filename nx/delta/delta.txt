@@ -154,7 +154,7 @@ deprivations 1
 depasturable
 drugstore 1
 doltishly
-dareall
+dareall 1
 designfully 1
 dadoes
 deiparous
@@ -6448,7 +6448,7 @@ departmentalising
 diploes
 delinquent
 decadenza
-dactylioglyph
+dactylioglyph 1
 disbark 1
 desamidase
 dirian
@@ -8910,7 +8910,7 @@ departition
 disheartening
 detailers
 dully 1
-divinyl
+divinyl 1
 dichloramine
 dichloride
 dichloroacetic
