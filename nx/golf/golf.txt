@@ -6703,7 +6703,7 @@ gonidic
 genes 1
 gauges
 gametangia
-gyrostats
+gyrostats 1
 gnarrs
 gabbart 1
 glomerate 1
