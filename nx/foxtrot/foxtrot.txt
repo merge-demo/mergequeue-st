@@ -1819,7 +1819,7 @@ featureful
 featurelessness
 featureliness
 fieldmice
-flesh
+flesh 1
 furrows
 figureheadship
 fellahin 1
@@ -11709,7 +11709,7 @@ foremasthand
 fiancailles
 frowns
 furriered
-ferruled
+ferruled 1
 foredesign 1
 fosslology 1
 flighty 1
