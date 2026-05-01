@@ -533,7 +533,7 @@ fibrobronchitis
 forewarn 1
 fluvial
 filicites
-frowner
+frowner 1
 froggy
 fatstock 1
 falters 1
@@ -5595,7 +5595,7 @@ flaglike
 flicker
 fixity
 frapler
-floatable 2
+floatable 3
 fiords
 ferfel 1
 fatties
