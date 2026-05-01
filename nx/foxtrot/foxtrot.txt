@@ -2335,7 +2335,7 @@ fenzelia
 firestopping
 foreimagine 1
 fconvert
-feoffer
+feoffer 1
 fiberous
 feoffs
 fasciole 1
