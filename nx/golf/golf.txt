@@ -3641,7 +3641,7 @@ ghostfishes
 garrisonism 3
 gallinae
 gnathite
-goalmouth
+goalmouth 1
 gherkins
 gyrencephalic 1
 ghostier 1
@@ -10486,7 +10486,7 @@ galangals
 glumaceous
 gumweeds
 gramenite
-gregal
+gregal 1
 genizero
 gimballed
 geyserite 1
