@@ -1936,7 +1936,7 @@ federalistic
 freight
 furling
 fileable 1
-friable
+friable 1
 froze
 floccule 1
 flaring 1
@@ -4925,7 +4925,7 @@ fergusite 1
 frenetic 1
 formly
 fchar
-fluidised
+fluidised 1
 foining
 fluoresced
 forsooth 1
