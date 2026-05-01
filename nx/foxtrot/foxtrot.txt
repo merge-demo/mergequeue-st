@@ -220,7 +220,7 @@ functionaries
 fulimart
 frostbound
 friezed
-fritterer 1
+fritterer 2
 frettingly 1
 fulgur
 finify
@@ -703,7 +703,7 @@ flincher 1
 flagroot
 famous
 florigens
-featherlet 1
+featherlet 2
 famp 1
 famuli
 frustrater
@@ -1220,7 +1220,7 @@ fassalite 1
 fastbacks 1
 flagman 2
 faradism 1
-futteret 2
+futteret 3
 fama 1
 favella
 forevouch 1
@@ -1704,7 +1704,7 @@ fashionmonger 3
 flighted
 fascio
 floats
-filicin
+filicin 1
 fortravail
 factable
 floroon
@@ -5963,7 +5963,7 @@ fallibility
 fortunite 3
 floodlit
 fibromembrane 1
-floods 1
+floods 2
 foisons 1
 fortifiable 1
 fisk
@@ -6749,7 +6749,7 @@ food 1
 foliageous
 fineer
 forelimb 2
-furthersome 3
+furthersome 4
 fibrochondroma 1
 fleury 1
 floruits
@@ -7372,7 +7372,7 @@ famelessly
 faubourg 1
 forebodingly
 footplate
-flakiness 1
+flakiness 2
 fortunous
 feedlots 1
 flyness
@@ -7521,7 +7521,7 @@ floppily 1
 fatten
 fullface
 forebode 1
-fauld
+fauld 1
 frictionlessness
 fest
 forebody
@@ -8450,7 +8450,7 @@ filcher 1
 fullom
 futhark
 form
-fluoroscopes
+fluoroscopes 1
 fullerboard
 folksy 3
 formalesque 2
