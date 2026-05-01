@@ -2250,7 +2250,7 @@ fenced
 fencelessness 1
 forkiest
 feudalisation
-frolics
+frolics 1
 fusula
 filigerous
 funnymen 1
@@ -2857,7 +2857,7 @@ faithed
 firmisternal
 fetology
 fibroglia 1
-furunculosis
+furunculosis 1
 flatwares
 formol
 feltyfare 1
