@@ -3992,7 +3992,7 @@ forlay
 flunk 1
 ferric
 furazolidone 1
-fender 1
+fender 2
 fluorosis
 fumblers
 foramina
@@ -8390,7 +8390,7 @@ flagellata
 forkedness 1
 flinthearted
 folderol
-feastful
+feastful 1
 fewsome 1
 feigningly
 flaff
