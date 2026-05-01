@@ -12872,7 +12872,7 @@ banishers
 babblish
 boonfellow
 betrayers 1
-bondslave
+bondslave 1
 behorror
 bifoil
 birthplace 1
