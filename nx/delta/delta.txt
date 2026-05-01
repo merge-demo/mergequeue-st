@@ -13802,7 +13802,7 @@ disenchants 1
 dion
 dissuasion
 depainted
-depravedly
+depravedly 1
 deaspirate
 dirndls
 detruncate
