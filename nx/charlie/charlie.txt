@@ -15,7 +15,7 @@ cabal 1
 condylarthrous
 cryptostoma
 chevance
-chaenomeles
+chaenomeles 1
 cows 1
 crease
 corkmaking
