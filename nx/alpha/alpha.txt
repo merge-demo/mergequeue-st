@@ -16133,7 +16133,7 @@ archine
 advection
 anearing
 antiseptize
-allision
+allision 1
 aerospace 1
 acerb
 abets 1
