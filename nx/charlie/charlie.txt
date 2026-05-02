@@ -28908,7 +28908,7 @@ cutwal 1
 calendarer
 cradlefellow
 canular
-crewman
+crewman 1
 crewmanship
 crewmen
 crewneck
