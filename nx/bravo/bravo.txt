@@ -13267,7 +13267,7 @@ buffbar 1
 bedevil 1
 bogomil
 bosset
-barebacked
+barebacked 1
 bonducnut
 bedstaff 2
 bokard
