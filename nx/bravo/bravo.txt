@@ -9603,7 +9603,7 @@ branchiostomous
 bisdiapason 1
 binary 2
 bicapsular
-bandlimits
+bandlimits 1
 bisectors
 bisectrices
 bednighted
