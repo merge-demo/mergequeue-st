@@ -16500,7 +16500,7 @@ brusquest
 boucherize 1
 brussel
 blackshirt
-bordered
+bordered 1
 bestrode
 brustle
 beclart
