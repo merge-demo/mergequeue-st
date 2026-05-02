@@ -13800,7 +13800,7 @@ ensures
 exodontist 1
 encloak
 exosperm
-evermo
+evermo 1
 entea
 extispicious
 extoling 1
