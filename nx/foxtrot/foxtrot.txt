@@ -4473,7 +4473,7 @@ fashioned
 factorize 1
 furthermost 1
 fleshing
-foreloop
+foreloop 1
 fishspear 1
 fantocine 1
 fluffier
