@@ -27986,7 +27986,7 @@ concubinaries 1
 cheeriness 1
 craftwork
 cottoner
-craftworker
+craftworker 1
 crag
 craggy
 chromoscopic
