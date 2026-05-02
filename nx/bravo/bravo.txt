@@ -11525,7 +11525,7 @@ bombload
 blumes
 benighting
 blunderbusses
-bowed
+bowed 1
 boundure
 bestare
 bultell
