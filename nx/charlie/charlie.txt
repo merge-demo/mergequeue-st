@@ -2540,7 +2540,7 @@ candlebomb 1
 candlefish
 corporeal
 candlefishes
-collogued
+collogued 1
 candleholder 1
 candlelighter
 chaloth
