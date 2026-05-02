@@ -20574,7 +20574,7 @@ checks
 compendency
 compendia
 correlativity 2
-celtophobe
+celtophobe 1
 compendious
 compendium
 compendiums
