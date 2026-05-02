@@ -3472,7 +3472,7 @@ foreconsider
 fallback 2
 fighteress 1
 fatigation
-fighting
+fighting 1
 formboard
 figo 2
 foraminifer 1
