@@ -5898,7 +5898,7 @@ deprint
 depriorize 1
 disorderedness
 deprivable
-dormin
+dormin 1
 degrader 2
 departements 1
 deceiver
