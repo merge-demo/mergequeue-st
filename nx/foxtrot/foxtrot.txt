@@ -6722,7 +6722,7 @@ feast
 fellowships
 forelegs 1
 fogon
-fogproof
+fogproof 1
 forstand
 fellator 2
 frangulaceae
