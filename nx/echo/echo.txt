@@ -12576,7 +12576,7 @@ encrypted
 exsects
 exite 1
 eranist
-extinction
+extinction 1
 envied
 enherit
 electroetching
