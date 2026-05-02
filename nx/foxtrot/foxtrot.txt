@@ -3632,7 +3632,7 @@ footmaker 2
 frisbees 1
 flook
 farmable
-fridstool
+fridstool 1
 flashing
 faintishness 1
 fielder 4
