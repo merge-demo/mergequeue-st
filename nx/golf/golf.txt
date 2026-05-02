@@ -3690,7 +3690,7 @@ goonie
 graveldiver
 getatable
 gazoz
-goldfield
+goldfield 1
 generator 1
 gropingly
 germania 2
