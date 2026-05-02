@@ -4430,7 +4430,7 @@ doddy
 damper 1
 diazotization 1
 demibeast
-demibelt
+demibelt 1
 deuterate
 drummy
 dislink
