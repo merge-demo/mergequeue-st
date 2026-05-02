@@ -11230,7 +11230,7 @@ discamp
 drawstring 1
 discanted 1
 dermochelys
-decompoundable
+decompoundable 1
 dissembling
 dropt
 duckwheat
