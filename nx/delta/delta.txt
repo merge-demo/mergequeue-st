@@ -15227,7 +15227,7 @@ dingmaul
 drabnesses
 disbursal
 demipriest
-dogsleep
+dogsleep 1
 derotremate
 domicile
 dal
