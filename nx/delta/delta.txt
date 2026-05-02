@@ -15999,7 +15999,7 @@ doub
 downsize 1
 decrepitude
 direct 1
-double
+double 1
 dotter 1
 detrimentality
 doubleheartedness
