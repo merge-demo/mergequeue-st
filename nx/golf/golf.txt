@@ -2546,7 +2546,7 @@ generalized
 grammar
 graywall
 guv 2
-gangliasthenia
+gangliasthenia 1
 goosefish 2
 granodiorite
 giltheads
