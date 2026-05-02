@@ -14245,7 +14245,7 @@ drinkless
 die 1
 dormer
 ditalini
-devitalise
+devitalise 1
 dahoman
 disorienting 2
 decolourizing 1
