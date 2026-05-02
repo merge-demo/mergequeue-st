@@ -3600,7 +3600,7 @@ freijo 1
 fazing
 foreroom
 floatboard
-flowcontrol
+flowcontrol 1
 flagitation
 fullymart 1
 frosting 1
