@@ -3460,7 +3460,7 @@ bastions 1
 boughpot
 bef
 bastite
-brushfire
+brushfire 1
 brigade
 basto
 baguios
