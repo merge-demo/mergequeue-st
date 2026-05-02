@@ -16424,7 +16424,7 @@ dulc 1
 draggletailedness 1
 doxa
 doxastic
-daemon
+daemon 1
 doxasticon
 dghaisa
 dinglebird
