@@ -11671,7 +11671,7 @@ electivity 1
 equippers
 eliminations
 eburnian
-enfire
+enfire 1
 exactitude 1
 electrohydraulic
 emissaryship
