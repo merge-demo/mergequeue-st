@@ -6645,7 +6645,7 @@ footpath
 forevouched
 figured
 foehnlike
-foeless
+foeless 1
 faulted
 fulgurating 1
 forenotice
