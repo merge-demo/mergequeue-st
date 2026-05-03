@@ -2138,7 +2138,7 @@ genets 1
 gds 1
 gaycat
 grainer
-gaze
+gaze 1
 genteelly 2
 glout 1
 gastrotrichan
