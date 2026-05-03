@@ -3515,7 +3515,7 @@ defrayable 1
 disembarrassment
 dismissable
 doom 1
-drowsed 1
+drowsed 2
 desaturate
 desiccated 2
 defloration
