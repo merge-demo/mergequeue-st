@@ -11091,7 +11091,7 @@ bevelling
 blocking 1
 borborygmic
 benzimidazole
-biomorphic
+biomorphic 1
 builder
 billeter
 bedwarfs
