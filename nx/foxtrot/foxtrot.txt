@@ -3691,7 +3691,7 @@ flannelboard
 folder
 fillable
 frownless
-flavorlessness
+flavorlessness 1
 featherers 2
 feodal
 frousiest
