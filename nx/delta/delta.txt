@@ -784,7 +784,7 @@ dandler
 defs
 dispurpose
 drawn
-devolatilize
+devolatilize 1
 dacryocystotomy 2
 diabolisation 1
 discute 2
