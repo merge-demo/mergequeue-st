@@ -5278,7 +5278,7 @@ coalitions
 cassation
 caveats
 cerin
-cassegrain
+cassegrain 1
 chromomeric
 cassegrainian
 casseroling
