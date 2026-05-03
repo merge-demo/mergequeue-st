@@ -3548,7 +3548,7 @@ disfrock
 disseminate 1
 diethylamine
 disenchanter
-defunctionalize
+defunctionalize 1
 defusion
 deformalize 1
 dingles
