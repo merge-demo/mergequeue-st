@@ -579,7 +579,7 @@ decolonized
 daunch 2
 drillbit 1
 damfool
-div
+div 1
 digenea
 dissolver
 diwata
