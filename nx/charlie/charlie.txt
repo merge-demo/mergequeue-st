@@ -27985,7 +27985,7 @@ craftspeople 1
 concubinaries 1
 cheeriness 1
 craftwork
-cottoner
+cottoner 1
 craftworker
 crag
 craggy
