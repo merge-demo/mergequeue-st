@@ -4240,7 +4240,7 @@ fireplug 1
 firepot
 foreflank
 forebooms
-flots
+flots 1
 frangipanni
 floridians
 flaxbird
