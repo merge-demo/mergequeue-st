@@ -10842,7 +10842,7 @@ generality 1
 gyrofrequency 1
 genethlialogical 1
 girderage
-gyrograph
+gyrograph 1
 guaiacum
 grudgefully
 guzul
