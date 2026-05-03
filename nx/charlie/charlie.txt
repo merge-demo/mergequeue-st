@@ -20718,7 +20718,7 @@ complex
 complexation
 complexedness
 complexer
-cuinfo
+cuinfo 1
 complexes 1
 cercis
 convolvuli
