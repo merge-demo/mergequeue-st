@@ -7289,7 +7289,7 @@ diffusivity 1
 dollies 2
 diaxone
 disturbor
-doukhobor
+doukhobor 1
 devisers 2
 defecters 1
 defecation
