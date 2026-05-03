@@ -28502,7 +28502,7 @@ coruscant
 carapo
 creatureship
 conversibility
-creaturize
+creaturize 1
 churchanity
 crebricostate
 crebrisulcate
