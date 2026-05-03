@@ -9122,7 +9122,7 @@ disweapon
 didelphoid 2
 disinclines
 derisory
-doffs
+doffs 1
 desexualized
 dauphines
 detriment
