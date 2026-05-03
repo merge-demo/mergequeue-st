@@ -7939,7 +7939,7 @@ directed
 dextran
 doublelunged
 disallowable
-demicylinder
+demicylinder 1
 downsteepy
 diathermal
 decimeters
