@@ -9888,7 +9888,7 @@ chemosynthesis
 chemosynthetic
 chemosmoses
 chemosmotic
-consumptible
+consumptible 1
 choora
 caleches
 clays 1
