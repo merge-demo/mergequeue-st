@@ -17411,7 +17411,7 @@ droppers 1
 diurnalness 1
 dropping
 disframe
-declaims
+declaims 1
 departmentalisation 1
 droppings
 drops
