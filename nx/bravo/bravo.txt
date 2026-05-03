@@ -3127,7 +3127,7 @@ betokener
 boosting
 boneset
 baselevel 1
-bismarck
+bismarck 1
 bowstringing 1
 bustards 1
 boswellize
