@@ -10960,7 +10960,7 @@ eggbeater
 epipelagic
 ends 1
 ecbolic
-entomophila
+entomophila 1
 eupnoea
 exes
 emboweler
