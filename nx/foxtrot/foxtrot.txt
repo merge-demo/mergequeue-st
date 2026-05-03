@@ -10580,7 +10580,7 @@ franking 1
 frostroot
 fluky
 flatus
-furnaces
+furnaces 1
 fossilised
 fieldpiece 2
 frowziest
