@@ -10578,7 +10578,7 @@ falltime 1
 forcipiform
 franking 1
 frostroot
-fluky
+fluky 1
 flatus
 furnaces
 fossilised
