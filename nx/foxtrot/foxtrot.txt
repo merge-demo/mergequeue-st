@@ -4144,7 +4144,7 @@ firebomb
 fractile 1
 fakiness 1
 ferk 1
-fairlike
+fairlike 1
 fractionlet
 faithwise
 figments
