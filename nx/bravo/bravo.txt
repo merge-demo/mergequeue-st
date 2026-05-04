@@ -12876,7 +12876,7 @@ bondslave 2
 behorror
 bifoil
 birthplace 1
-bg 1
+bg 2
 befanned
 bacchiac 1
 bangster 1
