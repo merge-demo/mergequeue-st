@@ -12982,7 +12982,7 @@ despisal
 dimout
 drossel 1
 dauntless
-depredicate
+depredicate 1
 dinoceratidae
 disorganization
 dinning
