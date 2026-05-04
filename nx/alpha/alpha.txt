@@ -5324,7 +5324,7 @@ anchor
 agency
 acrosome
 axis 1
-atelic
+atelic 1
 affirmations
 antiegotistically
 adorant
