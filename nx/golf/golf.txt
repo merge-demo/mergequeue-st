@@ -756,7 +756,7 @@ gansa
 gestapos 1
 grapewise
 gerim
-gunbearer
+gunbearer 1
 gambles
 gerkin
 galvanopuncture
