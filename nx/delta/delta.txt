@@ -3720,7 +3720,7 @@ dehkan
 durmasts 1
 decimate
 dehonestation
-disoccupied
+disoccupied 1
 dehorn 1
 dolcan
 desmose
