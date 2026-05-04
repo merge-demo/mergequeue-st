@@ -10843,7 +10843,7 @@ gyrofrequency 1
 genethlialogical 1
 girderage
 gyrograph
-guaiacum
+guaiacum 1
 grudgefully
 guzul
 gasworker
