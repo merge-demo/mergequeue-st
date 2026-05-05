@@ -4302,7 +4302,7 @@ florescence
 forequarters
 fluyt 1
 factive
-fet
+fet 1
 fusee 3
 ferd
 flamethrower
@@ -8129,7 +8129,7 @@ floodplain 1
 fragilaria 1
 formalized
 feasances 1
-feminines 1
+feminines 2
 fractiousness 1
 foretackle
 freemasonism
