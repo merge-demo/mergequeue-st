@@ -4255,7 +4255,7 @@ extoller
 emulsoids 1
 exfiltration 1
 elohim
-enlay 1
+enlay 2
 escarpments 2
 ectogenous
 engs
@@ -4545,7 +4545,7 @@ exhauster 1
 ethnopsychic
 euphemism
 endosarcode 1
-ethnolinguistics
+ethnolinguistics 1
 eeriest
 epicerastic 1
 ensigned
