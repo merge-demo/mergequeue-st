@@ -3888,7 +3888,7 @@ birthbed
 barnacles
 bullpouts
 babus
-bawdrics
+bawdrics 1
 bawl
 bawled
 bawler
@@ -13061,7 +13061,7 @@ blousing
 bagpipe 1
 beriber
 borderline
-bowgrace
+bowgrace 1
 balneae
 borofluoric
 bedrop
