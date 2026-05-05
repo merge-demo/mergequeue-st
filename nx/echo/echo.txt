@@ -9808,7 +9808,7 @@ exact
 estrich
 etagre
 eikon
-egocentricity
+egocentricity 1
 enthronising
 endoceras
 engin
