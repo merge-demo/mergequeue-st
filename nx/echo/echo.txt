@@ -6411,7 +6411,7 @@ endangerments 1
 electromyography
 espave
 espousal
-expandibility 1
+expandibility 2
 ensnared 1
 edental
 evenmete 2
@@ -12290,7 +12290,7 @@ emarginating
 ensignry
 evilwishing
 entrochus
-efflorescency
+efflorescency 1
 els
 elegises 1
 everduring
