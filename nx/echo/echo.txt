@@ -10961,7 +10961,7 @@ epipelagic
 ends 1
 ecbolic
 entomophila
-eupnoea
+eupnoea 1
 exes
 emboweler
 extenuatory 1
@@ -11047,7 +11047,7 @@ exceptioner
 engrossers
 epipial 1
 eyne
-elderwomen 1
+elderwomen 2
 empty 1
 enrollments
 episcopacies
