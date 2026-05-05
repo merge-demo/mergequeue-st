@@ -2796,7 +2796,7 @@ cannings
 chemicalization
 chiccories
 cannister
-cannisters
+cannisters 1
 crystallographically
 convally
 cannonaded
@@ -5619,7 +5619,7 @@ cataloes
 cataloged
 character
 cariousness
-centi
+centi 1
 crochet
 catalogia
 crossweb
