@@ -2053,7 +2053,7 @@ eutectics
 edictal
 entraps 2
 enchainements
-ecphractic
+ecphractic 1
 eructs
 epi 1
 eugene
@@ -4796,7 +4796,7 @@ embusy
 emirs
 escapable
 exorciser 1
-encoder 1
+encoder 2
 episcopable
 embryogenetic
 enshrining 1
