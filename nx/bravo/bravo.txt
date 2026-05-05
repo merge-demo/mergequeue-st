@@ -2555,7 +2555,7 @@ besnare 1
 bs 1
 bilamellar
 boerdom 1
-brackishness
+brackishness 1
 begster
 birk
 backlists
@@ -11969,7 +11969,7 @@ birmingham 2
 bbls 1
 braireau
 bostons
-bogymen
+bogymen 1
 bogland
 budgerigah
 bytalk
