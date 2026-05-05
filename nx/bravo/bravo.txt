@@ -4583,7 +4583,7 @@ ballplayer
 barks
 besuit
 bundeli
-borborus
+borborus 1
 bedaubing
 beltlines
 bloodstone
@@ -9166,7 +9166,7 @@ ballgown
 biotechnologically
 bathysmal 1
 buccin
-botanists
+botanists 1
 butyraceous
 blanketed 1
 biotelemetries 2
