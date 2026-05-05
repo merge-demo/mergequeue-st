@@ -365,7 +365,7 @@ desalters
 dayman
 daric
 droughtiness
-detruss
+detruss 1
 daymares
 disseizes
 diarists
