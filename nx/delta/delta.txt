@@ -9415,7 +9415,7 @@ dismountable
 diffusions
 diffusive
 diffusors
-dalan
+dalan 1
 dentolingual
 diabolus
 diner
@@ -11384,7 +11384,7 @@ dissuader
 demivotary
 determinoid
 debug
-discloser
+discloser 1
 disclosive
 disclosure
 diplomaed
