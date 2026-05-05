@@ -1345,7 +1345,7 @@ epode 1
 exonerates
 encloser 1
 endoskeletal
-essentialness
+essentialness 1
 exomis 1
 estrone
 evasional 1
@@ -12992,7 +12992,7 @@ exodoi 1
 exclusion
 equipartile 1
 epicyclical
-expected 1
+expected 2
 eucharises
 extroitive
 embathe
