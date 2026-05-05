@@ -6787,7 +6787,7 @@ cubhood
 cerianthoid
 clearway
 celioparacentesis 1
-cerinthian
+cerinthian 1
 cowshard
 capless
 celioscope
@@ -15706,7 +15706,7 @@ clavicittern
 contraction
 clavicle
 cannas
-clavicorn
+clavicorn 1
 clavicornes
 clavicotomy
 clavicular
@@ -17542,7 +17542,7 @@ cocautioner
 coccaceae
 crucifix
 cohoshes
-colloid
+colloid 1
 coccaceous
 coccal
 conducible
