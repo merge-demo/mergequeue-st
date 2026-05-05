@@ -4299,7 +4299,7 @@ diode
 dysacousia 1
 demanded 1
 dissyllabized
-downplaying
+downplaying 1
 dilos
 dewlap
 descrier 1
@@ -9311,7 +9311,7 @@ dyeweed 2
 dyeweeds
 dermonosology
 darwinist
-dorsonasal
+dorsonasal 1
 dialysate
 diewise
 domoid
