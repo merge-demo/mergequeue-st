@@ -17928,7 +17928,7 @@ contractibility
 coefficients
 coelacanthidae
 coelacanthous
-coelar
+coelar 1
 coelastraceous 1
 canonics
 coelata
@@ -31126,7 +31126,7 @@ cunicular
 cuniculi 1
 camelid
 crosspatches
-cuniforms
+cuniforms 1
 cunila
 characterizable
 crystalliferous
