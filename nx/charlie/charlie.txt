@@ -18158,7 +18158,7 @@ calendry
 coercers
 coercible 2
 coercionary
-coercitive
+coercitive 1
 coercive
 coerciveness
 coercivity
