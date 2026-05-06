@@ -3161,7 +3161,7 @@ capelins
 cliffing
 capella
 coatimondie
-closemouth
+closemouth 1
 caper
 caperbush
 capercaillie 1
@@ -6240,7 +6240,7 @@ caudocephalad
 ceile
 clappering
 caudofemoral
-caudolateral
+caudolateral 1
 crossbones
 curstness 1
 centetidae
