@@ -5742,7 +5742,7 @@ fuzzball
 furnage
 fungistatic
 fougue
-frequentation 1
+frequentation 2
 fractuosity
 fels 1
 fins 1
@@ -10868,7 +10868,7 @@ flippest 2
 furoin 2
 fishpool
 forficate
-fortified
+fortified 1
 fumblingly
 fallout
 fontal
