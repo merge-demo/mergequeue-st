@@ -5184,7 +5184,7 @@ geophytes
 gabbles
 groundline 1
 glottidean
-glottiscope 2
+glottiscope 3
 gastriloquist
 gibbals
 gourding
@@ -8730,7 +8730,7 @@ greekize
 gavelling
 grammars
 gearing 1
-gastraeal
+gastraeal 1
 gates
 glunching 1
 gnathonical
