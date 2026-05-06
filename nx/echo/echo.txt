@@ -4139,7 +4139,7 @@ empodia
 eclegm 1
 extracranial
 energids 1
-enslumber
+enslumber 1
 expungement
 erythrodermia
 externum
@@ -11517,7 +11517,7 @@ exoergic 1
 exaction
 echinopanax 1
 exhibited
-expended
+expended 1
 electromyogram
 emendate
 engouled
