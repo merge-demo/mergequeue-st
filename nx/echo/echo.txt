@@ -10521,7 +10521,7 @@ edicts
 embezzlers
 endaortic 1
 epistoma
-enodal
+enodal 1
 evulge
 explosions
 entohyal
@@ -13800,7 +13800,7 @@ ensures
 exodontist 1
 encloak
 exosperm
-evermo
+evermo 1
 entea
 extispicious
 extoling 1
