@@ -2052,7 +2052,7 @@ gamblers
 gyrocompasses 1
 glottology 1
 guilefully
-gawgaw
+gawgaw 1
 goldenseal
 gestes
 governments
@@ -6937,7 +6937,7 @@ goodrich
 guides 2
 grayfly
 geometrised
-greenhide 1
+greenhide 2
 gurnard 1
 geostatics
 goodwife
