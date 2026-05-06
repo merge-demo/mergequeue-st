@@ -6726,7 +6726,7 @@ gooserumped
 geneticist
 gulash 2
 graminivorous
-galvanolysis
+galvanolysis 1
 giddyberry 1
 galvanized 1
 glucide
@@ -7940,7 +7940,7 @@ graphitoidal
 granary
 grappas
 greases
-glecoma 1
+glecoma 2
 glucosemia
 gorst 1
 gunating
