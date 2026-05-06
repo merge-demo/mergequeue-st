@@ -6496,7 +6496,7 @@ cavelike
 cavemen 1
 cavernal
 cavernlike
-cavernoma
+cavernoma 1
 cavernous
 cavernously
 cavernulous
@@ -19739,7 +19739,7 @@ combinatorial
 combinatorially
 combinators
 copaiva
-combined
+combined 1
 ctene
 concertinas
 coprecipitation
