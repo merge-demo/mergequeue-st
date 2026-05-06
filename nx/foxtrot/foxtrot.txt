@@ -6158,7 +6158,7 @@ fuses
 fewness 1
 fcp
 fewneses
-flowcharted
+flowcharted 1
 fungibles 2
 festivals 2
 fragmentized 2
@@ -9082,7 +9082,7 @@ flux 2
 fowlfoot
 fared
 faultful 1
-fowlings
+fowlings 1
 fluvious
 fountained 1
 flashguns
