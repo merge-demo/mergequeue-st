@@ -17343,7 +17343,7 @@ coassume
 crystallic 1
 coassuming
 chrysolite
-coast
+coast 1
 coastal
 coastally
 cohabitant
@@ -25031,7 +25031,7 @@ crushableness
 champain
 cordery
 cordewane
-conventing
+conventing 1
 clavial
 cordiality
 cordialities
