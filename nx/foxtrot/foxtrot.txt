@@ -1850,7 +1850,7 @@ feloid
 febrile
 forrue
 fcs
-forfeit
+forfeit 1
 fibrinogenically 1
 frondous 1
 fluidizer
@@ -6029,7 +6029,7 @@ filarious
 fresco
 fermorite
 flightiness
-finger 1
+finger 2
 fontange
 foggier 2
 forgab
