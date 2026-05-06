@@ -15247,7 +15247,7 @@ drawoff
 dealbuminize 1
 dissectible
 durante 1
-dendroclastic
+dendroclastic 1
 disconcerted
 devant
 decelerate 2
@@ -16729,7 +16729,7 @@ desubstantialize
 doubtless
 dramaturgically
 devisceration
-drammage 1
+drammage 2
 dramme
 dacryohemorrhea
 drammed
