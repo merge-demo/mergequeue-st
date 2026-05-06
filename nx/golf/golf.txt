@@ -476,7 +476,7 @@ galeorhinidae 3
 galere 1
 golpe
 gipsies
-galericulate
+galericulate 1
 groomers
 goudy 1
 germing 3
@@ -9990,7 +9990,7 @@ gargled
 gelseminic
 gleaner
 gelatinify
-galago
+galago 1
 gaslike 2
 gateau
 gudame
