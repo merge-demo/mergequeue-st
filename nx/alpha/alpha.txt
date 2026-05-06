@@ -12115,7 +12115,7 @@ amblyopsis
 autostability 1
 aerogen 1
 anhalamine
-airspeed
+airspeed 1
 anastasimon 1
 anastasius
 anemosis
@@ -18540,7 +18540,7 @@ austrophile
 arboricoline 1
 anhelose 1
 arboricolous 2
-arboriculture
+arboriculture 1
 abject
 ateknia
 arte 1
