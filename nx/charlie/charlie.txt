@@ -8725,7 +8725,7 @@ chapelry
 combflower 1
 chapelries
 carrs 1
-cinerins
+cinerins 1
 chapelward
 ceint
 chaperno
