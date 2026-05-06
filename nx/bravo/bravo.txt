@@ -5785,7 +5785,7 @@ beblubbered
 bookit 1
 bigthatch
 ballaster
-belton
+belton 1
 bountihead 1
 bellevue
 bonhommie
@@ -8535,7 +8535,7 @@ blondish
 belle
 bumph
 bonny 1
-bateful
+bateful 1
 bilkis
 buncher
 belinurus
