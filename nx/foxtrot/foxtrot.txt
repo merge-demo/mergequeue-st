@@ -772,7 +772,7 @@ flunker
 folkloric
 footworn
 fulmen 1
-flogging 1
+flogging 2
 fatality 1
 froster 1
 forensicality
@@ -7572,7 +7572,7 @@ fevering
 fodientia 1
 forecommend 1
 foreconclude 1
-flagonet 1
+flagonet 2
 figworts
 floggers
 ficoidal
@@ -10463,7 +10463,7 @@ fallowing 2
 fronter
 frontoauricular
 frontomallar 1
-frontomental
+frontomental 1
 fidibus
 folks 2
 forespecified 1
