@@ -5303,7 +5303,7 @@ evilspeaking
 expatriations 1
 evzones
 endocline 1
-epicrystalline
+epicrystalline 1
 encoring
 endosteomata 1
 enwingly
@@ -12637,7 +12637,7 @@ emanative
 enwheeling 1
 epitonium
 ectethmoid
-endostoma
+endostoma 1
 enriches 1
 effectualness 1
 epigenetically
