@@ -7453,7 +7453,7 @@ flagginess
 fulfillments
 forcipation
 flutelike 1
-forcipressure 1
+forcipressure 2
 faulx
 fenestrule
 frigidoreceptor 2
@@ -9012,7 +9012,7 @@ formally 1
 fourier
 fanglet 1
 fourierism
-fourneau
+fourneau 1
 femes
 filly
 feltings
