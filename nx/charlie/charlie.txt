@@ -9099,7 +9099,7 @@ container
 charta 2
 chartable
 charter
-charterer
+charterer 1
 charterers
 charterhouse
 chartering
