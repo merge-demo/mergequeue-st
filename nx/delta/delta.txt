@@ -17863,7 +17863,7 @@ ductilize
 disambiguated
 dueling
 ductless
-drinkable
+drinkable 1
 darktown 2
 darrell
 dorper
