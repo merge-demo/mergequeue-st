@@ -4366,7 +4366,7 @@ fathomed
 fishability 1
 flybook
 fixion
-fishboats
+fishboats 1
 fonduk 1
 flubdubberies
 fishbolts
