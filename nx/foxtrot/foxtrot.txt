@@ -57,7 +57,7 @@ flauntier
 forebless 1
 foresight
 friskily 1
-fretize 1
+fretize 2
 faster
 fibrolite
 fconv 2
@@ -5645,7 +5645,7 @@ fuddle 1
 fulgurata
 firetop
 favouritism
-flimsier
+flimsier 1
 fishbolt 1
 fondues 1
 fellowshiped
