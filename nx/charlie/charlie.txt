@@ -5267,7 +5267,7 @@ cassandra
 conc
 crawthumper
 cokeman
-creatrix
+creatrix 1
 conditioners
 conspecifics
 cassare
@@ -14712,7 +14712,7 @@ citess
 conspirative
 citharas
 citharexylum
-chaunts
+chaunts 1
 citharist 1
 coprophiliac
 coesite
