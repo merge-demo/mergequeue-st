@@ -24516,7 +24516,7 @@ clr
 circovarian 1
 composition 2
 copaivic
-copaliferous
+copaliferous 1
 copalite
 copalm
 coparcenar
