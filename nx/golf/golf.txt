@@ -5454,7 +5454,7 @@ guipure
 groundskeep 1
 glisk 1
 gastruran
-grangerising
+grangerising 1
 glyster 1
 galumphed 1
 graphy 1
@@ -10084,7 +10084,7 @@ ghostwrote 2
 galactodensimeter
 gelatinised
 grammarian
-gatehouse
+gatehouse 1
 gekkonoid
 gonfaloniership 3
 gasoscope
