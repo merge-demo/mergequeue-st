@@ -4891,7 +4891,7 @@ eglestonite
 ecliptics
 estrada 2
 endamaging 1
-estreated
+estreated 1
 ericeticolous 1
 exilable 1
 effacer
@@ -7570,7 +7570,7 @@ engines 1
 elne
 extrafascicular
 extratelluric
-epicondylic
+epicondylic 1
 eoiths
 epoptist
 endshake 1
