@@ -8359,7 +8359,7 @@ deplanes 1
 dialysable
 dorobo
 dahabiahs
-deaconess
+deaconess 1
 dinitrophenylhydrazine 1
 dobbins
 delocalizing
@@ -12845,7 +12845,7 @@ decadrachm
 divertissant 1
 decuplet
 deferentiality
-dominative
+dominative 1
 draggletailedly 1
 dhanvantari 2
 dysmenorrheic
