@@ -1017,7 +1017,7 @@ epinicion
 ethyls 1
 edeodynia
 edeomania 2
-enhamper 1
+enhamper 2
 emberizinae
 enslavedness
 elberta 1
@@ -3107,7 +3107,7 @@ elmwood
 exudations
 eyewash
 empennage
-equiangularity
+equiangularity 1
 epicalyces
 even 1
 epistolatory
