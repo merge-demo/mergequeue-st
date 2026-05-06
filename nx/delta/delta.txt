@@ -3623,7 +3623,7 @@ dubbing
 dissonance
 deglory 1
 dec 1
-disarrangement
+disarrangement 1
 decubation
 denounced
 despisement
@@ -8350,7 +8350,7 @@ diplumbic
 discriminations
 dichotomization 1
 dialysability
-diastolic 1
+diastolic 2
 docquet 2
 dimerizing
 disgruntles 1
