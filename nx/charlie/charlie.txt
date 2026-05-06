@@ -1320,7 +1320,7 @@ calibrates
 cloison
 catchwater 1
 calibrating
-calibre
+calibre 1
 causative
 cyanohydrin 1
 catalects 1
@@ -5006,7 +5006,7 @@ cartouche
 curmudgeon
 cust
 costrel
-chiclero
+chiclero 1
 canalman
 cryptovolcanic
 conceptuality
