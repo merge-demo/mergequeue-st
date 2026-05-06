@@ -2457,7 +2457,7 @@ footbridges 2
 fermentescible
 filiform 1
 fielding
-falla
+falla 1
 fornax 1
 ferruginated 1
 flowable
@@ -4970,7 +4970,7 @@ fintadores 3
 frenulum 2
 forehinting
 flyway
-feebleheartedly 2
+feebleheartedly 3
 flanch 1
 farcemeat
 formalize
