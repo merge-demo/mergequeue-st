@@ -347,7 +347,7 @@ eavedropping 1
 entrenchments
 ephthianure
 endevil
-embouchement
+embouchement 1
 efformative
 excentral 1
 eyestone
@@ -1718,7 +1718,7 @@ exclaimers
 exonerated
 eyelash
 euroclydon
-eliding 1
+eliding 2
 eyelessness
 exert
 ecdemic
