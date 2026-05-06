@@ -945,7 +945,7 @@ embalming
 entailments
 euchrone
 effronteries
-erythroblastotic 1
+erythroblastotic 2
 enhearse 2
 expositor 1
 eudiagnostic 2
@@ -8286,7 +8286,7 @@ enchannel
 exercised
 emulating
 eagling
-epitheme
+epitheme 1
 effierce
 evangelise
 electrosurgical
