@@ -5593,7 +5593,7 @@ flintiness 1
 ferricyanhydric
 flaglike
 flicker
-fixity
+fixity 1
 frapler
 floatable 3
 fiords
