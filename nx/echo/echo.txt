@@ -3525,7 +3525,7 @@ eloquentness
 escorted
 enured 1
 epigonichthyidae 2
-embolectomy 1
+embolectomy 2
 enicuridae
 emboli
 ergastulum
@@ -5988,7 +5988,7 @@ eulophid
 electrodesiccate 1
 elkesaite
 electricalness
-electrodynamism
+electrodynamism 1
 exhortative 2
 estampedero
 erosion
