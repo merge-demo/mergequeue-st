@@ -9434,7 +9434,7 @@ bridegroom
 bilifaction
 bobwood
 bovidae
-boga
+boga 1
 birectangular 1
 burh
 bireme 1
@@ -11746,7 +11746,7 @@ bauxitite 1
 bobfloat 2
 bobierrite
 bobjerom
-bioelectricity
+bioelectricity 1
 boorish
 backpacker 1
 behung
