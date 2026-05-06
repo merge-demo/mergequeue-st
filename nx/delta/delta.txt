@@ -2956,7 +2956,7 @@ describers
 decemfid 2
 decident
 deductio
-deductions
+deductions 1
 dwarfism
 distrainment 2
 deductive 2
