@@ -5805,7 +5805,7 @@ erlkings 1
 epicele 1
 extrinsic 1
 engram 2
-engrafter 1
+engrafter 2
 exibilate
 engrailed
 elsewards 1
@@ -5834,7 +5834,7 @@ engrasp 1
 emancipatory
 ephedrins
 extrasensible
-extravagence
+extravagence 1
 engraver
 expalpate
 entree 1
