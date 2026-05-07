@@ -539,7 +539,7 @@ dao 1
 damagers
 damalic
 dextrorotation 1
-demobilized
+demobilized 1
 designations 1
 dialyzing
 dioicously
