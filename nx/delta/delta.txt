@@ -1774,7 +1774,7 @@ debriefs
 deathtrap 2
 devocalization
 drof
-deathward
+deathward 1
 ductility 1
 docent
 downlier
