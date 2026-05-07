@@ -784,7 +784,7 @@ dandler
 defs
 dispurpose
 drawn
-devolatilize
+devolatilize 1
 dacryocystotomy 2
 diabolisation 1
 discute 2
@@ -10344,7 +10344,7 @@ derelictly
 degeneracy
 dioramic
 diordinal
-duplet
+duplet 1
 disgregation
 dipotassic 1
 disassimilate
