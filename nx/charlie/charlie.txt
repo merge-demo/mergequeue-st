@@ -6935,7 +6935,7 @@ catchpenny
 concours
 ceratinous
 cenaculum
-cloglike
+cloglike 1
 cenation
 cencerro
 coumarane
@@ -9596,7 +9596,7 @@ cynodontia
 capernaite
 casklike
 cheepers
-cheepier
+cheepier 1
 cheepiest
 cheepiness 1
 ceramidium
