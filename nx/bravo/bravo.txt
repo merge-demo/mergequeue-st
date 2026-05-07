@@ -2177,7 +2177,7 @@ backup 1
 bugling
 blahlaut 2
 baptisias
-bonehead
+bonehead 1
 bricksetter
 burnishes
 bediapered
@@ -7940,7 +7940,7 @@ befall
 bibliosoph
 bibliothecae
 bibliothecarian
-bungalows
+bungalows 1
 batoka 1
 buaze 1
 butic
