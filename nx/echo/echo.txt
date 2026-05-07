@@ -2269,7 +2269,7 @@ eudiometry
 exormia 1
 enbloc
 eyelets
-endolymph 1
+endolymph 2
 excretal
 elections
 eger 1
@@ -8174,7 +8174,7 @@ euthenic
 earlobe
 exodontic
 effaceable
-episcia
+episcia 1
 extracting
 ermani
 elydoric 2
