@@ -11967,7 +11967,7 @@ differen
 disenchant 1
 dowd
 disenchantments
-disenchantress
+disenchantress 1
 depluming 2
 difforme
 disencharm
