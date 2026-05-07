@@ -6770,7 +6770,7 @@ gyrostatics 1
 genal 1
 genros
 geochemical 1
-gondola
+gondola 1
 goniums 2
 gasser
 glanis
