@@ -4297,7 +4297,7 @@ cottages
 carfare
 carfares
 carfloat
-conservatoire
+conservatoire 1
 crenic 1
 coater
 carfuffle
@@ -30619,7 +30619,7 @@ cucoline
 cucuy
 chunnia 1
 cucujid
-chromotrope
+chromotrope 1
 cucujus
 callitype
 cutest
