@@ -28,7 +28,7 @@ febricula 1
 freeman 1
 floodlet
 fourchee
-fieldmen
+fieldmen 1
 fibrolitic 1
 feaked
 fibrocyst 1
@@ -8622,7 +8622,7 @@ feigner
 fossilize 1
 fornicatrix 1
 fieldman 1
-frameshift 1
+frameshift 2
 fullfil
 flaskful
 fissionable
