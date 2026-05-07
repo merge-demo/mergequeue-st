@@ -9026,7 +9026,7 @@ biomes 2
 brokers
 beanlike
 beavery
-babelike
+babelike 1
 brontephobia
 besmuts
 biometries 1
@@ -18386,7 +18386,7 @@ bluebook
 barycenter
 balaustre
 byronics
-betwattled 1
+betwattled 2
 buzzerphone
 buzzier
 burghermaster 2
