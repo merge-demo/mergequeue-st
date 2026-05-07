@@ -973,7 +973,7 @@ factabling
 fulmina 2
 foreplan
 formate
-foreorder
+foreorder 1
 fenester 1
 flustrating
 factorability 1
@@ -9628,7 +9628,7 @@ foxfires
 floreta 1
 frontopontine
 fizzed
-friableness
+friableness 1
 frizzing 2
 fraternality 2
 fivestones
