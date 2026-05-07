@@ -1887,7 +1887,7 @@ bandfile 1
 burdon 1
 brownism
 blobbiness
-bipolarization 1
+bipolarization 2
 brython
 birken
 bandhook
@@ -2610,7 +2610,7 @@ blawed
 bridgelike 1
 barkary
 bluestocking
-barkbound
+barkbound 1
 bamoth
 betterments
 barkcutter
