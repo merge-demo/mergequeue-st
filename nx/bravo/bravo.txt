@@ -5257,7 +5257,7 @@ bioblast 1
 bestraddle
 bastes 2
 bothsided
-begazing
+begazing 1
 bimasty
 borderer
 bedabbling
@@ -7157,7 +7157,7 @@ bifoliate 1
 biologist
 brightly
 barricades
-bessel
+bessel 1
 bessemerize
 bugleweed 1
 besses
