@@ -5278,7 +5278,7 @@ coalitions
 cassation
 caveats 1
 cerin
-cassegrain
+cassegrain 1
 chromomeric
 cassegrainian
 casseroling
@@ -11946,7 +11946,7 @@ covibrate
 crestfallenness
 cerites
 cohanim
-cruces
+cruces 1
 cosmochemistry
 choreoid
 crocidolite
