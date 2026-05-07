@@ -4496,7 +4496,7 @@ combatants
 cogways
 cytocide
 circumference
-carlot
+carlot 1
 carls
 cavorters
 communalised
@@ -11747,7 +11747,7 @@ chondroblastoma 2
 chondrocyte
 coniomycetes
 caliphates
-crannage
+crannage 1
 chondrocoracoid
 consonantalizing
 chondrocostal
