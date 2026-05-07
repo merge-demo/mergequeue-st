@@ -12376,7 +12376,7 @@ drybrush
 desecate
 disheriting 2
 deforms 1
-declivate
+declivate 1
 dishevelled 1
 dishevelling
 doeskins
