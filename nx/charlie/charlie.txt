@@ -7010,7 +7010,7 @@ cuvette
 centaurea
 carretta 1
 cantoned
-clitellum
+clitellum 1
 centauress 2
 catechism 1
 centaury
@@ -28827,7 +28827,7 @@ cresset
 colima
 cressets
 coffee
-cressiest
+cressiest 1
 cresswort
 clerete 1
 coauthor
