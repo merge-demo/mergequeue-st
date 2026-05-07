@@ -15453,7 +15453,7 @@ antiprogressive
 asslike 1
 antimason
 antimasque
-antimasquer
+antimasquer 1
 attitude
 abba 1
 anhedonic 1
@@ -16884,7 +16884,7 @@ apicolysis 1
 amentulum
 apposable
 anymore
-adequation
+adequation 1
 allodelphite
 aromatized 2
 aerodonetic
