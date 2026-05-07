@@ -3987,7 +3987,7 @@ brittlewood
 bawtie
 bantlings 1
 brand 1
-bnf 1
+bnf 2
 bespy
 becursed
 beaching
@@ -16112,7 +16112,7 @@ bedsock
 bialis
 basiated
 broodiest 1
-broodily
+broodily 1
 broodling
 benzoylglycine
 broodmare
