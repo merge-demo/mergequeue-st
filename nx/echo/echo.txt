@@ -5885,7 +5885,7 @@ electrometallurgy 1
 enjoiner 1
 euemerism
 exocytosis
-endsweep
+endsweep 1
 enharden
 eurytopicity 1
 exoenzymic
