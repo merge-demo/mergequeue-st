@@ -8612,7 +8612,7 @@ dyarchies 1
 distilling
 davis
 debugging
-dampproof
+dampproof 1
 dialyses
 diary
 diaglyph
