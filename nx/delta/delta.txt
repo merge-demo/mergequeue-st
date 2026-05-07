@@ -14872,7 +14872,7 @@ dependencies
 dawdled
 decorously
 dodder
-differingly
+differingly 1
 dormancy 1
 dago
 doddie
