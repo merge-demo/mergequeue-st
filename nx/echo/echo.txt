@@ -7713,7 +7713,7 @@ executable 1
 epidiascope 1
 expectorants 2
 engraff
-ecce
+ecce 1
 epichilia
 epiphysitis
 egoism
