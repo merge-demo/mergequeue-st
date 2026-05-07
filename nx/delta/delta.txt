@@ -2633,7 +2633,7 @@ dumpcarts
 decreers
 decolours 1
 dornock 1
-decommissioned 1
+decommissioned 2
 discriminably
 decian
 dozers
@@ -7618,7 +7618,7 @@ devaul 1
 deoxygenating
 degaussed
 diamant 1
-disbursements
+disbursements 1
 doctrinally
 diathermaneity
 differentiations
