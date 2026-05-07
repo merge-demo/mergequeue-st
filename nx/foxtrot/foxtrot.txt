@@ -2335,7 +2335,7 @@ fenzelia
 firestopping
 foreimagine 1
 fconvert
-feoffer
+feoffer 1
 fiberous
 feoffs
 fasciole 1
@@ -11052,7 +11052,7 @@ foresights 1
 fora
 filiferous
 frontignac
-fraction 1
+fraction 2
 fumarate
 fantasizing
 flammulated 1
