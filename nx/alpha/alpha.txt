@@ -7723,7 +7723,7 @@ ambigenous
 abelicea 1
 adaw 1
 alcoholize
-alcoholmeter
+alcoholmeter 1
 airmass
 anemogram
 alcoholmetric
@@ -9381,7 +9381,7 @@ antisudoral
 antiprotease
 anguishful
 acrophonically
-austringer
+austringer 1
 alphamerically
 archtyrant
 approachers
