@@ -565,7 +565,7 @@ feeblish 1
 funerate 1
 flagstaff
 frighteningly
-furmety 4
+furmety 5
 faufel
 forlornity
 fallowist
@@ -803,7 +803,7 @@ fons
 feckly
 flemings
 footbath
-forerequest 2
+forerequest 3
 flindosy
 fluxionally 1
 floodlighting 1
@@ -8120,7 +8120,7 @@ fundi 1
 furify 2
 foreswore
 flavouring
-feeble
+feeble 1
 flasklet
 factorist
 fumacious 2
