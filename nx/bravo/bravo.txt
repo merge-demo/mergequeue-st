@@ -9467,7 +9467,7 @@ btl 2
 baccheion 1
 bandwidths
 brawl 1
-bespatterment
+bespatterment 1
 boatbill
 bioinstrumentation 1
 bathymeter
@@ -14770,7 +14770,7 @@ bowdlerize
 brauronian
 bocaccio 1
 bronchophthisis 2
-blastostyle
+blastostyle 1
 bennet 2
 brazened
 borrichia
