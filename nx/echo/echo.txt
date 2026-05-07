@@ -4848,7 +4848,7 @@ ensured 1
 entablements
 ef
 encumbrance
-extrabureau
+extrabureau 1
 english
 encumbrous
 evolves 1
