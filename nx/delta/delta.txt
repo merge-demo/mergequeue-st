@@ -800,7 +800,7 @@ diuretical
 danegelds
 deckhead
 daneweed
-daneweeds
+daneweeds 1
 detections
 dactyliomancy
 diabrotic
@@ -9746,7 +9746,7 @@ dreamingly
 decence
 duct
 discapacitate 1
-directional
+directional 1
 decider
 danewort 1
 divulgating
