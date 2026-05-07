@@ -787,7 +787,7 @@ drawn
 devolatilize 1
 dacryocystotomy 2
 diabolisation 1
-discute 2
+discute 3
 delirament 1
 dissections
 diapsidan 2
@@ -16872,7 +16872,7 @@ discontinual
 diurnally
 determinativeness 1
 discharity
-dozes
+dozes 1
 depreciations
 dissyllabise 1
 diffidence
