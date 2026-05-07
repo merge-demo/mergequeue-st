@@ -12442,7 +12442,7 @@ damageableness
 dancette 1
 dexterity
 defy
-deboise
+deboise 1
 demesne
 dislimb
 dicalcium 1
