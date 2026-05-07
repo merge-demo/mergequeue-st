@@ -2807,7 +2807,7 @@ desistive
 deerflys
 disulphonate
 decries 1
-decrying
+decrying 1
 douc
 depolarizers 1
 danegelt 3
@@ -8244,7 +8244,7 @@ diploetic
 diagnostician 1
 dispopularize
 draped
-disputableness 1
+disputableness 2
 dispels
 diagonal
 diagonalizable
