@@ -8100,7 +8100,7 @@ bailments
 bicuspid 1
 bruxism
 brast 2
-biddability 2
+biddability 3
 biddably
 benedict 1
 boread
@@ -13933,7 +13933,7 @@ blennorrhoea
 behavior
 bowtell 1
 barographic 1
-backpointer
+backpointer 1
 bridgework
 byspell
 broadened
