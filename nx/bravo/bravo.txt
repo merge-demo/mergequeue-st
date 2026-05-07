@@ -2506,7 +2506,7 @@ bultow
 bruting 1
 bandelet 1
 barfish
-buckraming
+buckraming 1
 billbugs
 bargaining
 beechwoods
@@ -15215,7 +15215,7 @@ bovinities
 bipinnaria
 bribees
 bribeless 1
-briberies
+briberies 1
 bicentennials
 bedeaf
 blancs
