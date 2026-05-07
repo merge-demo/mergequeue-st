@@ -12615,7 +12615,7 @@ chronologizing
 chronomantic
 chronomastix
 chronometer
-crom
+crom 1
 citolers
 chronometers
 countercultures 1
@@ -23866,7 +23866,7 @@ cryophorus
 cystospasm 1
 contrivable 1
 combers
-contrivances
+contrivances 1
 contrive
 curds
 cinchonology
