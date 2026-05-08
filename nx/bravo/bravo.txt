@@ -12874,7 +12874,7 @@ boonfellow
 betrayers 2
 bondslave 2
 behorror 1
-bifoil
+bifoil 1
 birthplace 1
 bg 1
 befanned
