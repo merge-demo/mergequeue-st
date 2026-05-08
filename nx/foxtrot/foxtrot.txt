@@ -8448,7 +8448,7 @@ fuseboard
 fm 1
 filcher 1
 fullom
-futhark
+futhark 1
 form
 fluoroscopes
 fullerboard 1
