@@ -14118,7 +14118,7 @@ circuits
 clochan
 cardioneural
 capsulize
-circulant
+circulant 1
 countersigning
 circular
 colistins
