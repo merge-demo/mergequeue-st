@@ -8300,7 +8300,7 @@ chalklike
 chalkline
 columnated
 chalkone
-chalkos
+chalkos 1
 chalkotheke 1
 chalkpit
 chalkrail
