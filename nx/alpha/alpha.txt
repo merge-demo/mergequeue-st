@@ -3265,7 +3265,7 @@ abstersion
 aphis
 anisometropia
 ashlar
-activation 2
+activation 3
 azaserine
 actuation
 acuaesthesia
@@ -18675,7 +18675,7 @@ acroanesthesia
 archaises 1
 archaising
 applicable
-archaism
+archaism 1
 algebraically 1
 ati
 asporulate
