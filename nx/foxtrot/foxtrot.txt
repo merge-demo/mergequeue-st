@@ -6406,7 +6406,7 @@ formalization
 frogspawn
 flexura
 fafnir
-fecundatory
+fecundatory 1
 formularization 1
 flathead
 furanoside
@@ -9572,7 +9572,7 @@ flavonol 2
 furcilia
 flitches 2
 farcinoma
-fricatrice 1
+fricatrice 2
 flawn
 flamines
 freaks
