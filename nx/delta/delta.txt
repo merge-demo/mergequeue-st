@@ -6762,7 +6762,7 @@ dirtboard
 datatype
 demoralizer
 detestably
-diathermic
+diathermic 1
 desilvers
 demultiplex 1
 demoniacal
