@@ -18035,7 +18035,7 @@ dulcianas 1
 dulcify 1
 dulcification 1
 dropforging
-dislodgeable
+dislodgeable 1
 disseminator
 deporture
 deployable
