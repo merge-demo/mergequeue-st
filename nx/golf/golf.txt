@@ -4901,7 +4901,7 @@ goldic
 gymnogen
 gawker
 galling
-glew
+glew 1
 goodwilled 1
 gigantic 1
 grafters 1
@@ -8666,7 +8666,7 @@ guideposts 1
 goldfielder
 gaslight 1
 gasteralgia 1
-greened 1
+greened 2
 govern
 gradal
 geodesic 1
