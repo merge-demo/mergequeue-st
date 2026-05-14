@@ -6347,7 +6347,7 @@ eloquently 1
 ebbed
 eavesdrip
 episcopize 1
-eprouvette 2
+eprouvette 3
 enshrined
 embars
 enshrinements 1
@@ -10936,7 +10936,7 @@ excommunicate 1
 esd
 epilogizing 2
 epipteric
-expeditate
+expeditate 1
 eulogies
 euphuize
 eupyrion 2
