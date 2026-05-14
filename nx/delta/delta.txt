@@ -8683,7 +8683,7 @@ dichastasis
 deathrate 1
 depolarizing 1
 diethylethanolamine
-diastereoisomerism
+diastereoisomerism 1
 dodges
 druid
 dismayed
