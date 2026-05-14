@@ -3726,7 +3726,7 @@ ectoderms
 extravagantness
 enfranchise
 erodability 1
-excessiveness
+excessiveness 1
 encumbers 1
 enfetter 1
 embrocates
@@ -13356,7 +13356,7 @@ eskar 2
 emboldening 1
 emilia
 encincture
-elephantopus
+elephantopus 1
 enduement
 exponible 1
 existible
