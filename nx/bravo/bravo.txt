@@ -2643,7 +2643,7 @@ birdhouses
 bilges 1
 botanise
 belayed
-begirdle
+begirdle 1
 battening 1
 borrows 1
 bandusia 1
@@ -13837,7 +13837,7 @@ bulbuls
 bulbophyllum
 brephic
 burglarproofed 1
-bower
+bower 1
 backrests
 bowerbird
 blindness
