@@ -3584,7 +3584,7 @@ declaredness
 depredations 1
 dripping
 dinosauric
-dinornithiformes 1
+dinornithiformes 2
 degenerate
 desulphurizer 1
 diagrammatize
@@ -8527,7 +8527,7 @@ diplomatized
 diapente 1
 disindividualize
 dehydrofreeze
-diet
+diet 1
 devily
 dyschromatopsia
 dethrone
