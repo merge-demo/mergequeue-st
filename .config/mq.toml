@@ -11,7 +11,7 @@ email = "bot@trunk.io"
 [test]
 flake_rate = 0.10
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "5m"
+sleep_for = "45m"
 
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
@@ -26,7 +26,7 @@ protected_branches = ["main"] # set protected_branches to automate generation on
 # 35% - 2 dep change
 # 9%  - 3 deps
 # 1% - ALL will be specified
-deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
+deps_distribution = "0.01x1,0.01x2,0.01x3,0.97xALL"
 
 # Distribution of stack depths for generated PRs.
 # Format: "0.8x1,0.2x2" means 80% of the PR budget is solo PRs (depth 1)
@@ -34,7 +34,7 @@ deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
 # from the total budget (requests_per_run / requests_per_hour).
 # Stacked PRs are built on top of each other using `gh pr create --base`
 # targeting the prior PR's head branch. If not set, all PRs are solo.
-stacks_distribution = "0.80x2,0.20x3"
+stacks_distribution = "0.99x1,0.01x3"
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
