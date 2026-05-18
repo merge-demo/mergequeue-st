@@ -8299,7 +8299,7 @@ diapausing
 dyakish 1
 dowress
 dg
-drawpoint
+drawpoint 1
 dialcohol 1
 dialect
 doomsman
