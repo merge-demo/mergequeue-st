@@ -2067,7 +2067,7 @@ cruelize
 colonial
 camoudie
 coburgess
-camouflage
+camouflage 1
 camouflageable
 camouflager 1
 contradictorily
@@ -7677,7 +7677,7 @@ cyamid
 ciceros
 caramelising
 cermets
-cern 2
+cern 3
 cavaliership
 cityward
 croquet
