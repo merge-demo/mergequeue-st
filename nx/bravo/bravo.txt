@@ -3317,7 +3317,7 @@ brisant
 basiradial 1
 bacterioscopic
 basirostral
-basiscopic
+basiscopic 1
 bacterial 1
 blepharitic 1
 butleress
@@ -10884,7 +10884,7 @@ ballgames
 budgeters
 bloodguilt 1
 blin
-burnup
+burnup 1
 beadledom 1
 biggity
 bibbling 1
