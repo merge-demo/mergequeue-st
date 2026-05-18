@@ -2669,7 +2669,7 @@ abacli
 amygdalotomy
 accrescent 1
 atheist
-agapeic 2
+agapeic 3
 allocated
 abutters
 acquire
@@ -15382,7 +15382,7 @@ astrologists
 abwatt
 antiking
 aposematic
-araneology
+araneology 1
 antikings
 arachnoidal 1
 agenes
