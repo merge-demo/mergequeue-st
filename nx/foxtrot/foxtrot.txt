@@ -596,7 +596,7 @@ frighter
 fragaria
 floodways
 fleshes
-forehand
+forehand 1
 folly
 farrantly
 funnies 1
@@ -992,7 +992,7 @@ fretful
 funnellike
 factum 1
 filicornia 2
-fragmentalize
+fragmentalize 1
 flatboats
 fodders
 finalists 2
