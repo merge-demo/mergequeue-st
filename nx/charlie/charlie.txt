@@ -12543,7 +12543,7 @@ capacitances 1
 coobah 1
 chromosomally
 celoscope
-cornercap
+cornercap 1
 collophore 1
 chester
 chromospheric
