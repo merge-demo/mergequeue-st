@@ -23347,7 +23347,7 @@ checklists
 consumo
 cremationist
 cynosarges
-consumpted
+consumpted 1
 corrasive 1
 consumptional
 consumptions
@@ -25136,7 +25136,7 @@ chromonematic
 coreometer
 crocks
 complacential
-coreplastic 1
+coreplastic 2
 corepressor
 cubas
 craniologically
