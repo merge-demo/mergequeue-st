@@ -7073,7 +7073,7 @@ formfitting
 floccilation 1
 fameuse 1
 floweriest 1
-fanger 1
+fanger 2
 foolery
 flatterer
 farles 1
@@ -9484,7 +9484,7 @@ formic
 fraternised 1
 footstone
 following
-fraternism
+fraternism 1
 fitfulness 2
 faux
 furcae
