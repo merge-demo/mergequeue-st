@@ -7933,7 +7933,7 @@ fletching
 foreseer
 foresees 1
 fonder
-foreseize
+foreseize 1
 flatteries
 fike
 fusilades
