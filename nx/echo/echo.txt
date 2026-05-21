@@ -1306,7 +1306,7 @@ effectors
 effectress
 encapsulate
 effects
-enlarge
+enlarge 1
 edified
 effectuated
 encastage
