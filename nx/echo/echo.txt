@@ -4725,7 +4725,7 @@ epiopticon 1
 excusatory 1
 endocarpic
 encode
-exitance
+exitance 1
 encoding
 effectivity 1
 embrocate
