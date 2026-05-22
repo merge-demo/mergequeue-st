@@ -4301,7 +4301,7 @@ eloquence 2
 exclaustration
 enamelist 1
 enamelless
-emit
+emit 1
 enami 2
 enamorado
 enamorato
