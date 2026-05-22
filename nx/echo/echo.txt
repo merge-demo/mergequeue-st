@@ -6190,7 +6190,7 @@ execs 2
 ellipsoid
 exodist
 enophthalmus
-enorm
+enorm 1
 explorement
 exhalations 1
 exhortator
