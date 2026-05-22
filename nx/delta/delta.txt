@@ -1355,7 +1355,7 @@ demissive 1
 diploid 1
 draftsperson
 doggerelize
-dompt
+dompt 1
 damagement
 dauntingness
 discerners
