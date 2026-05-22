@@ -4142,7 +4142,7 @@ energids 1
 enslumber 1
 expungement
 erythrodermia
-externum
+externum 1
 encl
 encaustes
 exporter
