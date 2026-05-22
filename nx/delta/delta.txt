@@ -10604,7 +10604,7 @@ diplomats
 dysporomorph
 drawfile
 diphtheritic 1
-diplonema
+diplonema 1
 deuteric 1
 detritus
 dunnaged 1
