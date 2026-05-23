@@ -6017,7 +6017,7 @@ eyrie
 estoque
 expromissor
 endosarcs
-expire
+expire 1
 epiglottises 2
 eparchy 1
 enkindles 1
