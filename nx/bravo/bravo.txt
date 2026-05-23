@@ -14903,7 +14903,7 @@ breadwinning
 breakability 1
 breakable 1
 breakaxe
-bitterless
+bitterless 1
 bilipurpurin 2
 burning 1
 baja 1
