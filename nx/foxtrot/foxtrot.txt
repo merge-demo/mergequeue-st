@@ -1823,7 +1823,7 @@ flesh 2
 furrows
 figureheadship
 fellahin 1
-firebreaks
+firebreaks 1
 feudalize
 fittest
 fractured 1
