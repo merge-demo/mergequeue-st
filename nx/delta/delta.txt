@@ -8613,7 +8613,7 @@ distilling
 davis
 debugging
 dampproof 1
-dialyses
+dialyses 1
 diary
 diaglyph
 diarist 2
