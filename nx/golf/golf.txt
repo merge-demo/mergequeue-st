@@ -3622,7 +3622,7 @@ governorships 1
 gadgeteers 3
 glyptician
 geocoronium
-generalize
+generalize 1
 gametes 2
 gutturotetany
 gory
