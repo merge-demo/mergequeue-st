@@ -5014,7 +5014,7 @@ flaneur
 frescoes 1
 foremartyr
 filet
-fluctuable
+fluctuable 1
 faceable
 flaccidness
 frowsier 2
