@@ -14900,7 +14900,7 @@ beefs 1
 bingies
 bloodthirstier
 breadwinning
-breakability
+breakability 1
 breakable 1
 breakaxe
 bitterless
