@@ -4298,7 +4298,7 @@ carfare
 carfares
 carfloat
 conservatoire
-crenic 1
+crenic 2
 coater
 carfuffle
 capiteaux
@@ -28681,7 +28681,7 @@ crenel 1
 chroococcus
 constantine 1
 coloniser
-contaminates
+contaminates 1
 constitutes
 corone
 coplanar 1
