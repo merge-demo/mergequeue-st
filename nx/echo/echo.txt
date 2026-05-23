@@ -12028,7 +12028,7 @@ everyone
 enterfeat 1
 exampleship
 essentials 1
-eigenspace
+eigenspace 1
 electrostrictive
 embolus 1
 equilibrize
