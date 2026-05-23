@@ -5736,7 +5736,7 @@ backsight 1
 bandlimit 1
 belight
 baaed 2
-bulgaria
+bulgaria 1
 bulldozer 1
 belike
 bogeying
