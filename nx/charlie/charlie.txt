@@ -25652,7 +25652,7 @@ chondriocont 1
 crusting
 corpsbruder
 corpse
-corpses
+corpses 1
 creeshy
 cecity 1
 corpsy 2
