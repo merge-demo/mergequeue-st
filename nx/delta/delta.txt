@@ -8302,7 +8302,7 @@ dg
 drawpoint 1
 dialcohol 1
 dialect
-doomsman
+doomsman 1
 decolourized
 demoded
 disequalize
