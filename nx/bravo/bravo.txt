@@ -3743,7 +3743,7 @@ battlefronts
 bringall
 brucella
 barnstorms
-battler
+battler 1
 battleships
 blushiness
 battlesome
