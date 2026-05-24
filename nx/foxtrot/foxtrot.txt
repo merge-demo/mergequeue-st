@@ -6508,7 +6508,7 @@ facility
 forgie
 farweltered
 fip 1
-failsoft 2
+failsoft 3
 frapping 1
 ft 2
 forspread 2
