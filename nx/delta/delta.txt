@@ -3658,7 +3658,7 @@ degradement
 dozing 2
 depsid
 disrupt
-decimalisation
+decimalisation 1
 discalced
 degraduate
 degravate
