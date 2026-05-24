@@ -6682,7 +6682,7 @@ entete
 eurytherm
 epistrophy 1
 enthelminthic
-echolocate
+echolocate 1
 effume
 ectosomal
 extratarsal
