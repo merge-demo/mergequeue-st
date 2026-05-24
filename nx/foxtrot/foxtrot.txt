@@ -1306,7 +1306,7 @@ features
 frogginess 2
 fendering 2
 fbi
-famousness
+famousness 1
 forbidal
 fellani 1
 fervour 2
