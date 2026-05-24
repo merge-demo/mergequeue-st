@@ -5592,7 +5592,7 @@ fluttering
 flintiness 1
 ferricyanhydric
 flaglike
-flicker
+flicker 1
 fixity 1
 frapler
 floatable 3
