@@ -4772,7 +4772,7 @@ binnacle
 bedral
 boltwork
 bedraping
-bedread
+bedread 1
 bedrench 1
 baldling
 batad 1
