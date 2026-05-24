@@ -294,7 +294,7 @@ flexuosity
 fraternation 2
 faders
 feints 2
-feint
+feint 1
 fostell
 finagles
 fibrillated
