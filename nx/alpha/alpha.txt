@@ -21998,7 +21998,7 @@ assumes
 apothesis 1
 antiperiodic
 act
-assuming 1
+assuming 2
 automatonlike
 assumingly
 assummon
