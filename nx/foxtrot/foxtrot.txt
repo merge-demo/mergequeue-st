@@ -3296,7 +3296,7 @@ framed 1
 fisherman 1
 fideicommissaries 1
 fungus
-flirtling
+flirtling 1
 finesser 1
 forevermore
 foreward
@@ -6922,7 +6922,7 @@ fishback
 fogs
 formyls
 fulwa 3
-fideicommission
+fideicommission 1
 formeret
 filibusterous 2
 freeway
