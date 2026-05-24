@@ -9613,7 +9613,7 @@ entangleable
 equipper
 entia 1
 epenthesize
-equipollence
+equipollence 1
 epacris
 elaeagnus
 esparsette
