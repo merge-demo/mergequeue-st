@@ -14879,7 +14879,7 @@ astrognosy 1
 autospray
 apenteric
 antimachinery
-anticyclic
+anticyclic 1
 arrondi
 accessioner
 alife
