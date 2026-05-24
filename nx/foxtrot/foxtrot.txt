@@ -7522,7 +7522,7 @@ fatten
 fullface
 forebode 1
 fauld 1
-frictionlessness
+frictionlessness 1
 fest
 forebody
 fibrosity 1
