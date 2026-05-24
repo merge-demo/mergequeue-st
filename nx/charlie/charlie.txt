@@ -2318,7 +2318,7 @@ canal
 clerks 1
 cookeys
 canalatura
-completer
+completer 1
 canalboat
 charales
 canale
