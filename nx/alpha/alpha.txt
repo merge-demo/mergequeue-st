@@ -6810,7 +6810,7 @@ angularity 1
 airbusses
 antibias
 axometer 1
-archsacrificer
+archsacrificer 1
 arid 1
 altars
 aircraftmen
