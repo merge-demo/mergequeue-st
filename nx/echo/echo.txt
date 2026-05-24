@@ -1863,7 +1863,7 @@ elapsed 1
 endamage 2
 everwho
 eightball
-eclat
+eclat 1
 earthstar
 epurate 1
 eptatretidae 1
