@@ -9515,7 +9515,7 @@ checkman 2
 congruencies
 checkmate
 chirosophist
-cautioning
+cautioning 1
 circumferences
 checkpointed
 chemitypies
