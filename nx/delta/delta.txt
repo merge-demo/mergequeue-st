@@ -12612,7 +12612,7 @@ daredevils
 drate 2
 delegant 1
 dertrotheca 1
-defaultant
+defaultant 1
 descendentalist
 descrial
 dodgeries
