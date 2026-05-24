@@ -3888,7 +3888,7 @@ fluidness
 fripperies 1
 formation
 followers
-fevertrap 3
+fevertrap 4
 farming
 footslogged 2
 febriferous 1
