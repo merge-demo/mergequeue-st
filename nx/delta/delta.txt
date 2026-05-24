@@ -10985,7 +10985,7 @@ downgoing
 disaligned
 disalliege 1
 dodona
-downbend
+downbend 1
 doorframe
 disallow 1
 displaying 1
