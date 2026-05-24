@@ -5697,7 +5697,7 @@ depoetize 1
 dithers 1
 diallel
 deconsider
-depoh
+depoh 1
 decd 1
 depolarise 1
 dearies
