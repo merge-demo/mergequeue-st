@@ -7035,7 +7035,7 @@ destress 1
 decoke
 dorje
 degrees
-disjointed
+disjointed 1
 despumation 1
 dealing
 desquamating
