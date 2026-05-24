@@ -2548,7 +2548,7 @@ confraternities
 copiable
 candlelighting
 cohusband
-carvels
+carvels 1
 circumcinct
 candlemaker
 candlemaking
