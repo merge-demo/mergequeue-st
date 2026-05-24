@@ -5900,7 +5900,7 @@ faultfinding
 fdname 1
 flockings 2
 fallouts 2
-fulsamic
+fulsamic 1
 forgiveable 1
 folgerite 2
 frittered 1
