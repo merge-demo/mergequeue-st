@@ -9373,7 +9373,7 @@ flees 2
 flane 2
 fewmets
 fortuuned
-fromward
+fromward 1
 ferromagnesian 1
 frangulic 1
 forjudge
