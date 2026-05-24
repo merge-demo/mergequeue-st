@@ -3921,7 +3921,7 @@ bazars
 bint 2
 brockage
 bazooka
-blunge
+blunge 1
 baumhauerite 2
 boychik
 buckishly 1
