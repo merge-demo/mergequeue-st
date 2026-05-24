@@ -20422,7 +20422,7 @@ catabolize
 cancerdrops
 compactor
 clobbered
-compactors
+compactors 1
 compacts
 comites 1
 compacture
