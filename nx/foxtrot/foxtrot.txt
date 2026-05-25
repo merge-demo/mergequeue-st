@@ -10774,7 +10774,7 @@ fleeing 3
 flagstaves 1
 flirter
 fletches
-forgotten
+forgotten 1
 foots 2
 falafel 1
 frustum 1
