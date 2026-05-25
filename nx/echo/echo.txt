@@ -11322,7 +11322,7 @@ epoche 1
 ekerite 1
 excoriator 2
 earthbred
-evaporators
+evaporators 1
 eir
 ecurie
 equisurface
