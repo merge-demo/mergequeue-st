@@ -7569,7 +7569,7 @@ eventfully
 engines 1
 elne
 extrafascicular
-extratelluric
+extratelluric 1
 epicondylic 1
 eoiths
 epoptist
