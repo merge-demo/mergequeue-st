@@ -5753,7 +5753,7 @@ dialog
 datableness
 diaxial
 deceit
-distalwards
+distalwards 1
 dacker 1
 deepnesses 2
 decoupled
