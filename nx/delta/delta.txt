@@ -4277,7 +4277,7 @@ devilbird
 devoutness
 durning
 diplograph
-delimit
+delimit 1
 duckhood
 dauner 2
 dequeue
