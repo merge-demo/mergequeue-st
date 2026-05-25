@@ -12758,7 +12758,7 @@ epha
 extol 2
 englishman
 exorable
-exactingness
+exactingness 1
 etiolin 1
 eradication
 elderberry 1
