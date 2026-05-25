@@ -2927,7 +2927,7 @@ cantaloupes 2
 catboat
 cantando
 cantankerous
-capsizable
+capsizable 1
 cantankerously
 counteractive
 chonicrite
