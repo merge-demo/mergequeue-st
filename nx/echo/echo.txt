@@ -5546,7 +5546,7 @@ enflaming
 epiklesis 1
 embryulcus
 enflower
-evaporate
+evaporate 1
 ectognatha 1
 equalization
 epidendrum
