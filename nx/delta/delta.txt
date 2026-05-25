@@ -7152,7 +7152,7 @@ depictor 1
 deambulate
 desulfurs
 desulphur
-desulphurate
+desulphurate 1
 delatorian
 desulphurised 2
 demonize 1
