@@ -5869,7 +5869,7 @@ bidactyle 2
 beefin 1
 bypaths 2
 beerocracy
-bellowsful
+bellowsful 1
 baetylus 1
 bargainer
 beride
