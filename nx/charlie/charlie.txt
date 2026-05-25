@@ -27121,7 +27121,7 @@ countersense
 countershade 1
 chasms
 clinologic
-configurable
+configurable 1
 countershine
 chemosorptive
 countershock
