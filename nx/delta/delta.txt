@@ -3513,7 +3513,7 @@ demarcatordemarcators 2
 disapproving 1
 defrayable 1
 disembarrassment
-dismissable
+dismissable 1
 doom 1
 drowsed 1
 desaturate
