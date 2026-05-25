@@ -4565,7 +4565,7 @@ dellies
 disroof 1
 debentured
 disavows
-disgust
+disgust 1
 dackers
 demipique 1
 devotedness
