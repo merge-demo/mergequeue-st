@@ -6493,7 +6493,7 @@ encarpium 1
 endostosis 2
 ephyra 1
 exactly
-extratension
+extratension 1
 entail
 entomophthora
 exponentials
