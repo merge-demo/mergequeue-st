@@ -4005,7 +4005,7 @@ buyback
 beslur 1
 bonyfish
 believer
-beacons
+beacons 1
 buoyancy 1
 beadeye 2
 beader
