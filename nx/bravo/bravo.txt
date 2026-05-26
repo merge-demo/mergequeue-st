@@ -2818,7 +2818,7 @@ buffaloback 1
 bedarken
 bruta
 beisa
-biquadrate 2
+biquadrate 3
 baroswitch
 bld
 brakie
