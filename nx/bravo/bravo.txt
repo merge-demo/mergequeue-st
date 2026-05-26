@@ -10237,7 +10237,7 @@ beparse
 barothermohygrograph
 blacklists 1
 brainer
-beclamour
+beclamour 1
 brith 1
 banian
 backwater
