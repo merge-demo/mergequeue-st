@@ -1156,7 +1156,7 @@ earlaps
 eident
 enwisen
 educatable
-educatedness 1
+educatedness 2
 electrolyzable 1
 eudiometric
 engrainedly 2
@@ -1863,7 +1863,7 @@ elapsed 1
 endamage 2
 everwho
 eightball
-eclat
+eclat 1
 earthstar
 epurate 1
 eptatretidae 1
@@ -6012,7 +6012,7 @@ empaler 1
 enhydrinae
 equitriangular 1
 evenminded
-empiry
+empiry 1
 eyrie
 estoque
 expromissor
