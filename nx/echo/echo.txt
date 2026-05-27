@@ -12550,7 +12550,7 @@ eugeny
 enneacontahedron 1
 exoskeleton 1
 equicohesive
-exist
+exist 1
 elucidating
 esne
 enumerably
