@@ -1025,7 +1025,7 @@ expeditions
 exadversum 1
 erugo
 etchareottine
-excisable
+excisable 1
 eyeless
 endoskeleton 3
 eqpt
