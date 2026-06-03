@@ -310,7 +310,7 @@ flchette 1
 fplot 2
 fluxionary 1
 feods 1
-forces
+forces 1
 fail
 fireplough 2
 faineancy 2
