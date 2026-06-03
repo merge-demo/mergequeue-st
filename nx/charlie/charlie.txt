@@ -15973,7 +15973,7 @@ carryovers 1
 cobstone
 clerkdom
 clerkery
-clerkess
+clerkess 1
 caligated 1
 cypraeid
 comprint
