@@ -1505,7 +1505,7 @@ dracma
 dc
 dcb 2
 depressure 1
-deaccessioning
+deaccessioning 1
 dingbats
 draughts 3
 dermatorrhea 2
