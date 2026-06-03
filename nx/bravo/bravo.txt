@@ -1195,7 +1195,7 @@ bemeaned
 bajra
 bogeyed 2
 brickset 1
-beltmen
+beltmen 1
 baized
 bajury
 bonnaz 2
@@ -1612,7 +1612,7 @@ basketlike 1
 beatinest
 balboa 1
 ballistician 1
-brachioganoidei 1
+brachioganoidei 2
 ballflower
 bifurcate
 ballywack 1
@@ -4703,7 +4703,7 @@ birlings 1
 bedimple
 bulllike
 bluegown 1
-bobsleds
+bobsleds 1
 bathymetrically 1
 brides
 bunce
@@ -8572,7 +8572,7 @@ blackeye
 brantcorn 1
 billeted
 blushers 1
-bilabe 2
+bilabe 3
 bucklered
 boweries
 bankrider
@@ -13767,7 +13767,7 @@ bigheads 2
 bouzoukia
 bouzoukis
 bloat
-burga 1
+burga 2
 bufflehorn
 bovaristic
 burgout
