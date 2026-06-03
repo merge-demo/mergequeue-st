@@ -3062,7 +3062,7 @@ flatcar
 foregone 1
 ferrimagnetism 3
 fractionalization
-fibril
+fibril 1
 firker 1
 filtratable
 fairily
