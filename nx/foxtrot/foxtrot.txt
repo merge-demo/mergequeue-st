@@ -3597,7 +3597,7 @@ floorway 1
 files
 filesniff 2
 freijo 2
-fazing 1
+fazing 2
 foreroom
 floatboard 1
 flowcontrol 1
