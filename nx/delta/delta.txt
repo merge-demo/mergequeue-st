@@ -3051,7 +3051,7 @@ deepfrozen 1
 deemphasize 2
 downward
 diestock
-diuretic
+diuretic 1
 deewan 1
 disagreement 1
 dehydrogenising
