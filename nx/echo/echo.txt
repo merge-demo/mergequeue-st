@@ -1295,7 +1295,7 @@ effect 1
 endocardiac
 exopeptidase 1
 effective
-euryphagous
+euryphagous 1
 exposure
 ecuadoran 2
 epimachinae
