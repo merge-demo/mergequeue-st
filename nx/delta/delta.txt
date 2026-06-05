@@ -9177,7 +9177,7 @@ dialyse
 doors 1
 delobranchiata
 disorientation
-dyeability
+dyeability 1
 denazification 1
 demilance
 devilman 1
