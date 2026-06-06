@@ -5759,7 +5759,7 @@ enneahedral
 envelopment
 expulsing 1
 extirp 1
-englut
+englut 1
 emhpasizing 1
 eyot
 excedent
