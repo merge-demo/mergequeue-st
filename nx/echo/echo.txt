@@ -1862,7 +1862,7 @@ eyoty
 elapsed 1
 endamage 2
 everwho
-eightball
+eightball 1
 eclat 1
 earthstar
 epurate 1
