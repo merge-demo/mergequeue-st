@@ -9624,7 +9624,7 @@ dipoles
 dimeric 1
 dexterous 2
 dihydrostreptomycin
-dihydrotachysterol
+dihydrotachysterol 1
 dhaks
 dihydroxyacetone
 defaceable
