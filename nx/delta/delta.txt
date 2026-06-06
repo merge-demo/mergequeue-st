@@ -9176,7 +9176,7 @@ digitalize
 dialyse
 doors 1
 delobranchiata
-disorientation
+disorientation 1
 dyeability 1
 denazification 1
 demilance
