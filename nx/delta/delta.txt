@@ -13285,7 +13285,7 @@ dispossession
 delay 1
 distrustful
 damascus 1
-detuned
+detuned 1
 dinomys 1
 dogfish
 dyotheism
