@@ -8260,7 +8260,7 @@ fuder 1
 flaskets 1
 felines
 festering 2
-fluidize
+fluidize 1
 floroscope
 flexo
 forficula
