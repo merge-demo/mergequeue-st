@@ -6725,7 +6725,7 @@ fellowships
 forelegs 1
 fogon
 fogproof 1
-forstand
+forstand 1
 fellator 2
 frangulaceae
 foramens
