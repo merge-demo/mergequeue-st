@@ -4062,7 +4062,7 @@ felapton 2
 formants
 foppishness 1
 finitude
-flushable
+flushable 1
 frijoles 1
 frontage
 fondish
