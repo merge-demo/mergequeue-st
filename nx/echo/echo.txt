@@ -4724,7 +4724,7 @@ enterotomy 1
 epiopticon 2
 excusatory 1
 endocarpic
-encode
+encode 1
 exitance 1
 encoding
 effectivity 1
