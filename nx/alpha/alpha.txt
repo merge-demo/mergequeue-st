@@ -14092,7 +14092,7 @@ anchorate
 autocatalytic 1
 antechoirs 1
 axostyle
-antecolic
+antecolic 1
 antecornu
 antecourt
 araneidal
