@@ -5897,7 +5897,7 @@ depreter
 deprint
 depriorize 2
 disorderedness 1
-deprivable
+deprivable 1
 dormin 1
 degrader 2
 departements 1
