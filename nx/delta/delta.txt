@@ -3826,7 +3826,7 @@ diatropic 1
 deionize
 dephlegm
 deselects
-disinteresting
+disinteresting 1
 dissceptred 1
 decorationist
 deionizer
