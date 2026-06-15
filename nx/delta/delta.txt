@@ -1803,7 +1803,7 @@ debark
 detaining 3
 dropseed 1
 drawknife
-debarking
+debarking 1
 digamist 1
 dishpanful
 discede 2
