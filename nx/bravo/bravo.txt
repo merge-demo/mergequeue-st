@@ -4149,7 +4149,7 @@ bagwigs 2
 baddishness
 bearward
 bearwort 1
-boanthropy
+boanthropy 1
 bravadoing
 beasthood
 bacons
@@ -8136,7 +8136,7 @@ blasphemer
 beltmaker
 botonn
 besieging
-bidiagonal
+bidiagonal 1
 binucleate
 barble 1
 biding
@@ -10801,7 +10801,7 @@ baulkier
 birthrate
 blocks
 bergamo
-blepharochromidrosis 1
+blepharochromidrosis 2
 biomagnetic
 balow 1
 bullbeggar
@@ -13136,7 +13136,7 @@ bedumb
 brownies
 belaced
 bovids
-bornite 1
+bornite 2
 baksheesh 1
 bemuck
 bestirs
@@ -16782,7 +16782,7 @@ boswell
 batteuse 1
 buddleia
 bunkhouses 2
-blockhole 1
+blockhole 2
 buddleias
 brainstem
 bicarbonate 1
@@ -18048,7 +18048,7 @@ bustics
 barbeque 1
 banjoist 2
 bluely 1
-bugled
+bugled 1
 busting
 bustle 1
 basketwood
