@@ -1802,7 +1802,7 @@ freeboard
 fores
 ferninst 1
 forbesite
-folkmots
+folkmots 1
 flak 1
 forkmen 1
 flaithship
