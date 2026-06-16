@@ -7265,7 +7265,7 @@ dournesses 1
 defalk 3
 disarrest
 deteriorating
-dentonasal 1
+dentonasal 2
 deterioration
 deuce
 data
