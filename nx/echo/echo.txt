@@ -4847,7 +4847,7 @@ electrostenolysis 1
 ensured 2
 entablements
 ef 1
-encumbrance
+encumbrance 1
 extrabureau 1
 english
 encumbrous
