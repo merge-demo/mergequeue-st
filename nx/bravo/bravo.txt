@@ -4774,7 +4774,7 @@ boltwork
 bedraping 1
 bedread 1
 bedrench 2
-baldling
+baldling 1
 batad 1
 blast 1
 bed
