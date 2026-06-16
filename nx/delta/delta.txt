@@ -3516,7 +3516,7 @@ disembarrassment
 dismissable 1
 doom 1
 drowsed 2
-desaturate
+desaturate 1
 desiccated 2
 defloration
 dagobas
