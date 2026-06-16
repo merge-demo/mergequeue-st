@@ -10536,7 +10536,7 @@ anneal 1
 arret
 amidism 1
 aboon
-ambitendency
+ambitendency 1
 acridid
 armenians 1
 astronautically 1
