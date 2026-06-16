@@ -3268,7 +3268,7 @@ ashlar
 activation 3
 azaserine 1
 actuation
-acuaesthesia
+acuaesthesia 1
 achingly
 acidulously
 acuductor
