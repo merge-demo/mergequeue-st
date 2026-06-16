@@ -8255,7 +8255,7 @@ denude
 diagonals 1
 diagonalwise
 denudate 2
-demonization
+demonization 1
 diagonic
 drum 2
 deliriousness
