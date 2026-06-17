@@ -9,7 +9,7 @@ name = "trunk bot"
 email = "bot@trunk.io"
 
 [test]
-flake_rate = 0.10
+flake_rate = 0.01
 # how long test should spin for (can be described as 10s, 7m, 1hr)
 sleep_for = "5m"
 
@@ -37,7 +37,7 @@ deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
 stacks_distribution = "0.99x1,0.01x3"
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
-logical_conflict_every = 100
+logical_conflict_every = 10000
 logical_conflict_file = "logical-conflict.txt"
 
 close_stale_after = "48 hours"
