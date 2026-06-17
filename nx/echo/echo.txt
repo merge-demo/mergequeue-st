@@ -11326,7 +11326,7 @@ evaporators 1
 eir 1
 ecurie
 equisurface
-englander
+englander 1
 enrank 2
 entirety
 exalbuminous 2
