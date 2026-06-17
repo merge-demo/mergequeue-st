@@ -10174,7 +10174,7 @@ feasibility
 falchions 4
 finalize
 fricatives
-fluid
+fluid 1
 frivolousness 1
 foray
 faunula
