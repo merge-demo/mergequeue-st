@@ -9478,7 +9478,7 @@ entach
 escout 2
 enstore
 es 1
-equipondious
+equipondious 1
 exanthine
 escry 2
 escribientes 1
