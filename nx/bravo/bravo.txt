@@ -15250,7 +15250,7 @@ ballpoint 2
 billhook
 biometrically 1
 bouldering 2
-bushiness
+bushiness 1
 brickhood
 buddhists 1
 basifier 1
