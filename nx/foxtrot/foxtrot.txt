@@ -7617,7 +7617,7 @@ funiculus 1
 fanciers 1
 flintworker 2
 forespeak
-freezable
+freezable 1
 fervors
 federating
 forril
