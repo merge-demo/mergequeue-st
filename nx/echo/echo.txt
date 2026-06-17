@@ -3434,7 +3434,7 @@ exolete
 exemplar
 embatholithic
 enfiladed
-editorializes
+editorializes 1
 exteriors 1
 experrection 1
 enteropneustan
@@ -3570,7 +3570,7 @@ euchlaena 1
 encraal
 embossage
 embossed
-embossing 1
+embossing 2
 emulsifications
 embossman
 esophagoplegia
@@ -6218,7 +6218,7 @@ ethnogeographical
 entered 1
 erecter
 endplate 1
-excipule
+excipule 1
 epistapedial 1
 expungers
 eelcatcher
@@ -7324,7 +7324,7 @@ eucyclic
 epiphanic 2
 ennobler
 eelblennies
-epeirogenically
+epeirogenically 1
 ensue
 encloses 2
 exonship
@@ -8701,7 +8701,7 @@ employee
 ecumenicality 2
 equitative
 electrican
-eudaimonism
+eudaimonism 1
 eguttulate
 eluted 1
 epistolize 1
@@ -8788,7 +8788,7 @@ entempest
 empetraceous 2
 entomostracous
 erat 1
-ethoxy
+ethoxy 1
 ethnobotanist 3
 effleurage 1
 erd 1
@@ -11402,7 +11402,7 @@ enneasemic 1
 exuvia
 encompass 1
 eponymist
-eventime
+eventime 1
 entosternite
 eventlessly
 empennages

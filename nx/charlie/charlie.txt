@@ -975,7 +975,7 @@ calamars
 calambac 2
 coastmen 1
 calambour
-castellar
+castellar 1
 campanulaceae
 catenoids
 calaminary
@@ -3336,7 +3336,7 @@ connivant
 celli
 colleri
 capo
-chaufers
+chaufers 1
 commemoratively
 coughweed
 capocchia
@@ -7822,7 +7822,7 @@ cruisers
 calcinable
 chinned
 cesious
-cesium
+cesium 1
 cesiums 1
 cespititious
 cespititous 1
@@ -9225,7 +9225,7 @@ copperproof
 corrosionproof
 conceive
 corporeality 1
-chathamites
+chathamites 1
 chatoyant
 catholical
 chatons
@@ -18559,7 +18559,7 @@ cringingness
 coiffe 2
 coiffed
 caustics
-clavers
+clavers 1
 coiffeur
 coiffeurs 1
 coiffeuses
@@ -18939,7 +18939,7 @@ chamoising
 cauterant
 confiscable 1
 conceding 2
-collaret 1
+collaret 2
 counterbracing
 collarette
 carnifices
@@ -21033,7 +21033,7 @@ compulsion
 compulsitor
 caramelan 1
 cypsela
-compunct 1
+compunct 2
 crassilingual
 cystaster
 curvedness
