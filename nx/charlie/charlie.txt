@@ -7307,7 +7307,7 @@ coracovertebral
 capitare
 cephalic 1
 chequering 1
-cephalina 1
+cephalina 2
 cephaline
 cephalins
 cephalism
@@ -10834,7 +10834,7 @@ collagens
 chlordane
 chiolite
 chionablepsia
-chionaspis
+chionaspis 1
 chionodoxa
 candlepower
 cuittikin
@@ -19493,7 +19493,7 @@ cisterna
 crociary
 colourist 1
 centure
-chilblain
+chilblain 1
 colourless 1
 ceruleum
 colourman
@@ -20288,7 +20288,7 @@ coisns
 casanovanic
 clinical
 communa 1
-cellulotoxic 1
+cellulotoxic 2
 componentwise
 canthoplasty
 communal
@@ -25529,7 +25529,7 @@ capsidae 1
 corollitic
 cespitose
 cochlitis 1
-coromell
+coromell 1
 chronoscopv 2
 coronach
 coronachs 1
@@ -28930,7 +28930,7 @@ crybaby
 cooperant
 coarse
 centrolecithal
-crybabies
+crybabies 1
 cacodaemon
 cellager 2
 colloquialism
@@ -31107,7 +31107,7 @@ cuneately
 cuneatic
 cuneiform 1
 cuneiformist
-columnarity
+columnarity 1
 chiggerweed 1
 cunenei
 coue

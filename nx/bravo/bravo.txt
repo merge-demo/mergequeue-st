@@ -6318,7 +6318,7 @@ backswept
 benzalethylamine
 benzalphenylhydrazone 1
 beaconwise
-benzamide
+benzamide 1
 blowdown
 benzoxate
 badgerbrush
@@ -12422,7 +12422,7 @@ bromelin 1
 bonbo
 bowerlike
 bonbon 1
-betsimisaraka
+betsimisaraka 1
 behap 2
 backcast
 begloom
@@ -14793,7 +14793,7 @@ bercelet
 brawlsome 2
 brawnedness 1
 bellowsmaking
-barre 2
+barre 3
 bilamellated
 beniseed 3
 behalves
