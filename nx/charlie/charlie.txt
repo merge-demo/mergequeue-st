@@ -29911,7 +29911,7 @@ crossfoot 2
 cumhal
 crosshackle
 crosshair
-crosshand
+crosshand 1
 capillation 1
 cogwheel
 coadjutator
