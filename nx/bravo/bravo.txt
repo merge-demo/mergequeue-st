@@ -14902,7 +14902,7 @@ bloodthirstier
 breadwinning
 breakability 1
 breakable 1
-breakaxe
+breakaxe 1
 bitterless 2
 bilipurpurin 2
 burning 2
