@@ -21999,7 +21999,7 @@ apothesis 1
 antiperiodic
 act
 assuming 1
-automatonlike
+automatonlike 1
 assumingly
 assummon 1
 assumptious
