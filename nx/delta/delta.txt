@@ -6759,7 +6759,7 @@ dihedral
 depraving
 disally
 dirtboard 1
-datatype
+datatype 1
 demoralizer
 detestably
 diathermic
