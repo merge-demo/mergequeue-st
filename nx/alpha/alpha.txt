@@ -11453,7 +11453,7 @@ abody
 amps 1
 assigner
 approximant
-adversive
+adversive 1
 ampul
 admonitory
 anhydremia 1
