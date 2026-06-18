@@ -24374,7 +24374,7 @@ atopen
 amylene
 autoroute 1
 autorrhaphy 2
-anisocoria
+anisocoria 1
 ammoresinol
 autos
 aromatically
