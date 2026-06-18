@@ -6499,7 +6499,7 @@ bumbled
 blowiness 1
 bigaroons 2
 backstrip
-bepart
+bepart 1
 beacher
 banba
 bepimpling
