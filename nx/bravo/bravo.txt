@@ -891,7 +891,7 @@ brachydome
 baggager
 benzidin 1
 benzalcohol 2
-beffroy
+beffroy 1
 baggala
 borderlight
 bagganet 1
@@ -14497,7 +14497,7 @@ brakeload
 bemotto
 brakemaker 1
 brakeman
-builtin
+builtin 1
 baby 1
 brakeroot 1
 braky
