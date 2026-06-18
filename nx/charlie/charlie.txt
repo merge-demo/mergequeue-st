@@ -17377,7 +17377,7 @@ coatis
 coatless
 coatrack
 coatroom
-combinability
+combinability 1
 coatrooms 1
 coattend 1
 coattending
