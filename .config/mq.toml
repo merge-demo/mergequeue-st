@@ -9,7 +9,7 @@ name = "trunk bot"
 email = "bot@trunk.io"
 
 [test]
-flake_rate = 0.01
+flake_rate = 0.1
 # how long test should spin for (can be described as 10s, 7m, 1hr)
 sleep_for = "5m"
 
@@ -34,10 +34,10 @@ deps_distribution = "0.55x1,0.35x2,0.09x3,0.01xALL"
 # from the total budget (requests_per_run / requests_per_hour).
 # Stacked PRs are built on top of each other using `gh pr create --base`
 # targeting the prior PR's head branch. If not set, all PRs are solo.
-stacks_distribution = "0.99x1,0.01x3"
+# stacks_distribution = "0.99x1,0.01x3"
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
-logical_conflict_every = 10000
+logical_conflict_every = 90
 logical_conflict_file = "logical-conflict.txt"
 
 close_stale_after = "48 hours"
