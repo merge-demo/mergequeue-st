@@ -8408,7 +8408,7 @@ frontenis
 fightable 1
 forking
 flaveria 2
-forkless
+forkless 1
 freedoms 2
 formicative
 forklift 2
