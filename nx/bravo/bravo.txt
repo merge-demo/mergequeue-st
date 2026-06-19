@@ -10730,7 +10730,7 @@ backsetting
 bullets 1
 backswimmer 1
 box
-biti
+biti 1
 benzalhydrazine 2
 balian
 buchite 1
