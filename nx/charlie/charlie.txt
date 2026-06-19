@@ -25413,7 +25413,7 @@ cheroots
 cornflag 1
 countersiege
 cornflower
-cornflowers
+cornflowers 1
 corngrower
 codings
 cornhole
