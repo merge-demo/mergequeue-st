@@ -4718,7 +4718,7 @@ genarch
 glar
 gypsy
 givingness 1
-globes
+globes 1
 grifter
 garrnishable 2
 gizz
