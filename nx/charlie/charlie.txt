@@ -30444,7 +30444,7 @@ cantaloupe
 carpetwork
 csch 3
 csect
-cpu
+cpu 1
 cholecystectomies
 csmp
 csp
