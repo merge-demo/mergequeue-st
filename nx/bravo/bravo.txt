@@ -2822,7 +2822,7 @@ biquadrate 3
 baroswitch
 bld
 brakie
-bitis
+bitis 1
 ballgowns
 begalled
 bulkiest 1
