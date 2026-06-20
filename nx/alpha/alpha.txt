@@ -2646,7 +2646,7 @@ aspiratory
 animikite
 altaid 2
 adffrozen
-adjacent
+adjacent 1
 acquest
 armenite 1
 actutate
