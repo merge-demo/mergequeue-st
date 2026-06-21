@@ -5565,7 +5565,7 @@ chantment
 counterbranch 1
 catadrome 1
 chlorophaeite
-catadupe
+catadupe 1
 catafalco
 civilisation 2
 catagenetic
