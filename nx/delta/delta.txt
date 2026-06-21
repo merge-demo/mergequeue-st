@@ -5536,7 +5536,7 @@ dustfall
 draftable
 depended
 descends
-darker
+darker 1
 dolichopellic 1
 dependence 1
 desensitizes
