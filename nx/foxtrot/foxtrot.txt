@@ -6834,7 +6834,7 @@ fasces
 forswearer 1
 fructifier 2
 foliaged
-firetower
+firetower 1
 fustigator
 flipjack 1
 fourhanded
