@@ -16577,7 +16577,7 @@ cloned
 cloner
 caps 1
 collateralize 1
-contraparallelogram
+contraparallelogram 1
 complicities
 clonic
 clonicity
