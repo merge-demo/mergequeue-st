@@ -2819,7 +2819,7 @@ bedarken
 bruta
 beisa
 biquadrate 3
-baroswitch
+baroswitch 1
 bld
 brakie
 bitis 1
