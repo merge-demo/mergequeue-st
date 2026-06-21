@@ -3848,7 +3848,7 @@ dressages
 dismast
 discastle 1
 dictature 1
-dissect 1
+dissect 2
 disp
 dyscrasite
 deerdog
