@@ -29862,7 +29862,7 @@ crossbar
 crossbars 1
 cerianthid
 compatience 2
-columellar
+columellar 1
 cowslipped
 cabrilla
 candys
