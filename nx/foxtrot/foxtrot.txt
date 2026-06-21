@@ -3807,7 +3807,7 @@ furnitureless
 fixates 1
 filterableness 1
 fractable 2
-fairyism
+fairyism 1
 flusker 1
 fluoridisation 2
 flebotomy
