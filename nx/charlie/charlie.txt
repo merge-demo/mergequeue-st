@@ -15770,7 +15770,7 @@ couma
 cleanliest 1
 clumpier 1
 cleanout
-cleansable
+cleansable 1
 clankety 1
 cellists
 cleanse
