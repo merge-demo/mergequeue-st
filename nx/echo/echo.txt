@@ -3381,7 +3381,7 @@ equivokes
 eremopteris 1
 ethanethiol 2
 ensealing
-electrotechnics 1
+electrotechnics 2
 embarge
 espier
 enteropneustal 1
@@ -4765,7 +4765,7 @@ encompassment 2
 excusation 1
 episiotomy 1
 embosks 1
-encores
+encores 1
 enemas
 excitive 1
 epicranium
@@ -4812,7 +4812,7 @@ exportable 3
 episcopolatry 1
 eulamellibranchiate
 encrinic
-equidifferent
+equidifferent 1
 encrinidae
 encrinital
 encroacher
@@ -5124,7 +5124,7 @@ entocoele
 ergotist
 enterovirus 1
 eastings 1
-electroballistician
+electroballistician 1
 epilithic
 endogenae 1
 efference 1
@@ -7440,7 +7440,7 @@ encounterer 2
 ekphory
 eudemony
 euda
-enhaloing 1
+enhaloing 2
 ephraimite 1
 exocoetidae 2
 extensively 1
@@ -7760,7 +7760,7 @@ embiotocidae
 epigastrocele 1
 epigee 1
 escapism
-excyst 1
+excyst 2
 electromagnetize 1
 envisage 2
 ethnobotany 3
@@ -11638,7 +11638,7 @@ exacerbated
 effet 1
 excided 1
 enfrenzy 1
-ersatz
+ersatz 1
 ethnocentricity 2
 empoison 2
 exclosure 1
@@ -11889,7 +11889,7 @@ echinostome 1
 enteroparesis 1
 espinillo
 enfranchisement
-extbook
+extbook 1
 embowing 2
 ergonomically 1
 emptysis
@@ -13402,7 +13402,7 @@ expositorial 2
 ephererist
 ethicists 1
 ethnopsychological 1
-enfevers 2
+enfevers 3
 exits 2
 expositorially 1
 expostulating 1
