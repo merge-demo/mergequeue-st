@@ -17395,7 +17395,7 @@ drophead 2
 dir 1
 ditchbur
 darksomeness
-deficiencies
+deficiencies 1
 drib
 doigt
 derivability 2
