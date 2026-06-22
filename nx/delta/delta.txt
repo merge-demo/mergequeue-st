@@ -1805,7 +1805,7 @@ dropseed 1
 drawknife
 debarking 1
 digamist 1
-dishpanful
+dishpanful 1
 discede 2
 dwelled
 debarkment
