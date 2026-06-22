@@ -2930,7 +2930,7 @@ frustums 1
 fencing
 floccipend
 farfetch
-fluellite
+fluellite 1
 fleaworts
 flyoff 1
 filialness
