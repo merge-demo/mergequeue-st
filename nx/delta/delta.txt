@@ -12196,7 +12196,7 @@ disfurnish 3
 deport 2
 disfurnished
 deathshot
-dervishes
+dervishes 1
 disfurniture
 donax 1
 disgarnish 1
