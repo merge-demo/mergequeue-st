@@ -1197,7 +1197,7 @@ forereport
 firmitude 1
 frigidity 1
 fenders 2
-flexural
+flexural 1
 flinched
 fatuities 3
 forethinking
@@ -1232,7 +1232,7 @@ filmdom
 frostier 2
 filariform
 familistic 4
-fermentative
+fermentative 1
 frugalness 1
 franklin
 farseeing 3
@@ -1888,7 +1888,7 @@ footingly 1
 foredoom
 filicoids 2
 feminacies
-footstep 1
+footstep 2
 fourdrinier 1
 flamboyantize 1
 freshwoman 1
@@ -2022,7 +2022,7 @@ furmity 1
 forejudge
 fefnicute 1
 fullam 3
-farragoes
+farragoes 1
 fannell
 fireworky
 fractionizing 2
@@ -8916,7 +8916,7 @@ froghopper 2
 faulter
 foujdarry 2
 fibrousness 1
-foul 1
+foul 2
 frotted 1
 fogger
 finesse
@@ -10062,7 +10062,7 @@ flatwork 1
 fantod 1
 franchiser 1
 flor
-fryer
+fryer 1
 foollike 1
 flans 2
 ferryboats 1
