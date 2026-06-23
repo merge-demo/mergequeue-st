@@ -5663,7 +5663,7 @@ barques 2
 besped 1
 beldams
 bacchar 2
-bilify 1
+bilify 2
 belderroot
 bodgie
 beleaguering
@@ -6753,7 +6753,7 @@ barracudina
 bufonid 1
 bergamot
 bushiest
-berry
+berry 1
 buchnerite
 binturong 1
 brotherlike 1
@@ -7047,7 +7047,7 @@ beknots 1
 biodegrade
 barbute
 billiardist
-besouth
+besouth 1
 blaming 1
 bedazzlement
 bespangling
