@@ -4651,7 +4651,7 @@ caroms
 carone
 convictiveness
 caronic
-cliffless
+cliffless 1
 caroome
 caroon
 causingness
@@ -9392,7 +9392,7 @@ citoyen
 clickless
 chazan
 chazanim 1
-capette
+capette 1
 chazans
 chazanut
 chazy
@@ -17661,7 +17661,7 @@ catalaunian
 calque 1
 clinoid
 conservationist 1
-cochliodontidae
+cochliodontidae 1
 cochliodus
 cochlite
 cochlospermaceae 1
