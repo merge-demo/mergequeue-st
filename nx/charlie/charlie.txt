@@ -7337,7 +7337,7 @@ cephalodiscid 2
 cephalodiscida
 cephalodiscus
 crownpiece 2
-cephalodium
+cephalodium 1
 charpie
 cephalogram
 cephaloid 1
@@ -25170,7 +25170,7 @@ crackableness
 cottontail 1
 coded
 culpate
-corevolve
+corevolve 1
 cryometer
 chlorophyllaceous 1
 cardmaking
