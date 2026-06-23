@@ -754,7 +754,7 @@ galvanoplasty 3
 grovers 2
 gansa 1
 gestapos 3
-grapewise
+grapewise 1
 gerim 2
 gunbearer
 gambles
@@ -8647,7 +8647,7 @@ guider 1
 glyceridic
 grauwacke 1
 greeds 1
-glutaminase 1
+glutaminase 2
 gerrymanderer 2
 genethliacs 1
 gentlemanly
