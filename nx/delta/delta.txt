@@ -8249,7 +8249,7 @@ dispels 1
 diagonal
 diagonalizable
 diagonalization
-diagnosing
+diagnosing 1
 duel
 denude
 diagonals 1
