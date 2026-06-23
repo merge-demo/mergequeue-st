@@ -13320,7 +13320,7 @@ botanize
 brushmen
 boswellizing 2
 bescreening
-benzanalgen 1
+benzanalgen 2
 brachioradialis
 botanizes
 barramundis 1
@@ -16565,7 +16565,7 @@ becurse 1
 bedsit
 blepharophthalmia 2
 bocasine
-backpointers
+backpointers 1
 baboo
 boringly
 bsh
@@ -16721,7 +16721,7 @@ balaam
 basilicae 1
 blowcase
 breithauptite 2
-biospheres 2
+biospheres 3
 bolyaian
 bucks 1
 blinders
@@ -17892,7 +17892,7 @@ boundable
 bushelers 1
 bankcard
 bescurvy 2
-bushelfuls
+bushelfuls 1
 belabour
 bonytail
 buginese
