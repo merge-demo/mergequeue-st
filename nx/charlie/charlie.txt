@@ -4094,7 +4094,7 @@ carnationed 1
 chlorotic
 cunners
 colibri
-cardianesthesia 1
+cardianesthesia 2
 considering
 cardianeuria
 calamiform
@@ -4921,7 +4921,7 @@ carageen
 carses 2
 cogitable 1
 carsick
-carsickness 1
+carsickness 2
 caviteno
 combinably 1
 ceilinged 2
@@ -6262,7 +6262,7 @@ coreductase
 cauldrife
 casquette
 ctenoidei
-cauldrifeness
+cauldrifeness 1
 cauldrons 1
 cottar
 caulds
@@ -10257,7 +10257,7 @@ chicaneries
 chicaners
 convallarin
 chicanes
-chicano
+chicano 1
 coimmense
 crocodilidae
 chicaric 1
@@ -10935,7 +10935,7 @@ cimmaron
 chirograph 1
 chirographers
 crl
-capituliform
+capituliform 1
 ceruleolactite
 consideratively
 chirography
@@ -15865,7 +15865,7 @@ calisthenical
 cobcab
 compends
 cleeking
-clef
+clef 1
 cassinese 2
 chesterfields
 chronomancy 1
