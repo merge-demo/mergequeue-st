@@ -12927,7 +12927,7 @@ dowment
 deniability 1
 dimensionless 1
 dicycle
-disomatic
+disomatic 1
 doubtmonger
 dugout
 dermostosis
