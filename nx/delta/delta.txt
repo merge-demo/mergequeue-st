@@ -422,7 +422,7 @@ disobedient
 dairymaids 1
 devaluate 1
 dogfighting 1
-dithered 1
+dithered 2
 dorsoanterior
 deadlier
 drinker 1
@@ -1835,7 +1835,7 @@ dobson 2
 debauchees
 debby
 dislocatedness
-disengages
+disengages 1
 disharmonious
 doorstone
 debarbarize
@@ -3691,7 +3691,7 @@ dehydrating
 diploidies 2
 depiedmontize 1
 dictic
-dikamalli
+dikamalli 1
 demonstrating 1
 diam
 dinumeration
@@ -10186,7 +10186,7 @@ doven
 dings
 despises
 dzeron
-depopularize 1
+depopularize 2
 dismortgage
 dining
 discoplacental
@@ -14224,7 +14224,7 @@ defenselessly 1
 derotrematous 2
 disyoked
 doublet
-disvisor
+disvisor 1
 dungs 1
 dynamoelectric 2
 dippier
@@ -15800,7 +15800,7 @@ does
 dorsiflexion
 deuteron
 detects
-defreeze
+defreeze 1
 diacetic 2
 deluge 3
 dissertations
@@ -15860,7 +15860,7 @@ diamondize
 dorty
 daikers 1
 documentor 1
-deadpanning
+deadpanning 1
 dosed 2
 deiseal
 deboning
@@ -15951,7 +15951,7 @@ dissonancies 2
 doblas 2
 dotiest
 desponding
-dune 1
+dune 2
 dea
 dipt
 dissocial
