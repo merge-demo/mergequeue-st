@@ -3633,7 +3633,7 @@ baglike 2
 bookmobile 1
 besought
 blithelike
-batidaceous
+batidaceous 1
 becrowds 2
 beshouted
 batiking 1
@@ -11892,7 +11892,7 @@ bodrage 1
 bodiliness 1
 baalite 1
 baccivorous
-bortzes
+bortzes 1
 battleplane 1
 bouillons
 boedromion 1
@@ -13901,7 +13901,7 @@ bowlike 1
 bowline
 bombinating
 bacalaos 1
-bumpingly
+bumpingly 1
 baptizee
 bowsman 2
 botanomancy
