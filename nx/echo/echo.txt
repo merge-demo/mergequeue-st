@@ -561,7 +561,7 @@ eccentrical 1
 epigynum
 excision
 esophagoscopy
-eurypelma 3
+eurypelma 4
 eurythermic
 ecclesiastes
 electrostatically
@@ -821,7 +821,7 @@ epitheton 1
 elbowchair
 entrecote
 epop
-exulate
+exulate 1
 eloine 1
 ectiris
 etamines
@@ -1198,7 +1198,7 @@ epimorphosis 1
 eustyle
 educible 3
 expiates 1
-epimeric
+epimeric 1
 encyclopedically 1
 enterodelous
 excursionists
@@ -10518,7 +10518,7 @@ epidiascopic 1
 eubteria 2
 engelmann
 edicts 2
-embezzlers
+embezzlers 1
 endaortic 1
 epistoma
 enodal 1
@@ -12770,7 +12770,7 @@ embryography
 exceeds
 exorbitation
 epithamia 2
-eloah 1
+eloah 2
 epidemiologically 1
 emulatively
 epilogism 1
