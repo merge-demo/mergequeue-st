@@ -3201,7 +3201,7 @@ elopes
 ethylamide 1
 elops 1
 elicit 1
-emission
+emission 1
 extruding 1
 embioptera 1
 efficaciousness 1
@@ -7088,7 +7088,7 @@ eudaemonism
 endocolitis 1
 enneagonal 1
 engrossed
-epigastria 1
+epigastria 2
 established
 epimere 2
 examples 1
@@ -11010,7 +11010,7 @@ eusynchite 1
 eurycephalic
 epiglot
 enridged 3
-epiclastic
+epiclastic 1
 electrodialitically 2
 egomism
 exigency
