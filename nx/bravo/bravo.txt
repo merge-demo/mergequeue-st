@@ -1138,7 +1138,7 @@ bedimmed 1
 bluethroat 1
 bargestone 1
 breakwind
-burseraceae 2
+burseraceae 3
 battercake 2
 bello
 belonesite
@@ -6661,7 +6661,7 @@ berycoidea
 barpost 1
 berycomorphi
 bunsenite
-berigora 2
+berigora 3
 beryllonate
 beseemly 1
 boyg
@@ -10973,7 +10973,7 @@ birdcatcher
 blissful
 bughead
 bookcase 1
-blissom
+blissom 1
 balden
 buxomer
 blistered
@@ -18381,7 +18381,7 @@ buzz
 buzzard 2
 bubos
 beylical
-beasts 2
+beasts 3
 bluebook
 barycenter 1
 balaustre
