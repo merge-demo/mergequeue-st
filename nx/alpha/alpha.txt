@@ -8849,7 +8849,7 @@ abidance
 atturn 1
 adelina
 anglophobes
-autoimmunization
+autoimmunization 1
 asthmatics
 accentors
 allocations
@@ -22355,7 +22355,7 @@ anhaline 3
 asperger
 aplanat
 autoreduction
-atmologist 1
+atmologist 2
 astrodiagnosis 2
 androphyll
 afterbodies
