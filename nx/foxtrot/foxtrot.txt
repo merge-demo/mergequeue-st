@@ -1197,7 +1197,7 @@ forereport
 firmitude 1
 frigidity 1
 fenders 2
-flexural
+flexural 1
 flinched
 fatuities 3
 forethinking
