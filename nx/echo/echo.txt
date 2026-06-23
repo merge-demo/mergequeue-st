@@ -4850,7 +4850,7 @@ ef 1
 encumbrance 1
 extrabureau 1
 english
-encumbrous
+encumbrous 1
 evolves 2
 eyednesses
 enterocoelic 1
