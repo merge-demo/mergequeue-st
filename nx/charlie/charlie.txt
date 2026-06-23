@@ -9962,7 +9962,7 @@ cajuputs
 chequebook 2
 croup 1
 chequer
-chequered
+chequered 1
 chequers 1
 creosoted 2
 chalukya
