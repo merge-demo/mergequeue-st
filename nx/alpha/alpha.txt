@@ -233,7 +233,7 @@ antiritual 1
 antisensitizer 1
 amphibola 1
 abbotric
-allokinesis
+allokinesis 1
 alchemistical 1
 adipolytic
 ajourise
@@ -1299,7 +1299,7 @@ arcturus
 aerognosy
 australopithecine
 ails 1
-antifoggant
+antifoggant 1
 aromal
 antitropic
 acarpelous
@@ -2049,7 +2049,7 @@ alfoncino 1
 acerin 1
 acetophenone
 anathematical
-amphodiplopia
+amphodiplopia 1
 autecy
 anticipatory 1
 antibromic 1
@@ -2983,7 +2983,7 @@ acroterial
 aeons 1
 ablactation 2
 acrotism
-acrotrophic 1
+acrotrophic 2
 aesthetician
 acrux 2
 acta 1
@@ -4692,7 +4692,7 @@ attraction 1
 autem 1
 aedile
 adject
-archibald
+archibald 1
 aediles 1
 aknee 1
 airbursts 1
@@ -4780,7 +4780,7 @@ alaihi
 abashments
 antefixes
 armorplated
-aepyceros 1
+aepyceros 2
 aisleless
 artolatry
 aepyornithidae 1
@@ -5567,7 +5567,7 @@ anaerobious
 ablins
 apophylaxis
 afterheat
-acalycal
+acalycal 1
 anatifae 1
 afterhope
 animatist
@@ -10077,7 +10077,7 @@ amission
 amerceable 1
 asquirm
 ambivalence 1
-aiger
+aiger 1
 ambiversion 1
 ambivert
 arrect 2
@@ -11241,7 +11241,7 @@ amphichrom
 agitable 2
 apocryphal
 achillobursitis
-aspiquee 1
+aspiquee 2
 astrobiologists
 amphicoelous
 anarchistic
@@ -18414,7 +18414,7 @@ arleng
 advises
 actinism
 almonds 1
-arase
+arase 1
 amylosis 1
 accessability 1
 arati
@@ -25384,7 +25384,7 @@ antiheterolysin
 azoxonium
 aztec
 androlepsy 2
-aztecan 1
+aztecan 2
 aztecs
 amortising
 angiosperm 1
