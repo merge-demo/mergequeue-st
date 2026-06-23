@@ -422,7 +422,7 @@ disobedient
 dairymaids 1
 devaluate 1
 dogfighting 1
-dithered 1
+dithered 2
 dorsoanterior
 deadlier
 drinker 1
@@ -934,7 +934,7 @@ depurging
 dapperling 1
 dapperness
 dapping 1
-dactylographic
+dactylographic 1
 dishouse
 decourt 2
 deboistly
@@ -1835,7 +1835,7 @@ dobson 2
 debauchees
 debby
 dislocatedness
-disengages
+disengages 1
 disharmonious
 doorstone
 debarbarize
@@ -2519,7 +2519,7 @@ druith
 desertism 1
 destinations
 diazohydroxide
-dorothea
+dorothea 1
 decemdentate
 dipper 2
 dibromoacetaldehyde
@@ -2983,7 +2983,7 @@ disengage
 diabolos
 deeding 1
 demolishment
-dygogram 2
+dygogram 3
 directorates
 deedless 2
 depreciant
@@ -3691,7 +3691,7 @@ dehydrating
 diploidies 2
 depiedmontize 1
 dictic
-dikamalli
+dikamalli 1
 demonstrating 1
 diam
 dinumeration
@@ -5776,7 +5776,7 @@ deleatur
 dichronous
 dishful
 defeise 1
-dysraphia
+dysraphia 1
 disambiguation
 drengh 1
 deploration 1
@@ -10186,7 +10186,7 @@ doven
 dings
 despises
 dzeron
-depopularize 1
+depopularize 2
 dismortgage
 dining
 discoplacental
@@ -10389,7 +10389,7 @@ devoured 1
 dioxides
 donald 1
 decimetre
-dinitril
+dinitril 1
 dentatocrenate 1
 dotards
 dioxime
@@ -14224,7 +14224,7 @@ defenselessly 1
 derotrematous 2
 disyoked
 doublet
-disvisor
+disvisor 1
 dungs 1
 dynamoelectric 2
 dippier
@@ -15860,7 +15860,7 @@ diamondize
 dorty
 daikers 1
 documentor 1
-deadpanning
+deadpanning 1
 dosed 2
 deiseal
 deboning
@@ -15951,7 +15951,7 @@ dissonancies 2
 doblas 2
 dotiest
 desponding
-dune 1
+dune 2
 dea
 dipt
 dissocial
