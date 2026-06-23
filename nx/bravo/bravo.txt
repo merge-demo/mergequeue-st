@@ -552,7 +552,7 @@ bloodnoun 2
 butyl
 bernard 2
 blit 2
-backwardness
+backwardness 1
 belgium 1
 bakerlike
 bootboy
@@ -4058,7 +4058,7 @@ bueno
 beamfilling
 beeware 1
 bivalvous
-beamhouse
+beamhouse 1
 bibliophobe
 backbreaker
 benignancy
@@ -7704,7 +7704,7 @@ bezzo 3
 bhabar
 belemnites
 bacchanalization 1
-brothelry 3
+brothelry 4
 bromonaphthalene 2
 behypocrite
 bridging 1
@@ -8639,7 +8639,7 @@ basigenic 1
 baraza
 billon 2
 baronizing
-billow
+billow 1
 bimorph
 balladeroyal 1
 butterflyfishes
@@ -11965,7 +11965,7 @@ brinded
 bogyman
 broncobusters 1
 bandagers 1
-birmingham 2
+birmingham 3
 bbls 1
 braireau
 bostons 1
@@ -12947,7 +12947,7 @@ bimotored
 bootied 1
 bearfoot
 bialy 1
-bootlegs
+bootlegs 1
 bootlessly 2
 bluefish 1
 bootlicking
@@ -17989,7 +17989,7 @@ blastophthoria
 bleeze 1
 beguiler
 businesses
-beadeyes
+beadeyes 1
 babbool 1
 bennel 1
 bowled
