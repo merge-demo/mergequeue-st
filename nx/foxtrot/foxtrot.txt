@@ -542,7 +542,7 @@ foresays
 flosculose
 ff 2
 fertilely 1
-figless 1
+figless 2
 foxwood 1
 federative 2
 fallectomy
@@ -1038,7 +1038,7 @@ farrage 1
 ferroelectricity 1
 fleawort
 furziest
-farrago
+farrago 1
 flyted
 folkmote 2
 franchisement 1
@@ -2386,7 +2386,7 @@ fetial 3
 fortunetellers 1
 friendlier 1
 frondage 2
-feriation
+feriation 1
 falsedad 2
 flinting
 flexors 2
@@ -3583,7 +3583,7 @@ fractabling
 foreskirt 1
 florigraphy
 forspoken 4
-feddan 2
+feddan 3
 flapjacks
 fussle 2
 fairbanks 2
@@ -8005,7 +8005,7 @@ forepleasure 1
 fiddling
 floorthrough
 fosteringly 1
-flirted 5
+flirted 6
 foresignify 2
 facula
 favoring
@@ -8375,7 +8375,7 @@ factories 1
 fieldstrip 3
 forisfamiliation
 flashback
-fontlet
+fontlet 1
 ferrotyping
 firmament
 fatherlike 1
@@ -9210,7 +9210,7 @@ folded
 federations 4
 fadednyess
 figulines 1
-floss
+floss 1
 fossilization 3
 flirtigig
 fashionmonging
@@ -11262,7 +11262,7 @@ forerunnings
 frontispieces 2
 fucivorous
 funmaking 3
-flit 1
+flit 2
 flakeless 1
 fiars
 famble 2
@@ -11410,7 +11410,7 @@ functionlessness
 floors
 frosk
 feater 1
-fringe 1
+fringe 2
 forksmith
 forestership
 forcemeat 1
