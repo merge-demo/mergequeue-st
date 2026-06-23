@@ -7154,7 +7154,7 @@ caracas 1
 centranth 1
 centrarchid
 centrarchoid
-clar 1
+clar 2
 compare
 centraxonial
 centre
@@ -14879,7 +14879,7 @@ cervelats
 cameronians
 crucibles
 chasmy 2
-cytophagic
+cytophagic 1
 cytophagous
 cytopharynx
 coldturkey 1

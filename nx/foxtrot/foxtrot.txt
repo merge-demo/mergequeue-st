@@ -542,7 +542,7 @@ foresays
 flosculose
 ff 2
 fertilely 1
-figless 1
+figless 2
 foxwood 1
 federative 2
 fallectomy
@@ -8375,7 +8375,7 @@ factories 1
 fieldstrip 3
 forisfamiliation
 flashback
-fontlet
+fontlet 1
 ferrotyping
 firmament
 fatherlike 1
@@ -9210,7 +9210,7 @@ folded
 federations 4
 fadednyess
 figulines 1
-floss
+floss 1
 fossilization 3
 flirtigig
 fashionmonging
