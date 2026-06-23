@@ -3593,7 +3593,7 @@ bathythermograph 2
 bipartite 2
 bathmat
 bathmats
-broodsac
+broodsac 1
 bereaven
 basion
 bathmism
