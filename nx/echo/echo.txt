@@ -1041,7 +1041,7 @@ edger
 edgeshot
 earthen 1
 embalmment
-ephrathite
+ephrathite 1
 exterritorial
 encephaloscope 1
 exteriorized 1
@@ -10921,7 +10921,7 @@ epirotulian
 easternize
 enterokinase
 enfin 1
-encephalocoele
+encephalocoele 1
 epibaterium 1
 euktolite
 evolutoid
