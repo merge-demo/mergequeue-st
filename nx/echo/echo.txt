@@ -37,7 +37,7 @@ enumerated 2
 estimableness
 epidemiological 1
 electrothermic 2
-eloping 1
+eloping 2
 erroneously
 eopaleozoic 1
 emigrational 1
@@ -2822,7 +2822,7 @@ endomastoiditis
 erratuta 1
 expone 1
 elan 1
-eggfish
+eggfish 1
 endoubt
 enseat
 enleen
@@ -3286,7 +3286,7 @@ eperlan 2
 elapidae 1
 eyeshades 1
 eremitish
-effeminization
+effeminization 1
 emailed 2
 equalise
 exhibitively
@@ -6902,7 +6902,7 @@ empt
 enounces
 entozoologically 2
 entrain 1
-enantiomorphy
+enantiomorphy 1
 elicitate
 entoprocta 2
 embrocado
@@ -9676,7 +9676,7 @@ exurbs
 euselachii
 esquisse 1
 euphratean 1
-exship 2
+exship 3
 extima
 easing
 eventuated
@@ -12028,7 +12028,7 @@ everyone
 enterfeat 3
 exampleship
 essentials 1
-eigenspace 3
+eigenspace 4
 electrostrictive
 embolus 1
 equilibrize
@@ -13755,7 +13755,7 @@ eliciting 1
 elementarity
 epicarid 1
 endnote 1
-extratemporal 2
+extratemporal 3
 ensnares
 esteemed
 escrowed
