@@ -1348,7 +1348,7 @@ cardioparplasis
 calices 1
 calyces
 cathartin 1
-calycifloral 2
+calycifloral 3
 cascabels 1
 calyciflorate
 contranatural 2
@@ -1510,7 +1510,7 @@ callback
 closish
 conversus
 cryotherapies
-cryptoxanthin
+cryptoxanthin 1
 coffeepot
 commise 1
 callboy 1
@@ -7337,7 +7337,7 @@ cephalodiscid 2
 cephalodiscida
 cephalodiscus
 crownpiece 2
-cephalodium
+cephalodium 1
 charpie
 cephalogram
 cephaloid 1
@@ -10692,7 +10692,7 @@ counterdefender 1
 chimneylike 1
 chimneyman
 chimneypiece
-chymotrypsinogen
+chymotrypsinogen 1
 creedalism
 coilsmith 1
 canthari 1
@@ -15949,7 +15949,7 @@ clementine
 culverfoot
 clerical
 clericalists
-crumbum
+crumbum 1
 clericality 1
 clericals 1
 chordaceous 1
@@ -21680,7 +21680,7 @@ cryptococcal
 condiment
 condimentary 1
 citatum
-carcharhinus 1
+carcharhinus 2
 cinerarias
 cloths
 chiaus
@@ -24551,7 +24551,7 @@ crankum 1
 connascent
 chromatodysopia
 cope
-cappers
+cappers 1
 capillus
 coetaneously
 copehan
@@ -25018,7 +25018,7 @@ cordate
 contrayerva 1
 catawamptious
 clavicytherium
-cordax
+cordax 1
 caswellite 1
 carnivora
 castoff
@@ -25170,7 +25170,7 @@ crackableness
 cottontail 1
 coded
 culpate
-corevolve
+corevolve 1
 cryometer
 chlorophyllaceous 1
 cardmaking
@@ -26008,7 +26008,7 @@ chamade 1
 corvoid
 corvorant 1
 cantiga
-corvus
+corvus 1
 commissars
 cosaque
 corneum 2
@@ -26872,7 +26872,7 @@ cruzados 1
 counterfleury
 counterfoil
 counterforce
-cosmopolitanizing
+cosmopolitanizing 1
 carrom
 cavalero
 chugs
