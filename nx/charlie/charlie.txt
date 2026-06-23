@@ -4651,7 +4651,7 @@ caroms
 carone
 convictiveness
 caronic
-cliffless
+cliffless 1
 caroome
 caroon
 causingness
@@ -9392,7 +9392,7 @@ citoyen
 clickless
 chazan
 chazanim 1
-capette
+capette 1
 chazans
 chazanut
 chazy
@@ -10562,7 +10562,7 @@ compartmentalize 1
 cherie
 calculi 1
 carvings
-chilidium 1
+chilidium 2
 chilliest
 camelopardid 1
 characteriser
@@ -17661,7 +17661,7 @@ catalaunian
 calque 1
 clinoid
 conservationist 1
-cochliodontidae
+cochliodontidae 1
 cochliodus
 cochlite
 cochlospermaceae 1
@@ -22148,7 +22148,7 @@ clams 1
 cepter
 catalysts
 commaing
-catchpolled
+catchpolled 1
 camsteery 1
 cystectasy
 cogitatively
@@ -23733,7 +23733,7 @@ contraindications
 cloudwards
 cologarithm
 contralateral
-cirsectomy 1
+cirsectomy 2
 crappers
 conjunctural 1
 chessmen
@@ -24531,7 +24531,7 @@ civilizations
 compartmentation 1
 coparents
 caroigne
-copartiment 1
+copartiment 2
 circles 1
 commandrie
 copartnership
@@ -26197,7 +26197,7 @@ candlewick 1
 cosmopolitanism
 carnivorous
 cosmopolitanization
-cosmopolitans
+cosmopolitans 1
 corned
 cosmopolitics 1
 cosmopolitism 2
@@ -28338,7 +28338,7 @@ charminger
 cravened
 cravenly
 cravens
-clod
+clod 1
 cloop
 craver 1
 cannoli 1
@@ -28624,7 +28624,7 @@ cremasterial
 cremasteric
 cremate
 conjointly
-chemicomechanical 1
+chemicomechanical 2
 crossbowmen 2
 coccogonium 1
 condisciple
