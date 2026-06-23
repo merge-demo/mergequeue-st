@@ -7865,7 +7865,7 @@ ale 1
 adoze
 arctia
 alea 1
-aleak
+aleak 1
 aleatory
 archcorsair
 aleatoric 2
@@ -8706,7 +8706,7 @@ allocution
 anemology 1
 alleleu
 allelic
-allelism 1
+allelism 2
 argyrite
 almes
 alternationist
@@ -13544,7 +13544,7 @@ annoy
 alister
 annoyance
 athenian
-assisan
+assisan 1
 anthropopathy 2
 antefact
 aster
@@ -24772,7 +24772,7 @@ acridonium 1
 alitrunk 1
 aromadendrin
 alternators
-aviculturist 2
+aviculturist 3
 antistrike 1
 avidin
 abacot
