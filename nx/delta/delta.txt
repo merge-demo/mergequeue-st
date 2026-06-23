@@ -1539,7 +1539,7 @@ denture 1
 dieugard
 dynamisms
 dupondius
-dedoggerelize 1
+dedoggerelize 2
 deacons 1
 demobilizes 1
 diphygenic
@@ -11667,7 +11667,7 @@ discoursing 2
 decomplex
 decoagulate
 dehumidification
-disclaim
+disclaim 1
 declinator 2
 disprobabilization
 dashy
@@ -12889,7 +12889,7 @@ discepting
 dissatisfies 1
 drawls
 dryope
-disnaturalization
+disnaturalization 1
 deviator 1
 dactylioglyphy 1
 dermaptera
