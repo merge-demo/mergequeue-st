@@ -422,7 +422,7 @@ disobedient
 dairymaids 1
 devaluate 1
 dogfighting 1
-dithered 1
+dithered 2
 dorsoanterior
 deadlier
 drinker 1
@@ -3691,7 +3691,7 @@ dehydrating
 diploidies 2
 depiedmontize 1
 dictic
-dikamalli
+dikamalli 1
 demonstrating 1
 diam
 dinumeration
@@ -5287,7 +5287,7 @@ diminuted 1
 distincter 1
 dedolent 1
 dialkylamine
-defiant
+defiant 1
 donis
 dolor
 dentatoserrate
@@ -8268,7 +8268,7 @@ dermopathic 1
 dependancy
 dynamiting
 dagesh 1
-desonation
+desonation 1
 digitation 1
 doombook 1
 diagrams
@@ -15800,7 +15800,7 @@ does
 dorsiflexion
 deuteron
 detects
-defreeze
+defreeze 1
 diacetic 2
 deluge 3
 dissertations
@@ -15951,7 +15951,7 @@ dissonancies 2
 doblas 2
 dotiest
 desponding
-dune 1
+dune 2
 dea
 dipt
 dissocial
