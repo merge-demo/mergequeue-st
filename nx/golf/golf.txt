@@ -488,7 +488,7 @@ gravimetrical
 gelatin 1
 gye 2
 glaucodot
-gluteus
+gluteus 1
 gulaman 2
 grama 1
 geminations 2
@@ -5556,7 +5556,7 @@ greenroom 2
 glucaemia
 gumming 2
 gaysome 2
-gripless
+gripless 1
 geophysical 2
 gefilte 1
 grandame 2
@@ -5723,7 +5723,7 @@ gammons 1
 goldsmithery 1
 gypsumed 1
 glockenspiel 1
-gallopade 1
+gallopade 2
 glossohyal 3
 granjeno 2
 gaultherase 1
@@ -7547,7 +7547,7 @@ gryllus 2
 gematriot 1
 gubernaculum
 guslee 1
-grigri 1
+grigri 2
 germanical 1
 graypate 1
 gemstones 1
