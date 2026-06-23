@@ -893,7 +893,7 @@ benzidin 1
 benzalcohol 2
 beffroy
 baggala
-borderlight
+borderlight 1
 bagganet 1
 baggara 1
 bellyfulls
@@ -4347,7 +4347,7 @@ bossdoms
 beche
 becheck
 befool 1
-bechic 1
+bechic 2
 bechignoned 1
 bacchanalize
 balzacian
@@ -11154,7 +11154,7 @@ bawley
 brachypnea 1
 bloodstream 1
 butylation
-barbe
+barbe 1
 bloodstreams
 bitt 1
 beforementioned
