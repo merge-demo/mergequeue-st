@@ -2002,7 +2002,7 @@ gases
 gaveled 3
 gibbosities
 gnomologic 1
-greiges 1
+greiges 2
 guazuti 3
 growers 1
 gerres 1
@@ -4178,7 +4178,7 @@ grovelling 2
 gumptionless
 gratitude
 grumph
-gunsling
+gunsling 1
 guimpes 3
 gasteralgia
 garrisoning 1
@@ -5180,7 +5180,7 @@ gaywing 2
 garnisheed
 gleeks 3
 glycemic
-geophytes 1
+geophytes 2
 gabbles 2
 groundline 1
 glottidean
@@ -5204,7 +5204,7 @@ golf
 geniculate
 gab 1
 gorgonzola
-gamecraft 1
+gamecraft 2
 garten
 gentilic
 gawkier
@@ -9047,7 +9047,7 @@ grillee 1
 golem 1
 gramashes 2
 granatum 2
-geomorphogenist
+geomorphogenist 1
 gorhens 3
 gastroenterologic 1
 gaper
@@ -9526,7 +9526,7 @@ gematrical
 graals
 glutinize
 guanaco 2
-gemellion 2
+gemellion 3
 garden 1
 groupist 1
 genipapada 4

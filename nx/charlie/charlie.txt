@@ -3849,7 +3849,7 @@ caladium
 carboluria
 chrisma
 carbomethene 2
-carbomethoxy
+carbomethoxy 1
 carbomethoxyl
 carbon
 carbonaceous
@@ -4635,7 +4635,7 @@ carolines
 cradler
 caroling 1
 carolinians
-carolitic
+carolitic 1
 carditic
 caoba
 caroller
@@ -10309,7 +10309,7 @@ chartographist 1
 chickenberry
 counterpole
 citoyens
-cypriote
+cypriote 1
 chickenbill
 chickenbreasted 1
 chickened
@@ -30808,7 +30808,7 @@ culicoides
 culinarian
 condenser
 cull 1
-contemnible 2
+contemnible 3
 consarned
 cullage
 cullays 1
