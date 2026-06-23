@@ -3581,7 +3581,7 @@ fingerlike
 forgetable 1
 fractabling
 foreskirt 1
-florigraphy
+florigraphy 1
 forspoken 4
 feddan 2
 flapjacks
@@ -4136,7 +4136,7 @@ flexed
 funders 1
 fenchyl
 feezed 2
-fireboy
+fireboy 1
 flying
 fiendishly 1
 fraticelli 1
