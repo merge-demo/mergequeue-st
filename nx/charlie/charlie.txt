@@ -1348,7 +1348,7 @@ cardioparplasis
 calices 1
 calyces
 cathartin 1
-calycifloral 2
+calycifloral 3
 cascabels 1
 calyciflorate
 contranatural 2
@@ -1510,7 +1510,7 @@ callback
 closish
 conversus
 cryotherapies
-cryptoxanthin
+cryptoxanthin 1
 coffeepot
 commise 1
 callboy 1
@@ -3514,7 +3514,7 @@ capsular
 capsulation
 collegatary
 chainomatic
-chawbone
+chawbone 1
 capsulectomy 1
 chloroforming
 centinody
@@ -10692,7 +10692,7 @@ counterdefender 1
 chimneylike 1
 chimneyman
 chimneypiece
-chymotrypsinogen
+chymotrypsinogen 1
 creedalism
 coilsmith 1
 canthari 1
@@ -13179,7 +13179,7 @@ calycozoan 1
 clavellate
 ciceronianize 1
 consummativeness
-ciceronically
+ciceronically 1
 clearskins 1
 cichlid
 cichlidae
@@ -17244,7 +17244,7 @@ coalizer
 coalless
 coalmouse
 commentaries
-counterdrain 1
+counterdrain 2
 calliopean
 coalpit 2
 cryptograph
@@ -21680,7 +21680,7 @@ cryptococcal
 condiment
 condimentary 1
 citatum
-carcharhinus 1
+carcharhinus 2
 cinerarias
 cloths
 chiaus
@@ -24551,7 +24551,7 @@ crankum 1
 connascent
 chromatodysopia
 cope
-cappers
+cappers 1
 capillus
 coetaneously
 copehan
@@ -25018,7 +25018,7 @@ cordate
 contrayerva 1
 catawamptious
 clavicytherium
-cordax
+cordax 1
 caswellite 1
 carnivora
 castoff
@@ -25170,7 +25170,7 @@ crackableness
 cottontail 1
 coded
 culpate
-corevolve
+corevolve 1
 cryometer
 chlorophyllaceous 1
 cardmaking
@@ -25288,7 +25288,7 @@ contradistinctively
 canonicate
 coryza 1
 cork
-corkage
+corkage 1
 canoodler 1
 cocreates 1
 culmigenous
