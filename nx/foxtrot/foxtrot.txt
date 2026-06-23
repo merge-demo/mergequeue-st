@@ -9241,7 +9241,7 @@ footled 4
 fries 1
 fragileness 1
 foreknown
-faceplate
+faceplate 1
 flubbing
 fucus
 farmed
