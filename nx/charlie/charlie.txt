@@ -1348,7 +1348,7 @@ cardioparplasis
 calices 1
 calyces
 cathartin 1
-calycifloral 2
+calycifloral 3
 cascabels 1
 calyciflorate
 contranatural 2
@@ -1510,7 +1510,7 @@ callback
 closish
 conversus
 cryotherapies
-cryptoxanthin
+cryptoxanthin 1
 coffeepot
 commise 1
 callboy 1
@@ -21680,7 +21680,7 @@ cryptococcal
 condiment
 condimentary 1
 citatum
-carcharhinus 1
+carcharhinus 2
 cinerarias
 cloths
 chiaus
@@ -24551,7 +24551,7 @@ crankum 1
 connascent
 chromatodysopia
 cope
-cappers
+cappers 1
 capillus
 coetaneously
 copehan
