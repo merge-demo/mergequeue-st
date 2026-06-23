@@ -3556,7 +3556,7 @@ dermatotome 2
 drawbeam
 dissheathe
 dehwar
-defuze 3
+defuze 4
 dakoities
 dissociative
 degage 2
@@ -4918,7 +4918,7 @@ debussy
 demoralizes 1
 demorphism
 delectated
-decate
+decate 1
 demosthenean 1
 drabbletail 1
 deradenitis
@@ -11038,7 +11038,7 @@ diamagnetically 1
 dibbling 1
 deedy 1
 decernment 1
-demulsification
+demulsification 1
 dobras
 dactyliology
 disappreciate
@@ -14284,7 +14284,7 @@ deb 1
 dieties
 deviances 1
 dithion
-dithionous
+dithionous 1
 drouk
 dephilosophize
 devotionate
