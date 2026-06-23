@@ -161,7 +161,7 @@ cabling
 contentiousness
 campmaster 1
 copellidine
-carbonizable
+carbonizable 1
 cabob
 countervails 1
 caboceer
@@ -2389,7 +2389,7 @@ cogs
 companator 1
 chinbones
 canaries
-cohobates
+cohobates 1
 canarine
 canarium
 centers
@@ -11299,7 +11299,7 @@ checkups 1
 clothbound
 chlorocarbonate
 casualty
-chlorochromic
+chlorochromic 1
 capsicin 1
 chlorococcaceae
 cucking
@@ -19250,7 +19250,7 @@ colocephali 1
 clypeiform
 coryph 1
 colocynth
-connections
+connections 1
 crista
 colodyspepsia
 cuidado
@@ -30817,7 +30817,7 @@ carroty
 cytotechnology 1
 cochleary
 conchologize
-cullers
+cullers 1
 cullet
 cullets
 carload
