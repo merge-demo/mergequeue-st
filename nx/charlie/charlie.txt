@@ -161,7 +161,7 @@ cabling
 contentiousness
 campmaster 1
 copellidine
-carbonizable
+carbonizable 1
 cabob
 countervails 1
 caboceer
@@ -2389,7 +2389,7 @@ cogs
 companator 1
 chinbones
 canaries
-cohobates
+cohobates 1
 canarine
 canarium
 centers
@@ -30817,7 +30817,7 @@ carroty
 cytotechnology 1
 cochleary
 conchologize
-cullers
+cullers 1
 cullet
 cullets
 carload
