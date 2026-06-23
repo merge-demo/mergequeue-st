@@ -7154,7 +7154,7 @@ caracas 1
 centranth 1
 centrarchid
 centrarchoid
-clar 1
+clar 2
 compare
 centraxonial
 centre
@@ -10257,7 +10257,7 @@ chicaneries
 chicaners
 convallarin
 chicanes
-chicano
+chicano 1
 coimmense
 crocodilidae
 chicaric 1
@@ -14879,7 +14879,7 @@ cervelats
 cameronians
 crucibles
 chasmy 2
-cytophagic
+cytophagic 1
 cytophagous
 cytopharynx
 coldturkey 1
@@ -15865,7 +15865,7 @@ calisthenical
 cobcab
 compends
 cleeking
-clef
+clef 1
 cassinese 2
 chesterfields
 chronomancy 1
@@ -28474,7 +28474,7 @@ creatin
 critiques 1
 catelectrotonic
 creatinephosphoric 1
-condensedly
+condensedly 1
 creatininemia
 cajuputol
 crickets 1
