@@ -6740,7 +6740,7 @@ amaut 2
 aimore
 architecturally 2
 aims 1
-aimworthiness
+aimworthiness 1
 andropogon
 adjoined
 argentiferous
@@ -7303,7 +7303,7 @@ alarmingly 2
 aftercure 1
 aurantiaceae
 assn
-alarmingness 2
+alarmingness 3
 adcons 1
 algovite
 alarmist
@@ -19097,7 +19097,7 @@ amendable
 anthocyanidin
 acetaminophen
 archpriestship 1
-acroataxia 3
+acroataxia 4
 archregent
 archrogue
 archruler
@@ -21836,7 +21836,7 @@ auricula
 assiette
 assify 3
 alpen
-assign
+assign 1
 absorbedness
 astrodynamics
 assignably
