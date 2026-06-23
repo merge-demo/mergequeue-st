@@ -2429,7 +2429,7 @@ betowel
 bowditch
 blinkering 1
 bromoiodide
-brotherhood
+brotherhood 1
 bards
 bardship 1
 backaching
@@ -2651,7 +2651,7 @@ bescorch
 bummler 1
 batrachite
 beeth
-barlafumble
+barlafumble 1
 blurred
 basilinna
 bescour 2
@@ -10371,7 +10371,7 @@ bepainting
 bowpin 1
 blanc 1
 beneath 1
-baltimorite 1
+baltimorite 2
 bergomask
 bolsheviki
 bumbler 2
@@ -15507,7 +15507,7 @@ breaststroker 1
 breadberry
 bodoni
 banding 1
-babyish
+babyish 1
 brannerite
 batonnier
 bindheimite 1
