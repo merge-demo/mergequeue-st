@@ -679,7 +679,7 @@ forzandos 1
 fobs
 familism 1
 firebolted
-farmstead 2
+farmstead 3
 forenotion
 ferromagnetic
 futilitarianism 3
@@ -739,7 +739,7 @@ footbreadth
 fanatism 1
 fabricating 2
 farcilite 2
-flybelt 1
+flybelt 2
 frozenness
 fishgrass 2
 fluxions 1
@@ -4544,7 +4544,7 @@ filibranchia 2
 fishgigs 1
 fatiguing
 fealties 3
-flagellation 2
+flagellation 3
 fruitcake 1
 forethinker 1
 foolable
@@ -7814,7 +7814,7 @@ fissipedia 2
 festively 1
 fleshiest
 feedboxes
-feronia
+feronia 1
 fossilizing 1
 fraternising 2
 fibrilla
@@ -9414,7 +9414,7 @@ fascinates
 flocculant 2
 fleecier 2
 frankfurters
-fivers
+fivers 1
 flaunty
 frayne 1
 frankish 1
@@ -9667,7 +9667,7 @@ feeders 1
 falcata
 ferias 3
 factorizing 1
-fortalice 1
+fortalice 2
 finalities 1
 flukier
 foamer 4

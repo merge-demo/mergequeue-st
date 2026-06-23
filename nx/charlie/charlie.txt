@@ -6791,7 +6791,7 @@ cerinthian 1
 cowshard
 capless
 celioscope
-cella
+cella 1
 cellarage
 cellared
 chamoix
@@ -10067,7 +10067,7 @@ complier
 cheselip
 coxocerite
 cyclogram
-cheskey
+cheskey 1
 campine
 cheslep
 crestings 1
@@ -22951,7 +22951,7 @@ comforting
 clarifiable
 chromosomic
 consigned 1
-consignee 1
+consignee 2
 consignify
 cantorous
 countersalient
@@ -24145,7 +24145,7 @@ convertiplane
 convertise
 convertism
 convertite
-comfortless 1
+comfortless 2
 convertive
 choriocapillary 1
 caterership
