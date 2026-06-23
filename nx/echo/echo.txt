@@ -2498,7 +2498,7 @@ enervators 1
 externe
 endostylar
 epilepsia 1
-enmeshed 1
+enmeshed 2
 eparcuale 1
 eremitic
 eulytite 1
@@ -5748,7 +5748,7 @@ exhilarating 1
 exterritoriality
 eolipiles
 eucharistical
-excl
+excl 1
 englobe
 empressements
 epigraphy
@@ -10535,7 +10535,7 @@ eudaemony
 eurithermophilic
 eucharistic
 eucharistically 2
-ephthalite
+ephthalite 1
 enswathed 1
 eucharists
 exorcises 1
