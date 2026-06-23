@@ -2327,7 +2327,7 @@ determinists 2
 decke 2
 diethylstilbestrol 1
 demidolmen
-downwash
+downwash 1
 diazoaminobenzene 1
 deceptive
 deceptively
@@ -8006,7 +8006,7 @@ dispersion
 dumbhead
 dhal
 dimension
-dorsointestinal
+dorsointestinal 1
 dhamnoo
 daphnioid
 distinctional
@@ -17185,7 +17185,7 @@ drilvis
 deuterogelatose 1
 dringle
 disomaty 2
-decade
+decade 1
 decius
 dimwittedness
 disgaveled 2
