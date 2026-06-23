@@ -9469,7 +9469,7 @@ check
 communizing
 checkage
 checkback
-checkbite
+checkbite 1
 checkbits
 checkbook
 counterbuff
