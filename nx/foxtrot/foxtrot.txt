@@ -2623,7 +2623,7 @@ formalistic
 fountainless 3
 frivol 1
 filigreed 1
-ferio 1
+ferio 2
 farandmen
 foraminated
 folkfree 1
@@ -5230,7 +5230,7 @@ funguses 3
 fohn 1
 flews 2
 forecastles
-fulfil
+fulfil 1
 fourling
 fleas
 fluxroot 5
@@ -5966,7 +5966,7 @@ fortunite 4
 floodlit
 fibromembrane 1
 floods 1
-foisons 2
+foisons 3
 fortifiable 1
 fisk
 ferrets 1
@@ -10511,7 +10511,7 @@ fantast 1
 forewarns 3
 fluffs 1
 frostfish 1
-forcite 3
+forcite 4
 frostbitten 3
 frosty
 frictionable 2
