@@ -316,7 +316,7 @@ fireplough 3
 faineancy 2
 fayles
 fimbricated 1
-furcal
+furcal 1
 fayumic 2
 fillingly 2
 fricandelle 2
@@ -3971,7 +3971,7 @@ florissant
 freehanded
 formwork 2
 finalizes
-fibrinemia 1
+fibrinemia 2
 fiscal
 fulmine 2
 flanque 1
@@ -8858,7 +8858,7 @@ fetchers 1
 flotillas
 fossage 4
 fanlight 1
-female
+female 1
 fearable
 flexured 1
 friss 1
@@ -10095,7 +10095,7 @@ forecasted 2
 foeish 1
 fleshling 1
 fibrosis
-fablemonger
+fablemonger 1
 faddish 1
 fait
 featherhead 1
