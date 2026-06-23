@@ -439,7 +439,7 @@ disinthrall 3
 disposal
 drenchers
 dimyaric 1
-diathermous
+diathermous 1
 dimercaprol 1
 daises
 defiance 1
@@ -1126,7 +1126,7 @@ doctorization 2
 dashed 2
 dicentra 1
 dipnoid 1
-dermopathy
+dermopathy 1
 dumpfile
 dryfist 2
 dashee
@@ -2736,7 +2736,7 @@ determinants 1
 dolichocephalous 1
 decorticosis 2
 decortization
-decorum 1
+decorum 2
 disconsideration
 dactylorhiza
 diamber 2
@@ -3645,7 +3645,7 @@ deprogrammer
 depreciators 1
 dunt 1
 deglutition
-deglutitious 1
+deglutitious 2
 degold
 decathlon
 disinhibition 1
@@ -4577,7 +4577,7 @@ drabbest 2
 doled 1
 deaconship
 disfranchised
-deaness
+deaness 1
 disagglomeration 1
 disfunction 1
 dittoing
@@ -4754,7 +4754,7 @@ diemaker
 dentalizing 1
 denigrations
 dichotomically 1
-damosels 1
+damosels 2
 demographically
 diptera 1
 divertissement
@@ -5862,7 +5862,7 @@ dandyisms 1
 dispender 1
 danicism 2
 depressibilities
-deozonization
+deozonization 1
 desulphurizing 1
 depressingly 1
 denuders
@@ -6736,7 +6736,7 @@ deboistness
 designer 2
 discerptible
 donicker
-designful 1
+designful 2
 drylot 2
 dillyman 1
 downshifts 1
@@ -6974,7 +6974,7 @@ docility
 drags 1
 dumbfoundment
 despitefully
-desalinizes 2
+desalinizes 3
 despitefulness 1
 disray 1
 derepression
@@ -7715,7 +7715,7 @@ deeded 1
 devilishness
 darshana
 displaceable 2
-devility
+devility 1
 deprotestantize
 daurna
 devilize
@@ -9716,7 +9716,7 @@ deceive 1
 desugarize 1
 dudley
 daemony
-diffracts
+diffracts 1
 days 2
 dilatedness 1
 defiantness 1
@@ -11284,7 +11284,7 @@ diffidentness
 dystocias 1
 dunite 1
 discerned 1
-dizzier
+dizzier 1
 dyspeptical
 dittied 1
 discerner
@@ -12338,7 +12338,7 @@ dishcloth 1
 dishcloths
 detractively
 disparkle
-distraint
+distraint 1
 dishclout 1
 disassembly
 disheartenedly 1
@@ -12393,7 +12393,7 @@ dilatatory 2
 dampne 1
 dishome 1
 dishonor 1
-distendedness 1
+distendedness 2
 dishonorer 1
 doctrinairism 1
 deresinize 1
@@ -12750,7 +12750,7 @@ dislodgement
 desertress
 drainpipe 1
 disestablishmentarianism 2
-distasted 1
+distasted 2
 drogher 1
 diaschisma
 discloud 1
@@ -15839,7 +15839,7 @@ decatoic
 despiting
 debonairity
 dorsosacral
-dishumor 1
+dishumor 2
 dorsoscapular 1
 dozen 1
 diablotin 1
@@ -16670,7 +16670,7 @@ derangements
 drainage 1
 drained
 drainer
-dawdle
+dawdle 1
 dissuadable 1
 dogging
 drainers
@@ -18392,7 +18392,7 @@ desecrating 1
 dropling 1
 dreamish 2
 dorse
-denudative
+denudative 1
 dillue
 douches
 dibutyl 1
