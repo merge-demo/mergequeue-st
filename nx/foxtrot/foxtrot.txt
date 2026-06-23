@@ -679,7 +679,7 @@ forzandos 1
 fobs
 familism 1
 firebolted
-farmstead 2
+farmstead 3
 forenotion
 ferromagnetic
 futilitarianism 3
@@ -739,7 +739,7 @@ footbreadth
 fanatism 1
 fabricating 2
 farcilite 2
-flybelt 1
+flybelt 2
 frozenness
 fishgrass 2
 fluxions 1
@@ -9414,7 +9414,7 @@ fascinates
 flocculant 2
 fleecier 2
 frankfurters
-fivers
+fivers 1
 flaunty
 frayne 1
 frankish 1
