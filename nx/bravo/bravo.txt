@@ -3592,7 +3592,7 @@ boliviano
 bathythermograph 2
 bipartite 2
 bathmat
-bathmats
+bathmats 1
 broodsac 1
 bereaven
 basion
@@ -8656,7 +8656,7 @@ blockheaded
 behear
 basins
 bilobe
-besiegingly
+besiegingly 1
 bilobed 1
 bilocular 1
 braches
@@ -9315,7 +9315,7 @@ bleezy 1
 bobsled
 bulletwood
 bewet
-blendure
+blendure 1
 bipupillate 1
 bleaunt
 bagattini 1
@@ -11260,7 +11260,7 @@ blasts
 brightening
 bertrand
 blotto 3
-byway
+byway 1
 bigwiggism 1
 botteghe
 betelnut
