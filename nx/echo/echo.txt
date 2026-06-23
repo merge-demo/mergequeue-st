@@ -751,7 +751,7 @@ enabling
 embryoctony 1
 equilibrist
 ecoute 2
-enforcive 2
+enforcive 3
 exscinding 1
 emotes 2
 echinal
@@ -1589,7 +1589,7 @@ eyewitnesses 1
 erecting 1
 eumenorrhea 1
 ephorship
-enfeoffment
+enfeoffment 1
 evolutility
 epibiotic 1
 embroilment
@@ -11210,7 +11210,7 @@ electroacoustically
 econometrist 1
 evanesces
 emmetropy
-extrajudicial
+extrajudicial 1
 etuis
 extoll 2
 extatic
@@ -13001,7 +13001,7 @@ etherous
 evanition 1
 equanimously 3
 expecter 1
-expectingly 2
+expectingly 3
 encephalopyosis
 erminette
 estriols 1
