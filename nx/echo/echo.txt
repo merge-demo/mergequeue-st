@@ -1041,7 +1041,7 @@ edger
 edgeshot
 earthen 1
 embalmment
-ephrathite
+ephrathite 1
 exterritorial
 encephaloscope 1
 exteriorized 1
@@ -1712,7 +1712,7 @@ evang
 eyeground 2
 epornitically 1
 encephaloid 2
-enginery 1
+enginery 2
 exasper 1
 exclaimers
 exonerated
@@ -8740,7 +8740,7 @@ equoidean 2
 exhedra
 euphyllite 2
 eradicable
-enticement
+enticement 1
 eradicant
 epineolithic 1
 enround
@@ -10921,7 +10921,7 @@ epirotulian
 easternize
 enterokinase
 enfin 1
-encephalocoele
+encephalocoele 1
 epibaterium 1
 euktolite
 evolutoid
@@ -11208,7 +11208,7 @@ eternalism
 enspheres 1
 electroacoustically
 econometrist 1
-evanesces
+evanesces 1
 emmetropy
 extrajudicial 1
 etuis
