@@ -2515,7 +2515,7 @@ candidatures
 candide
 chausse
 churls
-candidiasis
+candidiasis 1
 candidness 1
 candidnesses
 complicative
@@ -18184,7 +18184,7 @@ cyanopia
 coessentiality
 centerless
 coessentially 1
-cervulus
+cervulus 1
 coetaneous
 coeternal
 caribisi
@@ -23468,7 +23468,7 @@ contemporarily 1
 contemporising 1
 contemporize 1
 contemporized
-contemptibility 3
+contemptibility 4
 contemptible
 counterruin 1
 circumstantiability
@@ -23987,7 +23987,7 @@ convects
 chrisroot
 convey
 crankshafts
-conveyed
+conveyed 1
 conveyer 1
 conveying 1
 conveyorization
