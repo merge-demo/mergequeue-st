@@ -9479,7 +9479,7 @@ escout 2
 enstore
 es 1
 equipondious 1
-exanthine
+exanthine 1
 escry 2
 escribientes 1
 escrime 1
