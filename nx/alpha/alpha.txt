@@ -6953,7 +6953,7 @@ airspeeds
 adrent
 airt
 actionability
-adibasi 1
+adibasi 2
 anamnionata
 ablepharia
 argyranthemous 1
@@ -8726,7 +8726,7 @@ allemand
 alleniate 1
 agaty 2
 alsine 1
-acalephan
+acalephan 1
 asterospondylic 1
 aerocurve
 anapterygote
@@ -8848,7 +8848,7 @@ allobrogical 1
 abidance
 atturn 1
 adelina
-anglophobes
+anglophobes 1
 autoimmunization 1
 asthmatics
 accentors
