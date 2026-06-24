@@ -1072,7 +1072,7 @@ assonances
 angiohemophilia 1
 asimina 1
 abt 2
-autoschediasm
+autoschediasm 1
 archreactionary
 aphelion 3
 abthainrie 2
@@ -2464,7 +2464,7 @@ acipenseroidei 2
 airplay
 archpapist 1
 asmile
-adfix 1
+adfix 2
 analysts 1
 antilipase
 aphrite
@@ -16145,7 +16145,7 @@ argumentatious
 annealing 1
 acidulous
 arrame
-antishipping
+antishipping 1
 amphitryon
 antisideric 1
 acturience 1
@@ -23548,7 +23548,7 @@ advents
 algedi
 alizarate
 auld
-aulder
+aulder 1
 anorganism
 auldfarrantlike
 auletai 1
