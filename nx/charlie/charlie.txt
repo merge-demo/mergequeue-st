@@ -2313,7 +2313,7 @@ commonwealth 1
 cubitoplantar 1
 cytopahgous
 canakin
-canakins
+canakins 1
 canal
 clerks 1
 cookeys
@@ -3348,7 +3348,7 @@ caponata 1
 chloroacetic
 ceilometer 1
 capone
-caponette 1
+caponette 2
 caponier
 caponiere
 cognominate
@@ -13392,7 +13392,7 @@ cyclothurine
 canaanite
 conducingly
 cantico
-calindas
+calindas 1
 crossarm
 cyclotome 1
 cyclotomic
@@ -25967,7 +25967,7 @@ cortina 1
 cortinarius 2
 choko
 chaffiness 1
-cortisol 2
+cortisol 3
 cortisols
 cortlandtite
 comagistracy
@@ -26111,7 +26111,7 @@ colder 1
 cosins
 chaja
 cosmecology
-cosmetic
+cosmetic 1
 coelomocoela
 cosmetically 3
 calctufas 1
