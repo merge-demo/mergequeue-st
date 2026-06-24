@@ -4364,7 +4364,7 @@ acerbas 1
 apocrine 1
 archegoniata
 aerator 1
-algesireceptor 1
+algesireceptor 2
 adrogate
 antialbumid 1
 anthranilic 2
@@ -18535,7 +18535,7 @@ arboricole 1
 annectant
 addresses 2
 araneina
-acceptees
+acceptees 1
 austrophile
 arboricoline 1
 anhelose 2
@@ -22826,7 +22826,7 @@ anisotropous
 alterability
 albopannin
 arya 1
-atmometric 1
+atmometric 2
 allheal 1
 asherah
 anima
