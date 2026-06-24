@@ -1679,7 +1679,7 @@ frangible 2
 ferrament
 fleeching 1
 furnace 1
-fingertip 2
+fingertip 3
 foreordaining 2
 forehandsel 1
 fanfares
@@ -3071,7 +3071,7 @@ fluorin 1
 filmizing 2
 frounceless
 freend
-flopping 1
+flopping 2
 fibrillating 1
 flirters 1
 faroff 1
@@ -3730,7 +3730,7 @@ fulcral
 forkiness
 flotilla
 fillipeen 3
-formanilide
+formanilide 1
 foregirth 1
 fays
 fangotherapy 2
@@ -4828,7 +4828,7 @@ fluidiser 1
 fardh
 fumish 1
 flume
-fracticipita
+fracticipita 1
 faunus 1
 fishberries
 flinthead 1
@@ -11659,7 +11659,7 @@ feedlot
 fanion
 filoselle 3
 foretalking
-forcingly 1
+forcingly 2
 farasula
 fut
 futhorc 1
