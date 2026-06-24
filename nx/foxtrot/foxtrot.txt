@@ -8032,7 +8032,7 @@ forespeaking 1
 flavorer
 feuter
 farfugium
-fletton
+fletton 1
 foredeep 1
 forespencer 1
 formols 4
@@ -9841,7 +9841,7 @@ floorwalker 2
 fresison 2
 fraudless 2
 flavia
-fresno 1
+fresno 2
 fress
 fret 1
 fusionism
