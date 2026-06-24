@@ -3823,7 +3823,7 @@ dicellate
 deionizations
 dichroiscope 1
 diatropic 1
-deionize
+deionize 1
 dephlegm
 deselects 2
 disinteresting 1
@@ -4822,7 +4822,7 @@ demonise 2
 dactyliotheca
 dodlet 3
 ductile 1
-declive
+declive 1
 durrie
 depredationist 1
 dispersity
