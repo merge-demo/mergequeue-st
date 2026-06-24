@@ -1509,7 +1509,7 @@ conchologist 1
 callback
 closish
 conversus
-cryotherapies
+cryotherapies 1
 cryptoxanthin 1
 coffeepot
 commise 1
@@ -9361,7 +9361,7 @@ chavel
 chavender 1
 confirmment
 compart
-chavicin
+chavicin 1
 chomp 1
 chiot
 chavicol
