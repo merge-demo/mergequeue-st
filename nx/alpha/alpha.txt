@@ -4847,7 +4847,7 @@ aero 2
 ausones
 aspermatism
 aeroballistic
-aerobate
+aerobate 1
 aerobatic
 arsenism 1
 azalea
@@ -8726,7 +8726,7 @@ allemand
 alleniate 1
 agaty 2
 alsine 1
-acalephan
+acalephan 1
 asterospondylic 1
 aerocurve
 anapterygote
@@ -19120,7 +19120,7 @@ assuages
 aetosaurian
 analytics
 algorithm
-anisylidene 1
+anisylidene 2
 aphoristic
 absorption
 archwag
