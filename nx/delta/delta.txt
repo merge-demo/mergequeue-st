@@ -9618,7 +9618,7 @@ depass
 deserted 3
 despot 1
 dihydroergotamine 1
-destructs
+destructs 1
 dissight 2
 dipoles
 dimeric 1
@@ -17476,7 +17476,7 @@ drouket 1
 deskill
 declare 2
 dendrochronologically 1
-damascener 2
+damascener 3
 diagrammatician 1
 dentiroster
 devitrified 1
