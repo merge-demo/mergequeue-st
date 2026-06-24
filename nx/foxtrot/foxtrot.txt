@@ -354,7 +354,7 @@ fluids
 flowerily
 fruticant 1
 fattiness
-foreknowing 1
+foreknowing 2
 faints
 forcedness 2
 franklandite
@@ -5674,7 +5674,7 @@ finedraw
 fumet 1
 fermium 1
 fawe
-fragility 1
+fragility 2
 fibrine
 freckles
 funeration 3
@@ -6816,7 +6816,7 @@ forams
 fungin 1
 forewonted 2
 freelancer 3
-folderols 1
+folderols 2
 foreheater 1
 foreleader
 foveiform 1
@@ -9014,7 +9014,7 @@ formally 1
 fourier
 fanglet 1
 fourierism
-fourneau 1
+fourneau 2
 femes
 filly
 feltings
