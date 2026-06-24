@@ -1439,7 +1439,7 @@ euphuisms 2
 enarbour 1
 eerock 1
 esconson
-eelpout
+eelpout 1
 effort 1
 ethmovomer
 environic
@@ -3972,7 +3972,7 @@ empanels
 enfamish 2
 ecumene 3
 emparchment 1
-exaltative
+exaltative 1
 enruin 1
 electroplates 2
 expiations
@@ -5774,7 +5774,7 @@ enterons
 encrinal
 episode 1
 enray
-ephoi 1
+ephoi 2
 effluvia
 environing
 elephant
@@ -13490,7 +13490,7 @@ enteroid
 epenthetic
 exuberantly
 electrolyse
-evelyn
+evelyn 1
 ensuingly 3
 encopresis 2
 eatanswill 1
