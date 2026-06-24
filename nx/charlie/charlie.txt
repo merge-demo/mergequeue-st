@@ -5501,7 +5501,7 @@ conductances
 cellar 1
 casuistries
 casus
-cat 1
+cat 2
 catabaptist
 contos
 catabases
@@ -10618,7 +10618,7 @@ collielike 1
 circumspection 1
 cashbook
 chylopoetic 2
-chylopoiesis 1
+chylopoiesis 2
 chilopsis
 coagulum
 chilostomatous 1
@@ -11890,7 +11890,7 @@ chordacentrous 1
 colonialising
 contend
 chordal
-cosharer 2
+cosharer 3
 chordamesodermal
 chordamesodermic
 chordate
@@ -12686,7 +12686,7 @@ chuckingly
 chuckle
 chucklehead
 calmly 1
-chuckleheaded
+chuckleheaded 1
 cumaceous
 causelessness 1
 chuckleheadedness
@@ -14403,7 +14403,7 @@ crosses
 circus 3
 circusy
 correspondents
-consolableness 1
+consolableness 2
 circuts 1
 cyrillian 1
 cantharidating
@@ -24833,7 +24833,7 @@ clausum
 costers
 chromic 1
 coquetry
-colonel 1
+colonel 2
 coquets
 chloragogen
 cleome 1
@@ -27188,7 +27188,7 @@ counterterrorism
 clasping
 counterterrorist
 countertheme
-counterthought 1
+counterthought 2
 counterthreat
 countertime 2
 cellulipetal
@@ -28754,7 +28754,7 @@ civetone 1
 crepon
 corkiest 1
 crept 2
-canters
+canters 1
 circaetus
 compendiary
 cavitate
