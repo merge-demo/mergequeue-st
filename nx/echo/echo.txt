@@ -9609,7 +9609,7 @@ effervescible 4
 ewer
 endoblast 2
 encense 1
-entangleable
+entangleable 1
 equipper
 entia 1
 epenthesize
