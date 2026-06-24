@@ -3972,7 +3972,7 @@ empanels
 enfamish 2
 ecumene 3
 emparchment 1
-exaltative
+exaltative 1
 enruin 1
 electroplates 2
 expiations
@@ -5774,7 +5774,7 @@ enterons
 encrinal
 episode 1
 enray
-ephoi 1
+ephoi 2
 effluvia
 environing
 elephant
