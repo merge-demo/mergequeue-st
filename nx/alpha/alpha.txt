@@ -4949,7 +4949,7 @@ aucupate 1
 aeroelasticity 1
 arraigning
 aerofoils
-atmidometry
+atmidometry 1
 adjourned
 amberfish
 antilogous
@@ -21676,7 +21676,7 @@ assaultable
 antimissioner 1
 astrospectroscopic
 antiquer 1
-assaulter
+assaulter 1
 attainably
 aldolases
 amphicytula
@@ -25094,7 +25094,7 @@ antiastronomical 1
 atwirl
 accusativeness
 autochronograph
-afflictively
+afflictively 1
 anthyllis 1
 almahs
 aeolopantalon
