@@ -7723,7 +7723,7 @@ explat 2
 embosom 1
 exchanger
 epidymides 2
-extrafine 1
+extrafine 2
 eosine 2
 extractiform 4
 encephalogram
@@ -7955,7 +7955,7 @@ epicleidian
 eolian
 eyrant
 endocannibalism
-embrasured
+embrasured 1
 epiotic 2
 eutannin 1
 exopterygota
@@ -9433,7 +9433,7 @@ eryopsid 2
 embedment
 eam 2
 eses
-epicism 2
+epicism 3
 erythron
 egests 1
 exegetes 3
@@ -12168,7 +12168,7 @@ excursionist 1
 extrovertive 1
 excurvated 4
 emaciate
-extrados
+extrados 1
 emphysematous
 esclavage 1
 energise
@@ -13845,7 +13845,7 @@ expurgated 1
 evitable
 enterocholecystostomy 1
 expressionism
-elutriate 2
+elutriate 3
 elative
 eleutheromaniac 1
 epithelialize 3
