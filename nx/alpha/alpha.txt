@@ -2936,7 +2936,7 @@ astrol 1
 aubrite 2
 antiendowment
 acropoleis
-asthenope 1
+asthenope 2
 archpontiff 2
 acarologist
 aureocasidium
@@ -5152,7 +5152,7 @@ aestheticist 1
 atherosclerotically
 aestii
 annihilated
-aestivate
+aestivate 1
 avocate
 aestivates
 azotite
@@ -12630,7 +12630,7 @@ antidoron
 appenditious 2
 aligns
 aboriginary
-andromania
+andromania 1
 aeropleustic
 acinetarian
 autochthonously
@@ -19319,7 +19319,7 @@ adjutor
 alaite
 astacus
 amplexation
-areostyle
+areostyle 1
 areotectonics
 ambrein
 aminodiphenyl
@@ -23237,7 +23237,7 @@ apollonicon 1
 atticomastoid 1
 amandin 1
 antimasonic
-apiculture 1
+apiculture 2
 attila
 alopathic 1
 argema 1
@@ -23768,7 +23768,7 @@ alacrity
 authenticated
 aerohydroplane
 amorphozoa 3
-asplenioid 1
+asplenioid 2
 aposporic
 ararauna 3
 auspiciousness 1
