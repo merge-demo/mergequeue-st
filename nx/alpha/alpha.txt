@@ -3979,7 +3979,7 @@ adjudicators 1
 aversely
 agonied 1
 aphidian 1
-alarmed 1
+alarmed 2
 argentamide 1
 adjunctively
 adjunctly 1
@@ -5963,7 +5963,7 @@ auge
 arminianism
 aeciostage 1
 aggrammatism 2
-approachability
+approachability 1
 aggrandised
 abasias
 aggrandising
@@ -6867,7 +6867,7 @@ airiness
 arecales
 atmolyses
 anacamptometer
-acerbophobia 1
+acerbophobia 2
 airless
 ahungry
 antelabium 1
@@ -9353,7 +9353,7 @@ alpenstocks
 alpestrine 1
 aircraft 2
 atomiferous
-alphabetarian
+alphabetarian 1
 acclimatizable
 aboiteau
 amphibiontic
@@ -9612,7 +9612,7 @@ accountableness
 alture
 acoemetae
 altus
-algivorous
+algivorous 1
 alpaca 1
 amazia
 antirennet
@@ -15471,7 +15471,7 @@ aureolae
 aegis 2
 antimechanistically
 aircrew
-antimechanization
+antimechanization 1
 antimediaevalist
 antimediaevally 1
 antimedical
@@ -17200,7 +17200,7 @@ adoxa
 azulite 1
 artillerymen 1
 apomixes 2
-anthropomorphotheist 1
+anthropomorphotheist 2
 acescent
 ankylosing 1
 almira
@@ -23267,7 +23267,7 @@ attorn
 appreciates
 airscape
 attornare 1
-agilely
+agilely 1
 attorney
 antirealism
 accumulator
