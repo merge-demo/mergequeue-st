@@ -1070,7 +1070,7 @@ evaluates
 edificatory
 expostulatively
 envolume 1
-elliptic
+elliptic 1
 ephahs
 edificed 1
 electrologic 1
@@ -3759,7 +3759,7 @@ enfranchises 1
 edulcorate 2
 enamellist 3
 elegiacs 1
-embruting
+embruting 1
 embubble
 eschatology
 embulk
@@ -3783,7 +3783,7 @@ emcumbering 1
 electroneutral 1
 eclaircise
 epilogs
-estonia
+estonia 1
 emeers
 emeership
 emend 2
@@ -7371,7 +7371,7 @@ elevate
 ensilability 1
 exhibitor
 elbowbush
-etherealized 1
+etherealized 2
 ephas 1
 erythrolytic 1
 enchaining 1
@@ -12068,7 +12068,7 @@ extrication
 excoriated
 electroanalysis 2
 excoriating 3
-enlivenment 1
+enlivenment 2
 excoriations
 epiclike
 enforcible 1
@@ -13536,7 +13536,7 @@ editing 1
 etruscologist 1
 evaporite 1
 erythrophagous
-evaluations 1
+evaluations 2
 endangeitis
 evonymus 2
 epitomic 2
