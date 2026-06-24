@@ -3366,7 +3366,7 @@ extranormal 1
 emballonuridae
 eulachons 1
 equus 3
-eof
+eof 1
 energeticalness 1
 eternising 1
 engraphy 1
@@ -8123,7 +8123,7 @@ ethmosphenoid 1
 episcopized 2
 equanimity 1
 engineering 1
-epistemonical
+epistemonical 1
 euchromatin 1
 extemporalness 1
 expedientist
@@ -8788,7 +8788,7 @@ entempest
 empetraceous 2
 entomostracous
 erat 1
-ethoxy 1
+ethoxy 2
 ethnobotanist 3
 effleurage 1
 erd 1
