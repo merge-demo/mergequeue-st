@@ -9618,7 +9618,7 @@ depass
 deserted 3
 despot 1
 dihydroergotamine 1
-destructs
+destructs 1
 dissight 2
 dipoles
 dimeric 1
@@ -14135,7 +14135,7 @@ dishwater
 desmans
 diplotaxis
 discontinuation 2
-diplomatical 1
+diplomatical 2
 discharacter 1
 disedification
 diffuser 3
@@ -14682,7 +14682,7 @@ deviative
 dks
 dlvy
 diademed
-deburse
+deburse 1
 dm 1
 deceivably 1
 decomposer
@@ -17476,7 +17476,7 @@ drouket 1
 deskill
 declare 2
 dendrochronologically 1
-damascener 2
+damascener 3
 diagrammatician 1
 dentiroster
 devitrified 1
