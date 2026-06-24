@@ -1166,7 +1166,7 @@ genio 2
 gonimolobe
 gnawings 1
 greatish
-galactometry 1
+galactometry 2
 gnetums 2
 guffin
 gaol 1
@@ -1365,7 +1365,7 @@ gelogenic
 green
 gerodermia 1
 gymnocalycium
-gauss
+gauss 1
 ginners 3
 garglers 1
 gimleted 1
@@ -5105,7 +5105,7 @@ ganoidei 2
 gratins 1
 gau 1
 greek
-glomerulitis 2
+glomerulitis 3
 genetmoil 2
 gastroenterocolostomy 2
 glazers 1
@@ -5209,7 +5209,7 @@ garten
 gentilic
 gawkier
 genial 1
-grenade 2
+grenade 3
 goatish 1
 gelsemiums
 glenohumeral 3
@@ -5451,7 +5451,7 @@ glaciating 3
 galet
 gemellus 1
 guipure 1
-groundskeep 3
+groundskeep 4
 glisk 1
 gastruran
 grangerising 1
@@ -6015,7 +6015,7 @@ gingerly 1
 goodwilly
 geranium
 gunky 1
-gelatinously
+gelatinously 1
 griffinesque
 gulllike 1
 greking
@@ -7157,7 +7157,7 @@ geometrise
 glycuronid 4
 guans 2
 gaffs 1
-glycid 1
+glycid 2
 gross 2
 glycolylurea 1
 genecor 1
