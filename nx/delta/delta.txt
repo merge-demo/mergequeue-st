@@ -804,7 +804,7 @@ daneweeds 1
 detections
 dactyliomancy
 diabrotic
-deduced
+deduced 1
 dangerousness
 distention 1
 deniable
@@ -7353,7 +7353,7 @@ dethronement
 diminute
 dethronements
 dethrones 1
-discommodes 2
+discommodes 3
 dwight
 dianil
 demasculinize
