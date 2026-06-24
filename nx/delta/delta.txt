@@ -8402,7 +8402,7 @@ deflower
 dysphasic 1
 drowned
 diallings
-dehair 1
+dehair 2
 dovefoot
 deliracy 1
 disciplines 1
@@ -9303,7 +9303,7 @@ detersive 2
 depletable
 diluvions
 depilation 1
-duvetine
+duvetine 1
 dyeware
 delisted
 dashiest 2
@@ -16341,7 +16341,7 @@ dochmiac
 duchess
 discobolus 1
 dismasts
-dicoelous 1
+dicoelous 2
 daven 2
 dismount
 divergently
