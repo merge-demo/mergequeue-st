@@ -15323,7 +15323,7 @@ clangouring 2
 cakewalks
 campings
 clangours 1
-clangs
+clangs 1
 conquests
 critter 1
 calluses
@@ -26329,7 +26329,7 @@ censorious 1
 consultative
 chacoli
 costopneumopexy
-collusiveness
+collusiveness 1
 cicerone 1
 costosternal 1
 costothoracic 1
