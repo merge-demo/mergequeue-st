@@ -6867,7 +6867,7 @@ airiness
 arecales
 atmolyses
 anacamptometer
-acerbophobia 1
+acerbophobia 2
 airless
 ahungry
 antelabium 1
@@ -9353,7 +9353,7 @@ alpenstocks
 alpestrine 1
 aircraft 2
 atomiferous
-alphabetarian
+alphabetarian 1
 acclimatizable
 aboiteau
 amphibiontic
@@ -14891,7 +14891,7 @@ aliquant
 ameliorate
 aphotic
 anticyclone
-arthroempyema
+arthroempyema 1
 alkarsin
 ankylodactylia
 armer
@@ -17200,7 +17200,7 @@ adoxa
 azulite 1
 artillerymen 1
 apomixes 2
-anthropomorphotheist 1
+anthropomorphotheist 2
 acescent
 ankylosing 1
 almira
