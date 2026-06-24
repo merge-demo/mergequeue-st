@@ -1705,7 +1705,7 @@ enunciatory 1
 enamel
 electrolyses
 earpieces
-enterosyphilis 2
+enterosyphilis 3
 employ
 epistilbite
 evang
@@ -2332,7 +2332,7 @@ explorational
 entocele 1
 explosive 1
 electromobilism 1
-excrete 1
+excrete 2
 espaliering
 encore 2
 encomia
@@ -5271,7 +5271,7 @@ egeran
 emmeniopathy 2
 endoscopies
 epipodia
-endoskeletons
+endoskeletons 1
 endosmic
 entrusts 1
 evaders 2
@@ -9973,7 +9973,7 @@ entepicondylar 2
 etape 1
 escruage 1
 etapes
-exorhason
+exorhason 1
 endangers 1
 extravagancy
 esmeraldite
@@ -12619,7 +12619,7 @@ excecation 1
 eunuchry 1
 exocoelar 1
 exocoele 2
-excusing
+excusing 1
 electrophoreses 1
 embossable
 exocoelic 1
