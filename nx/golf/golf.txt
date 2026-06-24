@@ -1600,7 +1600,7 @@ gastreas 1
 gyrinid 1
 genitive 1
 glassteel 2
-grimly
+grimly 1
 grimines 2
 gastricism 1
 geratologous
@@ -2316,7 +2316,7 @@ grader
 gustfulness 1
 gladiolar 1
 gymnics 1
-geographism 2
+geographism 3
 gymnocerata 2
 glassy
 graptomancy 1
@@ -6470,7 +6470,7 @@ gapeworms 1
 gurry
 grit 3
 guirlande
-graduatical 1
+graduatical 2
 genteel 1
 ghazel 1
 gliming 2
@@ -9395,7 +9395,7 @@ genotypic 1
 garroting 4
 graptolite 1
 gesticulating
-grosshead 1
+grosshead 2
 gallooned 1
 grosso 1
 gowans
