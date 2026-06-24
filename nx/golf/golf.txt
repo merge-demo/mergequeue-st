@@ -775,7 +775,7 @@ gres
 galvanotherapy 1
 goods 1
 gery
-geomorphic
+geomorphic 1
 gemologies
 galvanotropism
 guntub
@@ -5105,7 +5105,7 @@ ganoidei 2
 gratins 1
 gau 1
 greek
-glomerulitis 2
+glomerulitis 3
 genetmoil 2
 gastroenterocolostomy 2
 glazers 1
@@ -5995,7 +5995,7 @@ gosport 2
 gibetting 1
 gymnastic
 grin 2
-gentry
+gentry 1
 gusting
 glossoplasty 1
 guanabana
@@ -7075,7 +7075,7 @@ guerite 1
 gearshifts 1
 gaus
 gunwales 2
-gesnerian
+gesnerian 1
 garbell
 garnetberry
 grumpily
@@ -7654,7 +7654,7 @@ guavina 1
 gravispheric
 gyn
 gowlan
-gunsel
+gunsel 1
 graphic
 gracilis
 gracing 4
