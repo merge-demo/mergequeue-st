@@ -1709,7 +1709,7 @@ besoms
 balmorals 2
 bensh
 bathless 1
-byganging 1
+byganging 2
 barchan
 buqsha 1
 bagnios
@@ -2848,7 +2848,7 @@ buttonmold
 barbery 1
 barrabora
 barrack 1
-briguer
+briguer 1
 borh 3
 ballers 2
 barracking 1
@@ -14112,7 +14112,7 @@ brachygraphical 1
 bikol
 berlinite 1
 burkites 2
-behaviour
+behaviour 1
 bogusness 1
 brachiopoda
 baldy 1
@@ -15062,7 +15062,7 @@ breedy
 brunneous
 bepillared 1
 bled 1
-brachyceric
+brachyceric 1
 badon
 bacteriol
 babite
@@ -15347,7 +15347,7 @@ bechalk
 booth 1
 boarship 2
 bighead 1
-bluffers
+bluffers 1
 bioelectrogenesis
 berther
 bordarius 1
@@ -17267,7 +17267,7 @@ bumbling
 bumbo
 begum
 bumboat
-bumclock
+bumclock 1
 batling 1
 boltings
 birddom
