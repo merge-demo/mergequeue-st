@@ -6681,7 +6681,7 @@ exstill
 entete
 eurytherm 1
 epistrophy 1
-enthelminthic
+enthelminthic 1
 echolocate 1
 effume
 ectosomal
@@ -11534,7 +11534,7 @@ elastometer 1
 encheiria 1
 erotylid
 exhaling 1
-eserin
+eserin 1
 extractable
 elegantly
 evincing
@@ -13420,7 +13420,7 @@ exemplify
 epityphlon
 epanaphoral
 exter
-expounder 3
+expounder 4
 eulogised 1
 ems
 enthrong
@@ -13985,7 +13985,7 @@ eozoonal 1
 endokaryogamy
 electropoion 1
 escheatage
-extraparochial 1
+extraparochial 2
 evanish
 equicurve 1
 ectophytic
