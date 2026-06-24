@@ -632,7 +632,7 @@ cresson
 caenogenetic
 costume
 crimpers 1
-circumscript
+circumscript 1
 caenostyly 1
 caesalpinia
 caenostylic
@@ -6839,7 +6839,7 @@ cellulated
 corradiating
 cornicular 1
 cathro
-cellules 1
+cellules 2
 crevasse
 clamor 1
 cellulin
@@ -7483,7 +7483,7 @@ contemplators
 ceratostomataceae
 cytococcus 1
 cimicidae 2
-cheliceral 1
+cheliceral 2
 ceratotheca 1
 cypridinidae
 clergyman 1
@@ -8633,7 +8633,7 @@ corrigiolaceae 1
 conspired
 cestodaria
 chantepleure
-chanterelle
+chanterelle 1
 chondroseptum 1
 chanters 2
 cutters
@@ -12038,7 +12038,7 @@ criticizable 1
 cabouca
 cyanacetic
 chinless
-chorographically 2
+chorographically 3
 coronene
 choroidoretinitis
 choroids
@@ -20376,7 +20376,7 @@ canada 1
 conjee
 commutant
 commutated 1
-commutation 2
+commutation 3
 commutatively
 carpogone 1
 commutativity 1
@@ -23685,7 +23685,7 @@ contractually
 centrefold
 contrada
 contradance
-calpul
+calpul 1
 ceratodontidae
 contradictable
 cuckooing
