@@ -2360,7 +2360,7 @@ autophoby
 acidnesses
 acidology 1
 acidometer
-arioi
+arioi 1
 afflation
 anacardium 1
 acidometry 1
@@ -5152,7 +5152,7 @@ aestheticist 1
 atherosclerotically
 aestii
 annihilated
-aestivate
+aestivate 1
 avocate
 aestivates
 azotite
@@ -23768,7 +23768,7 @@ alacrity
 authenticated
 aerohydroplane
 amorphozoa 3
-asplenioid 1
+asplenioid 2
 aposporic
 ararauna 3
 auspiciousness 1
