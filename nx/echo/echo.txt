@@ -2188,7 +2188,7 @@ electrographic
 exedrae 1
 esthesia 1
 epistome
-expanded 1
+expanded 2
 esophagoplication
 eldermen 1
 entailing
@@ -2542,7 +2542,7 @@ emptiable
 electrometer
 exstrophy
 earthgrubber
-electrometrical
+electrometrical 1
 enchodontidae 3
 encopreses
 extremes 1
@@ -4465,7 +4465,7 @@ esthesiophysiology
 elsewhat 1
 emulsive
 enforcing 1
-exterminator 2
+exterminator 3
 encephalomas 2
 escudo 1
 encephalomeningocele 3
@@ -6187,7 +6187,7 @@ etiologic
 enological 1
 enterclose
 execs 2
-ellipsoid
+ellipsoid 1
 exodist
 enophthalmus
 enorm 1
@@ -9719,7 +9719,7 @@ eomecon
 eastlings 2
 entotrophi 1
 entitles 1
-eradiates 2
+eradiates 3
 epitomisation
 equisonance 1
 everyplace 1
