@@ -5559,7 +5559,7 @@ blackeners
 brutified 1
 brominism 1
 bejuggle 1
-bejumbles
+bejumbles 1
 bejumbling
 bunko 1
 browses
@@ -5590,7 +5590,7 @@ bel
 bemedalled
 burys
 bibasic
-benzylpenicillin
+benzylpenicillin 1
 behoovingly 2
 basinasal
 boulanger
@@ -5632,7 +5632,7 @@ baptistery
 bima
 blarina
 bridelike
-bronchostomy
+bronchostomy 1
 belate
 babbittess
 bendingly
@@ -11459,7 +11459,7 @@ bivariant
 blancmange
 brawner 2
 blazingly 3
-bluesy
+bluesy 1
 bluesman 2
 bromisms
 bathflower
@@ -18165,7 +18165,7 @@ byzant
 butyryls 1
 boldfacedly
 besonnet
-begets 1
+begets 2
 bosses 1
 biogenase 1
 butyrometer
