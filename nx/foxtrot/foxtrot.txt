@@ -4828,7 +4828,7 @@ fluidiser 1
 fardh
 fumish 1
 flume
-fracticipita
+fracticipita 1
 faunus 1
 fishberries
 flinthead 1
@@ -11659,7 +11659,7 @@ feedlot
 fanion
 filoselle 3
 foretalking
-forcingly 1
+forcingly 2
 farasula
 fut
 futhorc 1
