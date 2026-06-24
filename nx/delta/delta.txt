@@ -1540,7 +1540,7 @@ dieugard
 dynamisms
 dupondius
 dedoggerelize 2
-deacons 1
+deacons 2
 demobilizes 1
 diphygenic
 deactivate 2
@@ -2290,7 +2290,7 @@ denouncing 1
 dohter 2
 dedicating
 decennoval
-deflux 1
+deflux 2
 decentering 1
 discomfortableness 1
 daidled
@@ -16373,7 +16373,7 @@ dolmens
 dissimulating
 duplation
 disproof
-dasyurine
+dasyurine 1
 disavow 1
 defilade
 defrost 1
