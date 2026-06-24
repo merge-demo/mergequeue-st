@@ -10068,7 +10068,7 @@ cheselip
 coxocerite
 cyclogram
 cheskey 1
-campine
+campine 1
 cheslep
 crestings 1
 clothesbrush
@@ -30416,7 +30416,7 @@ crusted
 creedlessness 1
 crusty
 crustier 1
-centaurial 2
+centaurial 3
 crustific
 crustily
 chemosorption 1
@@ -31303,7 +31303,7 @@ courtliness
 curbline 1
 crackle
 curbs 1
-curbside
+curbside 1
 curbstone
 curbstoner
 curcas
