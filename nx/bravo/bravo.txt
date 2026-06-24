@@ -1456,7 +1456,7 @@ bundahish
 bugler
 bloodthirstiest 1
 beacon 1
-bandh
+bandh 1
 biogen
 bathtubful
 botuliform
@@ -2237,7 +2237,7 @@ bontebok
 baghla
 bodword 1
 blockade
-bostonite 1
+bostonite 2
 bedrivelled 1
 barauna
 barba 2
@@ -7743,7 +7743,7 @@ barquantine
 breakover
 bhindi 1
 bowstave 1
-bhishti
+bhishti 1
 bhistie
 berake
 boldheartedness 3
@@ -12957,7 +12957,7 @@ bara
 boho
 brambled
 bladderweed 1
-bloodberry 1
+bloodberry 2
 bronchocele 1
 berliners 3
 blameless 1
