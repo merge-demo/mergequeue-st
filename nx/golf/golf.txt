@@ -1567,7 +1567,7 @@ galleria 1
 gastrostomize 2
 gunlock
 gasterotheca 3
-gandermooner 1
+gandermooner 2
 gymnetrous 3
 glabellar 1
 gunreach
@@ -3256,7 +3256,7 @@ germanification
 gadso 1
 gorgonian 1
 gregaritic
-geomyid
+geomyid 1
 glancer
 glycosin 1
 grein 1
@@ -6650,7 +6650,7 @@ gash
 grandioso 1
 gonfalcon 1
 glossopyrosis 3
-generational 2
+generational 3
 gekkota 1
 gild 1
 gauderies 1
@@ -8301,7 +8301,7 @@ globule 1
 graal 1
 graping
 graziery
-grappa 3
+grappa 4
 grandaunts 3
 gruff
 grane 4
@@ -10044,7 +10044,7 @@ gongman
 galette
 gossypols 2
 guerison
-guerites 1
+guerites 2
 gage
 graveolency 1
 gravedigger
