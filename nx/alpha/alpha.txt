@@ -6867,7 +6867,7 @@ airiness
 arecales
 atmolyses
 anacamptometer
-acerbophobia 1
+acerbophobia 2
 airless
 ahungry
 antelabium 1
@@ -9353,7 +9353,7 @@ alpenstocks
 alpestrine 1
 aircraft 2
 atomiferous
-alphabetarian
+alphabetarian 1
 acclimatizable
 aboiteau
 amphibiontic
@@ -9612,7 +9612,7 @@ accountableness
 alture
 acoemetae
 altus
-algivorous
+algivorous 1
 alpaca 1
 amazia
 antirennet
@@ -15471,7 +15471,7 @@ aureolae
 aegis 2
 antimechanistically
 aircrew
-antimechanization
+antimechanization 1
 antimediaevalist
 antimediaevally 1
 antimedical
@@ -23267,7 +23267,7 @@ attorn
 appreciates
 airscape
 attornare 1
-agilely
+agilely 1
 attorney
 antirealism
 accumulator
