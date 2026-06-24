@@ -4493,7 +4493,7 @@ dyspeptic
 decussis 1
 dendrite
 decern 1
-dorsilumbar
+dorsilumbar 1
 devocation
 drabbled
 demigroat
@@ -9482,7 +9482,7 @@ deplorate
 dural
 digestiveness
 dipteroi
-diamonded
+diamonded 1
 dermad
 domically
 daintrel 1
@@ -14135,7 +14135,7 @@ dishwater
 desmans
 diplotaxis
 discontinuation 2
-diplomatical 1
+diplomatical 2
 discharacter 1
 disedification
 diffuser 3
@@ -14682,7 +14682,7 @@ deviative
 dks
 dlvy
 diademed
-deburse
+deburse 1
 dm 1
 deceivably 1
 decomposer
@@ -17476,7 +17476,7 @@ drouket 1
 deskill
 declare 2
 dendrochronologically 1
-damascener 2
+damascener 3
 diagrammatician 1
 dentiroster
 devitrified 1
