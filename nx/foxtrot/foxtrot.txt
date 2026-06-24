@@ -1825,7 +1825,7 @@ figureheadship
 fellahin 2
 firebreaks 2
 feudalize
-fittest
+fittest 1
 fractured 1
 flabellum
 fating 1
@@ -4758,7 +4758,7 @@ fleecily
 fasibitikite 1
 flagellatae 3
 footlike 2
-fulmination
+fulmination 1
 follies 1
 fortress 4
 fatefulness 1
@@ -7117,7 +7117,7 @@ fregatae 1
 footage 1
 fibrillae
 fuscous 1
-fulminic
+fulminic 1
 foredays 1
 flaglet 1
 frowning 1
