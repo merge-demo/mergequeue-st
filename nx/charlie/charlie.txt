@@ -781,7 +781,7 @@ caginess
 caginesses
 caesalpiniaceae 1
 cagit
-cagot
+cagot 1
 consensual
 cagoule
 cahenslyism
@@ -3755,7 +3755,7 @@ caravel
 caravels
 cosen
 caraway
-counterpoison 1
+counterpoison 2
 caraways 1
 carbachol
 chirata
@@ -7282,7 +7282,7 @@ crossroads 1
 cepes
 civ
 conchitis
-clincher
+clincher 1
 chromatopathic
 commercer
 constitution
