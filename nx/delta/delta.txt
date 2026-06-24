@@ -1223,7 +1223,7 @@ dextrans
 datary 1
 dataries 2
 dendrium
-deinsularize
+deinsularize 1
 datasetname
 datcha
 disparison
