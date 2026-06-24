@@ -3340,7 +3340,7 @@ flench
 furuncle 2
 fidge 2
 frogfoot
-fractionally
+fractionally 1
 fidgeted
 faultage 1
 foilsmen 1
@@ -3902,7 +3902,7 @@ filarees
 fine 1
 fineableness 2
 fumigators
-fusinist
+fusinist 1
 fluoridated
 fitly 1
 fullage 1
@@ -4814,7 +4814,7 @@ fasciolaria 2
 fancifulness 1
 flinching 1
 floatiest
-fullwords 1
+fullwords 2
 faena
 fellowshipping
 famulary 1
@@ -5550,7 +5550,7 @@ floating 1
 fideicommissary
 fleshful
 favourite 1
-furunculus
+furunculus 1
 favouredly
 foamily 2
 foreordain
