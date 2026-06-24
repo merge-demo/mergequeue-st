@@ -2224,7 +2224,7 @@ ethnal 1
 egghot
 electioneer
 elaphurine 2
-extramoral
+extramoral 1
 elevatory 1
 eidola 1
 exocolitis 1
@@ -2246,7 +2246,7 @@ excessive
 epitomist 3
 electret 2
 electrets 1
-exploitive 1
+exploitive 2
 enciente
 eyn
 embryony 1
@@ -3538,7 +3538,7 @@ enfoeffment
 exothermic
 ensate 1
 exanthematous 2
-ergographic
+ergographic 1
 emboweled 1
 epithecial
 ethanamide
@@ -4365,7 +4365,7 @@ empressement
 encadre
 ender
 emphasised
-electrobioscopy 3
+electrobioscopy 4
 endoparasite 1
 environmentally 1
 enfacing 1
@@ -11233,7 +11233,7 @@ enosis
 encomimiums
 eophyton 1
 eradiated
-evangeliarium
+evangeliarium 1
 enalyron
 enforcers 1
 ethine
