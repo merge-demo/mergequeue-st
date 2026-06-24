@@ -8617,7 +8617,7 @@ eunomia
 espantoon 1
 endbrain 1
 erythrogonium 1
-erineum 2
+erineum 3
 enzymotic 1
 ethanols
 erelong
@@ -9978,7 +9978,7 @@ endangers 1
 extravagancy
 esmeraldite
 enterprises
-explicatory
+explicatory 1
 emperies
 externality 2
 epichile 2
@@ -11534,7 +11534,7 @@ elastometer 1
 encheiria 1
 erotylid
 exhaling 1
-eserin
+eserin 1
 extractable
 elegantly
 evincing
@@ -13904,7 +13904,7 @@ extroverts
 encyst
 endgame 1
 extraneity 1
-ethiop 2
+ethiop 3
 executancy
 euglobulin 2
 equivoque 1
@@ -13985,7 +13985,7 @@ eozoonal 1
 endokaryogamy
 electropoion 1
 escheatage
-extraparochial 1
+extraparochial 2
 evanish
 equicurve 1
 ectophytic
