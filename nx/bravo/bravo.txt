@@ -359,7 +359,7 @@ brontolite 1
 boled 1
 brume
 bradypepsy
-backfiring
+backfiring 1
 basichromatinic
 backflowing
 backframe
@@ -6358,7 +6358,7 @@ belite 1
 barani
 benzidino 3
 blackbirding
-birdwise
+birdwise 1
 blossoming
 bragger
 beadiness
@@ -7683,7 +7683,7 @@ boyardom 2
 babished 2
 baldricwise 2
 breadmaking
-bordured 3
+bordured 4
 becarpets
 benelux
 bereaved
@@ -10073,7 +10073,7 @@ bioseston
 brings
 bellpulls
 backfired
-backwatered
+backwatered 1
 boarhound 1
 basidiolichen
 burglarious 1
@@ -14642,7 +14642,7 @@ binodal 2
 bassara 1
 boasted 2
 branning
-bromoiodism
+bromoiodism 1
 broadleaves
 bewrayment
 bines
@@ -17033,7 +17033,7 @@ bronchiostenosis 1
 broomtail
 bayman 3
 barbicels 2
-braces 1
+braces 2
 bulimus 1
 baler 2
 blepharism 1
