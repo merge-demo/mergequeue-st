@@ -988,7 +988,7 @@ alidades
 absquatulate
 anchorites 1
 actious 1
-abstain
+abstain 1
 abstainer 2
 ameland
 angoras
@@ -4847,7 +4847,7 @@ aero 2
 ausones
 aspermatism
 aeroballistic
-aerobate
+aerobate 1
 aerobatic
 arsenism 1
 azalea
@@ -6953,7 +6953,7 @@ airspeeds
 adrent
 airt
 actionability
-adibasi 1
+adibasi 2
 anamnionata
 ablepharia
 argyranthemous 1
@@ -8726,7 +8726,7 @@ allemand
 alleniate 1
 agaty 2
 alsine 1
-acalephan
+acalephan 1
 asterospondylic 1
 aerocurve
 anapterygote
@@ -8848,7 +8848,7 @@ allobrogical 1
 abidance
 atturn 1
 adelina
-anglophobes
+anglophobes 1
 autoimmunization 1
 asthmatics
 accentors
@@ -15683,7 +15683,7 @@ astronomically
 acanthoses 1
 approvableness 1
 afrite
-albify
+albify 1
 armpits 1
 antioptionist 1
 abysm
@@ -18370,7 +18370,7 @@ arachnopia 1
 arakawaite 1
 archway 1
 attitudinarianism
-antiunionist 1
+antiunionist 2
 araliaceous 1
 algaroba
 abattis
@@ -19120,7 +19120,7 @@ assuages
 aetosaurian
 analytics
 algorithm
-anisylidene 1
+anisylidene 2
 aphoristic
 absorption
 archwag
@@ -20661,7 +20661,7 @@ azides
 arthroxerosis
 arthrozoa
 amaine 1
-annunciates
+annunciates 1
 antiliturgy 1
 afflicts
 alumines
