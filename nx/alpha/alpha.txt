@@ -1072,7 +1072,7 @@ assonances
 angiohemophilia 1
 asimina 1
 abt 2
-autoschediasm
+autoschediasm 1
 archreactionary
 aphelion 3
 abthainrie 2
@@ -23548,7 +23548,7 @@ advents
 algedi
 alizarate
 auld
-aulder
+aulder 1
 anorganism
 auldfarrantlike
 auletai 1
