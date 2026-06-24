@@ -1540,7 +1540,7 @@ dieugard
 dynamisms
 dupondius
 dedoggerelize 2
-deacons 1
+deacons 2
 demobilizes 1
 diphygenic
 deactivate 2
@@ -9401,7 +9401,7 @@ danaidean 1
 dechlore 1
 demilitarizing 1
 dipware 1
-diamin 3
+diamin 4
 diffusible
 demagoguism
 diffusibleness
@@ -11705,7 +11705,7 @@ dahabiya 2
 delist
 damianist 2
 dynodes
-darkening
+darkening 1
 discard 1
 debtful 1
 disasinate
@@ -14780,7 +14780,7 @@ dantophily
 dockets
 dyphone
 drumliest 1
-dockhand
+dockhand 1
 dockhouse 1
 deringers
 dockyards 1
@@ -16373,7 +16373,7 @@ dolmens
 dissimulating
 duplation
 disproof
-dasyurine
+dasyurine 1
 disavow 1
 defilade
 defrost 1
@@ -18639,7 +18639,7 @@ debagging 2
 dedicatorial 1
 degreeless 1
 duty
-dutiability
+dutiability 1
 disdains
 downtroddenness 1
 dutied
