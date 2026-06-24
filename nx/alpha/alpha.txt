@@ -4364,7 +4364,7 @@ acerbas 1
 apocrine 1
 archegoniata
 aerator 1
-algesireceptor 1
+algesireceptor 2
 adrogate
 antialbumid 1
 anthranilic 2
@@ -12177,7 +12177,7 @@ arterioverter
 acedia
 anatomicopathologic 1
 arteriofibrosis 1
-anatomiser
+anatomiser 1
 anatomize
 anopsy 2
 anatomizer
@@ -12434,7 +12434,7 @@ abnormally
 aloofe
 andrias
 acervuli
-anticourt
+anticourt 1
 anisotropic
 androclinia 1
 apprest 1
@@ -16483,7 +16483,7 @@ arctoidea 1
 airish
 anusim 1
 amphiboliferous
-argyrosomus 1
+argyrosomus 2
 asthenics
 abietinic 1
 almacantar
@@ -18535,7 +18535,7 @@ arboricole 1
 annectant
 addresses 2
 araneina
-acceptees
+acceptees 1
 austrophile
 arboricoline 1
 anhelose 2
@@ -18620,7 +18620,7 @@ archaeocyathidae
 automate 1
 agropyron 1
 automats
-alethiology
+alethiology 1
 antisepsis 1
 acarophilous 1
 acini 1
