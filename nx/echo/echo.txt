@@ -5602,7 +5602,7 @@ eirene 1
 epilogation
 enforest 1
 epacme 2
-elicitable 1
+elicitable 2
 enform
 extrospection 1
 ergometric 1
@@ -6756,7 +6756,7 @@ ellinge 2
 entocyemate 1
 emporetic
 everett 2
-efoliolate
+efoliolate 1
 enneatic
 enwood 1
 eutrophies
