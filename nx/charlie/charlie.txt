@@ -14774,7 +14774,7 @@ citizenism
 countercarte 1
 citizenize
 citizenly
-citizenry
+citizenry 1
 callithump
 corruptibleness
 cascan
@@ -15252,7 +15252,7 @@ capricornus
 clamjamfery
 clammed 1
 caramelizes 1
-cenacles 1
+cenacles 2
 clammy
 cardiagraph
 confederate
@@ -18332,7 +18332,7 @@ cogitate 1
 campal
 cogglety
 culdee 1
-coggly 1
+coggly 2
 chatteration
 coghle
 crabbish
@@ -31192,7 +31192,7 @@ communities 1
 cloudling 1
 cuprene
 cupreous
-carriers
+carriers 1
 cupressus 1
 campagus
 custode 2
