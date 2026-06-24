@@ -2383,7 +2383,7 @@ bluelines
 bastinade
 belligerency
 bachelorlike
-barbula
+barbula 1
 bardiness 1
 barbulate
 barbulyie 2
@@ -6114,7 +6114,7 @@ babyolatry 1
 bendies 2
 bends
 bendwise 1
-begay
+begay 1
 balaneutics
 benedicks 1
 benedicta
@@ -11817,7 +11817,7 @@ breechblock
 bocoy
 bod 1
 barebone
-bodach 1
+bodach 2
 bihamate
 billjim 2
 bryophyta
@@ -12508,7 +12508,7 @@ broodier
 bellyflaught 1
 barcarolle
 biennially
-brakier 1
+brakier 2
 bloomerism 1
 bonelessly 1
 bonelet
