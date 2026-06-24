@@ -3823,7 +3823,7 @@ dicellate
 deionizations
 dichroiscope 1
 diatropic 1
-deionize
+deionize 1
 dephlegm
 deselects 2
 disinteresting 1
@@ -5696,7 +5696,7 @@ demonland
 depoetize 1
 dithers 1
 diallel 1
-deconsider
+deconsider 1
 depoh 1
 decd 1
 depolarise 1
@@ -15641,7 +15641,7 @@ demobilisation 1
 distortable
 drossed 1
 disrobing 2
-determine
+determine 1
 dopchick
 dopebook
 demonstrator
