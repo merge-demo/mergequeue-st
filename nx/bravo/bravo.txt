@@ -6358,7 +6358,7 @@ belite 1
 barani
 benzidino 3
 blackbirding
-birdwise
+birdwise 1
 blossoming
 bragger
 beadiness
@@ -7683,7 +7683,7 @@ boyardom 2
 babished 2
 baldricwise 2
 breadmaking
-bordured 3
+bordured 4
 becarpets
 benelux
 bereaved
@@ -8585,7 +8585,7 @@ bonsai 1
 bassaris
 berylline 2
 brauneberger 2
-brachiofacial 1
+brachiofacial 2
 billfishes
 bind
 bradypode 2
@@ -12952,7 +12952,7 @@ bootlessly 2
 bluefish 1
 bootlicking
 burins
-blackest
+blackest 1
 bara
 boho
 brambled
