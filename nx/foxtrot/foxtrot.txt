@@ -1208,7 +1208,7 @@ fortifications 2
 funkias
 formene 2
 furbishment 2
-flagellosis 1
+flagellosis 2
 foredeem
 flaccidly 2
 frizzily
@@ -6238,7 +6238,7 @@ foreleg
 flatlet 2
 fiji
 freightliner
-forerunnership 1
+forerunnership 2
 factotums
 farmerish
 felloes 1
@@ -7123,7 +7123,7 @@ flaglet 1
 frowning 1
 feh
 frigid
-foundress
+foundress 1
 feeder
 ferly 1
 flanging 1
@@ -7262,7 +7262,7 @@ fatstocks
 foregoing 1
 fissuration 1
 fledglings 1
-fetisheer
+fetisheer 1
 foeffment 1
 flares 3
 forecasts 1
@@ -7472,7 +7472,7 @@ fantasists
 fumeuse
 fossarian 2
 filer
-factures 1
+factures 2
 fornicatory 1
 furciferous 2
 fordableness 2
@@ -10959,7 +10959,7 @@ floorage
 fadridden 1
 fack
 francs 1
-fulminurate
+fulminurate 1
 fess 2
 fulnesses 3
 flanconade
