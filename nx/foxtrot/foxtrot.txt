@@ -7922,7 +7922,7 @@ fasten 1
 fork 1
 floes
 fetticus 2
-forewarned
+forewarned 1
 feiseanna
 featherworker
 foresee 1
@@ -8724,7 +8724,7 @@ funiculate 2
 furicane 3
 flapless 2
 foregather
-fathomable
+fathomable 1
 forthgo
 ferreling 3
 footcandle 1
