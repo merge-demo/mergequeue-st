@@ -595,7 +595,7 @@ flavorless 1
 frighter
 fragaria
 floodways
-fleshes
+fleshes 1
 forehand 2
 folly 1
 farrantly
@@ -5924,7 +5924,7 @@ fermis
 floyd 1
 foeticidal 1
 fluviovolcanic 2
-flybane 1
+flybane 2
 foveola 1
 freyr
 factitude 1
@@ -7637,7 +7637,7 @@ foreffelt 2
 folioed 1
 fimbrillae
 feminised 1
-fester 1
+fester 2
 fabular
 facsimilist 2
 funfest 2
