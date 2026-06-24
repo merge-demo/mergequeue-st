@@ -7468,7 +7468,7 @@ ceratophyllaceous
 crinch
 ceratophyllum
 colocephalous
-caneware
+caneware 1
 crozier
 ceratopsian
 calapitte
@@ -15119,7 +15119,7 @@ cladogenous
 coracoacromial
 censurer
 cladonia
-craniometrical
+craniometrical 1
 cladoniaceae
 cathismata
 cladonioid
@@ -26521,7 +26521,7 @@ cottager 1
 cottagers
 cottars 1
 cahuy
-cottas
+cottas 1
 cotte
 cotted
 cotter
