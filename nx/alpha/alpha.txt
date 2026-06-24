@@ -1072,7 +1072,7 @@ assonances
 angiohemophilia 1
 asimina 1
 abt 2
-autoschediasm
+autoschediasm 1
 archreactionary
 aphelion 3
 abthainrie 2
@@ -2464,7 +2464,7 @@ acipenseroidei 2
 airplay
 archpapist 1
 asmile
-adfix 1
+adfix 2
 analysts 1
 antilipase
 aphrite
@@ -7322,7 +7322,7 @@ alaska 1
 alaskaite
 asexualising
 alaskas 1
-alaskite
+alaskite 1
 alastor
 alate 2
 alated
@@ -7804,7 +7804,7 @@ asteroidea 1
 ambrette 1
 attired
 alders
-alderwomen 1
+alderwomen 2
 aldhafara
 amtrack
 aposporous
@@ -11236,7 +11236,7 @@ alterius
 apian
 amphicarpogenous 1
 asharasi
-arbustum 1
+arbustum 2
 amphichrom
 agitable 2
 apocryphal
@@ -16145,7 +16145,7 @@ argumentatious
 annealing 1
 acidulous
 arrame
-antishipping
+antishipping 1
 amphitryon
 antisideric 1
 acturience 1
@@ -17159,7 +17159,7 @@ alaunt 3
 absolutist
 aproctia
 apollo
-apollonian
+apollonian 1
 author
 apollonic
 antalkaline 1
@@ -23548,7 +23548,7 @@ advents
 algedi
 alizarate
 auld
-aulder
+aulder 1
 anorganism
 auldfarrantlike
 auletai 1
@@ -24538,7 +24538,7 @@ aoristic
 ascaron
 ame 1
 auxetic
-adoptability 1
+adoptability 2
 aghorapanthi
 anywhereness
 at
@@ -25209,7 +25209,7 @@ anticlactic
 axophyte
 assassinatress
 aardvarks
-apostatise 1
+apostatise 2
 adight
 atomists
 atlas

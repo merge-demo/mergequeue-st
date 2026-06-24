@@ -822,7 +822,7 @@ fashioner
 finestill
 freckened 1
 freedoot 1
-forebows 3
+forebows 4
 free 1
 fragilities 3
 fantasying 1
@@ -1807,7 +1807,7 @@ flak 1
 forkmen 1
 flaithship 1
 frustules 2
-fastigiately
+fastigiately 1
 fanfarade
 flyspecks 2
 fastener 1
@@ -2540,7 +2540,7 @@ filamentule 1
 frangibility 1
 freeboot 1
 fem
-functionalistic 1
+functionalistic 2
 foresightful
 falerno
 fairyhood 1
@@ -3340,7 +3340,7 @@ flench
 furuncle 2
 fidge 2
 frogfoot
-fractionally
+fractionally 1
 fidgeted
 faultage 1
 foilsmen 1
@@ -4814,7 +4814,7 @@ fasciolaria 2
 fancifulness 1
 flinching 1
 floatiest
-fullwords 1
+fullwords 2
 faena
 fellowshipping
 famulary 1
@@ -7544,7 +7544,7 @@ fameless
 forecast 3
 fallaciousness
 forestarling
-foams
+foams 1
 ferial
 ferrocyanhydric 1
 feazes 3
@@ -9821,7 +9821,7 @@ fluentness 3
 faerie
 foresettled 1
 flyspeck 1
-fastiia
+fastiia 1
 fascists
 fencers
 frescoed
@@ -9846,7 +9846,7 @@ fress
 fret 1
 fusionism
 forisfamiliate 2
-fyrdung
+fyrdung 1
 fatals
 farrows
 feldspathic
@@ -11568,7 +11568,7 @@ feedback
 forecaddie 1
 friskful 1
 flytier 1
-fulmar 1
+fulmar 2
 fasciotomy 2
 futhermore 3
 frogflower
