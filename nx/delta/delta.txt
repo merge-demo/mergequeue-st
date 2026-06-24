@@ -61,7 +61,7 @@ dioptograph 1
 dichotomise
 disciflorous 1
 dacryosyrinx
-deglamorized 1
+deglamorized 2
 down
 dendrology
 demonological
@@ -4124,7 +4124,7 @@ dob 1
 delitescent 3
 deliverer 2
 deliveress
-dehumidified 1
+dehumidified 2
 dentirostrate
 dunkers
 desipience
@@ -4361,7 +4361,7 @@ divort
 demeanor
 disallowableness
 disembark
-demeanored
+demeanored 1
 dissidents
 douper 1
 dispraised
@@ -7902,7 +7902,7 @@ droughty
 diminuting
 degringolade 1
 dewlapped 2
-deuniting
+deuniting 1
 dewless
 daggled
 dewlike
@@ -11539,7 +11539,7 @@ dosology 1
 deglamorize
 disconjure 1
 disconnectedness
-diphtheroidal 1
+diphtheroidal 2
 diphead 2
 disconnecting
 disconnection 1
@@ -13218,7 +13218,7 @@ dendrobe
 displosion
 dronte 1
 deuterofibrinose
-dinnerless 2
+dinnerless 3
 dyspnea
 distempered
 dyspneas
@@ -14359,7 +14359,7 @@ diuranate 1
 dreadingly
 drawly
 diureses 1
-diuresis 1
+diuresis 2
 democratical
 divagatory 4
 diureticalness
