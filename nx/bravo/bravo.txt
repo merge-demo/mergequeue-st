@@ -3989,7 +3989,7 @@ bantlings 2
 brand 1
 bnf 2
 bespy
-becursed
+becursed 1
 beaching
 beachman
 buenas 1
