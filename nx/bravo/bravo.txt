@@ -2848,7 +2848,7 @@ buttonmold
 barbery 1
 barrabora
 barrack 1
-briguer
+briguer 1
 borh 3
 ballers 2
 barracking 1
@@ -4549,7 +4549,7 @@ blepharemphysema 1
 befogged 1
 beglamour 1
 bienness
-biradiated 1
+biradiated 2
 bathroot
 bater
 bool 1
@@ -6433,7 +6433,7 @@ behoot 1
 byliner
 blowup
 benzothiazine 1
-benzothiazoline
+benzothiazoline 1
 bitripartite
 bregmata 1
 benzothiodiazole
@@ -7867,7 +7867,7 @@ bels
 benamed
 biblicality
 biblicism 1
-biblicopsychological 2
+biblicopsychological 3
 biblike 1
 berinse
 bombs 2
@@ -10046,7 +10046,7 @@ benzolate
 brutisms
 bixaceous
 blondeness 1
-brabagious 1
+brabagious 2
 benign 5
 bixin 2
 blackfoot
@@ -14112,7 +14112,7 @@ brachygraphical 1
 bikol
 berlinite 1
 burkites 2
-behaviour
+behaviour 1
 bogusness 1
 brachiopoda
 baldy 1
@@ -15347,7 +15347,7 @@ bechalk
 booth 1
 boarship 2
 bighead 1
-bluffers
+bluffers 1
 bioelectrogenesis
 berther
 bordarius 1
@@ -17267,7 +17267,7 @@ bumbling
 bumbo
 begum
 bumboat
-bumclock
+bumclock 1
 batling 1
 boltings
 birddom
