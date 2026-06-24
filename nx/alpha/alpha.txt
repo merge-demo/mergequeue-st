@@ -4949,7 +4949,7 @@ aucupate 1
 aeroelasticity 1
 arraigning
 aerofoils
-atmidometry
+atmidometry 1
 adjourned
 amberfish
 antilogous
