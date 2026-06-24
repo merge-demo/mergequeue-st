@@ -1922,7 +1922,7 @@ bandit 2
 beshrew 2
 bretwaldadom
 balant
-brooded
+brooded 1
 bandle 1
 blastoff 2
 bushcraft
@@ -12329,7 +12329,7 @@ beldame
 baillie
 bonds 1
 behoovefully 1
-bombasticness 1
+bombasticness 2
 bombed 1
 beseemed
 bedirty 1
