@@ -9618,7 +9618,7 @@ depass
 deserted 3
 despot 1
 dihydroergotamine 1
-destructs
+destructs 1
 dissight 2
 dipoles
 dimeric 1
