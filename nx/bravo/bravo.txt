@@ -722,7 +722,7 @@ boral
 bade
 badness
 buckbrush
-baff
+baff 1
 blueish
 baboen 2
 baign 3
@@ -2168,7 +2168,7 @@ betangle 1
 bribery 1
 bantus 1
 brabbled 1
-bandon 1
+bandon 2
 bewield
 blandfordia
 benzotoluide 2
@@ -6410,7 +6410,7 @@ betting
 bewake
 benzophthalazine
 breakup
-benzil 1
+benzil 2
 banewort 2
 benzopyrazolone 1
 barquentine 1
@@ -12422,7 +12422,7 @@ bromelin 1
 bonbo
 bowerlike
 bonbon 1
-betsimisaraka 1
+betsimisaraka 2
 behap 2
 backcast
 begloom 1
@@ -15731,7 +15731,7 @@ binuclear
 batful
 butyric 2
 broadsider 1
-borrovian
+borrovian 1
 begroaned
 botanophile 1
 breakfront
@@ -18322,7 +18322,7 @@ bedel 1
 bilirubinemia 1
 buttony 2
 bluenosed
-brink 2
+brink 3
 buttoning
 banked 1
 bioelectricities 2
