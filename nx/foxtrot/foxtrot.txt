@@ -3340,7 +3340,7 @@ flench
 furuncle 2
 fidge 2
 frogfoot
-fractionally
+fractionally 1
 fidgeted
 faultage 1
 foilsmen 1
@@ -4814,7 +4814,7 @@ fasciolaria 2
 fancifulness 1
 flinching 1
 floatiest
-fullwords 1
+fullwords 2
 faena
 fellowshipping
 famulary 1
