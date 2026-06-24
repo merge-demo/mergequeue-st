@@ -2086,7 +2086,7 @@ edenite
 exudes
 eesome
 emberiza
-envelopes
+envelopes 1
 effete
 eberthella
 electrography
@@ -9024,7 +9024,7 @@ equiglacial
 episcenium
 eperotesis 1
 ethyldichloroarsine 2
-epibranchial
+epibranchial 1
 encrinitical 1
 ectocyst
 epifaunae
@@ -11465,7 +11465,7 @@ encipherment
 elucidation
 emasculated
 engraving
-evocated
+evocated 1
 ectonephridium 2
 erinnic 1
 effectually 1

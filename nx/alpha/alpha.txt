@@ -5157,7 +5157,7 @@ avocate
 aestivates
 azotite
 admonisher 1
-accosting
+accosting 1
 acquainting
 amenia 1
 aestivating
@@ -7851,7 +7851,7 @@ anacanth
 aldrins
 arba
 ausubos
-atrickle
+atrickle 1
 anomalonomy 3
 anglicism
 aldrovanda
@@ -10698,7 +10698,7 @@ amyloplastid
 antichronism
 adenase 1
 anteromedian
-arborolater 1
+arborolater 2
 amylose 1
 achree
 africans
@@ -12371,7 +12371,7 @@ amiranha 1
 allopatric
 andantino
 annunciate 1
-almicore 1
+almicore 2
 antithetics 1
 anodynia 1
 abatua
@@ -17436,7 +17436,7 @@ adiaphoresis
 apozema
 apozymase
 ahrendahronon
-awald
+awald 1
 appoints 1
 app
 accollee
@@ -24680,7 +24680,7 @@ anisogeny 1
 absumption 1
 asteer 1
 arabized
-actinidia
+actinidia 1
 anastrophia
 archimage
 autostylic
