@@ -362,7 +362,7 @@ defames 1
 daylights
 deutomalar
 desalters
-dayman
+dayman 1
 daric 1
 droughtiness
 detruss 2
@@ -2585,7 +2585,7 @@ desistence 2
 diplocephalous 2
 donkeyism
 decoat 2
-decoct
+decoct 1
 demiquaver
 dashes
 decoctive
