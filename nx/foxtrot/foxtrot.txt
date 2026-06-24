@@ -1897,7 +1897,7 @@ frs
 fraidycat 1
 flybrush 2
 fingerflower
-fumbling 1
+fumbling 2
 fustilarian 1
 frouze 2
 flyings
@@ -3267,7 +3267,7 @@ fomenting
 flatware 1
 feelings
 fiddlecome 1
-fracedinous
+fracedinous 1
 fiddlefaced 1
 fld 2
 fumous 1
@@ -4113,7 +4113,7 @@ fiorin 1
 fusiladed 3
 fiorite 2
 foreseen
-falsehoods 1
+falsehoods 2
 fornenst
 faff 1
 fontanel 1
@@ -9139,7 +9139,7 @@ fenlander
 frankist 2
 forespeaker 3
 featy 1
-falsification 2
+falsification 3
 flourisher
 firmance 1
 furbishable
@@ -11075,7 +11075,7 @@ feels 1
 faunological
 flinty
 fellatrices 1
-fangless 2
+fangless 3
 flycatcher 1
 frictionizing 2
 funambulatory 2
