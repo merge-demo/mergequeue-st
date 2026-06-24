@@ -3979,7 +3979,7 @@ adjudicators 1
 aversely
 agonied 1
 aphidian 1
-alarmed 1
+alarmed 2
 argentamide 1
 adjunctively
 adjunctly 1
@@ -5963,7 +5963,7 @@ auge
 arminianism
 aeciostage 1
 aggrammatism 2
-approachability
+approachability 1
 aggrandised
 abasias
 aggrandising
@@ -9733,7 +9733,7 @@ anarchical
 alveole
 alveolectomy
 alveoli
-alveoliform
+alveoliform 1
 aduncated
 aquatints
 alveololabial 2
@@ -24070,7 +24070,7 @@ alphabetical 1
 adventurously 1
 accretive
 among
-arilliform
+arilliform 1
 anticontagious
 atomizers
 antiblack
