@@ -18274,7 +18274,7 @@ cacodemonize 2
 coffing 1
 claspt 1
 colpoplastic 1
-coffinless 1
+coffinless 2
 consoled
 chalcographer
 coffinmaking 1
@@ -31711,7 +31711,7 @@ cephalopodan 2
 counterapse 1
 cusping
 cur
-cuspis
+cuspis 1
 cusps
 cuspule
 crests 1
