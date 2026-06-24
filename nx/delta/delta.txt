@@ -5534,7 +5534,7 @@ dependabilities 1
 dibber 1
 dustfall
 draftable
-depended
+depended 1
 descends
 darker 1
 dolichopellic 1
@@ -12278,7 +12278,7 @@ disproportionableness
 deuterostoma 1
 disguisay 1
 dyschiria
-disguisedly
+disguisedly 1
 diplanar
 dyestuffs
 deadtongue
