@@ -3537,7 +3537,7 @@ gregarinaria 1
 geopositive 1
 guidon 1
 glutinose
-gid 1
+gid 2
 galvanic
 gyrocar
 greg 2
@@ -8843,7 +8843,7 @@ gasterophilus
 glycins
 gonogenesis 1
 gregariously 1
-gilgulim
+gilgulim 1
 glaciologic 2
 grazed 3
 grossularia 2
@@ -9381,7 +9381,7 @@ glaymore
 getpenny 1
 gorgonize 2
 gelatinized 1
-goldsmiths 3
+goldsmiths 4
 galtonia 4
 geordie 1
 grosgrains 2
