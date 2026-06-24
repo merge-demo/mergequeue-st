@@ -4795,7 +4795,7 @@ aranein
 albuminimetry
 allogamy
 attemperation
-aequor 1
+aequor 2
 altitudes 1
 avalanche 1
 aequorins 1
@@ -17258,7 +17258,7 @@ anesthesis 1
 alsbachite
 aspersory
 apophthegmatical
-autositic
+autositic 1
 anoine 1
 angostura
 antineuralgic
@@ -21206,7 +21206,7 @@ albatas
 amelia
 afterthoughted 1
 ashery
-antichronical 1
+antichronical 2
 albicore
 agnean
 acipenseridae
