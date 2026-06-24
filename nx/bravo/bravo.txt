@@ -722,7 +722,7 @@ boral
 bade
 badness
 buckbrush
-baff
+baff 1
 blueish
 baboen 2
 baign 3
@@ -15731,7 +15731,7 @@ binuclear
 batful
 butyric 2
 broadsider 1
-borrovian
+borrovian 1
 begroaned
 botanophile 1
 breakfront
