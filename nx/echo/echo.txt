@@ -1996,7 +1996,7 @@ emersion
 etherish 1
 examinational 2
 elaenia 1
-elaeocarpaceae 1
+elaeocarpaceae 2
 effranchisement 2
 eyeshot
 excussing
@@ -2332,7 +2332,7 @@ explorational
 entocele 1
 explosive 1
 electromobilism 1
-excrete 1
+excrete 2
 espaliering
 encore 2
 encomia
@@ -5271,7 +5271,7 @@ egeran
 emmeniopathy 2
 endoscopies
 epipodia
-endoskeletons
+endoskeletons 1
 endosmic
 entrusts 1
 evaders 2
@@ -12573,7 +12573,7 @@ epistemological 3
 embezzle 2
 exit
 encrypted 1
-exsects
+exsects 1
 exite 1
 eranist
 extinction 1
