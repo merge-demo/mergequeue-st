@@ -1679,7 +1679,7 @@ frangible 2
 ferrament
 fleeching 1
 furnace 1
-fingertip 2
+fingertip 3
 foreordaining 2
 forehandsel 1
 fanfares
@@ -3730,7 +3730,7 @@ fulcral
 forkiness
 flotilla
 fillipeen 3
-formanilide
+formanilide 1
 foregirth 1
 fays
 fangotherapy 2
