@@ -1223,7 +1223,7 @@ dextrans
 datary 1
 dataries 2
 dendrium
-deinsularize
+deinsularize 1
 datasetname
 datcha
 disparison
@@ -2043,7 +2043,7 @@ degamis 1
 decahedrons
 dominical 1
 decahydronaphthalene 2
-divulsion 1
+divulsion 2
 dramaturge 2
 desiatin 1
 disaccommodate
@@ -5534,7 +5534,7 @@ dependabilities 1
 dibber 1
 dustfall
 draftable
-depended
+depended 1
 descends
 darker 1
 dolichopellic 1
@@ -8667,7 +8667,7 @@ defeminised 1
 diaspore
 diastalses 1
 dum 1
-dovekey 1
+dovekey 2
 diastalsis
 diglossia 1
 disgustedness
@@ -12278,7 +12278,7 @@ disproportionableness
 deuterostoma 1
 disguisay 1
 dyschiria
-disguisedly
+disguisedly 1
 diplanar
 dyestuffs
 deadtongue
@@ -14883,7 +14883,7 @@ dieselization
 dodecahydrate
 duodenojejunostomy
 divata 1
-deploys 2
+deploys 3
 disanimating
 dictyonina
 drogue 1
