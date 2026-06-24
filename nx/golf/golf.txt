@@ -153,7 +153,7 @@ gasthauser 1
 gail 3
 galactosyl 1
 galvanosurgery 1
-glacialize 3
+glacialize 4
 guesthouse 1
 gingerroot 2
 guaiaretic
@@ -3932,7 +3932,7 @@ guesstimating
 germanics
 grabbed
 gnide
-guessingly
+guessingly 1
 gigster
 guarinite 2
 gemonies
@@ -6381,7 +6381,7 @@ gohila
 gasproof
 guff 1
 gussied 1
-glassworks 1
+glassworks 2
 gonotyl
 gracer
 gasterozooid 2
@@ -10252,7 +10252,7 @@ getid 2
 grotianism 2
 gempylid 2
 gemelled
-gutturalization 1
+gutturalization 2
 groaningly 1
 gise 1
 gopak 1
