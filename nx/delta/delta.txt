@@ -5418,7 +5418,7 @@ dejunkerize 1
 detectably
 deoppilate
 dep
-deorganization 1
+deorganization 2
 decolouriser 1
 doubtfully 1
 documentarian
@@ -8142,7 +8142,7 @@ daffodil 2
 detribalize
 disruptively
 deferrization
-diachronic
+diachronic 1
 dipleurule
 daer
 darger
@@ -9629,7 +9629,7 @@ dhaks
 dihydroxyacetone
 defaceable
 dihydroxysuccinic 2
-dulse 1
+dulse 2
 digitise
 dalasis
 decretals
@@ -12958,7 +12958,7 @@ disfavourer
 dialoguing
 drang
 distannic 1
-disorderer 1
+disorderer 2
 dormantly
 diaphanous 2
 daughterkin 1
