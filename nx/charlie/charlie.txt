@@ -7334,7 +7334,7 @@ cephalocone 1
 cephalodia
 cephalodymus 1
 cephalodiscid 2
-cephalodiscida
+cephalodiscida 1
 cephalodiscus
 crownpiece 2
 cephalodium 1
@@ -8906,7 +8906,7 @@ chared
 charely 1
 consultation 1
 circassic
-crowds
+crowds 1
 catechumenical
 clept
 catholicizing 1
@@ -10940,7 +10940,7 @@ ceruleolactite
 consideratively
 chirography
 candlelighted 1
-chirographical 1
+chirographical 2
 chirolas 1
 chirology
 chirological
@@ -20394,7 +20394,7 @@ comolecule
 crassness
 cuirass
 comose
-comourn
+comourn 1
 chaffcutter
 corycavamine
 cuspal
@@ -28032,7 +28032,7 @@ craisey
 consorts
 captivators
 celebret
-contemptuousness
+contemptuousness 1
 concretizing 3
 cyphers 1
 craking
