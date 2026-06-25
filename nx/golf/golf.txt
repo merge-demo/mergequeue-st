@@ -1267,7 +1267,7 @@ galliardly 1
 griffes 1
 guenon
 gapper
-grimaces 3
+grimaces 4
 garran 2
 gaia 2
 glenwood 1
@@ -3417,7 +3417,7 @@ gerrhosauridae 1
 gila
 gestalt 2
 gestaltist
-gallicisms
+gallicisms 1
 gynecology 1
 grum 1
 gubernance 3
@@ -10678,7 +10678,7 @@ gurl 2
 geocentricism 1
 grove
 goldin 1
-glyphographic
+glyphographic 1
 generalty 1
 geodes 2
 glycerols
