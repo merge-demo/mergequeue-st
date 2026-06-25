@@ -3655,7 +3655,7 @@ emergency
 epiphloedic 1
 embrica
 embryectomy 1
-earlet
+earlet 1
 endogonidium
 embright 1
 entombment 2
@@ -6093,7 +6093,7 @@ erythroderma
 enlivener 1
 elvis 1
 encina
-entitatively 1
+entitatively 2
 erminites
 elaterometer
 excavation 2
@@ -7685,7 +7685,7 @@ epidermical 1
 enteroplasty
 erechtheus
 electropolish
-eonisms
+eonisms 1
 ean
 empannel
 eudiometrical 2
@@ -12451,7 +12451,7 @@ eyeletted
 envisionment 1
 epistyle 1
 experient 1
-eyer
+eyer 1
 elocutioner 1
 ergometer 2
 effude
