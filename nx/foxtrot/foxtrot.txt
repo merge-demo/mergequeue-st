@@ -1327,7 +1327,7 @@ florentine
 fearfuller 2
 fatigable 2
 favorable 1
-fatigableness 2
+fatigableness 3
 forfars
 frock
 fidac
@@ -3978,7 +3978,7 @@ flanque 1
 fictionally 1
 fibres 4
 fraulein
-friarling
+friarling 1
 fairydom 1
 felicitation 3
 frontlessness
@@ -4956,7 +4956,7 @@ forbiddingness
 frets
 funkier 1
 flocculus
-fictionist
+fictionist 1
 foxing 1
 fan 2
 facepiece
