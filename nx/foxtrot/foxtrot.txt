@@ -529,7 +529,7 @@ fawnery
 falcunculus 1
 falderals
 fussier
-fibrobronchitis
+fibrobronchitis 1
 forewarn 2
 fluvial 1
 filicites 1
@@ -7110,7 +7110,7 @@ flagger 2
 fanaticize
 fractionator
 fripper 2
-flaker 1
+flaker 2
 fiddleback 1
 foreallege 2
 fregatae 1
@@ -10182,7 +10182,7 @@ felled
 forgives 4
 fliting 2
 fenite
-fissile 2
+fissile 3
 fluoride 1
 frontlet 1
 fitter
