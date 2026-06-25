@@ -7774,7 +7774,7 @@ chemoautotrophy 1
 charabancer
 clorinator 1
 cerussite 1
-centaurid 1
+centaurid 2
 cervantic 1
 choosing 1
 cervantite
@@ -10840,7 +10840,7 @@ candlepower
 cuittikin
 circumcising
 chiopin 2
-churnability
+churnability 1
 centropomus 1
 chip 1
 chipchop 1
