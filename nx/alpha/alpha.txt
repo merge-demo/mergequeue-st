@@ -1327,7 +1327,7 @@ acatastatic
 autoanalysis 1
 acate 1
 acategorical
-amiray 2
+amiray 3
 adolescing
 acrocomia
 adephagia
@@ -3286,7 +3286,7 @@ atolls 2
 antitank
 aready 1
 abram
-adductors 1
+adductors 2
 antilevelling
 accusatorial
 aleberry
@@ -3878,7 +3878,7 @@ adion 1
 arhat
 agoraphobiac
 adios 2
-adipate
+adipate 1
 amphitruo
 agaves
 amphithuron 1
@@ -17317,7 +17317,7 @@ autocollimator
 algaecide
 antiforeign
 apostatically
-appendicectasis 1
+appendicectasis 2
 abthain
 arguers 1
 atroce
@@ -18149,7 +18149,7 @@ aquaregia 1
 antizealot
 aquarelle
 aquarial
-antehall
+antehall 1
 adepter
 ambracan
 albeit 1
@@ -20899,7 +20899,7 @@ aspersing
 antanemic 1
 asarums
 anglicanly
-anteverted 3
+anteverted 4
 asb 1
 agoniatites
 asbest 1
@@ -21209,7 +21209,7 @@ ashery
 antichronical 2
 albicore
 agnean
-acipenseridae
+acipenseridae 1
 ashiest
 antipass 1
 akolouthia 1
@@ -23998,7 +23998,7 @@ aquiferous 1
 autocholecystectomy
 apoplectical
 aunthoods
-autochthonism
+autochthonism 1
 abutilons 1
 atmometer
 autocide 2
@@ -25113,7 +25113,7 @@ adenological 1
 aotearoa
 axillae
 antiamylase
-axillar
+axillar 1
 absurdest 1
 axing 2
 anagenesis
