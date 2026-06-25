@@ -313,7 +313,7 @@ feods 3
 forces 1
 fail
 fireplough 3
-faineancy 2
+faineancy 3
 fayles
 fimbricated 1
 furcal 1
@@ -7531,7 +7531,7 @@ fibrosity 1
 flaser
 forsakers 1
 flentes 1
-fretten 2
+fretten 3
 fleshbrush 2
 frivoler
 foreboom
