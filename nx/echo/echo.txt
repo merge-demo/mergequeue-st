@@ -1785,7 +1785,7 @@ embrutes 2
 enfranch
 eyespots
 epexegetically
-eyewaiter 2
+eyewaiter 3
 emanium
 emigrant
 exoclinal
@@ -5858,7 +5858,7 @@ ewest 2
 extravertively 3
 extrazodiacal
 exacerbescence 1
-encorbelment
+encorbelment 1
 epidendral
 exsiccate 2
 engrossedly 1
@@ -9050,7 +9050,7 @@ entergogenic
 extrality
 extravascular
 epenthesis 2
-editorialist
+editorialist 1
 erythrocytosis 6
 embryogony 2
 enigmas
@@ -10529,7 +10529,7 @@ everymen 1
 epilachnides 1
 embowel
 estop 1
-eucharistial
+eucharistial 1
 eurylaimoid
 eudaemony
 eurithermophilic
@@ -12230,7 +12230,7 @@ execrator
 emeraude 1
 enthroning 1
 empiriocritical 1
-exercent
+exercent 1
 ephemera 1
 execute 2
 executed
@@ -14122,7 +14122,7 @@ entrancements
 extrinsically 3
 extrinsication
 enthralls 2
-exhortatively
+exhortatively 1
 extremist 2
 employes 4
 extrorse
