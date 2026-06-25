@@ -6051,7 +6051,7 @@ curarize
 coraciiform
 cleg 1
 cyanide
-cisatlantic 1
+cisatlantic 2
 catholyte 1
 cathouse
 cathouses
@@ -24933,7 +24933,7 @@ caterans 2
 craniacromial 1
 cephadia
 codices
-continuousness
+continuousness 1
 corallum
 copywise
 corals
