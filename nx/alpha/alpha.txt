@@ -288,7 +288,7 @@ agnel
 arsines 1
 antimerina
 anolian
-appurtenances 1
+appurtenances 2
 accuracy 1
 autotropism
 abdominally
@@ -3044,7 +3044,7 @@ abdication
 anodynic 1
 actinochemistry
 arrimby
-antesignanus 1
+antesignanus 2
 angioparesis
 antifoaming
 accoil
@@ -8238,7 +8238,7 @@ amora 1
 alibied 2
 ambiverts
 anhemolytic
-angiogenesis
+angiogenesis 1
 autocatalepsy 1
 adermia
 areca 1
@@ -15768,7 +15768,7 @@ autoinhibited 1
 apodeme
 algesimeter
 antipeduncular
-anthinae
+anthinae 1
 algebra
 auxetical
 atlantica
@@ -21620,7 +21620,7 @@ asquint
 authorising 1
 agriotypus
 alfur 1
-achenodia
+achenodia 1
 acheilous
 anteflected
 alkalizes 2
@@ -22188,7 +22188,7 @@ archidiskodon
 arthrotomy
 astian
 antipestilential 1
-astigmat
+astigmat 1
 angelicize
 adolescents
 alloplastic
