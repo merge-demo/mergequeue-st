@@ -50,7 +50,7 @@ finds
 floorboard
 foolhardihood 3
 few 1
-feedway
+feedway 1
 frab 1
 flavonoid 1
 flauntier 1
@@ -4459,7 +4459,7 @@ foist 1
 flibbertigibbet 4
 finicism 1
 forerigging
-footstool 1
+footstool 2
 fairest 1
 formidable 4
 frouzier
@@ -6246,7 +6246,7 @@ freewheelers 2
 farmtown
 fizzles 2
 firnismalerei
-friendlike 1
+friendlike 2
 frankeniaceous 2
 fecit 3
 flamefish
@@ -7819,7 +7819,7 @@ fossilizing 1
 fraternising 2
 fibrilla
 fluxed 2
-fiddlery
+fiddlery 1
 fablers 1
 fibromyomectomy 2
 foyboat 2
@@ -10386,7 +10386,7 @@ fruitlessly
 furrowers
 flaps
 fuzil 2
-foreordainments
+foreordainments 1
 frontages 1
 fulgora
 floorshow
