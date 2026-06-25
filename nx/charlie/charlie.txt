@@ -10840,7 +10840,7 @@ candlepower
 cuittikin
 circumcising
 chiopin 2
-churnability
+churnability 1
 centropomus 1
 chip 1
 chipchop 1
@@ -11248,7 +11248,7 @@ codettas
 canaut 1
 chloridellidae
 chlorides
-covers
+covers 1
 chloridic 1
 chloridized 1
 collochemistry 1
@@ -30574,7 +30574,7 @@ chipyard
 cuboctahedron
 cubocube
 cashboy
-crepidula 1
+crepidula 2
 cubocuneiform
 concarnation
 cuboid
