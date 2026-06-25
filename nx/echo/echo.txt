@@ -3547,7 +3547,7 @@ eschewance 1
 extortionary 2
 eponyms
 extreme
-entrefer
+entrefer 1
 embolize
 eupeptic 1
 epididymal
@@ -5839,7 +5839,7 @@ engraver 1
 expalpate
 entree 1
 ensynopticity 1
-engysseismology
+engysseismology 1
 ethiops
 episyntheton
 engluts 1
@@ -8753,7 +8753,7 @@ eviller 1
 enterobiliary 1
 etcetera
 exemplificative
-extrabuccal
+extrabuccal 1
 energises 2
 electrocardiograms 2
 elwood 1
@@ -9847,7 +9847,7 @@ enteroischiocele 1
 episodial 2
 expletiveness 2
 eupepsy 3
-experimentalize 1
+experimentalize 2
 epeeists
 ependymoma
 enweaving
@@ -10372,7 +10372,7 @@ electrocataphoretic 1
 explains
 eversible 2
 eternize
-epiphenomenalist 1
+epiphenomenalist 2
 enjambed 1
 exactment 1
 endeavoured 1
@@ -11847,7 +11847,7 @@ etiolation 1
 excalcarate 2
 extractible
 equiproducing 1
-elecive
+elecive 1
 eulogization 1
 eternalization 1
 epeirogenesis
@@ -11934,7 +11934,7 @@ eightfoil
 engore 1
 euploeinae 1
 emotionalist
-enragement
+enragement 1
 earthenware 1
 expurgation 1
 excerebration
