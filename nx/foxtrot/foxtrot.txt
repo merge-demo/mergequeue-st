@@ -490,7 +490,7 @@ fiumara
 forcleave
 fakery
 flaxweed 2
-funbre 1
+funbre 2
 frisch 1
 fertilizing 3
 frenne 2
@@ -2469,7 +2469,7 @@ fsiest 3
 firelocks 1
 firn 1
 fumbulator 1
-firstcomer
+firstcomer 1
 fireproofing
 fishhood 1
 fuddlement 1
@@ -4757,7 +4757,7 @@ flagellariaceous
 fleecily
 fasibitikite 1
 flagellatae 3
-footlike 2
+footlike 3
 fulmination 1
 follies 1
 fortress 4
