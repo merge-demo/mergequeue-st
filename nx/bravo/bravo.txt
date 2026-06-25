@@ -4741,7 +4741,7 @@ bedlamps 1
 boottopping 1
 betitle 1
 benitoite 1
-butcherliness
+butcherliness 1
 badmash
 bangs 1
 bedlams
@@ -5448,7 +5448,7 @@ boatable 1
 becudgelling 1
 beetling
 behemoths 1
-behenate 2
+behenate 3
 behenic
 bemixed 1
 booing
@@ -9918,7 +9918,7 @@ blockers
 benames 1
 bewhisper
 bassinets 2
-bonnocks 1
+bonnocks 2
 biffin 1
 bitterer 2
 baygall
@@ -10100,7 +10100,7 @@ birlieman
 boxfish
 blabbered 1
 bewhiskered 3
-blabbering
+blabbering 1
 blabbermouths 1
 blabbing 1
 blabmouth
@@ -17683,7 +17683,7 @@ bordage
 blackfin
 blueings 1
 bonuses 1
-boomlets 2
+boomlets 3
 burlesquer 1
 boviculture
 burlesquing
@@ -17784,7 +17784,7 @@ burrheadedness 1
 baroneted
 blinkered 1
 backing
-boosters 2
+boosters 3
 bounce 2
 bejabers 1
 balearian 1
