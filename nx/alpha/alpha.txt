@@ -1811,7 +1811,7 @@ apochromatic
 acedy
 acedias
 abbreviature
-agalloch 1
+agalloch 2
 astigmia
 ammonitiferous
 alantin
@@ -10945,7 +10945,7 @@ alf 1
 affronter
 allamoth 3
 antiphilosophy
-amerindic
+amerindic 1
 allegorical
 amniocentesis 1
 amniochorial
@@ -15775,7 +15775,7 @@ atlantica
 angeleno
 accostable 1
 antiperistalsis
-antiperspirant
+antiperspirant 1
 acronycal 1
 anterolaterally 1
 atremble
@@ -18518,7 +18518,7 @@ assassinating
 adulteress
 arbores
 aequipalpia
-arborescently
+arborescently 1
 arango
 aphrodisia 1
 azofier 1
