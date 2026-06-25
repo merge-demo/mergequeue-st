@@ -4741,7 +4741,7 @@ bedlamps 1
 boottopping 1
 betitle 1
 benitoite 1
-butcherliness
+butcherliness 1
 badmash
 bangs 1
 bedlams
@@ -5448,7 +5448,7 @@ boatable 1
 becudgelling 1
 beetling
 behemoths 1
-behenate 2
+behenate 3
 behenic
 bemixed 1
 booing
@@ -17683,7 +17683,7 @@ bordage
 blackfin
 blueings 1
 bonuses 1
-boomlets 2
+boomlets 3
 burlesquer 1
 boviculture
 burlesquing
