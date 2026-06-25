@@ -3325,7 +3325,7 @@ caplins 1
 capmaking
 combatter
 capnoides
-clipping 1
+clipping 2
 creaker
 colonizes
 capnomancy 1
@@ -3808,7 +3808,7 @@ curcuma
 conrail
 carbodynamite
 carbohemoglobin
-calamodendron
+calamodendron 1
 cribbling
 carbohydrase 1
 cannibalism 2
@@ -29564,7 +29564,7 @@ colubriformia 1
 critiqued
 critize
 cosmic
-caball
+caball 1
 critling
 crittur 1
 cardiokinetic
