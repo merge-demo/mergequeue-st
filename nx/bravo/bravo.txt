@@ -4217,7 +4217,7 @@ blockiness
 bell 1
 beringite
 bigot 2
-bowls
+bowls 1
 boudoir
 beaucoup
 beaued
@@ -9398,7 +9398,7 @@ boondocker
 bonser
 brimse 1
 basidial 1
-boastless
+boastless 1
 basocyte
 buriti
 baronetship 1
@@ -11084,7 +11084,7 @@ blockheads
 bedrip
 bilirubinic 1
 billy 2
-bacaba 2
+bacaba 3
 bioral
 blockiest 1
 bevelling 1
@@ -13464,7 +13464,7 @@ beray
 benefaction 1
 bars
 bryophytes
-bhutatathata 1
+bhutatathata 2
 bitterbrush 1
 bottlemaker 2
 begotten
