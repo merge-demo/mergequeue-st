@@ -4823,7 +4823,7 @@ completion
 carbodiimide
 carport
 carpos 1
-chibouk
+chibouk 1
 carposporangial
 catalase
 carlist
@@ -18111,7 +18111,7 @@ causing
 caudiform
 craneman
 coenomonoecism
-coenospecies
+coenospecies 1
 coenospecifically
 chicory
 cacopharyngia
