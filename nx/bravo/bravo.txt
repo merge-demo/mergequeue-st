@@ -1412,7 +1412,7 @@ baldpatedness
 balds
 baculums 1
 bepraise
-bale 1
+bale 2
 babassu
 baleare 1
 bajonado 2
@@ -3741,7 +3741,7 @@ barotraumata
 bronteon 1
 battlefronts
 bringall
-brucella
+brucella 1
 barnstorms 1
 battler 1
 battleships
@@ -9552,7 +9552,7 @@ bellic 2
 brompicrin
 bakerdom 1
 bis
-borussian 1
+borussian 2
 bachelorize 2
 besputter
 baister
@@ -12548,7 +12548,7 @@ bloodshot
 barnage 2
 balsamroot 2
 bourgeoning
-brails 1
+brails 2
 bisulphate 2
 bridehead
 boniface 1
