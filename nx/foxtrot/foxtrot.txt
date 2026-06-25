@@ -265,7 +265,7 @@ foreshortening 1
 ford 2
 footpounds 3
 firbolg
-fax 1
+fax 2
 flagarie 1
 fideism 1
 fissle 2
@@ -2596,7 +2596,7 @@ foud 3
 fossicked
 footrests 2
 frigger 1
-finicalness
+finicalness 1
 financist 2
 faultfully 2
 finalizing
@@ -4246,7 +4246,7 @@ floridians 2
 flaxbird
 foreignize
 feverish
-flatterers
+flatterers 1
 frenzying
 flossing 1
 fission 1
@@ -8207,7 +8207,7 @@ foregoes 1
 foederatus
 franzy
 fingerprinted 1
-fantailed 1
+fantailed 2
 fruitfullest 2
 fluffily 2
 fangy 1
@@ -8535,7 +8535,7 @@ fitty
 formicate 1
 filix
 freeward
-ferruminated
+ferruminated 1
 foreadvertise
 formicine 1
 floormen 1
@@ -8554,7 +8554,7 @@ faveolus 2
 foxtrot 1
 flabbergasted 1
 flunkydom
-fistiana 1
+fistiana 2
 flowages 2
 fetiparous 3
 fetlock 2
