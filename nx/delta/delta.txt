@@ -2031,7 +2031,7 @@ duplicitas
 dichloramin 1
 decagram 1
 dourness 1
-defraying 1
+defraying 2
 decagrams 1
 dehorning
 despised 1
@@ -4861,7 +4861,7 @@ discreditableness
 dishmonger
 discage
 diluting
-deigns
+deigns 1
 diminuendo
 demonologer 1
 demonology
@@ -17864,7 +17864,7 @@ disambiguated
 dueling
 ductless
 drinkable
-darktown 2
+darktown 3
 darrell
 dorper 1
 ductor
