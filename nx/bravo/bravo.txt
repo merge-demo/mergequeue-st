@@ -5396,7 +5396,7 @@ beguilement 1
 biunial
 beguilements
 biferous
-banstickle
+banstickle 1
 busheled
 birds
 bloodripeness 1
@@ -5606,7 +5606,7 @@ blisters
 brough 2
 bulletheaded 1
 battlement
-blepharal 1
+blepharal 2
 bewigs
 barbitone
 businessmen
@@ -7517,7 +7517,7 @@ beverse 1
 barbets 2
 bluebirds 1
 blastocolla
-barrelmaking
+barrelmaking 1
 boneache
 bourbonism
 bibbing
@@ -10830,7 +10830,7 @@ blesser 2
 bowered
 blurb 1
 blastophyllum 1
-befriz
+befriz 1
 boxtree
 bawneen
 bider 1
