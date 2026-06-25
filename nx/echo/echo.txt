@@ -11303,7 +11303,7 @@ evaporates
 edp
 eimer
 extrascholastic
-euphorbine 1
+euphorbine 2
 elbowboard 1
 evaporating 2
 eviscerating
@@ -11984,7 +11984,7 @@ encinal
 ensilages
 exothermicity
 endurance 2
-enlist
+enlist 1
 epithecate
 exactress
 enarthroses 2

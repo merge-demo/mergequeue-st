@@ -3707,7 +3707,7 @@ distillable
 disentangled 1
 dehydrogenisation 1
 delustrant
-dackering 1
+dackering 2
 deprivation
 dehisce
 dasymeter
@@ -8061,7 +8061,7 @@ deprecative
 denaturant 1
 domesticated 2
 dysgenetic
-disendowment
+disendowment 1
 desugar
 durzi
 dhritarashtra
@@ -15119,7 +15119,7 @@ degummed 2
 diaphragmed
 deerherd 1
 dislustre
-damaging 2
+damaging 3
 disallows 1
 dullpate
 decayable
