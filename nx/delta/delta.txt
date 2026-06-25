@@ -5634,7 +5634,7 @@ discos 2
 decerniture
 delineation
 depilitant 1
-deplace
+deplace 1
 dermatine 1
 devests 4
 dipl
@@ -11552,7 +11552,7 @@ disconsent
 diphthongised
 dithering 1
 discerpibility 1
-disconsolately 1
+disconsolately 2
 datasets
 dispeopling
 dunkle 1
@@ -16653,7 +16653,7 @@ dragrope
 dexterousness
 debiteuse
 deathbeds 1
-dragstaff
+dragstaff 1
 drone
 designation
 dilettantes
