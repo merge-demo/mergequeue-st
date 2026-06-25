@@ -3441,7 +3441,7 @@ dormient
 duelists 1
 dehumidifier 1
 damp
-discomfortably 2
+discomfortably 3
 defluent
 debyes
 disassociating
@@ -3805,7 +3805,7 @@ dismortgaging
 dyakisdodecahedron
 diplocephaly
 dodecatheon 1
-dronishly
+dronishly 1
 diremption 1
 disappointingly 1
 deinstitutionalization 2
@@ -4618,7 +4618,7 @@ daintier
 demiss
 dryopithecid
 dilettanteish
-demivolt
+demivolt 1
 disprobative 1
 demissory 1
 demystify
@@ -9803,7 +9803,7 @@ deputations 1
 dimetria
 distends 1
 dromos 1
-dilo
+dilo 1
 differentially 1
 disenamour
 detonators 2
@@ -10080,7 +10080,7 @@ dilatable
 dynamomorphic
 dislustring
 dynamophone
-decentralised
+decentralised 1
 dynamos 2
 dadoing 1
 duodynatron 1

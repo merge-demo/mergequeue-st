@@ -2962,7 +2962,7 @@ boundaries 1
 blobby 2
 benedicts 2
 barricadoes 2
-brainsick
+brainsick 1
 blayk 2
 boltsmith
 bicentral
@@ -3765,7 +3765,7 @@ britska
 bribers
 batts
 blowpipe 1
-befouler 1
+befouler 2
 boing 1
 brahmanic
 blackener
@@ -8300,7 +8300,7 @@ blauwbok
 bigeminated
 beachiest 1
 balkiness 1
-bignoniaceous 1
+bignoniaceous 2
 boundingly 2
 bremia
 bewrayer
@@ -17054,7 +17054,7 @@ bulkily 1
 bitterweed 1
 befavour 1
 bihydrazine 1
-belittlers
+belittlers 1
 bull
 bushbeck
 boiette 1
@@ -17288,7 +17288,7 @@ brechan
 backlighting 1
 bleachers
 bedegar 1
-benzinduline 1
+benzinduline 2
 barbecuer 1
 benedick
 bunts
@@ -17350,7 +17350,7 @@ beseemingly
 blackjacked 1
 blowess 2
 brennage 1
-bakerly 1
+bakerly 2
 bundled 1
 broiders 1
 boardmen 1
