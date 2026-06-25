@@ -749,7 +749,7 @@ frazzled 3
 frig 1
 fetidness 2
 fezzan 3
-fibroangioma 1
+fibroangioma 2
 ferv 2
 forelouper 5
 fanciful 1
@@ -4341,7 +4341,7 @@ fandango 3
 fourflusher 1
 feneration
 fellows 1
-forgetter
+forgetter 1
 foresleeve
 finagle 4
 feebler 2
@@ -5491,7 +5491,7 @@ feus
 floater 1
 farouk
 foolscap 2
-furunculoid
+furunculoid 1
 forbids 1
 fourteenths 2
 formes
@@ -6450,7 +6450,7 @@ fanflower
 footbaths 1
 forweary
 flummery 1
-fidgeting 2
+fidgeting 3
 filth
 folkcraft 1
 featliness 1
@@ -8864,7 +8864,7 @@ flexured 1
 friss 1
 forthcome 2
 feucht
-frigorimeter 2
+frigorimeter 3
 fluidible
 flighthead 3
 flushgate
