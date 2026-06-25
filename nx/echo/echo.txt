@@ -985,7 +985,7 @@ explosibility 1
 encapsules
 eastlins 1
 euthanasic 1
-enterocinetic
+enterocinetic 1
 epoxide
 eruditeness
 endearments
@@ -1218,7 +1218,7 @@ enneastyle 1
 electrosherardizing
 embrue 1
 exceptio
-escalade 1
+escalade 2
 externity
 eudendrium
 enskied
@@ -2181,7 +2181,7 @@ electrovalently 1
 emphasising 2
 epanthous 1
 elderman 1
-ensorcels 1
+ensorcels 2
 eggwhisk
 electrics
 electrographic
