@@ -1593,7 +1593,7 @@ flappier 2
 frijol 3
 fervescence 2
 freightless
-flannel
+flannel 1
 fawkener 1
 favourably 2
 fraischeur 1
@@ -7139,7 +7139,7 @@ floodgate 2
 fairling 1
 failed
 fumarolic 1
-fruggin 1
+fruggin 2
 frostlike
 featherpated 5
 follied 1
@@ -7305,7 +7305,7 @@ flutters 1
 fourteenfold 1
 flubdubbery 1
 furled 1
-forelock 2
+forelock 3
 fopperies 1
 fopperly 1
 fraternized 1
@@ -10795,7 +10795,7 @@ fouth 2
 formlessly 1
 fruticose 1
 flot
-flappy
+flappy 1
 farreation
 foils 1
 fruticous
