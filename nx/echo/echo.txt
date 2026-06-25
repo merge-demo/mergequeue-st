@@ -2453,7 +2453,7 @@ electrogenic 1
 electrogild
 eudemonia 1
 exhilarates
-enhearten 2
+enhearten 3
 electrogilt 1
 ephetic 3
 electrogram
@@ -6223,7 +6223,7 @@ epistapedial 1
 expungers
 eelcatcher
 elimination
-evasively
+evasively 1
 electrofishing 1
 extraepiphyseal 1
 ecstatica
@@ -12957,7 +12957,7 @@ expatiates 2
 expatiating 3
 electable
 erigible 3
-expatriate
+expatriate 1
 expatriating
 enthusiastic 1
 escalado 1
@@ -13989,7 +13989,7 @@ extraparochial 2
 evanish
 equicurve 1
 ectophytic
-essoiner
+essoiner 1
 embrocations
 egards
 emceed 1
