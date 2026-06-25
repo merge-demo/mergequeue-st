@@ -3595,7 +3595,7 @@ fructification 1
 felinity
 floorway 1
 files
-filesniff 2
+filesniff 3
 freijo 2
 fazing 2
 foreroom
@@ -5932,7 +5932,7 @@ familic 1
 frats
 fructiferous 1
 flannelflower 1
-fineable
+fineable 1
 flubdubs
 forestaysail 2
 flowerpots 1
@@ -6987,7 +6987,7 @@ foetus
 foments
 fussiness 1
 fortuity 1
-fordless
+fordless 1
 fond
 fondateur
 fonded 1
