@@ -3369,7 +3369,7 @@ caponize 1
 crispate
 caponized
 caponizer
-copyfitter
+copyfitter 1
 caponizing 1
 caponniere
 caporal 1
@@ -11299,7 +11299,7 @@ checkups 1
 clothbound
 chlorocarbonate
 casualty
-chlorochromic 1
+chlorochromic 2
 capsicin 1
 chlorococcaceae
 cucking
@@ -20390,7 +20390,7 @@ commuters 1
 commutes 2
 chattelship
 comoedus
-comolecule
+comolecule 1
 crassness
 cuirass
 comose
