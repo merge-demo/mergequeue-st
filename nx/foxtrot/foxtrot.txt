@@ -4851,7 +4851,7 @@ floor 1
 farmhouse
 fickleness 1
 flagstick 2
-flagworm
+flagworm 1
 fandangle 2
 fissirostrate 1
 feramorz 1
