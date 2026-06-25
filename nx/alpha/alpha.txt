@@ -3286,7 +3286,7 @@ atolls 2
 antitank
 aready 1
 abram
-adductors 1
+adductors 2
 antilevelling
 accusatorial
 aleberry
@@ -21209,7 +21209,7 @@ ashery
 antichronical 2
 albicore
 agnean
-acipenseridae
+acipenseridae 1
 ashiest
 antipass 1
 akolouthia 1
@@ -23998,7 +23998,7 @@ aquiferous 1
 autocholecystectomy
 apoplectical
 aunthoods
-autochthonism
+autochthonism 1
 abutilons 1
 atmometer
 autocide 2
