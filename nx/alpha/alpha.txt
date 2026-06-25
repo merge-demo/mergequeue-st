@@ -3286,7 +3286,7 @@ atolls 2
 antitank
 aready 1
 abram
-adductors 1
+adductors 2
 antilevelling
 accusatorial
 aleberry
@@ -23998,7 +23998,7 @@ aquiferous 1
 autocholecystectomy
 apoplectical
 aunthoods
-autochthonism
+autochthonism 1
 abutilons 1
 atmometer
 autocide 2
@@ -25113,7 +25113,7 @@ adenological 1
 aotearoa
 axillae
 antiamylase
-axillar
+axillar 1
 absurdest 1
 axing 2
 anagenesis
