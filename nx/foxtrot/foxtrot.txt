@@ -3881,7 +3881,7 @@ fanwe
 foregrounds 1
 frequencies 2
 fits 1
-fortuitously
+fortuitously 1
 fecundating 1
 fluvioglacial
 fluidness 1
@@ -7419,7 +7419,7 @@ forceless 2
 fasciolar
 flagellariaceae 1
 floreate
-fasciculation 2
+fasciculation 3
 fey 1
 fasti 1
 flawflower 1
@@ -8086,7 +8086,7 @@ flocker 1
 foredevote 1
 felicitates
 fluidisation 2
-frustrate 3
+frustrate 4
 fifteenths 1
 flammably 1
 fairies 1
@@ -11292,7 +11292,7 @@ fricandeaus 1
 faveolate
 fantasticism
 familiarizer 2
-furlane
+furlane 1
 filers 1
 fractionary 1
 friskets 2
