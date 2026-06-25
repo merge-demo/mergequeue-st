@@ -4087,7 +4087,7 @@ caryl
 coevals 1
 centaurian 1
 cardialgia
-cirrostome 1
+cirrostome 2
 calla
 cardiameter 2
 carnationed 1
@@ -11654,7 +11654,7 @@ cholesteremia
 cleidohyoid
 charoset
 clethra
-cholesterinic
+cholesterinic 1
 cholesterol 1
 clepsydrae
 cholesterolemia
