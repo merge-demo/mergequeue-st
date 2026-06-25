@@ -8061,7 +8061,7 @@ deprecative
 denaturant 1
 domesticated 2
 dysgenetic
-disendowment
+disendowment 1
 desugar
 durzi
 dhritarashtra
@@ -10986,7 +10986,7 @@ disaligned
 disalliege 2
 dodona
 downbend 1
-doorframe
+doorframe 1
 disallow 1
 displaying 1
 dorneck
