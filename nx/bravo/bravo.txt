@@ -2353,7 +2353,7 @@ barbierite
 busyish 1
 blatancies 2
 bromite 1
-briber
+briber 1
 barbita
 barbital 1
 brighteners
@@ -4741,7 +4741,7 @@ bedlamps 1
 boottopping 1
 betitle 1
 benitoite 1
-butcherliness
+butcherliness 1
 badmash
 bangs 1
 bedlams
@@ -5448,7 +5448,7 @@ boatable 1
 becudgelling 1
 beetling
 behemoths 1
-behenate 2
+behenate 3
 behenic
 bemixed 1
 booing
@@ -10100,7 +10100,7 @@ birlieman
 boxfish
 blabbered 1
 bewhiskered 3
-blabbering
+blabbering 1
 blabbermouths 1
 blabbing 1
 blabmouth
@@ -16747,7 +16747,7 @@ balaic
 butterwoman
 buckwheats
 brazilin
-bemuddy
+bemuddy 1
 bucolically 2
 bucolicism 1
 ballett
@@ -17683,7 +17683,7 @@ bordage
 blackfin
 blueings 1
 bonuses 1
-boomlets 2
+boomlets 3
 burlesquer 1
 boviculture
 burlesquing
