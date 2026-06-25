@@ -1024,7 +1024,7 @@ fringillidae 4
 foraging 2
 fogas 1
 faro 1
-fluoridization
+fluoridization 1
 fluorogen 4
 floter 1
 foredestining 1
@@ -10698,7 +10698,7 @@ fieldworker
 fist 3
 footler 1
 famish 1
-frightable 1
+frightable 2
 facultied 1
 fibular 1
 fruitlets
