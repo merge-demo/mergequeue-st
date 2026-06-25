@@ -1100,7 +1100,7 @@ calcifugal
 calcifugous 1
 chamaesiphonaceous 1
 calcimined
-crudeness 1
+crudeness 2
 calcimining
 choppin 1
 crossbarred
@@ -7721,7 +7721,7 @@ cormorant 2
 cetin
 certainty 2
 certhia
-caryatidic
+caryatidic 1
 cfi
 certifiability
 categorematic
@@ -13019,7 +13019,7 @@ crumbable
 crates 1
 cyanoguanidine
 cyanohermidin
-cursoriidae 2
+cursoriidae 3
 cyanometer
 cuneate 2
 camaile 1
@@ -13947,7 +13947,7 @@ cynopithecidae 1
 cynopithecoid 1
 chromesthesia 1
 cynorrhoda 1
-cynorrhodon
+cynorrhodon 1
 cynosure
 cynosures
 cynosurus
@@ -19079,7 +19079,7 @@ callable 1
 camb 1
 colliflower
 cruset 1
-craker
+craker 1
 colligate 1
 colligating
 cookbook 1
@@ -21090,7 +21090,7 @@ comtism
 comtist
 comunidad 1
 comurmurer
-con
+con 1
 commandership
 coseys
 conal
