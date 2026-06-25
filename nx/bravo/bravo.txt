@@ -3741,7 +3741,7 @@ barotraumata
 bronteon 1
 battlefronts
 bringall
-brucella
+brucella 1
 barnstorms 1
 battler 1
 battleships
@@ -5411,7 +5411,7 @@ bowldering
 bedin 1
 betwit
 behammer
-bacula
+bacula 1
 boasters
 beshine 3
 boarstaff 1
@@ -9552,7 +9552,7 @@ bellic 2
 brompicrin
 bakerdom 1
 bis
-borussian 1
+borussian 2
 bachelorize 2
 besputter
 baister
@@ -16093,7 +16093,7 @@ bentonitic 1
 bleareyed
 bashful
 bigamize 2
-bronze 2
+bronze 3
 bonducs
 bhotia
 brethren 1
