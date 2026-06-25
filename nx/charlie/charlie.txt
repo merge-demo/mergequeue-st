@@ -2568,7 +2568,7 @@ casework
 collaborated 1
 candleshine 1
 chaucerism 1
-candleshrift 1
+candleshrift 2
 capitalizations 1
 cecidiology 1
 caustified 1
@@ -15549,7 +15549,7 @@ confoundedly
 chabasie
 classicolatry
 classiest
-classify
+classify 1
 continentalist
 classifiable
 cicatrized
@@ -25888,7 +25888,7 @@ corsairs 1
 chalcid
 corsak
 crippled
-corse
+corse 1
 chemoautotrophically
 contradicting
 cornish
