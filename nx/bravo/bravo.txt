@@ -9341,7 +9341,7 @@ birchers
 bewater 1
 birchwood
 bromidrosis 1
-bindweb
+bindweb 1
 birdbander
 blockholer 1
 beggaries 1
@@ -12354,7 +12354,7 @@ bonifaces 1
 breakfasting
 bookmarker 1
 bumbarge 1
-bombillas 1
+bombillas 2
 bacchantic 2
 blan
 beefsteaks 1
@@ -12624,7 +12624,7 @@ bakshaish
 btu 1
 beshag
 beaproned
-bolos 1
+bolos 2
 bonspiel
 broomy 1
 bookbind 1
@@ -16263,7 +16263,7 @@ brandishers 1
 brownest 1
 beluga
 browniest 2
-blackguardize 1
+blackguardize 2
 beamlet 1
 bahuts 2
 bourock 1
