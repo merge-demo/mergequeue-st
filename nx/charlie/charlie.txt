@@ -6051,7 +6051,7 @@ curarize
 coraciiform
 cleg 1
 cyanide
-cisatlantic 1
+cisatlantic 2
 catholyte 1
 cathouse
 cathouses
@@ -13224,7 +13224,7 @@ cubeb
 cyclindroid 1
 characterized
 cupelled
-cyclism
+cyclism 1
 choanoflagellida
 cyclitic 1
 commesso 1
@@ -18810,7 +18810,7 @@ coleopterist 1
 coleopterology 1
 catteries
 comediettas 2
-coleopteron 1
+coleopteron 2
 chromosomal
 coleoptilum
 clutcher
@@ -19937,7 +19937,7 @@ cokery
 cuscuses 1
 contrastimulus 3
 comitje 3
-chunters
+chunters 1
 coml
 confessionals
 conjugating
@@ -24933,7 +24933,7 @@ caterans 2
 craniacromial 1
 cephadia
 codices
-continuousness
+continuousness 1
 corallum
 copywise
 corals
@@ -29217,7 +29217,7 @@ crippied
 cripple
 cogboat 2
 characid
-crippleness
+crippleness 1
 crippler
 cripples 1
 creaser
@@ -29239,7 +29239,7 @@ characetum
 capybara
 cryptanalyzing
 cryptarch
-cryptarchy 1
+cryptarchy 2
 caracols 1
 crypteroniaceae
 cryptical 1
@@ -29418,7 +29418,7 @@ crispated
 crispbread
 circassian
 crispens 1
-crispers
+crispers 1
 craaled
 charisticary 1
 chromatogram
