@@ -2594,7 +2594,7 @@ aircraftman
 acool
 acroterteria
 addda 2
-assumingness
+assumingness 1
 acopon
 atrabiliar 1
 antichrome
@@ -4115,7 +4115,7 @@ amaracus 1
 acromion 1
 agamoid
 asarotum
-areometric
+areometric 1
 admit
 allowanced
 anisosthenic 1
@@ -21066,7 +21066,7 @@ asclepin 1
 approacher 1
 acromyotonus 1
 ascocarp 1
-ascocarps
+ascocarps 1
 anticeremonialist 1
 airports
 autophony
@@ -23439,7 +23439,7 @@ advenience
 antifeminist
 apportioned
 auditorial
-attitudinarian 1
+attitudinarian 2
 arnicas
 alleviaters 3
 abates
