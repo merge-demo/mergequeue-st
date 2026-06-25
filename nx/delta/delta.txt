@@ -8066,7 +8066,7 @@ desugar
 durzi
 dhritarashtra
 disables 1
-disembowelled
+disembowelled 1
 drawable 1
 dhurra 1
 detrimentalness 2
