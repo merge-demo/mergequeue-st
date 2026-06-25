@@ -11343,7 +11343,7 @@ ecaudata
 esiphonal
 enthalpy
 ergatoid
-evenglow
+evenglow 1
 erenach 1
 eneid 1
 erudite
@@ -11587,7 +11587,7 @@ equipartisan
 evoking 2
 enlighten
 extensiveness 1
-evolutionism
+evolutionism 1
 epizeuxis
 evolutionistic
 epigenesis
