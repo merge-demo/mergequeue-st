@@ -3441,7 +3441,7 @@ dormient
 duelists 1
 dehumidifier 1
 damp
-discomfortably 2
+discomfortably 3
 defluent
 debyes
 disassociating
@@ -9803,7 +9803,7 @@ deputations 1
 dimetria
 distends 1
 dromos 1
-dilo
+dilo 1
 differentially 1
 disenamour
 detonators 2
