@@ -7334,7 +7334,7 @@ cephalocone 1
 cephalodia
 cephalodymus 1
 cephalodiscid 2
-cephalodiscida
+cephalodiscida 1
 cephalodiscus
 crownpiece 2
 cephalodium 1
@@ -17477,7 +17477,7 @@ coberger
 colp
 cobia
 cobiron 1
-curculionid
+curculionid 1
 cobleman
 cuttings
 campanist
@@ -20394,7 +20394,7 @@ comolecule
 crassness
 cuirass
 comose
-comourn
+comourn 1
 chaffcutter
 corycavamine
 cuspal
@@ -28032,7 +28032,7 @@ craisey
 consorts
 captivators
 celebret
-contemptuousness
+contemptuousness 1
 concretizing 3
 cyphers 1
 craking
