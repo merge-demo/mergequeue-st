@@ -2276,7 +2276,7 @@ forshape 2
 full 2
 flavones 2
 finlandization
-filamentiferous
+filamentiferous 1
 fantails 1
 folktale 1
 fulmineous 1
@@ -6305,7 +6305,7 @@ ferryhouse 1
 fob 3
 falerian
 foreparts 1
-flumes
+flumes 1
 fluminous 1
 freak 1
 flummer
