@@ -2011,7 +2011,7 @@ decaffeinate
 depicted
 disformity
 decaffeinize 1
-disregardable 1
+disregardable 2
 dasypodidae 1
 dogleg 1
 debussyanize 1
@@ -8208,7 +8208,7 @@ disspreading
 diadochy
 diaconicum
 divers 1
-damasked
+damasked 1
 dissectors
 dulcor
 diorism 2
@@ -8301,7 +8301,7 @@ dowress
 dg
 drawpoint 1
 dialcohol 1
-dialect
+dialect 1
 doomsman 2
 decolourized
 demoded
@@ -16143,7 +16143,7 @@ defeasive 2
 desorbing 1
 decrypted
 dualist 1
-dysmeromorphic 1
+dysmeromorphic 2
 disenchanting
 dislustred
 dovehouse
@@ -17620,7 +17620,7 @@ dichoree
 dacus
 downfallen
 duant 1
-dentigerous 1
+dentigerous 2
 dandelion 2
 defeminisation
 denicotinizing
