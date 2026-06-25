@@ -792,7 +792,7 @@ brushcut
 bygoing 1
 banket 2
 badmouthed 1
-burled
+burled 1
 bullfrog
 boltheads 1
 badnesses 1
@@ -6687,7 +6687,7 @@ berkelium
 berkovets 2
 berkovtsi
 bedull 2
-bayesian 3
+bayesian 4
 browsability 1
 bismuthine
 broomstaff 1
@@ -12047,7 +12047,7 @@ boid 1
 boydekyn
 boydom
 boyer 2
-beking
+beking 1
 barbascos
 boyhoods
 bebloom 2
@@ -14459,7 +14459,7 @@ ballistae 2
 biontic 1
 brow 1
 brachygraphy
-birdshots
+birdshots 1
 bowldery
 bewailment 2
 blackbeetle
