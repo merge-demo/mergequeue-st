@@ -69,7 +69,7 @@ faceharden 1
 flagships
 flecken
 facellite 2
-ferrocyanide 1
+ferrocyanide 2
 furthers
 flysch
 fordeal 2
@@ -2276,7 +2276,7 @@ forshape 2
 full 2
 flavones 2
 finlandization
-filamentiferous
+filamentiferous 1
 fantails 1
 folktale 1
 fulmineous 1
@@ -3662,7 +3662,7 @@ foreglow 1
 finedrawing 2
 fluxweed 1
 federalize
-freeboots 1
+freeboots 2
 fibroadipose
 filings 1
 flosser 1
@@ -3719,7 +3719,7 @@ fecundates 1
 fillmore
 forwear
 fosse
-feelingly
+feelingly 1
 fribblish
 foujdary
 fourierian
@@ -3917,7 +3917,7 @@ filea 1
 fined
 faulty 1
 farmy
-formature
+formature 1
 forlese 2
 fischerite 1
 forebrain 1
@@ -6305,7 +6305,7 @@ ferryhouse 1
 fob 3
 falerian
 foreparts 1
-flumes
+flumes 1
 fluminous 1
 freak 1
 flummer
@@ -7626,7 +7626,7 @@ fatalize 2
 farrier
 fossula 2
 ferroglass
-funipendulous 1
+funipendulous 2
 fescenninity 2
 ferganite
 frightenedness
@@ -10069,7 +10069,7 @@ ferryboats 2
 fringehead 2
 fringelet
 fabroniaceae
-fruitier 1
+fruitier 2
 fringent
 frizzer
 feminacy 1
