@@ -3551,7 +3551,7 @@ agamobia
 addlebrained 1
 allegation
 antifouler 3
-addlehead
+addlehead 1
 addleheadedness
 addleness
 abscissa 1
@@ -23251,7 +23251,7 @@ apple
 adaptors 1
 apophasis 1
 attitudinised
-attitudiniser
+attitudiniser 1
 amphimictically
 archencephala
 attitudinizer 2
