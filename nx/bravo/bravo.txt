@@ -2962,7 +2962,7 @@ boundaries 1
 blobby 2
 benedicts 2
 barricadoes 2
-brainsick
+brainsick 1
 blayk 2
 boltsmith
 bicentral
@@ -3765,7 +3765,7 @@ britska
 bribers
 batts
 blowpipe 1
-befouler 1
+befouler 2
 boing 1
 brahmanic
 blackener
