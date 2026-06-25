@@ -1945,7 +1945,7 @@ fonly 1
 flanchard 1
 furzier 1
 forworn 3
-flated 1
+flated 2
 formulization
 fishlet
 flagellantism 1
@@ -4851,7 +4851,7 @@ floor 1
 farmhouse
 fickleness 1
 flagstick 2
-flagworm
+flagworm 1
 fandangle 2
 fissirostrate 1
 feramorz 1
