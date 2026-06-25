@@ -8208,7 +8208,7 @@ disspreading
 diadochy
 diaconicum
 divers 1
-damasked
+damasked 1
 dissectors
 dulcor
 diorism 2
@@ -8301,7 +8301,7 @@ dowress
 dg
 drawpoint 1
 dialcohol 1
-dialect
+dialect 1
 doomsman 2
 decolourized
 demoded
@@ -10681,7 +10681,7 @@ dipodic 1
 dipodid
 dilatative
 deleble
-destained 1
+destained 2
 depastured
 dawting 1
 dryworker 1
@@ -16143,7 +16143,7 @@ defeasive 2
 desorbing 1
 decrypted
 dualist 1
-dysmeromorphic 1
+dysmeromorphic 2
 disenchanting
 dislustred
 dovehouse
