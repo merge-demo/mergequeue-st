@@ -9495,7 +9495,7 @@ familial 1
 foeticide 1
 fico
 flamens 1
-fratry 1
+fratry 2
 flippery 1
 furnaceman
 fulcrate 2
@@ -11485,7 +11485,7 @@ frowst
 fastgoing 1
 flays
 froggery
-formular
+formular 1
 fuzzle 2
 ferrite
 foredescribe
@@ -11755,7 +11755,7 @@ fuzees 1
 fenchol 2
 faultfinders 2
 fuzzier 2
-forstraught
+forstraught 1
 flipped
 fertilitate 2
 fianna 2
