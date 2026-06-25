@@ -3760,7 +3760,7 @@ dor 1
 dwale
 darwin 1
 disgracia
-drillable
+drillable 1
 dynamites 2
 distrain 2
 deice
@@ -7259,7 +7259,7 @@ diableries 1
 detergers
 diamidogen 2
 delph
-deifier
+deifier 1
 dextrally
 dournesses 2
 defalk 3
@@ -7987,7 +7987,7 @@ detonability
 dezincifying 2
 discifloral 1
 deluders 1
-dezincking 1
+dezincking 2
 dioeciously
 drouthiest 1
 dezincs
