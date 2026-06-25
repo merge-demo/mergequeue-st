@@ -7706,7 +7706,7 @@ dismembrate
 defuse
 downby
 darwinism
-dermis
+dermis 1
 devilfish 1
 decelerators 1
 detail
@@ -9243,7 +9243,7 @@ disinsectization
 dkm
 dislegitimate 1
 digitaliform 1
-diemakers
+diemakers 1
 duckie 1
 dehumidifying 1
 dossils
