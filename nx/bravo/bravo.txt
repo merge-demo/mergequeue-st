@@ -3651,7 +3651,7 @@ brittlely
 beclip 1
 batlike
 bifanged 3
-buyides 1
+buyides 2
 befouls
 baculiform
 bedighting
@@ -3818,7 +3818,7 @@ bristlecone 2
 bauckie 1
 beerish 1
 benzole
-beauish
+beauish 1
 beatrice
 befleck
 bronchoplegia 2
@@ -5394,7 +5394,7 @@ brassworks 1
 beguess 1
 beguilement 1
 biunial
-beguilements
+beguilements 1
 biferous
 banstickle 1
 busheled
@@ -12222,7 +12222,7 @@ bolls
 bunkum
 bollworm
 blizzardly
-bolo
+bolo 1
 bicron
 bogberries
 baloo
@@ -14356,7 +14356,7 @@ brachistochronous
 brahmanize 1
 bajoire
 benched 2
-bracers
+bracers 1
 brahmapootra 1
 borehole 1
 bumf
