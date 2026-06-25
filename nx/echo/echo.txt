@@ -3227,7 +3227,7 @@ enambush
 esotery 1
 extraschool 1
 eluctate
-elude 1
+elude 2
 equant
 educive 1
 extroversively
@@ -3347,7 +3347,7 @@ entitative 2
 eyry
 eulogic 1
 expresses 1
-environed
+environed 1
 elegies 1
 encheer
 ermit 1
@@ -3965,7 +3965,7 @@ empale
 empalers 1
 eyepit
 empall
-equilibrium 3
+equilibrium 4
 empanelling 1
 exoduses 1
 empanels
@@ -5926,7 +5926,7 @@ encoffin
 elains
 effate 2
 enhunger 1
-emissary 1
+emissary 2
 epitheliogenetic 1
 exemplupla
 erythrose 1
@@ -6128,7 +6128,7 @@ enmove
 emusified 1
 elans 1
 evolvent
-etymologizable 1
+etymologizable 2
 enrolling
 endorachis 1
 enigua
@@ -13163,7 +13163,7 @@ exfodiate 1
 enunciators
 episioplasty
 embellishing 1
-experimenters 1
+experimenters 2
 enheaven
 empyreuma 1
 ecesises 2
@@ -13925,7 +13925,7 @@ extragalactic 1
 enteraden 1
 extragastric
 elizabethan
-empressment
+empressment 1
 epilimnial
 empanada 3
 extirpates 2
