@@ -1004,7 +1004,7 @@ gordunite
 gangamopteris
 goaltender 2
 gompholobium
-givers 1
+givers 2
 gangava 4
 groundward
 gynobase 1
@@ -7210,7 +7210,7 @@ give
 gynecol 1
 gape 1
 gorgosaurus
-galenism
+galenism 1
 gorillalike
 guardage
 gemlike 1
@@ -9928,7 +9928,7 @@ geoglyphic 1
 galerite 2
 geogenetic
 ghatwal
-glozer 2
+glozer 3
 guitarfishes 1
 guardianship 1
 guarantors 2
@@ -10465,7 +10465,7 @@ goatbrush 1
 gagor 1
 generatrices
 gonium
-glutei 2
+glutei 3
 graylings 3
 gastrin
 goli 3
