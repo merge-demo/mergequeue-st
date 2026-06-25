@@ -7706,7 +7706,7 @@ dismembrate
 defuse
 downby
 darwinism
-dermis
+dermis 1
 devilfish 1
 decelerators 1
 detail
@@ -7953,7 +7953,7 @@ dextrocularity
 daphnes
 dedicature
 disincorporation
-drowse 1
+drowse 2
 diagnosticated
 dorsibranch
 dextroglucose 1
@@ -9243,7 +9243,7 @@ disinsectization
 dkm
 dislegitimate 1
 digitaliform 1
-diemakers
+diemakers 1
 duckie 1
 dehumidifying 1
 dossils
