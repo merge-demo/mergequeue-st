@@ -7532,7 +7532,7 @@ flaser
 forsakers 1
 flentes 1
 fretten 3
-fleshbrush 2
+fleshbrush 3
 frivoler 1
 foreboom
 foredooms 3
@@ -8825,7 +8825,7 @@ fiberglass
 floret 1
 forechurch 1
 flunking
-funeralize
+funeralize 1
 fjerding 2
 falcopern
 fetologist 1
@@ -9986,7 +9986,7 @@ friezer
 fiercely 1
 feazing
 fossilated
-fantoms 1
+fantoms 2
 fumatorium 2
 fa
 frigates 1
@@ -11661,7 +11661,7 @@ filoselle 3
 foretalking
 forcingly 2
 farasula
-fut
+fut 1
 futhorc 1
 fillowite
 forepale 2
