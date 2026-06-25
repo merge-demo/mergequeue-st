@@ -893,7 +893,7 @@ benzidin 1
 benzalcohol 2
 beffroy
 baggala
-borderlight 1
+borderlight 2
 bagganet 1
 baggara 1
 bellyfulls
@@ -1290,7 +1290,7 @@ bahai 2
 boater
 balander
 bleaberry
-brachytmema 2
+brachytmema 3
 beclouds
 bawdyhouses 1
 bahada 1
@@ -8450,7 +8450,7 @@ boggart
 billions
 bilbi 1
 bagirmi
-bundu
+bundu 1
 bilby
 banqueteering
 baignet 3
