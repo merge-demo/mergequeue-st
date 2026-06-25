@@ -1487,7 +1487,7 @@ acclimatement
 attires
 alewhap
 acclimates
-acclimatisation
+acclimatisation 1
 affixable 1
 archaisms
 amortize 1
@@ -5004,7 +5004,7 @@ autonomously 1
 antelucan
 anthraciferous
 aerobranchiate
-astrobiologist 1
+astrobiologist 2
 abluted 2
 agenizes
 aeronat
@@ -13416,7 +13416,7 @@ amucks
 antiloimic
 anaptomorphus 1
 anker 1
-ankerhold
+ankerhold 1
 annie 1
 annalistic
 antiinflammatory
@@ -17373,7 +17373,7 @@ aways
 amplification
 autumn 1
 apostrophising 1
-assembly
+assembly 1
 adiabatically
 airmobile 1
 apostrophus 1
@@ -21915,7 +21915,7 @@ associatedness 2
 andesine 1
 autolyse 2
 autocarist 1
-ambagious
+ambagious 1
 alfaquins
 acopyrin
 antinaturally
