@@ -2604,7 +2604,7 @@ barytone 2
 barytons 1
 busing
 bowable
-bears
+bears 1
 barytophyllite 2
 blawed
 bridgelike 1
@@ -4101,7 +4101,7 @@ bagge
 blokes 1
 bobbed 3
 beansetter
-beanshooter
+beanshooter 1
 beanstalk 2
 bestiaries
 bearbaiter 1
@@ -9240,7 +9240,7 @@ brunches
 bevor
 befouling 2
 baldrics
-built
+built 1
 bipetalous
 bucciniform
 badassed
@@ -14208,7 +14208,7 @@ baikerite
 bradawls 1
 boxerism
 bag 1
-bough
+bough 1
 bespot
 boloneys 2
 bottomland 2
