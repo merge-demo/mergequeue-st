@@ -5248,7 +5248,7 @@ affectioned 1
 anemographic
 affections
 affectious
-affective
+affective 1
 advocacies 1
 affectivity
 affector
@@ -5911,7 +5911,7 @@ agrionid
 archsnob
 agents
 ageometrical
-advisor
+advisor 1
 absence
 anophyte
 ages 1
@@ -11118,7 +11118,7 @@ anathematiser 1
 apogeic
 amovable
 acronarcotic
-abatic 1
+abatic 2
 amove
 achakzai
 amylolytic
