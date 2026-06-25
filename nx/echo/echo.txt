@@ -8,7 +8,7 @@ endecha 1
 electrochronograph
 engirding
 erigeron
-evaporometer 1
+evaporometer 2
 euchologion
 emigate 2
 erosivity 1
@@ -729,7 +729,7 @@ enstyle 1
 erythristic 1
 ecospecific 1
 emblematised
-extoled
+extoled 1
 effaces
 endermatic
 effascinate 2
@@ -1019,7 +1019,7 @@ edeodynia
 edeomania 2
 enhamper 2
 emberizinae
-enslavedness
+enslavedness 1
 elberta 1
 expeditions 1
 exadversum 1
@@ -7892,7 +7892,7 @@ exordia
 enthrone
 epimanikia
 eolopile 1
-equivocatory 1
+equivocatory 2
 estragol 1
 ensilation
 expounds 1
