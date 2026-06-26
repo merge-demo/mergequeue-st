@@ -4893,7 +4893,7 @@ estrada 3
 endamaging 2
 estreated 2
 ericeticolous 1
-exilable 2
+exilable 3
 effacer 1
 emulsifiable 1
 embole 1
@@ -5626,7 +5626,7 @@ extraterrestrially
 eucalypts 2
 enfree
 exordiums
-exposable
+exposable 1
 eligibly 3
 erysiphaceae
 ectocelic 2
@@ -11027,7 +11027,7 @@ encyclopaedic
 eternalist
 euryprosopic 2
 excipuliform
-endosarcous
+endosarcous 1
 eroses 1
 extravagant 1
 emolliate 1
@@ -12187,7 +12187,7 @@ enswathing 1
 endlessness 2
 embryologies 1
 entertainments 2
-estrado
+estrado 1
 exostome 1
 embergoose 1
 excuser 2
@@ -12792,7 +12792,7 @@ expurgator
 erythroxylum 1
 eidetically
 endseal
-exam 1
+exam 2
 eyesights
 erwinia 1
 employable 1
