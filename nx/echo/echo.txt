@@ -1107,7 +1107,7 @@ environage 2
 edition 2
 endere 1
 editorialization
-elsa
+elsa 1
 ecphory
 expunction
 enclosed 2
@@ -2401,7 +2401,7 @@ ensorcell 1
 events 3
 entrail
 ecraseur 1
-electrodialyze 1
+electrodialyze 2
 essayical
 epistle 1
 eumenidean 1
@@ -7420,7 +7420,7 @@ eclectist
 extricated
 ephialtes
 exemplifiers 1
-encipherments 1
+encipherments 2
 excusal
 ebenaceae 1
 enif 1
@@ -7428,7 +7428,7 @@ exorbitantly
 envenomed
 ephippia 1
 enfortune
-earthmover 1
+earthmover 2
 esterify
 endeign
 eugenia 1
@@ -11288,7 +11288,7 @@ expirable 1
 evanishes 3
 enterostenosis
 extrapoetical 1
-estrogens
+estrogens 1
 enmass
 eschewal
 exterrestrial 1
