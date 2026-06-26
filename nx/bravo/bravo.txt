@@ -637,7 +637,7 @@ bacteriology
 breadnut 1
 bronchoaspergillosis 2
 barracoon 1
-becomings 1
+becomings 2
 betterness 3
 biscuitmaking 2
 blinds
@@ -997,7 +997,7 @@ baya
 brachistocephalic
 brissotine
 beinly
-beamlike
+beamlike 1
 buddh
 bayadere
 boragineous 1
@@ -7081,7 +7081,7 @@ blastocyte 1
 brescian
 beetler
 bathyscaphes
-bespeckle
+bespeckle 1
 bethylid
 bespeckled
 blindman
@@ -7804,7 +7804,7 @@ biarcuate
 biarticulate 1
 barrulee 1
 breccia
-bluings
+bluings 1
 bezzling
 blenches 1
 biasedly 1
@@ -9122,7 +9122,7 @@ basilisks 2
 bushwhacking
 bistournage
 biennia
-bridgewater 1
+bridgewater 2
 bicalcarate
 blackthorns
 bombax
@@ -14201,7 +14201,7 @@ bedquilt
 bushwife
 bracteole
 bracteose 1
-backfriend 1
+backfriend 2
 biblically
 bestowal 2
 baikerite
