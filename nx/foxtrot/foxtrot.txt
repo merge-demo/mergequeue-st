@@ -313,7 +313,7 @@ feods 3
 forces 1
 fail
 fireplough 3
-faineancy 3
+faineancy 4
 fayles
 fimbricated 1
 furcal 1
@@ -3155,7 +3155,7 @@ feuding
 forepad 1
 fibromuscular
 formule 3
-felworts
+felworts 1
 frolicful
 fluxibleness 1
 fadedly 1

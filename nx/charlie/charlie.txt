@@ -5977,7 +5977,7 @@ cathedras
 chronophotograph
 contractibly
 cutcha 1
-cathedratic
+cathedratic 1
 cathedraticum
 cathepsin 1
 cathern
@@ -7842,7 +7842,7 @@ capitalised
 cipolin
 cuscohygrine
 cessible 1
-copperplate 1
+copperplate 2
 cyclorrhaphous
 clinician 1
 cession
@@ -17993,7 +17993,7 @@ capillarimeter
 corvktte 1
 consensuses
 coelonavigation 1
-ceraceous
+ceraceous 1
 chyluria
 cystophora
 colonelcy
@@ -18593,7 +18593,7 @@ conchylia
 coiled
 coiler
 combusted
-clerkhood
+clerkhood 1
 coin 1
 cephalopod
 coyly
