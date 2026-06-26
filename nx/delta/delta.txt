@@ -1489,7 +1489,7 @@ discriminative 1
 demophobe 3
 diffusor
 dasypaedal
-discolorated
+discolorated 1
 dazzler
 disillusions 1
 dazzlers
@@ -11423,7 +11423,7 @@ dissuasive 1
 discodactylous
 damasse 1
 dispositive
-deskbound
+deskbound 1
 dyotheletic
 dividuous 1
 dilatingly
