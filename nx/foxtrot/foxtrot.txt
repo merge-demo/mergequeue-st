@@ -538,7 +538,7 @@ froggy 3
 fatstock 1
 falters 2
 fronts 1
-foresays
+foresays 1
 flosculose
 ff 2
 fertilely 1
@@ -5514,7 +5514,7 @@ formatters 2
 fiddlies
 faroelite 2
 fleshliness 1
-faceteness 2
+faceteness 3
 fw 1
 flacker
 feetless
@@ -11571,7 +11571,7 @@ flytier 1
 fulmar 2
 fasciotomy 2
 futhermore 3
-frogflower
+frogflower 1
 finnickiest 1
 forthbringing
 faucet 1
