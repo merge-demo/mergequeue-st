@@ -5244,7 +5244,7 @@ deligated
 drammer 2
 density 1
 defat
-degasifier 2
+degasifier 3
 diatomaceoid
 denouncers
 detestable
@@ -5698,7 +5698,7 @@ dithers 1
 diallel 1
 deconsider 1
 depoh 1
-decd 1
+decd 2
 depolarise 1
 dearies
 dehumidify
@@ -15931,7 +15931,7 @@ deprivers
 doted
 diploplacula 1
 doters
-donable
+donable 1
 dotes 1
 dispreads 1
 disbudded
@@ -17019,7 +17019,7 @@ droning
 demipillar
 dendrocoela
 disjoined 1
-diacritically 2
+diacritically 3
 displenish 1
 dregs
 dreidels 1
