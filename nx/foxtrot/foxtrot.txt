@@ -311,7 +311,7 @@ fplot 2
 fluxionary 1
 feods 3
 forces 1
-fail
+fail 1
 fireplough 3
 faineancy 4
 fayles
@@ -4812,7 +4812,7 @@ fegary 1
 francisco
 fasciolaria 2
 fancifulness 1
-flinching 1
+flinching 2
 floatiest
 fullwords 2
 faena
@@ -6983,7 +6983,7 @@ festucous
 fetishization 1
 fissicostate 2
 formylation
-foetus
+foetus 1
 foments
 fussiness 1
 fortuity 1
@@ -8343,7 +8343,7 @@ foxglove 1
 ferrule
 fosterage 1
 faultiness 2
-futilize
+futilize 1
 fireboat
 freestyler 1
 fusspots 1
