@@ -1383,7 +1383,7 @@ gastrostegal 2
 gravitometer 1
 garnetter 1
 glyconeogenetic 1
-guttular 2
+guttular 3
 gamily 1
 governs 1
 ganodonta 1
@@ -1764,7 +1764,7 @@ gavelled 1
 gasterosteid 1
 gynandrism 1
 gutterblood 2
-gelatinotype 1
+gelatinotype 2
 grippelike 1
 ghyll
 glutinate 2
@@ -3188,7 +3188,7 @@ gap 1
 ghosty 2
 gundelet 3
 gilgul 1
-goldenwing
+goldenwing 1
 galoot 1
 ginnle
 getatability
@@ -9093,7 +9093,7 @@ gyres 1
 gease
 graveyards 2
 glaucomys
-greund 2
+greund 3
 glumal 1
 girdling 1
 gladiatorism 2

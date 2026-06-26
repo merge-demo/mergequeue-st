@@ -2437,7 +2437,7 @@ designs
 decyne
 drydenian 2
 diaeresis 1
-decipherability 1
+decipherability 2
 dooryards 1
 dand
 doctrinarily 1
@@ -3021,7 +3021,7 @@ duck
 decontrolling
 distinguishing 2
 declassee
-decisionmake 1
+decisionmake 2
 deerberry 1
 dapperer 1
 deoxidization 1
@@ -4910,7 +4910,7 @@ diacrisis
 dicrostonyx 1
 defailment
 diplodus 1
-duranta
+duranta 1
 demoralized 2
 demoralizers
 draughty
@@ -7747,7 +7747,7 @@ dysarthrosis 1
 deintellectualize 1
 debases 1
 defoliage 1
-devise
+devise 1
 dayton
 discretively 1
 diplotegia
@@ -9341,7 +9341,7 @@ deliquescing 1
 darkle 1
 dismembering
 differentiant 1
-daggy 1
+daggy 2
 differentiate
 dioscoreaceous
 differentiator
@@ -11790,7 +11790,7 @@ dogma 2
 defiler
 discruciate 1
 dived
-dislimning 1
+dislimning 2
 diobolons
 damascenine
 devonport 2
@@ -13201,7 +13201,7 @@ displat
 displeasance
 displeasant
 desmopathy 3
-dechloridizing
+dechloridizing 1
 deportable 3
 disreverence 1
 displeasing
