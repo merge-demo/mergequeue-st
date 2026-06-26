@@ -2771,7 +2771,7 @@ gazettal 1
 gramophonical 1
 grigris
 gormless
-glottalite
+glottalite 1
 gloiopeltis 2
 gentiobiose 2
 galena 4
@@ -3977,7 +3977,7 @@ glochidium 1
 galabiya 1
 georgium 1
 greasier
-gilles 1
+gilles 2
 gynostegium
 gabendum 3
 genesic 2
@@ -7402,7 +7402,7 @@ gallach 1
 gynostemia 3
 groupable 3
 gastromalacia 1
-gasolineless 1
+gasolineless 2
 grewsomely 1
 gange 1
 gastrohysterectomy
@@ -8065,7 +8065,7 @@ grayer
 goatbeard 2
 graphologist 1
 glycosides 1
-gongorism
+gongorism 1
 gan 2
 galempung
 galleries
@@ -9497,7 +9497,7 @@ gnosiological
 gammoner
 gynophoric 1
 gravitations 1
-grouper 3
+grouper 4
 grisbet 2
 gecking 1
 grandiosely 1
@@ -10408,7 +10408,7 @@ gatecrashers 1
 gadgetries
 gnateater 1
 gillbird 1
-giller 2
+giller 3
 geepound 2
 graphiology
 geographized 1
