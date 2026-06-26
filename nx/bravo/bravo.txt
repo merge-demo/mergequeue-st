@@ -3071,7 +3071,7 @@ burhead
 boobishness
 bimetal
 bedspreads
-besquib
+besquib 1
 bestials 2
 benzantialdoxime
 brahman 1
@@ -6270,7 +6270,7 @@ benson 1
 bardess
 briefs
 brandsolder 1
-bigarade 2
+bigarade 3
 becassine 1
 bentgrass
 blanky 1
@@ -10686,7 +10686,7 @@ biotics
 bowback 1
 brainwashes 2
 bleats
-bleck
+bleck 1
 bewhistle
 bodhi 1
 bethreaten
@@ -15218,7 +15218,7 @@ bribeless 2
 briberies 1
 bicentennials 1
 bedeaf
-blancs
+blancs 1
 bifocal 3
 barbiturate
 batwa
