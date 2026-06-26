@@ -1828,7 +1828,7 @@ feudalize
 fittest 1
 fractured 1
 flabellum
-fating 1
+fating 2
 feedbags
 footwalk
 fritterers 3
@@ -3801,7 +3801,7 @@ flanconnade 1
 forestall 1
 filmstrips
 filo 2
-filose 1
+filose 2
 ferrier 2
 furnitureless
 fixates 1
@@ -6062,7 +6062,7 @@ flunkeyize 1
 farting 2
 fungiform
 fenceful 1
-freebooted
+freebooted 1
 fraternate 1
 featness 2
 flocculating 3
@@ -6203,7 +6203,7 @@ fibroareolar 2
 flisked 2
 formicating 1
 fakeries 1
-feuded 2
+feuded 3
 foragement 2
 frumpishness
 foe 1
@@ -6511,7 +6511,7 @@ forgie 1
 farweltered
 fip 3
 failsoft 3
-frapping 1
+frapping 2
 ft 2
 forspread 2
 foldskirt
@@ -8685,7 +8685,7 @@ filigraned 2
 futharks
 feet 1
 frustrable 1
-fuzes 1
+fuzes 2
 finites 1
 fytte
 farstepped 1
@@ -9307,7 +9307,7 @@ fleuret 1
 fourchet 2
 friesic 1
 flb 2
-fayalites 1
+fayalites 2
 freckling 2
 fungate 1
 frangipani 2
@@ -11128,7 +11128,7 @@ fastland 2
 formality
 firecrackers
 factionate 1
-fundatrices 3
+fundatrices 4
 forhoo
 frizzed 1
 filamentous
