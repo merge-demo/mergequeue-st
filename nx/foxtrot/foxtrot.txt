@@ -10057,7 +10057,7 @@ farmplace
 filefishes 2
 favourer 1
 foralite 1
-flee 2
+flee 3
 flatwork 2
 fantod 1
 franchiser 1
@@ -11612,7 +11612,7 @@ fraternal
 febrifugal
 for
 fetch
-forcarve
+forcarve 1
 frough 2
 frack
 forewinning
