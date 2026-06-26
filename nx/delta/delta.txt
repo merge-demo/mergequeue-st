@@ -3356,7 +3356,7 @@ dayment
 distressfulness
 dullery
 despecialize 1
-definitor
+definitor 1
 desulphurized
 dogmouth
 dentils
@@ -3391,7 +3391,7 @@ dichotomic
 disinhuming 1
 darer
 deflecting 2
-deflectionize 1
+deflectionize 2
 dampnesses
 daphnaceae
 diamante 2
@@ -12953,7 +12953,7 @@ dolomitized
 dejectile 2
 distitle
 disuniformity
-delusionist
+delusionist 1
 disfavourer
 dialoguing
 drang
@@ -13712,7 +13712,7 @@ disaltern
 distils 2
 dissident
 demonstrationists 1
-dosimeter 1
+dosimeter 2
 duecento
 disulphuric
 dialkyl 2
@@ -14418,7 +14418,7 @@ diarch
 diversified 3
 devils 1
 diversifier
-driveller
+driveller 1
 diversiflorate 1
 diversiform 1
 dachshunde
