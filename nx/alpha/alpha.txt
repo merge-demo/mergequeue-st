@@ -17313,7 +17313,7 @@ audiometer 1
 auguste
 actors 2
 apeirophobia
-autocollimator
+autocollimator 1
 algaecide
 antiforeign
 apostatically
