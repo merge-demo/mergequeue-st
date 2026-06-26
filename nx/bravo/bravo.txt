@@ -2430,7 +2430,7 @@ bowditch
 blinkering 2
 bromoiodide
 brotherhood 1
-bards
+bards 1
 bardship 1
 backaching
 butter
@@ -10057,7 +10057,7 @@ bouvardia
 bimanual 2
 bairntime 2
 bridlers
-byzantine 1
+byzantine 2
 byzantinize
 barmecide
 bottlemaking
@@ -16873,7 +16873,7 @@ bactericidally
 buffooneries
 benzoxycamphor
 balancelle
-biotechnologies 1
+biotechnologies 2
 bichromatic
 bathysophic 1
 buffoonish 1
@@ -18086,7 +18086,7 @@ bidi
 butadiyne
 beshout
 berthierite
-butane 1
+butane 2
 butanoic 1
 bismuthite 1
 burgage 1
