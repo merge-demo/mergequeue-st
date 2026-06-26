@@ -6756,7 +6756,7 @@ atomisms
 araneous
 acardia
 aine
-antinegro
+antinegro 1
 aubrey 1
 ainee
 allures 1
@@ -6766,7 +6766,7 @@ arthropleure
 amortisable 1
 ainoi
 appellatory
-antioxygen 1
+antioxygen 2
 apofenchene
 amplifies
 accepters
@@ -19119,7 +19119,7 @@ archvillainy 2
 assuages
 aetosaurian
 analytics
-algorithm
+algorithm 1
 anisylidene 2
 aphoristic
 absorption
