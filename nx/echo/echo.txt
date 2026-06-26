@@ -668,7 +668,7 @@ eclogic 2
 egressor 1
 eclosion
 emasculative 1
-eclosions
+eclosions 1
 endogastritis
 ethel 1
 educabilian 1
@@ -5612,7 +5612,7 @@ enforth 1
 estrangle 2
 eigenvalue 3
 epithi
-exquisitism 1
+exquisitism 2
 enframed 1
 experimentator
 ethnarch
@@ -6314,7 +6314,7 @@ estancias
 esophoric
 extrovertish 1
 epuloid 1
-enseated 3
+enseated 4
 exgorgitation
 endostylic
 enveigle
@@ -12233,7 +12233,7 @@ empiriocritical 1
 exercent 1
 ephemera 1
 execute 2
-executed
+executed 1
 exceptor
 extravagancies 1
 enquicken 1
@@ -13915,7 +13915,7 @@ emollient 1
 extradited 2
 ecchymoma 1
 extradosed 2
-entireties 1
+entireties 2
 environments 1
 enviers
 extraessential 1
