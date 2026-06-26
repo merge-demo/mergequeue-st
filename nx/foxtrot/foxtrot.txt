@@ -4474,7 +4474,7 @@ factorize 2
 furthermost 1
 fleshing
 foreloop
-fishspear 2
+fishspear 3
 fantocine 3
 fluffier
 fountainwise 2
@@ -4818,7 +4818,7 @@ fullwords 2
 faena
 fellowshipping
 famulary 1
-falsen
+falsen 1
 forties 1
 frostbiter
 funker 1
