@@ -1961,7 +1961,7 @@ gams
 glyptical
 gaurian
 gravitation 4
-gasting
+gasting 1
 gaurs
 gravitative 2
 glamourous
@@ -5035,7 +5035,7 @@ glenlike 1
 goosefoots 1
 gasket 2
 garrya
-gilled 2
+gilled 3
 gigas 1
 galliots 1
 gynaecea
@@ -5681,7 +5681,7 @@ greedier 2
 grandnephews
 glossemic 1
 gibbously 2
-glaciometer 1
+glaciometer 2
 glossalgia
 gesundheit 1
 glossies
