@@ -2153,7 +2153,7 @@ del 1
 ditheistic
 dehydration
 dinguses
-decarbonated
+decarbonated 1
 decarbonation
 declaratively 3
 disintegrations
@@ -6131,7 +6131,7 @@ deregulationize 2
 dicolic
 deregulations 2
 dichromatism 1
-drumloid
+drumloid 1
 dynastical
 ducatoon
 deregulatory
@@ -6552,7 +6552,7 @@ duckfooted
 duet
 dermol
 danburite 1
-desdemona 1
+desdemona 2
 disinvest 1
 desecrated
 dilemmatical
@@ -15473,7 +15473,7 @@ dispell 2
 depredator
 deflagrated 1
 decolorise
-dealers
+dealers 1
 demodulates
 dependableness 1
 dismembers
