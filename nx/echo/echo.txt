@@ -668,7 +668,7 @@ eclogic 2
 egressor 1
 eclosion
 emasculative 1
-eclosions
+eclosions 1
 endogastritis
 ethel 1
 educabilian 1
@@ -1758,7 +1758,7 @@ enterocentesis 1
 echinital
 evitation 1
 everliving
-euphonous
+euphonous 1
 embrute 1
 escalloping 1
 epauleted 2
@@ -6169,7 +6169,7 @@ endanger
 ennoblement
 euryhaline
 ennobling 1
-embarren
+embarren 1
 ensteel
 ectosarcous 3
 exterritorialize 1
@@ -6314,7 +6314,7 @@ estancias
 esophoric
 extrovertish 1
 epuloid 1
-enseated 3
+enseated 4
 exgorgitation
 endostylic
 enveigle
@@ -6809,7 +6809,7 @@ eleusinion
 entomologies 4
 entomologised
 emblemized 1
-eelskin
+eelskin 1
 ealdorman
 erythrozincite 2
 emanations 1
@@ -7677,7 +7677,7 @@ epipleurae
 etiological 2
 ephapse 1
 everyness
-erythraea 2
+erythraea 3
 epirogeny
 electrodiagnosis
 epidermic
@@ -9454,7 +9454,7 @@ electronic 1
 extroverted 1
 escortage 1
 errands 1
-electromer
+electromer 1
 eagres
 emergences
 ethmomaxillary 1
@@ -13097,7 +13097,7 @@ everlastingness
 embrothelled
 embolomeri
 egre
-echites
+echites 1
 eleuin
 ejectable 1
 epicarp 2
