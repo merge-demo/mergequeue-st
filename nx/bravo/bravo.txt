@@ -1220,7 +1220,7 @@ bootloader 1
 blatter
 bakeries 2
 budling
-brownstones
+brownstones 1
 bakersfield 1
 bakes
 bakeshop
