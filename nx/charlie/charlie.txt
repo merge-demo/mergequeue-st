@@ -5447,7 +5447,7 @@ castlelike
 clitocybe 2
 castles
 cortaderia
-cordies
+cordies 1
 castlet
 candlesticked
 confront 2
@@ -18465,7 +18465,7 @@ cohabitancy
 calycoideous
 cohabitate
 cohabitation
-cecograph
+cecograph 1
 cohabited
 collational
 coharmonious
