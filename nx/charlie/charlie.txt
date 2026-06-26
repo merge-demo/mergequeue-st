@@ -1388,7 +1388,7 @@ calid
 calydonian
 chaped
 coquetted
-caliduct 1
+caliduct 2
 coherald
 calif
 cinematographer
@@ -9083,7 +9083,7 @@ charre
 charred
 charrette
 consenescence
-charrier
+charrier 1
 charriest
 charro
 concional 1
@@ -14367,7 +14367,7 @@ chapacuran 1
 cankering 2
 coifed
 curriery
-carvist
+carvist 1
 cayubaban 2
 cocontractor
 caviler
@@ -22953,7 +22953,7 @@ chromosomic
 consigned 1
 consignee 2
 consignify
-cantorous
+cantorous 1
 countersalient
 commissar
 crosspoints
@@ -24439,7 +24439,7 @@ coontah 1
 collaborateur
 coop
 crozer
-concertanto
+concertanto 1
 cooped
 cooperage
 cooperate
@@ -25938,7 +25938,7 @@ cortexes
 cortication
 cortices
 corticiferous
-cordula 1
+cordula 2
 corticifugally
 catchier
 corticine
