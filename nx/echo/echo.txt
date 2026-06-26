@@ -2129,7 +2129,7 @@ esophagostenosis
 eyestring 1
 ensorceling
 explicandum 1
-extraoral 1
+extraoral 2
 electropult
 erotica
 elation
@@ -3575,7 +3575,7 @@ emulsifications 1
 embossman
 esophagoplegia 1
 enchantery
-emanent 1
+emanent 2
 edifier
 electrolytical
 extracellularly 1
@@ -5612,7 +5612,7 @@ enforth 1
 estrangle 2
 eigenvalue 3
 epithi
-exquisitism 1
+exquisitism 2
 enframed 1
 experimentator
 ethnarch
@@ -6875,7 +6875,7 @@ erythrocytic 3
 entopic
 endiablee 1
 elling
-eremochaetous
+eremochaetous 1
 evocations 1
 entoplasm
 euxenites
@@ -11299,7 +11299,7 @@ ectoplasy
 extraversive 1
 eutaxy 1
 eikonogen
-evaporates
+evaporates 1
 edp
 eimer
 extrascholastic
@@ -11510,7 +11510,7 @@ etchant 3
 electrophotometer
 electroconvulsive
 evigilation
-eleemosinar 1
+eleemosinar 2
 emenders 1
 exsecant
 exoergic 2
@@ -12233,7 +12233,7 @@ empiriocritical 1
 exercent 1
 ephemera 1
 execute 2
-executed
+executed 1
 exceptor
 extravagancies 1
 enquicken 1
@@ -12473,7 +12473,7 @@ egoisms
 esquire
 evacuative 1
 eighteen
-endosymbiosis 1
+endosymbiosis 2
 enlimn 3
 effectuate 1
 exhumatory 1
