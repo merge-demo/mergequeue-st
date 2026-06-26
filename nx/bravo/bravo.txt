@@ -510,7 +510,7 @@ biserial
 barbels 2
 billhead 2
 briming
-broadway
+broadway 1
 besiclometer
 blackacre 1
 biogenesis 1
@@ -1547,7 +1547,7 @@ balete 3
 baralipton 2
 baltimore 1
 bloodmonger
-blackware
+blackware 1
 boarder 1
 ballas
 baronetised
@@ -3182,7 +3182,7 @@ baptisin 1
 bataleur 1
 bashmuric
 bridled
-biperforate 1
+biperforate 2
 branchiomerism
 barbecue
 busine
@@ -3294,7 +3294,7 @@ brattle
 bastardising 1
 benzols
 bandaite 1
-babbler
+babbler 1
 bloodiest
 basions
 backstabbed
@@ -4953,7 +4953,7 @@ bandy
 beek
 balkers 3
 bioclimatologies
-beekeepers 1
+beekeepers 2
 blended 1
 beekeeping
 bosher
@@ -8069,7 +8069,7 @@ bicornate 1
 bowery
 brutal
 bicorned
-booby 1
+booby 2
 booklift 1
 bartend 2
 bagroom
@@ -9611,7 +9611,7 @@ busybodyness
 bullheadedness 1
 bisects
 bottleflower 2
-banalize 1
+banalize 2
 bosky
 baboot 2
 berggylt 1
@@ -11005,7 +11005,7 @@ baccilla 1
 bawbee
 baconic
 belikely
-baalitical 1
+baalitical 2
 bribemonger
 blackface 1
 bident 2
