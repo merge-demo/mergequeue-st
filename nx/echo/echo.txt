@@ -3446,7 +3446,7 @@ evacuate
 embellisher
 embellishers
 eutelegenic 1
-encheason 1
+encheason 2
 encolden 1
 embers 1
 estival 1
@@ -3558,7 +3558,7 @@ eutaxite 1
 enshelter 1
 exceeder 3
 equoid
-epicureanism
+epicureanism 1
 exothermally 1
 epidesmine
 emboscata
