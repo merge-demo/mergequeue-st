@@ -4826,7 +4826,7 @@ carpos 1
 chibouk 1
 carposporangial
 catalase
-carlist
+carlist 1
 carposporous
 carpsucker
 cavalierish
@@ -7842,7 +7842,7 @@ capitalised
 cipolin
 cuscohygrine
 cessible 1
-copperplate 1
+copperplate 2
 cyclorrhaphous
 clinician 1
 cession
@@ -18593,7 +18593,7 @@ conchylia
 coiled
 coiler
 combusted
-clerkhood
+clerkhood 1
 coin 1
 cephalopod
 coyly
@@ -23002,7 +23002,7 @@ consitutional 1
 consociational
 corniculum
 chili 1
-cive 1
+cive 2
 cryptic 1
 compline
 consocies
