@@ -10999,7 +10999,7 @@ apologize
 azotate
 adrenals
 alb
-attabal 1
+attabal 2
 alodia
 adipsia 2
 ambrosia
@@ -20515,7 +20515,7 @@ adelia
 amnesty
 airfreight
 arteriospasm
-arteriostenosis
+arteriostenosis 1
 aetheogamic
 arteriotrepsis 1
 amman
@@ -23482,7 +23482,7 @@ algebraists
 astringer
 augite
 augitophyre
-autotomies
+autotomies 1
 absolutistic 1
 augmentable 1
 acopic
