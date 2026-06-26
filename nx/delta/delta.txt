@@ -3322,7 +3322,7 @@ deplaning 1
 diotocardia
 defines
 dispensatively
-deionizes 1
+deionizes 2
 donated 2
 definiens
 diapnoe 1
@@ -5179,7 +5179,7 @@ declination 2
 declaimers 1
 denunciations 3
 deputy
-date 1
+date 2
 desired 1
 dicty
 dine
@@ -7857,7 +7857,7 @@ dermestes
 diplogenic 1
 diffluent 1
 dogbodies 2
-dew
+dew 1
 degentilize
 diatoric
 depress
@@ -8892,7 +8892,7 @@ defiatory
 diceras 2
 dmod 1
 dioptidae
-disconnect
+disconnect 1
 dissolvability
 dichas
 demivolts
