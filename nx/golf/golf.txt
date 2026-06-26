@@ -2533,7 +2533,7 @@ grig 2
 grubbies 1
 gain 2
 guilder 1
-gynecium 1
+gynecium 2
 gummata 1
 gurle 1
 gomeisa 1
@@ -4476,7 +4476,7 @@ gambrel 1
 gills 1
 graminiform
 gerbille 1
-gigantomachia 1
+gigantomachia 2
 gawp 1
 globoids 1
 gmelinite
@@ -9649,7 +9649,7 @@ grudging
 gonosphere 2
 graveship
 glouted
-geraniols 3
+geraniols 4
 gladeye
 gratton 1
 gyroidally 3
