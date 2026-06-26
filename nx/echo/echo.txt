@@ -2258,7 +2258,7 @@ ethnarchies 1
 endothys
 electricize
 electriferous 1
-energumen 1
+energumen 2
 epilating
 extortions 2
 elongated
@@ -11993,7 +11993,7 @@ evaporation 1
 epitaphist 1
 ealderman 2
 exothermous 1
-epiploon
+epiploon 1
 excitations
 escapes
 eastbound 2
