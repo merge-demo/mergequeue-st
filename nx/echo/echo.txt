@@ -3906,7 +3906,7 @@ extramural 2
 endexine 1
 emissory 2
 emitting 3
-entamebas 1
+entamebas 2
 electropathic
 effigy
 endocrinologies
@@ -5716,7 +5716,7 @@ enolases
 epilabrum
 enteroanastomosis 2
 emeerates 1
-engiscope
+engiscope 1
 enigmatization 1
 engystomatidae 1
 enatic 4
@@ -8429,7 +8429,7 @@ epizootic
 externa
 epoxyed
 epoxies 2
-employed
+employed 1
 evangelistaries
 easterlies 2
 eprise 1
