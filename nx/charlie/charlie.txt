@@ -5409,7 +5409,7 @@ ciliation
 castes
 catapults
 chrysanthemin
-casteth
+casteth 1
 crossbench
 castice
 castigable
@@ -5954,7 +5954,7 @@ catharizing 1
 correlating 1
 clapperclaw
 counterreason
-cathartes
+cathartes 1
 cathartic
 chloroplatinate
 conciliate
@@ -9448,7 +9448,7 @@ cussword
 cheatry
 collumelliaceous
 chirayta 1
-cheats 1
+cheats 2
 confract
 counterinsurgent
 chebecs
@@ -14052,7 +14052,7 @@ cyprinodontes
 cyprinodontoid
 camstrary
 congenital 2
-colusite
+colusite 1
 cyprinoidean
 chasten
 cypriots
@@ -28109,7 +28109,7 @@ cranic 1
 circaeaceae
 craniectomy
 cled
-caput
+caput 1
 craniniums
 craniocele
 cordial 1
