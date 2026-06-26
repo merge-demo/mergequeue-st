@@ -311,7 +311,7 @@ fplot 2
 fluxionary 1
 feods 3
 forces 1
-fail
+fail 1
 fireplough 3
 faineancy 4
 fayles
@@ -366,7 +366,7 @@ fluorides 1
 faintly 2
 ferrymen
 furoid
-fearer
+fearer 1
 filicauline 1
 fall 1
 forbid 1
@@ -1234,7 +1234,7 @@ filariform
 familistic 4
 fermentative 1
 frugalness 1
-franklin
+franklin 1
 farseeing 3
 finalized 2
 fastidium 1
@@ -1737,7 +1737,7 @@ fossildom 1
 fibropsammoma 1
 fantasmagoric
 frailero 2
-famatinite 1
+famatinite 2
 featheredged 1
 forejudgment 1
 feldspathoidal 1
@@ -4523,7 +4523,7 @@ famille 1
 fortread 2
 finickiest 1
 fluctuability
-fusser
+fusser 1
 frugal
 forwardsearch
 fractionized 2
@@ -4812,7 +4812,7 @@ fegary 1
 francisco
 fasciolaria 2
 fancifulness 1
-flinching 1
+flinching 2
 floatiest
 fullwords 2
 faena
@@ -6983,7 +6983,7 @@ festucous
 fetishization 1
 fissicostate 2
 formylation
-foetus
+foetus 1
 foments
 fussiness 1
 fortuity 1
@@ -8343,7 +8343,7 @@ foxglove 1
 ferrule
 fosterage 1
 faultiness 2
-futilize
+futilize 1
 fireboat
 freestyler 1
 fusspots 1
@@ -8549,7 +8549,7 @@ forbearance
 forminate
 forming
 formless 2
-forwoden 1
+forwoden 2
 faveolus 3
 foxtrot 1
 flabbergasted 1
@@ -10345,7 +10345,7 @@ folksongs 1
 fanged
 fingerings 1
 fluormeter 3
-ferrates
+ferrates 1
 furculae 1
 farnesses
 factor 1
@@ -10448,7 +10448,7 @@ firstling 1
 femicide
 forcaria 2
 fertilizer 1
-filesmith 1
+filesmith 2
 feudalistic
 fringeflower 2
 faddier
@@ -11164,7 +11164,7 @@ frumperies
 fidleys 2
 flocculence 1
 fernlike 1
-foederal 1
+foederal 2
 flywire
 fruitiest
 flatworms
@@ -11594,7 +11594,7 @@ forlanas 4
 fragmentation 1
 fusions
 freity 1
-floscular 2
+floscular 3
 fissional
 foregallery
 fussbudgety 3
