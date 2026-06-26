@@ -3906,7 +3906,7 @@ extramural 2
 endexine 1
 emissory 2
 emitting 3
-entamebas 1
+entamebas 2
 electropathic
 effigy
 endocrinologies
@@ -4452,7 +4452,7 @@ endolithic 1
 encephalartos
 encephalasthenia 2
 effloresced
-encephalitic
+encephalitic 1
 executively
 emulators 1
 embryophyta 2
@@ -10365,7 +10365,7 @@ epistolary
 ethnozoology
 evolvers 2
 ethography
-excepter 1
+excepter 2
 entropion 3
 ethnogeographer
 electrocataphoretic 1
