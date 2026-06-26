@@ -920,7 +920,7 @@ aeronomy
 alachah
 akroterion
 anabong
-audiometric
+audiometric 1
 anaemia
 archband
 aures 1
@@ -14355,7 +14355,7 @@ aftergrass 2
 alkahests
 adrop
 augustinianism 2
-affableness
+affableness 1
 anthesterin 1
 antiqued 1
 anthicidae 1
