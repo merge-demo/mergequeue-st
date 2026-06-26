@@ -595,7 +595,7 @@ flavorless 1
 frighter 1
 fragaria
 floodways
-fleshes 1
+fleshes 2
 forehand 2
 folly 1
 farrantly
@@ -1936,7 +1936,7 @@ federalistic
 freight
 furling 1
 fileable 2
-friable 1
+friable 2
 froze 1
 floccule 2
 flaring 1
@@ -8254,7 +8254,7 @@ fruticulose 2
 florence 2
 fundulinae 2
 fringes
-fairyologist
+fairyologist 1
 furlanas
 fuder 1
 flaskets 2
