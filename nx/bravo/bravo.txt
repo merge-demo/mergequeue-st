@@ -408,7 +408,7 @@ burgles 1
 belook
 bacteriorhodopsin 2
 bwana 1
-backlit 1
+backlit 2
 betipple
 bailor
 brigadier 1
@@ -11831,7 +11831,7 @@ blazy
 brachyura
 braking 1
 bepity
-boeing
+boeing 1
 brashes 1
 buttonless
 barfly
