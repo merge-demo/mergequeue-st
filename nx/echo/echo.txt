@@ -1269,7 +1269,7 @@ eucairite 2
 eleonorite
 eoghanacht 1
 epinephrin 2
-epigramme 1
+epigramme 2
 eq 1
 engjateigur 1
 epithalamion 1
@@ -3119,7 +3119,7 @@ elodeas 3
 envisages
 enfaced
 everyman
-etymologist
+etymologist 1
 esthetically 1
 ephebi
 elodes 1
@@ -4779,7 +4779,7 @@ encashing 1
 encountering
 eros 1
 ecclesial 1
-ethical 2
+ethical 3
 ecize
 exhalate 1
 equitable 2
@@ -6806,7 +6806,7 @@ egalitarianism 1
 embarque 2
 extractive 1
 eleusinion
-entomologies 4
+entomologies 5
 entomologised
 emblemized 1
 eelskin 1
@@ -9733,7 +9733,7 @@ exfoliatory
 enchurch 1
 epyllion
 erythronium 1
-equid 1
+equid 2
 elamp 1
 eurhythmy
 exitious 1
