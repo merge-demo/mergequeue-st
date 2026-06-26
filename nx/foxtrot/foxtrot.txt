@@ -366,7 +366,7 @@ fluorides 1
 faintly 2
 ferrymen
 furoid
-fearer
+fearer 1
 filicauline 1
 fall 1
 forbid 1
@@ -1737,7 +1737,7 @@ fossildom 1
 fibropsammoma 1
 fantasmagoric
 frailero 2
-famatinite 1
+famatinite 2
 featheredged 1
 forejudgment 1
 feldspathoidal 1
@@ -8549,7 +8549,7 @@ forbearance
 forminate
 forming
 formless 2
-forwoden 1
+forwoden 2
 faveolus 3
 foxtrot 1
 flabbergasted 1
@@ -11164,7 +11164,7 @@ frumperies
 fidleys 2
 flocculence 1
 fernlike 1
-foederal 1
+foederal 2
 flywire
 fruitiest
 flatworms
