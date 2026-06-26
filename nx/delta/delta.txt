@@ -8892,7 +8892,7 @@ defiatory
 diceras 2
 dmod 1
 dioptidae
-disconnect
+disconnect 1
 dissolvability
 dichas
 demivolts
