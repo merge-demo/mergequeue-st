@@ -2033,7 +2033,7 @@ blea
 bimbo
 believably 2
 bedstand
-brachydiagonal
+brachydiagonal 1
 baniya 1
 baning
 bandcutter 1
@@ -4676,7 +4676,7 @@ bradded 1
 balletomania
 breedling
 bedgowns 1
-bassets 1
+bassets 2
 bedrowse
 bediamonded 1
 blankit
@@ -9832,7 +9832,7 @@ busses
 bitartrate
 beneplacito 1
 blackballing
-bandonion
+bandonion 1
 biteable 2
 begin 1
 bonapartean 1
@@ -16475,7 +16475,7 @@ borneo
 byrling 1
 brashier
 brushwood 1
-brushwork
+brushwork 1
 burdock 1
 beecher 2
 brusker 1
