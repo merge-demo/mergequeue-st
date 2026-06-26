@@ -313,7 +313,7 @@ feods 3
 forces 1
 fail
 fireplough 3
-faineancy 3
+faineancy 4
 fayles
 fimbricated 1
 furcal 1
@@ -3928,7 +3928,7 @@ fraple 1
 french 1
 ferrocyanogen 3
 falsehearted 2
-furrowed
+furrowed 1
 fireboxes
 flemish 3
 frailejon
@@ -8357,7 +8357,7 @@ fod
 fraughan
 fossilising
 fossilizable 3
-familyish 1
+familyish 2
 forhow 2
 ficoidaceae
 facelift 1
@@ -10763,7 +10763,7 @@ forcedly 2
 frustrating 1
 fairing 2
 frustrative 1
-feting 1
+feting 2
 feminized 2
 furfuramid
 frustratory
