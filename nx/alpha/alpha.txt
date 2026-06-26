@@ -1708,7 +1708,7 @@ accueil 1
 acculturated 1
 acculturates
 astr
-anorganic
+anorganic 1
 alkalimeter 2
 arank
 autecologically 1
@@ -19119,7 +19119,7 @@ archvillainy 2
 assuages
 aetosaurian
 analytics
-algorithm
+algorithm 1
 anisylidene 2
 aphoristic
 absorption
