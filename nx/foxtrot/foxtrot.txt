@@ -2103,7 +2103,7 @@ frump 1
 favorless 3
 foins 1
 fleshen
-frument
+frument 1
 fayence 1
 federate
 fermentate 1
@@ -2582,7 +2582,7 @@ fishponds
 feinting 1
 fumes 1
 forechase 1
-fogramity 1
+fogramity 2
 flongs 2
 ferrocyanate
 formicid
@@ -4189,7 +4189,7 @@ forwarn 2
 federals 2
 ferfathmur 2
 featherstitch 1
-foothold
+foothold 1
 flittermmice 1
 featurish 2
 froe 1
