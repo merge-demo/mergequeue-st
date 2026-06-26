@@ -2401,7 +2401,7 @@ ensorcell 1
 events 3
 entrail
 ecraseur 1
-electrodialyze 1
+electrodialyze 2
 essayical
 epistle 1
 eumenidean 1
@@ -3055,7 +3055,7 @@ epicenter 1
 elasticities 1
 ethicizing 2
 evolvements 1
-entocuniform
+entocuniform 1
 electioneered 4
 ella
 exsuccous 1
@@ -7428,7 +7428,7 @@ exorbitantly
 envenomed
 ephippia 1
 enfortune
-earthmover 1
+earthmover 2
 esterify
 endeign
 eugenia 1
