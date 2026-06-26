@@ -15021,7 +15021,7 @@ boatly
 breccias
 blacksmiths 1
 brecham
-barnacling 2
+barnacling 3
 bondelswarts
 brechams
 brechans
@@ -17878,7 +17878,7 @@ batrachium
 bearbush 1
 begowk
 bairnishness
-beholders
+beholders 1
 bolides 1
 breezily 2
 bepaints
