@@ -1648,7 +1648,7 @@ epilemmal 1
 eidograph 1
 eclogues
 esthiomenus
-eases 1
+eases 2
 eligent
 elboic 2
 extinguishes
@@ -2367,7 +2367,7 @@ enfleurage 2
 excathedral
 ectromelia 1
 exanguin 1
-environmentalist 1
+environmentalist 2
 exasperating
 epidotization 1
 exognathion
@@ -3177,7 +3177,7 @@ emmarble
 evinced 3
 egghead
 entertainingness 1
-envisagement 1
+envisagement 2
 eichbergite 1
 eureka
 embosomed 3
@@ -7099,7 +7099,7 @@ egomaniacally 2
 exoner
 episterna 1
 echeneidid
-embarment
+embarment 1
 epistemonic
 eucaryote
 equimolar 3
@@ -10380,7 +10380,7 @@ exophagy
 ecclesiastical 1
 emperorship
 ethologists
-euphonical 1
+euphonical 2
 expediently
 edulcorator
 extremely
@@ -12389,7 +12389,7 @@ etiquettes
 enteromyiasis 1
 emerod 2
 expoliate
-extradictionary
+extradictionary 1
 eurasian 1
 exfoliative 1
 ebbman 1
