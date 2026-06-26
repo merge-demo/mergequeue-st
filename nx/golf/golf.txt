@@ -2771,7 +2771,7 @@ gazettal 1
 gramophonical 1
 grigris
 gormless
-glottalite
+glottalite 1
 gloiopeltis 2
 gentiobiose 2
 galena 4
@@ -8065,7 +8065,7 @@ grayer
 goatbeard 2
 graphologist 1
 glycosides 1
-gongorism
+gongorism 1
 gan 2
 galempung
 galleries
@@ -10408,7 +10408,7 @@ gatecrashers 1
 gadgetries
 gnateater 1
 gillbird 1
-giller 2
+giller 3
 geepound 2
 graphiology
 geographized 1
