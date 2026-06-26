@@ -7528,7 +7528,7 @@ archtreasurer
 albumens
 anotta 1
 albumimeter
-aftership 1
+aftership 2
 appraisers
 armaria 1
 ask 1
@@ -16323,7 +16323,7 @@ aconuresis 1
 aslaver
 antitrades
 aitchless 1
-adamants
+adamants 1
 adenometritis
 accombination 2
 arborvitae
