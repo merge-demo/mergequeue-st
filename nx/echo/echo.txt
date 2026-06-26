@@ -2367,7 +2367,7 @@ enfleurage 2
 excathedral
 ectromelia 1
 exanguin 1
-environmentalist 1
+environmentalist 2
 exasperating
 epidotization 1
 exognathion
@@ -4673,7 +4673,7 @@ encircle 2
 embrowned 1
 ensnow
 emittent 2
-elocutive
+elocutive 1
 entryway 1
 euripides
 electrowin 1
@@ -5150,7 +5150,7 @@ emigrative
 expanses
 endpaper 1
 endorser
-empathizing 1
+empathizing 2
 endolymphatic
 ectobatic 1
 electromagnetic
@@ -5572,7 +5572,7 @@ epicist
 episiostenosis 1
 endoproctous
 entyloma 1
-emus
+emus 1
 europe 1
 epistemology 2
 explodable 1
@@ -5588,7 +5588,7 @@ enlisters
 enfigure 1
 excitable 1
 ensconcing
-extispicy 1
+extispicy 2
 echinoderes 1
 exerting
 elevational 1
@@ -6659,7 +6659,7 @@ enterprize
 expertising 1
 entosclerite 3
 eulogiser 1
-equitation
+equitation 1
 ecrevisse
 epulis 1
 espundia 1
@@ -10380,7 +10380,7 @@ exophagy
 ecclesiastical 1
 emperorship
 ethologists
-euphonical 1
+euphonical 2
 expediently
 edulcorator
 extremely
@@ -10800,7 +10800,7 @@ electrogilding
 exflagellate 2
 endosporic 1
 eumycete 2
-eulogiums 1
+eulogiums 2
 endogenicity
 elaborating 1
 emoting
