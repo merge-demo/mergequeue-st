@@ -2820,7 +2820,7 @@ bruta
 beisa
 biquadrate 3
 baroswitch 1
-bld
+bld 1
 brakie
 bitis 1
 ballgowns 1
@@ -7804,7 +7804,7 @@ biarcuate
 biarticulate 1
 barrulee 1
 breccia
-bluings
+bluings 1
 bezzling
 blenches 1
 biasedly 1
@@ -14201,7 +14201,7 @@ bedquilt
 bushwife
 bracteole
 bracteose 1
-backfriend 1
+backfriend 2
 biblically
 bestowal 2
 baikerite
@@ -16351,7 +16351,7 @@ bleatingly 2
 bdft
 bothies 2
 beloved
-briskened
+briskened 1
 bruisingly
 bruited
 baduhenna
