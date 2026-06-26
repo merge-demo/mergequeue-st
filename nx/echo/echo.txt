@@ -1107,7 +1107,7 @@ environage 2
 edition 2
 endere 1
 editorialization
-elsa
+elsa 1
 ecphory
 expunction
 enclosed 2
@@ -4459,7 +4459,7 @@ embryophyta 2
 encephalographic 1
 episematic
 earlock
-enamelling
+enamelling 1
 euchysiderite 1
 esthesiophysiology
 elsewhat 1
@@ -6806,7 +6806,7 @@ egalitarianism 1
 embarque 2
 extractive 1
 eleusinion
-entomologies 4
+entomologies 5
 entomologised
 emblemized 1
 eelskin 1
@@ -7420,7 +7420,7 @@ eclectist
 extricated
 ephialtes
 exemplifiers 1
-encipherments 1
+encipherments 2
 excusal
 ebenaceae 1
 enif 1
@@ -7625,7 +7625,7 @@ epicuticular
 enoughs
 eightvos 1
 eustele 2
-eugenol
+eugenol 1
 exptl
 embrued
 efoveolate
@@ -9762,7 +9762,7 @@ ejectamenta
 extenuator
 envermeil 2
 emplanement 3
-extracellular
+extracellular 1
 essorant
 echiuroidea
 endarterial 1
@@ -10312,7 +10312,7 @@ eccritic 1
 epifocal
 electuaries 1
 exosmic
-extemporise 2
+extemporise 3
 euryon 2
 exaggerative
 eupomatiaceae
@@ -11288,7 +11288,7 @@ expirable 1
 evanishes 3
 enterostenosis
 extrapoetical 1
-estrogens
+estrogens 1
 enmass
 eschewal
 exterrestrial 1
