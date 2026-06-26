@@ -348,7 +348,7 @@ chlamydes
 citizendom 2
 cacodemonial
 cerviconasal 1
-cacodemonomania 2
+cacodemonomania 3
 cacodyl
 claustrophobic 1
 chevrette
@@ -886,7 +886,7 @@ commendador 1
 cosmothetic
 cayuga 3
 cayugan 1
-cayugas 1
+cayugas 2
 cayuse 1
 cayuses 1
 cajan
@@ -3307,7 +3307,7 @@ centrists
 capitularies 1
 clathrus 1
 clankingness
-cosmetiste 2
+cosmetiste 3
 capitularly 1
 capitulars
 colourability
@@ -4392,7 +4392,7 @@ cyberneticists
 cobwebbed 1
 cityish
 carillons
-carinae 1
+carinae 2
 carinal
 cavum
 carinas 1
@@ -28167,7 +28167,7 @@ craniotopography
 craniums 1
 crankcases
 cristy
-celebres 1
+celebres 2
 cypre 1
 colter
 cuckooed
