@@ -3897,7 +3897,7 @@ findable
 fruz 3
 familiarize
 function
-findhorn
+findhorn 1
 filarees
 fine 1
 fineableness 2
@@ -5635,7 +5635,7 @@ funicular 1
 faddiest 3
 florescent 1
 flightier
-flours
+flours 1
 farmwife 2
 facund
 foetor 3
@@ -6839,7 +6839,7 @@ fustigator
 flipjack 1
 fourhanded
 fabled 2
-furomonazole
+furomonazole 1
 foliary 2
 frescoers
 format 2
@@ -10311,7 +10311,7 @@ fistulatome 2
 flutier 1
 fibro
 foolhardier
-frolicker
+frolicker 1
 frolicking 1
 frillies 1
 forelocks
@@ -11031,7 +11031,7 @@ feuillemorte 3
 famelessness
 funkia 1
 floodlight
-fabliaux 1
+fabliaux 2
 fy 1
 fusuma
 farmery 2
