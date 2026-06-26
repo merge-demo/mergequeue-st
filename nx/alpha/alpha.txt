@@ -4029,7 +4029,7 @@ adlumidine
 amunam
 antepast 1
 audios 1
-autoimmunized 1
+autoimmunized 2
 adlumin
 acierage
 adm 1
@@ -7614,7 +7614,7 @@ allegiant
 autoclastic
 alcalizate
 alcanna
-acardiac
+acardiac 1
 ascophyllum
 anastomos
 astragal
@@ -8596,7 +8596,7 @@ allantoidean
 allantoides
 allantoin 1
 afterings
-analyzer
+analyzer 1
 awfullest 1
 allantoinase
 ampullosity
@@ -8854,7 +8854,7 @@ asthmatics
 accentors
 allocations
 amender 1
-adeptly 2
+adeptly 3
 adamastor
 anaphora
 aditus
@@ -14589,7 +14589,7 @@ aquaplaned
 avesta
 aestival
 antireality
-anthropopathically
+anthropopathically 1
 anteclassical 1
 anthropopathism
 anthropophagy
@@ -19413,7 +19413,7 @@ argentinian 1
 argention
 axonophorous 1
 apish
-antillean 1
+antillean 2
 argentometry 1
 aerocartography
 aday
