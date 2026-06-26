@@ -4032,7 +4032,7 @@ audios 1
 autoimmunized 2
 adlumin
 acierage
-adm 1
+adm 2
 autoalarm 1
 ayelp 2
 abduction 1
@@ -8068,7 +8068,7 @@ apodeixis
 asteraceae 3
 aeger
 allorhythmia
-alectrionidae
+alectrionidae 1
 alexis 1
 admirations 1
 alexius
@@ -9411,7 +9411,7 @@ alphonsin 1
 airproof 1
 advertisement
 alphonsine
-alphosis
+alphosis 1
 assessorial 1
 alveolocondylean 2
 alpieu
@@ -13328,7 +13328,7 @@ aortopathy 1
 anisognathism
 amphodelite 1
 alcoholometry
-anorexia
+anorexia 1
 archiater
 abstemiously
 anisoles
@@ -16574,7 +16574,7 @@ apanaged
 alouatta
 apandry 1
 autolithographic 1
-ach
+ach 1
 anatomic
 athanasy
 annullable 1
@@ -18633,7 +18633,7 @@ aswell
 authoritativeness
 amberlike 1
 archaeolith 1
-archaeologer
+archaeologer 1
 adding
 adiathermal
 artemisic
