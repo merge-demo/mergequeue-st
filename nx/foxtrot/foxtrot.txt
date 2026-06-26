@@ -2103,7 +2103,7 @@ frump 1
 favorless 3
 foins 1
 fleshen
-frument
+frument 1
 fayence 1
 federate
 fermentate 1
@@ -4189,7 +4189,7 @@ forwarn 2
 federals 2
 ferfathmur 2
 featherstitch 1
-foothold
+foothold 1
 flittermmice 1
 featurish 2
 froe 1
@@ -6142,7 +6142,7 @@ fabrique 2
 footblower 1
 featherlike 1
 feely
-fecials 1
+fecials 2
 flouted
 fulminations
 fretish
