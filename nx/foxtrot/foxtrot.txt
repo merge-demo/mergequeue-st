@@ -2758,7 +2758,7 @@ festally
 foremasts 1
 festellae 2
 ficary 2
-faliscan
+faliscan 1
 frizer 1
 freddo
 fibroserous 2
@@ -5339,7 +5339,7 @@ furciform 2
 fleabags
 fireclay
 fluorites 1
-feoffee
+feoffee 1
 fleadock 1
 fleahopper 4
 fatiha 1
@@ -5737,7 +5737,7 @@ feculent 1
 ferulas
 frontis 2
 farding
-foretype 2
+foretype 3
 fleuronnee
 fungous 1
 fuzzball
@@ -5933,7 +5933,7 @@ frats
 fructiferous 1
 flannelflower 1
 fineable 1
-flubdubs
+flubdubs 1
 forestaysail 2
 flowerpots 1
 flooder 4
