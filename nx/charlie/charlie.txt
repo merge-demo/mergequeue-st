@@ -14035,7 +14035,7 @@ cratemaking
 cervicovaginal
 cyprid 1
 cyprididae
-cypridina
+cypridina 1
 caucasoid
 contraregular
 cyprinid 1
@@ -17794,7 +17794,7 @@ cysterethism
 canion 1
 conjunctivitis 2
 codeclination
-codecs 1
+codecs 2
 cellularly
 chawan
 concurrent
@@ -24162,7 +24162,7 @@ chippage 1
 cryptoanalytic
 calcific
 cafeneh
-convexly
+convexly 1
 convexness
 convexo
 convexoconcave 1
@@ -30255,7 +30255,7 @@ cruive
 cruller 3
 chubbedness
 conglobately
-crumb
+crumb 1
 crumbed
 chooky
 corm

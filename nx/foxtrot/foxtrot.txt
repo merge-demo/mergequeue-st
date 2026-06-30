@@ -4448,7 +4448,7 @@ fate
 fooyung
 fishpole
 fishpoles 1
-flueless 3
+flueless 4
 flameproof
 fazed
 flattie 1
@@ -7328,7 +7328,7 @@ fronds 2
 fearnaught 2
 frampold
 favour 1
-fulcrum
+fulcrum 1
 feathered
 focimeter 2
 fiddleheaded
@@ -7441,7 +7441,7 @@ forevalue 1
 firstship
 forcibleness 2
 filosa
-furnacite
+furnacite 1
 fishgarth 2
 francophone 1
 freckliest 4
@@ -10276,7 +10276,7 @@ fibrillations 1
 flakers 1
 frond 1
 franchisee
-fluxmeter
+fluxmeter 1
 finickingness
 figgier 2
 frust 2
@@ -11567,7 +11567,7 @@ freakier 1
 feedback
 forecaddie 1
 friskful 1
-flytier 1
+flytier 2
 fulmar 2
 fasciotomy 2
 futhermore 3
