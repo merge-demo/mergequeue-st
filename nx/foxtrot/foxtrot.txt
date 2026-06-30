@@ -1131,7 +1131,7 @@ feebleminded
 feller 2
 figeaters 2
 flyblows 4
-fragrantness 1
+fragrantness 2
 footy 2
 farthingdeal 1
 funerally 1
@@ -4306,7 +4306,7 @@ fet 2
 fusee 4
 ferd
 flamethrower
-funditor 1
+funditor 2
 fructiferousness 2
 fretworked
 fauces
@@ -8289,7 +8289,7 @@ forgetful 2
 fogdog 1
 fasher 1
 facily 2
-frateries
+frateries 1
 fuchsias 2
 forgetfulness
 forgett 1
@@ -9861,7 +9861,7 @@ fleck 2
 faddist
 farmage 1
 foamy 2
-fretum
+fretum 1
 fidget
 fluors
 fovilla 1
@@ -10752,7 +10752,7 @@ foreyear 3
 follyer 1
 fructified 3
 fascistize 1
-filagree 4
+filagree 5
 fringelike 1
 faenus 1
 flam

@@ -12380,7 +12380,7 @@ axes
 anders 1
 autoirrigation
 adipocerite
-americanism
+americanism 1
 apolytikion
 assiduous
 andesites
@@ -17782,7 +17782,7 @@ archpatron 3
 analysand 1
 aliamenta
 appointing
-artophophoria 1
+artophophoria 2
 appointment
 alburnous
 adonia 1
