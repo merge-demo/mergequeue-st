@@ -3676,7 +3676,7 @@ combativity
 cucumiform
 caraja 1
 carajas
-carambole
+carambole 1
 coextensively
 caramboling
 cardsharper
@@ -6028,7 +6028,7 @@ chalkography
 catholicisation
 chiroplasty
 choreographs
-catholicised
+catholicised 1
 catholicist
 chaitya 1
 coprolagnist 1
@@ -6881,7 +6881,7 @@ celtis
 celtism
 cotyla
 contemporaries
-clockroom
+clockroom 1
 contingencies
 compaction
 caffein
@@ -25351,7 +25351,7 @@ commemorating 1
 causeways 1
 corncakes
 calamined
-cochleas 1
+cochleas 2
 corncobs
 cathin 1
 cubicle
