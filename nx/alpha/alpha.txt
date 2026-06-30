@@ -9736,7 +9736,7 @@ alveoli
 alveoliform 1
 aduncated
 aquatints
-alveololabial 2
+alveololabial 3
 achene 1
 amongst 1
 ambries
@@ -24528,7 +24528,7 @@ autunites 1
 anconitis
 acroconidium
 auxanogram
-auxanometer
+auxanometer 1
 aloins 1
 ayubite
 auxeses
@@ -24756,7 +24756,7 @@ axonost 1
 auscult 1
 aviations 2
 aviatoriality
-aviatress
+aviatress 1
 azotises
 aviatrice 1
 amadan
