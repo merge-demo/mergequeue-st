@@ -9286,7 +9286,7 @@ baffle
 bewearied
 bescouring
 beshrewing 1
-blockader
+blockader 1
 biplane
 byee
 bobolink 1
@@ -12738,7 +12738,7 @@ busters 5
 beheld
 biometrician 1
 bunyoro 2
-bookmakers 1
+bookmakers 2
 bidarka 1
 begarie
 baguet 1
@@ -14108,7 +14108,7 @@ blackberries
 barytine 1
 boarders
 baseball 1
-brachygraphical 1
+brachygraphical 2
 bikol
 berlinite 1
 burkites 2
@@ -17999,7 +17999,7 @@ benzophenoxazine 2
 blanketing
 bilineated
 bonnock 1
-ballyragging
+ballyragging 1
 benzylamine
 battutas 1
 bordman 3
