@@ -574,7 +574,7 @@ egomanias 1
 electrodynamics 1
 effable
 estancia 1
-emblematize 1
+emblematize 2
 echoing 1
 eventration
 echoism 1
@@ -2615,7 +2615,7 @@ exempla 2
 electrophrenic 2
 electroplater 1
 engraved 1
-electropower
+electropower 1
 embodying 3
 excitably
 euphemiously
@@ -3548,7 +3548,7 @@ extortionary 2
 eponyms
 extreme
 entrefer 1
-embolize 1
+embolize 2
 eupeptic 1
 epididymal
 entocone 2
@@ -3998,7 +3998,7 @@ evangelian 3
 estrapade 2
 enage
 extirpated
-epionychia
+epionychia 1
 empexa
 emphasize 1
 emphasized 2
@@ -4031,7 +4031,7 @@ enates 1
 ejaculate 4
 empirema
 estately 2
-exopoditic 1
+exopoditic 2
 elsewhen
 evangelizes
 engirt 3
@@ -5443,7 +5443,7 @@ elasmosaurus
 esterifiable 2
 epiploic 2
 energizes
-electroscopic 1
+electroscopic 2
 entwists 1
 erade
 establismentarianism
@@ -10407,7 +10407,7 @@ exposit
 ecb 1
 evicting 1
 emeute 1
-ectocranial 1
+ectocranial 2
 ensuite
 evacue 2
 endemiological
