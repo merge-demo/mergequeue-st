@@ -2979,7 +2979,7 @@ blackjack
 bromophenol 4
 blennioidea 2
 bacilluria 1
-brattishing 1
+brattishing 2
 broadcasters
 byerlite 2
 barrios 1
@@ -5813,7 +5813,7 @@ biremes 2
 butlerism
 bandstop
 bellyached
-bismethyl
+bismethyl 1
 bellyacher
 banque 1
 bellyaches
@@ -6824,7 +6824,7 @@ bivouac 1
 busboy 1
 battalia
 bitulithic 1
-besagne 2
+besagne 3
 bisexually
 bishopless 2
 besaile 2
@@ -10295,7 +10295,7 @@ befoulers
 blackwater 1
 ballahou
 blackweed
-brachycerous
+brachycerous 1
 bladdery
 biosciences 2
 bladderlike
@@ -14804,7 +14804,7 @@ blacklegs 1
 brightener 1
 bedimplies
 braxy 1
-braxies 1
+braxies 2
 beetlike 2
 brunt 1
 brazenfacedness
@@ -15873,7 +15873,7 @@ benaming
 bromauric
 balu 1
 brecciated 3
-backcloth
+backcloth 1
 boullework
 brombenzamide
 ballottable
