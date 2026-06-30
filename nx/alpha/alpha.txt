@@ -5818,7 +5818,7 @@ agast
 azotine 1
 antismog
 ashmen 1
-awacs
+awacs 1
 apickaback
 auxilium
 ancestor
@@ -12690,7 +12690,7 @@ absorbable 2
 alethoscope
 antitraditionalist
 aspalax 1
-authentications 2
+authentications 3
 addleheadedly
 aperies
 allocators
@@ -14241,7 +14241,7 @@ alkylbenzenesulfonate 2
 antennal
 achech 1
 argalas
-autolavage 1
+autolavage 2
 appliableness 1
 admissible
 avion 1
