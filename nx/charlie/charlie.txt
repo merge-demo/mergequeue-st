@@ -11262,7 +11262,7 @@ chilomata
 chlorinated 1
 chlorinating
 curly
-chlorination
+chlorination 1
 chlorinator 1
 chlorines 1
 chicote 1
@@ -13451,7 +13451,7 @@ camerawork 1
 cig
 cigarette
 cystenchyma
-cigarfish
+cigarfish 1
 counterconversion
 craspedum
 cigarillos
@@ -25393,7 +25393,7 @@ cornetcy
 cornetcies 1
 carlock 1
 chunkier
-cornetist 1
+cornetist 2
 cornetists 1
 cornets 1
 coquette
