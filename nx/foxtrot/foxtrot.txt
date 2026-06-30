@@ -1132,7 +1132,7 @@ feller 2
 figeaters 2
 flyblows 4
 fragrantness 1
-footy 1
+footy 2
 farthingdeal 1
 funerally 1
 frays
@@ -2388,7 +2388,7 @@ friendlier 1
 frondage 2
 feriation 1
 falsedad 2
-flinting
+flinting 1
 flexors 2
 fricandeau 1
 forksful
@@ -5988,7 +5988,7 @@ flutebird 1
 floorcloths 1
 fumid 1
 fluidizing 4
-folkways
+folkways 1
 foreplays 3
 fawny
 fluidrachm
@@ -9115,7 +9115,7 @@ forbruise 1
 foederis
 flautists 1
 falsettos
-folksinger
+folksinger 1
 feedbag 2
 fizzled 3
 finochios
@@ -9640,7 +9640,7 @@ forhooy
 fothering 1
 forehold
 flagellant
-fretting 1
+fretting 2
 florilage
 fussing 1
 fatalists
@@ -9734,7 +9734,7 @@ fanit 1
 fonted
 flied
 feaking 1
-fluing
+fluing 1
 fruitgrower
 furcellaria 2
 feoffor 1
@@ -10972,7 +10972,7 @@ fooled 2
 fishplate
 fulzie
 favositidae 2
-flagellar 1
+flagellar 2
 fourball
 floodless 2
 flubdub 2
