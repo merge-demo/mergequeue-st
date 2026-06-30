@@ -11321,7 +11321,7 @@ emblemology 2
 epoche 1
 ekerite 1
 excoriator 2
-earthbred
+earthbred 1
 evaporators 1
 eir 1
 ecurie
@@ -12475,7 +12475,7 @@ evacuative 1
 eighteen
 endosymbiosis 2
 enlimn 3
-effectuate 1
+effectuate 2
 exhumatory 1
 emancipations
 exfiltrate 1
