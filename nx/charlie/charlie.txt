@@ -3077,7 +3077,7 @@ clarino
 cycadeous 1
 cancroid 3
 canvasado 1
-crownless 1
+crownless 2
 canvasbacks 1
 canvasers 2
 coralroot
@@ -4392,7 +4392,7 @@ cyberneticists
 cobwebbed 1
 cityish
 carillons
-carinae 2
+carinae 3
 carinal
 cavum
 carinas 1
@@ -6670,7 +6670,7 @@ cedrus
 crioceris
 cardiosymphysis 1
 cee 1
-ceibas 1
+ceibas 2
 coracomorphic
 chard
 cursorial
@@ -22358,7 +22358,7 @@ congress
 coxarthropathy
 calcaria
 cylindered
-congresser
+congresser 1
 congresses 1
 cutocellulose
 clatch 1
@@ -26652,7 +26652,7 @@ counselee
 counsellable
 curer
 counsellor 1
-chilopodan
+chilopodan 1
 counselor
 countability
 crankpins
@@ -28154,7 +28154,7 @@ craniopathic 1
 codefendant
 craniopharyngeal
 code
-craniorhachischisis
+craniorhachischisis 1
 clamb
 countercheck
 cranioschisis
