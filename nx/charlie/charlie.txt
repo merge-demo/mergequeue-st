@@ -15261,7 +15261,7 @@ crowhopper
 colters
 clarets
 clamming
-colpotomies
+colpotomies 1
 clammyweed
 clamored
 clamorer
@@ -17404,7 +17404,7 @@ coawareness
 coaxal 1
 coaxation 1
 coaxes 1
-coaxy 1
+coaxy 2
 cordigeri 1
 coaxial
 cellarman
@@ -18054,7 +18054,7 @@ chiffonniers 1
 coalitional 1
 cardiolysis
 coendidae
-congiaries
+congiaries 1
 coendure
 coendures
 coenenchym
@@ -19433,7 +19433,7 @@ carbohydrazide
 cup
 chasty
 crosshaul
-colormaker
+colormaker 1
 cornicing
 colorman 1
 cerealose
@@ -30080,7 +30080,7 @@ conversational
 chattanoogan
 crowbait
 cambeva 1
-centuriate
+centuriate 1
 crowbar
 curlings
 carnivores 1
