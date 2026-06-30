@@ -6639,7 +6639,7 @@ anchoresses
 autobolide 1
 aphroditeum
 antsy
-aiglets
+aiglets 1
 affirms 1
 aigre 1
 abbatial
@@ -14328,7 +14328,7 @@ anthem 1
 anthemas 1
 anthemata
 amugis
-anthemia 1
+anthemia 2
 archebiosis 2
 archflatterer
 anthemion 1
@@ -19209,7 +19209,7 @@ anisopetalous
 acervative
 anchoritic 1
 antiproductively 2
-accidency
+accidency 1
 arder
 angiofibroma 1
 ardhanari
