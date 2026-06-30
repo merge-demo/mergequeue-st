@@ -1500,7 +1500,7 @@ egad 2
 elderlies 1
 encyclopediac
 entomophilous
-egalitarians 2
+egalitarians 3
 evected 2
 egality 1
 examens
@@ -7833,7 +7833,7 @@ epiguanine 1
 elementate
 enablement 1
 eireannach 2
-extincts 2
+extincts 3
 executioner 1
 epihyal 1
 exogonium
@@ -8670,7 +8670,7 @@ eldfather 1
 equiproportional 1
 ebulliently
 equiproportionality
-egocentrism
+egocentrism 1
 eluate
 echelons
 escopet 1
@@ -8998,7 +8998,7 @@ emaciating
 enfeeblement
 exorcized 1
 exponent
-erythritol 1
+erythritol 2
 expurgating 1
 echinulation 1
 ecclesiologic 1
@@ -9072,7 +9072,7 @@ expulse 1
 endothermism 1
 ethnobotanic 1
 exponential
-equipollent 2
+equipollent 3
 epicolic 1
 euryalae 1
 encanker 2
@@ -13310,7 +13310,7 @@ eyedroppers
 euphonium
 egregious
 enflagellation 4
-entozoarian 3
+entozoarian 4
 exhaustlessness
 exploitatory
 endocrinopath 1
