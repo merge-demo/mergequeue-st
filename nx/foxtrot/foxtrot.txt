@@ -1036,7 +1036,7 @@ ferriages 1
 frontons 1
 farrage 1
 ferroelectricity 2
-fleawort
+fleawort 1
 furziest
 farrago 1
 flyted
@@ -7154,7 +7154,7 @@ florivorous 2
 forbathe 3
 forebroads
 forgottenness 1
-frumenties 3
+frumenties 4
 fredaine 1
 foosterer
 footfarer 1
