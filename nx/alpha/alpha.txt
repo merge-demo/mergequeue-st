@@ -1289,7 +1289,7 @@ anucleate
 acontias 1
 arteriodiastasis 1
 acarocecidium 2
-archminister
+archminister 1
 antemask 1
 androlepsia
 amay 1
@@ -5860,7 +5860,7 @@ arctan 1
 alarbus
 agaze 1
 agedness
-agee
+agee 1
 aerugos
 ageing
 ardass
@@ -12873,7 +12873,7 @@ angiotelectasia
 administerd
 angiotenosis 1
 acetopyrin 1
-angiotensinase
+angiotensinase 1
 agrogeologically 1
 armata 2
 ageings 1
@@ -14954,7 +14954,7 @@ apneumatic
 anaphoral
 alkenes 2
 anticlockwise 1
-asphaltum 1
+asphaltum 2
 anticlogging 1
 averroism 1
 anticoagulant 1
