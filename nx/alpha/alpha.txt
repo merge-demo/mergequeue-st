@@ -3287,7 +3287,7 @@ antitank
 aready 1
 abram
 adductors 2
-antilevelling
+antilevelling 1
 accusatorial
 aleberry
 agitprop
@@ -3656,7 +3656,7 @@ assedat
 arabicize
 agora
 adendritic
-akenbold
+akenbold 1
 adenylic
 adulterine
 avichi
@@ -4544,7 +4544,7 @@ agyrate
 aprocta 2
 adventuresomes
 adventuress
-adventuresses 1
+adventuresses 2
 avidiously
 acidimetrically
 alternation
@@ -13890,7 +13890,7 @@ administrator 1
 antilapsarian
 appendiceal 2
 agapemonian 1
-assecurator 1
+assecurator 2
 athletics
 anotus
 alluvial
@@ -14334,7 +14334,7 @@ archflatterer
 anthemion 1
 anthemis
 aecidiomycetes
-antialien
+antialien 1
 antheridia 1
 antherogenous
 aphnology
@@ -17503,7 +17503,7 @@ alteregoism
 appeal 2
 adders
 appealable 1
-askance 1
+askance 2
 acanthodea
 appealingly 1
 agruif
@@ -21177,7 +21177,7 @@ anagogical
 assiduate
 arginases
 atomicism
-aseptolin
+aseptolin 1
 alighted
 adipous 1
 asexualisation
@@ -22945,7 +22945,7 @@ anteriorly 1
 azobenzoic
 apis 1
 alose
-atria
+atria 1
 assigns
 atalayas
 atrial
@@ -23989,7 +23989,7 @@ achatinella 1
 angiometer
 acenaphthenyl 1
 autocatalyses 1
-acclamations 2
+acclamations 3
 aeroacoustic 2
 apsinthion 1
 autocatalyze
