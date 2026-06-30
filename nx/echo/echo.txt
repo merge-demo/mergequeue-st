@@ -2416,7 +2416,7 @@ entophytal 1
 espinel
 eucalyptography 1
 erythematous 1
-euphausid
+euphausid 1
 epitaxial
 etherate
 earthnut 1
@@ -7833,7 +7833,7 @@ epiguanine 1
 elementate
 enablement 1
 eireannach 2
-extincts 2
+extincts 3
 executioner 1
 epihyal 1
 exogonium
@@ -8670,7 +8670,7 @@ eldfather 1
 equiproportional 1
 ebulliently
 equiproportionality
-egocentrism
+egocentrism 1
 eluate
 echelons
 escopet 1
@@ -8998,7 +8998,7 @@ emaciating
 enfeeblement
 exorcized 1
 exponent
-erythritol 1
+erythritol 2
 expurgating 1
 echinulation 1
 ecclesiologic 1
