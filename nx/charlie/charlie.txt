@@ -13451,7 +13451,7 @@ camerawork 1
 cig
 cigarette
 cystenchyma
-cigarfish
+cigarfish 1
 counterconversion
 craspedum
 cigarillos
@@ -16998,7 +16998,7 @@ cyanopathy 1
 cluttered
 clutterment 1
 cm
-coinclude
+coinclude 1
 chm 1
 cmd
 cofferdams
@@ -22658,7 +22658,7 @@ chromochalcography
 connives
 captance
 connivingly
-connochaetes
+connochaetes 1
 counterpleading
 casuarinaceae
 clowning
@@ -25393,7 +25393,7 @@ cornetcy
 cornetcies 1
 carlock 1
 chunkier
-cornetist 1
+cornetist 2
 cornetists 1
 cornets 1
 coquette
