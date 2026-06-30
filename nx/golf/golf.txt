@@ -1636,7 +1636,7 @@ goldarned
 gardeen
 gryphon
 grungiest
-gamuts 1
+gamuts 2
 glaury
 gamelion 2
 gorkiesque 3
@@ -2635,7 +2635,7 @@ gloriosity 2
 gangliectomy
 grubstaker 1
 glyptal
-gervas
+gervas 1
 gardening 1
 gardeviance
 gibbles
@@ -4752,7 +4752,7 @@ gastrosopher
 glady
 gamophagia
 glassen 4
-glans
+glans 1
 goodwilies 1
 guardo 1
 glacieret 3
