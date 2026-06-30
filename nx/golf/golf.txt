@@ -485,7 +485,7 @@ gasifiers 1
 geochronological
 girkin 1
 gravimetrical
-gelatin 1
+gelatin 2
 gye 2
 glaucodot
 gluteus 1
@@ -594,7 +594,7 @@ guaranian 2
 glockenspiels 1
 glossopalatine 3
 grandfathership 2
-grieben
+grieben 1
 guineas 3
 gorgoniacea
 ghostweed 4
@@ -3656,7 +3656,7 @@ goggling 2
 gorble 2
 guppy
 glossiphonia
-goes
+goes 1
 gabbling 2
 gaugership 1
 grumpier
