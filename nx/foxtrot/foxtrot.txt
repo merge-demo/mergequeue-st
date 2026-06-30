@@ -2388,7 +2388,7 @@ friendlier 1
 frondage 2
 feriation 1
 falsedad 2
-flinting
+flinting 1
 flexors 2
 fricandeau 1
 forksful
@@ -8232,7 +8232,7 @@ frailest 1
 flakier
 forewritten 1
 fundamentals
-forgeries 1
+forgeries 2
 fatigated 2
 fictioneer 2
 feudalities 1
@@ -9115,7 +9115,7 @@ forbruise 1
 foederis
 flautists 1
 falsettos
-folksinger
+folksinger 1
 feedbag 2
 fizzled 3
 finochios
@@ -9640,7 +9640,7 @@ forhooy
 fothering 1
 forehold
 flagellant
-fretting 1
+fretting 2
 florilage
 fussing 1
 fatalists
@@ -11064,7 +11064,7 @@ fabella 2
 frontolysis
 fancies 1
 flanerie 1
-fumishing 2
+fumishing 3
 friendliness 1
 fermented 1
 fungated 1
