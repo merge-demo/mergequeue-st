@@ -1844,7 +1844,7 @@ frilly 1
 frictions
 fore 1
 fluoroid
-feastless
+feastless 1
 fayettism 1
 feloid 1
 febrile
@@ -5354,7 +5354,7 @@ foggily 2
 feedbin
 fettles
 frayn
-flanken 4
+flanken 5
 feebleness 1
 fullmouth 1
 fascia 1
@@ -10278,7 +10278,7 @@ frond 1
 franchisee
 fluxmeter 1
 finickingness
-figgier 2
+figgier 3
 frust 2
 fgrid 2
 floperoo 1
@@ -11748,7 +11748,7 @@ finitely 2
 foghorn
 flanking 1
 fatherland
-followings 2
+followings 3
 factorage 1
 fumados 2
 fuzees 1
