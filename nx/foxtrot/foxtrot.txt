@@ -2216,7 +2216,7 @@ fruiting
 fragrancy
 feminility 1
 feminin
-fondlesome
+fondlesome 1
 fluorinates 1
 fertilise 2
 foals 1
@@ -6176,7 +6176,7 @@ fluohydric 1
 furnacemen 1
 fingerspin
 flowerwork 1
-finnicking
+finnicking 1
 flowingness 1
 facilitates 1
 fimetarious 1
@@ -7328,7 +7328,7 @@ fronds 2
 fearnaught 2
 frampold
 favour 1
-fulcrum
+fulcrum 1
 feathered
 focimeter 2
 fiddleheaded
@@ -9492,7 +9492,7 @@ faux 1
 furcae
 falconbill 2
 familial 1
-foeticide 1
+foeticide 2
 fico
 flamens 1
 fratry 2
@@ -10920,7 +10920,7 @@ fulled
 feeing 2
 fieldwort
 fliskier
-forsworn 1
+forsworn 2
 falloffs 1
 fides
 fulleries
