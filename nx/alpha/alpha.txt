@@ -3656,7 +3656,7 @@ assedat
 arabicize
 agora
 adendritic
-akenbold
+akenbold 1
 adenylic
 adulterine
 avichi
@@ -4544,7 +4544,7 @@ agyrate
 aprocta 2
 adventuresomes
 adventuress
-adventuresses 1
+adventuresses 2
 avidiously
 acidimetrically
 alternation
@@ -9736,7 +9736,7 @@ alveoli
 alveoliform 1
 aduncated
 aquatints
-alveololabial 2
+alveololabial 3
 achene 1
 amongst 1
 ambries
@@ -14334,7 +14334,7 @@ archflatterer
 anthemion 1
 anthemis
 aecidiomycetes
-antialien
+antialien 1
 antheridia 1
 antherogenous
 aphnology
@@ -17503,7 +17503,7 @@ alteregoism
 appeal 2
 adders
 appealable 1
-askance 1
+askance 2
 acanthodea
 appealingly 1
 agruif
@@ -22945,7 +22945,7 @@ anteriorly 1
 azobenzoic
 apis 1
 alose
-atria
+atria 1
 assigns
 atalayas
 atrial
@@ -23989,7 +23989,7 @@ achatinella 1
 angiometer
 acenaphthenyl 1
 autocatalyses 1
-acclamations 2
+acclamations 3
 aeroacoustic 2
 apsinthion 1
 autocatalyze
@@ -24528,7 +24528,7 @@ autunites 1
 anconitis
 acroconidium
 auxanogram
-auxanometer
+auxanometer 1
 aloins 1
 ayubite
 auxeses
@@ -24756,7 +24756,7 @@ axonost 1
 auscult 1
 aviations 2
 aviatoriality
-aviatress
+aviatress 1
 azotises
 aviatrice 1
 amadan
