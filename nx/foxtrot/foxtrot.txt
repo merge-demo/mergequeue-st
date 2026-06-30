@@ -3612,7 +3612,7 @@ fableland
 fundal
 fogus
 fanwort 1
-figurize 2
+figurize 3
 filibusterers
 fourble
 fomento 2
@@ -4472,7 +4472,7 @@ fishberry
 fashioned 1
 factorize 3
 furthermost 1
-fleshing
+fleshing 1
 foreloop
 fishspear 3
 fantocine 3
@@ -8857,7 +8857,7 @@ frailes 2
 fetchers 1
 flotillas
 fossage 4
-fanlight 1
+fanlight 2
 female 1
 fearable
 flexured 1
@@ -10852,7 +10852,7 @@ failures
 formicarioid 5
 fortescure
 fulcruming 1
-feeable 4
+feeable 5
 fanatical 2
 fulfiller 1
 flambeaux 2
