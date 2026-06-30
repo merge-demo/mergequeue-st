@@ -1844,7 +1844,7 @@ frilly 1
 frictions
 fore 1
 fluoroid
-feastless
+feastless 1
 fayettism 1
 feloid 1
 febrile
@@ -10278,7 +10278,7 @@ frond 1
 franchisee
 fluxmeter 1
 finickingness
-figgier 2
+figgier 3
 frust 2
 fgrid 2
 floperoo 1
@@ -11692,7 +11692,7 @@ flare 1
 flyleaves 1
 fagaceous
 faced 1
-flippancy
+flippancy 1
 fanlights 2
 flapcake 2
 foredispose 1
