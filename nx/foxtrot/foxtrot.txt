@@ -2523,7 +2523,7 @@ feudal
 fastballs 1
 frush
 flunky 2
-foulmouth
+foulmouth 1
 formaldehyde
 feverlike 1
 frondescent 1
@@ -7285,7 +7285,7 @@ freshment
 fibrilations 1
 fossilism 1
 filefish
-frache 1
+frache 2
 fenestral 1
 fluff
 fagald
@@ -11527,7 +11527,7 @@ fra 2
 foretopmen 1
 floodable
 flixweed
-finalis 2
+finalis 3
 fissidactyl
 fireflaught
 foldout 1
