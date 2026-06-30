@@ -2758,7 +2758,7 @@ festally
 foremasts 1
 festellae 2
 ficary 2
-faliscan
+faliscan 1
 frizer 1
 freddo
 fibroserous 2
@@ -3807,7 +3807,7 @@ furnitureless
 fixates 1
 filterableness 1
 fractable 2
-fairyism
+fairyism 1
 flusker 1
 fluoridisation 2
 flebotomy
@@ -5364,7 +5364,7 @@ ferulaic
 foldboater
 fascicular
 foreclosed
-fissured
+fissured 1
 faconde
 filters
 floccillation
@@ -5737,7 +5737,7 @@ feculent 1
 ferulas
 frontis 2
 farding
-foretype 2
+foretype 3
 fleuronnee
 fungous 1
 fuzzball
@@ -5933,7 +5933,7 @@ frats
 fructiferous 1
 flannelflower 1
 fineable 1
-flubdubs
+flubdubs 1
 forestaysail 2
 flowerpots 1
 flooder 4
@@ -7653,7 +7653,7 @@ facsimiling 1
 fools 3
 faluns 2
 fubby 1
-fatiscent 1
+fatiscent 2
 flames 1
 forefield 1
 foreorlop 2
