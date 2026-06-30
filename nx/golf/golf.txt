@@ -2602,7 +2602,7 @@ givens 1
 granitize
 gruesomest 2
 grendel 2
-gibbetting 1
+gibbetting 2
 generationism 1
 geomorphist 1
 gypsyweed 1
@@ -2677,7 +2677,7 @@ granularity 2
 gingers
 gascoign 1
 geek 1
-genip 2
+genip 3
 gilbertese 2
 genyplasty 2
 glashan 1
@@ -4099,7 +4099,7 @@ gratewise 1
 gilding 1
 gypsum 2
 gouda 1
-guarapo
+guarapo 1
 globuloid 1
 gelinotte
 graphemic
@@ -5689,7 +5689,7 @@ glossiest
 gybed 1
 glossinas
 gertrude 2
-glowbard
+glowbard 1
 glimmeringly 1
 gloveress 1
 gimmaled
@@ -6676,7 +6676,7 @@ growable 2
 gromatic 1
 geochronometry
 gibbergunyah 1
-grattage
+grattage 1
 gewgawed 2
 growse 2
 grittle
@@ -10046,7 +10046,7 @@ gossypols 2
 guerison
 guerites 2
 gage
-graveolency 1
+graveolency 2
 gravedigger
 gelofer 1
 gimmal 1
