@@ -4223,7 +4223,7 @@ beaucoup
 beaued
 bowdlerizing
 brl
-besmudges
+besmudges 1
 bibliomaniac 1
 bulbonuclear
 beaumont
@@ -5912,7 +5912,7 @@ beprose 4
 blisses
 backslap 1
 belostomatidae
-besleeve
+besleeve 1
 bisnagas 1
 bouillabaisse
 belotte
@@ -9329,7 +9329,7 @@ bayldonite
 bifolia
 bloviating 1
 beany
-bawdry
+bawdry 1
 bklr
 baldricked
 buzuki 1
@@ -16794,7 +16794,7 @@ bulltoad 1
 budgerow 1
 bowdlerizer 2
 balanoposthitis
-brujo
+brujo 1
 budgeter 2
 beyrichite 1
 bioassayed
