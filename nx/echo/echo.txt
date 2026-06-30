@@ -398,7 +398,7 @@ eulerian 3
 evangelist 1
 entrenching 1
 extruct
-erythrinus 1
+erythrinus 2
 espanol 1
 echowise
 essera 1
@@ -574,7 +574,7 @@ egomanias 1
 electrodynamics 1
 effable
 estancia 1
-emblematize 1
+emblematize 2
 echoing 1
 eventration
 echoism 1
@@ -2615,7 +2615,7 @@ exempla 2
 electrophrenic 2
 electroplater 1
 engraved 1
-electropower
+electropower 1
 embodying 3
 excitably
 euphemiously
@@ -3098,7 +3098,7 @@ encrease 2
 extraparietal 1
 elm 1
 excursiveness
-educing
+educing 1
 epistolographist
 edgewise 1
 euectic
