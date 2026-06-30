@@ -1762,7 +1762,7 @@ genealogizer 1
 gastroscopist 1
 gavelled 1
 gasterosteid 1
-gynandrism 1
+gynandrism 2
 gutterblood 2
 gelatinotype 2
 grippelike 1
@@ -3084,7 +3084,7 @@ grangers 3
 girlhoods
 guaniferous 1
 glucina 2
-geopotential
+geopotential 1
 gelosin
 grassplot 4
 georgemas
@@ -4043,7 +4043,7 @@ goosemouth 2
 gaulic 2
 gamekeeper 2
 gaufer 1
-gimleteyed 1
+gimleteyed 2
 gudget
 glorification
 goneoclinic
