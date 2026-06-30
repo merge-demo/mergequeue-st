@@ -4017,7 +4017,7 @@ enwind
 evirato 2
 extensibleness
 epirogenetic 2
-evaporative 1
+evaporative 2
 exedent 1
 evidenced 1
 esuriency 1
@@ -7966,7 +7966,7 @@ enigmaticalness 2
 exscript
 epigonal 1
 ehtanethial 1
-enoplion 1
+enoplion 2
 employers 1
 eeriness 1
 eliminators
@@ -11321,7 +11321,7 @@ emblemology 2
 epoche 1
 ekerite 1
 excoriator 2
-earthbred
+earthbred 1
 evaporators 1
 eir 1
 ecurie
