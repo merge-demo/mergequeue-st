@@ -8091,7 +8091,7 @@ biometrics 1
 bridecup
 bellypinch
 brogue
-breathing
+breathing 1
 borshts
 biculturalism 2
 billeters 2
@@ -11605,7 +11605,7 @@ brooklime 2
 bushwhackers
 becomma
 badgeman 1
-baggageman
+baggageman 1
 boa
 brushite
 budgeted
