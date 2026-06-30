@@ -1294,7 +1294,7 @@ exumbrellar 1
 effect 1
 endocardiac
 exopeptidase 1
-effective 1
+effective 2
 euryphagous 2
 exposure
 ecuadoran 2
@@ -5785,7 +5785,7 @@ engrammic 2
 estrangement 1
 equestrienne
 epopees 2
-endomysial
+endomysial 1
 explanation
 epicranius
 engouement
@@ -6123,7 +6123,7 @@ enmity 1
 eparchean
 entracte 1
 embattles 3
-ethicizes
+ethicizes 1
 enmove
 emusified 1
 elans 1
@@ -8322,7 +8322,7 @@ epityphlitis
 erythrosinophile 2
 evolutional 1
 expeding
-epicontinental
+epicontinental 1
 erosive 1
 endogenetic
 electrobiology 4
@@ -8998,7 +8998,7 @@ emaciating
 enfeeblement
 exorcized 1
 exponent
-erythritol 1
+erythritol 2
 expurgating 1
 echinulation 1
 ecclesiologic 1
@@ -9602,7 +9602,7 @@ eventless 3
 eternalise 1
 espada
 ethanethial 2
-esurine
+esurine 1
 enlarging 2
 espadon 1
 effervescible 4
