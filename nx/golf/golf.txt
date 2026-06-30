@@ -180,7 +180,7 @@ goaled
 gammacism 1
 groschen 2
 gelled 2
-garred
+garred 1
 grangerized 1
 going 1
 glaky
@@ -2602,7 +2602,7 @@ givens 1
 granitize
 gruesomest 2
 grendel 2
-gibbetting 1
+gibbetting 2
 generationism 1
 geomorphist 1
 gypsyweed 1
@@ -5360,7 +5360,7 @@ genealogize 2
 glimmer 2
 groundswell
 glutinant
-glucosid 2
+glucosid 3
 gutwise 1
 gyring
 glycaemic 3
@@ -7147,7 +7147,7 @@ goldenness 1
 guango 1
 gingerbready
 giggler
-grimacing 1
+grimacing 2
 gambias
 gastrotaxis 2
 gabbros 1
@@ -8989,7 +8989,7 @@ griding 1
 galvo
 greyhens
 gravenstein
-gardencraft 1
+gardencraft 2
 greenbul
 glenlivet
 gibbier 1
