@@ -554,7 +554,7 @@ bernard 2
 blit 2
 backwardness 1
 belgium 1
-bakerlike 1
+bakerlike 2
 bootboy
 blackie
 burrock
@@ -1026,7 +1026,7 @@ bolling 1
 boti
 bibliology 1
 bioavailability 1
-butadiene 2
+butadiene 3
 baiginet
 brichen 1
 bronchiocrisis 2
@@ -2856,7 +2856,7 @@ birders 1
 blanchi
 biochemistry 1
 bulgarians 1
-buckwashing
+buckwashing 1
 bursted 1
 barracouta 1
 brushlessness
@@ -6213,7 +6213,7 @@ buckjumper 1
 benight 1
 buzzed 1
 bandalore
-bet
+bet 1
 barked 1
 brittlestem
 basidiolichenes 1
@@ -7132,7 +7132,7 @@ batidaceae 1
 bursate 1
 bocking
 blotchiest
-blowy
+blowy 1
 betongue
 besprinkle 1
 bandhor 1
@@ -8786,7 +8786,7 @@ broker 2
 bookkeep
 bindingness
 breakfasted 1
-bekissing
+bekissing 1
 basoche
 bual
 brewer
@@ -10416,7 +10416,7 @@ buonamano
 botong
 blanketlike
 brimborion 1
-blankets 1
+blankets 2
 bhoot
 brisement
 blankish 1
@@ -10566,7 +10566,7 @@ blately 1
 blateness
 bhisti
 brasseys
-bugshas
+bugshas 1
 browallia
 bilo
 blathered
@@ -12103,7 +12103,7 @@ bartsia
 balmacaan
 biglenoid
 bolboxalis
-bummers
+bummers 1
 blushingly
 biosatellites 2
 berun 1
@@ -13345,7 +13345,7 @@ benadryl 1
 bridgeman
 botcheries 2
 botcherly
-bitterbump 2
+bitterbump 3
 botchy
 botchily
 becrimson
@@ -16544,7 +16544,7 @@ brutify 1
 bathorse
 bargeese
 barbarianize
-brownish
+brownish 1
 biflorate
 backbiters
 bushmen 1
@@ -17253,7 +17253,7 @@ borley
 bubingas 1
 blepharolithiasis
 bedriveled
-barriness
+barriness 1
 bearbind 1
 blamably
 bawlers
