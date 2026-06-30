@@ -2602,7 +2602,7 @@ givens 1
 granitize
 gruesomest 2
 grendel 2
-gibbetting 1
+gibbetting 2
 generationism 1
 geomorphist 1
 gypsyweed 1
@@ -3904,10 +3904,10 @@ gigawatts 1
 glossoscopia
 geoty 1
 guazuma 1
-gads
+gads 1
 genecologist 2
 gorgoneioneia
-gastrological
+gastrological 1
 ged 2
 giggliest 1
 geds 1
@@ -6401,7 +6401,7 @@ grieshoch 1
 globuliferous 2
 girlchild 1
 gamecock
-goitral 1
+goitral 2
 guam
 gamboges
 gaine
