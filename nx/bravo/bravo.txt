@@ -1678,7 +1678,7 @@ broomrape
 braizes
 bambara 1
 barbuts
-bestrews
+bestrews 1
 blandiloquious
 bradburya
 bogtrot
@@ -6767,7 +6767,7 @@ busulfan
 busying 1
 berrichonne 1
 bandleader 1
-bosquet
+bosquet 1
 bridgebuilding 2
 berrier 1
 berries 1
@@ -7199,7 +7199,7 @@ bagginess
 bestiary 1
 backdating
 byelorussia
-blastomeric 1
+blastomeric 2
 bullhorn
 bestiarian 2
 bestiarist 2
@@ -11114,7 +11114,7 @@ buoyance
 blazes
 bodikin
 backbreaking 1
-barbero
+barbero 1
 beshrouds
 berengena
 bidpai
@@ -14033,7 +14033,7 @@ boarishly 1
 bracery
 blankeel
 belaboured 1
-barriguda 1
+barriguda 2
 braceros
 butcherbroom 2
 bacchanalism 1
@@ -14616,7 +14616,7 @@ belue 1
 balladeers 1
 boletuses 1
 broncobuster 1
-beys 2
+beys 3
 bellyband 1
 biliousness
 betrumpet
