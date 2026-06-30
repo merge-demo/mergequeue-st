@@ -1325,7 +1325,7 @@ electrochronometer
 escheve 1
 especial 2
 explosives
-eelspear
+eelspear 1
 effeminising
 exsolved 1
 effeminize 3
@@ -3822,7 +3822,7 @@ emerying
 estatesmen 2
 emeril
 exarticulate 4
-einkanter
+einkanter 1
 encyclopediast 1
 emerituti 1
 emasculate 1
@@ -9146,7 +9146,7 @@ epiloguize
 ectoenzyme
 ectocinerea
 encolor 2
-ergatomorphism
+ergatomorphism 1
 ernes
 erode 2
 eosinophilic 1
@@ -10708,7 +10708,7 @@ ensigning 2
 embraced
 endopleural 1
 enroll
-eloin 2
+eloin 3
 euripus
 erebus
 euglenoid 3
@@ -13950,7 +13950,7 @@ extorter 1
 ectoderm
 ecstatical 2
 eburnated 2
-electee 1
+electee 2
 epimerizing 1
 errordump
 extramusical
