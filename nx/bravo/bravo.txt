@@ -4610,7 +4610,7 @@ bedtick 1
 bedchair
 bacchic
 butterine
-bedchairs
+bedchairs 1
 brocaded 1
 buffers 1
 bellowing
