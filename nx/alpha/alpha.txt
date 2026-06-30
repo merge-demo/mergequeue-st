@@ -3216,7 +3216,7 @@ aweather
 ahungered 2
 apostrophized
 actives
-apparency 1
+apparency 2
 attunely
 activin 1
 activism 1
@@ -3897,7 +3897,7 @@ amati 1
 aziola
 antitropous 1
 ambulacral 1
-angiorrhexis
+angiorrhexis 1
 adipoma
 autocracies 1
 arrish
@@ -4358,7 +4358,7 @@ aeration
 aumbry
 aphetic
 adrift 1
-azoimide
+azoimide 1
 antipopular
 acerbas 1
 apocrine 1
@@ -10288,7 +10288,7 @@ amelcorn 1
 alchemister
 amelet 1
 ameliorableness
-applemonger
+applemonger 1
 amylocellulose 1
 anhydrated
 acidific 1
@@ -15752,7 +15752,7 @@ amorino
 aggravatingly 2
 antipatriarch
 antipatriarchy
-apimania
+apimania 1
 aurinasal
 antipatriot
 antipatriotic
@@ -20238,7 +20238,7 @@ alimonied
 arrivist 1
 acropodia
 amphiblastula
-archisymbolical
+archisymbolical 1
 accumber
 antinomian
 alluvio
