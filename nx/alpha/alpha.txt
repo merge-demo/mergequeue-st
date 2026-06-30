@@ -7343,7 +7343,7 @@ angioplerosis 1
 alba
 athrob
 atom 1
-aftertastes 1
+aftertastes 2
 antihemophilic
 arzava
 artlet
@@ -22529,7 +22529,7 @@ antivirotic
 accessioned
 atavi
 anansi
-atavic
+atavic 1
 atmoclastic
 annihilation
 acquiescently

@@ -1669,7 +1669,7 @@ eyebalm 1
 estraying 1
 electromotograph 1
 eyeberry 2
-ethnohistorical 3
+ethnohistorical 4
 envassal
 essentialist 1
 entoptically
@@ -5438,7 +5438,7 @@ endotheliomyxoma 2
 examinee 1
 egging
 energizers
-eosinophilia
+eosinophilia 1
 elasmosaurus
 esterifiable 2
 epiploic 2
@@ -10281,7 +10281,7 @@ ethmofrontal 1
 esquamate
 empemata
 enteromycosis 2
-escorial
+escorial 1
 emulsifiability
 ethylamine 1
 extralite 1
@@ -13707,7 +13707,7 @@ enramada 1
 endorsors 2
 epistemologist
 erratum 1
-epistolizable 1
+epistolizable 2
 exteriorness 1
 ether 1
 espec 1
