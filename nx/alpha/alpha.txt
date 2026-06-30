@@ -3656,7 +3656,7 @@ assedat
 arabicize
 agora
 adendritic
-akenbold
+akenbold 1
 adenylic
 adulterine
 avichi
@@ -4544,7 +4544,7 @@ agyrate
 aprocta 2
 adventuresomes
 adventuress
-adventuresses 1
+adventuresses 2
 avidiously
 acidimetrically
 alternation
@@ -17503,7 +17503,7 @@ alteregoism
 appeal 2
 adders
 appealable 1
-askance 1
+askance 2
 acanthodea
 appealingly 1
 agruif
@@ -23989,7 +23989,7 @@ achatinella 1
 angiometer
 acenaphthenyl 1
 autocatalyses 1
-acclamations 2
+acclamations 3
 aeroacoustic 2
 apsinthion 1
 autocatalyze
