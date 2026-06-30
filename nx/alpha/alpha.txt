@@ -7712,7 +7712,7 @@ autoprothesis
 autoconverter 1
 asterin
 alcoholysis 1
-albatrosses 1
+albatrosses 2
 aguinaldos
 aspirins
 amygdalopathy
@@ -10888,7 +10888,7 @@ ammoniated 1
 ammoniating
 antioxygenator
 ammoniation 1
-ammonical 1
+ammonical 2
 alienness
 ascendible
 atonic 1
@@ -14518,7 +14518,7 @@ antimorality
 anthropocentric 1
 acetaldehydase
 almoign
-anthropodeoxycholic 1
+anthropodeoxycholic 2
 achenium
 animadverts 1
 addictiveness
@@ -15605,7 +15605,7 @@ accrescence 1
 amalgamations
 armory
 antimusically
-animalculous
+animalculous 1
 aceldama 1
 afront
 antimusicalness
@@ -16906,7 +16906,7 @@ apigenin
 apii
 apikores 1
 apprehender 1
-alluringness
+alluringness 1
 apimanias
 acocanthera
 apina
@@ -17486,7 +17486,7 @@ airify 1
 anoxyscope
 apparently 1
 apparitional 2
-aira
+aira 1
 as 1
 appassionata 2
 adaptitude
@@ -17897,7 +17897,7 @@ ataxic
 anteroposteriorly 1
 allodesmism
 appressorium 1
-abhorred
+abhorred 1
 appreteur 1
 atloidoaxoid 2
 akinetic
@@ -18486,7 +18486,7 @@ arbitrative
 apotype 1
 appetent 1
 arteriogram 1
-aruspices
+aruspices 1
 aljamado 1
 antitobacco
 abstained 2
@@ -19500,7 +19500,7 @@ anecdotal
 argonautid 1
 argonne
 argons
-argosy
+argosy 1
 archaizes 1
 acanthuses
 argots
@@ -22156,7 +22156,7 @@ amoeboid
 anarchically
 abampere
 audiograms 1
-advertent 1
+advertent 2
 asthenical 1
 arpeggiando 1
 altissimo 2
@@ -23662,7 +23662,7 @@ archicyte
 aurichloride
 auricyanhydric 2
 anapaests
-alumroots 2
+alumroots 3
 atpoints
 allotropicity 1
 antiexpressively
