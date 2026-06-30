@@ -3287,7 +3287,7 @@ antitank
 aready 1
 abram
 adductors 2
-antilevelling
+antilevelling 1
 accusatorial
 aleberry
 agitprop
