@@ -5110,7 +5110,7 @@ beflag
 bamboo 1
 binits
 basilicon 1
-beflagged
+beflagged 1
 biopoiesis
 broidering
 burrows 1
@@ -8222,7 +8222,7 @@ biflabellate
 blowtorch
 biflagelate
 bewaring
-borrow
+borrow 1
 biflex
 benchfellow 2
 beginger 1
