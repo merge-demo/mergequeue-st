@@ -575,7 +575,7 @@ electrodynamics 1
 effable
 estancia 1
 emblematize 2
-echoing 1
+echoing 2
 eventration
 echoism 1
 enhydros 1
@@ -1008,7 +1008,7 @@ electrohorticulture
 euthenasia
 expansionists
 epigonation
-egilops 2
+egilops 3
 etatisme 2
 earhole 2
 edentata 1
@@ -5637,7 +5637,7 @@ esurience
 evangelicals 1
 exomorphism 1
 euploid 3
-extrarenal
+extrarenal 1
 endophasic 1
 erotism 1
 entrough
@@ -6683,7 +6683,7 @@ eurytherm 1
 epistrophy 1
 enthelminthic 1
 echolocate 1
-effume
+effume 1
 ectosomal
 extratarsal
 esthesioneurosis
@@ -14046,7 +14046,7 @@ extractorship
 extrasterile 2
 extrastomachal 2
 ethmolith
-echeneidoid 1
+echeneidoid 2
 elocutionist 1
 esterase 1
 endopterygotous
