@@ -485,7 +485,7 @@ gasifiers 1
 geochronological
 girkin 1
 gravimetrical
-gelatin 1
+gelatin 2
 gye 2
 glaucodot
 gluteus 1
@@ -3656,7 +3656,7 @@ goggling 2
 gorble 2
 guppy
 glossiphonia
-goes
+goes 1
 gabbling 2
 gaugership 1
 grumpier
@@ -9553,7 +9553,7 @@ gingeley 1
 glycans
 glume 1
 gastornithidae 1
-groved
+groved 1
 greenskeeper
 goggler
 gur 2
