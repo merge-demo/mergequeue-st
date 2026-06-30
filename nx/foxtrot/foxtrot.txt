@@ -3303,7 +3303,7 @@ foreward
 foamingly 1
 flasket 1
 foreconscious
-facewise
+facewise 1
 ferrohydrocyanic
 flabellate
 fossilologist
@@ -6036,7 +6036,7 @@ fontange 1
 foggier 3
 forgab
 forespeech 3
-frontooccipital 1
+frontooccipital 2
 flanker 3
 fictionise
 fluoresce 2
@@ -7437,7 +7437,7 @@ fillemot
 faience
 firefall 3
 france
-forevalue
+forevalue 1
 firstship
 forcibleness 2
 filosa
@@ -10752,7 +10752,7 @@ foreyear 3
 follyer 1
 fructified 3
 fascistize 1
-filagree 4
+filagree 5
 fringelike 1
 faenus 1
 flam
