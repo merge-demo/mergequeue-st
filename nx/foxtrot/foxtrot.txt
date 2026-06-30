@@ -1036,7 +1036,7 @@ ferriages 1
 frontons 1
 farrage 1
 ferroelectricity 2
-fleawort
+fleawort 1
 furziest
 farrago 1
 flyted
@@ -5184,7 +5184,7 @@ flangeway 1
 futter
 footpaddery
 filamentar
-francolin 1
+francolin 2
 frozenhearted 1
 fedifragous
 furmente 4
@@ -7294,7 +7294,7 @@ forsaking 5
 fishyard 1
 footwarmers 1
 fibulocalcaneal
-fidelity 1
+fidelity 2
 fishmonger 1
 fozy
 flavobacteria
@@ -8389,7 +8389,7 @@ flaking 2
 fils 1
 furriner
 flagellata 1
-forkedness 2
+forkedness 3
 flinthearted
 folderol
 feastful 1
