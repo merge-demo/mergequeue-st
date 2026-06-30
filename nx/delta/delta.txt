@@ -9925,7 +9925,7 @@ dissinew 1
 decimeter 2
 downcourt 2
 dodecatoic 1
-dipneustal
+dipneustal 1
 dogmata
 diminisher 1
 dezinc 1
@@ -16990,7 +16990,7 @@ demihorse
 dullness
 downcurve 2
 dredgeful 2
-disintegrate
+disintegrate 1
 discerp 1
 dithery
 dredgers 1
