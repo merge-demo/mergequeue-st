@@ -9869,7 +9869,7 @@ desilicification
 dimensionally 1
 dimensioning 1
 dimensum 2
-disangularize 2
+disangularize 3
 dimer
 decadency
 deludable 1
@@ -17367,7 +17367,7 @@ dilatational 1
 decennaries
 droolier 1
 dorts
-deynt
+deynt 1
 drooper 1
 dismays 1
 doggerels
