@@ -8867,7 +8867,7 @@ feucht
 frigorimeter 3
 fluidible
 flighthead 3
-flushgate
+flushgate 1
 farmers 1
 forespoke
 fricandoes 2
