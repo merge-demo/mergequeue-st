@@ -3303,7 +3303,7 @@ foreward
 foamingly 1
 flasket 1
 foreconscious
-facewise
+facewise 1
 ferrohydrocyanic
 flabellate
 fossilologist
@@ -4702,7 +4702,7 @@ feed
 forsake
 fjord 3
 fizziest
-friand
+friand 1
 fluidram
 forte 2
 formula 1
@@ -6036,7 +6036,7 @@ fontange 1
 foggier 3
 forgab
 forespeech 3
-frontooccipital 1
+frontooccipital 2
 flanker 3
 fictionise
 fluoresce 2
@@ -7437,7 +7437,7 @@ fillemot
 faience
 firefall 3
 france
-forevalue
+forevalue 1
 firstship
 forcibleness 2
 filosa
