@@ -3612,7 +3612,7 @@ fableland
 fundal
 fogus
 fanwort 1
-figurize 2
+figurize 3
 filibusterers
 fourble
 fomento 2
@@ -4472,7 +4472,7 @@ fishberry
 fashioned 1
 factorize 3
 furthermost 1
-fleshing
+fleshing 1
 foreloop
 fishspear 3
 fantocine 3
@@ -5184,7 +5184,7 @@ flangeway 1
 futter
 footpaddery
 filamentar
-francolin 1
+francolin 2
 frozenhearted 1
 fedifragous
 furmente 4
@@ -8389,7 +8389,7 @@ flaking 2
 fils 1
 furriner
 flagellata 1
-forkedness 2
+forkedness 3
 flinthearted
 folderol
 feastful 1
@@ -8857,7 +8857,7 @@ frailes 2
 fetchers 1
 flotillas
 fossage 4
-fanlight 1
+fanlight 2
 female 1
 fearable
 flexured 1
@@ -8867,7 +8867,7 @@ feucht
 frigorimeter 3
 fluidible
 flighthead 3
-flushgate
+flushgate 1
 farmers 1
 forespoke
 fricandoes 2
@@ -9106,7 +9106,7 @@ feruling 1
 foxberry 1
 falcular 2
 fribbleism 1
-fractionation
+fractionation 1
 forenent
 folding
 friesish 1
@@ -10852,7 +10852,7 @@ failures
 formicarioid 5
 fortescure
 fulcruming 1
-feeable 4
+feeable 5
 fanatical 2
 fulfiller 1
 flambeaux 2
