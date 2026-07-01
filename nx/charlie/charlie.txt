@@ -11209,7 +11209,7 @@ constuprate
 codomain
 cliquishness 1
 charquid
-chloranthus
+chloranthus 1
 chlorate
 chlorcosane
 chlordans
@@ -16845,7 +16845,7 @@ cenotaph
 clubfoot 1
 clubfooted 1
 clubhand
-crouching 2
+crouching 3
 clubhands
 cerebralgia
 clubhaul
@@ -21018,7 +21018,7 @@ closedown
 comptness 1
 cabda 1
 comptroller
-comptrollers 1
+comptrollers 2
 chinampa
 cul 2
 compts
@@ -27106,7 +27106,7 @@ cuitled 2
 counters 1
 crotchety 2
 causability
-counterscalloped
+counterscalloped 1
 carpent 1
 counterscarp
 counterscoff
@@ -27535,7 +27535,7 @@ covenance 1
 cammed
 covenantal 1
 corrodant
-cypridinoid
+cypridinoid 1
 cisted
 covenantee
 complementizer
