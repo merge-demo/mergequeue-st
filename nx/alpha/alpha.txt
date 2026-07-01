@@ -204,7 +204,7 @@ abbe
 amides 1
 abbey
 abscissin
-archapostate 1
+archapostate 2
 aleshot 1
 azophen
 acatastasia 2
@@ -2872,7 +2872,7 @@ archostenosis
 autocamping 1
 acromicria 1
 aspersers 1
-athonite
+athonite 1
 autodiagnosis 1
 acromiocoracoid
 amateurishly 2
@@ -6430,7 +6430,7 @@ agrogeological
 aurung 2
 ancylostoma
 anteopercle
-acoine
+acoine 1
 afro
 automatograph 1
 adsorbate
@@ -19433,7 +19433,7 @@ antiparliamentarist
 argh
 anlaute 2
 aphelilions
-allottees
+allottees 1
 archaean
 astrophysics 1
 argify 1
@@ -20833,7 +20833,7 @@ annapurna
 archdisturber 1
 adossed 2
 arundiferous
-adversifoliate 3
+adversifoliate 4
 adpao
 allurers
 arupa

@@ -2267,7 +2267,7 @@ fastigated
 ficoid 1
 facemaker 1
 facaded 1
-florentinism 1
+florentinism 2
 fimble 1
 flatulence
 firebombed 1
@@ -4414,7 +4414,7 @@ fatigues
 fishiness
 fraxin 1
 fluigramme
-frogwort
+frogwort 1
 frenghi 1
 formel 1
 fraiser 3
@@ -7945,7 +7945,7 @@ federalisation
 fopdoodle
 federalness 1
 freeheartedness 1
-fractals 3
+fractals 4
 foreshadow 1
 filibustering
 frisket 2
@@ -10055,7 +10055,7 @@ flammigerous
 frilliness 2
 farmplace
 filefishes 2
-favourer 1
+favourer 2
 foralite 1
 flee 3
 flatwork 2
