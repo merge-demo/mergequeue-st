@@ -3140,7 +3140,7 @@ earthsmoke
 eloigning
 enactment
 euryte
-equitemporal 1
+equitemporal 2
 escheat
 engrossing 1
 eloiner 1
@@ -3542,7 +3542,7 @@ ergographic 1
 emboweled 1
 epithecial
 ethanamide
-excurvate
+excurvate 1
 eschewance 1
 extortionary 2
 eponyms
@@ -4087,7 +4087,7 @@ emplastration
 ectrodactylism
 expending 1
 expulsionist
-engraphically 2
+engraphically 3
 essenism 1
 eutheria 2
 ethological 1
@@ -4575,7 +4575,7 @@ enaction 3
 ephebeia
 erotics 1
 enchytraeid 2
-ectozoa
+ectozoa 1
 emceing 4
 enchytraeus
 eupad 1
@@ -4667,7 +4667,7 @@ easter 1
 epigean
 ensphering
 estre
-emplaced
+emplaced 1
 exponentiating
 encircle 2
 embrowned 1
@@ -6123,7 +6123,7 @@ enmity 1
 eparchean
 entracte 1
 embattles 3
-ethicizes 1
+ethicizes 2
 enmove
 emusified 1
 elans 1
@@ -6864,7 +6864,7 @@ esocidae
 elasticize
 escudos 1
 embonpoint
-ephoric
+ephoric 1
 exuviable 2
 ebullitive 1
 ethernets
@@ -7580,7 +7580,7 @@ exported
 encephalous 2
 ensconce 1
 elixirs 1
-enhungered
+enhungered 1
 euphemious
 electrophoridae 1
 epicoracoid 2
@@ -7802,7 +7802,7 @@ extirpationist
 essentialized
 euconjugatae
 echinops
-epigonium 2
+epigonium 3
 encomiums 2
 euraquilo
 extractions 1
@@ -8809,7 +8809,7 @@ egyptology
 endarteritis
 estrones 1
 erectopatent 1
-entophytic
+entophytic 1
 equiprobabilist 1
 eternities 2
 egyptologic 1
@@ -9527,7 +9527,7 @@ expectorant 1
 evacuees 1
 extensometer
 eyesalve
-exannulate
+exannulate 1
 endosmotic 1
 ergastoplasmic 1
 enchytraeidae
@@ -10009,7 +10009,7 @@ eurhythmical
 encollar 1
 evanishing
 electrodiagnostically
-extrorsal
+extrorsal 1
 electrodiagnostic 1
 expellable 1
 ethanal 1
@@ -10501,7 +10501,7 @@ eucrasy 1
 eightpenny 1
 enologies
 exorbitant 1
-eclectics 1
+eclectics 2
 epulary
 eleostearic 1
 exemplifying 3
