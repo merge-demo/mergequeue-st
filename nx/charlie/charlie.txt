@@ -3623,7 +3623,7 @@ carabinier
 carabiniere
 carabinieri
 cotrespasser
-choosable
+choosable 1
 caraboa
 caaba
 cinques 1
@@ -9191,7 +9191,7 @@ coplanation 1
 curvinerved
 chaster 1
 crombec 1
-chastest 1
+chastest 2
 chasteweed
 censurers 1
 ceduous 1
@@ -18240,7 +18240,7 @@ coffeegrower
 cantinas
 carbonari 2
 coffeegrowing 1
-cladothrix
+cladothrix 1
 capelets 2
 chemicovital
 coffeehouse
@@ -22398,7 +22398,7 @@ coerects 1
 contradicted 1
 coni 1
 conia 1
-cosmogonal
+cosmogonal 1
 conic
 conical
 cataloguish 1
@@ -23770,7 +23770,7 @@ contrappostos 1
 contraproposal
 contraption
 contraptions
-contraptious
+contraptious 1
 capacitator
 compressional
 coadmires 1
@@ -25399,7 +25399,7 @@ cornets 1
 coquette
 cornetter
 carkled
-cornetti 1
+cornetti 2
 cornettino
 cornettist
 cornetto 2
