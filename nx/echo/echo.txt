@@ -7209,7 +7209,7 @@ eccaleobion 1
 enshadow 5
 eopalaeozoic
 egocentrically
-erysipelothrix
+erysipelothrix 1
 eorhyolite 2
 extinguishable
 eos
@@ -12624,7 +12624,7 @@ electrophoreses 1
 embossable
 exocoelic 1
 enharbour
-explant 1
+explant 2
 epicardium 3
 exocoelum
 epifascial

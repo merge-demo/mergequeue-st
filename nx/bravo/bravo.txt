@@ -1915,7 +1915,7 @@ bewend
 borschts 1
 battutos
 bevies 1
-batukite
+batukite 1
 bishoplike 2
 backy 1
 bandit 2
@@ -7543,7 +7543,7 @@ bibacity 1
 bevomiting
 briefer 2
 bread 2
-biltongue
+biltongue 1
 bevvy
 bumblepuppy
 bewailers
@@ -11295,7 +11295,7 @@ bourbonian
 backups 1
 blowing 1
 blowings 2
-bromoaurate 1
+bromoaurate 2
 basify 2
 brigandage
 buddy 4
@@ -16861,7 +16861,7 @@ butut 1
 bein 1
 benvenuto
 balkline 1
-beam
+beam 1
 bigger 1
 buffing 1
 breards
