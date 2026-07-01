@@ -6769,7 +6769,7 @@ gazania
 gyrostatics 1
 genal 1
 genros
-geochemical 1
+geochemical 2
 gondola 1
 goniums 5
 gasser
