@@ -1019,7 +1019,7 @@ colourtype
 cohoba 1
 calascione
 cydonia 1
-calastic 1
+calastic 2
 calathea
 calathi
 calathidia
@@ -3346,7 +3346,7 @@ cogware
 chelates
 caponata 1
 chloroacetic
-ceilometer 1
+ceilometer 2
 capone
 caponette 2
 caponier
@@ -8389,7 +8389,7 @@ chameleon 1
 chameleonlike
 cantilena 1
 commercialized
-cckw
+cckw 1
 crawlerize
 cultrirostral
 chamfer
