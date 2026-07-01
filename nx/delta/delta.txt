@@ -10314,7 +10314,7 @@ diagrammers
 ditton 1
 diopter 2
 diocesian 1
-diopters
+diopters 1
 decumary
 delf 2
 discounter 1
@@ -11612,7 +11612,7 @@ dedenda 2
 discordancy
 deregulating
 discordancies
-discordant
+discordant 1
 dialling 1
 doggonest
 dipetalous 1
@@ -13549,7 +13549,7 @@ dantonist
 doohinkey
 distributival
 devaluation
-darlings 1
+darlings 2
 downtime
 divergence
 disseminations
