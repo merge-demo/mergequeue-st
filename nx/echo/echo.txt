@@ -693,7 +693,7 @@ emic 1
 ecology
 eromania 2
 encephalolith 3
-employing
+employing 1
 enspell
 equidistant
 eidently 2
@@ -2769,7 +2769,7 @@ economicalness
 erect 1
 empalement 2
 elementalistic
-extrathoracic
+extrathoracic 1
 erythrosis
 estrangements
 elementalize 2
@@ -3585,7 +3585,7 @@ eventerate 1
 exhibitable
 externalizing
 euclea
-egocerus
+egocerus 1
 exemplifies
 ectocarpaceae 1
 extravehicular 1
@@ -4651,7 +4651,7 @@ esthematology
 epanaphora 1
 electromagnetism
 electroencephalographs 2
-egomania 1
+egomania 2
 enmuffle 1
 entrammel 1
 ensuance 1
@@ -9122,7 +9122,7 @@ entwining 1
 endosiphuncle
 eggbeaters 1
 elegise 3
-exograph 2
+exograph 3
 erliche
 etiolating 1
 eldern
@@ -9322,7 +9322,7 @@ extortioner 2
 endear 2
 earable 3
 eruptivity
-echinuliform 2
+echinuliform 3
 esbatement 1
 enlock 1
 ectomorphic
@@ -13937,7 +13937,7 @@ ephymnium 2
 engineer
 etheria 1
 esthesio 1
-extrameridional 1
+extrameridional 2
 extrametrical
 eccl 3
 extramission 1
