@@ -5103,7 +5103,7 @@ alchera
 aerotherapeutics
 amphidiploidy
 attainting 1
-aerotherapy
+aerotherapy 1
 ash
 arridge
 abthanage
@@ -14955,7 +14955,7 @@ anaphoral
 alkenes 2
 anticlockwise 1
 asphaltum 2
-anticlogging 1
+anticlogging 2
 averroism 1
 anticoagulant 1
 anticoagulation
@@ -24322,7 +24322,7 @@ autopolar 2
 autopolyploid 1
 autopolo
 anomalous 1
-actinocrinidae
+actinocrinidae 1
 autopoloist 2
 animalculae 1
 ambles 1
