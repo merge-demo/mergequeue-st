@@ -5821,7 +5821,7 @@ ashmen 1
 awacs 1
 apickaback
 auxilium
-ancestor
+ancestor 1
 affirmatives
 agate
 agates 1
