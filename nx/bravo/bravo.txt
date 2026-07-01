@@ -2642,7 +2642,7 @@ berlinize 2
 birdhouses
 bilges 1
 botanise 1
-belayed 1
+belayed 2
 begirdle 1
 battening 1
 borrows 1
@@ -4432,7 +4432,7 @@ bypassing
 becloaks
 blackfriars 3
 batule
-becloak 2
+becloak 3
 bereavement
 boojum 3
 bethorning
@@ -6027,7 +6027,7 @@ bauxitic
 bowenite
 boiling 1
 brouette 1
-bradyphasia
+bradyphasia 1
 blanquillos
 butcherless
 balaenid
@@ -6063,7 +6063,7 @@ brainless
 ben
 biostatistics
 beadworks 1
-benacus
+benacus 1
 benamee
 breadboard
 botanizing 2
@@ -7274,7 +7274,7 @@ betake 2
 buckshees
 barkevikite 1
 betakes
-beneventana
+beneventana 1
 bacalao 1
 blowby 2
 betanglement
@@ -7678,7 +7678,7 @@ brahmany 1
 boe
 blackflies
 biocenotic
-bezils
+bezils 1
 boyardom 2
 babished 2
 baldricwise 2
@@ -8469,7 +8469,7 @@ bilection 1
 bileve
 bilewhit
 bavardage
-betweenmaid
+betweenmaid 1
 berbery 2
 bootjack
 behint 2
@@ -8892,7 +8892,7 @@ biocenosis 1
 burgraviate 1
 basket
 branchiopodan 1
-belialist
+belialist 1
 biochemic 1
 bromvogel
 boeotian
