@@ -507,7 +507,7 @@ fioretti 3
 fumer 2
 firerooms
 flamers 1
-frowny 2
+frowny 3
 foresense 3
 falco
 fermentive
@@ -1219,7 +1219,7 @@ folds 2
 fassalite 2
 fastbacks 1
 flagman 3
-faradism 2
+faradism 3
 futteret 3
 fama 3
 favella 3
@@ -4649,7 +4649,7 @@ forages 2
 falconidae 1
 fractonimbus 2
 fivesome
-flaubertian 1
+flaubertian 2
 flashproof 1
 famacide 3
 frivoling 2
@@ -7430,7 +7430,7 @@ fans 1
 faintful
 fleckiest 1
 firefang 2
-ferrocerium 1
+ferrocerium 2
 forwarder
 fruitlet 1
 fillemot
@@ -8569,7 +8569,7 @@ falsie 3
 fraudproof 1
 fissiparous
 flatwise 1
-foramen 1
+foramen 2
 forinsec 2
 fream
 fraxetin 3
@@ -10160,7 +10160,7 @@ foo
 fowells 1
 fritniency 2
 foreknee 2
-fe 1
+fe 2
 fulciform
 foreheaded 2
 fissiparously 1
