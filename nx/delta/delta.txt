@@ -3518,7 +3518,7 @@ doom 1
 drowsed 2
 desaturate 1
 desiccated 2
-defloration
+defloration 1
 dagobas 1
 desmomyaria
 dufoil
@@ -8399,7 +8399,7 @@ dt 1
 dishonorably 1
 discoidea 2
 deflower
-dysphasic 1
+dysphasic 2
 drowned
 diallings
 dehair 2
@@ -12749,7 +12749,7 @@ dysneuria 1
 dislodgement
 desertress
 drainpipe 1
-disestablishmentarianism 2
+disestablishmentarianism 3
 distasted 2
 drogher 2
 diaschisma
