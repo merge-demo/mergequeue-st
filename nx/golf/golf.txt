@@ -1944,7 +1944,7 @@ garnishments 2
 gnomonical
 gimbal
 geology
-glasslikeness 2
+glasslikeness 3
 geranic 1
 goring
 grubroot 1
@@ -3262,7 +3262,7 @@ glycosin 1
 grein 1
 glent
 grabbable 2
-glosseme
+glosseme 1
 geodic
 gula 1
 greenside 1

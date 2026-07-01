@@ -204,7 +204,7 @@ abbe
 amides 1
 abbey
 abscissin
-archapostate 1
+archapostate 2
 aleshot 1
 azophen
 acatastasia 2
@@ -2872,7 +2872,7 @@ archostenosis
 autocamping 1
 acromicria 1
 aspersers 1
-athonite
+athonite 1
 autodiagnosis 1
 acromiocoracoid
 amateurishly 2
@@ -3810,7 +3810,7 @@ aeroscepsis 1
 accessorial
 anticipatively 1
 archivolt
-adhesion
+adhesion 1
 arbutus
 animized
 adhesive
@@ -19433,7 +19433,7 @@ antiparliamentarist
 argh
 anlaute 2
 aphelilions
-allottees
+allottees 1
 archaean
 astrophysics 1
 argify 1
