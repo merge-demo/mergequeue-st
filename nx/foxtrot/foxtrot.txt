@@ -3337,7 +3337,7 @@ fleshlike
 flon
 forsung 2
 flench
-furuncle 2
+furuncle 3
 fidge 2
 frogfoot
 fractionally 1
@@ -4414,7 +4414,7 @@ fatigues
 fishiness
 fraxin 1
 fluigramme
-frogwort
+frogwort 1
 frenghi 1
 formel 1
 fraiser 3
@@ -5460,7 +5460,7 @@ feridjee 1
 furfuration
 fanatic 1
 fretsome 4
-fleeter 2
+fleeter 3
 fermentatively 1
 flex
 fusionless 1
@@ -8234,7 +8234,7 @@ forewritten 1
 fundamentals
 forgeries 2
 fatigated 2
-fictioneer 2
+fictioneer 3
 feudalities 1
 flaggelated
 friezing 1
