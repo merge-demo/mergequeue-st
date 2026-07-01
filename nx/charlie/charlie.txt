@@ -19931,7 +19931,7 @@ comity
 comitia
 comitial
 colortype 1
-chevisance
+chevisance 1
 comitium 1
 cokery
 cuscuses 1
@@ -28620,7 +28620,7 @@ cavillation
 cornball 2
 cremaster 1
 calendarian
-cremasterial
+cremasterial 1
 cremasteric
 cremate
 conjointly
