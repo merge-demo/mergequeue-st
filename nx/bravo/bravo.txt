@@ -3876,7 +3876,7 @@ branniest 1
 bawdier
 bipinnatisect
 bawdies 2
-bestrow 1
+bestrow 2
 bricklaying 1
 backaches
 belvidere
@@ -9453,7 +9453,7 @@ bourride
 beldam 1
 birkeniidae
 birkremite
-blemishing
+blemishing 1
 blastematic
 bignonias 1
 boldine
@@ -12607,7 +12607,7 @@ balance
 bonnnes 3
 bonnwis 2
 bionomist
-bonorum 1
+bonorum 2
 bisector 1
 bagatelle 2
 bills 2
