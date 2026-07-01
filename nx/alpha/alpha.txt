@@ -7542,7 +7542,7 @@ antiattrition
 approbation
 albuminimeter
 albuminiparous 1
-acromial
+acromial 1
 agnomina
 antrotympanitis 2
 aphagias 1
@@ -15625,7 +15625,7 @@ antinephritic 2
 adiaphorite 1
 antineuritic 1
 antineutralism
-argyles 1
+argyles 2
 attritive
 antineutrino
 acerbities
@@ -16683,7 +16683,7 @@ anocithesia
 aberrance 1
 apertures
 assisa 1
-apes
+apes 1
 apesthetic 2
 arachnitis 2
 affiche
@@ -24031,7 +24031,7 @@ acrophonies
 archaeography
 azoblack
 adversaries 1
-albitization
+albitization 1
 anjou
 antic 1
 autocorrosion
