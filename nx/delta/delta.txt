@@ -9957,7 +9957,7 @@ dewdrop 3
 didactics 1
 dramaturgist
 diminutions
-deener
+deener 1
 diminutive
 deindustrialization 2
 dimissaries
@@ -10314,7 +10314,7 @@ diagrammers
 ditton 1
 diopter 2
 diocesian 1
-diopters
+diopters 1
 decumary
 delf 2
 discounter 1
@@ -11227,7 +11227,7 @@ disbursing
 denazify 2
 discabinet 1
 discamp 1
-drawstring 1
+drawstring 2
 discanted 2
 dermochelys
 decompoundable 2
@@ -11612,7 +11612,7 @@ dedenda 2
 discordancy
 deregulating
 discordancies
-discordant
+discordant 1
 dialling 1
 doggonest
 dipetalous 1
@@ -13549,7 +13549,7 @@ dantonist
 doohinkey
 distributival
 devaluation
-darlings 1
+darlings 2
 downtime
 divergence
 disseminations
