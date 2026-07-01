@@ -3717,7 +3717,7 @@ batteners 1
 bankrupted
 bucketmaker 1
 beltis
-batterie
+batterie 1
 breck
 batterman
 blennemesis 1
@@ -11027,7 +11027,7 @@ birri
 bhoosa 1
 bigonial
 bakwiri
-bromin 1
+bromin 2
 buckshot 1
 banyans
 blo 1
@@ -13146,7 +13146,7 @@ berob 1
 borofluohydric
 boroglycerine 1
 bilgy 3
-borophenylic
+borophenylic 1
 bororoan
 beadman
 bube 2
@@ -14828,7 +14828,7 @@ bedraggled
 bosh 1
 bilgewater
 browbound
-biotech
+biotech 1
 braziletto 1
 belletristic 1
 boildown 1

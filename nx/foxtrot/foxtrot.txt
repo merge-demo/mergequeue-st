@@ -1091,7 +1091,7 @@ forbade
 familiarizing 1
 figaro 1
 frizzling 1
-farthing
+farthing 1
 foresay
 fluffing 1
 feverishness
@@ -6896,7 +6896,7 @@ flammeous
 fidepromission 3
 folklike 2
 feasible 3
-fallace 1
+fallace 2
 folklores 1
 fp
 fow 1
@@ -9853,7 +9853,7 @@ feldspathic
 featheredge 2
 floweret
 fuds
-firedamps 1
+firedamps 2
 fragmentary 1
 fattens 2
 foredooming 1
