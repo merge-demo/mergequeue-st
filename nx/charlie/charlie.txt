@@ -6272,7 +6272,7 @@ chintz
 caulicle
 caulicole
 castrated
-caulicolous
+caulicolous 1
 customed
 controversed
 conche 1
@@ -9168,7 +9168,7 @@ chass 2
 chasse 1
 chassed 1
 chasseing
-chassepot
+chassepot 1
 chassepots
 chiarooscurist
 consubstantive
@@ -11030,7 +11030,7 @@ crimean 2
 chirurgeonly
 chirurgery 1
 chis
-chiseled
+chiseled 1
 combinantive 1
 curuba
 chiseler 1
@@ -15525,7 +15525,7 @@ cestoidea 1
 classable
 coplanarity
 classbook
-conquinine
+conquinine 1
 classed 1
 cyclicism
 classers
@@ -22599,7 +22599,7 @@ connature
 chlamydoselachidae
 cyclopterous
 calumniatory
-connaught 1
+connaught 2
 connectable
 connected
 connectedly 1
@@ -28942,7 +28942,7 @@ crocheted
 cholericly
 criticist 1
 cribellum
-cribose
+cribose 1
 cribrate
 cribriform
 cribriformity 3
