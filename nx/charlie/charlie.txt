@@ -300,7 +300,7 @@ cacicus 1
 camote 2
 carangin 2
 cacidrosis
-costicervical
+costicervical 1
 coreopsis
 cacimbo
 cacimbos
@@ -8122,7 +8122,7 @@ chainman
 chainmen
 celiomyositis
 cultists 1
-capistrate 2
+capistrate 3
 chowdered
 campanulaceous
 colewort
@@ -13586,7 +13586,7 @@ cymbel
 cymbid 1
 clochard 1
 cymbidium
-copartner
+copartner 1
 chignons 1
 cymbocephalous
 convectional
