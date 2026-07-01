@@ -2516,7 +2516,7 @@ demieagle
 discomorula
 deconsecration 2
 druith
-desertism 1
+desertism 2
 destinations
 diazohydroxide
 dorothea 1
@@ -2749,7 +2749,7 @@ drawhorse
 despited
 dihydrate 1
 dahomeyan
-decrassified
+decrassified 1
 daun
 draughtiness 3
 dian
@@ -9957,7 +9957,7 @@ dewdrop 3
 didactics 1
 dramaturgist
 diminutions
-deener
+deener 1
 diminutive
 deindustrialization 2
 dimissaries
@@ -11227,7 +11227,7 @@ disbursing
 denazify 2
 discabinet 1
 discamp 1
-drawstring 1
+drawstring 2
 discanted 2
 dermochelys
 decompoundable 2
@@ -14371,7 +14371,7 @@ dhaman
 deflagrations 1
 diurna
 diurnal
-deuterogenic
+deuterogenic 1
 drug 1
 dragonize
 diurnule
