@@ -274,7 +274,7 @@ anthropomorphizing
 adze
 amphistyly
 aphenoscope
-abditory
+abditory 1
 apelet
 abdom 1
 adventures
@@ -5932,7 +5932,7 @@ amblyoscope 1
 agglomerates 1
 accentuable
 agglomeration
-agglomerative 1
+agglomerative 2
 abscissions
 arachnologist
 apical
@@ -11218,7 +11218,7 @@ abolishable 1
 astrospherecentrosomic
 amphibologies
 aftermaths
-antagonists
+antagonists 1
 amphibolous
 amia 1
 amphibrachic
@@ -12896,7 +12896,7 @@ antiepicenter
 angiport 1
 autoinductive
 ammoniticone
-aeroscopically
+aeroscopically 1
 angle
 arenarious
 annalism 1
@@ -14467,7 +14467,7 @@ anthracosis 2
 abox
 anthracothere 1
 anthracotherium 1
-anthracotic
+anthracotic 1
 anthradiol 1
 anthraflavic
 aerographics
@@ -15298,7 +15298,7 @@ antigigmanic
 annexment 1
 autonitridation 1
 antileveling
-antigonon
+antigonon 1
 antigonorrheic 1
 afflue
 antigovernmentally 1
