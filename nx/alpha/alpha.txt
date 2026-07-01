@@ -21997,7 +21997,7 @@ argentometrically
 assumes
 apothesis 1
 antiperiodic
-act
+act 1
 assuming 1
 automatonlike 1
 assumingly
