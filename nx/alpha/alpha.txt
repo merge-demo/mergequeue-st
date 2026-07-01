@@ -195,7 +195,7 @@ anilins 1
 ajimez
 abler
 anabathmoi
-apologise 2
+apologise 3
 aeolotropism
 anthradiquinone
 admissability
@@ -1048,7 +1048,7 @@ andorobo
 answerless
 aulacomnium
 abstricted 1
-abstricting
+abstricting 1
 abstrusest
 avulsing
 abstrusity 1
@@ -1667,7 +1667,7 @@ accretions 1
 awag 1
 according
 assapanic 1
-achate
+achate 1
 artificialize
 accriminate
 airier
@@ -12844,7 +12844,7 @@ autoexcitation 1
 angionoma
 aecidioform 1
 anglish
-awarder
+awarder 1
 angiopathy 3
 agnosis 2
 aeneolithic 1
@@ -14482,7 +14482,7 @@ anthranyl
 afterswarming
 adrue 1
 anthranol
-atechny
+atechny 1
 acuminulate
 anthraquinone
 adoptianist
@@ -14955,7 +14955,7 @@ anaphoral
 alkenes 2
 anticlockwise 1
 asphaltum 2
-anticlogging 1
+anticlogging 2
 averroism 1
 anticoagulant 1
 anticoagulation
@@ -18267,7 +18267,7 @@ alsoon
 arabians
 armor
 andarko 1
-amity
+amity 1
 aerogel 1
 accentuator 2
 accreted
