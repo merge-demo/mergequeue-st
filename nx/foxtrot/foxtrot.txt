@@ -4911,7 +4911,7 @@ fissura 1
 flambeau 2
 foamier 3
 ferny
-fixate
+fixate 1
 fossilist 1
 floreat 1
 forbearers 1
@@ -7229,7 +7229,7 @@ factionaries 1
 fairer
 farers 1
 falderols 1
-forthgaze 1
+forthgaze 2
 fimbrillose
 flobby
 fiend
@@ -9047,7 +9047,7 @@ fourteener
 froren 2
 flatirons
 furiously 2
-forra 1
+forra 2
 firethorn
 fled 1
 fourther 3
@@ -10926,7 +10926,7 @@ fides
 fulleries
 familiarising 1
 fleets 2
-frowsty 1
+frowsty 2
 flivver
 fletched
 fullmouthed
@@ -11716,7 +11716,7 @@ foredesign 1
 fosslology 1
 flighty 1
 flagellator
-folkland 1
+folkland 2
 fados
 feudalised 2
 forecool
