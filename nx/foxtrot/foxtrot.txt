@@ -2843,7 +2843,7 @@ farmhand 1
 furious 2
 fishnet 1
 flamy 1
-flowerets
+flowerets 1
 feticide 1
 front
 flossie
@@ -7686,7 +7686,7 @@ freeze 1
 foxskin 1
 fano 1
 fiesta
-forehandedness 1
+forehandedness 2
 fellingbird 1
 forwardest
 flowering 2
