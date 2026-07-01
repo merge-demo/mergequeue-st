@@ -3089,7 +3089,7 @@ badminton
 barware 1
 boneblack 2
 basale 2
-berascaling 2
+berascaling 3
 basalts
 basaltware
 bombiccite
@@ -5654,7 +5654,7 @@ bovovaccination
 bolognan 2
 blowpipes
 brunettes
-brasiers 1
+brasiers 2
 busks
 boraciferous 2
 benjoin
@@ -7005,7 +7005,7 @@ blowlamp 1
 biznagas
 bookcraft 1
 bioplasms 1
-basing
+basing 1
 branchiostomidae 1
 ballpoints
 boardly 2
@@ -8163,7 +8163,7 @@ bloodbird
 bateaux 1
 bieldy 1
 bossa
-bellicoseness
+bellicoseness 1
 bielding
 bastnasite
 bewinter
@@ -11286,7 +11286,7 @@ blowguns
 butling 4
 blatchang
 bronchoesophagoscopy
-beshackle
+beshackle 1
 bloodedness 1
 blowie 1
 beryline
@@ -15390,7 +15390,7 @@ banians
 buddhistical
 blaeness
 buggiest 1
-briered
+briered 1
 brandless
 brainwasher
 bagatelles
@@ -15738,7 +15738,7 @@ breakfront
 ballplatz
 broadsiding
 broadspread
-broadsword
+broadsword 1
 bamangwato
 bromethyl 2
 betorcin
