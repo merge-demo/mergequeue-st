@@ -16660,7 +16660,7 @@ closes
 closeting
 crampit
 chthonic
-cantred 1
+cantred 2
 cylindroma
 crusading 2
 campoo 1
@@ -18100,7 +18100,7 @@ celioscopy 1
 coenocytic 2
 carson
 coenodioecism
-coenoecic
+coenoecic 1
 coefficacy
 chousingha
 cryptococcic 1
@@ -18562,7 +18562,7 @@ caustics
 clavers 1
 coiffeur
 coiffeurs 1
-coiffeuses
+coiffeuses 1
 coiffured
 ceroxylon
 coiffures
@@ -19215,7 +19215,7 @@ corbed
 cutover
 collun
 couthe
-conceptism
+conceptism 1
 convincer
 calloo
 cormels
@@ -24914,7 +24914,7 @@ corallian 2
 crucilly
 corallidae
 corallidomous
-congroid
+congroid 1
 coralliform
 coralligena
 coralligenous
