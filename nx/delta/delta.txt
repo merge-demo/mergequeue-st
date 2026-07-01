@@ -5894,7 +5894,7 @@ disentraced 1
 dere 1
 defeatee
 depreter
-deprint 1
+deprint 2
 depriorize 2
 disorderedness 1
 deprivable 1
@@ -8516,7 +8516,7 @@ diapause 1
 diapauses
 donaries
 decarburize
-dodecastylos
+dodecastylos 1
 divinations 2
 decongesting
 diapedeses 2
@@ -15381,7 +15381,7 @@ decarburization
 dittany 2
 declassifications 3
 disserviceably
-derisions
+derisions 1
 desperacy
 digestedness 2
 detoxify
@@ -16019,7 +16019,7 @@ digitiform
 dumped 1
 doppia 1
 drent
-decompensated
+decompensated 1
 duryodhana
 distally 1
 doublethink 2
