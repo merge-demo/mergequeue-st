@@ -6315,7 +6315,7 @@ bandeaus 1
 blennogenic
 beedom
 backswept
-benzalethylamine
+benzalethylamine 1
 benzalphenylhydrazone 1
 beaconwise
 benzamide 2
@@ -8163,7 +8163,7 @@ bloodbird
 bateaux 1
 bieldy 1
 bossa
-bellicoseness
+bellicoseness 1
 bielding
 bastnasite
 bewinter
@@ -13383,7 +13383,7 @@ batteled
 bawn
 bulletproofs 1
 bimillenniums
-buffoonery 1
+buffoonery 2
 bare 2
 boondoggler
 buckety
