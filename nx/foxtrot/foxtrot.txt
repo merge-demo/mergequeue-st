@@ -3219,7 +3219,7 @@ flexibly
 fb
 fusicoccum
 ficklest 1
-foliage 1
+foliage 2
 ficklety 1
 fosterable 1
 fictionalize 3
@@ -4695,7 +4695,7 @@ fistlike 1
 fizgig
 fidged 1
 fizgigs 1
-feinted 1
+feinted 2
 feta
 fairyish 1
 feed
@@ -5417,7 +5417,7 @@ frisado 1
 factorial
 fledgiest 1
 floatless 1
-foisonless 1
+foisonless 2
 fabian 1
 feasten 1
 forebodes
@@ -6993,7 +6993,7 @@ fondateur
 fonded 1
 favilla
 frayings 1
-folkmooter
+folkmooter 1
 fondled
 fainter
 formalazine 2
@@ -7510,7 +7510,7 @@ forebay 2
 fragmentization
 feathering
 feuilletonist
-fribbles
+fribbles 1
 fideos 1
 fleetest 1
 flether 2
@@ -7653,7 +7653,7 @@ facsimiling 1
 fools 3
 faluns 2
 fubby 1
-fatiscent 2
+fatiscent 3
 flames 1
 forefield 1
 foreorlop 2
@@ -10281,7 +10281,7 @@ finickingness
 figgier 3
 frust 2
 fgrid 2
-floperoo 1
+floperoo 2
 fjarding 2
 firiness
 fishweed 1
