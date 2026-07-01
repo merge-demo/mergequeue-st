@@ -750,7 +750,7 @@ gelose
 genealogist
 gueridon
 genae 2
-galvanoplasty 3
+galvanoplasty 4
 grovers 2
 gansa 1
 gestapos 3
@@ -6005,7 +6005,7 @@ gnarliest
 gnarliness
 gawkiness 3
 graspless 4
-gnarls 1
+gnarls 2
 gaidropsaridae 2
 gravelweed 1
 gamash 1
@@ -7162,7 +7162,7 @@ gross 2
 glycolylurea 1
 genecor 1
 gorgeret
-gangrenescent
+gangrenescent 1
 gorgia 2
 girly 2
 gorglin 2
@@ -9500,7 +9500,7 @@ gravitations 1
 grouper 4
 grisbet 2
 gecking 1
-grandiosely 1
+grandiosely 2
 groutier 2
 gaes
 gyving 3
