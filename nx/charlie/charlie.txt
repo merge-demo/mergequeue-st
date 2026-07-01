@@ -5032,7 +5032,7 @@ cartwhip
 carucage 1
 comstockery
 counterprove
-carucarius
+carucarius 1
 charivariing 1
 clipsheets 1
 carum
@@ -6680,7 +6680,7 @@ ceil 2
 celestine
 ceilers
 ceilidhe
-ceiling
+ceiling 1
 ceilings
 ceilingwards 1
 copiability 1
@@ -7745,7 +7745,7 @@ certifies
 coys 1
 certiorate
 certis
-certitudes
+certitudes 1
 circularized
 certosa
 certose
@@ -27265,7 +27265,7 @@ cardhouse
 crossfall 1
 countrieman 1
 chorioiditis
-cavillingly 1
+cavillingly 2
 coenoblast 1
 countries
 crankism 1
@@ -31718,7 +31718,7 @@ crests 1
 coopery 1
 cond
 cusser
-caselessly 3
+caselessly 4
 ciselures
 cusses 3
 comrades
