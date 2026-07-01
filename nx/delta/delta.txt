@@ -1059,7 +1059,7 @@ darn 1
 darndest 1
 darnels
 dehepatize 1
-destandardize 1
+destandardize 2
 diplohedral
 dishes
 diacodium 1
@@ -1318,7 +1318,7 @@ dryermen
 declinate 1
 denunciatively 1
 drawnness 1
-disfranchisements 3
+disfranchisements 4
 dauding 1
 dicotyledones 1
 dogate 1
@@ -3358,7 +3358,7 @@ dullery
 despecialize 1
 definitor 1
 desulphurized
-dogmouth
+dogmouth 1
 dentils
 doles
 deturn 2
@@ -14198,7 +14198,7 @@ disunity
 disprofess 2
 deteriorism 1
 demobilizing
-deeds
+deeds 1
 delegation 1
 disuniting 2
 dysuria
