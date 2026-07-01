@@ -1091,7 +1091,7 @@ forbade
 familiarizing 1
 figaro 1
 frizzling 1
-farthing 1
+farthing 2
 foresay
 fluffing 1
 feverishness
@@ -2876,7 +2876,7 @@ flatlets
 forestair
 fibrillose 1
 faeries 1
-forepreparation
+forepreparation 1
 fetwa 1
 foreiron 1
 ferlies
@@ -10274,7 +10274,7 @@ fluidally
 fadedness 1
 fibrillations 1
 flakers 1
-frond 1
+frond 2
 franchisee
 fluxmeter 1
 finickingness
@@ -10693,7 +10693,7 @@ florican
 fundamental 3
 fidicinal
 foodstuffs 1
-fruitiness 1
+fruitiness 2
 fieldworker
 fist 3
 footler 1
