@@ -3089,7 +3089,7 @@ badminton
 barware 1
 boneblack 2
 basale 2
-berascaling 2
+berascaling 3
 basalts
 basaltware
 bombiccite
@@ -11286,7 +11286,7 @@ blowguns
 butling 4
 blatchang
 bronchoesophagoscopy
-beshackle
+beshackle 1
 bloodedness 1
 blowie 1
 beryline
@@ -13383,7 +13383,7 @@ batteled
 bawn
 bulletproofs 1
 bimillenniums
-buffoonery 1
+buffoonery 2
 bare 2
 boondoggler
 buckety
@@ -15738,7 +15738,7 @@ breakfront
 ballplatz
 broadsiding
 broadspread
-broadsword
+broadsword 1
 bamangwato
 bromethyl 2
 betorcin
