@@ -6595,7 +6595,7 @@ aidant
 aided
 amphigamae
 amchoor 1
-aydendron 1
+aydendron 2
 achenocarp
 aidenn
 appleringy
@@ -10417,7 +10417,7 @@ avocados
 aliment
 americophobe
 archikaryon
-alberttype
+alberttype 1
 amerimnon
 analysing 1
 abducing
@@ -20975,7 +20975,7 @@ anteorbital
 autotroph
 ascendancy 1
 ascendantly
-ascendence
+ascendence 1
 arteriomalacia
 aftershaves 1
 ascending 1
