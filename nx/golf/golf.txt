@@ -2718,7 +2718,7 @@ gymnasisia 1
 gunfire
 gong 1
 gauger 1
-guestchamber
+guestchamber 1
 gorraf
 gipped 1
 gallused 1
@@ -3840,7 +3840,7 @@ gatherings
 gymnopaedes
 geomorphogenic 1
 gemmula
-gulosities
+gulosities 1
 geckotid 1
 gordyaean 2
 gonozooid 1
@@ -6576,7 +6576,7 @@ gruis
 gawkiest
 geldesprung
 graduateship 1
-gluconeogenetic 2
+gluconeogenetic 3
 genty 2
 gallinula
 guesswork 2
@@ -8156,7 +8156,7 @@ gulfed 1
 glowflies 1
 gormandise 2
 granulators
-gynaecocracy 2
+gynaecocracy 3
 gnatsnap
 gallivat
 goatling 1
