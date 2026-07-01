@@ -4420,7 +4420,7 @@ beclaw
 besieged 1
 balm
 brandering
-budapest 1
+budapest 2
 barrators
 bitstone 1
 bkcy 1
@@ -6970,7 +6970,7 @@ besluit
 basenjis
 bespread
 besmile 1
-besmiled
+besmiled 1
 basipterygial
 bobtailing
 bathhouse
@@ -10432,7 +10432,7 @@ bargainable
 byrewoman
 boltmaking
 beesting
-baritone
+baritone 1
 broidery 1
 boviform
 believeth
@@ -12505,7 +12505,7 @@ brobdingnag 2
 bonedry
 bimillenium 1
 broodier
-bellyflaught 1
+bellyflaught 2
 barcarolle
 biennially
 brakier 2
@@ -13329,7 +13329,7 @@ balsamed 1
 bacterially
 boatlike
 bemat
-botaurus
+botaurus 1
 blooie
 buchloe
 beeswings
@@ -15714,7 +15714,7 @@ braggiest 1
 bepuzzlement
 bullnecked 1
 bawdyhouse 1
-badgemen
+badgemen 1
 broadling 1
 buggies
 bulbilis 1
