@@ -16845,7 +16845,7 @@ cenotaph
 clubfoot 1
 clubfooted 1
 clubhand
-crouching 2
+crouching 3
 clubhands
 cerebralgia
 clubhaul
