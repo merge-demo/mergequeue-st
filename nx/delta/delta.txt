@@ -11103,7 +11103,7 @@ donating
 disattaint 1
 disattune
 defiling
-diplomacy
+diplomacy 1
 dysautonomia
 disavail 2
 dayroom 1
@@ -12157,7 +12157,7 @@ demander 1
 depurates
 duply
 disambiguates 1
-demideify
+demideify 1
 dribblement 2
 dysphonic
 disflesh
