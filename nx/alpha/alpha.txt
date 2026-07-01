@@ -1405,7 +1405,7 @@ approximating 1
 acceptability
 antistimulant 2
 amintor
-acceptance
+acceptance 1
 axisymmetrical
 absorbent
 achylia 1
@@ -8457,7 +8457,7 @@ alkalies
 aludel 2
 alkaligenous 1
 alkaline
-ankylostoma
+ankylostoma 1
 alkalinity
 alkalinities 2
 abactor 1
