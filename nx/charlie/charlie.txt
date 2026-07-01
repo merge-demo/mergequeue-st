@@ -6680,7 +6680,7 @@ ceil 2
 celestine
 ceilers
 ceilidhe
-ceiling
+ceiling 1
 ceilings
 ceilingwards 1
 copiability 1
@@ -7659,7 +7659,7 @@ chunkily 1
 cerynean
 cering
 couniversal
-cyrtoceratitic 1
+cyrtoceratitic 2
 corkish 1
 cephalomeningitis
 clampers
@@ -30669,7 +30669,7 @@ caterwauls
 cudbear
 cyprian
 cudden
-collis
+collis 1
 counterimitate
 cuddie
 chuppoth
@@ -31718,7 +31718,7 @@ crests 1
 coopery 1
 cond
 cusser
-caselessly 3
+caselessly 4
 ciselures
 cusses 3
 comrades
