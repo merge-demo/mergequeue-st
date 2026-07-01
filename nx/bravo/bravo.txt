@@ -6970,7 +6970,7 @@ besluit
 basenjis
 bespread
 besmile 1
-besmiled
+besmiled 1
 basipterygial
 bobtailing
 bathhouse
@@ -10432,7 +10432,7 @@ bargainable
 byrewoman
 boltmaking
 beesting
-baritone
+baritone 1
 broidery 1
 boviform
 believeth
@@ -12505,7 +12505,7 @@ brobdingnag 2
 bonedry
 bimillenium 1
 broodier
-bellyflaught 1
+bellyflaught 2
 barcarolle
 biennially
 brakier 2
@@ -12678,7 +12678,7 @@ booger
 blancher 1
 bonilass
 benefactresses
-boorga 2
+boorga 3
 brochures
 bronchoconstrictor
 bubblier 1
@@ -15714,7 +15714,7 @@ braggiest 1
 bepuzzlement
 bullnecked 1
 bawdyhouse 1
-badgemen
+badgemen 1
 broadling 1
 buggies
 bulbilis 1
