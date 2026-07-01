@@ -53,7 +53,7 @@ groats 1
 graperies
 gedact 4
 gangue 5
-glaucolite 1
+glaucolite 2
 guemal 3
 geometrine 1
 gelatinousness
@@ -1251,7 +1251,7 @@ groff 3
 gonorrhea
 grogged
 galactostasis 1
-gooding 1
+gooding 2
 gametophobia
 grassman 1
 garbill 2
@@ -5362,7 +5362,7 @@ groundswell
 glutinant
 glucosid 3
 gutwise 1
-gyring
+gyring 1
 glycaemic 3
 grimmer 4
 gremmy 1
@@ -8859,7 +8859,7 @@ gallus
 globate
 gm 1
 gunne 2
-greegrees 1
+greegrees 2
 gastral 2
 genipa
 grandparenthood 1
@@ -9633,7 +9633,7 @@ grintern
 garse 2
 gluemaker
 glochidian
-ghanian 2
+ghanian 3
 griddling 1
 grubstakes
 glycyrize
