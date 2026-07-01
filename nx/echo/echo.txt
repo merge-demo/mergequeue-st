@@ -2671,7 +2671,7 @@ exhort
 exdelicto
 epispadia 1
 electrotherapeutical
-entrep
+entrep 1
 estampie 1
 euchite
 escrol 1
@@ -6923,7 +6923,7 @@ electrofuse
 excipular 1
 eying
 epistolar 1
-erian 2
+erian 3
 eyebrows 1
 ensaint
 ecophysiology 1
