@@ -2876,7 +2876,7 @@ flatlets
 forestair
 fibrillose 1
 faeries 1
-forepreparation
+forepreparation 1
 fetwa 1
 foreiron 1
 ferlies
@@ -10693,7 +10693,7 @@ florican
 fundamental 3
 fidicinal
 foodstuffs 1
-fruitiness 1
+fruitiness 2
 fieldworker
 fist 3
 footler 1
