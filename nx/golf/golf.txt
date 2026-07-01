@@ -599,7 +599,7 @@ guineas 3
 gorgoniacea
 ghostweed 4
 graveside 1
-gloryless 1
+gloryless 2
 gurnets 2
 gramaries 1
 gazophylacium 2
@@ -2732,7 +2732,7 @@ gastrotympanites 2
 gentianella 2
 gadhelic 1
 gung 2
-granulitic 5
+granulitic 6
 gippers
 garbs 3
 garnished 1
@@ -6927,7 +6927,7 @@ graciosity
 grandeval 1
 golgotha 1
 goodliness 1
-grassflower
+grassflower 1
 grammy 3
 gorgeousness 1
 glumous 1
@@ -10759,7 +10759,7 @@ gedackt 1
 geckotoid 2
 glucuronic
 globulin 1
-gorsebird 3
+gorsebird 4
 grovelers
 gouge
 gerodontics
