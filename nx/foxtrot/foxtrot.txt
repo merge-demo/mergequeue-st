@@ -10713,7 +10713,7 @@ fg 1
 fusel 1
 foreset 1
 foresheets
-fleuretty
+fleuretty 1
 fortuneless 1
 fringilla 3
 fecks
