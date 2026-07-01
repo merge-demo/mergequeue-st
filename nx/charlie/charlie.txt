@@ -1019,7 +1019,7 @@ colourtype
 cohoba 1
 calascione
 cydonia 1
-calastic 1
+calastic 2
 calathea
 calathi
 calathidia
@@ -3346,7 +3346,7 @@ cogware
 chelates
 caponata 1
 chloroacetic
-ceilometer 1
+ceilometer 2
 capone
 caponette 2
 caponier
@@ -3476,7 +3476,7 @@ caldron
 caproin
 concubinate
 camptodrome
-causeuse 1
+causeuse 2
 comprehends
 casimir
 craniovertebral
@@ -4164,7 +4164,7 @@ creels
 cardiographies
 cardiohepatic
 cardioid
-courche
+courche 1
 calandrinia 1
 cumflutter 1
 cortaro
@@ -5737,7 +5737,7 @@ corey 1
 colocates
 catched
 catcher
-coccidioides
+coccidioides 1
 concretions
 coriin 1
 cheneau 1
@@ -25400,7 +25400,7 @@ coquette
 cornetter
 carkled
 cornetti 2
-cornettino
+cornettino 1
 cornettist
 cornetto 2
 committent
@@ -30603,7 +30603,7 @@ chinese 1
 conduction
 cuchia 1
 cuck
-cuckhold 1
+cuckhold 2
 commissioner
 chastisement
 compend
