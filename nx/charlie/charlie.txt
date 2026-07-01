@@ -3532,7 +3532,7 @@ clamer
 capsulizing
 cabman
 cibola
-capsulogenous 2
+capsulogenous 3
 cataphyllum
 callus 1
 capsulolenticular 1
@@ -10347,7 +10347,7 @@ chicot
 chronaxy
 chicqued
 chicquer
-chicquest
+chicquest 1
 cooperite 1
 clay
 chicquing
@@ -19902,7 +19902,7 @@ comicography
 contraremonstrant
 cyclecar
 charadriiform
-comicotragical
+comicotragical 1
 comicry 1
 credibility
 costumier
