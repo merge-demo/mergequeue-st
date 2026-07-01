@@ -669,7 +669,7 @@ bechances 2
 boatmen 1
 beletter 2
 bronchocavernous
-bynames
+bynames 1
 bungles
 bkpr 1
 backbitten 1
@@ -1875,7 +1875,7 @@ bandelette 2
 banderma
 banderol 1
 befrets
-banderole 1
+banderole 2
 bastardliness
 bindings
 brigading
@@ -2022,7 +2022,7 @@ bloodsucking 1
 bilsteds
 begoniaceous
 bangos 1
-blubberman 1
+blubberman 2
 bandlimiting
 brezhnev
 bulrushy
@@ -5329,7 +5329,7 @@ buroo 2
 beglide
 batekes 1
 burkers 1
-bor
+bor 1
 beglooms 1
 begloze
 busti 1
