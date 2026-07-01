@@ -4298,7 +4298,7 @@ enactor 2
 epigrammatize 3
 entoproct 1
 eloquence 2
-exclaustration
+exclaustration 1
 enamelist 1
 enamelless
 emit 2
@@ -7209,7 +7209,7 @@ eccaleobion 1
 enshadow 5
 eopalaeozoic
 egocentrically
-erysipelothrix
+erysipelothrix 1
 eorhyolite 2
 extinguishable
 eos
@@ -10011,7 +10011,7 @@ evanishing
 electrodiagnostically
 extrorsal 1
 electrodiagnostic 1
-expellable 1
+expellable 2
 ethanal 1
 esoterical 1
 eternalize
@@ -10813,7 +10813,7 @@ embracer 1
 eucrystalline 1
 elastance 2
 eurodollar
-essart 1
+essart 2
 entasia 1
 eleanor
 expurgatory 2
@@ -12624,7 +12624,7 @@ electrophoreses 1
 embossable
 exocoelic 1
 enharbour
-explant 1
+explant 2
 epicardium 3
 exocoelum
 epifascial
