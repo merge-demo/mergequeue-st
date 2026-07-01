@@ -2450,7 +2450,7 @@ frontwise 2
 faitery
 foreproduct 1
 fermentable 4
-fermentativeness
+fermentativeness 1
 faradize
 falus
 footbridges 2
