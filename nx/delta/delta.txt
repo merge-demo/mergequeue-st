@@ -782,7 +782,7 @@ dandled
 dopaoxidase 1
 dandler
 defs
-dispurpose
+dispurpose 1
 drawn
 devolatilize 1
 dacryocystotomy 2
@@ -11103,7 +11103,7 @@ donating
 disattaint 1
 disattune
 defiling
-diplomacy
+diplomacy 1
 dysautonomia
 disavail 2
 dayroom 1
@@ -12415,7 +12415,7 @@ deciduate 1
 detrital
 dishumanize 1
 deipnodiplomatic
-doffer
+doffer 1
 dimethylmethane 1
 dagon 1
 dishwasher
