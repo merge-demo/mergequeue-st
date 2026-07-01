@@ -6436,7 +6436,7 @@ exclude 2
 endometriosis
 embolismus
 eurypteroidea
-ensoul
+ensoul 1
 ensouled 1
 evolutes 1
 ectodermic
@@ -8511,7 +8511,7 @@ esophagotome
 enteromere 1
 equatable 3
 epiphanised 1
-eudaemons
+eudaemons 1
 ecclesiasticize 1
 essentializing 1
 echinated
