@@ -1059,7 +1059,7 @@ darn 1
 darndest 1
 darnels
 dehepatize 1
-destandardize 1
+destandardize 2
 diplohedral
 dishes
 diacodium 1
@@ -1424,7 +1424,7 @@ dissatisfactoriness 2
 desipient 2
 diligentia 1
 disintegrable
-dulcid
+dulcid 1
 dechoralize 1
 deportation 1
 dawdling
@@ -3358,7 +3358,7 @@ dullery
 despecialize 1
 definitor 1
 desulphurized
-dogmouth
+dogmouth 1
 dentils
 doles
 deturn 2
@@ -3644,7 +3644,7 @@ diploic 2
 deprogrammer
 depreciators 1
 dunt 1
-deglutition
+deglutition 1
 deglutitious 2
 degold
 decathlon
@@ -3829,7 +3829,7 @@ deselects 2
 disinteresting 1
 dissceptred 1
 decorationist
-deionizer
+deionizer 1
 deipnophobia 2
 disembarkations
 dilutes 2
@@ -8618,7 +8618,7 @@ diary
 diaglyph
 diarist 2
 dibbuk 2
-denatured
+denatured 1
 diarrhea
 dows
 decarchy 3
