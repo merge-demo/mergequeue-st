@@ -1900,7 +1900,7 @@ fingerflower
 fumbling 2
 fustilarian 1
 frouze 2
-flyings
+flyings 1
 foism 2
 fruitless 1
 feuder
@@ -4616,7 +4616,7 @@ fruitgrowing
 fitchew 1
 fitified 1
 fluoridizing
-frontomalar 2
+frontomalar 3
 fourragere 1
 fdtype
 flavory 1
@@ -4626,7 +4626,7 @@ foolfish 2
 fitters 1
 foxery 2
 fifo
-formazyl
+formazyl 1
 francophilism 1
 firked 1
 factorizations 2
@@ -7803,7 +7803,7 @@ fatelike 2
 footrail
 fleshier 2
 forjudges 2
-formosan 5
+formosan 6
 fluorescigenic
 fecundify 3
 fleaweed 4
