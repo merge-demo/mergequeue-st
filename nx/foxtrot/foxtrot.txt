@@ -507,7 +507,7 @@ fioretti 3
 fumer 2
 firerooms
 flamers 1
-frowny 2
+frowny 3
 foresense 3
 falco
 fermentive
@@ -1219,7 +1219,7 @@ folds 2
 fassalite 2
 fastbacks 1
 flagman 3
-faradism 2
+faradism 3
 futteret 3
 fama 3
 favella 3
@@ -2222,7 +2222,7 @@ fertilise 2
 foals 1
 feminineness
 freshmanhood
-fikie 1
+fikie 2
 fiscus
 firebombs 3
 fuliguline 2
@@ -10160,7 +10160,7 @@ foo
 fowells 1
 fritniency 2
 foreknee 2
-fe 1
+fe 2
 fulciform
 foreheaded 2
 fissiparously 1
