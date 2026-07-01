@@ -2574,7 +2574,7 @@ barilla
 beleaf
 barters 1
 bathofloric
-baryon 1
+baryon 2
 bathometer 2
 brio
 baryphonia
@@ -4290,7 +4290,7 @@ bluestockingism 1
 bebloods
 burke 1
 basurale 1
-boggish
+boggish 1
 bathyscaph 1
 battledore
 bacterious 1
@@ -10218,7 +10218,7 @@ bemuslined
 benty
 bryaceous
 breads 2
-britany 2
+britany 3
 backwort
 bootstraps
 bondhold
@@ -11283,7 +11283,7 @@ braver
 bullshits 1
 basketries
 blowguns
-butling 3
+butling 4
 blatchang
 bronchoesophagoscopy
 beshackle
@@ -11810,7 +11810,7 @@ bluefish 1
 bocconia
 byrl
 bices 1
-bepommel 1
+bepommel 2
 bystreets
 bullishly
 breechblock
@@ -12737,7 +12737,7 @@ birdliming
 busters 5
 beheld
 biometrician 1
-bunyoro 2
+bunyoro 3
 bookmakers 2
 bidarka 1
 begarie
@@ -14331,7 +14331,7 @@ bedirtying 2
 braggle
 bragite
 blimps
-bluet
+bluet 1
 bessi 1
 bannister 1
 bourignonism
@@ -16940,7 +16940,7 @@ basten
 balloonation 1
 bressomer 2
 bugong
-balloonlike
+balloonlike 1
 bugout 1
 bugs 2
 bugweed
@@ -18105,7 +18105,7 @@ butcher
 blindstorey 1
 bupleurum 2
 boosts
-blocklayer 1
+blocklayer 2
 butcherbird 1
 bellylike 1
 breakably
