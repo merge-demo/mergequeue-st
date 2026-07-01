@@ -4610,7 +4610,7 @@ flowmanostat
 folsom 1
 footweary
 forborn
-foresaying 1
+foresaying 2
 formulising 4
 fruitgrowing
 fitchew 1
@@ -11609,7 +11609,7 @@ fealty 2
 fol 1
 ferrado 2
 fraternal
-febrifugal
+febrifugal 1
 for
 fetch
 forcarve 1
