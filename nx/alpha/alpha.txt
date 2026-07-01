@@ -1455,7 +1455,7 @@ adipofibroma 1
 axilemmata
 accessive
 anoplocephalic 1
-aurichalcum 1
+aurichalcum 2
 awlessness
 alg 2
 aaru
@@ -12813,7 +12813,7 @@ aubergine
 angiodermatitis
 angiodiascopy
 allegiare
-angiogeny
+angiogeny 1
 anyway
 anhelous
 anachronously
@@ -15582,7 +15582,7 @@ aquaplanes
 antimonies
 aboves
 abseil
-antimoniuret 1
+antimoniuret 2
 anatine
 antethem
 acetabulum
