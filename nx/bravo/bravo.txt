@@ -1401,7 +1401,7 @@ baldheads 1
 bilcock
 borneols 3
 beblain
-bushings 1
+bushings 2
 baldish
 ballparks 1
 baldmoney 1
@@ -2696,7 +2696,7 @@ bungy 1
 blowoffs 3
 birdland
 boraxes
-beakhead
+beakhead 1
 baxterianism 1
 burnouses
 bewaitered
@@ -12873,7 +12873,7 @@ babblish
 boonfellow 1
 betrayers 2
 bondslave 2
-behorror 2
+behorror 3
 bifoil 1
 birthplace 1
 bg 1
@@ -16030,7 +16030,7 @@ bibionidae 1
 bronchoplasty 1
 backstitching 1
 bronchorrhaphy
-bronchorrhea
+bronchorrhea 1
 bronchos
 bogged 2
 bronchoscopic 1
