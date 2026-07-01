@@ -1706,7 +1706,7 @@ calorifics 1
 caricography 1
 ceraunia
 calorifier
-calorimetry
+calorimetry 1
 calorimetrically
 calorimotor
 calorist
@@ -12084,7 +12084,7 @@ clansman 1
 casula
 carpophalangeal
 calcydon
-chose
+chose 1
 chophouses
 coursed 1
 choses 1
@@ -15164,7 +15164,7 @@ capsuler
 commendably 1
 claimant
 cezannesque
-claimants
+claimants 1
 claimed
 closky
 consumables
@@ -18160,7 +18160,7 @@ coercible 3
 coercionary
 coercitive 1
 coercive
-coerciveness
+coerciveness 1
 coercivity
 coerebidae
 coerected 2
@@ -18621,7 +18621,7 @@ coinciding
 cadillacs 1
 cystomata
 coinclination
-coachability 1
+coachability 2
 coincorporate
 condemnation
 coindicant
@@ -18672,7 +18672,7 @@ countermeasures
 clearheaded 1
 crafty
 conourish
-corporales 2
+corporales 3
 cointensity
 cointerest
 cointerred
@@ -19509,7 +19509,7 @@ canulating 1
 colpoperineoplasty 1
 colpoperineorrhaphy
 cantonment
-caledonian
+caledonian 1
 casimires 1
 cowpony 1
 convenientness
