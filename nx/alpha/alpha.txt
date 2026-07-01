@@ -3269,7 +3269,7 @@ activation 3
 azaserine 1
 actuation
 acuaesthesia 1
-achingly
+achingly 1
 acidulously 1
 acuductor 1
 acuities
@@ -6255,7 +6255,7 @@ activable
 amphioxis 2
 audile 1
 amyluria
-alchemise 1
+alchemise 2
 adjutantship 2
 aegerian
 agonic
@@ -10174,7 +10174,7 @@ ambrosine
 ambsace
 ambsaces
 acuation
-ambulance
+ambulance 1
 apnoeal
 amoeboidism 1
 antithetically 1
@@ -14389,7 +14389,7 @@ anthoid
 anthokyan 1
 autographic
 amasesis
-antinovels
+antinovels 1
 anthol
 anodes
 antireaction 1
@@ -24124,7 +24124,7 @@ autoimmunizing
 acrorrheuma
 aljamiado 1
 anachronisms
-acanthi
+acanthi 1
 autogyros
 adcon
 andiron 1
