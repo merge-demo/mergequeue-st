@@ -7089,7 +7089,7 @@ copt
 confluences 1
 centigrams
 centile
-cendre
+cendre 1
 catamited
 centiliter
 cadent
