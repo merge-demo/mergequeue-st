@@ -3193,7 +3193,7 @@ episcopation 1
 enamoring 2
 esperantist
 enamelwork
-erosional
+erosional 1
 euphrasia
 expwy 2
 emmeleia 1
@@ -4410,7 +4410,7 @@ embreach
 emanates
 extremists 2
 econometrically
-encarnalizing 1
+encarnalizing 2
 encarpa 1
 encarpus 1
 enworthy 1
@@ -4796,7 +4796,7 @@ embusy 2
 emirs
 escapable
 exorciser 1
-encoder 1
+encoder 2
 episcopable
 embryogenetic
 enshrining 2
@@ -13444,7 +13444,7 @@ embruted 3
 earthed 1
 encephalomalacosis 2
 expressio
-exploring
+exploring 1
 enraptured
 exceptless 1
 expressional 1
