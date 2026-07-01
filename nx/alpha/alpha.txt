@@ -2245,7 +2245,7 @@ aethereal
 antecabinet 1
 aphotaxis 1
 alleviation
-achrodextrinase 1
+achrodextrinase 2
 anticentralism
 achroglobin
 acts 1
@@ -6299,7 +6299,7 @@ afteryears 1
 anteprostatic 1
 analogion
 agouara
-acetoacetic
+acetoacetic 1
 amarth
 antioptimist
 anachronically
@@ -6595,7 +6595,7 @@ aidant
 aided
 amphigamae
 amchoor 1
-aydendron 1
+aydendron 2
 achenocarp
 aidenn
 appleringy
@@ -8558,7 +8558,7 @@ antiship 1
 awols
 alkyne 1
 alkitran 2
-argufy
+argufy 1
 alkool
 antagonize
 acervately
@@ -10417,7 +10417,7 @@ avocados
 aliment
 americophobe
 archikaryon
-alberttype
+alberttype 1
 amerimnon
 analysing 1
 abducing
@@ -14362,7 +14362,7 @@ anthicidae 1
 adroiter
 arthroplastic
 amercements
-anthills
+anthills 1
 anthine
 amnesic 2
 anthypnotic 1
@@ -19286,7 +19286,7 @@ arenilitic 1
 arenites 2
 anthraquinonyl
 alberca 1
-aristas 1
+aristas 2
 absentmindedly 1
 arenoid
 alation
@@ -20095,7 +20095,7 @@ arpents 1
 apocholic
 ascidia 2
 anisanthous 1
-antihectic 2
+antihectic 3
 arracach 2
 ascitb
 airwayman
@@ -20975,7 +20975,7 @@ anteorbital
 autotroph
 ascendancy 1
 ascendantly
-ascendence
+ascendence 1
 arteriomalacia
 aftershaves 1
 ascending 1
