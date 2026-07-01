@@ -3532,7 +3532,7 @@ clamer
 capsulizing
 cabman
 cibola
-capsulogenous 2
+capsulogenous 3
 cataphyllum
 callus 1
 capsulolenticular 1
@@ -7711,7 +7711,7 @@ chorogi
 cerotypes 1
 confirmedly 1
 cerous 1
-cerrial
+cerrial 1
 coarctate 1
 cecidology
 certain
@@ -14231,7 +14231,7 @@ circumgenital 1
 clubhouse 1
 camelopardidae
 circumgestation
-circumgyrate
+circumgyrate 1
 circumgyratory
 camisado
 counterstruggle
@@ -17250,7 +17250,7 @@ coalpit 2
 cryptograph 1
 coalsacks 1
 cachucha
-cinematical
+cinematical 1
 cantil
 coalternate 1
 coaltitude
@@ -20534,7 +20534,7 @@ cainism
 condors
 clouts 1
 compatibleness 1
-carhop
+carhop 1
 chlorider 1
 compatriotic 1
 chilicote
