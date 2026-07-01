@@ -1091,7 +1091,7 @@ forbade
 familiarizing 1
 figaro 1
 frizzling 1
-farthing
+farthing 1
 foresay
 fluffing 1
 feverishness
@@ -3999,7 +3999,7 @@ foramina 2
 fishery
 fixups 2
 forleft
-fingersmith 1
+fingersmith 2
 ferison
 flushy 1
 furrow
@@ -4358,7 +4358,7 @@ forfeitable
 fibroplastic 4
 flyte 2
 foh 3
-figureheads 3
+figureheads 4
 flavo
 furied
 frogfishes
@@ -6896,7 +6896,7 @@ flammeous
 fidepromission 3
 folklike 2
 feasible 3
-fallace 1
+fallace 2
 folklores 1
 fp
 fow 1
@@ -9853,7 +9853,7 @@ feldspathic
 featheredge 2
 floweret
 fuds
-firedamps 1
+firedamps 2
 fragmentary 1
 fattens 2
 foredooming 1
