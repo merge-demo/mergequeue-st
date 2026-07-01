@@ -439,7 +439,7 @@ bandobust 2
 borecole
 backscraper
 backset 1
-basename
+basename 1
 bernie 1
 brinjaree
 betowered
