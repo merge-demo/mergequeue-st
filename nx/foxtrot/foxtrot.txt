@@ -488,7 +488,7 @@ foretokens
 frieseite
 fiumara
 forcleave
-fakery
+fakery 1
 flaxweed 2
 funbre 2
 frisch 1
@@ -2333,7 +2333,7 @@ frillings 1
 fecula 2
 fenzelia
 firestopping
-foreimagine 2
+foreimagine 3
 fconvert
 feoffer 1
 fiberous 1
@@ -5485,7 +5485,7 @@ foxer 3
 frillers
 fallation 2
 forweep
-fittable
+fittable 1
 fidelities 1
 feus
 floater 1
@@ -5843,7 +5843,7 @@ fayal
 foreparent 3
 fuciphagous 1
 feverously
-fluochloride 1
+fluochloride 2
 fattening 1
 fervidly
 firepower 1
@@ -5912,7 +5912,7 @@ foetalism 1
 furlers 2
 frangent 2
 formlessness
-flockwise
+flockwise 1
 ferruginate
 fusibility
 flocs 1
@@ -6112,7 +6112,7 @@ fatheaded 1
 folksinging
 fundmongering
 freebies 1
-friation 2
+friation 3
 firestone 1
 fitchering 2
 flotson
@@ -9299,7 +9299,7 @@ fascinery
 frontispieced 1
 fraktur
 fasciolet
-fresnel
+fresnel 1
 flavoury 4
 foresentence 1
 fetishist 1
@@ -10713,7 +10713,7 @@ fg 1
 fusel 1
 foreset 1
 foresheets
-fleuretty
+fleuretty 1
 fortuneless 1
 fringilla 3
 fecks
@@ -10875,7 +10875,7 @@ fumblingly
 fallout
 fontal 1
 frisky
-flagitiously 1
+flagitiously 2
 forwore 1
 flowing
 frondosely 1
@@ -11635,7 +11635,7 @@ forehew
 fustigatory
 fumy 2
 friendship
-fetlow
+fetlow 1
 frizzled
 fineness
 fructoses 2
