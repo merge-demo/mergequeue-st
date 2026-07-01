@@ -7206,7 +7206,7 @@ electrocatalytic
 encephalomere
 epidemiology 3
 eccaleobion 1
-enshadow 4
+enshadow 5
 eopalaeozoic
 egocentrically
 erysipelothrix
@@ -7826,7 +7826,7 @@ epigrammatizing 1
 endaortitis 1
 endonuclease
 erection
-epilimnia
+epilimnia 1
 epigrams
 entozoan 1
 epiguanine 1
@@ -10609,10 +10609,10 @@ ecstasis 5
 expensing
 englobing 3
 elvanite
-enviroment
+enviroment 1
 eledone
 enterpriseless
-epiplopexy 1
+epiplopexy 2
 esoterize 1
 egoizer 2
 eutechnic
@@ -11302,7 +11302,7 @@ eikonogen
 evaporates 1
 edp
 eimer
-extrascholastic
+extrascholastic 1
 euphorbine 2
 elbowboard 1
 evaporating 2
