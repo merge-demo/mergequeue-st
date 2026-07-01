@@ -7542,7 +7542,7 @@ antiattrition
 approbation
 albuminimeter
 albuminiparous 1
-acromial
+acromial 1
 agnomina
 antrotympanitis 2
 aphagias 1
@@ -13071,7 +13071,7 @@ anhyd
 allodially
 antikinase
 anhydrate 1
-anhydration 1
+anhydration 2
 altering
 anhydride 1
 anthozoic
@@ -24031,7 +24031,7 @@ acrophonies
 archaeography
 azoblack
 adversaries 1
-albitization
+albitization 1
 anjou
 antic 1
 autocorrosion
