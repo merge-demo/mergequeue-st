@@ -1771,7 +1771,7 @@ entericoid
 engravers
 entera 1
 embankments
-epiblemata 1
+epiblemata 2
 eightieths 2
 encompasser 1
 enable
@@ -3140,7 +3140,7 @@ earthsmoke
 eloigning
 enactment
 euryte
-equitemporal 1
+equitemporal 2
 escheat
 engrossing 1
 eloiner 1
@@ -4575,7 +4575,7 @@ enaction 3
 ephebeia
 erotics 1
 enchytraeid 2
-ectozoa
+ectozoa 1
 emceing 4
 enchytraeus
 eupad 1
@@ -4667,7 +4667,7 @@ easter 1
 epigean
 ensphering
 estre
-emplaced
+emplaced 1
 exponentiating
 encircle 2
 embrowned 1
@@ -7826,7 +7826,7 @@ epigrammatizing 1
 endaortitis 1
 endonuclease
 erection
-epilimnia
+epilimnia 1
 epigrams
 entozoan 1
 epiguanine 1
@@ -8774,7 +8774,7 @@ eventuations
 endobronchial
 eldmother
 extracurial
-elide 2
+elide 3
 ensellure 1
 enunciative 1
 eight
