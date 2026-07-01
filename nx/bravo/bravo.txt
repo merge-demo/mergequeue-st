@@ -2642,7 +2642,7 @@ berlinize 2
 birdhouses
 bilges 1
 botanise 1
-belayed 1
+belayed 2
 begirdle 1
 battening 1
 borrows 1
@@ -7274,7 +7274,7 @@ betake 2
 buckshees
 barkevikite 1
 betakes
-beneventana
+beneventana 1
 bacalao 1
 blowby 2
 betanglement
@@ -7678,7 +7678,7 @@ brahmany 1
 boe
 blackflies
 biocenotic
-bezils
+bezils 1
 boyardom 2
 babished 2
 baldricwise 2
