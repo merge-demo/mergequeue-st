@@ -1768,7 +1768,7 @@ gelatinotype 2
 grippelike 1
 ghyll 1
 glutinate 2
-gestalten
+gestalten 1
 granodioritic 1
 gangwaymen
 gobbe 1
@@ -4357,7 +4357,7 @@ gorgoneum 1
 guestling
 gutted 2
 ghaut 2
-gluer 1
+gluer 2
 griffinage
 gynodioecious 1
 gophers 1
