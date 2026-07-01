@@ -1249,7 +1249,7 @@ disobligation
 dateless 1
 datelessness 1
 denizate
-disserve
+disserve 1
 datelining 1
 datemark
 disenter
@@ -5321,7 +5321,7 @@ displaced
 denticle
 desegmented
 dentifrice 1
-dentil 1
+dentil 2
 discussional 2
 dentiled 1
 dimin 1
@@ -12157,7 +12157,7 @@ demander 1
 depurates
 duply
 disambiguates 1
-demideify
+demideify 1
 dribblement 2
 dysphonic
 disflesh
@@ -14654,7 +14654,7 @@ deferens
 djellabah 1
 decanically 1
 distruss 1
-dampest
+dampest 1
 djerib 1
 demonolatrous 1
 dialogizing
