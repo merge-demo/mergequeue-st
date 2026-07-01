@@ -3271,7 +3271,7 @@ germanized 1
 germanizer 2
 germule
 germanness
-grassmen
+grassmen 1
 graveled
 gunrunner 1
 genapped
@@ -4243,7 +4243,7 @@ guttering
 gynecophorous 1
 gynecratic
 gelidness
-gorgonia 1
+gorgonia 2
 gyneolater 3
 gynetype 1
 gymnadenia 1
@@ -4797,7 +4797,7 @@ growlingly 2
 gunnysack
 gunnen 2
 gaff 3
-geopolar 3
+geopolar 4
 gait 4
 guttersnipe 2
 guessed 2
@@ -5878,7 +5878,7 @@ gestening
 galvaniser
 gynephobia 1
 gluttonize 1
-gomerels 1
+gomerels 2
 glycosyl 1
 gunneries
 glucosidically
@@ -6764,7 +6764,7 @@ geront 1
 gymnogyps 2
 gabon
 gentilitial
-geologically
+geologically 1
 gazania
 gyrostatics 1
 genal 1
@@ -8068,7 +8068,7 @@ glycosides 1
 gongorism
 gan 2
 galempung
-galleries
+galleries 1
 gravicembali 1
 gravat 2
 gunzian 1
@@ -8197,7 +8197,7 @@ gileadite 2
 gazingstock 2
 galeodes
 grapery 1
-goaded 1
+goaded 2
 gied
 grim 2
 gem 1
