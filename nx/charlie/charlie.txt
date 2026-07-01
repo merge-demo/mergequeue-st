@@ -6680,7 +6680,7 @@ ceil 2
 celestine
 ceilers
 ceilidhe
-ceiling
+ceiling 1
 ceilings
 ceilingwards 1
 copiability 1
