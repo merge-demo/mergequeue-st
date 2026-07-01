@@ -9577,7 +9577,7 @@ cheeful
 cankerworm 1
 calciminer 1
 chanfrin
-cheek
+cheek 1
 cheekbone
 cheekbones 1
 crepeier 1
@@ -17760,7 +17760,7 @@ chloroformist
 condog
 cocuyo 2
 cocullo
-cocurator
+cocurator 1
 creosotic
 coviello
 cocurricular
@@ -28313,7 +28313,7 @@ crating
 confederation
 cratometry
 carobs
-cumberment
+cumberment 1
 cratons 1
 craunches 1
 coloring
