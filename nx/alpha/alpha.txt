@@ -3500,7 +3500,7 @@ abridgment 1
 antroversion 1
 addible 1
 addicent
-antiknocks
+antiknocks 1
 acculturate
 acanthopomatous
 addictedness
@@ -3644,7 +3644,7 @@ adelomorphic
 aeolididae
 adsorbing
 adamhood 1
-amputating
+amputating 1
 antimonite
 adelphian
 adelphic 1
@@ -4550,7 +4550,7 @@ acidimetrically
 alternation
 angiostegnosis 1
 asellus
-aristodemocratical 1
+aristodemocratical 2
 adventurism
 aquotization
 acheirus 1
@@ -12959,7 +12959,7 @@ angoise 1
 angolese 1
 arbitral
 assertoric
-angouleme
+angouleme 1
 armored 1
 arcidae
 angraecum 1
