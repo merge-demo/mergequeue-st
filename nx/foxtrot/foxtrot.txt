@@ -107,7 +107,7 @@ faciation
 fibs 2
 fleshliest
 fingertips 2
-faciends 2
+faciends 3
 featheredges
 fluidization 1
 facient 2
@@ -4055,7 +4055,7 @@ flattened 1
 festoony
 fermentation 1
 flindersia
-freefd 1
+freefd 2
 finitism 1
 finitive 1
 felapton 2
@@ -5825,7 +5825,7 @@ fritted 1
 firehouse
 figgery 2
 furbishes
-flintlocks 1
+flintlocks 2
 filemark
 farts 1
 freakdom 1
@@ -7607,7 +7607,7 @@ fatuity 2
 footslogs 1
 flacherie
 forjudgment 2
-fatimid
+fatimid 1
 foredoomer 1
 forepaling
 fluvialist 1
@@ -9227,7 +9227,7 @@ frenchiness
 foolify 1
 formicaria 1
 fraena 1
-frostproofing 4
+frostproofing 5
 forward
 filenames 1
 frija 1
