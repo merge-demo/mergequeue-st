@@ -7542,7 +7542,7 @@ antiattrition
 approbation
 albuminimeter
 albuminiparous 1
-acromial
+acromial 1
 agnomina
 antrotympanitis 2
 aphagias 1
@@ -8315,7 +8315,7 @@ avowals
 acouasm
 anniellidae
 aliens
-accenting
+accenting 1
 aculea 1
 archin
 artefac
@@ -17270,7 +17270,7 @@ apoplex 2
 adamantoid
 anemometrographic
 aporhyolite
-allanites 1
+allanites 2
 apnoeas
 autobiographal
 actinidiaceae
@@ -24031,7 +24031,7 @@ acrophonies
 archaeography
 azoblack
 adversaries 1
-albitization
+albitization 1
 anjou
 antic 1
 autocorrosion
