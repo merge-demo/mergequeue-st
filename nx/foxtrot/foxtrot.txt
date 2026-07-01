@@ -1499,7 +1499,7 @@ filibeg
 flauntiness 2
 forepiece 2
 faunish
-fleecing
+fleecing 1
 foamers
 franklinite 1
 franconian
@@ -6640,7 +6640,7 @@ fecche 1
 fantaseid
 flacianism 1
 forkwise 2
-frilliest
+frilliest 1
 fantasize 1
 fancify 1
 footpath
@@ -8033,7 +8033,7 @@ flavorer
 feuter
 farfugium
 fletton 2
-foredeep 1
+foredeep 2
 forespencer 2
 formols 4
 furrure 1
@@ -10671,7 +10671,7 @@ femininity 1
 freezingly
 friandise 2
 fruitbearing 3
-foremark 1
+foremark 2
 frailties 1
 fusc 1
 frankness 1
