@@ -5821,7 +5821,7 @@ ashmen 1
 awacs 1
 apickaback
 auxilium
-ancestor
+ancestor 1
 affirmatives
 agate
 agates 1
@@ -15384,7 +15384,7 @@ antiking 1
 aposematic
 araneology 1
 antikings
-arachnoidal 1
+arachnoidal 2
 agenes
 anatherum
 akalimba 1
@@ -21277,7 +21277,7 @@ ahistorical 1
 asiatican 1
 asiaticize
 assuredly 1
-acromania
+acromania 1
 aurothiosulphuric
 arteriolar 1
 arcuated
