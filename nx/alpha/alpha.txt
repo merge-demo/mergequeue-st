@@ -856,7 +856,7 @@ apparelling
 asexualized 1
 absalom 1
 ambisinistrous
-absampere 1
+absampere 2
 alalunga 1
 awanting 5
 ambiguities 1
@@ -7398,7 +7398,7 @@ arctically
 albert
 albertin
 albertine
-albertist
+albertist 1
 adnomination 1
 antitradition
 azolitmin 1
@@ -7617,7 +7617,7 @@ alcanna
 acardiac 1
 ascophyllum
 anastomos
-astragal
+astragal 1
 alcazaba
 apophonic
 anisomeles
@@ -7869,7 +7869,7 @@ aleak 1
 aleatory
 archcorsair
 aleatoric 2
-amylophosphoric 1
+amylophosphoric 2
 academics
 aquae 1
 analphabetical 2
@@ -11906,7 +11906,7 @@ alconde 1
 analogousness 2
 analogue 1
 analphabet
-analphabete
+analphabete 1
 amphibium 2
 angelus 1
 aminoformic
@@ -12339,7 +12339,7 @@ authoritarians
 asthmatic 1
 antiblennorrhagic 1
 alysson 1
-anticipate 2
+anticipate 3
 anconas
 anconeus
 aeroneurosis
