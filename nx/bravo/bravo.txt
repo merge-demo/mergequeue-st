@@ -4432,7 +4432,7 @@ bypassing
 becloaks
 blackfriars 3
 batule
-becloak 2
+becloak 3
 bereavement
 boojum 3
 bethorning
@@ -6027,7 +6027,7 @@ bauxitic
 bowenite
 boiling 1
 brouette 1
-bradyphasia
+bradyphasia 1
 blanquillos
 butcherless
 balaenid
@@ -6063,7 +6063,7 @@ brainless
 ben
 biostatistics
 beadworks 1
-benacus
+benacus 1
 benamee
 breadboard
 botanizing 2
@@ -7274,7 +7274,7 @@ betake 2
 buckshees
 barkevikite 1
 betakes
-beneventana
+beneventana 1
 bacalao 1
 blowby 2
 betanglement
