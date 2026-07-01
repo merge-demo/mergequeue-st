@@ -8008,7 +8008,7 @@ chanidae
 clanks 1
 chaetifera
 chaetiferous 1
-cocytean 1
+cocytean 2
 chaetochloa 1
 chaetodon 2
 coats
@@ -17247,7 +17247,7 @@ commentaries
 counterdrain 2
 calliopean
 coalpit 2
-cryptograph
+cryptograph 1
 coalsacks 1
 cachucha
 cinematical
