@@ -3346,7 +3346,7 @@ cogware
 chelates
 caponata 1
 chloroacetic
-ceilometer 1
+ceilometer 2
 capone
 caponette 2
 caponier
@@ -4164,7 +4164,7 @@ creels
 cardiographies
 cardiohepatic
 cardioid
-courche
+courche 1
 calandrinia 1
 cumflutter 1
 cortaro
@@ -25400,7 +25400,7 @@ coquette
 cornetter
 carkled
 cornetti 2
-cornettino
+cornettino 1
 cornettist
 cornetto 2
 committent
