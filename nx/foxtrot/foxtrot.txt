@@ -561,7 +561,7 @@ folklorism 1
 forjudger 1
 frequentative
 frappe 2
-feeblish 1
+feeblish 2
 funerate 1
 flagstaff 1
 frighteningly 2
@@ -2831,7 +2831,7 @@ fluidly 1
 flosses 1
 floorman 2
 feminisation 2
-fishhouse
+fishhouse 1
 ferrozirconium
 floodlights
 fideicommiss
@@ -3709,7 +3709,7 @@ found 1
 fierasferid
 fistulas 1
 forleit
-finales 2
+finales 3
 furling
 flocoon 1
 fillips 1
@@ -4526,7 +4526,7 @@ fluctuability
 fusser 1
 frugal
 forwardsearch
-fractionized 2
+fractionized 3
 formulate
 felinophile 1
 filemarks 1
@@ -4690,7 +4690,7 @@ flopwing 1
 fangs
 fummel 1
 furtherer
-flamboyancy 1
+flamboyancy 2
 fistlike 1
 fizgig
 fidged 1
@@ -4841,7 +4841,7 @@ finlet
 festinately 1
 freedwomen 2
 fructiparous
-feasting 1
+feasting 2
 furnishing
 foliums
 franciscan 1
@@ -7427,7 +7427,7 @@ figgum 3
 fille
 fawnlike 1
 fans 1
-faintful
+faintful 1
 fleckiest 1
 firefang 2
 ferrocerium 2
