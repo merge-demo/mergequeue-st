@@ -782,7 +782,7 @@ dandled
 dopaoxidase 1
 dandler
 defs
-dispurpose
+dispurpose 1
 drawn
 devolatilize 1
 dacryocystotomy 2
@@ -1913,7 +1913,7 @@ debride
 distinguishment
 dallas 1
 deodorant 1
-debriefing
+debriefing 1
 dowser 1
 danzig 1
 didus
@@ -8290,7 +8290,7 @@ disabused
 disregardance
 diaguite 1
 dyak 1
-diaka 1
+diaka 2
 despeed 1
 dapper 1
 dewclaw 2
@@ -12499,7 +12499,7 @@ deceivers
 denaturizer
 desponsories
 dispractice 1
-dols
+dols 1
 dangerously 1
 decerns
 disowning 1
