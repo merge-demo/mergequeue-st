@@ -1852,7 +1852,7 @@ aortosclerosis
 anthropomorphous
 afterend
 allamanda
-acephalist
+acephalist 1
 anonymousness
 adumbratively
 acephalocyst 2
@@ -3724,7 +3724,7 @@ accumulative 1
 adenopodous 1
 adenosarcomata
 adiaphoristic 1
-axiation 1
+axiation 2
 acuating
 anureses 1
 arrant 1
@@ -4618,7 +4618,7 @@ adiaphorism 1
 advisal 1
 autohypnotism
 antheridial
-aboriginally
+aboriginally 1
 alferez 1
 argolic
 aune 1
@@ -6191,7 +6191,7 @@ antistaphylococcic
 abatable 1
 agnation 1
 azotised 1
-aus
+aus 1
 amphi 1
 aerographic 1
 anthosiderite
@@ -9537,7 +9537,7 @@ asininely 1
 anglos 1
 atamascos
 altezza 2
-antimaterialist 1
+antimaterialist 2
 ascomycete 1
 adulteries
 altheas
@@ -16770,7 +16770,7 @@ aphetize 1
 armours 1
 adiposity 1
 aphidivorous
-aphidolysin
+aphidolysin 1
 autopsychorhythmia 1
 aphodi
 archipterygium
@@ -23105,7 +23105,7 @@ antisplenetic 2
 armigers
 alluviation
 antephialtic 1
-auscultatory 1
+auscultatory 2
 attars 1
 anticommercialistic 2
 anarthropoda
@@ -24642,7 +24642,7 @@ actinophore
 amyraldism
 alloxuric
 aveloz 1
-autoheterodyne
+autoheterodyne 1
 aralkyl
 ambassador
 antischolastically 1
