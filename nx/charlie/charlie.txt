@@ -8794,7 +8794,7 @@ char
 conveyability
 crouchingly
 chara
-charabanc 1
+charabanc 2
 compensativeness
 clitoridectomies 1
 characeae
@@ -16410,7 +16410,7 @@ chub
 cliver 1
 clivers 1
 clk
-clo
+clo 1
 cloaca 1
 cloacae
 cryptanalyzed 1
@@ -17237,7 +17237,7 @@ cumaphytic 1
 cephalacanthidae
 counterbalances 1
 confederated
-cytoplasm
+cytoplasm 1
 cleans
 crumple
 coalizer
@@ -27166,7 +27166,7 @@ counterstroke
 cyclopoid 1
 clientless
 cellulate
-countersuit
+countersuit 1
 cubehead
 countersun 1
 countersunken 1
