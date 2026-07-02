@@ -4959,7 +4959,7 @@ flocculus
 fictionist 1
 foxing 1
 fan 2
-facepiece
+facepiece 1
 floorages
 flamingant 1
 foremarch 1
@@ -8446,7 +8446,7 @@ flyflapper
 fellfare 1
 foreking
 fictively 1
-fuseboard
+fuseboard 1
 fm 1
 filcher 1
 fullom
@@ -9501,7 +9501,7 @@ furnaceman
 fulcrate 2
 furculum
 fastwalk 3
-febricitant 1
+febricitant 2
 fidele 2
 fraternities 2
 fumarates 2
