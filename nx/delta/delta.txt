@@ -799,7 +799,7 @@ dovecote
 diuretical 1
 danegelds 1
 deckhead
-daneweed
+daneweed 1
 daneweeds 1
 detections
 dactyliomancy
@@ -1540,7 +1540,7 @@ dieugard
 dynamisms
 dupondius
 dedoggerelize 2
-deacons 2
+deacons 3
 demobilizes 1
 diphygenic
 deactivate 2
@@ -6363,7 +6363,7 @@ dashikis
 despond
 derogate 2
 denuclearization 1
-derogates
+derogates 1
 disadvantageously
 diglyceride 1
 dixie
@@ -12422,7 +12422,7 @@ dishwasher
 discharm 1
 dishwashers
 dichlone
-distemperature 1
+distemperature 2
 demonstrant
 dishwashings
 dibromobenzene 1
@@ -13796,7 +13796,7 @@ delayed 1
 dalteen
 dissuading
 determinations
-docoglossa 1
+docoglossa 2
 disturbedly 1
 disenchants 1
 dion 1
