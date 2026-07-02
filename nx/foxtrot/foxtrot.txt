@@ -3384,7 +3384,7 @@ follicles 2
 frothed 1
 flokite 3
 frameableness 1
-floramour
+floramour 1
 fuller 1
 flyweights
 facemaking 1
@@ -5700,7 +5700,7 @@ fasnacht 2
 ferratin 1
 footpound 2
 folioliferous 1
-fresnels 2
+fresnels 3
 factional 1
 flyovers 3
 flype 4
@@ -10954,7 +10954,7 @@ fub
 foehn 3
 flexure 1
 field 1
-fetal
+fetal 1
 floorage
 fadridden 1
 fack
