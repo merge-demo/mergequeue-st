@@ -2452,7 +2452,7 @@ foreproduct 1
 fermentable 4
 fermentativeness 1
 faradize
-falus
+falus 1
 footbridges 2
 fermentescible
 filiform 1
@@ -3209,7 +3209,7 @@ flavourer
 flotages
 fringiness 1
 fucinita 2
-foods
+foods 1
 fogman
 feloness 1
 floorshift
@@ -7118,7 +7118,7 @@ footage 1
 fibrillae
 fuscous 2
 fulminic 1
-foredays 1
+foredays 2
 flaglet 1
 frowning 1
 feh
@@ -7636,7 +7636,7 @@ forheed 1
 foreffelt 2
 folioed 1
 fimbrillae
-feminised 1
+feminised 2
 fester 2
 fabular
 facsimilist 2
