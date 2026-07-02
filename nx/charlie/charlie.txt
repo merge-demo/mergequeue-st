@@ -15597,7 +15597,7 @@ coxcombries
 countering 2
 clatterer
 crucifier
-clattery 1
+clattery 2
 captainly 1
 clattering 1
 chicaner
@@ -17008,7 +17008,7 @@ contributary
 cistuses
 cnida
 castorized
-cnemidium
+cnemidium 1
 cnemis
 caryatides
 cneorum
