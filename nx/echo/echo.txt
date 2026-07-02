@@ -3725,7 +3725,7 @@ exercitorial 2
 ectoderms
 extravagantness
 enfranchise 1
-erodability 1
+erodability 2
 excessiveness 1
 encumbers 1
 enfetter 3
@@ -4898,7 +4898,7 @@ effacer 1
 emulsifiable 1
 embole 1
 endowed
-expertly
+expertly 1
 entopical 1
 epineurial 1
 enthronise 1
@@ -7200,7 +7200,7 @@ eolopiles
 expurgates
 enraptures
 enigmatically
-emulsification
+emulsification 1
 exsector 1
 electrocatalytic
 encephalomere
@@ -8678,7 +8678,7 @@ eked 1
 equisetaceous 1
 enchain 2
 erupting
-enamorate 3
+enamorate 4
 eradications 1
 escalate 2
 enjoyed
