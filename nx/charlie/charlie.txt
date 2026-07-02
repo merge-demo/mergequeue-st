@@ -276,7 +276,7 @@ chinin
 counterlode 2
 cottoning
 cachexias
-cachexies
+cachexies 1
 cathection 1
 cachibou 1
 caching
@@ -10375,7 +10375,7 @@ chieftaincy 1
 chieftainry 1
 complexify
 chalcosiderite 1
-chieftainries 1
+chieftainries 2
 concludendi 1
 commorancies
 chirring
@@ -23871,7 +23871,7 @@ contrive 1
 curds
 cinchonology
 cowroid
-caracal
+caracal 1
 contriver 1
 cookmaid
 cheesery
