@@ -1933,7 +1933,7 @@ furtherance
 finback 1
 feteritas 1
 federalistic
-freight
+freight 1
 furling 2
 fileable 2
 friable 2
@@ -5031,7 +5031,7 @@ flutes
 flatbeds 1
 flanneling
 floush
-fungoidal
+fungoidal 1
 ferries 1
 fumatory
 forekeel 3
@@ -5532,7 +5532,7 @@ furnit 3
 faked 1
 faithfulness 2
 filionymic
-fondaco
+fondaco 1
 forbearingness
 frowzy 4
 faldage
@@ -6334,7 +6334,7 @@ frags 1
 fluidity
 fuzzy
 funicle
-flack 1
+flack 2
 futural
 fullback
 finessed 3
@@ -8910,7 +8910,7 @@ fibrinoplastic
 fotmal 2
 folkvang
 faithfully 2
-furbelow
+furbelow 1
 flambage 1
 froghopper 2
 faulter
@@ -11383,7 +11383,7 @@ foister
 factish 1
 focalizing
 fluorindin 2
-fibropolypus 1
+fibropolypus 2
 fruitade 1
 faute 2
 furnacelike 2
