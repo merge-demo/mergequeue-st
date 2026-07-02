@@ -2229,7 +2229,7 @@ antifanatic
 abatjours 1
 agrostology
 alure
-alqueire
+alqueire 1
 amyelotrophy
 achordata
 anthologizer 1
@@ -4246,7 +4246,7 @@ appliqueing
 antigrammatically
 apocynum
 apepsy
-acroparalysis 1
+acroparalysis 2
 ador 1
 adorable 1
 ablegate
@@ -8934,7 +8934,7 @@ allogeneic
 adream 1
 antisceptical 1
 achromatizable
-allantoid
+allantoid 1
 admired 1
 arrhythmy
 alloiogenesis
@@ -10481,7 +10481,7 @@ ametrous
 amhar
 afterbirths 1
 alcade 1
-aminophylline
+aminophylline 1
 archispore
 araba 1
 amiability
@@ -18215,7 +18215,7 @@ aquifer 1
 avanturine
 amelu
 actifier
-antispiritualist
+antispiritualist 1
 alcaptonuria
 aquifoliaceous
 aquifuge 1
@@ -21627,7 +21627,7 @@ alkalizes 2
 acetometrically
 anisomerous
 assayable 2
-afterpotential
+afterpotential 1
 assayed
 aphonous
 amorist 2
