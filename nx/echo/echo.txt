@@ -4259,7 +4259,7 @@ enlay 3
 escarpments 3
 ectogenous 1
 engs 1
-enhydra
+enhydra 1
 ethnobiological
 equiponderate 1
 excerpts
@@ -5483,7 +5483,7 @@ exorcising
 experimenting 1
 experimenter 2
 evertors 1
-eurindic 1
+eurindic 2
 extraocular
 exoterics 1
 espiritual
@@ -7406,7 +7406,7 @@ ephemeridae 1
 ephemeroptera 5
 eigne
 extrafocal
-equianchorate
+equianchorate 1
 electronographic
 eyess
 extracivically
@@ -10735,7 +10735,7 @@ ecologic 2
 euhyostylic
 eukairite 2
 enfavor 2
-entameba
+entameba 1
 eaver 1
 enwraps 1
 exedra 1
@@ -13102,7 +13102,7 @@ eleuin
 ejectable 1
 epicarp 2
 expenditrix
-ecclesiophobia
+ecclesiophobia 1
 enfonced 2
 euclid 1
 epimyocardium
