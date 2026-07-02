@@ -436,7 +436,7 @@ emperize
 embiodea
 explicated
 ergo 2
-electroballistic 2
+electroballistic 3
 engager
 escapements
 erf 2
@@ -3078,7 +3078,7 @@ epilogic 1
 endarterium 2
 entellus 1
 et 2
-enheritage 3
+enheritage 4
 endamoeba 2
 embeds 1
 emp 1
@@ -4220,7 +4220,7 @@ earwiggy 1
 ewhow 1
 echograph 1
 exporters
-expiree
+expiree 1
 escarping 2
 escambio
 emulousness
@@ -4451,7 +4451,7 @@ ensilage 1
 endolithic 1
 encephalartos
 encephalasthenia 2
-effloresced
+effloresced 1
 encephalitic 1
 executively
 emulators 1
@@ -10063,7 +10063,7 @@ enchainment 1
 epigonism 1
 ethal
 exoneretur
-ebonies
+ebonies 1
 encephalographically
 editorially 1
 entitlement
