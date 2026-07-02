@@ -1603,7 +1603,7 @@ agonize 2
 autosensitized
 attaintment
 antidrag
-accorporation
+accorporation 1
 antilogism
 anglicizes
 accost 1
@@ -13402,7 +13402,7 @@ anyways 1
 anywhen
 advertize
 ascill
-anywhence
+anywhence 1
 appurtenance
 anywhither
 anywither
