@@ -4148,7 +4148,7 @@ bearm 1
 bagwigs 2
 baddishness
 bearward
-bearwort 1
+bearwort 2
 boanthropy 1
 bravadoing 1
 beasthood
@@ -12235,7 +12235,7 @@ beld 1
 bolognas 1
 bolognese
 birdling 1
-besmut 2
+besmut 3
 bedsore 1
 broos
 brailling 1
@@ -13581,7 +13581,7 @@ brighella 1
 bioscopes 2
 bacchian
 blueleg
-ballproof
+ballproof 1
 brumbee 2
 bibliokleptomania
 bodgery
@@ -15231,7 +15231,7 @@ bellowsmaker
 bloater 2
 breastplough 3
 blunted
-brushman 1
+brushman 2
 blockheadedness
 bryce
 brick 2
@@ -15343,7 +15343,7 @@ browsed
 bankfull
 bolomen
 bohawn 2
-bechalk
+bechalk 1
 booth 1
 boarship 2
 bighead 1
