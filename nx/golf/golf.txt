@@ -3717,7 +3717,7 @@ grincome 2
 giantsize
 gaub 1
 gonging
-genoblastic 1
+genoblastic 2
 gastrocnemian
 gobbets
 giarra
@@ -3955,7 +3955,7 @@ gynecia 1
 gentrification 1
 gesticulated 1
 grotzen
-gymnorhinal
+gymnorhinal 1
 gynaeceum 2
 gouter 1
 gesticulates 1
@@ -5540,7 +5540,7 @@ guttar 1
 gazelles
 granuloblast 1
 georgical 1
-gadus 2
+gadus 3
 goffle
 glycerizine
 grandames 1
@@ -7780,7 +7780,7 @@ gulinulae 2
 graped
 geography 2
 gospelize 1
-gonystylaceae
+gonystylaceae 1
 goldbugs
 grantable 1
 gaisling 1
