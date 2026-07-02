@@ -3829,7 +3829,7 @@ gigahertzes
 galloperdix
 gigaherz 1
 gymnarchidae 2
-genips 3
+genips 4
 giulio 2
 gighe 1
 gramaryes 2
@@ -3858,7 +3858,7 @@ gravidae 2
 goral 1
 goslet 4
 glossem 1
-geminated
+geminated 1
 glens 2
 glossocarcinoma 2
 grossly 1
@@ -4409,7 +4409,7 @@ generaliter 1
 greffier
 graveyard 2
 gipsydom 1
-giddyhead
+giddyhead 1
 gepoun 1
 gastrotomies 3
 gugu 1
@@ -4937,7 +4937,7 @@ germanic 1
 greatmouthed 2
 grolier 2
 greensward
-grippe 1
+grippe 2
 gunhouse
 goiabada
 gravida 3
@@ -6202,7 +6202,7 @@ grimacier 1
 goatfishes 1
 gigmanic
 gytrash 3
-gilbertine 1
+gilbertine 2
 gymnastics
 glissader 2
 gregor
@@ -7237,7 +7237,7 @@ gratuitousness
 guarani 3
 gimblet
 guarneri 1
-gavages
+gavages 1
 gekkonidae
 grievously 1
 glabella 2
@@ -8682,7 +8682,7 @@ gastronomical 1
 gests 3
 gradients 1
 grizzliness 2
-groynes 2
+groynes 3
 gapeseed
 greatness 4
 gapers 2
