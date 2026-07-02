@@ -551,7 +551,7 @@ bulgarophil 1
 bloodnoun 2
 butyl
 bernard 2
-blit 2
+blit 3
 backwardness 1
 belgium 1
 bakerlike 2
@@ -6319,7 +6319,7 @@ benzalethylamine 1
 benzalphenylhydrazone 1
 beaconwise
 benzamide 2
-blowdown
+blowdown 1
 benzoxate
 badgerbrush
 benzamine 1
@@ -12658,7 +12658,7 @@ babacoote
 boobish
 boosterism 1
 branchiura 1
-boobs
+boobs 1
 beguin 1
 bedunch 1
 blueth
@@ -13920,7 +13920,7 @@ boatswains 1
 brainish
 bowshots 1
 boomkins 1
-backstopped 2
+backstopped 3
 backhauled 2
 brugh 1
 brushoffs
@@ -17060,7 +17060,7 @@ bushbeck
 boiette 2
 brachiocephalic
 barosinusitis 1
-bullamacow 1
+bullamacow 2
 bleakly 2
 brodekin
 bullate
