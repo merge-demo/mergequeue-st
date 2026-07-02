@@ -6648,7 +6648,7 @@ drabs
 diastimeter 1
 desertlessly
 dungaree
-deserts
+deserts 1
 deserve 1
 dotingly
 depreciatoriness 1
@@ -8232,7 +8232,7 @@ diagnosed
 diagnostical
 diagnostically 1
 diagnosticate
-denitrating 1
+denitrating 2
 dendrophilous 1
 divergency 1
 dinotherium
@@ -11066,7 +11066,7 @@ drollness
 daturas
 dechloridize
 disennui 3
-disarms 1
+disarms 2
 dishonouring
 disarray
 dictatorial
