@@ -578,7 +578,7 @@ dialers
 decolonized
 daunch 3
 drillbit 3
-damfool
+damfool 1
 div
 digenea
 dissolver
@@ -4430,7 +4430,7 @@ doddy
 damper 3
 diazotization 1
 demibeast
-demibelt 1
+demibelt 2
 deuterate
 drummy 1
 dislink
@@ -4915,7 +4915,7 @@ demoralized 2
 demoralizers
 draughty
 debussy
-demoralizes 1
+demoralizes 2
 demorphism
 delectated
 decate 1
@@ -7204,7 +7204,7 @@ decadactylous
 detainal
 destructionist 3
 dattos
-disafforest 1
+disafforest 2
 desulfurised 2
 doomsdays 1
 dehiscence
@@ -7399,7 +7399,7 @@ detonize
 detour
 duncifying
 detectability 1
-detouring
+detouring 1
 deliriums
 dermacentor 1
 diadoche
@@ -14587,7 +14587,7 @@ diurn
 deoxyribonucleoprotein 1
 dismemberment
 demureness 1
-denotive
+denotive 1
 disastrousness 1
 dysfunction 1
 damourite 1
