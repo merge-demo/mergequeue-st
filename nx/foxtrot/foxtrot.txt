@@ -63,7 +63,7 @@ fibrolite
 fconv 3
 fabulously
 facebar 1
-facebow 1
+facebow 2
 fenchone
 faceharden 1
 flagships
@@ -5209,7 +5209,7 @@ familarity 2
 fieldwork
 frumpery
 funest
-fraternizes
+fraternizes 1
 formylating 2
 fictionising
 flinders 1
