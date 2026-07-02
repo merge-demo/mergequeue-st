@@ -3209,7 +3209,7 @@ flavourer
 flotages
 fringiness 1
 fucinita 2
-foods
+foods 1
 fogman
 feloness 1
 floorshift
@@ -7118,7 +7118,7 @@ footage 1
 fibrillae
 fuscous 2
 fulminic 1
-foredays 1
+foredays 2
 flaglet 1
 frowning 1
 feh
