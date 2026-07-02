@@ -2644,7 +2644,7 @@ delinquents
 decenniad
 decompensations 1
 dasylirion
-doorkeeper
+doorkeeper 1
 decompiler 2
 decomposable
 diceman
@@ -3147,7 +3147,7 @@ dingey
 doorbell
 dinnery
 defeated
-downs
+downs 1
 diluviate 1
 dissimulated
 drouths
@@ -5440,7 +5440,7 @@ damnable 1
 dubba 1
 dolley 1
 dilutors
-declamation
+declamation 1
 disseminative 2
 deoxidisation
 dissolubility
@@ -12472,7 +12472,7 @@ disempower
 dispersoidological
 disimprison 3
 dentinitis 1
-diageotropism
+diageotropism 1
 diopsidae
 daube
 dysmerogenetic
@@ -15823,7 +15823,7 @@ distillers
 disprovable 1
 dooja 1
 dorsolumbar
-deliberators 1
+deliberators 2
 dankly 1
 develing 2
 dynastes 1
