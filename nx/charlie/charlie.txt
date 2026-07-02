@@ -295,7 +295,7 @@ calicoback
 cachuchas
 cachunde 1
 comournful
-caci
+caci 1
 cacicus 1
 camote 2
 carangin 2
@@ -2330,7 +2330,7 @@ chimeres
 caprone
 chylocyst 1
 cipher 2
-canali
+canali 1
 canalicular
 convenance 1
 curatial 2
@@ -19076,7 +19076,7 @@ chariots
 colliery
 crises
 callable 1
-camb 1
+camb 2
 colliflower
 cruset 1
 craker 1
@@ -21499,7 +21499,7 @@ cemetary
 cluster
 concorporate
 culverts 2
-concorporated
+concorporated 1
 compartimento
 craniognomy 1
 concourse
@@ -24844,7 +24844,7 @@ coquicken 1
 cartload
 contumax
 coquille 1
-corrade 1
+corrade 2
 conductivity
 cheesecakes 1
 coquitlam
@@ -26002,7 +26002,7 @@ corvine
 couthie
 colonization
 corviser 1
-corvo
+corvo 1
 chapel
 chamade 1
 corvoid
