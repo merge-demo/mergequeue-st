@@ -1798,7 +1798,7 @@ anisyl
 adiamorphism 1
 adsorption
 afflicted
-actualist
+actualist 1
 asker 1
 abuse
 aceacenaphthene
@@ -2528,7 +2528,7 @@ acoasm
 acetin 1
 almogavar 1
 agregation 1
-aforethought
+aforethought 1
 avile
 acocantherin
 awaredom
@@ -18822,7 +18822,7 @@ autonephrectomy 1
 archesporial 1
 autocades
 archetypal
-arabian
+arabian 1
 archetypes
 attributive
 asymmetrically
@@ -23376,7 +23376,7 @@ acned 1
 allokinetic 2
 allophanamide
 amorphotae 1
-apposed 1
+apposed 2
 aridnesses
 axonemal 1
 acrostics
