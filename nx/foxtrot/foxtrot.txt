@@ -368,7 +368,7 @@ ferrymen 1
 furoid
 fearer 1
 filicauline 1
-fall 1
+fall 2
 forbid 1
 fairfieldite 1
 facets
@@ -6205,7 +6205,7 @@ formicating 1
 fakeries 1
 feuded 3
 foragement 2
-frumpishness
+frumpishness 1
 foe 1
 forecatharping
 fudder
