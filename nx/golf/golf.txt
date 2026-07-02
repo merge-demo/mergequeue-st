@@ -2877,7 +2877,7 @@ glycollic 3
 glints 1
 gallipots 1
 gledes
-gonocyte 1
+gonocyte 2
 gallinulelike
 gombos 1
 gingerous 1
@@ -3629,7 +3629,7 @@ gory 1
 ghost 1
 gnathonism 1
 gnathometer 1
-gasoliner 2
+gasoliner 3
 grubbery 3
 glyceral 1
 gulist
@@ -5709,7 +5709,7 @@ glossocele 1
 graian 1
 gaduin 3
 gallicize
-gummoses 1
+gummoses 2
 gantline
 gallant 2
 gaskins 1
@@ -7896,7 +7896,7 @@ garlandlike
 gabbais 1
 gurdle 1
 ghostlikeness 2
-grammatics
+grammatics 1
 gastropodous
 galik 2
 guepard 2
@@ -9417,7 +9417,7 @@ galloptious 4
 glycocholate 4
 gamble
 gingivoglossitis 1
-gingerliness 2
+gingerliness 3
 gingles 1
 glycollide 5
 gabionage 2
