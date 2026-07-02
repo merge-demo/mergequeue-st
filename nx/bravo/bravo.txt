@@ -9539,7 +9539,7 @@ baffeta 1
 births
 birthstones
 bulliform 1
-birthstool
+birthstool 1
 birthwort
 bitnet
 buttonbush
@@ -13282,7 +13282,7 @@ banderillas
 bipont
 branchstand
 barman
-bludge
+bludge 1
 bargello 2
 balawu
 baulking
