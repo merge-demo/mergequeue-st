@@ -2332,7 +2332,7 @@ explorational
 entocele 1
 explosive 1
 electromobilism 2
-excrete 2
+excrete 3
 espaliering
 encore 3
 encomia
@@ -4732,7 +4732,7 @@ embrocate
 ergasterion
 enbusshe 1
 epicrisis
-edwardsia
+edwardsia 1
 euxine 1
 equulei 2
 enneahedra 1
@@ -9781,7 +9781,7 @@ elegiacal 1
 exponentiate 2
 eustace
 ethylate
-ebracteolate 1
+ebracteolate 2
 enhanced 1
 escapade 1
 estaminet 2
@@ -10733,7 +10733,7 @@ emacerate
 emblazer
 ecologic 2
 euhyostylic
-eukairite 2
+eukairite 3
 enfavor 2
 entameba 1
 eaver 1
