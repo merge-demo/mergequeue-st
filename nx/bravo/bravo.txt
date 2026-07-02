@@ -2530,7 +2530,7 @@ buenos
 bassetite
 bottonhook
 buckler 1
-barguest 1
+barguest 2
 barguests
 buzylene 1
 baria 1
@@ -2657,7 +2657,7 @@ basilinna
 bescour 2
 bogyisms 1
 barbitals 1
-blousons
+blousons 1
 bodicemaker
 barlafummil
 biopsychologist
@@ -7447,7 +7447,7 @@ bifidities 2
 brew
 blastomas 1
 barbeau
-bookstack 2
+bookstack 3
 budgeting
 briards
 briefest 2
@@ -7918,7 +7918,7 @@ bongoists
 bluntishness
 brey
 blockhouse 2
-byron 1
+byron 2
 bibliophil
 benward
 barff 1
@@ -9841,7 +9841,7 @@ bawd
 bougainvillaeas
 burgherhood
 biteche 2
-barbicans 2
+barbicans 3
 bowdlerization
 barrels
 balawa 2
@@ -10565,7 +10565,7 @@ blate
 blately 1
 blateness
 bhisti
-brasseys
+brasseys 1
 bugshas 1
 browallia
 bilo
