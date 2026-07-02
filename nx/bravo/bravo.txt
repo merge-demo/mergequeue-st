@@ -2443,7 +2443,7 @@ bareback 1
 bolection 2
 butterwort 1
 bummalo 1
-benzpinacone
+benzpinacone 1
 bums
 bareca 3
 briar 1
@@ -12503,7 +12503,7 @@ bonebreaker
 bifoliolate
 brobdingnag 2
 bonedry
-bimillenium 1
+bimillenium 2
 broodier
 bellyflaught 2
 barcarolle
@@ -16659,7 +16659,7 @@ bucharest 3
 bunkoing 2
 burros
 balconette 1
-bught
+bught 1
 buck 2
 bayamo
 buckaroo
