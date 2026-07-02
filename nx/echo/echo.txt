@@ -2540,7 +2540,7 @@ eatable 1
 ezra 1
 emptiable
 electrometer
-exstrophy
+exstrophy 1
 earthgrubber
 electrometrical 1
 enchodontidae 3
@@ -8788,7 +8788,7 @@ entempest
 empetraceous 2
 entomostracous
 erat 1
-ethoxy 2
+ethoxy 3
 ethnobotanist 3
 effleurage 1
 erd 1
@@ -9448,7 +9448,7 @@ embanks 1
 estudy 1
 entocoel 1
 electives 1
-eliquation 3
+eliquation 4
 exsculp
 electronic 1
 extroverted 1
