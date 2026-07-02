@@ -2555,7 +2555,7 @@ besnare 1
 bs 1
 bilamellar
 boerdom 1
-brackishness 1
+brackishness 2
 begster
 birk
 backlists
@@ -6979,7 +6979,7 @@ bunns 1
 betroth
 bundling
 batrachians
-borderism
+borderism 1
 bewelter
 brae
 besmirchers 1
@@ -6991,7 +6991,7 @@ betrust
 bleeders 1
 basilian 1
 besmouch 1
-bloodying 1
+bloodying 2
 bacteritic
 besmudge 1
 beamless
