@@ -1899,7 +1899,7 @@ gear
 gravewards 1
 guideship 1
 galactosuria
-goalkeepers
+goalkeepers 1
 greaseless 3
 gushy 1
 greeve 2
@@ -7243,7 +7243,7 @@ grievously 1
 glabella 2
 gerrymander 2
 gelatinisation
-goriness 1
+goriness 2
 gillian 2
 galvanometrically 5
 germanocentric 1
@@ -9933,7 +9933,7 @@ guitarfishes 1
 guardianship 1
 guarantors 2
 garb 1
-graffiti 2
+graffiti 3
 gumptions
 grilladed 1
 guarico 2
