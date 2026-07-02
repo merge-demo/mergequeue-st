@@ -717,7 +717,7 @@ deboner
 dopester 2
 dendrologist
 diatom
-dyspnoeas 2
+dyspnoeas 3
 deadmelt 3
 doorplates 2
 danceability 2
@@ -5681,7 +5681,7 @@ deplorableness
 disrepair 1
 dirgy 1
 deplore 1
-deplumated
+deplumated 1
 disposes
 deemer
 deplumes
@@ -17861,7 +17861,7 @@ dodecaphonically 1
 desalts
 ductilize
 disambiguated
-dueling
+dueling 1
 ductless
 drinkable
 darktown 3
