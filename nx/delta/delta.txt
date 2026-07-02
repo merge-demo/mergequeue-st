@@ -799,7 +799,7 @@ dovecote
 diuretical 1
 danegelds 1
 deckhead
-daneweed
+daneweed 1
 daneweeds 1
 detections
 dactyliomancy
@@ -1540,7 +1540,7 @@ dieugard
 dynamisms
 dupondius
 dedoggerelize 2
-deacons 2
+deacons 3
 demobilizes 1
 diphygenic
 deactivate 2
@@ -12422,7 +12422,7 @@ dishwasher
 discharm 1
 dishwashers
 dichlone
-distemperature 1
+distemperature 2
 demonstrant
 dishwashings
 dibromobenzene 1
@@ -15221,7 +15221,7 @@ duff
 departmentalizing 1
 dollia 1
 deuteranopic 1
-dullification
+dullification 1
 dissociate
 dingmaul
 drabnesses 1
@@ -17325,7 +17325,7 @@ dzo 1
 decapitator 2
 deducible 3
 dromoi 1
-dockize 1
+dockize 2
 digitoxigenin
 denigrated
 dandyish 1
