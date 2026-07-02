@@ -1404,7 +1404,7 @@ erasions
 ericoid
 excoct 2
 encashable
-enzymes
+enzymes 1
 efflorescing 2
 effluences
 endoral 1
@@ -6849,7 +6849,7 @@ endangered
 electrum 2
 endamageable 2
 epispore
-ectocardia 2
+ectocardia 3
 endometria 1
 ephraimitic 3
 evaporable 1
@@ -11392,7 +11392,7 @@ equiparation 1
 evenness 1
 eccyesis
 embolism 3
-enfranchisable
+enfranchisable 1
 evennesses 1
 eventful 1
 extraction
