@@ -1899,7 +1899,7 @@ gear
 gravewards 1
 guideship 1
 galactosuria
-goalkeepers
+goalkeepers 1
 greaseless 3
 gushy 1
 greeve 2
@@ -3848,7 +3848,7 @@ graupel 1
 genioplasty 1
 genetrix 1
 gateworks 1
-glaciological 3
+glaciological 4
 gonotome
 grippier 1
 gosling 2
@@ -3916,7 +3916,7 @@ gynecocratical 1
 gracile 1
 guano 2
 gagers
-grassnut
+grassnut 1
 grex 1
 gluttonousness 1
 graphometrical 2
@@ -9933,7 +9933,7 @@ guitarfishes 1
 guardianship 1
 guarantors 2
 garb 1
-graffiti 2
+graffiti 3
 gumptions
 grilladed 1
 guarico 2
