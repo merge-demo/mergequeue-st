@@ -2680,7 +2680,7 @@ extranatural 2
 excitors 1
 enmesh 1
 enduros 1
-electrotherapy
+electrotherapy 1
 electrotheraputic 3
 emyds 1
 elaeopten
@@ -4241,7 +4241,7 @@ eptatretus 1
 emulsion 1
 etherene 1
 esotrope
-echoless
+echoless 1
 excruciatingly 1
 erysibe 1
 earjewel
@@ -9623,7 +9623,7 @@ embost 1
 espartos 1
 enhydritic 2
 especialness
-esperantido 1
+esperantido 2
 extrapatriarchal 2
 enclosing
 emissaries
@@ -14100,7 +14100,7 @@ esteem
 evolutionistically
 episternum
 evils
-eliasite
+eliasite 1
 epimerised 1
 exterminable 2
 exhaustless
