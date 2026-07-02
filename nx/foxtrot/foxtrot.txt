@@ -16,7 +16,7 @@ flagellators 1
 forcing
 fylker 1
 fablemaker 1
-funkers 2
+funkers 3
 fernyear 1
 fremituses
 frankers 2
@@ -1562,7 +1562,7 @@ fleecelike 2
 fourstrand
 falsettist 1
 fibrinogen 4
-filespec
+filespec 1
 floristic 1
 favorites 2
 furstone 1
@@ -3255,7 +3255,7 @@ fluorinate 1
 fittit 1
 foreknowledge 1
 freestanding
-forthrightly
+forthrightly 1
 faradizer 1
 flaught 2
 filbert 1
@@ -9971,7 +9971,7 @@ flanes
 falconry 2
 filoplumaceous 3
 furcular 1
-forkbeard
+forkbeard 1
 fleabane
 formated 4
 feceris 2
