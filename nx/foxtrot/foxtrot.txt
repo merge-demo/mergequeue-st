@@ -2089,7 +2089,7 @@ foredefine
 fainty 1
 fesapo 1
 filletlike
-fear 2
+fear 3
 firmers
 forerehearsed
 fell 1
@@ -3191,7 +3191,7 @@ firma 2
 feministic 2
 fauns 2
 ficaries 3
-flouse 1
+flouse 2
 fices 2
 fuchsinophilous 5
 fermentitious 1
@@ -10396,7 +10396,7 @@ foretimes 2
 fidding 3
 formicaries 1
 fantoddish
-fibreware
+fibreware 1
 forswore
 flatmate
 focoids 1
