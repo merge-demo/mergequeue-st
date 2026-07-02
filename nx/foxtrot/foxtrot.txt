@@ -463,7 +463,7 @@ fumble 1
 foreclosures 3
 fleetful
 frotteurs 1
-fuseau
+fuseau 1
 fakeer 1
 fissiparism
 featherleaf
@@ -6603,7 +6603,7 @@ fissileness 1
 fascioliasis 1
 feelies
 flagrante 1
-frogfish 3
+frogfish 4
 forestaffs 2
 forecondemn
 forfending 4
@@ -7152,7 +7152,7 @@ furcula 2
 fatherlandish 2
 florivorous 2
 forbathe 3
-forebroads
+forebroads 1
 forgottenness 1
 frumenties 4
 fredaine 1
@@ -8446,7 +8446,7 @@ flyflapper
 fellfare 1
 foreking
 fictively 1
-fuseboard
+fuseboard 1
 fm 1
 filcher 1
 fullom
@@ -9501,7 +9501,7 @@ furnaceman
 fulcrate 2
 furculum
 fastwalk 3
-febricitant 1
+febricitant 2
 fidele 2
 fraternities 2
 fumarates 2
