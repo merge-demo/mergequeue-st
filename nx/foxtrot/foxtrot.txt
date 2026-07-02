@@ -2530,7 +2530,7 @@ frondescent 1
 ferrelling
 fluorine 5
 footropes 1
-fiatconfirmatio 1
+fiatconfirmatio 2
 fanam
 feeler 1
 frugivorous 2
@@ -5506,7 +5506,7 @@ fossed 1
 fretwork 1
 forbarred
 fratching 2
-foraged
+foraged 1
 fleshy 1
 fillet 1
 fettuccine
@@ -7619,7 +7619,7 @@ flintworker 2
 forespeak
 freezable 1
 fervors
-federating
+federating 1
 forril
 festino 1
 fatalize 2
