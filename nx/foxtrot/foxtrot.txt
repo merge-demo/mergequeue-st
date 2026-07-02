@@ -69,7 +69,7 @@ faceharden 1
 flagships
 flecken
 facellite 2
-ferrocyanide 2
+ferrocyanide 3
 furthers
 flysch
 fordeal 2
@@ -4688,7 +4688,7 @@ fixt 1
 furca 2
 flopwing 1
 fangs
-fummel 1
+fummel 2
 furtherer
 flamboyancy 1
 fistlike 1
@@ -7619,7 +7619,7 @@ flintworker 2
 forespeak
 freezable 1
 fervors
-federating
+federating 1
 forril
 festino 1
 fatalize 2
@@ -7967,7 +7967,7 @@ farinhas 1
 forebearing 1
 ferahan 1
 frowzily 1
-fadging 1
+fadging 2
 ferreled 1
 flacks
 fidejussionary 2
@@ -9855,7 +9855,7 @@ floweret
 fuds
 firedamps 2
 fragmentary 1
-fattens 2
+fattens 3
 foredooming 1
 fleck 2
 faddist
