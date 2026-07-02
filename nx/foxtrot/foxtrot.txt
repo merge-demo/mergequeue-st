@@ -5532,7 +5532,7 @@ furnit 3
 faked 1
 faithfulness 2
 filionymic
-fondaco
+fondaco 1
 forbearingness
 frowzy 4
 faldage
@@ -6334,7 +6334,7 @@ frags 1
 fluidity
 fuzzy
 funicle
-flack 1
+flack 2
 futural
 fullback
 finessed 3
@@ -8910,7 +8910,7 @@ fibrinoplastic
 fotmal 2
 folkvang
 faithfully 2
-furbelow
+furbelow 1
 flambage 1
 froghopper 2
 faulter
