@@ -2827,7 +2827,7 @@ argand
 armets
 acrochordon
 aggregata
-amyelencephalia
+amyelencephalia 1
 acrodactyla 1
 acrodont
 anarithmia 1
@@ -2975,7 +2975,7 @@ axiomatized 1
 areawide 2
 antiliberalist 1
 acroteleutic 2
-acception
+acception 1
 anteluminary 1
 auxobody 1
 ameerate
@@ -13071,7 +13071,7 @@ anhyd
 allodially
 antikinase
 anhydrate 1
-anhydration 2
+anhydration 3
 altering
 anhydride 1
 anthozoic
