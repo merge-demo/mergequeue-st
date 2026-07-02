@@ -180,7 +180,7 @@ decipherer
 daedaloid
 diel
 diaplasma
-daedalous 1
+daedalous 2
 divulgated 1
 defilable
 deforesting
@@ -3079,7 +3079,7 @@ drunkenly 1
 degradand 2
 delightfully
 disagrees 1
-defaces 1
+defaces 2
 disennoble 1
 defacing 1
 defacto
@@ -8766,7 +8766,7 @@ decagonal 2
 diazin 1
 drayman 1
 death
-decrassify
+decrassify 1
 droners 1
 dialoguer
 deuterodome
