@@ -19306,7 +19306,7 @@ colonies
 colonisability
 colonisable 1
 clinid
-consumingness
+consumingness 1
 colonisationist 1
 colonised 1
 colonising 2
@@ -26947,7 +26947,7 @@ countermand 1
 countermandable 1
 commelinaceae
 craniological
-contemner
+contemner 1
 cushioniness 1
 certhiidae
 creedalist 1
