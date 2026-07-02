@@ -578,7 +578,7 @@ dialers
 decolonized
 daunch 3
 drillbit 3
-damfool
+damfool 1
 div
 digenea
 dissolver
