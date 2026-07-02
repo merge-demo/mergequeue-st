@@ -19306,7 +19306,7 @@ colonies
 colonisability
 colonisable 1
 clinid
-consumingness
+consumingness 1
 colonisationist 1
 colonised 1
 colonising 2
