@@ -530,7 +530,7 @@ detonatable 1
 damaged 1
 detort 2
 damageous 1
-deaccessions
+deaccessions 1
 dovyalis 1
 deliber
 decrown
@@ -6411,7 +6411,7 @@ derust
 decameronic 1
 dispathy
 dervishism
-des 1
+des 2
 dispensative
 desensitized
 downwards 3
