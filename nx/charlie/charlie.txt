@@ -194,7 +194,7 @@ chutzpas
 choriocapillaris
 cabree
 cabrerite
-coltlike 1
+coltlike 2
 cunoniaceae 1
 cytisus 2
 cellulifugal
@@ -444,7 +444,7 @@ ceratin
 chondroepiphysis 2
 chromatology
 cactal
-crowners
+crowners 1
 concrete
 cactiform 1
 communications
@@ -2295,7 +2295,7 @@ corresponds 1
 canadite
 casbah
 celtdom
-coquina
+coquina 1
 conceivers 2
 canafistola
 canafistolo
@@ -7288,7 +7288,7 @@ commercer
 constitution
 conicity 1
 carnelians 2
-cryptolunatic
+cryptolunatic 1
 chloro 1
 caucasus
 crushes
@@ -26462,7 +26462,7 @@ cotising
 cajuns 1
 candroys
 capsulitis
-cotitular
+cotitular 1
 cotland
 chowk
 cotoin 3
