@@ -16,7 +16,7 @@ flagellators 1
 forcing
 fylker 1
 fablemaker 1
-funkers 2
+funkers 3
 fernyear 1
 fremituses
 frankers 2
@@ -623,7 +623,7 @@ flavored 2
 frithsoken 1
 flirtier
 further
-fallbacks
+fallbacks 1
 fluocarbonate
 fireclays
 fortitudinous 1
@@ -1291,7 +1291,7 @@ functionality 1
 frictionally 3
 factorylike 1
 fabulize 1
-fineleaf
+fineleaf 1
 fyttes 2
 famose 1
 flyable 1
@@ -1562,7 +1562,7 @@ fleecelike 2
 fourstrand
 falsettist 1
 fibrinogen 4
-filespec
+filespec 1
 floristic 1
 favorites 2
 furstone 1
@@ -1620,7 +1620,7 @@ fazes 2
 fiard
 flophouse 2
 fied 1
-fizzing 4
+fizzing 5
 fellowless 1
 fipenny
 four
@@ -3063,7 +3063,7 @@ foregone 2
 ferrimagnetism 3
 fractionalization
 fibril 1
-firker 2
+firker 3
 filtratable 1
 fairily 1
 freeish 1
@@ -6061,7 +6061,7 @@ frizz 1
 flunkeyize 1
 farting 2
 fungiform
-fenceful 1
+fenceful 2
 freebooted 1
 fraternate 1
 featness 2
@@ -10587,7 +10587,7 @@ fossilised 2
 fieldpiece 2
 frowziest 1
 frowzled
-firebases 3
+firebases 4
 fresh 1
 falding 1
 fibration 3
@@ -10966,7 +10966,7 @@ flanconade
 forgetness 1
 furfuran 3
 fusoid 3
-forewit
+forewit 1
 foreseing
 fooled 2
 fishplate
