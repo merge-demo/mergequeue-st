@@ -8993,7 +8993,7 @@ brattles
 bioherm 1
 besotting 2
 baybush
-bronzen
+bronzen 1
 beclamor
 bioinstrument 4
 biolinguistics 1
@@ -13887,7 +13887,7 @@ bicyclist
 bluefishes
 bauno 2
 bountiful
-bitbrace 1
+bitbrace 2
 boloball 1
 bowleg
 babirusa 2
@@ -14815,7 +14815,7 @@ brazers 2
 brows 2
 brazier
 bern
-backword
+backword 1
 barres
 ballooner 3
 bombable
