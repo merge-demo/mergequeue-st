@@ -1845,7 +1845,7 @@ debeige
 douzepers 1
 downwarp
 declinograph
-doorstead
+doorstead 1
 diacetamide
 diiodide 3
 doughnut 1
@@ -2608,7 +2608,7 @@ dirndl 1
 duramatral
 draffy 1
 disgustingness 2
-delthyrium
+delthyrium 1
 dacoitage
 decoll 1
 dossety 1
@@ -5870,7 +5870,7 @@ desecrator 2
 decompression 3
 dollmaking 1
 demagnetizer 1
-depressional
+depressional 1
 dulia
 decortication 3
 dotard
@@ -11425,7 +11425,7 @@ damasse 1
 dispositive
 deskbound 1
 dyotheletic
-dividuous 1
+dividuous 2
 dilatingly
 downturned
 dieted 3
