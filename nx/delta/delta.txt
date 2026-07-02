@@ -3083,7 +3083,7 @@ defaces 2
 disennoble 1
 defacing 1
 defacto
-defade
+defade 1
 dichlamydeous 3
 demiram
 defaillance
@@ -18182,7 +18182,7 @@ disappointed
 dictionary 2
 dumper
 defensemen 1
-demethylchlortetracycline
+demethylchlortetracycline 1
 dalesman 1
 duikerbuck 1
 dermographism
