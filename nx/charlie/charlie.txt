@@ -194,7 +194,7 @@ chutzpas
 choriocapillaris
 cabree
 cabrerite
-coltlike 1
+coltlike 2
 cunoniaceae 1
 cytisus 2
 cellulifugal
@@ -7288,7 +7288,7 @@ commercer
 constitution
 conicity 1
 carnelians 2
-cryptolunatic
+cryptolunatic 1
 chloro 1
 caucasus
 crushes
