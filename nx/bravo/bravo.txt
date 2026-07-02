@@ -551,7 +551,7 @@ bulgarophil 1
 bloodnoun 2
 butyl
 bernard 2
-blit 2
+blit 3
 backwardness 1
 belgium 1
 bakerlike 2
@@ -1936,7 +1936,7 @@ bubonalgia
 bandanas
 bergama 1
 bandogs 1
-bediademed 1
+bediademed 2
 barken 1
 bandoleer
 burlesquely
@@ -2780,7 +2780,7 @@ benzeneazobenzene
 benthamism
 brachyurous
 bawls 2
-barong 2
+barong 3
 befilch
 backstroking
 barrel
@@ -4232,7 +4232,7 @@ blanketeer
 beaupere 1
 beausire
 batetela 1
-bilharziasis
+bilharziasis 1
 beauteous 1
 beachmen
 beauti 1
@@ -4921,7 +4921,7 @@ beefaloes 1
 basketweaving 1
 birefringence 1
 bilimbis
-blackheartedly
+blackheartedly 1
 brig 1
 bonnne
 brevets
@@ -6319,7 +6319,7 @@ benzalethylamine 1
 benzalphenylhydrazone 1
 beaconwise
 benzamide 2
-blowdown
+blowdown 1
 benzoxate
 badgerbrush
 benzamine 1
@@ -10652,7 +10652,7 @@ boardy 1
 bleachworks
 bearableness 1
 bumblebees 1
-bleaker
+bleaker 1
 balanophoraceae
 bandspreading
 boardinghouse 1
@@ -17060,7 +17060,7 @@ bushbeck
 boiette 2
 brachiocephalic
 barosinusitis 1
-bullamacow 1
+bullamacow 2
 bleakly 2
 brodekin
 bullate
