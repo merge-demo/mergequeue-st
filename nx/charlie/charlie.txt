@@ -3795,7 +3795,7 @@ carbazole
 carbeen
 cantorian
 carbide
-classicize
+classicize 1
 carbyl
 catchy
 cenacle
@@ -4033,7 +4033,7 @@ carcinomatosis
 carpetweed
 cellophane
 cholers
-cornhusk
+cornhusk 1
 carcinomatous
 carcinomorphic 1
 cholericness
@@ -5842,7 +5842,7 @@ cardiazol 1
 cottus 2
 cannabins
 crinose
-currish 2
+currish 3
 categorise 1
 categorised 1
 chansonnier
@@ -26295,7 +26295,7 @@ correctional
 costious 1
 collagenic 1
 costipulator 2
-costispinal
+costispinal 1
 cylindromata
 costiveness 1
 changeableness 1
