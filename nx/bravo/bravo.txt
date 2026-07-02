@@ -362,7 +362,7 @@ bradypepsy
 backfiring 2
 basichromatinic
 backflowing
-backframe 1
+backframe 2
 bottegas 1
 backgame 1
 backgammon
@@ -2450,7 +2450,7 @@ briar 1
 barefaced 2
 britches
 bombacaceous
-baulk
+baulk 1
 bonete
 bradenhead
 byres
@@ -7377,7 +7377,7 @@ betis 1
 byproduct 1
 birdbath 1
 baze 1
-burleys
+burleys 1
 bourd
 braker
 busyworks
