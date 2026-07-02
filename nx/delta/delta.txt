@@ -1346,7 +1346,7 @@ daitya 1
 draughtsmanship 1
 derelinquish 1
 daunt 1
-daunted
+daunted 1
 dhobies 1
 daunters
 digraph
@@ -5565,7 +5565,7 @@ diastrophe 2
 diaskeuasis
 deperditely 1
 domain 1
-distinctest 2
+distinctest 3
 deperms 1
 disserves
 dabble
@@ -9589,7 +9589,7 @@ dastard
 disencumbers 1
 deerwood 1
 drazel 1
-dogmeat
+dogmeat 1
 diddering
 druse 1
 diguanide 2
@@ -10444,7 +10444,7 @@ douzainier 1
 diplomatism 1
 demibath 1
 diphonia
-dismiss
+dismiss 1
 drowsy
 duumvirs 1
 deglutitive
@@ -10945,7 +10945,7 @@ dheri
 dictyosiphon
 disaffirmation
 demilitarizes
-decidedness
+decidedness 1
 dermococcus
 dayberry
 dissyllabising 1
@@ -18533,7 +18533,7 @@ durbars 1
 dissonate
 diau 1
 dured
-decollated 1
+decollated 2
 disparting
 dapperly 2
 decriers
