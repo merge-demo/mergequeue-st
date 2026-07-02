@@ -12845,7 +12845,7 @@ angionoma
 aecidioform 1
 anglish
 awarder 1
-angiopathy 3
+angiopathy 4
 agnosis 2
 aeneolithic 1
 angioplasty
@@ -18215,7 +18215,7 @@ aquifer 1
 avanturine
 amelu
 actifier
-antispiritualist
+antispiritualist 1
 alcaptonuria
 aquifoliaceous
 aquifuge 1
@@ -21127,7 +21127,7 @@ auxamylase
 arnottos
 atramental 1
 alcoholism
-alkyloxy
+alkyloxy 1
 aulacomniaceae 1
 antarchistical 1
 asdic
