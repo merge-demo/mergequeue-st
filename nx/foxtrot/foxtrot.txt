@@ -6036,7 +6036,7 @@ fontange 1
 foggier 3
 forgab
 forespeech 3
-frontooccipital 2
+frontooccipital 3
 flanker 3
 fictionise
 fluoresce 2
@@ -8564,7 +8564,7 @@ formosity
 fidley
 flailing 3
 facetiation 1
-firehall
+firehall 1
 falsie 3
 fraudproof 1
 fissiparous
@@ -8982,7 +8982,7 @@ flueman
 feak 1
 filosus
 faultfinder 2
-funambulist 1
+funambulist 2
 fuddling
 frustule 1
 footsoreness
