@@ -362,7 +362,7 @@ bradypepsy
 backfiring 2
 basichromatinic
 backflowing
-backframe 1
+backframe 2
 bottegas 1
 backgame 1
 backgammon
@@ -2305,7 +2305,7 @@ bathochromy 1
 bellman
 brownly
 barbastelle
-barbate
+barbate 1
 beblister
 boiled 1
 bucculatrix 1
@@ -2450,7 +2450,7 @@ briar 1
 barefaced 2
 britches
 bombacaceous
-baulk
+baulk 1
 bonete
 bradenhead
 byres
@@ -2939,7 +2939,7 @@ blanco
 bited
 broad
 barrelled 1
-billfish
+billfish 1
 barrelmaker 1
 belemnoidea
 blissfully
