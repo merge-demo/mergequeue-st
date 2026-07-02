@@ -673,7 +673,7 @@ bynames 1
 bungles
 bkpr 1
 backbitten 1
-bacterized
+bacterized 1
 barefacedly
 brisk
 bactetiophage 1
@@ -2377,7 +2377,7 @@ bourignianist 1
 bagging
 boxboards
 barbotine
-bones
+bones 1
 butterless 1
 bluelines
 bastinade
@@ -2805,7 +2805,7 @@ bolding
 betulaceous
 blonder
 brazee
-barmie
+barmie 1
 bookends
 bowdlerism 4
 body
@@ -4506,7 +4506,7 @@ burstwort 4
 billeting 1
 bacchanalias 3
 bumptiously 1
-brokes
+brokes 1
 buffering 2
 buhrstone 3
 borocalcite
@@ -8478,7 +8478,7 @@ bouteloua 2
 bals
 bosonic
 bilgeway 1
-bilharzial
+bilharzial 1
 beglerbey
 bloaters
 biplosive
@@ -8492,7 +8492,7 @@ backwards 2
 batak
 biosocial
 brevicauda
-bilimbing 1
+bilimbing 2
 biophilous
 beaufin 2
 boddagh
@@ -9092,7 +9092,7 @@ breunnerite 1
 brittlewort
 bidented 2
 brown 1
-bandagist
+bandagist 1
 bicolours
 bays 1
 buzzwords
