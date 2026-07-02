@@ -63,7 +63,7 @@ fibrolite
 fconv 3
 fabulously
 facebar 1
-facebow 1
+facebow 2
 fenchone
 faceharden 1
 flagships
@@ -967,7 +967,7 @@ filoplume 2
 familiar
 fontanges
 flamiest 5
-filmsets 1
+filmsets 2
 foreshop 1
 factabling 1
 fulmina 2
@@ -1089,7 +1089,7 @@ fluster 2
 fluocerine 1
 forbade
 familiarizing 1
-figaro 2
+figaro 3
 frizzling 1
 farthing 2
 foresay
@@ -5209,7 +5209,7 @@ familarity 2
 fieldwork
 frumpery
 funest
-fraternizes
+fraternizes 1
 formylating 2
 fictionising
 flinders 1
@@ -5928,7 +5928,7 @@ flybane 3
 foveola 1
 freyr
 factitude 1
-familic 1
+familic 2
 frats
 fructiferous 1
 flannelflower 1
