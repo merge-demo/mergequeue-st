@@ -4298,7 +4298,7 @@ enactor 2
 epigrammatize 3
 entoproct 1
 eloquence 2
-exclaustration 1
+exclaustration 2
 enamelist 1
 enamelless
 emit 2
@@ -7366,7 +7366,7 @@ embitters
 enworthed
 epistrophe 1
 echinozoa
-establishes
+establishes 1
 elevate
 ensilability 1
 exhibitor
