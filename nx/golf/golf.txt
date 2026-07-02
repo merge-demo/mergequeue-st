@@ -1924,7 +1924,7 @@ glucosidal
 gorbellied 1
 glutetei 1
 gruft
-gustoso 2
+gustoso 3
 gastrilegous
 gobans 2
 gauleiter 2
@@ -4490,7 +4490,7 @@ genocidal 1
 grademark 3
 gnarred
 girder 2
-gil 1
+gil 2
 generalate 5
 goosebill
 grating 1
@@ -6094,7 +6094,7 @@ gigliato 3
 gardinol 2
 gallimaufry 1
 guanos 3
-goluptious
+goluptious 1
 gyrous
 gurniad 3
 genuflections
@@ -8393,7 +8393,7 @@ gerundival 5
 gingerbread 1
 guns 1
 glucid 2
-gasterosteiform
+gasterosteiform 1
 ginner
 guajira
 gillyflower 2
@@ -8826,7 +8826,7 @@ gust 3
 gelatined 1
 glacious 1
 greet
-gloves
+gloves 1
 gandhian 1
 glimpsers
 grandchildren
@@ -10719,7 +10719,7 @@ gaumless
 grate 3
 grizel
 gearwheel 1
-glary 1
+glary 2
 glyoxim 1
 goonda 3
 grumping 3
