@@ -6744,7 +6744,7 @@ aimworthiness 1
 andropogon
 adjoined
 argentiferous
-ain 1
+ain 2
 anthocyanin 2
 ablow
 anathematic 1
@@ -6852,7 +6852,7 @@ amyctic
 airflow
 antimoralist
 aglipayan 2
-airfoil 1
+airfoil 2
 airfoils
 airglows
 airgraphics
@@ -9891,7 +9891,7 @@ aponogeton
 antepreterit
 amphigen 1
 amarine 2
-amarity
+amarity 1
 aplotomy 1
 armillas 1
 amaritude
@@ -17240,7 +17240,7 @@ adonis
 apophysary 2
 apophyseal
 anagoge
-anatifa
+anatifa 1
 antisnob
 asporogenic 1
 appropriate
