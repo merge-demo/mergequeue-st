@@ -3141,7 +3141,7 @@ eloigning
 enactment
 euryte
 equitemporal 2
-escheat
+escheat 1
 engrossing 1
 eloiner 1
 essentiate 1
@@ -5387,7 +5387,7 @@ eaglelike 2
 esthetology
 endure 2
 endurer
-enduringly
+enduringly 1
 enterozoic 2
 earthmen 1
 emblematology
