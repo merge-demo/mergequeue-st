@@ -2305,7 +2305,7 @@ bathochromy 1
 bellman
 brownly
 barbastelle
-barbate
+barbate 1
 beblister
 boiled 1
 bucculatrix 1
@@ -7377,7 +7377,7 @@ betis 1
 byproduct 1
 birdbath 1
 baze 1
-burleys
+burleys 1
 bourd
 braker
 busyworks
@@ -10684,7 +10684,7 @@ boatfalls 1
 bipunctual
 biotics 1
 bowback 1
-brainwashes 2
+brainwashes 3
 bleats
 bleck 1
 bewhistle
