@@ -131,7 +131,7 @@ fomes 1
 filicic
 fackeltanz 2
 frill 1
-fumiferous
+fumiferous 1
 flashforwards 1
 fictile 2
 flagellist 2
@@ -2220,7 +2220,7 @@ fondlesome 1
 fluorinates 1
 fertilise 2
 foals 1
-feminineness
+feminineness 1
 freshmanhood
 fikie 1
 fiscus
@@ -2557,7 +2557,7 @@ fishpot
 fretter 3
 facette 1
 forewarningly 3
-forequarter
+forequarter 1
 fluvicoline
 fleerer 1
 flimp
@@ -6828,7 +6828,7 @@ foraminiferan 1
 fikery 2
 florula 1
 fragmentizer 2
-flacian
+flacian 1
 foretold 1
 fasces
 forswearer 1
