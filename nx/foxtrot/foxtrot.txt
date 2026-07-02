@@ -2326,7 +2326,7 @@ fens
 fluctuates 1
 furrowless
 frangipane 3
-fensive
+fensive 1
 furner
 falbalas
 frillings 2
@@ -7239,7 +7239,7 @@ foreground
 footpad 1
 farfetchedness 1
 fatidically
-favellidia
+favellidia 1
 feodary 3
 flaxboard
 forepeak
@@ -9669,7 +9669,7 @@ ferias 3
 factorizing 1
 fortalice 2
 finalities 1
-flukier
+flukier 1
 foamer 4
 flawless
 frons 1
