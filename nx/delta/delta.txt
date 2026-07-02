@@ -720,7 +720,7 @@ diatom
 dyspnoeas 2
 deadmelt 3
 doorplates 2
-danceability 1
+danceability 2
 danceable
 devitalised
 demoniacs
@@ -1678,7 +1678,7 @@ dextraural
 deamination 2
 deammonation
 deashing
-dichastic
+dichastic 1
 dandle
 deanships
 defending
@@ -2889,7 +2889,7 @@ decuss 1
 decussate
 decussatively
 desideratum 2
-disyllabizing
+disyllabizing 1
 decussoria 1
 decwriter 1
 deltoid 1
@@ -3115,7 +3115,7 @@ diseaseful 1
 daubing
 dentated 1
 dislade 1
-defamed
+defamed 1
 dilogical 1
 duxes
 disestablisher
@@ -13062,7 +13062,7 @@ devaster
 duckish
 disesteeming 1
 dispatches
-drillings 1
+drillings 2
 dimethylsulfoxide 1
 dogsbodies
 discocarpium 1
@@ -17809,7 +17809,7 @@ donga
 dorsosternal
 depa
 desoxyanisoin
-duckbill 1
+duckbill 2
 dossing
 dumpies
 duckblind 2
