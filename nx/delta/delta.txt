@@ -720,7 +720,7 @@ diatom
 dyspnoeas 2
 deadmelt 3
 doorplates 2
-danceability
+danceability 1
 danceable
 devitalised
 demoniacs
@@ -816,7 +816,7 @@ dopesters 1
 dalaga
 danglin 1
 docibility 1
-demagogism 1
+demagogism 2
 drowsihood
 directivity
 ditchbank
