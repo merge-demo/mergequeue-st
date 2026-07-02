@@ -2697,7 +2697,7 @@ frizziness 1
 fervence 2
 ferventness
 frighteningness
-floodwall
+floodwall 1
 fishify 1
 fuminess
 ferrometer 2
@@ -3773,7 +3773,7 @@ firnification
 flannelling 1
 frugivora 1
 formativeness 1
-fortranh 1
+fortranh 2
 fiberware 1
 forebridge
 filmland 1
