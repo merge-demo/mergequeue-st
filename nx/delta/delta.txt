@@ -720,7 +720,7 @@ diatom
 dyspnoeas 2
 deadmelt 3
 doorplates 2
-danceability
+danceability 1
 danceable
 devitalised
 demoniacs
@@ -816,7 +816,7 @@ dopesters 1
 dalaga
 danglin 1
 docibility 1
-demagogism 1
+demagogism 2
 drowsihood
 directivity
 ditchbank
@@ -3548,7 +3548,7 @@ disfrock
 disseminate 1
 diethylamine
 disenchanter 1
-defunctionalize
+defunctionalize 1
 defusion 2
 deformalize 3
 dingles
@@ -11986,7 +11986,7 @@ dagoes
 desmodus
 disenfranchisement 1
 devanagari
-demonkind
+demonkind 1
 disenfranchises
 disintertwine 1
 divinest 1
