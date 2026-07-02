@@ -2332,7 +2332,7 @@ explorational
 entocele 1
 explosive 1
 electromobilism 2
-excrete 2
+excrete 3
 espaliering
 encore 3
 encomia
@@ -4344,7 +4344,7 @@ endoplastule 2
 euornithes 1
 enapt 1
 evilsayer
-elatinaceae
+elatinaceae 1
 equipments 2
 enarched
 eurypygidae
@@ -9723,7 +9723,7 @@ eradiates 3
 epitomisation 1
 equisonance 1
 everyplace 1
-eddo 1
+eddo 2
 enneahedron
 euhedral 2
 enrobing 1
@@ -9952,7 +9952,7 @@ endophagy
 erythromelalgia 1
 esugarization
 endowers 2
-embosk 2
+embosk 3
 embarrassment
 electronography 1
 entonement
@@ -12519,7 +12519,7 @@ esophagotomy
 enrollees 4
 ense 3
 etiogenic 1
-eluviates
+eluviates 1
 exaggeration 1
 enteropneusta 2
 erythrophage 1
