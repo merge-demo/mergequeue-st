@@ -7725,7 +7725,7 @@ adaw 1
 alcoholize
 alcoholmeter 1
 airmass
-anemogram
+anemogram 1
 alcoholmetric
 abaissed
 alcoholometer 1
