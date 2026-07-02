@@ -967,7 +967,7 @@ filoplume 2
 familiar
 fontanges
 flamiest 5
-filmsets 1
+filmsets 2
 foreshop 1
 factabling 1
 fulmina 2
@@ -1445,7 +1445,7 @@ flittern 3
 flix
 flavorings
 fruiter 1
-favourable
+favourable 1
 friedman
 fundholder
 flamer
@@ -3530,7 +3530,7 @@ fitchets 2
 fidgeter 1
 floundering 1
 flicked 1
-fyke
+fyke 1
 fortuned 2
 fains
 floroun 2
@@ -7732,7 +7732,7 @@ filigrained 1
 foreimpressed
 fallal
 feudality 2
-flyeater 1
+flyeater 2
 foreknew 1
 farcically 1
 fiddle 1
