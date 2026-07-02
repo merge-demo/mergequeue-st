@@ -2764,7 +2764,7 @@ freddo
 fibroserous 2
 fights 1
 festerment
-footway 1
+footway 2
 flanges 1
 fascisms
 ferrimagnet 3
@@ -4097,7 +4097,7 @@ foresightless 2
 fungusy
 frostation
 florizine 2
-fergusonite 1
+fergusonite 2
 featherbrain 2
 fattable 1
 flocculous 1
@@ -5316,7 +5316,7 @@ festuca 2
 farinaceously 1
 fingerprinting 1
 ferry 2
-fantasque
+fantasque 1
 flutey
 fifteen 1
 fumarole 3

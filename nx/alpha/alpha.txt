@@ -4492,7 +4492,7 @@ anticomplement
 australic 1
 antipuritan 2
 adust 1
-apsides
+apsides 1
 amang 3
 aldoxime 2
 aftmost
@@ -4764,7 +4764,7 @@ aeluropodous
 aenach
 aphrodistic 1
 addaxes 1
-affricate
+affricate 1
 anticoagulator
 adawe 1
 antiradicalism
@@ -12601,7 +12601,7 @@ apatosaurus 2
 amandus 1
 alogia
 appositionally
-anthribid
+anthribid 1
 anencephalic
 angka
 alulae
@@ -17289,7 +17289,7 @@ aport
 aportlast
 aposaturnium
 aposia 2
-aposiopesis
+aposiopesis 1
 americanize
 anaplasma 1
 arbalest
