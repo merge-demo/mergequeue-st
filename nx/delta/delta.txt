@@ -720,7 +720,7 @@ diatom
 dyspnoeas 2
 deadmelt 3
 doorplates 2
-danceability
+danceability 1
 danceable
 devitalised
 demoniacs
