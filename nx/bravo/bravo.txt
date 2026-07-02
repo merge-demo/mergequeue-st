@@ -3951,7 +3951,7 @@ bdellometer 1
 boarts
 booksellerish
 bombardier 1
-bocstaff
+bocstaff 1
 brickbats
 bdelloura
 barbra 1
@@ -5111,7 +5111,7 @@ bamboo 1
 binits
 basilicon 1
 beflagged 1
-biopoiesis
+biopoiesis 1
 broidering
 burrows 1
 braconidae 1
@@ -5403,7 +5403,7 @@ bloodripeness 1
 bisagre
 briquets
 babelic 2
-begulf 2
+begulf 3
 blastomycotic 1
 begummed
 biolite
@@ -14097,7 +14097,7 @@ barracudas
 bestial 1
 blase
 bidarkees
-burgul 3
+burgul 4
 baring
 blusterously
 brachygnathia 2
