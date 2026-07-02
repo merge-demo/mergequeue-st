@@ -3188,7 +3188,7 @@ despiteous 1
 dulcineas
 dandriffs
 determinant 2
-deracine 1
+deracine 2
 deinotherium
 disimprove 1
 defectors
@@ -8425,7 +8425,7 @@ demipremiss
 diabetophobia
 devesting
 dialonian
-dorsocervically 1
+dorsocervically 2
 devotionalist 1
 dorsiventrally
 ds
@@ -11328,7 +11328,7 @@ dermatocele
 dispreading
 disciflorae
 disunifying
-dispensating
+dispensating 1
 dissociably
 discoherent 1
 decays
@@ -16422,7 +16422,7 @@ define
 diplacanthidae
 dulc 1
 draggletailedness 1
-doxa
+doxa 1
 doxastic
 daemon 1
 doxasticon
@@ -17382,7 +17382,7 @@ disphenoid
 divisural
 drow
 delilah
-donia 2
+donia 3
 desquamation
 desight 1
 daglocks
