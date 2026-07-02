@@ -8993,7 +8993,7 @@ brattles
 bioherm 1
 besotting 2
 baybush
-bronzen
+bronzen 1
 beclamor
 bioinstrument 4
 biolinguistics 1
@@ -9539,7 +9539,7 @@ baffeta 1
 births
 birthstones
 bulliform 1
-birthstool
+birthstool 1
 birthwort
 bitnet
 buttonbush
@@ -13282,7 +13282,7 @@ banderillas
 bipont
 branchstand
 barman
-bludge
+bludge 1
 bargello 2
 balawu
 baulking
@@ -13887,7 +13887,7 @@ bicyclist
 bluefishes
 bauno 2
 bountiful
-bitbrace 1
+bitbrace 2
 boloball 1
 bowleg
 babirusa 2
