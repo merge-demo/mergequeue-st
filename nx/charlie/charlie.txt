@@ -6404,7 +6404,7 @@ cauterism
 carafe 1
 correcter
 conchfish
-cauterizer
+cauterizer 1
 cauterizes 1
 caution
 cautionary 1
@@ -17228,7 +17228,7 @@ coalify
 corollarially
 caperer 1
 coalification
-cephalostyle 1
+cephalostyle 2
 clinopinacoidal 1
 coalifies
 coalifying
