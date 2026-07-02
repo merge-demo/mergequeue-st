@@ -6648,7 +6648,7 @@ drabs
 diastimeter 1
 desertlessly
 dungaree
-deserts
+deserts 1
 deserve 1
 dotingly
 depreciatoriness 1
@@ -10075,7 +10075,7 @@ disseverance
 dynamometrical
 dodipole
 dirls
-dogfight
+dogfight 1
 dilatable
 dynamomorphic
 dislustring
