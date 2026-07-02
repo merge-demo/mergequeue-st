@@ -2530,7 +2530,7 @@ buenos
 bassetite
 bottonhook
 buckler 1
-barguest 1
+barguest 2
 barguests
 buzylene 1
 baria 1
@@ -9841,7 +9841,7 @@ bawd
 bougainvillaeas
 burgherhood
 biteche 2
-barbicans 2
+barbicans 3
 bowdlerization
 barrels
 balawa 2
