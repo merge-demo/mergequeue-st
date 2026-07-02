@@ -7328,7 +7328,7 @@ cushlamochree 1
 cephalochord
 cowmen 1
 cephalochordal
-cephalochordata
+cephalochordata 1
 cephaloclast
 cephalocone 1
 cephalodia
@@ -8109,7 +8109,7 @@ crepuscule
 chainless
 counteractions
 crosscheck 1
-coelodont
+coelodont 1
 chlortetracycline
 chumping
 craspedon
