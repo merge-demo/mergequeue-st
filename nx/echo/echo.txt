@@ -2222,7 +2222,7 @@ elysee 1
 electic
 ethnal 1
 egghot
-electioneer
+electioneer 1
 elaphurine 2
 extramoral 1
 elevatory 1
@@ -2540,7 +2540,7 @@ eatable 1
 ezra 1
 emptiable
 electrometer
-exstrophy
+exstrophy 1
 earthgrubber
 electrometrical 1
 enchodontidae 3
@@ -4483,7 +4483,7 @@ ectotheca 2
 erucin 3
 encephalomyocarditis
 emancipate 1
-enactive
+enactive 1
 emerita 1
 ephorate 2
 encephalopathia 2
@@ -8788,7 +8788,7 @@ entempest
 empetraceous 2
 entomostracous
 erat 1
-ethoxy 2
+ethoxy 3
 ethnobotanist 3
 effleurage 1
 erd 1
@@ -9448,7 +9448,7 @@ embanks 1
 estudy 1
 entocoel 1
 electives 1
-eliquation 3
+eliquation 4
 exsculp
 electronic 1
 extroverted 1
