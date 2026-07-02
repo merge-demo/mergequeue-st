@@ -180,7 +180,7 @@ decipherer
 daedaloid
 diel
 diaplasma
-daedalous 1
+daedalous 2
 divulgated 1
 defilable
 deforesting
@@ -4858,7 +4858,7 @@ dissimilation 1
 dissecting
 decocting
 discreditableness
-dishmonger
+dishmonger 1
 discage
 diluting
 deigns 1
@@ -15513,7 +15513,7 @@ disvalued
 derobe
 dispassionateness 1
 dement 1
-dewanny 1
+dewanny 2
 doloriferous 1
 dedicatee
 donkeyman
@@ -15587,7 +15587,7 @@ diversionist
 dooputty
 doorhead
 detergible
-dooring 1
+dooring 2
 doorknob
 destinate
 doormaid
