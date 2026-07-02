@@ -6264,7 +6264,7 @@ disarming
 decarboxylation 1
 dehydrates 2
 dehydrators
-dermatoplasm 1
+dermatoplasm 2
 diapositive
 deozonizer 1
 decolonization
@@ -7523,7 +7523,7 @@ deuterium 1
 deinocephalia 2
 declaimed 1
 dominators 1
-deuterocanonical
+deuterocanonical 1
 dopatta 2
 dendroeca 2
 decemplicate 1
@@ -13830,7 +13830,7 @@ distain 1
 distaining 1
 denumeration
 diatomic 1
-dryers
+dryers 1
 delphinin
 decciare 1
 distanceless 1
@@ -16077,7 +16077,7 @@ decontaminate
 dactylographer 1
 demigoddessship
 dogbolt
-dunger 1
+dunger 2
 doughhead 2
 doughy 1
 derabbinize 1
