@@ -1678,7 +1678,7 @@ dextraural
 deamination 2
 deammonation
 deashing
-dichastic
+dichastic 1
 dandle
 deanships
 defending
@@ -2015,7 +2015,7 @@ disregardable 2
 dasypodidae 1
 dogleg 1
 debussyanize 1
-debasement
+debasement 1
 dogwoods
 decagynous 2
 dinornis 1
@@ -2889,7 +2889,7 @@ decuss 1
 decussate
 decussatively
 desideratum 2
-disyllabizing
+disyllabizing 1
 decussoria 1
 decwriter 1
 deltoid 1
@@ -3115,7 +3115,7 @@ diseaseful 1
 daubing
 dentated 1
 dislade 1
-defamed
+defamed 1
 dilogical 1
 duxes
 disestablisher
@@ -13868,7 +13868,7 @@ disobstruct
 direxit
 dysteleologist 2
 dammers 1
-decemflorous
+decemflorous 1
 decipherment 1
 distemper
 dissilient
@@ -14276,7 +14276,7 @@ dither 1
 deductibles 1
 dyspnoeic 1
 depravers
-deisms
+deisms 1
 downcrying 1
 defoliator 1
 deviationist 2
