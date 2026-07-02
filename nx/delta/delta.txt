@@ -3513,7 +3513,7 @@ demarcatordemarcators 2
 disapproving 2
 defrayable 2
 disembarrassment
-dismissable 1
+dismissable 2
 doom 1
 drowsed 2
 desaturate 1
@@ -10622,7 +10622,7 @@ disharmonising
 drey
 duncery 1
 divaricating 2
-demurrals 1
+demurrals 2
 disapprove
 decarbonize
 dustcoat 1
@@ -12484,7 +12484,7 @@ defiled
 disinclination
 disinclined
 deedful 1
-disinclining 1
+disinclining 2
 dolichotmema 1
 doorkeep 1
 dilative
@@ -14416,7 +14416,7 @@ diversification
 disporous 2
 diarch
 diversified 3
-devils 1
+devils 2
 diversifier
 driveller 2
 diversiflorate 1
@@ -16676,7 +16676,7 @@ dogging
 drainers 1
 drainfield 1
 disvelop
-drainman
+drainman 1
 disgross 1
 daiva 1
 drogoman 3
