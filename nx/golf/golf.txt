@@ -2195,7 +2195,7 @@ goodbyes
 generosities 1
 gibby 1
 galactohemia 1
-gleit
+gleit 1
 glossopathy 1
 grounders 2
 globetrotting 2
@@ -3563,7 +3563,7 @@ goadster
 grumblesome 1
 gynostemium
 ghauts
-galilei 1
+galilei 2
 genarcha
 ghazi 2
 grubber 2
@@ -8787,7 +8787,7 @@ gonapod
 galactagoguic 1
 guacamole
 guineaman 3
-gawkers 1
+gawkers 2
 garages 2
 gudefather 1
 goat 3
