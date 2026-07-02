@@ -3085,7 +3085,7 @@ emp 1
 engilding 2
 encyclical
 elliot
-educationable 1
+educationable 2
 ellipsograph
 executiveness 1
 esemplastic
@@ -6087,7 +6087,7 @@ enlive
 emboly
 exceed
 exossate 1
-epizoisms 1
+epizoisms 2
 explida
 erythroderma
 enlivener 1
@@ -8379,7 +8379,7 @@ equals 1
 euphoriant 2
 epizoon
 edemic 3
-exulceration
+exulceration 1
 ecphorize
 epinasties 1
 exchange
