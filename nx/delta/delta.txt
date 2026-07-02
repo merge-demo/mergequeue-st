@@ -5570,7 +5570,7 @@ deperms 1
 disserves
 dabble
 dichromatopsia
-depersonalise 1
+depersonalise 2
 depersonalising
 desponded
 diplomatology 1
@@ -12798,7 +12798,7 @@ doubty 1
 diffusiometer 2
 dismail
 democratising
-dismal
+dismal 1
 duit
 dialogs
 dorsomedian 2
