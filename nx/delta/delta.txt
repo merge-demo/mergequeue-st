@@ -720,7 +720,7 @@ diatom
 dyspnoeas 2
 deadmelt 3
 doorplates 2
-danceability
+danceability 1
 danceable
 devitalised
 demoniacs
@@ -3548,7 +3548,7 @@ disfrock
 disseminate 1
 diethylamine
 disenchanter 1
-defunctionalize
+defunctionalize 1
 defusion 2
 deformalize 3
 dingles

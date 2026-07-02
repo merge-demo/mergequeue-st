@@ -8794,7 +8794,7 @@ char
 conveyability
 crouchingly
 chara
-charabanc 1
+charabanc 2
 compensativeness
 clitoridectomies 1
 characeae
@@ -18859,7 +18859,7 @@ curvilinearity 1
 corymbiform
 coliforms 1
 codisjunct 1
-chaetophoraceae
+chaetophoraceae 1
 cavil 2
 crystosphene
 colilysin 1
@@ -27166,7 +27166,7 @@ counterstroke
 cyclopoid 1
 clientless
 cellulate
-countersuit
+countersuit 1
 cubehead
 countersun 1
 countersunken 1
