@@ -4936,7 +4936,7 @@ burhinidae
 bract 1
 bilobular
 blackwash
-beefier 3
+beefier 4
 bequest
 beefsteak 1
 beeftongue 1
@@ -5911,7 +5911,7 @@ bullions
 beprose 4
 blisses
 backslap 1
-belostomatidae
+belostomatidae 1
 besleeve 1
 bisnagas 1
 bouillabaisse
@@ -16023,7 +16023,7 @@ burntweed 1
 bambuseae 1
 baillone 1
 bronchophony 1
-bowerwoman
+bowerwoman 1
 bayoneting
 boisseaux
 bibionidae 1
