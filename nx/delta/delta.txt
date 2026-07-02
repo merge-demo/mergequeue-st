@@ -1678,7 +1678,7 @@ dextraural
 deamination 2
 deammonation
 deashing
-dichastic
+dichastic 1
 dandle
 deanships
 defending
@@ -2889,7 +2889,7 @@ decuss 1
 decussate
 decussatively
 desideratum 2
-disyllabizing
+disyllabizing 1
 decussoria 1
 decwriter 1
 deltoid 1
