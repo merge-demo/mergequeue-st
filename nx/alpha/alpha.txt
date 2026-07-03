@@ -689,7 +689,7 @@ artesian
 aborad
 aboral 2
 abord
-aboriginality
+aboriginality 1
 aquatones
 anhydrosis
 aborigines
@@ -814,7 +814,7 @@ argles 1
 abridging 2
 anourous
 abris
-abristle 3
+abristle 4
 alabandine 1
 abroach
 airdock
@@ -2347,7 +2347,7 @@ arachnephobia
 avgasses 1
 almagest
 allogamous
-ateleiosis 1
+ateleiosis 2
 axminster
 aurigid
 adustiosis
@@ -7866,7 +7866,7 @@ adoze 1
 arctia
 alea 1
 aleak 1
-aleatory
+aleatory 1
 archcorsair
 aleatoric 2
 amylophosphoric 2
@@ -7990,7 +7990,7 @@ alkalis
 acetphenetidin 1
 aletap
 actos
-autarchy
+autarchy 1
 arabin 1
 arabist 1
 angie
