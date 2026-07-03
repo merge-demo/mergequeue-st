@@ -11624,7 +11624,7 @@ battledored 1
 benefactrix
 bolis
 brachyural
-biunivocal
+biunivocal 1
 barche
 boarspear
 balloter
@@ -12474,7 +12474,7 @@ bondminder
 bookroom 2
 bioscientist
 bawdrick 1
-bierbalk 2
+bierbalk 3
 bondship 1
 bondsman
 blueys 1
