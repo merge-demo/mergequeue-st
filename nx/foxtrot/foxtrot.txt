@@ -1428,7 +1428,7 @@ fatuoid
 fatuus
 foveate 1
 frankly
-fairtime
+fairtime 1
 fantasie 1
 fractureproof
 filago 2
@@ -2527,7 +2527,7 @@ foulmouth 1
 formaldehyde
 feverlike 1
 frondescent 1
-ferrelling
+ferrelling 1
 fluorine 5
 footropes 1
 fiatconfirmatio 2
@@ -2849,7 +2849,7 @@ front
 flossie
 fatter
 freeways 3
-fizzy 2
+fizzy 3
 fatigating 2
 fortyfives
 fivebar
@@ -9380,7 +9380,7 @@ ferromagnesian 1
 frangulic 1
 forjudge 1
 flichter
-forbiddal
+forbiddal 1
 fishless 1
 fetichistic 3
 felinities
