@@ -106,7 +106,7 @@ foundryman
 faciation
 fibs 2
 fleshliest
-fingertips 2
+fingertips 3
 faciends 3
 featheredges
 fluidization 1
@@ -1330,7 +1330,7 @@ favorable 1
 fatigableness 3
 forfars
 frock
-fidac
+fidac 1
 flaggish 3
 foretoken 2
 fatigue
@@ -5338,7 +5338,7 @@ faintheart
 furciform 2
 fleabags
 fireclay
-fluorites 1
+fluorites 2
 feoffee 1
 fleadock 1
 fleahopper 4
@@ -11365,7 +11365,7 @@ fannies 1
 fenagler 1
 ferlied 1
 flustrine 4
-fuchsin 4
+fuchsin 5
 forfended
 furmenty
 foreassign 2
