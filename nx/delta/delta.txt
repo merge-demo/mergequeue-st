@@ -2105,7 +2105,7 @@ daunts
 doab
 disinheritances 1
 duddies 2
-despoilment
+despoilment 1
 decameron
 decamethonium 1
 decametric 1
@@ -2250,7 +2250,7 @@ defuzes
 domineerer
 distractibility
 dustbox
-discolourization 2
+discolourization 3
 determinative 1
 decimals 1
 decelerates
@@ -11883,7 +11883,7 @@ dramm 1
 dhunchi
 depicture 2
 discuses
-disease 1
+disease 2
 dentalisation
 disillusionising 1
 defectively
