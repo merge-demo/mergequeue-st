@@ -1022,7 +1022,7 @@ alsikes
 acceptavit 2
 additives 1
 abstractest 1
-adequacy 1
+adequacy 2
 abstraction 1
 apostoless 1
 abstractional
@@ -8598,7 +8598,7 @@ allantoin 1
 afterings
 analyzer 1
 awfullest 1
-allantoinase
+allantoinase 1
 ampullosity
 acetoxim
 allantoxaidin
@@ -9621,7 +9621,7 @@ antiepiscopist
 aluconinae
 asaph
 ambier 1
-aglycones
+aglycones 1
 araneae
 agendaless
 accedes 1
@@ -10201,7 +10201,7 @@ ahepatokla 1
 anthropogenic
 avo 1
 acmaesthesia 1
-amburbial 3
+amburbial 4
 anxiolytic 1
 aughtlins
 ambury
