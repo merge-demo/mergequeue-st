@@ -3358,7 +3358,7 @@ fieldish 1
 funereality 1
 flatfoot 1
 fattener 1
-fibromatous
+fibromatous 1
 fossores 2
 foveolate
 frostiness 2
@@ -7804,7 +7804,7 @@ footrail 1
 fleshier 2
 forjudges 2
 formosan 6
-fluorescigenic
+fluorescigenic 1
 fecundify 3
 fleaweed 4
 forenight
@@ -11211,7 +11211,7 @@ fullgrownness
 frontiersman 2
 falsetto
 fusobacteria
-foetalization 1
+foetalization 2
 fungoes 2
 flotorial
 freechurchism
