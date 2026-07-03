@@ -1361,7 +1361,7 @@ balbusard
 beggarliness
 burlap 2
 brayed 2
-butterbump
+butterbump 1
 betwixen
 balconies 1
 bacule 1
@@ -5602,7 +5602,7 @@ belash
 blobbed
 bumbard
 bombloads
-blisters
+blisters 1
 brough 2
 bulletheaded 1
 battlement 1
@@ -13018,7 +13018,7 @@ bombazine
 balanid 1
 boracous
 baffling
-bruchidae 1
+bruchidae 2
 barbecued 1
 bombarde 1
 bibles 1
