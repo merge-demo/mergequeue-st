@@ -744,7 +744,7 @@ dealcoholization
 drabby 1
 dishabilitation 2
 dandie 1
-depeche 2
+depeche 3
 dandier 1
 drybrained
 dreaminess 1
@@ -8914,7 +8914,7 @@ divinyl
 dichloramine 2
 dichloride
 dichloroacetic
-dichlorodifluoromethane
+dichlorodifluoromethane 1
 deticked 1
 discitis 1
 dissevered
@@ -10024,7 +10024,7 @@ disordain
 dynactinometer 1
 deratize 1
 dazedly 1
-dissipater
+dissipater 1
 depair
 daughterling
 dubieties
@@ -11576,7 +11576,7 @@ defeminize
 discontinuee
 disprepare
 discover
-dieselizing
+dieselizing 1
 dreamlessness 1
 downweed 1
 defectionist 1
@@ -15201,7 +15201,7 @@ demitasses
 dermanaplasty 1
 dabblings 2
 dioritic
-depreciated 1
+depreciated 2
 downing
 defamers 2
 dolisie
