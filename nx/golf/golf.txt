@@ -1648,7 +1648,7 @@ gulfweed
 galeopithecus
 glycin 1
 globed
-gastroduodenitis 1
+gastroduodenitis 2
 guadua
 gastroduodenostomy 1
 gastritis 1
@@ -3820,7 +3820,7 @@ graining 2
 guls
 gucked 1
 groszy 1
-gels
+gels 1
 gamestress 1
 gaelicization
 glumpy 2
@@ -10274,7 +10274,7 @@ geoform 1
 gourmet
 gullage 1
 guitarist 3
-gentlewomanish
+gentlewomanish 1
 gibblegabble
 gastrulating 2
 guitarists
