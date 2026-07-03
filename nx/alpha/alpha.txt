@@ -6606,7 +6606,7 @@ awk
 abjunctive
 aidful
 aiding
-adenanthera
+adenanthera 1
 aidman
 aidmen 1
 akeake
@@ -17621,7 +17621,7 @@ acrose 4
 appertainment 1
 auditory
 apolaustic 1
-antiagglutination
+antiagglutination 1
 antediluvial
 agouta 2
 apostlehood 1
@@ -17928,7 +17928,7 @@ aliesterase
 alcoholist
 accubitus 1
 anticynic
-approaching 1
+approaching 2
 anemometer
 approbated 1
 anachronist 1
