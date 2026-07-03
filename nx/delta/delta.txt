@@ -11493,7 +11493,7 @@ druggy
 dirham
 defter
 dunciad 1
-dovewood 2
+dovewood 3
 discommendation 2
 dheneb 1
 dedanim 1
@@ -14158,7 +14158,7 @@ dentification
 doyst
 disulfonic
 dispread
-disulfoxid
+disulfoxid 1
 dirgelike
 dhobi 2
 defective
