@@ -349,7 +349,7 @@ detrimentally 1
 daygoing 1
 damndest
 desiccation
-distemperer
+distemperer 1
 daiker 1
 dcor
 densest 1
@@ -3011,7 +3011,7 @@ deeper
 dealings 2
 dies
 dismantling
-deepfreeze
+deepfreeze 1
 dilettantish
 deepgoing 1
 demonstrativeness
@@ -4892,7 +4892,7 @@ discriminability
 demonstrations 1
 doctrinary
 decrescence 1
-daktylon 3
+daktylon 4
 duskily
 demophilism 1
 disclaims
@@ -7729,7 +7729,7 @@ doubling 1
 discanonization 5
 denominable
 dichroous 1
-dehydrotestosterone 1
+dehydrotestosterone 2
 dual 1
 denationalization 1
 devilry 1
@@ -11192,7 +11192,7 @@ dissyllabification
 dissweeten
 disparish 1
 dysbulia 1
-diazo
+diazo 1
 detoxifies
 decalcomaniac
 deltidium
@@ -12299,7 +12299,7 @@ disgustingly 1
 dealated 1
 dishabilitate
 dishabille
-devilish
+devilish 1
 dinomic
 dye 1
 dysphrenia
@@ -15319,7 +15319,7 @@ descendability
 dittander
 digammated
 domba 1
-disbogue 1
+disbogue 2
 daimioate
 donationes 1
 deserver 2
@@ -17720,7 +17720,7 @@ desmonosology 3
 duodenojejunal
 duarch 2
 discommons
-detacwable 1
+detacwable 2
 deputization 1
 duarchy
 duarchies 1
@@ -18383,7 +18383,7 @@ duodenitis 2
 denominationalism
 dismantled
 departmentalizes
-downloaded 1
+downloaded 2
 duodenocholecystostomy 1
 duodenocholedochotomy 1
 depolishing
