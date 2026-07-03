@@ -755,7 +755,7 @@ chasselas
 cages 1
 cocoa 1
 colonelship 1
-cagester 1
+cagester 2
 cogrediency
 chlornal
 collaborationist 1
@@ -4735,7 +4735,7 @@ cunninghamia
 carnie
 chlamydospore 1
 creditorship
-contested
+contested 1
 collages
 coble 1
 carpeting 2
@@ -13517,7 +13517,7 @@ curiatii 2
 counterfeiter
 coughroot
 craniad 1
-cylindroconoidal 1
+cylindroconoidal 2
 cylindrodendrite
 cylindrograph
 compilers
@@ -16642,7 +16642,7 @@ cyanosis
 clavilux
 clem 2
 closehanded
-cuittled
+cuittled 1
 carse
 coeliotomy
 colophonium
@@ -23435,7 +23435,7 @@ contect
 contection
 conteke 1
 corpselikeness 2
-certified
+certified 1
 contemned
 camletting
 contemnibly
@@ -24469,7 +24469,7 @@ caragana
 coparty
 catchpole 2
 cooptate
-coopting
+coopting 1
 coopts
 coordinal 2
 cashment 1
@@ -25028,7 +25028,7 @@ chumble
 cordelia
 cordelle 1
 crushableness
-champain
+champain 1
 cordery 1
 cordewane
 conventing 1
@@ -25986,7 +25986,7 @@ corvees 1
 centered 1
 corven 1
 corver
-corves
+corves 1
 codifier
 corvet
 corvette
@@ -29605,7 +29605,7 @@ coria 1
 crocetin
 ceratospongiae
 croche 2
-crocheter
+crocheter 1
 crocheteur 1
 codebook
 commutableness
