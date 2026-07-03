@@ -2054,7 +2054,7 @@ autecy 1
 anticipatory 1
 antibromic 1
 arterial 2
-acetosoluble
+acetosoluble 1
 acetostearin
 acetotoluid
 accessible
@@ -8727,7 +8727,7 @@ alleniate 1
 agaty 2
 alsine 1
 acalephan 1
-asterospondylic 1
+asterospondylic 2
 aerocurve
 anapterygote
 aller
