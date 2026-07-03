@@ -1587,7 +1587,7 @@ ballets
 brevetcy 1
 blowtube 1
 ballgame
-ballhooter
+ballhooter 1
 backslash
 brainwashers
 balli
@@ -3064,7 +3064,7 @@ bdellostomatidae
 barvel
 bunnell
 baleful 1
-beduin
+beduin 1
 brainwashing
 braza
 burhead 1
