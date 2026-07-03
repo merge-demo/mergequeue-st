@@ -1155,7 +1155,7 @@ educatability 1
 earlaps
 eident
 enwisen
-educatable
+educatable 1
 educatedness 3
 electrolyzable 1
 eudiometric
@@ -10507,7 +10507,7 @@ eleostearic 1
 exemplifying 3
 emmetropic
 etwee 1
-electricans 1
+electricans 2
 esoanhydride
 extirpations 2
 exemplifications 1
