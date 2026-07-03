@@ -509,7 +509,7 @@ firerooms
 flamers 1
 frowny 3
 foresense 3
-falco
+falco 1
 fermentive
 forgivableness 2
 forepaled
@@ -888,7 +888,7 @@ ferrate
 faquir
 farad
 faradaic
-filleted 1
+filleted 2
 fluorometer 2
 flamed 1
 feel
@@ -1893,7 +1893,7 @@ fourdrinier 1
 flamboyantize 1
 freshwoman 1
 faradizing
-frs
+frs 1
 fraidycat 1
 flybrush 2
 fingerflower
@@ -4082,7 +4082,7 @@ frondescing 3
 federation
 fakers 1
 flatnesses 1
-foreprovided 1
+foreprovided 2
 fabulosity 2
 fylgjur
 foolship 2
@@ -9853,7 +9853,7 @@ feldspathic
 featheredge 2
 floweret
 fuds
-firedamps 2
+firedamps 3
 fragmentary 1
 fattens 3
 foredooming 1
