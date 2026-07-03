@@ -11594,7 +11594,7 @@ colonialization
 cholecystogastrostomy 2
 chronicon
 cholecystogram
-cholecystography
+cholecystography 1
 cholecystokinin
 cholecystolithiasis 1
 cholecystostomy
@@ -17576,7 +17576,7 @@ coccygectomy
 chiropterophilous
 cyanurate
 couvade 1
-coruscates 1
+coruscates 2
 coccygerector
 cuartel
 coccygine 1
