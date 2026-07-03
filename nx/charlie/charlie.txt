@@ -1935,7 +1935,7 @@ cameleer
 culverins 1
 cauliflorous 2
 cameline 2
-camelish
+camelish 1
 cardigans
 camellike
 cornwallises 1
@@ -7204,7 +7204,7 @@ centriscoid
 cappadine 1
 centriscus
 centrism 1
-clark
+clark 1
 cinemascope 1
 comite
 crispen 1
@@ -13537,7 +13537,7 @@ cobbier
 cardioclasia
 corenounce
 crozed 1
-castigative
+castigative 1
 ciliotomy
 cilium 1
 chloroformize
