@@ -6900,7 +6900,7 @@ begrudges 1
 beslaver 1
 balmony 1
 blindfold 3
-beshadowed
+beshadowed 1
 beauxite
 boggled
 briolette
@@ -7051,7 +7051,7 @@ besouth 1
 blaming 1
 bedazzlement
 bespangling
-bespate
+bespate 1
 brickbatted 1
 basset 1
 biwa 1
@@ -7476,7 +7476,7 @@ betumbled
 balconied
 biomicroscope
 bowne 1
-besant
+besant 1
 burtree
 bully 1
 berhymed
@@ -12923,7 +12923,7 @@ byssogenous 1
 bureaucratese
 bloodstain 1
 boot 1
-big 1
+big 2
 bhandari 2
 bootees
 battlemented 1
