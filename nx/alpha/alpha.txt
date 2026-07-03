@@ -1022,7 +1022,7 @@ alsikes
 acceptavit 2
 additives 1
 abstractest 1
-adequacy 1
+adequacy 2
 abstraction 1
 apostoless 1
 abstractional
@@ -19397,7 +19397,7 @@ anthracnose
 argenteous
 amphorophony
 allicins
-arkie
+arkie 1
 allowance
 auspicating 1
 abuseful
