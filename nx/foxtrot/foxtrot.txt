@@ -705,7 +705,7 @@ famous 1
 florigens 1
 featherlet 2
 famp 1
-famuli
+famuli 1
 frustrater 1
 fana 1
 feoffment
@@ -1558,7 +1558,7 @@ feasibilities 2
 favorer 4
 foresty 1
 ferrash
-fleecelike 3
+fleecelike 4
 fourstrand
 falsettist 1
 fibrinogen 4
@@ -4525,7 +4525,7 @@ finickiest 1
 fluctuability
 fusser 1
 frugal
-forwardsearch
+forwardsearch 1
 fractionized 3
 formulate
 felinophile 1
@@ -5479,7 +5479,7 @@ fernbrake
 ferreter 2
 flora 1
 funniness
-frequentness 2
+frequentness 3
 fragmentizing 1
 foxer 3
 frillers
@@ -5568,7 +5568,7 @@ feverweed 1
 flirtish
 friendlily 4
 flexuously 2
-fram 2
+fram 3
 fluffiest
 forecited 4
 fluorite 1
@@ -9619,7 +9619,7 @@ frescos
 farsi 2
 fleeciest
 freebooter 1
-freebootery 2
+freebootery 3
 forestiera
 freebooting 1
 feltwork 2
