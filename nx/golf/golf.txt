@@ -709,7 +709,7 @@ gld 1
 gulose 1
 grapholite
 grossify 1
-genius
+genius 1
 gooranut 2
 galvanised
 germanistic 1
@@ -3132,7 +3132,7 @@ grusian 3
 gynophore 1
 gauloiserie 2
 geotechnic 1
-geraniaceae
+geraniaceae 1
 griffado
 gabler 3
 gaumy 2
@@ -7313,7 +7313,7 @@ glitches
 gasaliers
 goldsinny 1
 gynics
-grahams
+grahams 1
 gnocchi 2
 grossness
 griddlecake
@@ -8705,7 +8705,7 @@ gumdrops 1
 gymnosoph 2
 galerum 2
 gawkishly 1
-goosing 1
+goosing 2
 gree 2
 glean 1
 gismondite 5
@@ -9511,7 +9511,7 @@ gundelow 4
 ganoidean 3
 grouser
 gorgeted 3
-gyred 2
+gyred 3
 gawish 1
 grimp 3
 giftbook
@@ -9568,7 +9568,7 @@ geodynamical 3
 guidage
 gauteite 1
 gallinule
-gruels 1
+gruels 2
 girgasite 2
 gemmiest
 gesticularious
