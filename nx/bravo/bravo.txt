@@ -351,7 +351,7 @@ bloman
 brushes 1
 belches
 backfills
-bequeath
+bequeath 1
 basseting
 benighter 2
 backfires
@@ -7050,7 +7050,7 @@ billiardist
 besouth 1
 blaming 1
 bedazzlement
-bespangling
+bespangling 1
 bespate 1
 brickbatted 1
 basset 1
@@ -10485,7 +10485,7 @@ blasphemousness 2
 bismarckian 1
 buttonhole
 bielectrolysis
-blunderingly 1
+blunderingly 2
 bemaster
 brelaw 1
 brutalising
