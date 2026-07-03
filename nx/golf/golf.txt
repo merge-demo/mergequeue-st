@@ -611,7 +611,7 @@ gillie 4
 geophysicist
 glide 1
 gastrotheca
-gastroenterostomy
+gastroenterostomy 1
 gestic 3
 gradatory 1
 grutch
@@ -2114,7 +2114,7 @@ ganglands 4
 guillermo 2
 gazette
 ginnet 2
-gumshoing
+gumshoing 1
 gymnolaematous 1
 giunta
 gunships 4
@@ -3262,7 +3262,7 @@ glycosin 1
 grein 1
 glent
 grabbable 2
-glosseme 1
+glosseme 2
 geodic
 gula 1
 greenside 1
@@ -3390,7 +3390,7 @@ goldenrod 1
 gers 1
 gliffs
 gershonite 1
-gertie 2
+gertie 3
 gutterize 1
 geggery 2
 glamourize 3
@@ -5093,7 +5093,7 @@ grumbly 1
 gallweed 1
 glomera
 gutturine 1
-gentlehearted 1
+gentlehearted 2
 gyps 1
 glaucophanite 1
 goldcrest 1
@@ -5937,7 +5937,7 @@ grangerize
 glanduligerous
 gensengs 1
 graylag 2
-geodesics
+geodesics 1
 gazogenes 1
 galactopathy 1
 gorgonacean 1
@@ -6782,7 +6782,7 @@ goitrogen 1
 gonoblast
 girders
 girded 3
-gentlemanism 1
+gentlemanism 2
 goodwill 3
 gratefuller 1
 gibel 1
