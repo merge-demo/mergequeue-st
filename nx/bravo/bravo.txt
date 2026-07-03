@@ -1873,7 +1873,7 @@ bancus
 backstabber
 bandelette 2
 banderma
-banderol 1
+banderol 2
 befrets
 banderole 2
 bastardliness
@@ -2234,7 +2234,7 @@ barato
 bibliolatrist
 buxaceae
 bontebok
-baghla
+baghla 1
 bodword 1
 blockade
 bostonite 3
@@ -2664,7 +2664,7 @@ biopsychologist
 boggy
 barleybrake 1
 broadener
-barleycorn 1
+barleycorn 2
 bilge
 bimensal 1
 bable
@@ -7975,7 +7975,7 @@ bicarbureted
 bicarburetted
 binucleated
 beanbag
-bristles 1
+bristles 2
 baphia 1
 birthdays 1
 bicched 2
@@ -8535,7 +8535,7 @@ blondish
 belle 1
 bumph 1
 bonny 1
-bateful 2
+bateful 3
 bilkis
 buncher 1
 belinurus
@@ -10079,7 +10079,7 @@ basidiolichen
 burglarious 2
 bizones 1
 bergeret 1
-biblos
+biblos 1
 bizz
 bluecoats 1
 bjorne
@@ -12083,7 +12083,7 @@ brocading
 bullfighters
 brit 2
 bradycauma
-bulbilla
+bulbilla 1
 boites
 baltetei 1
 balladier 1
@@ -12713,7 +12713,7 @@ bushmaster
 bibulously
 blastophthoric 1
 bowet 2
-booker
+booker 1
 boatkeeper 2
 billion
 bailsmen 1
@@ -12838,7 +12838,7 @@ blink
 barnabite
 bioprecipitation
 blizzardous 2
-birdbrains 1
+birdbrains 2
 boomslang
 boomslange 2
 buccula
@@ -14016,7 +14016,7 @@ batonist 1
 beevish 1
 blendor 1
 bracae 1
-biblioclasm
+biblioclasm 1
 bothriums 2
 bracciale
 boobyish 1
