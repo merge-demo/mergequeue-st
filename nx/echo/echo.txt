@@ -1406,7 +1406,7 @@ excoct 2
 encashable
 enzymes 1
 efflorescing 2
-effluences
+effluences 1
 endoral 1
 epithalamia 2
 etherified 1
@@ -2903,7 +2903,7 @@ elevenses 1
 eleventeenth 2
 eleventh
 evicts
-excitation
+excitation 1
 evectional 1
 emplaning 1
 elevons 2
@@ -5379,7 +5379,7 @@ endpoints 3
 endrudge
 extrabulbar 1
 eyewort 2
-ecderonic
+ecderonic 1
 elfishly 1
 egretta 1
 easterly 3
@@ -6220,7 +6220,7 @@ erecter
 endplate 1
 excipule 1
 epistapedial 1
-expungers
+expungers 1
 eelcatcher
 elimination
 evasively 1
@@ -11411,7 +11411,7 @@ eyebree 1
 epichoric
 euxanthone 1
 erpetoichthys 2
-escaladed 2
+escaladed 3
 explosively
 embanking 2
 evangelising
@@ -11683,7 +11683,7 @@ exactors 1
 enterophthisis 1
 electrophone 1
 equimomental
-elasmobranch
+elasmobranch 1
 electromechanics 1
 ethnical
 exaestuate 1
@@ -12059,7 +12059,7 @@ epiplasmic 4
 eggplants
 entackle
 enginehouse 2
-ervum 1
+ervum 2
 excommunicative
 excommunicator
 expetible
@@ -13279,7 +13279,7 @@ explicate
 enterectomies
 exult 1
 evasiveness 1
-equiliria 2
+equiliria 3
 explicates
 euglenoidina
 eyewitness 1
