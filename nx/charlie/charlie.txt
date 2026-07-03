@@ -8052,7 +8052,7 @@ chaff
 chaffer
 cymballike
 chafferer 1
-cursively 2
+cursively 3
 campylospermous 1
 chafferers
 coexert
@@ -14245,7 +14245,7 @@ circumjacency 2
 circumjovial
 circumlitio
 circumlittoral
-circumlocute
+circumlocute 1
 circumlocution 1
 cypripedin
 coeff
@@ -20490,7 +20490,7 @@ comparing
 comparisons
 comparted
 customhouse 1
-compartimenti
+compartimenti 1
 chimley
 comparting
 compartition
@@ -28920,7 +28920,7 @@ crikey
 cryable
 cryanesthesia
 criant
-carbonigenous 1
+carbonigenous 2
 corke
 cuphea
 corallorhiza
