@@ -3382,7 +3382,7 @@ basophilic
 basques 1
 bass 1
 brans
-basiphobia
+basiphobia 1
 besilver
 buccheros 1
 branchiopulmonate 2
@@ -18139,7 +18139,7 @@ balletomane 2
 bods
 blockading
 backlotter
-binomial
+binomial 1
 bacillite 1
 balsamize
 beastlike
