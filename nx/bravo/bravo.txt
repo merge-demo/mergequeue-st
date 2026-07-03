@@ -3757,7 +3757,7 @@ backhauls
 battologise 1
 bastile 1
 batlan
-bukshi
+bukshi 1
 battologising 1
 battologize
 bronchiocele 1
@@ -8236,7 +8236,7 @@ balagan 1
 boult 1
 bewildered 1
 bookwright 1
-bullfist
+bullfist 1
 brothership 1
 bespurt
 bulgaric 1
@@ -11839,7 +11839,7 @@ bodybending
 bodybuilder
 betrinket
 birthing
-bard 2
+bard 3
 briareus 2
 browbeater
 bulrushlike
@@ -17508,7 +17508,7 @@ beauseant 3
 biognosis 1
 burbot 1
 bleak 2
-bowsprit
+bowsprit 1
 beata 1
 bromopicrin
 bidenticulate
