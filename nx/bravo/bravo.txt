@@ -15327,7 +15327,7 @@ basiliscan 2
 bighorn
 budtime 1
 bridgebuilder 1
-bridgehead
+bridgehead 1
 bridgemaking 1
 blinis
 bayous
@@ -16049,7 +16049,7 @@ bestrewing 2
 bowess
 bronchotyphus
 belucki
-begall
+begall 1
 benzaldoxime
 babe
 bronchotracheal
@@ -16830,7 +16830,7 @@ burglarised
 bonnyvis
 buffaloing
 biarcuated
-biflagellate 1
+biflagellate 2
 buffball
 bourgeoises
 backings
