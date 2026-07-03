@@ -17501,7 +17501,7 @@ bantling
 bedip 2
 bystanders
 blockout 1
-backspeir
+backspeir 1
 burbolt
 blight
 beauseant 3
