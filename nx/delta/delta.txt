@@ -349,7 +349,7 @@ detrimentally 1
 daygoing 1
 damndest
 desiccation
-distemperer
+distemperer 1
 daiker 1
 dcor
 densest 1
@@ -3011,7 +3011,7 @@ deeper
 dealings 2
 dies
 dismantling
-deepfreeze
+deepfreeze 1
 dilettantish
 deepgoing 1
 demonstrativeness
@@ -4892,7 +4892,7 @@ discriminability
 demonstrations 1
 doctrinary
 decrescence 1
-daktylon 3
+daktylon 4
 duskily
 demophilism 1
 disclaims
@@ -11192,7 +11192,7 @@ dissyllabification
 dissweeten
 disparish 1
 dysbulia 1
-diazo
+diazo 1
 detoxifies
 decalcomaniac
 deltidium
