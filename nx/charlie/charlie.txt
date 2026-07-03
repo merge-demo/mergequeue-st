@@ -7204,7 +7204,7 @@ centriscoid
 cappadine 1
 centriscus
 centrism 1
-clark
+clark 1
 cinemascope 1
 comite
 crispen 1
@@ -10852,7 +10852,7 @@ claviharp
 chipmunks 1
 chrysochrous
 chipolata 2
-coleopteroid
+coleopteroid 1
 cordwain
 chippendale 1
 chemiatrist 1
@@ -26760,7 +26760,7 @@ counterborer
 counterboring 1
 curbstones
 counterbrand
-confutable
+confutable 1
 countercathexis
 counterchanged
 countercharm 2
