@@ -4241,7 +4241,7 @@ firepot 1
 foreflank 1
 forebooms 1
 flots 1
-frangipanni
+frangipanni 1
 floridians 2
 flaxbird
 foreignize
@@ -4722,7 +4722,7 @@ fratchety
 fijian
 fulgor 2
 ferrugineous 2
-flabella 2
+flabella 3
 flyweight 2
 frises 3
 facy
@@ -8944,7 +8944,7 @@ flitty 2
 ferritins 1
 foumart
 fodgel
-falciparum
+falciparum 1
 forayer 1
 fartherance 3
 filthify 2
