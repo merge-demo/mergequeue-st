@@ -1873,7 +1873,7 @@ bancus
 backstabber
 bandelette 2
 banderma
-banderol 1
+banderol 2
 befrets
 banderole 2
 bastardliness
@@ -12713,7 +12713,7 @@ bushmaster
 bibulously
 blastophthoric 1
 bowet 2
-booker
+booker 1
 boatkeeper 2
 billion
 bailsmen 1
