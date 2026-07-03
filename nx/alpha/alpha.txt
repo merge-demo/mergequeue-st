@@ -12439,7 +12439,7 @@ anisotropic
 androclinia 1
 apprest 1
 abjection
-androclinium
+androclinium 1
 androclus
 agialid 1
 absoil 2
@@ -22472,7 +22472,7 @@ astrophotometer
 astroscopy 1
 autocratorical 1
 astroscopus
-astrospectral 2
+astrospectral 3
 acrasiaceae
 adversion
 astrotheology
