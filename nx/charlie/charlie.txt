@@ -8681,7 +8681,7 @@ coto
 chaparejos
 chaparral
 chaparrals
-chaparraz 1
+chaparraz 2
 chromatoscope
 chaparro
 chapati 1
@@ -11594,7 +11594,7 @@ colonialization
 cholecystogastrostomy 2
 chronicon
 cholecystogram
-cholecystography
+cholecystography 1
 cholecystokinin
 cholecystolithiasis 1
 cholecystostomy
@@ -17576,7 +17576,7 @@ coccygectomy
 chiropterophilous
 cyanurate
 couvade 1
-coruscates 1
+coruscates 2
 coccygerector
 cuartel
 coccygine 1
@@ -28176,7 +28176,7 @@ cranked
 cranker
 cullis 2
 crankily
-crankiness
+crankiness 1
 cranking
 crankle
 circumplication
