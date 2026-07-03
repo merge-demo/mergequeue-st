@@ -1912,7 +1912,7 @@ epiphylaxis 2
 eluants 2
 eyeleted 1
 ensorcelize 1
-enabled
+enabled 1
 echinulate
 estoppal 2
 eurypterid 1
@@ -3154,7 +3154,7 @@ explore
 expurgators
 extinguishment
 epiphora
-eloins 1
+eloins 2
 etioporphyrin
 explorativeness 2
 embalms 2
