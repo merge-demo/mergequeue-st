@@ -1104,7 +1104,7 @@ burel
 bayonets
 benefactors 1
 bifacial 2
-blksize
+blksize 1
 bayong 1
 babongo 3
 baloney 1
@@ -1587,7 +1587,7 @@ ballets
 brevetcy 1
 blowtube 1
 ballgame
-ballhooter
+ballhooter 1
 backslash
 brainwashers
 balli
@@ -3064,7 +3064,7 @@ bdellostomatidae
 barvel
 bunnell
 baleful 1
-beduin
+beduin 1
 brainwashing
 braza
 burhead 1
@@ -6849,7 +6849,7 @@ benkulen
 bigener
 buicks 1
 bioluminescent 1
-bescourge 1
+bescourge 2
 buckeroos 2
 bust 1
 bescramble
@@ -6869,7 +6869,7 @@ bluegills
 brines 1
 birlers
 beshake
-bentinck
+bentinck 1
 bendel 2
 bloodwite
 beryllosis
@@ -11785,7 +11785,7 @@ biopyribole 2
 besmoothed
 burmannia 1
 barnful
-blitzed 2
+blitzed 3
 becloaking
 br
 bluisness
@@ -15576,7 +15576,7 @@ bryophyllum 2
 bouncy 3
 brios 1
 badinaging
-broomstick 2
+broomstick 3
 begrain
 boxes 1
 bdelloida
