@@ -8896,7 +8896,7 @@ allochroic 4
 anticosmetic
 aeolodicon
 allochthon
-antlike 1
+antlike 2
 archtempter
 askant
 ambilevous 1
@@ -10091,7 +10091,7 @@ antiformant
 amblycephalus
 atmology
 amblydactyla
-asymptomatically
+asymptomatically 1
 ammoniemia
 agarita
 amblygonal 1
@@ -19091,7 +19091,7 @@ aristocraticness 2
 allocute
 absorbant
 alkylamino 1
-agritos 1
+agritos 2
 actu
 amendable
 anthocyanidin
