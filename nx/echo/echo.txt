@@ -1172,7 +1172,7 @@ estipulate
 exultancy
 ekoi 1
 estimation 1
-eroded 2
+eroded 3
 elenge 1
 entirities 1
 espathate 3
@@ -2764,7 +2764,7 @@ eutropic 2
 epacmaic 1
 equipartition 1
 epidiplosis 1
-eighteenmo
+eighteenmo 1
 economicalness
 erect 1
 empalement 2
@@ -6919,7 +6919,7 @@ echinodermata
 eugenesic
 electrophototherapy
 epipodiale
-electrofuse
+electrofuse 1
 excipular 1
 eying
 epistolar 1
@@ -12824,7 +12824,7 @@ exines
 extensional
 exostosis
 exarchist
-exostra
+exostra 1
 ebullition 3
 engraves 1
 elementary
