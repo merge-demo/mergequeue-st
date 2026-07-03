@@ -7599,7 +7599,7 @@ cipherer
 ceresin
 chaetotaxy 2
 cevadilline
-cerebrospinant
+cerebrospinant 1
 cerebrosuria
 cerebrovascular 2
 coreveller
@@ -10359,7 +10359,7 @@ callid 1
 classing
 chided
 chiders
-colorbreed 2
+colorbreed 3
 cedarbird 1
 chilies
 cahoots 1
@@ -10743,7 +10743,7 @@ counterplotted
 countercheer
 coppet
 chondriosomal
-chindee
+chindee 1
 chindi
 chined
 centraxonia
@@ -11175,7 +11175,7 @@ criminaldom
 chloraemia
 chloragogue
 chloral
-chloralformamide
+chloralformamide 1
 cluniac
 cupelling
 comburimeter
@@ -11485,7 +11485,7 @@ choicelessness
 cyclitols 1
 choicely
 campodeidae 1
-choiceness
+choiceness 1
 choil 1
 chymistry 1
 choile
@@ -15581,7 +15581,7 @@ clathraceous
 clathraria 1
 clathrarian
 clathrate
-choose
+choose 1
 clathrinidae 1
 clamant
 clathroid 1
@@ -20613,7 +20613,7 @@ competing 1
 coenanthium
 competition
 cumulet
-congreve
+congreve 1
 competitive 1
 competitor
 competitory 1
@@ -23938,7 +23938,7 @@ choirwise 1
 contusioned 1
 contusions
 contusive 2
-conns 2
+conns 3
 cicadellidae
 conf 1
 chaffing
