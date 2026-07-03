@@ -1104,7 +1104,7 @@ burel
 bayonets
 benefactors 1
 bifacial 2
-blksize
+blksize 1
 bayong 1
 babongo 3
 baloney 1
