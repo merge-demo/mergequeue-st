@@ -6900,7 +6900,7 @@ begrudges 1
 beslaver 1
 balmony 1
 blindfold 3
-beshadowed
+beshadowed 1
 beauxite
 boggled
 briolette
@@ -15306,7 +15306,7 @@ blunges 1
 bridesmen 1
 baybolt 1
 bogomilian
-bridestake 1
+bridestake 2
 befoulier 1
 bichromate 1
 broodlet
@@ -15620,7 +15620,7 @@ bolsterer
 brist
 bombproof 1
 bavarian
-biomagnetism 2
+biomagnetism 3
 burlaps
 biopsychical 1
 born
