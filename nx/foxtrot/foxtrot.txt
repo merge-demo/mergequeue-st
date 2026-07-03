@@ -4849,7 +4849,7 @@ froebelism 1
 footfall
 floor 1
 farmhouse
-fickleness 1
+fickleness 2
 flagstick 2
 flagworm 1
 fandangle 2
@@ -5148,7 +5148,7 @@ furbelows 1
 froom 2
 flatlands 1
 fiberized
-flavoprotein 1
+flavoprotein 2
 fatigued 1
 flywheels 4
 fjords
