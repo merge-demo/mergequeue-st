@@ -9882,7 +9882,7 @@ childes
 crystallisation 2
 chemoreflex
 contrabassoon
-chemoresistance
+chemoresistance 1
 chemoserotherapy
 chemosynthesis
 chemosynthetic
@@ -13609,7 +13609,7 @@ cimices 1
 cimicide
 cene 1
 cimiciform
-chickens
+chickens 1
 cimicifuga 1
 cimicoid
 conformableness
@@ -16706,7 +16706,7 @@ cora 1
 catechismal 1
 clothespins
 centroplasm
-clothespresses 1
+clothespresses 2
 cire 2
 clothiers
 clothings
