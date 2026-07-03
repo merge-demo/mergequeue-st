@@ -2370,7 +2370,7 @@ floatstone
 fegs 1
 frolicky
 favoritism 1
-ferforth 2
+ferforth 3
 falconiformes 1
 frogling 1
 feudist 2
@@ -2526,7 +2526,7 @@ flunky 2
 foulmouth 1
 formaldehyde
 feverlike 1
-frondescent 1
+frondescent 2
 ferrelling 1
 fluorine 5
 footropes 1
@@ -5334,7 +5334,7 @@ featherweight 1
 flayflint 1
 fleabag
 fusillade
-faintheart
+faintheart 1
 furciform 2
 fleabags
 fireclay
@@ -7351,7 +7351,7 @@ foraminulate 1
 fought 3
 flabbily 1
 foraneen 2
-ferrateen 1
+ferrateen 2
 ferocious 3
 fluoridising
 formaldehydesulphoxylic 1
@@ -7765,7 +7765,7 @@ franciscanism
 fisticuffery 3
 forbiddenly 2
 favillous 3
-flabelliform
+flabelliform 1
 forsaker 3
 foremean 1
 freestone
@@ -10300,7 +10300,7 @@ feme 1
 freezers
 filum
 fiveling 2
-felons
+felons 1
 fistinut 1
 frolic 1
 fanegas 1
@@ -11539,7 +11539,7 @@ foreremembered 5
 fab 4
 furtiveness
 frena 2
-foxfeet 1
+foxfeet 2
 fuselages
 fuselike
 fermentations
