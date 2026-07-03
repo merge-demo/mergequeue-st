@@ -1293,7 +1293,7 @@ exhilarated
 exumbrellar 1
 effect 1
 endocardiac
-exopeptidase 1
+exopeptidase 2
 effective 2
 euryphagous 2
 exposure
@@ -2539,7 +2539,7 @@ eminency 1
 eatable 1
 ezra 1
 emptiable
-electrometer
+electrometer 1
 exstrophy 1
 earthgrubber
 electrometrical 1
@@ -5803,7 +5803,7 @@ endura 1
 exfoliation 3
 erlkings 1
 epicele 2
-extrinsic 2
+extrinsic 3
 engram 2
 engrafter 2
 exibilate
