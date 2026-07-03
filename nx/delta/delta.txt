@@ -3348,7 +3348,7 @@ diastem
 demitting
 duddery 1
 destiny
-domesticable 1
+domesticable 2
 datiscoside 2
 downweight
 dicot
@@ -11135,7 +11135,7 @@ dani 2
 disbeliefs 3
 decastere
 dermises
-diarchic
+diarchic 1
 decemjugate 2
 dissociating
 disbelieved 2
@@ -12409,7 +12409,7 @@ douching
 dislocable
 diastematic
 dishrags 1
-dishtowels 1
+dishtowels 2
 dimmish
 deciduate 1
 detrital
@@ -17756,7 +17756,7 @@ diene
 discoloredness 1
 disconsolacy
 derivate
-debugs
+debugs 1
 deaminize 1
 dungeon 1
 dubiousness
