@@ -3038,7 +3038,7 @@ cellocut 2
 cantoning
 cantonize 1
 colectomy 1
-countergager
+countergager 1
 cantoral
 cantoria
 cardsharps
@@ -10852,7 +10852,7 @@ claviharp
 chipmunks 1
 chrysochrous
 chipolata 2
-coleopteroid
+coleopteroid 1
 cordwain
 chippendale 1
 chemiatrist 1
@@ -22640,7 +22640,7 @@ connexus
 cosuggestion
 comperes
 clamjamphrie
-chinles
+chinles 1
 connies
 conning 1
 carpostome
@@ -25129,7 +25129,7 @@ constructivism
 counternatural
 conglutinated
 commentate
-coremaking 1
+coremaking 2
 coremorphosis
 colouring
 chromonematic
@@ -26760,7 +26760,7 @@ counterborer
 counterboring 1
 curbstones
 counterbrand
-confutable
+confutable 1
 countercathexis
 counterchanged
 countercharm 2
@@ -28968,7 +28968,7 @@ couldest
 cicindelid
 cigaret 1
 cricketlike
-coercibility
+coercibility 1
 crickle
 chandrakanta 1
 charlatanical 1
@@ -30446,7 +30446,7 @@ csch 3
 csect
 cpu 1
 cholecystectomies 1
-csmp
+csmp 1
 csp
 combatively
 csw
@@ -31813,7 +31813,7 @@ cuticula
 credenzas 1
 cuticulate
 chrysothamnus
-codamine 1
+codamine 2
 chalcophanite
 cuties 1
 cacemphaton 1
