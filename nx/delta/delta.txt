@@ -1378,7 +1378,7 @@ delta
 diminishableness 1
 dasnt 1
 decurionate
-duodecillion
+duodecillion 1
 denierage 1
 diatomin
 doyennes 1
@@ -3411,7 +3411,7 @@ dimethylhydrazine 3
 downrightness 1
 dillseed
 dudgeon 1
-dissatisfy 2
+dissatisfy 3
 dowly 1
 deflocculate
 deflocculating
@@ -11883,7 +11883,7 @@ dramm 1
 dhunchi
 depicture 2
 discuses
-disease
+disease 1
 dentalisation
 disillusionising 1
 defectively
@@ -12367,7 +12367,7 @@ dishelms 1
 disher 1
 durability
 disturbers
-disherited 1
+disherited 2
 divet
 defibrillator
 deamidize 2
