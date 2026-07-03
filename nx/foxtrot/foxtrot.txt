@@ -768,7 +768,7 @@ forecovert 1
 fecundize 1
 fluorines
 financing 1
-flunker
+flunker 1
 folkloric
 footworn
 fulmen 1
@@ -4035,7 +4035,7 @@ fletchings 2
 fungoid 1
 finishable 1
 flemer
-fabrication 2
+fabrication 3
 femininely 1
 foredo 1
 fondak 2
@@ -6725,7 +6725,7 @@ fellowships
 forelegs 2
 fogon
 fogproof 1
-forstand 1
+forstand 2
 fellator 2
 frangulaceae
 foramens
@@ -8369,7 +8369,7 @@ frondiform 2
 furnished 1
 fautorship
 fodge 1
-flytraps
+flytraps 1
 fusate
 factories 1
 fieldstrip 3
@@ -11716,7 +11716,7 @@ foredesign 1
 fosslology 1
 flighty 1
 flagellator
-folkland 2
+folkland 3
 fados
 feudalised 2
 forecool
