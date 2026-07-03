@@ -4734,7 +4734,7 @@ dulcinist 1
 dromophobia 1
 dejected
 diabolatry
-disgracing
+disgracing 1
 dangs
 dpt 2
 dilated
@@ -6580,7 +6580,7 @@ dubious 1
 delimits
 desegmentation 1
 dynamiters
-denigratory 1
+denigratory 2
 damoiselle 1
 dirdum 1
 dephlegmated 1
@@ -10355,7 +10355,7 @@ diodont
 discrimination 1
 dictronics
 diosmosed 1
-diosmosing 2
+diosmosing 3
 defenders
 departures 1
 detenant
