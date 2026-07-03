@@ -8578,7 +8578,7 @@ allagite
 ailuroid 1
 allagostemonous 1
 affettuosos 1
-alumina 1
+alumina 2
 archiphoneme
 austafrican
 actinobranchia
@@ -9041,7 +9041,7 @@ akoluthia
 algebraized
 aminobenzine
 allotments
-allotransplantation
+allotransplantation 1
 amic
 anapsidan
 aden
@@ -12439,7 +12439,7 @@ anisotropic
 androclinia 1
 apprest 1
 abjection
-androclinium
+androclinium 1
 androclus
 agialid 1
 absoil 2
@@ -22472,7 +22472,7 @@ astrophotometer
 astroscopy 1
 autocratorical 1
 astroscopus
-astrospectral 2
+astrospectral 3
 acrasiaceae
 adversion
 astrotheology

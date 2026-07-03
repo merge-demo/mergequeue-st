@@ -1093,7 +1093,7 @@ ganister
 guildry 1
 goriest 4
 giroflore
-glittering 1
+glittering 2
 gestion 3
 groat 1
 grooviness 1
@@ -6925,7 +6925,7 @@ gruffest
 grimness
 graciosity
 grandeval 1
-golgotha 1
+golgotha 2
 goodliness 1
 grassflower 1
 grammy 3
@@ -6988,7 +6988,7 @@ grunch 1
 gnotobiology 3
 grimmest 3
 guarantor
-greengrocers
+greengrocers 1
 grumpiest 2
 gyrovague 2
 griefless
@@ -7274,7 +7274,7 @@ grace 1
 gormandism
 gormandize 1
 glomi 2
-gormandizes 1
+gormandizes 2
 gastroenteroptosis 1
 gunbright 1
 gundeck 2
