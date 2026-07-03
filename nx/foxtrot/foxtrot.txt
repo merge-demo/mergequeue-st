@@ -2526,7 +2526,7 @@ flunky 2
 foulmouth 1
 formaldehyde
 feverlike 1
-frondescent 1
+frondescent 2
 ferrelling 1
 fluorine 5
 footropes 1
@@ -5334,7 +5334,7 @@ featherweight 1
 flayflint 1
 fleabag
 fusillade
-faintheart
+faintheart 1
 furciform 2
 fleabags
 fireclay
@@ -11539,7 +11539,7 @@ foreremembered 5
 fab 4
 furtiveness
 frena 2
-foxfeet 1
+foxfeet 2
 fuselages
 fuselike
 fermentations
