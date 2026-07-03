@@ -356,7 +356,7 @@ fruticant 1
 fattiness
 foreknowing 2
 faints
-forcedness 2
+forcedness 3
 franklandite
 frenuna
 from
@@ -5592,7 +5592,7 @@ flicflac
 financialist
 fluttering
 flintiness 1
-ferricyanhydric
+ferricyanhydric 1
 flaglike
 flicker 2
 fixity 1
@@ -6956,7 +6956,7 @@ faring 1
 flub 2
 familistere
 ferthumlungur 1
-fobbing 1
+fobbing 2
 fumarase 3
 fibromatosis 1
 fauconnier
@@ -7010,7 +7010,7 @@ farewelled
 fraenulum 1
 fathomableness 3
 foreaccustom
-fruitwoman 1
+fruitwoman 2
 flexions
 fichtean
 filla 1
@@ -8920,7 +8920,7 @@ foul 2
 frotted 1
 fogger
 finesse
-fervorless 2
+fervorless 3
 fiberizer
 feudalism 2
 fussed
