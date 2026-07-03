@@ -1026,7 +1026,7 @@ fogas 1
 faro 1
 fluoridization 2
 fluorogen 4
-floter 1
+floter 2
 foredestining 1
 furriery 1
 fiberboard
@@ -6945,7 +6945,7 @@ firebote 1
 folliculated 1
 fauna
 firepink 1
-feyer 2
+feyer 3
 fluidifying
 fruitfully 1
 floriated 1
@@ -10819,7 +10819,7 @@ fubbery 1
 fatling 2
 filamentoid 1
 fullering 2
-footpads
+footpads 1
 farmerette 2
 fuchsian
 fort 1
