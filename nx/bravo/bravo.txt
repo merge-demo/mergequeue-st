@@ -1104,7 +1104,7 @@ burel
 bayonets
 benefactors 1
 bifacial 2
-blksize
+blksize 1
 bayong 1
 babongo 3
 baloney 1
@@ -1587,7 +1587,7 @@ ballets
 brevetcy 1
 blowtube 1
 ballgame
-ballhooter
+ballhooter 1
 backslash
 brainwashers
 balli
@@ -3064,7 +3064,7 @@ bdellostomatidae
 barvel
 bunnell
 baleful 1
-beduin
+beduin 1
 brainwashing
 braza
 burhead 1
