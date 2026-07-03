@@ -1985,7 +1985,7 @@ desirable
 diced
 dermatoma
 drover 1
-demyelinate
+demyelinate 1
 dominated 2
 deflection
 descloizite
@@ -8378,7 +8378,7 @@ dilatator 1
 diabase 1
 dialists
 deacetylated 1
-dragboat
+dragboat 1
 dispreader
 disunite 1
 dichroscopic 1
@@ -13142,7 +13142,7 @@ donkeyback
 dispersibility 2
 dissolution 1
 dentilabial 1
-daces 2
+daces 3
 derelicta
 dogmatizing
 dispersing
