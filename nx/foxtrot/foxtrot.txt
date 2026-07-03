@@ -356,7 +356,7 @@ fruticant 1
 fattiness
 foreknowing 2
 faints
-forcedness 2
+forcedness 3
 franklandite
 frenuna
 from
@@ -6956,7 +6956,7 @@ faring 1
 flub 2
 familistere
 ferthumlungur 1
-fobbing 1
+fobbing 2
 fumarase 3
 fibromatosis 1
 fauconnier
@@ -8631,7 +8631,7 @@ fissionable
 fungating 1
 farmsteading
 forninst 1
-fricative 1
+fricative 2
 flexor 5
 fornix 1
 fanegada 1
@@ -11716,7 +11716,7 @@ foredesign 1
 fosslology 1
 flighty 1
 flagellator
-folkland 3
+folkland 4
 fados
 feudalised 2
 forecool
