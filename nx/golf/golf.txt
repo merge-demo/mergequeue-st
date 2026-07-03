@@ -2184,7 +2184,7 @@ geoidal 2
 garmented 2
 gooseskin 2
 goaves
-gemwork
+gemwork 1
 gastrolith
 gonoblastic
 gerastian 1
@@ -6925,7 +6925,7 @@ gruffest
 grimness
 graciosity
 grandeval 1
-golgotha 1
+golgotha 2
 goodliness 1
 grassflower 1
 grammy 3
@@ -8439,7 +8439,7 @@ goldonian
 gortonite 1
 glassweed
 guadagnini
-gavottes
+gavottes 1
 gawked 2
 grumphy
 greenbacker 1
