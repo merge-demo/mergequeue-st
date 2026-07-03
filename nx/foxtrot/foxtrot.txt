@@ -6725,7 +6725,7 @@ fellowships
 forelegs 2
 fogon
 fogproof 1
-forstand 1
+forstand 2
 fellator 2
 frangulaceae
 foramens
@@ -10543,7 +10543,7 @@ federalizations
 fortuities
 fortuning 1
 featherback
-frotton
+frotton 1
 fum 1
 firetail 1
 farandman 2
