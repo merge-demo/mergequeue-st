@@ -3803,7 +3803,7 @@ clouters 1
 carbineer
 carbinols
 commensality
-carboazotine 1
+carboazotine 2
 curcuma
 conrail
 carbodynamite
@@ -9882,7 +9882,7 @@ childes
 crystallisation 2
 chemoreflex
 contrabassoon
-chemoresistance
+chemoresistance 1
 chemoserotherapy
 chemosynthesis
 chemosynthetic
@@ -13609,7 +13609,7 @@ cimices 1
 cimicide
 cene 1
 cimiciform
-chickens
+chickens 1
 cimicifuga 1
 cimicoid
 conformableness
@@ -15537,7 +15537,7 @@ crossbolted
 classicalist
 classicality
 chaya
-classicise 1
+classicise 2
 chromophoric 1
 classicism
 classicist
@@ -16706,7 +16706,7 @@ cora 1
 catechismal 1
 clothespins
 centroplasm
-clothespresses 1
+clothespresses 2
 cire 2
 clothiers
 clothings
@@ -17223,7 +17223,7 @@ chambrel 1
 curseder
 coalier
 coaliest
-coenzymatically
+coenzymatically 1
 coalify
 corollarially
 caperer 1
