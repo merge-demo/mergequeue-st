@@ -4119,7 +4119,7 @@ bicompact
 brachiopode
 bodysurfs 1
 bowmaking
-beelbow
+beelbow 1
 beswarms 1
 blanchimeter 1
 bearding
@@ -12392,7 +12392,7 @@ backtack 1
 bombonne 2
 bombora 1
 beswarmed
-bombus 1
+bombus 2
 bombardelle 2
 bon
 backrope
