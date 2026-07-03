@@ -1459,7 +1459,7 @@ gynocardia 1
 gradualness 1
 gasboat 4
 giddiness
-gaselier
+gaselier 1
 glissading
 gastrophilus 1
 gastric
@@ -2987,7 +2987,7 @@ gaulding 1
 ginglymoidal
 gregarinosis 2
 gloom 1
-geogenic
+geogenic 1
 gyrally 2
 grudgekin 1
 glb 1
@@ -3918,7 +3918,7 @@ guano 2
 gagers
 grassnut 1
 grex 1
-gluttonousness 1
+gluttonousness 2
 graphometrical 2
 gratia 2
 groaner
@@ -6413,7 +6413,7 @@ glassman
 glossotherium 1
 gobiesocid 1
 gabardine 1
-gymnocladus
+gymnocladus 1
 grows
 geegaws 2
 gilders 1
