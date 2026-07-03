@@ -7599,7 +7599,7 @@ cipherer
 ceresin
 chaetotaxy 2
 cevadilline
-cerebrospinant
+cerebrospinant 1
 cerebrosuria
 cerebrovascular 2
 coreveller
@@ -8681,7 +8681,7 @@ coto
 chaparejos
 chaparral
 chaparrals
-chaparraz 1
+chaparraz 2
 chromatoscope
 chaparro
 chapati 1
@@ -10359,7 +10359,7 @@ callid 1
 classing
 chided
 chiders
-colorbreed 2
+colorbreed 3
 cedarbird 1
 chilies
 cahoots 1
@@ -10743,7 +10743,7 @@ counterplotted
 countercheer
 coppet
 chondriosomal
-chindee
+chindee 1
 chindi
 chined
 centraxonia
@@ -11594,7 +11594,7 @@ colonialization
 cholecystogastrostomy 2
 chronicon
 cholecystogram
-cholecystography
+cholecystography 1
 cholecystokinin
 cholecystolithiasis 1
 cholecystostomy
@@ -17576,7 +17576,7 @@ coccygectomy
 chiropterophilous
 cyanurate
 couvade 1
-coruscates 1
+coruscates 2
 coccygerector
 cuartel
 coccygine 1
@@ -20613,7 +20613,7 @@ competing 1
 coenanthium
 competition
 cumulet
-congreve
+congreve 1
 competitive 1
 competitor
 competitory 1
@@ -23938,7 +23938,7 @@ choirwise 1
 contusioned 1
 contusions
 contusive 2
-conns 2
+conns 3
 cicadellidae
 conf 1
 chaffing
@@ -28176,7 +28176,7 @@ cranked
 cranker
 cullis 2
 crankily
-crankiness
+crankiness 1
 cranking
 crankle
 circumplication
