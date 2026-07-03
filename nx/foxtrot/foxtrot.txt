@@ -1026,7 +1026,7 @@ fogas 1
 faro 1
 fluoridization 2
 fluorogen 4
-floter 1
+floter 2
 foredestining 1
 furriery 1
 fiberboard
@@ -2568,7 +2568,7 @@ feedsman 1
 femorotibial 2
 fiduciaries 1
 fanti
-fimbriatum 3
+fimbriatum 4
 fluidification
 fetishry
 fussify 1
@@ -6193,7 +6193,7 @@ foreread 1
 fairgoing 2
 fondest 1
 flaxes 1
-foretops
+foretops 1
 feebling 1
 forgiven 2
 foredivine
@@ -6945,7 +6945,7 @@ firebote 1
 folliculated 1
 fauna
 firepink 1
-feyer 2
+feyer 3
 fluidifying
 fruitfully 1
 floriated 1
@@ -11719,7 +11719,7 @@ flagellator
 folkland 4
 fados
 feudalised 2
-forecool
+forecool 1
 functionize
 futurition 1
 fashionably
