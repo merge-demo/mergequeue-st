@@ -5845,7 +5845,7 @@ definitiveness
 diagnoses 1
 deleting
 droshky 2
-depredatory
+depredatory 1
 deontic 1
 disembargoed 1
 deodars
@@ -10209,7 +10209,7 @@ dinking 1
 defatting 1
 dinkum
 disobligatory
-dormitory 1
+dormitory 2
 decillionth 1
 dishcross
 doblons 1
@@ -10538,7 +10538,7 @@ demiking
 dauw 1
 diplocardiac
 diplocarpon
-diplocaulescent
+diplocaulescent 1
 diplocephalus
 drearisomeness 2
 dysaphia 1
@@ -12589,7 +12589,7 @@ deodorise
 definitise 2
 downcried
 dephase
-disinvagination 2
+disinvagination 3
 deepfroze
 disutilize
 directs
@@ -16874,7 +16874,7 @@ determinativeness 2
 discharity
 dozes 1
 depreciations 1
-dissyllabise 2
+dissyllabise 3
 diffidence
 demargarinate 1
 drawspring 1
