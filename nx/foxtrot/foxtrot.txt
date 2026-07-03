@@ -538,7 +538,7 @@ froggy 3
 fatstock 1
 falters 2
 fronts 1
-foresays
+foresays 1
 flosculose
 ff 2
 fertilely 1
@@ -3776,7 +3776,7 @@ formativeness 1
 fortranh 2
 fiberware 1
 forebridge
-filmland 1
+filmland 2
 filmmake 2
 filmogen 2
 fulah
@@ -4042,7 +4042,7 @@ fondak 2
 forevision
 faburden
 formulation
-finishers 2
+finishers 3
 febris 2
 finishes 1
 fultz 1
@@ -6603,7 +6603,7 @@ fissileness 1
 fascioliasis 1
 feelies
 flagrante 1
-frogfish 4
+frogfish 5
 forestaffs 2
 forecondemn
 forfending 4
@@ -8396,7 +8396,7 @@ feastful 1
 fewsome 1
 feigningly 2
 flaff
-fulminates 2
+fulminates 3
 forkier
 forcy
 familiars 1
@@ -9229,7 +9229,7 @@ formicaria 1
 fraena 1
 frostproofing 6
 forward
-filenames 1
+filenames 2
 frija 1
 fixive
 fruiterer 1
