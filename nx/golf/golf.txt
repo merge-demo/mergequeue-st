@@ -1648,7 +1648,7 @@ gulfweed
 galeopithecus
 glycin 1
 globed
-gastroduodenitis 2
+gastroduodenitis 3
 guadua
 gastroduodenostomy 1
 gastritis 1
@@ -6427,7 +6427,7 @@ gems 2
 gigartina
 gregorian 1
 grandeeship 1
-geneses 3
+geneses 4
 gallivanted 1
 gouger 3
 guineapig 2
@@ -10053,7 +10053,7 @@ gimmal 1
 gyneconitis 1
 grabens
 gumshoed 4
-gonomere
+gonomere 1
 gorgerin 2
 gonk
 gigabits 2
