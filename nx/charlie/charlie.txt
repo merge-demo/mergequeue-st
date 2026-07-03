@@ -2462,7 +2462,7 @@ canchalagua 2
 cropsickness 1
 cherubically
 cancion 1
-cancionero 1
+cancionero 2
 canciones 1
 cancri 1
 chloroquine 1
@@ -21129,7 +21129,7 @@ chordacentrum 2
 concassation
 cherishers
 concatenate
-cubangle
+cubangle 1
 catadromous
 concatenated 1
 ceride
@@ -30715,7 +30715,7 @@ cudweeds
 counterexplanation
 cudwort
 couturire
-compassment
+compassment 1
 comedist
 chides
 cued
