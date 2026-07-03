@@ -7503,7 +7503,7 @@ chromididae
 coloni
 cercarian
 cilices
-cercariform
+cercariform 1
 cerci
 curators 1
 cercidiphyllaceae 1
@@ -11175,7 +11175,7 @@ criminaldom
 chloraemia
 chloragogue
 chloral
-chloralformamide
+chloralformamide 1
 cluniac
 cupelling
 comburimeter
@@ -15581,7 +15581,7 @@ clathraceous
 clathraria 1
 clathrarian
 clathrate
-choose
+choose 1
 clathrinidae 1
 clamant
 clathroid 1
@@ -30394,7 +30394,7 @@ crustaceological
 crustaceologist 1
 cattishness
 clearstories 1
-continuateness 1
+continuateness 2
 crustaceorubrin 1
 cynology 1
 cadenced 1
