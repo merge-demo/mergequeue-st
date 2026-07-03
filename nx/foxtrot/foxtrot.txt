@@ -538,7 +538,7 @@ froggy 3
 fatstock 1
 falters 2
 fronts 1
-foresays
+foresays 1
 flosculose
 ff 2
 fertilely 1
@@ -2779,7 +2779,7 @@ fuddlebrained
 forgivingness 1
 festinated
 festinating
-festination
+festination 1
 forgettery 1
 furriest
 festooneries 1
@@ -6193,7 +6193,7 @@ foreread 1
 fairgoing 2
 fondest 1
 flaxes 1
-foretops
+foretops 1
 feebling 1
 forgiven 2
 foredivine
@@ -6290,7 +6290,7 @@ forsakenly
 fenestellidae 2
 flybelts
 foundation
-forinsecal 2
+forinsecal 3
 fornicators
 fescennine 1
 fluked 1
@@ -8014,7 +8014,7 @@ fetishize 1
 foveolas 2
 flisky 3
 fluate 2
-fempty
+fempty 1
 fetches 1
 floran 1
 fleying
@@ -8218,7 +8218,7 @@ feverberries 3
 formicinae 1
 folles
 faddle 3
-fraught
+fraught 1
 flourishable
 fordrive
 flockbed
@@ -8267,7 +8267,7 @@ forficula 1
 fetors 1
 ferrated 2
 forfoughten 1
-faltering 2
+faltering 3
 forgat 1
 futuramic 3
 flavines
@@ -11432,7 +11432,7 @@ furl 1
 furodiazole
 feoff 2
 furomethyl
-firring
+firring 1
 furcated 1
 fishings
 furred
@@ -11679,7 +11679,7 @@ futurama 1
 floodometer
 flibustier 2
 faineant 1
-furcates
+furcates 1
 festoons 1
 flocculate 1
 frigorific 2
