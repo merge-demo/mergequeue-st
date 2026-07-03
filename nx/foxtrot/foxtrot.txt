@@ -1296,7 +1296,7 @@ fyttes 2
 famose 1
 flyable 1
 factionally
-frantically
+frantically 1
 fumariaceous
 fluxible 1
 fatherly 2
@@ -2334,7 +2334,7 @@ fecula 2
 fenzelia
 firestopping
 foreimagine 3
-fconvert
+fconvert 1
 feoffer 1
 fiberous 1
 feoffs 1
@@ -3612,7 +3612,7 @@ fableland
 fundal
 fogus
 fanwort 1
-figurize 3
+figurize 4
 filibusterers
 fourble
 fomento 2
