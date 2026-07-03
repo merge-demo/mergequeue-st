@@ -1912,7 +1912,7 @@ epiphylaxis 2
 eluants 2
 eyeleted 1
 ensorcelize 1
-enabled
+enabled 1
 echinulate
 estoppal 2
 eurypterid 1
@@ -3154,7 +3154,7 @@ explore
 expurgators
 extinguishment
 epiphora
-eloins 1
+eloins 2
 etioporphyrin
 explorativeness 2
 embalms 2
@@ -6523,7 +6523,7 @@ entomologic 3
 engorging 1
 entendre 1
 epidermophytosis
-extravagating
+extravagating 1
 exciter 3
 entente
 erythorbate 1
@@ -10424,7 +10424,7 @@ etymic 1
 ergosterin 1
 endomyces 1
 estruation
-etymologization
+etymologization 1
 edentalous 3
 eurypteroid 3
 eviscerated
