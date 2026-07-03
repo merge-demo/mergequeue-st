@@ -6851,7 +6851,7 @@ dryobalanops 1
 dragnet 1
 deadflat 1
 deltic 1
-domesticative 2
+domesticative 3
 derivative
 desmopathology 2
 desmopexia 2
@@ -12160,7 +12160,7 @@ disambiguates 1
 demideify 1
 dribblement 2
 dysphonic
-disflesh
+disflesh 1
 disfoliage
 dayward
 disrelate
@@ -13286,7 +13286,7 @@ delay 1
 distrustful
 damascus 1
 detuned 1
-dinomys 1
+dinomys 2
 dogfish
 dyotheism
 dustin 1
@@ -17512,7 +17512,7 @@ drowte 1
 dreads
 discrete 1
 daffle
-doubleheaders 2
+doubleheaders 3
 destructed
 devoices 1
 densities
@@ -18045,7 +18045,7 @@ dulcified
 dulcifluous 4
 defaitisme 2
 dulcigenic 4
-dehydrogenizer 2
+dehydrogenizer 3
 dulciloquent
 delouses 2
 dungon 3
