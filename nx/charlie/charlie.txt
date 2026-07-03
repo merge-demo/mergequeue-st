@@ -755,7 +755,7 @@ chasselas
 cages 1
 cocoa 1
 colonelship 1
-cagester 1
+cagester 2
 cogrediency
 chlornal
 collaborationist 1
@@ -10852,7 +10852,7 @@ claviharp
 chipmunks 1
 chrysochrous
 chipolata 2
-coleopteroid
+coleopteroid 1
 cordwain
 chippendale 1
 chemiatrist 1
@@ -26760,7 +26760,7 @@ counterborer
 counterboring 1
 curbstones
 counterbrand
-confutable
+confutable 1
 countercathexis
 counterchanged
 countercharm 2
