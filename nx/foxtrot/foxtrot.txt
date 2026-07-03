@@ -1330,7 +1330,7 @@ favorable 1
 fatigableness 3
 forfars
 frock
-fidac
+fidac 1
 flaggish 3
 foretoken 2
 fatigue
@@ -3358,7 +3358,7 @@ fieldish 1
 funereality 1
 flatfoot 1
 fattener 1
-fibromatous
+fibromatous 1
 fossores 2
 foveolate
 frostiness 2
@@ -7804,7 +7804,7 @@ footrail 1
 fleshier 2
 forjudges 2
 formosan 6
-fluorescigenic
+fluorescigenic 1
 fecundify 3
 fleaweed 4
 forenight
@@ -11211,7 +11211,7 @@ fullgrownness
 frontiersman 2
 falsetto
 fusobacteria
-foetalization 1
+foetalization 2
 fungoes 2
 flotorial
 freechurchism
@@ -11365,7 +11365,7 @@ fannies 1
 fenagler 1
 ferlied 1
 flustrine 4
-fuchsin 4
+fuchsin 5
 forfended
 furmenty
 foreassign 2
