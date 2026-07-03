@@ -1026,7 +1026,7 @@ fogas 1
 faro 1
 fluoridization 2
 fluorogen 4
-floter 1
+floter 2
 foredestining 1
 furriery 1
 fiberboard
@@ -2779,7 +2779,7 @@ fuddlebrained
 forgivingness 1
 festinated
 festinating
-festination
+festination 1
 forgettery 1
 furriest
 festooneries 1
@@ -6290,7 +6290,7 @@ forsakenly
 fenestellidae 2
 flybelts
 foundation
-forinsecal 2
+forinsecal 3
 fornicators
 fescennine 1
 fluked 1
@@ -6945,7 +6945,7 @@ firebote 1
 folliculated 1
 fauna
 firepink 1
-feyer 2
+feyer 3
 fluidifying
 fruitfully 1
 floriated 1
@@ -8218,7 +8218,7 @@ feverberries 3
 formicinae 1
 folles
 faddle 3
-fraught
+fraught 1
 flourishable
 fordrive
 flockbed
@@ -10819,7 +10819,7 @@ fubbery 1
 fatling 2
 filamentoid 1
 fullering 2
-footpads
+footpads 1
 farmerette 2
 fuchsian
 fort 1
@@ -11432,7 +11432,7 @@ furl 1
 furodiazole
 feoff 2
 furomethyl
-firring
+firring 1
 furcated 1
 fishings
 furred

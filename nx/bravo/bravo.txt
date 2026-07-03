@@ -2634,7 +2634,7 @@ belostoma
 bumpkinly 1
 broncs 1
 barkier 1
-buttonhook
+buttonhook 1
 bravery 1
 beduchess
 bantamweight 1
@@ -4434,7 +4434,7 @@ blackfriars 3
 batule
 becloak 3
 bereavement
-boojum 3
+boojum 4
 bethorning
 beclog
 becoiffed
@@ -8822,7 +8822,7 @@ berakoth
 biniou
 binitarianism 1
 beworm
-bubonic 2
+bubonic 3
 boarstaff
 buffaloed 2
 bowering
@@ -14271,7 +14271,7 @@ bradley 1
 bareka 2
 brocades 1
 beckiron
-bravoes
+bravoes 1
 bolden
 burelly
 blites 1
@@ -15568,7 +15568,7 @@ bisso
 beadlet 2
 bryony
 biedermeier 2
-buglet
+buglet 1
 bryonia
 belloot
 backbiter
