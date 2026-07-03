@@ -3440,7 +3440,7 @@ demanders 1
 dormient
 duelists 1
 dehumidifier 1
-damp
+damp 1
 discomfortably 3
 defluent
 debyes
@@ -18374,7 +18374,7 @@ disked 4
 dryerman 1
 dusk
 doubleton 1
-duodenate 1
+duodenate 2
 duodenation
 degelation 1
 diallelon 2
