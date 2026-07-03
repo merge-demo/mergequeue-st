@@ -351,7 +351,7 @@ bloman
 brushes 1
 belches
 backfills
-bequeath
+bequeath 1
 basseting
 benighter 2
 backfires
@@ -1682,7 +1682,7 @@ bestrews 1
 blandiloquious
 bradburya
 bogtrot
-boycotter 2
+boycotter 3
 ballsiest
 bengali 1
 befur 1
@@ -1704,7 +1704,7 @@ boko 1
 betokens
 balmonies
 balmoral
-benefits 1
+benefits 2
 besoms
 balmorals 3
 bensh
@@ -6053,7 +6053,7 @@ butyral
 botaniser
 bemurmure 2
 bemurmuring
-befooled
+befooled 1
 bemuses 1
 belknap
 bol 1
@@ -6453,7 +6453,7 @@ barouchet
 bulldogged
 biostratigraphy 1
 borderings
-bergmannite
+bergmannite 1
 bilati
 bilharzia
 beothukan 1
@@ -7050,7 +7050,7 @@ billiardist
 besouth 1
 blaming 1
 bedazzlement
-bespangling
+bespangling 1
 bespate 1
 brickbatted 1
 basset 1
@@ -8175,7 +8175,7 @@ ballonet
 beardie
 bashers 1
 brontophobia
-bash
+bash 1
 banishes 1
 buffalos 1
 byeman
@@ -8790,7 +8790,7 @@ bekissing 1
 basoche
 bual
 brewer
-buoying 1
+buoying 2
 bindweed
 backlogging 1
 barocco
@@ -8860,7 +8860,7 @@ betoya
 blunthead 1
 bractlets 2
 bikinied
-bombycids
+bombycids 1
 boxtops 1
 bedchamber 1
 bleating 1
@@ -10456,7 +10456,7 @@ belibeled 1
 backyarder 1
 blares 2
 boongary 3
-blaring
+blaring 1
 bookwise
 brimborium
 bedeafens 1
@@ -10485,7 +10485,7 @@ blasphemousness 2
 bismarckian 1
 buttonhole
 bielectrolysis
-blunderingly 1
+blunderingly 2
 bemaster
 brelaw 1
 brutalising
@@ -11096,7 +11096,7 @@ builder
 billeter
 bedwarfs
 broil 1
-baobabs 2
+baobabs 3
 blockmaker 1
 bimmeler 1
 blockpate
@@ -18272,7 +18272,7 @@ bagworm 1
 bronzier
 butternuts 1
 bunuelo 1
-bde 1
+bde 2
 berryman
 basque
 brickmason 4
@@ -18364,7 +18364,7 @@ buxom 1
 bacopa
 bonteboks 1
 brookiest 1
-baaskaaps 1
+baaskaaps 2
 bebaste
 bandlessly 1
 bland
