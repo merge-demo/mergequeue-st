@@ -877,7 +877,7 @@ fantigue 2
 freighters 1
 fibry
 foreperiod 2
-farawayness 1
+farawayness 2
 firmland
 fanums
 fenberry 1
@@ -2456,7 +2456,7 @@ falus 1
 footbridges 2
 fermentescible
 filiform 1
-fielding
+fielding 1
 falla 3
 fornax 1
 ferruginated 2
@@ -4280,7 +4280,7 @@ fleers
 fiancee 1
 follicule
 fibster
-fenland 1
+fenland 2
 fungology 2
 feudaries 1
 firmarii 2
@@ -5838,7 +5838,7 @@ footback 1
 forgrown 1
 filariid
 filipinization 1
-floatage 1
+floatage 2
 fayal
 foreparent 3
 fuciphagous 1
@@ -10112,7 +10112,7 @@ foamiest
 factitiousness 2
 footnotes
 fetalism 3
-fuscescent
+fuscescent 1
 flammability
 fellowed
 friskin 1
@@ -10665,7 +10665,7 @@ frugiferous 1
 flangers 1
 fragmentising
 fewmand
-fatcake 2
+fatcake 3
 fictitious 4
 femininity 1
 freezingly
