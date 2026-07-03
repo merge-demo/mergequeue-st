@@ -1802,7 +1802,7 @@ freeboard
 fores 1
 ferninst 2
 forbesite
-folkmots 2
+folkmots 3
 flak 1
 forkmen 1
 flaithship 1
@@ -2350,7 +2350,7 @@ fatal 3
 fairyship 1
 fronton 2
 fetations 2
-frauder 1
+frauder 2
 filmable
 flanneled
 fencelike 1
