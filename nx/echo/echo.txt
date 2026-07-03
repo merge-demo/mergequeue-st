@@ -799,7 +799,7 @@ exequies 1
 expulsed 1
 ectental 1
 eloigner 1
-ecthesis
+ecthesis 1
 emmers
 empyrean
 epispadias 1
@@ -9569,7 +9569,7 @@ emulator 1
 epihippus 1
 enterohemorrhage
 esophagalgia
-esophagean
+esophagean 1
 esophago
 esophagogastroscopy 1
 esophagometer
@@ -14161,7 +14161,7 @@ episcopising
 entredeux 1
 examinations
 ecdysiast
-ethmopalatine
+ethmopalatine 1
 extubation 2
 encinctured
 eriobotrya 2
