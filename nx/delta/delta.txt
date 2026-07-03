@@ -436,7 +436,7 @@ dairous
 dais 3
 defog 1
 disinthrall 3
-disposal
+disposal 1
 drenchers
 dimyaric 1
 diathermous 1
@@ -18584,7 +18584,7 @@ ditchdigger 2
 dusky
 dessil
 dozer 1
-derivatively 1
+derivatively 2
 dapico 1
 duikers
 disproportionable
