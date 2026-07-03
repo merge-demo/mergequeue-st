@@ -1916,7 +1916,7 @@ enabled
 echinulate
 estoppal 2
 eurypterid 1
-elaphe 1
+elaphe 2
 essenical 1
 empaneled
 eupatorine
@@ -2424,7 +2424,7 @@ earmarked
 exciting 4
 encratite 2
 ebonist
-electroencephalographical
+electroencephalographical 1
 essentialize 1
 electionary 1
 evoker 3
@@ -2632,7 +2632,7 @@ expansion 2
 estadel
 eiry 1
 exulting
-entad 1
+entad 2
 exemplarity 1
 epipodite
 ethnocentrism 2
@@ -4940,7 +4940,7 @@ electrofused
 endemism 1
 enrolle 1
 eco 1
-endenization
+endenization 1
 excusator 1
 escritorial 2
 equipollentness 1
@@ -5362,7 +5362,7 @@ endotracheal 2
 empresario 1
 exuviated
 exinanite
-engirdles 2
+engirdles 3
 ed 1
 empathetic 2
 eightsman 2
@@ -6387,7 +6387,7 @@ exceptions
 ensilver 1
 ensisternum 2
 esquiring 2
-earthling 3
+earthling 4
 enterprisingness 1
 eyedrop 1
 euthanasia
@@ -7620,7 +7620,7 @@ envying 2
 espece 1
 epicuticle
 encircling
-extroversion
+extroversion 1
 epicuticular
 enoughs
 eightvos 1
@@ -9135,7 +9135,7 @@ endotheca 1
 entailer
 epizoarian
 equiponderancy 2
-ermiline 2
+ermiline 3
 epidemy
 excarnation 1
 ermined
@@ -9226,7 +9226,7 @@ educationalist 1
 extrapleural 1
 extrapolative 1
 element 2
-embryoid 1
+embryoid 2
 eyestrain 1
 erotogenesis
 effranchise 2
@@ -9629,7 +9629,7 @@ enclosing
 emissaries
 epicycles 3
 espy 1
-espial 1
+espial 2
 enterocoel 3
 electrocoagulation
 extradites 2
@@ -13488,7 +13488,7 @@ expropriator
 eringo 1
 enteroid
 epenthetic
-exuberantly 1
+exuberantly 2
 electrolyse
 evelyn
 ensuingly 3
