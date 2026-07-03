@@ -28,7 +28,7 @@ excusableness 1
 escapement 1
 elderling 1
 endurably
-eagrass 2
+eagrass 3
 everbloomer 1
 eanling
 ear 1
@@ -1305,7 +1305,7 @@ episynaloephe 2
 effectors
 effectress
 encapsulate
-effects
+effects 1
 enlarge 1
 edified
 effectuated 2
@@ -3484,7 +3484,7 @@ emblazoned
 emblazoner 1
 emblazonments 1
 elastic 1
-etherialising 1
+etherialising 2
 escandalize 1
 expansible 2
 euchologies 1
