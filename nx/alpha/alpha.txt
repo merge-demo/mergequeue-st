@@ -6241,7 +6241,7 @@ antecedency
 agon
 agonal
 athetize
-awardable
+awardable 1
 aurorae
 azygoses
 ascendency 1
@@ -15324,7 +15324,7 @@ antigrowth
 affectible 2
 anatomizes 1
 aminosis
-antihalation 1
+antihalation 2
 alcantarines
 aglycone
 absoluteness
