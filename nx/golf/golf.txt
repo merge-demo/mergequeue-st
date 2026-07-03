@@ -4711,7 +4711,7 @@ glene 1
 gnathites
 gaullist 1
 gigelira
-gotta
+gotta 1
 gomeril
 galleta 1
 genarch
@@ -7545,7 +7545,7 @@ gangs 1
 glabellous 2
 gryllus 3
 gematriot 1
-gubernaculum 1
+gubernaculum 2
 guslee 1
 grigri 3
 germanical 1
@@ -8663,7 +8663,7 @@ gulfed 1
 gingerleaf
 grapline
 guideposts 1
-goldfielder
+goldfielder 1
 gaslight 3
 gasteralgia 2
 greened 4
@@ -10836,7 +10836,7 @@ goatland 1
 growing 1
 grammatic
 greengrocery 1
-greenbackism 2
+greenbackism 3
 grayhead
 generality 2
 gyrofrequency 1
