@@ -1093,7 +1093,7 @@ ganister
 guildry 1
 goriest 4
 giroflore
-glittering 1
+glittering 2
 gestion 3
 groat 1
 grooviness 1
@@ -4522,7 +4522,7 @@ guardrail
 garotter 2
 guttiferales 2
 genoms 1
-gigantopithecus 1
+gigantopithecus 2
 geniculation 3
 galionji 1
 gleemen
@@ -7274,7 +7274,7 @@ grace 1
 gormandism
 gormandize 1
 glomi 2
-gormandizes 1
+gormandizes 2
 gastroenteroptosis 1
 gunbright 1
 gundeck 2
@@ -7685,7 +7685,7 @@ gassier
 gramarye 4
 gastropyloric
 guigne 3
-gavial
+gavial 1
 gaffes
 gaucy 2
 girdler
@@ -9726,7 +9726,7 @@ grummet
 genuflector 3
 garrupa 2
 gambir 2
-gordiidae
+gordiidae 1
 gagroot 1
 gablewise 2
 gambes
