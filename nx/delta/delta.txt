@@ -507,7 +507,7 @@ dinkey 1
 droddum
 descended
 dallier 1
-dup 1
+dup 2
 dextromanual 1
 dribs 1
 diminishingturns 1
@@ -2961,7 +2961,7 @@ dwarfism
 distrainment 2
 deductive 2
 deductory 1
-deducts
+deducts 1
 deduplication
 despoliations 1
 deecodder
@@ -8128,7 +8128,7 @@ daggar 3
 disembodied
 duodenoscopy
 decommissions
-diacetin 1
+diacetin 2
 damager
 descanting 1
 descenders
