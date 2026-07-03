@@ -4296,7 +4296,7 @@ battledore
 bacterious 1
 bebreech
 bigeminy 2
-backcourtman 1
+backcourtman 2
 bebrother 1
 blouselike 1
 bebrush 1
@@ -8177,7 +8177,7 @@ bashers 1
 brontophobia
 bash
 banishes 1
-buffalos
+buffalos 1
 byeman
 ballote 1
 briskish 2
