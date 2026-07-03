@@ -1296,7 +1296,7 @@ fyttes 2
 famose 1
 flyable 1
 factionally
-frantically
+frantically 1
 fumariaceous
 fluxible 1
 fatherly 2
@@ -2334,7 +2334,7 @@ fecula 2
 fenzelia
 firestopping
 foreimagine 3
-fconvert
+fconvert 1
 feoffer 1
 fiberous 1
 feoffs 1
@@ -3612,7 +3612,7 @@ fableland
 fundal
 fogus
 fanwort 1
-figurize 3
+figurize 4
 filibusterers
 fourble
 fomento 2
@@ -5096,7 +5096,7 @@ foursquarely
 forelay 2
 flinches
 forewent
-flashed
+flashed 1
 faldistory
 fidejussion 1
 fecundated
@@ -8252,7 +8252,7 @@ funicles
 fauvists 1
 fruticulose 2
 florence 2
-fundulinae 2
+fundulinae 3
 fringes
 fairyologist 1
 furlanas
@@ -8734,7 +8734,7 @@ fissility
 frankhearted
 favoress 1
 flattens 2
-feteless 1
+feteless 2
 fame 1
 faciendum
 forgive 1
@@ -9392,7 +9392,7 @@ fatuitousness 1
 frankalmoign 1
 filibustrous
 fellowly 2
-futurize 2
+futurize 3
 fluoresces
 frankenstein 2
 franker 1
@@ -10469,7 +10469,7 @@ frontomental 1
 fidibus 1
 folks 2
 forespecified 1
-flodge
+flodge 1
 filmize
 forfex 1
 finnesko 2
@@ -11153,7 +11153,7 @@ footmarks 1
 furuncular 2
 flaggery 1
 formylated 2
-forumize
+forumize 1
 foreallot 1
 fanega
 fatbirds
