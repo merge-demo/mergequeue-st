@@ -2061,7 +2061,7 @@ bankalachi 2
 bidactyl 1
 bethought 2
 banky
-banknote
+banknote 1
 bristly 1
 biophysicist 1
 banknotes
@@ -5035,7 +5035,7 @@ branchiform
 breakwaters
 beetles
 bubal 1
-baching 1
+baching 2
 bhunder
 babism
 beetrave
@@ -10002,7 +10002,7 @@ bivascular 1
 bismuthyl
 binodous
 brahmic 1
-barrenness
+barrenness 1
 bivector 4
 biventer
 backseat
@@ -14496,7 +14496,7 @@ bicyclo 1
 brakeload
 bemotto 1
 brakemaker 1
-brakeman
+brakeman 1
 builtin 1
 baby 2
 brakeroot 1
