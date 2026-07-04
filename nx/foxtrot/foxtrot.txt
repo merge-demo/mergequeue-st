@@ -721,7 +721,7 @@ flittiness
 falcation 2
 featherweed
 fluorination
-fenrir
+fenrir 1
 forepart
 frankalmoigne 1
 foulmart 5
@@ -1444,7 +1444,7 @@ fasciculite 1
 flittern 3
 flix
 flavorings
-fruiter 1
+fruiter 2
 favourable 1
 friedman
 fundholder
@@ -1634,7 +1634,7 @@ faddisms 1
 flamboyantly 1
 furbelowed
 fibrospongiae 2
-filmcards
+filmcards 1
 focally 1
 fustiest
 fice 2
@@ -9046,7 +9046,7 @@ faustian
 fourteener
 froren 2
 flatirons
-furiously 2
+furiously 3
 forra 2
 firethorn
 fled 1
@@ -10370,7 +10370,7 @@ floodlighted
 fluoridized 1
 faceman
 fortiori
-flexible
+flexible 1
 frondless 2
 federalese
 fantasized 1
@@ -10802,7 +10802,7 @@ fruticous
 firstness 1
 femme 1
 footglove
-fatalism 2
+fatalism 3
 fashious
 fascisticize
 finials
