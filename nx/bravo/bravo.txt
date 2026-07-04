@@ -654,7 +654,7 @@ barfing
 bellwethers
 butchering
 boozed 2
-beermaking
+beermaking 1
 bullnecks
 biramous
 bacterioscopy 1
@@ -3733,7 +3733,7 @@ beild 2
 battier
 brightest 1
 baddest
-batting 1
+batting 2
 battings
 battledores
 bywork
@@ -5395,7 +5395,7 @@ beguess 1
 beguilement 2
 biunial
 beguilements 1
-biferous
+biferous 1
 banstickle 1
 busheled
 birds
@@ -8137,7 +8137,7 @@ beltmaker
 botonn 2
 besieging
 bidiagonal 1
-binucleate
+binucleate 1
 barble 2
 biding 1
 bidirectional 1

@@ -3054,7 +3054,7 @@ aphasias
 actinocrinite
 actinodielectric
 actinodromous 3
-actinoelectrically 1
+actinoelectrically 2
 antigenic 2
 aerogeography
 axemaster
@@ -3418,7 +3418,7 @@ antiphlogistic
 asternal
 adamsia 1
 adiathermanous
-absinthismic
+absinthismic 1
 adamsites 2
 appeasableness
 adapt
@@ -9775,7 +9775,7 @@ alethiological 1
 aridest 1
 amoving
 amoebula
-amah
+amah 1
 amahuaca
 antigen 1
 amanori 1
