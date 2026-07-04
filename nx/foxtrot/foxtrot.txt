@@ -413,7 +413,7 @@ festae 1
 folie 1
 flechettes 2
 fibroligamentous 2
-fauchards 3
+fauchards 4
 fur 1
 frockmaker 2
 fairship 3
@@ -5657,7 +5657,7 @@ fortis
 frumpiest 1
 fianchetto 1
 fie 1
-fillers
+fillers 1
 fishable
 furriners 2
 fud 2
@@ -7639,7 +7639,7 @@ fimbrillae
 feminised 2
 fester 2
 fabular
-facsimilist 2
+facsimilist 3
 funfest 2
 foolhardy
 furcate 2
