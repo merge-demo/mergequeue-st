@@ -581,7 +581,7 @@ echoism 1
 enhydros 1
 echometer 1
 echopractic 1
-examinate
+examinate 1
 epidictic 2
 elitisms
 ebonise
@@ -4334,7 +4334,7 @@ esoenteritis 1
 exotically 4
 embrasure
 enantiomorph 2
-encratic 2
+encratic 3
 eluder
 equinovarus 1
 electrolyzer
@@ -5027,7 +5027,7 @@ easeled
 egoistical
 endoceratidae
 extraneously 1
-eccentrically
+eccentrically 1
 enslavers 1
 exordium
 endochorion 1
@@ -5471,7 +5471,7 @@ enetophobia
 enfaces 1
 eradicates 1
 earthshattering
-elizabethans
+elizabethans 1
 elatedly
 elucubrate
 experimentalism 1
@@ -6456,7 +6456,7 @@ equators 1
 enswathement 2
 elementariness 1
 embowered 3
-evidently
+evidently 1
 ephelis
 envisaging 2
 erythrochroism
@@ -9904,7 +9904,7 @@ exoculated 1
 effemination 1
 epidermatic
 expiatoriness
-economizer
+economizer 1
 etaballi 1
 epipterygoid
 exprimable
@@ -13912,7 +13912,7 @@ expo 1
 etamine 2
 exosmosis 1
 emollient 1
-extradited 2
+extradited 3
 ecchymoma 1
 extradosed 2
 entireties 2
