@@ -7310,7 +7310,7 @@ chequering 1
 cephalina 2
 cephaline
 cephalins
-cephalism
+cephalism 1
 caprine 1
 cephalitis
 cephalization 1
@@ -24732,7 +24732,7 @@ croppers 1
 coppra
 chamidae
 closenesses 1
-copra 1
+copra 2
 copraemia
 cencerros
 crustaceous 1
