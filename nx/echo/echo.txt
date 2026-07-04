@@ -1141,7 +1141,7 @@ emphasizes 1
 edoni 1
 excisemen 2
 entrochite 2
-edplot
+edplot 1
 edrioasteroidea
 epipany 1
 electrotyped 1
@@ -1528,7 +1528,7 @@ embow
 encarnadine 3
 engloom
 emarginately 1
-escarped
+escarped 1
 epistolographer 3
 easies 3
 exhale 1
@@ -4473,7 +4473,7 @@ endoerythrocytic 1
 entothorax 3
 encephalomyelitic
 epochally
-extramorainal 3
+extramorainal 4
 easement 1
 epirrheme
 encephalomyelitis 3
@@ -6355,7 +6355,7 @@ endovaccination 1
 electrotyper 1
 ephebe
 expenseful
-earthward
+earthward 1
 enantiomeride
 electrooptic
 emulsor
