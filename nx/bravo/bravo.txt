@@ -3710,7 +3710,7 @@ bally
 belage 1
 belfather 2
 batteaux
-bakatan 3
+bakatan 4
 battement
 balladising 1
 batteners 1
@@ -10889,7 +10889,7 @@ beadledom 1
 biggity
 bibbling 1
 blindball 4
-bindable
+bindable 1
 bangers
 boxball
 barracker
@@ -17045,7 +17045,7 @@ boldfaces
 biprong 1
 burt 1
 bailed 3
-bauson
+bauson 1
 bulkhead
 balmier
 bulkheading 1
