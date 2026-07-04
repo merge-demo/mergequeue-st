@@ -12,7 +12,7 @@ fiscalization
 funariaceae
 frail 2
 falconine
-flagellators 1
+flagellators 2
 forcing
 fylker 1
 fablemaker 1
@@ -1048,7 +1048,7 @@ foreswear 1
 feriae 1
 farreachingly
 flurr 2
-fingerprint 1
+fingerprint 2
 fernleaf
 federates 1
 farrel 1
@@ -10967,7 +10967,7 @@ forgetness 1
 furfuran 3
 fusoid 3
 forewit 1
-foreseing
+foreseing 1
 fooled 2
 fishplate
 fulzie
