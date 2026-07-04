@@ -730,7 +730,7 @@ bogyland 2
 behaves
 browbeaten
 blossomhead
-bloodstains
+bloodstains 1
 brakeless 1
 brokeress
 binful
@@ -4432,7 +4432,7 @@ bypassing
 becloaks
 blackfriars 4
 batule 1
-becloak 3
+becloak 4
 bereavement
 boojum 4
 bethorning
@@ -5999,7 +5999,7 @@ bitterbark 2
 bemean
 biphenyls 2
 bementite
-bemete
+bemete 1
 bimillennia
 busybodies 1
 backhauling
@@ -6756,7 +6756,7 @@ bushiest
 berry 1
 buchnerite
 binturong 1
-brotherlike 1
+brotherlike 2
 banshee 1
 bitte
 bedscrew 1
@@ -7825,7 +7825,7 @@ belgravian 1
 biaxiality
 birdseyes 1
 brooklyn
-bazaars
+bazaars 1
 bicephalous
 bogman 1
 biface 2
@@ -7847,7 +7847,7 @@ bearable 2
 bibelots
 biberon
 bipinnatisected
-bibi
+bibi 1
 bibionid 1
 brackebuschite 2
 bewreath
@@ -10588,7 +10588,7 @@ blats 1
 bygones 1
 blatta
 blackbreast 2
-biostrome 1
+biostrome 2
 bromogelatin 2
 boltheader
 bachelorship 2
@@ -16065,7 +16065,7 @@ brahmanaspati 1
 border
 bishoprics 2
 bronk
-belard
+belard 1
 boxwallah
 burgullian
 bellows 1
