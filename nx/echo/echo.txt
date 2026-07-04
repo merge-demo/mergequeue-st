@@ -4486,7 +4486,7 @@ emancipate 1
 enactive 1
 emerita 1
 ephorate 2
-encephalopathia 2
+encephalopathia 3
 ethynylation
 entoptoscope 1
 emigrationist 1
@@ -9314,7 +9314,7 @@ endosiphon 1
 encrusted
 erugos
 escapage 2
-eruptible 1
+eruptible 2
 eruption
 ellen
 eruptive
@@ -14202,7 +14202,7 @@ enlists 1
 effecters 1
 enjoyments
 enow
-erotetic
+erotetic 1
 equiradiate
 exerciser 1
 exust 1
