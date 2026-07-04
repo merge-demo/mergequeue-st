@@ -27173,7 +27173,7 @@ countersunken 1
 calfdozer
 cava
 chrotta
-countersway
+countersway 1
 countersworn
 countertack 1
 countertally 1
