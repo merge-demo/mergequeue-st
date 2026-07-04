@@ -490,7 +490,7 @@ fiumara 1
 forcleave
 fakery 1
 flaxweed 2
-funbre 2
+funbre 3
 frisch 1
 fertilizing 3
 frenne 2
@@ -1732,7 +1732,7 @@ foveal 1
 feeded 1
 forecastlemen 3
 foresaddle
-fluphenazine
+fluphenazine 1
 fossildom 1
 fibropsammoma 1
 fantasmagoric
@@ -5061,7 +5061,7 @@ fetialis 1
 fezes
 freir 2
 foreseers 2
-frsiket 1
+frsiket 2
 fowler
 fitches
 fluorescence 3
@@ -6020,7 +6020,7 @@ floral 4
 fennecs 1
 floralize 1
 floras 1
-furnaced
+furnaced 1
 focusless 2
 freakish
 frottage
@@ -8279,7 +8279,7 @@ falsifications
 fossulate 3
 foresweat 2
 fesse 2
-forgeable 2
+forgeable 3
 forwaked 2
 flashtubes 2
 fillingness
@@ -9916,7 +9916,7 @@ frouncing
 feminize 1
 funge 3
 feria 4
-fundatorial
+fundatorial 1
 flavanthrone 2
 feedable 1
 fogeys 2
@@ -10331,7 +10331,7 @@ furnishness 3
 folkmot
 faultless 5
 fromenty
-fusilladed
+fusilladed 1
 fromenties 1
 fogyishness 1
 fluorated
