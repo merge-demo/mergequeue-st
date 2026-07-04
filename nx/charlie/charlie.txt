@@ -1227,7 +1227,7 @@ clape
 cacosplanchnia
 commissarial
 calef
-calefacient 1
+calefacient 2
 craunched
 christianogentilism
 caudad
@@ -8357,7 +8357,7 @@ cogons 2
 corkir
 chamaelirium
 chamaepericlymenum
-chamaephyte
+chamaephyte 1
 chamaesiphonales
 chamar
 chambered
@@ -16856,7 +16856,7 @@ conred 2
 caravanned
 cahokia
 clubhauled 1
-clubhauls 1
+clubhauls 2
 clubhouses 1
 clubionidae
 clubland
@@ -18805,7 +18805,7 @@ concentrical
 coleophoridae
 coleopter 1
 coleoptera 1
-chalcedonic
+chalcedonic 1
 coleopterist 1
 coleopterology 1
 catteries
@@ -28681,7 +28681,7 @@ crenel 1
 chroococcus
 constantine 1
 coloniser
-contaminates 1
+contaminates 2
 constitutes
 corone
 coplanar 1
