@@ -19888,7 +19888,7 @@ asymbiotic 1
 aeolis
 armlike
 armlock
-autoconvection 1
+autoconvection 2
 armoracia
 albertite
 akuammin 1
@@ -19999,7 +19999,7 @@ aroides
 aroids 1
 acidulating
 arboreous
-asparaginic 1
+asparaginic 2
 agar
 antproof 1
 aroynting 1
