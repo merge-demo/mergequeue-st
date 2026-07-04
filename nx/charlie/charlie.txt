@@ -9111,7 +9111,7 @@ cryptograms
 cindered
 chartist
 chartless 1
-caricatured
+caricatured 1
 chartography
 chartographic
 crystalline
@@ -14309,7 +14309,7 @@ circumpose 1
 condite
 circumquaque
 circumradius 1
-circumradiuses
+circumradiuses 1
 charitable
 claver
 conferring 1
@@ -20621,7 +20621,7 @@ conjugal
 cascol
 competitors 1
 challengee
-competitrix 1
+competitrix 2
 cofounded
 curvilinearly
 compilations
@@ -20882,7 +20882,7 @@ compot 1
 compotationship 1
 comedies
 cyclar
-compotes 1
+compotes 2
 compotiers
 catarrhally
 compotor 1
@@ -23920,7 +23920,7 @@ contumacious
 cantel
 ciguatera
 caducibranch
-coedit 1
+coedit 2
 contumely
 consisted
 chadlock
@@ -30516,7 +30516,7 @@ cavin 1
 cubbyhouse
 cubbing
 codein
-cubbishness 1
+cubbishness 2
 choiring
 cameoed
 cubelet 1
