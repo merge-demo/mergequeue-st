@@ -717,7 +717,7 @@ aspern
 absorbency
 adversely
 abortive
-afebrile
+afebrile 1
 abortiveness
 allegorising
 american
@@ -14876,7 +14876,7 @@ ameban 1
 azoology
 atmas
 astrognosy 1
-autospray
+autospray 1
 apenteric 2
 antimachinery
 anticyclic
@@ -22136,7 +22136,7 @@ adorno
 antihierarchically
 anerythroplastic
 asterozoa
-annalist
+annalist 1
 ampongue 2
 ancestries
 asthamatic
@@ -23213,7 +23213,7 @@ attestator
 antiseption 1
 attested 2
 apyrexy 2
-attester
+attester 1
 antwerp 1
 akemboll
 abyssinia
@@ -24885,7 +24885,7 @@ adenographer
 alighting
 archrebel
 aseptic
-avowedly
+avowedly 1
 avower
 amphithect 1
 astronavigation
