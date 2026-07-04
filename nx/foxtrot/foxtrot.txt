@@ -1839,7 +1839,7 @@ firefly
 farcicality 2
 funambulate
 foreign
-febricant 1
+febricant 2
 frilly 1
 frictions
 fore 1
@@ -6807,7 +6807,7 @@ froebelian 2
 flyers 1
 forseeable
 fluidics
-ferme 1
+ferme 2
 frontal
 footbeat
 faithfuls
@@ -8817,7 +8817,7 @@ fashionative 1
 forhooie
 forwearied 3
 formalizer
-fitchy
+fitchy 1
 fragmentate 1
 forgemen 2
 faradization 1
@@ -10089,7 +10089,7 @@ feasibleness
 ferriferous 1
 foolheadedness
 falseness
-fireblende 1
+fireblende 2
 flushness
 forecasted 2
 foeish 1
