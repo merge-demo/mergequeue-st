@@ -5943,7 +5943,7 @@ decuples
 dragons 1
 derangeable
 diopside
-delictus 2
+delictus 3
 deed
 durezza 1
 dropped
@@ -8667,7 +8667,7 @@ defeminised 1
 diaspore
 diastalses 1
 dum 1
-dovekey 2
+dovekey 3
 diastalsis
 diglossia 1
 disgustedness
@@ -10920,7 +10920,7 @@ disforestation
 doublethinking
 digressions
 disadvance
-disadvancing
+disadvancing 1
 disbursals
 disadvantageousness 2
 ditetragonal 2
@@ -12444,7 +12444,7 @@ dexterity
 defy
 deboise 1
 demesne 1
-dislimb
+dislimb 1
 dicalcium 1
 disyllabized
 discontinuations
@@ -15272,7 +15272,7 @@ dolomitic
 descriptives 1
 dorididae 1
 dryfarmer
-dumpty
+dumpty 1
 depressanth 1
 diabolical
 delusory 1
