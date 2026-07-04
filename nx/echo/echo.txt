@@ -1169,7 +1169,7 @@ enscroll 2
 ensweep 1
 educational
 estipulate
-exultancy
+exultancy 1
 ekoi 1
 estimation 1
 eroded 3
@@ -3841,7 +3841,7 @@ emeses 1
 effigiate 4
 epalpate 1
 ethnobotanical
-emesis 1
+emesis 2
 entrapment 1
 expectedness
 easiness
@@ -6840,7 +6840,7 @@ erythrodextrin
 enfeoffed
 estruses 1
 extremism 1
-ergotoxin 1
+ergotoxin 2
 epaulets 1
 entomosporium 1
 ethically
