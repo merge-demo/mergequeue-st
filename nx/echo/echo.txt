@@ -439,7 +439,7 @@ ergo 3
 electroballistic 3
 engager
 escapements 1
-erf 2
+erf 3
 eunuchal
 effulgence
 eveners
@@ -1605,7 +1605,7 @@ epiblastic
 egressed
 egresses
 exequial
-extraphysiological
+extraphysiological 1
 eclegma 2
 expounded 2
 escape
@@ -4559,7 +4559,7 @@ epilimnion 2
 echevin
 exeunt 2
 excellent 2
-exarchs 2
+exarchs 3
 egotists 1
 enchyma
 estheticism
@@ -6657,7 +6657,7 @@ exploitations 1
 elongations
 enterprize
 expertising 1
-entosclerite 3
+entosclerite 4
 eulogiser 1
 equitation 1
 ecrevisse
@@ -9897,7 +9897,7 @@ ephedrin 2
 executes 1
 eduskunta 1
 ectrodactylous
-electromagnetics 1
+electromagnetics 2
 exude 1
 enplane 1
 exoculated 1
