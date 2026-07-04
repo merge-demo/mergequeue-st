@@ -338,7 +338,7 @@ factions 1
 forfeiture
 flyingly 1
 fellers 2
-flattering
+flattering 1
 festival
 fiercening
 featherway
@@ -5541,7 +5541,7 @@ furbelowing 1
 fankle
 fingerbreadth
 feticides 1
-forepaw 2
+forepaw 3
 feynesses 1
 fossettes 1
 fleurettee 1
@@ -6074,7 +6074,7 @@ fetterbush 1
 faba 1
 funicule 1
 flavoring 2
-filmgoing
+filmgoing 1
 forkedly 1
 feringhee 1
 ferrivorous
@@ -6113,7 +6113,7 @@ folksinging
 fundmongering
 freebies 1
 friation 3
-firestone 1
+firestone 2
 fitchering 2
 flotson
 fustanella 1
@@ -6974,7 +6974,7 @@ frocks 2
 fendy 2
 firecracker
 frizzler
-fedayeen 1
+fedayeen 2
 flexographically
 faintling 1
 faineance
@@ -7551,7 +7551,7 @@ feazes 3
 foredesignment
 foremostly 3
 forecastle 1
-fundament
+fundament 1
 forecastlehead 1
 five
 filemaking 1
@@ -8941,7 +8941,7 @@ foulest
 fjeld 1
 fiques 4
 flitty 2
-ferritins 1
+ferritins 2
 foumart
 fodgel
 falciparum 1
@@ -10827,7 +10827,7 @@ fructificative
 floundered 2
 fuchsine 1
 flustra 2
-facet
+facet 1
 foveation 1
 foredestined 2
 fleeten
