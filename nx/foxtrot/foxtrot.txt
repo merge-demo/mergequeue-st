@@ -2092,7 +2092,7 @@ filletlike
 fear 4
 firmers
 forerehearsed
-fell 1
+fell 2
 fissipalmate
 forebodies
 felsobanyite 2
@@ -2396,7 +2396,7 @@ folksiness 4
 foredating 3
 foreordinating 1
 freakpot 1
-fantods
+fantods 1
 fervidor 1
 felicify 2
 filtrable 2
@@ -4417,7 +4417,7 @@ fluigramme
 frogwort 1
 frenghi 1
 formel 1
-fraiser 3
+fraiser 4
 falsary 1
 flawier
 fovent
@@ -7909,7 +7909,7 @@ frightenable 1
 frottole 3
 fistful 1
 fause
-firmaments 4
+firmaments 5
 flourishingly 3
 factualist 1
 florent
