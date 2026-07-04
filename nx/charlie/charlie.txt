@@ -1708,7 +1708,7 @@ ceraunia
 calorifier
 calorimetry 1
 calorimetrically
-calorimotor
+calorimotor 1
 calorist
 calorizing 1
 cawing
@@ -4071,7 +4071,7 @@ ceroid
 chromocentral 1
 creaminess
 cardiac 1
-cardiacal
+cardiacal 1
 cestui
 cleronomy
 ciceronism 1
@@ -11649,7 +11649,7 @@ camphylene 1
 cyanamids 1
 cholesteatoma 1
 concorrezanes 1
-cholesteatomatous 1
+cholesteatomatous 2
 cholesteremia
 cleidohyoid
 charoset
@@ -28397,7 +28397,7 @@ crazing 1
 crazingmill
 cuisses 1
 crazyweed
-crc
+crc 1
 crcao 1
 chromosome
 crche
