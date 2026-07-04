@@ -5105,7 +5105,7 @@ cesspipe 1
 coestate
 chemoprophylaxis
 cascable
-cascade
+cascade 1
 coupes
 crotaline
 cavae
@@ -5703,7 +5703,7 @@ congregationist
 catastasis
 creamware
 catoptromancy
-catastate
+catastate 1
 catasterism
 catastrophal
 cryptologist
@@ -11686,7 +11686,7 @@ cholocyanine 1
 cinematographic
 crossroading
 chololithic 2
-cholones
+cholones 1
 cholophaein 1
 coven 1
 cholophein
@@ -13724,7 +13724,7 @@ cincinnal
 cincinni
 cholesterate 1
 cinclides
-compassionless
+compassionless 1
 camphire
 composture
 cinclis
@@ -18741,7 +18741,7 @@ cucurbital
 colate
 canaliculation
 comprehensibility
-conquistador 1
+conquistador 2
 colatitude
 colazione
 colberter
@@ -19664,7 +19664,7 @@ cohesion 1
 chlordan
 comanches
 comandantes
-comandanti 1
+comandanti 2
 cutis
 catocala
 cinematics
@@ -23070,7 +23070,7 @@ callused
 counteradvantage
 consopite
 crown
-chowderhead
+chowderhead 1
 curtest
 consortable
 consorter
@@ -27268,7 +27268,7 @@ chorioiditis
 cavillingly 3
 coenoblast 1
 countries
-crankism 1
+crankism 2
 closelipped 1
 caravanner 1
 counterpoles 1
@@ -28797,7 +28797,7 @@ crescentoid
 crescents 1
 crescively 1
 clarinettist 1
-confederatio
+confederatio 1
 cantino 1
 cresegol
 cargo
@@ -28848,7 +28848,7 @@ creach
 cretacic
 coastwaiter
 cubdom
-cretan 1
+cretan 2
 cymotrichy
 cretefaction
 callisection 1
