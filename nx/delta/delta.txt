@@ -670,7 +670,7 @@ damped
 desquamated
 dionymal
 dukely
-deafen
+deafen 1
 dudgeons
 dihydroxy
 devoting 1
@@ -11514,7 +11514,7 @@ defassa 1
 dynamometry 1
 discommoned 3
 dextrinase 2
-dodrantal 1
+dodrantal 2
 detective 1
 denationalised
 downland
@@ -12402,7 +12402,7 @@ discontentful 2
 divinizing 1
 debilitative
 dishonors
-desulfurate 2
+desulfurate 3
 dishorn
 discontinue
 douching
@@ -12487,7 +12487,7 @@ deedful 1
 disinclining 2
 dolichotmema 1
 doorkeep 1
-dilative
+dilative 1
 dimmedness 2
 despotic
 dicotyledonary 2
@@ -12763,7 +12763,7 @@ disencourage
 dotardly 2
 drawfiling
 donative
-disloyalist
+disloyalist 1
 disloyally 4
 disloyalty 1
 decrepity 2
@@ -15262,7 +15262,7 @@ diluviums 2
 dolmas
 dolmen
 desubstantiate 1
-dolomedes 1
+dolomedes 2
 discovery
 dolomite 2
 dissertator 1
@@ -18636,7 +18636,7 @@ deceivability
 dhaw
 dutchmen 3
 debagging 2
-dedicatorial 1
+dedicatorial 2
 degreeless 1
 duty
 dutiability 1
