@@ -2957,7 +2957,7 @@ decemfid 2
 decident
 deductio
 deductions 2
-dwarfism
+dwarfism 1
 distrainment 2
 deductive 2
 deductory 1
@@ -16748,7 +16748,7 @@ disadvised
 dewily 2
 drammocks 1
 descriptively
-dicey 1
+dicey 2
 dermatopsy 2
 desalt
 derestrict 1
