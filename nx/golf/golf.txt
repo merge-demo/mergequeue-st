@@ -70,7 +70,7 @@ greffe 2
 gorcrow 1
 glucic
 gandum
-gradationately
+gradationately 1
 gravelling 1
 graftproof 1
 galliums
@@ -868,7 +868,7 @@ gastromyxorrhea 2
 gire
 gonagia
 gonadotropin 2
-gameless 1
+gameless 2
 gyroscope
 gammy 1
 gynecomazia 1
@@ -3275,7 +3275,7 @@ grassmen 2
 graveled
 gunrunner 1
 genapped 1
-grr 1
+grr 2
 gulps
 geodesists 2
 gobangs
@@ -6663,7 +6663,7 @@ golach 1
 gimlets 1
 gayway 4
 garce 2
-guarnieri
+guarnieri 1
 gumboils 3
 gastropancreatic 1
 gymnoglossa
