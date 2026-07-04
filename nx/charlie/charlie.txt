@@ -4493,7 +4493,7 @@ courages
 carloading 1
 chinner
 combatants
-cogways
+cogways 1
 cytocide 1
 circumference
 carlot 1
@@ -14707,7 +14707,7 @@ cite
 cenanthy 1
 citer 1
 citers
-cites 1
+cites 2
 citess
 conspirative 2
 citharas
@@ -18033,7 +18033,7 @@ concaptive
 coherers 1
 coppice
 coenacle
-capsidal
+capsidal 1
 collyriums
 curiet 2
 chelaship
