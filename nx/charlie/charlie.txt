@@ -2885,7 +2885,7 @@ canopid 1
 canopies 1
 clarigate
 corticated
-canopying
+canopying 1
 cours 1
 cyeses
 canopus
@@ -4071,7 +4071,7 @@ ceroid
 chromocentral 1
 creaminess
 cardiac 1
-cardiacal
+cardiacal 1
 cestui
 cleronomy
 ciceronism 1
@@ -11649,7 +11649,7 @@ camphylene 1
 cyanamids 1
 cholesteatoma 1
 concorrezanes 1
-cholesteatomatous 1
+cholesteatomatous 2
 cholesteremia
 cleidohyoid
 charoset
@@ -16833,7 +16833,7 @@ canaller
 careers
 cawny
 conferred 1
-curtal
+curtal 1
 conservatorio 2
 commentatorial
 clubbist
