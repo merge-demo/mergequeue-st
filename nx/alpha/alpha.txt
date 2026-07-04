@@ -4161,7 +4161,7 @@ admonitrix
 alkalinize
 archetypist 1
 appendectomies 1
-adnascent
+adnascent 1
 adnate
 absolvent 1
 antimonopoly
@@ -6775,7 +6775,7 @@ abucco
 alt 5
 aftermarket
 arpeggio
-allomerize
+allomerize 1
 agglutination
 atrioporal
 aglaia 1
@@ -18193,7 +18193,7 @@ aberuncator
 aporphin
 allocatable
 antescript
-aconitic 2
+aconitic 3
 althea
 areel
 austrians 1
@@ -21203,7 +21203,7 @@ aggrandizers
 archilla
 amazonism 1
 albatas
-amelia
+amelia 1
 afterthoughted 1
 ashery
 antichronical 2
@@ -21350,7 +21350,7 @@ antichurchian 1
 asyndetic
 androphore
 amyloses
-analectic
+analectic 1
 amphoras 1
 allogenic
 azobacter
@@ -25031,7 +25031,7 @@ autantitypy 1
 astrometer
 attentionality 2
 awkwarder 2
-awless 1
+awless 2
 awlwort 1
 aweary
 awmous
