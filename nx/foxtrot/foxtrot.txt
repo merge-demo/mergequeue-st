@@ -5261,7 +5261,7 @@ fills 1
 fstore 1
 fissiped 2
 flavoured
-fondant
+fondant 1
 flavourful 1
 flexionless
 fieldy
@@ -9918,7 +9918,7 @@ funge 3
 feria 4
 fundatorial
 flavanthrone 2
-feedable
+feedable 1
 fogeys 2
 forepointer 1
 flapdragon
