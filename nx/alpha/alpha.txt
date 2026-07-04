@@ -4576,7 +4576,7 @@ ambushed
 asserve
 adversing 1
 aphoristical 1
-antimediaeval 1
+antimediaeval 2
 ami
 amniota 2
 annotativeness 1
@@ -7309,7 +7309,7 @@ algovite
 alarmist
 anginas
 alarodian 2
-animas 2
+animas 3
 alarum
 alarumed
 antitypically
@@ -13726,7 +13726,7 @@ anomalies 1
 anomaliped
 afferent
 avatar 2
-anomalism
+anomalism 1
 anomalist
 aromatite
 anomalistic
