@@ -490,7 +490,7 @@ fiumara 1
 forcleave
 fakery 1
 flaxweed 2
-funbre 2
+funbre 3
 frisch 1
 fertilizing 3
 frenne 2
@@ -1003,7 +1003,7 @@ flannelly
 farinosel 2
 foussa 2
 fulfill
-farmeress
+farmeress 1
 fireling 1
 flerrying 2
 farmerly
@@ -1732,7 +1732,7 @@ foveal 1
 feeded 1
 forecastlemen 3
 foresaddle
-fluphenazine
+fluphenazine 1
 fossildom 1
 fibropsammoma 1
 fantasmagoric
@@ -7668,7 +7668,7 @@ foregift 1
 feyness
 foregleam
 forst 1
-feudatory 3
+feudatory 4
 factualness
 fables 2
 factualism 2
