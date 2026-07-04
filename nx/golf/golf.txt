@@ -70,7 +70,7 @@ greffe 2
 gorcrow 1
 glucic
 gandum
-gradationately
+gradationately 1
 gravelling 1
 graftproof 1
 galliums
@@ -806,7 +806,7 @@ garrotting 1
 gambang 1
 gastrular 2
 grazer 2
-glaceing 1
+glaceing 2
 gonia 2
 gambe 1
 greenlandite 1
@@ -2590,7 +2590,7 @@ glossolabial
 geiger 1
 goutte 2
 garabato
-gybe 1
+gybe 2
 galluot 1
 genesial 1
 genesitic
@@ -3275,7 +3275,7 @@ grassmen 2
 graveled
 gunrunner 1
 genapped 1
-grr 1
+grr 2
 gulps
 geodesists 2
 gobangs
@@ -7682,7 +7682,7 @@ goals 1
 gruelingly 1
 germinancy 2
 gassier
-gramarye 4
+gramarye 5
 gastropyloric
 guigne 3
 gavial 1
@@ -8918,7 +8918,7 @@ gressoria 1
 gheraoing 2
 gourdful 2
 ghostliest
-ghostfish 2
+ghostfish 3
 guardedness
 gressorial 2
 gangrening
@@ -10381,7 +10381,7 @@ groans 1
 girandola 2
 gullying 1
 gratinate 1
-gothism 2
+gothism 3
 genapper
 griskins 3
 garibaldian 1
