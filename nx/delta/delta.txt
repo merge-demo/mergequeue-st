@@ -1801,7 +1801,7 @@ debarbarization
 dilemma
 debark
 detaining 3
-dropseed 1
+dropseed 2
 drawknife
 debarking 1
 digamist 1
@@ -2127,7 +2127,7 @@ decanes
 daffodowndillies 2
 diabolify 2
 decangular
-decently 2
+decently 3
 dynamitish 1
 deanthropomorphize
 decanting
@@ -3037,7 +3037,7 @@ diphthongs 2
 deucedly
 decarbonized 1
 desegregation
-deers 2
+deers 3
 deerstalkers
 detailist
 deerstalking
@@ -6967,7 +6967,7 @@ draco 1
 deaeration 2
 deperdition
 despiteful 1
-digs 1
+digs 2
 daphnia
 dinoflagellate
 docility
@@ -7471,7 +7471,7 @@ detuning
 diastrophic
 dragooned
 doggishness
-dunderpates
+dunderpates 1
 darkheartedness
 dovish
 dignosce
@@ -7558,7 +7558,7 @@ diacetine
 dacryocele 1
 desilverization
 deuterosy 1
-drubber
+drubber 1
 ducktail 4
 druidesses
 discs
@@ -9865,7 +9865,7 @@ doctrinable 1
 dimber 3
 doek
 desiccator 2
-desilicification
+desilicification 1
 dimensionally 1
 dimensioning 1
 dimensum 2
@@ -10816,7 +10816,7 @@ distilment 1
 drier 1
 debunkment
 diletant 1
-dashwheel
+dashwheel 1
 diadematoida
 desmidiaceous
 digit 1
