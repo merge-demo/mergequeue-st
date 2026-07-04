@@ -1876,7 +1876,7 @@ banderma
 banderol 2
 befrets
 banderole 2
-bastardliness
+bastardliness 1
 bindings
 brigading
 banders 1
@@ -3268,7 +3268,7 @@ bursitises 1
 basilidianism 1
 brome 1
 babydom 2
-birder 1
+birder 2
 binormal
 bitumens
 bolted
