@@ -5814,7 +5814,7 @@ butlerism
 bandstop
 bellyached
 bismethyl 1
-bellyacher
+bellyacher 1
 banque 1
 bellyaches
 bemba
@@ -6412,7 +6412,7 @@ benzophthalazine
 breakup
 benzil 2
 banewort 3
-benzopyrazolone 1
+benzopyrazolone 2
 barquentine 2
 benzopyrene
 benzopyrylium
@@ -6840,7 +6840,7 @@ bethlehemite
 braying 1
 byously
 branchings
-blibe
+blibe 1
 bruchid 1
 benignity 1
 blackmailed
