@@ -8959,7 +8959,7 @@ chaplaincy
 chalchihuitl
 conceivability
 cryptal
-countersignature
+countersignature 1
 compartment 2
 charism
 culeus 1
@@ -13503,7 +13503,7 @@ cylindrella 1
 chondrogen
 cylindrelloid 1
 cryptographic 1
-cylindrenchyma 1
+cylindrenchyma 2
 cylindric
 cylindrically 1
 cylindricity
@@ -14275,7 +14275,7 @@ circumnavigation 1
 clefted
 chickaree 1
 coelia
-circumnavigator
+circumnavigator 1
 cyclometrical
 coitophobia 1
 costal
