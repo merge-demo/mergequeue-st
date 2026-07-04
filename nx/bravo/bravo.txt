@@ -1971,7 +1971,7 @@ bandstand
 beseechment
 broadly
 bisection 1
-bagnio
+bagnio 1
 balances 1
 bandstring
 bathymetric
@@ -6238,7 +6238,7 @@ beveling 2
 bungalow
 bennets 1
 bootlace
-bearleap 1
+bearleap 2
 bookism
 bissextus
 battalions 1
@@ -7876,7 +7876,7 @@ busked 2
 blepharosymphysis 1
 biocatalytic
 bibliographize 3
-burglarising 3
+burglarising 4
 bourignian 1
 billyo 1
 backstitched
@@ -12736,7 +12736,7 @@ bhavan
 birdliming
 busters 5
 beheld
-biometrician 2
+biometrician 3
 bunyoro 3
 bookmakers 2
 bidarka 1
@@ -15397,7 +15397,7 @@ bagatelles
 brierroot
 butterfingers
 baseballer 1
-bonnetless 1
+bonnetless 2
 brieve
 burgling
 beanier 1
