@@ -2181,7 +2181,7 @@ bonehead 1
 bricksetter
 burnishes
 bediapered
-brutism
+brutism 1
 baptising 2
 barleyhood 1
 bandsaw 1
@@ -5609,7 +5609,7 @@ battlement 1
 blepharal 1
 bewigs
 barbitone
-businessmen
+businessmen 1
 bardes
 byelaws 1
 bedeen 1
@@ -13529,7 +13529,7 @@ bijouterie
 briquette
 bouch 1
 beatae
-blacksmith
+blacksmith 1
 blesmol
 belime
 baccae
