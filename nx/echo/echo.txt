@@ -2993,7 +2993,7 @@ eliminated 1
 ectopia 1
 elymus 2
 ergotamine 1
-epitomes 1
+epitomes 2
 enallage 1
 enfield 1
 eleatic 1
@@ -3713,7 +3713,7 @@ eeten 1
 ephemerons 1
 echelette 2
 exhaustivity
-egoistry
+egoistry 1
 embrittle 1
 enfranchised 2
 escobilla 1
@@ -4184,7 +4184,7 @@ euphausiid
 emulgent 2
 emprosthotonic
 effeteness 1
-emptied 2
+emptied 3
 exhorter 1
 echolalic 1
 exocardiac 1
@@ -6640,7 +6640,7 @@ exauctorate 2
 enterotome 2
 encharged 1
 enright 2
-epicanthus 1
+epicanthus 2
 enterotoxemia 2
 enterotoxication 2
 enlight
@@ -10458,7 +10458,7 @@ eccentrate 1
 elytrtra 2
 enrol
 enoplan 1
-effluviums 2
+effluviums 3
 ericius 1
 etypically 1
 emblemed
@@ -13259,7 +13259,7 @@ enlightenedness
 ethanolamine
 explanted 2
 endothelia 1
-explanting
+explanting 1
 empurples
 exertive
 ety
