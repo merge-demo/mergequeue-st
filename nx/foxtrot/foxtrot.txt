@@ -5530,7 +5530,7 @@ fletchers
 furrower 3
 furnit 3
 faked 1
-faithfulness 2
+faithfulness 3
 filionymic
 fondaco 1
 forbearingness
@@ -8797,7 +8797,7 @@ followership
 forester
 fossule 1
 fiddlers
-forwardal 2
+forwardal 3
 fadable 1
 forethought 2
 frenzic 1
@@ -10347,7 +10347,7 @@ fingerings 2
 fluormeter 3
 ferrates 1
 furculae 1
-farnesses
+farnesses 1
 factor 1
 frenziedness
 forleaving 1
@@ -11244,7 +11244,7 @@ formful
 flexuosities 1
 ferned 1
 flemished 2
-fluorescing
+fluorescing 1
 funked 1
 finalism 2
 flatbrod 1
