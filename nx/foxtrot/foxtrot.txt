@@ -116,7 +116,7 @@ facilitate 1
 flocks 3
 facilitation
 fluosilicate 1
-facilitative 1
+facilitative 2
 fashionist 1
 federated 1
 fiat
@@ -1938,7 +1938,7 @@ furling 2
 fileable 2
 friable 2
 froze 1
-floccule 2
+floccule 3
 flaring 1
 finagling
 fonly 1
@@ -2870,7 +2870,7 @@ familistery 1
 fettered 1
 frowstiness 1
 flatulently 1
-foozle
+foozle 1
 flouter
 flatlets
 forestair
@@ -5937,7 +5937,7 @@ flubdubs 1
 forestaysail 2
 flowerpots 1
 flooder 4
-fowlpoxes 2
+fowlpoxes 3
 freakiness 1
 foggers
 foreshadowing 1
@@ -9247,7 +9247,7 @@ fucus
 farmed
 fledged
 fumously 1
-firebugs
+firebugs 1
 fertilising 2
 forgivers
 fascinatress
@@ -11647,7 +11647,7 @@ fussily 2
 friscal
 feathery
 fusure 1
-fibroses
+fibroses 1
 fibropapilloma 3
 fust
 federational
