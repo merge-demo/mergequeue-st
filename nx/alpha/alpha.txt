@@ -301,7 +301,7 @@ ailuro
 appunctuation
 asphyxiates 1
 abdominogenital
-aurata
+aurata 1
 affiant 1
 animine
 addleplot 3
@@ -4489,7 +4489,7 @@ adure
 andia
 allergia
 anticomplement
-australic 1
+australic 2
 antipuritan 2
 adust 1
 apsides 1
@@ -5722,7 +5722,7 @@ acupunctuation
 afunction
 aquafortist
 agalma 1
-ardea
+ardea 1
 apocopating
 antechurch
 ajax
@@ -17382,7 +17382,7 @@ apotactici 1
 agriculturalist 1
 aginners 2
 apotelesm
-ancients
+ancients 1
 asynaptic 1
 anthraconecrosis
 assemblee
