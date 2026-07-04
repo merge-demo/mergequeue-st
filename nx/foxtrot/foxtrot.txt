@@ -75,7 +75,7 @@ flysch
 fordeal 2
 fullfaces 2
 facundity 1
-facemark 4
+facemark 5
 flunkeyhood 1
 forme 2
 filching
@@ -1074,7 +1074,7 @@ forthcame 1
 farruca 1
 farseer
 frenchwoman
-frondescence 2
+frondescence 3
 foughten 2
 farsighted 1
 fleabites
@@ -5499,7 +5499,7 @@ floey 3
 fenderless 1
 friezy 1
 fiduciarily 2
-fasts 4
+fasts 5
 fiant 5
 friseurs 1
 fossed 1
@@ -8123,7 +8123,7 @@ furify 2
 foreswore 1
 flavouring 1
 feeble 1
-flasklet 1
+flasklet 2
 factorist
 fumacious 2
 farceur 1
@@ -10428,7 +10428,7 @@ flanger
 flustrate 1
 fertilizable
 frontignan
-fronting
+fronting 1
 fictional
 fizzle 1
 focus 1
