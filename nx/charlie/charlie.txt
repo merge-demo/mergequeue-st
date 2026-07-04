@@ -1708,7 +1708,7 @@ ceraunia
 calorifier
 calorimetry 1
 calorimetrically
-calorimotor
+calorimotor 1
 calorist
 calorizing 1
 cawing
@@ -5654,7 +5654,7 @@ cordaitean
 catapasm 1
 caducity
 comprizable 1
-cataphyll
+cataphyll 1
 correlativism 1
 chlorococcum
 cataphora 1
@@ -28397,7 +28397,7 @@ crazing 1
 crazingmill
 cuisses 1
 crazyweed
-crc
+crc 1
 crcao 1
 chromosome
 crche
