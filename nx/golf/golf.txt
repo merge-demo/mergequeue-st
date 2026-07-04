@@ -1080,7 +1080,7 @@ groundway 1
 gypsums 2
 gegenion 2
 glares
-guarding 1
+guarding 2
 graphicness 2
 galactolipin 2
 goularo 1
@@ -2071,7 +2071,7 @@ gamophagy 1
 greasehorn 1
 gimmicky 1
 giggledom 1
-geotonus 1
+geotonus 2
 grottolike 2
 geologise
 gardenia 3
@@ -4195,7 +4195,7 @@ gowked 3
 geumatophobia
 gradometer 2
 galravitch 2
-gypsuming 1
+gypsuming 2
 goniopholis 2
 guillotinist
 gubbo 2
@@ -6384,7 +6384,7 @@ gussied 1
 glassworks 2
 gonotyl
 gracer
-gasterozooid 2
+gasterozooid 3
 geoponic
 goshenite 1
 ganefs 1
