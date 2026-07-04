@@ -3282,7 +3282,7 @@ gobangs
 genoblast 1
 galvanofaradization 3
 glottalization 1
-gasterosteus 1
+gasterosteus 2
 gyneccia 1
 gipsyesque 2
 geepounds
@@ -10636,7 +10636,7 @@ girns
 glimmerous 3
 grillades 3
 gambette
-greenly
+greenly 1
 gossipries
 gaylies 2
 gnomide
