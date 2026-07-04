@@ -1247,7 +1247,7 @@ encrinite
 emperors 2
 enrobe 1
 ecclesiarch 2
-equalness
+equalness 1
 eclated 1
 expands 2
 epideictical 2
@@ -1552,7 +1552,7 @@ ethology 1
 eyeballed 3
 eupeptically
 ensconces
-enervates
+enervates 1
 elaphebolion
 extraversion
 encampment 1
@@ -10817,7 +10817,7 @@ essart 2
 entasia 1
 eleanor
 expurgatory 2
-estivates 1
+estivates 2
 embiidae 1
 euphemizer 2
 emanation 1
@@ -11834,7 +11834,7 @@ exists 1
 exauthorizeexc
 emporte 3
 evanescently 1
-ethoxyl
+ethoxyl 1
 epileptics
 eplot 1
 externization 1
