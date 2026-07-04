@@ -3356,7 +3356,7 @@ graphometry 3
 gondolier
 gnatling
 gorkun 2
-galbe 2
+galbe 3
 glaciable
 gyroscopic 1
 gravy
@@ -4204,7 +4204,7 @@ gynecocracies 1
 goby 1
 gynecocrat
 gleamed 1
-gastroscope 2
+gastroscope 3
 giddied 2
 gangliated 2
 gibeonite 2
@@ -5840,7 +5840,7 @@ gymnosporangium 3
 gynoecium
 glucate 2
 gorevan 1
-gibelite
+gibelite 1
 glucinums
 gangflower
 giggle
@@ -8310,7 +8310,7 @@ grapples 2
 grappling 2
 gunslingers 4
 graptolitha 1
-gheraoed 1
+gheraoed 2
 gambits 1
 graspingly 1
 gowdy 2
