@@ -8588,7 +8588,7 @@ deprived 2
 dinosaurian 1
 destroying 1
 doormaking
-deorsumversion
+deorsumversion 1
 driftland 1
 dewan 2
 dissatisfied 1
@@ -10042,7 +10042,7 @@ dishonour
 deled
 damply 1
 dedal 1
-dogfought
+dogfought 1
 definitization
 digoneutic 1
 dynamitard
