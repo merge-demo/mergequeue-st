@@ -808,7 +808,7 @@ gastrular 2
 grazer 2
 glaceing 2
 gonia 2
-gambe 1
+gambe 2
 greenlandite 1
 gastrostenosis 2
 glucosane 2
@@ -973,7 +973,7 @@ gilgamesh 1
 grouting 1
 gagmen 1
 galloped 2
-ganched 2
+ganched 3
 gonotokont 2
 goner 2
 gerodontology 1
@@ -3687,7 +3687,7 @@ griffons 2
 gasterothecal 1
 gallein 1
 goonie 1
-graveldiver
+graveldiver 1
 getatable
 gazoz 2
 goldfield 1
@@ -4264,7 +4264,7 @@ gymnic 5
 gymnemic 3
 globosity 2
 gawks 2
-galeopsis
+galeopsis 1
 gingered 2
 gaugeable 1
 gastrojejunostomies 1
@@ -6621,7 +6621,7 @@ grossulaceous 2
 girlery 1
 globulysis
 gossans 1
-gedeckt 1
+gedeckt 2
 gonorrheic 1
 gurglingly 2
 grittiest
