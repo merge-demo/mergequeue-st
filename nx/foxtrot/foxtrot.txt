@@ -4997,7 +4997,7 @@ faured
 flaneurs 1
 flanked
 fledging 2
-factordom 2
+factordom 3
 fribourg 2
 formals 3
 freelage 1
@@ -5594,7 +5594,7 @@ fluttering
 flintiness 1
 ferricyanhydric 1
 flaglike
-flicker 2
+flicker 3
 fixity 1
 frapler
 floatable 4
@@ -6594,7 +6594,7 @@ fertilized 2
 freemanship 2
 firmer 1
 frothily
-floodway
+floodway 1
 fiends 1
 fatting 3
 frowzier 1
