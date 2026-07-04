@@ -1337,7 +1337,7 @@ autodrainage 1
 acates
 acatholic
 attemptless 1
-aromatic 1
+aromatic 2
 aggregant
 aberdonian 1
 aluminaphone
@@ -6283,7 +6283,7 @@ agonizingness 1
 alswith
 agoranomus
 advertiser
-archengineer
+archengineer 1
 alnager
 arboretum 1
 asperifoliate 1
@@ -19352,7 +19352,7 @@ asse
 autocamper 1
 argal 1
 argala 1
-assurd 1
+assurd 2
 apiin 1
 acontius
 aho 1
@@ -25079,7 +25079,7 @@ antipapistic
 ax
 abasia
 ascochyta
-axebreaker 1
+axebreaker 2
 afterglide
 animalism
 aggregated
