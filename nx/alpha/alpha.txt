@@ -4576,7 +4576,7 @@ ambushed
 asserve
 adversing 1
 aphoristical 1
-antimediaeval 1
+antimediaeval 2
 ami
 amniota 2
 annotativeness 1
@@ -7309,7 +7309,7 @@ algovite
 alarmist
 anginas
 alarodian 2
-animas 2
+animas 3
 alarum
 alarumed
 antitypically
@@ -11138,7 +11138,7 @@ antitabloid
 apter
 airer
 abnegations 1
-ampelographist
+ampelographist 1
 ascensional 3
 ampelograpny
 aquincubitalism
@@ -12019,7 +12019,7 @@ aeschynomene 2
 allergen 1
 arithmetizations 1
 adiaphora 1
-adosculation 1
+adosculation 2
 actualistic 1
 autobahnen 1
 anapnoic 1
@@ -15754,7 +15754,7 @@ antipatriarch
 antipatriarchy
 apimania 1
 aurinasal
-antipatriot
+antipatriot 1
 antipatriotic
 afterfermentation 2
 allonges 1
@@ -18760,7 +18760,7 @@ arche 1
 airships
 annulose
 archean 1
-archearl
+archearl 1
 attorneydom 2
 archebanc 1
 archebancs 1
@@ -19231,7 +19231,7 @@ ardu 1
 adonian 1
 aerosiderolite 1
 aliners
-awabi 1
+awabi 2
 adventurish
 arduousness
 apathia
@@ -23866,7 +23866,7 @@ acalypterae
 autarkies 1
 aeromaechanic
 allosaurus
-anisostichus
+anisostichus 1
 andoke 1
 attractors
 autarkist
