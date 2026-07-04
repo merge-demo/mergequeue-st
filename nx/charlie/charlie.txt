@@ -9927,7 +9927,7 @@ countersignatures
 carcinomas 1
 crackjaw 1
 cephalotaceous
-chemotrophic
+chemotrophic 1
 chemotropically
 cheoplastic
 chempaduk
@@ -11686,7 +11686,7 @@ cholocyanine 1
 cinematographic
 crossroading
 chololithic 2
-cholones
+cholones 1
 cholophaein 1
 coven 1
 cholophein
@@ -25663,7 +25663,7 @@ coprah
 corpulencies 1
 cosignificative 2
 consolamentum
-commingle 2
+commingle 3
 clankum
 corsair
 cannula
@@ -31653,7 +31653,7 @@ choiciest 1
 corselets
 cuscutaceae 1
 cuppin
-cuscutaceous
+cuscutaceous 1
 cusecs
 cush
 cushag
