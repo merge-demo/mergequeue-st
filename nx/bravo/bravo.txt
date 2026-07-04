@@ -4910,7 +4910,7 @@ beechwood
 bright 1
 bourbons 3
 belaud 1
-blackeyes
+blackeyes 1
 bolderian
 biguttate
 bandurrias 2
@@ -7116,7 +7116,7 @@ boss 1
 birdsong 1
 boldnesses
 basso 1
-bespotting 1
+bespotting 2
 bespouse
 bannerwise
 booties
@@ -14303,7 +14303,7 @@ bargander
 bannut
 blackboard 1
 bodices
-brogan
+brogan 1
 braggarts
 balductum
 braggery
@@ -15191,7 +15191,7 @@ backwardation
 bipartisan 1
 blitheful
 bullionless
-bram
+bram 1
 biddulphiaceae
 bryanism 1
 barsom 1
