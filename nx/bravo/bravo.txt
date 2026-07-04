@@ -4893,7 +4893,7 @@ bedwarfing
 broadeners
 bigotty
 beltine
-bubukle 1
+bubukle 2
 burglarproof
 beebee 1
 bradystalsis 2
@@ -9091,7 +9091,7 @@ biopsychological
 breunnerite 1
 brittlewort
 bidented 2
-brown 1
+brown 2
 bandagist 1
 bicolours
 bays 1
@@ -9152,7 +9152,7 @@ bletting 1
 banc
 beefburger 3
 bhaktas 2
-branchial
+branchial 1
 bubbybush 1
 ballyragged 1
 barotropy
@@ -9800,7 +9800,7 @@ bystreet
 bistres 1
 boeotarch 1
 brights 1
-borg 1
+borg 2
 bewitching
 barleymow
 beanpoles
@@ -14496,7 +14496,7 @@ bicyclo 1
 brakeload
 bemotto 1
 brakemaker 1
-brakeman
+brakeman 1
 builtin 1
 baby 2
 brakeroot 1
@@ -16058,7 +16058,7 @@ bespectacled 3
 barograms
 brindle
 barythymia 1
-basifiers
+basifiers 1
 boubous
 brisance 1
 brahmanaspati 1
