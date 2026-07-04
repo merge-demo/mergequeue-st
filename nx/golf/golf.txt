@@ -274,7 +274,7 @@ geochemistry
 gainliness 2
 gainsaying 1
 groin 1
-guillochee 1
+guillochee 2
 gibing 2
 gaslock 1
 gaddish 1
@@ -3765,7 +3765,7 @@ greenland
 gavialoid 3
 gorblimey
 glamorous 2
-genealogies
+genealogies 1
 geodaesia
 gorger 2
 girosol 2
@@ -4301,7 +4301,7 @@ gemstone
 galaxies
 gliriformia 4
 gravestead 1
-glossata
+glossata 1
 globules 2
 gharries 2
 gumbotil
@@ -5736,7 +5736,7 @@ grecizes 5
 geometrical 2
 gunfighter 1
 glossoptosis 2
-gloomth 2
+gloomth 3
 gradin
 goings
 gleeds
