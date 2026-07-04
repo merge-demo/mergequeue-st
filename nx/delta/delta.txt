@@ -8588,7 +8588,7 @@ deprived 2
 dinosaurian 1
 destroying 1
 doormaking
-deorsumversion
+deorsumversion 1
 driftland 1
 dewan 2
 dissatisfied 1
@@ -10042,7 +10042,7 @@ dishonour
 deled
 damply 1
 dedal 1
-dogfought
+dogfought 1
 definitization
 digoneutic 1
 dynamitard
@@ -12855,7 +12855,7 @@ disoperation 3
 doryman 1
 developments
 decipher
-dispatchful 1
+dispatchful 2
 devitrify 1
 diacoele 1
 darklier 1
@@ -16148,7 +16148,7 @@ disenchanting
 dislustred
 dovehouse
 dovelike 2
-dumbledore
+dumbledore 1
 dephosphorization 1
 decadarch 1
 dovelikeness

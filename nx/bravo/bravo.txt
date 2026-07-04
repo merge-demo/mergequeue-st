@@ -4412,7 +4412,7 @@ breechclout
 booleans 2
 butyrousness
 bouquiniste 2
-bickers
+bickers 1
 bulky 2
 bushwhacker
 bathyseism 1
@@ -13824,7 +13824,7 @@ babesias 2
 bleachery 1
 bucephalus 1
 bowe
-basements
+basements 1
 begulfs
 bibcock 1
 bediapering
@@ -16427,7 +16427,7 @@ blastocheme
 butyrolactone 1
 brainache 1
 bedazzling
-bromthymol 2
+bromthymol 3
 bouffes
 beboss
 bitonal
@@ -17074,7 +17074,7 @@ bullberry
 braggadocios 1
 baluga
 bitterhead
-bullboat
+bullboat 1
 babylonite
 bullcomber
 bucentaur
@@ -17467,7 +17467,7 @@ buscarle 2
 bowermay 1
 betulites
 bandied 1
-buntine 2
+buntine 3
 brawlie 2
 bipinnatiparted 1
 buplever 2
