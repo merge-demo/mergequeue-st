@@ -116,7 +116,7 @@ facilitate 1
 flocks 3
 facilitation
 fluosilicate 1
-facilitative 1
+facilitative 2
 fashionist 1
 federated 1
 fiat
@@ -1938,7 +1938,7 @@ furling 2
 fileable 2
 friable 2
 froze 1
-floccule 2
+floccule 3
 flaring 1
 finagling
 fonly 1
@@ -9247,7 +9247,7 @@ fucus
 farmed
 fledged
 fumously 1
-firebugs
+firebugs 1
 fertilising 2
 forgivers
 fascinatress
