@@ -3493,7 +3493,7 @@ deformability 1
 disknow
 distomum
 demographical
-deformable
+deformable 1
 darkey
 deformation
 dreadfuls 1
@@ -10749,7 +10749,7 @@ dipterocarpaceae
 dartingly 1
 dipterocarpaceous 1
 deportee
-devolve 1
+devolve 2
 dawning
 diversifiability
 dipterocarpous
