@@ -75,7 +75,7 @@ flysch
 fordeal 2
 fullfaces 2
 facundity 1
-facemark 4
+facemark 5
 flunkeyhood 1
 forme 2
 filching
@@ -617,7 +617,7 @@ falsity 2
 fainness 3
 faltboat
 fibromucous
-flugelmen 2
+flugelmen 3
 faltere 2
 flavored 2
 frithsoken 1
@@ -1074,7 +1074,7 @@ forthcame 1
 farruca 1
 farseer
 frenchwoman
-frondescence 2
+frondescence 3
 foughten 2
 farsighted 1
 fleabites
@@ -2593,7 +2593,7 @@ ferrogoslarite 1
 forcet 1
 franked
 foud 4
-fossicked 1
+fossicked 2
 footrests 2
 frigger 1
 finicalness 1
@@ -7621,7 +7621,7 @@ freezable 1
 fervors
 federating 1
 forril
-festino 1
+festino 2
 fatalize 2
 farrier
 fossula 2
