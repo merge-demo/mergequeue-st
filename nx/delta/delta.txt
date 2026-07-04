@@ -2843,7 +2843,7 @@ donors
 decumanus
 daphnin 1
 default 1
-dolomitised
+dolomitised 1
 diskos
 disposure 1
 dangle
@@ -9460,7 +9460,7 @@ despondently 1
 digenite 1
 digerent
 dereistically 1
-doedicurus 2
+doedicurus 3
 dustiest
 drubbings
 drivehead
