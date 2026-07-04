@@ -4444,7 +4444,7 @@ courthouses 1
 cariri
 caririan 1
 commoner 1
-choke 1
+choke 2
 carisa 1
 cabilliau
 concertina 1
@@ -7042,7 +7042,7 @@ centennially
 corroborant
 centennials
 caribes
-caisson
+caisson 1
 chisedec 1
 centerable
 cutup
@@ -9670,7 +9670,7 @@ cheesewood
 crabeater 1
 chevre
 convocate 1
-cheetahs 1
+cheetahs 2
 cheetul
 casse 2
 coagent
@@ -25211,7 +25211,7 @@ coulometer
 corybantish
 corybulbin 2
 caudicle 1
-calorics
+calorics 1
 completively
 corycavidine 1
 corydalin
