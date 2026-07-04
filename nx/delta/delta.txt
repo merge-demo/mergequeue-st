@@ -529,7 +529,7 @@ damageably 1
 detonatable 1
 damaged 1
 detort 2
-damageous 1
+damageous 2
 deaccessions 1
 dovyalis 1
 deliber
@@ -9865,7 +9865,7 @@ doctrinable 1
 dimber 3
 doek
 desiccator 2
-desilicification
+desilicification 1
 dimensionally 1
 dimensioning 1
 dimensum 2
@@ -18541,7 +18541,7 @@ dualism 1
 detrudes
 diumvirate
 drivage 1
-diagraphic
+diagraphic 1
 desulfurization
 darbs 2
 disrates
