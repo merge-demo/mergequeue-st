@@ -2554,7 +2554,7 @@ gibber 1
 guillotined 1
 grassed 1
 gallamine 2
-genearch 1
+genearch 2
 gyrogonite
 gargling 1
 globiferous
@@ -3208,7 +3208,7 @@ gigantism 1
 gametophytic
 grainedness 4
 genuses 1
-goldminer
+goldminer 1
 graywacke
 gruellers
 glucemia 2
@@ -5765,7 +5765,7 @@ goldbird 1
 gimp 1
 gelatinity 3
 gestio
-goosecap 1
+goosecap 2
 groovers
 gangways 3
 goofiest 2
@@ -9086,7 +9086,7 @@ grillroom
 gleet 1
 gerent 1
 grimmiaceae 1
-ganglionectomies 3
+ganglionectomies 4
 girthline 1
 glutination 2
 gyres 1
