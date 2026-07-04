@@ -8914,7 +8914,7 @@ chareter
 charette
 censers
 chemisms 2
-chargable
+chargable 1
 combmaker
 charge
 chargeable
@@ -15876,7 +15876,7 @@ calms
 chamal
 cadaverize 1
 cleidocostal
-cleidoic
+cleidoic 1
 chiromance
 cleidomancy
 cleidorrhexis
