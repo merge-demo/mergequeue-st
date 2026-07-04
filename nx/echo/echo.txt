@@ -1614,7 +1614,7 @@ exsanguine
 emu
 egromancy 1
 emptiness 2
-egurgitate
+egurgitate 1
 egurgitated 3
 eheu
 explanatively
@@ -3679,7 +3679,7 @@ entrancer 2
 extrachromosomal 1
 eila 1
 ecmnesia
-envenom
+envenom 1
 eternised
 exergues 1
 evase
