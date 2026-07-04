@@ -6664,7 +6664,7 @@ ecrevisse
 epulis 1
 espundia 1
 endamebiasis
-electrophysics 1
+electrophysics 2
 entertainment 1
 endosepsis
 echimys 3
@@ -7609,7 +7609,7 @@ eton 1
 effectuation
 epicrasis 1
 epopt
-equinal
+equinal 1
 eumenid 1
 enemylike 1
 epithalamus
