@@ -3788,7 +3788,7 @@ ciconia 1
 chloroethylene 1
 carbazic
 carbazylic
-chlorpikrin
+chlorpikrin 1
 cheerios
 civilist 1
 carbazole
@@ -4937,7 +4937,7 @@ cowherbs 1
 coolingly 2
 carte
 carted 2
-curtalax
+curtalax 1
 cartel
 clione 2
 chorepiscope
@@ -21996,7 +21996,7 @@ croak
 corelative 2
 cytocyst 1
 confirmable
-cionocranial 1
+cionocranial 2
 confirmation 2
 confirmational
 confirmations 2
@@ -25946,7 +25946,7 @@ corticipetal 1
 collegiate
 corticoafferent 2
 corticoline 1
-calories
+calories 1
 corticolous 1
 corticose
 corticosteroids 1
@@ -30785,7 +30785,7 @@ cephalaspis 2
 culches
 ceroon
 culerage
-christmastide
+christmastide 1
 childbeds
 climatologic
 culices 1
@@ -31118,7 +31118,7 @@ catharism
 cuneus 1
 calcedony
 chivarra
-curvets
+curvets 1
 copataine 1
 capitulation 1
 cacodylate
