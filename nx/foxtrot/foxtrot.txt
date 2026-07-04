@@ -6206,7 +6206,7 @@ fakeries 1
 feuded 3
 foragement 2
 frumpishness 1
-foe 1
+foe 2
 forecatharping
 fudder
 forerunners
@@ -7465,7 +7465,7 @@ feigning
 fishwives 2
 fiftypenny
 feminine
-frumpier
+frumpier 1
 filipendulous 1
 funditores
 fantasists 1
@@ -7929,7 +7929,7 @@ foresee 1
 faitor
 frakturs 3
 footeite
-friz
+friz 1
 footslog 1
 fletching 1
 foreseer 1
@@ -8748,7 +8748,7 @@ flutteration
 faith
 fortieth 2
 feminisms 1
-forefended 1
+forefended 2
 fortify
 footrill
 fibroids 2
