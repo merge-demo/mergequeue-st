@@ -3307,7 +3307,7 @@ facewise 2
 ferrohydrocyanic
 flabellate
 fossilologist
-folklorist 1
+folklorist 2
 featherlessness 1
 fioritura 1
 fouldre 1
@@ -7103,7 +7103,7 @@ fadmonger 1
 forgeability 1
 foolproof 1
 felty 2
-foolproofness 2
+foolproofness 3
 ferret
 frocking
 flagger 2
@@ -8085,7 +8085,7 @@ falconnoid 1
 flocker 1
 foredevote 1
 felicitates
-fluidisation 2
+fluidisation 3
 frustrate 4
 fifteenths 1
 flammably 1
@@ -8928,7 +8928,7 @@ flatteners 1
 fouled 3
 fancywork 1
 fling 1
-fatiloquent
+fatiloquent 1
 ferie 3
 feedstuff
 forethough 1

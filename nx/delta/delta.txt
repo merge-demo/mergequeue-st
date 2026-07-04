@@ -1125,7 +1125,7 @@ dedanite 1
 doctorization 2
 dashed 2
 dicentra 1
-dipnoid 1
+dipnoid 2
 dermopathy 1
 dumpfile
 dryfist 2
@@ -5943,7 +5943,7 @@ decuples
 dragons 1
 derangeable
 diopside
-delictus 2
+delictus 3
 deed
 durezza 1
 dropped
@@ -7580,7 +7580,7 @@ diverging
 detersion
 dingily 1
 deutoplastic 1
-dracaenas
+dracaenas 1
 dolefulness
 deutschland
 daundering
