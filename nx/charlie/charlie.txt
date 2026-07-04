@@ -11632,7 +11632,7 @@ configurationism
 cholepoietic
 choler
 cholera
-counterround 1
+counterround 2
 circumjacent 2
 colombia
 coinfers
@@ -18479,7 +18479,7 @@ cessations
 cursor 1
 coheiress
 cepheus
-clericalize
+clericalize 1
 crosslet
 circlet
 champac
