@@ -3255,7 +3255,7 @@ graminiferous 2
 germanification
 gadso 2
 gorgonian 1
-gregaritic
+gregaritic 1
 geomyid 1
 glancer 1
 glycosin 2
@@ -5260,7 +5260,7 @@ grouping 3
 gospodar 1
 glyceroxide 3
 glycide
-gladiest 1
+gladiest 2
 gangmaster 1
 glabrous
 gothicness 1
@@ -5987,7 +5987,7 @@ gaols 2
 gillot 2
 gonifs 3
 gemmates 1
-generalship
+generalship 1
 goldbricker 1
 glenoid 1
 gurt
@@ -6003,7 +6003,7 @@ gnarly 5
 gourdes 4
 gnarliest
 gnarliness
-gawkiness 3
+gawkiness 4
 graspless 4
 gnarls 2
 gaidropsaridae 2
@@ -7827,7 +7827,7 @@ greeny 4
 grubworm 1
 gnaws
 gillstoup
-gauchely
+gauchely 1
 gingerwork 2
 glycolipine 1
 gargoylish 3
@@ -8779,7 +8779,7 @@ gorgonin 2
 guildship
 gluhwein
 grisgris 1
-gymnosophical 2
+gymnosophical 3
 gamene
 gallate
 griming 1
