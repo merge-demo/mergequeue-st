@@ -2241,7 +2241,7 @@ duopolistic
 debase 2
 dinoflagellatae
 dungeonlike
-drummed 3
+drummed 4
 diploses 2
 diapyetic 2
 deceiving
@@ -3493,7 +3493,7 @@ deformability 1
 disknow
 distomum
 demographical
-deformable
+deformable 1
 darkey
 deformation
 dreadfuls 1
@@ -6703,7 +6703,7 @@ diacoustics 1
 dropforge 2
 desideration 1
 deoxidant
-desiderative
+desiderative 1
 disenthrall
 drunkard
 disorganize 1
