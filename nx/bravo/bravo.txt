@@ -1024,7 +1024,7 @@ binders
 baiera
 bolling 1
 boti
-bibliology 1
+bibliology 2
 bioavailability 1
 butadiene 3
 baiginet
@@ -2963,7 +2963,7 @@ blobby 2
 benedicts 2
 barricadoes 2
 brainsick 1
-blayk 2
+blayk 3
 boltsmith
 bicentral
 basiation
@@ -3601,7 +3601,7 @@ blencorn 3
 bedstands 2
 banker 1
 befathered
-bathoflore 1
+bathoflore 2
 batholithic
 balaamite
 butchers
@@ -4431,7 +4431,7 @@ belchers 2
 bypassing
 becloaks
 blackfriars 4
-batule
+batule 1
 becloak 3
 bereavement
 boojum 4
@@ -10811,7 +10811,7 @@ blepharoncosis
 beplumed
 broses 2
 blepharoplastic
-bassan 1
+bassan 2
 blepharoptosis 1
 biosynthetic 1
 blepharosynechia
@@ -18113,7 +18113,7 @@ brins
 benzal
 bealtared
 bloodlettings
-buskin 1
+buskin 2
 barognosis
 butcherer 1
 bouquetin
