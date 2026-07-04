@@ -6703,7 +6703,7 @@ diacoustics 1
 dropforge 2
 desideration 1
 deoxidant
-desiderative
+desiderative 1
 disenthrall
 drunkard
 disorganize 1
