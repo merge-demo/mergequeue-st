@@ -3710,7 +3710,7 @@ bally
 belage 1
 belfather 2
 batteaux
-bakatan 3
+bakatan 4
 battement
 balladising 1
 batteners 1
@@ -4726,7 +4726,7 @@ bottlers
 bedlamite 1
 brulyiement
 bastardization
-bedlamitish
+bedlamitish 1
 bedub 3
 bovid 1
 bibliogenesis
@@ -9188,7 +9188,7 @@ biotypes
 browbeats 1
 brickred
 biotypic
-benzyls
+benzyls 1
 biotypology 1
 balneotherapeutics 1
 biotites 1
@@ -10889,7 +10889,7 @@ beadledom 1
 biggity
 bibbling 1
 blindball 4
-bindable
+bindable 1
 bangers
 boxball
 barracker
