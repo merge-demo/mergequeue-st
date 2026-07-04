@@ -858,7 +858,7 @@ endophyte
 entailed
 establishment
 ectomorph
-euxanthic
+euxanthic 1
 extrudability
 ectoparasitica 1
 exhumating 1
@@ -3750,7 +3750,7 @@ eyeglasses 1
 ejulate 1
 embrowning
 embrues 1
-ennuied 1
+ennuied 2
 executive
 edificial 2
 effigiated 2
@@ -5034,7 +5034,7 @@ endochorion 1
 endochorionic
 engrains 2
 exodontia
-endocyst
+endocyst 1
 eposes 1
 epodic 1
 enucleate
@@ -6111,7 +6111,7 @@ enlumine
 entheos 3
 ergoplasm 1
 excommunicant
-entozoans 1
+entozoans 2
 epicentre 1
 eaved 2
 earlywood 1
@@ -6162,7 +6162,7 @@ engraft 1
 eccrinology
 episememe 1
 entrappingly
-espionage 1
+espionage 2
 entocondyloid 1
 elision
 endanger
@@ -8487,7 +8487,7 @@ erectness 2
 executorial 3
 enwrapping 2
 enterprised
-enclave 1
+enclave 2
 exopterygote 1
 electrizable
 expressionist 2
@@ -13525,7 +13525,7 @@ eudaemonic 1
 ephods 1
 energize 2
 eucalypti
-equianharmonic 1
+equianharmonic 2
 endymal 1
 egocentricities 2
 edge 2
