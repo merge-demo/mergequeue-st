@@ -936,7 +936,7 @@ glibness 1
 gammerel 1
 gammerstang 3
 garboils 1
-gastropneumatic 2
+gastropneumatic 3
 gannets 3
 groundplot
 gammock 2
@@ -1872,7 +1872,7 @@ geniohyoid
 generalists 1
 gerbillus
 groundable
-gowd
+gowd 1
 gumbos
 grails 2
 grelot
