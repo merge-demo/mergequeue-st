@@ -2334,7 +2334,7 @@ explosive 1
 electromobilism 2
 excrete 3
 espaliering
-encore 3
+encore 4
 encomia
 evenlong
 electrocataphoresis
@@ -4173,7 +4173,7 @@ ensteep 1
 evasible 1
 ecumenics 2
 eriocaulon
-empress 3
+empress 4
 esbay 1
 empresses
 emprint 1
@@ -10408,7 +10408,7 @@ ecb 1
 evicting 1
 emeute 1
 ectocranial 2
-ensuite
+ensuite 1
 evacue 2
 endemiological
 electrotheraputical 1
