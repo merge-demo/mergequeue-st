@@ -804,7 +804,7 @@ bibliotherapy
 bethorn 1
 blackout 1
 basilidan 2
-building 2
+building 3
 baedekerian 2
 baphometic 1
 baeria
@@ -6445,7 +6445,7 @@ bindery 1
 benzothiofuran 2
 burs
 benzothiophene
-benzoxyacetic 1
+benzoxyacetic 2
 blanchers 2
 ballast
 bisulcate
@@ -12486,7 +12486,7 @@ bonify 2
 bourgeoisify
 berates
 bimetallist
-bruscha 1
+bruscha 2
 bdls
 bulbochaete
 burnewin 2
@@ -15067,7 +15067,7 @@ badon
 bacteriol
 babite
 binapthyl
-befetter 1
+befetter 2
 betiding
 bicuspidal
 breenger
