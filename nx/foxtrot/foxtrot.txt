@@ -7380,7 +7380,7 @@ feedlots 3
 flyness 1
 fistnote 4
 flaccidity 3
-forbidals 4
+forbidals 5
 fasted
 featous
 foobar 3
@@ -9647,7 +9647,7 @@ fatalists
 faqir 1
 foreseeability
 filipinize 1
-fleeceable
+fleeceable 1
 fdub
 fragmentitious
 forcipated 1
