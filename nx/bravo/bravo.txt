@@ -6639,7 +6639,7 @@ blackcap
 bordar 1
 boneshave 2
 binal 1
-bodegon
+bodegon 1
 beribanded
 birdy 1
 bargeboard
@@ -13114,7 +13114,7 @@ borid
 bacterioscopist
 bromisation
 bastinaded
-blowzier
+blowzier 1
 basilics 2
 brahui
 benchmen 3
