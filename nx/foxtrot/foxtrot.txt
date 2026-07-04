@@ -1471,7 +1471,7 @@ forescent
 flutings 1
 fetcher 1
 furibund 1
-flunkeyish 1
+flunkeyish 2
 furanose 1
 foundering 1
 flocklike
@@ -3077,7 +3077,7 @@ flirters 1
 faroff 2
 forches 2
 flowerfly
-finances
+finances 1
 forfeitableness 1
 festology 2
 fooler 1
@@ -3922,7 +3922,7 @@ forlese 2
 fischerite 1
 forebrain 1
 firmamental
-february
+february 1
 frothi 1
 fraple 2
 french 1
@@ -4513,7 +4513,7 @@ francophobia 1
 flagging 1
 forestalling
 farmlands
-feer 1
+feer 2
 foreigner
 forslake 2
 flooded 1
@@ -5574,7 +5574,7 @@ forecited 4
 fluorite 1
 fiddles 2
 fibbing
-felon
+felon 1
 fungic 1
 flacourtiaceae 3
 flyby
