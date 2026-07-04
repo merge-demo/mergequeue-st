@@ -10428,7 +10428,7 @@ flanger
 flustrate 1
 fertilizable
 frontignan
-fronting
+fronting 1
 fictional
 fizzle 1
 focus 1
