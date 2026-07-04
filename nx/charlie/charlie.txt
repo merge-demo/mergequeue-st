@@ -9042,7 +9042,7 @@ charmingness
 coleoptile
 charmless
 charmlessly
-clodlike
+clodlike 1
 charmonium
 charms
 charneco
@@ -13715,7 +13715,7 @@ cinchonization
 crunodal 1
 cinchonize 1
 cinchonized 1
-communiqu
+communiqu 1
 cinchophen
 cretinoid 2
 cinchotine
@@ -13978,7 +13978,7 @@ croy
 cacique
 corruptions 3
 cionitis
-culprits
+culprits 1
 cionorrhaphia
 conciliates
 cognitum
@@ -19723,7 +19723,7 @@ cryptomnesic 1
 cytozyme
 combinable 1
 combinant
-combinate 2
+combinate 3
 combination
 coredeem
 combinational

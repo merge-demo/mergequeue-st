@@ -75,7 +75,7 @@ flysch
 fordeal 2
 fullfaces 2
 facundity 1
-facemark 4
+facemark 5
 flunkeyhood 1
 forme 2
 filching
@@ -1074,7 +1074,7 @@ forthcame 1
 farruca 1
 farseer
 frenchwoman
-frondescence 2
+frondescence 3
 foughten 2
 farsighted 1
 fleabites
@@ -2593,7 +2593,7 @@ ferrogoslarite 1
 forcet 1
 franked
 foud 4
-fossicked 1
+fossicked 2
 footrests 2
 frigger 1
 finicalness 1
@@ -3542,7 +3542,7 @@ foulsome 1
 filamentary 2
 flannelleaves 1
 fishfall 2
-flagrancy
+flagrancy 1
 frowziness 1
 fath
 flaggelating 1
@@ -7702,7 +7702,7 @@ furriness
 fallfishes
 forspeak 1
 favourers
-forehoofs 1
+forehoofs 2
 fewter 2
 forehooves 1
 foreboding 1
@@ -8458,7 +8458,7 @@ folksy 3
 formalesque 2
 feudalizable 3
 foistiness
-flatfootedly 1
+flatfootedly 2
 freshmanic 1
 formulize 1
 fierier
