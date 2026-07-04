@@ -3499,7 +3499,7 @@ deformation
 dreadfuls 1
 deflections 1
 delete 1
-deformations 2
+deformations 3
 dicynodont
 deformedly
 dandily 3
@@ -7093,7 +7093,7 @@ descriptiveness
 disorient 1
 disvalues 2
 darted
-diaphany
+diaphany 1
 damselfish 1
 demonial
 destrer
