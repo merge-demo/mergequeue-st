@@ -2241,7 +2241,7 @@ duopolistic
 debase 2
 dinoflagellatae
 dungeonlike
-drummed 3
+drummed 4
 diploses 2
 diapyetic 2
 deceiving
@@ -6703,7 +6703,7 @@ diacoustics 1
 dropforge 2
 desideration 1
 deoxidant
-desiderative
+desiderative 1
 disenthrall
 drunkard
 disorganize 1
@@ -18541,7 +18541,7 @@ dualism 1
 detrudes
 diumvirate
 drivage 1
-diagraphic
+diagraphic 1
 desulfurization
 darbs 2
 disrates
