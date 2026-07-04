@@ -1125,7 +1125,7 @@ dedanite 1
 doctorization 2
 dashed 2
 dicentra 1
-dipnoid 1
+dipnoid 2
 dermopathy 1
 dumpfile
 dryfist 2
@@ -7580,7 +7580,7 @@ diverging
 detersion
 dingily 1
 deutoplastic 1
-dracaenas
+dracaenas 1
 dolefulness
 deutschland
 daundering
@@ -8667,7 +8667,7 @@ defeminised 1
 diaspore
 diastalses 1
 dum 1
-dovekey 2
+dovekey 3
 diastalsis
 diglossia 1
 disgustedness
@@ -10920,7 +10920,7 @@ disforestation
 doublethinking
 digressions
 disadvance
-disadvancing
+disadvancing 1
 disbursals
 disadvantageousness 2
 ditetragonal 2
@@ -12444,7 +12444,7 @@ dexterity
 defy
 deboise 1
 demesne 1
-dislimb
+dislimb 1
 dicalcium 1
 disyllabized
 discontinuations
@@ -13689,7 +13689,7 @@ doss 2
 diligency 1
 devious 1
 demicannon 1
-dermatocellulitis 2
+dermatocellulitis 3
 djellabas
 decagramme
 diatryma 1
@@ -16413,7 +16413,7 @@ deltal
 doeuvre
 downwind 1
 dowp 2
-dowse 2
+dowse 3
 defibrillative 2
 dihydric 2
 drolled 1
