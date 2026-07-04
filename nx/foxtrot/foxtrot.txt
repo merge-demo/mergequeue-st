@@ -490,7 +490,7 @@ fiumara 1
 forcleave
 fakery 1
 flaxweed 2
-funbre 2
+funbre 3
 frisch 1
 fertilizing 3
 frenne 2
@@ -1003,7 +1003,7 @@ flannelly
 farinosel 2
 foussa 2
 fulfill
-farmeress
+farmeress 1
 fireling 1
 flerrying 2
 farmerly
@@ -1732,7 +1732,7 @@ foveal 1
 feeded 1
 forecastlemen 3
 foresaddle
-fluphenazine
+fluphenazine 1
 fossildom 1
 fibropsammoma 1
 fantasmagoric
@@ -3000,7 +3000,7 @@ fiscalify
 formularizer
 flowers
 fifing
-fetlocked 1
+fetlocked 2
 fiestas 1
 fdubs
 fiar 1
@@ -4440,7 +4440,7 @@ feetfirst
 flirtingly
 fluency 2
 fingerlings
-fibroglioma 4
+fibroglioma 5
 freeloads 1
 febricity 2
 feste 1
@@ -4945,7 +4945,7 @@ funtumia 1
 freights
 foder 2
 fevertwitch 2
-facedown
+facedown 1
 fraunch 2
 flameout 3
 foreappoint 1
@@ -5061,7 +5061,7 @@ fetialis 1
 fezes
 freir 2
 foreseers 2
-frsiket 1
+frsiket 2
 fowler
 fitches
 fluorescence 3
@@ -5298,7 +5298,7 @@ farmsteads 1
 frightless 1
 fogbound
 flukes 2
-fluoridize 2
+fluoridize 3
 fretters 1
 flain 1
 fernwort
@@ -7668,7 +7668,7 @@ foregift 1
 feyness
 foregleam
 forst 1
-feudatory 3
+feudatory 4
 factualness
 fables 2
 factualism 2
@@ -8279,7 +8279,7 @@ falsifications
 fossulate 3
 foresweat 2
 fesse 2
-forgeable 2
+forgeable 3
 forwaked 2
 flashtubes 2
 fillingness
@@ -9916,7 +9916,7 @@ frouncing
 feminize 1
 funge 3
 feria 4
-fundatorial
+fundatorial 1
 flavanthrone 2
 feedable 1
 fogeys 2
@@ -10331,7 +10331,7 @@ furnishness 3
 folkmot
 faultless 5
 fromenty
-fusilladed
+fusilladed 1
 fromenties 1
 fogyishness 1
 fluorated
