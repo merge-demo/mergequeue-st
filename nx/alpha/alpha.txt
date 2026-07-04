@@ -2335,7 +2335,7 @@ accessless
 acidiferous
 argil 1
 aneurin 1
-arbtrn 1
+arbtrn 2
 axletrees
 adderfish 2
 alaric
@@ -3799,7 +3799,7 @@ adhered
 adherency
 addiment
 adherent 1
-adherents
+adherents 1
 archetypally 1
 adherers
 archways 1
@@ -6269,7 +6269,7 @@ arvicolinae
 avelonge 1
 annulettee 1
 allodian 2
-agonizedly
+agonizedly 1
 agabanee
 amylin
 agonizer
@@ -13144,7 +13144,7 @@ amphigony 1
 anilino 1
 alone
 adoperation 1
-anilla
+anilla 1
 amiss
 amental
 archemperor
@@ -19132,7 +19132,7 @@ arcifinious
 alluvion
 arciform
 archoptosis 1
-asexualise 1
+asexualise 2
 arcite
 adherences
 azoch
