@@ -1080,7 +1080,7 @@ groundway 1
 gypsums 2
 gegenion 2
 glares
-guarding 1
+guarding 2
 graphicness 2
 galactolipin 2
 goularo 1
@@ -6384,7 +6384,7 @@ gussied 1
 glassworks 2
 gonotyl
 gracer
-gasterozooid 2
+gasterozooid 3
 geoponic
 goshenite 1
 ganefs 1
