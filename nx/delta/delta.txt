@@ -3282,7 +3282,7 @@ diversifoliate 1
 dominants
 dalles
 doty
-deteriority 1
+deteriority 2
 deterging 1
 dragoons 1
 drostden
@@ -3433,7 +3433,7 @@ divise
 damnosa
 dentagra 1
 deflowered
-deflowerer 1
+deflowerer 2
 dumpcart
 dipleurogenetic 1
 demanders 1
@@ -4218,7 +4218,7 @@ delude 1
 dishonored
 dipperful
 detribalized 2
-debruising
+debruising 1
 disyllabic 1
 dunal
 deadishly
@@ -13538,7 +13538,7 @@ disseisee
 dortiship 1
 donorship 1
 defterdar 1
-disaccharose 1
+disaccharose 2
 dungeoner
 disperse
 disquisitive 1
@@ -14764,7 +14764,7 @@ docity
 discords
 deplaster 1
 dodonaea
-dilatancy 2
+dilatancy 3
 discutable
 docker 1
 disaccharidase
