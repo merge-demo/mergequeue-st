@@ -1856,7 +1856,7 @@ bancha 1
 bivial 1
 beslime 2
 bullose 1
-bialystoker
+bialystoker 1
 bandaged
 bandaging 1
 berylloid
@@ -3839,7 +3839,7 @@ boarfishes 1
 bhoy 1
 bugging
 baumier 1
-baun
+baun 1
 baure
 botonny 2
 bausond
@@ -5255,7 +5255,7 @@ blastocyst 2
 bolters
 bioblast 2
 bestraddle
-bastes 5
+bastes 6
 bothsided
 begazing 1
 bimasty
@@ -9269,7 +9269,7 @@ brrr
 bring
 bipyridyl 1
 birgand
-bougainvillia
+bougainvillia 1
 biangulated
 broadsides
 bacterioidal 1
