@@ -6775,7 +6775,7 @@ abucco
 alt 5
 aftermarket
 arpeggio
-allomerize
+allomerize 1
 agglutination
 atrioporal
 aglaia 1
@@ -21203,7 +21203,7 @@ aggrandizers
 archilla
 amazonism 1
 albatas
-amelia
+amelia 1
 afterthoughted 1
 ashery
 antichronical 2
