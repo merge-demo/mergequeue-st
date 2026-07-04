@@ -4493,7 +4493,7 @@ courages
 carloading 1
 chinner
 combatants
-cogways
+cogways 1
 cytocide 1
 circumference
 carlot 1
@@ -18033,7 +18033,7 @@ concaptive
 coherers 1
 coppice
 coenacle
-capsidal
+capsidal 1
 collyriums
 curiet 2
 chelaship
@@ -20666,7 +20666,7 @@ complaintiveness 1
 complaints 1
 cabinetmake
 complaisant 1
-cankerworms
+cankerworms 1
 complaisantly
 coenenchyma
 complant
@@ -26064,7 +26064,7 @@ coshed
 cosher
 countermanded 3
 chestiness
-cupreine
+cupreine 1
 coshery
 coshers 2
 cholralosed 1
