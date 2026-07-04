@@ -6664,7 +6664,7 @@ ecrevisse
 epulis 1
 espundia 1
 endamebiasis
-electrophysics 1
+electrophysics 2
 entertainment 1
 endosepsis
 echimys 3
@@ -7609,7 +7609,7 @@ eton 1
 effectuation
 epicrasis 1
 epopt
-equinal
+equinal 1
 eumenid 1
 enemylike 1
 epithalamus
@@ -8335,7 +8335,7 @@ etherealism 1
 euphuist
 everylike
 epitomized 1
-epitomizes 1
+epitomizes 2
 exhalable
 enameloma 1
 electrohydraulically 1
@@ -9514,7 +9514,7 @@ equirotal
 educationese 1
 ea 2
 earthworm 1
-enteradenology
+enteradenology 1
 emboldened 2
 englutting
 eserine
