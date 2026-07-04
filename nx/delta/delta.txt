@@ -2957,7 +2957,7 @@ decemfid 2
 decident
 deductio
 deductions 2
-dwarfism
+dwarfism 1
 distrainment 2
 deductive 2
 deductory 1
@@ -3191,7 +3191,7 @@ determinant 2
 deracine 2
 deinotherium
 disimprove 1
-defectors
+defectors 1
 dandiest
 demipremise 1
 droseraceae
@@ -10194,7 +10194,7 @@ dulcely 1
 dinitrate 1
 dopplerite 1
 duskishly 1
-dinitrocellulose
+dinitrocellulose 1
 diverb 2
 dink 2
 distractile
@@ -11965,7 +11965,7 @@ dicentras
 decoic 1
 differen
 disenchant 4
-dowd
+dowd 1
 disenchantments
 disenchantress 1
 depluming 2
@@ -16484,7 +16484,7 @@ degradations
 detinuit
 doubtance 1
 dirhinous
-disjointness
+disjointness 1
 dishonourable
 debag
 dasyprocta
