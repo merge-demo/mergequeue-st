@@ -5105,7 +5105,7 @@ cesspipe 1
 coestate
 chemoprophylaxis
 cascable
-cascade
+cascade 1
 coupes
 crotaline
 cavae
@@ -18741,7 +18741,7 @@ cucurbital
 colate
 canaliculation
 comprehensibility
-conquistador 1
+conquistador 2
 colatitude
 colazione
 colberter
@@ -23070,7 +23070,7 @@ callused
 counteradvantage
 consopite
 crown
-chowderhead
+chowderhead 1
 curtest
 consortable
 consorter
