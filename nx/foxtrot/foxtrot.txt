@@ -5261,7 +5261,7 @@ fills 1
 fstore 1
 fissiped 2
 flavoured
-fondant
+fondant 1
 flavourful 1
 flexionless
 fieldy
