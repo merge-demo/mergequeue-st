@@ -116,7 +116,7 @@ facilitate 1
 flocks 3
 facilitation
 fluosilicate 1
-facilitative 1
+facilitative 2
 fashionist 1
 federated 1
 fiat
@@ -2473,7 +2473,7 @@ firstcomer 1
 fireproofing
 fishhood 1
 fuddlement 1
-footscraper 2
+footscraper 3
 fermillet 3
 favonian 1
 floripondio
@@ -2870,7 +2870,7 @@ familistery 1
 fettered 1
 frowstiness 1
 flatulently 1
-foozle
+foozle 1
 flouter
 flatlets
 forestair
@@ -4945,7 +4945,7 @@ funtumia 1
 freights
 foder 2
 fevertwitch 2
-facedown
+facedown 1
 fraunch 2
 flameout 3
 foreappoint 1
@@ -9247,7 +9247,7 @@ fucus
 farmed
 fledged
 fumously 1
-firebugs
+firebugs 1
 fertilising 2
 forgivers
 fascinatress
