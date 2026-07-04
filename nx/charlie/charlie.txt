@@ -10479,7 +10479,7 @@ childly
 childliest 1
 childlike 1
 childness
-childre
+childre 1
 comicality
 chalicotherium 2
 chunderous
@@ -14309,7 +14309,7 @@ circumpose 1
 condite
 circumquaque
 circumradius 1
-circumradiuses
+circumradiuses 1
 charitable
 claver
 conferring 1
@@ -17311,7 +17311,7 @@ comptonite
 constrains
 chukars
 cadis
-coarsely 1
+coarsely 2
 cranched 1
 calmness
 coarsened
@@ -20621,7 +20621,7 @@ conjugal
 cascol
 competitors 1
 challengee
-competitrix 1
+competitrix 2
 cofounded
 curvilinearly
 compilations
@@ -23920,7 +23920,7 @@ contumacious
 cantel
 ciguatera
 caducibranch
-coedit 1
+coedit 2
 contumely
 consisted
 chadlock
@@ -30516,7 +30516,7 @@ cavin 1
 cubbyhouse
 cubbing
 codein
-cubbishness 1
+cubbishness 2
 choiring
 cameoed
 cubelet 1
