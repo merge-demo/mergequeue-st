@@ -16040,7 +16040,7 @@ backbear
 bronchospasm 1
 buttle
 bellbottle 1
-birdstone 1
+birdstone 2
 bronchotomy 1
 bersaglieri 2
 braggardism
@@ -17948,7 +17948,7 @@ bathybic 2
 baryta
 bushwahs
 baggy 2
-basemen
+basemen 1
 boloroot 1
 bushlike
 beclamors 1
