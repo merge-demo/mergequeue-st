@@ -5077,7 +5077,7 @@ elaeoblast
 einsteinian
 elatives 1
 endocrines
-endocrinic 1
+endocrinic 2
 edibile 1
 existentialistic 1
 emergencies
@@ -10532,7 +10532,7 @@ estop 1
 eucharistial 1
 eurylaimoid
 eudaemony
-eurithermophilic
+eurithermophilic 1
 eucharistic 1
 eucharistically 2
 ephthalite 1
@@ -11729,7 +11729,7 @@ erenow 1
 enterocoele 2
 endocarditis
 elevated
-extendlessness
+extendlessness 1
 exalting
 elands 2
 exaltment 1
@@ -13065,7 +13065,7 @@ exhibiting
 ebauchoir
 euhemerised
 epiperipheral
-expediter 1
+expediter 2
 emarginula 1
 earn
 enunciates 1
@@ -14210,5 +14210,5 @@ ethnomaniac 2
 encaging 1
 excitron 2
 exxon
-exzodiacal
+exzodiacal 1
 ezod 1
