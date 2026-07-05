@@ -816,7 +816,7 @@ forbecause 1
 fanon 1
 fronted
 felichthys
-fingermark
+fingermark 1
 funereally 2
 fashioner
 finestill
@@ -3195,7 +3195,7 @@ flouse 3
 fices 2
 fuchsinophilous 5
 fermentitious 1
-freeholds
+freeholds 1
 fickle 2
 feeblest
 fixage
@@ -8560,7 +8560,7 @@ fetiparous 3
 fetlock 2
 foresound
 fiddledeedee 1
-formosity 1
+formosity 2
 fidley 1
 flailing 3
 facetiation 1
@@ -9174,7 +9174,7 @@ fratricidal
 frusta 1
 fireroom 1
 fooner
-flytings 2
+flytings 3
 froisse 1
 fracid
 frizzier
