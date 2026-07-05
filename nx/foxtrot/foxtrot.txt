@@ -3003,7 +3003,7 @@ fifing
 fetlocked 2
 fiestas 1
 fdubs
-fiar 1
+fiar 2
 fricasseeing
 foreordained
 febrifacient 2
@@ -6799,7 +6799,7 @@ foldcourse 1
 fictioneering
 fiberless
 folkmoots 5
-foredoomed
+foredoomed 1
 fleshhook 2
 farinulent
 fervescent 1
@@ -6883,7 +6883,7 @@ finance 2
 failing 3
 frustratingly
 flaggings 3
-figurist
+figurist 1
 foreween
 feline 1
 feretrum
@@ -8564,7 +8564,7 @@ formosity 1
 fidley 1
 flailing 3
 facetiation 1
-firehall 1
+firehall 2
 falsie 3
 fraudproof 1
 fissiparous
@@ -10578,7 +10578,7 @@ forehanded
 forebitten 1
 falltime 1
 forcipiform 2
-franking 2
+franking 3
 frostroot
 fluky 1
 flatus
