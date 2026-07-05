@@ -8905,7 +8905,7 @@ bepimple
 bandoras
 baisakh 2
 biocycle 1
-biocycles 1
+biocycles 2
 biocidal
 bookcases 1
 bioclimatic
@@ -15090,7 +15090,7 @@ bregma
 bordel 1
 bregmate
 brachypinacoidal
-biophyte
+biophyte 1
 brokenheartedness
 brehonia 1
 bovinity
