@@ -2452,7 +2452,7 @@ foreproduct 1
 fermentable 4
 fermentativeness 1
 faradize
-falus 1
+falus 2
 footbridges 2
 fermentescible
 filiform 1
@@ -4234,7 +4234,7 @@ fussification 1
 faulkland 3
 foldstool
 flanky
-fracases 1
+fracases 2
 faxed
 fireplug 1
 firepot 1
@@ -4640,7 +4640,7 @@ fizelyite 1
 fitzroya
 filicides 3
 federatively 2
-faussebraye
+faussebraye 1
 fatherless 2
 fourthly 3
 fatale
@@ -9812,7 +9812,7 @@ frapp 2
 fallacies 1
 falchion 3
 fessways 1
-foolhardiest 1
+foolhardiest 2
 fatigability 1
 fishworm
 farfel 2
@@ -10178,7 +10178,7 @@ fluid 2
 frivolousness 1
 foray
 faunula
-felled
+felled 1
 forgives 4
 fliting 2
 fenite 1
@@ -11736,7 +11736,7 @@ fibroblast
 futwa 3
 fete 1
 formalin 3
-floramor 2
+floramor 3
 frights 1
 fathom
 foliiform 1

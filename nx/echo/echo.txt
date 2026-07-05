@@ -62,7 +62,7 @@ estuarine 1
 empaneling 2
 earliest 1
 enfilading 2
-eastness 2
+eastness 3
 etiam 1
 entapophysial
 educationalism
@@ -11098,7 +11098,7 @@ electors
 expunging
 edo 2
 egoity
-endobronchitis
+endobronchitis 1
 exulceratory
 empower 1
 ekacaesium 2
@@ -11964,7 +11964,7 @@ esthesis 2
 endemic
 electrooptical 4
 ensampler 1
-ecoid
+ecoid 1
 extracostal
 endotheliolysin
 epicedial 1
@@ -12039,7 +12039,7 @@ exclusive 1
 enaunter 1
 exclusiveness
 effectuality
-enforceability 4
+enforceability 5
 enamelled
 epidialogue 1
 endwise 2
