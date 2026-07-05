@@ -2043,7 +2043,7 @@ feltwork 2
 falconet 2
 fourpounder 3
 ferngrower 1
-frontspiece 1
+frontspiece 2
 feinter
 faucalize
 flindosa
@@ -7760,7 +7760,7 @@ flower 3
 firearms 1
 foremast 3
 fritters 1
-fidicula
+fidicula 1
 franciscanism
 fisticuffery 3
 forbiddenly 2
@@ -11490,7 +11490,7 @@ fuzzle 2
 ferrite
 foredescribe
 farms 1
-facilities 1
+facilities 2
 figural 3
 finnmarks 1
 furthest 2
