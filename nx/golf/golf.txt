@@ -164,7 +164,7 @@ grandson 3
 glassworm 1
 goliardic 2
 gerontocratic
-goldbeater 3
+goldbeater 4
 gag 1
 gooseliver 2
 garoted
@@ -3168,7 +3168,7 @@ golilla 2
 greatheartedness 4
 gown 1
 gloater 3
-globosely
+globosely 1
 gepidae
 gremlin
 genethliacally
@@ -3828,7 +3828,7 @@ gloweringly
 gigahertzes 1
 galloperdix
 gigaherz 1
-gymnarchidae 2
+gymnarchidae 3
 genips 4
 giulio 2
 gighe 1
@@ -4383,7 +4383,7 @@ gobby 1
 gregarianism
 grazierdom 1
 grainsickness 1
-gosplan
+gosplan 1
 gammelost
 gunshots
 graminology
@@ -5535,7 +5535,7 @@ grained 2
 goatskin
 gambols 2
 gussies 2
-gestational 2
+gestational 3
 guttar 1
 gazelles
 granuloblast 1
@@ -7862,7 +7862,7 @@ groaners 1
 glutter 2
 globs
 gerents 1
-goosander 1
+goosander 2
 gooroo 1
 gnawing 1
 gurlet
@@ -8436,7 +8436,7 @@ gyves
 guaiacums
 glitzy 1
 goldonian
-gortonite 1
+gortonite 2
 glassweed
 guadagnini
 gavottes 1
