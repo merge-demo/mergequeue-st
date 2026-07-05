@@ -4728,7 +4728,7 @@ encode
 exitance 1
 encoding
 effectivity 1
-embrocate
+embrocate 1
 ergasterion
 enbusshe 1
 epicrisis
@@ -8814,7 +8814,7 @@ equiprobabilist 1
 eternities 3
 egyptologic 1
 enjeopardy 2
-encrypt 2
+encrypt 3
 emptive
 euonymin 1
 enterocystoma 1
@@ -9259,7 +9259,7 @@ empathies
 electrotellurograph
 externalist 1
 exogamous
-expositional
+expositional 1
 ebricty
 entertains
 euchologia 1
