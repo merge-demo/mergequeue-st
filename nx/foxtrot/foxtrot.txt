@@ -1834,7 +1834,7 @@ footwalk
 fritterers 3
 flexographic 2
 frostnipped 1
-fesels
+fesels 1
 firefly
 farcicality 2
 funambulate
@@ -3928,7 +3928,7 @@ fraple 2
 french 1
 ferrocyanogen 4
 falsehearted 2
-furrowed 1
+furrowed 2
 fireboxes
 flemish 4
 frailejon 1
@@ -8169,7 +8169,7 @@ fulgurator 2
 foison 1
 fire
 formulates
-flatcaps 1
+flatcaps 2
 faithful 2
 featurette 2
 fanegadas
