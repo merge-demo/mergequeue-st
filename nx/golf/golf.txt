@@ -620,7 +620,7 @@ gravemaker 1
 guideline
 gramineal 1
 geodetic
-gweducs 1
+gweducs 2
 grottowork
 glutathione 1
 gallon
@@ -6773,7 +6773,7 @@ geochemical 2
 gondola 1
 goniums 5
 gasser
-glanis
+glanis 1
 gelsemin
 garbleable 3
 gesticulate 1
