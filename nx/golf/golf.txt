@@ -2288,7 +2288,7 @@ greyfish
 geognosis 1
 guaranis 1
 gondoliere 1
-ge
+ge 1
 gagsters 1
 gingival
 guige
@@ -2600,7 +2600,7 @@ gabelled
 glaciomarine
 givens 1
 granitize
-gruesomest 2
+gruesomest 3
 grendel 2
 gibbetting 2
 generationism 1
