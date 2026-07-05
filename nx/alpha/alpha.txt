@@ -4033,7 +4033,7 @@ autoimmunized 2
 adlumin
 acierage
 adm 2
-autoalarm 1
+autoalarm 2
 ayelp 2
 abduction 1
 azilut
@@ -11459,7 +11459,7 @@ admonitory
 anhydremia 1
 apodosis 2
 ampullary 2
-ampullate 1
+ampullate 2
 aqueoigneous
 amphioxus 1
 ampulliform
@@ -14462,7 +14462,7 @@ albuminone 2
 antagonizable
 antiprelatism
 abecedarium
-anthracosaurus
+anthracosaurus 1
 anthracosis 2
 abox
 anthracothere 1
