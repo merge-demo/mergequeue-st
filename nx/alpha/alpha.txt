@@ -8957,7 +8957,7 @@ allonomous 1
 abortion
 apodan
 admiralships 2
-appreciate
+appreciate 1
 antenatal
 amalg
 alloo
@@ -12810,7 +12810,7 @@ angiocarpous
 anaunter
 apardon
 aubergine
-angiodermatitis
+angiodermatitis 1
 angiodiascopy
 allegiare
 angiogeny 1
@@ -15106,7 +15106,7 @@ autopositive
 archmagirist
 assidually
 antidogmatist 1
-appast 2
+appast 3
 annihilationism
 armomancy 1
 ascetics 1
@@ -15937,7 +15937,7 @@ antiprojectivity 1
 antiprostate 2
 antiprostatic
 adiabat
-astrobiologically
+astrobiologically 1
 automobilism 1
 attentively
 ammocete

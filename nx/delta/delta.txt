@@ -3742,7 +3742,7 @@ doughlike
 depolarized
 dehorted
 damaskine
-defatigate
+defatigate 1
 dehorting
 digitoxin 1
 decompensation 1
@@ -9433,7 +9433,7 @@ deglut
 destructively 2
 digamma 2
 demilegato
-downfeed 1
+downfeed 2
 dodgier 1
 disworkmanship 1
 drunkelew 1
@@ -11088,7 +11088,7 @@ deaminated
 discographic 1
 disassent
 darin
-disassimilative
+disassimilative 1
 disinherits 1
 disassociate 1
 disassociates
@@ -12953,7 +12953,7 @@ dolomitized
 dejectile 3
 distitle
 disuniformity
-delusionist 1
+delusionist 2
 disfavourer
 dialoguing
 drang
@@ -14803,7 +14803,7 @@ dewata 3
 diswarren 2
 decidua
 docs
-doctor 1
+doctor 2
 doctorally 1
 dumontite
 doctored
@@ -16879,7 +16879,7 @@ diffidence
 demargarinate 1
 drawspring 1
 dispersible 1
-divergingly
+divergingly 1
 debasers 1
 discophile
 donnishness
@@ -17359,7 +17359,7 @@ desirers
 dodecanal
 dehumanised
 doa 1
-deregulate
+deregulate 1
 drooly 1
 doorstep 1
 defections
