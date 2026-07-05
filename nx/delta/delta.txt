@@ -523,7 +523,7 @@ dalt 1
 dalton
 denomination 1
 dermaskeleton
-dama
+dama 1
 damageability 2
 damageably 1
 detonatable 1
