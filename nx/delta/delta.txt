@@ -6657,7 +6657,7 @@ dustrags 1
 deservers 1
 dollmaker
 droplight
-decadianome
+decadianome 1
 drawarm 1
 donatistical
 dipneedle
@@ -10285,7 +10285,7 @@ disassociable 2
 dibucaine 2
 dearly 1
 draftmanship
-dighting 1
+dighting 2
 draughting
 dames 1
 dionysia
