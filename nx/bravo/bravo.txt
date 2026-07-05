@@ -1428,7 +1428,7 @@ battable 1
 balefires
 bewreak 2
 barmbrack 2
-baleys
+baleys 1
 baleise 2
 bougainvillaea 1
 beslave 1
@@ -3727,7 +3727,7 @@ baylike
 bettong 2
 batty 1
 bacbakiri
-barny
+barny 1
 brookflower 1
 beild 2
 battier
@@ -6531,7 +6531,7 @@ breadstuff 1
 bewelcome 1
 bavarois 1
 beaming 1
-blameable 1
+blameable 2
 bilsted
 bagel
 barytones
@@ -9501,7 +9501,7 @@ beaconage
 baselard 2
 bemonster 2
 barristership
-birretta 1
+birretta 2
 barney 1
 binomialism 1
 backachy 2
