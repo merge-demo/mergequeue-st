@@ -2576,7 +2576,7 @@ foremastmen
 firefanging 2
 ferryway
 finding 2
-finlike 1
+finlike 2
 faddishness 2
 fishponds
 feinting 1
@@ -11135,7 +11135,7 @@ filamentous
 frostbit 1
 fatwood 1
 febres
-fearlessness 2
+fearlessness 3
 fisticuffs 1
 franca 1
 forecarriage 2
@@ -11224,7 +11224,7 @@ fasciolae
 fictil
 frittata
 farads 1
-firer 1
+firer 2
 failles 1
 flamethrowers 1
 fieldsman 2
