@@ -3545,7 +3545,7 @@ additum
 aflaunt 1
 acetimeter
 adenosis 1
-anticorset 1
+anticorset 2
 acyloxymethane 1
 agamobia
 addlebrained 1
@@ -6925,7 +6925,7 @@ anapaestically
 algonkian
 aircrewman
 archdolt
-arrivederci
+arrivederci 1
 androscoggin
 aggrieving
 anatinacea
@@ -7076,7 +7076,7 @@ appraisingly
 akebia 1
 actinia 1
 abjudicator
-aguacateca
+aguacateca 1
 asparaginous
 adoniram
 adductive 1
@@ -12857,7 +12857,7 @@ angiorrhaphy 1
 absurdist 2
 angiorrhea 2
 armorwise
-ammocoetid
+ammocoetid 1
 angioscope 1
 angiosymphysis 1
 adventurers
