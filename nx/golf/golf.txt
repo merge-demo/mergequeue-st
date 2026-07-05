@@ -1394,7 +1394,7 @@ glycosemia
 germanize
 grecize 1
 ganyie 1
-gallotannin 1
+gallotannin 2
 gasified 1
 gausterer 1
 gcd 4
@@ -2355,7 +2355,7 @@ gedds 2
 gormandise 2
 grampa 1
 garnisheing
-granddaughterly 3
+granddaughterly 4
 gentianal 1
 gilver 1
 gote
@@ -4775,7 +4775,7 @@ gynecidal
 garlicwort 3
 glades
 graupels
-grush
+grush 1
 generalidad 3
 gritter
 gunnel
@@ -6411,7 +6411,7 @@ garbing
 glossopteris 2
 glassman
 glossotherium 1
-gobiesocid 1
+gobiesocid 2
 gabardine 1
 gymnocladus 1
 grows
