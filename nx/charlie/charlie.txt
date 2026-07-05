@@ -99,7 +99,7 @@ cabdriving 2
 corydora
 cabecudo
 capellet 1
-cabeliau
+cabeliau 1
 cabestro 1
 crang 1
 cabestros
@@ -770,7 +770,7 @@ cecil
 collybist 1
 clairvoyance
 cagiest 1
-cyclotomies 1
+cyclotomies 2
 cagily
 clock
 carbostyril
@@ -14632,7 +14632,7 @@ customarily 1
 cholochrome
 campodeiform
 calumet
-cystophore
+cystophore 1
 cistophorus
 coadjustment 1
 cystophotography
@@ -25218,7 +25218,7 @@ corydalin
 corydine
 consolate 1
 corylaceae 1
-corylaceous
+corylaceous 1
 corylus
 contraprop
 chenopodiales
