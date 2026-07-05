@@ -816,7 +816,7 @@ forbecause 1
 fanon 1
 fronted
 felichthys
-fingermark
+fingermark 1
 funereally 2
 fashioner
 finestill
@@ -1150,11 +1150,11 @@ fungistatically
 fascine 3
 fishmeals
 furring
-fascintatingly 3
+fascintatingly 4
 flavopurpurin 3
 forcer 1
 filicineae
-fraying 1
+fraying 2
 friponerie 3
 focalize
 funder 1
@@ -5586,7 +5586,7 @@ flockowner 4
 fossicking 1
 forgette 3
 fader
-fibrinocellular
+fibrinocellular 1
 flycatchers
 flicflac
 financialist
@@ -8387,7 +8387,7 @@ foundling 1
 florulae 2
 flaking 2
 fils 1
-furriner
+furriner 1
 flagellata 1
 forkedness 3
 flinthearted
@@ -8560,7 +8560,7 @@ fetiparous 3
 fetlock 2
 foresound
 fiddledeedee 1
-formosity 1
+formosity 2
 fidley 1
 flailing 3
 facetiation 1
@@ -9174,7 +9174,7 @@ fratricidal
 frusta 1
 fireroom 1
 fooner
-flytings 2
+flytings 3
 froisse 1
 fracid
 frizzier
@@ -9865,7 +9865,7 @@ fretum 1
 fidget
 fluors
 fovilla 1
-freudian 2
+freudian 3
 filthiness 1
 furlable
 fluorenyl
@@ -11172,7 +11172,7 @@ frumple
 francas 3
 fingerhold
 footnoted 1
-ferulae 1
+ferulae 2
 flowerbed
 forefather 1
 firemaster 2
