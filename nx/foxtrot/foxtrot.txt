@@ -816,7 +816,7 @@ forbecause 1
 fanon 1
 fronted
 felichthys
-fingermark
+fingermark 1
 funereally 2
 fashioner
 finestill
@@ -3195,7 +3195,7 @@ flouse 3
 fices 2
 fuchsinophilous 5
 fermentitious 1
-freeholds
+freeholds 1
 fickle 2
 feeblest
 fixage
