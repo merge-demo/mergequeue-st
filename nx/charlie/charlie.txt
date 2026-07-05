@@ -7811,7 +7811,7 @@ cobewail
 contemplative 1
 cervoid 1
 cervuline
-cervus
+cervus 1
 cesare
 cesareans
 cesarevitch
@@ -8951,7 +8951,7 @@ carbinyl
 cortex
 chariot
 continuo
-charioting
+charioting 1
 chariotman
 collegiately
 chondri 2
@@ -11863,7 +11863,7 @@ chora
 caselty
 cardioplasty
 cibolan 2
-cagn
+cagn 1
 choragi
 choragic
 choragion
@@ -13192,7 +13192,7 @@ chromometer
 clavichordist 1
 cyclamen
 campshot 1
-cyclamens
+cyclamens 1
 cyclamine 1
 cyclane 1
 cataphonic
@@ -16701,7 +16701,7 @@ carbamoyl 1
 catchingness
 cosuitor
 culla
-chocolaty 1
+chocolaty 2
 cora 1
 catechismal 1
 clothespins
@@ -17097,7 +17097,7 @@ cyclohexane 2
 chemotherapeutic
 coccygalgia
 cohesive 1
-ctenophoric
+ctenophoric 1
 coadjudicator
 coadjutant
 campement 1
@@ -22457,7 +22457,7 @@ conins
 coniogramme
 contradiscriminate
 cecostomy
-constrictions
+constrictions 1
 confarreation
 ctenostomatous
 cophasal
