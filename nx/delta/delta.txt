@@ -1174,7 +1174,7 @@ daimios
 diploconical
 dimera 1
 dianoetical 2
-dade
+dade 1
 detrited
 decrementing 1
 docimastic 1
@@ -6553,7 +6553,7 @@ duet
 dermol
 danburite 1
 desdemona 2
-disinvest 1
+disinvest 2
 desecrated
 dilemmatical
 dipole 1
@@ -10768,7 +10768,7 @@ detachably
 dirdums
 demirelief 1
 directdiscourse 1
-diastereoisomeric
+diastereoisomeric 1
 draine
 dulanganes
 directer 2
@@ -15657,7 +15657,7 @@ desi 2
 docile 2
 dunce
 dartrose 1
-didrachma 2
+didrachma 3
 defatted
 decollator
 doric 1
@@ -15687,7 +15687,7 @@ dorado
 doralium
 diabetical
 downbye 2
-dorask 1
+dorask 2
 dorbeetle
 deflectors 2
 dissava
