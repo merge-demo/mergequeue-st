@@ -10718,7 +10718,7 @@ blenching
 blend
 bestill
 bilateralness 2
-blendwater 1
+blendwater 2
 broadish 2
 bowhead
 blenheim 3
@@ -12288,7 +12288,7 @@ blee 1
 bombaster 2
 bodock 1
 bowfront
-biquartz 1
+biquartz 2
 brogans
 biflected 2
 boltrope 1
@@ -15008,7 +15008,7 @@ breathe
 bravuraish 2
 blennophlogisma 1
 breathes
-bookishly
+bookishly 1
 barbastel 1
 bepaper 2
 breathless 1
