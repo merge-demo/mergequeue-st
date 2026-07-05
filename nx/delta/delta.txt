@@ -7349,7 +7349,7 @@ detersiveness 1
 disunions 1
 detestation 1
 detestations 1
-dethronement
+dethronement 1
 diminute
 dethronements
 dethrones 1
@@ -8394,7 +8394,7 @@ disnaturing
 detentes
 diallagic 1
 dogmaticalness 1
-diallagite 3
+diallagite 4
 dt 1
 dishonorably 2
 discoidea 2
