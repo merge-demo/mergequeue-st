@@ -5089,7 +5089,7 @@ casas 1
 cojudge
 coevolve
 colisepsis
-cerianthus
+cerianthus 1
 casate 1
 closemouthed
 casava
@@ -14414,7 +14414,7 @@ caryatidean 2
 charquis
 cannot
 cyriologic
-concord
+concord 1
 caddoan
 connotively
 continuity 1
@@ -18571,7 +18571,7 @@ coifing
 coeducate 1
 conner
 catheptic
-canonists
+canonists 1
 coigne
 cader
 cutted 1
@@ -22913,7 +22913,7 @@ cassaba
 couchette
 ceratoid
 conservers
-colposcope
+colposcope 1
 circuitry 1
 collated
 councilist
