@@ -1643,7 +1643,7 @@ eider
 ectomorphism 2
 emendandum 2
 exsecting
-enshielding 1
+enshielding 2
 epilemmal 1
 eidograph 1
 eclogues
@@ -9700,7 +9700,7 @@ elementarism 3
 embryol 1
 escopette 1
 external 1
-extraprostatic 1
+extraprostatic 2
 epicoelar
 extraterritorial 4
 essedones 1
@@ -10885,7 +10885,7 @@ examinationism
 euphemisation
 enarme
 euphemise 2
-elected 3
+elected 4
 euphemising 1
 enshroud 1
 euphemistically
@@ -12222,7 +12222,7 @@ emerized 1
 excelse 1
 entreatingly 2
 execratively 1
-excreter
+excreter 1
 enragedness 3
 economised
 emoluments 2
