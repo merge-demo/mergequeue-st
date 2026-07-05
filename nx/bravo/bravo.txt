@@ -319,7 +319,7 @@ beseige 1
 bomi
 backcap
 backchats 1
-boule 1
+boule 2
 burg 1
 beneficially
 backcross
@@ -5102,7 +5102,7 @@ backfatter
 brindled
 bowellike 1
 bejuco
-boatmaster
+boatmaster 1
 befittingness 1
 behoof
 boundedness 2
@@ -5406,7 +5406,7 @@ babelic 2
 begulf 3
 blastomycotic 1
 begummed
-biolite
+biolite 1
 bowldering
 bedin 1
 betwit
@@ -7621,7 +7621,7 @@ blandished 1
 bimolecular 1
 beechy 1
 bollandist
-bebed 1
+bebed 2
 bakshish
 brog 1
 bullocks
@@ -10068,7 +10068,7 @@ bizarreness 1
 blacklisting 1
 boudoiresque
 baseband 2
-bizonal
+bizonal 1
 bioseston
 brings
 bellpulls
@@ -12633,7 +12633,7 @@ bronchocele
 beatniks
 bagels 1
 baguets 1
-beleaguerment 3
+beleaguerment 4
 bodeful
 bulged
 brasero
