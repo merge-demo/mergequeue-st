@@ -471,7 +471,7 @@ cad
 cadamba 1
 cryptocrystalline 1
 cadaster 1
-cadasters 1
+cadasters 2
 cadastral 1
 cadastration
 cadastres
@@ -6530,7 +6530,7 @@ cynicisms
 cavitary
 closeup 2
 cystophthisis
-cauliculi
+cauliculi 1
 cavitated
 consulter
 changefulness
@@ -11918,7 +11918,7 @@ choreal
 cyclop
 choreatic
 chored
-characteristical 1
+characteristical 2
 cimex 1
 camata
 calculative
@@ -18602,7 +18602,7 @@ corralled
 connex 1
 cob
 clanless 1
-coimplore
+coimplore 1
 coyn
 cosmometry
 coinable 1
@@ -22082,7 +22082,7 @@ confluxibility 1
 conglaciate
 confluxible
 coempt
-champert
+champert 1
 conormal 1
 cardia 1
 cheateries
@@ -23626,7 +23626,7 @@ contortedness 1
 cannier
 commissionating
 chronothermometer
-contortion
+contortion 1
 contortional
 contortionate 2
 contortionist
@@ -30909,7 +30909,7 @@ coralflower 1
 churchliness 2
 cultisms
 cetotolite
-cultistic 1
+cultistic 2
 checkerbreast
 cultivability 1
 cactaceous 1
