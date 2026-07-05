@@ -5260,7 +5260,7 @@ fossilage 1
 fills 1
 fstore 1
 fissiped 2
-flavoured
+flavoured 1
 fondant 1
 flavourful 1
 flexionless
