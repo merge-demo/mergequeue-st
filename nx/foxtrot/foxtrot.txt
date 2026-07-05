@@ -747,7 +747,7 @@ foreglimpse
 fancied 1
 frazzled 3
 frig 1
-fetidness 2
+fetidness 3
 fezzan 3
 fibroangioma 2
 ferv 2
@@ -4606,7 +4606,7 @@ fitchee
 fibrocalcareous 3
 filagrees
 ferring 1
-flowmanostat
+flowmanostat 1
 folsom 1
 footweary
 forborn
@@ -9725,7 +9725,7 @@ fallalishly 1
 forastero 2
 formulating
 facty 3
-femoral 3
+femoral 4
 flagstone 2
 fingerroot 1
 functorial
@@ -10398,7 +10398,7 @@ formicaries 1
 fantoddish
 fibreware 1
 forswore
-flatmate
+flatmate 1
 focoids 1
 footgeld 1
 ferrocalcite
