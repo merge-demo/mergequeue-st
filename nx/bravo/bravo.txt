@@ -3960,7 +3960,7 @@ bassette
 bunch
 bristols
 behelp
-bdellovibrio
+bdellovibrio 1
 brushbird 1
 bakerite
 butanes
@@ -10857,7 +10857,7 @@ blickies 1
 britskas 1
 bloodlike 1
 belauds
-blastomycetic 2
+blastomycetic 3
 blowgun 1
 blighters 1
 bestowing
