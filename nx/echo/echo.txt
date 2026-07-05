@@ -2351,7 +2351,7 @@ emulsifying 1
 esterizing 2
 egba 1
 episteme 1
-electrocolloidal 1
+electrocolloidal 2
 eurobin
 edulcoration
 exhaustable
@@ -5846,7 +5846,7 @@ engluts 2
 estamp
 erasures 1
 erg
-engreaten 2
+engreaten 3
 evirtuate
 evan
 enocyte 1
@@ -6515,7 +6515,7 @@ eatings
 entasis 2
 elemin 1
 emiction
-endothelioma
+endothelioma 1
 eclectic 2
 engroove 1
 entelechies
@@ -8590,7 +8590,7 @@ embouchures
 electrovital 1
 espavel 3
 equielliptical 1
-equigranular 5
+equigranular 6
 equilateral 1
 eriogonum 1
 equilibrant
@@ -9697,7 +9697,7 @@ eldred
 esse 1
 evangelizing
 elementarism 3
-embryol
+embryol 1
 escopette 1
 external 1
 extraprostatic 1
@@ -10414,7 +10414,7 @@ endemiological
 electrotheraputical 1
 ecblastpsis 1
 epileptical 1
-educators
+educators 1
 excrementitious 1
 extusion 1
 echinate
@@ -10676,7 +10676,7 @@ extentions
 euergetes
 epimyth 1
 embryotrophe
-eunuchs
+eunuchs 1
 easeless 1
 echolocation 1
 enarbor 1
@@ -11185,7 +11185,7 @@ echinoidea 2
 equilin 1
 earthlier 2
 evades 2
-evadingly 1
+evadingly 2
 easygoing 1
 emprime 1
 elinguation 1
@@ -11826,7 +11826,7 @@ enrolment 1
 elaphrium
 exaudi 2
 ethenoidal 2
-earthrise
+earthrise 1
 ectomorphy
 euglenida 1
 ectothermic 1
