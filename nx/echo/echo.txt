@@ -5458,7 +5458,7 @@ emotion 1
 encake 1
 electroscope 2
 elritch
-ectocarpic
+ectocarpic 1
 excitate 2
 equiformity
 england 1
@@ -6657,7 +6657,7 @@ exploitations 1
 elongations
 enterprize
 expertising 1
-entosclerite 4
+entosclerite 5
 eulogiser 1
 equitation 1
 ecrevisse
