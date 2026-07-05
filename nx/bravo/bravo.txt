@@ -304,7 +304,7 @@ bother 1
 backblow 1
 backboard 1
 benthamic 2
-brieflessness 1
+brieflessness 2
 bannerless 2
 butterflying 1
 backbone
@@ -2119,7 +2119,7 @@ bioflavinoid 1
 bannock
 buyers
 bittier 2
-boilinglike 1
+boilinglike 2
 banovina 1
 banquet 2
 blindish
@@ -5543,7 +5543,7 @@ bloodsucker 1
 bescribble
 belaites
 bromomenorrhea
-bournonite 1
+bournonite 2
 blowziest
 bhava 1
 blockline
@@ -7497,7 +7497,7 @@ beneaped 2
 bursitos
 brachypodine 1
 booteries 1
-blubbered 3
+blubbered 4
 beurre
 beveil 1
 bevelled
@@ -10271,7 +10271,7 @@ boracic 1
 blacksmithing 1
 biochemy 1
 beastdom
-botargo
+botargo 1
 bradypnoea 2
 boyang 1
 beehead
@@ -12424,7 +12424,7 @@ bowerlike
 bonbon 1
 betsimisaraka 2
 behap 2
-backcast
+backcast 1
 begloom 1
 bonbons
 batell 1
@@ -15706,7 +15706,7 @@ bacteriosis
 bisulcated 1
 bosoming 1
 bluster
-botulismus 2
+botulismus 3
 blastomycetes 2
 burr 1
 beholder 1
@@ -16492,7 +16492,7 @@ borasque 1
 bimillennium
 bozal
 biomaterial
-breathableness 1
+breathableness 2
 bequote
 biasness 1
 bursattee
@@ -18004,7 +18004,7 @@ benzylamine
 battutas 1
 bordman 3
 biking 1
-bankruptcies 2
+bankruptcies 3
 benevolence 1
 bacteriophobia
 blastemas
