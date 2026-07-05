@@ -3960,7 +3960,7 @@ bassette
 bunch
 bristols
 behelp
-bdellovibrio
+bdellovibrio 1
 brushbird 1
 bakerite
 butanes
@@ -5456,7 +5456,7 @@ brettice 1
 behymn
 brutes
 behither 1
-bendways 1
+bendways 2
 bechamel 1
 bonce
 bahmani 1
