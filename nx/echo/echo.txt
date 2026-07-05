@@ -4355,7 +4355,7 @@ evacuates 1
 enations 2
 escuela 1
 enbrave
-eggheadedness 2
+eggheadedness 3
 embar 2
 egotize 1
 eruptively
@@ -7752,7 +7752,7 @@ electropneumatic 1
 expectably 1
 elementality
 encyclopaedize 2
-excircle
+excircle 1
 evanescence 1
 engagement
 elaboration 2
@@ -11800,7 +11800,7 @@ erwin 2
 extracorpuscular 1
 euripidean 2
 ekphore
-eversive 2
+eversive 3
 epimerise 1
 extrospective 2
 epirot
@@ -12559,7 +12559,7 @@ excoecaria 2
 existentialist
 effluvious
 existentialistically 1
-eupione
+eupione 1
 enzymology 1
 exculpative 2
 extoolitic
