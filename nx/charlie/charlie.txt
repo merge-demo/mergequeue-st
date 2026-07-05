@@ -3795,7 +3795,7 @@ carbazole
 carbeen 1
 cantorian
 carbide
-classicize 1
+classicize 2
 carbyl
 catchy
 cenacle
@@ -8220,7 +8220,7 @@ chalcanth
 chalcedony
 calabrasella 2
 chalcedonyx
-chalchuite
+chalchuite 1
 chalcidian
 chalcidicum
 caird
@@ -18433,7 +18433,7 @@ cognomination
 cognoscent
 changeling 1
 cognoscente
-cognoscing
+cognoscing 1
 cognoscitive
 cognovit
 cricketings
@@ -21979,7 +21979,7 @@ configurations 1
 configurative
 configure
 configures 1
-coxcombry
+coxcombry 1
 confinable 2
 confine
 comports
@@ -23537,7 +23537,7 @@ contestless 1
 cassida
 contests 1
 cirratulus 2
-chinquapin
+chinquapin 1
 clodding
 constatations
 contextive

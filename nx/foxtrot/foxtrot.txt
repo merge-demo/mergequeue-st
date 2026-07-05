@@ -953,7 +953,7 @@ feats 2
 faretta
 foresaid
 forecourse
-firth 1
+firth 2
 foldable 2
 fervid 3
 formidolous 2
@@ -2072,7 +2072,7 @@ foys
 fwelling 1
 flocky
 foggara 2
-filibuster
+filibuster 1
 famishes 2
 fumage 1
 fructidor 2
@@ -2350,7 +2350,7 @@ fatal 3
 fairyship 2
 fronton 2
 fetations 2
-frauder 2
+frauder 3
 filmable
 flanneled
 fencelike 1
@@ -2473,7 +2473,7 @@ firstcomer 1
 fireproofing
 fishhood 1
 fuddlement 1
-footscraper 3
+footscraper 4
 fermillet 3
 favonian 1
 floripondio
@@ -3342,7 +3342,7 @@ fidge 2
 frogfoot
 fractionally 1
 fidgeted
-faultage 1
+faultage 2
 foilsmen 1
 floorers
 frowsiest 1
@@ -7644,7 +7644,7 @@ funfest 2
 foolhardy
 furcate 2
 flaxy
-flashlights 1
+flashlights 2
 fortyish
 frankmarriage 1
 filling 2
@@ -9515,7 +9515,7 @@ franks 3
 frameable 2
 frequenting 2
 fraudfully 5
-fyces 2
+fyces 3
 flaws 2
 forearmed 1
 flatcap
