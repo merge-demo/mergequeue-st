@@ -14,7 +14,7 @@ cabaho 1
 cabal 2
 condylarthrous
 cryptostoma
-chevance
+chevance 1
 chaenomeles
 cows 1
 crease
@@ -471,7 +471,7 @@ cad
 cadamba 1
 cryptocrystalline 1
 cadaster 1
-cadasters 1
+cadasters 2
 cadastral 1
 cadastration
 cadastres
@@ -6530,7 +6530,7 @@ cynicisms
 cavitary
 closeup 2
 cystophthisis
-cauliculi
+cauliculi 1
 cavitated
 consulter
 changefulness
@@ -9395,7 +9395,7 @@ chazanim 1
 capette 1
 chazans
 chazanut
-chazy
+chazy 1
 circularwise
 curtly
 chazzans
@@ -11918,7 +11918,7 @@ choreal
 cyclop
 choreatic
 chored
-characteristical 1
+characteristical 2
 cimex 1
 camata
 calculative
@@ -16050,7 +16050,7 @@ coxalgia 1
 clich
 cliche
 cryopathy
-click 1
+click 2
 clicked 1
 clicker
 corneitis
@@ -18602,7 +18602,7 @@ corralled
 connex 1
 cob
 clanless 1
-coimplore
+coimplore 1
 coyn
 cosmometry
 coinable 1
@@ -22082,7 +22082,7 @@ confluxibility 1
 conglaciate
 confluxible
 coempt
-champert
+champert 1
 conormal 1
 cardia 1
 cheateries
