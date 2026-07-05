@@ -3623,7 +3623,7 @@ dubbing
 dissonance
 deglory 1
 dec 2
-disarrangement 1
+disarrangement 2
 decubation
 denounced
 despisement 1
@@ -3720,7 +3720,7 @@ dehkan 2
 durmasts 1
 decimate
 dehonestation 1
-disoccupied 1
+disoccupied 2
 dehorn 1
 dolcan
 desmose
@@ -3859,7 +3859,7 @@ dinobryon
 deixis
 decreases 3
 diduce
-daphnite
+daphnite 1
 desilicated
 deja 1
 dejection
@@ -4000,7 +4000,7 @@ dysarthric 2
 domineeringness
 directitude
 desuetudes 1
-dislikeful
+dislikeful 1
 dysepulotic 1
 deliberalization 1
 duiker 1
@@ -4905,7 +4905,7 @@ dissentious
 dictators
 demoraliser 2
 demoralising 1
-defecter 3
+defecter 4
 diacrisis
 dicrostonyx 1
 defailment
@@ -7323,7 +7323,7 @@ determined 1
 dextropedal
 diphenylenimide 2
 detorsion
-deashed 1
+deashed 2
 disagreed 1
 dermatopathophobia 1
 disvulnerability 1
@@ -7428,7 +7428,7 @@ detrainment
 detrect 1
 detrench 1
 dismoded 3
-degradation 1
+degradation 2
 diapensia
 daddynut
 daroga 1
@@ -10218,7 +10218,7 @@ defibrination 1
 desobligeant
 decoys
 dissolutionist 1
-dinophilea 1
+dinophilea 2
 discontinuance 1
 depute
 dealfishes
@@ -16262,7 +16262,7 @@ deteriorate
 downface
 downstair 2
 duodenocystostomy 1
-deadlocking
+deadlocking 1
 dacryolite 1
 dipsaceous 2
 denominationalist
