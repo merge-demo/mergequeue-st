@@ -555,7 +555,7 @@ blit 3
 backwardness 1
 belgium 1
 bakerlike 2
-bootboy
+bootboy 1
 blackie
 burrock
 brickiest 1
@@ -2610,7 +2610,7 @@ blawed
 bridgelike 1
 barkary
 bluestocking
-barkbound 1
+barkbound 2
 bamoth
 betterments
 barkcutter 1
@@ -9996,7 +9996,7 @@ bawdy
 ballottine
 blairmorite 2
 bivalvia 1
-bivalvian
+bivalvian 1
 baddock
 bivascular 1
 bismuthyl
@@ -10284,7 +10284,7 @@ boltonite 1
 bliaut 2
 ballsy
 bogyism 1
-byroniana 1
+byroniana 2
 blacktops
 blastoporphyritic 3
 barking
@@ -14050,7 +14050,7 @@ blubbering
 bibliotaphe 1
 brachialis
 breezeways 2
-bunger 1
+bunger 2
 blindstory 1
 baitylos 1
 believed 1
