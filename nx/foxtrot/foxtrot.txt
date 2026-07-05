@@ -492,7 +492,7 @@ fakery 1
 flaxweed 2
 funbre 4
 frisch 1
-fertilizing 3
+fertilizing 4
 frenne 2
 filicite 2
 faking 4
@@ -4276,7 +4276,7 @@ fastuous 1
 firk 1
 febrifuges 2
 filacer
-fleers
+fleers 1
 fiancee 1
 follicule
 fibster
@@ -5765,7 +5765,7 @@ filliping 3
 forelive 2
 footlessness 1
 filipiniana
-figmental 1
+figmental 2
 folksay 1
 frise 2
 flocking
@@ -11107,7 +11107,7 @@ factfinder
 flagellated 2
 flockless 2
 fangled 1
-functors 2
+functors 3
 formational 1
 foulard
 functus 1
