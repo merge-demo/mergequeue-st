@@ -304,7 +304,7 @@ bother 1
 backblow 1
 backboard 1
 benthamic 2
-brieflessness 1
+brieflessness 2
 bannerless 2
 butterflying 1
 backbone
@@ -465,7 +465,7 @@ benzhydroxamic
 brontosauri 1
 borrel
 backspaced
-backspacer 1
+backspacer 2
 bundist
 blockades 1
 bacillogenic 2
@@ -1091,7 +1091,7 @@ bepraisement
 boogymen
 biogenic 2
 bedizenment
-baioc
+baioc 1
 begattal 1
 braciole 1
 boresomeness
@@ -3718,7 +3718,7 @@ bankrupted
 bucketmaker 1
 beltis
 batterie 1
-breck
+breck 1
 batterman
 blennemesis 1
 bullockman 2
@@ -4187,7 +4187,7 @@ beastship
 beat 1
 benches 2
 beatee
-bleery 1
+bleery 2
 beatifical 1
 benchlet 1
 beatifically 2
@@ -4844,7 +4844,7 @@ brackens 1
 brooklets 1
 bazoos 1
 billback 1
-buttercups 1
+buttercups 2
 bath 2
 boilerless 1
 brainstorm
@@ -7497,7 +7497,7 @@ beneaped 2
 bursitos
 brachypodine 1
 booteries 1
-blubbered 3
+blubbered 4
 beurre
 beveil 1
 bevelled
@@ -10271,7 +10271,7 @@ boracic 1
 blacksmithing 1
 biochemy 1
 beastdom
-botargo
+botargo 1
 bradypnoea 2
 boyang 1
 beehead
@@ -12424,7 +12424,7 @@ bowerlike
 bonbon 1
 betsimisaraka 2
 behap 2
-backcast
+backcast 1
 begloom 1
 bonbons
 batell 1
@@ -13989,7 +13989,7 @@ bensel
 bothlike
 boxwoods
 bozo
-basher
+basher 1
 bonesetter 1
 brittlest 1
 ballcarrier
@@ -16393,7 +16393,7 @@ blueing
 brummagen 1
 baculitic 1
 botanist
-brummy 2
+brummy 3
 byth 1
 brumous
 brumstane 1
@@ -16492,7 +16492,7 @@ borasque 1
 bimillennium
 bozal
 biomaterial
-breathableness 1
+breathableness 2
 bequote
 biasness 1
 bursattee
@@ -16616,7 +16616,7 @@ buccaneer
 buccaneerish 2
 buccaning
 beraunite
-buccanned 1
+buccanned 2
 brimmingly
 bent 2
 buccanning
@@ -17839,7 +17839,7 @@ blutwurst
 bastardizing
 brouille
 botein
-burthen
+burthen 1
 betocsin
 bacteriaceous 1
 burthens 2
@@ -17969,7 +17969,7 @@ busybody
 brachysm 3
 baho 2
 bonfire 1
-busybodyism 1
+busybodyism 2
 brachystochrone 2
 basilosauridae 1
 bullae 1
@@ -18004,7 +18004,7 @@ benzylamine
 battutas 1
 bordman 3
 biking 1
-bankruptcies 2
+bankruptcies 3
 benevolence 1
 bacteriophobia
 blastemas
