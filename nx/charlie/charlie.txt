@@ -5410,7 +5410,7 @@ castes
 catapults
 chrysanthemin
 casteth 1
-crossbench
+crossbench 1
 castice
 castigable
 confederates
@@ -7733,7 +7733,7 @@ certificates 1
 chincherinchees
 certifications
 chronotropism
-certificative 1
+certificative 2
 certificatory 2
 certifier
 certifiers
@@ -18513,7 +18513,7 @@ cohibit
 cohibition
 chinks
 cohibitor 1
-cohitre 1
+cohitre 2
 chandlering
 collieries
 cohobator 1
@@ -23480,7 +23480,7 @@ contemptuous
 contemptuously
 cruelty
 contended
-contendent
+contendent 1
 contending
 contendress 1
 cornstalk
@@ -26474,7 +26474,7 @@ civilizing
 covets
 cotoros 1
 cellulase
-calligraph
+calligraph 1
 cotorture
 corymbosely
 chorography
