@@ -8905,7 +8905,7 @@ bepimple
 bandoras
 baisakh 2
 biocycle 1
-biocycles 1
+biocycles 2
 biocidal
 bookcases 1
 bioclimatic
@@ -11172,7 +11172,7 @@ beliquors 1
 ballow
 blindages 2
 beknot 1
-bitewings 1
+bitewings 2
 breveted 1
 boronia
 bumelia 1
@@ -13701,7 +13701,7 @@ bragas
 blanketmaker 3
 branched
 behaviourism 1
-balanceman 1
+balanceman 2
 blenchers
 bowlfuls
 brashly
@@ -15090,7 +15090,7 @@ bregma
 bordel 1
 bregmate
 brachypinacoidal
-biophyte
+biophyte 1
 brokenheartedness
 brehonia 1
 bovinity
