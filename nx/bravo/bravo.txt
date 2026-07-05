@@ -780,7 +780,7 @@ badiner 1
 birt
 badious 2
 betrays
-bellybutton
+bellybutton 1
 bicentennially 3
 badland 1
 badlands
@@ -814,7 +814,7 @@ browniness 1
 blautok
 baetulus 1
 boothose
-batrachophobia 2
+batrachophobia 3
 benignness
 blake
 baffies
@@ -5697,7 +5697,7 @@ barkpeeling
 bluism
 berreaved
 belgard
-beater
+beater 1
 belgrade 3
 bogwood
 buries
@@ -8012,7 +8012,7 @@ bedabbles
 burntly
 biciliated
 backwoodser
-bicylindrical
+bicylindrical 1
 beatus
 bicipital 1
 bewilderedness 1
@@ -9966,7 +9966,7 @@ bituminosis 1
 biologically 1
 bennettitaceae 1
 bravas 1
-boree
+boree 1
 brian 1
 baalisms
 bx 1
@@ -11191,7 +11191,7 @@ baloghia
 bloomeries 1
 begash
 boodleize 3
-bloodsuck
+bloodsuck 1
 bloomingly 2
 boleti 1
 biometer 1
@@ -16868,7 +16868,7 @@ breards
 bufflehead 1
 breekums 1
 bounders
-buffont 1
+buffont 2
 bactericidally
 buffooneries
 benzoxycamphor

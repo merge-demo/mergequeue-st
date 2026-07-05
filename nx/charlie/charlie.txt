@@ -3481,7 +3481,7 @@ comprehends
 casimir
 craniovertebral
 capsella 1
-calyptras
+calyptras 1
 capshore 1
 capsian 1
 collectress
@@ -7733,7 +7733,7 @@ certificates 1
 chincherinchees
 certifications
 chronotropism
-certificative 1
+certificative 2
 certificatory 2
 certifier
 certifiers
@@ -8359,7 +8359,7 @@ chamaelirium
 chamaepericlymenum
 chamaephyte 1
 chamaesiphonales
-chamar
+chamar 1
 chambered
 chamberlainry
 caccia
@@ -22617,7 +22617,7 @@ connection
 connectival
 connective
 connectively 1
-clavichordists
+clavichordists 1
 convallariaceous
 catholicate
 connector 1
@@ -25941,7 +25941,7 @@ corticiferous
 cordula 2
 corticifugally
 catchier
-corticine
+corticine 1
 corticipetal 1
 collegiate
 corticoafferent 2
