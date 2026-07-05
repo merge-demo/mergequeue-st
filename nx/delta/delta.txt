@@ -2566,7 +2566,7 @@ declinatory
 declines
 declining
 directrices 1
-declivent
+declivent 1
 derive
 dreamlike
 declivity
@@ -9450,7 +9450,7 @@ decubitus
 dissert
 digenetic
 digenetica
-digue 1
+digue 2
 diplanetism 1
 daydreamers 1
 digeny
