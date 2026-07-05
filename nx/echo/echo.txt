@@ -569,7 +569,7 @@ excommunicates
 electromeric 1
 explicator 1
 elocutionize
-extraperineal 2
+extraperineal 3
 egomanias 1
 electrodynamics 1
 effable
@@ -2398,7 +2398,7 @@ erythroid 1
 episcopalianize
 echinostoma 1
 ensorcell 1
-events 3
+events 4
 entrail
 ecraseur 1
 electrodialyze 2
@@ -2858,7 +2858,7 @@ eleusinia
 explicantia 2
 emasculator 1
 eventognath 3
-eleutherian 2
+eleutherian 3
 epidemicalness 2
 eleutherios 1
 elytriferous 3
@@ -4887,7 +4887,7 @@ endearedness 1
 enterocele 1
 endearingness 1
 exactive 2
-eglestonite
+eglestonite 1
 ecliptics 1
 estrada 4
 endamaging 3
@@ -5832,7 +5832,7 @@ ecesis
 engrandizement 1
 engrasp 1
 emancipatory
-ephedrins
+ephedrins 1
 extrasensible
 extravagence 2
 engraver 1
@@ -6329,7 +6329,7 @@ enserfed 2
 ekamanganese 1
 enshade 3
 enshawl
-espace
+espace 1
 extrabold
 ensheathe
 excitomotion 1
@@ -7531,7 +7531,7 @@ epicycle 1
 eeyuch
 esogastritis 4
 eolithic 1
-euglena
+euglena 1
 earnestness 2
 exterminate 1
 eikonology
@@ -12219,7 +12219,7 @@ entrechats
 emanated
 elementalism
 emerized 1
-excelse 1
+excelse 2
 entreatingly 2
 execratively 1
 excreter 1
