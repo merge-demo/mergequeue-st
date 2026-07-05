@@ -7096,7 +7096,7 @@ bespelled
 bespend 1
 bespew
 boucherism
-banded 2
+banded 3
 bandfiling 2
 batan
 bonking 1
@@ -7994,7 +7994,7 @@ berhyming
 bichloride 1
 borazons
 bioxalate 1
-bichos
+bichos 1
 bichromatize 1
 bedebt 1
 bowstaff
@@ -17165,7 +17165,7 @@ bullyragger
 booklice
 balantidial 1
 bayberries
-bearship 1
+bearship 2
 braes
 buckramed 1
 beeish
