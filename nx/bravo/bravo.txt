@@ -304,7 +304,7 @@ bother 1
 backblow 1
 backboard 1
 benthamic 2
-brieflessness 1
+brieflessness 2
 bannerless 2
 butterflying 1
 backbone
@@ -3718,7 +3718,7 @@ bankrupted
 bucketmaker 1
 beltis
 batterie 1
-breck
+breck 1
 batterman
 blennemesis 1
 bullockman 2
@@ -12424,7 +12424,7 @@ bowerlike
 bonbon 1
 betsimisaraka 2
 behap 2
-backcast
+backcast 1
 begloom 1
 bonbons
 batell 1
