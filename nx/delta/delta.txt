@@ -1767,7 +1767,7 @@ dumble
 derogation
 deathtime
 diverticular 1
-diphenan 1
+diphenan 2
 dividend
 diphyllobothrium 1
 debriefs 1
@@ -1893,7 +1893,7 @@ disinfection
 deliriate
 deboss
 detractive 1
-debouche 1
+debouche 2
 dupery 2
 disbench
 disconcertingness
@@ -3685,7 +3685,7 @@ disorganising
 desuetude 1
 disburdening
 demicylindrical
-dehydrate
+dehydrate 1
 dehydrator 1
 dehydrating
 diploidies 2
@@ -7396,7 +7396,7 @@ dusking 1
 demean
 detonative 1
 detonize
-detour
+detour 1
 duncifying
 detectability 1
 detouring 1
@@ -15128,7 +15128,7 @@ dactylitic
 dysplastic
 doing 2
 discopodous
-dotish
+dotish 1
 doitkin 2
 dojigger 1
 deprogramming 1
