@@ -1174,7 +1174,7 @@ daimios
 diploconical
 dimera 1
 dianoetical 2
-dade
+dade 1
 detrited
 decrementing 1
 docimastic 1
@@ -1195,7 +1195,7 @@ diminutival
 deglutitory 2
 deaminization
 disestablishmentarian
-dastardize
+dastardize 1
 diaphragmal
 dastardly
 dragnets 2
@@ -5927,7 +5927,7 @@ deprome
 demisphere 2
 disaffectedly 2
 deprostrate 1
-draughtiest 1
+draughtiest 2
 downbeats
 discrownment
 darcy
@@ -6553,7 +6553,7 @@ duet
 dermol
 danburite 1
 desdemona 2
-disinvest 1
+disinvest 2
 desecrated
 dilemmatical
 dipole 1
@@ -8135,7 +8135,7 @@ descenders
 diaplexal 1
 dromiacea 1
 decennially
-dakotans 1
+dakotans 2
 doutous 1
 deciduae 2
 daffodil 2
@@ -10226,7 +10226,7 @@ donkeyish 2
 demulsibility 1
 dinosauria 1
 defossion
-discounting
+discounting 1
 dressing
 dermoosseous
 devons
@@ -13988,7 +13988,7 @@ dolichosaur 2
 dilantin
 depriving
 dinkies
-diploplacular
+diploplacular 1
 dildos
 drammach
 dolabra 1
@@ -15657,7 +15657,7 @@ desi 2
 docile 2
 dunce
 dartrose 1
-didrachma 2
+didrachma 3
 defatted
 decollator
 doric 1
@@ -15687,7 +15687,7 @@ dorado
 doralium
 diabetical
 downbye 2
-dorask 1
+dorask 2
 dorbeetle
 deflectors 2
 dissava
@@ -17746,7 +17746,7 @@ demipauldron 1
 discriminable
 durables 1
 deliquesce 1
-dedifferentiation 1
+dedifferentiation 2
 decanonization
 dubbins 1
 dicarbonate

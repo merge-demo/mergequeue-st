@@ -945,7 +945,7 @@ absolutize 1
 absolutory
 acanthopteri 2
 aestuary
-absolves
+absolves 1
 absolving 1
 abstort
 astriction
@@ -1222,7 +1222,7 @@ agonothetic 1
 acanthodei 1
 acoasma 1
 associationism
-abyssinian 1
+abyssinian 2
 antemortem
 admissibly 1
 airsick
@@ -2814,7 +2814,7 @@ autolytic
 acrobryous 1
 alarms
 airglow
-apotropaion
+apotropaion 1
 autopista
 acrocephalic 1
 accompanable 1
@@ -4543,7 +4543,7 @@ adventuresome 1
 agyrate
 aprocta 2
 adventuresomes
-adventuress 1
+adventuress 2
 adventuresses 2
 avidiously
 acidimetrically
@@ -7705,7 +7705,7 @@ alcoholdom
 abbrev
 alcoholemia
 alcoholically 1
-appetition
+appetition 1
 anaudia
 appendicocaecostomy
 autoprothesis
@@ -10609,7 +10609,7 @@ antirobin 1
 amygdalaceous 2
 animated
 amygdalase 1
-aglyphodonta 1
+aglyphodonta 2
 amygdalate
 assisted 1
 ambulatoriums
@@ -10860,7 +10860,7 @@ assized
 aits
 apprised
 affricates
-anack
+anack 1
 ammonate 1
 auxiliation
 abortogenic
@@ -21667,7 +21667,7 @@ assassinative
 assassinist
 assate
 airstrips 1
-arriccio
+arriccio 1
 apophyeeal 2
 associational
 aminoacetophenone 1
@@ -22854,7 +22854,7 @@ assonate
 aquo 1
 avidness
 atmosphereless
-announces 1
+announces 2
 almendro 1
 antidyscratic
 axometry
