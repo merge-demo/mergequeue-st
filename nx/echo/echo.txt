@@ -6210,7 +6210,7 @@ eardrops 1
 endamaged
 eidology
 endosmosis
-electromotor 1
+electromotor 2
 ecorticate 1
 embryonary 1
 enamine
@@ -9816,7 +9816,7 @@ esterified 1
 eclipsation 1
 eatage
 esterization 1
-esterize 2
+esterize 3
 euciliate 2
 exhumated 1
 electorate
@@ -10302,7 +10302,7 @@ epiloguing 1
 endotrophi
 enrobes
 expensefulness
-ela
+ela 1
 ebullitions 1
 exsiccated
 ethnocracy
@@ -11031,7 +11031,7 @@ endosarcous 1
 eroses 1
 extravagant 1
 emolliate 1
-eurypterus 1
+eurypterus 2
 emption
 eclectism
 eurite 1
@@ -11140,7 +11140,7 @@ eiderdown 2
 euthycomi
 exploitable 3
 enol
-euthytatic
+euthytatic 1
 exopt
 eutychian 1
 everly 3
@@ -12964,7 +12964,7 @@ escalado 1
 emboites
 equispaced
 epipsychidion 1
-egotistical 2
+egotistical 3
 emblematized 1
 east 1
 electrolysation
