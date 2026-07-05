@@ -2521,7 +2521,7 @@ bargellos
 beswinge 1
 begroans
 barger
-bractea 1
+bractea 2
 borscht
 boccia
 blueblack 1
@@ -3023,7 +3023,7 @@ blechnoid
 brilliancy
 blood 1
 bullace 1
-bartholomewtide
+bartholomewtide 1
 bartisan
 broadhorn
 ballrooms
@@ -5767,7 +5767,7 @@ biocellate 2
 bascology
 bunn
 bulak 1
-bufo
+bufo 1
 bellbird
 bellboy
 bursula 1
