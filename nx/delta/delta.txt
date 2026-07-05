@@ -3009,7 +3009,7 @@ dochmius
 dermapteran 1
 deeper
 dealings 2
-dies
+dies 1
 dismantling
 deepfreeze 1
 dilettantish
@@ -4251,7 +4251,7 @@ dermatopathology
 demimillionaire 1
 dysarthria
 divert
-dissemble 2
+dissemble 3
 draggletail 1
 delver
 dizzy 1
@@ -9235,7 +9235,7 @@ debarkation
 disilluded
 disburdened 2
 dundees
-discolour
+discolour 1
 decorament 2
 dollface
 divined
@@ -17167,7 +17167,7 @@ diffusibility
 divagations 1
 debentureholder 3
 dipodies
-discrediting 2
+discrediting 3
 defacements 1
 dullish 2
 divvers 1
