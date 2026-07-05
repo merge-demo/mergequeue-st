@@ -12114,7 +12114,7 @@ alveus
 amblyopsis
 autostability 2
 aerogen 2
-anhalamine 1
+anhalamine 2
 airspeed 1
 anastasimon 1
 anastasius
@@ -19609,7 +19609,7 @@ ariels 2
 acoupa
 aminoguanidine 1
 antireformist 3
-adversariness
+adversariness 1
 antistrophize
 absorbingly
 airheads 3
