@@ -773,7 +773,7 @@ glome 2
 gristmill 1
 gres
 galvanotherapy 1
-goods 1
+goods 2
 gery
 geomorphic 1
 gemologies
@@ -2900,7 +2900,7 @@ gulley 1
 growlier 1
 glumpish 3
 gnathostoma
-gobblers 2
+gobblers 3
 gavelkind 2
 gaeldom 2
 globigerinae 1
@@ -6454,7 +6454,7 @@ geyseric 3
 gibes
 golder
 grower
-goldfinny
+goldfinny 1
 guising 3
 goldy
 galahads 1
@@ -6768,7 +6768,7 @@ geologically 1
 gazania 1
 gyrostatics 1
 genal 1
-genros
+genros 1
 geochemical 2
 gondola 1
 goniums 5
