@@ -1358,7 +1358,7 @@ acaulescent 1
 acauline
 acc 1
 accable 1
-accel 1
+accel 2
 accelerable
 animalizing 1
 antimonate
@@ -16150,7 +16150,7 @@ amphitryon
 antisideric 1
 acturience 1
 antisymmetry 1
-anthophobia
+anthophobia 1
 aeroplanist
 aethalioid
 anthropocentrism
@@ -17459,7 +17459,7 @@ aerodyne 1
 availability 1
 anamorphic
 armers
-amplifying
+amplifying 1
 autobasidia
 appanage 1
 arthrostraca
