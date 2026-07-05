@@ -523,7 +523,7 @@ dalt 1
 dalton
 denomination 1
 dermaskeleton
-dama
+dama 1
 damageability 2
 damageably 1
 detonatable 1
@@ -2421,7 +2421,7 @@ diureide 1
 dacrya
 disobediently
 degorder
-decimolar 1
+decimolar 2
 diplacusis 1
 deluminize
 daker 3
@@ -5432,7 +5432,7 @@ deuterostomatous 2
 dissipates
 deoxycorticosterone 2
 dandically
-dismounting 1
+dismounting 2
 diprotodontia
 dreadlessly
 dropkicks 1
@@ -8565,7 +8565,7 @@ diaphonies
 disputably 1
 diaphoreses
 diaphoretical 2
-disarranging
+disarranging 1
 diaphoretics 2
 doozy
 diaphorite
@@ -8921,7 +8921,7 @@ dissevered
 dumpishness 1
 deboshment
 damascene
-druffen
+druffen 1
 deceivable
 deathblows 1
 dichotically
