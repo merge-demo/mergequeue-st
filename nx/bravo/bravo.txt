@@ -1428,7 +1428,7 @@ battable 1
 balefires
 bewreak 2
 barmbrack 2
-baleys
+baleys 1
 baleise 2
 bougainvillaea 1
 beslave 1
@@ -2813,7 +2813,7 @@ barosinusitus 1
 barosmin 1
 backwashed
 bassoonist 2
-blithefully
+blithefully 1
 buffaloback 1
 bedarken
 bruta
@@ -3727,7 +3727,7 @@ baylike
 bettong 2
 batty 1
 bacbakiri
-barny
+barny 1
 brookflower 1
 beild 2
 battier
@@ -6531,7 +6531,7 @@ breadstuff 1
 bewelcome 1
 bavarois 1
 beaming 1
-blameable 1
+blameable 2
 bilsted
 bagel
 barytones
@@ -8090,7 +8090,7 @@ broodiness 1
 biometrics 1
 bridecup
 bellypinch
-brogue
+brogue 1
 breathing 1
 borshts
 biculturalism 2
@@ -9501,7 +9501,7 @@ beaconage
 baselard 2
 bemonster 2
 barristership
-birretta 1
+birretta 2
 barney 1
 binomialism 1
 backachy 2
@@ -10214,7 +10214,7 @@ boars 1
 beaverlike
 blackies
 bottomlessness 1
-bemuslined
+bemuslined 1
 benty
 bryaceous
 breads 2
@@ -14031,7 +14031,7 @@ barrelfuls 1
 backbenchers 2
 boarishly 1
 bracery
-blankeel
+blankeel 1
 belaboured 1
 barriguda 2
 braceros
@@ -17768,7 +17768,7 @@ basyl
 burping 1
 burrbark 1
 bedrolls 1
-balaenoid
+balaenoid 1
 burrers 1
 blepharoconjunctivitis
 buzzle
