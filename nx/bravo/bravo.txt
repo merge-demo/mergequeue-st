@@ -555,7 +555,7 @@ blit 3
 backwardness 1
 belgium 1
 bakerlike 2
-bootboy
+bootboy 1
 blackie
 burrock
 brickiest 1
