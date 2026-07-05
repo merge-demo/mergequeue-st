@@ -773,7 +773,7 @@ glome 2
 gristmill 1
 gres
 galvanotherapy 1
-goods 1
+goods 2
 gery
 geomorphic 1
 gemologies
@@ -4028,7 +4028,7 @@ gleaned 1
 griph 1
 gastroduodenotomy 1
 grasshop 1
-goujon 1
+goujon 2
 guffawing 2
 grasped 1
 glucolipid
@@ -6768,7 +6768,7 @@ geologically 1
 gazania 1
 gyrostatics 1
 genal 1
-genros
+genros 1
 geochemical 2
 gondola 1
 goniums 5
