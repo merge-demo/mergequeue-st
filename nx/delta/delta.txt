@@ -9176,7 +9176,7 @@ digitalize
 dialyse
 doors 2
 delobranchiata 1
-disorientation 1
+disorientation 2
 dyeability 2
 denazification 1
 demilance 1
@@ -9722,7 +9722,7 @@ dilatedness 1
 defiantness 1
 disrespectful 1
 demultiplexes 2
-dab
+dab 1
 dodonaean
 deodaras 1
 delouse 1
