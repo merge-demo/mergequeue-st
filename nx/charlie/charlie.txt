@@ -907,7 +907,7 @@ contrapuntalist
 cajolery
 caproic
 crimple
-chloroacetophenone 2
+chloroacetophenone 3
 cajoles
 cajoling
 cautionaries
@@ -1443,7 +1443,7 @@ calypsist 2
 criollas 1
 cornerwise 1
 calypso 1
-copals
+copals 1
 calypsoes
 calypsonian 1
 compressedly
@@ -14393,7 +14393,7 @@ circumvest
 circumvoisin
 contrapletal 1
 circumvolution
-curdler 1
+curdler 2
 cyclospondylous
 circumvolve
 circumvolved 1
@@ -16134,7 +16134,7 @@ crimpage 1
 climactical
 contexture
 collotyping
-chymosinogen
+chymosinogen 1
 crownbeard
 cyanole 1
 climacus 1
@@ -21751,7 +21751,7 @@ condonance
 condonation
 condone
 condonement
-condoner
+condoner 1
 condoners 1
 cypriotes 2
 counterthwarting
@@ -23008,7 +23008,7 @@ compline
 consocies
 consolations
 consolato
-consolator
+consolator 1
 cribbled 1
 consolatory
 consolatorily
@@ -25079,7 +25079,7 @@ choleraic 2
 catastrophes 1
 cloves
 corecipient
-corectome
+corectome 1
 cracovienne
 cardiomotility 1
 corectomy
@@ -26191,7 +26191,7 @@ cosmopolitanisation 1
 coastline
 cosmopolitanise 1
 charcutiers 4
-cosmopolitanising
+cosmopolitanising 1
 centurions 1
 candlewick 1
 cosmopolitanism
