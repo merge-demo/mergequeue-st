@@ -2132,7 +2132,7 @@ foreprize 1
 fulsome
 faculous 2
 favours 2
-foddered 1
+foddered 2
 fellatrice 2
 fluoresage 2
 frigate
@@ -2517,7 +2517,7 @@ fluxgraph 1
 fatihah 2
 fuzzily 2
 faldworth 3
-foremeant
+foremeant 1
 footsore 1
 feudal
 fastballs 1
@@ -5264,7 +5264,7 @@ flavoured 1
 fondant 1
 flavourful 1
 flexionless
-fieldy
+fieldy 1
 flavourless 1
 funned 1
 flavourous 1
@@ -8879,7 +8879,7 @@ foozles 1
 fossilogy 1
 fload
 firmest
-fettstein 2
+fettstein 3
 finbone
 flerry 1
 fossorious 2
@@ -10365,7 +10365,7 @@ foss 1
 friseur
 forewarning
 fiaunt 1
-fraenula 3
+fraenula 4
 floodlighted
 fluoridized 1
 faceman
