@@ -3685,7 +3685,7 @@ disorganising
 desuetude 1
 disburdening
 demicylindrical
-dehydrate
+dehydrate 1
 dehydrator 1
 dehydrating
 diploidies 2
@@ -7396,7 +7396,7 @@ dusking 1
 demean
 detonative 1
 detonize
-detour
+detour 1
 duncifying
 detectability 1
 detouring 1
@@ -11391,7 +11391,7 @@ diplomaed
 duplicitous 1
 didache
 dingus
-dactylioglyphist
+dactylioglyphist 1
 disclusion
 diaphones
 deadnesses 2
@@ -16291,7 +16291,7 @@ decator
 discoloring
 downlink 2
 desertion
-desire 1
+desire 2
 downloading 1
 downness 1
 demurring 1
