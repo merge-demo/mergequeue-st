@@ -2813,7 +2813,7 @@ attar
 autolytic
 acrobryous 1
 alarms
-airglow
+airglow 1
 apotropaion 1
 autopista
 acrocephalic 1
@@ -9200,7 +9200,7 @@ almner
 almohad 1
 aorta
 anticlimactical
-autoallogamous 1
+autoallogamous 2
 anstoss
 aetobatus 1
 almohades 1
