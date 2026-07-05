@@ -1717,7 +1717,7 @@ calotermes
 calotype
 cosey
 cyclodiolefine 2
-contrasty 1
+contrasty 2
 calotypic 1
 calotypist
 crossbolt
@@ -2298,7 +2298,7 @@ celtdom
 coquina 1
 conceivers 2
 canafistola
-canafistolo
+canafistolo 1
 canafistula 1
 canafistulo
 chlorapatite
@@ -16482,7 +16482,7 @@ chesoun 1
 canchi
 cryogenic
 clodlet 2
-clubfellow
+clubfellow 1
 clodpated
 cadential
 chromolysis
