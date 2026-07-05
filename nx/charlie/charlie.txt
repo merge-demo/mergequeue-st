@@ -13070,7 +13070,7 @@ cunningaire
 conclave 1
 conational 1
 countrypeople
-cyathiform
+cyathiform 1
 connivent
 cyathophyllum
 cyathus
@@ -13447,7 +13447,7 @@ courb
 cyesis
 cif
 countergage
-camerawork 1
+camerawork 2
 cig
 cigarette
 cystenchyma
@@ -15548,7 +15548,7 @@ cynoglossum
 confoundedly
 chabasie
 classicolatry
-classiest
+classiest 1
 classify 1
 continentalist
 classifiable 3
@@ -18574,7 +18574,7 @@ catheptic
 canonists
 coigne
 cader
-cutted
+cutted 1
 coigny
 coequalize
 callitrichidae
@@ -24563,7 +24563,7 @@ corollated 1
 copending 1
 colonialist 1
 calorizes
-copenetrate
+copenetrate 1
 copenhagen
 copepoda
 chromolithograph
