@@ -6515,7 +6515,7 @@ eatings
 entasis 2
 elemin 1
 emiction
-endothelioma
+endothelioma 1
 eclectic 2
 engroove 1
 entelechies
@@ -10414,7 +10414,7 @@ endemiological
 electrotheraputical 1
 ecblastpsis 1
 epileptical 1
-educators
+educators 1
 excrementitious 1
 extusion 1
 echinate
