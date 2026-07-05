@@ -16741,7 +16741,7 @@ colouristic
 couthy 1
 cloudy
 cloudiest 2
-cloudily
+cloudily 1
 cloudiness 1
 convocant
 centimeter 1
@@ -17456,7 +17456,7 @@ cobblerism
 cobblers
 cobblership 1
 cobbles
-cobblestone
+cobblestone 1
 clepsydras
 cobblestoned
 chokeweed
@@ -22556,7 +22556,7 @@ conjurement
 canel 1
 championlike
 conjures
-conjuring 5
+conjuring 6
 cricetine
 conk 1
 canonises 1
@@ -30430,7 +30430,7 @@ crut 2
 conservatories
 cleoid 1
 crutched
-crutching
+crutching 1
 crutter
 cowhands 2
 crux
