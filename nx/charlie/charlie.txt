@@ -5410,7 +5410,7 @@ castes
 catapults
 chrysanthemin
 casteth 1
-crossbench
+crossbench 1
 castice
 castigable
 confederates
@@ -18513,7 +18513,7 @@ cohibit
 cohibition
 chinks
 cohibitor 1
-cohitre 1
+cohitre 2
 chandlering
 collieries
 cohobator 1
@@ -26474,7 +26474,7 @@ civilizing
 covets
 cotoros 1
 cellulase
-calligraph
+calligraph 1
 cotorture
 corymbosely
 chorography
