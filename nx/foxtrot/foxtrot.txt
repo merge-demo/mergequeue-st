@@ -1578,7 +1578,7 @@ fixings
 finer 1
 florae 1
 fauchard 2
-fiddlebow
+fiddlebow 1
 forereaching
 floppies
 faffle 3
@@ -5041,7 +5041,7 @@ faconne
 fulmarus
 flapdock 1
 familiarized
-flowered 1
+flowered 2
 fissures
 fatteners 3
 flirtationless 1
@@ -10369,7 +10369,7 @@ fraenula 3
 floodlighted
 fluoridized 1
 faceman
-fortiori
+fortiori 1
 flexible 1
 frondless 2
 federalese
