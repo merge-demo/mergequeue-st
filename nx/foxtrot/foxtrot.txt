@@ -1707,7 +1707,7 @@ floats
 filicin 1
 fortravail 2
 factable
-floroon 1
+floroon 2
 fibrocyte 1
 flashflood 1
 feastfully
@@ -2880,7 +2880,7 @@ forepreparation 1
 fetwa 1
 foreiron 2
 ferlies
-fetterlock 3
+fetterlock 4
 flatfish
 forewing 3
 foxship
@@ -5538,7 +5538,7 @@ frowzy 4
 faldage
 frapped
 furbelowing 1
-fankle
+fankle 1
 fingerbreadth
 feticides 1
 forepaw 3
@@ -11010,7 +11010,7 @@ farde 2
 fausen 2
 frostiest 4
 flintiest
-foreproffer 1
+foreproffer 2
 foreweep
 feastly 3
 furfurol 2
@@ -11452,7 +11452,7 @@ fluviose 1
 falteringly 3
 furrily
 frigage
-frostless 1
+frostless 2
 fleur 1
 fathoms 1
 fetichlike 1
