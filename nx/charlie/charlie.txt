@@ -7940,7 +7940,7 @@ contes
 cf 1
 cfd
 ch
-cha
+cha 1
 capture
 colloquized 2
 catchweed
