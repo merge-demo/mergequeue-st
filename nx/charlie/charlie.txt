@@ -14911,7 +14911,7 @@ creaks
 chupak 1
 cytostomal 1
 cordwood
-cytostromatic
+cytostromatic 1
 compromised
 cytotactic
 cerebroganglion
@@ -17603,7 +17603,7 @@ coccobacilli
 cumins
 cupidity
 culrage
-coccochromatic 1
+coccochromatic 2
 coccogone 1
 coccogoneae
 concyclically
@@ -27798,7 +27798,7 @@ cordleaf
 coxcombity 2
 cenobitical 1
 cytocentrum
-coxed
+coxed 1
 cissing
 commie
 coxendix
@@ -28748,7 +28748,7 @@ corage
 cutesiest
 chelae
 creply 1
-cupeler
+cupeler 1
 cephaloplegia
 civetone 1
 crepon

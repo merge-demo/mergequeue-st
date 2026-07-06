@@ -3900,7 +3900,7 @@ ganner 1
 graphis 1
 gimping 1
 grubworms 1
-gigawatts 1
+gigawatts 2
 glossoscopia
 geoty 1
 guazuma 1
@@ -4101,7 +4101,7 @@ gypsum 2
 gouda 1
 guarapo 1
 globuloid 1
-gelinotte
+gelinotte 1
 graphemic
 glycoproteid 4
 glacis 1
@@ -10043,7 +10043,7 @@ gasking 2
 gongman
 galette
 gossypols 2
-guerison
+guerison 1
 guerites 2
 gage
 graveolency 2
