@@ -3963,7 +3963,7 @@ focalise 1
 forfends
 fingerer
 flaunch 1
-flory 2
+flory 3
 fingerers
 fono
 fixature 1
@@ -4138,7 +4138,7 @@ fenchyl
 feezed 2
 fireboy 1
 flying
-fiendishly 1
+fiendishly 2
 fraticelli 1
 firebomb
 fractile 3
@@ -5764,7 +5764,7 @@ flaughter 2
 filliping 3
 forelive 2
 footlessness 1
-filipiniana
+filipiniana 1
 figmental 2
 folksay 1
 frise 2
@@ -7151,7 +7151,7 @@ footers
 furcula 2
 fatherlandish 2
 florivorous 3
-forbathe 4
+forbathe 5
 forebroads 1
 forgottenness 1
 frumenties 4
@@ -10515,7 +10515,7 @@ forcite 4
 frostbitten 3
 frosty
 frictionable 2
-fantasticality 1
+fantasticality 2
 frostily 3
 flappable 1
 fluorate
