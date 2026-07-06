@@ -16709,7 +16709,7 @@ centroplasm
 clothespresses 2
 cire 2
 clothiers
-clothings
+clothings 1
 catharpin
 crimpling
 clots
@@ -28996,7 +28996,7 @@ cried 1
 conable
 criey
 coxoceritic
-curiescopy
+curiescopy 1
 crier
 chemokinesis 1
 choletherapy 2
