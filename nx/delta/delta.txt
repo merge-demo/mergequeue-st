@@ -2755,7 +2755,7 @@ draughtiness 4
 dian
 dreche
 druggist
-docudrama
+docudrama 1
 decreasingly
 dieresis 1
 dairymen 1
@@ -6074,7 +6074,7 @@ deraigning
 divest
 dispirits
 derailing 1
-demiworld 1
+demiworld 2
 danseuse 3
 derailment 1
 decocts
@@ -6266,7 +6266,7 @@ dehydrates 2
 dehydrators
 dermatoplasm 2
 diapositive
-deozonizer 1
+deozonizer 2
 decolonization
 debatter 2
 dermatorrhagia 1
@@ -12592,7 +12592,7 @@ dephase
 disinvagination 3
 deepfroze
 disutilize
-directs
+directs 1
 dargsman 1
 daynet
 decupled
