@@ -1603,7 +1603,7 @@ disinfector
 deadwork
 deaerated 1
 dorsum 3
-deaf
+deaf 1
 dynamogenous
 disacidified
 deafened
@@ -5771,7 +5771,7 @@ deformism
 deposito
 depositor
 daytime 2
-dulcin
+dulcin 1
 deleatur 1
 dichronous
 dishful
@@ -12316,7 +12316,7 @@ dactyl 2
 dromaeognathous
 dielectrics 1
 doitrified
-discharged
+discharged 1
 decolorimeter 1
 differentiates
 drias

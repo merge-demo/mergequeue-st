@@ -7423,7 +7423,7 @@ chouser 2
 cythera 1
 cerebrophysiology
 cerastes
-conciliatory 2
+conciliatory 3
 cerasus
 cerata
 cerate
@@ -23165,7 +23165,7 @@ creatinin 1
 crooklegged 1
 clubbed 2
 constipates
-constipation
+constipation 1
 crevassing
 constituency
 cytostatic
