@@ -2480,7 +2480,7 @@ afterfeed 2
 aftertime
 armoured 1
 ackmen
-acanthocephali
+acanthocephali 1
 algonquin 2
 aluminized 1
 antitartaric 1
@@ -5899,7 +5899,7 @@ agenize
 agenized 1
 akamatsu
 agenizing
-agennesis
+agennesis 1
 agential
 adolph
 agenting
@@ -7793,7 +7793,7 @@ anacrotism 1
 aplustria
 avulses 1
 amphikaryon 1
-antiseptical
+antiseptical 1
 aldermanship
 aldermen 1
 allopolyploidy
@@ -18671,7 +18671,7 @@ anaesthetize 1
 acidanthera
 almuce 2
 alexipharmical 1
-acroanesthesia
+acroanesthesia 1
 archaises 1
 archaising 1
 applicable
