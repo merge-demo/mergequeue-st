@@ -370,7 +370,7 @@ daymares
 disseizes
 diarists 1
 discoloured
-dasher 1
+dasher 2
 daymark
 doupion
 daimiate
@@ -5914,7 +5914,7 @@ duffer 1
 dayfly 2
 deprogrammed 1
 disedge 1
-drillstock 1
+drillstock 2
 dottling
 devonic 1
 dollish
@@ -10137,7 +10137,7 @@ dynes
 ductilized 1
 deminatured 2
 dinetic 1
-dinette
+dinette 1
 denazifies
 dissentiency
 destriers
@@ -11228,7 +11228,7 @@ denazify 2
 discabinet 1
 discamp 1
 drawstring 2
-discanted 2
+discanted 3
 dermochelys
 decompoundable 2
 dissembling
@@ -15922,7 +15922,7 @@ dictate 1
 digammic
 discoid 1
 dotchin
-dote
+dote 1
 declaring
 dynamitic 2
 dipartition
