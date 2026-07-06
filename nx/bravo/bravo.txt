@@ -1606,7 +1606,7 @@ bioelectrogenetic 2
 belat 2
 ballised 2
 biradial 1
-binate 2
+binate 3
 ballista
 basketlike 2
 beatinest
@@ -5798,7 +5798,7 @@ beflatter
 brassworker 1
 becrawling 2
 buhrmill 1
-bedlamic
+bedlamic 1
 bombyliidae 1
 batfish 2
 booboo
@@ -8327,7 +8327,7 @@ barbarous
 boastingly 1
 brahmani
 bonaght 1
-biliate
+biliate 1
 biggy 1
 biggie 1
 blepharoceridae
