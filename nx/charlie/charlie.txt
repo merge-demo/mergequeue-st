@@ -10081,7 +10081,7 @@ chipchap
 chessdom 2
 chesser 1
 cabinda
-chesses
+chesses 1
 chessylite
 chessist
 chirimen 2
@@ -11162,7 +11162,7 @@ clamours
 compatibly 1
 chlamydosaurus
 chlamydozoan
-chlamyphore
+chlamyphore 1
 carroting
 chlamyphorus
 chlamyses 1
@@ -21250,7 +21250,7 @@ countersank
 chapped
 concertation
 concertato
-concerted
+concerted 1
 canthal
 concertedness 1
 cicatrose 1
