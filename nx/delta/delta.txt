@@ -481,7 +481,7 @@ danaidae 1
 daledh 1
 dandelions 1
 depreciatively 2
-dame 1
+dame 2
 deveining
 declivous 1
 decistere 1
@@ -2619,7 +2619,7 @@ decolletage 1
 discontinues 3
 dronel 1
 desalter
-decoloring
+decoloring 1
 disavowed
 deforce
 dispose 2
@@ -7907,7 +7907,7 @@ dewless
 daggled
 dewlike
 deeps 1
-deworming 2
+deworming 3
 deworms 1
 disponer 1
 dexiotropous
@@ -8638,7 +8638,7 @@ downstream 1
 denitrifying
 discourtesy 2
 desaurin
-dome
+dome 1
 diffused 1
 dactylus
 dato
@@ -16235,7 +16235,7 @@ distempering
 deplete 1
 dendroceratina
 dissue 1
-dacryocystoblennorrhea
+dacryocystoblennorrhea 1
 dindymus
 distilled 1
 dinophyceae 2
