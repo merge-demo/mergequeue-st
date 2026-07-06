@@ -251,7 +251,7 @@ daggling
 directeur 1
 daghesh
 deoxyribonuclease 2
-duplicative 1
+duplicative 2
 dappling 2
 denitrate 1
 deincrustant
@@ -2802,7 +2802,7 @@ decretorian
 dithymol
 defi
 declarator 2
-decried 2
+decried 3
 desistive
 deerflys
 disulphonate
@@ -4418,7 +4418,7 @@ divelling 2
 directoral
 demethylate 1
 definitize
-demetricize
+demetricize 1
 declassifying
 draughtmanship
 diceplay
