@@ -3316,7 +3316,7 @@ amyloids
 acutances
 anisoptera 1
 adornos 2
-acute
+acute 1
 acutely 1
 ascomycetal
 acutest 2
@@ -13733,7 +13733,7 @@ anomalistic
 acaudate 1
 andor
 asiatic 1
-anomalistical 1
+anomalistical 2
 anomalocephalus
 apollinarianism 1
 archaistic 1
@@ -19493,7 +19493,7 @@ accessoriness 1
 assaults
 auctors 1
 adenotomy
-aitchpiece
+aitchpiece 1
 acad
 arsonic
 anecdotal
