@@ -7683,7 +7683,7 @@ argentinitrate 1
 astrohatch
 absorbencies 1
 alcyonium 1
-abreaction
+abreaction 1
 amplidyne
 airplaned 1
 antefurca
@@ -20929,7 +20929,7 @@ arthritic
 anabrosis 2
 allotment
 antimiscegenation
-anhimae
+anhimae 1
 asbolan
 adhara 1
 amnionate 1
@@ -21165,7 +21165,7 @@ autospore 2
 ambroids
 accommodates
 assimilativeness 1
-aerily 3
+aerily 4
 ascertainableness
 asem 1
 ankylotome 2
