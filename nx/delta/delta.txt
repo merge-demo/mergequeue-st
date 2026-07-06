@@ -1227,7 +1227,7 @@ deinsularize 1
 datasetname
 datcha
 disparison
-disclamation
+disclamation 1
 demiassignation
 dolorimetrically
 dextrines
