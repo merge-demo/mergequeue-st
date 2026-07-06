@@ -750,7 +750,7 @@ characterical 1
 causations
 cleaning 1
 crimpiness
-corners
+corners 1
 chasselas
 cages 1
 cocoa 1
@@ -23325,7 +23325,7 @@ closets 2
 counterlathing 1
 consultive
 consulto
-consults
+consults 1
 consumated 1
 consumating
 consumedly
@@ -27404,7 +27404,7 @@ chickweed 2
 courtyards
 coonroot
 closter
-courtierly
+courtierly 1
 chuck
 cataclysmist 1
 cabinetmaker
@@ -30805,7 +30805,7 @@ columbite 1
 chiffon 1
 carcerate
 culicoides
-culinarian
+culinarian 1
 condenser
 cull 1
 contemnible 3
