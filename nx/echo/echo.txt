@@ -1986,7 +1986,7 @@ emulsic 1
 equisonant 1
 endodontist 2
 eradiculose
-elabrate
+elabrate 1
 endocrinotherapy 1
 erythrosine 1
 epitrophy 2
@@ -3147,7 +3147,7 @@ eloiner 1
 essentiate 1
 eburated 1
 ethnarchs
-eskimoes
+eskimoes 1
 euryphage
 eloining
 explore
@@ -5435,7 +5435,7 @@ ensuing 1
 endoplasmic 1
 extramundane 1
 endotheliomyxoma 2
-examinee 1
+examinee 2
 egging
 energizers
 eosinophilia 1
