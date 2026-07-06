@@ -4770,7 +4770,7 @@ bedrabbling 1
 bedrails
 binnacle
 bedral
-boltwork
+boltwork 1
 bedraping 1
 bedread 1
 bedrench 2
