@@ -3442,7 +3442,7 @@ embed
 electrosynthetic
 equaled
 engrail 3
-evacuate
+evacuate 1
 embellisher
 embellishers
 eutelegenic 1
@@ -3848,7 +3848,7 @@ easiness
 exemplarily 1
 effeminacy 2
 exallotriote 1
-expiatory
+expiatory 1
 escrows
 emyde 2
 entarthrotic 1
@@ -7914,7 +7914,7 @@ epimysia 3
 esthesias 1
 eucalyptole 1
 expunger
-enflesh 2
+enflesh 3
 eteocreton 2
 embower 1
 esponton 1
@@ -14184,7 +14184,7 @@ empyromancy 1
 eebree
 extrauterine 3
 exesion 1
-eyght 1
+eyght 2
 excogitative 4
 enwheel
 ewound 1
