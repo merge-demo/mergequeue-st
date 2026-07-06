@@ -3209,7 +3209,7 @@ craked
 citruses 2
 capewise 1
 capework
-capful
+capful 1
 caphar 2
 clistogastra
 cotillon
@@ -10482,7 +10482,7 @@ childness
 childre 1
 comicality
 chalicotherium 2
-chunderous
+chunderous 1
 children
 childrenite 3
 corylin 1
@@ -22612,7 +22612,7 @@ chanson
 connecticut
 chieftainships 3
 cairba 1
-cogenial 1
+cogenial 2
 connection
 connectival
 connective
@@ -24085,7 +24085,7 @@ conversancy
 camarillas
 cosmonautic 1
 cringing
-circularise
+circularise 1
 conversationable
 competency
 coactor
