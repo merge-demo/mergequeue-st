@@ -14881,7 +14881,7 @@ crucibles 1
 chasmy 2
 cytophagic 1
 cytophagous
-cytopharynx
+cytopharynx 1
 coldturkey 1
 countergabble
 cytophil 2
@@ -28417,7 +28417,7 @@ caesarize
 creaky
 cholestene 1
 creakiness
-creaking
+creaking 1
 creambush
 creameries 1
 coracoids 2
