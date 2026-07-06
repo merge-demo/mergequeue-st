@@ -717,7 +717,7 @@ gawn
 gladdest 2
 grissen
 genomic 1
-gersdorffite
+gersdorffite 1
 gentianic
 gor
 gentlepeople 3
@@ -5282,7 +5282,7 @@ gonidia 2
 glomerulate 1
 galactoma 1
 gabionade
-glassmen
+glassmen 1
 greener 3
 galiongee 2
 glycollate
@@ -6766,7 +6766,7 @@ gabon
 gentilitial
 geologically 1
 gazania 1
-gyrostatics 1
+gyrostatics 2
 genal 1
 genros 1
 geochemical 2
@@ -7013,7 +7013,7 @@ gasthauses
 gnathic
 grubstaked 1
 goondie 2
-goons
+goons 1
 gamostely 2
 gavel 1
 gummer
@@ -8423,7 +8423,7 @@ gallinacei 2
 gjetost 2
 gleds 2
 gauziness
-gittern 1
+gittern 2
 gelid
 gurging 2
 grumpiness 4
