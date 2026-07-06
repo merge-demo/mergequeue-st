@@ -10675,7 +10675,7 @@ aggregations
 amylogenic
 aget 2
 archoptoma
-attend 2
+attend 3
 assinuate
 amylohydrolysis 1
 adossee 3
@@ -12110,7 +12110,7 @@ aletris
 abstractors 1
 armit
 anastasian
-alveus
+alveus 1
 amblyopsis
 autostability 2
 aerogen 2
@@ -12847,7 +12847,7 @@ anglish
 awarder 1
 angiopathy 4
 agnosis 2
-aeneolithic 1
+aeneolithic 2
 angioplasty
 androgyn 1
 asseize
@@ -17306,7 +17306,7 @@ aerolithology 1
 ashram
 acetonize 2
 antiagglutinant
-azido 1
+azido 2
 apostacize 2
 amrelle
 audiometer 1
@@ -18359,7 +18359,7 @@ arterialised 1
 amphiploid
 antrotome 1
 albuginaceae
-adcraft
+adcraft 1
 araire
 amphigory
 appendage 1
@@ -19010,7 +19010,7 @@ azocochineal 1
 alar
 abecedarian
 areae
-axonopus 1
+axonopus 2
 azelate 1
 archmocker 1
 agricolist 1
@@ -20110,7 +20110,7 @@ arbalister
 ametabolism 1
 approx 1
 arrayal
-archmystagogue
+archmystagogue 1
 actiniform 2
 arraign 1
 amaurosis
@@ -21279,7 +21279,7 @@ asiaticize
 assuredly 1
 acromania 1
 aurothiosulphuric
-arteriolar 1
+arteriolar 2
 arcuated
 alloquialism 2
 afterstudy
