@@ -3075,7 +3075,7 @@ flopping 2
 fibrillating 1
 flirters 1
 faroff 2
-forches 2
+forches 3
 flowerfly
 finances 1
 forfeitableness 1
@@ -4256,7 +4256,7 @@ foreyard
 fatless 1
 flail 1
 flyaways 1
-fireward
+fireward 1
 forehead
 focalising 1
 firewater 1
@@ -4923,7 +4923,7 @@ facetiously 1
 flatteringly 1
 fergusite 2
 frenetic 1
-formly 2
+formly 3
 fchar 2
 fluidised 1
 foining 1
@@ -4991,7 +4991,7 @@ flyover
 foundationally
 fleetingness
 faldetta 1
-fettle 2
+fettle 3
 flood
 faured
 flaneurs 1
@@ -6486,7 +6486,7 @@ fingerfish 2
 flrie 1
 flusteration
 festschrifts 1
-fakes 2
+fakes 3
 filiciform 4
 fario 2
 filagreeing 5
@@ -8444,7 +8444,7 @@ fiberfill
 futhorcs 3
 flyflapper
 fellfare 1
-foreking
+foreking 1
 fictively 2
 fuseboard 1
 fm 1
@@ -8977,7 +8977,7 @@ fountain
 fragged 1
 fantastically 1
 fossicker 2
-frescoer
+frescoer 1
 flueman
 feak 1
 filosus
@@ -9296,7 +9296,7 @@ frug
 fertilities 2
 fraises 2
 fascinery
-frontispieced 1
+frontispieced 2
 fraktur
 fasciolet
 fresnel 1
