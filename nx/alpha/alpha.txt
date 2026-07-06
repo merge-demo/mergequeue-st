@@ -15338,7 +15338,7 @@ amperages
 antihero 1
 amphoriskos 1
 azulejo
-antihierarchy
+antihierarchy 1
 akimbo 1
 aidless 1
 antihierarchism
@@ -16506,7 +16506,7 @@ aute
 adipocele 1
 arquated
 antioxidant 1
-ampholyte
+ampholyte 1
 anxiously
 anxiousness
 antifogmatic 1
