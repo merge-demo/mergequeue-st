@@ -2843,7 +2843,7 @@ donors
 decumanus
 daphnin 1
 default 1
-dolomitised 1
+dolomitised 2
 diskos 1
 disposure 1
 dangle
@@ -7513,7 +7513,7 @@ denucleate
 demarcator 1
 desulfurized
 digitalizing
-disenchain 2
+disenchain 3
 dearnesses
 daemonology
 disrupting
@@ -9396,7 +9396,7 @@ duplicator 1
 diffusers 1
 diffuses 1
 dillis 1
-dimidiation 1
+dimidiation 2
 danaidean 1
 dechlore 1
 demilitarizing 1
@@ -10043,7 +10043,7 @@ deled
 damply 1
 dedal 1
 dogfought 1
-definitization
+definitization 1
 digoneutic 1
 dynamitard
 diana 2
@@ -13179,7 +13179,7 @@ deambulation 1
 dispiteousness 1
 demegoric 1
 disaccord
-decomposed 1
+decomposed 2
 diuturnal 1
 dilly
 dipropyl 1
@@ -13737,7 +13737,7 @@ dilation 1
 dejecta
 demulsion 1
 deadlihead 2
-diaclinal 1
+diaclinal 2
 disannex 2
 dissogeny
 doomful 1
