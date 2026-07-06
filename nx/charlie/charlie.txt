@@ -16709,7 +16709,7 @@ centroplasm
 clothespresses 2
 cire 2
 clothiers
-clothings
+clothings 1
 catharpin
 crimpling
 clots
