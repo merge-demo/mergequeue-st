@@ -4667,7 +4667,7 @@ brothier 1
 bedframes 1
 bouncers 1
 broomed 1
-bowdlerizes 1
+bowdlerizes 2
 baldwin
 burnettized
 balayeuse 2
@@ -8556,7 +8556,7 @@ barabra 1
 bo
 bunting
 bedder
-bradycardia
+bradycardia 1
 billabong 2
 billage 1
 brumes
