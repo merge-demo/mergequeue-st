@@ -1594,7 +1594,7 @@ evolutility
 epibiotic 1
 embroilment
 egotistic
-exscind
+exscind 1
 elutriator 1
 egotized 1
 egracias 1
@@ -2447,7 +2447,7 @@ educates 1
 engladden 2
 elean 2
 emerges
-eches
+eches 1
 equivalence 1
 electrogenic 1
 electrogild
@@ -3725,7 +3725,7 @@ exercitorial 3
 ectoderms
 extravagantness
 enfranchise 2
-erodability 2
+erodability 3
 excessiveness 1
 encumbers 1
 enfetter 3
@@ -5131,7 +5131,7 @@ efference 1
 euchres 2
 echeloning
 enchanter
-expedition 2
+expedition 3
 endogenous
 enlistment 1
 echar 1
@@ -5554,7 +5554,7 @@ enneateric 1
 enfold
 eyeful
 exceptionalness
-epicene 1
+epicene 2
 embillow 2
 engendrure
 edenization 2
@@ -7673,7 +7673,7 @@ ephebic 1
 euphonising 1
 enforcer
 execrably 1
-epipleurae
+epipleurae 1
 etiological 2
 ephapse 1
 everyness
