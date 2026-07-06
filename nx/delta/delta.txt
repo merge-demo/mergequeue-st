@@ -1558,7 +1558,7 @@ deactivators
 distressedness
 doublure 1
 drail
-deaden
+deaden 1
 droops 2
 docked 1
 diadelphian 2
