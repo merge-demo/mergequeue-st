@@ -1558,7 +1558,7 @@ deactivators
 distressedness
 doublure 1
 drail
-deaden
+deaden 1
 droops 2
 docked 1
 diadelphian 2
@@ -16785,7 +16785,7 @@ draughtier 1
 decastylos 1
 decampment 1
 dramshop 2
-disaffirming 1
+disaffirming 2
 darg 2
 disseminule
 drave 1
