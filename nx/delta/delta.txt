@@ -2694,7 +2694,7 @@ deconvolve
 desmon
 decor 1
 diplopic 1
-dappledness
+dappledness 1
 decurves
 decorable
 deist
@@ -3515,7 +3515,7 @@ defrayable 2
 disembarrassment
 dismissable 2
 doom 1
-drowsed 2
+drowsed 3
 desaturate 1
 desiccated 2
 defloration 1
@@ -9121,7 +9121,7 @@ discursive 1
 disweapon
 didelphoid 3
 disinclines
-derisory 2
+derisory 3
 doffs 1
 desexualized
 dauphines
@@ -15245,7 +15245,7 @@ dassies
 dix
 drawoff
 dealbuminize 2
-dissectible 1
+dissectible 2
 durante 1
 dendroclastic 1
 disconcerted
