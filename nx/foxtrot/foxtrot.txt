@@ -2885,7 +2885,7 @@ flatfish
 forewing 3
 foxship
 frisettes 1
-fogies 1
+fogies 2
 formicarium 3
 footwear
 frabjously 1
@@ -3832,7 +3832,7 @@ fellside 1
 flectionless 3
 filthifying
 formin 1
-fairhead
+fairhead 1
 firewoods 1
 foulder
 fisticuffer
