@@ -390,7 +390,7 @@ equivocator 1
 emotiveness 1
 ebonized
 enfolden 1
-epact 1
+epact 2
 eutrophic
 embayed
 excelsitude
@@ -2437,7 +2437,7 @@ electroextraction 1
 euchological 1
 effulgences
 exinanition
-erythrophyll
+erythrophyll 1
 exendospermic 1
 engrails 1
 earthquaked 1
@@ -2811,7 +2811,7 @@ equatorially 2
 encephalon 1
 epipolic
 entoptical
-equivalencing 1
+equivalencing 2
 externalness
 eater 1
 epiclesis
@@ -8409,7 +8409,7 @@ electroencephalography 3
 elephantry
 eponym
 etiolate
-eponymus 1
+eponymus 2
 ensand 1
 email 3
 epicier 1
@@ -11994,7 +11994,7 @@ epitaphist 1
 ealderman 2
 exothermous 1
 epiploon 1
-excitations
+excitations 1
 escapes
 eastbound 2
 embargo 1
