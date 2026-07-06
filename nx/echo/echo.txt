@@ -1583,7 +1583,7 @@ evacuations
 erianthus 1
 estopped
 embay 1
-euphonetics 1
+euphonetics 2
 enablers 3
 eyewitnesses 1
 erecting 1
@@ -4175,7 +4175,7 @@ ecumenics 2
 eriocaulon
 empress 4
 esbay 1
-empresses
+empresses 1
 emprint 1
 emprises
 epinastically 2
@@ -4926,7 +4926,7 @@ earthgall
 exencephalia 1
 ebonises 2
 exiguous 1
-endship
+endship 1
 essentia
 exul
 effuses 1
@@ -7091,7 +7091,7 @@ engrossed
 epigastria 2
 established
 epimere 2
-examples 1
+examples 2
 edriophthalmous 2
 envisioning 2
 epistolising 2
@@ -9115,7 +9115,7 @@ eulogizer
 erythroxylon 1
 embouchment
 entotympanic 3
-ethnoses 1
+ethnoses 2
 epitela 1
 enlargements
 entwining 1
