@@ -1646,7 +1646,7 @@ centrobaric
 crureus
 calmest 1
 cytode
-calmier 2
+calmier 3
 calmiest
 compiling
 coeducationally
@@ -2552,7 +2552,7 @@ carvels 1
 circumcinct
 candlemaker 1
 candlemaking
-candlemas
+candlemas 1
 crewel 1
 childproof
 cacqueteuse 1
@@ -5454,7 +5454,7 @@ confront 2
 casaque 1
 castlewise 1
 castock
-credulous
+credulous 1
 clepes 2
 castoffs
 castoreum
@@ -25161,7 +25161,7 @@ corespect
 corespondent
 cystoflagellate
 coalition
-corespondents 1
+corespondents 2
 coretomy
 caterpillar 1
 chrysalidian 1
@@ -30683,7 +30683,7 @@ cuddlesome
 cuddliest
 celiagra
 calcinatory
-cuddling
+cuddling 1
 crusados
 cachimailla
 coses
