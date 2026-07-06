@@ -251,7 +251,7 @@ daggling
 directeur 1
 daghesh
 deoxyribonuclease 2
-duplicative 1
+duplicative 2
 dappling 2
 denitrate 1
 deincrustant
@@ -4418,7 +4418,7 @@ divelling 2
 directoral
 demethylate 1
 definitize
-demetricize
+demetricize 1
 declassifying
 draughtmanship
 diceplay
@@ -12662,7 +12662,7 @@ disepalous
 dentalize 1
 daedalus 2
 demiheavenly
-dogger 2
+dogger 3
 desexualize
 diviners
 diacids 1
@@ -14633,7 +14633,7 @@ dora 2
 degradability
 disinvite
 deuteropathy 2
-dizen
+dizen 1
 dlr 2
 devitalized
 dizoic 1
@@ -15673,7 +15673,7 @@ deflorescence
 dopping
 doppio
 dopper
-dactyloscopy 2
+dactyloscopy 3
 displeased
 dissipators 2
 dorab 1
