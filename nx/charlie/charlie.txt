@@ -3134,7 +3134,7 @@ cenotaphies
 cyclophrenia
 cyclopes 1
 capacitor
-chalker
+chalker 1
 catercornerways
 clone 2
 capanna
@@ -9488,7 +9488,7 @@ caffiso 1
 checkerberry
 checkerberries
 chorological
-checkerbloom
+checkerbloom 1
 calyciform 1
 cleaner 4
 checkery
@@ -13406,7 +13406,7 @@ cicone
 coconino 2
 ciconiform 1
 caramba
-ciconiiformes
+ciconiiformes 1
 ciconine 1
 cicorees
 copelatae
