@@ -903,7 +903,7 @@ gueparde
 geognost 2
 grassfire 2
 gobioid
-gymnonoti 1
+gymnonoti 2
 gusseted
 goosebird
 gez
@@ -3319,7 +3319,7 @@ guan
 germin 2
 gasteropod
 gobemouche
-gymnurine
+gymnurine 1
 guitermanite 3
 gneu 2
 gadbush 1
@@ -3366,7 +3366,7 @@ geosid 3
 gerontocrat
 gigglish 2
 grains 2
-gregarinian 1
+gregarinian 2
 greenwing 3
 greco
 gynaeolatry
@@ -4111,7 +4111,7 @@ goodly
 guaranin 6
 gemmule 1
 gainful
-geographical 2
+geographical 3
 gemmuliferous 2
 glossophaga 2
 gaggles
@@ -8054,7 +8054,7 @@ gambiae 1
 gusted 2
 gallocyanine
 gumless 1
-gettering 4
+gettering 5
 gasbags
 goladar 1
 gyromancy 4
@@ -9473,7 +9473,7 @@ glaciate 1
 grumbling
 goldfinnies 4
 gaseously 1
-griffonne
+griffonne 1
 gabled 1
 glandulosity 2
 genitalial 1
@@ -10093,7 +10093,7 @@ glottid 3
 gazetteer 1
 gonystylus 2
 goldenfleece 1
-graphospasm 1
+graphospasm 2
 gnomic 2
 galactoid
 gnotobiologies
