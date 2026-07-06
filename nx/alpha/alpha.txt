@@ -8181,7 +8181,7 @@ avoidances
 anacoluthia
 abiogenetic
 aglossate 1
-artisanship 2
+artisanship 3
 algoid 1
 adroitness 2
 anglophiliac 1
@@ -24555,7 +24555,7 @@ abigailship
 atlantis 1
 acinuni
 androcracy
-auxiliate
+auxiliate 1
 azilian
 abiosis
 amusively
