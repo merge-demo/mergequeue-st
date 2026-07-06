@@ -2619,7 +2619,7 @@ decolletage 1
 discontinues 3
 dronel 1
 desalter
-decoloring
+decoloring 1
 disavowed
 deforce
 dispose 2
