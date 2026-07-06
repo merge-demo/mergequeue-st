@@ -380,7 +380,7 @@ abetments
 ambulant 3
 antijam
 andesitic
-antietam
+antietam 1
 arsenide
 abetted
 adustive
@@ -3594,7 +3594,7 @@ adduces
 auricles
 adducible 2
 ampelideous
-artiodactylous 1
+artiodactylous 2
 adducted
 adducting 1
 aides
@@ -10069,7 +10069,7 @@ ambital 1
 anisole
 acondylous
 analysability 1
-ambition
+ambition 1
 apothecium 1
 acorned
 anisoin 1
@@ -18503,7 +18503,7 @@ arietinous
 arbor 1
 achillea
 acrocyst 2
-abdominal
+abdominal 1
 antiscripturism
 anthropoidal
 amphicondylous
