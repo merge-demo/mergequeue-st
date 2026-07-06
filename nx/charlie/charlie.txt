@@ -4795,7 +4795,7 @@ choanoflagellata 1
 cowlings
 carpoidea 1
 chalcidid
-carpolith
+carpolith 1
 confides
 clitellus
 carpology
@@ -20843,7 +20843,7 @@ capacitors
 conspissate
 contentedness 1
 compos
-crotalus
+crotalus 1
 cloverleaf
 caudodorsal
 corpulence
