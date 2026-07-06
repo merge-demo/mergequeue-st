@@ -4447,7 +4447,7 @@ beclothe
 banting 1
 bur 1
 bonasus
-behaviorally 1
+behaviorally 2
 bhili
 beribers 1
 beclothes 1
@@ -5021,7 +5021,7 @@ beetled 2
 blockage 2
 bedarkened
 boite
-beknave 1
+beknave 2
 banqueteer
 braunschweiger
 byliners 1
@@ -6409,7 +6409,7 @@ bestayed
 betting 1
 bewake
 benzophthalazine
-breakup
+breakup 1
 benzil 2
 banewort 3
 benzopyrazolone 2
@@ -9045,7 +9045,7 @@ brawest
 beckie 1
 booky 2
 biopsychology 1
-bidental 1
+bidental 2
 bespeaker
 bringal
 bize 2
@@ -12251,7 +12251,7 @@ boutre 1
 bolshevikian
 barrandite
 bogway
-bolshevist
+bolshevist 1
 biopoesis 1
 bolshevize 2
 bantamweights
@@ -17601,7 +17601,7 @@ burggrave 1
 burghbote 2
 brandished
 bristling 1
-burgherage
+burgherage 1
 beguine 1
 bottomlessly
 burghers 2
