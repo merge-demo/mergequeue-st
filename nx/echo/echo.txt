@@ -502,7 +502,7 @@ evenhandedness 1
 echappe 1
 eremic 1
 examinator
-emphyteusis
+emphyteusis 1
 echelle 1
 exhibitant
 electrosurgeries
@@ -10479,7 +10479,7 @@ effortful
 etoile
 etrenne
 exsurgent
-ellipsis 2
+ellipsis 3
 event
 etrog 2
 equatoreal 1
@@ -10642,7 +10642,7 @@ eudemonic
 epappose 1
 evilproof
 eisodic 1
-endergonic
+endergonic 1
 enmoss 1
 excavate 1
 endozoa
@@ -13714,7 +13714,7 @@ espec 1
 emotionlessness
 etiotropic 1
 eurygnathic
-exterminatrix
+exterminatrix 1
 extraconscious
 escarp
 earthing
