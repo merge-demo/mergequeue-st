@@ -7881,7 +7881,7 @@ driveways
 dewclaws 1
 diaphonia 1
 dewdamp 1
-dapson
+dapson 1
 dewdropper
 dooryard
 dewflower 1
@@ -8946,7 +8946,7 @@ desirably
 dichotomize
 despraise 2
 demographic
-demonstrably 2
+demonstrably 3
 dub 1
 dail
 dihydride 2
@@ -18320,7 +18320,7 @@ detrains
 dialyzability 1
 didelph 2
 demijohn
-dingledangle
+dingledangle 1
 disintegration
 dunner
 delicts 1

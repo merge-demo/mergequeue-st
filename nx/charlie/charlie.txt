@@ -5157,7 +5157,7 @@ cherimolla
 casein
 caseinate
 canvaser
-chaprassi
+chaprassi 1
 caseinogen 1
 caseload
 caprylene
@@ -15328,7 +15328,7 @@ conquests
 critter 1
 calluses
 chronographical
-clanjamfrey
+clanjamfrey 1
 chalcotript
 clanjamphrey 1
 clanked 1
@@ -15728,7 +15728,7 @@ comprehensives
 clavolet
 cumulonimbus
 clawed
-clawer
+clawer 1
 cubbishly 1
 clawers
 clawing
@@ -21666,7 +21666,7 @@ condylomatous 1
 condylopodous
 conjurator
 corditis
-clerically
+clerically 1
 condylure
 compriest 1
 chondria
