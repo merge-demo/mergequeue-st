@@ -3527,7 +3527,7 @@ gourmandize 5
 galvanisation 1
 gausses
 gharnao 1
-gilbertian 2
+gilbertian 3
 glossa 1
 gambolled
 goniaster 2
@@ -4743,7 +4743,7 @@ gobiiform
 glucogenic
 glassware
 gravidly 1
-gainfulness 1
+gainfulness 2
 gages 3
 gadi 1
 grapewort
@@ -5483,7 +5483,7 @@ glutinously
 grudgeons
 greencoat 3
 gangling
-glob
+glob 1
 gestured
 gnetum 3
 graduand 2
@@ -6773,7 +6773,7 @@ geochemical 2
 gondola 1
 goniums 5
 gasser
-glanis 1
+glanis 2
 gelsemin
 garbleable 3
 gesticulate 1
@@ -10155,7 +10155,7 @@ gemlich
 gatch 2
 gymnosperm
 grazioso 2
-grooper 1
+grooper 2
 guato 2
 genres 3
 guidepost
