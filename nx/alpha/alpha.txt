@@ -1501,7 +1501,7 @@ algid
 alpinery
 acclimatizer 1
 adrenalectomy 1
-amphipneustic 1
+amphipneustic 2
 acquaintancy 1
 agreeableness
 anticness
@@ -16226,7 +16226,7 @@ athymy 1
 airbound
 afara
 antistadholder 1
-aosmic
+aosmic 1
 antistatism
 antistatist
 achete
@@ -23358,7 +23358,7 @@ achaenocarp 1
 autota
 aftertimes
 auchenium
-auchlet
+auchlet 1
 accountrement 1
 argyll 2
 antenatalitial
