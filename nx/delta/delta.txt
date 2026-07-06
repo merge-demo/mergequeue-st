@@ -6766,7 +6766,7 @@ diathermic
 desilvers
 demultiplex 1
 demoniacal
-daeva 1
+daeva 2
 dolichocephal
 disheir
 drafts
@@ -10387,7 +10387,7 @@ discourtship 1
 dioxid 2
 devoured 1
 dioxides
-donald 1
+donald 2
 decimetre
 dinitril 1
 dentatocrenate 1
@@ -11325,7 +11325,7 @@ dissimulator
 disci
 diabases
 dermatocele
-dispreading
+dispreading 1
 disciflorae
 disunifying
 dispensating 1
@@ -12411,7 +12411,7 @@ diastematic
 dishrags 1
 dishtowels 2
 dimmish
-deciduate 1
+deciduate 2
 detrital
 dishumanize 1
 deipnodiplomatic
@@ -13564,7 +13564,7 @@ dissimulators
 defervescing
 decussation 1
 dissension
-datagrams
+datagrams 1
 dichotomising 1
 dogmatisation
 dyas 1
@@ -15113,7 +15113,7 @@ dazzles 1
 doilies 1
 decancellating
 diglottism
-desiderata 1
+desiderata 2
 divarication
 degummed 2
 diaphragmed
