@@ -18320,7 +18320,7 @@ detrains
 dialyzability 1
 didelph 2
 demijohn
-dingledangle
+dingledangle 1
 disintegration
 dunner
 delicts 1
