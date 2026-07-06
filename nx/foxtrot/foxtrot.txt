@@ -4488,7 +4488,7 @@ fertilizers 1
 fingerwise 1
 fecklessness 1
 ferrovanadium 2
-flour 2
+flour 3
 fisnoga 1
 factorship 2
 flouncing
@@ -8018,7 +8018,7 @@ fempty 1
 fetches 1
 floran 1
 fleying
-forecooler
+forecooler 1
 foreslow
 frumpled 1
 flirtational
@@ -8762,7 +8762,7 @@ fid 2
 frisette 1
 fortifys 1
 fraudulence
-finalist
+finalist 1
 ferther
 framboesia 2
 finniest
