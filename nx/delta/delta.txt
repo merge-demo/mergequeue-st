@@ -1092,7 +1092,7 @@ dedecorate
 defuses 3
 dartling
 decanoyl 1
-downpour 1
+downpour 2
 defluxion 1
 datiscaceae 1
 diestocks
@@ -11228,7 +11228,7 @@ denazify 2
 discabinet 1
 discamp 1
 drawstring 2
-discanted 2
+discanted 3
 dermochelys
 decompoundable 2
 dissembling
@@ -15922,7 +15922,7 @@ dictate 1
 digammic
 discoid 1
 dotchin
-dote
+dote 1
 declaring
 dynamitic 2
 dipartition
