@@ -6380,7 +6380,7 @@ distenant
 displacency
 desmology 1
 dillisk
-derotremata 1
+derotremata 2
 denization 1
 dewans
 doggones
@@ -7588,7 +7588,7 @@ deutzia 2
 deuzan
 discernible 1
 drou 1
-doublewidth
+doublewidth 1
 diddikai
 darking 1
 darwinistic 2
@@ -17683,7 +17683,7 @@ dialectally
 dorsalis 1
 detoxicating
 delivered 1
-decarbonizer
+decarbonizer 1
 diclinism
 dagame
 dioscorein
