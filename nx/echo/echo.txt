@@ -3089,7 +3089,7 @@ educationable 2
 ellipsograph
 executiveness 1
 esemplastic
-ellipticity
+ellipticity 1
 evergreen
 extemporize
 elliptograph 1
@@ -5272,7 +5272,7 @@ emmeniopathy 2
 endoscopies 1
 epipodia
 endoskeletons 1
-endosmic 1
+endosmic 2
 entrusts 1
 evaders 2
 enskies 1
@@ -14057,7 +14057,7 @@ escoting 1
 eyeline
 elektra 2
 enliven 3
-eidolons 1
+eidolons 2
 excandescency 1
 embellishments 1
 extrathermodynamic
