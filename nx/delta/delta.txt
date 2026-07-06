@@ -1227,7 +1227,7 @@ deinsularize 1
 datasetname
 datcha
 disparison
-disclamation
+disclamation 1
 demiassignation
 dolorimetrically
 dextrines
@@ -9102,7 +9102,7 @@ didacticism
 defile
 dispireme
 doundake
-dryish
+dryish 1
 didal
 dobbing 1
 didder
@@ -11407,7 +11407,7 @@ drungar
 devaluations
 deadeye
 duodenogram 1
-dehaites
+dehaites 1
 duroc
 degumming
 draconis 2
@@ -12628,7 +12628,7 @@ delimitizing 2
 diskelion 2
 downers
 dysury 1
-desmocytoma 1
+desmocytoma 2
 disker
 dystomic 1
 disgusted
