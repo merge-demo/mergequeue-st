@@ -16709,7 +16709,7 @@ centroplasm
 clothespresses 2
 cire 2
 clothiers
-clothings
+clothings 1
 catharpin
 crimpling
 clots
@@ -19862,7 +19862,7 @@ calamites 1
 calamopitys
 chamaedaphne
 cohibitive
-cuspidation
+cuspidation 1
 comfiness
 coulometrically 1
 comfit 1
@@ -24771,7 +24771,7 @@ coprophagist
 corroboree
 complying
 coprophagous
-chymified
+chymified 1
 coprophilism
 crepitaculum 1
 coprophilous
@@ -28996,7 +28996,7 @@ cried 1
 conable
 criey
 coxoceritic
-curiescopy
+curiescopy 1
 crier
 chemokinesis 1
 choletherapy 2
