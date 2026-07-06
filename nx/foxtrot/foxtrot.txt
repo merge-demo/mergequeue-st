@@ -1522,7 +1522,7 @@ farrow 1
 forepayment
 fishbowl 3
 funk 1
-flirtable
+flirtable 1
 fuselage
 fauvisms 2
 fraised 2
@@ -3623,7 +3623,7 @@ forehalf 1
 finial
 finfish 1
 fimbristylis 1
-florally
+florally 1
 fuchsines 1
 foreordination 1
 foregut 3
@@ -5170,7 +5170,7 @@ flatteringness 1
 fuzziest 2
 flustered 1
 fistulina 1
-fetalization 4
+fetalization 5
 farsakh 1
 flatulency 2
 flatfeet 1
@@ -6711,7 +6711,7 @@ flaggily 1
 faintheartedly 2
 frivolous 1
 frontrunner 1
-frustrations 1
+frustrations 2
 folksily 1
 fifth 3
 flame 1
@@ -8549,7 +8549,7 @@ forbearance
 forminate
 forming
 formless 2
-forwoden 2
+forwoden 3
 faveolus 3
 foxtrot 1
 flabbergasted 1
