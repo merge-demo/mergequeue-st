@@ -370,7 +370,7 @@ daymares
 disseizes
 diarists 1
 discoloured
-dasher 1
+dasher 2
 daymark
 doupion
 daimiate
@@ -5914,7 +5914,7 @@ duffer 1
 dayfly 2
 deprogrammed 1
 disedge 1
-drillstock 1
+drillstock 2
 dottling
 devonic 1
 dollish
@@ -6646,7 +6646,7 @@ dodecahedric
 deserting 1
 drabs
 diastimeter 1
-desertlessly
+desertlessly 1
 dungaree
 deserts 1
 deserve 1
@@ -10137,7 +10137,7 @@ dynes
 ductilized 1
 deminatured 2
 dinetic 1
-dinette
+dinette 1
 denazifies
 dissentiency
 destriers
@@ -11255,7 +11255,7 @@ disrealize 1
 discarnate
 duskier 2
 dimit
-discusser
+discusser 1
 directories 1
 dodginess 1
 doke
