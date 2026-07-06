@@ -2282,7 +2282,7 @@ folktale 1
 fulmineous 1
 fragging 2
 fluorocarbons 1
-floored 3
+floored 4
 fends
 filator 2
 fluoroscopies
@@ -4279,7 +4279,7 @@ filacer
 fleers 1
 fiancee 1
 follicule
-fibster
+fibster 1
 fenland 2
 fungology 2
 feudaries 1
@@ -5370,7 +5370,7 @@ filters
 floccillation
 faverel 1
 figged 3
-flnerie 1
+flnerie 2
 fluoridise 2
 foredetermine
 flunkyistic 1
@@ -7693,7 +7693,7 @@ flowering 2
 fishergirl
 fixedness 1
 franchised
-flourishment
+flourishment 1
 foziest 1
 fruition 2
 foreturn
