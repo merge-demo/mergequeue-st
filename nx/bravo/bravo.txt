@@ -5959,7 +5959,7 @@ benchmarks 1
 biauriculate
 beltman
 belts
-boigid
+boigid 1
 backstitches 1
 bloodspilling
 beadlike
