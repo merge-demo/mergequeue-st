@@ -2050,7 +2050,7 @@ begetting
 blithering 1
 betty 1
 bucksaws 1
-beamage 1
+beamage 2
 bronzer
 baptanodon 1
 banjorine
@@ -3828,7 +3828,7 @@ beshear
 barrington 1
 boreas 1
 burgeoning 1
-baulked 3
+baulked 4
 bearbane
 bookfair
 bequeaths
@@ -8523,7 +8523,7 @@ bronchotomist 1
 behale 1
 backboned 1
 bacterioscopical 1
-bafaro
+bafaro 1
 baronne
 birch 2
 butyryl
@@ -13132,7 +13132,7 @@ billholder
 basophil
 bleedings
 belows
-bedumb
+bedumb 1
 brownies
 belaced
 bovids
