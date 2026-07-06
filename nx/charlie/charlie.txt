@@ -3213,7 +3213,7 @@ capful
 caphar 2
 clistogastra
 cotillon
-clerkage
+clerkage 1
 capias
 capilaceous
 cushaw 1
@@ -4273,7 +4273,7 @@ captainries
 caresser
 clobberer
 caressers 1
-costively
+costively 1
 caressingly
 cachinnation 1
 chainwork
@@ -7746,7 +7746,7 @@ coys 1
 certiorate
 certis
 certitudes 1
-circularized
+circularized 1
 certosa
 certose
 certosina 1
@@ -7940,7 +7940,7 @@ contes
 cf 1
 cfd
 ch
-cha
+cha 1
 capture
 colloquized 2
 catchweed
@@ -9263,7 +9263,7 @@ chatterboxes 1
 chattered 1
 chincapin
 chatterers
-circuitously
+circuitously 1
 cassidoine 1
 chattererz
 chattery 1
