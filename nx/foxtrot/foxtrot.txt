@@ -2862,7 +2862,7 @@ flatwares 2
 formol 1
 feltyfare 1
 fisty
-finable 1
+finable 2
 foresails 1
 figworm 1
 fungid 1
@@ -4511,7 +4511,7 @@ filleul
 fuddles 2
 francophobia 1
 flagging 1
-forestalling
+forestalling 1
 farmlands
 feer 2
 foreigner
@@ -5248,7 +5248,7 @@ fratcher 2
 flavoriness
 falangist 1
 faveoli 2
-fulness
+fulness 1
 fitful 1
 fierceness
 fishmen 2
@@ -7549,7 +7549,7 @@ ferial
 ferrocyanhydric 1
 feazes 3
 foredesignment
-foremostly 3
+foremostly 4
 forecastle 1
 fundament 1
 forecastlehead 1
@@ -8147,7 +8147,7 @@ fourposter
 foretaster 1
 favissa
 foretasting 1
-fogless 2
+fogless 3
 fretsaw 1
 falisci
 fustigate
@@ -11595,7 +11595,7 @@ fragmentation 1
 fusions
 freity 1
 floscular 3
-fissional
+fissional 1
 foregallery
 fussbudgety 3
 fevers
