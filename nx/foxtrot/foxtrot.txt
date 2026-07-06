@@ -269,7 +269,7 @@ fax 2
 flagarie 1
 fideism 1
 fissle 2
-fledges 3
+fledges 4
 fungoids 2
 fragmentisation 2
 fraenums 3
@@ -366,7 +366,7 @@ fluorides 1
 faintly 3
 ferrymen 1
 furoid
-fearer 2
+fearer 3
 filicauline 1
 fall 2
 forbid 1
@@ -2443,7 +2443,7 @@ frazer 3
 fulgourous
 feasters 3
 fringillid
-freebooty
+freebooty 1
 fibrously
 fingu 1
 frontwise 2
@@ -4293,7 +4293,7 @@ forebodement 2
 forbearantly 1
 fennig 1
 foggish 2
-fanner 2
+fanner 3
 forficulate 3
 filch 2
 freshest 1
@@ -11666,7 +11666,7 @@ futhorc 1
 fillowite
 forepale 2
 foxskins 1
-functionalized 2
+functionalized 3
 fluavil
 fructiform
 fresne 1
