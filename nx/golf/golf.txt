@@ -3282,7 +3282,7 @@ gobangs
 genoblast 1
 galvanofaradization 3
 glottalization 1
-gasterosteus 2
+gasterosteus 3
 gyneccia 1
 gipsyesque 2
 geepounds
@@ -9175,7 +9175,7 @@ gangues 1
 grantsman 2
 gora
 gridding 1
-geographically 3
+geographically 4
 granulates
 glared
 goosed
@@ -9972,7 +9972,7 @@ guillevat
 guggled 1
 grousing 2
 gubbins 3
-geoethnic
+geoethnic 1
 gleamless 2
 galictis 1
 glutamic
@@ -10432,7 +10432,7 @@ gumdrop 1
 gelseminine 1
 gumly 2
 gruffs
-gambeer
+gambeer 1
 gelees 1
 guaiacs 1
 goatskins
