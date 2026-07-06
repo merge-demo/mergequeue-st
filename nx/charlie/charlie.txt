@@ -13996,7 +13996,7 @@ cyphella 2
 cypher
 cipherdom 1
 causeur 1
-cyphered
+cyphered 1
 cipherhood
 ciphering 1
 ciphertexts
@@ -18431,7 +18431,7 @@ cathedral 2
 cognominated
 cognomination
 cognoscent
-changeling 1
+changeling 2
 cognoscente
 cognoscing 1
 cognoscitive
@@ -28417,7 +28417,7 @@ caesarize
 creaky
 cholestene 1
 creakiness
-creaking
+creaking 1
 creambush
 creameries 1
 coracoids 2
