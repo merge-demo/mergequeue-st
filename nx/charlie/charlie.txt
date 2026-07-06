@@ -4795,7 +4795,7 @@ choanoflagellata 1
 cowlings
 carpoidea 1
 chalcidid
-carpolith
+carpolith 1
 confides
 clitellus
 carpology
@@ -5157,7 +5157,7 @@ cherimolla
 casein
 caseinate
 canvaser
-chaprassi
+chaprassi 1
 caseinogen 1
 caseload
 caprylene
@@ -15728,7 +15728,7 @@ comprehensives
 clavolet
 cumulonimbus
 clawed
-clawer
+clawer 1
 cubbishly 1
 clawers
 clawing
@@ -20843,7 +20843,7 @@ capacitors
 conspissate
 contentedness 1
 compos
-crotalus
+crotalus 1
 cloverleaf
 caudodorsal
 corpulence
