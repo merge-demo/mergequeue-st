@@ -1227,7 +1227,7 @@ deinsularize 1
 datasetname
 datcha
 disparison
-disclamation
+disclamation 1
 demiassignation
 dolorimetrically
 dextrines
@@ -12628,7 +12628,7 @@ delimitizing 2
 diskelion 2
 downers
 dysury 1
-desmocytoma 1
+desmocytoma 2
 disker
 dystomic 1
 disgusted
