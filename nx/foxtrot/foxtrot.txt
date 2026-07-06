@@ -2088,7 +2088,7 @@ floria
 foredefine
 fainty 1
 fesapo 1
-filletlike
+filletlike 1
 fear 4
 firmers
 forerehearsed
@@ -3688,7 +3688,7 @@ fathead
 firesider
 franchisal 1
 flannelboard
-folder
+folder 1
 fillable
 frownless
 flavorlessness 2
@@ -9621,7 +9621,7 @@ fleeciest
 freebooter 1
 freebootery 3
 forestiera
-freebooting 1
+freebooting 2
 feltwork 2
 facete 1
 familia 1
@@ -10903,7 +10903,7 @@ fango 2
 flayer 3
 furore 2
 familiarization 4
-fullish 1
+fullish 2
 foeman 1
 frigorifico 2
 fulgurated 3
