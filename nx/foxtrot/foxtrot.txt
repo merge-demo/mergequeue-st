@@ -8859,7 +8859,7 @@ flotillas
 fossage 4
 fanlight 2
 female 1
-fearable
+fearable 1
 flexured 2
 friss 1
 forthcome 2
