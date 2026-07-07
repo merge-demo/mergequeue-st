@@ -9529,7 +9529,7 @@ checkrack 2
 casehardens 1
 cricotracheotomy
 calaththi
-checkrein
+checkrein 1
 checkroll 1
 compathy 3
 checkrope
