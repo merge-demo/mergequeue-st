@@ -49,7 +49,7 @@ aquativeness 1
 astrakhan
 alcyone 2
 achira
-arcaded
+arcaded 1
 arguitively
 acanthotic
 alkylene
@@ -709,7 +709,7 @@ alkaid
 allayment
 autotoxaemia
 abortional
-antiglobulin 1
+antiglobulin 2
 abortionists
 ariot 2
 aminating 1
@@ -2215,7 +2215,7 @@ adsorbs
 achluophobia
 acholia 1
 acholoe
-acculturationist
+acculturationist 1
 abradant 2
 armatoli 1
 acholous
@@ -2723,7 +2723,7 @@ anamirta 1
 arrythmic
 angara
 acreman 2
-adiadochokinesis
+adiadochokinesis 1
 acremen 1
 acres 1
 antiarcha 1
@@ -5749,7 +5749,7 @@ assheadedness 1
 aftertouch 1
 achaeta 1
 agamist
-antiegoistical
+antiegoistical 1
 amassments 1
 aseitas 1
 agamogenetically
@@ -6542,7 +6542,7 @@ anthemed
 ahmed 1
 atrienses
 autoagglutinating
-asphalted
+asphalted 1
 ahmedi 1
 aholds 3
 ahom
@@ -6723,7 +6723,7 @@ allotypic 1
 azotin
 autocamp
 artocarpad
-armisonous 2
+armisonous 3
 autogiros
 aimee
 artize 1
@@ -7736,7 +7736,7 @@ averroistic
 actualise 1
 arthrolith 1
 administrants 1
-albumenize
+albumenize 1
 aquilino 3
 alcoholometric
 antitaxation 2
@@ -8608,7 +8608,7 @@ abstractionist 1
 allegorised
 anisogenous 1
 ademption 1
-allasch 1
+allasch 2
 anticus 1
 ammanite 1
 anecdota 1
@@ -9259,7 +9259,7 @@ alodialism
 aerophagist
 alodialist
 autodialers 1
-archdeaconry 1
+archdeaconry 2
 alodialty 1
 aroxyl
 adenogenous 2
@@ -10425,7 +10425,7 @@ amerind
 allantoic
 artichokes
 axe
-androgen
+androgen 1
 anatomisable
 aviararies
 amerinds
@@ -10494,7 +10494,7 @@ aegle
 aphanisia
 antireactive 1
 achimenes 1
-acanthoma
+acanthoma 1
 aponogetonaceous 1
 amianthus 1
 arcform
@@ -13994,7 +13994,7 @@ antagonization
 aclu 1
 antiempiricism
 antagonizing
-azaleamum
+azaleamum 1
 aglee
 antaimerina 1
 abrupter
@@ -15476,7 +15476,7 @@ antimediaevalist
 antimediaevally 1
 antimedical
 aslantwise 1
-antimedicine 3
+antimedicine 4
 anaptomorphidae
 antimedievalism 1
 antimedievally
@@ -15584,7 +15584,7 @@ aboves
 abseil
 antimoniuret 2
 anatine
-antethem 1
+antethem 2
 acetabulum
 antimoniuretted
 antimonopolistic 2
@@ -15617,7 +15617,7 @@ antinaturalism 1
 alopeke 1
 actus 2
 avowry 2
-appaloosa
+appaloosa 1
 accessory 2
 antinegroism
 apothecal 1
@@ -18958,7 +18958,7 @@ apopyle
 alienages 2
 adoptious
 angiomyocardiac 1
-archisynagogue 1
+archisynagogue 2
 anthropophagistic 4
 achyranthes
 autoschediastically
@@ -19117,7 +19117,7 @@ archturncoat
 archvampire
 archvillainy 2
 assuages
-aetosaurian
+aetosaurian 1
 analytics
 algorithm 1
 anisylidene 2
@@ -20920,7 +20920,7 @@ ancylostomum
 asgard 1
 arioso
 atm
-axiniform 1
+axiniform 2
 antihuman
 aerosiderite
 aldamine 1
@@ -21827,7 +21827,7 @@ allotropous
 altimetrical
 assidual
 agathodaemon 2
-aecial 1
+aecial 2
 anorexiant
 alaki 2
 advowson 3
@@ -23503,7 +23503,7 @@ arguendo 1
 atrabiliarious
 augurate
 abulias
-avert
+avert 1
 augure 2
 augured 1
 abeigh 1
@@ -25129,7 +25129,7 @@ antiascetic 2
 affirmers 1
 advective
 archarios
-anthidium
+anthidium 1
 abhominable 2
 addled 1
 ahem
