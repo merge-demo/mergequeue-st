@@ -2566,7 +2566,7 @@ gazetteerage
 gomerel
 giveaway 2
 guara 1
-gibbing
+gibbing 1
 guetare 1
 generative 2
 gilet 2
@@ -2756,7 +2756,7 @@ growling
 gimmor 2
 gascoigny 2
 greatcoat 3
-gyro
+gyro 1
 guydom 3
 gloppen 1
 gramophonist 1
@@ -4670,7 +4670,7 @@ gonarthritis
 gnawn
 goodhearted 1
 groveled
-geniality 2
+geniality 3
 glamourousness 1
 gecks 1
 garshuni 1
@@ -10724,7 +10724,7 @@ glyoxim 1
 goonda 3
 grumping 3
 gemmeous 2
-glyconean 1
+glyconean 2
 grandeur 1
 gubernatorial 2
 graphometric
