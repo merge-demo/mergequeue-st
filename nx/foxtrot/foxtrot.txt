@@ -5978,7 +5978,7 @@ firetrap 2
 fomites 1
 freeloader
 ferguson
-favism 2
+favism 3
 firkin
 fawn 1
 forecasters 2
@@ -8074,7 +8074,7 @@ fructiculture 2
 foresteep 1
 flockmaster 2
 feyest 1
-flowerist
+flowerist 1
 frontward 1
 fellahs
 foreutter 2
