@@ -4333,7 +4333,7 @@ eremacausis
 esoenteritis 1
 exotically 4
 embrasure
-enantiomorph 2
+enantiomorph 3
 encratic 3
 eluder
 equinovarus 1
@@ -6247,7 +6247,7 @@ educate 1
 epigaster 1
 ethanes
 enrich 2
-enrichener
+enrichener 1
 ectopias 1
 errant 1
 edaphic 1
@@ -9382,7 +9382,7 @@ extraordinarily 1
 exactus
 entonic 3
 explainer 1
-excruciating
+excruciating 1
 endeavor 1
 expection
 electroretinographic
@@ -10871,7 +10871,7 @@ eructation
 ereption
 euphemian 1
 electrolyzed 1
-enlivenments
+enlivenments 1
 emborders 2
 eucolite 1
 econometrics
