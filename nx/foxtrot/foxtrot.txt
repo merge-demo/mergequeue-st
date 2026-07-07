@@ -64,7 +64,7 @@ fconv 3
 fabulously
 facebar 1
 facebow 2
-fenchone
+fenchone 1
 faceharden 1
 flagships
 flecken
@@ -438,7 +438,7 @@ friskiest 1
 forewaters 1
 ferrophosphorus 2
 formulise
-flumdiddle
+flumdiddle 1
 formulistic 2
 fulminating
 fluctisonous 2
@@ -3463,7 +3463,7 @@ firmisternial 2
 figgiest 1
 fraternisation
 fecundity 1
-fella 1
+fella 2
 fleeches 1
 fingerable 1
 frostfishes 1
@@ -5091,7 +5091,7 @@ felter 1
 forvay 3
 flarer 1
 funorin 2
-fiendliest 1
+fiendliest 2
 foursquarely
 forelay 2
 flinches
@@ -8660,7 +8660,7 @@ flecks 1
 fir
 fittings 1
 ferretto
-fuzzed 1
+fuzzed 2
 fluence 4
 finnochio 1
 functionate 1
