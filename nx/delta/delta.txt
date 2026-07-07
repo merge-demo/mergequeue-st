@@ -2368,7 +2368,7 @@ dockman
 discocarp 1
 diplographic
 dechristianization
-diluted 1
+diluted 2
 dechristianize 1
 differentiated 2
 dionise
@@ -2386,7 +2386,7 @@ disownment
 diplontic
 dismantlement 2
 dayakker
-deciduity
+deciduity 1
 daver 1
 discommendable 2
 deciduously
@@ -5074,7 +5074,7 @@ dendroctonus
 degrade 1
 duplicating
 dendrohyrax
-deneutralization 1
+deneutralization 2
 dacryoadenalgia
 desexes
 detect 2
@@ -6770,7 +6770,7 @@ daeva 2
 dolichocephal
 disheir
 drafts
-detachments
+detachments 1
 desinence
 desinent 1
 dallying 1
@@ -9272,7 +9272,7 @@ diestrums 1
 discrepantly 1
 drupaceae
 disambiguations
-daikering 1
+daikering 2
 diurne 4
 daguerreotyper
 dietaries 2
@@ -14144,7 +14144,7 @@ darter 1
 defeating 2
 diswarrening
 daisy
-ducker 1
+ducker 2
 disulfid 1
 diazotizable 2
 drierman 2
@@ -16472,7 +16472,7 @@ dished 1
 dextropinene 1
 dublin 1
 dandifies 1
-drably
+drably 1
 defrosting
 divulges 1
 devolatilisation 1
