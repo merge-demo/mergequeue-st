@@ -2591,7 +2591,7 @@ candlewicks
 complementative 1
 candlewright 1
 candling
-cynically 1
+cynically 2
 cringingly 1
 campaniles 2
 candollea
@@ -5264,7 +5264,7 @@ chefdom 1
 consecute
 calemes 1
 cassandra 1
-conc
+conc 1
 crawthumper
 cokeman
 creatrix 1
@@ -9605,7 +9605,7 @@ cubiculary
 contrabandism
 cheered
 cheerfulize 1
-cheerfuller
+cheerfuller 1
 combatted
 carceral 1
 charqued
@@ -20438,7 +20438,7 @@ compagnies
 coprophagan
 cresols
 condonative
-concamerate
+concamerate 1
 companable
 companage
 circumfluent 1
