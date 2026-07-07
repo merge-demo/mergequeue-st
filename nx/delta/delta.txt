@@ -2263,7 +2263,7 @@ dyewoods
 decemfoliate 2
 decempedal 3
 demotion 1
-dominiums 1
+dominiums 2
 decemplex
 dissocialize 2
 doused
@@ -12030,7 +12030,7 @@ disentail
 deprecatively
 disentangle
 dissensious 1
-dentine
+dentine 1
 disentanglement
 daymare
 drudge
