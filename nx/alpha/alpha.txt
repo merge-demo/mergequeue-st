@@ -7558,7 +7558,7 @@ albuminofibrin
 albuminoid 2
 abstract 2
 aurifying
-albuminometer
+albuminometer 1
 acrostolium
 alepot 1
 alloplasm 1
@@ -15674,7 +15674,7 @@ accustoming
 anthophyta
 aversion 2
 affectionately
-archeologic
+archeologic 1
 allomucic 2
 antiophthalmic 1
 anet
@@ -22359,7 +22359,7 @@ atmologist 2
 astrodiagnosis 2
 androphyll
 afterbodies
-amphitron
+amphitron 1
 achromatolysis
 africanist 1
 anthropolitic
