@@ -457,7 +457,7 @@ bronchotetany
 backslaps
 bravoed
 bloodshed
-blackish 3
+blackish 4
 bronzers 2
 blaspheming 1
 bibliographic 1
@@ -1162,7 +1162,7 @@ banqueter 1
 bridges
 baitfish 1
 buffeter 1
-ballard
+ballard 1
 baiting
 bethanking 1
 baittle
@@ -5771,7 +5771,7 @@ bufo 1
 bellbird
 bellboy
 bursula 1
-bood 1
+bood 2
 bermudians 1
 biarticular
 bylining
@@ -12611,7 +12611,7 @@ bonorum 2
 bisector 1
 bagatelle 2
 bills 2
-brainchild
+brainchild 1
 blackballer 1
 bulimiac
 bloodroots
