@@ -5136,7 +5136,7 @@ endogenous
 enlistment 1
 echar 1
 electo
-embroider
+embroider 1
 endoglobular 1
 eleme 2
 existibility
