@@ -3967,7 +3967,7 @@ adjudging
 apocarps 1
 autarkik
 adjudicated
-apostrophied
+apostrophied 1
 adjudication 1
 agglutinin
 adjudicative
@@ -5451,7 +5451,7 @@ allod 4
 attainers
 aculeus
 admire
-agenesic 2
+agenesic 3
 adenoblast
 afortiori
 apocatastasis
@@ -20432,7 +20432,7 @@ alme 1
 artemision
 artemisium
 autoptical
-assistances
+assistances 1
 amatito
 aerialness 1
 antimodernness
@@ -22088,7 +22088,7 @@ astereognosis
 arthrosporic
 aburban
 asteriidae
-aquatically
+aquatically 1
 aplasia
 atmiatrics
 achromatophilic
