@@ -8280,7 +8280,7 @@ droob
 dissimile 1
 disinvigorate 1
 defocus 1
-dermatopathia
+dermatopathia 1
 diaguitas
 detestableness 1
 doebird
@@ -8326,7 +8326,7 @@ dejerate 2
 dargue
 daemonies 1
 disruptable
-dioestrum 2
+dioestrum 3
 disincline
 duchies
 decemfoliolate 1
@@ -9521,7 +9521,7 @@ doneness 1
 decohere 1
 digitigradism 1
 determa
-dictatorships
+dictatorships 1
 demimentoniere 1
 digitinerved
 depravement 1
@@ -12505,7 +12505,7 @@ decerns
 disowning 1
 disinfecting 2
 disinfections 1
-denormalized
+denormalized 1
 decrowned
 disciplinability
 decani
@@ -14854,7 +14854,7 @@ disnatural
 dimmers 3
 demarks 1
 drafters
-documentarist 1
+documentarist 2
 daggerproof
 diffugient 2
 decarbonator
