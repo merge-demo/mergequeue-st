@@ -80,7 +80,7 @@ flunkeyhood 1
 forme 2
 filching
 faces 2
-folkright
+folkright 1
 flattening
 flowerfence 3
 foliobranch 1
@@ -1024,7 +1024,7 @@ fringillidae 4
 foraging 2
 fogas 1
 faro 1
-fluoridization 2
+fluoridization 3
 fluorogen 4
 floter 2
 foredestining 1
@@ -9809,7 +9809,7 @@ frequentest
 feldspar 4
 functionalities
 frapp 2
-fallacies 1
+fallacies 2
 falchion 3
 fessways 1
 foolhardiest 2
