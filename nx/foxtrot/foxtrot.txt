@@ -1592,7 +1592,7 @@ floriage 2
 flappier 3
 frijol 3
 fervescence 2
-freightless
+freightless 1
 flannel 1
 fawkener 1
 favourably 3
@@ -7678,7 +7678,7 @@ flammant 1
 flambant 3
 foretopsail
 fermentability
-fittywise 2
+fittywise 3
 fiefdom 3
 forsteal 1
 forecasting
@@ -9020,7 +9020,7 @@ filly
 feltings
 farcist 2
 flavine 2
-fourpenny 2
+fourpenny 3
 fernless
 fableist 2
 fabricate
