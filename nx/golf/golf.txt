@@ -59,7 +59,7 @@ geometrine 1
 gelatinousness
 glucosidic 1
 goofball
-gibbon 4
+gibbon 5
 glauconia 2
 griller 2
 gluemaking 1
@@ -599,7 +599,7 @@ guineas 3
 gorgoniacea
 ghostweed 4
 graveside 1
-gloryless 2
+gloryless 3
 gurnets 2
 gramaries 1
 gazophylacium 2
@@ -9537,7 +9537,7 @@ gristliness
 groundkeeper 2
 glidder 3
 grumbler 2
-gleaners 1
+gleaners 2
 greenlander 1
 ger 1
 gadaea
@@ -10630,7 +10630,7 @@ gulches 1
 gunsmithing 1
 grossification 1
 griseous 2
-gunstocker
+gunstocker 1
 geronto 3
 girns 1
 glimmerous 3
