@@ -2128,7 +2128,7 @@ achesoun
 acheulean 1
 accustoms 1
 acumens 1
-achy 2
+achy 3
 absconds
 airtime 1
 anthologion 2
@@ -8436,7 +8436,7 @@ amoebaean
 alix 1
 antilipoid
 adjusted 1
-aljamia
+aljamia 1
 attirail
 atfalati
 alkahest
@@ -15476,7 +15476,7 @@ antimediaevalist
 antimediaevally 1
 antimedical
 aslantwise 1
-antimedicine 2
+antimedicine 3
 anaptomorphidae
 antimedievalism
 antimedievally
@@ -16291,7 +16291,7 @@ anilid 1
 antitintinnabularian 1
 averroist 1
 antitypal
-antityphoid
+antityphoid 1
 amaroid 1
 ankyloproctia
 antitypical
@@ -18250,7 +18250,7 @@ adjument
 aquopentamminecobaltic
 arcady
 aquose 2
-analogistic 1
+analogistic 2
 ar
 ara
 arabesks
