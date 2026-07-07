@@ -899,7 +899,7 @@ climaxes 1
 cajeputole 1
 cajeputs 1
 census 1
-cajolement
+cajolement 1
 celure
 cajolements 1
 coagulating 1
@@ -2253,7 +2253,7 @@ campusses
 campward
 chametz 1
 cerebrotomy 1
-camshach 2
+camshach 3
 counterproductiveness
 camshachle
 countershear 1
@@ -2333,7 +2333,7 @@ cipher 2
 canali 1
 canalicular
 convenance 1
-curatial 2
+curatial 3
 canaliculate 1
 ceremoniously
 canaliculated
@@ -6647,7 +6647,7 @@ copepods
 cottiers
 cedilla
 cedillas
-ceding
+ceding 1
 cosheath 2
 chromule
 cedrat
