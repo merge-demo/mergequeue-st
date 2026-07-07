@@ -3431,7 +3431,7 @@ genoa
 goodyness 1
 glasgow 1
 gallophobia 2
-gourdlike 1
+gourdlike 2
 gallous 1
 gentling 1
 griefful
@@ -4082,7 +4082,7 @@ gymnasts 1
 gibbi 2
 grahamism 2
 gigback
-glottal 1
+glottal 2
 goetic 1
 gannetry 2
 gigantean 1
@@ -4449,7 +4449,7 @@ gawcey
 gorry 2
 graveless 3
 gypsology
-griddler
+griddler 1
 gymnotokous
 gulp
 gypsophila 1
@@ -6420,7 +6420,7 @@ gilders 1
 gocart
 giddypate
 gnathostegite 1
-girnie 1
+girnie 2
 goburra 2
 glucidic
 gems 2
@@ -8278,7 +8278,7 @@ geeks 1
 gentleheartedly 1
 geopolitist 2
 glycocin 1
-galenite 3
+galenite 4
 glissaded 3
 groundless
 gnathostomi 1
