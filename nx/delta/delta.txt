@@ -2569,7 +2569,7 @@ directrices 1
 declivent
 derive
 dreamlike
-declivity
+declivity 1
 ducklingship 1
 dangled
 detoured 1
