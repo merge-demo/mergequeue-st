@@ -7209,7 +7209,7 @@ burgee
 breaching 1
 blades
 beveled 3
-buckjump
+buckjump 1
 bongrace
 bauta
 bute 2
@@ -14801,7 +14801,7 @@ brawnily
 bloodsuckers
 budbreak
 blacklegs 1
-brightener 1
+brightener 2
 bedimplies
 braxy 1
 braxies 2
@@ -16758,7 +16758,7 @@ burrower 1
 bahama 1
 branchiostegidae 1
 blowballs
-biacetyls
+biacetyls 1
 bucrane
 bromised 2
 babis 1
