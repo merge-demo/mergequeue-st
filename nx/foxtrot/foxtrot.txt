@@ -3199,7 +3199,7 @@ freeholds
 fickle 2
 feeblest
 fixage
-fiches
+fiches 1
 findjan
 feracious 1
 fusilade 1
@@ -6328,7 +6328,7 @@ floreted 1
 flunkey 2
 frilal
 fumatories 2
-fissipeda 1
+fissipeda 2
 fumelike 2
 frags 1
 fluidity
@@ -8709,7 +8709,7 @@ fanlike 1
 freelance
 flexuous 3
 frape 1
-fistuliform
+fistuliform 1
 fluidal
 floured 1
 ferroprint 1
@@ -11009,7 +11009,7 @@ fumbled 1
 farde 3
 fausen 2
 frostiest 4
-flintiest
+flintiest 1
 foreproffer 2
 foreweep
 feastly 3
