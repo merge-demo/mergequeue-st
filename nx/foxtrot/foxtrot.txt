@@ -4446,7 +4446,7 @@ febricity 2
 feste 1
 fate
 fooyung
-fishpole
+fishpole 1
 fishpoles 2
 flueless 4
 flameproof
@@ -7406,7 +7406,7 @@ fusk
 fatalistic
 forbow 2
 foreclose 2
-forestland
+forestland 1
 foolisher 1
 faying
 falterers
@@ -7522,7 +7522,7 @@ foisting 1
 floppily 2
 fatten
 fullface 1
-forebode 1
+forebode 2
 fauld 1
 frictionlessness 1
 fest 1
