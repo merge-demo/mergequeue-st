@@ -275,7 +275,7 @@ easterners
 eatability 3
 excamb 2
 erythrocytorrhexis 1
-emir
+emir 1
 enwwoven 2
 essoin 1
 ecotopic 1
@@ -585,7 +585,7 @@ examinate 1
 epidictic 2
 elitisms 1
 ebonise
-exobiological 1
+exobiological 2
 echt
 earliness 3
 ecchymosed 1
@@ -2270,7 +2270,7 @@ exormia 1
 enbloc 1
 eyelets
 endolymph 2
-excretal 1
+excretal 2
 elections 1
 eger 1
 encased
@@ -3044,7 +3044,7 @@ exogamy
 epidermis
 experimentalists 3
 elaidin 2
-embryotroph
+embryotroph 1
 equalities 2
 eumycetic
 elkslip
@@ -4841,7 +4841,7 @@ epispastic 1
 extrapolates
 essenis
 electrodialyzer 3
-englishly 1
+englishly 2
 eggers 1
 electrostenolysis 1
 ensured 3
@@ -5098,7 +5098,7 @@ enneagynous 3
 exundancy
 enoch
 electroosmotic
-euphorbiaceae 1
+euphorbiaceae 2
 extrapolate 1
 electromedical 2
 edgemaking 1
@@ -5908,7 +5908,7 @@ elysia
 espalier 3
 effluviography
 enslaving
-educatee
+educatee 1
 enjoyably 2
 enhypostasia 1
 estmark
@@ -7439,7 +7439,7 @@ earthlight
 encounterer 2
 ekphory
 eudemony
-euda
+euda 1
 enhaloing 3
 ephraimite 1
 exocoetidae 2
@@ -7469,7 +7469,7 @@ efficacity
 epidermically 1
 extinguised
 endungeon
-eolipile
+eolipile 1
 eaceworm
 ecuelle 1
 eulamellibranch 1
@@ -8325,7 +8325,7 @@ expeding
 epicontinental 1
 erosive 1
 endogenetic
-electrobiology 4
+electrobiology 5
 enjambement 2
 embracery 1
 euphrasies 2
@@ -9913,7 +9913,7 @@ embolisms 3
 estovers
 estradiol 1
 electrothermics 1
-earphone
+earphone 1
 emphasis 1
 epicentrum 2
 equicellular
@@ -11055,7 +11055,7 @@ eliminator 2
 eurythmics
 epiphenomena
 endotrophic 1
-epigonichthys
+epigonichthys 1
 enterrologist 2
 establish 3
 euroaquilo

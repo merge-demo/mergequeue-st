@@ -6287,7 +6287,7 @@ archengineer 1
 alnager
 arboretum 1
 asperifoliate 1
-antiferment
+antiferment 1
 aquerne 1
 annuitant
 achoo
@@ -6696,7 +6696,7 @@ accidential 1
 audible
 allemandes
 advertizement
-acarol
+acarol 1
 autosign 1
 ailsyte
 anthropotoxin
@@ -7244,7 +7244,7 @@ anadipsia 1
 accommodative
 algorist 1
 alalonga 1
-aurodiamine
+aurodiamine 1
 ambidexterity
 alalus
 androl
@@ -7344,7 +7344,7 @@ alba
 athrob
 atom 1
 aftertastes 2
-antihemophilic
+antihemophilic 1
 arzava
 artlet
 alembicate
@@ -7983,7 +7983,7 @@ autotropically
 amygdules
 alerting
 ales 2
-anion
+anion 1
 alesan
 arenicolous
 alkalis
@@ -8821,7 +8821,7 @@ alliterates 1
 apodixis
 alliterationist 1
 actinautography
-aspersions 1
+aspersions 2
 alimental
 anfractuousness 1
 airtightness 1
@@ -8834,7 +8834,7 @@ alodial 2
 antisensuously
 allium
 alliums
-antiministerialist 2
+antiministerialist 3
 allivalite
 appeases
 antisupernaturalistic
@@ -10518,7 +10518,7 @@ aasvogels
 amyclaean
 absinthism 2
 alisonite
-adscendent
+adscendent 1
 agib
 amyclas
 arrythmical
@@ -11947,7 +11947,7 @@ ananism
 annoyances
 aulostomus
 ananite
-anelace 1
+anelace 2
 aplanospore
 anankastic
 aqueomercurial
@@ -21239,7 +21239,7 @@ auction 1
 atoxic
 apparail 1
 angster
-atropin 1
+atropin 2
 ashore
 achates
 africana
@@ -23894,7 +23894,7 @@ actively 1
 arthritics
 asiphonate
 authentic
-authentically
+authentically 1
 aquaemanalia 2
 anthelae 2
 assignees
@@ -24300,7 +24300,7 @@ apparent 2
 autophytograph
 avocational
 aeroporotomy
-auteur 1
+auteur 2
 abacinate
 achafe 1
 autophon
@@ -25080,7 +25080,7 @@ ax
 abasia
 ascochyta
 axebreaker 2
-afterglide
+afterglide 1
 animalism
 aggregated
 axemen
