@@ -5664,7 +5664,7 @@ besped 1
 beldams
 bacchar 2
 bilify 2
-belderroot
+belderroot 1
 bodgie
 beleaguering
 bongar 1
@@ -7563,7 +7563,7 @@ beweeper 2
 beneficent 1
 beweeps 1
 bombilate
-boodler 1
+boodler 2
 bastardize 1
 bloodripe
 begiggle 2
@@ -16133,7 +16133,7 @@ batatilla
 brookite 1
 beneficient
 barbarianized 2
-battling
+battling 1
 bicolor 2
 buoy
 burgoo
