@@ -1542,7 +1542,7 @@ bezel
 basted
 batterdock 1
 ballads
-bullhoof
+bullhoof 1
 balete 3
 baralipton 2
 baltimore 1
@@ -8921,7 +8921,7 @@ bioclimatologist 2
 blowflies 1
 bouchons 2
 bowser 1
-blissfulness 1
+blissfulness 2
 barbarousness 1
 biocoenotic
 biodegradability
@@ -14404,7 +14404,7 @@ braillewriter
 boloman 1
 bambino
 bettors
-braincap
+braincap 1
 brachiferous 1
 braincase
 blastomycosis 1
