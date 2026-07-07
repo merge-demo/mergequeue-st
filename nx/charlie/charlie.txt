@@ -9530,7 +9530,7 @@ casehardens 1
 cricotracheotomy
 calaththi
 checkrein
-checkroll
+checkroll 1
 compathy 3
 checkrope
 cumulant 1
@@ -29203,7 +29203,7 @@ chromatospheric
 criosphinxes 1
 catrigged
 cryostat
-cryosurgeon
+cryosurgeon 1
 cryosurgery 1
 cryptogamia
 cryosurgical 2
@@ -30216,7 +30216,7 @@ conto 1
 crudy
 capitoulate 1
 concentrators
-cains
+cains 1
 cowberry
 cursed 1
 crudity
