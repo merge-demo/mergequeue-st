@@ -585,7 +585,7 @@ convokes
 colloque 2
 confort
 cuselite 1
-caduac 1
+caduac 2
 cruiseway
 commilitant
 catalineta 1
@@ -2795,7 +2795,7 @@ cagui
 cannings
 chemicalization
 chiccories
-cannister 1
+cannister 2
 cannisters 1
 crystallographically 1
 convally
@@ -5810,7 +5810,7 @@ catechization 1
 catechizer
 calamondin 1
 cojoin 1
-cheveys
+cheveys 1
 crofterize
 coeldership
 coyotillo 1
@@ -20555,7 +20555,7 @@ compeering 1
 corinthianesque 1
 checkerspot
 chromatophorous
-carbazin
+carbazin 1
 compellable
 cheirognomy 4
 compelled
@@ -28101,7 +28101,7 @@ craneway 1
 chorologist 1
 crany
 crania
-cancerate
+cancerate 1
 cosier
 crocodiline
 cranian
