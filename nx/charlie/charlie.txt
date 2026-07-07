@@ -18249,7 +18249,7 @@ coffeeman
 classico
 coffeepots 1
 colloidize
-coffeeroom
+coffeeroom 1
 coffees 2
 counterview
 continuant
