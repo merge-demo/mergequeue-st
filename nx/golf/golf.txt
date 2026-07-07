@@ -4253,7 +4253,7 @@ gippy 1
 grads 1
 gluttonous 3
 garganeys
-gustativeness 1
+gustativeness 2
 guiltsick
 gnocchetti 3
 gyrostabilizer 2
@@ -4380,7 +4380,7 @@ gadsman 1
 glucuronide
 glossotomies 2
 gobby 1
-gregarianism
+gregarianism 1
 grazierdom 1
 grainsickness 1
 gosplan 1
@@ -4518,7 +4518,7 @@ germane 1
 gagger 3
 grinter 4
 gladiole
-guardrail
+guardrail 1
 garotter 2
 guttiferales 2
 genoms 1
@@ -6626,7 +6626,7 @@ gonorrheic 1
 gurglingly 2
 grittiest
 gyrodyne 2
-gateman 1
+gateman 2
 gropes
 gambusias 1
 gondolas 2
@@ -6783,7 +6783,7 @@ gonoblast
 girders
 girded 3
 gentlemanism 3
-goodwill 3
+goodwill 4
 gratefuller 1
 gibel 1
 gumpus 1
@@ -8423,7 +8423,7 @@ gallinacei 2
 gjetost 2
 gleds 2
 gauziness
-gittern 2
+gittern 3
 gelid
 gurging 2
 grumpiness 4
