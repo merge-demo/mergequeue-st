@@ -8691,7 +8691,7 @@ bodysurf
 bournless 3
 buggyman
 bimanually
-breechloading
+breechloading 1
 basaltes
 beadiest
 broom 1
@@ -14556,7 +14556,7 @@ blackcurrant 1
 betrail
 branchiogenous 1
 branchiomere 1
-baikie
+baikie 1
 bottomless 1
 branchiopod
 belozenged
