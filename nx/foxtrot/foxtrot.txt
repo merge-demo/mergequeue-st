@@ -3669,7 +3669,7 @@ flosser 2
 farm 1
 fibrilated
 fidos 3
-footman
+footman 1
 flourishes
 flaying 1
 furnacer
@@ -7626,7 +7626,7 @@ fatalize 2
 farrier 1
 fossula 2
 ferroglass
-funipendulous 2
+funipendulous 3
 fescenninity 2
 ferganite
 frightenedness
@@ -11526,7 +11526,7 @@ furthered 2
 fra 2
 foretopmen 1
 floodable
-flixweed
+flixweed 1
 finalis 3
 fissidactyl
 fireflaught
