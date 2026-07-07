@@ -356,7 +356,7 @@ basseting
 benighter 2
 backfires
 brontolite 1
-boled 1
+boled 2
 brume
 bradypepsy
 backfiring 2
@@ -735,7 +735,7 @@ brakeless 1
 brokeress
 binful
 beautihood 1
-bransles 1
+bransles 2
 berrendo 1
 breeches
 bespangle
@@ -4079,7 +4079,7 @@ bskt
 baragnosis 1
 blitzkrieged 2
 beams
-bean
+bean 1
 boldness
 begottenness
 bedeafen
@@ -5786,7 +5786,7 @@ bookit 2
 bigthatch
 ballaster
 belton 1
-bountihead 1
+bountihead 2
 bellevue 3
 bonhommie 1
 begreen 2
@@ -6691,7 +6691,7 @@ bayesian 5
 browsability 1
 bismuthine
 broomstaff 1
-blitter
+blitter 1
 balaamitical 2
 beeishness
 bellpull 1
@@ -13281,7 +13281,7 @@ bosthoon 1
 banderillas
 bipont
 branchstand
-barman
+barman 1
 bludge 1
 bargello 2
 balawu
@@ -17027,7 +17027,7 @@ bondmaid
 buggess
 bethinks 3
 bulimy
-bismuthiferous 2
+bismuthiferous 3
 bulimias
 bronchiostenosis 1
 broomtail
