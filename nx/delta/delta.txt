@@ -902,7 +902,7 @@ dolorific 1
 dantology
 deink 1
 dashpots
-dextrin 1
+dextrin 2
 dandles
 dewitt
 decolourised 3
@@ -6071,7 +6071,7 @@ diatheses 1
 decompound
 dizened 2
 deraigning
-divest
+divest 1
 dispirits
 derailing 1
 demiworld 2
@@ -6151,7 +6151,7 @@ diarize 3
 daimonic 2
 drivecap
 desoxalate 2
-derfly 1
+derfly 2
 deric 2
 disbosomed 1
 deady
@@ -7881,7 +7881,7 @@ driveways
 dewclaws 2
 diaphonia 1
 dewdamp 1
-dapson 1
+dapson 2
 dewdropper
 dooryard
 dewflower 1
@@ -12594,7 +12594,7 @@ deepfroze
 disutilize
 directs 1
 dargsman 1
-daynet
+daynet 1
 decupled
 devel
 depetticoat 2
@@ -13594,7 +13594,7 @@ demicritic 1
 drawnet
 dorcopsis 1
 dissentive
-doughface 2
+doughface 3
 diavolo
 datakit 3
 doggereler 2
@@ -18075,7 +18075,7 @@ detrusor
 dullardness
 dullards
 donatories 1
-dolerite
+dolerite 1
 downhills 2
 decreed
 delves
