@@ -4815,7 +4815,7 @@ cladoniaceous
 couteau
 carpophyte
 covariables
-carpopodite
+carpopodite 1
 carpopoditic
 coordinating 1
 carpoptosia 1
@@ -12427,7 +12427,7 @@ cystostomy
 chromidae
 chromide
 chiffchaff
-chromides
+chromides 1
 chromidiosome
 circuses
 carolers
@@ -29077,7 +29077,7 @@ crimps
 cantatory
 corbans 1
 crimson
-crimsoned
+crimsoned 1
 crimsonness
 crin
 crinal
