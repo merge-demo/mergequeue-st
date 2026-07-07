@@ -2994,7 +2994,7 @@ buat 1
 burrel 1
 barroom 1
 barruly 1
-barsac
+barsac 1
 backhatch
 beaveries 2
 becowarding
@@ -9573,7 +9573,7 @@ bisantler
 budgets 1
 bothridium
 barque
-burucha 1
+burucha 2
 bogue
 betaking 2
 bluejack
@@ -16870,7 +16870,7 @@ breekums 1
 bounders
 buffont 2
 bactericidally
-buffooneries
+buffooneries 1
 benzoxycamphor
 balancelle
 biotechnologies 2
