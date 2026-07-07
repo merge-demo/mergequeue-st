@@ -127,7 +127,7 @@ basicranial 1
 bedimpled 1
 bedash 2
 boolian 1
-bacin 1
+bacin 2
 bourne 1
 banister
 basidiocarp 2
@@ -2837,7 +2837,7 @@ barotraumas 1
 barotropic
 barouchette 1
 bioecologic 2
-barouni
+barouni 1
 baroxyton
 benignantly 1
 beebread
@@ -3205,7 +3205,7 @@ basicerite 1
 basicity 2
 baloneys 1
 biolyses
-benzins
+benzins 1
 balancers 3
 booklores
 bromids
@@ -4509,7 +4509,7 @@ bumptiously 1
 brokes 2
 buffering 2
 buhrstone 4
-borocalcite 1
+borocalcite 2
 bathala
 brutifies 1
 becrust
@@ -4605,7 +4605,7 @@ beckon 1
 baptise 1
 bedbugs 3
 boden
-bummest
+bummest 1
 bedtick 1
 bedchair
 bacchic
@@ -4646,7 +4646,7 @@ borities
 bargee 1
 bedevilment 1
 bescarf
-bioplasmic 3
+bioplasmic 4
 betsileos
 bedewed
 ballistically 2
@@ -4863,7 +4863,7 @@ becrusts
 berean 1
 bedunced
 bacchantes 1
-bourgeon 1
+bourgeon 2
 bartholomew
 blephara 1
 briefings
@@ -8611,7 +8611,7 @@ beeswinged
 becowards 1
 billiards
 billyboy
-bivalved
+bivalved 1
 brules
 billies
 billyhood 2
@@ -9989,7 +9989,7 @@ bryum 1
 balustraded 1
 besauce
 baresma
-boneheads 3
+boneheads 4
 blattidae
 brevirostral
 bawdy
@@ -11461,7 +11461,7 @@ brawner 2
 blazingly 3
 bluesy 1
 bluesman 2
-bromisms
+bromisms 1
 bathflower
 beaverkill 1
 bluesmen 1
@@ -15005,7 +15005,7 @@ belgians
 brigous 2
 bagdi
 breathe
-bravuraish 2
+bravuraish 3
 blennophlogisma 1
 breathes
 bookishly 1
@@ -15500,7 +15500,7 @@ brongniardite
 blazon 1
 brodeglass
 braggishly
-boundary 1
+boundary 2
 booms
 bilboes
 breaststroker 1
