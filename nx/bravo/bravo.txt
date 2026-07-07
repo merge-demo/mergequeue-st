@@ -127,7 +127,7 @@ basicranial 1
 bedimpled 1
 bedash 2
 boolian 1
-bacin 1
+bacin 2
 bourne 1
 banister
 basidiocarp 2
@@ -197,7 +197,7 @@ bookiness
 bestirred
 bemoanable 1
 bloodmobile
-beweep 1
+beweep 2
 begary
 bioassays
 bigwigged 1
@@ -1663,7 +1663,7 @@ ballottines
 bathwort
 ballpark
 brasquing
-bandi
+bandi 1
 bescurf
 barrowist
 bardesanism
@@ -2837,7 +2837,7 @@ barotraumas 1
 barotropic
 barouchette 1
 bioecologic 2
-barouni
+barouni 1
 baroxyton
 benignantly 1
 beebread
@@ -4478,7 +4478,7 @@ braid
 becramp 1
 blackmail
 barbone 1
-balboas
+balboas 1
 bursicle 1
 bucklers 1
 bustling
@@ -4509,7 +4509,7 @@ bumptiously 1
 brokes 2
 buffering 2
 buhrstone 4
-borocalcite 1
+borocalcite 2
 bathala
 brutifies 1
 becrust
@@ -4863,7 +4863,7 @@ becrusts
 berean 1
 bedunced
 bacchantes 1
-bourgeon 1
+bourgeon 2
 bartholomew
 blephara 1
 briefings
@@ -6248,7 +6248,7 @@ blastogenesis
 bubas 1
 blatantly 1
 brush
-braceleted
+braceleted 1
 becalmed 1
 bimodulus
 benni 2
@@ -9989,7 +9989,7 @@ bryum 1
 balustraded 1
 besauce
 baresma
-boneheads 3
+boneheads 4
 blattidae
 brevirostral
 bawdy
@@ -11357,7 +11357,7 @@ bricked 1
 bromegrass 1
 bluchers
 bloodhound 1
-belouke
+belouke 1
 bludgeon 2
 bludgeons 1
 bludger
@@ -11461,7 +11461,7 @@ brawner 2
 blazingly 3
 bluesy 1
 bluesman 2
-bromisms
+bromisms 1
 bathflower
 beaverkill 1
 bluesmen 1
@@ -15500,7 +15500,7 @@ brongniardite
 blazon 1
 brodeglass
 braggishly
-boundary 1
+boundary 2
 booms
 bilboes
 breaststroker 1
