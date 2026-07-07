@@ -2715,7 +2715,7 @@ acrawl 1
 amygdalic
 amount
 agallop
-afoam
+afoam 1
 aquamarine
 ammochaeta
 acreage
@@ -13295,7 +13295,7 @@ aniseed 1
 adynamic
 atingle 1
 acrosarcum
-aniseikonic 1
+aniseikonic 2
 anisic 1
 autosuggestible
 apriorism
@@ -20976,7 +20976,7 @@ autotroph
 ascendancy 1
 ascendantly
 ascendence 1
-arteriomalacia
+arteriomalacia 1
 aftershaves 1
 ascending 1
 alaster
