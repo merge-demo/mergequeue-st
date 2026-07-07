@@ -40,7 +40,7 @@ furies 1
 farmscape 2
 flick 2
 fervently 3
-finically
+finically 1
 fabricature 2
 flamant
 figurette 2
@@ -391,7 +391,7 @@ farcy 1
 ficoes 1
 frislet 1
 fee
-faq
+faq 1
 febricide
 fibber 2
 frustraneous 1
@@ -894,7 +894,7 @@ flamed 1
 feel
 fluoroborate 2
 faradisation
-fluosilicic 2
+fluosilicic 3
 flagless 2
 fimbrilliferous 1
 faradised
@@ -915,7 +915,7 @@ fosterer 1
 fleecers 1
 flueric
 fumidity 1
-findal 2
+findal 3
 fibroadenoma 2
 forcat
 filmized 3
@@ -1751,7 +1751,7 @@ fireworms
 fedn 2
 forehear
 featherfew 2
-fluoridates 1
+fluoridates 2
 featheriness 1
 frogface
 foreslack
@@ -2246,7 +2246,7 @@ fainaiguer 1
 femora 2
 fatil 2
 fain 1
-fenced 1
+fenced 2
 fencelessness 1
 forkiest 1
 feudalisation 2
@@ -2268,7 +2268,7 @@ ficoid 1
 facemaker 1
 facaded 1
 florentinism 2
-fimble 1
+fimble 2
 flatulence
 firebombed 2
 fumaria 1
@@ -3030,7 +3030,7 @@ fioriture
 fairyology
 firemanship 3
 feoffers 1
-footwears 1
+footwears 2
 forpass
 feldspathoid 3
 frostflower
@@ -3381,7 +3381,7 @@ fishermen 1
 frivols 2
 filipinos 1
 follicles 2
-frothed 1
+frothed 2
 flokite 4
 frameableness 1
 floramour 2
@@ -4919,7 +4919,7 @@ fustianish 1
 flauntiest 1
 forebemoan 1
 flidder 2
-facetiously 1
+facetiously 2
 flatteringly 1
 fergusite 2
 frenetic 1
@@ -7679,7 +7679,7 @@ flambant 3
 foretopsail
 fermentability
 fittywise 2
-fiefdom 2
+fiefdom 3
 forsteal 1
 forecasting
 freeze 1
@@ -8596,7 +8596,7 @@ famulus 1
 forehard 1
 fred 1
 frenchwise 2
-fluorographic
+fluorographic 1
 fleered 1
 formulizing 1
 flapdoodle 1
@@ -8817,7 +8817,7 @@ fashionative 1
 forhooie
 forwearied 3
 formalizer
-fitchy 1
+fitchy 2
 fragmentate 1
 forgemen 2
 faradization 1
