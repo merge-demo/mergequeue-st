@@ -784,7 +784,7 @@ gaulter
 ganymede
 gutter 1
 gluck
-gutturize
+gutturize 1
 galvanothermometer 1
 ggr 1
 galliformes
@@ -930,7 +930,7 @@ guelphism 2
 gelototherapy
 garaging 1
 gammarine
-gursh 1
+gursh 2
 gingeli 1
 glibness 1
 gammerel 1
@@ -8221,7 +8221,7 @@ glycerolyses
 gelatinise 2
 glynn
 geometricize 1
-grandfatherless
+grandfatherless 1
 gestative 1
 gooseneck 2
 graphemically 1
@@ -8437,7 +8437,7 @@ guaiacums
 glitzy 1
 goldonian
 gortonite 2
-glassweed
+glassweed 1
 guadagnini
 gavottes 1
 gawked 2
