@@ -585,7 +585,7 @@ convokes
 colloque 2
 confort
 cuselite 1
-caduac 1
+caduac 2
 cruiseway
 commilitant
 catalineta 1
@@ -20555,7 +20555,7 @@ compeering 1
 corinthianesque 1
 checkerspot
 chromatophorous
-carbazin
+carbazin 1
 compellable
 cheirognomy 4
 compelled
@@ -28101,7 +28101,7 @@ craneway 1
 chorologist 1
 crany
 crania
-cancerate
+cancerate 1
 cosier
 crocodiline
 cranian
