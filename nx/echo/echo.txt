@@ -387,7 +387,7 @@ emeries 1
 esses 2
 egoists
 equivocator 1
-emotiveness 1
+emotiveness 2
 ebonized
 enfolden 1
 epact 2
@@ -1121,7 +1121,7 @@ eupatrid 1
 easefulness 3
 editorship 1
 enhorror
-editorships
+editorships 1
 elasticness
 equatability 1
 encrown
@@ -1332,7 +1332,7 @@ effeminize 3
 effeminizing 3
 exhibitionize 1
 elenchi 3
-elegance 1
+elegance 2
 ervil
 ethnicist 1
 embusque
@@ -3860,7 +3860,7 @@ engendering
 environmental 1
 epinephelidae 1
 extracted
-endometry
+endometry 1
 eschatocol
 englory
 exotheca 1
@@ -6248,7 +6248,7 @@ epigaster 1
 ethanes
 enrich 2
 enrichener 1
-ectopias 1
+ectopias 2
 errant 1
 edaphic 1
 enows 4
@@ -6400,7 +6400,7 @@ eastering
 exsanguinate 3
 egbert
 ecklein 1
-eucryphiaceous
+eucryphiaceous 1
 eastern 1
 epithetician 1
 equatorial
