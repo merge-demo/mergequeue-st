@@ -2830,7 +2830,7 @@ ficus 3
 fluidly 1
 flosses 1
 floorman 2
-feminisation 2
+feminisation 3
 fishhouse 1
 ferrozirconium
 floodlights
@@ -7436,7 +7436,7 @@ fruitlet 2
 fillemot
 faience
 firefall 4
-france
+france 1
 forevalue 1
 firstship
 forcibleness 2
