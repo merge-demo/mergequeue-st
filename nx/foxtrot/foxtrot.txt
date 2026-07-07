@@ -1589,7 +1589,7 @@ faniente 3
 favouring 1
 footroom 3
 floriage 2
-flappier 2
+flappier 3
 frijol 3
 fervescence 2
 freightless
@@ -1756,7 +1756,7 @@ featheriness 1
 frogface
 foreslack
 forsterite 2
-farfet
+farfet 1
 farsalah
 forlorn 1
 flatling 1
@@ -1929,7 +1929,7 @@ fixure 1
 feminities
 foamless 1
 fantasied 1
-furtherance
+furtherance 1
 finback 1
 feteritas 3
 federalistic
@@ -2509,7 +2509,7 @@ fingers 2
 fainthearted 2
 flipflop 4
 femorocele 1
-faction 4
+faction 5
 farted
 facinorousness 1
 formability 2
@@ -4952,7 +4952,7 @@ foreappoint 1
 fourflushers 2
 flameouts 2
 fictileness
-forbiddingness
+forbiddingness 1
 frets
 funkier 1
 flocculus
@@ -10213,7 +10213,7 @@ frizzy
 foresightedly 1
 fastings 2
 fleishig 1
-formalism 1
+formalism 2
 flint
 frangibleness 1
 feebly
@@ -11749,7 +11749,7 @@ foghorn
 flanking 1
 fatherland
 followings 3
-factorage 1
+factorage 2
 fumados 2
 fuzees 1
 fenchol 2
