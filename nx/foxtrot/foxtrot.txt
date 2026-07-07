@@ -368,7 +368,7 @@ ferrymen 1
 furoid
 fearer 3
 filicauline 1
-fall 2
+fall 3
 forbid 1
 fairfieldite 1
 facets
@@ -2903,7 +2903,7 @@ floorcloth
 find 1
 fimbricate
 featuring 1
-feudalists 1
+feudalists 2
 fractionising 1
 freetrader 2
 fomentations
@@ -4467,7 +4467,7 @@ frankenia
 furores 3
 flattercap
 flummoxed 2
-fermal 1
+fermal 2
 fishberry
 fashioned 1
 factorize 4
@@ -6047,7 +6047,7 @@ flisk
 fractal
 fluviology 1
 fibromas 1
-faeroese
+faeroese 1
 filippo
 farandine 1
 forethoughted 2
@@ -7657,7 +7657,7 @@ fatiscent 3
 flames 1
 forefield 1
 foreorlop 2
-flimsilyst 1
+flimsilyst 2
 flustroid
 forefinger 2
 figary 2
