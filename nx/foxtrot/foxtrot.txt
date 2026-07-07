@@ -162,7 +162,7 @@ farcialize
 formicaroid
 factionistism
 flips 2
-flirtatious 1
+flirtatious 2
 friborg 1
 fabulous
 factiously
@@ -794,7 +794,7 @@ florilege
 faucial
 fumingly
 faun 1
-frogeyes 2
+frogeyes 3
 fixatives
 fluctuations 1
 fanjet 1
@@ -1424,7 +1424,7 @@ fringing 1
 fistulatous 1
 fadmongering
 fetched 3
-fatuoid
+fatuoid 1
 fatuus
 foveate 1
 frankly
@@ -3811,7 +3811,7 @@ fairyism 1
 flusker 1
 fluoridisation 3
 flebotomy
-forestaves
+forestaves 1
 forthfare
 faut 1
 fazendeiro
@@ -3910,7 +3910,7 @@ frostproof 1
 frolicsomely 1
 fang 1
 foreseeable 2
-formalised
+formalised 1
 filopodia
 false 1
 filea 1
@@ -4271,7 +4271,7 @@ ferdwit 4
 fustians 2
 foiblesse 2
 foreordains 2
-fendable
+fendable 1
 fastuous 1
 firk 1
 febrifuges 2
@@ -4406,7 +4406,7 @@ fl 1
 frenches 2
 fullbacks 2
 folkmotes 3
-feulamort
+feulamort 1
 farand
 footpick 1
 fishily 1
@@ -6870,7 +6870,7 @@ fiery
 flasks
 friability 1
 feeds 1
-flourished 2
+flourished 3
 fossilise 1
 frecked 1
 flioma 2
@@ -9774,7 +9774,7 @@ fanworts 2
 fuchsins
 fevery 1
 ficoideae 1
-fretworks 2
+fretworks 3
 flexile
 frenchwomen
 franticness 1
