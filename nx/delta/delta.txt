@@ -2569,7 +2569,7 @@ directrices 1
 declivent
 derive
 dreamlike
-declivity
+declivity 1
 ducklingship 1
 dangled
 detoured 1
@@ -7752,7 +7752,7 @@ dayton
 discretively 1
 diplotegia
 defeasance 2
-devised 1
+devised 2
 decongests
 diphosphoric
 denicotinized
@@ -11009,7 +11009,7 @@ deinosauria
 disanalogous
 disanchor
 deliberations
-disanimation 2
+disanimation 3
 disannuller 1
 dialogues
 dichroic 2
@@ -11741,7 +11741,7 @@ dehydrogenize 1
 drawplate 1
 dexamethasone 1
 dino 1
-dogblow 1
+dogblow 2
 disported 1
 debellate
 deoxidising
@@ -16712,7 +16712,7 @@ decemvirs 1
 dantophilist
 dowelled 2
 dramaticle 1
-detractor
+detractor 1
 depopulate
 dramatiser 2
 duret
@@ -17547,7 +17547,7 @@ differencingly
 drugs 1
 druidess
 dunghilly
-dunites
+dunites 1
 denumeral 1
 disulfuric 2
 druidisms 2
