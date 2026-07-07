@@ -2270,7 +2270,7 @@ exormia 1
 enbloc 1
 eyelets
 endolymph 2
-excretal 1
+excretal 2
 elections 1
 eger 1
 encased
@@ -4841,7 +4841,7 @@ epispastic 1
 extrapolates
 essenis
 electrodialyzer 3
-englishly 1
+englishly 2
 eggers 1
 electrostenolysis 1
 ensured 3
@@ -7469,7 +7469,7 @@ efficacity
 epidermically 1
 extinguised
 endungeon
-eolipile
+eolipile 1
 eaceworm
 ecuelle 1
 eulamellibranch 1
@@ -11055,7 +11055,7 @@ eliminator 2
 eurythmics
 epiphenomena
 endotrophic 1
-epigonichthys
+epigonichthys 1
 enterrologist 2
 establish 3
 euroaquilo
