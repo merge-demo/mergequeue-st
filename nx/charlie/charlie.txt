@@ -3795,7 +3795,7 @@ carbazole
 carbeen 1
 cantorian
 carbide
-classicize 2
+classicize 3
 carbyl
 catchy
 cenacle
@@ -10354,7 +10354,7 @@ chicquing
 colly 1
 cystinuria
 chics 1
-chide
+chide 1
 callid 1
 classing
 chided
@@ -28682,7 +28682,7 @@ chroococcus
 constantine 1
 coloniser
 contaminates 2
-constitutes
+constitutes 1
 corone
 coplanar 1
 cannophori
@@ -30691,7 +30691,7 @@ chelys 1
 crawls 1
 class 1
 colorer 1
-cudgel 1
+cudgel 2
 communalizing 2
 chordates
 comparability
