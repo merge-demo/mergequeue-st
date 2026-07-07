@@ -1644,7 +1644,7 @@ grates
 gif 3
 gastrodermal 1
 gastrodermis
-gulfweed
+gulfweed 1
 galeopithecus
 glycin 1
 globed 1
@@ -2358,7 +2358,7 @@ garnisheing
 granddaughterly 4
 gentianal 1
 gilver 1
-gote
+gote 1
 gaulish 1
 gambadoes
 gobioidei 1
@@ -4193,7 +4193,7 @@ gynarchic
 gazella 4
 gowked 3
 geumatophobia
-gradometer 2
+gradometer 3
 galravitch 2
 gypsuming 2
 goniopholis 4
@@ -5588,7 +5588,7 @@ guayroto
 graptolithida 2
 globefish 1
 glochid 1
-geranial 1
+geranial 2
 glick 1
 garnice 3
 gra 1
@@ -5662,7 +5662,7 @@ gossoon 2
 gristliest 1
 greenlandman 3
 gnomonia 1
-gentilesse 2
+gentilesse 3
 gastrophrenic 1
 glossal
 glycerize
@@ -10622,7 +10622,7 @@ gunpower
 gasping 2
 gumminess
 gentled 1
-gimmickry
+gimmickry 1
 googols 1
 glusid 4
 gunshop 3
