@@ -2420,7 +2420,7 @@ bulliest
 byblidaceae
 bowdlerised
 bardings
-busyness 1
+busyness 2
 becalms
 barkiest
 bazar 1
@@ -8083,7 +8083,7 @@ bacteriohemolysin
 bicostate 1
 billows 1
 bicrenate
-bicrofarad
+bicrofarad 1
 barcas 1
 bicrural
 broodiness 1
@@ -10688,7 +10688,7 @@ brainwashes 3
 bleats
 bleck 1
 bewhistle
-bodhi 2
+bodhi 3
 bethreaten
 bestowage
 bleeped 1
@@ -12873,7 +12873,7 @@ babblish
 boonfellow 1
 betrayers 2
 bondslave 2
-behorror 3
+behorror 4
 bifoil 1
 birthplace 1
 bg 1
@@ -18167,7 +18167,7 @@ boldfacedly 1
 besonnet 1
 begets 2
 bosses 1
-biogenase 1
+biogenase 2
 butyrometer
 barometrically
 bubale 1
