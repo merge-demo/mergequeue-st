@@ -1052,7 +1052,7 @@ calcannea
 calcannei 1
 chloroplastid
 channellers
-calcareous
+calcareous 1
 chironomidae
 calcareousness
 capitalise
@@ -1994,7 +1994,7 @@ camerine 1
 casavas
 camerinidae 2
 camerist
-campanero
+campanero 1
 comp
 crenelates
 choliambist
@@ -5150,7 +5150,7 @@ casehardening
 candida
 casey
 caseic
-caretaker 1
+caretaker 2
 chrysographer
 cholecyanin
 cherimolla
@@ -6489,7 +6489,7 @@ cavefish
 cavey 1
 chromoscope
 cavekeeper 1
-cavelet 1
+cavelet 2
 confiner
 cambodia
 cavelike
@@ -6736,7 +6736,7 @@ celebrious
 celebrity
 counterinterpretation 1
 cornbin
-ciscos
+ciscos 1
 cribbages 1
 celebs
 celemin
