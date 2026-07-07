@@ -336,7 +336,7 @@ eighty 2
 exogamies
 electrodynamic
 enchantment
-electrocauterization
+electrocauterization 1
 epacridaceous 2
 espying 1
 emulsifier 1
@@ -2191,7 +2191,7 @@ epistome
 expanded 2
 esophagoplication
 eldermen 1
-entailing
+entailing 1
 expeditionist 1
 enumerating 4
 endognathion 2
@@ -2966,7 +2966,7 @@ elicits 1
 engagee 1
 epihydrinic 1
 elides 1
-electrotropism 3
+electrotropism 4
 epistoler 1
 ekronite 1
 entomology
@@ -5996,7 +5996,7 @@ ejects
 earns 1
 eluding
 extrapituitary 1
-emptily 3
+emptily 4
 extensimeter 4
 embayment
 endoparasitic 1
@@ -6335,7 +6335,7 @@ ensheathe
 excitomotion 1
 eburna 2
 ensheathing
-eruditely 1
+eruditely 2
 endoangiitis 1
 ellice 2
 enthrals
@@ -10008,7 +10008,7 @@ electrode 1
 eurhythmical
 encollar 1
 evanishing
-electrodiagnostically
+electrodiagnostically 1
 extrorsal 1
 electrodiagnostic 1
 expellable 2
@@ -10689,7 +10689,7 @@ estragon
 eremite 1
 easternism 2
 eugenically 1
-eugenie 2
+eugenie 3
 eugenism 5
 epikouros
 elatedness 1
@@ -12014,7 +12014,7 @@ experimentee 2
 excitosecretory
 excitovascular 1
 enamouring 2
-exclaiming
+exclaiming 1
 enface 1
 exclaims 3
 exclamative 1
@@ -12469,7 +12469,7 @@ exhortingly
 exhorts
 exaltations 3
 exhumate
-egoisms
+egoisms 1
 esquire
 evacuative 1
 eighteen
