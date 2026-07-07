@@ -6970,7 +6970,7 @@ despiteful 1
 digs 2
 daphnia
 dinoflagellate
-docility
+docility 1
 drags 1
 dumbfoundment
 despitefully
@@ -13761,7 +13761,7 @@ deteriorative
 dissolutionism
 dissolvableness
 dissolvative 1
-dissolve 1
+dissolve 2
 daffadillies
 druxy
 dissour
@@ -15665,7 +15665,7 @@ dopped 2
 deforced 1
 detractiveness 1
 debile 1
-disaffect 2
+disaffect 3
 dopperbird
 disespouse
 digitoxose

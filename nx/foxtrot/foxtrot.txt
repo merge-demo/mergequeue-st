@@ -3334,7 +3334,7 @@ fullmouthedly 1
 fandom 1
 fulcra 3
 fleshlike
-flon
+flon 1
 forsung 2
 flench
 furuncle 3
@@ -4515,7 +4515,7 @@ forestalling 1
 farmlands 1
 feer 2
 foreigner 1
-forslake 2
+forslake 3
 flooded 1
 fountainhead 2
 fructify 2
@@ -4891,7 +4891,7 @@ forwent 2
 fraternalism 1
 faucets 2
 fulvidness 2
-farina
+farina 1
 flyman 2
 federationist 2
 fathered 1
@@ -10712,7 +10712,7 @@ fruitstalk 1
 fg 3
 fusel 1
 foreset 1
-foresheets
+foresheets 1
 fleuretty 1
 fortuneless 1
 fringilla 3
@@ -11167,7 +11167,7 @@ fernlike 1
 foederal 2
 flywire
 fruitiest
-flatworms
+flatworms 1
 frumple
 francas 3
 fingerhold
