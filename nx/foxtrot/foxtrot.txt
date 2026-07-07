@@ -2047,7 +2047,7 @@ frontspiece 3
 feinter
 faucalize
 flindosa
-forwander 1
+forwander 2
 flatlander 3
 faunlike 1
 fogbows
@@ -2700,7 +2700,7 @@ frighteningness
 floodwall
 fishify 1
 fuminess
-ferrometer 2
+ferrometer 3
 faithing
 factioneer 2
 fungused
@@ -3682,7 +3682,7 @@ fiddleys 4
 filioque 2
 feistiest 1
 foysen 1
-fruitwise
+fruitwise 1
 futurisms
 fathead
 firesider
@@ -3906,7 +3906,7 @@ fusinist 1
 fluoridated
 fitly 2
 fullage 2
-frostproof 1
+frostproof 2
 frolicsomely 1
 fang 1
 foreseeable 2
@@ -4244,7 +4244,7 @@ flots 1
 frangipanni 1
 floridians 2
 flaxbird
-foreignize
+foreignize 1
 feverish
 flatterers 1
 frenzying
@@ -4882,7 +4882,7 @@ factuality 1
 fabricational 1
 funks 1
 foldedly 2
-fibrinate 3
+fibrinate 4
 fellage 1
 forbears 1
 freedmen 1
@@ -5195,7 +5195,7 @@ flaubert 1
 forestudy 1
 flaubert 1
 forestudy 1
-flossies 2
+flossies 3
 frondlet
 formularist
 fosterlings
@@ -6966,7 +6966,7 @@ flaky 1
 fostership
 flusherman 2
 follily 1
-feeblemindedness
+feeblemindedness 1
 fungivorous
 fadeless 2
 feldsher
@@ -9053,7 +9053,7 @@ fled 1
 fourther 3
 fouter 2
 foliator 1
-fustie 1
+fustie 2
 facade
 fondling
 fasc 3
@@ -9975,7 +9975,7 @@ forkbeard 2
 fleabane 1
 formated 4
 feceris 3
-flotant
+flotant 1
 fortuitism 1
 forsythias
 ferromagnetism 1
@@ -10233,7 +10233,7 @@ freudianism 2
 flopovers 1
 fervidness 2
 frogbit
-frogeyed 2
+frogeyed 3
 farewelling
 fissureless 1
 fibra 2
@@ -11691,7 +11691,7 @@ ferreous 1
 flare 1
 flyleaves 1
 fagaceous
-faced 1
+faced 2
 flippancy 2
 fanlights 2
 flapcake 2
