@@ -1496,7 +1496,7 @@ acclimatiser
 acclimatising
 aegagrus
 applewood
-aborsive
+aborsive 1
 algid
 alpinery
 acclimatizer 1
@@ -21047,7 +21047,7 @@ amphithalamus 1
 ascite
 ashluslay
 aceconitic
-agaz
+agaz 1
 allegorism 1
 asclepiad 1
 asporous
