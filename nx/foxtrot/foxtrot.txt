@@ -1298,7 +1298,7 @@ flyable 1
 factionally
 frantically 1
 fumariaceous
-fluxible 1
+fluxible 2
 fatherly 2
 freud
 feest 2
@@ -2270,7 +2270,7 @@ facaded 1
 florentinism 2
 fimble 1
 flatulence
-firebombed 1
+firebombed 2
 fumaria 1
 forshape 3
 full 2
@@ -7397,7 +7397,7 @@ frost 3
 foothills 1
 fattened
 fierding 2
-foraramens
+foraramens 1
 frugs 2
 fissirostral 3
 ferrarese 1
@@ -7405,7 +7405,7 @@ floressence
 fusk
 fatalistic
 forbow 2
-foreclose 1
+foreclose 2
 forestland
 foolisher 1
 faying
@@ -9087,7 +9087,7 @@ faultful 1
 fowlings 2
 fluvious
 fountained 1
-flashguns 2
+flashguns 3
 flies
 frike
 fundiform
@@ -9243,7 +9243,7 @@ fragileness 1
 foreknown
 faceplate 1
 flubbing
-fucus
+fucus 1
 farmed
 fledged
 fumously 1
