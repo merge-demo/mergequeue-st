@@ -9417,7 +9417,7 @@ birdseye 1
 baculiticone 2
 birdsnest
 bungfu 1
-bargehouse
+bargehouse 1
 brimmering 3
 borak 2
 befitting 1
@@ -12291,7 +12291,7 @@ bowfront
 biquartz 2
 brogans
 biflected 2
-boltrope 1
+boltrope 2
 begrave 1
 bonellia 1
 bindis 2
@@ -12611,7 +12611,7 @@ bonorum 2
 bisector 1
 bagatelle 2
 bills 2
-brainchild
+brainchild 1
 blackballer 1
 bulimiac
 bloodroots
@@ -14582,7 +14582,7 @@ basifies
 balladeer
 berretta
 branchlet 1
-bailer
+bailer 1
 branchman 1
 brandenburg 1
 brandenburger
