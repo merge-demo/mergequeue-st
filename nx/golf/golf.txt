@@ -6696,7 +6696,7 @@ guaiol
 glycolyl
 geer 2
 gride 2
-graphitic 1
+graphitic 2
 gigs 1
 gastronephritis
 gonidic 2
@@ -8274,7 +8274,7 @@ gallicolae 1
 garamond 4
 gurries
 gara
-geeks 1
+geeks 2
 gentleheartedly 1
 geopolitist 2
 glycocin 1
@@ -9599,7 +9599,7 @@ glandula 1
 graphite 2
 growliest 1
 gnathobdellida 2
-gunbarrel
+gunbarrel 1
 gelatinate
 goitered
 gossipmonger 1
@@ -10144,7 +10144,7 @@ glideness
 guardianly
 git 2
 gingely 2
-grown 2
+grown 3
 grandstands
 gyved 1
 gabs
