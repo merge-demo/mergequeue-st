@@ -3032,7 +3032,7 @@ borts
 buccinum 1
 branglement
 bopping 2
-burgesses
+burgesses 1
 bakership 2
 bartizans 2
 bourkha 3
@@ -7742,7 +7742,7 @@ bullan
 barquantine
 breakover
 bhindi 1
-bowstave 1
+bowstave 2
 bhishti 1
 bhistie
 berake
@@ -13545,7 +13545,7 @@ butterbough 1
 bibliophile
 bra
 burdening
-baling
+baling 1
 bootleg 1
 binucleolate 1
 ballutes
@@ -14686,7 +14686,7 @@ backbites 1
 blackishness 2
 bigmouth
 betusked
-brasiletto 2
+brasiletto 3
 brasilin
 bibliomancy
 balustrade 1
