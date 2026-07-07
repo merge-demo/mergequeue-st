@@ -4141,7 +4141,7 @@ extracranial
 energids 2
 enslumber 1
 expungement 1
-erythrodermia
+erythrodermia 1
 externum 4
 encl
 encaustes
