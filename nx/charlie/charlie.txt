@@ -14617,7 +14617,7 @@ cystolithiasis
 cystoma
 cystomas 1
 corpusculum 1
-cystometer
+cystometer 1
 cystomyoma
 coadore 1
 casterless 2
@@ -15848,7 +15848,7 @@ constants
 contredanses
 cleck
 commune
-coassumes
+coassumes 1
 chelidonate
 cledgy
 calibrator 1
@@ -21541,7 +21541,7 @@ conchinine
 concubine 2
 chasteningly
 calapite 1
-concubines
+concubines 1
 cottonless 1
 concubitancy
 concubitous 1
@@ -21562,7 +21562,7 @@ concrescible 3
 calyceraceous 1
 cofinal
 concurring 1
-concurs 1
+concurs 2
 christologist 1
 copesmate
 compulsorily
@@ -28117,7 +28117,7 @@ caunus
 craniocerebral
 calligraphist 1
 counteracquittance
-cranioclast 1
+cranioclast 2
 cussos 2
 celebrities
 cranioclasty
