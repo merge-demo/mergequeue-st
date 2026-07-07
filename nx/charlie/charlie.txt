@@ -3518,7 +3518,7 @@ chawbone 1
 capsulectomy 1
 chloroforming
 centinody
-countershaft 1
+countershaft 2
 crenelling
 chappow
 capsuliferous
@@ -3601,7 +3601,7 @@ cephalalgic 1
 corniest
 caqueteuse
 curvature
-caquetoire 2
+caquetoire 3
 cioppino
 chagrinned
 carabeen
@@ -6506,7 +6506,7 @@ cavia
 cavicorn
 cuprocyanide
 calve
-cavicornia
+cavicornia 1
 cavie
 conversely 1
 caviya 1
@@ -17709,7 +17709,7 @@ chessboards
 campuses
 cashier 3
 cocoanut
-chasing 1
+chasing 2
 cocoawood
 churchgoing
 cocobola
@@ -18565,7 +18565,7 @@ coiffeurs 1
 coiffeuses 1
 coiffured
 ceroxylon
-coiffures
+coiffures 1
 coiffuring
 coifing
 coeducate 1
