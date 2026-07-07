@@ -1751,7 +1751,7 @@ fireworms
 fedn 2
 forehear
 featherfew 2
-fluoridates 1
+fluoridates 2
 featheriness 1
 frogface
 foreslack
@@ -2246,7 +2246,7 @@ fainaiguer 1
 femora 2
 fatil 2
 fain 1
-fenced 1
+fenced 2
 fencelessness 1
 forkiest 1
 feudalisation 2
@@ -3030,7 +3030,7 @@ fioriture
 fairyology
 firemanship 3
 feoffers 1
-footwears 1
+footwears 2
 forpass
 feldspathoid 3
 frostflower
@@ -3381,7 +3381,7 @@ fishermen 1
 frivols 2
 filipinos 1
 follicles 2
-frothed 1
+frothed 2
 flokite 4
 frameableness 1
 floramour 2
@@ -8596,7 +8596,7 @@ famulus 1
 forehard 1
 fred 1
 frenchwise 2
-fluorographic
+fluorographic 1
 fleered 1
 formulizing 1
 flapdoodle 1
