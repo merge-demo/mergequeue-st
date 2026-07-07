@@ -7881,7 +7881,7 @@ driveways
 dewclaws 2
 diaphonia 1
 dewdamp 1
-dapson 1
+dapson 2
 dewdropper
 dooryard
 dewflower 1
@@ -9517,7 +9517,7 @@ deedfully
 diathermanous
 digitated
 demissly
-doneness
+doneness 1
 decohere 1
 digitigradism 1
 determa
@@ -9976,7 +9976,7 @@ dimmer 2
 defensor 2
 dasyatidae
 dimness 1
-decisiveness 1
+decisiveness 2
 dermatographism 1
 dysacousma 2
 disopinion 1
@@ -11435,7 +11435,7 @@ digredience
 dekaliter
 dishier
 diplodia 2
-dicarboxylic 1
+dicarboxylic 2
 djuka
 deployments
 disaccharid 1
@@ -12594,7 +12594,7 @@ deepfroze
 disutilize
 directs 1
 dargsman 1
-daynet
+daynet 1
 decupled
 devel
 depetticoat 2
@@ -13594,7 +13594,7 @@ demicritic 1
 drawnet
 dorcopsis 1
 dissentive
-doughface 2
+doughface 3
 diavolo
 datakit 3
 doggereler 2
@@ -18075,7 +18075,7 @@ detrusor
 dullardness
 dullards
 donatories 1
-dolerite
+dolerite 1
 downhills 2
 decreed
 delves
