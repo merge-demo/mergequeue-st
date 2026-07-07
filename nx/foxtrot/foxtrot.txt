@@ -7288,7 +7288,7 @@ filefish
 frache 2
 fenestral 1
 fluff
-fagald
+fagald 1
 finchbacked 1
 forsaking 5
 fishyard 1
@@ -9978,7 +9978,7 @@ feceris 2
 flotant
 fortuitism 1
 forsythias
-ferromagnetism
+ferromagnetism 1
 furze
 friesian 1
 forceps 1
@@ -9996,7 +9996,7 @@ frightens
 fallibilist 1
 frighting
 floridness
-friedrichsdor 1
+friedrichsdor 2
 flaggingly 2
 flutterless 1
 fakeers 2
@@ -10513,7 +10513,7 @@ fluffs 1
 frostfish 1
 forcite 4
 frostbitten 3
-frosty
+frosty 1
 frictionable 2
 fantasticality 2
 frostily 3
@@ -11015,7 +11015,7 @@ foreweep
 feastly 3
 furfurol 2
 feign 2
-fumbles 1
+fumbles 2
 fumblingness 1
 fumed 1
 fungiferous
