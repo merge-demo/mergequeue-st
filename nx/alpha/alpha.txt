@@ -3967,7 +3967,7 @@ adjudging
 apocarps 1
 autarkik
 adjudicated
-apostrophied
+apostrophied 1
 adjudication 1
 agglutinin
 adjudicative
@@ -5451,7 +5451,7 @@ allod 4
 attainers
 aculeus
 admire
-agenesic 2
+agenesic 3
 adenoblast
 afortiori
 apocatastasis
@@ -6271,7 +6271,7 @@ annulettee 1
 allodian 2
 agonizedly 1
 agabanee
-amylin 1
+amylin 2
 agonizer
 avenged
 aunjetitz 1
@@ -6675,7 +6675,7 @@ aikido 1
 amatories 2
 anarcestean
 ably 1
-archvisitor
+archvisitor 1
 aikinite 2
 aikona 1
 asphyctic 1
@@ -15843,7 +15843,7 @@ authorization 1
 appetizingly
 antipyics
 antipyonin
-antithrombin 1
+antithrombin 2
 alert
 arbitrages
 antipyretics
@@ -16051,7 +16051,7 @@ antirenter 1
 aldehol 2
 acinacious
 astelic
-adviceful
+adviceful 1
 antirepublicanism
 ampulla 2
 actionize
@@ -17831,7 +17831,7 @@ atmans 1
 aheap 1
 albizzia
 afteroar 1
-agnathostomata
+agnathostomata 1
 amelioratively
 appraises 1
 appraising
@@ -20432,7 +20432,7 @@ alme 1
 artemision
 artemisium
 autoptical
-assistances
+assistances 1
 amatito
 aerialness 1
 antimodernness
@@ -22088,7 +22088,7 @@ astereognosis
 arthrosporic
 aburban
 asteriidae
-aquatically
+aquatically 1
 aplasia
 atmiatrics
 achromatophilic
