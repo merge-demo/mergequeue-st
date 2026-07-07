@@ -5311,7 +5311,7 @@ bournes
 begirds 1
 bickered
 beefed
-begirt 1
+begirt 2
 bogies
 beglerbeglic
 bakalai 1
@@ -6172,7 +6172,7 @@ bethflower 1
 benefit 2
 benefited 1
 bromizer 1
-blackhead 1
+blackhead 2
 bashyle 2
 blushful 2
 benefiting 1
@@ -10834,7 +10834,7 @@ befriz 1
 boxtree
 bawneen
 bider 1
-bhikku 2
+bhikku 3
 banished 2
 blethe 1
 bromomethane 1
@@ -14847,7 +14847,7 @@ breachers
 belonite
 bedim 1
 bulborectal
-breachful
+breachful 1
 briefcases
 breadbasket
 becroak
@@ -17571,7 +17571,7 @@ burgamot
 betrace
 bootjacks
 balante 3
-beadrow 3
+beadrow 4
 blayne 1
 boorishly
 blore
