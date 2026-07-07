@@ -672,7 +672,7 @@ bronchocavernous
 bynames 1
 bungles
 bkpr 1
-backbitten 1
+backbitten 2
 bacterized 1
 barefacedly
 brisk
@@ -1900,7 +1900,7 @@ bloodier 2
 bella
 bandidos
 baronetizing 2
-bushie
+bushie 1
 bandie 2
 bilinear 1
 batrachoplasty 3
@@ -9364,7 +9364,7 @@ bewrathed
 brinish 2
 bonsela 2
 baroscope
-brockets 1
+brockets 2
 baleless
 bushi 1
 blirt 1
@@ -13997,7 +13997,7 @@ brontops 1
 bemeal 1
 brabanter
 blindfolder 2
-borderlander
+borderlander 1
 bidonville 1
 biophagous
 brabble 1
@@ -15015,7 +15015,7 @@ breathless 1
 beaufet 1
 breathseller
 breba 2
-brewmaster 1
+brewmaster 2
 brachering 1
 boatly
 breccias
