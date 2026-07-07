@@ -1353,7 +1353,7 @@ bookdealer 2
 bioplastic 1
 barrowcoat 1
 brod
-botrylle
+botrylle 1
 backdrops
 butterflyer 2
 borderlands
@@ -1663,7 +1663,7 @@ ballottines
 bathwort
 ballpark
 brasquing
-bandi
+bandi 1
 bescurf
 barrowist
 bardesanism
@@ -2619,7 +2619,7 @@ breastbones 2
 bifronted 1
 bhaiyachara 3
 borana 2
-bunglesome
+bunglesome 1
 barkey
 briers
 barkery
@@ -4444,7 +4444,7 @@ beclogs
 bonspells
 bilabials
 beclothe
-banting 1
+banting 2
 bur 1
 bonasus
 behaviorally 2
@@ -11650,7 +11650,7 @@ boffos 3
 blacketeer
 baccare
 bittacle
-beachboys 1
+beachboys 2
 barterers 1
 berend 1
 broideress 1
