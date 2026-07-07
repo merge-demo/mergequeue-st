@@ -1681,7 +1681,7 @@ fleeching 1
 furnace 1
 fingertip 4
 foreordaining 2
-forehandsel 1
+forehandsel 2
 fanfares
 fearsomeness 2
 foreshape 2
@@ -1808,7 +1808,7 @@ forkmen 2
 flaithship 1
 frustules 2
 fastigiately 1
-fanfarade
+fanfarade 1
 flyspecks 2
 fastener 2
 forgets 1
@@ -4705,7 +4705,7 @@ fizziest
 friand 1
 fluidram 1
 forte 2
-formula 1
+formula 2
 forefeels 3
 fucales 1
 firesideship
