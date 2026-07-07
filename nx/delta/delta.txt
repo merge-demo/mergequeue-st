@@ -5924,7 +5924,7 @@ deprogrammings
 deprograms 1
 dropforged 1
 deprome 1
-demisphere 2
+demisphere 3
 disaffectedly 2
 deprostrate 1
 draughtiest 2
@@ -5969,7 +5969,7 @@ deadman 1
 dandered 1
 drayages
 depurate 1
-dulcarnon
+dulcarnon 1
 dicliny 2
 depuratory
 depure 1
@@ -6819,7 +6819,7 @@ dyne 1
 deceptivity 2
 discoidal
 desmidiology 2
-dandyishy
+dandyishy 1
 dethroner
 diorthotic 1
 dvorak 1
@@ -7319,7 +7319,7 @@ dissuasiveness 1
 disemploying
 dowless 1
 douceurs
-determined 1
+determined 2
 dextropedal
 diphenylenimide 2
 detorsion
@@ -9913,7 +9913,7 @@ ductilely 1
 dermatoptic
 drear 1
 dimetry
-disorganizes
+disorganizes 1
 densimetry
 dimyaria 2
 downwardness 1
@@ -11368,7 +11368,7 @@ disciplining 1
 depopulator 1
 disyllabism 1
 diphosphothiamine
-desktop 2
+desktop 3
 discontentedly
 deadbeats 1
 doctrinize
