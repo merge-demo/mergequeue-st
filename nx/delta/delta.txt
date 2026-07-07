@@ -1364,7 +1364,7 @@ deliquescent 2
 definer 1
 dauphine 1
 drooping
-drawboard
+drawboard 1
 drapable 1
 dauri 1
 dipterocecidium 1
@@ -10532,7 +10532,7 @@ diceratidae 2
 diazotate 1
 deipotent 1
 dimpling
-diffidation 2
+diffidation 3
 dyemaker 1
 demiking
 dauw 1
