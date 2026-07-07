@@ -2985,7 +2985,7 @@ byerlite 2
 barrios 1
 bumkin 1
 brachyoura
-boulevard
+boulevard 1
 barrister
 bootless
 banda
@@ -3441,7 +3441,7 @@ bleaching 1
 belzebuth 2
 bastardry
 briny
-bastards 1
+bastards 2
 bioptic 1
 barrelfishes 2
 baster 1
@@ -9856,7 +9856,7 @@ brassica
 billed 1
 brennschluss
 barbing 1
-begums
+begums 1
 bites
 bebat
 bytes 1
@@ -9888,7 +9888,7 @@ bito 2
 bicalvous
 bitonalities 1
 belibeling
-breaghe 1
+breaghe 2
 balonea 1
 besotter 1
 brasilete
@@ -11080,7 +11080,7 @@ brid 2
 bankruptlike
 beguines 1
 blockheadish 1
-blockheads
+blockheads 1
 bedrip
 bilirubinic 1
 billy 3
@@ -13852,7 +13852,7 @@ bergsonian 1
 baptizes 2
 belittles
 broadtail 2
-burkite 3
+burkite 4
 broadhead
 bedded 1
 babbly 2
@@ -17062,7 +17062,7 @@ brachiocephalic
 barosinusitis 1
 bullamacow 2
 bleakly 2
-brodekin
+brodekin 1
 bullate
 bullback
 bullbaiting
