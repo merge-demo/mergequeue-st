@@ -758,7 +758,7 @@ bending 1
 befoul
 babiches 1
 badges 1
-badging 2
+badging 3
 buddhism 2
 banksman
 bifrost
@@ -1933,7 +1933,7 @@ besieger 1
 bodiced
 bareheaded
 bubonalgia
-bandanas
+bandanas 1
 bergama 1
 bandogs 1
 bediademed 2
@@ -2352,7 +2352,7 @@ bepuff 2
 barbierite
 busyish 1
 blatancies 2
-bromite 1
+bromite 2
 briber 2
 barbita
 barbital 1
@@ -3274,7 +3274,7 @@ bitumens
 bolted
 basinal
 brazil
-bushland
+bushland 1
 broader 1
 boniform 2
 blunderful 1
@@ -4104,7 +4104,7 @@ beansetter
 beanshooter 1
 beanstalk 2
 bestiaries
-bearbaiter 1
+bearbaiter 2
 bedmaking 1
 blearedness 1
 bioclimatology
@@ -5800,7 +5800,7 @@ becrawling 2
 buhrmill 1
 bedlamic 1
 bombyliidae 1
-batfish 2
+batfish 3
 booboo
 bimetallism 2
 berengelite 1
@@ -6539,7 +6539,7 @@ breezy
 bioecologies
 bookkeeping
 browningesque
-banisters
+banisters 1
 ballader 1
 birdshot
 besprizorni 1
@@ -7213,7 +7213,7 @@ buckjump 1
 bongrace
 bauta
 bute 2
-bituminised
+bituminised 1
 balearic
 bequirtle
 bestrew
@@ -7339,7 +7339,7 @@ bullidae 2
 bilbies
 bunker
 burritos
-becumber
+becumber 1
 beryl 1
 blinky
 brasilia
@@ -7592,7 +7592,7 @@ bindweeds 1
 bewilderedly
 bluepoints
 bemadams 1
-bedroll 1
+bedroll 2
 bollixes 1
 bribri
 brisbane 2
@@ -7957,7 +7957,7 @@ boanbura
 balistraria 2
 beryllium 1
 borborygmi 2
-bodymaker
+bodymaker 1
 billing
 barothermogram 1
 bibulousness 1
@@ -10441,7 +10441,7 @@ bribetaking
 biune 1
 briquetting 1
 boutade
-beachboy 2
+beachboy 3
 bastion
 boghole
 blowbacks
@@ -11824,7 +11824,7 @@ bryophyta
 balkis
 basketworm 1
 bodefully
-bodegas
+bodegas 1
 baking
 brigands 1
 blazy
@@ -13363,7 +13363,7 @@ beety
 binding
 bathyorographical
 blastman
-breeders 1
+breeders 2
 benightedly
 brusquely 1
 bothersomely 1
@@ -13852,7 +13852,7 @@ bergsonian 1
 baptizes 2
 belittles
 broadtail 2
-burkite 2
+burkite 3
 broadhead
 bedded 1
 babbly 2
@@ -14893,7 +14893,7 @@ breadstitch
 burnet 1
 brakehand
 blackwork
-betrample
+betrample 1
 bechalking
 berms
 beefs 1
