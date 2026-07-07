@@ -3081,7 +3081,7 @@ et 2
 enheritage 4
 endamoeba 2
 embeds 1
-emp 1
+emp 2
 engilding 2
 encyclical
 elliot
@@ -6796,7 +6796,7 @@ exocentric 1
 execrative 1
 eupolyzoan 3
 equipostile 1
-ensky
+ensky 1
 etherification
 exceptionless 1
 epitome
@@ -6917,7 +6917,7 @@ enscene
 empusa 1
 echinodermata
 eugenesic 1
-electrophototherapy
+electrophototherapy 1
 epipodiale
 electrofuse 1
 excipular 1
@@ -9271,7 +9271,7 @@ elytrin
 errors 1
 estramazone 2
 ecrustaceous
-excerpting 3
+excerpting 4
 electroethereal 1
 erse
 enraging
@@ -13011,7 +13011,7 @@ electromotivity
 entice
 espiglerie
 expectorated
-echinococcus 1
+echinococcus 2
 enneahedria 1
 exculpate
 endosecretory 1
