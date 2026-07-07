@@ -1502,7 +1502,7 @@ alpinery
 acclimatizer 1
 adrenalectomy 1
 amphipneustic 2
-acquaintancy 1
+acquaintancy 2
 agreeableness
 anticness 1
 acclinal
@@ -5909,7 +5909,7 @@ archprototype
 array 2
 agrionid
 archsnob
-agents
+agents 1
 ageometrical
 advisor 1
 absence
@@ -24492,7 +24492,7 @@ autotropic
 asclepias
 ayless
 argalis
-araliad
+araliad 1
 asiarchate
 acceptingness 1
 alkalinization
