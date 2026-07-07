@@ -5803,7 +5803,7 @@ endura 1
 exfoliation 3
 erlkings 2
 epicele 2
-extrinsic 3
+extrinsic 4
 engram 2
 engrafter 2
 exibilate
@@ -10601,7 +10601,7 @@ euchrome 2
 euclideanism 3
 euclidian
 embattlement 2
-epicoeliac
+epicoeliac 1
 exhalant
 eucone
 electrotechnic 1
