@@ -894,7 +894,7 @@ benzalcohol 2
 beffroy
 baggala 1
 borderlight 2
-bagganet 1
+bagganet 2
 baggara 1
 bellyfulls
 bawcock 1
@@ -1353,7 +1353,7 @@ bookdealer 2
 bioplastic 1
 barrowcoat 1
 brod
-botrylle
+botrylle 1
 backdrops
 butterflyer 2
 borderlands
@@ -1663,7 +1663,7 @@ ballottines
 bathwort
 ballpark
 brasquing
-bandi
+bandi 1
 bescurf
 barrowist
 bardesanism
@@ -2619,7 +2619,7 @@ breastbones 2
 bifronted 1
 bhaiyachara 3
 borana 2
-bunglesome
+bunglesome 1
 barkey
 briers
 barkery
@@ -4444,7 +4444,7 @@ beclogs
 bonspells
 bilabials
 beclothe
-banting 1
+banting 2
 bur 1
 bonasus
 behaviorally 2
@@ -6821,7 +6821,7 @@ biocide 1
 bushpig
 boaedon
 bivouac 1
-busboy 1
+busboy 2
 battalia
 bitulithic 1
 besagne 3
@@ -7068,7 +7068,7 @@ bankrupcy 1
 bimorphs 1
 bushing 1
 boycott
-bedswerver
+bedswerver 1
 bespeaking
 bullalaria 2
 bespeaks 1
@@ -7662,7 +7662,7 @@ brashiest 1
 bahar
 barranca
 bairnteem 1
-bourgeoisitic 1
+bourgeoisitic 2
 balanidae
 bilabiate 1
 bezan 2
@@ -11650,7 +11650,7 @@ boffos 3
 blacketeer
 baccare
 bittacle
-beachboys 1
+beachboys 2
 barterers 1
 berend 1
 broideress 1
@@ -12804,7 +12804,7 @@ betatters 1
 book 3
 borocarbide 1
 brasses
-braveness 1
+braveness 2
 bigotry 1
 burstone 2
 boolya
