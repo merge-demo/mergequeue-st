@@ -11431,7 +11431,7 @@ chinches
 consultations
 choanate
 choanephora 1
-cystopyelography
+cystopyelography 1
 choanocyte
 choanoflagellate 2
 cotta
@@ -15737,7 +15737,7 @@ catamenial
 calcicole
 cyproheptadine
 clinks
-chinche
+chinche 1
 coagulable 2
 clunch
 clawker
@@ -20999,7 +20999,7 @@ cancerroot 1
 chipmuck
 compsoa
 canoncito
-comique
+comique 1
 clockkeeper 2
 compsothlypidae 1
 chillums 1
@@ -28466,7 +28466,7 @@ crosier
 create
 coarcting 1
 canid
-createdness 4
+createdness 5
 creates 1
 creatic
 codlin
