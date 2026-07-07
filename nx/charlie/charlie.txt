@@ -6493,7 +6493,7 @@ cavelet 1
 confiner
 cambodia
 cavelike
-cavemen 1
+cavemen 2
 cavernal
 cavernlike
 cavernoma 1
@@ -8695,7 +8695,7 @@ chapattis
 codify
 connectant
 chapbook
-carbonylating 1
+carbonylating 2
 caconym
 chape 1
 coelomatic 1
@@ -24075,7 +24075,7 @@ convergency 1
 columbary
 convergent
 cytogeny 1
-chemoceptor
+chemoceptor 1
 citterns 1
 converges
 converging 1
