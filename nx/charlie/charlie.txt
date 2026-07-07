@@ -481,7 +481,7 @@ cadaverin
 claddings 1
 cormus
 cadaverously
-cadavers
+cadavers 1
 centonical
 cadbait
 conjunctiveness 1
@@ -1720,7 +1720,7 @@ cyclodiolefine 2
 contrasty 2
 calotypic 1
 calotypist
-crossbolt
+crossbolt 1
 congratulated
 cryptovalency
 cuddlier 1
@@ -6443,7 +6443,7 @@ choregic 1
 cation
 contraorbitally 2
 clinandria
-cavalieri
+cavalieri 1
 chondropterygii
 cavaliering
 chirographic 1
@@ -9191,7 +9191,7 @@ coplanation 1
 curvinerved
 chaster 1
 crombec 1
-chastest 2
+chastest 3
 chasteweed
 censurers 1
 ceduous 1
@@ -14580,7 +14580,7 @@ clockmutch 1
 cystigerous 1
 cystignathidae
 cystignathine
-criminology
+criminology 1
 cystis 1
 circulates 1
 cystitides
@@ -20734,7 +20734,7 @@ cryotron
 carvy
 complexing 3
 complexion 2
-chromos
+chromos 1
 clamative
 complexional
 carioling
@@ -31357,7 +31357,7 @@ curfew 3
 curfewed
 curfews
 concordats
-curfs
+curfs 1
 colophany
 cury 1
 causeys
