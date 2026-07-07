@@ -563,7 +563,7 @@ adore 1
 acetolysis 1
 ataraxies
 amidophosphoric 2
-amyotrophia 2
+amyotrophia 3
 actualize
 anba
 antiradiation 1
@@ -3934,7 +3934,7 @@ analcite 1
 alphorns
 atrabiliousness
 adjectional
-antireductive
+antireductive 1
 anastatica 1
 autoactivation
 adjectives 1
@@ -24780,7 +24780,7 @@ angioasthenia 1
 aymara
 aortography
 adamine 1
-avidity 1
+avidity 2
 arithmetized
 autologous
 anticonstitutionalism
