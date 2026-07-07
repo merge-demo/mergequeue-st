@@ -3384,7 +3384,7 @@ follicles 2
 frothed 1
 flokite 3
 frameableness 1
-floramour 1
+floramour 2
 fuller 1
 flyweights
 facemaking 1
@@ -7917,7 +7917,7 @@ fusillades 1
 froeman 1
 fictionalizing 1
 foresail 4
-feuilletonistic 3
+feuilletonistic 4
 fasten 1
 fork 1
 floes 1
@@ -8242,7 +8242,7 @@ flatbed 1
 forfaulture 2
 francophile
 fernandinite 2
-fluoroscoping 1
+fluoroscoping 2
 fishways 2
 faded 2
 frijolito
@@ -9531,7 +9531,7 @@ financed
 fishwoman 1
 facinorous 2
 ffa 4
-frauleins
+frauleins 1
 formaliter 1
 fissiparousness 3
 flatbottom
