@@ -3795,7 +3795,7 @@ carbazole
 carbeen 1
 cantorian
 carbide
-classicize 2
+classicize 3
 carbyl
 catchy
 cenacle
@@ -28682,7 +28682,7 @@ chroococcus
 constantine 1
 coloniser
 contaminates 2
-constitutes
+constitutes 1
 corone
 coplanar 1
 cannophori

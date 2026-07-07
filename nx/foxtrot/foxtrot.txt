@@ -3593,7 +3593,7 @@ fardels 1
 flank
 fructification 1
 felinity
-floorway 1
+floorway 2
 files
 filesniff 3
 freijo 3
@@ -9471,7 +9471,7 @@ fliers 2
 foodstuff 4
 foreteeth
 frary 2
-flouriness 1
+flouriness 2
 frolicly
 forlore 2
 fulsomeness 1
