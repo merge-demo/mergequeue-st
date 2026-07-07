@@ -138,7 +138,7 @@ guelf 1
 gentlewomanly 1
 gigantology 1
 gaelic 1
-gs 1
+gs 2
 gallicole 1
 guy 2
 gentisin 1
@@ -179,7 +179,7 @@ golfer 1
 goaled
 gammacism 1
 groschen 3
-gelled 2
+gelled 3
 garred 1
 grangerized 1
 going 1
@@ -228,7 +228,7 @@ genuflexuous
 guidman 2
 globalized 3
 gourinae 3
-gracelessness 2
+gracelessness 3
 gangdom 1
 geostationary 1
 gloeocapsa 1
@@ -896,7 +896,7 @@ gerontomorphosis
 grillwork 2
 gotha 1
 gametocyst 3
-gametocyte 3
+gametocyte 4
 gametogenic 2
 gooseflesh 1
 gueparde
@@ -4623,7 +4623,7 @@ glycuronic
 gradely
 graecism 2
 gutters 1
-goglet 2
+goglet 3
 grosbeaks 2
 girted 1
 galactoside
@@ -6889,7 +6889,7 @@ galumph
 gaucie
 gangliomata 1
 graftonite
-gammacismus 1
+gammacismus 2
 gooders 1
 goodheartedness 1
 goody
@@ -8461,7 +8461,7 @@ gunflint 3
 grad
 gladiolas 1
 gales 1
-grocerdom
+grocerdom 1
 gawsie
 gandul 1
 grapestone 2
