@@ -17875,7 +17875,7 @@ drawlatch 1
 ductwork 1
 drosky 1
 duculinae
-dictyosome
+dictyosome 1
 denotate
 decurve
 dermoblast
