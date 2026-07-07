@@ -1617,7 +1617,7 @@ emptiness 2
 egurgitate 1
 egurgitated 3
 eheu 1
-explanatively 1
+explanatively 2
 elchee 2
 effusions 2
 exotoxin
@@ -2452,7 +2452,7 @@ equivalence 1
 electrogenic 1
 electrogild
 eudemonia 2
-exhilarates
+exhilarates 1
 enhearten 3
 electrogilt 1
 ephetic 3
@@ -6498,7 +6498,7 @@ entail
 entomophthora 2
 exponentials 1
 endurant 3
-ended 2
+ended 3
 eroticize 3
 endotrachelitis 1
 ehlite 1
@@ -7260,7 +7260,7 @@ electro
 epochism
 escalier 3
 exception
-epalpebrate
+epalpebrate 1
 eurypylous 1
 eternises 2
 enolize 1
@@ -7985,7 +7985,7 @@ electrodentistry
 epibasal
 ergs 1
 expilate 1
-ejections 1
+ejections 2
 eggar 1
 ease
 etui
@@ -8176,7 +8176,7 @@ exodontic
 effaceable
 episcia 1
 extracting
-ermani
+ermani 1
 elydoric 3
 exaltee
 epistases
@@ -12415,7 +12415,7 @@ embace 1
 euphemia
 eelbob 2
 eryon
-essencing 2
+essencing 3
 electrolyze 2
 eucleidae 1
 eluviation 1
