@@ -1557,7 +1557,7 @@ elaphebolion
 extraversion
 encampment 1
 epinasty
-envigor
+envigor 1
 exogeny
 exaggeratedness 1
 euosmite 2
@@ -4246,7 +4246,7 @@ excruciatingly 1
 erysibe 1
 earjewel 1
 encephaloscopy 1
-emulsions 1
+emulsions 2
 equidistantial
 emacerated 2
 effluxes
@@ -6341,7 +6341,7 @@ ellice 2
 enthrals
 evenfalls
 endangiitis 2
-enshield 1
+enshield 2
 endostitis 1
 eloquently 1
 ebbed 1
@@ -11780,7 +11780,7 @@ elaterite 1
 evviva
 entwisted 1
 elopidae 3
-exampling
+exampling 1
 echeneididae
 eyelast
 esquireship
@@ -13207,7 +13207,7 @@ etymon
 enties 1
 expiation
 ensilate 1
-endoplastular 1
+endoplastular 2
 expiational 1
 expirate
 endostracal 1
