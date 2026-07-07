@@ -2240,7 +2240,7 @@ blockade
 bostonite 3
 bedrivelled 1
 barauna
-barba 2
+barba 3
 bakhtiari 2
 bayards
 boneheadedness 2
@@ -5357,7 +5357,7 @@ blueweed 1
 besoothement 1
 biflecnode 1
 buyable
-bromobenzene 1
+bromobenzene 2
 barodynamic
 barbarisation
 burly 1
@@ -8039,7 +8039,7 @@ brooming
 babble 1
 bicolorous
 betrayal
-bicolors
+bicolors 1
 binna 1
 biconcave 1
 bidder
