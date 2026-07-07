@@ -822,7 +822,7 @@ abrogate
 allergies 1
 archilithic 2
 abrogating
-avocado 1
+avocado 2
 angiomegaly
 abronia 1
 afterhelp
@@ -2228,7 +2228,7 @@ achondritic 2
 antifanatic
 abatjours 1
 agrostology
-alure
+alure 1
 alqueire 1
 amyelotrophy
 achordata
@@ -4784,7 +4784,7 @@ aepyceros 2
 aisleless
 artolatry
 aepyornithidae 2
-aepyornithiformes
+aepyornithiformes 1
 aggrieves
 alycompaine
 agrypniai
@@ -8883,7 +8883,7 @@ arrayment
 armouries
 audiometries
 alderliefest
-auxiliarly 1
+auxiliarly 2
 adermin
 alids
 alcyonacea
@@ -12630,7 +12630,7 @@ antidoron
 appenditious 2
 aligns
 aboriginary
-andromania 1
+andromania 2
 aeropleustic
 acinetarian
 autochthonously
