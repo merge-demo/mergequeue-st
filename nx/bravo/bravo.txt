@@ -4079,7 +4079,7 @@ bskt
 baragnosis 1
 blitzkrieged 2
 beams
-bean
+bean 1
 boldness
 begottenness
 bedeafen
@@ -6691,7 +6691,7 @@ bayesian 5
 browsability 1
 bismuthine
 broomstaff 1
-blitter
+blitter 1
 balaamitical 2
 beeishness
 bellpull 1
