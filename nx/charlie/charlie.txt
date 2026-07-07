@@ -1310,7 +1310,7 @@ calgary 1
 caliban
 cunea 2
 calaverite
-caliber
+caliber 1
 compulsatory 1
 calibers 3
 colunar 1
@@ -9139,7 +9139,7 @@ cowyard 1
 chartularies
 citrene 1
 chartulas
-charwoman
+charwoman 1
 chiropteran
 countermanding 2
 centipedes
@@ -9879,7 +9879,7 @@ chapelgoer
 chemoreceptor 1
 cryptographers
 childes
-crystallisation 2
+crystallisation 3
 chemoreflex
 contrabassoon
 chemoresistance 1
@@ -14650,7 +14650,7 @@ cystoptosis 1
 cystopus 1
 cystoradiography
 cragged
-clethraceous 1
+clethraceous 2
 cairo
 cistori 1
 conforbably 1
@@ -19931,7 +19931,7 @@ comity
 comitia
 comitial
 colortype 1
-chevisance 1
+chevisance 2
 comitium 1
 cokery
 cuscuses 1
@@ -23324,7 +23324,7 @@ coumarin 2
 closets 2
 counterlathing 1
 consultive
-consulto
+consulto 1
 consults 1
 consumated 1
 consumating
