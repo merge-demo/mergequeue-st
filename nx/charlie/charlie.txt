@@ -14295,7 +14295,7 @@ constrained 1
 crosspieces
 communique
 circumparallelogram
-circumpentagon 1
+circumpentagon 2
 convexed 1
 circumplanetary
 crone
@@ -18147,7 +18147,7 @@ cheliferidea
 collar
 centralistic
 coequates
-creepage
+creepage 1
 coerce
 coerced
 controversion 1
@@ -18688,7 +18688,7 @@ caucusing
 coyoting
 coypous
 conversance
-coypus
+coypus 1
 coirs
 colicker
 clogs
@@ -23408,7 +23408,7 @@ containership
 comates 1
 containerships
 corporalism 2
-centenarianism
+centenarianism 1
 containing
 covert 1
 canzonetta
@@ -27224,7 +27224,7 @@ colutea 1
 camisade 1
 compositive
 concierges
-chondrogenetic 2
+chondrogenetic 3
 countervair
 coprocessor
 countervallation
