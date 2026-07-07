@@ -3593,7 +3593,7 @@ fardels 1
 flank
 fructification 1
 felinity
-floorway 1
+floorway 2
 files
 filesniff 3
 freijo 3
@@ -7824,7 +7824,7 @@ fablers 1
 fibromyomectomy 2
 foyboat 2
 florette
-fluidimeter 1
+fluidimeter 2
 flashness 2
 fashes 1
 fuzed
@@ -9471,7 +9471,7 @@ fliers 2
 foodstuff 4
 foreteeth
 frary 2
-flouriness 1
+flouriness 2
 frolicly
 forlore 2
 fulsomeness 1
@@ -9551,7 +9551,7 @@ fingerlet 1
 fentanyl 1
 forestress 3
 fibronuclear 3
-freaked 1
+freaked 2
 fart 1
 forechoir 2
 filicinian 4
