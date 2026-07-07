@@ -2511,7 +2511,7 @@ amphisbaenidae
 acme
 acquiring
 articulata 2
-americana
+americana 1
 antonia
 adipic
 acnemia
@@ -3681,7 +3681,7 @@ aggelation
 attic 1
 amafingo
 adenographical 2
-adenohypersthenia 1
+adenohypersthenia 2
 atry
 archecentric 1
 applyingly
@@ -4052,7 +4052,7 @@ arrows
 algedonics
 ankuses
 acronymize 2
-advect 1
+advect 2
 aphaeresis 1
 admerveylle
 allocate
@@ -7084,7 +7084,7 @@ avick
 aphyllous
 autoist
 aquench
-attiring 1
+attiring 2
 akees
 anaphalis 1
 akehorne 2
@@ -10539,7 +10539,7 @@ aboon
 ambitendency 1
 acridid
 armenians 1
-astronautically 1
+astronautically 2
 adfrozen 1
 antisensuous 1
 amidoazo 2
@@ -12463,7 +12463,7 @@ androgone 1
 andrographis 1
 acrotomous
 adamsite
-andromache
+andromache 1
 arbusterol
 andromaque
 arborizes
