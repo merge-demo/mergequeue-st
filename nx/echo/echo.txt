@@ -288,7 +288,7 @@ echos 3
 exhumation 2
 epilepsies 2
 elrage 2
-eelware
+eelware 1
 encamps 2
 epitheliums 2
 enterolobium 1
@@ -6681,7 +6681,7 @@ exstill
 entete
 eurytherm 1
 epistrophy 1
-enthelminthic 1
+enthelminthic 2
 echolocate 2
 effume 1
 ectosomal
@@ -9487,7 +9487,7 @@ ephyrula 1
 enwwove
 embryoferous 2
 epiphanising 1
-escript 1
+escript 2
 excerpta 1
 escritoire 1
 eleutherarch
@@ -13008,7 +13008,7 @@ estriols 1
 evicke
 exposals 2
 electromotivity
-entice
+entice 1
 espiglerie
 expectorated
 echinococcus 2
@@ -13018,7 +13018,7 @@ endosecretory 1
 etatisms 3
 endocondensation 1
 evanescenrly
-equivale 1
+equivale 2
 estoppage 2
 ebons
 enjoins 1
