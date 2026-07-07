@@ -844,7 +844,7 @@ disinterested
 drizzling 1
 deteriorator
 duralumin
-duotone
+duotone 1
 drynaria
 disenthronement
 decrudescence
@@ -1337,7 +1337,7 @@ deludingly
 delftware
 draconism
 dorsigerous
-disorder
+disorder 1
 dault 1
 docetic 1
 dysteleologically
@@ -8326,7 +8326,7 @@ dejerate 2
 dargue
 daemonies 1
 disruptable
-dioestrum 2
+dioestrum 3
 disincline
 duchies
 decemfoliolate 1
@@ -9521,7 +9521,7 @@ doneness 1
 decohere 1
 digitigradism 1
 determa
-dictatorships
+dictatorships 1
 demimentoniere 1
 digitinerved
 depravement 1
@@ -14854,7 +14854,7 @@ disnatural
 dimmers 3
 demarks 1
 drafters
-documentarist 1
+documentarist 2
 daggerproof
 diffugient 2
 decarbonator
