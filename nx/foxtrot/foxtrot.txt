@@ -987,7 +987,7 @@ fascicles 2
 flexuose
 flatlong
 fren 1
-fumosity
+fumosity 1
 fretful
 funnellike
 factum 1
@@ -6673,7 +6673,7 @@ ferbams 1
 finewed
 faence
 fofarraw 1
-falderol 2
+falderol 3
 fungicide 1
 fortifier 2
 faqirs 1
@@ -8121,7 +8121,7 @@ flatcar 2
 fundi 2
 furify 2
 foreswore 1
-flavouring 1
+flavouring 2
 feeble 1
 flasklet 2
 factorist
