@@ -6430,7 +6430,7 @@ colubrids
 cannoneers
 cloister
 chokiest 1
-cav 1
+cav 2
 corah
 curvinervate
 cavayard
@@ -20510,7 +20510,7 @@ compartments
 chapin 1
 celticist
 compass 2
-compassability 1
+compassability 2
 compassable
 compassed
 cotham
@@ -26428,7 +26428,7 @@ cerenkov
 cothon 1
 cothouse
 cothurn 1
-cothurnus
+cothurnus 1
 coticed 1
 coruscate 2
 colleter
@@ -28696,7 +28696,7 @@ chapacura 1
 cilice 1
 crenelles
 crenels 1
-crengle
+crengle 1
 creophagy
 chromidiogamy 1
 contin
