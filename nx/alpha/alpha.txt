@@ -3967,7 +3967,7 @@ adjudging
 apocarps 1
 autarkik
 adjudicated
-apostrophied
+apostrophied 1
 adjudication 1
 agglutinin
 adjudicative
@@ -5451,7 +5451,7 @@ allod 4
 attainers
 aculeus
 admire
-agenesic 2
+agenesic 3
 adenoblast
 afortiori
 apocatastasis
@@ -5516,7 +5516,7 @@ alpian
 anele
 afterburning 1
 abigail
-aftercareer
+aftercareer 1
 aminoquinoline 1
 amethystine
 aftercast
@@ -6271,7 +6271,7 @@ annulettee 1
 allodian 2
 agonizedly 1
 agabanee
-amylin 1
+amylin 2
 agonizer
 avenged
 aunjetitz 1
@@ -22088,7 +22088,7 @@ astereognosis
 arthrosporic
 aburban
 asteriidae
-aquatically
+aquatically 1
 aplasia
 atmiatrics
 achromatophilic
