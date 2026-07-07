@@ -2047,7 +2047,7 @@ frontspiece 3
 feinter
 faucalize
 flindosa
-forwander 1
+forwander 2
 flatlander 3
 faunlike 1
 fogbows
@@ -3682,7 +3682,7 @@ fiddleys 4
 filioque 2
 feistiest 1
 foysen 1
-fruitwise
+fruitwise 1
 futurisms
 fathead
 firesider
@@ -4244,7 +4244,7 @@ flots 1
 frangipanni 1
 floridians 2
 flaxbird
-foreignize
+foreignize 1
 feverish
 flatterers 1
 frenzying
