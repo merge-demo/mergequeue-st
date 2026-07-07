@@ -4978,7 +4978,7 @@ cartels
 cartilaginous 1
 carting
 coulometry
-cartloads
+cartloads 1
 clicket 1
 cartmaking 1
 cartobibliography
@@ -7515,7 +7515,7 @@ cercomonad
 cercomonadidae
 cercopid
 cercopithecid
-contracting 1
+contracting 2
 cercopithecidae
 catodon
 cercopithecus 2
@@ -11790,7 +11790,7 @@ chondropterygian
 constitutionally
 caravansary 1
 chondrosarcomatous 1
-construed
+construed 1
 cibophobiafood
 codder 1
 chalmer 1
@@ -14295,7 +14295,7 @@ constrained 1
 crosspieces
 communique
 circumparallelogram
-circumpentagon 1
+circumpentagon 2
 convexed 1
 circumplanetary
 crone
@@ -18147,7 +18147,7 @@ cheliferidea
 collar
 centralistic
 coequates
-creepage
+creepage 1
 coerce
 coerced
 controversion 1
@@ -18688,7 +18688,7 @@ caucusing
 coyoting
 coypous
 conversance
-coypus
+coypus 1
 coirs
 colicker
 clogs
@@ -23408,7 +23408,7 @@ containership
 comates 1
 containerships
 corporalism 2
-centenarianism
+centenarianism 1
 containing
 covert 1
 canzonetta
@@ -26389,7 +26389,7 @@ commutative 1
 cotch
 chaperoning 1
 cellulitis 2
-chrysanilin
+chrysanilin 1
 coteaux 1
 coted
 cling 1
@@ -27224,7 +27224,7 @@ colutea 1
 camisade 1
 compositive
 concierges
-chondrogenetic 2
+chondrogenetic 3
 countervair
 coprocessor
 countervallation
@@ -29729,7 +29729,7 @@ crustedly 1
 crony
 collaboration
 chinar
-compactify
+compactify 1
 cuartillo 1
 communicated
 coachway
