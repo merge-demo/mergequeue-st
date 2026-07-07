@@ -5356,7 +5356,7 @@ bacteriogenic
 blueweed 1
 besoothement 1
 biflecnode 1
-buyable
+buyable 1
 bromobenzene 2
 barodynamic
 barbarisation
