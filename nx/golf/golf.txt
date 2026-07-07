@@ -712,7 +712,7 @@ grossify 1
 genius 1
 gooranut 2
 galvanised 1
-germanistic 1
+germanistic 2
 gawn
 gladdest 2
 grissen
@@ -1968,7 +1968,7 @@ glamourous
 garancin
 gaussage 1
 gaskings
-girth 1
+girth 2
 gageite
 gonadotrope 1
 granville
@@ -3862,7 +3862,7 @@ geminated 1
 glens 2
 glossocarcinoma 2
 grossly 1
-gubbertush 1
+gubbertush 2
 grecing
 gawkies 1
 giving 1
@@ -4922,7 +4922,7 @@ gymnospermal 3
 gallantize 2
 gyrenes 1
 gingelis 1
-glomeruli 3
+glomeruli 4
 germanization 2
 genom 4
 ganof 2
@@ -5113,7 +5113,7 @@ geldant 1
 gravidas
 grouch
 gibus
-gnostology 1
+gnostology 2
 gallirallus 2
 gingham 1
 gantsl
@@ -5664,7 +5664,7 @@ greenlandman 3
 gnomonia 1
 gentilesse 3
 gastrophrenic 1
-glossal
+glossal 1
 glycerize
 gilbertianism 2
 glossalgy 2
@@ -6687,7 +6687,7 @@ galvayning 1
 geropiga 2
 gypsine
 gaolbird 2
-guid
+guid 1
 gonid
 gabeler
 gluttonies 3
@@ -8578,7 +8578,7 @@ gilo 2
 geonoma
 gravicembalos 1
 gamphrel 1
-gutsily 2
+gutsily 3
 gitim 2
 garrotter
 glutton 2
@@ -10630,7 +10630,7 @@ gulches 1
 gunsmithing 1
 grossification 1
 griseous 2
-gunstocker
+gunstocker 1
 geronto 3
 girns 1
 glimmerous 3
