@@ -2625,7 +2625,7 @@ deforce
 dispose 2
 duopsonies 1
 decolouration 2
-daedalean 1
+daedalean 2
 denunciated
 dogmatism
 dryasdust 1
@@ -4336,7 +4336,7 @@ demasculinization
 deflagrate 1
 druggeting
 demigriffin
-disfranchisement
+disfranchisement 1
 drused 1
 demasting
 dematerialised
@@ -5378,7 +5378,7 @@ delim
 deschampsia 2
 denudating
 disordained 1
-discanter
+discanter 1
 deltidial
 diplomatics 2
 disc 2
@@ -11784,7 +11784,7 @@ dipchick 1
 deipnosophism
 detoxification
 dormitary
-discrowns
+discrowns 1
 depilated 3
 dogma 2
 defiler
