@@ -4278,7 +4278,7 @@ devoutness
 durning
 diplograph
 delimit 1
-duckhood
+duckhood 1
 dauner 3
 dequeue
 dunderpate
@@ -4778,7 +4778,7 @@ demolisher
 demolishing
 daily
 discide
-discharge
+discharge 1
 demolition 3
 dictyosiphonaceous 2
 dishonest 1
@@ -9723,7 +9723,7 @@ defiantness 1
 disrespectful 1
 demultiplexes 2
 dab 1
-dodonaean
+dodonaean 1
 deodaras 1
 delouse 1
 dilater
@@ -10311,7 +10311,7 @@ diseuses 1
 devises
 demurrers 1
 diagrammers
-ditton 2
+ditton 3
 diopter 2
 diocesian 1
 diopters 1
@@ -17373,7 +17373,7 @@ dismays 1
 doggerels
 dichotomies 3
 drawcard
-droopier
+droopier 1
 despicableness
 droopiest
 demarcators
@@ -17841,7 +17841,7 @@ dismayful
 desalinate
 diabolarch 1
 dower
-dermatological 2
+dermatological 3
 disinheritance 2
 droit
 demographies 1
