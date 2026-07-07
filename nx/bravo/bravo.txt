@@ -7211,7 +7211,7 @@ blades
 beveled 3
 buckjump 1
 bongrace
-bauta
+bauta 1
 bute 2
 bituminised 1
 balearic
@@ -8418,7 +8418,7 @@ biplanal 3
 bikeway
 bedirter 2
 bedaze
-balita
+balita 1
 blams 1
 blackcoat
 bikkurim
@@ -11776,7 +11776,7 @@ bobstays
 berreaving
 bobtail
 bobtailed 1
-bothria
+bothria 1
 bobwhites
 bargees 1
 becoom 3
@@ -14538,7 +14538,7 @@ babroot
 beadle
 branchiae 2
 bradyglossia
-breeks 1
+breeks 2
 bravados
 branchicolous
 besoothing
