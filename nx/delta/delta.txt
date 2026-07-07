@@ -13419,7 +13419,7 @@ decedents
 disquisitions 1
 disquisitor
 disquisitional
-dismarble 3
+dismarble 4
 deepfreezed 2
 disform
 diffusion
@@ -18450,7 +18450,7 @@ downrush 1
 dukkha
 duplexers
 duplication
-dogsbody
+dogsbody 1
 dogey 1
 duplicators
 duncehood
