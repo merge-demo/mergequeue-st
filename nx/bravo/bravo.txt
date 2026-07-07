@@ -4635,7 +4635,7 @@ broadens 2
 bedehouse
 broadenings
 byrewards
-bullrushes 2
+bullrushes 3
 bedehouses 1
 bedemen 1
 bens
@@ -9154,7 +9154,7 @@ beefburger 3
 bhaktas 2
 branchial 1
 bubbybush 1
-ballyragged 1
+ballyragged 2
 barotropy
 banderlog
 brahmanhood 1
@@ -9902,7 +9902,7 @@ birled
 bioscope
 bestialist
 brotherly 3
-beasties
+beasties 1
 besmirches
 bitter 1
 bitterbloom
@@ -17648,7 +17648,7 @@ buriers 1
 bogginess 1
 bellovaci
 boff
-blockish
+blockish 1
 boris
 britchel 1
 belady
