@@ -710,7 +710,7 @@ brilliantine 1
 boglander 1
 bombardo
 breathable 2
-balteus
+balteus 1
 banjo 1
 baddie 1
 betimber
@@ -14282,7 +14282,7 @@ butyne
 byword
 boarding
 buglosses
-braehead
+braehead 1
 bulblet
 bronchiogenic 1
 brochidodromous
@@ -17625,7 +17625,7 @@ basote
 blay 2
 blaeberry 2
 bunchflower
-burgoyne 3
+burgoyne 4
 burgomasters
 bullfighting 2
 burgomastership 3
