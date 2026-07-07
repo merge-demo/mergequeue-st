@@ -9105,7 +9105,7 @@ charterhouse
 chartering
 charterism
 charterless 1
-chartermaster
+chartermaster 1
 charters
 cryptograms
 cindered
@@ -16134,7 +16134,7 @@ crimpage 1
 climactical
 contexture
 collotyping
-chymosinogen 1
+chymosinogen 2
 crownbeard
 cyanole 1
 climacus 1
@@ -16377,7 +16377,7 @@ clithe 2
 clithral
 clitia
 copolymerizations
-chromobacterieae
+chromobacterieae 1
 cylindruria 3
 camenae 1
 clitoral
