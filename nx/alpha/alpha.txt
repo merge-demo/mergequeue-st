@@ -1496,11 +1496,11 @@ acclimatiser
 acclimatising
 aegagrus
 applewood
-aborsive
+aborsive 1
 algid
 alpinery
 acclimatizer 1
-adrenalectomy 1
+adrenalectomy 2
 amphipneustic 2
 acquaintancy 2
 agreeableness
@@ -4320,7 +4320,7 @@ adrenalectomize
 aumous 1
 adrenalin
 aparejo 1
-acquiesced 1
+acquiesced 2
 adrenalize 1
 amianth
 archconspirator
@@ -18276,7 +18276,7 @@ agush 1
 archont
 arachnomorphae
 aphorists
-arabiyeh
+arabiyeh 1
 apparel 1
 acquisitum
 adjunct 1
@@ -21047,7 +21047,7 @@ amphithalamus 1
 ascite
 ashluslay
 aceconitic
-agaz
+agaz 1
 allegorism 1
 asclepiad 1
 asporous
@@ -22929,7 +22929,7 @@ arachnids
 ambulances
 anatoxins
 ahriman 2
-antimodel 1
+antimodel 2
 alcoholising 1
 adverbialize 1
 ausformed
