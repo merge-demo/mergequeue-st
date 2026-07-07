@@ -3929,7 +3929,7 @@ cair
 chlorococcus
 carboxylation
 colonialised
-ccm
+ccm 1
 carboxylic
 carboxyls 1
 carbromal
@@ -5366,7 +5366,7 @@ cyrillaceous
 capillary
 castano
 crawler 1
-calibered 1
+calibered 2
 castanopsis
 castanospermum
 castaways
@@ -28692,7 +28692,7 @@ counterirritant
 culets 1
 copeck 1
 cryochore
-chapacura
+chapacura 1
 cilice 1
 crenelles
 crenels 1

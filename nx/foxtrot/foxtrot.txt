@@ -1821,7 +1821,7 @@ featureliness 4
 fieldmice 1
 flesh 2
 furrows
-figureheadship
+figureheadship 1
 fellahin 2
 firebreaks 2
 feudalize
@@ -4550,7 +4550,7 @@ forethinker 1
 foolable
 faciolingual 1
 fluviometer 2
-fairkeeper 1
+fairkeeper 2
 flatfooting 1
 fantee
 fourth 1
@@ -7597,7 +7597,7 @@ flumerin 2
 felicities
 fanfare 1
 finless
-factual 2
+factual 3
 fandangos 2
 fleshquake 1
 ferrules
@@ -11427,7 +11427,7 @@ feasor
 flocculose 2
 furniture
 flummoxing 2
-footlicking
+footlicking 1
 furl 1
 furodiazole
 feoff 2
