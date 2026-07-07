@@ -192,7 +192,7 @@ factotum 1
 felsitic 2
 ferrihemoglobin 1
 frasier
-factrix 3
+factrix 4
 footmanship 1
 fanons 1
 fatiscence 3
@@ -1559,7 +1559,7 @@ favorer 4
 foresty 1
 ferrash
 fleecelike 4
-fourstrand
+fourstrand 1
 falsettist 1
 fibrinogen 4
 filespec 2
@@ -3343,7 +3343,7 @@ frogfoot
 fractionally 2
 fidgeted
 faultage 2
-foilsmen 1
+foilsmen 2
 floorers
 frowsiest 1
 fluorescer 1
@@ -3844,7 +3844,7 @@ filiopietistic 1
 fungistat 3
 flavanthrene
 feretory 2
-fornical
+fornical 1
 forjudging 1
 favous
 frugally
@@ -4621,7 +4621,7 @@ fourragere 1
 fdtype
 flavory 1
 fullams
-fitchered
+fitchered 1
 foolfish 2
 fitters 1
 foxery 2
@@ -6440,7 +6440,7 @@ fluoaluminate 2
 femorocaudal 3
 fainted 1
 fairs
-fistulariidae 1
+fistulariidae 2
 finery
 flapjack
 floretty
@@ -7630,7 +7630,7 @@ funipendulous 2
 fescenninity 2
 ferganite
 frightenedness
-forefeelingly 1
+forefeelingly 2
 frogging 1
 forheed 1
 foreffelt 3
