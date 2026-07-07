@@ -28,7 +28,7 @@ excusableness 1
 escapement 1
 elderling 2
 endurably
-eagrass 3
+eagrass 4
 everbloomer 1
 eanling
 ear 1
@@ -618,7 +618,7 @@ etymonic
 ellipses 1
 enshrinement
 earful 1
-excruciatingness 4
+excruciatingness 5
 empiricist 1
 empetrum 1
 embryogeny 1
@@ -1680,7 +1680,7 @@ esophagi 2
 eddoes
 elaioleucite 1
 eyebright
-eyliad 2
+eyliad 3
 electrotheraputics 1
 ephemerally
 extemporaneous 1
@@ -1778,7 +1778,7 @@ enable
 estimates
 entresse 1
 eocene
-elliott
+elliott 1
 earplugs 2
 excrement
 embrutes 2
@@ -3765,7 +3765,7 @@ eschatology
 embulk
 engulfing 1
 embull 3
-embush 3
+embush 4
 edaciously 1
 embusk 1
 encardion 2
@@ -6075,7 +6075,7 @@ epifauna 1
 epirrhema 1
 electrocardiography
 enlightenment 1
-enticing
+enticing 1
 eructates
 eunomianism 2
 enlinkment
@@ -6725,7 +6725,7 @@ ephemeral
 eole 3
 embroche 1
 engagedly 3
-electrocutions 2
+electrocutions 3
 estatesman 1
 eyeletting 3
 enemied 1
@@ -7687,7 +7687,7 @@ erechtheus 1
 electropolish
 eonisms 1
 ean
-empannel 1
+empannel 2
 eudiometrical 3
 eftsoon 1
 endrins 1
@@ -8925,7 +8925,7 @@ expatiators 1
 erring
 erns 2
 exostracize
-erika
+erika 1
 exurbanite 2
 erinaceidae
 ephebes 1
@@ -10950,7 +10950,7 @@ euplexoptera 1
 err 2
 emotiometabolic
 embalmer 1
-evalue
+evalue 1
 excess
 evading
 exdie
@@ -11958,7 +11958,7 @@ exalter
 exocataphoria
 ese 1
 evolvulus 1
-entrainment
+entrainment 1
 exairesis 1
 esthesis 2
 endemic
