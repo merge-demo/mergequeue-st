@@ -58,7 +58,7 @@ bangles
 beknight 3
 brustling 1
 bead 1
-bowelless 1
+bowelless 2
 bombasine
 bettering
 bolbonac
@@ -672,7 +672,7 @@ bronchocavernous
 bynames 1
 bungles
 bkpr 1
-backbitten 1
+backbitten 2
 bacterized 1
 barefacedly
 brisk
@@ -1900,7 +1900,7 @@ bloodier 2
 bella
 bandidos
 baronetizing 2
-bushie
+bushie 1
 bandie 2
 bilinear 1
 batrachoplasty 3
@@ -5664,7 +5664,7 @@ besped 1
 beldams
 bacchar 2
 bilify 2
-belderroot
+belderroot 1
 bodgie
 beleaguering
 bongar 1
@@ -7563,7 +7563,7 @@ beweeper 2
 beneficent 1
 beweeps 1
 bombilate
-boodler 1
+boodler 2
 bastardize 1
 bloodripe
 begiggle 2
@@ -9364,7 +9364,7 @@ bewrathed
 brinish 2
 bonsela 2
 baroscope
-brockets 1
+brockets 2
 baleless
 bushi 1
 blirt 1
@@ -10099,7 +10099,7 @@ bodrag
 birlieman 1
 boxfish 1
 blabbered 1
-bewhiskered 3
+bewhiskered 4
 blabbering 1
 blabbermouths 1
 blabbing 1
@@ -13997,7 +13997,7 @@ brontops 1
 bemeal 1
 brabanter
 blindfolder 2
-borderlander
+borderlander 1
 bidonville 1
 biophagous
 brabble 1
@@ -15015,7 +15015,7 @@ breathless 1
 beaufet 1
 breathseller
 breba 2
-brewmaster 1
+brewmaster 2
 brachering 1
 boatly
 breccias
@@ -16133,7 +16133,7 @@ batatilla
 brookite 1
 beneficient
 barbarianized 2
-battling
+battling 1
 bicolor 2
 buoy
 burgoo
