@@ -2181,7 +2181,7 @@ guinde 1
 genarchship
 giraffoid
 geoidal 2
-garmented 2
+garmented 3
 gooseskin 2
 goaves
 gemwork 1
@@ -4687,7 +4687,7 @@ garua 2
 galactite 2
 genethliatic 1
 gendarme 2
-glyptographic 1
+glyptographic 2
 giantlike
 ganglander 4
 greenwood
@@ -4857,7 +4857,7 @@ gigger 1
 gradual 1
 growliness 2
 glaired 2
-geomaly 2
+geomaly 3
 gangway 1
 guvacoline 2
 gidyea
@@ -6494,7 +6494,7 @@ gariba 1
 galvanocautery
 golly 2
 gleanings 2
-glucolipine 1
+glucolipine 2
 gamete 2
 grotian
 gyrant 2
@@ -6518,7 +6518,7 @@ geotherm 1
 groveler 1
 gynecomaniacal
 gutsiness 1
-graciles 2
+graciles 3
 grammatophyllum 1
 grand 2
 gummose 1
@@ -6696,7 +6696,7 @@ guaiol
 glycolyl
 geer 2
 gride 2
-graphitic 1
+graphitic 2
 gigs 1
 gastronephritis
 gonidic 2
@@ -7361,7 +7361,7 @@ ghee 3
 gobstopper
 groggery 1
 gossep 3
-graphs 1
+graphs 2
 gaberlunzie
 gunation 2
 galactin 1
@@ -7720,7 +7720,7 @@ granters 2
 gladly 2
 gardebras
 glozed 2
-gastropodan 1
+gastropodan 2
 guardhouses
 gradiometric 1
 gaup 2
@@ -9289,7 +9289,7 @@ giltcup
 grockle 1
 goidel 1
 gemauve 2
-granitoid
+granitoid 1
 guarache 1
 groenendael 1
 gecko 3
@@ -9616,7 +9616,7 @@ gobinist
 grumium 2
 glaucodote 2
 geests 1
-goiter
+goiter 1
 grizzlier 2
 guarish 2
 gummite 1

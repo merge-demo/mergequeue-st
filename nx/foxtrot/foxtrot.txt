@@ -1593,7 +1593,7 @@ flappier 3
 frijol 3
 fervescence 2
 freightless
-flannel 1
+flannel 2
 fawkener 1
 favourably 3
 fraischeur 1
@@ -1798,7 +1798,7 @@ flamingos 1
 federalizes 1
 fetisher 3
 fallage 1
-freeboard
+freeboard 1
 fores 1
 ferninst 4
 forbesite
@@ -2008,7 +2008,7 @@ fortunel 1
 floative 2
 fayed 1
 fissipeds 3
-fogging 1
+fogging 2
 fedora 1
 fide
 forgiving 2
@@ -3413,7 +3413,7 @@ fanfaronading
 fungible 2
 floc
 flecker 2
-fenestella 3
+fenestella 4
 forestate
 fielders
 forset 1
@@ -5531,7 +5531,7 @@ furrower 3
 furnit 3
 faked 1
 faithfulness 3
-filionymic
+filionymic 1
 fondaco 1
 forbearingness
 frowzy 4
@@ -5948,7 +5948,7 @@ floodgates 1
 fiercest
 foolhardily 1
 falseface 2
-freer
+freer 1
 fraudlessness 3
 freehand 1
 feretories 1
@@ -10218,7 +10218,7 @@ flint 1
 frangibleness 1
 feebly
 facingly
-farce 2
+farce 3
 foxchop
 fetologies 1
 furdel
@@ -10577,7 +10577,7 @@ faiths
 forehanded
 forebitten 2
 falltime 1
-forcipiform 2
+forcipiform 3
 franking 3
 frostroot
 fluky 1
@@ -10650,7 +10650,7 @@ franc
 frontalis
 forswearing
 flumped 1
-fecundities 1
+fecundities 2
 fulfulde 1
 felids 1
 forwaste
