@@ -3334,7 +3334,7 @@ beguilers 2
 balao 1
 besotment
 basitting
-byroads 1
+byroads 2
 basiventral
 beudantite
 basked 1
@@ -9074,7 +9074,7 @@ brickmaking 1
 bethumps 1
 bunching 1
 bearbaiting 1
-bonzery
+bonzery 1
 bloomers 1
 basking 2
 bipectinated
@@ -9256,7 +9256,7 @@ biordinal
 batussi 1
 bladebone 2
 bipinnarias 2
-bothrodendron
+bothrodendron 1
 bribe
 bipinnated 2
 bipinnatipartite
