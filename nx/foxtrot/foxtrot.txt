@@ -1821,7 +1821,7 @@ featureliness 4
 fieldmice 1
 flesh 2
 furrows
-figureheadship
+figureheadship 1
 fellahin 2
 firebreaks 2
 feudalize
@@ -1945,7 +1945,7 @@ fonly 1
 flanchard 1
 furzier 1
 forworn 3
-flated 2
+flated 3
 formulization
 fishlet
 flagellantism 1
@@ -4480,7 +4480,7 @@ fluffier
 fountainwise 2
 frangulin 1
 fluctuant 4
-ferrotitanium 2
+ferrotitanium 3
 faddy
 flatting 1
 forlane 4
@@ -4550,7 +4550,7 @@ forethinker 1
 foolable
 faciolingual 1
 fluviometer 2
-fairkeeper 1
+fairkeeper 2
 flatfooting 1
 fantee
 fourth 1
@@ -6726,7 +6726,7 @@ forelegs 2
 fogon
 fogproof 1
 forstand 2
-fellator 3
+fellator 4
 frangulaceae
 foramens 1
 fictive
@@ -7597,7 +7597,7 @@ flumerin 2
 felicities
 fanfare 1
 finless
-factual 2
+factual 3
 fandangos 2
 fleshquake 1
 ferrules
@@ -11427,7 +11427,7 @@ feasor
 flocculose 2
 furniture
 flummoxing 2
-footlicking
+footlicking 1
 furl 1
 furodiazole
 feoff 2

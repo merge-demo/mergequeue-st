@@ -5181,7 +5181,7 @@ denunciations 3
 deputy
 date 2
 desired 1
-dicty
+dicty 1
 dine 1
 depolarisation 2
 dusun 2
@@ -5318,7 +5318,7 @@ disblame
 daraf 1
 diaphoretic 1
 displaced
-denticle
+denticle 1
 desegmented
 dentifrice 1
 dentil 2
@@ -11526,7 +11526,7 @@ dimethyls
 degenerations
 derivers
 discompliance 1
-dowry
+dowry 1
 deaccessioned 1
 discomposedness 1
 desmachymatous
@@ -14892,7 +14892,7 @@ dodecane 1
 domeykite
 disciplelike
 dodecapartite
-dodecaphonic
+dodecaphonic 1
 diverts
 dodecaphonism
 demibastion
@@ -15713,7 +15713,7 @@ dewools 1
 disbuds 1
 deciduary
 doris
-diaxonic
+diaxonic 1
 disyntheme
 dater 2
 dicht 2
