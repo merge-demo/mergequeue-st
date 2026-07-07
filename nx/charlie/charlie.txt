@@ -34,7 +34,7 @@ caballer
 corrosiving
 cranebill 1
 cineols
-causable
+causable 1
 cherrystones
 cocozelle
 caballero
@@ -6789,7 +6789,7 @@ clearway
 celioparacentesis 2
 cerinthian 1
 cowshard
-capless
+capless 1
 celioscope
 cella 1
 cellarage
@@ -15814,7 +15814,7 @@ cerealian
 cribrosity
 clearsighted
 carludovica
-coprostasia 1
+coprostasia 2
 chien
 cumulite
 caranga
@@ -17072,7 +17072,7 @@ coachsmithing
 cumacea
 centrodesmose 1
 crambambulee
-coevolving 3
+coevolving 4
 coachwise
 cully 1
 coachwright 1
