@@ -7183,7 +7183,7 @@ centrifugalize 1
 catawba
 caltrops 1
 clamors 1
-centrifugaller
+centrifugaller 1
 cladoceran 1
 centrifugate
 centrifuge
@@ -28738,7 +28738,7 @@ chiru 1
 constringe 1
 coincides 2
 crepy
-crepiest
+crepiest 1
 crepine 1
 creping 1
 crepis
