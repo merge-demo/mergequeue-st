@@ -1663,7 +1663,7 @@ ballottines
 bathwort
 ballpark
 brasquing
-bandi
+bandi 1
 bescurf
 barrowist
 bardesanism
@@ -11357,7 +11357,7 @@ bricked 1
 bromegrass 1
 bluchers
 bloodhound 1
-belouke
+belouke 1
 bludgeon 2
 bludgeons 1
 bludger
@@ -15500,7 +15500,7 @@ brongniardite
 blazon 1
 brodeglass
 braggishly
-boundary 1
+boundary 2
 booms
 bilboes
 breaststroker 1
