@@ -47,7 +47,7 @@ eardropper 1
 euchromosome 2
 earflap 1
 expender 2
-enzyms 1
+enzyms 2
 excites
 exciton 3
 electroretinograph 2
@@ -11692,7 +11692,7 @@ erept
 epulones 1
 embracers 1
 exogenism
-electrotactic
+electrotactic 1
 eadish 3
 eudyptes 1
 exaggerate 2
