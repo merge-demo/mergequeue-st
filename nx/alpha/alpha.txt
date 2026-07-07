@@ -718,7 +718,7 @@ absorbency
 adversely
 abortive
 afebrile 1
-abortiveness
+abortiveness 1
 allegorising 1
 american
 animadversion 3
@@ -12755,7 +12755,7 @@ acalyptrate
 angelomachy 2
 arragonite 2
 arks
-affaires 2
+affaires 3
 akhmimic 1
 antimedicative
 agnamed
@@ -19189,7 +19189,7 @@ alick
 arcuale
 acrita
 arcuate
-attache
+attache 1
 aristotelic
 allotypies
 aetiotropically
@@ -25298,7 +25298,7 @@ allthorn
 aftereye
 asymmetrical
 atmospheric 1
-antiseptically
+antiseptically 1
 anesthetist 2
 alfonso
 aperture
