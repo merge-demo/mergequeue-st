@@ -1933,7 +1933,7 @@ besieger 1
 bodiced
 bareheaded
 bubonalgia
-bandanas
+bandanas 1
 bergama 1
 bandogs 1
 bediademed 2
@@ -1963,7 +1963,7 @@ balsa 4
 bandrol 1
 beatific
 bonniest
-bework
+bework 1
 boreus 1
 bandsawn 2
 bandsman 1
@@ -2352,7 +2352,7 @@ bepuff 2
 barbierite
 busyish 1
 blatancies 2
-bromite 1
+bromite 2
 briber 2
 barbita
 barbital 1
@@ -3274,7 +3274,7 @@ bitumens
 bolted
 basinal
 brazil
-bushland
+bushland 1
 broader 1
 boniform 2
 blunderful 1
@@ -5800,7 +5800,7 @@ becrawling 2
 buhrmill 1
 bedlamic 1
 bombyliidae 1
-batfish 2
+batfish 3
 booboo
 bimetallism 2
 berengelite 1
@@ -7213,7 +7213,7 @@ buckjump 1
 bongrace
 bauta
 bute 2
-bituminised
+bituminised 1
 balearic
 bequirtle
 bestrew
@@ -7957,7 +7957,7 @@ boanbura
 balistraria 2
 beryllium 1
 borborygmi 2
-bodymaker
+bodymaker 1
 billing
 barothermogram 1
 bibulousness 1
@@ -13852,7 +13852,7 @@ bergsonian 1
 baptizes 2
 belittles
 broadtail 2
-burkite 2
+burkite 3
 broadhead
 bedded 1
 babbly 2
@@ -16781,7 +16781,7 @@ buddie 1
 boswell
 batteuse 1
 buddleia
-bunkhouses 2
+bunkhouses 3
 blockhole 2
 buddleias
 brainstem 1
