@@ -1831,7 +1831,7 @@ cann
 calzoneras
 calzones
 cannonry
-consigneeship 1
+consigneeship 2
 costocentral
 ciceronize
 coala
@@ -3081,7 +3081,7 @@ crownless 2
 canvasbacks 1
 canvasers 2
 coralroot
-cumaldehyde
+cumaldehyde 1
 capriola
 canvasing
 causata
@@ -4404,7 +4404,7 @@ carination 1
 caring
 ceriph
 criticizer
-cosmetologist
+cosmetologist 1
 confrere
 calandridae
 centimes
