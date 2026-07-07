@@ -4079,7 +4079,7 @@ bskt
 baragnosis 1
 blitzkrieged 2
 beams
-bean
+bean 1
 boldness
 begottenness
 bedeafen
@@ -6691,7 +6691,7 @@ bayesian 5
 browsability 1
 bismuthine
 broomstaff 1
-blitter
+blitter 1
 balaamitical 2
 beeishness
 bellpull 1
@@ -13281,7 +13281,7 @@ bosthoon 1
 banderillas
 bipont
 branchstand
-barman
+barman 1
 bludge 1
 bargello 2
 balawu
@@ -17027,7 +17027,7 @@ bondmaid
 buggess
 bethinks 3
 bulimy
-bismuthiferous 2
+bismuthiferous 3
 bulimias
 bronchiostenosis 1
 broomtail
