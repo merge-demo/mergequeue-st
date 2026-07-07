@@ -1217,7 +1217,7 @@ forespeed
 fluorography 1
 folds 2
 fassalite 2
-fastbacks 1
+fastbacks 2
 flagman 3
 faradism 3
 futteret 3
@@ -5783,7 +5783,7 @@ ferrochrome
 flitfold 1
 fulhams
 fpsps 1
-fulfilling
+fulfilling 1
 flurriedly 2
 faailk 1
 fluorocarbon 1
@@ -6344,7 +6344,7 @@ fasciculately 1
 flunkyize 2
 forefingers 3
 ferments 3
-fumigatorium
+fumigatorium 1
 fpm 2
 frictionlessly 1
 frolicness
@@ -8622,7 +8622,7 @@ fornication
 forest
 feigner
 fossilize 2
-fornicatrix 2
+fornicatrix 3
 fieldman 1
 frameshift 3
 fullfil 3
