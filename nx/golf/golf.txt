@@ -231,7 +231,7 @@ gourinae 3
 gracelessness 2
 gangdom 1
 geostationary 1
-gloeocapsa
+gloeocapsa 1
 ghettoes
 gutsy 1
 glyptics 1
@@ -450,7 +450,7 @@ gloating 3
 gaping 2
 glaciaria 2
 galeid 1
-genny 1
+genny 2
 gerontogeous
 gonopoietic
 gerberas 1
@@ -961,7 +961,7 @@ gunstone 3
 ghostless 1
 glist 1
 gonidiophore
-gamostele 1
+gamostele 2
 glottogony 1
 genetically 2
 gamp
@@ -1914,7 +1914,7 @@ gauffered
 grayfishes 2
 groundwave 1
 garvie 1
-goshen 1
+goshen 2
 gonorrhoeic 1
 gauged
 grovet 1
@@ -4733,7 +4733,7 @@ glycogenize 1
 gjedost
 gastropleuritis
 gyniatrics 1
-gravedo 3
+gravedo 4
 glorifies
 glengarries 1
 governorship 1
@@ -5736,7 +5736,7 @@ grecizes 5
 geometrical 2
 gunfighter 1
 glossoptosis 2
-gloomth 3
+gloomth 4
 gradin
 goings
 gleeds
@@ -7379,7 +7379,7 @@ generalizers 3
 gomarite 1
 glycerinating 1
 germanous 2
-gravelly
+gravelly 1
 gossypine
 gleamier
 gamotropism
@@ -7800,7 +7800,7 @@ graithly
 guatemalans 1
 gilpey 1
 gluttonously
-gonotype
+gonotype 1
 grorudite 3
 gormed 2
 grainways
@@ -8098,7 +8098,7 @@ gentlewoman
 granivore 1
 gasconader 1
 gybes 2
-glandularly 4
+glandularly 5
 gribane 1
 gravitater
 glueyness 2
