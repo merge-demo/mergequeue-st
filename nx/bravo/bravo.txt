@@ -5477,7 +5477,7 @@ beatless
 behoved
 basting 3
 behoves 1
-behoving
+behoving 1
 bogotana 2
 battements 1
 basseted 1
@@ -7852,7 +7852,7 @@ bibionid 1
 brackebuschite 2
 bewreath
 bealtine 2
-bibiri
+bibiri 1
 brad 1
 berserks 2
 bordures
@@ -8683,7 +8683,7 @@ birching
 branners 1
 bimalar
 bimana
-boras
+boras 1
 binoxalate
 bimanous 1
 bradsot 1
@@ -8911,7 +8911,7 @@ bookcases 1
 bioclimatic
 bowwoman 2
 bioclimatician
-bathwater 1
+bathwater 2
 bavoso
 blabber
 bussed 2
