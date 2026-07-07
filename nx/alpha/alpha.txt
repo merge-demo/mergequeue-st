@@ -3094,7 +3094,7 @@ actinometrical
 accidie
 apercu 1
 actinometricy
-areche
+areche 1
 adelops 1
 autochton
 agonia
@@ -6287,7 +6287,7 @@ archengineer 1
 alnager
 arboretum 1
 asperifoliate 1
-antiferment
+antiferment 1
 aquerne 1
 annuitant
 achoo
@@ -7244,7 +7244,7 @@ anadipsia 1
 accommodative
 algorist 1
 alalonga 1
-aurodiamine
+aurodiamine 1
 ambidexterity
 alalus
 androl
@@ -8380,7 +8380,7 @@ alcippe 1
 amini
 alodian
 adscriptive 1
-archdapifer
+archdapifer 1
 ayield 2
 agricultor
 autoelectronic
@@ -8821,7 +8821,7 @@ alliterates 1
 apodixis
 alliterationist 1
 actinautography
-aspersions 1
+aspersions 2
 alimental
 anfractuousness 1
 airtightness 1
@@ -8834,7 +8834,7 @@ alodial 2
 antisensuously
 allium
 alliums
-antiministerialist 2
+antiministerialist 3
 allivalite
 appeases
 antisupernaturalistic
@@ -10518,7 +10518,7 @@ aasvogels
 amyclaean
 absinthism 2
 alisonite
-adscendent
+adscendent 1
 agib
 amyclas
 arrythmical
@@ -11375,7 +11375,7 @@ amphipnous
 alkanes
 ayuntamientos 1
 aniba
-apochae 2
+apochae 3
 amphibian
 autoclasis 2
 attaste
@@ -21239,7 +21239,7 @@ auction 1
 atoxic
 apparail 1
 angster
-atropin 1
+atropin 2
 ashore
 achates
 africana
@@ -21816,7 +21816,7 @@ assessors
 anthophile
 apotheose 1
 animals
-antiquarium
+antiquarium 1
 asseveration 1
 apaesthetic
 asseveratory
@@ -23894,7 +23894,7 @@ actively 1
 arthritics
 asiphonate
 authentic
-authentically
+authentically 1
 aquaemanalia 2
 anthelae 2
 assignees
@@ -24300,7 +24300,7 @@ apparent 2
 autophytograph
 avocational
 aeroporotomy
-auteur 1
+auteur 2
 abacinate
 achafe 1
 autophon
@@ -25080,7 +25080,7 @@ ax
 abasia
 ascochyta
 axebreaker 2
-afterglide
+afterglide 1
 animalism
 aggregated
 axemen
