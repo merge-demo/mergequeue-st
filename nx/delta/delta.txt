@@ -4426,7 +4426,7 @@ duress 4
 demy
 decahydrated 1
 dovetailing
-doddy
+doddy 1
 damper 3
 diazotization 1
 demibeast
@@ -4685,7 +4685,7 @@ derf
 disputatively 1
 datatypes
 desperateness 2
-disnaturalize
+disnaturalize 1
 dolente
 diffareation 2
 disrelish
@@ -7304,7 +7304,7 @@ dirtiness 1
 drownding 1
 despondency
 denegate
-deplaned 2
+deplaned 3
 dipneumona 1
 demifarthing
 decarbonating 1
@@ -9879,7 +9879,7 @@ deuteronomist
 dimeride 1
 dampproofer
 diosgenin 2
-dumba 1
+dumba 2
 dynamic
 diversipedate 1
 dimerism
@@ -10321,7 +10321,7 @@ discounter 1
 dioptometer
 disnature
 denudation 2
-deducement
+deducement 1
 dehydrogenised 1
 desilverizer 2
 downtrends 1
@@ -13287,7 +13287,7 @@ distrustful
 damascus 1
 detuned 1
 dinomys 2
-dogfish
+dogfish 1
 dyotheism
 dustin 1
 demersed 2
@@ -13410,7 +13410,7 @@ despoliation
 diazotic
 diarsenide 1
 disesteem 2
-divinistre
+divinistre 1
 decolourize 1
 disecondary
 dodgy 1
@@ -18065,7 +18065,7 @@ displeasurable
 dynamitist
 dislocations 1
 duler 2
-dissimilating
+dissimilating 1
 dull
 dillydallier 1
 dullard
@@ -18574,7 +18574,7 @@ dig 1
 durrs
 durukuli
 disanimated 1
-dyslexic 2
+dyslexic 3
 defortify 1
 decentration 1
 dush
