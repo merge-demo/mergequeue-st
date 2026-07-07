@@ -2497,7 +2497,7 @@ binotic
 bigram
 baresthesia
 beworming 1
-bottom 1
+bottom 2
 busies 2
 bifunctional 3
 benzoiodohydrin 1
@@ -14230,7 +14230,7 @@ boutiques 1
 bloodstroke 1
 byegaein
 bromohydrate
-bassia
+bassia 1
 bronzes 2
 bisectional
 bradydactylia 1
