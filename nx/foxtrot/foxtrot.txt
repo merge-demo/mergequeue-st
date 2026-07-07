@@ -692,7 +692,7 @@ flunkies
 fingerboard
 flair 1
 foziness
-frettier 2
+frettier 3
 fixures 1
 foraminulose
 fisherwoman 2
@@ -1310,7 +1310,7 @@ famousness 1
 forbidal
 fellani 2
 fervour 2
-fathomlessness 1
+fathomlessness 2
 funniment
 flichtered 1
 forkable
@@ -1573,7 +1573,7 @@ favosely 1
 ferroaluminum
 flatteress 1
 formidability
-favosites
+favosites 1
 fixings
 finer 1
 florae 1
@@ -2008,7 +2008,7 @@ fortunel 1
 floative 2
 fayed 1
 fissipeds 3
-fogging 1
+fogging 2
 fedora 1
 fide
 forgiving 2
@@ -3413,7 +3413,7 @@ fanfaronading
 fungible 2
 floc
 flecker 2
-fenestella 3
+fenestella 4
 forestate
 fielders
 forset 1
@@ -3701,7 +3701,7 @@ fillies
 families 1
 firedogs 2
 foalfoot
-fillings 1
+fillings 2
 furfuryl 1
 fricti 1
 forepoling
@@ -9990,9 +9990,9 @@ fantoms 2
 fumatorium 2
 fa
 frigates 1
-flocculated 2
+flocculated 3
 flavin 1
-frightens
+frightens 1
 fallibilist 1
 frighting
 floridness
@@ -10577,7 +10577,7 @@ faiths
 forehanded
 forebitten 2
 falltime 1
-forcipiform 2
+forcipiform 3
 franking 3
 frostroot
 fluky 1
@@ -10734,7 +10734,7 @@ figent
 flayed
 fitfully 1
 flary 1
-fleckered 1
+fleckered 2
 fartlek 1
 fortran 3
 flunkeyistic 1
