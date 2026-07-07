@@ -791,7 +791,7 @@ bat
 brushcut
 bygoing 1
 banket 2
-badmouthed 1
+badmouthed 2
 burled 1
 bullfrog
 boltheads 1
@@ -1565,7 +1565,7 @@ ballata 1
 backswordman 1
 beatifying 1
 brisked
-batikulin 1
+batikulin 2
 ballatoon
 broiden
 budgie
@@ -3783,7 +3783,7 @@ blackening 1
 biocontrol 1
 basialveolar
 begger 1
-bobflies
+bobflies 1
 befleaing 1
 battute 1
 burratine 1
