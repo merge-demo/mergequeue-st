@@ -7211,7 +7211,7 @@ blades
 beveled 3
 buckjump 1
 bongrace
-bauta
+bauta 1
 bute 2
 bituminised 1
 balearic
@@ -14538,7 +14538,7 @@ babroot
 beadle
 branchiae 2
 bradyglossia
-breeks 1
+breeks 2
 bravados
 branchicolous
 besoothing
