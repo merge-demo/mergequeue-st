@@ -585,7 +585,7 @@ convokes
 colloque 2
 confort
 cuselite 1
-caduac 1
+caduac 2
 cruiseway
 commilitant
 catalineta 1
@@ -7168,7 +7168,7 @@ centrer 1
 closely 1
 chol 1
 chatterbox
-centrev
+centrev 1
 containedly
 centric
 centricae 2
@@ -16564,7 +16564,7 @@ cloisterwise
 cloistral 1
 concoagulation 1
 cloit 1
-chamisos
+chamisos 1
 conurus
 cutaway 1
 conniver
@@ -28101,7 +28101,7 @@ craneway 1
 chorologist 1
 crany
 crania
-cancerate
+cancerate 1
 cosier
 crocodiline
 cranian
