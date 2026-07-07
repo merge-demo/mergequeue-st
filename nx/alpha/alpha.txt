@@ -2328,7 +2328,7 @@ attempers
 acidaspis
 acider 2
 anaphoric
-azimech 1
+azimech 2
 acidy
 acetamid 1
 accessless
@@ -3814,7 +3814,7 @@ adhesion 1
 arbutus
 animized
 adhesive
-architraved 2
+architraved 3
 ananke 1
 arteriosclerotic
 adhesiveness
@@ -17783,7 +17783,7 @@ analysand 2
 aliamenta
 appointing
 artophophoria 2
-appointment
+appointment 1
 alburnous
 adonia 1
 ablaze 1
@@ -21559,7 +21559,7 @@ aspidiske
 autotypies
 aspidistra
 aullay
-aurorean
+aurorean 1
 aspidistras
 aspidium 1
 aspidobranchiata
@@ -21721,7 +21721,7 @@ acetabularia 1
 assembled 1
 altitude
 anthropophaginian
-anniv
+anniv 1
 antrocele
 assembler
 antienthusiastically
