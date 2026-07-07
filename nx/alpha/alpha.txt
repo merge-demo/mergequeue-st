@@ -230,7 +230,7 @@ antirealistically 2
 anis 1
 anhungered
 antiritual 1
-antisensitizer 1
+antisensitizer 2
 amphibola 1
 abbotric
 allokinesis 1
@@ -1496,7 +1496,7 @@ acclimatiser
 acclimatising
 aegagrus
 applewood
-aborsive
+aborsive 1
 algid
 alpinery
 acclimatizer 1
@@ -4738,7 +4738,7 @@ aegicrania
 aegilops
 abolishing
 aegina
-aeginetan
+aeginetan 1
 aegipan
 agonisingly 1
 aegisthus 1
@@ -11412,7 +11412,7 @@ aquifers
 antiplatelet
 amphoteric 2
 antonina
-ampyxes 1
+ampyxes 2
 abies
 amphigaean 1
 auster 1
@@ -12755,7 +12755,7 @@ acalyptrate
 angelomachy 2
 arragonite 2
 arks
-affaires 2
+affaires 3
 akhmimic 1
 antimedicative
 agnamed
@@ -17346,7 +17346,7 @@ anglophil
 antagonist
 aglycosuric
 anatiferous
-apostleship
+apostleship 1
 abaisse 1
 apostleships 1
 appeacher
@@ -21047,7 +21047,7 @@ amphithalamus 1
 ascite
 ashluslay
 aceconitic
-agaz
+agaz 1
 allegorism 1
 asclepiad 1
 asporous
@@ -25298,7 +25298,7 @@ allthorn
 aftereye
 asymmetrical
 atmospheric 1
-antiseptically
+antiseptically 1
 anesthetist 2
 alfonso
 aperture
