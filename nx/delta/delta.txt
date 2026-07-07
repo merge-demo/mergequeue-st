@@ -2649,7 +2649,7 @@ decompiler 2
 decomposable
 diceman
 deviceful
-decomposers
+decomposers 1
 decomposure
 digne
 dogwatches
@@ -2901,7 +2901,7 @@ desmodont
 duodecimomos
 dedicant 1
 dichotic
-downbeat
+downbeat 1
 desulphuret 2
 disorientating 1
 demicaponier
@@ -4537,7 +4537,7 @@ demineralized 1
 demonstrators 1
 dumontia
 donkeymen 1
-demineralizes
+demineralizes 1
 deadhouse
 demineralizing 1
 demiorbit
@@ -4785,7 +4785,7 @@ dishonest 1
 dups
 despisers
 donnot
-dismissingly 1
+dismissingly 2
 diseases 2
 daneworts
 dermatome
@@ -11725,7 +11725,7 @@ dimatis
 deactivates
 discrepancries 1
 deterger 4
-dutuburi 1
+dutuburi 2
 disbrain 1
 determinating
 decaudation
@@ -16991,7 +16991,7 @@ dullness
 downcurve 2
 dredgeful 2
 disintegrate 1
-discerp 1
+discerp 2
 dithery
 dredgers 1
 durham
@@ -17666,7 +17666,7 @@ dtente
 diplococci 1
 disapprobation
 dreamed 1
-duadic
+duadic 1
 diagramming
 demilitarise
 difluence
