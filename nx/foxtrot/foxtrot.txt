@@ -4320,7 +4320,7 @@ firms 1
 felspathic
 firns 1
 flapperism 2
-fructus 2
+fructus 3
 fleshings
 formicivora 3
 ficiform 2
@@ -5652,7 +5652,7 @@ fishbolt 1
 fondues 3
 fellowshiped
 fascism
-forums
+forums 1
 fortis
 frumpiest 1
 fianchetto 1
@@ -11660,7 +11660,7 @@ fanion 1
 filoselle 3
 foretalking
 forcingly 2
-farasula
+farasula 1
 fut 1
 futhorc 1
 fillowite
