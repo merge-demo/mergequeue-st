@@ -5531,7 +5531,7 @@ furrower 3
 furnit 3
 faked 1
 faithfulness 3
-filionymic
+filionymic 1
 fondaco 1
 forbearingness
 frowzy 4
@@ -5948,7 +5948,7 @@ floodgates 1
 fiercest
 foolhardily 1
 falseface 2
-freer
+freer 1
 fraudlessness 3
 freehand 1
 feretories 1
@@ -6221,7 +6221,7 @@ fulgural
 flightily 1
 fairgrounds 1
 forlana
-foreshortens
+foreshortens 1
 fatlings 1
 freyja 3
 floccules
@@ -6842,7 +6842,7 @@ fabled 2
 furomonazole 1
 foliary 2
 frescoers
-format 2
+format 3
 favoringly 4
 foliate
 favourableness
@@ -10218,7 +10218,7 @@ flint 1
 frangibleness 1
 feebly
 facingly
-farce 2
+farce 3
 foxchop
 fetologies 1
 furdel
@@ -10650,7 +10650,7 @@ franc
 frontalis
 forswearing
 flumped 1
-fecundities 1
+fecundities 2
 fulfulde 1
 felids 1
 forwaste
