@@ -711,7 +711,7 @@ grapholite
 grossify 1
 genius 1
 gooranut 2
-galvanised
+galvanised 1
 germanistic 1
 gawn
 gladdest 2
@@ -2130,7 +2130,7 @@ georgian 1
 gharris 1
 gyrocompass
 gerontine 1
-gdinfo
+gdinfo 1
 gerahs
 glossography
 golfings 2
@@ -6807,7 +6807,7 @@ gerontologist
 gt 1
 gonof 2
 gudesire 1
-gonophs
+gonophs 1
 galloflavine 2
 gladiolus
 garlics
@@ -9241,7 +9241,7 @@ grisons
 grandees
 goliard 4
 graphitoid
-grisly 4
+grisly 5
 glagolitic 3
 gravigrade 1
 grahamite 2
@@ -9766,7 +9766,7 @@ gelidities 1
 globetrotter 1
 ganza 3
 grunt 1
-grunter 1
+grunter 2
 gravemaking 1
 griffin 2
 greatheartedly
