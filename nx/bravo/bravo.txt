@@ -2956,7 +2956,7 @@ beath 2
 battalias
 bigeyes
 bennettitaceous
-barrets 1
+barrets 2
 blindeyes
 boundaries 1
 blobby 3
@@ -4735,7 +4735,7 @@ bloomeria 1
 blennorrhinia
 bedlamized
 bedlamizing
-bandlimited
+bandlimited 1
 bobsleding
 bedlamps 1
 boottopping 2
@@ -4789,7 +4789,7 @@ burking
 barrener
 brecciating 1
 blighia 1
-bracker
+bracker 1
 brachylogy 1
 bedriveling
 belledom 1
@@ -15815,7 +15815,7 @@ backhandedly 1
 besonio 1
 bimester 1
 blueprinting
-bastide 1
+bastide 2
 bullaria 1
 blare 1
 beshame
