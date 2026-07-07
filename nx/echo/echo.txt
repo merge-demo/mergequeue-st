@@ -2270,7 +2270,7 @@ exormia 1
 enbloc 1
 eyelets
 endolymph 2
-excretal 1
+excretal 2
 elections 1
 eger 1
 encased
@@ -2498,7 +2498,7 @@ enervators 1
 externe
 endostylar
 epilepsia 1
-enmeshed 2
+enmeshed 3
 eparcuale 1
 eremitic
 eulytite 1
@@ -2977,7 +2977,7 @@ entrecotes 1
 equipede
 enjoining 2
 encephalopsychesis
-exister
+exister 1
 extraovate
 eliminable 1
 etymologizing 1
@@ -4599,7 +4599,7 @@ endarchies 1
 exuberantness 1
 engrafting
 elasticizes
-epimerase 1
+epimerase 2
 epimerising 3
 eusuchian 1
 eddies 2
@@ -4841,7 +4841,7 @@ epispastic 1
 extrapolates
 essenis
 electrodialyzer 3
-englishly 1
+englishly 2
 eggers 1
 electrostenolysis 1
 ensured 3
@@ -5098,7 +5098,7 @@ enneagynous 3
 exundancy
 enoch
 electroosmotic
-euphorbiaceae 1
+euphorbiaceae 2
 extrapolate 1
 electromedical 2
 edgemaking 1
@@ -7469,7 +7469,7 @@ efficacity
 epidermically 1
 extinguised
 endungeon
-eolipile
+eolipile 1
 eaceworm
 ecuelle 1
 eulamellibranch 1
@@ -11055,7 +11055,7 @@ eliminator 2
 eurythmics
 epiphenomena
 endotrophic 1
-epigonichthys
+epigonichthys 1
 enterrologist 2
 establish 3
 euroaquilo
@@ -11806,7 +11806,7 @@ extrospective 2
 epirot
 elusion 1
 ensignship 1
-electrothermostatic 2
+electrothermostatic 3
 eurymus 2
 endorsingly
 exasperatedly
