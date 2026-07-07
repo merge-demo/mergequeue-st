@@ -17503,7 +17503,7 @@ bystanders
 blockout 1
 backspeir 1
 burbolt
-blight
+blight 1
 beauseant 3
 biognosis 1
 burbot 1
