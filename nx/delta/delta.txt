@@ -1364,7 +1364,7 @@ deliquescent 2
 definer 1
 dauphine 1
 drooping
-drawboard
+drawboard 1
 drapable 1
 dauri 1
 dipterocecidium 1
@@ -2388,7 +2388,7 @@ dismantlement 2
 dayakker
 deciduity
 daver 1
-discommendable 1
+discommendable 2
 deciduously
 dessertspoonful
 dimercuric 1
@@ -6270,7 +6270,7 @@ deozonizer 2
 decolonization
 debatter 2
 dermatorrhagia 1
-drossy
+drossy 1
 dial 2
 defender 2
 dendrolatry 1
@@ -9955,7 +9955,7 @@ diminution 1
 deeplier 1
 dewdrop 3
 didactics 1
-dramaturgist
+dramaturgist 1
 diminutions
 deener 1
 diminutive
@@ -10532,7 +10532,7 @@ diceratidae 2
 diazotate 1
 deipotent 1
 dimpling
-diffidation 2
+diffidation 3
 dyemaker 1
 demiking
 dauw 1
@@ -10872,7 +10872,7 @@ doddart
 debaters
 deconcentrate
 disjuncts
-desalting
+desalting 1
 disculpate
 diruption 1
 dereference
@@ -11326,7 +11326,7 @@ disci
 diabases
 dermatocele
 dispreading 1
-disciflorae
+disciflorae 1
 disunifying
 dispensating 1
 dissociably
@@ -12293,7 +12293,7 @@ donatives
 dracontites 1
 disemployed
 dinos 1
-dragonne
+dragonne 1
 disgustfulness 2
 disgustingly 1
 dealated 1
@@ -13021,7 +13021,7 @@ durant
 dopiness
 disparity
 disruptability
-dithecous 1
+dithecous 2
 dispeed 1
 dispark 2
 declarer
@@ -13501,7 +13501,7 @@ dissait
 dissatisfaction
 dissatisfactions 1
 dissatisfiedly 1
-dustrag
+dustrag 1
 doubleleaf
 dinitrile 1
 dysphoria 1
@@ -15774,7 +15774,7 @@ demikindred 1
 deponed
 diseasy
 daring
-dioscoreaceae
+dioscoreaceae 1
 disocclude
 domdaniel 1
 disalign
@@ -16080,7 +16080,7 @@ dogbolt
 dunger 2
 doughhead 2
 doughy 1
-derabbinize 1
+derabbinize 2
 doughier
 drawlingness
 doughiness
