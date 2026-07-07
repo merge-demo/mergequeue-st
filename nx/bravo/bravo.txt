@@ -1724,7 +1724,7 @@ bridemaidship 1
 bonnetlike 1
 balunda 3
 balneotherapy 1
-berdaches
+berdaches 1
 bates 2
 bahera
 bedumbing
@@ -1839,7 +1839,7 @@ buzzy 2
 brimming
 beaconed 2
 beglads 1
-blancmanger 2
+blancmanger 3
 bemuse
 botanizer 3
 bananaland
@@ -7198,7 +7198,7 @@ bloomsbury 1
 bagginess
 bestiary 1
 backdating
-byelorussia
+byelorussia 1
 blastomeric 2
 bullhorn
 bestiarian 3
@@ -8788,7 +8788,7 @@ bindingness
 breakfasted 1
 bekissing 1
 basoche
-bual
+bual 1
 brewer
 buoying 3
 bindweed
@@ -9745,7 +9745,7 @@ bullbats 1
 balding
 bombylious
 begobs
-barleduc
+barleduc 1
 bacillus 2
 brichette 1
 bigwiggedness
@@ -10162,7 +10162,7 @@ blanketflower 1
 barysilite 1
 blackcod 1
 bathochrome 1
-blues
+blues 1
 blackdamp
 bellhanger
 billette 2
@@ -14769,7 +14769,7 @@ baluchistan
 bowdlerize
 brauronian 1
 bocaccio 1
-bronchophthisis 3
+bronchophthisis 4
 blastostyle 1
 bennet 2
 brazened 2
@@ -17098,7 +17098,7 @@ blackcaps
 beduck
 bullet
 byepath
-bulletheadedness
+bulletheadedness 1
 baptornis
 bayard
 bromian
@@ -17273,7 +17273,7 @@ boltings 2
 birddom
 braguette 2
 batik 2
-baggies
+baggies 1
 bumfuzzle
 baubles 1
 blotched
