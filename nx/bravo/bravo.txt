@@ -3593,7 +3593,7 @@ bathythermograph 2
 bipartite 2
 bathmat
 bathmats 1
-broodsac 1
+broodsac 2
 bereaven
 basion
 bathmism
@@ -10486,7 +10486,7 @@ bismarckian 1
 buttonhole
 bielectrolysis
 blunderingly 1
-bemaster
+bemaster 1
 brelaw 1
 brutalising
 blastemic
@@ -15467,7 +15467,7 @@ braata
 bereave 1
 bono 1
 beflout
-bacteriophage 1
+bacteriophage 2
 benetted 1
 bludgeoner
 bota
