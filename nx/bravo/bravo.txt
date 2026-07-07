@@ -3032,7 +3032,7 @@ borts
 buccinum 1
 branglement
 bopping 2
-burgesses
+burgesses 1
 bakership 2
 bartizans 2
 bourkha 3
@@ -5885,7 +5885,7 @@ begaudy 3
 basified
 bellweed 2
 beggardom 1
-bretons
+bretons 1
 butterbur
 bellwether
 bradmaker
@@ -8083,7 +8083,7 @@ bacteriohemolysin
 bicostate 1
 billows 1
 bicrenate
-bicrofarad
+bicrofarad 1
 barcas 1
 bicrural
 broodiness 1
@@ -9784,7 +9784,7 @@ bistipulate 1
 bistort 1
 bistorts
 beetlehead 1
-bistred
+bistred 1
 beknights
 bradylexia
 biaxillary
@@ -12873,7 +12873,7 @@ babblish
 boonfellow 1
 betrayers 2
 bondslave 2
-behorror 3
+behorror 4
 bifoil 1
 birthplace 1
 bg 1
