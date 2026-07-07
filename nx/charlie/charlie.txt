@@ -2366,7 +2366,7 @@ compulsivity
 canalled
 canallers
 canals
-cylindrocellular
+cylindrocellular 1
 cumin 1
 calinda
 ccw
@@ -2907,7 +2907,7 @@ congenialize
 cant
 connectionless
 cantabank 1
-canonic
+canonic 1
 columbier
 curatively
 cacaos
@@ -8775,7 +8775,7 @@ catchplate 1
 causeless 2
 chaprasi
 chapstick 1
-concurbit
+concurbit 1
 camelot
 cloudless
 conceptualisation 1
