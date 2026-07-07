@@ -1248,7 +1248,7 @@ emperors 2
 enrobe 1
 ecclesiarch 2
 equalness 1
-eclated 1
+eclated 2
 expands 2
 epideictical 2
 equilibriate 1
@@ -2295,7 +2295,7 @@ endosteum 1
 eval
 escalatory
 exterminations
-ensepulchre
+ensepulchre 1
 eristical 1
 electrization 2
 enterohepatitis 2
