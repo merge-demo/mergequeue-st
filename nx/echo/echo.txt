@@ -2671,7 +2671,7 @@ exhort
 exdelicto
 epispadia 1
 electrotherapeutical
-entrep 1
+entrep 2
 estampie 1
 euchite 1
 escrol 1
@@ -10173,7 +10173,7 @@ endodermis
 expressness
 electrothermally
 endocarpoid
-elenctical
+elenctical 1
 elodeaceae 1
 emerant
 ersh
@@ -11267,7 +11267,7 @@ eleemosynary 2
 enclosures
 etherion 1
 encrotchet 1
-erythroxylaceae
+erythroxylaceae 1
 exserts 3
 earthquake 2
 ectoproctan
