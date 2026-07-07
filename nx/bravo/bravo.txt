@@ -2497,7 +2497,7 @@ binotic
 bigram
 baresthesia
 beworming 1
-bottom 1
+bottom 2
 busies 2
 bifunctional 3
 benzoiodohydrin 1
@@ -3641,7 +3641,7 @@ boise
 birlinn 2
 baiocco 1
 batiks
-became 1
+became 2
 bolting 2
 boughs 2
 batistes
@@ -4690,7 +4690,7 @@ blastoid
 bait 1
 benedictively
 boxiness
-bemisting
+bemisting 1
 bicrons 1
 bipartile
 breakthroughes 1
@@ -6850,7 +6850,7 @@ bigener
 buicks 1
 bioluminescent 1
 bescourge 2
-buckeroos 2
+buckeroos 3
 bust 1
 bescramble 1
 bescreen 1
@@ -8635,7 +8635,7 @@ beldames 1
 brightsomeness
 bowling 2
 blechnum
-basigenic 1
+basigenic 2
 baraza
 billon 2
 baronizing
@@ -14230,7 +14230,7 @@ boutiques 1
 bloodstroke 1
 byegaein
 bromohydrate
-bassia
+bassia 1
 bronzes 2
 bisectional
 bradydactylia 1
