@@ -80,7 +80,7 @@ flunkeyhood 1
 forme 2
 filching
 faces 2
-folkright
+folkright 1
 flattening
 flowerfence 3
 foliobranch 1
@@ -1024,7 +1024,7 @@ fringillidae 4
 foraging 2
 fogas 1
 faro 1
-fluoridization 2
+fluoridization 3
 fluorogen 4
 floter 2
 foredestining 1
@@ -7165,7 +7165,7 @@ flimflammery 2
 footfolk 2
 ficklewise 2
 fruticulture 1
-flabel 1
+flabel 2
 fictionised 1
 fused
 founds
@@ -8444,7 +8444,7 @@ fiberfill
 futhorcs 3
 flyflapper
 fellfare 1
-foreking 1
+foreking 2
 fictively 2
 fuseboard 1
 fm 1
@@ -9020,7 +9020,7 @@ filly
 feltings
 farcist 2
 flavine 2
-fourpenny 1
+fourpenny 2
 fernless
 fableist 2
 fabricate
