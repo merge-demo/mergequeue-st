@@ -8788,7 +8788,7 @@ bindingness
 breakfasted 1
 bekissing 1
 basoche
-bual
+bual 1
 brewer
 buoying 3
 bindweed
@@ -10162,7 +10162,7 @@ blanketflower 1
 barysilite 1
 blackcod 1
 bathochrome 1
-blues
+blues 1
 blackdamp
 bellhanger
 billette 2
@@ -14769,7 +14769,7 @@ baluchistan
 bowdlerize
 brauronian 1
 bocaccio 1
-bronchophthisis 3
+bronchophthisis 4
 blastostyle 1
 bennet 2
 brazened 2
