@@ -4879,7 +4879,7 @@ emusify 1
 euhemerize 1
 entropy
 exencephalic 1
-ectocoelic
+ectocoelic 1
 eyelight 1
 emulsifiers 2
 earnestful 1
@@ -6691,7 +6691,7 @@ ectopistes
 elusions 2
 esparcet 1
 epigeal 3
-exsuperate
+exsuperate 1
 exhilarate
 enthral 2
 eschewers 1
@@ -9538,7 +9538,7 @@ eskimoized
 electrolysed 2
 embeam
 eupatoriaceous 1
-earls
+earls 1
 eskualdun
 elevations 1
 evection 1
@@ -10862,7 +10862,7 @@ endostomata 1
 envineyard 1
 elaeoblastic 2
 enchase 3
-eisteddfodau 2
+eisteddfodau 3
 euphotic
 entailable 1
 eradicatory
@@ -11768,7 +11768,7 @@ entoptoscopy 1
 edgerman
 ephraim
 ephydrid 1
-euplocomi 1
+euplocomi 2
 engoue 2
 erysipelous
 ectadenia 1
