@@ -5049,7 +5049,7 @@ guilders 1
 gravery 1
 glassmaking 3
 gunfought
-glyc 2
+glyc 3
 gallberries
 grav
 gomerec 1
@@ -7441,7 +7441,7 @@ gemses
 germarium
 gravecloth 2
 gaudery 3
-galen 1
+galen 2
 gruffiest 2
 googly 1
 geest 2
@@ -8903,7 +8903,7 @@ greyfly 2
 gregau 3
 guarantine
 glycerination 1
-greisens
+greisens 1
 getas 1
 gasterotricha 1
 gartering 2
@@ -9332,7 +9332,7 @@ guaiasanol 2
 gamesome
 gauffre 1
 gallipot 1
-gromia 2
+gromia 3
 grinder 2
 geomagnetically
 gront 1
