@@ -3274,7 +3274,7 @@ bitumens
 bolted
 basinal
 brazil
-bushland
+bushland 1
 broader 1
 boniform 2
 blunderful 1
@@ -7339,7 +7339,7 @@ bullidae 2
 bilbies
 bunker
 burritos
-becumber
+becumber 1
 beryl 1
 blinky
 brasilia
@@ -7592,7 +7592,7 @@ bindweeds 1
 bewilderedly
 bluepoints
 bemadams 1
-bedroll 1
+bedroll 2
 bollixes 1
 bribri
 brisbane 2
