@@ -197,7 +197,7 @@ bookiness
 bestirred
 bemoanable 1
 bloodmobile
-beweep 1
+beweep 2
 begary
 bioassays
 bigwigged 1
@@ -1663,7 +1663,7 @@ ballottines
 bathwort
 ballpark
 brasquing
-bandi
+bandi 1
 bescurf
 barrowist
 bardesanism
@@ -2487,7 +2487,7 @@ balbutient
 batino 1
 brendan 1
 barandos 3
-balaklava
+balaklava 1
 baphomet
 bereason
 bearhound 1
@@ -3355,7 +3355,7 @@ bromargyrite
 basketwork 5
 beggiatoaceous 1
 behatted
-blueballs 1
+blueballs 2
 backspread 2
 bran
 baskish 1
@@ -3417,7 +3417,7 @@ bewall
 broche
 bartramiaceae 2
 bittor 1
-boehmenism
+boehmenism 1
 bryophytic
 benzalazine 2
 burghership
@@ -4478,7 +4478,7 @@ braid
 becramp 1
 blackmail
 barbone 1
-balboas
+balboas 1
 bursicle 1
 bucklers 1
 bustling
@@ -6248,7 +6248,7 @@ blastogenesis
 bubas 1
 blatantly 1
 brush
-braceleted
+braceleted 1
 becalmed 1
 bimodulus
 benni 2
@@ -7687,7 +7687,7 @@ bordured 4
 becarpets
 benelux
 bereaved 1
-bezoars
+bezoars 1
 bezpopovets
 barged
 butties 3
@@ -11357,7 +11357,7 @@ bricked 1
 bromegrass 1
 bluchers
 bloodhound 1
-belouke
+belouke 1
 bludgeon 2
 bludgeons 1
 bludger
@@ -16743,7 +16743,7 @@ babehood
 buckwagon
 boodie
 buckwheatlike
-balaic
+balaic 1
 butterwoman
 buckwheats
 brazilin
@@ -17333,7 +17333,7 @@ bunchily
 bunchiness 1
 buncoing
 berthing
-brucellas
+brucellas 1
 blotches 1
 bund 2
 belamy 2
@@ -17942,7 +17942,7 @@ breezes
 bowwows 3
 belga 1
 bushwack 2
-bonewood
+bonewood 1
 becking 1
 bathybic 2
 baryta
@@ -18105,7 +18105,7 @@ butcher
 blindstorey 1
 bupleurum 2
 boosts
-blocklayer 2
+blocklayer 3
 butcherbird 1
 bellylike 1
 breakably
