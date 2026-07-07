@@ -6430,7 +6430,7 @@ colubrids
 cannoneers
 cloister
 chokiest 1
-cav 1
+cav 2
 corah
 curvinervate
 cavayard
@@ -15306,7 +15306,7 @@ clancularly 1
 clandestine 1
 clandestinely
 clandestineness
-clanfellow
+clanfellow 1
 caddo
 compatriot
 crowdie
@@ -20510,7 +20510,7 @@ compartments
 chapin 1
 celticist
 compass 2
-compassability 1
+compassability 2
 compassable
 compassed
 cotham
@@ -26428,7 +26428,7 @@ cerenkov
 cothon 1
 cothouse
 cothurn 1
-cothurnus
+cothurnus 1
 coticed 1
 coruscate 2
 colleter
@@ -27568,7 +27568,7 @@ comped
 cower
 coverlets
 consultatory 1
-circumambiently 1
+circumambiently 2
 consumation
 clairce
 coverslip
