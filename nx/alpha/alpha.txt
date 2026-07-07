@@ -563,7 +563,7 @@ adore 1
 acetolysis 1
 ataraxies
 amidophosphoric 2
-amyotrophia 2
+amyotrophia 3
 actualize
 anba
 antiradiation 1
@@ -3934,7 +3934,7 @@ analcite 1
 alphorns
 atrabiliousness
 adjectional
-antireductive
+antireductive 1
 anastatica 1
 autoactivation
 adjectives 1
@@ -5038,7 +5038,7 @@ avondbloem 2
 anomalogonatae
 addressful
 alboranite 1
-aminophenol
+aminophenol 1
 aerophagia 1
 arecaidine
 aerophane
@@ -10036,7 +10036,7 @@ andrenid 1
 avidya 1
 ambidextrously
 autarkikal
-avellan
+avellan 1
 axion
 ambiency
 antifreezing 1
@@ -10474,7 +10474,7 @@ almah
 amethodically
 athalline 1
 arthrodire
-ametrope 1
+ametrope 2
 antshrike 1
 ametropia
 ametrous
@@ -11499,7 +11499,7 @@ adonic 1
 amygdalae 2
 amu 3
 arteriae 1
-amuchco 1
+amuchco 2
 amuck
 amueixa 2
 abdominovaginal
@@ -12268,7 +12268,7 @@ anchimonomineral 3
 aetiogenic 4
 aegirite 1
 anchorages 1
-afterloss 1
+afterloss 2
 anchorlike
 archradical 1
 actinodermatitis 1
@@ -16726,7 +16726,7 @@ arteriotomies
 agrotechny
 allocatee 1
 anthoxanthum
-actinomycesous
+actinomycesous 1
 autopotamic
 assamar
 akebi
@@ -20284,7 +20284,7 @@ arsmetry 1
 arround
 auditual 1
 arbute 1
-arrouse
+arrouse 1
 abhorrers
 austria 1
 assbaa
@@ -21816,7 +21816,7 @@ assessors
 anthophile
 apotheose 1
 animals
-antiquarium
+antiquarium 1
 asseveration 1
 apaesthetic
 asseveratory
@@ -21967,7 +21967,7 @@ ardhamagadhi
 assorted
 alethiologic
 assorter
-athamaunte 1
+athamaunte 2
 assot
 astrict
 asssembler 2
@@ -24222,7 +24222,7 @@ argentite 1
 automates
 arabidopsis 2
 analagous
-agronomist
+agronomist 1
 aphetism 2
 argumentative
 automaticity 1
