@@ -2981,7 +2981,7 @@ deediness
 dorsales 1
 disengage
 diabolos
-deeding 1
+deeding 2
 demolishment
 dygogram 3
 directorates
@@ -12229,7 +12229,7 @@ dehortation
 dataflow 2
 discrepancy
 disgorged 2
-disendowed
+disendowed 1
 drawing
 distrusting
 dromedarist 1
