@@ -2515,7 +2515,7 @@ bhut
 bedark 1
 barge 2
 bergere
-bult 1
+bult 2
 bargelike 1
 bargellos
 beswinge 1
@@ -3756,7 +3756,7 @@ botryotherapy 2
 backhauls
 battologise 1
 bastile 1
-batlan
+batlan 1
 bukshi 2
 battologising 1
 battologize
@@ -7838,7 +7838,7 @@ blooms
 by 1
 boulevards
 bufonite
-borazon
+borazon 1
 bajri
 broose 1
 bibelot 1
@@ -15956,7 +15956,7 @@ baham 2
 barbated
 billtong
 bromphenol
-bathroomed 2
+bathroomed 3
 blattering 1
 being
 burgh 1
