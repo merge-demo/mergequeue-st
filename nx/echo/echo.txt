@@ -1248,7 +1248,7 @@ emperors 2
 enrobe 1
 ecclesiarch 2
 equalness 1
-eclated 1
+eclated 2
 expands 2
 epideictical 2
 equilibriate 1
@@ -2295,7 +2295,7 @@ endosteum 1
 eval
 escalatory
 exterminations
-ensepulchre
+ensepulchre 1
 eristical 1
 electrization 2
 enterohepatitis 2
@@ -4174,7 +4174,7 @@ evasible 1
 ecumenics 2
 eriocaulon
 empress 4
-esbay 1
+esbay 2
 empresses 1
 emprint 1
 emprises
@@ -7346,7 +7346,7 @@ electoral
 echinochloa
 epenetic 1
 everglade 1
-explosion
+explosion 1
 ensculpture 1
 exsanguineous
 epenla
