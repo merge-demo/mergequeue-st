@@ -6755,7 +6755,7 @@ delate
 deceased 1
 desilt
 deerweeds
-dihedral
+dihedral 1
 depraving
 disally
 dirtboard 1
@@ -13388,7 +13388,7 @@ deevey 2
 disquieter 2
 dairt
 disquietingness
-dipicrylamine
+dipicrylamine 1
 disquietly
 disquietness
 disquietude 3
