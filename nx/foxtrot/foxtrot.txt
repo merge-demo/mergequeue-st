@@ -178,7 +178,7 @@ flimsies
 finitary 1
 factoryship
 floatiness
-foment 1
+foment 2
 flashily
 feuar
 florin 1
@@ -1217,7 +1217,7 @@ forespeed
 fluorography 1
 folds 2
 fassalite 2
-fastbacks 1
+fastbacks 2
 flagman 3
 faradism 3
 futteret 3
@@ -4602,7 +4602,7 @@ fornaxid
 fit 1
 fontally
 fringilliform 1
-fitchee
+fitchee 1
 fibrocalcareous 3
 filagrees
 ferring 1
@@ -6344,7 +6344,7 @@ fasciculately 1
 flunkyize 2
 forefingers 3
 ferments 3
-fumigatorium
+fumigatorium 1
 fpm 2
 frictionlessly 1
 frolicness
