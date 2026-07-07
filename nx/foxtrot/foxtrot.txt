@@ -2387,7 +2387,7 @@ fortunetellers 1
 friendlier 2
 frondage 2
 feriation 1
-falsedad 2
+falsedad 3
 flinting 1
 flexors 2
 fricandeau 1
@@ -2653,7 +2653,7 @@ frumpling 1
 ferrumination 1
 fluviatic
 fraters
-feedings
+feedings 1
 fainaigue 1
 froufrou 1
 flickering 2
@@ -6987,7 +6987,7 @@ foetus 1
 foments
 fussiness 1
 fortuity 1
-fordless 1
+fordless 2
 fond
 fondateur
 fonded 1
