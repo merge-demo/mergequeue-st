@@ -1644,7 +1644,7 @@ grates
 gif 3
 gastrodermal 1
 gastrodermis
-gulfweed
+gulfweed 1
 galeopithecus
 glycin 1
 globed 1
@@ -5662,7 +5662,7 @@ gossoon 2
 gristliest 1
 greenlandman 3
 gnomonia 1
-gentilesse 2
+gentilesse 3
 gastrophrenic 1
 glossal
 glycerize
@@ -9780,7 +9780,7 @@ gruppo
 galeate
 galeche 2
 gumfield 1
-glycidic
+glycidic 1
 gonothecal
 gobstick 2
 geognosies 1
