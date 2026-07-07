@@ -718,7 +718,7 @@ absorbency
 adversely
 abortive
 afebrile 1
-abortiveness
+abortiveness 1
 allegorising 1
 american
 animadversion 3
@@ -1392,7 +1392,7 @@ anticatholic 1
 anapaestical
 anticnemion 2
 acidimetry 1
-airtightly 2
+airtightly 3
 awingly 1
 auxillary 1
 accentual
@@ -6050,7 +6050,7 @@ autocatheterism
 apparence 1
 anachronistic 2
 anticommunistic 1
-archt
+archt 1
 actinomycetal
 aggroupment 1
 aghan
@@ -19189,7 +19189,7 @@ alick
 arcuale
 acrita
 arcuate
-attache
+attache 1
 aristotelic
 allotypies
 aetiotropically

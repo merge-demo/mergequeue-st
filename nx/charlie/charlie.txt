@@ -9120,7 +9120,7 @@ cerebra
 cosmoscope
 chartophylacium
 chartreux
-centration
+centration 1
 chartroom
 commonefaction 1
 charts 1
@@ -25313,7 +25313,7 @@ cosmologists 2
 cyanotrichite
 cacophonize
 choom
-corkwing
+corkwing 1
 cormac 1
 concetto
 coardent

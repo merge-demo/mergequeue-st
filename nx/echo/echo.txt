@@ -1349,7 +1349,7 @@ essentialness 3
 exomis 1
 estrone 1
 evasional 3
-ebcdic
+ebcdic 1
 excludability
 earlocks
 ethylated
@@ -1685,7 +1685,7 @@ electrotheraputics 1
 ephemerally
 extemporaneous 1
 eyecup
-emollescence
+emollescence 1
 effectualize
 eyed 1
 experientialistic 2
@@ -6569,7 +6569,7 @@ equiponderant
 excluding 2
 echinorhynchus
 esperantidist 1
-enseam
+enseam 1
 expulsatory 2
 eructed 1
 execrate 3
@@ -7503,7 +7503,7 @@ embranglement 3
 exponence 2
 eructing
 explanitory
-epicheiremata 2
+epicheiremata 3
 executer 2
 ependyma 3
 enwoman
@@ -8061,7 +8061,7 @@ esterifying
 electrophotomicrography
 epicoelia 1
 encephalothlipsis 2
-electrovection 2
+electrovection 3
 enbibe 1
 embellish 2
 episarkine
