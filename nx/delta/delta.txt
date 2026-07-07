@@ -11102,7 +11102,7 @@ dosain
 donating
 disattaint 2
 disattune
-defiling
+defiling 1
 diplomacy 1
 dysautonomia
 disavail 2
@@ -17603,7 +17603,7 @@ drums
 decalcifier 1
 drumstick 1
 detoxicant
-drunk 2
+drunk 3
 desuperheater
 dogbite 1
 drunkenwise
