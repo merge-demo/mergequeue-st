@@ -178,7 +178,7 @@ flimsies
 finitary 1
 factoryship
 floatiness
-foment 1
+foment 2
 flashily
 feuar
 florin 1
@@ -1190,7 +1190,7 @@ forediscern 2
 fascinate
 fixator
 fissure 3
-frontpiece
+frontpiece 1
 foredoing 3
 frustrately
 forereport 2
@@ -4602,7 +4602,7 @@ fornaxid
 fit 1
 fontally
 fringilliform 1
-fitchee
+fitchee 1
 fibrocalcareous 3
 filagrees
 ferring 1
