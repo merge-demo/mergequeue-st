@@ -1090,7 +1090,7 @@ bain
 bepraisement
 boogymen
 biogenic 2
-bedizenment
+bedizenment 1
 baioc 1
 begattal 1
 braciole 1
@@ -1273,7 +1273,7 @@ bobbies 1
 boracites 1
 ballyhack 1
 baldheaded 2
-balalaika 1
+balalaika 2
 birdberry 1
 balan 3
 backplanes
@@ -2100,7 +2100,7 @@ backgeared
 babai 1
 barefooted
 boohooed
-bollixing
+bollixing 1
 benzpyrene
 bannat
 baulky
@@ -3482,7 +3482,7 @@ bander 1
 barkpeeler
 boobook
 bolloxed
-batable
+batable 1
 bespatter
 bernicia
 bracket 1
@@ -7457,7 +7457,7 @@ bongos 1
 bishydroxycoumarin 1
 bailies 2
 bourbonize
-bescrape 1
+bescrape 2
 bettonga 1
 basswoods
 binitarian 1
@@ -8595,7 +8595,7 @@ bhuts 1
 bastionary 1
 bearskin
 billfolds 1
-ballaton 2
+ballaton 3
 bringing
 bearlike 1
 bibliothecas 2
@@ -9168,7 +9168,7 @@ bathysmal 1
 buccin
 botanists 1
 butyraceous
-blanketed 1
+blanketed 2
 biotelemetries 2
 betulinol 1
 biotical
@@ -9356,7 +9356,7 @@ boozer
 buttering
 birdbaths
 baroqueness 1
-broomroot
+broomroot 1
 blethers 2
 brabbles 2
 budding
@@ -11042,7 +11042,7 @@ bisaccate 1
 bloating
 burglarized 1
 beet
-bootstrap 1
+bootstrap 2
 beclout 3
 basilemma 1
 bails 2
@@ -11902,7 +11902,7 @@ besmutting 1
 barabora
 boron
 boatlip 1
-borgh
+borgh 1
 benic
 bockey
 bloodleaf 2
@@ -12916,7 +12916,7 @@ birle 1
 bungmaker
 babka 1
 bump 1
-bursectomy
+bursectomy 1
 brachigerous 1
 brambling
 byssogenous 1
@@ -13310,7 +13310,7 @@ botanica
 bandoleered
 bacteriologically 1
 bradykinesis 1
-balantidiasis 1
+balantidiasis 2
 bivaulted
 botanically 1
 botanics 2
@@ -13484,7 +13484,7 @@ bottlenose
 bottlestone 1
 bottling
 blemishes 1
-bogydom 1
+bogydom 2
 borstall
 baronethood 1
 blatant 1
@@ -13709,7 +13709,7 @@ bridged
 barwin 1
 beladying 1
 bullcart 1
-besmottered 1
+besmottered 2
 bushes 2
 botulinum
 boskages
@@ -16522,7 +16522,7 @@ belion 2
 brittlebush 1
 bagnet
 bolivia 1
-breathlessly 1
+breathlessly 2
 babbittism
 batholitic 1
 buddling
@@ -17254,7 +17254,7 @@ bubingas 1
 blepharolithiasis
 bedriveled
 barriness 1
-bearbind 1
+bearbind 2
 blamably
 bawlers
 bimethyl
@@ -17630,7 +17630,7 @@ burgomasters
 bullfighting 2
 burgomastership 3
 burgundy
-bishareen 3
+bishareen 4
 burhel 1
 bombic 2
 bisson 3
@@ -18352,7 +18352,7 @@ bucellas
 bipontine 2
 bensail 2
 braw 1
-bisectionally 1
+bisectionally 2
 buttwoman
 butterscotch 1
 buxaceous
