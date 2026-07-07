@@ -1172,7 +1172,7 @@ febrific 2
 fright 1
 fund 1
 fluoroscopy
-fleech
+fleech 1
 fascistization 1
 foxproof 1
 fountainlike
@@ -1760,7 +1760,7 @@ farfet 1
 farsalah
 forlorn 1
 flatling 1
-foundery 1
+foundery 2
 frivolously 1
 fetid
 feuilleton 2
@@ -5589,7 +5589,7 @@ fader
 fibrinocellular 1
 flycatchers
 flicflac
-financialist
+financialist 1
 fluttering
 flintiness 1
 ferricyanhydric 1
@@ -7614,7 +7614,7 @@ fluvialist 1
 fgn 1
 fructuarius 2
 funiculus 1
-fanciers 1
+fanciers 2
 flintworker 2
 forespeak
 freezable 1
@@ -11439,7 +11439,7 @@ furred
 frieze 2
 frowstiest 1
 fettering 1
-forebemoaned 1
+forebemoaned 2
 frailness
 founte
 fortunetell 1
