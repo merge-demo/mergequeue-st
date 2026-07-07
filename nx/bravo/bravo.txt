@@ -883,7 +883,7 @@ bagdad
 bunters
 begoniaceae 1
 bauxites
-bicolour 1
+bicolour 2
 bagful
 baggagemaster 1
 bedamning
@@ -1090,7 +1090,7 @@ bain
 bepraisement
 boogymen
 biogenic 2
-bedizenment
+bedizenment 1
 baioc 1
 begattal 1
 braciole 1
@@ -1598,7 +1598,7 @@ bacchanal
 brahminism 1
 backrushes 1
 bifidity 1
-beknighting 1
+beknighting 2
 brummagem
 ballyhoo
 ballyrags
@@ -2580,7 +2580,7 @@ brio
 baryphonia
 bootie 1
 bronzesmith 4
-burling 2
+burling 3
 banzai
 baris 1
 bodefulness 1
@@ -3203,7 +3203,7 @@ befriends
 biaxially 1
 basicerite 1
 basicity 2
-baloneys
+baloneys 1
 biolyses
 benzins
 balancers 3
@@ -5356,7 +5356,7 @@ bacteriogenic
 blueweed 1
 besoothement 1
 biflecnode 1
-buyable
+buyable 1
 bromobenzene 2
 barodynamic
 barbarisation
@@ -7270,7 +7270,7 @@ bioresearch
 betain 1
 bibiru
 blanked 1
-betake 2
+betake 3
 buckshees
 barkevikite 1
 betakes
@@ -7644,7 +7644,7 @@ britishness
 biacetylene 1
 bukshee
 beflower 1
-backened 1
+backened 2
 broigne 1
 biogenies 2
 beeper 3
@@ -8983,7 +8983,7 @@ blankety 1
 bleachfield
 bunchbacked
 biographers 3
-bossisms
+bossisms 1
 biographies 2
 boulangist
 boreable 3
@@ -10545,7 +10545,7 @@ belligerent 1
 braise
 badasses 1
 blastula
-boswellia
+boswellia 1
 blastulation 1
 blachong
 briton 1
@@ -11589,7 +11589,7 @@ blushy
 basophils 1
 biddy
 brierwood
-beth
+beth 1
 bestain
 brightness 1
 byordinar 1
@@ -13310,7 +13310,7 @@ botanica
 bandoleered
 bacteriologically 1
 bradykinesis 1
-balantidiasis 1
+balantidiasis 2
 bivaulted
 botanically 1
 botanics 2
@@ -13484,7 +13484,7 @@ bottlenose
 bottlestone 1
 bottling
 blemishes 1
-bogydom 1
+bogydom 2
 borstall
 baronethood 1
 blatant 1
@@ -13568,7 +13568,7 @@ bouffon
 bremeness 1
 bicycular 1
 baptize
-bopster 1
+bopster 2
 baizing
 bougainvilliidae 2
 bite
@@ -14915,7 +14915,7 @@ breakfronts 1
 brighid 2
 butlerage 1
 breaking
-barkeep 2
+barkeep 3
 breakings 1
 bovicide 1
 breaklist 2
@@ -16755,7 +16755,7 @@ bucorvus 1
 bowknots 1
 billheading
 burrower 1
-bahama 1
+bahama 2
 branchiostegidae 1
 blowballs
 biacetyls 1
