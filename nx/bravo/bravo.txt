@@ -3125,7 +3125,7 @@ baseburner
 basecourt
 betokener 1
 boosting
-boneset 1
+boneset 2
 baselevel 1
 bismarck 2
 bowstringing 2
@@ -3928,7 +3928,7 @@ buckishly 1
 bamboos
 bbs
 bassly 2
-beliquor
+beliquor 1
 balaniferous 1
 bookbindery 1
 birdweed
@@ -9018,7 +9018,7 @@ bets 1
 byp 3
 biomechanical 1
 begrims 1
-biomedicine
+biomedicine 1
 bondieuserie 2
 bashing
 baginda

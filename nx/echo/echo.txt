@@ -336,7 +336,7 @@ eighty 2
 exogamies
 electrodynamic
 enchantment
-electrocauterization
+electrocauterization 1
 epacridaceous 2
 espying 1
 emulsifier 1
@@ -5996,7 +5996,7 @@ ejects
 earns 1
 eluding
 extrapituitary 1
-emptily 3
+emptily 4
 extensimeter 4
 embayment
 endoparasitic 1
@@ -6335,7 +6335,7 @@ ensheathe
 excitomotion 1
 eburna 2
 ensheathing
-eruditely 1
+eruditely 2
 endoangiitis 1
 ellice 2
 enthrals
@@ -10008,7 +10008,7 @@ electrode 1
 eurhythmical
 encollar 1
 evanishing
-electrodiagnostically
+electrodiagnostically 1
 extrorsal 1
 electrodiagnostic 1
 expellable 2
