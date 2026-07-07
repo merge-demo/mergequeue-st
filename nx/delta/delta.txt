@@ -6970,7 +6970,7 @@ despiteful 1
 digs 2
 daphnia
 dinoflagellate
-docility
+docility 1
 drags 1
 dumbfoundment
 despitefully
@@ -11741,7 +11741,7 @@ dehydrogenize 1
 drawplate 1
 dexamethasone 1
 dino 1
-dogblow 1
+dogblow 2
 disported 1
 debellate
 deoxidising
@@ -16980,7 +16980,7 @@ dazedness 2
 domus
 denutrition 1
 drearing 2
-drearly
+drearly 1
 drearness 1
 deliverability 2
 decimalist
@@ -17547,7 +17547,7 @@ differencingly
 drugs 1
 druidess
 dunghilly
-dunites
+dunites 1
 denumeral 1
 disulfuric 2
 druidisms 2

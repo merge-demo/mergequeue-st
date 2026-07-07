@@ -712,7 +712,7 @@ grossify 1
 genius 1
 gooranut 2
 galvanised 1
-germanistic 1
+germanistic 2
 gawn
 gladdest 2
 grissen
@@ -5113,7 +5113,7 @@ geldant 1
 gravidas
 grouch
 gibus
-gnostology 1
+gnostology 2
 gallirallus 2
 gingham 1
 gantsl
@@ -10630,7 +10630,7 @@ gulches 1
 gunsmithing 1
 grossification 1
 griseous 2
-gunstocker
+gunstocker 1
 geronto 3
 girns 1
 glimmerous 3
