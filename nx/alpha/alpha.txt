@@ -7344,7 +7344,7 @@ alba
 athrob
 atom 1
 aftertastes 2
-antihemophilic
+antihemophilic 1
 arzava
 artlet
 alembicate
@@ -11947,7 +11947,7 @@ ananism
 annoyances
 aulostomus
 ananite
-anelace 1
+anelace 2
 aplanospore
 anankastic
 aqueomercurial
