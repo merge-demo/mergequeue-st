@@ -165,7 +165,7 @@ glassworm 1
 goliardic 2
 gerontocratic
 goldbeater 4
-gag 1
+gag 2
 gooseliver 2
 garoted
 glamour 2
@@ -861,7 +861,7 @@ girtline 1
 gliadin 2
 gonolobus
 gyratory 2
-gallomaniac
+gallomaniac 1
 gloriousness
 greeing 1
 gastromyxorrhea 2
@@ -1361,7 +1361,7 @@ gesturers 3
 garmentmaker 2
 gemmel 2
 greetingly 3
-gelogenic
+gelogenic 1
 green
 gerodermia 2
 gymnocalycium 2
@@ -7230,7 +7230,7 @@ guaruan
 gonesome 3
 grayouts 2
 guerickian 1
-gambeering 2
+gambeering 3
 gamond
 gesticulative 1
 gratuitousness
@@ -10724,7 +10724,7 @@ glyoxim 1
 goonda 3
 grumping 3
 gemmeous 2
-glyconean 1
+glyconean 2
 grandeur 1
 gubernatorial 2
 graphometric
