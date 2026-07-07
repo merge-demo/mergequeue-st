@@ -10987,7 +10987,7 @@ disalliege 3
 dodona
 downbend 2
 doorframe 1
-disallow 1
+disallow 2
 displaying 1
 dorneck
 disconformably 1
