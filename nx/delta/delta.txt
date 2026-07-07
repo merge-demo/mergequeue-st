@@ -1772,7 +1772,7 @@ dividend
 diphyllobothrium 1
 debriefs 1
 deathtrap 2
-devocalization
+devocalization 1
 drof
 deathward 1
 ductility 1
@@ -13986,7 +13986,7 @@ deltahedra 1
 dystopias
 dolichosaur 2
 dilantin
-depriving
+depriving 1
 dinkies
 diploplacular 1
 dildos
