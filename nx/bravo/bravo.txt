@@ -1926,7 +1926,7 @@ brooded 1
 bandle 1
 blastoff 2
 bushcraft
-bandmaster 1
+bandmaster 2
 brainsickly 1
 bando
 besieger 1
@@ -2544,7 +2544,7 @@ banderilla 2
 bemused 1
 burmite
 brillolette 1
-bronchostenosis
+bronchostenosis 1
 bereaving
 barye 1
 burglarise
@@ -4219,7 +4219,7 @@ beringite
 bigot 2
 bowls 1
 boudoir
-beaucoup
+beaucoup 1
 beaued
 bowdlerizing
 brl
@@ -4329,7 +4329,7 @@ blateration 2
 beccabunga
 beefer 1
 blatch
-birrettas 1
+birrettas 2
 beccafico
 buttressing
 beccaficoes 1
@@ -7145,7 +7145,7 @@ bachelorism 1
 bloodied 1
 barefoot
 bogglingly
-boxiana 1
+boxiana 2
 babylonism
 besra 1
 berhymes
@@ -7227,7 +7227,7 @@ basses 1
 bestridden 1
 bluesides
 blueberry 1
-bestrides
+bestrides 1
 bestrown
 bathochromatic 2
 bullshot
@@ -8508,7 +8508,7 @@ birminghamize 2
 bumble 1
 bifurcous
 beaches 1
-bemusk 2
+bemusk 3
 barkle 1
 bannerer
 bilingually 1
@@ -12860,7 +12860,7 @@ biestings
 boardbill 2
 boppers 1
 beefcake 2
-boomtowns
+boomtowns 1
 barracuda
 boon
 brandenburgh 1
@@ -14536,7 +14536,7 @@ blattoidea 1
 bromidrosiphobia
 babroot
 beadle
-branchiae 2
+branchiae 3
 bradyglossia
 breeks 2
 bravados
@@ -18050,7 +18050,7 @@ banjoist 2
 bluely 1
 bugled 1
 busting
-bustle 1
+bustle 2
 basketwood
 backflow 1
 betoken 1
