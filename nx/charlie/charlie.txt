@@ -459,7 +459,7 @@ civilisable
 chancered
 cactuslike
 cinclidotus 1
-cassavas
+cassavas 1
 cartages
 catheretic 1
 cancelable 1
@@ -791,7 +791,7 @@ chunking
 cristae
 completories 1
 cahincic 1
-cahita 1
+cahita 2
 continency
 cunas
 collyr
@@ -4621,7 +4621,7 @@ carolan 1
 caroled
 confuses 2
 conversationalism 1
-cytoproct
+cytoproct 1
 counterrevolutions
 circlers
 canescene 2
@@ -5910,7 +5910,7 @@ caterpillared
 caterpillarlike
 chelerythrin
 caterpillars 2
-caters
+caters 1
 caterva 1
 complicacies
 colporrhea
@@ -7280,7 +7280,7 @@ comitatus
 cepe
 crossroads 1
 cepes 1
-civ
+civ 1
 conchitis
 clincher 1
 chromatopathic
@@ -7425,7 +7425,7 @@ cerebrophysiology
 cerastes
 conciliatory 3
 cerasus
-cerata
+cerata 1
 cerate
 commerced
 checkmates
@@ -8280,7 +8280,7 @@ chantress
 courtyard
 coonskin
 complexity
-carbure 2
+carbure 3
 crestfallen
 corallet
 choyroot 3
@@ -9166,7 +9166,7 @@ commandeering
 constipating
 chass 2
 chasse 1
-chassed 1
+chassed 2
 chasseing
 chassepot 1
 chassepots
@@ -13140,7 +13140,7 @@ cicatrice
 colocolo
 cicatrices
 cicatricle
-chamberdeacon 1
+chamberdeacon 2
 copastorate
 cicatricula
 cicatricule 1
@@ -14064,7 +14064,7 @@ cypselomorphic 1
 customly 1
 compassionately
 cypselous 1
-cypselus
+cypselus 1
 collinsia
 cyptozoic
 cosmologies
@@ -14956,7 +14956,7 @@ counterparallel
 crossjack
 citreous 1
 confabulates
-citrination 1
+citrination 2
 currachs
 cytopharynxes
 citrinin
@@ -15126,7 +15126,7 @@ cladonioid
 catalyst
 cladophora 1
 cladophoraceous
-cladoptosis 1
+cladoptosis 2
 copilots 1
 cladose
 cyder 1
@@ -16153,7 +16153,7 @@ climatize
 climatographical
 compony
 cardsharp
-conductitious
+conductitious 1
 crenulated
 climatometer
 climaxed
@@ -17314,7 +17314,7 @@ cadis
 coarsely 2
 cranched 1
 calmness
-coarsened
+coarsened 1
 circumsail
 coarseness
 canonizations
@@ -17417,7 +17417,7 @@ cupbearer
 cenospecifically
 cobaea
 corbeil 1
-cotters
+cotters 1
 cobalamin
 comb
 cobalt
@@ -17557,7 +17557,7 @@ cutikin
 cloddishly 1
 coccidian
 centimos
-cystolithectomy
+cystolithectomy 1
 coccidiidea
 corticotropin
 coccydynia 1
@@ -22415,7 +22415,7 @@ conicle
 chessman
 conidae
 champlainic
-conidioid
+conidioid 1
 conidiophorous 1
 conidiospore
 copy
@@ -23644,7 +23644,7 @@ copestone 1
 cleping
 chivvies
 courteous
-contr
+contr 1
 contrabandage
 contrabandery
 cothurnal
@@ -26635,7 +26635,7 @@ councillorship 1
 councilman 2
 councilmanic 2
 councilmen
-conjunctionally
+conjunctionally 1
 carbomycin
 cognise 1
 coked
@@ -27672,7 +27672,7 @@ cowherb
 cowherds 1
 cerium 3
 cytoarchitecturally 1
-clavicornate
+clavicornate 1
 capeworks
 caliver 2
 cowhided
@@ -27685,7 +27685,7 @@ cabinetworking
 cowhorn
 chillers
 camiscia
-confitent
+confitent 1
 cowhouse
 ciconiae
 chamaesyce 1
@@ -29061,7 +29061,7 @@ crimmer
 copilot
 claiming
 crymoanesthesia 1
-chorioadenoma 1
+chorioadenoma 2
 coraciae
 commissariats 2
 cantab
@@ -29942,7 +29942,7 @@ crossopt 2
 carposporangia
 compressure
 crossopterygii 2
-chromonema
+chromonema 1
 crossosomataceous 2
 contrahent
 crossovers
@@ -31672,7 +31672,7 @@ coth
 cushiness 1
 cushing 2
 cosmical
-cushion
+cushion 1
 cushioned
 cushionet 1
 cushionflower
