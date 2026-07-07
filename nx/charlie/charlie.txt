@@ -2174,7 +2174,7 @@ castrations 2
 camphocarboxylic 1
 camphoid 1
 choryos
-camphol 1
+camphol 2
 campholic
 compilatory
 coleorhiza
@@ -3811,7 +3811,7 @@ carbohemoglobin
 calamodendron 1
 cribbling
 carbohydrase 1
-cannibalism 2
+cannibalism 3
 cardioncus
 carbohydrate
 cardiotrophia
@@ -3919,7 +3919,7 @@ clarity
 contradistinguish 1
 couche
 celibacies
-cowheel
+cowheel 1
 compleat
 casquet 1
 carborundum 1
@@ -7168,7 +7168,7 @@ centrer 1
 closely 1
 chol 1
 chatterbox
-centrev
+centrev 1
 containedly
 centric
 centricae 2
@@ -9307,7 +9307,7 @@ castrate
 chullo 1
 chaulmaugra 2
 chaulmoogra 1
-choralist 1
+choralist 2
 cytodendrite 1
 chaumiere 2
 chauna
@@ -13300,7 +13300,7 @@ cyclometric
 contributes 1
 cyclomyaria
 cyclonal
-contravention
+contravention 1
 cyclone 1
 cyclonic 2
 cyclonite 1
@@ -20643,7 +20643,7 @@ cantor 2
 citrate
 cosmosophy
 cahow 1
-complacentially 1
+complacentially 2
 complacently 1
 chantant
 complain 1
@@ -24616,7 +24616,7 @@ copies
 comvia
 copyfitting 1
 copygraph 1
-choring
+choring 1
 contemporised 1
 cosmati
 chancily
@@ -25672,7 +25672,7 @@ corpulentness
 converginerved 1
 corpuscularian 2
 confinedness
-completed 1
+completed 2
 corpuscularity
 corpuscule
 corpusculous
@@ -28903,7 +28903,7 @@ crewet
 culminations 2
 complanar 1
 cyclospondylic
-crewing
+crewing 1
 cutwal 1
 calendarer 1
 cradlefellow
@@ -29159,7 +29159,7 @@ chirruping
 committedly
 cheque 1
 cranioscopist 1
-cotillons
+cotillons 1
 cryoconite 1
 chevise
 callidity 1
@@ -30480,7 +30480,7 @@ ctenolium
 ctenophore 1
 codesigning
 ctenoplana
-ctenostomata 1
+ctenostomata 2
 ctetology 1
 cto
 charcuteries 1
