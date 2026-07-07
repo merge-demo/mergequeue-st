@@ -11967,7 +11967,7 @@ differen
 disenchant 4
 dowd 1
 disenchantments
-disenchantress 1
+disenchantress 2
 depluming 2
 difforme
 disencharm
@@ -13009,7 +13009,7 @@ dingies 1
 disparagement
 disparagements
 documenting
-daleth
+daleth 1
 disparate 1
 disestablish
 downlike 1
