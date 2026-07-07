@@ -2257,7 +2257,7 @@ evenhand
 ethnarchies 1
 endothys
 electricize
-electriferous 1
+electriferous 2
 energumen 2
 epilating
 extortions 2
@@ -2869,7 +2869,7 @@ exhibitorial
 expt
 endomorphic
 endorhinitis 2
-elder
+elder 1
 epitympa 1
 estoppels 1
 eleutherophobia
