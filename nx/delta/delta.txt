@@ -2649,7 +2649,7 @@ decompiler 2
 decomposable
 diceman
 deviceful
-decomposers
+decomposers 1
 decomposure
 digne
 dogwatches
@@ -16991,7 +16991,7 @@ dullness
 downcurve 2
 dredgeful 2
 disintegrate 1
-discerp 1
+discerp 2
 dithery
 dredgers 1
 durham
