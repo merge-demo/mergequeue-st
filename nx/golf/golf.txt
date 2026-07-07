@@ -2433,7 +2433,7 @@ garbo 1
 gromwells 1
 garbure 2
 gemote 1
-genouillere 1
+genouillere 2
 gemsbuck 1
 guardful 3
 greasy 2
@@ -6752,7 +6752,7 @@ gamelang
 ganam
 gamgee 2
 gratias
-gadidae
+gadidae 1
 gobbing 1
 gud
 glossospasm
@@ -6765,7 +6765,7 @@ gymnogyps 2
 gabon
 gentilitial
 geologically 1
-gazania 1
+gazania 2
 gyrostatics 2
 genal 1
 genros 1
@@ -7804,7 +7804,7 @@ gonotype 2
 grorudite 3
 gormed 2
 grainways
-granularly 1
+granularly 2
 grumbletonian 4
 gralline 5
 gadman 1
@@ -10469,7 +10469,7 @@ glutei 3
 graylings 3
 gastrin
 goli 3
-gusher 2
+gusher 3
 gulfwards 1
 ginghamed 2
 gynandromorph 2
