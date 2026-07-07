@@ -1190,7 +1190,7 @@ forediscern 2
 fascinate
 fixator
 fissure 3
-frontpiece
+frontpiece 1
 foredoing 3
 frustrately
 forereport 2
@@ -2736,7 +2736,7 @@ fetation
 flunkeydom 1
 fraternization 1
 forelimbs 1
-fyce
+fyce 1
 feod 1
 fusses 1
 fraela
@@ -4602,7 +4602,7 @@ fornaxid
 fit 1
 fontally
 fringilliform 1
-fitchee
+fitchee 1
 fibrocalcareous 3
 filagrees
 ferring 1
@@ -6918,7 +6918,7 @@ freewomen 1
 freekirker
 flaxseeds 1
 fleyedly
-fauves 4
+fauves 5
 fragmented 2
 fishback
 fogs 1
@@ -7570,7 +7570,7 @@ falconries 1
 fragor
 fernseed 1
 foreclosure 2
-fevering 1
+fevering 2
 fodientia 1
 forecommend 1
 foreconclude 1
@@ -10351,7 +10351,7 @@ farnesses 1
 factor 1
 frenziedness
 forleaving 1
-foundationless
+foundationless 1
 finfoot 3
 fervorlessness
 flarfishes
