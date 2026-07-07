@@ -4948,7 +4948,7 @@ aeroelastic
 aucupate 1
 aeroelasticity 1
 arraigning
-aerofoils
+aerofoils 1
 atmidometry 1
 adjourned
 amberfish
