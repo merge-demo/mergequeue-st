@@ -2257,7 +2257,7 @@ evenhand
 ethnarchies 1
 endothys
 electricize
-electriferous 1
+electriferous 2
 energumen 2
 epilating
 extortions 2
@@ -2869,7 +2869,7 @@ exhibitorial
 expt
 endomorphic
 endorhinitis 2
-elder
+elder 1
 epitympa 1
 estoppels 1
 eleutherophobia
@@ -5940,7 +5940,7 @@ engrosser 1
 earrings 1
 enframing 3
 enigma
-egotism 1
+egotism 2
 enjambements 2
 enigmata 1
 eassel
@@ -9683,7 +9683,7 @@ eventuated
 entoptoscopic
 eschaufe 1
 essay
-epistomata
+epistomata 1
 erethism 1
 empyrical 1
 envapor 1
@@ -13474,7 +13474,7 @@ endocranial
 euprepia
 embolomerous 1
 echinosphaeritidae
-expropriable 1
+expropriable 2
 endome
 expropriate
 egalitarian 1
