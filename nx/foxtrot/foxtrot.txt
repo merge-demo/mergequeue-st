@@ -2841,7 +2841,7 @@ foreadmonish 2
 fieldsmen
 farmhand 1
 furious 2
-fishnet 1
+fishnet 2
 flamy 2
 flowerets 1
 feticide 1
@@ -2945,7 +2945,7 @@ fungological 1
 froths 1
 fevered 2
 flitchen 1
-franklinian
+franklinian 1
 feveret 2
 fibroelastic
 forefending
@@ -5188,7 +5188,7 @@ francolin 2
 frozenhearted 3
 fedifragous
 furmente 4
-frontozygomatic
+frontozygomatic 1
 furial 1
 furfurous 1
 flaubert 1
@@ -8671,7 +8671,7 @@ faddishly 3
 feelers 2
 felt
 fearfully 3
-foredune 4
+foredune 5
 fulup
 fringilloid 3
 forsakenness 1
@@ -11318,7 +11318,7 @@ fusspot
 firearm 4
 fulmicotton 1
 fatwa 1
-farse 1
+farse 2
 firedog 1
 formatted
 feverfew
