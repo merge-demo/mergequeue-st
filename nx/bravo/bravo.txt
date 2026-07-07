@@ -3125,7 +3125,7 @@ baseburner
 basecourt
 betokener 1
 boosting
-boneset 1
+boneset 2
 baselevel 1
 bismarck 2
 bowstringing 2
@@ -9018,7 +9018,7 @@ bets 1
 byp 3
 biomechanical 1
 begrims 1
-biomedicine
+biomedicine 1
 bondieuserie 2
 bashing
 baginda
@@ -13077,7 +13077,7 @@ borecoles 3
 buddhic 1
 bored
 borsches
-bierstubes 1
+bierstubes 2
 boehmenist
 boreen 1
 bowerly
@@ -14647,7 +14647,7 @@ broadleaves
 bewrayment
 bines
 bitterns
-brantails 1
+brantails 2
 barricado 1
 bedcord
 brantle 1
