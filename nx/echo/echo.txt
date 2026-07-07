@@ -3081,7 +3081,7 @@ et 2
 enheritage 4
 endamoeba 2
 embeds 1
-emp 1
+emp 2
 engilding 2
 encyclical
 elliot
@@ -3262,7 +3262,7 @@ euphonize
 ethopoeia 2
 ellwand 1
 eludes 2
-ermitophobia
+ermitophobia 1
 empiriological 1
 eyehooks 1
 effacement 1
@@ -7209,7 +7209,7 @@ eccaleobion 2
 enshadow 5
 eopalaeozoic
 egocentrically
-erysipelothrix 1
+erysipelothrix 2
 eorhyolite 2
 extinguishable
 eos
@@ -9271,7 +9271,7 @@ elytrin
 errors 1
 estramazone 2
 ecrustaceous
-excerpting 3
+excerpting 4
 electroethereal 1
 erse
 enraging
@@ -9702,7 +9702,7 @@ escopette 1
 external 1
 extraprostatic 2
 epicoelar
-extraterritorial 4
+extraterritorial 5
 essedones 1
 eisoptrophobia
 extollers
