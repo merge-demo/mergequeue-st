@@ -2895,7 +2895,7 @@ glove 1
 gubernation 1
 greenheaded
 gallons 1
-glabreity
+glabreity 1
 gulley 1
 growlier 1
 glumpish 3
@@ -6764,7 +6764,7 @@ geront 2
 gymnogyps 2
 gabon
 gentilitial
-geologically 1
+geologically 2
 gazania 2
 gyrostatics 2
 genal 1
@@ -10042,7 +10042,7 @@ gueridons 1
 gasking 2
 gongman
 galette
-gossypols 2
+gossypols 3
 guerison 1
 guerites 2
 gage
@@ -10570,7 +10570,7 @@ giftedly 1
 gurmukhi 1
 goffering 2
 grasshouse 1
-griphus 1
+griphus 2
 gneissitic 3
 greenwithe 1
 gatewoman 1
