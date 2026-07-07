@@ -2270,7 +2270,7 @@ facaded 1
 florentinism 2
 fimble 1
 flatulence
-firebombed 1
+firebombed 2
 fumaria 1
 forshape 3
 full 2
@@ -4109,7 +4109,7 @@ ferth 1
 fiendful
 feuilletons
 frameworks
-fiorin 1
+fiorin 2
 fusiladed 3
 fiorite 2
 foreseen
@@ -7397,7 +7397,7 @@ frost 3
 foothills 1
 fattened
 fierding 2
-foraramens
+foraramens 1
 frugs 2
 fissirostral 3
 ferrarese 1
@@ -9243,7 +9243,7 @@ fragileness 1
 foreknown
 faceplate 1
 flubbing
-fucus
+fucus 1
 farmed
 fledged
 fumously 1
