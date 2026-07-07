@@ -1611,7 +1611,7 @@ expounded 2
 escape
 egret 1
 exsanguine
-emu
+emu 1
 egromancy 1
 emptiness 2
 egurgitate 1
@@ -8611,11 +8611,11 @@ estimating
 eighteens 1
 erectly
 equilibriums
-etherialization 3
+etherialization 4
 equimodal 1
 eunomia
 espantoon 1
-endbrain 1
+endbrain 2
 erythrogonium 2
 erineum 3
 enzymotic 1
@@ -10858,7 +10858,7 @@ educes 1
 echini 1
 embassiate 2
 eligibilities 2
-endostomata 1
+endostomata 2
 envineyard 1
 elaeoblastic 2
 enchase 3
