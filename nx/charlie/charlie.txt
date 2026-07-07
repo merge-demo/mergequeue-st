@@ -7168,7 +7168,7 @@ centrer 1
 closely 1
 chol 1
 chatterbox
-centrev
+centrev 1
 containedly
 centric
 centricae 2
@@ -26068,7 +26068,7 @@ cupreine 1
 coshery
 coshers 2
 cholralosed 1
-coshes
+coshes 1
 coshing 1
 cosy
 caulicule
