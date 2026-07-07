@@ -498,7 +498,7 @@ dismantler 1
 dalle
 deices
 diamylene
-desmotropic
+desmotropic 1
 dividing
 dalliances 1
 discomforter
@@ -8631,7 +8631,7 @@ diarthric
 dorsocervical 1
 diarticular 1
 dimeter
-dias 1
+dias 2
 depertible 1
 dermatographia
 downstream 2
@@ -17875,7 +17875,7 @@ drawlatch 1
 ductwork 1
 drosky 1
 duculinae
-dictyosome
+dictyosome 1
 denotate
 decurve
 dermoblast
