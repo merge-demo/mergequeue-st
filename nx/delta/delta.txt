@@ -2473,7 +2473,7 @@ decivilize
 dateline 1
 deckel
 deporte 2
-ditchdown
+ditchdown 1
 dirigent 1
 deckhand
 duckwing 1
@@ -16205,7 +16205,7 @@ defats 1
 doweress 1
 dingeys 1
 dunches 4
-dent
+dent 1
 dehydroffroze 1
 dioestrous
 dowery 1
