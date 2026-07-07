@@ -5948,7 +5948,7 @@ floodgates 1
 fiercest
 foolhardily 1
 falseface 2
-freer
+freer 1
 fraudlessness 3
 freehand 1
 feretories 1
@@ -6221,7 +6221,7 @@ fulgural
 flightily 1
 fairgrounds 1
 forlana
-foreshortens
+foreshortens 1
 fatlings 1
 freyja 3
 floccules
@@ -6842,7 +6842,7 @@ fabled 2
 furomonazole 1
 foliary 2
 frescoers
-format 2
+format 3
 favoringly 4
 foliate
 favourableness
