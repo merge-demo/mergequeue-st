@@ -4257,7 +4257,7 @@ fatless 1
 flail 1
 flyaways 1
 fireward 1
-forehead
+forehead 1
 focalising 1
 firewater 1
 fictionisation 4
@@ -5331,7 +5331,7 @@ flightworthy 3
 fldxt 1
 frower 2
 featherweight 1
-flayflint 1
+flayflint 2
 fleabag
 fusillade
 faintheart 1
@@ -5401,7 +5401,7 @@ friending
 frigefact 1
 futurity 2
 fleabiting 1
-fledgeling
+fledgeling 1
 fiendhead 1
 formidably 1
 foxfinger 5
@@ -6977,7 +6977,7 @@ frizzler
 fedayeen 3
 flexographically
 faintling 3
-faineance
+faineance 1
 flay 1
 festucous 1
 fetishization 2
@@ -8099,7 +8099,7 @@ fascistically 1
 freezes 1
 forepost 2
 fessing 1
-falbala
+falbala 1
 funic 2
 forestral 3
 forestries
@@ -8228,7 +8228,7 @@ ferruginating 1
 frenate 4
 furtherances
 foothils 2
-frailest 1
+frailest 2
 flakier 1
 forewritten 1
 fundamentals
@@ -9322,13 +9322,13 @@ forename 1
 footmenfootpad
 fungologist 1
 fumarine 1
-foldwards 1
+foldwards 2
 fasinite
 fogrum
 foldboats
 fistulization
 filthiest
-frances 1
+frances 2
 figurants 3
 ferreiro 1
 fanning 3
@@ -10031,7 +10031,7 @@ frigotherapy 4
 facial
 fibrosities 4
 fencings 2
-fliest 1
+fliest 2
 fairness 2
 footprint 1
 footpaths 1
@@ -11078,7 +11078,7 @@ fellatrices 1
 fangless 3
 flycatcher 1
 frictionizing 3
-funambulatory 2
+funambulatory 3
 fedia
 flamenship 3
 frontality

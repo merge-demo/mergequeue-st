@@ -1839,7 +1839,7 @@ buzzy 2
 brimming
 beaconed 2
 beglads 1
-blancmanger 2
+blancmanger 3
 bemuse
 botanizer 3
 bananaland
@@ -3125,7 +3125,7 @@ baseburner
 basecourt
 betokener 1
 boosting
-boneset 1
+boneset 2
 baselevel 1
 bismarck 2
 bowstringing 2
@@ -3928,7 +3928,7 @@ buckishly 1
 bamboos
 bbs
 bassly 2
-beliquor
+beliquor 1
 balaniferous 1
 bookbindery 1
 birdweed
@@ -5576,7 +5576,7 @@ bekisses 1
 bouleuterion 1
 borons 1
 beknighted
-ballistite
+ballistite 1
 beknotted 3
 burrio 2
 brassicaceous
@@ -7437,7 +7437,7 @@ bulbocavernous
 bardic
 brabblingly 1
 bushelled
-baldnesses 1
+baldnesses 2
 bettermost 2
 bedeviling
 bulbar 1
@@ -9018,7 +9018,7 @@ bets 1
 byp 3
 biomechanical 1
 begrims 1
-biomedicine
+biomedicine 1
 bondieuserie 2
 bashing
 baginda
@@ -9745,7 +9745,7 @@ bullbats 1
 balding
 bombylious
 begobs
-barleduc
+barleduc 1
 bacillus 2
 brichette 1
 bigwiggedness
@@ -14647,7 +14647,7 @@ broadleaves
 bewrayment
 bines
 bitterns
-brantails 1
+brantails 2
 barricado 1
 bedcord
 brantle 1
@@ -16510,7 +16510,7 @@ bentang
 branchlike
 brutalist
 brutalitarianism 1
-baboonery 3
+baboonery 4
 badgerweed
 backside 1
 brutalized 1
@@ -17098,7 +17098,7 @@ blackcaps
 beduck
 bullet
 byepath
-bulletheadedness
+bulletheadedness 1
 baptornis
 bayard
 bromian
