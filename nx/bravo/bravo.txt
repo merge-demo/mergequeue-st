@@ -356,7 +356,7 @@ basseting
 benighter 2
 backfires
 brontolite 1
-boled 1
+boled 2
 brume
 bradypepsy
 backfiring 2
@@ -735,7 +735,7 @@ brakeless 1
 brokeress
 binful
 beautihood 1
-bransles 1
+bransles 2
 berrendo 1
 breeches
 bespangle
@@ -1278,7 +1278,7 @@ birdberry 1
 balan 3
 backplanes
 bedstead
-behindhand 1
+behindhand 2
 bardie 1
 balanceable
 bafflements 2
@@ -5786,7 +5786,7 @@ bookit 2
 bigthatch
 ballaster
 belton 1
-bountihead 1
+bountihead 2
 bellevue 3
 bonhommie 1
 begreen 2
@@ -7992,7 +7992,7 @@ bibliopolism
 bedlight
 berhyming
 bichloride 1
-borazons
+borazons 1
 bioxalate 1
 bichos 1
 bichromatize 1
@@ -10927,7 +10927,7 @@ bookful 1
 blindstories 1
 benzoin 1
 brede 1
-blindweed
+blindweed 1
 blindworm
 backscratcher 1
 blackamoor 2
@@ -12225,7 +12225,7 @@ blizzardly
 bolo 1
 bicron 1
 bogberries
-baloo
+baloo 1
 bicarbide
 buckhound
 balustered
@@ -12308,7 +12308,7 @@ barcaroles
 bombace
 behang
 bombardiers 1
-bisulphite 1
+bisulphite 2
 bombarding
 benzyl 1
 bombardman 1
@@ -13089,7 +13089,7 @@ borel 1
 borers 2
 barajillo 2
 bangling 1
-bort
+bort 1
 brewers
 bowlmaker 2
 branders
@@ -13281,7 +13281,7 @@ bosthoon 1
 banderillas
 bipont
 branchstand
-barman
+barman 1
 bludge 1
 bargello 2
 balawu
@@ -17859,7 +17859,7 @@ brizz
 busbars
 barotse
 bibliopegic 2
-biscanism
+biscanism 1
 bicultural
 bused 1
 brisks
