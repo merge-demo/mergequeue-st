@@ -5089,7 +5089,7 @@ exilic
 elegibility 1
 eigh 1
 eumerogenetic 2
-enteroparalysis 1
+enteroparalysis 2
 effluviate 3
 encryptions 2
 expression
@@ -6237,7 +6237,7 @@ enrapts 1
 ethynyl 1
 evestar
 experimentative 1
-elemong
+elemong 1
 executors
 enomotarch
 electrized 1
@@ -7084,7 +7084,7 @@ epicyesis 1
 eild 3
 exclusions 1
 estanciero 3
-eudaemonism
+eudaemonism 1
 endocolitis 1
 enneagonal 1
 engrossed
@@ -8181,7 +8181,7 @@ elydoric 3
 exaltee
 epistases
 epistasies
-energy
+energy 1
 enhancers
 enrapturedly 1
 estreating
@@ -13817,7 +13817,7 @@ extolls 1
 eskimos 1
 extorters 1
 extortion
-embroiling 1
+embroiling 2
 endopterygotism 1
 earthliness 2
 excesses 4
