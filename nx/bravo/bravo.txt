@@ -1118,7 +1118,7 @@ bastiles
 bairn 2
 bypassed
 bransolder
-bromius 1
+bromius 2
 barless 2
 baseless 1
 bryophyte 1
@@ -4789,7 +4789,7 @@ burking
 barrener
 brecciating 1
 blighia 1
-bracker
+bracker 1
 brachylogy 1
 bedriveling
 belledom 1
@@ -4877,7 +4877,7 @@ baffing
 beduncing
 bagobo
 bratling 1
-bewrapped
+bewrapped 1
 badmouths
 bifariously
 beekite
@@ -8944,7 +8944,7 @@ bioengineering
 basidiomycetes 1
 bioethic
 beancod
-beaverpelt 1
+beaverpelt 2
 bromyrite
 bioethics 1
 belltopperdom
@@ -11544,7 +11544,7 @@ bdellid
 blameworthiness 1
 boswellism
 blunket 1
-brutalism 1
+brutalism 2
 blunnen
 blunt
 barristress 1
@@ -12966,7 +12966,7 @@ breviloquence 2
 boleros
 berthold 1
 boardinghouses
-bootman 1
+bootman 2
 boots
 bottoms
 bephilter 1
@@ -13200,7 +13200,7 @@ brigue
 bisext 2
 brachystomata
 bender
-begemmed 2
+begemmed 3
 boschveld
 bemourn 2
 boulevardize 2
@@ -13665,7 +13665,7 @@ bouquetiere 1
 bladder
 blab
 baud
-babery
+babery 1
 bande
 binocs 1
 blendcorn
@@ -17341,7 +17341,7 @@ buphthalmum
 brontotherium 1
 boxier 2
 babes 2
-benzanthrone
+benzanthrone 1
 bilimbi 2
 birdseed 1
 bargained
