@@ -11380,7 +11380,7 @@ amphibian
 autoclasis 2
 attaste
 antipeptone
-anticodon
+anticodon 1
 alloquy
 aspersor
 anticreeper 1
@@ -11852,7 +11852,7 @@ amphophilic
 acrobat 1
 alamanni 2
 antinational 1
-antiatonement 1
+antiatonement 2
 animalisation 1
 arecolin
 analytique 3
