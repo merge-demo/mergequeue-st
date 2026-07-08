@@ -14595,7 +14595,7 @@ cystocarcinoma 1
 cystocele 1
 cystocolostomy
 chon
-cystodynia 1
+cystodynia 2
 cystoelytroplasty
 chromene
 carpophaga
@@ -16920,7 +16920,7 @@ canavalin 1
 clumpst
 clumse
 clumsy
-cloyer
+cloyer 1
 clumsiest
 clumsily
 coenosteal
@@ -29982,7 +29982,7 @@ cajoler
 crotal
 crotalic 1
 completely 1
-campylotropous
+campylotropous 1
 crotalidae
 crotaliform
 crotalin 1
