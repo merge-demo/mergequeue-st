@@ -606,7 +606,7 @@ falsifier 1
 frogmouths 1
 foveolet 3
 floaty 2
-falsifying 1
+falsifying 2
 falunian 2
 fertilisation 4
 fauster 3
@@ -683,7 +683,7 @@ farmstead 3
 forenotion
 ferromagnetic
 futilitarianism 4
-forebow 3
+forebow 4
 fascioloid
 feminity
 farcial 2
@@ -1022,7 +1022,7 @@ floricomous 1
 forensal 1
 fringillidae 4
 foraging 3
-fogas 1
+fogas 2
 faro 1
 fluoridization 3
 fluorogen 4
@@ -1543,7 +1543,7 @@ favelidium 2
 fourteenth
 funning
 froufrous
-fortyfold
+fortyfold 1
 flights
 farcelike 1
 frisca 2
@@ -1894,7 +1894,7 @@ flamboyantize 1
 freshwoman 1
 faradizing 1
 frs 1
-fraidycat 1
+fraidycat 2
 flybrush 2
 fingerflower
 fumbling 3
@@ -3696,7 +3696,7 @@ featherers 5
 feodal
 frousiest 2
 facebread 2
-footcandles 1
+footcandles 2
 fillies
 families 1
 firedogs 3
@@ -4853,7 +4853,7 @@ fickleness 2
 flagstick 2
 flagworm 1
 fandangle 2
-fissirostrate 1
+fissirostrate 2
 feramorz 1
 fittedness 2
 florida
@@ -5749,7 +5749,7 @@ fractuosity 1
 fels 3
 fins 2
 figureheadless
-fisher
+fisher 1
 fmt 1
 foredeserved 1
 fecket 2
@@ -6064,7 +6064,7 @@ fungiform
 fenceful 2
 freebooted 1
 fraternate 1
-featness 2
+featness 3
 flocculating 3
 frayn 1
 feezing 1
@@ -6257,7 +6257,7 @@ fedoras 3
 fustigation 3
 fearing
 febronianism 2
-fanteague 2
+fanteague 3
 flota
 fadingly 1
 fouettee 1
@@ -6309,7 +6309,7 @@ flumes 1
 fluminous 1
 freak 1
 flummer
-farfels 4
+farfels 5
 flickerproof 1
 fade
 funori 1
@@ -7137,7 +7137,7 @@ footboy 2
 fossette 2
 floodgate 2
 fairling 1
-failed
+failed 1
 fumarolic 1
 fruggin 2
 frostlike
@@ -8433,7 +8433,7 @@ floppy 3
 felling 1
 forcipes 2
 filigrees 1
-framboise
+framboise 1
 familist 1
 fornications 1
 fightings
@@ -8443,7 +8443,7 @@ funaria 1
 fiberfill
 futhorcs 3
 flyflapper
-fellfare 1
+fellfare 2
 foreking 2
 fictively 2
 fuseboard 2
@@ -9305,7 +9305,7 @@ foresentence 1
 fetishist 1
 fleuret 1
 fourchet 2
-friesic 1
+friesic 2
 flb 2
 fayalites 2
 freckling 2
@@ -10024,7 +10024,7 @@ feloniousness 2
 frigoric 2
 foun 1
 futureless
-fibroid 4
+fibroid 5
 feracity
 firelike
 frigotherapy 4
@@ -11558,7 +11558,7 @@ fledgy 1
 folio 3
 fretfully
 ferociousness
-fungals 1
+fungals 2
 footlessly 1
 fusil 1
 frictionized
@@ -11660,7 +11660,7 @@ fanion 1
 filoselle 3
 foretalking
 forcingly 2
-farasula 1
+farasula 2
 fut 1
 futhorc 1
 fillowite
