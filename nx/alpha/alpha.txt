@@ -2363,7 +2363,7 @@ acidometer
 arioi 1
 afflation
 anacardium 1
-acidometry 1
+acidometry 2
 asmear 1
 annelidan
 anacamptically
@@ -12625,7 +12625,7 @@ algae
 amorists
 anepithymia
 awnlike
-ardennite
+ardennite 1
 antidoron
 appenditious 2
 aligns
