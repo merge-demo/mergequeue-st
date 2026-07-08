@@ -4835,7 +4835,7 @@ electrocatalysis
 ebulliometer 1
 exoperidium 1
 endoderm 1
-enculturation 1
+enculturation 2
 ergatandromorph 2
 epispastic 1
 extrapolates
@@ -5457,7 +5457,7 @@ enervating 1
 emotion 1
 encake 1
 electroscope 2
-elritch
+elritch 1
 ectocarpic 1
 excitate 2
 equiformity
