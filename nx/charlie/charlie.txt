@@ -658,7 +658,7 @@ cottage
 caesarian
 caesarist
 cosufferer
-congruently 1
+congruently 2
 caesaropapist
 caesarotomy
 choice 1
@@ -946,7 +946,7 @@ cornices
 collared
 colpotomy
 calorically
-canterburies
+canterburies 1
 calaboose 2
 cycloidei 1
 canelle
@@ -2635,7 +2635,7 @@ canephora
 canephorae 1
 canephore
 cymaphytism
-canephori
+canephori 1
 canephoroi 1
 canepin 1
 cooser
@@ -4640,7 +4640,7 @@ carditic
 caoba 1
 caroller
 carols 1
-carolus 1
+carolus 2
 chemicocautery 1
 carom 1
 clubbily
@@ -5716,7 +5716,7 @@ catatony 1
 catatonic 1
 currant 1
 coeloglossum
-countersignal
+countersignal 1
 catawampous 1
 catawamptiously
 cenogenetically
@@ -8642,7 +8642,7 @@ chanteur 1
 chanteuse
 cisrhenane
 chanticleer
-chanticleers 1
+chanticleers 2
 chantier 1
 curiousness
 capreomycin
@@ -13922,7 +13922,7 @@ cynoid
 contributiveness
 casusistry
 calliopes 1
-calombigas
+calombigas 1
 calvous
 criminalities
 cynomys 1
@@ -16460,7 +16460,7 @@ crewer
 clockwatcher
 cingulum
 clockwise
-clockworked
+clockworked 1
 clavigerous
 carthamin
 corbeled
@@ -17420,7 +17420,7 @@ corbeil 1
 cotters 1
 cobalamin
 comb
-cobalt
+cobalt 1
 cobaltamine
 complanation 2
 candidate
@@ -19609,7 +19609,7 @@ carolled
 civilly
 caschrom
 columniation
-caballing
+caballing 1
 columniferous 1
 crackback
 cytological
@@ -20680,7 +20680,7 @@ carty 1
 complementariness
 complemented
 ciminite 1
-calc
+calc 1
 carotin
 complementer
 cooniest
@@ -20983,7 +20983,7 @@ cadilesker 2
 compromisers
 compromising 1
 compromisingly
-colonoscopy
+colonoscopy 1
 compromission 1
 codiaceae 1
 compromit
@@ -21379,7 +21379,7 @@ callidness 2
 concionator
 coydog 1
 concionatory
-cothurni
+cothurni 1
 combfishes 1
 conciseness
 clocks 1
@@ -21990,7 +21990,7 @@ confiners 1
 confines
 confinity 1
 chivying
-californicus 1
+californicus 2
 clitoromaniac
 croak
 corelative 2
@@ -22216,7 +22216,7 @@ chigger
 campanularian
 choicer
 cloxacillin
-collarman
+collarman 1
 clunker
 congeed
 cleuch 1
@@ -24951,7 +24951,7 @@ cocaigne 1
 caulophyllum
 corantoes
 centesimi 1
-chan 1
+chan 2
 crowbill
 capitaling
 clemclemalats 1
@@ -27402,7 +27402,7 @@ courty
 coldbloodedness
 chickweed 2
 courtyards
-coonroot
+coonroot 1
 closter
 courtierly 1
 chuck
@@ -27557,7 +27557,7 @@ coverchief 3
 cannulated 1
 cerberean 2
 climatotherapeutics 1
-covercle
+covercle 1
 coprolalia
 carangidae
 covered
@@ -28195,7 +28195,7 @@ corpulent 1
 cobblerfish
 caesar
 crannel
-crannequin
+crannequin 1
 crannia
 colliquefaction 1
 crannied
@@ -29129,7 +29129,7 @@ clubbism
 crinoidea
 cachexy
 casper
-chicagoan
+chicagoan 1
 crinoidean
 crinoids
 cuadrillero
@@ -30032,7 +30032,7 @@ crouchant
 chilognathan 1
 collare 1
 crouchback 1
-crouched 1
+crouched 2
 crouchie 1
 cahnite
 cacothesis 1
@@ -30054,7 +30054,7 @@ challengeable 1
 casualties
 cinchonate 1
 counterparts 1
-cognising
+cognising 1
 croupiers
 croupiest
 croupiness
@@ -30166,7 +30166,7 @@ canonise 1
 crucial
 contraceptionist 1
 cruciality
-crucially 2
+crucially 3
 crucian
 chokidar
 crucians
@@ -30279,7 +30279,7 @@ crumhorn
 caingin
 crummer
 celiotomies
-crummy
+crummy 1
 crummier
 coppaelite
 crummiest
