@@ -781,7 +781,7 @@ caginess
 caginesses
 caesalpiniaceae 1
 cagit 1
-cagot 1
+cagot 2
 consensual
 cagoule
 cahenslyism
@@ -7979,7 +7979,7 @@ cachets
 coinstantaneity
 chackled
 chackler
-chacma
+chacma 1
 chacmas
 calfs
 chacona 1
@@ -10371,7 +10371,7 @@ complicant 1
 cervalet
 chiefish
 chieftain 2
-chieftaincy 1
+chieftaincy 2
 chieftainry 1
 complexify
 chalcosiderite 1
@@ -14787,7 +14787,7 @@ cytoblast
 cytoblastema
 cytoblastemal
 caseless
-conjecturableness 1
+conjecturableness 2
 cytoblastemic
 cytoblastemous
 cytochemistry
@@ -16526,7 +16526,7 @@ cloyedness
 chloralization
 cloyingly 1
 cysteinic
-complexions 3
+complexions 4
 centralized
 cloyless 2
 cloyment
@@ -18307,7 +18307,7 @@ caesaropapism
 cofounds 1
 cofreighter
 countertree 1
-cretification
+cretification 1
 constatation 2
 cestode
 cogencies
@@ -19902,7 +19902,7 @@ comicography
 contraremonstrant
 cyclecar 1
 charadriiform
-comicotragical 1
+comicotragical 2
 comicry 2
 credibility
 costumier
@@ -24657,7 +24657,7 @@ clamshell
 calliperer
 coplanarities
 cavern
-cozinesses
+cozinesses 1
 copleased 1
 coplot 1
 comoquer
@@ -27662,7 +27662,7 @@ comfily
 cowed 1
 crepuscular 1
 cowered
-cowerers 1
+cowerers 2
 camerlingo
 coweringly
 cowers
@@ -27887,7 +27887,7 @@ craber 1
 crablet 1
 crablike
 chromidial 2
-crabman
+crabman 1
 crabs
 crabstick 1
 comeatable
@@ -29220,7 +29220,7 @@ characid
 crippleness 1
 crippler
 cripples 2
-creaser 1
+creaser 2
 capillarity 1
 cystomatous 1
 crippling
