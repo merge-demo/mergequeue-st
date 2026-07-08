@@ -5166,7 +5166,7 @@ befoulment
 biacuminate 1
 befraught 1
 befountained
-borosilicic 3
+borosilicic 4
 baddish
 baguette 1
 burbank 1
@@ -6650,7 +6650,7 @@ beerier 1
 berycid
 busyhead 1
 bovld
-berycidae
+berycidae 1
 biguanide
 bituberculate 1
 blusht
@@ -12495,7 +12495,7 @@ breaden 1
 betaines
 brawniness 2
 burntness
-bather
+bather 1
 bagpiped 3
 bone
 bejaundice
