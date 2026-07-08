@@ -1048,7 +1048,7 @@ bailable
 baile 1
 bezazz
 betanaphthol 1
-basqued 1
+basqued 2
 blizzards
 bad
 bailers 1
@@ -1669,7 +1669,7 @@ barrowist
 bardesanism
 balusters 1
 beclose
-barrulety
+barrulety 1
 bloodfin
 braidism 1
 bolshies
@@ -4113,7 +4113,7 @@ boyishness
 biassing 2
 ballistics 1
 boagane 1
-baroclinicity
+baroclinicity 1
 blamableness
 bicompact
 brachiopode
@@ -8717,7 +8717,7 @@ broomsquire 1
 buffe 1
 bozine 1
 burds
-beliquored
+beliquored 1
 brachiolaria
 balladlike 1
 barrett
@@ -10987,7 +10987,7 @@ bothnian 1
 buoyage 1
 backseats 1
 bossiest
-bkgd
+bkgd 1
 biddery
 benzotriazine
 boffolas 1
@@ -11222,7 +11222,7 @@ bitterheartedness
 beheadal 1
 blossomless 1
 blotch 1
-banal
+banal 1
 banco 2
 beestride
 bandhava
@@ -11676,7 +11676,7 @@ biracialism 2
 buddies 1
 borneol 1
 brandying
-blindfast
+blindfast 1
 boomless 1
 bloviated 1
 bdellatomy
@@ -12578,7 +12578,7 @@ barndoor 1
 bemocks
 bardane 2
 bonk
-boterol 1
+boterol 2
 begrudging
 brackets 2
 bagpiping
@@ -14027,7 +14027,7 @@ bemouth 3
 buy
 bracelet
 bracer
-barrelfuls 1
+barrelfuls 2
 backbenchers 2
 boarishly 1
 bracery
@@ -14078,7 +14078,7 @@ boc 1
 baylet 2
 bionomics
 boding 1
-binzuru
+binzuru 1
 brachydomatic 1
 brevetcies 1
 biomechanics
@@ -14741,7 +14741,7 @@ brattice
 bratticing 2
 bunds 1
 beggarweed 1
-boundlessly 2
+boundlessly 3
 bastinadoed
 bescorching 3
 brattie
@@ -14769,7 +14769,7 @@ baluchistan
 bowdlerize
 brauronian 1
 bocaccio 1
-bronchophthisis 4
+bronchophthisis 5
 blastostyle 1
 bennet 2
 brazened 2
@@ -14921,7 +14921,7 @@ bovicide 1
 breaklist 2
 blandishes
 buttercup 1
-belis
+belis 1
 bostonians
 breakoff 1
 byssolite 1
@@ -16543,7 +16543,7 @@ bruteness
 brutify 1
 bathorse
 bargeese
-barbarianize
+barbarianize 1
 brownish 1
 biflorate
 backbiters
@@ -16562,7 +16562,7 @@ bruzz 2
 bsf 1
 burghalpenny 1
 becurse 1
-bedsit 1
+bedsit 2
 blepharophthalmia 2
 bocasine
 backpointers 1
@@ -17384,7 +17384,7 @@ brachistochronic
 beignets
 bottles 2
 bejeled 1
-bungling
+bungling 1
 bullit 1
 bungos
 bamboozler 2
@@ -17457,7 +17457,7 @@ brickleness
 bacteroid 1
 bunoselenodont
 brulots
-boomage
+boomage 1
 bareboned 1
 bruskest 1
 bunter
