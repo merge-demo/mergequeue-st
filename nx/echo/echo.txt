@@ -3385,7 +3385,7 @@ electrotechnics 2
 embarge
 espier 1
 enteropneustal 2
-estimator 1
+estimator 2
 equivocally
 ebullate 2
 exacters 1
@@ -3748,7 +3748,7 @@ exocannibalism 2
 endoceratite 1
 eyeglasses 1
 ejulate 1
-embrowning
+embrowning 1
 embrues 1
 ennuied 2
 executive
@@ -13343,7 +13343,7 @@ exorcisms 1
 enolization 1
 explosiveness 1
 equipt
-electromyograph 3
+electromyograph 4
 elusively 1
 epilogist 1
 eyepoints 1
