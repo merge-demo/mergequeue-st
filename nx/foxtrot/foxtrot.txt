@@ -1033,7 +1033,7 @@ fiberboard
 fids
 filazer 1
 ferriages 1
-frontons 1
+frontons 2
 farrage 1
 ferroelectricity 2
 fleawort 1
@@ -2237,7 +2237,7 @@ forhale
 filthified
 flesher 1
 feticidal 6
-forgetting
+forgetting 1
 fracture
 filtrated
 fec 1
@@ -7238,7 +7238,7 @@ fiver
 foreground
 footpad 1
 farfetchedness 1
-fatidically
+fatidically 1
 favellidia 1
 feodary 3
 flaxboard
