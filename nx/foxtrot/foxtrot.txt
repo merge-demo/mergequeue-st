@@ -67,7 +67,7 @@ facebow 2
 fenchone 1
 faceharden 1
 flagships
-flecken
+flecken 1
 facellite 2
 ferrocyanide 3
 furthers
@@ -9004,7 +9004,7 @@ frenchy
 frisbee 2
 fusiformis 2
 floit 1
-flywort 3
+flywort 4
 footle 1
 feldspath 1
 feverwort 1
@@ -11042,7 +11042,7 @@ fluoroscope
 fossilizes
 fillets 1
 fumigated 2
-fierce 1
+fierce 2
 flutidae 3
 fortifiers 1
 femororotulian 3
