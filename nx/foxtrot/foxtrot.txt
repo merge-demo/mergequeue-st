@@ -708,7 +708,7 @@ famp 1
 famuli 1
 frustrater 1
 fana 2
-feoffment
+feoffment 1
 fluxion 2
 feministics 1
 flavius 4
@@ -819,7 +819,7 @@ felichthys
 fingermark 1
 funereally 2
 fashioner
-finestill
+finestill 1
 freckened 1
 freedoot 2
 forebows 4
@@ -8064,7 +8064,7 @@ felsites 1
 ferroalloy 2
 faunally 1
 fanfoot 1
-fieldie 1
+fieldie 2
 favoured 1
 fredricite
 forestation
@@ -9300,7 +9300,7 @@ frontispieced 2
 fraktur
 fasciolet
 fresnel 1
-flavoury 4
+flavoury 5
 foresentence 1
 fetishist 1
 fleuret 1
@@ -11727,7 +11727,7 @@ fratority 1
 futurologist 1
 fiddler 1
 fluorinations
-feezes 1
+feezes 2
 funebrous 1
 futurologists
 filibustered 2
