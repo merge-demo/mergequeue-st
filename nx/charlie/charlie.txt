@@ -5005,7 +5005,7 @@ cassettes
 cartouche
 curmudgeon
 cust
-costrel
+costrel 1
 chiclero 1
 canalman
 cryptovolcanic
