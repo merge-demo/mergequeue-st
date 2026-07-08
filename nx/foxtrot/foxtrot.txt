@@ -5749,7 +5749,7 @@ fractuosity 1
 fels 3
 fins 2
 figureheadless
-fisher
+fisher 1
 fmt 1
 foredeserved 1
 fecket 2
@@ -6679,7 +6679,7 @@ fortifier 2
 faqirs 1
 feted 1
 flyblow 2
-flores 3
+flores 4
 fogdogs 1
 fortnightly 1
 frippery 1
