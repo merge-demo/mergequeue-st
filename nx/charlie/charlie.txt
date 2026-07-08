@@ -3506,7 +3506,7 @@ capernaitish
 capsomere
 capsomers 1
 capstan
-capstans
+capstans 1
 capstone 1
 capsula
 cons
@@ -4983,7 +4983,7 @@ clicket 1
 cartmaking 1
 cartobibliography
 columbia
-cartogram
+cartogram 1
 comminate
 cartography 1
 cypseli
@@ -10871,7 +10871,7 @@ counterlighting 1
 cobishop 1
 cometic
 chloralose
-canzoni 1
+canzoni 2
 chippie
 chippier
 chippies 1
@@ -13531,7 +13531,7 @@ cylindromatous
 crosswords 1
 cylindrometric
 carceration
-confineable
+confineable 1
 consignees
 cobbier
 cardioclasia
@@ -28452,7 +28452,7 @@ countertenors 1
 chromotypic
 creaseless
 creasers 1
-creases 1
+creases 2
 creashaks
 chevachie
 creasier 1
