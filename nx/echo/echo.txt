@@ -295,7 +295,7 @@ enterolobium 1
 enantiosis 3
 endark 1
 espousage
-extensible 1
+extensible 2
 exserting 1
 extortionate 3
 expedient 1
@@ -3093,7 +3093,7 @@ ellipticity 1
 evergreen
 extemporize
 elliptograph 1
-elliptoid
+elliptoid 1
 encrease 2
 extraparietal 1
 elm 1
@@ -7040,7 +7040,7 @@ estivage
 emulsible 2
 estuous 2
 edicule 1
-equiprobability 1
+equiprobability 2
 electrophoric 1
 earnest
 enchainments
@@ -8631,7 +8631,7 @@ etherialised 1
 entoperipheral
 equinate 1
 enameller 1
-emerging 1
+emerging 2
 excretions
 equinumerally 1
 equinus
