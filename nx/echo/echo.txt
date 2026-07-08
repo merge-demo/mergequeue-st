@@ -279,7 +279,7 @@ emir 1
 enwwoven 2
 essoin 1
 ecotopic 2
-eponymy 1
+eponymy 2
 exorcizes 2
 exteriority
 elderly 2
@@ -846,7 +846,7 @@ extensity 2
 eriglossate 1
 eudemonism 4
 epiderms
-emraud
+emraud 1
 englobement 1
 eddic 2
 epistolizer 1
@@ -5509,7 +5509,7 @@ episcopality
 ecphrasis
 endoergic 1
 enfevering
-emitters 1
+emitters 2
 edwardeanism 1
 enzootic
 epicardial
@@ -8284,7 +8284,7 @@ elev
 endured 1
 enchannel
 exercised 1
-emulating 1
+emulating 2
 eagling
 epitheme 3
 effierce
