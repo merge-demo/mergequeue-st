@@ -3848,7 +3848,7 @@ dressages
 dismast
 discastle 1
 dictature 1
-dissect 2
+dissect 3
 disp
 dyscrasite
 deerdog
@@ -4018,7 +4018,7 @@ delicately 3
 dermatomycosis
 denier 1
 darknesses 1
-domicil 1
+domicil 2
 dismissible
 delicatessen 1
 dynam
@@ -7190,7 +7190,7 @@ detachedness 3
 dashingly
 disguised
 deveined
-detaching
+detaching 1
 denarcotization
 diaphorase
 diemaking 1
