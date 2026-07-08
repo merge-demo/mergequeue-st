@@ -1010,7 +1010,7 @@ dithematic
 darius 2
 doubleprecision 1
 dallies
-dark
+dark 1
 dinkeys
 darked 2
 diamine 1
@@ -7349,7 +7349,7 @@ detersiveness 1
 disunions 1
 detestation 1
 detestations 1
-dethronement 2
+dethronement 3
 diminute
 dethronements
 dethrones 1
@@ -8838,7 +8838,7 @@ dibenzopyrrole
 disproportionates 1
 digressing
 dixit 1
-debilissima 2
+debilissima 3
 dibhole
 diadochian 2
 dioptry 2
@@ -13226,7 +13226,7 @@ ducat
 determinator
 draftman 3
 desexualization 2
-diapensiaceae 1
+diapensiaceae 2
 dorsocephalad 1
 disconcertment 1
 disablement
