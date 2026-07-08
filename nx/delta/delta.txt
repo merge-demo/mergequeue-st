@@ -2540,7 +2540,7 @@ dwined
 declasses 2
 dorn
 disjudication
-declass
+declass 1
 dimorphs
 dweller 1
 declassification 1
@@ -12297,7 +12297,7 @@ dragonne 1
 disgustfulness 2
 disgustingly 1
 dealated 1
-dishabilitate
+dishabilitate 1
 dishabille
 devilish
 dinomic
