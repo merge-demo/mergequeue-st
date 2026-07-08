@@ -1604,7 +1604,7 @@ erizo
 epiblastic
 egressed
 egresses
-exequial
+exequial 1
 extraphysiological 2
 eclegma 2
 expounded 2
@@ -2818,7 +2818,7 @@ epiclesis
 eleoptene 1
 embden
 ensiled 1
-endomastoiditis
+endomastoiditis 1
 erratuta 2
 expone 1
 elan 1
@@ -3250,7 +3250,7 @@ esthesiometric
 enzymatically
 estocada 2
 essonites 1
-epigon 1
+epigon 2
 embryoscope
 encamping 1
 eugranitic
@@ -3961,7 +3961,7 @@ epitases 2
 empaistic
 exilarch 1
 embroglio
-empale
+empale 1
 empalers 1
 eyepit
 empall
@@ -3977,7 +3977,7 @@ enruin 3
 electroplates 3
 expiations
 embarrassingly 1
-edictum
+edictum 1
 enfolded 2
 egalite
 extramodal 1
@@ -4531,7 +4531,7 @@ enlightened
 exploited
 englante 2
 exition
-enteromegaly
+enteromegaly 1
 expel 1
 expatiations
 endpleasure
@@ -4835,7 +4835,7 @@ electrocatalysis
 ebulliometer 1
 exoperidium 1
 endoderm 1
-enculturation 1
+enculturation 2
 ergatandromorph 2
 epispastic 1
 extrapolates
@@ -6243,7 +6243,7 @@ enomotarch
 electrized 1
 epicyte
 eradiating
-educate 1
+educate 2
 epigaster 1
 ethanes
 enrich 2
@@ -6588,7 +6588,7 @@ enantiomeric
 encraty 1
 elephantlike
 enzymologies 2
-enterohydrocele 1
+enterohydrocele 2
 elevation 2
 erythroneocytosis
 embryoctonic 1
@@ -7379,7 +7379,7 @@ excepts 2
 elenctic 3
 escapers 2
 entanglement
-ebulliate 2
+ebulliate 3
 endogenously 1
 egence 2
 extraperiodic 2
@@ -8182,7 +8182,7 @@ exaltee
 epistases
 epistasies
 energy 1
-enhancers
+enhancers 1
 enrapturedly 1
 estreating
 electromagnetist 5
@@ -8898,7 +8898,7 @@ erses
 ensnarer 2
 equiangle
 egestive 2
-essive 4
+essive 5
 epiphanies 1
 errhine 1
 eudaemonist
@@ -12878,7 +12878,7 @@ erythremomelalgia
 equity 2
 episcopal
 exoticness 1
-epicoelian 2
+epicoelian 3
 enantioses
 ensile 1
 exotics 1
@@ -13511,7 +13511,7 @@ ergophobic
 exquire 4
 exsolution
 erbia
-epithalamium
+epithalamium 1
 ethnomusicology 2
 enterparlance 1
 european
@@ -14091,7 +14091,7 @@ ebonize 1
 explicits
 entwinement
 extremeless 2
-etymography
+etymography 1
 extremeness 2
 enmist
 effeminate 1
@@ -14101,7 +14101,7 @@ evolutionistically
 episternum
 evils
 eliasite 1
-epimerised 1
+epimerised 2
 exterminable 2
 exhaustless
 excubittoria 1
