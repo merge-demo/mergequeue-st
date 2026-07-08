@@ -4082,7 +4082,7 @@ beams
 bean 1
 boldness
 begottenness
-bedeafen
+bedeafen 1
 beaner
 bolewort
 beanfield
@@ -10025,7 +10025,7 @@ bossism
 bivocalized
 buffos 1
 bivouaced 1
-bivouacked
+bivouacked 1
 balaphon
 becharms
 bodes 1
