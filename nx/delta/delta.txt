@@ -2477,7 +2477,7 @@ ditchdown 1
 dirigent 1
 deckhand
 duckwing 1
-deckle 2
+deckle 3
 dulls
 drumlin
 discal
@@ -11313,7 +11313,7 @@ dispirited 1
 dilacerating 3
 dowhacky
 devoter
-dilatometric
+dilatometric 1
 dehydrogenise 1
 decorement 1
 delimiter 2
@@ -15712,7 +15712,7 @@ disintegrates
 dewools 1
 disbuds 1
 deciduary
-doris
+doris 1
 diaxonic 1
 disyntheme
 dater 2
@@ -18290,7 +18290,7 @@ dippy
 deuterogamist
 draffs
 discordia 1
-divot
+divot 1
 dorsimedian 2
 dunitic
 disputant
