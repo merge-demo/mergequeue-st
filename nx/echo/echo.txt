@@ -4143,7 +4143,7 @@ enslumber 1
 expungement 1
 erythrodermia 1
 externum 4
-encl
+encl 1
 encaustes
 exporter
 elaeosia
@@ -7037,7 +7037,7 @@ ectocinereal 2
 epapophysial 1
 evejar 2
 estivage
-emulsible 1
+emulsible 2
 estuous 2
 edicule 1
 equiprobability 1
@@ -7144,7 +7144,7 @@ embira 1
 epilamellar 1
 entender
 epistasis 1
-euphonym 1
+euphonym 2
 enchesoun
 ensample 1
 enzootically 1
@@ -12299,7 +12299,7 @@ epimerite
 exempli
 embodier 2
 evocatrix 1
-everlasting
+everlasting 1
 eggplant 1
 enfoul 1
 exemplificator
