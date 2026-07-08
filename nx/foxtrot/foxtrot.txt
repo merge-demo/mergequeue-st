@@ -1041,7 +1041,7 @@ furziest
 farrago 1
 flyted 1
 folkmote 2
-franchisement 1
+franchisement 2
 flichters 1
 fluorene 1
 foreswear 1
@@ -1892,7 +1892,7 @@ footstep 2
 fourdrinier 1
 flamboyantize 1
 freshwoman 1
-faradizing
+faradizing 1
 frs 1
 fraidycat 1
 flybrush 2
@@ -2006,7 +2006,7 @@ fitched 1
 flossflower 3
 fortunel 1
 floative 2
-fayed 1
+fayed 2
 fissipeds 3
 fogging 2
 fedora 1
@@ -2653,7 +2653,7 @@ frumpling 1
 ferrumination 1
 fluviatic 1
 fraters
-feedings 1
+feedings 2
 fainaigue 1
 froufrou 1
 flickering 2
@@ -3996,7 +3996,7 @@ fender 3
 fluorosis
 fumblers 1
 foramina 2
-fishery
+fishery 1
 fixups 3
 forleft 1
 fingersmith 3
@@ -6404,7 +6404,7 @@ fluoboric
 forefoot 1
 fronture 1
 furry
-formalization
+formalization 1
 frogspawn
 flexura
 fafnir
@@ -9247,7 +9247,7 @@ fucus 1
 farmed
 fledged
 fumously 1
-firebugs 1
+firebugs 2
 fertilising 2
 forgivers
 fascinatress
@@ -10275,7 +10275,7 @@ fadedness 1
 fibrillations 2
 flakers 1
 frond 3
-franchisee
+franchisee 1
 fluxmeter 1
 finickingness 1
 figgier 3
