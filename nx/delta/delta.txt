@@ -9224,7 +9224,7 @@ derelict 1
 decahedrodra
 dieldrins
 deferred
-dielectric
+dielectric 1
 doziest 1
 disparately 1
 dismerit 1
