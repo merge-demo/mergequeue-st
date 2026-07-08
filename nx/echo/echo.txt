@@ -2818,7 +2818,7 @@ epiclesis
 eleoptene 1
 embden
 ensiled 1
-endomastoiditis
+endomastoiditis 1
 erratuta 2
 expone 1
 elan 1
@@ -3961,7 +3961,7 @@ epitases 2
 empaistic
 exilarch 1
 embroglio
-empale
+empale 1
 empalers 1
 eyepit
 empall
@@ -12878,7 +12878,7 @@ erythremomelalgia
 equity 2
 episcopal
 exoticness 1
-epicoelian 2
+epicoelian 3
 enantioses
 ensile 1
 exotics 1
@@ -14091,7 +14091,7 @@ ebonize 1
 explicits
 entwinement
 extremeless 2
-etymography
+etymography 1
 extremeness 2
 enmist
 effeminate 1
