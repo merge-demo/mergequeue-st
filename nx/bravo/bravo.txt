@@ -2915,7 +2915,7 @@ barreleyes
 barrelet
 bookend
 batuque 1
-benefitted 2
+benefitted 3
 bodysuits
 botanical 1
 bundies
@@ -7201,7 +7201,7 @@ backdating
 byelorussia 1
 blastomeric 2
 bullhorn
-bestiarian 3
+bestiarian 4
 bestiarist 2
 bestock 2
 bestow
@@ -13120,7 +13120,7 @@ brahui
 benchmen 3
 bregmatic 1
 boringness
-bilging
+bilging 1
 brewings 1
 bubblies 1
 befluster 4
@@ -16169,7 +16169,7 @@ botryomycotic 2
 banning 1
 benzoline 1
 bros 1
-birthday
+birthday 1
 banjulele
 blueness
 blisterous 1
@@ -17180,7 +17180,7 @@ bowyer
 beewinged 1
 bullnoses 2
 bullnut 1
-beetroot 2
+beetroot 3
 bullock
 brachialgia 1
 bullocker 1
@@ -17506,7 +17506,7 @@ burbolt
 blight 1
 beauseant 3
 biognosis 1
-burbot 1
+burbot 2
 bleak 2
 bowsprit 1
 beata 1
