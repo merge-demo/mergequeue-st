@@ -1241,7 +1241,7 @@ acanthomeridae
 acanthopanax 1
 agriot 2
 archwife
-aculeata
+aculeata 1
 anlia
 acanthophorous 2
 aboded
@@ -5228,7 +5228,7 @@ aflicker
 authoritarianism
 amores
 affectations
-affected
+affected 1
 adorners
 affectibility 1
 aerophore 1
@@ -10129,7 +10129,7 @@ adelpholite
 alumin
 acidyl
 antiluetic
-antsigne
+antsigne 1
 aspirin
 atmological 1
 aggadic
@@ -10320,7 +10320,7 @@ amendatory 1
 autumns
 amoebian 3
 amendment 2
-amene
+amene 1
 ampicillin 1
 amenorrheic 4
 amenorrho
@@ -12458,7 +12458,7 @@ arillode
 androgyne
 androgynia
 androgynies 1
-angiostomy
+angiostomy 1
 androgone 1
 andrographis 1
 acrotomous
@@ -14205,7 +14205,7 @@ absolutions 1
 avine 1
 anseres
 anteporticoes
-appellant 1
+appellant 2
 anteporticos
 anteprohibition
 acetarsone
@@ -18784,7 +18784,7 @@ albania 2
 archegonial 1
 amative
 archelenis 2
-audiles 2
+audiles 3
 alisier
 archelogy
 ally
@@ -20222,7 +20222,7 @@ appro 1
 apetaly
 areroscope 1
 achromatic 1
-arriere 2
+arriere 3
 arythmias
 axin
 arriet 1
@@ -22437,7 +22437,7 @@ astrometry
 amplect
 agric
 animalising
-astrometric
+astrometric 1
 astronaut
 axolotl
 apollinian
