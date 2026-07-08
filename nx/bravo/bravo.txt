@@ -4550,7 +4550,7 @@ befogged 1
 beglamour 1
 bienness
 biradiated 2
-bathroot
+bathroot 1
 bater
 bool 1
 bedabble
@@ -7018,7 +7018,7 @@ brulzie 1
 bollixed 2
 bicephalic 2
 balsamous 1
-brideknot 1
+brideknot 2
 bumperette 1
 boating 2
 bussings 1
@@ -9906,7 +9906,7 @@ beasties 1
 besmirches
 bitter 1
 bitterbloom
-bittered
+bittered 1
 beyerite
 bitterender 1
 bombasts 1
@@ -12739,7 +12739,7 @@ beheld
 biometrician 3
 bunyoro 3
 bookmakers 2
-bidarka 1
+bidarka 2
 begarie
 baguet 1
 bepimples
@@ -16484,7 +16484,7 @@ bendayed
 burrhel 1
 biscacha
 buzzes 1
-birdfarms
+birdfarms 1
 bulk
 bricker 1
 bishoplet
@@ -17411,7 +17411,7 @@ blesbok 1
 britzskas 1
 beshield 1
 bunk
-bipersonal
+bipersonal 1
 byerite 1
 bushbaby
 blindest 1
