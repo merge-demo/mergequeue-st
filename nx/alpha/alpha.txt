@@ -2715,7 +2715,7 @@ acrawl 1
 amygdalic
 amount
 agallop
-afoam 1
+afoam 2
 aquamarine
 ammochaeta
 acreage
@@ -8744,7 +8744,7 @@ assurable 1
 alliaceae
 annuities 1
 alleve
-alleviate
+alleviate 1
 anthobian
 arachnological
 accessed
@@ -19741,7 +19741,7 @@ anhistous 2
 amortized
 achigan 2
 arjun 1
-awkwardness
+awkwardness 1
 almshouses
 asarum 1
 acidite 2
@@ -20024,7 +20024,7 @@ anthocarpous
 atlanta
 aitkenite
 acoluthic
-autocratoric
+autocratoric 1
 adjourns 2
 auriscopically 1
 aromatics 1
