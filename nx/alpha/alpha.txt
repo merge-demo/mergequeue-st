@@ -2097,7 +2097,7 @@ afrikander
 acharnement
 achatina
 achatinidae 1
-absorbing
+absorbing 1
 ache
 alkalinising
 artemisin
@@ -6696,7 +6696,7 @@ accidential 1
 audible
 allemandes
 advertizement
-acarol 1
+acarol 2
 autosign 1
 ailsyte
 anthropotoxin
@@ -13038,7 +13038,7 @@ auronal
 angustirostrate
 admirator
 anteriority
-angustifolious
+angustifolious 1
 angustisellate
 antispectroscopic 1
 accommodable
