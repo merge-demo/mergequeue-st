@@ -3570,7 +3570,7 @@ addr
 allotheistic 1
 actinography 2
 awner 1
-azores
+azores 1
 addressable
 antics
 avestan 1
@@ -6071,7 +6071,7 @@ ambiversive 1
 animalcular
 anatomists
 agrionidae 1
-agility
+agility 1
 antemortal 1
 attorneyship
 abecedaire
@@ -10455,7 +10455,7 @@ ametabolia 1
 angulose 1
 alikulufan 1
 apocalyptism 2
-antenoon
+antenoon 1
 anglogaean
 antepredicament
 ametabolic 2
@@ -12482,7 +12482,7 @@ adventists
 andronicus 1
 arborator
 adjective 2
-androphorous 1
+androphorous 2
 antipyryl
 amphigastrium 1
 amenty
@@ -15644,7 +15644,7 @@ antiliberalistic 1
 antinihilist
 attacked 1
 allegorister 1
-awfulness 4
+awfulness 5
 acierating 1
 anandrous
 archangels 1
@@ -16304,7 +16304,7 @@ auscultative
 ahura 1
 antitonic
 artistical
-autoneurotoxin
+autoneurotoxin 1
 annuity
 apiararies
 antiroyal 1
@@ -23114,7 +23114,7 @@ attatched 1
 applegrower
 ani
 atte
-archocele 1
+archocele 2
 avodires
 anthecology
 antheriform
