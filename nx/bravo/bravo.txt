@@ -285,7 +285,7 @@ beaune 1
 boistously 2
 brachiocyllosis 1
 backarrows
-backbar 2
+backbar 3
 bedright
 begrutch
 biolith
@@ -2145,7 +2145,7 @@ bosch 1
 brouillon 1
 barring
 borofluoride
-bantayan
+bantayan 1
 buckshots 2
 bidstand
 bronteum 1
@@ -8698,7 +8698,7 @@ broom 1
 barbadoes
 beknotting 2
 bourbonist 2
-bimastic
+bimastic 1
 bengal
 bason 3
 backberand
@@ -10308,7 +10308,7 @@ beleaguerer 2
 besmircher 1
 bladygrass
 baluchithere
-bisme
+bisme 1
 blennostasis
 biffs
 bucayo
@@ -17190,7 +17190,7 @@ blastulae 1
 brisque
 barkantine 1
 bullpen 1
-bullpoll 2
+bullpoll 3
 bemirror 3
 bullpup
 brughs
@@ -18172,7 +18172,7 @@ butyrometer
 barometrically
 bubale 1
 barrio 1
-butyrometric 1
+butyrometric 2
 botchwork 1
 baldacchino 1
 begorry 1
@@ -18325,7 +18325,7 @@ bluenosed
 brink 3
 buttoning
 banked 2
-bioelectricities 2
+bioelectricities 3
 blennuria
 boobery
 beths
