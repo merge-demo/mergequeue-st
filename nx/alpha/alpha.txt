@@ -2715,7 +2715,7 @@ acrawl 1
 amygdalic
 amount
 agallop
-afoam 1
+afoam 2
 aquamarine
 ammochaeta
 acreage
@@ -3377,7 +3377,7 @@ auletic 2
 artistically 1
 archiprelatical
 arrestors 3
-abiogenous
+abiogenous 1
 aerology
 adays 1
 adjustors
@@ -6853,7 +6853,7 @@ airflow
 antimoralist
 aglipayan 2
 airfoil 2
-airfoils
+airfoils 1
 airglows
 airgraphics
 androcyte 1
@@ -12113,7 +12113,7 @@ anastasian
 alveus 1
 amblyopsis
 autostability 2
-aerogen 2
+aerogen 3
 anhalamine 2
 airspeed 1
 anastasimon 1
@@ -14245,7 +14245,7 @@ autolavage 2
 appliableness 1
 admissible
 avion 1
-asylums
+asylums 1
 adulterous 1
 aedeagal 1
 alcove
@@ -15707,7 +15707,7 @@ adenosarcomas 1
 aaliis 1
 aquaphobia
 antipapistical 1
-afterfriend 1
+afterfriend 2
 amercement
 aurothiosulphate
 antiparallel
@@ -18122,7 +18122,7 @@ apneustic
 aquamanilia
 abede
 administering 1
-allyls
+allyls 1
 avens
 aquamarines
 angdistis 1
@@ -20024,7 +20024,7 @@ anthocarpous
 atlanta
 aitkenite
 acoluthic
-autocratoric
+autocratoric 1
 adjourns 2
 auriscopically 1
 aromatics 1
@@ -21480,7 +21480,7 @@ adrip
 aerographies
 acridic
 assedation
-aspers
+aspers 1
 adenosarcoma 1
 asperse 1
 abecedaries
@@ -23065,7 +23065,7 @@ antiparabema
 anoints
 attacus
 amygdalaceae 1
-attaghan 1
+attaghan 2
 acquirenda
 acuchi 1
 avantlay
@@ -24936,7 +24936,7 @@ automotor 1
 archform 1
 arseniosiderite
 adroit
-antidiphtheritic
+antidiphtheritic 1
 azygote 1
 awkwardish
 awarders
