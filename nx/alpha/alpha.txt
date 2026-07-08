@@ -8708,7 +8708,7 @@ alleleu 1
 allelic
 allelism 2
 argyrite
-almes
+almes 1
 alternationist
 allelomorphic 1
 allelotropy
@@ -8803,7 +8803,7 @@ alligatorfishes
 allying
 abecedarius
 astatine 1
-allylation
+allylation 1
 allylthiourea
 alloplasmatic
 allionia 1
@@ -9295,7 +9295,7 @@ afghanets
 allover 2
 adjudicata 2
 alogically 2
-alogotrophy 2
+alogotrophy 3
 arkose 1
 alderwoman 2
 aloid 1
@@ -24754,7 +24754,7 @@ appleberry 2
 approximated 1
 axonost 1
 auscult 1
-aviations 2
+aviations 3
 aviatoriality
 aviatress 1
 azotises
