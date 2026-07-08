@@ -2927,7 +2927,7 @@ elfwife 2
 enucleated 2
 elfwort 1
 elian 2
-enervated 1
+enervated 2
 exacinate 2
 equicostate
 encystation
@@ -3187,7 +3187,7 @@ equilibristat 1
 emblemize
 endocone 1
 ejaculum 1
-extraserous
+extraserous 1
 entomophagous
 episcopation 1
 enamoring 2
@@ -7715,7 +7715,7 @@ expectorants 2
 engraff 1
 ecce 1
 epichilia
-epiphysitis
+epiphysitis 1
 egoism
 embrocating 2
 explantation 2
@@ -7863,7 +7863,7 @@ epeirid
 exquisitive
 experimentation 2
 epileny
-endopeptidase 1
+endopeptidase 2
 exotospore
 entomeric
 exuccous 2
@@ -8517,7 +8517,7 @@ essentializing 1
 echinated
 embezzling
 eastlin 1
-etherify 1
+etherify 2
 existing
 enviable
 epizoa 1
