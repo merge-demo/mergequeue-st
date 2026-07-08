@@ -6134,7 +6134,7 @@ barograph
 bulimoid 1
 betide 1
 barquette
-badaxe
+badaxe 1
 bolshevizing 1
 bitolyl
 backhaul
@@ -7581,7 +7581,7 @@ bedrivel
 breed
 bewhore 1
 borish 2
-bewidow 1
+bewidow 2
 bulldozers 1
 boke
 beshrewed 1
@@ -11120,7 +11120,7 @@ berengena
 bidpai
 blomstrandine 3
 blond 1
-brazing
+brazing 1
 benzazine 2
 byard
 bourree
