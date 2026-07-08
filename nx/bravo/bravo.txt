@@ -9465,7 +9465,7 @@ bullwhipped
 begrease
 btl 2
 baccheion 1
-bandwidths
+bandwidths 1
 brawl 1
 bespatterment 2
 boatbill 1
@@ -11793,7 +11793,7 @@ billingsgate
 buckwheat 3
 bocasin 1
 bookshops 1
-baldachinos
+baldachinos 1
 boccarella
 bodings
 boccaro
@@ -12843,7 +12843,7 @@ boomslang
 boomslange 2
 buccula
 bacterins
-basinerved 2
+basinerved 3
 beastliest 1
 brushoff
 barracan 1
@@ -13035,7 +13035,7 @@ bevomit 1
 borani 1
 borasca 3
 bemeet 1
-borassus 1
+borassus 2
 blether 1
 bastardice 2
 borboridae
