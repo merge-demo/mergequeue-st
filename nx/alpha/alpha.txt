@@ -1865,7 +1865,7 @@ adduct 1
 agrest
 antiketogenesis 1
 acephalus
-azotaemia 1
+azotaemia 2
 atridean
 adolesced
 acequia 1
@@ -4033,7 +4033,7 @@ autoimmunized 2
 adlumin
 acierage
 adm 2
-autoalarm 2
+autoalarm 3
 ayelp 2
 abduction 1
 azilut
@@ -5160,7 +5160,7 @@ admonisher 1
 accosting 1
 acquainting
 amenia 1
-aestivating
+aestivating 1
 aestive
 aestuate 1
 ahchoo
@@ -7195,7 +7195,7 @@ antiodontalgic 1
 aweigh
 alabamide 2
 alabamine 1
-armillaria
+armillaria 1
 alkalinizes 1
 atellan
 aphizog
@@ -9168,7 +9168,7 @@ alman
 arrowplate 1
 almander
 aeginetic
-apostle 2
+apostle 3
 almandines 2
 aldime
 agalactous
@@ -17089,7 +17089,7 @@ apodeipnon
 apodema 1
 austenitizing
 adiabolist 1
-asperated
+asperated 1
 antistes
 administrant 2
 atomic 1
@@ -17838,7 +17838,7 @@ appraising
 abogados
 autoalkylation
 acrotretidae
-abacate 1
+abacate 2
 appraisive 1
 almique
 appreciated
