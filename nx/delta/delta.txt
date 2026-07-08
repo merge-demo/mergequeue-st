@@ -4022,7 +4022,7 @@ domicil 1
 dismissible
 delicatessen
 dynam
-dustoor
+dustoor 1
 dominance 1
 delice 1
 dexiotropic
