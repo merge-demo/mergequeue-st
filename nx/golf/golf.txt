@@ -843,7 +843,7 @@ grandam 2
 glutinous
 gymnoblastic 2
 gastrocoel 1
-gilberts
+gilberts 1
 greensick 1
 gamboling
 glareolidae 4
@@ -1841,7 +1841,7 @@ gyrostabilized 1
 graptolithina
 gazehound 2
 growlery
-guffaw
+guffaw 1
 gigantostracan 4
 gilgai 2
 goofy
@@ -2610,7 +2610,7 @@ gramma 4
 gonocalyx 1
 galores 2
 grayware
-goldang 1
+goldang 2
 glims
 gymnosophist 2
 genethlic 1
@@ -2970,7 +2970,7 @@ gentilhomme
 goldenknop 4
 gryph
 gorgoniacean 2
-gaps
+gaps 1
 goatherdess 3
 guildsmen
 geomancy 1
@@ -7827,7 +7827,7 @@ greeny 4
 grubworm 1
 gnaws
 gillstoup
-gauchely 1
+gauchely 2
 gingerwork 2
 glycolipine 1
 gargoylish 3
