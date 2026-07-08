@@ -348,7 +348,7 @@ alcoate
 auletris 1
 apodia 2
 astraeidae
-afright
+afright 1
 acetonemia
 aftwards 2
 abends 1
@@ -3587,7 +3587,7 @@ avaradrano 1
 addrest
 articulite
 astricts
-adduced 1
+adduced 2
 aragonese
 adducer
 adduces
@@ -10025,7 +10025,7 @@ acrodonts 1
 ambicoloration
 abseiled
 albacore
-architectonically
+architectonically 1
 anthocephalous 1
 ambidexterities 1
 andorite 1
@@ -10563,7 +10563,7 @@ antinodes
 atheling 1
 amidophenol 1
 authorisation
-annelides 1
+annelides 2
 alloxuremia 1
 agua
 assimilator
@@ -11700,7 +11700,7 @@ aucanian 1
 antineutral 1
 aryepiglottidean
 anticarnivorous 2
-acoria
+acoria 1
 argyrodite
 alc
 alphosises
@@ -12443,7 +12443,7 @@ androclinium 1
 androclus
 agialid 1
 absoil 2
-aspergilliform 2
+aspergilliform 3
 automelon
 anthela
 androgamone 1
@@ -15896,7 +15896,7 @@ attributed 1
 awkward
 antiportable
 aclemon
-adenoid
+adenoid 1
 acrophony
 abutter
 anglers
