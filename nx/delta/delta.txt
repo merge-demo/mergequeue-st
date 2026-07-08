@@ -5895,7 +5895,7 @@ dere 1
 defeatee
 depreter
 deprint 2
-depriorize 2
+depriorize 3
 disorderedness 1
 deprivable 1
 dormin 1
@@ -13405,7 +13405,7 @@ disquisit 2
 disquisite 1
 dragon
 dermophlebitis 1
-distillment 4
+distillment 5
 despoliation
 diazotic
 diarsenide 1
@@ -17241,7 +17241,7 @@ deermeat 1
 decumbence 1
 disorganic 1
 demitasse
-driveled
+driveled 1
 dolled
 directorially
 driveler
