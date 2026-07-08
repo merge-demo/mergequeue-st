@@ -2546,7 +2546,7 @@ candlelighter
 chaloth
 confraternities
 copiable
-candlelighting
+candlelighting 1
 cohusband
 carvels 1
 circumcinct
