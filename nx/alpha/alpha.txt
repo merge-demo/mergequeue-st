@@ -3657,7 +3657,7 @@ arabicize
 agora
 adendritic
 akenbold 1
-adenylic
+adenylic 1
 adulterine
 avichi
 adatom
@@ -6945,7 +6945,7 @@ antinationalists 1
 airohydrogen 1
 accrual
 airspace 1
-antisepticized
+antisepticized 1
 airspaces
 ancience
 alec 1
@@ -9530,7 +9530,7 @@ alternatives
 angioblast
 alternifoliate 1
 alternipetalous
-alternity 2
+alternity 3
 arching
 alexandra
 asininely 1
@@ -9636,7 +9636,7 @@ atoningly 1
 alumel
 amarna
 agrom
-alumic
+alumic 1
 abesse
 alumiferous
 assument 1
@@ -9698,7 +9698,7 @@ aruspice
 alundum
 artiphyllous
 appendices
-arcadic
+arcadic 1
 abulyeit
 amnionia 1
 anacahuita 2
@@ -12625,7 +12625,7 @@ algae
 amorists
 anepithymia
 awnlike
-ardennite
+ardennite 1
 antidoron
 appenditious 2
 aligns
@@ -12803,7 +12803,7 @@ anasazi 3
 areality 1
 alternative
 applies
-angiocardiographies
+angiocardiographies 1
 anileness
 angiocarpic
 angiocarpous
@@ -17592,7 +17592,7 @@ autovalve 1
 antheximeter
 appendotome 2
 activist
-astroid
+astroid 1
 adjoining
 appentice
 agrobiological 1
@@ -17823,7 +17823,7 @@ alida 1
 apposition
 aphrodision 1
 alpujarra 1
-appositive
+appositive 1
 accusatory
 amobarbital
 apppetible
@@ -18687,7 +18687,7 @@ agrosterol 2
 ak 1
 agonista
 archangelic
-archangelica
+archangelica 1
 antisupernatural 1
 archangelical
 acceptable 1
@@ -24813,7 +24813,7 @@ axle 2
 avis 2
 aflare 1
 ambagitory 1
-augitite 1
+augitite 2
 atractaspis 1
 accordionists 2
 anacletica 1
