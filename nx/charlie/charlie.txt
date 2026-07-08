@@ -8514,7 +8514,7 @@ chancels
 chancemen
 conoscente
 chainbreak
-chancery 1
+chancery 2
 chances 1
 chancewise 1
 chanche 1
@@ -20776,7 +20776,7 @@ complicated
 complicatedly 1
 carburan
 carterly
-civilizedness
+civilizedness 1
 complicates 1
 cheapskate
 complicator 1
@@ -25367,7 +25367,7 @@ corncrusher
 ce
 corncutter 1
 corndodger 1
-cornea
+cornea 1
 corneal 1
 corneas 1
 chiurm 1
