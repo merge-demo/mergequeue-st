@@ -8880,7 +8880,7 @@ diccon
 depolariser
 daimio 1
 dermatitis
-decaisnea 1
+decaisnea 2
 dice
 diceboard
 dilemi 2
@@ -11246,7 +11246,7 @@ dalliers
 drainageway 1
 doit 2
 difluoride 1
-discarding 1
+discarding 2
 discardment 1
 discards 1
 dentals 2
@@ -12052,7 +12052,7 @@ diurnals
 disentitlement
 dudishly 1
 drepanaspis 1
-disentombment
+disentombment 1
 disclaimers 1
 deplaceable
 disentrail
@@ -17833,7 +17833,7 @@ dashnakist 1
 ducklet 2
 ducklings
 disculpation 1
-deputator
+deputator 1
 dragging 1
 duckmeat
 duckpin 2
