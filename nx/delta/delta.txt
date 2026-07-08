@@ -4022,7 +4022,7 @@ domicil 1
 dismissible
 delicatessen
 dynam
-dustoor
+dustoor 1
 dominance 1
 delice 1
 dexiotropic
@@ -5710,7 +5710,7 @@ dextrorsal 1
 decouple 1
 downstroke
 downloads 2
-diazotizability 1
+diazotizability 2
 droves
 damagingly 1
 deliberating 2
@@ -7678,7 +7678,7 @@ daddock
 depredable
 deviation
 dementias
-deviationism
+deviationism 1
 diting 2
 disunified
 deviations 1
@@ -12213,7 +12213,7 @@ dysadaptation 1
 demoralizing 1
 dispeoplement
 deking
-delphinine
+delphinine 1
 ditone 1
 disgavelling
 deorsumvergence
