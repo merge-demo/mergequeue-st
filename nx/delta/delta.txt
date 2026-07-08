@@ -267,7 +267,7 @@ daguerreotype
 downspout
 drouth 1
 degermed 2
-doradilla
+doradilla 1
 daguerreotyped
 daguerreotyping
 digitonin 1
@@ -1849,7 +1849,7 @@ doorstead 1
 diacetamide
 diiodide 3
 doughnut 1
-debellator 1
+debellator 2
 darapti 1
 drugmaker 1
 daphnetin 2
@@ -5999,7 +5999,7 @@ dolesomeness
 desterilize 1
 dehydrochlorinase 2
 desmotrope
-dorados 1
+dorados 2
 deflates
 dichlorvos
 dicephalism
@@ -7238,7 +7238,7 @@ deverbative
 desolately 1
 disnatured
 dux
-dyingly
+dyingly 1
 detente 1
 dicotyl
 dimetric
@@ -9560,7 +9560,7 @@ drachm
 departisanize
 diastrophically 1
 deglazes
-dignitary 1
+dignitary 2
 dignitarian
 demophoon
 doubloons
