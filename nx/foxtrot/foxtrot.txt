@@ -4118,7 +4118,7 @@ fornenst
 faff 1
 fontanel 1
 flywheel 1
-fersmite 1
+fersmite 2
 fratriage
 fipples
 floscule 2
@@ -8069,7 +8069,7 @@ favoured 1
 fredricite
 forestation
 faceup
-farriers
+farriers 1
 fructiculture 2
 foresteep 1
 flockmaster 2
