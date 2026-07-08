@@ -508,7 +508,7 @@ camisados
 cadelles
 craggedness 1
 calendaric
-cadences
+cadences 1
 cadencies
 cadencing 1
 casitas 1
@@ -2825,7 +2825,7 @@ clinodome
 cannulate
 circumscribe
 carajura
-cursitor
+cursitor 1
 cannulating
 chinafish
 creches
@@ -5759,7 +5759,7 @@ cornein 2
 clockcase
 crystallogy
 cowpock 1
-caudillism
+caudillism 1
 catchline
 catchphrase
 cocona 1
@@ -10890,7 +10890,7 @@ cariacine
 chipwood 1
 chiquito 1
 clavate
-chiral 1
+chiral 2
 clerids
 cardstock
 contortioned 1
