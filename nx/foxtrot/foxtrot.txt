@@ -84,7 +84,7 @@ folkright 1
 flattening
 flowerfence 3
 foliobranch 1
-funambulating 1
+funambulating 2
 facetely
 falsest 2
 fondue 1
@@ -1082,7 +1082,7 @@ flatiron
 foretime 4
 fourierist
 farsightedness
-flooring
+flooring 1
 faciocervical 1
 foes 2
 fluster 2
@@ -1985,7 +1985,7 @@ fernticle 3
 fouty
 fibratus
 functionalize 2
-frigiferous 2
+frigiferous 3
 filmmaker 2
 flannelette 2
 ferocactus 2
@@ -2036,7 +2036,7 @@ frogger 1
 feigners
 fluoridation 2
 feigns 1
-flitch 2
+flitch 3
 flamier
 farouche
 feltwork 2
@@ -2730,7 +2730,7 @@ farcicalness
 flagitate 1
 fusain 1
 frigged 1
-fleuronne 3
+fleuronne 4
 filmish 4
 fetation 1
 flunkeydom 2
@@ -2981,7 +2981,7 @@ flanned 2
 ferrels
 fellies 2
 fezzed 1
-favosite
+favosite 1
 fluvanna
 fallway 1
 fissural
@@ -3302,7 +3302,7 @@ forevermore
 foreward
 foamingly 1
 flasket 1
-foreconscious
+foreconscious 1
 facewise 2
 ferrohydrocyanic
 flabellate
@@ -3343,7 +3343,7 @@ frogfoot
 fractionally 2
 fidgeted
 faultage 2
-foilsmen 2
+foilsmen 3
 floorers
 frowsiest 2
 fluorescer 1
@@ -3780,7 +3780,7 @@ filmland 2
 filmmake 2
 filmogen 2
 fulah
-festooning
+festooning 1
 fibrinolyses 1
 firefangs 1
 freya 1
@@ -4122,7 +4122,7 @@ fersmite
 fratriage
 fipples
 floscule 2
-firca 2
+firca 3
 foisted 1
 forefeeling
 ferrosilicon 1
@@ -4131,7 +4131,7 @@ freeheartedly 4
 fireback 3
 fumeuses 2
 frogleaf 1
-felonry 1
+felonry 2
 flexed 1
 funders 2
 fenchyl
@@ -4285,7 +4285,7 @@ fungology 2
 feudaries 1
 firmarii 2
 furmeties
-flunkeys 1
+flunkeys 2
 forrader 1
 farhand 3
 flutemouth 2
@@ -5063,7 +5063,7 @@ freir 2
 foreseers 2
 frsiket 2
 fowler
-fitches
+fitches 1
 fluorescence 3
 faky 2
 flapping 1
@@ -6458,7 +6458,7 @@ frenchize 1
 fordy 2
 fellatrix
 forsar 1
-flurn
+flurn 1
 flurried
 fernbird 3
 furiosa 1
@@ -6653,7 +6653,7 @@ fulgurating 1
 forenotice 2
 foemanship
 fripperer 1
-foemen
+foemen 1
 fogyish 1
 forethoughtfully
 fullered 1
@@ -7064,7 +7064,7 @@ fribby 1
 fatalities 2
 flossa 1
 foreknow 1
-flowk
+flowk 1
 fosie
 frase 2
 flacked 1
@@ -7830,7 +7830,7 @@ fashes 1
 fuzed
 frounces 1
 forenote 2
-fastness 1
+fastness 2
 feltyflier 2
 fleamy
 fashionableness
@@ -10920,7 +10920,7 @@ fulled
 feeing 2
 fieldwort
 fliskier
-forsworn 2
+forsworn 3
 falloffs 1
 fides
 fulleries
