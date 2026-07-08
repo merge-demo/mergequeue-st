@@ -1850,7 +1850,7 @@ afterage 2
 apprehendable 1
 aortosclerosis
 anthropomorphous
-afterend
+afterend 1
 allamanda
 acephalist 1
 anonymousness
@@ -1965,7 +1965,7 @@ aldehydase 2
 aquilia
 albitical
 apparelment 1
-acetylfluoride 1
+acetylfluoride 2
 aerobian
 appendix
 acetylglycin 2
@@ -3374,7 +3374,7 @@ amalgamators
 aluminothermic
 aphototactic 1
 auletic 2
-artistically
+artistically 1
 archiprelatical
 arrestors 3
 abiogenous
@@ -3573,7 +3573,7 @@ awner 1
 azores
 addressable
 antics
-avestan
+avestan 1
 addressers
 anilities
 allesthesia 1
@@ -4174,7 +4174,7 @@ adnephrine
 anthracene
 atabal
 annuent
-apparatchiks
+apparatchiks 1
 abutting
 assecution
 abu 1
@@ -7707,7 +7707,7 @@ alcoholemia
 alcoholically 1
 appetition 1
 anaudia
-appendicocaecostomy
+appendicocaecostomy 1
 autoprothesis
 autoconverter 1
 asterin
@@ -7996,7 +7996,7 @@ arabist 1
 angie
 alethiologist 1
 acrophobia
-amelioratory 1
+amelioratory 2
 alethopteis 1
 afterword 1
 acritical 2
@@ -9396,7 +9396,7 @@ alphyls
 agpaite
 anticonfederationism
 acupress
-acarinosis
+acarinosis 1
 autoscience
 alphitomorphous
 acetolytic 1
@@ -10824,7 +10824,7 @@ amyxorrhea
 architis
 amlikar
 amlong 2
-ammelide
+ammelide 1
 apodemal
 arenaria 1
 apothecary
@@ -14630,7 +14630,7 @@ aliency 2
 aviational
 antidepressants 1
 amidins 1
-anthropurgic
+anthropurgic 1
 arrogative
 ascidians 1
 antipolemist 2
@@ -16010,7 +16010,7 @@ alastair
 antiradicals
 antirailwayist 3
 alimentative
-againbuy
+againbuy 1
 adjurer 1
 atheous 2
 antirape
@@ -19060,7 +19060,7 @@ assyrianize 1
 absolutely
 annals
 asta 1
-archpirate
+archpirate 1
 aviculidae
 adactylism 1
 alveated
@@ -19432,7 +19432,7 @@ abbest
 antiparliamentarist
 argh
 anlaute 2
-aphelilions
+aphelilions 1
 allottees 2
 archaean
 astrophysics 1
@@ -21356,7 +21356,7 @@ allogenic
 azobacter
 acroter
 abattue
-asyndeton 2
+asyndeton 3
 abditive
 asyndetons
 artesonado
@@ -21956,7 +21956,7 @@ aeluroidea 1
 alternat
 alaternus 1
 assoils 1
-assoilzie
+assoilzie 1
 aurantiaceous
 acaridomatium 2
 assonants 2
@@ -23482,7 +23482,7 @@ algebraists
 astringer
 augite
 augitophyre
-autotomies 1
+autotomies 2
 absolutistic 1
 augmentable 1
 acopic
