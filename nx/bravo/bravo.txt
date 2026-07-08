@@ -1074,7 +1074,7 @@ brachycephalization 1
 brasswork 1
 bailiwicks
 bolete 1
-bondmen 2
+bondmen 3
 babyhouse
 blousier 2
 buzzards 3
@@ -2378,7 +2378,7 @@ bagging
 boxboards
 barbotine
 bones 1
-butterless 1
+butterless 2
 bluelines
 bastinade
 belligerency
@@ -4710,7 +4710,7 @@ bunce
 busywork
 bedims 1
 basiophitic
-birdbrain
+birdbrain 1
 brownier
 bedizen
 boubas 1
@@ -7222,7 +7222,7 @@ bladdernut 1
 bestrewment
 besnow
 baconist
-bisporous
+bisporous 1
 basses 1
 bestridden 1
 bluesides
@@ -13568,7 +13568,7 @@ bouffon
 bremeness 1
 bicycular 1
 baptize
-bopster 2
+bopster 3
 baizing
 bougainvilliidae 2
 bite
@@ -15316,7 +15316,7 @@ brideweed
 bahiaite 1
 biochemics 2
 bosk
-bullying 2
+bullying 3
 belles
 bastian
 bridewell
@@ -17298,7 +17298,7 @@ boniest
 bauxite
 bantams
 bummel
-bummie
+bummie 1
 bursal
 bumming
 basilweed
