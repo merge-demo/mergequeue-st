@@ -2528,7 +2528,7 @@ blueblack 1
 beslash 1
 buenos
 bassetite
-bottonhook
+bottonhook 1
 buckler 1
 barguest 2
 barguests
@@ -13735,7 +13735,7 @@ bousouki 2
 bousoukia
 brunswick
 boustrophedon 1
-bloomer 2
+bloomer 3
 bircher 1
 banqueted 1
 barytocalcite
