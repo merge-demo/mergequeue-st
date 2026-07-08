@@ -625,7 +625,7 @@ cerebron
 caeciliidae 2
 chiropod
 citizenizing
-caecotomy
+caecotomy 1
 constrictors
 caelometer
 cresson 1
@@ -11106,7 +11106,7 @@ chits 2
 chittack
 chitted
 chitter
-chitterling
+chitterling 1
 chutney
 chitters 1
 communbus
@@ -21149,7 +21149,7 @@ concealedly 1
 concealedness
 cardiotonic
 concealer 1
-concealing
+concealing 1
 conceals
 cimmerian
 concededly
@@ -26811,7 +26811,7 @@ counterdike
 coltishness 1
 caaming 1
 counterdisengagement
-counterdistinct 1
+counterdistinct 2
 coscinodiscus
 cooer
 counterdistinguish
@@ -27693,7 +27693,7 @@ clockers 2
 chincloth 1
 cowier
 cyanaurate 1
-copalms
+copalms 1
 carnage
 cowing 1
 carcinosarcomata
