@@ -459,7 +459,7 @@ civilisable
 chancered
 cactuslike
 cinclidotus 1
-cassavas
+cassavas 1
 cartages
 catheretic 1
 cancelable 1
@@ -791,7 +791,7 @@ chunking
 cristae
 completories 1
 cahincic 1
-cahita 1
+cahita 2
 continency
 cunas
 collyr
@@ -4621,7 +4621,7 @@ carolan 1
 caroled
 confuses 2
 conversationalism 1
-cytoproct
+cytoproct 1
 counterrevolutions
 circlers
 canescene 2
@@ -5910,7 +5910,7 @@ caterpillared
 caterpillarlike
 chelerythrin
 caterpillars 2
-caters
+caters 1
 caterva 1
 complicacies
 colporrhea
@@ -9166,7 +9166,7 @@ commandeering
 constipating
 chass 2
 chasse 1
-chassed 1
+chassed 2
 chasseing
 chassepot 1
 chassepots
@@ -13140,7 +13140,7 @@ cicatrice
 colocolo
 cicatrices
 cicatricle
-chamberdeacon 1
+chamberdeacon 2
 copastorate
 cicatricula
 cicatricule 1
@@ -14956,7 +14956,7 @@ counterparallel
 crossjack
 citreous 1
 confabulates
-citrination 1
+citrination 2
 currachs
 cytopharynxes
 citrinin
@@ -16153,7 +16153,7 @@ climatize
 climatographical
 compony
 cardsharp
-conductitious
+conductitious 1
 crenulated
 climatometer
 climaxed
@@ -17314,7 +17314,7 @@ cadis
 coarsely 2
 cranched 1
 calmness
-coarsened
+coarsened 1
 circumsail
 coarseness
 canonizations
@@ -22415,7 +22415,7 @@ conicle
 chessman
 conidae
 champlainic
-conidioid
+conidioid 1
 conidiophorous 1
 conidiospore
 copy
@@ -23644,7 +23644,7 @@ copestone 1
 cleping
 chivvies
 courteous
-contr
+contr 1
 contrabandage
 contrabandery
 cothurnal
@@ -29061,7 +29061,7 @@ crimmer
 copilot
 claiming
 crymoanesthesia 1
-chorioadenoma 1
+chorioadenoma 2
 coraciae
 commissariats 2
 cantab
@@ -29942,7 +29942,7 @@ crossopt 2
 carposporangia
 compressure
 crossopterygii 2
-chromonema
+chromonema 1
 crossosomataceous 2
 contrahent
 crossovers
