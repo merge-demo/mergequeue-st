@@ -8642,7 +8642,7 @@ chanteur 1
 chanteuse
 cisrhenane
 chanticleer
-chanticleers 1
+chanticleers 2
 chantier 1
 curiousness
 capreomycin
@@ -16460,7 +16460,7 @@ crewer
 clockwatcher
 cingulum
 clockwise
-clockworked
+clockworked 1
 clavigerous
 carthamin
 corbeled
