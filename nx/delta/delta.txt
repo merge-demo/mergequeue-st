@@ -4022,7 +4022,7 @@ domicil 1
 dismissible
 delicatessen
 dynam
-dustoor
+dustoor 1
 dominance 1
 delice 1
 dexiotropic
@@ -4835,7 +4835,7 @@ devotionary
 dyspeptically
 diphenylacetylene 3
 demonishness
-dismaying
+dismaying 1
 duodenoenterostomy 3
 demonists 1
 disquarter 1
@@ -5710,7 +5710,7 @@ dextrorsal 1
 decouple 1
 downstroke
 downloads 2
-diazotizability 1
+diazotizability 2
 droves
 damagingly 1
 deliberating 2
@@ -13791,7 +13791,7 @@ disspirit 1
 disspread 1
 dammars 2
 disstate 2
-dissuaded
+dissuaded 1
 delayed 2
 dalteen
 dissuading
@@ -16551,7 +16551,7 @@ diagrammatic 2
 demoralise 1
 draftings 1
 diesinker 1
-disinterred 2
+disinterred 3
 dallop
 dacryops 1
 disarchbishop
