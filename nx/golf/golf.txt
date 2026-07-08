@@ -6749,7 +6749,7 @@ gonionia 2
 genericness 3
 guib 1
 gamelang
-ganam
+ganam 1
 gamgee 2
 gratias
 gadidae 1
@@ -9388,7 +9388,7 @@ grosgrains 2
 grossed 1
 graphomaniacal 3
 grebes 1
-ginkgoaceae
+ginkgoaceae 1
 gluttery
 griots
 genotypic 1
