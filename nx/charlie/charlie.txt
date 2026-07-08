@@ -717,7 +717,7 @@ cafh
 coelanaglyphic 2
 cafila
 chondroendothelioma
-cafiz
+cafiz 1
 cabdriver
 caftans
 caenogaean
@@ -1697,7 +1697,7 @@ circ
 cestoi 1
 counterdiscipline
 calorifical 1
-chairs
+chairs 1
 calorification
 cardiograph 1
 calappa
@@ -8730,7 +8730,7 @@ chapelward
 ceint
 chaperno 1
 custodia 1
-caponising
+caponising 1
 chicos
 chaperonage
 chaperonless
@@ -11271,7 +11271,7 @@ chlorite
 coenures
 chloritic 1
 carlie
-continuities 1
+continuities 2
 chloritization
 chloritize 1
 culicid
@@ -17225,7 +17225,7 @@ coalier
 coaliest
 coenzymatically 1
 coalify
-corollarially
+corollarially 1
 caperer 1
 coalification
 cephalostyle 2
@@ -17644,7 +17644,7 @@ containerized 1
 cochleae 1
 concertising
 convenery 2
-cochlear
+cochlear 1
 crystallograph
 cochleariform
 cochleiform 4
@@ -17797,7 +17797,7 @@ codeclination
 codecs 2
 cellularly
 chawan
-concurrent
+concurrent 1
 codeina
 carby
 cognisableness 1
@@ -27633,7 +27633,7 @@ chionophobia
 chuffiest
 coecum 1
 cowardly
-choloidinic
+choloidinic 1
 cowardness
 cowbane
 collided
@@ -28109,7 +28109,7 @@ cranic 1
 circaeaceae
 craniectomy
 cled
-caput 1
+caput 2
 craniniums
 craniocele
 cordial 1
