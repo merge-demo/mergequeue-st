@@ -493,7 +493,7 @@ flaxweed 2
 funbre 4
 frisch 2
 fertilizing 4
-frenne 2
+frenne 3
 filicite 2
 faking 4
 fumify 3
@@ -1276,7 +1276,7 @@ fatefully
 fanaticise 1
 findability 3
 fernambuck 2
-finality 1
+finality 2
 fibromata 1
 foreconsent 2
 feculency 3
@@ -1866,7 +1866,7 @@ fiances 1
 flabellation 1
 frutify 1
 fatuously 2
-fight
+fight 1
 floruit 1
 fecundate 1
 forecloses 3
@@ -4416,7 +4416,7 @@ fraxin 1
 fluigramme
 frogwort 1
 frenghi 1
-formel 1
+formel 2
 fraiser 4
 falsary 1
 flawier
@@ -6300,7 +6300,7 @@ fuliginosity 3
 fluent 1
 flukeworm 1
 fetted
-follicle
+follicle 1
 ferryhouse 1
 fob 3
 falerian
@@ -8324,7 +8324,7 @@ fractious
 feists 1
 frequenter 1
 flump 3
-forehoof
+forehoof 1
 frontlets
 flintify 1
 finableness
@@ -10050,7 +10050,7 @@ fowlpox 1
 fopped
 frypans 1
 frillily
-falderal 2
+falderal 3
 flammigerous
 frilliness 3
 farmplace 2
