@@ -1861,7 +1861,7 @@ bandaged 1
 bandaging 1
 berylloid
 bowlin 1
-bushranging 1
+bushranging 2
 bandala 1
 bandanaed 1
 battlepiece
@@ -7882,7 +7882,7 @@ billyo 1
 backstitched
 banksmen
 bistipuled 2
-bullation
+bullation 1
 beauclerc 1
 brains 1
 bedboard 2
@@ -11222,7 +11222,7 @@ bitterheartedness
 beheadal 1
 blossomless 1
 blotch 1
-banal
+banal 1
 banco 2
 beestride
 bandhava
@@ -15308,7 +15308,7 @@ baybolt 1
 bogomilian 1
 bridestake 2
 befoulier 1
-bichromate 1
+bichromate 2
 broodlet
 brainlessly
 bridewain
