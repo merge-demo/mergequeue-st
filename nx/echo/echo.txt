@@ -10900,7 +10900,7 @@ exsolve 1
 emmetropia
 eutectic 1
 extensor
-embryoplastic
+embryoplastic 1
 esthetic 1
 enchaser 1
 erectors
