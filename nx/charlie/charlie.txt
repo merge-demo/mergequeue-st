@@ -155,7 +155,7 @@ cerberic 1
 chryseis 1
 cables 1
 changeabout 2
-cablese 1
+cablese 2
 cablet 1
 cabling
 contentiousness
@@ -3012,7 +3012,7 @@ cantilever 1
 cantilevered 2
 cantilevers
 cantily
-codenization
+codenization 1
 cantina
 canting
 cantingly
