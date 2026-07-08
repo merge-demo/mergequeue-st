@@ -9603,7 +9603,7 @@ branchiostomous 1
 bisdiapason 1
 binary 3
 bicapsular
-bandlimits 1
+bandlimits 2
 bisectors
 bisectrices
 bednighted
@@ -9834,7 +9834,7 @@ beneplacito 1
 blackballing
 bandonion 1
 biteable 2
-begin 1
+begin 2
 bonapartean 1
 bongo
 bawd
