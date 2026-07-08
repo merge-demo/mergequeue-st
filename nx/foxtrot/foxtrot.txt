@@ -2534,7 +2534,7 @@ fiatconfirmatio 2
 fanam
 feeler 1
 frugivorous 2
-foal 1
+foal 2
 fibromembranous
 filamentule 2
 frangibility 1
@@ -10343,7 +10343,7 @@ fitten 1
 finary
 folksongs 1
 fanged
-fingerings 2
+fingerings 3
 fluormeter 3
 ferrates 1
 furculae 1
