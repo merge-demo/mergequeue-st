@@ -129,7 +129,7 @@ fiberizer
 fletcher 1
 fomes 1
 filicic
-fackeltanz 2
+fackeltanz 3
 frill 1
 fumiferous 2
 flashforwards 1
@@ -1033,7 +1033,7 @@ fiberboard
 fids
 filazer 1
 ferriages 1
-frontons 1
+frontons 2
 farrage 1
 ferroelectricity 2
 fleawort 1
@@ -2237,7 +2237,7 @@ forhale
 filthified
 flesher 1
 feticidal 6
-forgetting
+forgetting 1
 fracture
 filtrated
 fec 1
@@ -4118,7 +4118,7 @@ fornenst
 faff 1
 fontanel 1
 flywheel 1
-fersmite
+fersmite 1
 fratriage
 fipples
 floscule 2
@@ -4882,7 +4882,7 @@ factuality 1
 fabricational 1
 funks 1
 foldedly 2
-fibrinate 4
+fibrinate 5
 fellage 1
 forbears 1
 freedmen 1
@@ -5869,7 +5869,7 @@ fireless
 feminology
 funebre 2
 flabby
-fastigia
+fastigia 1
 fowlers 1
 flocced 2
 frustulose 2
@@ -7238,7 +7238,7 @@ fiver
 foreground
 footpad 1
 farfetchedness 1
-fatidically
+fatidically 1
 favellidia 1
 feodary 3
 flaxboard
@@ -7898,7 +7898,7 @@ forereading
 forereckon
 foredates 1
 flannelbush
-forerun
+forerun 1
 fname 1
 forjesket 2
 factiousness 2
@@ -8087,7 +8087,7 @@ foredevote 1
 felicitates
 fluidisation 3
 frustrate 5
-fifteenths 1
+fifteenths 2
 flammably 1
 fairies 1
 figuredly 2
@@ -9016,7 +9016,7 @@ fanglet 1
 fourierism
 fourneau 2
 femes
-filly
+filly 1
 feltings
 farcist 2
 flavine 2
@@ -9915,7 +9915,7 @@ fakement 3
 frouncing
 feminize 1
 funge 3
-feria 4
+feria 5
 fundatorial 1
 flavanthrone 2
 feedable 1
