@@ -1137,7 +1137,7 @@ calypterae
 cardiant
 caveatee
 calcispongiae
-chromatosphere 4
+chromatosphere 5
 calcite
 carollers
 cuppers 1
@@ -1713,7 +1713,7 @@ calorist
 calorizing 1
 cawing
 calosoma 1
-calotermes
+calotermes 1
 calotype
 cosey 1
 cyclodiolefine 2
@@ -5118,7 +5118,7 @@ chondrosamine
 cascadite
 cascalho 1
 cascalote
-calenturist 2
+calenturist 3
 coagulant
 compsognathus
 cascaras 1
@@ -8250,7 +8250,7 @@ coadunation 1
 chalcomenite 2
 chalcone
 chalcopyrite
-chalcosine
+chalcosine 1
 calyptrogyne
 crocodilite
 coween
@@ -9060,7 +9060,7 @@ coleophora
 chromophobe
 charophyta
 courantes
-cannily
+cannily 1
 cabala
 charoses
 charoseth
@@ -10954,7 +10954,7 @@ chiromantic
 cabret 2
 cicatrixes
 chiromantis
-chirometer
+chirometer 1
 chiromys
 cheetal
 cryostase
@@ -18234,7 +18234,7 @@ coffeeberries
 concocts 1
 catacumba
 cohosting
-concessionary
+concessionary 1
 chartings
 coffeegrower
 cantinas
