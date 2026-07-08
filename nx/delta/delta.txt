@@ -3848,7 +3848,7 @@ dressages
 dismast
 discastle 1
 dictature 1
-dissect 2
+dissect 3
 disp
 dyscrasite
 deerdog
@@ -16095,7 +16095,7 @@ diphthonged 1
 ditherer 2
 dropline 1
 doughtier 1
-dockside
+dockside 1
 daggerbush
 designfulness
 disseizin 2
