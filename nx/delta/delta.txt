@@ -2249,7 +2249,7 @@ definitized
 defuzes 1
 domineerer
 distractibility
-dustbox
+dustbox 1
 discolourization 3
 determinative 1
 decimals 1
@@ -2743,7 +2743,7 @@ diamber 3
 dirige 1
 dhurry 1
 diasystem
-dineric 1
+dineric 2
 daddies
 drawhorse
 despited
@@ -3730,7 +3730,7 @@ dehorner
 despoiling 1
 diplography 1
 dehorners 1
-desiredness
+desiredness 1
 degeneratively
 disconcertingly 2
 developers
@@ -10098,7 +10098,7 @@ dynast 1
 deaminating
 deliciae 2
 dieticians 1
-dutiable 1
+dutiable 2
 dextrane
 disamis
 destructivity 2

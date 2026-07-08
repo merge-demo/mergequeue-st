@@ -3009,7 +3009,7 @@ conceptualistically
 cantilating 1
 cantilene 1
 cantilever 1
-cantilevered 1
+cantilevered 2
 cantilevers
 cantily
 codenization
@@ -4409,7 +4409,7 @@ confrere
 calandridae
 centimes
 coleochaete
-coheartedness
+coheartedness 1
 cusec
 concrew
 cynara
@@ -5783,7 +5783,7 @@ catechetic
 congenator
 chapatti
 cottony
-comminuate
+comminuate 1
 concinnating 1
 catechin 1
 catechisable
@@ -9877,7 +9877,7 @@ chemoreceptivity 1
 coteller
 chapelgoer
 chemoreceptor 1
-cryptographers
+cryptographers 1
 childes
 crystallisation 3
 chemoreflex
@@ -12454,7 +12454,7 @@ chromizing
 chromoblast 2
 choromanic
 calcitestaceous 1
-chromocyte 1
+chromocyte 2
 chromocollograph 1
 chromocollography
 chromocollographic 1
@@ -14315,7 +14315,7 @@ claver
 conferring 1
 cevadilla
 conamed
-circumrotate 2
+circumrotate 3
 cuneonavicular
 circumrotatory
 calochortus
@@ -16162,7 +16162,7 @@ censing 1
 climaxing
 consequence 1
 cytotrophoblastic 1
-climbed 2
+climbed 3
 climber 3
 cabobs
 chromosantonin
@@ -16714,7 +16714,7 @@ catharpin
 crimpling
 clots
 clottage
-chaconne
+chaconne 1
 clotted
 cyanus 1
 carts 2
@@ -20498,7 +20498,7 @@ chained
 cacaxte
 conelet
 crownmaker 2
-compartmentalization 1
+compartmentalization 2
 celliferous
 chappaul
 chrysenic
