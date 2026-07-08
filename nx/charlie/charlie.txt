@@ -8438,7 +8438,7 @@ characterstring
 crummed 1
 champaka 1
 conducts
-clubridden 1
+clubridden 2
 champaks 1
 cholines 2
 commensalistic 1
@@ -10690,7 +10690,7 @@ consonantized
 chimneyless 1
 counterdefender 1
 chimneylike 1
-chimneyman
+chimneyman 1
 chimneypiece
 chymotrypsinogen 2
 creedalism
@@ -26906,7 +26906,7 @@ counterimpulse
 counterindented 1
 counterindication
 countermining
-counterinfluence
+counterinfluence 1
 crochets
 counterinterest
 catheti
