@@ -1604,7 +1604,7 @@ erizo
 epiblastic
 egressed
 egresses
-exequial
+exequial 1
 extraphysiological 2
 eclegma 2
 expounded 2
@@ -3250,7 +3250,7 @@ esthesiometric
 enzymatically
 estocada 2
 essonites 1
-epigon 1
+epigon 2
 embryoscope
 encamping 1
 eugranitic
@@ -4835,7 +4835,7 @@ electrocatalysis
 ebulliometer 1
 exoperidium 1
 endoderm 1
-enculturation 1
+enculturation 2
 ergatandromorph 2
 epispastic 1
 extrapolates
@@ -6588,7 +6588,7 @@ enantiomeric
 encraty 1
 elephantlike
 enzymologies 2
-enterohydrocele 1
+enterohydrocele 2
 elevation 2
 erythroneocytosis
 embryoctonic 1
@@ -12465,7 +12465,7 @@ exhortations
 elatery 1
 eisegeses
 entomostracan 1
-exhortingly
+exhortingly 1
 exhorts
 exaltations 3
 exhumate
