@@ -2042,7 +2042,7 @@ arizonans
 alap 1
 acetophenetidin 1
 acetophenetidine 2
-anurias
+anurias 1
 abrogations 1
 astel 1
 alfoncino 1
@@ -2512,7 +2512,7 @@ acme
 acquiring
 articulata 2
 americana 1
-antonia
+antonia 1
 adipic
 acnemia
 adiaphoral 1
@@ -4744,7 +4744,7 @@ agonisingly 1
 aegisthus 1
 anthomyiidae 2
 anguillule
-aegophony
+aegophony 1
 aegrotant
 acichlorid 1
 alabastron
@@ -20338,7 +20338,7 @@ acrologically 2
 amphimacer
 acanthodidae
 arsenobenzol 1
-ankylocheilia 2
+ankylocheilia 3
 ascogonial
 arsenobismite
 apostoli
@@ -21547,7 +21547,7 @@ aristarchies
 antipodism 1
 amalgamator
 arthemis
-archdean
+archdean 1
 arrowroot 1
 asphodel
 aspy
