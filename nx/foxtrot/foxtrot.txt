@@ -4144,7 +4144,7 @@ firebomb
 fractile 3
 fakiness 1
 ferk 1
-fairlike 2
+fairlike 3
 fractionlet 1
 faithwise 1
 figments 1
@@ -4701,7 +4701,7 @@ fairyish 1
 feed
 forsake 1
 fjord 3
-fizziest
+fizziest 1
 friand 1
 fluidram 1
 forte 3
@@ -7658,7 +7658,7 @@ flames 1
 forefield 1
 foreorlop 2
 flimsilyst 2
-flustroid
+flustroid 1
 forefinger 2
 figary 2
 fritillaries
@@ -10935,7 +10935,7 @@ firesafeness
 flirtations 1
 finagler 2
 fulgoroidea
-fruitist 2
+fruitist 3
 forgeful
 fi 2
 foilable 2
