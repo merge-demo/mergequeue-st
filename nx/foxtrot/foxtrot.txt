@@ -2520,7 +2520,7 @@ faldworth 3
 foremeant 1
 footsore 1
 feudal
-fastballs 1
+fastballs 2
 frush
 flunky 2
 foulmouth 1
@@ -4987,7 +4987,7 @@ frappeed 2
 flyswatter
 flibbertigibbety 2
 figbird
-flyover
+flyover 1
 foundationally
 fleetingness
 faldetta 1
@@ -10844,7 +10844,7 @@ freethinker
 freakishly 1
 festilogy
 florimania 1
-ferniest 1
+ferniest 2
 focometry 3
 fulciment 2
 fs 1
