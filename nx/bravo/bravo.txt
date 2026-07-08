@@ -1502,7 +1502,7 @@ beggar
 boroglycerate
 barras 1
 bludgeoned
-beeches
+beeches 1
 ball 2
 bushtit
 ballad
@@ -2947,7 +2947,7 @@ bamboozlement
 boules
 brassavola
 bracketed
-barrelwise
+barrelwise 1
 barretor 1
 bloodybones
 billowed 1
@@ -6224,7 +6224,7 @@ bromatology
 brats
 benisons
 bombay 2
-benitier 1
+benitier 2
 baguio 1
 benjaminite 2
 bound
@@ -7018,7 +7018,7 @@ brulzie 1
 bollixed 2
 bicephalic 2
 balsamous 1
-brideknot 1
+brideknot 2
 bumperette 1
 boating 2
 bussings 1
@@ -7943,7 +7943,7 @@ bibliothecarian 1
 bungalows 1
 batoka 1
 buaze 1
-butic
+butic 1
 baseline 2
 butanone 1
 bowlders 1
@@ -8249,7 +8249,7 @@ berthage 1
 byestreet
 biformity 2
 bifront 2
-bhavani
+bhavani 1
 brainfag 1
 biglot
 bifurcated
@@ -8829,7 +8829,7 @@ bowering
 brilliants
 binny 1
 bumpered 1
-beanbags 3
+beanbags 4
 binnogue
 battel 2
 backstrap 1
@@ -12739,7 +12739,7 @@ beheld
 biometrician 3
 bunyoro 3
 bookmakers 2
-bidarka 1
+bidarka 2
 begarie
 baguet 1
 bepimples
@@ -16484,7 +16484,7 @@ bendayed
 burrhel 1
 biscacha
 buzzes 1
-birdfarms
+birdfarms 1
 bulk
 bricker 1
 bishoplet
@@ -17712,7 +17712,7 @@ beefiest
 basilyst 1
 bicornes
 buyer 2
-burma
+burma 1
 begazed 2
 bestead 1
 bollard
