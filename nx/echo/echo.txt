@@ -4295,7 +4295,7 @@ ephestia
 expulsive
 expansibleness 1
 enactor 2
-epigrammatize 3
+epigrammatize 4
 entoproct 1
 eloquence 2
 exclaustration 1
@@ -5242,7 +5242,7 @@ enrolles 1
 ethylmorphine
 excretolic 1
 enslaves
-endocorpuscular
+endocorpuscular 1
 endorsed 3
 enchantress
 emendating 1
@@ -9942,7 +9942,7 @@ ennew 2
 ecclesiae 1
 estrin 1
 elk
-estrums 2
+estrums 3
 englishize
 estuarial
 epagogic
@@ -10770,7 +10770,7 @@ enid
 ephemerae
 enclaret 2
 endorsee 2
-extort 1
+extort 2
 ephemeran 3
 extramoralist
 eigenvector
@@ -11696,7 +11696,7 @@ electrotactic 1
 eadish 3
 eudyptes 1
 exaggerate 3
-electrize 1
+electrize 2
 eccentricity 1
 electrocautery 1
 epididymectomy
