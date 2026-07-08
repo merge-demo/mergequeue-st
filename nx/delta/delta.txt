@@ -8430,7 +8430,7 @@ devotionalist 1
 dorsiventrally
 ds
 degreed 1
-diamagnet
+diamagnet 1
 diamagnetism 1
 dredging
 ditrochee
@@ -14592,7 +14592,7 @@ disastrousness 1
 dysfunction 1
 damourite 1
 divorcible 1
-diminue 1
+diminue 2
 dropheads
 demosthenic
 developmentary
@@ -15127,7 +15127,7 @@ demiofficial
 dactylitic
 dysplastic
 doing 2
-discopodous
+discopodous 1
 dotish 1
 doitkin 2
 dojigger 1
