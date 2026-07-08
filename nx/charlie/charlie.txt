@@ -25149,7 +25149,7 @@ coinstantaneous
 corequisite
 corer 1
 corers
-cores
+cores 1
 carbonates
 compressors
 chlorospinel
@@ -25672,7 +25672,7 @@ corpulentness
 converginerved 1
 corpuscularian 2
 confinedness
-completed 2
+completed 3
 corpuscularity
 corpuscule
 corpusculous
@@ -29596,7 +29596,7 @@ chimars
 croatan 1
 confrontational
 crinion 1
-crawlsome
+crawlsome 1
 crocanthemum 1
 croceic 1
 croceine 1
