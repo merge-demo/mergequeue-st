@@ -8430,7 +8430,7 @@ devotionalist 1
 dorsiventrally
 ds
 degreed 1
-diamagnet
+diamagnet 1
 diamagnetism 1
 dredging
 ditrochee
@@ -15127,7 +15127,7 @@ demiofficial
 dactylitic
 dysplastic
 doing 2
-discopodous
+discopodous 1
 dotish 1
 doitkin 2
 dojigger 1
