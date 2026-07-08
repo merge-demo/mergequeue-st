@@ -1393,7 +1393,7 @@ fishway 1
 fountainlet 1
 fallibly
 firewood
-futchell
+futchell 1
 forbar
 ferreted 2
 fattest 1
@@ -1854,7 +1854,7 @@ forfeit 1
 fibrinogenically 2
 frondous 1
 fluidizer 2
-farthermore 2
+farthermore 3
 fruiterers 1
 federacies 1
 febriphobia 1
@@ -2303,7 +2303,7 @@ foetuses
 feminizing
 fanglement 1
 fistulana
-fatherlessness 3
+fatherlessness 4
 faunule 1
 fenestrato
 fondness 2
@@ -3295,7 +3295,7 @@ factitious
 framed 2
 fisherman 1
 fideicommissaries 1
-fungus
+fungus 1
 flirtling 2
 finesser 3
 forevermore
@@ -3718,7 +3718,7 @@ flexibilty
 fecundates 1
 fillmore
 forwear
-fosse
+fosse 1
 feelingly 2
 fribblish
 foujdary
@@ -4819,7 +4819,7 @@ faena
 fellowshipping 1
 famulary 1
 falsen 1
-forties 1
+forties 2
 frostbiter 1
 funker 1
 fetting 1
@@ -4977,7 +4977,7 @@ formalize
 ferrugination 1
 forwarders 2
 fictionalized 1
-foraminate 1
+foraminate 2
 fascet 1
 fact
 forestcraft
@@ -5181,7 +5181,7 @@ fauvism 1
 feeding 2
 flued 1
 flangeway 1
-futter 1
+futter 2
 footpaddery
 filamentar
 francolin 2
@@ -6258,7 +6258,7 @@ fustigation 3
 fearing
 febronianism 2
 fanteague 3
-flota
+flota 1
 fadingly 1
 fouettee 1
 fluxer 2
@@ -6459,7 +6459,7 @@ fordy 2
 fellatrix
 forsar 1
 flurn 1
-flurried
+flurried 1
 fernbird 3
 furiosa 2
 fumagine
@@ -8626,7 +8626,7 @@ fornicatrix 3
 fieldman 1
 frameshift 3
 fullfil 3
-flaskful 1
+flaskful 2
 fissionable
 fungating 1
 farmsteading
@@ -8745,7 +8745,7 @@ fourness
 frightsome
 fogydom 2
 flutteration
-faith
+faith 1
 fortieth 2
 feminisms 1
 forefended 2
@@ -8941,7 +8941,7 @@ foulest
 fjeld 1
 fiques 4
 flitty 2
-ferritins 2
+ferritins 3
 foumart
 fodgel
 falciparum 1
@@ -11462,7 +11462,7 @@ fideles 2
 flic
 frayedly 1
 furcule 1
-foreshortened 4
+foreshortened 5
 flaffer 1
 furfurylidene 2
 furrowy 2
