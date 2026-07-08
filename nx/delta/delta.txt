@@ -267,7 +267,7 @@ daguerreotype
 downspout
 drouth 1
 degermed 2
-doradilla
+doradilla 1
 daguerreotyped
 daguerreotyping
 digitonin 1
@@ -1632,7 +1632,7 @@ derision
 disenrol 2
 decl
 dealcoholize
-dinoceratan
+dinoceratan 1
 datisca 1
 deserved 2
 deutsche
@@ -1849,7 +1849,7 @@ doorstead 1
 diacetamide
 diiodide 3
 doughnut 1
-debellator 1
+debellator 2
 darapti 1
 drugmaker 1
 daphnetin 2
@@ -1991,7 +1991,7 @@ deflection
 descloizite
 decadary 1
 dimethylcarbinol
-depaysee 1
+depaysee 2
 demagnify 1
 dynapolis
 documentalist
@@ -3596,7 +3596,7 @@ degenerateness 2
 degenerescence 1
 diammonium
 degeneroos
-degerm 1
+degerm 2
 dihalogen 1
 donnish
 desulfurating
@@ -5476,7 +5476,7 @@ diaxon 1
 denials
 departer 1
 devastated
-dehistoricize 1
+dehistoricize 2
 dishwashing 1
 drama 1
 dematiaceous 1
@@ -5999,7 +5999,7 @@ dolesomeness
 desterilize 1
 dehydrochlorinase 2
 desmotrope
-dorados 1
+dorados 2
 deflates
 dichlorvos
 dicephalism
@@ -6027,7 +6027,7 @@ deputing
 diaconicon
 dolous 1
 dells
-digitalization 2
+digitalization 3
 dissimilitude 1
 dorps 2
 delicacy
@@ -6203,7 +6203,7 @@ dermabrasion
 dithyramb
 drabness
 dipsades 1
-disbenchment
+disbenchment 1
 dactylopodite 3
 dermapterous
 dirgler
@@ -6599,7 +6599,7 @@ deselected
 depiction 1
 deadborn 1
 duddie
-dididae
+dididae 1
 desiccants 3
 dichotomised 3
 decretory
@@ -6718,7 +6718,7 @@ doughfoot
 dhutis 2
 dissolutions 3
 designates
-dose
+dose 1
 dacron 1
 dimedone 1
 dispeopled 2
@@ -7238,7 +7238,7 @@ deverbative
 desolately 1
 disnatured
 dux
-dyingly
+dyingly 1
 detente 1
 dicotyl
 dimetric
@@ -9393,7 +9393,7 @@ dipnoous
 deploring
 djinni 1
 duplicator 1
-diffusers 1
+diffusers 2
 diffuses 1
 dillis 1
 dimidiation 2
@@ -9560,7 +9560,7 @@ drachm
 departisanize
 diastrophically 1
 deglazes
-dignitary 1
+dignitary 2
 dignitarian
 demophoon
 doubloons
@@ -12384,7 +12384,7 @@ disaproned 1
 diakineses
 dishley 1
 diamond 1
-deterrability
+deterrability 1
 defers 1
 dimerlie 1
 diastereoisomer 1
@@ -12496,7 +12496,7 @@ drafter
 dreg 1
 disinfected
 deceivers
-denaturizer
+denaturizer 1
 desponsories
 dispractice 1
 dols
@@ -13084,7 +13084,7 @@ dictamina 1
 dragster
 dispendiously 1
 debasing
-drooped 1
+drooped 2
 dispensationalism 1
 dentistries
 delimitations
@@ -13364,7 +13364,7 @@ disputes 2
 disdiaclast 1
 disputing
 dayflower 2
-demonstrableness
+demonstrableness 1
 deadmen
 decurving
 disputisoun 2
@@ -16055,7 +16055,7 @@ douceur
 dislocate 1
 dakir 2
 dextrins 1
-doucker
+doucker 1
 dioxids 1
 danny
 dipode
@@ -16727,7 +16727,7 @@ dungas
 degasses 1
 desubstantialize 1
 doubtless
-dramaturgically
+dramaturgically 1
 devisceration 2
 drammage 2
 dramme 1
@@ -18152,7 +18152,7 @@ devisors 2
 dictions
 debatable 1
 driveboat 2
-diiodo 2
+diiodo 3
 dardistan 1
 dardic 1
 duppa 2
