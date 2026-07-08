@@ -12496,7 +12496,7 @@ drafter
 dreg 1
 disinfected
 deceivers
-denaturizer
+denaturizer 1
 desponsories
 dispractice 1
 dols
