@@ -4132,7 +4132,7 @@ casuist
 capitate
 chughole
 cardinalis
-closehearted
+closehearted 1
 cichlids
 clerihew
 cubed 2
@@ -5697,7 +5697,7 @@ catasetum 1
 ching
 communionist 3
 ceratopsia
-cephalodymia
+cephalodymia 1
 catastases 1
 congregationist
 catastasis
@@ -12283,7 +12283,7 @@ christen 1
 christendie
 christendom
 christener
-cleanhearted 1
+cleanhearted 2
 christening
 christens
 christhood
@@ -18679,7 +18679,7 @@ cointerred
 cointerring 1
 cantrips 1
 coyo
-coyol 1
+coyol 2
 coyos
 coyotes
 coccoloba 2
@@ -18842,7 +18842,7 @@ clinkered
 colichemarde 1
 colicines 1
 cenotaphy
-cultigen
+cultigen 1
 celiac
 colicins
 corvisor 1
@@ -21852,7 +21852,7 @@ cassian 1
 cytopharynges
 calypter 1
 confabulatory
-caracul
+caracul 1
 counterdecree
 confact 1
 cartelizing
@@ -21957,7 +21957,7 @@ confidentialness 1
 confidently 1
 confidentness
 confider
-confiders
+confiders 1
 chaetosoma
 confiding 1
 coppa 2
