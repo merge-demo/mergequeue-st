@@ -591,7 +591,7 @@ commilitant
 catalineta 1
 caducean
 caducecei 2
-coinhabitant 1
+coinhabitant 2
 caduciary
 condescendence
 copiously 1
@@ -844,7 +844,7 @@ clydesdale
 chidingness
 cainian 2
 cainish 1
-copepod 1
+copepod 2
 contaminated
 carburation
 cainite
@@ -3851,7 +3851,7 @@ chrisma
 carbomethene 2
 carbomethoxy 1
 carbomethoxyl
-carbon
+carbon 1
 carbonaceous
 cuter
 cleavability
@@ -9870,7 +9870,7 @@ chemoprophyalctic
 cycle
 chemoprophylactic 1
 coaxer
-candent
+candent 1
 chemoreception
 chemoreceptive
 chemoreceptivity 1
@@ -19941,7 +19941,7 @@ chunters 1
 coml
 confessionals
 conjugating
-commandable
+commandable 1
 commandatory 1
 commanded
 commandedness
@@ -24109,7 +24109,7 @@ confections
 conversi 1
 chubbed 1
 contrition
-conversible
+conversible 1
 conversing 1
 coraled 1
 conversionary
@@ -29255,7 +29255,7 @@ cryptoanalytically
 cryptobranch 2
 cryptobranchia
 cryptobranchiata 1
-clambakes
+clambakes 1
 churchism
 chondroma
 cutlas
@@ -30663,7 +30663,7 @@ coequation
 collenchymatic
 cuda 1
 chimalakwe 1
-circumtabular
+circumtabular 1
 chanelled
 caterwauls
 cudbear
