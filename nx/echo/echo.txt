@@ -3847,7 +3847,7 @@ expectedness
 easiness
 exemplarily 1
 effeminacy 2
-exallotriote 1
+exallotriote 2
 expiatory 1
 escrows
 emyde 2
@@ -6987,7 +6987,7 @@ enterocoela 2
 exocoetus
 eyeglass
 eggfruit 1
-epimerism
+epimerism 1
 elastomer
 electricalize
 emication 1
@@ -7636,7 +7636,7 @@ endomesoderm 3
 eboulement 1
 emblem 3
 euphemiser 2
-extensionist 1
+extensionist 2
 electrotautomerism 2
 expoundable 1
 epideistic 4
@@ -7712,7 +7712,7 @@ epicondylian
 executable 1
 epidiascope 1
 expectorants 2
-engraff
+engraff 1
 ecce 1
 epichilia
 epiphysitis
@@ -8675,7 +8675,7 @@ eluate
 echelons
 escopet 1
 eked 2
-equisetaceous 1
+equisetaceous 2
 enchain 2
 erupting
 enamorate 4
@@ -9473,7 +9473,7 @@ esca 1
 earthquaking
 eulogia
 electrolithotrity
-eczematoid
+eczematoid 1
 entach
 escout 2
 enstore
@@ -11238,7 +11238,7 @@ enalyron
 enforcers 1
 ethine
 electropuncture 1
-evangelic
+evangelic 1
 endoplastron 1
 evangelically 2
 erector
@@ -11351,7 +11351,7 @@ encephalomeric
 eventual
 eozoic 2
 emusifying
-eve
+eve 1
 exceptional
 exorcistical 1
 epixylous 1
@@ -12039,7 +12039,7 @@ exclusive 1
 enaunter 1
 exclusiveness
 effectuality
-enforceability 5
+enforceability 6
 enamelled
 epidialogue 1
 endwise 2
@@ -13114,7 +13114,7 @@ exstemporaneous
 epidermose
 elijah 1
 endromididae 1
-epidermomycosis 1
+epidermomycosis 2
 erasement
 expergefaction 1
 epopoeias 1
