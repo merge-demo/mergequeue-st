@@ -3553,7 +3553,7 @@ defusion 2
 deformalize 3
 dingles
 dermatotome 2
-drawbeam
+drawbeam 1
 dissheathe
 dehwar
 defuze 4
