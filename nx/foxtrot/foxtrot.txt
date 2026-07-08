@@ -2036,7 +2036,7 @@ frogger 1
 feigners
 fluoridation 2
 feigns 1
-flitch 2
+flitch 3
 flamier
 farouche
 feltwork 2
@@ -3343,7 +3343,7 @@ frogfoot
 fractionally 2
 fidgeted
 faultage 2
-foilsmen 2
+foilsmen 3
 floorers
 frowsiest 2
 fluorescer 1
@@ -4122,7 +4122,7 @@ fersmite
 fratriage
 fipples
 floscule 2
-firca 2
+firca 3
 foisted 1
 forefeeling
 ferrosilicon 1
@@ -5063,7 +5063,7 @@ freir 2
 foreseers 2
 frsiket 2
 fowler
-fitches
+fitches 1
 fluorescence 3
 faky 2
 flapping 1
@@ -7830,7 +7830,7 @@ fashes 1
 fuzed
 frounces 1
 forenote 2
-fastness 1
+fastness 2
 feltyflier 2
 fleamy
 fashionableness
