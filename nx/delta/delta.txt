@@ -267,7 +267,7 @@ daguerreotype
 downspout
 drouth 1
 degermed 2
-doradilla
+doradilla 1
 daguerreotyped
 daguerreotyping
 digitonin 1
@@ -3596,7 +3596,7 @@ degenerateness 2
 degenerescence 1
 diammonium
 degeneroos
-degerm 1
+degerm 2
 dihalogen 1
 donnish
 desulfurating
