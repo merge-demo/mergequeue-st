@@ -2391,7 +2391,7 @@ guiac 2
 gachupin 1
 gratification 1
 guardship
-gemmological 1
+gemmological 2
 gemmologist 1
 goalkeeping
 grocers
@@ -4132,7 +4132,7 @@ galagala 1
 gnathopod 1
 gosmore
 glotum 2
-gatchwork 3
+gatchwork 4
 greying 2
 ges
 geod 1
@@ -5462,7 +5462,7 @@ gablet 2
 ganoids 3
 gimmer 3
 gentlemen
-goodyera 3
+goodyera 4
 goldilocks 3
 glisten
 glimmery
@@ -7907,7 +7907,7 @@ gratinated 1
 giglots 2
 grammatite 2
 gumbo
-gelatification
+gelatification 1
 gramme 1
 ginned 1
 groggiest 2

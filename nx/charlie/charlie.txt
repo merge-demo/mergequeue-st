@@ -844,7 +844,7 @@ clydesdale
 chidingness
 cainian 2
 cainish 1
-copepod 1
+copepod 2
 contaminated
 carburation
 cainite
@@ -3851,7 +3851,7 @@ chrisma
 carbomethene 2
 carbomethoxy 1
 carbomethoxyl
-carbon
+carbon 1
 carbonaceous
 cuter
 cleavability
@@ -11774,7 +11774,7 @@ cucurbitaceae 2
 chondromatous
 chondromyces
 cissoids
-chukkas
+chukkas 1
 chondromyxosarcoma 1
 chondromucoid
 chondropharyngeus
@@ -15438,7 +15438,7 @@ cleaved 1
 clarinet 2
 clarinetist
 conditione 1
-comether
+comether 1
 clarinetists 1
 cadillac
 canvases 1
@@ -21117,7 +21117,7 @@ coercions
 coffinmaker 1
 conaxial
 culminated 1
-concamerated
+concamerated 1
 christeners
 cuckoopint
 crunchers 2
@@ -21972,7 +21972,7 @@ cutidure
 coinsurable 1
 clinohedrite 1
 configurating
-configuration
+configuration 1
 configurationally
 calycule 2
 configurations 1
@@ -30663,7 +30663,7 @@ coequation
 collenchymatic
 cuda 1
 chimalakwe 1
-circumtabular
+circumtabular 1
 chanelled
 caterwauls
 cudbear
