@@ -3548,7 +3548,7 @@ captaincy
 captaincies
 caprioled
 captainry
-captainship
+captainship 1
 counterpetition
 communistically 2
 chaotically 1
@@ -9019,7 +9019,7 @@ camisoles
 charlet
 cryoscope 3
 costotomies
-charlocks 1
+charlocks 2
 cobberer 1
 charm 1
 charmed 1
@@ -11852,7 +11852,7 @@ choppier 1
 cados 2
 choppiest 2
 choppiness
-cowpuncher 2
+cowpuncher 3
 clancular 1
 chopstick
 chopsticks
@@ -18894,7 +18894,7 @@ colitic
 colitises
 colyum
 calcographer 1
-climbs
+climbs 1
 coliuria 1
 contemporary 1
 colla
@@ -24157,7 +24157,7 @@ claybrained
 coenzymes
 conveth
 convex 1
-convexedness 2
+convexedness 3
 chippage 1
 cryptoanalytic
 calcific
