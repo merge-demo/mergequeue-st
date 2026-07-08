@@ -3786,7 +3786,7 @@ carbaryls
 captress
 ciconia 1
 chloroethylene 1
-carbazic
+carbazic 1
 carbazylic
 chlorpikrin 1
 cheerios
@@ -20788,7 +20788,7 @@ coenesthesis
 coalyard
 conite
 complimental 1
-complimentally
+complimentally 1
 complimentarily
 cocotte
 complimentariness 1
@@ -29382,7 +29382,7 @@ cryptos 3
 cryptoscope 2
 cryptoscopy 1
 cryptosplenetic
-cavaedium 1
+cavaedium 2
 cryptostome
 cryptous
 cryptovalence 2
