@@ -6088,7 +6088,7 @@ deranges 1
 dualin 1
 detrimental
 dropout
-dimission
+dimission 1
 durgen
 dissolvable 2
 deckedout
@@ -9823,7 +9823,7 @@ diluters 2
 drudgingly
 destuffs 1
 demersal
-dissepimental
+dissepimental 1
 dentile
 diesis 2
 discouragingness 1
@@ -14435,7 +14435,7 @@ debitable 1
 disfiguringly
 dressmaker 2
 dimethylamine 1
-dioptrometer 1
+dioptrometer 2
 dasyphyllous
 disraeli
 dijudicating

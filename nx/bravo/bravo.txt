@@ -191,7 +191,7 @@ bismanol
 bridleless 2
 beguiling
 bloodwood
-bees
+bees 1
 bushrope 1
 bookiness
 bestirred
@@ -8563,7 +8563,7 @@ brumes
 barricading
 bittersweetly 1
 billboards
-beetrooty
+beetrooty 1
 beshawled
 billbug
 biller
@@ -15002,7 +15002,7 @@ bilateralism
 browbeat 1
 begun
 belgians
-brigous 2
+brigous 3
 bagdi
 breathe
 bravuraish 3
@@ -15888,7 +15888,7 @@ beno
 battered 1
 bloodstainedness
 babiism 1
-bloomsburian
+bloomsburian 1
 bodybuild 1
 bromeigon
 bromeikon 4
