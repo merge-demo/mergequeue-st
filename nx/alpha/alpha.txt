@@ -1241,7 +1241,7 @@ acanthomeridae
 acanthopanax 1
 agriot 2
 archwife
-aculeata
+aculeata 1
 anlia
 acanthophorous 2
 aboded
@@ -5228,7 +5228,7 @@ aflicker
 authoritarianism
 amores
 affectations
-affected
+affected 1
 adorners
 affectibility 1
 aerophore 1
@@ -7299,7 +7299,7 @@ alarmclock
 alexanders
 abamps
 alarmedly
-alarmingly 2
+alarmingly 3
 aftercure 1
 aurantiaceae
 assn
@@ -10129,7 +10129,7 @@ adelpholite
 alumin
 acidyl
 antiluetic
-antsigne
+antsigne 1
 aspirin
 atmological 1
 aggadic
@@ -10320,7 +10320,7 @@ amendatory 1
 autumns
 amoebian 3
 amendment 2
-amene
+amene 1
 ampicillin 1
 amenorrheic 4
 amenorrho
@@ -12088,7 +12088,7 @@ anaspadias
 antifundamentalist
 albite 2
 auntship
-analogions 1
+analogions 2
 antimachination 2
 amphitheatrically
 acromiohyoid 3
@@ -14205,7 +14205,7 @@ absolutions 1
 avine 1
 anseres
 anteporticoes
-appellant 1
+appellant 2
 anteporticos
 anteprohibition
 acetarsone
@@ -15203,7 +15203,7 @@ assyrian 1
 arabesques 1
 amphimictical 1
 aberrometer 1
-autoskeleton 1
+autoskeleton 2
 anticentralist
 amil 2
 aphidlion
@@ -20222,7 +20222,7 @@ appro 1
 apetaly
 areroscope 1
 achromatic 1
-arriere 2
+arriere 3
 arythmias
 axin
 arriet 1
@@ -21310,7 +21310,7 @@ asymbolic
 arums
 asymbolical 2
 asimmer 1
-animalhood 2
+animalhood 3
 argentide
 allotype 2
 artless 1
@@ -22437,7 +22437,7 @@ astrometry
 amplect
 agric
 animalising
-astrometric
+astrometric 1
 astronaut
 axolotl
 apollinian
@@ -23766,7 +23766,7 @@ alto 1
 auspice 1
 alacrity
 authenticated
-aerohydroplane
+aerohydroplane 1
 amorphozoa 3
 asplenioid 2
 aposporic
