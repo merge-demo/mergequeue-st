@@ -5534,7 +5534,7 @@ dependabilities 1
 dibber 1
 dustfall
 draftable
-depended 1
+depended 2
 descends
 darker 1
 dolichopellic 1
@@ -6088,7 +6088,7 @@ deranges 1
 dualin 1
 detrimental
 dropout
-dimission
+dimission 1
 durgen
 dissolvable 2
 deckedout
@@ -6843,7 +6843,7 @@ disproportionalness
 draughted
 drawgear 1
 dupla 2
-desmoncus 1
+desmoncus 2
 decolonize
 dissention 1
 danknesses
@@ -9768,7 +9768,7 @@ deluce
 dilettantism
 diligence
 diligences 1
-diligent 1
+diligent 2
 dawen
 dilis
 dillenia
@@ -11412,7 +11412,7 @@ duroc
 degumming
 draconis 2
 desertless 1
-disfeaturement 1
+disfeaturement 2
 dubiety 2
 diverted
 discobolos
@@ -17917,7 +17917,7 @@ distritbute
 durgan 1
 dinks 3
 dayflowers 1
-docible 1
+docible 2
 duellist
 diplomata 1
 dillydallies
