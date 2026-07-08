@@ -2831,7 +2831,7 @@ beclap 2
 barothermograph
 bowelling 2
 barotrauma 1
-bulgurs
+bulgurs 1
 bravest 2
 barotraumas 1
 barotropic
@@ -6861,7 +6861,7 @@ balthasar
 beggarman 1
 biliverdic 1
 botchers 1
-bescutcheon 2
+bescutcheon 3
 bondservant 3
 basalia
 beseam
@@ -12517,7 +12517,7 @@ buxomest 1
 becarpeting
 broadness 1
 broncholith
-bilberries
+bilberries 1
 boneshaker
 bridesman 1
 bidets 1
@@ -13386,7 +13386,7 @@ bimillenniums 1
 buffoonery 2
 bare 2
 boondoggler
-buckety
+buckety 1
 boundlessness 3
 blasted
 backshift
@@ -15850,7 +15850,7 @@ barding 1
 bushfighter
 brainwash 1
 belittled 1
-battiks
+battiks 1
 broletti 1
 bi
 broletto 1
