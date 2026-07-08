@@ -1172,7 +1172,7 @@ bridgeway 1
 bigbloom 2
 bedsteads 1
 ballasting
-balladized 2
+balladized 3
 baiza
 bespin 1
 beseech
@@ -1528,7 +1528,7 @@ bartree 1
 battled
 burlers 2
 bronchopleurisy 1
-blowiest
+blowiest 1
 brakemaking 1
 balladist 1
 batrachophagous 1
@@ -3628,7 +3628,7 @@ bazigar 1
 babas 1
 bridelace
 bathukolpian
-bathvillite 2
+bathvillite 3
 baglike 2
 bookmobile 1
 besought 1
@@ -7342,7 +7342,7 @@ burritos
 becumber 1
 beryl 1
 blinky
-brasilia
+brasilia 1
 bailiery
 bassness 1
 bookmaker 1
@@ -14851,7 +14851,7 @@ breachful 1
 briefcases
 breadbasket
 becroak
-backstretch
+backstretch 1
 buckles
 brazilian
 bewailing
