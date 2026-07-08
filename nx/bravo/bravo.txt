@@ -1074,7 +1074,7 @@ brachycephalization 1
 brasswork 1
 bailiwicks
 bolete 1
-bondmen 2
+bondmen 3
 babyhouse
 blousier 2
 buzzards 3
@@ -15316,7 +15316,7 @@ brideweed
 bahiaite 1
 biochemics 2
 bosk
-bullying 2
+bullying 3
 belles
 bastian
 bridewell
@@ -17298,7 +17298,7 @@ boniest
 bauxite
 bantams
 bummel
-bummie
+bummie 1
 bursal
 bumming
 basilweed
