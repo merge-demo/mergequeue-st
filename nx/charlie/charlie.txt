@@ -8280,7 +8280,7 @@ chantress
 courtyard
 coonskin
 complexity
-carbure 2
+carbure 3
 crestfallen
 corallet
 choyroot 3
@@ -15126,7 +15126,7 @@ cladonioid
 catalyst
 cladophora 1
 cladophoraceous
-cladoptosis 1
+cladoptosis 2
 copilots 1
 cladose
 cyder 1
@@ -17314,7 +17314,7 @@ cadis
 coarsely 2
 cranched 1
 calmness
-coarsened
+coarsened 1
 circumsail
 coarseness
 canonizations
@@ -17557,7 +17557,7 @@ cutikin
 cloddishly 1
 coccidian
 centimos
-cystolithectomy
+cystolithectomy 1
 coccidiidea
 corticotropin
 coccydynia 1
@@ -31672,7 +31672,7 @@ coth
 cushiness 1
 cushing 2
 cosmical
-cushion
+cushion 1
 cushioned
 cushionet 1
 cushionflower
