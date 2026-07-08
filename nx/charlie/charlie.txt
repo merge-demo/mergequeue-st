@@ -187,7 +187,7 @@ cabotin
 cabotinage 1
 cherishing
 caliculi
-cabre
+cabre 1
 chicadee 1
 catproof
 chutzpas
@@ -2256,7 +2256,7 @@ cerebrotomy 1
 camshach 3
 counterproductiveness
 camshachle
-countershear 1
+countershear 2
 camshafts
 camstane 2
 coneine 1
@@ -3866,7 +3866,7 @@ combings
 chudders 1
 carbonators
 cenobe
-chapeaux 1
+chapeaux 2
 carbondale
 coinsure
 contemplates
@@ -5005,7 +5005,7 @@ cassettes
 cartouche
 curmudgeon
 cust
-costrel
+costrel 1
 chiclero 1
 canalman
 cryptovolcanic
@@ -5075,7 +5075,7 @@ carvoeira 1
 carvoepra
 carwash
 clamatorial
-carwashes
+carwashes 1
 chider
 carzey
 casablanca
@@ -10890,7 +10890,7 @@ cariacine
 chipwood 1
 chiquito 1
 clavate
-chiral
+chiral 1
 clerids
 cardstock
 contortioned 1
@@ -11831,7 +11831,7 @@ consentant
 chopa
 chalcids
 contradictories
-catechisms 1
+catechisms 2
 chopdar
 cyprinoidea
 connation
@@ -13258,7 +13258,7 @@ comstock
 casa
 cyclograph
 cerises
-coadapt 1
+coadapt 2
 cyclohexadienyl 1
 cashoos
 crossrow 2
@@ -14039,7 +14039,7 @@ cypridina 1
 caucasoid
 contraregular
 cyprinid 1
-cheiromancy 1
+cheiromancy 2
 cyprinids
 cypriniform 2
 cauline
@@ -14618,7 +14618,7 @@ cystoma
 cystomas 1
 corpusculum 1
 cystometer 2
-cystomyoma
+cystomyoma 1
 coadore 1
 casterless 2
 cystomyxoma
@@ -21847,7 +21847,7 @@ cronstedtite
 connivery 1
 cuchulainn
 claithes
-confabulator
+confabulator 1
 cassian 1
 cytopharynges
 calypter 1
@@ -22637,7 +22637,7 @@ cringer
 connexure
 crumbier 1
 connexus
-cosuggestion
+cosuggestion 1
 comperes
 clamjamphrie
 chinles 1
@@ -23978,7 +23978,7 @@ chukkars
 convective
 costoscapular
 clods
-chromatograph
+chromatograph 1
 counterpoises 1
 claquers 2
 carpetbagged 1
@@ -27264,7 +27264,7 @@ commanders
 cardhouse
 crossfall 2
 countrieman 1
-chorioiditis
+chorioiditis 1
 cavillingly 3
 coenoblast 1
 countries
@@ -29565,7 +29565,7 @@ critiqued 1
 critize
 cosmic
 caball 1
-critling
+critling 1
 crittur 1
 cardiokinetic 1
 consular
@@ -30774,7 +30774,7 @@ cujam 2
 cuke 1
 commissural
 culavamsa
-coxcombicality
+coxcombicality 1
 chryslers
 counterintrigue 1
 cangle
@@ -31044,7 +31044,7 @@ crewe 1
 cohob
 cumol
 centiliters
-cicala 1
+cicala 2
 cheilanthes
 chainage
 calescence
