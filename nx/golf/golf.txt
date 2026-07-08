@@ -844,7 +844,7 @@ glutinous
 gymnoblastic 2
 gastrocoel 1
 gilberts
-greensick
+greensick 1
 gamboling
 glareolidae 4
 geonim 1
@@ -1961,7 +1961,7 @@ gams
 glyptical
 gaurian
 gravitation 4
-gasting 3
+gasting 4
 gaurs
 gravitative 4
 glamourous
@@ -7434,7 +7434,7 @@ goosefoot 2
 giga
 granduncle
 gnatproof
-galvayned
+galvayned 1
 geylies
 gotra 1
 gemses
@@ -9046,7 +9046,7 @@ groomer 1
 grillee 1
 golem 1
 gramashes 2
-granatum 2
+granatum 3
 geomorphogenist 1
 gorhens 3
 gastroenterologic 1
@@ -10056,7 +10056,7 @@ gumshoed 4
 gonomere 1
 gorgerin 2
 gonk 1
-gigabits 2
+gigabits 3
 gibblegable 1
 gossampine 3
 guerrillas 2
@@ -10079,7 +10079,7 @@ griddle 1
 gibsons 1
 galahs 3
 gastropods
-garrulus
+garrulus 1
 ghostwrote 2
 galactodensimeter 1
 gelatinised 2
