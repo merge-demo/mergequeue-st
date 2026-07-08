@@ -2160,7 +2160,7 @@ eld
 epimeritic 1
 effiguration 1
 expressed 2
-ethynes
+ethynes 1
 ejective 4
 eyedropperful 1
 environmentalists 1
@@ -2563,7 +2563,7 @@ engraftation 1
 exclaimed
 ecad 1
 econometric 1
-encyclopaedian
+encyclopaedian 1
 electrodiagnoses 1
 entrenched
 ethylhydrocupreine 2
@@ -3618,7 +3618,7 @@ embraid
 emotions 1
 embrail
 empowers 1
-exactiveness
+exactiveness 1
 embranchment 2
 ellick 2
 enriching
@@ -6498,7 +6498,7 @@ entail
 entomophthora 2
 exponentials 1
 endurant 3
-ended 3
+ended 4
 eroticize 3
 endotrachelitis 1
 ehlite 1
@@ -6710,7 +6710,7 @@ eleomargaric 1
 ediface 1
 extrinsical 1
 enthusiasms
-elaborator 1
+elaborator 2
 entrechat 2
 endoceratitic
 enthusiastically 2
@@ -8694,7 +8694,7 @@ epigaeous 1
 endite 3
 extradicting 1
 eriophyllous 1
-excrementary
+excrementary 1
 esculapian 2
 emulsifies
 employee
@@ -13114,7 +13114,7 @@ exstemporaneous
 epidermose
 elijah 1
 endromididae 1
-epidermomycosis 1
+epidermomycosis 2
 erasement
 expergefaction 1
 epopoeias 1
@@ -13634,7 +13634,7 @@ electropyrometer
 expulsory 2
 ectad 1
 exiledom 2
-extemporary
+extemporary 1
 extemporisation 1
 ewing
 extraspinal
