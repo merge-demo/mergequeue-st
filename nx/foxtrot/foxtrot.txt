@@ -4853,7 +4853,7 @@ fickleness 2
 flagstick 2
 flagworm 1
 fandangle 2
-fissirostrate 1
+fissirostrate 2
 feramorz 1
 fittedness 2
 florida
@@ -8404,7 +8404,7 @@ foveolated 1
 fireboard
 faradmeter 1
 fotched
-frontenis
+frontenis 1
 fightable 1
 forking
 flaveria 2
@@ -11558,7 +11558,7 @@ fledgy 1
 folio 3
 fretfully
 ferociousness
-fungals 1
+fungals 2
 footlessly 1
 fusil 1
 frictionized
@@ -11660,7 +11660,7 @@ fanion 1
 filoselle 3
 foretalking
 forcingly 2
-farasula 1
+farasula 2
 fut 1
 futhorc 1
 fillowite
