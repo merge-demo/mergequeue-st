@@ -2967,7 +2967,7 @@ coation
 clip 1
 cantharidian
 cantharidize
-cantharidized
+cantharidized 1
 cantharus
 chank
 carabini
@@ -16536,7 +16536,7 @@ carreton
 cleistothecia
 chondrolipoma
 cloisonless 1
-chancering 1
+chancering 2
 clammish 1
 cloisonn
 cloisonne
@@ -18514,7 +18514,7 @@ cohibition
 chinks
 cohibitor 1
 cohitre 2
-chandlering
+chandlering 1
 collieries
 cohobator 1
 choushes 1
