@@ -1311,7 +1311,7 @@ diastaltic 1
 decoloured 2
 daubreite 1
 degaussing 2
-dobsons 1
+dobsons 2
 dinitro 1
 densified 1
 dryermen
@@ -18557,7 +18557,7 @@ duny
 deraignment
 disharmonizing 2
 deviltries
-denuding
+denuding 1
 dourahs 1
 debars 1
 duros
