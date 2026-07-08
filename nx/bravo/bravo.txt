@@ -4006,7 +4006,7 @@ beslur 2
 bonyfish 2
 believer
 beacons 1
-buoyancy 3
+buoyancy 4
 beadeye 2
 beader
 bellmaker 1
@@ -5300,7 +5300,7 @@ beforested 1
 breathlessness
 biscuitmaker 1
 bezzants
-bipinnate
+bipinnate 1
 bugbite
 beginning 2
 bemirement 1
@@ -17329,7 +17329,7 @@ brasser
 bucoliast 1
 bunchy
 bunchier 1
-bunchily 1
+bunchily 2
 bunchiness 1
 buncoing
 berthing
