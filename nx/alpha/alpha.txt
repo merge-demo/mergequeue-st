@@ -1659,7 +1659,7 @@ alist
 alliably
 anticonscriptive
 arsinoitherium
-argyrosis
+argyrosis 1
 arricci 3
 accrescendo
 accretal
@@ -6782,7 +6782,7 @@ aglaia 1
 ainus
 ayont
 anterodorsal 1
-antemetic
+antemetic 1
 ardour 1
 agribusiness 1
 antiglare
@@ -7040,7 +7040,7 @@ anoure
 aniseeds
 appreciatorily
 annomination
-arcae 1
+arcae 2
 ajava 1
 antipatharian
 antisemitism
@@ -8044,7 +8044,7 @@ acrimoniousness 1
 apatite
 acromiothoracic
 anemometry
-alexandrian 1
+alexandrian 2
 automonstration 1
 alexandrina 1
 anticholinesterase
@@ -8285,7 +8285,7 @@ acceleratory
 antitheological 1
 agouties 1
 acetylacetone 1
-ancylodactyla
+ancylodactyla 1
 antichristian 1
 argumentum
 ariettas 1
@@ -11448,7 +11448,7 @@ accurate
 amoibite 2
 antiplenist 1
 admirers 1
-airlight 1
+airlight 2
 abody
 amps 1
 assigner
@@ -12808,7 +12808,7 @@ anileness
 angiocarpic
 angiocarpous
 anaunter
-apardon
+apardon 1
 aubergine
 angiodermatitis 1
 angiodiascopy
@@ -13025,7 +13025,7 @@ assimilable 1
 athelings
 alkalisable 1
 angareeb
-apolitically
+apolitically 1
 apologist 1
 afar 1
 angulous 1
@@ -13136,7 +13136,7 @@ ayahs 1
 anilines
 athabascan 2
 acantholimon 1
-anilinism
+anilinism 1
 ajar
 aeolsklavier 1
 apomorphin
@@ -14851,7 +14851,7 @@ antichreses 1
 antichrist
 antichristianism
 aforetime 1
-anglicisms 1
+anglicisms 2
 ascomycetes
 antepagmenta
 aiwain 3
@@ -16603,7 +16603,7 @@ abiogenesis 1
 acolytes
 avifaunally 1
 antiperistatical
-apatetic
+apatetic 1
 agrimonies
 ay 1
 allelvia 1
@@ -20356,7 +20356,7 @@ anaphalantiasis 1
 asahel 1
 antesignani 1
 arsenopyrite
-aeolotropy
+aeolotropy 1
 arsenostyracol 1
 arthritically
 aldermanlike 1
@@ -20997,7 +20997,7 @@ ascertain 2
 accomplishable 1
 ascertainably
 ascertaining
-ametoecious
+ametoecious 1
 ascertains 1
 ascendant 1
 arthropterous
@@ -24342,7 +24342,7 @@ archprophet
 abaters
 autoptically
 aeromancy
-attractionally 2
+attractionally 3
 alpinists
 adjurors 1
 aquaducts 1
@@ -24637,7 +24637,7 @@ arecolidin 2
 abnegative
 arab
 aeraria 2
-ascebc 2
+ascebc 3
 actinophore
 amyraldism
 alloxuric
