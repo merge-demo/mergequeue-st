@@ -6513,7 +6513,7 @@ beghard
 bejabbers 1
 bepuffed
 bopyrus
-beetleheaded 1
+beetleheaded 2
 bequalm 1
 bequeathed 1
 bruges 1
@@ -7465,7 +7465,7 @@ bitterest 1
 bayadeers
 baulks
 bettor
-bullfighter
+bullfighter 1
 barbaric 1
 blackmailer
 bibulous 1
@@ -10345,7 +10345,7 @@ buxomness
 bottomried 1
 billot
 bounderish
-buffability 2
+buffability 3
 bamboozlers
 binarium
 boil 2
@@ -11244,7 +11244,7 @@ bletia
 bisilicate
 blotty 2
 buckets
-bromate 1
+bromate 2
 barmskin 1
 bopyridae 3
 blottier
