@@ -17433,7 +17433,7 @@ brasset 1
 bunkering 1
 blackouts 1
 bunkermen 1
-bunkers
+bunkers 1
 babel
 bronchiolus
 beard 3
