@@ -12571,7 +12571,7 @@ enchained 2
 extant 4
 epistemological 3
 embezzle 2
-exit
+exit 1
 encrypted 1
 exsects 1
 exite 1
@@ -14139,7 +14139,7 @@ extensory 2
 episcopates 1
 ebonizing 1
 ephemerality 1
-enseraph 1
+enseraph 2
 enplanement
 enlard 2
 entocuneiform 1
