@@ -868,7 +868,7 @@ discardable
 disprovement
 delesseria 1
 developability 2
-dorsoradial 3
+dorsoradial 4
 dannebrog 1
 diactinism
 detraque
@@ -2614,7 +2614,7 @@ decoll 1
 dossety 1
 deguelia 2
 dumbcow
-dispensaries
+dispensaries 1
 decolletage 1
 discontinues 3
 dronel 1
@@ -3767,7 +3767,7 @@ deice 1
 donning
 disseizoress
 defibrillation 1
-deicers
+deicers 1
 doctordom
 defacingly
 deicides
@@ -7612,7 +7612,7 @@ dancingly 1
 devastation 1
 disabler
 disquiparant 1
-drapping 4
+drapping 5
 devata
 devaul 1
 deoxygenating
@@ -8357,7 +8357,7 @@ disgruntles 1
 diminutal 1
 deplanes 1
 dialysable
-dorobo
+dorobo 1
 dahabiahs
 deaconess 1
 dinitrophenylhydrazine 2
@@ -8430,7 +8430,7 @@ devotionalist 1
 dorsiventrally
 ds
 degreed 1
-diamagnet
+diamagnet 1
 diamagnetism 1
 dredging
 ditrochee
@@ -10997,7 +10997,7 @@ dieselized 1
 degusts 1
 disclosable 1
 dhoti 1
-dumfound
+dumfound 1
 divides 2
 deanthropomorphic 1
 disambiguating 1
@@ -11160,7 +11160,7 @@ dogmatized 1
 disbenched 1
 disbenching 1
 dispunitive 2
-dribblet
+dribblet 1
 decarbonylation
 doxologically 1
 dispair
@@ -11443,7 +11443,7 @@ discoideae
 despatchers 3
 debriding 1
 devisings
-decencies 1
+decencies 2
 dionysiacal
 discoloration
 discolorations 1
@@ -13230,7 +13230,7 @@ diapensiaceae 2
 dorsocephalad 1
 disconcertment 1
 disablement
-dyspnoeal 1
+dyspnoeal 2
 deserveless
 droopily 1
 demothball
@@ -14592,7 +14592,7 @@ disastrousness 1
 dysfunction 1
 damourite 1
 divorcible 1
-diminue 1
+diminue 2
 dropheads
 demosthenic
 developmentary
@@ -15127,7 +15127,7 @@ demiofficial
 dactylitic
 dysplastic
 doing 2
-discopodous
+discopodous 1
 dotish 1
 doitkin 2
 dojigger 1
@@ -17109,7 +17109,7 @@ dipsos
 dowily 2
 dimensional
 delineament
-disaffected
+disaffected 1
 driddle 1
 didle
 droukan
