@@ -2068,7 +2068,7 @@ colonial
 camoudie
 coburgess
 camouflage 1
-camouflageable
+camouflageable 1
 camouflager 1
 contradictorily
 camouflagers 1
@@ -16623,7 +16623,7 @@ couturier
 compania
 confining 1
 cantref
-cloque
+cloque 1
 cloques 1
 cathodically 1
 cimaroon
@@ -22669,7 +22669,7 @@ ceratitoid
 connotations
 connotative 1
 connotatively
-counterextend
+counterextend 1
 connote 1
 crymotherapy
 connoted
@@ -26448,7 +26448,7 @@ criminalist 3
 cotylosacral 1
 cotylosaur
 coinferring 1
-cotylosaurian
+cotylosaurian 1
 connu
 cuprein
 cotingoid 2
