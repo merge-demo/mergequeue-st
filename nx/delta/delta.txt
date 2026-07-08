@@ -6282,7 +6282,7 @@ dermatoses
 dermatosiophobia
 depurated
 dermatozoon
-deadens
+deadens 1
 dermatozoonosis 1
 deutzias 1
 dryophyllum
@@ -8331,7 +8331,7 @@ disincline 1
 duchies
 decemfoliolate 1
 dialed
-depredation
+depredation 1
 disvouch 3
 decalobate 1
 decontrolled
