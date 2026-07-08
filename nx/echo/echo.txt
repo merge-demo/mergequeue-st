@@ -824,7 +824,7 @@ epop
 exulate 1
 eloine 1
 ectiris
-etamines
+etamines 1
 ectocarpus
 eriophorum 1
 eosinophil 1
@@ -3690,7 +3690,7 @@ embryologist 1
 entify 2
 embryonic 2
 erythromycin 1
-expectant 1
+expectant 2
 elec 2
 extratellurian 1
 eluates 1
@@ -4481,7 +4481,7 @@ entalent 3
 eery
 ectotheca 3
 erucin 3
-encephalomyocarditis
+encephalomyocarditis 1
 emancipate 1
 enactive 1
 emerita 1
@@ -8762,7 +8762,7 @@ epistolise 2
 enwheels 1
 etherized
 eurylaimi
-extime
+extime 1
 enterozoan
 el 2
 emulative 2
@@ -10944,7 +10944,7 @@ eupittone
 enteritis 1
 exams 3
 eventognathi
-eyebeams 1
+eyebeams 2
 eupittonic
 euplexoptera 1
 err 2
@@ -13284,7 +13284,7 @@ explicates
 euglenoidina
 eyewitness 1
 eriodendron 3
-endotoxoid
+endotoxoid 1
 evangelicism 4
 ectocuneiform
 epitheliomata
