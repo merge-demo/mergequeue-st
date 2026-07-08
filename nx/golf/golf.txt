@@ -513,7 +513,7 @@ germproof 1
 geeldikkop 1
 galipoidin 3
 guzzles 2
-galleins
+galleins 1
 getters 1
 galler 1
 grandsirs 1
@@ -1681,7 +1681,7 @@ grooved
 gluttery 2
 glaciation 1
 gloated 1
-glaucin 2
+glaucin 3
 gussie 1
 goblinish 3
 gnarlier 1
@@ -3775,7 +3775,7 @@ gonapophysal 1
 grasps 2
 gentlemanhood
 gruf 1
-gonadal
+gonadal 1
 gryphons 2
 greave
 gawkishness 1
@@ -7397,7 +7397,7 @@ gestor
 glomerule 1
 gilthead 1
 glyptograph 1
-ganglioneuroma
+ganglioneuroma 1
 gallach 1
 gynostemia 3
 groupable 3
