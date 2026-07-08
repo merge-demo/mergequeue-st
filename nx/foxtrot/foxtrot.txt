@@ -6059,7 +6059,7 @@ fertilize 1
 flagrantness 2
 frizz 1
 flunkeyize 1
-farting 2
+farting 3
 fungiform
 fenceful 2
 freebooted 1
@@ -6240,7 +6240,7 @@ fiji 1
 freightliner
 forerunnership 2
 factotums 1
-farmerish
+farmerish 1
 felloes 1
 freewheelers 3
 farmtown 2
@@ -6611,7 +6611,7 @@ fogey
 foulbrood
 felicitators 1
 femalize
-focalizes
+focalizes 1
 forwrap
 forgave 2
 formulaically
@@ -10823,7 +10823,7 @@ footpads 2
 farmerette 2
 fuchsian
 fort 1
-fructificative
+fructificative 1
 floundered 2
 fuchsine 1
 flustra 2
@@ -11236,7 +11236,7 @@ foreday 1
 farsang 2
 furzed 1
 funiculars
-funiform
+funiform 1
 fanum 3
 fount
 flashcubes
