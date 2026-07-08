@@ -5921,7 +5921,7 @@ folliculosis 2
 frostbites 3
 flogs 1
 fermis
-floyd 1
+floyd 2
 foeticidal 1
 fluviovolcanic 2
 flybane 3
@@ -6249,7 +6249,7 @@ firnismalerei
 friendlike 2
 frankeniaceous 2
 fecit 3
-flamefish
+flamefish 1
 fluoarsenate 3
 fissuring
 ferromagnet 2
@@ -6819,7 +6819,7 @@ freelancer 4
 folderols 2
 foreheater 1
 foreleader
-foveiform 3
+foveiform 4
 fjelds 1
 frette
 fiddlebrained 3
