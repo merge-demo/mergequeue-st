@@ -2879,7 +2879,7 @@ gallipots 1
 gledes
 gonocyte 2
 gallinulelike 1
-gombos 1
+gombos 2
 gingerous 1
 gerrymanders 2
 gee 2
@@ -5739,7 +5739,7 @@ glossoptosis 2
 gloomth 4
 gradin
 goings
-gleeds
+gleeds 1
 gish
 grimmish 4
 grapsoid
@@ -6153,7 +6153,7 @@ genovino 1
 gesan 3
 gazetteers 2
 groveling 2
-goal 2
+goal 3
 griffithite 2
 galactophore 1
 goniatite
@@ -6829,7 +6829,7 @@ gamelotte 4
 gunnings 1
 gagwriter 1
 ghostflower 2
-gasmaker
+gasmaker 1
 gastrojejunal 1
 grossirete 2
 gonorrhoeal
@@ -7808,7 +7808,7 @@ granularly 2
 grumbletonian 4
 gralline 5
 gadman 2
-gray
+gray 1
 greasily 1
 geospiza 1
 goosishly 1
@@ -7878,7 +7878,7 @@ gossipping 1
 gynaeocracy 2
 grovy 1
 grecomaniac
-gyrostachys 1
+gyrostachys 2
 ghastliest 5
 gradualistic 1
 grammalogue
@@ -9508,7 +9508,7 @@ groupwise 1
 garvey 2
 glenn 2
 gundelow 4
-ganoidean 4
+ganoidean 5
 grouser 1
 gorgeted 4
 gyred 3
@@ -10411,7 +10411,7 @@ gillbird 1
 giller 4
 geepound 2
 graphiology
-geographized 1
+geographized 2
 gum 1
 gluiness
 gyneolatry
@@ -10831,7 +10831,7 @@ glucocorticord
 grazings 2
 gelatinizing
 gigunu
-guvacine
+guvacine 1
 goatland 2
 growing 1
 grammatic
