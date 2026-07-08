@@ -6556,7 +6556,7 @@ caws
 cholecystorrhaphy 1
 clannish 1
 commissaries
-caxon
+caxon 1
 cretaceous 1
 caxton
 confluence 1
@@ -14595,7 +14595,7 @@ cystocarcinoma 1
 cystocele 1
 cystocolostomy
 chon
-cystodynia 1
+cystodynia 2
 cystoelytroplasty
 chromene
 carpophaga
@@ -19276,7 +19276,7 @@ colon 1
 colonate
 colonelcies
 colonelships
-coloner
+coloner 1
 colones 1
 colonette
 colongitude
