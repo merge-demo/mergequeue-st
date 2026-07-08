@@ -7104,7 +7104,7 @@ forgeability 1
 foolproof 1
 felty 2
 foolproofness 3
-ferret
+ferret 1
 frocking
 flagger 2
 fanaticize
