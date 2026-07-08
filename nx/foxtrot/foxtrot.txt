@@ -268,7 +268,7 @@ firbolg
 fax 2
 flagarie 1
 fideism 1
-fissle 2
+fissle 3
 fledges 5
 fungoids 2
 fragmentisation 2
@@ -1050,7 +1050,7 @@ farreachingly
 flurr 2
 fingerprint 2
 fernleaf
-federates 1
+federates 2
 farrel 1
 figuresome 2
 flameproofer 2
@@ -1279,7 +1279,7 @@ fernambuck 2
 finality 2
 fibromata 1
 foreconsent 2
-feculency 3
+feculency 4
 fulvous 2
 flear
 flirtation
@@ -1777,7 +1777,7 @@ foreannounce
 fadingness 1
 filmiform 2
 femorococcygeal 2
-freewill 1
+freewill 2
 forfalt
 frumpy 2
 freckledness
@@ -2271,7 +2271,7 @@ florentinism 2
 fimble 2
 flatulence
 firebombed 2
-fumaria 1
+fumaria 2
 forshape 3
 full 2
 flavones 2
@@ -3024,7 +3024,7 @@ fortepiano 1
 flukily 1
 forasmuch
 foreman 1
-floodage
+floodage 1
 flogster 2
 fioriture
 fairyology
@@ -3288,7 +3288,7 @@ farsight 4
 fivescore 1
 fantasticly
 flounces 3
-fortier
+fortier 1
 fulgency 2
 finity 4
 factitious
@@ -3320,7 +3320,7 @@ flabbergastation 1
 fretfulness 2
 flexility
 fracted 2
-fidejussor 1
+fidejussor 2
 furfur
 fidelio
 fink 2
@@ -3958,7 +3958,7 @@ farcical
 follyproof 1
 fossil 1
 footsteps 1
-founders 3
+founders 4
 focalise 2
 forfends
 fingerer
@@ -4104,7 +4104,7 @@ flocculous 1
 formal 1
 forgery
 fatalness
-fissipedal 1
+fissipedal 2
 ferth 1
 fiendful
 feuilletons
@@ -4704,7 +4704,7 @@ fjord 3
 fizziest
 friand 1
 fluidram 1
-forte 2
+forte 3
 formula 2
 forefeels 3
 fucales 1
@@ -4881,7 +4881,7 @@ fetching 2
 factuality 1
 fabricational 1
 funks 1
-foldedly 2
+foldedly 3
 fibrinate 5
 fellage 1
 forbears 1
@@ -5248,7 +5248,7 @@ fratcher 2
 flavoriness
 falangist 1
 faveoli 2
-fulness 1
+fulness 2
 fitful 1
 fierceness
 fishmen 2
@@ -7601,7 +7601,7 @@ factual 3
 fandangos 2
 fleshquake 1
 ferrules
-foredefeated 6
+foredefeated 7
 frankheartedness 2
 fatuity 2
 footslogs 2
@@ -9658,7 +9658,7 @@ faon 1
 fabula 2
 firing
 flannelmouths 2
-featherbone
+featherbone 1
 foodlessness 1
 flytime 2
 forlet
@@ -11478,7 +11478,7 @@ ferntickle 1
 fin
 ferri
 foliolose 2
-freelancing 1
+freelancing 2
 figurational 2
 fevergum 2
 frowst
