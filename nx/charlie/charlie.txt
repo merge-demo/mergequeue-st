@@ -1086,7 +1086,7 @@ combs
 creeling
 calcicolous
 calcicosis
-collyrie 1
+collyrie 2
 calciferol 1
 calcified 1
 counterboycott 1
@@ -3548,7 +3548,7 @@ captaincy
 captaincies
 caprioled
 captainry
-captainship
+captainship 1
 counterpetition
 communistically 2
 chaotically 1
@@ -17132,7 +17132,7 @@ creek 1
 coaters
 churliest 1
 crescograph
-chummer
+chummer 1
 cryptogenetic
 coadunite 1
 coadventure
@@ -22870,7 +22870,7 @@ choremen
 cognateness
 clamourer
 consertion 1
-chemophysiological
+chemophysiological 1
 conservacy 1
 conservancy 1
 coutelle
