@@ -1478,7 +1478,7 @@ flocklike
 fient
 forebodingness 1
 forestology
-freebooters
+freebooters 1
 formamido 2
 fastens 3
 fermentatory
@@ -2534,7 +2534,7 @@ fiatconfirmatio 2
 fanam
 feeler 1
 frugivorous 2
-foal 1
+foal 2
 fibromembranous
 filamentule 2
 frangibility 1
@@ -4179,7 +4179,7 @@ fumiduct 1
 flagstones
 fado 1
 fairishness 2
-flickertail
+flickertail 1
 fishet 2
 fibrocaseous 2
 foliating 2
@@ -9163,7 +9163,7 @@ fastigiated 1
 floozies
 fr
 flintlike 1
-furdle 3
+furdle 4
 funambulated
 faulkner
 frizzers
@@ -10343,7 +10343,7 @@ fitten 1
 finary
 folksongs 1
 fanged
-fingerings 2
+fingerings 3
 fluormeter 3
 ferrates 1
 furculae 1
