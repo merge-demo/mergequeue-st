@@ -3553,7 +3553,7 @@ defusion 2
 deformalize 3
 dingles
 dermatotome 2
-drawbeam
+drawbeam 1
 dissheathe
 dehwar
 defuze 4
@@ -3714,7 +3714,7 @@ dasymeter
 deglutinate 1
 demarch
 depot
-domitic
+domitic 1
 delegated
 dehkan 2
 durmasts 1
@@ -5872,7 +5872,7 @@ dollmaking 1
 demagnetizer 1
 depressional 1
 dulia
-decortication 3
+decortication 4
 dotard
 dissipations
 dolerin 1
@@ -15412,7 +15412,7 @@ dines
 dominick
 dominies
 dominion 1
-dinkly
+dinkly 1
 discursativeness 1
 diplobacillus 1
 dominionism
@@ -18188,7 +18188,7 @@ duikerbuck 2
 dermographism
 disney 2
 dumple
-donators 2
+donators 3
 dive 1
 dishearten 2
 dissceptring
