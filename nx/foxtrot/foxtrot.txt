@@ -5000,7 +5000,7 @@ fledging 2
 factordom 3
 fribourg 2
 formals 3
-freelage 2
+freelage 3
 forego
 flankers
 foists 1
@@ -5276,7 +5276,7 @@ frostbird 1
 fockle 1
 fabricable 1
 fomenter 1
-ferricyanate
+ferricyanate 1
 feelinglessly
 fibrilation 2
 flawedness
@@ -7104,7 +7104,7 @@ forgeability 1
 foolproof 1
 felty 2
 foolproofness 3
-ferret
+ferret 1
 frocking
 flagger 2
 fanaticize
@@ -11428,7 +11428,7 @@ flocculose 2
 furniture
 flummoxing 2
 footlicking 3
-furl 1
+furl 2
 furodiazole
 feoff 3
 furomethyl
