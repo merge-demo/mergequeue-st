@@ -2097,7 +2097,7 @@ afrikander
 acharnement
 achatina
 achatinidae 1
-absorbing
+absorbing 1
 ache
 alkalinising
 artemisin
@@ -11512,7 +11512,7 @@ amula
 acridinic 2
 amulas 1
 archexorcist
-acone 1
+acone 2
 armaments 1
 aloemodin 3
 afterturn 1
@@ -13038,7 +13038,7 @@ auronal
 angustirostrate
 admirator
 anteriority
-angustifolious
+angustifolious 1
 angustisellate
 antispectroscopic 1
 accommodable
@@ -16440,7 +16440,7 @@ aurei
 alwise 2
 antonomastic 2
 antonomastical
-aminopurine 2
+aminopurine 3
 aerodontia
 awnless
 appendixing 1
