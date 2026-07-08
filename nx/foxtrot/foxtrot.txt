@@ -2581,7 +2581,7 @@ faddishness 2
 fishponds
 feinting 1
 fumes 1
-forechase 1
+forechase 2
 fogramity 1
 flongs 2
 ferrocyanate 1
@@ -5787,7 +5787,7 @@ fulfilling 1
 flurriedly 2
 faailk 1
 fluorocarbon 1
-faunated 2
+faunated 3
 foreheads
 fulgurant
 fribble
@@ -7014,7 +7014,7 @@ fruitwoman 2
 flexions
 fichtean 1
 filla 2
-frison 1
+frison 2
 fictionistic 1
 fusees 1
 fichtelite 1
@@ -7515,7 +7515,7 @@ fideos 1
 fleetest 1
 flether 2
 figurant
-faultily
+faultily 1
 fergus
 fellatah
 foisting 1
@@ -7557,7 +7557,7 @@ five
 filemaking 1
 ferroboron 2
 forespake
-fallacious 2
+fallacious 3
 foreboder
 fuzils
 flattops
@@ -9065,7 +9065,7 @@ filisters
 finish 2
 flimflammer 1
 fistle 2
-fragile 1
+fragile 2
 frotting 2
 fregatidae 1
 fooder 3
@@ -9519,7 +9519,7 @@ fyces 3
 flaws 2
 forearmed 1
 flatcap
-fand 1
+fand 2
 fohat 2
 fraudulent 2
 fraudulentness 1
@@ -10175,7 +10175,7 @@ falchions 5
 finalize
 fricatives
 fluid 3
-frivolousness 1
+frivolousness 2
 foray
 faunula
 felled 1
@@ -10692,7 +10692,7 @@ forenamed
 florican
 fundamental 3
 fidicinal
-foodstuffs 1
+foodstuffs 2
 fruitiness 2
 fieldworker
 fist 3
@@ -11465,7 +11465,7 @@ furcule 1
 foreshortened 4
 flaffer 1
 furfurylidene 2
-furrowy 1
+furrowy 2
 flap
 furrowing 1
 forletting
@@ -11726,7 +11726,7 @@ fashionably
 fratority 1
 futurologist 1
 fiddler 1
-fluorinations
+fluorinations 1
 feezes 2
 funebrous 1
 futurologists
