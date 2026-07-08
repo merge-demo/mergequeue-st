@@ -6203,7 +6203,7 @@ dermabrasion
 dithyramb
 drabness
 dipsades 1
-disbenchment
+disbenchment 1
 dactylopodite 3
 dermapterous
 dirgler
@@ -6599,7 +6599,7 @@ deselected
 depiction 1
 deadborn 1
 duddie
-dididae
+dididae 1
 desiccants 3
 dichotomised 3
 decretory
@@ -9393,7 +9393,7 @@ dipnoous
 deploring
 djinni 1
 duplicator 1
-diffusers 1
+diffusers 2
 diffuses 1
 dillis 1
 dimidiation 2
