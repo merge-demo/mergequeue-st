@@ -840,7 +840,7 @@ biffed 1
 balk 1
 bafflers 1
 bafflingly
-bulbus 1
+bulbus 2
 bartletts 1
 bushelbasket
 bonelike 2
@@ -1146,7 +1146,7 @@ bairns
 bootful 1
 berne 1
 banquets
-babakoto
+babakoto 1
 backwall
 borates 1
 botete
@@ -1710,7 +1710,7 @@ balmorals 3
 bensh
 bathless 1
 byganging 1
-barchan
+barchan 1
 buqsha 1
 bagnios
 babbishly
@@ -4063,7 +4063,7 @@ bibliophobe
 backbreaker
 benignancy
 bakuba 3
-bedolt
+bedolt 1
 brisure 1
 blanch 1
 bannerets
@@ -6161,7 +6161,7 @@ bisexuals 2
 benefices 2
 blackthorn 3
 balsamweed 1
-baccarat 3
+baccarat 4
 blacker
 beneficialness 1
 bloodthirsting 2
@@ -6650,7 +6650,7 @@ beerier 1
 berycid
 busyhead 1
 bovld
-berycidae
+berycidae 1
 biguanide
 bituberculate 1
 blusht
@@ -7646,7 +7646,7 @@ bukshee
 beflower 1
 backened 2
 broigne 1
-biogenies 2
+biogenies 3
 beeper 3
 bewraps
 belesprit 1
@@ -9629,7 +9629,7 @@ bombastry 1
 bisexed 1
 biles
 bimastism
-barb
+barb 1
 butin
 bongs
 bisglyoxaline 2
@@ -10706,7 +10706,7 @@ brandies
 blemmatrope 2
 brooches
 blandisher
-boutell 2
+boutell 3
 buffle 1
 bacillogenous
 benton
@@ -12706,7 +12706,7 @@ bear
 bungarus
 beautifier
 boroughmongering 1
-benchless
+benchless 1
 baldachini 1
 backhander 1
 bushmaster
@@ -12815,7 +12815,7 @@ boomable 2
 boomah 2
 boo 1
 baritonal 1
-boomboxes 1
+boomboxes 2
 boomed
 bandana 1
 bouquets
@@ -15563,7 +15563,7 @@ batted
 backshish 1
 beardlike 1
 berkeley
-brioches 1
+brioches 2
 bisso
 beadlet 2
 bryony
@@ -16769,7 +16769,7 @@ bibliotheque 2
 bookers
 buddhaship 1
 bandar 2
-barbas 2
+barbas 3
 buddhist
 beheadlined 4
 behemothic
@@ -18107,7 +18107,7 @@ bupleurum 2
 boosts
 blocklayer 3
 butcherbird 1
-bellylike 1
+bellylike 2
 breakably
 brins
 benzal
