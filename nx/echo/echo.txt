@@ -322,7 +322,7 @@ escots 1
 engaze 1
 eastman 1
 enclaret 1
-encephalograph
+encephalograph 1
 estops
 eastre 1
 extramolecular 1
@@ -588,7 +588,7 @@ ebonise
 exobiological 2
 echt
 earliness 3
-ecchymosed 1
+ecchymosed 2
 excommenge
 exostoses 1
 eciliate 1
@@ -1615,7 +1615,7 @@ emu 1
 egromancy 1
 emptiness 2
 egurgitate 1
-egurgitated 3
+egurgitated 4
 eheu 1
 explanatively 2
 elchee 2
@@ -1711,7 +1711,7 @@ epistilbite
 evang
 eyeground 2
 epornitically 1
-encephaloid 2
+encephaloid 3
 enginery 3
 exasper 1
 exclaimers
@@ -3847,7 +3847,7 @@ expectedness
 easiness
 exemplarily 1
 effeminacy 2
-exallotriote 1
+exallotriote 2
 expiatory 1
 escrows
 emyde 2
@@ -6987,7 +6987,7 @@ enterocoela 2
 exocoetus
 eyeglass
 eggfruit 1
-epimerism
+epimerism 1
 elastomer
 electricalize
 emication 1
@@ -7408,7 +7408,7 @@ eigne
 extrafocal
 equianchorate
 electronographic
-eyess
+eyess 1
 extracivically
 ephetae 1
 effulged 1
@@ -7636,7 +7636,7 @@ endomesoderm 3
 eboulement 1
 emblem 3
 euphemiser 2
-extensionist 1
+extensionist 2
 electrotautomerism 2
 expoundable 1
 epideistic 4
@@ -7712,7 +7712,7 @@ epicondylian
 executable 1
 epidiascope 1
 expectorants 2
-engraff
+engraff 1
 ecce 1
 epichilia
 epiphysitis
@@ -8675,7 +8675,7 @@ eluate
 echelons
 escopet 1
 eked 2
-equisetaceous 1
+equisetaceous 2
 enchain 2
 erupting
 enamorate 4
@@ -9138,7 +9138,7 @@ equiponderancy 2
 ermiline 4
 epidemy
 excarnation 1
-ermined
+ermined 1
 erminee 2
 enleague
 ermines
@@ -9473,7 +9473,7 @@ esca 1
 earthquaking
 eulogia
 electrolithotrity
-eczematoid
+eczematoid 1
 entach
 escout 2
 enstore
@@ -11238,7 +11238,7 @@ enalyron
 enforcers 1
 ethine
 electropuncture 1
-evangelic
+evangelic 1
 endoplastron 1
 evangelically 2
 erector
@@ -11351,7 +11351,7 @@ encephalomeric
 eventual
 eozoic 2
 emusifying
-eve
+eve 1
 exceptional
 exorcistical 1
 epixylous 1
@@ -12039,7 +12039,7 @@ exclusive 1
 enaunter 1
 exclusiveness
 effectuality
-enforceability 5
+enforceability 6
 enamelled
 epidialogue 1
 endwise 2
@@ -12270,7 +12270,7 @@ exsurge 2
 exch 2
 endosteal
 enchases 1
-expertized 2
+expertized 3
 encommon
 executrixes
 evolutionarily 1
@@ -13114,7 +13114,7 @@ exstemporaneous
 epidermose
 elijah 1
 endromididae 1
-epidermomycosis 1
+epidermomycosis 2
 erasement
 expergefaction 1
 epopoeias 1
@@ -13201,7 +13201,7 @@ enfeature 1
 eximidus 1
 excubitorium 2
 entailment 3
-embroil
+embroil 1
 expressibly 1
 etymon
 enties 1
