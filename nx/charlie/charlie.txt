@@ -4132,7 +4132,7 @@ casuist
 capitate
 chughole
 cardinalis
-closehearted
+closehearted 1
 cichlids
 clerihew
 cubed 2
@@ -21957,7 +21957,7 @@ confidentialness 1
 confidently 1
 confidentness
 confider
-confiders
+confiders 1
 chaetosoma
 confiding 1
 coppa 2
