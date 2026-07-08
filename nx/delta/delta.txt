@@ -5620,7 +5620,7 @@ depigmentate 1
 depigmentize
 dissidence 2
 devilized
-dynamite 2
+dynamite 3
 distracts 1
 disembosom
 disaugment
@@ -14521,7 +14521,7 @@ divinability 3
 defiles
 diviner 1
 divinesse 1
-decarburised
+decarburised 1
 disjointly
 demotic
 dyadic
@@ -16360,7 +16360,7 @@ downslide 1
 describent
 downslip
 decibel
-downslope
+downslope 1
 disappendancy 1
 desmognathism
 devout 2
@@ -17301,7 +17301,7 @@ droll 1
 deniers 1
 dentiform 1
 dilluer 2
-didactylous 3
+didactylous 4
 druidology
 diademing 1
 drolleries 2
