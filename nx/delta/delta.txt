@@ -515,7 +515,7 @@ discustom
 dromotropic 1
 dinophilus
 douse
-dalmania
+dalmania 1
 disobliged
 dalmanites 1
 dalmatic 1
@@ -1503,7 +1503,7 @@ dbridement
 decidual 1
 dracma
 dc
-dcb 2
+dcb 3
 depressure 2
 deaccessioning 1
 dingbats
@@ -1683,7 +1683,7 @@ dandle
 deanships
 defending
 dothiorella 2
-disclimax 1
+disclimax 2
 dehull 2
 deanthropomorphism
 diasynthesis
@@ -2521,7 +2521,7 @@ destinations
 diazohydroxide
 dorothea 1
 decemdentate
-dipper 2
+dipper 3
 dibromoacetaldehyde
 declaratorily
 deaminate 1
@@ -4717,7 +4717,7 @@ decker 1
 democratised 3
 dendropogon
 detailed 2
-dillydallied 1
+dillydallied 2
 democratize 1
 divulgence 1
 democratizer 1
@@ -5971,7 +5971,7 @@ drayages
 depurate 1
 dulcarnon 1
 dicliny 2
-depuratory
+depuratory 1
 depure 1
 distortedly 1
 diagonally
@@ -6952,7 +6952,7 @@ despisable
 draggles 1
 dorcas
 dispatcher 1
-despisableness 1
+despisableness 2
 downfalls 2
 despiser 1
 decemvii
@@ -9224,7 +9224,7 @@ derelict 1
 decahedrodra
 dieldrins
 deferred
-dielectric
+dielectric 1
 doziest 1
 disparately 1
 dismerit 1
@@ -9485,7 +9485,7 @@ dipteroi
 diamonded 1
 dermad
 domically
-daintrel 1
+daintrel 2
 digestment
 dittography
 debenzolize 1
@@ -11231,7 +11231,7 @@ drawstring 2
 discanted 3
 dermochelys
 decompoundable 2
-dissembling
+dissembling 1
 dropt
 duckwheat 1
 debussyan
@@ -12523,7 +12523,7 @@ disinflate
 dortour 1
 delightfulness
 droitural
-doping 1
+doping 2
 dropsically
 depend 1
 defies
@@ -16894,7 +16894,7 @@ dinged
 disacryl
 deaired 2
 dicyclic 1
-descamisado 1
+descamisado 2
 dataria 1
 drona 1
 dumbs 1
