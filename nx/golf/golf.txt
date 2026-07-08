@@ -4571,7 +4571,7 @@ gorillaship 1
 goatbush 2
 gentility 2
 gunlocks 2
-gaudy 4
+gaudy 5
 guerinet 1
 glossitic 1
 goldsmithry 1
@@ -7595,7 +7595,7 @@ gibbetted 2
 geneserin 1
 gillotype 2
 gelatiniferous
-grounded 1
+grounded 2
 generability 1
 grinagog 1
 gypsying
@@ -8461,7 +8461,7 @@ gunflint 3
 grad
 gladiolas 1
 gales 1
-grocerdom 1
+grocerdom 2
 gawsie
 gandul 1
 grapestone 2
