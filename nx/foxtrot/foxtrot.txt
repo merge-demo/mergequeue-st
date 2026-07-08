@@ -149,7 +149,7 @@ fellaheen 1
 facks 1
 fletch
 forefront 2
-fumitories
+fumitories 1
 favus 2
 fibbery 1
 factionalism 2
@@ -4647,7 +4647,7 @@ fatale
 flange 1
 forages 2
 falconidae 1
-fractonimbus 2
+fractonimbus 3
 fivesome
 flaubertian 2
 flashproof 1
@@ -5072,7 +5072,7 @@ folders 2
 fiord 3
 fessely 1
 flumps 1
-flamelet 3
+flamelet 4
 fun 2
 fuligo
 fascista 1
@@ -5585,7 +5585,7 @@ folkvangr 1
 flockowner 4
 fossicking 1
 forgette 3
-fader
+fader 1
 fibrinocellular 1
 flycatchers
 flicflac
@@ -5754,7 +5754,7 @@ fmt 1
 foredeserved 1
 fecket 2
 facultize 2
-fringepod 1
+fringepod 2
 flyspecking 1
 folate 2
 forenoons 2
@@ -7478,7 +7478,7 @@ furciferous 2
 fordableness 2
 fathership
 formulaic 1
-featless 2
+featless 3
 floodproof 1
 fawning 1
 flashpan
@@ -8975,7 +8975,7 @@ flotative 1
 flu
 fountain
 fragged 1
-fantastically 1
+fantastically 2
 fossicker 2
 frescoer 1
 flueman
@@ -9454,7 +9454,7 @@ ficaria 1
 forequoted
 finickiness 4
 fractionised
-flamboyer 2
+flamboyer 3
 franticly 1
 folksong 2
 fossor
@@ -9891,7 +9891,7 @@ foreappointment
 fricandeaux 3
 fuliginously
 foozlers
-famishing
+famishing 1
 footcloths 1
 frogeye 1
 fluellen 2
@@ -10618,7 +10618,7 @@ fruitfullness 1
 fluorimetry
 fustier
 fragmental 1
-forks 4
+forks 5
 furfurals 1
 filiation 1
 francophobe 1
@@ -11236,7 +11236,7 @@ foreday 1
 farsang 2
 furzed 1
 funiculars
-funiform 1
+funiform 2
 fanum 3
 fount
 flashcubes
@@ -11427,7 +11427,7 @@ feasor
 flocculose 2
 furniture
 flummoxing 2
-footlicking 2
+footlicking 3
 furl 1
 furodiazole
 feoff 3
@@ -11591,7 +11591,7 @@ fruitlike 1
 fthm 2
 fusionist 1
 forlanas 4
-fragmentation 1
+fragmentation 2
 fusions 1
 freity 1
 floscular 4
