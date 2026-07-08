@@ -529,7 +529,7 @@ ceremoniary
 chainmaking
 cadet 1
 canonize
-cadets
+cadets 1
 cataleptoid
 cadetship
 counterstamp
@@ -5101,7 +5101,7 @@ crowsteps 1
 chlamydomonadaceae
 casavi
 cascabel
-cesspipe 1
+cesspipe 2
 coestate
 chemoprophylaxis
 cascable
@@ -8970,7 +8970,7 @@ charismatic
 collationer
 collunaria
 cunabular
-ceriphs
+ceriphs 1
 chalazia
 charisms
 cancrophagous
@@ -21034,7 +21034,7 @@ compulsitor
 caramelan 1
 cypsela
 compunct 1
-crassilingual
+crassilingual 1
 cystaster
 curvedness
 catenaries 1
@@ -28843,7 +28843,7 @@ creta 1
 counterorator
 commander
 comte
-cretaceously
+cretaceously 1
 creach
 cretacic
 coastwaiter
