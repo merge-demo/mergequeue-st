@@ -2099,7 +2099,7 @@ felsobanyite 2
 facture
 finetop
 fourpence
-frump 1
+frump 2
 favorless 3
 foins 3
 fleshen
@@ -2520,7 +2520,7 @@ faldworth 3
 foremeant 1
 footsore 1
 feudal
-fastballs 1
+fastballs 2
 frush
 flunky 2
 foulmouth 1
@@ -4987,7 +4987,7 @@ frappeed 2
 flyswatter
 flibbertigibbety 2
 figbird
-flyover
+flyover 1
 foundationally
 fleetingness
 faldetta 1
@@ -10151,7 +10151,7 @@ forefatherly 3
 franion 1
 foretopman 1
 fructuary 1
-footlight 1
+footlight 2
 frithles 1
 fellowheirship
 forklifts 1
