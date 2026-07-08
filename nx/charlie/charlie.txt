@@ -4132,7 +4132,7 @@ casuist
 capitate
 chughole
 cardinalis
-closehearted
+closehearted 1
 cichlids
 clerihew
 cubed 2
@@ -18842,7 +18842,7 @@ clinkered
 colichemarde 1
 colicines 1
 cenotaphy
-cultigen
+cultigen 1
 celiac
 colicins
 corvisor 1
