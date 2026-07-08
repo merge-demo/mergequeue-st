@@ -5113,7 +5113,7 @@ basilicon 1
 beflagged 1
 biopoiesis 1
 broidering
-burrows 1
+burrows 2
 braconidae 1
 beflagging
 bentwood
@@ -5733,7 +5733,7 @@ believingly
 brerd 1
 burials 1
 backsight 2
-bandlimit 1
+bandlimit 2
 belight
 baaed 2
 bulgaria 1
@@ -14039,7 +14039,7 @@ butcherbroom 3
 bacchanalism 1
 bracherer
 basiate
-blackguards
+blackguards 1
 bedesmen
 boraginaceae 1
 balanced 2
