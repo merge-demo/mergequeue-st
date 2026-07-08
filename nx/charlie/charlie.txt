@@ -2553,7 +2553,7 @@ circumcinct
 candlemaker 1
 candlemaking
 candlemas 1
-crewel 2
+crewel 3
 childproof
 cacqueteuse 1
 candlenut
@@ -3166,7 +3166,7 @@ caper 1
 caperbush 1
 capercaillie 1
 chaulmoogric
-colored 1
+colored 2
 capercut
 cankereat
 citify
@@ -5697,7 +5697,7 @@ catasetum 1
 ching
 communionist 3
 ceratopsia
-cephalodymia
+cephalodymia 1
 catastases 1
 congregationist
 catastasis
@@ -10512,7 +10512,7 @@ chiliast
 commuting
 comprehend
 chakar 1
-chiliastic
+chiliastic 1
 chiliasts
 chilidogs
 coropo
@@ -11585,7 +11585,7 @@ cholecystis 2
 complimenting
 cholecystitis 1
 cozies
-christophany
+christophany 1
 carabaos 1
 cholecystnephrostomy
 cholecystocolostomy
@@ -13541,7 +13541,7 @@ castigative 1
 ciliotomy 1
 cilium 1
 chloroformize
-coxcombhood 1
+coxcombhood 2
 cyllenian 1
 cyllenius 1
 cillosis
@@ -16076,7 +16076,7 @@ classer 1
 cycloramas
 choriocarcinomata
 cornopean
-converged
+converged 1
 chaffiest
 characinid
 coassists
@@ -16141,7 +16141,7 @@ climacus 1
 centiles
 climata 2
 celebesian 1
-climatal
+climatal 1
 corticate
 climatarchic
 climate 1
@@ -21000,7 +21000,7 @@ chipmuck
 compsoa
 canoncito
 comique 1
-clockkeeper 2
+clockkeeper 3
 compsothlypidae 1
 chillums 1
 calligram
@@ -21957,7 +21957,7 @@ confidentialness 1
 confidently 1
 confidentness
 confider
-confiders
+confiders 1
 chaetosoma
 confiding 1
 coppa 2

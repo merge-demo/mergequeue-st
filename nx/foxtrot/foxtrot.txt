@@ -606,7 +606,7 @@ falsifier 1
 frogmouths 1
 foveolet 3
 floaty 2
-falsifying 1
+falsifying 2
 falunian 2
 fertilisation 4
 fauster 3
@@ -683,7 +683,7 @@ farmstead 3
 forenotion
 ferromagnetic
 futilitarianism 4
-forebow 3
+forebow 4
 fascioloid
 feminity
 farcial 2
@@ -1478,7 +1478,7 @@ flocklike
 fient
 forebodingness 1
 forestology
-freebooters
+freebooters 1
 formamido 2
 fastens 3
 fermentatory
@@ -1894,7 +1894,7 @@ flamboyantize 1
 freshwoman 1
 faradizing 1
 frs 1
-fraidycat 1
+fraidycat 2
 flybrush 2
 fingerflower
 fumbling 3
@@ -4179,7 +4179,7 @@ fumiduct 1
 flagstones
 fado 1
 fairishness 2
-flickertail
+flickertail 1
 fishet 2
 fibrocaseous 2
 foliating 2
@@ -4944,7 +4944,7 @@ flamencos 2
 funtumia 1
 freights
 foder 2
-fevertwitch 3
+fevertwitch 4
 facedown 1
 fraunch 2
 flameout 3
@@ -5749,7 +5749,7 @@ fractuosity 1
 fels 3
 fins 2
 figureheadless
-fisher
+fisher 1
 fmt 1
 foredeserved 1
 fecket 2
@@ -6346,7 +6346,7 @@ forefingers 3
 ferments 3
 fumigatorium 1
 fpm 2
-frictionlessly 1
+frictionlessly 2
 frolicness
 forthcomingness 1
 furcraeas
@@ -7325,7 +7325,7 @@ foraying 3
 frognose 3
 foram 3
 fronds 2
-fearnaught 2
+fearnaught 3
 frampold
 favour 1
 fulcrum 1
@@ -10024,7 +10024,7 @@ feloniousness 2
 frigoric 2
 foun 1
 futureless
-fibroid 4
+fibroid 5
 feracity
 firelike
 frigotherapy 4
