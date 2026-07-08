@@ -2458,7 +2458,7 @@ diplodocus
 dipyre
 decision 2
 defeatists
-distinctly 1
+distinctly 2
 decisional 1
 decisions 1
 decisis
@@ -5714,7 +5714,7 @@ diazotizability 2
 droves
 damagingly 1
 deliberating 2
-debater
+debater 1
 duree 1
 disjoint 3
 decasualizing
@@ -17927,7 +17927,7 @@ disburser
 deterministically 1
 durance
 disembarrass 2
-dejectedly
+dejectedly 1
 donate 2
 duenas
 duenesses 3
