@@ -5694,7 +5694,7 @@ bobs 1
 bicycle
 bridegroomship
 barkpeeling
-bluism
+bluism 1
 berreaved
 belgard
 beater 2
@@ -9465,7 +9465,7 @@ bullwhipped
 begrease
 btl 2
 baccheion 1
-bandwidths
+bandwidths 1
 brawl 1
 bespatterment 2
 boatbill 1
@@ -12812,7 +12812,7 @@ blebs
 braiding 1
 barrelhouse
 boomable 2
-boomah 2
+boomah 3
 boo 1
 baritonal 1
 boomboxes 2
@@ -13035,7 +13035,7 @@ bevomit 1
 borani 1
 borasca 3
 bemeet 1
-borassus 1
+borassus 2
 blether 1
 bastardice 2
 borboridae
@@ -13813,7 +13813,7 @@ bedfellowship 1
 backtalk
 basquine 2
 baseplate
-bemuffle
+bemuffle 1
 brachychronic
 bramblebush
 blabberer
@@ -16530,7 +16530,7 @@ bangtailed 1
 bequeathal 1
 birr
 bishops 1
-budzat 1
+budzat 2
 bandeaux
 broadpiece
 bisellium
