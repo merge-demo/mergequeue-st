@@ -3092,7 +3092,7 @@ basale 2
 berascaling 3
 basalts
 basaltware
-bombiccite
+bombiccite 1
 basaree 2
 boycotting
 bestness 1
@@ -3212,7 +3212,7 @@ bromids
 byland 1
 bhaga 1
 blastozooid
-bromelia
+bromelia 1
 beadily
 bangash
 basidigital
@@ -3546,7 +3546,7 @@ batfowl 1
 bedust 1
 batfowls
 bestore 1
-bulbocavernosus
+bulbocavernosus 1
 brookites 1
 blackroot 1
 bathed 1
@@ -4015,7 +4015,7 @@ beerothite
 binges
 brookside
 beshamed 2
-beadlehood
+beadlehood 1
 besiegement 1
 blepharophimosis 1
 brawnier 1
@@ -7882,7 +7882,7 @@ billyo 1
 backstitched
 banksmen
 bistipuled 2
-bullation
+bullation 1
 beauclerc 1
 brains 1
 bedboard 2
@@ -8719,7 +8719,7 @@ bozine 1
 burds
 beliquored
 brachiolaria
-balladlike
+balladlike 1
 barrett
 beseeching 1
 beaverite 1
@@ -13721,7 +13721,7 @@ buchanan
 bourtree 1
 bombination 1
 barrenly
-ballyhooing
+ballyhooing 1
 betallow 1
 bookplate
 benighten 1
@@ -17341,7 +17341,7 @@ buphthalmum
 brontotherium 1
 boxier 2
 babes 2
-benzanthrone
+benzanthrone 1
 bilimbi 2
 birdseed 1
 bargained
