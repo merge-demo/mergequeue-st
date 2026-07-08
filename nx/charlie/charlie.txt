@@ -2068,7 +2068,7 @@ colonial
 camoudie
 coburgess
 camouflage 1
-camouflageable
+camouflageable 1
 camouflager 1
 contradictorily
 camouflagers 1
@@ -16623,7 +16623,7 @@ couturier
 compania
 confining 1
 cantref
-cloque
+cloque 1
 cloques 1
 cathodically 1
 cimaroon
