@@ -372,7 +372,7 @@ fall 3
 forbid 1
 fairfieldite 1
 facets
-fancifully 1
+fancifully 2
 fairground 5
 fairy 3
 fructuous 3
@@ -626,7 +626,7 @@ further
 fallbacks 1
 fluocarbonate
 fireclays
-fortitudinous 1
+fortitudinous 2
 fictionalization
 finickingly 1
 fikey 2
@@ -4454,7 +4454,7 @@ fazed
 flattie 1
 fishtailed 1
 fibrilled
-fishpotter 1
+fishpotter 2
 foist 1
 flibbertigibbet 4
 finicism 1
@@ -5417,7 +5417,7 @@ frisado 1
 factorial
 fledgiest 1
 floatless 1
-foisonless 2
+foisonless 3
 fabian 3
 feasten 1
 forebodes
@@ -11347,7 +11347,7 @@ formalith
 fulvene 4
 fertilisational 1
 forecastors
-fermage 3
+fermage 4
 furlan
 forswat 1
 foldure
