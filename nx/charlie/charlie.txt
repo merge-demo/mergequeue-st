@@ -690,7 +690,7 @@ compensable 1
 caffeinic
 caffeins
 coctoantigen 2
-carries 1
+carries 2
 caffeism
 cud 3
 colometry 1
@@ -7926,7 +7926,7 @@ coattailed 1
 cevenol
 cyclohexylamine 2
 chaga
-cevenole
+cevenole 1
 caducei 1
 chryselephantine 1
 cossets 1
@@ -14140,7 +14140,7 @@ connexion
 circularization 1
 conversably
 cullied
-circularizes
+circularizes 1
 choriambs
 circularly
 circularness
