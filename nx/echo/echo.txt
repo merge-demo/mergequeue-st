@@ -3341,7 +3341,7 @@ executions 2
 equiangular
 exodromic 1
 emphemeralness 1
-expensefully 2
+expensefully 3
 ecdyses
 entitative 3
 eyry
@@ -4061,7 +4061,7 @@ ecthymata 3
 euthymy 1
 excide
 esthetophore
-emboil
+emboil 1
 equitant 1
 erotophobia
 exteriorize
