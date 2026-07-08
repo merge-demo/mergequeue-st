@@ -2584,7 +2584,7 @@ fumes 1
 forechase 1
 fogramity 1
 flongs 2
-ferrocyanate
+ferrocyanate 1
 formicid
 ferroelectric
 fribblery 1
@@ -6760,7 +6760,7 @@ fleece 1
 feering 1
 foresworn
 felonweed 2
-foiter 1
+foiter 2
 flareless
 forfault
 felloe
@@ -6918,7 +6918,7 @@ freewomen 1
 freekirker
 flaxseeds 1
 fleyedly
-fauves 5
+fauves 6
 fragmented 2
 fishback
 fogs 1
@@ -7298,7 +7298,7 @@ fidelity 2
 fishmonger 1
 fozy
 flavobacteria
-foliobranchiate 1
+foliobranchiate 2
 forayed 1
 facilitating
 flutters 2
@@ -8293,7 +8293,7 @@ frateries 1
 fuchsias 3
 forgetfulness 1
 forgett 1
-faits
+faits 1
 feldspars 1
 fistulated 3
 fulltime 4
@@ -8894,7 +8894,7 @@ flickers 1
 fading
 fatty 4
 forebye 1
-facioscapulohumeral 1
+facioscapulohumeral 2
 foreigners 2
 frenzily 1
 flashers 1
@@ -9032,7 +9032,7 @@ fiefdoms 1
 foreshadower
 frontally 3
 fourrageres
-fox 3
+fox 4
 fears 1
 fantaddish
 fuster 1
@@ -9106,7 +9106,7 @@ feruling 1
 foxberry 1
 falcular 2
 fribbleism 1
-fractionation 1
+fractionation 2
 forenent
 folding
 friesish 1
@@ -10451,7 +10451,7 @@ fertilizer 2
 filesmith 2
 feudalistic
 fringeflower 2
-faddier 1
+faddier 2
 fossified 2
 featherwood 3
 fountainously 2
@@ -10480,7 +10480,7 @@ frontotemporal
 forestian 1
 frontsman 1
 fierasferidae 3
-fluxional 2
+fluxional 3
 frontspieces 1
 fleet
 fwd
