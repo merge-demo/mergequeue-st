@@ -1086,7 +1086,7 @@ combs
 creeling
 calcicolous
 calcicosis
-collyrie 1
+collyrie 2
 calciferol 1
 calcified 1
 counterboycott 1
@@ -3548,7 +3548,7 @@ captaincy
 captaincies
 caprioled
 captainry
-captainship
+captainship 1
 counterpetition
 communistically 2
 chaotically 1
@@ -4207,7 +4207,7 @@ chamomile 1
 cypseliform 1
 carditis 1
 countrywide
-carditises 1
+carditises 2
 cardium
 chervante 1
 continual
@@ -4782,7 +4782,7 @@ chorisos
 carpocephala 2
 canicular 1
 competitiveness 1
-carpocephalum
+carpocephalum 1
 caryotins
 carpocerite
 carpocratian
@@ -5844,7 +5844,7 @@ cannabins
 crinose
 currish 4
 categorise 1
-categorised 1
+categorised 2
 chansonnier
 cultivated
 cochlearia 1
@@ -6068,7 +6068,7 @@ cating
 cativo
 cheapo
 catkin
-catkinate
+catkinate 1
 catkins 1
 curatory
 candify
@@ -7548,7 +7548,7 @@ cerebral 1
 courge 1
 credited
 cerebralism
-coneighboring 1
+coneighboring 2
 cerebrals 1
 cardiopericarditis
 cerebrated
@@ -7882,7 +7882,7 @@ clericate
 collieshangie
 cetane
 cetanes 1
-cerographies
+cerographies 1
 cete 1
 ceterach 1
 ceti
@@ -9019,7 +9019,7 @@ camisoles
 charlet
 cryoscope 3
 costotomies
-charlocks 1
+charlocks 2
 cobberer 1
 charm 1
 charmed 1
@@ -11808,7 +11808,7 @@ chondrotomy 2
 chonk 2
 collaborate
 calfhood
-chontaquiro
+chontaquiro 1
 coasted 1
 contents 1
 cacomixl
@@ -11852,7 +11852,7 @@ choppier 1
 cados 2
 choppiest 2
 choppiness
-cowpuncher 2
+cowpuncher 3
 clancular 1
 chopstick
 chopsticks
@@ -13134,7 +13134,7 @@ carriage
 cyanochroic 1
 catchable
 cycases
-cytogenies 1
+cytogenies 2
 cudgelled
 cicatrice
 colocolo
@@ -15967,7 +15967,7 @@ castrato 1
 clerihews 1
 consence
 clerisies
-crimsoning 2
+crimsoning 3
 certifiably 2
 carryovers 1
 cobstone
@@ -16014,7 +16014,7 @@ chremzel 1
 crinoid
 cleuks 1
 cephaletron
-caleche
+caleche 1
 comprizal
 cleve
 cleveite 1
@@ -18894,7 +18894,7 @@ colitic
 colitises
 colyum
 calcographer 1
-climbs
+climbs 1
 coliuria 1
 contemporary 1
 colla
@@ -24157,7 +24157,7 @@ claybrained
 coenzymes
 conveth
 convex 1
-convexedness 2
+convexedness 3
 chippage 1
 cryptoanalytic
 calcific
@@ -26727,7 +26727,7 @@ colonels
 capellane 1
 counterattacked
 cacanthrax
-cyclamate
+cyclamate 1
 cervid 3
 colourful
 caenogenetically
