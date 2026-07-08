@@ -4082,7 +4082,7 @@ beams
 bean 1
 boldness
 begottenness
-bedeafen
+bedeafen 1
 beaner
 bolewort
 beanfield
