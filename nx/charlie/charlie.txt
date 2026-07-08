@@ -4869,7 +4869,7 @@ carriages 1
 crosstie 2
 carriagesmith
 cinchonicin
-carriageway 2
+carriageway 3
 carryall
 carrick
 carrycot
@@ -28729,7 +28729,7 @@ cornage
 creosol
 creosote 1
 casasia
-cole
+cole 1
 creosotes
 cocircularity 1
 clericity 1
