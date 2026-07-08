@@ -326,7 +326,7 @@ daidlie
 dupatta 1
 dimeran
 dummyweed
-disarm
+disarm 1
 deltaite
 denumberment 1
 damier
@@ -9448,7 +9448,7 @@ dozener 1
 digeneous
 decubitus
 dissert
-digenetic
+digenetic 1
 digenetica
 digue 2
 diplanetism 1
@@ -13102,7 +13102,7 @@ dermophobe
 dispensed
 dabbed 1
 disglory
-duce 1
+duce 2
 dispensingly 1
 dispensive 1
 daggered 1
@@ -14472,7 +14472,7 @@ demoralization
 diagnoseable
 drabbet 1
 dawdler
-daemones
+daemones 1
 divertisement 1
 dextrogyrous 1
 divertissements
@@ -17316,7 +17316,7 @@ distinguishably
 drolling 2
 delighter
 drollishness 2
-denitrification 1
+denitrification 2
 drolls 6
 drome
 dromedarian 1
