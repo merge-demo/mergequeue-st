@@ -5293,7 +5293,7 @@ apery 1
 anagenetical
 antagonizer 2
 ampitheater
-attackable
+attackable 1
 anapterygotous
 alingual
 abrogative 1
@@ -22251,7 +22251,7 @@ anaphia
 apologetic 1
 aspasia
 ariled 1
-aerier 1
+aerier 2
 atropinize
 alnath
 anvasser 1
