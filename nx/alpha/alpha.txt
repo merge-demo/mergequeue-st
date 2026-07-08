@@ -5709,7 +5709,7 @@ amphistomatic
 aggrace
 ardeid 1
 agal 2
-agalactic
+agalactic 1
 agla 2
 appoggiaturas
 agalaxia
@@ -11998,7 +11998,7 @@ anaphylactogenic
 alcibiades
 anaphylatoxin 1
 anaphyte
-avoidment
+avoidment 1
 alkoxide 1
 acron 1
 abodement
@@ -22039,7 +22039,7 @@ anteprostate
 astable
 aedeagus 1
 astay
-anisometropic
+anisometropic 1
 almistry 1
 aegithognathism
 anaphylaxis 1
