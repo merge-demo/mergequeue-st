@@ -3061,7 +3061,7 @@ fibreless 2
 flatcar
 foregone 2
 ferrimagnetism 3
-fractionalization
+fractionalization 1
 fibril 1
 firker 3
 filtratable 1
@@ -3486,7 +3486,7 @@ forger
 ficins
 fordays
 floorhead
-formuliser 1
+formuliser 2
 forjaskit 1
 forpined
 finnic 1
@@ -8105,7 +8105,7 @@ forestral 3
 forestries
 firebrats 2
 furnitures 4
-fumigating
+fumigating 1
 fiendfully 1
 ferrochromium 2
 fissuriform
@@ -9700,7 +9700,7 @@ facsimiles 1
 fluoborate 1
 foresides 2
 fathers 1
-fourths
+fourths 1
 freezy 1
 fromage 2
 frocked 2
