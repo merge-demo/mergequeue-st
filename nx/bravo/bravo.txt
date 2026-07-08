@@ -1193,7 +1193,7 @@ bajochi
 borborygmus
 bemeaned
 bajra 2
-bogeyed 2
+bogeyed 3
 brickset 1
 beltmen 1
 baized
@@ -1337,7 +1337,7 @@ balatron 2
 benzaldiphenyl 2
 boser 1
 bermudian
-bernoullian
+bernoullian 1
 bingy
 burelage 1
 bellower 1
@@ -1525,7 +1525,7 @@ balladic 1
 balladised
 balladism
 bartree 1
-battled
+battled 1
 burlers 2
 bronchopleurisy 1
 blowiest 1
@@ -5728,7 +5728,7 @@ believers
 benzotetrazine
 beamful
 blankite 2
-budge 1
+budge 2
 believingly
 brerd 1
 burials 1
@@ -6803,7 +6803,7 @@ bertolonia 1
 bioacoustics 1
 basigenous 2
 bertrum 1
-bullarium 1
+bullarium 2
 beachy 2
 broadsided 2
 ber
@@ -11071,7 +11071,7 @@ bedwarfed
 blockboard 1
 bavaroy
 ballyhooer 1
-brazilette
+brazilette 1
 bezoar
 butomaceae 1
 blocked
@@ -11681,7 +11681,7 @@ boomless 1
 bloviated 1
 bdellatomy
 bedding 1
-beneficience
+beneficience 1
 bribability
 boattail 1
 byeworkman 2
@@ -13678,7 +13678,7 @@ bacilliculture
 billboard 2
 bevelment 3
 bourasque
-ballarag 1
+ballarag 2
 belander
 birred 2
 blames 3
@@ -15275,7 +15275,7 @@ benchers 1
 bridale
 basehearted
 bridally
-battologist 3
+battologist 4
 bridals
 briarberry
 bellerophon 1
@@ -15291,7 +15291,7 @@ bridelope
 boardman 1
 bout 1
 bridemaid
-blastomycetous
+blastomycetous 1
 bahur 2
 brecken 1
 bisharin 1
@@ -16231,7 +16231,7 @@ bemole 1
 broughams
 branchiostomid 2
 breadbox 2
-brought 1
+brought 2
 bagmaking 2
 bryologies
 breadstuffs
@@ -16545,7 +16545,7 @@ bathorse
 bargeese
 barbarianize 1
 brownish 1
-biflorate
+biflorate 1
 backbiters
 bushmen 2
 botrydium 1
@@ -17605,7 +17605,7 @@ burgherage 1
 beguine 1
 bottomlessly
 burghers 2
-burgraves
+burgraves 1
 bureaucratized 1
 bowdlerized
 burring 1
