@@ -10532,7 +10532,7 @@ aliofar
 amide 2
 amidide
 adscript
-anneal 1
+anneal 2
 arret
 amidism 1
 aboon
@@ -10915,7 +10915,7 @@ ammoniuret
 archcozener 1
 antiproteolysis 1
 argolian 1
-ammono
+ammono 1
 ammonoidea 2
 ammonoidean
 anaglyphy 1
@@ -14503,7 +14503,7 @@ anthribidae
 antipharisaic 1
 arunta
 adjudged
-antiburgher
+antiburgher 1
 alima
 armigero
 auramin
@@ -19648,7 +19648,7 @@ amidone 2
 aunty
 arisaid
 arisard 3
-arise 1
+arise 2
 athyrium 1
 aas
 attitudinal
