@@ -3711,7 +3711,7 @@ belage 1
 belfather 2
 batteaux
 bakatan 4
-battement
+battement 1
 balladising 1
 batteners 1
 bankrupted
@@ -4550,7 +4550,7 @@ befogged 1
 beglamour 1
 bienness
 biradiated 2
-bathroot
+bathroot 1
 bater
 bool 1
 bedabble
@@ -9906,7 +9906,7 @@ beasties 1
 besmirches
 bitter 1
 bitterbloom
-bittered
+bittered 1
 beyerite
 bitterender 1
 bombasts 1
