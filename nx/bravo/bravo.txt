@@ -3540,7 +3540,7 @@ brabbling 1
 bioflavonoid 1
 balotade
 blue
-batfishes
+batfishes 1
 biri 2
 batfowl 1
 bedust 1
@@ -4006,7 +4006,7 @@ beslur 2
 bonyfish 2
 believer
 beacons 1
-buoyancy 3
+buoyancy 4
 beadeye 2
 beader
 bellmaker 1
@@ -5300,7 +5300,7 @@ beforested 1
 breathlessness
 biscuitmaker 1
 bezzants
-bipinnate
+bipinnate 1
 bugbite
 beginning 2
 bemirement 1
@@ -13046,7 +13046,7 @@ bunrakus
 bacteriolysis 1
 bagataway 1
 bonded 1
-berger
+berger 1
 bordeaux 1
 blancard
 biennials 1
@@ -13078,7 +13078,7 @@ buddhic 1
 bored
 borsches
 bierstubes 2
-boehmenist
+boehmenist 1
 boreen 1
 bowerly
 bimestrial
@@ -17195,7 +17195,7 @@ bemirror 3
 bullpup
 brughs
 boozy
-balsamical 1
+balsamical 2
 benedictional
 bathylith
 battailant 2
@@ -17329,7 +17329,7 @@ brasser
 bucoliast 1
 bunchy
 bunchier 1
-bunchily 1
+bunchily 2
 bunchiness 1
 buncoing
 berthing
