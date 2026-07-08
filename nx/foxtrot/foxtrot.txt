@@ -149,7 +149,7 @@ fellaheen 1
 facks 1
 fletch
 forefront 2
-fumitories
+fumitories 1
 favus 2
 fibbery 1
 factionalism 2
@@ -4647,7 +4647,7 @@ fatale
 flange 1
 forages 2
 falconidae 1
-fractonimbus 2
+fractonimbus 3
 fivesome
 flaubertian 2
 flashproof 1
@@ -9454,7 +9454,7 @@ ficaria 1
 forequoted
 finickiness 4
 fractionised
-flamboyer 2
+flamboyer 3
 franticly 1
 folksong 2
 fossor
@@ -9891,7 +9891,7 @@ foreappointment
 fricandeaux 3
 fuliginously
 foozlers
-famishing
+famishing 1
 footcloths 1
 frogeye 1
 fluellen 2
