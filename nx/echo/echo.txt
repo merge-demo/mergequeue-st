@@ -1615,7 +1615,7 @@ emu 1
 egromancy 1
 emptiness 2
 egurgitate 1
-egurgitated 3
+egurgitated 4
 eheu 1
 explanatively 2
 elchee 2
@@ -3847,7 +3847,7 @@ expectedness
 easiness
 exemplarily 1
 effeminacy 2
-exallotriote 1
+exallotriote 2
 expiatory 1
 escrows
 emyde 2
@@ -6987,7 +6987,7 @@ enterocoela 2
 exocoetus
 eyeglass
 eggfruit 1
-epimerism
+epimerism 1
 elastomer
 electricalize
 emication 1
@@ -9473,7 +9473,7 @@ esca 1
 earthquaking
 eulogia
 electrolithotrity
-eczematoid
+eczematoid 1
 entach
 escout 2
 enstore
@@ -13114,7 +13114,7 @@ exstemporaneous
 epidermose
 elijah 1
 endromididae 1
-epidermomycosis 1
+epidermomycosis 2
 erasement
 expergefaction 1
 epopoeias 1
