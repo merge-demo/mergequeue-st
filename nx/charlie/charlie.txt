@@ -25149,7 +25149,7 @@ coinstantaneous
 corequisite
 corer 1
 corers
-cores
+cores 1
 carbonates
 compressors
 chlorospinel
