@@ -323,7 +323,7 @@ deciphered
 dermopterous 3
 disequilibration 1
 daidlie
-dupatta
+dupatta 1
 dimeran
 dummyweed
 disarm
@@ -7887,7 +7887,7 @@ dooryard
 dewflower 1
 distantly 1
 doxographer 1
-doh 1
+doh 2
 dewing
 degrease
 discommon
@@ -12729,7 +12729,7 @@ dosimetry
 dustcloth
 dehydratase
 doggrels
-disordinated
+disordinated 1
 dispensability 1
 dorsilateral
 dislocating
