@@ -1965,7 +1965,7 @@ aldehydase 2
 aquilia
 albitical
 apparelment 1
-acetylfluoride 1
+acetylfluoride 2
 aerobian
 appendix
 acetylglycin 2
@@ -2765,7 +2765,7 @@ alco 2
 acrylates
 autotoxicosis
 acrylics
-arietta
+arietta 1
 acipenserid
 arcabucero
 autolithography
@@ -3567,7 +3567,7 @@ antierysipelas 1
 addn 1
 acknowledgements
 addr
-allotheistic
+allotheistic 1
 actinography 2
 awner 1
 azores
@@ -4174,7 +4174,7 @@ adnephrine
 anthracene
 atabal
 annuent
-apparatchiks
+apparatchiks 1
 abutting
 assecution
 abu 1
@@ -5780,7 +5780,7 @@ astragalar
 agapemone
 analysis
 agapemonist 2
-agapetae
+agapetae 1
 aptenodytes
 aguacate
 antitussive 1
@@ -7707,7 +7707,7 @@ alcoholemia
 alcoholically 1
 appetition 1
 anaudia
-appendicocaecostomy
+appendicocaecostomy 1
 autoprothesis
 autoconverter 1
 asterin
@@ -9043,7 +9043,7 @@ aminobenzine
 allotments
 allotransplantation
 amic
-anapsidan
+anapsidan 1
 aden
 autarkically
 andhra
@@ -9396,7 +9396,7 @@ alphyls
 agpaite
 anticonfederationism
 acupress
-acarinosis
+acarinosis 1
 autoscience
 alphitomorphous
 acetolytic 1
@@ -10824,7 +10824,7 @@ amyxorrhea
 architis
 amlikar
 amlong 2
-ammelide
+ammelide 1
 apodemal
 arenaria 1
 apothecary
@@ -12043,7 +12043,7 @@ anenergia
 anthology
 aluminium 1
 anarchies
-analyzation
+analyzation 1
 affrights 1
 adela
 astromancy 1
@@ -16010,7 +16010,7 @@ alastair
 antiradicals
 antirailwayist 3
 alimentative
-againbuy
+againbuy 1
 adjurer 1
 atheous 2
 antirape
@@ -16523,7 +16523,7 @@ aorist
 advertises
 anglicanize
 arecaceous
-athyridae 1
+athyridae 2
 aortal
 aortarctia
 aortas 2
@@ -19432,7 +19432,7 @@ abbest
 antiparliamentarist
 argh
 anlaute 2
-aphelilions
+aphelilions 1
 allottees 2
 archaean
 astrophysics 1
@@ -21356,7 +21356,7 @@ allogenic
 azobacter
 acroter
 abattue
-asyndeton 2
+asyndeton 3
 abditive
 asyndetons
 artesonado
@@ -21677,7 +21677,7 @@ antimissioner 1
 astrospectroscopic
 antiquer 1
 assaulter 2
-attainably 1
+attainably 2
 aldolases
 amphicytula
 assausive 1
@@ -21956,7 +21956,7 @@ aeluroidea 1
 alternat
 alaternus 1
 assoils 1
-assoilzie
+assoilzie 1
 aurantiaceous
 acaridomatium 2
 assonants 2
@@ -22021,7 +22021,7 @@ arabesque 2
 anticeremonial 1
 antiwar 1
 albumenizing
-assuringly
+assuringly 1
 amphiuma 1
 acclimate
 argentums 2
@@ -23241,7 +23241,7 @@ apiculture 2
 attila
 alopathic 1
 argema 1
-attingency
+attingency 1
 asked
 ammonite 1
 attingent 1
@@ -23482,7 +23482,7 @@ algebraists
 astringer
 augite
 augitophyre
-autotomies 1
+autotomies 2
 absolutistic 1
 augmentable 1
 acopic
