@@ -343,7 +343,7 @@ gubbings 2
 gravigrada 3
 galactolipide
 gorling
-gaussian 2
+gaussian 3
 grilses 2
 gillar 1
 gleen
@@ -7972,7 +7972,7 @@ galleons 1
 gingiva 1
 glycerol 1
 glaziery 2
-goodyish
+goodyish 1
 gymnurinae 2
 guesdist 2
 gymnospermy 2
@@ -8047,7 +8047,7 @@ geophysicists
 glasswort 1
 grotesquerie 1
 guglia 1
-greisen
+greisen 1
 gruesomely
 greenishness 1
 gambiae 1
