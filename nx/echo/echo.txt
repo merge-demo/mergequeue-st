@@ -9192,7 +9192,7 @@ embound
 episcopes 2
 epikleses 1
 excoriates 2
-epiderm
+epiderm 1
 erotylidae 1
 enlarges
 extremer 1
@@ -11627,7 +11627,7 @@ exciding 1
 empires
 ewes 1
 engraphia 2
-eucalypt 3
+eucalypt 4
 envenomous 2
 economized
 everywhereness
@@ -11889,7 +11889,7 @@ echinostome 1
 enteroparesis 1
 espinillo
 enfranchisement
-extbook 1
+extbook 2
 embowing 3
 ergonomically 1
 emptysis
