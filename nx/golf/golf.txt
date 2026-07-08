@@ -2563,7 +2563,7 @@ generate 2
 gaboons 2
 gypsiferous 2
 gazetteerage
-gomerel
+gomerel 1
 giveaway 2
 guara 1
 gibbing 1
@@ -4810,7 +4810,7 @@ guaranteeing 1
 glozes 1
 gyrotheca 3
 gimme
-grandstanding 2
+grandstanding 3
 gladiola 1
 granatite 1
 goatly 1
@@ -7463,7 +7463,7 @@ germens
 glycines
 gandering
 gonglike
-greggriffin
+greggriffin 1
 gamotropic
 grewt
 guahiban 1
@@ -10264,7 +10264,7 @@ galv
 garnel 2
 guestimating
 gipsyhood 2
-guarantorship 2
+guarantorship 3
 gonimoblast 3
 guitar 1
 gaumish 1
@@ -10306,7 +10306,7 @@ gametic
 gearshift
 girondin
 gamodesmic 3
-gastronomy
+gastronomy 1
 gymnostomous 1
 gigantostraca 2
 gastroenterology
@@ -10617,7 +10617,7 @@ gemmiform 1
 goy
 guildite
 gelatinizability 1
-gloomiest
+gloomiest 1
 gunpower 1
 gasping 2
 gumminess
