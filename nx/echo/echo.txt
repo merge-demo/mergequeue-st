@@ -3069,7 +3069,7 @@ enshrine 2
 equilater
 ethid
 emetia 1
-exhaustible
+exhaustible 1
 excreters 1
 eardrop 2
 exor 1
@@ -6139,7 +6139,7 @@ ectoparasitic
 endotoxin 2
 embronze
 evagation 1
-entertainers 2
+entertainers 3
 enneandrian
 etherealizing 2
 encephalophyma
@@ -7698,7 +7698,7 @@ erysipelatoid
 englify 2
 ensure 1
 endobiotic 1
-endosomes
+endosomes 1
 emendable 1
 estopping
 equips 1
@@ -9323,7 +9323,7 @@ endear 2
 earable 3
 eruptivity
 echinuliform 3
-esbatement 1
+esbatement 2
 enlock 2
 ectomorphic
 exolution 1
@@ -12861,7 +12861,7 @@ exothermically
 eloignment 1
 eupomatia 2
 ern
-ecphorization 1
+ecphorization 2
 enseel 1
 echoic 2
 emendated
