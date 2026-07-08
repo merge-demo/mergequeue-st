@@ -4869,7 +4869,7 @@ carriages 1
 crosstie 2
 carriagesmith
 cinchonicin
-carriageway 2
+carriageway 3
 carryall
 carrick
 carrycot
@@ -19214,7 +19214,7 @@ collum
 corbed
 cutover
 collun
-couthe 1
+couthe 2
 conceptism 1
 convincer
 calloo
