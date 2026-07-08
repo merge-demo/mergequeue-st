@@ -590,7 +590,7 @@ cruiseway
 commilitant
 catalineta 1
 caducean
-caducecei 2
+caducecei 3
 coinhabitant 2
 caduciary
 condescendence
@@ -2794,7 +2794,7 @@ cannie
 cagui
 cannings
 chemicalization
-chiccories
+chiccories 1
 cannister 2
 cannisters 1
 crystallographically 1
@@ -3073,7 +3073,7 @@ canvas 1
 chaffinches
 chiasmodon
 croppa 1
-clarino
+clarino 1
 cycadeous 1
 cancroid 3
 canvasado 1
@@ -3303,7 +3303,7 @@ crumbiest
 cutiduris
 couchancy
 capitulant
-centrists
+centrists 1
 capitularies 1
 clathrus 1
 clankingness
@@ -4996,7 +4996,7 @@ cannonball
 cartonful
 covinously
 crimmers 1
-criminalistics
+criminalistics 1
 carpitis
 cartons 2
 cartoonist
@@ -8522,7 +8522,7 @@ cycloaddition
 chanchito 1
 chancy
 cardiodynamics
-crossruff 2
+crossruff 3
 chanciness 1
 campion 2
 chrysophilite
@@ -9604,7 +9604,7 @@ cyathozooid
 cubiculary
 contrabandism
 cheered
-cheerfulize 1
+cheerfulize 2
 cheerfuller 1
 combatted
 carceral 1
@@ -14151,7 +14151,7 @@ chaetosomatidae
 cyanhydrate 1
 circulation
 circulations
-circulative
+circulative 1
 consciencelessness 1
 crisscrossing
 coxalgies
@@ -22463,7 +22463,7 @@ ctenostomatous
 cophasal
 clanger
 conioselinum
-chivalrously
+chivalrously 1
 cahuita
 coniosis 1
 coniospermous
@@ -22981,7 +22981,7 @@ circumadjacent
 consistences
 consistency
 catalytic 1
-chemotherapies 1
+chemotherapies 2
 companioning
 consistencies
 choriambi
@@ -31720,7 +31720,7 @@ cond
 cusser
 caselessly 4
 ciselures
-cusses 3
+cusses 4
 comrades
 castilian 2
 crooken
