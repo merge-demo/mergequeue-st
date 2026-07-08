@@ -8645,7 +8645,7 @@ dato
 doomlike 1
 delfs 2
 diascope 3
-domed
+domed 1
 distracted 1
 didactyl 1
 dissection
@@ -12318,7 +12318,7 @@ dielectrics 1
 doitrified
 discharged 1
 decolorimeter 2
-differentiates 1
+differentiates 2
 drias
 deflexion
 demasculinized 1
