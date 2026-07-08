@@ -177,7 +177,7 @@ factorable 1
 flimsies
 finitary 1
 factoryship
-floatiness
+floatiness 1
 foment 1
 flashily
 feuar
@@ -2776,7 +2776,7 @@ festoonery
 fatima 1
 foretellable
 fuddlebrained
-forgivingness 1
+forgivingness 2
 festinated
 festinating
 festination 1
@@ -6641,7 +6641,7 @@ fantaseid
 flacianism 1
 forkwise 2
 frilliest 1
-fantasize 1
+fantasize 2
 fancify 1
 footpath
 forevouched
@@ -7046,7 +7046,7 @@ fonticulus 1
 ferrocene
 flapmouthed
 foreganger 2
-fontinas
+fontinas 1
 forepromise
 figura
 fonts 2
@@ -9081,7 +9081,7 @@ fricassee 3
 fiendship
 flintified 3
 flux 2
-fowlfoot 3
+fowlfoot 4
 fared 1
 faultful 1
 fowlings 2
@@ -9761,7 +9761,7 @@ fissionability 1
 festinate
 fainting
 footmanry 2
-faunch
+faunch 1
 facework
 fluviograph 1
 flabs 1
@@ -10354,7 +10354,7 @@ forleaving 1
 foundationless 1
 finfoot 3
 fervorlessness
-flarfishes
+flarfishes 1
 fustilugs
 futurely 3
 fingerleaf
@@ -11754,7 +11754,7 @@ fumados 2
 fuzees 2
 fenchol 2
 faultfinders 3
-fuzzier 2
+fuzzier 3
 forstraught 1
 flipped
 fertilitate 2
