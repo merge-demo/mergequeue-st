@@ -8795,7 +8795,7 @@ conveyability
 crouchingly
 chara
 charabanc 2
-compensativeness 1
+compensativeness 2
 clitoridectomies 1
 characeae 1
 clabbered
@@ -9614,7 +9614,7 @@ camelliaceae
 cheerier
 cautiousness
 cryptopapist
-curtals
+curtals 1
 cragginess 3
 coexistent
 cheerlead
@@ -23588,7 +23588,7 @@ conchiolin 1
 continuancy
 clupein 1
 catholicising 1
-caughnawaga 2
+caughnawaga 3
 chaffweed 2
 continuation
 continuatively 1
