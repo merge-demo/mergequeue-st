@@ -7940,7 +7940,7 @@ dextran
 doublelunged 2
 disallowable
 demicylinder 1
-downsteepy 2
+downsteepy 3
 diathermal
 decimeters
 dextroaural
@@ -8880,7 +8880,7 @@ diccon
 depolariser
 daimio 1
 dermatitis
-decaisnea 1
+decaisnea 2
 dice
 diceboard
 dilemi 2
@@ -12052,7 +12052,7 @@ diurnals
 disentitlement
 dudishly 1
 drepanaspis 1
-disentombment
+disentombment 1
 disclaimers 1
 deplaceable
 disentrail
@@ -15007,7 +15007,7 @@ dolcissimo 1
 distrains
 distinctify
 determ
-doggerelism 2
+doggerelism 3
 doggerelist
 desperate 2
 doggerelizing 3
