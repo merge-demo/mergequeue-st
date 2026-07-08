@@ -824,7 +824,7 @@ epop
 exulate 1
 eloine 1
 ectiris
-etamines
+etamines 1
 ectocarpus
 eriophorum 1
 eosinophil 1
@@ -4481,7 +4481,7 @@ entalent 3
 eery
 ectotheca 3
 erucin 3
-encephalomyocarditis
+encephalomyocarditis 1
 emancipate 1
 enactive 1
 emerita 1
@@ -13284,7 +13284,7 @@ explicates
 euglenoidina
 eyewitness 1
 eriodendron 3
-endotoxoid
+endotoxoid 1
 evangelicism 4
 ectocuneiform
 epitheliomata
