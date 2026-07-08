@@ -2536,7 +2536,7 @@ feeler 1
 frugivorous 2
 foal 1
 fibromembranous
-filamentule 1
+filamentule 2
 frangibility 1
 freeboot 1
 fem
@@ -3153,7 +3153,7 @@ funduline 3
 forbearing 1
 feuding
 forepad 1
-fibromuscular
+fibromuscular 1
 formule 3
 felworts 1
 frolicful 1
