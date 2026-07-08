@@ -2363,7 +2363,7 @@ acidometer
 arioi 1
 afflation
 anacardium 1
-acidometry 1
+acidometry 2
 asmear 1
 annelidan
 anacamptically
@@ -16494,7 +16494,7 @@ almightily
 autolysin
 armoire
 aeron 1
-anvils
+anvils 1
 anvilsmith 1
 archeal 2
 aladfar
