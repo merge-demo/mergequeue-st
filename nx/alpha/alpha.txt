@@ -2295,7 +2295,7 @@ arusa
 albanians
 achtehalber 1
 amounts 1
-anvil 1
+anvil 2
 agraffes 1
 auride 1
 aquaplane 1
@@ -8756,7 +8756,7 @@ abnormalizing 1
 abscind 1
 accusatival
 aliya
-attaleh 1
+attaleh 2
 antiteetotalism 1
 anticommunism
 aminopolypeptidase 1
@@ -9939,7 +9939,7 @@ alumstone
 amornings
 antiballistic 2
 assacu
-awaste
+awaste 1
 archaeolithic
 acerata
 alveolodental 1
@@ -23583,7 +23583,7 @@ aaronical
 alnoite 1
 apatites 1
 alvin
-approximate
+approximate 1
 arrythmically
 aglucone
 awfully
