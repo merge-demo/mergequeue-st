@@ -133,7 +133,7 @@ fackeltanz 3
 frill 1
 fumiferous 2
 flashforwards 1
-fictile 3
+fictile 4
 flagellist 2
 feedhead
 fibre 1
@@ -3682,7 +3682,7 @@ fiddleys 4
 filioque 2
 feistiest 1
 foysen 2
-fruitwise 1
+fruitwise 2
 futurisms
 fathead
 firesider
@@ -4527,7 +4527,7 @@ fusser 1
 frugal
 forwardsearch 1
 fractionized 3
-formulate
+formulate 1
 felinophile 1
 filemarks 2
 franklinization 1
@@ -5438,7 +5438,7 @@ farolito 3
 frontes 1
 flyblown 1
 forager 2
-fiendliness
+fiendliness 1
 fashion 2
 frolickly 1
 forseek 2
