@@ -5716,7 +5716,7 @@ catatony 1
 catatonic 1
 currant 1
 coeloglossum
-countersignal
+countersignal 1
 catawampous 1
 catawamptiously
 cenogenetically
@@ -8642,7 +8642,7 @@ chanteur 1
 chanteuse
 cisrhenane
 chanticleer
-chanticleers 1
+chanticleers 2
 chantier 1
 curiousness
 capreomycin
@@ -16460,7 +16460,7 @@ crewer
 clockwatcher
 cingulum
 clockwise
-clockworked
+clockworked 1
 clavigerous
 carthamin
 corbeled
@@ -20680,7 +20680,7 @@ carty 1
 complementariness
 complemented
 ciminite 1
-calc
+calc 1
 carotin
 complementer
 cooniest
@@ -21379,7 +21379,7 @@ callidness 2
 concionator
 coydog 1
 concionatory
-cothurni
+cothurni 1
 combfishes 1
 conciseness
 clocks 1
@@ -22216,7 +22216,7 @@ chigger
 campanularian
 choicer
 cloxacillin
-collarman
+collarman 1
 clunker
 congeed
 cleuch 1
@@ -28195,7 +28195,7 @@ corpulent 1
 cobblerfish
 caesar
 crannel
-crannequin
+crannequin 1
 crannia
 colliquefaction 1
 crannied
@@ -30032,7 +30032,7 @@ crouchant
 chilognathan 1
 collare 1
 crouchback 1
-crouched 1
+crouched 2
 crouchie 1
 cahnite
 cacothesis 1
@@ -30166,7 +30166,7 @@ canonise 1
 crucial
 contraceptionist 1
 cruciality
-crucially 2
+crucially 3
 crucian
 chokidar
 crucians
@@ -30279,7 +30279,7 @@ crumhorn
 caingin
 crummer
 celiotomies
-crummy
+crummy 1
 crummier
 coppaelite
 crummiest
