@@ -606,7 +606,7 @@ falsifier 1
 frogmouths 1
 foveolet 3
 floaty 2
-falsifying 1
+falsifying 2
 falunian 2
 fertilisation 4
 fauster 3
@@ -1894,7 +1894,7 @@ flamboyantize 1
 freshwoman 1
 faradizing 1
 frs 1
-fraidycat 1
+fraidycat 2
 flybrush 2
 fingerflower
 fumbling 3
@@ -5749,7 +5749,7 @@ fractuosity 1
 fels 3
 fins 2
 figureheadless
-fisher
+fisher 1
 fmt 1
 foredeserved 1
 fecket 2
@@ -10024,7 +10024,7 @@ feloniousness 2
 frigoric 2
 foun 1
 futureless
-fibroid 4
+fibroid 5
 feracity
 firelike
 frigotherapy 4
