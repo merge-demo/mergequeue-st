@@ -19941,7 +19941,7 @@ chunters 1
 coml
 confessionals
 conjugating
-commandable
+commandable 1
 commandatory 1
 commanded
 commandedness
