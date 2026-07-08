@@ -3699,7 +3699,7 @@ facebread 2
 footcandles 1
 fillies
 families 1
-firedogs 2
+firedogs 3
 foalfoot
 fillings 2
 furfuryl 1
@@ -5921,7 +5921,7 @@ folliculosis 2
 frostbites 3
 flogs 1
 fermis
-floyd 1
+floyd 2
 foeticidal 1
 fluviovolcanic 2
 flybane 3
@@ -6249,7 +6249,7 @@ firnismalerei
 friendlike 2
 frankeniaceous 2
 fecit 3
-flamefish
+flamefish 1
 fluoarsenate 3
 fissuring
 ferromagnet 2
@@ -6819,7 +6819,7 @@ freelancer 4
 folderols 2
 foreheater 1
 foreleader
-foveiform 3
+foveiform 4
 fjelds 1
 frette
 fiddlebrained 3
@@ -8621,7 +8621,7 @@ foxhole 2
 fornication
 forest
 feigner
-fossilize 2
+fossilize 3
 fornicatrix 3
 fieldman 1
 frameshift 3
@@ -9382,7 +9382,7 @@ forjudge 1
 flichter 1
 forbiddal 1
 fishless 1
-fetichistic 3
+fetichistic 4
 felinities
 frothy 1
 fleawood 1
@@ -11710,7 +11710,7 @@ fanfish 2
 foremasthand
 fiancailles
 frowns
-furriered
+furriered 1
 ferruled 4
 foredesign 1
 fosslology 1
