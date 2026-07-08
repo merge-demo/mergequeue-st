@@ -5075,7 +5075,7 @@ carvoeira 1
 carvoepra
 carwash
 clamatorial
-carwashes
+carwashes 1
 chider
 carzey
 casablanca
@@ -6885,7 +6885,7 @@ clockroom 1
 contingencies
 compaction
 caffein
-celtization
+celtization 1
 cardiorrhexis
 consol 1
 camis 1
@@ -10890,7 +10890,7 @@ cariacine
 chipwood 1
 chiquito 1
 clavate
-chiral
+chiral 1
 clerids
 cardstock
 contortioned 1
@@ -11253,7 +11253,7 @@ chloridic 1
 chloridized 1
 collochemistry 1
 chemotropism
-compaternity
+compaternity 1
 carlin
 chlorimeter
 chlorimetric
@@ -22637,7 +22637,7 @@ cringer
 connexure
 crumbier 1
 connexus
-cosuggestion
+cosuggestion 1
 comperes
 clamjamphrie
 chinles 1
@@ -30774,7 +30774,7 @@ cujam 2
 cuke 1
 commissural
 culavamsa
-coxcombicality
+coxcombicality 1
 chryslers
 counterintrigue 1
 cangle
@@ -31081,7 +31081,7 @@ cynophile
 clearers 1
 ciselure
 cumuli
-chugger
+chugger 1
 clinicopathologically 1
 cumulocirrus
 cottoned
