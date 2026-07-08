@@ -5755,7 +5755,7 @@ carolean
 cannon
 catchlight 1
 cultivatability
-cornein 1
+cornein 2
 clockcase
 crystallogy
 cowpock 1
