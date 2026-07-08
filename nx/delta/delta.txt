@@ -5895,7 +5895,7 @@ dere 1
 defeatee
 depreter
 deprint 2
-depriorize 2
+depriorize 3
 disorderedness 1
 deprivable 1
 dormin 1
@@ -17791,7 +17791,7 @@ dasyuridae 1
 dewiness 1
 demises
 ducdame
-diplocoria
+diplocoria 1
 defector 2
 duchan 3
 diagraph
