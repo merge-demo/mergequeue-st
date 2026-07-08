@@ -946,7 +946,7 @@ cornices
 collared
 colpotomy
 calorically
-canterburies
+canterburies 1
 calaboose 2
 cycloidei 1
 canelle
@@ -4640,7 +4640,7 @@ carditic
 caoba 1
 caroller
 carols 1
-carolus 1
+carolus 2
 chemicocautery 1
 carom 1
 clubbily
@@ -20202,7 +20202,7 @@ committible
 committor
 coxcombical 1
 commix
-commixing 1
+commixing 2
 chinenses
 curvaceously
 commixtion
@@ -27557,7 +27557,7 @@ coverchief 3
 cannulated 1
 cerberean 2
 climatotherapeutics 1
-covercle
+covercle 1
 coprolalia
 carangidae
 covered
@@ -29129,7 +29129,7 @@ clubbism
 crinoidea
 cachexy
 casper
-chicagoan
+chicagoan 1
 crinoidean
 crinoids
 cuadrillero
