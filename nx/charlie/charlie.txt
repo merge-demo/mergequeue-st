@@ -1715,7 +1715,7 @@ cawing
 calosoma 1
 calotermes
 calotype
-cosey
+cosey 1
 cyclodiolefine 2
 contrasty 2
 calotypic 1
@@ -5618,7 +5618,7 @@ catalo
 cataloes
 cataloged
 character
-cariousness 1
+cariousness 2
 centi 1
 crochet
 catalogia
@@ -14456,7 +14456,7 @@ cirrose
 chetrums
 cholelithiasis
 capsulociliary 1
-caseine 1
+caseine 2
 cirrosely 2
 cirrostomi
 cirrostrative
@@ -25147,7 +25147,7 @@ connotes
 chirotherium
 coinstantaneous
 corequisite
-corer
+corer 1
 corers
 cores
 carbonates
@@ -31228,7 +31228,7 @@ ceramicists
 cupules 1
 curvatures
 convulsible
-chickenhood 1
+chickenhood 2
 covetousness
 cantharidate 1
 commonplace
