@@ -7349,7 +7349,7 @@ detersiveness 1
 disunions 1
 detestation 1
 detestations 1
-dethronement 2
+dethronement 3
 diminute
 dethronements
 dethrones 1
@@ -7675,7 +7675,7 @@ deviately
 dramatical 2
 dioecism
 daddock
-depredable
+depredable 1
 deviation
 dementias
 deviationism 1
@@ -12394,7 +12394,7 @@ dampne 1
 dishome 1
 dishonor 1
 distendedness 2
-dishonorer 1
+dishonorer 2
 doctrinairism 1
 deresinize 2
 dishonoring 2
@@ -17101,7 +17101,7 @@ dosers 1
 disthroning 1
 divisory
 diaconus 1
-dismally 2
+dismally 3
 diclinies 2
 diaplexus
 developes
