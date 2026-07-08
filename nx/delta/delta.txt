@@ -1849,7 +1849,7 @@ doorstead 1
 diacetamide
 diiodide 3
 doughnut 1
-debellator 1
+debellator 2
 darapti 1
 drugmaker 1
 daphnetin 2
@@ -7238,7 +7238,7 @@ deverbative
 desolately 1
 disnatured
 dux
-dyingly
+dyingly 1
 detente 1
 dicotyl
 dimetric
@@ -16055,7 +16055,7 @@ douceur
 dislocate 1
 dakir 2
 dextrins 1
-doucker
+doucker 1
 dioxids 1
 danny
 dipode
