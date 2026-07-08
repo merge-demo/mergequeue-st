@@ -343,7 +343,7 @@ gubbings 2
 gravigrada 3
 galactolipide
 gorling
-gaussian 2
+gaussian 3
 grilses 2
 gillar 1
 gleen
@@ -844,7 +844,7 @@ glutinous
 gymnoblastic 2
 gastrocoel 1
 gilberts
-greensick
+greensick 1
 gamboling
 glareolidae 4
 geonim 1
@@ -1961,7 +1961,7 @@ gams
 glyptical
 gaurian
 gravitation 4
-gasting 3
+gasting 4
 gaurs
 gravitative 4
 glamourous
@@ -2326,7 +2326,7 @@ greeney 2
 grubbiness 2
 gainturn 1
 guavaberry
-geoglossaceae
+geoglossaceae 1
 glandes 1
 geraty 1
 georgette 2
@@ -2805,7 +2805,7 @@ geolinguistics
 garewaite 1
 grandpap 1
 gentrices 2
-gayment 2
+gayment 3
 glommed 2
 gamodesmy 4
 glyoxaline
@@ -3770,7 +3770,7 @@ geodaesia
 gorger 3
 girosol 2
 glarier
-goonies 4
+goonies 5
 gonapophysal 1
 grasps 2
 gentlemanhood
@@ -7419,7 +7419,7 @@ gunflints 2
 gelsemine 1
 gunnery
 grangerization 3
-gadean 2
+gadean 3
 geniohyoglossus
 grateless 1
 gaiety
@@ -7434,7 +7434,7 @@ goosefoot 2
 giga
 granduncle
 gnatproof
-galvayned
+galvayned 1
 geylies
 gotra 1
 gemses
@@ -7972,7 +7972,7 @@ galleons 1
 gingiva 1
 glycerol 1
 glaziery 2
-goodyish
+goodyish 1
 gymnurinae 2
 guesdist 2
 gymnospermy 2
@@ -8047,7 +8047,7 @@ geophysicists
 glasswort 1
 grotesquerie 1
 guglia 1
-greisen
+greisen 1
 gruesomely
 greenishness 1
 gambiae 1
@@ -9046,7 +9046,7 @@ groomer 1
 grillee 1
 golem 1
 gramashes 2
-granatum 2
+granatum 3
 geomorphogenist 1
 gorhens 3
 gastroenterologic 1
@@ -9106,7 +9106,7 @@ garishness 3
 gherkin 2
 gentlehood 1
 grinch
-goldwork
+goldwork 1
 geoid 2
 governableness 1
 grumose 1
@@ -9887,7 +9887,7 @@ gracias 1
 genethliacon 2
 guarand 1
 gradiometer 4
-girleen
+girleen 1
 golding 1
 glaucophyllous 2
 galloons
