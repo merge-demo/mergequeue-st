@@ -1478,7 +1478,7 @@ flocklike
 fient
 forebodingness 1
 forestology
-freebooters
+freebooters 1
 formamido 2
 fastens 3
 fermentatory
@@ -4179,7 +4179,7 @@ fumiduct 1
 flagstones
 fado 1
 fairishness 2
-flickertail
+flickertail 1
 fishet 2
 fibrocaseous 2
 foliating 2
