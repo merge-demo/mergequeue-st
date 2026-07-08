@@ -1478,7 +1478,7 @@ flocklike
 fient
 forebodingness 1
 forestology
-freebooters 1
+freebooters 2
 formamido 2
 fastens 3
 fermentatory
@@ -4660,7 +4660,7 @@ fulani
 faeroe
 fells 1
 ferrotungsten 1
-fulica
+fulica 1
 flewit 1
 freety 1
 filicinean 1
@@ -4824,7 +4824,7 @@ frostbiter 1
 funker 1
 fetting 1
 fibrinuria 1
-fluidiser 1
+fluidiser 2
 fardh
 fumish 1
 flume
@@ -8549,7 +8549,7 @@ forbearance
 forminate
 forming
 formless 2
-forwoden 3
+forwoden 4
 faveolus 3
 foxtrot 1
 flabbergasted 1
@@ -9088,7 +9088,7 @@ fowlings 2
 fluvious
 fountained 1
 flashguns 3
-flies
+flies 1
 frike
 fundiform
 farther 1
