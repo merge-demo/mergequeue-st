@@ -1297,7 +1297,7 @@ gestation 1
 grandpa
 garefowl 2
 gyrene 1
-generalizable 1
+generalizable 2
 gnawingly 1
 gargalize 2
 guttles
@@ -3675,7 +3675,7 @@ ghoulishly 3
 gatelike
 grimiest 1
 griseofulvin
-gastrocystis 4
+gastrocystis 5
 gyse 2
 galvanoplastics
 granaries 2
@@ -5398,7 +5398,7 @@ gambist
 girlhood 1
 guerdoned 2
 gus 1
-glossoepiglottidean
+glossoepiglottidean 1
 germanly
 greenness 2
 glauconiidae 1
@@ -6305,7 +6305,7 @@ geophysics
 gruneritization 2
 goblins 1
 goldenpert 2
-gallivanters
+gallivanters 1
 gebang 1
 gardevisure 1
 gobo 1
