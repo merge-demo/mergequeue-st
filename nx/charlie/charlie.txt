@@ -1137,7 +1137,7 @@ calypterae
 cardiant
 caveatee
 calcispongiae
-chromatosphere 4
+chromatosphere 5
 calcite
 carollers
 cuppers 1
@@ -1713,7 +1713,7 @@ calorist
 calorizing 1
 cawing
 calosoma 1
-calotermes
+calotermes 1
 calotype
 cosey 1
 cyclodiolefine 2
@@ -4132,7 +4132,7 @@ casuist
 capitate
 chughole
 cardinalis
-closehearted
+closehearted 1
 cichlids
 clerihew
 cubed 2
@@ -5697,7 +5697,7 @@ catasetum 1
 ching
 communionist 3
 ceratopsia
-cephalodymia
+cephalodymia 1
 catastases 1
 congregationist
 catastasis
@@ -8206,7 +8206,7 @@ charcoaled
 camise 1
 cercomonas
 compressing
-callants
+callants 1
 caracoli
 chalazium
 chandam
@@ -8250,7 +8250,7 @@ coadunation 1
 chalcomenite 2
 chalcone
 chalcopyrite
-chalcosine
+chalcosine 1
 calyptrogyne
 crocodilite
 coween
@@ -9060,7 +9060,7 @@ coleophora
 chromophobe
 charophyta
 courantes
-cannily
+cannily 1
 cabala
 charoses
 charoseth
@@ -9288,7 +9288,7 @@ cordite
 chaucerian
 chauchat
 cuorin
-conjunctive
+conjunctive 1
 chauffage
 chauffer
 chauffeured
@@ -10954,7 +10954,7 @@ chiromantic
 cabret 2
 cicatrixes
 chiromantis
-chirometer
+chirometer 1
 chiromys
 cheetal
 cryostase
@@ -12283,7 +12283,7 @@ christen 1
 christendie
 christendom
 christener
-cleanhearted 1
+cleanhearted 2
 christening
 christens
 christhood
@@ -18234,7 +18234,7 @@ coffeeberries
 concocts 1
 catacumba
 cohosting
-concessionary
+concessionary 1
 chartings
 coffeegrower
 cantinas
@@ -18679,7 +18679,7 @@ cointerred
 cointerring 1
 cantrips 1
 coyo
-coyol 1
+coyol 2
 coyos
 coyotes
 coccoloba 2
@@ -18688,7 +18688,7 @@ caucusing
 coyoting
 coypous
 conversance
-coypus 1
+coypus 2
 coirs
 colicker
 clogs
@@ -18842,7 +18842,7 @@ clinkered
 colichemarde 1
 colicines 1
 cenotaphy
-cultigen
+cultigen 1
 celiac
 colicins
 corvisor 1
@@ -21852,7 +21852,7 @@ cassian 1
 cytopharynges
 calypter 1
 confabulatory
-caracul
+caracul 1
 counterdecree
 confact 1
 cartelizing
@@ -21957,7 +21957,7 @@ confidentialness 1
 confidently 1
 confidentness
 confider
-confiders
+confiders 1
 chaetosoma
 confiding 1
 coppa 2
@@ -24726,7 +24726,7 @@ charkhana
 corkscrewing 1
 canyons 1
 cell 2
-consistent
+consistent 1
 coldish 1
 croppers 1
 coppra
@@ -28447,7 +28447,7 @@ chabot
 creancer 1
 carpintero
 creant
-creased 1
+creased 2
 countertenors 1
 chromotypic
 creaseless
