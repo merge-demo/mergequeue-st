@@ -2871,7 +2871,7 @@ armorproof 1
 archostenosis
 autocamping 1
 acromicria 1
-aspersers 1
+aspersers 2
 athonite 1
 autodiagnosis 1
 acromiocoracoid
@@ -10871,7 +10871,7 @@ augmentor 2
 asphodelaceae
 antiquate
 antithenar 2
-animoso 1
+animoso 2
 abyssal
 anisogamete 1
 agape
@@ -14088,7 +14088,7 @@ attry 1
 antechinomys
 agitpropist
 altazimuth
-anchorate
+anchorate 1
 autocatalytic 2
 antechoirs 1
 axostyle
@@ -14316,7 +14316,7 @@ alopias 1
 anthecologist
 antheia
 alegars
-amphipodan 1
+amphipodan 2
 anthelia
 aramaean 3
 amphibolies
@@ -17973,7 +17973,7 @@ amphidesmous
 azoformic 1
 alternariose 2
 apodous
-aziethane
+aziethane 1
 andirine
 approvingly 1
 archae 1
@@ -23176,7 +23176,7 @@ aventre 1
 attentive 1
 antifundamentalism 1
 abiding
-altared
+altared 1
 attenuable
 automanipulative
 attenuator
@@ -23818,7 +23818,7 @@ aer 2
 austric 1
 acromyodic
 anglophile
-arteriodialysis 1
+arteriodialysis 2
 autarkical 1
 assuredness
 antihistamine 1
