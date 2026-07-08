@@ -133,7 +133,7 @@ fackeltanz 3
 frill 1
 fumiferous 2
 flashforwards 1
-fictile 3
+fictile 4
 flagellist 2
 feedhead
 fibre 1
@@ -1068,7 +1068,7 @@ fastback
 frazed 4
 farrisite
 farfetched 2
-fleerish
+fleerish 1
 firehalls
 forthcame 1
 farruca 1
@@ -3682,7 +3682,7 @@ fiddleys 4
 filioque 2
 feistiest 1
 foysen 2
-fruitwise 1
+fruitwise 2
 futurisms
 fathead
 firesider
@@ -5438,7 +5438,7 @@ farolito 3
 frontes 1
 flyblown 1
 forager 2
-fiendliness
+fiendliness 1
 fashion 2
 frolickly 1
 forseek 2
@@ -10038,7 +10038,7 @@ footpaths 1
 foreshroud 1
 framableness 1
 fenceless 1
-fanga 1
+fanga 2
 forerevelation 1
 fecundations 1
 foredeclare 1
