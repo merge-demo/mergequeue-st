@@ -348,7 +348,7 @@ alcoate
 auletris 1
 apodia 2
 astraeidae
-afright
+afright 1
 acetonemia
 aftwards 2
 abends 1
@@ -2834,7 +2834,7 @@ anarithmia 1
 argonauta 1
 accise
 abalienation 2
-acrodontism
+acrodontism 1
 acrodrome 1
 amyxorrhoea
 acetum 1
@@ -3081,7 +3081,7 @@ anthropogenesis 3
 antimeson
 aland
 atonics
-agapemonite 1
+agapemonite 2
 actinomeric 2
 apostolate 1
 armatures 1
@@ -3587,7 +3587,7 @@ avaradrano 1
 addrest
 articulite
 astricts
-adduced 1
+adduced 2
 aragonese
 adducer
 adduces
@@ -10025,7 +10025,7 @@ acrodonts 1
 ambicoloration
 abseiled
 albacore
-architectonically
+architectonically 1
 anthocephalous 1
 ambidexterities 1
 andorite 1
@@ -10563,7 +10563,7 @@ antinodes
 atheling 1
 amidophenol 1
 authorisation
-annelides 1
+annelides 2
 alloxuremia 1
 agua
 assimilator
@@ -11700,7 +11700,7 @@ aucanian 1
 antineutral 1
 aryepiglottidean
 anticarnivorous 2
-acoria
+acoria 1
 argyrodite
 alc
 alphosises
@@ -12019,7 +12019,7 @@ aeschynomene 2
 allergen 1
 arithmetizations 1
 adiaphora 1
-adosculation 2
+adosculation 3
 actualistic 1
 autobahnen 1
 anapnoic 1
@@ -12443,7 +12443,7 @@ androclinium 1
 androclus
 agialid 1
 absoil 2
-aspergilliform 2
+aspergilliform 3
 automelon
 anthela
 androgamone 1
@@ -12648,7 +12648,7 @@ anacatadidymus 2
 anesthesimeter 2
 axiomatizations
 aftertan
-anesthesiology 1
+anesthesiology 2
 anesthesiologies
 aasvogel 1
 angelophany 1
@@ -12891,7 +12891,7 @@ adulterate
 abjunction
 apinch
 angiotripsy
-angiotrophic
+angiotrophic 1
 antiepicenter
 angiport 2
 autoinductive
@@ -13896,7 +13896,7 @@ anotus
 alluvial
 anounou 1
 affix
-anour
+anour 1
 asher 1
 anovulant 1
 anovulatory 1
@@ -15896,7 +15896,7 @@ attributed 1
 awkward
 antiportable
 aclemon
-adenoid
+adenoid 1
 acrophony
 abutter
 anglers
@@ -17700,7 +17700,7 @@ axhead 1
 antiquities 1
 applejohn 1
 analogice
-amidogen 1
+amidogen 2
 antidotism 1
 apples 1
 applewoman
@@ -19501,7 +19501,7 @@ argonautid 1
 argonne
 argons
 argosy 1
-archaizes 1
+archaizes 2
 acanthuses
 argots 1
 acrobatism 1
@@ -20072,7 +20072,7 @@ around
 atheromasia 1
 aschistic 2
 acantharia 2
-archespores 2
+archespores 3
 adenization 1
 anthomyia
 acmic 1
@@ -21465,7 +21465,7 @@ asperifoliae
 asperity
 anthrol
 attrib 1
-associationist
+associationist 1
 abdicating 2
 asperly 1
 acupuncturation 1
@@ -21674,7 +21674,7 @@ aminoacetophenone 1
 afifi
 assaultable 1
 antimissioner 1
-astrospectroscopic
+astrospectroscopic 1
 antiquer 1
 assaulter 2
 attainably 2
