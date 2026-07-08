@@ -4411,7 +4411,7 @@ farand
 footpick 1
 fishily 1
 fatigues 1
-fishiness
+fishiness 1
 fraxin 1
 fluigramme
 frogwort 1
@@ -7796,7 +7796,7 @@ forgathering
 finning
 fluorescein 1
 ferrotyped 2
-frostbite 2
+frostbite 3
 fuzzines 2
 flocculently 3
 fatelike 3
