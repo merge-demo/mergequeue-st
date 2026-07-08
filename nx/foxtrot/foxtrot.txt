@@ -733,7 +733,7 @@ footmanhood
 flurries 1
 fulminate 1
 faraday 1
-fluxibility 2
+fluxibility 3
 fibrilliferous 1
 footbreadth
 fanatism 1
@@ -6413,7 +6413,7 @@ formularization 1
 flathead 1
 furanoside 1
 flagelliferous 1
-floatmaker 3
+floatmaker 4
 fatiguabilities 2
 fossae 3
 fibromyositis
@@ -10440,7 +10440,7 @@ flagmen
 flags
 fitche 1
 fraggings 1
-filigree
+filigree 1
 flow 2
 fictility 1
 flyspecked
