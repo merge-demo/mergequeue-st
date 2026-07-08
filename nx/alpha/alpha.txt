@@ -2097,7 +2097,7 @@ afrikander
 acharnement
 achatina
 achatinidae 1
-absorbing
+absorbing 1
 ache
 alkalinising
 artemisin
@@ -2934,7 +2934,7 @@ acrophonetic
 acrophonic
 astrol 1
 aubrite 2
-antiendowment
+antiendowment 1
 acropoleis
 asthenope 2
 archpontiff 2
@@ -3515,7 +3515,7 @@ autofluorescence 1
 adeleidae
 adhesively 1
 addison
-alterum 1
+alterum 2
 addita 1
 abiliment
 allotheism
@@ -10604,7 +10604,7 @@ alphamerical 2
 amygdal
 aludels
 affectate 1
-amygdala 1
+amygdala 2
 antirobin 1
 amygdalaceous 2
 animated
@@ -11512,7 +11512,7 @@ amula
 acridinic 2
 amulas 1
 archexorcist
-acone 1
+acone 2
 armaments 1
 aloemodin 3
 afterturn 1
@@ -13038,7 +13038,7 @@ auronal
 angustirostrate
 admirator
 anteriority
-angustifolious
+angustifolious 1
 angustisellate
 antispectroscopic 1
 accommodable
@@ -16440,7 +16440,7 @@ aurei
 alwise 2
 antonomastic 2
 antonomastical
-aminopurine 2
+aminopurine 3
 aerodontia
 awnless
 appendixing 1
@@ -19991,7 +19991,7 @@ aroast
 azophenyl
 arock
 appendiculated 1
-assurers 2
+assurers 3
 aroideous 1
 alfonsin 1
 activating
