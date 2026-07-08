@@ -9530,7 +9530,7 @@ alternatives
 angioblast
 alternifoliate 1
 alternipetalous
-alternity 2
+alternity 3
 arching
 alexandra
 asininely 1
@@ -12803,7 +12803,7 @@ anasazi 3
 areality 1
 alternative
 applies
-angiocardiographies
+angiocardiographies 1
 anileness
 angiocarpic
 angiocarpous
@@ -17592,7 +17592,7 @@ autovalve 1
 antheximeter
 appendotome 2
 activist
-astroid
+astroid 1
 adjoining
 appentice
 agrobiological 1
@@ -24813,7 +24813,7 @@ axle 2
 avis 2
 aflare 1
 ambagitory 1
-augitite 1
+augitite 2
 atractaspis 1
 accordionists 2
 anacletica 1
