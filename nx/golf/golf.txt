@@ -1517,7 +1517,7 @@ galileo 1
 guitars 2
 galibi 2
 gracilariid 1
-grype 2
+grype 3
 gulfiest 3
 grandiloquence
 gearless 1
@@ -2038,7 +2038,7 @@ gutlessness
 glutted
 gavots 2
 glycerophosphoric 1
-gomari
+gomari 1
 giftless 2
 glossers
 gingkoes 1
@@ -2531,7 +2531,7 @@ ganch 1
 generalities 2
 grig 2
 grubbies 1
-gain 3
+gain 4
 guilder 1
 gynecium 2
 gummata 1
@@ -2879,7 +2879,7 @@ gallipots 1
 gledes
 gonocyte 2
 gallinulelike 1
-gombos 1
+gombos 2
 gingerous 1
 gerrymanders 2
 gee 2
@@ -3557,7 +3557,7 @@ glovers 1
 goetae 3
 granitification
 gummic
-ghastliness 1
+ghastliness 2
 ghatwazi 1
 goadster
 grumblesome 1
@@ -3589,7 +3589,7 @@ gauntleted
 gridirons 1
 gillnetting 1
 gonadotropic
-ghostdom 1
+ghostdom 2
 gardenin 1
 gipsylike 1
 gaffkya
@@ -3898,7 +3898,7 @@ graphomaniac 2
 grice
 ganner 2
 graphis 2
-gimping 1
+gimping 2
 grubworms 1
 gigawatts 2
 glossoscopia
@@ -4749,7 +4749,7 @@ gadi 1
 grapewort
 grubstreet 2
 gastrosopher
-glady
+glady 1
 gamophagia
 glassen 4
 glans 1
@@ -5045,7 +5045,7 @@ griffins 4
 goatherd 2
 gastroptosia 1
 glycan 1
-guilders 2
+guilders 3
 gravery 1
 glassmaking 3
 gunfought
@@ -5739,7 +5739,7 @@ glossoptosis 2
 gloomth 4
 gradin
 goings
-gleeds
+gleeds 1
 gish
 grimmish 4
 grapsoid
@@ -6153,7 +6153,7 @@ genovino 1
 gesan 3
 gazetteers 2
 groveling 2
-goal 2
+goal 3
 griffithite 2
 galactophore 1
 goniatite
@@ -6829,7 +6829,7 @@ gamelotte 4
 gunnings 1
 gagwriter 1
 ghostflower 2
-gasmaker
+gasmaker 1
 gastrojejunal 1
 grossirete 2
 gonorrhoeal
@@ -7808,7 +7808,7 @@ granularly 2
 grumbletonian 4
 gralline 5
 gadman 2
-gray
+gray 1
 greasily 1
 geospiza 1
 goosishly 1
@@ -7878,7 +7878,7 @@ gossipping 1
 gynaeocracy 2
 grovy 1
 grecomaniac
-gyrostachys 1
+gyrostachys 2
 ghastliest 5
 gradualistic 1
 grammalogue
@@ -9508,7 +9508,7 @@ groupwise 1
 garvey 2
 glenn 2
 gundelow 4
-ganoidean 4
+ganoidean 5
 grouser 1
 gorgeted 4
 gyred 3
@@ -9745,7 +9745,7 @@ grumpy
 grun 1
 gloppy 1
 geratologic
-girls 1
+girls 2
 gtt
 gelations 3
 gagaku 1
@@ -9989,7 +9989,7 @@ gogglier 5
 gargled 1
 gelseminic 3
 gleaner 3
-gelatinify
+gelatinify 1
 galago 1
 gaslike 2
 gateau
@@ -10411,7 +10411,7 @@ gillbird 1
 giller 4
 geepound 2
 graphiology
-geographized 1
+geographized 2
 gum 1
 gluiness
 gyneolatry
@@ -10575,7 +10575,7 @@ gneissitic 3
 greenwithe 2
 gatewoman 1
 geomalism 2
-grenadiership 1
+grenadiership 2
 grommets 2
 goads 2
 grimacers 1
@@ -10831,7 +10831,7 @@ glucocorticord
 grazings 2
 gelatinizing
 gigunu
-guvacine
+guvacine 1
 goatland 2
 growing 1
 grammatic
