@@ -1795,7 +1795,7 @@ calvaire
 cordage
 calvary
 caffeate
-commerciality
+commerciality 1
 countergarrison
 curagh
 calvarial 1
@@ -1843,7 +1843,7 @@ camay 1
 camaieu
 camail 2
 camailed
-calzada
+calzada 1
 camaka 1
 camaldolese 1
 camaldolesian 1
@@ -2794,7 +2794,7 @@ cannie
 cagui
 cannings
 chemicalization
-chiccories
+chiccories 1
 cannister 2
 cannisters 1
 crystallographically 1
@@ -12311,7 +12311,7 @@ cafard 1
 carotene
 careener
 christianopaganism
-cryptographically 1
+cryptographically 2
 christians 1
 caracolite
 christicide
@@ -18744,7 +18744,7 @@ comprehensibility
 conquistador 2
 colatitude
 colazione
-colberter
+colberter 1
 colbertine
 corinthianism 2
 clearweed
