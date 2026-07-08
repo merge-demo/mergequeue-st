@@ -5,7 +5,7 @@ greenth 3
 gaseliers 1
 googul
 gummous
-gunrooms 1
+gunrooms 2
 gabber 3
 gabbers
 gobi 2
@@ -138,7 +138,7 @@ guelf 1
 gentlewomanly 1
 gigantology 1
 gaelic 1
-gs 2
+gs 3
 gallicole 1
 guy 2
 gentisin 1
@@ -252,7 +252,7 @@ gibbons 3
 gladii 1
 gainage 1
 giovanni 2
-griselda 1
+griselda 2
 greenlandic 4
 geologizing 2
 ghostlike 1
@@ -307,7 +307,7 @@ galjoen 1
 gaudful
 gourami 3
 gadolinium 1
-grognard
+grognard 1
 grundsil
 gelatins 3
 galeorhinus 1
@@ -862,7 +862,7 @@ gliadin 2
 gonolobus 1
 gyratory 2
 gallomaniac 1
-gloriousness
+gloriousness 1
 greeing 1
 gastromyxorrhea 2
 gire
@@ -956,7 +956,7 @@ geocentrical 2
 gamogamy 1
 gastriloquism 1
 gitanemuck 1
-guaiac
+guaiac 1
 gunstone 4
 ghostless 1
 glist 1
@@ -3590,7 +3590,7 @@ gridirons 1
 gillnetting 1
 gonadotropic
 ghostdom 1
-gardenin
+gardenin 1
 gipsylike 1
 gaffkya
 grubbing
@@ -3694,7 +3694,7 @@ goldfield 1
 generator 1
 gropingly
 germania 2
-giantkind 2
+giantkind 3
 guys
 gastraneuria 1
 goggle 2
@@ -4976,7 +4976,7 @@ gamekeepers 1
 granulitis 2
 glariness 1
 gregarinae
-gelada
+gelada 1
 grutched 1
 gelechia
 granules 3
