@@ -1624,7 +1624,7 @@ bilamellate 1
 ballo 1
 brachydactylic
 blumea
-begluc 2
+begluc 3
 banneret
 brairding 1
 bestar
@@ -6819,7 +6819,7 @@ baroi 1
 bes
 biocide 1
 bushpig
-boaedon
+boaedon 1
 bivouac 1
 busboy 2
 battalia
@@ -12216,7 +12216,7 @@ bollock
 bema 1
 brachiate 2
 beginner
-bolloxes
+bolloxes 1
 barfy 1
 bolls 1
 bunkum
@@ -16715,7 +16715,7 @@ bankbooks 1
 bleached
 bodycheck
 bucko 1
-buckoes 1
+buckoes 2
 baronetise
 balaam
 basilicae 1
