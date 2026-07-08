@@ -2967,7 +2967,7 @@ coation
 clip 1
 cantharidian
 cantharidize
-cantharidized
+cantharidized 1
 cantharus
 chank
 carabini
@@ -4893,7 +4893,7 @@ crosshatched
 carritches 1
 carriwitchet 1
 carrocci 1
-carroch 2
+carroch 3
 connivers 1
 carrollite
 carromed
@@ -17716,7 +17716,7 @@ cocobola
 cocobolas
 comeupance
 cocobolos 2
-cocoyam 3
+cocoyam 4
 centralize
 cocomat 1
 caesaropapacy
@@ -18514,7 +18514,7 @@ cohibition
 chinks
 cohibitor 1
 cohitre 2
-chandlering
+chandlering 1
 collieries
 cohobator 1
 choushes 1

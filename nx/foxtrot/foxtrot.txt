@@ -1847,7 +1847,7 @@ fluoroid
 feastless 2
 fayettism 1
 feloid 1
-febrile
+febrile 1
 forrue
 fcs 1
 forfeit 1
@@ -6059,7 +6059,7 @@ fertilize 1
 flagrantness 2
 frizz 1
 flunkeyize 1
-farting 2
+farting 3
 fungiform
 fenceful 2
 freebooted 1
@@ -6490,7 +6490,7 @@ fakes 3
 filiciform 4
 fario 2
 filagreeing 5
-factionist
+factionist 1
 fluxes 1
 floody 1
 flustrated 2
@@ -10823,7 +10823,7 @@ footpads 2
 farmerette 2
 fuchsian
 fort 1
-fructificative
+fructificative 1
 floundered 2
 fuchsine 1
 flustra 2
