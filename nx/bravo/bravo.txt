@@ -1624,7 +1624,7 @@ bilamellate 1
 ballo 1
 brachydactylic
 blumea
-begluc 2
+begluc 3
 banneret
 brairding 1
 bestar
@@ -1710,7 +1710,7 @@ balmorals 3
 bensh
 bathless 1
 byganging 1
-barchan
+barchan 1
 buqsha 1
 bagnios
 babbishly
@@ -4063,7 +4063,7 @@ bibliophobe
 backbreaker
 benignancy
 bakuba 3
-bedolt
+bedolt 1
 brisure 1
 blanch 1
 bannerets
@@ -4114,7 +4114,7 @@ biassing 2
 ballistics 1
 boagane 1
 baroclinicity 1
-blamableness
+blamableness 1
 bicompact
 brachiopode
 bodysurfs 1
@@ -5101,7 +5101,7 @@ beseeming 1
 backfatter
 brindled
 bowellike 1
-bejuco
+bejuco 1
 boatmaster 2
 befittingness 1
 behoof
@@ -6819,7 +6819,7 @@ baroi 1
 bes
 biocide 1
 bushpig
-boaedon
+boaedon 1
 bivouac 1
 busboy 2
 battalia
@@ -7921,7 +7921,7 @@ blockhouse 2
 byron 2
 bibliophil
 benward
-barff 1
+barff 2
 bulbomembranous
 bilipyrrhin
 bibliopolar 1
@@ -8486,7 +8486,7 @@ bilianic
 boreism 1
 biliferous
 babysitter 2
-byssuses
+byssuses 1
 bastinadoing
 backwards 2
 batak
@@ -11010,7 +11010,7 @@ bribemonger 2
 blackface 1
 bident 2
 buggymen 1
-babysit
+babysit 1
 besmoking
 botryopterid 2
 blitzkrieging
@@ -12216,7 +12216,7 @@ bollock
 bema 1
 brachiate 2
 beginner
-bolloxes
+bolloxes 1
 barfy 1
 bolls 1
 bunkum
@@ -16715,7 +16715,7 @@ bankbooks 1
 bleached
 bodycheck
 bucko 1
-buckoes 1
+buckoes 2
 baronetise
 balaam
 basilicae 1
@@ -17329,7 +17329,7 @@ brasser
 bucoliast 1
 bunchy
 bunchier 1
-bunchily
+bunchily 1
 bunchiness 1
 buncoing
 berthing
@@ -17384,7 +17384,7 @@ brachistochronic
 beignets
 bottles 2
 bejeled 1
-bungling 1
+bungling 2
 bullit 1
 bungos
 bamboozler 2
