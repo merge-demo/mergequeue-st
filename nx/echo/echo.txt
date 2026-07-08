@@ -289,7 +289,7 @@ exhumation 2
 epilepsies 2
 elrage 2
 eelware 1
-encamps 2
+encamps 3
 epitheliums 2
 enterolobium 1
 enantiosis 3
@@ -10900,7 +10900,7 @@ exsolve 1
 emmetropia
 eutectic 1
 extensor
-embryoplastic
+embryoplastic 1
 esthetic 1
 enchaser 1
 erectors
