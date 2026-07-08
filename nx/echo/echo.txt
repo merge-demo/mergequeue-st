@@ -1746,7 +1746,7 @@ ectogenesis
 extg 2
 epigraphic
 eutony 3
-eyes
+eyes 1
 encasing
 eyeseed 1
 entophytically 1
@@ -10592,7 +10592,7 @@ equiprobable
 euphroes
 enteria 2
 eocarboniferous
-elixation 2
+elixation 3
 earthiness 1
 exaggerated 3
 expectance 3
