@@ -2378,7 +2378,7 @@ bagging
 boxboards
 barbotine
 bones 1
-butterless 1
+butterless 2
 bluelines
 bastinade
 belligerency
@@ -7222,7 +7222,7 @@ bladdernut 1
 bestrewment
 besnow
 baconist
-bisporous
+bisporous 1
 basses 1
 bestridden 1
 bluesides
@@ -17298,7 +17298,7 @@ boniest
 bauxite
 bantams
 bummel
-bummie
+bummie 1
 bursal
 bumming
 basilweed
