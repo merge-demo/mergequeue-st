@@ -1599,7 +1599,7 @@ autoportrait
 aposafranine 1
 aconin 1
 airwoman
-agonize 2
+agonize 3
 autosensitized
 attaintment
 antidrag
@@ -1920,7 +1920,7 @@ acetable
 azodisulphonic 1
 antipopularization
 antifaction
-acetabulous 1
+acetabulous 2
 atheromas 2
 acetabulums
 acetacetic
@@ -2080,7 +2080,7 @@ amidoxy 1
 altarpiece 1
 achagua 1
 alnascharism 1
-amoret
+amoret 1
 apocope
 achalasia 2
 anolis
@@ -7109,7 +7109,7 @@ altiloquent 2
 akha 1
 angus 1
 archaeornis
-akhyana
+akhyana 1
 anopsias
 astrild 3
 agaricin
@@ -7134,7 +7134,7 @@ akka 2
 akkad
 acuclosure 1
 appense
-ajonjoli
+ajonjoli 1
 apoxesis
 aphoriser
 arthresthesia
@@ -7151,7 +7151,7 @@ akkadian 1
 akmite
 aftershock 1
 aetheogam
-autopelagic 1
+autopelagic 2
 acumble
 arthroderm
 amanitas 1
@@ -10714,7 +10714,7 @@ antimonarchial 2
 aminate
 avoy
 asok
-autogenously 2
+autogenously 3
 allotriophagia
 amphistylar
 amino 2
@@ -16388,7 +16388,7 @@ antiwear
 abiological 1
 amictus 1
 anthraconite
-affiliates
+affiliates 1
 amacrine
 antiwedge
 ariidae
@@ -17360,7 +17360,7 @@ arias 1
 adansonia 1
 abstracts
 agoramania 1
-ampuls
+ampuls 1
 apostrophes
 atomising
 atik 1
@@ -21133,7 +21133,7 @@ antarchistical 1
 asdic
 antiinflammatories 1
 atrament 3
-arborary 1
+arborary 2
 annexal 1
 ase
 asearch
@@ -22020,7 +22020,7 @@ arthrotrauma
 arabesque 2
 anticeremonial 1
 antiwar 1
-albumenizing
+albumenizing 1
 assuringly 1
 amphiuma 1
 acclimate
@@ -23481,7 +23481,7 @@ augh 1
 algebraists
 astringer
 augite
-augitophyre
+augitophyre 1
 autotomies 2
 absolutistic 1
 augmentable 1
@@ -23776,7 +23776,7 @@ arpenteur
 abannition
 admirability 1
 atka
-actinocarpic
+actinocarpic 1
 asgmt 1
 accursing 1
 austausch 1
@@ -24011,7 +24011,7 @@ accerse
 aracana
 antapocha
 antiproton 2
-align
+align 1
 acetobacter 1
 autoclave
 allemands

@@ -3758,7 +3758,7 @@ battologise 1
 bastile 1
 batlan 1
 bukshi 2
-battologising 1
+battologising 2
 battologize
 bronchiocele 1
 britska 1
@@ -5072,7 +5072,7 @@ biloculine
 beferned 1
 befetished
 bandoline 2
-bilingual
+bilingual 1
 balefire
 basenet 1
 befezzed
@@ -6087,7 +6087,7 @@ bataan 1
 boarskin 2
 binauricular
 benchership 1
-bodge
+bodge 1
 blusters
 benchful 1
 benchman
@@ -6248,7 +6248,7 @@ blastogenesis
 bubas 1
 blatantly 1
 brush
-braceleted 1
+braceleted 2
 becalmed 1
 bimodulus
 benni 2
@@ -6332,7 +6332,7 @@ baratte 1
 barristress
 benzanthracene
 boxboard 2
-bestowed 1
+bestowed 2
 bai
 balandra
 bibs
@@ -6740,7 +6740,7 @@ bardolphian 1
 bori 1
 biangulate 1
 betimes
-berossos
+berossos 1
 beround 1
 bendability 1
 berreaves 1
@@ -6957,7 +6957,7 @@ bromism
 beslap
 bastillion
 bearherd 1
-bouchee
+bouchee 1
 breastful 1
 bedsite
 bestrid 2
@@ -7000,7 +7000,7 @@ bespouses
 boxhaul 1
 behaviorism
 besnowing
-besognier
+besognier 1
 blowlamp 1
 biznagas 1
 bookcraft 1
@@ -7852,7 +7852,7 @@ bibionid 1
 brackebuschite 2
 bewreath
 bealtine 2
-bibiri 1
+bibiri 2
 brad 1
 berserks 2
 bordures 1
@@ -8493,7 +8493,7 @@ batak
 biosocial
 brevicauda 1
 bilimbing 2
-biophilous
+biophilous 1
 beaufin 2
 boddagh
 brummer 2
@@ -11991,7 +11991,7 @@ batfowler
 boardings 1
 batel 2
 bimillenary 2
-brother
+brother 1
 bogued
 bogus
 bottled
@@ -14666,7 +14666,7 @@ buffware
 brute
 brassed
 brasenia
-braseros
+braseros 1
 brash
 bucklering 1
 brasher
@@ -14834,7 +14834,7 @@ belletristic 1
 boildown 1
 brazilite 1
 besoil
-blotters 1
+blotters 2
 bichlorides
 buffed 1
 bloodweed 1
@@ -16436,7 +16436,7 @@ barysphere
 bryanthus
 boroughs
 barmiest
-bewearying 2
+bewearying 3
 balsamum
 bridgeless
 bellibone
