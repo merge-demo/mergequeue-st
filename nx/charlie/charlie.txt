@@ -3506,7 +3506,7 @@ capernaitish
 capsomere
 capsomers 1
 capstan
-capstans
+capstans 1
 capstone 1
 capsula
 cons
@@ -4983,7 +4983,7 @@ clicket 1
 cartmaking 1
 cartobibliography
 columbia
-cartogram
+cartogram 1
 comminate
 cartography 1
 cypseli
@@ -24458,7 +24458,7 @@ cooperia 1
 cumene
 cooperies 2
 coopering
-carved
+carved 1
 checksummed 2
 caroli
 core
@@ -28452,7 +28452,7 @@ countertenors 1
 chromotypic
 creaseless
 creasers 1
-creases 1
+creases 2
 creashaks
 chevachie
 creasier 1
