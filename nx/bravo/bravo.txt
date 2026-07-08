@@ -2528,7 +2528,7 @@ blueblack 1
 beslash 1
 buenos
 bassetite
-bottonhook
+bottonhook 1
 buckler 1
 barguest 2
 barguests
@@ -4904,7 +4904,7 @@ beechnut
 breakstone
 bloomage 1
 backspeer
-bryanite
+bryanite 1
 bomarea
 beechwood
 bright 1
@@ -7645,7 +7645,7 @@ biacetylene 1
 bukshee
 beflower 1
 backened 2
-broigne 1
+broigne 2
 biogenies 3
 beeper 3
 bewraps
@@ -13735,7 +13735,7 @@ bousouki 2
 bousoukia
 brunswick
 boustrophedon 1
-bloomer 2
+bloomer 3
 bircher 1
 banqueted 1
 barytocalcite
@@ -17987,7 +17987,7 @@ bothriolepis 1
 busily 1
 blastophthoria
 bleeze 1
-beguiler
+beguiler 1
 businesses
 beadeyes 1
 babbool 1
