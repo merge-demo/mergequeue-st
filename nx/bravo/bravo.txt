@@ -3546,7 +3546,7 @@ batfowl 1
 bedust 1
 batfowls
 bestore 1
-bulbocavernosus
+bulbocavernosus 1
 brookites 1
 blackroot 1
 bathed 1
@@ -7882,7 +7882,7 @@ billyo 1
 backstitched
 banksmen
 bistipuled 2
-bullation
+bullation 1
 beauclerc 1
 brains 1
 bedboard 2
