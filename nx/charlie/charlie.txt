@@ -6885,7 +6885,7 @@ clockroom 1
 contingencies
 compaction
 caffein
-celtization
+celtization 1
 cardiorrhexis
 consol 1
 camis 1
@@ -11253,7 +11253,7 @@ chloridic 1
 chloridized 1
 collochemistry 1
 chemotropism
-compaternity
+compaternity 1
 carlin
 chlorimeter
 chlorimetric
@@ -19734,7 +19734,7 @@ corallike
 combinative
 counterrotating
 combinator
-combinatory
+combinatory 1
 combinatorial
 combinatorially 1
 combinators
@@ -31081,7 +31081,7 @@ cynophile
 clearers 1
 ciselure
 cumuli
-chugger
+chugger 1
 clinicopathologically 1
 cumulocirrus
 cottoned
