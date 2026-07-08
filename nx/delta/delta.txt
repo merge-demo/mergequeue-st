@@ -1506,7 +1506,7 @@ dc
 dcb 3
 depressure 2
 deaccessioning 1
-dingbats
+dingbats 1
 draughts 3
 dermatorrhea 2
 definiendum
@@ -10603,7 +10603,7 @@ dissatisfying 1
 diplomats
 dysporomorph
 drawfile
-diphtheritic 1
+diphtheritic 2
 diplonema 1
 deuteric 1
 detritus
@@ -18548,7 +18548,7 @@ disrates
 durians 1
 differ 1
 duricrust
-duridine
+duridine 1
 durity 2
 dekalitre 2
 dirging 1
