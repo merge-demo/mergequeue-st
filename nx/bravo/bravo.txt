@@ -1974,7 +1974,7 @@ bisection 1
 bagnio 1
 balances 1
 bandstring
-bathymetric
+bathymetric 1
 brandishes
 bigeye 2
 believes 1
@@ -4275,7 +4275,7 @@ bacillariales
 beaverkin
 bosnian 1
 beaverskin 1
-beaverteen
+beaverteen 1
 braidings 1
 bebay
 beballed
