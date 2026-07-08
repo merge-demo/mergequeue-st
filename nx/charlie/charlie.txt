@@ -5755,7 +5755,7 @@ carolean
 cannon
 catchlight 1
 cultivatability
-cornein 1
+cornein 2
 clockcase
 crystallogy
 cowpock 1
@@ -6904,7 +6904,7 @@ chochos 1
 coenocyte 1
 cementation
 chymosins 2
-coaugment 1
+coaugment 2
 calorimetric
 cementatory 1
 chlorobromomethane
@@ -29470,7 +29470,7 @@ cyprinus
 coprides
 cherishingly
 crystallizable
-crystallization
+crystallization 1
 crystallize
 crystallizes 1
 calvinist
