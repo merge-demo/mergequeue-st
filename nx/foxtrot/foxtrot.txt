@@ -268,7 +268,7 @@ firbolg
 fax 2
 flagarie 1
 fideism 1
-fissle 2
+fissle 3
 fledges 5
 fungoids 2
 fragmentisation 2
@@ -2271,7 +2271,7 @@ florentinism 2
 fimble 2
 flatulence
 firebombed 2
-fumaria 1
+fumaria 2
 forshape 3
 full 2
 flavones 2
@@ -3288,7 +3288,7 @@ farsight 4
 fivescore 1
 fantasticly
 flounces 3
-fortier
+fortier 1
 fulgency 2
 finity 4
 factitious
@@ -4881,7 +4881,7 @@ fetching 2
 factuality 1
 fabricational 1
 funks 1
-foldedly 2
+foldedly 3
 fibrinate 5
 fellage 1
 forbears 1
@@ -5248,7 +5248,7 @@ fratcher 2
 flavoriness
 falangist 1
 faveoli 2
-fulness 1
+fulness 2
 fitful 1
 fierceness
 fishmen 2
@@ -7601,7 +7601,7 @@ factual 3
 fandangos 2
 fleshquake 1
 ferrules
-foredefeated 6
+foredefeated 7
 frankheartedness 2
 fatuity 2
 footslogs 2
@@ -7796,7 +7796,7 @@ forgathering
 finning
 fluorescein 1
 ferrotyped 2
-frostbite 2
+frostbite 3
 fuzzines 2
 flocculently 3
 fatelike 3
@@ -9658,7 +9658,7 @@ faon 1
 fabula 2
 firing
 flannelmouths 2
-featherbone
+featherbone 1
 foodlessness 1
 flytime 2
 forlet
