@@ -1393,7 +1393,7 @@ fishway 1
 fountainlet 1
 fallibly
 firewood
-futchell
+futchell 1
 forbar
 ferreted 2
 fattest 1
@@ -4824,7 +4824,7 @@ frostbiter 1
 funker 1
 fetting 1
 fibrinuria 1
-fluidiser 1
+fluidiser 2
 fardh
 fumish 1
 flume
