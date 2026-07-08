@@ -2537,7 +2537,7 @@ coehorn 1
 candleball
 candleberries 2
 candlebomb 1
-candlefish
+candlefish 1
 corporeal 1
 candlefishes
 collogued 1
@@ -29450,7 +29450,7 @@ crisscrossed 2
 crisscrosses
 crisset 1
 cryst
-crystaling
+crystaling 1
 commentatorially 1
 cantharis
 civilizade
