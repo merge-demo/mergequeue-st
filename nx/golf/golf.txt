@@ -991,7 +991,7 @@ ganderess 1
 genethlialogy 2
 gamester
 grimace 1
-geanticline
+geanticline 1
 gubernia 2
 gingerberry 1
 gemmed 3
@@ -2330,7 +2330,7 @@ geoglossaceae 1
 glandes 1
 geraty 1
 georgette 2
-gelotherapy 2
+gelotherapy 3
 gaoloring 1
 garbed 1
 gymnogenous
@@ -3255,7 +3255,7 @@ graminiferous 2
 germanification
 gadso 2
 gorgonian 1
-gregaritic 1
+gregaritic 2
 geomyid 1
 glancer 1
 glycosin 2
@@ -4433,7 +4433,7 @@ gynocardic
 gypsyism 1
 gowk
 glossokinesthetic
-gasbag 1
+gasbag 2
 graeculus 1
 gummed
 gypsywise
@@ -8470,7 +8470,7 @@ gallstones 4
 gentisic
 goldbricks 2
 glaciarium 6
-goonch 2
+goonch 3
 gratuitant 1
 glossograph
 grenatite
@@ -8731,7 +8731,7 @@ gavelling
 grammars 1
 gearing 2
 gastraeal 3
-gates
+gates 1
 glunching 1
 gnathonical 1
 gastrodisc 1
