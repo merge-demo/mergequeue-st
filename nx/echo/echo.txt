@@ -3364,7 +3364,7 @@ evangelistic 2
 ethylenediamine
 extranormal 1
 emballonuridae
-eulachons 2
+eulachons 3
 equus 3
 eof 1
 energeticalness 1
@@ -4378,7 +4378,7 @@ elaeis 1
 ebriously 1
 encapsulation 1
 emitted
-encapsuled
+encapsuled 1
 enure 1
 encapsuling 3
 endurability 2
@@ -10478,7 +10478,7 @@ etna
 effortful
 etoile
 etrenne 1
-exsurgent
+exsurgent 1
 ellipsis 3
 event
 etrog 2
@@ -10753,7 +10753,7 @@ eulamellibranchiata
 exanthemas 2
 ethylenically
 etrier 1
-enecate 1
+enecate 2
 excelled 2
 eulimidae 2
 encefalon 2
