@@ -246,7 +246,7 @@ baldric 2
 buried 3
 blotless
 balancedness 1
-brontosaur
+brontosaur 1
 beamily 2
 bacillariaceous
 bedfellow 3
@@ -1139,7 +1139,7 @@ bluethroat 1
 bargestone 1
 breakwind
 burseraceae 3
-battercake 2
+battercake 3
 bello 2
 belonesite
 bairns
@@ -2956,7 +2956,7 @@ beath 2
 battalias
 bigeyes
 bennettitaceous
-barrets 1
+barrets 2
 blindeyes
 boundaries 1
 blobby 3
@@ -4002,7 +4002,7 @@ bensil 2
 bicycles 1
 beglew 1
 buyback
-beslur 1
+beslur 2
 bonyfish 2
 believer
 beacons 1
@@ -4735,7 +4735,7 @@ bloomeria 1
 blennorrhinia
 bedlamized
 bedlamizing
-bandlimited
+bandlimited 1
 bobsleding
 bedlamps 1
 boottopping 2
@@ -4789,7 +4789,7 @@ burking
 barrener
 brecciating 1
 blighia 1
-bracker
+bracker 1
 brachylogy 1
 bedriveling
 belledom 1
@@ -9838,7 +9838,7 @@ begin 1
 bonapartean 1
 bongo
 bawd
-bougainvillaeas
+bougainvillaeas 1
 burgherhood
 biteche 2
 barbicans 3
@@ -10880,7 +10880,7 @@ blattiform
 backpacks
 breechless 3
 biradiate
-ballgames 1
+ballgames 2
 budgeters
 bloodguilt 1
 blin
@@ -11544,7 +11544,7 @@ bdellid
 blameworthiness 1
 boswellism
 blunket 1
-brutalism 1
+brutalism 2
 blunnen
 blunt
 barristress 1
@@ -13200,7 +13200,7 @@ brigue
 bisext 2
 brachystomata
 bender
-begemmed 2
+begemmed 3
 boschveld
 bemourn 2
 boulevardize 2
@@ -13445,7 +13445,7 @@ brightsome 1
 belowstairs 1
 barbarea
 blunts 3
-baryglossia
+baryglossia 1
 booting 1
 buncombes 1
 bibliotheca 1
@@ -15815,7 +15815,7 @@ backhandedly 1
 besonio 1
 bimester 1
 blueprinting
-bastide 1
+bastide 2
 bullaria 1
 blare 1
 beshame
