@@ -6856,7 +6856,7 @@ airfoil 2
 airfoils
 airglows
 airgraphics
-androcyte
+androcyte 1
 airhead 2
 ashthroat
 ascula 2
@@ -8421,7 +8421,7 @@ achaemenid
 asynapsis
 aliter
 archaiser
-ality
+ality 1
 apocentricity 1
 alphabeting 1
 attribution
@@ -8826,7 +8826,7 @@ alimental
 anfractuousness 1
 airtightness 1
 abderite 1
-ascoma
+ascoma 1
 acetylcholinesterase 1
 afforests
 acescents
@@ -10453,7 +10453,7 @@ assailants 1
 atheize
 ametabolia 1
 angulose 1
-alikulufan
+alikulufan 1
 apocalyptism 2
 antenoon
 anglogaean
@@ -11626,7 +11626,7 @@ albinoism
 amanitin 1
 antineutrons 2
 aiery 1
-anacharis
+anacharis 1
 arriver
 alps
 apodes
@@ -17915,7 +17915,7 @@ aqueousness
 apprizers
 almaciga 1
 apprizing 1
-amate
+amate 1
 approach 2
 aristodemocracy
 anthracotheriidae 1
@@ -19616,7 +19616,7 @@ airheads 3
 apposing 1
 arikara 1
 anthracomartus
-aplastic 2
+aplastic 3
 annotate 1
 ark
 arillate
