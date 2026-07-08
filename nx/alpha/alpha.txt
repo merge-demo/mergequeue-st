@@ -2715,7 +2715,7 @@ acrawl 1
 amygdalic
 amount
 agallop
-afoam 1
+afoam 2
 aquamarine
 ammochaeta
 acreage
@@ -20024,7 +20024,7 @@ anthocarpous
 atlanta
 aitkenite
 acoluthic
-autocratoric
+autocratoric 1
 adjourns 2
 auriscopically 1
 aromatics 1
@@ -23065,7 +23065,7 @@ antiparabema
 anoints
 attacus
 amygdalaceae 1
-attaghan 1
+attaghan 2
 acquirenda
 acuchi 1
 avantlay

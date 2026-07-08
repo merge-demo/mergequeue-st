@@ -1628,7 +1628,7 @@ concertize 1
 coassumed 1
 calls 1
 cosavior
-callum
+callum 1
 calluna
 calamarioid
 coenzyme
@@ -2914,7 +2914,7 @@ cacaos
 cantabile 1
 chloralum
 clothesmonger 1
-chalcis
+chalcis 1
 cantabrian
 cantabrigian
 cantalever
@@ -2942,7 +2942,7 @@ cantation
 cantatrice 1
 coverts
 chestily 1
-chorioids 1
+chorioids 2
 condylos
 crappy 1
 cantdog
@@ -19734,7 +19734,7 @@ corallike
 combinative
 counterrotating
 combinator
-combinatory
+combinatory 1
 combinatorial
 combinatorially 1
 combinators
