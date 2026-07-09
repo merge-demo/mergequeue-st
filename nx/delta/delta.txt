@@ -3658,7 +3658,7 @@ degradement
 dozing 3
 depsid
 disrupt
-decimalisation 1
+decimalisation 2
 discalced
 degraduate
 degravate 1
@@ -16504,7 +16504,7 @@ dandies 1
 disnumber
 depside
 dracontic
-dwellings
+dwellings 1
 demagogical 1
 dairywoman 1
 detached 1
