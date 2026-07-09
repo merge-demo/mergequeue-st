@@ -28500,7 +28500,7 @@ creatureling
 creatures
 coruscant
 carapo
-creatureship
+creatureship 1
 conversibility
 creaturize
 churchanity 1
