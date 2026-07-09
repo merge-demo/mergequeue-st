@@ -20638,7 +20638,7 @@ clastic
 complacence 1
 chlorella
 complacency
-complacent
+complacent 1
 cantor 2
 citrate
 cosmosophy
@@ -28500,7 +28500,7 @@ creatureling
 creatures
 coruscant
 carapo
-creatureship
+creatureship 1
 conversibility
 creaturize
 churchanity 1
