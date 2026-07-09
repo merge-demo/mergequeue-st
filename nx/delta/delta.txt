@@ -2678,7 +2678,7 @@ deconsecrate 1
 duels 1
 dareful
 deconsecrated
-demitrain 2
+demitrain 3
 deconsideration
 decontaminating
 diatessaron 1
