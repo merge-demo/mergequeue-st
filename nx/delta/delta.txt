@@ -15528,7 +15528,7 @@ diascord 3
 demodulator 2
 drummers
 defeasible
-dereligionize
+dereligionize 1
 donnerd
 donnick 2
 donnock 1
