@@ -1871,7 +1871,7 @@ gaucho
 geniohyoid
 generalists 3
 gerbillus
-groundable
+groundable 1
 gowd 2
 gumbos
 grails 3
@@ -2713,7 +2713,7 @@ gunboats 3
 gaedelian
 grooms
 gentiopicrin
-girths 2
+girths 3
 gymnasisia 1
 gunfire 1
 gong 1
