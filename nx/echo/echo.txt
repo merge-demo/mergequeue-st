@@ -5696,7 +5696,7 @@ engineries
 embrace 1
 eau 3
 educabilia
-emerald 2
+emerald 3
 engirdle
 ebullient
 engrege 2
@@ -9335,7 +9335,7 @@ eponge
 effecter 3
 educable
 escalades
-escalating
+escalating 1
 escalations 3
 enkindle 1
 exuviate 1
