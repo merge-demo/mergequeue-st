@@ -7244,7 +7244,7 @@ feodary 3
 flaxboard
 forepeak
 fordwine 1
-footstall 4
+footstall 5
 filature 3
 fridays 2
 fleetings
@@ -10049,7 +10049,7 @@ finicky 1
 fowlpox 1
 fopped
 frypans 1
-frillily
+frillily 1
 falderal 3
 flammigerous
 frilliness 3
