@@ -2327,7 +2327,7 @@ adjectitious
 attempers
 acidaspis
 acider 2
-anaphoric
+anaphoric 1
 azimech 2
 acidy
 acetamid 1
@@ -11656,7 +11656,7 @@ amal 1
 acronyc
 amarevole
 androgametophore
-ailette
+ailette 1
 atonal 2
 asteriated
 andromede 1
@@ -13199,7 +13199,7 @@ anthropomorpha
 autographal
 animalivorous
 anticreativity
-alapa 1
+alapa 2
 animalized
 andaquian
 arthrosteitis 1
