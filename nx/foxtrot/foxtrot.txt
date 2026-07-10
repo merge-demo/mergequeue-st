@@ -2583,7 +2583,7 @@ feinting 1
 fumes 1
 forechase 2
 fogramity 1
-flongs 2
+flongs 3
 ferrocyanate 1
 formicid
 ferroelectric
@@ -7707,7 +7707,7 @@ fewter 2
 forehooves 1
 foreboding 1
 fissidentaceae
-fogramite
+fogramite 1
 flowoff
 flarfish 2
 falsified
@@ -11424,7 +11424,7 @@ fechnerian 1
 flushboard 2
 faradomuscular 2
 feasor
-flocculose 2
+flocculose 3
 furniture
 flummoxing 2
 footlicking 3
