@@ -3831,7 +3831,7 @@ flauto 2
 fellside 1
 flectionless 3
 filthifying
-formin 1
+formin 2
 fairhead 1
 firewoods 2
 foulder
@@ -6400,7 +6400,7 @@ farinas
 ferinely
 fluoroform 1
 fricasseing 4
-fluoboric
+fluoboric 1
 forefoot 1
 fronture 1
 furry
