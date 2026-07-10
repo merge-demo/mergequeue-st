@@ -4795,7 +4795,7 @@ aranein
 albuminimetry
 allogamy 1
 attemperation
-aequor 2
+aequor 3
 altitudes 1
 avalanche 1
 aequorins 1
@@ -5594,7 +5594,7 @@ aftermost
 afternoons 1
 afternose 1
 afterpains 1
-auburns
+auburns 1
 afterpast 1
 afflux 1
 afterplanting
@@ -22723,7 +22723,7 @@ arthrology 1
 antioptimistically 2
 archy
 agribusinesses
-athletical
+athletical 1
 arizonite 1
 athleticism
 averruncation
@@ -23073,7 +23073,7 @@ attagirl
 attain 1
 agaricinic
 arkosic
-antimatter
+antimatter 1
 ataxics
 antiquarians
 adiated 1
@@ -24411,7 +24411,7 @@ autostyly 1
 asinegoes
 autopticity 1
 accessorizing 1
-avouches
+avouches 1
 azlactone
 arces 1
 altruistic 1
