@@ -3676,7 +3676,7 @@ evangelistically 1
 eprosy
 enchytrae 1
 entrancer 2
-extrachromosomal 1
+extrachromosomal 2
 eila 1
 ecmnesia
 envenom 1
@@ -3695,7 +3695,7 @@ elec 2
 extratellurian 1
 eluates 1
 effluvium
-enantiotropic
+enantiotropic 1
 expunged
 elucidators
 embryophore
@@ -10183,7 +10183,7 @@ eponymies 1
 eunuchoid
 esteemer
 elisabeth
-ectoparasite 1
+ectoparasite 2
 erastianism 2
 etherifying
 etherism 1
