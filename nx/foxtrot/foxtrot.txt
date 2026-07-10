@@ -5596,7 +5596,7 @@ ferricyanhydric 1
 flaglike
 flicker 4
 fixity 1
-frapler
+frapler 1
 floatable 4
 fiords 1
 ferfel 2
