@@ -3230,7 +3230,7 @@ eluctate
 elude 2
 equant 1
 educive 1
-extroversively
+extroversively 1
 eludible
 epilogize
 enfollow 1
@@ -3676,7 +3676,7 @@ evangelistically 1
 eprosy
 enchytrae 1
 entrancer 2
-extrachromosomal 1
+extrachromosomal 2
 eila 1
 ecmnesia
 envenom 1
@@ -10183,7 +10183,7 @@ eponymies 1
 eunuchoid
 esteemer
 elisabeth
-ectoparasite 1
+ectoparasite 2
 erastianism 2
 etherifying
 etherism 1
@@ -12101,7 +12101,7 @@ escheator 2
 endued 1
 ensepulchered
 engulfs 2
-edentates
+edentates 1
 expressor
 easels 1
 emblazonry
