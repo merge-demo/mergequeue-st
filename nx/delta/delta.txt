@@ -1745,7 +1745,7 @@ debone
 daredevilry 1
 desponsate 1
 drouthy 1
-dyad 1
+dyad 2
 dishwiping 1
 deathify
 diobol
@@ -2961,7 +2961,7 @@ dwarfism 1
 distrainment 2
 deductive 2
 deductory 1
-deducts 1
+deducts 2
 deduplication
 despoliations 1
 deecodder
@@ -12204,7 +12204,7 @@ descartes 1
 diplosome 1
 deliberativeness 1
 decolors
-dossiere 1
+dossiere 2
 demoniacism 1
 drubbing
 daybook
@@ -16221,7 +16221,7 @@ dermatotherapy
 dowsets 1
 densitometer 2
 determinedness 2
-demagogs
+demagogs 1
 decanters
 derange 3
 darneder
