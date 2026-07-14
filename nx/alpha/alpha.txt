@@ -2138,7 +2138,7 @@ apout 1
 auditor 1
 ammonionitrate 1
 almonership
-achiest 2
+achiest 3
 acquests 1
 athodyds
 achievable 1
@@ -11083,7 +11083,7 @@ anthropometer
 archegone
 amorphus 1
 amerindian 2
-amort 1
+amort 2
 amortizable 2
 algic
 assibilation
@@ -11329,7 +11329,7 @@ actuated 1
 administratorship 1
 apiose
 acropodium
-amphisbaenas
+amphisbaenas 1
 accordable 3
 amphisbaenoid
 arts
@@ -25108,7 +25108,7 @@ argumentation 2
 apothegms 1
 abaptistum 1
 annealed
-axilemmas
+axilemmas 1
 adenological 2
 aotearoa
 axillae
