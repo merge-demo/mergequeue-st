@@ -2408,7 +2408,7 @@ coffined 1
 canceled
 canceleer
 canceler
-cancellable
+cancellable 1
 contrasters 1
 catabolite
 cyprinidae 1
@@ -6908,7 +6908,7 @@ coaugment 2
 calorimetric
 cementatory 1
 chlorobromomethane
-curvirostres
+curvirostres 1
 charros
 cementer 1
 cementification 1
@@ -11091,7 +11091,7 @@ committeeism
 chloridation
 chitosans 1
 capsids 2
-chitose
+chitose 1
 chitrali 1
 chytridiaceae
 captains 1
