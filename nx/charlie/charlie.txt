@@ -3447,7 +3447,7 @@ caprifig
 caprifole 1
 caprifoliaceae 2
 caprifolium
-capriform
+capriform 1
 caprylic
 cymene
 caprylyl
@@ -11419,7 +11419,7 @@ cheerfulsome
 ciboule 2
 confetto
 cabrioles 2
-cloakless
+cloakless 1
 chondriosome 1
 cho 1
 complete 2
@@ -17889,7 +17889,7 @@ cordonazo
 codist 1
 codivine
 codline 2
-calcigerous
+calcigerous 1
 controlled 1
 codling
 classlessness
