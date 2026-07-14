@@ -5,7 +5,7 @@
 ### Welcome
 
 This repository is used to demonstrate the performance characteristics of a merge graph under
-different simulated loads.
+different simulated loads on our staging environment.
 
 #### Usage
 
