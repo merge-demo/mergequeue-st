@@ -9770,7 +9770,7 @@ engrave 1
 encouragements 1
 expenthesis 3
 echium
-electroplate
+electroplate 1
 etherifies
 estable 1
 enchalice 4
