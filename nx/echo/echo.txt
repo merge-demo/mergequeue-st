@@ -180,7 +180,7 @@ electrolier
 equipoising 1
 extraformal 2
 examiner
-estrogenic 1
+estrogenic 2
 expels
 emeras 1
 exclamatively 3
@@ -9770,7 +9770,7 @@ engrave 1
 encouragements 1
 expenthesis 3
 echium
-electroplate
+electroplate 1
 etherifies
 estable 1
 enchalice 4
@@ -13623,7 +13623,7 @@ epoxides
 elementally 1
 excern 1
 enteroceptor 1
-endosteomas 3
+endosteomas 4
 extance
 extemporally 1
 elkanah
