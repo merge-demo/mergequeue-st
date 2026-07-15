@@ -1404,7 +1404,7 @@ anomural
 approximating 1
 acceptability
 antistimulant 2
-amintor
+amintor 1
 acceptance 1
 axisymmetrical
 absorbent
@@ -13760,7 +13760,7 @@ alibis 1
 aeroperitonia
 alertly
 avant
-anomatheca
+anomatheca 1
 anomia
 acquiet
 anaesthatic 1
@@ -13854,7 +13854,7 @@ airthing
 arnotta
 anorth 1
 atacamite 1
-anorthite
+anorthite 1
 antiwarlike
 adriana 1
 ambassadorship 1
@@ -16003,7 +16003,7 @@ accessorius
 arapunga 1
 antiradical 1
 antiegotist
-actinopterous 2
+actinopterous 3
 arthroclasia 2
 anither
 alastair
