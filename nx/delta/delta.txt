@@ -154,7 +154,7 @@ deprivations 2
 depasturable
 drugstore 2
 doltishly
-dareall 1
+dareall 2
 designfully 2
 dadoes 1
 deiparous
@@ -10872,7 +10872,7 @@ doddart
 debaters
 deconcentrate
 disjuncts
-desalting 1
+desalting 2
 disculpate
 diruption 1
 dereference
@@ -11238,7 +11238,7 @@ debussyan
 disgracers 3
 dyotheletism
 dyarchical 1
-dimethyldiketone
+dimethyldiketone 1
 deadeyes 1
 dimmable 1
 dulceness
@@ -16809,7 +16809,7 @@ diarrhoeic
 disesteemer
 disorganized
 drawback 2
-drawbar
+drawbar 1
 disposability
 desisted
 decolorate
