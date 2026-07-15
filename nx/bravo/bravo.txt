@@ -1036,7 +1036,7 @@ blain
 baigneuses 1
 bellis 3
 boraces
-barmecidal 1
+barmecidal 2
 balcony 1
 burnweed
 bail
@@ -4244,7 +4244,7 @@ breathy 1
 blackwasher 1
 breadwinners 1
 bocaccios
-bawdries
+bawdries 1
 beautydom
 butylic
 bedung
@@ -9005,7 +9005,7 @@ beneficium
 buttermaker 1
 boroughmongery
 bitting
-biologics
+biologics 1
 busybodyish
 bioluminescence
 brachyhieric 1
@@ -17576,7 +17576,7 @@ blayne 1
 boorishly
 blore
 brutally 1
-belong 3
+belong 4
 bugle 2
 burgau 1
 benzidins
