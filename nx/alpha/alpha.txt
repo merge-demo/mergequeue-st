@@ -19017,7 +19017,7 @@ agricolist 1
 anastomosed
 auctionary
 autochthonic
-authorial
+authorial 1
 algol 3
 amaryllis
 archmonarch
@@ -20046,7 +20046,7 @@ autobiographical
 aromatophor
 article 1
 arline
-allness 1
+allness 2
 annuary 1
 apiculated 1
 accentuality
@@ -20693,7 +20693,7 @@ articulare 1
 allelomorph
 appertains
 associate
-alder
+alder 1
 anglophobe
 anteroclusion
 auriculovertical 1
