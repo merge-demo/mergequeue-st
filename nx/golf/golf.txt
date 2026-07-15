@@ -3497,7 +3497,7 @@ geums
 garmentworker 1
 ganglions
 gymnorhina 2
-geomagnetist
+geomagnetist 1
 gluconeogenesis
 grugru 1
 gunslinging
@@ -7777,7 +7777,7 @@ glycinin 1
 georama 3
 gonzo 2
 gulinulae 2
-graped 1
+graped 2
 geography 2
 gospelize 1
 gonystylaceae 2
