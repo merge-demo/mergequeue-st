@@ -8253,7 +8253,7 @@ diagnosing
 duel
 denude 1
 diagonals 1
-diagonalwise
+diagonalwise 1
 denudate 2
 demonization 1
 diagonic 1
@@ -9036,7 +9036,7 @@ doto
 dicruridae 1
 delia 1
 dehort
-disillusioniser
+disillusioniser 1
 droukit 1
 diplomatist
 dernier
@@ -11299,7 +11299,7 @@ discerped 2
 discontinued
 dowset
 deambulatories 1
-davens
+davens 1
 deprivate 1
 discerpible
 discerpibleness 2
