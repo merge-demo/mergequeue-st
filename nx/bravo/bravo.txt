@@ -2431,7 +2431,7 @@ blinkering 2
 bromoiodide
 brotherhood 1
 bards 1
-bardship 1
+bardship 2
 backaching
 butter
 boobies 1
@@ -12223,7 +12223,7 @@ bunkum
 bollworm 1
 blizzardly
 bolo 1
-bicron 1
+bicron 2
 bogberries
 baloo 1
 bicarbide
@@ -14327,7 +14327,7 @@ braggish
 bugloss
 borocitrate
 blaver
-bedirtying 3
+bedirtying 4
 braggle
 bragite
 blimps
@@ -17092,7 +17092,7 @@ bitterwood
 bladderet 1
 bellrags
 bulldozed 2
-bulldozing
+bulldozing 1
 botonee 1
 blackcaps
 beduck
