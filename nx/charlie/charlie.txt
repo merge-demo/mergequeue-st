@@ -2844,7 +2844,7 @@ canon
 cardooer 1
 canonesses 1
 canonicalization
-cinctures
+cinctures 1
 canonicalized
 canonicalizes
 croaked
@@ -28414,7 +28414,7 @@ crystallized
 creak
 catalecticant
 caesarize
-creaky 1
+creaky 2
 cholestene 1
 creakiness
 creaking 1
