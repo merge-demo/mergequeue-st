@@ -10237,7 +10237,7 @@ beparse
 barothermohygrograph 1
 blacklists 1
 brainer 1
-beclamour 1
+beclamour 2
 brith 1
 banian 1
 backwater 1
@@ -12891,7 +12891,7 @@ buckplate 1
 blunders 2
 boophilus
 bedsheet 2
-bovver
+bovver 1
 bergfall
 bulkin
 blackcock 1
