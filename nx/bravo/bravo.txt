@@ -1878,7 +1878,7 @@ befrets
 banderole 2
 bastardliness 1
 bindings
-brigading
+brigading 1
 banders 1
 broadlings 1
 befogging
@@ -9894,7 +9894,7 @@ besotter 1
 brasilete
 barr 2
 babysat
-bagle 1
+bagle 2
 beleave 1
 bitser 1
 bitsy
