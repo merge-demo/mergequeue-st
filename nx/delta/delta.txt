@@ -800,7 +800,7 @@ diuretical 1
 danegelds 1
 deckhead 1
 daneweed 1
-daneweeds 2
+daneweeds 3
 detections
 dactyliomancy
 diabrotic
@@ -3185,7 +3185,7 @@ delegatory 1
 dislevelment
 descendible
 despiteous 1
-dulcineas
+dulcineas 1
 dandriffs
 determinant 2
 deracine 2
@@ -12563,7 +12563,7 @@ dextrer 2
 disintegrity
 disinter
 disinterest 1
-disinterestedly
+disinterestedly 1
 disinterestedness
 disinterment 2
 depilous
