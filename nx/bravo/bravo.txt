@@ -1878,7 +1878,7 @@ befrets
 banderole 2
 bastardliness 1
 bindings
-brigading
+brigading 1
 banders 1
 broadlings 1
 befogging
@@ -7666,7 +7666,7 @@ bourgeoisitic 2
 balanidae
 bilabiate 2
 bezan 2
-biplace 2
+biplace 3
 bezanty 1
 brassiness 1
 bargain
@@ -9894,7 +9894,7 @@ besotter 1
 brasilete
 barr 2
 babysat
-bagle 1
+bagle 2
 beleave 1
 bitser 1
 bitsy
