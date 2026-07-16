@@ -4866,7 +4866,7 @@ equiv 3
 eveck
 eudemons 1
 extradictable 1
-endamoebas 1
+endamoebas 2
 endamoebidae 3
 equations
 entoils
@@ -13607,7 +13607,7 @@ ebeneous 1
 exsudate
 embowelling 1
 extumescence
-egeria
+egeria 1
 emulation 1
 esoteric 1
 exsufflate 2
