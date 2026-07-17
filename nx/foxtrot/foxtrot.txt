@@ -371,7 +371,7 @@ filicauline 1
 fall 3
 forbid 1
 fairfieldite 1
-facets
+facets 1
 fancifully 2
 fairground 5
 fairy 3
@@ -4213,7 +4213,7 @@ feelingful
 fornicator
 fireflirt 2
 foolishest
-fluviatile 2
+fluviatile 3
 fritillary 1
 fridge
 figurative 1
