@@ -4130,7 +4130,7 @@ dunkers
 desipience
 durneder
 dunstable 3
-discolorization 3
+discolorization 4
 dicyanogen
 diadokokinesis 1
 duodena 1
@@ -7033,7 +7033,7 @@ dissentiate 2
 docentship 2
 destress 2
 decoke
-dorje
+dorje 1
 degrees
 disjointed 2
 despumation 1
@@ -14880,7 +14880,7 @@ delitous 2
 disengagement 1
 dodecahedral 1
 dieselization
-dodecahydrate
+dodecahydrate 1
 duodenojejunostomy
 divata 1
 deploys 3
