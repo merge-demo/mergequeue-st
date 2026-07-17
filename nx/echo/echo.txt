@@ -2956,7 +2956,7 @@ etrogim
 electrotype
 encamped
 eliminant
-ennoblers 1
+ennoblers 2
 externalising 1
 elicitors 1
 eclogite 1
@@ -13436,7 +13436,7 @@ edacities 2
 escalates
 excitatory 1
 evilmouthed
-emaciates
+emaciates 1
 eltime 1
 espadrilles
 energizer 2
