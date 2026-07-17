@@ -784,7 +784,7 @@ gaulter
 ganymede
 gutter 2
 gluck
-gutturize 1
+gutturize 2
 galvanothermometer 1
 ggr 1
 galliformes
@@ -6519,7 +6519,7 @@ groveler 2
 gynecomaniacal
 gutsiness 1
 graciles 3
-grammatophyllum 1
+grammatophyllum 2
 grand 3
 gummose 1
 ganglioneural
@@ -9504,7 +9504,7 @@ grandiosely 2
 groutier 2
 gaes
 gyving 3
-groupwise 1
+groupwise 2
 garvey 2
 glenn 2
 gundelow 4
@@ -9729,7 +9729,7 @@ gambir 3
 gordiidae 1
 gagroot 1
 gablewise 3
-gambes
+gambes 1
 gorged 1
 gastrodynia 1
 glutens
