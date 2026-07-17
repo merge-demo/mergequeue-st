@@ -1686,7 +1686,7 @@ fanfares
 fearsomeness 2
 foreshape 2
 feased 1
-folic 1
+folic 2
 footmen
 fumigant 1
 fingrigo
@@ -6657,7 +6657,7 @@ foemen
 fogyish 1
 forethoughtfully 1
 fullered 1
-frankfold 1
+frankfold 2
 flaringly 1
 foetation 2
 filt 1
@@ -8110,7 +8110,7 @@ fiendfully 1
 ferrochromium 2
 fissuriform
 flusterated 1
-frippet 2
+frippet 3
 forejudged 1
 forenews
 faunistic 1
@@ -10056,7 +10056,7 @@ frilliness 3
 farmplace 2
 filefishes 4
 favourer 2
-foralite 1
+foralite 2
 flee 3
 flatwork 2
 fantod 1
@@ -11269,7 +11269,7 @@ famble 2
 faciest
 forestalled 1
 featherwork
-funnels
+funnels 1
 fourer
 funny 2
 fundamentality 1
