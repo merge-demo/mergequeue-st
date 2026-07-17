@@ -755,7 +755,7 @@ forelouper 5
 fanciful 1
 footbridge 2
 fanciless 3
-foliicolous
+foliicolous 1
 forestaff 2
 fandoms 1
 frivolized 2
@@ -4688,7 +4688,7 @@ fixt 1
 furca 2
 flopwing 1
 fangs
-fummel 3
+fummel 4
 furtherer
 flamboyancy 1
 fistlike 1
