@@ -5152,7 +5152,7 @@ casey
 caseic
 caretaker 2
 chrysographer
-cholecyanin
+cholecyanin 1
 cherimolla
 casein
 caseinate
@@ -7318,7 +7318,7 @@ cephaloauricular 1
 chelicera
 cerusites
 carks
-comnenian
+comnenian 1
 cupels
 cephalocentesis
 coprocessors
@@ -16053,7 +16053,7 @@ cryopathy
 click 2
 clicked 1
 clicker 1
-corneitis
+corneitis 1
 clickers
 cosigns
 clemmed 3
@@ -22761,7 +22761,7 @@ consacre
 consanguine
 consanguinean
 caballeros
-consanguineous 1
+consanguineous 2
 consanguineously
 caulocarpous
 coemptio 1
