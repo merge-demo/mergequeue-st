@@ -2527,7 +2527,7 @@ countermands 1
 coasters 1
 candies
 candying
-candymaker
+candymaker 1
 cardiophobe 1
 candymaking
 candite
