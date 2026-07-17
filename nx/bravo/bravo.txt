@@ -5252,7 +5252,7 @@ begass
 bitless 1
 backmost 1
 blastocyst 2
-bolters
+bolters 1
 bioblast 2
 bestraddle
 bastes 6
