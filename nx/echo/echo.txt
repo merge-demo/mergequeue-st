@@ -2348,7 +2348,7 @@ electroplating 2
 expostulate
 ecumenical
 emulsifying 1
-esterizing 2
+esterizing 3
 egba 1
 episteme 1
 electrocolloidal 2
@@ -3951,7 +3951,7 @@ encephalic
 emotioned 3
 emotionize 1
 eugregarinida 1
-epimeron
+epimeron 1
 emolument 1
 exogens 1
 elevator
@@ -7822,7 +7822,7 @@ enterolith
 elbowed 2
 elbower 2
 essays
-epigrammatizing 1
+epigrammatizing 2
 endaortitis 1
 endonuclease
 erection
