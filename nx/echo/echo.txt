@@ -4290,7 +4290,7 @@ enterable 1
 endothelioid 2
 entrenches
 esture
-elytroclasia
+elytroclasia 1
 ephestia
 expulsive
 expansibleness 1
