@@ -7087,7 +7087,7 @@ centiday
 cannikin
 copt
 confluences 1
-centigrams
+centigrams 1
 centile
 cendre 1
 catamited
@@ -23220,7 +23220,7 @@ crakefeet
 constricted 1
 cobby
 constricting 1
-constriction 1
+constriction 2
 coelomic
 constrictive
 constrictor
@@ -26492,7 +26492,7 @@ commiserable
 cystocarp 1
 careenage
 cotrine
-cathodoluminescence
+cathodoluminescence 1
 cacoplastic
 curet
 catocalid
