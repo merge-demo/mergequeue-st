@@ -4942,7 +4942,7 @@ dragontail
 dephosphorize 2
 draggled 1
 diamb
-demountable
+demountable 1
 devastators 1
 demounts
 dempsters
