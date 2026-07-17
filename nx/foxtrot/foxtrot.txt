@@ -11204,7 +11204,7 @@ firewall
 forcipal
 fireplugs 1
 felonwort 1
-frenzelite
+frenzelite 1
 fastly 4
 flinter
 fullgrownness
