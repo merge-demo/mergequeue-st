@@ -1495,7 +1495,7 @@ acclimatise 2
 acclimatiser
 acclimatising
 aegagrus
-applewood
+applewood 1
 aborsive 1
 algid
 alpinery
@@ -5342,7 +5342,7 @@ apophantic
 andantinos
 androsin
 affixers
-affixes 2
+affixes 3
 afterpiece
 affixial
 aspatia
@@ -11768,7 +11768,7 @@ armorbearer
 appetizement
 acacatechin 2
 ablator 1
-acnodes
+acnodes 1
 anagogic 2
 ambar 2
 aventayle
