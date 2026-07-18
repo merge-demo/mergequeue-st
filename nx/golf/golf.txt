@@ -2769,7 +2769,7 @@ glovelike 1
 gathers 1
 gazettal 1
 gramophonical 1
-grigris
+grigris 1
 gormless 1
 glottalite 1
 gloiopeltis 2
@@ -2890,7 +2890,7 @@ gobiiformes 2
 gwiniad
 glitter 1
 gabbled 2
-geocerite 2
+geocerite 3
 glove 1
 gubernation 1
 greenheaded
@@ -5189,7 +5189,7 @@ gastriloquist
 gibbals 1
 gourding
 guardianships 2
-girouette
+girouette 1
 gleys
 gesticulacious 1
 gynecopathic 2
@@ -5971,7 +5971,7 @@ gaur
 glutose
 gainspeaking 1
 gluttonish 1
-grainsman 1
+grainsman 2
 granulous 1
 geometry 1
 gutterman 2
