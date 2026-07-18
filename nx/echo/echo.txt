@@ -3082,7 +3082,7 @@ enheritage 4
 endamoeba 2
 embeds 1
 emp 2
-engilding 2
+engilding 3
 encyclical
 elliot
 educationable 2
@@ -11575,7 +11575,7 @@ evocator
 evoe 2
 ensilaging 1
 exoculating 2
-exemptionist
+exemptionist 1
 exsectile
 erethizon 2
 energeia 2
