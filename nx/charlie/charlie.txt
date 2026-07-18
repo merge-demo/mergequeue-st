@@ -10843,7 +10843,7 @@ chiopin 2
 churnability 1
 centropomus 1
 chip 1
-chipchop 1
+chipchop 2
 chipewyan 1
 chiplet 1
 culvert
@@ -13203,7 +13203,7 @@ coworker
 compesce
 cyclanthus 1
 coenaculous
-cyclases
+cyclases 1
 ciclatoun
 coralbells 1
 cyclecars
@@ -30742,7 +30742,7 @@ cuiejo
 cuif 1
 cuifs
 cuinage
-cuirassed
+cuirassed 1
 cuirasses 1
 cuirassier 1
 commonplacely 1
