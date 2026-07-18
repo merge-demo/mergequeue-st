@@ -1503,7 +1503,7 @@ fleecing 2
 foamers
 franklinite 1
 franconian
-fattenable 3
+fattenable 4
 fumettes 1
 fauntleroy 2
 filmdoms 1
@@ -6429,7 +6429,7 @@ foliates 2
 fireflower 1
 freshish 1
 facsimileing
-foppish
+foppish 1
 farset
 fluorimetric
 frizing 1
@@ -7569,7 +7569,7 @@ formers 1
 falconries 1
 fragor
 fernseed 1
-foreclosure 2
+foreclosure 3
 fevering 2
 fodientia 1
 forecommend 1
