@@ -1306,7 +1306,7 @@ calflike
 calfling
 calfskin
 creatural 1
-calgary 1
+calgary 2
 caliban
 cunea 2
 calaverite
@@ -3306,7 +3306,7 @@ capitulant
 centrists 1
 capitularies 1
 clathrus 1
-clankingness
+clankingness 1
 cosmetiste 4
 capitularly 1
 capitulars
@@ -12522,7 +12522,7 @@ cranky
 corundophilite 1
 cran
 colonists 1
-creakiest 1
+creakiest 2
 cattycorner
 congelation
 countergauger
