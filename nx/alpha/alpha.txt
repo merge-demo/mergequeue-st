@@ -5663,7 +5663,7 @@ anticorrosion 1
 afwillite
 afzelia 2
 apsychia 1
-adjustable
+adjustable 1
 anagram 1
 amidstream
 affloof 1
@@ -11768,7 +11768,7 @@ armorbearer
 appetizement
 acacatechin 2
 ablator 1
-acnodes
+acnodes 1
 anagogic 2
 ambar 2
 aventayle
