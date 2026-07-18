@@ -4204,7 +4204,7 @@ disacknowledge
 deltas
 dukeling
 dook 1
-desipiency
+desipiency 1
 dopaminergic
 disputatious 1
 deuteragonist 2
@@ -5080,7 +5080,7 @@ desexes
 detect 2
 dola 2
 daubes
-dumber 4
+dumber 5
 dendrologous
 derivatives 1
 depth 2
@@ -16106,7 +16106,7 @@ deaning 1
 drimys 1
 deterration
 denaturisation
-disfrocked
+disfrocked 1
 deoppilative 1
 decayedness 1
 doulce 1
