@@ -8615,7 +8615,7 @@ debugging
 dampproof 1
 dialyses 1
 diary
-diaglyph
+diaglyph 1
 diarist 2
 dibbuk 2
 denatured 1
