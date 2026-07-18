@@ -3335,7 +3335,7 @@ fandom 1
 fulcra 3
 fleshlike
 flon 1
-forsung 2
+forsung 3
 flench
 furuncle 3
 fidge 2
@@ -3989,7 +3989,7 @@ forfeited 1
 foxbane 1
 futchel 1
 forlay 1
-flunk 2
+flunk 3
 ferric 2
 furazolidone 2
 fender 3
@@ -4280,7 +4280,7 @@ fleers 1
 fiancee 1
 follicule
 fibster 1
-fenland 3
+fenland 4
 fungology 2
 feudaries 1
 firmarii 2
@@ -7418,7 +7418,7 @@ forethrift 2
 forceless 3
 fasciolar
 flagellariaceae 2
-floreate
+floreate 1
 fasciculation 3
 fey 2
 fasti 1
