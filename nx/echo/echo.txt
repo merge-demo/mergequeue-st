@@ -6961,7 +6961,7 @@ entrer 2
 entresols 3
 endocardial
 extractors 1
-electrotitration
+electrotitration 1
 enamourment
 explorable 1
 effigiating 4
