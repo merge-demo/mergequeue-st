@@ -5135,7 +5135,7 @@ expedition 3
 endogenous
 enlistment 1
 echar 1
-electo
+electo 1
 embroider 1
 endoglobular 1
 eleme 2
