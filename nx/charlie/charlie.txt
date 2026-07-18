@@ -10843,7 +10843,7 @@ chiopin 2
 churnability 1
 centropomus 1
 chip 1
-chipchop 1
+chipchop 2
 chipewyan 1
 chiplet 1
 culvert
@@ -26072,7 +26072,7 @@ coshes 1
 coshing 1
 cosy
 caulicule
-cosie 1
+cosie 2
 cedrine
 colotyphoid 1
 cosies 2
@@ -30742,7 +30742,7 @@ cuiejo
 cuif 1
 cuifs
 cuinage
-cuirassed
+cuirassed 1
 cuirasses 1
 cuirassier 1
 commonplacely 1
