@@ -2813,7 +2813,7 @@ attar
 autolytic
 acrobryous 1
 alarms
-airglow 2
+airglow 3
 apotropaion 1
 autopista
 acrocephalic 1
@@ -8199,7 +8199,7 @@ algometrically 2
 alictisal
 apathize
 applicant
-anastasis
+anastasis 1
 algophagous
 algophilia 1
 algophilist
