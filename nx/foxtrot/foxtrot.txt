@@ -3348,7 +3348,7 @@ floorers
 frowsiest 2
 fluorescer 1
 fulmined 1
-fiedlerite
+fiedlerite 1
 flooding
 fiel 2
 falconer 1
@@ -7673,7 +7673,7 @@ factualness
 fables 2
 factualism 2
 foreworn
-foreguess
+foreguess 1
 flammant 1
 flambant 3
 foretopsail

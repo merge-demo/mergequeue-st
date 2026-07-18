@@ -5430,7 +5430,7 @@ counteractingly
 contradictoriness 2
 castilla 1
 castilleja
-castillo
+castillo 1
 coattestation 1
 chronologize 1
 concertmeister 3
@@ -7272,7 +7272,7 @@ centurist
 coroners 1
 cherishes 1
 ceorl
-cep
+cep 1
 cholangioitis
 crisis 1
 cepaceous 1
@@ -20782,7 +20782,7 @@ cheapskate
 complicator 1
 complice
 complicity
-campodea 4
+campodea 5
 compliment 1
 coenesthesis
 coalyard
@@ -25091,7 +25091,7 @@ chinked
 curtation 1
 coregency
 coregent 1
-courtlet 1
+courtlet 2
 coregnancy 1
 cubicity
 cleptobiosis
