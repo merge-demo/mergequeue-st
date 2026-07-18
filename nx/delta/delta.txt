@@ -3366,7 +3366,7 @@ dictative
 defis
 desophistication
 disrestore 2
-dynagraph
+dynagraph 1
 dithionate
 deflagrator
 deflating
@@ -14124,7 +14124,7 @@ divisibility 2
 dolomization
 dystrophia
 dystrophic 2
-dubbers 2
+dubbers 3
 disturb
 disturbance
 dominican
