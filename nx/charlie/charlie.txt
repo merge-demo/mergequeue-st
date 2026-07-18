@@ -5753,7 +5753,7 @@ cakebread
 catching
 carolean
 cannon
-catchlight 1
+catchlight 2
 cultivatability
 cornein 2
 clockcase
@@ -12407,7 +12407,7 @@ chromatoscopy
 chevalet
 clumps 1
 chromatosis
-cadmean 1
+cadmean 2
 chromaturia
 calciphilic
 chromazurine
