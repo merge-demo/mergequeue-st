@@ -2769,7 +2769,7 @@ glovelike 1
 gathers 1
 gazettal 1
 gramophonical 1
-grigris
+grigris 1
 gormless 1
 glottalite 1
 gloiopeltis 2
@@ -5189,7 +5189,7 @@ gastriloquist
 gibbals 1
 gourding
 guardianships 2
-girouette
+girouette 1
 gleys
 gesticulacious 1
 gynecopathic 2
