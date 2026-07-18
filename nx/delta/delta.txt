@@ -5545,7 +5545,7 @@ drouthiness 2
 depends 4
 dallack 4
 dispersed
-dramatizable
+dramatizable 1
 dukeship
 dieters 2
 depeopled
