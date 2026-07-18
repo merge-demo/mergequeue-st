@@ -23391,7 +23391,7 @@ cleistothecium
 contagions 1
 contagiosity
 contagiousness
-contagium
+contagium 1
 contain
 contained
 containerboard
