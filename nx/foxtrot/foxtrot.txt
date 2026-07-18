@@ -890,7 +890,7 @@ farad
 faradaic
 filleted 2
 fluorometer 3
-flamed 1
+flamed 2
 feel 1
 fluoroborate 2
 faradisation
@@ -3574,7 +3574,7 @@ funmaker
 fencelet
 faradises 1
 foremention 1
-filemaker
+filemaker 1
 flymen 4
 freedstool 1
 fingerlike
