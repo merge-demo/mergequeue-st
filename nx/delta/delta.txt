@@ -5545,7 +5545,7 @@ drouthiness 2
 depends 4
 dallack 4
 dispersed
-dramatizable
+dramatizable 1
 dukeship
 dieters 2
 depeopled
@@ -10415,7 +10415,7 @@ diervilla 2
 diastoles 1
 diphenylene
 dessus 1
-despend 2
+despend 3
 decodable
 diphenylenimine
 ditcher 2
