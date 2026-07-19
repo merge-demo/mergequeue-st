@@ -10892,7 +10892,7 @@ blindball 4
 bindable 1
 bangers
 boxball
-barracker
+barracker 1
 blooddrops 2
 buttals
 blasphemy
