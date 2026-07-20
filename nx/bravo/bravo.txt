@@ -3920,7 +3920,7 @@ begray
 bazars
 bint 2
 brockage
-bazooka
+bazooka 1
 blunge 1
 baumhauerite 2
 boychik 1
