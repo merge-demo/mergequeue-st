@@ -9317,7 +9317,7 @@ escapage 2
 eruptible 2
 eruption
 ellen
-eruptive
+eruptive 1
 extortioner 3
 endear 2
 earable 3
