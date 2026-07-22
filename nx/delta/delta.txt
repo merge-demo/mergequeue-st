@@ -2299,7 +2299,7 @@ dirtplate
 decenters 1
 disaggregation 1
 digestors
-diverting 1
+diverting 2
 dinman
 diocesans
 dynamical
@@ -5043,7 +5043,7 @@ deal
 derbyshire 1
 duchy
 diminishes 1
-derailed
+derailed 1
 donatary
 decalogist 1
 dendrochirota
@@ -7851,7 +7851,7 @@ dukery
 disproving 1
 devove 2
 discombobulates
-dalcassian 1
+dalcassian 2
 divergencies
 dermestes
 diplogenic 1
@@ -8152,7 +8152,7 @@ diacid 2
 detachment
 duellists 1
 duple
-deprecate 1
+deprecate 2
 diacipiperazine
 drapeability 2
 druidism 1
@@ -10238,7 +10238,7 @@ defenestrate 1
 dinted
 dintless
 degradedly 2
-distaste 1
+distaste 2
 doura
 dutch 2
 denitrator 1
@@ -11676,7 +11676,7 @@ discoverable 1
 distilland 2
 disworth
 dorms 1
-discoverer
+discoverer 1
 diabolised
 decancellation
 discoverture
@@ -12933,7 +12933,7 @@ dugout 1
 dermostosis
 degreeing 1
 docilities
-discolor 2
+discolor 3
 disaffectedness 4
 differed
 disoperculate
@@ -13203,7 +13203,7 @@ displeasant
 desmopathy 4
 dechloridizing 1
 deportable 3
-disreverence 1
+disreverence 2
 displeasing
 dassie 1
 discountenancer 1
@@ -14069,7 +14069,7 @@ distributaries
 decore 1
 designative
 doocot 2
-dolichocephalic 1
+dolichocephalic 2
 doggrel
 distributer 1
 distributing 2
@@ -14360,7 +14360,7 @@ dreadingly
 drawly
 diureses 1
 diuresis 2
-democratical
+democratical 1
 divagatory 4
 diureticalness
 dialyzed
@@ -14486,7 +14486,7 @@ decoupling 2
 delly 1
 deckhouse 3
 degauss
-dictatorship
+dictatorship 1
 devitaminize 1
 decemviri 1
 duumvirate 3
@@ -14915,7 +14915,7 @@ defendants 1
 dispensible 1
 dodgily 1
 defraud 1
-destroyingly 3
+destroyingly 4
 daubentonia 1
 digressed 2
 derricks 1
@@ -15762,7 +15762,7 @@ demountability 1
 dramatizer
 diallela 1
 dorsabdominal 1
-dungier 2
+dungier 3
 dihydroxytoluene 1
 demurred 1
 depicting 2
@@ -16347,7 +16347,7 @@ dismount
 divergently
 discinoid 1
 dusserah 1
-downsizing
+downsizing 1
 defensible
 devow 2
 discontinuable 1
