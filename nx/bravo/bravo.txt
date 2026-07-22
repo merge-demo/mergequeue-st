@@ -2527,7 +2527,7 @@ boccia 2
 blueblack 1
 beslash 1
 buenos
-bassetite
+bassetite 1
 bottonhook 2
 buckler 1
 barguest 2
@@ -9697,7 +9697,7 @@ boulder 1
 bladed
 besmiles
 boisseau
-bismerpund
+bismerpund 1
 buoyages
 bipartisanism 1
 bourette 1
@@ -9885,7 +9885,7 @@ buccaneering
 bimbos
 bitmapped 2
 bito 2
-bicalvous
+bicalvous 1
 bitonalities 1
 belibeling
 breaghe 2
@@ -10695,7 +10695,7 @@ bleeped 1
 bleeps
 bleacheries 1
 batonne
-blepharoplegia
+blepharoplegia 1
 bimanal 1
 bronzine 1
 banksias
@@ -14403,7 +14403,7 @@ bonebinder
 braillewriter
 boloman 1
 bambino
-bettors
+bettors 1
 braincap 1
 brachiferous 1
 braincase
