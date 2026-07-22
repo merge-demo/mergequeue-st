@@ -466,7 +466,7 @@ cancelable 1
 cacumination
 coleopterous
 cacuminous
-cacur
+cacur 1
 cad
 cadamba 1
 cryptocrystalline 1
@@ -1746,7 +1746,7 @@ caltraps 1
 cervicolingual 1
 contrafocal
 caltrop 1
-coenosite
+coenosite 1
 cornification
 conceptualised
 cortes 1
@@ -1796,7 +1796,7 @@ cordage
 calvary
 caffeate
 commerciality 1
-countergarrison
+countergarrison 1
 curagh
 calvarial 1
 craters
@@ -8608,7 +8608,7 @@ channelbill
 coendou
 couching 1
 channeling
-clubbish
+clubbish 1
 channelize
 crumber 1
 corresponder 1
@@ -9648,7 +9648,7 @@ cheeseburgers
 crees 1
 clyfaker
 cheesecloth
-cheesecloths
+cheesecloths 1
 crosiers
 cheesecutter
 cognizably 1
@@ -13731,7 +13731,7 @@ cinclis
 contakionkia
 clinah 2
 cinclus 1
-cephalocathartic 1
+cephalocathartic 2
 cinct
 communitarian
 crevalles
@@ -15366,7 +15366,7 @@ clapboard 2
 caenolestes 1
 clapboarding 2
 cleidomastoid
-clapboards 1
+clapboards 2
 clapcake
 chortled
 caulkings 1
@@ -15767,7 +15767,7 @@ coiffeuse
 cerebellar
 chainlet
 couma
-cleanliest 1
+cleanliest 2
 clumpier 1
 cleanout
 cleansable 1
@@ -15779,7 +15779,7 @@ cryptopyrrole
 crestfallenly
 crocoite
 cleansers
-codescendant
+codescendant 1
 cleanses
 cynosura 1
 cleanskin
@@ -17980,7 +17980,7 @@ czechic
 carcinology
 chipboard 2
 coelococcus
-charioteers
+charioteers 1
 comet
 claymores
 coeloma
@@ -18123,7 +18123,7 @@ colatorium
 coleochaetaceae
 coequal 1
 coteful 1
-campman
+campman 1
 carpe
 coequalness 1
 chopping
@@ -21283,7 +21283,7 @@ concerts
 conopodium
 concession
 concessionaire
-concessional
+concessional 1
 chausseemeile
 concessions 1
 concessit
@@ -21319,7 +21319,7 @@ caldadaria
 compulsively 1
 copolymeric
 convolved
-conchyliferous 1
+conchyliferous 2
 conchylium
 caerphilly 1
 cinchonised
@@ -22194,7 +22194,7 @@ clapmatch
 confustication
 crenology
 confutability
-confutator 1
+confutator 2
 confutes 1
 cong 1
 canadians 2
@@ -22212,7 +22212,7 @@ crematoriums
 cresotate 1
 connusable
 characterizer
-chigger
+chigger 1
 campanularian
 choicer
 cloxacillin
@@ -24963,7 +24963,7 @@ catachrestically
 cunninger
 czaristic 1
 coraveca
-corbe
+corbe 1
 corbeau
 challahs
 cholagogue
@@ -27352,7 +27352,7 @@ courbaril
 courbe
 counterappeal
 chemistries 1
-courbette
+courbette 1
 courbettes
 clogginess
 carcaneted
@@ -27785,7 +27785,7 @@ curatorship
 convolutedness 1
 calceiform 3
 chinaroot
-coxankylometer
+coxankylometer 1
 coxbones
 coxcomb 1
 coxcombess 2
@@ -29402,7 +29402,7 @@ cryptozoite 1
 cryptozonate 1
 cryophoric
 corbeille
-crazedness
+crazedness 1
 crypturi
 concertise 2
 courbash
@@ -29479,7 +29479,7 @@ chati 1
 cannoning 1
 convertend 1
 crystallod
-crystallogeny 1
+crystallogeny 2
 crystallogenical 1
 cymbiform
 confliction
@@ -29914,7 +29914,7 @@ crosshair
 crosshand 1
 capillation 1
 cogwheel
-coadjutator
+coadjutator 1
 crosshatching 1
 crosshauling 1
 chipper 1
