@@ -2942,7 +2942,7 @@ foxberries 1
 fac 3
 furloughs
 fungological 1
-froths 1
+froths 2
 fevered 2
 flitchen 1
 franklinian 1
@@ -9418,7 +9418,7 @@ fivers 1
 flaunty
 frayne 1
 frankish 1
-functionary
+functionary 1
 fummle 2
 fastenings 5
 fowk 1
@@ -11664,7 +11664,7 @@ farasula 2
 fut 1
 futhorc 1
 fillowite
-forepale 2
+forepale 3
 foxskins 1
 functionalized 3
 fluavil
