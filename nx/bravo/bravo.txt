@@ -2527,7 +2527,7 @@ boccia 2
 blueblack 1
 beslash 1
 buenos
-bassetite
+bassetite 1
 bottonhook 2
 buckler 1
 barguest 2
@@ -6668,7 +6668,7 @@ boyg
 basiotribe 1
 bering 1
 burghs 1
-busto 2
+busto 3
 ballhausplatz
 babbles
 berytidae
@@ -13607,7 +13607,7 @@ bandanna
 bilskirnir 1
 brairo 2
 boyuna 1
-bahaism
+bahaism 1
 boulework 2
 blinded
 backstone
@@ -14307,7 +14307,7 @@ brogan 1
 braggarts
 balductum
 braggery
-bairnteam
+bairnteam 1
 bewraying
 bubbleless 4
 bruiters 2
@@ -16094,7 +16094,7 @@ bleareyed 1
 bashful 1
 bigamize 4
 bronze 3
-bonducs
+bonducs 1
 bhotia 1
 brethren 1
 bannered 2
@@ -16221,7 +16221,7 @@ betweenwhiles
 bezaleelian 2
 blote 1
 bithynian 2
-bridget
+bridget 1
 brotuliform
 bespangled 1
 brougham 3
@@ -16385,7 +16385,7 @@ brawlier
 bemoaner 1
 bangup
 bioelectrogenetically
-borrowed
+borrowed 1
 branchipus
 burrish 1
 bewailable 1
