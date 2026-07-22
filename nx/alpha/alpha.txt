@@ -779,7 +779,7 @@ aeromechanics 3
 abashment
 autogyro 1
 agnition 1
-accordatura
+accordatura 1
 angustiseptal
 asperation
 apogalacteum 1
@@ -2575,7 +2575,7 @@ aconative 2
 acondylose
 amicable 3
 artisan 1
-abeyant
+abeyant 1
 aconelline 1
 assentatory
 arborer
@@ -4143,7 +4143,7 @@ affinal
 anglification 1
 admonishments
 appressor
-agrief
+agrief 1
 antihypertensives
 antilyssic
 admonitionist
@@ -7687,7 +7687,7 @@ abreaction 1
 amplidyne
 airplaned 1
 antefurca
-actual
+actual 1
 alectorides
 alcmene 2
 alani 1
@@ -11123,7 +11123,7 @@ amove
 achakzai
 amylolytic
 ampangabeite
-archsin
+archsin 1
 anchisaurus
 accessor 2
 alliances
@@ -11476,7 +11476,7 @@ announcers 1
 amputees 2
 angiographic 1
 amrit
-ajugas
+ajugas 1
 attendants
 anywheres 1
 assets
@@ -13188,7 +13188,7 @@ admissions
 animalist
 animalistic
 angustura
-attemperator
+attemperator 1
 androgynous
 animalivora
 amnioclepsis 1
@@ -15598,7 +15598,7 @@ armadillo
 ailurophile 2
 aquage 1
 altrose
-approves
+approves 1
 assumpt 1
 antimoralistic
 accrescence 2
@@ -17193,7 +17193,7 @@ apomictical 1
 animism
 advena
 aquilegia
-athletocracy 1
+athletocracy 2
 aeroides
 aubaine 1
 adoxa
@@ -19060,7 +19060,7 @@ assyrianize 1
 absolutely
 annals
 asta 1
-archpirate 1
+archpirate 2
 aviculidae
 adactylism 1
 alveated
@@ -20072,7 +20072,7 @@ around
 atheromasia 1
 aschistic 2
 acantharia 2
-archespores 3
+archespores 4
 adenization 1
 anthomyia
 acmic 1
@@ -20452,7 +20452,7 @@ apollinarian
 antimilitaristically 1
 aerogenous 1
 atechnic 1
-altisonous
+altisonous 1
 arterialize
 anticivism
 arteriarctia 1
@@ -22609,7 +22609,7 @@ acetylcholine
 athamantid
 adonite 2
 acontium
-aliased
+aliased 1
 acuate
 aeromechanic
 athanasia 2
