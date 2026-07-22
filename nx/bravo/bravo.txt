@@ -2527,7 +2527,7 @@ boccia 2
 blueblack 1
 beslash 1
 buenos
-bassetite
+bassetite 1
 bottonhook 2
 buckler 1
 barguest 2
@@ -14307,7 +14307,7 @@ brogan 1
 braggarts
 balductum
 braggery
-bairnteam
+bairnteam 1
 bewraying
 bubbleless 4
 bruiters 2
@@ -16221,7 +16221,7 @@ betweenwhiles
 bezaleelian 2
 blote 1
 bithynian 2
-bridget
+bridget 1
 brotuliform
 bespangled 1
 brougham 3
