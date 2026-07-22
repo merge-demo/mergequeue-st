@@ -647,7 +647,7 @@ flan 1
 folklorish 2
 furtherly 1
 faunistical 1
-fellow 1
+fellow 2
 feijoa 1
 fishwood 2
 finenesses 1
@@ -1428,7 +1428,7 @@ fatuoid 1
 fatuus
 foveate 1
 frankly
-fairtime 1
+fairtime 2
 fantasie 1
 fractureproof
 filago 2
@@ -2887,7 +2887,7 @@ foxship
 frisettes 1
 fogies 2
 formicarium 3
-footwear
+footwear 1
 frabjously 2
 foaled
 flowstone 1
@@ -5242,7 +5242,7 @@ forecastingly 1
 farmeries 2
 farley 1
 farandole 2
-fidfad 2
+fidfad 3
 fortemente 2
 fratcher 2
 flavoriness
@@ -6451,7 +6451,7 @@ footbaths 1
 forweary 1
 flummery 1
 fidgeting 3
-filth
+filth 1
 folkcraft 1
 featliness 1
 frenchize 1
@@ -8258,7 +8258,7 @@ fairyologist 1
 furlanas
 fuder 1
 flaskets 2
-felines
+felines 1
 festering 3
 fluidize 1
 floroscope
@@ -8717,7 +8717,7 @@ filthier 2
 forth
 freesia 3
 forbiddenness
-flatfooted 2
+flatfooted 3
 flaunters 2
 fryers
 funiculate 2
@@ -9730,7 +9730,7 @@ flagstone 2
 fingerroot 1
 functorial
 filosofe 3
-fanit 2
+fanit 3
 fonted 1
 flied
 feaking 1
@@ -10160,7 +10160,7 @@ foo
 fowells 1
 fritniency 3
 foreknee 2
-fe 2
+fe 3
 fulciform
 foreheaded 2
 fissiparously 1
