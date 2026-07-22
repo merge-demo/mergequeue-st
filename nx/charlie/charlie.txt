@@ -466,7 +466,7 @@ cancelable 1
 cacumination
 coleopterous
 cacuminous
-cacur
+cacur 1
 cad
 cadamba 1
 cryptocrystalline 1
@@ -1746,7 +1746,7 @@ caltraps 1
 cervicolingual 1
 contrafocal
 caltrop 1
-coenosite
+coenosite 1
 cornification
 conceptualised
 cortes 1
@@ -15366,7 +15366,7 @@ clapboard 2
 caenolestes 1
 clapboarding 2
 cleidomastoid
-clapboards 1
+clapboards 2
 clapcake
 chortled
 caulkings 1
@@ -15767,7 +15767,7 @@ coiffeuse
 cerebellar
 chainlet
 couma
-cleanliest 1
+cleanliest 2
 clumpier 1
 cleanout
 cleansable 1
@@ -22212,7 +22212,7 @@ crematoriums
 cresotate 1
 connusable
 characterizer
-chigger
+chigger 1
 campanularian
 choicer
 cloxacillin
@@ -27352,7 +27352,7 @@ courbaril
 courbe
 counterappeal
 chemistries 1
-courbette
+courbette 1
 courbettes
 clogginess
 carcaneted
