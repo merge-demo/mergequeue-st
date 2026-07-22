@@ -2527,7 +2527,7 @@ boccia 2
 blueblack 1
 beslash 1
 buenos
-bassetite
+bassetite 1
 bottonhook 2
 buckler 1
 barguest 2
@@ -2936,7 +2936,7 @@ bureaucratize 1
 barreling
 bibaciousness 1
 blanco
-bited
+bited 1
 broad
 barrelled 1
 billfish 1
@@ -4248,7 +4248,7 @@ bawdries 1
 beautydom
 butylic
 bedung
-begaud
+begaud 1
 begat
 beardless 2
 beautified
@@ -6367,7 +6367,7 @@ biophysicists 1
 bucker 1
 batsmanship 4
 bravoing
-benziminazole 2
+benziminazole 3
 blesbucks
 bethinking
 bostrychoidal
@@ -6668,7 +6668,7 @@ boyg
 basiotribe 1
 bering 1
 burghs 1
-busto 2
+busto 3
 ballhausplatz
 babbles
 berytidae
@@ -9697,7 +9697,7 @@ boulder 1
 bladed
 besmiles
 boisseau
-bismerpund
+bismerpund 1
 buoyages
 bipartisanism 1
 bourette 1
@@ -11317,7 +11317,7 @@ boneyard
 biologism
 bipunctate 1
 blowse
-bargeman 4
+bargeman 5
 barse 1
 baith 2
 boards 2
@@ -13607,7 +13607,7 @@ bandanna
 bilskirnir 1
 brairo 2
 boyuna 1
-bahaism
+bahaism 1
 boulework 2
 blinded
 backstone
@@ -14124,7 +14124,7 @@ babbage 1
 blasters
 butsudan 1
 brekkle
-bumbaze 1
+bumbaze 2
 brighteyes 1
 birdlore 1
 brachiosaur
@@ -14307,7 +14307,7 @@ brogan 1
 braggarts
 balductum
 braggery
-bairnteam
+bairnteam 1
 bewraying
 bubbleless 4
 bruiters 2
@@ -14403,7 +14403,7 @@ bonebinder
 braillewriter
 boloman 1
 bambino
-bettors
+bettors 1
 braincap 1
 brachiferous 1
 braincase
@@ -16094,7 +16094,7 @@ bleareyed 1
 bashful 1
 bigamize 4
 bronze 3
-bonducs
+bonducs 1
 bhotia 1
 brethren 1
 bannered 2
@@ -16221,7 +16221,7 @@ betweenwhiles
 bezaleelian 2
 blote 1
 bithynian 2
-bridget
+bridget 1
 brotuliform
 bespangled 1
 brougham 3
@@ -16385,7 +16385,7 @@ brawlier
 bemoaner 1
 bangup
 bioelectrogenetically
-borrowed
+borrowed 1
 branchipus
 burrish 1
 bewailable 1
@@ -16730,7 +16730,7 @@ bucksaw 1
 bids 1
 bistorta
 bedfoot
-bariatrics 1
+bariatrics 2
 bucktooth
 bronchovesicular
 bucktoothed
