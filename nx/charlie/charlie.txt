@@ -466,7 +466,7 @@ cancelable 1
 cacumination
 coleopterous
 cacuminous
-cacur
+cacur 1
 cad
 cadamba 1
 cryptocrystalline 1
@@ -3037,7 +3037,7 @@ cantoner 2
 cellocut 2
 cantoning
 cantonize 1
-colectomy 1
+colectomy 2
 countergager 1
 cantoral
 cantoria
@@ -9648,7 +9648,7 @@ cheeseburgers
 crees 1
 clyfaker
 cheesecloth
-cheesecloths
+cheesecloths 1
 crosiers
 cheesecutter
 cognizably 1
@@ -13731,7 +13731,7 @@ cinclis
 contakionkia
 clinah 2
 cinclus 1
-cephalocathartic 1
+cephalocathartic 2
 cinct
 communitarian
 crevalles
@@ -14416,7 +14416,7 @@ cannot
 cyriologic
 concord 1
 caddoan
-connotively
+connotively 1
 continuity 1
 cirques 3
 cirrate
@@ -22212,7 +22212,7 @@ crematoriums
 cresotate 1
 connusable
 characterizer
-chigger
+chigger 1
 campanularian
 choicer
 cloxacillin
@@ -23829,7 +23829,7 @@ contravindicate 1
 chaui
 cachinnate
 contravindication
-circumvascular
+circumvascular 1
 capitalizable
 contrawise
 contrecoup 1

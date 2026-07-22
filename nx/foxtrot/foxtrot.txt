@@ -2887,7 +2887,7 @@ foxship
 frisettes 1
 fogies 2
 formicarium 3
-footwear
+footwear 1
 frabjously 2
 foaled
 flowstone 1
@@ -6244,7 +6244,7 @@ farmerish 1
 felloes 1
 freewheelers 3
 farmtown 2
-fizzles 2
+fizzles 3
 firnismalerei
 friendlike 2
 frankeniaceous 2
@@ -8717,7 +8717,7 @@ filthier 2
 forth
 freesia 3
 forbiddenness
-flatfooted 2
+flatfooted 3
 flaunters 2
 fryers
 funiculate 2
