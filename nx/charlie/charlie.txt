@@ -29914,7 +29914,7 @@ crosshair
 crosshand 1
 capillation 1
 cogwheel
-coadjutator
+coadjutator 1
 crosshatching 1
 crosshauling 1
 chipper 1
