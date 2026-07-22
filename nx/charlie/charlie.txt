@@ -1599,7 +1599,7 @@ closings 1
 callop
 camphorate
 cancerwort
-cutcher 1
+cutcher 2
 corrobboree 1
 callorhynchidae
 castratory
@@ -1796,7 +1796,7 @@ cordage
 calvary
 caffeate
 commerciality 1
-countergarrison
+countergarrison 1
 curagh
 calvarial 1
 craters
@@ -4944,7 +4944,7 @@ chorepiscope
 chobdar
 columels
 chondriosomes
-cesarean 1
+cesarean 2
 circumambages
 cartelist
 costars 1
@@ -7063,7 +7063,7 @@ cyclosporous
 centerpiece 1
 craizey 1
 combinedly 1
-codex
+codex 1
 centerpunch 1
 crackdown
 centesimal
@@ -7994,7 +7994,7 @@ chad
 chadarim 1
 chadelle
 culottes
-colloquy 1
+colloquy 2
 catsup
 civilianization 1
 caryophyllaceous
@@ -12475,7 +12475,7 @@ chromoisomeric
 chamaenerion
 candelabra
 claviature
-cerebralize
+cerebralize 1
 chromoleucite 1
 chromolipoid
 clayen
@@ -18097,7 +18097,7 @@ carbinol
 coannexing 2
 coenocentrum 1
 celioscopy 1
-coenocytic 2
+coenocytic 3
 carson
 coenodioecism
 coenoecic 1
@@ -23481,7 +23481,7 @@ contemptuously
 cruelty
 contended
 contendent 1
-contending
+contending 1
 contendress 1
 cornstalk
 civil
@@ -26528,7 +26528,7 @@ cotter
 cottered 1
 cottid
 capitulating
-cottise 1
+cottise 2
 chunkhead
 cephalically 1
 colorations
@@ -27785,7 +27785,7 @@ curatorship
 convolutedness 1
 calceiform 3
 chinaroot
-coxankylometer
+coxankylometer 1
 coxbones
 coxcomb 1
 coxcombess 2
@@ -29056,7 +29056,7 @@ colletarium
 criminous
 conscribed 2
 criminously
-criminousness
+criminousness 1
 crimmer
 copilot
 claiming
