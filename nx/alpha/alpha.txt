@@ -5685,7 +5685,7 @@ autocollimation
 atopies 1
 aquicultural
 almeidina
-aminoaciduria
+aminoaciduria 1
 asquare
 agag
 avarian
@@ -11149,7 +11149,7 @@ ampelopsis
 atoxyl
 acetamids 1
 ariosi
-ampelotherapy
+ampelotherapy 1
 abstractiveness 1
 ascidioidea 1
 amper 1
@@ -11397,7 +11397,7 @@ ampholytic
 anobiidae
 acroteric 1
 amphora 1
-amphorae
+amphorae 1
 acappella
 algors 1
 abbreviation 2
@@ -12957,7 +12957,7 @@ anticapital
 ango 2
 angoise 2
 angolese 1
-arbitral
+arbitral 1
 assertoric 1
 angouleme 1
 armored 1
@@ -16076,7 +16076,7 @@ antisaloon 3
 avenary
 apemantus
 affaire 1
-antisalooner
+antisalooner 1
 antisavage 1
 antiscabious
 aquatint 1
@@ -17762,7 +17762,7 @@ archiepiscopally 2
 albuminaturia
 alluringly 1
 applosive
-ataxia
+ataxia 1
 antiguan
 aortorrhaphy
 azoxybenzene
@@ -24561,7 +24561,7 @@ abiosis
 amusively
 auxiliator 1
 auxilytic
-alebush
+alebush 1
 auxin
 alterably
 antinucleon
