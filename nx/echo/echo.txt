@@ -2577,7 +2577,7 @@ evaporativity 2
 eighteenthly
 ensnarl 2
 exudatory 1
-exhilarator 1
+exhilarator 2
 erythroblastosis 4
 emeraldine 1
 eirenicon 2
@@ -3666,7 +3666,7 @@ eskers 2
 endocrinopathic 2
 entangling 1
 eunomy
-episiorrhaphy 1
+episiorrhaphy 2
 exomion
 excogitates 1
 engarment
@@ -6181,7 +6181,7 @@ encelia
 enlivened 2
 enolic
 escallop
-explicableness 1
+explicableness 2
 erase
 etiologic
 enological 1
@@ -6568,7 +6568,7 @@ enterocleisis 4
 equiponderant
 excluding 2
 echinorhynchus
-esperantidist 1
+esperantidist 2
 enseam 1
 expulsatory 2
 eructed 1
@@ -6743,7 +6743,7 @@ exasperate
 embryoniform 2
 excurvation 2
 entitle 1
-elixed
+elixed 1
 evangelistarion
 eggheads 2
 entitling 1
@@ -6913,7 +6913,7 @@ entrancement 1
 elaphoglossum 1
 ectotrophi
 ebonites 1
-enscene
+enscene 1
 empusa 1
 echinodermata
 eugenesic 1
@@ -8152,7 +8152,7 @@ earsh 1
 episodically 1
 eviscerates
 extraliminal 2
-exuded
+exuded 1
 erikite
 enchylematous
 empirics 2
@@ -8318,7 +8318,7 @@ extrinsicalness
 extacie 1
 eumoiriety
 eloped 1
-epityphlitis 1
+epityphlitis 2
 erythrosinophile 2
 evolutional 1
 expeding
@@ -8549,7 +8549,7 @@ equiaxed
 edificable 1
 equate 2
 eburnification
-enharmonic 1
+enharmonic 2
 earnings 2
 equibalanced
 electrodialitic 2
@@ -10702,7 +10702,7 @@ enveloper 3
 extirpatory 2
 electrotelegraphy 3
 eva 2
-euglenaceae
+euglenaceae 1
 extrasyllabic
 ensigning 2
 embraced
@@ -11512,7 +11512,7 @@ electroconvulsive
 evigilation
 eleemosinar 3
 emenders 1
-exsecant
+exsecant 1
 exoergic 2
 exaction
 echinopanax 3
@@ -12146,7 +12146,7 @@ europeanize
 encharge 3
 entwite
 ennoblment
-erotizing
+erotizing 1
 excurrent 3
 edility 1
 evangelicalness
@@ -13403,7 +13403,7 @@ ephererist
 ethicists 1
 ethnopsychological 1
 enfevers 3
-exits 2
+exits 3
 expositorially 1
 expostulating 1
 elachistaceous 1
