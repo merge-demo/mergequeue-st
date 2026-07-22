@@ -1428,7 +1428,7 @@ fatuoid 1
 fatuus
 foveate 1
 frankly
-fairtime 1
+fairtime 2
 fantasie 1
 fractureproof
 filago 2
@@ -8258,7 +8258,7 @@ fairyologist 1
 furlanas
 fuder 1
 flaskets 2
-felines
+felines 1
 festering 3
 fluidize 1
 floroscope
@@ -9730,7 +9730,7 @@ flagstone 2
 fingerroot 1
 functorial
 filosofe 3
-fanit 2
+fanit 3
 fonted 1
 flied
 feaking 1
@@ -10160,7 +10160,7 @@ foo
 fowells 1
 fritniency 3
 foreknee 2
-fe 2
+fe 3
 fulciform
 foreheaded 2
 fissiparously 1
