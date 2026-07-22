@@ -3037,7 +3037,7 @@ cantoner 2
 cellocut 2
 cantoning
 cantonize 1
-colectomy 1
+colectomy 2
 countergager 1
 cantoral
 cantoria
@@ -6581,7 +6581,7 @@ caic 1
 commentation
 contributions
 charcuterie
-calamitoid
+calamitoid 1
 cdf
 carid 1
 cheroot 1
@@ -9648,7 +9648,7 @@ cheeseburgers
 crees 1
 clyfaker
 cheesecloth
-cheesecloths
+cheesecloths 1
 crosiers
 cheesecutter
 cognizably 1
@@ -12032,7 +12032,7 @@ cariyo
 cutes
 chorograph 1
 chorographer
-continuately 1
+continuately 2
 chorographical 1
 criticizable 1
 cabouca
@@ -13731,7 +13731,7 @@ cinclis
 contakionkia
 clinah 2
 cinclus 1
-cephalocathartic 1
+cephalocathartic 2
 cinct
 communitarian
 crevalles
@@ -14416,7 +14416,7 @@ cannot
 cyriologic
 concord 1
 caddoan
-connotively
+connotively 1
 continuity 1
 cirques 3
 cirrate
@@ -19549,7 +19549,7 @@ cheerfullest 1
 cannelated
 columbaceous
 columban 1
-czar 1
+czar 2
 chlorazide 1
 capabilities
 columbaria
@@ -23829,7 +23829,7 @@ contravindicate 1
 chaui
 cachinnate
 contravindication
-circumvascular
+circumvascular 1
 capitalizable
 contrawise
 contrecoup 1
