@@ -2335,7 +2335,7 @@ fenzelia
 firestopping
 foreimagine 3
 fconvert 1
-feoffer 1
+feoffer 2
 fiberous 1
 feoffs 1
 fasciole 1
@@ -9418,7 +9418,7 @@ fivers 1
 flaunty
 frayne 1
 frankish 1
-functionary
+functionary 1
 fummle 2
 fastenings 5
 fowk 1
@@ -11664,7 +11664,7 @@ farasula 2
 fut 1
 futhorc 1
 fillowite
-forepale 2
+forepale 3
 foxskins 1
 functionalized 3
 fluavil
