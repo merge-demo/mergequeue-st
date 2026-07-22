@@ -12755,7 +12755,7 @@ bookracks 1
 blacklegging 1
 benthonic
 begut
-bookseller
+bookseller 1
 bepreach 1
 burdalone
 bucorvinae
