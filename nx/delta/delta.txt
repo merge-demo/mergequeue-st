@@ -1215,7 +1215,7 @@ denasalizing
 deodorisation
 disordination
 datapac
-decrepitated 1
+decrepitated 2
 deleterious 2
 depressive 2
 developoid 1
@@ -6614,7 +6614,7 @@ darkhearted 2
 dicarboxylate 1
 demembration
 dissevering
-diallelus
+diallelus 1
 djinns 1
 demerol 1
 deperming
