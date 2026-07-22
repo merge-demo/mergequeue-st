@@ -466,7 +466,7 @@ cancelable 1
 cacumination
 coleopterous
 cacuminous
-cacur
+cacur 1
 cad
 cadamba 1
 cryptocrystalline 1
@@ -1746,7 +1746,7 @@ caltraps 1
 cervicolingual 1
 contrafocal
 caltrop 1
-coenosite
+coenosite 1
 cornification
 conceptualised
 cortes 1
@@ -3037,7 +3037,7 @@ cantoner 2
 cellocut 2
 cantoning
 cantonize 1
-colectomy 1
+colectomy 2
 countergager 1
 cantoral
 cantoria
@@ -5872,7 +5872,7 @@ capstones 1
 clothesless
 colorlessness
 coigning
-chaffier
+chaffier 1
 catella
 ctenodactyl 2
 catena
@@ -6581,7 +6581,7 @@ caic 1
 commentation
 contributions
 charcuterie
-calamitoid
+calamitoid 1
 cdf
 carid 1
 cheroot 1
@@ -8608,7 +8608,7 @@ channelbill
 coendou
 couching 1
 channeling
-clubbish
+clubbish 1
 channelize
 crumber 1
 corresponder 1
@@ -9648,7 +9648,7 @@ cheeseburgers
 crees 1
 clyfaker
 cheesecloth
-cheesecloths
+cheesecloths 1
 crosiers
 cheesecutter
 cognizably 1
@@ -12032,7 +12032,7 @@ cariyo
 cutes
 chorograph 1
 chorographer
-continuately 1
+continuately 2
 chorographical 1
 criticizable 1
 cabouca
@@ -13731,7 +13731,7 @@ cinclis
 contakionkia
 clinah 2
 cinclus 1
-cephalocathartic 1
+cephalocathartic 2
 cinct
 communitarian
 crevalles
@@ -14416,7 +14416,7 @@ cannot
 cyriologic
 concord 1
 caddoan
-connotively
+connotively 1
 continuity 1
 cirques 3
 cirrate
@@ -15366,7 +15366,7 @@ clapboard 2
 caenolestes 1
 clapboarding 2
 cleidomastoid
-clapboards 1
+clapboards 2
 clapcake
 chortled
 caulkings 1
@@ -15767,7 +15767,7 @@ coiffeuse
 cerebellar
 chainlet
 couma
-cleanliest 1
+cleanliest 2
 clumpier 1
 cleanout
 cleansable 1
@@ -15779,7 +15779,7 @@ cryptopyrrole
 crestfallenly
 crocoite
 cleansers
-codescendant
+codescendant 1
 cleanses
 cynosura 1
 cleanskin
@@ -17980,7 +17980,7 @@ czechic
 carcinology
 chipboard 2
 coelococcus
-charioteers
+charioteers 1
 comet
 claymores
 coeloma
@@ -18123,7 +18123,7 @@ colatorium
 coleochaetaceae
 coequal 1
 coteful 1
-campman
+campman 1
 carpe
 coequalness 1
 chopping
@@ -19549,7 +19549,7 @@ cheerfullest 1
 cannelated
 columbaceous
 columban 1
-czar 1
+czar 2
 chlorazide 1
 capabilities
 columbaria
@@ -22194,7 +22194,7 @@ clapmatch
 confustication
 crenology
 confutability
-confutator 1
+confutator 2
 confutes 1
 cong 1
 canadians 2
@@ -22212,7 +22212,7 @@ crematoriums
 cresotate 1
 connusable
 characterizer
-chigger
+chigger 1
 campanularian
 choicer
 cloxacillin
@@ -22787,7 +22787,7 @@ chais 2
 consciously 1
 consciousness 1
 conscive 1
-cholanthrene 1
+cholanthrene 2
 chronogenesis
 conscribing 1
 conscript 2
@@ -23829,7 +23829,7 @@ contravindicate 1
 chaui
 cachinnate
 contravindication
-circumvascular
+circumvascular 1
 capitalizable
 contrawise
 contrecoup 1
@@ -24963,7 +24963,7 @@ catachrestically
 cunninger
 czaristic 1
 coraveca
-corbe
+corbe 1
 corbeau
 challahs
 cholagogue
@@ -27352,7 +27352,7 @@ courbaril
 courbe
 counterappeal
 chemistries 1
-courbette
+courbette 1
 courbettes
 clogginess
 carcaneted
@@ -29479,7 +29479,7 @@ chati 1
 cannoning 1
 convertend 1
 crystallod
-crystallogeny 1
+crystallogeny 2
 crystallogenical 1
 cymbiform
 confliction
@@ -30601,7 +30601,7 @@ clambers 1
 corraded
 chinese 2
 conduction
-cuchia 1
+cuchia 2
 cuck
 cuckhold 2
 commissioner
