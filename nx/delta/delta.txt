@@ -868,7 +868,7 @@ discardable
 disprovement
 delesseria 1
 developability 2
-dorsoradial 4
+dorsoradial 5
 dannebrog 1
 diactinism
 detraque
@@ -1665,7 +1665,7 @@ deprival
 decapsulation
 derbylite
 dishrag 1
-dealt 1
+dealt 2
 dissects
 drumming
 democratizes
@@ -1942,7 +1942,7 @@ demireps
 debtee 1
 denudated
 debtless 2
-desilverized
+desilverized 1
 dwines
 dominoes 2
 disobeys 1
@@ -2546,7 +2546,7 @@ dweller 1
 declassification 1
 declassifies 4
 diplophonic 1
-disequality 1
+disequality 2
 dematerialize 1
 discus 1
 dorsocephalic 2
@@ -4383,7 +4383,7 @@ dementia
 desoxyribonucleoprotein
 dulcetness 1
 dihalide
-desmic 2
+desmic 3
 dictionally
 disangelical
 dawsonia 1
@@ -5926,7 +5926,7 @@ dropforged 1
 deprome 1
 demisphere 3
 disaffectedly 2
-deprostrate 1
+deprostrate 2
 draughtiest 2
 downbeats
 discrownment
@@ -6355,7 +6355,7 @@ diplotene
 disassociation 1
 dorsiventral 1
 distortedness
-derodidymus 1
+derodidymus 2
 derog
 demeanour
 doronicum 1
@@ -8229,7 +8229,7 @@ davainea 3
 ductus
 distrito 1
 diagnosed 1
-diagnostical
+diagnostical 1
 diagnostically 1
 diagnosticate
 denitrating 3
@@ -9506,7 +9506,7 @@ digraphic 1
 dynamogeny
 dialysers 2
 demiurge 1
-decontaminated
+decontaminated 1
 digital 1
 drunkest 1
 digitalin
@@ -11926,7 +11926,7 @@ diplanetic
 disembocation
 domicils
 diesels 2
-disembodiment 2
+disembodiment 3
 deducer 2
 disembogued
 diarian 1
@@ -12723,7 +12723,7 @@ defectoscope
 dislluminate 1
 dubbings 2
 difference
-dale
+dale 1
 dislocability
 dosimetry 1
 dustcloth
@@ -13475,7 +13475,7 @@ douzaine
 danseur
 dunnites
 debi
-destroys 1
+destroys 2
 disroost
 demiurgism
 disponed 1
@@ -13625,7 +13625,7 @@ dalespeople
 disservices 2
 disserving
 deletes
-displacer 1
+displacer 2
 dissettle
 dissociality 1
 diagrydium 1
@@ -16347,7 +16347,7 @@ dismount
 divergently
 discinoid 1
 dusserah 1
-downsizing
+downsizing 1
 defensible
 devow 2
 discontinuable 1
@@ -17278,7 +17278,7 @@ drizzliest 2
 diablery
 digresser
 dirigo 1
-dentinasal
+dentinasal 1
 droger 1
 dichlorodiphenyltrichloroethane 2
 disthrone
@@ -17669,7 +17669,7 @@ dreamed 1
 duadic 1
 diagramming
 demilitarise
-difluence
+difluence 1
 duads 2
 dentalmen
 diversifies 1
@@ -18531,7 +18531,7 @@ delightedness 1
 dissilition 1
 durbars 1
 dissonate 1
-diau 1
+diau 2
 dured
 decollated 2
 disparting
