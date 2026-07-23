@@ -1690,7 +1690,7 @@ effectualize 1
 eyed 1
 experientialistic 2
 exultant 1
-ergophile 2
+ergophile 3
 expenditures 2
 encapsulations
 expediences 1
@@ -2125,7 +2125,7 @@ enfoil
 exterminatress
 enanthematous
 epoxy 1
-esophagostenosis
+esophagostenosis 1
 eyestring 1
 ensorceling
 explicandum 1
@@ -3935,7 +3935,7 @@ excretitious
 emolumental 2
 echinochrome
 evader 1
-enstate 2
+enstate 3
 exportation 1
 emory 1
 exopathic 1
@@ -6885,7 +6885,7 @@ enzone 3
 esau
 epilate 1
 entoptic 1
-entoptics 1
+entoptics 2
 evections
 expense
 embargoed
@@ -7098,7 +7098,7 @@ epistolising 3
 egomaniacally 2
 exoner
 episterna 1
-echeneidid
+echeneidid 1
 embarment 1
 epistemonic
 eucaryote
@@ -11924,7 +11924,7 @@ eucalyptic 2
 excalation
 earlobes 1
 exceptiousness 1
-expectations
+expectations 1
 enhypostatic
 entrepreneurship 2
 epiphytes
@@ -13070,7 +13070,7 @@ emarginula 1
 earn
 enunciates 1
 eulogistically 2
-expeditiously 2
+expeditiously 3
 erythrocarpous 1
 ecstasies 1
 euge 2
@@ -13380,7 +13380,7 @@ exophthalmia
 estating
 emotionalising 2
 emergence 1
-erogenous 1
+erogenous 2
 ethnogeographically
 egyptize 4
 emporiria
@@ -14093,7 +14093,7 @@ entwinement
 extremeless 2
 etymography 1
 extremeness 2
-enmist
+enmist 1
 effeminate 1
 ethnologist
 esteem
