@@ -105,7 +105,7 @@ equiperiodic 1
 enmarble 1
 earreach 1
 engineership
-extraught 1
+extraught 2
 ecphoria
 enamoured
 eusteles 4
@@ -1560,7 +1560,7 @@ epinasty
 envigor 1
 exogeny
 exaggeratedness 1
-euosmite 2
+euosmite 3
 enterokinetic
 eglamore
 eglandular 1
@@ -1732,7 +1732,7 @@ eyeliners 1
 everest 2
 elkhound 3
 endoneurial 1
-eucalyptus
+eucalyptus 1
 epilogue 1
 eyen 2
 etacism 1
@@ -2102,7 +2102,7 @@ effortlessly
 equably
 euxenite 1
 elastivity 1
-eleusine 1
+eleusine 2
 exuberancy 2
 espressos 1
 externat 3
@@ -6171,7 +6171,7 @@ euryhaline
 ennobling 1
 embarren 1
 ensteel
-ectosarcous 3
+ectosarcous 4
 exterritorialize 1
 enoint 2
 enterological
