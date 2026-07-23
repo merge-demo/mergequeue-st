@@ -62,7 +62,7 @@ dichotomise
 disciflorous 1
 dacryosyrinx
 deglamorized 2
-down
+down 1
 dendrology 1
 demonological
 dactylar 1
@@ -368,7 +368,7 @@ droughtiness
 detruss 2
 daymares
 disseizes
-diarists 1
+diarists 2
 discoloured
 dasher 2
 daymark
@@ -7458,7 +7458,7 @@ dubhgall 2
 distalia 1
 detruding
 disulphid 1
-detruncation
+detruncation 1
 damneder 2
 dodgery 1
 detrusion 1
@@ -16363,7 +16363,7 @@ decibel
 downslope 1
 disappendancy 1
 desmognathism
-devout 2
+devout 3
 douras
 dispersal 1
 derelictions 1
@@ -17423,7 +17423,7 @@ doeth 1
 decollimate 1
 dividual
 destool
-droppage 2
+droppage 3
 diffraction
 didascaly 1
 direction
@@ -17923,7 +17923,7 @@ diplomata 1
 dillydallies
 debromination 2
 disgrace
-disburser
+disburser 1
 deterministically 1
 durance
 disembarrass 2
@@ -18430,7 +18430,7 @@ depark
 debauched 2
 duosecant
 daedalidae 1
-drinky
+drinky 1
 downhauls 1
 delichon 1
 dialysepalous
