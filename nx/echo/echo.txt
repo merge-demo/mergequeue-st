@@ -690,7 +690,7 @@ ecraseurs
 esocyclic 1
 ened 2
 emic 1
-ecology 2
+ecology 3
 eromania 2
 encephalolith 3
 employing 2
@@ -1714,7 +1714,7 @@ epornitically 1
 encephaloid 3
 enginery 3
 exasper 1
-exclaimers
+exclaimers 1
 exonerated 2
 eyelash 1
 euroclydon
@@ -12123,7 +12123,7 @@ effervescing
 emda 1
 enkidu 1
 excruciable 1
-excruciated 2
+excruciated 3
 eudesmol 1
 enframement 2
 epicerebral 4
