@@ -1755,7 +1755,7 @@ fluoridates 2
 featheriness 1
 frogface
 foreslack 1
-forsterite 2
+forsterite 3
 farfet 1
 farsalah
 forlorn 1
@@ -4148,7 +4148,7 @@ fairlike 3
 fractionlet 2
 faithwise 1
 figments 1
-farmhouses 2
+farmhouses 3
 formentation
 forthrights
 firebox 3
@@ -6533,7 +6533,7 @@ forecover 3
 fricasseed 1
 flutterboard 1
 faucal
-fluotantalate 2
+fluotantalate 3
 fraxinella 2
 flutteriness
 flagrate 3
@@ -7004,7 +7004,7 @@ freemason 3
 fondly 1
 fluorspar 1
 fatagaga 1
-flop
+flop 1
 fondlingly 1
 farewelled
 fraenulum 1
@@ -11334,7 +11334,7 @@ freebees
 flathat
 faceted 1
 fusulina 2
-fps 3
+fps 4
 furfurine
 funebrious 2
 faujasite 1
