@@ -4200,7 +4200,7 @@ cardiorrheuma 1
 celts
 cardiosphygmogram
 citternhead
-cardiotrophotherapy
+cardiotrophotherapy 1
 cardiovascular 2
 coalhole 1
 chamomile 1
@@ -11253,7 +11253,7 @@ chloridic 1
 chloridized 1
 collochemistry 1
 chemotropism
-compaternity 1
+compaternity 2
 carlin
 chlorimeter
 chlorimetric
@@ -13381,7 +13381,7 @@ concurrency 3
 cyclostomes
 cricketing
 cyclostomi
-cedent
+cedent 1
 cyclothymiac
 cocci 1
 contractile 1
@@ -23598,7 +23598,7 @@ cathodical 1
 continue
 coulthard
 continued
-continuedness
+continuedness 1
 comprovincial
 continuer
 cytostome
