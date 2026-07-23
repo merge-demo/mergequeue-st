@@ -1052,7 +1052,7 @@ esculic
 envergure 1
 edible 2
 expeditive
-embase
+embase 1
 epicondylar 1
 embeddable
 epistolic
@@ -2087,7 +2087,7 @@ exudes
 eesome 1
 emberiza
 envelopes 1
-effete
+effete 1
 eberthella
 electrography
 ethicized 1
@@ -9913,7 +9913,7 @@ embolisms 4
 estovers
 estradiol 1
 electrothermics 1
-earphone 1
+earphone 2
 emphasis 1
 epicentrum 2
 equicellular
