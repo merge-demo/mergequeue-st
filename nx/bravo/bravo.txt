@@ -668,7 +668,7 @@ bacteriotherapeutic
 bechances 2
 boatmen 1
 beletter 3
-bronchocavernous
+bronchocavernous 1
 bynames 1
 bungles
 bkpr 1
@@ -1001,7 +1001,7 @@ beamlike 1
 buddh
 bayadere
 boragineous 1
-bayal
+bayal 1
 bottomed 3
 bosser 3
 bukidnon 2
@@ -2747,7 +2747,7 @@ barolo 1
 bm
 benab
 butteris 2
-bonneting 1
+bonneting 2
 bukeyef
 barology
 barolong
@@ -3947,7 +3947,7 @@ balarao
 bdelliums
 brownist 2
 bdelloid 2
-bdellometer 1
+bdellometer 2
 boarts
 booksellerish 1
 bombardier 2
@@ -4525,7 +4525,7 @@ bandolero 2
 bodenbenderite 1
 blankest 2
 barricaded
-burnsides
+burnsides 1
 batata 1
 becudgels 2
 bosons
@@ -4843,7 +4843,7 @@ bedtime
 brackens 1
 brooklets 1
 bazoos 1
-billback 1
+billback 2
 buttercups 2
 bath 2
 boilerless 1
@@ -5740,7 +5740,7 @@ bulgaria 1
 bulldozer 1
 belike 1
 bogeying
-bribes 2
+bribes 3
 bastonet 2
 bedsheets
 barrator
@@ -10892,7 +10892,7 @@ blindball 4
 bindable 1
 bangers
 boxball
-barracker
+barracker 1
 blooddrops 2
 buttals
 blasphemy
@@ -11411,7 +11411,7 @@ bibbed
 bibio
 bluecoated
 becquerelite
-borable
+borable 1
 berettas 2
 bowlderhead 1
 berycoidei 3
