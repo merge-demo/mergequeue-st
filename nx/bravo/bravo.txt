@@ -668,7 +668,7 @@ bacteriotherapeutic
 bechances 2
 boatmen 1
 beletter 3
-bronchocavernous
+bronchocavernous 1
 bynames 1
 bungles
 bkpr 1
@@ -1001,7 +1001,7 @@ beamlike 1
 buddh
 bayadere
 boragineous 1
-bayal
+bayal 1
 bottomed 3
 bosser 3
 bukidnon 2
@@ -1809,7 +1809,7 @@ bosuns
 bamboozles
 bamboozling 2
 bilanders
-brachman 2
+brachman 3
 burdie
 bamboula
 banterer 1
@@ -2136,7 +2136,7 @@ botoyan 1
 bloodbeat 1
 banshies
 betrough 1
-branchihyal 1
+branchihyal 2
 birthrights 2
 braccae 1
 bosomer
@@ -2747,7 +2747,7 @@ barolo 1
 bm
 benab
 butteris 2
-bonneting 1
+bonneting 2
 bukeyef
 barology
 barolong
@@ -3947,7 +3947,7 @@ balarao
 bdelliums
 brownist 2
 bdelloid 2
-bdellometer 1
+bdellometer 2
 boarts
 booksellerish 1
 bombardier 2
@@ -4525,7 +4525,7 @@ bandolero 2
 bodenbenderite 1
 blankest 2
 barricaded
-burnsides
+burnsides 1
 batata 1
 becudgels 2
 bosons
@@ -4586,7 +4586,7 @@ bundeli
 borborus 1
 bedaubing
 beltlines
-bloodstone 1
+bloodstone 2
 belial 2
 biddelian
 beats 1
@@ -4673,7 +4673,7 @@ burnettized
 balayeuse 2
 bedgoer 2
 bradded 1
-balletomania
+balletomania 1
 breedling
 bedgowns 1
 bassets 2
@@ -4843,7 +4843,7 @@ bedtime
 brackens 1
 brooklets 1
 bazoos 1
-billback 1
+billback 2
 buttercups 2
 bath 2
 boilerless 1
@@ -5740,7 +5740,7 @@ bulgaria 1
 bulldozer 1
 belike 1
 bogeying
-bribes 2
+bribes 3
 bastonet 2
 bedsheets
 barrator
@@ -8748,7 +8748,7 @@ buckeroo
 bimonthlies 1
 bended 1
 bemixt 2
-bimotors
+bimotors 1
 belonged 1
 bruisers 1
 bosc 2
@@ -9174,7 +9174,7 @@ betulinol 1
 biotical
 bobwhite 2
 bespreads 1
-beanstalks
+beanstalks 1
 bolshevized
 beguilingness
 booklouse
@@ -9183,7 +9183,7 @@ banksides 2
 biotins 1
 basics
 beefhead 2
-biogeographer
+biogeographer 1
 biotypes
 browbeats 1
 brickred
@@ -10367,7 +10367,7 @@ beode 1
 bidarkee
 bebait 1
 biocoenoses
-bepainting
+bepainting 1
 bowpin 1
 blanc 1
 beneath 1
@@ -11411,7 +11411,7 @@ bibbed
 bibio
 bluecoated
 becquerelite
-borable
+borable 1
 berettas 2
 bowlderhead 1
 berycoidei 3
@@ -12035,7 +12035,7 @@ bojite 1
 biscuitry 1
 boxberry
 brot 1
-brassylic 2
+brassylic 3
 bubonidae 1
 boycotted
 balaenopteridae 2
@@ -13089,7 +13089,7 @@ borel 1
 borers 2
 barajillo 2
 bangling 1
-bort
+bort 1
 brewers
 bowlmaker 2
 branders
@@ -15003,7 +15003,7 @@ browbeat 1
 begun
 belgians
 brigous 3
-bagdi
+bagdi 1
 breathe
 bravuraish 3
 blennophlogisma 1
@@ -18066,7 +18066,7 @@ bustles 1
 biologize 1
 bustlingly 2
 blenny
-bloom 1
+bloom 2
 banzais
 busts 2
 busulfans 1
