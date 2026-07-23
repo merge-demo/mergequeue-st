@@ -95,7 +95,7 @@ cabbled
 cabbler
 chars
 carotenes 3
-cabdriving 2
+cabdriving 3
 corydora
 cabecudo
 capellet 1
@@ -1723,7 +1723,7 @@ calotypist
 crossbolt 1
 congratulated
 cryptovalency
-cuddlier 1
+cuddlier 2
 cladine
 calottes
 catechizing
@@ -2070,7 +2070,7 @@ coburgess
 camouflage 1
 camouflageable 1
 camouflager 1
-contradictorily
+contradictorily 1
 camouflagers 1
 camouflagic
 coincidence 2
@@ -2762,7 +2762,7 @@ canned 1
 cannel
 coeno 1
 cannellate
-coolamon
+coolamon 1
 congruences 1
 counterembowed 1
 cannelle 1
@@ -4764,7 +4764,7 @@ carping 1
 canceration
 carpiodes 1
 carpium 1
-cannach
+cannach 1
 carpocace 1
 cassandras
 contagia
@@ -6171,7 +6171,7 @@ creakier 2
 cicely 2
 cancan 1
 coprincipal 1
-cattleyak 1
+cattleyak 2
 cattleman
 conhydrin
 cattlemen
@@ -7047,7 +7047,7 @@ chisedec 1
 centerable 1
 cutup
 chumpivilca 1
-centerboard 1
+centerboard 2
 centerer
 centerfold
 coofs
@@ -11324,7 +11324,7 @@ ceylanite
 chloroformate 1
 churched 1
 collarinos
-chloroformic
+chloroformic 1
 conged
 cubica
 chromicizing 1
@@ -11863,7 +11863,7 @@ chora
 caselty
 cardioplasty
 cibolan 2
-cagn 1
+cagn 2
 choragi 1
 choragic
 choragion
@@ -12257,7 +12257,7 @@ chorally
 caliche
 camphorphorone 1
 chrysosperm 1
-chrysosplenium
+chrysosplenium 1
 chrysothrix
 chrysotile 1
 cheirospasm 2
@@ -12932,7 +12932,7 @@ cleidocranial
 chute 1
 clangorously 1
 clachs
-chuted
+chuted 1
 calyon
 chuter 2
 chromatometer
@@ -13421,7 +13421,7 @@ cidaris
 cheatrie
 carbolating
 cymols
-cleared 1
+cleared 2
 courageously 1
 christabel 1
 ciderish
@@ -13586,7 +13586,7 @@ cymbel
 cymbid 1
 clochard 1
 cymbidium
-copartner 1
+copartner 2
 chignons 1
 cymbocephalous
 convectional
@@ -16474,7 +16474,7 @@ cloddily
 chaulmoograte 1
 catguts
 clodhead
-clodhopper
+clodhopper 1
 clodhoppers 1
 curettage 1
 clodhopping
@@ -16697,7 +16697,7 @@ clotheslines
 clothesman
 crypts
 cheerful
-carbamoyl 1
+carbamoyl 2
 catchingness
 cosuitor
 culla
@@ -17522,7 +17522,7 @@ circumscriptively 1
 cocainised
 chloroformism 3
 cocainising
-cocainist
+cocainist 1
 cocainize 1
 copiopsia 1
 cocainomania 1
@@ -18177,7 +18177,7 @@ churada
 carburize 1
 coglorious
 commencements 1
-circumesophagal 1
+circumesophagal 2
 compital
 coptis 1
 cyanopia
@@ -18385,7 +18385,7 @@ cardinalic
 cognatic
 calorize
 cognatus 1
-cementum
+cementum 1
 cognisable
 chiragrical
 catholicized 1
@@ -19415,7 +19415,7 @@ colorimetrist
 carinthian
 chrysobalanaceae
 colorin 1
-colorings
+colorings 1
 conges
 colorisms
 cystous 1
@@ -21565,7 +21565,7 @@ concurring 1
 concurs 2
 christologist 1
 copesmate
-compulsorily
+compulsorily 1
 computable
 cardiamorphia
 concurso 1
@@ -22425,7 +22425,7 @@ coniferae
 coniferin
 coniferophyte 1
 cuppier
-creakily 1
+creakily 2
 cordiner
 caracoler
 coniferous
@@ -24062,7 +24062,7 @@ conventual 1
 cerebri
 converge
 connive
-chylocaulously 1
+chylocaulously 2
 concealment
 caprimulgi
 cirrolite
@@ -24670,7 +24670,7 @@ cryaesthesia
 charcoals
 cerebrating 2
 copolymer 1
-copolymerization
+copolymerization 1
 copolymerize 1
 cossas
 cruciated 1
@@ -25243,7 +25243,7 @@ corynebacteria
 coreless 1
 coryneform
 corineus 2
-candelabrums 1
+candelabrums 2
 caucussed
 corynid 1
 corynine
@@ -25419,7 +25419,7 @@ codings
 cornhole 1
 cornhouse 1
 cornhusker 1
-concertati
+concertati 1
 chamades 2
 cornhusking 1
 coulombic
@@ -28101,7 +28101,7 @@ craneway 1
 chorologist 1
 crany
 crania
-cancerate 1
+cancerate 2
 cosier
 crocodiline
 cranian
@@ -28672,7 +28672,7 @@ crenately
 cortins 1
 crotches 4
 crenation
-cellblocks 1
+cellblocks 2
 clarisse
 consequentially
 classific 1
@@ -29002,7 +29002,7 @@ chemokinesis 1
 choletherapy 2
 coachbuilding
 choledography
-cries 2
+cries 3
 crig
 crying 1
 crile 1
@@ -29733,7 +29733,7 @@ compactify 1
 cuartillo 1
 communicated
 coachway
-cronies 1
+cronies 2
 cronyisms
 cardipaludism
 clackety
@@ -29864,7 +29864,7 @@ cerianthid
 compatience 2
 columellar 1
 cowslipped
-cabrilla 1
+cabrilla 2
 candys
 compearant
 callow
@@ -29960,7 +29960,7 @@ cammocky
 colyumist 1
 coggers
 creepier 1
-crosstown 1
+crosstown 2
 carcinologist
 crosstrack 3
 crosstree
@@ -30224,7 +30224,7 @@ covibration
 crudities
 companions 1
 countryfied
-crudle
+crudle 1
 cruds
 cruel
 carbonous
@@ -31188,7 +31188,7 @@ clerklike 2
 countervengeance
 commulation
 corantos 1
-communities 1
+communities 2
 cloudling 1
 cuprene 1
 cupreous
@@ -31634,7 +31634,7 @@ curvital
 constrainedly
 curvities 1
 coenunuri 2
-cracidae
+cracidae 1
 columbae
 circumambulating 1
 coconucan
