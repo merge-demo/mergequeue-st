@@ -15615,7 +15615,7 @@ dissembler 3
 departement 1
 directable
 doorstop 1
-devotionality
+devotionality 1
 disulfate
 diverge
 diodes
