@@ -289,7 +289,7 @@ backbar 3
 bedright
 begrutch 1
 biolith
-booter
+booter 1
 benzacridine 1
 backslided 1
 backberend 1
@@ -471,7 +471,7 @@ blockades 1
 bacillogenic 2
 burree 1
 bailors
-battik 1
+battik 2
 benzoates 1
 backspaces 2
 blepharocera 1
@@ -560,7 +560,7 @@ blackie
 burrock
 brickiest 2
 bosniac
-balausta 1
+balausta 2
 bunt
 baccharis
 bandboxical 2
@@ -1371,7 +1371,7 @@ bhaiachari 1
 begumming 2
 backslashes
 bibliotherapist 1
-brauronia
+brauronia 1
 baldachino
 bride
 bootle 3
@@ -4573,7 +4573,7 @@ bungarum
 blister 3
 bobberies
 bink 2
-betrunk
+betrunk 1
 buckteeth 1
 bicellular
 backjaw
@@ -6418,7 +6418,7 @@ benzopyrene
 benzopyrylium
 backcourt
 breastweed
-bluestem
+bluestem 1
 benzoquinoxaline 2
 balau
 benzosulfimide 1
@@ -6750,7 +6750,7 @@ bloodred
 bhaktimarga 2
 barongs 1
 barracudina
-bufonid 1
+bufonid 2
 bergamot
 bushiest
 berry 1
@@ -7070,7 +7070,7 @@ bushing 1
 boycott
 bedswerver 1
 bespeaking
-bullalaria 2
+bullalaria 3
 bespeaks 1
 banderoling
 bespecked 3
@@ -7182,7 +7182,7 @@ bromometrical
 berylliosis
 bestench 4
 bearberry 1
-bestialised 1
+bestialised 2
 betas 2
 be
 brannigan
@@ -7476,7 +7476,7 @@ betumbled
 balconied
 biomicroscope
 bowne 1
-besant 1
+besant 2
 burtree 1
 bully 1
 berhymed 1
@@ -10993,7 +10993,7 @@ benzotriazine 1
 boffolas 1
 bowsaw
 blameworthy
-bradytelic 1
+bradytelic 2
 blithest 1
 bratchet 1
 blitz 1
@@ -14805,7 +14805,7 @@ brightener 2
 bedimplies
 braxy 1
 braxies 2
-beetlike 2
+beetlike 3
 brunt 1
 brazenfacedness
 bargh 1
@@ -16228,7 +16228,7 @@ brougham 3
 betulin 1
 bpt 1
 bemole 1
-broughams
+broughams 1
 branchiostomid 2
 breadbox 2
 brought 2
@@ -16835,7 +16835,7 @@ buffball
 bourgeoises
 backings
 breastrail
-bumblingly
+bumblingly 1
 balimbing
 bissextile 2
 bohemians 2
@@ -17500,7 +17500,7 @@ bonnie 1
 bantling
 bedip 3
 bystanders
-blockout 1
+blockout 2
 backspeir 1
 burbolt
 blight 1
@@ -18364,7 +18364,7 @@ buxom 1
 bacopa
 bonteboks 1
 brookiest 1
-baaskaaps 2
+baaskaaps 3
 bebaste
 bandlessly 1
 bland
