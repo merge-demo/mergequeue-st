@@ -1986,7 +1986,7 @@ emulsic 1
 equisonant 1
 endodontist 2
 eradiculose
-elabrate 1
+elabrate 2
 endocrinotherapy 1
 erythrosine 1
 epitrophy 2
@@ -5955,7 +5955,7 @@ emotionality
 exempts
 erogenic
 enisled
-enisles
+enisles 1
 effulges
 expeditated 1
 ejectors 1
@@ -9958,7 +9958,7 @@ electronography 1
 entonement
 entreatment
 emaciated 1
-esurient 1
+esurient 2
 electroform 3
 epilobe
 easygoingly 3
@@ -11014,7 +11014,7 @@ epiclastic 1
 electrodialitically 2
 egomism
 exigency
-editorializations 1
+editorializations 2
 eurypharyngidae 2
 extund 1
 endomorph
@@ -12518,7 +12518,7 @@ eunuchised
 esophagotomy
 enrollees 4
 ense 3
-etiogenic 1
+etiogenic 2
 eluviates 1
 exaggeration 1
 enteropneusta 2
@@ -12679,7 +12679,7 @@ exogen
 earldom
 esophagostomy
 encratism 3
-exogenously
+exogenously 1
 examplar 3
 effusion 2
 exognathite 1
@@ -14113,7 +14113,7 @@ extricable 1
 extricably
 egbo 2
 ericad
-eustatically
+eustatically 1
 enzymically
 extendedness
 epiphyses 1
