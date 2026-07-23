@@ -237,7 +237,7 @@ allokinesis 1
 alchemistical 1
 adipolytic
 ajourise
-aeroliths
+aeroliths 1
 acroamatics 1
 absorptiometric 1
 abbott 1
@@ -399,7 +399,7 @@ alonely 1
 agminate
 amoved
 addressograph
-asteriscuses
+asteriscuses 1
 auditions
 acquitting 1
 antivice
@@ -3608,7 +3608,7 @@ anesthyl 1
 aranea
 afaced
 adead
-amniac 2
+amniac 3
 anthropologically
 asitia 1
 anaesthetization
@@ -4433,7 +4433,7 @@ arbitrationist 1
 adulating
 adulation 2
 avance
-actinium 1
+actinium 2
 adulator
 antireacting
 apennines 1
@@ -10389,7 +10389,7 @@ antimission
 americanisms
 aboriginals 2
 americanistic
-abstentious
+abstentious 1
 aftertax 1
 astigmatizer 1
 approachless
@@ -10487,7 +10487,7 @@ araba 2
 amiability 1
 amiableness
 antiautolysin
-aswooned
+aswooned 1
 auxosubstance
 apperceptionist 1
 aegle
@@ -12043,7 +12043,7 @@ anenergia
 anthology
 aluminium 1
 anarchies
-analyzation 1
+analyzation 2
 affrights 2
 adela
 astromancy 1
@@ -12594,7 +12594,7 @@ adiapneustia
 androgonial 1
 augurers 1
 anemotaxis
-anemotropism
+anemotropism 1
 accersition
 antiphlogistian
 apatosaurus 2
@@ -14039,7 +14039,7 @@ avener 1
 adenoviral
 alameda 1
 anteact
-acajou 1
+acajou 2
 achloropsia 1
 anteater
 astrologian 1
@@ -15485,7 +15485,7 @@ attainder 1
 assented
 anapestic 1
 antimension 2
-archisperm 1
+archisperm 2
 antimere
 antimerism
 antimesia
@@ -16741,7 +16741,7 @@ atees 1
 arrestee 1
 aphasiacs
 aphasics 1
-affrayer 3
+affrayer 4
 ambience
 anabaptized 2
 averse
@@ -16772,7 +16772,7 @@ adiposity 1
 aphidivorous
 aphidolysin 1
 autopsychorhythmia 1
-aphodi
+aphodi 1
 archipterygium
 astronauts
 albatros 1
@@ -17712,7 +17712,7 @@ araucarioxylon
 amblycephalidae 1
 anthorine 1
 affinitatively
-appliable 1
+appliable 2
 appliance 1
 apocentre
 achitophel
@@ -22403,7 +22403,7 @@ astrographer
 assemblywomen
 aldehydes
 augites 2
-ariolate
+ariolate 1
 aspidiotus 2
 acromegalic 1
 ailurophobic 1
@@ -23361,7 +23361,7 @@ auchenium
 auchlet 1
 accountrement 1
 argyll 2
-antenatalitial
+antenatalitial 1
 associative
 aquas
 anan 1
@@ -23776,7 +23776,7 @@ arpenteur
 abannition
 admirability 1
 atka
-actinocarpic 1
+actinocarpic 2
 asgmt 1
 accursing 1
 austausch 1
