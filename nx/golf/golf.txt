@@ -2196,7 +2196,7 @@ generosities 1
 gibby 1
 galactohemia 1
 gleit 1
-glossopathy 1
+glossopathy 2
 grounders 2
 globetrotting 2
 grieced 1
@@ -6995,7 +6995,7 @@ griefless 1
 gravelous
 gnosticizer
 guldengroschen 3
-gestalts 1
+gestalts 2
 geir
 gabback 3
 ghats 3
@@ -10647,7 +10647,7 @@ gorrel 1
 genera 2
 galvanocauterization 2
 guppies
-galee
+galee 1
 gnomed
 gastroperiodynia 2
 gurged 2
