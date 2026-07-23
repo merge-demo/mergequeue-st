@@ -1052,7 +1052,7 @@ esculic
 envergure 1
 edible 2
 expeditive
-embase
+embase 1
 epicondylar 1
 embeddable
 epistolic
@@ -2087,7 +2087,7 @@ exudes
 eesome 1
 emberiza
 envelopes 1
-effete
+effete 1
 eberthella
 electrography
 ethicized 1
@@ -2485,7 +2485,7 @@ ecosphere
 elephantidae
 epicanthic 1
 exterminative
-electrokinetics 2
+electrokinetics 3
 elasticum 1
 electroless 2
 exsecants 3
@@ -2926,7 +2926,7 @@ epiphyseolysis 3
 elfwife 2
 enucleated 2
 elfwort 1
-elian 2
+elian 3
 enervated 2
 exacinate 3
 equicostate
@@ -3189,7 +3189,7 @@ endocone 1
 ejaculum 1
 extraserous 1
 entomophagous
-episcopation 1
+episcopation 2
 enamoring 2
 esperantist
 enamelwork
@@ -7087,7 +7087,7 @@ estanciero 3
 eudaemonism 1
 endocolitis 1
 enneagonal 1
-engrossed
+engrossed 1
 epigastria 2
 established
 epimere 3
@@ -7234,7 +7234,7 @@ expeditating 1
 explodent
 exoascaceae 1
 ejicient 1
-enclitics 2
+enclitics 3
 exlex 1
 essayer
 elechi 4
@@ -12870,7 +12870,7 @@ enumerations 3
 efecks 1
 exoticist
 equilibrity 1
-eudipleural
+eudipleural 1
 exploringly 1
 encircled 1
 exoterically 3
