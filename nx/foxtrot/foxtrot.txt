@@ -4946,7 +4946,7 @@ freights
 foder 2
 fevertwitch 4
 facedown 1
-fraunch 2
+fraunch 3
 flameout 3
 foreappoint 2
 fourflushers 2
@@ -5775,7 +5775,7 @@ flited 4
 frontate 3
 foge
 fondouk
-freckliness
+freckliness 1
 foehns 2
 finebent 3
 finings 1
