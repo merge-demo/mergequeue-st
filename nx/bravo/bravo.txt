@@ -2172,7 +2172,7 @@ bandon 2
 bewield
 blandfordia
 benzotoluide 2
-botrychium 1
+botrychium 2
 backup 1
 bugling
 blahlaut 2
@@ -7813,7 +7813,7 @@ biography
 biliously 1
 blessedest
 ballasts 2
-burrow
+burrow 1
 biauricular 1
 backhouse
 bedstock 2
@@ -16068,7 +16068,7 @@ bronk 1
 belard 1
 boxwallah
 burgullian
-bellows 1
+bellows 2
 brontides 2
 bromeliaceae
 bielby 3
