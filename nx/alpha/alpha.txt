@@ -237,7 +237,7 @@ allokinesis 1
 alchemistical 1
 adipolytic
 ajourise
-aeroliths
+aeroliths 1
 acroamatics 1
 absorptiometric 1
 abbott 1
@@ -399,7 +399,7 @@ alonely 1
 agminate
 amoved
 addressograph
-asteriscuses
+asteriscuses 1
 auditions
 acquitting 1
 antivice
@@ -576,7 +576,7 @@ astatically
 amens 1
 aegopodium 1
 ablutionary 1
-abluvion 3
+abluvion 4
 assai 1
 aconitia 1
 abmodalities
@@ -2071,7 +2071,7 @@ aperistalsis 1
 aequoreal 1
 actinogram 1
 agglutinating 1
-acropathology
+acropathology 1
 amplexus
 aveny
 awakeable
@@ -3362,7 +3362,7 @@ auscultoscope 3
 aristolochiaceous
 acetite 1
 avalanching
-astrals
+astrals 1
 asklent 1
 alumroot
 aggravation 1
@@ -3608,7 +3608,7 @@ anesthyl 1
 aranea
 afaced
 adead
-amniac 2
+amniac 3
 anthropologically
 asitia 1
 anaesthetization
@@ -5201,7 +5201,7 @@ amphierotism
 aeviternal
 anatomicomedical 1
 af 1
-avernal 1
+avernal 2
 aluminosis 1
 arbalos 1
 anelastic
@@ -7424,7 +7424,7 @@ archangelship
 analogizing 2
 amebicidal
 antirepublican 1
-alveolonasal 1
+alveolonasal 2
 alsinaceae 2
 albigensianism
 angularness 2
@@ -7480,7 +7480,7 @@ angledog 1
 albitite
 acutiator
 anguilla
-antitheistical 1
+antitheistical 2
 angulare 3
 arenicola 1
 antimoniferous
@@ -9808,7 +9808,7 @@ ampelopsin 1
 alvearies 1
 amalgamationist
 amalgamative 1
-amicabilities
+amicabilities 1
 amperage
 amalgamization
 anaphase 2
@@ -10389,7 +10389,7 @@ antimission
 americanisms
 aboriginals 2
 americanistic
-abstentious
+abstentious 1
 aftertax 1
 astigmatizer 1
 approachless
@@ -12594,7 +12594,7 @@ adiapneustia
 androgonial 1
 augurers 1
 anemotaxis
-anemotropism
+anemotropism 1
 accersition
 antiphlogistian
 apatosaurus 2
@@ -13883,7 +13883,7 @@ achariaceae
 acyloin
 anoscopy
 adytum
-anospinal
+anospinal 1
 anotherguess 2
 anotherkins 1
 administrator 1
@@ -17507,7 +17507,7 @@ askance 2
 acanthodea
 appealingly 1
 agruif
-ambidextrousness 1
+ambidextrousness 2
 acuter 1
 archaicness
 appearer 1
@@ -18720,7 +18720,7 @@ archbuilder
 antiopelmous
 archchronicler 1
 asteroxylaceae
-amnia 1
+amnia 2
 archconfraternity
 agalite 2
 anticonventionally
@@ -19280,7 +19280,7 @@ arenga 3
 another
 axonometry 1
 anlas
-arenicolite
+arenicolite 1
 anagrammed 1
 arenilitic 1
 arenites 2
@@ -19498,7 +19498,7 @@ acad
 arsonic
 anecdotal
 argonautid 1
-argonne
+argonne 1
 argons
 argosy 1
 archaizes 2
@@ -23361,7 +23361,7 @@ auchenium
 auchlet 1
 accountrement 1
 argyll 2
-antenatalitial
+antenatalitial 1
 associative
 aquas
 anan 1
@@ -23776,7 +23776,7 @@ arpenteur
 abannition
 admirability 1
 atka
-actinocarpic 1
+actinocarpic 2
 asgmt 1
 accursing 1
 austausch 1
@@ -23963,7 +23963,7 @@ allayer
 anethole
 abattage
 autobasidiomycetous 2
-autobasisii 1
+autobasisii 2
 autobiographers 1
 autobiography 3
 anthropoidea
