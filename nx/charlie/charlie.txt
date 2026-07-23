@@ -466,7 +466,7 @@ cancelable 1
 cacumination
 coleopterous
 cacuminous
-cacur
+cacur 1
 cad
 cadamba 1
 cryptocrystalline 1
@@ -6879,7 +6879,7 @@ celtiform 2
 consortiums 3
 celtis 1
 celtism
-cotyla
+cotyla 1
 contemporaries
 clockroom 1
 contingencies
@@ -24342,7 +24342,7 @@ carbureter 1
 chapeau
 creation 1
 crull
-creatable
+creatable 1
 classist
 coarrange
 cookeite 1
@@ -28968,7 +28968,7 @@ couldest
 cicindelid
 cigaret 1
 cricketlike
-coercibility 1
+coercibility 2
 crickle
 chandrakanta 1
 charlatanical 1
