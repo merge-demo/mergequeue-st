@@ -5394,7 +5394,7 @@ castellation
 castellatus 1
 creolization 2
 circumposition
-copulates
+copulates 1
 chamberfellow
 caster
 crinicultural 1
@@ -7687,7 +7687,7 @@ contracter
 cerographical
 ceroline
 cerolite
-ciliolate
+ciliolate 1
 chidden 1
 cadbit
 cassumuniar
@@ -13383,7 +13383,7 @@ cricketing
 cyclostomi
 cedent
 cyclothymiac
-cocci
+cocci 1
 contractile 1
 czarists
 cocooned
@@ -19727,7 +19727,7 @@ combinate 3
 combination
 coredeem
 combinational
-corrigent 1
+corrigent 2
 cloots 1
 combinations
 corallike
