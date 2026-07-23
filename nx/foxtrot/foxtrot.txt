@@ -2452,7 +2452,7 @@ foreproduct 1
 fermentable 4
 fermentativeness 1
 faradize
-falus 2
+falus 3
 footbridges 2
 fermentescible
 filiform 1
@@ -3914,7 +3914,7 @@ formalised 1
 filopodia
 false 1
 filea 2
-fined
+fined 1
 faulty 1
 farmy
 formature 1
@@ -7323,7 +7323,7 @@ fixation 5
 forewarner 1
 foraying 3
 frognose 3
-foram 3
+foram 4
 fronds 2
 fearnaught 3
 frampold
@@ -8866,7 +8866,7 @@ forthcome 2
 feucht
 frigorimeter 3
 fluidible 1
-flighthead 3
+flighthead 4
 flushgate 1
 farmers 1
 forespoke
@@ -10022,7 +10022,7 @@ forcers 2
 frigolabile 3
 feloniousness 2
 frigoric 2
-foun 1
+foun 2
 futureless
 fibroid 5
 feracity
@@ -10781,7 +10781,7 @@ foots 2
 falafel 2
 frustum 4
 faithlessly
-footraces 2
+footraces 3
 fumaryl 1
 folious
 farced 2
