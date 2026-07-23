@@ -8596,7 +8596,7 @@ cuissard
 changeovers
 chiefs 1
 changer
-columbic
+columbic 1
 crudwort
 changers 1
 clypei
@@ -27830,7 +27830,7 @@ counterquery
 chariotee
 circaea 1
 cozed 1
-cozey 1
+cozey 2
 clarini
 cozeier
 cozen 1
