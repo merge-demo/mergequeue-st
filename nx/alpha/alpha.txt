@@ -237,7 +237,7 @@ allokinesis 1
 alchemistical 1
 adipolytic
 ajourise
-aeroliths
+aeroliths 1
 acroamatics 1
 absorptiometric 1
 abbott 1
@@ -3608,7 +3608,7 @@ anesthyl 1
 aranea
 afaced
 adead
-amniac 2
+amniac 3
 anthropologically
 asitia 1
 anaesthetization
@@ -7480,7 +7480,7 @@ angledog 1
 albitite
 acutiator
 anguilla
-antitheistical 1
+antitheistical 2
 angulare 3
 arenicola 1
 antimoniferous
@@ -10389,7 +10389,7 @@ antimission
 americanisms
 aboriginals 2
 americanistic
-abstentious
+abstentious 1
 aftertax 1
 astigmatizer 1
 approachless
