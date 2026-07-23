@@ -289,7 +289,7 @@ backbar 3
 bedright
 begrutch 1
 biolith
-booter
+booter 1
 benzacridine 1
 backslided 1
 backberend 1
@@ -16835,7 +16835,7 @@ buffball
 bourgeoises
 backings
 breastrail
-bumblingly
+bumblingly 1
 balimbing
 bissextile 2
 bohemians 2
