@@ -3138,7 +3138,7 @@ emissive 1
 endoscopy
 earthsmoke
 eloigning
-enactment
+enactment 1
 euryte
 equitemporal 2
 escheat 1
