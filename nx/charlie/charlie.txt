@@ -7079,7 +7079,7 @@ centesm
 cacology 1
 centiar 2
 centiares
-copita 1
+copita 2
 curvidentate
 caffa
 colitoxemia
@@ -7687,7 +7687,7 @@ contracter
 cerographical
 ceroline
 cerolite
-ciliolate
+ciliolate 1
 chidden 1
 cadbit
 cassumuniar
@@ -13383,7 +13383,7 @@ cricketing
 cyclostomi
 cedent
 cyclothymiac
-cocci
+cocci 1
 contractile 1
 czarists
 cocooned
