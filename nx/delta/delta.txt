@@ -905,7 +905,7 @@ dashpots 1
 dextrin 2
 dandles
 dewitt
-decolourised 3
+decolourised 4
 daoine 3
 decks 1
 dap 1
@@ -4597,7 +4597,7 @@ dereliction
 demipectinate
 denarius
 diswench 1
-demiscible
+demiscible 1
 dicebox
 denticulate
 demise 1
@@ -15128,7 +15128,7 @@ dactylitic 1
 dysplastic
 doing 2
 discopodous 1
-dotish 1
+dotish 2
 doitkin 2
 dojigger 1
 deprogramming 1
@@ -16347,7 +16347,7 @@ dismount
 divergently
 discinoid 1
 dusserah 1
-downsizing
+downsizing 1
 defensible
 devow 2
 discontinuable 1
