@@ -10892,7 +10892,7 @@ blindball 4
 bindable 1
 bangers
 boxball
-barracker
+barracker 1
 blooddrops 2
 buttals
 blasphemy
@@ -14235,7 +14235,7 @@ bronzes 2
 bisectional
 bradydactylia 1
 bisulfide
-bepowder 1
+bepowder 2
 belamour 1
 bradyphrenia
 bloodtest 1
