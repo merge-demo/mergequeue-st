@@ -289,7 +289,7 @@ backbar 3
 bedright
 begrutch 1
 biolith
-booter
+booter 1
 benzacridine 1
 backslided 1
 backberend 1
@@ -560,7 +560,7 @@ blackie
 burrock
 brickiest 2
 bosniac
-balausta 1
+balausta 2
 bunt
 baccharis
 bandboxical 2
@@ -1371,7 +1371,7 @@ bhaiachari 1
 begumming 2
 backslashes
 bibliotherapist 1
-brauronia
+brauronia 1
 baldachino
 bride
 bootle 3
@@ -2459,7 +2459,7 @@ bugaboos 2
 breechesflower
 brodder
 blowout 2
-baniwa 1
+baniwa 2
 bowk 2
 barehead 1
 bisexuality
@@ -3097,7 +3097,7 @@ basaree 2
 boycotting
 bestness 1
 bealach 1
-bronteana 1
+bronteana 2
 bonitas 2
 boithrin
 butylene
@@ -3338,7 +3338,7 @@ byroads 2
 basiventral
 beudantite
 basked 1
-bachel 1
+bachel 2
 basketballer 1
 bison 2
 baggiest 2
@@ -4573,7 +4573,7 @@ bungarum
 blister 3
 bobberies
 bink 2
-betrunk
+betrunk 1
 buckteeth 1
 bicellular
 backjaw
@@ -6418,7 +6418,7 @@ benzopyrene
 benzopyrylium
 backcourt
 breastweed
-bluestem
+bluestem 1
 benzoquinoxaline 2
 balau
 benzosulfimide 1
@@ -6826,7 +6826,7 @@ battalia
 bitulithic 1
 besagne 3
 bisexually
-bishopless 2
+bishopless 3
 besaile 2
 bipartizan 1
 bubbling 2
@@ -7182,7 +7182,7 @@ bromometrical
 berylliosis
 bestench 4
 bearberry 1
-bestialised 1
+bestialised 2
 betas 2
 be
 brannigan
@@ -7813,7 +7813,7 @@ biography
 biliously 1
 blessedest
 ballasts 2
-burrow
+burrow 1
 biauricular 1
 backhouse
 bedstock 2
@@ -8140,7 +8140,7 @@ bidiagonal 1
 binucleate 1
 barble 2
 biding 1
-bidirectional 1
+bidirectional 2
 biophagy 1
 bhumij 2
 beliefs
@@ -10993,7 +10993,7 @@ benzotriazine 1
 boffolas 1
 bowsaw
 blameworthy
-bradytelic 1
+bradytelic 2
 blithest 1
 bratchet 1
 blitz 1
@@ -13435,7 +13435,7 @@ baller 1
 ballotade
 balloon 1
 basilar
-benes 1
+benes 2
 biofeedback 1
 broadest
 backfields 2
@@ -13490,7 +13490,7 @@ baronethood 1
 blatant 1
 bisulfate
 bottoming
-betweenness
+betweenness 1
 balderdash
 benefic
 bradyseismism 1
@@ -14808,7 +14808,7 @@ braxies 2
 beetlike 2
 brunt 1
 brazenfacedness
-bargh
+bargh 1
 brazens
 brazer
 brazers 2
@@ -15685,7 +15685,7 @@ broaches
 bungstarter 2
 burgundies 2
 batterable
-buffone
+buffone 1
 barrenest
 bulkheads 2
 burred 1
@@ -16068,7 +16068,7 @@ bronk 1
 belard 1
 boxwallah
 burgullian
-bellows 1
+bellows 2
 brontides 2
 bromeliaceae
 bielby 3
@@ -16835,7 +16835,7 @@ buffball
 bourgeoises
 backings
 breastrail
-bumblingly
+bumblingly 1
 balimbing
 bissextile 2
 bohemians 2
@@ -18364,7 +18364,7 @@ buxom 1
 bacopa
 bonteboks 1
 brookiest 1
-baaskaaps 2
+baaskaaps 3
 bebaste
 bandlessly 1
 bland
