@@ -2172,7 +2172,7 @@ bandon 2
 bewield
 blandfordia
 benzotoluide 2
-botrychium 1
+botrychium 2
 backup 1
 bugling
 blahlaut 2
@@ -13955,7 +13955,7 @@ bleed
 brussels
 boxhauled
 brierberry 2
-bundle 4
+bundle 5
 boxhauling
 boxhauls
 bowwow 1
@@ -14194,7 +14194,7 @@ baculi 2
 bracking 1
 brackish
 bacteriological 2
-banat
+banat 1
 byrls 4
 bracon
 bedquilt
@@ -15128,7 +15128,7 @@ bibber 1
 besaint
 brett
 brachymetropic 1
-betty
+betty 1
 brickwork
 blisterweed
 bradawl 2
@@ -16068,7 +16068,7 @@ bronk 1
 belard 1
 boxwallah
 burgullian
-bellows 1
+bellows 2
 brontides 2
 bromeliaceae
 bielby 3
