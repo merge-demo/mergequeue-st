@@ -5394,7 +5394,7 @@ castellation
 castellatus 1
 creolization 2
 circumposition
-copulates
+copulates 1
 chamberfellow
 caster
 crinicultural 1
@@ -7723,7 +7723,7 @@ certainty 2
 certhia
 caryatidic 1
 cfi
-certifiability
+certifiability 1
 categorematic
 cellarway 3
 compressingly 1
@@ -8809,7 +8809,7 @@ cenospecific
 characins 2
 charity
 castigating 1
-charact
+charact 1
 cutouts
 charactered
 capitalist 2
@@ -19727,7 +19727,7 @@ combinate 3
 combination
 coredeem
 combinational
-corrigent 1
+corrigent 2
 cloots 1
 combinations
 corallike
@@ -25503,7 +25503,7 @@ corody
 corodiary 1
 corodiastasis
 convicting 2
-corodies
+corodies 1
 cocowood 1
 condemns
 contaggia
@@ -25829,7 +25829,7 @@ cetene
 corroding
 cyclophorus
 cepa 1
-cofound 1
+cofound 2
 corrosibleness
 coeltera 1
 corrosived
@@ -29014,7 +29014,7 @@ chastisable
 culiciform
 crimea
 cheiroptera
-catchpoling
+catchpoling 1
 crimeful
 crozzly
 crimeproof 1
