@@ -2887,7 +2887,7 @@ foxship
 frisettes 1
 fogies 2
 formicarium 3
-footwear
+footwear 1
 frabjously 2
 foaled
 flowstone 1
@@ -3134,7 +3134,7 @@ firewarden 1
 franciscans
 facile 1
 finca 1
-flip
+flip 1
 fences 1
 fibroins 3
 founderous 1
@@ -4946,7 +4946,7 @@ freights
 foder 2
 fevertwitch 4
 facedown 1
-fraunch 2
+fraunch 3
 flameout 3
 foreappoint 2
 fourflushers 2
@@ -5217,7 +5217,7 @@ flautino 1
 foulmouthedness
 felicitated 1
 flautist 3
-flav 1
+flav 2
 flavanilin 2
 fiscals
 flavescence 1
@@ -5304,7 +5304,7 @@ flain 2
 fernwort
 fulyie 3
 fucaceous 1
-flivvers 2
+flivvers 3
 farrierlike 2
 formates 1
 front 1
@@ -5775,7 +5775,7 @@ flited 4
 frontate 3
 foge
 fondouk
-freckliness
+freckliness 1
 foehns 2
 finebent 3
 finings 1
@@ -7133,7 +7133,7 @@ footboard
 footboards 1
 feckful
 friszka 2
-footboy 2
+footboy 3
 fossette 2
 floodgate 2
 fairling 1
@@ -9466,7 +9466,7 @@ furacana 2
 flammed
 franz 1
 felidae 2
-foliiferous 1
+foliiferous 2
 fliers 2
 foodstuff 4
 foreteeth
@@ -9658,7 +9658,7 @@ faon 1
 fabula 2
 firing
 flannelmouths 2
-featherbone 1
+featherbone 2
 foodlessness 1
 flytime 2
 forlet
