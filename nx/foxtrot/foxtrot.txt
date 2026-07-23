@@ -2887,7 +2887,7 @@ foxship
 frisettes 1
 fogies 2
 formicarium 3
-footwear
+footwear 1
 frabjously 2
 foaled
 flowstone 1
@@ -5217,7 +5217,7 @@ flautino 1
 foulmouthedness
 felicitated 1
 flautist 3
-flav 1
+flav 2
 flavanilin 2
 fiscals
 flavescence 1
@@ -9658,7 +9658,7 @@ faon 1
 fabula 2
 firing
 flannelmouths 2
-featherbone 1
+featherbone 2
 foodlessness 1
 flytime 2
 forlet
