@@ -1942,7 +1942,7 @@ demireps
 debtee 1
 denudated
 debtless 2
-desilverized
+desilverized 1
 dwines
 dominoes 2
 disobeys 1
@@ -2546,7 +2546,7 @@ dweller 1
 declassification 1
 declassifies 4
 diplophonic 1
-disequality 1
+disequality 2
 dematerialize 1
 discus 1
 dorsocephalic 2
@@ -4251,7 +4251,7 @@ dermatopathology
 demimillionaire 1
 dysarthria
 divert 1
-dissemble 3
+dissemble 4
 draggletail 1
 delver
 dizzy 1
@@ -8618,7 +8618,7 @@ diary
 diaglyph 1
 diarist 2
 dibbuk 2
-denatured 1
+denatured 2
 diarrhea 1
 dows
 decarchy 3
@@ -12011,7 +12011,7 @@ deciduousness 2
 diagraphics 1
 devotionist
 disenmesh
-dibrom
+dibrom 1
 donut
 deacon 1
 dogtie 1
