@@ -188,7 +188,7 @@ freedwoman 2
 ferns 2
 fluking 2
 fazenda
-factotum 1
+factotum 2
 felsitic 2
 ferrihemoglobin 1
 frasier
@@ -341,7 +341,7 @@ fellers 3
 flattering 1
 festival
 fiercening
-featherway
+featherway 1
 finspot 2
 featest 2
 folksey
@@ -1333,7 +1333,7 @@ frock 1
 fidac 1
 flaggish 3
 foretoken 3
-fatigue
+fatigue 1
 fossicks
 fatiguesome 1
 fragmenting
@@ -1726,7 +1726,7 @@ fructed
 feoffors
 forfare 1
 foreshore 1
-floriferous 3
+floriferous 4
 freedman
 foveal 1
 feeded 1
@@ -2665,7 +2665,7 @@ flashy 2
 feckulence 1
 ferter 1
 felliducous
-fittyways 3
+fittyways 4
 flamb 2
 fertile 1
 farcers
@@ -9383,7 +9383,7 @@ flichter 1
 forbiddal 1
 fishless 1
 fetichistic 4
-felinities
+felinities 1
 frothy 1
 fleawood 1
 fortypenny 1
