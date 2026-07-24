@@ -29,7 +29,7 @@ freeman 3
 floodlet
 fourchee 1
 fieldmen 2
-fibrolitic 1
+fibrolitic 2
 feaked
 fibrocyst 1
 fabricates 1
@@ -1163,7 +1163,7 @@ foochowese 2
 fovea 1
 fascist
 forgo
-forficulidae
+forficulidae 1
 filatures 1
 friths 1
 figurae
@@ -2216,7 +2216,7 @@ fruiting
 fragrancy
 feminility 1
 feminin
-fondlesome 1
+fondlesome 2
 fluorinates 1
 fertilise 2
 foals 1
@@ -2372,7 +2372,7 @@ frolicky
 favoritism 1
 ferforth 3
 falconiformes 2
-frogling 2
+frogling 3
 feudist 2
 francic 2
 fluther 2
@@ -5975,7 +5975,7 @@ fets 1
 fanwright 2
 fudging
 firetrap 2
-fomites 1
+fomites 2
 freeloader
 ferguson
 favism 3
@@ -7276,7 +7276,7 @@ focalized
 frater 1
 footiest 3
 ferbam
-fenestrate 2
+fenestrate 3
 furazan 4
 freesheet
 figuring 2
@@ -8876,7 +8876,7 @@ frakfurt
 fleeringly
 fossillike 3
 foozles 1
-fossilogy 1
+fossilogy 2
 fload
 firmest
 fettstein 3
@@ -9642,7 +9642,7 @@ forehold
 flagellant 1
 fretting 2
 florilage
-fussing 1
+fussing 2
 fatalists
 faqir 2
 foreseeability 1
@@ -9932,7 +9932,7 @@ frickle 1
 ferrel 4
 frontager 1
 furilic 1
-frozenly 2
+frozenly 3
 flamingo
 fibropericarditis 2
 feverless 4
@@ -11373,7 +11373,7 @@ fizzes 2
 frousier 1
 fluencies
 fornicated 4
-fremescence
+fremescence 1
 frothless
 foreprovision 2
 footways 1
