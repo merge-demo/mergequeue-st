@@ -6677,7 +6677,7 @@ cursorial
 ceibo
 counterthrust
 ceil 2
-celestine
+celestine 1
 ceilers
 ceilidhe
 ceiling 1
@@ -7115,7 +7115,7 @@ centner 1
 carunculate
 centners 3
 centones 1
-centonism
+centonism 1
 capitals 1
 centonization
 centos 1
@@ -8325,7 +8325,7 @@ challises
 challot 1
 campagnols
 challote
-carotidean
+carotidean 1
 catalogers
 carburated
 caseate
@@ -11367,7 +11367,7 @@ chlorophyllide
 choliamb 1
 catastrophical 1
 commonish 1
-chlorophylligenous 1
+chlorophylligenous 2
 chlorophylligerous 1
 communional
 cunili
@@ -18551,7 +18551,7 @@ corselet 1
 comparition
 cankerflower 1
 cataphyllary
-contingents
+contingents 1
 considerateness
 clypeole
 coif 1
@@ -28329,7 +28329,7 @@ circuitor 1
 crave 1
 craved
 craven 1
-cudbears
+cudbears 1
 churchmen
 clans
 coheretic
