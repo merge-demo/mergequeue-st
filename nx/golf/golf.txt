@@ -3551,7 +3551,7 @@ gaelicize 2
 gallowsness 1
 galany 2
 gananciales 3
-gantries 3
+gantries 4
 glack 1
 glovers 1
 goetae 3
@@ -4477,7 +4477,7 @@ gills 3
 graminiform
 gerbille 2
 gigantomachia 2
-gawp 2
+gawp 3
 globoids 1
 gmelinite
 gingering 1
@@ -7826,7 +7826,7 @@ grandevous 3
 greeny 4
 grubworm 1
 gnaws
-gillstoup
+gillstoup 1
 gauchely 2
 gingerwork 2
 glycolipine 2
@@ -7945,7 +7945,7 @@ glucosemia
 gorst 3
 gunating
 gesith 1
-gaberloonie 1
+gaberloonie 2
 gliriform 3
 grandad 1
 gentilization 2
@@ -10301,7 +10301,7 @@ gnetaceae 2
 ghettoing
 guichet 2
 gnathions 1
-gimper 4
+gimper 5
 gametic
 gearshift
 girondin

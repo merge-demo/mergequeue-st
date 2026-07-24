@@ -75,7 +75,7 @@ darndests
 deerskin
 dacoiting 3
 delbert 1
-depressibility 1
+depressibility 2
 debilitating 1
 dactylion 1
 dobbin 1
@@ -3870,7 +3870,7 @@ dejects
 dehypnotizing 1
 drake 1
 dejeration 1
-dejeuner 1
+dejeuner 2
 dekadrachm 1
 dekagramme
 discommunity
@@ -6538,7 +6538,7 @@ descript 2
 descriptionist
 dogsled 2
 descriptionless
-dangleberry
+dangleberry 1
 distensile
 dysnomy 2
 designator
