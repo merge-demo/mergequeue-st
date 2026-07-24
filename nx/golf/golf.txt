@@ -1396,7 +1396,7 @@ grecize 1
 ganyie 1
 gallotannin 2
 gasified 1
-gausterer 1
+gausterer 2
 gcd 4
 gangplow
 galvanopsychic 1
@@ -3599,7 +3599,7 @@ ghettoizing
 glaver 3
 gulancha 1
 ghi
-gallegan 2
+gallegan 3
 gamomania 2
 gobline 2
 ghiblis 2
@@ -3640,7 +3640,7 @@ grapsus 1
 ghostfishes 1
 garrisonism 4
 gallinae
-gnathite
+gnathite 1
 goalmouth 2
 gherkins 1
 gyrencephalic 4
@@ -4706,7 +4706,7 @@ grouseless
 giveable 3
 gelidly 6
 gametophyll 2
-goosegirl
+goosegirl 1
 glene 1
 gnathites
 gaullist 1
@@ -6211,7 +6211,7 @@ gastrimargy 1
 guillotinade 3
 gloving
 gamopetalae
-gp 3
+gp 4
 galactophagist 4
 glucosamine 3
 goaty 2
@@ -6235,7 +6235,7 @@ genitures 2
 goave
 greats
 gormandizing 2
-gregorianizer 4
+gregorianizer 5
 gob 1
 greediness 3
 gadslid 3
@@ -9607,7 +9607,7 @@ gowns 3
 gr 1
 ghostwriting
 guzerat 2
-glaucophanization 1
+glaucophanization 2
 graplin
 gallize
 gidgea 2
