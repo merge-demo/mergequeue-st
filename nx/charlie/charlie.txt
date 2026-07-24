@@ -550,7 +550,7 @@ cadge
 cadi
 cyanhydric
 cadie
-counselors 1
+counselors 2
 christofer
 chlorobromide
 cadying
@@ -11253,7 +11253,7 @@ chloridic 1
 chloridized 1
 collochemistry 1
 chemotropism
-compaternity 1
+compaternity 2
 carlin
 chlorimeter
 chlorimetric
@@ -14104,7 +14104,7 @@ cleidoscapular
 chimonanthus
 circuiteer
 clyer
-continues
+continues 1
 cementless 1
 conjugated
 circuiting
@@ -14635,7 +14635,7 @@ calumet
 cystophore 1
 cistophorus
 coadjustment 1
-cystophotography
+cystophotography 1
 coxier 1
 captans
 checkmating
@@ -23732,9 +23732,9 @@ contraindicates
 contraindications
 cloudwards
 cologarithm
-contralateral
+contralateral 1
 cirsectomy 2
-crappers
+crappers 1
 conjunctural 1
 chessmen
 collatitious
@@ -24136,7 +24136,7 @@ chude 1
 computerizable 1
 candlelit
 cocowort
-conclavist 1
+conclavist 2
 coassignee
 chedites 1
 conformation
@@ -29797,7 +29797,7 @@ croons 1
 croose
 coinmaker
 cliftonia
-crop 1
+crop 2
 carniolan 2
 crophead
 cytomitome
