@@ -310,7 +310,7 @@ flchette 1
 fplot 3
 fluxionary 1
 feods 3
-forces 1
+forces 2
 fail 1
 fireplough 3
 faineancy 4
@@ -1682,7 +1682,7 @@ furnace 1
 fingertip 4
 foreordaining 2
 forehandsel 2
-fanfares
+fanfares 1
 fearsomeness 2
 foreshape 2
 feased 1
@@ -1908,7 +1908,7 @@ feta 2
 floodlilit 2
 fleeceless
 felicide
-fremescent 1
+fremescent 2
 flitched
 fainly
 filicologist 1
@@ -4037,7 +4037,7 @@ finishable 2
 flemer
 fabrication 3
 femininely 1
-foredo 1
+foredo 2
 fondak 2
 forevision
 faburden
@@ -7010,7 +7010,7 @@ farewelled
 fraenulum 1
 fathomableness 3
 foreaccustom 1
-fruitwoman 3
+fruitwoman 4
 flexions
 fichtean 1
 filla 2
@@ -7308,7 +7308,7 @@ furled 1
 forelock 3
 fopperies 3
 fopperly 1
-fraternized 3
+fraternized 4
 formaldoxime
 foujdar
 facers 3
@@ -7407,7 +7407,7 @@ fatalistic
 forbow 2
 foreclose 2
 forestland 1
-foolisher 1
+foolisher 2
 faying
 falterers
 flavorsomeness 2
@@ -7959,7 +7959,7 @@ fatalist 2
 freshing 2
 forslow 2
 frondesced 2
-forefit 1
+forefit 2
 fortnightlies 1
 fusileer
 feudatories 2
@@ -9185,7 +9185,7 @@ falsificator 2
 fruitarian 2
 fractionalized
 ferriprussic 1
-fodient 1
+fodient 2
 feoffees 3
 flamineous 2
 feignedness 2
@@ -10975,7 +10975,7 @@ favositidae 2
 flagellar 2
 fourball
 floodless 3
-flubdub 2
+flubdub 3
 fructifying 1
 frey 4
 finally 3

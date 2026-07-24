@@ -7720,7 +7720,7 @@ certainness
 cormorant 2
 cetin
 certainty 2
-certhia
+certhia 1
 caryatidic 1
 cfi
 certifiability 1
@@ -9797,7 +9797,7 @@ chemehuevi
 chemiatric 2
 chemical 1
 chapeless
-chalybean
+chalybean 1
 corrugates 1
 cowardliness
 conveniency
@@ -12831,7 +12831,7 @@ crumpy 2
 center
 cuartino
 comburimetry
-chunkiness
+chunkiness 1
 chunks
 chunner
 chuntered 2
@@ -21336,7 +21336,7 @@ cowboys 1
 conchostraca
 corotated 2
 computed 1
-conchs 1
+conchs 2
 conchubar 1
 coplots
 conchuela
@@ -27363,7 +27363,7 @@ cherokees
 courlan
 charging
 couronne
-coleseed
+coleseed 1
 crustaceal 1
 course
 codirectorship
