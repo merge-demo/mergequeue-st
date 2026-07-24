@@ -1928,7 +1928,7 @@ blastoff 2
 bushcraft
 bandmaster 2
 brainsickly 1
-bando
+bando 1
 besieger 1
 bodiced
 bareheaded
@@ -1939,7 +1939,7 @@ bandogs 1
 bediademed 2
 barken 2
 bandoleer
-burlesquely
+burlesquely 1
 backhoes 2
 biometrical
 blossom 1
@@ -4847,7 +4847,7 @@ billback 2
 buttercups 2
 bath 2
 boilerless 1
-brainstorm
+brainstorm 1
 bedumbs 1
 baldacchini 1
 bonders 1
@@ -5810,7 +5810,7 @@ belli 1
 buckstone 1
 bellyache 2
 biremes 2
-butlerism
+butlerism 1
 bandstop
 bellyached
 bismethyl 1
@@ -6754,7 +6754,7 @@ bufonid 2
 bergamot
 bushiest
 berry 1
-buchnerite
+buchnerite 1
 binturong 1
 brotherlike 2
 banshee 1
@@ -13122,7 +13122,7 @@ bregmatic 1
 boringness
 bilging 1
 brewings 1
-bubblies 1
+bubblies 2
 befluster 4
 beaned 2
 brachycephalous 1
