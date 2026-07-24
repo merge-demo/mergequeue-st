@@ -99,7 +99,7 @@ enumerate
 earpick
 elastician
 extrudable 2
-earpiece
+earpiece 1
 exegesis
 equiperiodic 1
 enmarble 1
@@ -7642,7 +7642,7 @@ expoundable 1
 epideistic 5
 enthymematical 1
 enfeebler 1
-eriocaulaceous 1
+eriocaulaceous 2
 effluxion 2
 estrus 3
 esprise
@@ -7848,7 +7848,7 @@ emancipist 1
 epispinal 1
 enchantresses
 elephancy 1
-extortionateness 1
+extortionateness 2
 ecotones 1
 earthenhearted 1
 ejectum 1
@@ -8323,7 +8323,7 @@ erythrosinophile 2
 evolutional 1
 expeding
 epicontinental 1
-erosive 1
+erosive 2
 endogenetic
 electrobiology 5
 enjambement 2
@@ -9798,7 +9798,7 @@ ethnographist 3
 extincteur 1
 econometrician 3
 eatables
-entrance 3
+entrance 4
 enanthema
 eternise 1
 exorcisory
@@ -11377,7 +11377,7 @@ ethnohistory 1
 exotropic 3
 electrodesiccation
 evenforth 3
-ebriate
+ebriate 1
 eryopid 1
 enchains
 embarrel
@@ -12470,7 +12470,7 @@ exhorts 1
 exaltations 3
 exhumate 1
 egoisms 1
-esquire
+esquire 1
 evacuative 1
 eighteen
 endosymbiosis 2
