@@ -1928,7 +1928,7 @@ blastoff 2
 bushcraft
 bandmaster 2
 brainsickly 1
-bando
+bando 1
 besieger 1
 bodiced
 bareheaded
@@ -1939,7 +1939,7 @@ bandogs 1
 bediademed 2
 barken 2
 bandoleer
-burlesquely
+burlesquely 1
 backhoes 2
 biometrical
 blossom 1
@@ -4847,7 +4847,7 @@ billback 2
 buttercups 2
 bath 2
 boilerless 1
-brainstorm
+brainstorm 1
 bedumbs 1
 baldacchini 1
 bonders 1
@@ -5153,7 +5153,7 @@ budworm 1
 before
 biotic
 boomorah 1
-blende 2
+blende 3
 broadside
 beggarer 1
 buccinatory 1
@@ -5810,7 +5810,7 @@ belli 1
 buckstone 1
 bellyache 2
 biremes 2
-butlerism
+butlerism 1
 bandstop
 bellyached
 bismethyl 1
@@ -5912,7 +5912,7 @@ beprose 5
 blisses
 backslap 2
 belostomatidae 1
-besleeve 1
+besleeve 2
 bisnagas 1
 bouillabaisse
 belotte
@@ -6754,7 +6754,7 @@ bufonid 2
 bergamot
 bushiest
 berry 1
-buchnerite
+buchnerite 1
 binturong 1
 brotherlike 2
 banshee 1
@@ -7186,7 +7186,7 @@ bestialised 2
 betas 2
 be
 brannigan
-bellbirds 1
+bellbirds 2
 baseliner 1
 bestiality 3
 bestialized 1
@@ -7517,7 +7517,7 @@ beverse 1
 barbets 2
 bluebirds 1
 blastocolla
-barrelmaking 1
+barrelmaking 2
 boneache 1
 bourbonism
 bibbing
@@ -8024,12 +8024,12 @@ bitemporal
 byname 4
 bobsleigh 1
 bick
-bicycler 1
+bicycler 2
 bluebooks 2
 bisiliac 1
 bickerer
 bailsman 2
-bakehouses 2
+bakehouses 3
 breathalyse 1
 blastomere 1
 breathiest 1
@@ -10133,7 +10133,7 @@ bellied 1
 berbers 1
 bootleggers
 bepicture 1
-buphthalmia 1
+buphthalmia 2
 bedells 1
 bloodguilty 1
 blackbird 2
@@ -10335,7 +10335,7 @@ blagueur
 blains 1
 bestialize 2
 boiler
-bestialities 1
+bestialities 2
 bednights
 blakeberyed
 bloodalp 5
@@ -11580,7 +11580,7 @@ byronism 1
 bromidic
 brogger 2
 blush
-blushed 2
+blushed 3
 banga
 bandannas 2
 blushfully 1
@@ -13122,7 +13122,7 @@ bregmatic 1
 boringness
 bilging 1
 brewings 1
-bubblies 1
+bubblies 2
 befluster 4
 beaned 2
 brachycephalous 1
@@ -14383,7 +14383,7 @@ braids 2
 bellyer
 bifidly
 brayera
-brayerin 1
+brayerin 2
 brionies 1
 brutedom
 burry 1
@@ -15186,7 +15186,7 @@ bristlier
 brusk 1
 beback
 browse 1
-bryaceae
+bryaceae 1
 backwardation
 bipartisan 2
 blitheful
@@ -16110,7 +16110,7 @@ belittler
 brood 1
 bedsock 1
 bialis
-basiated
+basiated 1
 broodiest 1
 broodily 2
 broodling
