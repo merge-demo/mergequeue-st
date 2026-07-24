@@ -448,7 +448,7 @@ expediteness
 extrudes 2
 ecclesia 1
 earlier
-enumerable
+enumerable 1
 ecclesiarchy 1
 ensnarls 1
 ecclesiast
@@ -1411,7 +1411,7 @@ endoral 1
 epithalamia 2
 etherified 2
 essenced
-ebrious 2
+ebrious 3
 enormousness 1
 entodermal 2
 epipodialia 1
@@ -2193,7 +2193,7 @@ esophagoplication
 eldermen 1
 entailing 1
 expeditionist 1
-enumerating 4
+enumerating 5
 endognathion 3
 eldersisterly 1
 epiglottiditis 2
