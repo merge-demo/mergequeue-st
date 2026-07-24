@@ -1607,7 +1607,7 @@ belat 2
 ballised 2
 biradial 1
 binate 3
-ballista
+ballista 1
 basketlike 2
 beatinest
 balboa 1
@@ -2129,7 +2129,7 @@ beseem
 buddhistic 2
 besteer
 bladeless 1
-boguing 1
+boguing 2
 bulker
 billbeetle
 botoyan 1
@@ -2941,7 +2941,7 @@ broad
 barrelled 1
 billfish 1
 barrelmaker 1
-belemnoidea
+belemnoidea 1
 blissfully
 bamboozlement
 boules
@@ -4552,7 +4552,7 @@ bienness
 biradiated 2
 bathroot 1
 bater
-bool 1
+bool 2
 bedabble
 beagles
 barricadoed 1
@@ -4932,7 +4932,7 @@ beefeaters 1
 baclin 1
 barkentines
 bepride 2
-burhinidae 1
+burhinidae 2
 bract 1
 bilobular
 blackwash
@@ -5470,7 +5470,7 @@ barrier 2
 babiche
 behooves
 behooving
-bacterioprotein 1
+bacterioprotein 2
 brine
 backiebird
 beatless
@@ -6990,7 +6990,7 @@ besmooths 2
 betrust
 bleeders 1
 basilian 1
-besmouch 1
+besmouch 2
 bloodying 2
 bacteritic
 besmudge 1
@@ -9316,7 +9316,7 @@ bobsled
 bulletwood
 bewet
 blendure 1
-bipupillate 1
+bipupillate 2
 bleaunt 1
 bagattini 1
 berede 2
@@ -11195,7 +11195,7 @@ bloodsuck 1
 bloomingly 2
 boleti 1
 biometer 2
-biforin 1
+biforin 2
 bellyfuls 1
 bloomless
 baptisia
@@ -11448,7 +11448,7 @@ bedrail 1
 brattices 2
 brininess
 baselessly 1
-butyraldehyde 4
+butyraldehyde 5
 beclowns 1
 boatheader
 bairnliest 2
@@ -11784,7 +11784,7 @@ benevolentness 1
 biopyribole 2
 besmoothed
 burmannia 1
-barnful
+barnful 1
 blitzed 3
 becloaking
 br
@@ -12396,7 +12396,7 @@ bombus 4
 bombardelle 2
 bon
 backrope
-barenesses 2
+barenesses 3
 bonacis 1
 bootblack
 bonagh 2
@@ -12589,7 +12589,7 @@ bonnet
 brachelytra 1
 bonnethead 1
 bedway 3
-bagie
+bagie 1
 bonnetiere 3
 bonnibel
 blurts 1
@@ -12858,7 +12858,7 @@ branchiopulmonata
 boomtown
 biestings
 boardbill 2
-boppers 1
+boppers 2
 beefcake 2
 boomtowns 1
 barracuda
@@ -13110,7 +13110,7 @@ batteling 1
 backfurrow 4
 buggering
 bodyguard 1
-borid
+borid 1
 bacterioscopist
 bromisation
 bastinaded
@@ -14874,7 +14874,7 @@ bristler 1
 bluetops 2
 buttress
 bronchopulmonary 3
-besliming 1
+besliming 2
 bedewer 1
 bestializes
 bonetta
@@ -16489,7 +16489,7 @@ bulk
 bricker 1
 bishoplet
 borasque 1
-bimillennium
+bimillennium 1
 bozal
 biomaterial
 breathableness 2
@@ -17175,7 +17175,7 @@ bookish 1
 bullition
 bar
 boggin 3
-bulletproof
+bulletproof 1
 bowyer
 beewinged 1
 bullnoses 2
@@ -17530,7 +17530,7 @@ botryoidally 1
 bee 1
 bobadilish 1
 bundlet 1
-braggat 1
+braggat 2
 burdensome
 beslushed
 birettas
@@ -18331,7 +18331,7 @@ boobery
 beths
 brahmans 2
 brightens
-breva 1
+breva 2
 brewst 1
 broths 1
 botherheaded 1
