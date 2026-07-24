@@ -1400,7 +1400,7 @@ accension
 annulately
 agapanthus 1
 accept
-anomural
+anomural 1
 approximating 1
 acceptability
 antistimulant 2
@@ -2129,7 +2129,7 @@ acheulean 1
 accustoms 1
 acumens 1
 achy 3
-absconds
+absconds 1
 airtime 1
 anthologion 2
 aphagia
@@ -2618,7 +2618,7 @@ antagonisms 1
 accoutering
 allylene 2
 adapting
-alumins
+alumins 1
 autogeneal
 aljamiah 2
 ancestrial
@@ -14867,7 +14867,7 @@ aswough
 anatinae 1
 antineutron
 achordate 2
-antichthon
+antichthon 1
 abkhas
 antichthones 1
 acuan 2
