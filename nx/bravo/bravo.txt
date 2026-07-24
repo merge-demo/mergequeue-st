@@ -1850,7 +1850,7 @@ bananivorous
 banatite 1
 becharm
 blackjacking
-billycans
+billycans 1
 bioelectrical 2
 bancha 1
 bivial 2
@@ -3524,7 +3524,7 @@ bravissimo 1
 bogging 1
 bois
 bitterhearted 1
-bateau 1
+bateau 2
 bateleur
 brickel 1
 barbered
@@ -14335,7 +14335,7 @@ bluet 1
 bessi 1
 bannister 1
 bourignonism
-bianchite 1
+bianchite 2
 bragly 2
 broachers 1
 bye 2
@@ -17616,7 +17616,7 @@ bradykinetic
 bulldozes
 backster 2
 bibliophiles
-belduque
+belduque 1
 barricadoing
 bobcoat
 burglarproofs
