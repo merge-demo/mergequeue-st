@@ -181,7 +181,7 @@ abbacies
 alteration 1
 antistrumatic
 abbacomes
-acolapissa
+acolapissa 1
 anakes
 abbasi 1
 abbasside
@@ -1207,7 +1207,7 @@ anemophily
 acanonical
 acanthaceous 1
 aeacus
-applauses
+applauses 1
 adjustor
 acanthia 1
 apocryphally 1
@@ -1783,7 +1783,7 @@ accusers 1
 achatour 1
 agings 1
 accusing 1
-asbestic
+asbestic 1
 assoria 1
 accusor 1
 annerre
@@ -2014,7 +2014,7 @@ apogamy
 actiniarian
 acetla
 acetoacetate
-alkyls
+alkyls 1
 alphabetiform 1
 absolutism
 amphidisk 1
@@ -2943,7 +2943,7 @@ aureocasidium
 availableness
 acropore
 antialbumose
-augustest 2
+augustest 3
 areographically 1
 acrosomes 2
 autolimnetic 2
@@ -3302,7 +3302,7 @@ acupuncturing 1
 antivenomous 1
 acupuncturist 3
 acus 1
-atrabile
+atrabile 1
 anisotropism
 atresy 2
 acetanion 1
@@ -4301,7 +4301,7 @@ aesculapius
 anomaloflorous
 assubjugate 1
 annoyful
-akhlame
+akhlame 1
 alumen
 abime
 abaka
@@ -5117,7 +5117,7 @@ alloys
 agrostographical
 aerotropism
 allantois 1
-aeruginous
+aeruginous 1
 aerugo
 aes
 autosepticemia
@@ -5176,9 +5176,9 @@ audition
 aethionema
 arsenides 1
 aetiologies
-axones 2
+axones 3
 administerial 3
-arrivisme
+arrivisme 1
 antihierarchal
 airbag
 antisemite 2
@@ -6093,7 +6093,7 @@ aquilege 1
 addisonian
 akrabattine 2
 agyrophobia 1
-appealability 1
+appealability 2
 amaist
 afounde
 agism
@@ -7381,7 +7381,7 @@ anglesite
 affrontive
 albedo 1
 antidisestablishmentarian
-alum
+alum 1
 albee
 amphiboline 1
 alberene 1
@@ -7918,7 +7918,7 @@ abby
 astatizing
 applicators
 amnion 1
-aoudads 1
+aoudads 2
 alehouse
 averrable
 arterionecrosis 2
@@ -8171,7 +8171,7 @@ anight
 algorab 1
 amenage
 antioptimism
-amaterialistic
+amaterialistic 1
 autobasidium
 alcapton 1
 algiomuscular
@@ -8624,7 +8624,7 @@ alineation 1
 alkoxid
 atmophile
 allegata 1
-antisepsin
+antisepsin 1
 allegations
 allegers 1
 anthophyllite 3
@@ -8666,7 +8666,7 @@ autistic
 anotropia 2
 annihilable
 anastomosis
-autotheater
+autotheater 1
 ahs
 angioparalytic
 annunciatory 1
@@ -8817,7 +8817,7 @@ announceable
 acescence
 atwind
 alcidae
-alliterates 1
+alliterates 2
 apodixis
 alliterationist 1
 actinautography
@@ -9447,7 +9447,7 @@ avoir 1
 alsmekill 1
 antidancing 1
 alsophila 1
-allusory
+allusory 1
 adamitic
 alstonia
 alstonite
@@ -9558,7 +9558,7 @@ alonzo
 althorn
 alticamelus
 apagoge
-altify
+altify 1
 aprosopous
 antiparasitical
 altiloquence 2
@@ -9995,7 +9995,7 @@ argentous
 autopilots 2
 ambe
 answerlessly 2
-ambeers 1
+ambeers 2
 anay
 angioneurotic 1
 amphicarpous
@@ -10118,7 +10118,7 @@ anythings 1
 ambo 1
 acanthin
 architective 1
-ablatives
+ablatives 1
 antiphrasis
 anisette 1
 autolaryngoscope
@@ -10769,7 +10769,7 @@ averting 1
 archivists 1
 arthropomatous
 auxotox 1
-adsorptively
+adsorptively 1
 absinth
 alumetize
 anabolitic 1
@@ -12523,7 +12523,7 @@ anechoic
 amazed
 adar
 anelasticity 1
-augurship 1
+augurship 2
 antirationalism 1
 amidofluoride 2
 appui 2
@@ -13021,7 +13021,7 @@ appearance
 adulterator
 astrer 1
 aquilinity
-assimilable 1
+assimilable 2
 athelings
 alkalisable 1
 angareeb
@@ -13578,7 +13578,7 @@ annotators 1
 arrendator
 assonant
 anacardiaceae
-atwain 1
+atwain 2
 allo 1
 announce 1
 artist 1
@@ -14751,7 +14751,7 @@ antilemic 2
 antibiotically
 anthrohopobiological
 appointee 2
-antidiffuser 1
+antidiffuser 2
 acushla 1
 actorish
 attractableness 1
@@ -17748,7 +17748,7 @@ aversation 1
 ameiurus 1
 adumbration
 antispasis 1
-amentia
+amentia 1
 applique
 appliques
 antinarcotics
@@ -20257,7 +20257,7 @@ alaloi 2
 astonied
 acanthodii
 adorns 1
-ashanti 1
+ashanti 2
 amateurish
 anthropomorphization
 alkalify 1
@@ -21394,7 +21394,7 @@ anemochorous
 amitroles
 askip 1
 actiniohematin 2
-askos
+askos 1
 aslant 1
 aglethead
 aevum
@@ -21811,7 +21811,7 @@ androgyny
 alcoholised 1
 assessment
 advowry 1
-aphacial
+aphacial 1
 assessors
 anthophile
 apotheose 1
@@ -22047,7 +22047,7 @@ atacameno
 astare 1
 anaplerosis
 acetbromamide 3
-ammonitoid
+ammonitoid 1
 apprentices
 auteurism 1
 automanipulation 2
@@ -22093,7 +22093,7 @@ aplasia
 atmiatrics
 achromatophilic
 abaculus
-antimonarchicalness
+antimonarchicalness 1
 alloclasite
 apoplexies 1
 adduce
@@ -23101,7 +23101,7 @@ attalea 1
 aquafer 1
 algicidal 1
 attargul
-antisplenetic 2
+antisplenetic 3
 armigers
 alluviation
 antephialtic 1
