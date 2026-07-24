@@ -3095,7 +3095,7 @@ extemporize
 elliptograph 1
 elliptoid 1
 encrease 2
-extraparietal 1
+extraparietal 2
 elm 1
 excursiveness 1
 educing 1
@@ -3573,7 +3573,7 @@ embossed
 embossing 3
 emulsifications 1
 embossman
-esophagoplegia 1
+esophagoplegia 2
 enchantery
 emanent 1
 edifier
@@ -6701,7 +6701,7 @@ enveloping 1
 esterifies
 euhemerise 1
 echidnae 2
-eyelids 1
+eyelids 2
 erythraemia 1
 enthronizing 4
 emerit 7
@@ -13265,7 +13265,7 @@ exertive
 ety
 endemical
 ethize 1
-explement
+explement 1
 envine 1
 edacity 1
 endocranium
