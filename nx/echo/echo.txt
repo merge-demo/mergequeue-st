@@ -2183,7 +2183,7 @@ epanthous 1
 elderman 1
 ensorcels 2
 eggwhisk
-electrics
+electrics 1
 electrographic
 exedrae 3
 esthesia 1
@@ -2228,7 +2228,7 @@ extramoral 1
 elevatory 1
 eidola 1
 exocolitis 1
-effluve
+effluve 1
 excrescential 1
 evolution 6
 endoplasma 1
@@ -2353,7 +2353,7 @@ egba 1
 episteme 1
 electrocolloidal 2
 eurobin
-edulcoration
+edulcoration 1
 exhaustable
 empoisonment 3
 engorged 3
@@ -5201,7 +5201,7 @@ extrascriptural 1
 escartelly 2
 euphuizing 1
 esphresis
-expenseless 1
+expenseless 2
 eyebridled
 endopods
 epistolarily 1
@@ -6636,7 +6636,7 @@ electromotiv 2
 enchelycephali 1
 elaterin 1
 enterosepsis
-exauctorate 2
+exauctorate 3
 enterotome 2
 encharged 1
 enright 2
@@ -9260,7 +9260,7 @@ electrotellurograph
 externalist 1
 exogamous
 expositional 1
-ebricty 1
+ebricty 2
 entertains 1
 euchologia 1
 enervous 1
@@ -11762,7 +11762,7 @@ explanations
 envision
 eveque 1
 episcopise
-ensurer 1
+ensurer 2
 easier 3
 entoptoscopy 1
 edgerman
@@ -12306,7 +12306,7 @@ exemplificator
 egypt 1
 exemplified 1
 ergasia
-ellagitannin
+ellagitannin 1
 epibolic 1
 exsequatur
 euploidy
