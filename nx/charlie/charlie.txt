@@ -7331,7 +7331,7 @@ cephalochordal
 cephalochordata 1
 cephaloclast
 cephalocone 1
-cephalodia
+cephalodia 1
 cephalodymus 1
 cephalodiscid 2
 cephalodiscida 1
@@ -29905,7 +29905,7 @@ crossfertilizable
 censusing
 crossfired
 craniodidymus 1
-crossfish
+crossfish 1
 crossflow 1
 crossfoot 2
 cumhal 1
@@ -30697,7 +30697,7 @@ chordates
 comparability
 cudgeled
 cudgeler 1
-calymene
+calymene 1
 cudgelers
 counterwind 1
 complexometric
