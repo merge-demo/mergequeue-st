@@ -2941,7 +2941,7 @@ broad
 barrelled 1
 billfish 1
 barrelmaker 1
-belemnoidea
+belemnoidea 1
 blissfully
 bamboozlement
 boules
@@ -4423,7 +4423,7 @@ brandering
 budapest 2
 barrators
 bitstone 1
-bkcy 1
+bkcy 2
 blubberer 2
 batis
 befleas
@@ -4552,7 +4552,7 @@ bienness
 biradiated 2
 bathroot 1
 bater
-bool 1
+bool 2
 bedabble
 beagles
 barricadoed 1
@@ -6990,7 +6990,7 @@ besmooths 2
 betrust
 bleeders 1
 basilian 1
-besmouch 1
+besmouch 2
 bloodying 2
 bacteritic
 besmudge 1
@@ -9316,7 +9316,7 @@ bobsled
 bulletwood
 bewet
 blendure 1
-bipupillate 1
+bipupillate 2
 bleaunt 1
 bagattini 1
 berede 2
@@ -11456,7 +11456,7 @@ bluepoint 1
 belzebub 1
 blueprint
 bivariant 1
-blancmange 1
+blancmange 2
 brawner 2
 blazingly 3
 bluesy 1
@@ -12589,7 +12589,7 @@ bonnet
 brachelytra 1
 bonnethead 1
 bedway 3
-bagie
+bagie 1
 bonnetiere 3
 bonnibel
 blurts 1
@@ -12999,7 +12999,7 @@ browntop 2
 booziness
 bookstore
 blockheadishness
-bopeep
+bopeep 1
 boxen 4
 braciola
 bopped
