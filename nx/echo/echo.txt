@@ -2183,7 +2183,7 @@ epanthous 1
 elderman 1
 ensorcels 2
 eggwhisk
-electrics
+electrics 1
 electrographic
 exedrae 3
 esthesia 1
@@ -11762,7 +11762,7 @@ explanations
 envision
 eveque 1
 episcopise
-ensurer 1
+ensurer 2
 easier 3
 entoptoscopy 1
 edgerman
@@ -12306,7 +12306,7 @@ exemplificator
 egypt 1
 exemplified 1
 ergasia
-ellagitannin
+ellagitannin 1
 epibolic 1
 exsequatur
 euploidy
