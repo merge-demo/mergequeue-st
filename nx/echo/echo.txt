@@ -4725,7 +4725,7 @@ epiopticon 3
 excusatory 1
 endocarpic 1
 encode
-exitance 1
+exitance 2
 encoding
 effectivity 1
 embrocate 1
@@ -5483,7 +5483,7 @@ exorcising
 experimenting 1
 experimenter 2
 evertors 1
-eurindic 2
+eurindic 3
 extraocular
 exoterics 3
 espiritual
@@ -7998,7 +7998,7 @@ epiphytology
 entertaining 1
 embezzlements
 enteroscope 1
-expansiveness
+expansiveness 1
 estats
 expiator 1
 ethane 1
@@ -9238,7 +9238,7 @@ electra
 exonerative 3
 exarch
 errants
-espinette 3
+espinette 4
 elayl 1
 erratas
 erratic 1
