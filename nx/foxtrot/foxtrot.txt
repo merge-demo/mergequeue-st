@@ -310,7 +310,7 @@ flchette 1
 fplot 3
 fluxionary 1
 feods 3
-forces 1
+forces 2
 fail 1
 fireplough 3
 faineancy 4
@@ -1226,7 +1226,7 @@ favella 3
 forevouch 2
 footwall 2
 fatuate 2
-fearful 1
+fearful 2
 flatten 2
 filmdom
 frostier 3
@@ -8361,7 +8361,7 @@ familyish 3
 forhow 2
 ficoidaceae 1
 facelift 1
-funniest 1
+funniest 2
 favuses 2
 foryield 2
 familiary
@@ -8451,7 +8451,7 @@ fm 1
 filcher 1
 fullom 2
 futhark 1
-form
+form 1
 fluoroscopes 1
 fullerboard 2
 folksy 3
