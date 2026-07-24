@@ -1658,7 +1658,7 @@ ballots
 ballottement 2
 bailiffship 2
 baronage 1
-byelorussians
+byelorussians 1
 ballottines
 bathwort
 ballpark
@@ -3133,7 +3133,7 @@ bustards 2
 boswellize
 basella
 basellaceae
-bespattering
+bespattering 1
 brothels
 breakouts 1
 beallach 1
@@ -6574,7 +6574,7 @@ berchemia
 berdache 1
 battuta 2
 bumblebomb
-brazenly
+brazenly 1
 berdash 2
 booming 1
 birotation 1
@@ -10538,7 +10538,7 @@ bradyuria
 bashlik 1
 blastoporal 1
 blastosphere 1
-balanus
+balanus 1
 bromal
 buttonhold
 belligerent 1
@@ -15588,7 +15588,7 @@ brique
 bucconasal 1
 bilbos 2
 bination 1
-barometer 1
+barometer 2
 beavers
 brewsterite 3
 barbacan 1
@@ -16019,7 +16019,7 @@ boatwoman 1
 bonchief 4
 broncholemmitis 2
 bassist
-burntweed 1
+burntweed 2
 bambuseae 1
 baillone 1
 bronchophony 1
