@@ -2921,7 +2921,7 @@ footmark
 frizzen 3
 ferox
 factoring
-flagonless
+flagonless 1
 flyboy 2
 fingian 1
 farinha
@@ -3579,7 +3579,7 @@ flymen 4
 freedstool 1
 fingerlike
 forgetable 1
-fractabling
+fractabling 1
 foreskirt 2
 florigraphy 1
 forspoken 4
@@ -4121,7 +4121,7 @@ flywheel 1
 fersmite 2
 fratriage 2
 fipples
-floscule 2
+floscule 3
 firca 3
 foisted 1
 forefeeling 1

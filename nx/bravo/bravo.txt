@@ -2941,7 +2941,7 @@ broad
 barrelled 1
 billfish 1
 barrelmaker 1
-belemnoidea
+belemnoidea 1
 blissfully
 bamboozlement
 boules
@@ -6990,7 +6990,7 @@ besmooths 2
 betrust
 bleeders 1
 basilian 1
-besmouch 1
+besmouch 2
 bloodying 2
 bacteritic
 besmudge 1
@@ -12589,7 +12589,7 @@ bonnet
 brachelytra 1
 bonnethead 1
 bedway 3
-bagie
+bagie 1
 bonnetiere 3
 bonnibel
 blurts 1
