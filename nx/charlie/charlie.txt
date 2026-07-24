@@ -1051,7 +1051,7 @@ calcaneum 1
 calcannea
 calcannei 1
 chloroplastid
-channellers
+channellers 1
 calcareous 1
 chironomidae
 calcareousness
@@ -2813,7 +2813,7 @@ calycozoon
 clownish
 cannonier
 cannonries 2
-cyrtandraceae 1
+cyrtandraceae 2
 corruptibility
 cannons
 coulure
@@ -5486,7 +5486,7 @@ casuarina
 cantraips
 casuarius
 chamaecyparis
-crunode
+crunode 1
 cellulocutaneous
 casuistess
 cormorants 1
@@ -6519,7 +6519,7 @@ craftsmen
 ceraunogram
 cronkness 1
 conrectorship 1
-catharticalness 1
+catharticalness 2
 caviller 1
 chemins
 cavillous 3
@@ -6553,7 +6553,7 @@ cylindrosporium 3
 cardmaker
 commissionated
 caws
-cholecystorrhaphy 1
+cholecystorrhaphy 2
 clannish 1
 commissaries
 caxon 1
@@ -7088,7 +7088,7 @@ cannikin
 copt
 confluences 1
 centigrams 1
-centile
+centile 1
 cendre 1
 catamited
 centiliter
@@ -7734,7 +7734,7 @@ chincherinchees
 certifications
 chronotropism
 certificative 2
-certificatory 2
+certificatory 3
 certifier
 certifiers
 chronique 2
@@ -8655,7 +8655,7 @@ carman 2
 commonest 1
 cheiloplasties 1
 chantry 1
-chanukah
+chanukah 1
 chaology 1
 chaori
 campholide
@@ -11505,7 +11505,7 @@ counterflux
 colonizations
 corelysis 2
 choirmasters
-cornaceous 1
+cornaceous 2
 charthouse
 classmen
 calumnies 1
@@ -12125,7 +12125,7 @@ ctenostome
 circler 1
 chowries
 chroatol 1
-chows
+chows 1
 causer
 crambo 1
 chancellorate
@@ -12540,7 +12540,7 @@ chromoptometrical 1
 coadjacency 2
 chromoscopy 1
 capacitances 1
-coobah 1
+coobah 2
 chromosomally
 celoscope
 cornercap
@@ -13513,7 +13513,7 @@ calpack
 colure 2
 cylindrocylindric
 choleric
-curiatii 2
+curiatii 3
 counterfeiter
 coughroot 1
 craniad 1
@@ -14373,7 +14373,7 @@ cocontractor
 caviler
 circumvallate
 cliquishly
-circumvallating
+circumvallating 1
 corkwoods 1
 crepitant 1
 circumvallation 1
@@ -14923,7 +14923,7 @@ conky 1
 claudius
 curvaceous 1
 chilacavote 1
-cytotaxonomically 1
+cytotaxonomically 2
 circumcrescent
 covillea
 clavation 1
@@ -14991,7 +14991,7 @@ civet
 coadjutrice
 carcasing 2
 curiomaniac 2
-converses 1
+converses 2
 citropten 1
 cydippian 2
 colchian
@@ -15597,7 +15597,7 @@ coxcombries
 countering 2
 clatterer
 crucifier
-clattery 2
+clattery 3
 captainly 1
 clattering 1
 chicaner
@@ -15983,7 +15983,7 @@ cryptomonadales 1
 cerecloths
 clerkliness
 chlorocarbon
-clerkship
+clerkship 1
 clerkships
 ceticide
 comrado
@@ -16462,7 +16462,7 @@ cingulum
 clockwise
 clockworked 1
 clavigerous
-carthamin
+carthamin 1
 corbeled
 chaldron 1
 cloddier
@@ -17294,7 +17294,7 @@ clankingly
 cotylar 1
 chlamydomonadidae 1
 canonically
-cymogenes 1
+cymogenes 2
 coaptation
 cylindricalness
 coapted
@@ -17939,7 +17939,7 @@ cystonephrosis
 coelection
 coelector
 corsesque
-cloacean
+cloacean 1
 cephalomyitis
 copulable
 chololith 2
@@ -18580,7 +18580,7 @@ coequalize
 callitrichidae
 coigue 1
 coction 1
-cyrtidae 1
+cyrtidae 2
 coyish
 coleseeds
 chrometophobia 1
@@ -19067,7 +19067,7 @@ coatings 1
 colliculus
 cometographer
 collidin
-cetacea 1
+cetacea 2
 cepous
 collier
 circuli
@@ -19113,7 +19113,7 @@ collins
 collinses
 curlew
 circumterraneous 1
-cristate
+cristate 1
 collinsite
 collinsonia
 colliquable 1
@@ -19390,7 +19390,7 @@ colorature
 colorblind 1
 cavallas
 cartomancies 1
-colorcasting
+colorcasting 1
 calvus
 colorcasts 1
 colorectitis
@@ -19519,7 +19519,7 @@ colpoptosis
 colporrhagia 1
 colporrhaphy
 colportage
-colporter 1
+colporter 2
 colporteurs
 colposcopy
 crocodiles
@@ -20973,7 +20973,7 @@ cryptophyte 1
 crowflower
 clistothecia 2
 cumbrian
-comminister 1
+comminister 2
 chessel 1
 citral
 cuticle 1
@@ -20984,7 +20984,7 @@ compromisers
 compromising 1
 compromisingly 1
 colonoscopy 1
-compromission 1
+compromission 2
 codiaceae 1
 compromit
 coronae
@@ -21142,7 +21142,7 @@ concause
 concavity
 corrupter
 cereuses 2
-conceal 1
+conceal 2
 concealable 1
 cowy
 concealedly 1
@@ -21164,7 +21164,7 @@ conceiting 1
 cressier
 couches
 czardom
-conceivableness
+conceivableness 1
 carnify 1
 chital
 chafflike 1
@@ -22931,14 +22931,14 @@ considerate
 codiaeum 1
 cephalometer
 considerator
-coquetoon
+coquetoon 1
 copatain
 chromatone
 chandi
 chordata
 cardamums 2
 consideringly
-cotterway
+cotterway 1
 considers
 chequeen
 calyptra 1
@@ -23135,7 +23135,7 @@ catechumenate
 canvassed
 constantly
 constantness
-constitutionalization 1
+constitutionalization 2
 camorrista
 constat
 caretaken 1
@@ -23244,7 +23244,7 @@ constructionist 1
 christened
 curmudgeonery
 constructive
-constructively
+constructively 1
 constructivist
 circumstantiable
 constructor
@@ -24464,7 +24464,7 @@ caroli 1
 core
 coopers
 catnapers 1
-coops
+coops 1
 caragana
 coparty
 catchpole 2
@@ -24899,7 +24899,7 @@ coffeecakes
 coalified
 coraggio 1
 correct
-coraise
+coraise 1
 cashless 1
 contourne 1
 coralberries 1
@@ -25576,7 +25576,7 @@ coronis 2
 chese 1
 chamite
 coronium 2
-cremocarp
+cremocarp 1
 coronofrontal
 catenates 1
 crenelation
@@ -25602,7 +25602,7 @@ corpn
 corpora 1
 corporacy
 commensally 1
-corporacies 1
+corporacies 2
 calcic
 corporalcy
 corporale 1
@@ -26149,7 +26149,7 @@ cervical
 cyclohexatriene 2
 creamier
 cosmogenetic 1
-cosmogeny 1
+cosmogeny 2
 cutheal
 chazzanim 1
 concentration 1
@@ -26621,7 +26621,7 @@ coumaphos 1
 coumaran
 coumaric 1
 calopogon 1
-caliper
+caliper 1
 celluloided
 coumarilic 1
 coumarins
@@ -27977,7 +27977,7 @@ conferencing
 craftiness 1
 craftless
 croucher
-charactonym
+charactonym 1
 craftsmanship
 craftsmaster
 cistophori
@@ -28475,7 +28475,7 @@ critiques 1
 catelectrotonic
 creatinephosphoric 1
 condensedly 1
-creatininemia
+creatininemia 1
 cajuputol
 crickets 1
 champagnes 1
@@ -28896,7 +28896,7 @@ crevis 1
 crew
 carlos
 coalesces 1
-curability
+curability 1
 ctge
 crewed
 crewet 1
@@ -29246,7 +29246,7 @@ cryptical 1
 cryptically
 crypticness
 cosmognosis 1
-covenantally
+covenantally 1
 crypto
 cryptoagnostic
 coextended
@@ -29986,7 +29986,7 @@ campylotropous 1
 crotalidae
 crotaliform
 crotalin 1
-cecidiologist
+cecidiologist 1
 connivances
 crotalo
 crotalum
@@ -30554,7 +30554,7 @@ crankery 1
 contraprops 1
 cubitale 1
 caninal
-cubitalia
+cubitalia 1
 contemplatingly
 concentering
 cubiti 1
@@ -31299,7 +31299,7 @@ crumblier
 curbings
 confiscating 2
 cotonam
-courtliness 1
+courtliness 2
 curbline 1
 crackle
 curbs 1
