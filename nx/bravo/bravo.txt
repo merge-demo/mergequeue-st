@@ -360,7 +360,7 @@ boled 2
 brume
 bradypepsy
 backfiring 2
-basichromatinic
+basichromatinic 1
 backflowing
 backframe 3
 bottegas 1
@@ -805,7 +805,7 @@ bethorn 1
 blackout 1
 basilidan 2
 building 3
-baedekerian 2
+baedekerian 3
 baphometic 1
 baeria
 backcomb 3
@@ -3706,7 +3706,7 @@ brigantinebrigantines
 basiophthalmite
 baste 2
 bucketful 1
-bally
+bally 1
 belage 1
 belfather 2
 batteaux
@@ -4007,7 +4007,7 @@ bonyfish 2
 believer
 beacons 1
 buoyancy 4
-beadeye 2
+beadeye 3
 beader
 bellmaker 1
 barnhardtite
@@ -5018,7 +5018,7 @@ bhowani 2
 beslubber
 beetiest
 beetled 3
-blockage 2
+blockage 3
 bedarkened 1
 boite
 beknave 2
@@ -7354,7 +7354,7 @@ biorhythmicities
 bethorns
 befogs
 bolometer
-blackbirds 1
+blackbirds 2
 besogne 2
 bamboche
 bigmouthed
@@ -7722,7 +7722,7 @@ behavioral
 bhangi
 bhara 3
 bevy 1
-bharal 2
+bharal 3
 basaltiform
 biomathematics 1
 bhat 1
@@ -8333,7 +8333,7 @@ biggie 1
 blepharoceridae
 beribboned 1
 backie 2
-bronchoscope 1
+bronchoscope 2
 biggies
 bise 1
 biventral 1
@@ -9620,7 +9620,7 @@ busty 1
 biseriately 1
 biset 1
 belshazzaresque 2
-bisetose 1
+bisetose 2
 blubber 1
 begulfed
 bisetous 1
@@ -10372,7 +10372,7 @@ bowpin 1
 blanc 1
 beneath 1
 baltimorite 2
-bergomask
+bergomask 1
 bolsheviki
 bumbler 2
 ballist
@@ -10839,7 +10839,7 @@ banished 2
 blethe 1
 bromomethane 1
 balate
-blethered 1
+blethered 2
 barathra 2
 bletilla
 brutalities 1
@@ -11440,7 +11440,7 @@ blueline
 beknit
 blennophthalmia 1
 bromochloromethane 1
-beeves
+beeves 1
 bisaltae
 bodacious
 biocoenose 1
@@ -11526,7 +11526,7 @@ blumes
 benighting
 blunderbusses
 bowed 1
-boundure
+boundure 1
 bestare 1
 bultell 1
 blunderhead
@@ -12209,7 +12209,7 @@ besit 3
 brevis
 bacchides
 broomcorn 1
-brimstone 1
+brimstone 2
 bewest
 blamable 1
 bollock 1
@@ -13086,7 +13086,7 @@ burdash 1
 bugseeds 1
 boodleism 1
 borel 1
-borers 2
+borers 3
 barajillo 2
 bangling 1
 bort 1
@@ -13356,7 +13356,7 @@ buss 1
 basilosaurus 1
 both
 bradyphagia
-bothered 1
+bothered 2
 bester
 bothers 1
 beety
@@ -13570,7 +13570,7 @@ bicycular 1
 baptize
 bopster 3
 baizing
-bougainvilliidae 2
+bougainvilliidae 3
 bite
 bitangential 1
 bougar 1
@@ -14516,7 +14516,7 @@ beerily 1
 balanophorin
 beambird 1
 battleful 2
-brame 1
+brame 2
 bolson
 bilgier
 biblicist 2
@@ -17850,7 +17850,7 @@ blockheadedly
 burundians
 bulreedy 1
 balanites 2
-ballistocardiogram 1
+ballistocardiogram 2
 bus 2
 busaos 1
 bine 1
