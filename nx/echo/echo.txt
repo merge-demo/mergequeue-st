@@ -2817,7 +2817,7 @@ eater 1
 epiclesis 1
 eleoptene 2
 embden
-ensiled 1
+ensiled 2
 endomastoiditis 1
 erratuta 2
 expone 1
@@ -4420,7 +4420,7 @@ ectorganism 1
 encases 1
 eumenidae 1
 euryzygous 2
-electrotechnologist 1
+electrotechnologist 2
 essentialization
 enhydris 3
 exaggerator
@@ -4503,7 +4503,7 @@ embarkation 2
 edomite 2
 ethics
 epionynychia
-euphony 1
+euphony 2
 epagoge
 echinodermal
 emberizidae 1
@@ -6714,7 +6714,7 @@ elaborator 2
 entrechat 2
 endoceratitic
 enthusiastically 2
-exculpated
+exculpated 1
 eta
 enthusiastly
 emydosaurian 3
@@ -6842,7 +6842,7 @@ estruses 2
 extremism 1
 ergotoxin 2
 epaulets 1
-entomosporium 1
+entomosporium 2
 ethically
 ellipsoidal 4
 endangered
@@ -10806,7 +10806,7 @@ elaborating 1
 emoting
 euskera
 epitactic 1
-encumber 1
+encumber 2
 embruing 1
 engrafts 3
 embracer 1
@@ -10883,10 +10883,10 @@ enisle 2
 encalendar 1
 examinationism
 euphemisation
-enarme
+enarme 1
 euphemise 2
 elected 4
-euphemising 1
+euphemising 2
 enshroud 1
 euphemistically
 euphemize
@@ -11771,7 +11771,7 @@ ephydrid 1
 euplocomi 2
 engoue 2
 erysipelous
-ectadenia 1
+ectadenia 2
 epanadiplosis
 elusory
 excavating 1
@@ -11827,7 +11827,7 @@ elaphrium
 exaudi 2
 ethenoidal 2
 earthrise 1
-ectomorphy
+ectomorphy 1
 euglenida 2
 ectothermic 1
 exists 1
@@ -13035,7 +13035,7 @@ expeded
 expatiated 1
 efflate
 expedience 1
-engrossment
+engrossment 1
 exotropism 2
 elopement 1
 epopee 2
