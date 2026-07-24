@@ -919,7 +919,7 @@ chemoses 1
 catharan 1
 cajuputene
 confided
-cholesterosis 1
+cholesterosis 2
 cakavci 3
 cakchikel 1
 cushily
@@ -1248,7 +1248,7 @@ calefactory
 candlewood
 calefactories
 calefy
-caprice
+caprice 1
 cumulostratus
 camporees 1
 celibatist
@@ -1531,7 +1531,7 @@ calligraphers
 college
 calligraphy
 calligraphic
-chiba
+chiba 1
 cooeying 1
 calligraphically 1
 calling 1
@@ -2398,7 +2398,7 @@ cuj
 cassie
 caqueteuses
 cumbly 1
-canavali
+canavali 1
 canavalia 1
 cremerie
 crambly
@@ -4351,7 +4351,7 @@ candier
 carica
 caricaceae 2
 chenica 1
-countermeet
+countermeet 1
 cribbings 1
 caricaceous
 cotemporaneous 1
@@ -7237,7 +7237,7 @@ cylinderer 1
 cancrizans
 centum 1
 colorcaster
-cancellate 1
+cancellate 2
 copopsia
 catarinite
 cohobated 1
@@ -8126,7 +8126,7 @@ capistrate 3
 chowdered
 campanulaceous
 colewort
-coelastrum 2
+coelastrum 3
 chainsman 1
 capetian
 cleanups
@@ -10275,7 +10275,7 @@ coccidioidomycosis
 churm 2
 chich 2
 churnings
-cheiroglossa
+cheiroglossa 1
 copsewooded
 chichevache
 cremating 3
@@ -10356,7 +10356,7 @@ cystinuria
 chics 1
 chide 1
 callid 1
-classing
+classing 1
 chided
 chiders
 colorbreed 4
@@ -10862,7 +10862,7 @@ compilable
 carpetbaggers
 counterinsult
 connectedness
-chippers
+chippers 1
 coefficient
 chippewas
 cormel
@@ -15584,7 +15584,7 @@ clathrate
 choose 1
 clathrinidae 1
 clamant
-clathroid 1
+clathroid 2
 clathrose 1
 cranes
 camelkeeper
@@ -15679,7 +15679,7 @@ cital
 clubbability
 cellarmen
 camwood 1
-clavelization
+clavelization 1
 clavelize
 cothurnian
 controllingly
@@ -20755,7 +20755,7 @@ cerebropontile 1
 complexness
 complexometry 1
 caveman
-chandry
+chandry 1
 cacalia
 complexus
 cydippida 1
@@ -21239,7 +21239,7 @@ cumbersome
 concerning
 contrived
 chubsucker
-checked 1
+checked 2
 concerningness 2
 concerns
 cohabitations
@@ -22688,7 +22688,7 @@ connubium 1
 corynebacterium 2
 connumerate
 childing 2
-chyloid
+chyloid 1
 calorized
 continualness 1
 chebule
@@ -22858,7 +22858,7 @@ consequent
 ciconian
 consequential
 communalist 1
-consequentiality
+consequentiality 1
 consequentialities 1
 covenanted 1
 commemorator
@@ -29681,7 +29681,7 @@ croydon
 croiik
 croyl
 chayroot
-croisade
+croisade 1
 croise
 croisee 1
 coetanean 2
@@ -30840,7 +30840,7 @@ cosuretyship
 casco
 causus
 committable
-culmiferous
+culmiferous 1
 culminal 1
 culminate
 cryptoanalysis
@@ -31170,7 +31170,7 @@ cupolaing
 cupolaman 2
 caw
 cupolar
-celtillyrians
+celtillyrians 1
 cotman
 correspondences
 coenflame
