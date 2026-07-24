@@ -170,7 +170,7 @@ fontinalaceae 1
 floristics 2
 fanmaker 1
 frescoing 1
-flatfoots
+flatfoots 1
 featherless 2
 flier
 factorable 1
@@ -1091,7 +1091,7 @@ forbade
 familiarizing 1
 figaro 3
 frizzling 2
-farthing 2
+farthing 3
 foresay
 fluffing 2
 feverishness
@@ -1333,7 +1333,7 @@ frock 1
 fidac 1
 flaggish 3
 foretoken 3
-fatigue
+fatigue 1
 fossicks
 fatiguesome 1
 fragmenting
@@ -5173,7 +5173,7 @@ fistulina 1
 fetalization 5
 farsakh 1
 flatulency 2
-flatfeet 1
+flatfeet 2
 flatulencies 2
 fictions 2
 flameflower
@@ -6801,7 +6801,7 @@ fiberless
 folkmoots 5
 foredoomed 1
 fleshhook 2
-farinulent 1
+farinulent 2
 fervescent 1
 froebelian 2
 flyers 2
@@ -7980,7 +7980,7 @@ formoxime 1
 foreshoe
 ferrimagnetically
 friskingly 1
-filicidal 2
+filicidal 3
 fenerate
 fozier
 foreshot 1
@@ -8359,7 +8359,7 @@ fossilising
 fossilizable 3
 familyish 3
 forhow 2
-ficoidaceae
+ficoidaceae 1
 facelift 1
 funniest 1
 favuses 2
@@ -9772,7 +9772,7 @@ forestick 1
 flycaster 2
 fanworts 2
 fuchsins
-fevery 1
+fevery 2
 ficoideae 1
 fretworks 3
 flexile
@@ -10342,7 +10342,7 @@ felonries 1
 fitten 1
 finary
 folksongs 1
-fanged
+fanged 1
 fingerings 3
 fluormeter 3
 ferrates 1
@@ -11054,7 +11054,7 @@ foresights 1
 fora 2
 filiferous 1
 frontignac
-fraction 2
+fraction 3
 fumarate 1
 fantasizing 1
 flammulated 1
