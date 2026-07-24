@@ -1806,7 +1806,7 @@ drawknife
 debarking 1
 digamist 1
 dishpanful 1
-discede 2
+discede 3
 dwelled
 debarkment 1
 debarment
@@ -6574,7 +6574,7 @@ disfiguring 3
 dearie 1
 ditched 2
 desecrations 1
-devotary
+devotary 1
 dhooti
 dubious 1
 delimits
@@ -10065,7 +10065,7 @@ desoxycorticosterone 1
 dehydrogeniser 1
 djalmaite
 dangers 2
-dynamogenesis
+dynamogenesis 1
 dauphins 1
 demological 2
 dynamograph
@@ -14116,7 +14116,7 @@ dovecot 1
 displace
 deepener 1
 dinotheres
-delinquence 2
+delinquence 3
 deciduitis 1
 dilettanteship 2
 distritos
@@ -14456,7 +14456,7 @@ diverticle 1
 daibutsu
 disguisedness 2
 disruptment 2
-diverticulosis 1
+diverticulosis 2
 disheveled
 dacyorrhea
 divertimenti
@@ -14545,7 +14545,7 @@ divisibilities 3
 divisible
 division
 dollop 1
-distill
+distill 1
 divisional
 diachronicness
 durio 1
@@ -15348,7 +15348,7 @@ domesticator
 decylene
 dehumidifies
 diobolon 1
-deciliters 1
+deciliters 2
 difformity 1
 dikaryotic
 disencumbrance 2
@@ -16530,7 +16530,7 @@ deoculate
 dervishlike
 despatcher
 darii 1
-dilucidate
+dilucidate 1
 disdainable 1
 diomedes 1
 dictated
@@ -17096,7 +17096,7 @@ debunk 2
 dentistic
 depressing 2
 dactyliographer 2
-dribbles
+dribbles 1
 dosers 1
 disthroning 1
 divisory
