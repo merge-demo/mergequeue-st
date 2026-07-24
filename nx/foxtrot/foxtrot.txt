@@ -1628,7 +1628,7 @@ fdnames
 farmhands 3
 fundamentalists
 forthcut 2
-fluible
+fluible 1
 fireworm 2
 faddisms 1
 flamboyantly 1
@@ -4948,7 +4948,7 @@ fevertwitch 4
 facedown 1
 fraunch 3
 flameout 3
-foreappoint 2
+foreappoint 3
 fourflushers 2
 flameouts 2
 fictileness
@@ -7064,7 +7064,7 @@ fribby 1
 fatalities 2
 flossa 1
 foreknow 1
-flowk 2
+flowk 3
 fosie
 frase 2
 flacked 2
@@ -11437,7 +11437,7 @@ furcated 1
 fishings
 furred
 frieze 2
-frowstiest 1
+frowstiest 2
 fettering 1
 forebemoaned 2
 frailness
