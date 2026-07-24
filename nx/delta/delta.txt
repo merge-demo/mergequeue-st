@@ -460,7 +460,7 @@ disdainful
 disburthen 1
 disaccharide
 daywrit 1
-dakerhen 1
+dakerhen 2
 designing 1
 disappointing 2
 durgah 1
@@ -6922,7 +6922,7 @@ delphinid
 deaconize
 despairing 1
 desparple 2
-downsinking
+downsinking 1
 decadation
 despatches
 deoxidise 1
@@ -7687,7 +7687,7 @@ dusting 2
 deviatory 1
 discission 1
 densimetrically 2
-disassembles
+disassembles 1
 devil 2
 disciplinary 2
 devildom
@@ -10546,7 +10546,7 @@ dbrn
 diplococcemia
 disleaf 2
 davach
-digammate
+digammate 1
 denote 2
 dislikes 2
 disequilibrium
@@ -12133,7 +12133,7 @@ dilker 1
 declinations
 dehusk
 depthometer
-dha 1
+dha 2
 deadlily 3
 disfavoured 1
 discursion
@@ -15914,7 +15914,7 @@ darned 1
 dizygous 1
 duddle 1
 disesteemed 1
-drawlingly 3
+drawlingly 4
 drybeard
 dehydrofroze 1
 dotation
