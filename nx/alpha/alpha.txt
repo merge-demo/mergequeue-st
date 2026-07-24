@@ -5943,7 +5943,7 @@ aftergrind 1
 actinomycetaceae
 ablute 1
 agglutinative
-adamantine 1
+adamantine 2
 agglutinatively 1
 agamobium 1
 agglutinize 1
@@ -11170,7 +11170,7 @@ asswage 1
 antiaphrodisiac
 acmesthesia 1
 anglomania
-assures
+assures 1
 anaretical
 ampersands 1
 amphanthia
@@ -23044,7 +23044,7 @@ amphibolite
 attempt 1
 antecell 1
 attachableness 3
-apocamphoric
+apocamphoric 1
 attaches
 ascitan
 amebas
