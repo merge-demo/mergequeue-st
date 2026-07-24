@@ -310,7 +310,7 @@ flchette 1
 fplot 3
 fluxionary 1
 feods 3
-forces 1
+forces 2
 fail 1
 fireplough 3
 faineancy 4
@@ -1017,7 +1017,7 @@ frieda
 focalization 1
 flopper 1
 felspathose 1
-foined 1
+foined 2
 floricomous 1
 forensal 1
 fringillidae 4
@@ -1682,7 +1682,7 @@ furnace 1
 fingertip 4
 foreordaining 2
 forehandsel 2
-fanfares
+fanfares 1
 fearsomeness 2
 foreshape 2
 feased 1
@@ -1908,7 +1908,7 @@ feta 2
 floodlilit 2
 fleeceless
 felicide
-fremescent 1
+fremescent 2
 flitched
 fainly
 filicologist 1
@@ -1982,7 +1982,7 @@ filatory 2
 fibroneuroma
 fillock 2
 fernticle 3
-fouty
+fouty 1
 fibratus
 functionalize 2
 frigiferous 3
@@ -3590,7 +3590,7 @@ fairbanks 2
 fourniture
 flashover 3
 fardels 1
-flank
+flank 1
 fructification 1
 felinity
 floorway 2
@@ -4201,7 +4201,7 @@ fructose 1
 fadding 1
 fruitlessness 1
 fumigate 1
-finialed 1
+finialed 2
 fragmentally 2
 flagrant 3
 fibrilliform 1
@@ -5302,7 +5302,7 @@ fluoridize 3
 fretters 1
 flain 2
 fernwort
-fulyie 3
+fulyie 4
 fucaceous 1
 flivvers 3
 farrierlike 2
@@ -6509,7 +6509,7 @@ falter 2
 facility
 forgie 2
 farweltered
-fip 3
+fip 4
 failsoft 3
 frapping 2
 ft 2
@@ -7010,7 +7010,7 @@ farewelled
 fraenulum 1
 fathomableness 3
 foreaccustom 1
-fruitwoman 3
+fruitwoman 4
 flexions
 fichtean 1
 filla 2
@@ -7308,7 +7308,7 @@ furled 1
 forelock 3
 fopperies 3
 fopperly 1
-fraternized 3
+fraternized 4
 formaldoxime
 foujdar
 facers 3
@@ -7407,7 +7407,7 @@ fatalistic
 forbow 2
 foreclose 2
 forestland 1
-foolisher 1
+foolisher 2
 faying
 falterers
 flavorsomeness 2
@@ -7959,7 +7959,7 @@ fatalist 2
 freshing 2
 forslow 2
 frondesced 2
-forefit 1
+forefit 2
 fortnightlies 1
 fusileer
 feudatories 2
@@ -8169,7 +8169,7 @@ fulgurator 2
 foison 2
 fire
 formulates
-flatcaps 3
+flatcaps 4
 faithful 2
 featurette 3
 fanegadas
@@ -8665,7 +8665,7 @@ fluence 4
 finnochio 1
 functionate 1
 fingerfishes 4
-fulcrumed 3
+fulcrumed 4
 ferryage 3
 faddishly 3
 feelers 2
@@ -9185,7 +9185,7 @@ falsificator 2
 fruitarian 2
 fractionalized
 ferriprussic 1
-fodient 1
+fodient 2
 feoffees 3
 flamineous 2
 feignedness 2
