@@ -8943,7 +8943,7 @@ dom
 daughtership 1
 duellize
 desirably
-dichotomize
+dichotomize 1
 despraise 2
 demographic
 demonstrably 3
@@ -11740,7 +11740,7 @@ dullardism 2
 dehydrogenize 1
 drawplate 1
 dexamethasone 1
-dino 1
+dino 2
 dogblow 2
 disported 1
 debellate
@@ -15048,7 +15048,7 @@ doggoning
 detant
 dislady 1
 difunctional 1
-dogget 1
+dogget 2
 doggrelize
 disprince
 dorlot
