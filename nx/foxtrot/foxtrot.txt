@@ -1025,7 +1025,7 @@ foraging 3
 fogas 2
 faro 1
 fluoridization 3
-fluorogen 4
+fluorogen 5
 floter 2
 foredestining 1
 furriery 1
@@ -1226,7 +1226,7 @@ favella 3
 forevouch 2
 footwall 2
 fatuate 2
-fearful 1
+fearful 2
 flatten 2
 filmdom
 frostier 3
@@ -1563,7 +1563,7 @@ fourstrand 1
 falsettist 1
 fibrinogen 4
 filespec 3
-floristic 1
+floristic 2
 favorites 2
 furstone 1
 fadges 3
@@ -2101,7 +2101,7 @@ finetop
 fourpence 1
 frump 2
 favorless 3
-foins 3
+foins 4
 fleshen
 frument 1
 fayence 1
@@ -2248,7 +2248,7 @@ fatil 2
 fain 1
 fenced 2
 fencelessness 1
-forkiest 2
+forkiest 3
 feudalisation 2
 frolics 1
 fusula
@@ -2422,7 +2422,7 @@ falsiteit
 fashionable 1
 fifie 4
 ferlying 4
-foiler 1
+foiler 2
 ferling 1
 frecklish 2
 flemishes
@@ -2461,7 +2461,7 @@ falla 3
 fornax 1
 ferruginated 2
 flowable
-fungal 1
+fungal 2
 foliocellosis 1
 fairnesses 2
 frithborgh
@@ -3372,7 +3372,7 @@ folily 1
 feeless 1
 foreyards
 fastigate
-forcut
+forcut 1
 fopling 3
 fossilification
 flappering 3
@@ -6192,7 +6192,7 @@ feudum 1
 foreread 1
 fairgoing 2
 fondest 1
-flaxes 1
+flaxes 2
 foretops 1
 feebling 1
 forgiven 3
@@ -6200,7 +6200,7 @@ foredivine
 frequency
 furbished 1
 fibroareolar 2
-flisked 2
+flisked 3
 formicating 1
 fakeries 1
 feuded 3
@@ -8064,7 +8064,7 @@ felsites 1
 ferroalloy 2
 faunally 1
 fanfoot 1
-fieldie 2
+fieldie 3
 favoured 1
 fredricite
 forestation
@@ -8361,7 +8361,7 @@ familyish 3
 forhow 2
 ficoidaceae 1
 facelift 1
-funniest 1
+funniest 2
 favuses 2
 foryield 2
 familiary
@@ -9083,7 +9083,7 @@ flintified 3
 flux 2
 fowlfoot 4
 fared 1
-faultful 1
+faultful 2
 fowlings 2
 fluvious
 fountained 1
@@ -9286,7 +9286,7 @@ furzetop 2
 fenagling 2
 femality
 fumuli 1
-fichat 3
+fichat 4
 feretra 1
 forfend 1
 fraise
@@ -10833,7 +10833,7 @@ foredestined 2
 fleeten 2
 freesilverite
 frustulum
-ferntickled 1
+ferntickled 2
 fluxure 1
 feff 2
 fallers
