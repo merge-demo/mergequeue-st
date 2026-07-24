@@ -786,7 +786,7 @@ dispurpose
 drawn
 devolatilize 1
 dacryocystotomy 2
-diabolisation 1
+diabolisation 2
 discute 4
 delirament 1
 dissections
@@ -13551,7 +13551,7 @@ distributival
 devaluation
 darlings 2
 downtime
-divergence
+divergence 1
 disseminations
 digredient 1
 dismeasured 2
