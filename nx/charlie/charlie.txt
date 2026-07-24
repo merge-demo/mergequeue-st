@@ -7331,7 +7331,7 @@ cephalochordal
 cephalochordata 1
 cephaloclast
 cephalocone 1
-cephalodia
+cephalodia 1
 cephalodymus 1
 cephalodiscid 2
 cephalodiscida 1
@@ -7369,7 +7369,7 @@ cephalopodous
 corporatist
 cephalopterus 1
 cephaloridine
-churruck
+churruck 1
 confocal 2
 cadus
 copecks
@@ -10439,7 +10439,7 @@ chikee
 chiliomb 1
 conversative
 chil
-complementation
+complementation 1
 chilacayote
 calinago 2
 cleistogamous
@@ -11149,7 +11149,7 @@ clumper
 caprifoil 1
 chizz 1
 comportance
-chizzel
+chizzel 1
 chladnite
 chondrite 1
 churlishly
@@ -11250,7 +11250,7 @@ chloridellidae
 chlorides
 covers 2
 chloridic 1
-chloridized 1
+chloridized 2
 collochemistry 1
 chemotropism
 compaternity 2
@@ -11419,7 +11419,7 @@ cheerfulsome
 ciboule 2
 confetto
 cabrioles 2
-cloakless 1
+cloakless 2
 chondriosome 1
 cho 1
 complete 2
@@ -12580,7 +12580,7 @@ chorization 1
 contingency 2
 commerceless 2
 chronocarator
-citrine 1
+citrine 2
 cuckoldy
 chronocyclegraph
 chronocrator
@@ -13719,7 +13719,7 @@ communiqu 1
 cinchophen
 cretinoid 2
 cinchotine
-cullions 1
+cullions 2
 cincinnal
 cincinni
 cholesterate 1
@@ -17251,7 +17251,7 @@ cryptograph 1
 coalsacks 1
 cachucha
 cinematical 1
-cantil
+cantil 1
 coalternate 1
 coaltitude
 chrismal
@@ -17638,7 +17638,7 @@ coccus
 chalazogamy 1
 cushite
 chlorothiazide
-cochero
+cochero 1
 cochief
 containerized 1
 cochleae 1
@@ -20477,7 +20477,7 @@ criminated 3
 comparative 1
 comparatively 1
 callianassidae 1
-cacophonia
+cacophonia 1
 comparatives 1
 cpi
 contratabular 1
@@ -23747,7 +23747,7 @@ contraltos
 cera
 contraoctave
 caste
-coyote 2
+coyote 3
 crimped
 contraplete
 cataphoretically
@@ -24175,7 +24175,7 @@ convicinity 1
 cattabu
 charon 1
 convictfish 1
-convictfishes 2
+convictfishes 3
 convictible 1
 carfax
 cantinier
@@ -27013,7 +27013,7 @@ compartmentize
 counterpaned 1
 counterparry
 counterpart
-counterpassant
+counterpassant 1
 counterpendent 1
 culpa 1
 chartae
@@ -28141,7 +28141,7 @@ craniology 1
 craniom
 custards
 cleistotcia
-calibrations
+calibrations 1
 communitorium
 craniomaxillary
 camellia
@@ -28362,7 +28362,7 @@ crawdads
 collector 1
 crawfishing
 corviform
-crawl
+crawl 1
 cashdrawer 1
 crawled 1
 cuterebra 1
@@ -29905,7 +29905,7 @@ crossfertilizable
 censusing
 crossfired
 craniodidymus 1
-crossfish
+crossfish 1
 crossflow 1
 crossfoot 2
 cumhal 1
@@ -30697,7 +30697,7 @@ chordates
 comparability
 cudgeled
 cudgeler 1
-calymene
+calymene 1
 cudgelers
 counterwind 1
 complexometric
@@ -30989,7 +30989,7 @@ congeries
 cumberer
 cumbering 2
 cumberland 1
-codefendants 1
+codefendants 2
 cumberless 1
 coix
 cumbersomeness
@@ -31325,7 +31325,7 @@ casave 2
 considerately 1
 commemorize
 circumoral
-claudent 2
+claudent 3
 curdiness
 curdled 2
 cottabus 1
