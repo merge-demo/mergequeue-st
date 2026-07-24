@@ -2267,7 +2267,7 @@ extemporization
 eidetic
 eudiometry 1
 exormia 1
-enbloc 1
+enbloc 2
 eyelets
 endolymph 2
 excretal 2
@@ -9095,7 +9095,7 @@ enticingly 1
 equinoxes 1
 evasion
 embordered 1
-erythropsia
+erythropsia 1
 electrograving 1
 entwist 1
 etruscan 2
@@ -10339,7 +10339,7 @@ equinox 3
 elephantine
 enquired
 explain
-etwite
+etwite 1
 electrometallurgical 1
 ethnolinguist 2
 estensible 2
@@ -10447,7 +10447,7 @@ euripi
 etiologue
 endocortex
 epitasis
-elaterist 2
+elaterist 3
 execrable
 engrams
 electrodialytic 2
@@ -10661,7 +10661,7 @@ excamber 2
 elopers 1
 epithet
 excusingly 1
-eastlake 1
+eastlake 2
 extricating 1
 exclamatorily 4
 estranged

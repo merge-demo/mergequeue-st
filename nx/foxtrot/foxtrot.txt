@@ -1506,7 +1506,7 @@ franconian
 fattenable 4
 fumettes 1
 fauntleroy 2
-filmdoms 1
+filmdoms 2
 freely
 faurd
 foreseat
@@ -1705,7 +1705,7 @@ flighted 1
 fascio
 floats 1
 filicin 1
-fortravail 2
+fortravail 3
 factable
 floroon 2
 fibrocyte 1
@@ -3814,7 +3814,7 @@ flebotomy
 forestaves 1
 forthfare 1
 faut 1
-fazendeiro
+fazendeiro 1
 freewheeler 1
 formulised 1
 familiarizations 1
@@ -5151,7 +5151,7 @@ fiberized
 flavoprotein 2
 fatigued 1
 flywheels 5
-fjords
+fjords 1
 foreseeingly
 formnail 2
 fare 2
@@ -5316,7 +5316,7 @@ festuca 2
 farinaceously 1
 fingerprinting 1
 ferry 3
-fantasque 1
+fantasque 2
 flutey
 fifteen 1
 fumarole 3
@@ -6509,7 +6509,7 @@ falter 2
 facility
 forgie 2
 farweltered
-fip 3
+fip 4
 failsoft 3
 frapping 2
 ft 2
@@ -7632,7 +7632,7 @@ ferganite
 frightenedness 1
 forefeelingly 2
 frogging 1
-forheed 1
+forheed 2
 foreffelt 3
 folioed 1
 fimbrillae
@@ -8319,7 +8319,7 @@ flirting 1
 fifteenfold 2
 farmings 2
 foretokening 2
-flagellaria 2
+flagellaria 3
 fractious
 feists 1
 frequenter 1
@@ -10528,7 +10528,7 @@ fanzine 3
 finises
 floggable 1
 floe
-freshment 2
+freshment 3
 frillery 3
 favouringly 1
 frot 1
@@ -10544,7 +10544,7 @@ fortuities
 fortuning 1
 featherback
 frotton 1
-fum 1
+fum 2
 firetail 1
 farandman 2
 frousty 1
@@ -11741,7 +11741,7 @@ frights 2
 fathom 1
 foliiform 1
 flneur 2
-foresin 1
+foresin 2
 fremdly 2
 florimanist 1
 finitely 2
