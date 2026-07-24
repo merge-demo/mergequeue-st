@@ -1677,7 +1677,7 @@ forehammer 1
 fondlike 2
 frangible 2
 ferrament
-fleeching 1
+fleeching 2
 furnace 1
 fingertip 4
 foreordaining 2
@@ -1697,7 +1697,7 @@ forestep 1
 fasciolariidae 2
 flourless
 foodservices 2
-faviform
+faviform 1
 feasibly
 filiate
 fashionmonger 3
@@ -3775,7 +3775,7 @@ frugivora 2
 formativeness 1
 fortranh 3
 fiberware 1
-forebridge
+forebridge 1
 filmland 2
 filmmake 2
 filmogen 2
@@ -4416,7 +4416,7 @@ fraxin 1
 fluigramme
 frogwort 1
 frenghi 1
-formel 3
+formel 4
 fraiser 4
 falsary 1
 flawier
@@ -4735,7 +4735,7 @@ flacianist
 fife 1
 foresey
 forerank 1
-faldfee 1
+faldfee 2
 forthink
 fablemongering 3
 forestry 1
@@ -5734,7 +5734,7 @@ ferrary 3
 fetor 1
 flirty 1
 feculent 1
-ferulas 1
+ferulas 2
 frontis 2
 farding
 foretype 3
@@ -6464,7 +6464,7 @@ fernbird 3
 furiosa 2
 fumagine
 fouquieriaceous 1
-formats
+formats 1
 flightful 1
 foulness 2
 fuzing 1
@@ -7953,7 +7953,7 @@ forgivenesses 1
 foreshadowed 2
 featherman 1
 frizer 3
-footles 1
+footles 2
 fishhold
 fatalist 2
 freshing 2
@@ -8926,7 +8926,7 @@ feudalism 2
 fussed
 flatteners 1
 fouled 3
-fancywork 1
+fancywork 2
 fling 1
 fatiloquent 3
 ferie 4
@@ -11186,7 +11186,7 @@ flyblowing
 fungian
 fondles 1
 felspar 1
-fungibility
+fungibility 1
 fadeout 2
 fideists 1
 farmer 2
@@ -11289,7 +11289,7 @@ fernando 1
 flatters 1
 furanoid 2
 fricandeaus 1
-faveolate
+faveolate 1
 fantasticism
 familiarizer 2
 furlane 1
