@@ -75,7 +75,7 @@ darndests
 deerskin
 dacoiting 3
 delbert 1
-depressibility 1
+depressibility 2
 debilitating 1
 dactylion 1
 dobbin 1
@@ -1141,7 +1141,7 @@ dexter
 degree 1
 decempennate 1
 dullify 1
-definitional
+definitional 1
 dashmaker 2
 deprocedured
 disoriented
@@ -1537,7 +1537,7 @@ doatish 2
 diddlers 2
 denture 1
 dieugard
-dynamisms
+dynamisms 1
 dupondius
 dedoggerelize 2
 deacons 3
@@ -1806,7 +1806,7 @@ drawknife
 debarking 1
 digamist 1
 dishpanful 1
-discede 2
+discede 3
 dwelled
 debarkment 1
 debarment
@@ -2537,7 +2537,7 @@ disgout
 diplococcus
 differently 1
 dwined
-declasses 2
+declasses 3
 dorn
 disjudication
 declass 1
@@ -3870,7 +3870,7 @@ dejects
 dehypnotizing 1
 drake 1
 dejeration 1
-dejeuner 1
+dejeuner 2
 dekadrachm 1
 dekagramme
 discommunity
@@ -6538,7 +6538,7 @@ descript 2
 descriptionist
 dogsled 2
 descriptionless
-dangleberry
+dangleberry 1
 distensile
 dysnomy 2
 designator
@@ -6574,7 +6574,7 @@ disfiguring 3
 dearie 1
 ditched 2
 desecrations 1
-devotary
+devotary 1
 dhooti
 dubious 1
 delimits
@@ -8048,7 +8048,7 @@ dothideaceous
 dictyonine 1
 disilicic
 disheritment
-delphinidae
+delphinidae 1
 debugger 1
 descaled
 dafter 1
@@ -10065,7 +10065,7 @@ desoxycorticosterone 1
 dehydrogeniser 1
 djalmaite
 dangers 2
-dynamogenesis
+dynamogenesis 1
 dauphins 1
 demological 2
 dynamograph
@@ -11610,7 +11610,7 @@ discordable 1
 discordance 1
 dedenda 2
 discordancy 1
-deregulating
+deregulating 1
 discordancies
 discordant
 dialling 2
@@ -11735,7 +11735,7 @@ discrepated 3
 dioptometry 2
 diskless 2
 denounces
-discrepation
+discrepation 1
 dullardism 2
 dehydrogenize 1
 drawplate 1
@@ -14116,7 +14116,7 @@ dovecot 1
 displace
 deepener 1
 dinotheres
-delinquence 2
+delinquence 3
 deciduitis 1
 dilettanteship 2
 distritos
@@ -14456,7 +14456,7 @@ diverticle 1
 daibutsu
 disguisedness 2
 disruptment 2
-diverticulosis 1
+diverticulosis 2
 disheveled
 dacyorrhea
 divertimenti
@@ -14545,7 +14545,7 @@ divisibilities 3
 divisible
 division
 dollop 1
-distill
+distill 1
 divisional
 diachronicness
 durio 1
@@ -15348,7 +15348,7 @@ domesticator
 decylene
 dehumidifies
 diobolon 1
-deciliters 1
+deciliters 2
 difformity 1
 dikaryotic
 disencumbrance 2
@@ -16530,7 +16530,7 @@ deoculate
 dervishlike
 despatcher
 darii 1
-dilucidate
+dilucidate 1
 disdainable 1
 diomedes 1
 dictated
@@ -17096,7 +17096,7 @@ debunk 2
 dentistic
 depressing 2
 dactyliographer 2
-dribbles
+dribbles 1
 dosers 1
 disthroning 1
 divisory
@@ -17243,7 +17243,7 @@ disorganic 1
 demitasse
 driveled 1
 dolled
-directorially
+directorially 1
 driveler
 decemberish 2
 drivelingly
