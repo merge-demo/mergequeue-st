@@ -774,7 +774,7 @@ eolotropic
 expositions 1
 expensiveness 3
 electrobus 3
-exsuperance
+exsuperance 1
 encaged 2
 exadverso
 endosulfan 2
@@ -5878,7 +5878,7 @@ ecarinate
 execrators
 exaggerativeness 1
 epitomise
-edeitis
+edeitis 1
 externalise 1
 enhancing 1
 electrometallurgy 2
@@ -9133,7 +9133,7 @@ esrog
 ermanrich 1
 endotheca 1
 entailer
-epizoarian
+epizoarian 1
 equiponderancy 2
 ermiline 4
 epidemy
