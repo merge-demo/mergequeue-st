@@ -1991,7 +1991,7 @@ endocrinotherapy 1
 erythrosine 1
 epitrophy 2
 encurl
-exophasia
+exophasia 1
 emersion
 etherish 1
 examinational 2
@@ -2002,7 +2002,7 @@ eyeshot
 excussing 1
 evangelican
 embreathement 3
-eskimo 3
+eskimo 4
 etruscans 1
 ectobronchium 4
 electrometeor
@@ -5755,7 +5755,7 @@ epigraphy
 elites
 expressions
 englobed 2
-enneahedral
+enneahedral 1
 envelopment 1
 expulsing 1
 extirp 1
@@ -8142,7 +8142,7 @@ eons 1
 epitendineum
 exergual
 empowered 1
-excalfaction 1
+excalfaction 2
 episiotomies
 eequinoctium
 enroots 2
@@ -8814,7 +8814,7 @@ equiprobabilist 1
 eternities 3
 egyptologic 1
 enjeopardy 2
-encrypt 3
+encrypt 4
 emptive
 euonymin 1
 enterocystoma 1
