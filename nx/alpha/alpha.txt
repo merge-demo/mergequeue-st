@@ -1264,7 +1264,7 @@ articulator
 adelite
 antiproductiveness
 acarapis 2
-asaphic 1
+asaphic 2
 acarari 1
 ardelia
 acarian
@@ -1288,7 +1288,7 @@ alacritous
 anucleate
 acontias 1
 arteriodiastasis 1
-acarocecidium 3
+acarocecidium 4
 archminister 1
 antemask 1
 androlepsia
@@ -1306,7 +1306,7 @@ acarpelous
 augitic
 antisceptic 1
 ais
-acatalectic 1
+acatalectic 2
 apomicts 2
 atelocardia 1
 acetocinnamene
@@ -1610,7 +1610,7 @@ accost 1
 arbuscule
 aecidium
 aristolochine 1
-antiketogenic
+antiketogenic 1
 anthrop 1
 amatorian 1
 accouche
@@ -3947,7 +3947,7 @@ abbreviator 1
 anticipated
 angoumian 1
 agaphite
-adjoinedly
+adjoinedly 1
 aryanize 1
 analphabetism
 apprises
@@ -6103,7 +6103,7 @@ aretalogy 2
 agists 1
 agit
 afore
-agitability 1
+agitability 2
 archilowe 1
 accouters 1
 acridone
@@ -7705,7 +7705,7 @@ alcoholdom
 abbrev
 alcoholemia
 alcoholically 1
-appetition 1
+appetition 2
 anaudia
 appendicocaecostomy 1
 autoprothesis
@@ -9874,7 +9874,7 @@ amarantine
 audiencer 1
 agaces 1
 antiprotons
-amargosa 1
+amargosa 2
 antigravitationally 3
 aphthoid
 amargosos 1
@@ -11628,7 +11628,7 @@ antineutrons 2
 aiery 1
 anacharis 1
 arriver
-alps
+alps 1
 apodes
 autosite
 acicularly
@@ -11740,7 +11740,7 @@ apodidae
 anaesthetized 1
 arsyversy 1
 anaesthetizer
-arthralgic 1
+arthralgic 2
 adsum 1
 arbalester
 anaetiological 3
@@ -13468,7 +13468,7 @@ authotype
 ajatasatru
 arctician
 annamite 1
-arvicolous 2
+arvicolous 3
 annapolis 3
 annas
 alations
@@ -14530,7 +14530,7 @@ anoplotheroid
 anthropography
 antalkalies
 animatism
-acritochromacy 1
+acritochromacy 2
 algologically
 adnoun
 anobing
@@ -15584,7 +15584,7 @@ aboves
 abseil
 antimoniuret 2
 anatine
-antethem 2
+antethem 3
 acetabulum
 antimoniuretted
 antimonopolistic 2
@@ -17116,7 +17116,7 @@ agoranome 2
 alpist
 adenocarcinoma
 acmes 1
-antibody 1
+antibody 2
 appendicle
 apogamies
 antirecruiting 1
@@ -18255,7 +18255,7 @@ ar
 ara
 arabesks
 anguish 1
-arabesquely
+arabesquely 1
 alleluja
 aptyalia
 antiprofiteering
@@ -20621,7 +20621,7 @@ atestine
 aduncity
 arthroneuralgia 1
 aetiology
-arthropathic
+arthropathic 1
 assamese 1
 anapnograph 4
 arthrophlogosis 1
@@ -20774,7 +20774,7 @@ airths
 awardee
 artistic
 aftercourse 1
-agynarious 2
+agynarious 3
 aeroplankton
 apogamically
 antitoxins 1
@@ -22241,7 +22241,7 @@ astonies
 astonish
 amerindians
 autonomical
-annualize 1
+annualize 2
 astonishedly 1
 abnaki 1
 asterismal
@@ -22669,7 +22669,7 @@ acylates
 autocracy 1
 atheriogaean
 atheris
-annotto 1
+annotto 2
 athermanous
 alley
 aerobic
@@ -23084,7 +23084,7 @@ attainor 1
 acridium
 attainted
 anticholagogue
-asepticized
+asepticized 1
 afferently
 acinar
 adjoiningness
@@ -23319,7 +23319,7 @@ archduke 1
 apoapsides
 alloisomer 1
 alan
-antitobacconal
+antitobacconal 1
 amoretto 1
 atropinization 2
 alans
@@ -24240,7 +24240,7 @@ astrachan 2
 aeciotelia
 anthelices
 aluminoferric 1
-automatous
+automatous 1
 automechanical 2
 almoner
 actinically 2
@@ -24418,7 +24418,7 @@ altruistic 1
 autosomal 1
 alopecic 1
 arbalo
-autosomes
+autosomes 1
 appalls
 astoundable
 aani
@@ -25113,7 +25113,7 @@ adenological 2
 aotearoa
 axillae
 antiamylase
-axillar 1
+axillar 2
 absurdest 1
 axing 2
 anagenesis
