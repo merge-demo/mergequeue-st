@@ -327,7 +327,7 @@ dupatta 1
 dimeran
 dummyweed
 disarm 1
-deltaite
+deltaite 1
 denumberment 1
 damier
 depasturage
@@ -1706,7 +1706,7 @@ damping
 dottard 2
 drepanid 2
 dipleiodoscope
-dupability
+dupability 1
 disadvantage 1
 dignity 1
 disentrain
@@ -4475,7 +4475,7 @@ dodgiest 1
 demidistance
 diaphane
 diabetogenic
-downtrend 1
+downtrend 2
 deityship
 deputies
 discircumspection 2
@@ -4704,7 +4704,7 @@ dagswain 2
 democrat
 dawdles 1
 douar 1
-dogbody 1
+dogbody 2
 depraves 1
 dsnames
 democratic 1
@@ -5543,7 +5543,7 @@ desensitizes 1
 dependingly 1
 drouthiness 2
 depends 4
-dallack 4
+dallack 5
 dispersed
 dramatizable 1
 dukeship
