@@ -1048,7 +1048,7 @@ bailable
 baile 1
 bezazz
 betanaphthol 1
-basqued 2
+basqued 3
 blizzards
 bad
 bailers 1
@@ -3483,7 +3483,7 @@ barkpeeler
 boobook
 bolloxed
 batable
-bespatter
+bespatter 1
 bernicia
 bracket 1
 barbascoes
@@ -5912,7 +5912,7 @@ beprose 5
 blisses
 backslap 2
 belostomatidae 1
-besleeve 1
+besleeve 2
 bisnagas 1
 bouillabaisse
 belotte
@@ -8024,7 +8024,7 @@ bitemporal
 byname 4
 bobsleigh 1
 bick
-bicycler 1
+bicycler 2
 bluebooks 2
 bisiliac 1
 bickerer
@@ -10335,7 +10335,7 @@ blagueur
 blains 1
 bestialize 2
 boiler
-bestialities 1
+bestialities 2
 bednights
 blakeberyed
 bloodalp 5
@@ -10495,7 +10495,7 @@ blaster 2
 blastid
 blart 1
 blasting 1
-borolanite
+borolanite 1
 blastocele 1
 batodendron 1
 berrichon 1
@@ -15186,7 +15186,7 @@ bristlier
 brusk 1
 beback
 browse 1
-bryaceae
+bryaceae 1
 backwardation
 bipartisan 2
 blitheful
@@ -16110,7 +16110,7 @@ belittler
 brood 1
 bedsock 1
 bialis
-basiated
+basiated 1
 broodiest 1
 broodily 2
 broodling
