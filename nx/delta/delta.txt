@@ -1991,7 +1991,7 @@ deflection
 descloizite
 decadary 1
 dimethylcarbinol
-depaysee 2
+depaysee 3
 demagnify 1
 dynapolis
 documentalist
@@ -2303,7 +2303,7 @@ diverting 2
 dinman
 diocesans
 dynamical
-deliberant
+deliberant 1
 decentralising 2
 duckhunting
 decentralize
@@ -2393,7 +2393,7 @@ deciduously
 dessertspoonful
 dimercuric 1
 decyl 1
-deciles
+deciles 1
 dorsiparous 1
 deciliter
 druidry 3
@@ -6326,7 +6326,7 @@ decent 1
 downtrod
 discordful 1
 doctrinal 1
-dolus
+dolus 1
 discontinuing 1
 dislimn
 divorcing 1
@@ -6939,7 +6939,7 @@ disculpatory 1
 dioptre 1
 digits 2
 desperados
-dorsointercostal 1
+dorsointercostal 2
 didgeridoo 1
 disimmure 1
 decarbonylated 2
@@ -8415,7 +8415,7 @@ deflater 1
 devide
 deconcentrator
 deported
-deliver 1
+deliver 2
 dropworts 1
 dolia 1
 defiledness 1
@@ -8459,7 +8459,7 @@ diametral 3
 diametric
 dichromism 2
 diamide 1
-diamides 1
+diamides 2
 descanter 1
 deesis 2
 depictured 2
@@ -8896,7 +8896,7 @@ disconnect 1
 dissolvability
 dichas
 demivolts
-dichasia
+dichasia 1
 decolonizing 1
 distributiveness 1
 dichasium 2
@@ -8985,7 +8985,7 @@ diarchies 1
 dicyemidae
 dissolvent 1
 deprivement 1
-dicing 1
+dicing 2
 dhow
 dicynodontia 1
 diclinous 3
@@ -9538,7 +9538,7 @@ decimosexto 1
 downthrow
 dowiness
 decimated 1
-draggly 1
+draggly 2
 diastereomer 2
 deevilick 1
 digitron
@@ -10772,7 +10772,7 @@ diastereoisomeric 1
 draine
 dulanganes
 directer 2
-domite
+domite 1
 deboist
 decreement
 divaricatingly
@@ -14763,7 +14763,7 @@ deflowering 1
 docity
 discords
 deplaster 1
-dodonaea
+dodonaea 1
 dilatancy 3
 discutable
 docker 1
@@ -15845,7 +15845,7 @@ dozen 2
 diablotin 1
 ddt
 discoursed 2
-dialdehyde 1
+dialdehyde 2
 dismalize
 decanate
 devilship 2
@@ -16463,7 +16463,7 @@ drabbler 1
 datum
 difflugia 1
 downtimes 1
-dunnesses
+dunnesses 1
 dacoities
 drabbling
 doubler
@@ -16629,7 +16629,7 @@ distr 2
 dragonfishes 2
 dragonflies 1
 didelphian 1
-dragonhood
+dragonhood 1
 downily
 deveins 1
 dissent
@@ -17077,7 +17077,7 @@ discumber 2
 denning 1
 draftily 3
 dobbed
-dissents
+dissents 1
 dynametrical
 decompensates 2
 dressmakers 2
@@ -17216,7 +17216,7 @@ dribbing 2
 drippage
 drippers
 deddy
-doves 3
+doves 4
 differentiators 1
 drippier
 damans 2
@@ -17499,7 +17499,7 @@ dereism 4
 deare 1
 drownd
 docents 1
-dipleurogenesis
+dipleurogenesis 1
 drowning 2
 drowses 2
 drowsier 1
