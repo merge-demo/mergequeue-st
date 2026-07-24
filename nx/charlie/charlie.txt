@@ -930,7 +930,7 @@ cakewalker 1
 cakewalking 2
 caressant
 carnotite
-caky
+caky 1
 clientelage 1
 conformant
 consecration
@@ -3028,7 +3028,7 @@ canto
 confederatism 1
 cortege
 colander
-cantonal 1
+cantonal 2
 cantonalism
 crapelike 1
 chinse
@@ -3889,7 +3889,7 @@ carbonylene
 chalukyan 1
 carbonimeter
 carbonimide
-choultries 1
+choultries 2
 contrastimulant 1
 costaea 2
 chinkle
@@ -6209,7 +6209,7 @@ caucasic 1
 colombo
 chinantecan
 caucuses
-concatenation
+concatenation 1
 callipered 2
 caucusses 1
 caucussing
@@ -7720,7 +7720,7 @@ certainness
 cormorant 2
 cetin
 certainty 2
-certhia
+certhia 1
 caryatidic 1
 cfi
 certifiability 1
@@ -7884,7 +7884,7 @@ cetane
 cetanes 1
 cerographies 1
 cete 1
-ceterach 1
+ceterach 2
 ceti
 cetic
 cocytus
@@ -8046,7 +8046,7 @@ caranx
 chafes
 calycanth
 campaspe 1
-chimaeras 1
+chimaeras 2
 chafeweed 1
 chaff
 chaffer
@@ -8618,7 +8618,7 @@ commiseration 2
 chitlins 2
 chibol
 channelled 1
-channelling
+channelling 1
 commiseratingly
 channelure
 cestus 1
@@ -9797,7 +9797,7 @@ chemehuevi
 chemiatric 2
 chemical 1
 chapeless
-chalybean
+chalybean 1
 corrugates 1
 cowardliness
 conveniency
@@ -11172,7 +11172,7 @@ chloasma 1
 cephalorachidian
 chloracne
 criminaldom
-chloraemia
+chloraemia 1
 chloragogue
 chloral
 chloralformamide 2
@@ -12831,7 +12831,7 @@ crumpy 2
 center
 cuartino
 comburimetry
-chunkiness
+chunkiness 1
 chunks
 chunner
 chuntered 2
@@ -15344,7 +15344,7 @@ climatological
 clankless
 chaldaic 1
 cuyas
-chloropia
+chloropia 1
 clannishness
 cradlemen
 clansfolk 1
@@ -15597,7 +15597,7 @@ coxcombries
 countering 2
 clatterer
 crucifier
-clattery 2
+clattery 3
 captainly 1
 clattering 1
 chicaner
@@ -16886,7 +16886,7 @@ cypselae
 compendiously 1
 challah 1
 clucky
-concussional 2
+concussional 3
 connectional
 clucking
 clue 1
@@ -19616,7 +19616,7 @@ cytological
 cunnilinguism 1
 columniform
 contralto
-cherimoya
+cherimoya 1
 circumaction
 coitional 1
 cervicohumeral
@@ -20419,7 +20419,7 @@ compactly 1
 conciliatingly
 chondrodynia
 catabolize
-cancerdrops
+cancerdrops 1
 compactor
 clobbered
 compactors 1
@@ -20690,7 +20690,7 @@ camleted
 cauter
 cobreathe
 complementoid
-cooperations
+cooperations 1
 chionididae 1
 curvous
 collut 2
@@ -21336,7 +21336,7 @@ cowboys 1
 conchostraca
 corotated 2
 computed 1
-conchs 1
+conchs 2
 conchubar 1
 coplots
 conchuela
@@ -23167,7 +23167,7 @@ clubbed 2
 constipates
 constipation 1
 crevassing
-constituency
+constituency 1
 cytostatic
 ciphers
 constituencies
@@ -27363,7 +27363,7 @@ cherokees
 courlan
 charging
 couronne
-coleseed
+coleseed 1
 crustaceal 1
 course
 codirectorship
@@ -30598,7 +30598,7 @@ cubti 2
 cuca
 cluff 1
 clambers 1
-corraded
+corraded 1
 chinese 2
 conduction
 cuchia 2
@@ -30878,7 +30878,7 @@ cancels
 croakiness
 culpae 1
 capreoline
-cathop
+cathop 1
 cosmologygy
 culpeo
 culpose
@@ -31012,7 +31012,7 @@ crashworthy 2
 currants 1
 cumengite 1
 chromobacterium 1
-clausiliidae
+clausiliidae 1
 carillonneur
 cytochylema
 cumenyl
