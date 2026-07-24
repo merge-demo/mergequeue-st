@@ -213,7 +213,7 @@ glagolitsa 2
 genetics 1
 greys 1
 gooks 1
-gravelstone
+gravelstone 1
 gags 4
 gambas 4
 gonoecium 1
@@ -3340,7 +3340,7 @@ ghostcraft 1
 germs
 glaucescence 1
 garment 2
-gigartinaceae
+gigartinaceae 1
 gypseous 1
 gynandries
 gethsemanic 2
@@ -3569,7 +3569,7 @@ ghazi 2
 grubber 2
 guiser
 gogos 2
-grewhound
+grewhound 1
 ghees 2
 gladen 1
 guanylic 1
@@ -7163,7 +7163,7 @@ glycolylurea 1
 genecor 1
 gorgeret
 gangrenescent 1
-gorgia 3
+gorgia 4
 girly 3
 gorglin 2
 gynerium 2
