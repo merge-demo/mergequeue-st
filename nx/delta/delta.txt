@@ -4393,7 +4393,7 @@ decayers
 demeore 1
 decap
 dependant 2
-dird 1
+dird 2
 demerit
 demiluster
 damoetas 1
@@ -4569,7 +4569,7 @@ disgust 2
 dackers
 demipique 2
 devotedness
-dishtowel 4
+dishtowel 5
 demipomada 1
 damned 1
 deproceduring 1
@@ -5918,7 +5918,7 @@ drillstock 2
 dottling
 devonic 2
 dollish
-depeculate
+depeculate 1
 deadeningly
 deprogrammings
 deprograms 1
@@ -6574,7 +6574,7 @@ disfiguring 3
 dearie 1
 ditched 2
 desecrations 1
-devotary
+devotary 1
 dhooti
 dubious 1
 delimits
@@ -10065,7 +10065,7 @@ desoxycorticosterone 1
 dehydrogeniser 1
 djalmaite
 dangers 2
-dynamogenesis
+dynamogenesis 1
 dauphins 1
 demological 2
 dynamograph
@@ -11655,7 +11655,7 @@ dimethylanthranilate 3
 daubiest 2
 disjunction 1
 dyotheletian
-dele 1
+dele 2
 discouraged
 displeasureably 2
 discouragingly 2
@@ -13381,7 +13381,7 @@ disquieted 1
 disunited
 disbandments 1
 doability 3
-djinn 1
+djinn 2
 diazoamin 1
 depression
 deevey 2
@@ -14116,7 +14116,7 @@ dovecot 1
 displace
 deepener 1
 dinotheres
-delinquence 2
+delinquence 3
 deciduitis 1
 dilettanteship 2
 distritos
@@ -14456,12 +14456,12 @@ diverticle 1
 daibutsu
 disguisedness 2
 disruptment 2
-diverticulosis 1
+diverticulosis 2
 disheveled
 dacyorrhea
 divertimenti
 divertimento 1
-denarcotize
+denarcotize 1
 drunkensome 1
 dehydrogenated
 drainages
@@ -14545,7 +14545,7 @@ divisibilities 3
 divisible
 division
 dollop 1
-distill
+distill 1
 divisional
 diachronicness
 durio 1
@@ -15348,7 +15348,7 @@ domesticator
 decylene
 dehumidifies
 diobolon 1
-deciliters 1
+deciliters 2
 difformity 1
 dikaryotic
 disencumbrance 2
@@ -17096,7 +17096,7 @@ debunk 2
 dentistic
 depressing 2
 dactyliographer 2
-dribbles
+dribbles 1
 dosers 1
 disthroning 1
 divisory
@@ -18003,7 +18003,7 @@ deaerator
 doornboom 3
 desamidization 1
 dui
-duikerboks
+duikerboks 1
 droskies 2
 dermatomuscular 2
 dianthera 1
@@ -18145,7 +18145,7 @@ dahlia
 debarrass
 dammed 1
 deucalion 1
-demythologizations 1
+demythologizations 2
 duplicate 1
 deterrer
 devisors 2
