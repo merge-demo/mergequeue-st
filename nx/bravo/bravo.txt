@@ -1607,7 +1607,7 @@ belat 2
 ballised 2
 biradial 1
 binate 3
-ballista
+ballista 1
 basketlike 2
 beatinest
 balboa 1
@@ -2271,7 +2271,7 @@ buddler
 bassoons
 barbarise 2
 barbarised 1
-benzazimide 1
+benzazimide 2
 barbarising
 bragless
 barbarities 2
@@ -2483,7 +2483,7 @@ bononian 1
 brethrenism 2
 bargham
 brie 1
-balbutient 1
+balbutient 2
 batino 1
 brendan 2
 barandos 3
@@ -3065,7 +3065,7 @@ barvel
 bunnell
 baleful 1
 beduin 1
-brainwashing
+brainwashing 1
 braza
 burhead 1
 boobishness
@@ -3153,7 +3153,7 @@ brevet 3
 burgoos
 bleakest
 bottleholder 2
-bonnes
+bonnes 1
 bimbisara 2
 burghemot
 bronchography 1
@@ -5504,7 +5504,7 @@ birdwoman
 bowieful 1
 brechites 2
 briefly 2
-boort
+boort 1
 bringdown
 bawty 2
 beingness
@@ -7251,7 +7251,7 @@ bestuds
 besully
 borith 1
 beswarm
-beswelter
+beswelter 1
 bethuel
 balti
 beguard
@@ -8637,7 +8637,7 @@ bowling 2
 blechnum
 basigenic 2
 baraza
-billon 2
+billon 3
 baronizing
 billow 1
 bimorph 1
@@ -8882,7 +8882,7 @@ baldpate
 belcher 1
 biobibliographer 1
 barleysick 1
-banilad
+banilad 1
 backwoodsiness 1
 berakot 1
 biocenology
@@ -9638,7 +9638,7 @@ brusquerie
 bluest 2
 bishari
 biasways
-byblis
+byblis 1
 bothridia 1
 bishop 1
 bummer 1
@@ -10005,7 +10005,7 @@ brahmic 1
 barrenness 1
 bivector 4
 biventer
-backseat
+backseat 1
 blackwashing 1
 bizarrerie
 bield
@@ -10359,7 +10359,7 @@ beamsman
 boston
 battlefield
 bespirit
-bundestag 1
+bundestag 2
 blamelessly 2
 bedplates
 blamers
@@ -10446,7 +10446,7 @@ bastion
 boghole
 blowbacks
 boobialla
-bhagat 2
+bhagat 3
 bimuscular
 barytostrontianite
 blaoner
@@ -10899,7 +10899,7 @@ blasphemy
 bevue 1
 bronchoadenitis 1
 bebled
-ba 1
+ba 2
 brideship 1
 benn
 biffing
@@ -11195,7 +11195,7 @@ bloodsuck 1
 bloomingly 2
 boleti 1
 biometer 2
-biforin 1
+biforin 2
 bellyfuls 1
 bloomless
 baptisia
@@ -11448,7 +11448,7 @@ bedrail 1
 brattices 2
 brininess
 baselessly 1
-butyraldehyde 4
+butyraldehyde 5
 beclowns 1
 boatheader
 bairnliest 2
@@ -12396,7 +12396,7 @@ bombus 4
 bombardelle 2
 bon
 backrope
-barenesses 2
+barenesses 3
 bonacis 1
 bootblack
 bonagh 2
@@ -15870,7 +15870,7 @@ borrelia 1
 beelol
 bratticer
 benaming
-bromauric
+bromauric 1
 balu 1
 brecciated 4
 backcloth 1
@@ -16489,7 +16489,7 @@ bulk
 bricker 1
 bishoplet
 borasque 1
-bimillennium
+bimillennium 1
 bozal
 biomaterial
 breathableness 2
