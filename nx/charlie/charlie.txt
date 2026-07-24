@@ -550,7 +550,7 @@ cadge
 cadi
 cyanhydric
 cadie
-counselors 1
+counselors 2
 christofer
 chlorobromide
 cadying
@@ -4200,7 +4200,7 @@ cardiorrheuma 1
 celts
 cardiosphygmogram
 citternhead
-cardiotrophotherapy
+cardiotrophotherapy 1
 cardiovascular 2
 coalhole 1
 chamomile 1
@@ -6577,7 +6577,7 @@ cchaddoorck
 ccid
 ccitt
 custodial
-caic 1
+caic 2
 commentation
 contributions
 charcuterie
@@ -11253,7 +11253,7 @@ chloridic 1
 chloridized 1
 collochemistry 1
 chemotropism
-compaternity 1
+compaternity 2
 carlin
 chlorimeter
 chlorimetric
@@ -13381,7 +13381,7 @@ concurrency 3
 cyclostomes
 cricketing
 cyclostomi
-cedent
+cedent 1
 cyclothymiac
 cocci 1
 contractile 1
@@ -14104,7 +14104,7 @@ cleidoscapular
 chimonanthus
 circuiteer
 clyer
-continues
+continues 1
 cementless 1
 conjugated
 circuiting
@@ -14635,7 +14635,7 @@ calumet
 cystophore 1
 cistophorus
 coadjustment 1
-cystophotography
+cystophotography 1
 coxier 1
 captans
 checkmating
@@ -16177,7 +16177,7 @@ chaunting 1
 cedula
 clime 1
 counterpenalty 1
-cavidae
+cavidae 1
 climograph
 conversazioni
 clinamen
@@ -23598,7 +23598,7 @@ cathodical 1
 continue
 coulthard
 continued
-continuedness
+continuedness 1
 comprovincial
 continuer
 cytostome
@@ -23732,9 +23732,9 @@ contraindicates
 contraindications
 cloudwards
 cologarithm
-contralateral
+contralateral 1
 cirsectomy 2
-crappers
+crappers 1
 conjunctural 1
 chessmen
 collatitious
@@ -24136,7 +24136,7 @@ chude 1
 computerizable 1
 candlelit
 cocowort
-conclavist 1
+conclavist 2
 coassignee
 chedites 1
 conformation
@@ -28800,7 +28800,7 @@ clarinettist 1
 confederatio 1
 cantino 1
 cresegol
-cargo
+cargo 1
 cresyl
 cresylate 1
 cresylic
@@ -29797,7 +29797,7 @@ croons 1
 croose
 coinmaker
 cliftonia
-crop 1
+crop 2
 carniolan 2
 crophead
 cytomitome
