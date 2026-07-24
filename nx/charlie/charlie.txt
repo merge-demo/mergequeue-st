@@ -16578,7 +16578,7 @@ cloner
 caps 1
 collateralize 2
 contraparallelogram 1
-complicities
+complicities 1
 clonic
 clonicity
 cytophaga
@@ -18733,7 +18733,7 @@ colacobiotic 3
 convertors
 consists
 colane
-clinching 1
+clinching 2
 choleokinase 1
 colas
 corsaint 3
@@ -23082,7 +23082,7 @@ consortial
 consortism
 consortitia
 cornwallis 1
-consortship
+consortship 1
 cfm
 consoude 1
 choosey
