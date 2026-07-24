@@ -29,7 +29,7 @@ freeman 3
 floodlet
 fourchee 1
 fieldmen 2
-fibrolitic 1
+fibrolitic 2
 feaked
 fibrocyst 1
 fabricates 1
@@ -236,7 +236,7 @@ freeload 2
 fodder 1
 forspend
 fidgets 2
-fluviation
+fluviation 1
 forwhy
 founder 3
 feoffeeship
@@ -1363,7 +1363,7 @@ fiche
 fornicates 1
 formose 3
 fortuneteller
-foreshower 1
+foreshower 2
 fibrocaseose
 ferkin 2
 filmy 3
@@ -2062,7 +2062,7 @@ frothiness
 foggiest 1
 felahin
 fissipes 3
-fendillation 1
+fendillation 2
 favissae 1
 fusulas 1
 fieldfare 3
@@ -2216,7 +2216,7 @@ fruiting
 fragrancy
 feminility 1
 feminin
-fondlesome 1
+fondlesome 2
 fluorinates 1
 fertilise 2
 foals 1
@@ -2583,10 +2583,10 @@ feinting 1
 fumes 1
 forechase 2
 fogramity 1
-flongs 3
+flongs 4
 ferrocyanate 1
 formicid
-ferroelectric 1
+ferroelectric 2
 fribblery 1
 fattier 2
 ferrogoslarite 1
@@ -2634,7 +2634,7 @@ fibrinogenic
 fervent 1
 formalizable 2
 funnel 1
-flusters 3
+flusters 4
 foreshoulder 4
 figuratively 2
 fastidious 2
@@ -2644,7 +2644,7 @@ fundable
 forcipulata 3
 farmyardy 3
 fabric 2
-falanaka 2
+falanaka 3
 fixed
 feluccas 1
 freshes 4
@@ -2738,7 +2738,7 @@ fraternization 1
 forelimbs 1
 fyce 1
 feod 1
-fusses 2
+fusses 3
 fraela 1
 folklore 3
 faunas 1
@@ -3601,7 +3601,7 @@ fazing 2
 foreroom
 floatboard 1
 flowcontrol 1
-flagitation 1
+flagitation 2
 fullymart 2
 frosting 1
 filially 4
@@ -4605,7 +4605,7 @@ fringilliform 1
 fitchee 2
 fibrocalcareous 3
 filagrees
-ferring 1
+ferring 2
 flowmanostat 1
 folsom 1
 footweary 2
@@ -4642,7 +4642,7 @@ filicides 3
 federatively 2
 faussebraye 1
 fatherless 2
-fourthly 3
+fourthly 4
 fatale
 flange 1
 forages 2
@@ -4750,7 +4750,7 @@ feuillage 1
 fulldo 1
 flag 3
 forestalment 2
-flammiferous 1
+flammiferous 2
 fruiteress 2
 furloughing 3
 flagellariaceous
@@ -5166,12 +5166,12 @@ fadged 1
 fumulus 1
 faceting 1
 flatted 1
-flatteringness 1
+flatteringness 2
 fuzziest 2
 flustered 1
 fistulina 1
 fetalization 5
-farsakh 1
+farsakh 2
 flatulency 2
 flatfeet 2
 flatulencies 2
@@ -5506,7 +5506,7 @@ fossed 1
 fretwork 1
 forbarred 1
 fratching 2
-foraged 1
+foraged 2
 fleshy 1
 fillet 1
 fettuccine
@@ -6022,7 +6022,7 @@ floralize 1
 floras 2
 furnaced 1
 focusless 2
-freakish
+freakish 1
 frottage
 fluty 1
 floreating 2
@@ -6469,7 +6469,7 @@ flightful 1
 foulness 2
 fuzing 1
 fictor 2
-forgot 3
+forgot 4
 fruitages
 fissilingual
 farriery
@@ -6770,7 +6770,7 @@ feedwater 2
 formative
 fronded 1
 fissate
-focal 1
+focal 2
 folacin
 falsidical
 foibles
@@ -6837,7 +6837,7 @@ foliaged
 firetower 1
 fustigator
 flipjack 2
-fourhanded
+fourhanded 1
 fabled 2
 furomonazole 1
 foliary 2
@@ -7350,7 +7350,7 @@ foraminose
 foraminulate 1
 fought 3
 flabbily 1
-foraneen 2
+foraneen 3
 ferrateen 2
 ferocious 3
 fluoridising
@@ -8762,7 +8762,7 @@ fid 2
 frisette 1
 fortifys 1
 fraudulence
-finalist 1
+finalist 2
 ferther
 framboesia 2
 finniest
@@ -8876,7 +8876,7 @@ frakfurt
 fleeringly
 fossillike 3
 foozles 1
-fossilogy 1
+fossilogy 2
 fload
 firmest
 fettstein 3
@@ -9642,7 +9642,7 @@ forehold
 flagellant 1
 fretting 2
 florilage
-fussing 1
+fussing 2
 fatalists
 faqir 2
 foreseeability 1
@@ -9942,7 +9942,7 @@ forcelessness 1
 flintstone 1
 flitching 1
 fraghan
-frits 1
+frits 2
 friskier 2
 folliculous 1
 foliaceousness 2
@@ -10171,7 +10171,7 @@ froughy 2
 frogstool
 fumarium 1
 feasibility
-falchions 6
+falchions 7
 finalize
 fricatives
 fluid 3
@@ -10192,7 +10192,7 @@ falcidian 1
 ferrihydrocyanic
 foresing
 fief
-freycinetia 3
+freycinetia 4
 flaxen 2
 foreannouncement 3
 forbit
@@ -10863,7 +10863,7 @@ flus 1
 flavorous 3
 ferule 3
 fennici 3
-fulfullment 3
+fulfullment 4
 functionless 1
 fontanels 2
 flippest 3
@@ -10915,7 +10915,7 @@ forthcoming 3
 foraminous 2
 fractural 1
 ferrum
-ferris 1
+ferris 2
 fulled
 feeing 2
 fieldwort
@@ -10926,7 +10926,7 @@ fides
 fulleries
 familiarising 1
 fleets 2
-frowsty 3
+frowsty 4
 flivver
 fletched
 fullmouthed
@@ -11122,7 +11122,7 @@ flops 1
 fervanite 1
 foyaite 1
 flatbread 2
-fimbriating
+fimbriating 1
 feculae
 fastland 2
 formality
@@ -11235,7 +11235,7 @@ fistulae
 foreday 1
 farsang 2
 furzed 1
-funiculars
+funiculars 1
 funiform 2
 fanum 3
 fount
@@ -11557,7 +11557,7 @@ floeberg
 fledgy 1
 folio 3
 fretfully
-ferociousness
+ferociousness 1
 fungals 2
 footlessly 1
 fusil 1
