@@ -3524,7 +3524,7 @@ bravissimo 1
 bogging 1
 bois
 bitterhearted 1
-bateau 1
+bateau 2
 bateleur
 brickel 1
 barbered
@@ -4009,7 +4009,7 @@ beacons 1
 buoyancy 4
 beadeye 3
 beader
-bellmaker 1
+bellmaker 2
 barnhardtite
 beerothite
 binges
@@ -5056,7 +5056,7 @@ befalling 1
 befalls
 blusteringly 1
 botanised 1
-battlers
+battlers 1
 blazoned 1
 bowfin 1
 bloodthirst 1
@@ -10460,7 +10460,7 @@ blaring 1
 bookwise
 brimborium
 bedeafens 2
-blarneys
+blarneys 1
 bridgetree 1
 blarny
 blout 2
@@ -12286,7 +12286,7 @@ boltmaker
 bunga
 blee 1
 bombaster 2
-bodock 1
+bodock 2
 bowfront
 biquartz 3
 brogans
@@ -13182,7 +13182,7 @@ beadleism
 bullhorns 1
 boatload
 baronize
-bangtail 1
+bangtail 2
 brachycephalize 5
 bisayan 1
 bourlaw 3
@@ -15434,7 +15434,7 @@ baronetcy
 benzylidene
 bannerlike 1
 becket 2
-brainwork
+brainwork 1
 brightish 1
 bottomers 1
 bebelted 3
@@ -16696,7 +16696,7 @@ bilaan 1
 babelish 1
 buckhounds
 bucklum
-bucky 3
+bucky 4
 belaboring
 besa 2
 buckishness
@@ -17107,7 +17107,7 @@ baldpated
 bulletining
 batches 2
 bulletless
-branchiobdella
+branchiobdella 1
 basecoat 1
 bulletlike
 burghmote
@@ -17630,7 +17630,7 @@ burgomasters
 bullfighting 2
 burgomastership 3
 burgundy
-bishareen 4
+bishareen 5
 burhel 1
 bombic 3
 bisson 3
