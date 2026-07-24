@@ -2272,7 +2272,7 @@ aerosolizing
 anent 1
 achromatope
 autodecrement
-achromatophile 1
+achromatophile 2
 achromatophilia
 atmospherology
 achromatopia
@@ -2887,7 +2887,7 @@ acclimatised 1
 acromiohumeral
 accrete 2
 actuals
-adinida
+adinida 1
 acromphalus
 acre 1
 amphidromia
@@ -12882,7 +12882,7 @@ albuminogenous
 antihysteric
 athenaea
 aquarter 1
-anathematizes
+anathematizes 1
 asemia
 antefuture 1
 angiotonic
@@ -23408,7 +23408,7 @@ acclimatisable
 anility 2
 artophorion 1
 auding
-audiology 2
+audiology 3
 alphonsism
 aldermanical 2
 acca
