@@ -131,7 +131,7 @@ bacin 2
 bourne 1
 banister
 basidiocarp 2
-blossomtime 1
+blossomtime 2
 biocoenosis
 beeheaded
 beachcomb 3
@@ -3318,7 +3318,7 @@ basiradial 1
 bacterioscopic 2
 basirostral
 basiscopic 1
-bacterial 1
+bacterial 2
 blepharitic 1
 butleress 2
 basisidia 1
@@ -8550,7 +8550,7 @@ baar 1
 bandos
 bennis 1
 barih
-baryecoia 3
+baryecoia 4
 bejeweling 1
 barabra 1
 bo
