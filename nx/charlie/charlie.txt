@@ -12125,7 +12125,7 @@ ctenostome
 circler 1
 chowries
 chroatol 1
-chows
+chows 1
 causer
 crambo 1
 chancellorate
@@ -23839,7 +23839,7 @@ coryphees
 contrefort
 contrepartie
 catalyzed
-charpoy
+charpoy 1
 chewink 1
 cannonades 1
 contrib
@@ -25393,7 +25393,7 @@ cornetcy
 cornetcies 1
 carlock 1
 chunkier
-cornetist 2
+cornetist 3
 cornetists 3
 cornets 1
 coquette
@@ -27977,7 +27977,7 @@ conferencing
 craftiness 1
 craftless
 croucher
-charactonym
+charactonym 1
 craftsmanship
 craftsmaster
 cistophori
