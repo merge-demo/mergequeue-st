@@ -7331,7 +7331,7 @@ cephalochordal
 cephalochordata 1
 cephaloclast
 cephalocone 1
-cephalodia
+cephalodia 1
 cephalodymus 1
 cephalodiscid 2
 cephalodiscida 1
@@ -10439,7 +10439,7 @@ chikee
 chiliomb 1
 conversative
 chil
-complementation
+complementation 1
 chilacayote
 calinago 2
 cleistogamous
@@ -11419,7 +11419,7 @@ cheerfulsome
 ciboule 2
 confetto
 cabrioles 2
-cloakless 1
+cloakless 2
 chondriosome 1
 cho 1
 complete 2
@@ -29905,7 +29905,7 @@ crossfertilizable
 censusing
 crossfired
 craniodidymus 1
-crossfish
+crossfish 1
 crossflow 1
 crossfoot 2
 cumhal 1
@@ -30697,7 +30697,7 @@ chordates
 comparability
 cudgeled
 cudgeler 1
-calymene
+calymene 1
 cudgelers
 counterwind 1
 complexometric
@@ -30989,7 +30989,7 @@ congeries
 cumberer
 cumbering 2
 cumberland 1
-codefendants 1
+codefendants 2
 cumberless 1
 coix
 cumbersomeness
