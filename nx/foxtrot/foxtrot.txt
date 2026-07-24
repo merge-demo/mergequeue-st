@@ -2825,7 +2825,7 @@ fumigatories 2
 fcomp 1
 fretted
 faunae
-fibrointestinal 1
+fibrointestinal 2
 ficus 3
 fluidly 1
 flosses 1
@@ -4150,7 +4150,7 @@ faithwise 1
 figments 1
 farmhouses 3
 formentation
-forthrights
+forthrights 1
 firebox 3
 flocculation
 fellowcraft 2
@@ -8359,7 +8359,7 @@ fossilising
 fossilizable 3
 familyish 3
 forhow 2
-ficoidaceae
+ficoidaceae 1
 facelift 1
 funniest 1
 favuses 2
