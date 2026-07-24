@@ -131,7 +131,7 @@ bacin 2
 bourne 1
 banister
 basidiocarp 2
-blossomtime 1
+blossomtime 2
 biocoenosis
 beeheaded
 beachcomb 3
@@ -858,7 +858,7 @@ baftah
 battologizing 1
 brecciation 1
 baga 1
-benzenoid 1
+benzenoid 2
 blatherer
 biniodide 1
 biochron
@@ -2504,7 +2504,7 @@ benzoiodohydrin 1
 bechalked 3
 bultow 1
 bruting 1
-bandelet 1
+bandelet 2
 barfish
 buckraming 1
 billbugs 1
@@ -3318,11 +3318,11 @@ basiradial 1
 bacterioscopic 2
 basirostral
 basiscopic 1
-bacterial 1
+bacterial 2
 blepharitic 1
 butleress 2
 basisidia 1
-bescribbling
+bescribbling 1
 bemingling 1
 bedwell 1
 bummack
@@ -4071,7 +4071,7 @@ becolme
 bulgers 1
 bearcats
 beamingly
-bottlefuls 1
+bottlefuls 2
 beamman
 bhakta 1
 buckwash
@@ -4307,7 +4307,7 @@ bushwood
 bibliotherapeutic 1
 blubbers 1
 biliteralism
-bushbodies
+bushbodies 1
 batiker
 boebera
 barly
@@ -6353,7 +6353,7 @@ burgher 1
 bemocking
 billsticking 1
 blowspray
-boilerful
+boilerful 1
 belite 1
 barani
 benzidino 3
@@ -6386,10 +6386,10 @@ benzodiazole
 burdener 1
 benzofulvene 4
 bollen 1
-benzofuran 1
+benzofuran 2
 biozone 1
 benzoglycolic
-bastioned
+bastioned 1
 benzohydrol 1
 benzoylated
 becuna
@@ -10986,7 +10986,7 @@ blithesomely
 bothnian 1
 buoyage 1
 backseats 1
-bossiest
+bossiest 1
 bkgd 1
 biddery
 benzotriazine 1
@@ -11979,7 +11979,7 @@ bolts
 brinie
 bogmire 4
 borine
-baggit
+baggit 1
 bedwarf 1
 bipack
 bogong 2
@@ -14959,7 +14959,7 @@ bumpee 2
 bristol
 boozify 1
 breastie 1
-breasting 1
+breasting 2
 brinston
 berloque
 backspear 1
@@ -15765,7 +15765,7 @@ bandyman
 beneficiating 1
 brochettes 2
 burble
-brambly 1
+brambly 2
 beamster 3
 bandmasters
 brainiest
@@ -17171,7 +17171,7 @@ buckramed 1
 beeish
 butyrate 1
 blastopore 1
-bookish
+bookish 1
 bullition
 bar
 boggin 3
