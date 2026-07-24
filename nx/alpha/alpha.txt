@@ -7979,7 +7979,7 @@ anorak
 annually
 adp 1
 alerters
-autotropically
+autotropically 1
 amygdules
 alerting
 ales 2
