@@ -1095,7 +1095,7 @@ farthing 2
 foresay
 fluffing 2
 feverishness
-flamingly 2
+flamingly 3
 fractional
 filiates 2
 farthings 3
@@ -3615,7 +3615,7 @@ fanwort 1
 figurize 4
 filibusterers 1
 fourble
-fomento 2
+fomento 3
 freddie 4
 ferroinclave 1
 fence
@@ -4541,7 +4541,7 @@ foreglance 1
 fisheress
 fairyfolk 3
 filibranchia 2
-fishgigs 1
+fishgigs 2
 fatiguing
 fealties 4
 flagellation 3
@@ -8391,7 +8391,7 @@ furriner 1
 flagellata 1
 forkedness 3
 flinthearted
-folderol
+folderol 1
 feastful 1
 fewsome 1
 feigningly 2
@@ -8821,7 +8821,7 @@ fitchy 2
 fragmentate 1
 forgemen 2
 faradization 1
-fiberglass
+fiberglass 1
 floret 1
 forechurch 1
 flunking
