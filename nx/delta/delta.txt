@@ -1706,7 +1706,7 @@ damping
 dottard 2
 drepanid 2
 dipleiodoscope
-dupability
+dupability 1
 disadvantage 1
 dignity 1
 disentrain
@@ -4704,7 +4704,7 @@ dagswain 2
 democrat
 dawdles 1
 douar 1
-dogbody 1
+dogbody 2
 depraves 1
 dsnames
 democratic 1

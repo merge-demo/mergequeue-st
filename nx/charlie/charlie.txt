@@ -6873,7 +6873,7 @@ celt
 cofaster 1
 celtiberian
 celticize 1
-counterwill
+counterwill 1
 celtidaceae 2
 celtiform 2
 consortiums 3
@@ -9659,7 +9659,7 @@ cheeselip 1
 cephalochorda
 cheesemaker 2
 cheesemaking
-cheesemongering
+cheesemongering 1
 cheeseparer
 canaster
 cerebrasthenic 1
@@ -12125,7 +12125,7 @@ ctenostome
 circler 1
 chowries
 chroatol 1
-chows
+chows 1
 causer
 crambo 1
 chancellorate
@@ -15584,7 +15584,7 @@ clathrate
 choose 1
 clathrinidae 1
 clamant
-clathroid 1
+clathroid 2
 clathrose 1
 cranes
 camelkeeper
@@ -27977,7 +27977,7 @@ conferencing
 craftiness 1
 craftless
 croucher
-charactonym
+charactonym 1
 craftsmanship
 craftsmaster
 cistophori
