@@ -1035,7 +1035,7 @@ edgeboned 2
 erected
 eringos 2
 exsheath
-edged 2
+edged 3
 eidolon
 edger
 edgeshot
@@ -1279,7 +1279,7 @@ exemplifiable 1
 earthless 2
 endearedly 2
 enfelon 2
-effectiveness
+effectiveness 1
 escuages 1
 explicatively
 extine 1
@@ -2798,7 +2798,7 @@ elves 2
 elenchize 3
 extrascientific 2
 ecthlipsis 1
-eath
+eath 1
 electrocutes 1
 effeminately
 electrobrasser
@@ -4529,7 +4529,7 @@ esoterism 2
 executionist 1
 enlightened
 exploited
-englante 3
+englante 4
 exition
 enteromegaly 1
 expel 1
@@ -5892,7 +5892,7 @@ exoenzymic
 embuskin
 encages 2
 expos 3
-ephemeron 1
+ephemeron 2
 exclave
 enstatitic
 esophagogastrostomy 1
@@ -6939,7 +6939,7 @@ entreaties 1
 enterograph
 excavatorial 1
 enfuddle 2
-eager
+eager 1
 entreats 2
 esophagopathy 1
 entrec 2
@@ -9900,7 +9900,7 @@ ectrodactylous
 electromagnetics 2
 exude 2
 enplane 1
-exoculated 1
+exoculated 2
 effemination 1
 epidermatic
 expiatoriness
@@ -10102,7 +10102,7 @@ enhaloes 2
 essoins 2
 exploitee 1
 elenchically
-eumolpus 1
+eumolpus 2
 eutopia
 euphausiacea 1
 ethereality 1
@@ -12089,7 +12089,7 @@ epacridaceae 2
 excrementive 1
 epigonus 1
 extrasensory
-enfolder
+enfolder 1
 eccentric 2
 eris 1
 enfoldment 1
@@ -12186,7 +12186,7 @@ excusably 2
 enswathing 1
 endlessness 3
 embryologies 2
-entertainments 3
+entertainments 4
 estrado 1
 exostome 1
 embergoose 1
