@@ -1813,7 +1813,7 @@ brachman 3
 burdie
 bamboula
 banterer 1
-boswellized
+boswellized 1
 bowmen 1
 balloonet 1
 bedsprings 1
@@ -5924,7 +5924,7 @@ beden
 backswordmen 1
 batswing 1
 blitzkrieg 1
-butterroot
+butterroot 1
 belast 1
 berber 1
 brandenburgs 1
@@ -11787,7 +11787,7 @@ burmannia 1
 barnful 1
 blitzed 3
 becloaking
-br
+br 1
 bluisness
 billingsgate
 buckwheat 4
@@ -13415,7 +13415,7 @@ blanche
 brushing
 blennenteria 1
 bedeswoman
-bartisans 1
+bartisans 2
 bulgier 1
 birles 1
 beaver
