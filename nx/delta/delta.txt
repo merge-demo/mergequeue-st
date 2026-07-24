@@ -2482,7 +2482,7 @@ dulls
 drumlin
 discal
 diatropism 1
-deferral
+deferral 1
 duds 2
 dishonourary 1
 declaim
@@ -2827,7 +2827,7 @@ decubital 1
 dezincked
 duodenums 1
 downstater
-daur 1
+daur 2
 desiring 2
 diaclasis
 decubiti 1
@@ -5449,7 +5449,7 @@ devoiced
 dorsiventrality 1
 deoxidize 1
 doryphoros 1
-dews 1
+dews 2
 deoxygenated
 depaints 2
 divestitures
@@ -9353,7 +9353,7 @@ downhill 3
 diplopia
 dinarchies
 differer 1
-differs
+differs 1
 duncify 2
 deprive
 difficileness
@@ -9448,7 +9448,7 @@ dozener 1
 digeneous 1
 decubitus
 dissert
-digenetic 1
+digenetic 2
 digenetica
 digue 3
 diplanetism 1
@@ -11651,7 +11651,7 @@ deepeners 2
 dirhams
 disarranger
 discour 2
-dimethylanthranilate 2
+dimethylanthranilate 3
 daubiest 2
 disjunction 1
 dyotheletian
