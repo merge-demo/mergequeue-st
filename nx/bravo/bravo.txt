@@ -360,7 +360,7 @@ boled 2
 brume
 bradypepsy
 backfiring 2
-basichromatinic
+basichromatinic 1
 backflowing
 backframe 3
 bottegas 1
@@ -1101,7 +1101,7 @@ buncos 3
 bibliomanian
 brent
 burel
-bayonets
+bayonets 1
 benefactors 1
 bifacial 2
 blksize 1
@@ -3012,7 +3012,7 @@ beared 2
 bidirectionally
 boist 1
 bartenders
-bartending
+bartending 1
 bulbiferous 1
 bartends 1
 burthened 1
@@ -3147,7 +3147,7 @@ biuniquely
 basenesses 1
 bangiales 1
 bunda
-beforeness 2
+beforeness 3
 blurrer 1
 brevet 3
 burgoos
@@ -3555,7 +3555,7 @@ backslidden
 bicondylar 1
 baryons
 becudgel 1
-bimini 1
+bimini 2
 blacknob 2
 bathycentesis 1
 benincasa
@@ -5400,7 +5400,7 @@ banstickle 1
 busheled
 birds
 bloodripeness 2
-bisagre
+bisagre 1
 briquets
 babelic 2
 begulf 3
@@ -5732,7 +5732,7 @@ budge 2
 believingly
 brerd 1
 burials 1
-backsight 2
+backsight 3
 bandlimit 2
 belight
 baaed 2
@@ -5778,7 +5778,7 @@ bylining
 bellboys
 belay
 belled 1
-biotechnologicaly
+biotechnologicaly 1
 boomlet 1
 bearably
 beblubbered
@@ -7626,7 +7626,7 @@ bakshish
 brog 1
 bullocks
 borne 1
-butanones 2
+butanones 3
 bravade 2
 beziques
 bestsellers 1
@@ -8610,7 +8610,7 @@ belatedly 2
 beeswinged 1
 becowards 1
 billiards
-billyboy
+billyboy 1
 bivalved 1
 brules
 billies
@@ -9756,7 +9756,7 @@ biramose
 bankbook
 backslapped 3
 boatie 1
-byssoid 1
+byssoid 2
 brachiated
 buckskin 1
 bedragglement 2
@@ -12505,7 +12505,7 @@ brobdingnag 2
 bonedry
 bimillenium 2
 broodier
-bellyflaught 2
+bellyflaught 3
 barcarolle
 biennially
 brakier 2
@@ -13211,7 +13211,7 @@ bose 1
 boselaphus
 bruskness 1
 bannockburn 1
-blaoners
+blaoners 1
 blackboy 2
 boshbok 2
 breadthless 1
@@ -14692,7 +14692,7 @@ bibliomancy
 balustrade 1
 balletically
 bogle 1
-bathic 1
+bathic 2
 broilingly
 buffets
 babion 1
@@ -15074,7 +15074,7 @@ breenger
 babushka 1
 breezeway 2
 bulbocapnin 1
-botel 2
+botel 3
 beastliness 1
 bowdlerise
 besanctify 2
@@ -16782,7 +16782,7 @@ boswell
 batteuse 1
 buddleia
 bunkhouses 3
-blockhole 2
+blockhole 3
 buddleias
 brainstem 1
 bicarbonate 1
