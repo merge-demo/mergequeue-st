@@ -6677,7 +6677,7 @@ cursorial
 ceibo
 counterthrust
 ceil 2
-celestine
+celestine 1
 ceilers
 ceilidhe
 ceiling 1
@@ -7115,7 +7115,7 @@ centner 1
 carunculate
 centners 3
 centones 1
-centonism
+centonism 1
 capitals 1
 centonization
 centos 1
@@ -8325,7 +8325,7 @@ challises
 challot 1
 campagnols
 challote
-carotidean
+carotidean 1
 catalogers
 carburated
 caseate
@@ -11367,7 +11367,7 @@ chlorophyllide
 choliamb 1
 catastrophical 1
 commonish 1
-chlorophylligenous 1
+chlorophylligenous 2
 chlorophylligerous 1
 communional
 cunili
@@ -16294,7 +16294,7 @@ clio
 cresses 1
 canterer 1
 clipboard
-clipboards 1
+clipboards 2
 clypeastridea
 chicky 1
 clypeastrina 1
@@ -16571,7 +16571,7 @@ conniver
 clokies
 casthouse
 clomiphene 1
-clomp
+clomp 1
 clonal 2
 cloned
 cloner
@@ -18551,7 +18551,7 @@ corselet 1
 comparition
 cankerflower 1
 cataphyllary
-contingents
+contingents 1
 considerateness
 clypeole
 coif 1
@@ -24647,7 +24647,7 @@ copis
 cowling 1
 chicnesses 1
 coattended
-caedmonic
+caedmonic 1
 copywriters 1
 causticizing 2
 concretes 1
@@ -25335,7 +25335,7 @@ cornballs
 cornberry 1
 counterscale
 cornbind
-checkerboards
+checkerboards 1
 cricking
 chromoisomerism
 cassoulet 1
@@ -26331,7 +26331,7 @@ chacoli
 costopneumopexy
 collusiveness 1
 cicerone 1
-costosternal 1
+costosternal 2
 costothoracic 1
 costotome 1
 carbonnieux
@@ -28329,7 +28329,7 @@ circuitor 1
 crave 1
 craved
 craven 1
-cudbears
+cudbears 1
 churchmen
 clans
 coheretic
@@ -30178,7 +30178,7 @@ cruciation 3
 crucible 1
 credulousness
 cuticularization
-chimango 2
+chimango 3
 chemicoengineering
 cruciferae
 crucify
