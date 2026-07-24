@@ -4898,7 +4898,7 @@ burglarproof
 beebee 1
 bradystalsis 2
 bewpers
-backspier 1
+backspier 2
 beechen
 beechnut
 breakstone
@@ -9060,7 +9060,7 @@ biophagism
 biophysic 1
 burghmaster
 biophysiography 1
-balibuntal 2
+balibuntal 3
 biophysiology
 barky 2
 butterier 1
@@ -11363,7 +11363,7 @@ bludgeons 1
 bludger
 besoothe 3
 bescatter
-bewitchedness
+bewitchedness 1
 benmost 1
 bakeapple 1
 beguiled
