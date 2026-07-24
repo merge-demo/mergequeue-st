@@ -337,7 +337,7 @@ fivish
 factions 1
 forfeiture
 flyingly 1
-fellers 2
+fellers 3
 flattering 1
 festival
 fiercening
@@ -416,7 +416,7 @@ fibroligamentous 2
 fauchards 4
 fur 1
 frockmaker 2
-fairship 3
+fairship 4
 feal
 flitting
 fogmen
@@ -1066,7 +1066,7 @@ fudgy 3
 fishling 2
 fastback
 frazed 4
-farrisite
+farrisite 1
 farfetched 2
 fleerish 1
 firehalls
@@ -1511,7 +1511,7 @@ freely
 faurd
 foreseat
 flippant
-fanfaron
+fanfaron 1
 foulish 2
 foreshift 1
 fauterer 1
@@ -1618,7 +1618,7 @@ folkway 2
 featishly 1
 fazes 2
 fiard
-flophouse 2
+flophouse 3
 fied 1
 fizzing 5
 fellowless 1
@@ -1946,7 +1946,7 @@ flanchard 1
 furzier 1
 forworn 4
 flated 3
-formulization
+formulization 1
 fishlet
 flagellantism 1
 fowlery 1
@@ -10207,7 +10207,7 @@ flaxwoman 3
 fluttered 1
 fimbria 2
 falcer
-friulian
+friulian 1
 fibroadenia 2
 frizzy
 foresightedly 1
@@ -10249,7 +10249,7 @@ finn
 fractures
 falcated 1
 flaming 3
-frogman 3
+frogman 4
 fluoroscopically 1
 fasciodesis 1
 footboys 2
@@ -10599,7 +10599,7 @@ foreloper 1
 favose 3
 feudalist 2
 funambulation 1
-fruchtschiefer 4
+fruchtschiefer 5
 fructescent 2
 flumadiddle 1
 filmily 2
@@ -11056,7 +11056,7 @@ filiferous 1
 frontignac
 fraction 2
 fumarate 1
-fantasizing
+fantasizing 1
 flammulated 1
 foothook
 fontainea 1
