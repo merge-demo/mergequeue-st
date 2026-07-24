@@ -829,7 +829,7 @@ afterhelp
 abrood 2
 abrook 1
 aiel 1
-atrabiliary 1
+atrabiliary 2
 abruptio
 antianaphylactogen 1
 acropolises
@@ -1835,7 +1835,7 @@ actinobacillus
 auditorily 3
 antieducationist 2
 acensuada 1
-acetyl 1
+acetyl 2
 acopyrine 1
 acensuador
 assay
@@ -5717,7 +5717,7 @@ anisomelus 1
 agalena
 agalenidae
 ambalam
-agallochs
+agallochs 1
 acupunctuation
 afunction
 aquafortist
@@ -5786,7 +5786,7 @@ aguacate
 antitussive 1
 abapical
 adduceable 2
-agnathous 1
+agnathous 2
 answers 3
 afeared 1
 agapeti 1
@@ -6211,7 +6211,7 @@ agnoite
 anniversary
 ankylurethria
 ababua
-appar 1
+appar 2
 agnosia
 antimonic 1
 anisogamic
@@ -6758,7 +6758,7 @@ acardia
 aine
 antinegro 1
 aubrey 1
-ainee
+ainee 1
 allures 1
 ainhum 1
 arrivederla 1
@@ -9006,7 +9006,7 @@ allopsychic
 appleroot 2
 ataghan 1
 arsnicker 1
-allose
+allose 1
 allosyndetic
 allosome
 allosteric
@@ -9986,7 +9986,7 @@ ambassade
 appreciatively
 alkynes
 awheft 1
-adactylia 1
+adactylia 2
 alerion
 ambassadorially
 ascription
@@ -10042,12 +10042,12 @@ ambiency
 antifreezing 1
 adiposogenital
 anomy
-apectomy 1
+apectomy 2
 antimythical
 ambients
 ambigenal
 abounded
-arboreal 1
+arboreal 2
 appel
 arousing 1
 ambigu 1
@@ -10665,7 +10665,7 @@ amylidene
 amylo
 autochemical
 allergens
-addleheaded
+addleheaded 1
 amyloclastic
 assists 1
 aponogetonaceae
@@ -10937,7 +10937,7 @@ ammotherapy 1
 ammu
 amnesia
 amnestied
-adulterated
+adulterated 1
 aimer 1
 acneform
 autohypnosis
@@ -11772,7 +11772,7 @@ acnodes 1
 anagogic 3
 ambar 2
 aventayle
-apposes
+apposes 1
 advecting
 anagrammatically
 atmocausis
@@ -17737,7 +17737,7 @@ ammunition 3
 applicatively
 applicatory 1
 appliedly
-afterdischarge
+afterdischarge 1
 allegorized
 alcibiadean 1
 abacterial
@@ -17863,7 +17863,7 @@ anaclisis 1
 apiculus
 amblers
 acquired
-apprehending
+apprehending 1
 antonomasy 2
 algraphy 1
 awan
@@ -18204,7 +18204,7 @@ anasarca
 amphiprotic 1
 assassination
 ammonocarbonous
-aquiclude 1
+aquiclude 2
 animable
 alumnol 1
 ankylos
@@ -19307,7 +19307,7 @@ autumnity 3
 administratress
 areometry
 airdrop 2
-awm 1
+awm 2
 areometrical
 areopagite
 anniversariness
@@ -19448,7 +19448,7 @@ archaeoceti 2
 attempting
 adighe
 autonomically
-acaena 2
+acaena 3
 argillaceous 1
 affectively 1
 amphipodiform 1
@@ -20159,7 +20159,7 @@ acoelomata 1
 arrastra 1
 aoli 1
 alodially
-appendorontgenography
+appendorontgenography 1
 acidulation 1
 arratel
 asclepieion 1
@@ -20226,7 +20226,7 @@ arriere 3
 arythmias
 axin
 arriet 1
-abstracting
+abstracting 1
 altschin
 anthologise 1
 aphides
@@ -20360,7 +20360,7 @@ aeolotropy
 arsenostyracol 1
 arthritically
 aldermanlike 1
-amyous
+amyous 1
 admeasure
 apostolicalness 2
 arcsines 1
@@ -20877,7 +20877,7 @@ antiparasitically
 acetose 1
 ashiver
 atherosperma
-asaphia 1
+asaphia 2
 ambulators 2
 azotized 1
 aerosinusitis
@@ -20994,7 +20994,7 @@ arenae 1
 archgenethliac 1
 axeman
 ascertain 2
-accomplishable 2
+accomplishable 3
 ascertainably
 ascertaining
 ametoecious 1
@@ -21086,7 +21086,7 @@ alpinely 2
 anesthetizer 1
 alabama
 avariciously 2
-absconders 1
+absconders 2
 anthropolith
 aunts 2
 alleyite
@@ -21172,7 +21172,7 @@ ankylotome 2
 anticar
 alphabetics
 asemic
-asepses
+asepses 1
 anagogical
 assiduate
 arginases
@@ -23340,7 +23340,7 @@ atwist
 anticlassicalism 1
 accompaniments
 anthralin 2
-atwite 1
+atwite 2
 aryballoid 1
 aggry 1
 aubain
@@ -23604,7 +23604,7 @@ altimetry
 aunthood
 arawakan
 antitraditionally 1
-analogise 3
+analogise 4
 arthrolithiasis 4
 auntie 1
 anama 2
@@ -24220,7 +24220,7 @@ aminities
 automated 2
 argentite 1
 automates
-arabidopsis 2
+arabidopsis 3
 analagous
 agronomist 2
 aphetism 2
@@ -25113,7 +25113,7 @@ adenological 2
 aotearoa
 axillae
 antiamylase
-axillar 1
+axillar 2
 absurdest 1
 axing 2
 anagenesis
