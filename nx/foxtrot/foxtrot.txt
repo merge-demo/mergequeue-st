@@ -337,7 +337,7 @@ fivish
 factions 1
 forfeiture
 flyingly 1
-fellers 2
+fellers 3
 flattering 1
 festival
 fiercening
@@ -416,7 +416,7 @@ fibroligamentous 2
 fauchards 4
 fur 1
 frockmaker 2
-fairship 3
+fairship 4
 feal
 flitting
 fogmen
@@ -1066,7 +1066,7 @@ fudgy 3
 fishling 2
 fastback
 frazed 4
-farrisite
+farrisite 1
 farfetched 2
 fleerish 1
 firehalls
@@ -1511,7 +1511,7 @@ freely
 faurd
 foreseat
 flippant
-fanfaron
+fanfaron 1
 foulish 2
 foreshift 1
 fauterer 1
@@ -1618,7 +1618,7 @@ folkway 2
 featishly 1
 fazes 2
 fiard
-flophouse 2
+flophouse 3
 fied 1
 fizzing 5
 fellowless 1
@@ -1677,7 +1677,7 @@ forehammer 1
 fondlike 2
 frangible 2
 ferrament
-fleeching 1
+fleeching 2
 furnace 1
 fingertip 4
 foreordaining 2
@@ -1946,7 +1946,7 @@ flanchard 1
 furzier 1
 forworn 4
 flated 3
-formulization
+formulization 1
 fishlet
 flagellantism 1
 fowlery 1
@@ -2641,7 +2641,7 @@ fastidious 2
 frumentation 1
 familiarisation 2
 fundable
-forcipulata 2
+forcipulata 3
 farmyardy 3
 fabric 2
 falanaka 2
@@ -3633,7 +3633,7 @@ frisbees 2
 flook
 farmable
 fridstool
-flashing 3
+flashing 4
 faintishness 1
 fielder 5
 floatsman 1
@@ -4470,7 +4470,7 @@ flummoxed 2
 fermal 2
 fishberry
 fashioned 1
-factorize 4
+factorize 5
 furthermost 1
 fleshing 1
 foreloop 1
@@ -7820,7 +7820,7 @@ fraternising 2
 fibrilla
 fluxed 3
 fiddlery 1
-fablers 1
+fablers 2
 fibromyomectomy 2
 foyboat 2
 florette 1
@@ -8235,7 +8235,7 @@ fundamentals
 forgeries 2
 fatigated 2
 fictioneer 3
-feudalities 2
+feudalities 3
 flaggelated
 friezing 2
 flatbed 1
@@ -8926,7 +8926,7 @@ feudalism 2
 fussed
 flatteners 1
 fouled 3
-fancywork 1
+fancywork 2
 fling 1
 fatiloquent 3
 ferie 4
@@ -10249,7 +10249,7 @@ finn
 fractures
 falcated 1
 flaming 3
-frogman 3
+frogman 4
 fluoroscopically 1
 fasciodesis 1
 footboys 2
@@ -10599,7 +10599,7 @@ foreloper 1
 favose 3
 feudalist 2
 funambulation 1
-fruchtschiefer 4
+fruchtschiefer 5
 fructescent 2
 flumadiddle 1
 filmily 2
@@ -11056,7 +11056,7 @@ filiferous 1
 frontignac
 fraction 2
 fumarate 1
-fantasizing
+fantasizing 1
 flammulated 1
 foothook
 fontainea 1
@@ -11282,7 +11282,7 @@ forrit 2
 funster 1
 furans 1
 furacious 1
-fireplaces
+fireplaces 1
 farces 3
 frabjous
 fernando 1
