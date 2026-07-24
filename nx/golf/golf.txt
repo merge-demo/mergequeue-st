@@ -404,7 +404,7 @@ germinogony
 gradeless
 galatea 2
 galateas
-glucogenesis 2
+glucogenesis 3
 galbula 1
 gelding 2
 glidewort
@@ -1544,7 +1544,7 @@ gaspers 2
 galliardise
 grassless 1
 gassed 2
-grana
+grana 1
 gentlemens 1
 gilbert
 glutelin 2
@@ -2348,7 +2348,7 @@ geb 1
 george 2
 galloots 1
 ghiordes 3
-gadwall 3
+gadwall 4
 greenboard 3
 ganisters 1
 gedds 2
@@ -5613,7 +5613,7 @@ grandparentage
 gyrators 1
 genicular 1
 grunth
-gerunds
+gerunds 1
 gloomily 3
 gloomings
 graveward 2
@@ -6591,7 +6591,7 @@ graphalloy
 good 4
 gurglets
 galipidine
-glossological 1
+glossological 2
 gentleship 3
 glossary 2
 glamourless 3
@@ -10040,7 +10040,7 @@ gadflies 1
 ginn 3
 gueridons 2
 gasking 2
-gongman
+gongman 1
 galette
 gossypols 3
 guerison 1

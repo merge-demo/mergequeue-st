@@ -5153,7 +5153,7 @@ budworm 1
 before
 biotic
 boomorah 1
-blende 2
+blende 3
 broadside
 beggarer 1
 buccinatory 1
@@ -6754,7 +6754,7 @@ bufonid 2
 bergamot
 bushiest
 berry 1
-buchnerite
+buchnerite 1
 binturong 1
 brotherlike 2
 banshee 1
@@ -10133,7 +10133,7 @@ bellied 1
 berbers 1
 bootleggers
 bepicture 1
-buphthalmia 1
+buphthalmia 2
 bedells 1
 bloodguilty 1
 blackbird 2
