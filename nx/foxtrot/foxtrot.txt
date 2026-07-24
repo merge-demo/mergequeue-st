@@ -2825,7 +2825,7 @@ fumigatories 2
 fcomp 1
 fretted
 faunae
-fibrointestinal 1
+fibrointestinal 2
 ficus 3
 fluidly 1
 flosses 1
@@ -3415,7 +3415,7 @@ floc
 flecker 2
 fenestella 4
 forestate
-fielders
+fielders 1
 forset 1
 favellilidia
 furfures 2
@@ -8359,7 +8359,7 @@ fossilising
 fossilizable 3
 familyish 3
 forhow 2
-ficoidaceae
+ficoidaceae 1
 facelift 1
 funniest 1
 favuses 2
