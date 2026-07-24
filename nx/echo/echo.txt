@@ -741,7 +741,7 @@ enterauxe 1
 ecotonal
 enclaved
 ecaudate
-epizootiologic 1
+epizootiologic 2
 echinocaris 2
 emblematise
 evangelism
@@ -1664,7 +1664,7 @@ ejusdem 1
 eyeish 1
 endoscopic 1
 eisteddfodic
-entrusting
+entrusting 1
 eyebalm 1
 estraying 1
 electromotograph 1
@@ -1850,7 +1850,7 @@ ep 3
 eddy 1
 edit
 epistylar 1
-embolization 1
+embolization 2
 extramorainic 1
 equivocatingly 2
 endaseh 2
@@ -2029,7 +2029,7 @@ electrophorese 2
 evilly
 eudialyte 1
 elanus 1
-escar 1
+escar 2
 enantiopathia 5
 extravenate
 encampments
@@ -2183,7 +2183,7 @@ epanthous 1
 elderman 1
 ensorcels 2
 eggwhisk
-electrics
+electrics 1
 electrographic
 exedrae 3
 esthesia 1
@@ -2228,7 +2228,7 @@ extramoral 1
 elevatory 1
 eidola 1
 exocolitis 1
-effluve
+effluve 1
 excrescential 1
 evolution 6
 endoplasma 1
@@ -2566,7 +2566,7 @@ econometric 1
 encyclopaedian 1
 electrodiagnoses 1
 entrenched
-ethylhydrocupreine 2
+ethylhydrocupreine 3
 euphausia
 entertainable
 earth 1
@@ -3973,7 +3973,7 @@ enfamish 3
 ecumene 3
 emparchment 1
 exaltative 1
-enruin 3
+enruin 4
 electroplates 3
 expiations
 embarrassingly 1
@@ -5201,7 +5201,7 @@ extrascriptural 1
 escartelly 2
 euphuizing 1
 esphresis
-expenseless 1
+expenseless 2
 eyebridled
 endopods
 epistolarily 1
@@ -5626,7 +5626,7 @@ extraterrestrially
 eucalypts 2
 enfree
 exordiums
-exposable 1
+exposable 2
 eligibly 3
 erysiphaceae
 ectocelic 2
@@ -5815,7 +5815,7 @@ electrocratic
 engraining 1
 enwoven 1
 egestions
-ekaha 2
+ekaha 3
 embergeese 1
 epicenes 1
 extensors 1
@@ -6636,7 +6636,7 @@ electromotiv 2
 enchelycephali 1
 elaterin 1
 enterosepsis
-exauctorate 2
+exauctorate 3
 enterotome 2
 encharged 1
 enright 2
@@ -6847,7 +6847,7 @@ ethically
 ellipsoidal 4
 endangered
 electrum 2
-endamageable 2
+endamageable 3
 epispore
 ectocardia 3
 endometria 1
@@ -8026,7 +8026,7 @@ eaglehawk 1
 epiglottidean 1
 embroiderers 1
 epiphloeum
-explicit 2
+explicit 3
 etherize
 essoign 4
 emotional 1
@@ -8483,7 +8483,7 @@ erectility 3
 equal 1
 eosinlike 2
 equalises
-erectness 3
+erectness 4
 executorial 3
 enwrapping 2
 enterprised
@@ -8965,7 +8965,7 @@ extrinsicate 2
 exhaustive 2
 embiotocid
 extinctionist 1
-extraplacental 1
+extraplacental 2
 electrocardiograph 1
 electroneutrality 3
 elfin
@@ -9260,7 +9260,7 @@ electrotellurograph
 externalist 1
 exogamous
 expositional 1
-ebricty 1
+ebricty 2
 entertains 1
 euchologia 1
 enervous 1
@@ -10172,7 +10172,7 @@ epiphytotic
 endodermis 1
 expressness
 electrothermally
-endocarpoid
+endocarpoid 1
 elenctical 1
 elodeaceae 1
 emerant
@@ -10796,7 +10796,7 @@ enemying
 eumenides 1
 emblema 2
 encrinus 4
-electrogilding
+electrogilding 1
 exflagellate 2
 endosporic 1
 eumycete 2
@@ -11277,7 +11277,7 @@ entelluses
 emissile 1
 ethnologic
 eeling 1
-electrochemist 1
+electrochemist 2
 extracts
 entomologically 1
 economies 1
@@ -11734,7 +11734,7 @@ exalting
 elands 2
 exaltment 1
 essayism 1
-epinard
+epinard 1
 embuia 1
 enclasped
 epicrises 2
@@ -11762,7 +11762,7 @@ explanations
 envision
 eveque 1
 episcopise
-ensurer 1
+ensurer 2
 easier 3
 entoptoscopy 1
 edgerman
@@ -12306,7 +12306,7 @@ exemplificator
 egypt 1
 exemplified 1
 ergasia
-ellagitannin
+ellagitannin 1
 epibolic 1
 exsequatur
 euploidy
@@ -12385,7 +12385,7 @@ excrescencies 1
 eucosmid 2
 exflect 1
 endower 3
-etiquettes
+etiquettes 1
 enteromyiasis 3
 emerod 3
 expoliate 1
@@ -13673,7 +13673,7 @@ eggcup
 epilog 1
 expansometer 2
 empeo 2
-extracorporeally 4
+extracorporeally 5
 erma
 elongating 2
 extenuate
