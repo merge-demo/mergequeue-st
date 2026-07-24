@@ -327,7 +327,7 @@ dupatta 1
 dimeran
 dummyweed
 disarm 1
-deltaite
+deltaite 1
 denumberment 1
 damier
 depasturage
@@ -1706,7 +1706,7 @@ damping
 dottard 2
 drepanid 2
 dipleiodoscope
-dupability
+dupability 1
 disadvantage 1
 dignity 1
 disentrain
@@ -4475,7 +4475,7 @@ dodgiest 1
 demidistance
 diaphane
 diabetogenic
-downtrend 1
+downtrend 2
 deityship
 deputies
 discircumspection 2
@@ -4704,7 +4704,7 @@ dagswain 2
 democrat
 dawdles 1
 douar 1
-dogbody 1
+dogbody 2
 depraves 1
 dsnames
 democratic 1
@@ -5250,7 +5250,7 @@ denouncers
 detestable
 detinue 2
 dentale 1
-dissimulate
+dissimulate 1
 degressively 1
 disabled 1
 downhearted 1
@@ -5543,7 +5543,7 @@ desensitizes 1
 dependingly 1
 drouthiness 2
 depends 4
-dallack 4
+dallack 5
 dispersed
 dramatizable 1
 dukeship
@@ -7703,7 +7703,7 @@ duits 1
 dialectologies
 demutization
 dismembrate
-defuse 1
+defuse 2
 downby 1
 darwinism
 dermis 1
@@ -10781,7 +10781,7 @@ directionalize
 directionally 1
 deckles 1
 dhan 2
-dwarflike 1
+dwarflike 2
 demoralizingly 2
 directly
 deviscerate
@@ -12072,7 +12072,7 @@ dipodomyinae 1
 dividableness
 dehumanisation
 dewworm 3
-dysepulotical 1
+dysepulotical 2
 disequalizer
 draftiness 2
 drawcansir 2
@@ -12827,7 +12827,7 @@ devotionally 1
 dominial
 destructor 1
 draggiest 1
-dam 3
+dam 4
 dribblets 1
 democratization 2
 dismasted 4
@@ -12843,7 +12843,7 @@ dysmenorrheal 1
 devouringness
 decadrachm
 divertissant 1
-decuplet 1
+decuplet 2
 deferentiality 1
 dominative 2
 draggletailedly 1
@@ -12944,7 +12944,7 @@ dentiferous 1
 dosimetrician
 differers
 demihague 2
-demonolater
+demonolater 1
 disks
 doddard 1
 dyschromatoptic
@@ -14579,7 +14579,7 @@ departmentization 2
 diatomine 1
 disinfeudation 2
 drying 1
-daydreamed 2
+daydreamed 3
 discordantness 1
 dentalman
 duckeries 2
@@ -15268,7 +15268,7 @@ dolomite 2
 dissertator 1
 derries 1
 desmodontidae 1
-dolomitic
+dolomitic 1
 descriptives 1
 dorididae 1
 dryfarmer
@@ -15406,7 +15406,7 @@ downtowns
 dieffenbachia
 dishwares
 demibarrel 2
-dionym
+dionym 1
 damoisel 2
 dines
 dominick
