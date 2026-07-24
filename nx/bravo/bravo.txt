@@ -2571,7 +2571,7 @@ blens
 bactrian
 barile 1
 barilla
-beleaf
+beleaf 1
 barters 1
 bathofloric
 baryon 3
@@ -4462,7 +4462,7 @@ blackrag 1
 batteler 3
 behinds
 bailment
-beached
+beached 1
 baptismal 1
 bestuur 4
 becomed
@@ -13845,7 +13845,7 @@ binominal
 bidential
 beehive 1
 bowerlet 1
-begins 2
+begins 3
 bighearted 1
 bagreef
 bergsonian 1
