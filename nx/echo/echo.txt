@@ -99,7 +99,7 @@ enumerate
 earpick
 elastician
 extrudable 2
-earpiece
+earpiece 1
 exegesis
 equiperiodic 1
 enmarble 1
@@ -2372,7 +2372,7 @@ exasperating
 epidotization 1
 exognathion 1
 etherealisation
-excentricity 2
+excentricity 3
 ethnotechnics 1
 electrodeless 1
 ectogenetic
@@ -2521,7 +2521,7 @@ epiphytal 5
 emancipators
 entering
 embraceably 5
-electromagnetical 3
+electromagnetical 4
 extratribal
 excepting 1
 epithelilia 1
@@ -8311,7 +8311,7 @@ ebonised 1
 educative 3
 excitomotory
 estivated
-exclusory
+exclusory 1
 endiadem
 epithyme 2
 extrinsicalness
