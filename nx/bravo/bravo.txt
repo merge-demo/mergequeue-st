@@ -360,7 +360,7 @@ boled 2
 brume
 bradypepsy
 backfiring 2
-basichromatinic
+basichromatinic 1
 backflowing
 backframe 3
 bottegas 1
@@ -2327,7 +2327,7 @@ barbequed 2
 barber
 bordrag
 businessese 1
-bizet
+bizet 1
 botryomyces 3
 bands
 betokened 2
@@ -3012,7 +3012,7 @@ beared 2
 bidirectionally
 boist 1
 bartenders
-bartending
+bartending 1
 bulbiferous 1
 bartends 1
 burthened 1
@@ -3555,7 +3555,7 @@ backslidden
 bicondylar 1
 baryons
 becudgel 1
-bimini 1
+bimini 2
 blacknob 2
 bathycentesis 1
 benincasa
@@ -5400,7 +5400,7 @@ banstickle 1
 busheled
 birds
 bloodripeness 2
-bisagre
+bisagre 1
 briquets
 babelic 2
 begulf 3
@@ -5670,7 +5670,7 @@ beleaguering
 bongar 1
 bigly 2
 badgeless
-belection
+belection 1
 brining
 belecture 1
 burbush 1
@@ -5732,7 +5732,7 @@ budge 2
 believingly
 brerd 1
 burials 1
-backsight 2
+backsight 3
 bandlimit 2
 belight
 baaed 2
@@ -5778,7 +5778,7 @@ bylining
 bellboys
 belay
 belled 1
-biotechnologicaly
+biotechnologicaly 1
 boomlet 1
 bearably
 beblubbered
@@ -5875,7 +5875,7 @@ bargainer
 beride
 bellowslike 1
 belltail
-balloons 1
+balloons 2
 butylating 1
 babylonish
 bluer 2
@@ -7626,7 +7626,7 @@ bakshish
 brog 1
 bullocks
 borne 1
-butanones 2
+butanones 3
 bravade 2
 beziques
 bestsellers 1
@@ -8610,7 +8610,7 @@ belatedly 2
 beeswinged 1
 becowards 1
 billiards
-billyboy
+billyboy 1
 bivalved 1
 brules
 billies
@@ -9756,7 +9756,7 @@ biramose
 bankbook
 backslapped 3
 boatie 1
-byssoid 1
+byssoid 2
 brachiated
 buckskin 1
 bedragglement 2
@@ -11075,7 +11075,7 @@ brazilette 1
 bezoar
 butomaceae 1
 blocked
-blocker 1
+blocker 2
 brid 2
 bankruptlike
 beguines 1
@@ -12505,7 +12505,7 @@ brobdingnag 2
 bonedry
 bimillenium 2
 broodier
-bellyflaught 2
+bellyflaught 3
 barcarolle
 biennially
 brakier 2
@@ -12822,7 +12822,7 @@ bouquets
 boozehound
 boominess
 becasse
-boomingly 1
+boomingly 2
 beamwork
 boronatrocalcite
 betalk 2
@@ -14692,7 +14692,7 @@ bibliomancy
 balustrade 1
 balletically
 bogle 1
-bathic 1
+bathic 2
 broilingly
 buffets
 babion 1
@@ -16973,7 +16973,7 @@ backland
 briolettes 2
 beclowned 2
 byss
-buys
+buys 1
 beshivering 4
 bul 1
 brittler 1
