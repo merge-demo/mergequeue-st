@@ -9474,7 +9474,7 @@ checkbits
 checkbook
 counterbuff
 chachalaca
-cableways 1
+cableways 2
 cirrigerous
 climatically
 chaetites
@@ -13526,7 +13526,7 @@ chrysocolla
 comitiva
 cylindroid
 ceratites
-caudillos 2
+caudillos 3
 cylindromatous
 crosswords 1
 cylindrometric
@@ -16180,7 +16180,7 @@ counterpenalty 1
 cavidae 1
 climograph
 conversazioni
-clinamen
+clinamen 1
 clinamina
 clinandrdria 1
 clinch 1
