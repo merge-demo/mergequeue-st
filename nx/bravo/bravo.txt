@@ -2515,7 +2515,7 @@ bhut
 bedark 1
 barge 2
 bergere
-bult 2
+bult 3
 bargelike 1
 bargellos
 beswinge 1
@@ -3921,7 +3921,7 @@ bazars
 bint 2
 brockage
 bazooka
-blunge 1
+blunge 2
 baumhauerite 2
 boychik 1
 buckishly 1
@@ -4334,7 +4334,7 @@ beccafico
 buttressing
 beccaficoes 2
 bealtuinn
-becchi
+becchi 1
 bpi 2
 bigheartedly
 begonias
@@ -5952,7 +5952,7 @@ bufagin
 bangalay
 bude 1
 benumbing 3
-battiness
+battiness 1
 backrest 1
 beltless
 benchmarks 1
@@ -8399,7 +8399,7 @@ byhand
 bicarpellate
 bija 1
 bijasal
-bijections 1
+bijections 2
 bree 2
 bijou
 bhandar
@@ -9566,7 +9566,7 @@ breathtakingly 2
 banate
 bettered
 biblist
-bodewash 2
+bodewash 3
 budorcas
 breeching
 bisantler
@@ -11735,7 +11735,7 @@ boniata 1
 benchmarked
 buddah
 brazenfaced 2
-bahnung 3
+bahnung 4
 bumkins
 belibel
 befop 1
