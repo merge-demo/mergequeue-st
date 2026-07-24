@@ -748,7 +748,7 @@ banana 1
 bevined 1
 balada
 badgeringly 1
-boyish 2
+boyish 3
 bizcacha
 bascunan 1
 bolter 3
@@ -1146,7 +1146,7 @@ bairns
 bootful 1
 berne 1
 banquets
-babakoto 1
+babakoto 2
 backwall
 borates 1
 botete
@@ -1850,7 +1850,7 @@ bananivorous
 banatite 1
 becharm
 blackjacking
-billycans
+billycans 1
 bioelectrical 2
 bancha 1
 bivial 2
@@ -1982,7 +1982,7 @@ bosquets 2
 baahling
 beeway 2
 beworms 1
-bandwidth 1
+bandwidth 2
 bandworm
 blunderers 1
 boogiewoogie
@@ -3524,7 +3524,7 @@ bravissimo 1
 bogging 1
 bois
 bitterhearted 1
-bateau 1
+bateau 2
 bateleur
 brickel 1
 barbered
@@ -6420,7 +6420,7 @@ backcourt
 breastweed
 bluestem 1
 benzoquinoxaline 2
-balau
+balau 1
 benzosulfimide 1
 biophysiologist 1
 barbaresque 1
@@ -6863,7 +6863,7 @@ biliverdic 1
 botchers 1
 bescutcheon 3
 bondservant 3
-basalia
+basalia 1
 beseam
 bluegills
 brines 1
@@ -7038,7 +7038,7 @@ baronet 2
 boodh 2
 boothian 1
 bridehouse
-besottedly
+besottedly 1
 boweled 1
 bombidae 1
 bola
@@ -9982,7 +9982,7 @@ bivalence
 blethering
 byelaw 1
 biland 1
-bergerette 3
+bergerette 4
 basommatophora 2
 bultong 2
 bryum 1
@@ -11355,7 +11355,7 @@ bestialising 1
 bankable 1
 bricked 1
 bromegrass 1
-bluchers
+bluchers 1
 bloodhound 1
 belouke
 bludgeon 2
@@ -11787,7 +11787,7 @@ burmannia 1
 barnful 1
 blitzed 3
 becloaking
-br
+br 1
 bluisness
 billingsgate
 buckwheat 4
@@ -13537,7 +13537,7 @@ blackbrush 2
 barometrography 1
 blundered 2
 bielid 2
-beleft 1
+beleft 2
 boisterousness 3
 becursing 1
 backhanded 1
@@ -13554,7 +13554,7 @@ beatermen 2
 bouffancy 1
 beggarlice
 brunel
-biennale
+biennale 1
 biquarterly
 barhop
 bouffant
@@ -14026,7 +14026,7 @@ bipyridine
 bemouth 3
 buy
 bracelet
-bracer
+bracer 1
 barrelfuls 2
 backbenchers 2
 boarishly 1
@@ -14335,7 +14335,7 @@ bluet 1
 bessi 1
 bannister 1
 bourignonism
-bianchite 1
+bianchite 2
 bragly 2
 broachers 1
 bye 2
@@ -16981,7 +16981,7 @@ babylonic
 binit 2
 blankard 1
 blandishers
-behears 3
+behears 4
 bulby 1
 bidens 1
 bulbier 5
@@ -17616,7 +17616,7 @@ bradykinetic
 bulldozes
 backster 2
 bibliophiles
-belduque
+belduque 1
 barricadoing
 bobcoat
 burglarproofs
