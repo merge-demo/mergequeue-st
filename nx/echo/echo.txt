@@ -99,7 +99,7 @@ enumerate
 earpick
 elastician
 extrudable 2
-earpiece
+earpiece 1
 exegesis
 equiperiodic 1
 enmarble 1
@@ -8323,7 +8323,7 @@ erythrosinophile 2
 evolutional 1
 expeding
 epicontinental 1
-erosive 1
+erosive 2
 endogenetic
 electrobiology 5
 enjambement 2
@@ -12470,7 +12470,7 @@ exhorts 1
 exaltations 3
 exhumate 1
 egoisms 1
-esquire
+esquire 1
 evacuative 1
 eighteen
 endosymbiosis 2
