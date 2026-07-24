@@ -815,7 +815,7 @@ glucosane 2
 guetar 3
 grazeable 1
 genetta 1
-goldenrods 1
+goldenrods 2
 gyppo 1
 gletty 1
 galoots 4
@@ -832,7 +832,7 @@ genseng 1
 gambogian
 grangerise 2
 greyhounds
-goban 4
+goban 5
 genistin
 granulater 3
 geonegative
@@ -1417,7 +1417,7 @@ geneva
 gallinazo 4
 grapenuts
 golfs
-gemologists
+gemologists 1
 guggles
 gn 1
 gargle 1
@@ -1507,7 +1507,7 @@ grouse 1
 galoped 2
 gavelage 2
 guiro 2
-giftwrap 3
+giftwrap 4
 gripers 1
 growed 1
 geez 3
@@ -2022,7 +2022,7 @@ gazzetta 2
 gavels 2
 gavia
 geminiform 1
-gederathite 2
+gederathite 3
 gasometrically 1
 gio
 grapheme
@@ -3292,7 +3292,7 @@ gullion
 genethliacism
 gleby 1
 gang 1
-gleek 2
+gleek 3
 grooverhead 1
 gerundial 2
 gentlewomanlike 2
@@ -3809,7 +3809,7 @@ gorgonesque 1
 goats 2
 gushing 2
 goatees 1
-gruffed 1
+gruffed 2
 gardenwards
 gwely
 gratulate 4
@@ -3961,7 +3961,7 @@ gouter 1
 gesticulates 1
 gansey 1
 ginnier
-graphitized 1
+graphitized 2
 gellert
 gastrogenous 1
 grounds 2
@@ -5077,7 +5077,7 @@ gainyield 3
 gandhist 1
 gummas 1
 glaucionetta
-glaireous 2
+glaireous 3
 gromatics 2
 grassland 2
 gaskin 2
@@ -5166,7 +5166,7 @@ geogenesis
 grottesco
 geometricism 2
 gymnanthous 2
-guiler 2
+guiler 3
 gripsacks 1
 groundsheet 1
 gale
@@ -5512,7 +5512,7 @@ gangplanks 3
 glycidol
 gorsier 3
 gustful 3
-gowning 3
+gowning 4
 gad 1
 grumbles 4
 gamecocks
@@ -5739,7 +5739,7 @@ glossoptosis 2
 gloomth 4
 gradin
 goings
-gleeds 1
+gleeds 2
 gish
 grimmish 4
 grapsoid
@@ -5932,7 +5932,7 @@ gonopodia
 governante 1
 gaddang 1
 germlike
-gastrohydrorrhea 3
+gastrohydrorrhea 4
 grangerize
 glanduligerous
 gensengs 2
@@ -6528,7 +6528,7 @@ glaucic
 graceless 1
 galls 1
 goma
-glossoplegia 1
+glossoplegia 2
 gabbards 1
 granduncles
 gatetender
@@ -7810,7 +7810,7 @@ gralline 5
 gadman 2
 gray 1
 greasily 1
-geospiza 1
+geospiza 2
 goosishly 1
 gemmative 3
 grudgeful 2
@@ -8557,7 +8557,7 @@ graveolent 1
 gymnoderinae 3
 gozzan 1
 ganglioplexus 1
-gramineae 3
+gramineae 4
 graverobbing 2
 ghettoization
 gravers
@@ -9047,7 +9047,7 @@ grillee 1
 golem 2
 gramashes 3
 granatum 2
-geomorphogenist 1
+geomorphogenist 2
 gorhens 3
 gastroenterologic 2
 gaper
@@ -10744,10 +10744,10 @@ groundlessly 2
 gypsyisms 1
 glaciologists 2
 gnomonological 1
-gavage
+gavage 1
 galloot 2
 garnish
-gesticulatory 1
+gesticulatory 2
 gournard 1
 groggy 2
 gustiest 3
