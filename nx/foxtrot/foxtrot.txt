@@ -310,7 +310,7 @@ flchette 1
 fplot 3
 fluxionary 1
 feods 3
-forces 1
+forces 2
 fail 1
 fireplough 3
 faineancy 4
@@ -1908,7 +1908,7 @@ feta 2
 floodlilit 2
 fleeceless
 felicide
-fremescent 1
+fremescent 2
 flitched
 fainly
 filicologist 1
@@ -7407,7 +7407,7 @@ fatalistic
 forbow 2
 foreclose 2
 forestland 1
-foolisher 1
+foolisher 2
 faying
 falterers
 flavorsomeness 2
