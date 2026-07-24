@@ -5470,7 +5470,7 @@ barrier 2
 babiche
 behooves
 behooving
-bacterioprotein 1
+bacterioprotein 2
 brine
 backiebird
 beatless
@@ -11784,7 +11784,7 @@ benevolentness 1
 biopyribole 2
 besmoothed
 burmannia 1
-barnful
+barnful 1
 blitzed 3
 becloaking
 br
@@ -13110,7 +13110,7 @@ batteling 1
 backfurrow 4
 buggering
 bodyguard 1
-borid
+borid 1
 bacterioscopist
 bromisation
 bastinaded
@@ -14874,7 +14874,7 @@ bristler 1
 bluetops 2
 buttress
 bronchopulmonary 3
-besliming 1
+besliming 2
 bedewer 1
 bestializes
 bonetta
@@ -17530,7 +17530,7 @@ botryoidally 1
 bee 1
 bobadilish 1
 bundlet 1
-braggat 1
+braggat 2
 burdensome
 beslushed
 birettas
