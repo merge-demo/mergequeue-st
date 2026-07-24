@@ -4605,7 +4605,7 @@ fringilliform 1
 fitchee 2
 fibrocalcareous 3
 filagrees
-ferring 1
+ferring 2
 flowmanostat 1
 folsom 1
 footweary 2
@@ -6837,7 +6837,7 @@ foliaged
 firetower 1
 fustigator
 flipjack 2
-fourhanded
+fourhanded 1
 fabled 2
 furomonazole 1
 foliary 2
@@ -11235,7 +11235,7 @@ fistulae
 foreday 1
 farsang 2
 furzed 1
-funiculars
+funiculars 1
 funiform 2
 fanum 3
 fount
