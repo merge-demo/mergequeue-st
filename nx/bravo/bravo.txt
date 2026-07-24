@@ -4009,7 +4009,7 @@ beacons 1
 buoyancy 4
 beadeye 3
 beader
-bellmaker 1
+bellmaker 2
 barnhardtite
 beerothite
 binges
@@ -5207,7 +5207,7 @@ befringes
 befringing
 broadwife
 befrocked 1
-brutelike 3
+brutelike 4
 berendo 2
 battu
 boys
@@ -15434,7 +15434,7 @@ baronetcy
 benzylidene
 bannerlike 1
 becket 2
-brainwork
+brainwork 1
 brightish 1
 bottomers 1
 bebelted 3
@@ -17107,7 +17107,7 @@ baldpated
 bulletining
 batches 2
 bulletless
-branchiobdella
+branchiobdella 1
 basecoat 1
 bulletlike
 burghmote

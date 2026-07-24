@@ -3640,7 +3640,7 @@ grapsus 1
 ghostfishes 1
 garrisonism 4
 gallinae
-gnathite
+gnathite 1
 goalmouth 2
 gherkins 1
 gyrencephalic 4
@@ -5228,7 +5228,7 @@ garish
 galoubet 4
 gammers 3
 garboards
-glooming
+glooming 1
 guaranies
 guarea 1
 glister 3
@@ -6767,7 +6767,7 @@ gentilitial
 geologically 2
 gazania 2
 gyrostatics 2
-genal 1
+genal 2
 genros 1
 geochemical 2
 gondola 1
@@ -8898,7 +8898,7 @@ garboard 1
 grieved 4
 gateless 1
 gyroceracone 3
-guesthouses 1
+guesthouses 2
 greyfly 2
 gregau 3
 guarantine
