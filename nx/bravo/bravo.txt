@@ -1048,7 +1048,7 @@ bailable
 baile 1
 bezazz
 betanaphthol 1
-basqued 2
+basqued 3
 blizzards
 bad
 bailers 1
@@ -3483,7 +3483,7 @@ barkpeeler
 boobook
 bolloxed
 batable
-bespatter
+bespatter 1
 bernicia
 bracket 1
 barbascoes
@@ -10495,7 +10495,7 @@ blaster 2
 blastid
 blart 1
 blasting 1
-borolanite
+borolanite 1
 blastocele 1
 batodendron 1
 berrichon 1
