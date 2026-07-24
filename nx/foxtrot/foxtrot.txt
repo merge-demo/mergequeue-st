@@ -4602,7 +4602,7 @@ fornaxid
 fit 1
 fontally
 fringilliform 1
-fitchee 1
+fitchee 2
 fibrocalcareous 3
 filagrees
 ferring 1
@@ -6464,7 +6464,7 @@ fernbird 3
 furiosa 2
 fumagine
 fouquieriaceous 1
-formats
+formats 1
 flightful 1
 foulness 2
 fuzing 1
