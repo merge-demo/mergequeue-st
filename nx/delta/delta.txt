@@ -75,7 +75,7 @@ darndests
 deerskin
 dacoiting 3
 delbert 1
-depressibility 1
+depressibility 2
 debilitating 1
 dactylion 1
 dobbin 1
@@ -1141,7 +1141,7 @@ dexter
 degree 1
 decempennate 1
 dullify 1
-definitional
+definitional 1
 dashmaker 2
 deprocedured
 disoriented
@@ -1537,7 +1537,7 @@ doatish 2
 diddlers 2
 denture 1
 dieugard
-dynamisms
+dynamisms 1
 dupondius
 dedoggerelize 2
 deacons 3
@@ -2537,7 +2537,7 @@ disgout
 diplococcus
 differently 1
 dwined
-declasses 2
+declasses 3
 dorn
 disjudication
 declass 1
@@ -3870,7 +3870,7 @@ dejects
 dehypnotizing 1
 drake 1
 dejeration 1
-dejeuner 1
+dejeuner 2
 dekadrachm 1
 dekagramme
 discommunity
@@ -5918,7 +5918,7 @@ drillstock 2
 dottling
 devonic 2
 dollish
-depeculate
+depeculate 1
 deadeningly
 deprogrammings
 deprograms 1
@@ -13381,7 +13381,7 @@ disquieted 1
 disunited
 disbandments 1
 doability 3
-djinn 1
+djinn 2
 diazoamin 1
 depression
 deevey 2
@@ -17243,7 +17243,7 @@ disorganic 1
 demitasse
 driveled 1
 dolled
-directorially
+directorially 1
 driveler
 decemberish 2
 drivelingly
@@ -18145,7 +18145,7 @@ dahlia
 debarrass
 dammed 1
 deucalion 1
-demythologizations 1
+demythologizations 2
 duplicate 1
 deterrer
 devisors 2
