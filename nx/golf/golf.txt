@@ -404,7 +404,7 @@ germinogony
 gradeless
 galatea 2
 galateas
-glucogenesis 2
+glucogenesis 3
 galbula 1
 gelding 2
 glidewort
@@ -1544,7 +1544,7 @@ gaspers 2
 galliardise
 grassless 1
 gassed 2
-grana
+grana 1
 gentlemens 1
 gilbert
 glutelin 2
@@ -1926,7 +1926,7 @@ glutetei 2
 gruft 1
 gustoso 3
 gastrilegous
-gobans 2
+gobans 3
 gauleiter 2
 grated 1
 grasser 1
@@ -2348,7 +2348,7 @@ geb 1
 george 2
 galloots 1
 ghiordes 3
-gadwall 3
+gadwall 4
 greenboard 3
 ganisters 1
 gedds 2
@@ -3046,7 +3046,7 @@ gipping
 geophagism 1
 gemels
 grubhood 3
-gashliness 1
+gashliness 2
 gonidium 1
 giustina
 geat
@@ -5203,7 +5203,7 @@ golgi 1
 golf 1
 geniculate
 gab 3
-gorgonzola
+gorgonzola 1
 gamecraft 2
 garten
 gentilic 1
@@ -5613,7 +5613,7 @@ grandparentage
 gyrators 1
 genicular 1
 grunth
-gerunds
+gerunds 1
 gloomily 3
 gloomings
 graveward 2
@@ -6591,7 +6591,7 @@ graphalloy
 good 4
 gurglets
 galipidine
-glossological 1
+glossological 2
 gentleship 3
 glossary 2
 glamourless 3
@@ -7845,7 +7845,7 @@ garneter 3
 glagol 2
 guanche 1
 graisse 1
-gare 1
+gare 2
 geerah 2
 gerately 2
 greenkeeper 3
@@ -8056,7 +8056,7 @@ gallocyanine
 gumless 1
 gettering 6
 gasbags 1
-goladar 1
+goladar 2
 gyromancy 4
 gustable 1
 greekess 1
@@ -8202,7 +8202,7 @@ gied 1
 grim 2
 gem 1
 grapes 2
-gitanos 4
+gitanos 5
 gynostegia 1
 goldurned 1
 galenical 2
@@ -8307,7 +8307,7 @@ gruff
 grane 4
 gentians 1
 grapples 4
-grappling 3
+grappling 4
 gunslingers 5
 graptolitha 2
 gheraoed 3
@@ -8765,7 +8765,7 @@ galyak 4
 glom 1
 goustrous 1
 galeus 2
-gobbin 2
+gobbin 3
 germling 2
 gaypoo
 gladless 3
@@ -10040,7 +10040,7 @@ gadflies 1
 ginn 3
 gueridons 2
 gasking 2
-gongman
+gongman 1
 galette
 gossypols 3
 guerison 1
