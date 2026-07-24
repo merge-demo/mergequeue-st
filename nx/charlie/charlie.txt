@@ -8046,7 +8046,7 @@ caranx
 chafes
 calycanth
 campaspe 1
-chimaeras 1
+chimaeras 2
 chafeweed 1
 chaff
 chaffer
@@ -12831,7 +12831,7 @@ crumpy 2
 center
 cuartino
 comburimetry
-chunkiness
+chunkiness 1
 chunks
 chunner
 chuntered 2
@@ -27363,7 +27363,7 @@ cherokees
 courlan
 charging
 couronne
-coleseed
+coleseed 1
 crustaceal 1
 course
 codirectorship
