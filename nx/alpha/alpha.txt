@@ -2550,7 +2550,7 @@ alabastrons
 amoebicidal
 acolyth
 aculei
-acolythate
+acolythate 1
 ardella
 autoserum
 austrasian 1
@@ -20321,7 +20321,7 @@ arsenious 1
 acephaline
 amplifiers
 abacuses
-automatization 3
+automatization 4
 anarchic 3
 afley
 aeromedicine
@@ -23159,7 +23159,7 @@ amus
 antisensitivity
 apatan 1
 attendingly
-aubepine 1
+aubepine 2
 antisoporific
 attendment
 aposoro
