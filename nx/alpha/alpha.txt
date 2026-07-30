@@ -2841,7 +2841,7 @@ acetum 1
 adequateness
 acrogamous 1
 acrogen
-anaesthetics 1
+anaesthetics 2
 acrolein 1
 amylenes
 antianthropocentric
@@ -5120,7 +5120,7 @@ allantois 1
 aeruginous 1
 aerugo
 aes
-autosepticemia
+autosepticemia 1
 aeschynomenous
 aesculaceous
 alliancer 1
@@ -8794,7 +8794,7 @@ allicient 1
 anglist
 anticeremonially
 allied
-allies
+allies 1
 acceders
 arctoid 1
 alligatorfish
@@ -9796,7 +9796,7 @@ amalekite
 albertina 1
 appanages 2
 amalfitan
-amalgam
+amalgam 1
 aux 2
 apophonies
 amalgamate 1
@@ -14655,7 +14655,7 @@ animalities 1
 appet
 androsphinges 1
 antienergistic 1
-arcus
+arcus 1
 antiaggressiveness 1
 apatela
 antialbumin 1
@@ -22679,7 +22679,7 @@ archbuffoon
 ateuchi 3
 atherosclerosis 1
 advancer 1
-atherosclerotic 1
+atherosclerotic 2
 acerbic
 absent 1
 angulation 2
