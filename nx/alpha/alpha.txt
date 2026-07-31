@@ -1357,7 +1357,7 @@ amidships 1
 acaulescent 1
 acauline
 acc 1
-accable 1
+accable 2
 accel 2
 accelerable
 animalizing 1
@@ -2505,7 +2505,7 @@ autocombustible
 aclinic
 atrabilar
 antigene 1
-acmatic 1
+acmatic 2
 asparagus
 amphisbaenidae
 acme
@@ -13378,7 +13378,7 @@ anisopoda 1
 antilogies
 allegretto
 aspca
-agamont 2
+agamont 3
 anisopteran
 absolvitory
 abrading
@@ -14957,7 +14957,7 @@ anticlockwise 1
 asphaltum 2
 anticlogging 2
 averroism 1
-anticoagulant 1
+anticoagulant 2
 anticoagulation
 anticoagulative
 acariasis 1
@@ -19426,7 +19426,7 @@ actory
 athwartwise 1
 authorship 1
 antoecians
-augurial
+augurial 1
 argentry 1
 abbest
 antiparliamentarist
@@ -21716,7 +21716,7 @@ assemblable
 aphthous 1
 anconal 1
 assemble
-added 2
+added 3
 acetabularia 1
 assembled 2
 altitude
@@ -22238,7 +22238,7 @@ allylamine 1
 apennine
 algometry
 astonies
-astonish
+astonish 1
 amerindians
 autonomical
 annualize 2
@@ -23729,7 +23729,7 @@ anthropogeography
 aurophore
 aurore 1
 additionally
-acct
+acct 1
 aleppine 1
 aurous 1
 aurrescu
