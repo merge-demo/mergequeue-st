@@ -17289,7 +17289,7 @@ aport 1
 aportlast
 aposaturnium
 aposia 2
-aposiopesis 1
+aposiopesis 2
 americanize
 anaplasma 1
 arbalest
@@ -18319,7 +18319,7 @@ aurocyanide
 accession
 armhoop 1
 aestivation
-almsdeed 1
+almsdeed 2
 arachnida 1
 accidence 2
 astrophyton 1
@@ -25325,7 +25325,7 @@ aleph
 azon 1
 aegirinolite
 astrophobia
-azons
+azons 1
 antisplitting 2
 ampoule
 antidotes
