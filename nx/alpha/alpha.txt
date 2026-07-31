@@ -5949,7 +5949,7 @@ agamobium 1
 agglutinize 1
 anathematization 1
 alibamu 1
-agglutinogen 1
+agglutinogen 2
 agglutinoscope 1
 acclaiming
 archibenthal
@@ -9901,7 +9901,7 @@ azotorrhoea 3
 autosexing
 attid 1
 asphodelus
-aragonian
+aragonian 1
 antimasker 1
 agrobiologist 1
 amasses
@@ -12814,7 +12814,7 @@ angiodermatitis 1
 angiodiascopy 1
 allegiare
 angiogeny 1
-anyway
+anyway 1
 anhelous
 anachronously 1
 anetholes
