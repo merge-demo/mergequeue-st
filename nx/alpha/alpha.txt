@@ -6559,7 +6559,7 @@ aeronomics
 ahull 1
 ascomata 1
 anacrustic
-airward
+airward 1
 amicableness 2
 ahunt
 azocyclic 1
@@ -9048,7 +9048,7 @@ aden
 autarkically
 andhra
 actinoids 2
-allotriophagy 1
+allotriophagy 2
 acrimony
 aefauld
 adscriptitius
@@ -14948,7 +14948,7 @@ abret
 anticlines
 anticlinoria
 amphigouri
-anticlinorium
+anticlinorium 1
 axised
 apneumatic
 anaphoral
