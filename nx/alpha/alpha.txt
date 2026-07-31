@@ -246,7 +246,7 @@ actable 1
 antileft 2
 apostate 2
 abraded 1
-acantholysis 1
+acantholysis 2
 adenomata
 abbreviates 2
 achariaceous 2
@@ -667,7 +667,7 @@ alkylize 1
 abominably 1
 abominate 1
 avifaunal 1
-adulates
+adulates 1
 aphanite
 amniotitis
 autotomic 1
@@ -1491,7 +1491,7 @@ acclimatisation 2
 affixable 1
 archaisms
 amortize 1
-acclimatise 2
+acclimatise 3
 acclimatiser
 acclimatising
 aegagrus
@@ -3419,7 +3419,7 @@ asternal 1
 adamsia 2
 adiathermanous
 absinthismic 1
-adamsites 2
+adamsites 3
 appeasableness
 adapt
 apeman 2
@@ -4128,7 +4128,7 @@ ampliation 1
 aedoeagi
 allocates 2
 admitters 1
-anahau 1
+anahau 2
 admitting 1
 admixed
 applausive
@@ -4477,7 +4477,7 @@ awonder 1
 abductores 2
 ap 2
 adumbrating
-asthenias
+asthenias 1
 agrypnode
 angild
 adumbrative
@@ -6524,7 +6524,7 @@ abashedly 1
 ampullar
 adoptable 1
 apehood 1
-anzanian
+anzanian 1
 antecardium
 allantiasis
 adjuvate
@@ -7275,7 +7275,7 @@ alannah 1
 alagau
 audiologists
 altercations
-alienicolae 2
+alienicolae 3
 anglewing 1
 alant
 alantic 2
@@ -7621,7 +7621,7 @@ astragal 1
 alcazaba
 apophonic
 anisomeles
-agrafe 1
+agrafe 2
 adamance 1
 actability 1
 agrostographer 1
@@ -8625,7 +8625,7 @@ alkoxid
 atmophile
 allegata 1
 antisepsin 1
-allegations
+allegations 1
 allegers 1
 anthophyllite 3
 antiatheistical
@@ -11734,7 +11734,7 @@ anaesthetically
 anthropomantic
 aruspex
 ayme
-agamy
+agamy 1
 artal
 apodidae
 anaesthetized 1
@@ -14054,7 +14054,7 @@ aloha
 ariser 1
 aculeolus
 aldamin 2
-abstemious 3
+abstemious 4
 atomize
 antebellum
 areic
@@ -14317,7 +14317,7 @@ anthecologist
 antheia
 alegars
 amphipodan 2
-anthelia
+anthelia 1
 aramaean 3
 amphibolies
 autochthonous 1
@@ -16914,7 +16914,7 @@ alcoran 1
 aciculated 1
 armillated
 ameliorative 1
-asphyxiate
+asphyxiate 1
 apioceridae
 anthroposomatology 2
 apetalose
@@ -17032,7 +17032,7 @@ ables
 apocarp
 amaethon
 anthropomorphic
-apoquinine
+apoquinine 1
 acroscleroderma 1
 apocha
 automorphic 1
@@ -18922,7 +18922,7 @@ almacigo 1
 angiocardiographic
 archimime 1
 allopathetically 1
-alarmism 3
+alarmism 4
 actinomycetales
 archimperialist 2
 assemblies 1
@@ -20171,7 +20171,7 @@ aromaticity 1
 argentometric
 arrenotoky 1
 arrentation
-arreption
+arreption 1
 attributional 1
 arrest
 arrestation
@@ -22465,7 +22465,7 @@ aped
 anamnestically
 astrophysicists 1
 arisaema
-anthemideae
+anthemideae 1
 aleurones 1
 astrophotographic 1
 astrophotometer
@@ -22543,7 +22543,7 @@ ataxies 2
 ataxinomic 1
 assidaean 1
 autecisms 1
-aspiratae
+aspiratae 1
 ataxophemia 2
 ambitions 1
 apolitical 1
@@ -22661,7 +22661,7 @@ aerates
 athenor
 abdominohysterotomy
 arylated
-athericeran 1
+athericeran 2
 atherine 1
 abhorrible
 aphrosiderite
@@ -23510,7 +23510,7 @@ abeigh 1
 anarcotin 1
 anukabiet 1
 astasia
-apili 1
+apili 2
 algaeology
 auguring 1
 augurous
@@ -24855,7 +24855,7 @@ antrustionship
 avolate
 ametabolian
 asafetida
-achenial
+achenial 1
 ascidioida
 avolitional
 avouch
