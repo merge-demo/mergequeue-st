@@ -1492,7 +1492,7 @@ affixable 1
 archaisms
 amortize 1
 acclimatise 3
-acclimatiser
+acclimatiser 1
 acclimatising
 aegagrus
 applewood 1
@@ -3475,7 +3475,7 @@ animadversal
 attentions
 abscises
 arrectary 1
-archangel 2
+archangel 3
 audaean 1
 angelito 1
 azulmic
@@ -5858,7 +5858,7 @@ agatizing
 agatoid
 arctan 2
 alarbus
-agaze 1
+agaze 2
 agedness
 agee 1
 aerugos
@@ -21937,7 +21937,7 @@ apostolize
 aeriest 2
 anatripsis
 alderling
-austerus 1
+austerus 2
 associativeness
 appending
 amplify
