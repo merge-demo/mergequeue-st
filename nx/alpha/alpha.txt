@@ -829,7 +829,7 @@ afterhelp
 abrood 2
 abrook 1
 aiel 1
-atrabiliary 2
+atrabiliary 3
 abruptio
 antianaphylactogen 1
 acropolises
@@ -1801,7 +1801,7 @@ afflicted
 actualist 1
 asker 1
 abuse
-aceacenaphthene
+aceacenaphthene 1
 anticosine
 asphyxies
 aglipayano
@@ -2771,7 +2771,7 @@ arcabucero
 autolithography
 acrylonitrile 1
 attributes 2
-agonistically 1
+agonistically 2
 appleringie 2
 acrimonious
 acrindoline 1
@@ -5153,7 +5153,7 @@ atherosclerotically
 aestii 1
 annihilated
 aestivate 1
-avocate
+avocate 1
 aestivates
 azotite
 admonisher 1
@@ -6165,7 +6165,7 @@ arbitrated
 alfaquis
 ahey
 autocytolytic
-alois
+alois 1
 aglypha
 analogal 1
 asymtotically 2
@@ -10690,7 +10690,7 @@ archiepiscopality
 amylolysis
 antitragic 2
 accusator
-amylom
+amylom 1
 amyloplast 1
 appertaining 1
 appaloosas
@@ -12508,7 +12508,7 @@ admensuration 2
 algesis
 armchairs 1
 abarambo
-anecdotage 1
+anecdotage 2
 antiprimer 1
 astart
 ajowan 1
@@ -13395,7 +13395,7 @@ alectoropodes 3
 anisum
 appinite 1
 aneuploid
-arrogating 1
+arrogating 2
 atonality 1
 anitos 1
 anyways 1
@@ -14961,7 +14961,7 @@ anticoagulant 1
 anticoagulation
 anticoagulative
 acariasis 1
-ampliate
+ampliate 1
 acosmistic
 argental 1
 anticolic
@@ -17151,7 +17151,7 @@ apokrea
 authenticly
 androecia 2
 apolar
-amphidiploid
+amphidiploid 1
 averin 1
 apolysis
 apolista
@@ -19034,7 +19034,7 @@ aerohydropathy 1
 aerobes
 antipersonnel 1
 acquaintance 1
-archostegnosis
+archostegnosis 1
 absolved
 archipelagoes 2
 availingly 1
@@ -24782,7 +24782,7 @@ aortography
 adamine 1
 avidity 1
 arithmetized
-autologous
+autologous 1
 anticonstitutionalism
 anitrogenous 1
 archprelatic 1
