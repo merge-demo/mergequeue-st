@@ -7729,7 +7729,7 @@ anemogram 1
 alcoholmetric
 abaissed
 alcoholometer 1
-acidic
+acidic 1
 apterygial
 accepted
 averroistic
@@ -10253,7 +10253,7 @@ auximone
 aquariist
 amebobacter
 analgesidae
-ameboid 1
+ameboid 2
 ameboidism
 amedeo 1
 arytenoid
@@ -11026,7 +11026,7 @@ arianism
 anabaptizing
 amolilla
 amomal
-aceite 1
+aceite 2
 alligating 2
 araeosystyle 3
 antibank
@@ -14726,7 +14726,7 @@ armholes 1
 antibacchii 2
 antibacchius 1
 anaglyphic 1
-amphitricha 1
+amphitricha 2
 anaglyptograph 1
 affrontiveness 2
 assarion 1
@@ -20086,7 +20086,7 @@ abbas
 adstipulating
 ateliers
 aggur
-auteciousness
+auteciousness 1
 arpeggios
 arpen 2
 apiologies 1
@@ -21533,7 +21533,7 @@ anticlassically 1
 auxoaction 3
 antiphase 1
 amarantite
-athapaskan
+athapaskan 1
 avenging 3
 asphyxiator 1
 asphyxied
@@ -22467,7 +22467,7 @@ astrophysicists 1
 arisaema
 anthemideae
 aleurones 1
-astrophotographic
+astrophotographic 1
 astrophotometer
 astroscopy 1
 autocratorical 1
