@@ -7306,7 +7306,7 @@ assn 1
 alarmingness 3
 adcons 1
 algovite
-alarmist
+alarmist 1
 anginas
 alarodian 2
 animas 3
@@ -12839,7 +12839,7 @@ asexual 1
 astakiwi 1
 antihemolysin 2
 angioneurosis
-antifederalist 1
+antifederalist 2
 autoexcitation 1
 angionoma
 aecidioform 1
@@ -15579,7 +15579,7 @@ areopagist
 anthropophagi 1
 antiatheism
 aquaplanes 1
-antimonies 1
+antimonies 2
 aboves
 abseil
 antimoniuret 2
