@@ -5886,7 +5886,7 @@ aponeurosis
 agarum
 ankylosaur 2
 agendum 2
-amovability 1
+amovability 2
 agene 1
 anticonscription 2
 aerogram 2
@@ -6240,7 +6240,7 @@ aplanobacter
 antecedency
 agon
 agonal
-athetize
+athetize 1
 awardable 1
 aurorae
 azygoses
@@ -19156,7 +19156,7 @@ angiomatous 1
 anticommunists
 allotropize 1
 arcose
-angiospermal
+angiospermal 1
 acrobystitis
 antipolo
 aggravated 1
