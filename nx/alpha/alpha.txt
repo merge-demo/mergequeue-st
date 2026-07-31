@@ -4536,7 +4536,7 @@ apaesthesia
 alencons 2
 amounting
 adventual
-agromyzidae
+agromyzidae 1
 arundo 2
 adventured 1
 adventuresome 1
@@ -12269,7 +12269,7 @@ aetiogenic 4
 aegirite 1
 anchorages 1
 afterloss 2
-anchorlike
+anchorlike 1
 archradical 1
 actinodermatitis 2
 anchoret 1
@@ -14821,7 +14821,7 @@ anticentralization 2
 automanual
 autoindex
 acceptancy
-arthrocele 2
+arthrocele 3
 anticeremoniously
 anticeremoniousness
 aristocratic
