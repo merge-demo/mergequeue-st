@@ -5662,7 +5662,7 @@ autocystoplasty 3
 anticorrosion 1
 afwillite
 afzelia 2
-apsychia 1
+apsychia 2
 adjustable 1
 anagram 1
 amidstream
@@ -6454,7 +6454,7 @@ ananias 1
 arthrotome 2
 arapaimas 1
 agrostemma 1
-acrogamy
+acrogamy 1
 agrostography
 algesthesis 2
 antivenom
@@ -21385,7 +21385,7 @@ asystole 2
 asha
 ambicolorate 1
 asystolic 1
-actinoida
+actinoida 1
 antonymous 1
 aftergame
 antherids
