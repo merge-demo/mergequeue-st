@@ -992,7 +992,7 @@ abstain 1
 abstainer 2
 ameland
 angoras
-abstainers
+abstainers 1
 abstaining
 abstains
 antiserum
@@ -8344,7 +8344,7 @@ archiepiscopacy
 alight 1
 adipopectic 1
 anomoeanism
-aligned
+aligned 1
 atropamine
 archived 1
 aligning 1
@@ -10129,7 +10129,7 @@ adelpholite
 alumin
 acidyl
 antiluetic
-antsigne 1
+antsigne 2
 aspirin
 atmological 1
 aggadic
