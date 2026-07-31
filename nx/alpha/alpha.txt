@@ -2077,7 +2077,7 @@ aveny
 awakeable
 amritas 1
 amidoxy 1
-altarpiece 1
+altarpiece 2
 achagua 1
 alnascharism 1
 amoret 1
@@ -3733,7 +3733,7 @@ abepithymia
 angulateness 2
 antislickens 1
 alphabetist 1
-aeonicaeonist
+aeonicaeonist 1
 ashier
 antiatom
 anachoret
@@ -12551,7 +12551,7 @@ anemobiagraph 2
 anemochord
 antimodernization
 anemochore
-aleutic
+aleutic 1
 aforehand
 anaboly
 appropriated
