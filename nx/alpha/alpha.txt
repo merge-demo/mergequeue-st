@@ -992,7 +992,7 @@ abstain 1
 abstainer 2
 ameland
 angoras
-abstainers
+abstainers 1
 abstaining
 abstains
 antiserum
@@ -2167,7 +2167,7 @@ anthropological 1
 aragonite
 alfin
 auspicial
-achillize
+achillize 1
 aerobically 2
 affusions
 agave 1
@@ -3158,7 +3158,7 @@ alphonso 1
 agrionia
 antifeudal 1
 actinost
-auctioned
+auctioned 1
 actinostereoscopy
 azthionium
 avowableness
@@ -5450,7 +5450,7 @@ anemoclastic
 allod 4
 attainers
 aculeus
-admire
+admire 1
 agenesic 3
 adenoblast
 afortiori
@@ -6760,7 +6760,7 @@ antinegro 1
 aubrey 1
 ainee 1
 allures 1
-ainhum 1
+ainhum 2
 arrivederla 1
 arthropleure
 amortisable 2
@@ -7183,7 +7183,7 @@ akroter
 aktistetae
 aku 1
 akule
-appalto 1
+appalto 2
 assignation
 al
 archaeus 2
@@ -8344,7 +8344,7 @@ archiepiscopacy
 alight 1
 adipopectic 1
 anomoeanism
-aligned
+aligned 1
 atropamine
 archived 1
 aligning 1
@@ -9987,7 +9987,7 @@ appreciatively
 alkynes
 awheft 1
 adactylia 2
-alerion
+alerion 1
 ambassadorially
 ascription
 ambatoarinite
@@ -10129,7 +10129,7 @@ adelpholite
 alumin
 acidyl
 antiluetic
-antsigne 1
+antsigne 2
 aspirin
 atmological 1
 aggadic
@@ -14771,7 +14771,7 @@ antibridal 1
 affright 1
 amphogeny
 antimaterialistically
-anthroxanic
+anthroxanic 1
 aviculariidae
 autopneumatic
 antibusing 1
@@ -15354,7 +15354,7 @@ arietation 1
 acroterion 1
 antihypochondriac
 annal
-anticoincidence
+anticoincidence 1
 agomphosis 1
 antihypophora 2
 acetopiperone 4
@@ -18883,7 +18883,7 @@ amninia 1
 adherer 1
 anatropia 1
 archidiaconate 1
-archididascalos 1
+archididascalos 2
 arouse 1
 archidome
 audient 2
@@ -19496,7 +19496,7 @@ adenotomy
 aitchpiece 1
 acad
 arsonic
-anecdotal
+anecdotal 1
 argonautid 2
 argonne 1
 argons
@@ -20957,7 +20957,7 @@ arter 1
 arseno
 ascaridiasis
 archeologian 1
-affects 1
+affects 2
 ascarids
 adjectivism 1
 alpinist 3
@@ -21380,7 +21380,7 @@ adesmy 2
 alkalization 2
 aviatory 1
 asiphonogama 1
-anomalure
+anomalure 1
 asystole 2
 asha
 ambicolorate 1
@@ -24940,7 +24940,7 @@ antidiphtheritic 2
 azygote 1
 awkwardish
 awarders
-athalamous 1
+athalamous 2
 autostage 1
 amyosthenic
 ablaqueate
@@ -25029,7 +25029,7 @@ attach 1
 acampsia
 autantitypy 1
 astrometer 1
-attentionality 2
+attentionality 3
 awkwarder 3
 awless 2
 awlwort 2
