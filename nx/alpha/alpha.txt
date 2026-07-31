@@ -2132,7 +2132,7 @@ achy 4
 absconds 1
 airtime 1
 anthologion 2
-aphagia
+aphagia 1
 antenniferous
 apout 1
 auditor 1
@@ -3495,7 +3495,7 @@ antedonin 1
 avoyership
 addendums
 archaized 1
-adder 1
+adder 2
 abridgment 1
 antroversion 1
 addible 1
@@ -9174,7 +9174,7 @@ aldime
 agalactous 1
 antiputrefaction
 averter 1
-animations
+animations 1
 apollonistic 1
 almemars
 approof 1
@@ -14648,7 +14648,7 @@ abacination
 abstractively
 anesthetize
 adapid
-anabaptist
+anabaptist 1
 antiadministration
 audiogram
 animalities 1
@@ -24859,7 +24859,7 @@ achenial
 ascidioida
 avolitional
 avouch
-avouchable 3
+avouchable 4
 atmosphere 2
 anaptyxis 1
 alands
