@@ -2870,7 +2870,7 @@ airworthier
 armorproof 1
 archostenosis
 autocamping 1
-acromicria 1
+acromicria 2
 aspersers 2
 athonite 1
 autodiagnosis 1
@@ -4632,7 +4632,7 @@ argols
 autobiology
 advisement 1
 atli 1
-abreacting
+abreacting 1
 arranger
 addax
 adviser
@@ -11105,7 +11105,7 @@ apostolic 1
 attics
 amotus
 apprizes 2
-arbitrament 1
+arbitrament 2
 amounted 1
 anonymous
 alaskans
@@ -12338,7 +12338,7 @@ addability 3
 authoritarians 1
 asthmatic 1
 antiblennorrhagic 1
-alysson 1
+alysson 2
 anticipate 3
 anconas
 anconeus
@@ -14433,7 +14433,7 @@ amphistomous
 awful
 acolyte 1
 antiperistatic
-anthotaxis 1
+anthotaxis 2
 andries 1
 analgetic
 aranga 1
@@ -15317,7 +15317,7 @@ awalim
 amorality
 alhambra 1
 antigravitational 2
-angiemphraxis 1
+angiemphraxis 2
 automobiling
 antigravity 2
 antigrowth
@@ -17209,7 +17209,7 @@ apomorphia 1
 ahmadi 1
 acropetal
 agonist
-aphodus 1
+aphodus 2
 adeptship
 assistantship
 aspired 1
@@ -19545,7 +19545,7 @@ adjacency
 amorphous
 ariana 1
 alifs
-antinationalistically 1
+antinationalistically 2
 arguments
 amorosa 1
 auriculated 2
@@ -20001,7 +20001,7 @@ acidulating
 arboreous
 asparaginic 3
 agar 1
-antproof 1
+antproof 2
 aroynting 1
 aminothiophen 1
 antitype
@@ -25282,7 +25282,7 @@ acarids
 ammonifying
 acceded
 aulete 1
-azine 1
+azine 2
 atrypa
 azlon
 altered 1
