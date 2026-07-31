@@ -367,7 +367,7 @@ alphin
 aerophone
 abdicate
 aberrancy
-aberrantly
+aberrantly 1
 aberrants
 aberrating 1
 astrogonic 1
@@ -674,7 +674,7 @@ autotomic 1
 azumbre 1
 azoted 2
 alkalisation 1
-abominations
+abominations 1
 abominator 1
 affably 1
 attrist 1
@@ -3868,7 +3868,7 @@ aprowl
 argufier 1
 ariel 1
 acetonyl
-ametabole
+ametabole 1
 adieu 1
 attame
 altin
@@ -4378,7 +4378,7 @@ abridgments
 atabrine 2
 amortizing 1
 anterevolutionary
-acarida
+acarida 1
 adscititious 2
 adscriptitious 1
 annodated 1
@@ -4404,7 +4404,7 @@ adsorbable
 acnodal
 angiothlipsis 1
 adsorbed
-adsorbent 2
+adsorbent 3
 austrogaean
 aventure
 apparels
@@ -4559,7 +4559,7 @@ arming 2
 atelopodia 1
 ako
 adventurous
-anaglyptic 1
+anaglyptic 2
 adventurousness
 ankle 1
 antebridal 2
@@ -8608,7 +8608,7 @@ abstractionist 1
 allegorised
 anisogenous 2
 ademption 1
-allasch 2
+allasch 3
 anticus 1
 ammanite 1
 anecdota 1
@@ -10591,7 +10591,7 @@ amyelencephalous
 actionizing 1
 apomictically 1
 adenoidism 2
-aviator
+aviator 1
 alien
 automatism 1
 antibacchic 1
@@ -13249,7 +13249,7 @@ almaine
 alleviant
 animist
 antigraft 2
-aecium
+aecium 1
 antisilverite 1
 alloplasmic 1
 animistic
@@ -14398,7 +14398,7 @@ antholite
 anthological 1
 anthologically 2
 anthologies
-autobiographies
+autobiographies 1
 alberto 2
 antiphonically
 anthologised 1
@@ -24963,7 +24963,7 @@ awave 1
 atilt
 aldine 1
 arroyo
-antiguggler
+antiguggler 1
 awd
 astonishes
 aminoacetal
