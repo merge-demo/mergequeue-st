@@ -9891,7 +9891,7 @@ aponogeton
 antepreterit
 amphigen 1
 amarine 2
-amarity
+amarity 1
 aplotomy 1
 armillas 1
 amaritude
@@ -11012,7 +11012,7 @@ abolitionary
 amyridaceae
 amoebobacterieae
 amoebocyte
-autophthalmoscope
+autophthalmoscope 1
 amoebogeniae
 amoy 2
 apinoid 1
@@ -18186,7 +18186,7 @@ atip
 aquatone
 adenitises 1
 acidemias
-aquavits 1
+aquavits 2
 amantillo
 asseverating 2
 aberuncator
