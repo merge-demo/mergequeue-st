@@ -5947,7 +5947,7 @@ adamantine 3
 agglutinatively 1
 agamobium 1
 agglutinize 1
-anathematization
+anathematization 1
 alibamu 1
 agglutinogen 1
 agglutinoscope 1
@@ -7528,7 +7528,7 @@ archtreasurer
 albumens
 anotta 1
 albumimeter
-aftership 2
+aftership 3
 appraisers
 armaria 1
 ask 2
@@ -8519,7 +8519,7 @@ alkedavy
 alkekengi
 alkene 1
 aroid
-alkenyl 1
+alkenyl 2
 alkes
 awreck
 amyloidoses
@@ -9292,7 +9292,7 @@ antiflash
 aloft 1
 alogy 2
 afghanets
-allover 2
+allover 3
 adjudicata 2
 alogically 2
 alogotrophy 3
@@ -10385,7 +10385,7 @@ anisosepalous 1
 antihemoglobin 1
 academician 1
 aethers
-antimission
+antimission 1
 americanisms
 aboriginals 2
 americanistic
@@ -14736,7 +14736,7 @@ antibasilican
 antibenzaldoxime 1
 appealer
 auctorial
-ascon 3
+ascon 4
 antibibliolatry 1
 antibigotry 1
 averageness
@@ -15662,7 +15662,7 @@ anoxaemia 1
 aphidicolous 1
 amygdalitis
 aeolight
-acrocontracture
+acrocontracture 1
 almous
 antiodont
 agnomens
@@ -17366,7 +17366,7 @@ atomising
 atik 1
 afrikaans
 aunties
-avoirdupois
+avoirdupois 1
 apologia
 azoparaffin 4
 aways
@@ -19944,7 +19944,7 @@ anthogenetic 2
 anchusine
 absentia 1
 antidumping
-araliophyllum 3
+araliophyllum 4
 applauding
 aryballos
 azlons
@@ -20999,7 +20999,7 @@ ascertainably
 ascertaining
 ametoecious 1
 ascertains 1
-ascendant 1
+ascendant 2
 arthropterous
 ascescency 1
 ascescent
@@ -22476,7 +22476,7 @@ astrospectral 3
 acrasiaceae
 adversion
 astrotheology 1
-anisostemonous 1
+anisostemonous 2
 astrut 1
 agronomical
 aprendiz
