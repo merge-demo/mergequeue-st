@@ -10657,7 +10657,7 @@ apostoile
 ayes
 amylenol
 antiopiumist
-amylic
+amylic 1
 anacahuite 1
 awin 1
 arride 1
@@ -12829,7 +12829,7 @@ angioleucitis
 antihemagglutinin
 anaphylactogen 1
 annelid 1
-angioma
+angioma 1
 angiomalacia 1
 acquits 1
 anoestrous 1
@@ -14957,7 +14957,7 @@ anticlockwise 1
 asphaltum 2
 anticlogging 2
 averroism 1
-anticoagulant 1
+anticoagulant 2
 anticoagulation
 anticoagulative
 acariasis 1
@@ -21716,7 +21716,7 @@ assemblable
 aphthous 1
 anconal 1
 assemble
-added 2
+added 3
 acetabularia 1
 assembled 2
 altitude
@@ -22238,7 +22238,7 @@ allylamine 1
 apennine
 algometry
 astonies
-astonish
+astonish 1
 amerindians
 autonomical
 annualize 2
@@ -23729,7 +23729,7 @@ anthropogeography
 aurophore
 aurore 1
 additionally
-acct
+acct 1
 aleppine 1
 aurous 1
 aurrescu
