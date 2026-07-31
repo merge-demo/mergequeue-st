@@ -1357,7 +1357,7 @@ amidships 1
 acaulescent 1
 acauline
 acc 1
-accable 1
+accable 2
 accel 2
 accelerable
 animalizing 1
@@ -2505,7 +2505,7 @@ autocombustible
 aclinic
 atrabilar
 antigene 1
-acmatic 1
+acmatic 2
 asparagus
 amphisbaenidae
 acme
@@ -5617,7 +5617,7 @@ alexandria
 aftersound
 anterevolutional 1
 afterspring 2
-anatron 1
+anatron 2
 arsenicism
 anhele
 afterstretch
@@ -13378,7 +13378,7 @@ anisopoda 1
 antilogies
 allegretto
 aspca
-agamont 2
+agamont 3
 anisopteran
 absolvitory
 abrading
@@ -19426,7 +19426,7 @@ actory
 athwartwise 1
 authorship 1
 antoecians
-augurial
+augurial 1
 argentry 1
 abbest
 antiparliamentarist
@@ -21089,7 +21089,7 @@ avariciously 2
 absconders 2
 anthropolith
 aunts 2
-alleyite
+alleyite 1
 aylesbury
 automobility
 ascolichen 1
@@ -22525,7 +22525,7 @@ atatschite
 angiospermous 1
 ataunto 1
 antelopian
-antivirotic 1
+antivirotic 2
 accessioned
 atavi
 anansi
@@ -24511,7 +24511,7 @@ abattoir
 apologal
 ag
 anticlericalist
-antimoniated 1
+antimoniated 2
 autoxidation
 autoxidator 1
 autoxidizability
