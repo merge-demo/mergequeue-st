@@ -4558,7 +4558,7 @@ aface
 arming 2
 atelopodia 1
 ako
-adventurous
+adventurous 1
 anaglyptic 1
 adventurousness
 ankle 1
@@ -10072,7 +10072,7 @@ analysability 1
 ambition 1
 apothecium 1
 acorned
-anisoin 2
+anisoin 3
 amission 2
 amerceable 1
 asquirm
@@ -16046,7 +16046,7 @@ archprince 3
 antipot
 architectonica
 amusing 1
-antirennin 1
+antirennin 2
 antirenter 1
 aldehol 2
 acinacious
