@@ -1516,7 +1516,7 @@ antlerless 1
 amass
 acclivitous 1
 acroceraunian 1
-apportionate
+apportionate 1
 aiguilles 2
 auricularias
 acclivous
@@ -3198,7 +3198,7 @@ actioner 1
 alcaid 2
 actiones 2
 alkalifiable
-acclimatation 1
+acclimatation 2
 aloelike
 auchenia 1
 actipylea
@@ -3822,7 +3822,7 @@ archaizer 2
 astrogeny 1
 allayers 1
 andamenta 1
-apologies 1
+apologies 2
 anthobiology
 alberta
 awol 1
@@ -3942,7 +3942,7 @@ acetine 1
 anagogy
 agyiomania
 anaerobiotically
-adjoinant 1
+adjoinant 2
 abbreviator 1
 anticipated
 angoumian 1
@@ -7571,7 +7571,7 @@ anonyms
 anisodont 1
 albumins
 albuminurophobia
-asynchronism 1
+asynchronism 2
 actomyosin 1
 anguses
 abrasives 1
@@ -9010,7 +9010,7 @@ allose 1
 allosyndetic
 allosome
 allosteric
-axer
+axer 1
 allotee 1
 allotelluric
 anthropolithic
@@ -11882,7 +11882,7 @@ anticreator
 analoga
 analogic 1
 anteposition 2
-ascertained 1
+ascertained 2
 anaximandrian 2
 amphicome 1
 amvis
@@ -12571,7 +12571,7 @@ azoturia 1
 archthief 1
 aerography
 avidities 1
-anemony 1
+anemony 2
 apophyses 2
 anguillidae 1
 anemopathy
@@ -12802,7 +12802,7 @@ angioataxia 2
 anasazi 3
 areality 1
 alternative
-applies
+applies 1
 angiocardiographies 1
 anileness
 angiocarpic 1
@@ -13388,7 +13388,7 @@ anisostichous
 anisostomous
 amlacra 1
 amphitheatral
-anencephalotrophia
+anencephalotrophia 1
 anystidae 1
 aloin 1
 alectoropodes 3
@@ -18275,7 +18275,7 @@ achromous 1
 agush 1
 archont
 arachnomorphae
-aphorists
+aphorists 1
 arabiyeh 1
 apparel 1
 acquisitum
@@ -23221,7 +23221,7 @@ attestor
 aggrandizes
 absvolt 1
 anorthopia
-attests
+attests 1
 aleuromancy
 alkermes 2
 androphonomania
