@@ -798,7 +798,7 @@ archenteric 1
 acratia
 abreed
 asyle 2
-acetate
+acetate 1
 autostrada 1
 abridgable
 anticlassicalist 1
@@ -1685,7 +1685,7 @@ atty 2
 anatomism 1
 attribute 1
 actualities 1
-accrued
+accrued 1
 accruement 1
 accruer 1
 anatta
@@ -1827,7 +1827,7 @@ allocthonous 2
 ahaaina 2
 affixing 1
 acromioscapular 2
-acenaphthylene 3
+acenaphthylene 4
 astuciously
 adiphenine 1
 argilloferruginous 1
@@ -3988,7 +3988,7 @@ admissory 2
 anteporch
 adjured
 amygdalotome
-aristotelism
+aristotelism 1
 absconding
 attack
 adjures 1
@@ -5970,7 +5970,7 @@ aggrandising
 altimettrically
 afterglows 1
 aggrandize 2
-althaea
+althaea 1
 affinity 1
 aggrandizement
 aetiologist
@@ -9704,7 +9704,7 @@ amnionia 1
 anacahuita 2
 algolagnic 2
 acis 1
-auspicy 2
+auspicy 3
 antimodernist 1
 antespring 1
 autecologic 2
@@ -11347,7 +11347,7 @@ actinocarpous
 amphisporangiate 1
 adenoidal 1
 amphistoma 1
-achillean 1
+achillean 2
 asyllabic
 apriori
 aguador 1
@@ -16462,7 +16462,7 @@ aspring 1
 alleviators 1
 assiduities
 alfirk 1
-atropic
+atropic 1
 ants 1
 antsiest 3
 accentus 1
@@ -16710,7 +16710,7 @@ agre
 assails
 albines
 alcaides
-aphacic
+aphacic 1
 accompaniment 2
 allowedly
 accolated 1
@@ -17640,7 +17640,7 @@ appetite
 algaroth
 ateleological
 autographist
-albizia
+albizia 1
 ancestrally
 anticontagion
 adsorbents 2
@@ -17692,7 +17692,7 @@ arillodium 1
 airborne 1
 allopaths
 argils
-avignonese
+avignonese 1
 acetoarsenite 1
 ambiguity 2
 aganippe
@@ -17706,7 +17706,7 @@ apples 1
 applewoman
 adopts 1
 aestethic 1
-adaptationally
+adaptationally 1
 adjacencies
 araucarioxylon
 amblycephalidae 1
@@ -18564,7 +18564,7 @@ amidine 2
 arrises 1
 arborway
 arbota 1
-arbour
+arbour 1
 amazeful 1
 arboured
 abbate
@@ -19495,7 +19495,7 @@ auctors 1
 adenotomy
 aitchpiece 1
 acad
-arsonic
+arsonic 1
 anecdotal 1
 argonautid 2
 argonne 1
@@ -19517,7 +19517,7 @@ amiantus
 accelerated 2
 adward
 antimaterialism 1
-acetonic
+acetonic 1
 adventist
 agrological
 anoles
@@ -19751,7 +19751,7 @@ anthraxolite
 aggie
 artificially 1
 arbory
-adrenally 2
+adrenally 3
 applaudable 1
 acylase
 angilo
@@ -23621,7 +23621,7 @@ auntly 2
 academizing 2
 auntliest
 auntlike 1
-auntre 1
+auntre 2
 acidemia 1
 auntrous 1
 algebraic 1
