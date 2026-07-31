@@ -14258,7 +14258,7 @@ allomorph
 agglutinant
 abrahamic 1
 aurite
-aeroscopic
+aeroscopic 1
 arent 1
 anisaldehyde
 arbuscula 1
@@ -16437,7 +16437,7 @@ antoninianus
 acidophil
 appointed
 aurei
-alwise 2
+alwise 3
 antonomastic 2
 antonomastical
 aminopurine 3
@@ -18109,7 +18109,7 @@ achondroplastic 1
 avarices
 azygobranchiata 1
 aquagreen 2
-anatomise 3
+anatomise 4
 absenteeism
 accipiter
 arthropoda
