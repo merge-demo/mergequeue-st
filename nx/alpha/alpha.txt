@@ -5561,7 +5561,7 @@ antipathy 1
 acton 1
 argot 2
 aluco
-acetonylidene
+acetonylidene 1
 afterguard
 anaerobious
 ablins
@@ -7799,7 +7799,7 @@ aldermen 1
 allopolyploidy
 almehs
 aonian 1
-adjustably
+adjustably 1
 asteroidea 2
 ambrette 2
 attired 1
@@ -14195,11 +14195,11 @@ angelo
 algonquian 2
 antepenult 1
 acromyodi 1
-allergic
+allergic 1
 amphithere
 abcissa 1
 antepirrhema
-acatallactic 3
+acatallactic 4
 admix
 absolutions 1
 avine 1
@@ -18028,7 +18028,7 @@ abadia 2
 arborescent
 anguiform
 attrap
-appropriativeness 1
+appropriativeness 2
 antipodean 1
 archimandrites
 atrazines
@@ -20061,7 +20061,7 @@ aroon 1
 autoplasty
 aroph 1
 agneau 1
-argiope
+argiope 1
 auscultate
 agitating 1
 abash
@@ -20814,7 +20814,7 @@ annotation 1
 acolhua 1
 applicate
 aligners
-artworks
+artworks 1
 adeodatus 1
 antbird 2
 affeer
@@ -22702,7 +22702,7 @@ askarel
 athyria 2
 acronymous 1
 ampyces
-awide
+awide 1
 aids
 anathema
 athyrid
