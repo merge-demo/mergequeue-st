@@ -2870,7 +2870,7 @@ airworthier
 armorproof 1
 archostenosis
 autocamping 1
-acromicria 1
+acromicria 2
 aspersers 2
 athonite 1
 autodiagnosis 1
@@ -3152,7 +3152,7 @@ accentuated 1
 ambling 2
 amsterdam 3
 athyroidism 1
-atmosteon
+atmosteon 1
 arhythmic 1
 alphonso 1
 agrionia
@@ -4562,7 +4562,7 @@ adventurous
 anaglyptic 1
 adventurousness
 ankle 1
-antebridal 1
+antebridal 2
 adverbial
 adverbially
 autographical 1
@@ -4632,7 +4632,7 @@ argols
 autobiology
 advisement 1
 atli 1
-abreacting
+abreacting 1
 arranger
 addax
 adviser
@@ -6428,7 +6428,7 @@ agrogeology
 aleucaemic 2
 agrogeological
 aurung 2
-ancylostoma
+ancylostoma 1
 anteopercle
 acoine 1
 afro
@@ -7505,7 +7505,7 @@ achromic 1
 agma
 anchoress 1
 albuginea
-archivist
+archivist 1
 albugines
 apometabolous 1
 amban
@@ -10021,7 +10021,7 @@ ambers
 arthropodous
 acinotubular
 andine
-acrodonts 2
+acrodonts 3
 ambicoloration
 abseiled
 albacore 1
@@ -11105,7 +11105,7 @@ apostolic 1
 attics
 amotus
 apprizes 2
-arbitrament 1
+arbitrament 2
 amounted 1
 anonymous
 alaskans
@@ -12338,7 +12338,7 @@ addability 3
 authoritarians 1
 asthmatic 1
 antiblennorrhagic 1
-alysson 1
+alysson 2
 anticipate 3
 anconas
 anconeus
@@ -13031,7 +13031,7 @@ afar 2
 angulous 1
 aporose
 antepone 1
-anticomplementary 1
+anticomplementary 2
 angust
 adrenine 2
 auronal
@@ -14433,7 +14433,7 @@ amphistomous
 awful
 acolyte 1
 antiperistatic
-anthotaxis 1
+anthotaxis 2
 andries 1
 analgetic
 aranga 1
@@ -15317,7 +15317,7 @@ awalim
 amorality
 alhambra 1
 antigravitational 2
-angiemphraxis 1
+angiemphraxis 2
 automobiling
 antigravity 2
 antigrowth
@@ -17209,7 +17209,7 @@ apomorphia 1
 ahmadi 1
 acropetal
 agonist
-aphodus 1
+aphodus 2
 adeptship
 assistantship
 aspired 1
@@ -19545,7 +19545,7 @@ adjacency
 amorphous
 ariana 1
 alifs
-antinationalistically 1
+antinationalistically 2
 arguments
 amorosa 1
 auriculated 2
@@ -20001,7 +20001,7 @@ acidulating
 arboreous
 asparaginic 3
 agar 1
-antproof 1
+antproof 2
 aroynting 1
 aminothiophen 1
 antitype
@@ -23283,7 +23283,7 @@ attract
 armageddonist 1
 armadillididae 2
 aliped 1
-alangiaceae 2
+alangiaceae 3
 achroite
 alleyways 1
 attracter
@@ -24783,7 +24783,7 @@ adamine 1
 avidity 1
 arithmetized
 autologous 1
-anticonstitutionalism
+anticonstitutionalism 1
 anitrogenous 1
 archprelatic 1
 avifauna 1
@@ -25282,7 +25282,7 @@ acarids
 ammonifying
 acceded
 aulete 1
-azine 1
+azine 2
 atrypa
 azlon
 altered 1
