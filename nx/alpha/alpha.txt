@@ -992,7 +992,7 @@ abstain 1
 abstainer 2
 ameland
 angoras
-abstainers
+abstainers 1
 abstaining
 abstains
 antiserum
@@ -1691,7 +1691,7 @@ accruer 1
 anatta
 adiabatic 1
 accrues
-accruing 1
+accruing 2
 antiprophet 1
 aneurismal
 agonists 1
@@ -2167,7 +2167,7 @@ anthropological 1
 aragonite
 alfin
 auspicial
-achillize
+achillize 1
 aerobically 2
 affusions
 agave 1
@@ -6760,7 +6760,7 @@ antinegro 1
 aubrey 1
 ainee 1
 allures 1
-ainhum 1
+ainhum 2
 arrivederla 1
 arthropleure
 amortisable 2
@@ -8344,7 +8344,7 @@ archiepiscopacy
 alight 1
 adipopectic 1
 anomoeanism
-aligned
+aligned 1
 atropamine
 archived 1
 aligning 1
@@ -9724,7 +9724,7 @@ alvar
 anecdotist
 asmack
 anaemic
-advent
+advent 1
 alvearium 2
 alveolariform 1
 alveolate
@@ -9987,7 +9987,7 @@ appreciatively
 alkynes
 awheft 1
 adactylia 2
-alerion
+alerion 1
 ambassadorially
 ascription
 ambatoarinite
@@ -10129,7 +10129,7 @@ adelpholite
 alumin
 acidyl
 antiluetic
-antsigne 1
+antsigne 2
 aspirin
 atmological 1
 aggadic
@@ -18593,7 +18593,7 @@ aulos 1
 adlegation
 arcading 1
 amphib 2
-arctogaean 2
+arctogaean 3
 antipatriarchally
 allurer
 antitragi 1
@@ -18883,7 +18883,7 @@ amninia 1
 adherer 1
 anatropia 1
 archidiaconate 1
-archididascalos 1
+archididascalos 2
 arouse 1
 archidome
 audient 2
@@ -20957,7 +20957,7 @@ arter 1
 arseno
 ascaridiasis
 archeologian 1
-affects 1
+affects 2
 ascarids
 adjectivism 1
 alpinist 3
@@ -24936,11 +24936,11 @@ automotor 1
 archform 1
 arseniosiderite
 adroit
-antidiphtheritic 1
+antidiphtheritic 2
 azygote 1
 awkwardish
 awarders
-athalamous 1
+athalamous 2
 autostage 1
 amyosthenic
 ablaqueate
@@ -25029,7 +25029,7 @@ attach 1
 acampsia
 autantitypy 1
 astrometer 1
-attentionality 2
+attentionality 3
 awkwarder 3
 awless 2
 awlwort 2
