@@ -1101,7 +1101,7 @@ abundance 1
 accurtation 1
 alcelaphine
 ammoniojarosite
-apparelled 1
+apparelled 2
 abundancy
 abundant 1
 abundantly
@@ -4368,7 +4368,7 @@ algesireceptor 2
 adrogate
 antialbumid 1
 anthranilic 2
-antihygienic
+antihygienic 1
 ascript 1
 acetmethylanilide
 adrowse 2
@@ -6653,7 +6653,7 @@ alveolite
 afterbeat 1
 aymaran 1
 astatizer
-assembles 1
+assembles 2
 anodynous 2
 apterous
 augustal
@@ -10768,7 +10768,7 @@ anacrusis
 averting 1
 archivists 1
 arthropomatous
-auxotox 1
+auxotox 2
 adsorptively 1
 absinth
 alumetize
@@ -11227,7 +11227,7 @@ amphicarpaea 1
 amphicarpia 1
 autallotriomorphic
 abrin
-acold
+acold 1
 ascaricide
 amphicarpium
 aluconidae 2
@@ -11719,7 +11719,7 @@ anaerobation 1
 antiquist 2
 acrocentric 1
 anaerobion 2
-apocrisiary
+apocrisiary 1
 anaerobiont
 anaerobiosis
 anaerobiotic
@@ -23211,7 +23211,7 @@ accomplice 1
 architecturesque 1
 attestator
 antiseption 1
-attested 2
+attested 3
 apyrexy 2
 attester 1
 antwerp 1
@@ -23752,7 +23752,7 @@ auscultation
 amphicyrtic 2
 anagnorises
 ausform
-amyotrophy 1
+amyotrophy 2
 ausforming
 ajog
 arrent 1
