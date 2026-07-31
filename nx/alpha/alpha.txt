@@ -494,7 +494,7 @@ actinide
 airstream
 abyssus
 abit 2
-agriculture 1
+agriculture 2
 abbreviate 2
 amylemia
 antiscriptural 1
@@ -3483,7 +3483,7 @@ addebted
 auntlier 1
 antivenin 2
 apologizer
-addeem 2
+addeem 3
 admirableness 1
 addend
 aion
@@ -5662,7 +5662,7 @@ autocystoplasty 3
 anticorrosion 1
 afwillite
 afzelia 2
-apsychia 1
+apsychia 2
 adjustable 1
 anagram 1
 amidstream
@@ -6454,7 +6454,7 @@ ananias 1
 arthrotome 2
 arapaimas 1
 agrostemma 1
-acrogamy
+acrogamy 1
 agrostography
 algesthesis 2
 antivenom
@@ -8479,7 +8479,7 @@ aristolochiaceae 1
 amebous 1
 alkalise 1
 alkalised
-affrayed 1
+affrayed 2
 antibug
 alkaliser
 adjoint
@@ -8642,7 +8642,7 @@ apodeipna 1
 apoharmine 2
 aqueduct 1
 abandoners 1
-arboricultural 1
+arboricultural 2
 allegorisation
 allegorise 1
 afear 1
@@ -8672,7 +8672,7 @@ angioparalytic
 annunciatory 1
 anglophobist 1
 allegorizer 1
-adorantes 1
+adorantes 2
 antidinic 1
 anomuran 1
 allegorizing 1
@@ -12669,7 +12669,7 @@ aneuch 2
 arhatship 2
 andesite 2
 alala 1
-aneuploidy
+aneuploidy 1
 aneuric 1
 azo
 amentiferae
@@ -12779,7 +12779,7 @@ anepia
 angetenar
 antipriming
 angiectasis 2
-apocathartic 2
+apocathartic 3
 apostemate
 anomocarpous
 apyrous
@@ -13715,7 +13715,7 @@ attern
 anointment 1
 autodidacts
 anointments 2
-articulation
+articulation 1
 adulterer
 astrometrical 1
 aunt
@@ -14333,7 +14333,7 @@ archebiosis 2
 archflatterer
 anthemion 1
 anthemis
-aecidiomycetes
+aecidiomycetes 1
 antialien 1
 antheridia 1
 antherogenous
@@ -14417,7 +14417,7 @@ anthony 1
 analysation
 acrostically
 amylodyspepsia 2
-aerometric
+aerometric 1
 actualizing 1
 appealing
 anthophyllitic 1
@@ -15595,7 +15595,7 @@ antimoral 2
 antimoralism 1
 avale 1
 armadillo
-ailurophile 2
+ailurophile 3
 aquage 1
 altrose
 approves 1
@@ -18668,7 +18668,7 @@ amphictyony 1
 anhungry
 archaise 2
 anaesthetize 1
-acidanthera
+acidanthera 1
 almuce 3
 alexipharmical 1
 acroanesthesia 1
@@ -19762,7 +19762,7 @@ arlequinade
 ambaries
 aplombs
 amsonia
-achroanthes
+achroanthes 1
 abrogated
 ambystoma 1
 armadas
@@ -21085,7 +21085,7 @@ areng
 alpinely 2
 anesthetizer 1
 alabama
-avariciously 2
+avariciously 3
 absconders 2
 anthropolith
 aunts 2
@@ -21385,7 +21385,7 @@ asystole 2
 asha
 ambicolorate 1
 asystolic 1
-actinoida
+actinoida 1
 antonymous 1
 aftergame
 antherids
@@ -22472,7 +22472,7 @@ astrophotometer
 astroscopy 1
 autocratorical 1
 astroscopus
-astrospectral 3
+astrospectral 4
 acrasiaceae
 adversion
 astrotheology 1
@@ -23243,7 +23243,7 @@ alopathic 1
 argema 1
 attingency 1
 asked
-ammonite 1
+ammonite 2
 attingent 1
 anisognathous 1
 autosuggestions
@@ -23738,7 +23738,7 @@ anchtherium
 aurulent
 anagrammatical 1
 anisuria
-aurums 1
+aurums 2
 alopecurus 1
 auscultascope
 adzes
@@ -24277,7 +24277,7 @@ autonomasy 3
 afeard 1
 airmen 1
 alliteral
-asphaltlike
+asphaltlike 1
 arylating
 airsickness 2
 antiheroic
