@@ -5943,7 +5943,7 @@ aftergrind 2
 actinomycetaceae
 ablute 1
 agglutinative
-adamantine 2
+adamantine 3
 agglutinatively 1
 agamobium 1
 agglutinize 1
@@ -7401,7 +7401,7 @@ albertine
 albertist 1
 adnomination 1
 antitradition
-azolitmin 2
+azolitmin 3
 afrete
 athrocyte 1
 antipapist 1
@@ -12816,7 +12816,7 @@ allegiare
 angiogeny 1
 anyway
 anhelous
-anachronously
+anachronously 1
 anetholes
 anglophilia 1
 antiricin 1
@@ -16255,7 +16255,7 @@ aspergil
 anuria 1
 anisil
 adulterers
-agelaius
+agelaius 1
 agronomically
 autodyne
 antiegotistical 1
@@ -17525,7 +17525,7 @@ amalings
 appeasements
 arrogantness 2
 aroints 2
-advantages 1
+advantages 2
 adelomorphous 1
 agraphias
 appeasingly
@@ -20659,7 +20659,7 @@ acrylaldehyde 1
 accursedly
 azides
 arthroxerosis
-arthrozoa
+arthrozoa 1
 amaine 1
 annunciates 1
 antiliturgy 1
@@ -24198,7 +24198,7 @@ artemia
 antherless
 autolithograph 1
 autoinfection
-alnein 2
+alnein 3
 anhydraemia 2
 autolyzate 1
 autolyzes 2
