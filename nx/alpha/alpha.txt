@@ -695,7 +695,7 @@ anhydrosis
 aborigines
 abort
 aborted 1
-antiscorbutic
+antiscorbutic 1
 abortient
 anacardic 2
 assuring
@@ -832,7 +832,7 @@ aiel 1
 atrabiliary 3
 abruptio
 antianaphylactogen 1
-acropolises
+acropolises 1
 abscision
 anthodia
 abruption
@@ -2113,7 +2113,7 @@ antidromic 1
 achenes 2
 amorua 2
 alphabets
-argon 1
+argon 2
 aeropulse 3
 andantini 1
 acheron
@@ -4609,7 +4609,7 @@ advertizes
 atypicality
 advice 1
 advices
-affectional
+affectional 1
 atomatic 1
 antas
 advisableness
@@ -5501,7 +5501,7 @@ attuned
 antiputrid 1
 aerobiological 1
 aft
-afteract
+afteract 1
 appetitive 1
 afterlife
 absorbs 1
@@ -7390,7 +7390,7 @@ anthropobiologist 1
 alberge 1
 alternating
 additively
-apometabolic 1
+apometabolic 2
 alberghi 1
 aplite
 albergo 1
@@ -10098,7 +10098,7 @@ amblygonal 1
 allergology 1
 amblygonite
 attractant
-absinthic 1
+absinthic 2
 aidmanmen
 ambrosiate
 amblyomma
@@ -10303,7 +10303,7 @@ animality
 abessive
 amellus 1
 anthozooid 2
-amelus 1
+amelus 2
 amen 2
 agathosma
 ammonocarbonic
@@ -10631,7 +10631,7 @@ aftershine
 acidifier 2
 aminated
 amygdule 1
-affirmative 2
+affirmative 3
 amigos 1
 amiidae
 aulophobia
@@ -11361,7 +11361,7 @@ amphithecia
 amendableness 1
 almacen
 advisees 2
-amphithecium
+amphithecium 1
 abjures 3
 antependiums
 alterant 2
@@ -13031,7 +13031,7 @@ afar 2
 angulous 1
 aporose
 antepone 1
-anticomplementary 1
+anticomplementary 2
 angust
 adrenine 2
 auronal
@@ -13196,7 +13196,7 @@ agenesias
 archplagiary 2
 acetonization
 anthropomorpha 1
-autographal
+autographal 1
 animalivorous
 anticreativity 1
 alapa 2
@@ -16956,7 +16956,7 @@ aladinist
 alhagi 1
 aplace 1
 aplacentaria
-anton 5
+anton 6
 aminization
 affectedness
 angliae 1
@@ -21683,7 +21683,7 @@ amphicytula 1
 assausive 1
 arrhinia
 audiotape 1
-askar 1
+askar 2
 almandine 1
 antivenene 1
 apothegmatical 1
@@ -22098,7 +22098,7 @@ alloclasite
 apoplexies 1
 adduce
 asterisk
-antesunrise
+antesunrise 1
 artilleryman
 anteromedial 2
 arteriorrhagia 2
@@ -22437,7 +22437,7 @@ astrometry
 amplect
 agric
 animalising
-astrometric 1
+astrometric 2
 astronaut
 axolotl
 apollinian
@@ -23283,7 +23283,7 @@ attract
 armageddonist 1
 armadillididae 2
 aliped 1
-alangiaceae 2
+alangiaceae 3
 achroite
 alleyways 1
 attracter
@@ -25154,7 +25154,7 @@ aspirated 2
 axites 2
 assault
 anacanthini 1
-accommodatingly
+accommodatingly 1
 antimonious
 axled
 apophylactic 2
