@@ -6438,7 +6438,7 @@ auriculariae 1
 agromyzid 2
 agron
 ascaricidal
-agronome
+agronome 1
 aortomalacia 2
 aspidocephali 2
 autoignition
@@ -6786,7 +6786,7 @@ antemetic 1
 ardour 1
 agribusiness 1
 antiglare
-armlocks 1
+armlocks 2
 airable 1
 avenue
 angerless
@@ -22525,7 +22525,7 @@ atatschite
 angiospermous 1
 ataunto 1
 antelopian
-antivirotic
+antivirotic 1
 accessioned
 atavi
 anansi
