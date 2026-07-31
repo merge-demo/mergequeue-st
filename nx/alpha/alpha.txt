@@ -279,7 +279,7 @@ apelet
 abdom 1
 adventures
 anhydrides
-autoserotherapy 1
+autoserotherapy 2
 amphicoelian 1
 arian
 aucaner 1
@@ -11095,7 +11095,7 @@ araneid 2
 acclinate 1
 anoesis
 autoput
-aunter 1
+aunter 2
 antireligion 1
 alacreatinin 1
 amotions 3
@@ -12075,7 +12075,7 @@ avionics
 anas 2
 athumia
 anasa 1
-adaptedness
+adaptedness 1
 aralkylated 2
 arteriosclerosis 1
 asclent
@@ -12113,7 +12113,7 @@ anastasian
 alveus 1
 amblyopsis
 autostability 2
-aerogen 3
+aerogen 4
 anhalamine 2
 airspeed 1
 anastasimon 1
@@ -15806,7 +15806,7 @@ antiphysicalness
 appropriament
 alkane 1
 ambomalleal
-agujon
+agujon 1
 antiphona 1
 aminobarbituric
 antieugenic 1
