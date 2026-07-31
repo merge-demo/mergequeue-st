@@ -5943,7 +5943,7 @@ aftergrind 2
 actinomycetaceae
 ablute 1
 agglutinative
-adamantine 2
+adamantine 3
 agglutinatively 1
 agamobium 1
 agglutinize 1
@@ -12117,7 +12117,7 @@ aerogen 4
 anhalamine 2
 airspeed 1
 anastasimon 1
-anastasius
+anastasius 1
 anemosis
 architeuthis 1
 azonaphthalene
@@ -16255,7 +16255,7 @@ aspergil
 anuria 1
 anisil
 adulterers
-agelaius
+agelaius 1
 agronomically
 autodyne
 antiegotistical 1
@@ -18711,7 +18711,7 @@ acroamata
 awhet
 archbotcher 1
 aretes
-alerts
+alerts 1
 acetomorphin
 aloeroot
 applaud 1
