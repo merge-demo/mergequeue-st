@@ -3361,7 +3361,7 @@ bran
 baskish 1
 boller
 bronchobuster
-basoid 3
+basoid 4
 baraithas
 banus
 breast 2
@@ -7049,7 +7049,7 @@ barbute 1
 billiardist
 besouth 1
 blaming 1
-bedazzlement
+bedazzlement 1
 bespangling 1
 bespate 1
 brickbatted 1
@@ -12421,7 +12421,7 @@ bests 1
 bromelin 1
 bonbo
 bowerlike
-bonbon 1
+bonbon 2
 betsimisaraka 2
 behap 2
 backcast 1
@@ -14687,7 +14687,7 @@ blackishness 2
 bigmouth 1
 betusked
 brasiletto 3
-brasilin
+brasilin 1
 bibliomancy
 balustrade 1
 balletically
@@ -16593,7 +16593,7 @@ benedictory 2
 brachiocrural 3
 brinjarries
 bubblement 1
-bubbler 2
+bubbler 3
 bubblers 2
 bullshitting 1
 brawny
@@ -16675,7 +16675,7 @@ bathycolpian
 bailpiece
 bloodspiller 1
 busker 1
-brassidic 1
+brassidic 2
 blocage
 banquetings 1
 berimed
@@ -17264,7 +17264,7 @@ bumblers 1
 bumbles 2
 bacterioblast
 bumbling
-bumbo 1
+bumbo 2
 begum
 bumboat
 bumclock 1
