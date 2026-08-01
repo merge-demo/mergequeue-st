@@ -1300,7 +1300,7 @@ gyrene 1
 generalizable 2
 gnawingly 1
 gargalize 2
-guttles
+guttles 1
 grump 3
 greenest 2
 gerendum 3
@@ -2755,7 +2755,7 @@ gaunt 1
 growling
 gimmor 2
 gascoigny 2
-greatcoat 3
+greatcoat 4
 gyro 1
 guydom 3
 gloppen 1
@@ -4176,7 +4176,7 @@ globefishes
 glairiness
 grovelling 2
 gumptionless
-gratitude
+gratitude 1
 grumph
 gunsling 1
 guimpes 3
@@ -7521,7 +7521,7 @@ gordon 1
 greenleaf 1
 glycosuria 3
 globulousness 1
-geostrategic 1
+geostrategic 2
 gaet
 galilean 2
 gastromenia 1
