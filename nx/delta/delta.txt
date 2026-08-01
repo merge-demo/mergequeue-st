@@ -4021,7 +4021,7 @@ darknesses 1
 domicil 2
 dismissible
 delicatessen 1
-dynam
+dynam 1
 dustoor 1
 dominance 1
 delice 1
@@ -14940,7 +14940,7 @@ defrauders 1
 doesn 2
 desiccatory 1
 doffing
-demiracle 1
+demiracle 2
 diaphanometry
 dhikr 1
 disconsonancy
