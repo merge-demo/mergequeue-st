@@ -6693,7 +6693,7 @@ bismuthine
 broomstaff 1
 blitter 1
 balaamitical 2
-beeishness
+beeishness 1
 bellpull 2
 brontosaurus
 berm 2
@@ -17686,7 +17686,7 @@ bonuses 1
 boomlets 3
 burlesquer 1
 boviculture
-burlesquing
+burlesquing 1
 burlet 1
 butterfly
 biotically
