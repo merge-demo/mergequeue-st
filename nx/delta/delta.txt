@@ -10986,7 +10986,7 @@ disaligned 1
 disalliege 3
 dodona
 downbend 2
-doorframe 1
+doorframe 2
 disallow 2
 displaying 1
 dorneck
@@ -17102,7 +17102,7 @@ disthroning 1
 divisory
 diaconus 1
 dismally 3
-diclinies 2
+diclinies 3
 diaplexus
 developes
 dipsos
