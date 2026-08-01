@@ -3572,7 +3572,7 @@ dermatocoptes 1
 drywall
 dawny
 depending 1
-disguise 1
+disguise 2
 debunker 1
 degassed
 disappears 1
@@ -9276,7 +9276,7 @@ daikering 2
 diurne 4
 daguerreotyper
 dietaries 2
-deosculate
+deosculate 1
 disploding
 declinal
 dictatress 1
@@ -10590,7 +10590,7 @@ despecialization
 decolorizing 2
 diplomates
 diplomatically 1
-diethyl
+diethyl 1
 dolour 1
 dribbed 1
 dinantian
@@ -14095,7 +14095,7 @@ demythify 1
 distributress 2
 dietics
 despin
-district
+district 1
 districting 1
 defoaming 2
 decarnate 1
