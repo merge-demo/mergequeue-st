@@ -8719,7 +8719,7 @@ cobnut
 capitaliser
 chapelling
 commonplaces
-chapelmaster 1
+chapelmaster 2
 colonises
 chapelry
 combflower 2
@@ -9791,7 +9791,7 @@ chelonia 1
 contrails
 chelonian 1
 cheloniidae 1
-crucialness
+crucialness 1
 cunit 1
 chemehuevi
 chemiatric 2
@@ -13422,7 +13422,7 @@ cheatrie
 carbolating
 cymols
 cleared 2
-courageously 1
+courageously 2
 christabel 1
 ciderish
 crozzle
