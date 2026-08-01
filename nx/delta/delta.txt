@@ -3184,7 +3184,7 @@ defectlessness 1
 delegatory 1
 dislevelment 1
 descendible
-despiteous 1
+despiteous 2
 dulcineas 1
 dandriffs
 determinant 2
@@ -3649,7 +3649,7 @@ deglutitious 2
 degold
 decathlon
 disinhibition 1
-decomposite 3
+decomposite 4
 dysteleological 1
 degorge
 degradative 1
@@ -5140,7 +5140,7 @@ decarburation
 desertic 1
 denierer
 denigrates
-dipolarize 1
+dipolarize 2
 denigrator 1
 dietine
 dumbfounded 1
@@ -8900,7 +8900,7 @@ dichasia 1
 decolonizing 1
 distributiveness 1
 dichasium 2
-deordination
+deordination 1
 dinginess 1
 deash
 diminutiveness 2
@@ -9482,7 +9482,7 @@ deplorate
 dural
 digestiveness 1
 dipteroi
-diamonded 1
+diamonded 2
 dermad
 domically
 daintrel 2
@@ -10658,7 +10658,7 @@ draws 1
 derivable
 declinometer 1
 downstreet
-dogman
+dogman 1
 digoxin 1
 derationalize 2
 denunciating
@@ -11601,7 +11601,7 @@ damsite 1
 denser 2
 discursative 1
 discommune
-denominates
+denominates 1
 disburgeon 2
 dragooner
 divell 1
@@ -11989,7 +11989,7 @@ devanagari
 demonkind 1
 disenfranchises 1
 disintertwine 2
-divinest 1
+divinest 2
 diapsid
 driest 2
 dogmatically 1
@@ -12401,7 +12401,7 @@ dishonoring 2
 discontentful 2
 divinizing 1
 debilitative
-dishonors 1
+dishonors 2
 desulfurate 3
 dishorn
 discontinue
@@ -13120,7 +13120,7 @@ deathy 1
 dispericraniate 1
 disenvelop
 discoverability
-diaphototropism
+diaphototropism 1
 dethyroidism 1
 decompositions 2
 defamer 2
@@ -14101,7 +14101,7 @@ defoaming 2
 decarnate 1
 doree 1
 divoto 1
-deltarium
+deltarium 1
 diisatogen
 detonating
 descendents
@@ -14363,7 +14363,7 @@ diuresis 2
 democratical 1
 divagatory 4
 diureticalness
-dialyzed
+dialyzed 1
 dodger 1
 deadheaded 2
 depraved
@@ -16535,7 +16535,7 @@ disdainable 1
 diomedes 1
 dictated
 dehydrofreezing 1
-dewcap
+dewcap 1
 dethroning 2
 dibblers 2
 draftiest

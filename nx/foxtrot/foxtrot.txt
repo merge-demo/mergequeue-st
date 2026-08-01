@@ -290,7 +290,7 @@ forthputting
 foaming 2
 faired
 filar 2
-flexuosity
+flexuosity 1
 fraternation 2
 faders 1
 feints 3
@@ -341,7 +341,7 @@ fellers 3
 flattering 1
 festival
 fiercening
-featherway 1
+featherway 2
 finspot 2
 featest 2
 folksey
@@ -2510,10 +2510,10 @@ fainthearted 2
 flipflop 4
 femorocele 1
 faction 5
-farted
+farted 1
 facinorousness 2
 formability 2
-fluxgraph 1
+fluxgraph 2
 fatihah 2
 fuzzily 2
 faldworth 4
@@ -3907,7 +3907,7 @@ fluoridated
 fitly 2
 fullage 3
 frostproof 2
-frolicsomely 1
+frolicsomely 2
 fang 1
 foreseeable 2
 formalised 1
@@ -5501,7 +5501,7 @@ friezy 1
 fiduciarily 2
 fasts 5
 fiant 6
-friseurs 1
+friseurs 2
 fossed 1
 fretwork 1
 forbarred 1
@@ -7093,7 +7093,7 @@ florigenic 3
 fractioning 2
 fraken 1
 flavours 1
-fledge 3
+fledge 4
 fascinating 1
 fleapit 1
 factious 1
@@ -7831,7 +7831,7 @@ fuzed
 frounces 1
 forenote 2
 fastness 2
-feltyflier 2
+feltyflier 3
 fleamy
 fashionableness
 felonwood 3
@@ -8274,7 +8274,7 @@ flavines
 footwork 3
 flammivomous 1
 forgather
-fossulet
+fossulet 1
 falsifications 1
 fossulate 3
 foresweat 2
