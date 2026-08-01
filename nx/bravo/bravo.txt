@@ -6446,7 +6446,7 @@ benzothiofuran 2
 burs
 benzothiophene
 benzoxyacetic 2
-blanchers 2
+blanchers 3
 ballast
 bisulcate
 barouchet
@@ -8577,7 +8577,7 @@ bucklered
 boweries
 bankrider
 bastinading
-billety
+billety 1
 billets
 bucare
 brainlike 1
@@ -12928,7 +12928,7 @@ bhandari 2
 bootees
 battlemented 1
 blunging
-bootery 1
+bootery 2
 batster
 birse 1
 bedlamise 2
