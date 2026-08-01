@@ -4961,7 +4961,7 @@ bassos
 boisterously 1
 baianism 1
 beennut 1
-bimedial 1
+bimedial 2
 bezette 1
 bonework 1
 blesse 2
@@ -4986,7 +4986,7 @@ beerhouse 1
 beerhouses
 breech 1
 breastband 2
-barbecueing
+barbecueing 1
 beladied
 basement 1
 bluebeardism 4
@@ -5125,7 +5125,7 @@ beflap 1
 beflea 1
 bream 1
 brainier 1
-belching
+belching 1
 borderers
 boussingaultite 2
 beflecked 1
@@ -15487,7 +15487,7 @@ beiges 2
 boba
 bravos
 bullule
-bemusing
+bemusing 1
 blinder
 bilious 1
 brilliantly
