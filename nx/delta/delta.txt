@@ -4543,7 +4543,7 @@ demineralizing 1
 demiorbit
 disbarment 2
 disbody 3
-dendrolagus
+dendrolagus 1
 discharging
 dustlike
 dolichocrany
@@ -6423,7 +6423,7 @@ defalcation
 decarburisation 2
 diaereses 1
 dozened 2
-desacralization 1
+desacralization 2
 defrocks
 drizzled
 dictatorially 1
@@ -9122,7 +9122,7 @@ disweapon
 didelphoid 3
 disinclines
 derisory 3
-doffs 1
+doffs 2
 desexualized
 dauphines
 detriment 1
@@ -15232,7 +15232,7 @@ derotremate
 domicile 1
 dal 1
 dollymen 1
-dolliness
+dolliness 1
 dingled 1
 dentilation
 depainting
