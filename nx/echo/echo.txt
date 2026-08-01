@@ -58,7 +58,7 @@ earldoms 1
 earless 1
 extradomestic 1
 excuss
-estuarine 1
+estuarine 2
 empaneling 2
 earliest 2
 enfilading 2
@@ -330,7 +330,7 @@ empresse 1
 embleming
 enleaf
 epirogenic 1
-exigible 1
+exigible 2
 eaten 1
 eighty 2
 exogamies
@@ -985,7 +985,7 @@ explosibility 1
 encapsules 1
 eastlins 1
 euthanasic 1
-enterocinetic 1
+enterocinetic 2
 epoxide 1
 eruditeness
 endearments 1
@@ -3445,7 +3445,7 @@ engrail 3
 evacuate 1
 embellisher
 embellishers 1
-eutelegenic 1
+eutelegenic 2
 encheason 2
 encolden 1
 embers 1
@@ -3859,7 +3859,7 @@ emball
 engendering
 environmental 1
 epinephelidae 1
-extracted
+extracted 1
 endometry 1
 eschatocol
 englory
@@ -4343,7 +4343,7 @@ evisite
 endoplastule 2
 euornithes 2
 enapt 1
-evilsayer
+evilsayer 1
 elatinaceae 3
 equipments 2
 enarched 1
@@ -4408,7 +4408,7 @@ exalts 3
 epidermal
 embreach
 emanates
-extremists 2
+extremists 3
 econometrically 1
 encarnalizing 2
 encarpa 1
@@ -5741,7 +5741,7 @@ ensalada 2
 englanders
 engleim 3
 enshrines 1
-exchangeability 1
+exchangeability 2
 extranidal 2
 eosinophilous 2
 exhilarating 1
@@ -6275,7 +6275,7 @@ enrollers 3
 eche 1
 excitants 1
 examined 2
-etang
+etang 1
 exorcised 4
 etherialize
 eugenolate 2
@@ -7379,7 +7379,7 @@ excepts 2
 elenctic 3
 escapers 2
 entanglement 2
-ebulliate 4
+ebulliate 5
 endogenously 1
 egence 2
 extraperiodic 2
@@ -8222,7 +8222,7 @@ epitoke 1
 esc 1
 epigones 1
 emulate 1
-endolaryngeal
+endolaryngeal 1
 eyrar 1
 endplay 2
 epacrid 2
@@ -8528,7 +8528,7 @@ ethylenoid 3
 endopleura
 enorganic
 epibenthos 2
-easts 1
+easts 2
 exclusively 1
 epichoristic 2
 equative 2
@@ -8827,7 +8827,7 @@ enkernel 1
 ecospecifically 1
 esthesiometer 1
 eremuri 3
-ethnoflora 1
+ethnoflora 2
 elaphodus 4
 enerve 1
 escharoid 3
@@ -10382,7 +10382,7 @@ emperorship
 ethologists
 euphonical 3
 expediently
-edulcorator 1
+edulcorator 2
 extremely
 eruct
 extrusive 1
@@ -11662,7 +11662,7 @@ epileptogenic 1
 elephanticide 1
 exacter
 elocutionary 2
-epiphanized 2
+epiphanized 3
 epitaphical
 exacting 3
 electroirrigation
@@ -12646,7 +12646,7 @@ eagless
 effray 2
 excoriate 1
 exoculate 1
-expostulates
+expostulates 1
 ecclesiasticalness 1
 exoculation
 exoderm 2
@@ -13782,7 +13782,7 @@ ectoenzym 2
 extinguisher
 emulates 4
 extinguishers
-eryngoes 2
+eryngoes 3
 enouncing 1
 emberizine 1
 equilibrated
@@ -13927,7 +13927,7 @@ extragastric
 elizabethan
 empressment 2
 epilimnial
-empanada 3
+empanada 4
 extirpates 2
 extramatrical
 exculpating
