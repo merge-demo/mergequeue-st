@@ -683,7 +683,7 @@ babua
 basos 1
 briars 1
 barren
-bicorne
+bicorne 1
 bombo
 bungey 1
 biannual
@@ -1394,7 +1394,7 @@ bolloxing
 balzarine 1
 beringed 1
 bruisewort 1
-blots
+blots 1
 baldhead 1
 bilestone
 baldheads 1
@@ -2658,7 +2658,7 @@ bescour 3
 bogyisms 1
 barbitals 1
 blousons 1
-bodicemaker
+bodicemaker 1
 barlafummil 1
 biopsychologist
 boggy
@@ -3252,7 +3252,7 @@ bote
 blottesquely 2
 babbling 1
 biotechnological 1
-basilic
+basilic 1
 bantingize 1
 bedouin
 basilica 1
@@ -6473,7 +6473,7 @@ bellon
 bepatched 3
 bettergates 1
 bailo
-boxings
+boxings 1
 byrlawmen 2
 blockbusters 1
 beggarwoman 1
@@ -6765,7 +6765,7 @@ bergsonism 2
 bumpier 2
 busulfan
 busying 1
-berrichonne 1
+berrichonne 2
 bandleader 2
 bosquet 1
 bridgebuilding 2
@@ -8018,7 +8018,7 @@ bicipital 1
 bewilderedness 1
 borsht 2
 beslipper 1
-bespatterer 1
+bespatterer 2
 bicircular 1
 bitemporal
 byname 4
@@ -8252,7 +8252,7 @@ bifront 3
 bhavani 2
 brainfag 1
 biglot
-bifurcated
+bifurcated 1
 bifurcately
 bifurcating
 bergschrund
@@ -8762,7 +8762,7 @@ brontozoum
 birchen
 bedrown
 bicentennial 1
-bloodcurdlingly 2
+bloodcurdlingly 3
 benedight
 bungo 1
 beezer
@@ -8918,14 +8918,14 @@ bussed 2
 bioclimatologically 3
 bothropic
 bioclimatologist 3
-blowflies 1
+blowflies 2
 bouchons 2
 bowser 1
 blissfulness 2
 barbarousness 1
 biocoenotic 1
 biodegradability
-biodegradable 1
+biodegradable 2
 becassocked 2
 beleap 1
 biodegraded
@@ -9830,7 +9830,7 @@ bytalks 1
 bitanhol
 busses 1
 bitartrate 1
-beneplacito 2
+beneplacito 3
 blackballing
 bandonion 1
 biteable 2
@@ -12750,7 +12750,7 @@ bookmobiles
 botrycymose
 baroni 1
 burlesk
-bookpress
+bookpress 1
 bookracks 1
 blacklegging 1
 benthonic
@@ -14922,7 +14922,7 @@ breaklist 2
 blandishes
 buttercup 1
 belis
-bostonians
+bostonians 1
 breakoff 2
 byssolite 1
 breakout
@@ -16811,7 +16811,7 @@ brookie
 bepaste
 buildings 1
 budmash 1
-biorythmic
+biorythmic 1
 bridegrooms 1
 barranco
 ballate 1
@@ -17392,7 +17392,7 @@ baetylic 3
 bungtown
 bosun 1
 blithered 2
-bungwall 1
+bungwall 2
 bagre 2
 bacillemia
 bejewels
