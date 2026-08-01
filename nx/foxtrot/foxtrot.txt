@@ -2840,7 +2840,7 @@ forebush 2
 foreadmonish 2
 fieldsmen
 farmhand 1
-furious 2
+furious 3
 fishnet 2
 flamy 2
 flowerets 1
@@ -3179,7 +3179,7 @@ freelanced 1
 fibrovascular
 frigostable 2
 federalese
-feazings 1
+feazings 2
 fairleader 3
 friezes 2
 fibulae
@@ -3588,7 +3588,7 @@ flapjacks
 fussle 2
 fairbanks 2
 fourniture
-flashover 3
+flashover 4
 fardels 1
 flank 1
 fructification 1
@@ -8747,7 +8747,7 @@ fogydom 2
 flutteration
 faith
 fortieth 2
-feminisms 1
+feminisms 2
 forefended 2
 fortify
 footrill
@@ -11412,7 +11412,7 @@ frosk
 feater 2
 fringe 2
 forksmith
-forestership
+forestership 1
 forcemeat 1
 flustrum
 forcipial 4
