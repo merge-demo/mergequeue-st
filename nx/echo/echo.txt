@@ -179,7 +179,7 @@ electromotion
 electrolier
 equipoising 1
 extraformal 2
-examiner
+examiner 1
 estrogenic 2
 expels
 emeras 1
@@ -883,7 +883,7 @@ enteroptosis 1
 engineery 4
 eumolpique
 endopolyploidy 1
-ectosarc 2
+ectosarc 3
 essoining 1
 exercises
 exculpates 2
@@ -4505,7 +4505,7 @@ ethics
 epionynychia
 euphony 2
 epagoge
-echinodermal
+echinodermal 1
 emberizidae 1
 electing
 embeggar 2
@@ -5120,7 +5120,7 @@ elephants 2
 electrology 1
 exuscitate 1
 economists 4
-entocoele 1
+entocoele 2
 ergotist
 enterovirus 2
 eastings 1
@@ -8427,7 +8427,7 @@ epos 1
 encinas 2
 epizootic
 externa
-epoxyed
+epoxyed 1
 epoxies 2
 employed 1
 evangelistaries
