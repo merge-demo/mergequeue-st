@@ -828,7 +828,7 @@ abronia 1
 afterhelp
 abrood 2
 abrook 1
-aiel 1
+aiel 2
 atrabiliary 3
 abruptio
 antianaphylactogen 1
@@ -8613,7 +8613,7 @@ anticus 1
 ammanite 1
 anecdota 1
 agnoites 1
-aegagropiles
+aegagropiles 1
 allassotonic
 alleviations 1
 allatrate 1
@@ -11086,7 +11086,7 @@ amerindian 2
 amort 2
 amortizable 2
 algic
-assibilation
+assibilation 1
 abnormalcy 1
 amortizes 1
 adytta 1
