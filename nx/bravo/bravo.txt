@@ -5939,7 +5939,7 @@ buyouts 1
 brelan
 ballistic
 bestrowing
-beltie
+beltie 1
 boogerman 1
 bludged 3
 butylamine
