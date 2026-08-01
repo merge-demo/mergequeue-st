@@ -1724,7 +1724,7 @@ ancienty
 acrologism
 abloom
 accum
-archsee
+archsee 1
 alouettes 1
 apperceive
 accumbency 2
@@ -2345,7 +2345,7 @@ avoidably
 abruptedly 1
 arachnephobia
 avgasses 1
-almagest
+almagest 1
 allogamous 1
 ateleiosis 2
 axminster
@@ -4716,7 +4716,7 @@ aefaldy
 armatured 1
 aljoba
 antrostomus
-amphichroic
+amphichroic 1
 armet 1
 aggravates
 arthriticine 1
