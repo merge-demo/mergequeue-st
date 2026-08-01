@@ -772,7 +772,7 @@ abramis
 apeling 2
 abrase 1
 accersitor 2
-aswail
+aswail 1
 admetus
 abrash
 aeromechanics 3
@@ -2965,7 +2965,7 @@ accidentiality
 anacromyodian
 armamentary
 advisive
-aerobatics
+aerobatics 1
 albugineous
 acrostichoid 1
 acrostichum 2
@@ -3444,7 +3444,7 @@ arnement
 aseethe 1
 adaptions
 azurite
-adaptive 1
+adaptive 2
 attending
 ankou
 apostemation
@@ -15435,7 +15435,7 @@ accentor 2
 antilogic 1
 antilogistic
 anachronismatical
-amastia 2
+amastia 3
 antilope
 asperulous
 argentino
