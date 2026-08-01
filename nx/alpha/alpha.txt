@@ -1434,7 +1434,7 @@ amadavat
 acceptors
 antifreezes
 acervuline
-apocatastatic
+apocatastatic 1
 antibacteriolytic
 acceptress
 accepts
@@ -9496,7 +9496,7 @@ appestats
 acupunctuate
 agrologic
 apses 1
-altern 2
+altern 3
 anagogics 1
 angularization 3
 autopathy
