@@ -1825,7 +1825,7 @@ calx
 calxes 1
 catecholamines
 coverless
-chatty 1
+chatty 2
 conceptacular
 cann
 calzoneras
@@ -2937,7 +2937,7 @@ cantare
 counterseal
 concaulescence
 chrysoidine
-cantatas
+cantatas 1
 cantation
 cantatrice 1
 coverts
@@ -5964,7 +5964,7 @@ chistera 1
 cathartides 1
 chevied 1
 carburized
-cathartolinum 1
+cathartolinum 2
 cathect 1
 cathected
 cathects
@@ -17874,7 +17874,7 @@ cephid
 codille 1
 consuetitude
 crookback
-coding
+coding 1
 codirected 1
 codirecting
 carcinoma
