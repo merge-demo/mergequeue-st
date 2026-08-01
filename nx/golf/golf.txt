@@ -775,7 +775,7 @@ gres 1
 galvanotherapy 1
 goods 2
 gery
-geomorphic 1
+geomorphic 2
 gemologies 1
 galvanotropism
 guntub
@@ -6326,7 +6326,7 @@ gamic 1
 greentail 1
 gonake 1
 galore 2
-grotesqueries
+grotesqueries 1
 gradating 2
 goethian 1
 gam 2
