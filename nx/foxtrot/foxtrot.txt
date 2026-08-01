@@ -6514,7 +6514,7 @@ failsoft 3
 frapping 2
 ft 2
 forspread 3
-foldskirt
+foldskirt 1
 fortifying 1
 flexuousness 2
 fulminant
