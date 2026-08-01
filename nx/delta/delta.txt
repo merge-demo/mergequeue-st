@@ -6089,7 +6089,7 @@ dualin 1
 detrimental
 dropout
 dimission 1
-durgen
+durgen 1
 dissolvable 2
 deckedout
 digestible 1
@@ -11916,7 +11916,7 @@ dermoskeleton
 disbloom 2
 disembarks 1
 dentifrices
-degum 1
+degum 2
 decrease 1
 dyable 3
 deliberation 1
@@ -17766,7 +17766,7 @@ dubitable
 dichondra
 dubitably 1
 deflagrates
-descried 1
+descried 2
 drachmal 1
 desicate
 devaluing 1
