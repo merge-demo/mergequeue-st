@@ -2965,7 +2965,7 @@ accidentiality
 anacromyodian
 armamentary
 advisive
-aerobatics
+aerobatics 1
 albugineous
 acrostichoid 1
 acrostichum 2
@@ -3444,7 +3444,7 @@ arnement
 aseethe 1
 adaptions
 azurite
-adaptive 1
+adaptive 2
 attending
 ankou
 apostemation
