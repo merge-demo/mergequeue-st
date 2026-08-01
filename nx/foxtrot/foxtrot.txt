@@ -882,7 +882,7 @@ firmland
 fanums 1
 fenberry 2
 falangism 3
-fadaise 3
+fadaise 4
 fleabug 1
 ferrate 1
 faquir
@@ -1678,7 +1678,7 @@ fondlike 2
 frangible 2
 ferrament
 fleeching 2
-furnace 1
+furnace 2
 fingertip 4
 foreordaining 2
 forehandsel 2
@@ -3445,7 +3445,7 @@ frazzle
 fantasist 1
 fifteens 1
 faithless 3
-frauds 2
+frauds 3
 floridan 3
 fiftieth
 florilegia 1
@@ -4583,7 +4583,7 @@ frees 2
 fesswise 1
 fringilliformes 1
 foliages 2
-fissidens
+fissidens 1
 feetage
 fossilify 2
 fisheye 1
@@ -10748,7 +10748,7 @@ forecount
 forbore 2
 frumpishly
 fanciness 2
-foreyear 3
+foreyear 4
 follyer 1
 fructified 3
 fascistize 1
@@ -11327,7 +11327,7 @@ fraternize
 fleabite
 faultfinding 3
 fluoroscopic
-fossilogist 1
+fossilogist 2
 favorability 1
 furfuralcohol
 freebees
