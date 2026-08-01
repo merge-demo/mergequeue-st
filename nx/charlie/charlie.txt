@@ -5449,7 +5449,7 @@ castles
 cortaderia
 cordies 1
 castlet
-candlesticked
+candlesticked 1
 confront 2
 casaque 1
 castlewise 1
@@ -5470,7 +5470,7 @@ capillitia
 cylindrenchema 1
 calin 1
 calyptriform 1
-castrati 1
+castrati 2
 compendent 1
 castrensial
 christianness 1
@@ -8037,7 +8037,7 @@ chafe
 concretion 1
 chafed 1
 chafery 1
-chiles
+chiles 1
 cagayan 3
 capitulum
 chaferies 2
@@ -8379,7 +8379,7 @@ comport 1
 chambrays
 chambranle 1
 confected 1
-counterattractively 1
+counterattractively 2
 chamecephaly 1
 chamecephalic
 chamecephalous 1
@@ -10214,7 +10214,7 @@ chloasmata
 camacan
 chiasmas 2
 chiasmata
-cavesson
+cavesson 1
 crapaudine 2
 cystoscopy
 chiasmatic
@@ -12293,7 +12293,7 @@ classically
 carpetbagism 2
 christy 1
 cardholders
-christian
+christian 1
 christiana
 christianiadeal
 christianism
@@ -13259,7 +13259,7 @@ casa
 cyclograph
 cerises
 coadapt 2
-cyclohexadienyl 1
+cyclohexadienyl 2
 cashoos
 crossrow 2
 cyclohexanol
@@ -20379,7 +20379,7 @@ commutated 1
 commutation 3
 commutatively
 carpogone 1
-commutativity 1
+commutativity 2
 commutator 1
 commute
 chondropterygious
@@ -22641,7 +22641,7 @@ cosuggestion 1
 comperes
 clamjamphrie
 chinles 1
-connies
+connies 1
 conning 1
 carpostome 1
 conniptions 1
@@ -23105,7 +23105,7 @@ caecocolic 2
 cottoneer
 chermidae 1
 cyanochlorous
-conspicuously
+conspicuously 1
 cabalic
 conspiracy
 conspirant
@@ -23670,7 +23670,7 @@ cubalaya 1
 countableness
 contracyclical
 contractable 1
-contractant
+contractant 1
 contractation
 contractedly
 contractedness
@@ -23909,7 +23909,7 @@ coracine
 cullender
 counterproof 1
 compluvia
-craton 2
+craton 3
 contubernal
 channelwards
 contubernial
@@ -24372,7 +24372,7 @@ caritas 1
 cookshop
 cookshops 1
 chiliasms
-cards
+cards 1
 cookstove
 colligible
 contumacies 1
@@ -26030,7 +26030,7 @@ coseat 1
 cosecant
 conducive 1
 cosecants 2
-collude
+collude 1
 curator
 choreography
 calamagrostis
@@ -27211,7 +27211,7 @@ countertreason 1
 caesious 1
 callowness 1
 catholicus
-confessors
+confessors 1
 collodionize 1
 consolatoriness
 countertruth 1
