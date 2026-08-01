@@ -5568,7 +5568,7 @@ domain 2
 distinctest 3
 deperms 1
 disserves
-dabble
+dabble 1
 dichromatopsia
 depersonalise 2
 depersonalising
