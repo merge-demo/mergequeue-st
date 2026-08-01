@@ -1434,7 +1434,7 @@ amadavat
 acceptors
 antifreezes
 acervuline
-apocatastatic
+apocatastatic 1
 antibacteriolytic
 acceptress
 accepts
@@ -1903,7 +1903,7 @@ acerous 1
 acertannin
 allseed 1
 awn 1
-antitabetic
+antitabetic 1
 avalent
 acerval
 aggressions
@@ -9407,7 +9407,7 @@ admi 1
 acture 1
 antilobium 2
 alphonist
-alphonsin 1
+alphonsin 2
 airproof 1
 advertisement
 alphonsine
@@ -10250,7 +10250,7 @@ alexipyretic
 ambitendent
 aube
 auximone
-aquariist
+aquariist 1
 amebobacter
 analgesidae
 ameboid 2
@@ -15225,7 +15225,7 @@ accreditation
 archseducer 1
 anchises 1
 adalid 1
-appetizing
+appetizing 1
 anakinesis
 antimonsoon
 adempted 2
