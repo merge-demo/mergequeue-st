@@ -9859,7 +9859,7 @@ chemizo 1
 colligated
 chastizer 2
 curiological
-chemokinetic 1
+chemokinetic 2
 chemolysis 1
 cicero
 chemolyze
@@ -12627,7 +12627,7 @@ chronons 2
 chefrinia 1
 chronophotography
 chronoscopic 2
-chronoscopically
+chronoscopically 1
 cheesier 1
 catechisation
 columnize
@@ -14549,7 +14549,7 @@ cisternae 2
 cisternal 2
 cornier 1
 compotier
-cystic 1
+cystic 2
 cabuja
 conchoidal 1
 cysticercerci 1
@@ -17025,7 +17025,7 @@ coexplosion 1
 cortisone
 cnidopod
 conoids
-cardiacs
+cardiacs 1
 carbonite
 capernoity 1
 coabode 1
@@ -19698,7 +19698,7 @@ comake
 combasou
 combat
 criminal 1
-combatable
+combatable 1
 chroma 1
 chrismale
 combatant
@@ -20459,7 +20459,7 @@ cheques
 convergescence 1
 clusterberry
 companionate 1
-chromophyll 2
+chromophyll 3
 crowd
 companionize
 cupressineous
