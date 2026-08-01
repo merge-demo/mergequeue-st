@@ -3445,7 +3445,7 @@ engrail 3
 evacuate 1
 embellisher
 embellishers 1
-eutelegenic 1
+eutelegenic 2
 encheason 2
 encolden 1
 embers 1
@@ -9945,7 +9945,7 @@ elk 1
 estrums 3
 englishize
 estuarial
-epagogic
+epagogic 1
 estuosity
 edibleness 1
 endophagy
@@ -11662,7 +11662,7 @@ epileptogenic 1
 elephanticide 1
 exacter
 elocutionary 2
-epiphanized 2
+epiphanized 3
 epitaphical
 exacting 3
 electroirrigation

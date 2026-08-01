@@ -4413,7 +4413,7 @@ apoxyomenos
 ageusia 1
 alcae 1
 adenoids
-agaristidae
+agaristidae 1
 adstipulator
 aduana
 adularescence
@@ -8826,7 +8826,7 @@ alimental
 anfractuousness 1
 airtightness 1
 abderite 1
-ascoma 1
+ascoma 2
 acetylcholinesterase 1
 afforests
 acescents
