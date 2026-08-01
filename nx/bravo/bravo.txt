@@ -540,7 +540,7 @@ backveld
 beruffled 1
 beech
 backbends
-bayok 1
+bayok 2
 blasthole
 bafflingness 1
 barometrical 1
@@ -1186,7 +1186,7 @@ bradyphrasia
 blennoma
 bajarigar 2
 brideman 1
-bajau 2
+bajau 3
 boxer 1
 bajocco
 bajochi
@@ -2232,7 +2232,7 @@ bemaddens
 bellicosely 1
 barato
 bibliolatrist
-buxaceae
+buxaceae 1
 bontebok
 baghla 1
 bodword 1
@@ -4243,7 +4243,7 @@ brumstone
 breathy 1
 blackwasher 1
 breadwinners 1
-bocaccios
+bocaccios 1
 bawdries 1
 beautydom
 butylic
@@ -12111,7 +12111,7 @@ bold
 byrnies
 barrat
 beehives 1
-boldacious
+boldacious 1
 beguileful 1
 ballyhooed 2
 brooks
