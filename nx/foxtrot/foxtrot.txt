@@ -1801,7 +1801,7 @@ fallage 1
 freeboard 1
 fores 1
 ferninst 4
-forbesite
+forbesite 1
 folkmots 3
 flak 2
 forkmen 2
