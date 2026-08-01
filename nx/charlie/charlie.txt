@@ -462,7 +462,7 @@ cinclidotus 1
 cassavas 1
 cartages
 catheretic 1
-cancelable 1
+cancelable 2
 cacumination
 coleopterous
 cacuminous
@@ -11741,7 +11741,7 @@ chondritic 1
 chondroangioma
 coexchangeable
 countercouchant 2
-chondroarthritis
+chondroarthritis 1
 contestant
 chondroblastoma 2
 chondrocyte
@@ -26023,7 +26023,7 @@ creatorrhea
 cranioscopical
 contextual
 clumbers 1
-coseasonal
+coseasonal 1
 chelidonian
 cryptomeria 1
 coseat 1
