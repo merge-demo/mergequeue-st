@@ -4866,7 +4866,7 @@ frabbit 2
 forearm
 froglet 1
 ferocities
-formalness
+formalness 1
 followable 1
 flails
 feuilletonism 1
@@ -7852,7 +7852,7 @@ flingdust 4
 foveolets 1
 furcellate
 foreboot 1
-friaries
+friaries 1
 fractionisation
 fungify
 favorite
@@ -8721,7 +8721,7 @@ flatfooted 3
 flaunters 2
 fryers
 funiculate 2
-furicane 4
+furicane 5
 flapless 2
 foregather 1
 fathomable 1
