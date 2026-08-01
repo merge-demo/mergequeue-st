@@ -301,7 +301,7 @@ extortionate 3
 expedient 1
 ebon 3
 embrew 1
-eradicate 1
+eradicate 2
 esotericism
 exploitage 2
 extrema 2
@@ -1324,7 +1324,7 @@ effeminise 1
 electrochronometer
 escheve 1
 especial 2
-explosives
+explosives 1
 eelspear 1
 effeminising
 exsolved 1
@@ -5159,7 +5159,7 @@ exitus 1
 elusive
 eschara 1
 endolysin 1
-ecphonema
+ecphonema 1
 eretrian 1
 equipluve
 ethnographies
@@ -7938,7 +7938,7 @@ epingle 2
 epinicia 1
 ernie
 extrusion 2
-embows
+embows 1
 eyebath 2
 epinyctis
 emballonurid 1
