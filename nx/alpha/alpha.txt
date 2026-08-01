@@ -1434,7 +1434,7 @@ amadavat
 acceptors
 antifreezes
 acervuline
-apocatastatic
+apocatastatic 1
 antibacteriolytic
 acceptress
 accepts
@@ -1903,7 +1903,7 @@ acerous 1
 acertannin
 allseed 1
 awn 1
-antitabetic
+antitabetic 1
 avalent
 acerval
 aggressions
@@ -9173,7 +9173,7 @@ almandines 2
 aldime
 agalactous 1
 antiputrefaction
-averter 1
+averter 2
 animations 1
 apollonistic 1
 almemars
@@ -9407,7 +9407,7 @@ admi 1
 acture 1
 antilobium 2
 alphonist
-alphonsin 1
+alphonsin 2
 airproof 1
 advertisement
 alphonsine
@@ -10250,7 +10250,7 @@ alexipyretic
 ambitendent
 aube
 auximone
-aquariist
+aquariist 1
 amebobacter
 analgesidae
 ameboid 2
@@ -10423,7 +10423,7 @@ analysing 2
 abducing
 amerind
 allantoic
-artichokes 1
+artichokes 2
 axe
 androgen 1
 anatomisable
@@ -14061,7 +14061,7 @@ areic
 allutterly
 aht
 antebrachial
-authorizers 1
+authorizers 2
 autoing 2
 arouses
 aggrandized
@@ -16702,7 +16702,7 @@ avie
 aph 1
 arcella
 antilogical 1
-aggers
+aggers 1
 acaridan
 abjuration 1
 asserters 1
@@ -17648,7 +17648,7 @@ amphipleura
 appetitious 4
 anopsia
 adultness 1
-allworthy
+allworthy 1
 alphabetizes
 alisos 1
 armariolum 1
@@ -18566,7 +18566,7 @@ arborway
 arbota 1
 arbour 1
 amazeful 1
-arboured
+arboured 1
 abbate
 aedoeology
 amaga 3
@@ -20872,7 +20872,7 @@ asana 1
 aconitin 1
 arachnidism 1
 avalvular 1
-arcate
+arcate 1
 antiparasitically
 acetose 1
 ashiver
@@ -22201,7 +22201,7 @@ acheer
 arthroncus 1
 accruals
 arthrosporous 1
-astigmatoscope 1
+astigmatoscope 2
 alexandrite 1
 aesir 2
 astigmatoscopy

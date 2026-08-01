@@ -646,7 +646,7 @@ formism 2
 flan 1
 folklorish 2
 furtherly 1
-faunistical 1
+faunistical 2
 fellow 2
 feijoa 1
 fishwood 2
@@ -2941,7 +2941,7 @@ freezed 2
 foxberries 1
 fac 3
 furloughs
-fungological 1
+fungological 2
 froths 2
 fevered 2
 flitchen 1
@@ -4985,7 +4985,7 @@ fringiest 2
 focused 2
 frappeed 2
 flyswatter
-flibbertigibbety 2
+flibbertigibbety 3
 figbird
 flyover 1
 foundationally
@@ -6348,7 +6348,7 @@ fumigatorium 1
 fpm 2
 frictionlessly 2
 frolicness 1
-forthcomingness 1
+forthcomingness 2
 furcraeas
 favela 1
 fluoboride 1
@@ -7608,7 +7608,7 @@ footslogs 2
 flacherie
 forjudgment 2
 fatimid 1
-foredoomer 1
+foredoomer 2
 forepaling
 fluvialist 1
 fgn 1
@@ -8118,7 +8118,7 @@ fulminated 1
 foveolae 2
 funkiest 1
 flatcar 2
-fundi 2
+fundi 3
 furify 3
 foreswore 1
 flavouring 2
@@ -8539,7 +8539,7 @@ ferruminated
 foreadvertise
 formicine 4
 floormen 1
-fashiousness
+fashiousness 1
 fondler 1
 formylal 1
 farnovian 2
@@ -9157,7 +9157,7 @@ fichteanism 3
 fantasias 2
 fortifies 2
 fielded 1
-fleeceflower 2
+fleeceflower 3
 floridly 1
 fastigiated 1
 floozies
@@ -9284,7 +9284,7 @@ flopped 1
 flagellum 1
 furzetop 2
 fenagling 2
-femality
+femality 1
 fumuli 1
 fichat 4
 feretra 1
@@ -9986,7 +9986,7 @@ friezer
 fiercely 1
 feazing
 fossilated 1
-fantoms 2
+fantoms 3
 fumatorium 2
 fa 2
 frigates 1
@@ -10483,7 +10483,7 @@ fierasferidae 3
 fluxional 3
 frontspieces 1
 fleet
-fwd
+fwd 1
 fisted
 flche 1
 frontstall 4
@@ -11351,7 +11351,7 @@ fermage 5
 furlan
 forswat 1
 foldure
-fellic 1
+fellic 2
 fibroma 1
 footsores 1
 fustinella 3
@@ -11436,7 +11436,7 @@ firring 1
 furcated 1
 fishings
 furred
-frieze 2
+frieze 3
 frowstiest 2
 fettering 1
 forebemoaned 2
@@ -11580,7 +11580,7 @@ fluoric 1
 feu 2
 feuing 4
 fluctigerous 1
-fusillading 1
+fusillading 2
 feuage 1
 furzechat 1
 fundatrix 2
