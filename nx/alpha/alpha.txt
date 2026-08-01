@@ -3076,7 +3076,7 @@ afterwar 2
 actinographic
 autotomy 2
 appriser 1
-actinolitic 3
+actinolitic 4
 anthropogenesis 3
 antimeson
 aland
@@ -4413,7 +4413,7 @@ apoxyomenos
 ageusia 1
 alcae 1
 adenoids
-agaristidae
+agaristidae 1
 adstipulator
 aduana
 adularescence
@@ -8826,7 +8826,7 @@ alimental
 anfractuousness 1
 airtightness 1
 abderite 1
-ascoma 1
+ascoma 2
 acetylcholinesterase 1
 afforests
 acescents
@@ -12653,7 +12653,7 @@ anesthesiologies
 aasvogel 1
 angelophany 1
 archrascal 1
-asarh
+asarh 1
 angwantibo 1
 anesthetization 2
 anesthetized 2
@@ -24652,7 +24652,7 @@ alienly 1
 agouti 2
 acclaim
 accessibility
-arbutuses
+arbutuses 1
 abjudicating 2
 archineuron
 avenage 1
