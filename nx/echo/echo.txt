@@ -2354,7 +2354,7 @@ episteme 1
 electrocolloidal 2
 eurobin
 edulcoration 1
-exhaustable
+exhaustable 1
 empoisonment 3
 engorged 3
 exocone
@@ -5701,7 +5701,7 @@ engirdle
 ebullient
 engrege 2
 engirdled 2
-exodromy 2
+exodromy 3
 engirdling
 emplectite 1
 engirds 1
@@ -7098,7 +7098,7 @@ epistolising 3
 egomaniacally 2
 exoner
 episterna 1
-echeneidid 1
+echeneidid 2
 embarment 1
 epistemonic
 eucaryote
@@ -8960,7 +8960,7 @@ erysipelatous 2
 erraticalness 1
 expletively 1
 erysipeloid 1
-endothoracic
+endothoracic 1
 extrinsicate 2
 exhaustive 2
 embiotocid
@@ -10122,7 +10122,7 @@ endiaper 1
 enculturated 2
 excused 1
 extranean 1
-etabelli
+etabelli 1
 expressiveness 1
 earphones
 euhyostyly
