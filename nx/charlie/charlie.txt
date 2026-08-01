@@ -1274,7 +1274,7 @@ catechistically
 calender 1
 compromissorial
 calendered
-calenderer
+calenderer 1
 cheeping 1
 confessionist 1
 calenders
@@ -3298,7 +3298,7 @@ corregimiento
 capitoline 1
 capitolium
 crabbit
-capitula 1
+capitula 2
 crumbiest
 cutiduris
 couchancy
@@ -5087,7 +5087,7 @@ casaques
 convulsibility
 casas 1
 cojudge
-coevolve
+coevolve 1
 colisepsis
 cerianthus 1
 casate 1
@@ -11055,7 +11055,7 @@ chit
 chitak 1
 cordoba
 chuckled
-chitarra 1
+chitarra 2
 cothish
 circuminsular 2
 compander
@@ -11844,7 +11844,7 @@ choplogical
 choregi 1
 chalazoidite 1
 cryptomonad
-candider 1
+candider 2
 concerto
 chopper
 choppers
@@ -13652,7 +13652,7 @@ coattests
 chalazal
 cristi
 chairwoman
-chalkboards
+chalkboards 1
 coppras
 chiropraxis
 cocuisa
@@ -22810,7 +22810,7 @@ clovers 1
 cabers
 consecrator
 consecratory 1
-consectary
+consectary 1
 cardines
 consecutive 1
 consecutively
@@ -24529,7 +24529,7 @@ coparceny 1
 coparenary 2
 civilizations
 compartmentation 2
-coparents
+coparents 1
 caroigne
 copartiment 2
 circles 2
@@ -24890,7 +24890,7 @@ coracoprocoracoid
 cognoscibility 1
 crepitation
 cheilion
-conveyers
+conveyers 1
 cardecu 3
 corial 1
 comous
@@ -26211,7 +26211,7 @@ chelura
 calces
 caked
 conatural 1
-calorimeter
+calorimeter 1
 cycloidally
 cosmotellurian
 cysteines 1
