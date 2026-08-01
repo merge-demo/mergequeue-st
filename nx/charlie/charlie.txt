@@ -4089,7 +4089,7 @@ centaurian 1
 cardialgia
 cirrostome 2
 calla
-cardiameter 2
+cardiameter 3
 carnationed 1
 chlorotic
 cunners
@@ -19344,7 +19344,7 @@ colophons
 coloppe 2
 chrimsel
 coloproctitis 1
-coloptosis
+coloptosis 1
 coloquintid
 craniotabes
 carousing 1
@@ -21663,7 +21663,7 @@ cariacus
 carbamidine
 condyloma
 condylomatous 1
-condylopodous
+condylopodous 1
 conjurator
 corditis
 clerically 1
@@ -25595,7 +25595,7 @@ corotates
 compulsoriness
 corotomy 2
 commemorized
-coroutines
+coroutines 1
 clericum
 corp 2
 corpn
@@ -28055,7 +28055,7 @@ corsie 1
 crammed
 crammel
 consolidating
-crammers
+crammers 1
 cramming 1
 chameleonic 1
 cramoisies 1
