@@ -179,7 +179,7 @@ electromotion
 electrolier
 equipoising 1
 extraformal 2
-examiner
+examiner 1
 estrogenic 2
 expels
 emeras 1
@@ -4054,7 +4054,7 @@ enforcement 1
 encrusting
 eremian 1
 engross 3
-earle
+earle 1
 engrammatic 3
 eutherian 1
 ecthymata 3
@@ -4505,7 +4505,7 @@ ethics
 epionynychia
 euphony 2
 epagoge
-echinodermal
+echinodermal 1
 emberizidae 1
 electing
 embeggar 2
@@ -5120,7 +5120,7 @@ elephants 2
 electrology 1
 exuscitate 1
 economists 4
-entocoele 1
+entocoele 2
 ergotist
 enterovirus 2
 eastings 1
@@ -11135,7 +11135,7 @@ exigent
 euterpean 2
 enactments 1
 enwreathing 2
-exflagellation 1
+exflagellation 2
 eiderdown 2
 euthycomi
 exploitable 4
