@@ -3251,7 +3251,7 @@ capital
 chevronny
 capitaldom
 capitaled
-capitalisable
+capitalisable 1
 capitalising
 cynocrambaceae 1
 cit 1
@@ -8750,7 +8750,7 @@ carpocapsa
 cognitives
 chapless
 chapleted
-countersmile
+countersmile 1
 clothesbasket 1
 corrugators
 cuppa 1
@@ -14222,7 +14222,7 @@ cytinaceae 1
 chattation 2
 circumfluous 2
 ceratobatrachinae 3
-clumplike
+clumplike 1
 ccesser
 circumforaneous
 circumfulgent
@@ -24262,7 +24262,7 @@ convolvulad
 courser
 cosonant
 convolvulic
-convolvulinic
+convolvulinic 1
 certiorari
 cholecystoduodenostomy
 constraining 1
@@ -29549,7 +29549,7 @@ canoeman
 criticiser
 criticising
 criticisingly
-corbiculae
+corbiculae 1
 cog
 criticized
 criticizers
