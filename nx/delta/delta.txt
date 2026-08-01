@@ -264,7 +264,7 @@ dry 1
 dizzard 1
 dagomba
 daguerreotype
-downspout
+downspout 1
 drouth 1
 degermed 2
 doradilla 1
@@ -2786,7 +2786,7 @@ duodecahedron 1
 decrescent 1
 deknight
 desulfured
-dioptrical 1
+dioptrical 2
 droller
 decretalist 2
 despumating
@@ -5227,7 +5227,7 @@ demarcations
 dorsel 2
 depauperized 2
 densify
-disqualifications 2
+disqualifications 3
 didelphic 1
 dengue
 disobligingly
