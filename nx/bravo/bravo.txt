@@ -165,7 +165,7 @@ bac 1
 bacca
 backfield 3
 baccaceous
-bunchiest
+bunchiest 1
 boroughwide
 bipacks
 bulwark 1
@@ -1397,7 +1397,7 @@ bruisewort 1
 blots 1
 baldhead 1
 bilestone
-baldheads 1
+baldheads 2
 bilcock
 borneols 3
 beblain 1
@@ -2232,7 +2232,7 @@ bemaddens
 bellicosely 1
 barato
 bibliolatrist
-buxaceae
+buxaceae 1
 bontebok
 baghla 1
 bodword 1
@@ -2481,7 +2481,7 @@ baresark 2
 backpackers
 bononian 1
 brethrenism 2
-bargham
+bargham 1
 brie 1
 balbutient 2
 batino 1
@@ -2738,7 +2738,7 @@ bellypiece 1
 breadwinner 2
 baroko
 bubastite 1
-backward
+backward 1
 beltline
 bullbat
 brayers 1
@@ -7114,7 +7114,7 @@ bespoke 3
 boethusian
 boss 2
 birdsong 1
-boldnesses
+boldnesses 1
 basso 1
 bespotting 2
 bespouse
@@ -8172,7 +8172,7 @@ byrlaw
 blimpish
 beloeilite 2
 ballonet
-beardie
+beardie 1
 bashers 1
 brontophobia
 bash 1
@@ -8603,7 +8603,7 @@ barbwire 1
 bimillenial
 billiard 1
 bellyfull
-bioactivity 4
+bioactivity 5
 bronchial
 bailout
 belatedly 2
@@ -11190,7 +11190,7 @@ bloomed
 baloghia
 bloomeries 1
 begash
-boodleize 5
+boodleize 6
 bloodsuck 1
 bloomingly 2
 boleti 1
@@ -11744,7 +11744,7 @@ brunts
 bosselated
 bauxitite 2
 bobfloat 2
-bobierrite 1
+bobierrite 2
 bobjerom
 bioelectricity 2
 boorish
@@ -11918,7 +11918,7 @@ brackmard
 boffs 1
 bondholding 3
 bankmen
-browner 1
+browner 2
 bilio
 bellowers 1
 betutored 2
@@ -14948,7 +14948,7 @@ bungerly
 bootid 2
 bitthead 2
 breaster
-breastfast
+breastfast 1
 bura 3
 bearing 3
 balantidium 2
@@ -15823,7 +15823,7 @@ baldness
 broiling 2
 brokage 3
 brokages 1
-banande 1
+banande 2
 bihalve 1
 barebones 1
 baksheeshes
