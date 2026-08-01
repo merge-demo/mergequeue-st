@@ -3445,7 +3445,7 @@ engrail 3
 evacuate 1
 embellisher
 embellishers 1
-eutelegenic 1
+eutelegenic 2
 encheason 2
 encolden 1
 embers 1
@@ -4343,7 +4343,7 @@ evisite
 endoplastule 2
 euornithes 2
 enapt 1
-evilsayer
+evilsayer 1
 elatinaceae 3
 equipments 2
 enarched 1
@@ -7379,7 +7379,7 @@ excepts 2
 elenctic 3
 escapers 2
 entanglement 2
-ebulliate 4
+ebulliate 5
 endogenously 1
 egence 2
 extraperiodic 2
@@ -8222,7 +8222,7 @@ epitoke 1
 esc 1
 epigones 1
 emulate 1
-endolaryngeal
+endolaryngeal 1
 eyrar 1
 endplay 2
 epacrid 2
@@ -8528,7 +8528,7 @@ ethylenoid 3
 endopleura
 enorganic
 epibenthos 2
-easts 1
+easts 2
 exclusively 1
 epichoristic 2
 equative 2
@@ -11662,7 +11662,7 @@ epileptogenic 1
 elephanticide 1
 exacter
 elocutionary 2
-epiphanized 2
+epiphanized 3
 epitaphical
 exacting 3
 electroirrigation
@@ -12646,7 +12646,7 @@ eagless
 effray 2
 excoriate 1
 exoculate 1
-expostulates
+expostulates 1
 ecclesiasticalness 1
 exoculation
 exoderm 2
