@@ -2699,7 +2699,7 @@ ferventness
 frighteningness
 floodwall
 fishify 2
-fuminess
+fuminess 1
 ferrometer 3
 faithing
 factioneer 2
@@ -9767,7 +9767,7 @@ fluviograph 1
 flabs 1
 flutteringly 1
 feudalization
-file 1
+file 2
 forestick 1
 flycaster 2
 fanworts 2
@@ -9836,7 +9836,7 @@ feminists 3
 fulminator 1
 feasance 2
 freshmen 3
-fanners 1
+fanners 2
 floorwalker 2
 fresison 2
 fraudless 3
