@@ -8856,7 +8856,7 @@ allocations
 amender 1
 adeptly 3
 adamastor
-anaphora
+anaphora 1
 aditus
 administered 2
 allocator 1
@@ -10082,7 +10082,7 @@ ambiversion 1
 ambivert
 arrect 2
 amble 1
-apanteles 1
+apanteles 2
 ambleocarpus
 ambler
 appulsive
@@ -19323,7 +19323,7 @@ areostyle 1
 areotectonics
 ambrein
 aminodiphenyl
-anfeeld
+anfeeld 1
 anaspidacea 1
 afield
 arere 1
