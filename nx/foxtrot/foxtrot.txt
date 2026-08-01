@@ -3992,7 +3992,7 @@ forlay 1
 flunk 3
 ferric 2
 furazolidone 2
-fender 3
+fender 4
 fluorosis 1
 fumblers 1
 foramina 2
@@ -6608,7 +6608,7 @@ forestaffs 2
 forecondemn
 forfending 4
 fogey
-foulbrood
+foulbrood 1
 felicitators 2
 femalize
 focalizes 1
@@ -7525,7 +7525,7 @@ fullface 1
 forebode 2
 fauld 1
 frictionlessness 1
-fest 1
+fest 2
 forebody 1
 fibrosity 2
 flaser 1
