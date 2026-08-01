@@ -3753,7 +3753,7 @@ caravanserial
 companeros
 caravel
 caravels
-cosen
+cosen 1
 caraway
 counterpoison 3
 caraways 1
@@ -12581,7 +12581,7 @@ contingency 2
 commerceless 2
 chronocarator
 citrine 3
-cuckoldy
+cuckoldy 1
 chronocyclegraph
 chronocrator
 chronogeneous 1
@@ -29225,7 +29225,7 @@ capillarity 1
 cystomatous 1
 crippling
 cripplingly 1
-cryptaesthesia
+cryptaesthesia 1
 conflictual 1
 cryptamnesia
 chattingly 1
