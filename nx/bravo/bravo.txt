@@ -3529,7 +3529,7 @@ bateleur
 brickel 1
 barbered
 bovista 1
-bouchal
+bouchal 1
 bulldoggishly
 bogglish 1
 broadax
@@ -4961,7 +4961,7 @@ bassos
 boisterously 1
 baianism 1
 beennut 1
-bimedial 1
+bimedial 2
 bezette 1
 bonework 1
 blesse 2
@@ -4986,7 +4986,7 @@ beerhouse 1
 beerhouses
 breech 1
 breastband 2
-barbecueing
+barbecueing 1
 beladied
 basement 1
 bluebeardism 4
@@ -9052,7 +9052,7 @@ bize 2
 bitentaculate 1
 busheler 2
 barbershop 1
-burnouts
+burnouts 1
 boldface 1
 banalness 2
 brev 2
@@ -10841,7 +10841,7 @@ bromomethane 1
 balate
 blethered 2
 barathra 2
-bletilla
+bletilla 1
 brutalities 2
 blets 1
 bonhomme 1
@@ -11229,7 +11229,7 @@ bandhava
 bizonia
 bestrapped 1
 blotchiness
-buckeye 1
+buckeye 2
 becudgeled
 beaker
 boder
@@ -12353,7 +12353,7 @@ bluefins
 bonifaces 1
 breakfasting
 bookmarker 1
-bumbarge 1
+bumbarge 2
 bombillas 2
 bacchantic 2
 blan
@@ -13704,7 +13704,7 @@ behaviourism 1
 balanceman 2
 blenchers
 bowlfuls
-brashly
+brashly 1
 bridged
 barwin 1
 beladying 1
@@ -14730,7 +14730,7 @@ baignoire
 bagio 1
 brat
 blender 1
-buboed
+buboed 1
 bounder
 britannic
 burps 1
@@ -15487,7 +15487,7 @@ beiges 2
 boba
 bravos
 bullule
-bemusing
+bemusing 1
 blinder
 bilious 1
 brilliantly
