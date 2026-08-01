@@ -1090,7 +1090,7 @@ gamboge 3
 genitives 2
 gymnodiniidae 1
 ganister 1
-guildry 1
+guildry 2
 goriest 5
 giroflore
 glittering 2
@@ -1558,7 +1558,7 @@ gluelikeness 1
 gout 1
 guester 4
 gismos
-globicephala
+globicephala 1
 gymnura
 gauntlet 1
 gutteral
@@ -4416,7 +4416,7 @@ gugu 1
 galtonian
 ganoblast 2
 gunshot
-generically 1
+generically 2
 gristles 1
 guacimo
 gloeocapsoid
