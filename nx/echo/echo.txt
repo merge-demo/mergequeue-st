@@ -609,7 +609,7 @@ emblic 1
 evincement
 eclamptic
 efficacious
-extuberate 2
+extuberate 3
 epizoites 2
 ecstatics 1
 eclating 2
@@ -8350,7 +8350,7 @@ exosporium 1
 exceedable 1
 earplug 1
 equestrial 2
-emcee
+emcee 1
 exodontics 1
 espontoon 1
 enwreathe 1
@@ -9612,7 +9612,7 @@ encense 1
 entangleable 1
 equipper
 entia 1
-epenthesize
+epenthesize 1
 equipollence 1
 epacris
 elaeagnus 1
@@ -12014,7 +12014,7 @@ experimentee 2
 excitosecretory
 excitovascular 1
 enamouring 2
-exclaiming
+exclaiming 1
 enface 1
 exclaims 3
 exclamative 1

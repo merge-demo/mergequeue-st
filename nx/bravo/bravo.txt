@@ -1355,7 +1355,7 @@ barrowcoat 1
 brod
 botrylle 1
 backdrops
-butterflyer 2
+butterflyer 3
 borderlands
 balbusard
 beggarliness
@@ -4884,7 +4884,7 @@ beekite
 bedur
 backsplicing
 beaded
-bedeswomen
+bedeswomen 1
 belavendered 1
 blanket 2
 boucl
@@ -5939,7 +5939,7 @@ buyouts 1
 brelan
 ballistic
 bestrowing
-beltie
+beltie 1
 boogerman 1
 bludged 3
 butylamine
@@ -15553,7 +15553,7 @@ briniest 2
 benzoquinoline
 brunonian 1
 beaterman
-balut 1
+balut 2
 balaghaut
 bestreak 2
 banakite
