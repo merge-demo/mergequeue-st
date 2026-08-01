@@ -260,7 +260,7 @@ dagmar 1
 deliverly
 disenfranchising
 dissuitable 1
-dry
+dry 1
 dizzard 1
 dagomba
 daguerreotype
@@ -1398,7 +1398,7 @@ defroster 1
 davidian 3
 davidic 2
 davidical 1
-davidist 2
+davidist 3
 deicing
 discipleship 2
 desma
@@ -1798,7 +1798,7 @@ dissociated 1
 dalradian 2
 debamboozle 1
 debarbarization
-dilemma 2
+dilemma 3
 debark
 detaining 3
 dropseed 2
@@ -6201,7 +6201,7 @@ dimiss
 digametic 2
 dermabrasion
 dithyramb
-drabness
+drabness 1
 dipsades 2
 disbenchment 1
 dactylopodite 3
@@ -11541,7 +11541,7 @@ disconjure 2
 disconnectedness
 diphtheroidal 2
 diphead 3
-disconnecting
+disconnecting 1
 disconnection 1
 declinable
 diplococcic
