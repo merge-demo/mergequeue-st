@@ -2719,7 +2719,7 @@ catostomus
 cankerfret 1
 compiles
 calcemia
-cankery 1
+cankery 2
 cannoneering
 cankerroot
 cauponize 1
@@ -5234,7 +5234,7 @@ cellulosed 1
 catchers 2
 cliftonite
 casketed 1
-caskets
+caskets 1
 credens 2
 casky
 clearer 1
@@ -8225,7 +8225,7 @@ chalcidian
 chalcidicum
 caird
 cuniculus
-chalcidoid
+chalcidoid 1
 conocarp
 cleaves 1
 cadalene
@@ -14161,7 +14161,7 @@ circulators
 circulus
 circumambiency
 circumambient 1
-circumambulate
+circumambulate 1
 circumambulated 1
 compose
 cothy
@@ -19736,7 +19736,7 @@ counterrotating
 combinator
 combinatory 1
 combinatorial
-combinatorially 1
+combinatorially 2
 combinators
 copaiva
 combined 2
