@@ -18342,7 +18342,7 @@ chamber
 chasses 2
 clodpoll
 cogie
-cogitability
+cogitability 1
 cestraciontes
 culminant
 cogitabund
