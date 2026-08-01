@@ -3085,7 +3085,7 @@ bullary
 breather 2
 blastplate 1
 bating 3
-badminton
+badminton 1
 barware 1
 boneblack 2
 basale 2
@@ -5470,7 +5470,7 @@ barrier 2
 babiche
 behooves
 behooving
-bacterioprotein 2
+bacterioprotein 3
 brine
 backiebird
 beatless
@@ -7393,7 +7393,7 @@ beclasps
 betony
 betonies
 berkshire 1
-boarfish
+boarfish 1
 bombesin
 belligerence 1
 bradshaw 1

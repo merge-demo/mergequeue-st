@@ -775,7 +775,7 @@ gres 1
 galvanotherapy 1
 goods 2
 gery
-geomorphic 1
+geomorphic 2
 gemologies 1
 galvanotropism
 guntub
@@ -2172,7 +2172,7 @@ guarantying 1
 guberniya 1
 ganophyllite 1
 gutturalised 1
-glucosic 2
+glucosic 3
 genghis 2
 gravific 2
 granth
@@ -4274,7 +4274,7 @@ garrulity 4
 gingerline
 glomerular 2
 gingerness 2
-greing 1
+greing 2
 gouging 2
 gurgulio 1
 gingersnaps
@@ -6326,7 +6326,7 @@ gamic 1
 greentail 1
 gonake 1
 galore 2
-grotesqueries
+grotesqueries 1
 gradating 2
 goethian 1
 gam 2
@@ -6652,7 +6652,7 @@ gonfalcon 1
 glossopyrosis 3
 generational 3
 gekkota 2
-gild 1
+gild 2
 gauderies 3
 gynodioeciously 1
 gunsman 1
