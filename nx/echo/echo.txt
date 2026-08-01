@@ -2354,7 +2354,7 @@ episteme 1
 electrocolloidal 2
 eurobin
 edulcoration 1
-exhaustable
+exhaustable 1
 empoisonment 3
 engorged 3
 exocone
@@ -7098,7 +7098,7 @@ epistolising 3
 egomaniacally 2
 exoner
 episterna 1
-echeneidid 1
+echeneidid 2
 embarment 1
 epistemonic
 eucaryote
