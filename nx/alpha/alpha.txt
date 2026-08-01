@@ -11452,7 +11452,7 @@ airlight 3
 abody
 amps 1
 assigner
-approximant
+approximant 1
 adversive 1
 ampul
 admonitory
