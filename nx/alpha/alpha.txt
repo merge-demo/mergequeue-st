@@ -1408,7 +1408,7 @@ amintor 1
 acceptance 1
 axisymmetrical
 absorbent
-achylia 1
+achylia 2
 abevacuation
 aguish
 acropetally 2
@@ -7795,7 +7795,7 @@ avulses 1
 amphikaryon 1
 antiseptical 1
 aldermanship
-aldermen 1
+aldermen 2
 allopolyploidy
 almehs
 aonian 1
@@ -8264,7 +8264,7 @@ archcount 1
 attached
 alicoche 1
 abstainment
-aliculae
+aliculae 1
 advisably 1
 abrastol 1
 allot
@@ -17559,7 +17559,7 @@ alkalin
 apotihecal 2
 abidingness
 appendance 1
-appendancy
+appendancy 1
 artmobile
 appendant 1
 aouellimiden 2
@@ -19698,7 +19698,7 @@ anticathexis 2
 aristology
 anamite 1
 anglesmith 1
-acrostichal
+acrostichal 1
 aristologist
 aristophanic
 arteriorrhexis

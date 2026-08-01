@@ -3539,7 +3539,7 @@ guidon 1
 glutinose
 gid 3
 galvanic
-gyrocar
+gyrocar 1
 greg 3
 gustus 1
 gyrochrome 3
@@ -4221,7 +4221,7 @@ gusto 2
 gnabble
 garnishing 2
 grannies
-guncotton
+guncotton 1
 gantang 2
 gruelled 1
 ghalva
@@ -4982,7 +4982,7 @@ gelechia
 granules 4
 guards 1
 gaedown 1
-gladliest 2
+gladliest 3
 gondoliers
 glycogen 2
 gyrodactylidae 2
@@ -6943,7 +6943,7 @@ geostatics 1
 goodwife 1
 grecians 1
 guanays 3
-guasa 2
+guasa 3
 guiana 1
 glaziness
 gruppetto 2
@@ -8336,7 +8336,7 @@ gephyrocercy 2
 glacon 1
 gladnesses 2
 gazelle 1
-gilenyer
+gilenyer 1
 greenslade 3
 gracefulness 1
 greyer 3
@@ -10358,7 +10358,7 @@ gardenly 2
 glancing
 gordiid 1
 gullery 1
-grasshook 1
+grasshook 2
 grike 1
 gullets 1
 generators 1
@@ -10625,7 +10625,7 @@ gentled 1
 gimmickry 1
 googols 2
 glusid 4
-gunshop 4
+gunshop 5
 gulches 1
 gunsmithing 1
 grossification 1
