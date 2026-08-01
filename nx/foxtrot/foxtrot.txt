@@ -2046,7 +2046,7 @@ ferngrower 1
 frontspiece 3
 feinter
 faucalize
-flindosa
+flindosa 1
 forwander 3
 flatlander 3
 faunlike 1
@@ -7406,7 +7406,7 @@ fusk
 fatalistic
 forbow 3
 foreclose 2
-forestland 1
+forestland 2
 foolisher 2
 faying
 falterers
@@ -7985,7 +7985,7 @@ fenerate
 fozier
 foreshot 1
 ficelle 3
-fumatoriums
+fumatoriums 1
 fibrinogenous 3
 fitness
 fluvioterrestrial 4
