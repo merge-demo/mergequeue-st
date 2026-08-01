@@ -4707,7 +4707,7 @@ fluidram 1
 forte 4
 formula 2
 forefeels 3
-fucales 1
+fucales 2
 firesideship
 fantasticate
 frettage 2
@@ -8519,7 +8519,7 @@ flong 1
 flunkeyite 3
 fuzztail 1
 formularizing 1
-flatulent
+flatulent 1
 frontierman
 flustration 2
 frow 1
