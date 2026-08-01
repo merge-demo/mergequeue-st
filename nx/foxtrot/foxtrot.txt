@@ -597,14 +597,14 @@ fragaria
 floodways
 fleshes 3
 forehand 2
-folly 1
+folly 2
 farrantly
 funnies 1
 frame 1
 falconelle 3
 falsifier 1
 frogmouths 1
-foveolet 3
+foveolet 4
 floaty 2
 falsifying 2
 falunian 2
@@ -635,7 +635,7 @@ fimetic 3
 farrand
 featherbedding 2
 farnesol
-flakage 2
+flakage 3
 fluotitanic 1
 fames 1
 fuddled 2
@@ -3019,7 +3019,7 @@ forma
 fiascos 2
 ferricyanogen 2
 ferrotype 1
-fulgurantly 3
+fulgurantly 4
 fortepiano 1
 flukily 1
 forasmuch
@@ -3034,7 +3034,7 @@ footwears 2
 forpass
 feldspathoid 3
 frostflower
-frenchen 2
+frenchen 3
 fissioned
 forensical
 felstones
@@ -6014,7 +6014,7 @@ fibrinoplastin
 forthrightness 3
 fiducinales 1
 forepoled
-fetich 2
+fetich 3
 flitchplate 1
 floral 5
 fennecs 2
@@ -8727,7 +8727,7 @@ foregather 1
 fathomable 1
 forthgo
 ferreling 3
-footcandle 1
+footcandle 2
 foxings 2
 furlong
 fissility
@@ -10070,7 +10070,7 @@ fringehead 2
 fringelet
 fabroniaceae
 fruitier 3
-fringent
+fringent 1
 frizzer
 feminacy 3
 fringetail
@@ -10512,7 +10512,7 @@ forewarns 3
 fluffs 1
 frostfish 1
 forcite 4
-frostbitten 3
+frostbitten 4
 frosty 1
 frictionable 2
 fantasticality 2
