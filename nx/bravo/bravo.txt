@@ -1355,7 +1355,7 @@ barrowcoat 1
 brod
 botrylle 1
 backdrops
-butterflyer 2
+butterflyer 3
 borderlands
 balbusard
 beggarliness
@@ -5050,7 +5050,7 @@ blackey 1
 bisphenoid 2
 bostal
 brachiofaciolingual 3
-beltcourse 1
+beltcourse 2
 bigotedly
 befalling 1
 befalls
@@ -5939,7 +5939,7 @@ buyouts 1
 brelan
 ballistic
 bestrowing
-beltie
+beltie 1
 boogerman 1
 bludged 3
 butylamine
@@ -6815,7 +6815,7 @@ berwick 1
 bummaree 3
 bacteriaemia
 burley
-baroi 1
+baroi 2
 bes
 biocide 1
 bushpig
