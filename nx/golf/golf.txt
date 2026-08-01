@@ -11,7 +11,7 @@ gabbers
 gobi 2
 grasswork 3
 gratuities 2
-gabelles 2
+gabelles 3
 greedsome 3
 gledy 3
 grece 2
@@ -1090,7 +1090,7 @@ gamboge 3
 genitives 2
 gymnodiniidae 1
 ganister 1
-guildry 1
+guildry 2
 goriest 5
 giroflore
 glittering 2
@@ -1558,7 +1558,7 @@ gluelikeness 1
 gout 1
 guester 4
 gismos
-globicephala
+globicephala 1
 gymnura
 gauntlet 1
 gutteral
@@ -1572,7 +1572,7 @@ gymnetrous 3
 glabellar 1
 gunreach
 grampus 3
-gonyoncus
+gonyoncus 1
 gunnar
 ghazism 1
 goldie
@@ -1693,7 +1693,7 @@ gambado 2
 glossoscopy 2
 gadoids
 glycerinate 1
-gorkhali 4
+gorkhali 5
 gynocracy
 gympie
 goldstone 3
@@ -3176,7 +3176,7 @@ geraera 2
 garrons 3
 genizah 1
 galban 3
-gastrocolic
+gastrocolic 1
 goodwily 1
 grammies
 geraniums 2
@@ -4416,7 +4416,7 @@ gugu 1
 galtonian
 ganoblast 2
 gunshot
-generically 1
+generically 2
 gristles 1
 guacimo
 gloeocapsoid
@@ -8082,7 +8082,7 @@ gracy 2
 gypsydoms 1
 grandstander
 guttulae 1
-gruffness
+gruffness 1
 gravels 1
 gasify
 glenoidal 1
@@ -8478,7 +8478,7 @@ guaguanche 3
 gnathopodous 1
 guinea 2
 galinsoga 1
-glottises 1
+glottises 2
 griminess 1
 gastaldite 2
 gadzooks 2
