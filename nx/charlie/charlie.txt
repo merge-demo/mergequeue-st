@@ -1717,7 +1717,7 @@ calotermes 1
 calotype
 cosey 1
 cyclodiolefine 2
-contrasty 2
+contrasty 3
 calotypic 1
 calotypist
 crossbolt 1
@@ -5087,7 +5087,7 @@ casaques
 convulsibility
 casas 1
 cojudge
-coevolve
+coevolve 1
 colisepsis
 cerianthus 1
 casate 1
@@ -11055,7 +11055,7 @@ chit
 chitak 1
 cordoba
 chuckled
-chitarra 1
+chitarra 2
 cothish
 circuminsular 2
 compander
@@ -28005,7 +28005,7 @@ cloisterliness 1
 commendator 2
 crayfishes
 conditory 2
-cliquey
+cliquey 1
 craig
 careen 1
 caprid 3
