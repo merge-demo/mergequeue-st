@@ -4344,7 +4344,7 @@ endoplastule 2
 euornithes 2
 enapt 1
 evilsayer
-elatinaceae 2
+elatinaceae 3
 equipments 2
 enarched 1
 eurypygidae
@@ -7101,7 +7101,7 @@ episterna 1
 echeneidid 1
 embarment 1
 epistemonic
-eucaryote
+eucaryote 1
 equimolar 3
 eremophyte 1
 extraequilibrium
@@ -13485,7 +13485,7 @@ enzymolysis 1
 extrusile 2
 exorate 1
 expropriator 1
-eringo 2
+eringo 3
 enteroid
 epenthetic
 exuberantly 2
