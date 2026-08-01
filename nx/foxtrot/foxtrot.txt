@@ -574,7 +574,7 @@ fivefold 2
 floorless 3
 fellon 2
 foreknows 3
-forpet
+forpet 1
 fossilisation
 fulk 4
 forints 2
@@ -5653,7 +5653,7 @@ fondues 3
 fellowshiped
 fascism
 forums 1
-fortis
+fortis 1
 frumpiest 1
 fianchetto 1
 fie 1
@@ -6193,7 +6193,7 @@ foreread 1
 fairgoing 2
 fondest 1
 flaxes 2
-foretops 1
+foretops 2
 feebling 1
 forgiven 3
 foredivine
