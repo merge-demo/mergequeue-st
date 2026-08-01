@@ -8760,7 +8760,7 @@ collimators
 cave 2
 confoundingly
 carposporic 1
-cachexic 1
+cachexic 2
 chapournet 1
 chapournetted
 cottering
@@ -9903,7 +9903,7 @@ cambisms
 chemosurgery
 chemotactic
 cresylene
-choochoo
+choochoo 1
 chemotaxy
 collocatory 1
 chemotaxonomy
@@ -29884,7 +29884,7 @@ crossbows
 culgee 1
 carpomania
 cladoselache 1
-crossbreds 2
+crossbreds 3
 coxal 2
 catarrhed
 crossbreeding
