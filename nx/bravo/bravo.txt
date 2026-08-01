@@ -1644,7 +1644,7 @@ ballooners
 bickering 1
 brattier
 bricklayer
-balloonflower
+balloonflower 1
 balloonish
 babby
 bullshitted 1
@@ -2773,7 +2773,7 @@ boatloading 1
 bookies 1
 barycentric 3
 been 1
-baroneting
+baroneting 1
 baronetize
 ballistocardiographic
 benzeneazobenzene
@@ -12084,7 +12084,7 @@ bullfighters 1
 brit 2
 bradycauma
 bulbilla
-boites
+boites 1
 baltetei 2
 balladier 1
 bokhara 2
@@ -14132,7 +14132,7 @@ brachiosaurus
 brachyphyllum
 bargainers
 befreight
-boycottage
+boycottage 1
 blah
 biosystematics 1
 byzantinesque
@@ -15046,7 +15046,7 @@ besmoke
 bemusedly
 bode 1
 brimfull
-basenji 1
+basenji 2
 barelegged 4
 breechcloths 1
 biosatellite 1
@@ -18259,7 +18259,7 @@ bottlenecks 1
 blepharospasm 3
 bepat 1
 bulbule 1
-bivouacs 2
+bivouacs 3
 boathead 1
 bordun 1
 backflip
