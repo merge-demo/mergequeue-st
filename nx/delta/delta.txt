@@ -5140,7 +5140,7 @@ decarburation
 desertic 1
 denierer
 denigrates
-dipolarize 1
+dipolarize 2
 denigrator 1
 dietine
 dumbfounded 1
@@ -6784,7 +6784,7 @@ disseminated 1
 dojo 1
 dietzeite
 desiredly
-distruster
+distruster 1
 desirer
 daira
 dihedrons
@@ -13120,7 +13120,7 @@ deathy 1
 dispericraniate 1
 disenvelop
 discoverability
-diaphototropism
+diaphototropism 1
 dethyroidism 1
 decompositions 2
 defamer 2
