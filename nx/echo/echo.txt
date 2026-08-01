@@ -2312,7 +2312,7 @@ electroacoustics 2
 enthetic
 exundation 4
 electroanesthesia 2
-electroballistics
+electroballistics 1
 emetatrophia
 electrobath 1
 emplacements
@@ -6755,7 +6755,7 @@ eelgrass 1
 ellinge 2
 entocyemate 1
 emporetic
-everett 2
+everett 3
 efoliolate 2
 enneatic
 enwood 2
