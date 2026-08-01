@@ -1801,7 +1801,7 @@ fallage 1
 freeboard 1
 fores 1
 ferninst 4
-forbesite
+forbesite 1
 folkmots 3
 flak 2
 forkmen 2
@@ -4338,7 +4338,7 @@ fatigueless 1
 frustrates 2
 frankable 1
 fandango 3
-fourflusher 1
+fourflusher 2
 feneration
 fellows 1
 forgetter 1
@@ -6879,7 +6879,7 @@ fibromyxosarcoma
 footer 1
 footings
 fretways 1
-finance 2
+finance 3
 failing 3
 frustratingly
 flaggings 3
