@@ -2483,7 +2483,7 @@ eluviate 4
 elaeometer 4
 ecosphere
 elephantidae
-epicanthic 1
+epicanthic 2
 exterminative
 electrokinetics 3
 elasticum 2
@@ -3440,7 +3440,7 @@ experrection 1
 enteropneustan 1
 embed
 electrosynthetic
-equaled
+equaled 1
 engrail 3
 evacuate 1
 embellisher
@@ -10543,7 +10543,7 @@ epimeral 5
 entrymen
 eucharitidae
 expenses
-emule
+emule 1
 ephebeubea 1
 expiscator 1
 enshrouded 1
