@@ -4346,7 +4346,7 @@ calculate
 codeias
 caribing
 caribous
-calpacked
+calpacked 1
 candier
 carica
 caricaceae 2
@@ -5330,7 +5330,7 @@ crampy
 courtling
 cassiterite 1
 coestablishment 1
-ccws 1
+ccws 2
 cassius 2
 cassock
 cleanser 1
@@ -13875,7 +13875,7 @@ councilwoman 3
 churoya
 cynipoid
 cynism 1
-cyanocarbonic
+cyanocarbonic 1
 cinnabar
 cinnamaldehyde 1
 collaborationism 2
@@ -15371,7 +15371,7 @@ clapcake
 chortled
 caulkings 1
 clapdish 1
-cripply
+cripply 1
 clapnest 2
 clapnet
 concentered 1
