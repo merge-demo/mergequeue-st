@@ -772,7 +772,7 @@ abramis
 apeling 2
 abrase 1
 accersitor 2
-aswail
+aswail 1
 admetus
 abrash
 aeromechanics 3
@@ -3046,7 +3046,7 @@ actinochemistry
 arrimby
 antesignanus 3
 angioparesis
-antifoaming
+antifoaming 1
 accoil 2
 altaltissimo
 actinocrinid 1
@@ -5657,7 +5657,7 @@ afterworld
 antischool 1
 aneurine 1
 aftward 1
-afunctional
+afunctional 1
 autocystoplasty 3
 anticorrosion 1
 afwillite
@@ -6123,7 +6123,7 @@ appay
 askile
 aminopeptidase
 aminocaproic
-airproofed
+airproofed 1
 apothegmatic
 anostosis
 axumite 3
@@ -8676,7 +8676,7 @@ adorantes 2
 antidinic 1
 anomuran 1
 allegorizing 1
-aeolic
+aeolic 1
 allegresse
 allegrettos
 apasttra 3
@@ -10799,7 +10799,7 @@ amissible
 arracks
 amissing 1
 amita 2
-anthropoids 2
+anthropoids 3
 apartmental 2
 adherends 2
 aplanatically
@@ -12408,7 +12408,7 @@ apometaboly
 andrarchy
 anorthitic 1
 andre 1
-ambitious 4
+ambitious 5
 andrea
 andreaeales
 andreas
@@ -14740,7 +14740,7 @@ ascon 4
 antibibliolatry 1
 antibigotry 1
 averageness 1
-arribadas 1
+arribadas 2
 antibilious
 antibiont 1
 antibiosis
@@ -15435,7 +15435,7 @@ accentor 2
 antilogic 1
 antilogistic
 anachronismatical
-amastia 2
+amastia 3
 antilope
 asperulous
 argentino
@@ -18079,7 +18079,7 @@ aptiana
 aptychus
 amour 1
 aptitude 2
-aptnesses 1
+aptnesses 2
 autohypnotization
 anises 1
 amuletic
@@ -18552,7 +18552,7 @@ arsmetrike 1
 arborize 2
 axmaker 1
 arborizing 1
-abolishers
+abolishers 1
 abaca 1
 aphrodisian
 animists 1
@@ -23197,7 +23197,7 @@ atterminement 1
 atterr
 aggressionist
 attest
-attestable
+attestable 1
 amphibology
 artel 3
 arsonvalization
