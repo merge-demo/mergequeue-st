@@ -7004,7 +7004,7 @@ coolies 1
 cariocas
 chock
 cardiomegalia
-centaur 1
+centaur 2
 centaurdom
 cuvette
 centaurea
@@ -25629,7 +25629,7 @@ chasable
 corporations 2
 calquing
 corporative
-coxite
+coxite 1
 cyclonometer
 cassites
 concetti 1
