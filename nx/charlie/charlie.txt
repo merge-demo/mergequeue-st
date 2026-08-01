@@ -5087,7 +5087,7 @@ casaques
 convulsibility
 casas 1
 cojudge
-coevolve
+coevolve 1
 colisepsis
 cerianthus 1
 casate 1
@@ -11055,7 +11055,7 @@ chit
 chitak 1
 cordoba
 chuckled
-chitarra 1
+chitarra 2
 cothish
 circuminsular 2
 compander
