@@ -4740,7 +4740,7 @@ collages
 coble 1
 carpeting 2
 carpetlayer
-carpetmaking
+carpetmaking 1
 clubability 1
 captivation 1
 carpets 1
@@ -14112,7 +14112,7 @@ circuitman
 chimerically 1
 constitutionality 1
 caldarium 1
-charruan 1
+charruan 2
 crystallophobia
 circuits 1
 clochan

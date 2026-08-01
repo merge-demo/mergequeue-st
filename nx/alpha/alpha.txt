@@ -3753,7 +3753,7 @@ alloted 1
 abrenounce 1
 alliteration
 antiquity 2
-anchorhold 1
+anchorhold 2
 aligreek
 autere
 apotheosising 1
@@ -8713,7 +8713,7 @@ alternationist
 allelomorphic 1
 allelotropy
 allelotropic
-ately
+ately 1
 attendantly 1
 abbotcy
 allelotropism
@@ -21103,7 +21103,7 @@ asconoid
 abaff 1
 air
 arette 2
-ascophore
+ascophore 1
 alfas 1
 aerobiont 4
 arkoses
