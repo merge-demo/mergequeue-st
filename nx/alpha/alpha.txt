@@ -1520,7 +1520,7 @@ apportionate 1
 aiguilles 2
 auricularias
 acclivous
-accolade 1
+accolade 2
 applosion 1
 accolades 1
 anabo 2
@@ -7704,7 +7704,7 @@ annot
 alcoholdom
 abbrev
 alcoholemia
-alcoholically 1
+alcoholically 2
 appetition 2
 anaudia
 appendicocaecostomy 2
@@ -13876,7 +13876,7 @@ afresh
 albumeniizer
 antiheroes
 afterhend 1
-archsynagogue 2
+archsynagogue 3
 anoscope 2
 angstrom 2
 achariaceae
@@ -22138,7 +22138,7 @@ anerythroplastic
 asterozoa
 annalist 1
 ampongue 3
-ancestries
+ancestries 1
 asthamatic
 antimacassar
 astheny
@@ -24515,7 +24515,7 @@ antimoniated 2
 autoxidation
 autoxidator 1
 autoxidizability
-autoxidizable 2
+autoxidizable 3
 autoxidize
 accloy
 antepenultimate 3
@@ -24550,7 +24550,7 @@ aglaos
 athwart
 abbreviatable
 auxiliaries 2
-annattos 1
+annattos 2
 abigailship
 atlantis 1
 acinuni
