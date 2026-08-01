@@ -671,7 +671,7 @@ beletter 3
 bronchocavernous 1
 bynames 1
 bungles
-bkpr 1
+bkpr 2
 backbitten 2
 bacterized 1
 barefacedly
@@ -732,7 +732,7 @@ browbeaten
 blossomhead
 bloodstains 1
 brakeless 1
-brokeress
+brokeress 1
 binful
 beautihood 1
 bransles 3
@@ -1213,7 +1213,7 @@ bronchially 1
 bloop
 bakeoven 3
 blennostatic 1
-bakeress
+bakeress 1
 blenniidae
 besigh
 bootloader 1
@@ -6318,7 +6318,7 @@ backswept
 benzalethylamine 2
 benzalphenylhydrazone 1
 beaconwise
-benzamide 2
+benzamide 3
 blowdown 1
 benzoxate
 badgerbrush
@@ -8688,7 +8688,7 @@ binoxalate
 bimanous 1
 bradsot 1
 bodysurf
-bournless 3
+bournless 4
 buggyman
 bimanually
 breechloading 2
@@ -15019,7 +15019,7 @@ brewmaster 2
 brachering 1
 boatly
 breccias
-blacksmiths 1
+blacksmiths 2
 brecham 1
 barnacling 4
 bondelswarts
@@ -17744,7 +17744,7 @@ burnishing 1
 bellies 1
 bemist 2
 baneberries
-bejumbled
+bejumbled 1
 burnoosed 1
 burnoused 1
 bumfs 1
