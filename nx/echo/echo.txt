@@ -985,7 +985,7 @@ explosibility 1
 encapsules 1
 eastlins 1
 euthanasic 1
-enterocinetic 1
+enterocinetic 2
 epoxide 1
 eruditeness
 endearments 1
@@ -3859,7 +3859,7 @@ emball
 engendering
 environmental 1
 epinephelidae 1
-extracted
+extracted 1
 endometry 1
 eschatocol
 englory
