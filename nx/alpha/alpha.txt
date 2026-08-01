@@ -4845,7 +4845,7 @@ acrologies 1
 addnl 2
 aero 3
 ausones
-aspermatism
+aspermatism 1
 aeroballistic 1
 aerobate 1
 aerobatic 2
@@ -14361,7 +14361,7 @@ antiqued 1
 anthicidae 1
 adroiter
 arthroplastic 1
-amercements
+amercements 1
 anthills 1
 anthine
 amnesic 2
@@ -15403,7 +15403,7 @@ antilethargic 3
 antiliberal
 antilibration 1
 andreaea 2
-afforcement
+afforcement 1
 atterrate
 araneida 1
 achlamydeous
@@ -17313,7 +17313,7 @@ audiometer 1
 auguste
 actors 2
 apeirophobia
-autocollimator 1
+autocollimator 2
 algaecide
 antiforeign
 apostatically
