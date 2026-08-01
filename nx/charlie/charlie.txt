@@ -14800,7 +14800,7 @@ cytoclastic 1
 crioboly
 cytococci
 choroidal
-cytoderm 1
+cytoderm 2
 cytodiagnosis
 cytoecology
 cerebrotonia 1
@@ -17170,7 +17170,7 @@ coagulates 1
 clients
 cowhearted
 chains
-coagulation
+coagulation 1
 coagulative
 chrysophenine 1
 coagulator
