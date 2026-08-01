@@ -165,7 +165,7 @@ bac 1
 bacca
 backfield 3
 baccaceous
-bunchiest
+bunchiest 1
 boroughwide
 bipacks
 bulwark 1
@@ -540,7 +540,7 @@ backveld
 beruffled 1
 beech
 backbends
-bayok 1
+bayok 2
 blasthole
 bafflingness 1
 barometrical 1
@@ -1186,7 +1186,7 @@ bradyphrasia
 blennoma
 bajarigar 2
 brideman 1
-bajau 2
+bajau 3
 boxer 1
 bajocco
 bajochi
@@ -2481,7 +2481,7 @@ baresark 2
 backpackers
 bononian 1
 brethrenism 2
-bargham
+bargham 1
 brie 1
 balbutient 2
 batino 1
@@ -4243,7 +4243,7 @@ brumstone
 breathy 1
 blackwasher 1
 breadwinners 1
-bocaccios
+bocaccios 1
 bawdries 1
 beautydom
 butylic
@@ -7114,7 +7114,7 @@ bespoke 3
 boethusian
 boss 2
 birdsong 1
-boldnesses
+boldnesses 1
 basso 1
 bespotting 2
 bespouse
@@ -11918,7 +11918,7 @@ brackmard
 boffs 1
 bondholding 3
 bankmen
-browner 1
+browner 2
 bilio
 bellowers 1
 betutored 2
@@ -14948,7 +14948,7 @@ bungerly
 bootid 2
 bitthead 2
 breaster
-breastfast
+breastfast 1
 bura 3
 bearing 3
 balantidium 2
@@ -15823,7 +15823,7 @@ baldness
 broiling 2
 brokage 3
 brokages 1
-banande 1
+banande 2
 bihalve 1
 barebones 1
 baksheeshes
@@ -16768,7 +16768,7 @@ bonhomously 1
 bibliotheque 2
 bookers
 buddhaship 1
-bandar 2
+bandar 3
 barbas 3
 buddhist
 beheadlined 4
