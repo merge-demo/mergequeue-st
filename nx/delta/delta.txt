@@ -260,7 +260,7 @@ dagmar 1
 deliverly
 disenfranchising
 dissuitable 1
-dry
+dry 1
 dizzard 1
 dagomba
 daguerreotype
@@ -272,7 +272,7 @@ daguerreotyped
 daguerreotyping
 digitonin 1
 dreadnaught 2
-docken
+docken 1
 debugged
 disassiduity 2
 doliolidae
@@ -1330,7 +1330,7 @@ dolf
 developing 3
 daltonic
 defial
-deoxidizers 1
+deoxidizers 2
 dysergia
 disjunctions 1
 deludingly
@@ -1398,7 +1398,7 @@ defroster 1
 davidian 3
 davidic 2
 davidical 1
-davidist 2
+davidist 3
 deicing
 discipleship 2
 desma
@@ -1798,7 +1798,7 @@ dissociated 1
 dalradian 2
 debamboozle 1
 debarbarization
-dilemma 2
+dilemma 3
 debark
 detaining 3
 dropseed 2
@@ -4526,7 +4526,7 @@ dungyard 2
 disproportionality 1
 demimondain 1
 derided
-dibranchiata 1
+dibranchiata 2
 disimagine 1
 dupes 1
 demimonde 1
@@ -5675,7 +5675,7 @@ destour
 decasyllabic
 demit
 dollarfish
-drepanis 2
+drepanis 3
 duals 1
 deplorableness
 disrepair 1
@@ -6201,7 +6201,7 @@ dimiss
 digametic 2
 dermabrasion
 dithyramb
-drabness
+drabness 1
 dipsades 2
 disbenchment 1
 dactylopodite 3
@@ -7579,7 +7579,7 @@ debated
 diverging
 detersion
 dingily 1
-deutoplastic 2
+deutoplastic 3
 dracaenas 1
 dolefulness 1
 deutschland
@@ -9802,7 +9802,7 @@ delusiveness 1
 deputations 1
 dimetria
 distends 1
-dromos 1
+dromos 2
 dilo 1
 differentially 1
 disenamour
@@ -11541,7 +11541,7 @@ disconjure 2
 disconnectedness
 diphtheroidal 2
 diphead 3
-disconnecting
+disconnecting 1
 disconnection 1
 declinable
 diplococcic
