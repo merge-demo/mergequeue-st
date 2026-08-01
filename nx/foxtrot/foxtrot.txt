@@ -1801,7 +1801,7 @@ fallage 1
 freeboard 1
 fores 1
 ferninst 4
-forbesite
+forbesite 1
 folkmots 3
 flak 2
 forkmen 2
@@ -4338,7 +4338,7 @@ fatigueless 1
 frustrates 2
 frankable 1
 fandango 3
-fourflusher 1
+fourflusher 2
 feneration
 fellows 1
 forgetter 1
@@ -6879,7 +6879,7 @@ fibromyxosarcoma
 footer 1
 footings
 fretways 1
-finance 2
+finance 3
 failing 3
 frustratingly
 flaggings 3
@@ -7890,7 +7890,7 @@ fibrochondritis 2
 fingan
 fizz 1
 forbear 1
-foreran 2
+foreran 3
 fascination
 fenugreek 1
 figgle 1
@@ -10029,7 +10029,7 @@ feracity
 firelike
 frigotherapy 4
 facial
-fibrosities 5
+fibrosities 6
 fencings 2
 fliest 2
 fairness 2
@@ -10332,7 +10332,7 @@ folkmot
 faultless 5
 fromenty
 fusilladed 1
-fromenties 1
+fromenties 2
 fogyishness 2
 fluorated
 floscularian
@@ -11718,7 +11718,7 @@ flighty 2
 flagellator
 folkland 4
 fados
-feudalised 2
+feudalised 3
 forecool 1
 functionize
 futurition 1
