@@ -1875,7 +1875,7 @@ bandelette 2
 banderma
 banderol 2
 befrets
-banderole 2
+banderole 3
 bastardliness 1
 bindings
 brigading 1
@@ -13784,7 +13784,7 @@ buffet 1
 blesseder
 bedlam 1
 bogs 2
-boatful 1
+boatful 2
 brontide
 brachydactyly 1
 berserker 1
@@ -18405,7 +18405,7 @@ bespring 1
 benzoins 2
 beflecking
 bvt 2
-berginize 1
+berginize 2
 bowfins 2
 bagwash 1
 buttonweed 1
