@@ -1402,7 +1402,7 @@ gangplow
 galvanopsychic 1
 gossipee 1
 gipsying
-guilloche
+guilloche 1
 garreteer 1
 greenless
 gola
@@ -2200,7 +2200,7 @@ glossopathy 2
 grounders 2
 globetrotting 2
 grieced 1
-gastrectasis 1
+gastrectasis 2
 ghazies 1
 glaucosuria
 grisled
@@ -6256,7 +6256,7 @@ gospelly 2
 gaillard 2
 groovier 2
 gainable 1
-groused 1
+groused 2
 gobble
 garvanzo 1
 gowpen 1
@@ -7274,7 +7274,7 @@ grace 1
 gormandism
 gormandize 2
 glomi 3
-gormandizes 2
+gormandizes 3
 gastroenteroptosis 1
 gunbright 2
 gundeck 3
@@ -8222,7 +8222,7 @@ gelatinise 2
 glynn
 geometricize 1
 grandfatherless 1
-gestative 2
+gestative 3
 gooseneck 2
 graphemically 1
 gris 1
