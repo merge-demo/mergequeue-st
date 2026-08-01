@@ -98,7 +98,7 @@ epithelioma 1
 enumerate
 earpick
 elastician
-extrudable 2
+extrudable 3
 earpiece 1
 exegesis
 equiperiodic 1
@@ -517,7 +517,7 @@ eyra 2
 elaborated 3
 echinacea 1
 evelina 1
-eching
+eching 1
 echinidan
 expy 1
 enzymologist 3
@@ -1507,7 +1507,7 @@ examens
 exaggeratedly 1
 everywhere 2
 etch 2
-extracalendar 2
+extracalendar 3
 epembryonic 3
 extraregarding 1
 ettarre
