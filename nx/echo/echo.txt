@@ -5573,7 +5573,7 @@ episiostenosis 1
 endoproctous
 entyloma 1
 emus 1
-europe 3
+europe 4
 epistemology 3
 explodable 1
 enteroscopy 1
@@ -7928,7 +7928,7 @@ epidermous 1
 expenselessness 1
 epineuneuria 2
 evolutionary
-epineurium
+epineurium 1
 enclaving 2
 ergotinine
 endostea 1
@@ -11260,7 +11260,7 @@ evangelistary 1
 enthronements 1
 earflower 2
 endostraca 1
-emigre
+emigre 1
 equinities 1
 enthronized 1
 eleemosynary 2
@@ -11727,7 +11727,7 @@ eventualities 1
 exaltation
 erenow 2
 enterocoele 3
-endocarditis
+endocarditis 1
 elevated
 extendlessness 1
 exalting
