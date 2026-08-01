@@ -1854,7 +1854,7 @@ gooma
 gamenesses 3
 grecale
 grubstake 3
-gating 4
+gating 5
 ghorkhar 1
 guaiocum 2
 gerontologists 1
@@ -5224,7 +5224,7 @@ geomedicine 2
 graftage 3
 gurish 2
 glaucophane 3
-garish
+garish 1
 galoubet 4
 gammers 3
 garboards
@@ -6721,7 +6721,7 @@ granitized
 gametophore
 gagging 2
 grannie 2
-gripped 1
+gripped 2
 gooserumped 2
 geneticist 1
 gulash 3
@@ -8748,7 +8748,7 @@ gynoecia 2
 goldenly 2
 girn 2
 greenbug 3
-gastrolater 2
+gastrolater 3
 gormandising 3
 grandiloquent
 greenery 3
