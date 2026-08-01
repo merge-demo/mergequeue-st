@@ -666,7 +666,7 @@ giterne 3
 grapelet 1
 gelosine 2
 guardfish
-glories
+glories 1
 gumlike 2
 gooney 2
 gynecomaniac 2
@@ -2193,7 +2193,7 @@ gaster 2
 gastrocatarrhal 2
 goodbyes
 generosities 1
-gibby 1
+gibby 2
 galactohemia 1
 gleit 1
 glossopathy 2
@@ -6313,13 +6313,13 @@ globins 3
 gaybine 2
 gobony 1
 gaily 1
-grail 1
+grail 2
 goosenecked 2
 geomance 1
 gemots
 gearings
 genarchaship 2
-graptoloidea 1
+graptoloidea 2
 goatsucker 4
 graplines 2
 gamic 1
@@ -7945,7 +7945,7 @@ glucosemia
 gorst 3
 gunating
 gesith 1
-gaberloonie 2
+gaberloonie 3
 gliriform 3
 grandad 1
 gentilization 2
@@ -10693,7 +10693,7 @@ groundbird 2
 geostatic 1
 genoise
 ghettoize 1
-gildings 3
+gildings 4
 girdlers 4
 goldbrickers 1
 grabs
