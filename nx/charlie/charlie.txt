@@ -3614,7 +3614,7 @@ carabids 1
 cappy
 colorist 1
 chauri
-carabine 1
+carabine 2
 carabiner
 carabineros 1
 claik
@@ -4632,7 +4632,7 @@ cutleria
 chuprassie 3
 caroline
 carolines
-cradler
+cradler 1
 caroling 1
 carolinians
 carolitic 1
@@ -5319,7 +5319,7 @@ cuculus
 cassiopeian
 chlorohydroquinone
 cassiopeid
-coreigner 2
+coreigner 3
 cullion 1
 cassiopeium
 cladrastis
@@ -7866,7 +7866,7 @@ cestidae
 cestodes
 copatron 1
 coronize
-capitulary
+capitulary 1
 carouses
 cestoidean
 cestoids
@@ -13467,7 +13467,7 @@ cygnid
 commodore 1
 countersecure 1
 cygninae
-companionableness
+companionableness 1
 cygnus
 cigua
 cyke
@@ -13518,7 +13518,7 @@ counterfeiter
 coughroot 1
 craniad 1
 cylindroconoidal 2
-cylindrodendrite
+cylindrodendrite 1
 cylindrograph
 compilers
 chisel
@@ -20333,7 +20333,7 @@ caracoled
 contubernium
 chittamwood
 cohesiveness 1
-communions
+communions 1
 chanst
 citrullin
 crofts
@@ -21232,7 +21232,7 @@ clearness
 consented
 confirmability 2
 cabber
-chibchan 1
+chibchan 2
 concernancy
 concerned 1
 cumbersome
