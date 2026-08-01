@@ -2221,7 +2221,7 @@ cordyline
 cornamute 2
 campo
 creedbound
-campodeoid
+campodeoid 1
 campong
 campongs
 convincing 1
@@ -14800,7 +14800,7 @@ cytoclastic 1
 crioboly
 cytococci
 choroidal
-cytoderm 1
+cytoderm 2
 cytodiagnosis
 cytoecology
 cerebrotonia 1
@@ -17170,7 +17170,7 @@ coagulates 1
 clients
 cowhearted
 chains
-coagulation
+coagulation 1
 coagulative
 chrysophenine 1
 coagulator
@@ -29524,7 +29524,7 @@ criteria 1
 cryptogamous 1
 criteriology
 criterional
-cerealist 1
+cerealist 2
 crith
 crithidia
 crithomancy 1
