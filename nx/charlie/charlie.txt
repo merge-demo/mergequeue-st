@@ -5319,7 +5319,7 @@ cuculus
 cassiopeian
 chlorohydroquinone
 cassiopeid
-coreigner 2
+coreigner 3
 cullion 1
 cassiopeium
 cladrastis
@@ -7866,7 +7866,7 @@ cestidae
 cestodes
 copatron 1
 coronize
-capitulary
+capitulary 1
 carouses
 cestoidean
 cestoids
@@ -13518,7 +13518,7 @@ counterfeiter
 coughroot 1
 craniad 1
 cylindroconoidal 2
-cylindrodendrite
+cylindrodendrite 1
 cylindrograph
 compilers
 chisel
@@ -20333,7 +20333,7 @@ caracoled
 contubernium
 chittamwood
 cohesiveness 1
-communions
+communions 1
 chanst
 citrullin
 crofts
