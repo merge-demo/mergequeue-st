@@ -3959,7 +3959,7 @@ bisected 3
 bassette
 bunch
 bristols
-behelp
+behelp 1
 bdellovibrio 1
 brushbird 1
 bakerite
@@ -12750,7 +12750,7 @@ bookmobiles
 botrycymose
 baroni 1
 burlesk
-bookpress
+bookpress 1
 bookracks 1
 blacklegging 1
 benthonic
@@ -13848,7 +13848,7 @@ bowerlet 1
 begins 3
 bighearted 1
 bagreef
-bergsonian 1
+bergsonian 2
 baptizes 2
 belittles
 broadtail 2
@@ -15137,7 +15137,7 @@ breveting 1
 belauder 2
 bostrychidae 1
 balter 2
-bulging
+bulging 1
 berlina 1
 bushbuck 2
 breviconic
@@ -16744,7 +16744,7 @@ buckwagon 2
 boodie
 buckwheatlike
 balaic 1
-butterwoman
+butterwoman 1
 buckwheats
 brazilin
 bemuddy
@@ -17392,7 +17392,7 @@ baetylic 3
 bungtown
 bosun 1
 blithered 2
-bungwall 1
+bungwall 2
 bagre 2
 bacillemia
 bejewels
