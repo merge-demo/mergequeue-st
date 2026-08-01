@@ -829,7 +829,7 @@ ectocarpus
 eriophorum 1
 eosinophil 1
 ectocommensal 1
-ectocondylar 2
+ectocondylar 3
 endophytic
 ethologies
 electrolyser
@@ -4915,7 +4915,7 @@ expectable 2
 enravish 1
 embryotomy 1
 endellionite
-eucephalous 1
+eucephalous 2
 emigates 2
 electrocorticogram
 envy 1
@@ -6106,7 +6106,7 @@ episkotister
 estuary
 enforced
 epiphanise 1
-enlodgement
+enlodgement 1
 enlumine
 entheos 3
 ergoplasm 1
@@ -8214,7 +8214,7 @@ epistolarian 1
 elderhood 2
 escribe 2
 epopoeia
-epochal 2
+epochal 3
 eure 1
 epigeic 2
 escapado 2
@@ -10483,7 +10483,7 @@ ellipsis 4
 event
 etrog 3
 equatoreal 1
-epidemiographist 1
+epidemiographist 2
 etruscology 1
 etta
 endosteally 1
