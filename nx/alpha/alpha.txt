@@ -1520,7 +1520,7 @@ apportionate 1
 aiguilles 2
 auricularias
 acclivous
-accolade 1
+accolade 2
 applosion 1
 accolades 1
 anabo 2
@@ -2965,7 +2965,7 @@ accidentiality
 anacromyodian
 armamentary
 advisive
-aerobatics
+aerobatics 1
 albugineous
 acrostichoid 1
 acrostichum 2
@@ -4332,7 +4332,7 @@ allegate
 adrenin 2
 apathaton 1
 addu
-adrenitis
+adrenitis 1
 adrenochrome
 adrenocortical
 adrenosterone
@@ -4924,7 +4924,7 @@ allochirally 1
 astonisher
 anthroposophist
 amaranthine 1
-actinomyces 1
+actinomyces 2
 amidist 1
 auslaut
 airphobia
@@ -6145,7 +6145,7 @@ agitprops
 aglance
 anchoritess 1
 aglaozonia 1
-alkanal 2
+alkanal 3
 agleaf
 antidotary 1
 albata
@@ -8902,7 +8902,7 @@ askant 1
 ambilevous 1
 azurous
 adscititiously 1
-amakebe
+amakebe 1
 allocyanine 1
 antireform 4
 agelong 1
@@ -9113,7 +9113,7 @@ antiblock
 anticommunistical
 antivaccinist 2
 alludes
-angustiseptate
+angustiseptate 1
 afterdecks
 allumette
 acipenser 1
@@ -22138,7 +22138,7 @@ anerythroplastic
 asterozoa
 annalist 1
 ampongue 3
-ancestries
+ancestries 1
 asthamatic
 antimacassar
 astheny
