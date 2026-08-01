@@ -3396,7 +3396,7 @@ bassanite
 biotechnics 1
 brachydactylia 1
 bassetta 2
-blockbuster 1
+blockbuster 2
 bandstands 1
 barthite 1
 basiophthalmous 2
@@ -15330,7 +15330,7 @@ bridgebuilder 1
 bridgehead 1
 bridgemaking 1
 blinis
-bayous
+bayous 1
 bejan
 benediction 4
 bridger 1
