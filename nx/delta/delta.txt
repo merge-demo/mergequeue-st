@@ -6089,7 +6089,7 @@ dualin 1
 detrimental
 dropout
 dimission 1
-durgen
+durgen 1
 dissolvable 2
 deckedout
 digestible 1
@@ -8680,7 +8680,7 @@ devex
 demobbed 1
 desalinizing
 dichastasis
-deathrate 1
+deathrate 2
 depolarizing 1
 diethylethanolamine
 diastereoisomerism 1
@@ -17677,7 +17677,7 @@ diffusimeter
 dousers
 deedholder 1
 doolies 1
-drawbacks 1
+drawbacks 2
 dilogy 1
 dialectally
 dorsalis 1
