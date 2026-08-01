@@ -5757,7 +5757,7 @@ expressions
 englobed 2
 enneahedral 2
 envelopment 1
-expulsing 1
+expulsing 2
 extirp 1
 englut 1
 emhpasizing 4
@@ -6207,7 +6207,7 @@ enforcedly 1
 egrid 1
 eightvo
 eardrops 1
-endamaged
+endamaged 1
 eidology
 endosmosis
 electromotor 2
@@ -7003,7 +7003,7 @@ environment 3
 embolic 2
 eminence 1
 entwines 1
-epinikian 1
+epinikian 2
 enzymolytic 1
 excitomuscular
 encompassed 1
@@ -7818,7 +7818,7 @@ electrifiable 1
 epigrammatically
 epigamic
 ephod
-enterolith
+enterolith 1
 elbowed 2
 elbower 2
 essays
@@ -8441,7 +8441,7 @@ expressionistic
 entryways 1
 empathy 1
 entrants 1
-enregiment
+enregiment 1
 ecyphellate 1
 enhemospore 1
 escarmouche 3
