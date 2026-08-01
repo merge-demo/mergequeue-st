@@ -1,2 +1,3 @@
 Trunk Merge
 now supports
+Stacked PRs
