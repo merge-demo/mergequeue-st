@@ -2753,7 +2753,7 @@ barology
 barolong
 boroughship 2
 barometers 1
-beefy 1
+beefy 2
 blam 1
 brainache 1
 beachside 1
@@ -16608,7 +16608,7 @@ bedmakers
 bubinga 2
 bougainvillea 2
 bacillary 1
-bubonocele
+bubonocele 1
 bewitchful 2
 bracings 2
 besague 2
