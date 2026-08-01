@@ -3076,7 +3076,7 @@ afterwar 2
 actinographic
 autotomy 2
 appriser 1
-actinolitic 3
+actinolitic 4
 anthropogenesis 3
 antimeson
 aland
@@ -4951,7 +4951,7 @@ arraigning
 aerofoils 1
 atmidometry 1
 adjourned
-amberfish
+amberfish 1
 antilogous
 antinaturalistic 1
 accessit 2
@@ -6144,7 +6144,7 @@ agitatrix
 agitprops
 aglance
 anchoritess 1
-aglaozonia
+aglaozonia 1
 alkanal 2
 agleaf
 antidotary 1
@@ -7795,7 +7795,7 @@ avulses 1
 amphikaryon 1
 antiseptical 1
 aldermanship
-aldermen 1
+aldermen 2
 allopolyploidy
 almehs
 aonian 1
@@ -9028,7 +9028,7 @@ amphisbaenae 3
 aisle 1
 amuses
 allothogenic 3
-astrakanite 1
+astrakanite 2
 angora
 allotypes
 annotates
@@ -11480,7 +11480,7 @@ ajugas 1
 attendants
 anywheres 1
 assets
-aneroids 1
+aneroids 2
 arthogram 2
 apiphobia
 antholysis 2
@@ -12606,7 +12606,7 @@ anencephalic
 angka
 alulae
 archpatriarch
-argent
+argent 1
 arvo 1
 anencephalus
 anorexigenic 1
@@ -12653,7 +12653,7 @@ anesthesiologies
 aasvogel 1
 angelophany 1
 archrascal 1
-asarh
+asarh 1
 angwantibo 1
 anesthetization 2
 anesthetized 2
@@ -13522,7 +13522,7 @@ apse 1
 abanic 3
 annihilationist 1
 articulates
-annihilationistic 1
+annihilationistic 2
 arrobas
 airproofs
 aerophilatelist
@@ -18144,7 +18144,7 @@ artware 2
 allegoricalness 3
 allodiary
 astigmatically
-alivincular
+alivincular 1
 aquaregia 1
 antizealot
 aquarelle
@@ -19698,7 +19698,7 @@ anticathexis 2
 aristology
 anamite 1
 anglesmith 1
-acrostichal
+acrostichal 1
 aristologist
 aristophanic
 arteriorrhexis
@@ -22318,7 +22318,7 @@ argents 1
 alamedas
 adrenolysis 1
 autosoteric
-abraders
+abraders 1
 appair 2
 assorts 1
 agete
@@ -22572,7 +22572,7 @@ atelier 3
 archetypical 1
 affeeror 1
 agentess 1
-addicts
+addicts 1
 anisoleucocytosis
 ateliotic 1
 atelo
@@ -22673,7 +22673,7 @@ annotto 2
 athermanous
 alley
 aerobic
-atheromatosis 1
+atheromatosis 2
 atheroscleroses
 archbuffoon
 ateuchi 3
@@ -23807,7 +23807,7 @@ australioid
 anticonservatively
 allicit 1
 ampasimenite
-amatorious 1
+amatorious 2
 allelomorphism
 acicular 1
 austrianize 1
@@ -24652,7 +24652,7 @@ alienly 1
 agouti 2
 acclaim
 accessibility
-arbutuses
+arbutuses 1
 abjudicating 2
 archineuron
 avenage 1
