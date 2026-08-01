@@ -295,7 +295,7 @@ fraternation 2
 faders 1
 feints 3
 feint 1
-fostell
+fostell 1
 finagles
 fibrillated
 fittiness 3
@@ -5020,7 +5020,7 @@ flaccidness 1
 frowsier 2
 feathers
 fundamentalistic 1
-faineantise
+faineantise 1
 falsificate 1
 firman 1
 fenianism 2
@@ -6856,7 +6856,7 @@ foreporch 1
 fonnish 2
 folios 1
 faradizes
-fortuitus 1
+fortuitus 2
 foliose 3
 flachery 3
 flittingly 1
