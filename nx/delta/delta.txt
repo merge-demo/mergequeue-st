@@ -3756,7 +3756,7 @@ disimbitter 1
 deia 1
 deadpanner
 dyostyle
-dor 1
+dor 2
 dwale
 darwin 1
 disgracia 1
@@ -6074,7 +6074,7 @@ deraigning 1
 divest 1
 dispirits
 derailing 1
-demiworld 2
+demiworld 3
 danseuse 3
 derailment 1
 decocts
@@ -6609,7 +6609,7 @@ decontamination
 defibrinize 2
 doyley
 diaporthe 1
-dermatrophy
+dermatrophy 1
 darkhearted 2
 dicarboxylate 1
 demembration
