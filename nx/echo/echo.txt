@@ -334,7 +334,7 @@ exigible 2
 eaten 1
 eighty 2
 exogamies
-electrodynamic
+electrodynamic 1
 enchantment
 electrocauterization 1
 epacridaceous 2
@@ -4737,7 +4737,7 @@ euxine 1
 equulei 2
 enneahedra 1
 endophlebitis 1
-electroionic 2
+electroionic 3
 etymologize
 executioners
 eventides
@@ -11883,7 +11883,7 @@ engrammes 2
 eucre 1
 elusoriness 2
 ervenholder 2
-everwhich 1
+everwhich 2
 eparchate 3
 echinostome 1
 enteroparesis 1
