@@ -11869,7 +11869,7 @@ bridebed
 beperiwigged 3
 barytocelestine
 bodysurfed
-bodysurfer 2
+bodysurfer 3
 bodywear
 benthopelagic
 blueprints 1
@@ -15238,7 +15238,7 @@ brick 2
 battened
 brickbat 2
 buttonholed
-blackstrap
+blackstrap 1
 bombyx 1
 bemajesty 1
 brickbatting 1
