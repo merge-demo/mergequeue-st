@@ -1641,7 +1641,7 @@ cyathophylloid
 courtrooms 1
 collectibles
 calmed 1
-coazervation
+coazervation 1
 centrobaric
 crureus
 calmest 1
@@ -6076,7 +6076,7 @@ catlike 1
 crowns
 catling
 catlings
-condescend 1
+condescend 2
 cairds 1
 catlins 2
 craftsperson
@@ -9635,7 +9635,7 @@ calcipexy 2
 cheerled
 cheerlessly
 cheerlessness
-comatulid 2
+comatulid 3
 cheerly
 coastman
 catholiciser 2
@@ -15899,7 +15899,7 @@ clemence 1
 centibar
 carpogonia
 clemencies 1
-confederationism
+confederationism 1
 clement
 clementina
 clemently
@@ -24573,7 +24573,7 @@ coplaintiff
 coper
 copernican
 creatophagous
-citrinous 2
+citrinous 3
 cassonade 1
 copernicus
 cholecystojejunostomy 1
@@ -27883,7 +27883,7 @@ cytohyaloplasm
 concerting
 crabeating 1
 canchas
-craber 1
+craber 2
 crablet 1
 crablike
 chromidial 2
@@ -28623,7 +28623,7 @@ calendarian
 cremasterial 1
 cremasteric
 cremate
-conjointly
+conjointly 1
 chemicomechanical 2
 crossbowmen 2
 coccogonium 1
