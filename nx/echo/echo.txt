@@ -1344,7 +1344,7 @@ eights 2
 epode 2
 exonerates
 encloser 2
-endoskeletal
+endoskeletal 1
 essentialness 3
 exomis 1
 estrone 1
@@ -11587,7 +11587,7 @@ equipartisan
 evoking 2
 enlighten 1
 extensiveness 1
-evolutionism 1
+evolutionism 2
 epizeuxis
 evolutionistic
 epigenesis
@@ -13957,7 +13957,7 @@ extramusical
 encapsulates
 erective 1
 extraneous 3
-extraneousness
+extraneousness 1
 exorcistic 1
 elytrorrhagia
 emplanes 1
