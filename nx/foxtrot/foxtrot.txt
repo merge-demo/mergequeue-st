@@ -882,7 +882,7 @@ firmland
 fanums 1
 fenberry 2
 falangism 3
-fadaise 3
+fadaise 4
 fleabug 1
 ferrate 1
 faquir
@@ -961,7 +961,7 @@ fishing
 flustering
 frivoller 1
 formyl 1
-fondlings 3
+fondlings 4
 forritsome 1
 filoplume 2
 familiar
@@ -4583,7 +4583,7 @@ frees 2
 fesswise 1
 fringilliformes 1
 foliages 2
-fissidens
+fissidens 1
 feetage
 fossilify 2
 fisheye 1

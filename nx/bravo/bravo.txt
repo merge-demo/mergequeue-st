@@ -1976,7 +1976,7 @@ balances 1
 bandstring
 bathymetric 1
 brandishes
-bigeye 2
+bigeye 3
 believes 1
 bosquets 2
 baahling
@@ -6488,7 +6488,7 @@ boltropes 2
 bronchopneumonic
 bephrase 1
 brachiopodist
-betelgeuse 1
+betelgeuse 2
 bugology
 banxring
 bepiece 1
@@ -13081,7 +13081,7 @@ bierstubes 2
 boehmenist 1
 boreen 1
 bowerly
-bimestrial
+bimestrial 1
 burdash 1
 bugseeds 1
 boodleism 1
