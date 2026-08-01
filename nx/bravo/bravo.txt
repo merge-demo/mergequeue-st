@@ -7570,7 +7570,7 @@ begiggle 2
 bloodthirstiness
 barnacle
 bewhisker 1
-biplicate 1
+biplicate 2
 bleater 1
 burele 1
 bywalker
@@ -8843,7 +8843,7 @@ banalities 1
 battery
 bedrivels
 bummalos
-bakelize
+bakelize 1
 barfed
 benzol 1
 balsamiferous
@@ -15570,7 +15570,7 @@ bryony
 biedermeier 3
 buglet 1
 bryonia 1
-belloot
+belloot 1
 backbiter
 bryophyllum 2
 bouncy 3
