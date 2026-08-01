@@ -2298,7 +2298,7 @@ geometrid 2
 gallovidian 1
 galvanography
 graviton 1
-gravamina 2
+gravamina 3
 gamine 2
 gelatinizer 1
 gradates
@@ -7656,7 +7656,7 @@ gyn 2
 gowlan
 gunsel 2
 graphic
-gracilis
+gracilis 1
 gracing 4
 gunpaper
 greyly 2
@@ -9199,7 +9199,7 @@ grippiness 1
 gratulatory 1
 gregatim 1
 glycolytically
-galvanometer
+galvanometer 1
 greenwich 2
 glossodynamometer 2
 gynarchies 2
@@ -9757,7 +9757,7 @@ gelatinous 1
 gregarine 5
 gonochorismus
 granza
-giantess
+giantess 1
 geic 3
 gaulsh
 galliass 3
