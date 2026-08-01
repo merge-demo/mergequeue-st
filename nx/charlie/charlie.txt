@@ -938,7 +938,7 @@ cols
 collagist 2
 chazzanut
 cakravartin
-calaba
+calaba 1
 crawfoot
 coulees
 calabari
@@ -12971,7 +12971,7 @@ cerianthidae
 collects
 casel
 circumhorizontal 1
-continentality
+continentality 1
 cyanides
 cyanidrosis
 clothes
@@ -24790,7 +24790,7 @@ cueman
 cops
 catocathartic
 copses 1
-classicized 1
+classicized 2
 copsewood
 circs 1
 copsy
@@ -31017,7 +31017,7 @@ carillonneur
 cytochylema
 cumenyl
 citrocola
-coumalin 1
+coumalin 2
 cumic
 campanian
 cumyl 1
