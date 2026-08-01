@@ -940,7 +940,7 @@ bagpipers
 bandyball
 bardiglio
 bismarine 2
-boscage 1
+boscage 2
 berryless
 bivinyl
 biopsychic
@@ -7863,7 +7863,7 @@ bothridiums 1
 bohmite 1
 biblical
 bobsledders 2
-bels 1
+bels 2
 benamed
 biblicality 1
 biblicism 1
@@ -14339,7 +14339,7 @@ bianchite 2
 bragly 2
 broachers 1
 bye 2
-biznaga
+biznaga 1
 boatowner 2
 blubbing 1
 barefit 1
@@ -15809,7 +15809,7 @@ bove 2
 bedecks 1
 beauing 2
 bitterroot
-billethead
+billethead 1
 backstrokes
 backhandedly 1
 besonio 1
@@ -17686,7 +17686,7 @@ bonuses 1
 boomlets 3
 burlesquer 1
 boviculture
-burlesquing
+burlesquing 1
 burlet 1
 butterfly
 biotically
