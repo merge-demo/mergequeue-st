@@ -2359,7 +2359,7 @@ appling
 autophoby
 acidnesses 1
 acidology 1
-acidometer
+acidometer 1
 arioi 1
 afflation 1
 anacardium 1
@@ -3339,7 +3339,7 @@ aurene 1
 aminity
 anthropomorphist 1
 avigator 2
-acxoyatl 1
+acxoyatl 2
 accensor
 alvina 1
 autophotograph 1
@@ -4816,7 +4816,7 @@ aorists
 aeriality 1
 angiasthenia
 acmaea
-aerials 1
+aerials 2
 asuri 1
 agrologically
 aeric 1
@@ -6796,7 +6796,7 @@ airboat
 airboats
 anomal
 alters 2
-airbrained
+airbrained 1
 affluents 1
 almagra 1
 amyelinic 1
@@ -9581,7 +9581,7 @@ antherozooid 1
 attitudinising 2
 angariation
 altiplano 1
-agnuses
+agnuses 1
 alkalized
 altitudinarian
 antiriot
@@ -15809,7 +15809,7 @@ ambomalleal
 agujon 1
 antiphona 1
 aminobarbituric
-antieugenic 2
+antieugenic 3
 antiphonally
 antiphonary
 abyes
@@ -20859,7 +20859,7 @@ apportions
 amputator
 avenery 2
 archmock
-amplifiable 1
+amplifiable 2
 actium
 abyssinians
 allecret
