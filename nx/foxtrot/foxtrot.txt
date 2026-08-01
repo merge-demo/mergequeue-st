@@ -2609,7 +2609,7 @@ feoffed 1
 fancily
 foresheet
 ferromanganese 2
-filagreed
+filagreed 1
 fameflower
 ferronatrite 1
 follis 2
@@ -4002,7 +4002,7 @@ forleft 1
 fingersmith 3
 ferison
 flushy 1
-furrow
+furrow 1
 fabricated 4
 filmlike 3
 fadmongery
@@ -5834,7 +5834,7 @@ fenestration
 flywinch
 fulfils 5
 flouncey 2
-footback 1
+footback 2
 forgrown 1
 filariid 1
 filipinization 1
@@ -9629,7 +9629,7 @@ forensic 2
 foxfires
 floreta 1
 frontopontine 2
-fizzed
+fizzed 1
 friableness 3
 frizzing 3
 fraternality 3
