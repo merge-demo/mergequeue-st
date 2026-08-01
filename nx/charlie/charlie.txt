@@ -1274,7 +1274,7 @@ catechistically
 calender 1
 compromissorial
 calendered
-calenderer
+calenderer 1
 cheeping 1
 confessionist 1
 calenders
@@ -3298,7 +3298,7 @@ corregimiento
 capitoline 1
 capitolium
 crabbit
-capitula 1
+capitula 2
 crumbiest
 cutiduris
 couchancy
@@ -3608,7 +3608,7 @@ carabeen
 carabidae
 checkle
 chrisoms
-carabidan
+carabidan 1
 carabidoid
 carabids 1
 cappy
@@ -5655,7 +5655,7 @@ catapasm 1
 caducity
 comprizable 1
 cataphyll 1
-correlativism 1
+correlativism 2
 chlorococcum
 cataphora 1
 cataphoresis
@@ -9329,7 +9329,7 @@ carpenterworm 1
 conserves
 chaussees
 chaussure
-catlap
+catlap 1
 coscinodiscaceae 3
 chautauqua
 craniometrically
@@ -13652,7 +13652,7 @@ coattests
 chalazal
 cristi
 chairwoman
-chalkboards
+chalkboards 1
 coppras
 chiropraxis
 cocuisa
@@ -17468,7 +17468,7 @@ calixtin
 categorematically 1
 crowning 2
 cobdenite
-cobelief 1
+cobelief 2
 cobeliever
 chowderheaded
 coracomandibular
@@ -19558,7 +19558,7 @@ clours
 columbate
 columbeion
 climath 1
-columbiad
+columbiad 1
 columbidae
 cobblestones 2
 cankerous 1
@@ -22069,7 +22069,7 @@ clivis
 conciliationist
 cotice
 conflictive
-conflictless 1
+conflictless 2
 conflictory
 conflicts
 cheltenham
@@ -22810,7 +22810,7 @@ clovers 1
 cabers
 consecrator
 consecratory 1
-consectary
+consectary 1
 cardines
 consecutive 1
 consecutively
@@ -23040,7 +23040,7 @@ convection
 consolute
 calash
 companioned
-convenable 2
+convenable 3
 consomm
 camels
 consomme
@@ -24890,7 +24890,7 @@ coracoprocoracoid
 cognoscibility 1
 crepitation
 cheilion
-conveyers
+conveyers 1
 cardecu 3
 corial 1
 comous
@@ -26211,7 +26211,7 @@ chelura
 calces
 caked
 conatural 1
-calorimeter
+calorimeter 1
 cycloidally
 cosmotellurian
 cysteines 1
@@ -30348,7 +30348,7 @@ celsitude
 cruppering
 crura 1
 complexionably 1
-crural 1
+crural 2
 counterattacks
 crurogenital 1
 cruroinguinal
