@@ -4089,7 +4089,7 @@ centaurian 1
 cardialgia
 cirrostome 2
 calla
-cardiameter 2
+cardiameter 3
 carnationed 1
 chlorotic
 cunners
@@ -25595,7 +25595,7 @@ corotates
 compulsoriness
 corotomy 2
 commemorized
-coroutines
+coroutines 1
 clericum
 corp 2
 corpn
