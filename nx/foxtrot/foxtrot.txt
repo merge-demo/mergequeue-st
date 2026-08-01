@@ -3697,7 +3697,7 @@ feodal
 frousiest 2
 facebread 2
 footcandles 2
-fillies
+fillies 1
 families 1
 firedogs 3
 foalfoot
@@ -4851,7 +4851,7 @@ floor 1
 farmhouse
 fickleness 2
 flagstick 2
-flagworm 1
+flagworm 2
 fandangle 2
 fissirostrate 2
 feramorz 1
@@ -11345,7 +11345,7 @@ fallacy
 fricandel 2
 formalith
 fulvene 5
-fertilisational 1
+fertilisational 2
 forecastors
 fermage 4
 furlan
