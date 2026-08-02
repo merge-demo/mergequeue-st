@@ -4084,7 +4084,7 @@ boldness
 begottenness
 bedeafen 1
 beaner
-bolewort
+bolewort 1
 beanfield
 bardling 1
 brontosaurs
@@ -4436,7 +4436,7 @@ becloak 4
 bereavement
 boojum 4
 bethorning
-beclog
+beclog 1
 becoiffed
 bulkiness
 bludging 1
@@ -18275,7 +18275,7 @@ bunuelo 1
 bde 2
 berryman
 basque
-brickmason 5
+brickmason 6
 badan 1
 burweed 4
 bins 2
