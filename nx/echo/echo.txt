@@ -4144,7 +4144,7 @@ expungement 1
 erythrodermia 1
 externum 5
 encl 1
-encaustes
+encaustes 1
 exporter
 elaeosia
 eyeroot 2
@@ -4667,7 +4667,7 @@ easter 2
 epigean
 ensphering 2
 estre
-emplaced 1
+emplaced 2
 exponentiating
 encircle 2
 embrowned 2
@@ -5732,7 +5732,7 @@ expose
 embossments 4
 esophagomalacia 2
 emaciation 2
-expective 2
+expective 3
 eddying 1
 enfief 2
 endues 2
@@ -12174,7 +12174,7 @@ esclavage 1
 energise
 elasticin 3
 exuviating
-electroshock 1
+electroshock 2
 exploits 1
 epicly 2
 ethnogeography
