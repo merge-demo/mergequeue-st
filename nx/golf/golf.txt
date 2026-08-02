@@ -5631,7 +5631,7 @@ gapy 4
 glaringly 2
 groma 3
 glyoxal 1
-glooms 2
+glooms 3
 gokuraku 1
 goodbye 1
 glasses 3
@@ -5836,7 +5836,7 @@ galvanoplastic
 grundel 2
 gadger 1
 gate 1
-gymnosporangium 4
+gymnosporangium 5
 gynoecium 1
 glucate 3
 gorevan 1
@@ -7209,7 +7209,7 @@ geotectonics 1
 give 2
 gynecol 1
 gape 1
-gorgosaurus
+gorgosaurus 1
 galenism 1
 gorillalike 1
 guardage
@@ -9366,7 +9366,7 @@ gluiest 2
 glamorize 1
 gwen 1
 grinderman 2
-glareola 3
+glareola 4
 goutiness
 glonoin 3
 gnomists 2
@@ -10634,7 +10634,7 @@ gunstocker 2
 geronto 3
 girns 2
 glimmerous 3
-grillades 3
+grillades 4
 gambette
 greenly 1
 gossipries
