@@ -6648,7 +6648,7 @@ cottiers
 cedilla
 cedillas
 ceding 1
-cosheath 2
+cosheath 3
 chromule
 cedrat
 conglution
@@ -24254,7 +24254,7 @@ clippings
 callistemon
 contakia 1
 candled
-caponised 1
+caponised 2
 craped 1
 convolvulaceae 1
 convolvulaceous
@@ -25709,7 +25709,7 @@ constitutive
 committals
 cobra 1
 correctress 2
-conoid
+conoid 1
 centupled
 corregimientos 1
 craniomalacia
