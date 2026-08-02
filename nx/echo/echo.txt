@@ -1865,7 +1865,7 @@ everwho 1
 eightball 2
 eclat 1
 earthstar
-epurate 1
+epurate 2
 eptatretidae 1
 entrepeneur 1
 eurythmy
@@ -4986,7 +4986,7 @@ entomb 1
 enqueued
 excuses
 encumbrances
-excipulaceae 1
+excipulaceae 2
 emboweller
 escobedo 2
 ensuer 1
@@ -7726,7 +7726,7 @@ epidymides 2
 extrafine 2
 eosine 2
 extractiform 5
-encephalogram
+encephalogram 1
 equispatial
 exotisms 2
 easternmost 1
@@ -9174,7 +9174,7 @@ enchodus 1
 elates 1
 embryophyte 1
 electrographite
-empiricism 3
+empiricism 4
 exotropia
 enclasp 2
 egomaniac 1
