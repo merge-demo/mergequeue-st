@@ -2532,7 +2532,7 @@ cardiophobe 1
 candymaking
 candite
 candyweed 1
-candle
+candle 1
 coehorn 1
 candleball
 candleberries 2
@@ -7271,7 +7271,7 @@ captious
 centurist
 coroners 1
 cherishes 1
-ceorl
+ceorl 1
 cep 1
 cholangioitis
 crisis 1
@@ -8543,7 +8543,7 @@ chandala 1
 chandelle
 chandelling 1
 cascades
-chandleress
+chandleress 1
 cerebrorachidian
 councilorship
 calais
@@ -9600,7 +9600,7 @@ cheepier 1
 cheepiest
 cheepiness 2
 ceramidium 2
-cyathozooid
+cyathozooid 1
 cubiculary
 contrabandism
 cheered
@@ -15605,7 +15605,7 @@ capryl
 conure
 convell
 colorfully 1
-cancerous
+cancerous 1
 corvinae 1
 ceratodus
 criminologists
@@ -20312,7 +20312,7 @@ concoctor
 communer
 chemopallidectomy 2
 catamnesis 1
-cytostroma
+cytostroma 1
 communicability
 communicable
 chansons 1
@@ -29085,7 +29085,7 @@ ceresine
 contrapone 1
 crinanite 1
 casselty
-conundrumize 1
+conundrumize 2
 columbus
 camerina 1
 chloryl
@@ -30653,7 +30653,7 @@ chlorids
 compole
 cucurbita 2
 cavaedia
-cucurbitaceous
+cucurbitaceous 1
 cucurbite
 cultual 1
 clinicist 2
@@ -31114,7 +31114,7 @@ coue
 countinghouse
 cunette 1
 choanite 1
-catharism
+catharism 1
 cuneus 1
 calcedony
 chivarra
