@@ -27248,7 +27248,7 @@ counterweighted 1
 counterweights
 counterwheel
 counterwilling
-counterwitness
+counterwitness 1
 counterwork
 counterworker
 counterworking
@@ -29329,7 +29329,7 @@ chimaerid 2
 certiorating
 cryptoheresy
 cryptoheretic
-cryptolite
+cryptolite 1
 cytochalasin 1
 cryptolith
 cryptology
