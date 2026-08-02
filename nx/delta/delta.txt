@@ -3225,7 +3225,7 @@ dekle 1
 doftberry 1
 defencive 1
 dents
-defend
+defend 1
 decolor
 dikast 1
 dolmenic 2
@@ -10189,7 +10189,7 @@ dzeron
 depopularize 2
 dismortgage
 dining 1
-discoplacental 1
+discoplacental 2
 dulcely 1
 dinitrate 1
 dopplerite 2

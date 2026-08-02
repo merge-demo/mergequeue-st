@@ -1155,7 +1155,7 @@ bountree
 bairnwort
 baisemain
 besmears
-benedictine
+benedictine 1
 bushwa
 brunets
 banqueter 1
@@ -1227,7 +1227,7 @@ bakeshop
 bakie
 biguttulate 1
 bicirrose
-bakingly
+bakingly 1
 bakli
 baymen 1
 boches 2
@@ -16443,7 +16443,7 @@ bellibone
 bps 1
 banditry 1
 bromellite 1
-blusterers 1
+blusterers 2
 barque 1
 benzdioxtriazine 1
 balsamy 3
@@ -17276,7 +17276,7 @@ batik 2
 baggies 1
 bumfuzzle
 baubles 1
-blotched
+blotched 1
 beating 1
 burseed 2
 beman
