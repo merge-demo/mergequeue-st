@@ -6824,7 +6824,7 @@ bivouac 1
 busboy 2
 battalia
 bitulithic 1
-besagne 3
+besagne 4
 bisexually
 bishopless 3
 besaile 2
@@ -8051,7 +8051,7 @@ biconnected 1
 bayberry 2
 butcherous
 bastonite
-biconsonantal
+biconsonantal 1
 barnburner
 biconvexity
 brawned 2
@@ -17780,7 +17780,7 @@ burrhead 1
 burrheaded
 bedcovers 1
 biserrate
-burrheadedness 1
+burrheadedness 2
 baroneted 1
 blinkered 1
 backing 1
@@ -17888,7 +17888,7 @@ bourse 1
 bookman 2
 beauship 2
 bivium 3
-boundable
+boundable 1
 bushelers 1
 bankcard
 bescurvy 2
