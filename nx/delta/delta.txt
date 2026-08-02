@@ -1127,7 +1127,7 @@ dashed 2
 dicentra 1
 dipnoid 2
 dermopathy 1
-dumpfile 1
+dumpfile 2
 dryfist 2
 dashee 1
 dasheen 2
@@ -7774,7 +7774,7 @@ daphnephoria 4
 devaluating 1
 devocalized 1
 dicyandiamide 1
-derealization
+derealization 1
 diptychon
 dignation 1
 devoice
