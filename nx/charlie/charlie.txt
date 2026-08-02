@@ -11966,7 +11966,7 @@ chorial
 cilician
 choriamb 2
 choriambic
-chorometry 1
+chorometry 2
 cozenage
 coaggregated
 confabulating 1
@@ -18354,7 +18354,7 @@ creamcups
 cogitant 1
 cogitates 1
 centrosomic
-cogitativity
+cogitativity 1
 comparer
 curvle
 cogitator 2
