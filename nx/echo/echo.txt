@@ -2176,7 +2176,7 @@ expect 2
 enamor 3
 eliminating 1
 epimyocardial 2
-ere 1
+ere 2
 electrovalently 1
 emphasising 4
 epanthous 1
@@ -3101,7 +3101,7 @@ excursiveness 1
 educing 1
 epistolographist
 edgewise 1
-euectic 1
+euectic 2
 eastermost 1
 elmwood
 exudations 1
@@ -3669,7 +3669,7 @@ eunomy
 episiorrhaphy 2
 exomion
 excogitates 1
-engarment
+engarment 1
 everse
 everywheres 1
 evangelistically 1
