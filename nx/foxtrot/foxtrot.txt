@@ -66,7 +66,7 @@ facebar 1
 facebow 2
 fenchone 2
 faceharden 1
-flagships
+flagships 1
 flecken 1
 facellite 3
 ferrocyanide 3
@@ -5204,7 +5204,7 @@ frontierlike
 frivolers 2
 foreclaw 2
 filaree 2
-fuchsia 1
+fuchsia 2
 familarity 2
 fieldwork
 frumpery
@@ -7127,7 +7127,7 @@ foundress 1
 feeder 1
 ferly 1
 flanging 1
-footballs 2
+footballs 3
 flinchers 2
 footboard
 footboards 1
@@ -10617,7 +10617,7 @@ fattish 2
 fruitfullness 1
 fluorimetry 1
 fustier
-fragmental 1
+fragmental 2
 forks 5
 furfurals 1
 filiation 1
