@@ -4339,7 +4339,7 @@ adrenosterone
 adrenocorticotrophic 2
 ammonolysis 1
 afterstain
-albuminosis
+albuminosis 1
 adrenocorticotropic 2
 anthracolithic 1
 astructive
@@ -13041,7 +13041,7 @@ anteriority
 angustifolious 1
 angustisellate
 antispectroscopic 1
-accommodable 1
+accommodable 2
 alfridaric
 argals 1
 angwich
@@ -13052,7 +13052,7 @@ agios 1
 antiprism 1
 ataraxics
 anhalonin
-abow
+abow 1
 anhalonine
 antioptimistic
 anhalouidine 1
@@ -16951,7 +16951,7 @@ anhima
 approachment 1
 arrive
 autotoxication 1
-abasio 1
+abasio 2
 aladinist
 alhagi 1
 aplace 1
@@ -17957,7 +17957,7 @@ anglaise 1
 arsenics
 acidolysis
 aegagropila
-am 1
+am 2
 approvance 3
 absolutes
 arsyl
