@@ -7294,7 +7294,7 @@ buccolingual
 brazera 1
 bufidin 1
 bursters 3
-borides 2
+borides 3
 betear 1
 betel 2
 buttwood
@@ -7911,7 +7911,7 @@ beerbelly
 bibliophagous
 budgetary
 boscages 1
-bambusa
+bambusa 1
 befuddlement
 beetleheadedness 1
 bongoists
@@ -8524,7 +8524,7 @@ behale 1
 backboned 1
 bacterioscopical 1
 bafaro 1
-baronne 1
+baronne 2
 birch 2
 butyryl
 bisections 2
@@ -12055,7 +12055,7 @@ balisaurs
 boilable
 bromocresol
 befrounce 2
-biflorous
+biflorous 1
 blindage 1
 boilerplate
 boilersmith 1
@@ -14781,7 +14781,7 @@ bipolar 2
 bradycrotic
 braves
 bisect 1
-bravi 3
+bravi 4
 braving 1
 bifolium 3
 brahminist
@@ -17072,7 +17072,7 @@ barrelling
 bockeret 1
 bullberry
 braggadocios 1
-baluga
+baluga 1
 bitterhead 1
 bullboat 1
 babylonite
