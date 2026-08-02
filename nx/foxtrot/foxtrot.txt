@@ -2522,7 +2522,7 @@ footsore 1
 feudal
 fastballs 2
 frush
-flunky 2
+flunky 3
 foulmouth 2
 formaldehyde
 feverlike 2
@@ -9119,7 +9119,7 @@ folksinger 1
 feedbag 2
 fizzled 3
 finochios
-frixion
+frixion 1
 flavors 5
 firebreak 1
 formably 1
