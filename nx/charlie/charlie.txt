@@ -6679,7 +6679,7 @@ counterthrust
 ceil 2
 celestine 1
 ceilers
-ceilidhe
+ceilidhe 1
 ceiling 1
 ceilings
 ceilingwards 1
@@ -22832,7 +22832,7 @@ continently
 consecutives
 cabinetwork
 corso
-claimsman
+claimsman 1
 cambers 1
 cassette 1
 cuirassing
