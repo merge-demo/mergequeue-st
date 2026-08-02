@@ -4487,7 +4487,7 @@ anacard 1
 aerobus
 adure
 andia
-allergia
+allergia 1
 anticomplement
 australic 2
 antipuritan 2
@@ -15829,7 +15829,7 @@ athericera 1
 agiotage 1
 assistants
 alismataceae
-abiogenist 1
+abiogenist 2
 alloisomeric 2
 antiphrases 1
 antiphthisic
@@ -22479,7 +22479,7 @@ astrotheology 1
 anisostemonous 2
 astrut 1
 agronomical
-aprendiz
+aprendiz 1
 astutious 2
 achime
 asudden 2
@@ -24070,7 +24070,7 @@ alphabetical 1
 adventurously 1
 accretive
 among
-arilliform 1
+arilliform 2
 anticontagious
 atomizers
 antiblack
