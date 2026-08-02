@@ -130,7 +130,7 @@ fletcher 1
 fomes 1
 filicic 1
 fackeltanz 3
-frill 1
+frill 2
 fumiferous 2
 flashforwards 1
 fictile 4
@@ -4122,7 +4122,7 @@ fersmite 2
 fratriage 2
 fipples
 floscule 3
-firca 3
+firca 4
 foisted 1
 forefeeling 1
 ferrosilicon 1
@@ -5188,7 +5188,7 @@ francolin 2
 frozenhearted 3
 fedifragous
 furmente 4
-frontozygomatic 1
+frontozygomatic 2
 furial 1
 furfurous 1
 flaubert 1
@@ -6451,7 +6451,7 @@ footbaths 1
 forweary 1
 flummery 1
 fidgeting 3
-filth 1
+filth 2
 folkcraft 1
 featliness 1
 frenchize 1
