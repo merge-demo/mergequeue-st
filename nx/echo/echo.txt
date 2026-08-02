@@ -1865,7 +1865,7 @@ everwho 1
 eightball 2
 eclat 1
 earthstar
-epurate 1
+epurate 2
 eptatretidae 1
 entrepeneur 1
 eurythmy
@@ -2160,7 +2160,7 @@ eld
 epimeritic 1
 effiguration 1
 expressed 2
-ethynes 1
+ethynes 2
 ejective 4
 eyedropperful 1
 environmentalists 1
@@ -2443,7 +2443,7 @@ engrails 1
 earthquaked 1
 ejulation 2
 epidemiologies
-educates 2
+educates 3
 engladden 2
 elean 3
 emerges
@@ -7137,7 +7137,7 @@ elvishly 1
 essentialities 1
 enneasyllabic 1
 epoxying 2
-etheostoma
+etheostoma 1
 equalizer
 enwove 1
 embira 1
@@ -13673,7 +13673,7 @@ eggcup
 epilog 1
 expansometer 2
 empeo 2
-extracorporeally 5
+extracorporeally 6
 erma
 elongating 2
 extenuate

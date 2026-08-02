@@ -66,7 +66,7 @@ facebar 1
 facebow 2
 fenchone 2
 faceharden 1
-flagships
+flagships 1
 flecken 1
 facellite 3
 ferrocyanide 3
@@ -1468,7 +1468,7 @@ fishmeal 1
 fairgoer 2
 fila 2
 forescent 2
-flutings 2
+flutings 3
 fetcher 1
 furibund 1
 flunkeyish 2
@@ -10807,7 +10807,7 @@ fashious
 fascisticize 2
 finials
 fulgentness
-flittermice 2
+flittermice 3
 films
 freehandedness
 flagstaffs 2
