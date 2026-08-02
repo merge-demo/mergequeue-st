@@ -5010,7 +5010,7 @@ agenizes
 aeronat
 algernon 1
 aeronaut
-aeronautic
+aeronautic 1
 agastric
 argentose 1
 agama
@@ -5936,7 +5936,7 @@ agglomerative 2
 abscissions 1
 arachnologist
 apical
-agglutinate
+agglutinate 1
 arenaceous
 arri
 aftergrind 2
@@ -9514,7 +9514,7 @@ alternated
 achier
 alignments
 assaugement
-aphengescope
+aphengescope 1
 apritif 1
 acadian
 alternater 1
@@ -11158,7 +11158,7 @@ assientist 2
 ascots
 analects 1
 achromatized 2
-arca 1
+arca 2
 amperian
 amphistomum
 attenuation 2
@@ -12283,7 +12283,7 @@ amylopsin 2
 archinfamy 1
 arbalests
 acetoveratrone
-alignment
+alignment 1
 anchorman 1
 auriculae 3
 avars
@@ -23495,7 +23495,7 @@ architraves 1
 augmenters 4
 augmentive
 augrim
-aggravator 2
+aggravator 3
 aphorizer
 ambidexterous 1
 ansel
