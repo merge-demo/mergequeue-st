@@ -4589,7 +4589,7 @@ beltlines
 bloodstone 2
 belial 2
 biddelian
-beats 1
+beats 2
 bedazement
 bigeminate 1
 bedazzle 1
@@ -5744,7 +5744,7 @@ bribes 3
 bastonet 2
 bedsheets
 barrator
-bechance
+bechance 1
 belittle 1
 bailees
 burnettize
