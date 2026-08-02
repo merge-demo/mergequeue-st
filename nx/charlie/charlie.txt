@@ -118,7 +118,7 @@ cabildo
 cabildos
 cabin 1
 cabinet 1
-cladophyllum
+cladophyllum 1
 cabineting 1
 codshead
 cabinetmaking
@@ -5167,7 +5167,7 @@ casemates
 casemented
 casements
 copolar
-caseolysis
+caseolysis 1
 caseous 1
 caserios
 cyphering 2
@@ -24004,7 +24004,7 @@ conveyorizing 2
 conveyors 2
 creamsacs
 campanili
-chamaesiphon 3
+chamaesiphon 4
 convenances 1
 convene
 comedically
