@@ -2011,7 +2011,7 @@ gavelock 1
 givenness 2
 gyroscopics 2
 gerocomia 2
-gynandrous 1
+gynandrous 2
 gavelocks 2
 gattine 2
 goaf 1
@@ -3087,7 +3087,7 @@ glucina 3
 geopotential 2
 gelosin
 grassplot 4
-georgemas
+georgemas 1
 germanite 5
 gurgles
 georgics 2
@@ -4709,7 +4709,7 @@ gametophyll 2
 goosegirl 1
 glene 1
 gnathites
-gaullist 1
+gaullist 2
 gigelira
 gotta 1
 gomeril
@@ -4777,7 +4777,7 @@ glades
 graupels 1
 grush 1
 generalidad 3
-gritter
+gritter 1
 gunnel
 gnomonics 2
 gigantize 1
@@ -5631,7 +5631,7 @@ gapy 4
 glaringly 2
 groma 3
 glyoxal 1
-glooms 2
+glooms 3
 gokuraku 1
 goodbye 1
 glasses 3
@@ -5836,7 +5836,7 @@ galvanoplastic
 grundel 2
 gadger 1
 gate 1
-gymnosporangium 4
+gymnosporangium 5
 gynoecium 1
 glucate 3
 gorevan 1
@@ -6048,7 +6048,7 @@ gyttja 3
 gairfowl 1
 grinningly 1
 gnathopodite
-golet 3
+golet 4
 gneissic
 gasifying
 gruffiness 4
@@ -7209,7 +7209,7 @@ geotectonics 1
 give 2
 gynecol 1
 gape 1
-gorgosaurus
+gorgosaurus 1
 galenism 1
 gorillalike 1
 guardage
@@ -9366,7 +9366,7 @@ gluiest 2
 glamorize 1
 gwen 1
 grinderman 2
-glareola 3
+glareola 4
 goutiness
 glonoin 3
 gnomists 2
@@ -10634,7 +10634,7 @@ gunstocker 2
 geronto 3
 girns 2
 glimmerous 3
-grillades 3
+grillades 4
 gambette
 greenly 1
 gossipries
