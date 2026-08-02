@@ -4300,7 +4300,7 @@ carfloat
 conservatoire
 crenic 2
 coater
-carfuffle
+carfuffle 1
 capiteaux
 camauros
 chappy
@@ -6852,7 +6852,7 @@ cytologist 1
 cellulofibrous
 celluloid
 confabbing
-cellulosic
+cellulosic 1
 contented 1
 conventionalization
 cellulosing
@@ -14351,7 +14351,7 @@ chronometry
 circumstantiality
 circumstantialities
 circumstantialness 2
-chipmunk
+chipmunk 1
 circumstantiate
 circumstantiating 1
 circumstantiation 1
@@ -17711,7 +17711,7 @@ cashier 3
 cocoanut
 chasing 2
 cocoawood
-churchgoing
+churchgoing 1
 cocobola
 cocobolas
 comeupance
