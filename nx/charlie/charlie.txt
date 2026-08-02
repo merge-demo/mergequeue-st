@@ -6679,7 +6679,7 @@ counterthrust
 ceil 2
 celestine 1
 ceilers
-ceilidhe
+ceilidhe 1
 ceiling 1
 ceilings
 ceilingwards 1
