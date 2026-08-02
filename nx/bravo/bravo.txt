@@ -739,7 +739,7 @@ bransles 3
 berrendo 1
 breeches
 bespangle
-backyard 1
+backyard 2
 bogwort 1
 badgerer
 blundersome 1
@@ -2242,7 +2242,7 @@ bedrivelled 1
 barauna
 barba 3
 bakhtiari 3
-bayards
+bayards 1
 boneheadedness 2
 bromize 1
 barbados 1
@@ -11663,7 +11663,7 @@ belace 1
 bankerdom
 boatloader 3
 beigy 1
-boatmanship 1
+boatmanship 2
 biogenetic 1
 boats 1
 boatsetter 2
@@ -14642,7 +14642,7 @@ binodal 2
 bassara 1
 boasted 2
 branning
-bromoiodism 1
+bromoiodism 2
 broadleaves
 bewrayment 1
 bines
