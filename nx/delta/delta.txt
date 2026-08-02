@@ -3942,7 +3942,7 @@ decontaminates 1
 dunstone 1
 deepwaterman 1
 dustman 2
-decontaminator
+decontaminator 1
 disquixote 2
 delatinize
 delation 1
@@ -5757,7 +5757,7 @@ distalwards 1
 dacker 1
 deepnesses 2
 decoupled
-deposers 1
+deposers 2
 discouragement
 dissuade
 deposit 2
