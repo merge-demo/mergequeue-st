@@ -17780,7 +17780,7 @@ burrhead 1
 burrheaded
 bedcovers 1
 biserrate
-burrheadedness 1
+burrheadedness 2
 baroneted 1
 blinkered 1
 backing 1
@@ -17888,7 +17888,7 @@ bourse 1
 bookman 2
 beauship 2
 bivium 3
-boundable
+boundable 1
 bushelers 1
 bankcard
 bescurvy 2
