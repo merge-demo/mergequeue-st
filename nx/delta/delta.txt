@@ -859,7 +859,7 @@ dubiosity 1
 devoicing
 decalcification 2
 dowered
-deaerates
+deaerates 1
 disorchard 3
 defang
 dankishness 1
@@ -5744,7 +5744,7 @@ deportability 1
 deportations
 decriminalized
 demonomancy 1
-dissipatedly
+dissipatedly 1
 dewer 1
 dallyman
 disoxygenate 2
@@ -10293,7 +10293,7 @@ dionysiac
 dionysiacally
 dionysus
 drumwood
-dirigibles
+dirigibles 1
 diastrophy
 dionize
 dioon
@@ -10539,7 +10539,7 @@ dauw 1
 diplocardiac
 diplocarpon 1
 diplocaulescent 2
-diplocephalus
+diplocephalus 1
 drearisomeness 2
 dysaphia 1
 dbrn

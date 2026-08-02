@@ -4146,7 +4146,7 @@ appressor
 agrief 1
 antihypertensives
 antilyssic
-admonitionist
+admonitionist 1
 antenna
 aplacental
 anabranch
@@ -7534,7 +7534,7 @@ armaria 1
 ask 2
 anthranilate 2
 albuminate 1
-abrased 1
+abrased 2
 arhythmia
 adiaphonon
 arditi 1
@@ -17032,7 +17032,7 @@ ables
 apocarp
 amaethon
 anthropomorphic
-apoquinine 1
+apoquinine 2
 acroscleroderma 1
 apocha
 automorphic 1
@@ -19217,7 +19217,7 @@ avilion
 agrarianism
 antiparasitic
 auriscope 2
-archconsoler
+archconsoler 1
 ardish 1
 ardito 2
 amianthoidal
@@ -19599,7 +19599,7 @@ apophorometer
 aridian
 analogy
 aridity
-admonishes 1
+admonishes 2
 analogies
 aridities 1
 anaxagorean 1
