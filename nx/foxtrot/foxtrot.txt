@@ -5794,7 +5794,7 @@ fribble
 family
 fevertwig 3
 flambee
-frett 1
+frett 2
 fv 1
 forestside
 forepromised
@@ -9257,7 +9257,7 @@ foundries 2
 faucals 3
 fidalgo 1
 forsakes 1
-flattener
+flattener 1
 feldspathose
 fretless 4
 flosh 1
@@ -10177,7 +10177,7 @@ fricatives
 fluid 3
 frivolousness 3
 foray
-faunula
+faunula 1
 felled 1
 forgives 4
 fliting 3
