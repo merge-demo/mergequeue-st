@@ -1,4 +1,4 @@
-disincarnation 2
+disincarnation 3
 da
 derek
 dromonds
@@ -1532,7 +1532,7 @@ distracting 1
 diagnosable
 dowsabel 3
 diglucoside
-decontaminations 1
+decontaminations 2
 doatish 2
 diddlers 2
 denture 1
@@ -2063,7 +2063,7 @@ decaying
 diopsimeter 1
 diety
 dummy 2
-defaced 1
+defaced 2
 devolution 3
 disproportionally
 decal 2
@@ -3657,7 +3657,7 @@ degraded
 degradement
 dozing 3
 depsid
-disrupt
+disrupt 1
 decimalisation 2
 discalced
 degraduate
@@ -3698,7 +3698,7 @@ dinumeration
 dowlas
 dehydrochlorinate
 doketism 3
-drabble
+drabble 1
 drepanoid 1
 didact
 dehydrogenate 1
@@ -5259,7 +5259,7 @@ dentalia 1
 dentalism
 dodoes 2
 decultivate 1
-decadescent 1
+decadescent 2
 droitsman
 dysmorphism 2
 diancecht
@@ -15413,7 +15413,7 @@ dominick
 dominies
 dominion 1
 dinkly 1
-discursativeness 1
+discursativeness 2
 diplobacillus 1
 dominionism
 demiurges
