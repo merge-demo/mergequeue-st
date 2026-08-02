@@ -10947,7 +10947,7 @@ bartonia 1
 brooms 1
 beadroll 1
 blinker
-balancewise 1
+balancewise 2
 bitterful 1
 barretors 1
 blowhards 2
@@ -16691,7 +16691,7 @@ basketfuls 2
 blithehearted 1
 besiege 1
 bishopship
-basilisk
+basilisk 1
 bilaan 1
 babelish 1
 buckhounds
