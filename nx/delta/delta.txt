@@ -6201,7 +6201,7 @@ dimiss
 digametic 2
 dermabrasion
 dithyramb
-drabness 1
+drabness 2
 dipsades 2
 disbenchment 1
 dactylopodite 3
@@ -7645,7 +7645,7 @@ daisycutter 1
 drabbles
 desalinating 1
 discursify
-developmentarian
+developmentarian 1
 dustpan 1
 detestability
 deray
