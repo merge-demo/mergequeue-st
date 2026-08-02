@@ -3223,7 +3223,7 @@ breadth
 ballerinas
 baclava
 bravish
-basidiospore
+basidiospore 1
 basidiosporous 1
 buckbush
 batiked 1
@@ -15396,7 +15396,7 @@ brainwasher
 bagatelles
 brierroot
 butterfingers
-baseballer 1
+baseballer 2
 bonnetless 2
 brieve
 burgling 2
