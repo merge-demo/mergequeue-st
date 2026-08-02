@@ -490,7 +490,7 @@ fiumara 2
 forcleave 1
 fakery 1
 flaxweed 2
-funbre 4
+funbre 5
 frisch 2
 fertilizing 4
 frenne 3
@@ -1216,7 +1216,7 @@ filipendula
 forespeed
 fluorography 1
 folds 2
-fassalite 2
+fassalite 3
 fastbacks 2
 flagman 3
 faradism 3
@@ -4833,7 +4833,7 @@ faunus 1
 fishberries
 flinthead 1
 franchisers 1
-fleay 2
+fleay 3
 fabricative 2
 fainer 2
 foil 2
@@ -8781,7 +8781,7 @@ faultsman 2
 finchery
 forehands 2
 functioned
-fth 3
+fth 4
 flavonols
 fortuitous 2
 furrieries
@@ -8860,7 +8860,7 @@ fossage 4
 fanlight 2
 female 1
 fearable 1
-flexured 3
+flexured 4
 friss 1
 forthcome 2
 feucht
