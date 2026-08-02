@@ -3753,7 +3753,7 @@ battlewagon
 bronchiectasis
 bibliothque
 botryotherapy 2
-backhauls
+backhauls 1
 battologise 1
 bastile 1
 batlan 1
@@ -9379,7 +9379,7 @@ brike
 bahawder 1
 bimah
 brachiotomy
-bituminise 2
+bituminise 3
 bromopikrin 1
 britannia 2
 birdglue 1
@@ -9763,7 +9763,7 @@ bedragglement 2
 bissonata
 besing 1
 bistate
-biosyntheses
+biosyntheses 1
 bibliophage
 biochemist 1
 brainwashed
@@ -15954,7 +15954,7 @@ bucrania
 bromoprotein 2
 baham 3
 barbated
-billtong
+billtong 1
 bromphenol
 bathroomed 3
 blattering 1
