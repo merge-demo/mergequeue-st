@@ -66,7 +66,7 @@ facebar 1
 facebow 2
 fenchone 2
 faceharden 1
-flagships
+flagships 1
 flecken 1
 facellite 3
 ferrocyanide 3
@@ -2346,7 +2346,7 @@ fer
 firecoat 4
 featherstitching 1
 ferae 1
-fatal 3
+fatal 4
 fairyship 2
 fronton 2
 fetations 2
@@ -3038,7 +3038,7 @@ frenchen 3
 fissioned
 forensical
 felstones
-friendlies 1
+friendlies 2
 fibbers 1
 foremelt 4
 fustin 1
@@ -5204,7 +5204,7 @@ frontierlike
 frivolers 2
 foreclaw 2
 filaree 2
-fuchsia 1
+fuchsia 2
 familarity 2
 fieldwork
 frumpery
@@ -7127,7 +7127,7 @@ foundress 1
 feeder 1
 ferly 1
 flanging 1
-footballs 2
+footballs 3
 flinchers 2
 footboard
 footboards 1
@@ -8219,7 +8219,7 @@ formicinae 1
 folles
 faddle 3
 fraught 1
-flourishable
+flourishable 1
 fordrive
 flockbed
 fichus
@@ -10617,7 +10617,7 @@ fattish 2
 fruitfullness 1
 fluorimetry 1
 fustier
-fragmental 1
+fragmental 2
 forks 5
 furfurals 1
 filiation 1
