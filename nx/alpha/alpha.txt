@@ -4487,7 +4487,7 @@ anacard 1
 aerobus
 adure
 andia
-allergia
+allergia 1
 anticomplement
 australic 2
 antipuritan 2
@@ -22479,7 +22479,7 @@ astrotheology 1
 anisostemonous 2
 astrut 1
 agronomical
-aprendiz
+aprendiz 1
 astutious 2
 achime
 asudden 2
