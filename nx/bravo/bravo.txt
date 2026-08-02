@@ -8439,7 +8439,7 @@ bocage 2
 burtons
 bonspell 2
 bleareye 2
-bittium
+bittium 1
 bilaminar 2
 burblier
 bemusement
@@ -11591,7 +11591,7 @@ biddy
 brierwood 1
 beth 1
 bestain
-brightness 1
+brightness 2
 byordinar 2
 blustering
 basilicalike 2
@@ -16507,7 +16507,7 @@ beclart
 bridal 1
 brusure 1
 bentang
-branchlike
+branchlike 1
 brutalist 1
 brutalitarianism 1
 baboonery 4
@@ -17371,7 +17371,7 @@ beachier 1
 bogledom
 bliny 1
 bailie 1
-bloodmobiles
+bloodmobiles 1
 bunged
 bylawman
 busheling
