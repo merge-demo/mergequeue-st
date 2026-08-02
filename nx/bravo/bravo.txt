@@ -1171,7 +1171,7 @@ bodhisat 1
 bridgeway 1
 bigbloom 2
 bedsteads 2
-ballasting
+ballasting 1
 balladized 3
 baiza
 bespin 1
@@ -1681,7 +1681,7 @@ barbuts
 bestrews 1
 blandiloquious
 bradburya
-bogtrot
+bogtrot 1
 boycotter 3
 ballsiest 1
 bengali 2
@@ -5915,7 +5915,7 @@ belostomatidae 1
 besleeve 2
 bisnagas 1
 bouillabaisse
-belotte
+belotte 1
 bowden
 bechancing
 benzalcyanhydrin 2
