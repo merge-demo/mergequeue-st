@@ -130,7 +130,7 @@ fletcher 1
 fomes 1
 filicic 1
 fackeltanz 3
-frill 1
+frill 2
 fumiferous 2
 flashforwards 1
 fictile 4
@@ -2747,7 +2747,7 @@ feedy 1
 fedity
 fathomless 2
 fascis 3
-fiercer 2
+fiercer 3
 fragmentarily 2
 fellinic 2
 felineness 1
@@ -5188,10 +5188,10 @@ francolin 2
 frozenhearted 3
 fedifragous
 furmente 4
-frontozygomatic 1
+frontozygomatic 2
 furial 1
 furfurous 1
-flaubert 1
+flaubert 2
 forestudy 1
 flaubert 2
 forestudy 1
@@ -7445,7 +7445,7 @@ furnacite 2
 fishgarth 2
 francophone 1
 freckliest 5
-ferredoxin 1
+ferredoxin 2
 foaly 2
 foreguidance 1
 firecrest
@@ -7900,7 +7900,7 @@ foredates 2
 flannelbush
 forerun 1
 fname 1
-forjesket 2
+forjesket 3
 factiousness 2
 franklinia 1
 foreruns 1
@@ -8403,7 +8403,7 @@ familiars 1
 foveolated 1
 fireboard
 faradmeter 1
-fotched
+fotched 1
 frontenis 1
 fightable 1
 forking
@@ -9059,7 +9059,7 @@ fondling
 fasc 3
 foremistress
 feeling 2
-folliculate 1
+folliculate 2
 freakery 3
 filisters
 finish 2
@@ -9358,7 +9358,7 @@ furlough 1
 fantasies 2
 feckfully
 footrest 1
-forzato 2
+forzato 3
 finnicky 4
 fatback 5
 formicicide 1
@@ -9916,7 +9916,7 @@ frouncing 1
 feminize 1
 funge 4
 feria 5
-fundatorial 1
+fundatorial 2
 flavanthrone 2
 feedable 1
 fogeys 2
