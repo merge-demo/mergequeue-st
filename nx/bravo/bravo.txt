@@ -1171,7 +1171,7 @@ bodhisat 1
 bridgeway 1
 bigbloom 2
 bedsteads 2
-ballasting
+ballasting 1
 balladized 3
 baiza
 bespin 1
@@ -1554,7 +1554,7 @@ baronetised
 blacktopping
 banks
 beeherd
-burger 1
+burger 2
 bersiamite 1
 bulbiform 2
 bdl
@@ -1681,7 +1681,7 @@ barbuts
 bestrews 1
 blandiloquious
 bradburya
-bogtrot
+bogtrot 1
 boycotter 3
 ballsiest 1
 bengali 2
@@ -2328,7 +2328,7 @@ barber
 bordrag
 businessese 1
 bizet 1
-botryomyces 3
+botryomyces 4
 bands
 betokened 2
 budgerygah
@@ -5884,7 +5884,7 @@ boxholder 3
 begaudy 3
 basified
 bellweed 2
-beggardom 2
+beggardom 3
 bretons 1
 butterbur
 bellwether
@@ -14142,7 +14142,7 @@ beaujolais 1
 brachyrrhinia 2
 battleward
 budged 1
-brushups 1
+brushups 2
 brachistocephaly
 bontee 1
 boloed
@@ -14574,7 +14574,7 @@ bounciest 3
 branchireme 2
 branchless
 bivalents 2
-bdellostomidae 1
+bdellostomidae 2
 buckaroos 1
 batteryman
 banefulness
@@ -17123,7 +17123,7 @@ britchka
 bifold 1
 beglare 1
 burliness 1
-bilaterality
+bilaterality 1
 bituberculated 2
 brimfully 1
 bullfinches
@@ -17592,7 +17592,7 @@ bodstick 1
 boyfriends
 burgeons
 balafo 1
-burgers
+burgers 1
 becurtained
 bivalency 2
 bacteriostatically 1
