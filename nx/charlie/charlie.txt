@@ -4862,7 +4862,7 @@ chairladies
 carri
 cetaceous
 carry
-carriageable
+carriageable 1
 carriageful
 clachans
 carriages 1
@@ -15340,7 +15340,7 @@ curvilineal
 catchingly
 coldfinch 1
 cornfloor
-climatological
+climatological 1
 clankless
 chaldaic 1
 cuyas
@@ -16298,7 +16298,7 @@ clipboards 2
 clypeastridea
 chicky 1
 clypeastrina 1
-clypeastroid
+clypeastroid 1
 carnivaller
 clypeate
 conspicuous
