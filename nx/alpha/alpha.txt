@@ -4335,7 +4335,7 @@ addu
 adrenitis
 adrenochrome
 adrenocortical
-adrenosterone
+adrenosterone 1
 adrenocorticotrophic 2
 ammonolysis 1
 afterstain
@@ -4895,7 +4895,7 @@ asideness 1
 archisupreme
 armlet 1
 alienage 1
-andric
+andric 1
 antiromanticism
 aneared
 avoset 2
@@ -6050,7 +6050,7 @@ autocatheterism
 apparence 2
 anachronistic 2
 anticommunistic 1
-archt 1
+archt 2
 actinomycetal
 aggroupment 1
 aghan
@@ -15298,7 +15298,7 @@ antigigmanic
 annexment 2
 autonitridation 3
 antileveling
-antigonon 2
+antigonon 3
 antigonorrheic 1
 afflue 1
 antigovernmentally 1
@@ -16496,7 +16496,7 @@ armoire
 aeron 1
 anvils 1
 anvilsmith 1
-archeal 2
+archeal 3
 aladfar
 acronal 2
 anviltops
@@ -22179,7 +22179,7 @@ arviculture 1
 archaic
 ambrettolide
 asthmatical 1
-aceric 2
+aceric 3
 aeromantic 1
 asthmatoid 2
 asthmogenic
@@ -22638,7 +22638,7 @@ ammino
 ablepharus 1
 atheistically 2
 antisyndicalism
-antiseptics
+antiseptics 1
 anticipating
 aythya
 atheisticness
