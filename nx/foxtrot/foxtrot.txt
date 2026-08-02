@@ -5676,7 +5676,7 @@ fermium 1
 fawe 1
 fragility 2
 fibrine
-freckles
+freckles 1
 funeration 4
 fillebeg 1
 forbearant 1
@@ -9404,7 +9404,7 @@ flocci
 flurriment 3
 florilegium 3
 frying 1
-facesaving 1
+facesaving 2
 formularisation 1
 foretimed 3
 fritillaria 3
