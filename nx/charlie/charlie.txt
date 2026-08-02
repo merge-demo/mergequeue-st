@@ -1995,7 +1995,7 @@ casavas
 camerinidae 2
 camerist
 campanero 1
-comp
+comp 1
 crenelates
 choliambist
 crampbit
@@ -2557,7 +2557,7 @@ crewel 3
 childproof
 cacqueteuse 1
 candlenut 1
-candlepins
+candlepins 1
 cerevis
 candler
 cryogeny
@@ -22317,7 +22317,7 @@ congou 1
 coessentialness 2
 corrasion
 copyread
-congrats
+congrats 1
 congratulable
 cliffhang
 coptine
@@ -25052,7 +25052,7 @@ cordinar
 cordlessly 1
 crucifyfied
 cordlike
-configured
+configured 1
 cordobas
 cordon 1
 cordonazos
@@ -27402,7 +27402,7 @@ courty
 coldbloodedness
 chickweed 2
 courtyards
-coonroot 1
+coonroot 2
 closter
 courtierly 1
 chuck
@@ -27679,7 +27679,7 @@ cowhided
 criminative
 cowhides
 caravanning
-cancellability 2
+cancellability 3
 cowhiding
 cabinetworking
 cowhorn
@@ -29013,7 +29013,7 @@ climatography
 chastisable
 culiciform
 crimea
-cheiroptera
+cheiroptera 1
 catchpoling 1
 crimeful
 crozzly
