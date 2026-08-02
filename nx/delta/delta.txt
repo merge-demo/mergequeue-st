@@ -1,4 +1,4 @@
-disincarnation 2
+disincarnation 3
 da
 derek
 dromonds
@@ -2063,7 +2063,7 @@ decaying
 diopsimeter 1
 diety
 dummy 2
-defaced 1
+defaced 2
 devolution 3
 disproportionally
 decal 2
@@ -3657,7 +3657,7 @@ degraded
 degradement
 dozing 3
 depsid
-disrupt
+disrupt 1
 decimalisation 2
 discalced
 degraduate
@@ -3698,7 +3698,7 @@ dinumeration
 dowlas
 dehydrochlorinate
 doketism 3
-drabble
+drabble 1
 drepanoid 1
 didact
 dehydrogenate 1
@@ -5840,7 +5840,7 @@ deborah 1
 dryopians
 deforceor 3
 depredate
-depredated
+depredated 1
 definitiveness
 diagnoses 1
 deleting
@@ -8042,7 +8042,7 @@ diaclase 1
 dhobis 2
 duchesse
 dysacusia
-delve
+delve 1
 dhooly
 dothideaceous
 dictyonine 1
