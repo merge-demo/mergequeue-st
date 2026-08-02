@@ -1558,7 +1558,7 @@ coorieing
 cayennes
 callipees
 callipering 1
-callipers
+callipers 1
 copopoda
 cocanucos
 crystal 1
@@ -6679,7 +6679,7 @@ counterthrust
 ceil 2
 celestine 1
 ceilers
-ceilidhe
+ceilidhe 1
 ceiling 1
 ceilings
 ceilingwards 1
@@ -8762,7 +8762,7 @@ confoundingly
 carposporic 1
 cachexic 2
 chapournet 1
-chapournetted
+chapournetted 1
 cottering
 chappal
 countermine
@@ -22832,7 +22832,7 @@ continently
 consecutives
 cabinetwork
 corso
-claimsman
+claimsman 1
 cambers 1
 cassette 1
 cuirassing
@@ -29325,7 +29325,7 @@ cadouk
 concelebrated
 craggedly
 cryptographal
-chimaerid 2
+chimaerid 3
 certiorating
 cryptoheresy
 cryptoheretic
