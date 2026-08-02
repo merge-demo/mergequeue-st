@@ -2180,7 +2180,7 @@ ere 2
 electrovalently 1
 emphasising 4
 epanthous 1
-elderman 1
+elderman 2
 ensorcels 2
 eggwhisk 1
 electrics 1
@@ -5666,7 +5666,7 @@ excitonutrient
 engastrimythic
 evening
 engelmannia 1
-electricians
+electricians 1
 estrual 1
 engenders 2
 extravagantes
@@ -6661,7 +6661,7 @@ entosclerite 6
 eulogiser 1
 equitation 1
 ecrevisse
-epulis 1
+epulis 2
 espundia 1
 endamebiasis 1
 electrophysics 2
@@ -8125,7 +8125,7 @@ equanimity 1
 engineering 1
 epistemonical 2
 euchromatin 1
-extemporalness 1
+extemporalness 2
 expedientist
 evelong 1
 eyl 2
@@ -11137,7 +11137,7 @@ enactments 1
 enwreathing 3
 exflagellation 2
 eiderdown 2
-euthycomi
+euthycomi 1
 exploitable 4
 enol
 euthytatic
@@ -13548,7 +13548,7 @@ erogeny 2
 elephantous
 erotology 1
 exteriorization
-elbert
+elbert 1
 earcap
 epitimesis 2
 epicranial
