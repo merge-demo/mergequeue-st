@@ -527,7 +527,7 @@ backstromite
 boart
 bu 4
 backtenter
-beggingwise
+beggingwise 1
 blennioid 3
 backtracking
 boryl 1
@@ -1078,7 +1078,7 @@ bondmen 3
 babyhouse 1
 blousier 2
 buzzards 3
-burghal 2
+burghal 3
 birdlimed
 bomos 1
 borosalicylate 1
@@ -5623,7 +5623,7 @@ bogie 2
 belam
 bettas 1
 brabblement 2
-birding
+birding 1
 beclamoring 1
 brunet 1
 baggages 2
@@ -7471,7 +7471,7 @@ blackmailer
 bibulous 1
 basebred 1
 betulinic 3
-bipyramidal
+bipyramidal 1
 betumbled
 balconied
 biomicroscope
