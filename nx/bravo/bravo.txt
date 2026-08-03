@@ -3989,7 +3989,7 @@ bantlings 2
 brand 1
 bnf 2
 bespy
-becursed 1
+becursed 2
 beaching
 beachman
 buenas 1
@@ -4081,7 +4081,7 @@ blitzkrieged 2
 beams
 bean 1
 boldness
-begottenness
+begottenness 1
 bedeafen 1
 beaner
 bolewort 1
@@ -6203,7 +6203,7 @@ brazas
 beneventan 1
 bibliography 1
 bijugous
-benevolency 4
+benevolency 5
 bengalese 1
 batavian
 bengola
@@ -12457,7 +12457,7 @@ bechase 1
 b
 barde 1
 bells 1
-boukit
+boukit 1
 bescrawl
 booklists
 bisymmetrically 1
