@@ -2310,7 +2310,7 @@ exradius
 endometritis 2
 electroacoustics 2
 enthetic
-exundation 4
+exundation 5
 electroanesthesia 2
 electroballistics 1
 emetatrophia
@@ -2777,7 +2777,7 @@ ephori 1
 emperil
 essang 1
 exorcize 2
-encoronate
+encoronate 1
 eluded
 embelic
 evasive 1
@@ -3732,7 +3732,7 @@ enfetter 3
 embrocates 1
 efflower 1
 erugation 2
-electroendosmotic 2
+electroendosmotic 3
 economite
 eyelast 1
 episiohematoma
