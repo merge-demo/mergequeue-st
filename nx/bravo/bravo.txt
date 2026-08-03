@@ -4081,7 +4081,7 @@ blitzkrieged 2
 beams
 bean 1
 boldness
-begottenness
+begottenness 1
 bedeafen 1
 beaner
 bolewort 1
@@ -12457,7 +12457,7 @@ bechase 1
 b
 barde 1
 bells 1
-boukit
+boukit 1
 bescrawl
 booklists
 bisymmetrically 1
