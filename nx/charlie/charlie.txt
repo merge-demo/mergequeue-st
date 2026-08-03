@@ -12849,7 +12849,7 @@ canasta
 calorite
 commonplacer 1
 church
-courageousness 1
+courageousness 2
 churchcraft
 countersigns 1
 churches
@@ -27092,7 +27092,7 @@ counterremonstrant 1
 counterreplied 1
 cladocerous
 counterreplies 1
-counterreprisal
+counterreprisal 1
 counterrevolutionary 1
 cauterize
 chivaring 1
