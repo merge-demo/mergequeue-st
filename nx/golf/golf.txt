@@ -3263,7 +3263,7 @@ grein 1
 glent 1
 grabbable 2
 glosseme 2
-geodic
+geodic 1
 gula 2
 greenside 1
 geneticists
