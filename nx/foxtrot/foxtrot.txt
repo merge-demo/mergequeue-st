@@ -489,7 +489,7 @@ frieseite
 fiumara 2
 forcleave 1
 fakery 1
-flaxweed 2
+flaxweed 3
 funbre 5
 frisch 2
 fertilizing 4
@@ -2139,7 +2139,7 @@ frigate
 faujdar
 fuchsite
 fosterling 2
-frenchman 2
+frenchman 3
 floristically 5
 fluer 2
 fidepromissor
@@ -4349,7 +4349,7 @@ foraramina 2
 fylfots 1
 foreacquaint 3
 fencer 4
-foreconceive
+foreconceive 1
 forb 1
 furosemide 2
 fillister 1
@@ -4869,12 +4869,12 @@ ferocities
 formalness 1
 followable 1
 flails
-feuilletonism 1
+feuilletonism 2
 furoic 1
 fourteen
 fady 1
 fixes
-firmhearted 1
+firmhearted 2
 ficche 4
 frondiferous 2
 fetching 3
@@ -6378,7 +6378,7 @@ fluorboric 1
 frugiferousness 2
 fluotitanate 2
 formulized 1
-fricace
+fricace 1
 foetal
 fudgy 2
 fluorenes 2
@@ -8941,7 +8941,7 @@ foulest 1
 fjeld 1
 fiques 4
 flitty 2
-ferritins 3
+ferritins 4
 foumart 1
 fodgel
 falciparum 2
@@ -11216,7 +11216,7 @@ fungoes 3
 flotorial
 freechurchism 1
 futilely
-fixating 1
+fixating 2
 foremanship 2
 fippence
 futuric 2
