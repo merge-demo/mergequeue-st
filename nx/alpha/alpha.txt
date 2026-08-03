@@ -3391,7 +3391,7 @@ antipolyneuritic
 adamantinoma 1
 adamantness 1
 actinochemical
-aphthongia 1
+aphthongia 2
 adamantoblast
 archery
 amblystoma
@@ -6122,7 +6122,7 @@ aviatrix
 appay
 askile
 aminopeptidase
-aminocaproic
+aminocaproic 1
 airproofed 1
 apothegmatic
 anostosis
@@ -8282,7 +8282,7 @@ ascetta 2
 alienabilities
 airfields
 acceleratory
-antitheological 1
+antitheological 2
 agouties 2
 acetylacetone 1
 ancylodactyla 1
@@ -13165,7 +13165,7 @@ anthracyl 1
 accretes
 allect
 aplostemonous 2
-antiphilosophic
+antiphilosophic 1
 acronymically 1
 alemannish
 arrace
@@ -21055,7 +21055,7 @@ asclepiadaceae
 asclepiadae
 avengingly
 aircheck 2
-asclepiadean
+asclepiadean 1
 airwaves
 asclepiadic
 autosender 1
@@ -22653,7 +22653,7 @@ abongo
 accordions
 anthropoteleological 2
 athenaeums
-anisopia 4
+anisopia 5
 atheneum 2
 ait 1
 arteriotome 1

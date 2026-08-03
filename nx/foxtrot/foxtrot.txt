@@ -153,7 +153,7 @@ fumitories 1
 favus 2
 fibbery 1
 factionalism 2
-fullbodied 3
+fullbodied 4
 fabes 1
 felaheen 1
 flightiest 2
@@ -3561,7 +3561,7 @@ filariids 3
 forechoice
 ferroprussic
 flagellative
-foody 1
+foody 2
 funding 1
 forboding 1
 fairylands 3
@@ -4137,7 +4137,7 @@ funders 3
 fenchyl 1
 feezed 2
 fireboy 1
-flying
+flying 1
 fiendishly 3
 fraticelli 1
 firebomb
@@ -5114,7 +5114,7 @@ funking
 fumant 2
 forbidding
 forthy 1
-fireweed 3
+fireweed 4
 flashgun
 fifteenth 1
 factitive 1
@@ -5839,7 +5839,7 @@ forgrown 2
 filariid 1
 filipinization 1
 floatage 2
-fayal
+fayal 1
 foreparent 3
 fuciphagous 1
 feverously 1
