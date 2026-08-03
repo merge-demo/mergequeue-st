@@ -7754,7 +7754,7 @@ amplifier
 alcoranic 1
 aff 1
 alcosol
-analyticities 1
+analyticities 2
 adnascence
 angustia
 ald 1
@@ -9798,7 +9798,7 @@ appanages 2
 amalfitan
 amalgam 1
 aux 2
-apophonies
+apophonies 1
 amalgamate 1
 ambolic 1
 adjutory
