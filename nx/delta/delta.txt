@@ -3755,7 +3755,7 @@ desmine
 disimbitter 1
 deia 1
 deadpanner
-dyostyle
+dyostyle 1
 dor 2
 dwale
 darwin 1
@@ -8799,7 +8799,7 @@ diazoma 1
 diazonium 1
 demethylation 1
 diazotype
-dromicia
+dromicia 1
 deluding 2
 disadvise 2
 deratization 1
