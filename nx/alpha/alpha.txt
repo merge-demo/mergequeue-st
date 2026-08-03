@@ -5644,7 +5644,7 @@ anchoritically
 absorptivity
 aphototaxis 1
 aftervision
-afterwale
+afterwale 1
 amnesics
 afterward
 afterwise
