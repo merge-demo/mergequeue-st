@@ -489,7 +489,7 @@ frieseite
 fiumara 2
 forcleave 1
 fakery 1
-flaxweed 2
+flaxweed 3
 funbre 5
 frisch 2
 fertilizing 4
@@ -4869,7 +4869,7 @@ ferocities
 formalness 1
 followable 1
 flails
-feuilletonism 1
+feuilletonism 2
 furoic 1
 fourteen
 fady 1
@@ -8941,7 +8941,7 @@ foulest 1
 fjeld 1
 fiques 4
 flitty 2
-ferritins 3
+ferritins 4
 foumart 1
 fodgel
 falciparum 2
