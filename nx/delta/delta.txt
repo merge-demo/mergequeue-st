@@ -4850,7 +4850,7 @@ dailies 1
 demonography 1
 demonographies 1
 denature
-dramseller 1
+dramseller 2
 deactivator 2
 drupose
 dismality
@@ -16441,7 +16441,7 @@ dishpan 1
 dimorphous
 deviousness
 decurions 4
-dozzle
+dozzle 1
 dozzled 1
 dr 2
 draba
