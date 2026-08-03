@@ -12454,7 +12454,7 @@ buller
 bondholders
 barrettes 1
 bechase 1
-b
+b 1
 barde 1
 bells 1
 boukit
@@ -16029,7 +16029,7 @@ boisseaux
 bibionidae 2
 bronchoplasty 1
 backstitching 1
-bronchorrhaphy
+bronchorrhaphy 1
 bronchorrhea 1
 bronchos
 bogged 2
@@ -17228,7 +17228,7 @@ barracks
 bromindigo
 bullwhipping 1
 bullwort 1
-bulrush 2
+bulrush 3
 boonies
 bulletin
 berrylike 1
