@@ -296,7 +296,7 @@ distributed 2
 dak
 dayabhaga 1
 demisheath
-drowsihead
+drowsihead 1
 dayanim 5
 daybeacon
 dealbate
@@ -15361,7 +15361,7 @@ disappearance 2
 domiciled
 domestic
 dissipator
-deities
+deities 1
 dearn
 deckers
 dragginess 1
@@ -17384,7 +17384,7 @@ drow
 delilah
 donia 2
 desquamation
-desight 1
+desight 2
 daglocks
 dishwiper 1
 dropberry 1
@@ -17903,7 +17903,7 @@ derbies 1
 dauntlessly 1
 debutante 1
 destituteness
-dysmenorrhagia 1
+dysmenorrhagia 2
 desentimentalize
 doctrine
 durationless 1
