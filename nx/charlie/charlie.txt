@@ -7246,7 +7246,7 @@ clematises
 centuples
 codbank
 chaldese 1
-centuplicate 1
+centuplicate 2
 conelrads
 centuplicating 1
 civility
@@ -7829,7 +7829,7 @@ cespititous 1
 contrite
 cespitosely
 cespitulose
-cess
+cess 1
 cessantly
 cessative
 cessavit
@@ -10656,7 +10656,7 @@ chanteys
 chimeric 1
 coptic 1
 calci
-cavies
+cavies 1
 coagment 1
 cookbooks
 caribou
@@ -14909,7 +14909,7 @@ continuedly 2
 cordites
 creaks
 chupak 1
-cytostomal 1
+cytostomal 2
 cordwood
 cytostromatic 1
 compromised
@@ -29720,7 +29720,7 @@ chirpling 1
 cromwellian
 cembalos
 cronartium 1
-caddiing 1
+caddiing 2
 cramboes 1
 cronet
 christianity 1
