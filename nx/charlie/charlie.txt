@@ -11659,7 +11659,7 @@ cholesterol 1
 clepsydrae
 cholesterolemia
 cholesteroluria
-choletelin 2
+choletelin 3
 controversial
 chack 2
 clouding
@@ -15304,7 +15304,7 @@ crissa 1
 catalyzes 1
 clancularly 1
 clandestine 1
-clandestinely
+clandestinely 1
 clandestineness
 clanfellow 1
 caddo
@@ -17671,7 +17671,7 @@ cocillana
 cyrtolite
 cocin 1
 colluders
-cocinera
+cocinera 1
 cocircular 1
 cultrirostres
 catodont
@@ -28527,7 +28527,7 @@ credences
 coring
 credencive 2
 credenda
-confluently
+confluently 1
 cassada
 credentialed 1
 countercampaign
