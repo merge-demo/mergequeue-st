@@ -3989,7 +3989,7 @@ bantlings 2
 brand 1
 bnf 2
 bespy
-becursed 1
+becursed 2
 beaching
 beachman
 buenas 1
@@ -6203,7 +6203,7 @@ brazas
 beneventan 1
 bibliography 1
 bijugous
-benevolency 4
+benevolency 5
 bengalese 1
 batavian
 bengola
@@ -9206,7 +9206,7 @@ biotransformation 1
 birdnest
 biotron
 beauetry
-bipalmate 1
+bipalmate 2
 booed 2
 biomasses
 biparasitic
@@ -12680,7 +12680,7 @@ bonilass
 benefactresses 1
 boorga 4
 brochures
-bronchoconstrictor
+bronchoconstrictor 1
 bubblier 2
 baptized 1
 butylates 2
