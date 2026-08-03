@@ -538,7 +538,7 @@ dainty
 dao 1
 damagers
 damalic
-dextrorotation 1
+dextrorotation 2
 demobilized 1
 designations 1
 dialyzing 1
@@ -2141,7 +2141,7 @@ diosmosis 1
 decantist 1
 decaffeinated 1
 decapitation
-deterrable 1
+deterrable 2
 diplacuses 1
 decapitations
 disassemble 1
@@ -6797,7 +6797,7 @@ dedicates 2
 diaconate 1
 desize
 dividuity
-decompositional 1
+decompositional 2
 desklike
 diphrelatic
 dunks 1

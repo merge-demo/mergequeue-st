@@ -595,7 +595,7 @@ flavorless 1
 frighter 2
 fragaria
 floodways
-fleshes 3
+fleshes 4
 forehand 2
 folly 2
 farrantly
@@ -775,7 +775,7 @@ fulmen 1
 flogging 3
 fatality 2
 froster 1
-forensicality 1
+forensicality 2
 flipe 2
 floosy 1
 fustanelle
@@ -2690,7 +2690,7 @@ fitzclarence 2
 forced 2
 fissipedate 1
 frogeater 2
-foundational 4
+foundational 5
 filaze
 fawner 1
 frizziness 1
