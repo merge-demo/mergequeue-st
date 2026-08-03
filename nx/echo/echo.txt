@@ -2777,7 +2777,7 @@ ephori 1
 emperil
 essang 1
 exorcize 2
-encoronate
+encoronate 1
 eluded
 embelic
 evasive 1
@@ -3732,7 +3732,7 @@ enfetter 3
 embrocates 1
 efflower 1
 erugation 2
-electroendosmotic 2
+electroendosmotic 3
 economite
 eyelast 1
 episiohematoma
@@ -6270,7 +6270,7 @@ epochist 1
 enrollee 1
 extraorbitally 2
 excludes 2
-earmarking
+earmarking 1
 enrollers 3
 eche 1
 excitants 1
