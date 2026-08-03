@@ -7853,7 +7853,7 @@ castaway
 cessor
 cesspit
 cesspits
-carey
+carey 1
 computerese
 contrastment
 cesspools 1
@@ -10622,7 +10622,7 @@ chylopoiesis 2
 chilopsis
 coagulum
 chilostomatous 1
-chylous
+chylous 1
 chilte
 chiltern 2
 chilver 1
@@ -28102,7 +28102,7 @@ chorologist 1
 crany
 crania
 cancerate 2
-cosier
+cosier 1
 crocodiline
 cranian
 cranic 1
