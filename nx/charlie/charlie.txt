@@ -4297,7 +4297,7 @@ cottages
 carfare
 carfares
 carfloat
-conservatoire
+conservatoire 1
 crenic 2
 coater
 carfuffle 1
@@ -12645,7 +12645,7 @@ chopines
 chroococcales
 chroococcoid
 charcoalist 2
-cacafuego
+cacafuego 1
 cicatrisation 1
 chteau
 chauffeuses
