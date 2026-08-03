@@ -3561,7 +3561,7 @@ filariids 3
 forechoice
 ferroprussic
 flagellative
-foody 1
+foody 2
 funding 1
 forboding 1
 fairylands 3
@@ -4180,7 +4180,7 @@ flagstones
 fado 1
 fairishness 2
 flickertail 1
-fishet 2
+fishet 3
 fibrocaseous 2
 foliating 2
 fanions 2
@@ -7403,7 +7403,7 @@ fissirostral 3
 ferrarese 1
 floressence
 fusk
-fatalistic
+fatalistic 1
 forbow 3
 foreclose 2
 forestland 2
