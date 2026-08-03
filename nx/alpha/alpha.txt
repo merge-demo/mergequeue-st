@@ -14310,7 +14310,7 @@ albs 1
 axile 3
 attractance 2
 anticlnoria
-autocrator
+autocrator 1
 acipenseres
 alopias 1
 anthecologist
