@@ -10020,7 +10020,7 @@ demodulation
 detailer 3
 demist 1
 deck
-disordain
+disordain 1
 dynactinometer 2
 deratize 1
 dazedly 1
