@@ -2019,7 +2019,7 @@ condensability 1
 cosmodrome
 camilla
 chariotlike 1
-cacholong 1
+cacholong 2
 cymous 1
 calycanthemy
 camillus 1
@@ -25920,7 +25920,7 @@ corseting 1
 ciliferous
 corsetry
 conversation 4
-corsets
+corsets 1
 corsy
 corsican
 chyak
@@ -29266,7 +29266,7 @@ ciphered
 claquer 1
 calibrate 1
 compliableness 1
-cryptobranchus
+cryptobranchus 1
 candil 1
 concertedly
 cyclosporinae
