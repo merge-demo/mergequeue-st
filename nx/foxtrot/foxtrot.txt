@@ -336,7 +336,7 @@ flaggelate 1
 fivish
 factions 1
 forfeiture
-flyingly 1
+flyingly 2
 fellers 3
 flattering 1
 festival
@@ -3582,7 +3582,7 @@ forgetable 1
 fractabling 3
 foreskirt 2
 florigraphy 1
-forspoken 4
+forspoken 5
 feddan 4
 flapjacks
 fussle 2
@@ -5793,7 +5793,7 @@ fulgurant
 fribble
 family
 fevertwig 3
-flambee
+flambee 1
 frett 1
 fv 1
 forestside

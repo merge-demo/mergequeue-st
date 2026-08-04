@@ -1592,7 +1592,7 @@ ephorship 1
 enfeoffment 2
 evolutility
 epibiotic 1
-embroilment
+embroilment 1
 egotistic 1
 exscind 1
 elutriator 1
@@ -7976,7 +7976,7 @@ emigating 1
 expectorations 1
 endovasculitis 2
 exsanguious
-exophoria
+exophoria 1
 euthenist 1
 equuleus 1
 ecliptic 2
@@ -12154,7 +12154,7 @@ eavesdrops
 excrementitiously 2
 enregister 1
 excellencies 2
-ejam 1
+ejam 2
 eloper
 ebonite 1
 ensorcerize 3
