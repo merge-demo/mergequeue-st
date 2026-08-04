@@ -765,7 +765,7 @@ bifrost
 badiaga 1
 boneshaw
 bannerman
-bushmanship
+bushmanship 1
 badigeon
 beadsman
 bowstrung
@@ -5737,7 +5737,7 @@ bandlimit 2
 belight
 baaed 3
 bulgaria 1
-bulldozer 1
+bulldozer 2
 belike 1
 bogeying
 bribes 3
@@ -9026,7 +9026,7 @@ biomes 3
 brokers
 beanlike 1
 beavery 1
-babelike 3
+babelike 4
 brontephobia
 besmuts
 biometries 1
@@ -10315,7 +10315,7 @@ bucayo
 blae
 bestudding 1
 blaeberries
-bebothered 1
+bebothered 2
 blepharoplasty 1
 blaflum
 blaggard 2
