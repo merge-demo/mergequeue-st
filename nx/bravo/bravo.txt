@@ -5735,7 +5735,7 @@ burials 1
 backsight 3
 bandlimit 2
 belight
-baaed 2
+baaed 3
 bulgaria 1
 bulldozer 1
 belike 1
@@ -8045,7 +8045,7 @@ biconcave 1
 bidder
 bullescene 3
 blusher
-biconic
+biconic 1
 biconically
 biconnected 1
 bayberry 2
