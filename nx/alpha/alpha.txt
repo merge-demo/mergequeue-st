@@ -1937,7 +1937,7 @@ annard 1
 aetiological 1
 acetaniside 1
 acetars 1
-acetation 1
+acetation 2
 axillas 2
 apostolicity 2
 acetenyl
@@ -7933,7 +7933,7 @@ aleyrodes 1
 advisers 3
 aleknight
 apractic 1
-archpastor
+archpastor 1
 agreat
 arithmocracy
 azodiphenyl
@@ -8113,7 +8113,7 @@ asianic
 ampelidaceae
 asymptotically 1
 alga 1
-advisory 2
+advisory 3
 aldolase
 acronycally
 antiholiday 3
@@ -12623,7 +12623,7 @@ anubis
 anepigraphous 1
 algae
 amorists
-anepithymia
+anepithymia 1
 awnlike
 ardennite 1
 antidoron
@@ -13794,7 +13794,7 @@ aminoacidemia 1
 anoopsia 1
 anopheles
 apoblast 2
-anophelinae 1
+anophelinae 2
 anophoria 1
 anaptyctic 2
 acoumeter 1
@@ -15628,7 +15628,7 @@ antineutralism
 argyles 2
 attritive
 antineutrino
-acerbities
+acerbities 1
 ametria
 aftermatter
 anting 4
@@ -16227,7 +16227,7 @@ airbound
 afara 1
 antistadholder 2
 aosmic 1
-antistatism
+antistatism 1
 antistatist
 achete
 apophyllous
@@ -16820,7 +16820,7 @@ ancienter
 approve
 auxiliary
 ambrosiac
-aphra
+aphra 1
 aphrodesiac
 abastral 1
 autotypic 1
@@ -18120,7 +18120,7 @@ absurdities 1
 augmentationer
 apneustic
 aquamanilia
-abede
+abede 1
 administering 1
 allyls 1
 avens
@@ -22165,7 +22165,7 @@ apetalousness
 astriferous 1
 archeology
 asthenolith
-asthenology 1
+asthenology 2
 atmolyze
 achaenodon
 anabaptistry
