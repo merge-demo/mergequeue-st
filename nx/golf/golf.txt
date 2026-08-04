@@ -784,7 +784,7 @@ gaulter
 ganymede
 gutter 2
 gluck
-gutturize 2
+gutturize 3
 galvanothermometer 1
 ggr 1
 galliformes
@@ -2761,7 +2761,7 @@ guydom 3
 gloppen 1
 gramophonist 1
 gyne 1
-gershon 2
+gershon 3
 guzzledom 2
 gyges 2
 guemul
@@ -2864,7 +2864,7 @@ glazes
 gaincope 1
 gomphoses 2
 gastrorrhagia
-gruesomeness 1
+gruesomeness 2
 gayety 2
 gadders 2
 gadwell
@@ -5077,7 +5077,7 @@ gainyield 3
 gandhist 4
 gummas 1
 glaucionetta
-glaireous 3
+glaireous 4
 gromatics 2
 grassland 2
 gaskin 2
@@ -6108,7 +6108,7 @@ gyroma 1
 greit
 greatly 3
 goitres 1
-gustoes
+gustoes 1
 gypsoplast 2
 gibuses 2
 gnathostome
@@ -8829,7 +8829,7 @@ greet
 gloves 1
 gandhian 1
 glimpsers
-grandchildren 1
+grandchildren 2
 gelatinochloride 3
 gunslinger 1
 garbles

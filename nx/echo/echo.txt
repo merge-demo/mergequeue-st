@@ -7727,7 +7727,7 @@ extrafine 2
 eosine 2
 extractiform 5
 encephalogram
-equispatial
+equispatial 1
 exotisms 2
 easternmost 1
 embolite
@@ -13193,7 +13193,7 @@ edema 1
 endognathal
 edriophthalmic 1
 eurhodol 2
-expertness 1
+expertness 2
 equiconvex
 erythea 3
 erotisms
@@ -14054,7 +14054,7 @@ extrait 2
 embiotocoid 2
 ecclesiasticalism
 escoting 2
-eyeline
+eyeline 1
 elektra 3
 enliven 3
 eidolons 2
