@@ -3690,7 +3690,7 @@ franchisal 1
 flannelboard
 folder 1
 fillable
-frownless
+frownless 1
 flavorlessness 2
 featherers 5
 feodal
@@ -4368,7 +4368,7 @@ flybook
 fixion 1
 fishboats 2
 fonduk 2
-flubdubberies 1
+flubdubberies 2
 fishbolts 3
 flechette 2
 funt 3
