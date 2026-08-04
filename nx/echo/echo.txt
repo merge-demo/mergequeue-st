@@ -537,7 +537,7 @@ erythrocytoschisis 1
 electrified
 echinodorus 1
 est 2
-endotheliotoxin 1
+endotheliotoxin 2
 endless 1
 echinoid 2
 ethiopians 1
@@ -5549,7 +5549,7 @@ enflower 1
 evaporate 1
 ectognatha 1
 equalization
-epidendrum 1
+epidendrum 2
 enneateric 1
 enfold 1
 eyeful
@@ -8025,7 +8025,7 @@ empaling
 eaglehawk 1
 epiglottidean 1
 embroiderers 1
-epiphloeum
+epiphloeum 1
 explicit 3
 etherize
 essoign 4
