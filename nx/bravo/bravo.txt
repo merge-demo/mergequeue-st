@@ -2714,7 +2714,7 @@ barnyard
 beastings 1
 beblood 1
 butein
-bottomries 2
+bottomries 3
 batch 2
 barnman 1
 braconids 1
@@ -14430,7 +14430,7 @@ bacteroides
 bemocked 2
 bisischiadic 1
 brainpan 1
-brainpans
+brainpans 1
 bandaid
 bisley
 bodeword 2
@@ -16914,7 +16914,7 @@ barretry 2
 brassbound 1
 beneficiate
 banditti 1
-bugeyes
+bugeyes 1
 baddy 4
 buckayro 1
 buggered
