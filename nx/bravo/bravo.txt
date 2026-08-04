@@ -4009,12 +4009,12 @@ beacons 1
 buoyancy 4
 beadeye 3
 beader
-bellmaker 2
+bellmaker 3
 barnhardtite
 beerothite
 binges
 brookside
-beshamed 2
+beshamed 3
 beadlehood 1
 besiegement 1
 blepharophimosis 1
@@ -10852,7 +10852,7 @@ bds 1
 blewits 2
 blick 1
 betone
-blickie
+blickie 1
 blickies 1
 britskas 1
 bloodlike 1
@@ -12407,7 +12407,7 @@ bigotries
 brothy 1
 betterly
 barbarians
-bassariscus 1
+bassariscus 2
 buckram 1
 befingering
 blindless 1
@@ -15640,7 +15640,7 @@ braws
 bonairly 1
 britain
 brotany
-buzzardlike 1
+buzzardlike 2
 biting 2
 britannically
 brashy
@@ -15682,7 +15682,7 @@ britts
 broacher
 baulkiest 2
 broaches
-bungstarter 2
+bungstarter 3
 burgundies 2
 batterable
 buffone 1
