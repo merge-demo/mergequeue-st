@@ -2674,7 +2674,7 @@ dialectics 2
 disuniter
 decongestant
 deltoidei 1
-deconsecrate 1
+deconsecrate 2
 duels 1
 dareful
 deconsecrated
@@ -9484,7 +9484,7 @@ digestiveness 1
 dipteroi
 diamonded 2
 dermad
-domically
+domically 1
 daintrel 2
 digestment
 dittography
