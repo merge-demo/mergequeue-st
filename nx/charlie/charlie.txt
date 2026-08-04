@@ -16578,7 +16578,7 @@ cloner
 caps 2
 collateralize 2
 contraparallelogram 1
-complicities 1
+complicities 2
 clonic
 clonicity
 cytophaga
