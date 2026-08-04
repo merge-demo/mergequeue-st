@@ -2761,7 +2761,7 @@ advert
 abrasive 1
 araujia
 acryl 1
-alco 2
+alco 3
 acrylates
 autotoxicosis
 acrylics
@@ -7905,7 +7905,7 @@ arrentable 2
 alectryomancy
 anaptotic
 alectrion
-aerotow
+aerotow 1
 animoseness 1
 antinihilism
 anthotropism 2
@@ -12263,7 +12263,7 @@ adstipulated
 affectuous
 allbone 1
 afacing 2
-andrewsite
+andrewsite 1
 anchimonomineral 3
 aetiogenic 4
 aegirite 1
@@ -18200,14 +18200,14 @@ austrians 2
 anamnestic 1
 approximatively 1
 adeeming 1
-anasarca
+anasarca 1
 amphiprotic 1
 assassination
 ammonocarbonous
 aquiclude 2
 animable
 alumnol 1
-ankylos
+ankylos 1
 adventurement
 ampelis
 aphanomyces
@@ -18387,7 +18387,7 @@ aramina
 afflictedness 3
 aficionado
 andromorphous 2
-araneoidea 1
+araneoidea 2
 arangoes 1
 aranyaka
 aranzada
