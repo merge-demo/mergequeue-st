@@ -791,7 +791,7 @@ bat
 brushcut
 bygoing 2
 banket 2
-badmouthed 2
+badmouthed 3
 burled 1
 bullfrog
 boltheads 1
@@ -2558,7 +2558,7 @@ boerdom 2
 brackishness 2
 begster
 birk
-backlists
+backlists 1
 bashlyk
 brained 1
 bonaci
@@ -2751,7 +2751,7 @@ bonneting 2
 bukeyef
 barology
 barolong
-boroughship 2
+boroughship 3
 barometers 1
 beefy 2
 blam 1
@@ -6501,7 +6501,7 @@ bigaroons 2
 backstrip
 bepart 1
 beacher
-banba
+banba 1
 bepimpling 2
 bepraiser 3
 branchiostegal 1
@@ -15223,7 +15223,7 @@ bifocal 3
 barbiturate
 batwa
 boomster
-brightsmith 2
+brightsmith 3
 brotherliness 2
 bribing
 buzziest 1
