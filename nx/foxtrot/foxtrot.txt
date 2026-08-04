@@ -1831,7 +1831,7 @@ flabellum 1
 fating 2
 feedbags
 footwalk
-fritterers 3
+fritterers 4
 flexographic 3
 frostnipped 1
 fesels 1
@@ -3690,7 +3690,7 @@ franchisal 1
 flannelboard
 folder 1
 fillable
-frownless
+frownless 1
 flavorlessness 2
 featherers 5
 feodal
