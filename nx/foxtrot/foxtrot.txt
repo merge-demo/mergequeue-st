@@ -557,7 +557,7 @@ faradized 3
 famine 1
 fll 2
 filiety 3
-folklorism 1
+folklorism 2
 forjudger 1
 frequentative
 frappe 2
@@ -2590,7 +2590,7 @@ ferroelectric 2
 fribblery 1
 fattier 2
 ferrogoslarite 2
-forcet 1
+forcet 2
 franked
 foud 4
 fossicked 2
@@ -5639,7 +5639,7 @@ flours 1
 farmwife 2
 facund 1
 foetor 3
-fernery
+fernery 1
 forepassed
 fireboot 2
 flyless 1
@@ -5961,7 +5961,7 @@ frailly 3
 fivepins 1
 futileness
 frightening 1
-fallibility 4
+fallibility 5
 fortunite 5
 floodlit 1
 fibromembrane 1
@@ -6488,7 +6488,7 @@ flusteration
 festschrifts 1
 fakes 3
 filiciform 4
-fario 3
+fario 4
 filagreeing 5
 factionist 1
 fluxes 1
@@ -8171,7 +8171,7 @@ fire
 formulates
 flatcaps 4
 faithful 2
-featurette 3
+featurette 4
 fanegadas
 fundmonger 4
 forcepses
@@ -10738,7 +10738,7 @@ fleckered 2
 fartlek 1
 fortran 3
 flunkeyistic 2
-forelaid 1
+forelaid 2
 fil
 fellmongering
 flavedo
