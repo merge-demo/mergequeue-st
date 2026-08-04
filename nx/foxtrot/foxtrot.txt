@@ -6723,7 +6723,7 @@ fighters 4
 feast 1
 fellowships 2
 forelegs 2
-fogon
+fogon 1
 fogproof 1
 forstand 2
 fellator 4
