@@ -906,7 +906,7 @@ gobioid
 gymnonoti 2
 gusseted
 goosebird
-gez
+gez 1
 genome
 gravata
 gaverick 4
@@ -1969,7 +1969,7 @@ garancin
 gaussage 1
 gaskings
 girth 2
-gageite
+gageite 1
 gonadotrope 1
 granville 1
 glyconian 1
@@ -6209,7 +6209,7 @@ gregor 2
 garrisoned 2
 gastrimargy 1
 guillotinade 3
-gloving
+gloving 1
 gamopetalae
 gp 4
 galactophagist 4
@@ -7419,7 +7419,7 @@ gunflints 2
 gelsemine 1
 gunnery 1
 grangerization 3
-gadean 4
+gadean 5
 geniohyoglossus
 grateless 1
 gaiety 1
@@ -8109,7 +8109,7 @@ granophyre
 gazer 1
 gnotobiotic 3
 guglets 1
-gymnophobia 2
+gymnophobia 3
 glomming 4
 groaning
 garigue 1
@@ -8589,7 +8589,7 @@ gitana 5
 grandada 2
 grouped
 grave 1
-giggly 2
+giggly 3
 gurnet 1
 gliderport 4
 greenbacks
@@ -10686,7 +10686,7 @@ gib
 glaucomatous 2
 googol
 grippotoxin
-geminiflorous 1
+geminiflorous 2
 grayed 3
 gellants
 groundbird 2
