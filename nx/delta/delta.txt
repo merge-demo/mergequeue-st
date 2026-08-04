@@ -6282,7 +6282,7 @@ dermatoses
 dermatosiophobia
 depurated
 dermatozoon
-deadens 1
+deadens 2
 dermatozoonosis 1
 deutzias 1
 dryophyllum
@@ -8251,7 +8251,7 @@ diagonalizable
 diagonalization
 diagnosing
 duel
-denude 1
+denude 2
 diagonals 2
 diagonalwise 1
 denudate 2
@@ -11056,7 +11056,7 @@ disillusioned
 doppelkummel 3
 demonetisation 1
 dirt
-denitrified 2
+denitrified 3
 dandyling 3
 decentness
 drakes 2
@@ -13440,7 +13440,7 @@ disregardfulness 2
 dingbat
 dropshot 1
 dramatise
-dialogging
+dialogging 1
 disreport 1
 disreputability
 desolater
