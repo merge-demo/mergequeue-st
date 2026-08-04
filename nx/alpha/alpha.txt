@@ -5972,7 +5972,7 @@ afterglows 1
 aggrandize 2
 althaea 1
 affinity 1
-aggrandizement
+aggrandizement 1
 aetiologist
 assiento 1
 athlete
@@ -9197,7 +9197,7 @@ absentation 1
 ageist 1
 acquitted
 almner
-almohad 1
+almohad 2
 aorta
 anticlimactical
 autoallogamous 2
@@ -9603,7 +9603,7 @@ amuse
 antecommunion 3
 aspersors
 altruists
-altun
+altun 1
 alimentary 1
 anchoretism 1
 antidemocratic
@@ -11279,7 +11279,7 @@ aimers 2
 advocating 3
 amphigenous 2
 antimetabole 1
-amphigenously 1
+amphigenously 2
 ascorbate
 aliunde 1
 alismaceous
@@ -13771,7 +13771,7 @@ anomodont
 anomodontia
 anomoeomery 2
 anticommercially 2
-anomophyllous 2
+anomophyllous 3
 anaerobic
 anomouran 1
 anomphalous 1
@@ -15895,7 +15895,7 @@ asplenium
 attributed 1
 awkward
 antiportable 1
-aclemon
+aclemon 1
 adenoid 1
 acrophony
 abutter
@@ -22781,7 +22781,7 @@ atlantic
 asteroidean 1
 amphistylic
 acromastitis
-anchoritish
+anchoritish 1
 antitemperance 2
 atlantid
 asaphid 1
