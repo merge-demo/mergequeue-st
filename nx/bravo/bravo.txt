@@ -6501,7 +6501,7 @@ bigaroons 2
 backstrip
 bepart 1
 beacher
-banba
+banba 1
 bepimpling 2
 bepraiser 3
 branchiostegal 1
@@ -7599,7 +7599,7 @@ brisbane 2
 bewilderment
 bewitched
 boughed
-bewitcher
+bewitcher 1
 bewitches
 bisque 1
 bioaccumulation 1
@@ -9971,7 +9971,7 @@ brian 1
 baalisms
 bx 1
 bestick 2
-bituminous
+bituminous 1
 bisecting 2
 beryllate 1
 bilinguality
@@ -10150,7 +10150,7 @@ biotrons 1
 blackbush 2
 birkenia 1
 bromising
-brushier
+brushier 1
 broddle 1
 biopsychologies
 battue
@@ -15219,11 +15219,11 @@ briberies 1
 bicentennials 1
 bedeaf 1
 blancs 1
-bifocal 3
+bifocal 4
 barbiturate
 batwa
 boomster
-brightsmith 2
+brightsmith 3
 brotherliness 2
 bribing
 buzziest 1
@@ -18146,7 +18146,7 @@ beastlike
 biffins
 boundly
 boweling
-bullyboy 3
+bullyboy 4
 boschvark 1
 bioastronautics 2
 boogie 2
