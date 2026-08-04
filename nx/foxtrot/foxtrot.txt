@@ -8176,7 +8176,7 @@ fanegadas
 fundmonger 4
 forcepses
 forevers
-forclose 3
+forclose 4
 foregate
 forthwith
 ferberite 2
@@ -8355,7 +8355,7 @@ forhaile
 foreroyal 3
 fod
 fraughan
-fossilising
+fossilising 1
 fossilizable 3
 familyish 3
 forhow 2

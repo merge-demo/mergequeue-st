@@ -3856,7 +3856,7 @@ demihogshead
 damone 1
 dichocarpism
 dinobryon
-deixis
+deixis 1
 decreases 4
 diduce
 daphnite 1
@@ -6282,7 +6282,7 @@ dermatoses
 dermatosiophobia
 depurated
 dermatozoon
-deadens 1
+deadens 2
 dermatozoonosis 1
 deutzias 1
 dryophyllum
@@ -8251,7 +8251,7 @@ diagonalizable
 diagonalization
 diagnosing
 duel
-denude 1
+denude 2
 diagonals 2
 diagonalwise 1
 denudate 2
@@ -13440,7 +13440,7 @@ disregardfulness 2
 dingbat
 dropshot 1
 dramatise
-dialogging
+dialogging 1
 disreport 1
 disreputability
 desolater
