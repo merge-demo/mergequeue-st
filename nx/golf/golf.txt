@@ -1959,7 +1959,7 @@ galician 3
 gryphaea 1
 gams
 glyptical
-gaurian
+gaurian 1
 gravitation 4
 gasting 4
 gaurs
@@ -2753,7 +2753,7 @@ gurr 5
 gemeinde 1
 gaunt 1
 growling
-gimmor 2
+gimmor 3
 gascoigny 2
 greatcoat 5
 gyro 1
@@ -7863,7 +7863,7 @@ glutter 2
 globs
 gerents 1
 goosander 3
-gooroo 1
+gooroo 2
 gnawing 1
 gurlet 1
 gasometric 2
@@ -10201,7 +10201,7 @@ goundou 2
 gimbaljawed 3
 granulocyte
 groundneedle 3
-generaliser
+generaliser 1
 grippers 1
 guzzled 2
 guile 3
@@ -10270,7 +10270,7 @@ guitar 1
 gaumish 1
 grotesquery 1
 grecque
-geoform 2
+geoform 3
 gourmet
 gullage 2
 guitarist 3
