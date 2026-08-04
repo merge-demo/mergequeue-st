@@ -60,7 +60,7 @@ friskily 2
 fretize 2
 faster
 fibrolite
-fconv 3
+fconv 4
 fabulously
 facebar 1
 facebow 2
@@ -2186,7 +2186,7 @@ flashet 1
 feltmaker
 fiducia 2
 fats 1
-fratercula
+fratercula 1
 fusilading 1
 flabellifoliate 3
 forthtell 2
@@ -6364,7 +6364,7 @@ foppy
 flatlings 1
 flowchart 3
 flagpole 3
-fontes
+fontes 1
 forementioned 4
 flang 1
 fullterm
@@ -6785,7 +6785,7 @@ fitcher 3
 fold 2
 fantasy
 fleechment 2
-frosts 1
+frosts 2
 frosteds 3
 fenny
 foredevised 2
@@ -7379,7 +7379,7 @@ fortunous 2
 feedlots 3
 flyness 1
 fistnote 4
-flaccidity 3
+flaccidity 4
 forbidals 5
 fasted
 featous

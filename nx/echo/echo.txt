@@ -2325,7 +2325,7 @@ enchants 2
 epistroma
 electrocardiogram 1
 enclear
-ever
+ever 1
 electrocardiographic 2
 euphuistic
 explorational
@@ -2834,7 +2834,7 @@ elephantiasis 1
 elymi
 eliza 1
 extrarhythmical 1
-evangelized 1
+evangelized 2
 eosins 2
 exrupeal 2
 europhium
@@ -13619,7 +13619,7 @@ echidnas 1
 escheating 1
 enjoinder 1
 embroiders 2
-epoxides 1
+epoxides 2
 elementally 1
 excern 2
 enteroceptor 1
