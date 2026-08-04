@@ -3743,7 +3743,7 @@ battlefronts
 bringall
 brucella 2
 barnstorms 1
-battler 1
+battler 2
 battleships
 blushiness
 battlesome 2
@@ -5060,7 +5060,7 @@ battlers 1
 blazoned 1
 bowfin 1
 bloodthirst 1
-befamilied
+befamilied 1
 biogeography
 bibracteolate 1
 bewith
@@ -8965,7 +8965,7 @@ beledgered 1
 blepharochalasis
 bromvoel 1
 bloodflower
-bicuspids
+bicuspids 1
 bluejay 1
 bibliographers
 blennothorax 1
@@ -15262,7 +15262,7 @@ beglerbeg
 bricklayers 3
 backslide 1
 bumpology 1
-bummery 1
+bummery 2
 brickle 1
 bulbospinal
 bricklike 1
@@ -17962,7 +17962,7 @@ bolty 1
 bemoult 2
 bronzelike
 bushwhacked
-beanball
+beanball 1
 boheas
 bellowsman 1
 busybody
