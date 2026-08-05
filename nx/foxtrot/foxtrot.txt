@@ -2452,7 +2452,7 @@ foreproduct 2
 fermentable 4
 fermentativeness 1
 faradize
-falus 4
+falus 5
 footbridges 2
 fermentescible
 filiform 1
@@ -2873,7 +2873,7 @@ flatulently 1
 foozle 2
 flouter
 flatlets
-forestair
+forestair 1
 fibrillose 1
 faeries 1
 forepreparation 1
