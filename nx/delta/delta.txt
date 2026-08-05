@@ -2754,7 +2754,7 @@ daun
 draughtiness 4
 dian
 dreche 1
-druggist
+druggist 1
 docudrama 1
 decreasingly
 dieresis 2
@@ -3519,7 +3519,7 @@ drowsed 3
 desaturate 1
 desiccated 2
 defloration 1
-dagobas 1
+dagobas 2
 desmomyaria
 dufoil
 drapery 1
@@ -15757,7 +15757,7 @@ deflorations 1
 dorsa 1
 dorsigrade
 dentiparous 2
-dingdong
+dingdong 1
 demountability 1
 dramatizer
 diallela 1
@@ -18408,7 +18408,7 @@ denter
 damsons
 deepfreezing 2
 dorrs
-detracting 1
+detracting 2
 decelerations 2
 dauncy 4
 dingo 2
