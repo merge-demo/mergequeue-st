@@ -4488,7 +4488,7 @@ germinable 1
 gainpain 1
 genocidal 2
 grademark 4
-gnarred
+gnarred 1
 girder 3
 gil 3
 generalate 6
@@ -8943,7 +8943,7 @@ ghess
 guaharibo 1
 groove 4
 germicide 1
-gingras 1
+gingras 2
 gabbing
 galesaur 3
 gaffe 2
