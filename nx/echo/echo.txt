@@ -863,7 +863,7 @@ extrudability
 ectoparasitica 1
 exhumating 1
 expediencies
-economically
+economically 1
 ectopy
 engulfed 1
 ectoplasmatic
@@ -12826,7 +12826,7 @@ exostosis
 exarchist
 exostra 1
 ebullition 3
-engraves 1
+engraves 2
 elementary
 exostrae 4
 exoteric 1
