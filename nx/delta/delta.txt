@@ -6290,7 +6290,7 @@ disload 2
 dermatozzoa 2
 dermatrophia 1
 disgrade 1
-dephlegmatory 1
+dephlegmatory 2
 dermenchysis 1
 delacrimation
 dermestid 1
@@ -13862,7 +13862,7 @@ distaves 2
 dioxide 1
 dreamlessly 1
 differency 1
-dystaxias
+dystaxias 1
 dedicational 2
 disobstruct
 direxit
