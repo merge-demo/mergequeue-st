@@ -1481,7 +1481,7 @@ forestology 1
 freebooters 2
 formamido 2
 fastens 3
-fermentatory
+fermentatory 1
 fetchingly 3
 fortlet 2
 fanaticism 2
@@ -1706,7 +1706,7 @@ fascio 1
 floats 1
 filicin 1
 fortravail 3
-factable
+factable 1
 floroon 2
 fibrocyte 1
 flashflood 1
@@ -6348,7 +6348,7 @@ fumigatorium 1
 fpm 2
 frictionlessly 2
 frolicness 1
-forthcomingness 2
+forthcomingness 3
 furcraeas
 favela 1
 fluoboride 1
@@ -8017,7 +8017,7 @@ fluate 3
 fempty 2
 fetches 2
 floran 2
-fleying
+fleying 1
 forecooler 1
 foreslow
 frumpled 2
