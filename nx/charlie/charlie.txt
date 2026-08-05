@@ -2094,7 +2094,7 @@ conli
 campaign
 clotheshorses 1
 campaigners
-campaigns
+campaigns 1
 colostric 1
 campane
 campanella 1
@@ -4779,7 +4779,7 @@ choriocarcinoma 1
 cubicalness
 crystall
 chorisos
-carpocephala 2
+carpocephala 3
 canicular 1
 competitiveness 1
 carpocephalum 1
@@ -8237,7 +8237,7 @@ chalcogen 1
 chalcogenide
 coenaculum 1
 comas
-chalcography
+chalcography 1
 caucho
 cumbered
 corticium 1
@@ -12823,7 +12823,7 @@ computes 1
 confronted
 crooknecks
 chunk
-chunked
+chunked 1
 circumumbilical
 crucifers 1
 chunkiest 1
@@ -16315,7 +16315,7 @@ clippers 1
 clippie 1
 convenienced
 clippingly 1
-clips
+clips 1
 camleteen
 clipse 1
 colocola 1
@@ -22856,7 +22856,7 @@ combinableness
 cheirotherium
 consequent
 ciconian
-consequential
+consequential 1
 communalist 1
 consequentiality 1
 consequentialities 1
@@ -28035,7 +28035,7 @@ celebret
 contemptuousness 1
 concretizing 3
 cyphers 2
-craking
+craking 1
 crakow 1
 cram 1
 crimine
@@ -30311,7 +30311,7 @@ codfishery
 crunched 2
 cruncher
 counterbase 1
-chooses 1
+chooses 2
 congealability
 cabinetmakers 1
 creped
