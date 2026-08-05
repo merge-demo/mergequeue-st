@@ -1335,7 +1335,7 @@ flaggish 3
 foretoken 3
 fatigue 1
 fossicks
-fatiguesome 1
+fatiguesome 2
 fragmenting
 fishbones
 frundel 1
