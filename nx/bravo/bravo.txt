@@ -4346,7 +4346,7 @@ blockishness 1
 bossdoms
 beche
 becheck
-befool 1
+befool 2
 bechic 4
 bechignoned 1
 bacchanalize 1
@@ -9980,7 +9980,7 @@ burbles 1
 biases 1
 bivalence
 blethering
-byelaw 1
+byelaw 2
 biland 1
 bergerette 4
 basommatophora 2
@@ -13489,7 +13489,7 @@ borstall
 baronethood 1
 blatant 1
 bisulfate
-bottoming
+bottoming 1
 betweenness
 balderdash
 benefic
