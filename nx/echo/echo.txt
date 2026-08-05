@@ -7780,7 +7780,7 @@ embolismic 1
 ebulliency 2
 enterography 2
 epiglottitis
-exsiccator
+exsiccator 1
 elegiambic
 epicarps 1
 exoerythrocytic 2
@@ -10827,7 +10827,7 @@ extremal 1
 enameled 2
 eighteenth 1
 exoplasm
-eighteenths 2
+eighteenths 3
 endoprocta 2
 everlastingly 1
 euodic 3
@@ -12036,7 +12036,7 @@ electioneerer 1
 enthusiasts 1
 ectromelian
 exclusive 1
-enaunter 1
+enaunter 2
 exclusiveness
 effectuality
 enforceability 6
