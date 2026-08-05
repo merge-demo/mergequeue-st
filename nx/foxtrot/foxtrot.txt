@@ -1197,7 +1197,7 @@ forereport 2
 firmitude 1
 frigidity 1
 fenders 2
-flexural 1
+flexural 2
 flinched 1
 fatuities 3
 forethinking 1
@@ -9569,7 +9569,7 @@ fringier 2
 finiglacial 2
 fiador
 ferritin 2
-fabraea 2
+fabraea 3
 flavonol 2
 furcilia
 flitches 3
@@ -10655,7 +10655,7 @@ fulfulde 1
 felids 1
 forwaste
 fractostratus 1
-fleeting
+fleeting 1
 frugalities 2
 farrandly 4
 freck 1
