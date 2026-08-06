@@ -4855,7 +4855,7 @@ bencite 2
 brazilwood
 bloomfell
 bedunce 1
-buskins 2
+buskins 3
 bluebonnets
 brightened 3
 bustard
@@ -7733,7 +7733,7 @@ bullaries 1
 bheestie 1
 beblot
 bespangles
-britten 2
+britten 3
 bathyscaphe 1
 bravoite
 buxerry 1
@@ -8469,7 +8469,7 @@ bilection 1
 bileve 1
 bilewhit 1
 bavardage
-betweenmaid 2
+betweenmaid 3
 berbery 2
 bootjack 2
 behint 2
@@ -12306,7 +12306,7 @@ benzazole 3
 bombacaceae 3
 barcaroles
 bombace
-behang
+behang 1
 bombardiers 1
 bisulphite 2
 bombarding 1
