@@ -268,7 +268,7 @@ cognati
 condensing
 caches 1
 cachespell
-cagayans
+cagayans 1
 cacheting
 calicate
 complaisance 1
@@ -2357,7 +2357,7 @@ canalising
 canalization 1
 concelebrations 2
 cinchonamin 1
-canalizes
+canalizes 1
 celeomorph
 canalizing 1
 charmers 1
@@ -3753,7 +3753,7 @@ caravanserial
 companeros
 caravel
 caravels
-cosen 1
+cosen 2
 caraway
 counterpoison 3
 caraways 1
@@ -5412,7 +5412,7 @@ chrysanthemin
 casteth 1
 crossbench 1
 castice
-castigable
+castigable 1
 confederates
 coxiest
 castigate
@@ -7587,7 +7587,7 @@ coppy 1
 cerebropsychosis
 calade
 coincidentally
-cerebrosclerosis 1
+cerebrosclerosis 2
 cerebroscope 2
 codewords
 cerebrose
@@ -11424,7 +11424,7 @@ chondriosome 1
 cho 1
 complete 2
 clearstoried
-conventionalism 1
+conventionalism 2
 choak
 choana 1
 chinches
@@ -12378,7 +12378,7 @@ chromatogenous
 coiny 1
 cinchonia
 chromatographic
-clamminess
+clamminess 1
 chromatographically
 cuticularize 1
 conquerable
@@ -15992,7 +15992,7 @@ clernly
 cramper
 compromises
 covado 3
-cleromancy 2
+cleromancy 3
 canniness
 clerstory
 clansmen
@@ -18920,7 +18920,7 @@ cheesecake
 colladas
 crematoria
 collage
-convicted
+convicted 1
 collagenase 2
 collagenous
 cardholder 1
@@ -20106,7 +20106,7 @@ cavernicolous
 characterologist 2
 collectedness
 californite
-cretinous
+cretinous 1
 counterterm
 continence
 corpselike 2
@@ -22526,7 +22526,7 @@ conjugationally 3
 conjugations 1
 conjugator
 conjugators 1
-conjugium 1
+conjugium 2
 coohee
 conjunctions 2
 countercause 1
@@ -28274,7 +28274,7 @@ considerance
 choroidoiritis 2
 cryptogrammic
 crassities 1
-crassulaceae
+crassulaceae 1
 crataeva 1
 champlain 1
 cratches
