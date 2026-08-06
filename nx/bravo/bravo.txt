@@ -1427,7 +1427,7 @@ benzotrichloride 2
 battable 2
 balefires 1
 bewreak 2
-barmbrack 2
+barmbrack 3
 baleys 1
 baleise 2
 bougainvillaea 1
@@ -4373,7 +4373,7 @@ beck 1
 bowman
 barrikin 1
 benedictive
-boehmites 1
+boehmites 2
 brickier
 bullimong
 becky
@@ -5164,7 +5164,7 @@ bazookas
 beroidae
 befoulment
 biacuminate 2
-befraught 1
+befraught 2
 befountained
 borosilicic 4
 baddish
@@ -7733,7 +7733,7 @@ bullaries 1
 bheestie 1
 beblot
 bespangles
-britten 2
+britten 3
 bathyscaphe 1
 bravoite
 buxerry 1
@@ -8469,7 +8469,7 @@ bilection 1
 bileve 1
 bilewhit 1
 bavardage
-betweenmaid 2
+betweenmaid 3
 berbery 2
 bootjack 2
 behint 2
@@ -16491,7 +16491,7 @@ bishoplet
 borasque 1
 bimillennium 1
 bozal
-biomaterial
+biomaterial 1
 breathableness 3
 bequote
 biasness 1
