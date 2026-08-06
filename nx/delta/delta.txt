@@ -1774,7 +1774,7 @@ debriefs 2
 deathtrap 2
 devocalization 1
 drof
-deathward 1
+deathward 2
 ductility 1
 docent 1
 downlier
@@ -7151,7 +7151,7 @@ dodecade 1
 depictor 1
 deambulate
 desulfurs 1
-desulphur 1
+desulphur 2
 desulphurate 2
 delatorian
 desulphurised 2
