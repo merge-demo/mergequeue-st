@@ -5412,7 +5412,7 @@ chrysanthemin
 casteth 1
 crossbench 1
 castice
-castigable
+castigable 1
 confederates
 coxiest
 castigate
@@ -6425,7 +6425,7 @@ canard
 carbarns
 cautious
 cautiously
-conduciveness
+conduciveness 1
 colubrids 1
 cannoneers
 cloister
@@ -17196,7 +17196,7 @@ clowned 1
 creatorship 1
 craterous 1
 cramoisy
-coaled
+coaled 1
 cariosity
 coaler 1
 coalers 2
@@ -18920,7 +18920,7 @@ cheesecake
 colladas
 crematoria
 collage
-convicted
+convicted 1
 collagenase 2
 collagenous
 cardholder 1
@@ -28274,7 +28274,7 @@ considerance
 choroidoiritis 2
 cryptogrammic
 crassities 1
-crassulaceae
+crassulaceae 1
 crataeva 1
 champlain 1
 cratches
