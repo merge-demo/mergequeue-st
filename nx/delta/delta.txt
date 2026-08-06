@@ -1774,7 +1774,7 @@ debriefs 2
 deathtrap 2
 devocalization 1
 drof
-deathward 1
+deathward 2
 ductility 1
 docent 1
 downlier
@@ -4522,7 +4522,7 @@ demiman 1
 detax 1
 drooled 1
 dishumour
-dungyard 2
+dungyard 3
 disproportionality 1
 demimondain 1
 derided
@@ -7151,7 +7151,7 @@ dodecade 1
 depictor 1
 deambulate
 desulfurs 1
-desulphur 1
+desulphur 2
 desulphurate 2
 delatorian
 desulphurised 2
@@ -7750,7 +7750,7 @@ defoliage 1
 devise 3
 dayton 1
 discretively 1
-diplotegia 1
+diplotegia 2
 defeasance 2
 devised 2
 decongests
@@ -9397,7 +9397,7 @@ diffusers 3
 diffuses 1
 dillis 2
 dimidiation 2
-danaidean 1
+danaidean 2
 dechlore 1
 demilitarizing 1
 dipware 1
@@ -16098,7 +16098,7 @@ doughtier 1
 dockside 1
 daggerbush
 designfulness
-disseizin 2
+disseizin 3
 doughtily 2
 directest 2
 diplozoon
@@ -16875,7 +16875,7 @@ discharity
 dozes 1
 depreciations 2
 dissyllabise 3
-diffidence 1
+diffidence 2
 demargarinate 2
 drawspring 1
 dispersible 1
