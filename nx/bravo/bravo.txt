@@ -11628,7 +11628,7 @@ biunivocal 2
 barche
 boarspear
 balloter
-burns 1
+burns 2
 bevels 1
 bacauan 1
 blacks
@@ -14870,7 +14870,7 @@ basipetally
 breaded 1
 breadfruit 3
 breadfruits 1
-bristler 2
+bristler 3
 bluetops 2
 buttress
 bronchopulmonary 3
@@ -17228,7 +17228,7 @@ barracks
 bromindigo
 bullwhipping 1
 bullwort 1
-bulrush 4
+bulrush 5
 boonies
 bulletin
 berrylike 1
