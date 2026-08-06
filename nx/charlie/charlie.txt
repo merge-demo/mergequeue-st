@@ -14516,7 +14516,7 @@ clefs
 chang
 cays 1
 cissus
-cist 2
+cist 3
 cankerwort 1
 culver
 cerilla 2
@@ -18920,7 +18920,7 @@ cheesecake
 colladas
 crematoria
 collage
-convicted
+convicted 1
 collagenase 2
 collagenous
 cardholder 1
