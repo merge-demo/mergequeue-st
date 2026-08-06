@@ -268,7 +268,7 @@ cognati
 condensing
 caches 1
 cachespell
-cagayans
+cagayans 1
 cacheting
 calicate
 complaisance 1
@@ -4816,7 +4816,7 @@ couteau
 carpophyte
 covariables
 carpopodite 1
-carpopoditic
+carpopoditic 1
 coordinating 1
 carpoptosia 1
 completion
@@ -5412,7 +5412,7 @@ chrysanthemin
 casteth 1
 crossbench 1
 castice
-castigable
+castigable 1
 confederates
 coxiest
 castigate
@@ -5429,7 +5429,7 @@ camaldolite 1
 counteractingly
 contradictoriness 2
 castilla 1
-castilleja
+castilleja 1
 castillo 1
 coattestation 1
 chronologize 1
@@ -7587,7 +7587,7 @@ coppy 1
 cerebropsychosis
 calade
 coincidentally
-cerebrosclerosis 1
+cerebrosclerosis 2
 cerebroscope 2
 codewords
 cerebrose
@@ -13765,7 +13765,7 @@ cinema 2
 cinemactic
 cinemagoer
 caxiri
-covenanter
+covenanter 1
 cinematheque
 carsmith
 cheeringly
@@ -15992,7 +15992,7 @@ clernly
 cramper
 compromises
 covado 3
-cleromancy 2
+cleromancy 3
 canniness
 clerstory
 clansmen
@@ -18861,7 +18861,7 @@ coliforms 1
 codisjunct 1
 chaetophoraceae 1
 cavil 2
-crystosphene 1
+crystosphene 2
 colilysin 1
 caddied 1
 cilioretinal
@@ -18920,7 +18920,7 @@ cheesecake
 colladas
 crematoria
 collage
-convicted
+convicted 1
 collagenase 2
 collagenous
 cardholder 1
@@ -20882,7 +20882,7 @@ compot 1
 compotationship 1
 comedies
 cyclar
-compotes 2
+compotes 3
 compotiers
 catarrhally
 compotor 2
@@ -21118,7 +21118,7 @@ coffinmaker 1
 conaxial
 culminated 1
 concamerated 1
-christeners
+christeners 1
 cuckoopint
 crunchers 2
 coprodaeum
@@ -22526,7 +22526,7 @@ conjugationally 3
 conjugations 1
 conjugator
 conjugators 1
-conjugium 1
+conjugium 2
 coohee
 conjunctions 2
 countercause 1
@@ -24333,7 +24333,7 @@ colalgia
 cooing
 cyclovertebral
 conchie
-cooingly 1
+cooingly 2
 cottonpicking
 cooja 1
 cook 1
@@ -26709,13 +26709,13 @@ choked 1
 counterexpostulation
 counteradvance 1
 catagories
-cheatingly
+cheatingly 1
 counteragency 2
 counteralliance
 cyanosed
 counterannouncement 2
 counterarch
-compulsative
+compulsative 1
 chende
 cloisters
 counterassociation
@@ -28274,7 +28274,7 @@ considerance
 choroidoiritis 2
 cryptogrammic
 crassities 1
-crassulaceae
+crassulaceae 1
 crataeva 1
 champlain 1
 cratches
@@ -28896,7 +28896,7 @@ crevis 1
 crew
 carlos
 coalesces 1
-curability 1
+curability 2
 ctge
 crewed
 crewet 2
