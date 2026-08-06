@@ -797,7 +797,7 @@ endothia 2
 enoil 2
 exequies 1
 expulsed 1
-ectental 1
+ectental 2
 eloigner 2
 ecthesis 2
 emmers
@@ -1725,7 +1725,7 @@ ecdemic
 eyelet 1
 empaled
 ecstatic 2
-exaggerates
+exaggerates 1
 effeminized 1
 ecorch
 eyeliners 1
@@ -3226,7 +3226,7 @@ eluating 1
 enambush
 esotery 1
 extraschool 1
-eluctate
+eluctate 1
 elude 2
 equant 1
 educive 1
