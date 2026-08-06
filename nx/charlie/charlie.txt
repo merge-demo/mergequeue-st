@@ -5412,7 +5412,7 @@ chrysanthemin
 casteth 1
 crossbench 1
 castice
-castigable
+castigable 1
 confederates
 coxiest
 castigate
@@ -12378,7 +12378,7 @@ chromatogenous
 coiny 1
 cinchonia
 chromatographic
-clamminess
+clamminess 1
 chromatographically
 cuticularize 1
 conquerable
@@ -18920,7 +18920,7 @@ cheesecake
 colladas
 crematoria
 collage
-convicted
+convicted 1
 collagenase 2
 collagenous
 cardholder 1
@@ -22526,7 +22526,7 @@ conjugationally 3
 conjugations 1
 conjugator
 conjugators 1
-conjugium 1
+conjugium 2
 coohee
 conjunctions 2
 countercause 1
@@ -28274,7 +28274,7 @@ considerance
 choroidoiritis 2
 cryptogrammic
 crassities 1
-crassulaceae
+crassulaceae 1
 crataeva 1
 champlain 1
 cratches
