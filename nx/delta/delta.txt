@@ -2660,7 +2660,7 @@ desmoma 1
 decompress
 decompresses 1
 detectaphone
-dingiest 1
+dingiest 2
 demiplacate
 dogies
 dcollet 2
@@ -5549,7 +5549,7 @@ dramatizable 1
 dukeship
 dieters 2
 depeopled
-deperdit
+deperdit 1
 disentrancing 2
 duffel 1
 determiners 1
@@ -10552,7 +10552,7 @@ dislikes 2
 disequilibrium
 discoblastula 1
 deafens
-dafla
+dafla 1
 diploe
 digestion 1
 didrachmas 3
