@@ -3695,7 +3695,7 @@ elec 2
 extratellurian 1
 eluates 1
 effluvium
-enantiotropic 1
+enantiotropic 2
 expunged
 elucidators
 embryophore
@@ -8488,7 +8488,7 @@ executorial 3
 enwrapping 2
 enterprised
 enclave 2
-exopterygote 1
+exopterygote 2
 electrizable
 expressionist 2
 eugenicists 3
@@ -12557,7 +12557,7 @@ enumerably 2
 emmets 1
 excoecaria 2
 existentialist 1
-effluvious
+effluvious 1
 existentialistically 1
 eupione 1
 enzymology 1
