@@ -61,7 +61,7 @@ alcheringa
 abaddon
 abadengo 2
 argusfish 1
-arcadian 2
+arcadian 3
 abaiser 3
 abbadide 1
 avery 2
@@ -80,7 +80,7 @@ abama 1
 abecedary
 aband
 abandon
-androecial
+androecial 1
 amphipods 1
 abandoner
 abrades 2
@@ -2390,7 +2390,7 @@ adc
 archduxe
 alluding
 athetoid 2
-absorbed 1
+absorbed 2
 acieration
 apiary
 acies 1
@@ -4384,7 +4384,7 @@ adscriptitious 1
 annodated 1
 acantha
 adsheart 2
-awa 2
+awa 3
 anthropophagit 1
 asprawl
 agazed 1
@@ -8569,7 +8569,7 @@ assise
 amylophagia 1
 availabile 1
 aphoristically 2
-allabuta 1
+allabuta 2
 antiphonal
 alamannic
 admrx 1
@@ -9097,7 +9097,7 @@ alloxuraemia
 alveolary
 anadicrotic
 alphyl
-antiantibody
+antiantibody 1
 amidoacetal
 anaeroplastic 1
 allround 1
@@ -9485,7 +9485,7 @@ accessing
 antispace
 alterative 1
 altercated
-altercating
+altercating 1
 alterers 2
 antiplague
 authentication 1
@@ -15363,7 +15363,7 @@ attempted 1
 antispermotoxin 1
 amphicyon
 antihistaminic 1
-angiospermatous
+angiospermatous 1
 antidogmatism 2
 antipragmaticism 1
 attorning 1
@@ -16776,7 +16776,7 @@ aphodi 1
 archipterygium
 astronauts
 albatros 1
-adultoid
+adultoid 1
 aphydrotropic
 adepts 1
 aphydrotropism
@@ -18857,7 +18857,7 @@ archhypocrite 1
 appointe
 archdeaconess
 akroteria 1
-alamire
+alamire 1
 alloplasty
 amis 1
 antiaphthic
@@ -22858,7 +22858,7 @@ announces 2
 almendro 2
 antidyscratic
 axometry
-angledozer
+angledozer 1
 asrama 1
 anhinga
 algefacient
@@ -23659,7 +23659,7 @@ aphetically
 amortizement
 alcaiceria 1
 archicyte
-aurichloride
+aurichloride 1
 auricyanhydric 2
 anapaests
 alumroots 3
@@ -24861,7 +24861,7 @@ avolitional
 avouch
 avouchable 4
 atmosphere 2
-anaptyxis 1
+anaptyxis 2
 alands
 animates
 artisanal
