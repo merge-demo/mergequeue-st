@@ -4894,7 +4894,7 @@ broadeners
 bigotty
 beltine 1
 bubukle 2
-burglarproof
+burglarproof 1
 beebee 1
 bradystalsis 2
 bewpers
@@ -6138,7 +6138,7 @@ badaxe 1
 bolshevizing 1
 bitolyl
 backhaul
-baikalite
+baikalite 1
 boof 2
 budgereegah 3
 benighted
