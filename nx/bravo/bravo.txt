@@ -387,7 +387,7 @@ backhooker 1
 bemoans
 banjos 1
 backhouses
-baseballdom
+baseballdom 1
 brachyurus
 baht 2
 bullocky 3
@@ -992,7 +992,7 @@ berberins 2
 baldaquin
 bobbing
 bakuninist
-besiren 1
+besiren 2
 baya 1
 brachistocephalic
 brissotine
@@ -1427,7 +1427,7 @@ benzotrichloride 2
 battable 2
 balefires 1
 bewreak 2
-barmbrack 2
+barmbrack 3
 baleys 1
 baleise 2
 bougainvillaea 1
@@ -1821,7 +1821,7 @@ bambute
 blackheart 2
 becombed
 baserunning
-belonid 1
+belonid 2
 bikie 1
 bruiting 2
 bechtler
@@ -3130,7 +3130,7 @@ baselevel 1
 bismarck 2
 bowstringing 2
 bustards 2
-boswellize
+boswellize 1
 basella
 basellaceae
 bespattering 1
@@ -4373,7 +4373,7 @@ beck 1
 bowman
 barrikin 1
 benedictive
-boehmites 1
+boehmites 2
 brickier
 bullimong
 becky
@@ -5164,7 +5164,7 @@ bazookas
 beroidae
 befoulment
 biacuminate 2
-befraught 1
+befraught 2
 befountained
 borosilicic 4
 baddish
@@ -7733,7 +7733,7 @@ bullaries 1
 bheestie 1
 beblot
 bespangles
-britten 2
+britten 3
 bathyscaphe 1
 bravoite
 buxerry 1
@@ -8469,7 +8469,7 @@ bilection 1
 bileve 1
 bilewhit 1
 bavardage
-betweenmaid 2
+betweenmaid 3
 berbery 2
 bootjack 2
 behint 2
@@ -11628,7 +11628,7 @@ biunivocal 2
 barche
 boarspear
 balloter
-burns 1
+burns 2
 bevels 1
 bacauan 1
 blacks
@@ -14419,7 +14419,7 @@ beepers 1
 brainily
 bedman
 boom
-blaw 1
+blaw 2
 braininess
 basoga 2
 braining
@@ -14852,7 +14852,7 @@ briefcases
 breadbasket
 becroak
 backstretch 1
-buckles 1
+buckles 2
 brazilian
 bewailing
 bunked 1
@@ -18223,7 +18223,7 @@ bonhomous
 beyond 4
 butterfat 1
 burnooses
-bucranium 3
+bucranium 4
 bandages
 bushwhacks 1
 blanched
