@@ -15622,7 +15622,7 @@ diodes 1
 desensitizer
 dillesk
 downheartedly
-disconnector
+disconnector 1
 dennis 1
 departmentalise 2
 detacher
