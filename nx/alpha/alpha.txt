@@ -8691,7 +8691,7 @@ alleys 1
 alephzero
 afrasian
 alleyway
-amyosthenia 1
+amyosthenia 2
 alchitran
 abled
 attractancy
@@ -21804,7 +21804,7 @@ auguries 1
 aenigma 1
 anionics 1
 antimethod 2
-amoral
+amoral 1
 abaxial
 assessed 1
 androgyny
