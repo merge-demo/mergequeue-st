@@ -5457,7 +5457,7 @@ afortiori
 apocatastasis
 afoul 2
 afray
-athrocytosis
+athrocytosis 1
 antisymmetrical 2
 anticensoriousness
 arcosolia 1
@@ -7260,7 +7260,7 @@ alamode 1
 ascogonidia
 applesnits
 aneroid 1
-abstrusion 1
+abstrusion 2
 alexandrines
 alamort 1
 ardent
@@ -8276,7 +8276,7 @@ anticoagulin 2
 android
 anonad 2
 archie
-acquaintedness
+acquaintedness 1
 alienability
 ascetta 2
 alienabilities
@@ -8475,7 +8475,7 @@ anticausotic
 aschaffite
 adulatory
 apotheosizing 3
-aristolochiaceae 1
+aristolochiaceae 2
 amebous 1
 alkalise 1
 alkalised
@@ -8691,7 +8691,7 @@ alleys 1
 alephzero
 afrasian
 alleyway
-amyosthenia 1
+amyosthenia 2
 alchitran
 abled
 attractancy
@@ -10935,7 +10935,7 @@ athwarthawse 1
 ammos
 ammotherapy 1
 ammu
-amnesia
+amnesia 1
 amnestied
 adulterated 1
 aimer 1
@@ -10951,7 +10951,7 @@ amniocentesis 1
 amniochorial
 arado 3
 aboardage
-adamellite
+adamellite 1
 amniomancy 1
 amnionata 1
 acclamation 1
@@ -12128,7 +12128,7 @@ anastigmatic
 alcoholise 1
 alvah
 alichel 2
-afterbreast
+afterbreast 1
 acrodynia 1
 adjunction
 aborning
@@ -15390,7 +15390,7 @@ anatherum
 akalimba 2
 anticonstitution 1
 antisabbatarian 1
-avadhuta
+avadhuta 1
 antilaborist 1
 antilacrosser
 afterrider 1
@@ -15639,7 +15639,7 @@ alway 2
 altamira
 ararao
 antinicotine
-allentando 1
+allentando 2
 antiliberalistic 1
 antinihilist
 attacked 1
@@ -17966,7 +17966,7 @@ antiempirical
 anisodactyle
 adipomata 1
 allodialism 1
-anthropophysiography
+anthropophysiography 1
 allothigene 1
 authenticate 1
 amphidesmous
@@ -18373,7 +18373,7 @@ attitudinarianism 1
 antiunionist 3
 araliaceous 1
 algaroba
-abattis
+abattis 1
 anisometrope
 assembling 2
 androgynus 1
@@ -19557,7 +19557,7 @@ anchorable
 autointoxicant
 aglisten 1
 argutation
-azotobacterieae 1
+azotobacterieae 2
 akpek
 argutely
 affluency 2
@@ -20698,7 +20698,7 @@ anglophobe
 anteroclusion
 auriculovertical 1
 atrichosis
-angami
+angami 1
 articularly 1
 axonemes
 articulars 2
@@ -21804,7 +21804,7 @@ auguries 1
 aenigma 1
 anionics 1
 antimethod 2
-amoral
+amoral 1
 abaxial
 assessed 1
 androgyny
@@ -23781,7 +23781,7 @@ asgmt 1
 accursing 1
 austausch 1
 abdest
-axerophthol 1
+axerophthol 2
 antisolar 1
 advoteresse
 aspermia
