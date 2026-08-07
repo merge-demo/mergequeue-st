@@ -2481,7 +2481,7 @@ clientele 1
 contuse
 crystallitic 1
 cancrum
-cancrums 1
+cancrums 2
 cand
 candelabras 1
 candelabrum
@@ -4444,7 +4444,7 @@ courthouses 2
 cariri
 caririan 1
 commoner 1
-choke 2
+choke 3
 carisa 1
 cabilliau
 concertina 1
@@ -14757,7 +14757,7 @@ chiarooscuros
 cityness
 cotyle
 citynesses 1
-chinantecs 3
+chinantecs 4
 chaffed
 cladodontid 2
 cytioderm 1
@@ -19199,7 +19199,7 @@ cymbaeform
 commodatary
 collothun 1
 collotype 1
-cardiospasm
+cardiospasm 1
 corporally
 collotyped 1
 cousinry
@@ -28129,7 +28129,7 @@ cristated 1
 crossbbred
 crossly
 craniognosy
-coteries
+coteries 1
 curved 1
 cento
 circumstance 1
