@@ -1653,7 +1653,7 @@ dealkylate
 daundered
 disassembler 1
 decurved 1
-deobstruct 3
+deobstruct 4
 devotional 1
 daunter 1
 dicephalus 1
@@ -5929,7 +5929,7 @@ disaffectedly 3
 deprostrate 2
 draughtiest 2
 downbeats
-discrownment
+discrownment 1
 darcy 1
 doctorlike
 dipterus
@@ -7898,7 +7898,7 @@ delphinite 3
 draconianism
 desperadoes
 defrock 1
-droughty
+droughty 1
 diminuting
 degringolade 2
 dewlapped 2
@@ -8787,7 +8787,7 @@ diabolized
 dansant 2
 dictations
 diffident 2
-dung
+dung 1
 deeryard 1
 diazoimide 2
 dyschroia
@@ -11502,7 +11502,7 @@ dallyingly
 discommode
 discommoding 1
 defervesced 1
-discommodiously 1
+discommodiously 2
 downton 1
 dunker 1
 daytale 1
@@ -16100,7 +16100,7 @@ daggerbush
 designfulness
 disseizin 3
 doughtily 2
-directest 2
+directest 3
 diplozoon
 deaning 1
 drimys 1

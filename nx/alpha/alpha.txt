@@ -5457,7 +5457,7 @@ afortiori
 apocatastasis
 afoul 2
 afray
-athrocytosis
+athrocytosis 1
 antisymmetrical 2
 anticensoriousness
 arcosolia 1
@@ -8276,7 +8276,7 @@ anticoagulin 2
 android
 anonad 2
 archie
-acquaintedness
+acquaintedness 1
 alienability
 ascetta 2
 alienabilities
@@ -8475,7 +8475,7 @@ anticausotic
 aschaffite
 adulatory
 apotheosizing 3
-aristolochiaceae 1
+aristolochiaceae 2
 amebous 1
 alkalise 1
 alkalised
@@ -10935,7 +10935,7 @@ athwarthawse 1
 ammos
 ammotherapy 1
 ammu
-amnesia
+amnesia 1
 amnestied
 adulterated 1
 aimer 1
@@ -23781,7 +23781,7 @@ asgmt 1
 accursing 1
 austausch 1
 abdest
-axerophthol 1
+axerophthol 2
 antisolar 1
 advoteresse
 aspermia
