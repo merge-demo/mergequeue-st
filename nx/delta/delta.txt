@@ -341,7 +341,7 @@ dilligrout 1
 disinsection 3
 dipyrenous
 detentive 1
-daybreaks
+daybreaks 1
 diplostichous
 dreamt
 dermathemia 2
@@ -434,7 +434,7 @@ dhourra
 discoursers 1
 dairous
 dais 3
-defog 1
+defog 2
 disinthrall 3
 disposal 1
 drenchers
@@ -1791,7 +1791,7 @@ deaving 1
 drydenism 1
 disregardfully 1
 dorsolum
-dissevers
+dissevers 1
 divalence 1
 dowdyish
 dissociated 1
@@ -3317,7 +3317,7 @@ deflects 1
 depriment 3
 disconsolation 2
 daintihood
-distributors 1
+distributors 2
 deplaning 1
 diotocardia
 defines
@@ -4588,7 +4588,7 @@ demonastery 1
 donn
 dinic 3
 demisang
-dulcite
+dulcite 1
 diselenid 1
 dreed 2
 demisangue
@@ -10122,7 +10122,7 @@ digestive
 dirts 1
 dip
 disrooted 2
-discurrent 1
+discurrent 2
 displease
 dripped
 dismember 1
@@ -10642,7 +10642,7 @@ disparpled 2
 dhuti 1
 dragonet 1
 decapitates
-diplopteryga 1
+diplopteryga 2
 deprecates 2
 dioti 3
 disaccordance 2
@@ -12605,7 +12605,7 @@ disjaskit
 desoxalic
 detonation
 disject 1
-disjected 1
+disjected 2
 discourage 1
 duntle
 daredevils 1
@@ -15706,7 +15706,7 @@ deflectometer 1
 dakota
 dendrochronologist 1
 denunciation
-dismarch 2
+dismarch 3
 deescalation
 disintegrates
 dewools 1
