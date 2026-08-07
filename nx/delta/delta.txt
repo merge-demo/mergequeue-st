@@ -2709,7 +2709,7 @@ dont 1
 discounsel 1
 dassy 2
 deductibility 1
-decoration
+decoration 1
 diogenic 1
 decorator 3
 deliberated
@@ -5888,7 +5888,7 @@ diversifications 2
 densifier 3
 drew 1
 depressurize 2
-deaconate 1
+deaconate 2
 decelerometer 2
 disentraced 1
 dere 1
@@ -15402,7 +15402,7 @@ domini
 decalomania
 demurer 1
 denis 1
-downtowns
+downtowns 1
 dieffenbachia
 dishwares
 demibarrel 3
@@ -16461,7 +16461,7 @@ delirate
 diachyma 3
 drabbler 1
 datum
-difflugia 1
+difflugia 2
 downtimes 1
 dunnesses 1
 dacoities
