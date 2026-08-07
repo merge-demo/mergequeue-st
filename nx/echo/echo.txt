@@ -1390,7 +1390,7 @@ encycl 2
 expungeable 3
 eggnogs
 extraterrestrial
-exhorted
+exhorted 1
 engrailment
 earl 1
 electrodialyses 2
@@ -2633,7 +2633,7 @@ estadel
 eiry 2
 exulting
 entad 2
-exemplarity 1
+exemplarity 2
 epipodite
 ethnocentrism 3
 endodynamomorphic
@@ -7975,7 +7975,7 @@ envapour
 emigating 1
 expectorations 1
 endovasculitis 2
-exsanguious
+exsanguious 1
 exophoria 1
 euthenist 1
 equuleus 1
