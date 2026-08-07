@@ -455,7 +455,7 @@ chesteine 1
 coonily
 cactus 1
 copying
-civilisable
+civilisable 1
 chancered
 cactuslike
 cinclidotus 1
@@ -1112,7 +1112,7 @@ candareen
 cytherea 1
 cheeser
 calciner
-chomer 1
+chomer 2
 clamworm
 congressman 1
 columella
@@ -2727,7 +2727,7 @@ citola 2
 cankers
 comedowns
 carbamyl 2
-coff
+coff 1
 combinatorics
 cutey 1
 canman
@@ -6339,7 +6339,7 @@ causationism
 crapefish
 compatient
 causator 1
-cuffing 1
+cuffing 2
 cuprosilicon 1
 cause 1
 caused
@@ -10589,7 +10589,7 @@ cravenhearted 1
 copaibas 1
 conflating 2
 coruscating 1
-camoca
+camoca 1
 carburise
 choledochotomy 1
 convivial
@@ -12064,7 +12064,7 @@ choruses
 chorusing 1
 chanceries 1
 crisp
-countermachination 2
+countermachination 3
 crusca 1
 caruage 1
 chockler 1
@@ -13363,7 +13363,7 @@ cleaners
 cyclostyle
 cyclostoma 2
 chasers 1
-centaurium 1
+centaurium 2
 ceration 1
 coformulator 2
 ciphony
@@ -15503,7 +15503,7 @@ clashee
 controlling
 cojones 1
 clasher
-cogeneration
+cogeneration 1
 cobbed 1
 clashers 1
 clashes 1
@@ -17801,7 +17801,7 @@ concurrent 1
 codeina
 carby
 cognisableness 1
-cakemaking
+cakemaking 1
 centums
 codeinas 2
 cohabits 1
@@ -21648,7 +21648,7 @@ consternated
 corymbose
 condigness
 chromatopathia
-condignly 2
+condignly 3
 comethers 1
 condylar 1
 chichis
@@ -26486,7 +26486,7 @@ courbache
 cotransduction 1
 cotransfuse
 cotranslator
-cotranspire
+cotranspire 1
 cotransubstantiate 1
 commiserable
 cystocarp 1
@@ -26697,7 +26697,7 @@ cobus
 carotins 1
 cholum 2
 counteractively 1
-cardiectomy 1
+cardiectomy 2
 cavish 1
 conflagrate
 competently
@@ -27346,7 +27346,7 @@ calumniator 1
 courants
 coronaries 1
 centralizers
-courap
+courap 1
 couratari
 courbaril
 courbe
