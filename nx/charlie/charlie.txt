@@ -2727,7 +2727,7 @@ citola 2
 cankers
 comedowns
 carbamyl 2
-coff
+coff 1
 combinatorics
 cutey 1
 canman
@@ -12064,7 +12064,7 @@ choruses
 chorusing 1
 chanceries 1
 crisp
-countermachination 2
+countermachination 3
 crusca 1
 caruage 1
 chockler 1
@@ -15503,7 +15503,7 @@ clashee
 controlling
 cojones 1
 clasher
-cogeneration
+cogeneration 1
 cobbed 1
 clashers 1
 clashes 1
@@ -21648,7 +21648,7 @@ consternated
 corymbose
 condigness
 chromatopathia
-condignly 2
+condignly 3
 comethers 1
 condylar 1
 chichis
@@ -26486,7 +26486,7 @@ courbache
 cotransduction 1
 cotransfuse
 cotranslator
-cotranspire
+cotranspire 1
 cotransubstantiate 1
 commiserable
 cystocarp 1
@@ -27346,7 +27346,7 @@ calumniator 1
 courants
 coronaries 1
 centralizers
-courap
+courap 1
 couratari
 courbaril
 courbe
