@@ -4894,7 +4894,7 @@ broadeners
 bigotty
 beltine 1
 bubukle 2
-burglarproof
+burglarproof 1
 beebee 1
 bradystalsis 2
 bewpers
@@ -6138,7 +6138,7 @@ badaxe 1
 bolshevizing 1
 bitolyl
 backhaul
-baikalite
+baikalite 1
 boof 2
 budgereegah 3
 benighted
@@ -12750,7 +12750,7 @@ bookmobiles
 botrycymose
 baroni 1
 burlesk
-bookpress 1
+bookpress 2
 bookracks 1
 blacklegging 1
 benthonic
@@ -14816,7 +14816,7 @@ brows 2
 brazier
 bern
 backword 1
-barres
+barres 1
 ballooner 3
 bombable
 burgheress 2
@@ -14870,7 +14870,7 @@ basipetally
 breaded 1
 breadfruit 3
 breadfruits 1
-bristler 2
+bristler 3
 bluetops 2
 buttress
 bronchopulmonary 3
@@ -17228,7 +17228,7 @@ barracks
 bromindigo
 bullwhipping 1
 bullwort 1
-bulrush 4
+bulrush 5
 boonies
 bulletin
 berrylike 1
