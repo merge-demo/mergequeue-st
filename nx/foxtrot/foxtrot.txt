@@ -2029,7 +2029,7 @@ fractionizing 3
 freshens 1
 fieldwards 1
 finestra 3
-fathomage 2
+fathomage 3
 figurines 4
 fradicin 4
 frogger 1
@@ -2509,7 +2509,7 @@ fingers 2
 fainthearted 2
 flipflop 4
 femorocele 1
-faction 5
+faction 6
 farted 1
 facinorousness 2
 formability 2
@@ -3333,7 +3333,7 @@ fruggan 1
 fullmouthedly 1
 fandom 1
 fulcra 3
-fleshlike
+fleshlike 1
 flon 1
 forsung 3
 flench
@@ -3948,7 +3948,7 @@ feedbacks 1
 finest 2
 finew
 fish
-fermentor 1
+fermentor 2
 fruitcakey
 frenziedly 2
 frightfulness 1
@@ -4407,7 +4407,7 @@ frenches 2
 fullbacks 2
 folkmotes 4
 feulamort 1
-farand
+farand 1
 footpick 1
 fishily 1
 fatigues 1
@@ -5294,7 +5294,7 @@ foamed 1
 frangulinic 1
 fleshlily
 foreinstruct
-farmsteads 1
+farmsteads 2
 frightless 2
 fogbound
 flukes 3
@@ -5409,7 +5409,7 @@ firs 2
 fibrillary 2
 freed 1
 fetis
-flummeries 3
+flummeries 4
 flaked 1
 fulham 2
 foremade
@@ -5492,7 +5492,7 @@ floater 1
 farouk
 foolscap 3
 furunculoid 2
-forbids 1
+forbids 2
 fourteenths 2
 formes
 floey 3
@@ -6243,7 +6243,7 @@ factotums 2
 farmerish 2
 felloes 1
 freewheelers 3
-farmtown 3
+farmtown 4
 fizzles 3
 firnismalerei
 friendlike 2
@@ -6549,7 +6549,7 @@ fluviolacustrine 2
 fleetly
 funereal 2
 frigor 1
-foretack 3
+foretack 4
 footlights
 flamless 1
 furrings 1
@@ -6614,7 +6614,7 @@ femalize
 focalizes 1
 forwrap 1
 forgave 2
-formulaically
+formulaically 1
 flimflams 2
 femalely 4
 focsle 3
@@ -6880,7 +6880,7 @@ footer 1
 footings
 fretways 1
 finance 3
-failing 3
+failing 4
 frustratingly
 flaggings 3
 figurist 2
@@ -7930,7 +7930,7 @@ faitor
 frakturs 3
 footeite
 friz 2
-footslog 1
+footslog 2
 fletching 1
 foreseer 1
 foresees 1
@@ -8303,7 +8303,7 @@ flushest 2
 forgettably
 faverole 3
 fractionalizing 4
-friction 3
+friction 4
 forging
 furacity 1
 formous 3
@@ -9520,7 +9520,7 @@ flaws 2
 forearmed 1
 flatcap
 fand 1
-fohat 2
+fohat 3
 fraudulent 2
 fraudulentness 1
 ferreting 1
@@ -10969,7 +10969,7 @@ fusoid 3
 forewit 1
 foreseing 3
 fooled 2
-fishplate
+fishplate 1
 fulzie 1
 favositidae 2
 flagellar 2
