@@ -1392,7 +1392,7 @@ greetingless 3
 garniture 2
 glycosemia
 germanize
-grecize 1
+grecize 2
 ganyie 1
 gallotannin 2
 gasified 2
@@ -2218,7 +2218,7 @@ gonidiogenous 2
 gehlenite 1
 goblet
 gratuity 1
-grunted 2
+grunted 3
 geoplanidae 3
 glucokinase 3
 gringolee
@@ -3191,7 +3191,7 @@ gilgul 1
 goldenwing 1
 galoot 1
 ginnle 1
-getatability
+getatability 1
 gally 1
 glyceryl 1
 graffage 1
@@ -3494,7 +3494,7 @@ grenadin 1
 gegenschein
 goth 1
 geums
-garmentworker 1
+garmentworker 2
 ganglions
 gymnorhina 3
 geomagnetist 1
@@ -5883,7 +5883,7 @@ glycosyl 3
 gunneries 1
 glucosidically
 ging 2
-grinny 1
+grinny 2
 glamorizations 3
 ginkgoales 1
 gabarit 3
@@ -9245,7 +9245,7 @@ grisly 5
 glagolitic 4
 gravigrade 1
 grahamite 2
-grist 2
+grist 3
 guanase 1
 gluttons 1
 glucagon 1
