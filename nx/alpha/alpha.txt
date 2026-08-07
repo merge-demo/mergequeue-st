@@ -989,7 +989,7 @@ absquatulate
 anchorites 1
 actious 2
 abstain 1
-abstainer 2
+abstainer 3
 ameland
 angoras
 abstainers 1
@@ -1174,7 +1174,7 @@ arboral 1
 academite
 academization 1
 allayed
-assurgency 2
+assurgency 3
 ankylotomy
 audace
 attractive
@@ -3566,7 +3566,7 @@ autumnian 1
 antierysipelas 1
 addn 1
 acknowledgements
-addr
+addr 1
 allotheistic 1
 actinography 2
 awner 1
@@ -8325,7 +8325,7 @@ axonal
 abacay 1
 auks 1
 applicatorily 1
-andropetalous
+andropetalous 1
 amatively 1
 archapostle 2
 accumulativeness 1
@@ -10673,7 +10673,7 @@ antiredeposition 1
 annularly 3
 aggregations
 amylogenic 1
-aget 2
+aget 3
 archoptoma
 attend 3
 assinuate
@@ -14298,7 +14298,7 @@ assertorially 1
 aulostomatidae
 antetypes
 ashman
-ahypnia 1
+ahypnia 2
 antevert
 anteverting 2
 alphabetizers
@@ -14354,7 +14354,7 @@ arrestment
 aftergrass 2
 alkahests 1
 adrop 1
-augustinianism 2
+augustinianism 3
 affableness 1
 anthesterin 1
 antiqued 1
@@ -17523,7 +17523,7 @@ apteroid
 apophthegmatist 1
 amalings
 appeasements
-arrogantness 2
+arrogantness 3
 aroints 2
 advantages 2
 adelomorphous 1
@@ -17566,7 +17566,7 @@ aouellimiden 2
 androspore 1
 antixerophthalmic
 appendency 1
-aquacultural 1
+aquacultural 2
 appendicalgia 2
 antipodist 2
 ascii
@@ -18839,7 +18839,7 @@ archflamen 3
 archfoe 1
 ancestresses 1
 aedoeagus
-angloid 1
+angloid 2
 acervose 2
 ancientism 1
 alamodality 3
@@ -21829,7 +21829,7 @@ assidual
 agathodaemon 3
 aecial 2
 anorexiant
-alaki 2
+alaki 3
 advowson 3
 assiege 1
 auricula 1
@@ -22417,7 +22417,7 @@ alkylates 1
 archcorrupter
 acaulous
 acetabular
-astrologist 1
+astrologist 2
 anagrammatise
 antiluetin
 astrologize
@@ -22486,7 +22486,7 @@ asudden 2
 acetotoluide
 aswarm 1
 aisling
-aswash
+aswash 1
 adyton 2
 asweat
 aristarchy
@@ -22543,7 +22543,7 @@ ataxies 2
 ataxinomic 1
 assidaean 1
 autecisms 1
-aspiratae 1
+aspiratae 2
 ataxophemia 2
 ambitions 1
 apolitical 1
@@ -23274,7 +23274,7 @@ accumulator 1
 arrhythmias
 assenters
 attracts
-ambulacra
+ambulacra 1
 anticorrosive 1
 antsier 1
 albuminousness
@@ -23380,7 +23380,7 @@ apposed 2
 aridnesses
 axonemal 1
 acrostics
-aldoketene
+aldoketene 1
 aggravating
 atropins 1
 adoxaceous 1
