@@ -341,7 +341,7 @@ dilligrout 1
 disinsection 3
 dipyrenous
 detentive 1
-daybreaks
+daybreaks 1
 diplostichous
 dreamt
 dermathemia 2
@@ -434,7 +434,7 @@ dhourra
 discoursers 1
 dairous
 dais 3
-defog 1
+defog 2
 disinthrall 3
 disposal 1
 drenchers
@@ -861,7 +861,7 @@ decalcification 2
 dowered
 deaerates 1
 disorchard 3
-defang
+defang 1
 dankishness 1
 downbear 2
 discardable
@@ -1791,7 +1791,7 @@ deaving 1
 drydenism 1
 disregardfully 1
 dorsolum
-dissevers
+dissevers 1
 divalence 1
 dowdyish
 dissociated 1
@@ -2986,7 +2986,7 @@ demolishment
 dygogram 3
 directorates
 deedless 2
-depreciant
+depreciant 1
 discants
 deejay 3
 dromaeognathism 1
@@ -3127,7 +3127,7 @@ desmoneme
 delicious
 distoclusion 1
 defaming 1
-domesticity
+domesticity 1
 duringly 2
 defaulted
 defaultless 2
@@ -3317,7 +3317,7 @@ deflects 1
 depriment 3
 disconsolation 2
 daintihood
-distributors 1
+distributors 2
 deplaning 1
 diotocardia
 defines
@@ -4588,7 +4588,7 @@ demonastery 1
 donn
 dinic 3
 demisang
-dulcite
+dulcite 1
 diselenid 1
 dreed 2
 demisangue
@@ -4748,7 +4748,7 @@ deaconing
 demihag 2
 dodecatylic
 deair
-disseizor
+disseizor 1
 diagonalize 2
 diemaker
 dentalizing 1
@@ -5218,7 +5218,7 @@ dicyemata
 disowned 2
 dalapon 1
 densely
-daviely 1
+daviely 2
 difficile 2
 dioptase
 drawbridges 1
@@ -7043,7 +7043,7 @@ desquamatory 4
 decivilization
 dictum 2
 distrustfully 2
-desserts 1
+desserts 2
 dykage
 dessertspoon
 distillage 3
@@ -9371,7 +9371,7 @@ depulse
 dottels 4
 demasted
 dentirostres
-dautie 2
+dautie 3
 dulosis 1
 depurged 4
 disinflating 1
@@ -10122,7 +10122,7 @@ digestive
 dirts 1
 dip
 disrooted 2
-discurrent 1
+discurrent 2
 displease
 dripped
 dismember 1
@@ -10642,7 +10642,7 @@ disparpled 2
 dhuti 1
 dragonet 1
 decapitates
-diplopteryga 1
+diplopteryga 2
 deprecates 2
 dioti 3
 disaccordance 2
@@ -12605,7 +12605,7 @@ disjaskit
 desoxalic
 detonation
 disject 1
-disjected 1
+disjected 2
 discourage 1
 duntle
 daredevils 1
@@ -13313,7 +13313,7 @@ disprizes
 deficiently
 dreissensia
 disprofitable
-disproofs 1
+disproofs 2
 disinformation 2
 dishevelments
 directrix
@@ -14794,7 +14794,7 @@ dismayable 1
 dialogue
 dolors 2
 dennet
-docks
+docks 1
 demonologist 2
 disulphoxid 1
 detests
@@ -15706,7 +15706,7 @@ deflectometer 1
 dakota
 dendrochronologist 1
 denunciation
-dismarch 2
+dismarch 3
 deescalation
 disintegrates
 dewools 1
