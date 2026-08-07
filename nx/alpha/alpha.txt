@@ -3592,7 +3592,7 @@ aragonese
 adducer
 adduces
 auricles 1
-adducible 2
+adducible 3
 ampelideous
 artiodactylous 2
 adducted
@@ -10736,7 +10736,7 @@ aminobenzaldehyde
 anthrachrysone
 appetency 2
 aminoglutaric 2
-aminoid 1
+aminoid 2
 agrement
 aminoketone 1
 aminomalonic 1
@@ -16865,7 +16865,7 @@ apiaca
 ambushlike 1
 apiaceae 1
 apiarian
-apiarians
+apiarians 1
 apiarists
 adolescently
 apically
@@ -20409,7 +20409,7 @@ adoxy 1
 adorably
 arsonists
 aeschynanthus
-accrementitial 1
+accrementitial 2
 astraddle 1
 arsons
 abatement
@@ -24603,7 +24603,7 @@ alabamian 1
 aquarian 1
 availer 1
 antimachine 3
-aequorin 1
+aequorin 2
 availing 1
 amapondo
 apollyon
