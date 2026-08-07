@@ -6587,7 +6587,7 @@ frounce 1
 foamflower
 firework 1
 floriculturally
-fullness 1
+fullness 2
 fettled
 fidgetation
 fertilized 2
@@ -10364,11 +10364,11 @@ feaze
 foss 3
 friseur
 forewarning
-fiaunt 1
+fiaunt 2
 fraenula 4
 floodlighted
 fluoridized 1
-faceman
+faceman 1
 fortiori 1
 flexible 1
 frondless 2
