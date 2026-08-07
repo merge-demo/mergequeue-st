@@ -2383,7 +2383,7 @@ ebriosity 2
 entomologize 1
 epitrochlea 3
 electrodes 3
-etherization 4
+etherization 5
 elotherium
 esterling 1
 embiid
@@ -3039,7 +3039,7 @@ enfort 2
 epiphenomenal 3
 esophagoscope 2
 everich 1
-eschalot
+eschalot 1
 exogamy 1
 epidermis
 experimentalists 4
@@ -5343,7 +5343,7 @@ ektene 2
 engorges
 envolupen 1
 eiders
-evocatory
+evocatory 1
 endotheliomas 2
 excercise
 explicators 1
