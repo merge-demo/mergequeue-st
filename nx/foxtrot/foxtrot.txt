@@ -177,7 +177,7 @@ factorable 1
 flimsies
 finitary 1
 factoryship
-floatiness 1
+floatiness 2
 foment 2
 flashily
 feuar
@@ -3652,7 +3652,7 @@ fannier 1
 foregoneness 2
 fanes
 flagella 1
-foredate
+foredate 1
 forelooper 2
 floorings 2
 fuzzing
@@ -5311,7 +5311,7 @@ front 1
 fascioplasty 1
 flaxman 2
 foreplanting 2
-formonitrile 1
+formonitrile 2
 festuca 3
 farinaceously 1
 fingerprinting 2
@@ -10149,7 +10149,7 @@ fiberizing 3
 flintifying 2
 forefatherly 3
 franion 2
-foretopman 2
+foretopman 3
 fructuary 1
 footlight 2
 frithles 1
@@ -11567,7 +11567,7 @@ freakier 3
 feedback 1
 forecaddie 1
 friskful 2
-flytier 2
+flytier 3
 fulmar 2
 fasciotomy 3
 futhermore 4
