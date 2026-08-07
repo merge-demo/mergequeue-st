@@ -176,7 +176,7 @@ caban 2
 cabombaceae
 cicale 1
 caboodle
-cheefullest 1
+cheefullest 2
 caboodles 1
 cystoscopies 1
 cotinga 1
@@ -1384,7 +1384,7 @@ coercing 1
 cuminseed
 counterband
 calicut 3
-calid 1
+calid 2
 calydonian 1
 chaped 1
 coquetted 1
@@ -1830,7 +1830,7 @@ conceptacular
 cann
 calzoneras
 calzones
-cannonry
+cannonry 1
 consigneeship 2
 costocentral
 ciceronize
@@ -1921,7 +1921,7 @@ concernedly
 cambresine
 cuir 1
 calumnia 1
-cartonnage 1
+cartonnage 2
 cambricleaf
 colobus 1
 cambridge 2
@@ -3828,7 +3828,7 @@ carboys
 cyathoid 2
 carbolate
 carbolated
-cerning
+cerning 1
 cogitation 1
 cineolic
 carbolfuchsin
@@ -6807,7 +6807,7 @@ coelom
 couch 1
 cliffy 1
 centennium
-cellepore
+cellepore 1
 cellfalcicula 1
 cyprians
 concaveness 1
@@ -9929,7 +9929,7 @@ crackjaw 1
 cephalotaceous
 chemotrophic 2
 chemotropically
-cheoplastic
+cheoplastic 1
 chempaduk
 chemurgical 2
 chemurgically
@@ -10462,7 +10462,7 @@ coprostanol 1
 cetaceum
 chelophore 1
 child
-childbearing 2
+childbearing 3
 circumspatial 1
 chippable 1
 cerebrometer
@@ -14248,7 +14248,7 @@ circumlittoral
 circumlocute 1
 circumlocution 1
 cypripedin
-coeff
+coeff 1
 centralizes 1
 circumlocutionist
 centrisms
@@ -14526,7 +14526,7 @@ cyst
 consoler
 continuantly 1
 cogitating
-cista
+cista 1
 cubicontravariant 1
 cystalgia
 cystamine 1
@@ -21234,7 +21234,7 @@ confirmability 2
 cabber
 chibchan 2
 concernancy
-concerned 1
+concerned 2
 cumbersome
 concerning
 contrived
@@ -23565,7 +23565,7 @@ contignate 2
 corycavidin
 contiguity
 circumferent
-continentalize
+continentalize 1
 continentals
 cochranea
 contingence 1
@@ -24420,7 +24420,7 @@ coomb
 canella 1
 cognomina 1
 coombes
-corblimey
+corblimey 1
 calyculus
 carbonic 1
 cooncans
@@ -27796,7 +27796,7 @@ coxcombic 2
 chondrus
 cordleaf
 coxcombity 2
-cenobitical 1
+cenobitical 2
 cytocentrum
 coxed 2
 cissing 1
@@ -28390,7 +28390,7 @@ crazes 1
 crazy
 crazycat
 certainly 1
-craziest
+craziest 1
 crazily 1
 chaplain 1
 crazing 1
@@ -31244,7 +31244,7 @@ curableness
 crawlways
 cotyloidal
 coverlid 1
-curacaos
+curacaos 1
 coracler 1
 classification
 curace

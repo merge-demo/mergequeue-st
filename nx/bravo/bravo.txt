@@ -65,7 +65,7 @@ bolbonac
 backout 1
 bogfern 1
 bigness
-beanballs 2
+beanballs 3
 babelet 1
 balata
 boycotts 1
@@ -618,7 +618,7 @@ bacteriochlorophyll 2
 bacteriocin 1
 broomsticks 1
 bostangi
-bastiment
+bastiment 1
 bacteriodiagnosis
 bromates
 benomyls
@@ -2330,7 +2330,7 @@ businessese 1
 bizet 1
 botryomyces 4
 bands
-betokened 2
+betokened 3
 budgerygah
 bebite
 backyards 1
@@ -3593,7 +3593,7 @@ bathythermograph 2
 bipartite 2
 bathmat
 bathmats 1
-broodsac 2
+broodsac 3
 bereaven
 basion
 bathmism
@@ -5469,7 +5469,7 @@ bearpaw
 barrier 2
 babiche
 behooves
-behooving
+behooving 1
 bacterioprotein 3
 brine
 backiebird
@@ -7615,7 +7615,7 @@ bearded 1
 brownprint 2
 bewitchment 2
 bounderishly
-bewizard 1
+bewizard 2
 bombycina 1
 blandished 1
 bimolecular 1
@@ -9846,7 +9846,7 @@ bowdlerization
 barrels
 balawa 3
 beamy 1
-biternately
+biternately 1
 blanketer 1
 babuls
 bressummer 1
@@ -10344,7 +10344,7 @@ bargepole 1
 buxomness
 bottomried 1
 billot
-bounderish
+bounderish 1
 buffability 3
 bamboozlers
 binarium
@@ -13300,7 +13300,7 @@ briquettes
 botany 1
 bilboquet 1
 berakes
-birdmen 1
+birdmen 2
 blennies
 botanic 1
 baltei 3
@@ -18244,7 +18244,7 @@ balistarius
 besweatered 2
 butterflower 2
 bylined 1
-bleinerite 1
+bleinerite 2
 battles 1
 bacteraemia
 bases 2
