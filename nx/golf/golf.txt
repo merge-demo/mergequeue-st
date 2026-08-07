@@ -4901,7 +4901,7 @@ goldic
 gymnogen 1
 gawker
 galling 1
-glew 2
+glew 3
 goodwilled 3
 gigantic 2
 grafters 1
@@ -9460,7 +9460,7 @@ greenhood 2
 germ
 garfield 5
 gastrulate
-garad 1
+garad 2
 garniec 2
 grapple 3
 glorified 2
@@ -9975,7 +9975,7 @@ gubbins 3
 geoethnic 1
 gleamless 3
 galictis 1
-glutamic
+glutamic 1
 gubernative 2
 gunwale 2
 grieves
