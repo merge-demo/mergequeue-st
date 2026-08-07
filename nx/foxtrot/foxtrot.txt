@@ -2240,7 +2240,7 @@ feticidal 6
 forgetting 1
 fracture
 filtrated
-fec 1
+fec 2
 filesave 1
 fainaiguer 1
 femora 3
@@ -6032,7 +6032,7 @@ fresco
 fermorite
 flightiness 1
 finger 3
-fontange 2
+fontange 3
 foggier 4
 forgab
 forespeech 3
