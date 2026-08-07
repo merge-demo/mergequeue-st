@@ -1056,7 +1056,7 @@ embase 1
 epicondylar 2
 embeddable
 epistolic
-echinology
+echinology 1
 elective
 euchred 1
 eisteddfodism 6
@@ -11801,7 +11801,7 @@ extracorpuscular 1
 euripidean 2
 ekphore
 eversive 4
-epimerise 1
+epimerise 2
 extrospective 2
 epirot
 elusion 1
