@@ -2383,7 +2383,7 @@ ebriosity 2
 entomologize 1
 epitrochlea 3
 electrodes 3
-etherization 4
+etherization 5
 elotherium
 esterling 1
 embiid
@@ -5343,7 +5343,7 @@ ektene 2
 engorges
 envolupen 1
 eiders
-evocatory
+evocatory 1
 endotheliomas 2
 excercise
 explicators 1
