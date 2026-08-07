@@ -2734,7 +2734,7 @@ brasen 1
 betaken 1
 beladies
 betters 2
-bellypiece 1
+bellypiece 2
 breadwinner 2
 baroko
 bubastite 1
@@ -3045,7 +3045,7 @@ brimmers 1
 brushpopper
 beachhead
 bartonella 2
-backswordsman 1
+backswordsman 2
 blepharedema
 bubba
 bartramian
@@ -3634,7 +3634,7 @@ bookmobile 1
 besought 1
 blithelike 1
 batidaceous 1
-becrowds 2
+becrowds 3
 beshouted 2
 batiking 1
 boise 1
@@ -5276,7 +5276,7 @@ beeriest
 bicrescentic
 bringsel 2
 beggarlike 1
-boshas 2
+boshas 3
 bullom 1
 brimless 1
 bubbies
@@ -5457,7 +5457,7 @@ behymn 2
 brutes
 behither 1
 bendways 2
-bechamel 2
+bechamel 3
 bonce
 bahmani 1
 bronchotome 1
@@ -5870,7 +5870,7 @@ beefin 2
 bypaths 2
 beerocracy
 bellowsful 1
-baetylus 1
+baetylus 2
 bargainer
 beride
 bellowslike 1
@@ -7055,7 +7055,7 @@ bespate 1
 brickbatted 1
 basset 1
 biwa 2
-bezzant
+bezzant 1
 bennetweed 1
 burleycue
 bespattered 1
@@ -7359,7 +7359,7 @@ besogne 2
 bamboche
 bigmouthed
 bethump 1
-betides 1
+betides 2
 bego
 bombous 1
 bootikins
@@ -7370,7 +7370,7 @@ blindfolds 1
 betime
 bastionet 1
 blotching 2
-bridgeward 1
+bridgeward 2
 betinge
 betire
 betis 1
@@ -7397,7 +7397,7 @@ boarfish 1
 bombesin
 belligerence 1
 bradshaw 1
-behaviours 1
+behaviours 2
 bookbinders 1
 bromated 1
 betrayed
@@ -9398,7 +9398,7 @@ boondocker
 bonser
 brimse 1
 basidial 1
-boastless 1
+boastless 2
 basocyte 1
 buriti
 baronetship 1
@@ -10615,7 +10615,7 @@ bereft 3
 bohemia 1
 blaunner 1
 brokenness 1
-blawing 1
+blawing 2
 bidery 1
 blawn
 brigittine 1
@@ -10909,7 +10909,7 @@ blindfishes
 bluelegs 1
 blindfolded 2
 backbencher 2
-bismuth
+bismuth 1
 bassus 1
 butterbush 2
 blindfoldedness
@@ -11629,7 +11629,7 @@ barche
 boarspear
 balloter
 burns 1
-bevels 1
+bevels 2
 bacauan 1
 blacks
 bizant
@@ -11948,7 +11948,7 @@ bloomiest 2
 branchiopneustic
 bogeymen 1
 brut 1
-bawke
+bawke 1
 betweens
 begirdling 1
 boggard 1
@@ -13244,7 +13244,7 @@ beaugregory 1
 breatheableness 1
 binocle 1
 bosporanic 2
-bosque
+bosque 1
 brushfires
 bosques
 ballam 1
@@ -13261,7 +13261,7 @@ boblet 1
 bossed
 buckra 3
 boanergean
-bosselation 3
+bosselation 4
 bolti 1
 buffbar 1
 bedevil 1
@@ -15153,7 +15153,7 @@ bushhammer 2
 breviradiate 1
 blithely 2
 bugeyed 1
-brevit
+brevit 1
 brevity
 broquineer 2
 bapistery 1
@@ -16187,7 +16187,7 @@ brotel 1
 brothe 1
 breves 1
 boneflower
-bdellidae 2
+bdellidae 3
 balklines 1
 brotheler
 bragget 1
@@ -17928,7 +17928,7 @@ bottega
 bushmaker
 bearbine 1
 bioclean
-bushmaking
+bushmaking 1
 bibliopoly
 biophore 1
 bushman 1
@@ -18387,7 +18387,7 @@ barycenter 1
 balaustre
 byronics
 betwattled 3
-buzzerphone
+buzzerphone 1
 buzzier
 burghermaster 3
 bilinite 1
