@@ -2237,7 +2237,7 @@ epigonos 2
 exhume
 endospermous 1
 elks 2
-encyclopedian 1
+encyclopedian 2
 encell 1
 epauletted 2
 electragy 1
@@ -7307,7 +7307,7 @@ enstranged 1
 eyries
 epee
 elsin 1
-epeeist 3
+epeeist 4
 embue 4
 exstipulate 1
 epeiric 1
@@ -8461,7 +8461,7 @@ evolutive 3
 eupyrene 3
 empties
 enneatical
-epulo 1
+epulo 2
 equilibrial 2
 ecphoriae
 erases 2
@@ -9642,7 +9642,7 @@ ensearcher 1
 espingole
 equaling 1
 emetophobia 3
-editchar
+editchar 1
 espino 1
 epitaphial 2
 erythroplastid 4
@@ -10785,7 +10785,7 @@ examiners
 egling 1
 embryomas
 eumemorrhea
-eye
+eye 1
 encolpion 3
 entrusted 2
 entrapped 1
@@ -13875,7 +13875,7 @@ embrake 1
 euvrou
 euplectella 2
 encyclopaedia 4
-euthenics 2
+euthenics 3
 elects 2
 excudit 2
 elaeothesia 2
