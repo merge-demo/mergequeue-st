@@ -21,7 +21,7 @@ disa 2
 dzeren
 deltiology 3
 dodkin
-dependance 2
+dependance 3
 dabs 2
 dabsters
 desalinates
@@ -932,7 +932,7 @@ devisees 1
 dibbers
 depurging
 dapperling 1
-dapperness
+dapperness 1
 dapping 1
 dactylographic 1
 dishouse 1
@@ -4813,7 +4813,7 @@ deepness 2
 dharna 3
 detickers
 demonical 1
-decadal 1
+decadal 2
 deathcups 2
 diestrum
 dognapers 1
@@ -9253,7 +9253,7 @@ dier
 dyer
 dementis 1
 dochmii
-dishorse
+dishorse 1
 dihydrazone 1
 disemic
 debite 1
@@ -11490,7 +11490,7 @@ discomforts 1
 discomycete
 discomycetous 3
 druggy
-dirham
+dirham 1
 defter
 dunciad 1
 dovewood 4
@@ -13701,7 +13701,7 @@ dogberries 2
 dispersals 1
 differential 1
 deceivingly 1
-dissipaters 3
+dissipaters 4
 digestedly 1
 danization
 disseating 1
