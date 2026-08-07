@@ -8233,7 +8233,7 @@ chalcocite
 carnegie 1
 compotatory 2
 christianomastix
-chalcogen 1
+chalcogen 2
 chalcogenide
 coenaculum 1
 comas
@@ -29548,7 +29548,7 @@ congenite 1
 canoeman
 criticiser
 criticising
-criticisingly
+criticisingly 1
 corbiculae 1
 cog
 criticized
