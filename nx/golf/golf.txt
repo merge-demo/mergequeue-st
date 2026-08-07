@@ -910,7 +910,7 @@ gez 1
 genome
 gravata
 gaverick 4
-geld 1
+geld 2
 guna 1
 gambia 2
 gunners 2
@@ -3132,7 +3132,7 @@ grusian 3
 gynophore 1
 gauloiserie 4
 geotechnic 1
-geraniaceae 1
+geraniaceae 2
 griffado
 gabler 5
 gaumy 2
@@ -3285,7 +3285,7 @@ glottalization 3
 gasterosteus 3
 gyneccia 1
 gipsyesque 3
-geepounds
+geepounds 1
 geostrophically 1
 gobio 3
 gullion
@@ -3858,7 +3858,7 @@ gravidae 2
 goral 1
 goslet 4
 glossem 1
-geminated 1
+geminated 2
 glens 3
 glossocarcinoma 2
 grossly 1
@@ -6597,7 +6597,7 @@ glossary 2
 glamourless 3
 grumphies 1
 governessdom 2
-glummy
+glummy 1
 galacaceae 2
 gallstone 3
 garous 4
