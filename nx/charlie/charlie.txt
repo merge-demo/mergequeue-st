@@ -617,7 +617,7 @@ cam
 cadwell 1
 cinerarium
 cacotrophy
-councilwomen 1
+councilwomen 2
 caecally
 combwright 1
 caecilia
@@ -689,7 +689,7 @@ cobblerless
 compensable 1
 caffeinic
 caffeins
-coctoantigen 2
+coctoantigen 3
 carries 2
 caffeism
 cud 3
@@ -8222,7 +8222,7 @@ calabrasella 2
 chalcedonyx
 chalchuite 1
 chalcidian
-chalcidicum
+chalcidicum 1
 caird
 cuniculus
 chalcidoid 1
@@ -9844,7 +9844,7 @@ crinet
 cryptogenic
 chemisette
 chemism
-choosy 1
+choosy 2
 cochlospermum 1
 chemisorb
 coprophilic 1
@@ -12737,7 +12737,7 @@ countercraft 1
 cauliflowers 1
 chugalug
 concussant
-chugalugged 2
+chugalugged 3
 candidas 2
 characteries
 canonisation 3
@@ -12921,7 +12921,7 @@ churring 1
 churrip
 churro 1
 cooeeing 1
-copiers
+copiers 1
 clavus
 colorblindness
 carroming
@@ -13115,7 +13115,7 @@ cibory
 ciboules 1
 cyc 3
 cicad
-cycadaceae
+cycadaceae 1
 canopied
 crimpiest
 convulsional
@@ -14188,7 +14188,7 @@ carpellum 1
 cyclotella
 circumbulbar
 circumcallosal 2
-corroborating 1
+corroborating 2
 cryoprotective
 corytuberine 1
 circumcellion
@@ -14311,7 +14311,7 @@ circumquaque
 circumradius 1
 circumradiuses
 charitable
-claver
+claver 1
 conferring 1
 cevadilla
 conamed
@@ -14720,7 +14720,7 @@ cygnets 1
 citharoedi
 chaplets 1
 cholesteryl 2
-catmint
+catmint 1
 circumagitate
 cylix
 celebration 1
@@ -17034,7 +17034,7 @@ cynogale 1
 coabsume
 cytodieretic
 coacceptor 1
-coacervate
+coacervate 1
 censuring 2
 coachbuilder
 chosen
@@ -17776,7 +17776,7 @@ categorisation 1
 cardiography 1
 codas 1
 cardialgic 1
-coddy 2
+coddy 3
 coddle 2
 coddler
 calculous 2
@@ -18559,7 +18559,7 @@ cringingness
 coiffe 2
 coiffed 1
 caustics
-clavers 1
+clavers 2
 coiffeur
 coiffeurs 1
 coiffeuses 1
@@ -20039,7 +20039,7 @@ commencer
 commencing 1
 coloslossuses 2
 crim
-cheweler 2
+cheweler 3
 cinemelodrama
 cocorico
 commendation
@@ -20437,7 +20437,7 @@ compage 2
 compagnies
 coprophagan
 cresols 1
-condonative
+condonative 1
 concamerate 1
 companable
 companage
@@ -21706,7 +21706,7 @@ crosa
 camphoric
 columbarium
 cecidomyiid
-cedens
+cedens 1
 cephalon
 commy 1
 crackling 1
@@ -22689,7 +22689,7 @@ corynebacterium 2
 connumerate
 childing 2
 chyloid 1
-calorized
+calorized 1
 continualness 1
 chebule
 crossgrainedness 1
@@ -23617,7 +23617,7 @@ cognoscenti 1
 contoise 1
 chalina 1
 castrater
-caboose
+caboose 1
 contortedly
 coati
 corycian
@@ -23973,7 +23973,7 @@ consummately
 chammied
 colubrina
 cagey
-clyfaking
+clyfaking 1
 chukkars
 convective
 costoscapular
@@ -24872,7 +24872,7 @@ chompers
 coracocostal 1
 christiform 1
 coracoid
-coracoidal
+coracoidal 1
 crocket
 chaumontel
 coredeeming
@@ -26621,7 +26621,7 @@ coumaphos 1
 coumaran
 coumaric 1
 calopogon 1
-caliper 1
+caliper 2
 celluloided
 coumarilic 1
 coumarins
@@ -28341,7 +28341,7 @@ cravens
 clod 2
 cloop
 craver 1
-cannoli 1
+cannoli 2
 campholytic 1
 carboxy 1
 cerography
