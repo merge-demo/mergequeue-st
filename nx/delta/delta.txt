@@ -21,7 +21,7 @@ disa 2
 dzeren
 deltiology 3
 dodkin
-dependance 2
+dependance 3
 dabs 2
 dabsters
 desalinates
@@ -89,7 +89,7 @@ disqualifiable 1
 diachylon 2
 dactylology 1
 dognapped
-dactylomegaly
+dactylomegaly 1
 dactylopore
 dustyfoot
 dactylopteridae 1
@@ -671,7 +671,7 @@ desquamated
 dionymal
 dukely
 deafen 1
-dudgeons
+dudgeons 1
 dihydroxy 2
 devoting 2
 dodecastylar 1
@@ -932,7 +932,7 @@ devisees 1
 dibbers
 depurging
 dapperling 1
-dapperness
+dapperness 1
 dapping 1
 dactylographic 1
 dishouse 1
@@ -1427,7 +1427,7 @@ disintegrable
 dulcid 4
 dechoralize 2
 deportation 2
-dawdling
+dawdling 1
 dibbed
 dryster 1
 dichotomized 1
@@ -1653,7 +1653,7 @@ dealkylate
 daundered
 disassembler 1
 decurved 1
-deobstruct 3
+deobstruct 4
 devotional 1
 daunter 1
 dicephalus 1
@@ -3608,7 +3608,7 @@ distentions 1
 degerms 1
 dinus 1
 douzeper 1
-deontological
+deontological 1
 degging 1
 devices 1
 deglamorizing
@@ -4813,7 +4813,7 @@ deepness 2
 dharna 3
 detickers
 demonical 1
-decadal 1
+decadal 2
 deathcups 2
 diestrum
 dognapers 1
@@ -5544,7 +5544,7 @@ dependingly 1
 drouthiness 2
 depends 4
 dallack 5
-dispersed
+dispersed 1
 dramatizable 1
 dukeship
 dieters 2
@@ -5794,7 +5794,7 @@ desistance 1
 depots 1
 dasyure
 dictating
-deprave
+deprave 1
 daytimes 1
 disanagrammatize
 doxologizing
@@ -8009,7 +8009,7 @@ dimension 1
 dorsointestinal 2
 dhamnoo
 daphnioid
-distinctional
+distinctional 1
 dragaded 1
 dhangar 2
 demonetising
@@ -8787,7 +8787,7 @@ diabolized
 dansant 2
 dictations
 diffident 2
-dung
+dung 1
 deeryard 1
 diazoimide 2
 dyschroia
@@ -9253,7 +9253,7 @@ dier
 dyer
 dementis 1
 dochmii
-dishorse
+dishorse 1
 dihydrazone 1
 disemic
 debite 1
@@ -11490,7 +11490,7 @@ discomforts 1
 discomycete
 discomycetous 3
 druggy
-dirham
+dirham 1
 defter
 dunciad 1
 dovewood 4
@@ -13687,7 +13687,7 @@ dictatorialism 1
 devocalisation 1
 doss 2
 diligency 1
-devious 1
+devious 2
 demicannon 1
 dermatocellulitis 3
 djellabas
@@ -13701,7 +13701,7 @@ dogberries 2
 dispersals 1
 differential 1
 deceivingly 1
-dissipaters 3
+dissipaters 4
 digestedly 1
 danization
 disseating 1
@@ -15479,7 +15479,7 @@ dependableness 1
 dismembers
 dogedoms 1
 desolated 1
-doncella 1
+doncella 2
 debut 1
 doncy 1
 dugouts
@@ -15622,7 +15622,7 @@ diodes 1
 desensitizer
 dillesk
 downheartedly
-disconnector
+disconnector 1
 dennis 1
 departmentalise 2
 detacher
@@ -17228,7 +17228,7 @@ duffers 3
 dition 2
 difformed 1
 disintricate 2
-drysne 1
+drysne 2
 dictyonema 3
 director 2
 diaphoresis 3
@@ -18575,7 +18575,7 @@ durrs
 durukuli
 disanimated 1
 dyslexic 3
-defortify 1
+defortify 2
 decentration 1
 dush
 dusked
