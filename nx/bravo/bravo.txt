@@ -169,7 +169,7 @@ bunchiest 1
 boroughwide
 bipacks
 bulwark 2
-boh
+boh 1
 begladded 1
 baccalaureate 1
 baccalaureates 1
@@ -4195,7 +4195,7 @@ beatification 1
 baroto 3
 beatified 1
 beatifies 3
-batholite 3
+batholite 4
 bouchees 1
 beatitude
 bandel 2
@@ -8997,7 +8997,7 @@ bronzen 1
 beclamor 1
 bioinstrument 4
 biolinguistics 1
-belted 1
+belted 2
 bouleverse
 begats
 ballone
@@ -12429,7 +12429,7 @@ begloom 1
 bonbons
 batell 1
 barker 1
-bareboats
+bareboats 1
 bureaux 1
 banisterine 1
 bond
@@ -13357,7 +13357,7 @@ basilosaurus 1
 both
 bradyphagia
 bothered 3
-bester
+bester 1
 bothers 1
 beety
 binding
