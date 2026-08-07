@@ -3592,7 +3592,7 @@ aragonese
 adducer
 adduces
 auricles 1
-adducible 2
+adducible 3
 ampelideous
 artiodactylous 2
 adducted
@@ -8325,7 +8325,7 @@ axonal
 abacay 1
 auks 1
 applicatorily 1
-andropetalous
+andropetalous 1
 amatively 1
 archapostle 2
 accumulativeness 1
@@ -20409,7 +20409,7 @@ adoxy 1
 adorably
 arsonists
 aeschynanthus
-accrementitial 1
+accrementitial 2
 astraddle 1
 arsons
 abatement
@@ -23380,7 +23380,7 @@ apposed 2
 aridnesses
 axonemal 1
 acrostics
-aldoketene
+aldoketene 1
 aggravating
 atropins 1
 adoxaceous 1
