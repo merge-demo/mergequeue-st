@@ -636,7 +636,7 @@ farrand
 featherbedding 2
 farnesol
 flakage 3
-fluotitanic 1
+fluotitanic 2
 fames 1
 fuddled 2
 fichu 1
@@ -1707,7 +1707,7 @@ floats 1
 filicin 1
 fortravail 3
 factable 1
-floroon 2
+floroon 3
 fibrocyte 1
 flashflood 1
 feastfully 1
@@ -2543,7 +2543,7 @@ fem 1
 functionalistic 2
 foresightful 1
 falerno
-fairyhood 2
+fairyhood 3
 funduck
 ferryboat 3
 femereil 2
@@ -4131,7 +4131,7 @@ freeheartedly 5
 fireback 3
 fumeuses 2
 frogleaf 1
-felonry 2
+felonry 3
 flexed 1
 funders 3
 fenchyl 1
@@ -4161,7 +4161,7 @@ fluophosphate 2
 foreaccounting
 frequence 3
 fumago 1
-frier 1
+frier 2
 franchisor
 fiberglas
 fining 2
@@ -4579,7 +4579,7 @@ forestwards
 fibrinokinase 1
 fooldom
 flirtishness 2
-frees 2
+frees 3
 fesswise 1
 fringilliformes 1
 foliages 2
@@ -5926,7 +5926,7 @@ foeticidal 1
 fluviovolcanic 2
 flybane 3
 foveola 1
-freyr 1
+freyr 2
 factitude 1
 familic 3
 frats
@@ -6178,7 +6178,7 @@ fingerspin 1
 flowerwork 2
 finnicking 1
 flowingness 1
-facilitates 1
+facilitates 2
 fimetarious 2
 forcement 4
 funguslike 1
@@ -7747,7 +7747,7 @@ flicky
 fireshine 2
 filmographies 3
 frankpledge 1
-fumigants 3
+fumigants 4
 furfuraceous 1
 frere 3
 foreshaft 4
@@ -9183,7 +9183,7 @@ furioso 2
 fuzee
 falsificator 2
 fruitarian 2
-fractionalized
+fractionalized 1
 ferriprussic 1
 fodient 2
 feoffees 3
@@ -10207,7 +10207,7 @@ flaxwoman 3
 fluttered 1
 fimbria 2
 falcer
-friulian 1
+friulian 2
 fibroadenia 2
 frizzy
 foresightedly 1
@@ -10859,7 +10859,7 @@ flambeaux 2
 fumose 2
 fructifies 2
 fulfillment
-flus 1
+flus 2
 flavorous 3
 ferule 3
 fennici 3
