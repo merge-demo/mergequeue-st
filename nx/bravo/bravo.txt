@@ -3165,7 +3165,7 @@ baseplug 3
 basepoint 2
 behavers
 baser 2
-brazen 3
+brazen 4
 blanda
 besetter 2
 bonace
@@ -12719,7 +12719,7 @@ billion
 bailsmen 1
 bookfold 1
 biometric 1
-bookhood
+bookhood 1
 bloodhounds 1
 belamcanda 1
 bareboat 1
