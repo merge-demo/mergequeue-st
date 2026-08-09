@@ -3531,7 +3531,7 @@ barbered
 bovista 1
 bouchal 1
 bulldoggishly
-bogglish 1
+bogglish 2
 broadax
 bristled 2
 botchiest 1
@@ -5262,7 +5262,7 @@ bimasty 1
 borderer
 bedabbling 1
 begem 1
-bridesmaiding
+bridesmaiding 1
 bestseller 1
 blankbook
 bloods 1
@@ -5734,7 +5734,7 @@ brerd 1
 burials 1
 backsight 3
 bandlimit 2
-belight
+belight 1
 baaed 3
 bulgaria 1
 bulldozer 2
@@ -6357,7 +6357,7 @@ boilerful 1
 belite 1
 barani
 benzidino 3
-blackbirding
+blackbirding 1
 birdwise 1
 blossoming
 bragger
@@ -6536,7 +6536,7 @@ bilsted
 bagel
 barytones
 breezy
-bioecologies
+bioecologies 1
 bookkeeping 1
 browningesque 1
 banisters 2
@@ -14821,7 +14821,7 @@ ballooner 3
 bombable
 burgheress 2
 baru
-brava 2
+brava 3
 bylines 2
 backropes 1
 bedraggled
@@ -17565,7 +17565,7 @@ burgality
 beaufort 1
 bouses 3
 blackpoll
-burgall
+burgall 1
 biddance
 burgamot
 betrace 1
@@ -17948,7 +17948,7 @@ bathybic 2
 baryta
 bushwahs
 baggy 2
-basemen 1
+basemen 2
 boloroot 2
 bushlike
 beclamors 1
