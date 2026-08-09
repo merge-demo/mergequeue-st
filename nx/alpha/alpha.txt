@@ -7726,7 +7726,7 @@ alcoholize
 alcoholmeter 1
 airmass
 anemogram 1
-alcoholmetric
+alcoholmetric 1
 abaissed
 alcoholometer 1
 acidic 1
