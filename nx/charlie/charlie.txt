@@ -3597,7 +3597,7 @@ condemnor 1
 cosmocrat 1
 chewiest
 cooping 2
-cephalalgic 1
+cephalalgic 2
 corniest
 caqueteuse
 curvature
@@ -5380,7 +5380,7 @@ concessive 1
 casteless
 chifforobes
 chimerical
-citator
+citator 1
 chuckie
 castellany 2
 crizzling
@@ -6438,7 +6438,7 @@ cavalcaded 1
 cotylophorous
 cardinalist
 curarizes 1
-cavalier
+cavalier 1
 choregic 1
 cation
 contraorbitally 2
@@ -19311,7 +19311,7 @@ colonisationist 1
 colonised 1
 colonising 2
 colonist
-colonizable 1
+colonizable 2
 colonize 1
 comminating 1
 courted 1
@@ -27431,7 +27431,7 @@ ceratium 1
 courtship
 cleach
 courtside
-couscous
+couscous 1
 castilloa 2
 couscousou
 creamed 1
