@@ -1253,7 +1253,7 @@ airlike
 acanthopterygian
 adversed
 aucubas
-acromia
+acromia 1
 acanthopterygii 1
 archeus 1
 acanthuridae
@@ -3392,7 +3392,7 @@ adamantinoma 1
 adamantness 1
 actinochemical
 aphthongia 2
-adamantoblast
+adamantoblast 1
 archery
 amblystoma
 absentee 1
@@ -8108,7 +8108,7 @@ amphide
 alforja 1
 alfreda
 alfenide
-alfresco 2
+alfresco 3
 asianic
 ampelidaceae
 asymptotically 1
@@ -13102,7 +13102,7 @@ agrologist 1
 anils
 aerogels
 apokatastatic 2
-ambonite
+ambonite 1
 autologist
 abreacted
 antipoles
@@ -17920,7 +17920,7 @@ approach 2
 aristodemocracy
 anthracotheriidae 1
 approachable 3
-approached
+approached 1
 administration
 amphirhine
 amblypod 2
@@ -19472,7 +19472,7 @@ argle
 astir 1
 associableness 1
 abjure 1
-arglebargle 1
+arglebargle 2
 arglebargled 3
 allie
 arglebargling
@@ -21941,7 +21941,7 @@ austerus 2
 associativeness
 appending
 amplify
-associativity 2
+associativity 3
 adicity
 articulating 1
 anathemata
@@ -24626,7 +24626,7 @@ affich
 amicicide 2
 avantage
 avaram
-avaremotemo 2
+avaremotemo 3
 alouatte
 abscesses 2
 acroterium
