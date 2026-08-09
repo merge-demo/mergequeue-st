@@ -599,7 +599,7 @@ compunctions 1
 caducibranchiata
 canikins
 caducibranchiate
-claggy
+claggy 1
 caducous 1
 caryocaraceae
 caduke
@@ -1353,7 +1353,7 @@ cascabels 1
 calyciflorate
 contranatural 2
 caliciform
-calycinal 2
+calycinal 3
 calycine
 calderium
 cockscombs
@@ -1555,7 +1555,7 @@ calliopsis 2
 chutes
 callipash
 coorieing
-cayennes
+cayennes 1
 callipees
 callipering 1
 callipers 1
@@ -14810,7 +14810,7 @@ coinferred 2
 collectanea
 commiseratively 1
 cytogenetic
-chiromegaly
+chiromegaly 1
 cornsack
 cytogenic 1
 cahill
@@ -19044,7 +19044,7 @@ checkweighman
 collencyte
 chargeless 1
 collery
-candyh
+candyh 1
 claimer 1
 colleted
 colletes 2
@@ -19451,7 +19451,7 @@ charas 1
 colossians 2
 colosso
 chemises 1
-colossochelys 2
+colossochelys 3
 colostomies 1
 compositous 1
 confederationist
@@ -20622,7 +20622,7 @@ cascol
 competitors 1
 challengee
 competitrix 2
-cofounded
+cofounded 1
 curvilinearly
 compilations
 challenging 1
@@ -21150,7 +21150,7 @@ concealedness
 cardiotonic
 concealer 1
 concealing 1
-conceals
+conceals 1
 cimmerian
 concededly
 couplets
@@ -21743,7 +21743,7 @@ contracture 1
 collarbones
 condominiums 1
 condoms
-cyanoethylate
+cyanoethylate 1
 condonable 1
 clayed 1
 croci
@@ -27947,7 +27947,7 @@ crackliest 2
 copperplated
 cracklings
 clockface 1
-convergement
+convergement 1
 crackmans 1
 cracknel
 crackpots
@@ -30849,7 +30849,7 @@ compounders
 cliqueiest
 cebus 1
 celtish
-consentfully 2
+consentfully 3
 caffling
 coeliorrhea
 culmination
