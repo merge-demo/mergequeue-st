@@ -1961,7 +1961,7 @@ divinatory
 diagnosticians 1
 deburr
 divulgatory
-debus 1
+debus 2
 decanally
 defying
 doohickey 2
@@ -3273,7 +3273,7 @@ dyaus 2
 duodecillionth
 deallocated 1
 dominie
-departs 2
+departs 3
 defibrillated 3
 doldrum 1
 disgruntled 1
@@ -9983,7 +9983,7 @@ disopinion 1
 dimoric 1
 demigoddess
 demilitarization 1
-dotardism
+dotardism 1
 derv
 disconnectiveness 2
 dimorph
@@ -12056,7 +12056,7 @@ disentombment 1
 disclaimers 1
 deplaceable
 disentrail
-disentrainment
+disentrainment 1
 disentrance
 depilatory 2
 distinctionless
