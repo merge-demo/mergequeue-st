@@ -1976,7 +1976,7 @@ balances 1
 bandstring
 bathymetric 1
 brandishes
-bigeye 3
+bigeye 4
 believes 1
 bosquets 2
 baahling
@@ -2402,7 +2402,7 @@ blip 3
 boutel
 bebeeru 1
 barcone 1
-backwraps 1
+backwraps 2
 banshie
 brakemen
 barcoo 1
@@ -2893,7 +2893,7 @@ bacchanalianism
 barramundies 1
 bilocation 1
 beads 1
-bottleful 4
+bottleful 5
 broadcasts
 broadthroat 2
 biverbal 1
@@ -3165,7 +3165,7 @@ baseplug 3
 basepoint 2
 behavers
 baser 2
-brazen 3
+brazen 4
 blanda
 besetter 2
 bonace
@@ -5163,7 +5163,7 @@ bashment
 bazookas
 beroidae
 befoulment
-biacuminate 2
+biacuminate 3
 befraught 2
 befountained
 borosilicic 4
@@ -5250,7 +5250,7 @@ bewired
 batzen
 begass
 bitless 1
-backmost 1
+backmost 2
 blastocyst 2
 bolters 1
 bioblast 2
@@ -7522,7 +7522,7 @@ boneache 1
 bourbonism
 bibbing
 bestower 3
-betaine 2
+betaine 3
 businessman 1
 befell 1
 bedote
@@ -7688,7 +7688,7 @@ becarpets
 benelux 1
 bereaved 1
 bezoars 1
-bezpopovets
+bezpopovets 1
 barged
 butties 3
 boatbuilder
@@ -9927,7 +9927,7 @@ berkeleyism
 becapped 1
 birdlife 2
 bitterishness
-buildup
+buildup 1
 bitterness
 beggarly 4
 bitternut 1
@@ -11093,7 +11093,7 @@ borborygmic
 benzimidazole 1
 biomorphic 1
 builder 1
-billeter
+billeter 1
 bedwarfs
 broil 1
 baobabs 3
@@ -12155,7 +12155,7 @@ benniseed 1
 besmoked
 burthening 2
 bikukulla 2
-beteem
+beteem 1
 buddhahood 2
 bloomkin 1
 bolero 1
@@ -12719,7 +12719,7 @@ billion
 bailsmen 1
 bookfold 1
 biometric 1
-bookhood
+bookhood 1
 bloodhounds 1
 belamcanda 1
 bareboat 1
@@ -12992,7 +12992,7 @@ bombycillidae
 bandersnatch
 briseis
 branchery
-backstabbing 2
+backstabbing 3
 biplicity 2
 backcountry 3
 browntop 2
