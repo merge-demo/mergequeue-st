@@ -817,7 +817,7 @@ grazeable 1
 genetta 1
 goldenrods 2
 gyppo 1
-gletty 2
+gletty 3
 galoots 4
 gasper 1
 granose 2
@@ -2508,7 +2508,7 @@ guessive 1
 generalise 2
 graciously
 glorifying
-gentlemanliness 2
+gentlemanliness 3
 gallfly
 gael
 gilliver
@@ -7950,7 +7950,7 @@ gliriform 3
 grandad 1
 gentilization 2
 gey 2
-gladded
+gladded 1
 gallantly 1
 goodwillie
 grandads
@@ -9355,7 +9355,7 @@ ghaznevid 1
 gaieties
 ghaist
 gasparillo
-glandered 1
+glandered 2
 gyrostat 2
 gimmick 1
 gonocoel
@@ -9878,7 +9878,7 @@ genders 1
 guaracha
 grenadilla 1
 glaked 1
-genapp
+genapp 1
 gabi 2
 guttulate
 gobioids 2

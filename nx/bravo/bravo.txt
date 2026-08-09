@@ -1528,7 +1528,7 @@ bartree 1
 battled 1
 burlers 2
 bronchopleurisy 1
-blowiest 1
+blowiest 2
 brakemaking 1
 balladist 1
 batrachophagous 1
@@ -3051,7 +3051,7 @@ bubba
 bartramian
 banish 2
 beetmister
-bliest
+bliest 1
 burlesks
 balsaming
 brigantine 2
@@ -7888,7 +7888,7 @@ brains 1
 bedboard 2
 brachiation 1
 bedlike 1
-bibliomane
+bibliomane 1
 bokmakierie
 bams 1
 bibliomania
@@ -17729,7 +17729,7 @@ blastophaga 1
 bemuzzled 1
 bott
 bewinged 2
-burnfire 1
+burnfire 2
 bashaws
 buckeens
 burnish
