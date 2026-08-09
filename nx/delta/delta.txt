@@ -3740,7 +3740,7 @@ dehorns 1
 decaudate 1
 doughlike
 depolarized
-dehorted
+dehorted 1
 damaskine 1
 defatigate 2
 dehorting 1
@@ -4914,7 +4914,7 @@ duranta 1
 demoralized 2
 demoralizers
 draughty
-debussy
+debussy 1
 demoralizes 3
 demorphism
 delectated
@@ -5378,7 +5378,7 @@ delim
 deschampsia 3
 denudating
 disordained 1
-discanter 1
+discanter 2
 deltidial 1
 diplomatics 2
 disc 2
@@ -7537,7 +7537,7 @@ dihydromorphinone 3
 dreegh
 duniwassal 3
 discreating
-deplorably 1
+deplorably 2
 dextrogyratory
 demidoctor 1
 dolichocranic 1
@@ -7897,7 +7897,7 @@ desecration 2
 delphinite 3
 draconianism
 desperadoes
-defrock 1
+defrock 2
 droughty 1
 diminuting
 degringolade 2
@@ -8135,7 +8135,7 @@ descenders
 diaplexal 1
 dromiacea 2
 decennially 2
-dakotans 2
+dakotans 3
 doutous 1
 deciduae 2
 daffodil 2
@@ -8488,7 +8488,7 @@ diane
 dianetics 1
 desulfuration 1
 didactically 1
-dianilid 2
+dianilid 3
 deathworm
 dilate 1
 dianilide 1
@@ -10095,7 +10095,7 @@ debruised
 disquiets
 deodar
 dynast 1
-deaminating
+deaminating 1
 deliciae 2
 dieticians 1
 dutiable 2
@@ -11408,7 +11408,7 @@ devaluations
 deadeye
 duodenogram 1
 dehaites 1
-duroc
+duroc 1
 degumming
 draconis 2
 desertless 1
@@ -11523,7 +11523,7 @@ discompanied 1
 disavowing 1
 deepmouthed
 dimethyls
-degenerations
+degenerations 1
 derivers
 discompliance 1
 dowry 1
@@ -15742,7 +15742,7 @@ dornic 3
 deletive 1
 deterred
 dornick
-dornicks
+dornicks 1
 datival 2
 dornocks 2
 desanded 1
