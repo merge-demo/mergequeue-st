@@ -3437,7 +3437,7 @@ carers
 caprices
 capricious
 cajole 1
-capricornid 1
+capricornid 2
 conditotoria 1
 centon
 cedarware 1
@@ -3597,7 +3597,7 @@ condemnor 1
 cosmocrat 1
 chewiest
 cooping 2
-cephalalgic 1
+cephalalgic 2
 corniest
 caqueteuse
 curvature
@@ -5380,7 +5380,7 @@ concessive 1
 casteless
 chifforobes
 chimerical
-citator
+citator 1
 chuckie
 castellany 2
 crizzling
@@ -6438,7 +6438,7 @@ cavalcaded 1
 cotylophorous
 cardinalist
 curarizes 1
-cavalier
+cavalier 1
 choregic 1
 cation
 contraorbitally 2
@@ -19311,7 +19311,7 @@ colonisationist 1
 colonised 1
 colonising 2
 colonist
-colonizable 1
+colonizable 2
 colonize 1
 comminating 1
 courted 1
@@ -19413,7 +19413,7 @@ colorimetrics
 chemmy
 colorimetrist
 carinthian 1
-chrysobalanaceae 1
+chrysobalanaceae 2
 colorin 1
 colorings 1
 conges
@@ -26093,7 +26093,7 @@ crocked 1
 cretin
 cosigners
 cubbies
-chowderheadedness
+chowderheadedness 1
 cithara
 capling
 cosigning 2
@@ -27431,7 +27431,7 @@ ceratium 1
 courtship
 cleach
 courtside
-couscous
+couscous 1
 castilloa 2
 couscousou
 creamed 1
@@ -29997,7 +29997,7 @@ craniotomies
 crotaphite
 cytinus 2
 crotaphitic 1
-crotaphytus
+crotaphytus 1
 crotch
 citicism
 crotcheteer 3
