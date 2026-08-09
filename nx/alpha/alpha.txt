@@ -1417,7 +1417,7 @@ azygospore 1
 armonica 2
 anophthalmos
 arsenophenylglycin
-allotriodontia
+allotriodontia 1
 afterking
 avestruz 1
 acceptee
@@ -7726,7 +7726,7 @@ alcoholize
 alcoholmeter 1
 airmass
 anemogram 1
-alcoholmetric
+alcoholmetric 1
 abaissed
 alcoholometer 1
 acidic 1
@@ -23043,7 +23043,7 @@ adjuring 2
 amphibolite
 attempt 1
 antecell 1
-attachableness 3
+attachableness 4
 apocamphoric 1
 attaches
 ascitan
