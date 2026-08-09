@@ -2256,7 +2256,7 @@ bandgap 1
 barbara 1
 barbary 1
 blastier 1
-bast
+bast 1
 ballism 3
 bridgebote 3
 barrancas 1
@@ -6082,7 +6082,7 @@ biochemistries 2
 benasty 2
 beholdable 2
 bedrift 1
-buccinidae
+buccinidae 1
 bataan 2
 boarskin 2
 binauricular 1
@@ -7145,7 +7145,7 @@ bachelorism 1
 bloodied 1
 barefoot 1
 bogglingly
-boxiana 2
+boxiana 3
 babylonism
 besra 1
 berhymes
@@ -9283,7 +9283,7 @@ byplay 2
 brownie
 broncholithiasis 1
 baffle
-bewearied 1
+bewearied 2
 bescouring
 beshrewing 1
 blockader 1
@@ -9372,7 +9372,7 @@ beau 3
 backwood
 bluebush 1
 bottommost
-birded
+birded 1
 bisectrix 2
 birdfarm
 brike
