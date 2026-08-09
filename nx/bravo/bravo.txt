@@ -8051,7 +8051,7 @@ biconnected 1
 bayberry 2
 butcherous
 bastonite
-biconsonantal
+biconsonantal 1
 barnburner
 biconvexity
 brawned 2
@@ -8582,7 +8582,7 @@ billets
 bucare
 brainlike 1
 bonsai 1
-bassaris
+bassaris 1
 berylline 2
 brauneberger 3
 brachiofacial 2
@@ -11327,7 +11327,7 @@ bromos
 bossiness 1
 batteau 2
 blowups
-byroad 2
+byroad 3
 bedrug 1
 backbearing
 blaugas 2

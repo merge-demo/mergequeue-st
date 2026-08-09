@@ -3107,7 +3107,7 @@ elmwood
 exudations 1
 eyewash 2
 empennage 1
-equiangularity 2
+equiangularity 3
 epicalyces
 even 3
 epistolatory
@@ -9928,7 +9928,7 @@ exoccipital 4
 electrogenetic 1
 episodal 2
 epididymitis
-esophagoptosis
+esophagoptosis 1
 estreat 1
 excogitable 1
 estrangelo 2
