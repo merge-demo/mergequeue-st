@@ -692,7 +692,7 @@ abord 1
 aboriginality 1
 aquatones
 anhydrosis
-aborigines
+aborigines 1
 abort
 aborted 1
 antiscorbutic 1
@@ -2573,7 +2573,7 @@ anchoretic
 aerogenes 1
 aconative 2
 acondylose
-amicable 3
+amicable 4
 artisan 1
 abeyant 1
 aconelline 1
@@ -2974,7 +2974,7 @@ acrosticism
 axiomatized 3
 areawide 2
 antiliberalist 1
-acroteleutic 2
+acroteleutic 3
 acception
 anteluminary 2
 auxobody 1
@@ -9921,7 +9921,7 @@ attaint 1
 alloquial
 argean
 antiroyalist
-acromiosternal 1
+acromiosternal 2
 acceptive
 amateur 1
 antidotal 1
@@ -11797,7 +11797,7 @@ anagep 1
 analcimic 3
 antar 2
 anosphrasia 1
-ablepharon
+ablepharon 1
 axhammer 2
 anchietea
 antarctica
@@ -12384,7 +12384,7 @@ americanism 1
 apolytikion
 assiduous
 andesites
-archipresbyter
+archipresbyter 1
 andevo 1
 asphyxiant
 assisi
@@ -14712,7 +14712,7 @@ antarctically 1
 arteriectasis 1
 alpinisms 1
 alectryomachy
-antinormal 1
+antinormal 2
 attributal 1
 anthryl
 adelges 2
@@ -14820,7 +14820,7 @@ anticensorship
 anticentralization 2
 automanual
 autoindex
-acceptancy
+acceptancy 1
 arthrocele 3
 anticeremoniously
 anticeremoniousness 1
@@ -20074,7 +20074,7 @@ aschistic 2
 acantharia 2
 archespores 4
 adenization 1
-anthomyia 1
+anthomyia 2
 acmic 1
 armenia
 agentive 1
@@ -20272,7 +20272,7 @@ adenyls 1
 antiquarism 1
 aleutian 1
 adsignification 1
-arroyos
+arroyos 1
 arroyuelo
 arrosive 1
 aleuritic 1
@@ -20679,7 +20679,7 @@ arefy 2
 acetometer 1
 artifactitious 1
 ayurvedas 1
-axiolitic
+axiolitic 1
 articulacy
 aleuroscope 1
 argemony 2
@@ -22555,7 +22555,7 @@ antimilitarism
 acetaldehydrase
 aerogene 1
 adorability
-afterfruits
+afterfruits 1
 aspermic
 atechnical 1
 atef 2
