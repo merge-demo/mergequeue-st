@@ -1470,7 +1470,7 @@ boilermaker
 balistid 1
 bloodshedding 1
 bravadoed 1
-balistidae
+balistidae 1
 bouncer 1
 balanopreputial 1
 bloomier
@@ -7133,7 +7133,7 @@ bursate 1
 bocking
 blotchiest
 blowy 1
-betongue
+betongue 1
 besprinkle 1
 bandhor 2
 biaxial
@@ -8140,7 +8140,7 @@ bidiagonal 2
 binucleate 1
 barble 2
 biding 1
-bidirectional 2
+bidirectional 3
 biophagy 1
 bhumij 2
 beliefs 1
@@ -8392,7 +8392,7 @@ bigwiggery
 biomass
 beryllia 2
 babu 2
-brombenzene 1
+brombenzene 2
 brachygraphic 1
 baronetized
 byhand
@@ -9085,7 +9085,7 @@ biopsy 1
 biopsic 1
 byssaceous
 bespice 3
-benightmare 2
+benightmare 3
 belgic
 biopsychological
 breunnerite 1
@@ -11051,7 +11051,7 @@ bloats
 brachygnathous
 byelorussian 2
 berlin
-blob 2
+blob 3
 bimetallic
 bicentrically
 bigential
@@ -14123,7 +14123,7 @@ blot 1
 babbage 1
 blasters 1
 butsudan 2
-brekkle
+brekkle 1
 bumbaze 2
 brighteyes 2
 birdlore 1
@@ -14821,7 +14821,7 @@ ballooner 3
 bombable
 burgheress 2
 baru
-brava 3
+brava 4
 bylines 2
 backropes 1
 bedraggled
@@ -15542,7 +15542,7 @@ brynhild 1
 burn 2
 blist
 barbes 1
-bebar 2
+bebar 3
 boyce 1
 burin 1
 butlerdom 1
@@ -15929,7 +15929,7 @@ broomball
 bansela
 beshower 2
 bethumb 1
-beehouse 2
+beehouse 3
 bicorporeal
 barbaralalia
 bromized 2
@@ -17815,7 +17815,7 @@ bubby 3
 bursch
 bianisidine 1
 becompass 4
-belord 2
+belord 3
 bloviates 1
 brocade
 brachistocephalous 2
