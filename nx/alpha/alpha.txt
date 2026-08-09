@@ -1253,7 +1253,7 @@ airlike
 acanthopterygian
 adversed
 aucubas
-acromia
+acromia 1
 acanthopterygii 1
 archeus 1
 acanthuridae
@@ -17920,7 +17920,7 @@ approach 2
 aristodemocracy
 anthracotheriidae 1
 approachable 3
-approached
+approached 1
 administration
 amphirhine
 amblypod 2
@@ -21941,7 +21941,7 @@ austerus 2
 associativeness
 appending
 amplify
-associativity 2
+associativity 3
 adicity
 articulating 1
 anathemata
@@ -24626,7 +24626,7 @@ affich
 amicicide 2
 avantage
 avaram
-avaremotemo 2
+avaremotemo 3
 alouatte
 abscesses 2
 acroterium
