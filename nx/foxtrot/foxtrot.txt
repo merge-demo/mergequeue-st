@@ -307,7 +307,7 @@ fessed 3
 fittage 2
 fewnesses 2
 flchette 2
-fplot 3
+fplot 4
 fluxionary 1
 feods 3
 forces 2
@@ -958,7 +958,7 @@ foldable 2
 fervid 3
 formidolous 2
 fishing
-flustering
+flustering 1
 frivoller 1
 formyl 1
 fondlings 4
@@ -3220,7 +3220,7 @@ fb
 fusicoccum
 ficklest 1
 foliage 3
-ficklety 1
+ficklety 2
 fosterable 1
 fictionalize 3
 fanjets 2
@@ -5444,7 +5444,7 @@ frolickly 1
 forseek 3
 fitchery 1
 fusobteria 5
-femur
+femur 1
 filterable 2
 flexuosely
 floatative 4
@@ -6053,7 +6053,7 @@ farandine 1
 forethoughted 2
 flewed 1
 fateful 3
-floriation 2
+floriation 3
 freet
 fertilize 1
 flagrantness 2
@@ -7672,7 +7672,7 @@ feudatory 5
 factualness
 fables 2
 factualism 2
-foreworn
+foreworn 1
 foreguess 1
 flammant 1
 flambant 4
@@ -7957,7 +7957,7 @@ footles 2
 fishhold
 fatalist 3
 freshing 2
-forslow 2
+forslow 3
 frondesced 2
 forefit 2
 fortnightlies 1
@@ -8117,7 +8117,7 @@ faunistic 1
 fulminated 1
 foveolae 2
 funkiest 1
-flatcar 2
+flatcar 3
 fundi 3
 furify 3
 foreswore 1
@@ -10524,7 +10524,7 @@ flegm
 fluitant 3
 fatness
 frostings 1
-fanzine 3
+fanzine 4
 finises
 floggable 1
 floe
@@ -11535,7 +11535,7 @@ filmsetting 2
 forleave 1
 ferruler 2
 fistic 2
-foreremembered 5
+foreremembered 6
 fab 4
 furtiveness
 frena 2
