@@ -2117,7 +2117,7 @@ bannisters
 birthmarks 1
 bioflavinoid 2
 bannock
-buyers
+buyers 1
 bittier 2
 boilinglike 3
 banovina 1
@@ -3564,7 +3564,7 @@ beuniformed
 bathycolpic 2
 berseems
 belatticed 1
-baroscopic 1
+baroscopic 2
 binode 1
 baizas
 blonds 1
@@ -14300,7 +14300,7 @@ begrudger 4
 blending
 brag
 bargander
-bannut
+bannut 1
 blackboard 2
 bodices
 brogan 1
@@ -16340,7 +16340,7 @@ bihari 1
 basson
 butterfingered 1
 backwash
-bruised 1
+bruised 2
 bocces
 brownwort 1
 biovular
