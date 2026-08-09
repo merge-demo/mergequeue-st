@@ -2813,7 +2813,7 @@ gether 1
 genu 1
 grillers 2
 gastrosophy
-gynaecic 3
+gynaecic 4
 geogenous
 gater 1
 goutweed
@@ -3942,7 +3942,7 @@ gnomological 2
 guatuso
 gearksutite 3
 gonepoietic 1
-galliasses 2
+galliasses 3
 gamari 2
 germanish 2
 galvanograph 3
@@ -5163,7 +5163,7 @@ gemara 5
 gentianose 4
 gena 1
 geogenesis
-grottesco
+grottesco 1
 geometricism 4
 gymnanthous 2
 guiler 3
@@ -5699,7 +5699,7 @@ gestning
 gelts 4
 glycoluril
 guardeen
-guttule 2
+guttule 3
 gaslit 2
 ghillies
 glamberry
@@ -6085,7 +6085,7 @@ gude 1
 galga 1
 guffy
 geogen 1
-guessworker 2
+guessworker 3
 gravities 2
 goodby
 gordiacean 3
@@ -6298,7 +6298,7 @@ gullible 3
 gall 3
 gigartinaceous 3
 gargantua 1
-gauster 3
+gauster 4
 globetrotters 1
 greyskin 3
 geophysics
@@ -7127,7 +7127,7 @@ gastrocystic 2
 goran
 gynecolatry
 gremio 2
-gagtooth 2
+gagtooth 3
 gorblin 1
 gorcocks 2
 gypsylike
@@ -8212,7 +8212,7 @@ galeodidae 2
 granogabbro 2
 gentlemanlike 2
 galwegian 1
-glycogenetic
+glycogenetic 1
 gabbed
 gracilaria
 gigabit
@@ -10142,7 +10142,7 @@ gervao 3
 gloried 4
 glideness 1
 guardianly
-git 2
+git 3
 gingely 2
 grown 3
 grandstands 1
@@ -10300,7 +10300,7 @@ gildsman 3
 gnetaceae 2
 ghettoing
 guichet 2
-gnathions 1
+gnathions 2
 gimper 5
 gametic
 gearshift
