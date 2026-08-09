@@ -188,7 +188,7 @@ debitumenize
 duplify 1
 dealfish
 daemons
-daemonurgist 2
+daemonurgist 3
 defecant
 dysgenic 2
 disciplinarianism 1
@@ -1855,7 +1855,7 @@ drugmaker 1
 daphnetin 2
 decriminalize 2
 defeudalize
-debilitates
+debilitates 1
 detoxication
 dermatoglyphics 1
 devirginator
@@ -8630,7 +8630,7 @@ diarrhoetic 1
 diarthric
 dorsocervical 1
 diarticular 1
-dimeter
+dimeter 1
 dias 2
 depertible 1
 dermatographia
@@ -9296,7 +9296,7 @@ disploded 1
 decolorant 1
 dietitians 2
 deistic 1
-dilatory 1
+dilatory 2
 disconformities 1
 dietotherapy
 detersive 2
@@ -11054,7 +11054,7 @@ delousing 1
 dipter 1
 disillusioned
 doppelkummel 3
-demonetisation 1
+demonetisation 2
 dirt
 denitrified 3
 dandyling 3
@@ -13250,7 +13250,7 @@ disportment 1
 ditali 2
 dangerfully 2
 decohesion
-disposedness
+disposedness 1
 disposement 1
 demising
 disposers 1
@@ -17728,7 +17728,7 @@ dhauri
 dubb
 deferentitis 4
 demidevil 1
-dilemmic 1
+dilemmic 2
 dullhearted 1
 dynamometer 1
 dotal 1
@@ -17799,7 +17799,7 @@ demythologize 2
 disincorporate 1
 dwining 2
 dopesheet 1
-disembroil
+disembroil 1
 democrats 1
 dioramas 3
 duikerbok 1
