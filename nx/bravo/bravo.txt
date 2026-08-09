@@ -1398,7 +1398,7 @@ blots 1
 baldhead 1
 bilestone
 baldheads 2
-bilcock
+bilcock 1
 borneols 3
 beblain 1
 bushings 2
@@ -2256,7 +2256,7 @@ bandgap 1
 barbara 1
 barbary 1
 blastier 1
-bast
+bast 1
 ballism 3
 bridgebote 3
 barrancas 1
@@ -2931,7 +2931,7 @@ brocard
 bioenvironmentaly 3
 blind 1
 benefactor 2
-begorra
+begorra 1
 bureaucratize 1
 barreling 1
 bibaciousness 1
@@ -3832,7 +3832,7 @@ baulked 4
 bearbane
 bookfair
 bequeaths
-behight
+behight 1
 biracial
 broccoli 1
 boarfishes 2
@@ -5862,7 +5862,7 @@ blebby 1
 bellmanship
 briners 1
 braggingly 1
-boracite 1
+boracite 2
 buttstock
 batholith 4
 bidactyle 2
@@ -6082,7 +6082,7 @@ biochemistries 2
 benasty 2
 beholdable 2
 bedrift 1
-buccinidae
+buccinidae 1
 bataan 2
 boarskin 2
 binauricular 1
@@ -6463,7 +6463,7 @@ boschbok
 basidiogenetic 1
 bedrocks 1
 baccate
-broached 1
+broached 2
 bletted 1
 behaviorist 1
 burge
@@ -14550,7 +14550,7 @@ busybodied
 binman 1
 branchiness 1
 beglobed 1
-butterburr 3
+butterburr 4
 braziery 1
 blackcurrant 1
 betrail
@@ -15392,7 +15392,7 @@ blaeness
 buggiest 1
 briered 1
 brandless
-brainwasher
+brainwasher 1
 bagatelles
 brierroot
 butterfingers
@@ -16748,7 +16748,7 @@ butterwoman 1
 buckwheats
 brazilin
 bemuddy
-bucolically 2
+bucolically 3
 bucolicism 1
 ballett
 bucorvus 1
@@ -17565,7 +17565,7 @@ burgality
 beaufort 1
 bouses 3
 blackpoll
-burgall
+burgall 1
 biddance
 burgamot
 betrace 1
