@@ -179,7 +179,7 @@ finitary 1
 factoryship
 floatiness 2
 foment 2
-flashily
+flashily 1
 feuar
 florin 2
 folletage 3
@@ -9890,7 +9890,7 @@ friskle 3
 foreappointment
 fricandeaux 3
 fuliginously
-foozlers
+foozlers 1
 famishing 2
 footcloths 1
 frogeye 1
@@ -11538,7 +11538,7 @@ fistic 2
 foreremembered 6
 fab 4
 furtiveness
-frena 2
+frena 3
 foxfeet 2
 fuselages
 fuselike

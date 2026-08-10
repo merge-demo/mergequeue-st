@@ -380,7 +380,7 @@ daimyo
 dawdlers 2
 dihydrated 1
 denaturalisation
-dreadness 1
+dreadness 2
 dadap
 daimyos 1
 drinkers 2
@@ -6960,7 +6960,7 @@ dipleuric
 desertness 1
 disqualifying
 distills 1
-demonisms 2
+demonisms 3
 disshroud
 despisingly 1
 draco 1
@@ -10442,7 +10442,7 @@ disinflame 1
 dow 1
 douzainier 1
 diplomatism 1
-demibath 1
+demibath 2
 diphonia
 dismiss 1
 drowsy 1
@@ -14766,7 +14766,7 @@ deplaster 2
 dodonaea 1
 dilatancy 3
 discutable 1
-docker 1
+docker 2
 disaccharidase
 docket 1
 devouring 1
@@ -15027,7 +15027,7 @@ doggers 1
 dilogarithm 1
 democratized
 doggy
-doughboy
+doughboy 1
 drapet
 dyn 1
 dhamma 2
