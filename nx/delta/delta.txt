@@ -75,7 +75,7 @@ darndests
 deerskin
 dacoiting 3
 delbert 1
-depressibility 2
+depressibility 3
 debilitating 1
 dactylion 1
 dobbin 1
@@ -428,7 +428,7 @@ deadlier
 drinker 1
 dairywomen
 daunder
-dayrooms
+dayrooms 1
 dorsad
 dhourra
 discoursers 1
@@ -1221,7 +1221,7 @@ depressive 2
 developoid 1
 dextrans
 datary 1
-dataries 2
+dataries 3
 dendrium 1
 deinsularize 1
 datasetname
@@ -2750,7 +2750,7 @@ despited
 dihydrate 1
 dahomeyan 1
 decrassified 1
-daun
+daun 1
 draughtiness 4
 dian
 dreche 1
@@ -4337,7 +4337,7 @@ deflagrate 3
 druggeting
 demigriffin
 disfranchisement 2
-drused 1
+drused 2
 demasting 1
 dematerialised
 divinified 1
@@ -4736,7 +4736,7 @@ dejected
 diabolatry
 disgracing 1
 dangs
-dpt 2
+dpt 3
 dilated
 detours 1
 dismisser
@@ -4863,7 +4863,7 @@ discage
 diluting
 deigns 5
 diminuendo 2
-demonologer 1
+demonologer 2
 demonology
 demonologically 5
 disluster
@@ -6222,7 +6222,7 @@ dizaine 2
 dermatatrophia
 discretely
 dodonaena
-denationalisation
+denationalisation 1
 diabolize
 dermatic 1
 dermatitises
@@ -8779,7 +8779,7 @@ dictaphone 4
 dequeen 1
 dragsmen
 depeter
-dragonkind 1
+dragonkind 2
 diestruses 1
 deftness 1
 dinettes 2
