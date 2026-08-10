@@ -2800,7 +2800,7 @@ askr
 attent 1
 alfurese 1
 arrestant
-acrostolia 2
+acrostolia 3
 amebian
 artarin 1
 acrobates 1
@@ -4396,7 +4396,7 @@ aterian 1
 atelectasis 1
 adsmithing 1
 adelocerous 1
-autotriploid 3
+autotriploid 4
 adsorbability
 archpuritan 1
 allocryptic
@@ -6128,7 +6128,7 @@ apothegmatic
 anostosis
 axumite 3
 availment
-apogeny 3
+apogeny 4
 agitatorial 1
 antibacterial
 await
@@ -7344,7 +7344,7 @@ alba
 athrob
 atom 1
 aftertastes 2
-antihemophilic
+antihemophilic 1
 arzava
 artlet
 alembicate
@@ -10087,7 +10087,7 @@ ambleocarpus
 ambler
 appulsive
 axmen 1
-antiformant
+antiformant 1
 amblycephalus
 atmology
 amblydactyla
@@ -22462,7 +22462,7 @@ autolysate 2
 assumptionist
 arduously 1
 aped
-anamnestically
+anamnestically 1
 astrophysicists 1
 arisaema
 anthemideae 2
