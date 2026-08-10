@@ -1701,7 +1701,7 @@ genotypes 2
 gastriloquous
 guldens 2
 garotting 2
-gastronosus 1
+gastronosus 2
 goofier
 gammon
 galleon 1
@@ -3877,7 +3877,7 @@ guidance 2
 ghat 3
 geomorphy 2
 goldney
-gnoff 2
+gnoff 3
 gladatorial 2
 gigatons 1
 gastroschisis 2
@@ -4278,7 +4278,7 @@ greing 2
 gouging 2
 gurgulio 1
 gingersnaps
-gingerspice 1
+gingerspice 2
 greenable 3
 gleefulness
 girthed
@@ -4292,7 +4292,7 @@ glittersome 3
 ganancial 2
 gigerium
 glycogeny 2
-gashy 2
+gashy 3
 gelatiniser 2
 gutlike 1
 gastrocoloptosis 2
@@ -4407,7 +4407,7 @@ guapinol 3
 gundog 2
 generaliter 1
 greffier
-graveyard 3
+graveyard 4
 gipsydom 1
 giddyhead 1
 gepoun 1
@@ -4921,7 +4921,7 @@ gauging 2
 gymnospermal 3
 gallantize 2
 gyrenes 1
-gingelis 1
+gingelis 2
 glomeruli 4
 germanization 2
 genom 5
@@ -9956,7 +9956,7 @@ gazetted 2
 gamasoidea
 guaiocums 1
 groset 2
-glossmeter
+glossmeter 1
 groundman 1
 guatibero
 grysbok 1
