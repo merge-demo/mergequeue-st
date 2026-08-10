@@ -11020,7 +11020,7 @@ bladelike
 bullyrags
 beswitch
 bromoethylene 2
-brassia 1
+brassia 2
 breading
 blk
 birri
@@ -11116,7 +11116,7 @@ bodikin
 backbreaking 1
 barbero 1
 beshrouds
-berengena
+berengena 1
 bidpai
 blomstrandine 3
 blond 1
@@ -13050,7 +13050,7 @@ berger 1
 bordeaux 1
 blancard 1
 biennials 1
-besteading
+besteading 1
 blackberry
 bucking 1
 bordering
@@ -14390,7 +14390,7 @@ burry 1
 braies
 bleeping 1
 busticate 2
-bewared 1
+bewared 2
 bugseed 1
 briefers 1
 brayette
@@ -15593,7 +15593,7 @@ beavers
 brewsterite 3
 barbacan 2
 brises
-brisker
+brisker 1
 buttonmould
 biosystematic
 broadcasted
@@ -16661,7 +16661,7 @@ burros 1
 balconette 1
 bught 1
 buck 2
-bayamo
+bayamo 1
 buckaroo 1
 bolshy
 bombazet
