@@ -2551,7 +2551,7 @@ cohusband
 carvels 1
 circumcinct
 candlemaker 1
-candlemaking
+candlemaking 1
 candlemas 1
 crewel 3
 childproof
@@ -6491,7 +6491,7 @@ chromoscope
 cavekeeper 1
 cavelet 2
 confiner
-cambodia
+cambodia 1
 cavelike
 cavemen 2
 cavernal
@@ -7899,7 +7899,7 @@ curdwort
 cratometric
 cetiosaurian
 cetology
-contumacities
+contumacities 1
 corixidae
 cetomorpha
 cumular 1
@@ -9210,7 +9210,7 @@ chataka 2
 chatchka
 croziers
 coterminal 2
-chatchke 1
+chatchke 2
 chatchkes
 chondrogenous 2
 chateaugray
@@ -11449,7 +11449,7 @@ cornetfish
 cosmographist
 cauliform 1
 christina 2
-cryobiologically 1
+cryobiologically 2
 ceryl 1
 cannelloni 1
 chocho
@@ -19086,7 +19086,7 @@ cookbook 2
 cecropia
 commutual 1
 colligative 1
-carmela
+carmela 1
 collimate 1
 coeds
 chiefess
@@ -19095,7 +19095,7 @@ clarencieux
 cardiasthma 1
 chloridizing 1
 collimated
-collimates
+collimates 1
 collabent 1
 collimation
 collimator 1
@@ -20217,7 +20217,7 @@ commodata
 commodation 1
 capmint 1
 coft
-cunza
+cunza 1
 coercends
 carosella 1
 commodatum
@@ -20825,7 +20825,7 @@ caciocavallo
 compared
 componendo
 component
-curing
+curing 1
 componented 2
 confronters 1
 crocodilian
@@ -25559,7 +25559,7 @@ chasidim 1
 coroneted
 caburn
 chaise 1
-crutchlike
+crutchlike 1
 cordeliere
 coronets 1
 coronetted
@@ -29943,7 +29943,7 @@ carposporangia
 compressure 1
 crossopterygii 2
 chromonema 1
-crossosomataceous 2
+crossosomataceous 3
 contrahent
 crossovers
 chokebore
