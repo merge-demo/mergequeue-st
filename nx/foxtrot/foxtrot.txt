@@ -2705,7 +2705,7 @@ faithing
 factioneer 2
 fungused
 faradopalpation 1
-firebird 1
+firebird 2
 fluorobenzene
 feigher 1
 flaggella 2
@@ -3992,7 +3992,7 @@ forlay 1
 flunk 4
 ferric 2
 furazolidone 2
-fender 4
+fender 5
 fluorosis 1
 fumblers 1
 foramina 2
@@ -4583,7 +4583,7 @@ frees 3
 fesswise 1
 fringilliformes 1
 foliages 2
-fissidens 1
+fissidens 2
 feetage
 fossilify 2
 fisheye 1
@@ -4949,7 +4949,7 @@ facedown 1
 fraunch 4
 flameout 3
 foreappoint 3
-fourflushers 2
+fourflushers 3
 flameouts 2
 fictileness
 forbiddingness 1
@@ -6080,7 +6080,7 @@ feringhee 1
 ferrivorous 1
 fizzling 3
 frecken 2
-faculty
+faculty 1
 fingerhook
 fleckier 1
 footpace 3
@@ -6585,7 +6585,7 @@ flunkeyism 1
 feltness 1
 frounce 1
 foamflower
-firework 1
+firework 2
 floriculturally
 fullness 2
 fettled
@@ -9095,7 +9095,7 @@ farther 1
 factorized 2
 fib 3
 frumentaceous 1
-flotsan 1
+flotsan 2
 flashbacks
 fix 2
 fractionalize
@@ -9163,7 +9163,7 @@ fastigiated 1
 floozies
 fr
 flintlike 1
-furdle 4
+furdle 5
 funambulated
 faulkner 1
 frizzers
@@ -9662,7 +9662,7 @@ featherbone 1
 foodlessness 2
 flytime 2
 forlet
-freeholdership
+freeholdership 1
 feeders 2
 falcata
 ferias 3
@@ -10913,7 +10913,7 @@ finished 2
 fucused
 forthcoming 3
 foraminous 2
-fractural 1
+fractural 2
 ferrum
 ferris 2
 fulled
@@ -11056,7 +11056,7 @@ filiferous 2
 frontignac
 fraction 3
 fumarate 1
-fantasizing 1
+fantasizing 2
 flammulated 1
 foothook
 fontainea 1
@@ -11655,7 +11655,7 @@ furbishing 1
 filamented 3
 funerealness 1
 fusus 2
-feedlot
+feedlot 1
 fanion 1
 filoselle 3
 foretalking
