@@ -363,7 +363,7 @@ galaxian
 gildedness 3
 gley 1
 graphed 5
-graphium 1
+graphium 2
 gorefish 4
 gangrenous 1
 gunsmith
@@ -1561,7 +1561,7 @@ gismos 1
 globicephala 1
 gymnura
 gauntlet 1
-gutteral
+gutteral 1
 gulanganes 1
 galleria 2
 gastrostomize 2
@@ -4151,7 +4151,7 @@ gimpier 2
 guidable 2
 galactolytic
 gliosa
-gigantosaurus 2
+gigantosaurus 3
 ghibelline 1
 gynaecium 1
 gunned
@@ -4171,7 +4171,7 @@ geysers 1
 gastrulas
 gynandria
 gladiators 2
-gunated 1
+gunated 2
 globefishes
 glairiness
 grovelling 2
@@ -5027,7 +5027,7 @@ gaggled
 gutturalness 2
 grasni 2
 ganodont 1
-guddler
+guddler 1
 garterless 2
 glassines
 galloping 3
@@ -5146,7 +5146,7 @@ gumboots
 gonystylaceous
 gracility
 gopura 1
-geognosist
+geognosist 1
 gleamily 3
 gabble 2
 gharial
@@ -5214,7 +5214,7 @@ goatish 1
 gelsemiums
 glenohumeral 3
 genomes 3
-grouted 2
+grouted 3
 garnets 1
 grosgrained 3
 guitarfish 1
@@ -5378,7 +5378,7 @@ groundflower 3
 gumchewer 1
 gour
 grandmotherliness 2
-gimble 2
+gimble 3
 gangplank 2
 gender 3
 gorbelly 1
@@ -5873,7 +5873,7 @@ glucoses 1
 glances 1
 glucoside 2
 goshawk 1
-grandparents 2
+grandparents 3
 gestening 1
 galvaniser 1
 gynephobia 1
@@ -6125,7 +6125,7 @@ gns 2
 gatefolds 4
 goobers 4
 gamings 1
-globical 2
+globical 3
 glavered 1
 gelotoscopy
 gardy 2
@@ -6267,7 +6267,7 @@ graecian 1
 gyroidal 2
 grundyist 1
 galop 2
-genion 1
+genion 2
 governessy
 gobbles 2
 glaucescent 2
@@ -7058,7 +7058,7 @@ grayly 2
 gliocyte 4
 gynaecologist 2
 gutturopalatal 1
-gelidity
+gelidity 1
 ganglioneure 1
 goosegog 1
 guignardia
@@ -7396,7 +7396,7 @@ gossips 2
 gestor
 glomerule 1
 gilthead 1
-glyptograph 1
+glyptograph 2
 ganglioneuroma 1
 gallach 1
 gynostemia 4
@@ -9359,7 +9359,7 @@ glandered 2
 gyrostat 2
 gimmick 1
 gonocoel
-gravestones 2
+gravestones 3
 groop 3
 gallerygoer
 gluiest 2
@@ -10205,7 +10205,7 @@ generaliser 1
 grippers 1
 guzzled 2
 guile 3
-gyrectomies
+gyrectomies 1
 galluses
 groundsel 3
 gastradenitis 3
@@ -10771,7 +10771,7 @@ glycerins
 grouchiness 1
 giber 1
 generation 2
-gutbucket 3
+gutbucket 4
 ganoin 2
 graminin 4
 gastroenteric 1
