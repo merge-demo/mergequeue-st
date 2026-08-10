@@ -5764,7 +5764,7 @@ catchline
 catchphrase
 cocona 1
 cynoscion
-commation
+commation 1
 catchpoll 1
 catchpolling 1
 copperheads 1
@@ -6869,7 +6869,7 @@ clonks 2
 cloze
 celsian
 cashbox 2
-celt
+celt 1
 cofaster 1
 celtiberian
 celticize 1
@@ -8916,7 +8916,7 @@ censers
 chemisms 2
 chargable 1
 combmaker
-charge
+charge 1
 chargeable
 ciphertext
 clements
@@ -11212,7 +11212,7 @@ charquid
 chloranthus 1
 chlorate
 chlorcosane
-chlordans
+chlordans 1
 costotransversal 1
 canoodle
 copyholding 1
@@ -12167,7 +12167,7 @@ chrysalises
 cardiaplegia 1
 chrysaloid 1
 chrysammic
-constances 1
+constances 2
 clonk
 copyholders
 chrysamminic 1
@@ -12277,7 +12277,7 @@ circumconic
 compensative
 cholonan 1
 civilize 1
-capilotade 1
+capilotade 2
 cresylite 1
 christen 2
 christendie
@@ -21656,7 +21656,7 @@ curuminaca 1
 circumspectly 1
 condylarthra
 condylectomy
-condyles
+condyles 1
 crimsony
 clubbers
 cariacus
@@ -23213,7 +23213,7 @@ cardioscope
 constrict 1
 claudio
 castors 1
-chocard 2
+chocard 3
 consperg 1
 cromlechs
 crakefeet
@@ -24881,7 +24881,7 @@ capilliform 1
 cookware
 consularity 1
 coracomorph 1
-curbash
+curbash 1
 coracomorphae
 chrysopoeia
 cymars
@@ -24932,7 +24932,7 @@ carminatives
 caterans 2
 craniacromial 1
 cephadia
-codices
+codices 1
 continuousness 1
 corallum
 copywise
