@@ -17337,7 +17337,7 @@ coreceiver
 cimline 1
 coassist
 coassistant 2
-culpas
+culpas 1
 cupola
 coassume
 crystallic 1
@@ -19092,7 +19092,7 @@ coeds
 chiefess
 cabalism
 clarencieux
-cardiasthma
+cardiasthma 1
 chloridizing 1
 collimated
 collimates
@@ -21607,7 +21607,7 @@ condensedness 1
 condensers 1
 condenses 2
 cypraeidae 2
-cooba
+cooba 1
 committeeman
 cabineted 1
 camphorating 1
@@ -27253,7 +27253,7 @@ counterwork
 counterworker
 counterworking
 committee 1
-carminative
+carminative 1
 counting 1
 clothespress
 countywide
