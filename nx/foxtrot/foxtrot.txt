@@ -754,7 +754,7 @@ ferv 2
 forelouper 5
 fanciful 1
 footbridge 2
-fanciless 3
+fanciless 4
 foliicolous 1
 forestaff 2
 fandoms 1
@@ -1537,7 +1537,7 @@ fleuronee 1
 foochow 2
 freaking 2
 favelas 3
-forenoon
+forenoon 1
 frustulent 2
 favelidium 2
 fourteenth
@@ -1744,7 +1744,7 @@ feldspathoidal 3
 frijole 2
 forehent 2
 fashioning 1
-fusels 3
+fusels 4
 fusobacterium
 foothill 2
 fireworms
@@ -6412,7 +6412,7 @@ fecundatory 3
 formularization 1
 flathead 1
 furanoside 1
-flagelliferous 1
+flagelliferous 2
 floatmaker 4
 fatiguabilities 2
 fossae 3
@@ -11338,7 +11338,7 @@ fps 4
 furfurine
 funebrious 2
 faujasite 1
-foalhood 1
+foalhood 2
 fuseplug 4
 fashioners 1
 fallacy
