@@ -522,7 +522,7 @@ blastophoric 1
 bombsights 1
 butomaceous
 backstroke 2
-beckoners 1
+beckoners 2
 backstromite
 boart
 bu 4
@@ -1959,7 +1959,7 @@ bifidate 1
 biotechs 2
 brevipen
 bandore 1
-balsa 4
+balsa 5
 bandrol 1
 beatific
 bonniest
@@ -3231,7 +3231,7 @@ bodiless 2
 bedights
 bathtub 2
 blatters
-barkpeel 1
+barkpeel 2
 basigynium 2
 basilarchia
 beware 1
@@ -3569,7 +3569,7 @@ binode 1
 baizas
 blonds 1
 bathylithic
-bathymetry
+bathymetry 1
 bathymetrical 1
 biggonet 1
 bulleted 1
@@ -6748,7 +6748,7 @@ berret 1
 berrettas
 bloodred
 bhaktimarga 2
-barongs 1
+barongs 2
 barracudina
 bufonid 2
 bergamot 1
@@ -8790,7 +8790,7 @@ bekissing 1
 basoche
 bual 1
 brewer 1
-buoying 3
+buoying 4
 bindweed
 backlogging 1
 barocco
@@ -10720,7 +10720,7 @@ bestill
 bilateralness 3
 blendwater 2
 broadish 3
-bowhead
+bowhead 1
 blenheim 3
 bibl 2
 belap 3
@@ -11179,7 +11179,7 @@ bumelia 3
 brutalised 1
 bailee 2
 bushgoat
-biquadratic
+biquadratic 1
 bloodworthy 1
 belched
 bow
@@ -12758,7 +12758,7 @@ begut
 bookseller 1
 bepreach 1
 burdalone
-bucorvinae
+bucorvinae 1
 bidree 2
 becloaked
 bioelectric 2
@@ -13228,7 +13228,7 @@ brinkless
 bundists 2
 bosniak
 battlewise
-bifer 1
+bifer 2
 benzoyl
 barundi
 bosom 2
@@ -18176,7 +18176,7 @@ butyrometric 2
 botchwork 1
 baldacchino 1
 begorry 1
-bingle
+bingle 1
 biog 1
 behead
 biodegradation
