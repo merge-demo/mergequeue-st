@@ -2240,7 +2240,7 @@ feticidal 6
 forgetting 1
 fracture
 filtrated
-fec 2
+fec 3
 filesave 1
 fainaiguer 1
 femora 3
@@ -6881,7 +6881,7 @@ footings
 fretways 1
 finance 3
 failing 4
-frustratingly
+frustratingly 1
 flaggings 3
 figurist 2
 foreween
@@ -7904,7 +7904,7 @@ forjesket 2
 factiousness 3
 franklinia 1
 foreruns 1
-flacket
+flacket 1
 frightenable 1
 frottole 4
 fistful 2
