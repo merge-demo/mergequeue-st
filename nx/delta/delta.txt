@@ -1804,7 +1804,7 @@ detaining 3
 dropseed 2
 drawknife
 debarking 1
-digamist 1
+digamist 2
 dishpanful 1
 discede 3
 dwelled
@@ -2674,7 +2674,7 @@ dialectics 2
 disuniter
 decongestant
 deltoidei 1
-deconsecrate 2
+deconsecrate 3
 duels 1
 dareful
 deconsecrated
@@ -5541,7 +5541,7 @@ dolichopellic 1
 dependence 1
 desensitizes 2
 dependingly 1
-drouthiness 2
+drouthiness 3
 depends 4
 dallack 5
 dispersed 1
@@ -6274,7 +6274,7 @@ drossy 2
 dial 3
 defender 2
 dendrolatry 1
-dicranaceae 2
+dicranaceae 3
 dorsabdominally 1
 domiciling 2
 dermatosclerosis
@@ -8548,7 +8548,7 @@ deobstruent 2
 distritbuted
 dermographia
 dracontiasis
-distream 4
+distream 5
 druggists
 diaphone 2
 demilitarising 1
@@ -10119,7 +10119,7 @@ dindon 1
 doodled 1
 dimidiated
 digestive
-dirts 1
+dirts 2
 dip
 disrooted 2
 discurrent 2
@@ -10338,7 +10338,7 @@ douziemes
 diophantine
 dowsing 3
 dentata 3
-diurons 2
+diurons 3
 doyle 1
 derelictly 1
 degeneracy 1
@@ -11451,7 +11451,7 @@ discolored 2
 dar
 doest 2
 deads 1
-drivellers 1
+drivellers 2
 discolorment 1
 discolouring 1
 discourt 2
@@ -12993,7 +12993,7 @@ dottrel 1
 didric
 diastematomyelia
 disorients 2
-dysoxidation 2
+dysoxidation 3
 dollarfishes
 disoxygenation 2
 dioscuri 1
@@ -13917,7 +13917,7 @@ desmognathae 2
 distillator
 danebrog
 distillatory 2
-distillery
+distillery 1
 deodand
 daemonian
 discoboli 2
@@ -16175,7 +16175,7 @@ dispersions 2
 dertra 2
 degas 1
 droplet 1
-desalinized 1
+desalinized 2
 deweylite
 dowdy
 distent 2
@@ -17538,7 +17538,7 @@ drugger 2
 dezinkify 2
 detoxified 1
 druggery 1
-druggets
+druggets 1
 dendroidea
 doorhawk
 drawability
