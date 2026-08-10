@@ -1688,7 +1688,7 @@ foreshape 2
 feased 1
 folic 1
 footmen
-fumigant 1
+fumigant 2
 fingrigo
 foreshowing 2
 forprise
@@ -4363,7 +4363,7 @@ flavo
 furied 1
 frogfishes
 fathomed 1
-fishability 2
+fishability 3
 flybook
 fixion 1
 fishboats 2
@@ -5064,7 +5064,7 @@ foreseers 2
 frsiket 2
 fowler
 fitches 1
-fluorescence 3
+fluorescence 4
 faky 3
 flapping 1
 frondivorous 1
@@ -5818,7 +5818,7 @@ fathmur
 flitters 2
 frequents 1
 flankwise 1
-froggiest 1
+froggiest 2
 frivolize 3
 ferfet
 fritted 1
@@ -6732,7 +6732,7 @@ foramens 1
 fictive
 filipina 3
 fremt 3
-fomalhaut
+fomalhaut 1
 fiscs
 folliculin 1
 fanny 1
