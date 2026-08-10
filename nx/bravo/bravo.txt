@@ -790,7 +790,7 @@ buba
 bat 1
 brushcut
 bygoing 3
-banket 2
+banket 3
 badmouthed 3
 burled 1
 bullfrog
@@ -5421,7 +5421,7 @@ bronchium 1
 behaver 2
 bicollateral
 behaving 1
-brainteasers
+brainteasers 1
 brakes
 bathylimnetic
 boshvarks 1
@@ -5951,7 +5951,7 @@ bedroom
 bufagin
 bangalay
 bude 1
-benumbing 3
+benumbing 4
 battiness 2
 backrest 1
 beltless
@@ -6595,7 +6595,7 @@ backsplice 1
 boninesses 1
 boastings
 basioccipital 1
-berengaria
+berengaria 1
 bicolourous
 bronchioles
 brachinus
@@ -11501,7 +11501,7 @@ bizzarro 1
 backwinding
 beachie
 bluffer 1
-billycan 1
+billycan 2
 befretted 1
 botryllidae
 bluffest 2
