@@ -10269,7 +10269,7 @@ excluded
 enspangle 1
 effodientia 2
 elasticizer 3
-eulogium
+eulogium 1
 excipulum 2
 experimentize 3
 entrapper 1
@@ -10361,7 +10361,7 @@ enalite 1
 earshots
 enrapturer 1
 enthuses 3
-epistolary
+epistolary 1
 ethnozoology 1
 evolvers 2
 ethography 2
@@ -11103,7 +11103,7 @@ exulceratory
 empower 1
 ekacaesium 2
 epistemolog
-expatiatingly 1
+expatiatingly 2
 epiglottal
 extravasation
 endosporium 2
@@ -13622,7 +13622,7 @@ embroiders 2
 epoxides 2
 elementally 1
 excern 2
-enteroceptor 1
+enteroceptor 2
 endosteomas 5
 extance
 extemporally 1
