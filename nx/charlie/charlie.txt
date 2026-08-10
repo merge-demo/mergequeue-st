@@ -15397,7 +15397,7 @@ cautio 1
 cabins
 carburetting 1
 claptraps
-culbuter 1
+culbuter 2
 claque
 candescently 1
 calipering
@@ -15948,7 +15948,7 @@ chouquette
 clementine
 culverfoot
 clerical 1
-clericalists
+clericalists 1
 crumbum 1
 clericality 1
 clericals 2
@@ -17707,7 +17707,7 @@ cocoach 1
 cte
 chessboards
 campuses
-cashier 3
+cashier 4
 cocoanut
 chasing 2
 cocoawood
@@ -28360,7 +28360,7 @@ crawberry
 crawdad
 crawdads
 collector 1
-crawfishing
+crawfishing 1
 corviform
 crawl 1
 cashdrawer 1

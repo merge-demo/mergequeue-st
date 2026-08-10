@@ -1674,7 +1674,7 @@ grandly
 gliosis 1
 gastrograph 2
 gamebag 3
-gazetteerish
+gazetteerish 1
 gane 4
 grassquit 2
 grooved 1
@@ -2829,7 +2829,7 @@ gullish 4
 genuflects 3
 glanduliform 4
 glossiphonidae 2
-geol 1
+geol 2
 guilefulness 1
 ganglionic 3
 gyrate 2
@@ -9302,7 +9302,7 @@ galactophagous 3
 gunj
 guidebook 1
 gasogenic 3
-gi 4
+gi 5
 geodynamicist
 glummest 1
 grapeline 2
@@ -10124,7 +10124,7 @@ goldenhair 2
 gastriloquy 1
 gynecocracy 1
 galways
-guerrila
+guerrila 1
 gurgling 1
 guller 1
 glareless 1
@@ -10250,7 +10250,7 @@ gamodemes 1
 greyback 1
 getid 3
 grotianism 3
-gempylid 2
+gempylid 3
 gemelled 1
 gutturalization 2
 groaningly 1
