@@ -3374,7 +3374,7 @@ foreyards
 fastigate
 forcut 1
 fopling 3
-fossilification
+fossilification 1
 flappering 3
 ferr 1
 fishermen 1
@@ -4009,7 +4009,7 @@ fadmongery
 festin 1
 federalised 1
 forehorse 3
-fluoaluminic 4
+fluoaluminic 5
 felicific 3
 facades 1
 forwean 3
@@ -4204,7 +4204,7 @@ fumigate 2
 finialed 2
 fragmentally 2
 flagrant 3
-fibrilliform 1
+fibrilliform 2
 fired
 finnish 1
 firefighting
@@ -11144,7 +11144,7 @@ forbiddance 2
 feuars 2
 fauteuils 1
 fedellini 3
-feverbush 1
+feverbush 2
 fetometry 1
 fishtail
 farle 1
