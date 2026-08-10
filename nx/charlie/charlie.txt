@@ -3622,7 +3622,7 @@ carabines
 carabinier
 carabiniere
 carabinieri
-cotrespasser
+cotrespasser 1
 choosable 1
 caraboa
 caaba
@@ -20290,7 +20290,7 @@ clinical 1
 communa 1
 cellulotoxic 2
 componentwise
-canthoplasty
+canthoplasty 1
 communal
 chapman 1
 coccineous
