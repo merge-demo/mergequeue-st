@@ -705,7 +705,7 @@ expressionable
 epiglottic 1
 embraciveg
 elonite 1
-excretive 1
+excretive 2
 eosinate
 enneaspermous 3
 economise 3
@@ -11325,7 +11325,7 @@ earthbred 1
 evaporators 2
 eir 1
 ecurie
-equisurface
+equisurface 1
 englander 2
 enrank 2
 entirety 1
@@ -12699,7 +12699,7 @@ extrapolation 2
 exomphalos 1
 erotogenic 1
 effrontery 1
-entame
+entame 1
 echoisms 1
 epicotyledonary
 exonerate 1
@@ -13992,7 +13992,7 @@ ectophytic
 essoiner 1
 embrocations 2
 egards
-emceed 1
+emceed 2
 embosked 1
 enwreathed 2
 endears 1
