@@ -3085,7 +3085,7 @@ defacing 2
 defacto
 defade 1
 dichlamydeous 3
-demiram
+demiram 1
 defaillance
 defaitiste 1
 defalcated 3
@@ -5016,7 +5016,7 @@ denaturalising 1
 denaturalized 1
 dandriff 2
 demographers
-denaturants
+denaturants 1
 docilely 1
 dueller 1
 denaturing
@@ -11600,7 +11600,7 @@ dostoevsky 3
 damsite 2
 denser 2
 discursative 1
-discommune
+discommune 1
 denominates 1
 disburgeon 2
 dragooner
@@ -11818,7 +11818,7 @@ diamines
 discurre 1
 dioestrus
 dihalo 2
-dislikable 1
+dislikable 2
 dsr 2
 deplumed 1
 donatively 1
@@ -17300,7 +17300,7 @@ domatium 2
 droll 1
 deniers 1
 dentiform 2
-dilluer 2
+dilluer 3
 didactylous 4
 druidology
 diademing 1
