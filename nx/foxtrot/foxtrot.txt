@@ -4591,7 +4591,7 @@ fieldstone
 fistuca 1
 freest 3
 finement
-filmist
+filmist 1
 farragos 1
 forbbore 3
 forbled 3
@@ -6007,7 +6007,7 @@ foolscaps
 felspars 1
 filices
 flacon
-fumattoria 2
+fumattoria 3
 fidiculae 1
 fellowman
 fibrinoplastin
@@ -6801,7 +6801,7 @@ fiberless
 folkmoots 5
 foredoomed 1
 fleshhook 2
-farinulent 2
+farinulent 3
 fervescent 1
 froebelian 2
 flyers 2
@@ -10177,7 +10177,7 @@ fricatives
 fluid 3
 frivolousness 3
 foray
-faunula 1
+faunula 2
 felled 1
 forgives 4
 fliting 4
