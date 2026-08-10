@@ -1758,7 +1758,7 @@ decad
 decumaria
 deathlessness 1
 deathlikeness 1
-deathliness 1
+deathliness 2
 deathrates 1
 deathsman
 democratian 1
@@ -4912,7 +4912,7 @@ defailment
 diplodus 2
 duranta 1
 demoralized 2
-demoralizers
+demoralizers 1
 draughty
 debussy 1
 demoralizes 3
@@ -9955,7 +9955,7 @@ diminution 1
 deeplier 1
 dewdrop 3
 didactics 1
-dramaturgist 1
+dramaturgist 2
 diminutions
 deener 1
 diminutive
@@ -10864,7 +10864,7 @@ denazifying 2
 dirtying 2
 drifts
 dyslogia
-dissaturate 1
+dissaturate 2
 discontinuous
 diathermometer 1
 demonologic 1
