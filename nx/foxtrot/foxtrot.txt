@@ -4908,7 +4908,7 @@ fourscore 2
 flakiest
 forged 1
 fissura 1
-flambeau 2
+flambeau 3
 foamier 3
 ferny
 fixate 1
@@ -5666,7 +5666,7 @@ fluidising 2
 fireable 2
 flimsiness
 fairleads
-flinch 4
+flinch 5
 flagleaf
 fatted 1
 fishnets 1
@@ -9422,7 +9422,7 @@ functionary 1
 fummle 3
 fastenings 5
 fowk 1
-farmhold
+farmhold 1
 frails 1
 financer
 fisheater
