@@ -221,7 +221,7 @@ cabrit 1
 cabs 1
 comprend 1
 copular
-cabstands
+cabstands 1
 cabuya
 celebrators
 cabureiba
@@ -1123,7 +1123,7 @@ calcioferrite
 ceratobranchial
 calcioscheelite
 calciovolborthite
-calciphylactic 1
+calciphylactic 2
 calciphylaxis
 cabecera 1
 calciphilia 1
@@ -12837,7 +12837,7 @@ chunner
 chuntered 2
 chrysotherapy 1
 chupatty
-crases
+crases 1
 countermanifesto
 crookshouldered 1
 crithmene 1
@@ -15003,7 +15003,7 @@ contractively
 cilantros 2
 connixation
 civile
-clydeside 1
+clydeside 2
 civilest 1
 cardiod 1
 civilian 1
@@ -17596,7 +17596,7 @@ cephalothoracopagus
 coccyx 2
 coccyxes
 coccyzus 1
-cocco 1
+cocco 2
 changar
 clallam 1
 coccobacilli
@@ -23664,7 +23664,7 @@ chalybeous
 countervolley 1
 contraceptive
 consultancy
-capmakers 1
+capmakers 2
 cuplike 1
 cubalaya 1
 countableness
@@ -25831,7 +25831,7 @@ cyclophorus
 cepa 1
 cofound 2
 corrosibleness
-coeltera 1
+coeltera 2
 corrosived
 corrosively
 corrosiveness
@@ -29573,7 +29573,7 @@ crivetz
 chastening
 constraint
 coenogenetic
-crizzel
+crizzel 1
 chlorophylloid 1
 cupellation 2
 checkerboarding

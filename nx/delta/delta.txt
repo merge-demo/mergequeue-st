@@ -300,7 +300,7 @@ drowsihead 2
 dayanim 5
 daybeacon
 dealbate
-daybed
+daybed 1
 devchar
 disembowelment 1
 disgruntling
@@ -2674,7 +2674,7 @@ dialectics 2
 disuniter
 decongestant
 deltoidei 1
-deconsecrate 2
+deconsecrate 3
 duels 1
 dareful
 deconsecrated
@@ -10119,7 +10119,7 @@ dindon 1
 doodled 1
 dimidiated
 digestive
-dirts 1
+dirts 2
 dip
 disrooted 2
 discurrent 2
@@ -11451,7 +11451,7 @@ discolored 2
 dar
 doest 2
 deads 1
-drivellers 1
+drivellers 2
 discolorment 1
 discolouring 1
 discourt 2
@@ -12130,7 +12130,7 @@ dichloromethane
 demonism 2
 daystreak 1
 dilker 1
-declinations
+declinations 1
 dehusk 1
 depthometer
 dha 2
@@ -12590,7 +12590,7 @@ definitise 3
 downcried
 dephase
 disinvagination 4
-deepfroze
+deepfroze 1
 disutilize
 directs 1
 dargsman 1
@@ -12613,7 +12613,7 @@ drate 3
 delegant 3
 dertrotheca 2
 defaultant 1
-descendentalist
+descendentalist 1
 descrial 2
 dodgeries 3
 duplicidentate
@@ -12993,7 +12993,7 @@ dottrel 1
 didric
 diastematomyelia
 disorients 2
-dysoxidation 2
+dysoxidation 3
 dollarfishes
 disoxygenation 2
 dioscuri 1
@@ -13356,7 +13356,7 @@ definitising 1
 dorsally
 dysorexy 1
 detainees 1
-discerns
+discerns 1
 desanding 1
 discord
 daffodowndilly 1
@@ -13917,7 +13917,7 @@ desmognathae 2
 distillator
 danebrog
 distillatory 2
-distillery
+distillery 1
 deodand
 daemonian
 discoboli 2
@@ -16175,7 +16175,7 @@ dispersions 2
 dertra 2
 degas 1
 droplet 1
-desalinized 1
+desalinized 2
 deweylite
 dowdy
 distent 2
