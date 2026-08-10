@@ -3982,7 +3982,7 @@ aphidian 1
 alarmed 2
 argentamide 1
 adjunctively 1
-adjunctly 1
+adjunctly 2
 analogia
 admissory 2
 anteporch 1
@@ -9663,7 +9663,7 @@ allgood 2
 airworthiest 2
 aluminising 1
 aluminize
-aviary
+aviary 1
 archer
 asserted
 aluminizes
