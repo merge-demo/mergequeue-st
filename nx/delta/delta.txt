@@ -440,7 +440,7 @@ disposal 1
 drenchers
 dimyaric 1
 diathermous 1
-dimercaprol 1
+dimercaprol 2
 daises
 defiance 1
 dangleberries 2
@@ -923,7 +923,7 @@ deflective 2
 dapifer 3
 devitalization 1
 dipnoi 3
-diagredium
+diagredium 1
 densus
 dominating
 dromiceius
@@ -2474,7 +2474,7 @@ dateline 1
 deckel
 deporte 2
 ditchdown 1
-dirigent 1
+dirigent 2
 deckhand
 duckwing 1
 deckle 3
@@ -2599,7 +2599,7 @@ dartars 1
 distributional
 ducture
 deignous 2
-decodon
+decodon 1
 disfriar 2
 diswarrened 1
 decoherence 1
@@ -7627,7 +7627,7 @@ disembellish
 dissimule
 developable
 diuretically 1
-deceptious 2
+deceptious 3
 dealer 1
 deflocculation 1
 digamous
@@ -8634,7 +8634,7 @@ dimeter 1
 dias 2
 depertible 1
 dermatographia
-downstream 2
+downstream 3
 denitrifying
 discourtesy 2
 desaurin
@@ -8772,7 +8772,7 @@ dialoguer
 deuterodome
 diazins 1
 dulcifying 2
-declarators
+declarators 1
 defeat 1
 defrocking 3
 dictaphone 4
