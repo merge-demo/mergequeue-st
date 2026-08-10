@@ -291,7 +291,7 @@ begrutch 1
 biolith
 booter 1
 benzacridine 1
-backslided 1
+backslided 2
 backberend 1
 backbite 1
 beeman 1
@@ -7140,7 +7140,7 @@ biaxial
 bonduc 1
 barret 2
 backless 1
-besprinkles
+besprinkles 1
 bachelorism 1
 bloodied 1
 barefoot 1
@@ -13342,7 +13342,7 @@ broilers
 bichord
 bukat 1
 benadryl 1
-bridgeman
+bridgeman 1
 botcheries 2
 botcherly
 bitterbump 3
@@ -16605,7 +16605,7 @@ bugfish
 bullionist 1
 bemolt 2
 bedmakers
-bubinga 2
+bubinga 3
 bougainvillea 2
 bacillary 1
 bubonocele 1
