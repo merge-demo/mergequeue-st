@@ -767,7 +767,7 @@ boneshaw
 bannerman
 bushmanship 1
 badigeon
-beadsman
+beadsman 1
 bowstrung
 bechatter
 boric 3
@@ -9415,7 +9415,7 @@ bailieship
 bluecaps 1
 birdseye 1
 baculiticone 2
-birdsnest
+birdsnest 1
 bungfu 1
 bargehouse 1
 brimmering 3
@@ -12965,7 +12965,7 @@ bureaucratic
 breviloquence 2
 boleros 1
 berthold 1
-boardinghouses
+boardinghouses 1
 bootman 2
 boots
 bottoms
