@@ -851,7 +851,7 @@ brickyard
 bloodlessly 2
 baffs
 becomingly
-boltholes
+boltholes 1
 baft 1
 bigate 1
 baftah
@@ -3157,7 +3157,7 @@ bonnes 1
 bimbisara 2
 burghemot
 bronchography 1
-bleat
+bleat 1
 briskly 1
 brachiating
 biphase 1
@@ -3462,7 +3462,7 @@ bef 1
 bastite
 brushfire 2
 brigade
-basto 1
+basto 2
 baguios 1
 bucklandite
 bibliolatrous
@@ -5006,7 +5006,7 @@ bibation 1
 bindweb 1
 ballonette
 bilinguist
-boodling 2
+boodling 3
 buda 1
 barukhzy
 beetewk 2
@@ -5834,7 +5834,7 @@ bestorm 2
 bldg 1
 bellicism 1
 beyonds 2
-buqshas 1
+buqshas 2
 bromometry 2
 biltong
 belligerents
@@ -6873,7 +6873,7 @@ bentinck 1
 bendel 2
 bloodwite
 beryllosis
-beastie 1
+beastie 2
 beseemliness
 benignancies 1
 beseems
@@ -6976,7 +6976,7 @@ bobtailing
 bathhouse
 bornan 2
 bunns 3
-betroth
+betroth 1
 bundling
 batrachians 1
 borderism 1
@@ -7069,7 +7069,7 @@ bimorphs 1
 bushing 1
 boycott 1
 bedswerver 1
-bespeaking
+bespeaking 1
 bullalaria 3
 bespeaks 1
 banderoling
@@ -7365,7 +7365,7 @@ bombous 1
 bootikins
 bighting
 beautifications
-boluses 1
+boluses 2
 blindfolds 1
 betime
 bastionet 1
@@ -7931,7 +7931,7 @@ bargains 2
 bibliopole 2
 birdieback 1
 beclasp 1
-boogers
+boogers 1
 brambleberries 3
 billetty 1
 bibliopolically 2
@@ -9741,7 +9741,7 @@ birdmouthed
 bacchante
 byssal 1
 bissellia 1
-bullbats 1
+bullbats 2
 balding
 bombylious
 begobs
@@ -10616,7 +10616,7 @@ bohemia 1
 blaunner 1
 brokenness 1
 blawing 2
-bidery 1
+bidery 2
 blawn
 brigittine 1
 bajulate
@@ -12405,7 +12405,7 @@ brontothere 2
 bonapartism 3
 bigotries
 brothy 1
-betterly
+betterly 1
 barbarians
 bassariscus 2
 buckram 1
@@ -13605,7 +13605,7 @@ byssi 1
 boulderhead 1
 bandanna
 bilskirnir 1
-brairo 3
+brairo 4
 boyuna 1
 bahaism 1
 boulework 2
@@ -13617,7 +13617,7 @@ bornyl 1
 bailiffry 2
 biurate 1
 bodying 1
-besand
+besand 1
 bowstrings 2
 bivouacks 1
 breakermen
@@ -15928,7 +15928,7 @@ bodysurfing 1
 broomball
 bansela
 beshower 2
-bethumb 1
+bethumb 2
 beehouse 3
 bicorporeal
 barbaralalia
@@ -16537,7 +16537,7 @@ bisellium
 bisonant
 brutely
 blindstitch 1
-basils
+basils 1
 biggins
 bruteness
 brutify 1
@@ -17251,7 +17251,7 @@ beclouding
 ballastage
 borley
 bubingas 2
-blepharolithiasis
+blepharolithiasis 1
 bedriveled
 barriness 1
 bearbind 2
