@@ -754,7 +754,7 @@ ferv 2
 forelouper 5
 fanciful 1
 footbridge 2
-fanciless 3
+fanciless 4
 foliicolous 1
 forestaff 2
 fandoms 1
@@ -1229,7 +1229,7 @@ fatuate 2
 fearful 3
 flatten 2
 filmdom 1
-frostier 3
+frostier 4
 filariform
 familistic 4
 fermentative 2
@@ -1537,7 +1537,7 @@ fleuronee 1
 foochow 2
 freaking 2
 favelas 3
-forenoon
+forenoon 1
 frustulent 2
 favelidium 2
 fourteenth
@@ -1744,7 +1744,7 @@ feldspathoidal 3
 frijole 2
 forehent 2
 fashioning 1
-fusels 3
+fusels 4
 fusobacterium
 foothill 2
 fireworms
@@ -2230,7 +2230,7 @@ flatcars 1
 fructosan 2
 ferrara
 forlornest 1
-fives 1
+fives 2
 fightingly
 fructuously 3
 forhale
@@ -2473,7 +2473,7 @@ firstcomer 2
 fireproofing
 fishhood 1
 fuddlement 1
-footscraper 4
+footscraper 5
 fermillet 4
 favonian 2
 floripondio 1
@@ -3370,7 +3370,7 @@ ferrean
 fanioned 2
 folily 1
 feeless 1
-foreyards
+foreyards 1
 fastigate
 forcut 1
 fopling 3
@@ -3578,7 +3578,7 @@ filemaker 1
 flymen 4
 freedstool 1
 fingerlike
-forgetable 1
+forgetable 2
 fractabling 3
 foreskirt 3
 florigraphy 1
@@ -4179,7 +4179,7 @@ fumiduct 1
 flagstones 1
 fado 2
 fairishness 2
-flickertail 2
+flickertail 3
 fishet 2
 fibrocaseous 2
 foliating 2
@@ -4928,7 +4928,7 @@ fchar 2
 fluidised 1
 foining 1
 fluoresced
-forsooth 2
+forsooth 3
 foppishly 1
 fourteens 2
 flamen 2
@@ -5882,7 +5882,7 @@ fluctuation 5
 fillagreing 1
 festine 1
 fecund 2
-fistfight 1
+fistfight 2
 facsimilize
 fates 1
 flexity 3
@@ -6389,7 +6389,7 @@ foveolar 3
 fixup 1
 fluvio 2
 fluoresceine
-factionism 1
+factionism 2
 fashionability 2
 floreal
 finick
@@ -6412,7 +6412,7 @@ fecundatory 3
 formularization 1
 flathead 1
 furanoside 1
-flagelliferous 1
+flagelliferous 2
 floatmaker 4
 fatiguabilities 2
 fossae 3
@@ -8660,7 +8660,7 @@ flecks 1
 fir
 fittings 1
 ferretto
-fuzzed 2
+fuzzed 3
 fluence 4
 finnochio 1
 functionate 1
@@ -8878,7 +8878,7 @@ fossillike 3
 foozles 1
 fossilogy 2
 fload
-firmest
+firmest 1
 fettstein 3
 finbone 1
 flerry 1
@@ -9113,7 +9113,7 @@ friesish 2
 fenter
 forbruise 1
 foederis 2
-flautists 1
+flautists 2
 falsettos
 folksinger 1
 feedbag 2
@@ -11093,7 +11093,7 @@ flaminica 2
 fractionated 2
 forficated
 flaunter
-freightment 2
+freightment 3
 flense 1
 foxiness 4
 footrace
@@ -11338,7 +11338,7 @@ fps 4
 furfurine
 funebrious 2
 faujasite 1
-foalhood 1
+foalhood 2
 fuseplug 4
 fashioners 1
 fallacy
