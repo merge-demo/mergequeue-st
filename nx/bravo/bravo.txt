@@ -2149,7 +2149,7 @@ bantayan 1
 buckshots 3
 bidstand
 bronteum 1
-bantam 1
+bantam 2
 bantamize
 bismar 2
 burette 1
@@ -3271,7 +3271,7 @@ babydom 2
 birder 2
 binormal
 bitumens
-bolted
+bolted 1
 basinal
 brazil
 bushland 1
@@ -3701,7 +3701,7 @@ bengals
 bowlegs
 bisabol
 booklover 2
-burnies 1
+burnies 2
 brigantinebrigantines
 basiophthalmite
 baste 2
@@ -3875,7 +3875,7 @@ bawcocks 2
 branniest 1
 bawdier 2
 bipinnatisect
-bawdies 2
+bawdies 3
 bestrow 2
 bricklaying 1
 backaches
@@ -4590,7 +4590,7 @@ bloodstone 2
 belial 2
 biddelian
 beats 2
-bedazement
+bedazement 1
 bigeminate 1
 bedazzle 1
 blared
@@ -5448,7 +5448,7 @@ boatable 1
 becudgelling 2
 beetling 1
 behemoths 1
-behenate 3
+behenate 4
 behenic
 bemixed 1
 booing
@@ -5862,7 +5862,7 @@ blebby 1
 bellmanship
 briners 1
 braggingly 1
-boracite 2
+boracite 3
 buttstock
 batholith 4
 bidactyle 2
@@ -7934,7 +7934,7 @@ beclasp 1
 boogers
 brambleberries 3
 billetty 1
-bibliopolically 1
+bibliopolically 2
 bibliopolist 2
 befall
 bibliosoph
@@ -8659,7 +8659,7 @@ bilobe
 besiegingly 2
 bilobed 1
 bilocular 1
-braches
+braches 1
 bilophodont 2
 boshvark 1
 baxterian 2
@@ -9852,7 +9852,7 @@ babuls
 bressummer 1
 batamote
 beworried 1
-brassica
+brassica 1
 billed 1
 brennschluss 1
 barbing 1
@@ -10341,7 +10341,7 @@ blakeberyed
 bloodalp 5
 blakeite 1
 bargepole 1
-buxomness
+buxomness 1
 bottomried 1
 billot
 bounderish 1
@@ -10511,7 +10511,7 @@ becharming 1
 bakestone
 biologistic 1
 bepastured 1
-blastogenic 1
+blastogenic 2
 bandfiled 2
 bop
 bytownitite 1
@@ -10936,7 +10936,7 @@ biloquist
 biclinia 1
 barth
 bourrees 3
-blinkard 3
+blinkard 4
 blesbuck 1
 bedlamism
 blinkards
@@ -12204,7 +12204,7 @@ bolk 1
 bolly 2
 beretta
 bargir
-birefringent 3
+birefringent 4
 besit 3
 brevis
 bacchides 1
@@ -14378,7 +14378,7 @@ bovoid
 binomen 2
 burstones 2
 bizone 1
-braidist
+braidist 1
 braids 2
 bellyer
 bifidly
