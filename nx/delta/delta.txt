@@ -613,7 +613,7 @@ doff
 definientia 1
 damnability
 damnabilities 3
-dotless 1
+dotless 2
 dawut
 deadrize 1
 disintegrating 2
@@ -2116,7 +2116,7 @@ dominator 2
 decancellated 1
 disciplinarian 1
 debaser 2
-decades 1
+decades 2
 decandria 1
 didst 1
 decandrous
@@ -3914,7 +3914,7 @@ depersonalised
 demes 1
 delayer
 delayful
-dooli
+dooli 1
 devitalisation 2
 delaminated 1
 dibranchia 2
@@ -5500,7 +5500,7 @@ diphyllous 2
 dashboard
 departmentalised
 diversities 1
-diaminogene
+diaminogene 1
 dx 1
 desto
 dimmock 1
@@ -6201,7 +6201,7 @@ dimiss
 digametic 2
 dermabrasion
 dithyramb
-drabness 2
+drabness 3
 dipsades 2
 disbenchment 1
 dactylopodite 3
@@ -7031,7 +7031,7 @@ depose 1
 demographer 1
 dissentiate 2
 docentship 2
-destress 2
+destress 3
 decoke
 dorje 1
 degrees
@@ -9130,7 +9130,7 @@ disdiaclasis 2
 disgracement 1
 digger
 didie
-deserves 2
+deserves 3
 didies 1
 didym 1
 devirgination 1
@@ -9585,7 +9585,7 @@ digressional 1
 dudman
 digressive 1
 digressory 3
-dastard
+dastard 1
 disencumbers 1
 deerwood 2
 drazel 1
@@ -9848,7 +9848,7 @@ decorated 1
 dinars 1
 diluvianism
 demibastioned
-denty 1
+denty 2
 diluvium 1
 digests
 draconically 2
@@ -16086,7 +16086,7 @@ drawlingness 1
 doughiness
 dwindle
 dystectic 3
-denshire
+denshire 1
 daimonistic 1
 deathbed
 doughty
@@ -17810,7 +17810,7 @@ dorsosternal
 depa 1
 desoxyanisoin
 duckbill 2
-dossing
+dossing 1
 dumpies 1
 duckblind 2
 duckboard 4
