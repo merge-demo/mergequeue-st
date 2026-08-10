@@ -121,7 +121,7 @@ cabinet 1
 cladophyllum 1
 cabineting 1
 codshead
-cabinetmaking
+cabinetmaking 1
 capacitated
 cabinetted 1
 coumalic 1
@@ -1198,7 +1198,7 @@ caldaria
 calden
 calderas
 casuistic 1
-cheven 2
+cheven 3
 cylindrarthrosis 1
 campimetrical 2
 cornerways
@@ -1474,7 +1474,7 @@ calyptratae 1
 calyptrimorphous
 coracoscapular
 ceriornis 1
-carnosin 1
+carnosin 2
 calisayas
 clave 1
 chicks
@@ -3423,7 +3423,7 @@ capreolary 1
 capreolate
 chimericalness
 crossbarring
-continuua 2
+continuua 3
 capretto
 capri 2
 capric
@@ -5568,7 +5568,7 @@ chlorophaeite
 catadupe 1
 catafalco
 civilisation 2
-catagenetic 1
+catagenetic 2
 catakinetic
 catakinomeric 1
 corkscrewy
@@ -8978,7 +8978,7 @@ charitative
 coquettish
 colloq
 charities
-circumrotated
+circumrotated 1
 condition
 charityless
 columboid 2
@@ -10068,7 +10068,7 @@ cheselip
 coxocerite
 cyclogram
 cheskey 2
-campine 1
+campine 2
 cheslep
 crestings 1
 clothesbrush 1
@@ -10420,7 +10420,7 @@ chiffre
 chigetai 1
 chigga
 comedones 1
-chiggers
+chiggers 1
 congession
 chigoes 1
 chih 2
@@ -12708,7 +12708,7 @@ chuckwalla
 chapeling
 cogovernment
 chandler 1
-congenitally 1
+congenitally 2
 chuddah
 courtesied 1
 countermarch
@@ -16622,7 +16622,7 @@ clopped 1
 couturier
 compania
 confining 1
-cantref
+cantref 1
 cloque 1
 cloques 1
 cathodically 1
@@ -18156,7 +18156,7 @@ cobaltocyanide
 condylarth
 calendry
 coercers 1
-coercible 4
+coercible 5
 coercionary
 coercitive 1
 coercive
@@ -21089,7 +21089,7 @@ comtian 1
 comtism 1
 comtist
 comunidad 1
-comurmurer
+comurmurer 1
 con 1
 commandership
 coseys
@@ -23246,7 +23246,7 @@ curmudgeonery
 constructive
 constructively 1
 constructivist
-circumstantiable
+circumstantiable 1
 constructor
 catabolic
 cunnilingus
@@ -24754,7 +24754,7 @@ catpiece 1
 chivareed
 creeshing
 cardioplegia
-coproducer 3
+coproducer 4
 cullen
 coproduction 3
 coprojector 1
@@ -26722,7 +26722,7 @@ counterassociation
 cammock
 careering
 counterattack
-centetid
+centetid 1
 colonels
 capellane 2
 counterattacked
@@ -27236,7 +27236,7 @@ countervenom 1
 countervibration 1
 chymiferous 2
 countervote
-correlation
+correlation 1
 counterwager 1
 cervicaprine 1
 chlorhydrate
@@ -29464,7 +29464,7 @@ circuiter
 candlewicking 1
 crystallising
 crystallites
-coilyear 2
+coilyear 3
 constabless 1
 cyprinus
 coprides
@@ -29496,7 +29496,7 @@ cravers 2
 cunye
 crystallomancy 1
 crystallometry
-continuist 1
+continuist 2
 conjunctional
 continental 1
 culpatory 1
@@ -30654,7 +30654,7 @@ compole
 cucurbita 2
 cavaedia
 cucurbitaceous 1
-cucurbite
+cucurbite 1
 cultual 1
 clinicist 2
 compromis
@@ -31112,7 +31112,7 @@ chiggerweed 1
 cunenei
 coue
 countinghouse
-cunette 1
+cunette 2
 choanite 1
 catharism
 cuneus 1
