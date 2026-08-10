@@ -633,7 +633,7 @@ fikey 2
 forwarding 1
 fimetic 4
 farrand
-featherbedding 2
+featherbedding 3
 farnesol
 flakage 3
 fluotitanic 3
@@ -3940,7 +3940,7 @@ farls 1
 fullest 2
 foeniculum
 flitted 2
-fictionmonger 2
+fictionmonger 3
 furcating 1
 fluey 1
 fogyism 1
@@ -6449,7 +6449,7 @@ feltman 4
 fanflower
 footbaths 1
 forweary 2
-flummery 1
+flummery 2
 fidgeting 3
 filth 2
 folkcraft 1
@@ -6835,7 +6835,7 @@ forswearer 1
 fructifier 2
 foliaged
 firetower 1
-fustigator
+fustigator 1
 flipjack 2
 fourhanded 1
 fabled 2
@@ -7603,7 +7603,7 @@ fleshquake 3
 ferrules
 foredefeated 7
 frankheartedness 2
-fatuity 3
+fatuity 4
 footslogs 2
 flacherie
 forjudgment 3
@@ -11320,7 +11320,7 @@ fulmicotton 1
 fatwa 2
 farse 2
 firedog 2
-formatted 1
+formatted 2
 feverfew
 firesides 2
 fraternize
