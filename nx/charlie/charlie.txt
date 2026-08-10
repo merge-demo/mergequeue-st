@@ -4744,7 +4744,7 @@ carpetmaking 1
 clubability 1
 captivation 1
 carpets 1
-chant
+chant 1
 concolorous
 carpetweb 1
 change
@@ -13347,7 +13347,7 @@ centerwise
 constituting
 cyclopteroid
 czarist
-cyclorama
+cyclorama 1
 cycloramic 2
 coaling 1
 consonantly
