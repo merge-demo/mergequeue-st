@@ -5265,7 +5265,7 @@ endogamy 1
 excudate 1
 endoscope 2
 endoscopes 1
-equivocalities 1
+equivocalities 2
 eradicators 1
 egeran 1
 emmeniopathy 3
@@ -6669,7 +6669,7 @@ entertainment 1
 endosepsis 1
 echimys 3
 epicenters 2
-equines
+equines 1
 espaliers
 epithecal
 evaginable
@@ -9514,7 +9514,7 @@ equirotal
 educationese 1
 ea 2
 earthworm 1
-enteradenology 1
+enteradenology 2
 emboldened 3
 englutting
 eserine
@@ -12374,7 +12374,7 @@ elric 1
 enzym 1
 exertions
 epistasy 1
-enurny
+enurny 1
 eseptate 1
 equilobate
 eupepsies 1
@@ -13245,7 +13245,7 @@ eupepsia
 explainable 2
 expropriated 1
 earing
-explainableness
+explainableness 1
 eternality 1
 eductor
 epiphytism 3
@@ -14067,7 +14067,7 @@ extravagance 2
 extravagantly
 enchantingly 4
 ethaldehyde 3
-emulsibility 2
+emulsibility 3
 extravaganza 1
 eutectoid 1
 extravaginal 1
