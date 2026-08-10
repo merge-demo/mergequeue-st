@@ -2489,7 +2489,7 @@ declaim
 dichasial 1
 diaclastic 1
 dichorisandra
-dresser 1
+dresser 2
 declaimer 2
 dk 1
 dilaters
@@ -3025,7 +3025,7 @@ decisionmake 2
 deerberry 1
 dapperer 1
 deoxidization 1
-diluent 2
+diluent 3
 deerfly 1
 diazoate
 deerfood
@@ -8411,7 +8411,7 @@ dialogers
 dexies
 demasculinising 1
 dendrochronological 1
-deflater 1
+deflater 2
 devide
 deconcentrator 1
 deported
@@ -14899,7 +14899,7 @@ demibastion
 dehumidifiers 1
 destructive 1
 dodecarch 2
-dodecasemic
+dodecasemic 1
 decadi 1
 dodecasyllable 2
 discretionarily
