@@ -1265,7 +1265,7 @@ extraditable 1
 escribiente 2
 ecorche
 eblis 1
-eucairite 2
+eucairite 3
 eleonorite
 eoghanacht 2
 epinephrin 2
@@ -6449,7 +6449,7 @@ espanoles 1
 elocation
 entr 2
 embrocated 1
-electrolyzing 1
+electrolyzing 2
 ensurance 1
 ensuring 1
 equators 1
@@ -10626,7 +10626,7 @@ eudaemon
 eurous 1
 enrange 2
 enmeshes 1
-extravasated 1
+extravasated 2
 ecdyson 4
 exchangee 3
 experience 2
@@ -13604,7 +13604,7 @@ epochs 2
 exposedness 1
 energies 1
 ebeneous 1
-exsudate 1
+exsudate 2
 embowelling 1
 extumescence
 egeria 1
