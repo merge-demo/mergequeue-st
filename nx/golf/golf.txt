@@ -2590,7 +2590,7 @@ glossolabial 2
 geiger 1
 goutte 2
 garabato
-gybe 2
+gybe 3
 galluot 1
 genesial 1
 genesitic
@@ -3257,7 +3257,7 @@ gadso 2
 gorgonian 3
 gregaritic 2
 geomyid 4
-glancer 1
+glancer 2
 glycosin 2
 grein 1
 glent 1
@@ -6948,7 +6948,7 @@ guiana 1
 glaziness
 gruppetto 2
 gilgie 1
-galoshed 1
+galoshed 2
 gorgonise 1
 grinds 1
 glyconeogenesis 2
