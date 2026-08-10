@@ -1434,7 +1434,7 @@ bougainvillaea 1
 beslave 1
 biporose
 bickern
-behaviored
+behaviored 1
 bombastically
 boun 1
 balestra 1
@@ -6318,7 +6318,7 @@ backswept
 benzalethylamine 2
 benzalphenylhydrazone 1
 beaconwise
-benzamide 3
+benzamide 4
 blowdown 1
 benzoxate
 badgerbrush
