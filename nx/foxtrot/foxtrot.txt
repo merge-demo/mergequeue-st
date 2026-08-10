@@ -636,7 +636,7 @@ farrand
 featherbedding 2
 farnesol
 flakage 3
-fluotitanic 2
+fluotitanic 3
 fames 1
 fuddled 2
 fichu 1
@@ -740,7 +740,7 @@ fanatism 1
 fabricating 2
 farcilite 2
 flybelt 2
-frozenness
+frozenness 1
 fishgrass 5
 fluxions 2
 foreglimpse
@@ -941,7 +941,7 @@ fictionization 2
 fardel 1
 flashiest 1
 flannelmouth 1
-foxhound
+foxhound 1
 fusion
 fardelet
 futtah 5
@@ -1016,7 +1016,7 @@ formicarian 1
 frieda 1
 focalization 1
 flopper 1
-felspathose 1
+felspathose 2
 foined 2
 floricomous 1
 forensal 1
@@ -1260,7 +1260,7 @@ frigs 4
 footlocker 2
 fossoria
 fluctuous 3
-feminophobe 3
+feminophobe 4
 falconoid 1
 fop 3
 fleeced 1
@@ -4460,7 +4460,7 @@ flibbertigibbet 4
 finicism 1
 forerigging 2
 footstool 3
-fairest 1
+fairest 2
 formidable 4
 frouzier 1
 frankenia
@@ -4892,7 +4892,7 @@ fraternalism 1
 faucets 2
 fulvidness 2
 farina 2
-flyman 3
+flyman 4
 federationist 2
 fathered 1
 floggings 3
@@ -5118,7 +5118,7 @@ fireweed 5
 flashgun
 fifteenth 1
 factitive 1
-fict 2
+fict 3
 furnishment
 flashiness 4
 fermerer
@@ -5200,7 +5200,7 @@ frondlet 1
 formularist 1
 fosterlings
 foliaging 3
-frontierlike 1
+frontierlike 2
 frivolers 2
 foreclaw 2
 filaree 2
@@ -5466,7 +5466,7 @@ flex
 fusionless 1
 firefighter 1
 forevow
-firearmed 3
+firearmed 4
 fistularioid 3
 falsifiable
 fatalisms 1
@@ -5559,7 +5559,7 @@ forestays 3
 favellae 1
 flexion
 fishingly 2
-foreclosable 2
+foreclosable 3
 fourquine 1
 ferdiad 2
 fleecer 3
@@ -5661,7 +5661,7 @@ fillers 1
 fishable
 furriners 2
 fud 2
-fulguration 3
+fulguration 4
 fluidising 2
 fireable 2
 flimsiness
@@ -5947,7 +5947,7 @@ foreworld 2
 floodgates 3
 fiercest
 foolhardily 1
-falseface 2
+falseface 3
 freer 1
 fraudlessness 3
 freehand 1
@@ -6932,7 +6932,7 @@ finely 2
 foll 4
 facia 2
 fedarie 2
-formalisation 1
+formalisation 2
 fittyfied 2
 forbode 1
 fastball
@@ -7229,7 +7229,7 @@ factionaries 2
 fairer
 farers 1
 falderols 1
-forthgaze 2
+forthgaze 3
 fimbrillose 2
 flobby
 fiend
@@ -7527,7 +7527,7 @@ fauld 1
 frictionlessness 1
 fest 2
 forebody 2
-fibrosity 2
+fibrosity 3
 flaser 1
 forsakers 2
 flentes 2
@@ -7643,7 +7643,7 @@ facsimilist 4
 funfest 2
 foolhardy
 furcate 2
-flaxy
+flaxy 1
 flashlights 3
 fortyish
 frankmarriage 2
@@ -7700,7 +7700,7 @@ foreturn 1
 flotter 3
 furriness
 fallfishes
-forspeak 1
+forspeak 2
 favourers
 forehoofs 2
 fewter 2
@@ -9629,7 +9629,7 @@ forensic 2
 foxfires
 floreta 1
 frontopontine 2
-fizzed 1
+fizzed 2
 friableness 3
 frizzing 3
 fraternality 3
@@ -11715,7 +11715,7 @@ ferruled 4
 foredesign 1
 fosslology 1
 flighty 2
-flagellator
+flagellator 1
 folkland 4
 fados
 feudalised 3
