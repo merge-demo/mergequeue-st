@@ -9036,7 +9036,7 @@ anthroropolith 1
 angelon
 allineate
 aktivist
-annulata
+annulata 1
 akoluthia 1
 algebraized
 aminobenzine
@@ -10955,7 +10955,7 @@ adamellite 1
 amniomancy 1
 amnionata 1
 acclamation 2
-absolution 1
+absolution 2
 amosite
 armsful 2
 anhydric 1
@@ -18078,7 +18078,7 @@ anconeal
 aptiana
 aptychus
 amour 1
-aptitude 2
+aptitude 3
 aptnesses 2
 autohypnotization
 anises 1
@@ -18769,7 +18769,7 @@ amylocoagulase
 atamasco
 aguilarite 1
 ascocarpous 3
-arsenophenol
+arsenophenol 1
 aristocratical
 acetract 1
 awesome
