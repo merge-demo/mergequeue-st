@@ -367,7 +367,7 @@ faintly 3
 ferrymen 1
 furoid
 fearer 4
-filicauline 1
+filicauline 2
 fall 3
 forbid 1
 fairfieldite 1
@@ -1035,7 +1035,7 @@ filazer 1
 ferriages 1
 frontons 2
 farrage 1
-ferroelectricity 2
+ferroelectricity 3
 fleawort 1
 furziest
 farrago 2
@@ -2197,7 +2197,7 @@ felwort
 fitting 1
 fathearted 2
 factitial
-faciobrachial 1
+faciobrachial 2
 fairsome 1
 forestery
 filius 2
@@ -3675,7 +3675,7 @@ flaying 1
 furnacer
 filemot 3
 financiered 2
-freshener
+freshener 1
 finicking 1
 follying 1
 fiddleys 4
@@ -5723,7 +5723,7 @@ fixatif 2
 footed 2
 flirtatiously 1
 flosculariidae 1
-flirtatiousness
+flirtatiousness 1
 floodwater 3
 frequently 1
 fitroot 2
@@ -9677,7 +9677,7 @@ freezer 3
 freeloaded 2
 florate 2
 freemasonic 3
-floriform 1
+floriform 2
 freemasonical
 finitesimal 3
 flatfootedness 2

@@ -19217,7 +19217,7 @@ avilion
 agrarianism
 antiparasitic
 auriscope 2
-archconsoler 1
+archconsoler 2
 ardish 2
 ardito 2
 amianthoidal
@@ -22147,7 +22147,7 @@ ambitionless
 ailantery 1
 abjudge 2
 argute 2
-acromegalies 2
+acromegalies 3
 antebrachium
 alcavala
 asthenia
@@ -22358,7 +22358,7 @@ autoreduction
 atmologist 2
 astrodiagnosis 2
 androphyll
-afterbodies
+afterbodies 1
 amphitron 2
 achromatolysis
 africanist 1
@@ -22834,7 +22834,7 @@ atmosphereful 2
 anatomization 2
 apachite 1
 agamic 1
-apanaging
+apanaging 1
 aedilitian 1
 atmospherically 1
 atmospherics
