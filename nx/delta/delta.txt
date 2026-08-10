@@ -8431,7 +8431,7 @@ dorsiventrally
 ds
 degreed 1
 diamagnet 1
-diamagnetism 1
+diamagnetism 2
 dredging
 ditrochee
 deflexed 2
