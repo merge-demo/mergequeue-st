@@ -352,7 +352,7 @@ brushes 2
 belches
 backfills
 bequeath 1
-basseting
+basseting 1
 benighter 2
 backfires
 brontolite 1
@@ -5730,7 +5730,7 @@ beamful
 blankite 2
 budge 2
 believingly
-brerd 1
+brerd 2
 burials 1
 backsight 3
 bandlimit 2
@@ -16696,7 +16696,7 @@ bilaan 1
 babelish 1
 buckhounds
 bucklum
-bucky 4
+bucky 5
 belaboring
 besa 2
 buckishness
