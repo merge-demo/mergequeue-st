@@ -110,7 +110,7 @@ ecphoria
 enamoured
 eusteles 4
 eaves 1
-excrementally 1
+excrementally 2
 exsculptate
 equisetaceae 1
 engobe
@@ -345,7 +345,7 @@ eavedrop 1
 eriophyidae 2
 eavedropping 1
 entrenchments 2
-ephthianure 1
+ephthianure 2
 endevil 1
 embouchement 1
 efformative 1
@@ -1622,7 +1622,7 @@ elchee 2
 effusions 3
 exotoxin
 ehretiaceae 1
-env
+env 1
 eckehart
 enterobacterium
 eyah 1
@@ -3689,7 +3689,7 @@ embosking
 embryologist 1
 entify 2
 embryonic 2
-erythromycin 2
+erythromycin 3
 expectant 3
 elec 2
 extratellurian 1
@@ -5261,11 +5261,11 @@ eliminability 1
 extrahepatic
 eurybathic
 eucopepoda
-endogamy 1
+endogamy 2
 excudate 1
 endoscope 2
 endoscopes 1
-equivocalities 1
+equivocalities 2
 eradicators 1
 egeran 1
 emmeniopathy 3
@@ -5507,7 +5507,7 @@ enophthalmos 1
 expandability
 episcopality
 ecphrasis
-endoergic 1
+endoergic 2
 enfevering
 emitters 2
 edwardeanism 1
@@ -6669,7 +6669,7 @@ entertainment 1
 endosepsis 1
 echimys 3
 epicenters 2
-equines
+equines 1
 espaliers
 epithecal
 evaginable
@@ -6721,7 +6721,7 @@ emydosaurian 3
 emmarvel 2
 epithelioglandular 1
 electrothanatosis 2
-ephemeral
+ephemeral 1
 eole 4
 embroche 1
 engagedly 3
@@ -6800,7 +6800,7 @@ ensky 1
 etherification
 exceptionless 1
 epitome
-exterior
+exterior 1
 eyewinker 1
 egalitarianism 2
 embarque 2
@@ -8958,7 +8958,7 @@ enteropneust 2
 effected 2
 erysipelatous 2
 erraticalness 1
-expletively 1
+expletively 2
 erysipeloid 1
 endothoracic 1
 extrinsicate 2
@@ -10463,7 +10463,7 @@ ericius 1
 etypically 1
 emblemed 1
 enteroviral 3
-etherin 1
+etherin 2
 exalate 2
 encroachingly
 elance
@@ -11316,7 +11316,7 @@ endue 2
 eliquated 2
 evaporations
 earthian
-ethicals
+ethicals 1
 emblemology 2
 epoche 1
 ekerite 1
@@ -12374,7 +12374,7 @@ elric 1
 enzym 1
 exertions
 epistasy 1
-enurny
+enurny 1
 eseptate 1
 equilobate
 eupepsies 1
@@ -13245,7 +13245,7 @@ eupepsia
 explainable 2
 expropriated 1
 earing
-explainableness
+explainableness 1
 eternality 1
 eductor
 epiphytism 3
@@ -14065,9 +14065,9 @@ excitonic 2
 enterochromaffin
 extravagance 2
 extravagantly
-enchantingly 3
+enchantingly 4
 ethaldehyde 3
-emulsibility 2
+emulsibility 3
 extravaganza 1
 eutectoid 1
 extravaginal 1
