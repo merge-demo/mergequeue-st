@@ -179,7 +179,7 @@ finitary 1
 factoryship
 floatiness 2
 foment 2
-flashily
+flashily 1
 feuar
 florin 2
 folletage 3
@@ -7825,7 +7825,7 @@ fibromyomectomy 2
 foyboat 2
 florette 2
 fluidimeter 2
-flashness 2
+flashness 3
 fashes 1
 fuzed
 frounces 1
@@ -9890,7 +9890,7 @@ friskle 3
 foreappointment
 fricandeaux 3
 fuliginously
-foozlers
+foozlers 1
 famishing 2
 footcloths 1
 frogeye 1
