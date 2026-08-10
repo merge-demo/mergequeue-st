@@ -4432,7 +4432,7 @@ bypassing
 becloaks
 blackfriars 4
 batule 1
-becloak 4
+becloak 5
 bereavement
 boojum 4
 bethorning
@@ -5140,7 +5140,7 @@ batta
 befuddles
 bathmotropic
 bogbean
-bouffants 1
+bouffants 2
 beguile 1
 bankers 1
 batoid
@@ -5332,7 +5332,7 @@ burkers 2
 bor 1
 beglooms 1
 begloze 1
-busti 1
+busti 2
 brokenly
 baidar 1
 breviers
@@ -5448,7 +5448,7 @@ boatable 1
 becudgelling 2
 beetling 1
 behemoths 1
-behenate 4
+behenate 5
 behenic
 bemixed 1
 booing
@@ -6795,7 +6795,7 @@ bibliotaphic 1
 batten 1
 berthed
 birdeye
-bradypodoid
+bradypodoid 1
 bluehearts 1
 buprestidan 1
 bertie
@@ -12186,7 +12186,7 @@ boleweed 1
 biometeorology
 blandiloquence 1
 benzodiazine
-bridgeboard 3
+bridgeboard 4
 bijugular 2
 bolide 1
 bolivar 2
@@ -16648,7 +16648,7 @@ buccopharyngeal 1
 bucculae 2
 butyr 2
 bloused 1
-bisons
+bisons 1
 bardlet 2
 bulanda
 blacking
