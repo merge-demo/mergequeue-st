@@ -352,7 +352,7 @@ brushes 2
 belches
 backfills
 bequeath 1
-basseting
+basseting 1
 benighter 2
 backfires
 brontolite 1
@@ -5730,7 +5730,7 @@ beamful
 blankite 2
 budge 2
 believingly
-brerd 1
+brerd 2
 burials 1
 backsight 3
 bandlimit 2
@@ -8556,7 +8556,7 @@ barabra 1
 bo
 bunting 1
 bedder
-bradycardia 1
+bradycardia 2
 billabong 2
 billage 2
 brumes 1
@@ -9424,7 +9424,7 @@ befitting 1
 basichromatic
 bluegums 2
 belabours 2
-biophotometer
+biophotometer 1
 bullyhuff 2
 brattach 1
 bathman 4
