@@ -2102,7 +2102,7 @@ daintify 2
 doline
 diapasm 1
 daunts
-doab
+doab 1
 disinheritances 1
 duddies 2
 despoilment 2
@@ -7146,7 +7146,7 @@ desulfurising 2
 dinotheriidae
 desulfurizing 2
 demolitions
-dynamometric 1
+dynamometric 2
 dodecade 1
 depictor 1
 deambulate
@@ -8348,7 +8348,7 @@ divinify 1
 dialypetalous 2
 diplumbic 1
 discriminations 1
-dichotomization 1
+dichotomization 2
 dialysability
 diastolic 1
 docquet 4
@@ -10766,7 +10766,7 @@ decolorization 1
 deoxidized 1
 detachably
 dirdums
-demirelief 1
+demirelief 2
 directdiscourse 1
 diastereoisomeric 1
 draine
@@ -15012,7 +15012,7 @@ doggerelist
 desperate 2
 doggerelizing 3
 diphthongising 1
-disrout 1
+disrout 2
 durnedest 2
 decided 1
 deformer
@@ -16086,7 +16086,7 @@ drawlingness 1
 doughiness
 dwindle
 dystectic 3
-denshire
+denshire 1
 daimonistic 1
 deathbed
 doughty
@@ -17868,7 +17868,7 @@ darktown 3
 darrell
 dorper 2
 ductor
-dowdies 2
+dowdies 3
 ductules
 ducal 1
 drawlatch 1
