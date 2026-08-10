@@ -2839,7 +2839,7 @@ gipser 2
 grasschat 3
 gasmetophytic 2
 galvvanoscopy
-gasiform
+gasiform 1
 gumlah 1
 gummosity 1
 genuflex
@@ -3089,7 +3089,7 @@ gelosin
 grassplot 5
 georgemas 2
 germanite 5
-gurgles
+gurgles 1
 georgics 2
 gnathal 4
 goosetongue 4
@@ -5162,7 +5162,7 @@ guinfo 3
 gemara 5
 gentianose 4
 gena 1
-geogenesis
+geogenesis 1
 grottesco 1
 geometricism 4
 gymnanthous 2
@@ -6208,7 +6208,7 @@ glissader 4
 gregor 2
 garrisoned 2
 gastrimargy 1
-guillotinade 3
+guillotinade 4
 gloving 1
 gamopetalae
 gp 4
@@ -7072,7 +7072,7 @@ glaces 2
 gestalter 1
 gourounut 1
 guerite 1
-gearshifts 1
+gearshifts 2
 gaus 1
 gunwales 3
 gesnerian 1
