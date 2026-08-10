@@ -1206,7 +1206,7 @@ antilopine
 anemophily
 acanonical
 acanthaceous 1
-aeacus
+aeacus 1
 applauses 1
 adjustor
 acanthia 1
@@ -3891,7 +3891,7 @@ adipocellulose 1
 arrayer 1
 adipocere
 adipoceriform
-adipoid
+adipoid 1
 angiology
 amati 1
 aziola
@@ -5874,7 +5874,7 @@ agelast 2
 agelaus 1
 agelessness
 aphicidal
-adradial 2
+adradial 3
 achaque 1
 agen 3
 asperness 1
@@ -11928,7 +11928,7 @@ anamorphoscope 1
 agalawood
 apophlegmatism
 ankylenteron 1
-anamorphosis 1
+anamorphosis 2
 accurre 1
 acetarious
 archvagabond 2
@@ -14569,7 +14569,7 @@ amphrysian
 anthropomorphidae 2
 armature 2
 anthropomorphised 1
-arimaspian 1
+arimaspian 2
 arborean 2
 admass
 anthropomorphisms
@@ -16580,7 +16580,7 @@ athanasy 1
 annullable 1
 anadem
 alisanders
-apanthropia 2
+apanthropia 3
 awakenment 2
 aparejos 2
 antarctogaean 1
@@ -22529,7 +22529,7 @@ antivirotic 2
 accessioned
 atavi
 anansi
-atavic 1
+atavic 2
 atmoclastic
 annihilation
 acquiescently

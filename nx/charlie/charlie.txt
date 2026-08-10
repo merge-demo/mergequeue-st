@@ -5160,7 +5160,7 @@ canvaser
 chaprassi 1
 caseinogen 2
 caseload
-caprylene
+caprylene 1
 cackle
 casemaking 2
 casemates
@@ -10062,7 +10062,7 @@ chervontsi
 chesapeake 1
 carcan
 caboche 3
-cumidin
+cumidin 1
 complier 1
 cheselip
 coxocerite
@@ -12974,7 +12974,7 @@ circumhorizontal 1
 continentality 1
 cyanides
 cyanidrosis
-clothes
+clothes 1
 cyanids
 cyanimide
 cyanine
@@ -25804,7 +25804,7 @@ corroboratory
 corroboratorily 1
 collectional 2
 creem 1
-carhouse
+carhouse 1
 corrode
 corrie 1
 copremic 1
@@ -27335,7 +27335,7 @@ circumciser
 coupstick
 coupure 1
 courage 2
-courageous 1
+courageous 2
 courager
 curacy
 callicarpa 1
