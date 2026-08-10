@@ -2880,7 +2880,7 @@ forepreparation 1
 fetwa 1
 foreiron 2
 ferlies 1
-fetterlock 4
+fetterlock 5
 flatfish
 forewing 3
 foxship
@@ -7971,7 +7971,7 @@ fadging 2
 ferreled 1
 flacks
 fidejussionary 2
-falk 2
+falk 3
 fingall 1
 fistula 2
 foreshock 1
