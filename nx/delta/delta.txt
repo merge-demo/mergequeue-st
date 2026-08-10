@@ -16812,7 +16812,7 @@ drawback 2
 drawbar 1
 disposability
 desisted
-decolorate
+decolorate 1
 demirobe
 dyscrasial
 detritivorous
