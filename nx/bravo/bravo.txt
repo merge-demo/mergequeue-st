@@ -2607,7 +2607,7 @@ bowable
 bears 1
 barytophyllite 2
 blawed
-bridgelike 1
+bridgelike 2
 barkary 1
 bluestocking
 barkbound 2
@@ -6703,7 +6703,7 @@ bologna
 bermensch 1
 bermes 1
 bagaudae 3
-basaltoid
+basaltoid 1
 biked
 blurted 2
 beholds
@@ -11579,7 +11579,7 @@ ballismus 2
 byronism 1
 bromidic
 brogger 2
-blush
+blush 1
 blushed 3
 banga
 bandannas 2
@@ -13365,7 +13365,7 @@ bathyorographical
 blastman
 breeders 2
 benightedly
-brusquely 1
+brusquely 2
 bothersomely 1
 belabor
 beatings 3
