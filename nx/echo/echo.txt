@@ -1989,7 +1989,7 @@ eradiculose
 elabrate 2
 endocrinotherapy 2
 erythrosine 1
-epitrophy 2
+epitrophy 3
 encurl
 exophasia 1
 emersion
@@ -4135,7 +4135,7 @@ entombments 3
 eniac
 emplunge
 eccentring
-empodia
+empodia 1
 eclegm 2
 extracranial
 energids 2
@@ -8931,7 +8931,7 @@ erinaceidae
 ephebes 1
 eclairissement 2
 ectotherm
-expropriation 2
+expropriation 3
 entrepreneurial 1
 eryngos
 elasmotherium
