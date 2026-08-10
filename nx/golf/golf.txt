@@ -835,7 +835,7 @@ greyhounds
 goban 5
 genistin
 granulater 3
-geonegative
+geonegative 1
 gamboled 2
 goethe 1
 guaraunan 2
@@ -2961,7 +2961,7 @@ gondite 3
 gavialis 1
 gelly 1
 galvanocauteries 3
-gentlefolk 1
+gentlefolk 2
 gambusia
 guatambu 2
 glitnir
@@ -6382,7 +6382,7 @@ gasproof 1
 guff 1
 gussied 2
 glassworks 2
-gonotyl
+gonotyl 1
 gracer 1
 gasterozooid 3
 geoponic 1
@@ -6751,7 +6751,7 @@ guib 1
 gamelang
 ganam 1
 gamgee 3
-gratias
+gratias 1
 gadidae 1
 gobbing 1
 gud
@@ -6863,7 +6863,7 @@ granma
 gynandroid 2
 garfish
 gregarina
-gujarati 1
+gujarati 2
 gumwoods 2
 gelatinoid 1
 graticulate 3
