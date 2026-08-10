@@ -733,7 +733,7 @@ footmanhood 2
 flurries 1
 fulminate 1
 faraday 1
-fluxibility 3
+fluxibility 4
 fibrilliferous 2
 footbreadth
 fanatism 1
@@ -4240,7 +4240,7 @@ fireplug 1
 firepot 1
 foreflank 1
 forebooms 1
-flots 1
+flots 2
 frangipanni 1
 floridians 2
 flaxbird 1
@@ -7206,7 +7206,7 @@ ficoides 2
 forearming
 farer 2
 frockless
-fural
+fural 1
 frisesomorum
 filthless 1
 fortnight 1
