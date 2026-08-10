@@ -5535,7 +5535,7 @@ dibber 1
 dustfall
 draftable
 depended 2
-descends
+descends 1
 darker 1
 dolichopellic 1
 dependence 1
@@ -16022,7 +16022,7 @@ drent
 decompensated 1
 duryodhana
 distally 1
-doublethink 2
+doublethink 3
 driveline
 drainboard 1
 dockers 1
