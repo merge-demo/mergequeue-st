@@ -345,7 +345,7 @@ eavedrop 1
 eriophyidae 2
 eavedropping 1
 entrenchments 2
-ephthianure
+ephthianure 1
 endevil 1
 embouchement 1
 efformative 1
@@ -560,7 +560,7 @@ echitamine
 eccentrical 2
 epigynum 1
 excision 1
-esophagoscopy
+esophagoscopy 1
 eurypelma 4
 eurythermic 1
 ecclesiastes
@@ -1026,7 +1026,7 @@ exadversum 1
 erugo 2
 etchareottine 1
 excisable 1
-eyeless 1
+eyeless 2
 endoskeleton 5
 eqpt
 edgar 1
@@ -1380,7 +1380,7 @@ enneastylos 1
 epeidia
 epilaryngeal
 enneandrous 2
-eubranchipus 2
+eubranchipus 3
 efflagitate 3
 epitympanic
 eugubium
@@ -1986,7 +1986,7 @@ emulsic 1
 equisonant 2
 endodontist 2
 eradiculose
-elabrate 2
+elabrate 3
 endocrinotherapy 2
 erythrosine 1
 epitrophy 3
@@ -2294,7 +2294,7 @@ euphuism 1
 endosteum 1
 eval
 escalatory
-exterminations
+exterminations 1
 ensepulchre 2
 eristical 1
 electrization 2
@@ -2608,7 +2608,7 @@ estimated
 elanet 2
 eave
 eu 2
-ecthetically 1
+ecthetically 2
 execrations
 etymologisable 2
 exempla 2
@@ -2737,7 +2737,7 @@ enturret 4
 exprobate 1
 encoil 2
 essie
-excrescently
+excrescently 1
 ergastic 1
 eucatropine 3
 erythropoiesis 2
@@ -3413,7 +3413,7 @@ embarring 3
 elementoid
 ethnarchy 1
 enosises 1
-ephoral 2
+ephoral 3
 erinize
 embassadress 2
 exumbral
@@ -3465,7 +3465,7 @@ enthronement 1
 ebionism 4
 ekhimi 2
 emotivity 1
-eversporting 2
+eversporting 3
 equivocalness 1
 expiative 1
 eleutherosepalous 2
@@ -3723,7 +3723,7 @@ embryulcia 1
 embryulculci 4
 exercitorial 4
 ectoderms 1
-extravagantness
+extravagantness 1
 enfranchise 2
 erodability 4
 excessiveness 1
@@ -3900,7 +3900,7 @@ eels 1
 effodient 1
 exede
 enticeful 2
-examinability
+examinability 1
 epiglottis 3
 extramural 2
 endexine 2
@@ -3932,7 +3932,7 @@ earthbound 1
 excommunicators 1
 emoloa 1
 excretitious
-emolumental 4
+emolumental 5
 echinochrome
 evader 2
 enstate 4
@@ -4095,7 +4095,7 @@ ecdysis
 energetistic 1
 epinicial 1
 excitant
-exogenous 3
+exogenous 4
 enfoulder 2
 eellike 2
 eire 3
@@ -4337,7 +4337,7 @@ enantiomorph 3
 encratic 3
 eluder
 equinovarus 1
-electrolyzer
+electrolyzer 1
 encephalosclerosis
 evisite
 endoplastule 2
@@ -5517,7 +5517,7 @@ enfilade 2
 experimentations 2
 excriminate 4
 extraovular
-extracurricular 5
+extracurricular 6
 enfilades 1
 escutcheoned 1
 eerinesses 1
@@ -5679,7 +5679,7 @@ erastus
 exceptionality 1
 exophthalmic 1
 engined
-ending 1
+ending 2
 ensanguining 1
 excusability
 engage
@@ -5764,7 +5764,7 @@ emhpasizing 4
 eyot 1
 excedent
 ependymitis 2
-ectropionizing 2
+ectropionizing 3
 epistolised 1
 englutted
 edeoscopy
@@ -5801,7 +5801,7 @@ efficace 1
 electrovalency 1
 endura 1
 exfoliation 3
-erlkings 2
+erlkings 3
 epicele 2
 extrinsic 4
 engram 2
@@ -7667,7 +7667,7 @@ elds 2
 ethnocentric
 exultantly
 ethylating
-embreathe
+embreathe 1
 equidensity
 ephebic 1
 euphonising 1
@@ -8067,7 +8067,7 @@ embellish 2
 episarkine
 ethnology
 epiural 1
-extracalicular 3
+extracalicular 4
 epididymite
 earaches 4
 enew 3
@@ -10259,7 +10259,7 @@ estafet
 evectic 1
 economical
 elucidatory
-esterases
+esterases 1
 endoscopist 2
 ethylation
 entrust 5
@@ -10648,7 +10648,7 @@ excavate 1
 endozoa
 eques
 enharmonical 1
-enchilada 1
+enchilada 2
 eudemonistic 1
 enfacement 3
 eudemonics
@@ -10689,7 +10689,7 @@ estragon
 eremite 1
 easternism 2
 eugenically 1
-eugenie 4
+eugenie 5
 eugenism 5
 epikouros
 elatedness 1
@@ -10717,7 +10717,7 @@ electrotypic 1
 evenworthy 1
 edited 2
 ecossaise 1
-etiquet 1
+etiquet 2
 excusable 1
 eugonic 1
 eggheaded 2
@@ -10758,7 +10758,7 @@ excelled 2
 eulimidae 2
 encefalon 3
 epicoela
-eulytine 2
+eulytine 3
 eelblenny 2
 eulogias 3
 entopopliteal 3
@@ -10943,7 +10943,7 @@ eupyrion 2
 eupittone
 enteritis 1
 exams 3
-eventognathi
+eventognathi 1
 eyebeams 2
 eupittonic 1
 euplexoptera 1
@@ -12134,7 +12134,7 @@ earthshaker
 edrioasteroid
 excerpter 1
 eubacterium 4
-ency 1
+ency 2
 enascent
 excruciator
 ennomic 2
@@ -12598,7 +12598,7 @@ exclaim
 ergonovine 1
 exobasidium 1
 eupathy 2
-enlure 1
+enlure 2
 echuca 1
 eating 1
 ecru 1
@@ -12687,7 +12687,7 @@ expunges 1
 exornate 2
 exogenetic 1
 enkolpion 1
-exometritis 3
+exometritis 4
 excogitate
 endeavors
 emotionless 2
@@ -13293,7 +13293,7 @@ eglantine 1
 entomotomy 2
 etches 2
 electrohomeopathy 1
-earner 1
+earner 2
 eolation 3
 eyeshield 1
 exploded
@@ -13828,7 +13828,7 @@ entomogenous 1
 elachista
 ethnicism 3
 exacuate
-encyclopedical
+encyclopedical 1
 egyptologist 2
 establishmentarianism
 extortive 2
