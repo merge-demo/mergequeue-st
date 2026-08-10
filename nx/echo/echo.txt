@@ -1218,7 +1218,7 @@ enneastyle 1
 electrosherardizing
 embrue 1
 exceptio 1
-escalade 2
+escalade 3
 externity
 eudendrium 2
 enskied
@@ -3696,7 +3696,7 @@ extratellurian 1
 eluates 1
 effluvium
 enantiotropic 2
-expunged
+expunged 1
 elucidators
 embryophore
 educations
@@ -5707,7 +5707,7 @@ emplectite 1
 engirds 1
 electroblasting 1
 eyeglance 2
-etheling 2
+etheling 3
 extraverted
 extemporised 2
 endofaradism 2
@@ -13809,7 +13809,7 @@ edingtonite 2
 edestosaurus 4
 epiphysary 2
 ethnographic 1
-enserfing
+enserfing 1
 extolling 1
 enouncement 3
 elephas
