@@ -81,7 +81,7 @@ forme 2
 filching
 faces 2
 folkright 2
-flattening
+flattening 1
 flowerfence 3
 foliobranch 1
 funambulating 2
@@ -1124,7 +1124,7 @@ fiberization
 frumety
 feroher 2
 fidelis
-flax
+flax 1
 fatally 3
 fearbabe
 feebleminded
@@ -1839,7 +1839,7 @@ firefly 1
 farcicality 2
 funambulate
 foreign
-febricant 2
+febricant 3
 frilly 1
 frictions 1
 fore 1
@@ -1921,7 +1921,7 @@ forgiver 3
 farrowing 1
 flattery 1
 fanglike 2
-federalism 1
+federalism 2
 fykes 2
 fecalith
 frithborh 2
@@ -2119,7 +2119,7 @@ fellata 2
 fellate 1
 foldboat
 flappered
-fellating
+fellating 1
 furane
 fluorometric 1
 fellation 1
@@ -2526,7 +2526,7 @@ flunky 2
 foulmouth 3
 formaldehyde
 feverlike 2
-frondescent 3
+frondescent 4
 ferrelling 1
 fluorine 5
 footropes 1
@@ -3655,7 +3655,7 @@ flagella 1
 foredate 1
 forelooper 2
 floorings 2
-fuzzing 1
+fuzzing 2
 funnelling 1
 fertilised 3
 foreglow 1
@@ -4616,7 +4616,7 @@ fruitgrowing
 fitchew 1
 fitified 1
 fluoridizing
-frontomalar 3
+frontomalar 4
 fourragere 1
 fdtype
 flavory 1
@@ -6498,7 +6498,7 @@ footages 2
 fotui
 filches 4
 figurally
-fluted 2
+fluted 3
 featherbedded 1
 faintish
 frenzied
@@ -6750,7 +6750,7 @@ fibrocellular 1
 food 1
 foliageous
 fineer 3
-forelimb 3
+forelimb 4
 furthersome 5
 fibrochondroma 4
 fleury 3
@@ -6981,7 +6981,7 @@ faineance 2
 flay 1
 festucous 1
 fetishization 2
-fissicostate 2
+fissicostate 3
 formylation
 foetus 1
 foments
@@ -8733,7 +8733,7 @@ furlong
 fissility
 frankhearted
 favoress 1
-flattens 2
+flattens 3
 feteless 2
 fame 1
 faciendum 1
@@ -10215,7 +10215,7 @@ fastings 2
 fleishig 1
 formalism 2
 flint 1
-frangibleness 1
+frangibleness 2
 feebly
 facingly
 farce 2
@@ -10229,7 +10229,7 @@ faros 1
 foursome 2
 frog 1
 frutilla 2
-freudianism 2
+freudianism 3
 flopovers 1
 fervidness 3
 frogbit 1
@@ -10632,7 +10632,7 @@ foilsman 1
 filaceous 2
 fringillaceous
 furtive 1
-famular
+famular 1
 finched 1
 fructuate
 flucan
@@ -10669,7 +10669,7 @@ fatcake 2
 fictitious 5
 femininity 1
 freezingly 1
-friandise 2
+friandise 3
 fruitbearing 4
 foremark 3
 frailties 1
