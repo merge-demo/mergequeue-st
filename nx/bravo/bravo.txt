@@ -3569,7 +3569,7 @@ binode 1
 baizas
 blonds 1
 bathylithic
-bathymetry
+bathymetry 1
 bathymetrical 1
 biggonet 1
 bulleted 1
@@ -8790,7 +8790,7 @@ bekissing 1
 basoche
 bual 1
 brewer 1
-buoying 3
+buoying 4
 bindweed
 backlogging 1
 barocco
