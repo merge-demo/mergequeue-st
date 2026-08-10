@@ -66,7 +66,7 @@ facebar 1
 facebow 2
 fenchone 2
 faceharden 1
-flagships 1
+flagships 2
 flecken 1
 facellite 3
 ferrocyanide 3
@@ -2708,7 +2708,7 @@ faradopalpation 1
 firebird 1
 fluorobenzene
 feigher 1
-flaggella 1
+flaggella 2
 factorization 2
 fouette 1
 fervor
@@ -4908,7 +4908,7 @@ fourscore 2
 flakiest
 forged 1
 fissura 1
-flambeau 2
+flambeau 3
 foamier 3
 ferny
 fixate 1
@@ -5666,7 +5666,7 @@ fluidising 2
 fireable 2
 flimsiness
 fairleads
-flinch 4
+flinch 5
 flagleaf
 fatted 1
 fishnets 1
@@ -5944,7 +5944,7 @@ foreshadowing 1
 falstaffian 1
 flatwash 2
 foreworld 2
-floodgates 2
+floodgates 3
 fiercest
 foolhardily 1
 falseface 2
@@ -8546,7 +8546,7 @@ farnovian 2
 fiuman 2
 fanaticising 1
 forbearance
-forminate
+forminate 1
 forming
 formless 2
 forwoden 4
@@ -9422,7 +9422,7 @@ functionary 1
 fummle 3
 fastenings 5
 fowk 1
-farmhold
+farmhold 1
 frails 1
 financer
 fisheater
@@ -10972,7 +10972,7 @@ fooled 2
 fishplate 1
 fulzie 1
 favositidae 2
-flagellar 2
+flagellar 3
 fourball
 floodless 3
 flubdub 3
