@@ -11903,7 +11903,7 @@ depthing 1
 doorba 2
 discompose 2
 dramatizes
-downrange 1
+downrange 2
 domes
 disembarked 3
 duskish
@@ -16644,7 +16644,7 @@ discumb 2
 detesting 1
 dragonwort 2
 desoxyribonuclease 2
-dragoonable
+dragoonable 1
 dation 1
 denunciable 2
 debused 2

@@ -13014,7 +13014,7 @@ cyanocobalamine
 cyanoderma
 catchland 2
 cantrap
-cyanoethylation
+cyanoethylation 1
 crumbable
 crates 2
 cyanoguanidine
@@ -21333,7 +21333,7 @@ conchol
 conchometer 1
 conchospiral
 cowboys 1
-conchostraca
+conchostraca 1
 corotated 2
 computed 1
 conchs 3
