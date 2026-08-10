@@ -2497,7 +2497,7 @@ colloidally 2
 circumnatant
 candescence 1
 cabalists 2
-candid
+candid 1
 canadianization
 curchef 1
 copperish
@@ -7431,7 +7431,7 @@ commerced
 checkmates
 cartesianism
 culilawan
-cerated
+cerated 1
 containment
 cerates 2
 chitting
@@ -9666,7 +9666,7 @@ cerebrasthenic 1
 caravaning
 counseling
 cheeseparing 1
-cheesewood
+cheesewood 1
 crabeater 1
 chevre
 convocate 1
@@ -10076,7 +10076,7 @@ chimney
 chemise
 counterfugue
 collab
-coalbox
+coalbox 1
 chipchap
 chessdom 2
 chesser 1
@@ -10335,7 +10335,7 @@ consultory 2
 canariote
 chickwit 1
 chicle
-chicly
+chicly 1
 chicness
 chantries 2
 chico
@@ -26748,7 +26748,7 @@ carromatas
 cars
 cartelization
 cacogenics
-counterbattery
+counterbattery 1
 century 2
 counterbend 1
 calamitously
