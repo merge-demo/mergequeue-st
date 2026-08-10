@@ -941,7 +941,7 @@ fictionization 2
 fardel 1
 flashiest 1
 flannelmouth 1
-foxhound
+foxhound 1
 fusion
 fardelet
 futtah 5
@@ -1456,7 +1456,7 @@ flaillike 3
 fissidentaceous 3
 frizzes 4
 flunkyhood 1
-feminise 2
+feminise 3
 faecula 1
 fluoroscopist 1
 folkish 2
@@ -2044,7 +2044,7 @@ falconet 2
 fourpounder 4
 ferngrower 1
 frontspiece 3
-feinter
+feinter 1
 faucalize
 flindosa 1
 forwander 3
@@ -2860,7 +2860,7 @@ fibroglia 2
 furunculosis 4
 flatwares 3
 formol 1
-feltyfare 1
+feltyfare 2
 fisty
 finable 2
 foresails 3
@@ -11202,7 +11202,7 @@ forktail 1
 fundungi
 firewall
 forcipal
-fireplugs 1
+fireplugs 2
 felonwort 1
 frenzelite 1
 fastly 4
