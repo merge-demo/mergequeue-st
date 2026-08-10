@@ -2270,7 +2270,7 @@ facaded 1
 florentinism 2
 fimble 2
 flatulence
-firebombed 2
+firebombed 3
 fumaria 2
 forshape 3
 full 2
@@ -2328,7 +2328,7 @@ furrowless 1
 frangipane 3
 fensive 1
 furner
-falbalas
+falbalas 1
 frillings 2
 fecula 3
 fenzelia
@@ -4494,7 +4494,7 @@ factorship 2
 flouncing
 felinae 1
 figurer
-flattop 2
+flattop 3
 forblow
 feebleheartedness 1
 foreshank 2
@@ -4557,7 +4557,7 @@ fourth 1
 feudists 1
 frit
 futtocks 2
-forespoken
+forespoken 1
 freith
 fisticuff 2
 familiarness 2
@@ -5367,7 +5367,7 @@ foreclosed 1
 fissured 1
 faconde
 filters
-floccillation
+floccillation 1
 faverel 1
 figged 3
 flnerie 2
@@ -9975,7 +9975,7 @@ forkbeard 2
 fleabane 1
 formated 4
 feceris 3
-flotant 1
+flotant 2
 fortuitism 1
 forsythias
 ferromagnetism 1
@@ -10536,7 +10536,7 @@ froth 2
 formulatory
 fanman
 fittingly 2
-forays 3
+forays 4
 flyback 2
 frottola 2
 federalizations
@@ -10586,7 +10586,7 @@ furnaces
 fossilised 3
 fieldpiece 2
 frowziest 2
-frowzled
+frowzled 1
 firebases 4
 fresh 1
 falding 3
