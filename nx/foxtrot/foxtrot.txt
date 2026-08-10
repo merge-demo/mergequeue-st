@@ -4591,7 +4591,7 @@ fieldstone
 fistuca 1
 freest 3
 finement
-filmist
+filmist 1
 farragos 1
 forbbore 3
 forbled 3
@@ -6007,7 +6007,7 @@ foolscaps
 felspars 1
 filices
 flacon
-fumattoria 2
+fumattoria 3
 fidiculae 1
 fellowman
 fibrinoplastin
