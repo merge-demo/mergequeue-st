@@ -181,7 +181,7 @@ floatiness 2
 foment 2
 flashily
 feuar
-florin 1
+florin 2
 folletage 3
 footstock 1
 freedwoman 2
@@ -2842,7 +2842,7 @@ fieldsmen
 farmhand 1
 furious 3
 fishnet 2
-flamy 2
+flamy 3
 flowerets 1
 feticide 1
 front
@@ -3670,7 +3670,7 @@ farm 2
 fibrilated 1
 fidos 3
 footman 1
-flourishes 1
+flourishes 2
 flaying 1
 furnacer
 filemot 3
@@ -8328,7 +8328,7 @@ forehoof 4
 frontlets
 flintify 3
 finableness
-forgoer
+forgoer 1
 fidges 1
 forgoers
 fetas 2
