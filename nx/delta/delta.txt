@@ -8617,7 +8617,7 @@ dialyses 1
 diary
 diaglyph 1
 diarist 2
-dibbuk 2
+dibbuk 3
 denatured 2
 diarrhea 2
 dows
@@ -12130,7 +12130,7 @@ dichloromethane
 demonism 2
 daystreak 1
 dilker 1
-declinations
+declinations 1
 dehusk 1
 depthometer
 dha 2
@@ -14908,7 +14908,7 @@ disponing
 digammas 1
 dominates
 descrying 1
-dracontine 1
+dracontine 2
 dev 1
 dumbbells 2
 defendants 1
