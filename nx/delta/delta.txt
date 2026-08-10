@@ -440,7 +440,7 @@ disposal 1
 drenchers
 dimyaric 1
 diathermous 1
-dimercaprol 1
+dimercaprol 2
 daises
 defiance 1
 dangleberries 2
@@ -2474,7 +2474,7 @@ dateline 1
 deckel
 deporte 2
 ditchdown 1
-dirigent 1
+dirigent 2
 deckhand
 duckwing 1
 deckle 3
@@ -8529,7 +8529,7 @@ disindividualize
 dehydrofreeze 1
 diet 2
 devily
-dyschromatopsia
+dyschromatopsia 1
 dethrone
 dewbeam 1
 didacts 2
@@ -9067,7 +9067,7 @@ defigure 2
 dictionarian 1
 dollying 1
 dropsywort 1
-disembattle 1
+disembattle 2
 danglingly 2
 dyester
 discommodity
@@ -13083,7 +13083,7 @@ drippiest
 dictamina 1
 dragster
 dispendiously 1
-debasing
+debasing 1
 drooped 1
 dispensationalism 1
 dentistries
@@ -18140,7 +18140,7 @@ dumdums
 dadu 2
 drab 2
 distichs 2
-dumfounded 1
+dumfounded 2
 dahlia
 debarrass
 dammed 1
