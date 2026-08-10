@@ -3521,7 +3521,7 @@ batched 1
 batcher 3
 bargemen
 bravissimo 1
-bogging 1
+bogging 2
 bois
 bitterhearted 1
 bateau 2
@@ -5739,7 +5739,7 @@ baaed 3
 bulgaria 1
 bulldozer 2
 belike 1
-bogeying
+bogeying 1
 bribes 3
 bastonet 2
 bedsheets
@@ -11314,7 +11314,7 @@ bedels
 blows
 bleachability
 boneyard
-biologism
+biologism 1
 bipunctate 1
 blowse
 bargeman 5
@@ -13856,7 +13856,7 @@ burkite 4
 broadhead
 bedded 1
 babbly 2
-blenniid 1
+blenniid 2
 baas
 balaustine
 byzantian 1
