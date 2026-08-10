@@ -508,7 +508,7 @@ gives 1
 geoffroyine 3
 gyrowheel 1
 gerah 1
-gliomas 1
+gliomas 2
 germproof 1
 geeldikkop 1
 galipoidin 3
@@ -835,7 +835,7 @@ greyhounds
 goban 5
 genistin
 granulater 3
-geonegative
+geonegative 1
 gamboled 2
 goethe 1
 guaraunan 2
@@ -2961,7 +2961,7 @@ gondite 3
 gavialis 1
 gelly 1
 galvanocauteries 3
-gentlefolk 1
+gentlefolk 2
 gambusia
 guatambu 2
 glitnir
@@ -5394,7 +5394,7 @@ glyoxalic 1
 galliwasp
 guniter 2
 glyphic 4
-gambist
+gambist 1
 girlhood 2
 guerdoned 3
 gus 1
@@ -6430,7 +6430,7 @@ grandeeship 1
 geneses 6
 gallivanted 1
 gouger 3
-guineapig 4
+guineapig 5
 golden 2
 gordian
 gaeltacht 2
@@ -6751,7 +6751,7 @@ guib 1
 gamelang
 ganam 1
 gamgee 3
-gratias
+gratias 1
 gadidae 1
 gobbing 1
 gud
