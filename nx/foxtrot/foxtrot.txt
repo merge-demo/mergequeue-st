@@ -1333,7 +1333,7 @@ frock 1
 fidac 1
 flaggish 3
 foretoken 3
-fatigue 1
+fatigue 2
 fossicks
 fatiguesome 2
 fragmenting
@@ -1814,7 +1814,7 @@ fastener 2
 forgets 1
 furphy 1
 featured
-fluidify 1
+fluidify 2
 featureful 1
 featurelessness
 featureliness 4
@@ -7901,7 +7901,7 @@ flannelbush
 forerun 1
 fname 1
 forjesket 2
-factiousness 2
+factiousness 3
 franklinia 1
 foreruns 1
 flacket
