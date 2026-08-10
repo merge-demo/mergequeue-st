@@ -2431,7 +2431,7 @@ fermail
 fobbed
 festivities 1
 fumier
-fatigate 2
+fatigate 3
 freemasons 2
 fractur 1
 frizzle
@@ -11377,7 +11377,7 @@ fremescence 1
 frothless
 foreprovision 2
 footways 1
-foldless
+foldless 1
 folksiest 4
 foister
 factish 2
