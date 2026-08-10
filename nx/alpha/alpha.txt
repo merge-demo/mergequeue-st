@@ -634,7 +634,7 @@ aahed 1
 assumedly
 allegories
 accommodation
-abolish 1
+abolish 2
 autovaccine
 abolished 2
 aves
@@ -3753,7 +3753,7 @@ alloted 1
 abrenounce 1
 alliteration
 antiquity 2
-anchorhold 2
+anchorhold 3
 aligreek
 autere
 apotheosising 1
@@ -9048,7 +9048,7 @@ aden 1
 autarkically
 andhra
 actinoids 2
-allotriophagy 2
+allotriophagy 3
 acrimony
 aefauld 1
 adscriptitius
@@ -9445,7 +9445,7 @@ aspersoir
 arbitrage 1
 avoir 1
 alsmekill 1
-antidancing 2
+antidancing 3
 alsophila 1
 allusory 1
 adamitic
@@ -10397,7 +10397,7 @@ axwise
 accredited
 astuteness 2
 apitpat
-antiexpansionist
+antiexpansionist 1
 angiotonase 1
 aneled 1
 audio
@@ -13606,7 +13606,7 @@ authenticator 1
 autonomous 1
 acuminose 2
 annular 1
-antihierarchical 2
+antihierarchical 3
 algy
 annulary
 annularia
@@ -15927,7 +15927,7 @@ antiprime
 antiprinciple
 agrotis
 arrhizous 2
-antiproductive
+antiproductive 1
 aceratosis
 antiproductivity 1
 atacaman 1
@@ -18414,7 +18414,7 @@ arleng
 advises
 actinism
 almonds 1
-arase 1
+arase 2
 amylosis 1
 accessability 1
 arati
@@ -18452,7 +18452,7 @@ amebae
 arbacin
 agogics 1
 aerodone
-albeston
+albeston 1
 arbalestrier
 arbalists
 adventry
