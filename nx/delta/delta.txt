@@ -665,7 +665,7 @@ damon
 damosel 2
 drachms
 divorcement 1
-decapitalize 1
+decapitalize 2
 damped
 desquamated
 dionymal
@@ -1988,7 +1988,7 @@ drover 1
 demyelinate 1
 dominated 2
 deflection
-descloizite
+descloizite 1
 decadary 1
 dimethylcarbinol
 depaysee 3
@@ -4651,7 +4651,7 @@ demits
 demitted
 denticulately 2
 dilutive
-duties 3
+duties 4
 dermatherm
 dipterologist
 demiurgeous 3
@@ -14264,7 +14264,7 @@ diluendo 2
 ditchless 2
 ditchwater 2
 downdraft 4
-delightingly 1
+delightingly 2
 descamisados
 diluter
 ditertiary 1
