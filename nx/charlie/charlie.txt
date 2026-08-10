@@ -17337,7 +17337,7 @@ coreceiver
 cimline 1
 coassist
 coassistant 2
-culpas
+culpas 1
 cupola
 coassume
 crystallic 1
