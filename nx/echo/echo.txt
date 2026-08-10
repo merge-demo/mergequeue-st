@@ -1556,7 +1556,7 @@ enervates 2
 elaphebolion
 extraversion
 encampment 1
-epinasty
+epinasty 1
 envigor 1
 exogeny
 exaggeratedness 1
@@ -2999,7 +2999,7 @@ enfield 1
 eleatic 1
 eleoblast
 expositing
-evaluate
+evaluate 1
 exaun 1
 efflorescence 1
 evocative 1
@@ -5261,11 +5261,11 @@ eliminability 1
 extrahepatic
 eurybathic
 eucopepoda
-endogamy 1
+endogamy 2
 excudate 1
 endoscope 2
 endoscopes 1
-equivocalities 1
+equivocalities 2
 eradicators 1
 egeran 1
 emmeniopathy 3
@@ -5706,7 +5706,7 @@ engirdling
 emplectite 1
 engirds 1
 electroblasting 1
-eyeglance 2
+eyeglance 3
 etheling 3
 extraverted
 extemporised 2
@@ -5888,7 +5888,7 @@ exocytosis
 endsweep 1
 enharden 1
 eurytopicity 2
-exoenzymic
+exoenzymic 1
 embuskin
 encages 2
 expos 3
@@ -5992,7 +5992,7 @@ electrodynamism 1
 exhortative 3
 estampedero 2
 erosion 1
-ejects
+ejects 1
 earns 1
 eluding
 extrapituitary 1
@@ -6146,7 +6146,7 @@ encephalophyma 1
 epimandibular 3
 edacious
 equiparant
-eschatologist
+eschatologist 1
 enneaphyllous 1
 evacuating 1
 evector
@@ -7852,7 +7852,7 @@ extortionateness 2
 ecotones 1
 earthenhearted 1
 ejectum 1
-exululate 1
+exululate 2
 epil
 engarland 4
 euphyllopoda 1
@@ -8669,7 +8669,7 @@ equiprobably
 eldfather 1
 equiproportional 1
 ebulliently 1
-equiproportionality
+equiproportionality 1
 egocentrism 2
 eluate
 echelons
@@ -9697,7 +9697,7 @@ eldred
 esse 1
 evangelizing
 elementarism 3
-embryol 3
+embryol 4
 escopette 1
 external 1
 extraprostatic 2
@@ -10463,7 +10463,7 @@ ericius 1
 etypically 1
 emblemed 1
 enteroviral 3
-etherin 1
+etherin 2
 exalate 2
 encroachingly
 elance
@@ -10892,7 +10892,7 @@ euphemistically 1
 euphemize
 eyebeam 3
 enneapetalous 3
-edea 2
+edea 3
 exion 2
 empair 4
 esclandre 1
@@ -11896,7 +11896,7 @@ emptysis
 emptying
 excellence 1
 enomoty
-excels 1
+excels 2
 eosophobia 3
 eternizes
 excelsior 1
@@ -12374,7 +12374,7 @@ elric 1
 enzym 1
 exertions
 epistasy 1
-enurny
+enurny 1
 eseptate 1
 equilobate
 eupepsies 1
@@ -14067,13 +14067,13 @@ extravagance 2
 extravagantly
 enchantingly 4
 ethaldehyde 3
-emulsibility 2
+emulsibility 3
 extravaganza 1
 eutectoid 1
 extravaginal 1
 exteroceptist 2
 expropriates 1
-exorcists 2
+exorcists 3
 echelonment
 enquarter 1
 extracurriculum
