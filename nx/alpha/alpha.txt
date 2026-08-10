@@ -1442,7 +1442,7 @@ attractants 4
 apellous 1
 aproned
 accessary
-aquaria
+aquaria 1
 accessaries 2
 anesthesiometer 1
 accessarily 2
@@ -20431,7 +20431,7 @@ autosymnoia
 alme 1
 artemision
 artemisium
-autoptical 1
+autoptical 2
 assistances
 amatito 1
 aerialness 1
