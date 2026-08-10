@@ -665,7 +665,7 @@ damon
 damosel 2
 drachms
 divorcement 1
-decapitalize 1
+decapitalize 2
 damped
 desquamated
 dionymal
@@ -2393,7 +2393,7 @@ deciduously
 dessertspoonful 1
 dimercuric 1
 decyl 1
-deciles 1
+deciles 2
 dorsiparous 1
 deciliter
 druidry 3
@@ -2409,7 +2409,7 @@ decimalization
 displeases
 decimalizes
 dehiscent
-dreamlit
+dreamlit 1
 deceived 2
 disaffiliation 1
 dane 1
@@ -5142,7 +5142,7 @@ denierer
 denigrates
 dipolarize 2
 denigrator 1
-dietine
+dietine 1
 dumbfounded 1
 denyingly
 decimalize 2
@@ -13116,7 +13116,7 @@ doozer 2
 directionless 2
 dispergate
 doraskean 1
-deathy 1
+deathy 2
 dispericraniate 1
 disenvelop
 discoverability
@@ -18440,7 +18440,7 @@ disarrayed 1
 dupe
 dupedom 1
 destroyer 1
-diphthongise 1
+diphthongise 2
 duping 1
 diabolic
 dipsticks 1
