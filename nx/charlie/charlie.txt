@@ -9203,7 +9203,7 @@ cheering 1
 corf 1
 chastity 2
 chastities
-chockstone 1
+chockstone 2
 chasubled
 cooper 1
 chataka 2
@@ -21984,7 +21984,7 @@ confinable 2
 confine
 comports
 confined 1
-cadging
+cadging 1
 confinedly
 confiners 1
 confines
@@ -29484,7 +29484,7 @@ crystallogenical 1
 cymbiform
 confliction
 chawle 1
-cageot 1
+cageot 2
 chileanize 1
 crystallography
 crystalloid 1
