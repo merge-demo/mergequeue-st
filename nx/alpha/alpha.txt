@@ -988,7 +988,7 @@ alidades 1
 absquatulate
 anchorites 2
 actious 2
-abstain 1
+abstain 2
 abstainer 3
 ameland
 angoras
@@ -1909,7 +1909,7 @@ acerval
 aggressions
 antiphysic 1
 acervate
-acervulus
+acervulus 1
 athlothete
 acestes
 acceleration 1
@@ -6843,7 +6843,7 @@ airdropping
 aired
 anabolic
 arraignability
-airedales
+airedales 1
 asseverations 1
 avowant 1
 augment 1
@@ -8019,7 +8019,7 @@ acutilinguae 1
 argasid 2
 assapan
 auscultations 1
-alternates 1
+alternates 2
 aleurodes
 aleurometer 1
 aleuronat 1
@@ -9783,7 +9783,7 @@ aeroscope
 accoutrements
 amain 2
 amidocaffeine 2
-andouillette 1
+andouillette 2
 ado
 amaister
 abhorrently
@@ -10505,7 +10505,7 @@ amphipodous 1
 amical
 amarettos
 attachments 1
-answerableness
+answerableness 1
 anaxagorize 2
 annotating 2
 appearing 2
@@ -10709,7 +10709,7 @@ amyls
 amylum 2
 abib
 ammer
-auckland 1
+auckland 2
 antimonarchial 2
 aminate
 avoy
@@ -11187,7 +11187,7 @@ actaeaceae
 amphiarthroses
 aphorisms
 amritsar
-amphibial
+amphibial 1
 anfractuous
 ashkenazi 2
 antisun 1
@@ -14430,7 +14430,7 @@ anglicizing 3
 aboiteaus
 agatiform 1
 amphistomous
-awful
+awful 1
 acolyte 1
 antiperistatic
 anthotaxis 2
@@ -14665,7 +14665,7 @@ akerite
 antialcoholism
 antialcoholist
 antialdoxime 1
-angiectopia
+angiectopia 1
 attainders 1
 anchorless 1
 advisee 1
@@ -15790,7 +15790,7 @@ aegirine
 antipestilently
 ablauts 1
 agonistical 1
-anvilled 1
+anvilled 2
 aviolite 1
 amidic
 antiphylloxeric 2
@@ -16074,7 +16074,7 @@ antisacerdotalist
 antisag 2
 antisaloon 3
 avenary 1
-apemantus
+apemantus 1
 affaire 2
 antisalooner 1
 antisavage 1
@@ -16633,7 +16633,7 @@ abrasax
 apepsinia
 adumbrate
 antonio
-arean
+arean 1
 apercus 2
 autoinduction 1
 argotic 3
@@ -17831,7 +17831,7 @@ atmans 1
 aheap 1
 albizzia
 afteroar 2
-agnathostomata 1
+agnathostomata 2
 amelioratively
 appraises 1
 appraising
@@ -19181,7 +19181,7 @@ arctoidean 1
 arctos 2
 arctosis 3
 ager 1
-acetylasalicylic
+acetylasalicylic 1
 agcy 1
 allituric 1
 arctostaphylos 1
@@ -21958,7 +21958,7 @@ alaternus 1
 assoils 1
 assoilzie 1
 aurantiaceous
-acaridomatium 2
+acaridomatium 3
 assonants 2
 appendicious 1
 axopodia 1
@@ -24751,7 +24751,7 @@ aviatic
 alumniate 1
 aniline
 appleberry 2
-approximated 1
+approximated 2
 axonost 1
 auscult 1
 aviations 3
