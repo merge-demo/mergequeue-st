@@ -22418,7 +22418,7 @@ champlainic
 conidioid 1
 conidiophorous 1
 conidiospore
-copy
+copy 1
 chutneys 1
 conifer
 coniferae
@@ -24679,7 +24679,7 @@ copolymerizing 3
 copouts
 coley
 complects
-chorizontic 1
+chorizontic 2
 cleeks
 concentralize
 copped
