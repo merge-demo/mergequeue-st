@@ -9416,7 +9416,7 @@ diffusions
 diffusive 2
 diffusors
 dalan 1
-dentolingual
+dentolingual 1
 diabolus
 diner 2
 destructors
