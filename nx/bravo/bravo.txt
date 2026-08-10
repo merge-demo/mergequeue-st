@@ -352,7 +352,7 @@ brushes 2
 belches
 backfills
 bequeath 1
-basseting
+basseting 1
 benighter 2
 backfires
 brontolite 1
@@ -8220,7 +8220,7 @@ bifilar 2
 bifilarly
 biflabellate
 blowtorch
-biflagelate
+biflagelate 1
 bewaring
 borrow 1
 biflex
@@ -8556,7 +8556,7 @@ barabra 1
 bo
 bunting 1
 bedder
-bradycardia 1
+bradycardia 2
 billabong 2
 billage 2
 brumes 1
@@ -9424,7 +9424,7 @@ befitting 1
 basichromatic
 bluegums 2
 belabours 2
-biophotometer
+biophotometer 1
 bullyhuff 2
 brattach 1
 bathman 4
