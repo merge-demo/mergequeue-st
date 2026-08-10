@@ -2932,7 +2932,7 @@ displayer
 dedit
 dediticiancy 1
 dedogmatize 2
-discounted 1
+discounted 2
 dedolation 1
 deseret 1
 destinal 2
@@ -17780,7 +17780,7 @@ dibutyrin
 disconsolate 2
 dispelling
 ducally
-drunt
+drunt 1
 discriminous
 dispossessed 1
 ducaton
