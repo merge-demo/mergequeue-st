@@ -3032,7 +3032,7 @@ cantonal 2
 cantonalism
 crapelike 1
 chinse
-currawang 1
+currawang 2
 cantoner 2
 cellocut 2
 cantoning
@@ -5057,7 +5057,7 @@ carvage
 carval
 churlish
 carve
-cannabinol
+cannabinol 1
 carvene 1
 coronad 1
 carver 1
@@ -22545,7 +22545,7 @@ chersonese
 chimbleys 1
 cheekful 1
 conjuncts
-conjunctur
+conjunctur 1
 conjunctures
 conjuration
 crinatory 1
@@ -24456,7 +24456,7 @@ cooperatives
 coopered
 cooperia 1
 cumene
-cooperies 2
+cooperies 3
 coopering
 carved 1
 checksummed 2
