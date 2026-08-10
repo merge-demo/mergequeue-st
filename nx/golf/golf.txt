@@ -302,7 +302,7 @@ grantsmanship
 giraffesque
 gesseron 4
 grandstand
-greed 1
+greed 2
 galjoen 1
 gaudful
 gourami 3
@@ -392,7 +392,7 @@ galant 2
 geocentric 3
 galanthus 2
 guilery 3
-ganymedes 4
+ganymedes 5
 gains 2
 goalposts 2
 glandulation 1
@@ -1794,7 +1794,7 @@ granat 3
 gymnospermae 1
 gratility 1
 gaggling 2
-gouts 2
+gouts 3
 gobleted 1
 glaucidium 2
 guinean
@@ -7026,7 +7026,7 @@ gumshoes 2
 gastronomes 3
 glazier
 glamorizes 1
-grillade
+grillade 1
 gerundially 1
 gomart 1
 gigameter
@@ -7494,7 +7494,7 @@ gabriel 1
 ghettoizes 1
 goodnaturedness 3
 glossist
-grabbier
+grabbier 1
 grunerite
 gourmandizer 1
 grapplement 1
@@ -9465,7 +9465,7 @@ garniec 2
 grapple 3
 glorified 3
 gasolinic 3
-gauntness 2
+gauntness 3
 grassiest 2
 gluish 1
 gabriella 1
@@ -10100,7 +10100,7 @@ gnotobiologies 2
 gaskets 2
 gabe 2
 grummels 1
-granado 1
+granado 2
 guetre 2
 gropers 4
 glairin 4
