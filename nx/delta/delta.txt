@@ -300,7 +300,7 @@ drowsihead 2
 dayanim 5
 daybeacon
 dealbate
-daybed
+daybed 1
 devchar
 disembowelment 1
 disgruntling
@@ -12613,7 +12613,7 @@ drate 3
 delegant 3
 dertrotheca 2
 defaultant 1
-descendentalist
+descendentalist 1
 descrial 2
 dodgeries 3
 duplicidentate
@@ -13356,7 +13356,7 @@ definitising 1
 dorsally
 dysorexy 1
 detainees 1
-discerns
+discerns 1
 desanding 1
 discord
 daffodowndilly 1
