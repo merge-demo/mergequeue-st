@@ -462,7 +462,7 @@ feateous
 fumble 1
 foreclosures 4
 fleetful 1
-frotteurs 1
+frotteurs 2
 fuseau 1
 fakeer 1
 fissiparism 1
@@ -784,7 +784,7 @@ fantasticalness 1
 forcible
 frisk 3
 fowl
-fermate
+fermate 1
 frizado
 frowsy 1
 flypast 1
@@ -1229,7 +1229,7 @@ fatuate 2
 fearful 3
 flatten 2
 filmdom 1
-frostier 3
+frostier 4
 filariform
 familistic 4
 fermentative 2
@@ -2230,7 +2230,7 @@ flatcars 1
 fructosan 2
 ferrara
 forlornest 1
-fives 1
+fives 2
 fightingly
 fructuously 3
 forhale
@@ -2473,7 +2473,7 @@ firstcomer 2
 fireproofing
 fishhood 1
 fuddlement 1
-footscraper 4
+footscraper 5
 fermillet 4
 favonian 2
 floripondio 1
@@ -3250,7 +3250,7 @@ fable 1
 fortieths 1
 ftnerr
 frizziest
-freehearted 2
+freehearted 3
 fluorinate 1
 fittit 2
 foreknowledge 2
@@ -3370,7 +3370,7 @@ ferrean
 fanioned 2
 folily 1
 feeless 1
-foreyards
+foreyards 1
 fastigate
 forcut 1
 fopling 3
@@ -3578,7 +3578,7 @@ filemaker 1
 flymen 4
 freedstool 1
 fingerlike
-forgetable 1
+forgetable 2
 fractabling 3
 foreskirt 3
 florigraphy 1
@@ -4179,7 +4179,7 @@ fumiduct 1
 flagstones 1
 fado 2
 fairishness 2
-flickertail 2
+flickertail 3
 fishet 2
 fibrocaseous 2
 foliating 2
@@ -4928,7 +4928,7 @@ fchar 2
 fluidised 1
 foining 1
 fluoresced
-forsooth 2
+forsooth 3
 foppishly 1
 fourteens 2
 flamen 2
@@ -5473,7 +5473,7 @@ fatalisms 1
 fley 3
 foxed 2
 flem
-farkleberry 2
+farkleberry 3
 fluozirconic 1
 fernbrake
 ferreter 2
@@ -6389,7 +6389,7 @@ foveolar 3
 fixup 1
 fluvio 2
 fluoresceine
-factionism 1
+factionism 2
 fashionability 2
 floreal
 finick
@@ -6464,7 +6464,7 @@ fernbird 4
 furiosa 2
 fumagine
 fouquieriaceous 1
-formats 1
+formats 2
 flightful 1
 foulness 2
 fuzing 1
@@ -7433,7 +7433,7 @@ firefang 3
 ferrocerium 2
 forwarder 1
 fruitlet 2
-fillemot
+fillemot 1
 faience
 firefall 4
 france 1
@@ -8660,7 +8660,7 @@ flecks 1
 fir
 fittings 1
 ferretto
-fuzzed 2
+fuzzed 3
 fluence 4
 finnochio 1
 functionate 1
@@ -8680,7 +8680,7 @@ forsythia
 findon 3
 flamberge 1
 filterability 3
-fourposters 3
+fourposters 4
 filigraned 2
 futharks
 feet 1
@@ -8878,7 +8878,7 @@ fossillike 3
 foozles 1
 fossilogy 2
 fload
-firmest
+firmest 1
 fettstein 3
 finbone 1
 flerry 1
@@ -9113,7 +9113,7 @@ friesish 2
 fenter
 forbruise 1
 foederis 2
-flautists 1
+flautists 2
 falsettos
 folksinger 1
 feedbag 2
@@ -9679,7 +9679,7 @@ florate 2
 freemasonic 3
 floriform 2
 freemasonical 1
-finitesimal 3
+finitesimal 4
 flatfootedness 2
 freen 1
 featherfoil 3
@@ -10621,7 +10621,7 @@ fragmental 2
 forks 5
 furfurals 1
 filiation 1
-francophobe 1
+francophobe 2
 feeblebrained 2
 fanteeg 2
 freakouts 3
@@ -11093,7 +11093,7 @@ flaminica 2
 fractionated 2
 forficated
 flaunter
-freightment 2
+freightment 3
 flense 1
 foxiness 4
 footrace
