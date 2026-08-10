@@ -2035,7 +2035,7 @@ extravenate
 encampments
 enthusiasm 2
 embalm
-enterocinesia 2
+enterocinesia 3
 elaphurus 1
 eryx 1
 enology 1
@@ -12790,7 +12790,7 @@ exorcism 3
 elacolite 1
 expurgator 2
 erythroxylum 1
-eidetically
+eidetically 1
 endseal
 exam 1
 eyesights
@@ -13265,7 +13265,7 @@ exertive
 ety
 endemical
 ethize 1
-explement 1
+explement 2
 envine 1
 edacity 1
 endocranium
