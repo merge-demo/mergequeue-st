@@ -181,7 +181,7 @@ floatiness 2
 foment 2
 flashily
 feuar
-florin 1
+florin 2
 folletage 3
 footstock 1
 freedwoman 2
@@ -2039,7 +2039,7 @@ feigns 2
 flitch 3
 flamier
 farouche
-feltwork 2
+feltwork 3
 falconet 2
 fourpounder 4
 ferngrower 1
@@ -2842,7 +2842,7 @@ fieldsmen
 farmhand 1
 furious 3
 fishnet 2
-flamy 2
+flamy 3
 flowerets 1
 feticide 1
 front
@@ -3670,7 +3670,7 @@ farm 2
 fibrilated 1
 fidos 3
 footman 1
-flourishes 1
+flourishes 2
 flaying 1
 furnacer
 filemot 3
@@ -6614,7 +6614,7 @@ femalize
 focalizes 1
 forwrap 1
 forgave 2
-formulaically 1
+formulaically 2
 flimflams 2
 femalely 4
 focsle 3
@@ -9557,7 +9557,7 @@ forechoir 2
 filicinian 4
 frontomaxillary 1
 fliffus 2
-frappes 3
+frappes 4
 figurers 3
 floppiness
 fattrels 4
@@ -10785,7 +10785,7 @@ footraces 3
 fumaryl 1
 folious
 farced 3
-firedragon
+firedragon 1
 frutex 1
 fruticetum
 foreinclined 2
