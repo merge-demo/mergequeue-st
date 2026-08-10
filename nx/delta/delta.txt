@@ -440,7 +440,7 @@ disposal 1
 drenchers
 dimyaric 1
 diathermous 1
-dimercaprol 1
+dimercaprol 2
 daises
 defiance 1
 dangleberries 2
@@ -2474,7 +2474,7 @@ dateline 1
 deckel
 deporte 2
 ditchdown 1
-dirigent 1
+dirigent 2
 deckhand
 duckwing 1
 deckle 3
@@ -4508,7 +4508,7 @@ demilawyer
 diwans 1
 demilitarisation
 demilitarised 2
-dehydrogenase
+dehydrogenase 1
 dibranchiate 3
 demilitarized
 dentaliidae
@@ -6155,7 +6155,7 @@ derfly 2
 deric 2
 disbosomed 1
 deady
-doppler
+doppler 1
 deriders 1
 distribute 1
 detractress 2
@@ -7036,7 +7036,7 @@ decoke
 dorje 1
 degrees
 disjointed 2
-despumation 1
+despumation 2
 dealing
 desquamating 1
 desquamatory 4
@@ -8529,7 +8529,7 @@ disindividualize
 dehydrofreeze 1
 diet 2
 devily
-dyschromatopsia
+dyschromatopsia 1
 dethrone
 dewbeam 1
 didacts 2
@@ -8963,7 +8963,7 @@ dispeller 2
 dahoon 1
 discophora 1
 deficience 1
-disconanthous
+disconanthous 1
 duodenotomy 1
 depopulators 2
 digastric 1
@@ -9067,7 +9067,7 @@ defigure 2
 dictionarian 1
 dollying 1
 dropsywort 1
-disembattle 1
+disembattle 2
 danglingly 2
 dyester
 discommodity
@@ -9138,7 +9138,7 @@ didymate 2
 depressives 2
 dandering 2
 discoglossidae
-didynamic 2
+didynamic 3
 dramatising 1
 dietic 1
 didynamous
@@ -9553,7 +9553,7 @@ diallists 2
 demasculinised 1
 dignifiedly
 decoying 1
-deionizing 1
+deionizing 2
 dignifiedness
 delatinization 2
 drachm
@@ -13083,7 +13083,7 @@ drippiest
 dictamina 1
 dragster
 dispendiously 1
-debasing
+debasing 1
 drooped 1
 dispensationalism 1
 dentistries
@@ -14819,7 +14819,7 @@ doctorially
 doctoring
 doctorize 1
 distinctness 1
-distributive 1
+distributive 2
 diallage 1
 doumaist
 doctorless 1
@@ -17070,7 +17070,7 @@ dekagram 1
 dearer 2
 diabolicalness 1
 doberman
-dressline 1
+dressline 2
 dumas 3
 divinityship 2
 discumber 2
@@ -17238,7 +17238,7 @@ drive 1
 diastrophism 1
 direst
 deermeat 2
-decumbence 1
+decumbence 2
 disorganic 1
 demitasse
 driveled 1
@@ -18140,7 +18140,7 @@ dumdums
 dadu 2
 drab 2
 distichs 2
-dumfounded 1
+dumfounded 2
 dahlia
 debarrass
 dammed 1
@@ -18682,7 +18682,7 @@ diaulos 2
 dwindled 2
 dwindlement 2
 deports 1
-dwindles 1
+dwindles 2
 dehisced 2
 dukker
 dwindling 1
