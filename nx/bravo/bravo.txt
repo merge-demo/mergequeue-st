@@ -1064,7 +1064,7 @@ bustiest
 boyaus
 basanite 2
 breenge 1
-bersil
+bersil 1
 boroughmaster
 bailiwick
 bridler
@@ -17370,7 +17370,7 @@ becrawled 1
 beachier 1
 bogledom
 bliny 1
-bailie 1
+bailie 2
 bloodmobiles 1
 bunged
 bylawman
