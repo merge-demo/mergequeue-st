@@ -2522,7 +2522,7 @@ beswinge 1
 begroans
 barger
 bractea 2
-borscht
+borscht 1
 boccia 2
 blueblack 1
 beslash 1
@@ -7342,7 +7342,7 @@ burritos
 becumber 1
 beryl 1
 blinky
-brasilia 1
+brasilia 2
 bailiery
 bassness 1
 bookmaker 1
@@ -11879,7 +11879,7 @@ bodkin
 bodkins
 boardlike 1
 barmybrained
-betacaine 1
+betacaine 2
 biers
 bowknot
 birdsall 1
@@ -13001,7 +13001,7 @@ bookstore
 blockheadishness
 bopeep 1
 boxen 4
-braciola
+braciola 1
 bopped
 biosterin
 bombastical
