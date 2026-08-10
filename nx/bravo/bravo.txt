@@ -2225,7 +2225,7 @@ backflash 1
 briscola 3
 blimpishness
 bararite
-barathea
+barathea 1
 barbellate
 bibbled
 bemaddens
@@ -3019,7 +3019,7 @@ burthened 1
 baggywrinkle
 boogyman
 barter
-blechnoid
+blechnoid 1
 brilliancy 1
 blood 1
 bullace 1
@@ -16230,7 +16230,7 @@ bpt 1
 bemole 1
 broughams 1
 branchiostomid 3
-breadbox 2
+breadbox 3
 brought 2
 bagmaking 2
 bryologies 1
@@ -17810,7 +17810,7 @@ begani
 bursarial 1
 blypes
 bursaries 4
-bursars
+bursars 1
 bubby 3
 bursch
 bianisidine 1
