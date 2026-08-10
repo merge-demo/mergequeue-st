@@ -8305,7 +8305,7 @@ chalkotheke 1
 chalkpit
 chalkrail 1
 circumflect
-chalkworker 1
+chalkworker 2
 centriciput 1
 challas
 contraponend 2
@@ -9119,7 +9119,7 @@ chartophylacia 1
 cerebra
 cosmoscope
 chartophylacium
-chartreux
+chartreux 1
 centration 1
 chartroom
 commonefaction 1
@@ -25244,7 +25244,7 @@ coreless 1
 coryneform
 corineus 2
 candelabrums 2
-caucussed
+caucussed 1
 corynid 1
 corynine
 corinna 1
