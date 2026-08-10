@@ -1211,7 +1211,7 @@ applauses 1
 adjustor
 acanthia 1
 apocryphally 2
-acanthion 1
+acanthion 2
 atrosanguineous
 acanthocephalous 1
 acanthocladous 2
@@ -2314,7 +2314,7 @@ anabas
 arsenicate 2
 areographer
 archegosaurus 1
-acichloride
+acichloride 1
 aciculae
 amended 1
 antipapalist
@@ -3202,7 +3202,7 @@ acclimatation 2
 aloelike
 auchenia 1
 actipylea
-activate
+activate 1
 apologete 1
 autocatalytically 3
 aromatophore
@@ -3832,7 +3832,7 @@ absences 1
 antecedal 1
 adiadokokinesia
 adiagnostic 2
-adeniform 2
+adeniform 3
 adiaphon 1
 antimechanist
 annexable 1
@@ -8082,7 +8082,7 @@ alfalfas 1
 anapaest 1
 algesia 1
 alfaqui
-aenean 1
+aenean 2
 autonavigator 1
 antidotical
 archcity 2
@@ -8126,7 +8126,7 @@ adnexed
 alcabala
 artistry
 antimethodicalness 1
-absented 2
+absented 3
 asboline
 algarrobin
 abrahamitic
@@ -8697,7 +8697,7 @@ abled
 attractancy
 anarchs
 andrite
-adjoins 1
+adjoins 2
 autochthon 1
 argyrythrose 1
 aeroelastics 3
@@ -9180,7 +9180,7 @@ almemars
 approof 2
 amebid
 abrazos
-antistrophe
+antistrophe 1
 antipasti
 almery
 abide 1
@@ -9752,7 +9752,7 @@ alwite
 arrogator
 apocalypticism
 anapestically 1
-apterygotous 3
+apterygotous 4
 ayen
 apiology
 arcked
@@ -11771,7 +11771,7 @@ ablator 1
 acnodes 1
 anagogic 3
 ambar 2
-aventayle
+aventayle 1
 apposes 1
 advecting 1
 anagrammatically
@@ -21929,7 +21929,7 @@ amphimorula 1
 associationistic
 amalett 3
 associations 1
-adaptional
+adaptional 1
 aphakial
 associatively 1
 aquiver
@@ -23601,7 +23601,7 @@ andaqui 1
 antignostic
 arcsin
 altimetry
-aunthood 1
+aunthood 2
 arawakan
 antitraditionally 1
 analogise 4
