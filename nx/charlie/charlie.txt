@@ -1159,7 +1159,7 @@ chinnam
 cranioclasis 1
 calcspars
 crunches 2
-calculability 1
+calculability 2
 coudee
 counterrampant
 calculableness
@@ -2086,7 +2086,7 @@ cosherer 1
 camp
 campagi
 coquettes 1
-counteraverment 1
+counteraverment 2
 campagna 1
 campagne
 calomel
@@ -3622,7 +3622,7 @@ carabines
 carabinier
 carabiniere
 carabinieri
-cotrespasser
+cotrespasser 1
 choosable 1
 caraboa
 caaba
@@ -4183,7 +4183,7 @@ cardiometer 2
 cardiometric 1
 cardiomyomalacia
 cardiomyopathy
-camshaft
+camshaft 1
 cafoy
 cardionecrosis
 cannibal
@@ -7421,7 +7421,7 @@ chloroformed
 cerasein 1
 chouser 2
 cythera 1
-cerebrophysiology
+cerebrophysiology 1
 cerastes
 conciliatory 3
 cerasus 1
@@ -7761,10 +7761,10 @@ contg
 cravenette 1
 chlamydophore 1
 connoissance 1
-credulously
+credulously 1
 conducing
 ceruleous
-ceratophrys 1
+ceratophrys 2
 cerulific 1
 cerulignol 3
 cerumen
@@ -8552,7 +8552,7 @@ chandlerly 1
 chandlers
 contester
 chylothorax
-carrion
+carrion 1
 consumpt 1
 calenturing
 cablish
@@ -14487,7 +14487,7 @@ ciruela
 cosets
 croceins 1
 choroidocyclitis
-captainess 1
+captainess 2
 chloremic
 cisco 1
 ciscoes 1
@@ -15190,7 +15190,7 @@ catamneses
 centipede 1
 conforms
 cade 1
-clairseach 1
+clairseach 2
 caplan
 cloisteral
 cardiemphraxia
@@ -18911,7 +18911,7 @@ collaboratively
 clomping
 cacti 2
 clothworker
-collaborator
+collaborator 1
 collaborators
 closehauled 1
 cosigner
@@ -19287,7 +19287,7 @@ cabezones 1
 coresidence 1
 chelem
 colonialists
-cyclospondyli 1
+cyclospondyli 2
 coctoprecipitin
 colonialize
 chortles 1
@@ -20290,7 +20290,7 @@ clinical 1
 communa 1
 cellulotoxic 2
 componentwise
-canthoplasty
+canthoplasty 1
 communal
 chapman 1
 coccineous
@@ -20444,7 +20444,7 @@ companage
 circumfluent 1
 counterword 1
 cerebroma
-cannels
+cannels 1
 company
 companias 1
 condensative
@@ -22176,7 +22176,7 @@ cannonballs 1
 cyanophycin 1
 confucian 1
 cynthia 1
-confucianism
+confucianism 1
 commendableness
 confucius
 crambambuli 1
@@ -22211,7 +22211,7 @@ contraband 1
 crematoriums
 cresotate 1
 connusable
-characterizer
+characterizer 1
 chigger
 campanularian
 choicer
@@ -23480,7 +23480,7 @@ contemptuous
 contemptuously
 cruelty
 contended
-contendent 1
+contendent 2
 contending 1
 contendress 1
 cornstalk
@@ -26716,7 +26716,7 @@ cyanosed
 counterannouncement 2
 counterarch
 compulsative
-chende
+chende 1
 cloisters
 counterassociation
 cammock
@@ -27188,7 +27188,7 @@ counterterrorism
 clasping
 counterterrorist
 countertheme
-counterthought 2
+counterthought 3
 counterthreat
 countertime 3
 cellulipetal 1
@@ -27369,7 +27369,7 @@ course
 codirectorship
 cosmology
 coursey 1
-coursers
+coursers 1
 courses
 coursing
 court 2
@@ -30267,7 +30267,7 @@ crumbliest
 claqueurs
 counternaiant
 chevies
-caging 1
+caging 2
 camisia 1
 caelum
 crumen
@@ -31627,7 +31627,7 @@ curvilinead
 carpingly
 curvimeter 1
 curviness
-cycloheptane
+cycloheptane 1
 curving
 curviserial
 curvital
@@ -31875,7 +31875,7 @@ cursement
 cutterhead 2
 chemicals
 cutthroat
-chylopoietic
+chylopoietic 1
 cuttyhunk
 capillarily
 creamfruit 2
