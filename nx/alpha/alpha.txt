@@ -381,7 +381,7 @@ ambulant 3
 antijam
 andesitic
 antietam 1
-arsenide
+arsenide 1
 abetted
 adustive
 actinoelectric 1
@@ -1166,7 +1166,7 @@ academes
 academy 1
 attornment 1
 apheliotropism 1
-aploperistomatous
+aploperistomatous 1
 antirusts
 academist
 autonym
@@ -2314,7 +2314,7 @@ anabas
 arsenicate 2
 areographer
 archegosaurus 1
-acichloride 1
+acichloride 2
 aciculae
 amended 1
 antipapalist
@@ -5146,7 +5146,7 @@ aesthetes
 aesthetic
 astomous 2
 archsacrificator
-amphionic 2
+amphionic 3
 aestheticism
 aestheticist 1
 atherosclerotically
@@ -6023,7 +6023,7 @@ arrogancy
 aggressin 2
 adarbitrium 1
 anchylotic 1
-aureal 3
+aureal 4
 adenylpyrophosphate
 acystia 1
 arthredema 2
@@ -9838,7 +9838,7 @@ agglomerator 1
 amanitopsis 2
 antireforming
 aspergillums 2
-arteriectomy
+arteriectomy 1
 aeroplane 2
 aposthia 1
 amanous 1
@@ -10527,7 +10527,7 @@ absolutistically
 anomite 1
 affirmly 1
 assertorily 1
-amidation 2
+amidation 3
 aliofar
 amide 2
 amidide
@@ -11180,7 +11180,7 @@ arms
 adjutancies
 antirationality 3
 araeometer 2
-amphetamines 1
+amphetamines 2
 abasgi 2
 antecedaneous 1
 actaeaceae
@@ -11533,7 +11533,7 @@ anagennesis
 alodiality 2
 aerometry 1
 acmaeidae 2
-agglomerant
+agglomerant 1
 anisettes
 acetoin 1
 ascospore 2
@@ -12002,7 +12002,7 @@ avoidment 2
 alkoxide 2
 acron 2
 abodement
-ampelite 1
+ampelite 2
 admixes
 aleukemic 1
 anaphroditic
@@ -14919,7 +14919,7 @@ antinepotic
 abnormality 1
 antliate 3
 angeles
-anticyclically
+anticyclically 1
 anticity 1
 anticytolysin 1
 alphorn
@@ -17567,7 +17567,7 @@ androspore 1
 antixerophthalmic
 appendency 1
 aquacultural 2
-appendicalgia 2
+appendicalgia 3
 antipodist 2
 ascii
 alienees 1
@@ -17636,7 +17636,7 @@ appetiser 1
 atlantad
 alerted
 aviate
-appetite
+appetite 1
 algaroth
 ateleological
 autographist
@@ -19710,7 +19710,7 @@ acicula 1
 aristotype
 aristotle 2
 arytenoepiglottic 1
-amphiblestritis
+amphiblestritis 1
 ambatch 1
 antinihilistic
 arithmancy
@@ -21148,7 +21148,7 @@ arabella 1
 acquittal 3
 agriochoeridae
 aseismic 1
-alkannin 1
+alkannin 2
 apocryphate 2
 arboriculturist
 affirmingly
@@ -21602,7 +21602,7 @@ adjudgment
 automolite
 allegement
 antiphonaries 1
-angary
+angary 1
 allegorist 2
 annexes 1
 applicability 1
@@ -21649,7 +21649,7 @@ assays
 assam 1
 arcograph
 assamites 1
-ancillas 3
+ancillas 4
 atrophiated
 autocycle 1
 amblyopsidae 1
@@ -21967,7 +21967,7 @@ ardhamagadhi
 assorted
 alethiologic 1
 assorter
-athamaunte 3
+athamaunte 4
 assot
 astrict
 asssembler 3
@@ -22038,7 +22038,7 @@ asepticism 2
 anteprostate
 astable
 aedeagus 1
-astay
+astay 1
 anisometropic 1
 almistry 1
 aegithognathism
@@ -23431,7 +23431,7 @@ audiphone 1
 ababdeh
 auditable
 auditing 2
-aftersong
+aftersong 1
 alkalescency 1
 abelmosks 1
 agnail 1
