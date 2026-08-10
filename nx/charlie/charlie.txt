@@ -1636,7 +1636,7 @@ creasy
 calmant 2
 cytopathology
 conveyor 1
-calmecac 1
+calmecac 2
 cyathophylloid
 courtrooms 1
 collectibles
@@ -5335,7 +5335,7 @@ cassius 2
 cassock
 cleanser 1
 cribrately
-ctenophora 2
+ctenophora 3
 cassocked
 cultures
 cassocks
@@ -9105,7 +9105,7 @@ charterhouse
 chartering
 charterism
 charterless 1
-chartermaster 1
+chartermaster 2
 charters
 cryptograms
 cindered
@@ -15866,7 +15866,7 @@ cobcab
 compends 1
 cleeking
 clef 1
-cassinese 2
+cassinese 3
 chesterfields 1
 chronomancy 1
 cleft 1
@@ -17756,11 +17756,11 @@ citation 1
 campbellism
 coct 2
 coctile
-chloroformist
+chloroformist 1
 condog 1
 cocuyo 2
 cocullo
-cocurator 1
+cocurator 2
 creosotic
 coviello
 cocurricular
@@ -19221,7 +19221,7 @@ calloo
 cormels 1
 committeewomen
 cheaters
-collusively 1
+collusively 2
 cymbate 1
 collusory
 collution 1
@@ -22040,7 +22040,7 @@ confit
 caesalpiniaceous
 confiteor 1
 comparts 1
-confixing
+confixing 1
 carf
 conflagration 1
 conflagrations 1
@@ -25963,7 +25963,7 @@ coercion
 cortin 1
 collaborativeness
 cinerary
-cortina 1
+cortina 2
 cortinarius 2
 choko 1
 chaffiness 1
@@ -28914,7 +28914,7 @@ crewmen
 crewneck 1
 capsheaf
 chaetognathan 1
-crex 2
+crex 3
 cry 1
 crikey
 cryable
@@ -29834,7 +29834,7 @@ colloguing 1
 classman
 comprehensibleness
 crores
-consulary
+consulary 1
 contrarational
 committees
 corydalis 1
@@ -30581,7 +30581,7 @@ cuboid
 conopholis 2
 cuboidal 1
 cuneocuboid
-caldera
+caldera 1
 cellarette 1
 cuboides
 cowcatcher
