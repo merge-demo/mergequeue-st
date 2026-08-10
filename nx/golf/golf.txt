@@ -1701,7 +1701,7 @@ genotypes 2
 gastriloquous
 guldens 2
 garotting 2
-gastronosus 1
+gastronosus 2
 goofier
 gammon
 galleon 1
@@ -4407,7 +4407,7 @@ guapinol 3
 gundog 2
 generaliter 1
 greffier
-graveyard 3
+graveyard 4
 gipsydom 1
 giddyhead 1
 gepoun 1
