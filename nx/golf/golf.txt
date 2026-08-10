@@ -835,7 +835,7 @@ greyhounds
 goban 5
 genistin
 granulater 3
-geonegative
+geonegative 1
 gamboled 2
 goethe 1
 guaraunan 2
@@ -6751,7 +6751,7 @@ guib 1
 gamelang
 ganam 1
 gamgee 3
-gratias
+gratias 1
 gadidae 1
 gobbing 1
 gud
