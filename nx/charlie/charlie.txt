@@ -1105,7 +1105,7 @@ calcimining
 choppin 2
 crossbarred
 calcinate 1
-calcinator
+calcinator 1
 calcine 2
 coherently
 candareen
@@ -9028,7 +9028,7 @@ charmedly
 coax
 consarcinate
 charmel 1
-cothe
+cothe 1
 copycatted
 charmfully
 choragy
@@ -12774,7 +12774,7 @@ cymose 1
 chum
 churrus
 coaxed
-caama
+caama 1
 chumar 1
 concelebrating
 chumashan
@@ -30326,7 +30326,7 @@ crunchweed
 causewayman
 crunkle 1
 cabombas 2
-countervaunt
+countervaunt 1
 comm
 crunodes 1
 clifflet
