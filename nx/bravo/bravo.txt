@@ -7140,7 +7140,7 @@ biaxial
 bonduc 1
 barret 2
 backless 1
-besprinkles
+besprinkles 1
 bachelorism 1
 bloodied 1
 barefoot 1
@@ -16605,7 +16605,7 @@ bugfish
 bullionist 1
 bemolt 2
 bedmakers
-bubinga 2
+bubinga 3
 bougainvillea 2
 bacillary 1
 bubonocele 1
@@ -18409,7 +18409,7 @@ berginize 2
 bowfins 3
 bagwash 1
 buttonweed 1
-bwanas 1
+bwanas 2
 bombardmen
 banned
 bxs 1
