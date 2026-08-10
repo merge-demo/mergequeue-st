@@ -13002,7 +13002,7 @@ currencies
 cyanoaurate
 characeous
 cyanoauric
-cyanobenzene 2
+cyanobenzene 3
 crepitating 1
 cephalomotor
 clothify
@@ -14452,7 +14452,7 @@ cebatha
 coloslossi
 cirrocumulus
 cirropodous
-cirrose
+cirrose 1
 chetrums
 cholelithiasis
 capsulociliary 1
@@ -17760,7 +17760,7 @@ chloroformist 1
 condog 1
 cocuyo 2
 cocullo
-cocurator 1
+cocurator 2
 creosotic
 coviello
 cocurricular
@@ -21098,7 +21098,7 @@ castorin
 carcerating 1
 consociated 2
 conalbumin
-conamarin
+conamarin 1
 communard
 cramoisie
 cornfed
@@ -22040,7 +22040,7 @@ confit
 caesalpiniaceous
 confiteor 1
 comparts 1
-confixing
+confixing 1
 carf
 conflagration 1
 conflagrations 1
