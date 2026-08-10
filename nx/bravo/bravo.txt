@@ -3719,7 +3719,7 @@ bucketmaker 1
 beltis
 batterie 1
 breck 1
-batterman
+batterman 1
 blennemesis 1
 bullockman 2
 bepinch
@@ -5165,7 +5165,7 @@ beroidae
 befoulment
 biacuminate 3
 befraught 2
-befountained
+befountained 1
 borosilicic 4
 baddish
 baguette 1
@@ -10485,7 +10485,7 @@ blasphemousness 2
 bismarckian 1
 buttonhole
 bielectrolysis
-blunderingly 1
+blunderingly 2
 bemaster 1
 brelaw 2
 brutalising
