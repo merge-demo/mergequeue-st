@@ -1456,7 +1456,7 @@ gaoler 6
 gerousia 3
 gove 1
 gynocardia 2
-gradualness 1
+gradualness 2
 gasboat 5
 giddiness
 gaselier 1
@@ -1674,7 +1674,7 @@ grandly
 gliosis 1
 gastrograph 2
 gamebag 3
-gazetteerish
+gazetteerish 1
 gane 4
 grassquit 2
 grooved 1
@@ -2829,7 +2829,7 @@ gullish 4
 genuflects 3
 glanduliform 4
 glossiphonidae 2
-geol 1
+geol 2
 guilefulness 1
 ganglionic 3
 gyrate 2
@@ -3498,7 +3498,7 @@ garmentworker 2
 ganglions
 gymnorhina 3
 geomagnetist 1
-gluconeogenesis 1
+gluconeogenesis 2
 grugru 1
 gunslinging
 grinded 4
@@ -8679,7 +8679,7 @@ gladdy 2
 grantee 2
 greaseproofness
 gastronomical 2
-gests 5
+gests 6
 gradients 2
 grizzliness 3
 groynes 4
@@ -9302,7 +9302,7 @@ galactophagous 3
 gunj
 guidebook 1
 gasogenic 3
-gi 4
+gi 5
 geodynamicist
 glummest 1
 grapeline 2
@@ -10250,7 +10250,7 @@ gamodemes 1
 greyback 1
 getid 3
 grotianism 3
-gempylid 2
+gempylid 3
 gemelled 1
 gutturalization 2
 groaningly 1
