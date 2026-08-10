@@ -4205,7 +4205,7 @@ beatles 2
 backchain 1
 bellmen
 barometric
-brusquer
+brusquer 1
 beatnik 1
 beatrix
 banally 1
@@ -5665,7 +5665,7 @@ beldams
 bacchar 2
 bilify 2
 belderroot 1
-bodgie
+bodgie 1
 beleaguering
 bongar 1
 bigly 3
@@ -12175,7 +12175,7 @@ biclinium 1
 blaff
 beaumontia 2
 balneum
-beeps 3
+beeps 4
 blaine 1
 beclasped 2
 blarneyed 2
@@ -15387,7 +15387,7 @@ bierstuben 1
 boulevardier 1
 boggiest
 banians
-buddhistical
+buddhistical 1
 blaeness
 buggiest 1
 briered 1
@@ -16044,7 +16044,7 @@ birdstone 4
 bronchotomy 1
 bersaglieri 2
 braggardism
-bysacki 1
+bysacki 2
 bestrewing 2
 bowess
 bronchotyphus
