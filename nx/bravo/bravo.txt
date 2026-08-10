@@ -767,7 +767,7 @@ boneshaw
 bannerman
 bushmanship 1
 badigeon
-beadsman
+beadsman 1
 bowstrung
 bechatter
 boric 3
@@ -1816,7 +1816,7 @@ banterer 1
 boswellized 2
 bowmen 1
 balloonet 1
-bedsprings 1
+bedsprings 2
 bambute
 blackheart 2
 becombed
@@ -7126,7 +7126,7 @@ brashest 2
 bespray 2
 ballute 1
 bespreng 1
-besprent
+besprent 1
 betweenity 1
 batidaceae 1
 bursate 1
@@ -9415,7 +9415,7 @@ bailieship
 bluecaps 1
 birdseye 1
 baculiticone 2
-birdsnest
+birdsnest 1
 bungfu 1
 bargehouse 1
 brimmering 3
@@ -12965,7 +12965,7 @@ bureaucratic
 breviloquence 2
 boleros 1
 berthold 1
-boardinghouses
+boardinghouses 1
 bootman 2
 boots
 bottoms
@@ -13558,7 +13558,7 @@ biennale 1
 biquarterly
 barhop
 bouffant
-brontesque
+brontesque 1
 barristers 1
 blunderer
 bouffe 2
