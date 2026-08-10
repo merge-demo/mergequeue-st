@@ -1148,7 +1148,7 @@ berne 1
 banquets 1
 babakoto 2
 backwall
-borates 1
+borates 2
 botete
 bankman
 bountree
@@ -1804,7 +1804,7 @@ boothes
 bamalip 2
 basswood 2
 bamban 2
-bambochade
+bambochade 1
 bosuns
 bamboozles
 bamboozling 2
@@ -2247,7 +2247,7 @@ boneheadedness 2
 bromize 1
 barbados 1
 broggle 1
-blobs
+blobs 1
 badineur 2
 bawties 2
 bushers 1
@@ -2325,7 +2325,7 @@ beearn 1
 bilbie 3
 barbequed 2
 barber
-bordrag
+bordrag 1
 businessese 1
 bizet 1
 botryomyces 4
@@ -2427,7 +2427,7 @@ bazar 2
 brinks 1
 betowel
 bowditch
-blinkering 2
+blinkering 3
 bromoiodide
 brotherhood 1
 bards 1
@@ -4343,7 +4343,7 @@ becharmed 3
 burbankism 1
 bromhydric
 blockishness 1
-bossdoms
+bossdoms 1
 beche
 becheck
 befool 2
@@ -4827,7 +4827,7 @@ brazenface 1
 bitake 1
 bikh 2
 banners 1
-beshrouded 1
+beshrouded 2
 bedstraw 1
 bedstraws 2
 bedstring 1
@@ -5956,7 +5956,7 @@ battiness 2
 backrest 1
 beltless
 benchmarks 1
-biauriculate
+biauriculate 1
 beltman
 belts
 boigid 1
@@ -7011,7 +7011,7 @@ ballpoints
 boardly 2
 bowingly
 balnea 1
-brothel 1
+brothel 2
 balor 1
 burliest
 brulzie 2
@@ -7961,7 +7961,7 @@ bodymaker 1
 billing
 barothermogram 1
 bibulousness 1
-broomweed
+broomweed 1
 bodegones
 boardroom 2
 borderside
@@ -8483,7 +8483,7 @@ beglerbey 1
 bloaters
 biplosive
 bilianic
-boreism 1
+boreism 2
 biliferous 1
 babysitter 2
 byssuses
@@ -9482,7 +9482,7 @@ bipunctal
 bores 2
 barbarian 2
 birn
-byrnie
+byrnie 1
 biotope
 battlefront
 birodo 1
@@ -15645,7 +15645,7 @@ biting 2
 britannically
 brashy
 bloomery 1
-bumpkins
+bumpkins 1
 blennophlogosis
 blimy 1
 british 2
@@ -16762,7 +16762,7 @@ biacetyls 1
 bucrane
 bromised 2
 babis 2
-berlins
+berlins 1
 barbarizing 1
 bonhomously 1
 bibliotheque 2
