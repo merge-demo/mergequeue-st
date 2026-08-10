@@ -4441,7 +4441,7 @@ becoiffed
 bulkiness
 bludging 1
 beclogs 1
-bonspells
+bonspells 1
 bilabials
 beclothe
 banting 2
@@ -13062,7 +13062,7 @@ bagpipe 1
 beriber 1
 borderline
 bowgrace 2
-balneae 1
+balneae 2
 borofluoric 2
 bedrop 1
 braggartry 1
@@ -17843,7 +17843,7 @@ burthen 1
 betocsin
 bacteriaceous 1
 burthens 2
-burthensome
+burthensome 1
 bookings 1
 burtonization
 blockheadedly
