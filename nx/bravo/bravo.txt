@@ -352,7 +352,7 @@ brushes 2
 belches
 backfills
 bequeath 1
-basseting
+basseting 1
 benighter 2
 backfires
 brontolite 1
@@ -9424,7 +9424,7 @@ befitting 1
 basichromatic
 bluegums 2
 belabours 2
-biophotometer
+biophotometer 1
 bullyhuff 2
 brattach 1
 bathman 4
