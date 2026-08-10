@@ -6290,7 +6290,7 @@ disload 2
 dermatozzoa 2
 dermatrophia 1
 disgrade 1
-dephlegmatory 1
+dephlegmatory 2
 dermenchysis 1
 delacrimation
 dermestid 1
@@ -12996,7 +12996,7 @@ disorients 2
 dysoxidation 2
 dollarfishes
 disoxygenation 2
-dioscuri
+dioscuri 1
 dight
 distater 2
 dispand 1
@@ -13541,7 +13541,7 @@ defterdar 1
 disaccharose 2
 dungeoner
 disperse
-disquisitive 1
+disquisitive 2
 disrelishable 1
 dissentment 2
 dissemination 1
@@ -17881,7 +17881,7 @@ decurve
 dermoblast
 definable
 disenthrallment
-dunkirk
+dunkirk 1
 dude
 dyophysitical 3
 devoutless 2
