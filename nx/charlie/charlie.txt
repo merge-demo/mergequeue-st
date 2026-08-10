@@ -9471,7 +9471,7 @@ checkage
 checkback
 checkbite 1
 checkbits
-checkbook
+checkbook 1
 counterbuff
 chachalaca
 cableways 3
@@ -10381,7 +10381,7 @@ commorancies
 chirring
 chivalric 1
 countertendencies 1
-chieftains
+chieftains 1
 cracknels
 chiefty
 chiel
@@ -13372,7 +13372,7 @@ capon 1
 czarism
 charadriidae
 coraciidae
-croshabell
+croshabell 1
 chopfallen 2
 coarsish 1
 cyclostomatous 1
@@ -18204,7 +18204,7 @@ cheeked 1
 coexerting 1
 condescends
 coexistence 1
-coexisting
+coexisting 1
 coexpand
 coexperiencer 1
 coextend
@@ -19178,7 +19178,7 @@ collophanite 1
 colloquial
 calcareously 1
 coadapted
-cineritious
+cineritious 1
 colloquializer
 colloquially
 colloquialness 2
@@ -20648,7 +20648,7 @@ complacently 1
 chantant
 complain 1
 complainant 1
-complainants
+complainants 1
 conventionism 1
 canalized 1
 complained
@@ -22351,7 +22351,7 @@ congregationalism
 cosmogony
 congregationalist 1
 circumnavigated 1
-conciator 2
+conciator 3
 congregative
 congreso
 congress 1
@@ -24876,7 +24876,7 @@ coracoidal 1
 crocket
 chaumontel
 coredeeming
-clemency
+clemency 1
 capilliform 1
 cookware
 consularity 1
@@ -25213,7 +25213,7 @@ corybulbin 2
 caudicle 2
 calorics 1
 completively 1
-corycavidine 2
+corycavidine 3
 corydalin
 corydine
 consolate 1
@@ -25894,7 +25894,7 @@ contradicting 2
 cornish 1
 cakewalk
 corseleting 1
-curvirostral 1
+curvirostral 2
 cloudier
 culp
 centrums 1
@@ -29601,7 +29601,7 @@ crocanthemum 1
 croceic 1
 croceine 1
 cusconine 1
-coria 1
+coria 2
 crocetin
 ceratospongiae
 croche 2
@@ -31845,7 +31845,7 @@ cutleriaceous
 cutleries
 cutlers
 cutlet 1
-condenseries 1
+condenseries 2
 cashable
 cutline 1
 clunking
