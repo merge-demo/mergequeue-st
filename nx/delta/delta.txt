@@ -389,7 +389,7 @@ daimiote
 defension
 didunculus 1
 disembargoing 1
-dimmet 1
+dimmet 2
 daimons 2
 ditches 2
 deek
@@ -6058,7 +6058,7 @@ dream 3
 dactyliographic 2
 der
 deboites
-dressmakery 1
+dressmakery 2
 dendrometer 2
 deracinating 3
 domiciliar
@@ -10162,7 +10162,7 @@ demihigh 1
 dingeing 1
 dorsoventrally 1
 duraquara 1
-dinghee
+dinghee 1
 dinghies
 disple
 desition 1

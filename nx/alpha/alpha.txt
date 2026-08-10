@@ -562,7 +562,7 @@ antecloset 2
 adore 1
 acetolysis 1
 ataraxies
-amidophosphoric 2
+amidophosphoric 3
 amyotrophia 3
 actualize
 anba
@@ -6817,7 +6817,7 @@ aircraftmen
 allotriomorphic
 aircraftsman 1
 adsorptiveness 1
-aggro
+aggro 1
 aircraftsmen
 aircraftswoman 1
 amytal
@@ -12574,7 +12574,7 @@ avidities 1
 anemony 2
 apophyses 2
 anguillidae 1
-anemopathy
+anemopathy 1
 astroscope
 antisudorific 1
 anemoscope 1

@@ -1064,7 +1064,7 @@ bustiest
 boyaus
 basanite 2
 breenge 1
-bersil
+bersil 1
 boroughmaster
 bailiwick
 bridler
@@ -1389,7 +1389,7 @@ baldcrown 1
 bardily
 balded 4
 balder
-bookmaking 1
+bookmaking 2
 bolloxing
 balzarine 1
 beringed 1
@@ -8858,7 +8858,7 @@ blondness 1
 binomials
 betoya
 blunthead 1
-bractlets 2
+bractlets 3
 bikinied
 bombycids 2
 boxtops 1
@@ -15427,7 +15427,7 @@ brevete
 barghests
 biotelemetry
 bowsed 1
-basicytoparaplastin 1
+basicytoparaplastin 2
 blackfish 1
 bombe
 baronetcy
@@ -17370,7 +17370,7 @@ becrawled 1
 beachier 1
 bogledom
 bliny 1
-bailie 1
+bailie 2
 bloodmobiles 1
 bunged
 bylawman
