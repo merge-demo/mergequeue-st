@@ -3374,7 +3374,7 @@ foreyards
 fastigate
 forcut 1
 fopling 3
-fossilification
+fossilification 1
 flappering 3
 ferr 1
 fishermen 1
@@ -3522,7 +3522,7 @@ forestine
 frubbish 2
 femoropopliteal 2
 fodderless 2
-fly
+fly 1
 fissipalmation
 flexuoseness 3
 feud 2
@@ -5408,7 +5408,7 @@ foxfinger 5
 firs 2
 fibrillary 2
 freed 1
-fetis
+fetis 1
 flummeries 4
 flaked 1
 fulham 2
@@ -8823,7 +8823,7 @@ forgemen 3
 faradization 1
 fiberglass 1
 floret 1
-forechurch 1
+forechurch 2
 flunking
 funeralize 1
 fjerding 2
