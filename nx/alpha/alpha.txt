@@ -3982,7 +3982,7 @@ aphidian 1
 alarmed 2
 argentamide 1
 adjunctively 1
-adjunctly 1
+adjunctly 2
 analogia
 admissory 2
 anteporch 1
@@ -4644,7 +4644,7 @@ angolar
 acetylic 1
 avidnesses
 advising 2
-antechapel 3
+antechapel 4
 altercate
 arbith
 apersee
@@ -9663,7 +9663,7 @@ allgood 2
 airworthiest 2
 aluminising 1
 aluminize
-aviary
+aviary 1
 archer
 asserted
 aluminizes
@@ -15477,7 +15477,7 @@ antimediaevally 2
 antimedical 1
 aslantwise 1
 antimedicine 4
-anaptomorphidae
+anaptomorphidae 1
 antimedievalism 2
 antimedievally
 anabolize 1
@@ -15962,7 +15962,7 @@ antiqua
 acetylated
 antelope
 articulationist
-ascensor
+ascensor 1
 andantes
 antiquarianize
 anachronism 1
@@ -16385,7 +16385,7 @@ antiwaste 2
 anonym 1
 ashwort
 antiwear
-abiological 1
+abiological 2
 amictus 1
 anthraconite
 affiliates 1
@@ -20484,7 +20484,7 @@ aristological
 asterospondylous 3
 athbash
 arteriocapillary
-arteriogenesis
+arteriogenesis 1
 arbitrer 1
 arteriograph 1
 airsome
@@ -21680,7 +21680,7 @@ assaulter 2
 attainably 2
 aldolases
 amphicytula 1
-assausive 1
+assausive 2
 arrhinia
 audiotape 2
 askar 2
@@ -23466,7 +23466,7 @@ adversity
 antiantidote
 autoinoculation
 aquiform
-antihygienically 1
+antihygienically 2
 arsenillo
 augends 1
 auger 2

@@ -542,7 +542,7 @@ beech
 backbends
 bayok 2
 blasthole 1
-bafflingness 1
+bafflingness 2
 barometrical 1
 backvelder 1
 blastodermic
@@ -2619,7 +2619,7 @@ breastbones 2
 bifronted 1
 bhaiyachara 4
 borana 2
-bunglesome 2
+bunglesome 3
 barkey
 briers 1
 barkery
@@ -2720,7 +2720,7 @@ barnman 1
 braconids 1
 barnstormer 2
 barnstorming
-besmearing
+besmearing 1
 borages 3
 brutalisation
 bogomile 1
@@ -4319,7 +4319,7 @@ bulkheaded 1
 braquemard 4
 boned 1
 bdrm 2
-bulimia 2
+bulimia 3
 becarpeted 1
 bulbourethral
 bucktails 2
@@ -6395,7 +6395,7 @@ benzoylated
 becuna
 benzene
 benzoylation 1
-benzoinated
+benzoinated 1
 borize
 blas 1
 brinishness
@@ -9526,7 +9526,7 @@ blastemata 3
 berceuses
 bacteria
 branchiostegite 1
-birthmark
+birthmark 1
 biographee 2
 banality
 besots
@@ -9861,7 +9861,7 @@ bites
 bebat
 bytes 1
 bitewing 1
-beryx
+beryx 1
 based 2
 backswording
 bolelia
@@ -14730,7 +14730,7 @@ baignoire
 bagio 1
 brat
 blender 1
-buboed 1
+buboed 2
 bounder
 britannic
 burps 1
@@ -15128,7 +15128,7 @@ bibber 1
 besaint
 brett
 brachymetropic 1
-betty 1
+betty 2
 brickwork
 blisterweed
 bradawl 2
@@ -16519,7 +16519,7 @@ biliverdin
 brineman
 beatify
 belion 2
-brittlebush 2
+brittlebush 3
 bagnet
 bolivia 1
 breathlessly 2
@@ -17804,7 +17804,7 @@ bursary 3
 bassine
 backstroked
 bacterizing 2
-brave 1
+brave 2
 banghy 3
 begani
 bursarial 1
