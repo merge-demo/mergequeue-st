@@ -86,7 +86,7 @@ catamaran 1
 cephaeline
 coemptor
 cabbed 1
-cubics
+cubics 1
 crenelate
 cabbies
 cabble
@@ -221,7 +221,7 @@ cabrit 1
 cabs 1
 comprend 1
 copular
-cabstands
+cabstands 1
 cabuya
 celebrators
 cabureiba
@@ -4625,7 +4625,7 @@ cytoproct 1
 counterrevolutions
 circlers 1
 canescene 2
-chronisotherm 1
+chronisotherm 2
 cangenet
 caryotin
 cutleria
@@ -5227,7 +5227,7 @@ casiri
 casita
 casket
 corpl 1
-coemanate 2
+coemanate 3
 carmine 1
 conflation
 cellulosed 1
@@ -5764,7 +5764,7 @@ catchline
 catchphrase
 cocona 1
 cynoscion
-commation
+commation 1
 catchpoll 1
 catchpolling 1
 copperheads 1
@@ -8916,7 +8916,7 @@ censers
 chemisms 2
 chargable 1
 combmaker
-charge
+charge 1
 chargeable
 ciphertext
 clements
@@ -11212,7 +11212,7 @@ charquid
 chloranthus 1
 chlorate
 chlorcosane
-chlordans
+chlordans 1
 costotransversal 1
 canoodle
 copyholding 1
@@ -12167,7 +12167,7 @@ chrysalises
 cardiaplegia 1
 chrysaloid 1
 chrysammic
-constances 1
+constances 2
 clonk
 copyholders
 chrysamminic 1
@@ -12837,7 +12837,7 @@ chunner
 chuntered 2
 chrysotherapy 1
 chupatty
-crases
+crases 1
 countermanifesto
 crookshouldered 1
 crithmene 1
@@ -17596,7 +17596,7 @@ cephalothoracopagus
 coccyx 2
 coccyxes
 coccyzus 1
-cocco 1
+cocco 2
 changar
 clallam 1
 coccobacilli
@@ -17971,7 +17971,7 @@ caliphs 1
 chromoplasmic
 concept
 coeligenous
-coelin
+coelin 1
 cantharellus
 coelioscopy
 cooperativeness
@@ -19113,7 +19113,7 @@ collins
 collinses
 curlew
 circumterraneous 1
-cristate 1
+cristate 2
 collinsite
 collinsonia
 colliquable 1
@@ -20675,7 +20675,7 @@ complect
 cottierism
 collapsible
 converser
-complementary 1
+complementary 2
 carty 1
 complementariness
 complemented
@@ -21656,7 +21656,7 @@ curuminaca 1
 circumspectly 1
 condylarthra
 condylectomy
-condyles
+condyles 1
 crimsony
 clubbers
 cariacus
@@ -23213,7 +23213,7 @@ cardioscope
 constrict 1
 claudio
 castors 1
-chocard 2
+chocard 3
 consperg 1
 cromlechs
 crakefeet
@@ -24881,7 +24881,7 @@ capilliform 1
 cookware
 consularity 1
 coracomorph 1
-curbash
+curbash 1
 coracomorphae
 chrysopoeia
 cymars
@@ -24932,7 +24932,7 @@ carminatives
 caterans 2
 craniacromial 1
 cephadia
-codices
+codices 1
 continuousness 1
 corallum
 copywise

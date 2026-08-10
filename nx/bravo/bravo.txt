@@ -1222,7 +1222,7 @@ bakeries 2
 budling
 brownstones 1
 bakersfield 1
-bakes
+bakes 1
 bakeshop 1
 bakie
 biguttulate 1
@@ -1436,7 +1436,7 @@ biporose
 bickern
 behaviored 1
 bombastically
-boun 1
+boun 2
 balestra 1
 batoneer
 bops 2
@@ -1616,7 +1616,7 @@ brachioganoidei 4
 ballflower 1
 bifurcate
 ballywack 3
-basalt
+basalt 1
 brooder
 bursati 1
 baudronses 2
@@ -1741,7 +1741,7 @@ ballyhoos 2
 buskers
 bawbees 1
 bidar
-brokerage
+brokerage 1
 botan
 borealis 1
 brachypyramid
@@ -1856,7 +1856,7 @@ bancha 1
 bivial 2
 beslime 3
 bullose 1
-bialystoker 1
+bialystoker 2
 bandaged 1
 bandaging 1
 berylloid
@@ -4558,7 +4558,7 @@ beagles
 barricadoed 1
 biggening
 behavioristic 1
-bedad
+bedad 1
 bedaggle
 breeding
 berrybush
@@ -9517,7 +9517,7 @@ bigam 1
 borstals
 byrsonima
 birthed
-budgerigars
+budgerigars 1
 bakairi 5
 byrthynsak 1
 birthless 2
@@ -10483,7 +10483,7 @@ blasphemies 1
 blasphemous 1
 blasphemousness 2
 bismarckian 1
-buttonhole
+buttonhole 1
 bielectrolysis
 blunderingly 2
 bemaster 1
@@ -10884,7 +10884,7 @@ ballgames 2
 budgeters
 bloodguilt 1
 blin 1
-burnup 3
+burnup 4
 beadledom 1
 biggity
 bibbling 1
@@ -10904,7 +10904,7 @@ brideship 1
 benn 1
 biffing
 blooded 1
-blindfish 2
+blindfish 3
 blindfishes
 bluelegs 1
 blindfolded 2
@@ -13983,7 +13983,7 @@ broadening 1
 boxtop 3
 brager 1
 brutalizing 2
-bluecup
+bluecup 1
 bolometrically 1
 bensel
 bothlike
@@ -14172,7 +14172,7 @@ bracingly
 bayed
 brushability 3
 bracioles 1
-backs
+backs 1
 belicoseness 1
 bakula
 bracked
@@ -15663,7 +15663,7 @@ boultell 1
 barley 1
 bridlewise 3
 boza 1
-brittany 2
+brittany 3
 brittle 2
 begrime
 bunkos
@@ -17863,7 +17863,7 @@ biscanism 1
 bicultural
 bused 1
 brisks 1
-bestselling 1
+bestselling 2
 brawns
 bobotie
 blowfly
