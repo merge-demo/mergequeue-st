@@ -5764,7 +5764,7 @@ catchline
 catchphrase
 cocona 1
 cynoscion
-commation
+commation 1
 catchpoll 1
 catchpolling 1
 copperheads 1
@@ -8916,7 +8916,7 @@ censers
 chemisms 2
 chargable 1
 combmaker
-charge
+charge 1
 chargeable
 ciphertext
 clements
@@ -21656,7 +21656,7 @@ curuminaca 1
 circumspectly 1
 condylarthra
 condylectomy
-condyles
+condyles 1
 crimsony
 clubbers
 cariacus
@@ -23213,7 +23213,7 @@ cardioscope
 constrict 1
 claudio
 castors 1
-chocard 2
+chocard 3
 consperg 1
 cromlechs
 crakefeet
@@ -24932,7 +24932,7 @@ carminatives
 caterans 2
 craniacromial 1
 cephadia
-codices
+codices 1
 continuousness 1
 corallum
 copywise
