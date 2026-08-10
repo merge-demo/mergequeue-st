@@ -1123,7 +1123,7 @@ calcioferrite
 ceratobranchial
 calcioscheelite
 calciovolborthite
-calciphylactic 1
+calciphylactic 2
 calciphylaxis
 cabecera 1
 calciphilia 1
@@ -29573,7 +29573,7 @@ crivetz
 chastening
 constraint
 coenogenetic
-crizzel
+crizzel 1
 chlorophylloid 1
 cupellation 2
 checkerboarding
