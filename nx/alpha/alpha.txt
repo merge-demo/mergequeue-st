@@ -2705,7 +2705,7 @@ acranial 1
 alcaaba 2
 anachronistical 2
 antisepticize
-aphthic 4
+aphthic 5
 amiloun
 aethalia 1
 assignor 2
@@ -4834,7 +4834,7 @@ acutifoliate 2
 antimonarchist 2
 aerifies 1
 antiparabemata
-adglutinate
+adglutinate 1
 aeriform 1
 abasement 1
 autographically
@@ -11711,7 +11711,7 @@ arrage 2
 assuror 1
 anaemotropy
 adrad 1
-anaeretic 1
+anaeretic 2
 acerbity 2
 astrometeorologist
 adages 2
@@ -13220,7 +13220,7 @@ allorrhythmic 1
 animatedly
 angekok
 animating 1
-azimethylene 1
+azimethylene 2
 amphibolic 1
 amoks
 anagraph 1
@@ -15456,7 +15456,7 @@ antimasque
 antimasquer 1
 attitude
 abba 2
-anhedonic 1
+anhedonic 2
 antichamber
 afterstrain
 adversa 2
@@ -18791,7 +18791,7 @@ ally
 archemastry 2
 airdrops 1
 absinthol
-apotropaism
+apotropaism 1
 alebench
 adoxaceae
 angioneoplasm
@@ -19217,7 +19217,7 @@ avilion
 agrarianism
 antiparasitic
 auriscope 2
-archconsoler 1
+archconsoler 2
 ardish 2
 ardito 2
 amianthoidal
@@ -19843,7 +19843,7 @@ agnoetism
 agnoetae
 abhenries
 armiger 1
-aweto 2
+aweto 3
 armigeros 1
 armigerous 1
 autotomized 1
@@ -21222,7 +21222,7 @@ ashimmer
 ambarella 1
 apostacy 1
 airworthiness 1
-algarsife 1
+algarsife 2
 ashing
 afforcing
 ashipboard
@@ -22358,7 +22358,7 @@ autoreduction
 atmologist 2
 astrodiagnosis 2
 androphyll
-afterbodies
+afterbodies 1
 amphitron 2
 achromatolysis
 africanist 1
@@ -22612,7 +22612,7 @@ acontium
 aliased 2
 acuate
 aeromechanic
-athanasia 2
+athanasia 3
 athanasian 1
 athanasianism 1
 acronychous 2
@@ -22834,7 +22834,7 @@ atmosphereful 2
 anatomization 2
 apachite 1
 agamic 1
-apanaging
+apanaging 1
 aedilitian 1
 atmospherically 1
 atmospherics
@@ -23355,7 +23355,7 @@ auca 1
 anisocratic 1
 atrepsy 2
 achaenocarp 1
-autota
+autota 1
 aftertimes
 auchenium
 auchlet 1
