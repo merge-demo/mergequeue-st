@@ -2501,7 +2501,7 @@ anatexes
 abnormalities
 archfriend 1
 angiocardiography
-autocombustible
+autocombustible 1
 aclinic
 atrabilar
 antigene 1
@@ -5254,7 +5254,7 @@ affectivity 1
 affector
 antagonisation 1
 accoast 3
-affeerer 1
+affeerer 2
 aum
 ankerite 1
 antichristianly
@@ -20367,7 +20367,7 @@ arcsines 1
 antonymic 2
 anticorrosives
 autoradiography
-authenticators 1
+authenticators 2
 apothgm
 alefzero
 awearied 1
