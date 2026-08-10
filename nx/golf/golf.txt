@@ -6111,7 +6111,7 @@ goitres 1
 gustoes 1
 gypsoplast 2
 gibuses 2
-gnathostome
+gnathostome 1
 gjetosts
 gallivants 1
 gammarus 2
@@ -6317,7 +6317,7 @@ grail 2
 goosenecked 2
 geomance 1
 gemots
-gearings
+gearings 1
 genarchaship 2
 graptoloidea 2
 goatsucker 4
@@ -6639,7 +6639,7 @@ gamboller 1
 gordius
 glossolabiopharyngeal 1
 gucks 1
-ganda 3
+ganda 4
 grumped 2
 gladsome 4
 gonidangium
@@ -6973,7 +6973,7 @@ genevoise 1
 gynosporangium 3
 genotypical 2
 greenuk 2
-geason 1
+geason 2
 goofiness 4
 grafter 2
 grutching 2
@@ -9963,7 +9963,7 @@ grysbok 1
 grunswel
 glood
 glossematics 2
-guaza
+guaza 1
 gendarmerie 1
 goodbys 4
 goniunia
