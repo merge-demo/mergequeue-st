@@ -851,7 +851,7 @@ brickyard
 bloodlessly 2
 baffs
 becomingly
-boltholes
+boltholes 1
 baft 1
 bigate 1
 baftah
@@ -1388,7 +1388,7 @@ biogeny
 baldcrown 1
 bardily
 balded 4
-balder
+balder 1
 bookmaking 2
 bolloxing
 balzarine 1
@@ -3157,7 +3157,7 @@ bonnes 1
 bimbisara 2
 burghemot
 bronchography 1
-bleat
+bleat 1
 briskly 1
 brachiating
 biphase 1
@@ -7365,7 +7365,7 @@ bombous 1
 bootikins
 bighting
 beautifications
-boluses 1
+boluses 2
 blindfolds 1
 betime
 bastionet 1
@@ -7931,7 +7931,7 @@ bargains 2
 bibliopole 2
 birdieback 1
 beclasp 1
-boogers
+boogers 1
 brambleberries 3
 billetty 1
 bibliopolically 2
@@ -8220,7 +8220,7 @@ bifilar 2
 bifilarly
 biflabellate
 blowtorch
-biflagelate
+biflagelate 1
 bewaring
 borrow 1
 biflex
@@ -8556,7 +8556,7 @@ barabra 1
 bo
 bunting 1
 bedder
-bradycardia 1
+bradycardia 2
 billabong 2
 billage 2
 brumes 1
@@ -8652,7 +8652,7 @@ brochette 2
 bewig 1
 balcone 2
 bubalis
-blockheaded
+blockheaded 1
 behear 1
 basins
 bilobe
@@ -12405,7 +12405,7 @@ brontothere 2
 bonapartism 3
 bigotries
 brothy 1
-betterly
+betterly 1
 barbarians
 bassariscus 2
 buckram 1
@@ -13605,7 +13605,7 @@ byssi 1
 boulderhead 1
 bandanna
 bilskirnir 1
-brairo 3
+brairo 4
 boyuna 1
 bahaism 1
 boulework 2
@@ -16537,7 +16537,7 @@ bisellium
 bisonant
 brutely
 blindstitch 1
-basils
+basils 1
 biggins
 bruteness
 brutify 1
@@ -17251,7 +17251,7 @@ beclouding
 ballastage
 borley
 bubingas 2
-blepharolithiasis
+blepharolithiasis 1
 bedriveled
 barriness 1
 bearbind 2
@@ -17735,7 +17735,7 @@ buckeens
 burnish
 burnishable
 bahuvrihis 1
-brachiorrhachidian 2
+brachiorrhachidian 3
 burnisher 1
 braeside 1
 barramundas
