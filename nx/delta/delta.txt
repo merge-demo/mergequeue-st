@@ -2932,7 +2932,7 @@ displayer
 dedit
 dediticiancy 1
 dedogmatize 2
-discounted 1
+discounted 2
 dedolation 1
 deseret 1
 destinal 2
@@ -3173,7 +3173,7 @@ divots 1
 draughtily 1
 defectible
 dezincified
-distaff
+distaff 1
 doltishness 1
 duelling 2
 depolarizes
@@ -3369,7 +3369,7 @@ disrestore 2
 dynagraph 1
 dithionate
 deflagrator
-deflating
+deflating 1
 discommend 1
 drumslade 1
 diversifolious 2
@@ -6041,7 +6041,7 @@ depressiveness
 deputizing
 degraders 1
 deonerate
-debriefed 1
+debriefed 2
 deaconal
 donkey 1
 dilutent
@@ -6256,7 +6256,7 @@ disprize
 doggier 1
 dactylotheca
 diradiation 1
-didymolite
+didymolite 1
 dermatopathic
 davoch
 dermatophyte 2
@@ -6563,7 +6563,7 @@ danda 1
 dioicous 1
 dislimns 2
 desecrates 1
-demythologizes 1
+demythologizes 2
 disquisiting
 dampen
 dowfart 1
@@ -9900,7 +9900,7 @@ doorsteps
 decretorial
 debarred 2
 dimethylsulphoxide 1
-dekarch 2
+dekarch 3
 dislock
 dimethoxy
 dacelo 1
@@ -10755,7 +10755,7 @@ diversifiability
 dipterocarpous
 dipterocarpus 1
 divas 1
-dependent 3
+dependent 4
 dotterel
 diptychs 2
 differencing 1
@@ -12919,7 +12919,7 @@ disimprovement
 derencephalus 1
 deutoplasmic
 desoxyribonucleic 1
-disodium 1
+disodium 2
 daunii
 decreation 2
 disdiazo 1
@@ -13090,7 +13090,7 @@ dentistries
 delimitations
 deutocarbonate 1
 darkie 1
-doggerelled
+doggerelled 1
 derives 1
 diastyle
 dispensatory 2
@@ -14773,7 +14773,7 @@ devouring 1
 doggie
 diverticulitis
 diglot 2
-deviating
+deviating 1
 dodd 1
 docketing
 dantophily
@@ -14897,7 +14897,7 @@ diverts 1
 dodecaphonism
 demibastion
 dehumidifiers 1
-destructive 1
+destructive 2
 dodecarch 2
 dodecasemic 1
 decadi 1
@@ -14994,7 +14994,7 @@ disenthral 1
 diagrammatically
 divus
 demirhumb
-doggedness 1
+doggedness 2
 demonographer 4
 dishmaker 1
 disniche
@@ -15112,7 +15112,7 @@ demidandiprat 2
 dazzles 2
 doilies 1
 decancellating
-diglottism
+diglottism 1
 desiderata 2
 divarication 1
 degummed 2
@@ -15757,7 +15757,7 @@ deflorations 1
 dorsa 1
 dorsigrade
 dentiparous 2
-dingdong 1
+dingdong 2
 demountability 1
 dramatizer
 diallela 1
@@ -16216,7 +16216,7 @@ disinherit 1
 dowf
 daren
 dextroamphetamine
-deuterocasease 3
+deuterocasease 4
 dermatotherapy 1
 dowsets 1
 densitometer 2
@@ -16445,7 +16445,7 @@ dozzle 1
 dozzled 1
 dr 2
 draba
-drabant 1
+drabant 2
 draughthouse 1
 dextrotartaric
 dichotomousness 2
@@ -16851,7 +16851,7 @@ donations 2
 dytiscid 1
 dishonorary 1
 dialectical 1
-drawings 1
+drawings 2
 dimerized 1
 duplicando 2
 dissociable
@@ -17780,7 +17780,7 @@ dibutyrin
 disconsolate 2
 dispelling
 ducally
-drunt
+drunt 1
 discriminous
 dispossessed 1
 ducaton
@@ -18024,7 +18024,7 @@ dulat 1
 dulcamara 1
 diverticulum
 dispersedly
-dulce
+dulce 1
 delineating 1
 disquietedly 1
 desulphurising 1
