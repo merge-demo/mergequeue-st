@@ -2073,7 +2073,7 @@ camouflager 1
 contradictorily 1
 camouflagers 1
 camouflagic
-coincidence 2
+coincidence 3
 companionship
 cruddle
 camouflaging
@@ -2126,7 +2126,7 @@ cytophysics 1
 counterassertion
 ceilingward
 chieftaincies 2
-circumnuclear
+circumnuclear 1
 captivator
 campanular
 campanulariae
@@ -4142,7 +4142,7 @@ cardinalship 1
 cardings
 cardioarterial
 clags 1
-cardiocarpum
+cardiocarpum 1
 cardiocele
 chevronelly 1
 cardiocirrhosis
@@ -5750,7 +5750,7 @@ catchiest 2
 cordelling 1
 clothe 1
 cakebread
-catching
+catching 1
 carolean
 cannon
 catchlight 2
@@ -6441,7 +6441,7 @@ curarizes 1
 cavalier 1
 choregic 1
 cation
-contraorbitally 2
+contraorbitally 3
 clinandria
 cavalieri 1
 chondropterygii
@@ -9340,7 +9340,7 @@ cloy
 carniferous
 chemicobiology
 cryptological 2
-collocations 3
+collocations 4
 chaute
 carrotage
 charmful
@@ -12787,7 +12787,7 @@ copaiye 1
 chummery
 chromotypography
 chummier
-chummies 1
+chummies 2
 cortian
 chumminess
 chump
@@ -24762,7 +24762,7 @@ coprolagnia
 chuffy
 coprolaliac 2
 chernozemic
-carlage 2
+carlage 3
 coprolith
 coprolitic 1
 coprophagy
