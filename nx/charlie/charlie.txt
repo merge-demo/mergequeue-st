@@ -3811,7 +3811,7 @@ carbohemoglobin
 calamodendron 1
 cribbling 1
 carbohydrase 1
-cannibalism 3
+cannibalism 4
 cardioncus
 carbohydrate
 cardiotrophia
@@ -26411,7 +26411,7 @@ cotenants
 carbophilous
 chrismatories
 cotenure
-concaved
+concaved 1
 counteragitate 1
 cinderlike
 coterie
@@ -29047,7 +29047,7 @@ cals 1
 criminologic
 criminological 1
 criminologically
-condylarthrosis
+condylarthrosis 1
 cenatory 1
 criminologies 1
 criminologist
