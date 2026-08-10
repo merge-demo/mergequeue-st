@@ -1353,7 +1353,7 @@ digraph
 dipentine 1
 demissive 2
 diploid 1
-draftsperson
+draftsperson 1
 doggerelize 1
 dompt 1
 damagement 2
@@ -10826,7 +10826,7 @@ dau
 doob
 desilverize
 dreidls 1
-dipleurobranchiate 1
+dipleurobranchiate 2
 dauntingly 1
 displays 1
 dirged 1
