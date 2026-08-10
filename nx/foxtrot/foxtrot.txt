@@ -754,7 +754,7 @@ ferv 2
 forelouper 5
 fanciful 1
 footbridge 2
-fanciless 3
+fanciless 4
 foliicolous 1
 forestaff 2
 fandoms 1
@@ -1405,7 +1405,7 @@ fiddled 2
 fisheries 2
 funis 3
 fattishness 1
-fother 5
+fother 6
 frimitts 2
 flings
 freewheel 1
@@ -1537,7 +1537,7 @@ fleuronee 1
 foochow 2
 freaking 2
 favelas 3
-forenoon
+forenoon 1
 frustulent 2
 favelidium 2
 fourteenth
@@ -1744,7 +1744,7 @@ feldspathoidal 3
 frijole 2
 forehent 2
 fashioning 1
-fusels 3
+fusels 4
 fusobacterium
 foothill 2
 fireworms
@@ -2029,7 +2029,7 @@ fractionizing 4
 freshens 1
 fieldwards 1
 finestra 3
-fathomage 3
+fathomage 4
 figurines 4
 fradicin 4
 frogger 1
@@ -2270,7 +2270,7 @@ facaded 1
 florentinism 2
 fimble 2
 flatulence
-firebombed 2
+firebombed 3
 fumaria 2
 forshape 3
 full 2
@@ -2328,7 +2328,7 @@ furrowless 1
 frangipane 3
 fensive 1
 furner
-falbalas
+falbalas 1
 frillings 2
 fecula 3
 fenzelia
@@ -4099,7 +4099,7 @@ frostation
 florizine 3
 fergusonite 2
 featherbrain 2
-fattable 1
+fattable 2
 flocculous 1
 formal 1
 forgery
@@ -4494,7 +4494,7 @@ factorship 2
 flouncing
 felinae 1
 figurer
-flattop 2
+flattop 3
 forblow
 feebleheartedness 1
 foreshank 2
@@ -4557,7 +4557,7 @@ fourth 1
 feudists 1
 frit
 futtocks 2
-forespoken
+forespoken 1
 freith
 fisticuff 2
 familiarness 2
@@ -5367,7 +5367,7 @@ foreclosed 1
 fissured 1
 faconde
 filters
-floccillation
+floccillation 1
 faverel 1
 figged 3
 flnerie 2
@@ -6412,7 +6412,7 @@ fecundatory 3
 formularization 1
 flathead 1
 furanoside 1
-flagelliferous 1
+flagelliferous 2
 floatmaker 4
 fatiguabilities 2
 fossae 3
@@ -9975,7 +9975,7 @@ forkbeard 2
 fleabane 1
 formated 4
 feceris 3
-flotant 1
+flotant 2
 fortuitism 1
 forsythias
 ferromagnetism 1
@@ -10536,7 +10536,7 @@ froth 2
 formulatory
 fanman
 fittingly 2
-forays 3
+forays 4
 flyback 2
 frottola 2
 federalizations
@@ -10586,7 +10586,7 @@ furnaces
 fossilised 3
 fieldpiece 2
 frowziest 2
-frowzled
+frowzled 1
 firebases 4
 fresh 1
 falding 3
@@ -10680,7 +10680,7 @@ filtrability 1
 facultate 2
 fegatella 1
 fickly 5
-fowage 1
+fowage 2
 fitzroy 1
 feltlike 1
 forblack 2
@@ -11338,7 +11338,7 @@ fps 4
 furfurine
 funebrious 2
 faujasite 1
-foalhood 1
+foalhood 2
 fuseplug 4
 fashioners 1
 fallacy
