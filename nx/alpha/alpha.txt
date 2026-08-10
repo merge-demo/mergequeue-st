@@ -6523,7 +6523,7 @@ aheight 1
 abashedly 1
 ampullar
 adoptable 1
-apehood 1
+apehood 2
 anzanian 1
 antecardium
 allantiasis
@@ -11911,7 +11911,7 @@ amphibium 2
 angelus 1
 aminoformic
 aquashow
-acyanopsia
+acyanopsia 1
 awink 2
 ancerata 1
 asperous
@@ -16141,7 +16141,7 @@ arbitraries
 autolyzing
 abrazitic 1
 acrididae
-argumentatious
+argumentatious 1
 annealing 1
 acidulous
 arrame
