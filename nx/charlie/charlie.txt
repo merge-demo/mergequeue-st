@@ -9703,7 +9703,7 @@ cribwork 1
 coexclusive 1
 cheilodipteridae
 cheilodipterus 1
-colostral
+colostral 1
 cheiloplasty
 cheilostomata
 cheilostomatous
@@ -12918,7 +12918,7 @@ copelata
 congruities
 churred 1
 churring 1
-churrip
+churrip 1
 churro 1
 cooeeing 1
 copiers 1
@@ -13235,7 +13235,7 @@ cistrons 1
 coulometric
 cycloaliphatic 1
 cycloalkane 1
-cyclobothra 1
+cyclobothra 2
 carmakers 1
 cyclobutane
 constableship 1
@@ -15551,7 +15551,7 @@ classicolatry
 classiest 1
 classify 1
 continentalist
-classifiable 3
+classifiable 4
 cicatrized
 curites
 classificator
@@ -16110,7 +16110,7 @@ counterpull
 culturing
 calamints
 cliffside 1
-cliffsman
+cliffsman 1
 cassique
 cliffweed
 clift

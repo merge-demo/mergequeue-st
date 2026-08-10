@@ -5535,7 +5535,7 @@ dibber 1
 dustfall
 draftable
 depended 2
-descends
+descends 1
 darker 1
 dolichopellic 1
 dependence 1
@@ -8504,7 +8504,7 @@ dealkylation
 diffided 1
 diantre 2
 disfavored
-dispensableness 1
+dispensableness 2
 desilvering
 disquisitively
 drighten 1
@@ -12260,7 +12260,7 @@ doorbrand 1
 detoxifying 1
 dappleness
 decousu
-decrete
+decrete 1
 disgrading 1
 driblet 1
 denitration 1
@@ -16022,7 +16022,7 @@ drent
 decompensated 1
 duryodhana
 distally 1
-doublethink 2
+doublethink 3
 driveline
 drainboard 1
 dockers 1
@@ -16860,7 +16860,7 @@ dendrodus
 diaphanoscopy 2
 deprecatingly 1
 drumbeat
-darbukka 2
+darbukka 3
 drawliest 1
 declamando 1
 donnishly
