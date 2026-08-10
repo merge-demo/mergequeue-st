@@ -755,7 +755,7 @@ enforcive 4
 exscinding 1
 emotes 3
 echinal
-euomphalid
+euomphalid 1
 egger 1
 ecrase 1
 enclitic 3
@@ -1318,7 +1318,7 @@ effectuous 1
 expects 5
 endostracum 2
 epigastrical 1
-effeir 2
+effeir 3
 eriocomi
 effeminise 1
 electrochronometer
@@ -3808,7 +3808,7 @@ ecu
 emending 2
 escribano 1
 emerge 4
-ecart 4
+ecart 5
 escapology
 emerged 4
 edulcorated
@@ -9050,7 +9050,7 @@ entergogenic
 extrality
 extravascular 1
 epenthesis 3
-editorialist 2
+editorialist 3
 erythrocytosis 6
 embryogony 2
 enigmas
