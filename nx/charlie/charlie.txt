@@ -2533,7 +2533,7 @@ candymaking
 candite
 candyweed 1
 candle 1
-coehorn 1
+coehorn 2
 candleball
 candleberries 2
 candlebomb 1
@@ -6491,7 +6491,7 @@ chromoscope
 cavekeeper 1
 cavelet 2
 confiner
-cambodia
+cambodia 1
 cavelike
 cavemen 2
 cavernal
