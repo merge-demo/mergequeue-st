@@ -15687,7 +15687,7 @@ clavered
 clavi 1
 cerithioid 1
 chirres
-clavy
+clavy 1
 clavicembalist
 clavicembalo
 claviceps
@@ -27142,7 +27142,7 @@ countersink 2
 carbureting 1
 colical 1
 chesboll
-countersleight 1
+countersleight 2
 countersnarl
 cataclysmatic 2
 counterspy
