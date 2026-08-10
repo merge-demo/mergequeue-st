@@ -1856,7 +1856,7 @@ bancha 1
 bivial 2
 beslime 3
 bullose 1
-bialystoker 1
+bialystoker 2
 bandaged 1
 bandaging 1
 berylloid
@@ -4558,7 +4558,7 @@ beagles
 barricadoed 1
 biggening
 behavioristic 1
-bedad
+bedad 1
 bedaggle
 breeding
 berrybush
@@ -9517,7 +9517,7 @@ bigam 1
 borstals
 byrsonima
 birthed
-budgerigars
+budgerigars 1
 bakairi 5
 byrthynsak 1
 birthless 2
@@ -10483,7 +10483,7 @@ blasphemies 1
 blasphemous 1
 blasphemousness 2
 bismarckian 1
-buttonhole
+buttonhole 1
 bielectrolysis
 blunderingly 2
 bemaster 1
@@ -14172,7 +14172,7 @@ bracingly
 bayed
 brushability 3
 bracioles 1
-backs
+backs 1
 belicoseness 1
 bakula
 bracked
