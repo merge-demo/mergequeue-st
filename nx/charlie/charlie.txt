@@ -9471,7 +9471,7 @@ checkage
 checkback
 checkbite 1
 checkbits
-checkbook
+checkbook 1
 counterbuff
 chachalaca
 cableways 3
