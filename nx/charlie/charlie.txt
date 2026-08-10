@@ -2804,7 +2804,7 @@ cohorts
 cannonading
 cannonarchy 1
 cannonballed
-commercialistic
+commercialistic 1
 conglutination
 cannoneer 1
 capitella 1
@@ -3549,7 +3549,7 @@ captaincies
 caprioled
 captainry
 captainship 1
-counterpetition
+counterpetition 1
 communistically 2
 chaotically 1
 chemicked
@@ -3833,7 +3833,7 @@ cogitation 1
 cineolic
 carbolfuchsin
 curlewberry
-ceratophyllaceae 1
+ceratophyllaceae 2
 carbolic 1
 carbolics
 centricity 2
@@ -4070,7 +4070,7 @@ crucianella 1
 ceroid
 chromocentral 1
 creaminess
-cardiac 1
+cardiac 2
 cardiacal 1
 cestui
 cleronomy
@@ -7633,7 +7633,7 @@ ceremonies
 ceremonious 1
 canonici
 counterpoint 1
-congregates
+congregates 1
 carreta
 cereous
 celioschisis 1
@@ -10420,7 +10420,7 @@ chiffre
 chigetai 1
 chigga
 comedones 1
-chiggers
+chiggers 1
 congession
 chigoes 1
 chih 2
@@ -10755,7 +10755,7 @@ chinesery 1
 cinched
 consimilate
 chinfest
-contentious
+contentious 1
 colleaguesmanship 1
 chinhwan
 cutinized
@@ -11980,7 +11980,7 @@ cachina 1
 chorioallantoic
 chorioallantoid
 chorioallantois
-centrifugation
+centrifugation 1
 cornbread
 counterculturist
 choriocarcinomas 2
@@ -14452,7 +14452,7 @@ cebatha
 coloslossi
 cirrocumulus
 cirropodous
-cirrose
+cirrose 1
 chetrums
 cholelithiasis
 capsulociliary 1
@@ -14888,7 +14888,7 @@ cytophil 4
 cytophilic
 cytula
 consulting
-consignors 1
+consignors 2
 crossopterygian
 corypphaei 1
 ceased
@@ -15467,7 +15467,7 @@ cayapa
 capuches
 clarke 1
 coachs
-celestialness 1
+celestialness 2
 clarkias 1
 conga 1
 coapostate
@@ -17374,7 +17374,7 @@ craythur
 coatie
 cretinized
 coatis
-coatless
+coatless 1
 coatrack
 coatroom
 combinability 1
@@ -21098,7 +21098,7 @@ castorin
 carcerating 1
 consociated 2
 conalbumin
-conamarin
+conamarin 1
 communard
 cramoisie
 cornfed
@@ -22229,7 +22229,7 @@ charlatan
 capricorn
 consimilated
 counderstand
-congelative
+congelative 1
 congeliturbate 1
 coronary
 congeliturbation
@@ -24102,7 +24102,7 @@ calm
 cowbell
 cometarium
 cramponnee
-cabbie
+cabbie 1
 conversed
 cordovan
 confections 1
@@ -25344,7 +25344,7 @@ comities
 coidentity
 chaplainship
 cornbole
-cornbottle
+cornbottle 1
 contrade 1
 clistocarp
 commemorating 1
@@ -26070,7 +26070,7 @@ coshers 2
 cholralosed 1
 coshes 1
 coshing 1
-cosy
+cosy 1
 caulicule
 cosie 2
 cedrine
@@ -27885,7 +27885,7 @@ crabeating 1
 canchas
 craber 2
 crablet 1
-crablike
+crablike 1
 chromidial 2
 crabman 1
 crabs
@@ -29150,7 +29150,7 @@ criobolium
 courtman 1
 credit 1
 coelacanthini 1
-cacodorous 2
+cacodorous 3
 crioceras 2
 cinefaction
 crioceratitic
@@ -30483,7 +30483,7 @@ ctenoplana
 ctenostomata 2
 ctetology 1
 cto
-charcuteries 1
+charcuteries 2
 carbo 1
 ctr 1
 comortgagee 2
@@ -31327,7 +31327,7 @@ commemorize
 circumoral
 claudent 3
 curdiness
-curdled 2
+curdled 3
 cottabus 1
 critchfield
 curdles
