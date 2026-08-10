@@ -14942,7 +14942,7 @@ anticly 2
 aegagropilae
 aeromotor
 abassi
-anticlimax 2
+anticlimax 3
 attroupement
 abret
 anticlines
@@ -24449,7 +24449,7 @@ autosuggestionist 1
 adversarious
 argentol
 autosuppression
-autotelegraph
+autotelegraph 1
 autotelism
 antipharmic
 appendiculariidae
