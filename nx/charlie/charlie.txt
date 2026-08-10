@@ -6447,7 +6447,7 @@ cavalieri 1
 chondropterygii
 cavaliering
 chirographic 1
-cavalierishness 1
+cavalierishness 2
 cavalierism
 cavalierly
 cytogenous 1
@@ -16587,7 +16587,7 @@ cunctatious
 coexecutrix 2
 clonisms 3
 cauchillo
-chaudron
+chaudron 1
 conjurer
 clerodendron 1
 centroidal
@@ -19276,7 +19276,7 @@ colon 1
 colonate 1
 colonelcies
 colonelships
-coloner 1
+coloner 2
 colones 1
 colonette
 colongitude
@@ -30538,7 +30538,7 @@ catskinner 1
 catonic
 cubicities 1
 cofferfish
-cubicula
+cubicula 1
 costly
 cubicular
 casewood
