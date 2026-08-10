@@ -767,7 +767,7 @@ boneshaw
 bannerman
 bushmanship 1
 badigeon
-beadsman
+beadsman 1
 bowstrung
 bechatter
 boric 3
@@ -1064,7 +1064,7 @@ bustiest
 boyaus
 basanite 2
 breenge 1
-bersil 1
+bersil 2
 boroughmaster
 bailiwick
 bridler
@@ -7318,7 +7318,7 @@ bethankit
 bethel
 brehon 1
 blunter
-backage 1
+backage 2
 boletaceous
 bannet
 bugi
@@ -9415,7 +9415,7 @@ bailieship
 bluecaps 1
 birdseye 1
 baculiticone 2
-birdsnest
+birdsnest 1
 bungfu 1
 bargehouse 1
 brimmering 3
@@ -10917,7 +10917,7 @@ birdied
 brioche 2
 bemoon 3
 blinding
-bloodlessness 2
+bloodlessness 3
 bescoured 5
 braciolas
 biorbital
@@ -12965,7 +12965,7 @@ bureaucratic
 breviloquence 2
 boleros 1
 berthold 1
-boardinghouses
+boardinghouses 1
 bootman 2
 boots
 bottoms
@@ -17276,7 +17276,7 @@ batik 2
 baggies 1
 bumfuzzle
 baubles 1
-blotched 1
+blotched 2
 beating 1
 burseed 2
 beman
