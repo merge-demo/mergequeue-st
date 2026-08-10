@@ -522,7 +522,7 @@ blastophoric 1
 bombsights 1
 butomaceous
 backstroke 2
-beckoners 1
+beckoners 2
 backstromite
 boart
 bu 4
@@ -1959,7 +1959,7 @@ bifidate 1
 biotechs 2
 brevipen
 bandore 1
-balsa 4
+balsa 5
 bandrol 1
 beatific
 bonniest
@@ -10720,7 +10720,7 @@ bestill
 bilateralness 3
 blendwater 2
 broadish 3
-bowhead
+bowhead 1
 blenheim 3
 bibl 2
 belap 3
@@ -12758,7 +12758,7 @@ begut
 bookseller 1
 bepreach 1
 burdalone
-bucorvinae
+bucorvinae 1
 bidree 2
 becloaked
 bioelectric 2
@@ -18176,7 +18176,7 @@ butyrometric 2
 botchwork 1
 baldacchino 1
 begorry 1
-bingle
+bingle 1
 biog 1
 behead
 biodegradation
