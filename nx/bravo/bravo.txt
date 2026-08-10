@@ -2579,7 +2579,7 @@ bathometer 2
 brio
 baryphonia
 bootie 1
-bronzesmith 4
+bronzesmith 5
 burling 4
 banzai 1
 baris 1
@@ -6334,7 +6334,7 @@ benzanthracene 1
 boxboard 2
 bestowed 2
 bai
-balandra
+balandra 1
 bibs
 bifarious 1
 bipolarize
@@ -13167,7 +13167,7 @@ borrasca
 borreria 2
 bandoliered
 borrowable
-barocyclonometer 1
+barocyclonometer 2
 borrower 2
 borrowers
 bors
