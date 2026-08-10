@@ -2072,7 +2072,7 @@ defamations 1
 decalage 1
 deforces 1
 dinghy 1
-decalcifies 1
+decalcifies 2
 dendrography 1
 drip 2
 demonologies
@@ -2136,7 +2136,7 @@ demonianism
 detectors
 deskman
 diabolology 3
-disturbs
+disturbs 1
 diosmosis 1
 decantist 1
 decaffeinated 1
@@ -5325,7 +5325,7 @@ dentil 2
 discussional 2
 dentiled 1
 dimin 2
-delivery
+delivery 1
 dipmeter 1
 dugway 1
 drub 1
@@ -6330,7 +6330,7 @@ dolus 1
 discontinuing 1
 dislimn 1
 divorcing 1
-duras 1
+duras 2
 dejeune 1
 duodenum
 deco 1
@@ -7142,7 +7142,7 @@ desulfurisation
 diplopiaphobia
 diipolia
 deamidase 1
-desulfurising 1
+desulfurising 2
 dinotheriidae
 desulfurizing 2
 demolitions
@@ -10333,7 +10333,7 @@ depurative 1
 dioptric 3
 duhr 2
 diorama 1
-daroo 2
+daroo 3
 douziemes
 diophantine
 dowsing 3
@@ -11276,7 +11276,7 @@ dost
 disdodecahedroid 2
 dinichthys 1
 deputatively 3
-dinner 1
+dinner 2
 demigentleman 1
 discepts 1
 dimna 1
@@ -13789,7 +13789,7 @@ demain
 ditrochous 2
 disspirit 1
 disspread 2
-dammars 2
+dammars 3
 disstate 2
 dissuaded 1
 delayed 2
