@@ -3735,7 +3735,7 @@ brightest 1
 baddest
 batting 2
 battings 2
-battledores
+battledores 1
 bywork 1
 barotraumata
 bronteon 1
@@ -5648,7 +5648,7 @@ bruce
 barristerial 1
 backspacefile
 brominated 1
-bathrobe 2
+bathrobe 3
 busheller 1
 bovovaccination
 bolognan 2
@@ -5707,7 +5707,7 @@ birefracting 2
 backwasher 3
 belialic
 brimmered 1
-belie 2
+belie 3
 belied
 bridalty 2
 blatancy 3
@@ -6115,7 +6115,7 @@ bendies 3
 bends
 bendwise 2
 begay 1
-balaneutics
+balaneutics 1
 benedicks 1
 benedicta
 bletonism 1
@@ -6428,7 +6428,7 @@ brisses
 benzosulphimide 1
 barricaders
 botanises 1
-bedlamer 1
+bedlamer 2
 behoot 2
 byliner 1
 blowup
@@ -6980,7 +6980,7 @@ betroth
 bundling
 batrachians 1
 borderism 1
-bewelter
+bewelter 1
 brae 1
 besmirchers 1
 bactris 2
@@ -7844,7 +7844,7 @@ broose 1
 bibelot 2
 botchka
 bearable 2
-bibelots 1
+bibelots 2
 biberon
 bipinnatisected
 bibi
@@ -8284,7 +8284,7 @@ beak 2
 bookling 1
 burden 1
 buccinal 1
-byzantinism 3
+byzantinism 4
 berberine 2
 botte 1
 belittlement
@@ -8812,7 +8812,7 @@ biali
 bathetic 2
 bingeys
 blurredness
-brecia
+brecia 1
 bingos
 bounden 1
 besets 2
@@ -10984,7 +10984,7 @@ barlow 1
 blithe 1
 blithesomely
 bothnian 1
-buoyage 1
+buoyage 2
 backseats 1
 bossiest 1
 bkgd 1
@@ -16418,7 +16418,7 @@ bemistress 1
 brunfelsia 1
 brunistic
 burniebee 2
-baaskap 1
+baaskap 2
 brunnichia
 barred
 boysenberries 1
@@ -17540,7 +17540,7 @@ burdigalian 1
 basipoditic
 blowpoint 1
 burweeds
-barraged
+barraged 1
 bassa
 bricklay 1
 bureaucratization
@@ -18305,7 +18305,7 @@ bobsledded 3
 backbiting 2
 buttock
 bronchodilatation 1
-balachan
+balachan 1
 buttocked
 buttocker
 bacteriopsonic
