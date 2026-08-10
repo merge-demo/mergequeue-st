@@ -4396,7 +4396,7 @@ aterian 1
 atelectasis 1
 adsmithing 1
 adelocerous 1
-autotriploid 3
+autotriploid 4
 adsorbability
 archpuritan 1
 allocryptic
@@ -7344,7 +7344,7 @@ alba
 athrob
 atom 1
 aftertastes 2
-antihemophilic
+antihemophilic 1
 arzava
 artlet
 alembicate
@@ -10087,7 +10087,7 @@ ambleocarpus
 ambler
 appulsive
 axmen 1
-antiformant
+antiformant 1
 amblycephalus
 atmology
 amblydactyla
@@ -15872,7 +15872,7 @@ antipode
 antimensia 1
 anchorwise
 antipodic
-autocoprophagous 2
+autocoprophagous 3
 argufied
 antipoetical 2
 antipolar
@@ -21951,7 +21951,7 @@ antheraea 2
 anoxias 1
 anisomyodi
 anetic 1
-abscoulomb 1
+abscoulomb 2
 aeluroidea 1
 alternat
 alaternus 1
@@ -22854,7 +22854,7 @@ assonate
 aquo 1
 avidness
 atmosphereless
-announces 2
+announces 3
 almendro 2
 antidyscratic
 axometry
