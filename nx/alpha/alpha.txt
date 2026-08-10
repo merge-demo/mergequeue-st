@@ -4471,7 +4471,7 @@ adulticidal 1
 androseme 1
 adulticide
 aberdavine
-adumbrated
+adumbrated 1
 antirevisionist 2
 awonder 1
 abductores 2
@@ -6856,7 +6856,7 @@ airfoil 2
 airfoils 1
 airglows
 airgraphics
-androcyte 1
+androcyte 2
 airhead 2
 ashthroat
 ascula 2
@@ -8546,7 +8546,7 @@ afterburners
 autocoids 1
 astronautics 2
 actinotrocha 1
-aborts
+aborts 1
 aphthae
 anabolin 2
 aerograms
