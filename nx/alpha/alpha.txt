@@ -4342,7 +4342,7 @@ afterstain
 albuminosis
 adrenocorticotropic 2
 anthracolithic 1
-astructive
+astructive 1
 adstipulate
 antrophore 1
 adrenotropic
@@ -20487,7 +20487,7 @@ arteriocapillary
 arteriogenesis 1
 arbitrer 1
 arteriograph 1
-airsome
+airsome 1
 adenectopia
 aftershaft
 arteriographic 1
