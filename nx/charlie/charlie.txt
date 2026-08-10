@@ -7312,7 +7312,7 @@ cephaline
 cephalins
 cephalism 1
 caprine 1
-cephalitis
+cephalitis 1
 cephalization 1
 cephaloauricular 1
 chelicera
@@ -25514,7 +25514,7 @@ coroll
 carcass 1
 cartooning 2
 corollary
-centrosymmetric
+centrosymmetric 1
 chastens
 contradictions 1
 corollarial
