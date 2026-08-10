@@ -5294,7 +5294,7 @@ anagenetical
 antagonizer 2
 ampitheater
 attackable 1
-anapterygotous
+anapterygotous 1
 alingual
 abrogative 1
 anticlinal
@@ -9036,7 +9036,7 @@ anthroropolith 1
 angelon
 allineate
 aktivist
-annulata
+annulata 1
 akoluthia 1
 algebraized
 aminobenzine
@@ -10955,7 +10955,7 @@ adamellite 1
 amniomancy 1
 amnionata 1
 acclamation 2
-absolution 1
+absolution 2
 amosite
 armsful 2
 anhydric 1
@@ -11647,7 +11647,7 @@ albuminuria 2
 allothigenic
 annoyancer
 arseniureted
-appassionate 1
+appassionate 2
 anacyclus 1
 asphalting 1
 anacid 1
@@ -16954,7 +16954,7 @@ autotoxication 1
 abasio 2
 aladinist
 alhagi 1
-aplace 1
+aplace 2
 aplacentaria 1
 anton 6
 aminization
