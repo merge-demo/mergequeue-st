@@ -2720,7 +2720,7 @@ electrostenolytic 1
 enceint 1
 equipotent 1
 electees 1
-edentate
+edentate 1
 envoi
 etymology 1
 emetic
@@ -3872,7 +3872,7 @@ epidotic 1
 embolomerism
 existents 2
 enfeebled 2
-eclipsis 1
+eclipsis 2
 executers
 endodontic 3
 emigration
