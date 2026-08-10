@@ -5704,7 +5704,7 @@ ancillae
 affatuate 1
 againstand 1
 albuginitis
-antilens
+antilens 1
 amphistomatic
 aggrace 1
 ardeid 2
@@ -7723,7 +7723,7 @@ ambigenous 1
 abelicea 1
 adaw 1
 alcoholize
-alcoholmeter 1
+alcoholmeter 2
 airmass
 anemogram 1
 alcoholmetric 1
@@ -10122,7 +10122,7 @@ ablatives 2
 antiphrasis
 anisette 1
 autolaryngoscope
-antinationally 1
+antinationally 2
 archecclesiastic
 amylosynthesis 2
 adelpholite
@@ -14094,7 +14094,7 @@ antechoirs 1
 axostyle
 antecolic 1
 antecornu
-antecourt
+antecourt 1
 araneidal 1
 antidoted 1
 antecubital
@@ -15566,7 +15566,7 @@ adventuresomeness 1
 antimonial 1
 aftertreatment 1
 adamitical
-acrylic 3
+acrylic 4
 antimethodically
 aromatization
 arnattos
@@ -17848,7 +17848,7 @@ ate 1
 acleistous 1
 alveolation
 aside
-apolistan 1
+apolistan 2
 aptal
 adieus 1
 argued
@@ -18525,7 +18525,7 @@ azofier 1
 allwhither
 achromate
 axiology
-arboresque
+arboresque 1
 aardwolf
 apprizement 1
 antivirus 3
@@ -20751,7 +20751,7 @@ artilleries 1
 achillein 3
 apprehensiveness 1
 aruac
-aplodontia
+aplodontia 1
 amphicrania
 austenitic 2
 artilleryship
@@ -22439,7 +22439,7 @@ agric
 animalising
 astrometric 2
 astronaut 1
-axolotl
+axolotl 1
 apollinian
 asmodeus 2
 astronavigator
