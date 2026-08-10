@@ -7140,7 +7140,7 @@ biaxial
 bonduc 1
 barret 2
 backless 1
-besprinkles
+besprinkles 1
 bachelorism 1
 bloodied 1
 barefoot 1
@@ -14445,7 +14445,7 @@ blowline
 bypath 1
 brainstems
 brainstone 1
-biconical 1
+biconical 2
 bladewise
 boxfuls 1
 bacchanalian
@@ -16605,7 +16605,7 @@ bugfish
 bullionist 1
 bemolt 2
 bedmakers
-bubinga 2
+bubinga 3
 bougainvillea 2
 bacillary 1
 bubonocele 1
