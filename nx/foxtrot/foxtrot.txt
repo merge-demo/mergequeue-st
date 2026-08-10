@@ -4410,7 +4410,7 @@ feulamort 1
 farand 1
 footpick 1
 fishily 1
-fatigues 1
+fatigues 2
 fishiness 2
 fraxin 1
 fluigramme
@@ -6448,7 +6448,7 @@ fisherboat 3
 feltman 4
 fanflower
 footbaths 1
-forweary 1
+forweary 2
 flummery 1
 fidgeting 3
 filth 2
@@ -9582,7 +9582,7 @@ fatiguingly 2
 forested 1
 forfear 3
 founts 3
-flask 2
+flask 3
 fibrovasal 1
 fermenter 2
 freckle
