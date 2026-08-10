@@ -10720,7 +10720,7 @@ bestill
 bilateralness 3
 blendwater 2
 broadish 3
-bowhead
+bowhead 1
 blenheim 3
 bibl 2
 belap 3
@@ -12758,7 +12758,7 @@ begut
 bookseller 1
 bepreach 1
 burdalone
-bucorvinae
+bucorvinae 1
 bidree 2
 becloaked
 bioelectric 2
