@@ -1166,7 +1166,7 @@ entitule 3
 education 3
 edulcorating 1
 enscroll 2
-ensweep 1
+ensweep 2
 educational
 estipulate
 exultancy 1
@@ -1561,7 +1561,7 @@ envigor 1
 exogeny
 exaggeratedness 1
 euosmite 3
-enterokinetic
+enterokinetic 1
 eglamore
 eglandular 1
 electrosynthetically 2
@@ -4370,7 +4370,7 @@ endoparasite 1
 environmentally 1
 enfacing 1
 exarticulation 1
-ensigncies
+ensigncies 1
 endosmometric 3
 eubacteria 4
 ecumenist
@@ -4439,7 +4439,7 @@ encastre
 encastrement 1
 encaustically 2
 emotionalizing
-efferent 2
+efferent 3
 erth 1
 enceinte 2
 entozoology 1
@@ -4807,7 +4807,7 @@ englished
 eulogizes 1
 encranial 1
 expectorator
-electroed 1
+electroed 2
 exportable 4
 episcopolatry 2
 eulamellibranchiate
@@ -7080,7 +7080,7 @@ esophagismus 1
 epitaxially
 embryomata 2
 ensophic 2
-epicyesis 1
+epicyesis 2
 eild 3
 exclusions 1
 estanciero 3
@@ -8069,7 +8069,7 @@ ethnology
 epiural 1
 extracalicular 3
 epididymite
-earaches 3
+earaches 4
 enew 3
 exhumator 1
 episclera 1
@@ -9893,7 +9893,7 @@ envelopers 2
 emmensite
 earthnuts
 enterritoriality 1
-ephedrin 2
+ephedrin 3
 executes 1
 eduskunta 1
 ectrodactylous 1
