@@ -2669,7 +2669,7 @@ fittyways 4
 flamb 2
 fertile 1
 farcers
-falsely 2
+falsely 3
 fittonia 1
 fluoridating 2
 fistular 1
@@ -5595,7 +5595,7 @@ flintiness 1
 ferricyanhydric 1
 flaglike
 flicker 4
-fixity 1
+fixity 2
 frapler 1
 floatable 4
 fiords 1
@@ -9298,7 +9298,7 @@ fraises 4
 fascinery
 frontispieced 2
 fraktur
-fasciolet
+fasciolet 1
 fresnel 3
 flavoury 5
 foresentence 1
