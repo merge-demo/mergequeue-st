@@ -2501,7 +2501,7 @@ anatexes
 abnormalities
 archfriend 1
 angiocardiography
-autocombustible
+autocombustible 1
 aclinic
 atrabilar
 antigene 1
@@ -2792,7 +2792,7 @@ ancistrodon 2
 archives
 acroamatic
 acroamatical
-ammonation 1
+ammonation 2
 acroasphyxia 1
 acroatic 1
 acrobacy
@@ -3047,7 +3047,7 @@ arrimby
 antesignanus 3
 angioparesis
 antifoaming
-accoil 2
+accoil 3
 altaltissimo
 actinocrinid 1
 aphasias
@@ -5254,7 +5254,7 @@ affectivity 1
 affector
 antagonisation 1
 accoast 3
-affeerer 1
+affeerer 2
 aum
 ankerite 1
 antichristianly
@@ -6404,7 +6404,7 @@ anticreep
 agrilus
 aureola
 adultress
-areological
+areological 1
 abohms
 agrimony
 antiputrescent 3
@@ -8709,7 +8709,7 @@ allelic
 allelism 2
 argyrite
 almes 1
-alternationist
+alternationist 1
 allelomorphic 1
 allelotropy
 allelotropic
@@ -12380,7 +12380,7 @@ axes
 anders 1
 autoirrigation 1
 adipocerite
-americanism 1
+americanism 2
 apolytikion
 assiduous
 andesites
@@ -14020,7 +14020,7 @@ allopolyploid
 ampalaya 2
 altogether
 astronomien 2
-actualising 1
+actualising 2
 antarchist
 azoxazole
 atheologically 1
@@ -15443,7 +15443,7 @@ antiloquy 2
 asafoetida
 alkylation
 antilottery 1
-adheres
+adheres 1
 amplificatory 3
 antimalaria 1
 atelognathia 5
@@ -15824,7 +15824,7 @@ amethystlike
 ambitioning 2
 adolf
 aborigine
-antiphons
+antiphons 1
 athericera 1
 agiotage 1
 assistants
@@ -16286,7 +16286,7 @@ arish 1
 antithesism 1
 antithetic 1
 achropsia 1
-antithyroid
+antithyroid 1
 anilid 1
 antitintinnabularian 1
 averroist 1
@@ -16991,7 +16991,7 @@ alphabetization 2
 aventail
 aplotaxene
 aliened
-avascular
+avascular 1
 annoyously
 adorned 1
 americanizer 2
@@ -20367,7 +20367,7 @@ arcsines 1
 antonymic 2
 anticorrosives
 autoradiography
-authenticators 1
+authenticators 2
 apothgm
 alefzero
 awearied 1
@@ -23135,7 +23135,7 @@ areopagy
 astonishingness 1
 antinode 1
 attitudinize
-authoritarianisms 1
+authoritarianisms 2
 antipapacy
 aortism
 agglomerations 2
@@ -25061,7 +25061,7 @@ anthracitization 1
 abrotine
 anatripsology
 antiserums
-aworry 1
+aworry 2
 antelation 1
 anaesthetist
 arcadianism
