@@ -1628,7 +1628,7 @@ doe 1
 doweled
 diadrome
 dicecup 2
-derision 1
+derision 2
 disenrol 2
 decl
 dealcoholize
@@ -2231,7 +2231,7 @@ dosages 1
 dispensate
 drivescrew
 drch 2
-distichiasis
+distichiasis 1
 dartre 2
 disfranchising 1
 dishelm
@@ -3085,7 +3085,7 @@ defacing 2
 defacto
 defade 1
 dichlamydeous 3
-demiram
+demiram 1
 defaillance
 defaitiste 1
 defalcated 3
@@ -4262,7 +4262,7 @@ divisors 1
 deadening 1
 dermophytic 1
 dem 2
-dcolletage
+dcolletage 1
 demagnetisation 1
 dovelet 1
 detraining
@@ -4414,7 +4414,7 @@ demesnial 1
 deranger
 dysmenorrhoeal 1
 disillusioning 1
-divelling 3
+divelling 4
 directoral
 demethylate 1
 definitize
@@ -7137,7 +7137,7 @@ disworship 2
 dudeen 1
 directively 3
 desulfuring
-dunging
+dunging 1
 desulfurisation
 diplopiaphobia
 diipolia
@@ -7601,7 +7601,7 @@ digitaria 1
 devaloka 1
 drenched
 devaluates
-droppingly
+droppingly 1
 durandarte 2
 devalues 3
 devas
@@ -9096,7 +9096,7 @@ didactical
 didacticality 2
 drassidae
 dichondraceae
-daleman
+daleman 1
 dragomanish
 didacticism
 defile
@@ -11600,7 +11600,7 @@ dostoevsky 3
 damsite 2
 denser 2
 discursative 1
-discommune
+discommune 1
 denominates 1
 disburgeon 2
 dragooner
@@ -11818,7 +11818,7 @@ diamines
 discurre 1
 dioestrus
 dihalo 2
-dislikable 1
+dislikable 2
 dsr 2
 deplumed 1
 donatively 1
@@ -12424,7 +12424,7 @@ dishwashers
 dichlone
 distemperature 3
 demonstrant
-dishwashings
+dishwashings 1
 dibromobenzene 1
 doglegged 1
 dard
@@ -13771,7 +13771,7 @@ dreamboat 1
 desugaring 3
 degression
 damndests
-dangering 1
+dangering 2
 downlooker 1
 disbarments
 dissolvingly 1
@@ -13980,7 +13980,7 @@ deturb 1
 doorposts
 derrid 1
 dystonic 1
-dacha 1
+dacha 2
 dystopian 2
 deltahedra 1
 dystopias
@@ -14284,7 +14284,7 @@ deb 2
 dieties 1
 deviances 1
 dithion 1
-dithionous 1
+dithionous 2
 drouk
 dephilosophize
 devotionate
@@ -16769,7 +16769,7 @@ diamagnetic
 dirtfarmer
 drastically
 depencil
-dratchell 1
+dratchell 2
 drownded 1
 drats 2
 doughiest
@@ -16898,7 +16898,7 @@ descamisado 4
 dataria 1
 drona 1
 dumbs 2
-datedness 3
+datedness 4
 dreadable 1
 directorial 2
 daftnesses 2
@@ -17664,7 +17664,7 @@ dicranterian 1
 discourteously 1
 dtente
 diplococci 1
-disapprobation
+disapprobation 1
 dreamed 1
 duadic 1
 diagramming
@@ -17893,7 +17893,7 @@ dunst 1
 dezincing 1
 dudism 1
 defilement 2
-dudleya 1
+dudleya 2
 developmentalist 1
 diagnosis
 drabbletailed 1
