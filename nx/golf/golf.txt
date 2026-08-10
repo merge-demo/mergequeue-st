@@ -379,7 +379,7 @@ gelded 1
 galangin 1
 grond 1
 golundauze 1
-gavot
+gavot 1
 gaoled
 glaive
 glossophagine
@@ -1402,7 +1402,7 @@ gangplow
 galvanopsychic 1
 gossipee 1
 gipsying
-guilloche 3
+guilloche 4
 garreteer 1
 greenless
 gola
@@ -1766,7 +1766,7 @@ gynandrism 2
 gutterblood 3
 gelatinotype 2
 grippelike 1
-ghyll 1
+ghyll 2
 glutinate 2
 gestalten 1
 granodioritic 1
@@ -2135,7 +2135,7 @@ gerahs
 glossography
 golfings 3
 genets 1
-gds 1
+gds 2
 gaycat
 grainer 2
 gaze 2
@@ -9940,7 +9940,7 @@ guarico 3
 gonidial
 graphostatic 1
 grievousness 1
-gritless 3
+gritless 4
 geocratic 1
 guarrau
 gogglers 2
