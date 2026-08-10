@@ -851,7 +851,7 @@ brickyard
 bloodlessly 2
 baffs
 becomingly
-boltholes
+boltholes 1
 baft 1
 bigate 1
 baftah
@@ -3157,7 +3157,7 @@ bonnes 1
 bimbisara 2
 burghemot
 bronchography 1
-bleat
+bleat 1
 briskly 1
 brachiating
 biphase 1
@@ -5730,7 +5730,7 @@ beamful
 blankite 2
 budge 2
 believingly
-brerd 1
+brerd 2
 burials 1
 backsight 3
 bandlimit 2
@@ -7365,7 +7365,7 @@ bombous 1
 bootikins
 bighting
 beautifications
-boluses 1
+boluses 2
 blindfolds 1
 betime
 bastionet 1
@@ -7931,7 +7931,7 @@ bargains 2
 bibliopole 2
 birdieback 1
 beclasp 1
-boogers
+boogers 1
 brambleberries 3
 billetty 1
 bibliopolically 2
@@ -9741,7 +9741,7 @@ birdmouthed
 bacchante
 byssal 1
 bissellia 1
-bullbats 1
+bullbats 2
 balding
 bombylious
 begobs
@@ -12405,7 +12405,7 @@ brontothere 2
 bonapartism 3
 bigotries
 brothy 1
-betterly
+betterly 1
 barbarians
 bassariscus 2
 buckram 1
@@ -13605,7 +13605,7 @@ byssi 1
 boulderhead 1
 bandanna
 bilskirnir 1
-brairo 3
+brairo 4
 boyuna 1
 bahaism 1
 boulework 2
@@ -16537,7 +16537,7 @@ bisellium
 bisonant
 brutely
 blindstitch 1
-basils
+basils 1
 biggins
 bruteness
 brutify 1
@@ -17251,7 +17251,7 @@ beclouding
 ballastage
 borley
 bubingas 2
-blepharolithiasis
+blepharolithiasis 1
 bedriveled
 barriness 1
 bearbind 2
