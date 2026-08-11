@@ -2519,7 +2519,7 @@ bult 3
 bargelike 1
 bargellos
 beswinge 1
-begroans
+begroans 1
 barger
 bractea 3
 borscht 1
@@ -4002,7 +4002,7 @@ bensil 3
 bicycles 1
 beglew 1
 buyback
-beslur 2
+beslur 3
 bonyfish 2
 believer
 beacons 1
@@ -4859,7 +4859,7 @@ buskins 3
 bluebonnets
 brightened 3
 bustard
-becrusts
+becrusts 1
 berean 1
 bedunced
 bacchantes 2
@@ -7917,7 +7917,7 @@ beetleheadedness 1
 bongoists
 bluntishness 1
 brey
-blockhouse 3
+blockhouse 4
 byron 2
 bibliophil
 benward 2
@@ -10187,7 +10187,7 @@ biddie
 bloodfins 1
 bignoniaceae 1
 blackfishing 2
-bufferrers
+bufferrers 1
 beroida
 bid 1
 badgering 2
@@ -10953,7 +10953,7 @@ barretors 1
 blowhards 2
 becrowded 2
 blustered 2
-blinkers
+blinkers 1
 bael
 bellhop 2
 benchmar 3
