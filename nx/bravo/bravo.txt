@@ -4934,7 +4934,7 @@ barkentines 1
 bepride 2
 burhinidae 2
 bract 1
-bilobular
+bilobular 1
 blackwash
 beefier 4
 bequest
@@ -5618,7 +5618,7 @@ buzzwig 2
 buccaneers 3
 belah 1
 belaying
-bingo 3
+bingo 4
 bogie 2
 belam
 bettas 1
@@ -13628,7 +13628,7 @@ bemuddle
 bounceback 1
 blowsy 2
 bouncier
-batteried 1
+batteried 2
 barra 2
 begladding 4
 binning 1
@@ -16491,7 +16491,7 @@ bishoplet
 borasque 1
 bimillennium 1
 bozal
-biomaterial
+biomaterial 1
 breathableness 3
 bequote
 biasness 1
