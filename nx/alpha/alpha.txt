@@ -5315,7 +5315,7 @@ affinities
 archdivine
 affinition
 affinitive
-affirmable
+affirmable 1
 asiaticism 1
 affirmably
 aplysia 1
