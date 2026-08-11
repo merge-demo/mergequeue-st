@@ -2537,7 +2537,7 @@ alcoholizable 1
 antireduction
 authorizing 1
 acocotl
-aluminic 2
+aluminic 3
 acoela
 arrendation
 autoloaders 1
@@ -8649,7 +8649,7 @@ afear 1
 abscising
 admirance 1
 aerodynamic
-allegoriser
+allegoriser 1
 aeolomelodicon
 austenite
 applauded
@@ -11046,7 +11046,7 @@ aesthiology 1
 androphagous 1
 amorettos
 attainer
-aphrolite
+aphrolite 1
 aromatizing
 acheat
 aoife 1
@@ -23709,7 +23709,7 @@ anteroflexion 2
 auriphone 2
 aspalathus 1
 auriphrygia 1
-auripigment
+auripigment 1
 aurir 1
 auriscalpia 3
 auriscopy
@@ -24988,7 +24988,7 @@ aphidiinae
 aerosolize 1
 awelessness 1
 areolet
-aymoro 1
+aymoro 2
 adjusters 1
 awellimiden 2
 aortoclasis 3
