@@ -262,7 +262,7 @@ disenfranchising
 dissuitable 1
 dry 1
 dizzard 2
-dagomba
+dagomba 1
 daguerreotype
 downspout 1
 drouth 1
@@ -602,7 +602,7 @@ drek 2
 decalescence 1
 dedolomitized
 ditheistical
-damming 2
+damming 3
 divvies 1
 delated 1
 demoses 2
@@ -4489,7 +4489,7 @@ detroiter 1
 demigauntlet
 doting
 disclosing
-dyspeptic
+dyspeptic 1
 decussis 1
 dendrite
 decern 1
@@ -4551,7 +4551,7 @@ desperance 2
 depths
 disusing 1
 detected 1
-digitigrade 1
+digitigrade 2
 dewatering 2
 decretal
 demiox 2
@@ -5273,7 +5273,7 @@ dentaphone
 dihexagonal
 dinger
 demivolte 2
-decorators 1
+decorators 2
 disenabled
 dreamers 1
 discomposing 2
@@ -5734,7 +5734,7 @@ dewormed
 depopulation
 denitrize 1
 debeak 1
-dowve 1
+dowve 2
 disimitation 1
 demipuppet 1
 dicyanodiamide
@@ -8068,7 +8068,7 @@ dhritarashtra
 disables 1
 disembowelled 1
 drawable 1
-dhurra 1
+dhurra 2
 detrimentalness 2
 doghole
 definienda
@@ -9095,7 +9095,7 @@ damie
 didactical
 didacticality 2
 drassidae
-dichondraceae
+dichondraceae 1
 daleman 1
 dragomanish
 didacticism
@@ -10429,7 +10429,7 @@ disglorify 1
 disinterring 2
 diphenyls
 dispowder 1
-doglegging 1
+doglegging 2
 disfigurative 1
 deticking
 diphenoxylate 1
@@ -11561,7 +11561,7 @@ divulgator 1
 disposable
 discontentedness 2
 discriminantal
-dognaped 3
+dognaped 4
 discontenting 1
 discontentments
 disboweled
@@ -13610,7 +13610,7 @@ dreariest
 dendritic 1
 doodia 2
 dissertational
-dentinal 1
+dentinal 2
 dissertative 2
 damme 2
 disparple
@@ -13859,7 +13859,7 @@ displaces 1
 druggier
 donee
 distaves 2
-dioxide 1
+dioxide 2
 dreamlessly 1
 differency 1
 dystaxias
@@ -17621,7 +17621,7 @@ dacus
 downfallen
 duant 1
 dentigerous 2
-dandelion 2
+dandelion 3
 defeminisation 1
 denicotinizing
 dunelike
