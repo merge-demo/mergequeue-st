@@ -13469,7 +13469,7 @@ bitterbrush 2
 bottlemaker 2
 begotten 1
 burgs
-broilery 2
+broilery 3
 beer 2
 bleeding 1
 beforesaid 1
@@ -14746,7 +14746,7 @@ bastinadoed
 bescorching 3
 brattie
 betrothal
-bocks
+bocks 1
 biobibliographic
 bowpots
 bowlings
