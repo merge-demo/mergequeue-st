@@ -2052,7 +2052,7 @@ decay 1
 dadding 1
 dramas 2
 dessiatine 1
-disagreeability 1
+disagreeability 2
 delictum 2
 dermatotomy 3
 daikered
@@ -3055,7 +3055,7 @@ diuretic 2
 deewan 1
 disagreement 1
 dehydrogenising 1
-demodocus 1
+demodocus 2
 durzada
 disinvolvement
 dairi
@@ -8914,7 +8914,7 @@ divinyl
 dichloramine 2
 dichloride
 dichloroacetic
-dichlorodifluoromethane 2
+dichlorodifluoromethane 3
 deticked 2
 discitis 1
 dissevered
@@ -9069,7 +9069,7 @@ dollying 1
 dropsywort 1
 disembattle 2
 danglingly 2
-dyester
+dyester 1
 discommodity
 diluvy 1
 dictyota 1
@@ -9568,7 +9568,7 @@ dignities 1
 drunks
 dignotion 1
 dependants
-desmitis 2
+desmitis 3
 deuterons
 digonal 1
 digoneutism 2
@@ -11523,7 +11523,7 @@ discompanied 1
 disavowing 1
 deepmouthed
 dimethyls
-degenerations
+degenerations 1
 derivers
 discompliance 1
 dowry 1
@@ -18375,7 +18375,7 @@ dryerman 2
 dusk
 doubleton 2
 duodenate 2
-duodenation
+duodenation 1
 degelation 1
 diallelon 2
 duodene 5
