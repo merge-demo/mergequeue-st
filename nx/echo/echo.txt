@@ -3485,7 +3485,7 @@ emblazoner 1
 emblazonments 1
 elastic 1
 etherialising 3
-escandalize 1
+escandalize 2
 expansible 2
 euchologies 2
 epirotic
@@ -4199,7 +4199,7 @@ eccyclema 2
 eggeater 2
 evagination
 emotionalize 3
-elytrigerous
+elytrigerous 1
 extrathecal
 emprizes 2
 epicycloid
@@ -5484,7 +5484,7 @@ experimenting 3
 experimenter 2
 evertors 1
 eurindic 3
-extraocular
+extraocular 1
 exoterics 4
 espiritual
 enfeebles 1
@@ -5960,7 +5960,7 @@ effulges
 expeditated 1
 ejectors 1
 epheboi 1
-englute 4
+englute 5
 enjail
 escaped 3
 emetomorphine 2
@@ -7456,7 +7456,7 @@ ensignhood
 enviously 4
 externate
 encyc 1
-elevato 2
+elevato 3
 epiblasts 1
 englishhood 1
 euonymous 1
@@ -9330,7 +9330,7 @@ exolution 2
 enlargingly
 emotionally 3
 emane
-enrobement
+enrobement 1
 eponge
 effecter 3
 educable
