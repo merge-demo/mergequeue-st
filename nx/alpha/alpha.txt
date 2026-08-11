@@ -15658,7 +15658,7 @@ acoustics
 antinormality
 antinormalness 1
 ambage 1
-anoxaemia 1
+anoxaemia 2
 aphidicolous 1
 amygdalitis
 aeolight
@@ -16390,7 +16390,7 @@ amictus 1
 anthraconite
 affiliates 1
 amacrine
-antiwedge
+antiwedge 1
 ariidae
 alyssums
 ambuling 2
