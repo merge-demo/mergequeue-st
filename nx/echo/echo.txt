@@ -4685,7 +4685,7 @@ emptiest
 encysts
 evenest 2
 edgrow
-eyepieces
+eyepieces 1
 euphrosyne 2
 enarthrosis
 effulgent 1
@@ -12565,7 +12565,7 @@ exculpative 2
 extoolitic
 enactable 2
 esonarthex 1
-enameler
+enameler 1
 electrofusion
 enchained 2
 extant 4
