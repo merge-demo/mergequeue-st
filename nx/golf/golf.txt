@@ -964,7 +964,7 @@ gonidiophore 1
 gamostele 2
 glottogony 2
 genetically 2
-gamp
+gamp 1
 graysby 3
 gastrolobium 1
 genre
@@ -4225,7 +4225,7 @@ guncotton 1
 gantang 2
 gruelled 2
 ghalva
-gifted 3
+gifted 4
 gemini
 gomorrhean 5
 gibblegabbler 1
@@ -5069,7 +5069,7 @@ glathsheimr 1
 ginnel 3
 gourmander 1
 geyan 1
-glycocholic 1
+glycocholic 2
 glaga 1
 gasless 2
 gascon 1
@@ -7275,7 +7275,7 @@ gormandism
 gormandize 2
 glomi 3
 gormandizes 4
-gastroenteroptosis 1
+gastroenteroptosis 2
 gunbright 2
 gundeck 3
 gangsa
@@ -7661,7 +7661,7 @@ gracing 4
 gunpaper
 greyly 2
 graft
-gyal 1
+gyal 2
 glossoepiglottic 1
 gunkholing 2
 girlies 1
@@ -8550,7 +8550,7 @@ gyrophoric 1
 gulden 2
 grecian 1
 grues
-gressorious 1
+gressorious 2
 geisha 2
 gloggs 1
 graveolent 1
@@ -9263,7 +9263,7 @@ geostrophic 2
 grivna 2
 galeres 2
 grizzel 2
-gibingly 3
+gibingly 4
 graininess 1
 glowworm 1
 guts 3
@@ -9287,7 +9287,7 @@ groceryman
 goitre 3
 giltcup
 grockle 2
-goidel 1
+goidel 2
 gemauve 2
 granitoid 2
 guarache 1
@@ -10688,7 +10688,7 @@ googol
 grippotoxin
 geminiflorous 2
 grayed 3
-gellants
+gellants 1
 groundbird 2
 geostatic 1
 genoise
