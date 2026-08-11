@@ -1659,7 +1659,7 @@ ethylenes 2
 epiphloedal 1
 electromerism
 electrotaxis 2
-emigr 2
+emigr 3
 ejusdem 1
 eyeish 1
 endoscopic 2
@@ -4877,7 +4877,7 @@ endaspidean 2
 endbrains 3
 emusify 2
 euhemerize 1
-entropy
+entropy 1
 exencephalic 1
 ectocoelic 1
 eyelight 1
@@ -9371,7 +9371,7 @@ edifyingness 1
 ebdomade
 enteromesenteric
 extensionalism
-enantiobiosis 1
+enantiobiosis 2
 extemporiser
 edestin 2
 erythrogenesis
