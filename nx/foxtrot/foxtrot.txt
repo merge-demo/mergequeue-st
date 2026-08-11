@@ -2341,7 +2341,7 @@ feoffs 1
 fasciole 1
 fiftyfold 1
 footstalk 2
-formalizing 2
+formalizing 3
 fer
 firecoat 4
 featherstitching 1
@@ -4431,7 +4431,7 @@ frowzly 2
 feelable 2
 flossy
 fraternizer 2
-fishmouth
+fishmouth 1
 frank 1
 fleshpot 4
 fitnesses 3
@@ -4468,7 +4468,7 @@ furores 3
 flattercap
 flummoxed 2
 fermal 2
-fishberry
+fishberry 1
 fashioned 1
 factorize 5
 furthermost 1
@@ -4648,7 +4648,7 @@ flange 1
 forages 2
 falconidae 1
 fractonimbus 4
-fivesome
+fivesome 1
 flaubertian 2
 flashproof 1
 famacide 5
@@ -6136,7 +6136,7 @@ formalities 3
 fetterers 1
 flagilate 3
 fairyland 3
-farthingless 1
+farthingless 2
 fishlines
 fabrique 3
 footblower 1
@@ -6833,7 +6833,7 @@ foretold 1
 fasces
 forswearer 1
 fructifier 2
-foliaged
+foliaged 1
 firetower 1
 fustigator 1
 flipjack 2
@@ -7360,7 +7360,7 @@ forts 1
 fustianize 1
 foredone
 flimsiest 2
-filles 1
+filles 2
 forbad 2
 faeces
 fat 1
@@ -7976,7 +7976,7 @@ fingall 1
 fistula 2
 foreshock 1
 fluidifier
-formoxime 1
+formoxime 2
 foreshoe
 ferrimagnetically 1
 friskingly 1
@@ -8133,7 +8133,7 @@ formalized 3
 feasances 1
 feminines 3
 fractiousness 1
-foretackle 2
+foretackle 3
 freemasonism
 flamandize 2
 fulminancy
@@ -8949,7 +8949,7 @@ forayer 1
 fartherance 3
 filthify 2
 filister 2
-founded 3
+founded 4
 foutra 2
 freewoman
 frederick 1
@@ -10048,7 +10048,7 @@ flexitime 1
 finicky 1
 fowlpox 1
 fopped
-frypans 2
+frypans 3
 frillily 1
 falderal 4
 flammigerous
@@ -10062,7 +10062,7 @@ flatwork 2
 fantod 1
 franchiser 1
 flor
-fryer 1
+fryer 2
 foollike 2
 flans 3
 ferryboats 2
@@ -10535,7 +10535,7 @@ frot 1
 froth 2
 formulatory
 fanman
-fittingly 2
+fittingly 3
 forays 4
 flyback 2
 frottola 2
