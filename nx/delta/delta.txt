@@ -424,7 +424,7 @@ devaluate 1
 dogfighting 1
 dithered 2
 dorsoanterior
-deadlier 1
+deadlier 2
 drinker 1
 dairywomen
 daunder
@@ -1118,7 +1118,7 @@ diamins 1
 dialectically
 das
 dase
-dissidently
+dissidently 1
 dash
 designado
 dedanite 1
@@ -8208,7 +8208,7 @@ disspreading
 diadochy
 diaconicum
 divers 1
-damasked 1
+damasked 2
 dissectors 3
 dulcor
 diorism 2
@@ -10555,7 +10555,7 @@ deafens
 dafla 1
 diploe
 digestion 1
-didrachmas 4
+didrachmas 5
 dispend 1
 dependable 1
 debouched 1
@@ -10743,7 +10743,7 @@ divinization 4
 dipteraceae 1
 dipterygian
 dipteryx 1
-deinodontidae 2
+deinodontidae 3
 dipterocarp
 dipterocarpaceae 1
 dartingly 1
@@ -15572,7 +15572,7 @@ doomed 1
 doomer 1
 danakil
 decerning 1
-disconnections 1
+disconnections 2
 dissentaneousness 1
 digor 2
 doomsayer
@@ -17166,7 +17166,7 @@ dharana
 diffusibility
 divagations 1
 debentureholder 4
-dipodies
+dipodies 1
 discrediting 3
 defacements 1
 dullish 2
