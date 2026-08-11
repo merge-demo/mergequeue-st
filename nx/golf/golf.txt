@@ -73,7 +73,7 @@ gandum
 gradationately 1
 gravelling 1
 graftproof 1
-galliums
+galliums 1
 grayish 1
 geometdecrne 3
 giddap 3
@@ -399,7 +399,7 @@ glandulation 1
 gilsonite
 gorgon 3
 gunl 2
-geostrategy
+geostrategy 1
 germinogony 1
 gradeless
 galatea 3
@@ -558,7 +558,7 @@ goys 1
 gagership 1
 goldflower 2
 graycoat 4
-ginhound 2
+ginhound 3
 galut 2
 gynaecocoenic 2
 globelet
@@ -1787,7 +1787,7 @@ gulleries 1
 gainspeaker 1
 grummeter 2
 geebong
-guiltiest 1
+guiltiest 2
 golandause 1
 grushie 5
 granat 3
@@ -2475,7 +2475,7 @@ gittith
 genderer 2
 grenado 2
 gloiosiphonia 2
-gnaeus 2
+gnaeus 3
 giffgaff 2
 ghoulie 2
 graeme 1
@@ -2568,7 +2568,7 @@ giveaway 2
 guara 1
 gibbing 1
 guetare 2
-generative 2
+generative 3
 gilet 2
 gifts 3
 generification 2
@@ -4313,7 +4313,7 @@ glottochronology 1
 gondi 2
 gardened 1
 gerund 1
-galvanoscope 3
+galvanoscope 4
 ginhouse 1
 gooselike 3
 gelidiaceae
@@ -4399,7 +4399,7 @@ graphicalness 4
 gaultherine 2
 geese 4
 gipon 2
-gaetulan
+gaetulan 1
 gunlayer 3
 gypped
 giardia 2
@@ -5514,12 +5514,12 @@ gorsier 4
 gustful 3
 gowning 5
 gad 1
-grumbles 4
+grumbles 5
 gamecocks
 glaucus 4
 guardlike 2
 grainering 3
-guarnerius 3
+guarnerius 4
 gourd 1
 glutition 5
 gaminish 2
@@ -5624,7 +5624,7 @@ geyserine 2
 gingalls 2
 gastralgic
 gobbling 3
-gimcracky 1
+gimcracky 2
 growsome
 grubbiest 2
 gapy 5
@@ -5647,7 +5647,7 @@ grandsons 2
 grafts
 grumes 4
 glorying 1
-gatemen 1
+gatemen 2
 gant 3
 gothites
 golliwog 3
@@ -6456,7 +6456,7 @@ golder 1
 grower 1
 goldfinny 2
 guising 3
-goldy 1
+goldy 2
 galahads 1
 guileless 2
 grandisonianism 4
@@ -6865,7 +6865,7 @@ garfish
 gregarina
 gujarati 2
 gumwoods 2
-gelatinoid 1
+gelatinoid 2
 graticulate 3
 glis
 gannet 2
@@ -7233,7 +7233,7 @@ guerickian 2
 gambeering 5
 gamond
 gesticulative 1
-gratuitousness
+gratuitousness 1
 guarani 3
 gimblet 1
 guarneri 1
@@ -8135,7 +8135,7 @@ gallet 1
 graustark 4
 grindelia 3
 grantors 1
-granular 1
+granular 2
 girandole 3
 granulary 2
 guidebooks 1
@@ -8343,7 +8343,7 @@ greyer 3
 geographic 1
 gravicembalo
 glucuronidase 2
-giansar 2
+giansar 3
 glaciated 2
 gigglers 2
 ghostwritten 4
@@ -9711,7 +9711,7 @@ grievant 3
 goboes 2
 goldeneyes 1
 gargantuan 2
-guidonian 1
+guidonian 2
 georgiana 1
 gambades 1
 grocerwise 2
@@ -10358,7 +10358,7 @@ gardenly 2
 glancing
 gordiid 1
 gullery 1
-grasshook 2
+grasshook 3
 grike 1
 gullets 1
 generators 1
@@ -10615,7 +10615,7 @@ gallinules 1
 graveolence
 gemmiform 1
 goy
-guildite
+guildite 1
 gelatinizability 2
 gloomiest 2
 gunpower 1
@@ -10789,7 +10789,7 @@ genialness 3
 gonadectomy 3
 gresil 1
 gandered 1
-gignitive
+gignitive 1
 gamesomely 2
 guttated 2
 galeage
