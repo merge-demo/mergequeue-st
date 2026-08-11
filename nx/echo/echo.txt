@@ -2772,7 +2772,7 @@ elementalistic
 extrathoracic 1
 erythrosis 2
 estrangements 1
-elementalize 3
+elementalize 4
 ephori 1
 emperil
 essang 1
@@ -12136,7 +12136,7 @@ excerpter 1
 eubacterium 4
 ency 2
 enascent
-excruciator
+excruciator 1
 ennomic 2
 excubitoria
 eradicator
