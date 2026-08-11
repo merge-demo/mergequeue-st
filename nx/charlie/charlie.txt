@@ -2877,7 +2877,7 @@ churchreeve 2
 canonry
 canons
 canonship 1
-consideration 1
+consideration 2
 canoodles 1
 counsinhood
 canopy
@@ -19588,7 +19588,7 @@ ciliata
 chromaticism
 coextensiveness
 capanne
-coregence
+coregence 1
 coprozoic
 columellia
 columna 1
@@ -25368,7 +25368,7 @@ ce 1
 corncutter 1
 corndodger 1
 cornea 1
-corneal 2
+corneal 3
 corneas 1
 chiurm 2
 cheddaring
@@ -26493,7 +26493,7 @@ cystocarp 1
 careenage
 cotrine
 cathodoluminescence 1
-cacoplastic
+cacoplastic 1
 curet
 catocalid
 caroler
@@ -29195,7 +29195,7 @@ chanfron
 colicolitis
 cryoscopic
 cryoscopies 2
-constipate 1
+constipate 2
 cryosel 1
 cryospheric 1
 criosphinx 2
