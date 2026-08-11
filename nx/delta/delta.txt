@@ -1563,7 +1563,7 @@ droops 2
 docked 1
 diadelphian 2
 drippings
-dices 1
+dices 2
 dyssodia 1
 deadfalls
 deviler 2
@@ -6311,7 +6311,7 @@ drawbores
 diaplasis 1
 dejectory
 dermobranchiate 2
-dangles
+dangles 1
 diagrammatical 1
 dermogastric 1
 dean
