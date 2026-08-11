@@ -1346,7 +1346,7 @@ bluecap 1
 bunks
 bacteriophagous
 bandwagon
-bobbles
+bobbles 1
 bethlehem
 bede
 bookdealer 2
@@ -4746,7 +4746,7 @@ badmash
 bangs 1
 bedlams
 bienseance
-buckpot
+buckpot 1
 bedlar 1
 bazoo
 bibliotic 1
@@ -10268,7 +10268,7 @@ biborate 1
 broadmindedly 1
 belly 2
 boracic 1
-blacksmithing 1
+blacksmithing 2
 biochemy 1
 beastdom
 botargo 1
@@ -17154,7 +17154,7 @@ broll
 bezaleel
 bagrationite
 bombards
-bullyism 2
+bullyism 3
 bintangor 2
 brushmaking 1
 bullion
