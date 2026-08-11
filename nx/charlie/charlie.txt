@@ -3538,7 +3538,7 @@ callus 1
 capsulolenticular 2
 capsulopupillary
 chromospheres
-capsulorrhaphy
+capsulorrhaphy 1
 cupboards 1
 capsulotomy
 cosmotheistic 1
@@ -8703,7 +8703,7 @@ cobriform 1
 chapeled
 concion 1
 convalescency
-crenelle 1
+crenelle 2
 chapelgoing 1
 chapelize
 cytologically 1
@@ -9888,7 +9888,7 @@ chemosynthesis
 chemosynthetic
 chemosmoses
 chemosmotic
-consumptible
+consumptible 1
 choora
 caleches
 clays 2
@@ -21539,7 +21539,7 @@ chatelaine 1
 carpenteria
 conchinine
 concubine 2
-chasteningly
+chasteningly 1
 calapite 1
 concubines 1
 cottonless 1
@@ -25781,7 +25781,7 @@ corrival 2
 corrivality
 craniologist
 corrivalry 1
-corrivalship
+corrivalship 1
 corrivate
 corrivation 1
 corrive
@@ -26548,7 +26548,7 @@ cottonmouths 2
 cottonocracy
 cottonseed
 clotheshorse
-chalcedonies 1
+chalcedonies 2
 cottonseeds
 camomile
 cymarose 2
