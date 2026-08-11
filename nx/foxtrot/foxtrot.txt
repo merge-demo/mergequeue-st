@@ -2341,7 +2341,7 @@ feoffs 1
 fasciole 1
 fiftyfold 1
 footstalk 2
-formalizing 2
+formalizing 3
 fer
 firecoat 4
 featherstitching 1
@@ -4431,7 +4431,7 @@ frowzly 2
 feelable 2
 flossy
 fraternizer 2
-fishmouth
+fishmouth 1
 frank 1
 fleshpot 4
 fitnesses 3
@@ -4468,7 +4468,7 @@ furores 3
 flattercap
 flummoxed 2
 fermal 2
-fishberry
+fishberry 1
 fashioned 1
 factorize 5
 furthermost 1
@@ -9338,7 +9338,7 @@ foulings
 fertil 3
 flagons
 fordull 2
-foregoers 2
+foregoers 3
 foremost 1
 fabrikoid 1
 fruticeta 4
@@ -10048,7 +10048,7 @@ flexitime 1
 finicky 1
 fowlpox 1
 fopped
-frypans 2
+frypans 3
 frillily 1
 falderal 4
 flammigerous
