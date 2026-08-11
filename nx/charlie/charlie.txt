@@ -113,7 +113,7 @@ cabezone
 cabful 1
 cabiai 1
 canephorus
-cronish
+cronish 1
 cabildo
 cabildos
 cabin 1
@@ -135,7 +135,7 @@ cabio
 costotransverse
 cabiria
 cabirian 1
-circumcised
+circumcised 1
 cabiric 1
 cataclysm
 cable
@@ -5321,7 +5321,7 @@ chlorohydroquinone 1
 cassiopeid
 coreigner 3
 cullion 1
-cassiopeium
+cassiopeium 1
 cladrastis 1
 cramps
 cassis 1
@@ -12883,7 +12883,7 @@ cathodic
 chummily 2
 chilliwack
 curried 1
-churchwardenism
+churchwardenism 1
 columbines
 churchwardenize 1
 constitutionless
@@ -14137,7 +14137,7 @@ caulerpa
 canioned 3
 colanders
 connexion
-circularization 2
+circularization 3
 conversably
 cullied
 circularizes 1
@@ -17545,7 +17545,7 @@ cohoshes
 colloid 1
 coccaceous 1
 coccal
-conducible 1
+conducible 2
 coccerin
 corr 1
 coccic
