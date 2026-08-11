@@ -2877,7 +2877,7 @@ churchreeve 2
 canonry
 canons
 canonship 1
-consideration 1
+consideration 2
 canoodles 1
 counsinhood
 canopy
@@ -9155,7 +9155,7 @@ chasm
 castigation
 cotonia 1
 cunningest 2
-chasma 1
+chasma 2
 chasmed 2
 caddy
 chondrigenous
@@ -13754,7 +13754,7 @@ coonties 1
 crushing
 cloisterless
 columba
-cuffless
+cuffless 1
 congestus
 cineaste
 convoke 1
@@ -18880,7 +18880,7 @@ churchified 1
 colinus
 carolina
 colyonic 1
-coliphage 2
+coliphage 3
 colyone 1
 colipuncture 1
 coliseum 2
@@ -19588,7 +19588,7 @@ ciliata
 chromaticism
 coextensiveness
 capanne
-coregence
+coregence 1
 coprozoic
 columellia
 columna 1
@@ -22503,7 +22503,7 @@ certainest 3
 chignoned
 conjoinedly 4
 claviole 1
-conjointment
+conjointment 1
 chromaffin 1
 conjointness
 chorwat 1
@@ -22930,7 +22930,7 @@ coalizing
 considerate
 codiaeum 1
 cephalometer
-considerator
+considerator 1
 coquetoon 1
 copatain
 chromatone
@@ -25368,7 +25368,7 @@ ce 1
 corncutter 1
 corndodger 1
 cornea 1
-corneal 2
+corneal 3
 corneas 1
 chiurm 2
 cheddaring
@@ -26493,7 +26493,7 @@ cystocarp 1
 careenage
 cotrine
 cathodoluminescence 1
-cacoplastic
+cacoplastic 1
 curet
 catocalid
 caroler
@@ -29195,7 +29195,7 @@ chanfron
 colicolitis
 cryoscopic
 cryoscopies 2
-constipate 1
+constipate 2
 cryosel 1
 cryospheric 1
 criosphinx 2
@@ -31011,7 +31011,7 @@ cumbrousness 2
 crashworthy 2
 currants 1
 cumengite 1
-chromobacterium 1
+chromobacterium 2
 clausiliidae 1
 carillonneur
 cytochylema
