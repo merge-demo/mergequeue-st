@@ -8204,7 +8204,7 @@ beudanite 1
 bluebuck 2
 binds 1
 baryes 2
-backus
+backus 1
 baccar 1
 beswarming
 burls
@@ -8212,7 +8212,7 @@ besqueeze 1
 bifaces
 bootlicked 1
 bifara
-bootleger
+bootleger 1
 bedress 1
 biff 1
 broadwayite 2
@@ -8584,7 +8584,7 @@ brainlike 1
 bonsai 1
 bassaris 1
 berylline 2
-brauneberger 3
+brauneberger 4
 brachiofacial 2
 billfishes 1
 bind 1
