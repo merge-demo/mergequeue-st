@@ -414,7 +414,7 @@ folie 1
 flechettes 2
 fibroligamentous 2
 fauchards 4
-fur 1
+fur 2
 frockmaker 2
 fairship 4
 feal
@@ -982,7 +982,7 @@ flashes 1
 fluorapatite 3
 fluoborid
 forehook
-foglietto
+foglietto 1
 fascicles 2
 flexuose
 flatlong
@@ -1089,7 +1089,7 @@ fluster 2
 fluocerine 1
 forbade
 familiarizing 1
-figaro 3
+figaro 4
 frizzling 2
 farthing 3
 foresay
@@ -2111,7 +2111,7 @@ fonding 2
 fluming
 feminist
 falcate 1
-fibrocartilage
+fibrocartilage 1
 fundraising 4
 flabbier 3
 franchises 1
@@ -6273,7 +6273,7 @@ festers 2
 fluidized
 ferroconcrete 5
 firers 2
-fussock 3
+fussock 4
 flared 1
 fissiparation
 fortissimos 2
@@ -7854,7 +7854,7 @@ furcellate
 foreboot 1
 friaries 1
 fractionisation
-fungify
+fungify 1
 favorite 2
 fligged 4
 focusing 2
@@ -10692,7 +10692,7 @@ forenamed
 florican
 fundamental 3
 fidicinal 1
-foodstuffs 2
+foodstuffs 3
 fruitiness 3
 fieldworker
 fist 4
