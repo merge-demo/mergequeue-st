@@ -3297,7 +3297,7 @@ fisherman 1
 fideicommissaries 1
 fungus 1
 flirtling 2
-finesser 3
+finesser 4
 forevermore
 foreward
 foamingly 3
@@ -4314,7 +4314,7 @@ frailty 2
 ferrelled
 fluorins
 fellnesses
-fasteners
+fasteners 1
 foreleech 3
 firms 1
 felspathic
