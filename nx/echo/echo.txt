@@ -953,7 +953,7 @@ execution 1
 eidolology 1
 effluviable 1
 ethmolachrymal 2
-extrafoliaceous 4
+extrafoliaceous 5
 embryulci 1
 eddied
 enterococcus
@@ -2940,7 +2940,7 @@ eelshop 2
 embank
 evaporatively 3
 erythrasma
-elliptical 1
+elliptical 2
 embarrassments 1
 eyewinks 1
 elicitation 1
@@ -5389,7 +5389,7 @@ endure 3
 endurer
 enduringly 1
 enterozoic 2
-earthmen 1
+earthmen 2
 emblematology
 elaboratory
 equilaterally 2
@@ -5751,7 +5751,7 @@ eucharistical 1
 excl 1
 englobe
 empressements 1
-epigraphy
+epigraphy 1
 elites
 expressions
 englobed 2
@@ -6573,7 +6573,7 @@ enseam 2
 expulsatory 2
 eructed 1
 execrate 3
-endlichite
+endlichite 1
 easterliness 1
 enteroepiplocele 2
 eudemonistical 3
@@ -7227,7 +7227,7 @@ ennage 1
 eosinophile 1
 emptyhearted 1
 euonymuses 2
-empolder
+empolder 1
 epa 1
 efferous 2
 expeditating 1
@@ -7710,7 +7710,7 @@ eggshells 1
 exarchy 3
 epicondylian
 executable 1
-epidiascope 1
+epidiascope 2
 expectorants 2
 engraff 1
 ecce 1
@@ -8134,7 +8134,7 @@ eurythmies 4
 estadio 1
 elegances 3
 excorticate
-electrostatic
+electrostatic 1
 electrolysis 3
 extracollegiate
 entomophthoraceae 1
@@ -10187,7 +10187,7 @@ ectoparasite 2
 erastianism 2
 etherifying
 etherism 1
-effortfully 1
+effortfully 2
 ectoentad
 etherizes 1
 extraditing 2
@@ -10467,7 +10467,7 @@ etherin 2
 exalate 2
 encroachingly
 elance
-expiscatory
+expiscatory 1
 excrescency 1
 equilobed 3
 entities 3
@@ -10492,7 +10492,7 @@ envyingly
 embouchure
 ettercap 1
 ettirone 1
-escalan 1
+escalan 2
 equaller
 ettle 3
 ecclesiolatry 1
@@ -11243,7 +11243,7 @@ endoplastron 1
 evangelically 3
 erector
 enamellers 1
-eviler 2
+eviler 3
 ethmosphenoidal 2
 espials 2
 endocrinologic
@@ -11768,7 +11768,7 @@ entoptoscopy 1
 edgerman
 ephraim
 ephydrid 2
-euplocomi 3
+euplocomi 4
 engoue 2
 erysipelous
 ectadenia 2
@@ -13046,7 +13046,7 @@ ezba 1
 entastic 1
 existentially 2
 esophagectomy
-ergotic
+ergotic 1
 elianic 3
 estafette 2
 emblems 1
@@ -13325,7 +13325,7 @@ ectrogeny
 eupterotidae 2
 estoile
 empedoclean 3
-espousers 3
+espousers 4
 efformation
 eminences 3
 ethicalities 1
@@ -13633,7 +13633,7 @@ encyclopaedically 2
 electropyrometer
 expulsory 3
 ectad 1
-exiledom 2
+exiledom 3
 extemporary 1
 extemporisation 2
 ewing 1
@@ -14065,7 +14065,7 @@ excitonic 3
 enterochromaffin
 extravagance 3
 extravagantly
-enchantingly 4
+enchantingly 5
 ethaldehyde 3
 emulsibility 3
 extravaganza 1
