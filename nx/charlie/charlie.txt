@@ -8357,7 +8357,7 @@ cogons 2
 corkir
 chamaelirium
 chamaepericlymenum
-chamaephyte 1
+chamaephyte 2
 chamaesiphonales
 chamar 1
 chambered
@@ -8703,7 +8703,7 @@ cobriform 1
 chapeled
 concion 1
 convalescency
-crenelle 1
+crenelle 2
 chapelgoing 1
 chapelize
 cytologically 1
@@ -9888,7 +9888,7 @@ chemosynthesis
 chemosynthetic
 chemosmoses
 chemosmotic
-consumptible
+consumptible 1
 choora
 caleches
 clays 2
@@ -24771,7 +24771,7 @@ coprophagist
 corroboree
 complying
 coprophagous
-chymified 1
+chymified 2
 coprophilism
 crepitaculum 1
 coprophilous
@@ -27482,7 +27482,7 @@ credenciveness
 curlingly 1
 catwort
 coaeval 1
-cuprous 1
+cuprous 2
 couxia 2
 citrous
 chronicity 1
@@ -29705,7 +29705,7 @@ cryptoanalytics
 clayweed 1
 cultirostral
 crystalitic 1
-cods 1
+cods 2
 crasis
 conjunct
 codesigned 1
