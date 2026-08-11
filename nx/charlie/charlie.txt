@@ -8703,7 +8703,7 @@ cobriform 1
 chapeled
 concion 1
 convalescency
-crenelle 1
+crenelle 2
 chapelgoing 1
 chapelize
 cytologically 1
@@ -9888,7 +9888,7 @@ chemosynthesis
 chemosynthetic
 chemosmoses
 chemosmotic
-consumptible
+consumptible 1
 choora
 caleches
 clays 2
