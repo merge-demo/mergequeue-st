@@ -1039,7 +1039,7 @@ boraces
 barmecidal 2
 balcony 1
 burnweed
-bail
+bail 1
 buxeous
 bafta 5
 bringer
@@ -2897,7 +2897,7 @@ bottleful 5
 broadcasts
 broadthroat 2
 biverbal 1
-beclatter 2
+beclatter 3
 bestride 1
 boxlike
 braked 1
@@ -3548,7 +3548,7 @@ batfowls
 bestore 1
 bulbocavernosus
 brookites 1
-blackroot 1
+blackroot 2
 bathed 1
 bathes 2
 backslidden
@@ -6242,7 +6242,7 @@ bearleap 2
 bookism
 bissextus
 battalions 1
-biuret
+biuret 1
 bosporus 2
 blastogenesis 1
 bubas 2
@@ -6364,7 +6364,7 @@ bragger
 beadiness
 blastogranitic 3
 biophysicists 1
-bucker 1
+bucker 2
 batsmanship 4
 bravoing
 benziminazole 3
@@ -8204,7 +8204,7 @@ beudanite 1
 bluebuck 2
 binds 1
 baryes 2
-backus
+backus 1
 baccar 1
 beswarming
 burls
@@ -8212,7 +8212,7 @@ besqueeze 1
 bifaces
 bootlicked 1
 bifara
-bootleger
+bootleger 1
 bedress 1
 biff 1
 broadwayite 2
@@ -8584,7 +8584,7 @@ brainlike 1
 bonsai 1
 bassaris 1
 berylline 2
-brauneberger 3
+brauneberger 4
 brachiofacial 2
 billfishes 1
 bind 1
@@ -10793,7 +10793,7 @@ balinger
 bayish
 bestripe 1
 batyphone 1
-bienvenu 1
+bienvenu 2
 boul
 bavin 1
 beforetimes 3
@@ -11858,7 +11858,7 @@ begrudged
 bepale
 boucan 3
 bodilize 1
-bahuvrihi 3
+bahuvrihi 4
 barbedness 1
 busuuti 1
 beento 1
@@ -13523,7 +13523,7 @@ boondoggle
 bullydom 1
 boneyards 1
 botulisms 1
-brief
+brief 1
 brodequin 1
 bijouterie
 briquette 1
@@ -13694,7 +13694,7 @@ beeped 1
 bonailie 1
 bourgeoisie 1
 blessingly
-brushless 1
+brushless 2
 breadlessness
 bourgeons
 bragas
@@ -16722,7 +16722,7 @@ basilicae 1
 blowcase 1
 breithauptite 2
 biospheres 3
-bolyaian
+bolyaian 1
 bucks 1
 blinders
 bowyangs 1

@@ -9586,7 +9586,7 @@ cheekfuls 1
 cheekiest 1
 cheekiness 1
 cheeking
-claustrophobiac
+claustrophobiac 1
 cheekless
 cheeney
 cheep 1
@@ -11388,7 +11388,7 @@ coenamorment
 commences
 chiastic
 conscienceless
-chloroplatinous
+chloroplatinous 1
 chloroprene 2
 creature 1
 coronas
@@ -11491,7 +11491,7 @@ chymistry 1
 choile
 choir 1
 churchwards
-choirboys 1
+choirboys 2
 choired
 choirlike
 conoidally 2
@@ -13270,7 +13270,7 @@ cycloheximide
 chetverik
 communicants
 cataloguer 1
-chemiatry
+chemiatry 1
 cycloid 1
 coalternation 2
 cycloidean
@@ -17457,7 +17457,7 @@ cobblers
 cobblership 1
 cobbles
 cobblestone 1
-clepsydras
+clepsydras 1
 cobblestoned
 chokeweed
 cobbling
@@ -18540,7 +18540,7 @@ chronosemic
 cutler 2
 cohosts
 cohow 2
-cohune 1
+cohune 2
 commingling
 chadri 1
 callianassa
@@ -18590,7 +18590,7 @@ cunner
 coil 1
 curtis
 conchylia
-coiled 1
+coiled 2
 coiler
 combusted
 clerkhood 1
@@ -20389,7 +20389,7 @@ condolement
 commuters 1
 commutes 2
 chattelship
-comoedus
+comoedus 1
 comolecule 1
 crassness
 cuirass
@@ -28914,7 +28914,7 @@ crewmen
 crewneck 1
 capsheaf
 chaetognathan 1
-crex 3
+crex 4
 cry 1
 crikey
 cryable
@@ -30094,7 +30094,7 @@ cuckoos
 crocodilus 2
 comptrol 2
 cephalophorous 1
-chordoid 1
+chordoid 2
 crowder 1
 cmdg
 crowdy 2
@@ -30981,7 +30981,7 @@ cumar
 cumara 1
 cumarins
 cuvage 2
-collocal
+collocal 1
 chromoplastid
 cumber
 consumptiveness 2
