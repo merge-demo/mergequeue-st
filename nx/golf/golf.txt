@@ -347,7 +347,7 @@ gaussian 3
 grilses 3
 gillar 1
 gleen 1
-gerontologic 2
+gerontologic 3
 gangetic 1
 governingly 3
 gastrohepatitis 4
@@ -1456,7 +1456,7 @@ gaoler 6
 gerousia 3
 gove 1
 gynocardia 2
-gradualness 2
+gradualness 3
 gasboat 5
 giddiness
 gaselier 1
@@ -2748,7 +2748,7 @@ gantlope 2
 grimsir
 goblets 2
 gluttonised 3
-graduals 2
+graduals 3
 gurr 5
 gemeinde 1
 gaunt 1
@@ -2788,7 +2788,7 @@ genuflection
 gallates 2
 grillages 2
 galactophlysis 1
-graminous 3
+graminous 4
 gallybagger 3
 gypseian 1
 geraniales 1
@@ -3368,7 +3368,7 @@ gigglish 2
 grains 2
 gregarinian 2
 greenwing 4
-greco
+greco 1
 gynaeolatry 1
 gerontotherapy 1
 gibraltar 1
@@ -3692,7 +3692,7 @@ getatable 2
 gazoz 4
 goldfield 1
 generator 1
-gropingly 1
+gropingly 2
 germania 2
 giantkind 4
 guys
@@ -3957,7 +3957,7 @@ gesticulated 2
 grotzen
 gymnorhinal 1
 gynaeceum 2
-gouter 1
+gouter 2
 gesticulates 1
 gansey 2
 ginnier
@@ -4741,7 +4741,7 @@ gweducks
 gangliar 2
 gobiiform
 glucogenic
-glassware
+glassware 1
 gravidly 1
 gainfulness 2
 gages 3
@@ -4992,7 +4992,7 @@ gastrohypertonic 2
 gangsterism 3
 grizzlers 2
 gisarmes 1
-gassy 1
+gassy 2
 gapped 3
 glandulousness 1
 goalkeeper 2
@@ -6193,7 +6193,7 @@ gilim 1
 ganglionless 3
 grivois 2
 gossipdom 2
-gamblesome 2
+gamblesome 3
 grubbed
 gardener
 geomyidae 1
@@ -6604,7 +6604,7 @@ garous 5
 granivorous
 glegnesses 2
 gonaduct 2
-guiling
+guiling 1
 grinner 2
 gonalgia
 grabby 4
@@ -10088,7 +10088,7 @@ gatehouse 1
 gekkonoid 2
 gonfaloniership 3
 gasoscope 1
-goalage 2
+goalage 3
 glottid 3
 gazetteer 1
 gonystylus 2
