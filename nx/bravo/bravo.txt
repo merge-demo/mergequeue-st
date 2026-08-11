@@ -2940,7 +2940,7 @@ bited 1
 broad
 barrelled 1
 billfish 1
-barrelmaker 1
+barrelmaker 2
 belemnoidea 1
 blissfully
 bamboozlement
@@ -3097,7 +3097,7 @@ basaree 2
 boycotting
 bestness 1
 bealach 1
-bronteana 2
+bronteana 3
 bonitas 2
 boithrin
 butylene
@@ -6390,7 +6390,7 @@ benzofuran 2
 biozone 1
 benzoglycolic
 bastioned 1
-benzohydrol 1
+benzohydrol 2
 benzoylated
 becuna
 benzene
@@ -6983,7 +6983,7 @@ borderism 1
 bewelter 1
 brae 1
 besmirchers 1
-bactris 2
+bactris 3
 besmooth
 bonity 3
 besmooths 2
@@ -7776,7 +7776,7 @@ byronist
 bravure 1
 barytas
 buckeyed
-biacid
+biacid 1
 basoko 2
 basementward 1
 blessings 4
@@ -8669,7 +8669,7 @@ barbecues 2
 bilos 1
 biloxi 1
 barbells 1
-bitterish
+bitterish 1
 benshea
 bunjara
 beriberi
@@ -9536,7 +9536,7 @@ bogota 2
 blackened
 birthright 1
 baffeta 1
-births
+births 1
 birthstones
 bulliform 1
 birthstool 1
@@ -10268,7 +10268,7 @@ biborate 1
 broadmindedly 1
 belly 2
 boracic 1
-blacksmithing 1
+blacksmithing 2
 biochemy 1
 beastdom
 botargo 1
@@ -10965,7 +10965,7 @@ brassicas
 blintzes 3
 billowy
 blips 1
-boehmenite
+boehmenite 1
 bliss
 branchiostegous 1
 bucketshop
@@ -11936,7 +11936,7 @@ betutor 1
 bimeby 1
 bourns
 bailiff 1
-bogart 1
+bogart 2
 boosies
 bogbeans 1
 bordels
@@ -12173,7 +12173,7 @@ bilking 2
 barbitos
 biclinium 1
 blaff
-beaumontia 2
+beaumontia 3
 balneum
 beeps 4
 blaine 1
@@ -13536,7 +13536,7 @@ baccae
 blackbrush 2
 barometrography 1
 blundered 2
-bielid 2
+bielid 3
 beleft 2
 boisterousness 3
 becursing 1
@@ -14212,7 +14212,7 @@ bough 2
 bespot
 boloneys 2
 bottomland 2
-bradbury 1
+bradbury 2
 bradyauxesis
 bilification 3
 bald
@@ -15221,7 +15221,7 @@ bedeaf 1
 blancs 1
 bifocal 4
 barbiturate
-batwa
+batwa 1
 boomster
 brightsmith 3
 brotherliness 2
@@ -17654,7 +17654,7 @@ britchel 1
 belady
 blowier
 barrelfish
-bellipotent 1
+bellipotent 2
 byte 1
 burked
 bonnetman 1
@@ -17776,7 +17776,7 @@ burrgrailer
 basementless 1
 base
 braiders
-burrhead 1
+burrhead 2
 burrheaded
 bedcovers 1
 biserrate
@@ -18104,7 +18104,7 @@ bolbanac 2
 butcher 1
 blindstorey 1
 bupleurum 2
-boosts
+boosts 1
 blocklayer 3
 butcherbird 3
 bellylike 2
