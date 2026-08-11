@@ -3656,7 +3656,7 @@ degradative 1
 degraded
 degradement
 dozing 3
-depsid
+depsid 1
 disrupt 1
 decimalisation 2
 discalced
@@ -12206,7 +12206,7 @@ deliberativeness 1
 decolors
 dossiere 2
 demoniacism 1
-drubbing
+drubbing 1
 daybook
 desegregate 5
 dysadaptation 1
@@ -16970,7 +16970,7 @@ dartles
 duledge
 diminuendoed
 dreggiest
-decry 2
+decry 3
 drearily 1
 dreariness 3
 deamidate 1
