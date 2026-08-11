@@ -19062,7 +19062,7 @@ annals
 asta 1
 archpirate 1
 aviculidae
-adactylism 1
+adactylism 2
 alveated 1
 anticous 1
 archplagiarist 1
@@ -19887,7 +19887,7 @@ aiguellette
 asymbiotic 1
 aeolis
 armlike
-armlock
+armlock 1
 autoconvection 2
 armoracia
 albertite
@@ -23644,7 +23644,7 @@ amylodextrin 1
 aureole 3
 autosomatognostic 1
 aureoled 3
-anemograph 1
+anemograph 2
 alee 1
 aureoline
 auresca
