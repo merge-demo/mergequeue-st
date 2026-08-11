@@ -1487,7 +1487,7 @@ acclimatement
 attires
 alewhap
 acclimates
-acclimatisation 2
+acclimatisation 3
 affixable 1
 archaisms
 amortize 1
@@ -5492,7 +5492,7 @@ assegai 1
 afrikanderdom
 ascher
 afrit 1
-attacher
+attacher 1
 armary
 acetotoluidine 1
 adored 1
@@ -13898,7 +13898,7 @@ anounou 1
 affix
 anour 1
 asher 1
-anovulant 1
+anovulant 2
 anovulatory 2
 anoxemias
 ashrams
@@ -15239,7 +15239,7 @@ affiancer
 androtauric 2
 antifibrinolysin 2
 antifibrinolysis
-apostolically
+apostolically 1
 atomies
 astroblast
 antifire 1
@@ -24714,7 +24714,7 @@ aversant
 averseness 1
 adults
 avertable
-antivenefic
+antivenefic 1
 autolyzed 2
 avertiment 1
 averts 1
@@ -25047,7 +25047,7 @@ assassinated
 ablepsia
 allodium
 allocheiria 1
-anklung
+anklung 1
 antihydrophobic 2
 algologies
 awoke
