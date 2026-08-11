@@ -4926,7 +4926,7 @@ caviteno
 combinably 1
 ceilinged 2
 carrottop
-carstone
+carstone 1
 cart
 counterpoising
 cartable 2
