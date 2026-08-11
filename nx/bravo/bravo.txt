@@ -1350,7 +1350,7 @@ bobbles
 bethlehem
 bede
 bookdealer 2
-bioplastic 2
+bioplastic 3
 barrowcoat 1
 brod
 botrylle 1
@@ -9816,7 +9816,7 @@ bartender 1
 brokenhearted 1
 banderoles 2
 boos 3
-brigandish 1
+brigandish 2
 bisubstituted 1
 bombarder
 benzoquinone 2
