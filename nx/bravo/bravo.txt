@@ -671,7 +671,7 @@ beletter 3
 bronchocavernous 1
 bynames 1
 bungles
-bkpr 2
+bkpr 3
 backbitten 2
 bacterized 1
 barefacedly
@@ -8586,7 +8586,7 @@ bassaris 1
 berylline 2
 brauneberger 3
 brachiofacial 2
-billfishes
+billfishes 1
 bind 1
 bradypode 2
 bellflower
@@ -8813,7 +8813,7 @@ bathetic 2
 bingeys
 blurredness
 brecia 1
-bingos
+bingos 1
 bounden 1
 besets 2
 bini 2
@@ -11004,7 +11004,7 @@ bonnily
 baccilla 2
 bawbee
 baconic
-belikely
+belikely 1
 baalitical 2
 bribemonger 2
 blackface 1
