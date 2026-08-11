@@ -1839,7 +1839,7 @@ buzzy 2
 brimming
 beaconed 2
 beglads 1
-blancmanger 3
+blancmanger 4
 bemuse
 botanizer 3
 bananaland
@@ -2671,7 +2671,7 @@ bable
 bribeable 2
 barling 1
 barghest
-breechloader
+breechloader 1
 basiliscus 2
 backlins 1
 barm
@@ -3992,7 +3992,7 @@ bespy
 becursed 2
 beaching
 beachman
-buenas 1
+buenas 2
 berchta
 babblement 1
 bounteousness
@@ -9385,7 +9385,7 @@ britannia 2
 birdglue 1
 biforked 2
 bisulfid 1
-brachtmema 1
+brachtmema 2
 birdhood 1
 birdhouse 2
 breezed 1
@@ -13107,7 +13107,7 @@ bassarisk 1
 basifixed 1
 brothiest 2
 batteling 1
-backfurrow 4
+backfurrow 5
 buggering
 bodyguard 1
 borid 2
@@ -13788,7 +13788,7 @@ boatful 2
 brontide
 brachydactyly 1
 berserker 1
-bushment
+bushment 1
 brazes 2
 borders 1
 bootlickers
@@ -15808,7 +15808,7 @@ becaps 1
 bove 2
 bedecks 1
 beauing 2
-bitterroot
+bitterroot 1
 billethead 1
 backstrokes
 backhandedly 1
