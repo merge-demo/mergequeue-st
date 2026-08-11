@@ -924,7 +924,7 @@ gorbet 3
 gated
 gnashes
 glycaemia 2
-grumousness 1
+grumousness 2
 gatewise 1
 guelphism 3
 gelototherapy 1
@@ -1402,7 +1402,7 @@ gangplow
 galvanopsychic 1
 gossipee 1
 gipsying
-guilloche 4
+guilloche 5
 garreteer 1
 greenless
 gola
@@ -1660,7 +1660,7 @@ garlanded
 gros 1
 gastroenteritis 2
 glycerolysis 3
-gunrunning
+gunrunning 1
 girting 3
 gester
 gluts 2
@@ -2267,7 +2267,7 @@ gumihan 3
 geomorphologist
 guerdonless
 gestant 3
-grosse 1
+grosse 2
 gripmen 2
 geological 2
 gonangia 2
@@ -5616,7 +5616,7 @@ grunth 1
 gerunds 1
 gloomily 3
 gloomings
-graveward 2
+graveward 3
 grimoire 2
 guillotines 2
 gubernacular 3
@@ -6600,7 +6600,7 @@ governessdom 2
 glummy 1
 galacaceae 2
 gallstone 3
-garous 4
+garous 5
 granivorous
 glegnesses 2
 gonaduct 2
@@ -10301,7 +10301,7 @@ gnetaceae 2
 ghettoing
 guichet 2
 gnathions 2
-gimper 5
+gimper 6
 gametic
 gearshift
 girondin
