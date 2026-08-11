@@ -2865,7 +2865,7 @@ acromegaly 1
 analogs 2
 antiscience 1
 acromelalgia
-antiaditis
+antiaditis 1
 airworthier
 armorproof 1
 archostenosis
@@ -3684,7 +3684,7 @@ adenographical 2
 adenohypersthenia 2
 atry 1
 archecentric 1
-applyingly 1
+applyingly 2
 atactiform 1
 acclimatization
 ailurophobia 1
@@ -4564,7 +4564,7 @@ adventurousness
 ankle 2
 antebridal 2
 adverbial
-adverbially
+adverbially 1
 autographical 1
 acloud 2
 aggerose 1
@@ -7473,7 +7473,7 @@ atrematous
 assessor
 apertly 1
 adventitiously 1
-aestivator
+aestivator 1
 albitic
 apts 1
 angledog 1
@@ -9958,7 +9958,7 @@ arachnoidean 2
 annaline 2
 alloy 2
 androeccia 3
-amaze 4
+amaze 5
 airlocks 1
 akroterial 1
 autotrophy
@@ -12494,7 +12494,7 @@ autostethoscope 1
 arteriology
 androsterone
 androtomy
-acoemeti
+acoemeti 1
 ayens 1
 aurantium
 anear
@@ -12648,7 +12648,7 @@ anacatadidymus 2
 anesthesimeter 2
 axiomatizations
 aftertan
-anesthesiology 2
+anesthesiology 3
 anesthesiologies
 aasvogel 1
 angelophany 1
@@ -17928,7 +17928,7 @@ aliesterase
 alcoholist
 accubitus 1
 anticynic
-approaching 2
+approaching 3
 anemometer
 approbated 2
 anachronist 1
@@ -20478,7 +20478,7 @@ ambushment 1
 archit
 asg
 arcula
-anticorrosively 1
+anticorrosively 2
 admov
 aristological
 asterospondylous 3
@@ -21822,7 +21822,7 @@ apaesthetic
 asseveratory 1
 asshead
 assi 1
-archiblastula
+archiblastula 1
 allotropous
 altimetrical
 assidual
@@ -22870,7 +22870,7 @@ anatomies
 ataxaphasia 1
 actinostome
 accubation 4
-adventism
+adventism 1
 affranchising 1
 aunters 2
 atomised 2
@@ -25366,7 +25366,7 @@ azotetrazole
 azothionium 1
 almoravides 2
 azotic 1
-azotize 1
+azotize 2
 adaptative
 azotoluene
 azotorrhea 1
