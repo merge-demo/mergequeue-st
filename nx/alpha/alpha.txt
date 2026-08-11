@@ -4401,7 +4401,7 @@ adsorbability
 archpuritan 1
 allocryptic
 adsorbable
-acnodal
+acnodal 1
 angiothlipsis 1
 adsorbed
 adsorbent 3
@@ -4914,7 +4914,7 @@ apopetalous
 amphibiology
 aloma 2
 anucleated 2
-ashes
+ashes 1
 abrasiveness 2
 allody
 anthoecology 1
@@ -9954,7 +9954,7 @@ artificious
 avoue
 alternator 2
 abandonee 1
-arachnoidean 1
+arachnoidean 2
 annaline 2
 alloy 2
 androeccia 3
@@ -15658,7 +15658,7 @@ acoustics
 antinormality
 antinormalness 1
 ambage 1
-anoxaemia 1
+anoxaemia 2
 aphidicolous 1
 amygdalitis
 aeolight
@@ -16390,7 +16390,7 @@ amictus 1
 anthraconite
 affiliates 1
 amacrine
-antiwedge
+antiwedge 1
 ariidae
 alyssums
 ambuling 2
