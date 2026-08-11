@@ -558,7 +558,7 @@ goys 1
 gagership 2
 goldflower 2
 graycoat 4
-ginhound 3
+ginhound 4
 galut 3
 gynaecocoenic 2
 globelet
@@ -813,7 +813,7 @@ greenlandite 1
 gastrostenosis 2
 glucosane 3
 guetar 3
-grazeable 1
+grazeable 2
 genetta 1
 goldenrods 3
 gyppo 1
@@ -1649,7 +1649,7 @@ galeopithecus
 glycin 2
 globed 1
 gastroduodenitis 5
-guadua
+guadua 1
 gastroduodenostomy 1
 gastritis 1
 gooses 3
@@ -1712,7 +1712,7 @@ glass 1
 gave 1
 guesses 1
 gamesman
-guernseys
+guernseys 1
 garnetwork 1
 gaullism 3
 gastropexy
@@ -1915,7 +1915,7 @@ grayfishes 3
 groundwave 1
 garvie 2
 goshen 3
-gonorrhoeic 1
+gonorrhoeic 2
 gauged
 grovet 1
 gonion 1
@@ -3165,7 +3165,7 @@ gallomania 1
 gaudiness
 getup
 golilla 2
-greatheartedness 4
+greatheartedness 5
 gown 1
 gloater 3
 globosely 1
@@ -3287,7 +3287,7 @@ gyneccia 1
 gipsyesque 3
 geepounds
 geostrophically 1
-gobio 3
+gobio 4
 gullion
 genethliacism
 gleby 1
@@ -3373,7 +3373,7 @@ gynaeolatry 1
 gerontotherapy 1
 gibraltar 1
 galleting 5
-gentisate 1
+gentisate 2
 geometrized 2
 granolite 4
 glossolaryngeal 1
@@ -3450,7 +3450,7 @@ gestatory
 geriatric 2
 grivoise 1
 graphonomy 3
-genipaps 3
+genipaps 4
 gnathotheca
 gestical 2
 gesticulant 2
@@ -3850,7 +3850,7 @@ genetrix 2
 gateworks 1
 glaciological 4
 gonotome
-grippier 1
+grippier 2
 gosling 3
 glarily 1
 galeoid 3
@@ -4592,7 +4592,7 @@ galloon 2
 grank 3
 guamuchil 3
 gyrophoraceous 1
-glance 1
+glance 2
 gringophobia 3
 ghafir 1
 geobiology 1
@@ -5173,7 +5173,7 @@ gale 1
 gleed 2
 grapeskin
 georgic 2
-gramophone 2
+gramophone 3
 germinant 3
 goldarnedest 1
 gaywing 2
@@ -5450,7 +5450,7 @@ gandhism 4
 glaciating 5
 galet
 gemellus 2
-guipure 3
+guipure 4
 groundskeep 5
 glisk 3
 gastruran 2
@@ -5896,7 +5896,7 @@ gasogene 1
 goliardeys 1
 groveless 1
 goldarn 2
-gilgames
+gilgames 1
 glebe 2
 gewgawish 3
 grogshops 1
@@ -6238,7 +6238,7 @@ gormandizing 2
 gregorianizer 5
 gob 2
 greediness 3
-gadslid 3
+gadslid 4
 gobber 3
 gazettes 2
 goateed 2
@@ -6571,7 +6571,7 @@ gen
 geadephagous 1
 goulan
 ghostwrite 2
-gingivolabial 3
+gingivolabial 4
 gruis 2
 gawkiest
 geldesprung
@@ -8437,7 +8437,7 @@ guaiacums 1
 glitzy 1
 goldonian
 gortonite 2
-glassweed 1
+glassweed 2
 guadagnini
 gavottes 1
 gawked 3
@@ -8502,7 +8502,7 @@ glossingly 1
 glossopalatinus 1
 gammer 3
 gov 4
-gleyde 1
+gleyde 2
 grivets 1
 glaze 2
 glands 3
@@ -9076,7 +9076,7 @@ gis 1
 gunpowdery 1
 gryllid
 glottogonic 2
-greffotome
+greffotome 1
 glasser 1
 gigahertz 1
 gentianwort 2
@@ -9671,7 +9671,7 @@ griphe 1
 gradative
 glareous
 guzzle 5
-graniform 3
+graniform 4
 govt 2
 ghanaians 1
 gypsophilous
