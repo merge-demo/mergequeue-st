@@ -540,7 +540,7 @@ est 2
 endotheliotoxin 2
 endless 1
 echinoid 2
-ethiopians 1
+ethiopians 2
 eavesdropper 1
 encrimson 1
 echinomys 4
@@ -9379,7 +9379,7 @@ emblematicize
 escapees 1
 erysipelas
 extraordinarily 2
-exactus 1
+exactus 2
 entonic 3
 explainer 1
 excruciating 2
@@ -12207,7 +12207,7 @@ enlistee 1
 empory
 exeat 1
 epigraphs 1
-exec
+exec 1
 electrophonic
 epiphonemas
 eudemonist 1
@@ -13244,7 +13244,7 @@ enzooty 2
 eupepsia
 explainable 2
 expropriated 1
-earing
+earing 1
 explainableness 1
 eternality 1
 eductor
