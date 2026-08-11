@@ -4302,7 +4302,7 @@ blouselike 1
 bebrush 2
 bebuttoned
 below 1
-barkeepers 2
+barkeepers 3
 bushwood
 bibliotherapeutic 1
 blubbers 1
@@ -13343,7 +13343,7 @@ bichord
 bukat 1
 benadryl 1
 bridgeman 1
-botcheries 2
+botcheries 3
 botcherly
 bitterbump 3
 botchy
