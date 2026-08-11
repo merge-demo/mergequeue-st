@@ -849,7 +849,7 @@ epiderms
 emraud 1
 englobement 1
 eddic 2
-epistolizer 1
+epistolizer 2
 eigenfunction
 erythrocytolysin 2
 electrocution 1
@@ -4057,7 +4057,7 @@ engross 3
 earle 1
 engrammatic 4
 eutherian 2
-ecthymata 3
+ecthymata 4
 euthymy 1
 excide 1
 esthetophore
@@ -6590,7 +6590,7 @@ elephantlike
 enzymologies 2
 enterohydrocele 2
 elevation 3
-erythroneocytosis
+erythroneocytosis 1
 embryoctonic 1
 existlessness 1
 eched 1
@@ -7799,7 +7799,7 @@ excardination 2
 encrinoid 1
 exoascus 1
 extirpationist
-essentialized
+essentialized 1
 euconjugatae
 echinops 2
 epigonium 3
@@ -11586,7 +11586,7 @@ expressman 3
 equipartisan
 evoking 2
 enlighten 1
-extensiveness 2
+extensiveness 3
 evolutionism 3
 epizeuxis 1
 evolutionistic 1
