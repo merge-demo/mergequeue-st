@@ -886,7 +886,7 @@ bauxites
 bicolour 2
 bagful
 baggagemaster 1
-bedamning
+bedamning 1
 brachydome
 baggager
 benzidin 1
@@ -3107,7 +3107,7 @@ bromobenzyl 1
 bambuk
 bibliothec 2
 balantidiosis
-baculite 1
+baculite 2
 bemixes 2
 blabby 1
 balnibarbi 1
@@ -3146,7 +3146,7 @@ basihyal
 biuniquely
 basenesses 1
 bangiales 3
-bunda
+bunda 1
 beforeness 3
 blurrer 1
 brevet 3
@@ -4511,7 +4511,7 @@ buffering 2
 buhrstone 4
 borocalcite 2
 bathala
-brutifies 1
+brutifies 2
 becrust
 becrusting 3
 bhakti 1
@@ -6136,7 +6136,7 @@ betide 1
 barquette
 badaxe 1
 bolshevizing 1
-bitolyl
+bitolyl 1
 backhaul
 baikalite 1
 boof 2
@@ -7520,7 +7520,7 @@ blastocolla
 barrelmaking 3
 boneache 1
 bourbonism
-bibbing
+bibbing 1
 bestower 3
 betaine 3
 businessman 1
@@ -9016,7 +9016,7 @@ baidak 3
 bacterioagglutinin
 bets 1
 byp 4
-biomechanical 1
+biomechanical 2
 begrims 1
 biomedicine 1
 bondieuserie 2
@@ -11186,7 +11186,7 @@ bow
 blearily
 blooey
 backspin
-bloomed
+bloomed 1
 baloghia
 bloomeries 1
 begash
@@ -13450,7 +13450,7 @@ booting 1
 buncombes 3
 bibliotheca 1
 breadbaskets
-bandaka 2
+bandaka 3
 botticelli 1
 backtracker 2
 bottlebrush 2
@@ -16910,7 +16910,7 @@ beaume 1
 bimetallists 3
 bugbearish 1
 burdened
-barretry 2
+barretry 3
 brassbound 1
 beneficiate
 banditti 1
