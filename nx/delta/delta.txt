@@ -2353,7 +2353,7 @@ databases 2
 dissociant
 daphnid 1
 decadally
-devocalising
+devocalising 1
 decessit
 decerebrating
 daikon 1
@@ -2462,7 +2462,7 @@ distinctly 2
 decisional 1
 decisions 1
 decisis
-declinature 1
+declinature 2
 delays
 dystomous
 dixy
@@ -2941,7 +2941,7 @@ diegesis
 diplasiasmus 1
 deduces 2
 droil 1
-dolt
+dolt 1
 deducibility 1
 drawstop
 deducted 2
@@ -8305,7 +8305,7 @@ dialect 1
 doomsman 2
 decolourized
 demoded
-disequalize 1
+disequalize 2
 diplogenetic
 datagram 1
 disenactment 2
@@ -10214,7 +10214,7 @@ decillionth 1
 dishcross 2
 doblons 1
 diphthong 1
-defibrination 1
+defibrination 2
 desobligeant
 decoys
 dissolutionist 1
@@ -16457,7 +16457,7 @@ decidement 1
 dasypeltis 2
 derivately
 dwaible 3
-delirate
+delirate 1
 diachyma 3
 drabbler 1
 datum
