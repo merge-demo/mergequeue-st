@@ -1445,7 +1445,7 @@ germiparity 2
 garnishee 1
 glovemaker
 guidebookish 2
-geophagous
+geophagous 1
 ghenting 1
 generical 1
 griffinish 3
@@ -2069,7 +2069,7 @@ gelndesprung 1
 gawkhammer
 gamophagy 1
 greasehorn 2
-gimmicky 2
+gimmicky 3
 giggledom 1
 geotonus 2
 grottolike 4
@@ -2737,7 +2737,7 @@ gippers
 garbs 3
 garnished 2
 gelotometer 2
-glottochronological
+glottochronological 1
 gristly
 gabies 1
 gangwayed 4
@@ -5345,7 +5345,7 @@ gamma 1
 generalissima 2
 guacin 3
 gracelessly
-glykopexic 3
+glykopexic 4
 goblinize
 gastroduodenal 4
 gurgled 2
@@ -5435,7 +5435,7 @@ gyrfalcons 2
 gonadic 1
 gandhiism 1
 gliffy 2
-grazie 3
+grazie 4
 grid 4
 goter 1
 gradines 2
@@ -5659,7 +5659,7 @@ girland 4
 glandulous 3
 gallophile 1
 gossoon 2
-gristliest 2
+gristliest 3
 greenlandman 5
 gnomonia 1
 gentilesse 4
@@ -5996,7 +5996,7 @@ gibetting 3
 gymnastic
 grin 2
 gentry 1
-gusting
+gusting 1
 glossoplasty 1
 guanabana 1
 gnarly 5
@@ -6242,7 +6242,7 @@ gadslid 3
 gobber 3
 gazettes 2
 goateed 2
-guitarlike 1
+guitarlike 2
 gregariousness 2
 guttural 1
 ghostiest 1
@@ -7329,7 +7329,7 @@ graverobber 2
 guze 2
 glyptologist 1
 gangly
-gappier 3
+gappier 4
 goar 2
 gymnosophy
 genys
@@ -7570,7 +7570,7 @@ governmental 1
 garageman 2
 gladify 3
 gangman 1
-goldsmithing 1
+goldsmithing 2
 gadroon 1
 gunyah 6
 greenths 2
@@ -8590,7 +8590,7 @@ grandada 2
 grouped
 grave 1
 giggly 3
-gurnet 1
+gurnet 2
 gliderport 4
 greenbacks
 glomeli
@@ -8866,7 +8866,7 @@ grandparenthood 1
 gardenlike 2
 globe 1
 gnostic 4
-girsle
+girsle 1
 guanay 2
 gablelike 1
 graecized 2
@@ -10844,7 +10844,7 @@ genethlialogical 2
 girderage
 gyrograph 3
 guaiacum 2
-grudgefully 2
+grudgefully 3
 guzul
 gasworker 2
 grailer 1
