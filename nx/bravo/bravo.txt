@@ -1643,7 +1643,7 @@ bewrays
 ballooners 1
 bickering 1
 brattier
-bricklayer
+bricklayer 1
 balloonflower 1
 balloonish
 babby
@@ -6780,7 +6780,7 @@ bookery 1
 bersagliere
 brittles 1
 bin
-boeotia 1
+boeotia 2
 barnumize 1
 balize
 berhyme
@@ -7473,7 +7473,7 @@ basebred 1
 betulinic 3
 bipyramidal 1
 betumbled
-balconied
+balconied 1
 biomicroscope
 bowne 2
 besant 2
@@ -10731,7 +10731,7 @@ bullets 1
 backswimmer 1
 box 1
 biti 1
-benzalhydrazine 3
+benzalhydrazine 4
 balian 1
 buchite 1
 bandfish 1
@@ -11517,7 +11517,7 @@ bumboatman
 benzenes 2
 broadshare
 budder 1
-blufter
+blufter 1
 bluggy 2
 bispore
 bethwack 2
@@ -15617,7 +15617,7 @@ briss 1
 backwoodsman 1
 blastomycete 1
 bolsterer
-brist
+brist 1
 bombproof 1
 bavarian
 biomagnetism 4
