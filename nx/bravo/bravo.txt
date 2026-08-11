@@ -5473,7 +5473,7 @@ behooving 1
 bacterioprotein 3
 brine
 backiebird
-beatless
+beatless 1
 behoved
 basting 3
 behoves 1
@@ -11832,7 +11832,7 @@ brachyura 1
 braking 2
 bepity
 boeing 1
-brashes 1
+brashes 2
 buttonless
 barfly 1
 bodybending
