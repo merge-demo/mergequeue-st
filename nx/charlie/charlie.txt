@@ -1029,7 +1029,7 @@ calathiscus 2
 calathos
 crapshooter
 cyrilla
-capsulated
+capsulated 1
 cher
 compression
 calathus
@@ -2179,7 +2179,7 @@ campholic
 compilatory
 coleorhiza 1
 camphols
-contemnor
+contemnor 1
 centroids
 camphorated
 camphorates 1
@@ -2571,7 +2571,7 @@ chaucerism 1
 candleshrift 2
 capitalizations 1
 cecidiology 2
-caustified 3
+caustified 4
 committeewoman
 chinol
 castellanship
@@ -4767,7 +4767,7 @@ carpium 1
 cannach 1
 carpocace 1
 cassandras
-contagia
+contagia 1
 cuestas 1
 conscient 1
 cartwrighting 1
@@ -4800,7 +4800,7 @@ confides
 clitellus
 carpology
 corrosibility 1
-circensian
+circensian 1
 corynocarpaceae
 calicular
 cottonee 1
@@ -5382,7 +5382,7 @@ chifforobes
 chimerical
 citator 1
 chuckie
-castellany 2
+castellany 3
 crizzling
 castellanies
 castellano 1
@@ -8036,7 +8036,7 @@ chaetura
 chafe
 concretion 1
 chafed 2
-chafery 1
+chafery 2
 chiles 1
 cagayan 3
 capitulum
@@ -13139,7 +13139,7 @@ cudgelled
 cicatrice 1
 colocolo
 cicatrices
-cicatricle
+cicatricle 1
 chamberdeacon 2
 copastorate
 cicatricula
@@ -13870,7 +13870,7 @@ cynical
 colorectostomy
 consecrations
 cynics 2
-chainer 2
+chainer 3
 councilwoman 3
 churoya
 cynipoid
@@ -14348,7 +14348,7 @@ circumstancing 2
 circumstant 1
 coelacanthid 1
 chronometry
-circumstantiality
+circumstantiality 1
 circumstantialities 1
 circumstantialness 2
 chipmunk 1
@@ -20227,7 +20227,7 @@ cobias
 cionotomy 2
 catastrophism 2
 chalcolite
-cystosarcoma 1
+cystosarcoma 2
 crewelwork 1
 chicagoans 1
 charivan 1
@@ -21071,7 +21071,7 @@ chiam
 celoms
 comradely
 comradeliness
-comradeship
+comradeship 1
 caulked 1
 chargfaires 1
 coms
@@ -21101,7 +21101,7 @@ conalbumin
 conamarin 1
 communard
 cramoisie
-cornfed
+cornfed 1
 conand 1
 connivence 2
 conarial 2
@@ -21261,7 +21261,7 @@ concertinist
 cordiform
 counterfeited
 concertino 1
-concertinos 1
+concertinos 2
 channer 1
 clechy 2
 concertion
@@ -24735,7 +24735,7 @@ closenesses 1
 copra 2
 copraemia
 cencerros
-crustaceous 1
+crustaceous 2
 copraemic
 christianize
 cruisingly 1
