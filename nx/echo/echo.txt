@@ -540,7 +540,7 @@ est 2
 endotheliotoxin 2
 endless 1
 echinoid 2
-ethiopians 1
+ethiopians 2
 eavesdropper 1
 encrimson 1
 echinomys 4
@@ -1827,7 +1827,7 @@ edematose 2
 euler 1
 engineeringly
 elychnious
-epidiorite 2
+epidiorite 3
 encystments
 errabund
 edaciousness
@@ -3524,7 +3524,7 @@ exhibit
 eloquentness 1
 escorted 2
 enured 1
-epigonichthyidae 4
+epigonichthyidae 5
 embolectomy 2
 enicuridae 3
 emboli 1
@@ -4064,7 +4064,7 @@ esthetophore
 emboil 1
 equitant 1
 erotophobia 2
-exteriorize
+exteriorize 1
 epiphonemae 3
 energeticist 1
 empathized 2
@@ -7151,7 +7151,7 @@ enzootically 1
 evenlight
 exposed 1
 evaluators
-endodontium 2
+endodontium 3
 ejidos 3
 enderon 3
 erythropoietic 3
@@ -8777,7 +8777,7 @@ extracurial
 elide 3
 ensellure 1
 enunciative 1
-eight
+eight 1
 egritude 1
 esteems 3
 enskyed 1
@@ -12207,7 +12207,7 @@ enlistee 1
 empory
 exeat 1
 epigraphs 1
-exec
+exec 1
 electrophonic
 epiphonemas
 eudemonist 1
@@ -13244,7 +13244,7 @@ enzooty 2
 eupepsia
 explainable 2
 expropriated 1
-earing
+earing 1
 explainableness 1
 eternality 1
 eductor
@@ -13308,7 +13308,7 @@ ensheath
 epignathous
 eyedroppers
 euphonium
-egregious
+egregious 1
 enflagellation 4
 entozoarian 4
 exhaustlessness
