@@ -4926,7 +4926,7 @@ caviteno
 combinably 1
 ceilinged 2
 carrottop
-carstone
+carstone 1
 cart
 counterpoising
 cartable 2
@@ -8172,7 +8172,7 @@ chairway 1
 cryptogamian
 conjunctivae 2
 chairwarmer
-chairwomen 1
+chairwomen 2
 cyanocitta 1
 chaiseless 1
 chaises 3
@@ -14884,7 +14884,7 @@ cytophagous
 cytopharynx 1
 coldturkey 1
 countergabble
-cytophil 4
+cytophil 5
 cytophilic
 cytula
 consulting
@@ -15797,7 +15797,7 @@ counterfeitness 1
 clearcole
 clearedness 1
 clearheadedly 1
-cardcases 1
+cardcases 2
 crawly
 cometwise 2
 chalazas
@@ -19563,7 +19563,7 @@ columbidae
 cobblestones 2
 cankerous 1
 cos 2
-columbiferous 1
+columbiferous 2
 costula
 chronanagram 1
 columbiformes 1
@@ -20469,7 +20469,7 @@ chirpiness 1
 comparableness
 cionotome 1
 comparascope 1
-comparate
+comparate 1
 comparatist
 crotchets
 comparatival 1
