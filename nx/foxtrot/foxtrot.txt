@@ -705,7 +705,7 @@ famous 2
 florigens 3
 featherlet 2
 famp 2
-famuli 1
+famuli 2
 frustrater 1
 fana 2
 feoffment 1
@@ -7262,7 +7262,7 @@ fatstocks 2
 foregoing 2
 fissuration 1
 fledglings 1
-fetisheer 1
+fetisheer 2
 foeffment 1
 flares 3
 forecasts 2
@@ -7380,7 +7380,7 @@ feedlots 3
 flyness 1
 fistnote 5
 flaccidity 4
-forbidals 5
+forbidals 6
 fasted
 featous
 foobar 3
@@ -9965,7 +9965,7 @@ fogeater
 fevercup 4
 fenestrone 2
 formalizes
-foretells
+foretells 1
 fistfuls
 flanes
 falconry 2
