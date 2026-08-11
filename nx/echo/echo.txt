@@ -779,7 +779,7 @@ encaged 2
 exadverso
 endosulfan 2
 earthmaking 1
-exodus 1
+exodus 2
 epeira
 eurytopic
 encephalography 3
@@ -4685,7 +4685,7 @@ emptiest
 encysts
 evenest 2
 edgrow
-eyepieces
+eyepieces 1
 euphrosyne 2
 enarthrosis
 effulgent 1
@@ -6036,7 +6036,7 @@ enlargeable 1
 eigenvectors
 echinorhinus 3
 eoanthropus 1
-enlargeableness 2
+enlargeableness 3
 enlarged 2
 eupepsias 3
 extensionless
@@ -7299,7 +7299,7 @@ eleut 2
 eparchies 2
 eternization 2
 equinoctial 2
-eparterial
+eparterial 1
 emasculations
 experiencible
 epaulement 1
@@ -8979,7 +8979,7 @@ eths
 eclairs
 elenchical 1
 enterokinesia 2
-enormious 3
+enormious 4
 erythemas 3
 eves 2
 eunuchized 3
@@ -9622,7 +9622,7 @@ encloud
 embost 1
 espartos 1
 enhydritic 3
-especialness
+especialness 1
 esperantido 4
 extrapatriarchal 2
 enclosing
@@ -10935,7 +10935,7 @@ euphotide 3
 excommunicate 2
 esd 2
 epilogizing 3
-epipteric
+epipteric 1
 expeditate 1
 eulogies
 euphuize
@@ -12103,7 +12103,7 @@ ensepulchered
 engulfs 3
 edentates 1
 expressor
-easels 1
+easels 2
 emblazonry
 ekphoria 3
 edestan 2
@@ -12565,7 +12565,7 @@ exculpative 2
 extoolitic
 enactable 2
 esonarthex 1
-enameler
+enameler 1
 electrofusion
 enchained 2
 extant 4
