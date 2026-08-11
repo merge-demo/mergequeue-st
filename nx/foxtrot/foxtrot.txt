@@ -31,7 +31,7 @@ fourchee 1
 fieldmen 2
 fibrolitic 2
 feaked
-fibrocyst 1
+fibrocyst 2
 fabricates 2
 fabricator 2
 formularize 2
@@ -3520,7 +3520,7 @@ fasciculi 1
 foresting 3
 forestine
 frubbish 2
-femoropopliteal 2
+femoropopliteal 3
 fodderless 2
 fly 1
 fissipalmation
@@ -3976,7 +3976,7 @@ fiscal
 fulmine 4
 flanque 2
 fictionally 2
-fibres 4
+fibres 5
 fraulein
 friarling 2
 fairydom 1
@@ -5656,7 +5656,7 @@ forums 1
 fortis 1
 frumpiest 1
 fianchetto 1
-fie 2
+fie 3
 fillers 1
 fishable 1
 furriners 2
@@ -6541,7 +6541,7 @@ fostering 1
 fiaroblast 1
 forswears 2
 flameless 2
-feedboard
+feedboard 1
 flensing 1
 flutterment 2
 flimflammed
@@ -7642,7 +7642,7 @@ fabular
 facsimilist 4
 funfest 2
 foolhardy
-furcate 2
+furcate 3
 flaxy 1
 flashlights 3
 fortyish
@@ -7753,7 +7753,7 @@ frere 4
 foreshaft 4
 forelook 1
 femmes 2
-fauvist 2
+fauvist 3
 facer 1
 fanfaronade 1
 flower 4
@@ -8354,7 +8354,7 @@ fiscalism 3
 forhaile
 foreroyal 3
 fod
-fraughan
+fraughan 1
 fossilising 1
 fossilizable 3
 familyish 3
@@ -8438,7 +8438,7 @@ familist 3
 fornications 1
 fightings
 followed 1
-fusiform 1
+fusiform 2
 funaria 1
 fiberfill
 futhorcs 4
@@ -10855,7 +10855,7 @@ fulcruming 2
 feeable 6
 fanatical 2
 fulfiller 2
-flambeaux 2
+flambeaux 3
 fumose 2
 fructifies 2
 fulfillment
