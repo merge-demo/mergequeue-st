@@ -1924,7 +1924,7 @@ calumnia 1
 cartonnage 2
 cambricleaf
 colobus 1
-cambridge 2
+cambridge 3
 catostomidae
 chaumer
 cambuca 1
@@ -5581,7 +5581,7 @@ cycledom 1
 cedre 1
 comicoprosaic
 crushingly
-catalepsis
+catalepsis 1
 corrodentia 1
 catalexis
 catalin
@@ -19617,7 +19617,7 @@ cunnilinguism 1
 columniform
 contralto
 cherimoya 1
-circumaction
+circumaction 1
 coitional 1
 cervicohumeral
 chadless
@@ -20866,7 +20866,7 @@ cacoepist 2
 conspirational 2
 compositor
 compositors
-cashed
+cashed 1
 costeaning
 colluder
 coacted
@@ -25429,7 +25429,7 @@ corny 1
 cornic
 cornice 1
 cuarta 1
-choragus 1
+choragus 2
 corniced
 collaud 2
 creamery 1
@@ -31270,7 +31270,7 @@ cortinarious
 curate
 curatess
 cliency 1
-curation
+curation 1
 cutworks
 cenogenesis 2
 curative
