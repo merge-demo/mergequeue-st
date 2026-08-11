@@ -369,7 +369,7 @@ backgammon
 board
 barbarical 1
 barwares
-breaststroke
+breaststroke 1
 background 1
 backhand 2
 backhandedness 2
@@ -848,7 +848,7 @@ bedene 1
 bouleuteria 3
 bouleversement 2
 brickyard
-bloodlessly 2
+bloodlessly 3
 baffs
 becomingly
 boltholes 1
@@ -930,7 +930,7 @@ blottiest
 bagong 2
 bostrychid 3
 bantingism 1
-bellehood 1
+bellehood 2
 biophysiological 1
 bradycardic 3
 belowdecks 2
@@ -1239,7 +1239,7 @@ bruchus 1
 backslid 1
 beds
 bittersweetness
-buxbaumia 2
+buxbaumia 3
 becreep 1
 beautician
 baldachined
@@ -2619,7 +2619,7 @@ breastbones 2
 bifronted 1
 bhaiyachara 4
 borana 2
-bunglesome 3
+bunglesome 4
 barkey
 briers 1
 barkery
@@ -2629,7 +2629,7 @@ behn
 barkhan
 batman 1
 blastoderm
-balistarii 3
+balistarii 4
 belostoma
 bumpkinly 1
 broncs 1
@@ -5473,7 +5473,7 @@ behooving 1
 bacterioprotein 3
 brine
 backiebird
-beatless
+beatless 1
 behoved
 basting 3
 behoves 1
@@ -5531,7 +5531,7 @@ blintz 1
 bejel
 brawly 1
 babist 4
-broth
+broth 1
 breeziest 1
 bandsawing 2
 blamer 1
@@ -6423,7 +6423,7 @@ benzoquinoxaline 2
 balau 1
 benzosulfimide 1
 biophysiologist 1
-barbaresque 1
+barbaresque 2
 brisses 1
 benzosulphimide 1
 barricaders
@@ -9939,7 +9939,7 @@ berrying 1
 bittersweets 1
 bittie 3
 bittiest
-bigroot 2
+bigroot 3
 breachy 1
 bittings 1
 boodle
@@ -11832,7 +11832,7 @@ brachyura 1
 braking 2
 bepity
 boeing 1
-brashes 1
+brashes 2
 buttonless
 barfly 1
 bodybending
@@ -11976,7 +11976,7 @@ bytalk 2
 bogled 2
 beckelite
 bolts
-brinie
+brinie 1
 bogmire 4
 borine
 baggit 1
@@ -13105,7 +13105,7 @@ beryls 1
 bobbling 2
 bassarisk 1
 basifixed 1
-brothiest 2
+brothiest 3
 batteling 1
 backfurrow 5
 buggering
@@ -13289,7 +13289,7 @@ baulking
 bromide 2
 blitzkriegs 1
 beano 1
-boswellian 2
+boswellian 3
 boswelliana
 barrulet 3
 boulders 2
@@ -13628,7 +13628,7 @@ bemuddle
 bounceback 1
 blowsy 2
 bouncier
-batteried 1
+batteried 2
 barra 2
 begladding 4
 binning 1
@@ -14645,7 +14645,7 @@ branning
 bromoiodism 2
 broadleaves
 bewrayment 1
-bines
+bines 1
 bitterns
 brantails 2
 barricado 2
@@ -15199,7 +15199,7 @@ brawlys 1
 briard
 bromins 3
 ballsier
-briarean 1
+briarean 2
 biochemists 2
 befingers 2
 bah 1
@@ -15586,7 +15586,7 @@ bryozoon
 belyingly 2
 brique
 bucconasal 1
-bilbos 2
+bilbos 3
 bination 1
 barometer 2
 beavers
@@ -16491,7 +16491,7 @@ bishoplet
 borasque 1
 bimillennium 1
 bozal
-biomaterial
+biomaterial 1
 breathableness 3
 bequote
 biasness 1
@@ -17389,7 +17389,7 @@ bullit 1
 bungos
 bamboozler 3
 baetylic 3
-bungtown
+bungtown 1
 bosun 1
 blithered 2
 bungwall 2
