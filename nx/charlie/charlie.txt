@@ -2864,7 +2864,7 @@ coambassador 1
 canonising 1
 canonist
 canonistical
-canonized
+canonized 1
 commutability 1
 catapult 1
 carboxyhemoglobin
@@ -7735,7 +7735,7 @@ certifications
 chronotropism
 certificative 2
 certificatory 3
-certifier 1
+certifier 2
 certifiers
 chronique 2
 convect
@@ -26804,7 +26804,7 @@ counterdifficulty
 commenda 1
 cathedrated
 commiserate 2
-coldest
+coldest 1
 counterdigged 2
 cerebroscopy 2
 counterdike
