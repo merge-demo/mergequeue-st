@@ -3656,7 +3656,7 @@ degradative 1
 degraded
 degradement
 dozing 3
-depsid
+depsid 1
 disrupt 1
 decimalisation 2
 discalced
@@ -5434,7 +5434,7 @@ deoxycorticosterone 2
 dandically
 dismounting 1
 diprotodontia
-dreadlessly 1
+dreadlessly 2
 dropkicks 1
 damnable 1
 dubba 1
@@ -5747,7 +5747,7 @@ demonomancy 1
 dissipatedly 1
 dewer 1
 dallyman
-disoxygenate 2
+disoxygenate 3
 dainties 2
 dialog 1
 datableness
@@ -6745,7 +6745,7 @@ dogy 2
 decontaminative
 desucration 1
 desilicify 2
-desilicified
+desilicified 1
 desiliconization 1
 doubly 1
 disuniters
@@ -9846,7 +9846,7 @@ diluvialist 2
 demidigested 2
 decorated 1
 dinars 1
-diluvianism
+diluvianism 1
 demibastioned
 denty 2
 diluvium 1
@@ -11129,7 +11129,7 @@ dichromic
 disoppilate
 decanted 1
 deglaciation 1
-disbars 1
+disbars 2
 disbase 2
 dani 2
 disbeliefs 3
@@ -12206,7 +12206,7 @@ deliberativeness 1
 decolors
 dossiere 2
 demoniacism 1
-drubbing
+drubbing 1
 daybook
 desegregate 5
 dysadaptation 1
@@ -16970,7 +16970,7 @@ dartles
 duledge
 diminuendoed
 dreggiest
-decry 2
+decry 3
 drearily 1
 dreariness 3
 deamidate 1
