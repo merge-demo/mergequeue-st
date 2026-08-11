@@ -2355,7 +2355,7 @@ filmable
 flanneled
 fencelike 3
 floaters 3
-flunked
+flunked 1
 friarly 2
 flounderingly 3
 funerary 2
@@ -2665,7 +2665,7 @@ flashy 2
 feckulence 1
 ferter 1
 felliducous
-fittyways 4
+fittyways 5
 flamb 2
 fertile 1
 farcers
@@ -3959,7 +3959,7 @@ follyproof 2
 fossil 1
 footsteps 1
 founders 4
-focalise 2
+focalise 3
 forfends
 fingerer
 flaunch 2
@@ -5122,7 +5122,7 @@ fict 3
 furnishment
 flashiness 4
 fermerer
-famulli 1
+famulli 2
 fragrancies 1
 forewords 1
 furler 2
@@ -6069,7 +6069,7 @@ flocculating 4
 frayn 1
 feezing 1
 floridity 1
-floriscope 1
+floriscope 2
 fetterbush 1
 faba 1
 funicule 1
@@ -6611,7 +6611,7 @@ fogey
 foulbrood 1
 felicitators 2
 femalize
-focalizes 1
+focalizes 2
 forwrap 1
 forgave 2
 formulaically 2
@@ -8018,7 +8018,7 @@ fempty 2
 fetches 2
 floran 2
 fleying 1
-forecooler 1
+forecooler 2
 foreslow
 frumpled 2
 flirtational
