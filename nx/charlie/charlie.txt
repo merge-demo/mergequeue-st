@@ -3533,7 +3533,7 @@ capsulizing
 cabman
 cibola
 capsulogenous 3
-cataphyllum
+cataphyllum 1
 callus 1
 capsulolenticular 2
 capsulopupillary
@@ -4593,7 +4593,7 @@ carnivals
 carnivoral
 carnivore 1
 carnivorism
-cordialness
+cordialness 1
 carnivorously 1
 comart 1
 carnivorousness 1
@@ -9126,7 +9126,7 @@ commonefaction 1
 charts 2
 cozening 1
 caulite
-coderive
+coderive 1
 cerebrovisceral
 churchlier 1
 conversationize
@@ -9155,7 +9155,7 @@ chasm
 castigation
 cotonia 1
 cunningest 2
-chasma 1
+chasma 2
 chasmed 2
 caddy
 chondrigenous
@@ -12422,7 +12422,7 @@ counterstratagem 1
 chromes
 crabbers
 chromhidrosis
-chromy
+chromy 1
 cystostomy
 chromidae 1
 chromide
@@ -13754,7 +13754,7 @@ coonties 1
 crushing
 cloisterless
 columba
-cuffless
+cuffless 1
 congestus
 cineaste
 convoke 1
@@ -18880,7 +18880,7 @@ churchified 1
 colinus
 carolina
 colyonic 1
-coliphage 2
+coliphage 3
 colyone 1
 colipuncture 1
 coliseum 2
@@ -19129,7 +19129,7 @@ curtseying 1
 collyweston
 commonalty 1
 collywobbles 1
-completeness
+completeness 1
 chondriomite 1
 collobrierite
 cateress
@@ -20364,7 +20364,7 @@ cycloacetylene
 corruptless 1
 communization
 contumeliousness
-choruser 1
+choruser 2
 coeloblastula
 couseranite
 chakra 1
@@ -23067,7 +23067,7 @@ consonous 1
 cataphractic 1
 coemption
 callused
-counteradvantage
+counteradvantage 1
 consopite
 crown 1
 chowderhead 1
@@ -23107,7 +23107,7 @@ chermidae 1
 cyanochlorous
 conspicuously 1
 cabalic
-conspiracy
+conspiracy 1
 conspirant
 conspiration
 conspirators 2
@@ -29276,7 +29276,7 @@ cryptocarp
 cryptocephalous
 caliginousness 1
 counterplease
-cryptocerata
+cryptocerata 1
 cryptocerous
 clamoured
 collenchymatous 2
@@ -31011,7 +31011,7 @@ cumbrousness 2
 crashworthy 2
 currants 1
 cumengite 1
-chromobacterium 1
+chromobacterium 2
 clausiliidae 1
 carillonneur
 cytochylema
