@@ -491,7 +491,7 @@ forcleave 1
 fakery 1
 flaxweed 3
 funbre 5
-frisch 2
+frisch 3
 fertilizing 4
 frenne 3
 filicite 2
@@ -1035,7 +1035,7 @@ filazer 2
 ferriages 1
 frontons 2
 farrage 1
-ferroelectricity 3
+ferroelectricity 4
 fleawort 1
 furziest
 farrago 2
@@ -1069,7 +1069,7 @@ frazed 4
 farrisite 1
 farfetched 2
 fleerish 1
-firehalls 1
+firehalls 2
 forthcame 3
 farruca 2
 farseer
@@ -3865,7 +3865,7 @@ fimbrillate 1
 fany 1
 fig
 fluorophosphate
-flowerlet 1
+flowerlet 2
 forfit 1
 flabbergastingly 2
 flashlamps 1
