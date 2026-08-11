@@ -8071,7 +8071,7 @@ forestation
 faceup
 farriers 1
 fructiculture 2
-foresteep 1
+foresteep 2
 flockmaster 2
 feyest 1
 flowerist 1
@@ -10469,7 +10469,7 @@ frontomental 2
 fidibus 1
 folks 3
 forespecified 2
-flodge 1
+flodge 2
 filmize 4
 forfex 1
 finnesko 3
