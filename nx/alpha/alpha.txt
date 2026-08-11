@@ -6382,7 +6382,7 @@ accorded
 astarboard 3
 agrestial 1
 agrestic
-agrestical
+agrestical 1
 agricere 1
 alliteratively
 aggressivity
@@ -10167,7 +10167,7 @@ arboraceous 1
 ambrosiaceae
 adoptabilities 1
 ambrosias
-argine 1
+argine 2
 affords
 altarwise 1
 ambrosine
@@ -11029,7 +11029,7 @@ amomal
 aceite 2
 alligating 2
 araeosystyle 3
-antibank
+antibank 1
 amomis 2
 autosled
 arbitre
@@ -15239,7 +15239,7 @@ affiancer
 androtauric 2
 antifibrinolysin 2
 antifibrinolysis
-apostolically
+apostolically 1
 atomies
 astroblast
 antifire 1
@@ -16434,7 +16434,7 @@ antonymy
 antonymies 2
 antoniniani
 antoninianus
-acidophil
+acidophil 1
 appointed
 aurei
 alwise 3
@@ -17503,7 +17503,7 @@ alteregoism
 appeal 3
 adders
 appealable 1
-askance 2
+askance 3
 acanthodea
 appealingly 1
 agruif
@@ -17992,7 +17992,7 @@ antisexist 1
 approximative 1
 approximativeness
 allods 1
-approximator
+approximator 1
 appt
 arteriotomy
 aggrandise 2
@@ -22430,7 +22430,7 @@ apophyges 2
 anthropomorphize 2
 aliments 2
 astrometeorology 1
-aforenamed
+aforenamed 1
 asterina
 allegorization 1
 astrometry
@@ -25047,7 +25047,7 @@ assassinated
 ablepsia
 allodium
 allocheiria 1
-anklung
+anklung 1
 antihydrophobic 2
 algologies
 awoke
