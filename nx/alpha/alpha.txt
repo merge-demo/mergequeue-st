@@ -1168,7 +1168,7 @@ attornment 1
 apheliotropism 1
 aploperistomatous 1
 antirusts
-academist
+academist 1
 autonym
 arboral 1
 academite
@@ -2967,7 +2967,7 @@ armamentary
 advisive
 aerobatics 1
 albugineous
-acrostichoid 1
+acrostichoid 2
 acrostichum 2
 adoptianism
 acrosticism
@@ -3658,7 +3658,7 @@ agora
 adendritic
 akenbold 1
 adenylic 1
-adulterine
+adulterine 1
 avichi
 adatom
 adenitis 1
@@ -4171,7 +4171,7 @@ autobus 1
 antiphlogistin
 acylamino 1
 adnephrine
-anthracene
+anthracene 1
 atabal
 annuent 1
 apparatchiks 1
@@ -8321,7 +8321,7 @@ archin
 artefac 1
 aselli
 aliethmoid 1
-axonal
+axonal 1
 abacay 1
 auks 1
 applicatorily 1
@@ -8919,7 +8919,7 @@ algetic 2
 apiaries 2
 areason 1
 anhedron 1
-airlifted 1
+airlifted 2
 aporrhaoid
 arrayers 1
 amidosuccinamic
@@ -11290,7 +11290,7 @@ affluently 1
 abrege 1
 atchison
 arzrunite
-amphimictic 2
+amphimictic 3
 antired 1
 amphimorulae 1
 ampullaceous 1
@@ -17177,7 +17177,7 @@ apologue 2
 apologues
 apolousis 2
 astacidae
-apolune 1
+apolune 2
 aralie
 anthracoxen
 anaerobian 1
@@ -19856,7 +19856,7 @@ astraphobia 1
 akeley
 armillae 1
 armillary 1
-atonies
+atonies 1
 antigone 1
 annist
 ahorse
@@ -22729,7 +22729,7 @@ athleticism
 averruncation
 athletism
 athlothetes
-applauds
+applauds 1
 americium 2
 ascared
 annumerate 1
@@ -22880,7 +22880,7 @@ atomism
 archeress
 atabek 1
 alligatored
-arolla
+arolla 1
 analgesic
 abricock
 applicabilities
@@ -24216,7 +24216,7 @@ automata 1
 apidae 2
 alcids
 awash 1
-aminities
+aminities 1
 automated 2
 argentite 1
 automates
@@ -24639,7 +24639,7 @@ arab 1
 aeraria 2
 ascebc 2
 actinophore
-amyraldism
+amyraldism 1
 alloxuric 2
 aveloz 1
 autoheterodyne 2
