@@ -6398,7 +6398,7 @@ cautery
 cauteries
 cauterisation 2
 cauterise
-collision
+collision 1
 cloudland
 cauterism
 carafe 1
@@ -7636,7 +7636,7 @@ counterpoint 1
 congregates 1
 carreta
 cereous
-celioschisis 1
+celioschisis 2
 cerebellitis
 chark
 cererite
@@ -9952,7 +9952,7 @@ climactically 1
 chenfish
 chenille
 consumable 2
-chenopod
+chenopod 1
 colocasia
 catacombic
 criollo
@@ -15541,7 +15541,7 @@ classicise 2
 chromophoric 1
 classicism
 classicist
-classicists 2
+classicists 3
 cheshire
 cordially 2
 cynoglossum 1
@@ -20414,7 +20414,7 @@ colibertus
 compactible
 crampedness 1
 categorizations 1
-cincinnus
+cincinnus 1
 compactly 1
 conciliatingly
 chondrodynia 1
@@ -20593,7 +20593,7 @@ colometrically
 catmalison
 cacodyls
 cherishable 1
-compensator 1
+compensator 2
 compensatory
 cotillions
 compenser
@@ -22710,7 +22710,7 @@ contributor
 conoidically
 camphanyl 1
 conciser
-camletine 1
+camletine 2
 circadian
 conolophus
 conominee
@@ -25565,7 +25565,7 @@ coronets 1
 coronetted
 capersomeness 1
 crushability
-coronettee
+coronettee 1
 confronte
 coronetty
 coronagraphic
