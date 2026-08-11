@@ -8357,7 +8357,7 @@ cogons 2
 corkir
 chamaelirium
 chamaepericlymenum
-chamaephyte 1
+chamaephyte 2
 chamaesiphonales
 chamar 1
 chambered
@@ -9888,7 +9888,7 @@ chemosynthesis
 chemosynthetic
 chemosmoses
 chemosmotic
-consumptible
+consumptible 1
 choora
 caleches
 clays 2
@@ -20234,7 +20234,7 @@ charivan 1
 commodiously
 commodiousness
 cafardise 1
-commodity
+commodity 1
 commodities 1
 commoigne
 cuticulae
@@ -23490,7 +23490,7 @@ cimeter
 contenement 2
 contrapuntal
 chimble
-contentable
+contentable 1
 congregator
 contentedly 1
 counterartillery
@@ -27482,7 +27482,7 @@ credenciveness
 curlingly 1
 catwort
 coaeval 1
-cuprous 1
+cuprous 2
 couxia 2
 citrous
 chronicity 1
@@ -30950,7 +30950,7 @@ culturologically
 clarkia 1
 cavaliero
 cardinalitial
-caroid
+caroid 1
 costate
 cacatua
 chloroform 1
