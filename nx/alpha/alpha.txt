@@ -24166,7 +24166,7 @@ autoimmunize 1
 autoindexing 2
 artificers 3
 autoinfusion 1
-autoinoculable
+autoinoculable 1
 antiritualism 1
 aldermanries 2
 abrus
