@@ -1685,7 +1685,7 @@ atty 2
 anatomism 1
 attribute 1
 actualities 1
-accrued 1
+accrued 2
 accruement 1
 accruer 1
 anatta
@@ -7832,7 +7832,7 @@ aldoheptose
 antigalactic 1
 aldol 1
 assured
-afterfall
+afterfall 1
 apaestically 2
 accidentarily
 antimatrimonial 1
@@ -10627,7 +10627,7 @@ amygdalinic
 amygdaloid
 abstractedly 1
 autoerotism 1
-aftershine
+aftershine 1
 acidifier 2
 aminated
 amygdule 1
@@ -19952,7 +19952,7 @@ abdat 1
 armplate 1
 agamas
 angkhak 1
-azans
+azans 1
 aborsement 3
 afterclap 1
 armseye 1
@@ -24110,7 +24110,7 @@ arrowroots 1
 auricyanide 3
 abbeystead 2
 autogenies
-amylate 2
+amylate 3
 applenut 1
 amenable 1
 acutate
