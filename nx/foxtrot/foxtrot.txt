@@ -16,7 +16,7 @@ flagellators 2
 forcing
 fylker 1
 fablemaker 1
-funkers 3
+funkers 4
 fernyear 1
 fremituses
 frankers 2
@@ -1628,7 +1628,7 @@ fdnames
 farmhands 3
 fundamentalists
 forthcut 2
-fluible 1
+fluible 2
 fireworm 2
 faddisms 1
 flamboyantly 1
@@ -2039,7 +2039,7 @@ feigns 2
 flitch 3
 flamier
 farouche
-feltwork 3
+feltwork 4
 falconet 2
 fourpounder 4
 ferngrower 1
@@ -2705,7 +2705,7 @@ faithing
 factioneer 2
 fungused
 faradopalpation 1
-firebird 2
+firebird 3
 fluorobenzene
 feigher 1
 flaggella 2
@@ -3114,7 +3114,7 @@ freres 3
 feeblehearted 2
 foursomes 2
 foresettle
-fogbank 3
+fogbank 4
 fairylike
 fountainheads
 fibrocement 1
@@ -4509,7 +4509,7 @@ fanout
 flammule 1
 filleul
 fuddles 2
-francophobia 2
+francophobia 3
 flagging 1
 forestalling 2
 farmlands 1
@@ -4779,7 +4779,7 @@ foulminded 1
 fellowing
 froggier 2
 fellowshipped 1
-filigera 1
+filigera 2
 falconers 1
 flagelliform 1
 fever
@@ -5000,7 +5000,7 @@ fledging 2
 factordom 3
 fribourg 3
 formals 3
-freelage 3
+freelage 4
 forego
 flankers
 foists 1
@@ -6173,7 +6173,7 @@ future 1
 fusteric 1
 factoress 1
 fluohydric 1
-furnacemen 1
+furnacemen 2
 fingerspin 1
 flowerwork 2
 finnicking 1
@@ -6710,7 +6710,7 @@ flingers 1
 flaggily 1
 faintheartedly 2
 frivolous 2
-frontrunner 1
+frontrunner 2
 frustrations 4
 folksily 1
 fifth 3
@@ -6918,7 +6918,7 @@ freewomen 1
 freekirker 1
 flaxseeds 2
 fleyedly 2
-fauves 6
+fauves 7
 fragmented 2
 fishback
 fogs 1
@@ -7123,7 +7123,7 @@ flaglet 3
 frowning 1
 feh
 frigid 1
-foundress 1
+foundress 2
 feeder 1
 ferly 1
 flanging 1
@@ -7152,7 +7152,7 @@ furcula 2
 fatherlandish 2
 florivorous 3
 forbathe 5
-forebroads 2
+forebroads 3
 forgottenness 1
 frumenties 4
 fredaine 1
@@ -7256,7 +7256,7 @@ fiorded 3
 flumed 2
 foiled 2
 fitz 1
-footslogger 1
+footslogger 2
 financiery 4
 fatstocks 2
 foregoing 2
@@ -7284,7 +7284,7 @@ fiants 3
 freshment
 fibrilations 1
 fossilism 2
-filefish 2
+filefish 3
 frache 3
 fenestral 1
 fluff
@@ -7950,7 +7950,7 @@ foreshadow 2
 filibustering
 frisket 2
 forgivenesses 1
-foreshadowed 2
+foreshadowed 3
 featherman 2
 frizer 4
 footles 2
@@ -8316,7 +8316,7 @@ fluidism
 fortunate 3
 forwardation 2
 flirting 1
-fifteenfold 2
+fifteenfold 3
 farmings 3
 foretokening 2
 flagellaria 3
@@ -8499,7 +8499,7 @@ fuze 2
 formating
 fittily 3
 fag 2
-foxes 4
+foxes 5
 formations 1
 fatbrained 1
 formazan 1
@@ -11736,7 +11736,7 @@ fibroblast
 futwa 3
 fete 1
 formalin 4
-floramor 4
+floramor 5
 frights 2
 fathom 1
 foliiform 1
