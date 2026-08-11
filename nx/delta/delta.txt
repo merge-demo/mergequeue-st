@@ -30,7 +30,7 @@ disgeneric 1
 dachas 1
 dachshund 1
 disaligning 1
-dacian
+dacian 1
 dyce
 deservedly 1
 dacitic 2
@@ -78,7 +78,7 @@ delbert 1
 depressibility 3
 debilitating 2
 dactylion 1
-dobbin 1
+dobbin 2
 damning 1
 direcly
 deescalating 1
@@ -262,7 +262,7 @@ disenfranchising
 dissuitable 1
 dry 1
 dizzard 2
-dagomba
+dagomba 1
 daguerreotype
 downspout 1
 drouth 1
@@ -602,7 +602,7 @@ drek 2
 decalescence 1
 dedolomitized
 ditheistical
-damming 2
+damming 3
 divvies 1
 delated 1
 demoses 2
@@ -808,7 +808,7 @@ deduced 2
 dangerousness
 distention 1
 deniable
-dearths 1
+dearths 2
 dulcorate
 della 2
 decile
@@ -3741,7 +3741,7 @@ decaudate 2
 doughlike
 depolarized 1
 dehorted 1
-damaskine 2
+damaskine 3
 defatigate 2
 dehorting 1
 digitoxin 1
@@ -5273,7 +5273,7 @@ dentaphone
 dihexagonal
 dinger
 demivolte 2
-decorators 1
+decorators 2
 disenabled
 dreamers 1
 discomposing 2
@@ -7995,7 +7995,7 @@ damageable 1
 dft
 dysthymic
 dissatisfyingly 2
-dialects 1
+dialects 2
 defences
 doylt
 devote
@@ -8068,7 +8068,7 @@ dhritarashtra
 disables 1
 disembowelled 1
 drawable 1
-dhurra 1
+dhurra 2
 detrimentalness 2
 doghole
 definienda
@@ -8101,7 +8101,7 @@ dalis 1
 diacoelia 5
 desmolase
 dextroduction 3
-dupping 2
+dupping 3
 dept 2
 diabolise 2
 diabolising 1
@@ -10263,7 +10263,7 @@ defunctive
 dioctahedral 2
 dioctophyme 1
 deave 1
-dulwilly 1
+dulwilly 2
 defaulting 1
 diodontidae 1
 dioecy
@@ -10429,7 +10429,7 @@ disglorify 1
 disinterring 2
 diphenyls
 dispowder 1
-doglegging 1
+doglegging 2
 disfigurative 1
 deticking
 diphenoxylate 1
@@ -10470,7 +10470,7 @@ dimyarian
 dispost
 deary 2
 diphthongation 3
-dilutedness 1
+dilutedness 2
 dendrodra 1
 disordeine 1
 diphthonging
@@ -10943,7 +10943,7 @@ duodrama
 disaffirmance 2
 dheri
 dictyosiphon
-disaffirmation
+disaffirmation 1
 demilitarizes
 decidedness 1
 dermococcus 1
@@ -11561,7 +11561,7 @@ divulgator 1
 disposable
 discontentedness 2
 discriminantal
-dognaped 3
+dognaped 4
 discontenting 1
 discontentments
 disboweled
@@ -16555,7 +16555,7 @@ disinterred 3
 dallop 1
 dacryops 1
 disarchbishop
-draftsman
+draftsman 1
 drupaceous
 detainee 1
 decamping
@@ -17621,7 +17621,7 @@ dacus
 downfallen
 duant 1
 dentigerous 2
-dandelion 2
+dandelion 3
 defeminisation 1
 denicotinizing
 dunelike
@@ -18496,7 +18496,7 @@ dwt 1
 dyschronous 4
 dacryoma 1
 dupper
-dejerator 1
+dejerator 2
 dirca 3
 draggingly 3
 dendroica
