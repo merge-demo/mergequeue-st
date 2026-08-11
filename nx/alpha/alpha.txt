@@ -2134,7 +2134,7 @@ airtime 2
 anthologion 2
 aphagia 1
 antenniferous
-apout 1
+apout 2
 auditor 1
 ammonionitrate 1
 almonership
@@ -2425,7 +2425,7 @@ abator
 adjection
 antechambers
 anticritically
-actionary 1
+actionary 2
 asseverates 1
 acinaciform 1
 amorism
@@ -3941,7 +3941,7 @@ adjectives 1
 acetine 1
 anagogy
 agyiomania
-anaerobiotically
+anaerobiotically 1
 adjoinant 2
 abbreviator 1
 anticipated
@@ -5349,7 +5349,7 @@ aspatia
 authorism
 armageddon
 amphisile
-autoboat
+autoboat 1
 anophthalmia
 actinocarp
 afflated 1
@@ -17752,7 +17752,7 @@ amentia 1
 applique
 appliques
 antinarcotics
-assorters
+assorters 1
 annuloida
 apinae
 antidora 1
@@ -22576,7 +22576,7 @@ addicts 1
 anisoleucocytosis
 ateliotic 2
 atelo
-atelocephalous
+atelocephalous 1
 alternativo 2
 aselline
 ateloglossia 2
