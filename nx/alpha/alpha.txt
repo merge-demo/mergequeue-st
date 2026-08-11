@@ -1957,7 +1957,7 @@ atomisation 1
 acetylating
 acetylative
 archbishopess
-autograft
+autograft 1
 amenders 3
 arguer 1
 acetylbenzoic 1
@@ -2552,7 +2552,7 @@ acolyth
 aculei
 acolythate 1
 ardella
-autoserum
+autoserum 1
 austrasian 1
 acolhuan 1
 absciss
@@ -3617,7 +3617,7 @@ arpent 1
 ajivas 1
 adelantado 3
 adelante
-asterella 2
+asterella 3
 adelarthra 2
 antinion
 assemblance
@@ -6968,7 +6968,7 @@ amende 1
 apostrophic 1
 aptian 1
 airview
-agrypnias 2
+agrypnias 3
 abdicative
 airway 2
 astilbe 1
@@ -9023,7 +9023,7 @@ anticivil 1
 amiably
 allothimorph 2
 abalone 1
-allothimorphic
+allothimorphic 1
 amphisbaenae 3
 aisle 1
 amuses
@@ -9256,7 +9256,7 @@ alocasia 1
 aribine
 aretaics 1
 alodialism
-aerophagist
+aerophagist 1
 alodialist
 autodialers 1
 archdeaconry 2
@@ -10625,7 +10625,7 @@ antiderivative
 anachromasis 2
 amygdalinic
 amygdaloid
-abstractedly 1
+abstractedly 2
 autoerotism 1
 aftershine 1
 acidifier 2
@@ -13113,7 +13113,7 @@ arsonous 1
 aniconic 3
 aniconism
 anicut
-alamodes
+alamodes 1
 armlessly 1
 adenines
 anidian
@@ -16819,7 +16819,7 @@ aphorizes
 ancienter
 approve
 auxiliary
-ambrosiac
+ambrosiac 1
 aphra 1
 aphrodesiac
 abastral 1
@@ -16950,7 +16950,7 @@ affectable 1
 anhima
 approachment 1
 arrive
-autotoxication 1
+autotoxication 2
 abasio 2
 aladinist
 alhagi 1
@@ -18147,7 +18147,7 @@ astigmatically
 alivincular 1
 aquaregia 1
 antizealot
-aquarelle
+aquarelle 1
 aquarial
 antehall 2
 adepter
@@ -19812,7 +19812,7 @@ assaulted
 alecithic 1
 aspires
 anmia 1
-autumnal 1
+autumnal 2
 acanthite
 arseniopleite
 anthropogeographic 1
