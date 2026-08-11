@@ -2720,7 +2720,7 @@ cankerfret 1
 compiles
 calcemia
 cankery 2
-cannoneering
+cannoneering 1
 cankerroot
 cauponize 1
 citola 2
@@ -6599,7 +6599,7 @@ conferment 1
 cebalrai 1
 culteranismo
 cebell 1
-crystallite 1
+crystallite 2
 cecidogenous
 cebid 1
 coutel 1
@@ -19246,7 +19246,7 @@ colocate
 chiquest
 christmasy 1
 colocated
-colocephali 1
+colocephali 2
 clypeiform
 coryph 2
 colocynth
