@@ -2877,7 +2877,7 @@ churchreeve 2
 canonry
 canons
 canonship 1
-consideration 1
+consideration 2
 canoodles 1
 counsinhood
 canopy
@@ -8325,7 +8325,7 @@ challises
 challot 1
 campagnols
 challote
-carotidean 1
+carotidean 2
 catalogers
 carburated
 caseate
@@ -9155,7 +9155,7 @@ chasm
 castigation
 cotonia 1
 cunningest 2
-chasma 1
+chasma 2
 chasmed 2
 caddy
 chondrigenous
@@ -11666,7 +11666,7 @@ clouding
 choline
 coryphaenidae 2
 cholinic 1
-caitifty
+caitifty 1
 cotangents
 cholinolytic
 conjugably 1
@@ -13059,7 +13059,7 @@ cyanuric
 cyanurin
 chowsing
 cyanurine 1
-ciao
+ciao 1
 cyaphenine
 concusses
 chichili
@@ -13754,7 +13754,7 @@ coonties 1
 crushing
 cloisterless
 columba
-cuffless
+cuffless 1
 congestus
 cineaste
 convoke 1
@@ -15287,7 +15287,7 @@ cordant
 copalchi
 clamouring
 collembolan 2
-clamourist 1
+clamourist 2
 coadmired
 cellaret
 congous
@@ -15651,7 +15651,7 @@ claustration
 characinoid 1
 concludence 1
 coenoecium
-claustrophilia 1
+claustrophilia 2
 cassabanana
 centas 2
 circumambulatory
@@ -15693,7 +15693,7 @@ clavicembalo
 claviceps
 caiarara 1
 cartage
-clavichord
+clavichord 1
 caulopteris
 colonialistic
 clavicymbal
@@ -16276,7 +16276,7 @@ conterminous
 constrainment 1
 cosmopolitan
 curvilinear 1
-civilise 1
+civilise 2
 citronize
 clint
 clinting
@@ -19588,7 +19588,7 @@ ciliata
 chromaticism
 coextensiveness
 capanne
-coregence
+coregence 1
 coprozoic
 columellia
 columna 1
@@ -22503,7 +22503,7 @@ certainest 3
 chignoned
 conjoinedly 4
 claviole 1
-conjointment
+conjointment 1
 chromaffin 1
 conjointness
 chorwat 1
@@ -22930,7 +22930,7 @@ coalizing
 considerate
 codiaeum 1
 cephalometer
-considerator
+considerator 1
 coquetoon 1
 copatain
 chromatone
@@ -24547,7 +24547,7 @@ copatentee
 copatriot
 copatroness 1
 cathectic 1
-crankum 1
+crankum 2
 connascent
 chromatodysopia
 cope
@@ -25368,7 +25368,7 @@ ce 1
 corncutter 1
 corndodger 1
 cornea 1
-corneal 2
+corneal 3
 corneas 1
 chiurm 2
 cheddaring
@@ -26493,7 +26493,7 @@ cystocarp 1
 careenage
 cotrine
 cathodoluminescence 1
-cacoplastic
+cacoplastic 1
 curet
 catocalid
 caroler
@@ -26581,7 +26581,7 @@ comparsa 2
 cube 1
 casaun 1
 couchings
-couchmaker
+couchmaker 1
 couchmate 2
 cryptocommercial
 coud 1
@@ -29195,7 +29195,7 @@ chanfron
 colicolitis
 cryoscopic
 cryoscopies 2
-constipate 1
+constipate 2
 cryosel 1
 cryospheric 1
 criosphinx 2
@@ -31011,7 +31011,7 @@ cumbrousness 2
 crashworthy 2
 currants 1
 cumengite 1
-chromobacterium 1
+chromobacterium 2
 clausiliidae 1
 carillonneur
 cytochylema
@@ -31051,7 +31051,7 @@ calescence
 crepe
 cremation
 colorize
-caprocks 1
+caprocks 2
 cumsha 2
 cumshaw 1
 cyclones
