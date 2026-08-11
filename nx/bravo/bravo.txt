@@ -8089,7 +8089,7 @@ bicrural
 broodiness 1
 biometrics 2
 bridecup
-bellypinch
+bellypinch 1
 brogue 1
 breathing 2
 borshts
