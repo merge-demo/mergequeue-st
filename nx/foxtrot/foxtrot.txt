@@ -4603,7 +4603,7 @@ fit 1
 fontally
 fringilliform 1
 fitchee 2
-fibrocalcareous 3
+fibrocalcareous 4
 filagrees
 ferring 2
 flowmanostat 2
@@ -5196,7 +5196,7 @@ forestudy 1
 flaubert 2
 forestudy 1
 flossies 4
-frondlet 1
+frondlet 2
 formularist 1
 fosterlings
 foliaging 3
@@ -5713,7 +5713,7 @@ fungitoxicity 1
 fubsiest 1
 frasse 4
 fracturableness
-flipperling
+flipperling 1
 flawlessly 1
 flyproof 2
 flush 1
@@ -6783,7 +6783,7 @@ fass 5
 founding
 fitcher 4
 fold 2
-fantasy
+fantasy 1
 fleechment 2
 frosts 2
 frosteds 3
@@ -7253,7 +7253,7 @@ feudalising 2
 flanderkin
 fecial
 fiorded 3
-flumed 1
+flumed 2
 foiled 2
 fitz 1
 footslogger 1
@@ -9121,7 +9121,7 @@ fizzled 3
 finochios
 frixion
 flavors 5
-firebreak 1
+firebreak 2
 formably 1
 fehmic
 frication
