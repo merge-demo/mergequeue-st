@@ -5533,7 +5533,7 @@ dwarfing
 dependabilities 1
 dibber 1
 dustfall
-draftable
+draftable 1
 depended 2
 descends 1
 darker 1
