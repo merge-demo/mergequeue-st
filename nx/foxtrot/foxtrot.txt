@@ -37,7 +37,7 @@ fabricator 2
 formularize 2
 flintless 1
 furies 1
-farmscape 3
+farmscape 4
 flick 3
 fervently 4
 finically 2
@@ -5353,7 +5353,7 @@ fraughting 3
 foggily 2
 feedbin 1
 fettles
-frayn
+frayn 1
 flanken 5
 feebleness 1
 fullmouth 1
