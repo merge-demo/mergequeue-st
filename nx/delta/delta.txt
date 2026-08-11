@@ -424,7 +424,7 @@ devaluate 1
 dogfighting 1
 dithered 2
 dorsoanterior
-deadlier
+deadlier 1
 drinker 1
 dairywomen
 daunder
@@ -664,7 +664,7 @@ ditroite 1
 damon
 damosel 2
 drachms
-divorcement 1
+divorcement 2
 decapitalize 2
 damped
 desquamated
@@ -7311,7 +7311,7 @@ decarbonating 1
 deckings 1
 dishevely
 durene 1
-depilate 2
+depilate 3
 dairies
 dialogically
 dalesmen 4
@@ -8170,7 +8170,7 @@ deywoman 1
 dermalith
 disenorm 2
 dauby
-diaconica
+diaconica 1
 depotentiation
 dubiously 2
 dragooning
