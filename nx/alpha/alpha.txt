@@ -1905,7 +1905,7 @@ allseed 1
 awn 1
 antitabetic 1
 avalent
-acerval
+acerval 1
 aggressions
 antiphysic 1
 acervate
@@ -3261,7 +3261,7 @@ antimarian 1
 alstonine 2
 assident
 antennary
-abstersion
+abstersion 1
 aphis
 anisometropia 1
 ashlar
@@ -10130,7 +10130,7 @@ alumin
 acidyl
 antiluetic
 antsigne 3
-aspirin
+aspirin 1
 atmological 1
 aggadic
 archaeopithecus
@@ -14993,7 +14993,7 @@ anadrom
 apagoges
 athletehood
 alexas 1
-anathematism
+anathematism 1
 anticonstitutionally
 amorosity
 anticontagionist 1
@@ -20222,7 +20222,7 @@ appro 1
 apetaly
 areroscope 1
 achromatic 2
-arriere 3
+arriere 4
 arythmias
 axin 1
 arriet 1
@@ -24199,7 +24199,7 @@ antherless
 autolithograph 1
 autoinfection
 alnein 3
-anhydraemia 2
+anhydraemia 3
 autolyzate 2
 autolyzes 2
 autoloader
