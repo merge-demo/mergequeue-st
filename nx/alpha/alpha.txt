@@ -913,7 +913,7 @@ ambisexualities
 adjt 1
 absinthole 1
 amberite 5
-amphivasal
+amphivasal 1
 angiohypertonia
 amphineurous
 aeronomy
@@ -1081,7 +1081,7 @@ abuleia 2
 antitorpedo
 abulia
 atticizing 2
-acustom 1
+acustom 2
 axhammered 1
 averager 1
 accolent 1
@@ -3417,7 +3417,7 @@ adterminal
 antiphlogistic
 asternal 1
 adamsia 2
-adiathermanous 2
+adiathermanous 3
 absinthismic 2
 adamsites 3
 appeasableness
@@ -3928,7 +3928,7 @@ aquacades
 ansae 1
 asperugo 1
 arthrosyrinx
-arbovirus
+arbovirus 1
 acetification
 analcite 1
 alphorns
@@ -4028,7 +4028,7 @@ amin 2
 adlumidine
 amunam 1
 antepast 1
-audios 1
+audios 2
 autoimmunized 3
 adlumin 1
 acierage
@@ -5464,7 +5464,7 @@ arcosolia 1
 aspirator 1
 anguine 3
 aeonial
-aprioristic 1
+aprioristic 2
 aureately 1
 afresca 1
 alkalizable
@@ -8208,7 +8208,7 @@ acetonylacetone 1
 algophobia 2
 ann 3
 algor
-alienor
+alienor 1
 absorptive 2
 almsmoney
 albino
@@ -9053,7 +9053,7 @@ acrimony 1
 aefauld 1
 adscriptitius
 anserin 1
-allotropic 1
+allotropic 2
 ailanthus
 abusively
 allotropical 1
@@ -9716,11 +9716,11 @@ amphiblastic 1
 alurgite
 autocephalic
 asepalous 1
-altiplanicie
+altiplanicie 1
 aphthonite 1
 antennule 2
 anglicans 1
-alvar
+alvar 1
 anecdotist
 asmack
 anaemic
@@ -12663,7 +12663,7 @@ anestrous
 anethene
 albites
 anethols
-avertible 1
+avertible 2
 anetiological 1
 aneuch 2
 arhatship 2
@@ -12682,7 +12682,7 @@ allochroite 1
 algosis
 aesthesia 1
 aneurisms 1
-arithmetician 2
+arithmetician 3
 anfract
 anfractuose 2
 anchusin
@@ -13062,7 +13062,7 @@ abbreviating 1
 aluniferous
 aeroballistics
 arrowy 3
-agglomeratic
+agglomeratic 1
 anhedral 2
 anhemitonic 2
 aborting
@@ -13979,7 +13979,7 @@ amzel 3
 antagonism 1
 alef 2
 alligators
-antagonistical
+antagonistical 1
 airedale 1
 awestricken 2
 antagonistically
@@ -15293,7 +15293,7 @@ araneiform
 accent 1
 attainments 1
 armload
-afrogaea 2
+afrogaea 3
 antigigmanic
 annexment 2
 autonitridation 3
@@ -20989,7 +20989,7 @@ accourage
 armorless
 ascensionist 1
 ascaridol 1
-ascensions 1
+ascensions 2
 arenae 1
 archgenethliac 1
 axeman
@@ -24166,7 +24166,7 @@ autoimmunize 1
 autoindexing 2
 artificers 3
 autoinfusion 1
-autoinoculable
+autoinoculable 1
 antiritualism 1
 aldermanries 2
 abrus
@@ -25064,7 +25064,7 @@ antiserums
 aworry 2
 antelation 1
 anaesthetist
-arcadianism
+arcadianism 1
 aguinaldo
 adaptations 1
 aggregation 1
