@@ -4846,7 +4846,7 @@ addnl 2
 aero 3
 ausones
 aspermatism 1
-aeroballistic 1
+aeroballistic 2
 aerobate 1
 aerobatic 3
 arsenism 1
@@ -5164,7 +5164,7 @@ aestivating 1
 aestive
 aestuate 1
 ahchoo
-aestus 1
+aestus 2
 alamos
 abassin 1
 anend
@@ -8565,7 +8565,7 @@ acervately 1
 antipodagric
 analytical
 anopisthographic 1
-assise
+assise 1
 amylophagia 1
 availabile 1
 aphoristically 2
@@ -9235,7 +9235,7 @@ audit 1
 abiologically
 arriviste 1
 antiknock
-almury 2
+almury 3
 alnage
 alnaschar
 aposiopestic
@@ -10986,7 +10986,7 @@ admin 1
 atwin 1
 acquainted
 arched
-amoebaeum 2
+amoebaeum 3
 athogen 3
 amoebalike
 amoebas
@@ -14529,7 +14529,7 @@ anthospermum
 anoplotheroid
 anthropography
 antalkalies 1
-animatism
+animatism 1
 acritochromacy 2
 algologically 1
 adnoun
@@ -15897,7 +15897,7 @@ awkward
 antiportable 1
 aclemon 1
 adenoid 1
-acrophony
+acrophony 1
 abutter
 anglers
 abrader 1
@@ -21819,7 +21819,7 @@ animals 1
 antiquarium 1
 asseveration 1
 apaesthetic
-asseveratory
+asseveratory 1
 asshead
 assi 1
 archiblastula
@@ -23122,7 +23122,7 @@ attemperament
 aizle 2
 absterged 1
 acephalan 1
-abhenrys
+abhenrys 1
 attempered
 anaxon
 aleikum
