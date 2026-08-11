@@ -1346,7 +1346,7 @@ bluecap 1
 bunks
 bacteriophagous
 bandwagon
-bobbles
+bobbles 1
 bethlehem
 bede
 bookdealer 2
@@ -4746,7 +4746,7 @@ badmash
 bangs 1
 bedlams
 bienseance
-buckpot
+buckpot 1
 bedlar 1
 bazoo
 bibliotic 1
