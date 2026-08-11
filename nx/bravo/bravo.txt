@@ -886,7 +886,7 @@ bauxites
 bicolour 2
 bagful
 baggagemaster 1
-bedamning
+bedamning 1
 brachydome
 baggager
 benzidin 1
@@ -7520,7 +7520,7 @@ blastocolla
 barrelmaking 3
 boneache 1
 bourbonism
-bibbing
+bibbing 1
 bestower 3
 betaine 3
 businessman 1
