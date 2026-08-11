@@ -19887,7 +19887,7 @@ aiguellette
 asymbiotic 1
 aeolis
 armlike
-armlock
+armlock 1
 autoconvection 2
 armoracia
 albertite
