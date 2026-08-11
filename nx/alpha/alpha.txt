@@ -4846,7 +4846,7 @@ addnl 2
 aero 3
 ausones
 aspermatism 1
-aeroballistic 1
+aeroballistic 2
 aerobate 1
 aerobatic 3
 arsenism 1
@@ -8565,7 +8565,7 @@ acervately 1
 antipodagric
 analytical
 anopisthographic 1
-assise
+assise 1
 amylophagia 1
 availabile 1
 aphoristically 2
