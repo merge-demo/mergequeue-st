@@ -4593,7 +4593,7 @@ carnivals
 carnivoral
 carnivore 1
 carnivorism
-cordialness
+cordialness 1
 carnivorously 1
 comart 1
 carnivorousness 1
@@ -9126,7 +9126,7 @@ commonefaction 1
 charts 2
 cozening 1
 caulite
-coderive
+coderive 1
 cerebrovisceral
 churchlier 1
 conversationize
