@@ -956,7 +956,7 @@ alloxy
 animous
 appeasably
 absonous 1
-absorb 1
+absorb 2
 adulterously 1
 attracted
 anticivic 2
@@ -1318,7 +1318,7 @@ autosomally
 advectitious 1
 affrontee
 acatamathesia
-artinskian 2
+artinskian 3
 azurean 2
 acataphasia
 alstonidine 2
@@ -6345,7 +6345,7 @@ amending 1
 aggress 1
 artsman 1
 agrarianly 1
-agrauleum 2
+agrauleum 3
 agariciform
 agreation 1
 attender
@@ -22152,7 +22152,7 @@ antebrachium
 alcavala
 asthenia
 amours
-amoeboid
+amoeboid 1
 anarchically
 abampere 1
 audiograms 1
