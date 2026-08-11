@@ -73,7 +73,7 @@ ferrocyanide 3
 furthers
 flysch
 fordeal 2
-fullfaces 2
+fullfaces 3
 facundity 1
 facemark 5
 flunkeyhood 1
@@ -2851,7 +2851,7 @@ fatter
 freeways 3
 fizzy 3
 fatigating 3
-fortyfives
+fortyfives 1
 fivebar
 faithed 1
 firmisternal
@@ -4603,7 +4603,7 @@ fit 1
 fontally
 fringilliform 1
 fitchee 2
-fibrocalcareous 3
+fibrocalcareous 4
 filagrees
 ferring 2
 flowmanostat 2
@@ -4638,7 +4638,7 @@ fluctuate 1
 fossane
 fizelyite 1
 fitzroya
-filicides 3
+filicides 4
 federatively 2
 faussebraye 1
 fatherless 2
@@ -5196,7 +5196,7 @@ forestudy 1
 flaubert 2
 forestudy 1
 flossies 4
-frondlet 1
+frondlet 2
 formularist 1
 fosterlings
 foliaging 3
@@ -5475,7 +5475,7 @@ foxed 2
 flem
 farkleberry 3
 fluozirconic 1
-fernbrake
+fernbrake 1
 ferreter 2
 flora 1
 funniness
@@ -5713,7 +5713,7 @@ fungitoxicity 1
 fubsiest 1
 frasse 4
 fracturableness
-flipperling
+flipperling 1
 flawlessly 1
 flyproof 2
 flush 1
@@ -6783,7 +6783,7 @@ fass 5
 founding
 fitcher 4
 fold 2
-fantasy
+fantasy 1
 fleechment 2
 frosts 2
 frosteds 3
@@ -7827,7 +7827,7 @@ florette 2
 fluidimeter 2
 flashness 3
 fashes 1
-fuzed
+fuzed 1
 frounces 1
 forenote 3
 fastness 2
@@ -9121,7 +9121,7 @@ fizzled 3
 finochios
 frixion
 flavors 5
-firebreak 1
+firebreak 2
 formably 1
 fehmic
 frication
@@ -9466,7 +9466,7 @@ furacana 2
 flammed
 franz 2
 felidae 2
-foliiferous 2
+foliiferous 3
 fliers 2
 foodstuff 4
 foreteeth
@@ -10229,7 +10229,7 @@ faros 1
 foursome 2
 frog 1
 frutilla 2
-freudianism 3
+freudianism 4
 flopovers 1
 fervidness 3
 frogbit 1
@@ -10470,7 +10470,7 @@ fidibus 1
 folks 3
 forespecified 2
 flodge 1
-filmize 3
+filmize 4
 forfex 1
 finnesko 3
 fillagree 1
@@ -10852,7 +10852,7 @@ failures 2
 formicarioid 7
 fortescure
 fulcruming 2
-feeable 5
+feeable 6
 fanatical 2
 fulfiller 2
 flambeaux 2
