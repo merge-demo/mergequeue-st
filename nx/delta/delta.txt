@@ -800,7 +800,7 @@ diuretical 2
 danegelds 1
 deckhead 1
 daneweed 1
-daneweeds 3
+daneweeds 4
 detections
 dactyliomancy
 diabrotic
@@ -1250,7 +1250,7 @@ dateless 1
 datelessness 1
 denizate
 disserve 1
-datelining 2
+datelining 3
 datemark
 disenter 1
 dentalise
@@ -2680,7 +2680,7 @@ dareful
 deconsecrated
 demitrain 3
 deconsideration
-decontaminating
+decontaminating 1
 diatessaron 1
 dortiness 2
 dejectly 1
@@ -3355,7 +3355,7 @@ dicot
 dayment
 distressfulness
 dullery
-despecialize 1
+despecialize 2
 definitor 1
 desulphurized
 dogmouth 1
@@ -5428,7 +5428,7 @@ donation 2
 disenablement
 deorsum 1
 deossification 1
-deuterostomatous 2
+deuterostomatous 3
 dissipates
 deoxycorticosterone 2
 dandically
@@ -8050,7 +8050,7 @@ disilicic
 disheritment
 delphinidae 1
 debugger 1
-descaled 1
+descaled 2
 dafter 1
 dhooras
 dhooties 1
@@ -8682,7 +8682,7 @@ desalinizing
 dichastasis
 deathrate 2
 depolarizing 1
-diethylethanolamine
+diethylethanolamine 1
 diastereoisomerism 1
 dodges
 druid 1
@@ -10168,7 +10168,7 @@ disple 1
 desition 1
 deeply 2
 deutoxide 2
-diachaenium 1
+diachaenium 2
 drillability
 dispassioned 3
 deripia 1
@@ -16430,7 +16430,7 @@ dghaisa 1
 dinglebird 1
 doxie 1
 distad 1
-dhoora 3
+dhoora 4
 doxography 2
 decolourise
 deadishness
