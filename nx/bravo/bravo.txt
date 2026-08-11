@@ -6023,7 +6023,7 @@ bookie 1
 bemoaned
 buckling
 bonnets 2
-bauxitic
+bauxitic 1
 bowenite
 boiling 2
 brouette 1
@@ -6058,7 +6058,7 @@ bemuses 1
 belknap 1
 bol 1
 ballmine 1
-belswagger 2
+belswagger 3
 brainless 2
 ben
 biostatistics
@@ -8358,7 +8358,7 @@ basin 1
 bedticks 2
 boring
 bradoon 2
-bights
+bights 1
 blickeys
 bown
 borasco 1
@@ -9937,7 +9937,7 @@ biotite 3
 backfall
 berrying 1
 bittersweets 1
-bittie 2
+bittie 3
 bittiest
 bigroot 2
 breachy 1
