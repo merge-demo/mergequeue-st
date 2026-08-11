@@ -1708,7 +1708,7 @@ ceraunia
 calorifier 1
 calorimetry 1
 calorimetrically
-calorimotor 1
+calorimotor 2
 calorist
 calorizing 1
 cawing
@@ -3430,7 +3430,7 @@ capric
 checkhook
 capriccetto 1
 capricci
-curliewurlie 1
+curliewurlie 2
 campa 1
 capriccioso 2
 carers
@@ -5830,7 +5830,7 @@ category 1
 choledoch 1
 cinurous 1
 chieftainship 2
-cylindrocephalic
+cylindrocephalic 1
 categoric
 coliidae
 chondrified 2
@@ -17503,7 +17503,7 @@ crotching
 coburg
 cobweb
 cerion
-coemployed
+coemployed 1
 centavos 1
 cobwebby
 coca
@@ -23675,7 +23675,7 @@ contractation
 contractedly
 contractedness
 carbolise 1
-contractility
+contractility 1
 contractions
 contractly
 contractor
@@ -25003,7 +25003,7 @@ celidographer
 corchat 2
 corchorus
 corcyraean
-corcle 2
+corcle 3
 cowhand
 canalizations
 casually 2
@@ -27980,7 +27980,7 @@ croucher
 charactonym 1
 craftsmanship
 craftsmaster
-cistophori
+cistophori 1
 craftspeople 1
 concubinaries 1
 cheeriness 1
@@ -28672,7 +28672,7 @@ crenately
 cortins 1
 crotches 4
 crenation
-cellblocks 2
+cellblocks 3
 clarisse
 consequentially
 classific 1
@@ -29286,7 +29286,7 @@ checking
 cryptococci 1
 caulophylline
 clout 1
-cicoree 1
+cicoree 2
 calibration 1
 cryptococcosis
 chinband 1
@@ -29931,7 +29931,7 @@ crossleted
 coelenterata 1
 carcase 1
 cuculidae
-crosslight 1
+crosslight 2
 crosslike 2
 carbosilicate
 crossline
@@ -30718,7 +30718,7 @@ couturire
 compassment 1
 comedist
 chides
-cued
+cued 1
 carbolineum 2
 chiropterygium
 coeffects
