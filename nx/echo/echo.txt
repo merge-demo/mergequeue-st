@@ -540,7 +540,7 @@ est 2
 endotheliotoxin 2
 endless 1
 echinoid 2
-ethiopians 1
+ethiopians 2
 eavesdropper 1
 encrimson 1
 echinomys 4
@@ -4064,7 +4064,7 @@ esthetophore
 emboil 1
 equitant 1
 erotophobia 2
-exteriorize
+exteriorize 1
 epiphonemae 3
 energeticist 1
 empathized 2
@@ -12207,7 +12207,7 @@ enlistee 1
 empory
 exeat 1
 epigraphs 1
-exec
+exec 1
 electrophonic
 epiphonemas
 eudemonist 1
