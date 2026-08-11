@@ -1957,7 +1957,7 @@ atomisation 1
 acetylating
 acetylative
 archbishopess
-autograft
+autograft 1
 amenders 3
 arguer 1
 acetylbenzoic 1
@@ -2552,7 +2552,7 @@ acolyth
 aculei
 acolythate 1
 ardella
-autoserum
+autoserum 1
 austrasian 1
 acolhuan 1
 absciss
@@ -9023,7 +9023,7 @@ anticivil 1
 amiably
 allothimorph 2
 abalone 1
-allothimorphic
+allothimorphic 1
 amphisbaenae 3
 aisle 1
 amuses
@@ -9256,7 +9256,7 @@ alocasia 1
 aribine
 aretaics 1
 alodialism
-aerophagist
+aerophagist 1
 alodialist
 autodialers 1
 archdeaconry 2
@@ -10625,7 +10625,7 @@ antiderivative
 anachromasis 2
 amygdalinic
 amygdaloid
-abstractedly 1
+abstractedly 2
 autoerotism 1
 aftershine 1
 acidifier 2
@@ -13113,7 +13113,7 @@ arsonous 1
 aniconic 3
 aniconism
 anicut
-alamodes
+alamodes 1
 armlessly 1
 adenines
 anidian
@@ -14996,9 +14996,9 @@ alexas 1
 anathematism 1
 anticonstitutionally
 amorosity
-anticontagionist 1
+anticontagionist 2
 agrin 1
-antispadix 1
+antispadix 2
 anticontagiously
 arizonians
 agileness 1
@@ -16819,7 +16819,7 @@ aphorizes
 ancienter
 approve
 auxiliary
-ambrosiac
+ambrosiac 1
 aphra 1
 aphrodesiac
 abastral 1
@@ -16950,7 +16950,7 @@ affectable 1
 anhima
 approachment 1
 arrive
-autotoxication 1
+autotoxication 2
 abasio 2
 aladinist
 alhagi 1
@@ -17189,7 +17189,7 @@ amoebiasis 2
 archgunner 5
 ambrosially
 apomecometer
-apomictical 1
+apomictical 2
 animism
 advena
 aquilegia
@@ -19577,7 +19577,7 @@ arvicole
 aphyllies 1
 askari
 arianist
-arianistic 1
+arianistic 2
 alas
 affirmer 1
 assurgent 1
@@ -19944,7 +19944,7 @@ anthogenetic 2
 anchusine
 absentia 1
 antidumping
-araliophyllum 4
+araliophyllum 5
 applauding
 aryballos
 azlons
@@ -21153,7 +21153,7 @@ apocryphate 2
 arboriculturist
 affirmingly
 aseity
-aselar 1
+aselar 2
 associator
 alternately 2
 asellate
@@ -21783,7 +21783,7 @@ abelmusk
 adiantiform
 asseveratingly
 argenticyanide
-alish
+alish 1
 apsidally
 amalaita
 assertress
@@ -22497,7 +22497,7 @@ aswirl 1
 ammoniacum
 adenohypophysial
 alangin
-arrestor 3
+arrestor 4
 arecaidin
 ata
 anoas
@@ -24351,7 +24351,7 @@ acetophenetide 1
 autoradiogram 1
 autoradiograph
 autoreflection
-awakes
+awakes 1
 assignors 1
 asterochiton 1
 allopurinol 2
@@ -25324,7 +25324,7 @@ azoles
 aleph
 azon 1
 aegirinolite
-astrophobia
+astrophobia 1
 azons 1
 antisplitting 2
 ampoule
