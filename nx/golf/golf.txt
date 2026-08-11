@@ -1405,7 +1405,7 @@ gipsying
 guilloche 5
 garreteer 1
 greenless
-gola
+gola 1
 garret 1
 gipsire 2
 goodnight
@@ -1763,7 +1763,7 @@ gastroscopist 1
 gavelled 1
 gasterosteid 2
 gynandrism 2
-gutterblood 3
+gutterblood 4
 gelatinotype 2
 grippelike 1
 ghyll 2
@@ -4582,7 +4582,7 @@ gastrodialysis 2
 gaonic 1
 gasconade 1
 gummosis 1
-gentrice 1
+gentrice 2
 graphophobia 3
 gyronny
 gamophyllous 1
@@ -9638,7 +9638,7 @@ griddling 2
 grubstakes 2
 glycyrize 2
 guestmaster
-glumales 2
+glumales 3
 gorsiest 3
 gowfer 1
 gerardia 1
