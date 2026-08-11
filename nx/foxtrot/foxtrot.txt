@@ -500,7 +500,7 @@ fumify 3
 fassaite
 feodum 3
 fishbone 1
-fakirs
+fakirs 1
 falbelo 1
 flavone 1
 fioretti 4
@@ -8478,7 +8478,7 @@ formalist 1
 foreboded
 forpine 3
 freethink 1
-fictitiously 1
+fictitiously 2
 felonsetter 3
 febronian 4
 fique 2
@@ -10123,7 +10123,7 @@ feudatary 2
 firster 1
 foredecree
 formalise
-fearfulness 2
+fearfulness 3
 finfishes 2
 flightshot 4
 faussebrayed 2
