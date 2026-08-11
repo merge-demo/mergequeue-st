@@ -1346,7 +1346,7 @@ bluecap 1
 bunks
 bacteriophagous
 bandwagon
-bobbles
+bobbles 1
 bethlehem
 bede
 bookdealer 2
@@ -4746,7 +4746,7 @@ badmash
 bangs 1
 bedlams
 bienseance
-buckpot
+buckpot 1
 bedlar 1
 bazoo
 bibliotic 1
@@ -5648,7 +5648,7 @@ bruce
 barristerial 1
 backspacefile
 brominated 1
-bathrobe 3
+bathrobe 4
 busheller 1
 bovovaccination
 bolognan 2
@@ -9536,7 +9536,7 @@ bogota 2
 blackened
 birthright 1
 baffeta 1
-births
+births 1
 birthstones
 bulliform 1
 birthstool 1
@@ -10731,7 +10731,7 @@ bullets 1
 backswimmer 1
 box 1
 biti 1
-benzalhydrazine 4
+benzalhydrazine 5
 balian 1
 buchite 1
 bandfish 1
@@ -11936,7 +11936,7 @@ betutor 1
 bimeby 1
 bourns
 bailiff 1
-bogart 1
+bogart 2
 boosies
 bogbeans 1
 bordels
@@ -13536,7 +13536,7 @@ baccae
 blackbrush 2
 barometrography 1
 blundered 2
-bielid 2
+bielid 3
 beleft 2
 boisterousness 3
 becursing 1
@@ -17154,7 +17154,7 @@ broll
 bezaleel
 bagrationite
 bombards
-bullyism 2
+bullyism 3
 bintangor 2
 brushmaking 1
 bullion
@@ -17654,7 +17654,7 @@ britchel 1
 belady
 blowier
 barrelfish
-bellipotent 1
+bellipotent 2
 byte 1
 burked
 bonnetman 1
