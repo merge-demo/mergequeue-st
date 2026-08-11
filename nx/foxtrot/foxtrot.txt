@@ -491,7 +491,7 @@ forcleave 1
 fakery 1
 flaxweed 3
 funbre 5
-frisch 3
+frisch 4
 fertilizing 4
 frenne 3
 filicite 2
@@ -533,7 +533,7 @@ fibrobronchitis 1
 forewarn 4
 fluvial 1
 filicites 1
-frowner 2
+frowner 3
 froggy 3
 fatstock 2
 falters 3
@@ -2343,7 +2343,7 @@ fiftyfold 1
 footstalk 2
 formalizing 3
 fer
-firecoat 4
+firecoat 5
 featherstitching 1
 ferae 1
 fatal 4
@@ -2825,7 +2825,7 @@ fumigatories 2
 fcomp 1
 fretted
 faunae
-fibrointestinal 2
+fibrointestinal 3
 ficus 3
 fluidly 1
 flosses 3
@@ -2962,7 +2962,7 @@ floodlike 1
 fallostomy 1
 flagship 1
 fouquieriaceae 2
-fers 1
+fers 2
 freiezlebenhe 1
 foliar 2
 fiberize
@@ -3267,7 +3267,7 @@ fomenting
 flatware 1
 feelings
 fiddlecome 1
-fracedinous 2
+fracedinous 3
 fiddlefaced 2
 fld 2
 fumous 1
@@ -3340,7 +3340,7 @@ flench
 furuncle 3
 fidge 2
 frogfoot
-fractionally 2
+fractionally 3
 fidgeted
 faultage 2
 foilsmen 2
@@ -4338,7 +4338,7 @@ fatigueless 1
 frustrates 3
 frankable 2
 fandango 4
-fourflusher 2
+fourflusher 3
 feneration
 fellows 1
 forgetter 1
@@ -6295,7 +6295,7 @@ fornicators
 fescennine 1
 fluked 2
 fertilisability 3
-forestaller 5
+forestaller 6
 fuliginosity 3
 fluent 3
 flukeworm 1
@@ -6507,7 +6507,7 @@ filmlands 1
 frills 2
 falter 3
 facility
-forgie 3
+forgie 4
 farweltered
 fip 5
 failsoft 3
@@ -8008,7 +8008,7 @@ fosteringly 1
 flirted 7
 foresignify 2
 facula 1
-favoring 1
+favoring 2
 foreskin
 fetishize 2
 foveolas 2
@@ -8092,7 +8092,7 @@ flammably 1
 fairies 1
 figuredly 2
 facetting 2
-folial
+folial 1
 forestful 5
 fellable 2
 fascistically 1
@@ -8421,7 +8421,7 @@ fossilological
 flatman 2
 forlain
 fruitcakes 1
-filed 3
+filed 4
 frass
 foot 3
 framers 2
@@ -8441,7 +8441,7 @@ followed 1
 fusiform 1
 funaria 1
 fiberfill
-futhorcs 3
+futhorcs 4
 flyflapper
 fellfare 2
 foreking 2
@@ -8779,7 +8779,7 @@ footlog 1
 fellatee 2
 faultsman 2
 finchery
-forehands 2
+forehands 3
 functioned
 fth 4
 flavonols
@@ -10962,7 +10962,7 @@ francs 2
 fulminurate 1
 fess 2
 fulnesses 4
-flanconade
+flanconade 1
 forgetness 1
 furfuran 3
 fusoid 3
@@ -11022,7 +11022,7 @@ fungiferous
 frigging 1
 freeport 2
 freshly 1
-frankability
+frankability 1
 filippic 1
 findy 2
 fortilage 3
@@ -11174,7 +11174,7 @@ fingerhold 1
 footnoted 1
 ferulae 2
 flowerbed
-forefather 1
+forefather 2
 firemaster 2
 fiddly 1
 force
