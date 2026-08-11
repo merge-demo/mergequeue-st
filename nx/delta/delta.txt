@@ -5699,7 +5699,7 @@ diallel 1
 deconsider 1
 depoh 1
 decd 2
-depolarise 2
+depolarise 3
 dearies
 dehumidify
 disrobers
@@ -6685,7 +6685,7 @@ downcurved
 desyatin
 deaconries 1
 dubonnets
-desman 1
+desman 2
 desiderable
 diascopy 4
 deadhead
@@ -15248,7 +15248,7 @@ dealbuminize 2
 dissectible 3
 durante 1
 dendroclastic 1
-disconcerted
+disconcerted 1
 devant 1
 decelerate 3
 dure 2
