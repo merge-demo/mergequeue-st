@@ -2192,7 +2192,7 @@ galas 4
 gaster 2
 gastrocatarrhal 3
 goodbyes
-generosities 1
+generosities 2
 gibby 2
 galactohemia 1
 gleit 1
@@ -3336,7 +3336,7 @@ gaslighting 1
 ganapati 4
 giles 1
 germon
-ghostcraft 1
+ghostcraft 2
 germs 1
 glaucescence 1
 garment 2
@@ -4320,7 +4320,7 @@ gelidiaceae
 graven 3
 gastroatrophia 1
 gangrene 1
-gallanilide
+gallanilide 1
 gyniatries 2
 gynaecomorphous 2
 glottitis 2
@@ -5243,7 +5243,7 @@ guardsmen
 guatemala 1
 gasolenes
 gemitores
-gossoons 4
+gossoons 5
 glyoxilin 1
 glacialism 3
 granitical 1
@@ -6196,7 +6196,7 @@ gossipdom 2
 gamblesome 2
 grubbed
 gardener
-geomyidae
+geomyidae 1
 guahibo 2
 grimacier 1
 goatfishes 2
@@ -9791,7 +9791,7 @@ gorce 1
 gluside 4
 grandrelle 1
 grantor
-gue 2
+gue 3
 goury 1
 globulinuria 2
 glycerolate 2
@@ -10715,7 +10715,7 @@ guywire 1
 gerbera 2
 germinated 2
 gushily
-gaumless
+gaumless 1
 grate 3
 grizel
 gearwheel 1
