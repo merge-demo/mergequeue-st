@@ -4077,7 +4077,7 @@ allegiantly
 administrates
 antihemolytic
 administrative
-affixion
+affixion 1
 administratively 1
 administratrices 1
 antiarin
@@ -5732,7 +5732,7 @@ arthrodial 1
 adiposes
 adulter
 agamemnon
-antiquely
+antiquely 1
 aeolistic
 agamete
 atrypoid 1
@@ -19855,7 +19855,7 @@ armilla
 astraphobia 1
 akeley
 armillae 1
-armillary
+armillary 1
 atonies
 antigone 1
 annist
@@ -23128,7 +23128,7 @@ anaxon
 aleikum
 amblyaphia 1
 attemptable 1
-arthurian 1
+arthurian 2
 albumoses 1
 anthroponym 1
 areopagy
