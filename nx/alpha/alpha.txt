@@ -4077,7 +4077,7 @@ allegiantly
 administrates
 antihemolytic
 administrative
-affixion
+affixion 1
 administratively 1
 administratrices 1
 antiarin
@@ -4188,7 +4188,7 @@ aortoiliac 1
 adnominal 1
 agrised 2
 adnominally 1
-abduct
+abduct 1
 aurochses 3
 acetary
 adolescence 1
@@ -5732,7 +5732,7 @@ arthrodial 1
 adiposes
 adulter
 agamemnon
-antiquely
+antiquely 1
 aeolistic
 agamete
 atrypoid 1
@@ -7408,7 +7408,7 @@ antipapist 1
 amitosis 1
 alienate
 achromat
-attentate
+attentate 1
 albetad 1
 asaphus 3
 aquiparous 1
@@ -8173,7 +8173,7 @@ amenage
 antioptimism
 amaterialistic 2
 autobasidium
-alcapton 1
+alcapton 2
 algiomuscular
 algoesthesiometer 1
 anteing
@@ -8926,7 +8926,7 @@ amidosuccinamic
 amorphi
 automatically 4
 anguimorpha
-alloerotism 2
+alloerotism 3
 adenoidectomy 2
 analgia 1
 allogene 2
@@ -13801,7 +13801,7 @@ acoumeter 1
 allobroges
 approved 2
 amusable
-abortuses 2
+abortuses 3
 ambisyllabic 1
 altimeter 2
 accrementition
@@ -14063,7 +14063,7 @@ aht
 antebrachial
 authorizers 2
 autoing 2
-arouses
+arouses 1
 aggrandized 1
 amouret 1
 antecavern
@@ -14266,7 +14266,7 @@ ananter
 anteroinferior
 askewgee 1
 antipart 2
-anterointernal
+anterointernal 1
 anterolateral 1
 antiferroelectric
 anapneic 1
@@ -18322,7 +18322,7 @@ aestivation
 almsdeed 2
 arachnida 1
 accidence 2
-astrophyton 1
+astrophyton 2
 ampullitis 1
 arachnism 1
 apotheoses 1
@@ -19855,7 +19855,7 @@ armilla
 astraphobia 1
 akeley
 armillae 1
-armillary
+armillary 1
 atonies
 antigone 1
 annist
@@ -22831,7 +22831,7 @@ allheal 1
 asherah 2
 anima
 atmosphereful 2
-anatomization 2
+anatomization 3
 apachite 1
 agamic 1
 apanaging 1
@@ -23128,7 +23128,7 @@ anaxon
 aleikum
 amblyaphia 1
 attemptable 1
-arthurian 1
+arthurian 2
 albumoses 1
 anthroponym 1
 areopagy
@@ -24513,7 +24513,7 @@ ag
 anticlericalist
 antimoniated 2
 autoxidation
-autoxidator 1
+autoxidator 2
 autoxidizability
 autoxidizable 3
 autoxidize
