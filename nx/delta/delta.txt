@@ -2382,7 +2382,7 @@ dwyka
 deciders
 diphenylguanidine 2
 dubitante 1
-disownment
+disownment 1
 diplontic
 dismantlement 2
 dayakker
@@ -4152,7 +4152,7 @@ determinateness 1
 denigrators 2
 dicyclica 1
 discharger
-deadlatch 1
+deadlatch 2
 digestively
 deloo 1
 deloul 1
@@ -4851,7 +4851,7 @@ demonography 1
 demonographies 1
 denature
 dramseller 2
-deactivator 2
+deactivator 3
 drupose
 dismality
 dissimilation 1
@@ -10745,7 +10745,7 @@ dipterygian
 dipteryx 1
 deinodontidae 2
 dipterocarp
-dipterocarpaceae
+dipterocarpaceae 1
 dartingly 1
 dipterocarpaceous 1
 deportee
@@ -11101,7 +11101,7 @@ dreparnaudia 2
 dosain
 donating
 disattaint 2
-disattune
+disattune 1
 defiling 1
 diplomacy 1
 dysautonomia
@@ -14223,7 +14223,7 @@ deodorizing
 defenselessly 1
 derotrematous 2
 disyoked 1
-doublet
+doublet 1
 disvisor 2
 dungs 1
 dynamoelectric 2
