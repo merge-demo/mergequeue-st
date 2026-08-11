@@ -243,7 +243,7 @@ backslides
 bacillaceae 1
 bacillariaceae
 baldric 2
-buried 3
+buried 4
 blotless
 balancedness 1
 brontosaur 1
@@ -5832,7 +5832,7 @@ bemata
 beleaps 1
 bestorm 2
 bldg 1
-bellicism 1
+bellicism 2
 beyonds 2
 buqshas 2
 bromometry 2
@@ -9556,7 +9556,7 @@ borussian 2
 bachelorize 3
 besputter
 baister
-bicipitous
+bicipitous 1
 barbacoan 3
 bys
 basidium 2
@@ -10856,7 +10856,7 @@ blickie 1
 blickies 1
 britskas 1
 bloodlike 1
-belauds
+belauds 1
 blastomycetic 3
 blowgun 2
 blighters 1
@@ -11547,7 +11547,7 @@ blunket 2
 brutalism 2
 blunnen
 blunt
-barristress 1
+barristress 2
 befuddlements 2
 blunthearted
 bonaire 1
@@ -14694,7 +14694,7 @@ balletically
 bogle 1
 bathic 1
 broilingly
-buffets
+buffets 1
 babion 1
 brasilins 4
 bigotedness
@@ -17482,7 +17482,7 @@ buprestis
 brob
 briskening
 bragwort 2
-biteless 2
+biteless 3
 biscotin 2
 betes 2
 bioecologist
