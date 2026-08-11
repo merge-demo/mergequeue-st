@@ -1312,7 +1312,7 @@ cunea 2
 calaverite
 caliber 1
 compulsatory 1
-calibers 3
+calibers 4
 colunar 1
 calibrated
 calibrater
@@ -3430,7 +3430,7 @@ capric
 checkhook
 capriccetto 1
 capricci
-curliewurlie 1
+curliewurlie 2
 campa 1
 capriccioso 2
 carers
@@ -4386,7 +4386,7 @@ constructs
 canichana
 coppers
 culvertage
-cyclase
+cyclase 1
 confidentiality
 cyberneticists
 cobwebbed 1
@@ -5056,7 +5056,7 @@ crofterization 1
 carvage
 carval
 churlish
-carve
+carve 1
 cannabinol 1
 carvene 1
 coronad 1
@@ -5816,7 +5816,7 @@ coeldership
 coyotillo 1
 catechumenal 2
 catechumenism 1
-cutthroats
+cutthroats 1
 concourses 2
 catechumens
 catechumenship
@@ -13691,7 +13691,7 @@ crankcase
 cinching
 cincholoipon
 countercharging 1
-contusing
+contusing 1
 cinchonaceae 1
 conuzor
 cinchonaceous
@@ -17503,7 +17503,7 @@ crotching
 coburg
 cobweb
 cerion
-coemployed
+coemployed 1
 centavos 1
 cobwebby
 coca
@@ -18697,7 +18697,7 @@ coistril 1
 commutate
 coital
 conflictful
-codium
+codium 1
 coitally
 chaoush
 coexpanded
@@ -20134,7 +20134,7 @@ commerge
 centifolious
 cristispira
 cribella 1
-commigration 2
+commigration 3
 crouke 1
 chrysalides
 cincturing 1
@@ -21773,7 +21773,7 @@ conducers 1
 conductance
 congregationalists 1
 conductio 2
-colonizationist 1
+colonizationist 2
 charkas
 conductional 1
 coquitos
@@ -26804,7 +26804,7 @@ counterdifficulty
 commenda 1
 cathedrated
 commiserate 2
-coldest 1
+coldest 2
 counterdigged 2
 cerebroscopy 2
 counterdike
@@ -27980,7 +27980,7 @@ croucher
 charactonym 1
 craftsmanship
 craftsmaster
-cistophori
+cistophori 1
 craftspeople 1
 concubinaries 1
 cheeriness 1
@@ -29286,7 +29286,7 @@ checking
 cryptococci 1
 caulophylline
 clout 1
-cicoree 1
+cicoree 2
 calibration 1
 cryptococcosis
 chinband 1
@@ -29931,7 +29931,7 @@ crossleted
 coelenterata 1
 carcase 1
 cuculidae
-crosslight 1
+crosslight 2
 crosslike 2
 carbosilicate
 crossline
@@ -30718,7 +30718,7 @@ couturire
 compassment 1
 comedist
 chides
-cued
+cued 1
 carbolineum 2
 chiropterygium
 coeffects
