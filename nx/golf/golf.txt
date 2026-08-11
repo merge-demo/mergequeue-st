@@ -1165,7 +1165,7 @@ genin
 genio 2
 gonimolobe 1
 gnawings 1
-greatish
+greatish 1
 galactometry 2
 gnetums 3
 guffin 2
@@ -3206,7 +3206,7 @@ gutti 3
 gravidate 1
 gigantism 1
 gametophytic 4
-grainedness 4
+grainedness 5
 genuses 2
 goldminer 1
 graywacke
@@ -5619,7 +5619,7 @@ gloomings
 graveward 2
 grimoire 2
 guillotines 2
-gubernacular 2
+gubernacular 3
 geyserine 2
 gingalls 2
 gastralgic
