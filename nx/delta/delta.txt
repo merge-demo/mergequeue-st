@@ -18604,7 +18604,7 @@ delphian 1
 dustbins
 distance
 dustcover 1
-diatonicism
+diatonicism 1
 dustee 3
 dusters 2
 desperadoism 1
