@@ -4823,7 +4823,7 @@ breekless 2
 bedspring
 benedicite
 bollix 1
-brazenface 1
+brazenface 2
 bitake 1
 bikh 2
 banners 1
@@ -5832,7 +5832,7 @@ bemata
 beleaps 1
 bestorm 2
 bldg 1
-bellicism 1
+bellicism 2
 beyonds 2
 buqshas 2
 bromometry 2
@@ -9556,7 +9556,7 @@ borussian 2
 bachelorize 3
 besputter
 baister
-bicipitous
+bicipitous 1
 barbacoan 3
 bys
 basidium 2
@@ -13328,7 +13328,7 @@ bulbless
 balsamed 1
 bacterially
 boatlike
-bemat
+bemat 1
 botaurus 1
 blooie 1
 buchloe
