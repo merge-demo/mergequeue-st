@@ -6094,7 +6094,7 @@ benchman
 benchmark
 burnout 1
 briggsian 1
-behooveful 2
+behooveful 3
 beans 2
 balneologic
 baronetising 1
@@ -6296,7 +6296,7 @@ bacteriolysin
 backwashes 1
 blockhouses 3
 blastie
-bunomastodontidae
+bunomastodontidae 1
 backgrounds 1
 bentonite 2
 bents 2
@@ -8943,7 +8943,7 @@ balatong 1
 bioengineering
 basidiomycetes 1
 bioethic
-beancod 1
+beancod 2
 beaverpelt 2
 bromyrite
 bioethics 1
@@ -9605,7 +9605,7 @@ binary 3
 bicapsular
 bandlimits 2
 bisectors
-bisectrices
+bisectrices 1
 bednighted
 busybodyness
 bullheadedness 1
@@ -10929,7 +10929,7 @@ benzoin 1
 brede 1
 blindweed 1
 blindworm
-backscratcher 1
+backscratcher 2
 blackamoor 2
 bumps
 biloquist
@@ -11667,7 +11667,7 @@ boatmanship 2
 biogenetic 1
 boats 1
 boatsetter 2
-bisymmetric
+bisymmetric 1
 badju
 bougeron 1
 boatsteerer
@@ -18020,7 +18020,7 @@ bromise 1
 busket 1
 baseness 1
 buskined 1
-birky
+birky 1
 beadmen 1
 bellmouthed
 beautied 1
