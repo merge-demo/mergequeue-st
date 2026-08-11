@@ -1935,7 +1935,7 @@ cameleer
 culverins 1
 cauliflorous 2
 cameline 2
-camelish 1
+camelish 2
 cardigans 1
 camellike
 cornwallises 1
@@ -2877,7 +2877,7 @@ churchreeve 2
 canonry
 canons
 canonship 1
-consideration 1
+consideration 2
 canoodles 1
 counsinhood
 canopy
@@ -3533,7 +3533,7 @@ capsulizing
 cabman
 cibola
 capsulogenous 3
-cataphyllum
+cataphyllum 1
 callus 1
 capsulolenticular 2
 capsulopupillary
@@ -7062,7 +7062,7 @@ cartilage
 cyclosporous
 centerpiece 1
 craizey 1
-combinedly 1
+combinedly 2
 codex 1
 centerpunch 1
 crackdown
@@ -8325,7 +8325,7 @@ challises
 challot 1
 campagnols
 challote
-carotidean 1
+carotidean 2
 catalogers
 carburated
 caseate
@@ -9155,7 +9155,7 @@ chasm
 castigation
 cotonia 1
 cunningest 2
-chasma 1
+chasma 2
 chasmed 2
 caddy
 chondrigenous
@@ -11666,7 +11666,7 @@ clouding
 choline
 coryphaenidae 2
 cholinic 1
-caitifty
+caitifty 1
 cotangents
 cholinolytic
 conjugably 1
@@ -12422,7 +12422,7 @@ counterstratagem 1
 chromes
 crabbers
 chromhidrosis
-chromy
+chromy 1
 cystostomy
 chromidae 1
 chromide
@@ -13754,7 +13754,7 @@ coonties 1
 crushing
 cloisterless
 columba
-cuffless
+cuffless 1
 congestus
 cineaste
 convoke 1
@@ -15287,7 +15287,7 @@ cordant
 copalchi
 clamouring
 collembolan 2
-clamourist 1
+clamourist 2
 coadmired
 cellaret
 congous
@@ -18880,7 +18880,7 @@ churchified 1
 colinus
 carolina
 colyonic 1
-coliphage 2
+coliphage 3
 colyone 1
 colipuncture 1
 coliseum 2
@@ -19588,7 +19588,7 @@ ciliata
 chromaticism
 coextensiveness
 capanne
-coregence
+coregence 1
 coprozoic
 columellia
 columna 1
@@ -22503,7 +22503,7 @@ certainest 3
 chignoned
 conjoinedly 4
 claviole 1
-conjointment
+conjointment 1
 chromaffin 1
 conjointness
 chorwat 1
@@ -22930,7 +22930,7 @@ coalizing
 considerate
 codiaeum 1
 cephalometer
-considerator
+considerator 1
 coquetoon 1
 copatain
 chromatone
@@ -23107,7 +23107,7 @@ chermidae 1
 cyanochlorous
 conspicuously 1
 cabalic
-conspiracy
+conspiracy 1
 conspirant
 conspiration
 conspirators 2
@@ -24547,7 +24547,7 @@ copatentee
 copatriot
 copatroness 1
 cathectic 1
-crankum 1
+crankum 2
 connascent
 chromatodysopia
 cope
@@ -25368,7 +25368,7 @@ ce 1
 corncutter 1
 corndodger 1
 cornea 1
-corneal 2
+corneal 3
 corneas 1
 chiurm 2
 cheddaring
@@ -29195,7 +29195,7 @@ chanfron
 colicolitis
 cryoscopic
 cryoscopies 2
-constipate 1
+constipate 2
 cryosel 1
 cryospheric 1
 criosphinx 2
@@ -31011,7 +31011,7 @@ cumbrousness 2
 crashworthy 2
 currants 1
 cumengite 1
-chromobacterium 1
+chromobacterium 2
 clausiliidae 1
 carillonneur
 cytochylema
@@ -31051,7 +31051,7 @@ calescence
 crepe
 cremation
 colorize
-caprocks 1
+caprocks 2
 cumsha 2
 cumshaw 1
 cyclones
