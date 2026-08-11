@@ -53,7 +53,7 @@ durmast
 diseasefulness
 dacryocystoptosis 1
 dunder
-dacryocystosyringotomy
+dacryocystosyringotomy 1
 derham 1
 dacryolithiasis
 danielic
@@ -3297,7 +3297,7 @@ dilatement 1
 dopamines
 disregardful 1
 dentinalgia 2
-daggle 3
+daggle 4
 deutobromide 2
 dorsoposteriad 1
 defeatment 1
@@ -15444,7 +15444,7 @@ divinities 1
 dressy 2
 derve
 descending 1
-don 2
+don 3
 danker
 donack
 dowsed
@@ -16941,7 +16941,7 @@ diphylla
 dismask 1
 dovey
 dolls
-dolcinist
+dolcinist 1
 diarrheic 2
 dreamscape 2
 disharmony
