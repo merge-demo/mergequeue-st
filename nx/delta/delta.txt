@@ -17400,7 +17400,7 @@ drib
 doigt
 derivability 3
 delime 3
-deallocation
+deallocation 1
 delactation
 diduced
 dropmeal
