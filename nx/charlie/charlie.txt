@@ -13374,7 +13374,7 @@ charadriidae
 coraciidae
 croshabell 1
 chopfallen 2
-coarsish 1
+coarsish 2
 cyclostomatous 1
 cunoniaceous
 concurrency 3
@@ -24515,7 +24515,7 @@ cupfuls 1
 clr
 circovarian 1
 composition 3
-copaivic
+copaivic 1
 copaliferous 1
 copalite
 copalm 1
@@ -27158,7 +27158,7 @@ crocheting 1
 characterising
 coprostasis 2
 chittered
-counterstimulate 1
+counterstimulate 2
 counterstimulation
 counterstimulus
 counterstock
