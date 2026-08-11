@@ -1031,7 +1031,7 @@ foredestining 1
 furriery 1
 fiberboard
 fids
-filazer 1
+filazer 2
 ferriages 1
 frontons 2
 farrage 1
@@ -2172,7 +2172,7 @@ felony 2
 foreignership 1
 fractioned 2
 friskest
-folkmoot 3
+folkmoot 4
 fidgetily
 falsities 2
 falutin 5
@@ -8629,7 +8629,7 @@ fullfil 3
 flaskful 3
 fissionable
 fungating 1
-farmsteading
+farmsteading 1
 forninst 1
 fricative 2
 flexor 6
@@ -10068,7 +10068,7 @@ flans 3
 ferryboats 2
 fringehead 2
 fringelet
-fabroniaceae
+fabroniaceae 1
 fruitier 3
 fringent 1
 frizzer
@@ -10910,7 +10910,7 @@ fulgurated 3
 forgathers 2
 faeryland 2
 finished 2
-fucused
+fucused 1
 forthcoming 3
 foraminous 2
 fractural 2
