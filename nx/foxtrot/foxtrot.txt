@@ -414,7 +414,7 @@ folie 1
 flechettes 2
 fibroligamentous 2
 fauchards 4
-fur 1
+fur 2
 frockmaker 2
 fairship 4
 feal
@@ -982,7 +982,7 @@ flashes 1
 fluorapatite 3
 fluoborid
 forehook
-foglietto
+foglietto 1
 fascicles 2
 flexuose
 flatlong
@@ -2154,7 +2154,7 @@ famously 1
 fires 4
 foliature 7
 fitch 1
-fawnier 1
+fawnier 2
 filippi
 fallenness 1
 flypapers 2
@@ -4266,7 +4266,7 @@ fingerling 1
 fawnskin 2
 freudism 3
 fatiguability
-fulsomely 1
+fulsomely 2
 ferdwit 5
 fustians 2
 foiblesse 3
@@ -7854,7 +7854,7 @@ furcellate
 foreboot 1
 friaries 1
 fractionisation
-fungify
+fungify 1
 favorite 2
 fligged 4
 focusing 2
@@ -10213,7 +10213,7 @@ frizzy
 foresightedly 1
 fastings 2
 fleishig 1
-formalism 2
+formalism 3
 flint 1
 frangibleness 2
 feebly
