@@ -6513,7 +6513,7 @@ fip 5
 failsoft 3
 frapping 2
 ft 2
-forspread 3
+forspread 4
 foldskirt 2
 fortifying 2
 flexuousness 3
