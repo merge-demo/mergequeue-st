@@ -2534,7 +2534,7 @@ fiatconfirmatio 2
 fanam
 feeler 1
 frugivorous 2
-foal 2
+foal 3
 fibromembranous
 filamentule 3
 frangibility 1
@@ -7068,7 +7068,7 @@ flowk 3
 fosie
 frase 2
 flacked 2
-felones
+felones 1
 fumily 2
 frescade 1
 formfitting 3
@@ -10509,7 +10509,7 @@ foofaraw
 forepretended 3
 fantast 2
 forewarns 3
-fluffs 2
+fluffs 3
 frostfish 1
 forcite 4
 frostbitten 4
