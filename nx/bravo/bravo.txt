@@ -243,7 +243,7 @@ backslides
 bacillaceae 1
 bacillariaceae
 baldric 2
-buried 3
+buried 4
 blotless
 balancedness 1
 brontosaur 1
@@ -14694,7 +14694,7 @@ balletically
 bogle 1
 bathic 1
 broilingly
-buffets
+buffets 1
 babion 1
 brasilins 4
 bigotedness
