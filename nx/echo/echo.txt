@@ -849,7 +849,7 @@ epiderms
 emraud 1
 englobement 1
 eddic 2
-epistolizer 1
+epistolizer 2
 eigenfunction
 erythrocytolysin 2
 electrocution 1
@@ -4057,7 +4057,7 @@ engross 3
 earle 1
 engrammatic 4
 eutherian 2
-ecthymata 3
+ecthymata 4
 euthymy 1
 excide 1
 esthetophore
@@ -5511,7 +5511,7 @@ endoergic 2
 enfevering
 emitters 2
 edwardeanism 1
-enzootic
+enzootic 1
 epicardial
 enfilade 2
 experimentations 2
@@ -6590,7 +6590,7 @@ elephantlike
 enzymologies 2
 enterohydrocele 2
 elevation 3
-erythroneocytosis
+erythroneocytosis 1
 embryoctonic 1
 existlessness 1
 eched 1
