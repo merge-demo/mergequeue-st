@@ -2293,7 +2293,7 @@ foambow 1
 filicales 2
 formulable 3
 flotation
-foreface
+foreface 1
 fistulizing
 fenestrae 1
 foreword
@@ -3974,7 +3974,7 @@ finalizes
 fibrinemia 2
 fiscal
 fulmine 4
-flanque 1
+flanque 2
 fictionally 2
 fibres 4
 fraulein
@@ -7549,7 +7549,7 @@ ferial
 ferrocyanhydric 1
 feazes 4
 foredesignment
-foremostly 4
+foremostly 5
 forecastle 1
 fundament 2
 forecastlehead 1
