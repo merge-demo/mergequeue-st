@@ -4838,7 +4838,7 @@ cressida 1
 conjuror
 contrariantly
 coffea
-carr
+carr 1
 carrack 2
 cymulose
 cycling
@@ -14719,7 +14719,7 @@ coesite
 cygnets 1
 citharoedi
 chaplets 1
-cholesteryl 2
+cholesteryl 3
 catmint 1
 circumagitate
 cylix
@@ -19080,7 +19080,7 @@ camb 2
 colliflower 1
 cruset 1
 craker 1
-colligate 1
+colligate 2
 colligating
 cookbook 2
 cecropia
