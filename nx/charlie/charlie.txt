@@ -2661,7 +2661,7 @@ conclusiveness 2
 canezou 1
 canfield 1
 counterstatement 1
-cantillating 1
+cantillating 2
 canfuls
 cangan 1
 charterist
@@ -6398,7 +6398,7 @@ cautery
 cauteries
 cauterisation 2
 cauterise
-collision
+collision 1
 cloudland
 cauterism
 carafe 1
@@ -7744,7 +7744,7 @@ coelialgia
 certifies
 coys 1
 certiorate
-certis
+certis 1
 certitudes 2
 circularized 1
 certosa
@@ -7814,7 +7814,7 @@ cervuline
 cervus 1
 cesare
 cesareans
-cesarevitch
+cesarevitch 1
 carajo 1
 caramelizing
 cesarians 1
@@ -9952,7 +9952,7 @@ climactically 1
 chenfish
 chenille
 consumable 2
-chenopod
+chenopod 1
 colocasia
 catacombic
 criollo
@@ -15541,7 +15541,7 @@ classicise 2
 chromophoric 1
 classicism
 classicist
-classicists 2
+classicists 3
 cheshire
 cordially 2
 cynoglossum 1
@@ -17797,7 +17797,7 @@ codeclination
 codecs 2
 cellularly
 chawan
-concurrent 1
+concurrent 2
 codeina
 carby
 cognisableness 1
@@ -17927,7 +17927,7 @@ chromosphere
 contractibility 1
 coefficients
 coelacanthidae
-coelacanthous 1
+coelacanthous 2
 coelar 1
 coelastraceous 2
 canonics
@@ -20414,7 +20414,7 @@ colibertus
 compactible
 crampedness 1
 categorizations 1
-cincinnus
+cincinnus 1
 compactly 1
 conciliatingly
 chondrodynia 1
@@ -20593,7 +20593,7 @@ colometrically
 catmalison
 cacodyls
 cherishable 1
-compensator 1
+compensator 2
 compensatory
 cotillions
 compenser
@@ -21237,7 +21237,7 @@ concernancy
 concerned 2
 cumbersome
 concerning
-contrived
+contrived 1
 chubsucker
 checked 2
 concerningness 2
@@ -22122,7 +22122,7 @@ cerule 1
 chlorine
 confound
 cellulous
-carragheen
+carragheen 1
 confounded 1
 chironomic 2
 cromerian
@@ -22710,7 +22710,7 @@ contributor
 conoidically
 camphanyl 1
 conciser
-camletine 1
+camletine 2
 circadian
 conolophus
 conominee
@@ -25565,7 +25565,7 @@ coronets 1
 coronetted
 capersomeness 1
 crushability
-coronettee
+coronettee 1
 confronte
 coronetty
 coronagraphic
