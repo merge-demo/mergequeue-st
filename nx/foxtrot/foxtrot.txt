@@ -1213,7 +1213,7 @@ foredeem 1
 flaccidly 2
 frizzily
 filipendula
-forespeed
+forespeed 1
 fluorography 1
 folds 2
 fassalite 3
@@ -1474,7 +1474,7 @@ furibund 1
 flunkeyish 2
 furanose 1
 foundering 1
-flocklike
+flocklike 1
 fient 1
 forebodingness 1
 forestology 1
@@ -2932,7 +2932,7 @@ floccipend 1
 farfetch
 fluellite 1
 fleaworts
-flyoff 2
+flyoff 3
 filialness
 facier 1
 fooleries 3
