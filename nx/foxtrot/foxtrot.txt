@@ -6838,7 +6838,7 @@ firetower 1
 fustigator 1
 flipjack 2
 fourhanded 1
-fabled 2
+fabled 3
 furomonazole 1
 foliary 2
 frescoers 1
@@ -11201,7 +11201,7 @@ fraughted 3
 forktail 1
 fundungi
 firewall
-forcipal
+forcipal 1
 fireplugs 2
 felonwort 1
 frenzelite 1
