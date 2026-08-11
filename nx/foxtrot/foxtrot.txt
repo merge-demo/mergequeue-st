@@ -704,7 +704,7 @@ flagroot
 famous 2
 florigens 3
 featherlet 2
-famp 1
+famp 2
 famuli 1
 frustrater 1
 fana 2
@@ -2228,7 +2228,7 @@ firebombs 3
 fuliguline 2
 flatcars 1
 fructosan 2
-ferrara
+ferrara 1
 forlornest 1
 fives 2
 fightingly
@@ -2603,7 +2603,7 @@ finalizing 1
 fidawi
 fibrillation
 fangle
-featherlight 4
+featherlight 5
 filthy 4
 feoffed 1
 fancily
@@ -4632,7 +4632,7 @@ firked 2
 factorizations 3
 fullnesses 1
 fanging 2
-frigidities 1
+frigidities 2
 formulations 2
 fluctuate 1
 fossane
@@ -4798,7 +4798,7 @@ fortunetelling 5
 flocculable 1
 feltmonger 4
 fortunately 2
-flaunching 2
+flaunching 3
 freshened 1
 fooling 2
 flaggy 2
@@ -5070,7 +5070,7 @@ flapping 1
 frondivorous 1
 folders 2
 fiord 3
-fessely 2
+fessely 3
 flumps 1
 flamelet 4
 fun 2
@@ -10542,7 +10542,7 @@ frottola 2
 federalizations
 fortuities
 fortuning 2
-featherback 1
+featherback 2
 frotton 1
 fum 2
 firetail 1
@@ -11662,7 +11662,7 @@ foretalking
 forcingly 2
 farasula 2
 fut 1
-futhorc 1
+futhorc 2
 fillowite
 forepale 3
 foxskins 1
