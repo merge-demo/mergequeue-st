@@ -8331,7 +8331,7 @@ disincline 1
 duchies
 decemfoliolate 1
 dialed
-depredation 1
+depredation 2
 disvouch 3
 decalobate 1
 decontrolled
@@ -10319,7 +10319,7 @@ decumary
 delf 2
 discounter 1
 dioptometer
-disnature
+disnature 1
 denudation 3
 deducement 1
 dehydrogenised 1
