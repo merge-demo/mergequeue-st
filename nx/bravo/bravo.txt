@@ -646,7 +646,7 @@ burnoose 1
 brushers 1
 berkowitz
 bacteriophages 2
-blaffert
+blaffert 1
 bacteriophagy
 bacteriopsonin 1
 bendable 2
@@ -881,7 +881,7 @@ blackboards 1
 backband 3
 bagdad
 bunters 1
-begoniaceae 2
+begoniaceae 3
 bauxites
 bicolour 2
 bagful
@@ -977,7 +977,7 @@ bullgine
 bathylitic 1
 biologicohumanistic 2
 bahisti 1
-brassards
+brassards 1
 betook
 bronchoscopically
 bacteriolytic
@@ -1215,7 +1215,7 @@ bakeoven 3
 blennostatic 1
 bakeress 1
 blenniidae
-besigh
+besigh 1
 bootloader 1
 blatter 1
 bakeries 2
@@ -4812,7 +4812,7 @@ befancy
 bits 1
 bedside
 bedsonia 1
-bakers 2
+bakers 3
 bemirrorment
 belvederes 1
 believableness
@@ -5041,7 +5041,7 @@ babism 2
 beetrave 1
 bedunces
 bronzings
-beetroots 2
+beetroots 3
 becarve
 beeweed 2
 bask 1
@@ -7625,7 +7625,7 @@ bebed 2
 bakshish
 brog 1
 bullocks 1
-borne 1
+borne 2
 butanones 3
 bravade 2
 beziques
@@ -8565,7 +8565,7 @@ bittersweetly 1
 billboards
 beetrooty 2
 beshawled
-billbug 1
+billbug 2
 biller
 blew 3
 blackeye
@@ -11514,7 +11514,7 @@ banyoro
 battakhin 4
 begged 2
 bumboatman
-benzenes 2
+benzenes 3
 broadshare
 budder 1
 blufter 1
@@ -11873,7 +11873,7 @@ bodysurfer 3
 bodywear 1
 benthopelagic
 blueprints 1
-buteos
+buteos 1
 bodyworks
 bodkin
 bodkins
@@ -12845,7 +12845,7 @@ buccula 1
 bacterins
 basinerved 3
 beastliest 1
-brushoff
+brushoff 1
 barracan 2
 bodily 1
 birkies
@@ -14983,7 +14983,7 @@ breasts 2
 blash
 bevesselled 2
 bewrap 1
-brevi 2
+brevi 3
 blastful
 baedeker 1
 breastwood 3
@@ -17833,7 +17833,7 @@ booze 1
 banjara 3
 burst
 booksellers 2
-breezeful 1
+breezeful 2
 burster 1
 blutwurst
 bastardizing
@@ -18245,7 +18245,7 @@ besweatered 2
 butterflower 2
 bylined 1
 bleinerite 2
-battles 1
+battles 2
 bacteraemia
 bases 2
 backfold 3
