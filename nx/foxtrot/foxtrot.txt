@@ -704,7 +704,7 @@ flagroot
 famous 2
 florigens 3
 featherlet 2
-famp 1
+famp 2
 famuli 1
 frustrater 1
 fana 2
@@ -2228,7 +2228,7 @@ firebombs 3
 fuliguline 2
 flatcars 1
 fructosan 2
-ferrara
+ferrara 1
 forlornest 1
 fives 2
 fightingly
