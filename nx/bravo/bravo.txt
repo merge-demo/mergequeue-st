@@ -2940,7 +2940,7 @@ bited 1
 broad
 barrelled 1
 billfish 1
-barrelmaker 1
+barrelmaker 2
 belemnoidea 1
 blissfully
 bamboozlement
@@ -3097,7 +3097,7 @@ basaree 2
 boycotting
 bestness 1
 bealach 1
-bronteana 2
+bronteana 3
 bonitas 2
 boithrin
 butylene
@@ -6390,7 +6390,7 @@ benzofuran 2
 biozone 1
 benzoglycolic
 bastioned 1
-benzohydrol 1
+benzohydrol 2
 benzoylated
 becuna
 benzene
@@ -10965,7 +10965,7 @@ brassicas
 blintzes 3
 billowy
 blips 1
-boehmenite
+boehmenite 1
 bliss
 branchiostegous 1
 bucketshop
@@ -14212,7 +14212,7 @@ bough 2
 bespot
 boloneys 2
 bottomland 2
-bradbury 1
+bradbury 2
 bradyauxesis
 bilification 3
 bald
