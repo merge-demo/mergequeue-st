@@ -2134,7 +2134,7 @@ airtime 2
 anthologion 2
 aphagia 1
 antenniferous
-apout 1
+apout 2
 auditor 1
 ammonionitrate 1
 almonership
@@ -5349,7 +5349,7 @@ aspatia
 authorism
 armageddon
 amphisile
-autoboat
+autoboat 1
 anophthalmia
 actinocarp
 afflated 1
@@ -17969,7 +17969,7 @@ allodialism 1
 anthropophysiography 1
 allothigene 1
 authenticate 1
-amphidesmous
+amphidesmous 1
 azoformic 1
 alternariose 2
 apodous
@@ -19278,7 +19278,7 @@ antilactase
 archpresbyter
 arenga 4
 another
-axonometry 1
+axonometry 2
 anlas 2
 arenicolite 1
 anagrammed 1
@@ -22576,7 +22576,7 @@ addicts 1
 anisoleucocytosis
 ateliotic 2
 atelo
-atelocephalous
+atelocephalous 1
 alternativo 2
 aselline
 ateloglossia 2
