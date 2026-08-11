@@ -1312,7 +1312,7 @@ cunea 2
 calaverite
 caliber 1
 compulsatory 1
-calibers 3
+calibers 4
 colunar 1
 calibrated
 calibrater
@@ -4386,7 +4386,7 @@ constructs
 canichana
 coppers
 culvertage
-cyclase
+cyclase 1
 confidentiality
 cyberneticists
 cobwebbed 1
@@ -5056,7 +5056,7 @@ crofterization 1
 carvage
 carval
 churlish
-carve
+carve 1
 cannabinol 1
 carvene 1
 coronad 1
@@ -5192,7 +5192,7 @@ cornhusks
 cravo 1
 cavendish 1
 continuando
-casher
+casher 1
 catchups
 cinematized 2
 cashers
@@ -5572,7 +5572,7 @@ catagenetic 2
 catakinetic
 catakinomeric 1
 corkscrewy
-crayonstone 1
+crayonstone 2
 catalanganes
 conceptionist
 catalatic 2
@@ -13691,7 +13691,7 @@ crankcase
 cinching
 cincholoipon
 countercharging 1
-contusing
+contusing 1
 cinchonaceae 1
 conuzor
 cinchonaceous
@@ -18697,7 +18697,7 @@ coistril 1
 commutate
 coital
 conflictful
-codium
+codium 1
 coitally
 chaoush
 coexpanded
@@ -19448,7 +19448,7 @@ colossean
 colosseum 1
 colossian 3
 charas 1
-colossians 2
+colossians 3
 colosso
 chemises 1
 colossochelys 3
@@ -20134,7 +20134,7 @@ commerge
 centifolious
 cristispira
 cribella 1
-commigration 2
+commigration 3
 crouke 1
 chrysalides
 cincturing 1
@@ -26804,7 +26804,7 @@ counterdifficulty
 commenda 1
 cathedrated
 commiserate 2
-coldest 1
+coldest 2
 counterdigged 2
 cerebroscopy 2
 counterdike
