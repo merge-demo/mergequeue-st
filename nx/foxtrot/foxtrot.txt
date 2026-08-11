@@ -185,7 +185,7 @@ florin 2
 folletage 3
 footstock 1
 freedwoman 2
-ferns 2
+ferns 3
 fluking 2
 fazenda
 factotum 2
@@ -232,7 +232,7 @@ fleshed
 formalising 2
 furmint 1
 fibrillous 1
-freeload 2
+freeload 3
 fodder 1
 forspend
 fidgets 2
@@ -1592,7 +1592,7 @@ floriage 2
 flappier 3
 frijol 4
 fervescence 2
-freightless 1
+freightless 2
 flannel 2
 fawkener 1
 favourably 3
@@ -1725,7 +1725,7 @@ featherbird 2
 fructed
 feoffors
 forfare 1
-foreshore 1
+foreshore 2
 floriferous 4
 freedman
 foveal 1
@@ -1983,7 +1983,7 @@ fibroneuroma
 fillock 2
 fernticle 4
 fouty 1
-fibratus
+fibratus 1
 functionalize 3
 frigiferous 3
 filmmaker 2
@@ -2655,7 +2655,7 @@ fluviatic 1
 fraters 1
 feedings 2
 fainaigue 1
-froufrou 1
+froufrou 2
 flickering 2
 foxfishes
 fifty 1
@@ -5359,7 +5359,7 @@ feebleness 1
 fullmouth 1
 fascia 1
 flitterbat 1
-fruiteries 1
+fruiteries 2
 ferulaic
 foldboater
 fascicular
@@ -5651,7 +5651,7 @@ flimsier 1
 fishbolt 1
 fondues 3
 fellowshiped
-fascism
+fascism 1
 forums 1
 fortis 1
 frumpiest 1
@@ -6222,7 +6222,7 @@ flightily 1
 fairgrounds 2
 forlana
 foreshortens 1
-fatlings 1
+fatlings 2
 freyja 3
 floccules
 focusable 3
@@ -7348,7 +7348,7 @@ frontless 3
 formularised 2
 foraminose
 foraminulate 1
-fought 3
+fought 4
 flabbily 1
 foraneen 4
 ferrateen 2
@@ -8375,7 +8375,7 @@ factories 1
 fieldstrip 3
 forisfamiliation 2
 flashback
-fontlet 2
+fontlet 3
 ferrotyping 1
 firmament 1
 fatherlike 1
@@ -8851,7 +8851,7 @@ flashtube
 frustula 3
 feoffing 2
 favorably 2
-falcinellus 2
+falcinellus 3
 floozie 2
 frailes 3
 fetchers 1
@@ -10720,7 +10720,7 @@ fecks 1
 finesses 4
 fise 1
 formularising
-fibriform 1
+fibriform 2
 foretelling 1
 frumenty 3
 footband 2
