@@ -4489,7 +4489,7 @@ detroiter 1
 demigauntlet
 doting
 disclosing
-dyspeptic
+dyspeptic 1
 decussis 1
 dendrite
 decern 1
@@ -4551,7 +4551,7 @@ desperance 2
 depths
 disusing 1
 detected 1
-digitigrade 1
+digitigrade 2
 dewatering 2
 decretal
 demiox 2
@@ -5734,7 +5734,7 @@ dewormed
 depopulation
 denitrize 1
 debeak 1
-dowve 1
+dowve 2
 disimitation 1
 demipuppet 1
 dicyanodiamide
@@ -9095,7 +9095,7 @@ damie
 didactical
 didacticality 2
 drassidae
-dichondraceae
+dichondraceae 1
 daleman 1
 dragomanish
 didacticism
