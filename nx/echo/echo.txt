@@ -498,7 +498,7 @@ endmatcher
 ecesic 1
 ectropometer
 ecgonin 2
-evenhandedness 1
+evenhandedness 2
 echappe 2
 eremic 2
 examinator 2
@@ -553,7 +553,7 @@ emotively
 echinulated
 endogastrically
 echis 2
-enthean 1
+enthean 2
 emulations 2
 euglenas 2
 echitamine
@@ -3534,7 +3534,7 @@ ecumenism
 emuscation 1
 extinguishant
 extravertive 3
-enfoeffment
+enfoeffment 1
 exothermic 2
 ensate 3
 exanthematous 3
@@ -6902,7 +6902,7 @@ empt
 enounces
 entozoologically 2
 entrain 1
-enantiomorphy 1
+enantiomorphy 2
 elicitate
 entoprocta 2
 embrocado
@@ -7987,7 +7987,7 @@ ergs 2
 expilate 1
 ejections 2
 eggar 1
-ease 2
+ease 3
 etui
 entoconid 1
 escapingly 1
@@ -8056,7 +8056,7 @@ elegant
 epipterous 1
 epipubis 1
 expostulations 1
-erminois 1
+erminois 2
 esterifying 1
 electrophotomicrography
 epicoelia 1
@@ -9091,7 +9091,7 @@ enveil
 escrowee 2
 ecarte
 ephors
-enticingly 1
+enticingly 2
 equinoxes 1
 evasion
 embordered 1
