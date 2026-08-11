@@ -3170,7 +3170,7 @@ daneflower 1
 defect
 degusting 1
 divots 1
-draughtily 1
+draughtily 2
 defectible
 dezincified
 distaff 1
@@ -9044,7 +9044,7 @@ drinkproof
 dictaphones
 dabbers 2
 deglycerine 1
-disentangler 1
+disentangler 2
 denudational
 damfoolish 2
 dictatingly
@@ -9497,7 +9497,7 @@ digesture
 dinarzade
 disapproval
 diggable
-digged
+digged 1
 dotardy 2
 deuterostome
 demonstrational 1
@@ -14468,7 +14468,7 @@ drainages
 divertingness
 duckery 2
 dissolveability
-demoralization
+demoralization 1
 diagnoseable
 drabbet 2
 dawdler
