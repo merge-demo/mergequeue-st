@@ -1515,7 +1515,7 @@ coffeepot
 commise 1
 callboy 1
 callboys
-called
+called 1
 concave
 callers
 calles
@@ -3750,7 +3750,7 @@ caravans 1
 caravanserai
 chromoxylography
 caravanserial
-companeros
+companeros 1
 caravel
 caravels
 cosen 2
@@ -3858,7 +3858,7 @@ cleavability
 ceratite
 carbonarist 1
 carbonating
-carbonation
+carbonation 1
 copywriter
 camacey
 codfishes 1
@@ -7318,7 +7318,7 @@ cephaloauricular 1
 chelicera
 cerusites
 carks
-comnenian 1
+comnenian 2
 cupels
 cephalocentesis
 coprocessors
@@ -14093,7 +14093,7 @@ cardcastle
 conservancies 1
 corticoid 1
 circlets
-circulated 2
+circulated 3
 circocele
 colloquialisms 1
 codecree
@@ -17634,7 +17634,7 @@ cocculiferous
 cost
 cocculus
 corrivals
-coccus
+coccus 1
 chalazogamy 1
 cushite
 chlorothiazide
@@ -23419,7 +23419,7 @@ contaminant 1
 coition
 contaminants 2
 cuttanee 3
-contaminate
+contaminate 1
 cottaged 1
 cevadine 2
 contamination
@@ -27466,7 +27466,7 @@ committing
 concertised 1
 conversaziones 2
 couthier 1
-couthless
+couthless 1
 couthly
 coutil
 coupleteer 1
@@ -28696,7 +28696,7 @@ chapacura 1
 cilice 1
 crenelles 1
 crenels 1
-crengle 1
+crengle 2
 creophagy
 chromidiogamy 1
 contin
@@ -30514,7 +30514,7 @@ contraclockwise
 counterweighed 1
 cavin 1
 cubbyhouse
-cubbing
+cubbing 1
 codein
 cubbishness 3
 choiring
@@ -30947,7 +30947,7 @@ culturize
 cleanliness 1
 culturological
 culturologically
-clarkia
+clarkia 1
 cavaliero
 cardinalitial
 caroid
