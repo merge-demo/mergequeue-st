@@ -5832,7 +5832,7 @@ bemata
 beleaps 1
 bestorm 2
 bldg 1
-bellicism 1
+bellicism 2
 beyonds 2
 buqshas 2
 bromometry 2
@@ -9556,7 +9556,7 @@ borussian 2
 bachelorize 3
 besputter
 baister
-bicipitous
+bicipitous 1
 barbacoan 3
 bys
 basidium 2
