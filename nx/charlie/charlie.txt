@@ -25364,7 +25364,7 @@ centripetal
 condylion
 corncribs 3
 corncrusher
-ce
+ce 1
 corncutter 1
 corndodger 1
 cornea 1
