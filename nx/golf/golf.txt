@@ -5,7 +5,7 @@ greenth 3
 gaseliers 1
 googul
 gummous
-gunrooms 2
+gunrooms 3
 gabber 3
 gabbers
 gobi 2
@@ -1620,7 +1620,7 @@ gumlikeness 2
 goyish 1
 gastroenteroptosis 1
 graculus 4
-grounding 4
+grounding 5
 grammates 2
 gonnardite 1
 geratic 2
@@ -2417,7 +2417,7 @@ ghoulish
 globally
 gastraeum 3
 galravage 1
-glycocoll 4
+glycocoll 5
 gilty 3
 geographers 1
 gemologist
@@ -4953,7 +4953,7 @@ gruiformes 1
 gauls 2
 garridge
 girasoles 3
-glyptological 4
+glyptological 5
 goldylocks 1
 gillygaupus 1
 gleetiest 4
@@ -5514,7 +5514,7 @@ gorsier 4
 gustful 3
 gowning 5
 gad 1
-grumbles 4
+grumbles 5
 gamecocks
 glaucus 4
 guardlike 2
@@ -5624,7 +5624,7 @@ geyserine 2
 gingalls 2
 gastralgic
 gobbling 3
-gimcracky 1
+gimcracky 2
 growsome
 grubbiest 2
 gapy 5
@@ -9154,7 +9154,7 @@ grooming 3
 gardant 2
 gradins 1
 gristmilling 3
-gladstone 1
+gladstone 2
 gamogenetic 4
 globigerinas 1
 glassfish
@@ -9711,7 +9711,7 @@ grievant 3
 goboes 2
 goldeneyes 1
 gargantuan 2
-guidonian 1
+guidonian 2
 georgiana 1
 gambades 1
 grocerwise 2
@@ -9820,7 +9820,7 @@ guayaqui 2
 gawcie 2
 goldbrick 3
 ghebeta 1
-guaymie 3
+guaymie 4
 grilles 4
 gabbarts 2
 gallivant 2
@@ -10789,7 +10789,7 @@ genialness 3
 gonadectomy 3
 gresil 1
 gandered 1
-gignitive
+gignitive 1
 gamesomely 2
 guttated 2
 galeage
