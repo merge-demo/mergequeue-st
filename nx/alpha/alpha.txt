@@ -243,7 +243,7 @@ absorptiometric 1
 abbott 1
 adenomyxoma 1
 actable 1
-antileft 2
+antileft 3
 apostate 2
 abraded 1
 acantholysis 2
@@ -1786,7 +1786,7 @@ accusing 1
 asbestic 1
 assoria 1
 accusor 1
-annerre
+annerre 1
 armouring
 aground 1
 adelaster 1
@@ -2625,7 +2625,7 @@ ancestrial
 arctomys 2
 acouometer 2
 azocoralline
-antihelminthic
+antihelminthic 1
 asphyxiating 1
 adjacently
 acoup
@@ -2880,7 +2880,7 @@ ambassadorial 1
 alite 1
 abominability 3
 antenniform
-asclepiadaceous
+asclepiadaceous 1
 areometer
 arianrhod 3
 acclimatised 1
@@ -3190,7 +3190,7 @@ adalat
 airplays 1
 agtbasic
 autokinetic
-amphipyrenin
+amphipyrenin 1
 antinaturalist 1
 aurin
 accordion
@@ -9278,7 +9278,7 @@ alodies 2
 atossa
 alodification
 arician 1
-artophagous
+artophagous 1
 axoplasm
 archcriminal 1
 armaries
@@ -10096,7 +10096,7 @@ ammoniemia
 agarita
 amblygonal 2
 allergology 1
-amblygonite
+amblygonite 1
 attractant
 absinthic 2
 aidmanmen
@@ -11730,7 +11730,7 @@ angulating 1
 anaesthesis
 abeltree 1
 appearanced 1
-anaesthetically
+anaesthetically 1
 anthropomantic 1
 aruspex
 ayme
@@ -12915,7 +12915,7 @@ abysses 2
 antiquarianly
 angletwitch
 allays
-anglewise
+anglewise 1
 avenger 1
 asteraceous 2
 anglian 1
@@ -17235,7 +17235,7 @@ appreciant
 archicarp 1
 acoma 1
 amorous
-averruncate
+averruncate 1
 adonis
 apophysary 2
 apophyseal
@@ -17758,7 +17758,7 @@ apinae
 antidora 1
 acylated 1
 archipallial
-archiepiscopally 2
+archiepiscopally 3
 albuminaturia
 alluringly 1
 applosive 1
@@ -19812,7 +19812,7 @@ assaulted
 alecithic 1
 aspires
 anmia 1
-autumnal 1
+autumnal 2
 acanthite
 arseniopleite
 anthropogeographic 1
@@ -24687,7 +24687,7 @@ autostylic
 averagely 2
 averaging
 ackeys
-adenemphractic
+adenemphractic 1
 accordant
 averment 1
 anopheline
