@@ -1839,7 +1839,7 @@ buzzy 2
 brimming
 beaconed 2
 beglads 1
-blancmanger 3
+blancmanger 4
 bemuse
 botanizer 3
 bananaland
@@ -2072,7 +2072,7 @@ bankrolled
 babelism 2
 bankrolling
 bankrupt 2
-bosporan 1
+bosporan 2
 bibliomaniacal 2
 blurping 1
 burl
@@ -2671,7 +2671,7 @@ bable
 bribeable 2
 barling 1
 barghest
-breechloader
+breechloader 1
 basiliscus 2
 backlins 1
 barm
@@ -9975,7 +9975,7 @@ bituminous 1
 bisecting 2
 beryllate 1
 bilinguality
-bridleman 1
+bridleman 2
 burbles 1
 biases 1
 bivalence
@@ -11966,7 +11966,7 @@ bogyman 1
 broncobusters 1
 bandagers 1
 birmingham 3
-bbls 1
+bbls 2
 braireau 1
 bostons 2
 bogymen 1
@@ -13788,7 +13788,7 @@ boatful 2
 brontide
 brachydactyly 1
 berserker 1
-bushment
+bushment 1
 brazes 2
 borders 1
 bootlickers
@@ -14837,7 +14837,7 @@ besoil
 blotters 2
 bichlorides
 buffed 1
-bloodweed 1
+bloodweed 2
 becall
 bobization 1
 breached
