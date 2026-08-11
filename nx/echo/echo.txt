@@ -3408,7 +3408,7 @@ embarks 1
 equipage 1
 exteroceptor 1
 elohist 1
-em
+em 1
 embarring 3
 elementoid
 ethnarchy 1
@@ -6689,7 +6689,7 @@ extratarsal
 esthesioneurosis
 ectopistes
 elusions 2
-esparcet 2
+esparcet 3
 epigeal 3
 exsuperate 1
 exhilarate
