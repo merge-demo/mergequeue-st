@@ -2697,7 +2697,7 @@ anomaliflorous 1
 ashkenazim 1
 acquitter 4
 agnates
-acrab 1
+acrab 2
 anacleticum 1
 acrania
 arius 1
@@ -3941,7 +3941,7 @@ adjectives 1
 acetine 1
 anagogy
 agyiomania
-anaerobiotically
+anaerobiotically 1
 adjoinant 2
 abbreviator 1
 anticipated
@@ -4709,7 +4709,7 @@ arillodes 2
 aedilic
 aphrizite 1
 aliveness 3
-annex
+annex 1
 aefald
 accrease 1
 aefaldy
@@ -7572,7 +7572,7 @@ anisodont 1
 albumins
 albuminurophobia
 asynchronism 2
-actomyosin 1
+actomyosin 2
 anguses
 abrasives 1
 albumose 1
@@ -8077,7 +8077,7 @@ aramaicize
 alleging 2
 antimoniureted 1
 alfaje 1
-alfaki
+alfaki 1
 alfalfas 1
 anapaest 1
 algesia 1
@@ -8321,7 +8321,7 @@ archin
 artefac 1
 aselli
 aliethmoid 1
-axonal
+axonal 1
 abacay 1
 auks 1
 applicatorily 1
@@ -8919,7 +8919,7 @@ algetic 2
 apiaries 2
 areason 1
 anhedron 1
-airlifted 1
+airlifted 2
 aporrhaoid
 arrayers 1
 amidosuccinamic
@@ -9215,7 +9215,7 @@ angiochondroma 2
 antihumanistic
 antievolutionally
 assumpsit 1
-amra 2
+amra 3
 almost 2
 acetonuria 2
 autonomousness
@@ -9477,7 +9477,7 @@ acatery 1
 anchylose
 archaeocyte
 abetter 1
-anythingarian 1
+anythingarian 2
 anointed
 althein 1
 amphophil
@@ -10252,7 +10252,7 @@ aube
 auximone
 aquariist 1
 amebobacter
-analgesidae
+analgesidae 1
 ameboid 2
 ameboidism
 amedeo 1
@@ -11290,7 +11290,7 @@ affluently 1
 abrege 1
 atchison
 arzrunite
-amphimictic 2
+amphimictic 3
 antired 1
 amphimorulae 1
 ampullaceous 1
@@ -14002,7 +14002,7 @@ aptyalism
 antaios
 antalgesic 2
 antalgics 3
-antalgol 2
+antalgol 3
 acraspeda
 allothigenetic
 adelea
@@ -17177,7 +17177,7 @@ apologue 2
 apologues
 apolousis 2
 astacidae
-apolune 1
+apolune 2
 aralie
 anthracoxen
 anaerobian 1
@@ -19247,7 +19247,7 @@ abirritant 1
 autotypes
 areal 1
 albified
-areasoner 1
+areasoner 2
 archibenthic
 arecain 1
 arecas 2
@@ -19563,7 +19563,7 @@ argutely
 affluency 3
 arhauaco 1
 asphaltic
-aphanitism
+aphanitism 1
 awatch 1
 aliptteria
 ary 1
@@ -19856,7 +19856,7 @@ astraphobia 1
 akeley
 armillae 1
 armillary 1
-atonies
+atonies 1
 antigone 1
 annist
 ahorse
@@ -20680,7 +20680,7 @@ acetometer 1
 artifactitious 1
 ayurvedas 1
 axiolitic 1
-articulacy
+articulacy 1
 aleuroscope 1
 argemony 2
 anoa 1
@@ -21433,7 +21433,7 @@ aspect 1
 aspectable 3
 aspectant 2
 aspects 1
-acyclically 1
+acyclically 2
 aspens
 asper 1
 amnesties 2
@@ -22148,7 +22148,7 @@ ailantery 1
 abjudge 2
 argute 2
 acromegalies 2
-antebrachium
+antebrachium 1
 alcavala
 asthenia
 amours
@@ -24216,7 +24216,7 @@ automata 1
 apidae 2
 alcids
 awash 1
-aminities
+aminities 1
 automated 2
 argentite 1
 automates
