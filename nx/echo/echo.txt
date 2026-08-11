@@ -1659,7 +1659,7 @@ ethylenes 2
 epiphloedal 1
 electromerism
 electrotaxis 2
-emigr 2
+emigr 3
 ejusdem 1
 eyeish 1
 endoscopic 2
@@ -4011,7 +4011,7 @@ endhand 2
 erosionally
 emendatory 1
 empyemata 1
-empyemic
+empyemic 1
 empiercement 2
 enwind
 evirato 2
@@ -4194,7 +4194,7 @@ egoize
 enwound
 emptiers 1
 emptio 2
-emptor
+emptor 1
 eccyclema 2
 eggeater 2
 evagination
@@ -10937,7 +10937,7 @@ esd 2
 epilogizing 3
 epipteric 1
 expeditate 1
-eulogies
+eulogies 1
 euphuize
 eupyrion 2
 eupittone
@@ -11045,7 +11045,7 @@ earings
 euangiotic
 exceptioner
 engrossers
-epipial 4
+epipial 5
 eyne 1
 elderwomen 3
 empty 2
@@ -11224,7 +11224,7 @@ experimentalist 1
 epibolies 2
 evangeliaries
 eightscore 1
-endocycle
+endocycle 1
 exocrinology
 enkindling 2
 enthronised 3
