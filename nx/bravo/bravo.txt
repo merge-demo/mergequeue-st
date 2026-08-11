@@ -7366,7 +7366,7 @@ bootikins
 bighting
 beautifications
 boluses 2
-blindfolds 1
+blindfolds 2
 betime
 bastionet 1
 blotching 3
@@ -8629,7 +8629,7 @@ bactericide
 burgees 1
 billionism 1
 billionth 1
-braggartism
+braggartism 1
 brethel 4
 beldames 1
 brightsomeness 1
@@ -11486,7 +11486,7 @@ bundlers 1
 bandsmen
 basophilia 2
 begemming 1
-bedoctor
+bedoctor 1
 biformed 1
 baccalaurean
 bluewoods
@@ -12435,7 +12435,7 @@ banisterine 1
 bond
 bipinnatifid 2
 bless 1
-bondar
+bondar 1
 bockerel
 bastardly 3
 bonderize 1
@@ -13357,7 +13357,7 @@ basilosaurus 1
 both 1
 bradyphagia
 bothered 3
-bester 1
+bester 2
 bothers 1
 beety
 binding
@@ -17378,7 +17378,7 @@ busheling
 buccinator 1
 bimorphemic 1
 bijection 1
-biathlons 2
+biathlons 3
 butteries 1
 brachistochronic
 beignets
@@ -17871,7 +17871,7 @@ bush 2
 bloviate 1
 bushbody 1
 blotchier 1
-belowground
+belowground 1
 buntal 2
 bushbucks
 batrachium
