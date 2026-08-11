@@ -1341,7 +1341,7 @@ fishbones
 frundel 1
 fidate 2
 fruticeous 1
-flaxdrop
+flaxdrop 1
 filecard 1
 flenser
 fullword
@@ -3657,7 +3657,7 @@ forelooper 2
 floorings 2
 fuzzing 2
 funnelling 1
-fertilised 3
+fertilised 4
 foreglow 1
 finedrawing 4
 fluxweed 1
@@ -9540,7 +9540,7 @@ forbreak 4
 forbidden
 floatman 2
 florets
-flowmeter 1
+flowmeter 2
 fibdom 2
 functionalism 1
 faveoluli 3
@@ -11618,7 +11618,7 @@ frack
 forewinning
 fulgour
 formulizer
-fragilely 2
+fragilely 3
 fermata
 feedman 1
 fustics 2
