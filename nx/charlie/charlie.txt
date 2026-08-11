@@ -7160,7 +7160,7 @@ centraxonial
 centre
 clinoaxis
 centreboard 1
-centred 1
+centred 2
 centref 2
 centrepiece
 canephoroe
@@ -18958,7 +18958,7 @@ collaterality
 curari
 chuchona 2
 chromatophilous
-chaperon
+chaperon 1
 collateralized 2
 converts 2
 chromonemata
