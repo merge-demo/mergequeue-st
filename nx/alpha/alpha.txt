@@ -5972,7 +5972,7 @@ afterglows 1
 aggrandize 2
 althaea 1
 affinity 1
-aggrandizement 1
+aggrandizement 2
 aetiologist 1
 assiento 1
 athlete
@@ -9134,7 +9134,7 @@ atebrin
 agneaux 1
 adnation
 axisymmetrically 2
-apocryphalness
+apocryphalness 1
 achetidae
 allusions
 allusive 2
