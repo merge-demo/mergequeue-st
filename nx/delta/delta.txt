@@ -2353,7 +2353,7 @@ databases 2
 dissociant
 daphnid 1
 decadally
-devocalising
+devocalising 1
 decessit
 decerebrating
 daikon 1
@@ -8305,7 +8305,7 @@ dialect 1
 doomsman 2
 decolourized
 demoded
-disequalize 1
+disequalize 2
 diplogenetic
 datagram 1
 disenactment 2
@@ -16457,7 +16457,7 @@ decidement 1
 dasypeltis 2
 derivately
 dwaible 3
-delirate
+delirate 1
 diachyma 3
 drabbler 1
 datum
