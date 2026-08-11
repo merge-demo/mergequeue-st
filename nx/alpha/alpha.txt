@@ -4401,7 +4401,7 @@ adsorbability
 archpuritan 1
 allocryptic
 adsorbable
-acnodal
+acnodal 1
 angiothlipsis 1
 adsorbed
 adsorbent 3
@@ -6368,7 +6368,7 @@ ammoniums 2
 apargia
 aquaplaning 2
 afterbody 1
-agreeingly
+agreeingly 1
 agreement
 aubades 2
 aktivismus
@@ -8204,7 +8204,7 @@ algophagous
 algophilia 1
 algophilist
 albuminolysis 1
-acetonylacetone
+acetonylacetone 1
 algophobia 2
 ann 3
 algor
@@ -9954,7 +9954,7 @@ artificious
 avoue
 alternator 2
 abandonee 1
-arachnoidean 1
+arachnoidean 2
 annaline 2
 alloy 2
 androeccia 3
@@ -23671,7 +23671,7 @@ aerosolized
 auriculare
 anticreativeness 1
 andaste
-acridin 2
+acridin 3
 auriculares 1
 acarpous 2
 ammodyte 1
