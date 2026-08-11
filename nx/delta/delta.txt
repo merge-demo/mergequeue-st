@@ -1725,7 +1725,7 @@ diploidy 1
 decidendi
 dietrichite
 dearworthily 3
-dearworthiness 1
+dearworthiness 2
 dextrinate 2
 dodoma
 deformedness
@@ -4958,7 +4958,7 @@ dogcatchers
 diosma 2
 druze 4
 dummies 3
-diphyletic
+diphyletic 1
 dueness 1
 diversionary
 distinguish 2
@@ -5598,7 +5598,7 @@ dampening 5
 demythologised 1
 decadents 1
 dephlegmation 1
-dephlegmedness 1
+dephlegmedness 2
 dephlogisticate
 dana 1
 dess 2
@@ -5749,7 +5749,7 @@ dewer 1
 dallyman
 disoxygenate 2
 dainties 2
-dialog
+dialog 1
 datableness
 diaxial
 deceit 1
@@ -7669,7 +7669,7 @@ deviancy 1
 dogcatcher
 disquantity 2
 decorativeness 3
-difform
+difform 1
 deviated
 deviately
 dramatical 3
@@ -8621,7 +8621,7 @@ dibbuk 3
 denatured 2
 diarrhea 2
 dows
-decarchy 3
+decarchy 4
 diarrhoeal 2
 downbeard 1
 dephysicalize
@@ -8774,7 +8774,7 @@ diazins 1
 dulcifying 2
 declarators 1
 defeat 1
-defrocking 3
+defrocking 4
 dictaphone 4
 dequeen 1
 dragsmen
@@ -10471,7 +10471,7 @@ dispost
 deary 2
 diphthongation 3
 dilutedness 1
-dendrodra
+dendrodra 1
 disordeine 1
 diphthonging
 diphthongisation
@@ -10861,7 +10861,7 @@ drudging 1
 dirty 3
 donates
 denazifying 2
-dirtying 2
+dirtying 3
 drifts
 dyslogia
 dissaturate 2
@@ -10985,7 +10985,7 @@ downgoing
 disaligned 1
 disalliege 3
 dodona
-downbend 2
+downbend 3
 doorframe 2
 disallow 2
 displaying 1
@@ -11037,7 +11037,7 @@ disappearer
 diamagnetically 2
 dibbling 1
 deedy 1
-decernment 1
+decernment 2
 demulsification 2
 dobras
 dactyliology
@@ -11554,7 +11554,7 @@ dithering 1
 discerpibility 1
 disconsolately 2
 datasets
-dispeopling
+dispeopling 1
 dunkle 1
 dysoxidizable
 divulgator 1
@@ -14722,7 +14722,7 @@ disfigurements 3
 decahedral 1
 doctorbird 2
 dekametre 2
-declinedness
+declinedness 1
 darnation
 dioptrically 3
 dedolomitize 2
@@ -14884,7 +14884,7 @@ dodecahydrate 1
 duodenojejunostomy
 divata 1
 deploys 3
-disanimating
+disanimating 1
 dictyonina 1
 drogue 1
 dolph
@@ -16073,7 +16073,7 @@ disorderedly 1
 doughfaceism
 deracialize 2
 dissaving
-decontaminate
+decontaminate 1
 dactylographer 1
 demigoddessship
 dogbolt
@@ -16124,7 +16124,7 @@ dingee 2
 doomsday 1
 douping 2
 disperses 1
-deformity
+deformity 1
 deforcing 1
 dermamycosis 1
 dour
@@ -16206,7 +16206,7 @@ doweress 1
 dingeys 1
 dunches 4
 dent 2
-dehydroffroze 2
+dehydroffroze 3
 dioestrous
 dowery 1
 derailer
@@ -16704,7 +16704,7 @@ despondent
 decasualize 2
 doruck
 diablo
-drakelet
+drakelet 1
 decaspermous 2
 drugging 1
 dramatically 2
@@ -17431,7 +17431,7 @@ disjoinable 2
 decream
 dropsies
 distomatidae 2
-dropwise
+dropwise 1
 despairer 2
 dodderers
 dropwort 1
@@ -17543,7 +17543,7 @@ dendroidea
 doorhawk
 drawability
 ditrocha 2
-differencingly
+differencingly 1
 drugs 1
 druidess
 dunghilly
