@@ -11388,7 +11388,7 @@ coenamorment
 commences
 chiastic
 conscienceless
-chloroplatinous
+chloroplatinous 1
 chloroprene 2
 creature 1
 coronas
@@ -17457,7 +17457,7 @@ cobblers
 cobblership 1
 cobbles
 cobblestone 1
-clepsydras
+clepsydras 1
 cobblestoned
 chokeweed
 cobbling
@@ -28914,7 +28914,7 @@ crewmen
 crewneck 1
 capsheaf
 chaetognathan 1
-crex 3
+crex 4
 cry 1
 crikey
 cryable
