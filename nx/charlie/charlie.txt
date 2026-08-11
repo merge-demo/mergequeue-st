@@ -1444,7 +1444,7 @@ criollas 1
 cornerwise 1
 calypso 1
 copals 1
-calypsoes
+calypsoes 1
 calypsonian 1
 compressedly
 calypsos
@@ -1935,7 +1935,7 @@ cameleer
 culverins 1
 cauliflorous 2
 cameline 2
-camelish 1
+camelish 2
 cardigans 1
 camellike
 cornwallises 1
@@ -2877,7 +2877,7 @@ churchreeve 2
 canonry
 canons
 canonship 1
-consideration 1
+consideration 2
 canoodles 1
 counsinhood
 canopy
@@ -7062,7 +7062,7 @@ cartilage
 cyclosporous
 centerpiece 1
 craizey 1
-combinedly 1
+combinedly 2
 codex 1
 centerpunch 1
 crackdown
@@ -8325,7 +8325,7 @@ challises
 challot 1
 campagnols
 challote
-carotidean 1
+carotidean 2
 catalogers
 carburated
 caseate
@@ -11666,7 +11666,7 @@ clouding
 choline
 coryphaenidae 2
 cholinic 1
-caitifty
+caitifty 1
 cotangents
 cholinolytic
 conjugably 1
@@ -15287,7 +15287,7 @@ cordant
 copalchi
 clamouring
 collembolan 2
-clamourist 1
+clamourist 2
 coadmired
 cellaret
 congous
@@ -15651,7 +15651,7 @@ claustration
 characinoid 1
 concludence 1
 coenoecium
-claustrophilia 1
+claustrophilia 2
 cassabanana
 centas 2
 circumambulatory
@@ -15693,7 +15693,7 @@ clavicembalo
 claviceps
 caiarara 1
 cartage
-clavichord
+clavichord 1
 caulopteris
 colonialistic
 clavicymbal
@@ -16276,7 +16276,7 @@ conterminous
 constrainment 1
 cosmopolitan
 curvilinear 1
-civilise 1
+civilise 2
 citronize
 clint
 clinting
@@ -16554,7 +16554,7 @@ cloistering
 cheeky
 comal 2
 culet
-croupes 1
+croupes 2
 chirm
 cloisterly
 carburization 1
@@ -19588,7 +19588,7 @@ ciliata
 chromaticism
 coextensiveness
 capanne
-coregence
+coregence 1
 coprozoic
 columellia
 columna 1
@@ -21072,7 +21072,7 @@ celoms
 comradely
 comradeliness
 comradeship
-caulked
+caulked 1
 chargfaires 1
 coms
 comsat
@@ -21524,7 +21524,7 @@ concretist 1
 concretive 1
 cholangiographic 1
 concretively
-concretized 1
+concretized 2
 cardsharping 1
 comblike
 concretor 1
@@ -24547,7 +24547,7 @@ copatentee
 copatriot
 copatroness 1
 cathectic 1
-crankum 1
+crankum 2
 connascent
 chromatodysopia
 cope
@@ -25368,7 +25368,7 @@ ce 1
 corncutter 1
 corndodger 1
 cornea 1
-corneal 2
+corneal 3
 corneas 1
 chiurm 2
 cheddaring
@@ -26493,7 +26493,7 @@ cystocarp 1
 careenage
 cotrine
 cathodoluminescence 1
-cacoplastic
+cacoplastic 1
 curet
 catocalid
 caroler
@@ -26581,7 +26581,7 @@ comparsa 2
 cube 1
 casaun 1
 couchings
-couchmaker
+couchmaker 1
 couchmate 2
 cryptocommercial
 coud 1
@@ -29195,7 +29195,7 @@ chanfron
 colicolitis
 cryoscopic
 cryoscopies 2
-constipate 1
+constipate 2
 cryosel 1
 cryospheric 1
 criosphinx 2
@@ -31051,7 +31051,7 @@ calescence
 crepe
 cremation
 colorize
-caprocks 1
+caprocks 2
 cumsha 2
 cumshaw 1
 cyclones
@@ -31238,7 +31238,7 @@ clawhammer
 cacanapa 1
 cura 3
 correctness
-chetah
+chetah 1
 curable
 curableness
 crawlways
