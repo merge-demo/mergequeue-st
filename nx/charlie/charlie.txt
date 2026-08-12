@@ -3510,7 +3510,7 @@ capstans 1
 capstone 1
 capsula
 cons
-capsular
+capsular 1
 capsulation
 collegatary
 chainomatic
@@ -4526,7 +4526,7 @@ chortling
 cosponsorship
 carnages 1
 casamarca 1
-carnalite
+carnalite 1
 culverin 1
 carnalize
 counterexposition
@@ -8654,7 +8654,7 @@ chantingly 1
 carman 2
 commonest 1
 cheiloplasties 1
-chantry 1
+chantry 2
 chanukah 1
 chaology 1
 chaori
@@ -9189,7 +9189,7 @@ chastener
 cashaw
 coplanation 2
 curvinerved
-chaster 1
+chaster 2
 crombec 1
 chastest 5
 chasteweed
@@ -15204,7 +15204,7 @@ clairvoyances
 contraposaune
 clairvoyancy
 clairvoyant
-ceratoduses 1
+ceratoduses 2
 chinaberry 2
 claystone
 curtained
@@ -20321,7 +20321,7 @@ communicate
 czarinian
 convertibles 1
 communicating 1
-communicative
+communicative 1
 countrie
 cercospora
 command
@@ -23096,7 +23096,7 @@ coccosphere 1
 conspectus 4
 cullying
 colias
-conspectuses 1
+conspectuses 2
 consperse 1
 conspersion
 conspicuity 1
@@ -24246,7 +24246,7 @@ constructing 3
 cynipidous 1
 convolves
 capacity
-crinital
+crinital 1
 contumaciously
 crowtoe 1
 collinear
@@ -26480,7 +26480,7 @@ corymbosely
 chorography
 crowbars 1
 calli 1
-cotqueans
+cotqueans 1
 concerningly
 courbache
 cotransduction 1
