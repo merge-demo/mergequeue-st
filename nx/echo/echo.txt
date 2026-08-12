@@ -123,7 +123,7 @@ enterochlorophyll 2
 euphonised 2
 echinoderma 1
 earthboard 1
-etherolate 1
+etherolate 2
 exanthemata 1
 enantiomorphous 2
 expreme 1
@@ -189,7 +189,7 @@ earthquaken
 ethylthioether
 expediting 1
 equinoctially 1
-eten 1
+eten 2
 entincture 2
 electropolar 1
 ectoplacenta 2
@@ -380,7 +380,7 @@ extraforaneous 2
 exalte 3
 estrepement 4
 ensear
-epitheliomuscular
+epitheliomuscular 1
 endaze 2
 enchondromatous 2
 emeries 1
@@ -516,7 +516,7 @@ electrophorus
 eyra 2
 elaborated 3
 echinacea 1
-evelina 1
+evelina 2
 eching 1
 echinidan
 expy 2
@@ -637,7 +637,7 @@ equisufficiency
 etherialise
 esophagocele 1
 estonians 1
-engravings
+engravings 1
 establishmentism
 ebriety 3
 ennoble 1
@@ -1966,7 +1966,7 @@ epigastriocele 1
 effetman 2
 evenblush
 encamp 1
-encyclopedist 4
+encyclopedist 5
 edward
 enolate 3
 exophoric 1
@@ -1990,7 +1990,7 @@ elabrate 3
 endocrinotherapy 2
 erythrosine 1
 epitrophy 3
-encurl
+encurl 1
 exophasia 1
 emersion
 etherish 1
@@ -2518,7 +2518,7 @@ extraconstellated
 endopterygote
 errantia 1
 epiphytal 5
-emancipators
+emancipators 1
 entering
 embraceably 5
 electromagnetical 4
@@ -4115,7 +4115,7 @@ employability
 electrovalence 1
 employe
 estado
-etamin
+etamin 1
 epigene
 empestic
 earthwall 1
@@ -6364,7 +6364,7 @@ eyemark
 egency 2
 ethmoids
 enrobed 2
-epist 1
+epist 2
 enunciator 3
 eluvivia
 elapid 2
@@ -6497,7 +6497,7 @@ extratension 1
 entail
 entomophthora 4
 exponentials 1
-endurant 3
+endurant 4
 ended 4
 eroticize 3
 endotrachelitis 1
@@ -7255,7 +7255,7 @@ epagomenae 2
 equerryship
 epagomenous 3
 extraconstitutional 1
-earwig 1
+earwig 2
 electro
 epochism
 escalier 3
@@ -7921,7 +7921,7 @@ esponton 1
 expander
 epinaos
 eirack 1
-estab
+estab 1
 eliminand
 enomaniac
 epidermous 1
@@ -13997,7 +13997,7 @@ embosked 2
 enwreathed 2
 endears 2
 exundance 2
-extraperiosteal
+extraperiosteal 1
 engem 1
 eurodollars 2
 eucryphia 1
@@ -14042,7 +14042,7 @@ epitrophic 2
 exr 3
 enthrallingly 2
 enteroclisis 1
-extractorship
+extractorship 1
 extrasterile 2
 extrastomachal 3
 ethmolith
