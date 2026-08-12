@@ -14555,7 +14555,7 @@ disposing 2
 debussed 2
 domine 1
 detents
-divisive
+divisive 1
 divisively
 diners
 develope 3
@@ -16698,7 +16698,7 @@ draintile 2
 debouchure 2
 duodiode 3
 detach
-darnel
+darnel 1
 drinking
 despondent
 decasualize 2
