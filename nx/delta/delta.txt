@@ -3447,7 +3447,7 @@ debyes
 disassociating
 doffed 2
 defluvium
-demimark
+demimark 1
 dang 1
 defoamed 2
 diacetylmorphine 2
@@ -12896,7 +12896,7 @@ dermaptera
 disnew 2
 drachmae
 drawspan 1
-delving 2
+delving 3
 deorientalize 2
 disobeying 2
 delineative 1
