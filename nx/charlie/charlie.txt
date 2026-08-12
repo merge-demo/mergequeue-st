@@ -535,7 +535,7 @@ cadetship
 counterstamp
 cadettes
 colorists 2
-coprecipitating
+coprecipitating 1
 competence
 clogmaker 1
 chattertonian 2
@@ -6397,7 +6397,7 @@ cilantro
 cautery
 cauteries
 cauterisation 2
-cauterise
+cauterise 1
 collision
 cloudland
 cauterism 1
@@ -7567,7 +7567,7 @@ cooked 4
 citrulline
 chondric 1
 corydaline
-cophouse
+cophouse 1
 cerebrifugal 2
 cartoonists
 cerebrize
@@ -20757,7 +20757,7 @@ complexometry 1
 caveman
 chandry 1
 cacalia
-complexus
+complexus 1
 cydippida 1
 comply 3
 classicizing 1
@@ -21346,7 +21346,7 @@ cotbetty
 conciliable
 conciliabule 1
 coassession
-canicide 1
+canicide 2
 clast
 cliqued
 cupped
@@ -31859,7 +31859,7 @@ cutout 2
 collenchyma
 cutpurse 1
 cyclothyme 2
-casuality
+casuality 1
 cochliodont
 cransier
 costumed 1
