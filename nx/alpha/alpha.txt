@@ -620,7 +620,7 @@ archbishoprics 1
 autoeducation 2
 arisen 2
 algonquians 3
-antarctic
+antarctic 1
 aphasic 1
 alexic 1
 antelopine 1
@@ -1348,7 +1348,7 @@ agamous 1
 arginase
 anangular 1
 anthracosilicosis
-amyelia 2
+amyelia 3
 atomized
 athanor
 acylating
@@ -5856,7 +5856,7 @@ anuric 1
 agatizes
 agatizing
 agatoid
-arctan 2
+arctan 3
 alarbus
 agaze 2
 agedness
@@ -19156,7 +19156,7 @@ angiomatous 1
 anticommunists 1
 allotropize 1
 arcose
-angiospermal
+angiospermal 1
 acrobystitis
 antipolo
 aggravated 2
@@ -23210,7 +23210,7 @@ azotous
 accomplice 1
 architecturesque 1
 attestator
-antiseption 1
+antiseption 2
 attested 3
 apyrexy 2
 attester 1
@@ -23944,7 +23944,7 @@ amphibiousness 1
 annatto
 acrology 1
 antiscepticism
-abadejo 1
+abadejo 2
 anepiploic
 autoanalytic
 anseriformes
