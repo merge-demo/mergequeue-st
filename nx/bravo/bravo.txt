@@ -2994,7 +2994,7 @@ buat 1
 burrel 1
 barroom 2
 barruly 1
-barsac 1
+barsac 2
 backhatch
 beaveries 2
 becowarding
@@ -12432,7 +12432,7 @@ barker 1
 bareboats 1
 bureaux 1
 banisterine 1
-bond
+bond 1
 bipinnatifid 3
 bless 1
 bondar 1
