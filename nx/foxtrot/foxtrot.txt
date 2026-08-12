@@ -510,7 +510,7 @@ flamers 1
 frowny 3
 foresense 3
 falco 1
-fermentive
+fermentive 1
 forgivableness 2
 forepaled
 fetterless 1
@@ -1707,7 +1707,7 @@ floats 1
 filicin 1
 fortravail 3
 factable 1
-floroon 3
+floroon 4
 fibrocyte 1
 flashflood 1
 feastfully 1
@@ -2657,7 +2657,7 @@ feedings 2
 fainaigue 1
 froufrou 2
 flickering 2
-foxfishes
+foxfishes 1
 fifty 1
 fetish
 fontanelle 1
@@ -7049,7 +7049,7 @@ foreganger 3
 fontinas 1
 forepromise 1
 figura
-fonts 2
+fonts 3
 fists
 floriparous 1
 francis 1
