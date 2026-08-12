@@ -16944,7 +16944,7 @@ balloonlike 1
 bugout 1
 bugs 2
 bugweed
-barometry
+barometry 1
 blacktopped
 bugwort
 banca 1
