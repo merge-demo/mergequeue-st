@@ -5258,7 +5258,7 @@ estocs 1
 ergodicity 3
 elegiast 1
 eliminability 1
-extrahepatic
+extrahepatic 1
 eurybathic
 eucopepoda
 endogamy 2
@@ -7591,7 +7591,7 @@ elapse
 eoliths
 enterohelcosis
 epiparodos 2
-epicortical 2
+epicortical 3
 enterostomy 3
 esere 2
 educed
