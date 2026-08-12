@@ -19429,7 +19429,7 @@ calcitonin 1
 chimaeridae
 cephalopagus
 capillaceous
-carbohydrazide
+carbohydrazide 1
 cup
 chasty
 crosshaul
@@ -25291,7 +25291,7 @@ cork
 corkage 1
 canoodler 1
 cocreates 1
-culmigenous
+culmigenous 1
 corkages
 corkboard
 conventionalized
@@ -31672,7 +31672,7 @@ coth
 cushiness 1
 cushing 2
 cosmical
-cushion 1
+cushion 2
 cushioned
 cushionet 1
 cushionflower
