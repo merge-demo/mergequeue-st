@@ -5888,7 +5888,7 @@ exocytosis
 endsweep 1
 enharden 1
 eurytopicity 2
-exoenzymic 1
+exoenzymic 2
 embuskin
 encages 2
 expos 3
