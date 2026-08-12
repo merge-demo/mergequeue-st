@@ -478,7 +478,7 @@ golpe
 gipsies 1
 galericulate 2
 groomers 3
-goudy 2
+goudy 3
 germing 4
 gadding 1
 gasifiers 1
@@ -3458,7 +3458,7 @@ grueller 2
 goloch 3
 glimpse 2
 gentiin 1
-girlish
+girlish 1
 gagman 2
 gagee 1
 gregg 3
@@ -5584,7 +5584,7 @@ goldseed
 grisping 3
 gnomonologically 2
 giobertite
-guayroto
+guayroto 1
 graptolithida 3
 globefish 1
 glochid 2
@@ -6859,7 +6859,7 @@ gair 2
 geed 1
 gaposises 1
 grainman 1
-granma
+granma 1
 gynandroid 2
 garfish
 gregarina
@@ -7007,7 +7007,7 @@ gossipry 2
 gemmulation 1
 garrat 1
 giddybrain 1
-gladdener 1
+gladdener 2
 geothermally 1
 gasthauses
 gnathic
@@ -7345,7 +7345,7 @@ greatcoats
 gustative 3
 gossard
 grievedly 1
-gametogonium 3
+gametogonium 4
 gonfalonier 1
 glumpiness 1
 goosepimply 1
@@ -7556,7 +7556,7 @@ glitch 3
 guessable 1
 glottalized 2
 gat 2
-governed 3
+governed 4
 gotten 1
 graecizing
 governesses 2
@@ -8120,7 +8120,7 @@ grievingly
 grantees
 gaurie 4
 gapeworm 3
-graduality
+graduality 1
 gammarid
 gulch 2
 grayhound 2
@@ -8534,7 +8534,7 @@ gatherum 1
 geognostical 1
 gulpers 2
 genie
-gabling
+gabling 1
 ginglymus
 gluttoness 1
 grouchingly 1
