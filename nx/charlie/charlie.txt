@@ -1599,7 +1599,7 @@ closings 1
 callop
 camphorate 1
 cancerwort
-cutcher 2
+cutcher 3
 corrobboree 1
 callorhynchidae
 castratory
@@ -17469,7 +17469,7 @@ categorematically 1
 crowning 2
 cobdenite
 cobelief 3
-cobeliever
+cobeliever 1
 chowderheaded
 coracomandibular
 callous 1
@@ -29334,7 +29334,7 @@ cytochalasin 1
 cryptolith
 cryptology
 conspiracies
-callas 1
+callas 2
 consubstantiality
 cryptomere
 cryptomerous
