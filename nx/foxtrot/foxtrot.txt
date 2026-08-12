@@ -5442,7 +5442,7 @@ fiendliness 2
 fashion 3
 frolickly 1
 forseek 3
-fitchery 1
+fitchery 2
 fusobteria 5
 femur 1
 filterable 2
@@ -5854,7 +5854,7 @@ fulcrums 3
 flidge 3
 farine
 fertilisable 1
-flagellatory 1
+flagellatory 2
 foreplot 1
 fowling
 factorially 1
@@ -8530,7 +8530,7 @@ formica 3
 foolishly
 forewings 2
 fasciculate 3
-furloughed 1
+furloughed 2
 fitty
 formicate 1
 filix 1
