@@ -2203,7 +2203,7 @@ baptizement
 boundness 3
 beeyard 3
 bickiron
-baptizer
+baptizer 1
 bobsledder 1
 baptizing 1
 burelle
