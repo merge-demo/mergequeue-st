@@ -3177,7 +3177,7 @@ distaff 1
 doltishness 1
 duelling 2
 depolarizes 1
-dimitting 1
+dimitting 2
 defectless 1
 declaratives
 defectlessness 1
@@ -6765,7 +6765,7 @@ detestably
 diathermic
 desilvers
 demultiplex 1
-demoniacal
+demoniacal 1
 daeva 2
 dolichocephal
 disheir
@@ -8514,7 +8514,7 @@ disaccharides 3
 dinked
 diapause 2
 diapauses
-donaries
+donaries 1
 decarburize
 dodecastylos 1
 divinations 3
@@ -12875,7 +12875,7 @@ dromond 1
 dismissal
 dismissed 2
 distemperate 1
-dismisses
+dismisses 1
 dismissing 2
 dismissory
 dother
@@ -13822,7 +13822,7 @@ deader
 dodecanesian 1
 driftpin 2
 dogvane
-decapod
+decapod 1
 diamondizing 2
 digram 1
 dindle
@@ -16605,7 +16605,7 @@ dragline 2
 dragoman 3
 dissimilarities 3
 diatonically 2
-dragomanate 1
+dragomanate 2
 disharmonic 1
 decompile 1
 daman
