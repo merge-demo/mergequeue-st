@@ -5570,7 +5570,7 @@ deperms 1
 disserves
 dabble 1
 dichromatopsia
-depersonalise 2
+depersonalise 3
 depersonalising
 desponded 1
 diplomatology 2
@@ -10173,7 +10173,7 @@ drillability
 dispassioned 3
 deripia 1
 declarable
-dehonestate
+dehonestate 1
 demirevetment 1
 disallowing
 distillation
@@ -16263,7 +16263,7 @@ downface 2
 downstair 2
 duodenocystostomy 2
 deadlocking 2
-dacryolite 2
+dacryolite 3
 dipsaceous 2
 denominationalist 1
 desiderant 3
