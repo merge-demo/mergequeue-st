@@ -2811,7 +2811,7 @@ bowdlerism 4
 body
 barosinusitus 1
 barosmin 2
-backwashed
+backwashed 1
 bassoonist 2
 blithefully 1
 buffaloback 4
@@ -9824,7 +9824,7 @@ bisubstitution
 babblingly 1
 bubblebow 1
 bocca 2
-bitable 1
+bitable 2
 bidialectal 1
 bytalks 1
 bitanhol 1
@@ -17956,7 +17956,7 @@ bookbinding
 byssinosis 5
 bassists 1
 bedot
-blasia
+blasia 1
 blackheartedness 1
 bolty 1
 bemoult 2
