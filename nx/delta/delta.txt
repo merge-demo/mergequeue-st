@@ -263,7 +263,7 @@ dissuitable 1
 dry 1
 dizzard 2
 dagomba 1
-daguerreotype
+daguerreotype 1
 downspout 1
 drouth 1
 degermed 2
@@ -1332,7 +1332,7 @@ daltonic
 defial
 deoxidizers 2
 dysergia
-disjunctions 1
+disjunctions 2
 deludingly 1
 delftware
 draconism
@@ -3746,7 +3746,7 @@ defatigate 2
 dehorting 1
 digitoxin 1
 decompensation 2
-duckweed 2
+duckweed 3
 dehumanising
 dehumanization 2
 draftswomanship 1
@@ -6557,7 +6557,7 @@ disinvest 2
 desecrated 1
 dilemmatical
 dipole 3
-deavely 3
+deavely 4
 dendrologic 2
 danda 1
 dioicous 1
@@ -9920,7 +9920,7 @@ downwardness 1
 dimidiate
 dispart
 deodorizers
-dissonancy
+dissonancy 1
 dissinew 1
 decimeter 2
 downcourt 2
@@ -11761,7 +11761,7 @@ diplococcoid 1
 dollarleaf 3
 delabialize 2
 demot 2
-dosserets 2
+dosserets 3
 deinodon 1
 discriminating 1
 dacryuria 1
@@ -12168,7 +12168,7 @@ disfoliaged 1
 demobilization 1
 distich 2
 descendibility
-discontentment 1
+discontentment 2
 disherent
 disfortune
 dramatism 1
@@ -12629,7 +12629,7 @@ diskelion 2
 downers 1
 dysury 1
 desmocytoma 2
-disker
+disker 1
 dystomic 1
 disgusted
 dumplings
@@ -12894,7 +12894,7 @@ deviator 1
 dactylioglyphy 2
 dermaptera
 disnew 2
-drachmae
+drachmae 1
 drawspan 1
 delving 3
 deorientalize 2
@@ -15071,7 +15071,7 @@ dogeless 1
 dogmatical
 danube
 distylar 2
-diagrammable 1
+diagrammable 2
 disfrequent 2
 dogmatise 1
 deambulatory
@@ -15705,7 +15705,7 @@ dorylinae 1
 deflectometer 1
 dakota
 dendrochronologist 1
-denunciation
+denunciation 1
 dismarch 3
 deescalation
 disintegrates
@@ -17197,7 +17197,7 @@ diswont 1
 drinks 2
 dipody 1
 dynamics 1
-dansants 2
+dansants 3
 daffiest 1
 dinnerly
 decachord
