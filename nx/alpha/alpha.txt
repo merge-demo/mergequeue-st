@@ -1348,7 +1348,7 @@ agamous 1
 arginase
 anangular 1
 anthracosilicosis
-amyelia 2
+amyelia 3
 atomized
 athanor
 acylating
@@ -1986,7 +1986,7 @@ acetylizer
 anterofrontal
 assmannshauser
 acetylmethylcarbinol
-aporetic
+aporetic 1
 arboreta 3
 acetylperoxide 1
 acetylphenylhydrazine 1
@@ -5856,7 +5856,7 @@ anuric 1
 agatizes
 agatizing
 agatoid
-arctan 2
+arctan 3
 alarbus
 agaze 2
 agedness
@@ -6657,7 +6657,7 @@ assembles 2
 anodynous 3
 apterous
 augustal
-astropecten 1
+astropecten 2
 anathematize
 aquinas
 aldeament 1
@@ -8182,7 +8182,7 @@ anacoluthia
 abiogenetic
 aglossate 1
 artisanship 3
-algoid 1
+algoid 2
 adroitness 2
 anglophiliac 1
 algolagnia
@@ -8982,7 +8982,7 @@ accesses
 angelocracy 1
 auxiliatory 1
 allophanamid 2
-allophanate
+allophanate 1
 allophanates 2
 allophanic 1
 acredula 1
@@ -10639,7 +10639,7 @@ amyl
 ainu
 aphorismatic 2
 attomy 2
-aglyphodontia
+aglyphodontia 1
 anthropozoic
 agnations 1
 amildar 2
@@ -11210,7 +11210,7 @@ agynous 1
 aerologists 1
 authority
 attesting
-attainability
+attainability 1
 apocyneous 2
 amphibolitic 2
 attentiveness 1
@@ -19156,7 +19156,7 @@ angiomatous 1
 anticommunists 1
 allotropize 1
 arcose
-angiospermal
+angiospermal 1
 acrobystitis
 antipolo
 aggravated 2
@@ -19571,7 +19571,7 @@ aria
 antasphyctic 1
 autoslip
 almude 2
-acyls 2
+acyls 3
 aryanism
 arvicole
 aphyllies 1
@@ -23944,7 +23944,7 @@ amphibiousness 1
 annatto
 acrology 1
 antiscepticism
-abadejo 1
+abadejo 2
 anepiploic
 autoanalytic
 anseriformes
@@ -24662,7 +24662,7 @@ avenge
 abnegated
 actinomycin
 absurdness 1
-avengeful
+avengeful 1
 ampelography 2
 adventureship
 adenoiditis
