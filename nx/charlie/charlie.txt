@@ -1599,7 +1599,7 @@ closings 1
 callop
 camphorate 1
 cancerwort
-cutcher 2
+cutcher 3
 corrobboree 1
 callorhynchidae
 castratory
@@ -17469,7 +17469,7 @@ categorematically 1
 crowning 2
 cobdenite
 cobelief 3
-cobeliever
+cobeliever 1
 chowderheaded
 coracomandibular
 callous 1
@@ -17756,7 +17756,7 @@ citation 1
 campbellism
 coct 2
 coctile
-chloroformist 1
+chloroformist 2
 condog 1
 cocuyo 2
 cocullo
@@ -20440,7 +20440,7 @@ cresols 1
 condonative 1
 concamerate 1
 companable
-companage
+companage 1
 circumfluent 1
 counterword 1
 cerebroma
@@ -25557,7 +25557,7 @@ chamaerrhine
 coronership
 chasidim 1
 coroneted
-caburn
+caburn 1
 chaise 1
 crutchlike 1
 cordeliere
@@ -26660,7 +26660,7 @@ cellos
 corbels 1
 curtlax 1
 ciliolum 2
-countably
+countably 1
 coccyges
 cicatrizant 1
 clads
@@ -29334,7 +29334,7 @@ cytochalasin 1
 cryptolith
 cryptology
 conspiracies
-callas 1
+callas 2
 consubstantiality
 cryptomere
 cryptomerous
