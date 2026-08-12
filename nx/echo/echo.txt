@@ -4439,7 +4439,7 @@ encastre
 encastrement 1
 encaustically 2
 emotionalizing
-efferent 3
+efferent 4
 erth 1
 enceinte 2
 entozoology 1
@@ -7646,7 +7646,7 @@ eriocaulaceous 3
 effluxion 2
 estrus 4
 esprise
-extruder
+extruder 1
 ellipticalness 2
 epidemically 1
 exalt 2
@@ -12725,7 +12725,7 @@ emparadise 2
 embattle
 electromyographical 1
 exodontics
-estrogenically 2
+estrogenically 3
 etoffe 3
 exonian 1
 exonerator 2
