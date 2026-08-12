@@ -6726,7 +6726,7 @@ forelegs 2
 fogon 1
 fogproof 1
 forstand 3
-fellator 4
+fellator 5
 frangulaceae
 foramens 1
 fictive
