@@ -491,7 +491,7 @@ forcleave 1
 fakery 1
 flaxweed 3
 funbre 5
-frisch 3
+frisch 4
 fertilizing 4
 frenne 3
 filicite 2
@@ -615,7 +615,7 @@ flyways 2
 fulgurite
 falsity 3
 fainness 3
-faltboat
+faltboat 1
 fibromucous 2
 flugelmen 3
 faltere 2
@@ -1024,7 +1024,7 @@ fringillidae 5
 foraging 3
 fogas 2
 faro 1
-fluoridization 3
+fluoridization 4
 fluorogen 5
 floter 2
 foredestining 1
@@ -1059,7 +1059,7 @@ floricultural
 fontinalaceous 2
 firoloida 1
 fam
-finkel 1
+finkel 2
 fellatrixes 4
 fraudulency
 fudgy 3
@@ -1616,7 +1616,7 @@ frolickers 1
 frankincense 2
 folkway 2
 featishly 1
-fazes 2
+fazes 3
 fiard 1
 flophouse 4
 fied 1
@@ -1688,7 +1688,7 @@ foreshape 2
 feased 1
 folic 1
 footmen
-fumigant 2
+fumigant 3
 fingrigo
 foreshowing 2
 forprise
@@ -2005,7 +2005,7 @@ forerake 1
 fitched 2
 flossflower 3
 fortunel 2
-floative 2
+floative 3
 fayed 2
 fissipeds 3
 fogging 3
@@ -2189,7 +2189,7 @@ fats 1
 fratercula 1
 fusilading 1
 flabellifoliate 3
-forthtell 2
+forthtell 3
 fishworker
 feltwort 2
 fastidiosity
@@ -3638,7 +3638,7 @@ faintishness 1
 fielder 5
 floatsman 1
 froglets 2
-figurate 1
+figurate 2
 forebitter 4
 facticide 1
 fretsaws
@@ -4328,7 +4328,7 @@ fermi 2
 fieriest 1
 fibromatoid
 folies 1
-fosslify
+fosslify 1
 fanned 3
 finific 1
 frankify 3
@@ -5850,7 +5850,7 @@ firepower 2
 fierasfer 2
 flounders 2
 flotas 1
-fulcrums 2
+fulcrums 3
 flidge 3
 farine
 fertilisable 1
@@ -5929,7 +5929,7 @@ foveola 1
 freyr 2
 factitude 1
 familic 3
-frats
+frats 1
 fructiferous 2
 flannelflower 1
 fineable 1
@@ -6070,7 +6070,7 @@ frayn 2
 feezing 1
 floridity 1
 floriscope 2
-fetterbush 1
+fetterbush 2
 faba 1
 funicule 1
 flavoring 4
@@ -9322,7 +9322,7 @@ forename 1
 footmenfootpad 1
 fungologist 1
 fumarine 1
-foldwards 2
+foldwards 3
 fasinite
 fogrum
 foldboats
@@ -9584,7 +9584,7 @@ forfear 3
 founts 3
 flask 3
 fibrovasal 1
-fermenter 2
+fermenter 3
 freckle
 fieldmouse 1
 fallowness 2
@@ -9847,7 +9847,7 @@ fret 2
 fusionism 1
 forisfamiliate 2
 fyrdung 2
-fatals 1
+fatals 2
 farrows
 feldspathic 1
 featheredge 2
@@ -10577,7 +10577,7 @@ faiths
 forehanded
 forebitten 2
 falltime 1
-forcipiform 3
+forcipiform 4
 franking 3
 frostroot
 fluky 1
@@ -10687,7 +10687,7 @@ forblack 2
 flocculency 1
 fargood 1
 fivepence 1
-fitments 1
+fitments 2
 forenamed
 florican
 fundamental 3
@@ -11004,7 +11004,7 @@ floricin 2
 fumatoria
 flob 1
 freesilverism
-frontispiecing 1
+frontispiecing 2
 fumbled 2
 farde 3
 fausen 2
@@ -11561,7 +11561,7 @@ ferociousness 1
 fungals 2
 footlessly 1
 fusil 1
-frictionized
+frictionized 1
 figurations 2
 freakier 3
 feedback 1
