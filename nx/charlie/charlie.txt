@@ -300,7 +300,7 @@ cacicus 1
 camote 2
 carangin 2
 cacidrosis
-costicervical 2
+costicervical 3
 coreopsis
 cacimbo
 cacimbos 1
@@ -944,7 +944,7 @@ coulees
 calabari
 cornices
 collared
-colpotomy
+colpotomy 1
 calorically
 canterburies 1
 calaboose 2
@@ -982,7 +982,7 @@ calaminary
 compensational
 calaminaris
 callipygian
-calamine 2
+calamine 3
 cervidae 1
 calamines 1
 cypseline
@@ -2316,7 +2316,7 @@ canakin
 canakins 1
 canal
 clerks 1
-cookeys
+cookeys 1
 canalatura
 completer 1
 canalboat
@@ -6397,7 +6397,7 @@ cilantro
 cautery
 cauteries
 cauterisation 2
-cauterise
+cauterise 1
 collision
 cloudland
 cauterism 1
@@ -7567,7 +7567,7 @@ cooked 4
 citrulline
 chondric 1
 corydaline
-cophouse
+cophouse 1
 cerebrifugal 2
 cartoonists
 cerebrize
@@ -13573,7 +13573,7 @@ curtsies 1
 confricamenta
 compensation
 cedarn 1
-centricality 1
+centricality 2
 cymbalist
 crapshooting
 cymbalists 1
@@ -13979,7 +13979,7 @@ cacique 1
 corruptions 3
 cionitis
 culprits 2
-cionorrhaphia
+cionorrhaphia 1
 conciliates
 cognitum 1
 cions 1
@@ -14174,7 +14174,7 @@ circumarticular 1
 circumaviate 1
 circumaviator
 cowlike 1
-circumaxial
+circumaxial 1
 cobles 1
 circumaxillary
 circumbasal
@@ -20757,7 +20757,7 @@ complexometry 1
 caveman
 chandry 1
 cacalia
-complexus
+complexus 1
 cydippida 1
 comply 3
 classicizing 1
@@ -21346,7 +21346,7 @@ cotbetty
 conciliable
 conciliabule 1
 coassession
-canicide 1
+canicide 2
 clast
 cliqued
 cupped
@@ -31461,7 +31461,7 @@ currantworm
 caulking
 countermen 2
 crewelist
-cuckoldry 1
+cuckoldry 2
 curred 3
 contorta 1
 cancellus
@@ -31510,7 +31510,7 @@ cursa
 curse
 cursedly 1
 cursedness 1
-calciferous
+calciferous 1
 cutaneous
 cursen 1
 conoclinium
