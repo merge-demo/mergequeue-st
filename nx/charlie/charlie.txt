@@ -535,7 +535,7 @@ cadetship
 counterstamp
 cadettes
 colorists 2
-coprecipitating
+coprecipitating 1
 competence
 clogmaker 1
 chattertonian 2
@@ -1427,7 +1427,7 @@ caliologist 1
 calipashes
 calipee 1
 calipees 1
-calipeva 2
+calipeva 3
 cohobate 1
 cankerberry 2
 calamancos
@@ -2598,7 +2598,7 @@ candollea
 candolleaceae
 candolleaceous 1
 curran 1
-carangid 1
+carangid 2
 chlorotrifluoromethane 1
 catalan 2
 ceraunograph 1
@@ -3596,7 +3596,7 @@ caque
 condemnor 1
 cosmocrat 1
 chewiest
-cooping 2
+cooping 3
 cephalalgic 2
 corniest
 caqueteuse
@@ -6397,7 +6397,7 @@ cilantro
 cautery
 cauteries
 cauterisation 2
-cauterise
+cauterise 1
 collision
 cloudland
 cauterism 1
@@ -7567,7 +7567,7 @@ cooked 4
 citrulline
 chondric 1
 corydaline
-cophouse
+cophouse 1
 cerebrifugal 2
 cartoonists
 cerebrize
@@ -13237,7 +13237,7 @@ cycloaliphatic 1
 cycloalkane 1
 cyclobothra 2
 carmakers 1
-cyclobutane
+cyclobutane 1
 constableship 1
 cholecystopexy
 carapacial
@@ -13259,7 +13259,7 @@ casa
 cyclograph
 cerises
 coadapt 3
-cyclohexadienyl 2
+cyclohexadienyl 3
 cashoos
 crossrow 2
 cyclohexanol
@@ -17653,7 +17653,7 @@ comedy 2
 creationistic 1
 cochleleae
 cuckoo 1
-choregraphy
+choregraphy 1
 cochleleas
 cochleous
 cochlidiid
@@ -20757,7 +20757,7 @@ complexometry 1
 caveman
 chandry 1
 cacalia
-complexus
+complexus 1
 cydippida 1
 comply 3
 classicizing 1
@@ -21346,7 +21346,7 @@ cotbetty
 conciliable
 conciliabule 1
 coassession
-canicide 1
+canicide 2
 clast
 cliqued
 cupped
@@ -27816,7 +27816,7 @@ comrade 3
 crawlingly
 cervicodorsal
 crudelity 1
-coxswains
+coxswains 1
 containerizes
 coprophagia
 coxwains 1
@@ -29341,7 +29341,7 @@ cryptomerous
 chrysogen
 cavaleros 1
 conchite
-clones
+clones 1
 contains 1
 coadjutement
 coshering 1
@@ -31859,7 +31859,7 @@ cutout 2
 collenchyma
 cutpurse 1
 cyclothyme 2
-casuality
+casuality 1
 cochliodont
 cransier
 costumed 1
