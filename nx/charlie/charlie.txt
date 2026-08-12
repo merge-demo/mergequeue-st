@@ -8233,7 +8233,7 @@ chalcocite
 carnegie 1
 compotatory 2
 christianomastix
-chalcogen 2
+chalcogen 3
 chalcogenide
 coenaculum 1
 comas
@@ -8913,7 +8913,7 @@ catholicizing 1
 chareter
 charette
 censers
-chemisms 2
+chemisms 3
 chargable 1
 combmaker
 charge 1
@@ -23754,7 +23754,7 @@ cataphoretically
 canulate 1
 cherogril 1
 carbonometry 1
-contrapolarization
+contrapolarization 1
 cytopenia
 contrapose 1
 clinospore 1
