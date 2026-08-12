@@ -1560,7 +1560,7 @@ bulbiform 2
 bdl
 bouton 4
 backsword 1
-ballastic 2
+ballastic 3
 ballata 1
 backswordman 1
 beatifying 1
@@ -2972,7 +2972,7 @@ bisiliquous
 beshow 1
 barophobia 3
 barricoes
-biuniqueness 1
+biuniqueness 2
 barrigudos 1
 babouche 2
 blackjack 1
@@ -4711,7 +4711,7 @@ busywork
 bedims 1
 basiophitic
 birdbrain 1
-brownier 1
+brownier 2
 bedizen
 boubas 1
 beekmantown 1
@@ -10660,7 +10660,7 @@ bernese 1
 bollies
 bishopscap 1
 bleaky
-buist
+buist 1
 bleakness 1
 bleaks
 browd
@@ -12501,7 +12501,7 @@ bone
 bejaundice
 bonebreaker
 bifoliolate
-brobdingnag 2
+brobdingnag 3
 bonedry 1
 bimillenium 2
 broodier 1
@@ -17605,7 +17605,7 @@ burgherage 1
 beguine 1
 bottomlessly 1
 burghers 2
-burgraves 2
+burgraves 3
 bureaucratized 1
 bowdlerized
 burring 1
@@ -18061,7 +18061,7 @@ beefwood 1
 boast 2
 bislings 1
 bog
-bustlers 1
+bustlers 2
 bustles 1
 biologize 1
 bustlingly 2
