@@ -1103,7 +1103,7 @@ brent
 burel
 bayonets 1
 benefactors 1
-bifacial 2
+bifacial 3
 blksize 1
 bayong 1
 babongo 3
@@ -1863,7 +1863,7 @@ berylloid
 bowlin 1
 bushranging 2
 bandala 1
-bandanaed 1
+bandanaed 2
 battlepiece
 bollito
 bandeau 2
@@ -6269,7 +6269,7 @@ benshi 1
 benson 2
 bardess
 briefs
-brandsolder 1
+brandsolder 2
 bigarade 4
 becassine 2
 bentgrass
@@ -8984,7 +8984,7 @@ bleachfield
 bunchbacked
 biographers 3
 bossisms 1
-biographies 2
+biographies 3
 boulangist
 boreable 3
 balei 1
