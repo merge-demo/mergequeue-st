@@ -1010,7 +1010,7 @@ abstergent 1
 absterges
 antituberculin 2
 amphigastrula 2
-abstersiveness
+abstersiveness 1
 aggregable 1
 abstertion
 anthropopathic
@@ -1488,7 +1488,7 @@ attires
 alewhap
 acclimates
 acclimatisation 3
-affixable 1
+affixable 2
 archaisms
 amortize 1
 acclimatise 3
@@ -3305,7 +3305,7 @@ acus 1
 atrabile 1
 anisotropism
 atresy 2
-acetanion 1
+acetanion 2
 army 2
 azimin
 ambassadeur
@@ -3712,7 +3712,7 @@ appulsively
 antestature 3
 adenophora 2
 abscissas 1
-avianizing 3
+avianizing 4
 archaize 2
 advisorily
 armeriaceae
@@ -4708,7 +4708,7 @@ appetently 1
 arillodes 2
 aedilic
 aphrizite 1
-aliveness 3
+aliveness 4
 annex 1
 aefald
 accrease 1
@@ -5330,7 +5330,7 @@ antiegotistically
 adorant
 arenicolor 1
 alterations
-appetized 1
+appetized 2
 axon 1
 astipulate
 astrid 1
@@ -5586,7 +5586,7 @@ aftermark
 atenist
 auriculo 2
 antisialic 1
-aftermilk
+aftermilk 1
 arteriovenous
 azophosphin
 ascry 2
@@ -6538,7 +6538,7 @@ autunian 1
 aquation 1
 affiancing 2
 animalian 2
-anthemed
+anthemed 1
 ahmed 1
 atrienses
 autoagglutinating 1
@@ -6682,7 +6682,7 @@ asphyctic 1
 attune 2
 antigorite
 ailanthuses 3
-armstrong 1
+armstrong 2
 ailanto
 ailed
 aileron 2
@@ -7496,7 +7496,7 @@ acetalization
 acronichal 1
 albopruinose 1
 asteroxylon 1
-acknowing 2
+acknowing 3
 aikuchi 1
 allonge 1
 albricias 1
@@ -7630,7 +7630,7 @@ alce
 assibilate
 aluminiferous 1
 asininities
-alcedinidae 1
+alcedinidae 2
 anderson 2
 autoretardation 4
 airiferous 1
@@ -7851,7 +7851,7 @@ anacanth 1
 aldrins 1
 arba
 ausubos
-atrickle 1
+atrickle 2
 anomalonomy 3
 anglicism
 aldrovanda
@@ -9264,7 +9264,7 @@ alodialty 1
 aroxyl
 adenogenous 2
 atomics 1
-antiparliamentarian 1
+antiparliamentarian 2
 argentamin
 autometric
 aphony
@@ -9989,7 +9989,7 @@ awheft 1
 adactylia 2
 alerion 1
 ambassadorially
-ascription
+ascription 1
 ambatoarinite
 argentous 1
 autopilots 2
@@ -11597,7 +11597,7 @@ aulas 3
 anabolism 2
 ammophilous
 amphicribral 1
-accinging
+accinging 1
 amethysts 1
 albuminise
 anacalypsis
@@ -13472,7 +13472,7 @@ arvicolous 3
 annapolis 3
 annas
 alations
-anthroposcopy
+anthroposcopy 1
 anne 1
 alod
 apikoros
@@ -15315,7 +15315,7 @@ alleviator 1
 agamically
 awalim
 amorality
-alhambra 2
+alhambra 3
 antigravitational 2
 angiemphraxis 2
 automobiling
@@ -15483,7 +15483,7 @@ antimedievally
 anabolize 1
 attainder 1
 assented
-anapestic 1
+anapestic 2
 antimension 2
 archisperm 2
 antimere
@@ -16281,7 +16281,7 @@ anacusis
 anthracomarti
 aggravative
 advocatrix
-argali
+argali 1
 arish 1
 antithesism 1
 antithetic 1
@@ -17175,7 +17175,7 @@ apologs 1
 applause 1
 apologue 2
 apologues
-apolousis 2
+apolousis 3
 astacidae
 apolune 2
 aralie
@@ -18273,7 +18273,7 @@ accentuator 3
 accreted
 achromous 1
 agush 1
-archont
+archont 1
 arachnomorphae
 aphorists 1
 arabiyeh 1
@@ -20331,7 +20331,7 @@ antenarial
 anemonal
 alonsoa
 alem
-aglaspis
+aglaspis 1
 aistopod 1
 arsenization 2
 acrologically 3
@@ -21742,7 +21742,7 @@ assentingly 1
 assentive
 antithet 1
 alismaceae 2
-architectonics 1
+architectonics 2
 antiphonic
 assents 1
 asseour 2
