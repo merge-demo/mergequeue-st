@@ -358,7 +358,7 @@ backfires
 brontolite 1
 boled 2
 brume
-bradypepsy
+bradypepsy 1
 backfiring 2
 basichromatinic 1
 backflowing
@@ -5370,7 +5370,7 @@ bethumped 1
 begrimed 2
 bandusian
 bedeafened
-begrimer
+begrimer 1
 branchi 1
 begrimes
 begriming 2
@@ -5452,7 +5452,7 @@ behenate 5
 behenic
 bemixed 1
 booing 1
-brettice 1
+brettice 2
 behymn 2
 brutes
 behither 2
@@ -7207,7 +7207,7 @@ bestock 2
 bestow 1
 burgee
 breaching 1
-blades
+blades 1
 beveled 4
 buckjump 1
 bongrace
@@ -12835,7 +12835,7 @@ bootes 1
 burglary 2
 basiliscine
 blink
-barnabite
+barnabite 1
 bioprecipitation
 blizzardous 2
 birdbrains 2
@@ -14231,7 +14231,7 @@ bloodstroke 1
 byegaein
 bromohydrate
 bassia 1
-bronzes 2
+bronzes 3
 bisectional 1
 bradydactylia 1
 bisulfide
@@ -15669,7 +15669,7 @@ begrime
 bunkos
 beclasping 1
 bailage 1
-bursera
+bursera 1
 buskle
 butat
 brittleness 2
