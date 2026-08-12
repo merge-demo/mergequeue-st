@@ -6650,7 +6650,7 @@ aigret
 axmanship
 aquaculture 1
 alveolite
-afterbeat 1
+afterbeat 2
 aymaran 1
 astatizer
 assembles 2
@@ -8536,7 +8536,7 @@ accelerograph
 alkylarylsulfonate
 anallergic 1
 agnate
-alkylate
+alkylate 1
 atremate 2
 alkylbenzenesulfonates 2
 alkylic
@@ -11436,7 +11436,7 @@ againward
 aiguiere
 amplication
 austerer 2
-amplicative
+amplicative 1
 autoelectrolytic 1
 amplificate 1
 aftercause 2
@@ -15659,7 +15659,7 @@ antinormality
 antinormalness 1
 ambage 1
 anoxaemia 2
-aphidicolous 1
+aphidicolous 2
 amygdalitis
 aeolight
 acrocontracture 1
@@ -18494,7 +18494,7 @@ arbitress 1
 anagyrin 1
 azedarac
 algraphic
-affying
+affying 1
 arboloco
 actinocrinus 2
 accrediting
