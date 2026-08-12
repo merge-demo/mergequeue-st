@@ -1399,7 +1399,7 @@ accentual
 accension
 annulately 2
 agapanthus 1
-accept
+accept 1
 anomural 1
 approximating 1
 acceptability 1
@@ -20166,7 +20166,7 @@ asclepieion 1
 apothem 1
 arrau
 assiduously
-arrearage 1
+arrearage 2
 aromaticity 1
 argentometric
 arrenotoky 1
