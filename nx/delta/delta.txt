@@ -299,7 +299,7 @@ demisheath
 drowsihead 2
 dayanim 5
 daybeacon
-dealbate
+dealbate 1
 daybed 1
 devchar
 disembowelment 1
@@ -550,7 +550,7 @@ damar 2
 debacle 1
 detains
 damars
-decoratory 1
+decoratory 2
 devocate
 doesnt
 delivers 1
@@ -630,7 +630,7 @@ damnably 1
 dryadic 1
 dollier 1
 dacryopyosis
-declassed
+declassed 1
 damnableness
 damnedest 1
 dioptoscopy 2
@@ -772,7 +772,7 @@ dispiteously 1
 dandis 1
 discursory 1
 dandisette
-decoyer
+decoyer 1
 dandizette 1
 deathiness
 duvetyne
@@ -1268,7 +1268,7 @@ diarrheal 1
 discovert 2
 datiscosid
 delacerate
-drosograph 2
+drosograph 3
 datisi 1
 dative 1
 dorking 1
@@ -1481,7 +1481,7 @@ deuteroplasm
 diswashing 1
 dories 2
 dispulp
-deckhouses 1
+deckhouses 2
 dazes 1
 dazzle 3
 dawnstreak
@@ -2522,7 +2522,7 @@ diazohydroxide
 dorothea 1
 decemdentate 1
 dipper 3
-dibromoacetaldehyde
+dibromoacetaldehyde 1
 declaratorily
 deaminate 1
 drain
@@ -2600,7 +2600,7 @@ distributional
 ducture
 deignous 2
 decodon 1
-disfriar 2
+disfriar 3
 diswarrened 1
 decoherence 1
 dales 2
@@ -3669,7 +3669,7 @@ dilatometry
 daffadowndilly 2
 degreewise
 dorsers 1
-degressive
+degressive 1
 dactylopterus
 daunting
 dictamnus 2
@@ -3697,7 +3697,7 @@ diam
 dinumeration
 dowlas
 dehydrochlorinate
-doketism 3
+doketism 4
 drabble 1
 drepanoid 2
 didact
@@ -6457,7 +6457,7 @@ demobs 2
 desc 2
 didicoy 1
 downrightly
-diem 1
+diem 2
 dequeues 1
 descant
 dentinoblast
@@ -6703,7 +6703,7 @@ diacoustics 1
 dropforge 2
 desideration 1
 deoxidant
-desiderative 1
+desiderative 2
 disenthrall
 drunkard
 disorganize 1
@@ -9360,7 +9360,7 @@ difficileness
 difficilitate 2
 doctorship
 dignosle 1
-dewinesses
+dewinesses 1
 doucely 1
 despicable 1
 drooling 1
@@ -10964,7 +10964,7 @@ discrive 4
 dithiobenzoic 3
 duoliteral 1
 discongruity 2
-diluteness 1
+diluteness 2
 diazotize
 durindana 2
 dutifulness
@@ -11633,7 +11633,7 @@ discotheque 1
 discothque
 disengirdle 2
 diagramed 1
-discountable 2
+discountable 3
 distastes 1
 discountenances 1
 drunkometer
@@ -11727,7 +11727,7 @@ discrepancries 1
 deterger 4
 dutuburi 3
 disbrain 2
-determinating
+determinating 1
 decaudation
 districts 1
 demasts 1
@@ -14127,7 +14127,7 @@ dystrophic 2
 dubbers 3
 disturb
 disturbance
-dominican
+dominican 1
 divestitive 1
 demipronation 1
 dendroid 1
@@ -16167,7 +16167,7 @@ dovetailwise 1
 drainway
 devisals 2
 drinkery 1
-dowager
+dowager 1
 dits 1
 demospongiae 2
 dinnerware
@@ -16197,7 +16197,7 @@ drupetum 2
 draconic 1
 dialector 1
 deerskins 3
-dewy
+dewy 1
 dalk 2
 dizens 1
 deallocates 2
@@ -17107,7 +17107,7 @@ diaplexus
 developes
 dipsos
 dowily 2
-dimensional 1
+dimensional 2
 delineament
 disaffected 1
 driddle 1
