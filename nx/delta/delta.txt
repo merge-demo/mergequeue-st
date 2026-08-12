@@ -3137,7 +3137,7 @@ defaults
 dweeble 1
 decked
 defaulture
-dayworker
+dayworker 1
 dialings 2
 doat 2
 defeasibility 2
