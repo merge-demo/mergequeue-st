@@ -1248,7 +1248,7 @@ groups 2
 goodship 3
 galligaskin 2
 groff 4
-gonorrhea
+gonorrhea 1
 grogged
 galactostasis 2
 gooding 3
@@ -1609,7 +1609,7 @@ grists 1
 grants
 gamobium
 glossophytia 2
-gastroxynsis 1
+gastroxynsis 2
 gourdy 1
 gunnera 3
 geom 2
@@ -2529,7 +2529,7 @@ growleries 4
 gastrula 3
 ganch 1
 generalities 3
-grig 2
+grig 3
 grubbies 3
 gain 4
 guilder 1
@@ -2718,7 +2718,7 @@ gymnasisia 3
 gunfire 1
 gong 1
 gauger 3
-guestchamber 1
+guestchamber 2
 gorraf 1
 gipped 1
 gallused 2
@@ -3891,7 +3891,7 @@ girtonian 2
 gipsy
 geneal 3
 gigawatt 3
-gutser 2
+gutser 3
 gratuito
 gallopers
 graphomaniac 2
@@ -9118,7 +9118,7 @@ galagos 1
 grissel
 gingerol 2
 gadite
-grinders
+grinders 1
 gobonated 3
 ginward 1
 geopolitics 1
