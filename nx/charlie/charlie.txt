@@ -446,7 +446,7 @@ chromatology
 cactal
 crowners 1
 concrete 2
-cactiform 1
+cactiform 2
 communications
 cactoid
 combind
@@ -1943,7 +1943,7 @@ chandeliers
 camellin 2
 caser
 cameloidea 1
-camelopardalis
+camelopardalis 1
 consubstantiation 1
 carcinus
 chiliarchy 1
@@ -2869,7 +2869,7 @@ commutability 1
 catapult 1
 carboxyhemoglobin
 cetorhinoid 1
-canonizer
+canonizer 1
 canonizes
 canonizing
 chachalakas
@@ -3699,7 +3699,7 @@ cooking
 coleopterological
 chromicize
 coemptive
-conjugation 1
+conjugation 2
 chabutra
 caranna 1
 carap
@@ -5010,7 +5010,7 @@ chiclero 1
 canalman
 cryptovolcanic
 conceptuality 1
-crystallizing
+crystallizing 1
 chevrony
 cartulary 1
 cartularies
@@ -5679,7 +5679,7 @@ capering 1
 cataplastic
 casten 1
 catapleiite
-catapulted
+catapulted 1
 catapultic 1
 catapultier
 colthood 1
@@ -6402,7 +6402,7 @@ collision
 cloudland
 cauterism 1
 carafe 1
-correcter
+correcter 1
 conchfish
 cauterizer 1
 cauterizes 1
@@ -6813,7 +6813,7 @@ cyprians
 concaveness 1
 celliform
 cellist 1
-cellite 1
+cellite 2
 currs 1
 continua
 cellmates 2
@@ -8592,7 +8592,7 @@ cohesionless
 changelessness 1
 changelings
 changement
-cuissard
+cuissard 1
 changeovers
 chiefs 1
 changer
@@ -8955,7 +8955,7 @@ charioting 1
 chariotman
 collegiately 1
 chondri 3
-chaplaincy
+chaplaincy 1
 chalchihuitl 1
 conceivability
 cryptal
@@ -18486,7 +18486,7 @@ champac
 coheirs
 coheirship 1
 cestraciont 1
-cohelper
+cohelper 1
 cakiest 1
 cohen
 cohenite 1
@@ -24920,7 +24920,7 @@ coralligena
 coralligenous
 clappe
 coralligerous
-corallin 1
+corallin 2
 corallina 1
 corallinaceous 2
 cuichunchulli
@@ -24982,7 +24982,7 @@ campaniform 1
 cableway
 corbiculum 2
 countrify
-corbie 1
+corbie 2
 clupeodei
 corbies
 consimilarity
@@ -26878,7 +26878,7 @@ cavalero
 chugs
 chondroxiphoid
 counterfort 1
-cwm
+cwm 1
 countergabion 1
 coccagee
 cassoon 1
@@ -29105,7 +29105,7 @@ criniculture 1
 castrensian
 clinally
 colipyelitis
-crinites 1
+crinites 2
 capriccettos 1
 crinitory
 craniota 1
