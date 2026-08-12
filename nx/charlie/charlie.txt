@@ -3510,7 +3510,7 @@ capstans 1
 capstone 1
 capsula
 cons
-capsular
+capsular 1
 capsulation
 collegatary
 chainomatic
