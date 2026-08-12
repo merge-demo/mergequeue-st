@@ -10608,7 +10608,7 @@ formylate
 feracities 3
 florins 2
 fungitoxic 2
-fertilizations
+fertilizations 1
 falcade
 fumewort 1
 formagen 1
@@ -11024,7 +11024,7 @@ freeport 2
 freshly 1
 frankability 1
 filippic 1
-findy 2
+findy 3
 fortilage 3
 fordable 4
 feuillemorte 5
