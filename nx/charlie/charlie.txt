@@ -446,7 +446,7 @@ chromatology
 cactal
 crowners 1
 concrete 2
-cactiform 1
+cactiform 2
 communications
 cactoid
 combind
@@ -1943,7 +1943,7 @@ chandeliers
 camellin 2
 caser
 cameloidea 1
-camelopardalis
+camelopardalis 1
 consubstantiation 1
 carcinus
 chiliarchy 1
@@ -2869,7 +2869,7 @@ commutability 1
 catapult 1
 carboxyhemoglobin
 cetorhinoid 1
-canonizer
+canonizer 1
 canonizes
 canonizing
 chachalakas
@@ -5010,7 +5010,7 @@ chiclero 1
 canalman
 cryptovolcanic
 conceptuality 1
-crystallizing
+crystallizing 1
 chevrony
 cartulary 1
 cartularies
@@ -6402,7 +6402,7 @@ collision
 cloudland
 cauterism 1
 carafe 1
-correcter
+correcter 1
 conchfish
 cauterizer 1
 cauterizes 1

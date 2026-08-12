@@ -615,7 +615,7 @@ flyways 2
 fulgurite
 falsity 3
 fainness 3
-faltboat
+faltboat 1
 fibromucous 2
 flugelmen 3
 faltere 2
@@ -3638,7 +3638,7 @@ faintishness 1
 fielder 5
 floatsman 1
 froglets 2
-figurate 1
+figurate 2
 forebitter 4
 facticide 1
 fretsaws
@@ -5969,13 +5969,13 @@ floods 1
 foisons 5
 fortifiable 2
 fisk
-ferrets 1
+ferrets 2
 filleter 1
 fets 1
 fanwright 3
 fudging 1
 firetrap 2
-fomites 2
+fomites 3
 freeloader
 ferguson
 favism 3

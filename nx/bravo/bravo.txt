@@ -1560,7 +1560,7 @@ bulbiform 2
 bdl
 bouton 4
 backsword 1
-ballastic 2
+ballastic 3
 ballata 1
 backswordman 1
 beatifying 1
@@ -12501,7 +12501,7 @@ bone
 bejaundice
 bonebreaker
 bifoliolate
-brobdingnag 2
+brobdingnag 3
 bonedry 1
 bimillenium 2
 broodier 1
@@ -18061,7 +18061,7 @@ beefwood 1
 boast 2
 bislings 1
 bog
-bustlers 1
+bustlers 2
 bustles 1
 biologize 1
 bustlingly 2
