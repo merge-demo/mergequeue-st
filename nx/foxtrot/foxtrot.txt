@@ -6252,7 +6252,7 @@ fecit 3
 flamefish 1
 fluoarsenate 3
 fissuring
-ferromagnet 2
+ferromagnet 3
 fedoras 3
 fustigation 4
 fearing 1
@@ -11763,6 +11763,6 @@ forloin
 fellowred 1
 femalist 1
 fulminatory 2
-ferruginous
+ferruginous 1
 fascines 1
 flocculi 1
