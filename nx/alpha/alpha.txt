@@ -620,7 +620,7 @@ archbishoprics 1
 autoeducation 2
 arisen 2
 algonquians 3
-antarctic
+antarctic 1
 aphasic 1
 alexic 1
 antelopine 1
@@ -1348,7 +1348,7 @@ agamous 1
 arginase
 anangular 1
 anthracosilicosis
-amyelia 2
+amyelia 3
 atomized
 athanor
 acylating
@@ -2781,7 +2781,7 @@ arak 2
 anabasin
 acritan
 acrite 2
-asthenobiosis 2
+asthenobiosis 3
 astringent 1
 arriba 1
 antidysenteric
@@ -4583,7 +4583,7 @@ annotativeness 1
 artesonados
 antimythic
 amania 1
-arbutin 3
+arbutin 4
 accumulable
 adversities
 abranchial
@@ -5856,7 +5856,7 @@ anuric 1
 agatizes
 agatizing
 agatoid
-arctan 2
+arctan 3
 alarbus
 agaze 2
 agedness
@@ -7445,7 +7445,7 @@ albyn
 albinal 1
 apteryx
 autobahn
-affrication
+affrication 1
 albiness
 affere 1
 adipose
@@ -10486,7 +10486,7 @@ archispore
 araba 2
 amiability 1
 amiableness
-antiautolysin
+antiautolysin 1
 aswooned 1
 auxosubstance
 apperceptionist 1
@@ -11210,7 +11210,7 @@ agynous 1
 aerologists 1
 authority
 attesting
-attainability
+attainability 1
 apocyneous 2
 amphibolitic 2
 attentiveness 1
@@ -19156,7 +19156,7 @@ angiomatous 1
 anticommunists 1
 allotropize 1
 arcose
-angiospermal
+angiospermal 1
 acrobystitis
 antipolo
 aggravated 2
@@ -19870,7 +19870,7 @@ apprehended
 armings
 avn
 autor 1
-analogized 1
+analogized 2
 acroclinium
 arminianize 2
 arminianizer 1
@@ -23046,7 +23046,7 @@ antecell 2
 attachableness 4
 apocamphoric 1
 attaches
-ascitan
+ascitan 1
 amebas
 attacheship 1
 administrating 1
@@ -23210,7 +23210,7 @@ azotous
 accomplice 1
 architecturesque 1
 attestator
-antiseption 1
+antiseption 2
 attested 3
 apyrexy 2
 attester 1
@@ -23944,7 +23944,7 @@ amphibiousness 1
 annatto
 acrology 1
 antiscepticism
-abadejo 1
+abadejo 2
 anepiploic
 autoanalytic
 anseriformes
@@ -25194,7 +25194,7 @@ amirate
 autoblast
 axonometric 2
 asprete 1
-ascupart 2
+ascupart 3
 abusiveness 2
 axonophora
 artillerists
