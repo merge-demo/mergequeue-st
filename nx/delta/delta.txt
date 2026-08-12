@@ -299,7 +299,7 @@ demisheath
 drowsihead 2
 dayanim 5
 daybeacon
-dealbate
+dealbate 1
 daybed 1
 devchar
 disembowelment 1
@@ -550,7 +550,7 @@ damar 2
 debacle 1
 detains
 damars
-decoratory 1
+decoratory 2
 devocate
 doesnt
 delivers 1
@@ -772,7 +772,7 @@ dispiteously 1
 dandis 1
 discursory 1
 dandisette
-decoyer
+decoyer 1
 dandizette 1
 deathiness
 duvetyne
@@ -1481,7 +1481,7 @@ deuteroplasm
 diswashing 1
 dories 2
 dispulp
-deckhouses 1
+deckhouses 2
 dazes 1
 dazzle 3
 dawnstreak
@@ -2522,7 +2522,7 @@ diazohydroxide
 dorothea 1
 decemdentate 1
 dipper 3
-dibromoacetaldehyde
+dibromoacetaldehyde 1
 declaratorily
 deaminate 1
 drain
@@ -6457,7 +6457,7 @@ demobs 2
 desc 2
 didicoy 1
 downrightly
-diem 1
+diem 2
 dequeues 1
 descant
 dentinoblast
@@ -6703,7 +6703,7 @@ diacoustics 1
 dropforge 2
 desideration 1
 deoxidant
-desiderative 1
+desiderative 2
 disenthrall
 drunkard
 disorganize 1
@@ -11633,7 +11633,7 @@ discotheque 1
 discothque
 disengirdle 2
 diagramed 1
-discountable 2
+discountable 3
 distastes 1
 discountenances 1
 drunkometer
@@ -14127,7 +14127,7 @@ dystrophic 2
 dubbers 3
 disturb
 disturbance
-dominican
+dominican 1
 divestitive 1
 demipronation 1
 dendroid 1
@@ -17107,7 +17107,7 @@ diaplexus
 developes
 dipsos
 dowily 2
-dimensional 1
+dimensional 2
 delineament
 disaffected 1
 driddle 1
