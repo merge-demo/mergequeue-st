@@ -114,7 +114,7 @@ facient 2
 furaldehyde 2
 facilitate 1
 flocks 3
-facilitation
+facilitation 1
 fluosilicate 1
 facilitative 2
 fashionist 1
@@ -1115,7 +1115,7 @@ febrifuge 3
 forefends 1
 funje 1
 flockling 2
-fimbriodentate 2
+fimbriodentate 3
 flagrance 1
 followeth 2
 florulas
@@ -3234,7 +3234,7 @@ forewarnings 2
 foetors 3
 flameholder 2
 fictioner 2
-furbisher 3
+furbisher 4
 foci 5
 forestay 1
 forestish 2
@@ -3906,7 +3906,7 @@ fusinist 2
 fluoridated
 fitly 2
 fullage 3
-frostproof 2
+frostproof 3
 frolicsomely 2
 fang 2
 foreseeable 2
@@ -11546,7 +11546,7 @@ fermentations
 faradiser
 fathomlessly 2
 fetishism 3
-flecklessly
+flecklessly 1
 freebee 2
 frugging 2
 fumaroid 2
