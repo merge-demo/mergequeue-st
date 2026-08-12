@@ -887,7 +887,7 @@ bicolour 2
 bagful
 baggagemaster 1
 bedamning 1
-brachydome
+brachydome 1
 baggager
 benzidin 1
 benzalcohol 2
@@ -11876,7 +11876,7 @@ blueprints 1
 buteos 1
 bodyworks
 bodkin
-bodkins
+bodkins 1
 boardlike 1
 barmybrained
 betacaine 2
@@ -15240,7 +15240,7 @@ brickbat 2
 buttonholed
 blackstrap 1
 bombyx 1
-bemajesty 1
+bemajesty 2
 brickbatting 1
 brickcroft 1
 ballistocardiography 1
