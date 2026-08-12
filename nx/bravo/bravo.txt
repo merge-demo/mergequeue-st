@@ -358,7 +358,7 @@ backfires
 brontolite 1
 boled 2
 brume
-bradypepsy
+bradypepsy 1
 backfiring 2
 basichromatinic 1
 backflowing
@@ -2859,7 +2859,7 @@ bulgarians 1
 buckwashing 1
 bursted 1
 barracouta 1
-brushlessness
+brushlessness 1
 bicep 1
 blanketless
 barrad
@@ -3360,7 +3360,7 @@ backspread 3
 bran
 baskish 1
 boller
-bronchobuster 1
+bronchobuster 2
 basoid 4
 baraithas
 banus 1
@@ -5370,7 +5370,7 @@ bethumped 1
 begrimed 2
 bandusian
 bedeafened
-begrimer
+begrimer 1
 branchi 1
 begrimes
 begriming 2
@@ -5452,7 +5452,7 @@ behenate 5
 behenic
 bemixed 1
 booing 1
-brettice 1
+brettice 2
 behymn 2
 brutes
 behither 2
@@ -6849,7 +6849,7 @@ benkulen
 bigener
 buicks 1
 bioluminescent 1
-bescourge 2
+bescourge 3
 buckeroos 3
 bust 1
 bescramble 1
@@ -7115,7 +7115,7 @@ boethusian
 boss 2
 birdsong 1
 boldnesses 1
-basso 1
+basso 2
 bespotting 2
 bespouse
 bannerwise
@@ -7207,7 +7207,7 @@ bestock 2
 bestow 1
 burgee
 breaching 1
-blades
+blades 1
 beveled 4
 buckjump 1
 bongrace
@@ -11043,7 +11043,7 @@ bloating
 burglarized 1
 beet
 bootstrap 2
-beclout 3
+beclout 4
 basilemma 1
 bails 3
 between 3
@@ -12351,7 +12351,7 @@ bombilla 1
 bizygomatic 1
 bluefins
 bonifaces 1
-breakfasting
+breakfasting 1
 bookmarker 2
 bumbarge 2
 bombillas 3
@@ -12606,7 +12606,7 @@ boogeyman
 balance
 bonnnes 4
 bonnwis 2
-bionomist
+bionomist 1
 bonorum 2
 bisector 2
 bagatelle 2
@@ -12835,7 +12835,7 @@ bootes 1
 burglary 2
 basiliscine
 blink
-barnabite
+barnabite 1
 bioprecipitation
 blizzardous 2
 birdbrains 2
@@ -14130,7 +14130,7 @@ birdlore 1
 brachiosaur
 brachiosaurus
 brachyphyllum
-bargainers
+bargainers 1
 befreight
 boycottage 1
 blah
@@ -14231,7 +14231,7 @@ bloodstroke 1
 byegaein
 bromohydrate
 bassia 1
-bronzes 2
+bronzes 3
 bisectional 1
 bradydactylia 1
 bisulfide
@@ -15669,7 +15669,7 @@ begrime
 bunkos
 beclasping 1
 bailage 1
-bursera
+bursera 1
 buskle
 butat
 brittleness 2
@@ -16778,7 +16778,7 @@ brandisher
 bethunder 1
 branny
 buddie 1
-boswell 1
+boswell 2
 batteuse 2
 buddleia
 bunkhouses 3
@@ -18232,7 +18232,7 @@ beshod
 bourran 1
 blabbers
 butterfish
-besquirt 2
+besquirt 3
 butterpaste
 botching
 blubberingly 2
