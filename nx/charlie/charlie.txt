@@ -33,7 +33,7 @@ courier
 caballer
 corrosiving
 cranebill 1
-cineols
+cineols 1
 causable 1
 cherrystones
 cocozelle
@@ -1518,7 +1518,7 @@ callboys
 called 1
 concave
 callers
-calles
+calles 1
 callet 2
 caramelen
 calliandra 1
@@ -10099,7 +10099,7 @@ chestfuls 1
 cantalas
 candroy 1
 chesty 1
-chestier
+chestier 1
 collaudation
 chestnut
 chestnuts 1
@@ -10911,7 +10911,7 @@ conglobating 1
 chirks 1
 contrariety
 chlorotrifluoroethylene
-chirmed 1
+chirmed 2
 coarbiter 1
 chirming 1
 chirms
@@ -12800,7 +12800,7 @@ chumpish
 convertibleness 3
 chumps
 chums 1
-cruth 2
+cruth 3
 concise
 chumship
 comdia 1
@@ -13888,7 +13888,7 @@ chilean
 clavatin
 cardcase
 cyclodiolefin 1
-cautionings
+cautionings 1
 cautivo 1
 cinnamodendron
 chondroclast 1
@@ -23066,7 +23066,7 @@ consonate 1
 consonous 1
 cataphractic 1
 coemption
-callused
+callused 1
 counteradvantage 1
 consopite
 crown 1
@@ -29669,7 +29669,7 @@ crocuses
 chronogrammatist 1
 confusing 1
 circumambagious 3
-croft 2
+croft 3
 claybank
 cathars 2
 cornucopiate
@@ -30309,7 +30309,7 @@ cepolidae
 corixa 2
 codfishery
 crunched 2
-cruncher
+cruncher 1
 counterbase 1
 chooses 2
 congealability
