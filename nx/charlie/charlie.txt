@@ -2463,7 +2463,7 @@ cropsickness 1
 cherubically
 cancion 2
 cancionero 2
-canciones 1
+canciones 2
 cancri 1
 chloroquine 1
 charivaried
@@ -5024,7 +5024,7 @@ cartwheel 1
 coannex
 catarrhine 1
 cryptogramma 1
-couchantly 1
+couchantly 2
 cartwheeler 1
 consolan 1
 canopic 2
@@ -7176,7 +7176,7 @@ cytotoxin
 cremant 2
 clodpate
 centrically
-compensability 2
+compensability 3
 centrifugalisation
 corruptest 1
 centrifugalize 1
@@ -7794,7 +7794,7 @@ cervicoauricular
 cobitis
 cervicobuccal
 cervicodynia
-cervicolabial
+cervicolabial 1
 cooeyed
 croh 1
 cervicomuscular 1
@@ -9158,7 +9158,7 @@ cunningest 2
 chasma 2
 chasmed 2
 caddy
-chondrigenous
+chondrigenous 1
 cheths
 clypeolate
 chasmogamous
@@ -14000,7 +14000,7 @@ cyphered 1
 cipherhood
 ciphering 1
 ciphertexts
-carbonated
+carbonated 1
 cyphomandra
 cyphonism 1
 constrain 1
@@ -15417,7 +15417,7 @@ clarendon
 clares 1
 claret 1
 cervantes
-cheerio
+cheerio 1
 canzos 1
 coppas 1
 clary
@@ -20522,7 +20522,7 @@ compassionate
 couthiness 1
 candidateship 2
 compassionateness
-catalepsy
+catalepsy 1
 coiners 1
 compassive 2
 coinhere
@@ -24148,7 +24148,7 @@ convertite 1
 comfortless 2
 convertive
 choriocapillary 1
-caterership
+caterership 1
 convertoplane 2
 chave
 crimples
@@ -26472,7 +26472,7 @@ calycanthemous 1
 cotoro 2
 civilizing
 covets
-cotoros 1
+cotoros 2
 cellulase
 calligraph 2
 cotorture
