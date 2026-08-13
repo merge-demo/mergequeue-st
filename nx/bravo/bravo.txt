@@ -8140,7 +8140,7 @@ bidiagonal 2
 binucleate 1
 barble 2
 biding 1
-bidirectional 3
+bidirectional 4
 biophagy 1
 bhumij 2
 beliefs 1
@@ -8980,7 +8980,7 @@ biogeographically 2
 bobo 1
 bentwoods 1
 blankety 1
-bleachfield
+bleachfield 1
 bunchbacked
 biographers 3
 bossisms 1
@@ -9273,7 +9273,7 @@ bougainvillia 1
 biangulated
 broadsides
 bacterioidal 1
-bedouinism
+bedouinism 1
 bothersomeness
 balewort 1
 bracteiform
@@ -12315,7 +12315,7 @@ bombardman 1
 burrfishes 1
 bootee 2
 bungfull
-bacteriophagic 2
+bacteriophagic 3
 bathycurrent 1
 bullwhacker
 betrayer
@@ -12397,7 +12397,7 @@ bombardelle 2
 bon
 backrope
 barenesses 3
-bonacis 1
+bonacis 2
 bootblack 1
 bonagh 2
 bonang 2
@@ -13988,7 +13988,7 @@ bolometrically 1
 bensel 1
 bothlike
 boxwoods 1
-bozo
+bozo 1
 basher 3
 bonesetter 1
 brittlest 1
@@ -15360,7 +15360,7 @@ brailled 1
 benzidine 1
 beefily
 brahmanists
-bridie
+bridie 1
 broughta
 bridle 2
 blackpot 3
@@ -15889,7 +15889,7 @@ battered 1
 bloodstainedness
 babiism 1
 bloomsburian 1
-bodybuild 2
+bodybuild 3
 bromeigon
 bromeikon 4
 baal 1
@@ -16127,7 +16127,7 @@ babiana
 bedrape 1
 brumalia 2
 baluster 1
-boskiest
+boskiest 1
 brookier
 batatilla 1
 brookite 1
