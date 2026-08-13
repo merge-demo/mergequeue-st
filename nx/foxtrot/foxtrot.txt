@@ -1158,7 +1158,7 @@ fraying 3
 friponerie 4
 focalize 1
 funder 3
-forepass
+forepass 1
 foochowese 2
 fovea 1
 fascist
@@ -2697,7 +2697,7 @@ frizziness 1
 fervence 2
 ferventness
 frighteningness
-floodwall
+floodwall 1
 fishify 2
 fuminess 1
 ferrometer 3
