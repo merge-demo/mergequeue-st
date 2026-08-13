@@ -1412,7 +1412,7 @@ diorites 3
 daviesite
 deleted 1
 dacryocystalgia 4
-dispel 1
+dispel 2
 downdale 1
 dismain 1
 demonomanie
@@ -4485,7 +4485,7 @@ demifigure
 disinflated
 downdraught 1
 donmeh
-detroiter 1
+detroiter 2
 demigauntlet
 doting
 disclosing
@@ -13155,7 +13155,7 @@ demiurgos 3
 derringer 1
 dewal 2
 dollardee
-damps
+damps 1
 diplophonia 2
 dreamery 1
 diamantine
