@@ -219,7 +219,7 @@ compactification
 cabrillas 1
 cabrit 1
 cabs 1
-comprend 1
+comprend 2
 copular
 cabstands 1
 cabuya
@@ -266,7 +266,7 @@ chillies 2
 crenelations 1
 cognati
 condensing
-caches 1
+caches 2
 cachespell
 cagayans 1
 cacheting
@@ -425,7 +425,7 @@ coniacian
 cacospermia
 cacothansia
 cacotheline
-cacothymia 1
+cacothymia 2
 catonism 1
 cacotype
 cacotopia
@@ -5575,7 +5575,7 @@ corkscrewy
 crayonstone 2
 catalanganes
 conceptionist
-catalatic 2
+catalatic 3
 circulatories
 cycledom 1
 cedre 1
@@ -9206,7 +9206,7 @@ chastities
 chockstone 2
 chasubled
 cooper 1
-chataka 2
+chataka 3
 chatchka
 croziers
 coterminal 2
@@ -10152,7 +10152,7 @@ cheviots 1
 chevres 2
 chevret 1
 counterexamples
-chevrolet
+chevrolet 1
 chevrolets 1
 chlorodized
 chevron 1
@@ -10661,7 +10661,7 @@ coagment 1
 cookbooks
 caribou
 cytoplasmic
-chimes 1
+chimes 2
 chymes
 caseoses 2
 coprolite
@@ -11048,7 +11048,7 @@ collectable
 chiselmouth 2
 chisels
 chisled
-clarkeites 1
+clarkeites 2
 conichalcite 1
 chistka
 chit
@@ -11760,7 +11760,7 @@ chondroditic 2
 couthest 1
 connubiate 1
 chondrofibroma
-campaigned 1
+campaigned 2
 cognation
 chondrogenesis
 chondroglossal
@@ -18099,7 +18099,7 @@ coenocentrum 2
 celioscopy 1
 coenocytic 4
 carson
-coenodioecism 1
+coenodioecism 2
 coenoecic 1
 coefficacy
 chousingha
@@ -21949,7 +21949,7 @@ confident 1
 confidente
 compressibilities
 crossosomataceae 1
-confidential 1
+confidential 2
 chakras 1
 cratemaker
 comble
@@ -22480,7 +22480,7 @@ conyza 1
 chickies
 conj
 conjective
-cholecystectomized
+cholecystectomized 1
 condylopoda 1
 corebel
 challengeful 1
@@ -22993,7 +22993,7 @@ consisting
 cent
 caphtor
 consistorial 2
-corydon 1
+corydon 2
 consistorian 1
 consistories
 cookdom 1
@@ -24642,7 +24642,7 @@ caudalward
 copyreading
 curiosos
 copyrightable
-copyrighter
+copyrighter 1
 copis
 cowling 1
 chicnesses 1
@@ -31187,7 +31187,7 @@ chemonite
 clerklike 2
 countervengeance
 commulation
-corantos 1
+corantos 2
 communities 2
 cloudling 1
 cuprene 1
@@ -31879,7 +31879,7 @@ chylopoietic 1
 cuttyhunk
 capillarily
 creamfruit 2
-cipaye
+cipaye 1
 chloragen
 carrageenan 3
 catabiotic
