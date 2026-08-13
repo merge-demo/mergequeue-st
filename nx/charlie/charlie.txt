@@ -22,7 +22,7 @@ corkmaking
 caught
 cabaletta 2
 cestas
-cardplaying
+cardplaying 1
 chertiest 2
 crackerberries
 cereus
@@ -600,7 +600,7 @@ caducibranchiata
 canikins
 caducibranchiate
 claggy 1
-caducous 1
+caducous 2
 caryocaraceae
 caduke
 cadwal
@@ -3366,7 +3366,7 @@ camaldolensian
 commissariat
 coderives 1
 caponize 1
-crispate
+crispate 1
 caponized
 caponizer
 copyfitter 1
@@ -5464,7 +5464,7 @@ castra 1
 castrates 1
 covertical 1
 counterflory
-continuate 1
+continuate 2
 choristoblastoma 1
 capillitia
 cylindrenchema 1
@@ -9361,7 +9361,7 @@ chavel
 chavender 1
 confirmment
 compart
-chavicin 1
+chavicin 2
 chomp 2
 chiot 1
 chavicol
@@ -13878,7 +13878,7 @@ cynism 1
 cyanocarbonic 1
 cinnabar
 cinnamaldehyde 1
-collaborationism 2
+collaborationism 3
 cinnamate 1
 cinnamein 1
 cinnamene 1
@@ -15530,7 +15530,7 @@ classed 1
 cyclicism
 classers
 classfellow
-classy 1
+classy 2
 contrastably 3
 classicalism
 crossbolted
@@ -16643,7 +16643,7 @@ clavilux
 clem 2
 closehanded
 cuittled 1
-carse
+carse 1
 coeliotomy
 colophonium
 closeness 1
@@ -18326,7 +18326,7 @@ cisoceanic 2
 cholerically 1
 crenelled
 cogger 1
-cogging 1
+cogging 2
 coggledy
 cogitate 1
 campal
@@ -18664,7 +18664,7 @@ causeful
 coinstantaneousness
 coinsurance
 coinsurer 1
-chichituna
+chichituna 1
 coinsuring 1
 cointense 1
 codesigns
@@ -22670,7 +22670,7 @@ connotations
 connotative 1
 connotatively
 counterextend 1
-connote 1
+connote 2
 crymotherapy
 connoted
 connoting
@@ -22967,7 +22967,7 @@ causse 1
 consigning
 consignments 1
 consiliary
-consilience 1
+consilience 2
 consimilar
 caphtorim 2
 carnified 1
@@ -31346,7 +31346,7 @@ clubber 1
 cures
 compotation
 cloke
-curets
+curets 1
 callisthenics
 cinematographers 1
 curetting 1
