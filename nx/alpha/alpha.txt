@@ -2844,7 +2844,7 @@ acrogen
 anaesthetics 2
 acrolein 1
 amylenes
-antianthropocentric
+antianthropocentric 1
 antireactionary 1
 acroleins 1
 acrolithan 2
@@ -23488,7 +23488,7 @@ augmentable 1
 acopic
 archdruid
 argol 2
-annotine
+annotine 1
 autoincrement
 augmentedly 1
 architraves 1
