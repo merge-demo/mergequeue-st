@@ -584,7 +584,7 @@ bacon 3
 balkar
 boffola 1
 baubee 1
-balisaur 1
+balisaur 2
 baconian 1
 benzalacetone
 bishopric
@@ -1866,7 +1866,7 @@ bandala 1
 bandanaed 2
 battlepiece
 bollito
-bandeau 2
+bandeau 3
 betula
 boyology
 bancus
@@ -2385,7 +2385,7 @@ belligerency
 bachelorlike
 barbula 1
 bardiness 1
-barbulate 1
+barbulate 2
 barbulyie 4
 barbwires 2
 bullpout 1
@@ -2793,7 +2793,7 @@ barrowman 2
 balletomanes
 baudrons 1
 bowlers 1
-beflowering
+beflowering 1
 baronries 2
 briggs 1
 baroque
@@ -3144,7 +3144,7 @@ bodyshirt 1
 bifurcates 2
 basihyal 1
 biuniquely
-basenesses 1
+basenesses 2
 bangiales 3
 bunda 1
 beforeness 3
@@ -3408,7 +3408,7 @@ bobbishly 1
 bassie
 betsey 1
 bassinet 1
-blastodermatic 1
+blastodermatic 2
 biotin 2
 bassoonists
 busiest
@@ -4026,7 +4026,7 @@ beadswomen
 broadcasting
 begetters 3
 beadwork
-baetuli 3
+baetuli 4
 boilermaking
 butcheries
 brevier 1
@@ -4631,7 +4631,7 @@ bedrid
 bedecking 1
 beholdingness 3
 bulletproofed
-broadens 3
+broadens 4
 bedehouse
 broadenings
 byrewards
@@ -4889,7 +4889,7 @@ belavendered 3
 blanket 3
 boucl
 ballot 2
-bedwarfing
+bedwarfing 1
 broadeners
 bigotty
 beltine 1
@@ -4960,7 +4960,7 @@ bosher
 bassos 1
 boisterously 1
 baianism 1
-beennut 1
+beennut 2
 bimedial 2
 bezette 3
 bonework 1
@@ -5137,7 +5137,7 @@ beflour 1
 beflowered
 biotas 1
 batta
-befuddles
+befuddles 1
 bathmotropic
 bogbean
 bouffants 2
@@ -8892,7 +8892,7 @@ biocenosis 1
 burgraviate 3
 basket
 branchiopodan 1
-belialist 1
+belialist 2
 biochemic 1
 bromvogel
 boeotian 1
@@ -14998,7 +14998,7 @@ bearwood 1
 breathability
 blousily 2
 baptism
-bilateralism 1
+bilateralism 2
 browbeat 1
 begun
 belgians
@@ -16352,7 +16352,7 @@ bdft
 bothies 2
 beloved
 briskened 1
-bruisingly
+bruisingly 1
 bruited 1
 baduhenna
 bruiter 1
@@ -17774,7 +17774,7 @@ blepharoconjunctivitis
 buzzle
 burrgrailer
 basementless 1
-base
+base 1
 braiders
 burrhead 1
 burrheaded
