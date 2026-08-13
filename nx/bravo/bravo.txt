@@ -3671,7 +3671,7 @@ bioplasm
 batoon
 biconjugate
 backsettler 1
-batophobia
+batophobia 1
 benzdioxazine 1
 balloonery
 bepierce 1
@@ -5000,7 +5000,7 @@ bombycilla
 breakfasters 3
 beerpull 1
 beers 1
-beest 2
+beest 3
 babbools 2
 bibation 1
 bindweb 1
@@ -9454,7 +9454,7 @@ beldam 2
 birkeniidae
 birkremite
 blemishing 1
-blastematic
+blastematic 1
 bignonias 2
 boldine
 benetting 1
@@ -10107,7 +10107,7 @@ blabmouth 1
 bravadoism
 bludgeoneer 1
 beamish 2
-bretonian
+bretonian 1
 behave 2
 blackamoors
 boondoggled
@@ -10128,7 +10128,7 @@ blackberrylike
 bunkload 2
 balas 3
 bacchant
-bilaminate 1
+bilaminate 2
 bellied 1
 berbers 1
 bootleggers
@@ -14508,7 +14508,7 @@ blastophitic
 broccolis
 bramble
 brambleberry 1
-bugproof
+bugproof 1
 brambles
 branchy
 botch
@@ -17434,7 +17434,7 @@ bunkering 1
 blackouts 1
 bunkermen 1
 bunkers 1
-babel
+babel 1
 bronchiolus
 beard 3
 balsawood
