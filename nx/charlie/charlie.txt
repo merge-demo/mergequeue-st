@@ -408,7 +408,7 @@ cacoplasia 1
 commonership 1
 cacoproctia
 chondriome
-cystoureteritis
+cystoureteritis 1
 coronels
 cacorhythmic
 coterminous
@@ -2895,7 +2895,7 @@ centigrado 1
 canotier
 canreply 1
 cubi 2
-cocuiza 1
+cocuiza 2
 cansful
 celestite
 coddled
@@ -6315,7 +6315,7 @@ caupo
 coextension 1
 candelas 1
 catochus
-coheaded
+coheaded 1
 cumberlandite
 cestos
 cetiosauria
@@ -6498,7 +6498,7 @@ cavernal
 cavernlike
 cavernoma 1
 cavernous
-cavernously 1
+cavernously 2
 cavernulous
 caves 1
 cavetti 2
@@ -7823,7 +7823,7 @@ calcinable
 chinned
 cesious
 cesium
-cesiums 1
+cesiums 2
 cespititious
 cespititous 1
 contrite
@@ -8242,7 +8242,7 @@ caucho
 cumbered
 corticium 1
 chalcographic
-chalcographical
+chalcographical 1
 chalcographist
 chalcolithic
 cappae
@@ -9384,7 +9384,7 @@ chitarrino 1
 capitolian
 coying
 caudle 1
-cromwell
+cromwell 1
 chaws 2
 chawstick 1
 catering
@@ -9855,7 +9855,7 @@ coenactor
 countess 1
 chawer
 chemitypy
-chemizo 1
+chemizo 2
 colligated
 chastizer 2
 curiological
@@ -11375,7 +11375,7 @@ chlorophyllin
 counselful 1
 chlorophyllite 1
 chlorophyllous 1
-compulsive 1
+compulsive 2
 changelessly
 chlorophora 1
 cameralist
@@ -12998,7 +12998,7 @@ cyano
 crystallogenesis
 cyanoacetate
 cobenignity 2
-currencies
+currencies 1
 cyanoaurate
 characeous
 cyanoauric
@@ -13494,7 +13494,7 @@ chicha
 caseating
 cilicism 1
 ciliella 1
-cistern
+cistern 1
 ciliform 2
 ciliiferous 1
 ciliiform 1
@@ -15754,7 +15754,7 @@ confectioneries
 clean
 cleaned
 chloramine
-cleanest 1
+cleanest 2
 chinching 2
 caissoned
 cleanhanded
@@ -18838,7 +18838,7 @@ cerebellocortex
 crommel
 coly
 chronopher
-clinkered
+clinkered 1
 colichemarde 2
 colicines 2
 cenotaphy
@@ -20285,7 +20285,7 @@ cephalometry
 cavitations
 commoving
 coisns
-casanovanic
+casanovanic 1
 clinical 1
 communa 1
 cellulotoxic 2
@@ -23515,7 +23515,7 @@ centinormal
 callorhynchus 1
 carbonarism 1
 conterminously 1
-coverslut
+coverslut 1
 calamansi 2
 conterminousness 1
 conterraneous
@@ -25876,7 +25876,7 @@ corruptively 1
 corruptly 1
 colubriformes 1
 corruptor 1
-conglutinative
+conglutinative 1
 chapper 1
 corruptress 1
 corrupts
@@ -25948,7 +25948,7 @@ corticoafferent 2
 corticoline 1
 calories 1
 corticolous 1
-corticose
+corticose 1
 corticosteroids 1
 clandestinity
 convexity
@@ -30637,7 +30637,7 @@ coprology
 cucullate
 contravened
 chilidog 1
-crustosis 1
+crustosis 2
 cuculle
 cuculliform 1
 cuculoid 1
