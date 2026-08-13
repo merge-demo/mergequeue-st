@@ -1594,7 +1594,7 @@ evolutility
 epibiotic 1
 embroilment 1
 egotistic 1
-exscind 1
+exscind 2
 elutriator 1
 egotized 2
 egracias 1
@@ -1898,7 +1898,7 @@ emptional 1
 ektexine 1
 electropneumatically 1
 eluting
-exemplary 2
+exemplary 3
 endearance
 euhemerized 1
 excite 3
@@ -2129,7 +2129,7 @@ esophagostenosis 1
 eyestring 1
 ensorceling
 explicandum 1
-extraoral 2
+extraoral 3
 electropult
 erotica
 elation
@@ -3046,7 +3046,7 @@ experimentalists 4
 elaidin 2
 embryotroph 2
 equalities 3
-eumycetic
+eumycetic 1
 elkslip
 enharbor 3
 elkwood 1
@@ -4221,7 +4221,7 @@ ewhow 2
 echograph 1
 exporters
 expiree 3
-escarping 2
+escarping 3
 escambio
 emulousness
 elegancy 2
@@ -4338,7 +4338,7 @@ encratic 3
 eluder
 equinovarus 1
 electrolyzer 1
-encephalosclerosis
+encephalosclerosis 1
 evisite
 endoplastule 2
 euornithes 2
@@ -4647,7 +4647,7 @@ ennuying 1
 efficience 1
 everybody 2
 ecstrophy 1
-esthematology
+esthematology 1
 epanaphora 1
 electromagnetism
 electroencephalographs 2
@@ -5103,7 +5103,7 @@ extrapolate 1
 electromedical 2
 edgemaking 1
 endoenzyme
-epitrochoid
+epitrochoid 1
 entresol 2
 elytrorrhaphy 1
 earbob 2
@@ -5122,7 +5122,7 @@ exuscitate 1
 economists 4
 entocoele 2
 ergotist
-enterovirus 2
+enterovirus 3
 eastings 2
 electroballistician 2
 epilithic 1
@@ -5757,7 +5757,7 @@ expressions
 englobed 3
 enneahedral 2
 envelopment 1
-expulsing 1
+expulsing 2
 extirp 1
 englut 1
 emhpasizing 4
@@ -5961,7 +5961,7 @@ expeditated 1
 ejectors 2
 epheboi 1
 englute 5
-enjail
+enjail 1
 escaped 3
 emetomorphine 2
 ectomere
@@ -6972,7 +6972,7 @@ entrike 4
 economising 4
 erythrochaete 2
 enactory
-embellished 2
+embellished 3
 epiphenomenon 1
 eundem 1
 emote
@@ -7023,7 +7023,7 @@ enshell 2
 entoiling 1
 enunciability 1
 etymologer 1
-euphemous 4
+euphemous 5
 eer 1
 eleemosynar 2
 enunciated 1
@@ -9302,7 +9302,7 @@ empoverish 1
 extendability 1
 extralegal 1
 eructative
-eruction 2
+eruction 3
 emersions
 eruditical
 estop 1
@@ -9427,7 +9427,7 @@ epigastraeum 1
 eschew 1
 euphonon
 exteriorizing
-eschewed
+eschewed 1
 ecbolics
 eryopsid 2
 embedment 1
@@ -9720,7 +9720,7 @@ eastlings 4
 entotrophi 1
 entitles 1
 eradiates 4
-epitomisation 1
+epitomisation 2
 equisonance 1
 everyplace 1
 eddo 2
@@ -9968,7 +9968,7 @@ earsplitting 4
 etalage
 endamnify 1
 etamins 2
-enamdar 1
+enamdar 2
 entepicondylar 3
 etape 2
 escruage 1
@@ -13200,7 +13200,7 @@ erotisms
 enfeature 1
 eximidus 1
 excubitorium 2
-entailment 3
+entailment 4
 embroil 1
 expressibly 2
 etymon
@@ -13746,7 +13746,7 @@ epiplasm 1
 equiaxe 2
 ergocalciferol 2
 externs
-endothelioblastoma
+endothelioblastoma 1
 exhaustedness
 eclats
 elocular 1
