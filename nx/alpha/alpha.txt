@@ -2261,7 +2261,7 @@ alginic 2
 amphioxides
 anomalipod 1
 adventuristic
-achromatisation 1
+achromatisation 2
 agallochum 2
 acetophenine 1
 achromatization
@@ -2842,7 +2842,7 @@ adequateness
 acrogamous 1
 acrogen
 anaesthetics 2
-acrolein 1
+acrolein 2
 amylenes
 antianthropocentric 1
 antireactionary 1
@@ -3410,7 +3410,7 @@ acetonation
 adamitism
 anacidity
 akhoond
-aliptae
+aliptae 1
 awardment
 arcosoliulia 1
 adterminal
@@ -4486,7 +4486,7 @@ amyraldist
 anacard 1
 aerobus
 adure 1
-andia
+andia 1
 allergia 1
 anticomplement
 australic 2
@@ -5102,7 +5102,7 @@ aerotechnical 2
 alchera 1
 aerotherapeutics
 amphidiploidy
-attainting 2
+attainting 3
 aerotherapy 1
 ash 1
 arridge
@@ -5281,7 +5281,7 @@ almond
 amplified
 affidavy
 acosmic
-advertisements
+advertisements 1
 affied
 abjured
 applaudingly
@@ -5377,7 +5377,7 @@ affordable 2
 argoletier
 attestation 1
 abbasid 1
-aplacentalia
+aplacentalia 1
 afforesting
 autophotometry
 anticogitative 1
@@ -8099,7 +8099,7 @@ anthropocosmic
 acrosporous 2
 ambusher
 armoires
-attriutively
+attriutively 1
 alrune 1
 airworthy
 acidotic
@@ -15786,7 +15786,7 @@ abdominocentesis 2
 antagonistic 2
 agura 1
 andradite
-aegirine
+aegirine 1
 antipestilently
 ablauts 1
 agonistical 1
@@ -17198,7 +17198,7 @@ aeroides
 aubaine 1
 adoxa 1
 azulite 1
-artillerymen 2
+artillerymen 3
 apomixes 2
 anthropomorphotheist 2
 acescent
@@ -17804,7 +17804,7 @@ agent
 assertory 1
 anastatic
 apposability 3
-anthranone 1
+anthranone 2
 aegialitis 1
 adelbert
 attacapan
@@ -19740,7 +19740,7 @@ amphoral
 anhistous 3
 amortized
 achigan 2
-arjun 1
+arjun 2
 awkwardness 2
 almshouses
 asarum 1
@@ -21939,7 +21939,7 @@ anatripsis
 alderling
 austerus 2
 associativeness
-appending
+appending 1
 amplify
 associativity 3
 adicity
@@ -24445,7 +24445,7 @@ autosuggestion 1
 agnoiology 1
 abstractionists
 antilegalist 1
-autosuggestionist 1
+autosuggestionist 2
 adversarious
 argentol
 autosuppression
