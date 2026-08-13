@@ -22,7 +22,7 @@ corkmaking
 caught
 cabaletta 2
 cestas
-cardplaying
+cardplaying 1
 chertiest 2
 crackerberries
 cereus
@@ -600,7 +600,7 @@ caducibranchiata
 canikins
 caducibranchiate
 claggy 1
-caducous 1
+caducous 2
 caryocaraceae
 caduke
 cadwal
@@ -3366,7 +3366,7 @@ camaldolensian
 commissariat
 coderives 1
 caponize 1
-crispate
+crispate 1
 caponized
 caponizer
 copyfitter 1
@@ -5464,7 +5464,7 @@ castra 1
 castrates 1
 covertical 1
 counterflory
-continuate 1
+continuate 2
 choristoblastoma 1
 capillitia
 cylindrenchema 1
@@ -8107,7 +8107,7 @@ coordain
 comrogue 1
 crepuscule
 chainless
-counteractions
+counteractions 1
 crosscheck 1
 coelodont
 chlortetracycline
@@ -9361,7 +9361,7 @@ chavel
 chavender 1
 confirmment
 compart
-chavicin 1
+chavicin 2
 chomp 2
 chiot 1
 chavicol
@@ -11470,7 +11470,7 @@ chocoan 2
 chocolate 3
 chocolatey
 chine 1
-chocolates 1
+chocolates 2
 chocolatiere 1
 concentred
 choctaw 1
@@ -13878,7 +13878,7 @@ cynism 1
 cyanocarbonic 1
 cinnabar
 cinnamaldehyde 1
-collaborationism 2
+collaborationism 3
 cinnamate 1
 cinnamein 1
 cinnamene 1
@@ -15130,7 +15130,7 @@ cladoptosis 2
 copilots 1
 cladose
 cyder 1
-cladoselachian 1
+cladoselachian 2
 coleosporiaceae 1
 colyba
 cladus 1
@@ -15530,7 +15530,7 @@ classed 1
 cyclicism
 classers
 classfellow
-classy 1
+classy 2
 contrastably 3
 classicalism
 crossbolted
@@ -16205,7 +16205,7 @@ counterreligion
 cline
 clines 1
 caudexes 1
-clinger 1
+clinger 2
 crankness
 crossbeak 2
 clingfishes
@@ -16643,7 +16643,7 @@ clavilux
 clem 2
 closehanded
 cuittled 1
-carse
+carse 1
 coeliotomy
 colophonium
 closeness 1
@@ -18326,7 +18326,7 @@ cisoceanic 2
 cholerically 1
 crenelled
 cogger 1
-cogging 1
+cogging 2
 coggledy
 cogitate 1
 campal
@@ -18664,7 +18664,7 @@ causeful
 coinstantaneousness
 coinsurance
 coinsurer 1
-chichituna
+chichituna 1
 coinsuring 1
 cointense 1
 codesigns
@@ -18975,7 +18975,7 @@ collates 1
 collations
 cumaru
 conidial
-cesti
+cesti 1
 cloine 1
 ceste 1
 catouse 1
@@ -21515,7 +21515,7 @@ concrescive 1
 colocentesis
 coerces
 concreted
-concretely
+concretely 1
 canicule 1
 concreter
 concretional 1
@@ -22670,7 +22670,7 @@ connotations
 connotative 1
 connotatively
 counterextend 1
-connote 1
+connote 2
 crymotherapy
 connoted
 connoting
@@ -22967,7 +22967,7 @@ causse 1
 consigning
 consignments 1
 consiliary
-consilience 1
+consilience 2
 consimilar
 caphtorim 2
 carnified 1
@@ -28450,7 +28450,7 @@ creant 1
 creased 2
 countertenors 1
 chromotypic
-creaseless
+creaseless 1
 creasers 1
 creases 2
 creashaks
@@ -30911,7 +30911,7 @@ cultisms
 cetotolite 2
 cultistic 2
 checkerbreast
-cultivability 1
+cultivability 2
 cactaceous 3
 csc 2
 cenozoic 1
