@@ -2674,7 +2674,7 @@ allocated
 abutters
 acquire 1
 asiden
-acquisite
+acquisite 1
 arricciati
 acquirements
 appraiser
@@ -3022,7 +3022,7 @@ antitropical
 archenteron 1
 axtree
 aulostomi
-actiniomorpha
+actiniomorpha 1
 addisoniana
 actinisms 1
 arginine
@@ -13047,7 +13047,7 @@ argals 1
 angwich
 aphorismic
 archly
-anhaemolytic 2
+anhaemolytic 3
 agios 1
 antiprism 1
 ataraxics
@@ -20604,7 +20604,7 @@ arthrogryposis 1
 arbalist
 aedegi 3
 alpestral 1
-adulators 2
+adulators 3
 apantesis 3
 arthromeric 2
 actiniferous
@@ -20849,7 +20849,7 @@ aile
 annectent
 academicals
 arfvedsonite
-avulsed
+avulsed 1
 argufies 1
 armipotent
 arx 1
@@ -20971,7 +20971,7 @@ amortisseur 1
 ahtena 1
 antirust
 athreptic 3
-anteorbital 1
+anteorbital 2
 autotroph
 ascendancy 1
 ascendantly 1
