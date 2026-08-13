@@ -537,7 +537,7 @@ backtender 3
 babies 1
 betrayment 1
 backveld
-beruffled 1
+beruffled 2
 beech 1
 backbends
 bayok 2
@@ -3671,7 +3671,7 @@ bioplasm
 batoon
 biconjugate
 backsettler 1
-batophobia
+batophobia 1
 benzdioxazine 1
 balloonery
 bepierce 1
@@ -5000,7 +5000,7 @@ bombycilla
 breakfasters 3
 beerpull 1
 beers 1
-beest 2
+beest 3
 babbools 2
 bibation 1
 bindweb 1
@@ -10107,7 +10107,7 @@ blabmouth 1
 bravadoism
 bludgeoneer 1
 beamish 2
-bretonian
+bretonian 1
 behave 2
 blackamoors
 boondoggled
@@ -10128,7 +10128,7 @@ blackberrylike
 bunkload 2
 balas 3
 bacchant
-bilaminate 1
+bilaminate 2
 bellied 1
 berbers 1
 bootleggers
@@ -13227,7 +13227,7 @@ balneologist 1
 brinkless
 bundists 2
 bosniak
-battlewise
+battlewise 1
 bifer 2
 benzoyl
 barundi
