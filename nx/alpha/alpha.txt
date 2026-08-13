@@ -609,7 +609,7 @@ ampleness
 abnormalcies
 adrenalectomies 1
 acetylcyanide
-adjure 1
+adjure 2
 anatomical
 amynodont 1
 abococket
@@ -8942,7 +8942,7 @@ assizer 3
 alloiometric 2
 adjustments 1
 acrogenic
-alloisomerism
+alloisomerism 1
 axisymmetric
 archaically 4
 apospory 1
