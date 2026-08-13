@@ -1412,7 +1412,7 @@ diorites 3
 daviesite
 deleted 1
 dacryocystalgia 4
-dispel 1
+dispel 2
 downdale 1
 dismain 1
 demonomanie
@@ -2427,7 +2427,7 @@ deluminize 1
 daker 3
 decimole 2
 dangling 1
-diparentum 1
+diparentum 2
 dendritiform
 denizenize 2
 disimprisonment 1
@@ -3589,7 +3589,7 @@ degenerate
 desulphurizer 2
 diagrammatize
 docosane 2
-deprecatorily
+deprecatorily 1
 dragonhead 1
 degenerately 1
 degenerateness 2
@@ -4485,7 +4485,7 @@ demifigure
 disinflated
 downdraught 1
 donmeh
-detroiter 1
+detroiter 2
 demigauntlet
 doting
 disclosing
@@ -6560,7 +6560,7 @@ dipole 3
 deavely 4
 dendrologic 2
 danda 1
-dioicous 1
+dioicous 2
 dislimns 2
 desecrates 1
 demythologizes 2
@@ -8850,7 +8850,7 @@ daughterless
 dibranch 1
 duftery 1
 defiguration
-dozinesses
+dozinesses 1
 dirge 1
 dropperful 1
 dovens 1
@@ -10872,7 +10872,7 @@ doddart
 debaters 1
 deconcentrate
 disjuncts
-desalting 2
+desalting 3
 disculpate
 diruption 1
 dereference
