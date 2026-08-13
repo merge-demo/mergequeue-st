@@ -62,7 +62,7 @@ dichotomise
 disciflorous 1
 dacryosyrinx
 deglamorized 2
-down 1
+down 2
 dendrology 1
 demonological
 dactylar 1
@@ -3233,7 +3233,7 @@ demimondaine
 dissentient
 distrainor 3
 defendant
-defenestrating
+defenestrating 1
 danae
 dayside 1
 derricking 1
@@ -5819,7 +5819,7 @@ datism 1
 deputising
 deprecatory 5
 dabuh 1
-deoxidised 1
+deoxidised 2
 desensitization 1
 dextrolactic 1
 deota 1
@@ -5918,7 +5918,7 @@ drillstock 3
 dottling
 devonic 3
 dollish
-depeculate 1
+depeculate 2
 deadeningly
 deprogrammings
 deprograms 1
@@ -9063,7 +9063,7 @@ diffractiveness 1
 denaturalize
 diss
 dermatophobia 1
-defigure 2
+defigure 3
 dictionarian 1
 dollying 1
 dropsywort 1
@@ -13136,7 +13136,7 @@ desynonymization
 dispersers
 dreigh
 doubtful
-dipicrylamin
+dipicrylamin 1
 didascalic 1
 donkeyback
 dispersibility 2

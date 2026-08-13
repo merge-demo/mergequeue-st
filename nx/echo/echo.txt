@@ -3694,7 +3694,7 @@ expectant 3
 elec 3
 extratellurian 1
 eluates 1
-effluvium
+effluvium 1
 enantiotropic 2
 expunged 1
 elucidators
@@ -6263,7 +6263,7 @@ exspoliation 1
 elfic 2
 electroengrave 1
 enrober 1
-enrive 1
+enrive 2
 eyeholes
 enterogram 1
 epochist 1
@@ -7044,7 +7044,7 @@ equiprobability 2
 electrophoric 1
 earnest
 enchainments
-epiplankton
+epiplankton 1
 evadible 5
 extemporizing 1
 envaye
@@ -7829,7 +7829,7 @@ erection
 epilimnia 2
 epigrams
 entozoan 1
-epiguanine 1
+epiguanine 2
 elementate
 enablement 1
 eireannach 3
@@ -9655,7 +9655,7 @@ extortionist 2
 encounterers
 evangelicalism
 eclipsable 3
-embryotomies 5
+embryotomies 6
 electrophysiologist 3
 evaginate 1
 extrapulmonary 1
@@ -10598,7 +10598,7 @@ exaggerated 3
 expectance 3
 excaudate 1
 euchrome 2
-euclideanism 3
+euclideanism 4
 euclidian
 embattlement 2
 epicoeliac 1
@@ -12485,7 +12485,7 @@ epifaunal 1
 elegiac 2
 enclosure
 epinette 1
-exchequer
+exchequer 1
 entreaty 2
 emotionalism
 ependyme 2
@@ -12899,7 +12899,7 @@ exsert 2
 expandedly
 explicable 2
 engrace 1
-endsheet
+endsheet 1
 excommunicating 1
 elaborate 3
 elvish 1
