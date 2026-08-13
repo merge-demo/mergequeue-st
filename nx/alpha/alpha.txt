@@ -90,7 +90,7 @@ abandoning
 accessional
 arruague 1
 abandonment
-accelerator
+accelerator 1
 antipriestcraft
 abaptiston
 acknow 2
@@ -163,7 +163,7 @@ abattised
 antiracism 1
 azurites
 abattu 1
-adod 1
+adod 2
 abaue 1
 annoyment
 arizona 1
@@ -573,7 +573,7 @@ atweel 1
 acquit 1
 aventurine 1
 astatically
-amens 1
+amens 2
 aegopodium 1
 ablutionary 1
 abluvion 4
@@ -839,7 +839,7 @@ abruption
 addedly 1
 arachnoiditis 1
 arthropomata 1
-abruptness 2
+abruptness 3
 apptd 2
 ambilogy
 algarot
@@ -2338,7 +2338,7 @@ aneurin 1
 arbtrn 2
 axletrees
 adderfish 2
-alaric
+alaric 1
 agreer 1
 arthrozoic
 avoidably
@@ -2766,7 +2766,7 @@ acrylates
 autotoxicosis
 acrylics
 arietta 2
-acipenserid 1
+acipenserid 2
 arcabucero
 autolithography
 acrylonitrile 1
@@ -2781,7 +2781,7 @@ arak 2
 anabasin
 acritan
 acrite 2
-asthenobiosis 3
+asthenobiosis 4
 astringent 1
 arriba 1
 antidysenteric
@@ -3798,7 +3798,7 @@ atticists
 adhered
 adherency
 addiment
-adherent 1
+adherent 2
 adherents 1
 archetypally 1
 adherers 1
@@ -4141,7 +4141,7 @@ astrophotographer
 asmalte
 affinal
 anglification 2
-admonishments
+admonishments 1
 appressor 1
 agrief 1
 antihypertensives
@@ -4208,7 +4208,7 @@ albumoscope 1
 amberoids
 alkylamine 1
 adonizing
-androgenous
+androgenous 1
 ancestrian 1
 adoperate
 ammonals
@@ -4803,7 +4803,7 @@ aerate
 ablactating
 aerating
 adroop
-astrometeorological 1
+astrometeorological 2
 aerations 1
 avaunt 1
 aftermath
@@ -5783,7 +5783,7 @@ agapemonist 3
 agapetae 1
 aptenodytes
 aguacate
-antitussive 1
+antitussive 2
 abapical
 adduceable 2
 agnathous 1
@@ -11253,7 +11253,7 @@ anticonformities 1
 analabos 1
 archipallium
 amphictyonian
-antistrophic
+antistrophic 1
 astronomers
 armlessness 1
 amphictyons 1
@@ -11867,7 +11867,7 @@ ailurophobe 2
 acetyliodide
 antiaristocratic 1
 alypin 3
-analyzes
+analyzes 1
 analkalinity 1
 anallagmatic
 anallantoidean
@@ -15423,7 +15423,7 @@ amla 1
 adjutancy
 affirmed 2
 arbitrator 1
-antiliturgist 2
+antiliturgist 3
 autotomizing
 appetitost 1
 antilochus 2
@@ -25231,7 +25231,7 @@ antiliturgical 2
 azadrachta
 aromatizer
 antirrhinum 2
-azafran 1
+azafran 2
 agonothete
 antichance
 alibangbang 1
