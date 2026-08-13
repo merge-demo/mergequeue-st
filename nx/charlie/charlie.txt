@@ -5060,7 +5060,7 @@ carve 1
 cannabinol 1
 carvene 1
 coronad 1
-carver 1
+carver 2
 copaibic 1
 carvership 1
 chimu
@@ -29586,7 +29586,7 @@ computerlike 2
 croakers
 croaky
 combated 3
-cebine
+cebine 1
 croakier
 croakily
 consociation
