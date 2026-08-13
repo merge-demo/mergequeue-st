@@ -1779,7 +1779,7 @@ genecology 2
 gulsach 1
 glycine
 gastrocolostomy 1
-gablatores
+gablatores 1
 gastrovascular 1
 gthite 1
 goala 4
@@ -2119,7 +2119,7 @@ gymnolaematous 4
 giunta 1
 gunships 5
 geheimrat 1
-gantlopes 1
+gantlopes 2
 guayaberas
 gurjan 2
 griffith 1
@@ -2238,7 +2238,7 @@ gladlier 1
 goodyship 1
 gammoning
 glazily
-gonofs
+gonofs 1
 greengage 2
 gadoid 1
 geyserish 3
@@ -2443,7 +2443,7 @@ gemmology 2
 globality
 gouvernante 1
 gnathidium 2
-glabrate 1
+glabrate 2
 girt 2
 germanesque 2
 gillflirt 4
@@ -2504,7 +2504,7 @@ gibed 2
 griever 2
 gigmania 1
 gained 3
-guessive 1
+guessive 2
 generalise 2
 graciously
 glorifying 1
@@ -4145,7 +4145,7 @@ geniculum 3
 gossy 2
 gymnotus 1
 gutling 1
-geomagnetic 1
+geomagnetic 2
 gimped 2
 gimpier 2
 guidable 3
@@ -4825,7 +4825,7 @@ gladsomest 1
 globiocephalus 1
 guardee 4
 gladwin 2
-gauffred 1
+gauffred 2
 gymnotoka 2
 globularity 3
 groundwards
@@ -4901,7 +4901,7 @@ goldic 1
 gymnogen 1
 gawker
 galling 1
-glew 3
+glew 4
 goodwilled 3
 gigantic 2
 grafters 1
@@ -5515,7 +5515,7 @@ gustful 3
 gowning 5
 gad 1
 grumbles 5
-gamecocks
+gamecocks 1
 glaucus 4
 guardlike 2
 grainering 3
@@ -5531,7 +5531,7 @@ glucine 2
 glochidiate 1
 glucocorticoid 2
 gallery 2
-grained 2
+grained 3
 goatskin
 gambols 2
 gussies 2
@@ -5921,7 +5921,7 @@ gemeinschaft 2
 glossocoma 2
 gibbers
 gauzier 2
-grayhair 3
+grayhair 4
 gutless 1
 gestapo 1
 grayness 2
@@ -6342,7 +6342,7 @@ gippo 2
 gollywobbler
 gambelli 5
 gorgelet 4
-garnitures 3
+garnitures 4
 gustables 1
 gorilline
 gofer 3
@@ -8450,7 +8450,7 @@ gratifiable 3
 guaco
 gelsemium 2
 ghetchoo 2
-girondism
+girondism 1
 ganderteeth 1
 gratified 4
 gaseous 4
@@ -8855,7 +8855,7 @@ germain 3
 galleys 2
 gentianaceous 1
 gamut 2
-gallus 1
+gallus 2
 globate 1
 gm 2
 gunne 4
@@ -8893,7 +8893,7 @@ gowkit
 gynaecomastia 3
 great 2
 geoscientist
-giantisms 2
+giantisms 3
 garboard 1
 grieved 5
 gateless 1
@@ -8931,7 +8931,7 @@ governail 4
 glucolipide 3
 goniopholidae 2
 gentman 1
-galantuomo
+galantuomo 1
 gobang 1
 grete 5
 grainage 2
@@ -9520,7 +9520,7 @@ granting 3
 guiltiness
 gainor 1
 gammaroid
-giddier 2
+giddier 3
 gentilitious
 gematrical 1
 graals
