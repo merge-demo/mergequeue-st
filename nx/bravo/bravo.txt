@@ -537,7 +537,7 @@ backtender 3
 babies 1
 betrayment 1
 backveld
-beruffled 1
+beruffled 2
 beech 1
 backbends
 bayok 2
@@ -1317,7 +1317,7 @@ bury
 bedbug
 boleite 1
 bacterioprecipitin 1
-beltings
+beltings 1
 bate 1
 briguing
 balanorrhagia 2
@@ -2876,7 +2876,7 @@ banger 2
 brushland 1
 barraging
 braca 3
-battener 1
+battener 2
 biatomic 1
 buphthalmic 1
 bloedite 1
@@ -3671,7 +3671,7 @@ bioplasm
 batoon
 biconjugate
 backsettler 1
-batophobia
+batophobia 1
 benzdioxazine 1
 balloonery
 bepierce 1
@@ -3679,7 +3679,7 @@ bargeload
 batrachian 2
 bifrontal 1
 bailiffwick
-balloonfishes 1
+balloonfishes 2
 bergut 1
 batsman 2
 barrelsful 1
@@ -5000,7 +5000,7 @@ bombycilla
 breakfasters 3
 beerpull 1
 beers 1
-beest 2
+beest 3
 babbools 2
 bibation 1
 bindweb 1
@@ -5333,7 +5333,7 @@ bor 1
 beglooms 1
 begloze 1
 busti 2
-brokenly 1
+brokenly 2
 baidar 1
 breviers
 beglue 2
@@ -6950,7 +6950,7 @@ borele 1
 besides 1
 beckett
 barrico 1
-besiegers
+besiegers 1
 bedeman 1
 bourgeoned 1
 bromism
@@ -7560,7 +7560,7 @@ botflies
 brainworker
 banagos
 beweeper 2
-beneficent 1
+beneficent 2
 beweeps 2
 bombilate
 boodler 2
@@ -10107,7 +10107,7 @@ blabmouth 1
 bravadoism
 bludgeoneer 1
 beamish 2
-bretonian
+bretonian 1
 behave 2
 blackamoors
 boondoggled
@@ -10128,7 +10128,7 @@ blackberrylike
 bunkload 2
 balas 3
 bacchant
-bilaminate 1
+bilaminate 2
 bellied 1
 berbers 1
 bootleggers
@@ -10491,7 +10491,7 @@ brelaw 2
 brutalising
 blastemic
 bopyrid 2
-blaster 2
+blaster 3
 blastid
 blart 1
 blasting 1
@@ -10967,7 +10967,7 @@ billowy
 blips 1
 boehmenite 1
 bliss
-branchiostegous 1
+branchiostegous 2
 bucketshop
 birdcatcher
 blissful
@@ -11221,7 +11221,7 @@ biglandular 1
 bitterheartedness
 beheadal 1
 blossomless 2
-blotch 1
+blotch 2
 banal
 banco 3
 beestride
@@ -12840,7 +12840,7 @@ bioprecipitation
 blizzardous 2
 birdbrains 2
 boomslang
-boomslange 2
+boomslange 3
 buccula 1
 bacterins
 basinerved 3
@@ -13227,7 +13227,7 @@ balneologist 1
 brinkless
 bundists 2
 bosniak
-battlewise
+battlewise 1
 bifer 2
 benzoyl
 barundi
@@ -13860,7 +13860,7 @@ blenniid 2
 baas
 balaustine
 byzantian 1
-burettes 2
+burettes 3
 bunyip 1
 besaiel 1
 bottomrying 1
@@ -15390,7 +15390,7 @@ banians 1
 buddhistical 1
 blaeness
 buggiest 1
-briered 1
+briered 2
 brandless
 brainwasher 1
 bagatelles
@@ -16009,7 +16009,7 @@ bortz 1
 bronchogenic 1
 bushwhack 2
 bellmaster 1
-bashed
+bashed 1
 bearer 3
 bosporian 1
 bronchographic 1
@@ -16698,7 +16698,7 @@ buckhounds
 bucklum
 bucky 5
 belaboring 1
-besa 2
+besa 3
 buckishness
 buddled
 buckism 1
