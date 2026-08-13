@@ -1803,7 +1803,7 @@ debark
 detaining 3
 dropseed 2
 drawknife
-debarking 1
+debarking 2
 digamist 2
 dishpanful 1
 discede 3
@@ -3944,7 +3944,7 @@ deepwaterman 1
 dustman 2
 decontaminator 1
 disquixote 2
-delatinize
+delatinize 1
 delation 1
 dichocarpous 1
 delators
