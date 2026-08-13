@@ -3273,7 +3273,7 @@ binormal
 bitumens
 bolted 1
 basinal
-brazil
+brazil 1
 bushland 1
 broader 2
 boniform 3
@@ -5269,7 +5269,7 @@ bloods 1
 begetter 1
 biogeochemistry
 bundlings 1
-byssin 2
+byssin 3
 burrier 1
 beggary 2
 beeriest
@@ -5341,7 +5341,7 @@ beerage 2
 barbola
 begnaw 1
 biharmonic 2
-borderlines
+borderlines 1
 balmy
 begone
 baryte
@@ -5838,7 +5838,7 @@ buqshas 2
 bromometry 2
 biltong
 belligerents
-buildress 2
+buildress 3
 boxcar
 bullsnake
 berseem 1
@@ -6851,7 +6851,7 @@ buicks 1
 bioluminescent 1
 bescourge 3
 buckeroos 3
-bust 1
+bust 2
 bescramble 1
 bescreen 1
 barit
@@ -7645,7 +7645,7 @@ biacetylene 1
 bukshee
 beflower 1
 backened 2
-broigne 2
+broigne 3
 biogenies 3
 beeper 3
 bewraps
@@ -7854,7 +7854,7 @@ bewreath
 bealtine 2
 bibiri 2
 brad 1
-berserks 2
+berserks 3
 bordures 1
 boondoggles 2
 barefisted
@@ -10725,7 +10725,7 @@ blenheim 3
 bibl 2
 belap 3
 battering
-blennadenitis 1
+blennadenitis 2
 backsetting
 bullets 1
 backswimmer 1
@@ -11192,7 +11192,7 @@ bloomeries 1
 begash
 boodleize 6
 bloodsuck 1
-bloomingly 2
+bloomingly 3
 boleti 1
 biometer 3
 biforin 2
@@ -12036,7 +12036,7 @@ biscuitry 2
 boxberry
 brot 1
 brassylic 3
-bubonidae 1
+bubonidae 2
 boycotted
 balaenopteridae 2
 bletheration
@@ -12900,7 +12900,7 @@ brainwater
 banyoro 1
 bacciform 1
 boorishness 3
-bulldog 1
+bulldog 2
 bertrandite 2
 blondes
 beauticians
@@ -16619,7 +16619,7 @@ beraunite 2
 buccanned 2
 brimmingly
 bent 5
-buccanning
+buccanning 1
 blastogeny 2
 bilaminated
 biometry 1
@@ -18350,7 +18350,7 @@ butts 1
 bolita 1
 bucellas
 bipontine 2
-bensail 2
+bensail 3
 braw 2
 bisectionally 2
 buttwoman
