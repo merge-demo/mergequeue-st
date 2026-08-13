@@ -6820,7 +6820,7 @@ adsorptiveness 1
 aggro 1
 aircraftsmen
 aircraftswoman 1
-amytal
+amytal 1
 aircraftwoman
 aggrandizer
 anthrapyridine
@@ -11875,7 +11875,7 @@ acclimature
 amitoses 1
 antipedobaptist 1
 antisociality
-abaisance 1
+abaisance 2
 abas 2
 appulsion 1
 anticreator
