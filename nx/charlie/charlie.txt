@@ -2463,7 +2463,7 @@ cropsickness 1
 cherubically
 cancion 2
 cancionero 2
-canciones 1
+canciones 2
 cancri 1
 chloroquine 1
 charivaried
@@ -7176,7 +7176,7 @@ cytotoxin
 cremant 2
 clodpate
 centrically
-compensability 2
+compensability 3
 centrifugalisation
 corruptest 1
 centrifugalize 1
@@ -7794,7 +7794,7 @@ cervicoauricular
 cobitis
 cervicobuccal
 cervicodynia
-cervicolabial
+cervicolabial 1
 cooeyed
 croh 1
 cervicomuscular 1
@@ -26472,7 +26472,7 @@ calycanthemous 1
 cotoro 2
 civilizing
 covets
-cotoros 1
+cotoros 2
 cellulase
 calligraph 2
 cotorture
