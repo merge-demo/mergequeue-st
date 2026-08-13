@@ -2542,7 +2542,7 @@ freeboot 2
 fem 1
 functionalistic 2
 foresightful 1
-falerno
+falerno 1
 fairyhood 3
 funduck
 ferryboat 3
@@ -6629,7 +6629,7 @@ fractocumulus
 fireweeds 1
 fairgrass
 forehatchway 1
-fruitery 1
+fruitery 2
 funds 1
 fancymonger 2
 fatuousness 1
@@ -8823,7 +8823,7 @@ forgemen 3
 faradization 1
 fiberglass 2
 floret 1
-forechurch 2
+forechurch 3
 flunking
 funeralize 1
 fjerding 2
@@ -10696,7 +10696,7 @@ foodstuffs 3
 fruitiness 3
 fieldworker
 fist 4
-footler 2
+footler 3
 famish 3
 frightable 2
 facultied 3
