@@ -735,7 +735,7 @@ fulminate 1
 faraday 1
 fluxibility 4
 fibrilliferous 2
-footbreadth
+footbreadth 1
 fanatism 1
 fabricating 2
 farcilite 2
@@ -1158,7 +1158,7 @@ fraying 3
 friponerie 4
 focalize 1
 funder 3
-forepass
+forepass 1
 foochowese 2
 fovea 1
 fascist
@@ -1496,7 +1496,7 @@ florigen 1
 filmmaking 1
 foulards 1
 filibeg
-flauntiness 2
+flauntiness 3
 forepiece 2
 faunish
 fleecing 2
@@ -2697,7 +2697,7 @@ frizziness 1
 fervence 2
 ferventness
 frighteningness
-floodwall
+floodwall 1
 fishify 2
 fuminess 1
 ferrometer 3
@@ -4324,7 +4324,7 @@ fructus 3
 fleshings
 formicivora 4
 ficiform 2
-fermi 2
+fermi 3
 fieriest 1
 fibromatoid
 folies 1
@@ -5214,7 +5214,7 @@ formylating 2
 fictionising 4
 flinders 1
 flautino 1
-foulmouthedness
+foulmouthedness 1
 felicitated 1
 flautist 3
 flav 2
@@ -5277,7 +5277,7 @@ fockle 1
 fabricable 1
 fomenter 2
 ferricyanate 1
-feelinglessly 1
+feelinglessly 2
 fibrilation 2
 flawedness
 flats 2
@@ -5398,7 +5398,7 @@ firehouses 3
 festivalgoer
 fennel 3
 friending
-frigefact 1
+frigefact 2
 futurity 2
 fleabiting 1
 fledgeling 1
@@ -6777,7 +6777,7 @@ foibles
 finder 3
 flukiest 1
 flinging
-funariaceous 3
+funariaceous 4
 falciform 3
 fass 5
 founding
@@ -7394,7 +7394,7 @@ forbiddingly 2
 fewnes 2
 floatplane 1
 frost 5
-foothills 1
+foothills 2
 fattened
 fierding 4
 foraramens 2
@@ -7550,7 +7550,7 @@ ferrocyanhydric 1
 feazes 4
 foredesignment
 foremostly 5
-forecastle 2
+forecastle 3
 fundament 2
 forecastlehead 1
 five
@@ -8019,7 +8019,7 @@ fetches 2
 floran 2
 fleying 2
 forecooler 2
-foreslow
+foreslow 1
 frumpled 2
 flirtational
 flatteur 1
@@ -8116,7 +8116,7 @@ forenews
 faunistic 1
 fulminated 1
 foveolae 2
-funkiest 1
+funkiest 2
 flatcar 3
 fundi 3
 furify 3
@@ -9315,7 +9315,7 @@ forenames 3
 frizers 1
 framea 1
 feuillet 1
-framer 1
+framer 2
 filigrain 2
 frames 1
 forename 1
@@ -10734,7 +10734,7 @@ figent 2
 flayed
 fitfully 1
 flary 1
-fleckered 2
+fleckered 3
 fartlek 2
 fortran 3
 flunkeyistic 2
@@ -11062,7 +11062,7 @@ foothook
 fontainea 1
 fabella 2
 frontolysis
-fancies 1
+fancies 2
 flanerie 1
 fumishing 4
 friendliness 1
