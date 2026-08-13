@@ -2533,7 +2533,7 @@ candymaking
 candite
 candyweed 1
 candle 1
-coehorn 2
+coehorn 3
 candleball
 candleberries 2
 candlebomb 1
@@ -15498,7 +15498,7 @@ caries 1
 clartiest
 convulsionist
 clarts
-clash
+clash 1
 clashee
 controlling
 cojones 1
@@ -16266,7 +16266,7 @@ canisters
 clinometrical 1
 calendal 1
 carvol 1
-clinopinacoid 1
+clinopinacoid 2
 cephalin
 chayaroot 1
 convector
