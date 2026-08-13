@@ -355,7 +355,7 @@ bequeath 1
 basseting 1
 benighter 2
 backfires
-brontolite 1
+brontolite 2
 boled 2
 brume
 bradypepsy 1
@@ -1534,7 +1534,7 @@ balladist 1
 batrachophagous 1
 balladize 3
 bedaubed
-balladizing
+balladizing 1
 brutalization 1
 brassish 1
 bichromated
@@ -1884,7 +1884,7 @@ broadlings 1
 befogging
 barkinji 1
 bandfile 2
-burdon 1
+burdon 2
 brownism
 blobbiness
 bipolarization 2
@@ -2945,7 +2945,7 @@ belemnoidea 1
 blissfully
 bamboozlement
 boules
-brassavola
+brassavola 1
 bracketed
 barrelwise 1
 barretor 1
@@ -3138,7 +3138,7 @@ brothels
 breakouts 1
 beallach 1
 biota 1
-blamingly 1
+blamingly 2
 boccis
 bodyshirt 1
 bifurcates 2
@@ -4049,7 +4049,7 @@ brooklet
 beala
 burglarproofing 2
 buchu
-bom 3
+bom 4
 butled 2
 beamed
 bedrock
@@ -5283,7 +5283,7 @@ bubbies
 batrachoididae
 botulinal
 bontebuck 2
-beady 1
+beady 2
 betsy 1
 beggiatoaceae
 bemoil 1
@@ -5575,7 +5575,7 @@ bekissed
 bekisses 1
 bouleuterion 1
 borons 1
-beknighted
+beknighted 1
 ballistite 2
 beknotted 3
 burrio 4
@@ -5980,7 +5980,7 @@ begripe 2
 bellarmine 3
 bemaddened
 boob 1
-bemaim
+bemaim 1
 bushet 2
 bemangle 1
 bemar 5
@@ -7279,7 +7279,7 @@ bacalao 1
 blowby 2
 betanglement
 beulah 4
-burners
+burners 1
 bareges
 blastomycin 2
 bottier
@@ -7547,7 +7547,7 @@ biltongue 1
 bevvy
 bumblepuppy
 bewailers
-blowpit 1
+blowpit 2
 beguilingly 1
 bandolier 2
 bandwagons 1
@@ -9675,7 +9675,7 @@ bisimine 1
 breaches 3
 brabant 2
 becap
-bullish 2
+bullish 3
 bonefish 3
 bisymmetry
 brandyman 1
@@ -13154,7 +13154,7 @@ brucite
 borosalicylic 4
 borotungstate 1
 borough 1
-biseriate 2
+biseriate 3
 boroughmonger
 bugged 1
 blaspheme
@@ -13587,7 +13587,7 @@ bibliokleptomania
 bodgery
 baroco 2
 bugsha 1
-bismutosmaltite 3
+bismutosmaltite 4
 berapt 1
 ballroom
 bobbysocks
@@ -14645,7 +14645,7 @@ branning
 bromoiodism 3
 broadleaves
 bewrayment 1
-bines 1
+bines 2
 bitterns
 brantails 2
 barricado 2
@@ -16419,7 +16419,7 @@ brunfelsia 1
 brunistic
 burniebee 2
 baaskap 2
-brunnichia
+brunnichia 1
 barred
 boysenberries 2
 bushed 2
@@ -16543,7 +16543,7 @@ bruteness
 brutify 1
 bathorse
 bargeese
-barbarianize 1
+barbarianize 2
 brownish 1
 biflorate 2
 backbiters
@@ -17917,7 +17917,7 @@ basichromiole
 bibliopegist
 broadaxes 1
 bahmanid 1
-brahmanda
+brahmanda 1
 besour 1
 beminstrel 1
 bushless 1
