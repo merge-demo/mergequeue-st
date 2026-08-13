@@ -318,7 +318,7 @@ bluming
 beseige 2
 bomi
 backcap
-backchats 1
+backchats 2
 boule 3
 burg 1
 beneficially 2
@@ -3273,7 +3273,7 @@ binormal
 bitumens
 bolted 1
 basinal
-brazil
+brazil 1
 bushland 1
 broader 2
 boniform 3
@@ -3709,7 +3709,7 @@ bucketful 1
 bally 1
 belage 1
 belfather 2
-batteaux
+batteaux 1
 bakatan 4
 battement 1
 balladising 3
@@ -4652,7 +4652,7 @@ bedewed
 ballistically 2
 bocher 1
 bedews 1
-broadgage 2
+broadgage 3
 beatnikism 1
 brunhild
 breakfastless 2
@@ -5269,7 +5269,7 @@ bloods 1
 begetter 1
 biogeochemistry
 bundlings 1
-byssin 2
+byssin 3
 burrier 1
 beggary 2
 beeriest
@@ -5838,7 +5838,7 @@ buqshas 2
 bromometry 2
 biltong
 belligerents
-buildress 2
+buildress 3
 boxcar
 bullsnake
 berseem 1
@@ -6851,7 +6851,7 @@ buicks 1
 bioluminescent 1
 bescourge 3
 buckeroos 3
-bust 1
+bust 2
 bescramble 1
 bescreen 1
 barit
@@ -7854,7 +7854,7 @@ bewreath
 bealtine 2
 bibiri 2
 brad 1
-berserks 2
+berserks 3
 bordures 1
 boondoggles 2
 barefisted
@@ -8505,7 +8505,7 @@ biriba 2
 brewage 2
 burlington 1
 birminghamize 2
-bumble 1
+bumble 2
 bifurcous
 beaches 2
 bemusk 3
@@ -10452,7 +10452,7 @@ barytostrontianite
 blaoner
 blenk
 burinist
-belibeled 1
+belibeled 2
 backyarder 1
 blares 3
 boongary 3
@@ -10782,7 +10782,7 @@ blepharadenitis
 blepharanthracosis 2
 bromaurate
 boylike
-brutalise 2
+brutalise 3
 bizarres 1
 brosse
 brewster
@@ -11761,7 +11761,7 @@ bajree 1
 bichrome
 berascal 1
 britoness 1
-beryciform 1
+beryciform 2
 burier 1
 bowstring 1
 bobsleded
@@ -12036,9 +12036,9 @@ biscuitry 2
 boxberry
 brot 1
 brassylic 3
-bubonidae 1
+bubonidae 2
 boycotted
-balaenopteridae 2
+balaenopteridae 3
 bletheration
 bunions 1
 brewages
@@ -12900,7 +12900,7 @@ brainwater
 banyoro 1
 bacciform 1
 boorishness 3
-bulldog 1
+bulldog 2
 bertrandite 2
 blondes
 beauticians
@@ -13685,7 +13685,7 @@ blames 4
 bromethylene 3
 bodykins
 barathrum 1
-bourdons 3
+bourdons 4
 bourg 4
 befoolable
 bespawl
@@ -14292,7 +14292,7 @@ brens 1
 branchiosaur
 binnite 2
 becost
-bobber 1
+bobber 2
 bechamels
 batheable
 bouillon
@@ -16622,7 +16622,7 @@ bent 5
 buccanning 1
 blastogeny 2
 bilaminated
-biometry 1
+biometry 2
 bousy 1
 blazing 2
 botryogen
