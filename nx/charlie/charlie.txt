@@ -2536,7 +2536,7 @@ candle 1
 coehorn 3
 candleball
 candleberries 2
-candlebomb 1
+candlebomb 2
 candlefish
 corporeal 1
 candlefishes
@@ -2803,7 +2803,7 @@ cannonaded
 cohorts
 cannonading
 cannonarchy 1
-cannonballed
+cannonballed 1
 commercialistic 1
 conglutination
 cannoneer 1
@@ -3412,7 +3412,7 @@ chandu 1
 credos
 crackiness
 caprate 1
-coagulatory
+coagulatory 1
 caprella
 capreol 1
 commotional 1
@@ -7094,7 +7094,7 @@ catamited
 centiliter
 cadent
 chimed 1
-crood
+crood 1
 centiloquy 1
 casziel
 canton 1
@@ -7722,7 +7722,7 @@ cetin
 certainty 2
 certhia 1
 caryatidic 1
-cfi
+cfi 1
 certifiability 1
 categorematic
 cellarway 3
@@ -8645,7 +8645,7 @@ chanticleer
 chanticleers 2
 chantier 1
 curiousness
-capreomycin
+capreomycin 1
 chanties 2
 chantilly 1
 conformity 1
@@ -10239,7 +10239,7 @@ cringed
 conoidical
 chiauses
 comprehension 1
-canniest 1
+canniest 2
 conusee
 chibinite 1
 chibouks
@@ -11138,7 +11138,7 @@ cephalanthium 2
 chiliadal
 coronitis 4
 chiviatite 1
-clavaria
+clavaria 1
 chivies
 chivvied 2
 chivvying
@@ -14855,7 +14855,7 @@ carefully 1
 cytomicrosome
 citrated
 cordages
-cyton 1
+cyton 2
 cytone
 chorda 1
 cadette 1
@@ -17524,7 +17524,7 @@ chloroformism 3
 cocainising
 cocainist 2
 cocainize 1
-copiopsia 1
+copiopsia 2
 cocainomania 1
 cocainomaniac 1
 cocains
@@ -18021,7 +18021,7 @@ compsilura 3
 coemploying
 cosustain
 calmy 1
-cheesy 1
+cheesy 2
 coempting
 choledochotomies
 congresso
@@ -18190,7 +18190,7 @@ coeternal
 caribisi
 coeternity 1
 caninity
-coeval
+coeval 1
 camorrist
 coevalness
 carboline 1
@@ -18336,7 +18336,7 @@ coggly 2
 chatteration
 coghle
 crabbish
-chamaesiphonaceae
+chamaesiphonaceae 1
 cogida 3
 chamber 1
 chasses 2
@@ -20634,7 +20634,7 @@ collectarium
 clanjamfrie 1
 compitalia
 coregonine 5
-clastic
+clastic 1
 complacence 1
 chlorella
 complacency
@@ -26665,7 +26665,7 @@ coccyges
 cicatrizant 1
 clads
 catalyse 1
-countdom
+countdom 1
 chargeableness
 countdown 1
 counted
@@ -27115,7 +27115,7 @@ chints
 counterscrutiny
 cancelation 1
 craws
-cuticular 1
+cuticular 2
 colophane 1
 countersense
 countershade 1
@@ -27699,7 +27699,7 @@ cowing 1
 carcinosarcomata
 cowinner
 cowish 1
-copsole
+copsole 1
 circumdate 2
 crassier
 cowitch
@@ -30224,7 +30224,7 @@ covibration
 crudities
 companions 2
 countryfied
-crudle 1
+crudle 2
 cruds
 cruel
 carbonous
@@ -30275,7 +30275,7 @@ cloudscape
 curetted
 crumenal
 cherte
-crumhorn
+crumhorn 1
 caingin
 crummer
 celiotomies
@@ -31097,7 +31097,7 @@ corallus
 censed 1
 cyathea 1
 cund 1
-conjecturality 1
+conjecturality 2
 cundeamor
 cundum
 cundums 2
@@ -31350,7 +31350,7 @@ curets 1
 callisthenics
 cinematographers 1
 curetting 1
-cawk 1
+cawk 2
 consolitorily
 cruziero
 curfew 3
@@ -31879,7 +31879,7 @@ chylopoietic 1
 cuttyhunk
 capillarily
 creamfruit 2
-cipaye
+cipaye 1
 chloragen
 carrageenan 3
 catabiotic
