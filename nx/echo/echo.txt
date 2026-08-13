@@ -5888,7 +5888,7 @@ exocytosis
 endsweep 1
 enharden 1
 eurytopicity 2
-exoenzymic 1
+exoenzymic 2
 embuskin
 encages 2
 expos 3
@@ -8817,7 +8817,7 @@ enjeopardy 2
 encrypt 4
 emptive 1
 euonymin 1
-enterocystoma 1
+enterocystoma 2
 egregiousness
 endocellular 1
 eremitism 1
