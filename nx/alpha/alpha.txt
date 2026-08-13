@@ -3410,7 +3410,7 @@ acetonation
 adamitism
 anacidity
 akhoond
-aliptae
+aliptae 1
 awardment
 arcosoliulia 1
 adterminal
@@ -4486,7 +4486,7 @@ amyraldist
 anacard 1
 aerobus
 adure 1
-andia
+andia 1
 allergia 1
 anticomplement
 australic 2
@@ -5102,7 +5102,7 @@ aerotechnical 2
 alchera 1
 aerotherapeutics
 amphidiploidy
-attainting 2
+attainting 3
 aerotherapy 1
 ash 1
 arridge
@@ -5281,7 +5281,7 @@ almond
 amplified
 affidavy
 acosmic
-advertisements
+advertisements 1
 affied
 abjured
 applaudingly
@@ -17804,7 +17804,7 @@ agent
 assertory 1
 anastatic
 apposability 3
-anthranone 1
+anthranone 2
 aegialitis 1
 adelbert
 attacapan
@@ -21939,7 +21939,7 @@ anatripsis
 alderling
 austerus 2
 associativeness
-appending
+appending 1
 amplify
 associativity 3
 adicity
@@ -24445,7 +24445,7 @@ autosuggestion 1
 agnoiology 1
 abstractionists
 antilegalist 1
-autosuggestionist 1
+autosuggestionist 2
 adversarious
 argentol
 autosuppression
