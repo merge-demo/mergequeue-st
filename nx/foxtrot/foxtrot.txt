@@ -105,7 +105,7 @@ forrad 2
 foundryman 1
 faciation
 fibs 2
-fleshliest
+fleshliest 1
 fingertips 2
 faciends 3
 featheredges
@@ -145,7 +145,7 @@ frigidaria 1
 flayers 1
 functionarism 2
 fifthly
-fellaheen 1
+fellaheen 2
 facks 2
 fletch 2
 forefront 2
@@ -855,7 +855,7 @@ folliculose
 footworks 1
 feverfews
 forche 4
-fantastication
+fantastication 1
 forold 2
 faventine 6
 flamfew 2
@@ -1469,7 +1469,7 @@ fairgoer 2
 fila 2
 forescent 2
 flutings 2
-fetcher 1
+fetcher 2
 furibund 1
 flunkeyish 2
 furanose 1
@@ -2078,7 +2078,7 @@ fumage 1
 fructidor 3
 fusibleness
 freeform 2
-fideistic 1
+fideistic 2
 fogle
 federalist 1
 floriculture 1
@@ -2589,7 +2589,7 @@ formicid
 ferroelectric 2
 fribblery 1
 fattier 2
-ferrogoslarite 4
+ferrogoslarite 5
 forcet 2
 franked
 foud 4
@@ -3306,7 +3306,7 @@ foreconscious 1
 facewise 2
 ferrohydrocyanic
 flabellate
-fossilologist
+fossilologist 1
 folklorist 2
 featherlessness 2
 fioritura 1
@@ -5045,7 +5045,7 @@ flowered 2
 fissures
 fatteners 4
 flirtationless 1
-flaperon 1
+flaperon 2
 flippantly
 forthgoing 3
 fibrocrystalline
@@ -6618,7 +6618,7 @@ formulaically 2
 flimflams 2
 femalely 4
 focsle 3
-fineish
+fineish 1
 feminism
 flowerpot 4
 fishybacking 1
@@ -6969,7 +6969,7 @@ follily 1
 feeblemindedness 1
 fungivorous
 fadeless 2
-feldsher
+feldsher 1
 frocks 3
 fendy 3
 firecracker 2
@@ -7864,7 +7864,7 @@ fellen 1
 findings 4
 foreplay 4
 feudally 1
-fratricides 2
+fratricides 3
 fencible 4
 flits 1
 frolicked 3
@@ -8301,7 +8301,7 @@ father 1
 fructuose 1
 flushest 2
 forgettably
-faverole 3
+faverole 4
 fractionalizing 4
 friction 3
 forging
@@ -9130,7 +9130,7 @@ farmerlike 1
 fibrinolytic 2
 farcied 1
 famed 3
-fords 1
+fords 2
 fleabanes
 fourberie 2
 fedelini 1
@@ -9193,7 +9193,7 @@ fabrications 1
 fearfullest
 foppery 3
 fungosity 3
-fossorial
+fossorial 1
 fractions 2
 forncast
 flashlamp 2
@@ -9964,7 +9964,7 @@ filamentose 2
 fogeater
 fevercup 4
 fenestrone 2
-formalizes
+formalizes 1
 foretells 1
 fistfuls
 flanes 1
@@ -11186,7 +11186,7 @@ flyblowing 1
 fungian
 fondles 1
 felspar 2
-fungibility 1
+fungibility 2
 fadeout 3
 fideists 2
 farmer 2
@@ -11380,7 +11380,7 @@ footways 1
 foldless 1
 folksiest 4
 foister
-factish 2
+factish 3
 focalizing
 fluorindin 4
 fibropolypus 2
