@@ -881,7 +881,7 @@ extradition 1
 enterostomies 1
 enteroptosis 2
 engineery 4
-eumolpique
+eumolpique 1
 endopolyploidy 1
 ectosarc 3
 essoining 1
@@ -1416,7 +1416,7 @@ enormousness 1
 entodermal 2
 epipodialia 1
 entoretina 2
-erythrocytolytic 1
+erythrocytolytic 2
 espoused 2
 ethnicon 4
 exaggeratory 2
@@ -1615,7 +1615,7 @@ emu 1
 egromancy 1
 emptiness 2
 egurgitate 1
-egurgitated 4
+egurgitated 5
 eheu 3
 explanatively 3
 elchee 2
@@ -1877,7 +1877,7 @@ errata
 eximiousness 1
 exacta 1
 effectively 1
-encashes 1
+encashes 2
 evanescency 1
 eulogically 1
 epidictical 1
@@ -3048,7 +3048,7 @@ embryotroph 2
 equalities 3
 eumycetic 1
 elkslip
-enharbor 3
+enharbor 4
 elkwood 1
 etherean 4
 epicenter 1
@@ -3712,7 +3712,7 @@ exhalatory 1
 eeten 1
 ephemerons 1
 echelette 2
-exhaustivity
+exhaustivity 1
 egoistry 1
 embrittle 1
 enfranchised 3
@@ -3728,7 +3728,7 @@ enfranchise 2
 erodability 4
 excessiveness 1
 encumbers 1
-enfetter 3
+enfetter 4
 embrocates 1
 efflower 1
 erugation 2
@@ -4554,7 +4554,7 @@ ethologically 2
 eucryphiaceae
 epistolean 1
 erethizontidae
-equitably 2
+equitably 3
 epilimnion 2
 echevin
 exeunt 3
@@ -4888,7 +4888,7 @@ enterocele 1
 endearingness 1
 exactive 2
 eglestonite 1
-ecliptics 2
+ecliptics 3
 estrada 4
 endamaging 3
 estreated 2
@@ -5829,7 +5829,7 @@ engrandize 1
 ebrillade 1
 ectogeneous
 ecesis
-engrandizement 2
+engrandizement 3
 engrasp 1
 emancipatory 2
 ephedrins 1
@@ -5984,7 +5984,7 @@ euphroe 2
 extravillar 2
 estafa 1
 exigence 1
-eulophid
+eulophid 1
 electrodesiccate 2
 elkesaite 3
 electricalness
@@ -6792,7 +6792,7 @@ empoisoning
 electroimpulse
 entomol 2
 eyepopper 1
-exocentric 1
+exocentric 2
 execrative 1
 eupolyzoan 3
 equipostile 1
@@ -8951,7 +8951,7 @@ ergophobiac 1
 exhilarant 1
 explorative
 enjoinment 1
-ecclesiasticism 1
+ecclesiasticism 2
 epizootiological
 encradle
 enteropneust 3
@@ -10584,7 +10584,7 @@ epephragmal 1
 enthusing 2
 exhibitory 2
 epiclidal 1
-equibiradiate
+equibiradiate 1
 esprits 3
 equivalue
 elpidite 2
@@ -10789,7 +10789,7 @@ eye 1
 encolpion 3
 entrusted 2
 entrapped 1
-epharmony
+epharmony 1
 eucharistizing 2
 establishmentarian 2
 enemying
@@ -11008,7 +11008,7 @@ endolymphangial 2
 eutaxies 2
 eusynchite 2
 eurycephalic 1
-epiglot
+epiglot 1
 enridged 3
 epiclastic 1
 electrodialitically 2
@@ -12024,7 +12024,7 @@ exclaves 2
 excavational
 expensed 1
 eryngium 1
-everyone
+everyone 1
 enterfeat 3
 exampleship 2
 essentials 2
@@ -12597,7 +12597,7 @@ etc 2
 exclaim
 ergonovine 1
 exobasidium 1
-eupathy 2
+eupathy 3
 enlure 1
 echuca 1
 eating 1
@@ -13792,7 +13792,7 @@ emancipationist
 evokers
 enki 4
 epithalamial 2
-entone 1
+entone 2
 effusely 2
 endoparasitica 3
 epiplectic 3
