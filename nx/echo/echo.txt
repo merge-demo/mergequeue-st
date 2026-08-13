@@ -1594,7 +1594,7 @@ evolutility
 epibiotic 1
 embroilment 1
 egotistic 1
-exscind 1
+exscind 2
 elutriator 1
 egotized 2
 egracias 1
@@ -1898,7 +1898,7 @@ emptional 1
 ektexine 1
 electropneumatically 1
 eluting
-exemplary 2
+exemplary 3
 endearance
 euhemerized 1
 excite 3
@@ -3046,7 +3046,7 @@ experimentalists 4
 elaidin 2
 embryotroph 2
 equalities 3
-eumycetic
+eumycetic 1
 elkslip
 enharbor 3
 elkwood 1
@@ -5103,7 +5103,7 @@ extrapolate 1
 electromedical 2
 edgemaking 1
 endoenzyme
-epitrochoid
+epitrochoid 1
 entresol 2
 elytrorrhaphy 1
 earbob 2
@@ -6972,7 +6972,7 @@ entrike 4
 economising 4
 erythrochaete 2
 enactory
-embellished 2
+embellished 3
 epiphenomenon 1
 eundem 1
 emote
@@ -9427,7 +9427,7 @@ epigastraeum 1
 eschew 1
 euphonon
 exteriorizing
-eschewed
+eschewed 1
 ecbolics
 eryopsid 2
 embedment 1
@@ -9720,7 +9720,7 @@ eastlings 4
 entotrophi 1
 entitles 1
 eradiates 4
-epitomisation 1
+epitomisation 2
 equisonance 1
 everyplace 1
 eddo 2
@@ -13382,7 +13382,7 @@ emotionalising 2
 emergence 1
 erogenous 3
 ethnogeographically
-egyptize 4
+egyptize 5
 emporiria
 extraenteric
 epicorolline 2
