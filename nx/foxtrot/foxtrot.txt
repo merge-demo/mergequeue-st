@@ -2542,7 +2542,7 @@ freeboot 2
 fem 1
 functionalistic 2
 foresightful 1
-falerno
+falerno 1
 fairyhood 3
 funduck
 ferryboat 3
@@ -10696,7 +10696,7 @@ foodstuffs 3
 fruitiness 3
 fieldworker
 fist 4
-footler 2
+footler 3
 famish 3
 frightable 2
 facultied 3
