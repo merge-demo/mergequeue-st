@@ -3409,7 +3409,7 @@ deflocculant
 dragsman 1
 dimethylhydrazine 3
 downrightness 1
-dillseed
+dillseed 1
 dudgeon 1
 dissatisfy 3
 dowly 1
@@ -13255,7 +13255,7 @@ disposement 1
 demising
 disposers 1
 dislocator 1
-dicrotic 1
+dicrotic 2
 dispositional 1
 disharmonical 1
 deforester
