@@ -1594,7 +1594,7 @@ evolutility
 epibiotic 1
 embroilment 1
 egotistic 1
-exscind 1
+exscind 2
 elutriator 1
 egotized 2
 egracias 1
@@ -9427,7 +9427,7 @@ epigastraeum 1
 eschew 1
 euphonon
 exteriorizing
-eschewed
+eschewed 1
 ecbolics
 eryopsid 2
 embedment 1
@@ -13382,7 +13382,7 @@ emotionalising 2
 emergence 1
 erogenous 3
 ethnogeographically
-egyptize 4
+egyptize 5
 emporiria
 extraenteric
 epicorolline 2
