@@ -105,7 +105,7 @@ forrad 2
 foundryman 1
 faciation
 fibs 2
-fleshliest
+fleshliest 1
 fingertips 2
 faciends 3
 featheredges
@@ -1469,7 +1469,7 @@ fairgoer 2
 fila 2
 forescent 2
 flutings 2
-fetcher 1
+fetcher 2
 furibund 1
 flunkeyish 2
 furanose 1
@@ -6969,7 +6969,7 @@ follily 1
 feeblemindedness 1
 fungivorous
 fadeless 2
-feldsher
+feldsher 1
 frocks 3
 fendy 3
 firecracker 2
@@ -9130,7 +9130,7 @@ farmerlike 1
 fibrinolytic 2
 farcied 1
 famed 3
-fords 1
+fords 2
 fleabanes
 fourberie 2
 fedelini 1
@@ -9193,7 +9193,7 @@ fabrications 1
 fearfullest
 foppery 3
 fungosity 3
-fossorial
+fossorial 1
 fractions 2
 forncast
 flashlamp 2
@@ -11380,7 +11380,7 @@ footways 1
 foldless 1
 folksiest 4
 foister
-factish 2
+factish 3
 focalizing
 fluorindin 4
 fibropolypus 2
