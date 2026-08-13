@@ -871,7 +871,7 @@ convictable
 cairngorum 2
 cairny 1
 caisse 1
-caissons
+caissons 1
 caite
 colligance 1
 caitif 1
@@ -1847,7 +1847,7 @@ calzada 1
 camaka 1
 camaldolese 1
 camaldolesian 1
-camaldule
+camaldule 1
 complecting
 camaldulian 2
 camalote
@@ -4643,7 +4643,7 @@ carols 1
 carolus 2
 chemicocautery 1
 carom 1
-clubbily
+clubbily 1
 caromel
 caroming 1
 coucher
@@ -7625,7 +7625,7 @@ ceremonialize 2
 clangingly 1
 ceremonialness
 counterlocking 2
-contrabass 1
+contrabass 2
 calamariaceae
 chimblies
 caquetio 1
@@ -7943,7 +7943,7 @@ ch
 cha 2
 capture
 colloquized 2
-catchweed
+catchweed 1
 chaa
 cholecalciferol
 chab
@@ -8909,7 +8909,7 @@ circassic
 crowds 2
 catechumenical
 clept
-catholicizing 1
+catholicizing 2
 chareter
 charette
 censers
@@ -10751,7 +10751,7 @@ chinela 1
 chlor 1
 chines
 counterraising 1
-chinesery 1
+chinesery 2
 cinched
 consimilate
 chinfest
@@ -12096,7 +12096,7 @@ chinkiest
 chouan 1
 chouanize
 committment
-cobaltite
+cobaltite 1
 compluvium
 chounce
 coalesced
@@ -15819,7 +15819,7 @@ chien
 cumulite
 caranga
 catnapper
-clearsightedness 2
+clearsightedness 3
 clearstarcher 3
 clearstory
 chocker 1
@@ -19990,7 +19990,7 @@ cheery 1
 commandry 1
 cachinnated 1
 caudata
-commark
+commark 1
 croupal 1
 coinheres 1
 conjectural 2
@@ -20529,7 +20529,7 @@ coinhere
 compassivity
 cwrite
 compatibility
-compatibilities 1
+compatibilities 2
 cainism
 condors
 clouts 1
@@ -21029,7 +21029,7 @@ compulsed 1
 ceroplast 2
 calciphobe
 culex 2
-compulsion
+compulsion 1
 compulsitor
 caramelan 1
 cypsela 1
@@ -27892,7 +27892,7 @@ crabs
 crabstick 1
 comeatable
 conquians
-crabut 2
+crabut 3
 crabweed
 coreid 1
 crabwise
@@ -29770,7 +29770,7 @@ crookheaded
 crooking
 circule
 crooknecked
-concessionaires
+concessionaires 1
 coset
 causticize
 concludes
@@ -30281,7 +30281,7 @@ crummer
 celiotomies
 crummy 1
 crummier 1
-coppaelite
+coppaelite 1
 crummiest
 crumminess 1
 crumming
@@ -30540,7 +30540,7 @@ cubicities 1
 cofferfish
 cubicula 1
 costly
-cubicular
+cubicular 1
 casewood
 celiodynia 1
 cubiculo 1
@@ -31387,7 +31387,7 @@ cyclopentane 1
 cerebrosensorial 1
 counterconquest
 chocked
-croutons
+croutons 1
 curio 1
 curiolofic 1
 culinarily
