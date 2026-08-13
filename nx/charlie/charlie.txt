@@ -7350,7 +7350,7 @@ coquettishness
 cephalomant
 catlin 1
 cleansing 1
-cephalomere 1
+cephalomere 2
 cyclostylar
 cephalometric
 cephalonasal
@@ -17863,7 +17863,7 @@ camas
 codicils
 codicology
 codifications 1
-cycasin
+cycasin 1
 canis 1
 codifiers 1
 codifies 1
@@ -23286,7 +23286,7 @@ consubstantiated 3
 cycadales
 consubstantiating 1
 culmen
-consuetudinal
+consuetudinal 1
 consul
 consulage
 coloclysis 2
@@ -29527,7 +29527,7 @@ criterional
 cerealist 2
 crith
 crithidia
-crithomancy 3
+crithomancy 4
 critic 1
 coquetting
 criticality
@@ -31675,7 +31675,7 @@ cosmical
 cushion 2
 cushioned
 cushionet 1
-cushionflower
+cushionflower 1
 cushioning 2
 celestial 1
 cowardy

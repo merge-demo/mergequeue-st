@@ -355,7 +355,7 @@ bequeath 1
 basseting 1
 benighter 2
 backfires
-brontolite 1
+brontolite 2
 boled 2
 brume
 bradypepsy 1
@@ -1534,7 +1534,7 @@ balladist 1
 batrachophagous 1
 balladize 3
 bedaubed
-balladizing
+balladizing 1
 brutalization 1
 brassish 1
 bichromated
@@ -2945,7 +2945,7 @@ belemnoidea 1
 blissfully
 bamboozlement
 boules
-brassavola
+brassavola 1
 bracketed
 barrelwise 1
 barretor 1
@@ -4049,7 +4049,7 @@ brooklet
 beala
 burglarproofing 2
 buchu
-bom 3
+bom 4
 butled 2
 beamed
 bedrock
@@ -5980,7 +5980,7 @@ begripe 2
 bellarmine 3
 bemaddened
 boob 1
-bemaim
+bemaim 1
 bushet 2
 bemangle 1
 bemar 5
@@ -14645,7 +14645,7 @@ branning
 bromoiodism 3
 broadleaves
 bewrayment 1
-bines 1
+bines 2
 bitterns
 brantails 2
 barricado 2
@@ -16543,7 +16543,7 @@ bruteness
 brutify 1
 bathorse
 bargeese
-barbarianize 1
+barbarianize 2
 brownish 1
 biflorate 2
 backbiters
