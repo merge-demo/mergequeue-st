@@ -5401,7 +5401,7 @@ affydavy
 acid 2
 affrightment 1
 affronted 1
-affrontedness 1
+affrontedness 2
 anidiomatic 1
 adenose
 affronts
@@ -9724,7 +9724,7 @@ alvar 1
 anecdotist
 asmack
 anaemic
-advent 1
+advent 2
 alvearium 2
 alveolariform 1
 alveolate
@@ -15352,7 +15352,7 @@ antihypnotically 1
 achromatically
 arietation 1
 acroterion 1
-antihypochondriac
+antihypochondriac 1
 annal
 anticoincidence 1
 agomphosis 1
@@ -17564,7 +17564,7 @@ artmobile
 appendant 1
 aouellimiden 2
 androspore 1
-antixerophthalmic
+antixerophthalmic 1
 appendency 1
 aquacultural 2
 appendicalgia 3
@@ -18726,7 +18726,7 @@ agalite 2
 anticonventionally
 archcritic 2
 amblyopia
-argonautic
+argonautic 1
 appmt 1
 archcrown
 arointed 1
@@ -22746,7 +22746,7 @@ arrondissement 1
 acrogynous 1
 arthrodira 1
 aeronef 3
-athwartships 1
+athwartships 2
 abiogenetically
 actian 1
 ahurewa 1
