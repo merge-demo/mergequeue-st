@@ -163,7 +163,7 @@ abattised
 antiracism 1
 azurites
 abattu 1
-adod 1
+adod 2
 abaue 1
 annoyment
 arizona 1
@@ -573,7 +573,7 @@ atweel 1
 acquit 1
 aventurine 1
 astatically
-amens 1
+amens 2
 aegopodium 1
 ablutionary 1
 abluvion 4
@@ -609,7 +609,7 @@ ampleness
 abnormalcies
 adrenalectomies 1
 acetylcyanide
-adjure 1
+adjure 2
 anatomical
 amynodont 1
 abococket
@@ -1436,7 +1436,7 @@ antifreezes
 acervuline
 apocatastatic 1
 antibacteriolytic
-acceptress
+acceptress 1
 accepts
 attractants 4
 apellous 1
@@ -1495,7 +1495,7 @@ acclimatise 3
 acclimatiser 1
 acclimatising
 aegagrus
-applewood 1
+applewood 2
 aborsive 1
 algid
 alpinery
@@ -2766,7 +2766,7 @@ acrylates
 autotoxicosis
 acrylics
 arietta 2
-acipenserid 1
+acipenserid 2
 arcabucero
 autolithography
 acrylonitrile 1
@@ -2781,7 +2781,7 @@ arak 2
 anabasin
 acritan
 acrite 2
-asthenobiosis 3
+asthenobiosis 4
 astringent 1
 arriba 1
 antidysenteric
@@ -5980,7 +5980,7 @@ arborization
 azoxyphenetole
 adversary
 apprehensive 1
-atelorachidia
+atelorachidia 1
 anhaematopoiesis
 aerogeology
 amphithecial
@@ -7140,7 +7140,7 @@ aphoriser
 arthresthesia
 albuminized
 androides 1
-amissness
+amissness 1
 amoristic
 analecta
 arythmic 1
@@ -8418,7 +8418,7 @@ aerodromics
 alisp 2
 alisphenoidal 1
 achaemenid
-asynapsis
+asynapsis 1
 aliter
 archaiser
 ality 1
@@ -8942,7 +8942,7 @@ assizer 3
 alloiometric 2
 adjustments 1
 acrogenic
-alloisomerism
+alloisomerism 1
 axisymmetric
 archaically 4
 apospory 1
@@ -9127,7 +9127,7 @@ anemonin 1
 antitheologian 1
 abdicator 1
 acuminating
-alluring
+alluring 1
 advancingly
 adenalgy 5
 atebrin
@@ -10137,7 +10137,7 @@ archaeopithecus
 anaheim
 amboina
 amboinas
-aviatrixes
+aviatrixes 1
 antiegoistic 2
 azedarach
 anthropogeny
@@ -11253,7 +11253,7 @@ anticonformities 1
 analabos 1
 archipallium
 amphictyonian
-antistrophic
+antistrophic 1
 astronomers
 armlessness 1
 amphictyons 1
@@ -12325,7 +12325,7 @@ actinodrome
 ancyrean 1
 affectedly 1
 ancistrocladaceous
-ancistroid 1
+ancistroid 2
 ancodont
 aerified 1
 anubing
@@ -13125,7 +13125,7 @@ actinobacillosis
 anigh
 ablach
 alienize
-antiparliament 2
+antiparliament 3
 acronical 3
 ascus
 anil
@@ -13283,7 +13283,7 @@ araks
 antiphysician
 anisandrous 1
 aberrant 1
-anisanilide 1
+anisanilide 2
 annotated 1
 african
 aftermass 1
@@ -15423,7 +15423,7 @@ amla 1
 adjutancy
 affirmed 2
 arbitrator 1
-antiliturgist 2
+antiliturgist 3
 autotomizing
 appetitost 1
 antilochus 2
@@ -15968,7 +15968,7 @@ antiquarianize
 anachronism 1
 americas
 amylase 1
-aromatise
+aromatise 1
 acquital 1
 aliasing
 antiquated
@@ -19286,7 +19286,7 @@ arenilitic 2
 arenites 2
 anthraquinonyl
 alberca 1
-aristas 2
+aristas 3
 absentmindedly 1
 arenoid
 alation
@@ -23324,7 +23324,7 @@ amoretto 1
 atropinization 3
 alans
 attunement 2
-anodynes 1
+anodynes 2
 ablation 2
 atua
 atule 2
@@ -23859,7 +23859,7 @@ autarchic 2
 arrowweed 1
 autarchically 1
 auxesis
-ashlaring 1
+ashlaring 2
 autarchies 1
 autarchist 2
 acalypterae
