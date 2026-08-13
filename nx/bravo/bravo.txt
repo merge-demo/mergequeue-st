@@ -891,7 +891,7 @@ brachydome 1
 baggager
 benzidin 1
 benzalcohol 2
-beffroy
+beffroy 1
 baggala 1
 borderlight 2
 bagganet 2
@@ -3884,7 +3884,7 @@ boxbush
 bedaggered 2
 breastless
 benzoate 1
-birthbed
+birthbed 1
 barnacles
 bullpouts 1
 babus 1
@@ -10807,7 +10807,7 @@ balow 1
 bullbeggar
 bugbeardom
 blepharomelasma
-blepharoncosis 2
+blepharoncosis 3
 beplumed
 broses 2
 blepharoplastic
@@ -17628,7 +17628,7 @@ bunchflower 1
 burgoyne 5
 burgomasters 1
 bullfighting 3
-burgomastership 3
+burgomastership 4
 burgundy
 bishareen 5
 burhel 1
@@ -18115,7 +18115,7 @@ bealtared 1
 bloodlettings
 buskin 3
 barognosis
-butcherer 1
+butcherer 2
 bouquetin
 blobbier
 bureaucrats
