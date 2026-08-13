@@ -1059,7 +1059,7 @@ botargos
 bailiffs 1
 blennorrhea 1
 billons
-busway 2
+busway 3
 bustiest
 boyaus
 basanite 2
@@ -8072,7 +8072,7 @@ bicorned
 booby 3
 booklift 1
 bartend 2
-bagroom
+bagroom 1
 bicornuate 2
 bicornute
 beshadow
@@ -12499,7 +12499,7 @@ bather
 bagpiped 3
 bone
 bejaundice
-bonebreaker
+bonebreaker 1
 bifoliolate
 brobdingnag 3
 bonedry 1
@@ -12705,7 +12705,7 @@ blowholes 1
 bear
 bungarus
 beautifier
-boroughmongering 1
+boroughmongering 2
 benchless
 baldachini 1
 backhander 1
@@ -18030,7 +18030,7 @@ busmen 1
 benda 1
 bussing 1
 bussock
-beneurous 1
+beneurous 2
 bullshots 1
 bodken 2
 bafyot 4
