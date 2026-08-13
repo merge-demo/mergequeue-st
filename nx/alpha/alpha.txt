@@ -1401,7 +1401,7 @@ annulately 2
 agapanthus 1
 accept 1
 anomural 1
-approximating 1
+approximating 2
 acceptability 1
 antistimulant 2
 amintor 1
@@ -6803,7 +6803,7 @@ amyelinic 2
 adipocerous
 adopt 1
 airbrushing 1
-amitabha
+amitabha 1
 airburst 2
 arresting 1
 angularity 1
@@ -9156,7 +9156,7 @@ ambulates 1
 acarodermatitis
 applejack 1
 allwork 1
-antianarchic
+antianarchic 1
 afrikaner 1
 anthroposophic
 antdom 3
@@ -9317,7 +9317,7 @@ archbishops
 alemana 1
 alongshoreman 1
 autonetics 1
-antisymmetric 1
+antisymmetric 2
 aloose 1
 alop 1
 axunge
@@ -9553,7 +9553,7 @@ anubin 1
 aspidate 1
 astrocompass
 anargyroi 2
-ambassiate 1
+ambassiate 2
 alonzo
 althorn
 alticamelus
@@ -9751,7 +9751,7 @@ actinical
 alwite
 arrogator
 apocalypticism
-anapestically 1
+anapestically 2
 apterygotous 4
 ayen
 apiology
@@ -16014,7 +16014,7 @@ againbuy 1
 adjurer 1
 atheous 2
 antirape
-attackingly 1
+attackingly 2
 ambaree 1
 actinomorphous 1
 antirealist 1
@@ -17095,7 +17095,7 @@ administrant 2
 atomic 1
 apodemas
 asportation 1
-apodematal
+apodematal 1
 abstinence
 apodiabolosis 2
 arsenyl 2
@@ -19779,7 +19779,7 @@ aminolytic 1
 armado
 affecter
 amphicyonidae
-acrodermatitis
+acrodermatitis 1
 airplanes 1
 alteratively 1
 armamentarium
@@ -21100,7 +21100,7 @@ assignee
 antefurcae
 ascones
 asconoid
-abaff 1
+abaff 2
 air
 arette 2
 ascophore 1
@@ -21407,7 +21407,7 @@ aslumber
 aspergillales 3
 apriorist
 abkar 1
-almswoman
+almswoman 1
 acrogenously 2
 ambiparous 1
 agueproof 1
@@ -24138,7 +24138,7 @@ asconia
 autographer 4
 afterpart
 argolid 1
-ammoreslinol
+ammoreslinol 1
 autographometer 2
 autoheader 1
 axone
