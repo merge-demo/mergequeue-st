@@ -408,7 +408,7 @@ cacoplasia 1
 commonership 1
 cacoproctia
 chondriome
-cystoureteritis
+cystoureteritis 1
 coronels
 cacorhythmic
 coterminous
@@ -922,7 +922,7 @@ confided
 cholesterosis 2
 cakavci 3
 cakchikel 1
-cushily
+cushily 1
 cakette 1
 chaptalization
 cakewalked
@@ -2895,7 +2895,7 @@ centigrado 1
 canotier
 canreply 1
 cubi 2
-cocuiza 1
+cocuiza 2
 cansful
 celestite
 coddled
@@ -2922,7 +2922,7 @@ cantaliver 1
 catacombs
 cackled 1
 cantaloup
-careerer 1
+careerer 2
 cantaloupes 2
 catboat
 cantando 1
@@ -6498,7 +6498,7 @@ cavernal
 cavernlike
 cavernoma 1
 cavernous
-cavernously 1
+cavernously 2
 cavernulous
 caves 1
 cavetti 2
@@ -7592,7 +7592,7 @@ cerebroscope 2
 codewords
 cerebrose
 campanula 1
-chargers
+chargers 1
 calathisci
 cerebrospinal
 cipherer
@@ -7823,7 +7823,7 @@ calcinable
 chinned
 cesious
 cesium
-cesiums 1
+cesiums 2
 cespititious
 cespititous 1
 contrite
@@ -8242,7 +8242,7 @@ caucho
 cumbered
 corticium 1
 chalcographic
-chalcographical
+chalcographical 1
 chalcographist
 chalcolithic
 cappae
@@ -9384,7 +9384,7 @@ chitarrino 1
 capitolian
 coying
 caudle 1
-cromwell
+cromwell 1
 chaws 2
 chawstick 1
 catering
@@ -9737,7 +9737,7 @@ connatal 1
 cheke
 coffeetime 1
 cheken
-curvacious
+curvacious 1
 chekhov
 colourable 2
 chekist
@@ -11375,7 +11375,7 @@ chlorophyllin
 counselful 1
 chlorophyllite 1
 chlorophyllous 1
-compulsive 1
+compulsive 2
 changelessly
 chlorophora 1
 cameralist
@@ -11604,7 +11604,7 @@ culpability 1
 colpeurysis 1
 conformate 2
 collectorship
-choledochorrhaphy 2
+choledochorrhaphy 3
 cowsucker
 cace
 choledochostomies 1
@@ -19512,7 +19512,7 @@ cantonment
 caledonian 1
 casimires 1
 cowpony 1
-convenientness
+convenientness 1
 colpoplasty
 chromogenetic
 colpoptosis
@@ -20285,7 +20285,7 @@ cephalometry
 cavitations
 commoving
 coisns
-casanovanic
+casanovanic 1
 clinical 1
 communa 1
 cellulotoxic 2
@@ -21627,7 +21627,7 @@ crownation 1
 ceromez
 condescensive
 callout
-condescensively
+condescensively 1
 condescensiveness
 clearwater
 cancelli
@@ -21777,7 +21777,7 @@ colonizationist 2
 charkas
 conductional 1
 coquitos
-clambered 1
+clambered 2
 climatotherapies 1
 couleur 2
 conductometer
@@ -25876,7 +25876,7 @@ corruptively 1
 corruptly 1
 colubriformes 1
 corruptor 1
-conglutinative
+conglutinative 1
 chapper 1
 corruptress 1
 corrupts
@@ -25948,7 +25948,7 @@ corticoafferent 2
 corticoline 1
 calories 1
 corticolous 1
-corticose
+corticose 1
 corticosteroids 1
 clandestinity
 convexity
@@ -26866,7 +26866,7 @@ cudava
 chilopod
 counterfeits 1
 counterfessed
-counterfire
+counterfire 1
 counterflange 1
 cruzados 1
 counterfleury
@@ -27400,7 +27400,7 @@ courthouse
 commaes
 courty
 coldbloodedness 1
-chickweed 2
+chickweed 3
 courtyards
 coonroot 2
 closter
@@ -28644,7 +28644,7 @@ crematorial
 copen
 crematoriria
 crematorium
-cremators 1
+cremators 2
 coronule
 crembalum 2
 cutties 1
@@ -28881,7 +28881,7 @@ crevasses
 chubasco
 crumblement 1
 crevet
-crevette 1
+crevette 2
 creviced
 chorus
 cussers 1
@@ -30637,7 +30637,7 @@ coprology
 cucullate
 contravened
 chilidog 1
-crustosis 1
+crustosis 2
 cuculle
 cuculliform 1
 cuculoid 1
@@ -31670,7 +31670,7 @@ casked 1
 clears 1
 coth
 cushiness 1
-cushing 2
+cushing 3
 cosmical
 cushion 2
 cushioned
