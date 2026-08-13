@@ -4558,7 +4558,7 @@ crosshatches
 carneyed 1
 cabiritic 2
 convulsed
-carnelian 1
+carnelian 2
 carneole
 coroner 1
 chartula 1
@@ -5959,7 +5959,7 @@ cathartic
 chloroplatinate
 conciliate
 cathartics
-cathartidae
+cathartidae 1
 chistera 1
 cathartides 1
 chevied 1
@@ -6565,7 +6565,7 @@ caza
 cazimi 2
 crossability
 confusticate 2
-chondrofetal 1
+chondrofetal 2
 cazique 1
 cyanhidrosis
 cb 1
@@ -6971,7 +6971,7 @@ championless
 contorsive
 craighle 1
 cenotes 1
-ceremonially
+ceremonially 1
 cuerda
 counterimitation
 censitaire 1
@@ -10099,7 +10099,7 @@ chestfuls 1
 cantalas
 candroy 1
 chesty 1
-chestier
+chestier 1
 collaudation
 chestnut
 chestnuts 1
@@ -10911,7 +10911,7 @@ conglobating 1
 chirks 1
 contrariety
 chlorotrifluoroethylene
-chirmed 1
+chirmed 2
 coarbiter 1
 chirming 1
 chirms
@@ -16162,7 +16162,7 @@ censing 1
 climaxing
 consequence 1
 cytotrophoblastic 1
-climbed 4
+climbed 5
 climber 3
 cabobs
 chromosantonin
@@ -19702,7 +19702,7 @@ combatable 1
 chroma 1
 chrismale
 combatant
-cimbalom 1
+cimbalom 2
 combater
 combaters
 combating 1
@@ -20706,7 +20706,7 @@ completing 1
 commensurated
 controversially 1
 completive 1
-cheiragra
+cheiragra 1
 clunist 1
 cneoraceous
 criance
@@ -21666,7 +21666,7 @@ condylomatous 1
 condylopodous 1
 conjurator
 corditis 1
-clerically 1
+clerically 2
 condylure 1
 compriest 2
 chondria
@@ -22134,7 +22134,7 @@ copping 1
 carbanilic 1
 chowing
 confounders 2
-cripplers 1
+cripplers 2
 confounding
 confoundment
 caufle 1
@@ -24927,7 +24927,7 @@ cuichunchulli
 criniferous 1
 charac 1
 caoutchouc
-corallium 1
+corallium 2
 carminatives
 caterans 2
 craniacromial 1
@@ -28799,7 +28799,7 @@ crescively 2
 clarinettist 1
 confederatio 1
 cantino 1
-cresegol
+cresegol 1
 cargo 2
 cresyl
 cresylate 2
@@ -28958,7 +28958,7 @@ chaityas 1
 curtseyed 1
 crancelin 1
 crimmy 1
-cricetids 1
+cricetids 2
 cricetus 1
 crickey
 cricket 1
@@ -31221,7 +31221,7 @@ cupulae
 cupular 2
 carlines
 cupulate 2
-crosslets
+crosslets 1
 cupule 2
 ceratophyte
 ceramicists
