@@ -496,7 +496,7 @@ abyssus
 abit 2
 agriculture 2
 abbreviate 2
-amylemia 1
+amylemia 2
 antiscriptural 1
 agedly 2
 abiuret
@@ -787,7 +787,7 @@ abrasively 2
 antirevolutionaries
 antipolitically 1
 aviarists
-allurements
+allurements 1
 abreacts 3
 amninions 2
 acer 1
@@ -1232,7 +1232,7 @@ avellaneous
 afforest 1
 autogravure
 antimedically 1
-acanthodes
+acanthodes 1
 aspirations 1
 avowal
 antivitamin
@@ -2563,7 +2563,7 @@ autosymbiontic
 antluetic
 alpiste
 acomia 1
-anglicize 1
+anglicize 2
 allozooid 2
 acomous
 acroasis 2
@@ -2737,7 +2737,7 @@ apex 1
 airpark
 acridiidae 3
 allochiral 2
-amreetas 1
+amreetas 2
 ankylophobia 2
 acridity
 aerobee 3
@@ -5164,7 +5164,7 @@ aestivating 1
 aestive
 aestuate 1
 ahchoo
-aestus 2
+aestus 3
 alamos
 abassin 1
 anend
@@ -7216,7 +7216,7 @@ amole 1
 anadromous
 ameloblast
 adnouns 1
-abettals
+abettals 1
 alacrious 2
 alactaga
 alada 2
@@ -11890,7 +11890,7 @@ analogicalness
 amidomyelin 1
 abdominocardiac
 analogised
-anteroventral 2
+anteroventral 3
 analogize 1
 appropriation
 analogon 1
@@ -15818,7 +15818,7 @@ amathophobia
 alipteria
 autonoetic
 anodize 2
-antiphony 1
+antiphony 2
 anomorhomboid
 amethystlike
 ambitioning 2
@@ -16554,7 +16554,7 @@ acutorsion
 apache 1
 attained 1
 astronautic 3
-apaesthetize
+apaesthetize 1
 articulatory
 anophthalmus
 apagogic
@@ -18046,7 +18046,7 @@ arthrosynovitis 3
 anteoperculum 1
 amazona
 aproterodont 1
-amsterdamer
+amsterdamer 1
 apsidiole
 afterthinker 2
 ambidexter
@@ -21386,7 +21386,7 @@ asha
 ambicolorate 1
 asystolic 1
 actinoida 1
-antonymous 1
+antonymous 2
 aftergame
 antherids
 antebath 1
@@ -22249,7 +22249,7 @@ antiquing 2
 astonishingly
 anaphia
 apologetic 1
-aspasia
+aspasia 1
 ariled 1
 aerier 4
 atropinize
