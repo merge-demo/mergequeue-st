@@ -595,7 +595,7 @@ drawboy
 devotionalism
 demifusion 2
 dextrose
-dvigu 1
+dvigu 2
 damine 1
 disbeliever 1
 drek 2
@@ -3233,7 +3233,7 @@ demimondaine
 dissentient
 distrainor 3
 defendant
-defenestrating
+defenestrating 1
 danae
 dayside 1
 derricking 1
@@ -3399,7 +3399,7 @@ diacetyl
 decarboxylase 3
 decolorisation 2
 disadorn 2
-deflector 3
+deflector 4
 devitrifying 1
 deflesh 1
 deflexibility
@@ -4819,7 +4819,7 @@ diestrum 1
 dognapers 1
 durableness 1
 demonise 2
-dactyliotheca
+dactyliotheca 1
 dodlet 3
 ductile 1
 declive 2
@@ -5578,7 +5578,7 @@ depersonalized 1
 discipled 1
 deflated 2
 discouraging
-deathwatches 2
+deathwatches 3
 duddy
 dozy
 desaturation 1
@@ -7724,7 +7724,7 @@ daryl 1
 decapodan 1
 diverged 2
 decempunctate
-devilkins 2
+devilkins 3
 doubling 1
 discanonization 5
 denominable 1
@@ -8797,7 +8797,7 @@ doggies 1
 dipala
 diazoma 1
 diazonium 1
-demethylation 1
+demethylation 2
 diazotype
 dromicia 1
 deluding 2
@@ -9772,7 +9772,7 @@ diligent 2
 dawen 1
 dilis
 dillenia
-datsw 1
+datsw 2
 dimethoate 2
 decaphyllous
 deckpipe
@@ -11935,7 +11935,7 @@ deliciate 1
 dictionaries 1
 diducing 2
 disemboweling 1
-delundung 1
+delundung 2
 disaffirm 2
 disembowelments
 dermatalgia
@@ -13281,7 +13281,7 @@ deutomerite 1
 daphnoid
 dementate
 decrees 1
-dispossession
+dispossession 1
 delay 1
 distrustful
 damascus 1
@@ -14957,7 +14957,7 @@ disulfiram 2
 disjection
 dogmatics 2
 domestics 2
-diameter 1
+diameter 2
 dogberry
 dogberryism
 dubbeh 1
@@ -15944,7 +15944,7 @@ debacles
 dauntlessness 1
 disharmonism 3
 denaturational 1
-desuete 1
+desuete 2
 dendrobatinae 1
 deviant 1
 dissonancies 3
@@ -16091,7 +16091,7 @@ daimonistic 1
 deathbed
 doughty
 duomo 1
-diphthonged 1
+diphthonged 2
 ditherer 2
 dropline 1
 doughtier 1
@@ -16478,7 +16478,7 @@ divulges 1
 devolatilisation 2
 dracin
 damaskin 2
-dollhouse 2
+dollhouse 3
 darken
 degradations
 detinuit
