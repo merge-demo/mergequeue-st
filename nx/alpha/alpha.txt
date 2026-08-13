@@ -3383,7 +3383,7 @@ adays 1
 adjustors 1
 agrestal 2
 acecaffine
-agnizing 2
+agnizing 3
 assistor 1
 anisodactylous 2
 anthranil 1
@@ -5904,7 +5904,7 @@ agential 1
 adolph 1
 agenting
 agentives 2
-adducing
+adducing 1
 archprototype
 array 2
 agrionid
@@ -12380,7 +12380,7 @@ axes
 anders 1
 autoirrigation 1
 adipocerite
-americanism 2
+americanism 3
 apolytikion
 assiduous
 andesites
@@ -16144,7 +16144,7 @@ acrididae
 argumentatious 2
 annealing 1
 acidulous
-arrame
+arrame 1
 antishipping 1
 amphitryon
 antisideric 1
@@ -16832,7 +16832,7 @@ annule 1
 aphrodisiomania
 aphrodisiomaniac 1
 arrivism
-anagalactic
+anagalactic 1
 adlay
 amylamine
 apostolian 3
