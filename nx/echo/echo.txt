@@ -1615,7 +1615,7 @@ emu 1
 egromancy 1
 emptiness 2
 egurgitate 1
-egurgitated 4
+egurgitated 5
 eheu 3
 explanatively 3
 elchee 2
@@ -1877,7 +1877,7 @@ errata
 eximiousness 1
 exacta 1
 effectively 1
-encashes 1
+encashes 2
 evanescency 1
 eulogically 1
 epidictical 1
@@ -3712,7 +3712,7 @@ exhalatory 1
 eeten 1
 ephemerons 1
 echelette 2
-exhaustivity
+exhaustivity 1
 egoistry 1
 embrittle 1
 enfranchised 3
@@ -3728,7 +3728,7 @@ enfranchise 2
 erodability 4
 excessiveness 1
 encumbers 1
-enfetter 3
+enfetter 4
 embrocates 1
 efflower 1
 erugation 2
@@ -5829,7 +5829,7 @@ engrandize 1
 ebrillade 1
 ectogeneous
 ecesis
-engrandizement 2
+engrandizement 3
 engrasp 1
 emancipatory 2
 ephedrins 1
@@ -10584,7 +10584,7 @@ epephragmal 1
 enthusing 2
 exhibitory 2
 epiclidal 1
-equibiradiate
+equibiradiate 1
 esprits 3
 equivalue
 elpidite 2
@@ -10789,7 +10789,7 @@ eye 1
 encolpion 3
 entrusted 2
 entrapped 1
-epharmony
+epharmony 1
 eucharistizing 2
 establishmentarian 2
 enemying
