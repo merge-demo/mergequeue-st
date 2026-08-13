@@ -790,7 +790,7 @@ extravisceral
 evincibly 1
 electropositive
 eusuchia 1
-eggment
+eggment 1
 electrophotography 1
 ectasis 1
 endothia 2
@@ -1098,7 +1098,7 @@ electrotypes 1
 epicaridea 4
 epitrichial 4
 exsanguinated 2
-encatarrhaphy 3
+encatarrhaphy 4
 ejectee 2
 endopterygotic
 elhi 6
@@ -2048,7 +2048,7 @@ eulogises 2
 endothermy
 elapine 3
 emes 2
-endysis
+endysis 1
 eutectics 1
 edictal 1
 entraps 2
@@ -2382,7 +2382,7 @@ ethiopic 2
 ebriosity 2
 entomologize 1
 epitrochlea 3
-electrodes 3
+electrodes 4
 etherization 5
 elotherium
 esterling 1
@@ -2450,7 +2450,7 @@ emerges
 eches 1
 equivalence 1
 electrogenic 1
-electrogild
+electrogild 1
 eudemonia 2
 exhilarates 1
 enhearten 3
@@ -2935,7 +2935,7 @@ elias 1
 epitomiser 2
 epistomal 4
 etchings 2
-enscrolling
+enscrolling 1
 eelshop 2
 embank
 evaporatively 3
@@ -3098,7 +3098,7 @@ encrease 2
 extraparietal 2
 elm 1
 excursiveness 1
-educing 1
+educing 2
 epistolographist
 edgewise 1
 euectic 2
@@ -4292,7 +4292,7 @@ entrenches 1
 esture
 elytroclasia 1
 ephestia 1
-expulsive
+expulsive 1
 expansibleness 1
 enactor 2
 epigrammatize 4
@@ -5745,7 +5745,7 @@ exchangeability 3
 extranidal 2
 eosinophilous 2
 exhilarating 2
-exterritoriality
+exterritoriality 1
 eolipiles 1
 eucharistical 1
 excl 1
@@ -9483,7 +9483,7 @@ exanthine 1
 escry 3
 escribientes 1
 escrime 1
-ephyrula 1
+ephyrula 2
 enwwove
 embryoferous 4
 epiphanising 1
@@ -10473,7 +10473,7 @@ equilobed 3
 entities 3
 etiquette 1
 entocranial 3
-etiquettical 1
+etiquettical 2
 etna
 effortful
 etoile
@@ -12452,7 +12452,7 @@ envisionment 2
 epistyle 2
 experient 1
 eyer 1
-elocutioner 3
+elocutioner 4
 ergometer 3
 effude 2
 epapillate 1
@@ -12540,7 +12540,7 @@ electronervous 2
 enchiridia 1
 eunicid 2
 epicalyx
-ezan 3
+ezan 4
 etymologized 1
 epapophysis 2
 euphemy
@@ -13864,7 +13864,7 @@ extracystic 3
 equiarticulate 1
 entomolite
 essaylet 1
-extracivic
+extracivic 1
 engenderer 4
 euchroite 1
 effacing
