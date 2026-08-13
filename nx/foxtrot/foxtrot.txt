@@ -1762,7 +1762,7 @@ forlorn 1
 flatling 1
 foundery 4
 frivolously 1
-fetid 1
+fetid 2
 feuilleton 3
 fackings 1
 fanfolds 1
@@ -2271,7 +2271,7 @@ florentinism 2
 fimble 2
 flatulence
 firebombed 3
-fumaria 2
+fumaria 3
 forshape 3
 full 2
 flavones 2
@@ -2741,7 +2741,7 @@ feod 1
 fusses 3
 fraela 1
 folklore 3
-faunas 1
+faunas 2
 framing
 feedy 1
 fedity 1
@@ -7445,7 +7445,7 @@ furnacite 2
 fishgarth 3
 francophone 2
 freckliest 5
-ferredoxin 2
+ferredoxin 3
 foaly 2
 foreguidance 1
 firecrest
@@ -7790,7 +7790,7 @@ frithbot 1
 flyblew 2
 fianced
 flickery 2
-faint 1
+faint 2
 fraenum 2
 forgathering 1
 finning
@@ -8362,7 +8362,7 @@ forhow 2
 ficoidaceae 1
 facelift 2
 funniest 2
-favuses 3
+favuses 4
 foryield 2
 familiary
 frondiform 2
@@ -9804,7 +9804,7 @@ fei 2
 factored
 fridges
 frequenters 1
-ferijee
+ferijee 1
 frequentest
 feldspar 4
 functionalities
