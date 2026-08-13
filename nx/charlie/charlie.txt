@@ -17336,7 +17336,7 @@ chemigraph
 coreceiver
 cimline 1
 coassist
-coassistant 2
+coassistant 3
 culpas 1
 cupola
 coassume
@@ -23286,7 +23286,7 @@ consubstantiated 3
 cycadales
 consubstantiating 1
 culmen
-consuetudinal
+consuetudinal 1
 consul
 consulage
 coloclysis 2
