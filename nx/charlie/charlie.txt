@@ -2536,7 +2536,7 @@ candle 1
 coehorn 3
 candleball
 candleberries 2
-candlebomb 1
+candlebomb 2
 candlefish
 corporeal 1
 candlefishes
@@ -27699,7 +27699,7 @@ cowing 1
 carcinosarcomata
 cowinner
 cowish 1
-copsole
+copsole 1
 circumdate 2
 crassier
 cowitch
