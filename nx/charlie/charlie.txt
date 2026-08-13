@@ -2536,7 +2536,7 @@ candle 1
 coehorn 3
 candleball
 candleberries 2
-candlebomb 1
+candlebomb 2
 candlefish
 corporeal 1
 candlefishes
@@ -2803,7 +2803,7 @@ cannonaded
 cohorts
 cannonading
 cannonarchy 1
-cannonballed
+cannonballed 1
 commercialistic 1
 conglutination
 cannoneer 1
@@ -7722,7 +7722,7 @@ cetin
 certainty 2
 certhia 1
 caryatidic 1
-cfi
+cfi 1
 certifiability 1
 categorematic
 cellarway 3
@@ -10239,7 +10239,7 @@ cringed
 conoidical
 chiauses
 comprehension 1
-canniest 1
+canniest 2
 conusee
 chibinite 1
 chibouks
@@ -18021,7 +18021,7 @@ compsilura 3
 coemploying
 cosustain
 calmy 1
-cheesy 1
+cheesy 2
 coempting
 choledochotomies
 congresso
@@ -20634,7 +20634,7 @@ collectarium
 clanjamfrie 1
 compitalia
 coregonine 5
-clastic
+clastic 1
 complacence 1
 chlorella
 complacency
@@ -27699,7 +27699,7 @@ cowing 1
 carcinosarcomata
 cowinner
 cowish 1
-copsole
+copsole 1
 circumdate 2
 crassier
 cowitch
@@ -31097,7 +31097,7 @@ corallus
 censed 1
 cyathea 1
 cund 1
-conjecturality 1
+conjecturality 2
 cundeamor
 cundum
 cundums 2
@@ -31879,7 +31879,7 @@ chylopoietic 1
 cuttyhunk
 capillarily
 creamfruit 2
-cipaye
+cipaye 1
 chloragen
 carrageenan 3
 catabiotic
