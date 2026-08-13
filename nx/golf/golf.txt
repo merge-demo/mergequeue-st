@@ -896,7 +896,7 @@ gerontomorphosis
 grillwork 2
 gotha 1
 gametocyst 3
-gametocyte 4
+gametocyte 5
 gametogenic 2
 gooseflesh 1
 gueparde 1
@@ -2119,7 +2119,7 @@ gymnolaematous 4
 giunta 1
 gunships 5
 geheimrat 1
-gantlopes 1
+gantlopes 2
 guayaberas
 gurjan 2
 griffith 1
@@ -2238,7 +2238,7 @@ gladlier 1
 goodyship 1
 gammoning
 glazily
-gonofs
+gonofs 1
 greengage 2
 gadoid 1
 geyserish 3
@@ -4825,7 +4825,7 @@ gladsomest 1
 globiocephalus 1
 guardee 4
 gladwin 2
-gauffred 1
+gauffred 2
 gymnotoka 2
 globularity 3
 groundwards
