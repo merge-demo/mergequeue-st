@@ -355,7 +355,7 @@ bequeath 1
 basseting 1
 benighter 2
 backfires
-brontolite 1
+brontolite 2
 boled 2
 brume
 bradypepsy 1
@@ -2945,7 +2945,7 @@ belemnoidea 1
 blissfully
 bamboozlement
 boules
-brassavola
+brassavola 1
 bracketed
 barrelwise 1
 barretor 1
@@ -4049,7 +4049,7 @@ brooklet
 beala
 burglarproofing 2
 buchu
-bom 3
+bom 4
 butled 2
 beamed
 bedrock
@@ -5980,7 +5980,7 @@ begripe 2
 bellarmine 3
 bemaddened
 boob 1
-bemaim
+bemaim 1
 bushet 2
 bemangle 1
 bemar 5
