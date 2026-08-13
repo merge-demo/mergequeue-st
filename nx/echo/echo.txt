@@ -70,7 +70,7 @@ ensphere
 ellebore 1
 embrown 1
 ellfish 2
-edaphosauria 2
+edaphosauria 3
 erugate 2
 emunctory 2
 eulalia 2
@@ -3682,7 +3682,7 @@ ecmnesia
 envenom 1
 eternised
 exergues 1
-evase
+evase 1
 embryological 3
 endocoeliac
 embosking
@@ -5271,7 +5271,7 @@ egeran 1
 emmeniopathy 3
 endoscopies 2
 epipodia
-endoskeletons 1
+endoskeletons 2
 endosmic 2
 entrusts 1
 evaders 2
@@ -8623,7 +8623,7 @@ ethanols 1
 erelong 1
 extractor
 exceptionable 3
-especially 2
+especially 3
 emphyteuta 1
 elutriating 2
 emergently
@@ -12744,7 +12744,7 @@ exalted 1
 embloom
 epibolism
 exenterating 4
-exophthalmus
+exophthalmus 1
 euonymus 1
 emboweling
 engramma 2
