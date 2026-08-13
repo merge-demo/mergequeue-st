@@ -1476,7 +1476,7 @@ coracoscapular
 ceriornis 1
 carnosin 2
 calisayas
-clave 1
+clave 2
 chicks
 calistheneum
 commercializes
@@ -2463,7 +2463,7 @@ cropsickness 1
 cherubically
 cancion 2
 cancionero 2
-canciones 1
+canciones 2
 cancri 1
 chloroquine 1
 charivaried
@@ -2579,7 +2579,7 @@ candlesticks
 cogniser 2
 candlewaster 1
 choledocholithotripsy
-cambial 1
+cambial 2
 crocoisite
 candlewasting
 coyan
@@ -5024,7 +5024,7 @@ cartwheel 1
 coannex
 catarrhine 1
 cryptogramma 1
-couchantly 1
+couchantly 2
 cartwheeler 1
 consolan 1
 canopic 2
@@ -7028,7 +7028,7 @@ centauromachia 2
 centenar
 constringent 1
 chronicles
-carrefour 1
+carrefour 2
 calpac 2
 carroches 1
 cheap
@@ -7176,7 +7176,7 @@ cytotoxin
 cremant 2
 clodpate
 centrically
-compensability 2
+compensability 3
 centrifugalisation
 corruptest 1
 centrifugalize 1
@@ -7794,7 +7794,7 @@ cervicoauricular
 cobitis
 cervicobuccal
 cervicodynia
-cervicolabial
+cervicolabial 1
 cooeyed
 croh 1
 cervicomuscular 1
@@ -8141,7 +8141,7 @@ comments
 calliophone
 cyprus
 conduceability
-chairborne
+chairborne 1
 cabined
 copartners 1
 circumitineration 1
@@ -9158,7 +9158,7 @@ cunningest 2
 chasma 2
 chasmed 2
 caddy
-chondrigenous
+chondrigenous 1
 cheths
 clypeolate
 chasmogamous
@@ -11152,7 +11152,7 @@ comportance
 chizzel 1
 chladnite
 chondrite 1
-churlishly
+churlishly 1
 chlamyd
 chlamydate 2
 chlamydobacteriaceous
@@ -14000,7 +14000,7 @@ cyphered 1
 cipherhood
 ciphering 1
 ciphertexts
-carbonated
+carbonated 1
 cyphomandra
 cyphonism 1
 constrain 1
@@ -15417,7 +15417,7 @@ clarendon
 clares 1
 claret 1
 cervantes
-cheerio
+cheerio 1
 canzos 1
 coppas 1
 clary
@@ -17336,7 +17336,7 @@ chemigraph
 coreceiver
 cimline 1
 coassist
-coassistant 2
+coassistant 3
 culpas 1
 cupola
 coassume
@@ -20000,7 +20000,7 @@ commassee 1
 cigar 1
 commata 1
 claustra
-commaterial
+commaterial 1
 cofeoffee 1
 commatic 1
 cancers
@@ -20522,7 +20522,7 @@ compassionate
 couthiness 1
 candidateship 2
 compassionateness
-catalepsy
+catalepsy 1
 coiners 1
 compassive 2
 coinhere
@@ -20826,7 +20826,7 @@ compared
 componendo
 component
 curing 1
-componented 2
+componented 3
 confronters 1
 crocodilian
 componential 2
@@ -23019,7 +23019,7 @@ crain
 crossfire
 chambermaids
 coprinae
-companyless 1
+companyless 2
 copist
 consoles 1
 consolette 1
@@ -24148,7 +24148,7 @@ convertite 1
 comfortless 2
 convertive
 choriocapillary 1
-caterership
+caterership 1
 convertoplane 2
 chave
 crimples
@@ -24720,7 +24720,7 @@ copperware 1
 copperwing
 cladodes 1
 coppices 1
-crepehanger 1
+crepehanger 2
 coppin 1
 charkhana
 corkscrewing 1
@@ -26472,7 +26472,7 @@ calycanthemous 1
 cotoro 2
 civilizing
 covets
-cotoros 1
+cotoros 2
 cellulase
 calligraph 2
 cotorture
@@ -27623,7 +27623,7 @@ crescentwise
 cow
 calefaction 1
 cyanidin
-clientry
+clientry 1
 caesuras 1
 cowages
 cowardice 1
