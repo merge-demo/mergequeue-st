@@ -1,6 +1,6 @@
 a 1
 acanthurus
-aerobacteriologically 1
+aerobacteriologically 2
 aa
 antichretic
 aahs 2
@@ -2299,7 +2299,7 @@ anvil 2
 agraffes 1
 auride 1
 aquaplane 1
-armigeri 1
+armigeri 2
 antiager 2
 avatara 1
 axel
@@ -7356,7 +7356,7 @@ anglophobia
 appropriative
 ashake
 albarco
-appliably
+appliably 1
 albarelli 2
 autotriploidy
 ah
@@ -10783,7 +10783,7 @@ amyris 1
 amyrol
 amyroot
 allodiaries 2
-artha 1
+artha 2
 alodiary 1
 amirs 1
 appalled
@@ -11359,7 +11359,7 @@ anilin
 aniliid 1
 amphithecia
 amendableness 1
-almacen
+almacen 1
 advisees 2
 amphithecium 1
 abjures 3
@@ -12363,7 +12363,7 @@ anaclete 1
 agnes 1
 antipestilent
 authored 2
-academised
+academised 1
 autotoxicity 1
 argentum 1
 ambay
@@ -14777,7 +14777,7 @@ autopneumatic
 antibusing 1
 anticachectic 1
 alidada 1
-anticalcimine
+anticalcimine 1
 accurateness
 archdukedom 1
 antically
@@ -16524,7 +16524,7 @@ advertises
 anglicanize
 arecaceous 1
 athyridae 2
-aortal
+aortal 1
 aortarctia 2
 aortas 2
 avogadro 2
@@ -17160,7 +17160,7 @@ absolutist
 aproctia
 apollo
 apollonian 1
-author
+author 1
 apollonic
 antalkaline 1
 apology 1
@@ -20081,7 +20081,7 @@ agentive 1
 alderflies 1
 araneiformia 2
 acatharsia
-adenohypophyseal 3
+adenohypophyseal 4
 abbas
 adstipulating
 ateliers
@@ -21220,7 +21220,7 @@ alabarch
 academial
 ashimmer
 ambarella 1
-apostacy 1
+apostacy 2
 airworthiness 1
 algarsife 2
 ashing
@@ -22344,7 +22344,7 @@ astrochemistry 3
 aurignacian
 astrocytic 1
 achilleid 1
-amollish
+amollish 1
 abbr 1
 astrocytomas 1
 anagnost 3
@@ -23363,7 +23363,7 @@ accountrement 1
 argyll 2
 antenatalitial 1
 associative
-aquas
+aquas 1
 anan 1
 auctor
 auctorizate 1
@@ -24492,7 +24492,7 @@ autotropic
 asclepias
 ayless
 argalis
-araliad 1
+araliad 2
 asiarchate
 acceptingness 1
 alkalinization
@@ -24859,7 +24859,7 @@ achenial 1
 ascidioida
 avolitional
 avouch
-avouchable 4
+avouchable 5
 atmosphere 2
 anaptyxis 2
 alands
