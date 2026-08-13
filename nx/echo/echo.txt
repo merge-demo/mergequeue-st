@@ -1640,7 +1640,7 @@ eyewashes 1
 epigastrium 4
 essoinee 1
 eider
-ectomorphism 2
+ectomorphism 3
 emendandum 2
 exsecting
 enshielding 2
@@ -2815,7 +2815,7 @@ equivalencing 3
 externalness
 eater 1
 epiclesis 1
-eleoptene 2
+eleoptene 3
 embden
 ensiled 3
 endomastoiditis 1
@@ -3128,7 +3128,7 @@ ethanol 1
 eloge
 eventognathous 2
 elogy 1
-exhorting 1
+exhorting 2
 elogium 2
 egohood
 eloigned 2
@@ -3834,7 +3834,7 @@ emerods
 epitomator
 emersed 1
 estivator 2
-eggcupful
+eggcupful 1
 emersonianism
 emesa 1
 emeses 1
@@ -4219,7 +4219,7 @@ emulant
 earwiggy 1
 ewhow 2
 echograph 1
-exporters
+exporters 1
 expiree 3
 escarping 3
 escambio
@@ -4518,7 +4518,7 @@ excoction 2
 euphemized
 eleazar 2
 enchancement 1
-endogenic
+endogenic 1
 empeoplement 2
 enchanted
 eunuchise 2
@@ -4538,7 +4538,7 @@ endpleasure 1
 enam 1
 effigies 1
 ectochondral 3
-ectomesoblast 2
+ectomesoblast 3
 enfettered 1
 enchequer
 exhauster 2
@@ -4782,7 +4782,7 @@ ecclesial 1
 ethical 3
 ecize 1
 exhalate 1
-equitable 2
+equitable 3
 encouraged 3
 estrous 1
 excellences 2
@@ -5232,14 +5232,14 @@ elapsoidea 1
 earthshakingly 1
 esterellite 1
 efik
-enchest 1
+enchest 2
 emulsionize 2
 endorsable 2
 episcoparian 1
 excerpt 1
 extravagation
 enrolles 1
-ethylmorphine
+ethylmorphine 1
 excretolic 1
 enslaves
 endocorpuscular 2
@@ -5809,7 +5809,7 @@ engrafter 2
 exibilate
 engrailed
 elsewards 2
-epizoicide 2
+epizoicide 3
 engrainer
 electrocratic
 engraining 1
@@ -7490,7 +7490,7 @@ electronics
 eastward
 epicedian 3
 epicedium
-entropies 1
+entropies 2
 entopterygoid
 eburine 3
 exogastrically 1
@@ -8844,7 +8844,7 @@ excursively 3
 embossers
 eelworms 3
 enteron 2
-erewhile 4
+erewhile 5
 erewhiles
 ergane 2
 emphysema 3
@@ -13526,7 +13526,7 @@ ephods 1
 energize 2
 eucalypti
 equianharmonic 3
-endymal 1
+endymal 2
 egocentricities 2
 edge 2
 erk 1
@@ -13678,7 +13678,7 @@ erma
 elongating 2
 extenuate
 extenuates 1
-empicture 3
+empicture 4
 endophyllum 1
 eerier 3
 estimative
