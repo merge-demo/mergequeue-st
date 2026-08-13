@@ -2844,7 +2844,7 @@ acrogen
 anaesthetics 2
 acrolein 1
 amylenes
-antianthropocentric
+antianthropocentric 1
 antireactionary 1
 acroleins 1
 acrolithan 2
@@ -6225,7 +6225,7 @@ agnotozoic 1
 agnus
 airparks
 androphobia
-approvers
+approvers 1
 attn 1
 arbitrates
 asherahs
@@ -8989,7 +8989,7 @@ acredula 1
 antiscians 1
 allophyle 1
 arrow 1
-arrythmia 1
+arrythmia 2
 angiostenosis 1
 allophylus 1
 angioblastic
@@ -10361,7 +10361,7 @@ archivers
 agglutinator
 amerced
 abkari
-acupressure 1
+acupressure 2
 abscam
 apivorous 1
 anaphorically
@@ -11935,7 +11935,7 @@ archvagabond 2
 aspermatous
 autochromy
 ananaples
-anandrarious
+anandrarious 1
 admeasurement
 anandrious
 ananepionic
@@ -23488,7 +23488,7 @@ augmentable 1
 acopic
 archdruid
 argol 2
-annotine
+annotine 1
 autoincrement
 augmentedly 1
 architraves 1
