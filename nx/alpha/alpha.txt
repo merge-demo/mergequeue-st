@@ -5401,7 +5401,7 @@ affydavy
 acid 2
 affrightment 1
 affronted 1
-affrontedness 1
+affrontedness 2
 anidiomatic 1
 adenose
 affronts
@@ -6046,7 +6046,7 @@ alimenation
 alhena
 angelica 1
 anemophilous 1
-autocatheterism
+autocatheterism 1
 apparence 2
 anachronistic 2
 anticommunistic 1
@@ -8211,7 +8211,7 @@ algor
 alienor 1
 absorptive 2
 almsmoney
-albino
+albino 1
 amylaceous 2
 autecological
 antipyic
@@ -8773,7 +8773,7 @@ autoincrements 2
 allgovite
 anthologized
 antiperistatically
-amblosis
+amblosis 1
 arachidonic
 allhallows
 ailanthic 1
@@ -9724,7 +9724,7 @@ alvar 1
 anecdotist
 asmack
 anaemic
-advent 1
+advent 2
 alvearium 2
 alveolariform 1
 alveolate
@@ -10174,7 +10174,7 @@ ambrosine
 ambsace
 ambsaces
 acuation
-ambulance 3
+ambulance 4
 apnoeal 1
 amoeboidism 2
 antithetically 1
@@ -12152,7 +12152,7 @@ ancestress
 aspartate
 anathematisation 2
 acquirability
-anathematised 1
+anathematised 2
 administer 1
 alchemize 1
 antambulacral 1
@@ -14228,7 +14228,7 @@ aspic 2
 autodetector 1
 atlee 1
 amarillo
-absinthial 1
+absinthial 2
 anteri
 adelphogamy
 antimedieval 1
@@ -16403,7 +16403,7 @@ ascidiia 1
 apathetical
 alkalinisation 1
 antler
-adherescence
+adherescence 1
 antlers 3
 audings
 accroached 1
@@ -17564,7 +17564,7 @@ artmobile
 appendant 1
 aouellimiden 2
 androspore 1
-antixerophthalmic
+antixerophthalmic 1
 appendency 1
 aquacultural 2
 appendicalgia 3
@@ -18726,7 +18726,7 @@ agalite 2
 anticonventionally
 archcritic 2
 amblyopia
-argonautic
+argonautic 1
 appmt 1
 archcrown
 arointed 1
@@ -21720,7 +21720,7 @@ added 3
 acetabularia 1
 assembled 2
 altitude
-anthropophaginian
+anthropophaginian 1
 anniv 1
 antrocele
 assembler 1
@@ -22206,7 +22206,7 @@ alexandrite 1
 aesir 2
 astigmatoscopy
 astigmic
-antiphon 1
+antiphon 2
 astigmometer
 aglossa 3
 astigmometry
@@ -24095,12 +24095,12 @@ apogenous 1
 arrtez
 autoette
 antigenicity
-autofrettage
+autofrettage 1
 armament 1
 afreets 2
 autolaryngoscopic
 approvedness
-adjuncts
+adjuncts 1
 avouter 2
 aigrettes
 anomalopteryx
