@@ -2463,7 +2463,7 @@ cropsickness 1
 cherubically
 cancion 2
 cancionero 2
-canciones 1
+canciones 2
 cancri 1
 chloroquine 1
 charivaried
@@ -2576,7 +2576,7 @@ committeewoman
 chinol
 castellanship
 candlesticks
-cogniser 1
+cogniser 2
 candlewaster 1
 choledocholithotripsy
 cambial 1
@@ -2912,7 +2912,7 @@ columbier
 curatively
 cacaos
 cantabile 1
-chloralum
+chloralum 1
 clothesmonger 1
 chalcis 1
 cantabrian
@@ -7176,7 +7176,7 @@ cytotoxin
 cremant 2
 clodpate
 centrically
-compensability 2
+compensability 3
 centrifugalisation
 corruptest 1
 centrifugalize 1
@@ -7350,7 +7350,7 @@ coquettishness
 cephalomant
 catlin 1
 cleansing 1
-cephalomere 1
+cephalomere 2
 cyclostylar
 cephalometric
 cephalonasal
@@ -7794,7 +7794,7 @@ cervicoauricular
 cobitis
 cervicobuccal
 cervicodynia
-cervicolabial
+cervicolabial 1
 cooeyed
 croh 1
 cervicomuscular 1
@@ -9158,7 +9158,7 @@ cunningest 2
 chasma 2
 chasmed 2
 caddy
-chondrigenous
+chondrigenous 1
 cheths
 clypeolate
 chasmogamous
@@ -10574,7 +10574,7 @@ chillish
 choes
 chillness
 crucifixes 1
-concremation 1
+concremation 2
 celebrator 2
 chillroom
 chills
@@ -14000,7 +14000,7 @@ cyphered 1
 cipherhood
 ciphering 1
 ciphertexts
-carbonated
+carbonated 1
 cyphomandra
 cyphonism 1
 constrain 1
@@ -14078,7 +14078,7 @@ cleruchial
 capivi 1
 corpuscle
 circe 1
-circean 1
+circean 2
 circinate
 coxcombs
 chirinola
@@ -17863,7 +17863,7 @@ camas
 codicils
 codicology
 codifications 1
-cycasin
+cycasin 1
 canis 1
 codifiers 1
 codifies 1
@@ -18032,7 +18032,7 @@ chaffingly 2
 concaptive
 coherers 1
 coppice
-coenacle
+coenacle 1
 capsidal 1
 collyriums
 curiet 2
@@ -23286,7 +23286,7 @@ consubstantiated 3
 cycadales
 consubstantiating 1
 culmen
-consuetudinal
+consuetudinal 1
 consul
 consulage
 coloclysis 2
@@ -26472,7 +26472,7 @@ calycanthemous 1
 cotoro 2
 civilizing
 covets
-cotoros 1
+cotoros 2
 cellulase
 calligraph 2
 cotorture
@@ -29163,7 +29163,7 @@ cotillons 1
 cryoconite 1
 chevise
 callidity 1
-cradleside 1
+cradleside 2
 cryogenics 2
 cloys
 catwalks
@@ -29527,7 +29527,7 @@ criterional
 cerealist 2
 crith
 crithidia
-crithomancy 3
+crithomancy 4
 critic 1
 coquetting
 criticality
@@ -31675,7 +31675,7 @@ cosmical
 cushion 2
 cushioned
 cushionet 1
-cushionflower
+cushionflower 1
 cushioning 2
 celestial 1
 cowardy
