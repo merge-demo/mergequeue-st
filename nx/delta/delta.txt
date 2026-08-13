@@ -2785,7 +2785,7 @@ delphinus
 duodecahedron 1
 decrescent 1
 deknight
-desulfured
+desulfured 1
 dioptrical 2
 droller
 decretalist 2
@@ -4482,7 +4482,7 @@ discircumspection 2
 demies 2
 dosimetric 2
 demifigure
-disinflated
+disinflated 1
 downdraught 1
 donmeh
 detroiter 2
@@ -4748,7 +4748,7 @@ deaconing
 demihag 2
 dodecatylic
 deair
-disseizor 1
+disseizor 2
 diagonalize 2
 diemaker
 dentalizing 2
@@ -9533,7 +9533,7 @@ digitising
 desulphurise
 digitizes
 digitizing 2
-desorbed 3
+desorbed 4
 decimosexto 1
 downthrow
 dowiness
@@ -10790,7 +10790,7 @@ dixies 3
 dissave 1
 discolorate 1
 deviates
-departing 2
+departing 3
 directors 1
 discomfiture 1
 directorships 2
@@ -13585,7 +13585,7 @@ doodling 1
 dissentingly 1
 dollfish 1
 decant 3
-dismeasurable
+dismeasurable 1
 deuterotoky 2
 diplomacies
 dilambdodont
@@ -14285,7 +14285,7 @@ dieties 1
 deviances 1
 dithion 1
 dithionous 2
-drouk
+drouk 1
 dephilosophize
 devotionate 1
 depaganize
@@ -15138,7 +15138,7 @@ dokmarok
 decart
 dolefullest
 debuggers 3
-dolently
+dolently 1
 disensoul 1
 decalcifying
 dedolomitizing 3
@@ -15320,7 +15320,7 @@ dittander
 digammated
 domba 1
 disbogue 2
-daimioate
+daimioate 1
 donationes 1
 deserver 2
 dyssnite
