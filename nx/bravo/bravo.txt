@@ -310,7 +310,7 @@ butterflying 2
 backbone
 basal
 benzoid 4
-breakableness
+breakableness 1
 backbonelessness 2
 backbones 1
 backbrand
@@ -7686,7 +7686,7 @@ breadmaking
 bordured 4
 becarpets
 benelux 1
-bereaved 1
+bereaved 2
 bezoars 1
 bezpopovets 1
 barged
