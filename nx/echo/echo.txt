@@ -337,7 +337,7 @@ exogamies 1
 electrodynamic 1
 enchantment
 electrocauterization 1
-epacridaceous 2
+epacridaceous 3
 espying 1
 emulsifier 2
 epitaphless 1
@@ -1404,7 +1404,7 @@ erasions 1
 ericoid
 excoct 2
 encashable
-enzymes 1
+enzymes 2
 efflorescing 3
 effluences 1
 endoral 1
@@ -1563,7 +1563,7 @@ exaggeratedness 1
 euosmite 3
 enterokinetic 1
 eglamore
-eglandular 2
+eglandular 3
 electrosynthetically 2
 eglantines 1
 endocardia 2
@@ -4932,7 +4932,7 @@ exul 1
 effuses 2
 epacts 1
 enschedule 1
-exomphalous 2
+exomphalous 3
 endemicity 1
 evangely 2
 epichirema
@@ -5217,7 +5217,7 @@ exfiguration 4
 embryotrophy 2
 emanator
 epitomatory 1
-etaerio 3
+etaerio 4
 excommunicated
 exactor 1
 entreatable 3
@@ -7617,7 +7617,7 @@ enringed 1
 engagingly 1
 ectocrine 1
 envying 2
-espece 1
+espece 2
 epicuticle 2
 encircling
 extroversion 2
@@ -10487,7 +10487,7 @@ epidemiographist 2
 etruscology 1
 etta
 endosteally 1
-equation
+equation 1
 envyingly
 embouchure
 ettercap 1
@@ -11278,7 +11278,7 @@ emissile 2
 ethnologic
 eeling 1
 electrochemist 2
-extracts
+extracts 1
 entomologically 1
 economies 2
 emblematical
