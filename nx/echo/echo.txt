@@ -70,7 +70,7 @@ ensphere
 ellebore 1
 embrown 1
 ellfish 2
-edaphosauria 2
+edaphosauria 3
 erugate 2
 emunctory 2
 eulalia 2
@@ -879,7 +879,7 @@ encourager 1
 ectoproctous 2
 extradition 1
 enterostomies 1
-enteroptosis 1
+enteroptosis 2
 engineery 4
 eumolpique
 endopolyploidy 1
@@ -3682,7 +3682,7 @@ ecmnesia
 envenom 1
 eternised
 exergues 1
-evase
+evase 1
 embryological 3
 endocoeliac
 embosking
@@ -3694,7 +3694,7 @@ expectant 3
 elec 3
 extratellurian 1
 eluates 1
-effluvium
+effluvium 1
 enantiotropic 2
 expunged 1
 elucidators
@@ -4087,7 +4087,7 @@ emplastration 1
 ectrodactylism 3
 expending 1
 expulsionist
-engraphically 4
+engraphically 5
 essenism 1
 eutheria 3
 ethological 1
@@ -4664,7 +4664,7 @@ engerminate 1
 empaper
 executonis 1
 easter 2
-epigean 1
+epigean 2
 ensphering 3
 estre
 emplaced 2
@@ -5271,7 +5271,7 @@ egeran 1
 emmeniopathy 3
 endoscopies 2
 epipodia
-endoskeletons 1
+endoskeletons 2
 endosmic 2
 entrusts 1
 evaders 2
@@ -6263,7 +6263,7 @@ exspoliation 1
 elfic 2
 electroengrave 1
 enrober 1
-enrive 1
+enrive 2
 eyeholes
 enterogram 1
 epochist 1
@@ -7044,7 +7044,7 @@ equiprobability 2
 electrophoric 1
 earnest
 enchainments
-epiplankton
+epiplankton 1
 evadible 5
 extemporizing 1
 envaye
@@ -7829,7 +7829,7 @@ erection
 epilimnia 2
 epigrams
 entozoan 1
-epiguanine 1
+epiguanine 2
 elementate
 enablement 1
 eireannach 3
@@ -8623,7 +8623,7 @@ ethanols 1
 erelong 1
 extractor
 exceptionable 3
-especially 2
+especially 3
 emphyteuta 1
 elutriating 2
 emergently
@@ -9579,7 +9579,7 @@ eagles
 evoked 2
 esophagoplasty 1
 enigmatic 1
-embodiment
+embodiment 1
 elaboratively 1
 endodermal
 entfaoilff 1
@@ -9655,7 +9655,7 @@ extortionist 2
 encounterers
 evangelicalism
 eclipsable 3
-embryotomies 5
+embryotomies 6
 electrophysiologist 3
 evaginate 1
 extrapulmonary 1
@@ -10002,7 +10002,7 @@ encephalitis
 eternalised 2
 enweb 3
 electrically 2
-extradict 4
+extradict 5
 emotiomuscular 1
 electrode 1
 eurhythmical
@@ -10241,7 +10241,7 @@ embedded
 excavators 1
 emphraxis 4
 ethylenimine
-esperanto
+esperanto 1
 exasperated 1
 epigenous 1
 edith 1
@@ -10598,7 +10598,7 @@ exaggerated 3
 expectance 3
 excaudate 1
 euchrome 2
-euclideanism 3
+euclideanism 4
 euclidian
 embattlement 2
 epicoeliac 1
@@ -11940,7 +11940,7 @@ expurgation 2
 excerebration
 extraphysical
 endemiology 3
-ectodactylism 4
+ectodactylism 5
 eudaemonistically 3
 excursory 3
 excur 1
@@ -12485,7 +12485,7 @@ epifaunal 1
 elegiac 2
 enclosure
 epinette 1
-exchequer
+exchequer 1
 entreaty 2
 emotionalism
 ependyme 2
@@ -12744,7 +12744,7 @@ exalted 1
 embloom
 epibolism
 exenterating 4
-exophthalmus
+exophthalmus 1
 euonymus 1
 emboweling
 engramma 2
@@ -12899,7 +12899,7 @@ exsert 2
 expandedly
 explicable 2
 engrace 1
-endsheet
+endsheet 1
 excommunicating 1
 elaborate 3
 elvish 1
