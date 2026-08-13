@@ -5888,7 +5888,7 @@ exocytosis
 endsweep 1
 enharden 1
 eurytopicity 2
-exoenzymic 1
+exoenzymic 2
 embuskin
 encages 2
 expos 3
@@ -6992,7 +6992,7 @@ elastomer
 electricalize 1
 emication 1
 eglatere 1
-enepidermic
+enepidermic 1
 eliquate 1
 excorticated 1
 enheritance
@@ -8817,7 +8817,7 @@ enjeopardy 2
 encrypt 4
 emptive 1
 euonymin 1
-enterocystoma 1
+enterocystoma 2
 egregiousness
 endocellular 1
 eremitism 1
@@ -13626,7 +13626,7 @@ enteroceptor 2
 endosteomas 6
 extance
 extemporally 1
-elkanah 1
+elkanah 2
 eisegesis
 edriophthalmian 1
 encyclopaedically 2
