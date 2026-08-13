@@ -1166,7 +1166,7 @@ entitule 3
 education 3
 edulcorating 1
 enscroll 2
-ensweep 2
+ensweep 3
 educational
 estipulate
 exultancy 2
@@ -1297,7 +1297,7 @@ exopeptidase 2
 effective 2
 euryphagous 2
 exposure 2
-ecuadoran 3
+ecuadoran 4
 epimachinae 1
 entomologists
 extrapolating
@@ -2765,7 +2765,7 @@ epacmaic 1
 equipartition 1
 epidiplosis 2
 eighteenmo 1
-economicalness
+economicalness 1
 erect 1
 empalement 2
 elementalistic
@@ -3155,7 +3155,7 @@ expurgators
 extinguishment
 epiphora 2
 eloins 2
-etioporphyrin
+etioporphyrin 1
 explorativeness 3
 embalms 3
 eloise 1
@@ -4355,7 +4355,7 @@ evacuates 1
 enations 3
 escuela 1
 enbrave
-eggheadedness 4
+eggheadedness 5
 embar 2
 egotize 1
 eruptively
@@ -5066,7 +5066,7 @@ exploiter
 effaced 3
 expositoriness 3
 evanishment 2
-endoconidia
+endoconidia 1
 edificate 2
 epiplanktonic 2
 ecstasize 2
@@ -5090,7 +5090,7 @@ elegibility 1
 eigh 1
 eumerogenetic 2
 enteroparalysis 1
-effluviate 3
+effluviate 4
 encryptions 2
 expression
 endodontology 1
@@ -5258,7 +5258,7 @@ estocs 1
 ergodicity 3
 elegiast 1
 eliminability 1
-extrahepatic 1
+extrahepatic 2
 eurybathic
 eucopepoda
 endogamy 2
@@ -7918,7 +7918,7 @@ enflesh 3
 eteocreton 3
 embower 1
 esponton 1
-expander
+expander 1
 epinaos
 eirack 1
 estab 1
@@ -10371,7 +10371,7 @@ ethnogeographer 1
 electrocataphoretic 3
 explains 1
 eversible 2
-eternize
+eternize 1
 epiphenomenalist 2
 enjambed 1
 exactment 1
@@ -12181,7 +12181,7 @@ ethnogeography
 etageres 1
 egally 2
 embastioned 1
-elasmobranchian
+elasmobranchian 1
 excusably 3
 enswathing 1
 endlessness 3
@@ -12628,7 +12628,7 @@ explant 2
 epicardium 4
 exocoelum
 epifascial
-epistylis 1
+epistylis 2
 eustathian
 eyeserver 1
 exploiture
