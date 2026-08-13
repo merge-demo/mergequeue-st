@@ -1478,7 +1478,7 @@ accite
 anoplotheriidae 3
 acclaimable 1
 amblyope 2
-atocha
+atocha 1
 acclaimer
 afterwrist
 arrowheaded 1
@@ -1589,7 +1589,7 @@ accordaturas 1
 acrocarpous 1
 accordingly 3
 accordionist
-ascan
+ascan 1
 angelim 2
 audaciousness
 adamical 2
@@ -5401,7 +5401,7 @@ affydavy
 acid 2
 affrightment 1
 affronted 1
-affrontedness 1
+affrontedness 2
 anidiomatic 1
 adenose
 affronts
@@ -5908,7 +5908,7 @@ adducing
 archprototype
 array 2
 agrionid
-archsnob 1
+archsnob 2
 agents 1
 ageometrical
 advisor 1
@@ -8211,7 +8211,7 @@ algor
 alienor 1
 absorptive 2
 almsmoney
-albino
+albino 1
 amylaceous 2
 autecological
 antipyic
@@ -9562,7 +9562,7 @@ altify 2
 aprosopous
 antiparasitical
 altiloquence 2
-advehent 1
+advehent 2
 academia
 arenig 1
 altimeters
@@ -9627,7 +9627,7 @@ agendaless
 accedes 2
 amylogen
 affairs
-anklong 2
+anklong 3
 aeroembolism
 ascence
 alulim 1
@@ -9724,7 +9724,7 @@ alvar 1
 anecdotist
 asmack
 anaemic
-advent 1
+advent 2
 alvearium 2
 alveolariform 1
 alveolate
@@ -11284,7 +11284,7 @@ ascorbate
 aliunde 1
 alismaceous
 algebar 2
-appenders
+appenders 1
 allthing 2
 affluently 1
 abrege 1
@@ -12343,7 +12343,7 @@ anticipate 3
 anconas 1
 anconeus
 aeroneurosis 1
-ancony 3
+ancony 4
 anconoid
 aruncus 2
 argufiers
@@ -13716,7 +13716,7 @@ anointment 1
 autodidacts
 anointments 2
 articulation 1
-adulterer
+adulterer 1
 astrometrical 1
 aunt
 absolutization
@@ -15352,7 +15352,7 @@ antihypnotically 1
 achromatically
 arietation 1
 acroterion 1
-antihypochondriac
+antihypochondriac 1
 annal
 anticoincidence 1
 agomphosis 1
@@ -17564,7 +17564,7 @@ artmobile
 appendant 1
 aouellimiden 2
 androspore 1
-antixerophthalmic
+antixerophthalmic 1
 appendency 1
 aquacultural 2
 appendicalgia 3
@@ -18726,7 +18726,7 @@ agalite 2
 anticonventionally
 archcritic 2
 amblyopia
-argonautic
+argonautic 1
 appmt 1
 archcrown
 arointed 1
@@ -19043,7 +19043,7 @@ ammocoete
 archoverseer 1
 archpall 2
 anana
-archphilosopher 1
+archphilosopher 2
 autocatharsis 1
 announcer
 archpilferer
@@ -20863,7 +20863,7 @@ amplifiable 2
 actium
 abyssinians
 allecret
-antick
+antick 1
 asa
 anticynically
 aneath 1
@@ -21023,7 +21023,7 @@ ascidiacea 1
 anyone 2
 ambones
 annulments 2
-anapanapa 1
+anapanapa 2
 antihuff 2
 ascidiate
 angelologic 2
@@ -22206,7 +22206,7 @@ alexandrite 1
 aesir 2
 astigmatoscopy
 astigmic
-antiphon 1
+antiphon 2
 astigmometer
 aglossa 3
 astigmometry
@@ -22746,7 +22746,7 @@ arrondissement 1
 acrogynous 1
 arthrodira 1
 aeronef 3
-athwartships 1
+athwartships 2
 abiogenetically
 actian 1
 ahurewa 1
@@ -24100,7 +24100,7 @@ armament 1
 afreets 2
 autolaryngoscopic
 approvedness
-adjuncts
+adjuncts 1
 avouter 2
 aigrettes
 anomalopteryx
@@ -24891,7 +24891,7 @@ amphithect 1
 astronavigation
 autocoherer
 acknown 1
-ae 1
+ae 2
 antinoness
 aponeurotome 1
 anarchosocialist
