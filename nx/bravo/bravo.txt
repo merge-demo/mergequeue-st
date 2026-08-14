@@ -1559,7 +1559,7 @@ bersiamite 1
 bulbiform 2
 bdl
 bouton 4
-backsword 1
+backsword 2
 ballastic 3
 ballata 1
 backswordman 1
@@ -4907,7 +4907,7 @@ backspeer
 bryanite 1
 bomarea
 beechwood
-bright 2
+bright 3
 bourbons 3
 belaud 1
 blackeyes 1
