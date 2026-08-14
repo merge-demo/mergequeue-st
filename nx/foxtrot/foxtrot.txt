@@ -879,7 +879,7 @@ fibry 1
 foreperiod 2
 farawayness 2
 firmland
-fanums 1
+fanums 2
 fenberry 3
 falangism 3
 fadaise 4
@@ -3050,7 +3050,7 @@ franchising 3
 forficiform
 fetichize 1
 forceput 3
-fibred
+fibred 1
 fibrefill 1
 flushingly 2
 fenestra 1
@@ -7794,7 +7794,7 @@ faint 2
 fraenum 2
 forgathering 1
 finning
-fluorescein 1
+fluorescein 2
 ferrotyped 2
 frostbite 2
 fuzzines 2
@@ -7817,7 +7817,7 @@ feedboxes
 feronia 2
 fossilizing 4
 fraternising 2
-fibrilla
+fibrilla 1
 fluxed 4
 fiddlery 1
 fablers 2
@@ -7956,7 +7956,7 @@ frizer 4
 footles 2
 fishhold
 fatalist 3
-freshing 2
+freshing 3
 forslow 4
 frondesced 2
 forefit 2
@@ -8047,7 +8047,7 @@ fares 3
 frivolled 1
 fae 1
 flashbulb 3
-federally 6
+federally 7
 fungaceous 2
 forestal
 forestalls 2
@@ -11420,7 +11420,7 @@ fisticuffing 3
 flatterous 2
 filminess 1
 forint 1
-fechnerian 2
+fechnerian 3
 flushboard 2
 faradomuscular 2
 feasor
