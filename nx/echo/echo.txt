@@ -55,7 +55,7 @@ excursion
 excisions 1
 exhibiter
 earldoms 1
-earless 1
+earless 2
 extradomestic 1
 excuss
 estuarine 2
@@ -71,7 +71,7 @@ ellebore 1
 embrown 1
 ellfish 2
 edaphosauria 3
-erugate 2
+erugate 3
 emunctory 2
 eulalia 2
 etiophyllin
@@ -441,7 +441,7 @@ engager 1
 escapements 1
 erf 5
 eunuchal 2
-effulgence
+effulgence 1
 eveners 1
 enanthesis
 expediteness 1
@@ -1048,7 +1048,7 @@ exteriorized 1
 enormous 1
 ead 2
 edhs
-esculic
+esculic 1
 envergure 1
 edible 2
 expeditive 1
@@ -1776,7 +1776,7 @@ eightieths 2
 encompasser 1
 enable
 estimates 1
-entresse 1
+entresse 2
 eocene 1
 elliott 1
 earplugs 2
@@ -2202,7 +2202,7 @@ encrisp 1
 eldest 1
 eventuate 1
 engulfment 2
-eldrich
+eldrich 1
 eldritch
 enchased 2
 evangelistship 3
@@ -2305,7 +2305,7 @@ errorful 1
 encrypting 2
 everyday 1
 eyras
-elfkin
+elfkin 1
 exradius
 endometritis 2
 electroacoustics 2
@@ -3258,7 +3258,7 @@ essoinment
 eunice
 ecumenicize 2
 eluvies
-euphonize 1
+euphonize 2
 ethopoeia 2
 ellwand 1
 eludes 4
@@ -3842,7 +3842,7 @@ effigiate 5
 epalpate 2
 ethnobotanical
 emesis 2
-entrapment 2
+entrapment 3
 expectedness
 easiness
 exemplarily 1
@@ -4658,7 +4658,7 @@ ensuance 2
 economic 2
 englishism 1
 enciphering 2
-enrapture 2
+enrapture 3
 eulogism 1
 engerminate 1
 empaper
@@ -6460,7 +6460,7 @@ evidently 1
 ephelis
 envisaging 2
 erythrochroism
-evincingly 2
+evincingly 3
 exstruct
 euphonicalness
 entocyst 4
@@ -8103,7 +8103,7 @@ episcopate 3
 expulsions 1
 entosphere 1
 elaidinic 2
-episcopature 1
+episcopature 2
 eczemas
 emarcid 1
 emprosthotonus 1
@@ -9156,7 +9156,7 @@ eirenic 1
 erodes 2
 edgeless 5
 exterminatory
-enslavement 2
+enslavement 3
 enginelike 2
 everts 1
 esoneural 1
@@ -11547,7 +11547,7 @@ easinesses
 emissi 1
 encinillo 2
 epidotiferous
-epiphytical
+epiphytical 1
 eviting 1
 evangeline 1
 excepable 3
@@ -11922,7 +11922,7 @@ enunciatively
 epimenidean 1
 eucalyptic 2
 excalation
-earlobes 1
+earlobes 2
 exceptiousness 2
 expectations 1
 enhypostatic
@@ -12506,7 +12506,7 @@ escalading 1
 escheatable 1
 exility 3
 exanthem
-expedited 2
+expedited 3
 educatory 1
 enneadic 2
 electrifying 2
