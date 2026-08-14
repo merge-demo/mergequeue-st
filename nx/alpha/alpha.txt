@@ -1085,7 +1085,7 @@ acustom 2
 axhammered 1
 averager 1
 accolent 1
-adulatress
+adulatress 1
 apt
 administrational
 aggression 1
@@ -6606,7 +6606,7 @@ awk
 abjunctive
 aidful
 aiding
-adenanthera 1
+adenanthera 2
 aidman
 aidmen 1
 akeake
@@ -6994,7 +6994,7 @@ appropriately
 akron 1
 anagrammatised
 aberrator 1
-adores
+adores 1
 aith 2
 aithochroi
 acceleratingly 3
@@ -7004,7 +7004,7 @@ assisters
 ancone 1
 airts
 aquila 1
-aitutakian 1
+aitutakian 2
 algerine 2
 activize 1
 aminoplast 1
@@ -7053,7 +7053,7 @@ adhibits
 acaridans 1
 adenolipoma 1
 acuteness 1
-ajoint 2
+ajoint 3
 ajuga
 akal 1
 austrine 3
@@ -8772,7 +8772,7 @@ adet
 autoincrements 2
 allgovite
 anthologized
-antiperistatically
+antiperistatically 1
 amblosis 1
 arachidonic
 allhallows
@@ -9198,7 +9198,7 @@ ageist 1
 acquitted
 almner
 almohad 4
-aorta
+aorta 1
 anticlimactical
 autoallogamous 2
 anstoss 2
@@ -13752,7 +13752,7 @@ antisyndicalist
 albinism
 asps 1
 anomaluridae
-archmonarchy
+archmonarchy 1
 alcoholomania
 augmenter 2
 antileak
@@ -19239,7 +19239,7 @@ astrocaryum 1
 ardurous
 amphipneust
 acetylglycine 1
-areach
+areach 1
 attractions
 antitarnish 2
 amaranthus

@@ -355,7 +355,7 @@ dcor 1
 densest 1
 doorboy
 diversions
-dailamite
+dailamite 1
 dotiness 2
 demonifuge 1
 defames 1
@@ -679,7 +679,7 @@ donnard 1
 disposedly 1
 depermed 3
 dampness
-dextrosuria
+dextrosuria 1
 diacetylene 1
 deans 1
 despairs
@@ -1777,7 +1777,7 @@ drof
 deathward 2
 ductility 1
 docent 1
-downlier
+downlier 1
 dispersonify 3
 dicta 2
 desmidiologist 1
@@ -2020,7 +2020,7 @@ dogwoods
 decagynous 2
 dinornis 1
 dearling 3
-denationalized
+denationalized 1
 divulgers 2
 diplococcal
 decagonally 1
@@ -9535,7 +9535,7 @@ digitizes
 digitizing 2
 desorbed 4
 decimosexto 1
-downthrow
+downthrow 1
 dowiness
 decimated 1
 draggly 2
@@ -9567,7 +9567,7 @@ doubloons
 dignities 1
 drunks
 dignotion 1
-dependants
+dependants 1
 desmitis 4
 deuterons
 digonal 1
@@ -10126,7 +10126,7 @@ discurrent 2
 displease
 dripped
 dismember 1
-daniele 2
+daniele 3
 decertification 2
 dawson 1
 distant 1
@@ -10907,7 +10907,7 @@ disaccustomedness
 draymen
 dromioid
 daimon
-dyingness 2
+dyingness 3
 dysacousis 1
 dodecahydrated 1
 disacquaint 1
@@ -11833,7 +11833,7 @@ disulphone 1
 dromomania
 dinned
 dunked
-denying 3
+denying 4
 diffusionist
 discussionist
 donatress 1
@@ -13077,7 +13077,7 @@ dory 2
 dital 1
 decliners 1
 decurrencies
-dulcimers
+dulcimers 1
 dolphinfishes 1
 drippiest
 dictamina 1
@@ -13096,7 +13096,7 @@ diastyle
 dispensatory 2
 detrain 2
 develed 1
-dispensatress
+dispensatress 1
 dadaisms
 dermophobe
 dispensed
@@ -15465,7 +15465,7 @@ dentiloguy
 daymen
 diapery 1
 disbands
-donator 1
+donator 2
 detergence 2
 discodactyl 1
 deceivableness
@@ -16015,7 +16015,7 @@ diaphototropic
 decorrugative
 doublespeak
 deamidization 1
-digitiform
+digitiform 1
 dumped 1
 doppia 1
 drent
