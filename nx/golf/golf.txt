@@ -1498,7 +1498,7 @@ gasman 2
 guilty 1
 ghetto 1
 gillnet 2
-gasmen
+gasmen 1
 germiest 4
 geniture
 geotonic 3
@@ -1997,7 +1997,7 @@ groof
 glacon
 grusinian 3
 gel
-gelatiniform 2
+gelatiniform 3
 gases
 gaveled 5
 gibbosities
@@ -2016,7 +2016,7 @@ gavelocks 2
 gattine 2
 goaf 1
 gallied 2
-glime 3
+glime 4
 grapeful 2
 gazzetta 2
 gavels 2
@@ -2312,7 +2312,7 @@ galopin
 geldings
 garlandage 2
 gelated 3
-grader
+grader 1
 gustfulness 1
 gladiolar 1
 gymnics 1
@@ -3455,7 +3455,7 @@ gnathotheca
 gestical 2
 gesticulant 2
 grueller 2
-goloch 3
+goloch 4
 glimpse 2
 gentiin 1
 girlish 1
@@ -4473,7 +4473,7 @@ gamb 3
 grapey
 gomutis
 gambrel 2
-gills 3
+gills 4
 graminiform
 gerbille 2
 gigantomachia 4
@@ -6425,7 +6425,7 @@ goburra 2
 glucidic 1
 gems 2
 gigartina
-gregorian 1
+gregorian 2
 grandeeship 1
 geneses 6
 gallivanted 1
@@ -7625,7 +7625,7 @@ gyrus 3
 grille 1
 glycosaemia 2
 gambians 2
-grab 1
+grab 2
 guanamine 2
 geminates
 gullibility 3
@@ -10337,7 +10337,7 @@ guarana 1
 gaums 1
 gulfweeds 1
 greenlandish 2
-gadgety 4
+gadgety 5
 gruffily 1
 gul 1
 gigabytes 1
