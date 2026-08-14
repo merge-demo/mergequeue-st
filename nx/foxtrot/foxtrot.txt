@@ -3592,7 +3592,7 @@ flashover 4
 fardels 1
 flank 1
 fructification 1
-felinity
+felinity 1
 floorway 2
 files
 filesniff 4
