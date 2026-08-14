@@ -7388,7 +7388,7 @@ demilunes
 deselect 1
 discount 3
 demoniacally
-demiadult
+demiadult 1
 daguerreotypist
 decenyl 2
 detonations
