@@ -9730,7 +9730,7 @@ alveolariform 1
 alveolate
 afterdrops 1
 anarchical
-alveole
+alveole 1
 alveolectomy
 alveoli 1
 alveoliform 1
@@ -12139,7 +12139,7 @@ aspis 1
 angiosclerosis 2
 acidity 2
 avenalin 1
-anastomosing 3
+anastomosing 4
 anastrophy 3
 advocator 2
 advisements 1
@@ -16216,7 +16216,7 @@ antepenults
 albaspidin 2
 apheretic
 ashcake
-addenda
+addenda 1
 anticlimaxes 2
 ailerons
 alkalinised
@@ -25281,7 +25281,7 @@ azimuth
 acarids
 ammonifying
 acceded 1
-aulete 2
+aulete 3
 azine 3
 atrypa 1
 azlon
