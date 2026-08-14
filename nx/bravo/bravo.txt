@@ -1559,7 +1559,7 @@ bersiamite 1
 bulbiform 2
 bdl
 bouton 4
-backsword 1
+backsword 2
 ballastic 3
 ballata 1
 backswordman 1
@@ -3877,7 +3877,7 @@ bawdier 2
 bipinnatisect
 bawdies 3
 bestrow 2
-bricklaying 1
+bricklaying 2
 backaches
 belvidere
 boxbush
@@ -4907,7 +4907,7 @@ backspeer
 bryanite 1
 bomarea
 beechwood
-bright 2
+bright 3
 bourbons 3
 belaud 1
 blackeyes 1
@@ -11712,7 +11712,7 @@ bobbers 1
 bartlett 1
 bobby 3
 burlily
-bobbin
+bobbin 1
 beslaved
 bolivias
 bobbinite 1
@@ -15797,7 +15797,7 @@ bractlet 1
 berberin 1
 baalish 2
 bilirubin
-brodyagi 3
+brodyagi 4
 brodie
 broeboe 2
 basiparachromatin
@@ -17681,7 +17681,7 @@ birgus 2
 bakehouse 2
 bordage
 blackfin 1
-blueings 2
+blueings 3
 bonuses 1
 boomlets 3
 burlesquer 1
