@@ -1349,7 +1349,7 @@ daunt 1
 daunted 2
 dhobies 1
 daunters
-digraph
+digraph 1
 dipentine 1
 demissive 2
 diploid 1
@@ -3430,7 +3430,7 @@ deflore 1
 dubash 1
 disgarland 2
 divise 1
-damnosa
+damnosa 1
 dentagra 1
 deflowered 1
 deflowerer 2
