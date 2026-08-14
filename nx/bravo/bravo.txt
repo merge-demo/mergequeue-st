@@ -3156,7 +3156,7 @@ bottleholder 2
 bonnes 1
 bimbisara 2
 burghemot
-bronchography 2
+bronchography 3
 bleat 1
 briskly 1
 brachiating
@@ -3601,7 +3601,7 @@ blencorn 3
 bedstands 2
 banker 1
 befathered
-bathoflore 2
+bathoflore 3
 batholithic
 balaamite
 butchers
@@ -4630,7 +4630,7 @@ bilberry 1
 bedrid
 bedecking 1
 beholdingness 3
-bulletproofed
+bulletproofed 1
 broadens 4
 bedehouse
 broadenings
@@ -6360,7 +6360,7 @@ benzidino 3
 blackbirding 1
 birdwise 1
 blossoming
-bragger 1
+bragger 2
 beadiness
 blastogranitic 3
 biophysicists 1
@@ -9885,7 +9885,7 @@ buccaneering
 bimbos
 bitmapped 2
 bito 2
-bicalvous
+bicalvous 1
 bitonalities 1
 belibeling
 breaghe 2
@@ -12603,7 +12603,7 @@ bonnier
 bonnyish
 beverages
 boogeyman
-balance
+balance 1
 bonnnes 4
 bonnwis 2
 bionomist
@@ -16408,7 +16408,7 @@ bedazed
 buzzgloak 1
 bedravel
 bielbrief 2
-bicuculline
+bicuculline 1
 biscayen 4
 buchnera 1
 brunelliaceous
@@ -16488,7 +16488,7 @@ birdfarms 1
 bulk 1
 bricker 2
 bishoplet
-borasque 1
+borasque 2
 bimillennium 1
 bozal
 biomaterial 1
@@ -17227,7 +17227,7 @@ brulyie 1
 barracks
 bromindigo
 bullwhipping 1
-bullwort 1
+bullwort 2
 bulrush 5
 boonies
 bulletin 1
@@ -17471,7 +17471,7 @@ buntine 4
 brawlie 2
 bipinnatiparted 1
 buplever 2
-buprestidae 1
+buprestidae 2
 brutus 1
 backspins 3
 berzelianite 2
@@ -17718,7 +17718,7 @@ bestead 2
 bollard
 beshouts
 birling
-bookways 1
+bookways 2
 bombshell
 burned
 burner
