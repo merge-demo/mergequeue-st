@@ -355,7 +355,7 @@ dcor 1
 densest 1
 doorboy
 diversions
-dailamite
+dailamite 1
 dotiness 2
 demonifuge 1
 defames 1
@@ -1384,7 +1384,7 @@ diatomin
 doyennes 1
 derry 1
 deworm
-dave 1
+dave 2
 depleted 3
 disna 1
 disableness
@@ -2546,7 +2546,7 @@ dweller 1
 declassification 1
 declassifies 5
 diplophonic 1
-disequality 2
+disequality 3
 dematerialize 1
 discus 1
 dorsocephalic 2
@@ -5658,7 +5658,7 @@ daftlike
 depletions 1
 danton
 depletive 1
-dishearteningly 2
+dishearteningly 3
 deploy 1
 desipramine 1
 deltoids 1
@@ -5779,7 +5779,7 @@ defeise 1
 dysraphia 1
 disambiguation
 drengh 1
-deploration 1
+deploration 2
 disauthentic 3
 dextrocerebral
 depositors 3
@@ -6192,7 +6192,7 @@ dacoit 2
 derivedness 1
 dawks
 deriver 1
-devotees
+devotees 1
 disvaluation
 dawed
 derma 1
@@ -6276,7 +6276,7 @@ defender 2
 dendrolatry 1
 dicranaceae 3
 dorsabdominally 1
-domiciling 2
+domiciling 3
 dermatosclerosis
 dermatoses
 dermatosiophobia
@@ -9038,7 +9038,7 @@ delia 1
 dehort
 disillusioniser 1
 droukit 1
-diplomatist
+diplomatist 1
 dernier
 drinkproof
 dictaphones
@@ -9567,7 +9567,7 @@ doubloons
 dignities 1
 drunks
 dignotion 1
-dependants
+dependants 1
 desmitis 4
 deuterons
 digonal 1
@@ -11400,7 +11400,7 @@ designlessness 2
 dollar 1
 deoccidentalize 1
 discoactine
-documentation 1
+documentation 2
 diallages 3
 deedeed
 drungar
@@ -11833,7 +11833,7 @@ disulphone 1
 dromomania
 dinned
 dunked
-denying 3
+denying 4
 diffusionist
 discussionist
 donatress 1
@@ -14477,7 +14477,7 @@ divertisement 1
 dextrogyrous 1
 divertissements
 deferment 1
-divested 1
+divested 2
 doradidae 1
 dicynodontidae 1
 davit
