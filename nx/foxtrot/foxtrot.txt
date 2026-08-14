@@ -2339,7 +2339,7 @@ feoffer 2
 fiberous 1
 feoffs 1
 fasciole 1
-fiftyfold 1
+fiftyfold 2
 footstalk 2
 formalizing 3
 fer
@@ -2647,7 +2647,7 @@ fabric 2
 falanaka 3
 fixed
 feluccas 3
-freshes 4
+freshes 5
 fluocerite 2
 frumpling 1
 ferrumination 1
@@ -3523,7 +3523,7 @@ frubbish 2
 femoropopliteal 3
 fodderless 2
 fly 1
-fissipalmation
+fissipalmation 1
 flexuoseness 4
 feud 2
 fitchets 2
@@ -3686,7 +3686,7 @@ fruitwise 2
 futurisms
 fathead
 firesider
-franchisal 1
+franchisal 2
 flannelboard
 folder 1
 fillable
@@ -4977,7 +4977,7 @@ formalize
 ferrugination 2
 forwarders 2
 fictionalized 1
-foraminate 2
+foraminate 3
 fascet 1
 fact
 forestcraft 1
@@ -7836,7 +7836,7 @@ fleamy
 fashionableness
 felonwood 3
 fowlerite
-foreordinate
+foreordinate 1
 floridian
 forespent 3
 finns 1
@@ -8607,7 +8607,7 @@ frightment 1
 fanfarons 1
 frownful 1
 foraminule
-featherer
+featherer 1
 frogtongue 1
 futurities 2
 fulgence 3
@@ -8852,7 +8852,7 @@ frustula 3
 feoffing 2
 favorably 3
 falcinellus 3
-floozie 2
+floozie 3
 frailes 3
 fetchers 1
 flotillas 1
@@ -10958,7 +10958,7 @@ fetal 2
 floorage 1
 fadridden 3
 fack 1
-francs 2
+francs 3
 fulminurate 1
 fess 2
 fulnesses 4
