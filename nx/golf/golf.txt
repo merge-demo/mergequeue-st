@@ -613,7 +613,7 @@ glide 1
 gastrotheca
 gastroenterostomy 3
 gestic 3
-gradatory 1
+gradatory 2
 grutch
 guenepe 1
 gravemaker 3
@@ -630,7 +630,7 @@ gonangial
 gabionage 1
 gardenesque 2
 gastaldo 4
-gerodontia 4
+gerodontia 5
 gasometry 1
 gaults 1
 gestatorial 2
@@ -969,7 +969,7 @@ graysby 3
 gastrolobium 1
 genre
 grivet 2
-gilgamesh 1
+gilgamesh 2
 grouting 1
 gagmen 1
 galloped 2
@@ -983,7 +983,7 @@ gramercy
 greasebush
 glyconin
 gyrometer
-glycogenesis 5
+glycogenesis 6
 gullably 2
 goldhammer 1
 guativere 1
@@ -1230,7 +1230,7 @@ gleetier 2
 gripiest 1
 gatewards 1
 grannybush 1
-goodeniaceae 3
+goodeniaceae 4
 galavants 1
 gramy 1
 gruffly 2
@@ -1917,7 +1917,7 @@ garvie 3
 goshen 3
 gonorrhoeic 2
 gauged
-grovet 1
+grovet 2
 gonion 1
 goclenian 2
 glucosidal 1
@@ -4049,7 +4049,7 @@ glorification 1
 goneoclinic 1
 gipsywort
 gulgul 3
-gratifiedly 1
+gratifiedly 2
 gilder 1
 glycerogelatin 4
 giraffish 3
@@ -4127,7 +4127,7 @@ gienah 2
 gene 2
 graphomania
 grandfather 2
-grimnesses 1
+grimnesses 2
 galagala 1
 gnathopod 1
 gosmore
@@ -4159,7 +4159,7 @@ ganglioma 2
 grovel 3
 goloka 2
 gois
-gaetuli 1
+gaetuli 2
 gyromagnetic 5
 galvanomagnetism 1
 gyron 3
@@ -4477,7 +4477,7 @@ gills 3
 graminiform
 gerbille 2
 gigantomachia 4
-gawp 3
+gawp 4
 globoids 1
 gmelinite 1
 gingering 1
@@ -5172,7 +5172,7 @@ groundsheet 2
 gale 1
 gleed 2
 grapeskin
-georgic 2
+georgic 3
 gramophone 3
 germinant 3
 goldarnedest 1
@@ -5247,7 +5247,7 @@ gossoons 5
 glyoxilin 1
 glacialism 3
 granitical 2
-graveling
+graveling 1
 geometries 1
 glycerin 4
 glochchidia 5
@@ -5336,7 +5336,7 @@ gammadion
 gliddery 1
 geologize 3
 gloaters 2
-glistered 1
+glistered 2
 grainland 1
 gigge 1
 gritrock 3
@@ -6673,7 +6673,7 @@ grint 3
 gibbet 1
 gulae 2
 growable 2
-gromatic 1
+gromatic 2
 geochronometry 2
 gibbergunyah 2
 grattage
@@ -8485,7 +8485,7 @@ gadzooks 2
 glassmaker 1
 gushet 1
 gomphosis 1
-garancine 2
+garancine 3
 goatishness 1
 galeeny
 gorily 3
@@ -8626,7 +8626,7 @@ gamasidae 1
 gossameriness 2
 gametically
 genealogical 1
-gibbeting 1
+gibbeting 2
 gaudeamuses 2
 geothermometer
 gaufrettes 2
@@ -9624,7 +9624,7 @@ grandma
 gatefold 1
 guisarme 1
 galvanomagnetic 5
-goodsire 1
+goodsire 2
 gracileness 3
 genson
 granulomata 2
