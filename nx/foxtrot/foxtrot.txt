@@ -8851,7 +8851,7 @@ flashtube
 frustula 3
 feoffing 2
 favorably 3
-falcinellus 3
+falcinellus 4
 floozie 3
 frailes 3
 fetchers 1
@@ -9447,7 +9447,7 @@ foxholes 2
 flacons 1
 forbye 1
 fibreglass
-forane
+forane 1
 fondu
 frenum
 ficaria 1
@@ -10808,7 +10808,7 @@ fascisticize 2
 finials
 fulgentness 1
 flittermice 3
-films
+films 1
 freehandedness
 flagstaffs 2
 footsoldiers 2
