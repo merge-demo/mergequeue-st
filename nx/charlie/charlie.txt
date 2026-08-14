@@ -2061,7 +2061,7 @@ corrections 2
 complementally
 cropper 1
 capitalizer 1
-chicomecoatl
+chicomecoatl 1
 cypresses
 cruelize
 colonial
@@ -8895,7 +8895,7 @@ concyclic 1
 charco 1
 charcoal
 crutches
-caramboled 1
+caramboled 2
 charcoaly 1
 collecting
 closterium
@@ -10930,7 +10930,7 @@ chuppahs
 chirognomist 1
 cerebrates 1
 contd
-cherubs 1
+cherubs 2
 cimmaron
 chirograph 1
 chirographers
@@ -11972,7 +11972,7 @@ coaggregated
 confabulating 1
 confarreate 1
 cathedrallike
-caloreceptor
+caloreceptor 1
 choric 1
 chorines
 collunarium
@@ -16702,7 +16702,7 @@ catchingness
 cosuitor
 culla
 chocolaty 3
-cora 1
+cora 2
 catechismal 1
 clothespins
 centroplasm
@@ -16897,7 +16897,7 @@ clueing
 cephalothorax 2
 clisiocampa
 cluing
-chwas
+chwas 1
 cheyney
 charca 1
 chs
@@ -18624,7 +18624,7 @@ coinclination 1
 coachability 2
 coincorporate
 condemnation
-coindicant
+coindicant 1
 coiner
 comparograph 1
 comme 2
@@ -23670,7 +23670,7 @@ cubalaya 2
 countableness
 contracyclical
 contractable 2
-contractant 1
+contractant 2
 contractation
 contractedly
 contractedness
@@ -24601,7 +24601,7 @@ cognomen
 copycat
 copycats 1
 citywide 1
-copycatting
+copycatting 1
 creedite
 cyclopaedias 2
 calembour
@@ -28240,7 +28240,7 @@ cyclometries
 counteragitation
 crapshooters 1
 crumlet
-coteline
+coteline 1
 comfortability
 colchyte 1
 crare 1
