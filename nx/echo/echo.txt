@@ -751,7 +751,7 @@ enabling
 embryoctony 2
 equilibrist
 ecoute 2
-enforcive 4
+enforcive 5
 exscinding 1
 emotes 3
 echinal
@@ -835,7 +835,7 @@ ethologies
 electrolyser
 excrementous
 enchair 3
-elong
+elong 1
 ectodermosis 1
 ennuyante 1
 erastianize
@@ -2686,7 +2686,7 @@ emyds 1
 elaeopten 1
 escribed 1
 ephippial 2
-emulsoidal 3
+emulsoidal 4
 examinees 4
 essed
 ericolin 1
@@ -4777,7 +4777,7 @@ endothecium 2
 entranceway 2
 encashing 2
 encountering 1
-eros 1
+eros 2
 ecclesial 1
 ethical 3
 ecize 1
@@ -5237,7 +5237,7 @@ emulsionize 2
 endorsable 2
 episcoparian 1
 excerpt 1
-extravagation
+extravagation 1
 enrolles 1
 ethylmorphine 1
 excretolic 1
@@ -5716,7 +5716,7 @@ enolases
 epilabrum 1
 enteroanastomosis 2
 emeerates 2
-engiscope 1
+engiscope 2
 enigmatization 1
 engystomatidae 1
 enatic 5
@@ -6593,7 +6593,7 @@ elevation 3
 erythroneocytosis 1
 embryoctonic 1
 existlessness 2
-eched 1
+eched 2
 eyeing
 exoderms 1
 enthralled
@@ -13240,7 +13240,7 @@ embroglios 1
 expiscation 1
 enrheum 1
 ekphorias 1
-enzooty 2
+enzooty 3
 eupepsia
 explainable 2
 expropriated 1
