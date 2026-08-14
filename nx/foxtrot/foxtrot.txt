@@ -7794,7 +7794,7 @@ faint 2
 fraenum 2
 forgathering 1
 finning
-fluorescein 1
+fluorescein 2
 ferrotyped 2
 frostbite 2
 fuzzines 2
@@ -7817,7 +7817,7 @@ feedboxes
 feronia 2
 fossilizing 4
 fraternising 2
-fibrilla
+fibrilla 1
 fluxed 4
 fiddlery 1
 fablers 2
@@ -8047,7 +8047,7 @@ fares 3
 frivolled 1
 fae 1
 flashbulb 3
-federally 6
+federally 7
 fungaceous 2
 forestal
 forestalls 2
