@@ -1559,7 +1559,7 @@ bersiamite 1
 bulbiform 2
 bdl
 bouton 4
-backsword 1
+backsword 2
 ballastic 3
 ballata 1
 backswordman 1
@@ -2334,7 +2334,7 @@ betokened 3
 budgerygah
 bebite
 backyards 1
-barbariousness
+barbariousness 1
 benzoles 1
 bubaline 1
 bullrings 1
@@ -3391,7 +3391,7 @@ bootable
 brythonic
 bitingly 1
 baculum 1
-benzilic 1
+benzilic 2
 bassanite
 biotechnics 1
 brachydactylia 1
@@ -3877,7 +3877,7 @@ bawdier 2
 bipinnatisect
 bawdies 3
 bestrow 2
-bricklaying 1
+bricklaying 2
 backaches
 belvidere
 boxbush
@@ -4907,7 +4907,7 @@ backspeer
 bryanite 1
 bomarea
 beechwood
-bright 2
+bright 3
 bourbons 3
 belaud 1
 blackeyes 1
@@ -6058,7 +6058,7 @@ bemuses 1
 belknap 1
 bol 2
 ballmine 1
-belswagger 3
+belswagger 4
 brainless 2
 ben
 biostatistics
@@ -7265,7 +7265,7 @@ bacteriform
 bubbliest 3
 boxwood
 behallow 1
-betailor
+betailor 1
 bioresearch
 betain 1
 bibiru
@@ -10908,7 +10908,7 @@ blindfish 3
 blindfishes
 bluelegs 1
 blindfolded 2
-backbencher 2
+backbencher 3
 bismuth 1
 bassus 1
 butterbush 2
@@ -14449,7 +14449,7 @@ biconical 2
 bladewise
 boxfuls 1
 bacchanalian
-blowsed 1
+blowsed 2
 brainstorming 2
 brainstorms 1
 balkanic
@@ -15797,7 +15797,7 @@ bractlet 1
 berberin 1
 baalish 2
 bilirubin
-brodyagi 3
+brodyagi 4
 brodie
 broeboe 2
 basiparachromatin
@@ -18137,7 +18137,7 @@ babuina
 blurrier 1
 balletomane 2
 bods 1
-blockading
+blockading 1
 backlotter 1
 binomial 1
 bacillite 1
