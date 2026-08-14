@@ -3601,7 +3601,7 @@ blencorn 3
 bedstands 2
 banker 1
 befathered
-bathoflore 2
+bathoflore 3
 batholithic
 balaamite
 butchers
@@ -6360,7 +6360,7 @@ benzidino 3
 blackbirding 1
 birdwise 1
 blossoming
-bragger 1
+bragger 2
 beadiness
 blastogranitic 3
 biophysicists 1
@@ -16408,7 +16408,7 @@ bedazed
 buzzgloak 1
 bedravel
 bielbrief 2
-bicuculline
+bicuculline 1
 biscayen 4
 buchnera 1
 brunelliaceous
@@ -17471,7 +17471,7 @@ buntine 4
 brawlie 2
 bipinnatiparted 1
 buplever 2
-buprestidae 1
+buprestidae 2
 brutus 1
 backspins 3
 berzelianite 2
@@ -17718,7 +17718,7 @@ bestead 2
 bollard
 beshouts
 birling
-bookways 1
+bookways 2
 bombshell
 burned
 burner

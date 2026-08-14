@@ -4950,7 +4950,7 @@ aeroelasticity 2
 arraigning
 aerofoils 1
 atmidometry 1
-adjourned
+adjourned 1
 amberfish 1
 antilogous
 antinaturalistic 1
@@ -6043,7 +6043,7 @@ amoles
 adenectomy
 acapnial
 alimenation
-alhena
+alhena 1
 angelica 1
 anemophilous 1
 autocatheterism 1
@@ -8148,7 +8148,7 @@ algebraist
 algedo 1
 amelification
 alfilerillo
-antitropal
+antitropal 1
 arrowheads
 algerian
 algerienne 1
@@ -22529,7 +22529,7 @@ antivirotic 2
 accessioned
 atavi
 anansi
-atavic 2
+atavic 3
 atmoclastic
 annihilation
 acquiescently
