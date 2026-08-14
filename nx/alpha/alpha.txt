@@ -14091,7 +14091,7 @@ altazimuth
 anchorate 1
 autocatalytic 2
 antechoirs 1
-axostyle
+axostyle 1
 antecolic 1
 antecornu
 antecourt 1
@@ -14329,7 +14329,7 @@ anthemas 1
 anthemata
 amugis 1
 anthemia 2
-archebiosis 2
+archebiosis 3
 archflatterer
 anthemion 1
 anthemis 1
