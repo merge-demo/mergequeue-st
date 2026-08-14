@@ -4950,7 +4950,7 @@ aeroelasticity 2
 arraigning
 aerofoils 1
 atmidometry 1
-adjourned
+adjourned 1
 amberfish 1
 antilogous
 antinaturalistic 1
@@ -5425,7 +5425,7 @@ archicytula
 aficionadas 1
 alfridary 2
 antiloemic 1
-autogiro 2
+autogiro 3
 aecia 1
 avail 1
 afire 1
@@ -6043,7 +6043,7 @@ amoles
 adenectomy
 acapnial
 alimenation
-alhena
+alhena 1
 angelica 1
 anemophilous 1
 autocatheterism 1
@@ -14851,7 +14851,7 @@ antichreses 1
 antichrist
 antichristianism 2
 aforetime 1
-anglicisms 2
+anglicisms 3
 ascomycetes
 antepagmenta 1
 aiwain 3
@@ -17904,7 +17904,7 @@ akinetic 1
 atherogenic
 appreve
 anticipation
-advected 1
+advected 2
 apprisers 1
 apprising 1
 arachnid
@@ -22529,7 +22529,7 @@ antivirotic 2
 accessioned
 atavi
 anansi
-atavic 2
+atavic 3
 atmoclastic
 annihilation
 acquiescently

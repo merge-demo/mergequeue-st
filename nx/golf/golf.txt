@@ -1460,7 +1460,7 @@ gradualness 3
 gasboat 5
 giddiness
 gaselier 1
-glissading
+glissading 1
 gastrophilus 1
 gastric 1
 gisarme
@@ -6036,7 +6036,7 @@ gymnocarpic 2
 giesel
 gunate 3
 glasshouse 1
-geyerite 1
+geyerite 2
 grungy
 gyrencephalate 1
 grislier 2
@@ -7685,7 +7685,7 @@ gassier
 gramarye 5
 gastropyloric
 guigne 4
-gavial 1
+gavial 2
 gaffes 1
 gaucy 3
 girdler 2
