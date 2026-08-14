@@ -3399,7 +3399,7 @@ enc
 eavedropper 1
 embark 1
 epichorial
-embarkations
+embarkations 1
 epitomize 1
 eucharistized 2
 embarkment 2
@@ -8598,7 +8598,7 @@ extractively 1
 enframe 1
 emetocathartic 1
 europiums 2
-electrodynamometer
+electrodynamometer 1
 elinguating 2
 ectal 1
 escapee 1
