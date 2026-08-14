@@ -7265,7 +7265,7 @@ bacteriform
 bubbliest 3
 boxwood
 behallow 1
-betailor
+betailor 1
 bioresearch
 betain 1
 bibiru
@@ -10908,7 +10908,7 @@ blindfish 3
 blindfishes
 bluelegs 1
 blindfolded 2
-backbencher 2
+backbencher 3
 bismuth 1
 bassus 1
 butterbush 2
@@ -18137,7 +18137,7 @@ babuina
 blurrier 1
 balletomane 2
 bods 1
-blockading
+blockading 1
 backlotter 1
 binomial 1
 bacillite 1
