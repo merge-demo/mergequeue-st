@@ -879,7 +879,7 @@ fibry 1
 foreperiod 2
 farawayness 2
 firmland
-fanums 1
+fanums 2
 fenberry 3
 falangism 3
 fadaise 4
@@ -1178,7 +1178,7 @@ foxproof 1
 fountainlike
 fleckiness
 fash 5
-friborgh 1
+friborgh 2
 fasherie 1
 fusilier 1
 fashing 1
@@ -4339,7 +4339,7 @@ frustrates 3
 frankable 2
 fandango 4
 fourflusher 3
-feneration
+feneration 1
 fellows 1
 forgetter 1
 foresleeve
@@ -4764,7 +4764,7 @@ fortress 5
 fatefulness 1
 fulth 1
 forereach 2
-flagellations 3
+flagellations 4
 fingal 1
 footwalls 2
 feif 2
@@ -5646,7 +5646,7 @@ flyless 2
 fuddle 2
 fulgurata
 firetop 1
-favouritism 2
+favouritism 3
 flimsier 1
 fishbolt 1
 fondues 3
@@ -7234,7 +7234,7 @@ fimbrillose 2
 flobby
 fiend 1
 flexive 2
-fiver
+fiver 1
 foreground
 footpad 1
 farfetchedness 1
@@ -8041,7 +8041,7 @@ fiz 2
 feist 1
 finicality 1
 fontina
-fellmongered
+fellmongered 1
 forestage 1
 fares 3
 frivolled 1
@@ -9518,7 +9518,7 @@ fraudfully 6
 fyces 3
 flaws 2
 forearmed 1
-flatcap
+flatcap 1
 fand 1
 fohat 3
 fraudulent 2
@@ -9762,7 +9762,7 @@ festinate 1
 fainting
 footmanry 2
 faunch 1
-facework
+facework 1
 fluviograph 1
 flabs 1
 flutteringly 1
@@ -10750,7 +10750,7 @@ frumpishly 2
 fanciness 2
 foreyear 4
 follyer 1
-fructified 3
+fructified 4
 fascistize 1
 filagree 5
 fringelike 1
@@ -10958,7 +10958,7 @@ fetal 2
 floorage 1
 fadridden 3
 fack 1
-francs 2
+francs 3
 fulminurate 1
 fess 2
 fulnesses 4
@@ -11144,7 +11144,7 @@ forbiddance 2
 feuars 2
 fauteuils 1
 fedellini 3
-feverbush 2
+feverbush 3
 fetometry 1
 fishtail
 farle 1
