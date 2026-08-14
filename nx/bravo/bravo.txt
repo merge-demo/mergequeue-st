@@ -1065,7 +1065,7 @@ boyaus
 basanite 2
 breenge 1
 bersil 2
-boroughmaster
+boroughmaster 1
 bailiwick
 bridler
 benzothiopyran 1
@@ -3601,7 +3601,7 @@ blencorn 3
 bedstands 2
 banker 1
 befathered
-bathoflore 2
+bathoflore 3
 batholithic
 balaamite
 butchers
@@ -4594,7 +4594,7 @@ bedazement
 bigeminate 1
 bedazzle 1
 blared
-bylina 1
+bylina 2
 banters
 bilker
 baloskionaceae 2
@@ -4806,7 +4806,7 @@ bedrooms
 bruckle
 bandicoots
 bedrugs 1
-bemeans 1
+bemeans 2
 brakesman 2
 befancy
 bits 1
@@ -6199,7 +6199,7 @@ blackleggery 1
 bedraggles 1
 beetle 2
 baffy
-brazas
+brazas 1
 beneventan 1
 bibliography 1
 bijugous
@@ -6360,7 +6360,7 @@ benzidino 3
 blackbirding 1
 birdwise 1
 blossoming
-bragger 1
+bragger 2
 beadiness
 blastogranitic 3
 biophysicists 1
@@ -7236,7 +7236,7 @@ barbarity 2
 ballplayers 2
 bipartible 2
 brankiest 2
-bestsellerdom
+bestsellerdom 1
 bacchii 3
 belick
 broidered 1
@@ -7265,7 +7265,7 @@ bacteriform
 bubbliest 3
 boxwood
 behallow 1
-betailor
+betailor 1
 bioresearch
 betain 1
 bibiru
@@ -10908,7 +10908,7 @@ blindfish 3
 blindfishes
 bluelegs 1
 blindfolded 2
-backbencher 2
+backbencher 3
 bismuth 1
 bassus 1
 butterbush 2
@@ -11467,7 +11467,7 @@ beaverkill 1
 bluesmen 2
 bluestems
 byzantium
-beguiles 3
+beguiles 4
 bigeneric 2
 bivious 1
 bolthead 1
@@ -11603,7 +11603,7 @@ bathers 2
 bighorns
 brooklime 3
 bushwhackers
-becomma 1
+becomma 2
 badgeman 1
 baggageman 1
 boa
@@ -16658,7 +16658,7 @@ baronies 1
 bucharest 4
 bunkoing 2
 burros 1
-balconette 1
+balconette 2
 bught 1
 buck 2
 bayamo 1
@@ -17636,7 +17636,7 @@ bombic 3
 bisson 3
 bisie 1
 bickerers 2
-bicentenarnaries 2
+bicentenarnaries 3
 barbacou
 benumb
 biographer 2
@@ -18137,7 +18137,7 @@ babuina
 blurrier 1
 balletomane 2
 bods 1
-blockading
+blockading 1
 backlotter 1
 binomial 1
 bacillite 1
