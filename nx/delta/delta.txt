@@ -4942,7 +4942,7 @@ dragontail
 dephosphorize 2
 draggled 1
 diamb
-demountable 1
+demountable 2
 devastators 1
 demounts
 dempsters
@@ -13790,7 +13790,7 @@ ditrochous 2
 disspirit 1
 disspread 2
 dammars 3
-disstate 2
+disstate 3
 dissuaded 1
 delayed 2
 dalteen
