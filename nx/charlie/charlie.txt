@@ -6405,7 +6405,7 @@ carafe 1
 correcter 1
 conchfish
 cauterizer 1
-cauterizes 1
+cauterizes 2
 caution
 cautionary 1
 couve
@@ -19841,7 +19841,7 @@ cradlesong
 cyclostrophic
 charade
 comestion
-cometary 1
+cometary 2
 cryobiology 1
 cometaria
 calyptro
