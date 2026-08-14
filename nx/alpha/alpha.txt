@@ -829,7 +829,7 @@ afterhelp
 abrood 2
 abrook 1
 aiel 2
-atrabiliary 3
+atrabiliary 4
 abruptio
 antianaphylactogen 1
 acropolises 1
@@ -5511,7 +5511,7 @@ antiutilitarian
 atmospheres 1
 afterblow
 aerarium 1
-augurer
+augurer 1
 alpian
 anele
 afterburning 1
@@ -5916,7 +5916,7 @@ absence
 anophyte 1
 ages 1
 altisonant
-achroiocythemia
+achroiocythemia 1
 asthenic 2
 ambisporangiate
 agger 2
@@ -10202,7 +10202,7 @@ anthropogenic
 avo 3
 acmaesthesia 1
 amburbial 4
-anxiolytic 2
+anxiolytic 3
 aughtlins 1
 ambury 1
 ambuscaded 1
@@ -16224,7 +16224,7 @@ adipomatous 1
 antisquatting 1
 athymy 1
 airbound
-afara 1
+afara 2
 antistadholder 2
 aosmic 1
 antistatism 1
