@@ -1627,7 +1627,7 @@ cinderella
 concertize 1
 coassumed 1
 calls 2
-cosavior
+cosavior 1
 callum 1
 calluna
 calamarioid 1
@@ -1776,7 +1776,7 @@ cheremissian
 christless
 coyer
 calumniators
-chaos
+chaos 1
 calumnious
 calumniously 1
 canephor 1
@@ -6405,7 +6405,7 @@ carafe 1
 correcter 1
 conchfish
 cauterizer 1
-cauterizes 1
+cauterizes 2
 caution
 cautionary 1
 couve
@@ -6872,7 +6872,7 @@ cashbox 2
 celt 1
 cofaster 1
 celtiberian
-celticize 1
+celticize 2
 counterwill 1
 celtidaceae 2
 celtiform 3
@@ -7015,7 +7015,7 @@ centauress 2
 catechism 1
 centaury 1
 carburetted 3
-carnal 1
+carnal 2
 chink 2
 centauric 1
 checkline
@@ -10528,7 +10528,7 @@ counterpreparation
 chromiferous
 chylific 1
 charlatanish 1
-chylifying 1
+chylifying 2
 chamoises
 clamworms 1
 carlylesque
@@ -18894,7 +18894,7 @@ colitic
 colitises
 colyum
 calcographer 1
-climbs 1
+climbs 2
 coliuria 1
 contemporary 1
 colla
@@ -19841,7 +19841,7 @@ cradlesong
 cyclostrophic
 charade
 comestion
-cometary 1
+cometary 2
 cryobiology 1
 cometaria
 calyptro
@@ -27381,7 +27381,7 @@ chattelization
 courtcraft 1
 colonise
 cetacean 2
-cloacal 1
+cloacal 2
 congee 2
 chartographer
 courteousness 1
