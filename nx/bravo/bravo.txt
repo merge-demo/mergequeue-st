@@ -1542,7 +1542,7 @@ bezel 1
 basted
 batterdock 1
 ballads 1
-bullhoof 1
+bullhoof 2
 balete 4
 baralipton 2
 baltimore 1
@@ -1943,7 +1943,7 @@ burlesquely 1
 backhoes 2
 biometrical
 blossom 1
-bandoleers 1
+bandoleers 2
 bivalent
 birny 1
 blowers 1
@@ -3020,7 +3020,7 @@ baggywrinkle
 boogyman
 barter
 blechnoid 1
-brilliancy 1
+brilliancy 2
 blood 1
 bullace 1
 bartholomewtide 1
@@ -4485,7 +4485,7 @@ bustling 1
 bonnering 1
 becry
 becrime 1
-boilermakers 4
+boilermakers 5
 buckthorn
 bunemost 1
 brise
@@ -5917,7 +5917,7 @@ bisnagas 1
 bouillabaisse
 belotte 1
 bowden
-bechancing
+bechancing 1
 benzalcyanhydrin 2
 blastocoelic
 beden
@@ -6157,7 +6157,7 @@ baubees 1
 brangle
 bushlands 2
 bravo
-bisexuals 2
+bisexuals 3
 benefices 2
 blackthorn 3
 balsamweed 2
@@ -8143,7 +8143,7 @@ biding 1
 bidirectional 4
 biophagy 1
 bhumij 2
-beliefs 1
+beliefs 2
 bania
 boltonias 2
 boathouses 2
@@ -11503,7 +11503,7 @@ beachie
 bluffer 1
 billycan 2
 befretted 1
-botryllidae
+botryllidae 1
 bluffest 2
 balladmonger 1
 bluffing 2
@@ -14044,7 +14044,7 @@ bedesmen
 boraginaceae 2
 balanced 2
 briared
-bannocks
+bannocks 1
 bittering 1
 blubbering
 bibliotaphe 1
