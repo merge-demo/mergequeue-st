@@ -875,7 +875,7 @@ forcive 3
 fissipedial 1
 fantigue 3
 freighters 2
-fibry
+fibry 1
 foreperiod 2
 farawayness 2
 firmland
@@ -2291,7 +2291,7 @@ feuterer 2
 fashionless 2
 foambow 1
 filicales 2
-formulable 3
+formulable 4
 flotation
 foreface 2
 fistulizing
@@ -5908,7 +5908,7 @@ folgerite 4
 frittered 2
 fencepost 3
 futuristic 3
-foetalism 1
+foetalism 2
 furlers 3
 frangent 2
 formlessness
@@ -7234,7 +7234,7 @@ fimbrillose 2
 flobby
 fiend 1
 flexive 2
-fiver
+fiver 1
 foreground
 footpad 1
 farfetchedness 1
@@ -7567,7 +7567,7 @@ funebrial 2
 forswornness 3
 formers 1
 falconries 1
-fragor 1
+fragor 2
 fernseed 3
 foreclosure 3
 fevering 3
@@ -9567,7 +9567,7 @@ footling 1
 finiteness 2
 fringier 2
 finiglacial 2
-fiador
+fiador 1
 ferritin 2
 fabraea 3
 flavonol 2
