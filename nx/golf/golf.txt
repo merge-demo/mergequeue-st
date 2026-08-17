@@ -1203,7 +1203,7 @@ guestless
 gaplessness 1
 gildhall
 genesiacal
-griot
+griot 1
 gradations
 guestive 2
 guttate 3
@@ -10558,7 +10558,7 @@ gaun 2
 gerbo 4
 gesneraceae
 gyneocracy 3
-gallivanter 1
+gallivanter 2
 gallwort 1
 gatewaymen 2
 grasset 2
