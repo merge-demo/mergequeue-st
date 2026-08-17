@@ -1492,7 +1492,7 @@ affixable 2
 archaisms
 amortize 1
 acclimatise 3
-acclimatiser 1
+acclimatiser 2
 acclimatising
 aegagrus
 applewood 2
@@ -3283,7 +3283,7 @@ algology 1
 acraze 1
 aculeae 2
 atolls 2
-antitank
+antitank 1
 aready 1
 abram
 adductors 2
@@ -15540,7 +15540,7 @@ andronitis 2
 alkyl 1
 aspermous 1
 antimodern 2
-antimodernistic 2
+antimodernistic 3
 almshouse 2
 appendicularian
 aramidae 2
@@ -22755,7 +22755,7 @@ antipedobaptism 1
 auditorially
 australianize
 arras 1
-antispast
+antispast 1
 atimon 1
 asthenobiotic 1
 advantageousness 1
