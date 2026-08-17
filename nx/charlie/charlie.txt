@@ -1841,7 +1841,7 @@ collochromate 1
 circularizing 1
 camay 1
 camaieu
-camail 2
+camail 3
 camailed
 calzada 1
 camaka 1
@@ -2965,7 +2965,7 @@ chytrid 1
 cantharides
 coation
 clip 1
-cantharidian
+cantharidian 1
 cantharidize
 cantharidized 2
 cantharus
@@ -4972,7 +4972,7 @@ chirotes
 cleeked 1
 conduct
 cartilagines 1
-chancroids
+chancroids 1
 cartilaginoid
 cartels
 cartilaginous 1
@@ -8358,7 +8358,7 @@ corkir
 chamaelirium
 chamaepericlymenum
 chamaephyte 2
-chamaesiphonales
+chamaesiphonales 1
 chamar 1
 chambered
 chamberlainry
@@ -8722,7 +8722,7 @@ commonplaces
 chapelmaster 2
 colonises
 chapelry
-combflower 2
+combflower 3
 chapelries
 carrs 3
 cinerins 1
@@ -9132,7 +9132,7 @@ churchlier 1
 conversationize
 chartulae
 chartulary
-cypris
+cypris 1
 cartoned
 coalface
 cowyard 1
@@ -9168,7 +9168,7 @@ chass 3
 chasse 1
 chassed 2
 chasseing
-chassepot 1
+chassepot 2
 chassepots 1
 chiarooscurist 1
 consubstantive 1
@@ -9792,7 +9792,7 @@ contrails
 chelonian 1
 cheloniidae 1
 crucialness 1
-cunit 1
+cunit 2
 chemehuevi
 chemiatric 2
 chemical 1
@@ -10020,7 +10020,7 @@ cherryblossom
 cherried
 cumbu
 canna
-compactedly 1
+compactedly 2
 cherries 1
 chlorioninae 2
 capharnaism 1
@@ -12505,7 +12505,7 @@ chromophage
 chromophane 1
 coopee
 chromophil
-crimelessness 1
+crimelessness 2
 chromeplating 1
 childage
 chromophobia 1
@@ -31841,7 +31841,7 @@ cutlasses 1
 congealed
 cutlassfishes
 confusive
-cutleriaceous
+cutleriaceous 1
 cutleries 1
 cutlers
 cutlet 1
