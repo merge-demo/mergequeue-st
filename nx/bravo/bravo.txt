@@ -10196,7 +10196,7 @@ bassing 1
 bitreadle 2
 blackguard 2
 bos
-benzenyl 2
+benzenyl 3
 bookrests 1
 bonanzas
 blackguardry 3
@@ -11250,7 +11250,7 @@ bopyridae 3
 blottier
 bemired
 beatably
-bibliophilistic 2
+bibliophilistic 3
 brancher
 bridgeable 1
 bullfight 2
@@ -12132,7 +12132,7 @@ bultey 1
 beloid 2
 backstop 3
 boldly 1
-brawlers
+brawlers 1
 baedekers 1
 bonesets
 balanops
@@ -14853,7 +14853,7 @@ breadbasket
 becroak 1
 backstretch 1
 buckles 2
-brazilian
+brazilian 1
 bewailing
 bunked 1
 billycock 1
@@ -17675,7 +17675,7 @@ burkundaz
 burlace
 bylaws 1
 brodyaga 2
-balancement 1
+balancement 2
 bevomits
 birgus 2
 bakehouse 2
