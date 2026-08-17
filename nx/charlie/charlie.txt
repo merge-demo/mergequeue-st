@@ -8358,7 +8358,7 @@ corkir
 chamaelirium
 chamaepericlymenum
 chamaephyte 2
-chamaesiphonales
+chamaesiphonales 1
 chamar 1
 chambered
 chamberlainry
@@ -9132,7 +9132,7 @@ churchlier 1
 conversationize
 chartulae
 chartulary
-cypris
+cypris 1
 cartoned
 coalface
 cowyard 1
@@ -9168,7 +9168,7 @@ chass 3
 chasse 1
 chassed 2
 chasseing
-chassepot 1
+chassepot 2
 chassepots 1
 chiarooscurist 1
 consubstantive 1
@@ -12505,7 +12505,7 @@ chromophage
 chromophane 1
 coopee
 chromophil
-crimelessness 1
+crimelessness 2
 chromeplating 1
 childage
 chromophobia 1
@@ -21545,7 +21545,7 @@ concubines 1
 cottonless 1
 concubitancy 1
 concubitous 1
-conculcate
+conculcate 1
 concupy 1
 concupiscence
 colin
