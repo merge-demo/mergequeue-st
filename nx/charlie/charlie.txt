@@ -7622,7 +7622,7 @@ chiquero
 ceremonialism
 ceremonialist 1
 ceremonialize 2
-clangingly 1
+clangingly 2
 ceremonialness
 counterlocking 2
 contrabass 2
@@ -9113,7 +9113,7 @@ chartist
 chartless 1
 caricatured 1
 chartography
-chartographic
+chartographic 1
 crystalline
 chartophylacia 1
 cerebra 1
@@ -11065,7 +11065,7 @@ cyclicly 1
 circumduct 2
 coalize
 chitimacha
-chitimachan
+chitimachan 1
 checksums
 coappears
 cerinthe 1
@@ -11750,7 +11750,7 @@ caliphates 1
 crannage 2
 chondrocoracoid
 consonantalizing
-chondrocostal 1
+chondrocostal 2
 comicotragic
 chondrocranial
 circuitous
@@ -19518,7 +19518,7 @@ chromogenetic
 colpoptosis
 colporrhagia 1
 colporrhaphy
-colportage
+colportage 1
 colporter 2
 colporteurs
 colposcopy
@@ -22276,7 +22276,7 @@ congesting 1
 congestion
 consultatively 1
 calk
-chylification
+chylification 1
 congestive
 conceitedly 1
 cornered
