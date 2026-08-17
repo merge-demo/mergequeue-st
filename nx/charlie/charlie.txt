@@ -11065,7 +11065,7 @@ cyclicly 1
 circumduct 2
 coalize
 chitimacha
-chitimachan
+chitimachan 1
 checksums
 coappears
 cerinthe 1
@@ -11750,7 +11750,7 @@ caliphates 1
 crannage 2
 chondrocoracoid
 consonantalizing
-chondrocostal 1
+chondrocostal 2
 comicotragic
 chondrocranial
 circuitous
@@ -19518,7 +19518,7 @@ chromogenetic
 colpoptosis
 colporrhagia 1
 colporrhaphy
-colportage
+colportage 1
 colporter 2
 colporteurs
 colposcopy
