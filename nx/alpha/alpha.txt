@@ -1492,7 +1492,7 @@ affixable 2
 archaisms
 amortize 1
 acclimatise 3
-acclimatiser 1
+acclimatiser 2
 acclimatising
 aegagrus
 applewood 2
@@ -3283,7 +3283,7 @@ algology 1
 acraze 1
 aculeae 2
 atolls 2
-antitank
+antitank 1
 aready 1
 abram
 adductors 2
@@ -5251,7 +5251,7 @@ affectious
 affective 1
 advocacies 2
 affectivity 1
-affector
+affector 1
 antagonisation 1
 accoast 3
 affeerer 2
@@ -11301,7 +11301,7 @@ amphiplatyan
 acknowledge
 amphiploidy 1
 ascicidia
-ains 1
+ains 2
 ameen 2
 amphipoda
 airers 1
@@ -15540,7 +15540,7 @@ andronitis 2
 alkyl 1
 aspermous 1
 antimodern 2
-antimodernistic 2
+antimodernistic 3
 almshouse 2
 appendicularian
 aramidae 2
@@ -17379,7 +17379,7 @@ airmobile 1
 apostrophus 1
 apotactic 1
 apotactici 1
-agriculturalist 1
+agriculturalist 2
 aginners 2
 apotelesm
 ancients 1
@@ -22616,7 +22616,7 @@ athanasia 3
 athanasian 1
 athanasianism 1
 acronychous 2
-athanasianist
+athanasianist 1
 aplustra 2
 aluminizing
 athanasies 1
@@ -22755,7 +22755,7 @@ antipedobaptism 1
 auditorially
 australianize
 arras 1
-antispast
+antispast 1
 atimon 1
 asthenobiotic 1
 advantageousness 1
@@ -23615,7 +23615,7 @@ animator 1
 acmite 1
 aked 2
 allochthonous 2
-aimed
+aimed 1
 auntish 1
 auntly 2
 academizing 2
@@ -24543,7 +24543,7 @@ aghorapanthi
 anywhereness
 at
 armsize 2
-abhor
+abhor 1
 aerophile 2
 abstrude 3
 aglaos 1
