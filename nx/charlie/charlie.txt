@@ -2965,7 +2965,7 @@ chytrid 1
 cantharides
 coation
 clip 1
-cantharidian
+cantharidian 1
 cantharidize
 cantharidized 2
 cantharus
@@ -31841,7 +31841,7 @@ cutlasses 1
 congealed
 cutlassfishes
 confusive
-cutleriaceous
+cutleriaceous 1
 cutleries 1
 cutlers
 cutlet 1
