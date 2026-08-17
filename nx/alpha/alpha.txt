@@ -2637,7 +2637,7 @@ acpt
 acquaint
 acquaintanceship
 antilift
-acidophilus 1
+acidophilus 2
 acquisible
 aggeration
 acquaintanceships 2
@@ -3126,7 +3126,7 @@ autacoid
 amphibolia 1
 allopatrically 1
 aswing 1
-allantoinuria
+allantoinuria 1
 anteoccupation
 anhydrous
 abidingly 1
@@ -11568,7 +11568,7 @@ adenocele 1
 acrospore
 anabases
 archaeopteryx
-ageists 1
+ageists 2
 alfakis
 anabasine
 atwo
@@ -12467,7 +12467,7 @@ andromache 1
 arbusterol
 andromaque
 arborizes
-actuary
+actuary 1
 andromed 2
 assapanick 5
 andromeda
@@ -20840,7 +20840,7 @@ arupa
 armoried 2
 aruspicy
 amaas
-arteriography
+arteriography 1
 arval 2
 arvejon 1
 auturgy
