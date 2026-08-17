@@ -2137,7 +2137,7 @@ detectors
 deskman
 diabolology 3
 disturbs 1
-diosmosis 1
+diosmosis 2
 decantist 1
 decaffeinated 1
 decapitation
@@ -9030,7 +9030,7 @@ denigrate 1
 dextrinous 3
 decatholicize
 diverter 2
-dicrotal 1
+dicrotal 2
 dicrotous
 doto
 dicruridae 1
@@ -9820,7 +9820,7 @@ derivational
 decertified 5
 darting 2
 diluters 2
-drudgingly 2
+drudgingly 3
 destuffs 1
 demersal
 dissepimental 1
@@ -10072,7 +10072,7 @@ dynamograph
 dauerschlaf 1
 dynamometamorphic
 disseverance
-dynamometrical
+dynamometrical 1
 dodipole
 dirls
 dogfight 1
@@ -10086,7 +10086,7 @@ dadoing 2
 duodynatron 2
 dynamostatic
 dynamotor 3
-dinanderie 1
+dinanderie 2
 disfrocks 2
 dissembles 1
 dobrao 2
@@ -12225,7 +12225,7 @@ dimication 1
 dobermans
 disglut
 dysgonic 1
-dehortation
+dehortation 1
 dataflow 2
 discrepancy
 disgorged 2
@@ -13032,7 +13032,7 @@ dwang 3
 drownds
 dain 2
 dermatoneurology
-disfeaturing 1
+disfeaturing 2
 droner 1
 disgenic 2
 daijo
