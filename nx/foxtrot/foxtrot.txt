@@ -3538,7 +3538,7 @@ fitweed 1
 forehearth
 formant 1
 frightful 1
-foulsome 1
+foulsome 2
 filamentary 3
 flannelleaves 2
 fishfall 2
@@ -5613,7 +5613,7 @@ forefeel
 fossilation
 formulary
 fuming 1
-flyer 3
+flyer 4
 forfar
 fucuses 3
 federal 2
@@ -11608,7 +11608,7 @@ fontinal 4
 fealty 2
 fol 2
 ferrado 2
-fraternal
+fraternal 1
 febrifugal 1
 for
 fetch
