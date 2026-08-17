@@ -2137,7 +2137,7 @@ detectors
 deskman
 diabolology 3
 disturbs 1
-diosmosis 1
+diosmosis 2
 decantist 1
 decaffeinated 1
 decapitation
@@ -12225,7 +12225,7 @@ dimication 1
 dobermans
 disglut
 dysgonic 1
-dehortation
+dehortation 1
 dataflow 2
 discrepancy
 disgorged 2
