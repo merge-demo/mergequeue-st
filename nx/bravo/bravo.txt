@@ -810,7 +810,7 @@ baphometic 1
 baeria
 backcomb 3
 begod 2
-browniness 1
+browniness 2
 blautok
 baetulus 1
 boothose
@@ -6482,7 +6482,7 @@ beleaguer
 backdown 3
 bepepper
 blandness 1
-ballat 1
+ballat 2
 booley
 boltropes 2
 bronchopneumonic
@@ -17775,7 +17775,7 @@ buzzle
 burrgrailer
 basementless 1
 base 1
-braiders
+braiders 1
 burrhead 1
 burrheaded
 bedcovers 1
