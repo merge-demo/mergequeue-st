@@ -1492,7 +1492,7 @@ affixable 2
 archaisms
 amortize 1
 acclimatise 3
-acclimatiser 1
+acclimatiser 2
 acclimatising
 aegagrus
 applewood 2
@@ -3283,7 +3283,7 @@ algology 1
 acraze 1
 aculeae 2
 atolls 2
-antitank
+antitank 1
 aready 1
 abram
 adductors 2
