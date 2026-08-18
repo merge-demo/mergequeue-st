@@ -1974,7 +1974,7 @@ bisection 1
 bagnio 1
 balances 1
 bandstring
-bathymetric 1
+bathymetric 2
 brandishes
 bigeye 4
 believes 1
