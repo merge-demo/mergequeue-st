@@ -174,7 +174,7 @@ begladded 1
 baccalaureate 1
 baccalaureates 1
 baccalaureus 1
-baccara
+baccara 1
 baroques 2
 bipartition 2
 byes 1
@@ -2685,7 +2685,7 @@ barmcloth 1
 brither
 birdcage 1
 balmlike 2
-barnabas
+barnabas 1
 bales
 barnaby 3
 bluebreast
@@ -4392,7 +4392,7 @@ backswing 1
 bonairness 1
 brolly 4
 boordly
-bagne
+bagne 1
 bounties
 breakwater 2
 behoney
@@ -6051,7 +6051,7 @@ bemurmur 2
 bondwoman
 butyral 1
 botaniser
-bemurmure 2
+bemurmure 3
 bemurmuring 1
 befooled 1
 bemuses 1
@@ -7732,7 +7732,7 @@ bheesty 2
 bullaries 2
 bheestie 1
 beblot
-bespangles
+bespangles 1
 britten 3
 bathyscaphe 1
 bravoite
@@ -7981,7 +7981,7 @@ birthdays 1
 bicched 2
 bribegiving
 bicentric
-bardier
+bardier 1
 bum 1
 beauteousness
 brighten 1
@@ -9384,7 +9384,7 @@ bromopikrin 1
 britannia 2
 birdglue 1
 biforked 2
-bisulfid 1
+bisulfid 2
 brachtmema 2
 birdhood 1
 birdhouse 2
@@ -9663,7 +9663,7 @@ blatti
 bryozoum
 baizes 1
 brarow
-bacteriaceae 2
+bacteriaceae 3
 baconism 1
 batiste
 bisyllabic 1
@@ -10535,7 +10535,7 @@ bewigged 1
 blueprinter
 breakage
 bradyuria
-bashlik 3
+bashlik 4
 blastoporal 1
 blastosphere 1
 balanus 1
@@ -11688,7 +11688,7 @@ byeworkman 3
 barbouillage
 blazoners 1
 bosks 1
-boatward
+boatward 1
 blackboys
 boatwright 2
 beanfest 1
@@ -12536,7 +12536,7 @@ bongoes 2
 bypast 1
 bannimus 1
 beaus
-bedposts 1
+bedposts 2
 burseeds 2
 biham 1
 bonhomies 1
@@ -13392,7 +13392,7 @@ blasted
 backshift 1
 bothrenchyma 2
 bluenoses 3
-billsticker
+billsticker 1
 bandage 1
 benjamite 1
 bothriocephalus 3
@@ -14601,7 +14601,7 @@ billhooks
 blume 1
 buri 1
 brandisite 1
-boyar 3
+boyar 4
 brandling
 bayardly 1
 bority
@@ -15997,7 +15997,7 @@ baptistries
 blennorrhagic 1
 benjy
 bodements 2
-bromoaurates 2
+bromoaurates 3
 bandless 1
 biffy 2
 bardocucullus
