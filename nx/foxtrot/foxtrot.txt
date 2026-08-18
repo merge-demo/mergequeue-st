@@ -69,7 +69,7 @@ faceharden 1
 flagships 2
 flecken 1
 facellite 3
-ferrocyanide 3
+ferrocyanide 4
 furthers
 flysch
 fordeal 2
@@ -4925,7 +4925,7 @@ fergusite 2
 frenetic 1
 formly 3
 fchar 2
-fluidised 1
+fluidised 2
 foining 1
 fluoresced
 forsooth 3
@@ -8522,7 +8522,7 @@ formularizing 1
 flatulent 1
 frontierman
 flustration 2
-frow 1
+frow 2
 figment
 flyting 4
 forked
