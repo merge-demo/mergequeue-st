@@ -69,7 +69,7 @@ faceharden 1
 flagships 2
 flecken 1
 facellite 3
-ferrocyanide 3
+ferrocyanide 4
 furthers
 flysch
 fordeal 2
@@ -155,7 +155,7 @@ fibbery 1
 factionalism 2
 fullbodied 4
 fabes 1
-felaheen 1
+felaheen 2
 flightiest 2
 foreribs 1
 farcialize
@@ -3751,7 +3751,7 @@ fjorgyn 3
 fulls 2
 fally 2
 filliped 3
-fragmentist 1
+fragmentist 2
 fascinatingly 3
 fluxing 2
 francize 1
@@ -4783,7 +4783,7 @@ filigera 2
 falconers 1
 flagelliform 1
 fever
-flickeringly 3
+flickeringly 4
 fauve 1
 fargoing 1
 flageolets 1
