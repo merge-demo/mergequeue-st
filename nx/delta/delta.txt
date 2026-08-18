@@ -3580,7 +3580,7 @@ dodecant
 destituting
 diatonous 2
 degener
-declaredness 1
+declaredness 2
 depredations 1
 dripping
 dinosauric 1
@@ -5705,7 +5705,7 @@ dehumidify
 disrobers
 depolarization 1
 dernly 1
-depolarize
+depolarize 1
 dextrorsal 1
 decouple 1
 downstroke
@@ -11271,7 +11271,7 @@ derailments
 dethroned
 damolic 1
 disced 2
-devaraja 1
+devaraja 2
 dost
 disdodecahedroid 2
 dinichthys 1
@@ -14912,7 +14912,7 @@ dracontine 1
 dev 1
 dumbbells 2
 defendants 1
-dispensible 1
+dispensible 2
 dodgily 1
 defraud 1
 destroyingly 4
@@ -17744,7 +17744,7 @@ dubbin
 disused
 demipauldron 2
 discriminable
-durables 2
+durables 3
 deliquesce 1
 dedifferentiation 3
 decanonization
