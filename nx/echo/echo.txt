@@ -262,7 +262,7 @@ electroplated 2
 expiries 1
 easterling 1
 exhumers
-epigoneion
+epigoneion 1
 enqueue
 enantioblastic 2
 endognath 2
@@ -2753,7 +2753,7 @@ eutocia
 extrusions 2
 exhilaratory 2
 exorcisers
-evergreenite 1
+evergreenite 2
 exchangeably 1
 equangular
 explorations 1
@@ -4909,7 +4909,7 @@ encouragement 3
 endeavouring 1
 egression 2
 endeictic 1
-enarm 3
+enarm 4
 entropium 2
 expectable 3
 enravish 1
@@ -9525,7 +9525,7 @@ embracing
 electroviscous
 expectorant 1
 evacuees 2
-extensometer
+extensometer 1
 eyesalve 1
 exannulate 2
 endosmotic 1
@@ -9618,7 +9618,7 @@ epacris
 elaeagnus 1
 esparsette
 emphases 2
-encloud
+encloud 1
 embost 1
 espartos 1
 enhydritic 3
@@ -12020,7 +12020,7 @@ exclaims 3
 exclamative 1
 epithermally
 exclamatory 3
-exclaves 2
+exclaves 3
 excavational
 expensed 1
 eryngium 1
