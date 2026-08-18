@@ -4392,7 +4392,7 @@ backswing 1
 bonairness 1
 brolly 4
 boordly
-bagne
+bagne 1
 bounties
 breakwater 2
 behoney
@@ -6051,7 +6051,7 @@ bemurmur 2
 bondwoman
 butyral 1
 botaniser
-bemurmure 2
+bemurmure 3
 bemurmuring 1
 befooled 1
 bemuses 1
@@ -7981,7 +7981,7 @@ birthdays 1
 bicched 2
 bribegiving
 bicentric
-bardier
+bardier 1
 bum 1
 beauteousness
 brighten 1
