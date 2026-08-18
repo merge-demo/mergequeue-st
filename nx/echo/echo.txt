@@ -262,7 +262,7 @@ electroplated 2
 expiries 1
 easterling 1
 exhumers
-epigoneion
+epigoneion 1
 enqueue
 enantioblastic 2
 endognath 2
@@ -12020,7 +12020,7 @@ exclaims 3
 exclamative 1
 epithermally
 exclamatory 3
-exclaves 2
+exclaves 3
 excavational
 expensed 1
 eryngium 1
