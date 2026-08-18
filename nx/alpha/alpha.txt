@@ -5636,7 +5636,7 @@ amoebiform 1
 aftertask 1
 achromatium 3
 afterthought
-afterthoughts
+afterthoughts 1
 afterthrift
 apastron 1
 armil 1
@@ -9177,7 +9177,7 @@ averter 3
 animations 1
 apollonistic 1
 almemars
-approof 2
+approof 3
 amebid
 abrazos 1
 antistrophe 1
@@ -11558,7 +11558,7 @@ advertisable
 apogamously
 amphigastria
 anabantid 1
-aeneus
+aeneus 1
 anabaptistic 1
 audiometers
 amazulu
@@ -12332,7 +12332,7 @@ anubing
 ancoly 1
 ancome
 ancona 2
-anilic
+anilic 1
 alemannian
 addability 3
 authoritarians 3
@@ -14762,7 +14762,7 @@ antiblastic 2
 adumbral
 abjudication 1
 acclimation 1
-antiboxing
+antiboxing 1
 advertizer 2
 apparation 1
 ammonolyzed
@@ -15242,7 +15242,7 @@ antifibrinolysis
 apostolically 1
 atomies
 astroblast
-antifire 1
+antifire 2
 anacoenoses 1
 amylogens
 antiflattering
@@ -16374,7 +16374,7 @@ ammoniuria 4
 attacker
 aldoses
 aal
-anticommutative 1
+anticommutative 2
 antivivisectionist 1
 acrospiring 1
 avocation
@@ -18277,7 +18277,7 @@ archont 1
 arachnomorphae
 aphorists 1
 arabiyeh 1
-apparel 1
+apparel 2
 acquisitum
 adjunct 1
 arability 1
@@ -18363,7 +18363,7 @@ adcraft 1
 araire
 amphigory
 appendage 2
-araise 1
+araise 2
 aronia 1
 auxospore
 arachnopia 1
@@ -18904,7 +18904,7 @@ abridge
 archigastrula
 archigonic
 autotomising 2
-addoom 1
+addoom 2
 aphelian
 aldohexose
 ausu
@@ -21478,7 +21478,7 @@ aspermatic
 akhundzada 1
 adrip
 aerographies
-acridic
+acridic 1
 assedation
 aspers 1
 adenosarcoma 1
@@ -23421,7 +23421,7 @@ antitwilight
 audiophile 1
 audiophiles 1
 abbandono
-allowancing
+allowancing 1
 athyroid 1
 amirates
 actinomycosis
