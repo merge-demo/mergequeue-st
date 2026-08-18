@@ -156,7 +156,7 @@ factionalism 2
 fullbodied 4
 fabes 1
 felaheen 2
-flightiest 2
+flightiest 3
 foreribs 1
 farcialize
 formicaroid
@@ -2884,7 +2884,7 @@ fetterlock 5
 flatfish
 forewing 4
 foxship
-frisettes 1
+frisettes 2
 fogies 2
 formicarium 3
 footwear 1
