@@ -7056,7 +7056,7 @@ dessous 1
 devall 1
 doodad
 durst 1
-destabilization
+destabilization 1
 doolie 1
 difficultly 2
 destabilize 1
@@ -8436,7 +8436,7 @@ dredging
 ditrochee
 deflexed 2
 dooxidize 1
-dextro
+dextro 1
 decrowns 2
 daimonology 3
 decise 1
@@ -18139,7 +18139,7 @@ dumdum 2
 dumdums
 dadu 2
 drab 2
-distichs 2
+distichs 3
 dumfounded 2
 dahlia
 debarrass 1
