@@ -186,7 +186,7 @@ folletage 3
 footstock 1
 freedwoman 2
 ferns 3
-fluking 2
+fluking 3
 fazenda
 factotum 2
 felsitic 2
@@ -787,7 +787,7 @@ fowl
 fermate 2
 frizado
 frowsy 1
-flypast 1
+flypast 2
 forgedly 1
 flusher 2
 florilege
@@ -1558,7 +1558,7 @@ feasibilities 2
 favorer 4
 foresty 2
 ferrash
-fleecelike 4
+fleecelike 5
 fourstrand 2
 falsettist 1
 fibrinogen 7
@@ -3417,7 +3417,7 @@ fenestella 4
 forestate
 fielders
 forset 1
-favellilidia
+favellilidia 1
 furfures 3
 frankforter 3
 fenbank 2
@@ -7695,7 +7695,7 @@ fixedness 1
 franchised 1
 flourishment 2
 foziest 2
-fruition 2
+fruition 3
 foreturn 1
 flotter 4
 furriness
@@ -10121,7 +10121,7 @@ frisking 1
 frisks 4
 feudatary 2
 firster 1
-foredecree
+foredecree 1
 formalise
 fearfulness 3
 finfishes 2
@@ -10450,7 +10450,7 @@ forcaria 2
 fertilizer 3
 filesmith 2
 feudalistic
-fringeflower 2
+fringeflower 3
 faddier 2
 fossified 3
 featherwood 4
@@ -10550,7 +10550,7 @@ farandman 2
 frousty 1
 frouzy 1
 finch 1
-flirtiest 1
+flirtiest 2
 fazendas 2
 fursemide 1
 filterer 2
@@ -10939,7 +10939,7 @@ fruitist 3
 forgeful
 fi 2
 foilable 3
-federacy 2
+federacy 3
 fiscalizing 1
 fullonian 2
 facilitator
