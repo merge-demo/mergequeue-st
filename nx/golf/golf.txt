@@ -1647,7 +1647,7 @@ gastrodermis
 gulfweed 1
 galeopithecus
 glycin 2
-globed 1
+globed 2
 gastroduodenitis 5
 guadua 1
 gastroduodenostomy 1
@@ -2015,7 +2015,7 @@ gynandrous 2
 gavelocks 2
 gattine 2
 goaf 1
-gallied 2
+gallied 3
 glime 4
 grapeful 2
 gazzetta 2
@@ -2353,7 +2353,7 @@ greenboard 4
 ganisters 1
 gedds 3
 gormandise 2
-grampa 2
+grampa 3
 garnisheing
 granddaughterly 4
 gentianal 2
@@ -2533,7 +2533,7 @@ grig 3
 grubbies 3
 gain 4
 guilder 2
-gynecium 2
+gynecium 3
 gummata 1
 gurle 3
 gomeisa 1
@@ -2626,7 +2626,7 @@ globulicidal 3
 gunmen 1
 genetika 2
 gurgeon 3
-gathering 4
+gathering 5
 greatest 1
 gonotocont 3
 guaraguao 1
@@ -4346,7 +4346,7 @@ goozle 1
 grammatist 2
 glabrescent
 gloriam 1
-gasped 1
+gasped 2
 gleeted 1
 gorget 2
 grandezza 1
@@ -4424,7 +4424,7 @@ girlie 2
 gelatose 2
 grantiidae
 grammontine 1
-gastrostaxis 4
+gastrostaxis 5
 glint
 ginning
 gourde 3
@@ -4484,7 +4484,7 @@ gingering 1
 gyrated 1
 gosain 1
 grandfatherish 2
-germinable 1
+germinable 2
 gainpain 1
 genocidal 3
 grademark 5
@@ -4656,7 +4656,7 @@ geode 2
 gallinula 1
 gynodioecism 2
 gymnasiast 1
-gentilities
+gentilities 1
 gumshoe 2
 glucosuria 1
 grudgingly 3
@@ -4906,7 +4906,7 @@ goodwilled 3
 gigantic 2
 grafters 1
 goldhead 1
-genealogists
+genealogists 1
 goofballs 1
 growled 2
 guariba 3
@@ -4974,7 +4974,7 @@ glaum 3
 gilliflirt
 gamekeepers 2
 granulitis 2
-glariness 2
+glariness 3
 gregarinae 1
 gelada 1
 grutched 2
@@ -5259,7 +5259,7 @@ gymnadeniopsis
 grouping 3
 gospodar 1
 glyceroxide 3
-glycide
+glycide 1
 gladiest 3
 gangmaster 1
 glabrous 1
@@ -6673,7 +6673,7 @@ grint 3
 gibbet 1
 gulae 2
 growable 2
-gromatic 2
+gromatic 3
 geochronometry 2
 gibbergunyah 2
 grattage
@@ -8447,7 +8447,7 @@ gauntree 4
 gedanken 1
 garlicky 2
 gratifiable 3
-guaco
+guaco 1
 gelsemium 2
 ghetchoo 2
 girondism
@@ -10098,7 +10098,7 @@ gnomic 2
 galactoid 1
 gnotobiologies 2
 gaskets 2
-gabe 2
+gabe 3
 grummels 1
 granado 2
 guetre 2
@@ -10313,7 +10313,7 @@ gastroenterology
 grapeless 2
 gridder 1
 gloomed 2
-gaming 3
+gaming 4
 grazes 1
 goldfishes 2
 gabari 3
@@ -10500,7 +10500,7 @@ graveman 3
 gonocytes 2
 genuineness 1
 grecized 1
-gymnorhininae 2
+gymnorhininae 3
 giftling 1
 gyrational 1
 gimmicks 1
