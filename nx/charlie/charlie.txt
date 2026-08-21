@@ -3566,7 +3566,7 @@ captivance
 cucurbitine 2
 chaired 1
 captivated
-captivates
+captivates 1
 captivatingly
 clowre
 captivative
@@ -4894,7 +4894,7 @@ carritches 1
 carriwitchet 1
 carrocci 1
 carroch 3
-connivers 1
+connivers 2
 carrollite
 carromed
 carroon
@@ -8861,7 +8861,7 @@ charadriiformes
 charadrine
 charadriomorphae
 chingpaw 1
-carbolised
+carbolised 1
 candylike
 cunni 2
 cryptanalyst
@@ -8935,7 +8935,7 @@ cryptophyceae
 crankman
 charybdis 1
 chestnutty
-charicleia
+charicleia 1
 castigates
 charier 1
 chariest
@@ -12133,7 +12133,7 @@ cursiveness
 chowses 2
 chowtime
 cephalocele
-chowtimes 1
+chowtimes 2
 chrematheism 1
 chrematistic
 chremsel
@@ -24554,7 +24554,7 @@ cope
 cappers 1
 capillus
 coetaneously
-copehan
+copehan 1
 copeia
 copeman 2
 chromophile 1
