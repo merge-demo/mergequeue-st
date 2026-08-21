@@ -6724,7 +6724,7 @@ feast 1
 fellowships 2
 forelegs 2
 fogon 2
-fogproof 1
+fogproof 2
 forstand 3
 fellator 5
 frangulaceae
