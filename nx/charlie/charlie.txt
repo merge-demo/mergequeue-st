@@ -2533,7 +2533,7 @@ candymaking 1
 candite
 candyweed 1
 candle 1
-coehorn 3
+coehorn 4
 candleball
 candleberries 2
 candlebomb 2
@@ -2747,7 +2747,7 @@ cannabises 2
 cannabism
 calcareosulphurous 2
 camorra
-cannaceous
+cannaceous 1
 chaquetas 2
 clarigation 1
 cinerama
@@ -2884,7 +2884,7 @@ canopy
 canopid 1
 canopies 1
 clarigate
-corticated
+corticated 1
 canopying 2
 cours 2
 cyeses
@@ -10495,7 +10495,7 @@ childwife
 canities
 childwite
 chile
-chyle 1
+chyle 2
 chileanization
 caballeria 1
 chileans
@@ -14577,7 +14577,7 @@ cenobite 1
 cyath
 cystiform
 clockmutch 2
-cystigerous 1
+cystigerous 2
 cystignathidae
 cystignathine
 criminology 1
@@ -20795,7 +20795,7 @@ complimentariness 1
 complimentarity
 complimentation
 confute 1
-complimentative 1
+complimentative 2
 cana
 cure 1
 complimenter 1
@@ -30213,7 +30213,7 @@ clinicopathologic 2
 crunk 1
 crudest
 conto 2
-crudy
+crudy 1
 capitoulate 1
 concentrators
 cains 1
