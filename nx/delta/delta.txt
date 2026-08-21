@@ -12440,7 +12440,7 @@ doubtably
 dertrum
 damageableness
 dancette 1
-dexterity
+dexterity 1
 defy
 deboise 1
 demesne 1
@@ -15467,7 +15467,7 @@ diapery 1
 disbands
 donator 2
 detergence 2
-discodactyl 1
+discodactyl 2
 deceivableness
 dispell 2
 depredator 1
