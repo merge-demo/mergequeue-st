@@ -2129,7 +2129,7 @@ chieftaincies 2
 circumnuclear 1
 captivator
 campanular
-campanulariae
+campanulariae 1
 campanularidae 1
 campanulatae 1
 campanulate 2
@@ -11286,7 +11286,7 @@ conservation 1
 chloroamide 3
 chloroamine
 chloroaurate 1
-chloroaurite 1
+chloroaurite 2
 chlorobenzene
 centripetency 1
 chlorocalcite 1
@@ -31539,7 +31539,7 @@ crystallizability 1
 cursoriness
 cursorious 2
 coffeecake 1
-cursorius 1
+cursorius 2
 cleveites
 copse 1
 conjobble 1
