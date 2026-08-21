@@ -1848,7 +1848,7 @@ feastless 2
 fayettism 3
 feloid 1
 febrile 2
-forrue
+forrue 1
 fcs 1
 forfeit 2
 fibrinogenically 2
@@ -2750,7 +2750,7 @@ fascis 3
 fiercer 3
 fragmentarily 2
 fellinic 2
-felineness 2
+felineness 3
 fesses 2
 flaunche 1
 faultier 5
@@ -3537,7 +3537,7 @@ floroun 2
 fitweed 1
 forehearth
 formant 1
-frightful 1
+frightful 2
 foulsome 2
 filamentary 3
 flannelleaves 2
@@ -3948,7 +3948,7 @@ feedbacks 1
 finest 2
 finew
 fish
-fermentor 2
+fermentor 3
 fruitcakey
 frenziedly 2
 frightfulness 1
@@ -4419,7 +4419,7 @@ frenghi 1
 formel 4
 fraiser 4
 falsary 1
-flawier
+flawier 1
 fovent 1
 flogmaster 1
 forwardness 2
@@ -5724,7 +5724,7 @@ footed 2
 flirtatiously 1
 flosculariidae 1
 flirtatiousness 1
-floodwater 3
+floodwater 4
 frequently 1
 fitroot 2
 flurry 1
@@ -6121,7 +6121,7 @@ frightenedly 1
 foxtongue 2
 fenster
 flounce 1
-flounced 1
+flounced 2
 flounder 1
 frowardness
 faraway
@@ -6375,7 +6375,7 @@ francois 1
 florentium 2
 fishtailing 3
 fluorboric 2
-frugiferousness 2
+frugiferousness 3
 fluotitanate 2
 formulized 1
 fricace 1
@@ -6550,7 +6550,7 @@ fleetly
 funereal 2
 frigor 1
 foretack 4
-footlights
+footlights 1
 flamless 1
 furrings 1
 flibbertigibbets
@@ -7502,7 +7502,7 @@ fluellin
 fillip 2
 fogou 2
 freenesses 2
-foreassurance 1
+foreassurance 2
 forecabin 1
 feedingstuff
 familiarity 5
@@ -7720,7 +7720,7 @@ fernier 4
 frayproof 3
 friend 1
 flexes 1
-firm
+firm 1
 fellmonger 1
 frate 1
 fossa 1
@@ -7918,7 +7918,7 @@ froeman 1
 fictionalizing 2
 foresail 4
 feuilletonistic 6
-fasten 2
+fasten 3
 fork 1
 floes 1
 fetticus 2
@@ -10036,7 +10036,7 @@ fairness 2
 footprint 2
 footpaths 1
 foreshroud 1
-framableness 1
+framableness 2
 fenceless 2
 fanga 3
 forerevelation 1
@@ -10236,7 +10236,7 @@ frogbit 1
 frogeyed 3
 farewelling
 fissureless 2
-fibra 2
+fibra 3
 frankheartedly 2
 filite
 floated 2
@@ -10626,7 +10626,7 @@ feeblebrained 2
 fanteeg 2
 freakouts 3
 fibrination 3
-fulgent 2
+fulgent 3
 foiling 1
 foilsman 1
 filaceous 2
@@ -10698,7 +10698,7 @@ fieldworker
 fist 4
 footler 3
 famish 3
-frightable 2
+frightable 3
 facultied 3
 fibular 1
 fruitlets 1
