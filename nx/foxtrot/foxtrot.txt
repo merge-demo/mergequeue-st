@@ -11393,7 +11393,7 @@ fen
 furnariides 3
 flect 2
 facies 4
-furnish
+furnish 1
 flocked 1
 fluorindine 2
 furnishable 2
