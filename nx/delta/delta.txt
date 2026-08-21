@@ -1496,7 +1496,7 @@ dazzlers
 damnification
 discernableness
 dazzlingness
-descale 1
+descale 2
 dbms 1
 degenerationist
 dbridement
@@ -5728,7 +5728,7 @@ dreck 2
 depones 1
 denat
 deponing
-distributee
+distributee 1
 doodler
 dewormed
 depopulation
@@ -10539,7 +10539,7 @@ dauw 1
 diplocardiac 1
 diplocarpon 1
 diplocaulescent 2
-diplocephalus 1
+diplocephalus 2
 drearisomeness 2
 dysaphia 1
 dbrn
@@ -13042,7 +13042,7 @@ dabber 1
 drowsing
 deplethoric 1
 dispassion 2
-dispended 1
+dispended 2
 dunfish 1
 dissipative 1
 dopes 1
@@ -17111,7 +17111,7 @@ dimensional 2
 delineament
 disaffected 1
 driddle 1
-didle
+didle 1
 droukan
 drie
 disconcertedness 1
