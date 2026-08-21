@@ -2859,7 +2859,7 @@ countercharge
 cadaverine
 canonised
 canoniser
-cephalothoraces
+cephalothoraces 1
 coambassador 1
 canonising 1
 canonist
@@ -3667,7 +3667,7 @@ coronado
 carageens
 chromatography
 caraibe
-coachwhip 3
+coachwhip 4
 caraipa
 chronometrical
 caraipi
@@ -5001,7 +5001,7 @@ carpitis
 cartons 2
 cartoonist
 chrysomonadina 2
-cassettes
+cassettes 1
 cartouche
 curmudgeon
 cust
@@ -5907,7 +5907,7 @@ cytolymph
 cateringly
 copras 3
 caterpillared
-caterpillarlike 1
+caterpillarlike 2
 chelerythrin
 caterpillars 2
 caters 1
@@ -17595,7 +17595,7 @@ coccionella 2
 cephalothoracopagus
 coccyx 2
 coccyxes
-coccyzus 1
+coccyzus 2
 cocco 2
 changar
 clallam 1
@@ -17727,7 +17727,7 @@ coconsciousness 2
 coconsecrator
 confirmingly 1
 contramure 1
-coconut 1
+coconut 2
 coconuts
 cocoon 1
 cocooneries 1
@@ -21149,7 +21149,7 @@ concealedly 2
 concealedness
 cardiotonic
 concealer 1
-concealing 1
+concealing 2
 conceals 2
 cimmerian
 concededly
@@ -22732,7 +22732,7 @@ conplane
 counterevidence 1
 cryosphere 2
 conquerer 1
-conquerers
+conquerers 1
 conqueress 2
 conquering 1
 coenure 1
@@ -26526,7 +26526,7 @@ cotte
 cotted
 cotter
 cottered 1
-cottid
+cottid 1
 capitulating 1
 cottise 2
 chunkhead
@@ -28213,7 +28213,7 @@ competitress
 coulisse
 cystatrophia
 cururo 1
-cranreuch
+cranreuch 1
 chromaphil
 cellulose 2
 chapelet 2
