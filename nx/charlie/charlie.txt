@@ -3249,7 +3249,7 @@ cohosted
 cumly 2
 capital
 chevronny
-capitaldom
+capitaldom 1
 capitaled
 capitalisable 1
 capitalising
@@ -3640,7 +3640,7 @@ curtaxe
 caracol
 coauthoring
 caracoling
-curliest 1
+curliest 2
 crustate
 caracolled 1
 caracoller
@@ -6392,7 +6392,7 @@ camphoronic
 cautelously
 crocodylidae
 car
-cribbers 1
+cribbers 2
 cilantro
 cautery
 cauteries
@@ -14101,7 +14101,7 @@ circue 1
 circuit
 circuital
 cleidoscapular
-chimonanthus
+chimonanthus 1
 circuiteer
 clyer
 continues 1
