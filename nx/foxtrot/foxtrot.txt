@@ -1561,7 +1561,7 @@ ferrash
 fleecelike 4
 fourstrand 2
 falsettist 1
-fibrinogen 6
+fibrinogen 7
 filespec 3
 floristic 2
 favorites 2
@@ -4302,7 +4302,7 @@ florescence
 forequarters 1
 fluyt 3
 factive
-fet 2
+fet 3
 fusee 4
 ferd 1
 flamethrower
@@ -5412,7 +5412,7 @@ fetis 1
 flummeries 4
 flaked 1
 fulham 3
-foremade
+foremade 1
 frisado 1
 factorial 1
 fledgiest 1
@@ -9106,7 +9106,7 @@ feruling 1
 foxberry 2
 falcular 2
 fribbleism 1
-fractionation 2
+fractionation 3
 forenent 1
 folding 1
 friesish 2
@@ -9521,7 +9521,7 @@ forearmed 1
 flatcap 1
 fand 1
 fohat 3
-fraudulent 2
+fraudulent 3
 fraudulentness 1
 ferreting 1
 frauen
