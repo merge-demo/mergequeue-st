@@ -1676,7 +1676,7 @@ freighted
 forehammer 1
 fondlike 2
 frangible 2
-ferrament 1
+ferrament 2
 fleeching 2
 furnace 2
 fingertip 5
@@ -3291,7 +3291,7 @@ flounces 4
 fortier 1
 fulgency 2
 finity 4
-factitious 1
+factitious 2
 framed 2
 fisherman 1
 fideicommissaries 1
@@ -5019,7 +5019,7 @@ faceable 1
 flaccidness 1
 frowsier 2
 feathers
-fundamentalistic 1
+fundamentalistic 2
 faineantise 1
 falsificate 1
 firman 1
