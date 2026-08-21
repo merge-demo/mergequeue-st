@@ -1760,7 +1760,7 @@ chipped
 coloured
 calumniates
 comeliness
-calumniating
+calumniating 1
 calumniation 1
 coaldealer 1
 consolably
@@ -5328,7 +5328,7 @@ cassis 1
 cumbha
 crampy
 courtling
-cassiterite 1
+cassiterite 2
 coestablishment 1
 ccws 2
 cassius 2
@@ -7222,7 +7222,7 @@ conte
 countervindication
 centromere 1
 centromeric 2
-centronote
+centronote 1
 couth 2
 centropomidae
 cardioaccelerator 1
@@ -8452,7 +8452,7 @@ champerties 1
 chalaze 1
 champertor 2
 carbolxylol 1
-champertous
+champertous 1
 champy 1
 conjoint
 capparidaceous 1
@@ -8927,7 +8927,7 @@ cupping 2
 chargee
 cataphasia 1
 chargeful
-chargehouse
+chargehouse 1
 charger
 charges
 charybdian
@@ -12175,7 +12175,7 @@ chrysamphora 2
 culprit 1
 chrysaniline
 cushiony 1
-cochairmanship
+cochairmanship 1
 chrysaor
 convince
 cont
@@ -14545,7 +14545,7 @@ cystelcosis
 cosmologic
 choppy
 cistercianism
-cisternae 2
+cisternae 3
 cisternal 3
 cornier 1
 compotier
@@ -15100,7 +15100,7 @@ cacumen 2
 chipling
 cladodial 3
 cladodium 1
-centinel
+centinel 1
 cladodont 1
 closetful 1
 cruelties
@@ -15835,7 +15835,7 @@ cleavable
 cleavage 3
 cleavages
 cleaveful 1
-cleavelandite
+cleavelandite 1
 contentness 1
 cleaver 1
 cleavers 1
@@ -17667,7 +17667,7 @@ cochlite
 cochlospermaceae 1
 coffeeleaf 2
 catatoniac 2
-cocillana 1
+cocillana 2
 cyrtolite
 cocin 1
 colluders
@@ -19211,7 +19211,7 @@ collotypic
 cental
 classifier
 collum
-corbed
+corbed 1
 cutover
 collun
 couthe 3
@@ -23578,7 +23578,7 @@ criollos 2
 cathead
 coalfish 3
 contact
-coteen
+coteen 1
 cionectomy 1
 cacopathy 1
 climature
@@ -24494,7 +24494,7 @@ coot 1
 cootch 1
 corticin
 cheeseburger
-cootfoot
+cootfoot 1
 crotyl
 cooty 1
 cootie
@@ -25153,7 +25153,7 @@ cores 1
 carbonates
 compressors
 chlorospinel 1
-coresign
+coresign 1
 coresonant
 convento 2
 chincher
@@ -27205,7 +27205,7 @@ countertraction
 countertransference
 cystonectous 1
 collen 1
-coparent 1
+coparent 2
 countertraverse 2
 countertreason 1
 caesious 1
@@ -30384,7 +30384,7 @@ cerebellopontile 1
 clytemnestra 1
 conttinua
 clenching
-corralling 1
+corralling 2
 crustacean
 coversed 1
 cancelier 1
@@ -30484,7 +30484,7 @@ ctenostomata 3
 ctetology 1
 cto
 charcuteries 1
-carbo 1
+carbo 2
 ctr 1
 comortgagee 2
 cannibalean
@@ -31092,7 +31092,7 @@ cunarder
 capeadors 1
 cunctative 3
 cunctator
-cunctatury
+cunctatury 1
 corallus
 censed 1
 cyathea 1
