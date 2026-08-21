@@ -10535,7 +10535,7 @@ adscript
 anneal 2
 arret
 amidism 1
-aboon
+aboon 1
 ambitendency 1
 acridid 1
 armenians 1
@@ -22576,7 +22576,7 @@ addicts 1
 anisoleucocytosis
 ateliotic 2
 atelo
-atelocephalous 1
+atelocephalous 2
 alternativo 3
 aselline
 ateloglossia 2
@@ -25030,7 +25030,7 @@ acampsia
 autantitypy 1
 astrometer 1
 attentionality 2
-awkwarder 3
+awkwarder 4
 awless 2
 awlwort 2
 aweary
