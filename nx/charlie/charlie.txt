@@ -7353,7 +7353,7 @@ cleansing 1
 cephalomere 2
 cyclostylar
 cephalometric
-cephalonasal
+cephalonasal 1
 cephalopathy
 cephalopharyngeal
 cephalophyma
@@ -12327,7 +12327,7 @@ christlike 1
 cinches
 carafon 1
 christmasing
-christocentric
+christocentric 1
 christogram
 christolatry
 controverts
@@ -13380,7 +13380,7 @@ cunoniaceous
 concurrency 3
 cyclostomes
 cricketing
-cyclostomi
+cyclostomi 1
 cedent 1
 cyclothymiac 1
 cocci 1
@@ -14985,7 +14985,7 @@ cytulae
 colormaking
 ciudad 3
 cosmesis 1
-carpetless
+carpetless 1
 carbonado 2
 civet
 coadjutrice
@@ -29126,7 +29126,7 @@ catherine 2
 cellulation
 civilisatory
 clubbism
-crinoidea
+crinoidea 1
 cachexy
 casper
 chicagoan 1
@@ -31304,7 +31304,7 @@ curbline 1
 crackle 1
 curbs 1
 curbside 1
-curbstone
+curbstone 1
 curbstoner
 curcas
 citric
