@@ -6287,7 +6287,7 @@ baltic 1
 btise 1
 benthic
 barbar
-bagfuls
+bagfuls 1
 bevors 1
 benthoscope 1
 bulgar
@@ -10106,7 +10106,7 @@ blabbing 1
 blabmouth 1
 bravadoism
 bludgeoneer 1
-beamish 2
+beamish 3
 bretonian 1
 behave 2
 blackamoors
