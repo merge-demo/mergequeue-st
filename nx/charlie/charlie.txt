@@ -19648,7 +19648,7 @@ colzas
 com 3
 coma
 comprobate
-carillon
+carillon 1
 comacine 1
 comade
 comagmatic 1
