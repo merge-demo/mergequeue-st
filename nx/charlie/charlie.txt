@@ -16846,7 +16846,7 @@ clubfoot 2
 clubfooted 1
 clubhand
 crouching 3
-clubhands
+clubhands 1
 cerebralgia 1
 clubhaul
 correctant
@@ -28560,7 +28560,7 @@ creditress 2
 citronade 3
 creditrix 1
 crednerite 1
-cubebs
+cubebs 1
 cellipetal 1
 cavallies 2
 crustaceans
