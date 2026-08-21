@@ -512,7 +512,7 @@ foresense 3
 falco 1
 fermentive 1
 forgivableness 2
-forepaled
+forepaled 1
 fetterless 1
 fustigating 4
 falcon 1
@@ -1751,7 +1751,7 @@ fireworms
 fedn 2
 forehear
 featherfew 2
-fluoridates 2
+fluoridates 3
 featheriness 1
 frogface
 foreslack 1
@@ -1951,7 +1951,7 @@ fishlet
 flagellantism 1
 fowlery 1
 fatherhood 1
-foreknower
+foreknower 1
 fearers
 familiarizingly 1
 falsify 1
@@ -2536,7 +2536,7 @@ feeler 1
 frugivorous 2
 foal 3
 fibromembranous
-filamentule 3
+filamentule 4
 frangibility 1
 freeboot 2
 fem 1
@@ -2740,7 +2740,7 @@ fyce 1
 feod 1
 fusses 3
 fraela 1
-folklore 3
+folklore 4
 faunas 2
 framing
 feedy 1
@@ -3983,7 +3983,7 @@ fairydom 1
 felicitation 4
 frontlessness
 forechoose 1
-friese 2
+friese 3
 flattish
 forfeited 1
 foxbane 1
@@ -4892,7 +4892,7 @@ fraternalism 1
 faucets 2
 fulvidness 3
 farina 2
-flyman 4
+flyman 5
 federationist 2
 fathered 2
 floggings 3
@@ -6772,7 +6772,7 @@ fronded 1
 fissate
 focal 2
 folacin 1
-falsidical 1
+falsidical 2
 foibles
 finder 3
 flukiest 1
@@ -7221,7 +7221,7 @@ fiscalized
 formicivorous 1
 forfeits 1
 frizzlers 1
-faenas 1
+faenas 2
 footpaces 1
 fifer
 foolocracy 1
@@ -7426,7 +7426,7 @@ flawflower 1
 figgum 4
 fille 3
 fawnlike 1
-fans 2
+fans 3
 faintful 1
 fleckiest 1
 firefang 3
@@ -9007,7 +9007,7 @@ floit 1
 flywort 4
 footle 1
 feldspath 3
-feverwort 1
+feverwort 2
 filament 2
 favositoid
 formally 2
@@ -9930,7 +9930,7 @@ fosh
 felinophobe 4
 frickle 1
 ferrel 5
-frontager 1
+frontager 2
 furilic 1
 frozenly 3
 flamingo
@@ -10392,7 +10392,7 @@ fulgora
 floorshow 1
 filicoid 2
 fezziwig
-foretimes 3
+foretimes 4
 fidding 3
 formicaries 1
 fantoddish
