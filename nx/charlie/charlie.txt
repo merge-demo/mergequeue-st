@@ -5199,7 +5199,7 @@ cashers
 cashes
 cashgirl
 concordatum 1
-cocentric
+cocentric 1
 cashiered
 citril 2
 chenopodium 1
@@ -5690,7 +5690,7 @@ col
 catarrhina 1
 charlie
 catarrhous
-catarrhs 2
+catarrhs 3
 coburgher
 catasarka
 catasetum 1
@@ -16275,7 +16275,7 @@ clinopodium
 conterminous
 constrainment 1
 cosmopolitan
-curvilinear 1
+curvilinear 2
 civilise 2
 citronize
 clint
@@ -20962,7 +20962,7 @@ cobhead
 capriccio
 cultuses
 comprizing
-casshe
+casshe 1
 cresol
 comprobation 1
 comproduce
@@ -31430,7 +31430,7 @@ crouton
 cycladic 1
 curlike
 cantharidal 3
-curlylocks 4
+curlylocks 5
 cadew
 colback 1
 concinnated
