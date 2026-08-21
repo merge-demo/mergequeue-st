@@ -2811,7 +2811,7 @@ bowdlerism 4
 body
 barosinusitus 1
 barosmin 2
-backwashed 1
+backwashed 2
 bassoonist 2
 blithefully 1
 buffaloback 4
@@ -3064,7 +3064,7 @@ bdellostomatidae
 barvel 2
 bunnell
 baleful 1
-beduin 1
+beduin 2
 brainwashing 2
 braza
 burhead 1
@@ -16379,7 +16379,7 @@ buzzardly 5
 brulzies
 biloculate 2
 brumbie 2
-bedew
+bedew 1
 blepharoncus 1
 brawlier
 bemoaner 1
