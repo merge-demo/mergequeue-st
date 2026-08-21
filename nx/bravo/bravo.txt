@@ -1170,7 +1170,7 @@ baywoods 1
 bodhisat 2
 bridgeway 1
 bigbloom 2
-bedsteads 2
+bedsteads 3
 ballasting 1
 balladized 3
 baiza
@@ -8891,7 +8891,7 @@ blankmindedness
 biocenosis 1
 burgraviate 3
 basket
-branchiopodan 1
+branchiopodan 2
 belialist 2
 biochemic 1
 bromvogel
@@ -8915,7 +8915,7 @@ bathwater 2
 bavoso
 blabber
 bussed 2
-bioclimatologically 3
+bioclimatologically 4
 bothropic
 bioclimatologist 3
 blowflies 3
@@ -9037,7 +9037,7 @@ bionditional 2
 bionics 1
 brachyprosopic
 bionomic 1
-bursas
+bursas 1
 bionomically 1
 beaneries
 bionomies
@@ -10089,7 +10089,7 @@ bkg 1
 backsey
 bks 1
 bkt 1
-bibliogony
+bibliogony 1
 beflum
 baboosh
 blaasop
@@ -10972,7 +10972,7 @@ bucketshop
 birdcatcher
 blissful
 bughead
-bookcase 1
+bookcase 2
 blissom 2
 balden
 buxomer
@@ -11598,7 +11598,7 @@ basilicalike 2
 bromous
 befog
 behindsight 2
-bounced
+bounced 1
 bathers 2
 bighorns
 brooklime 3
@@ -12549,7 +12549,7 @@ barnage 2
 balsamroot 2
 bourgeoning 1
 brails 2
-bisulphate 2
+bisulphate 3
 bridehead 1
 boniface 1
 battle
@@ -15630,7 +15630,7 @@ barenecked 2
 bristlelike 1
 brigander
 beingless 4
-borer 3
+borer 4
 babyhoods 1
 blurriest 3
 bristliness 2
@@ -16493,7 +16493,7 @@ bimillennium 1
 bozal
 biomaterial 1
 breathableness 3
-bequote
+bequote 1
 biasness 1
 bursattee
 brusquest
@@ -17893,7 +17893,7 @@ bushelers 1
 bankcard
 bescurvy 2
 bushelfuls 1
-belabour
+belabour 1
 bonytail
 buginese
 bisulc 1
