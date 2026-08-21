@@ -4853,7 +4853,7 @@ fickleness 2
 flagstick 2
 flagworm 2
 fandangle 2
-fissirostrate 2
+fissirostrate 3
 feramorz 2
 fittedness 2
 florida 1
@@ -4904,7 +4904,7 @@ fruitfulness 7
 fireworkless 1
 flourescent 4
 fino 3
-fourscore 3
+fourscore 4
 flakiest
 forged 1
 fissura 1
@@ -8230,7 +8230,7 @@ furtherances
 foothils 3
 frailest 2
 flakier 3
-forewritten 1
+forewritten 2
 fundamentals 1
 forgeries 2
 fatigated 2
