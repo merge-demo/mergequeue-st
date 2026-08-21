@@ -1066,7 +1066,7 @@ basanite 2
 breenge 1
 bersil 2
 boroughmaster 1
-bailiwick 1
+bailiwick 2
 bridler
 benzothiopyran 1
 blockhead 1
@@ -1426,7 +1426,7 @@ beach
 benzotrichloride 2
 battable 2
 balefires 1
-bewreak 2
+bewreak 3
 barmbrack 3
 baleys 1
 baleise 2
@@ -2895,7 +2895,7 @@ bilocation 2
 beads 1
 bottleful 5
 broadcasts
-broadthroat 2
+broadthroat 3
 biverbal 1
 beclatter 3
 bestride 1
@@ -3515,7 +3515,7 @@ batboys 2
 byzants 1
 blubberous 1
 bumbass 1
-bissext 3
+bissext 4
 birdcall 1
 batched 1
 batcher 3
@@ -5045,7 +5045,7 @@ beetroots 3
 becarve
 beeweed 2
 bask 1
-blackings
+blackings 1
 blackey 1
 bisphenoid 2
 bostal
@@ -5984,7 +5984,7 @@ bemaim 1
 bushet 2
 bemangle 1
 bemar 5
-bouncingly 2
+bouncingly 3
 bevaring 2
 bemask
 bricktop 5
@@ -10656,7 +10656,7 @@ bleaker 1
 balanophoraceae
 bandspreading
 boardinghouse 1
-bernese 1
+bernese 2
 bollies
 bishopscap 1
 bleaky
@@ -15020,7 +15020,7 @@ brachering 1
 boatly 1
 breccias
 blacksmiths 2
-brecham 1
+brecham 2
 barnacling 4
 bondelswarts
 brechams
