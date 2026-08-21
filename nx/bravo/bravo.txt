@@ -2895,7 +2895,7 @@ bilocation 2
 beads 1
 bottleful 5
 broadcasts
-broadthroat 2
+broadthroat 3
 biverbal 1
 beclatter 3
 bestride 1
@@ -3515,7 +3515,7 @@ batboys 2
 byzants 1
 blubberous 1
 bumbass 1
-bissext 3
+bissext 4
 birdcall 1
 batched 1
 batcher 3
@@ -10656,7 +10656,7 @@ bleaker 1
 balanophoraceae
 bandspreading
 boardinghouse 1
-bernese 1
+bernese 2
 bollies
 bishopscap 1
 bleaky
