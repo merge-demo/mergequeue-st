@@ -8437,7 +8437,7 @@ chamfering
 characterstring
 crummed 1
 champaka 1
-conducts 1
+conducts 2
 clubridden 3
 champaks 2
 cholines 2
@@ -17363,7 +17363,7 @@ cutleress 1
 channeled
 condensible 1
 churchmaster
-coatdress 1
+coatdress 2
 conserve 1
 conveyorizer
 coated
@@ -21753,7 +21753,7 @@ condone
 condonement
 condoner 1
 condoners 1
-cypriotes 2
+cypriotes 3
 counterthwarting
 condones
 clematis
@@ -26869,7 +26869,7 @@ counterfessed
 counterfire 1
 counterflange 1
 cruzados 1
-counterfleury
+counterfleury 1
 counterfoil
 counterforce
 cosmopolitanizing 2
@@ -30346,7 +30346,7 @@ crampfish
 cruppered
 celsitude
 cruppering
-crura 1
+crura 2
 complexionably 1
 crural 1
 counterattacks
@@ -31176,7 +31176,7 @@ correspondences
 coenflame
 celite
 calonectria 2
-cupolated 1
+cupolated 2
 chewstick
 covetingly 1
 cuppen 1
@@ -31572,7 +31572,7 @@ curtalaxes
 curtate 1
 curtein 1
 chilion
-climbers
+climbers 1
 curteous 2
 curter
 curtesies
