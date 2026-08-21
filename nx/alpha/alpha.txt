@@ -1335,7 +1335,7 @@ assortive 1
 argentinize 4
 autodrainage 2
 acates
-acatholic
+acatholic 1
 attemptless 1
 aromatic 2
 aggregant
@@ -1565,7 +1565,7 @@ armoric 1
 airborn
 accomplicity 1
 asturian
-accomplisher
+accomplisher 1
 angelican 1
 arthrodesis
 aegithalos
@@ -6685,7 +6685,7 @@ ailanthuses 3
 armstrong 2
 ailanto
 ailed
-aileron 2
+aileron 3
 adradius
 arakanese
 anatolian
@@ -8196,7 +8196,7 @@ algoman 1
 algometrical
 approachabl 1
 algometrically 3
-alictisal
+alictisal 1
 apathize
 applicant
 anastasis 1
@@ -9311,7 +9311,7 @@ along 2
 ambeer 1
 ataxiameter
 alongships 1
-abasements
+abasements 1
 alongshore
 archbishops
 alemana 1
@@ -9580,7 +9580,7 @@ altingiaceous 2
 antherozooid 1
 attitudinising 2
 angariation 2
-altiplano 1
+altiplano 2
 agnuses 1
 alkalized
 altitudinarian
@@ -11279,7 +11279,7 @@ aimers 2
 advocating 3
 amphigenous 2
 antimetabole 1
-amphigenously 2
+amphigenously 3
 ascorbate
 aliunde 1
 alismaceous
@@ -12741,7 +12741,7 @@ angelico
 acetylize
 azox
 attle
-alliterated 1
+alliterated 2
 angelical
 angelized 1
 angellike 1
@@ -13634,7 +13634,7 @@ ambuscading
 annulosa
 antings 1
 annuls 1
-adorableness 1
+adorableness 2
 aboundingly 1
 actinopterygious
 arsine
@@ -13728,7 +13728,7 @@ afferent 1
 avatar 4
 anomalism 2
 anomalist
-aromatite
+aromatite 1
 anomalistic
 acaudate 1
 andor 1
@@ -17460,7 +17460,7 @@ availability 2
 anamorphic
 armers
 amplifying 1
-autobasidia 1
+autobasidia 2
 appanage 1
 arthrostraca
 appanaged 1
@@ -19180,7 +19180,7 @@ amidship 1
 arctoidean 1
 arctos 2
 arctosis 3
-ager 1
+ager 2
 acetylasalicylic 1
 agcy 1
 allituric 1
@@ -22667,7 +22667,7 @@ abhorrible
 aphrosiderite
 acylates
 autocracy 2
-atheriogaean 1
+atheriogaean 2
 atheris
 annotto 2
 athermanous
