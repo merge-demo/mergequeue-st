@@ -753,7 +753,7 @@ crimpiness
 corners 1
 chasselas
 cages 2
-cocoa 1
+cocoa 2
 colonelship 1
 cagester 1
 cogrediency
@@ -14532,7 +14532,7 @@ cystalgia
 cystamine 1
 chinnier 2
 commatism
-cysteamine 1
+cysteamine 2
 cystectasia
 contestate 3
 campout 1
@@ -20741,7 +20741,7 @@ carioling
 clavuvi
 complexionary
 chemiphotic
-complexioned
+complexioned 1
 carbonade
 cirurgian 1
 complexionless
@@ -21461,7 +21461,7 @@ chelingos 1
 concoctive
 choco 1
 celestialized 3
-crowfoot
+crowfoot 1
 congius
 coigned
 chilostomata
@@ -24332,7 +24332,7 @@ cooghneiorvlt 2
 colalgia
 cooing
 cyclovertebral
-conchie
+conchie 1
 cooingly 2
 cottonpicking
 cooja 1
@@ -25377,7 +25377,7 @@ cornelia
 coner 1
 concessioner
 cornell
-corneosclerotic
+corneosclerotic 1
 cheer
 cambogias
 counterly
@@ -27304,7 +27304,7 @@ countship
 coupage
 coupe
 couped
-canner
+canner 1
 cicrumspections
 cocus
 calked
