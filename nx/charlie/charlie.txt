@@ -1760,7 +1760,7 @@ chipped
 coloured
 calumniates
 comeliness
-calumniating
+calumniating 1
 calumniation 1
 coaldealer 1
 consolably
@@ -14545,7 +14545,7 @@ cystelcosis
 cosmologic
 choppy
 cistercianism
-cisternae 2
+cisternae 3
 cisternal 3
 cornier 1
 compotier
@@ -15100,7 +15100,7 @@ cacumen 2
 chipling
 cladodial 3
 cladodium 1
-centinel
+centinel 1
 cladodont 1
 closetful 1
 cruelties
@@ -15835,7 +15835,7 @@ cleavable
 cleavage 3
 cleavages
 cleaveful 1
-cleavelandite
+cleavelandite 1
 contentness 1
 cleaver 1
 cleavers 1
