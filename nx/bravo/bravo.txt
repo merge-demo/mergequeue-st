@@ -1426,7 +1426,7 @@ beach
 benzotrichloride 2
 battable 2
 balefires 1
-bewreak 2
+bewreak 3
 barmbrack 3
 baleys 1
 baleise 2
@@ -2895,7 +2895,7 @@ bilocation 2
 beads 1
 bottleful 5
 broadcasts
-broadthroat 2
+broadthroat 3
 biverbal 1
 beclatter 3
 bestride 1
@@ -3515,7 +3515,7 @@ batboys 2
 byzants 1
 blubberous 1
 bumbass 1
-bissext 3
+bissext 4
 birdcall 1
 batched 1
 batcher 3
@@ -5045,7 +5045,7 @@ beetroots 3
 becarve
 beeweed 2
 bask 1
-blackings
+blackings 1
 blackey 1
 bisphenoid 2
 bostal
@@ -10656,7 +10656,7 @@ bleaker 1
 balanophoraceae
 bandspreading
 boardinghouse 1
-bernese 1
+bernese 2
 bollies
 bishopscap 1
 bleaky
@@ -17107,7 +17107,7 @@ baldpated
 bulletining 1
 batches 2
 bulletless
-branchiobdella 1
+branchiobdella 2
 basecoat 1
 bulletlike 1
 burghmote
