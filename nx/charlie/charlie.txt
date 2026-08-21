@@ -3518,7 +3518,7 @@ chawbone 1
 capsulectomy 1
 chloroforming 1
 centinody
-countershaft 2
+countershaft 3
 crenelling
 chappow
 capsuliferous
@@ -5584,7 +5584,7 @@ crushingly
 catalepsis 1
 corrodentia 1
 catalexis
-catalin
+catalin 1
 curule
 cauponation 1
 coxing
@@ -24917,7 +24917,7 @@ corallidomous
 congroid 1
 coralliform
 coralligena
-coralligenous 1
+coralligenous 2
 clappe
 coralligerous
 corallin 2
@@ -27842,7 +27842,7 @@ cozens
 cyclometers 1
 cozes 1
 cerebroside
-cozie
+cozie 1
 civiliser 1
 canfields 1
 cp
