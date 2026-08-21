@@ -13522,7 +13522,7 @@ cylindrodendrite 1
 cylindrograph
 compilers
 chisel
-chrysocolla
+chrysocolla 1
 comitiva
 cylindroid
 ceratites
@@ -24657,7 +24657,7 @@ clamshell
 calliperer
 coplanarities
 cavern
-cozinesses 1
+cozinesses 2
 copleased 1
 coplot 1
 comoquer
