@@ -19889,7 +19889,7 @@ aeolis
 armlike
 armlock 1
 autoconvection 2
-armoracia
+armoracia 1
 albertite
 akuammin 1
 adonises
