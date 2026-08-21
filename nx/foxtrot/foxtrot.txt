@@ -512,7 +512,7 @@ foresense 3
 falco 1
 fermentive 1
 forgivableness 2
-forepaled
+forepaled 1
 fetterless 1
 fustigating 4
 falcon 1
@@ -9007,7 +9007,7 @@ floit 1
 flywort 4
 footle 1
 feldspath 3
-feverwort 1
+feverwort 2
 filament 2
 favositoid
 formally 2
