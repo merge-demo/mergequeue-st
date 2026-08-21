@@ -739,7 +739,7 @@ footbreadth 1
 fanatism 1
 fabricating 2
 farcilite 2
-flybelt 2
+flybelt 3
 frozenness 1
 fishgrass 5
 fluxions 2
@@ -780,7 +780,7 @@ flipe 2
 floosy 1
 fustanelle
 familiarizes 1
-fantasticalness 1
+fantasticalness 2
 forcible
 frisk 3
 fowl
@@ -880,7 +880,7 @@ foreperiod 2
 farawayness 2
 firmland
 fanums 2
-fenberry 3
+fenberry 4
 falangism 3
 fadaise 4
 fleabug 1
@@ -2130,7 +2130,7 @@ feldsparphyre 3
 fountainous
 foreprize 1
 fulsome
-faculous 2
+faculous 3
 favours 3
 foddered 3
 fellatrice 2
@@ -3068,7 +3068,7 @@ filtratable 4
 fairily 2
 freeish 1
 fluorin 2
-filmizing 3
+filmizing 4
 frounceless
 freend
 flopping 2
@@ -6675,7 +6675,7 @@ faence
 fofarraw 1
 falderol 3
 fungicide 3
-fortifier 2
+fortifier 3
 faqirs 2
 feted 1
 flyblow 2
@@ -10115,7 +10115,7 @@ fetalism 3
 fuscescent 3
 flammability
 fellowed
-friskin 4
+friskin 5
 friskiness
 frisking 1
 frisks 4
