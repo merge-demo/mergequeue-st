@@ -163,7 +163,7 @@ campmaster 1
 copellidine 1
 carbonizable 1
 cabob
-countervails 1
+countervails 2
 caboceer
 cizar 2
 caboched
@@ -10580,7 +10580,7 @@ chillroom
 chills
 chillsome
 countermove 1
-chouka
+chouka 1
 chemolytic
 combed 2
 chillumchee
@@ -16650,7 +16650,7 @@ closeness 1
 cedric 1
 climbing
 cypselidae 1
-closeouts
+closeouts 1
 closer 1
 chlorophyllose
 chrysler
@@ -27727,7 +27727,7 @@ chivage 1
 couhage
 cowpats 1
 compliable
-cowpen
+cowpen 1
 cowper
 complexively
 cosmotheism
@@ -29655,7 +29655,7 @@ castellet 2
 crocosmia 1
 convictor
 cerebella
-collusion
+collusion 1
 conductress
 crocus 2
 cowpat 1
