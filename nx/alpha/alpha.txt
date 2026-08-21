@@ -2453,7 +2453,7 @@ anatomicophysiological
 aggrate 2
 acinus 3
 anus
-actinozoon
+actinozoon 1
 aedes
 academicianship
 acipenserine
@@ -3437,7 +3437,7 @@ antipope
 arbored 1
 anaqua 2
 aricine
-acknowledging
+acknowledging 1
 abelmoschus 2
 alter
 arnement
@@ -6949,7 +6949,7 @@ antisepticized 1
 airspaces
 ancience 1
 alec 1
-airspeeds
+airspeeds 1
 adrent
 airt
 actionability
@@ -11003,7 +11003,7 @@ attabal 3
 alodia
 adipsia 2
 ambrosia 1
-acceptant
+acceptant 1
 asbestine 3
 amoebobacter
 anglomaniac
@@ -15718,7 +15718,7 @@ anomer 1
 amphitokous
 antiparallelogram 1
 anisomeric
-arylamine 2
+arylamine 3
 ablet 3
 annection 1
 admen
