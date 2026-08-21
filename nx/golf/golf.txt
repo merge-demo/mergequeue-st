@@ -120,7 +120,7 @@ grosz 3
 genotypicity 1
 giher 2
 ginete 1
-gastly 1
+gastly 2
 gazogene 3
 gypsyhood 1
 girdled
@@ -3611,7 +3611,7 @@ glottides 2
 grisaille
 galvanize 4
 gpm
-grungier 2
+grungier 3
 graeae 1
 gangwa
 georgie
@@ -3642,7 +3642,7 @@ garrisonism 4
 gallinae
 gnathite 1
 goalmouth 2
-gherkins 1
+gherkins 2
 gyrencephalic 4
 ghostier 1
 galah 1
@@ -7212,7 +7212,7 @@ gape 1
 gorgosaurus 1
 galenism 1
 gorillalike 1
-guardage 1
+guardage 2
 gemlike 1
 gamesters 1
 grimliness 2
@@ -7404,7 +7404,7 @@ groupable 3
 gastromalacia 1
 gasolineless 2
 grewsomely 3
-gange 2
+gange 3
 gastrohysterectomy 1
 geometroid
 gothamite 5
@@ -9619,7 +9619,7 @@ geests 2
 goiter 2
 grizzlier 2
 guarish 2
-gummite 1
+gummite 2
 grandma
 gatefold 1
 guisarme 1
@@ -10069,7 +10069,7 @@ gauntest 1
 graecize
 gramophonically 3
 gymnoglossate 1
-guesser 1
+guesser 2
 geoffroyin 3
 gonads 2
 gypsies 1
