@@ -1647,7 +1647,7 @@ gastrodermis
 gulfweed 1
 galeopithecus
 glycin 2
-globed 1
+globed 2
 gastroduodenitis 5
 guadua 1
 gastroduodenostomy 1
@@ -2353,7 +2353,7 @@ greenboard 4
 ganisters 1
 gedds 3
 gormandise 2
-grampa 2
+grampa 3
 garnisheing
 granddaughterly 4
 gentianal 2
@@ -2533,7 +2533,7 @@ grig 3
 grubbies 3
 gain 4
 guilder 2
-gynecium 2
+gynecium 3
 gummata 1
 gurle 3
 gomeisa 1
@@ -2626,7 +2626,7 @@ globulicidal 3
 gunmen 1
 genetika 2
 gurgeon 3
-gathering 4
+gathering 5
 greatest 1
 gonotocont 3
 guaraguao 1
@@ -4656,7 +4656,7 @@ geode 2
 gallinula 1
 gynodioecism 2
 gymnasiast 1
-gentilities
+gentilities 1
 gumshoe 2
 glucosuria 1
 grudgingly 3
@@ -5259,7 +5259,7 @@ gymnadeniopsis
 grouping 3
 gospodar 1
 glyceroxide 3
-glycide
+glycide 1
 gladiest 3
 gangmaster 1
 glabrous 1
@@ -9450,7 +9450,7 @@ guacharos 1
 geoplagiotropism 4
 gigues
 gallinulinae 4
-groundy 1
+groundy 2
 girrit 1
 ganosis 2
 graciosos 2
@@ -10500,7 +10500,7 @@ graveman 3
 gonocytes 2
 genuineness 1
 grecized 1
-gymnorhininae 2
+gymnorhininae 3
 giftling 1
 gyrational 1
 gimmicks 1
