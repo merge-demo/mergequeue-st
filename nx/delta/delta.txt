@@ -8682,7 +8682,7 @@ desalinizing
 dichastasis
 deathrate 2
 depolarizing 1
-diethylethanolamine 1
+diethylethanolamine 2
 diastereoisomerism 1
 dodges
 druid 1
@@ -11078,7 +11078,7 @@ dulled 2
 dorhawk 1
 disarticulating 1
 disarticulation 4
-detruded
+detruded 1
 disarticulator
 disasinize 2
 deliciously
@@ -18515,7 +18515,7 @@ disawa 2
 datch 1
 drongos
 durances 1
-downcast 1
+downcast 2
 divorced
 duraspinalis
 diacritic
