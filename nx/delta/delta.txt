@@ -1059,7 +1059,7 @@ darn 1
 darndest 1
 darnels 1
 dehepatize 1
-destandardize 2
+destandardize 3
 diplohedral 1
 dishes
 diacodium 1
@@ -1717,7 +1717,7 @@ dobl
 decoding 1
 disturber
 dermoneural 1
-dearthfu
+dearthfu 1
 disscussive
 doublehearted 1
 datamation 2
@@ -1943,7 +1943,7 @@ debtee 2
 denudated
 debtless 2
 desilverized 1
-dwines
+dwines 1
 dominoes 2
 disobeys 1
 dreader
@@ -2479,7 +2479,7 @@ deckhand
 duckwing 1
 deckle 3
 dulls
-drumlin
+drumlin 1
 discal
 diatropism 1
 deferral 1
@@ -4312,7 +4312,7 @@ desyl
 dendrodic
 dysphagic 2
 delead 1
-demanganization
+demanganization 1
 dishonourableness 1
 ductal
 daunton
@@ -7199,7 +7199,7 @@ dicast 2
 dynamis 2
 demijohns
 demulsifying
-detain 1
+detain 2
 decadactylous 2
 detainal 1
 destructionist 3
@@ -11518,7 +11518,7 @@ dodrantal 3
 detective 1
 denationalised 1
 downland
-desorbs 1
+desorbs 2
 discompanied 1
 disavowing 1
 deepmouthed
@@ -12228,7 +12228,7 @@ dysgonic 1
 dehortation 1
 dataflow 2
 discrepancy
-disgorged 2
+disgorged 3
 disendowed 2
 drawing
 distrusting
@@ -12315,7 +12315,7 @@ detracted
 dactyl 2
 dromaeognathous
 dielectrics 1
-doitrified
+doitrified 1
 discharged 1
 decolorimeter 2
 differentiates 2
@@ -13002,7 +13002,7 @@ distater 2
 dispand 1
 dusts 1
 descaling 1
-diphthongized 2
+diphthongized 3
 dispar
 disparageable 3
 dingies 1
@@ -14495,7 +14495,7 @@ delassement 1
 desk
 dedition
 dipleidoscope 3
-decolonised
+decolonised 1
 dewfalls
 divided 1
 dividends 1
@@ -16151,7 +16151,7 @@ dovelike 2
 dumbledore 1
 dephosphorization 1
 decadarch 2
-dovelikeness
+dovelikeness 1
 diminishments 1
 deciphers 1
 doo 3
@@ -17228,7 +17228,7 @@ duffers 3
 dition 2
 difformed 1
 disintricate 2
-drysne 2
+drysne 3
 dictyonema 3
 director 2
 diaphoresis 3
