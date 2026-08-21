@@ -1170,7 +1170,7 @@ baywoods 1
 bodhisat 2
 bridgeway 1
 bigbloom 2
-bedsteads 2
+bedsteads 3
 ballasting 1
 balladized 3
 baiza
@@ -4596,7 +4596,7 @@ bedazzle 1
 blared
 bylina 2
 banters
-bilker
+bilker 1
 baloskionaceae 2
 ballbuster 1
 bedazzles
@@ -5723,7 +5723,7 @@ bemuzzles
 boilingly 1
 badman
 beliers 1
-belies 1
+belies 2
 believers 2
 benzotetrazine
 beamful
@@ -6754,7 +6754,7 @@ bufonid 2
 bergamot 1
 bushiest
 berry 1
-buchnerite 1
+buchnerite 2
 binturong 1
 brotherlike 3
 banshee 1
@@ -8625,7 +8625,7 @@ backscatters 2
 byrlady
 barragon 2
 behind 2
-bactericide
+bactericide 1
 burgees 1
 billionism 1
 billionth 1
@@ -10894,7 +10894,7 @@ bangers
 boxball
 barracker 2
 blooddrops 2
-buttals
+buttals 1
 blasphemy
 bevue 1
 bronchoadenitis 1
@@ -11598,7 +11598,7 @@ basilicalike 2
 bromous
 befog
 behindsight 2
-bounced
+bounced 1
 bathers 2
 bighorns
 brooklime 3
@@ -15630,7 +15630,7 @@ barenecked 2
 bristlelike 1
 brigander
 beingless 4
-borer 3
+borer 4
 babyhoods 1
 blurriest 3
 bristliness 2
@@ -17893,7 +17893,7 @@ bushelers 1
 bankcard
 bescurvy 2
 bushelfuls 1
-belabour
+belabour 1
 bonytail
 buginese
 bisulc 1
