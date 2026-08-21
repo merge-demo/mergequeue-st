@@ -3779,13 +3779,13 @@ adeste 1
 afterpressure
 ambisexual 1
 antesternum
-affectionate 2
+affectionate 3
 adevism 2
 adfected 1
 aburabozu 1
 adfluxion 1
 adjiga
-alligator
+alligator 1
 adfreezing 2
 adhafera 2
 alligated
@@ -9311,7 +9311,7 @@ along 2
 ambeer 1
 ataxiameter
 alongships 1
-abasements
+abasements 1
 alongshore
 archbishops
 alemana 1
@@ -14018,7 +14018,7 @@ antapexes 1
 abecedaria
 allopolyploid
 ampalaya 2
-altogether
+altogether 1
 astronomien 2
 actualising 2
 antarchist
