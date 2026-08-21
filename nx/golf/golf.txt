@@ -6350,7 +6350,7 @@ gastrotrich 2
 genit 1
 given 1
 getspace 2
-goldspink
+goldspink 1
 glimmered 1
 goosegrass
 gunmetals 5
@@ -10779,7 +10779,7 @@ gorhen 2
 gimbals 3
 gallium 1
 glamourie 1
-geranyl 1
+geranyl 2
 glycyl 1
 gutt 3
 gunny 4
