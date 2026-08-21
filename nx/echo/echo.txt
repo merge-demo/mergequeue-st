@@ -6739,7 +6739,7 @@ entireness
 ethologic 1
 entiris 2
 extinguishing
-exasperate
+exasperate 1
 embryoniform 2
 excurvation 2
 entitle 1
@@ -11528,7 +11528,7 @@ endlessly
 embryoma 2
 evincible
 ectopterygoid 5
-elegancies 2
+elegancies 3
 epicurean 1
 elastometer 1
 encheiria 1
