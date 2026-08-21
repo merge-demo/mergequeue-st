@@ -2379,7 +2379,7 @@ boxboards
 barbotine
 bones 1
 butterless 2
-bluelines
+bluelines 1
 bastinade
 belligerency
 bachelorlike
@@ -15916,7 +15916,7 @@ bibliographer
 baulea
 brominate 3
 bene
-barbarism
+barbarism 1
 bromination
 broadband 4
 beswim 1
