@@ -4699,7 +4699,7 @@ celiocele 1
 carpals
 chela 2
 carpathian 1
-carped 1
+carped 2
 carpellary 2
 cytinaceous 1
 composograph
@@ -5611,7 +5611,7 @@ catalyzer 2
 catchalls
 compunctionary 4
 catallactic
-catallum
+catallum 1
 cladocerans
 chatterbag
 catalo
@@ -5923,7 +5923,7 @@ catfacing 1
 catfall 1
 catfalls
 catfight
-creeled
+creeled 1
 catfish
 catfoot
 catfooted
@@ -19116,7 +19116,7 @@ circumterraneous 1
 cristate 2
 collinsite
 collinsonia
-colliquable 1
+colliquable 2
 colliquate 1
 collyria
 collyrite
@@ -23138,7 +23138,7 @@ constantness
 constitutionalization 2
 camorrista
 constat
-caretaken 1
+caretaken 2
 chuddahs 3
 chamberletted
 constate
@@ -23907,7 +23907,7 @@ controvertible
 controverting
 coracine
 cullender
-counterproof 1
+counterproof 2
 compluvia
 craton 3
 contubernal
@@ -25235,7 +25235,7 @@ capitally
 codifiability
 cystidia
 cuffy
-creakingly 2
+creakingly 3
 chalastic 1
 corindon 1
 continually 1
@@ -25397,7 +25397,7 @@ cornetist 3
 cornetists 3
 cornets 1
 coquette
-cornetter
+cornetter 1
 carkled
 cornetti 2
 cornettino 1
@@ -25634,7 +25634,7 @@ cyclonometer
 cassites
 concetti 1
 corporativism
-coagule 1
+coagule 2
 corporeally
 corporeals 3
 corporeity 1
@@ -29334,7 +29334,7 @@ cytochalasin 1
 cryptolith
 cryptology
 conspiracies
-callas 2
+callas 3
 consubstantiality
 cryptomere
 cryptomerous
