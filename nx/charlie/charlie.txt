@@ -1774,7 +1774,7 @@ calumniative 1
 coapprover 2
 cheremissian
 christless
-coyer
+coyer 1
 calumniators
 chaos 1
 calumnious
@@ -2529,7 +2529,7 @@ candies
 candying
 candymaker 1
 cardiophobe 1
-candymaking 1
+candymaking 2
 candite
 candyweed 1
 candle 1
@@ -7371,7 +7371,7 @@ cephalopterus 1
 cephaloridine
 churruck 1
 confocal 2
-cadus
+cadus 1
 copecks
 cephalosome
 craniograph
@@ -7995,7 +7995,7 @@ chadarim 2
 chadelle
 culottes
 colloquy 2
-catsup
+catsup 1
 civilianization 2
 caryophyllaceous
 chador 1
@@ -9723,7 +9723,7 @@ cheirology
 ciconiidae 1
 colloidal 1
 cheiropatagium 1
-cleanness 1
+cleanness 2
 cheiropod
 congressed 2
 cheiropody
@@ -13380,7 +13380,7 @@ cunoniaceous
 concurrency 3
 cyclostomes
 cricketing
-cyclostomi
+cyclostomi 1
 cedent 1
 cyclothymiac 1
 cocci 1
@@ -14233,7 +14233,7 @@ camelopardidae
 circumgestation
 circumgyrate 2
 circumgyratory
-camisado
+camisado 1
 counterstruggle
 circumincession
 circuminsession 2
@@ -14985,7 +14985,7 @@ cytulae
 colormaking
 ciudad 3
 cosmesis 1
-carpetless
+carpetless 1
 carbonado 2
 civet
 coadjutrice
@@ -21216,7 +21216,7 @@ chiropractors
 conceptualism
 conceptualist 2
 choreographing
-contrasted 1
+contrasted 2
 cricoidectomy 2
 cananaean
 cospecific 1
@@ -24671,7 +24671,7 @@ charcoals
 cerebrating 2
 copolymer 1
 copolymerization 2
-copolymerize 1
+copolymerize 2
 cossas
 cruciated 1
 copolymerized
@@ -25545,7 +25545,7 @@ confervous 1
 coronaled 1
 coronalled
 coronals 1
-coronamen
+coronamen 1
 coronate 1
 calp
 corrosible 1
@@ -26574,7 +26574,7 @@ coadequate
 cargos
 cutter 3
 conjugata
-crenelated
+crenelated 1
 cantillate
 counterbewitch 1
 comparsa 2
@@ -30380,7 +30380,7 @@ cartopper 2
 capita 1
 coss 2
 crusily 1
-cerebellopontile
+cerebellopontile 1
 clytemnestra 1
 conttinua
 clenching
