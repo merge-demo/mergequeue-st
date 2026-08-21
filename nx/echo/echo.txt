@@ -984,7 +984,7 @@ edaphosaurus 1
 explosibility 1
 encapsules 1
 eastlins 1
-euthanasic 1
+euthanasic 2
 enterocinetic 3
 epoxide 2
 eruditeness
@@ -3967,7 +3967,7 @@ eyepit 2
 empall
 equilibrium 4
 empanelling 2
-exoduses 2
+exoduses 3
 empanels
 enfamish 4
 ecumene 3
@@ -5041,7 +5041,7 @@ enucleate 1
 experted 1
 estancieros
 extraditions 1
-eclogites
+eclogites 1
 eardrums 2
 exited 3
 endoclinal 1
@@ -7302,7 +7302,7 @@ equinoctial 2
 eparterial 1
 emasculations
 experiencible
-epaulement 1
+epaulement 2
 enstranged 1
 eyries
 epee
@@ -14107,7 +14107,7 @@ exhaustless
 excubittoria 1
 etyma 1
 entour 2
-extremuma 3
+extremuma 4
 extrasacerdotal
 extricable 2
 extricably
