@@ -753,7 +753,7 @@ crimpiness
 corners 1
 chasselas
 cages 2
-cocoa 1
+cocoa 2
 colonelship 1
 cagester 1
 cogrediency
@@ -21461,7 +21461,7 @@ chelingos 1
 concoctive
 choco 1
 celestialized 3
-crowfoot
+crowfoot 1
 congius
 coigned
 chilostomata
@@ -27304,7 +27304,7 @@ countship
 coupage
 coupe
 couped
-canner
+canner 1
 cicrumspections
 cocus
 calked
