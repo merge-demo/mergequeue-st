@@ -8700,7 +8700,7 @@ caconym
 chape 1
 coelomatic 2
 cobriform 1
-chapeled
+chapeled 1
 concion 1
 convalescency
 crenelle 2
@@ -24080,7 +24080,7 @@ citterns 1
 converges
 converging 1
 conversable
-conversableness 1
+conversableness 2
 conversancy
 camarillas
 cosmonautic 1
@@ -28373,7 +28373,7 @@ crawlers 3
 creamometer
 crawlier
 crawliest
-crawlspace
+crawlspace 1
 cliented 2
 cannibalistically 2
 chiave
