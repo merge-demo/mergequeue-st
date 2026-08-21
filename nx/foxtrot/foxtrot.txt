@@ -36,7 +36,7 @@ fabricates 2
 fabricator 2
 formularize 2
 flintless 1
-furies 1
+furies 2
 farmscape 4
 flick 3
 fervently 4
@@ -435,7 +435,7 @@ forelaying
 fluobromide 1
 forgetfully 2
 friskiest 2
-forewaters 1
+forewaters 2
 ferrophosphorus 3
 formulise
 flumdiddle 1
@@ -641,7 +641,7 @@ fames 2
 fuddled 2
 fichu 1
 finessing 3
-forerib 4
+forerib 5
 formism 2
 flan 1
 folklorish 2
@@ -1529,7 +1529,7 @@ fraised 2
 foreprepare 2
 fodderer 2
 filechar
-ferruminate 1
+ferruminate 2
 faucitis 2
 forconceit 1
 forgiveless 1
@@ -2024,7 +2024,7 @@ fefnicute 2
 fullam 3
 farragoes 2
 fannell
-fireworky
+fireworky 1
 fractionizing 4
 freshens 2
 fieldwards 1
@@ -2960,7 +2960,7 @@ finches 2
 forsay 2
 floodlike 1
 fallostomy 1
-flagship 1
+flagship 2
 fouquieriaceae 2
 fers 2
 freiezlebenhe 1
@@ -3115,7 +3115,7 @@ feeblehearted 2
 foursomes 2
 foresettle
 fogbank 4
-fairylike
+fairylike 1
 fountainheads 1
 fibrocement 1
 frenzies
@@ -5954,7 +5954,7 @@ freehand 1
 feretories 1
 forthinking 1
 furzes
-fearlessly 1
+fearlessly 2
 favonius 2
 frenchification 3
 frailly 3
@@ -7409,7 +7409,7 @@ foreclose 2
 forestland 2
 foolisher 2
 faying
-falterers
+falterers 1
 flavorsomeness 2
 flake 1
 finks
@@ -9051,7 +9051,7 @@ forra 2
 firethorn
 fled 1
 fourther 4
-fouter 2
+fouter 3
 foliator 1
 fustie 2
 facade
@@ -9294,7 +9294,7 @@ fibrinopurulent
 feral
 frug
 fertilities 2
-fraises 4
+fraises 5
 fascinery
 frontispieced 2
 fraktur
@@ -9634,7 +9634,7 @@ friableness 3
 frizzing 3
 fraternality 3
 fivestones 1
-ferrotyper 2
+ferrotyper 3
 floriken 2
 forhooy 1
 fothering 1
@@ -9985,7 +9985,7 @@ forceps 1
 friezer
 fiercely 1
 feazing
-fossilated 2
+fossilated 3
 fantoms 4
 fumatorium 2
 fa 2
@@ -10429,7 +10429,7 @@ flustrate 1
 fertilizable
 frontignan 1
 fronting 1
-fictional
+fictional 1
 fizzle 1
 focus 3
 feared 3
@@ -11480,7 +11480,7 @@ ferri 1
 foliolose 2
 freelancing 2
 figurational 2
-fevergum 2
+fevergum 3
 frowst 1
 fastgoing 2
 flays
