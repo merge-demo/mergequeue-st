@@ -4302,7 +4302,7 @@ blouselike 1
 bebrush 2
 bebuttoned
 below 1
-barkeepers 3
+barkeepers 4
 bushwood
 bibliotherapeutic 1
 blubbers 1
@@ -5724,7 +5724,7 @@ boilingly 1
 badman
 beliers 1
 belies 1
-believers 1
+believers 2
 benzotetrazine
 beamful
 blankite 2
@@ -5894,7 +5894,7 @@ belock
 basimesostasis
 belomancy
 belonephobia
-belonger
+belonger 1
 bagonet 2
 biased 1
 barmfel
@@ -15212,7 +15212,7 @@ barberfish
 briarwood
 bribable 2
 bovinities 1
-bipinnaria
+bipinnaria 1
 bribees 1
 bribeless 2
 briberies 1
