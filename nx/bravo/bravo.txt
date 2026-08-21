@@ -291,7 +291,7 @@ begrutch 1
 biolith
 booter 1
 benzacridine 1
-backslided 2
+backslided 3
 backberend 2
 backbite 1
 beeman 1
@@ -664,7 +664,7 @@ basat
 bromization 4
 breakshugh
 begalls
-bacteriotherapeutic
+bacteriotherapeutic 1
 bechances 2
 boatmen 1
 beletter 3
@@ -1054,7 +1054,7 @@ bad
 bailers 1
 brees 1
 bunglings
-bailiaries 1
+bailiaries 2
 botargos
 bailiffs 1
 blennorrhea 1
@@ -6087,7 +6087,7 @@ bataan 3
 boarskin 2
 binauricular 1
 benchership 2
-bodge 1
+bodge 2
 blusters
 benchful 1
 benchman
@@ -14597,7 +14597,7 @@ branding 1
 brandiron 3
 buddle 1
 bimaculate 2
-billhooks
+billhooks 1
 blume 1
 buri 1
 brandisite 1
@@ -15278,7 +15278,7 @@ bridally
 battologist 4
 bridals
 briarberry
-bellerophon 2
+bellerophon 3
 bluffed
 bourses
 blooddrop 1
@@ -17310,7 +17310,7 @@ boreholes 3
 bumpers 2
 baths
 blazons
-bumpkin 1
+bumpkin 2
 boltstrake 1
 blanketweed
 botts
@@ -17936,7 +17936,7 @@ bisinuate
 bushmasters
 bagwoman 1
 bushongo
-bangle
+bangle 1
 bedsides 2
 breezes
 bowwows 3
@@ -17947,7 +17947,7 @@ becking 1
 bathybic 2
 baryta
 bushwahs
-baggy 2
+baggy 3
 basemen 2
 boloroot 2
 bushlike
