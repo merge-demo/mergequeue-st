@@ -1426,7 +1426,7 @@ beach
 benzotrichloride 2
 battable 2
 balefires 1
-bewreak 2
+bewreak 3
 barmbrack 3
 baleys 1
 baleise 2
@@ -12098,7 +12098,7 @@ bolag
 bosey
 bolas 2
 bullnose 1
-bedell 1
+bedell 2
 bartsia
 balmacaan 1
 biglenoid 1
