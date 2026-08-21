@@ -984,7 +984,7 @@ edaphosaurus 1
 explosibility 1
 encapsules 1
 eastlins 1
-euthanasic 1
+euthanasic 2
 enterocinetic 3
 epoxide 2
 eruditeness
@@ -3191,7 +3191,7 @@ extraserous 1
 entomophagous
 episcopation 2
 enamoring 3
-esperantist
+esperantist 1
 enamelwork
 erosional 1
 euphrasia
@@ -3829,7 +3829,7 @@ emasculate 1
 eodiscid 2
 entreasured 2
 emerizing 2
-engrieve 2
+engrieve 3
 emerods
 epitomator
 emersed 1
@@ -3967,7 +3967,7 @@ eyepit 2
 empall
 equilibrium 4
 empanelling 2
-exoduses 2
+exoduses 3
 empanels
 enfamish 4
 ecumene 3
@@ -4890,7 +4890,7 @@ exactive 2
 eglestonite 1
 ecliptics 3
 estrada 4
-endamaging 3
+endamaging 4
 estreated 2
 ericeticolous 1
 exilable 4
@@ -5041,7 +5041,7 @@ enucleate 1
 experted 1
 estancieros
 extraditions 1
-eclogites
+eclogites 1
 eardrums 2
 exited 3
 endoclinal 1
@@ -5356,7 +5356,7 @@ ectopatagia 3
 erthling
 echinocactus 1
 electively
-evangelium 1
+evangelium 2
 endotys 4
 endotracheal 2
 empresario 1
@@ -7302,7 +7302,7 @@ equinoctial 2
 eparterial 1
 emasculations
 experiencible
-epaulement 1
+epaulement 2
 enstranged 1
 eyries
 epee
@@ -8986,7 +8986,7 @@ eunuchized 3
 etiolize 3
 equiponderous
 ebcasc 1
-effund
+effund 1
 erythremia 1
 entertainer 3
 erythric 1
@@ -14107,7 +14107,7 @@ exhaustless
 excubittoria 1
 etyma 1
 entour 2
-extremuma 3
+extremuma 4
 extrasacerdotal
 extricable 2
 extricably
