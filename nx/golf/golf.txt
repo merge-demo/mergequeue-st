@@ -753,7 +753,7 @@ genae 3
 galvanoplasty 4
 grovers 3
 gansa 1
-gestapos 3
+gestapos 4
 grapewise 2
 gerim 2
 gunbearer
@@ -2525,7 +2525,7 @@ grue 1
 generations
 ghylls 3
 gastrocolpotomy 4
-growleries 4
+growleries 5
 gastrula 3
 ganch 1
 generalities 3
