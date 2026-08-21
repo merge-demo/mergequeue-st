@@ -3569,7 +3569,7 @@ binode 1
 baizas
 blonds 1
 bathylithic
-bathymetry 1
+bathymetry 2
 bathymetrical 1
 biggonet 1
 bulleted 1
@@ -5266,7 +5266,7 @@ bridesmaiding 1
 bestseller 1
 blankbook
 bloods 1
-begetter 1
+begetter 2
 biogeochemistry
 bundlings 2
 byssin 2
@@ -7231,7 +7231,7 @@ bestrides 1
 bestrown
 bathochromatic 2
 bullshot
-ballywrack
+ballywrack 1
 barbarity 2
 ballplayers 2
 bipartible 2
@@ -10076,7 +10076,7 @@ backfired
 backwatered 2
 boarhound 2
 basidiolichen 1
-burglarious 2
+burglarious 3
 bizones 2
 bergeret 1
 biblos 1
