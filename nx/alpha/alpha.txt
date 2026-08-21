@@ -1335,7 +1335,7 @@ assortive 1
 argentinize 4
 autodrainage 2
 acates
-acatholic
+acatholic 1
 attemptless 1
 aromatic 2
 aggregant
@@ -11279,7 +11279,7 @@ aimers 2
 advocating 3
 amphigenous 2
 antimetabole 1
-amphigenously 2
+amphigenously 3
 ascorbate
 aliunde 1
 alismaceous
