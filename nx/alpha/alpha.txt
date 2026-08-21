@@ -3151,7 +3151,7 @@ attemper
 accentuated 1
 ambling 2
 amsterdam 3
-athyroidism 1
+athyroidism 2
 atmosteon 1
 arhythmic 1
 alphonso 1
@@ -5711,7 +5711,7 @@ ardeid 2
 agal 2
 agalactic 1
 agla 2
-appoggiaturas
+appoggiaturas 1
 agalaxia 1
 anisomelus 1
 agalena
@@ -12909,7 +12909,7 @@ anglepod 1
 anglepods 2
 amianthine
 adffroze 1
-arousement 2
+arousement 3
 angletouch
 abysses 2
 antiquarianly
@@ -17985,7 +17985,7 @@ apraxia 1
 acridly
 aerialists 1
 approximates
-approximation
+approximation 1
 approximations
 achlorophyllous 1
 antisexist 2
@@ -24558,7 +24558,7 @@ androcracy
 auxiliate 1
 azilian
 abiosis
-amusively 1
+amusively 2
 auxiliator 2
 auxilytic
 alebush 1
