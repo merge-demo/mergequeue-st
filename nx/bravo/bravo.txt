@@ -1967,7 +1967,7 @@ bework 1
 boreus 2
 bandsawn 2
 bandsman 1
-bandstand
+bandstand 1
 beseechment
 broadly
 bisection 1
@@ -9656,7 +9656,7 @@ bandboxy 3
 biol 1
 bishopstool
 bishopweed 1
-bobbinets
+bobbinets 1
 bestir 1
 benison
 blatti
@@ -12097,7 +12097,7 @@ bokom 3
 bolag
 bosey
 bolas 2
-bullnose
+bullnose 1
 bedell 1
 bartsia
 balmacaan 1
@@ -12749,7 +12749,7 @@ besprinkler 2
 bookmobiles
 botrycymose
 baroni 1
-burlesk
+burlesk 1
 bookpress 2
 bookracks 1
 blacklegging 1
