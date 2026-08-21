@@ -2533,7 +2533,7 @@ candymaking 1
 candite
 candyweed 1
 candle 1
-coehorn 3
+coehorn 4
 candleball
 candleberries 2
 candlebomb 2
@@ -4287,7 +4287,7 @@ caretaking
 chastisers 1
 chondrosteous 1
 caretook
-comfiest
+comfiest 1
 carets 1
 caretta 1
 careworn 1
@@ -5907,7 +5907,7 @@ cytolymph
 cateringly
 copras 3
 caterpillared
-caterpillarlike
+caterpillarlike 1
 chelerythrin
 caterpillars 2
 caters 1
@@ -11077,7 +11077,7 @@ chitling
 chitlings
 cowbirds
 candours
-carloads
+carloads 1
 calamus
 counterpaled
 cocos 2
