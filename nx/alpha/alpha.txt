@@ -5520,7 +5520,7 @@ aftercareer 1
 aminoquinoline 1
 amethystine
 aftercast
-aftercataract
+aftercataract 1
 aloe 1
 afterclause 1
 aftercome 1
@@ -9782,7 +9782,7 @@ amanori 1
 aeroscope
 accoutrements
 amain 2
-amidocaffeine 2
+amidocaffeine 3
 andouillette 2
 ado
 amaister
@@ -13088,7 +13088,7 @@ almight
 allokurtic
 afterroll
 anhydroglocose
-anhidrotic 1
+anhidrotic 2
 accompt 1
 archespsporia
 anhydrotic
@@ -20455,7 +20455,7 @@ atechnic 1
 altisonous 1
 arterialize
 anticivism
-arteriarctia 1
+arteriarctia 2
 albuminous 3
 arteriectopia 2
 ananda
@@ -20880,7 +20880,7 @@ atherosperma
 asaphia 2
 ambulators 2
 azotized 1
-aerosinusitis
+aerosinusitis 1
 asaphidae
 ascosporic
 asarabacca
