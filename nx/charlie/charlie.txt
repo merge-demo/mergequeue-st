@@ -5611,7 +5611,7 @@ catalyzer 2
 catchalls
 compunctionary 4
 catallactic
-catallum
+catallum 1
 cladocerans
 chatterbag
 catalo
@@ -5923,7 +5923,7 @@ catfacing 1
 catfall 1
 catfalls
 catfight
-creeled
+creeled 1
 catfish
 catfoot
 catfooted
@@ -15392,7 +15392,7 @@ consecratedness
 clapstick
 centrosome
 clapt 1
-chicane
+chicane 1
 cautio 1
 cabins
 carburetting 1
@@ -19116,7 +19116,7 @@ circumterraneous 1
 cristate 2
 collinsite
 collinsonia
-colliquable 1
+colliquable 2
 colliquate 1
 collyria
 collyrite
