@@ -2859,7 +2859,7 @@ countercharge
 cadaverine
 canonised
 canoniser
-cephalothoraces
+cephalothoraces 1
 coambassador 1
 canonising 1
 canonist
@@ -3518,7 +3518,7 @@ chawbone 1
 capsulectomy 1
 chloroforming 1
 centinody
-countershaft 2
+countershaft 3
 crenelling
 chappow
 capsuliferous
@@ -3667,7 +3667,7 @@ coronado
 carageens
 chromatography
 caraibe
-coachwhip 3
+coachwhip 4
 caraipa
 chronometrical
 caraipi
@@ -5584,7 +5584,7 @@ crushingly
 catalepsis 1
 corrodentia 1
 catalexis
-catalin
+catalin 1
 curule
 cauponation 1
 coxing
@@ -5907,7 +5907,7 @@ cytolymph
 cateringly
 copras 3
 caterpillared
-caterpillarlike 1
+caterpillarlike 2
 chelerythrin
 caterpillars 2
 caters 1
@@ -13522,7 +13522,7 @@ cylindrodendrite 1
 cylindrograph
 compilers
 chisel
-chrysocolla
+chrysocolla 1
 comitiva
 cylindroid
 ceratites
@@ -14339,7 +14339,7 @@ calorific 1
 cointers 2
 corniness 2
 crinolines 1
-cystorrhagia
+cystorrhagia 1
 circumspheral
 circumsphere
 circumstances
@@ -17727,7 +17727,7 @@ coconsciousness 2
 coconsecrator
 confirmingly 1
 contramure 1
-coconut 1
+coconut 2
 coconuts
 cocoon 1
 cocooneries 1
@@ -17893,7 +17893,7 @@ calcigerous 1
 controlled 1
 codling
 classlessness
-coguardian 3
+coguardian 4
 codman
 contingentiam
 conceptualizing
@@ -21149,7 +21149,7 @@ concealedly 2
 concealedness
 cardiotonic
 concealer 1
-concealing 1
+concealing 2
 conceals 2
 cimmerian
 concededly
@@ -22732,7 +22732,7 @@ conplane
 counterevidence 1
 cryosphere 2
 conquerer 1
-conquerers
+conquerers 1
 conqueress 2
 conquering 1
 coenure 1
@@ -24618,7 +24618,7 @@ copyfitting 2
 copygraph 1
 choring 1
 contemporised 1
-cosmati
+cosmati 1
 chancily 1
 copihue
 ckw
@@ -24657,7 +24657,7 @@ clamshell
 calliperer
 coplanarities
 cavern
-cozinesses 1
+cozinesses 2
 copleased 1
 coplot 1
 comoquer
@@ -24917,7 +24917,7 @@ corallidomous
 congroid 1
 coralliform
 coralligena
-coralligenous 1
+coralligenous 2
 clappe
 coralligerous
 corallin 2
@@ -25929,7 +25929,7 @@ circumscribes
 corsite 1
 corsos
 cancrivorous
-corteges
+corteges 1
 crabhole 1
 capitalization
 congas 1
@@ -26526,7 +26526,7 @@ cotte
 cotted
 cotter
 cottered 1
-cottid
+cottid 1
 capitulating 1
 cottise 2
 chunkhead
@@ -27842,7 +27842,7 @@ cozens
 cyclometers 1
 cozes 1
 cerebroside
-cozie
+cozie 1
 civiliser 1
 canfields 1
 cp
@@ -28213,7 +28213,7 @@ competitress
 coulisse
 cystatrophia
 cururo 1
-cranreuch
+cranreuch 1
 chromaphil
 cellulose 2
 chapelet 2
@@ -31452,7 +31452,7 @@ curragh
 clearminded
 centavo
 currajong 1
-currans 1
+currans 2
 completions
 chresards
 contradict 1
