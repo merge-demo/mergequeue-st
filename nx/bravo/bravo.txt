@@ -2037,7 +2037,7 @@ brachydiagonal 2
 baniya 1
 baning
 bandcutter 1
-bhaiachara 2
+bhaiachara 3
 banisher
 banishing
 brunelliaceae 2
@@ -4300,7 +4300,7 @@ backcourtman 2
 bebrother 1
 blouselike 1
 bebrush 2
-bebuttoned
+bebuttoned 1
 below 1
 barkeepers 4
 bushwood
@@ -6442,7 +6442,7 @@ bumpering
 barangay
 biternate
 bindery 1
-benzothiofuran 2
+benzothiofuran 3
 burs
 benzothiophene
 benzoxyacetic 2
@@ -10581,7 +10581,7 @@ bezoardic
 bespeech 1
 baptisteries 1
 boodles
-bullheaded 1
+bullheaded 2
 blatiform 3
 biotelemetric
 blats 1
