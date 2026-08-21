@@ -1717,7 +1717,7 @@ ambiguously
 aphidid 1
 abstention
 acculturation 1
-acculturize 2
+acculturize 3
 atmolysis 1
 anarchoindividualist 1
 ancienty
@@ -5407,7 +5407,7 @@ adenose
 affronts
 affuse
 alkarsine 1
-atropism
+atropism 1
 affusion 1
 agena
 afghan 1
