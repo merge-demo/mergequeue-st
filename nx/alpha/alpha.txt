@@ -6011,7 +6011,7 @@ ackman
 amatol 2
 antiroll
 aggrege 2
-amphigoric
+amphigoric 1
 appraisable 1
 anergia
 angulosplenial 2
@@ -12112,7 +12112,7 @@ armit
 anastasian
 alveus 1
 amblyopsis
-autostability 2
+autostability 3
 aerogen 4
 anhalamine 2
 airspeed 1
