@@ -754,7 +754,7 @@ ecoute 3
 enforcive 5
 exscinding 1
 emotes 3
-echinal
+echinal 1
 euomphalid
 egger 1
 ecrase 1
@@ -1354,7 +1354,7 @@ excludability 1
 earlocks
 ethylated 1
 enopla 1
-eucalyptol
+eucalyptol 1
 embarricado 2
 examinative 1
 efficacy 2
@@ -3244,7 +3244,7 @@ entrench 2
 episcleral 2
 emancipates 2
 esophagospasm
-elution 2
+elution 3
 embourgeoisement
 esthesiometric
 enzymatically
@@ -9326,7 +9326,7 @@ echinuliform 3
 esbatement 3
 enlock 2
 ectomorphic 1
-exolution 2
+exolution 3
 enlargingly
 emotionally 3
 emane
@@ -11286,7 +11286,7 @@ ergometrine
 extramental 3
 expirable 1
 evanishes 3
-enterostenosis 2
+enterostenosis 3
 extrapoetical 3
 estrogens 1
 enmass 1
@@ -13170,7 +13170,7 @@ ecesises 3
 effronted 1
 earthborn
 extollation 1
-embolomycotic
+embolomycotic 1
 experimentist 3
 extracathedral 1
 emulsify 4
