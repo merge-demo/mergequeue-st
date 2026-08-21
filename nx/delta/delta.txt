@@ -1675,7 +1675,7 @@ deaminase
 daws 2
 daw 1
 dextraural
-deamination 2
+deamination 3
 deammonation
 deashing
 dichastic 1
@@ -2795,7 +2795,7 @@ desalinization 1
 deedbote 1
 donatory
 decretively 2
-discind
+discind 1
 deuteroglobulose
 duogravure 1
 decretorian 2
@@ -2815,7 +2815,7 @@ dielectrically
 demonic 1
 decriminalization 2
 disequalization 1
-decastellate 1
+decastellate 2
 draggle
 desidious
 decrypt
@@ -5728,7 +5728,7 @@ dreck 2
 depones 1
 denat
 deponing
-distributee
+distributee 1
 doodler
 dewormed
 depopulation
@@ -6038,7 +6038,7 @@ dehumanise
 dramaticism
 disaster
 depressiveness
-deputizing
+deputizing 1
 degraders 1
 deonerate
 debriefed 2
@@ -6642,7 +6642,7 @@ dianisidine 2
 deplump
 draughtswoman 2
 desertification
-dodecahedric
+dodecahedric 1
 deserting 1
 drabs
 diastimeter 1
@@ -7124,7 +7124,7 @@ doggishly 1
 demiourgoi 1
 driftiest 2
 ducted
-drolerie 1
+drolerie 2
 desudation
 deoperculate
 duchesslike 2
@@ -7294,7 +7294,7 @@ devisers 2
 defecters 2
 defecation 1
 donnie 2
-dress
+dress 1
 diphthongia 2
 diphthongization
 determinated
@@ -8285,7 +8285,7 @@ diaguitas
 detestableness 1
 doebird
 deeryards
-doryline
+doryline 1
 disabused
 disregardance
 diaguite 1
@@ -8293,7 +8293,7 @@ dyak 2
 diaka 1
 despeed 1
 dapper 1
-dewclaw 2
+dewclaw 3
 duskly 1
 diapausing
 dyakish 1
@@ -9534,7 +9534,7 @@ desulphurise
 digitizes
 digitizing 2
 desorbed 4
-decimosexto 2
+decimosexto 3
 downthrow 1
 dowiness
 decimated 1
@@ -10539,7 +10539,7 @@ dauw 1
 diplocardiac 1
 diplocarpon 1
 diplocaulescent 2
-diplocephalus 1
+diplocephalus 2
 drearisomeness 2
 dysaphia 1
 dbrn
@@ -11639,7 +11639,7 @@ discountenances 1
 drunkometer
 denize
 disulfoton 3
-dogaressa
+dogaressa 1
 discounters 3
 dirks
 docketed
@@ -13042,7 +13042,7 @@ dabber 1
 drowsing
 deplethoric 1
 dispassion 2
-dispended 1
+dispended 2
 dunfish 1
 dissipative 1
 dopes 1
@@ -15659,7 +15659,7 @@ dunce
 dartrose 1
 didrachma 4
 defatted 1
-decollator 1
+decollator 2
 doric 1
 dopped 2
 deforced 1
@@ -16049,7 +16049,7 @@ decorability 1
 doubtous 1
 doubts 1
 desiderating 3
-distinguishable 2
+distinguishable 3
 drossier 1
 douceur
 dislocate 2
@@ -16221,7 +16221,7 @@ dermatotherapy 1
 dowsets 1
 densitometer 2
 determinedness 2
-demagogs 1
+demagogs 2
 decanters
 derange 3
 darneder
