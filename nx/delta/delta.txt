@@ -1496,7 +1496,7 @@ dazzlers
 damnification
 discernableness
 dazzlingness
-descale 1
+descale 2
 dbms 1
 degenerationist
 dbridement
@@ -5497,7 +5497,7 @@ departmental 1
 desiccate
 dealation 3
 diphyllous 2
-dashboard
+dashboard 1
 departmentalised
 diversities 1
 diaminogene 1
@@ -5728,7 +5728,7 @@ dreck 2
 depones 1
 denat
 deponing
-distributee
+distributee 1
 doodler
 dewormed
 depopulation
@@ -5863,7 +5863,7 @@ dispender 1
 danicism 2
 depressibilities
 deozonization 2
-desulphurizing 1
+desulphurizing 2
 depressingly 2
 denuders 1
 desecrator 2
@@ -6038,7 +6038,7 @@ dehumanise
 dramaticism
 disaster
 depressiveness
-deputizing
+deputizing 1
 degraders 1
 deonerate
 debriefed 2
@@ -7294,7 +7294,7 @@ devisers 2
 defecters 2
 defecation 1
 donnie 2
-dress
+dress 1
 diphthongia 2
 diphthongization
 determinated
@@ -8285,7 +8285,7 @@ diaguitas
 detestableness 1
 doebird
 deeryards
-doryline
+doryline 1
 disabused
 disregardance
 diaguite 1
@@ -8911,7 +8911,7 @@ disheartening 1
 detailers
 dully 2
 divinyl
-dichloramine 2
+dichloramine 3
 dichloride
 dichloroacetic
 dichlorodifluoromethane 4
@@ -9350,7 +9350,7 @@ decreasing
 deneb
 dewax 1
 downhill 4
-diplopia
+diplopia 1
 dinarchies 1
 differer 1
 differs 1
@@ -10539,7 +10539,7 @@ dauw 1
 diplocardiac 1
 diplocarpon 1
 diplocaulescent 2
-diplocephalus 1
+diplocephalus 2
 drearisomeness 2
 dysaphia 1
 dbrn
@@ -13042,7 +13042,7 @@ dabber 1
 drowsing
 deplethoric 1
 dispassion 2
-dispended 1
+dispended 2
 dunfish 1
 dissipative 1
 dopes 1
@@ -13863,7 +13863,7 @@ dioxide 2
 dreamlessly 1
 differency 1
 dystaxias
-dedicational 2
+dedicational 3
 disobstruct
 direxit
 dysteleologist 2
@@ -17111,7 +17111,7 @@ dimensional 2
 delineament
 disaffected 1
 driddle 1
-didle
+didle 1
 droukan
 drie
 disconcertedness 1
