@@ -1426,7 +1426,7 @@ beach
 benzotrichloride 2
 battable 2
 balefires 1
-bewreak 2
+bewreak 3
 barmbrack 3
 baleys 1
 baleise 2
@@ -8697,7 +8697,7 @@ beadiest
 broom 1
 barbadoes
 beknotting 2
-bourbonist 3
+bourbonist 4
 bimastic 1
 bengal
 bason 4
@@ -11822,7 +11822,7 @@ bihamate
 billjim 2
 bryophyta
 balkis 1
-basketworm 1
+basketworm 2
 bodefully 1
 bodegas 1
 baking
@@ -12098,7 +12098,7 @@ bolag
 bosey
 bolas 2
 bullnose 1
-bedell 1
+bedell 2
 bartsia
 balmacaan 1
 biglenoid 1
@@ -18363,7 +18363,7 @@ bounding 1
 buxom 1
 bacopa
 bonteboks 2
-brookiest 2
+brookiest 3
 baaskaaps 3
 bebaste 1
 bandlessly 2
