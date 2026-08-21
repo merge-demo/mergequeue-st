@@ -509,7 +509,7 @@ electrosurgeries
 extraphenomenal 1
 estate 2
 entosphenal 1
-echeneidae 1
+echeneidae 2
 endonucleolus 1
 evocate
 electrophorus
@@ -3541,7 +3541,7 @@ exanthematous 3
 ergographic 1
 emboweled 2
 epithecial
-ethanamide
+ethanamide 1
 excurvate 1
 eschewance 1
 extortionary 2
