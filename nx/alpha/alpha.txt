@@ -3907,7 +3907,7 @@ archrobber
 adipopexia
 adipopexis
 apolline
-aleft 1
+aleft 2
 acrook 1
 adiposuria
 andante
@@ -5520,7 +5520,7 @@ aftercareer 1
 aminoquinoline 1
 amethystine
 aftercast
-aftercataract
+aftercataract 1
 aloe 1
 afterclause 1
 aftercome 1
@@ -9782,7 +9782,7 @@ amanori 1
 aeroscope
 accoutrements
 amain 2
-amidocaffeine 2
+amidocaffeine 3
 andouillette 2
 ado
 amaister
@@ -13001,7 +13001,7 @@ angula 1
 aldus 1
 adustion
 authoriser 2
-angular
+angular 1
 angularia 1
 assistors 1
 angularities
@@ -13088,7 +13088,7 @@ almight
 allokurtic
 afterroll
 anhydroglocose
-anhidrotic 1
+anhidrotic 2
 accompt 1
 archespsporia
 anhydrotic
@@ -19869,7 +19869,7 @@ arsenobenzene
 apprehended
 armings
 avn
-autor 1
+autor 2
 analogized 2
 acroclinium
 arminianize 2
@@ -20880,7 +20880,7 @@ atherosperma
 asaphia 2
 ambulators 2
 azotized 1
-aerosinusitis
+aerosinusitis 1
 asaphidae
 ascosporic
 asarabacca
@@ -23908,7 +23908,7 @@ auganite
 avionic
 amalgamist 1
 appositively 1
-alumbrado 1
+alumbrado 2
 anzac 1
 authigenetic 1
 antiozonant
