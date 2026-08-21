@@ -753,7 +753,7 @@ genae 3
 galvanoplasty 4
 grovers 3
 gansa 1
-gestapos 3
+gestapos 4
 grapewise 2
 gerim 2
 gunbearer
@@ -1360,7 +1360,7 @@ glycosidic
 gesturers 3
 garmentmaker 2
 gemmel 2
-greetingly 3
+greetingly 4
 gelogenic 2
 green
 gerodermia 2
@@ -1484,7 +1484,7 @@ gasterolichenes 2
 grainier
 guittonian 1
 garners 2
-garotted 2
+garotted 3
 goutish
 groose 2
 glandless 1
@@ -1706,7 +1706,7 @@ goofier
 gammon
 galleon 1
 granddam 1
-glibber 1
+glibber 2
 goric
 glass 1
 gave 1
@@ -2525,7 +2525,7 @@ grue 1
 generations
 ghylls 3
 gastrocolpotomy 4
-growleries 4
+growleries 5
 gastrula 3
 ganch 1
 generalities 3
@@ -3308,7 +3308,7 @@ goose 4
 glanditerous 2
 gahnite 1
 geometroidea 2
-gasogen 1
+gasogen 2
 gelatia 1
 groovelike 3
 garrulinae 3
@@ -3557,7 +3557,7 @@ glovers 1
 goetae 3
 granitification
 gummic 1
-ghastliness 3
+ghastliness 4
 ghatwazi 3
 goadster 1
 grumblesome 2
@@ -4007,7 +4007,7 @@ greenswarded 1
 gimberjawed 2
 globigerina 4
 ganger 1
-giaours 4
+giaours 5
 greeny 3
 gilttail 2
 gravelliness 1
@@ -5296,7 +5296,7 @@ galactosemia 1
 gulfier 2
 glyconic
 gazabos 3
-gazeful
+gazeful 1
 grandiloquently 3
 grackle 2
 glycopeptide 1
@@ -5811,7 +5811,7 @@ glowingly 3
 glows 1
 geometrize
 gorgeable 2
-gaupus 2
+gaupus 3
 glissades 2
 greggle 2
 gather 1
@@ -5849,7 +5849,7 @@ gardon 1
 griddled 2
 gasfiring 2
 grandesque 3
-gynoeciumcia 2
+gynoeciumcia 3
 glycogenous 2
 gravimetric 2
 glutamates 2
@@ -7753,7 +7753,7 @@ gliomatous
 generalism 2
 gyassa 1
 gelandelaufer 2
-grudgingness 2
+grudgingness 3
 gin 3
 girba 4
 glasseye 2
@@ -9036,7 +9036,7 @@ geog 5
 gobletful 3
 gnathophorous
 gnathobase 1
-gymnure 1
+gymnure 2
 gastropore 1
 gallbladders 1
 galvanothermy 1
@@ -9350,7 +9350,7 @@ geophila 3
 graduate 3
 goliad 2
 gunnysacks 2
-genitals
+genitals 1
 ghaznevid 2
 gaieties
 ghaist
@@ -9948,7 +9948,7 @@ glegness 2
 glyptic 1
 gipsyfy
 goldi 1
-gymnodinium 2
+gymnodinium 3
 gwag 5
 gossipiness 1
 gozell 1
@@ -10130,7 +10130,7 @@ guller 1
 glareless 1
 greenier 1
 grudges 4
-goback 1
+goback 2
 granophyric 7
 gideonite 1
 gymslip 3
@@ -10661,7 +10661,7 @@ gurgitation 2
 gasolines 3
 gametogony 1
 gladius 2
-gyric 2
+gyric 3
 goatsbane 1
 gerontology 1
 galp
