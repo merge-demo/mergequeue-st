@@ -269,7 +269,7 @@ condensing
 caches 2
 cachespell
 cagayans 1
-cacheting
+cacheting 1
 calicate
 complaisance 1
 chinin
@@ -8700,7 +8700,7 @@ caconym
 chape 1
 coelomatic 2
 cobriform 1
-chapeled
+chapeled 1
 concion 1
 convalescency
 crenelle 2
@@ -16846,7 +16846,7 @@ clubfoot 2
 clubfooted 1
 clubhand
 crouching 3
-clubhands
+clubhands 1
 cerebralgia 1
 clubhaul
 correctant
@@ -24080,7 +24080,7 @@ citterns 1
 converges
 converging 1
 conversable
-conversableness 1
+conversableness 2
 conversancy
 camarillas
 cosmonautic 1
@@ -25245,7 +25245,7 @@ coryneform
 corineus 2
 candelabrums 2
 caucussed 1
-corynid 1
+corynid 2
 corynine
 corinna 1
 corinne
@@ -28373,7 +28373,7 @@ crawlers 3
 creamometer
 crawlier
 crawliest
-crawlspace
+crawlspace 1
 cliented 2
 cannibalistically 2
 chiave
@@ -28560,7 +28560,7 @@ creditress 2
 citronade 3
 creditrix 1
 crednerite 1
-cubebs
+cubebs 1
 cellipetal 1
 cavallies 2
 crustaceans
