@@ -6809,7 +6809,7 @@ arresting 1
 angularity 1
 airbusses
 antibias
-axometer 1
+axometer 2
 archsacrificer 1
 arid 2
 altars
@@ -7202,7 +7202,7 @@ aphizog
 alabastrian
 akazgine 2
 alabastrine
-aortographic 1
+aortographic 2
 agriotypidae 1
 ascenders 2
 awane 1
@@ -21483,7 +21483,7 @@ assedation
 aspers 1
 adenosarcoma 1
 asperse 2
-abecedaries
+abecedaries 1
 agapeically
 asperser
 astrochronological 1
