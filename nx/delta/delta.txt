@@ -12195,7 +12195,7 @@ deviators 2
 disfurnish 4
 deport 2
 disfurnished
-deathshot
+deathshot 1
 dervishes 1
 disfurniture
 donax 1
@@ -15394,7 +15394,7 @@ directing
 dilators
 diastema
 domineering
-domineeringly 2
+domineeringly 3
 disinherited
 destabilizing 1
 doming
