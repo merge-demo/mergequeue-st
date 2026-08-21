@@ -1038,7 +1038,7 @@ calatrava
 calavance 1
 calbroben 1
 calcaire
-clame 1
+clame 2
 calcanea 1
 chimpanzee
 chilopoda 2
@@ -3251,7 +3251,7 @@ capital
 chevronny
 capitaldom 1
 capitaled
-capitalisable 1
+capitalisable 2
 capitalising
 cynocrambaceae 1
 cit 2
@@ -4664,7 +4664,7 @@ chaser 2
 carneol
 cursoria
 chinas
-cholangitis
+cholangitis 1
 companero 2
 chwana
 contrary 1
@@ -5998,7 +5998,7 @@ cerastium 1
 catheterizes
 cathetusti 2
 cathexes
-cathy 3
+cathy 4
 cathine
 cathion
 confessionaries 1
@@ -10674,7 +10674,7 @@ confide
 cholinesterase
 chiminage 2
 chimla
-chimleys
+chimleys 1
 chain 1
 cynicalness
 cutlass 1
@@ -23233,7 +23233,7 @@ cholecystocolotomy
 courtepy
 construability
 clavis
-clerestory 1
+clerestory 2
 cataractine
 cabernets
 constructibility 1
@@ -24563,7 +24563,7 @@ corollated 1
 copending 1
 colonialist 1
 calorizes
-copenetrate 1
+copenetrate 2
 copenhagen 1
 copepoda
 chromolithograph
@@ -26850,7 +26850,7 @@ counterexercise
 commeasuring
 cyclometry 1
 counterextension
-cartoons
+cartoons 1
 circumduce
 cacuminal
 counterfactual
@@ -27080,7 +27080,7 @@ clerking 1
 counterprotection
 counterpuncture 1
 counterpush 1
-counterquartered
+counterquartered 1
 caneva
 celibatarian
 counterreckoning 1
@@ -29976,7 +29976,7 @@ cerebrology 1
 coccygotomy 1
 catapan 1
 crisle 2
-crosswiseness
+crosswiseness 1
 crostarie
 cajoler
 crotal
