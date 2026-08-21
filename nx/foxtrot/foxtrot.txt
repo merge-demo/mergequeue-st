@@ -36,7 +36,7 @@ fabricates 2
 fabricator 2
 formularize 2
 flintless 1
-furies 1
+furies 2
 farmscape 4
 flick 3
 fervently 4
@@ -641,7 +641,7 @@ fames 2
 fuddled 2
 fichu 1
 finessing 3
-forerib 4
+forerib 5
 formism 2
 flan 1
 folklorish 2
@@ -1529,7 +1529,7 @@ fraised 2
 foreprepare 2
 fodderer 2
 filechar
-ferruminate 1
+ferruminate 2
 faucitis 2
 forconceit 1
 forgiveless 1
@@ -5954,7 +5954,7 @@ freehand 1
 feretories 1
 forthinking 1
 furzes
-fearlessly 1
+fearlessly 2
 favonius 2
 frenchification 3
 frailly 3
@@ -7409,7 +7409,7 @@ foreclose 2
 forestland 2
 foolisher 2
 faying
-falterers
+falterers 1
 flavorsomeness 2
 flake 1
 finks
@@ -9634,7 +9634,7 @@ friableness 3
 frizzing 3
 fraternality 3
 fivestones 1
-ferrotyper 2
+ferrotyper 3
 floriken 2
 forhooy 1
 fothering 1
@@ -11480,7 +11480,7 @@ ferri 1
 foliolose 2
 freelancing 2
 figurational 2
-fevergum 2
+fevergum 3
 frowst 1
 fastgoing 2
 flays
