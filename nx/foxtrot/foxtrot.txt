@@ -825,7 +825,7 @@ freedoot 3
 forebows 4
 free 2
 fragilities 3
-fantasying 3
+fantasying 4
 falterer 2
 forthbrought
 fustigated
@@ -981,7 +981,7 @@ forweend
 flashes 1
 fluorapatite 3
 fluoborid
-forehook
+forehook 1
 foglietto 1
 fascicles 2
 flexuose
