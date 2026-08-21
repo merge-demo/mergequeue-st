@@ -11750,7 +11750,7 @@ caliphates 1
 crannage 2
 chondrocoracoid
 consonantalizing
-chondrocostal 2
+chondrocostal 3
 comicotragic
 chondrocranial
 circuitous
@@ -15156,7 +15156,7 @@ claye 1
 clayey
 contchar 2
 clayier
-centetes
+centetes 1
 clayiest
 calotermitid 2
 clayiness
