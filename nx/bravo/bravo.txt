@@ -1066,7 +1066,7 @@ basanite 2
 breenge 1
 bersil 2
 boroughmaster 1
-bailiwick 1
+bailiwick 2
 bridler
 benzothiopyran 1
 blockhead 1
@@ -1376,7 +1376,7 @@ baldachino
 bride
 bootle 3
 buphthalmos 1
-bowers
+bowers 1
 backlogs 2
 braccianite 2
 butylate
@@ -1426,7 +1426,7 @@ beach
 benzotrichloride 2
 battable 2
 balefires 1
-bewreak 2
+bewreak 3
 barmbrack 3
 baleys 1
 baleise 2
@@ -2895,7 +2895,7 @@ bilocation 2
 beads 1
 bottleful 5
 broadcasts
-broadthroat 2
+broadthroat 3
 biverbal 1
 beclatter 3
 bestride 1
@@ -3515,7 +3515,7 @@ batboys 2
 byzants 1
 blubberous 1
 bumbass 1
-bissext 3
+bissext 4
 birdcall 1
 batched 1
 batcher 3
@@ -5045,7 +5045,7 @@ beetroots 3
 becarve
 beeweed 2
 bask 1
-blackings
+blackings 1
 blackey 1
 bisphenoid 2
 bostal
@@ -5183,7 +5183,7 @@ bellbind 1
 beardfish 1
 befriender
 benignly 2
-blasphemously
+blasphemously 1
 balanoblennorrhea 2
 befriending
 bugbanes 2
@@ -5727,7 +5727,7 @@ belies 1
 believers 2
 benzotetrazine
 beamful
-blankite 2
+blankite 3
 budge 2
 believingly 1
 brerd 2
@@ -5984,7 +5984,7 @@ bemaim 1
 bushet 2
 bemangle 1
 bemar 5
-bouncingly 2
+bouncingly 3
 bevaring 2
 bemask
 bricktop 5
@@ -9674,7 +9674,7 @@ bulleting
 bisimine 1
 breaches 3
 brabant 2
-becap
+becap 1
 bullish 3
 bonefish 3
 bisymmetry
@@ -10656,7 +10656,7 @@ bleaker 1
 balanophoraceae
 bandspreading
 boardinghouse 1
-bernese 1
+bernese 2
 bollies
 bishopscap 1
 bleaky
@@ -12713,7 +12713,7 @@ bushmaster
 bibulously 1
 blastophthoric 3
 bowet 2
-booker 1
+booker 2
 boatkeeper 2
 billion
 bailsmen 1
@@ -14015,7 +14015,7 @@ brabejum 3
 batonist 2
 beevish 2
 blendor 2
-bracae 1
+bracae 2
 biblioclasm 2
 bothriums 2
 bracciale
@@ -15020,7 +15020,7 @@ brachering 1
 boatly 1
 breccias
 blacksmiths 2
-brecham 1
+brecham 2
 barnacling 4
 bondelswarts
 brechams
@@ -17124,7 +17124,7 @@ bifold 1
 beglare 2
 burliness 1
 bilaterality
-bituberculated 2
+bituberculated 3
 brimfully 1
 bullfinches
 bluffs
