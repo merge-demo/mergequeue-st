@@ -25153,7 +25153,7 @@ cores 1
 carbonates
 compressors
 chlorospinel 1
-coresign
+coresign 1
 coresonant
 convento 2
 chincher
