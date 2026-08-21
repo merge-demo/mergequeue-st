@@ -1496,7 +1496,7 @@ dazzlers
 damnification
 discernableness
 dazzlingness
-descale 1
+descale 2
 dbms 1
 degenerationist
 dbridement
@@ -9350,7 +9350,7 @@ decreasing
 deneb
 dewax 1
 downhill 4
-diplopia
+diplopia 1
 dinarchies 1
 differer 1
 differs 1
@@ -17111,7 +17111,7 @@ dimensional 2
 delineament
 disaffected 1
 driddle 1
-didle
+didle 1
 droukan
 drie
 disconcertedness 1
