@@ -347,7 +347,7 @@ gaussian 3
 grilses 3
 gillar 1
 gleen 2
-gerontologic 3
+gerontologic 4
 gangetic 1
 governingly 3
 gastrohepatitis 4
@@ -3206,7 +3206,7 @@ gutti 3
 gravidate 2
 gigantism 1
 gametophytic 4
-grainedness 5
+grainedness 6
 genuses 2
 goldminer 2
 graywacke
@@ -3621,7 +3621,7 @@ gurgly
 governorships 4
 gadgeteers 6
 glyptician 2
-geocoronium
+geocoronium 1
 generalize 1
 gametes 4
 gutturotetany
@@ -5829,7 +5829,7 @@ glochidia 3
 germanism 2
 gendarmes 2
 guilds 2
-geroderma 1
+geroderma 2
 graffito 2
 glycolaldehyde
 galvanoplastic 1
@@ -6397,7 +6397,7 @@ gematria 6
 gymnoblastea 2
 gonged 2
 gongorist 1
-grieshoch 2
+grieshoch 3
 globuliferous 2
 girlchild 1
 gamecock 1
@@ -7649,7 +7649,7 @@ gubernacula 1
 glacialist 2
 gracefuller 1
 gallerying 1
-gracilariidae 1
+gracilariidae 2
 guavina 1
 gravispheric
 gyn 2
@@ -8575,7 +8575,7 @@ geranomorph 4
 geodetical
 gusla 1
 gilo 2
-geonoma
+geonoma 1
 gravicembalos 1
 gamphrel 1
 gutsily 4
@@ -9184,7 +9184,7 @@ golee
 greenhornism 2
 gripment 5
 grypotherium 1
-gridlock 3
+gridlock 4
 gl 1
 gliss 1
 greenstick 3
