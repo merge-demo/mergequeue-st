@@ -1848,7 +1848,7 @@ feastless 2
 fayettism 3
 feloid 1
 febrile 2
-forrue
+forrue 1
 fcs 1
 forfeit 2
 fibrinogenically 2
@@ -3537,7 +3537,7 @@ floroun 2
 fitweed 1
 forehearth
 formant 1
-frightful 1
+frightful 2
 foulsome 2
 filamentary 3
 flannelleaves 2
@@ -3948,7 +3948,7 @@ feedbacks 1
 finest 2
 finew
 fish
-fermentor 2
+fermentor 3
 fruitcakey
 frenziedly 2
 frightfulness 1
@@ -5298,7 +5298,7 @@ farmsteads 2
 frightless 2
 fogbound
 flukes 3
-fluoridize 3
+fluoridize 4
 fretters 1
 flain 3
 fernwort
@@ -5547,7 +5547,7 @@ fossettes 1
 fleurettee 2
 fluemen
 floating 1
-fideicommissary
+fideicommissary 1
 fleshful
 favourite 1
 furunculus 1
@@ -6121,7 +6121,7 @@ frightenedly 1
 foxtongue 2
 fenster
 flounce 1
-flounced 1
+flounced 2
 flounder 1
 frowardness
 faraway
@@ -10036,7 +10036,7 @@ fairness 2
 footprint 2
 footpaths 1
 foreshroud 1
-framableness 1
+framableness 2
 fenceless 2
 fanga 3
 forerevelation 1
@@ -10236,7 +10236,7 @@ frogbit 1
 frogeyed 3
 farewelling
 fissureless 2
-fibra 2
+fibra 3
 frankheartedly 2
 filite
 floated 2
@@ -10698,7 +10698,7 @@ fieldworker
 fist 4
 footler 3
 famish 3
-frightable 2
+frightable 3
 facultied 3
 fibular 1
 fruitlets 1
@@ -10825,7 +10825,7 @@ fuchsian
 fort 1
 fructificative 1
 floundered 2
-fuchsine 2
+fuchsine 3
 flustra 2
 facet 2
 foveation 1
