@@ -1760,7 +1760,7 @@ chipped
 coloured
 calumniates
 comeliness
-calumniating
+calumniating 1
 calumniation 1
 coaldealer 1
 consolably
@@ -8452,7 +8452,7 @@ champerties 1
 chalaze 1
 champertor 2
 carbolxylol 1
-champertous
+champertous 1
 champy 1
 conjoint
 capparidaceous 1
@@ -8927,7 +8927,7 @@ cupping 2
 chargee
 cataphasia 1
 chargeful
-chargehouse
+chargehouse 1
 charger
 charges
 charybdian
@@ -12175,7 +12175,7 @@ chrysamphora 2
 culprit 1
 chrysaniline
 cushiony 1
-cochairmanship
+cochairmanship 1
 chrysaor
 convince
 cont
@@ -14499,7 +14499,7 @@ cephaloplegic
 ciseaux 2
 courante 1
 cising 1
-cisium 1
+cisium 2
 cisjurane
 cisleithan
 cislunar 1
@@ -14545,7 +14545,7 @@ cystelcosis
 cosmologic
 choppy
 cistercianism
-cisternae 2
+cisternae 3
 cisternal 3
 cornier 1
 compotier
@@ -15100,7 +15100,7 @@ cacumen 2
 chipling
 cladodial 3
 cladodium 1
-centinel
+centinel 1
 cladodont 1
 closetful 1
 cruelties
@@ -15835,7 +15835,7 @@ cleavable
 cleavage 3
 cleavages
 cleaveful 1
-cleavelandite
+cleavelandite 1
 contentness 1
 cleaver 1
 cleavers 1
@@ -24494,7 +24494,7 @@ coot 1
 cootch 1
 corticin
 cheeseburger
-cootfoot
+cootfoot 1
 crotyl
 cooty 1
 cootie
@@ -27205,7 +27205,7 @@ countertraction
 countertransference
 cystonectous 1
 collen 1
-coparent 1
+coparent 2
 countertraverse 2
 countertreason 1
 caesious 1
@@ -29224,7 +29224,7 @@ creaser 2
 capillarity 1
 cystomatous 1
 crippling 1
-cripplingly 1
+cripplingly 2
 cryptaesthesia 1
 conflictual 1
 cryptamnesia
@@ -30384,7 +30384,7 @@ cerebellopontile 1
 clytemnestra 1
 conttinua
 clenching
-corralling 1
+corralling 2
 crustacean
 coversed 1
 cancelier 1
@@ -31092,7 +31092,7 @@ cunarder
 capeadors 1
 cunctative 3
 cunctator
-cunctatury
+cunctatury 1
 corallus
 censed 1
 cyathea 1
