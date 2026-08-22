@@ -4313,7 +4313,7 @@ enterointestinal
 enterodynia 1
 enamour 1
 enamouredness 2
-eneclann 2
+eneclann 3
 expostulator 2
 eulogistical 4
 espouse 1
@@ -5861,7 +5861,7 @@ exacerbescence 1
 encorbelment 1
 epidendral
 exsiccate 2
-engrossedly 2
+engrossedly 3
 endocarditic 1
 essayers 4
 echoer 2
@@ -6161,7 +6161,7 @@ elytrum 2
 engraft 1
 eccrinology 1
 episememe 1
-entrappingly
+entrappingly 1
 espionage 3
 entocondyloid 2
 elision
@@ -6400,7 +6400,7 @@ eastering
 exsanguinate 3
 egbert
 ecklein 1
-eucryphiaceous 1
+eucryphiaceous 2
 eastern 1
 epithetician 1
 equatorial
@@ -8108,7 +8108,7 @@ eczemas
 emarcid 1
 emprosthotonus 1
 extrapolated 1
-exploratory
+exploratory 1
 endobatholithic 1
 ephippium 2
 entrepas 1
@@ -10121,7 +10121,7 @@ egosyntonic 1
 endiaper 1
 enculturated 3
 excused 1
-extranean 2
+extranean 3
 etabelli 1
 expressiveness 1
 earphones 1
@@ -11335,7 +11335,7 @@ egyptian 2
 electrocute 2
 ecdysons 2
 epupillate 1
-enwrap 1
+enwrap 2
 evaporitic 1
 enforcively 2
 evapotranspiration 3
@@ -11995,7 +11995,7 @@ ealderman 3
 exothermous 1
 epiploon 1
 excitations 1
-escapes
+escapes 1
 eastbound 3
 embargo 1
 enveloped 3
@@ -13494,7 +13494,7 @@ evelyn 3
 ensuingly 3
 encopresis 2
 eatanswill 1
-emf 2
+emf 3
 enteropathogenic 1
 elizabethanize 1
 expurgate 3
@@ -13777,7 +13777,7 @@ extinctions 1
 enantiopathic 1
 euphorbia 1
 ententophil 1
-entelechial 5
+entelechial 6
 ectoenzym 2
 extinguisher
 emulates 5
