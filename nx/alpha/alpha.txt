@@ -8382,7 +8382,7 @@ alodian
 adscriptive 2
 archdapifer 3
 ayield 2
-agricultor
+agricultor 1
 autoelectronic 1
 anaxial 1
 anaerophyte
@@ -11013,7 +11013,7 @@ amyridaceae
 amoebobacterieae
 amoebocyte
 autophthalmoscope
-amoebogeniae
+amoebogeniae 1
 amoy 2
 apinoid 1
 ampelitic
@@ -11588,7 +11588,7 @@ androdioecism 2
 acheweed 1
 abscessed
 apathus 1
-assewer 1
+assewer 2
 aper
 appositions 1
 astrolabe 1
@@ -20416,7 +20416,7 @@ abatement 1
 art 1
 aldehydic
 achrodextrin 1
-artar 1
+artar 2
 ampery 1
 arrojadite
 artcraft 2
@@ -22141,7 +22141,7 @@ ampongue 3
 ancestries 1
 asthamatic 1
 antimacassar 1
-astheny
+astheny 1
 achroacyte 3
 ambitionless
 ailantery 1
@@ -24287,7 +24287,7 @@ autocar
 abnormalising 2
 abulomania
 awapuhi
-autopepsia 3
+autopepsia 4
 astrophysical
 autophagous 1
 autophyte
