@@ -75,7 +75,7 @@ flysch
 fordeal 3
 fullfaces 3
 facundity 1
-facemark 5
+facemark 6
 flunkeyhood 1
 forme 2
 filching 2
@@ -3897,7 +3897,7 @@ findable
 fruz 3
 familiarize
 function
-findhorn 1
+findhorn 2
 filarees 2
 fine 1
 fineableness 2
@@ -5813,7 +5813,7 @@ fastigium 2
 foreswearing 2
 filmer 2
 flittermouse 2
-fellowship
+fellowship 1
 fathmur 1
 flitters 2
 frequents 1
@@ -7180,7 +7180,7 @@ fend 3
 fishified 3
 fishers
 fixative 2
-fourche
+fourche 1
 furnariidae 2
 fiendism 3
 fulvescent 2
@@ -7907,7 +7907,7 @@ foreruns 1
 flacket 1
 frightenable 1
 frottole 4
-fistful 2
+fistful 3
 fause 1
 firmaments 5
 flourishingly 3
@@ -8719,7 +8719,7 @@ freesia 4
 forbiddenness
 flatfooted 3
 flaunters 2
-fryers 1
+fryers 2
 funiculate 2
 furicane 5
 flapless 3
@@ -9924,7 +9924,7 @@ forepointer 1
 flapdragon 1
 feridgi 5
 forefelt 1
-feterita 2
+feterita 3
 fluviomarine 3
 fosh
 felinophobe 4
@@ -10510,7 +10510,7 @@ forepretended 3
 fantast 2
 forewarns 3
 fluffs 3
-frostfish 1
+frostfish 2
 forcite 5
 frostbitten 4
 frosty 2
@@ -10704,7 +10704,7 @@ fibular 1
 fruitlets 1
 facetted 3
 foxy 1
-felsophyre 3
+felsophyre 4
 feralin 2
 fivepenny
 fairstead 1
@@ -11318,7 +11318,7 @@ fusspot 1
 firearm 6
 fulmicotton 1
 fatwa 2
-farse 2
+farse 3
 firedog 3
 formatted 2
 feverfew
