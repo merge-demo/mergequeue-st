@@ -7981,7 +7981,7 @@ adp 1
 alerters
 autotropically 1
 amygdules
-alerting
+alerting 1
 ales 2
 anion 1
 alesan 1
@@ -8956,7 +8956,7 @@ allonyms 1
 allonomous 2
 abortion
 apodan
-admiralships 2
+admiralships 3
 appreciate 1
 antenatal
 amalg
