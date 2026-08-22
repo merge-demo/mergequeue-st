@@ -2990,7 +2990,7 @@ commonable
 chaffers
 capriole 3
 colliquation 1
-cicalas 1
+cicalas 2
 claustrum
 croppies
 canthorrhaphy 1
@@ -3000,7 +3000,7 @@ charivaris
 confuter
 clamehewit 1
 canthuthi
-coyest 1
+coyest 2
 canticle
 campesino 1
 canticles
@@ -11528,7 +11528,7 @@ coredeemed
 cratonic
 clinkstone 3
 clad 1
-congelifraction
+congelifraction 1
 chokerman 3
 chalones
 chokers
@@ -13596,7 +13596,7 @@ convectively 1
 cote 1
 cimbrian
 cotsetle 4
-conferted 1
+conferted 2
 cimbric
 cyme
 cymelet 1
@@ -15546,7 +15546,7 @@ cheshire
 cordially 3
 cynoglossum 2
 confoundedly
-chabasie
+chabasie 1
 classicolatry
 classiest 1
 classify 1
@@ -21078,7 +21078,7 @@ coms
 comsat
 clostridial 1
 comsomol 1
-competingly
+competingly 1
 cray
 countertheory
 comstockeries
@@ -26887,7 +26887,7 @@ counterguard
 counterguerilla
 credential
 catchpollery 1
-courtless
+courtless 1
 coraciiformes 1
 counterhaft
 commensurableness
@@ -28260,7 +28260,7 @@ changable 1
 craspedal
 clinic 1
 craspedodromous
-craves
+craves 1
 craspedota 2
 calumets 1
 craspedotal 1
@@ -29848,7 +29848,7 @@ carnalism
 crosiered
 capsumin
 clumsier
-cross
+cross 1
 circummeridian 1
 clamoring
 coronillo
