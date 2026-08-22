@@ -662,7 +662,7 @@ archibenthos
 abollae
 aboma 1
 abomasum 2
-abomasus 1
+abomasus 2
 alkylize 1
 abominably 1
 abominate 1
@@ -2127,7 +2127,7 @@ aches 1
 achesoun
 acheulean 1
 accustoms 1
-acumens 1
+acumens 2
 achy 4
 absconds 2
 airtime 2
@@ -3011,7 +3011,7 @@ applicably 1
 amplexifoliate 1
 automatize 3
 appendages 1
-ashless 2
+ashless 3
 absentment 1
 annette 1
 antiheroism
@@ -5672,7 +5672,7 @@ auspiciously 2
 antilopinae 1
 acrocoracoid
 arachin
-agacante 4
+agacante 5
 accrue 1
 axbreaker 2
 agacerie 2
@@ -6585,7 +6585,7 @@ auxetically 1
 aias 1
 achomawi 1
 aldebaranium 1
-ayatollah
+ayatollah 1
 aiblins 1
 antileptic 1
 audivise
@@ -8995,7 +8995,7 @@ allophylus 1
 angioblastic
 antennular 1
 astounding 1
-amphilogy 1
+amphilogy 2
 archdeanery
 arboreally 1
 allophones 1
@@ -9888,7 +9888,7 @@ adjudicating
 angleworm 1
 albumoid 1
 aponogeton
-antepreterit
+antepreterit 1
 amphigen 1
 amarine 2
 amarity
@@ -10089,7 +10089,7 @@ appulsive
 axmen 1
 antiformant 1
 amblycephalus
-atmology
+atmology 1
 amblydactyla
 asymptomatically 2
 ammoniemia
@@ -11397,7 +11397,7 @@ ampholytic 1
 anobiidae 1
 acroteric 2
 amphora 1
-amphorae 1
+amphorae 2
 acappella
 algors 1
 abbreviation 2
@@ -11787,7 +11787,7 @@ anagrams
 acidifiant
 austerlitz
 axite 1
-anakinetomeric
+anakinetomeric 1
 arzawa
 anaktoron 1
 analav
@@ -14532,7 +14532,7 @@ antalkalies 1
 animatism 1
 acritochromacy 2
 algologically 1
-adnoun
+adnoun 1
 anobing
 allylate 2
 anthropographic 1
@@ -15849,7 +15849,7 @@ arbitrages
 antipyretics
 antipyrin 2
 accustomedness
-alinota 3
+alinota 4
 antipyrine
 annuli 1
 aryballoi
@@ -16024,7 +16024,7 @@ aestuation
 akee
 antirebating
 aryl 1
-arctangent 2
+arctangent 3
 androclclinia
 aerolitics
 aparaphysate 1
@@ -16063,7 +16063,7 @@ antirevolution
 antirevolutionist
 antirheumatic
 anaptyxes
-anostraca
+anostraca 1
 achango
 autoradiographic
 antiromantic
@@ -16430,7 +16430,7 @@ antoinette
 autotypy 1
 antonym
 arthrotomies 1
-antonymy
+antonymy 1
 antonymies 2
 antoniniani
 antoninianus
@@ -17695,7 +17695,7 @@ argils
 avignonese 1
 acetoarsenite 1
 ambiguity 2
-aganippe
+aganippe 1
 axhead 1
 antiquities 2
 applejohn 2
@@ -19203,7 +19203,7 @@ ardellae 1
 ardency 1
 abenteric
 astute 1
-ascogonium
+ascogonium 1
 acraeinae 2
 anisopetalous 1
 acervative
@@ -23581,7 +23581,7 @@ abyssolith 2
 aumildar
 aaronical
 alnoite 1
-apatites 1
+apatites 2
 alvin
 approximate 1
 arrythmically
@@ -25114,7 +25114,7 @@ aotearoa
 axillae 1
 antiamylase
 axillar 2
-absurdest 1
+absurdest 2
 axing 2
 anagenesis
 acrosarc
