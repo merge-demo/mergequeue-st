@@ -1927,7 +1927,7 @@ bandle 1
 blastoff 2
 bushcraft
 bandmaster 2
-brainsickly 1
+brainsickly 2
 bando 1
 besieger 3
 bodiced
@@ -3444,7 +3444,7 @@ briny
 bastards 2
 bioptic 1
 barrelfishes 2
-baster 1
+baster 2
 bastilles 1
 bassetting 1
 basibracteolate
@@ -3769,7 +3769,7 @@ befouler 2
 boing 1
 brahmanic 1
 blackener
-biologists 1
+biologists 2
 bowstringed 2
 beachwear
 battues
@@ -6585,7 +6585,7 @@ blastular
 bere 1
 butterbox
 brotula 2
-beetlers
+beetlers 1
 bacharach 2
 bukh 1
 bodyplate 1
@@ -8632,7 +8632,7 @@ billionth 1
 braggartism 1
 brethel 4
 beldames 1
-brightsomeness 1
+brightsomeness 2
 bowling 2
 blechnum
 basigenic 2
@@ -8983,7 +8983,7 @@ blankety 1
 bleachfield 1
 bunchbacked
 biographers 4
-bossisms 1
+bossisms 2
 biographies 3
 boulangist
 boreable 3
@@ -12904,7 +12904,7 @@ bulldog 1
 bertrandite 2
 blondes
 beauticians
-boost
+boost 1
 bromizes
 bruin 1
 blottto
@@ -13917,7 +13917,7 @@ bowshot
 brined 2
 bulbaceous
 boatswains 2
-brainish
+brainish 1
 bowshots 1
 boomkins 1
 backstopped 3
@@ -17480,7 +17480,7 @@ birdikin 1
 bena 1
 buprestis
 brob
-briskening
+briskening 1
 bragwort 2
 biteless 4
 biscotin 3
