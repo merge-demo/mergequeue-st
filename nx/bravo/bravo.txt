@@ -5359,7 +5359,7 @@ biflecnode 1
 buyable 1
 bromobenzene 2
 barodynamic
-barbarisation
+barbarisation 1
 burly 1
 broomshank 2
 birne
@@ -5909,7 +5909,7 @@ banderillero
 belonidae
 bullions 3
 beprose 5
-blisses
+blisses 1
 backslap 2
 belostomatidae 1
 besleeve 2
@@ -7885,7 +7885,7 @@ bistipuled 2
 bullation 1
 beauclerc 1
 brains 1
-bedboard 2
+bedboard 3
 brachiation 1
 bedlike 1
 bibliomane 1
@@ -10030,7 +10030,7 @@ balaphon
 becharms
 bodes 1
 bouilli 1
-baining 2
+baining 3
 basely
 bushranger 2
 bedeviled 1
@@ -18300,7 +18300,7 @@ biblioclast 1
 backwashing 2
 bowless 1
 buttinski
-buttled 1
+buttled 2
 bobsledded 3
 backbiting 2
 buttock
