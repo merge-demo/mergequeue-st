@@ -5361,7 +5361,7 @@ fascia 2
 flitterbat 1
 fruiteries 2
 ferulaic
-foldboater
+foldboater 1
 fascicular
 foreclosed 1
 fissured 1
@@ -9201,7 +9201,7 @@ flintwork 2
 flourishing 1
 foolheaded 2
 fads 1
-filariasis 2
+filariasis 3
 fiaschi 1
 florification 1
 feat
