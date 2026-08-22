@@ -642,7 +642,7 @@ establishmentism
 ebriety 3
 ennoble 1
 evilness 2
-exprobration
+exprobration 1
 extimulate
 enshrouding 2
 extracondensed 2
@@ -928,7 +928,7 @@ ectrotic 1
 electrological
 efform 2
 endocardium
-epoxied 2
+epoxied 3
 entada 2
 ecttypal 2
 equates 1
@@ -6672,7 +6672,7 @@ epicenters 2
 equines
 espaliers
 epithecal
-evaginable
+evaginable 1
 emunge
 exstimulate 3
 exhumed 4
@@ -12409,7 +12409,7 @@ erythrulose
 exhausted 3
 essenize 1
 energiatye 1
-emendates 2
+emendates 3
 etholide 2
 embace 1
 euphemia
