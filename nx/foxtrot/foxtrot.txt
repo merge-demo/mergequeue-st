@@ -75,7 +75,7 @@ flysch
 fordeal 3
 fullfaces 3
 facundity 1
-facemark 5
+facemark 6
 flunkeyhood 1
 forme 2
 filching 2
@@ -455,7 +455,7 @@ fainant 1
 fawningly
 fistical
 ferruling 4
-fundulus 1
+fundulus 2
 fluoridations
 ferroprussiate 1
 feateous
@@ -1637,7 +1637,7 @@ fibrospongiae 3
 filmcards 3
 focally 1
 fustiest
-fice 2
+fice 3
 feaberry 1
 furnarius 3
 ferrandin 2
@@ -2290,7 +2290,7 @@ fraudlessly 3
 feuterer 2
 fashionless 2
 foambow 1
-filicales 2
+filicales 3
 formulable 4
 flotation 1
 foreface 2
@@ -3590,7 +3590,7 @@ fairbanks 2
 fourniture
 flashover 4
 fardels 1
-flank 1
+flank 2
 fructification 1
 felinity 1
 floorway 2
@@ -3645,7 +3645,7 @@ fretsaws
 fiftieths 2
 fibrillar 2
 freshed 1
-filigrane 1
+filigrane 2
 furlana 1
 frangula 1
 fannier 1
@@ -5813,7 +5813,7 @@ fastigium 2
 foreswearing 2
 filmer 2
 flittermouse 2
-fellowship
+fellowship 1
 fathmur 1
 flitters 2
 frequents 1
@@ -7180,7 +7180,7 @@ fend 3
 fishified 3
 fishers
 fixative 2
-fourche
+fourche 1
 furnariidae 2
 fiendism 3
 fulvescent 2
@@ -7907,7 +7907,7 @@ foreruns 1
 flacket 1
 frightenable 1
 frottole 4
-fistful 2
+fistful 3
 fause 1
 firmaments 5
 flourishingly 3
@@ -9924,7 +9924,7 @@ forepointer 1
 flapdragon 1
 feridgi 5
 forefelt 1
-feterita 2
+feterita 3
 fluviomarine 3
 fosh
 felinophobe 4
@@ -10510,7 +10510,7 @@ forepretended 3
 fantast 2
 forewarns 3
 fluffs 3
-frostfish 1
+frostfish 2
 forcite 5
 frostbitten 4
 frosty 2
@@ -10704,7 +10704,7 @@ fibular 1
 fruitlets 1
 facetted 3
 foxy 1
-felsophyre 3
+felsophyre 4
 feralin 2
 fivepenny
 fairstead 1
