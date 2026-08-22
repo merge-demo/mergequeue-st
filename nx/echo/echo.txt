@@ -327,7 +327,7 @@ estops
 eastre 1
 extramolecular 2
 empresse 1
-embleming
+embleming 1
 enleaf
 epirogenic 1
 exigible 2
@@ -11161,7 +11161,7 @@ episome 1
 extipulate 4
 executing 1
 evacuants 2
-earthdrake 2
+earthdrake 3
 exophagous 2
 etiologically 1
 epaulet 1
