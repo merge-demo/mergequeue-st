@@ -526,7 +526,7 @@ dermaskeleton
 dama 1
 damageability 2
 damageably 1
-detonatable 1
+detonatable 2
 damaged 1
 detort 2
 damageous 2
@@ -1152,7 +1152,7 @@ decadarchy 2
 dashplate 1
 dropflower 1
 duracine
-dasyatis
+dasyatis 1
 daylit 1
 dire 4
 distractingly
@@ -1180,7 +1180,7 @@ decrementing 2
 docimastic 2
 delineatory 1
 dassent 1
-deadheads 3
+deadheads 4
 dicaeology 1
 doughboys 1
 dodecaphony 2
@@ -1189,7 +1189,7 @@ donnybrook
 diachoretic 1
 dextrinize
 dogfall 3
-desmotropy 2
+desmotropy 3
 discepted 1
 diminutival
 deglutitory 2
@@ -2012,7 +2012,7 @@ depicted
 disformity
 decaffeinize 2
 disregardable 2
-dasypodidae 2
+dasypodidae 3
 dogleg 1
 debussyanize 2
 debasement
@@ -3535,7 +3535,7 @@ demoniast
 deoxygenizing 2
 disegno
 displicency
-developedness
+developedness 1
 diencephalon 1
 defunct
 descendence 1
@@ -4718,7 +4718,7 @@ democratised 3
 dendropogon
 detailed 2
 dillydallied 2
-democratize 2
+democratize 3
 divulgence 1
 democratizer 1
 disentitling
@@ -6874,7 +6874,7 @@ diagenetic 1
 danglers 1
 drailed 1
 dsp
-desolate
+desolate 1
 disney 2
 decreing 2
 dehydrochlorination 1
@@ -10554,7 +10554,7 @@ discoblastula 1
 deafens
 dafla 2
 diploe
-digestion 1
+digestion 2
 didrachmas 5
 dispend 2
 dependable 1
@@ -11124,7 +11124,7 @@ depletes
 dottily
 devicefulness 1
 duraplasty
-distressful 3
+distressful 4
 dichromic
 disoppilate
 decanted 1
@@ -11443,7 +11443,7 @@ discoideae 1
 despatchers 4
 debriding 2
 devisings
-decencies 2
+decencies 3
 dionysiacal
 discoloration
 discolorations 1
@@ -12175,7 +12175,7 @@ dramatism 1
 diomedea 2
 disbandment
 dormie 1
-dodoisms 1
+dodoisms 2
 disfranchises
 drosophilae 4
 depel
@@ -13738,7 +13738,7 @@ dejecta
 demulsion 1
 deadlihead 2
 diaclinal 2
-disannex 2
+disannex 3
 dissogeny
 doomful 1
 departmentalize 1
@@ -17182,7 +17182,7 @@ discourser 3
 drylots 4
 dynamists
 drilvis
-deuterogelatose 4
+deuterogelatose 5
 dringle 1
 disomaty 2
 decade 1
@@ -17659,7 +17659,7 @@ daisybush
 dromornis 3
 dtd
 duopsony 1
-dielectrical 2
+dielectrical 3
 dicranterian 1
 discourteously 1
 dtente
@@ -18462,7 +18462,7 @@ demichamfron
 diagometer
 disulphuret 1
 degreased 1
-disodic
+disodic 1
 debordment 1
 dishonestly 3
 downsman 1
