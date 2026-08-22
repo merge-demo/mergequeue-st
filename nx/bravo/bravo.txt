@@ -1927,7 +1927,7 @@ bandle 1
 blastoff 2
 bushcraft
 bandmaster 2
-brainsickly 1
+brainsickly 2
 bando 1
 besieger 3
 bodiced
@@ -2861,7 +2861,7 @@ bursted 1
 barracouta 1
 brushlessness 1
 bicep 1
-blanketless
+blanketless 1
 barrad
 bridebowl 2
 boskage
@@ -3444,7 +3444,7 @@ briny
 bastards 2
 bioptic 1
 barrelfishes 2
-baster 1
+baster 2
 bastilles 1
 bassetting 1
 basibracteolate
@@ -3926,7 +3926,7 @@ baumhauerite 2
 boychik 1
 buckishly 1
 bamboos
-bbs
+bbs 1
 bassly 2
 beliquor 2
 balaniferous 1
@@ -4475,7 +4475,7 @@ bankruptly 1
 biurea 2
 becram 2
 braid
-becramp 2
+becramp 3
 blackmail
 barbone 1
 balboas 1
@@ -5634,7 +5634,7 @@ blarina
 bridelike
 bronchostomy 1
 belate
-babbittess
+babbittess 1
 bendingly
 belating 1
 belauded
@@ -6825,7 +6825,7 @@ busboy 2
 battalia
 bitulithic 1
 besagne 3
-bisexually
+bisexually 1
 bishopless 3
 besaile 3
 bipartizan 1
@@ -7657,7 +7657,7 @@ befreckle 1
 biodynamic 4
 bewry
 bankroller
-bullwhip 1
+bullwhip 2
 brashiest 1
 bahar 1
 barranca
@@ -8632,7 +8632,7 @@ billionth 1
 braggartism 1
 brethel 4
 beldames 1
-brightsomeness 1
+brightsomeness 2
 bowling 2
 blechnum
 basigenic 2
@@ -8983,7 +8983,7 @@ blankety 1
 bleachfield 1
 bunchbacked
 biographers 4
-bossisms 1
+bossisms 2
 biographies 3
 boulangist
 boreable 3
@@ -9807,7 +9807,7 @@ beanpoles
 beja
 bradypnea 1
 bistriate 3
-bombardment 1
+bombardment 2
 beddable 1
 breeze
 brachypleural 1
@@ -12904,7 +12904,7 @@ bulldog 1
 bertrandite 2
 blondes
 beauticians
-boost
+boost 1
 bromizes
 bruin 1
 blottto
@@ -13109,7 +13109,7 @@ brothiest 3
 batteling 1
 backfurrow 5
 buggering
-bodyguard 1
+bodyguard 2
 borid 2
 bacterioscopist 1
 bromisation 1
@@ -13136,7 +13136,7 @@ bedumb 1
 brownies
 belaced 1
 bovids
-bornite 3
+bornite 4
 baksheesh 1
 bemuck
 bestirs
@@ -13917,7 +13917,7 @@ bowshot
 brined 2
 bulbaceous
 boatswains 2
-brainish
+brainish 1
 bowshots 1
 boomkins 1
 backstopped 3
@@ -16199,7 +16199,7 @@ brazilians 1
 breweries 1
 bourgs 1
 bibliomanianism 2
-boeotic 2
+boeotic 3
 borrowing 2
 begnawed 1
 bramblier 2
@@ -17480,7 +17480,7 @@ birdikin 1
 bena 1
 buprestis
 brob
-briskening
+briskening 1
 bragwort 2
 biteless 4
 biscotin 3
@@ -18056,7 +18056,7 @@ backflow 1
 betoken 1
 baptizable 1
 biologies 1
-bustled
+bustled 1
 beefwood 1
 boast 2
 bislings 1
