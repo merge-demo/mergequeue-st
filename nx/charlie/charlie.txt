@@ -5924,7 +5924,7 @@ catfall 1
 catfalls
 catfight
 creeled 1
-catfish
+catfish 1
 catfoot
 catfooted
 chhatri
@@ -6075,7 +6075,7 @@ candify
 catlike 1
 crowns
 catling
-catlings
+catlings 1
 condescend 2
 cairds 1
 catlins 2
@@ -7012,7 +7012,7 @@ carretta 1
 cantoned
 clitellum 1
 centauress 2
-catechism 1
+catechism 2
 centaury 1
 carburetted 3
 carnal 2
@@ -9634,7 +9634,7 @@ caingua 1
 calcipexy 2
 cheerled
 cheerlessly
-cheerlessness
+cheerlessness 1
 comatulid 3
 cheerly
 coastman
@@ -10691,7 +10691,7 @@ chimneyless 1
 counterdefender 1
 chimneylike 1
 chimneyman 1
-chimneypiece
+chimneypiece 1
 chymotrypsinogen 2
 creedalism 1
 coilsmith 2
@@ -11995,7 +11995,7 @@ colophonite 1
 chiefdom
 chorioidocyclitis 1
 coffeewood
-chorioidoiritis 1
+chorioidoiritis 2
 catcalling
 choriomata 1
 chorions
@@ -12346,7 +12346,7 @@ chromamamin 2
 chilodon
 corelate
 chromammine 2
-corticopeduncular 1
+corticopeduncular 2
 chromaphore
 chromas 1
 coffeeweed 1
@@ -14206,7 +14206,7 @@ coreplasty
 cotheorist 3
 circumdenudation 2
 chammying
-chrysomonad 1
+chrysomonad 2
 circumducing 3
 circumducted
 coastguard 1
@@ -22984,7 +22984,7 @@ catalytic 1
 chemotherapies 2
 companioning
 consistencies
-choriambi
+choriambi 1
 consistently 1
 chebacco
 consistible
@@ -28128,7 +28128,7 @@ carbonadoing
 cristated 1
 crossbbred
 crossly
-craniognosy 1
+craniognosy 2
 coteries 2
 curved 1
 cento
@@ -28352,7 +28352,7 @@ cravings
 chlorophoenicite
 comportment
 cymbalers
-califate
+califate 1
 counteragent
 colaphize
 clanned 2
@@ -31073,7 +31073,7 @@ choughs 1
 cumulative
 chervonets
 cumulativeness 1
-countersunk
+countersunk 1
 cumulene
 cossacks 1
 clinked
@@ -31558,7 +31558,7 @@ centrals 1
 cariamae
 cowlicks
 cauliflower 1
-cortine 1
+cortine 2
 curtainless
 curtainwise
 coir 1
@@ -31932,7 +31932,7 @@ cyanospiza
 caricographer
 coagulators 1
 czarina
-capturers
+capturers 1
 creaturely 1
 churchlike 2
 clitella
