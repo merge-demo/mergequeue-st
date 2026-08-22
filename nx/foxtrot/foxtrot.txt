@@ -868,7 +868,7 @@ forestlike 2
 fatheads 1
 featural 3
 flatheads 2
-fortake 3
+fortake 4
 fishhook 2
 februarius 1
 forcive 3
@@ -1717,7 +1717,7 @@ fu
 fencibles 2
 felonies 1
 feastraw 3
-fledgling
+fledgling 1
 formican 1
 foreordainment
 filiality 1
@@ -2550,7 +2550,7 @@ femereil 3
 fratery 1
 fitchews
 flaxtail 3
-flustery 1
+flustery 2
 fibrocytic 1
 faithbreach 1
 fishpot
@@ -2865,7 +2865,7 @@ fisty
 finable 2
 foresails 3
 figworm 1
-fungid 1
+fungid 2
 familistery 1
 fettered 2
 frowstiness 1
@@ -3477,7 +3477,7 @@ formboard 2
 figo 2
 foraminifer 1
 favillae
-fibbed 1
+fibbed 2
 figshell
 flankard 2
 fury 1
@@ -5324,7 +5324,7 @@ feasts
 filial
 fant
 forcepslike 2
-foulmouthedly 2
+foulmouthedly 3
 flimflam
 focusses 1
 flightworthy 4
@@ -7427,7 +7427,7 @@ figgum 4
 fille 3
 fawnlike 1
 fans 3
-faintful 1
+faintful 2
 fleckiest 1
 firefang 3
 ferrocerium 2
@@ -7436,7 +7436,7 @@ fruitlet 2
 fillemot 2
 faience 2
 firefall 4
-france 1
+france 2
 forevalue 1
 firstship 2
 forcibleness 3
@@ -8299,7 +8299,7 @@ fistulated 3
 fulltime 4
 father 1
 fructuose 1
-flushest 2
+flushest 3
 forgettably
 faverole 4
 fractionalizing 4
@@ -8944,7 +8944,7 @@ flitty 2
 ferritins 4
 foumart 1
 fodgel
-falciparum 2
+falciparum 3
 forayer 1
 fartherance 3
 filthify 2
