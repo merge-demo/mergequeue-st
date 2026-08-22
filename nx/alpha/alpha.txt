@@ -2228,7 +2228,7 @@ achondritic 3
 antifanatic
 abatjours 1
 agrostology 1
-alure 1
+alure 2
 alqueire 1
 amyelotrophy 1
 achordata
@@ -4863,7 +4863,7 @@ aerobiologist
 acrotrophoneurosis
 awakener
 autocross 1
-aerobiosis
+aerobiosis 1
 aerobious
 allotypy
 allophylic 1
@@ -5680,7 +5680,7 @@ austromancy 2
 alloiometry
 acoelomatous 1
 axillary
-agade 1
+agade 2
 autocollimation
 atopies 1
 aquicultural
@@ -6584,7 +6584,7 @@ ayapana
 auxetically 1
 aias 1
 achomawi 1
-aldebaranium
+aldebaranium 1
 ayatollah
 aiblins 1
 antileptic 1
@@ -7510,7 +7510,7 @@ albugines
 apometabolous 1
 amban
 album 1
-algedonic
+algedonic 1
 admittee 1
 abhorrences
 albumenisation 2
@@ -14191,7 +14191,7 @@ agatine 1
 anaces 1
 airwomen 2
 antlia 1
-angelo
+angelo 1
 algonquian 3
 antepenult 1
 acromyodi 1
@@ -14303,7 +14303,7 @@ antevert
 anteverting 2
 alphabetizers
 americanist 2
-anthdia 1
+anthdia 2
 appraisals
 anthroposociologist
 albs 1
@@ -14825,7 +14825,7 @@ arthrocele 3
 anticeremoniously
 anticeremoniousness 1
 aristocratic
-allogenically
+allogenically 1
 archicleistogamy 3
 anadipsic 2
 antiscii 1
@@ -15696,7 +15696,7 @@ anaphorical
 alehoof
 adsignify
 atrazine
-achromatism 1
+achromatism 2
 armoury 1
 antiskepticism 1
 antipacifistic
@@ -17656,7 +17656,7 @@ assoilment 1
 arthrodire 2
 analysands 1
 aegeriidae
-asperuloside 3
+asperuloside 4
 appreciably 1
 azotobacter
 aquarellist
@@ -18279,7 +18279,7 @@ aphorists 1
 arabiyeh 1
 apparel 2
 acquisitum
-adjunct 1
+adjunct 2
 arability 1
 arabinic 1
 arabinosic
@@ -20627,7 +20627,7 @@ anapnograph 5
 arthrophlogosis 1
 abdaria
 appete
-abruptiones
+abruptiones 1
 arthropodal
 ambustion 1
 abmhos
@@ -20702,7 +20702,7 @@ angami 1
 articularly 2
 axonemes 1
 articulars 2
-accessively 1
+accessively 2
 articulated 1
 apyrexial 2
 accidental
@@ -22979,7 +22979,7 @@ aeolism 1
 anhelation 1
 antilysis 3
 atroceruleous 1
-afgod
+afgod 1
 arenicole 1
 aroynted 1
 atrochous 1
@@ -24130,7 +24130,7 @@ adcon
 andiron 1
 autognostic
 acanthocarpous
-anticapitalistic 1
+anticapitalistic 2
 autografting
 autogram
 anthesteria 1
@@ -24159,7 +24159,7 @@ acemetae
 anomic 3
 abscessing 2
 aborticide 1
-autoimmunity
+autoimmunity 1
 alcantara
 appledrone
 autoimmunize 1
@@ -24894,7 +24894,7 @@ acknown 1
 ae 2
 antinoness
 aponeurotome 1
-anarchosocialist
+anarchosocialist 1
 agrees
 antivariolous 2
 avuncular
