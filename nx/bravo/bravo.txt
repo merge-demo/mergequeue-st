@@ -3546,7 +3546,7 @@ batfowl 2
 bedust 1
 batfowls
 bestore 1
-bulbocavernosus
+bulbocavernosus 1
 brookites 1
 blackroot 2
 bathed 2
@@ -5254,7 +5254,7 @@ backmost 3
 blastocyst 2
 bolters 1
 bioblast 2
-bestraddle
+bestraddle 1
 bastes 6
 bothsided
 begazing 1
@@ -6355,7 +6355,7 @@ billsticking 2
 blowspray
 boilerful 1
 belite 1
-barani 1
+barani 2
 benzidino 3
 blackbirding 1
 birdwise 1
