@@ -1345,7 +1345,7 @@ epode 3
 exonerates
 encloser 2
 endoskeletal 1
-essentialness 3
+essentialness 4
 exomis 1
 estrone 1
 evasional 3
@@ -1822,7 +1822,7 @@ enigmatical 3
 eared 1
 eighties 1
 eightieth 2
-eightling
+eightling 1
 edematose 2
 euler 1
 engineeringly
@@ -3080,7 +3080,7 @@ entellus 1
 et 2
 enheritage 4
 endamoeba 3
-embeds 1
+embeds 2
 emp 2
 engilding 4
 encyclical
@@ -4593,7 +4593,7 @@ engaged
 etherealised
 enhydrite 1
 extratensive 2
-exteriorisation 4
+exteriorisation 5
 erythroxyline
 endarchies 2
 exuberantness 1
@@ -8098,7 +8098,7 @@ eliminative 1
 elmy 1
 eclectically 1
 erudit 2
-echeveria 1
+echeveria 2
 episcopate 3
 expulsions 1
 entosphere 1
@@ -9032,7 +9032,7 @@ erythrocytoblast
 explanate 1
 energised 2
 endpiece
-ebbets 2
+ebbets 3
 equalize
 emptier 2
 erythrocytolysis 2
@@ -10364,7 +10364,7 @@ enthuses 4
 epistolary 1
 ethnozoology 2
 evolvers 2
-ethography 2
+ethography 3
 excepter 2
 entropion 3
 ethnogeographer 1
@@ -10590,7 +10590,7 @@ equivalue
 elpidite 3
 equiprobable
 euphroes 1
-enteria 3
+enteria 4
 eocarboniferous
 elixation 4
 earthiness 1
@@ -13324,7 +13324,7 @@ exploratively 2
 ectrogeny
 eupterotidae 3
 estoile
-empedoclean 3
+empedoclean 4
 espousers 4
 efformation
 eminences 4
