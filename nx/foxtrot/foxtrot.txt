@@ -2935,7 +2935,7 @@ fleaworts
 flyoff 4
 filialness
 facier 1
-fooleries 3
+fooleries 4
 flukiness 3
 freezed 2
 foxberries 1
@@ -3895,7 +3895,7 @@ febriferous 1
 fluidextract
 findable
 fruz 3
-familiarize
+familiarize 1
 function
 findhorn 1
 filarees 2
@@ -5340,7 +5340,7 @@ fleabags
 fireclay
 fluorites 2
 feoffee 2
-fleadock 1
+fleadock 2
 fleahopper 5
 fatiha 1
 flinger
@@ -6154,7 +6154,7 @@ fantom 1
 frequented 1
 foredoor 1
 fraughts 1
-furiosity 1
+furiosity 2
 ferrums
 fuses 1
 fewness 3
@@ -7714,7 +7714,7 @@ falsified 2
 flawful 1
 finnack 2
 football
-fasciated
+fasciated 1
 ferrotypes 1
 fernier 4
 frayproof 3
@@ -7984,7 +7984,7 @@ filicidal 3
 fenerate
 fozier
 foreshot 2
-ficelle 3
+ficelle 4
 fumatoriums 1
 fibrinogenous 3
 fitness
@@ -8619,7 +8619,7 @@ footrope 2
 fishlike
 foxhole 3
 fornication 1
-forest 1
+forest 2
 feigner
 fossilize 3
 fornicatrix 4
@@ -11568,7 +11568,7 @@ feedback 1
 forecaddie 1
 friskful 2
 flytier 3
-fulmar 2
+fulmar 3
 fasciotomy 3
 futhermore 4
 frogflower 1
