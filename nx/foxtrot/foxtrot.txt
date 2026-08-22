@@ -1962,7 +1962,7 @@ flagmaker 1
 fone
 feeb
 feeblemindedly 1
-femaleness
+femaleness 1
 flowerlike 3
 festshrifts 2
 francia 4
@@ -2291,7 +2291,7 @@ feuterer 2
 fashionless 2
 foambow 1
 filicales 2
-formulable 4
+formulable 5
 flotation
 foreface 2
 fistulizing
@@ -3679,7 +3679,7 @@ freshener 2
 finicking 1
 follying 1
 fiddleys 4
-filioque 3
+filioque 4
 feistiest 3
 foysen 2
 fruitwise 3
@@ -4161,7 +4161,7 @@ fluophosphate 2
 foreaccounting
 frequence 3
 fumago 1
-frier 2
+frier 3
 franchisor
 fiberglas
 fining 3
@@ -5107,7 +5107,7 @@ fluidacetextract 3
 frivolist
 fitout 6
 falasha 1
-forebespeak
+forebespeak 1
 fatherling
 fractionise
 funking
@@ -5191,7 +5191,7 @@ furmente 4
 frontozygomatic 2
 furial 1
 furfurous 1
-flaubert 1
+flaubert 2
 forestudy 1
 flaubert 2
 forestudy 1
@@ -5370,7 +5370,7 @@ filters
 floccillation 1
 faverel 1
 figged 4
-flnerie 2
+flnerie 3
 fluoridise 2
 foredetermine
 flunkyistic 1
@@ -5536,7 +5536,7 @@ fondaco 2
 forbearingness
 frowzy 5
 faldage
-frapped
+frapped 1
 furbelowing 1
 fankle 1
 fingerbreadth
@@ -6765,7 +6765,7 @@ flareless 1
 forfault
 felloe
 frayed 1
-fried 1
+fried 2
 feedwater 2
 formative
 fronded 1
@@ -8244,7 +8244,7 @@ francophile
 fernandinite 3
 fluoroscoping 3
 fishways 4
-faded 2
+faded 3
 frijolito
 faze 1
 forage 1
@@ -8550,7 +8550,7 @@ forminate 1
 forming
 formless 2
 forwoden 4
-faveolus 3
+faveolus 4
 foxtrot 2
 flabbergasted 1
 flunkydom 1
@@ -9200,7 +9200,7 @@ flashlamp 2
 flintwork 2
 flourishing 1
 foolheaded 2
-fads
+fads 1
 filariasis 2
 fiaschi 1
 florification 1
@@ -9244,7 +9244,7 @@ foreknown
 faceplate 1
 flubbing
 fucus 1
-farmed
+farmed 1
 fledged
 fumously 2
 firebugs 2
@@ -10511,7 +10511,7 @@ fantast 2
 forewarns 3
 fluffs 3
 frostfish 1
-forcite 4
+forcite 5
 frostbitten 4
 frosty 2
 frictionable 2
@@ -10960,7 +10960,7 @@ fadridden 3
 fack 1
 francs 3
 fulminurate 1
-fess 2
+fess 3
 fulnesses 4
 flanconade 1
 forgetness 1
