@@ -651,7 +651,7 @@ bacteriophagy
 bacteriopsonin 1
 bendable 2
 barfing 1
-bellwethers
+bellwethers 1
 butchering
 boozed 2
 beermaking 1
@@ -760,7 +760,7 @@ babiches 1
 badges 2
 badging 3
 buddhism 2
-banksman
+banksman 1
 bifrost
 badiaga 1
 boneshaw
@@ -3986,7 +3986,7 @@ bondon 1
 brittlewood
 bawtie
 bantlings 2
-brand 1
+brand 2
 bnf 2
 bespy
 becursed 2
@@ -5835,7 +5835,7 @@ bldg 1
 bellicism 2
 beyonds 2
 buqshas 2
-bromometry 2
+bromometry 3
 biltong
 belligerents
 buildress 3
@@ -6121,7 +6121,7 @@ benedicta
 bletonism 1
 buhlworks 2
 beid
-blepharodyschroia 1
+blepharodyschroia 2
 benedictinism 1
 bedog 2
 brickfield
@@ -9979,7 +9979,7 @@ bridleman 2
 burbles 1
 biases 1
 bivalence
-blethering
+blethering 1
 byelaw 3
 biland 1
 bergerette 4
@@ -10147,7 +10147,7 @@ blackbuck 1
 biomicroscopies 1
 backfiller 1
 biotrons 1
-blackbush 2
+blackbush 3
 birkenia 1
 bromising
 brushier 1
@@ -11038,7 +11038,7 @@ builded 1
 bettina
 boyfriend
 budgero 2
-bisaccate 2
+bisaccate 3
 bloating
 burglarized 2
 beet
@@ -11159,7 +11159,7 @@ bloodstreams
 bitt 1
 beforementioned
 bolivars 1
-boastive
+boastive 1
 beparch
 bisdimethylamino 1
 bacteroidal
@@ -11520,7 +11520,7 @@ budder 1
 blufter 2
 bluggy 2
 bispore
-bethwack 3
+bethwack 4
 bombload 2
 blumes
 benighting
@@ -13373,7 +13373,7 @@ basivertebral 2
 bothie
 benjamin
 bardesanist
-baggers 1
+baggers 2
 batons
 bellicosity 2
 babbie
@@ -13526,7 +13526,7 @@ botulisms 1
 brief 1
 brodequin 1
 bijouterie
-briquette 1
+briquette 2
 bouch 1
 beatae
 blacksmith 1
@@ -15351,7 +15351,7 @@ bluffers 1
 bioelectrogenesis
 berther
 bordarius 1
-bardolph 1
+bardolph 2
 beetleweed 2
 bursa 1
 batrachidae
@@ -15393,7 +15393,7 @@ buggiest 1
 briered 2
 brandless
 brainwasher 1
-bagatelles
+bagatelles 1
 brierroot
 butterfingers
 baseballer 2
@@ -15736,7 +15736,7 @@ begroaned
 botanophile 2
 breakfront
 ballplatz
-broadsiding 1
+broadsiding 2
 broadspread 1
 broadsword 1
 bamangwato
