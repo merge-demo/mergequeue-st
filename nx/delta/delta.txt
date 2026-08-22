@@ -301,7 +301,7 @@ dayanim 5
 daybeacon
 dealbate 1
 daybed 1
-devchar
+devchar 1
 disembowelment 1
 disgruntling
 dollfaced 1
@@ -696,7 +696,7 @@ dulotic 1
 disembowelling 1
 desidiose 3
 disseize 1
-dylan 1
+dylan 2
 danagla 1
 dibromid 1
 dashing 1
@@ -1344,7 +1344,7 @@ dysteleologically 1
 departure
 daitya 1
 draughtsmanship 1
-derelinquish 1
+derelinquish 2
 daunt 1
 daunted 2
 dhobies 1
@@ -6119,7 +6119,7 @@ discostomatous 1
 derecho
 dereferenced 2
 disfigures
-designees 4
+designees 5
 dereferencing
 disprove
 deregulated
@@ -7943,7 +7943,7 @@ demicylinder 1
 downsteepy 4
 diathermal
 decimeters
-dextroaural 1
+dextroaural 2
 dismes 2
 drupiferous 1
 dartos
@@ -10264,7 +10264,7 @@ dioctahedral 3
 dioctophyme 1
 deave 2
 dulwilly 2
-defaulting 1
+defaulting 2
 diodontidae 1
 dioecy
 dislodged 1
@@ -10326,7 +10326,7 @@ dehydrogenised 1
 desilverizer 2
 downtrends 2
 delightsomeness 2
-discophore 1
+discophore 2
 displanting
 dioptra 1
 depurative 1
@@ -13635,7 +13635,7 @@ dimethylketone 1
 dyscrase
 dreaming
 dissheathed
-daddums 1
+daddums 2
 dosimetrist
 deliverance 2
 disciplinative 4
@@ -16584,7 +16584,7 @@ diacritics 1
 destinies 1
 drung 1
 disendows 1
-dyscrased
+dyscrased 1
 dioxanes
 delomorphous
 dodecarchy
