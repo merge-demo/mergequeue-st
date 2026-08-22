@@ -1854,7 +1854,7 @@ camalote
 carrys 1
 caman
 chroococcaceous
-carucal 1
+carucal 2
 cercelee 1
 camansi 1
 camara
@@ -5569,7 +5569,7 @@ catadupe 1
 catafalco
 civilisation 2
 catagenetic 2
-catakinetic
+catakinetic 1
 catakinomeric 1
 corkscrewy
 crayonstone 2
@@ -7408,7 +7408,7 @@ cerambycid
 coruscations 1
 cerambycidae 1
 cathinine
-cyclonist 1
+cyclonist 2
 catdom
 ceramics
 cledge
@@ -8043,7 +8043,7 @@ capitulum
 chaferies 2
 chafers 1
 caranx
-chafes
+chafes 1
 calycanth
 campaspe 1
 chimaeras 3
@@ -10661,7 +10661,7 @@ coagment 1
 cookbooks
 caribou
 cytoplasmic
-chimes 2
+chimes 3
 chymes
 caseoses 2
 coprolite
@@ -10779,7 +10779,7 @@ casinet 1
 chinkara 2
 chinker 1
 chinkerinchee 2
-celling 2
+celling 3
 chinky 1
 ctenidia
 constricts 2
@@ -22722,7 +22722,7 @@ cinnyl
 conopophagidae
 conglobate
 circar
-conorhinus
+conorhinus 1
 cyananthrol 1
 childbear 3
 conoscenti 2
@@ -24117,7 +24117,7 @@ campaigning 1
 conversionism
 cypria
 citycism 1
-chirping
+chirping 1
 croatian 1
 cricothyroid 1
 catoptrics
