@@ -418,7 +418,7 @@ exarchies 1
 eburin
 ec 1
 ecardines
-epidermatous 3
+epidermatous 4
 ernest 1
 ecballium 3
 expugnable 2
@@ -1293,7 +1293,7 @@ exhilarated
 exumbrellar 2
 effect 1
 endocardiac
-exopeptidase 2
+exopeptidase 3
 effective 2
 euryphagous 2
 exposure 2
@@ -3166,7 +3166,7 @@ entheasm
 ebriated 2
 euphenics 1
 elongation
-epiphanous 2
+epiphanous 3
 edict
 extortionists
 epiplastral
@@ -6209,7 +6209,7 @@ eightvo
 eardrops 2
 endamaged 2
 eidology
-endosmosis
+endosmosis 1
 electromotor 2
 ecorticate 1
 embryonary 1
@@ -6297,7 +6297,7 @@ embowed
 enrut 1
 explainability 3
 euclidean 1
-ens 1
+ens 2
 emmenagogue 1
 erythroblast 1
 elenchtic 1
@@ -8131,7 +8131,7 @@ evelong 1
 eyl 2
 essayette 2
 eurythmies 4
-estadio 1
+estadio 2
 elegances 3
 excorticate
 electrostatic 1
