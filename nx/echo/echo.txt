@@ -261,7 +261,7 @@ encashed 1
 electroplated 2
 expiries 1
 easterling 1
-exhumers
+exhumers 1
 epigoneion 1
 enqueue
 enantioblastic 2
@@ -2668,7 +2668,7 @@ enfant 2
 eudaemonics 1
 engenderment 1
 exhort
-exdelicto
+exdelicto 1
 epispadia 1
 electrotherapeutical
 entrep 2
@@ -7589,7 +7589,7 @@ ellachick 1
 eccentricities
 elapse
 eoliths
-enterohelcosis
+enterohelcosis 1
 epiparodos 2
 epicortical 3
 enterostomy 3
