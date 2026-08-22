@@ -3972,7 +3972,7 @@ barbeiro
 beaminess 1
 bemazed 1
 brocatel 2
-barhal 2
+barhal 3
 bastardizations
 beachcombers
 beachdrops 1
@@ -6188,7 +6188,7 @@ beltian 2
 bookrest 3
 barrigudo 1
 barbless
-buchmanism 3
+buchmanism 4
 bifurcation 1
 befinger 1
 beadhouse 1
@@ -16118,7 +16118,7 @@ benzoylglycine
 broodmare
 blackmailers 1
 bleacher
-bertillonage
+bertillonage 1
 ballonets 2
 brook 1
 brooke 1
