@@ -7355,7 +7355,7 @@ cyclostylar
 cephalometric
 cephalonasal 1
 cephalopathy
-cephalopharyngeal
+cephalopharyngeal 1
 cephalophyma
 cephalophine
 cryostats
@@ -14449,7 +14449,7 @@ chasmogamic
 cirrocumulous
 caryophyllin
 cebatha 1
-coloslossi
+coloslossi 1
 cirrocumulus
 cirropodous
 cirrose 1
@@ -22507,7 +22507,7 @@ conjointment
 chromaffin 1
 conjointness
 chorwat 1
-creepages
+creepages 1
 conjoints 1
 chorism 1
 chopped
@@ -30390,7 +30390,7 @@ coversed 1
 cancelier 1
 crustaceology
 chinovnik
-crustaceological
+crustaceological 1
 crustaceologist 1
 cattishness
 clearstories 2
@@ -31873,7 +31873,7 @@ commercialising
 cirrhosis
 cursement
 cutterhead 2
-chemicals 1
+chemicals 2
 cutthroat
 chylopoietic 1
 cuttyhunk
