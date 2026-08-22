@@ -2685,7 +2685,7 @@ barmcloth 1
 brither
 birdcage 1
 balmlike 2
-barnabas 1
+barnabas 2
 bales
 barnaby 3
 bluebreast
@@ -9762,7 +9762,7 @@ buckskin 1
 bedragglement 2
 bissonata 1
 besing 1
-bistate
+bistate 1
 biosyntheses 1
 bibliophage
 biochemist 1
