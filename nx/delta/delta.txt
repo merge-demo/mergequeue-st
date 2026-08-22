@@ -526,7 +526,7 @@ dermaskeleton
 dama 1
 damageability 2
 damageably 1
-detonatable 1
+detonatable 2
 damaged 1
 detort 2
 damageous 2
@@ -18462,7 +18462,7 @@ demichamfron
 diagometer
 disulphuret 1
 degreased 1
-disodic
+disodic 1
 debordment 1
 dishonestly 3
 downsman 1
