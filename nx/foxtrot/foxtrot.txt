@@ -598,7 +598,7 @@ floodways
 fleshes 5
 forehand 2
 folly 3
-farrantly
+farrantly 1
 funnies 2
 frame 1
 falconelle 3
@@ -1118,7 +1118,7 @@ flockling 2
 fimbriodentate 3
 flagrance 1
 followeth 2
-florulas 1
+florulas 2
 facials 2
 fiberization
 frumety
@@ -2308,7 +2308,7 @@ faunule 1
 fenestrato 2
 fondness 2
 fanzines 4
-fellowess 2
+fellowess 3
 frenal 3
 fibromyxoma 1
 featherheaded 2
@@ -3645,7 +3645,7 @@ fretsaws
 fiftieths 2
 fibrillar 2
 freshed 1
-filigrane
+filigrane 1
 furlana 1
 frangula 1
 fannier 1
@@ -3703,7 +3703,7 @@ firedogs 3
 foalfoot 1
 fillings 2
 furfuryl 1
-fricti 1
+fricti 2
 forepoling
 found 3
 fierasferid 1
@@ -4224,7 +4224,7 @@ firelight 1
 flab 1
 feistier 3
 frostbiting 1
-footsies
+footsies 1
 fowls 3
 farinosely 1
 firepinks 2
@@ -4825,7 +4825,7 @@ funker 1
 fetting 1
 fibrinuria 2
 fluidiser 3
-fardh
+fardh 1
 fumish 1
 flume
 fracticipita 1
@@ -6188,7 +6188,7 @@ fadeaway
 frothier
 fluavile 2
 flubbed 1
-feudum 1
+feudum 2
 foreread 2
 fairgoing 2
 fondest 1
@@ -7152,7 +7152,7 @@ furcula 2
 fatherlandish 2
 florivorous 4
 forbathe 6
-forebroads 3
+forebroads 4
 forgottenness 1
 frumenties 4
 fredaine 1
@@ -7415,7 +7415,7 @@ flake 1
 finks
 furan 3
 forethrift 2
-forceless 4
+forceless 5
 fasciolar 1
 flagellariaceae 2
 floreate 1
@@ -7831,7 +7831,7 @@ fuzed 1
 frounces 1
 forenote 3
 fastness 2
-feltyflier 4
+feltyflier 5
 fleamy
 fashionableness
 felonwood 3
@@ -8356,7 +8356,7 @@ foreroyal 3
 fod
 fraughan 1
 fossilising 1
-fossilizable 4
+fossilizable 5
 familyish 3
 forhow 2
 ficoidaceae 1
@@ -9262,7 +9262,7 @@ feldspathose
 fretless 5
 flosh 1
 fastigious 4
-fusing 1
+fusing 2
 fragments 1
 foresighted 1
 fishbed 2
@@ -10443,7 +10443,7 @@ fraggings 2
 filigree 2
 flow 3
 fictility 2
-flyspecked
+flyspecked 1
 firstling 1
 femicide
 forcaria 2
