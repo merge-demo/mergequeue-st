@@ -5109,7 +5109,7 @@ boundedness 2
 beflag
 bamboo 3
 binits
-basilicon 2
+basilicon 3
 beflagged 1
 biopoiesis 2
 broidering
@@ -6509,7 +6509,7 @@ benzocaine 1
 bituminizing 2
 bepretty 3
 bedirt
-beghard
+beghard 1
 bejabbers 1
 bepuffed 1
 bopyrus
