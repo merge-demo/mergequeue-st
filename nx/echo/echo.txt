@@ -1273,7 +1273,7 @@ epigramme 2
 eq 1
 engjateigur 1
 epithalamion 2
-endogenesis
+endogenesis 1
 epyllia 1
 exemplifiable 1
 earthless 3
@@ -6268,7 +6268,7 @@ eyeholes
 enterogram 1
 epochist 1
 enrollee 1
-extraorbitally 3
+extraorbitally 4
 excludes 2
 earmarking 1
 enrollers 3
@@ -7348,7 +7348,7 @@ epenetic 1
 everglade 1
 explosion 1
 ensculpture 1
-exsanguineous
+exsanguineous 1
 epenla
 edgings 2
 epentheses 1
@@ -8525,7 +8525,7 @@ entoglossal
 ethicism 1
 emblement 2
 ethylenoid 3
-endopleura
+endopleura 1
 enorganic
 epibenthos 2
 easts 2
@@ -9696,7 +9696,7 @@ empeirema 1
 eldred
 esse 1
 evangelizing
-elementarism 3
+elementarism 4
 embryol 4
 escopette 1
 external 1
@@ -11057,7 +11057,7 @@ epiphenomena
 endotrophic 1
 epigonichthys 1
 enterrologist 3
-establish 3
+establish 4
 euroaquilo 1
 earthier 3
 elargement
@@ -12778,7 +12778,7 @@ ethers
 emmenagogic 2
 enterococcal 2
 enfetters 1
-electroindustrial 2
+electroindustrial 3
 endoplasm
 eidos 2
 euhemeristically
