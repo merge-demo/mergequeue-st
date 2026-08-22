@@ -3262,7 +3262,7 @@ glycosin 3
 grein 1
 glent 1
 grabbable 2
-glosseme 2
+glosseme 3
 geodic 1
 gula 2
 greenside 1
@@ -4573,7 +4573,7 @@ gentility 2
 gunlocks 2
 gaudy 5
 guerinet 1
-glossitic 1
+glossitic 2
 goldsmithry 2
 guttersnipish 1
 gyppers 2
