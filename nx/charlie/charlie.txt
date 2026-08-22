@@ -4195,7 +4195,7 @@ chloanthite
 cardiopulmonary
 cardiorenal 1
 cardiorespiratory
-cardiorrhaphy
+cardiorrhaphy 1
 cardiorrheuma 1
 celts
 cardiosphygmogram
@@ -7586,7 +7586,7 @@ cerebropedal
 coppy 1
 cerebropsychosis
 calade
-coincidentally
+coincidentally 1
 cerebrosclerosis 2
 cerebroscope 2
 codewords
