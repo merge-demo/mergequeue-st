@@ -816,7 +816,7 @@ forbecause 1
 fanon 2
 fronted
 felichthys
-fingermark 2
+fingermark 3
 funereally 2
 fashioner
 finestill 1
@@ -2430,7 +2430,7 @@ furls 1
 fermail 1
 fobbed
 festivities 3
-fumier
+fumier 1
 fatigate 3
 freemasons 3
 fractur 1
@@ -3826,7 +3826,7 @@ futtermassel 3
 foundationer 1
 freckleproof
 femerell 2
-fingerberry 1
+fingerberry 2
 flauto 2
 fellside 2
 flectionless 3
@@ -3958,7 +3958,7 @@ farcical 1
 follyproof 2
 fossil 1
 footsteps 1
-founders 4
+founders 5
 focalise 3
 forfends
 fingerer
@@ -4109,7 +4109,7 @@ ferth 2
 fiendful
 feuilletons
 frameworks
-fiorin 2
+fiorin 3
 fusiladed 3
 fiorite 2
 foreseen
@@ -5361,7 +5361,7 @@ fascia 2
 flitterbat 1
 fruiteries 2
 ferulaic
-foldboater
+foldboater 1
 fascicular
 foreclosed 1
 fissured 1
@@ -6343,7 +6343,7 @@ fourb 2
 fasciculately 1
 flunkyize 2
 forefingers 4
-ferments 4
+ferments 5
 fumigatorium 1
 fpm 2
 frictionlessly 2
@@ -6867,7 +6867,7 @@ forthby 3
 ferritungstite 1
 farewell 1
 fiery
-flasks 1
+flasks 2
 friability 2
 feeds 2
 flourished 3
@@ -8216,7 +8216,7 @@ ferula
 fantastry 2
 feverberries 3
 formicinae 1
-folles
+folles 1
 faddle 3
 fraught 3
 flourishable 1
@@ -8416,7 +8416,7 @@ forefin 2
 flebile 1
 forklike 2
 finickily 2
-foundations 1
+foundations 2
 fossilological
 flatman 3
 forlain
@@ -9201,7 +9201,7 @@ flintwork 2
 flourishing 1
 foolheaded 2
 fads 1
-filariasis 2
+filariasis 3
 fiaschi 1
 florification 1
 feat
@@ -11673,7 +11673,7 @@ fresne 1
 frwy
 fluorochrome 3
 fibreboard
-faade 1
+faade 2
 ferrety 1
 futurama 2
 floodometer
