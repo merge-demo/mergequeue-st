@@ -1707,7 +1707,7 @@ caricography 1
 ceraunia
 calorifier 1
 calorimetry 1
-calorimetrically 1
+calorimetrically 2
 calorimotor 2
 calorist
 calorizing 1
@@ -30201,7 +30201,7 @@ cruciformity
 cruciformly
 crucily
 cruck
-cyclize
+cyclize 1
 crud 1
 canful 1
 crudded
