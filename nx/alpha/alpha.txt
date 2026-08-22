@@ -6141,7 +6141,7 @@ autoclaving 1
 ablock 1
 agamospore 2
 agitatrix
-agitprops
+agitprops 1
 aglance
 anchoritess 1
 aglaozonia 1
