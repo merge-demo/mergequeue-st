@@ -193,7 +193,7 @@ eten 2
 entincture 3
 electropolar 1
 ectoplacenta 2
-earthset 3
+earthset 4
 endomorphism 2
 equilibratory 1
 elater 1
@@ -1273,7 +1273,7 @@ epigramme 2
 eq 1
 engjateigur 1
 epithalamion 2
-endogenesis
+endogenesis 1
 epyllia 1
 exemplifiable 1
 earthless 3
@@ -1744,7 +1744,7 @@ enswathe 1
 everard
 ectogenesis
 extg 3
-epigraphic 1
+epigraphic 2
 eutony 3
 eyes 2
 encasing
@@ -5458,7 +5458,7 @@ emotion 2
 encake 1
 electroscope 2
 elritch 1
-ectocarpic 1
+ectocarpic 2
 excitate 4
 equiformity
 england 1
@@ -5584,7 +5584,7 @@ enforceable
 ectocarpous
 encitadel 2
 encryption 3
-enlisters
+enlisters 1
 enfigure 3
 excitable 2
 ensconcing
@@ -5684,7 +5684,7 @@ ensanguining 1
 excusability 1
 engage
 etymologic 1
-exampless 4
+exampless 5
 engineers 3
 engineless 2
 engineman 1
@@ -8525,7 +8525,7 @@ entoglossal
 ethicism 1
 emblement 2
 ethylenoid 3
-endopleura
+endopleura 1
 enorganic
 epibenthos 2
 easts 2
@@ -9746,7 +9746,7 @@ expeditation 2
 eightballs
 earthquave 1
 eumelanin 1
-enneagon 1
+enneagon 2
 empoisoner 3
 embitterment
 embracive 1
@@ -12088,7 +12088,7 @@ enplanes
 epacridaceae 3
 excrementive 1
 epigonus 1
-extrasensory
+extrasensory 1
 enfolder 1
 eccentric 2
 eris 1
@@ -13505,7 +13505,7 @@ embraceorr
 enallachrome 1
 eyeservice 1
 eutopian 1
-eucrasite 3
+eucrasite 4
 ethan 4
 ergophobic
 exquire 4
@@ -13580,7 +13580,7 @@ enlightening
 earthquakes 2
 experimentor 3
 exuviae
-emmarbling 2
+emmarbling 3
 erato 1
 eyre 4
 epexegetic
