@@ -4184,7 +4184,7 @@ bulgy
 beastman 1
 barracoutas 1
 beastship
-beat 1
+beat 2
 benches 2
 beatee 1
 bleery 2
@@ -5264,7 +5264,7 @@ bedabbling 1
 begem 1
 bridesmaiding 1
 bestseller 1
-blankbook
+blankbook 1
 bloods 1
 begetter 2
 biogeochemistry
@@ -8070,7 +8070,7 @@ bowery 1
 brutal
 bicorned
 booby 3
-booklift 1
+booklift 2
 bartend 2
 bagroom 1
 bicornuate 2
@@ -12573,7 +12573,7 @@ bistroic 2
 bonitarian 1
 balsam 1
 boroughlet 1
-bragi 2
+bragi 3
 barndoor 1
 bemocks
 bardane 2
@@ -12636,7 +12636,7 @@ baguets 1
 beleaguerment 4
 bodeful
 bulged 2
-brasero
+brasero 1
 basinlike 1
 bonxie 1
 boucher
@@ -15833,7 +15833,7 @@ bemires
 bimaculated 1
 bourguignonne
 borism
-bargeer
+bargeer 1
 brainlessness 1
 brokenheartedly 1
 binder
@@ -17476,7 +17476,7 @@ brutus 1
 backspins 3
 berzelianite 2
 barrace 2
-birdikin
+birdikin 1
 bena 1
 buprestis
 brob
