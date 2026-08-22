@@ -498,7 +498,7 @@ dismantler 2
 dalle
 deices 1
 diamylene
-desmotropic 1
+desmotropic 2
 dividing
 dalliances 2
 discomforter
@@ -526,7 +526,7 @@ dermaskeleton
 dama 1
 damageability 2
 damageably 1
-detonatable 1
+detonatable 2
 damaged 1
 detort 2
 damageous 2
@@ -3535,7 +3535,7 @@ demoniast
 deoxygenizing 2
 disegno
 displicency
-developedness
+developedness 1
 diencephalon 1
 defunct
 descendence 1
@@ -6874,7 +6874,7 @@ diagenetic 1
 danglers 1
 drailed 1
 dsp
-desolate
+desolate 1
 disney 2
 decreing 2
 dehydrochlorination 1
@@ -8874,7 +8874,7 @@ dicastery 1
 dichotomist
 dicasteries 1
 debaucheries 2
-dicastic
+dicastic 1
 dysmenorrhea 2
 diccon
 depolariser
@@ -11124,7 +11124,7 @@ depletes
 dottily
 devicefulness 1
 duraplasty
-distressful 3
+distressful 4
 dichromic
 disoppilate
 decanted 1
@@ -17182,7 +17182,7 @@ discourser 3
 drylots 4
 dynamists
 drilvis
-deuterogelatose 4
+deuterogelatose 5
 dringle 1
 disomaty 2
 decade 1
@@ -18462,7 +18462,7 @@ demichamfron
 diagometer
 disulphuret 1
 degreased 1
-disodic
+disodic 1
 debordment 1
 dishonestly 3
 downsman 1
