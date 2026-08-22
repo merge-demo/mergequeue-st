@@ -859,7 +859,7 @@ entailed
 establishment
 ectomorph 3
 euxanthic 1
-extrudability
+extrudability 1
 ectoparasitica 1
 exhumating 1
 expediencies
@@ -2129,7 +2129,7 @@ esophagostenosis 1
 eyestring 1
 ensorceling
 explicandum 1
-extraoral 3
+extraoral 4
 electropult
 erotica
 elation
@@ -3974,7 +3974,7 @@ ecumene 3
 emparchment 2
 exaltative 2
 enruin 4
-electroplates 3
+electroplates 4
 expiations
 embarrassingly 2
 edictum 1
@@ -4601,7 +4601,7 @@ engrafting
 elasticizes
 epimerase 2
 epimerising 3
-eusuchian 1
+eusuchian 2
 eddies 3
 excretionary
 enrapting 1
@@ -4820,7 +4820,7 @@ enthymeme 2
 equalizing 1
 exponentiations 1
 elemental 1
-effeminateness 1
+effeminateness 2
 emptings 1
 excludible 1
 explete
@@ -6585,7 +6585,7 @@ eartagged
 excitator
 empyreumata 1
 enantiomeric 1
-encraty 1
+encraty 2
 elephantlike
 enzymologies 2
 enterohydrocele 2
@@ -8639,7 +8639,7 @@ ethrogs 1
 enarration 2
 equipages
 etherialism 2
-eisenhower 2
+eisenhower 3
 emove 1
 epipoditic 3
 eggcrate 2
@@ -9339,7 +9339,7 @@ escalating 2
 escalations 3
 enkindle 2
 exuviate 2
-expectedly
+expectedly 1
 earmindedness 2
 escalator
 excommunicable 2
@@ -9815,7 +9815,7 @@ engin 1
 esterified 2
 eclipsation 2
 eatage
-esterization 2
+esterization 3
 esterize 3
 euciliate 2
 exhumated 3
@@ -10549,7 +10549,7 @@ expiscator 1
 enshrouded 1
 epitoxoid 1
 epistolized 1
-engolden 1
+engolden 2
 euchlorine 1
 eluents 1
 ectrodactylia
@@ -12170,7 +12170,7 @@ excurvated 5
 emaciate 1
 extrados 1
 emphysematous
-esclavage 2
+esclavage 3
 energise
 elasticin 4
 exuviating
@@ -12180,7 +12180,7 @@ epicly 2
 ethnogeography
 etageres 1
 egally 2
-embastioned 1
+embastioned 2
 elasmobranchian 1
 excusably 3
 enswathing 1
@@ -12241,7 +12241,7 @@ eyewaters 3
 eras 2
 epitrichium 2
 elachistaceae
-epigraph
+epigraph 1
 epilachna 2
 executioneering 2
 enneahedrons 4
@@ -12345,7 +12345,7 @@ earthlings 3
 ethic
 enhydrous 2
 etymologicon 1
-exercitation 1
+exercitation 2
 energetic
 elecampane 1
 effortless
