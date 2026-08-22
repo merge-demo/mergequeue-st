@@ -5356,7 +5356,7 @@ castable
 castagnole
 castalian
 castalides
-cardiopuncture 1
+cardiopuncture 2
 chertier
 castanea 1
 chewy 1
@@ -10151,7 +10151,7 @@ chevin
 cheviots 1
 chevres 2
 chevret 1
-counterexamples
+counterexamples 1
 chevrolet 1
 chevrolets 1
 chlorodized
@@ -13814,7 +13814,7 @@ cineole 1
 cahiers 1
 cineoles
 calamite
-cardshark 1
+cardshark 2
 chequinn 1
 croighle
 cinephone 1
@@ -17483,7 +17483,7 @@ cuttings
 campanist
 coblentzian
 cobleskill 2
-cobloaf
+cobloaf 1
 cobola 1
 ceratectomy
 contriving
