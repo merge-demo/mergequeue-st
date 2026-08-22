@@ -868,7 +868,7 @@ forestlike 2
 fatheads 1
 featural 3
 flatheads 2
-fortake 3
+fortake 4
 fishhook 2
 februarius 1
 forcive 3
@@ -1717,7 +1717,7 @@ fu
 fencibles 2
 felonies 1
 feastraw 3
-fledgling
+fledgling 1
 formican 1
 foreordainment
 filiality 1
@@ -3331,7 +3331,7 @@ fleckled
 frist 1
 fruggan 1
 fullmouthedly 1
-fandom 1
+fandom 2
 fulcra 3
 fleshlike 1
 flon 1
@@ -4215,7 +4215,7 @@ fireflirt 3
 foolishest 1
 fluviatile 5
 fritillary 1
-fridge
+fridge 1
 figurative 1
 finisher 1
 forum 1
