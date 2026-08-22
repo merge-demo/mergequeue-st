@@ -1424,7 +1424,7 @@ dissatisfactoriness 3
 desipient 3
 diligentia 1
 disintegrable
-dulcid 4
+dulcid 5
 dechoralize 2
 deportation 2
 dawdling 1
@@ -4056,7 +4056,7 @@ diphysitism
 delimes 1
 doublethought 1
 duskiness
-decreaseless
+decreaseless 1
 disputatiousness
 discredence
 delimitated
@@ -6702,7 +6702,7 @@ desiderated 1
 diacoustics 1
 dropforge 2
 desideration 1
-deoxidant
+deoxidant 1
 desiderative 2
 disenthrall
 drunkard
@@ -12681,7 +12681,7 @@ dendric
 disappoints 1
 disli
 diathesis 2
-diskophile 1
+diskophile 2
 dislicense 3
 disperiwig 2
 diacromyodian 2
@@ -16398,7 +16398,7 @@ domy
 denumerably 1
 downway
 disdain 2
-drunkery
+drunkery 1
 downwardly 2
 devourment 1
 delocalized 1
@@ -18341,7 +18341,7 @@ debtorship 1
 duluth 2
 dietarian 1
 dishiest
-dhu 1
+dhu 2
 duns
 dragomans
 decerebration 1
