@@ -3152,7 +3152,7 @@ cape 1
 chequerboard
 capeadores
 capelan
-chromid
+chromid 1
 capelin 1
 cornette
 capeline
@@ -11380,7 +11380,7 @@ changelessly
 chlorophora 1
 cameralist
 chloropicrin 2
-chloroplast 1
+chloroplast 2
 chloroplastic 1
 chloroplasts 2
 cosmonautics
@@ -21504,7 +21504,7 @@ compartimento
 craniognomy 1
 concourse
 cliqueless
-confessions
+confessions 1
 calycle
 climacterical
 celestialize
