@@ -730,7 +730,7 @@ bogyland 2
 behaves
 browbeaten
 blossomhead
-bloodstains 1
+bloodstains 2
 brakeless 1
 brokeress 1
 binful 1
@@ -2272,7 +2272,7 @@ bassoons
 barbarise 2
 barbarised 2
 benzazimide 2
-barbarising
+barbarising 1
 bragless
 barbarities 2
 barbarization
@@ -2812,7 +2812,7 @@ body
 barosinusitus 1
 barosmin 2
 backwashed 2
-bassoonist 2
+bassoonist 3
 blithefully 1
 buffaloback 4
 bedarken
@@ -3499,7 +3499,7 @@ bullaces 2
 batatas 1
 batavi 1
 bedraped 1
-ballan
+ballan 1
 buzzsaw 1
 bibble 3
 batrachiate
@@ -4003,7 +4003,7 @@ bicycles 1
 beglew 1
 buyback
 beslur 3
-bonyfish 2
+bonyfish 3
 believer
 beacons 1
 buoyancy 4
@@ -4245,7 +4245,7 @@ blackwasher 1
 breadwinners 1
 bocaccios 1
 bawdries 2
-beautydom
+beautydom 1
 butylic 1
 bedung
 begaud
@@ -6816,7 +6816,7 @@ bummaree 3
 bacteriaemia
 burley
 baroi 2
-bes
+bes 1
 biocide 1
 bushpig
 boaedon 1
@@ -8079,7 +8079,7 @@ beshadow
 bicorporate 1
 banyai 1
 belleeks 2
-bacteriohemolysin
+bacteriohemolysin 1
 bicostate 2
 billows 1
 bicrenate 1
@@ -12516,7 +12516,7 @@ brouhahas 2
 buxomest 1
 becarpeting
 broadness 1
-broncholith 1
+broncholith 2
 bilberries 1
 boneshaker
 bridesman 1
@@ -13886,7 +13886,7 @@ bowlder 1
 bicyclist 1
 bluefishes
 bauno 2
-bountiful 1
+bountiful 2
 bitbrace 2
 boloball 3
 bowleg 1
@@ -15570,7 +15570,7 @@ bryony
 biedermeier 4
 buglet 1
 bryonia 2
-belloot 1
+belloot 2
 backbiter
 bryophyllum 2
 bouncy 4
