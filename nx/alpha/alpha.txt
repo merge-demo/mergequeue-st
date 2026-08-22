@@ -2054,7 +2054,7 @@ autecy 3
 anticipatory 1
 antibromic 1
 arterial 2
-acetosoluble 1
+acetosoluble 2
 acetostearin
 acetotoluid
 accessible
@@ -6907,7 +6907,7 @@ auripuncture
 amalrician 1
 acetone 1
 airplaner
-abroma
+abroma 1
 aristomonarchy 2
 airplanist
 airgraph 3
@@ -6942,7 +6942,7 @@ afterwisdom 1
 asarta
 antiptosis 3
 antinationalists 1
-airohydrogen 1
+airohydrogen 2
 accrual 1
 airspace 1
 antisepticized 1
@@ -23083,7 +23083,7 @@ attainment 1
 attainor 1
 acridium
 attainted
-anticholagogue
+anticholagogue 1
 asepticized 1
 afferently 1
 acinar 1
