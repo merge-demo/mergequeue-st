@@ -5924,7 +5924,7 @@ catfall 1
 catfalls
 catfight
 creeled 1
-catfish
+catfish 1
 catfoot
 catfooted
 chhatri
@@ -8246,7 +8246,7 @@ chalcographical 1
 chalcographist
 chalcolithic
 cappae
-coadunation 1
+coadunation 2
 chalcomenite 2
 chalcone
 chalcopyrite
@@ -9634,7 +9634,7 @@ caingua 1
 calcipexy 2
 cheerled
 cheerlessly
-cheerlessness
+cheerlessness 1
 comatulid 3
 cheerly
 coastman
@@ -12346,7 +12346,7 @@ chromamamin 2
 chilodon
 corelate
 chromammine 2
-corticopeduncular 1
+corticopeduncular 2
 chromaphore
 chromas 1
 coffeeweed 1
@@ -21982,7 +21982,7 @@ configures 1
 coxcombry 1
 confinable 2
 confine
-comports 1
+comports 2
 confined 1
 cadging 1
 confinedly
@@ -28128,7 +28128,7 @@ carbonadoing
 cristated 1
 crossbbred
 crossly
-craniognosy 1
+craniognosy 2
 coteries 2
 curved 1
 cento
@@ -31558,7 +31558,7 @@ centrals 1
 cariamae
 cowlicks
 cauliflower 1
-cortine 1
+cortine 2
 curtainless
 curtainwise
 coir 1
@@ -31932,7 +31932,7 @@ cyanospiza
 caricographer
 coagulators 1
 czarina
-capturers
+capturers 1
 creaturely 1
 churchlike 2
 clitella
