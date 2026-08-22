@@ -6342,7 +6342,7 @@ diacatholicon 1
 defined
 dioc 3
 ducula
-demurrable
+demurrable 1
 dietary 3
 doegling 1
 doctrinized
