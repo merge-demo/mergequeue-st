@@ -5344,7 +5344,7 @@ biharmonic 2
 borderlines 1
 balmy
 begone
-baryte
+baryte 1
 begonia 1
 begoniales 1
 backslapping 3
@@ -11560,7 +11560,7 @@ blurbs 3
 bestows 2
 bocedization 1
 blup 1
-barbs
+barbs 1
 busload
 blurbist 1
 bananist 1
