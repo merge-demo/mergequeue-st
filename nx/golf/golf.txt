@@ -799,7 +799,7 @@ goombay
 gastrospasm 2
 grouts 1
 glycosidase 1
-graf 1
+graf 2
 gimlet 1
 gambade
 garrotting 1
@@ -1155,7 +1155,7 @@ glazement
 gantelope
 genitors 1
 gantlet 1
-gled 2
+gled 3
 gantleted
 gripier 3
 grouses
@@ -2603,7 +2603,7 @@ granitize
 gruesomest 3
 grendel 2
 gibbetting 3
-generationism 2
+generationism 3
 geomorphist 1
 gypsyweed 2
 gramma 4
@@ -2795,7 +2795,7 @@ geraniales 1
 gramps 2
 galactorrhea 2
 glace 2
-gentler
+gentler 1
 gutnish 2
 gingelly
 glassite 4
@@ -7219,7 +7219,7 @@ grimliness 2
 gloze 2
 grater
 gonial 4
-gratin 2
+gratin 3
 globosite
 gastropathic 1
 galahad 1
@@ -7697,7 +7697,7 @@ gool 3
 gutterwise 4
 guachamaca 4
 geira 1
-geodynamics
+geodynamics 1
 gyppery
 greenlet 2
 gleary 3
@@ -8697,7 +8697,7 @@ gerip 1
 goopy
 geyser 2
 glossless 1
-gobmouthed 2
+gobmouthed 3
 gateado 2
 grimes
 gritty 1
