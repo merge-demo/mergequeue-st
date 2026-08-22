@@ -5356,7 +5356,7 @@ castable
 castagnole
 castalian
 castalides
-cardiopuncture 1
+cardiopuncture 2
 chertier
 castanea 1
 chewy 1
@@ -17483,7 +17483,7 @@ cuttings
 campanist
 coblentzian
 cobleskill 2
-cobloaf
+cobloaf 1
 cobola 1
 ceratectomy
 contriving
@@ -22354,7 +22354,7 @@ circumnavigated 1
 conciator 3
 congregative
 congreso
-congress 1
+congress 2
 coxarthropathy
 calcaria
 cylindered 1
