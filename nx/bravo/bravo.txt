@@ -429,7 +429,7 @@ beamer
 backpedal 1
 backpedaling
 backpiece 1
-bolshevistic 2
+bolshevistic 3
 backplane 2
 bushwas 3
 backscatter
@@ -1355,7 +1355,7 @@ barrowcoat 2
 brod
 botrylle 1
 backdrops
-butterflyer 3
+butterflyer 4
 borderlands 1
 balbusard 1
 beggarliness 1
@@ -1764,7 +1764,7 @@ balsamitic 2
 balsamiticness
 benzoylating 2
 boldheartedly
-basileus 2
+basileus 3
 balsamorrhiza
 burkei 3
 breakerman
@@ -2020,7 +2020,7 @@ bangled 2
 bias 2
 bloodsucking 2
 bilsteds
-begoniaceous 1
+begoniaceous 2
 bangos 1
 blubberman 2
 bandlimiting 2
@@ -2959,7 +2959,7 @@ bennettitaceous
 barrets 2
 blindeyes
 boundaries 1
-blobby 3
+blobby 4
 benedicts 2
 barricadoes 2
 brainsick 1
@@ -8941,7 +8941,7 @@ bounty
 bioecologically 1
 balatong 1
 bioengineering
-basidiomycetes 1
+basidiomycetes 2
 bioethic
 beancod 3
 beaverpelt 2
@@ -11378,7 +11378,7 @@ burgwere 1
 bluebell
 belve 1
 besmokes 1
-breadthways
+breadthways 1
 bluebelled
 bluebells 1
 bepistoled
@@ -14929,7 +14929,7 @@ breakout
 bromocyanide 1
 butyrone
 breakpoint 2
-breaks
+breaks 1
 benzdifuran
 besteaded 2
 besselian 1
@@ -15194,7 +15194,7 @@ bullionless
 bram 1
 biddulphiaceae 3
 bryanism 1
-barsom 2
+barsom 3
 brawlys 1
 briard
 bromins 3
@@ -16608,7 +16608,7 @@ bedmakers
 bubinga 3
 bougainvillea 2
 bacillary 1
-bubonocele 1
+bubonocele 2
 bewitchful 2
 bracings 2
 besague 2
@@ -17901,7 +17901,7 @@ brimstony
 boopis
 busher 1
 bernoo 1
-bushfighting
+bushfighting 1
 bushfires 2
 backslider 1
 blamed
@@ -18203,7 +18203,7 @@ bulks 1
 bohereen 2
 backdated
 bibliothecary 1
-bremely 2
+bremely 3
 busycon
 biloculina 1
 binately 1
