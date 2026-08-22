@@ -7949,7 +7949,7 @@ cholecalciferol
 chab
 celibate 1
 chabasite 1
-counterclockwise
+counterclockwise 1
 chabazite
 celiosalpingectomy
 chaber
@@ -11375,7 +11375,7 @@ chlorophyllin
 counselful 1
 chlorophyllite 1
 chlorophyllous 1
-compulsive 2
+compulsive 3
 changelessly
 chlorophora 1
 cameralist
@@ -13377,7 +13377,7 @@ chopfallen 2
 coarsish 2
 cyclostomatous 1
 cunoniaceous
-concurrency 3
+concurrency 4
 cyclostomes
 cricketing
 cyclostomi 1
@@ -18002,7 +18002,7 @@ cephalothecal 1
 coeloplanula
 chartreuse
 coelospermous
-cryptocephala
+cryptocephala 1
 corteise
 coelozoic 1
 collin
@@ -19762,7 +19762,7 @@ chairmen
 comboy 1
 caprellidae 2
 carpentering 1
-comboloio 1
+comboloio 2
 combos
 cauch
 collodiotype
@@ -21130,7 +21130,7 @@ concassation
 cherishers
 concatenate
 cubangle 1
-catadromous 1
+catadromous 2
 concatenated 1
 ceride
 concatenates
@@ -27964,7 +27964,7 @@ counterselection
 cognosce 1
 cradlemaker 1
 cradlemate 2
-celeomorphic
+celeomorphic 1
 catharize 2
 clinoclase
 cradles 1
@@ -29462,7 +29462,7 @@ correctedness 1
 cueist
 circuiter
 candlewicking 1
-crystallising 1
+crystallising 2
 crystallites
 coilyear 3
 constabless 1
@@ -29545,7 +29545,7 @@ criticisms
 chontal
 cousin
 congenite 1
-canoeman
+canoeman 1
 criticiser
 criticising
 criticisingly 1
