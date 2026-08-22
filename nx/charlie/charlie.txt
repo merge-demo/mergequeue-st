@@ -4259,7 +4259,7 @@ coauthored
 cashel
 cursillo
 careless
-carelessly
+carelessly 1
 carelessness 1
 careme
 carene 1
@@ -9592,7 +9592,7 @@ cheeney
 cheep 1
 courtierism 1
 cheeper
-cynodontia
+cynodontia 1
 capernaite 1
 casklike
 cheepers 1
@@ -14635,7 +14635,7 @@ calumet
 cystophore 1
 cistophorus
 coadjustment 1
-cystophotography 1
+cystophotography 2
 coxier 1
 captans
 checkmating
@@ -14664,7 +14664,7 @@ conurbations 1
 clayman 1
 coliander 3
 cystospastic 1
-cited
+cited 1
 cystospore 3
 cystostomies
 chamberlet 1
@@ -18896,7 +18896,7 @@ colyum
 calcographer 1
 climbs 2
 coliuria 1
-contemporary 1
+contemporary 2
 colla
 coorg 1
 csnet
@@ -19761,7 +19761,7 @@ combless
 chairmen
 comboy 1
 caprellidae 2
-carpentering 1
+carpentering 2
 comboloio 2
 combos
 cauch
@@ -24491,7 +24491,7 @@ coost
 curves
 coosuc 1
 coot 1
-cootch 1
+cootch 2
 corticin
 cheeseburger
 cootfoot 1
