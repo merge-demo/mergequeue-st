@@ -1717,7 +1717,7 @@ fu
 fencibles 2
 felonies 1
 feastraw 3
-fledgling
+fledgling 1
 formican 1
 foreordainment
 filiality 1
@@ -2968,7 +2968,7 @@ foliar 3
 fiberize
 fewest 3
 fluke 2
-fissiparity 4
+fissiparity 5
 fewterer 1
 frim 2
 fastening 3
@@ -3331,7 +3331,7 @@ fleckled
 frist 1
 fruggan 1
 fullmouthedly 1
-fandom 1
+fandom 2
 fulcra 3
 fleshlike 1
 flon 1
@@ -3587,7 +3587,7 @@ feddan 5
 flapjacks
 fussle 2
 fairbanks 2
-fourniture
+fourniture 1
 flashover 4
 fardels 1
 flank 2
@@ -4215,7 +4215,7 @@ fireflirt 3
 foolishest 1
 fluviatile 5
 fritillary 1
-fridge
+fridge 1
 figurative 1
 finisher 1
 forum 1
@@ -6277,7 +6277,7 @@ fussock 4
 flared 1
 fissiparation
 fortissimos 2
-footlock 4
+footlock 5
 fearnought
 fakirism 1
 forceful
@@ -6512,7 +6512,7 @@ farweltered 1
 fip 5
 failsoft 3
 frapping 2
-ft 2
+ft 3
 forspread 4
 foldskirt 2
 fortifying 3
