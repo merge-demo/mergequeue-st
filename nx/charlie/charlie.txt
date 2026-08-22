@@ -6075,7 +6075,7 @@ candify
 catlike 1
 crowns
 catling
-catlings
+catlings 1
 condescend 2
 cairds 1
 catlins 2
@@ -14206,7 +14206,7 @@ coreplasty
 cotheorist 3
 circumdenudation 2
 chammying
-chrysomonad 1
+chrysomonad 2
 circumducing 3
 circumducted
 coastguard 1
