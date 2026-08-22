@@ -6702,7 +6702,7 @@ desiderated 1
 diacoustics 1
 dropforge 2
 desideration 1
-deoxidant
+deoxidant 1
 desiderative 2
 disenthrall
 drunkard
@@ -16398,7 +16398,7 @@ domy
 denumerably 1
 downway
 disdain 2
-drunkery
+drunkery 1
 downwardly 2
 devourment 1
 delocalized 1
@@ -18341,7 +18341,7 @@ debtorship 1
 duluth 2
 dietarian 1
 dishiest
-dhu 1
+dhu 2
 duns
 dragomans
 decerebration 1
