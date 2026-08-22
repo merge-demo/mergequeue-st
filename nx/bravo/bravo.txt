@@ -1220,7 +1220,7 @@ bootloader 1
 blatter 2
 bakeries 3
 budling
-brownstones 1
+brownstones 2
 bakersfield 1
 bakes 1
 bakeshop 2
@@ -1981,7 +1981,7 @@ believes 1
 bosquets 2
 baahling
 beeway 2
-beworms 1
+beworms 2
 bandwidth 2
 bandworm 1
 blunderers 2
@@ -5068,7 +5068,7 @@ befeather 1
 becoming 1
 beeswax 1
 bodger
-biloculine
+biloculine 1
 beferned 1
 befetished
 bandoline 2
@@ -7789,7 +7789,7 @@ biacuru 1
 billywix 1
 biallyl 2
 bendsome 1
-breach 3
+breach 4
 bemaul
 bianca 2
 bellum 1
@@ -8348,7 +8348,7 @@ blastocarpous 3
 bindwith 4
 bonefishes
 buhlbuhl 2
-bronx
+bronx 1
 babish 3
 bindwood
 bigheartedness 2
@@ -9446,7 +9446,7 @@ betassel
 bookholder
 bulimulidae 2
 brunoniaceae 2
-banquo
+banquo 1
 burnetize 2
 bedirties 1
 bourride 2
@@ -10828,7 +10828,7 @@ blesboks
 blessedness
 blesser 2
 bowered
-blurb 1
+blurb 2
 blastophyllum 1
 befriz 2
 boxtree 2
@@ -11727,7 +11727,7 @@ buddles 1
 brilliantwise 2
 bauds
 bardolatry 1
-birthmate 1
+birthmate 2
 bestubbled 4
 bonneted 1
 bobeche
@@ -17172,7 +17172,7 @@ beeish
 butyrate 1
 blastopore 1
 bookish 1
-bullition
+bullition 1
 bar
 boggin 3
 bulletproof 1
