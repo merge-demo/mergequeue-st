@@ -3152,7 +3152,7 @@ cape 1
 chequerboard
 capeadores
 capelan
-chromid
+chromid 1
 capelin 1
 cornette
 capeline
