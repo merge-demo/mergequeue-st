@@ -2681,7 +2681,7 @@ appraiser
 alferes
 amidase 1
 acquisitive 2
-acquisitively
+acquisitively 1
 advocatess 1
 acquisitor 1
 antibrachial 1
@@ -4277,7 +4277,7 @@ affy
 argentation
 assiduity
 automorph
-arouser 2
+arouser 3
 astichous 1
 astore 1
 ados 2
@@ -15314,7 +15314,7 @@ annale 1
 alleviator 1
 agamically
 awalim
-amorality
+amorality 1
 alhambra 3
 antigravitational 2
 angiemphraxis 2
