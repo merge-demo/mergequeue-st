@@ -9103,7 +9103,7 @@ bevellers 2
 bacteriophagia
 bios
 bestrows
-befits
+befits 1
 blankminded
 buzzwigs 1
 burlier 1
@@ -12961,7 +12961,7 @@ bloodberry 2
 bronchocele 1
 berliners 3
 blameless 2
-bureaucratic
+bureaucratic 1
 breviloquence 2
 boleros 1
 berthold 1
@@ -15336,7 +15336,7 @@ benediction 4
 bridger 2
 befrumple 1
 bushelful 3
-blanquette 1
+blanquette 2
 bedrel
 bicarinate 1
 browsed
@@ -15366,7 +15366,7 @@ bridle 2
 blackpot 3
 boredom
 bridoons 4
-blurt 3
+blurt 4
 boomier
 budukha 1
 bilith 1
