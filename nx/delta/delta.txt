@@ -1487,7 +1487,7 @@ dazzle 3
 dawnstreak
 discriminative 1
 demophobe 3
-diffusor
+diffusor 1
 dasypaedal
 discolorated 1
 dazzler
@@ -2234,7 +2234,7 @@ drch 2
 distichiasis
 dartre 2
 disfranchising 1
-dishelm
+dishelm 1
 dedan
 deceitfulness 1
 duopolistic
@@ -2782,7 +2782,7 @@ dari 1
 decresc 2
 desalination
 delphinus
-duodecahedron 1
+duodecahedron 2
 decrescent 1
 deknight
 desulfured 1
@@ -2969,7 +2969,7 @@ dtset 1
 discretive
 demobilise 2
 danseuses
-decannulation
+decannulation 1
 dyadically
 democratist 1
 dodecamerous 1
@@ -3587,7 +3587,7 @@ dinosauric 1
 dinornithiformes 2
 degenerate
 desulphurizer 2
-diagrammatize
+diagrammatize 1
 docosane 2
 deprecatorily 1
 dragonhead 1
@@ -6147,7 +6147,7 @@ decrepitness 2
 disputations 1
 dechlorinating 1
 debentures 1
-diarize 5
+diarize 6
 daimonic 3
 drivecap
 desoxalate 3
@@ -6970,7 +6970,7 @@ despiteful 1
 digs 2
 daphnia
 dinoflagellate
-docility 2
+docility 3
 drags 1
 dumbfoundment 1
 despitefully 1
@@ -8463,7 +8463,7 @@ diamides 2
 descanter 1
 deesis 2
 depictured 2
-dimethylnitrosamine 2
+dimethylnitrosamine 3
 dapperest
 diaminogen
 downset
@@ -8638,7 +8638,7 @@ downstream 3
 denitrifying
 discourtesy 3
 desaurin
-dome 1
+dome 2
 diffused 1
 dactylus
 dato
@@ -9767,7 +9767,7 @@ decriminalizing 2
 deluce
 dilettantism
 diligence 1
-diligences 2
+diligences 3
 diligent 2
 dawen 1
 dilis
@@ -9892,7 +9892,7 @@ duka 2
 deformational 1
 dimes 1
 dimetallic 1
-dermatauxe 2
+dermatauxe 3
 discophorous
 dimethylbenzene 2
 disneyland
@@ -11575,7 +11575,7 @@ dishabit 1
 defeminize 1
 discontinuee
 disprepare
-discover
+discover 1
 dieselizing 1
 dreamlessness 1
 downweed 2
@@ -13543,7 +13543,7 @@ dungeoner
 disperse
 disquisitive 2
 disrelishable 1
-dissentment 2
+dissentment 3
 dissemination 1
 dantonist
 doohinkey 1
@@ -13968,7 +13968,7 @@ discohexaster 1
 distomatosis 2
 doryphorus
 diactin 2
-daubreelite
+daubreelite 1
 dichroism
 deys 1
 daubed 1
@@ -14383,7 +14383,7 @@ divagated
 divagates 1
 drillmaster 1
 divagationally 1
-divan 1
+divan 2
 dipolsphene 1
 depaint
 doley 2
@@ -16485,7 +16485,7 @@ detinuit
 doubtance 1
 dirhinous 2
 disjointness 1
-dishonourable
+dishonourable 1
 debag
 dasyprocta 2
 domesticities
@@ -17004,7 +17004,7 @@ drometer 2
 disaffinity 2
 drencher
 disappearing 2
-deflow
+deflow 1
 dragoon 1
 demogenic
 dill 1
