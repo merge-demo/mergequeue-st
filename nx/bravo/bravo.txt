@@ -1539,7 +1539,7 @@ brutalization 1
 brassish 1
 bichromated
 bezel 1
-basted
+basted 1
 batterdock 1
 ballads 1
 bullhoof 2
@@ -3769,7 +3769,7 @@ befouler 2
 boing 1
 brahmanic 1
 blackener
-biologists 1
+biologists 2
 bowstringed 2
 beachwear
 battues
@@ -5442,7 +5442,7 @@ beheaded
 beheader
 beachward 1
 bulletmaking 2
-boardmanship 1
+boardmanship 2
 boldo
 boatable 1
 becudgelling 2
@@ -6324,7 +6324,7 @@ benzoxate
 badgerbrush
 benzamine 2
 badinerie
-biblic 1
+biblic 2
 billbroking 1
 barrer 2
 butment
@@ -6585,7 +6585,7 @@ blastular
 bere 1
 butterbox
 brotula 2
-beetlers
+beetlers 1
 bacharach 2
 bukh 1
 bodyplate 1
@@ -8443,7 +8443,7 @@ bittium
 bilaminar 2
 burblier 1
 bemusement
-behaviors 2
+behaviors 3
 bilaterally
 belabouring 1
 boggart 1
@@ -8632,7 +8632,7 @@ billionth 1
 braggartism 1
 brethel 4
 beldames 1
-brightsomeness 1
+brightsomeness 2
 bowling 2
 blechnum
 basigenic 2
@@ -8983,7 +8983,7 @@ blankety 1
 bleachfield 1
 bunchbacked
 biographers 4
-bossisms 1
+bossisms 2
 biographies 3
 boulangist
 boreable 3
@@ -9308,7 +9308,7 @@ biprism 1
 burgaudine 1
 blackguardism
 baume
-bongoist 2
+bongoist 3
 begloomed
 befit 1
 bleezy 1
@@ -9820,7 +9820,7 @@ brigandish 2
 bisubstituted 1
 bombarder
 benzoquinone 2
-bisubstitution
+bisubstitution 1
 babblingly 1
 bubblebow 1
 bocca 2
@@ -10200,7 +10200,7 @@ benzenyl 3
 bookrests 2
 bonanzas
 blackguardry 3
-baroreceptor
+baroreceptor 1
 beseechers
 blackgum
 beachcombing
@@ -15295,7 +15295,7 @@ blastomycetous 2
 bahur 2
 brecken 1
 bisharin 1
-blueblaw
+blueblaw 1
 bestrewed
 behusband 2
 butenes 2
@@ -15684,7 +15684,7 @@ baulkiest 3
 broaches
 bungstarter 3
 burgundies 2
-batterable
+batterable 1
 buffone 1
 barrenest
 bulkheads 2
