@@ -12876,7 +12876,7 @@ bondslave 2
 behorror 4
 bifoil 1
 birthplace 1
-bg 1
+bg 2
 befanned 1
 bacchiac 1
 bangster 1
@@ -16348,7 +16348,7 @@ bowels 1
 broadswords
 bicarb
 bleatingly 2
-bdft
+bdft 1
 bothies 2
 beloved
 briskened 1
