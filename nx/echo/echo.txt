@@ -323,7 +323,7 @@ engaze 2
 eastman 2
 enclaret 1
 encephalograph 1
-estops
+estops 1
 eastre 1
 extramolecular 2
 empresse 1
@@ -1544,7 +1544,7 @@ eggnog 1
 exareolate 1
 embrasures 2
 eggrolls 1
-eggs
+eggs 1
 emplastra 2
 excerptive 2
 encyclopedial 1
@@ -3317,7 +3317,7 @@ emanatist
 elucidator 3
 epical
 eternalized 2
-exposture
+exposture 1
 emanativ 2
 erupt
 enwreath 1
@@ -3341,7 +3341,7 @@ executions 3
 equiangular 1
 exodromic 1
 emphemeralness 1
-expensefully 3
+expensefully 4
 ecdyses
 entitative 3
 eyry
@@ -4655,7 +4655,7 @@ egomania 2
 enmuffle 1
 entrammel 3
 ensuance 2
-economic 2
+economic 3
 englishism 1
 enciphering 2
 enrapture 3
@@ -5480,7 +5480,7 @@ episporangium
 enfatico 1
 enfeeblements
 exorcising
-experimenting 3
+experimenting 4
 experimenter 2
 evertors 1
 eurindic 4
@@ -6140,7 +6140,7 @@ endotoxin 2
 embronze
 evagation 1
 entertainers 3
-enneandrian
+enneandrian 1
 etherealizing 3
 encephalophyma 1
 epimandibular 4
@@ -8169,7 +8169,7 @@ exothermal
 etwas 4
 equidominant 2
 equidistantly
-enisling
+enisling 1
 euthenic 1
 earlobe
 exodontic
@@ -10123,7 +10123,7 @@ enculturated 3
 excused 1
 extranean 3
 etabelli 1
-expressiveness 1
+expressiveness 2
 earphones 1
 euhyostyly
 elegante 2
@@ -10807,7 +10807,7 @@ emoting
 euskera
 epitactic 1
 encumber 2
-embruing 1
+embruing 2
 engrafts 3
 embracer 1
 eucrystalline 2
@@ -11937,7 +11937,7 @@ emotionalist 3
 enragement 1
 earthenware 1
 expurgation 2
-excerebration
+excerebration 1
 extraphysical
 endemiology 3
 ectodactylism 5
@@ -13215,7 +13215,7 @@ echinopsine
 expiration 1
 exponentiation
 epaxial
-exotica 1
+exotica 2
 emmantle
 expirations
 exaspidean 5
@@ -13897,7 +13897,7 @@ eyestrings 1
 estuant
 eggcups 2
 engagingness 1
-euphenic 2
+euphenic 3
 emandibulate 1
 extraparental 4
 extroverts 1
