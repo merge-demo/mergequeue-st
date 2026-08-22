@@ -1170,7 +1170,7 @@ galactometry 2
 gnetums 3
 guffin 2
 gaol 1
-gassing 1
+gassing 2
 gulls 3
 grinners 1
 galliney 3
@@ -1836,7 +1836,7 @@ gallonage
 gawkihood 2
 graphemics
 grecizing 2
-gossip 1
+gossip 2
 gyrostabilized 1
 graptolithina 3
 gazehound 2
@@ -5983,7 +5983,7 @@ giraffes 2
 gurglet 3
 gainstrive 1
 garmenture 2
-gaols 2
+gaols 3
 gillot 3
 gonifs 3
 gemmates 1
