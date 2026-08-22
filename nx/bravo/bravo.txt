@@ -4184,7 +4184,7 @@ bulgy
 beastman 1
 barracoutas 1
 beastship
-beat 1
+beat 2
 benches 2
 beatee 1
 bleery 2
@@ -7716,7 +7716,7 @@ bigamized 2
 bugre
 bagleaves
 bulbotuber 2
-boomy
+boomy 1
 besin 2
 behavioral
 bhangi
@@ -8070,7 +8070,7 @@ bowery 1
 brutal
 bicorned
 booby 3
-booklift 1
+booklift 2
 bartend 2
 bagroom 1
 bicornuate 2
@@ -11851,7 +11851,7 @@ bodice 4
 blankly
 brushlike
 bestowals
-bodicemaking 3
+bodicemaking 4
 becrowding 1
 beaked 2
 begrudged
@@ -12636,7 +12636,7 @@ baguets 1
 beleaguerment 4
 bodeful
 bulged 2
-brasero
+brasero 1
 basinlike 1
 bonxie 1
 boucher
