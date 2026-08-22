@@ -2704,7 +2704,7 @@ ferrometer 3
 faithing
 factioneer 2
 fungused
-faradopalpation 1
+faradopalpation 2
 firebird 3
 fluorobenzene
 feigher 1
@@ -3920,7 +3920,7 @@ farmy
 formature 1
 forlese 2
 fischerite 1
-forebrain 1
+forebrain 2
 firmamental
 february 1
 frothi 2
@@ -5238,7 +5238,7 @@ fratcheous 2
 fluctuosity 3
 foetiferous 2
 flotten 1
-forecastingly 1
+forecastingly 2
 farmeries 2
 farley 1
 farandole 2
@@ -6331,7 +6331,7 @@ fumatories 3
 fissipeda 2
 fumelike 2
 frags 1
-fluidity
+fluidity 1
 fuzzy
 funicle 1
 flack 3
@@ -8283,7 +8283,7 @@ forgeable 4
 forwaked 2
 flashtubes 2
 fillingness 1
-fibromyomatous 1
+fibromyomatous 2
 forthcall 2
 forgetful 2
 fogdog 1
@@ -9266,7 +9266,7 @@ fusing 1
 fragments 1
 foresighted 1
 fishbed 2
-foraneous 3
+foraneous 4
 facts 4
 frayedness
 flagmaking 1
