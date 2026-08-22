@@ -1471,7 +1471,7 @@ embolium
 embarrased 4
 empathic 1
 epizootically 1
-effused
+effused 1
 elasmobranchii 1
 explanatorily 3
 empyema 4
@@ -1483,7 +1483,7 @@ ethicalness 1
 electre 1
 estivate 1
 ebbs
-eclegme 1
+eclegme 2
 escadrille 1
 effusively
 entasias 1
@@ -5615,7 +5615,7 @@ epithi
 exquisitism 2
 enframed 1
 experimentator 1
-ethnarch
+ethnarch 1
 enfranchisements
 epididymis 3
 estrif 2
@@ -12351,7 +12351,7 @@ elecampane 1
 effortless
 enatant 1
 elvanitic 1
-equisegmented
+equisegmented 1
 exercitorian 3
 effront
 efs
@@ -12679,7 +12679,7 @@ exogen 1
 earldom 1
 esophagostomy
 encratism 3
-exogenously 1
+exogenously 2
 examplar 3
 effusion 2
 exognathite 1
@@ -13133,7 +13133,7 @@ entosarc 2
 economy 2
 extensionality 3
 ergology 1
-euphonizing
+euphonizing 1
 engarrison 5
 encoded 1
 electrothermotic 2
@@ -13598,7 +13598,7 @@ exsiccant 1
 exsiccatae
 elucidate 2
 exsiccating 3
-ergusia
+ergusia 1
 exsolving
 epochs 2
 exposedness 1
