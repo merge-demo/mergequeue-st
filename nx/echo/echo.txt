@@ -1613,7 +1613,7 @@ egret 1
 exsanguine
 emu 1
 egromancy 1
-emptiness 3
+emptiness 4
 egurgitate 1
 egurgitated 5
 eheu 3
@@ -2129,7 +2129,7 @@ esophagostenosis 1
 eyestring 1
 ensorceling
 explicandum 1
-extraoral 3
+extraoral 4
 electropult
 erotica
 elation
@@ -3900,7 +3900,7 @@ eels 1
 effodient 1
 exede
 enticeful 3
-examinability 1
+examinability 2
 epiglottis 4
 extramural 2
 endexine 2
@@ -4820,7 +4820,7 @@ enthymeme 2
 equalizing 1
 exponentiations 1
 elemental 1
-effeminateness 1
+effeminateness 2
 emptings 1
 excludible 1
 explete
@@ -7372,7 +7372,7 @@ ensilability 1
 exhibitor
 elbowbush
 etherealized 3
-ephas 3
+ephas 4
 erythrolytic 2
 enchaining 1
 excepts 2
@@ -10717,7 +10717,7 @@ electrotypic 1
 evenworthy 1
 edited 2
 ecossaise 1
-etiquet 2
+etiquet 3
 excusable 1
 eugonic 1
 eggheaded 2
@@ -13041,7 +13041,7 @@ elopement 1
 epopee 4
 endochondral
 espiegle 2
-embryonal 1
+embryonal 2
 ezba 1
 entastic 1
 existentially 2
