@@ -937,7 +937,7 @@ belowdecks 2
 bookland 2
 bdellotomy 1
 bagpipers
-bandyball
+bandyball 1
 bardiglio
 bismarine 2
 boscage 2
@@ -2005,7 +2005,7 @@ bronchoscopy 2
 brachydactyl 1
 byplace
 brineless
-besplash
+besplash 1
 bulbous 2
 bombard 1
 ballocks 1
@@ -2440,7 +2440,7 @@ bruiser
 burgouts 2
 brachyure 1
 bareback 2
-bolection 3
+bolection 4
 butterwort 1
 bummalo 1
 benzpinacone 2
@@ -2455,7 +2455,7 @@ bonete 1
 bradenhead
 byres
 brassic 1
-bugaboos 2
+bugaboos 3
 breechesflower
 brodder
 blowout 2
@@ -2908,7 +2908,7 @@ blabbermouth 2
 bailliage 1
 binervate 1
 becrawls 1
-barratrously 3
+barratrously 4
 barrelage 1
 barreled 1
 barreleyes
@@ -3549,7 +3549,7 @@ bestore 1
 bulbocavernosus
 brookites 1
 blackroot 2
-bathed 1
+bathed 2
 bathes 2
 backslidden
 bicondylar 1
@@ -6898,7 +6898,7 @@ bibliopolistic 1
 beshade
 begrudges 1
 beslaver 1
-balmony 1
+balmony 2
 blindfold 3
 beshadowed 2
 beauxite
@@ -7883,7 +7883,7 @@ backstitched
 banksmen
 bistipuled 2
 bullation 1
-beauclerc 1
+beauclerc 2
 brains 1
 bedboard 2
 brachiation 1
@@ -9103,7 +9103,7 @@ bevellers 2
 bacteriophagia
 bios
 bestrows
-befits
+befits 1
 blankminded
 buzzwigs 1
 burlier 1
@@ -9693,7 +9693,7 @@ bisk 2
 bisks 2
 bysmalith
 bismark 1
-boulder 1
+boulder 2
 bladed
 besmiles
 boisseau
@@ -12826,7 +12826,7 @@ boomingly 2
 beamwork
 boronatrocalcite
 betalk 2
-boomkin
+boomkin 1
 bibliophobia 1
 bondswoman 1
 barquest 2
@@ -12961,7 +12961,7 @@ bloodberry 2
 bronchocele 1
 berliners 3
 blameless 2
-bureaucratic
+bureaucratic 1
 breviloquence 2
 boleros 1
 berthold 1
@@ -15366,7 +15366,7 @@ bridle 2
 blackpot 3
 boredom
 bridoons 4
-blurt 3
+blurt 4
 boomier
 budukha 1
 bilith 1
@@ -17316,7 +17316,7 @@ blanketweed
 botts
 bolstering
 bumptiousness 1
-boosy
+boosy 1
 bumsucking
 bumtrap
 bumwood
