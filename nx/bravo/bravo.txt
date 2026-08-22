@@ -1539,7 +1539,7 @@ brutalization 1
 brassish 1
 bichromated
 bezel 1
-basted
+basted 1
 batterdock 1
 ballads 1
 bullhoof 2
@@ -9308,7 +9308,7 @@ biprism 1
 burgaudine 1
 blackguardism
 baume
-bongoist 2
+bongoist 3
 begloomed
 befit 1
 bleezy 1
@@ -9820,7 +9820,7 @@ brigandish 2
 bisubstituted 1
 bombarder
 benzoquinone 2
-bisubstitution
+bisubstitution 1
 babblingly 1
 bubblebow 1
 bocca 2
@@ -15295,7 +15295,7 @@ blastomycetous 2
 bahur 2
 brecken 1
 bisharin 1
-blueblaw
+blueblaw 1
 bestrewed
 behusband 2
 butenes 2
@@ -15684,7 +15684,7 @@ baulkiest 3
 broaches
 bungstarter 3
 burgundies 2
-batterable
+batterable 1
 buffone 1
 barrenest
 bulkheads 2
