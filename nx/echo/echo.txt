@@ -276,7 +276,7 @@ eatability 3
 excamb 2
 erythrocytorrhexis 2
 emir 1
-enwwoven 2
+enwwoven 3
 essoin 1
 ecotopic 2
 eponymy 2
@@ -512,7 +512,7 @@ entosphenal 1
 echeneidae 3
 endonucleolus 1
 evocate
-electrophorus
+electrophorus 1
 eyra 2
 elaborated 3
 echinacea 1
@@ -879,7 +879,7 @@ encourager 1
 ectoproctous 2
 extradition 1
 enterostomies 1
-enteroptosis 2
+enteroptosis 3
 engineery 4
 eumolpique 1
 endopolyploidy 1
@@ -2795,7 +2795,7 @@ excalate 2
 ensnarling 4
 elenchic 2
 elves 4
-elenchize 3
+elenchize 4
 extrascientific 2
 ecthlipsis 1
 eath 1
@@ -3805,7 +3805,7 @@ engrain
 expletory 2
 emended 2
 ecu
-emending 2
+emending 3
 escribano 1
 emerge 4
 ecart 5
@@ -6089,7 +6089,7 @@ exceed 2
 exossate 2
 epizoisms 3
 explida
-erythroderma
+erythroderma 1
 enlivener 2
 elvis 1
 encina
@@ -6565,7 +6565,7 @@ endurable 2
 enterocyst
 entreating 4
 enterocleisis 4
-equiponderant
+equiponderant 1
 excluding 2
 echinorhynchus
 esperantidist 2
@@ -9831,7 +9831,7 @@ epifaunas 1
 estherian
 eyebolt 1
 ecbatic 1
-esthesiogen 2
+esthesiogen 3
 entophyte 1
 epoophoron 1
 envelopments 1
@@ -11043,7 +11043,7 @@ euhages 1
 encurtain 1
 earings
 euangiotic
-exceptioner
+exceptioner 1
 engrossers
 epipial 5
 eyne 1
@@ -11216,7 +11216,7 @@ extoll 2
 extatic 1
 evanescible 1
 evanescing 2
-exorbitancy 1
+exorbitancy 2
 exostracism 1
 endover
 encephalotome 1
@@ -12119,7 +12119,7 @@ editress 1
 echinologist 2
 eartag
 emasculation
-effervescing 2
+effervescing 3
 emda 2
 enkidu 2
 excruciable 2
@@ -12850,7 +12850,7 @@ edgeways 2
 empacket 1
 exurbanites
 elinguated 4
-eroticization 1
+eroticization 2
 emicant 1
 expansive
 exothecal 3
@@ -14192,7 +14192,7 @@ extracapsular 4
 enqueues 2
 eupanorthus
 exfetation
-enterococci 3
+enterococci 4
 ectosome
 esthetics 1
 epulation 1
