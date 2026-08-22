@@ -75,7 +75,7 @@ flysch
 fordeal 3
 fullfaces 3
 facundity 1
-facemark 5
+facemark 6
 flunkeyhood 1
 forme 2
 filching 2
@@ -7180,7 +7180,7 @@ fend 3
 fishified 3
 fishers
 fixative 2
-fourche
+fourche 1
 furnariidae 2
 fiendism 3
 fulvescent 2
