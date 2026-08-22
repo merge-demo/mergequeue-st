@@ -1615,7 +1615,7 @@ ballistician 1
 brachioganoidei 4
 ballflower 2
 bifurcate
-ballywack 3
+ballywack 4
 basalt 1
 brooder
 bursati 1
@@ -2964,7 +2964,7 @@ benedicts 2
 barricadoes 2
 brainsick 1
 blayk 3
-boltsmith
+boltsmith 1
 bicentral 1
 basiation 1
 bolthole 3
@@ -6195,7 +6195,7 @@ beadhouse 1
 biliary
 buttinsky 2
 breedbate
-blackleggery 1
+blackleggery 2
 bedraggles 1
 beetle 2
 baffy
@@ -11490,7 +11490,7 @@ bedoctor 1
 biformed 1
 baccalaurean
 bluewoods
-billposter
+billposter 1
 bluffable 2
 blicky 1
 bialveolar 2
@@ -12546,7 +12546,7 @@ bisbeeite
 burtonize 2
 bloodshot
 barnage 2
-balsamroot 2
+balsamroot 3
 bourgeoning 1
 brails 2
 bisulphate 3
@@ -13276,7 +13276,7 @@ bossily 4
 bowler
 boarish 1
 braider
-bostanji
+bostanji 1
 bosthoon 1
 banderillas 1
 bipont
