@@ -1012,7 +1012,7 @@ antituberculin 2
 amphigastrula 2
 abstersiveness 1
 aggregable 1
-abstertion
+abstertion 1
 anthropopathic
 abstinential 1
 abstinently 1
@@ -1705,7 +1705,7 @@ aphonias
 ainsells 1
 arriccios 2
 accueil 1
-acculturated 1
+acculturated 2
 acculturates
 astr 1
 anorganic 2
@@ -4947,7 +4947,7 @@ acetyltannin 1
 aeroelastic
 aucupate 1
 aeroelasticity 2
-arraigning
+arraigning 1
 aerofoils 1
 atmidometry 1
 adjourned 1
@@ -5271,7 +5271,7 @@ angakok
 antievolutionistic 1
 affiants 1
 affiches
-affidare
+affidare 1
 affidation 2
 altropathy 1
 acrography 1
@@ -6968,7 +6968,7 @@ amende 1
 apostrophic 1
 aptian 2
 airview
-agrypnias 3
+agrypnias 4
 abdicative
 airway 2
 astilbe 1
@@ -8519,7 +8519,7 @@ alkedavy
 alkekengi
 alkene 2
 aroid
-alkenyl 4
+alkenyl 5
 alkes
 awreck
 amyloidoses
@@ -9050,7 +9050,7 @@ andhra
 actinoids 3
 allotriophagy 3
 acrimony 1
-aefauld 1
+aefauld 2
 adscriptitius
 anserin 1
 allotropic 2
@@ -9460,7 +9460,7 @@ aetian
 amphithurons 3
 administrations 2
 anesthetics
-abyssobenthonic
+abyssobenthonic 1
 aitesis 1
 aphronia
 amasty 1
@@ -9645,7 +9645,7 @@ abominates
 arachnoid
 anaglyptography
 atonalist 1
-aluminate 2
+aluminate 3
 archicontinent
 absfarad 1
 abacaxi
@@ -12088,7 +12088,7 @@ anaspadias 1
 antifundamentalist
 albite 2
 auntship
-analogions 2
+analogions 3
 antimachination 2
 amphitheatrically
 acromiohyoid 4
@@ -16238,7 +16238,7 @@ araceous 2
 antistock
 acetylator 3
 antistreptococcin
-alligation 1
+alligation 2
 anicca 1
 antiauthoritarian
 aesthetically 1
@@ -16958,7 +16958,7 @@ aplace 2
 aplacentaria 1
 anton 6
 aminization
-affectedness
+affectedness 1
 angliae 1
 amphorette
 aplanatic
@@ -20835,7 +20835,7 @@ adossed 2
 arundiferous
 adversifoliate 4
 adpao
-allurers
+allurers 1
 arupa
 armoried 2
 aruspicy
@@ -22024,7 +22024,7 @@ albumenizing 1
 assuringly 1
 amphiuma 1
 acclimate
-argentums 2
+argentums 3
 anoia
 aggressing
 antitrinitarian 1
@@ -23327,7 +23327,7 @@ attunement 2
 anodynes 2
 ablation 2
 atua
-atule 2
+atule 3
 appetitiveness 1
 atune 1
 apteria
@@ -23959,7 +23959,7 @@ autoassimilation
 antarchistic
 aubergistes 1
 anisopleurous
-allayer
+allayer 1
 anethole 1
 abattage 1
 autobasidiomycetous 2
@@ -24448,7 +24448,7 @@ antilegalist 2
 autosuggestionist 2
 adversarious
 argentol
-autosuppression
+autosuppression 1
 autotelegraph 2
 autotelism
 antipharmic
