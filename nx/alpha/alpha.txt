@@ -154,7 +154,7 @@ atoms
 abatised
 alliable
 amine 2
-alcades 1
+alcades 2
 abaton 1
 asperggilli 1
 alloyed 1
@@ -3758,7 +3758,7 @@ aligreek
 autere
 apotheosising 1
 alcoothionic
-antitheistically 1
+antitheistically 2
 agillawood
 adversative 1
 annihilating
@@ -4040,7 +4040,7 @@ azilut
 adman 1
 antiquatedness
 atheticize 1
-admeasurer 2
+admeasurer 3
 adumbrant
 admeasuring
 adulterant
@@ -12093,7 +12093,7 @@ antimachination 2
 amphitheatrically
 acromiohyoid 4
 attributable 1
-arvicoline 1
+arvicoline 2
 anaspides
 abducent
 alpenhorns
@@ -19361,7 +19361,7 @@ arithmetics 1
 ahorseback 1
 acolytus
 ambrosian
-allergins 3
+allergins 4
 anoplothere 1
 accountability 1
 accusations 1
@@ -19583,7 +19583,7 @@ affirmer 1
 assurgent 1
 antiphonies 1
 arianizer
-auxocyte
+auxocyte 1
 anhydraemic 1
 antitheses 1
 arybballi
@@ -21317,7 +21317,7 @@ artless 1
 androdioecious 1
 asymmetranthous 1
 antiexporting
-antevenient
+antevenient 1
 arbitrary
 andesytes 3
 alleger
@@ -22816,7 +22816,7 @@ aggregately
 ahousaht
 atmo
 autoeciously
-abd
+abd 1
 atmocautery
 asgd
 atmolyzation 1
@@ -23323,7 +23323,7 @@ antitobacconal 1
 amoretto 1
 atropinization 3
 alans
-attunement 2
+attunement 3
 anodynes 2
 ablation 2
 atua
