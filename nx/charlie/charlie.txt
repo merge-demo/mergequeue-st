@@ -6075,7 +6075,7 @@ candify
 catlike 1
 crowns
 catling
-catlings
+catlings 1
 condescend 2
 cairds 1
 catlins 2
