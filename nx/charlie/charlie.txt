@@ -17300,7 +17300,7 @@ cylindricalness
 coapted
 conclamant
 clavellated
-cartist
+cartist 1
 coapting
 crystallographers
 camarada 1
@@ -17882,7 +17882,7 @@ circumaviation
 cream
 complement
 chiliad 1
-codirector
+codirector 1
 conycatcher 1
 codirects
 cordonazo
@@ -21136,7 +21136,7 @@ ceride
 concatenates
 coequating 1
 concatenator
-concatervate
+concatervate 1
 catechizes 1
 concause
 concavity 1
@@ -24516,7 +24516,7 @@ clr
 circovarian 1
 composition 3
 copaivic 1
-copaliferous 1
+copaliferous 2
 copalite
 copalm 1
 coparcenar
