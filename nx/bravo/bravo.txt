@@ -1358,7 +1358,7 @@ backdrops
 butterflyer 4
 borderlands 1
 balbusard 1
-beggarliness 1
+beggarliness 2
 burlap 3
 brayed 2
 butterbump 1
@@ -7227,7 +7227,7 @@ basses 1
 bestridden 2
 bluesides
 blueberry 1
-bestrides 1
+bestrides 2
 bestrown
 bathochromatic 2
 bullshot
@@ -8244,7 +8244,7 @@ biforate 2
 biforking
 brombenzyl 1
 browache 2
-boldin
+boldin 1
 berthage 2
 byestreet
 biformity 3
@@ -8616,7 +8616,7 @@ brules
 billies
 billyhood 2
 breislakite 1
-bunkery
+bunkery 1
 bucketfuls 1
 benzotetrazole 1
 billiken
@@ -9211,7 +9211,7 @@ booed 2
 biomasses
 biparasitic
 boudoirs 1
-babblesome
+babblesome 1
 benzophenanthrazine 2
 balsaminaceous 2
 balladical 1
@@ -9854,7 +9854,7 @@ batamote
 beworried 1
 brassica 1
 billed 1
-brennschluss 1
+brennschluss 2
 barbing 2
 begums 1
 bites
@@ -15615,7 +15615,7 @@ boardable
 brisking 1
 briss 1
 backwoodsman 1
-blastomycete 1
+blastomycete 2
 bolsterer
 brist 1
 bombproof 1
