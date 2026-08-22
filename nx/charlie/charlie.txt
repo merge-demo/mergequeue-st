@@ -1707,7 +1707,7 @@ caricography 1
 ceraunia
 calorifier 1
 calorimetry 1
-calorimetrically
+calorimetrically 1
 calorimotor 2
 calorist
 calorizing 1
@@ -29208,7 +29208,7 @@ cryosurgery 2
 cryptogamia
 cryosurgical 3
 crenelating
-colluvia
+colluvia 1
 coaming 2
 countervailing
 cyclospermous
@@ -29599,7 +29599,7 @@ crinion 1
 crawlsome 1
 crocanthemum 1
 croceic 1
-croceine 1
+croceine 2
 cusconine 1
 coria 2
 crocetin
