@@ -603,7 +603,7 @@ eclaircissement 1
 epeus
 enchant 4
 enneaeteric 2
-empyreumatic
+empyreumatic 1
 epipaleolithic 1
 emblic 1
 evincement
@@ -879,7 +879,7 @@ encourager 1
 ectoproctous 2
 extradition 1
 enterostomies 1
-enteroptosis 2
+enteroptosis 3
 engineery 4
 eumolpique 1
 endopolyploidy 1
@@ -3805,7 +3805,7 @@ engrain
 expletory 2
 emended 2
 ecu
-emending 2
+emending 3
 escribano 1
 emerge 4
 ecart 5
@@ -6565,7 +6565,7 @@ endurable 2
 enterocyst
 entreating 4
 enterocleisis 4
-equiponderant
+equiponderant 1
 excluding 2
 echinorhynchus
 esperantidist 2
