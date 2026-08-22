@@ -2871,7 +2871,7 @@ armorproof 1
 archostenosis
 autocamping 1
 acromicria 2
-aspersers 2
+aspersers 3
 athonite 2
 autodiagnosis 1
 acromiocoracoid
@@ -5965,7 +5965,7 @@ aeciostage 1
 aggrammatism 2
 approachability 2
 aggrandised
-abasias
+abasias 1
 aggrandising
 altimettrically 1
 afterglows 1
