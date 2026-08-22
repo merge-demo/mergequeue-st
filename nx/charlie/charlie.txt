@@ -4259,7 +4259,7 @@ coauthored
 cashel
 cursillo
 careless
-carelessly
+carelessly 1
 carelessness 1
 careme
 carene 1
@@ -14664,7 +14664,7 @@ conurbations 1
 clayman 1
 coliander 3
 cystospastic 1
-cited
+cited 1
 cystospore 3
 cystostomies
 chamberlet 1
