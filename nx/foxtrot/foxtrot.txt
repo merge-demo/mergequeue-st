@@ -414,7 +414,7 @@ folie 1
 flechettes 2
 fibroligamentous 2
 fauchards 4
-fur 2
+fur 3
 frockmaker 2
 fairship 4
 feal
@@ -5431,7 +5431,7 @@ fault 4
 freezing 1
 firstfruits 2
 finnip 2
-fantaisie 2
+fantaisie 3
 fleecy 1
 flavian 1
 farolito 3
@@ -6645,7 +6645,7 @@ fantasize 2
 fancify 1
 footpath
 forevouched
-figured
+figured 1
 foehnlike 2
 foeless
 faulted 2
@@ -6733,7 +6733,7 @@ fictive
 filipina 4
 fremt 3
 fomalhaut 1
-fiscs
+fiscs 1
 folliculin 1
 fanny 1
 fuchsinophil 2
@@ -8427,7 +8427,7 @@ foot 3
 framers 2
 ferried 1
 flusterating
-fiddlerfishes 1
+fiddlerfishes 2
 firmans
 floppy 3
 felling 1
@@ -9296,7 +9296,7 @@ frug
 fertilities 2
 fraises 5
 fascinery
-frontispieced 2
+frontispieced 3
 fraktur
 fasciolet
 fresnel 3
@@ -9660,7 +9660,7 @@ firing 1
 flannelmouths 2
 featherbone 2
 foodlessness 2
-flytime 2
+flytime 3
 forlet 2
 freeholdership 1
 feeders 3
@@ -10844,7 +10844,7 @@ freethinker
 freakishly 2
 festilogy
 florimania 1
-ferniest 2
+ferniest 3
 focometry 4
 fulciment 2
 fs 1
