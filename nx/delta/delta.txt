@@ -7943,7 +7943,7 @@ demicylinder 1
 downsteepy 4
 diathermal
 decimeters
-dextroaural
+dextroaural 1
 dismes 2
 drupiferous 1
 dartos
