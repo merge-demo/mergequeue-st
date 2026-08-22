@@ -8726,7 +8726,7 @@ combflower 3
 chapelries
 carrs 3
 cinerins 1
-chapelward
+chapelward 1
 ceint
 chaperno 1
 custodia 1
