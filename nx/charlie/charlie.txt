@@ -5924,7 +5924,7 @@ catfall 1
 catfalls
 catfight
 creeled 1
-catfish
+catfish 1
 catfoot
 catfooted
 chhatri
@@ -7273,7 +7273,7 @@ coroners 1
 cherishes 2
 ceorl 1
 cep 1
-cholangioitis
+cholangioitis 1
 crisis 1
 cepaceous 1
 comitatus
@@ -9276,7 +9276,7 @@ chatti
 carbohydrates 4
 chattier
 cuspidors
-chairmending 1
+chairmending 2
 confragose
 chatties
 chattiest
@@ -9634,7 +9634,7 @@ caingua 1
 calcipexy 2
 cheerled
 cheerlessly
-cheerlessness
+cheerlessness 1
 comatulid 3
 cheerly
 coastman
@@ -10116,7 +10116,7 @@ chetvert
 centrifugalise
 crazies 1
 cyrtosis 1
-changed
+changed 1
 coauthorship 2
 chevachee 1
 chevage 2
@@ -17657,7 +17657,7 @@ choregraphy 1
 cochleleas
 cochleous
 cochlidiid
-catalaunian
+catalaunian 1
 calque 2
 clinoid
 conservationist 1
@@ -20713,7 +20713,7 @@ criance
 communes
 celative
 completory
-chooser
+chooser 1
 complex
 complexation
 complexedness
@@ -21982,7 +21982,7 @@ configures 1
 coxcombry 1
 confinable 2
 confine
-comports 1
+comports 2
 confined 1
 cadging 1
 confinedly
@@ -26005,7 +26005,7 @@ corviser 1
 corvo 1
 chapel
 chamade 1
-corvoid
+corvoid 1
 corvorant 2
 cantiga
 corvus 1
@@ -26740,7 +26740,7 @@ costulation
 counteravouch 1
 counteravouchment
 counterbalanced
-crackerjack
+crackerjack 1
 counterbarrage
 checkmark
 cardiotomy 2
@@ -29364,7 +29364,7 @@ cryptophthalmos
 correspond 1
 commemorable
 counterdemand
-countian 2
+countian 3
 cryptopyic 1
 cambistry
 characterizers
@@ -29788,7 +29788,7 @@ cankeredness
 cullible 1
 citable
 caliperer 2
-compoing 1
+compoing 2
 cradlelike 1
 carbanil 2
 crooners 1
@@ -30648,7 +30648,7 @@ cucumariidae
 cucumber 1
 collegial
 chymotrypsin 1
-cucupha
+cucupha 1
 chlorids
 compole
 cucurbita 2
@@ -31558,7 +31558,7 @@ centrals 1
 cariamae
 cowlicks
 cauliflower 1
-cortine 1
+cortine 2
 curtainless
 curtainwise
 coir 1
@@ -31932,7 +31932,7 @@ cyanospiza
 caricographer
 coagulators 1
 czarina
-capturers
+capturers 1
 creaturely 1
 churchlike 2
 clitella
