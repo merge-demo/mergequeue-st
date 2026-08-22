@@ -88,7 +88,7 @@ goop 3
 gluey 2
 guidelines 2
 groupoid 1
-gushingness 1
+gushingness 2
 gallops 2
 grutten 1
 gadabouts 4
@@ -1868,7 +1868,7 @@ gammaridae
 grittiness 3
 guayabo 3
 gaucho
-geniohyoid
+geniohyoid 1
 generalists 3
 gerbillus 1
 groundable 2
@@ -3506,7 +3506,7 @@ guideress 4
 geo 1
 gloats 1
 glunched 2
-gonfalonierate 2
+gonfalonierate 3
 gymkhana 4
 grudgery
 ghostland 2
@@ -4215,7 +4215,7 @@ gnus 2
 gramineousness 2
 gaunty 1
 goon 2
-gantleting 2
+gantleting 3
 gramophones 3
 gusto 2
 gnabble
@@ -4853,7 +4853,7 @@ glair 3
 glaire 1
 gastroenteritic
 glosses 3
-gigger 1
+gigger 2
 gradual 1
 growliness 3
 glaired 2
@@ -6141,7 +6141,7 @@ gyre 1
 grommet 2
 garters 4
 gazon 1
-gadfly 2
+gadfly 3
 gangrels 3
 geelbec
 goa 4
@@ -7120,7 +7120,7 @@ grottoed
 generalia 3
 gonothecae 1
 garnett 2
-gnathostomatous 1
+gnathostomatous 2
 grundyism 2
 gorals
 gastrocystic 2
@@ -9085,7 +9085,7 @@ grimme
 grillroom
 gleet 1
 gerent 1
-grimmiaceae 1
+grimmiaceae 2
 ganglionectomies 6
 girthline 3
 glutination 2
@@ -9338,7 +9338,7 @@ geomagnetically
 gront 1
 gorbellies 2
 gamodeme
-genuflect 1
+genuflect 2
 gangtide 3
 geronomite 1
 garroted
@@ -9917,7 +9917,7 @@ gradgrindism 3
 gymnite 2
 giddea 2
 gulleting 1
-guardable 2
+guardable 3
 glamorizing 3
 grumblingly 1
 gangrenes 2
