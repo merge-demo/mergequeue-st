@@ -11575,7 +11575,7 @@ cholecystectasia
 cholecystectomy
 cueball
 chimachima 1
-countermeasure
+countermeasure 1
 cholecystenterorrhaphy
 cholecystenterostomy 1
 cholecystgastrostomy 1
@@ -12601,7 +12601,7 @@ cubatory
 choreas
 crosslap
 cauterizing
-circumventable
+circumventable 1
 chronoisothermal
 cellucotton 3
 chronologer 1
@@ -21024,7 +21024,7 @@ cul 2
 compts
 cabretta 2
 cannelured
-compulsatorily
+compulsatorily 1
 compulsed 1
 ceroplast 2
 calciphobe
