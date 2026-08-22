@@ -5359,7 +5359,7 @@ biflecnode 1
 buyable 1
 bromobenzene 2
 barodynamic
-barbarisation
+barbarisation 1
 burly 1
 broomshank 2
 birne
