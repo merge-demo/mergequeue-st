@@ -23644,7 +23644,7 @@ copestone 1
 cleping
 chivvies
 courteous
-contr 1
+contr 2
 contrabandage
 contrabandery
 cothurnal
@@ -26005,7 +26005,7 @@ corviser 1
 corvo 1
 chapel
 chamade 1
-corvoid
+corvoid 1
 corvorant 2
 cantiga
 corvus 1
