@@ -1676,7 +1676,7 @@ daws 2
 daw 1
 dextraural
 deamination 3
-deammonation
+deammonation 1
 deashing
 dichastic 1
 dandle
@@ -3097,7 +3097,7 @@ describable
 dialecticize 1
 dinornithic 1
 defalcating 2
-dipteral 1
+dipteral 2
 deaths 3
 defamation
 duckwife 4
@@ -6218,7 +6218,7 @@ dermatagra
 dermatophagus 1
 dermatotropic 1
 diaphragmatically 1
-dizaine 2
+dizaine 3
 dermatatrophia
 discretely
 dodonaena
