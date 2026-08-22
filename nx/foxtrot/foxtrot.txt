@@ -75,7 +75,7 @@ flysch
 fordeal 3
 fullfaces 3
 facundity 1
-facemark 5
+facemark 6
 flunkeyhood 1
 forme 2
 filching 2
@@ -2290,7 +2290,7 @@ fraudlessly 3
 feuterer 2
 fashionless 2
 foambow 1
-filicales 2
+filicales 3
 formulable 4
 flotation 1
 foreface 2
@@ -3590,7 +3590,7 @@ fairbanks 2
 fourniture
 flashover 4
 fardels 1
-flank 1
+flank 2
 fructification 1
 felinity 1
 floorway 2
@@ -7180,7 +7180,7 @@ fend 3
 fishified 3
 fishers
 fixative 2
-fourche
+fourche 1
 furnariidae 2
 fiendism 3
 fulvescent 2
@@ -10704,7 +10704,7 @@ fibular 1
 fruitlets 1
 facetted 3
 foxy 1
-felsophyre 3
+felsophyre 4
 feralin 2
 fivepenny
 fairstead 1
