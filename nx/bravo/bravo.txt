@@ -888,7 +888,7 @@ bagful
 baggagemaster 1
 bedamning 1
 brachydome 1
-baggager
+baggager 1
 benzidin 1
 benzalcohol 2
 beffroy 1
@@ -948,7 +948,7 @@ beetfly 1
 belligerently 1
 bazookaman 2
 bassalian 1
-barbeled 1
+barbeled 2
 bravely
 beprank 1
 bidarkas 2
@@ -3359,7 +3359,7 @@ blueballs 2
 backspread 3
 bran
 baskish 1
-boller 1
+boller 2
 bronchobuster 2
 basoid 4
 baraithas
@@ -4430,7 +4430,7 @@ befleas
 belchers 2
 bypassing
 becloaks
-blackfriars 4
+blackfriars 5
 batule 2
 becloak 5
 bereavement
@@ -6241,7 +6241,7 @@ bootlace
 bearleap 3
 bookism
 bissextus
-battalions 1
+battalions 2
 biuret 1
 bosporus 2
 blastogenesis 1
@@ -8387,7 +8387,7 @@ bitore 2
 baston 1
 bombyxes 2
 bashawdom 2
-bigwig 1
+bigwig 2
 bigwiggery
 biomass
 beryllia 2
@@ -10327,7 +10327,7 @@ batfowling 1
 beauism
 blahs 2
 balatas 1
-blithemeat 1
+blithemeat 2
 blueback
 burrknot
 bloodlines 2
@@ -10639,7 +10639,7 @@ bouquet
 bladders 1
 bowllike 1
 beyliks 1
-bleach 1
+bleach 2
 branchiosaurus 3
 bullheadedly
 bluebutton 1
@@ -11101,7 +11101,7 @@ blockmaker 1
 bimmeler 2
 blockpate
 bashawship
-balmiest 1
+balmiest 2
 beddings
 bedawn
 bathyal
@@ -11129,7 +11129,7 @@ becrimes 1
 bache
 bipedism 2
 bougies
-bobadilism
+bobadilism 1
 bygane 2
 barotaxy
 bolivian
@@ -16458,7 +16458,7 @@ bouffage 1
 balbriggan 1
 batitinan
 bellwine 1
-bebless
+bebless 1
 brushful
 bunkoed
 bluenoser
@@ -17070,7 +17070,7 @@ bibb
 boulterer 1
 barrelling 1
 bockeret 2
-bullberry
+bullberry 1
 braggadocios 1
 baluga 1
 bitterhead 2
