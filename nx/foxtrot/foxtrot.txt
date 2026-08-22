@@ -327,7 +327,7 @@ fixers
 failingness 1
 facultative
 frogleg 1
-formulariser 2
+formulariser 3
 fawniest 4
 formagenic
 fetes 3
@@ -503,7 +503,7 @@ fishbone 1
 fakirs 1
 falbelo 1
 flavone 1
-fioretti 4
+fioretti 5
 fumer 2
 firerooms
 flamers 2
@@ -563,7 +563,7 @@ frequentative
 frappe 2
 feeblish 1
 funerate 2
-flagstaff 1
+flagstaff 2
 frighteningly 3
 furmety 6
 faufel 1
@@ -776,7 +776,7 @@ flogging 3
 fatality 3
 froster 1
 forensicality 2
-flipe 2
+flipe 3
 floosy 1
 fustanelle
 familiarizes 1
@@ -4951,7 +4951,7 @@ flameout 3
 foreappoint 3
 fourflushers 3
 flameouts 2
-fictileness
+fictileness 1
 forbiddingness 1
 frets
 funkier 2
@@ -5921,7 +5921,7 @@ folliculosis 3
 frostbites 3
 flogs 1
 fermis
-floyd 2
+floyd 3
 foeticidal 1
 fluviovolcanic 2
 flybane 3
@@ -7575,7 +7575,7 @@ fodientia 1
 forecommend 1
 foreconclude 3
 flagonet 3
-figworts
+figworts 1
 floggers 2
 ficoidal
 forecourts 2
@@ -8564,7 +8564,7 @@ formosity 3
 fidley 1
 flailing 3
 facetiation 2
-firehall 3
+firehall 4
 falsie 4
 fraudproof 1
 fissiparous
