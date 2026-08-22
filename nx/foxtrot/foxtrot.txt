@@ -5107,7 +5107,7 @@ fluidacetextract 3
 frivolist
 fitout 6
 falasha 1
-forebespeak
+forebespeak 1
 fatherling
 fractionise
 funking
@@ -8550,7 +8550,7 @@ forminate 1
 forming
 formless 2
 forwoden 4
-faveolus 3
+faveolus 4
 foxtrot 2
 flabbergasted 1
 flunkydom 1
