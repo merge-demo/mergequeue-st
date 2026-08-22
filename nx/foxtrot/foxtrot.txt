@@ -1800,7 +1800,7 @@ fetisher 3
 fallage 2
 freeboard 2
 fores 1
-ferninst 4
+ferninst 5
 forbesite 1
 folkmots 3
 flak 4
@@ -11527,7 +11527,7 @@ fra 3
 foretopmen 3
 floodable 1
 flixweed
-finalis 4
+finalis 5
 fissidactyl 1
 fireflaught
 foldout 1
