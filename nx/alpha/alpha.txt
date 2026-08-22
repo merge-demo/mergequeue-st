@@ -1705,7 +1705,7 @@ aphonias
 ainsells 1
 arriccios 2
 accueil 1
-acculturated 1
+acculturated 2
 acculturates
 astr 1
 anorganic 2
@@ -4947,7 +4947,7 @@ acetyltannin 1
 aeroelastic
 aucupate 1
 aeroelasticity 2
-arraigning
+arraigning 1
 aerofoils 1
 atmidometry 1
 adjourned 1
@@ -5271,7 +5271,7 @@ angakok
 antievolutionistic 1
 affiants 1
 affiches
-affidare
+affidare 1
 affidation 2
 altropathy 1
 acrography 1
@@ -5932,7 +5932,7 @@ amblyoscope 1
 agglomerates 1
 accentuable
 agglomeration
-agglomerative 2
+agglomerative 3
 abscissions 1
 arachnologist
 apical
@@ -6696,7 +6696,7 @@ accidential 1
 audible
 allemandes
 advertizement
-acarol 2
+acarol 3
 autosign 1
 ailsyte
 anthropotoxin
@@ -9050,7 +9050,7 @@ andhra
 actinoids 3
 allotriophagy 3
 acrimony 1
-aefauld 1
+aefauld 2
 adscriptitius
 anserin 1
 allotropic 2
@@ -12088,7 +12088,7 @@ anaspadias 1
 antifundamentalist
 albite 2
 auntship
-analogions 2
+analogions 3
 antimachination 2
 amphitheatrically
 acromiohyoid 4
@@ -12230,7 +12230,7 @@ aegyptilla 1
 aggressive 2
 ablaut 1
 aerocyst 1
-andira
+andira 1
 alienicola 1
 antiritualist
 amidogens 1
@@ -14532,7 +14532,7 @@ antalkalies 1
 animatism 1
 acritochromacy 2
 algologically 1
-adnoun
+adnoun 1
 anobing
 allylate 2
 anthropographic 1
@@ -16238,7 +16238,7 @@ araceous 2
 antistock
 acetylator 3
 antistreptococcin
-alligation 1
+alligation 2
 anicca 1
 antiauthoritarian
 aesthetically 1
@@ -18384,7 +18384,7 @@ antiecclesiastically
 aramids 1
 appendical 1
 aramina
-afflictedness 3
+afflictedness 4
 aficionado
 andromorphous 2
 araneoidea 2
@@ -20763,7 +20763,7 @@ aguishness 1
 anthologizes
 autopsychic
 adnescent 1
-artiodactyla 1
+artiodactyla 2
 autocrats
 antielectron
 appendixed 1
@@ -20835,7 +20835,7 @@ adossed 2
 arundiferous
 adversifoliate 4
 adpao
-allurers
+allurers 1
 arupa
 armoried 2
 aruspicy
@@ -23959,7 +23959,7 @@ autoassimilation
 antarchistic
 aubergistes 1
 anisopleurous
-allayer
+allayer 1
 anethole 1
 abattage 1
 autobasidiomycetous 2
@@ -24448,7 +24448,7 @@ antilegalist 2
 autosuggestionist 2
 adversarious
 argentol
-autosuppression
+autosuppression 1
 autotelegraph 2
 autotelism
 antipharmic
