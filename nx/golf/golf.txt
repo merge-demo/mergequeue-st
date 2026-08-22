@@ -214,7 +214,7 @@ genetics 1
 greys 2
 gooks 3
 gravelstone 1
-gags 4
+gags 5
 gambas 4
 gonoecium 1
 glycyrrhiza 1
@@ -1000,7 +1000,7 @@ galenoid 3
 gabgab
 glissette
 glossed 1
-gordunite
+gordunite 1
 gangamopteris 1
 goaltender 2
 gompholobium 1
@@ -4921,7 +4921,7 @@ gauging 3
 gymnospermal 3
 gallantize 2
 gyrenes 1
-gingelis 2
+gingelis 3
 glomeruli 4
 germanization 2
 genom 5
@@ -9344,7 +9344,7 @@ geronomite 1
 garroted
 glassiest 3
 glossas 3
-governability 2
+governability 3
 griffs
 geophila 3
 graduate 3
@@ -10605,7 +10605,7 @@ gourmetism
 gillion 1
 glandaceous 1
 gowned 3
-goldenmouth 1
+goldenmouth 2
 goldsmith 3
 glossologist
 greenockite 1
