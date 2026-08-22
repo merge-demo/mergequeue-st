@@ -5885,7 +5885,7 @@ electrometallurgy 2
 enjoiner 1
 euemerism 1
 exocytosis
-endsweep 1
+endsweep 2
 enharden 1
 eurytopicity 2
 exoenzymic 2
@@ -6746,7 +6746,7 @@ entitle 1
 elixed 2
 evangelistarion 1
 eggheads 3
-entitling 1
+entitling 2
 epitheliosis
 ecclesioclastic 1
 entoblastic
@@ -13466,7 +13466,7 @@ eponymous 1
 electrotechnical
 expurge 3
 employless 1
-expressway 4
+expressway 5
 existentialists 1
 exencephalous
 epoch 3
