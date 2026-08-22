@@ -509,7 +509,7 @@ electrosurgeries
 extraphenomenal 1
 estate 2
 entosphenal 1
-echeneidae 2
+echeneidae 3
 endonucleolus 1
 evocate
 electrophorus
@@ -633,7 +633,7 @@ entoderm
 ehrman 2
 enchantments 1
 etatism
-equisufficiency
+equisufficiency 1
 etherialise
 esophagocele 1
 estonians 1
@@ -4200,7 +4200,7 @@ eggeater 2
 evagination
 emotionalize 4
 elytrigerous 2
-extrathecal
+extrathecal 1
 emprizes 2
 epicycloid
 erubescite 3
@@ -4671,7 +4671,7 @@ emplaced 2
 exponentiating
 encircle 2
 embrowned 2
-ensnow
+ensnow 1
 emittent 2
 elocutive 2
 entryway 2
@@ -7839,7 +7839,7 @@ epihyal 2
 exogonium 1
 egis 1
 excitor 2
-epihydric 2
+epihydric 3
 embroidered 3
 elaeagnaceae 3
 expertizing 3
@@ -12302,7 +12302,7 @@ evocatrix 1
 everlasting 1
 eggplant 1
 enfoul 1
-exemplificator 1
+exemplificator 2
 egypt 2
 exemplified 1
 ergasia
@@ -13772,7 +13772,7 @@ ectosphere 1
 extincted 2
 eyewink
 editable 2
-encephalomeningitis 1
+encephalomeningitis 2
 extinctions 1
 enantiopathic 1
 euphorbia 1
