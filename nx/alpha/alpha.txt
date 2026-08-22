@@ -8497,7 +8497,7 @@ alkalurops 1
 alkamine
 alkanet
 alkalifies 2
-actionist 1
+actionist 2
 allicholly 1
 alkanethiol
 antherine
@@ -10280,7 +10280,7 @@ akkadist
 asyllabia 2
 arcticize 1
 anemious
-agricolite
+agricolite 1
 amelanchier 1
 avarice 2
 auxoblast 1
@@ -10711,7 +10711,7 @@ abib
 ammer
 auckland 2
 antimonarchial 2
-aminate
+aminate 1
 avoy
 asok
 autogenously 3
@@ -15451,7 +15451,7 @@ antimaniac
 amylums 4
 antiprogressive
 asslike 1
-antimason
+antimason 1
 antimasque 1
 antimasquer 1
 attitude
@@ -15476,7 +15476,7 @@ antimediaevalist
 antimediaevally 2
 antimedical 1
 aslantwise 1
-antimedicine 4
+antimedicine 5
 anaptomorphidae 1
 antimedievalism 2
 antimedievally
@@ -17746,7 +17746,7 @@ acrocera
 autocab 1
 aversation 1
 ameiurus 1
-adumbration
+adumbration 1
 antispasis 1
 amentia 1
 applique
@@ -18422,7 +18422,7 @@ araua 2
 appertinent 2
 arauan
 antidromous
-abortively
+abortively 1
 araucanian
 araucaria 1
 altoist 3
@@ -20304,7 +20304,7 @@ asterales
 annoying 1
 alamosite
 arrowsmith
-arrowworm 2
+arrowworm 3
 arroz 1
 acrobatics 2
 arsenic
