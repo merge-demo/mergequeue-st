@@ -4130,7 +4130,7 @@ beards 2
 barbers
 birthroot
 bombazette
-bedrenched 1
+bedrenched 2
 bras 1
 brachycera 1
 bearfoots 2
@@ -5019,7 +5019,7 @@ beslubber 1
 beetiest
 beetled 3
 blockage 3
-bedarkened 1
+bedarkened 2
 boite
 beknave 4
 banqueteer
@@ -5344,7 +5344,7 @@ biharmonic 2
 borderlines 1
 balmy
 begone
-baryte
+baryte 1
 begonia 1
 begoniales 1
 backslapping 3
@@ -5875,7 +5875,7 @@ bargainer
 beride
 bellowslike 1
 belltail
-balloons 5
+balloons 6
 butylating 3
 babylonish
 bluer 2
@@ -9510,7 +9510,7 @@ birdbanding 3
 bdellostoma 1
 babooism 2
 birses 2
-birsit
+birsit 1
 badenite
 biparental 1
 bigam 1
@@ -10317,7 +10317,7 @@ bestudding 1
 blaeberries
 bebothered 2
 blepharoplasty 2
-blaflum
+blaflum 1
 blaggard 2
 benzotriazole 1
 balsamea
@@ -10671,7 +10671,7 @@ blearyeyedness 2
 bevel
 blindly 1
 brotulid 3
-begarnish
+begarnish 1
 blearing
 blearness 2
 bleated 1
@@ -14401,7 +14401,7 @@ bylaw 2
 bursiform 2
 bonebinder
 braillewriter 1
-boloman 1
+boloman 2
 bambino
 bettors 1
 braincap 2
@@ -15471,7 +15471,7 @@ bacteriophage 2
 benetted 1
 bludgeoner
 bota
-bifurcations
+bifurcations 1
 battledoring
 brilliancies 2
 backtrack 1
@@ -18153,7 +18153,7 @@ boogie 2
 berylate 3
 bunco 1
 benching 2
-bryon
+bryon 1
 bleekbok
 butyn 2
 befouled 1
