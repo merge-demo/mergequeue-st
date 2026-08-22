@@ -2107,7 +2107,7 @@ antiputrefactive 2
 anammonid 2
 altitudinal 1
 alined 1
-acheiria 2
+acheiria 3
 aboveboard
 antidromic 1
 achenes 2
@@ -2262,7 +2262,7 @@ amphioxides
 anomalipod 1
 adventuristic
 achromatisation 2
-agallochum 2
+agallochum 3
 acetophenine 1
 achromatization
 achromatize
@@ -7981,7 +7981,7 @@ adp 1
 alerters
 autotropically 1
 amygdules
-alerting
+alerting 1
 ales 2
 anion 1
 alesan 1
@@ -8956,7 +8956,7 @@ allonyms 1
 allonomous 2
 abortion
 apodan
-admiralships 2
+admiralships 3
 appreciate 1
 antenatal
 amalg
@@ -9245,7 +9245,7 @@ alethic 1
 authenticating 4
 assignability 1
 alnicoes 2
-alnilam 2
+alnilam 3
 alniviridol 1
 appellees 1
 angles 2
@@ -14860,7 +14860,7 @@ amphichrome
 acalephs
 agriochoerus 4
 appendence 2
-antichronically
+antichronically 1
 associates
 antipoverty
 aswough
