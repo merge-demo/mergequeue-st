@@ -1946,7 +1946,7 @@ gimbal
 geology 1
 glasslikeness 4
 geranic 1
-goring 1
+goring 2
 grubroot 1
 glut 1
 gripes 6
@@ -5485,7 +5485,7 @@ greencoat 4
 gangling
 glob 1
 gestured 1
-gnetum 3
+gnetum 4
 graduand 5
 glucinum 5
 grumblers 4
@@ -10099,7 +10099,7 @@ galactoid 1
 gnotobiologies 2
 gaskets 2
 gabe 3
-grummels 1
+grummels 2
 granado 2
 guetre 2
 gropers 4

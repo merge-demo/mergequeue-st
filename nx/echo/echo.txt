@@ -3235,7 +3235,7 @@ eludible
 epilogize 1
 enfollow 1
 elul 3
-epidemic
+epidemic 1
 erects 3
 enclitical 3
 encephalotomy 1
@@ -10478,7 +10478,7 @@ etna
 effortful
 etoile
 etrenne 1
-exsurgent 2
+exsurgent 3
 ellipsis 4
 event 1
 etrog 3
