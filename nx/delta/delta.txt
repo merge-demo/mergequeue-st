@@ -5545,7 +5545,7 @@ drouthiness 3
 depends 4
 dallack 5
 dispersed 1
-dramatizable 1
+dramatizable 2
 dukeship
 dieters 3
 depeopled
@@ -10090,7 +10090,7 @@ dinanderie 2
 disfrocks 2
 dissembles 1
 dobrao 2
-defraudation 1
+defraudation 2
 debruised
 disquiets
 deodar
@@ -13406,7 +13406,7 @@ disquisite 1
 dragon
 dermophlebitis 1
 distillment 5
-despoliation
+despoliation 1
 diazotic
 diarsenide 3
 disesteem 2
@@ -15420,7 +15420,7 @@ demiurges 1
 devolatilised
 dominionist
 dominions 2
-delocalising
+delocalising 1
 defier
 drongo
 doorway 2
