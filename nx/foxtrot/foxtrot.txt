@@ -572,7 +572,7 @@ fallowist 1
 foretasted 2
 fivefold 2
 floorless 3
-fellon 2
+fellon 3
 foreknows 3
 forpet 1
 fossilisation 1
@@ -1638,7 +1638,7 @@ filmcards 3
 focally 1
 fustiest
 fice 2
-feaberry
+feaberry 1
 furnarius 3
 ferrandin 2
 fiercen 1
@@ -2276,7 +2276,7 @@ forshape 3
 full 2
 flavones 2
 finlandization
-filamentiferous 4
+filamentiferous 5
 fantails 1
 folktale 1
 fulmineous 1
@@ -2551,7 +2551,7 @@ fratery 1
 fitchews
 flaxtail 3
 flustery 1
-fibrocytic
+fibrocytic 1
 faithbreach 1
 fishpot
 fretter 4
@@ -4003,7 +4003,7 @@ fingersmith 3
 ferison
 flushy 1
 furrow 1
-fabricated 4
+fabricated 5
 filmlike 3
 fadmongery
 festin 1
@@ -6284,7 +6284,7 @@ forceful
 fluidounce 4
 factory 2
 fluigram 1
-filestatus 1
+filestatus 2
 frankincensed 2
 forsakenly 1
 fenestellidae 2
@@ -6847,7 +6847,7 @@ favoringly 4
 foliate
 favourableness
 friarhood 5
-fistiness
+fistiness 1
 floridities
 foozler 3
 freemartin 2
@@ -9635,7 +9635,7 @@ frizzing 3
 fraternality 3
 fivestones 1
 ferrotyper 3
-floriken 2
+floriken 3
 forhooy 1
 fothering 1
 forehold 1
