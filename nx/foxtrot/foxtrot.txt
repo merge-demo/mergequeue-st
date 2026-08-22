@@ -1014,7 +1014,7 @@ farmership 2
 flypaper
 formicarian 1
 frieda 1
-focalization 1
+focalization 2
 flopper 1
 felspathose 3
 foined 3
@@ -1053,7 +1053,7 @@ fernleaf 1
 federates 2
 farrel 1
 figuresome 2
-flameproofer 2
+flameproofer 3
 faculae
 floricultural
 fontinalaceous 2
@@ -2398,7 +2398,7 @@ foreordinating 1
 freakpot 1
 fantods 1
 fervidor 1
-felicify 2
+felicify 3
 filtrable 2
 fingernail 1
 fangot 2
@@ -2772,7 +2772,7 @@ festy 1
 festilogies 3
 feddans 1
 festinance 2
-festoonery
+festoonery 1
 fatima 1
 foretellable
 fuddlebrained
@@ -5396,7 +5396,7 @@ formable 2
 flecking 1
 firehouses 3
 festivalgoer
-fennel 3
+fennel 4
 friending
 frigefact 2
 futurity 2
