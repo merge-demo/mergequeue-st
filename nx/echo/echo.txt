@@ -2324,7 +2324,7 @@ effulge 1
 enchants 2
 epistroma
 electrocardiogram 2
-enclear
+enclear 1
 ever 1
 electrocardiographic 2
 euphuistic
@@ -9700,7 +9700,7 @@ elementarism 4
 embryol 4
 escopette 1
 external 1
-extraprostatic 2
+extraprostatic 3
 epicoelar
 extraterritorial 7
 essedones 2
