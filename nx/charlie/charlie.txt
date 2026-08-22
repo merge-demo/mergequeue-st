@@ -1854,7 +1854,7 @@ camalote
 carrys 1
 caman
 chroococcaceous
-carucal 1
+carucal 2
 cercelee 1
 camansi 1
 camara
@@ -1937,7 +1937,7 @@ cauliflorous 2
 cameline 2
 camelish 2
 cardigans 1
-camellike
+camellike 1
 cornwallises 1
 chandeliers
 camellin 2
@@ -3185,7 +3185,7 @@ coracohumeral 1
 capernaitic 1
 contradictor
 chromoparous
-capernaitical 1
+capernaitical 2
 capernaitically 1
 coarctation 2
 cystectomy
@@ -5569,7 +5569,7 @@ catadupe 1
 catafalco
 civilisation 2
 catagenetic 2
-catakinetic
+catakinetic 1
 catakinomeric 1
 corkscrewy
 crayonstone 2
@@ -6896,7 +6896,7 @@ calor 3
 closefisted 1
 cembalo
 cembalon 1
-curiousnesses
+curiousnesses 1
 chrome
 caecostomy
 cement
@@ -7408,7 +7408,7 @@ cerambycid
 coruscations 1
 cerambycidae 1
 cathinine
-cyclonist 1
+cyclonist 2
 catdom
 ceramics
 cledge
@@ -8043,7 +8043,7 @@ capitulum
 chaferies 2
 chafers 1
 caranx
-chafes
+chafes 1
 calycanth
 campaspe 1
 chimaeras 3
@@ -8967,7 +8967,7 @@ charismata
 chokecherry
 consuete
 charismatic
-collationer
+collationer 1
 collunaria
 cunabular
 ceriphs 1
@@ -10661,7 +10661,7 @@ coagment 1
 cookbooks
 caribou
 cytoplasmic
-chimes 2
+chimes 3
 chymes
 caseoses 2
 coprolite
@@ -19885,7 +19885,7 @@ chalcophyllite
 cusso
 catabolizing
 commercialist
-chaussee 1
+chaussee 2
 comically
 critical 2
 comicalness
@@ -22189,7 +22189,7 @@ confuser 2
 chickee
 colopuncture
 confusion 1
-confusions
+confusions 1
 clapmatch
 confustication 1
 crenology
@@ -22722,7 +22722,7 @@ cinnyl
 conopophagidae
 conglobate
 circar
-conorhinus
+conorhinus 1
 cyananthrol 1
 childbear 3
 conoscenti 2
@@ -23084,7 +23084,7 @@ consortitia
 cornwallis 1
 consortship 1
 cfm
-consoude 1
+consoude 2
 choosey
 ceratosa
 consound
@@ -23405,7 +23405,7 @@ caudex 1
 calami 1
 cyrtostyle
 containership
-comates 1
+comates 2
 containerships 1
 corporalism 2
 centenarianism 1
@@ -23933,7 +23933,7 @@ castlery 1
 casinos
 contuses
 contusion
-concurringly
+concurringly 1
 choirwise 1
 contusioned 1
 contusions
@@ -24117,7 +24117,7 @@ campaigning 1
 conversionism
 cypria
 citycism 1
-chirping
+chirping 1
 croatian 1
 cricothyroid 1
 catoptrics
@@ -27597,7 +27597,7 @@ coprahs
 climacium
 cheeriest
 coumara
-covetously 1
+covetously 2
 covid 1
 cocain
 campilan 2
@@ -31932,7 +31932,7 @@ cyanospiza
 caricographer
 coagulators 1
 czarina
-capturers
+capturers 1
 creaturely 1
 churchlike 2
 clitella
