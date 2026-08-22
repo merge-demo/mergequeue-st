@@ -4871,7 +4871,7 @@ bedsitter
 batmen 1
 borachio 3
 baudekins 2
-beltwise 2
+beltwise 3
 bandcase
 baffing
 beduncing
@@ -6369,7 +6369,7 @@ batsmanship 4
 bravoing
 benziminazole 3
 blesbucks
-bethinking
+bethinking 1
 bostrychoidal
 benzine 2
 bubbliness 2
@@ -7604,7 +7604,7 @@ bewitches
 bisque 2
 bioaccumulation 1
 barbion
-bryological
+bryological 1
 bulb
 beswink 3
 boons
@@ -15498,7 +15498,7 @@ banns 3
 brimfullness
 brongniardite 1
 blazon 2
-brodeglass
+brodeglass 1
 braggishly
 boundary 2
 booms
