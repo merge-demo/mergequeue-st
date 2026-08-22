@@ -2903,7 +2903,7 @@ floorcloth
 find 2
 fimbricate
 featuring 2
-feudalists 3
+feudalists 4
 fractionising 2
 freetrader 4
 fomentations
@@ -3895,7 +3895,7 @@ febriferous 1
 fluidextract
 findable
 fruz 3
-familiarize
+familiarize 1
 function
 findhorn 1
 filarees 2
@@ -7714,7 +7714,7 @@ falsified 2
 flawful 1
 finnack 2
 football
-fasciated
+fasciated 1
 ferrotypes 1
 fernier 4
 frayproof 3
@@ -7745,7 +7745,7 @@ flamelike
 formalizations
 flicky
 fireshine 2
-filmographies 4
+filmographies 5
 frankpledge 1
 fumigants 5
 furfuraceous 1
@@ -7984,7 +7984,7 @@ filicidal 3
 fenerate
 fozier
 foreshot 2
-ficelle 3
+ficelle 4
 fumatoriums 1
 fibrinogenous 3
 fitness
@@ -8252,7 +8252,7 @@ funicles
 fauvists 4
 fruticulose 2
 florence 2
-fundulinae 3
+fundulinae 4
 fringes 1
 fairyologist 1
 furlanas
@@ -9174,7 +9174,7 @@ fratricidal
 frusta 1
 fireroom 2
 fooner
-flytings 3
+flytings 4
 froisse 1
 fracid 2
 frizzier
@@ -11568,7 +11568,7 @@ feedback 1
 forecaddie 1
 friskful 2
 flytier 3
-fulmar 2
+fulmar 3
 fasciotomy 3
 futhermore 4
 frogflower 1
