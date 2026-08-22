@@ -30,7 +30,7 @@ floodlet
 fourchee 1
 fieldmen 2
 fibrolitic 2
-feaked 1
+feaked 2
 fibrocyst 2
 fabricates 2
 fabricator 2
@@ -365,7 +365,7 @@ froes 1
 fluorides 1
 faintly 3
 ferrymen 1
-furoid
+furoid 1
 fearer 4
 filicauline 2
 fall 3
@@ -2391,7 +2391,7 @@ falsedad 4
 flinting 1
 flexors 2
 fricandeau 1
-forksful 1
+forksful 2
 folksiness 6
 foredating 5
 foreordinating 1
@@ -3473,7 +3473,7 @@ fallback 3
 fighteress 1
 fatigation 1
 fighting 4
-formboard 1
+formboard 2
 figo 2
 foraminifer 1
 favillae
@@ -4176,7 +4176,7 @@ foulmouthed 2
 fictionary 1
 firebug 4
 fumiduct 1
-flagstones 1
+flagstones 2
 fado 4
 fairishness 2
 flickertail 3
@@ -4203,7 +4203,7 @@ fruitlessness 2
 fumigate 2
 finialed 2
 fragmentally 3
-flagrant 3
+flagrant 4
 fibrilliform 2
 fired
 finnish 1
@@ -8319,7 +8319,7 @@ flirting 1
 fifteenfold 3
 farmings 3
 foretokening 2
-flagellaria 3
+flagellaria 4
 fractious 1
 feists 2
 frequenter 1
@@ -9751,7 +9751,7 @@ firebrat 3
 frenatae 1
 frenched 2
 frenchify
-fido 1
+fido 2
 freakful 1
 fermery
 fremd 1
@@ -11039,7 +11039,7 @@ forcipate 1
 fumets 1
 fumiest
 fluoroscope 1
-fossilizes
+fossilizes 1
 fillets 2
 fumigated 3
 fierce 2
