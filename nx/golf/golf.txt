@@ -380,7 +380,7 @@ galangin 1
 grond 2
 golundauze 1
 gavot 1
-gaoled
+gaoled 1
 glaive
 glossophagine
 goto 2
@@ -652,7 +652,7 @@ goodheartedly 1
 gilour
 glaciered 2
 gastrojejunostomy
-galgulidae 3
+galgulidae 4
 gravelish
 gangboard 3
 gamely 2
@@ -801,7 +801,7 @@ grouts 1
 glycosidase 1
 graf 2
 gimlet 1
-gambade
+gambade 1
 garrotting 1
 gambang 1
 gastrular 4
@@ -3135,7 +3135,7 @@ geotechnic 1
 geraniaceae 2
 griffado
 gabler 5
-gaumy 2
+gaumy 3
 grangerism 3
 grannam 3
 gaddis 1
@@ -4163,7 +4163,7 @@ gaetuli 2
 gyromagnetic 5
 galvanomagnetism 1
 gyron 3
-golfing
+golfing 1
 gabbiness
 gastornis 2
 gynaeconitis
@@ -5178,7 +5178,7 @@ germinant 3
 goldarnedest 1
 gaywing 3
 garnisheed
-gleeks 4
+gleeks 5
 glycemic 1
 geophytes 2
 gabbles 2
@@ -5439,7 +5439,7 @@ grazie 4
 grid 4
 goter 1
 gradines 3
-goodwillies
+goodwillies 1
 gliridae 3
 gasoline 1
 gasifier 3
@@ -5448,7 +5448,7 @@ glirine 2
 germiculture 1
 gandhism 4
 glaciating 5
-galet
+galet 1
 gemellus 2
 guipure 4
 groundskeep 5
@@ -6379,7 +6379,7 @@ garston
 gettings
 gohila
 gasproof 1
-guff 2
+guff 3
 gussied 3
 glassworks 3
 gonotyl 3
