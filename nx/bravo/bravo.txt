@@ -1642,7 +1642,7 @@ ballonne 2
 bewrays
 ballooners 1
 bickering 1
-brattier
+brattier 1
 bricklayer 2
 balloonflower 1
 balloonish
@@ -7266,7 +7266,7 @@ bubbliest 3
 boxwood
 behallow 1
 betailor 1
-bioresearch
+bioresearch 1
 betain 2
 bibiru
 blanked 1
@@ -10216,7 +10216,7 @@ blackies
 bottomlessness 1
 bemuslined 2
 benty
-bryaceous 2
+bryaceous 3
 breads 2
 britany 3
 backwort 2
@@ -10614,7 +10614,7 @@ besayle
 bereft 3
 bohemia 2
 blaunner 1
-brokenness 1
+brokenness 2
 blawing 2
 bidery 2
 blawn
@@ -10762,7 +10762,7 @@ brickwise
 bairnie
 bebatter 1
 blennorrhagia
-bollworms 3
+bollworms 4
 brags
 blennosis 1
 beethovenish 2
@@ -15395,7 +15395,7 @@ brandless
 brainwasher 1
 bagatelles 1
 brierroot
-butterfingers
+butterfingers 1
 baseballer 2
 bonnetless 2
 brieve
@@ -15542,7 +15542,7 @@ brynhild 1
 burn 2
 blist
 barbes 1
-bebar 3
+bebar 4
 boyce 1
 burin 1
 butlerdom 1
@@ -17311,7 +17311,7 @@ bumpers 2
 baths
 blazons
 bumpkin 2
-boltstrake 1
+boltstrake 2
 blanketweed
 botts
 bolstering
@@ -17615,7 +17615,7 @@ burglarizing 1
 bradykinetic
 bulldozes
 backster 2
-bibliophiles
+bibliophiles 1
 belduque 2
 barricadoing
 bobcoat
