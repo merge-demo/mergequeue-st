@@ -575,7 +575,7 @@ electrodynamics 1
 effable
 estancia 1
 emblematize 2
-echoing 3
+echoing 4
 eventration
 echoism 1
 enhydros 1
@@ -3312,7 +3312,7 @@ enact 1
 explanatoriness 1
 equipaga
 epicede 2
-embassade 1
+embassade 2
 emanatist
 elucidator 3
 epical
@@ -3513,7 +3513,7 @@ explementary 1
 endow
 esker 1
 embodiers
-embodies
+embodies 1
 elevens
 essential 2
 embassage 1
@@ -3989,7 +3989,7 @@ easements 2
 eyestalks
 empearl 1
 electroretinography 4
-explorate
+explorate 1
 esothyropexy 1
 estus 2
 effloresce
@@ -8009,7 +8009,7 @@ epiphegus 1
 enwombed 5
 emgalla
 eteocles 2
-ectodermal
+ectodermal 1
 ektodynamorphic 2
 endamebic 2
 earthworks 3
@@ -10462,7 +10462,7 @@ effluviums 3
 ericius 1
 etypically 1
 emblemed 1
-enteroviral 4
+enteroviral 5
 etherin 2
 exalate 2
 encroachingly
@@ -12688,7 +12688,7 @@ exornate 2
 exogenetic 1
 enkolpion 1
 exometritis 4
-excogitate
+excogitate 1
 endeavors 1
 emotionless 2
 echo 1
@@ -13540,7 +13540,7 @@ evaluations 2
 endangeitis
 evonymus 3
 epitomic 2
-epigrapher 2
+epigrapher 3
 elinor 1
 ectosteal
 examine
