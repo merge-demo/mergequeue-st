@@ -4130,7 +4130,7 @@ beards 2
 barbers
 birthroot
 bombazette
-bedrenched 1
+bedrenched 2
 bras 1
 brachycera 1
 bearfoots 2
@@ -10317,7 +10317,7 @@ bestudding 1
 blaeberries
 bebothered 2
 blepharoplasty 2
-blaflum
+blaflum 1
 blaggard 2
 benzotriazole 1
 balsamea
@@ -10671,7 +10671,7 @@ blearyeyedness 2
 bevel
 blindly 1
 brotulid 3
-begarnish
+begarnish 1
 blearing
 blearness 2
 bleated 1
