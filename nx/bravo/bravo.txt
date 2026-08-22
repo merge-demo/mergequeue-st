@@ -4444,7 +4444,7 @@ beclogs 1
 bonspells 2
 bilabials
 beclothe
-banting 3
+banting 4
 bur 1
 bonasus
 behaviorally 4
@@ -6498,7 +6498,7 @@ boca 1
 bumbled
 blowiness 1
 bigaroons 2
-backstrip
+backstrip 1
 bepart 1
 beacher
 banba 1
