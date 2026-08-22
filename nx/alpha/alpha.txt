@@ -5563,7 +5563,7 @@ argot 2
 aluco
 acetonylidene 3
 afterguard
-anaerobious
+anaerobious 1
 ablins
 apophylaxis 2
 afterheat
@@ -6687,7 +6687,7 @@ ailanto
 ailed
 aileron 3
 adradius
-arakanese
+arakanese 1
 anatolian
 aporetical
 amidoketone 1
@@ -8519,7 +8519,7 @@ alkedavy
 alkekengi
 alkene 2
 aroid
-alkenyl 3
+alkenyl 4
 alkes
 awreck
 amyloidoses
@@ -15358,7 +15358,7 @@ anticoincidence 1
 agomphosis 1
 antihypophora 2
 acetopiperone 4
-autodecrements 1
+autodecrements 2
 attempted 1
 antispermotoxin 1
 amphicyon
@@ -19398,7 +19398,7 @@ argenteous 1
 amphorophony
 allicins
 arkie 1
-allowance
+allowance 1
 auspicating 1
 abuseful
 argentin 1
@@ -20244,7 +20244,7 @@ antinomian
 alluvio
 anauxite 1
 adjacence 1
-avicide
+avicide 1
 androecium
 arrivistes 1
 appealers 3
