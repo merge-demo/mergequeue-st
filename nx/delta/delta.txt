@@ -8246,7 +8246,7 @@ dispopularize 3
 draped 1
 disputableness 2
 dispels 1
-diagonal
+diagonal 1
 diagonalizable
 diagonalization
 diagnosing 1
