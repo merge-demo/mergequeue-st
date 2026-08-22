@@ -16649,7 +16649,7 @@ autonomies
 aperiodically
 ambulanced 1
 average 1
-aperiodicity
+aperiodicity 1
 acaroid
 apert 2
 arsonation
