@@ -4311,7 +4311,7 @@ adreamed 1
 adenalgia
 appoint
 azophosphore
-assertative
+assertative 1
 adrenalcortical
 appoggiature
 archesporium
@@ -7452,7 +7452,7 @@ adipose
 argyroneta 3
 albinic
 arghoul
-antiphrastical 1
+antiphrastical 2
 aprioristically 2
 acetopyrine
 anura
@@ -16212,7 +16212,7 @@ antispiritualistic 3
 antithesis 1
 annulate
 antispiritually
-antepenults
+antepenults 1
 albaspidin 2
 apheretic
 ashcake
@@ -21479,7 +21479,7 @@ akhundzada 1
 adrip
 aerographies
 acridic 1
-assedation
+assedation 1
 aspers 1
 adenosarcoma 1
 asperse 2
