@@ -20438,7 +20438,7 @@ aerialness 1
 antimodernness
 antigod 1
 augments 2
-arteria 1
+arteria 2
 averia
 associating 1
 amplifications 3
@@ -21579,7 +21579,7 @@ agonizing
 accountancy 1
 aelurophobia 1
 apoplectically
-aspirating
+aspirating 1
 aspiration 1
 anhang 2
 anabiotic
