@@ -3511,7 +3511,7 @@ capstone 1
 capsula 1
 cons
 capsular 1
-capsulation
+capsulation 1
 collegatary
 chainomatic
 chawbone 1
@@ -10596,7 +10596,7 @@ convivial
 chillingly
 catamounts
 chilognathous 1
-chilogrammo
+chilogrammo 1
 cubic 1
 contract
 corybantic
@@ -18603,7 +18603,7 @@ connex 1
 cob
 clanless 1
 coimplore 1
-coyn
+coyn 1
 cosmometry
 coinable 1
 coinage
@@ -19728,7 +19728,7 @@ combination
 coredeem
 combinational
 corrigent 2
-cloots 1
+cloots 2
 combinations
 corallike
 combinative
