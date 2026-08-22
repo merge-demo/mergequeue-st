@@ -363,7 +363,7 @@ daylights
 deutomalar 1
 desalters
 dayman 1
-daric 2
+daric 3
 droughtiness
 detruss 2
 daymares 1
@@ -1154,7 +1154,7 @@ dropflower 1
 duracine
 dasyatis
 daylit 1
-dire 3
+dire 4
 distractingly
 dasiphora 2
 darren
@@ -18194,7 +18194,7 @@ dishearten 2
 dissceptring
 disavowable 2
 digress 3
-dump
+dump 1
 disreputably 1
 degerming 1
 dyaster
