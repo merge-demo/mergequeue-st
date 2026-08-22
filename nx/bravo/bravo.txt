@@ -4130,7 +4130,7 @@ beards 2
 barbers
 birthroot
 bombazette
-bedrenched 1
+bedrenched 2
 bras 1
 brachycera 1
 bearfoots 2
@@ -4871,7 +4871,7 @@ bedsitter
 batmen 1
 borachio 3
 baudekins 2
-beltwise 2
+beltwise 3
 bandcase
 baffing
 beduncing
@@ -6369,7 +6369,7 @@ batsmanship 4
 bravoing
 benziminazole 3
 blesbucks
-bethinking
+bethinking 1
 bostrychoidal
 benzine 2
 bubbliness 2
@@ -7604,7 +7604,7 @@ bewitches
 bisque 2
 bioaccumulation 1
 barbion
-bryological
+bryological 1
 bulb
 beswink 3
 boons
@@ -14307,7 +14307,7 @@ brogan 1
 braggarts
 balductum 1
 braggery
-bairnteam 1
+bairnteam 2
 bewraying
 bubbleless 4
 bruiters 2
@@ -15498,7 +15498,7 @@ banns 3
 brimfullness
 brongniardite 1
 blazon 2
-brodeglass
+brodeglass 1
 braggishly
 boundary 2
 booms
@@ -17389,7 +17389,7 @@ bullit 1
 bungos
 bamboozler 3
 baetylic 3
-bungtown 1
+bungtown 2
 bosun 1
 blithered 2
 bungwall 2
