@@ -5569,7 +5569,7 @@ catadupe 1
 catafalco
 civilisation 2
 catagenetic 2
-catakinetic
+catakinetic 1
 catakinomeric 1
 corkscrewy
 crayonstone 2
@@ -8043,7 +8043,7 @@ capitulum
 chaferies 2
 chafers 1
 caranx
-chafes
+chafes 1
 calycanth
 campaspe 1
 chimaeras 3
