@@ -1804,7 +1804,7 @@ catalyzator
 calvaries
 calvarium
 calved 1
-calvin
+calvin 1
 cithern 1
 commutators
 comdr 3
@@ -2190,7 +2190,7 @@ camphoroyl 2
 clerkliest 2
 camporee 1
 camphorone 1
-congressmen 2
+congressmen 3
 camphorweed 1
 camphorwood
 cotan 1
@@ -4515,7 +4515,7 @@ carmen
 counts 1
 comales
 carminette 2
-corvetto 1
+corvetto 2
 chirruped
 controvertibly 1
 carmot
@@ -5346,7 +5346,7 @@ cochleated
 catharping
 chariotway 1
 cynodont
-cassowary
+cassowary 1
 cassowaries 1
 commonty
 cassumunar 1
@@ -7015,7 +7015,7 @@ centauress 2
 catechism 2
 centaury 1
 carburetted 3
-carnal 2
+carnal 3
 chink 2
 centauric 1
 checkline
@@ -7355,7 +7355,7 @@ cyclostylar
 cephalometric
 cephalonasal 1
 cephalopathy
-cephalopharyngeal
+cephalopharyngeal 1
 cephalophyma
 cephalophine
 cryostats
@@ -8447,7 +8447,7 @@ cranching 1
 champe 1
 cayuvava
 champer 1
-cynegetic 3
+cynegetic 4
 champerties 1
 chalaze 1
 champertor 2
@@ -11736,7 +11736,7 @@ chondriosphere 1
 connaturally
 cacophony 1
 circuition 1
-chondrites
+chondrites 1
 chondritic 1
 chondroangioma
 coexchangeable
@@ -12627,7 +12627,7 @@ chronons 2
 chefrinia 2
 chronophotography
 chronoscopic 2
-chronoscopically 1
+chronoscopically 2
 cheesier 1
 catechisation 1
 columnize
@@ -14449,7 +14449,7 @@ chasmogamic
 cirrocumulous
 caryophyllin
 cebatha 1
-coloslossi
+coloslossi 1
 cirrocumulus
 cirropodous
 cirrose 1
@@ -20764,7 +20764,7 @@ classicizing 1
 compliances
 compliancy
 cyanauric 1
-compliant 1
+compliant 2
 cupcake
 complicacy
 ceramiaceae 1
@@ -22445,7 +22445,7 @@ chemosensitivity
 cormophyte
 coniines
 conylene 1
-conrey 1
+conrey 2
 ceric
 calends
 conines 3
@@ -22507,7 +22507,7 @@ conjointment
 chromaffin 1
 conjointness
 chorwat 1
-creepages
+creepages 1
 conjoints 1
 chorism 1
 chopped
@@ -30390,7 +30390,7 @@ coversed 1
 cancelier 1
 crustaceology
 chinovnik
-crustaceological
+crustaceological 1
 crustaceologist 1
 cattishness
 clearstories 2
@@ -30845,7 +30845,7 @@ culminal 2
 culminate
 cryptoanalysis
 clops 2
-compounders
+compounders 1
 cliqueiest
 cebus 1
 celtish
@@ -30894,7 +30894,7 @@ cultellus
 culter
 coastward 2
 culti
-cultic
+cultic 1
 chandelier
 caecity 1
 creatinuria
@@ -31873,7 +31873,7 @@ commercialising
 cirrhosis
 cursement
 cutterhead 2
-chemicals 1
+chemicals 2
 cutthroat
 chylopoietic 1
 cuttyhunk
