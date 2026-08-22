@@ -509,7 +509,7 @@ electrosurgeries
 extraphenomenal 1
 estate 2
 entosphenal 1
-echeneidae 2
+echeneidae 3
 endonucleolus 1
 evocate
 electrophorus
@@ -4200,7 +4200,7 @@ eggeater 2
 evagination
 emotionalize 4
 elytrigerous 2
-extrathecal
+extrathecal 1
 emprizes 2
 epicycloid
 erubescite 3
