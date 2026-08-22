@@ -11840,7 +11840,7 @@ chopins
 coinquinate
 converter
 choplogic
-choplogical
+choplogical 1
 choregi 1
 chalazoidite 1
 cryptomonad
