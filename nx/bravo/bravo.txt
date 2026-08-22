@@ -6408,7 +6408,7 @@ benzophenothiazine
 bestayed
 betting 2
 bewake 1
-benzophthalazine
+benzophthalazine 1
 breakup 2
 benzil 2
 banewort 3
@@ -8247,7 +8247,7 @@ browache 2
 boldin
 berthage 2
 byestreet
-biformity 2
+biformity 3
 bifront 3
 bhavani 2
 brainfag 1
@@ -9543,7 +9543,7 @@ birthstool 1
 birthwort
 bitnet
 buttonbush
-biters 3
+biters 4
 biolysis 1
 bandarlog 2
 brandreth 1
@@ -16577,7 +16577,7 @@ bullyable 1
 bots 1
 brocho 1
 beaverish 2
-bourreau
+bourreau 1
 boomers
 bubales
 bandwork
