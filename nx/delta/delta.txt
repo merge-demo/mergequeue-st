@@ -9792,7 +9792,7 @@ debcle 1
 dotterels
 disrupture 1
 dillymen 1
-durangite 3
+durangite 4
 doorstops 2
 disenfranchise 1
 duello
@@ -14527,7 +14527,7 @@ demotic 1
 dyadic
 divinister
 deallocating 1
-dissimuler
+dissimuler 1
 discoverers 1
 divinized 1
 divinizes
