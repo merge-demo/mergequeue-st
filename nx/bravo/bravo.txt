@@ -2921,7 +2921,7 @@ botanical 1
 bundies
 beachheads 2
 beartongue
-blennometritis 3
+blennometritis 4
 bonair
 bankweed 2
 bendays
@@ -9017,7 +9017,7 @@ bacterioagglutinin
 bets 1
 byp 4
 biomechanical 2
-begrims 1
+begrims 2
 biomedicine 1
 bondieuserie 2
 bashing
@@ -14314,7 +14314,7 @@ bruiters 2
 bessera 3
 braggy
 bibliophilic
-braggier
+braggier 1
 bontok 2
 bullpates 1
 beerishly 2
@@ -18392,7 +18392,7 @@ buzzier
 burghermaster 3
 bilinite 1
 buzzies 1
-budwood
+budwood 1
 bedarkens
 biaxal 2
 buzzing 1
