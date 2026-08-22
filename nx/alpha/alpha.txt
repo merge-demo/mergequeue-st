@@ -12605,7 +12605,7 @@ anthribid 1
 anencephalic
 angka
 alulae
-archpatriarch
+archpatriarch 1
 argent 1
 arvo 1
 anencephalus
@@ -15751,7 +15751,7 @@ arroba 2
 amorino
 aggravatingly 2
 antipatriarch 1
-antipatriarchy 1
+antipatriarchy 2
 apimania 1
 aurinasal
 antipatriot 1
@@ -16349,7 +16349,7 @@ anchistea 2
 autonomist 3
 archheretic 1
 abbroachment 3
-admittable 1
+admittable 2
 aperitive
 antiuratic
 antiurease 2
