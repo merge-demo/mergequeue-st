@@ -4759,7 +4759,7 @@ emulously
 encomic
 executory
 excipient 2
-encomiumia 2
+encomiumia 3
 extractant 2
 encompassment 4
 excusation 1
@@ -7889,7 +7889,7 @@ emitter 1
 eatery
 exudates 2
 exordia
-enthrone
+enthrone 1
 epimanikia 2
 eolopile 1
 equivocatory 4
@@ -8960,7 +8960,7 @@ erysipelatous 2
 erraticalness 2
 expletively 2
 erysipeloid 1
-endothoracic 1
+endothoracic 2
 extrinsicate 2
 exhaustive 2
 embiotocid 1
