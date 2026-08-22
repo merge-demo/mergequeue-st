@@ -619,7 +619,7 @@ deadrize 1
 disintegrating 2
 deadhand
 derelinquendi
-disgracefulness
+disgracefulness 1
 disinhumed
 determinantal 2
 dextrorotatory
@@ -16576,7 +16576,7 @@ draft
 dragee 1
 disputed 1
 dimensible 2
-dragger 1
+dragger 2
 draggers
 dislodges
 draggier
