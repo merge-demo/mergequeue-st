@@ -13,7 +13,7 @@ complanate
 cabaho 1
 cabal 2
 condylarthrous 2
-cryptostoma
+cryptostoma 1
 chevance
 chaenomeles
 cows 1
@@ -963,7 +963,7 @@ calaite
 calamancoes
 calamander
 catti
-calamar
+calamar 1
 calamary 2
 calamariaceous 2
 centrifugalized 1
@@ -12407,7 +12407,7 @@ chromatoscopy 1
 chevalet
 clumps 1
 chromatosis
-cadmean 1
+cadmean 2
 chromaturia
 calciphilic 1
 chromazurine
@@ -13719,7 +13719,7 @@ communiqu 1
 cinchophen
 cretinoid 2
 cinchotine
-cullions 2
+cullions 3
 cincinnal
 cincinni
 cholesterate 1
@@ -24018,13 +24018,13 @@ chayma 1
 conveners 1
 convenience
 compliancies
-choller
+choller 1
 conveniences 1
 curin
 chubb 1
 conveniencies
 convenient
-casing
+casing 1
 clocksmith 1
 cassythaceae 2
 convented
@@ -29378,7 +29378,7 @@ corebox
 cryptorchism 2
 cryptorrhetic 1
 consolidationist 1
-cryptos 4
+cryptos 5
 cryptoscope 2
 cryptoscopy 1
 cryptosplenetic
@@ -30788,7 +30788,7 @@ culerage
 christmastide 1
 childbeds
 climatologic 1
-culices 1
+culices 2
 cramble
 cytoparaplastin 1
 culicifugal
