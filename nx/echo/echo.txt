@@ -807,7 +807,7 @@ efficiencies 2
 edaphically 1
 euglenidae 4
 ectypal 2
-ectype
+ectype 1
 epicarpal 3
 enwrite 2
 erythrinidae 1
@@ -4759,7 +4759,7 @@ emulously
 encomic
 executory
 excipient 2
-encomiumia 3
+encomiumia 4
 extractant 2
 encompassment 4
 excusation 1
@@ -5219,7 +5219,7 @@ emanator
 epitomatory 1
 etaerio 4
 excommunicated
-exactor 1
+exactor 2
 entreatable 3
 embryotegae 2
 embolon
@@ -5279,7 +5279,7 @@ enskies 1
 embaphium 2
 ethenyl
 emendicate
-endosmoses 1
+endosmoses 2
 epencephalic
 enjewel 1
 emim 3
@@ -8290,7 +8290,7 @@ epitheme 3
 effierce 1
 evangelise
 electrosurgical
-enscrolls
+enscrolls 1
 eternizing 2
 eland 1
 episcopacy 2
