@@ -1061,7 +1061,7 @@ calcariferous
 cribo
 choristry
 calcariform
-chugalugs
+chugalugs 1
 calcate 2
 cadish
 calceate
@@ -1804,7 +1804,7 @@ catalyzator
 calvaries
 calvarium
 calved 1
-calvin
+calvin 1
 cithern 1
 commutators
 comdr 3
@@ -2153,7 +2153,7 @@ campephagine
 camper 1
 coniopterygidae 1
 channeler 1
-campers
+campers 1
 chiloma
 coadjacence 1
 campesinos 1
@@ -5346,7 +5346,7 @@ cochleated
 catharping
 chariotway 1
 cynodont
-cassowary
+cassowary 1
 cassowaries 1
 commonty
 cassumunar 1
@@ -9528,7 +9528,7 @@ cogitative
 checkrack 2
 casehardens 1
 cricotracheotomy
-calaththi
+calaththi 1
 checkrein 1
 checkroll 1
 compathy 3
@@ -14383,7 +14383,7 @@ circumvention
 circumventions 1
 camphor
 circumventor
-conveyorized
+conveyorized 1
 ceriomyces 2
 callously
 citrus 2
@@ -14449,7 +14449,7 @@ chasmogamic
 cirrocumulous
 caryophyllin
 cebatha 1
-coloslossi
+coloslossi 1
 cirrocumulus
 cirropodous
 cirrose 1
@@ -20764,7 +20764,7 @@ classicizing 1
 compliances
 compliancy
 cyanauric 1
-compliant 1
+compliant 2
 cupcake
 complicacy
 ceramiaceae 1
@@ -22445,7 +22445,7 @@ chemosensitivity
 cormophyte
 coniines
 conylene 1
-conrey 1
+conrey 2
 ceric
 calends
 conines 3
@@ -22507,7 +22507,7 @@ conjointment
 chromaffin 1
 conjointness
 chorwat 1
-creepages
+creepages 1
 conjoints 1
 chorism 1
 chopped
@@ -22836,7 +22836,7 @@ claimsman 1
 cambers 1
 cassette 1
 cuirassing
-chiefage
+chiefage 1
 consenter
 consenters 1
 consentience
@@ -23348,7 +23348,7 @@ consumo
 cremationist
 cynosarges
 consumpted 1
-corrasive 1
+corrasive 2
 consumptional 1
 consumptions
 consumptive
@@ -26682,7 +26682,7 @@ charmeuse
 counteracted
 colada 1
 counteracter
-costrels 2
+costrels 3
 chessart
 compilation 1
 counteraction
@@ -26739,7 +26739,7 @@ counterattractive
 costulation
 counteravouch 1
 counteravouchment
-counterbalanced
+counterbalanced 1
 crackerjack
 counterbarrage
 checkmark 1
@@ -30390,7 +30390,7 @@ coversed 1
 cancelier 1
 crustaceology
 chinovnik
-crustaceological
+crustaceological 1
 crustaceologist 1
 cattishness
 clearstories 2
@@ -30894,7 +30894,7 @@ cultellus
 culter
 coastward 2
 culti
-cultic
+cultic 1
 chandelier
 caecity 1
 creatinuria
@@ -31873,7 +31873,7 @@ commercialising
 cirrhosis
 cursement
 cutterhead 2
-chemicals 1
+chemicals 2
 cutthroat
 chylopoietic 1
 cuttyhunk
