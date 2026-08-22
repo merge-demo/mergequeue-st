@@ -1457,7 +1457,7 @@ bugler 1
 bloodthirstiest 1
 beacon 2
 bandh 1
-biogen
+biogen 1
 bathtubful 2
 botuliform 1
 balinghasay 2
@@ -5279,7 +5279,7 @@ beggarlike 1
 boshas 3
 bullom 2
 brimless 1
-bubbies
+bubbies 1
 batrachoididae
 botulinal
 bontebuck 2
@@ -9378,7 +9378,7 @@ birdfarm
 brike
 bahawder 1
 bimah
-brachiotomy 1
+brachiotomy 2
 bituminise 3
 bromopikrin 2
 britannia 2
@@ -13035,7 +13035,7 @@ bevomit 1
 borani 1
 borasca 3
 bemeet 1
-borassus 2
+borassus 3
 blether 2
 bastardice 2
 borboridae
@@ -16489,7 +16489,7 @@ bulk 1
 bricker 2
 bishoplet
 borasque 2
-bimillennium 1
+bimillennium 2
 bozal
 biomaterial 1
 breathableness 3
