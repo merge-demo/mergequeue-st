@@ -1211,7 +1211,7 @@ bakelite 1
 bakemeats 1
 bronchially 2
 bloop
-bakeoven 3
+bakeoven 4
 blennostatic 1
 bakeress 1
 blenniidae
@@ -2534,7 +2534,7 @@ barguest 2
 barguests
 buzylene 1
 baria 1
-bedouse
+bedouse 1
 blameful 2
 baboodom
 bucca 1
@@ -7338,7 +7338,7 @@ bocklogged 1
 bullidae 2
 bilbies
 bunker
-burritos
+burritos 1
 becumber 1
 beryl 1
 blinky
@@ -12795,7 +12795,7 @@ bullfice
 baskerville 1
 bookward 1
 bookwards 1
-bookworm 1
+bookworm 2
 booleys 2
 bardy 1
 booly
