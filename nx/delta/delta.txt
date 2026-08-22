@@ -2786,7 +2786,7 @@ duodecahedron 1
 decrescent 1
 deknight
 desulfured 1
-dioptrical 2
+dioptrical 3
 droller
 decretalist 2
 despumating
@@ -6595,7 +6595,7 @@ dipentene
 decipherable 1
 digested 3
 deprecations 1
-deselected
+deselected 1
 depiction 1
 deadborn 1
 duddie
@@ -7438,7 +7438,7 @@ drumfire 1
 disequilibriums
 densitometry 1
 deaneries 1
-dysanalyte 1
+dysanalyte 2
 disseised 1
 detrivorous 2
 damn 2
@@ -8606,7 +8606,7 @@ deathin 2
 dyarchy 1
 deadbeat 1
 dehydrant 4
-drainless 3
+drainless 4
 duckhouse 1
 dyarchies 1
 distilling 1
@@ -12362,7 +12362,7 @@ dendrophagous
 dong 2
 dicynodon
 diplophyte 3
-dominate 1
+dominate 2
 dishelms 1
 disher 1
 durability
@@ -13500,7 +13500,7 @@ dismissers 1
 dissait
 dissatisfaction
 dissatisfactions 2
-dissatisfiedly 1
+dissatisfiedly 2
 dustrag 1
 doubleleaf
 dinitrile 1
@@ -15990,7 +15990,7 @@ doveweed 2
 doctrinizing 2
 danai 3
 disaffiliating
-dehumanize
+dehumanize 1
 dimanganous
 dewani 1
 dispetal
