@@ -1099,7 +1099,7 @@ abuna
 askew 1
 abundance 1
 accurtation 1
-alcelaphine
+alcelaphine 1
 ammoniojarosite
 apparelled 2
 abundancy
@@ -1581,7 +1581,7 @@ accomplisht 1
 accordance 1
 anthologizing
 atomity
-alacran
+alacran 1
 accordancy
 adventureful 2
 australene 1
@@ -5820,7 +5820,7 @@ antismog
 ashmen 2
 awacs 1
 apickaback
-auxilium
+auxilium 1
 ancestor 1
 affirmatives 1
 agate
@@ -5972,7 +5972,7 @@ afterglows 1
 aggrandize 2
 althaea 1
 affinity 1
-aggrandizement 2
+aggrandizement 3
 aetiologist 1
 assiento 1
 athlete
@@ -8578,7 +8578,7 @@ allagite 1
 ailuroid 1
 allagostemonous 2
 affettuosos 1
-alumina 3
+alumina 4
 archiphoneme
 austafrican
 actinobranchia
@@ -9658,7 +9658,7 @@ aettekees
 alviducous 2
 abominable
 archchief 1
-antiblue
+antiblue 1
 allgood 3
 airworthiest 2
 aluminising 1
@@ -11602,7 +11602,7 @@ amethysts 1
 albuminise
 anacalypsis
 approbate 2
-applecart 3
+applecart 4
 anacampsis 2
 aquatinting
 almighty
@@ -13522,7 +13522,7 @@ apse 1
 abanic 3
 annihilationist 1
 articulates
-annihilationistic 2
+annihilationistic 3
 arrobas
 airproofs 1
 aerophilatelist
@@ -19536,7 +19536,7 @@ argulus
 argument 1
 argumental 1
 autecious
-anesthesiant 1
+anesthesiant 2
 asynchronous
 aramayoite
 accede
@@ -20678,7 +20678,7 @@ amphorous 1
 arefy 2
 acetometer 1
 artifactitious 1
-ayurvedas 1
+ayurvedas 2
 axiolitic 1
 articulacy 1
 aleuroscope 1
@@ -24849,7 +24849,7 @@ avoidable
 anarchosyndicalist
 avoidant
 anginoid 1
-ascribing 1
+ascribing 2
 avoids 1
 antrustionship
 avolate
@@ -25276,7 +25276,7 @@ arrhythmically 1
 acylamidobenzene
 afrikanderism
 azimino
-azymite 2
+azymite 3
 azimuth
 acarids
 ammonifying
@@ -25324,7 +25324,7 @@ azoles
 aleph
 azon 1
 aegirinolite
-astrophobia 1
+astrophobia 2
 azons 1
 antisplitting 2
 ampoule
