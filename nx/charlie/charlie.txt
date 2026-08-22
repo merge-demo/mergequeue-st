@@ -2079,7 +2079,7 @@ cruddle
 camouflaging
 combats 1
 chandlery 1
-collapsar
+collapsar 1
 camoufleur 1
 chests
 cosherer 1
@@ -2478,7 +2478,7 @@ coffeeberry 1
 cancrinite 1
 cancrisocial
 clientele 1
-contuse
+contuse 1
 crystallitic 1
 cancrum
 cancrums 2
@@ -10006,7 +10006,7 @@ ceremonialists 1
 chalcon
 cruiser 1
 catepuce
-cephalhydrocele
+cephalhydrocele 1
 coffles 1
 cheries
 cosmotron
@@ -16836,7 +16836,7 @@ conferred 1
 curtal 1
 conservatorio 2
 commentatorial
-clubbist
+clubbist 1
 chopas 1
 clubdom 1
 clubfist 1
@@ -17697,7 +17697,7 @@ couched
 cinchonin
 comaking 1
 chemosmoic
-catan 1
+catan 2
 cockroaches 2
 cozing
 clavicylinder
@@ -18514,7 +18514,7 @@ cohibition
 chinks
 cohibitor 2
 cohitre 2
-chandlering 1
+chandlering 2
 collieries
 cohobator 1
 choushes 1
@@ -21337,7 +21337,7 @@ conchostraca 1
 corotated 2
 computed 1
 conchs 3
-conchubar 1
+conchubar 2
 coplots
 conchuela
 concierge 2
@@ -25282,7 +25282,7 @@ corita
 calesa
 cephaldemae 1
 corium
-chiasmal 1
+chiasmal 2
 chirurgic
 contradistinctively 1
 canonicate
@@ -30106,7 +30106,7 @@ chromatrope
 cingulated 1
 crowed 1
 crower 1
-crowers
+crowers 1
 conductors
 centuried
 crowfeet 1
@@ -30624,7 +30624,7 @@ cucujus
 callitype
 cutest
 cachila
-cucule 2
+cucule 3
 credensive
 caryocar 1
 choregraphic
