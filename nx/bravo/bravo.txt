@@ -548,7 +548,7 @@ backvelder 1
 blastodermic
 baufrey 1
 bulgarophil 1
-bloodnoun 2
+bloodnoun 3
 butyl 1
 bernard 2
 blit 3
@@ -1104,7 +1104,7 @@ burel
 bayonets 1
 benefactors 1
 bifacial 3
-blksize 1
+blksize 2
 bayong 1
 babongo 3
 baloney 1
@@ -2685,7 +2685,7 @@ barmcloth 1
 brither
 birdcage 1
 balmlike 2
-barnabas 1
+barnabas 2
 bales
 barnaby 3
 bluebreast
@@ -3228,7 +3228,7 @@ basidiosporous 1
 buckbush 1
 batiked 1
 bodiless 2
-bedights
+bedights 1
 bathtub 2
 blatters
 barkpeel 2
@@ -3787,7 +3787,7 @@ bobflies 1
 befleaing 1
 battute 1
 burratine 2
-bacterian 4
+bacterian 5
 blephillia 1
 batwing 1
 baysmelt 1
@@ -6768,7 +6768,7 @@ busying 1
 berrichonne 2
 bandleader 2
 bosquet 1
-bridgebuilding 2
+bridgebuilding 3
 berrier 1
 berries 1
 bitterbur 1
@@ -9762,7 +9762,7 @@ buckskin 1
 bedragglement 2
 bissonata 1
 besing 1
-bistate
+bistate 1
 biosyntheses 1
 bibliophage
 biochemist 1
@@ -13163,7 +13163,7 @@ bankrupts
 borowolframic 1
 barometrograph 3
 borrachio
-borrasca
+borrasca 1
 borreria 2
 bandoliered
 borrowable
@@ -16480,7 +16480,7 @@ burdock 1
 beecher 3
 brusker 1
 brushlet
-bendayed
+bendayed 1
 burrhel 1
 biscacha
 buzzes 2
@@ -16781,7 +16781,7 @@ buddie 1
 boswell 2
 batteuse 2
 buddleia
-bunkhouses 3
+bunkhouses 4
 blockhole 3
 buddleias 1
 brainstem 1
@@ -18221,7 +18221,7 @@ balkily 2
 brisken
 bonhomous
 beyond 4
-butterfat 1
+butterfat 2
 burnooses
 bucranium 3
 bandages
