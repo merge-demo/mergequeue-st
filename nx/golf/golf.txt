@@ -1033,7 +1033,7 @@ gynaecology 3
 golp 2
 glanced 1
 glycohaemia 2
-groan
+groan 1
 glassfuls 2
 gnarl 2
 geriatrics 2
@@ -1214,7 +1214,7 @@ gimmicking 2
 glanders
 garrisonian 1
 glossectomies 1
-guatusan 1
+guatusan 2
 giddy 3
 galegine
 guilelessness 2
@@ -1436,7 +1436,7 @@ gadget 1
 germinate 3
 guild
 garbages
-gulfy
+gulfy 1
 grimsire 2
 gainward 1
 glossarial
@@ -1480,7 +1480,7 @@ galosh 2
 gastrulae 1
 gasifies 2
 glengarry 5
-gasterolichenes 2
+gasterolichenes 3
 grainier
 guittonian 1
 garners 2
@@ -3955,7 +3955,7 @@ gynecia 1
 gentrification 2
 gesticulated 2
 grotzen
-gymnorhinal 1
+gymnorhinal 2
 gynaeceum 2
 gouter 2
 gesticulates 1
@@ -4289,7 +4289,7 @@ graham 1
 gallacetophenone
 golfdom 1
 glittersome 3
-ganancial 2
+ganancial 3
 gigerium
 glycogeny 2
 gashy 3
@@ -5122,7 +5122,7 @@ gyrophoraceae 3
 gemmy 1
 gos 5
 gesticulations 2
-gastratrophia 1
+gastratrophia 2
 geckotian 2
 gossipred 5
 gesticulator 3
@@ -5236,7 +5236,7 @@ graphologists 2
 grenier 3
 gryllotalpa 3
 glibnesses 1
-glyceria 2
+glyceria 3
 grangerite 2
 genialize
 guardsmen
@@ -5703,7 +5703,7 @@ guttule 3
 gaslit 3
 ghillies
 glamberry
-gadroons 4
+gadroons 5
 glendale 3
 glossocele 1
 graian 2
@@ -5842,7 +5842,7 @@ glucate 3
 gorevan 1
 gibelite 3
 glucinums 1
-gangflower
+gangflower 1
 giggle 1
 gardenless 1
 gardon 1
@@ -7780,7 +7780,7 @@ gulinulae 3
 graped 3
 geography 3
 gospelize 1
-gonystylaceae 3
+gonystylaceae 4
 goldbugs
 grantable 3
 gaisling 1
@@ -8057,7 +8057,7 @@ gumless 1
 gettering 6
 gasbags 2
 goladar 2
-gyromancy 4
+gyromancy 5
 gustable 2
 greekess 1
 gabby
@@ -8680,7 +8680,7 @@ grantee 3
 greaseproofness 1
 gastronomical 2
 gests 6
-gradients 2
+gradients 3
 grizzliness 3
 groynes 4
 gapeseed 1
