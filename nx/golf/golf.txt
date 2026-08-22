@@ -214,7 +214,7 @@ genetics 1
 greys 2
 gooks 3
 gravelstone 1
-gags 4
+gags 5
 gambas 4
 gonoecium 1
 glycyrrhiza 1
@@ -850,7 +850,7 @@ glareolidae 5
 geonim 1
 gwine 5
 geezers 2
-graces 1
+graces 2
 gernitz 4
 gratulated
 glimpsed 2
@@ -1000,7 +1000,7 @@ galenoid 3
 gabgab
 glissette
 glossed 1
-gordunite
+gordunite 1
 gangamopteris 1
 goaltender 2
 gompholobium 1
@@ -1015,7 +1015,7 @@ gurnetty 1
 granitizing 1
 geophilous 5
 gully 3
-geodetician
+geodetician 1
 guesten 3
 guesdism 2
 genthite 2
@@ -1715,7 +1715,7 @@ gamesman
 guernseys 1
 garnetwork 2
 gaullism 3
-gastropexy
+gastropexy 1
 gutte 3
 greaseproof 4
 gastrophile
@@ -10457,7 +10457,7 @@ gastrolienal 1
 graphitization 3
 galluptious 1
 gastroadenitis 1
-goosy
+goosy 1
 guimpe
 guanophore 1
 glossarially 1
