@@ -2871,7 +2871,7 @@ armorproof 1
 archostenosis
 autocamping 1
 acromicria 2
-aspersers 2
+aspersers 3
 athonite 2
 autodiagnosis 1
 acromiocoracoid
@@ -4788,7 +4788,7 @@ aepyornithiformes 2
 aggrieves 1
 alycompaine
 agrypniai
-abaris
+abaris 1
 aequi
 ausgespielt 3
 aranein 1
@@ -5965,7 +5965,7 @@ aeciostage 1
 aggrammatism 2
 approachability 2
 aggrandised
-abasias
+abasias 1
 aggrandising
 altimettrically 1
 afterglows 1
@@ -8785,7 +8785,7 @@ abaze
 aramus 1
 anschluss 2
 alliancing
-affluxion 1
+affluxion 2
 alliant
 allicampane 3
 antiketogen 1
@@ -10690,7 +10690,7 @@ archiepiscopality
 amylolysis
 antitragic 2
 accusator
-amylom 1
+amylom 2
 amyloplast 1
 appertaining 1
 appaloosas
@@ -10721,7 +10721,7 @@ amino 2
 aminoacetic
 anatomicosurgical 1
 academie
-acetylized 1
+acetylized 2
 analogical
 agamae
 aminoacetophenetidine 1
@@ -10828,7 +10828,7 @@ ammelide 2
 apodemal
 arenaria 1
 apothecary
-adductor
+adductor 1
 ammeter 2
 ammeters 2
 amplexuses
@@ -15025,7 +15025,7 @@ automatized 1
 anticosmetics 1
 agamogenesis
 anticouncil 2
-archrepresentative
+archrepresentative 1
 antenati 1
 anticourtier
 anticovenanter 1
@@ -15150,7 +15150,7 @@ aceologic 1
 aura 1
 antieyestrain 2
 acquirers 1
-antiejaculation
+antiejaculation 1
 alterants 2
 allotrope 1
 apsidal
@@ -15457,7 +15457,7 @@ antimasquer 1
 attitude
 abba 2
 anhedonic 2
-antichamber
+antichamber 1
 afterstrain
 adversa 2
 argenton 1
@@ -22038,7 +22038,7 @@ asepticism 2
 anteprostate
 astable
 aedeagus 1
-astay 1
+astay 2
 anisometropic 1
 almistry 1
 aegithognathism
