@@ -2488,7 +2488,7 @@ candelabrum
 corelatively 1
 candelilla 1
 conductible
-choraguses 1
+choraguses 2
 certitude
 clang
 cacodemonic 2
@@ -4259,7 +4259,7 @@ coauthored
 cashel
 cursillo
 careless
-carelessly
+carelessly 1
 carelessness 1
 careme
 carene 1
@@ -9592,7 +9592,7 @@ cheeney
 cheep 1
 courtierism 1
 cheeper
-cynodontia
+cynodontia 1
 capernaite 1
 casklike
 cheepers 1
@@ -14300,7 +14300,7 @@ convexed 1
 circumplanetary
 crone
 chrysazin 2
-circumplicate
+circumplicate 1
 contrafacture
 cacciatore
 clavierist
@@ -14635,7 +14635,7 @@ calumet
 cystophore 1
 cistophorus
 coadjustment 1
-cystophotography 1
+cystophotography 2
 coxier 1
 captans
 checkmating
@@ -14664,7 +14664,7 @@ conurbations 1
 clayman 1
 coliander 3
 cystospastic 1
-cited
+cited 1
 cystospore 3
 cystostomies
 chamberlet 1
@@ -18896,7 +18896,7 @@ colyum
 calcographer 1
 climbs 2
 coliuria 1
-contemporary 1
+contemporary 2
 colla
 coorg 1
 csnet
@@ -19761,7 +19761,7 @@ combless
 chairmen
 comboy 1
 caprellidae 2
-carpentering 1
+carpentering 2
 comboloio 2
 combos
 cauch
@@ -23938,7 +23938,7 @@ choirwise 1
 contusioned 1
 contusions
 contusive 2
-conns 4
+conns 5
 cicadellidae
 conf 1
 chaffing
@@ -24491,7 +24491,7 @@ coost
 curves
 coosuc 1
 coot 1
-cootch 1
+cootch 2
 corticin
 cheeseburger
 cootfoot 1
@@ -25470,7 +25470,7 @@ cornstarch 1
 cornstone
 cajang 1
 czars
-cornua 1
+cornua 2
 cornual
 compulsory
 cornuated
@@ -29167,7 +29167,7 @@ cradleside 2
 cryogenics 2
 cloys
 catwalks
-cluniacensian
+cluniacensian 1
 clauster
 costards
 cryological
@@ -29811,7 +29811,7 @@ cropman 1
 contraindication 1
 coquilles 1
 comorado 3
-colleagued
+colleagued 1
 cochleate
 croppy 1
 cropping 1
@@ -31452,7 +31452,7 @@ curragh
 clearminded
 centavo
 currajong 1
-currans 2
+currans 3
 completions
 chresards
 contradict 1
