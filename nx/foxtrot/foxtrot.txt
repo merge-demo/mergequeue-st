@@ -3895,7 +3895,7 @@ febriferous 1
 fluidextract
 findable
 fruz 3
-familiarize
+familiarize 1
 function
 findhorn 1
 filarees 2
@@ -7714,7 +7714,7 @@ falsified 2
 flawful 1
 finnack 2
 football
-fasciated
+fasciated 1
 ferrotypes 1
 fernier 4
 frayproof 3
