@@ -3511,7 +3511,7 @@ capstone 1
 capsula 1
 cons
 capsular 1
-capsulation
+capsulation 1
 collegatary
 chainomatic
 chawbone 1
@@ -6913,7 +6913,7 @@ charros
 cementer 2
 cementification 1
 cyborgs 2
-cementin
+cementin 1
 catapuce 1
 carane 1
 cannery 1
@@ -10596,7 +10596,7 @@ convivial
 chillingly
 catamounts
 chilognathous 1
-chilogrammo
+chilogrammo 1
 cubic 1
 contract
 corybantic
@@ -12939,7 +12939,7 @@ chromatometer
 chuting 2
 chutists 1
 canalised 3
-cocurrent 1
+cocurrent 2
 chutnees
 chuttie
 chutzpa
@@ -14537,7 +14537,7 @@ cystectasia
 contestate 3
 campout 1
 chaptalizing 1
-cnidophore 2
+cnidophore 3
 cysted
 cysteins
 cyclolith 1
@@ -18264,7 +18264,7 @@ cofferer
 countys 2
 coffering 2
 cancerite
-craziness
+craziness 1
 cadding 1
 cofferwork
 christology 2
@@ -18603,7 +18603,7 @@ connex 1
 cob
 clanless 1
 coimplore 1
-coyn
+coyn 1
 cosmometry
 coinable 1
 coinage
@@ -19728,7 +19728,7 @@ combination
 coredeem
 combinational
 corrigent 2
-cloots 1
+cloots 2
 combinations
 corallike
 combinative
@@ -27353,7 +27353,7 @@ courbe
 counterappeal 1
 chemistries 1
 courbette 1
-courbettes
+courbettes 1
 clogginess
 carcaneted
 cantillation
