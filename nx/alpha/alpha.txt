@@ -2362,7 +2362,7 @@ acidology 1
 acidometer 1
 arioi 1
 afflation 1
-anacardium 1
+anacardium 2
 acidometry 2
 asmear 1
 annelidan
@@ -4290,7 +4290,7 @@ antioxidizer
 assemblement 1
 autosuggest 1
 aclastic
-adposition 1
+adposition 2
 acmispon 1
 azonium
 aggenerate
@@ -5690,7 +5690,7 @@ asquare
 agag
 avarian
 anorthic
-appointees 1
+appointees 2
 andabatarian
 aeschylean
 again 1
@@ -5881,7 +5881,7 @@ asperness 1
 achiote 1
 acculturizing 1
 archfelon 2
-anisocarpic 2
+anisocarpic 3
 aponeurosis 1
 agarum
 ankylosaur 2
@@ -7314,7 +7314,7 @@ alarum
 alarumed
 antitypically
 alaruming
-astrand
+astrand 1
 antepaschel 2
 aerotropic 1
 abominableness 1
@@ -8881,7 +8881,7 @@ admirably
 antevocalic
 arrayment
 armouries
-audiometries 1
+audiometries 2
 alderliefest
 auxiliarly 2
 adermin
@@ -9130,7 +9130,7 @@ acuminating 1
 alluring 1
 advancingly
 adenalgy 5
-atebrin
+atebrin 1
 agneaux 1
 adnation
 axisymmetrically 2
@@ -14608,7 +14608,7 @@ auric 1
 anthropoidean
 anthropophilous 1
 afterdated
-anthropophobia
+anthropophobia 1
 anthroposociology 3
 altarlet 1
 adoretus
@@ -17334,7 +17334,7 @@ amorpha
 acetylsalicylic 1
 animalcules 3
 antisepticised
-anaesthetic 3
+anaesthetic 4
 autothermy 1
 aposteme 1
 amidosulphonal 1
