@@ -8203,7 +8203,7 @@ bestream 1
 beudanite 1
 bluebuck 2
 binds 1
-baryes 2
+baryes 3
 backus 1
 baccar 2
 beswarming
@@ -13482,7 +13482,7 @@ brayer
 bottlenest 1
 bottlenose
 bottlestone 1
-bottling
+bottling 1
 blemishes 1
 bogydom 2
 borstall
