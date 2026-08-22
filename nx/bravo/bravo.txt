@@ -320,7 +320,7 @@ bomi
 backcap
 backchats 2
 boule 3
-burg 1
+burg 2
 beneficially 2
 backcross
 bewept 1
@@ -619,7 +619,7 @@ bacteriocin 1
 broomsticks 1
 bostangi
 bastiment 1
-bacteriodiagnosis
+bacteriodiagnosis 1
 bromates
 benomyls
 behearse
@@ -1632,7 +1632,7 @@ bromoil
 brahms
 beauties 2
 belimousined
-balloen 3
+balloen 4
 bewray 1
 bullbird
 ballones 2
@@ -2139,7 +2139,7 @@ betrough 1
 branchihyal 2
 birthrights 2
 braccae 2
-bosomer
+bosomer 1
 blanca 1
 bosch 1
 brouillon 1
@@ -9888,7 +9888,7 @@ bito 2
 bicalvous 1
 bitonalities 1
 belibeling
-breaghe 2
+breaghe 3
 balonea 1
 besotter 1
 brasilete
@@ -11891,7 +11891,7 @@ barming 1
 bodrage 1
 bodiliness 3
 baalite 2
-baccivorous
+baccivorous 1
 bortzes 2
 battleplane 1
 bouillons 1
@@ -16436,7 +16436,7 @@ barysphere
 bryanthus
 boroughs 1
 barmiest
-bewearying 3
+bewearying 4
 balsamum 1
 bridgeless
 bellibone
