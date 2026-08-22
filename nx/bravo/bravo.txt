@@ -6904,7 +6904,7 @@ beshadowed 2
 beauxite
 boggled
 briolette
-breediness 1
+breediness 2
 betail 1
 branchiosauria 2
 baselessness
@@ -17030,7 +17030,7 @@ bulimy
 bismuthiferous 3
 bulimias
 bronchiostenosis 1
-broomtail
+broomtail 1
 bayman 3
 barbicels 2
 braces 2
