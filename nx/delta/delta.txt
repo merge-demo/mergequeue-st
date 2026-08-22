@@ -7963,7 +7963,7 @@ diphenylthiourea 2
 dorosternal
 dextrolimonene
 dichlorobenzene
-dimethylaniline
+dimethylaniline 1
 dimensive 1
 dookit 3
 dolichofacial 2
@@ -9588,7 +9588,7 @@ digressory 3
 dastard 1
 disencumbers 1
 deerwood 2
-drazel 1
+drazel 2
 dogmeat 1
 diddering
 druse 1
@@ -12240,7 +12240,7 @@ diminuendos
 disgospelize
 disgracer 1
 defrication 1
-dipicrate 1
+dipicrate 2
 disenchanted
 delicacies
 debarks
@@ -14967,7 +14967,7 @@ diathermacy
 dacryolin
 defogs
 dogdoms 1
-deprogram
+deprogram 1
 demogorgon 2
 dissolving 1
 dogear
@@ -16160,7 +16160,7 @@ deoxygenize 1
 drewite 1
 devisal
 dovening
-desireless
+desireless 1
 deplasmolysis 1
 declassified 1
 dovetailwise 1
