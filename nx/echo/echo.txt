@@ -509,7 +509,7 @@ electrosurgeries
 extraphenomenal 1
 estate 2
 entosphenal 1
-echeneidae 2
+echeneidae 3
 endonucleolus 1
 evocate
 electrophorus
@@ -1290,7 +1290,7 @@ euripos 3
 excitometabolic 2
 effacers
 exhilarated
-exumbrellar 1
+exumbrellar 2
 effect 1
 endocardiac
 exopeptidase 2
@@ -1514,7 +1514,7 @@ ettarre 1
 egesta 2
 eggberries 1
 enfranchising
-eurythermal 3
+eurythermal 4
 eyeable 1
 egg 4
 ethmoid 1
@@ -2292,7 +2292,7 @@ essene 2
 entheal 1
 euphuism 1
 endosteum 1
-eval
+eval 1
 escalatory
 exterminations 1
 ensepulchre 2
@@ -2683,7 +2683,7 @@ enduros 1
 electrotherapy 2
 electrotheraputic 3
 emyds 1
-elaeopten 1
+elaeopten 2
 escribed 1
 ephippial 2
 emulsoidal 4
@@ -4200,7 +4200,7 @@ eggeater 2
 evagination
 emotionalize 4
 elytrigerous 2
-extrathecal
+extrathecal 1
 emprizes 2
 epicycloid
 erubescite 3
@@ -4671,7 +4671,7 @@ emplaced 2
 exponentiating
 encircle 2
 embrowned 2
-ensnow
+ensnow 1
 emittent 2
 elocutive 2
 entryway 2
@@ -4845,7 +4845,7 @@ englishly 2
 eggers 1
 electrostenolysis 2
 ensured 3
-entablements
+entablements 1
 ef 1
 encumbrance 1
 extrabureau 1
@@ -6418,7 +6418,7 @@ evenmete 2
 euctical
 ectropionize
 eskars
-expatriatism 3
+expatriatism 4
 embroideries 1
 elvira 2
 ensorceled
@@ -6554,7 +6554,7 @@ eelgrasses
 emplume 1
 ergothioneine 4
 eruditional 1
-eurygnathous
+eurygnathous 1
 elocution 1
 etas 2
 exsanguinity 3
@@ -7839,7 +7839,7 @@ epihyal 2
 exogonium 1
 egis 1
 excitor 2
-epihydric 2
+epihydric 3
 embroidered 3
 elaeagnaceae 3
 expertizing 3
@@ -7905,7 +7905,7 @@ encephalonarcosis
 equisetic 1
 explainingly 1
 evaniidae 1
-epimerized
+epimerized 1
 ephebus 3
 enclisis 1
 ectozoic
@@ -9084,7 +9084,7 @@ enrockment
 empidonax 2
 escalloniaceae 1
 embadomonas 4
-enlightens
+enlightens 1
 emigrate 1
 erythropia
 enveil
@@ -12018,7 +12018,7 @@ exclaiming 2
 enface 2
 exclaims 3
 exclamative 1
-epithermally
+epithermally 1
 exclamatory 3
 exclaves 3
 excavational
@@ -12302,7 +12302,7 @@ evocatrix 1
 everlasting 1
 eggplant 1
 enfoul 1
-exemplificator 1
+exemplificator 2
 egypt 2
 exemplified 1
 ergasia
@@ -13836,7 +13836,7 @@ equiped 1
 epicheirema
 engraftment 2
 extorts 3
-ecteron 1
+ecteron 2
 enarch 1
 esparto 3
 eukaryote 1
