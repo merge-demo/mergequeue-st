@@ -2079,7 +2079,7 @@ cruddle
 camouflaging
 combats 1
 chandlery 1
-collapsar
+collapsar 1
 camoufleur 1
 chests
 cosherer 1
@@ -2478,7 +2478,7 @@ coffeeberry 1
 cancrinite 1
 cancrisocial
 clientele 1
-contuse
+contuse 1
 crystallitic 1
 cancrum
 cancrums 2
@@ -3288,7 +3288,7 @@ canteen
 capitellum
 capitle 1
 cerebrum
-compenetrate 1
+compenetrate 2
 corns 1
 canulated
 capitol 1
@@ -12493,7 +12493,7 @@ chondrosarcoma
 caravaneer
 chromone
 carboxide
-creamers 1
+creamers 2
 cantonments
 crinated
 chervonetz
@@ -16836,7 +16836,7 @@ conferred 1
 curtal 1
 conservatorio 2
 commentatorial
-clubbist
+clubbist 1
 chopas 1
 clubdom 1
 clubfist 1
@@ -18514,7 +18514,7 @@ cohibition
 chinks
 cohibitor 2
 cohitre 2
-chandlering 1
+chandlering 2
 collieries
 cohobator 1
 choushes 1
@@ -19869,7 +19869,7 @@ comfit 1
 comfiture
 comfort
 cryptoglaux
-comfortableness 2
+comfortableness 3
 comfortation
 churchly 1
 comfortative 1
@@ -25282,7 +25282,7 @@ corita
 calesa
 cephaldemae 1
 corium
-chiasmal 1
+chiasmal 2
 chirurgic
 contradistinctively 1
 canonicate
@@ -27573,7 +27573,7 @@ consumation
 clairce
 coverslip
 copartnery 1
-covertly 2
+covertly 3
 colloquialist
 cadency
 cupmaker 1
