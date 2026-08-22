@@ -29530,7 +29530,7 @@ crithidia
 crithomancy 3
 critic 1
 coquetting
-criticality
+criticality 1
 coheir
 criticalness
 coendured
