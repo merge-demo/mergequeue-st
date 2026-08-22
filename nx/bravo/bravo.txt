@@ -651,7 +651,7 @@ bacteriophagy
 bacteriopsonin 1
 bendable 2
 barfing 1
-bellwethers
+bellwethers 1
 butchering
 boozed 2
 beermaking 1
@@ -760,7 +760,7 @@ babiches 1
 badges 2
 badging 3
 buddhism 2
-banksman
+banksman 1
 bifrost
 badiaga 1
 boneshaw
@@ -3529,7 +3529,7 @@ bateleur
 brickel 1
 barbered
 bovista 1
-bouchal 1
+bouchal 2
 bulldoggishly
 bogglish 2
 broadax
@@ -3986,7 +3986,7 @@ bondon 1
 brittlewood
 bawtie
 bantlings 2
-brand 1
+brand 2
 bnf 2
 bespy
 becursed 2
@@ -11520,7 +11520,7 @@ budder 1
 blufter 2
 bluggy 2
 bispore
-bethwack 3
+bethwack 4
 bombload 2
 blumes
 benighting
@@ -13373,7 +13373,7 @@ basivertebral 2
 bothie
 benjamin
 bardesanist
-baggers 1
+baggers 2
 batons
 bellicosity 2
 babbie
@@ -13526,7 +13526,7 @@ botulisms 1
 brief 1
 brodequin 1
 bijouterie
-briquette 1
+briquette 2
 bouch 1
 beatae
 blacksmith 1
@@ -15351,7 +15351,7 @@ bluffers 1
 bioelectrogenesis
 berther
 bordarius 1
-bardolph 1
+bardolph 2
 beetleweed 2
 bursa 1
 batrachidae
