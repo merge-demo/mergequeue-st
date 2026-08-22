@@ -1033,7 +1033,7 @@ gynaecology 3
 golp 2
 glanced 1
 glycohaemia 2
-groan
+groan 1
 glassfuls 2
 gnarl 2
 geriatrics 2
@@ -1218,7 +1218,7 @@ guatusan 2
 giddy 3
 galegine
 guilelessness 2
-garage 6
+garage 7
 guatemaltecan 2
 galapago 4
 gastrotricha
@@ -5016,7 +5016,7 @@ garliclike 1
 gateaux 1
 gasts 3
 glued 1
-gnarr 2
+gnarr 3
 griecep 3
 graniticoline
 glassies 2
@@ -5842,7 +5842,7 @@ glucate 3
 gorevan 1
 gibelite 3
 glucinums 1
-gangflower
+gangflower 1
 giggle 1
 gardenless 1
 gardon 1
@@ -8057,7 +8057,7 @@ gumless 1
 gettering 6
 gasbags 2
 goladar 2
-gyromancy 4
+gyromancy 5
 gustable 2
 greekess 1
 gabby
