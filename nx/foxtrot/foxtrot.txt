@@ -2968,7 +2968,7 @@ foliar 3
 fiberize
 fewest 3
 fluke 2
-fissiparity 4
+fissiparity 5
 fewterer 1
 frim 2
 fastening 3
@@ -3587,7 +3587,7 @@ feddan 5
 flapjacks
 fussle 2
 fairbanks 2
-fourniture
+fourniture 1
 flashover 4
 fardels 1
 flank 2
@@ -6277,7 +6277,7 @@ fussock 4
 flared 1
 fissiparation
 fortissimos 2
-footlock 4
+footlock 5
 fearnought
 fakirism 1
 forceful
@@ -11092,7 +11092,7 @@ fellsman 2
 flaminica 3
 fractionated 2
 forficated
-flaunter
+flaunter 1
 freightment 3
 flense 1
 foxiness 4
