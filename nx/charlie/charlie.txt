@@ -5105,7 +5105,7 @@ cesspipe 2
 coestate 1
 chemoprophylaxis
 cascable
-cascade 1
+cascade 2
 coupes
 crotaline
 cavae
@@ -23349,7 +23349,7 @@ cremationist
 cynosarges
 consumpted 1
 corrasive 1
-consumptional
+consumptional 1
 consumptions
 consumptive
 consumptively
