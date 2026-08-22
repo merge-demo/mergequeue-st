@@ -4253,7 +4253,7 @@ dysarthria
 divert 1
 dissemble 4
 draggletail 1
-delver
+delver 1
 dizzy 1
 dernful
 disannexation 2
@@ -5320,7 +5320,7 @@ diaphoretic 2
 displaced
 denticle 1
 desegmented
-dentifrice 1
+dentifrice 2
 dentil 2
 discussional 2
 dentiled 1
@@ -6655,7 +6655,7 @@ depreciatoriness 2
 disembodiments
 dustrags 1
 deservers 1
-dollmaker
+dollmaker 1
 droplight
 decadianome 1
 drawarm 2
@@ -10543,7 +10543,7 @@ diplocephalus 1
 drearisomeness 2
 dysaphia 1
 dbrn
-diplococcemia 1
+diplococcemia 2
 disleaf 2
 davach
 digammate 1
@@ -11732,7 +11732,7 @@ decaudation
 districts 1
 demasts 1
 discrepated 4
-dioptometry 2
+dioptometry 3
 diskless 2
 denounces
 discrepation 2
@@ -14722,7 +14722,7 @@ disfigurements 3
 decahedral 1
 doctorbird 2
 dekametre 2
-declinedness
+declinedness 1
 darnation
 dioptrically 4
 dedolomitize 2
@@ -14821,7 +14821,7 @@ doctorize 1
 distinctness 1
 distributive 2
 diallage 1
-doumaist
+doumaist 1
 doctorless 1
 diffusibly
 dimissorial 1
@@ -15052,7 +15052,7 @@ dogget 2
 doggrelize
 disprince
 dorlot
-dungeons 3
+dungeons 4
 doghead
 doghood 2
 doghouse
@@ -17612,7 +17612,7 @@ decerned 1
 dryopteris
 drunker 2
 denaturising 1
-dabbler
+dabbler 1
 dubitant 1
 dexterical 1
 decastylar 1
