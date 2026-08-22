@@ -3316,7 +3316,7 @@ believe 2
 brisant 1
 basiradial 1
 bacterioscopic 2
-basirostral
+basirostral 1
 basiscopic 1
 bacterial 2
 blepharitic 2
@@ -7580,7 +7580,7 @@ bifocals
 bedrivel
 breed
 bewhore 1
-borish 2
+borish 3
 bewidow 3
 bulldozers 2
 boke
@@ -12640,7 +12640,7 @@ brasero 1
 basinlike 1
 bonxie 1
 boucher
-bistriazole 2
+bistriazole 3
 blithers
 bookworms
 battycake 1
