@@ -145,7 +145,7 @@ gentisin 1
 granulated
 gratelike 6
 galantine 3
-garrot 1
+garrot 2
 geryon 2
 galipot
 gastrologer 1
@@ -317,7 +317,7 @@ galabeah 2
 gazolyte 1
 galabieh 2
 globulous
-galactagog 3
+galactagog 4
 goschens 2
 galvanoglyph
 gradualist 7
@@ -2151,7 +2151,7 @@ goldfinches 1
 galliards 2
 gametange 2
 glistening
-glisters
+glisters 1
 gebbie 3
 guardians 5
 gecarcinian 3
@@ -2312,7 +2312,7 @@ galopin
 geldings
 garlandage 2
 gelated 3
-grader 1
+grader 2
 gustfulness 2
 gladiolar 1
 gymnics 1
@@ -2893,7 +2893,7 @@ gabbled 3
 geocerite 4
 glove 1
 gubernation 2
-greenheaded
+greenheaded 1
 gallons 1
 glabreity
 gulley 1
@@ -3936,7 +3936,7 @@ guessingly 3
 gigster 2
 guarinite 3
 gemonies
-gloomier 1
+gloomier 2
 gastrology 2
 gnomological 2
 guatuso
@@ -4608,7 +4608,7 @@ gloy 3
 gaatch
 gastnesses 2
 gurjun 5
-getaways
+getaways 1
 girshes 3
 gipsyish 2
 gastrohelcosis 2
@@ -6293,7 +6293,7 @@ gyrons 1
 guijo 1
 gastroatonia
 gastrocele 3
-goblin 1
+goblin 2
 gullible 3
 gall 4
 gigartinaceous 3
@@ -7457,7 +7457,7 @@ gou 5
 goodmen 4
 gladiate 1
 grimacingly 2
-gesellschaften 3
+gesellschaften 4
 glasswork 1
 germens
 glycines 1
@@ -8111,7 +8111,7 @@ gnotobiotic 4
 guglets 1
 gymnophobia 3
 glomming 4
-groaning
+groaning 1
 garigue 1
 gamiest 1
 garau 2
@@ -9840,7 +9840,7 @@ guajiras 1
 guama 2
 garcinia 3
 glaniostomi 1
-glandiform 2
+glandiform 3
 guanayes 1
 groow 1
 graffer 2
@@ -10434,7 +10434,7 @@ gumly 2
 gruffs 1
 gambeer 3
 gelees 1
-guaiacs 1
+guaiacs 2
 goatskins
 gittite 3
 greedy 4
