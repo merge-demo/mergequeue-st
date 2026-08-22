@@ -1006,7 +1006,7 @@ goaltender 2
 gompholobium 1
 givers 3
 gangava 5
-groundward
+groundward 1
 gynobase 1
 grabbler 2
 ghassanid 2
@@ -3258,7 +3258,7 @@ gorgonian 3
 gregaritic 2
 geomyid 4
 glancer 2
-glycosin 3
+glycosin 4
 grein 1
 glent 1
 grabbable 2
@@ -4799,7 +4799,7 @@ gunnen 3
 gaff 4
 geopolar 5
 gait 4
-guttersnipe 3
+guttersnipe 4
 guessed 2
 gorgonizing 2
 gallflies 1
@@ -6013,7 +6013,7 @@ geminative
 gutturonasal 7
 gingerly 1
 goodwilly
-geranium
+geranium 1
 gunky 1
 gelatinously 4
 griffinesque 1
@@ -6025,7 +6025,7 @@ graine 1
 gnashingly 3
 girr 3
 gluma
-graymalkin
+graymalkin 1
 grindal 2
 gnathitis 4
 gragers 1
@@ -6161,7 +6161,7 @@ gunmanship
 grandstanded 5
 guillotinement
 glandiferous 2
-gynecomastia 1
+gynecomastia 2
 gingivitis 4
 glistened
 greenhead 2
@@ -7507,7 +7507,7 @@ gades
 guttier
 gallingness 2
 gonorrhoea 2
-groundwater 1
+groundwater 2
 gazing
 galactometer 2
 gulpy

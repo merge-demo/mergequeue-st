@@ -1664,7 +1664,7 @@ bathwort
 ballpark
 brasquing
 bandi 1
-bescurf
+bescurf 1
 barrowist
 bardesanism 1
 balusters 1
@@ -1873,7 +1873,7 @@ bancus
 backstabber
 bandelette 2
 banderma
-banderol 2
+banderol 3
 befrets
 banderole 3
 bastardliness 1
@@ -3235,7 +3235,7 @@ barkpeel 2
 basigynium 2
 basilarchia
 beware 1
-blotchily 1
+blotchily 2
 basilary 1
 bestowment 1
 beshivers 1
@@ -3287,7 +3287,7 @@ bewhig
 beneficiaries 3
 begartered 1
 bethank
-bookkeeps 2
+bookkeeps 3
 basidiophore 2
 bourn
 brattle
@@ -6188,7 +6188,7 @@ beltian 2
 bookrest 3
 barrigudo 1
 barbless
-buchmanism 3
+buchmanism 4
 bifurcation 1
 befinger 1
 beadhouse 1
@@ -6893,7 +6893,7 @@ besew 4
 borghi
 byproducts 1
 boccaccio 1
-betrim 1
+betrim 2
 bibliopolistic 1
 beshade
 begrudges 1
@@ -9031,7 +9031,7 @@ brontephobia
 besmuts
 biometries 1
 bion 2
-byon
+byon 1
 brasqued 2
 bionditional 2
 bionics 2
@@ -14182,7 +14182,7 @@ blacken 1
 beseeched
 beadleship 2
 belgophile
-bibliopolery 1
+bibliopolery 2
 bulbomedullary 1
 bolded 1
 breasthook
@@ -15363,7 +15363,7 @@ brahmanists
 bridie 1
 broughta
 bridle 2
-blackpot 3
+blackpot 4
 boredom
 bridoons 4
 blurt 4
