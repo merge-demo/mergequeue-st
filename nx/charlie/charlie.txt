@@ -3152,7 +3152,7 @@ cape 1
 chequerboard
 capeadores
 capelan
-chromid
+chromid 1
 capelin 1
 cornette
 capeline
@@ -3508,7 +3508,7 @@ capsomers 3
 capstan
 capstans 1
 capstone 1
-capsula
+capsula 1
 cons
 capsular 1
 capsulation
@@ -6122,7 +6122,7 @@ cats
 catskill
 catso
 catsos 1
-carloadings
+carloadings 1
 catspaw 1
 catstane
 catstep
@@ -6627,7 +6627,7 @@ cecitis
 cecomorphic
 classily
 cecopexy
-cecrops
+cecrops 1
 cecums 1
 coalas
 cecutiency 3
@@ -8360,7 +8360,7 @@ chamaepericlymenum
 chamaephyte 2
 chamaesiphonales 1
 chamar 1
-chambered
+chambered 1
 chamberlainry
 caccia
 chrysolophus
@@ -11380,7 +11380,7 @@ changelessly
 chlorophora 1
 cameralist
 chloropicrin 2
-chloroplast 1
+chloroplast 2
 chloroplastic 1
 chloroplasts 2
 cosmonautics
@@ -13425,7 +13425,7 @@ cleared 2
 courageously 2
 christabel 1
 ciderish 1
-crozzle
+crozzle 1
 chapping 2
 chaine
 chlorinates
@@ -21504,7 +21504,7 @@ compartimento
 craniognomy 1
 concourse
 cliqueless
-confessions
+confessions 1
 calycle
 climacterical
 celestialize
@@ -25813,7 +25813,7 @@ cneoraceae
 creepingly 1
 chilostoma
 cohos 1
-coccoids 1
+coccoids 2
 corrody 1
 celloist
 corrodiary 2
@@ -29610,7 +29610,7 @@ crocheteur 2
 codebook 1
 commutableness
 columbanian 2
-crociate 1
+crociate 2
 crocidura 2
 cosinesses
 crock
@@ -30542,7 +30542,7 @@ cubicula 1
 costly
 cubicular 1
 casewood
-celiodynia 1
+celiodynia 2
 cubiculo 2
 cubing
 cytogamy 1
