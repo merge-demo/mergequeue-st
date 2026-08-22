@@ -651,7 +651,7 @@ bacteriophagy
 bacteriopsonin 1
 bendable 2
 barfing 1
-bellwethers
+bellwethers 1
 butchering
 boozed 2
 beermaking 1
@@ -3529,7 +3529,7 @@ bateleur
 brickel 1
 barbered
 bovista 1
-bouchal 1
+bouchal 2
 bulldoggishly
 bogglish 2
 broadax
