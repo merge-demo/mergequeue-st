@@ -4253,7 +4253,7 @@ dysarthria
 divert 1
 dissemble 4
 draggletail 1
-delver
+delver 1
 dizzy 1
 dernful
 disannexation 2
@@ -10543,7 +10543,7 @@ diplocephalus 1
 drearisomeness 2
 dysaphia 1
 dbrn
-diplococcemia 1
+diplococcemia 2
 disleaf 2
 davach
 digammate 1
