@@ -11386,7 +11386,7 @@ determinoid
 debug
 discloser 1
 disclosive
-disclosure
+disclosure 1
 diplomaed
 duplicitous 1
 didache
