@@ -523,7 +523,7 @@ forfeiter
 flatdom 2
 funambulant
 folium 2
-falcons 3
+falcons 4
 falculate 2
 fawnery
 falcunculus 1
@@ -9362,7 +9362,7 @@ forzato 3
 finnicky 4
 fatback 7
 formicicide 1
-fromages
+fromages 1
 fluxility 2
 francolite 2
 faller 2
@@ -11207,7 +11207,7 @@ felonwort 2
 frenzelite 1
 fastly 6
 flinter
-fullgrownness
+fullgrownness 1
 frontiersman 2
 falsetto
 fusobacteria
