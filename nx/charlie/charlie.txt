@@ -11840,7 +11840,7 @@ chopins
 coinquinate
 converter
 choplogic
-choplogical
+choplogical 1
 choregi 1
 chalazoidite 1
 cryptomonad
@@ -19974,7 +19974,7 @@ conglobated 1
 cozzes
 croquis 1
 choicier
-cassideous
+cassideous 1
 commandments 1
 ceratops
 commando
