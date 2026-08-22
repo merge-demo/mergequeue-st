@@ -481,7 +481,7 @@ fusht 3
 fracturs
 faker 1
 flaneries 2
-fungi 1
+fungi 2
 fohns 2
 formicariidae 3
 foretokens
@@ -4061,7 +4061,7 @@ finitive 1
 felapton 2
 formants 1
 foppishness 3
-finitude 1
+finitude 2
 flushable 1
 frijoles 2
 frontage 1
@@ -5975,7 +5975,7 @@ fets 1
 fanwright 3
 fudging 1
 firetrap 2
-fomites 3
+fomites 4
 freeloader
 ferguson
 favism 3
@@ -6508,7 +6508,7 @@ frills 2
 falter 3
 facility
 forgie 4
-farweltered
+farweltered 1
 fip 5
 failsoft 3
 frapping 2
@@ -6704,7 +6704,7 @@ freespac 4
 furrier
 freshwater 1
 flaughtbred 2
-forecontrive 2
+forecontrive 3
 fenner 3
 flingers 1
 flaggily 2
@@ -9243,7 +9243,7 @@ fragileness 1
 foreknown
 faceplate 1
 flubbing
-fucus 1
+fucus 2
 farmed 1
 fledged
 fumously 2
@@ -9681,7 +9681,7 @@ floriform 2
 freemasonical 1
 finitesimal 4
 flatfootedness 2
-freen 1
+freen 2
 featherfoil 3
 forwardly 1
 flotations 2
