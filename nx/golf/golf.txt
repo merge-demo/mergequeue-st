@@ -1849,7 +1849,7 @@ galacturia
 gelatinizable 3
 gardenwise 3
 grabber 1
-gatherers 2
+gatherers 3
 gooma
 gamenesses 4
 grecale
@@ -3239,7 +3239,7 @@ gutty 1
 ghawazee 1
 gerfalcon 1
 gudesake 1
-gothite
+gothite 1
 gien 3
 gahnites 1
 gateage 1
@@ -3443,7 +3443,7 @@ gynandromorphism 2
 gemul 4
 gewgawry 3
 gyrfalcon
-gleave 3
+gleave 4
 goyin
 grot
 gestatory
@@ -4507,7 +4507,7 @@ girellidae 1
 gurts 3
 greenhorns 3
 gluelike 2
-gyrencephala 1
+gyrencephala 2
 gutturalized 1
 gobbledygook 1
 graphometry 1
@@ -4667,7 +4667,7 @@ galeae 1
 gowland 1
 gite 3
 gonarthritis
-gnawn 2
+gnawn 3
 goodhearted 2
 groveled
 geniality 3
@@ -6127,7 +6127,7 @@ goobers 4
 gamings 1
 globical 3
 glavered 2
-gelotoscopy
+gelotoscopy 1
 gardy 2
 grumpish 2
 gnapweed 1
@@ -7918,7 +7918,7 @@ grandams 2
 gusty 2
 generic 2
 gruelling 1
-gametangium 1
+gametangium 2
 goi 2
 glossolaly
 gounau
@@ -8450,7 +8450,7 @@ gratifiable 3
 guaco 1
 gelsemium 3
 ghetchoo 2
-girondism
+girondism 1
 ganderteeth 1
 gratified 4
 gaseous 4
@@ -9984,7 +9984,7 @@ glazer
 gubernatrix 5
 grouches 2
 goodsome 1
-geophysically 1
+geophysically 2
 gogglier 5
 gargled 2
 gelseminic 4
