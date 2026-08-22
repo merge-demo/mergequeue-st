@@ -380,7 +380,7 @@ galangin 1
 grond 2
 golundauze 1
 gavot 1
-gaoled
+gaoled 1
 glaive
 glossophagine
 goto 2
@@ -3135,7 +3135,7 @@ geotechnic 1
 geraniaceae 2
 griffado
 gabler 5
-gaumy 2
+gaumy 3
 grangerism 3
 grannam 3
 gaddis 1
