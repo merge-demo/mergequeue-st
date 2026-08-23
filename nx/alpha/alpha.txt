@@ -4105,7 +4105,7 @@ anality
 antislip 1
 agentival
 admissibility
-asci 2
+asci 3
 admissive 1
 automan
 apholate
@@ -7394,7 +7394,7 @@ apometabolic 2
 alberghi 1
 aplite 1
 albergo 2
-arctically
+arctically 1
 albert
 albertin 1
 albertine
@@ -12630,7 +12630,7 @@ antidoron
 appenditious 2
 aligns
 aboriginary
-andromania 2
+andromania 3
 aeropleustic 1
 acinetarian
 autochthonously
@@ -24702,7 +24702,7 @@ adelopod 2
 angiogenic
 adelphi
 antiracial
-avgas
+avgas 1
 aerobiotic
 arcadia
 amusedly
