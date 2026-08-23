@@ -5821,7 +5821,7 @@ ashmen 2
 awacs 1
 apickaback
 auxilium 1
-ancestor 1
+ancestor 2
 affirmatives 1
 agate
 agates 2
@@ -23077,7 +23077,7 @@ antimatter 1
 ataxics
 antiquarians
 adiated 2
-acholic
+acholic 1
 asfast 2
 attainment 1
 attainor 1
