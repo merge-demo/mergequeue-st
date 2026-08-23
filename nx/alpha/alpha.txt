@@ -4408,7 +4408,7 @@ adsorbent 3
 austrogaean 1
 aventure
 apparels 2
-anachronistically
+anachronistically 1
 apoxyomenos
 ageusia 2
 alcae 1
@@ -5010,7 +5010,7 @@ agenizes
 aeronat
 algernon 1
 aeronaut 1
-aeronautic 1
+aeronautic 2
 agastric
 argentose 1
 agama
@@ -16878,7 +16878,7 @@ alimentive
 apickback
 araucarian
 adrenotrophin
-anticatalyst
+anticatalyst 1
 antiinstitutionalist 2
 apicolysis 1
 amentulum
