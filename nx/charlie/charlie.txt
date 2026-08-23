@@ -1019,7 +1019,7 @@ colourtype
 cohoba 1
 calascione
 cydonia 1
-calastic 2
+calastic 3
 calathea
 calathi 1
 calathidia 1
@@ -5765,7 +5765,7 @@ catchphrase
 cocona 1
 cynoscion
 commation 2
-catchpoll 1
+catchpoll 2
 catchpolling 1
 copperheads 1
 contribute 1
@@ -10903,7 +10903,7 @@ counteradvise
 chiriguano
 chirimia
 cathedralwise
-chirino
+chirino 1
 chirk
 chirkest 1
 chirking
@@ -13365,7 +13365,7 @@ cyclostoma 2
 chasers 1
 centaurium 2
 ceration 1
-coformulator 2
+coformulator 3
 ciphony
 consubstantiationist
 capon 1
@@ -14078,7 +14078,7 @@ cleruchial
 capivi 1
 corpuscle
 circe 1
-circean 2
+circean 3
 circinate
 coxcombs
 chirinola
@@ -15799,7 +15799,7 @@ clearedness 1
 clearheadedly 1
 cardcases 2
 crawly
-cometwise 2
+cometwise 3
 chalazas
 clearheadedness
 clearhearted 1
@@ -17116,7 +17116,7 @@ crasser 1
 coadminister
 civic
 coadministratrix 1
-catalyzers
+catalyzers 1
 coadmiration
 cuphead
 carboxylase 1
@@ -24666,7 +24666,7 @@ cauqui
 coplotter
 chinoidine 1
 counterpaly
-cryaesthesia
+cryaesthesia 1
 charcoals
 cerebrating 2
 copolymer 1
@@ -26077,7 +26077,7 @@ cedrine
 colotyphoid 1
 cosies 2
 circumscriber 1
-cosign 2
+cosign 3
 convallariaceae 2
 concubinal 1
 counterfix
