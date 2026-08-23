@@ -3780,7 +3780,7 @@ gryphons 2
 greave
 gawkishness 1
 gameball 1
-gantlets 2
+gantlets 3
 gastroenterotomy 4
 giver 2
 ground 6
@@ -5273,7 +5273,7 @@ globularly 3
 gutturalism 2
 gastropulmonic 2
 gingals 2
-glaived 2
+glaived 3
 gourds 3
 gemmier 2
 gravures 2
@@ -8954,7 +8954,7 @@ galvanising 3
 gnaw 1
 geranomorphic
 gothicize
-gringole
+gringole 1
 gras
 gombroon 3
 grieko 1
@@ -10721,7 +10721,7 @@ grizel
 gearwheel 2
 glary 4
 glyoxim 1
-goonda 4
+goonda 5
 grumping 3
 gemmeous 3
 glyconean 2
