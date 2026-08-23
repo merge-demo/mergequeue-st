@@ -5585,7 +5585,7 @@ alives
 aftermark 1
 atenist
 auriculo 2
-antisialic 1
+antisialic 2
 aftermilk 2
 arteriovenous
 azophosphin
@@ -15129,7 +15129,7 @@ antidrug 1
 anemotropic 2
 applied 1
 archcheater
-analcimes
+analcimes 1
 alluvions 1
 abaci 1
 adjectivitis
