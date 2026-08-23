@@ -28950,7 +28950,7 @@ convertaplane 1
 cribs 2
 conelike
 cribworks
-cardinalate
+cardinalate 1
 convocated
 cricetidae
 chrysal
