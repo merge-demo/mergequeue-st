@@ -623,7 +623,7 @@ empiricist 1
 empetrum 2
 embryogeny 2
 eyestones 4
-embussed
+embussed 1
 epizoite 2
 eluviating 1
 etwees
@@ -4933,7 +4933,7 @@ effuses 2
 epacts 1
 enschedule 1
 exomphalous 3
-endemicity 2
+endemicity 3
 evangely 3
 epichirema
 electrofused 1
@@ -7589,7 +7589,7 @@ ellachick 1
 eccentricities 1
 elapse
 eoliths
-enterohelcosis 2
+enterohelcosis 3
 epiparodos 2
 epicortical 3
 enterostomy 4
@@ -9562,7 +9562,7 @@ egocentristic 4
 encephaloma 2
 enchasers 2
 esoethmoiditis 1
-exornation
+exornation 1
 energiser 4
 emplacing 1
 emulator 1
@@ -10446,7 +10446,7 @@ ettling
 euripi
 etiologue
 endocortex
-epitasis
+epitasis 1
 elaterist 4
 execrable
 engrams
@@ -11849,7 +11849,7 @@ extractible
 equiproducing 2
 elecive
 eulogization 1
-eternalization 1
+eternalization 2
 epeirogenesis
 excalceate 1
 emasculatory 1
