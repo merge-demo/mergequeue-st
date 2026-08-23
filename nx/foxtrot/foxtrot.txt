@@ -955,7 +955,7 @@ foresaid 1
 forecourse 1
 firth 3
 foldable 2
-fervid 4
+fervid 5
 formidolous 2
 fishing
 flustering 1
@@ -2881,7 +2881,7 @@ fetwa 3
 foreiron 2
 ferlies 1
 fetterlock 5
-flatfish
+flatfish 1
 forewing 5
 foxship
 frisettes 2
@@ -3286,7 +3286,7 @@ fiddlestick 1
 foolishness 4
 farsight 4
 fivescore 1
-fantasticly
+fantasticly 1
 flounces 4
 fortier 1
 fulgency 2
@@ -3433,7 +3433,7 @@ forestless 4
 flunks
 frontals 2
 feminising 2
-fulmines 1
+fulmines 2
 flectional 2
 forewarmer 1
 furfurans 1
@@ -7815,7 +7815,7 @@ festively 1
 fleshiest
 feedboxes
 feronia 3
-fossilizing 4
+fossilizing 5
 fraternising 2
 fibrilla 1
 fluxed 4
@@ -7884,7 +7884,7 @@ farnesols 1
 floppers 2
 firestorm 3
 floretum 1
-forepurpose 5
+forepurpose 6
 fruitwomen 3
 fibrochondritis 2
 fingan
@@ -8495,7 +8495,7 @@ freethinking 1
 fulminous 3
 fuliginousness 3
 francomania 3
-fuze 2
+fuze 3
 formating
 fittily 3
 fag 2
@@ -8830,7 +8830,7 @@ fjerding 2
 falcopern 1
 fetologist 3
 fliped
-forwelk
+forwelk 1
 foenngreek
 flossification 3
 forthbring 2
@@ -9565,7 +9565,7 @@ faithworthy
 frontways 3
 footling 1
 finiteness 2
-fringier 2
+fringier 3
 finiglacial 2
 fiador 2
 ferritin 2
@@ -10164,7 +10164,7 @@ fe 4
 fulciform
 foreheaded 3
 fissiparously 1
-frittering 3
+frittering 4
 frivolity 1
 frivolities 1
 froughy 3
@@ -11479,7 +11479,7 @@ fin 1
 ferri 1
 foliolose 2
 freelancing 2
-figurational 2
+figurational 3
 fevergum 3
 frowst 1
 fastgoing 2
@@ -11640,7 +11640,7 @@ frizzled 1
 fineness 1
 fructoses 3
 ferren
-flyability 1
+flyability 2
 fustiness 4
 fustoc 3
 fussily 2
