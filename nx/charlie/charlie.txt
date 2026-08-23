@@ -500,7 +500,7 @@ chincough
 caddises 1
 cattalos
 caddishness
-caddisworm
+caddisworm 1
 chupon 1
 cadeau 2
 carcinoscorpius
@@ -619,7 +619,7 @@ cinerarium
 cacotrophy
 councilwomen 2
 caecally
-combwright 1
+combwright 2
 caecilia
 cerebron
 caeciliidae 2
@@ -3374,7 +3374,7 @@ caponizing 1
 caponniere 1
 caporal 1
 caporals
-condyle
+condyle 1
 candlestick
 chapels 2
 catapetalous 1
@@ -9962,7 +9962,7 @@ cajuputs 1
 chequebook 2
 croup 2
 chequer
-chequered 1
+chequered 2
 chequers 1
 creosoted 2
 chalukya 1
@@ -15844,7 +15844,7 @@ coremaker 1
 cleche
 capacitance 3
 clechee
-constants
+constants 1
 contredanses
 cleck
 commune
@@ -21747,7 +21747,7 @@ cyanoethylate 1
 condonable 1
 clayed 1
 croci
-condonance
+condonance 1
 condonation
 condone
 condonement
@@ -22872,7 +22872,7 @@ clamourer
 consertion 1
 chemophysiological 1
 conservacy 1
-conservancy 1
+conservancy 2
 coutelle
 conservant
 conservate 1
@@ -25243,7 +25243,7 @@ corynebacteria
 coreless 1
 coryneform
 corineus 2
-candelabrums 2
+candelabrums 3
 caucussed 1
 corynid 2
 corynine
@@ -26760,7 +26760,7 @@ counterborer 1
 counterboring 1
 curbstones
 counterbrand 1
-confutable 1
+confutable 2
 countercathexis
 counterchanged
 countercharm 2
@@ -28818,7 +28818,7 @@ carcinosarcomas
 cloyed
 casement 1
 concumbency 1
-cress 2
+cress 3
 cleanable
 cassena 1
 countertail
@@ -29297,7 +29297,7 @@ cryptocurrency 1
 cunabula
 clericalist 2
 coagitate
-cryptodeist
+cryptodeist 1
 cryptodynamic
 corcir
 cryptodira
@@ -30758,7 +30758,7 @@ castelet
 cuisines
 crine
 chummy 1
-cuisse
+cuisse 1
 canonical
 composing 1
 cuitlateco
@@ -31904,7 +31904,7 @@ cruppers
 carcased
 cutwater 1
 cutweed 1
-cutwork
+cutwork 1
 cutworm
 claimless
 coldblooded
