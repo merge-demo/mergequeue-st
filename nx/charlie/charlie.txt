@@ -16792,7 +16792,7 @@ clover
 cloverlay
 citizen
 clupeidae 1
-cloverleafs 2
+cloverleafs 3
 cloverleaves
 cloverley
 cycadophyte
@@ -18066,7 +18066,7 @@ capouch 1
 coenesthesia
 coengage 1
 coproduce 2
-cullionry
+cullionry 1
 coengager
 cleidosternal
 caverns
@@ -24141,7 +24141,7 @@ coassignee
 chedites 1
 conformation
 conference 1
-convertiplane
+convertiplane 1
 convertise
 convertism
 convertite 1
@@ -25047,7 +25047,7 @@ cordicole
 cordillera
 carbonizes
 cordilleran
-cordilleras
+cordilleras 1
 cordinar
 cordlessly 2
 crucifyfied
