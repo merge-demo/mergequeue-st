@@ -2820,7 +2820,7 @@ bruta
 beisa
 biquadrate 3
 baroswitch 1
-bld 1
+bld 2
 brakie
 bitis 2
 ballgowns 1
@@ -3649,7 +3649,7 @@ bart 2
 batlet 3
 brittlely
 beclip 1
-batlike
+batlike 1
 bifanged 3
 buyides 2
 befouls
@@ -15346,7 +15346,7 @@ bohawn 2
 bechalk 1
 booth 1
 boarship 3
-bighead 2
+bighead 3
 bluffers 1
 bioelectrogenesis
 berther
