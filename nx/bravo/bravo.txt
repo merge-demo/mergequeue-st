@@ -650,7 +650,7 @@ blaffert 1
 bacteriophagy
 bacteriopsonin 1
 bendable 2
-barfing 1
+barfing 2
 bellwethers 1
 butchering
 boozed 2
@@ -1196,7 +1196,7 @@ bajra 2
 bogeyed 3
 brickset 1
 beltmen 2
-baized
+baized 1
 bajury
 bonnaz 2
 braising
@@ -2230,7 +2230,7 @@ barbellate
 bibbled 1
 bemaddens
 bellicosely 1
-barato
+barato 1
 bibliolatrist
 buxaceae 1
 bontebok
@@ -3489,7 +3489,7 @@ bracket 1
 barbascoes
 barrages
 bagworms 2
-blotlessness
+blotlessness 1
 biennium
 boyla 1
 bootlick 3
@@ -4516,7 +4516,7 @@ becrust
 becrusting 3
 bhakti 1
 bibbs 2
-byrri 3
+byrri 4
 bratina
 bro
 becudgeling 1
@@ -4619,7 +4619,7 @@ brachelytrous
 barbituism 1
 boanerges 1
 bouts 1
-beddingroll 2
+beddingroll 3
 bubble 2
 bogans
 bewilderingly 1
@@ -6956,7 +6956,7 @@ bourgeoned 1
 bromism
 beslap
 bastillion
-bearherd 1
+bearherd 2
 bouchee 1
 breastful 1
 bedsite
@@ -7525,7 +7525,7 @@ bestower 3
 betaine 3
 businessman 1
 befell 1
-bedote
+bedote 1
 breezeless 1
 banes 1
 boehmite
@@ -9089,7 +9089,7 @@ benightmare 3
 belgic
 biopsychological
 breunnerite 1
-brittlewort
+brittlewort 1
 bidented 2
 brown 2
 bandagist 2
@@ -9241,7 +9241,7 @@ bevor
 befouling 2
 baldrics
 built 1
-bipetalous
+bipetalous 1
 bucciniform 3
 badassed
 brended 1
@@ -9797,7 +9797,7 @@ bemixing 2
 biophysicochemical
 backstretches 1
 bystreet
-bistres 2
+bistres 3
 boeotarch 1
 brights 1
 borg 2
@@ -10179,7 +10179,7 @@ basketballs
 blackfellows
 bosker 1
 biochemical 1
-breechcloth 3
+breechcloth 4
 bellatrix
 bas 2
 banak 1
@@ -11767,7 +11767,7 @@ bowstring 1
 bobsleded
 bigeyes
 bacteriopurpurin 1
-barrens 1
+barrens 2
 bucephala
 biology
 beringleted 2
@@ -11927,7 +11927,7 @@ bloodshedder 2
 basinasial 1
 baggily 1
 bogach 1
-becrush 1
+becrush 2
 berth 2
 bushelwoman 3
 bruins 2
@@ -11981,7 +11981,7 @@ bogmire 4
 borine
 baggit 1
 bedwarf 2
-bipack
+bipack 1
 bogong 2
 bruskly
 biod 1
@@ -13863,7 +13863,7 @@ byzantian 1
 burettes 3
 bunyip 1
 besaiel 1
-bottomrying 1
+bottomrying 2
 barleybird 1
 brooch 2
 biduous 3
@@ -15628,7 +15628,7 @@ bushlet 1
 bromacetanilide 1
 barenecked 2
 bristlelike 1
-brigander
+brigander 1
 beingless 4
 borer 4
 babyhoods 1
