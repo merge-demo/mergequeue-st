@@ -4867,7 +4867,7 @@ eveck
 eudemons 2
 extradictable 3
 endamoebas 2
-endamoebidae 3
+endamoebidae 4
 equations
 entoils 2
 endangitis 1
@@ -4972,7 +4972,7 @@ equerry 3
 endings 1
 elapsing
 endozoic 2
-emplace
+emplace 1
 elaeomargaric
 enrolled 1
 econometer 1
