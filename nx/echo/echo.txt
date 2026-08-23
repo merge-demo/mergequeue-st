@@ -366,7 +366,7 @@ equipotentiality
 educ 3
 exoneural 4
 ebionite 1
-ebionitism 1
+ebionitism 2
 existless 2
 exceedingness 1
 equites
@@ -3810,7 +3810,7 @@ escribano 1
 emerge 4
 ecart 5
 escapology
-emerged 4
+emerged 5
 edulcorated 1
 echinostomiasis 2
 emergentness
@@ -5260,7 +5260,7 @@ elegiast 1
 eliminability 1
 extrahepatic 2
 eurybathic
-eucopepoda
+eucopepoda 1
 endogamy 2
 excudate 1
 endoscope 2
@@ -8348,7 +8348,7 @@ epitrachelia 2
 estrum
 exosporium 1
 exceedable 1
-earplug 1
+earplug 2
 equestrial 2
 emcee 2
 exodontics 1
@@ -8705,7 +8705,7 @@ eudaimonism 1
 eguttulate
 eluted 2
 epistolize 6
-euphemisms
+euphemisms 1
 ethysulphuric
 embrowd
 equities 1
@@ -9131,7 +9131,7 @@ ernesse 1
 exumbrella 1
 esrog 1
 ermanrich 3
-endotheca 1
+endotheca 2
 entailer 2
 epizoarian 1
 equiponderancy 2
@@ -12246,7 +12246,7 @@ epilachna 2
 executioneering 2
 enneahedrons 4
 engarb 1
-episynthetic 2
+episynthetic 3
 ensigns
 epiphanizing 1
 elinguate
