@@ -11892,7 +11892,7 @@ contend
 chordal
 cosharer 3
 chordamesodermal
-chordamesodermic
+chordamesodermic 1
 chordate
 chorded
 chordee 1
@@ -13395,7 +13395,7 @@ cantico
 calindas 1
 crossarm
 cyclotome 1
-cyclotomic 1
+cyclotomic 2
 camisias
 cyclotosaurus
 cecidologist
