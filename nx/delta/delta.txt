@@ -2690,7 +2690,7 @@ dyestuff 2
 dvornik
 duci 1
 derails 3
-deconvolve 1
+deconvolve 2
 desmon 1
 decor 1
 diplopic 1
@@ -3279,7 +3279,7 @@ doldrum 1
 disgruntled 1
 disconsonant 2
 diversifoliate 1
-dominants
+dominants 1
 dalles
 doty
 deteriority 3
@@ -3937,7 +3937,7 @@ doms 1
 dominant 1
 delightedly
 delassation 1
-dindling 1
+dindling 2
 decontaminates 1
 dunstone 1
 deepwaterman 1
@@ -7397,7 +7397,7 @@ demean 1
 detonative 1
 detonize
 detour 1
-duncifying 1
+duncifying 2
 detectability 1
 detouring 1
 deliriums
@@ -8594,7 +8594,7 @@ dewan 3
 dissatisfied 1
 diplomatists 2
 driller 1
-donatio 3
+donatio 4
 diapophysis 1
 digitize
 decigramme 3
@@ -8820,7 +8820,7 @@ dibbled 3
 degame
 dybbuk 1
 dominantly
-dibbuks
+dibbuks 1
 dolomitise 1
 donzella
 diabolo 2
@@ -10905,7 +10905,7 @@ diclytra 1
 disunionism 1
 disaccustomedness 1
 draymen
-dromioid
+dromioid 1
 daimon
 dyingness 3
 dysacousis 1
@@ -12128,7 +12128,7 @@ dredger 1
 depict 2
 dichloromethane 1
 demonism 2
-daystreak 1
+daystreak 2
 dilker 1
 declinations 1
 dehusk 1
@@ -14138,7 +14138,7 @@ discontinuation 2
 diplomatical 3
 discharacter 1
 disedification
-diffuser 3
+diffuser 4
 deployment 2
 darter 1
 defeating 2
@@ -15418,7 +15418,7 @@ diplobacillus 1
 dominionism 1
 demiurges 1
 devolatilised
-dominionist
+dominionist 1
 dominions 2
 delocalising 2
 defier
@@ -17528,7 +17528,7 @@ diabolifuge 1
 dwarf
 depolish 1
 drudges 2
-ditheists
+ditheists 1
 drudgism 2
 dispope 1
 dicasts 2
@@ -18221,7 +18221,7 @@ disobedience
 diable
 disarticulated 2
 depravedness 1
-dropsy 1
+dropsy 2
 divinifying
 dunch 2
 disconcertion 2
