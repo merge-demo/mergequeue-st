@@ -246,7 +246,7 @@ actable 1
 antileft 3
 apostate 2
 abraded 1
-acantholysis 2
+acantholysis 3
 adenomata
 abbreviates 2
 achariaceous 2
@@ -12424,7 +12424,7 @@ amblyopic 1
 allumine
 atheroma
 armoniac 1
-amebiasis
+amebiasis 1
 aortolith 1
 absistos 1
 antiecclesiasticism
@@ -17249,7 +17249,7 @@ autopsying 1
 aspersoria
 apophlegm
 albuminiform 1
-apophlegmatic
+apophlegmatic 1
 aurure 1
 akazgin 1
 atop
