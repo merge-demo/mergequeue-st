@@ -4876,7 +4876,7 @@ bandcase 1
 baffing
 beduncing
 bagobo 1
-bratling 1
+bratling 2
 bewrapped 1
 badmouths 1
 bifariously
@@ -8615,7 +8615,7 @@ bivalved 1
 brules
 billies
 billyhood 2
-breislakite 1
+breislakite 2
 bunkery 1
 bucketfuls 1
 benzotetrazole 1
@@ -8849,7 +8849,7 @@ benzol 1
 balsamiferous
 braeface 1
 bristle 2
-binomenclature 2
+binomenclature 3
 budless 1
 binomially
 biz 1
@@ -12314,7 +12314,7 @@ benzyl 1
 bombardman 1
 burrfishes 1
 bootee 2
-bungfull
+bungfull 1
 bacteriophagic 3
 bathycurrent 1
 bullwhacker
@@ -14925,7 +14925,7 @@ belis
 bostonians 1
 breakoff 2
 byssolite 1
-breakout
+breakout 1
 bromocyanide 1
 butyrone
 breakpoint 2
@@ -17290,7 +17290,7 @@ bleachers 1
 bedegar 2
 benzinduline 2
 barbecuer 1
-benedick 1
+benedick 2
 bunts 1
 beatificate
 bottomchrome 1
