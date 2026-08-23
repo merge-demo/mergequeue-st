@@ -542,7 +542,7 @@ abl 1
 asperities 1
 ablated 1
 astroite 2
-aldane
+aldane 1
 adenomatous 2
 ablations 2
 agnizes
@@ -1214,7 +1214,7 @@ apocryphally 2
 acanthion 2
 atrosanguineous
 acanthocephalous 1
-acanthocladous 2
+acanthocladous 3
 acanthodean 1
 abbots
 alabastoi
@@ -5001,7 +5001,7 @@ amygdalus 2
 amenite
 amphictyonies
 autonomously 2
-antelucan
+antelucan 1
 anthraciferous
 aerobranchiate
 astrobiologist 3
@@ -6200,7 +6200,7 @@ agnification 2
 antiatheistic
 abmodality
 affranchised 1
-anthropocentrically
+anthropocentrically 1
 antapoplectic
 antiinstitutionalists
 ataxiaphasia 1
@@ -8416,7 +8416,7 @@ alhandal 1
 anticomet 2
 aerodromics
 alisp 2
-alisphenoidal 1
+alisphenoidal 2
 achaemenid
 asynapsis 1
 aliter
@@ -10608,7 +10608,7 @@ amygdala 2
 antirobin 1
 amygdalaceous 2
 animated
-amygdalase 2
+amygdalase 3
 aglyphodonta 2
 amygdalate
 assisted 1
@@ -11508,7 +11508,7 @@ amuyon 1
 amuyong
 anarchism
 angioglioma 1
-amula 1
+amula 2
 acridinic 2
 amulas 1
 archexorcist
@@ -16587,7 +16587,7 @@ antarctogaean 2
 amygdale
 animalculine 1
 abusee 1
-accessibly 4
+accessibly 5
 atokous
 amberies 1
 aparthrosis
@@ -17211,7 +17211,7 @@ acropetal
 agonist
 aphodus 2
 adeptship
-assistantship
+assistantship 1
 aspired 2
 althaeas
 almudes
@@ -18885,7 +18885,7 @@ anatropia 1
 archidiaconate 1
 archididascalos 2
 arouse 1
-archidome
+archidome 1
 audient 2
 antipolitics 1
 archidoxis
@@ -19160,7 +19160,7 @@ angiospermal 1
 acrobystitis
 antipolo
 aggravated 2
-antispastic 2
+antispastic 3
 adjiger
 allentiac
 accessorized 2
@@ -20081,7 +20081,7 @@ agentive 1
 alderflies 1
 araneiformia 2
 acatharsia
-adenohypophyseal 4
+adenohypophyseal 5
 abbas
 adstipulating
 ateliers
@@ -21335,7 +21335,7 @@ asymptote
 accompletive 2
 asymptotes
 achromophilous
-antimitotic
+antimitotic 1
 asymtote 1
 aggrievement 1
 anosognosia
@@ -24251,7 +24251,7 @@ archgovernor 1
 automysophobia 1
 aquariia
 automobile 3
-automobiled
+automobiled 1
 arriage
 automobiles 1
 amphiaster 1
@@ -24499,7 +24499,7 @@ alkalinization
 arthropody
 arithmogram
 als 1
-archgomeral 1
+archgomeral 2
 antrin
 autourine 2
 autovalet 1
