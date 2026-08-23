@@ -2453,7 +2453,7 @@ anatomicophysiological
 aggrate 2
 acinus 3
 anus
-actinozoon 1
+actinozoon 2
 aedes
 academicianship
 acipenserine
@@ -4142,7 +4142,7 @@ asmalte
 affinal
 anglification 2
 admonishments 1
-appressor 1
+appressor 2
 agrief 1
 antihypertensives
 antilyssic
@@ -11019,7 +11019,7 @@ apinoid 1
 ampelitic
 amok
 amoke
-azure
+azure 1
 aralia 1
 antidepressive 1
 arianism
@@ -11424,7 +11424,7 @@ adempt
 arcuses
 ampler
 amplexicaul 1
-amphictyonic
+amphictyonic 1
 anomiacea 1
 alchemising 1
 artels
@@ -13882,7 +13882,7 @@ angstrom 2
 achariaceae
 acyloin
 anoscopy
-adytum
+adytum 1
 anospinal 1
 anotherguess 2
 anotherkins 1
@@ -17149,7 +17149,7 @@ anastasimos
 amnigenia
 apokrea 2
 authenticly
-androecia 2
+androecia 3
 apolar
 amphidiploid 1
 averin 1
@@ -18838,7 +18838,7 @@ aroma 2
 archflamen 3
 archfoe 1
 ancestresses 1
-aedoeagus
+aedoeagus 1
 angloid 2
 acervose 2
 ancientism 1
@@ -20056,7 +20056,7 @@ afterknowledge 1
 alleles 3
 alleviating
 autogamy 1
-aromatous 2
+aromatous 3
 aroon 1
 autoplasty
 aroph 1
@@ -21111,7 +21111,7 @@ ascothoracica 1
 acritude
 adynamia 1
 aerographer 2
-ascribable
+ascribable 1
 ahum 1
 agrobiologically
 antidogmatical 1
@@ -21600,7 +21600,7 @@ anthesterion
 arthrosia
 adjudgment
 automolite
-allegement
+allegement 1
 antiphonaries 1
 angary 1
 allegorist 2
@@ -22561,7 +22561,7 @@ atechnical 1
 atef 2
 ateles
 antidromy 1
-abiston 2
+abiston 3
 adonean 2
 annexe 1
 atelestite 1
@@ -22607,7 +22607,7 @@ archhouse
 athabasca
 acetylcholine
 athamantid
-adonite 2
+adonite 3
 acontium
 aliased 2
 acuate
@@ -23333,7 +23333,7 @@ atune 1
 apteria
 anthelmintic 1
 abirritated
-attacolite 1
+attacolite 2
 albuminocholia
 atween
 atwist
@@ -23850,7 +23850,7 @@ atlantoaxial 2
 amidols
 abnormalize
 autarch
-ataraxy 3
+ataraxy 4
 atalantis 1
 amices 2
 autoerotic
