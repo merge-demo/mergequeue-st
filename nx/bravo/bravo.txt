@@ -1340,7 +1340,7 @@ bermudian
 bernoullian 1
 bingy
 burelage 1
-bellower 1
+bellower 2
 bedways 1
 bluecap 1
 bunks
@@ -4299,7 +4299,7 @@ bigeminy 2
 backcourtman 2
 bebrother 1
 blouselike 1
-bebrush 2
+bebrush 3
 bebuttoned 1
 below 1
 barkeepers 4
@@ -6844,7 +6844,7 @@ blibe 1
 bruchid 1
 benignity 1
 blackmailed
-bacteriotoxic
+bacteriotoxic 1
 benkulen
 bigener
 buicks 1
@@ -8198,7 +8198,7 @@ bigfoot 1
 byronically 1
 beatable 2
 boone 1
-battailous
+battailous 1
 bestream 1
 beudanite 1
 bluebuck 2
@@ -8529,7 +8529,7 @@ birch 2
 butyryl 1
 bisections 3
 biliteral
-baywood 3
+baywood 4
 brownistical 2
 blondish
 belle 1
@@ -10413,7 +10413,7 @@ biosynthesis 3
 bravado 1
 bragged
 buonamano
-botong 1
+botong 2
 blanketlike 1
 brimborion 1
 blankets 3
@@ -11556,7 +11556,7 @@ biosystematist 2
 brownshirt 2
 birdwomen 2
 brachymetropia 1
-blurbs 3
+blurbs 4
 bestows 2
 bocedization 1
 blup 1
@@ -12026,7 +12026,7 @@ boyard
 boyardism 1
 bartholomean 1
 brawling
-boyau 2
+boyau 3
 bilinigrin 1
 boyaux 2
 bronchostomies 2
@@ -12761,7 +12761,7 @@ burdalone 1
 bucorvinae 1
 bidree 2
 becloaked
-bioelectric 2
+bioelectric 3
 bullneck 1
 bitstocks
 biparous
@@ -14491,7 +14491,7 @@ bathyspheres 1
 boyards 1
 bagh 3
 babying 1
-bioenergetics
+bioenergetics 1
 bicyclo 1
 brakeload
 bemotto 1
@@ -15024,7 +15024,7 @@ brecham 2
 barnacling 4
 bondelswarts
 brechams
-brechans
+brechans 1
 bullfeast 2
 blepharorrhaphy 1
 billowier 2
@@ -16320,7 +16320,7 @@ brucellosis 1
 barely
 biolytic 3
 brucia
-brucin 1
+brucin 2
 brucine
 brucines 3
 bleachman 3
