@@ -2221,7 +2221,7 @@ fluorinates 1
 fertilise 2
 foals 2
 feminineness 1
-freshmanhood
+freshmanhood 1
 fikie 1
 fiscus 1
 firebombs 3
@@ -6189,7 +6189,7 @@ frothier
 fluavile 2
 flubbed 1
 feudum 2
-foreread 2
+foreread 3
 fairgoing 2
 fondest 1
 flaxes 2
@@ -7026,7 +7026,7 @@ freespace 1
 floodwood
 fondus 3
 frolicsomeness 2
-feases 2
+feases 3
 fermentum 3
 forebodings 5
 footgrip
@@ -9653,7 +9653,7 @@ fragmentitious 3
 forcipated 2
 faineantism 1
 fanfishes
-fleabugs 1
+fleabugs 2
 faon 1
 fabula 3
 firing 1
@@ -11542,7 +11542,7 @@ frena 3
 foxfeet 2
 fuselages
 fuselike
-fermentations
+fermentations 1
 faradiser
 fathomlessly 2
 fetishism 3
