@@ -9636,7 +9636,7 @@ fraternality 3
 fivestones 2
 ferrotyper 3
 floriken 3
-forhooy 1
+forhooy 2
 fothering 1
 forehold 1
 flagellant 1
@@ -10135,7 +10135,7 @@ functions 4
 fishpound
 fritz 1
 furnisher
-foozling 3
+foozling 4
 fremontia 2
 felts 2
 fenian 1
