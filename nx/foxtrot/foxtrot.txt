@@ -985,7 +985,7 @@ forehook 1
 foglietto 1
 fascicles 2
 flexuose
-flatlong
+flatlong 1
 fren 1
 fumosity 1
 fretful
@@ -5442,7 +5442,7 @@ fiendliness 2
 fashion 4
 frolickly 1
 forseek 3
-fitchery 2
+fitchery 3
 fusobteria 5
 femur 1
 filterable 2
@@ -8574,7 +8574,7 @@ forinsec 2
 fream
 fraxetin 3
 futuristically 2
-foreseeing 1
+foreseeing 2
 foremisgiving 1
 fard 3
 fulgid 1
