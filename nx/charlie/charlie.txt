@@ -1302,7 +1302,7 @@ calfkill
 calfless 1
 cerigerous
 copyism
-calflike
+calflike 1
 calfling 1
 calfskin
 creatural 1
@@ -5257,7 +5257,7 @@ customs
 cultist
 custodiam 1
 crwth 1
-champacs
+champacs 1
 cassan 2
 cyans
 chefdom 1
@@ -5765,7 +5765,7 @@ catchphrase
 cocona 1
 cynoscion
 commation 2
-catchpoll 1
+catchpoll 2
 catchpolling 1
 copperheads 1
 contribute 1
@@ -6135,7 +6135,7 @@ calcitreation
 currane
 cineraria
 countershafting
-coassisting
+coassisting 1
 catsups
 childhood
 compositively
@@ -7083,7 +7083,7 @@ copita 2
 curvidentate 1
 caffa
 colitoxemia
-centiday
+centiday 1
 cannikin 1
 copt
 confluences 1
@@ -9095,7 +9095,7 @@ charruas
 cloamer 1
 charshaf
 charsingha 1
-container
+container 1
 charta 2
 chartable
 charter
@@ -10178,7 +10178,7 @@ captivity
 chmn
 coggie
 chomping 1
-collectioner
+collectioner 1
 cytopathologic
 chafewax 1
 complaining 1
@@ -10223,7 +10223,7 @@ combretaceae
 counterformula
 clockings
 chiasmic
-cleruchic
+cleruchic 1
 chiasms
 chiasmus 1
 coeline 2
@@ -20434,7 +20434,7 @@ curstfully
 conjurison 1
 compadres 2
 compage 2
-compagnies
+compagnies 1
 coprophagan
 cresols 1
 condonative 1
@@ -22743,7 +22743,7 @@ coalized 1
 carbonylated 3
 cystadenosarcoma
 cannibalistic
-conquers
+conquers 1
 calamitousness 1
 conquisition 2
 chelodine 1
@@ -28063,7 +28063,7 @@ cramp
 cramped
 colonalgia
 cloriodid 1
-conversions 1
+conversions 2
 crampette
 constituter
 cramping
@@ -28631,7 +28631,7 @@ condisciple 1
 chally
 catechus
 cremationism 2
-coliseums 2
+coliseums 3
 caulerpaceae 1
 chylaqueous 1
 changa 1
