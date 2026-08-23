@@ -802,7 +802,7 @@ bicetyl 1
 beeline
 bibliotherapy
 bethorn 1
-blackout 1
+blackout 2
 basilidan 2
 building 3
 baedekerian 3
@@ -1885,7 +1885,7 @@ befogging
 barkinji 1
 bandfile 2
 burdon 2
-brownism
+brownism 1
 blobbiness
 bipolarization 2
 brython 1
@@ -5825,7 +5825,7 @@ billowiness
 bracozzo 1
 bellyaching 1
 bizarrely 1
-baramin 1
+baramin 2
 bostryx 2
 benevolences
 bemata
@@ -14662,7 +14662,7 @@ butine
 basiparaplastin 2
 brachiopodous 1
 bunty 2
-buffware
+buffware 1
 brute
 brassed
 brasenia 1
