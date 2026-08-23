@@ -408,7 +408,7 @@ glucogenesis 4
 galbula 1
 gelding 2
 glidewort
-grissens
+grissens 1
 galaxes 2
 gispin 1
 gastroenteralgia
@@ -4299,7 +4299,7 @@ gastrocoloptosis 2
 gozill 1
 gemstone
 galaxies
-gliriformia 5
+gliriformia 6
 gravestead 1
 glossata 2
 globules 4
