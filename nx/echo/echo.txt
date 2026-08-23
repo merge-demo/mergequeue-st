@@ -4869,7 +4869,7 @@ extradictable 3
 endamoebas 2
 endamoebidae 3
 equations
-entoils 1
+entoils 2
 endangitis 1
 expertised 2
 endarteteria 3
@@ -7848,7 +7848,7 @@ emancipist 1
 epispinal 1
 enchantresses
 elephancy 1
-extortionateness 2
+extortionateness 3
 ecotones 1
 earthenhearted 2
 ejectum 1
@@ -8229,7 +8229,7 @@ epacrid 3
 enlaurel
 epitheliomatous 3
 epitaphian
-ejection 2
+ejection 3
 expensively 2
 ectoplasmic 1
 ellagate
@@ -10681,7 +10681,7 @@ easeless 1
 echolocation 1
 enarbor 1
 excrements 1
-ecrasite 3
+ecrasite 4
 entwine
 excitory 1
 endocytosis 2
@@ -11150,7 +11150,7 @@ eutrophication 2
 externalised 4
 expiating 1
 eutropous 2
-evocation
+evocation 1
 entanglingly 3
 entry 2
 enjambments 1
@@ -13887,7 +13887,7 @@ endotropic
 eelpot 1
 equivocation 2
 evaporize
-ethionic 3
+ethionic 4
 ellasar
 extractability 1
 echinoderidae
