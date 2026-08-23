@@ -678,7 +678,7 @@ florisugent 1
 forzandos 2
 fobs 1
 familism 2
-firebolted
+firebolted 1
 farmstead 3
 forenotion 1
 ferromagnetic
@@ -1863,7 +1863,7 @@ fringefoot 2
 funiliform 2
 fielden 1
 fiances 2
-flabellation 2
+flabellation 3
 frutify 1
 fatuously 3
 fight 2
@@ -3495,7 +3495,7 @@ fended
 federary 1
 figurable 3
 fixture 2
-forebowels 3
+forebowels 4
 foredetermination 2
 flusk 1
 formulism 1
@@ -3840,7 +3840,7 @@ furthermore 1
 fract
 formicary 1
 fiberscope 1
-filiopietistic 2
+filiopietistic 3
 fungistat 5
 flavanthrene
 feretory 4
@@ -4302,7 +4302,7 @@ florescence
 forequarters 1
 fluyt 3
 factive
-fet 3
+fet 4
 fusee 4
 ferd 1
 flamethrower
@@ -4884,7 +4884,7 @@ funks 1
 foldedly 3
 fibrinate 5
 fellage 1
-forbears 1
+forbears 2
 freedmen 1
 fantasms
 forwent 2
@@ -5514,7 +5514,7 @@ formatters 2
 fiddlies
 faroelite 2
 fleshliness 1
-faceteness 4
+faceteness 5
 fw 1
 flacker
 feetless 3
@@ -5613,7 +5613,7 @@ forefeel 2
 fossilation
 formulary
 fuming 3
-flyer 4
+flyer 5
 forfar
 fucuses 3
 federal 2
@@ -5650,7 +5650,7 @@ favouritism 3
 flimsier 1
 fishbolt 1
 fondues 3
-fellowshiped
+fellowshiped 1
 fascism
 forums 2
 fortis 1
@@ -5790,7 +5790,7 @@ fluorocarbon 2
 faunated 4
 foreheads
 fulgurant
-fribble
+fribble 1
 family
 fevertwig 3
 flambee 1
@@ -5950,7 +5950,7 @@ foolhardily 1
 falseface 3
 freer 1
 fraudlessness 3
-freehand 1
+freehand 2
 feretories 1
 forthinking 1
 furzes 1
@@ -6948,7 +6948,7 @@ firepink 2
 feyer 3
 fluidifying
 fruitfully 3
-floriated 1
+floriated 2
 fractionization 1
 folliculitis
 frt 3
@@ -7058,7 +7058,7 @@ frasco 4
 fimbriae 2
 functioning 3
 foodful 2
-forniciform 2
+forniciform 3
 functionals 1
 fribby 2
 fatalities 2
@@ -8185,7 +8185,7 @@ fossilology 2
 foretrace 2
 forecastleman 1
 fountful 2
-frequentable
+frequentable 1
 forwake
 foreuse 2
 fillercap
@@ -9600,7 +9600,7 @@ foliated 1
 fyrd 3
 felicitate
 floreated 1
-forgone 2
+forgone 3
 foller
 frederik 2
 futilitarian
@@ -10825,7 +10825,7 @@ fuchsian
 fort 1
 fructificative 1
 floundered 2
-fuchsine 3
+fuchsine 4
 flustra 2
 facet 2
 foveation 1
@@ -11304,7 +11304,7 @@ fiscalize 1
 flurrying 2
 farcing 3
 fourfold 1
-folletti 1
+folletti 2
 falun 2
 fully 2
 formularized 1
