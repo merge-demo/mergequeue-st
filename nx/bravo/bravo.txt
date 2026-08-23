@@ -4774,7 +4774,7 @@ boltwork 1
 bedraping 1
 bedread 1
 bedrench 2
-baldling 1
+baldling 2
 batad 1
 blast 1
 bed
@@ -13629,7 +13629,7 @@ bounceback 1
 blowsy 2
 bouncier
 batteried 2
-barra 3
+barra 4
 begladding 4
 binning 1
 beclouded 1
