@@ -2615,7 +2615,7 @@ exempla 2
 electrophrenic 2
 electroplater 1
 engraved 1
-electropower 2
+electropower 3
 embodying 3
 excitably
 euphemiously
@@ -2791,7 +2791,7 @@ entreprenant 1
 engarble
 ethylene 1
 egyptological
-excalate 2
+excalate 3
 ensnarling 4
 elenchic 2
 elves 4
@@ -4364,7 +4364,7 @@ experiential 2
 empressement
 encadre
 ender
-emphasised
+emphasised 1
 electrobioscopy 4
 endoparasite 1
 environmentally 1
@@ -4869,7 +4869,7 @@ extradictable 3
 endamoebas 2
 endamoebidae 3
 equations
-entoils 1
+entoils 2
 endangitis 1
 expertised 2
 endarteteria 3
@@ -5346,7 +5346,7 @@ eiders 1
 evocatory 2
 endotheliomas 2
 excercise 1
-explicators 1
+explicators 2
 esquiline 6
 eophyte 2
 encashment 1
@@ -6022,7 +6022,7 @@ epiglottises 2
 eparchy 3
 enkindles 1
 edginess 3
-entrepreneuses
+entrepreneuses 1
 epistolical
 epistles 1
 edgemaker 1
@@ -6484,7 +6484,7 @@ eaglet 2
 embarrassedly 3
 egipto
 evomit 2
-ensmall 1
+ensmall 2
 encephalorrhagia 1
 eleventhly 1
 erythrocytometer 1
@@ -7848,7 +7848,7 @@ emancipist 1
 epispinal 1
 enchantresses
 elephancy 1
-extortionateness 2
+extortionateness 3
 ecotones 1
 earthenhearted 2
 ejectum 1
@@ -8229,7 +8229,7 @@ epacrid 3
 enlaurel
 epitheliomatous 3
 epitaphian
-ejection 2
+ejection 3
 expensively 2
 ectoplasmic 1
 ellagate
@@ -9049,7 +9049,7 @@ electrotherapeutics
 entergogenic
 extrality
 extravascular 1
-epenthesis 3
+epenthesis 4
 editorialist 3
 erythrocytosis 7
 embryogony 3
@@ -9171,7 +9171,7 @@ enterprising 3
 engines
 enfork 2
 enchodus 1
-elates 1
+elates 2
 embryophyte 1
 electrographite
 empiricism 3
@@ -10280,7 +10280,7 @@ extension 2
 ethmofrontal 1
 esquamate
 empemata
-enteromycosis 2
+enteromycosis 3
 escorial 1
 emulsifiability 1
 ethylamine 1
@@ -10681,7 +10681,7 @@ easeless 1
 echolocation 1
 enarbor 1
 excrements 1
-ecrasite 3
+ecrasite 4
 entwine
 excitory 1
 endocytosis 2
@@ -10810,7 +10810,7 @@ encumber 2
 embruing 1
 engrafts 3
 embracer 1
-eucrystalline 2
+eucrystalline 3
 elastance 2
 eurodollar
 essart 2
@@ -11150,7 +11150,7 @@ eutrophication 2
 externalised 4
 expiating 1
 eutropous 2
-evocation
+evocation 1
 entanglingly 3
 entry 2
 enjambments 1
@@ -11666,7 +11666,7 @@ epiphanized 3
 epitaphical 1
 exacting 3
 electroirrigation
-eruca 1
+eruca 2
 electivity 3
 equippers 1
 eliminations 2
@@ -12530,7 +12530,7 @@ emittance
 expertize 2
 exine 1
 electicism
-everyway
+everyway 1
 exinguinal
 effare
 erythrean
@@ -13887,7 +13887,7 @@ endotropic
 eelpot 1
 equivocation 2
 evaporize
-ethionic 3
+ethionic 4
 ellasar
 extractability 1
 echinoderidae
