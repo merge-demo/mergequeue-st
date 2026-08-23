@@ -17855,7 +17855,7 @@ bus 2
 busaos 1
 bine 1
 busbar
-brizz
+brizz 1
 busbars
 barotse
 bibliopegic 2
