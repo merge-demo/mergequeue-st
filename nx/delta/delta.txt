@@ -2027,7 +2027,7 @@ decagonally 1
 detenus
 daimen
 depleteable 1
-duplicitas 1
+duplicitas 2
 dichloramin 1
 decagram 1
 dourness 1
@@ -7654,7 +7654,7 @@ diffusional 3
 develops 1
 devels 1
 devenustate
-disjeune
+disjeune 1
 devexity
 downy 1
 dobzhansky
