@@ -793,7 +793,7 @@ bygoing 3
 banket 4
 badmouthed 3
 burled 1
-bullfrog
+bullfrog 1
 boltheads 1
 badnesses 2
 bradylogia 1
@@ -3232,7 +3232,7 @@ bedights 1
 bathtub 2
 blatters
 barkpeel 2
-basigynium 2
+basigynium 3
 basilarchia
 beware 1
 blotchily 2
@@ -4234,7 +4234,7 @@ beausire
 batetela 2
 bilharziasis 2
 beauteous 2
-beachmen
+beachmen 1
 beauti 1
 beauty 1
 brachyphalangia
@@ -4580,7 +4580,7 @@ backjaw
 bedarkening
 bedaub 3
 ballplayer 2
-barks 1
+barks 2
 besuit 1
 bundeli 1
 borborus 1
@@ -10092,7 +10092,7 @@ bkt 1
 bibliogony 1
 beflum
 baboosh
-blaasop
+blaasop 1
 blockaded 4
 bedawee
 bodrag
@@ -10995,7 +10995,7 @@ bowsaw 1
 blameworthy
 bradytelic 2
 blithest 1
-bratchet 1
+bratchet 2
 blitz 1
 bal
 bleeder 4
@@ -11407,7 +11407,7 @@ bitterworm 1
 babi 3
 build 1
 beside 1
-bibbed
+bibbed 1
 bibio 1
 bluecoated
 becquerelite
@@ -12189,7 +12189,7 @@ benzodiazine
 bridgeboard 4
 bijugular 2
 bolide 2
-bolivar 2
+bolivar 3
 befamine
 brose 2
 bradyphemia
@@ -13194,7 +13194,7 @@ bumper 1
 borzoi
 brachiopod
 bastardised 1
-boschneger
+boschneger 1
 boneen
 brigue
 bisext 2
@@ -15047,7 +15047,7 @@ bemusedly
 bode 1
 brimfull
 basenji 2
-barelegged 4
+barelegged 5
 breechcloths 1
 biosatellite 2
 benzdiazine 3
