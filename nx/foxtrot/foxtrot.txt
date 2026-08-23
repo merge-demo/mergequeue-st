@@ -6834,7 +6834,7 @@ fasces
 forswearer 1
 fructifier 2
 foliaged
-firetower 1
+firetower 2
 fustigator 1
 flipjack 3
 fourhanded 1
@@ -7502,7 +7502,7 @@ fluellin 1
 fillip 2
 fogou 2
 freenesses 3
-foreassurance 2
+foreassurance 3
 forecabin 1
 feedingstuff
 familiarity 5
