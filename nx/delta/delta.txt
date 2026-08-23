@@ -8303,7 +8303,7 @@ drawpoint 1
 dialcohol 1
 dialect 1
 doomsman 2
-decolourized
+decolourized 1
 demoded
 disequalize 2
 diplogenetic
