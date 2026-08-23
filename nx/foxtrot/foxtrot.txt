@@ -1432,7 +1432,7 @@ fairtime 1
 fantasie 1
 fractureproof
 filago 2
-fireside 3
+fireside 4
 faubourgs 5
 focussing 1
 fistulose 1
@@ -2292,7 +2292,7 @@ fashionless 2
 foambow 1
 filicales 3
 formulable 4
-flotation 1
+flotation 2
 foreface 2
 fistulizing
 fenestrae 1
@@ -2531,7 +2531,7 @@ ferrelling 1
 fluorine 5
 footropes 1
 fiatconfirmatio 2
-fanam
+fanam 1
 feeler 1
 frugivorous 2
 foal 3
@@ -3763,7 +3763,7 @@ fibrocystic 3
 futilous
 foreflipper 2
 filmet 2
-filmgoers
+filmgoers 1
 filmic 2
 fenagle 3
 firstlings 3
@@ -9822,7 +9822,7 @@ faerie
 foresettled 1
 flyspeck 1
 fastiia 4
-fascists
+fascists 1
 fencers 1
 frescoed 2
 fresheners 1
@@ -11409,7 +11409,7 @@ flams 2
 functionlessness
 floors 1
 frosk
-feater 2
+feater 3
 fringe 2
 forksmith
 forestership 1
