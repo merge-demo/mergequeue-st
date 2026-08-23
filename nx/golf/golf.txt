@@ -650,7 +650,7 @@ gallantries 3
 grindstones
 goodheartedly 1
 gilour
-glaciered 2
+glaciered 3
 gastrojejunostomy
 galgulidae 4
 gravelish
@@ -5867,7 +5867,7 @@ gadder 2
 guadalcazarite
 goldfinch 1
 gawney 2
-gipsyweed 2
+gipsyweed 3
 gospodin 3
 glucoses 1
 glances 1
@@ -6331,7 +6331,7 @@ gradating 2
 goethian 1
 gam 2
 groceries 2
-geotropism 2
+geotropism 3
 goety 2
 gummage 2
 gymnolaemata
@@ -9112,7 +9112,7 @@ governableness 1
 grumose 2
 guttation 1
 guillemet 4
-grindable
+grindable 1
 gibbose 1
 galagos 2
 grissel 1
@@ -9478,7 +9478,7 @@ gabled 2
 glandulosity 2
 genitalial 1
 glycose 2
-glossy 1
+glossy 2
 ganser 1
 gramophonic 1
 gleeishly 3
@@ -10788,7 +10788,7 @@ ghole 3
 genialness 3
 gonadectomy 3
 gresil 1
-gandered 1
+gandered 2
 gignitive 1
 gamesomely 2
 guttated 2
