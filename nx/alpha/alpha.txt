@@ -13790,7 +13790,7 @@ antiabrasion 1
 aeolian
 anonymity 2
 anonymously
-aminoacidemia 1
+aminoacidemia 2
 anoopsia 1
 anopheles
 apoblast 2
@@ -15217,7 +15217,7 @@ antisynod 2
 alunogen 1
 antifederalism
 assentient 2
-antifelony 2
+antifelony 3
 antarctalian
 antiferromagnetism 1
 antifertility 1
@@ -16337,7 +16337,7 @@ asonia
 arculite
 afros
 adfroze 1
-absonant
+absonant 1
 antitruster
 antituberculosis 2
 artophoria 1
@@ -22704,7 +22704,7 @@ acronymous 1
 ampyces
 awide 1
 aids 1
-anathema
+anathema 1
 athyrid
 archegoniophore
 airings 1
@@ -23846,7 +23846,7 @@ autacoidal
 azan 2
 autaesthesy
 adjudicature 2
-atlantoaxial 1
+atlantoaxial 2
 amidols
 abnormalize
 autarch

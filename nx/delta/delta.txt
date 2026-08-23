@@ -3358,7 +3358,7 @@ dullery
 despecialize 2
 definitor 1
 desulphurized
-dogmouth 2
+dogmouth 3
 dentils 1
 doles
 deturn 2
@@ -3495,7 +3495,7 @@ distomum 2
 demographical
 deformable 3
 darkey
-deformation
+deformation 1
 dreadfuls 1
 deflections 1
 delete 2
@@ -6352,7 +6352,7 @@ dosinia 3
 destoolment 3
 dustmen 1
 diplotene
-disassociation 1
+disassociation 2
 dorsiventral 1
 distortedness
 derodidymus 2
