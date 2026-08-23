@@ -17452,7 +17452,7 @@ causeries
 cobble 2
 capax
 commixes 1
-cobblerism
+cobblerism 1
 cobblers
 cobblership 1
 cobbles
@@ -24992,7 +24992,7 @@ curacies 1
 corbina
 condurango
 colloped
-centralists 1
+centralists 2
 corblimy
 corbovinum
 chymosin
@@ -26642,7 +26642,7 @@ coked
 councils
 cozener 1
 counite 3
-counsel
+counsel 1
 counterpanes
 counselable
 coronobasilar
@@ -28287,7 +28287,7 @@ crateman
 clitic
 cratemen 1
 criss
-crossbreed
+crossbreed 1
 counterintelligence 2
 crater
 cachet
