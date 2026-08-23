@@ -11094,7 +11094,7 @@ arecaceae
 araneid 3
 acclinate 1
 anoesis
-autoput
+autoput 1
 aunter 2
 antireligion 1
 alacreatinin 1
@@ -12853,7 +12853,7 @@ androgyn 1
 asseize
 appositional 2
 angiopressure 1
-angiorrhaphy 1
+angiorrhaphy 2
 absurdist 2
 angiorrhea 2
 armorwise
@@ -16844,7 +16844,7 @@ affrontedly
 apogamous
 alterman
 administrators 2
-allodialist 1
+allodialist 2
 apositic
 almeriite
 agname
@@ -20776,7 +20776,7 @@ artistic
 aftercourse 1
 agynarious 3
 aeroplankton
-apogamically
+apogamically 1
 antitoxins 1
 acerbating
 adhibition
