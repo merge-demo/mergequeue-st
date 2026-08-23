@@ -6259,7 +6259,7 @@ alchemise 2
 adjutantship 2
 aegerian 2
 agonic
-agonise
+agonise 1
 agonistarch
 ackee
 agonistics
@@ -7545,7 +7545,7 @@ albuminiparous 2
 acromial 1
 agnomina
 antrotympanitis 2
-aphagias 1
+aphagias 2
 aldebaran 1
 anfracture 2
 alnitham 1
@@ -13903,7 +13903,7 @@ anovulatory 2
 anoxemias
 ashrams
 allophane 2
-appellate
+appellate 1
 araphostic
 androgenetic 1
 abdomina
@@ -21158,7 +21158,7 @@ associator
 alternately 2
 asellate
 andabata
-apostates 1
+apostates 2
 anthracitiferous 2
 agnathic
 autospore 2
