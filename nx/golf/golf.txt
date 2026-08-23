@@ -304,7 +304,7 @@ gesseron 4
 grandstand
 greed 2
 galjoen 1
-gaudful
+gaudful 1
 gourami 3
 gadolinium 1
 grognard 1
@@ -658,7 +658,7 @@ gangboard 3
 gamely 2
 gallows 3
 gonitis 4
-giddify 1
+giddify 2
 geoaesthesia
 gravitic 2
 gript 2
@@ -1523,7 +1523,7 @@ grandiloquence 1
 gearless 2
 granddaughters 3
 graecomania 3
-gazump 2
+gazump 3
 grimgribber 2
 gastrologist 3
 goatpox 4
@@ -4473,7 +4473,7 @@ gamb 3
 grapey
 gomutis
 gambrel 2
-gills 5
+gills 6
 graminiform
 gerbille 3
 gigantomachia 4
@@ -5398,7 +5398,7 @@ gambist 1
 girlhood 2
 guerdoned 3
 gus 1
-glossoepiglottidean 3
+glossoepiglottidean 4
 germanly
 greenness 2
 glauconiidae 1
@@ -5469,7 +5469,7 @@ glimmery
 gigeria 2
 glisteringly 1
 gorblimy 3
-grubble 2
+grubble 3
 gerridae
 goldish 1
 garnishment 4
@@ -6681,7 +6681,7 @@ gewgawed 4
 growse 2
 grittle 2
 gardenize 4
-goosey 1
+goosey 2
 goup 1
 galvayning 2
 geropiga 3
@@ -8625,7 +8625,7 @@ greenflies 3
 gamasidae 2
 gossameriness 2
 gametically
-genealogical 1
+genealogical 2
 gibbeting 3
 gaudeamuses 2
 geothermometer
@@ -9439,7 +9439,7 @@ gemmate 3
 gymnodontes 3
 gluttingly 4
 geonic 1
-gotchy 2
+gotchy 3
 greekery 4
 grounden
 greens 4
@@ -9583,7 +9583,7 @@ grovellingly 3
 geishas 3
 gneissoid 1
 grovellings 2
-growan 3
+growan 4
 gogmagog 1
 gravelike 1
 gobbed
@@ -10863,7 +10863,7 @@ growlers 3
 girds 4
 geomagnetician 2
 gush 1
-gyri 1
+gyri 2
 gastropancreatitis 1
 graduation 1
 guaranteer 3
