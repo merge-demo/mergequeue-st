@@ -1172,7 +1172,7 @@ bridgeway 1
 bigbloom 2
 bedsteads 3
 ballasting 1
-balladized 3
+balladized 4
 baiza
 bespin 1
 beseech
@@ -1350,7 +1350,7 @@ bobbles 1
 bethlehem
 bede
 bookdealer 2
-bioplastic 3
+bioplastic 4
 barrowcoat 2
 brod
 botrylle 1
@@ -3020,7 +3020,7 @@ baggywrinkle 1
 boogyman
 barter
 blechnoid 1
-brilliancy 2
+brilliancy 3
 blood 2
 bullace 1
 bartholomewtide 1
@@ -4508,7 +4508,7 @@ bacchanalias 3
 bumptiously 1
 brokes 3
 buffering 2
-buhrstone 4
+buhrstone 5
 borocalcite 2
 bathala
 brutifies 2
@@ -5090,7 +5090,7 @@ braised 2
 brooked 1
 berberia
 bespotted
-beneficiary 1
+beneficiary 2
 befitted
 beyship 3
 befittingly 1
@@ -5447,7 +5447,7 @@ boldo
 boatable 1
 becudgelling 2
 beetling 1
-behemoths 1
+behemoths 2
 behenate 5
 behenic
 bemixed 1
@@ -9283,7 +9283,7 @@ byplay 4
 brownie
 broncholithiasis 1
 baffle
-bewearied 1
+bewearied 2
 bescouring
 beshrewing 1
 blockader 2
@@ -9693,7 +9693,7 @@ bisk 2
 bisks 2
 bysmalith
 bismark 1
-boulder 2
+boulder 3
 bladed
 besmiles
 boisseau
@@ -17656,7 +17656,7 @@ blowier
 barrelfish 1
 bellipotent 2
 byte 1
-burked 1
+burked 2
 bonnetman 1
 belletrists
 bonier 1

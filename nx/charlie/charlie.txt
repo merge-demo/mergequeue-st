@@ -3558,7 +3558,7 @@ captate
 colation
 captation 3
 caption
-captioned
+captioned 1
 convenably
 captioning
 captiousness
@@ -3793,7 +3793,7 @@ cheerios
 civilist 1
 carbazole
 carbeen 1
-cantorian
+cantorian 1
 carbide
 classicize 3
 carbyl
@@ -4867,7 +4867,7 @@ carriageful
 clachans
 carriages 1
 crosstie 2
-carriagesmith
+carriagesmith 1
 cinchonicin
 carriageway 3
 carryall
@@ -5692,7 +5692,7 @@ charlie
 catarrhous
 catarrhs 3
 coburgher
-catasarka 1
+catasarka 2
 catasetum 1
 ching
 communionist 3
@@ -7738,7 +7738,7 @@ certificatory 3
 certifier 2
 certifiers
 chronique 2
-convect
+convect 1
 cystein
 coelialgia 1
 certifies
@@ -9419,7 +9419,7 @@ chitinogenous
 calycozoic
 celeusma
 celiohysterotomy
-cheapening
+cheapening 1
 cheapery 1
 chlorin
 chevon 1
@@ -12845,7 +12845,7 @@ chuppah
 cornuate
 cecile
 chuprassy
-canasta
+canasta 1
 calorite
 commonplacer 1
 church 1
@@ -14913,7 +14913,7 @@ cytostomal 2
 cordwood
 cytostromatic 1
 compromised
-cytotactic 1
+cytotactic 2
 cerebroganglion
 cytotaxis
 creosols
@@ -17362,7 +17362,7 @@ coastlines 1
 cutleress 1
 channeled
 condensible 1
-churchmaster
+churchmaster 1
 coatdress 2
 conserve 1
 conveyorizer
@@ -17758,7 +17758,7 @@ coct 2
 coctile
 chloroformist 2
 condog 1
-cocuyo 3
+cocuyo 4
 cocullo
 cocurator 2
 creosotic
@@ -21972,7 +21972,7 @@ cutidure
 coinsurable 1
 clinohedrite 1
 configurating
-configuration 1
+configuration 2
 configurationally
 calycule 2
 configurations 1
@@ -25153,7 +25153,7 @@ cores 1
 carbonates
 compressors
 chlorospinel 1
-coresign 1
+coresign 2
 coresonant
 convento 2
 chincher
@@ -27338,7 +27338,7 @@ courage 2
 courageous 2
 courager
 curacy 1
-callicarpa 1
+callicarpa 2
 connexionalism 4
 couranto
 courantoes 1
@@ -29891,7 +29891,7 @@ crossbreeding
 crosscuts
 coachman
 courtier 1
-coling 1
+coling 2
 cuttikin 1
 corroborated
 centrifuges
