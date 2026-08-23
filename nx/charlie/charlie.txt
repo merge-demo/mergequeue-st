@@ -92,7 +92,7 @@ cabbies
 cabble
 challenges 1
 cabbled
-cabbler
+cabbler 1
 chars 1
 carotenes 3
 cabdriving 3
@@ -2187,7 +2187,7 @@ camphory 1
 camphoryl 2
 corgi 2
 camphoroyl 2
-clerkliest 2
+clerkliest 3
 camporee 1
 camphorone 1
 congressmen 3
@@ -16792,7 +16792,7 @@ clover
 cloverlay
 citizen
 clupeidae 1
-cloverleafs 2
+cloverleafs 3
 cloverleaves
 cloverley
 cycadophyte
@@ -17333,7 +17333,7 @@ chlorellaceae
 caravelle 1
 crownland
 chemigraph 1
-coreceiver
+coreceiver 1
 cimline 1
 coassist
 coassistant 3
@@ -24141,7 +24141,7 @@ coassignee
 chedites 1
 conformation
 conference 1
-convertiplane
+convertiplane 1
 convertise
 convertism
 convertite 1
@@ -25047,7 +25047,7 @@ cordicole
 cordillera
 carbonizes
 cordilleran
-cordilleras
+cordilleras 1
 cordinar
 cordlessly 2
 crucifyfied
@@ -25624,7 +25624,7 @@ corporateness
 corporationer
 corporationism 1
 countergift 1
-coituses
+coituses 1
 chasable
 corporations 2
 calquing
