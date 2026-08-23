@@ -2327,7 +2327,7 @@ adjectitious
 attempers 1
 acidaspis
 acider 3
-anaphoric 1
+anaphoric 2
 azimech 3
 acidy
 acetamid 2
@@ -14880,7 +14880,7 @@ autospray 2
 apenteric 2
 antimachinery
 anticyclic 2
-arrondi 2
+arrondi 3
 accessioner
 alife
 anticyclical
@@ -15627,7 +15627,7 @@ antineuritic 1
 antineutralism
 argyles 2
 attritive
-antineutrino
+antineutrino 1
 acerbities 1
 ametria
 aftermatter
@@ -18812,7 +18812,7 @@ archeries
 acoustically 2
 armida 1
 abjuring 1
-allomerization
+allomerization 1
 agoniatite 1
 archers
 acetonurometer 1
@@ -20280,7 +20280,7 @@ antistreptococcal 2
 allowances
 acquophonia 1
 amazement 2
-arsmetry 1
+arsmetry 2
 arround
 auditual 3
 arbute 1
