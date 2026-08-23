@@ -1054,7 +1054,7 @@ edible 2
 expeditive 1
 embase 1
 epicondylar 2
-embeddable
+embeddable 1
 epistolic
 echinology 1
 elective
@@ -10377,7 +10377,7 @@ enjambed 1
 exactment 1
 endeavoured 1
 exophagy 1
-ecclesiastical 1
+ecclesiastical 2
 emperorship
 ethologists 1
 euphonical 4
