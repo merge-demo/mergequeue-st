@@ -2690,7 +2690,7 @@ dyestuff 2
 dvornik
 duci 1
 derails 3
-deconvolve 1
+deconvolve 2
 desmon 1
 decor 1
 diplopic 1
@@ -3937,7 +3937,7 @@ doms 1
 dominant 1
 delightedly
 delassation 1
-dindling 1
+dindling 2
 decontaminates 1
 dunstone 1
 deepwaterman 1
@@ -7397,7 +7397,7 @@ demean 1
 detonative 1
 detonize
 detour 1
-duncifying 1
+duncifying 2
 detectability 1
 detouring 1
 deliriums
@@ -8820,7 +8820,7 @@ dibbled 3
 degame
 dybbuk 1
 dominantly
-dibbuks
+dibbuks 1
 dolomitise 1
 donzella
 diabolo 2
@@ -17528,7 +17528,7 @@ diabolifuge 1
 dwarf
 depolish 1
 drudges 2
-ditheists
+ditheists 1
 drudgism 2
 dispope 1
 dicasts 2
