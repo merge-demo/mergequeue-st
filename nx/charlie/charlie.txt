@@ -769,7 +769,7 @@ cagier
 cecil
 collybist 1
 clairvoyance
-cagiest 2
+cagiest 3
 cyclotomies 2
 cagily
 clock
@@ -3041,7 +3041,7 @@ colectomy 2
 countergager 1
 cantoral
 cantoria
-cardsharps
+cardsharps 1
 calabooses 1
 crystallographic
 cantoris
@@ -6542,7 +6542,7 @@ cavu 1
 cannulas 2
 cometh 3
 cawed 1
-cawker
+cawker 1
 cawky 1
 collide 1
 cawl 3
@@ -8666,7 +8666,7 @@ chaoua
 catastaltic 1
 callans
 citronelle 2
-choli 1
+choli 2
 chaouia
 chap
 chapah
@@ -14239,7 +14239,7 @@ circumincession
 circuminsession 2
 creoles
 canhoop
-circumintestinal
+circumintestinal 1
 circumjacence 1
 circumjacency 2
 circumjovial 1
