@@ -114,7 +114,7 @@ facient 2
 furaldehyde 2
 facilitate 1
 flocks 3
-facilitation 1
+facilitation 2
 fluosilicate 1
 facilitative 2
 fashionist 1
@@ -1761,7 +1761,7 @@ farsalah
 forlorn 1
 flatling 2
 foundery 4
-frivolously 1
+frivolously 2
 fetid 2
 feuilleton 3
 fackings 2
@@ -3336,7 +3336,7 @@ fulcra 3
 fleshlike 1
 flon 1
 forsung 3
-flench
+flench 1
 furuncle 3
 fidge 2
 frogfoot
@@ -3363,7 +3363,7 @@ fossores 2
 foveolate
 frostiness 4
 fascili 1
-foulnesses 4
+foulnesses 5
 fieldleft 4
 faxes
 ferrean
@@ -4131,7 +4131,7 @@ freeheartedly 6
 fireback 3
 fumeuses 3
 frogleaf 2
-felonry 4
+felonry 5
 flexed 1
 funders 3
 fenchyl 1
@@ -4450,7 +4450,7 @@ fishpole 1
 fishpoles 2
 flueless 4
 flameproof 1
-fazed
+fazed 1
 flattie 1
 fishtailed 1
 fibrilled
@@ -5606,7 +5606,7 @@ flannelmouthed 1
 flowery 2
 furbearer 1
 flammulation 1
-froebelist
+froebelist 1
 frillier 2
 fanaticized
 forefeel
@@ -6430,7 +6430,7 @@ fireflower 2
 freshish 1
 facsimileing
 foppish 1
-farset
+farset 1
 fluorimetric
 frizing 2
 foreship 1
@@ -6801,7 +6801,7 @@ fiberless 1
 folkmoots 7
 foredoomed 1
 fleshhook 2
-farinulent 3
+farinulent 4
 fervescent 1
 froebelian 3
 flyers 2
@@ -8367,7 +8367,7 @@ foryield 3
 familiary 1
 frondiform 2
 furnished 2
-fautorship 1
+fautorship 2
 fodge 1
 flytraps 2
 fusate 2
@@ -9615,7 +9615,7 @@ figureless 2
 final 3
 fluter 2
 freebie 2
-frescos
+frescos 1
 farsi 3
 fleeciest 1
 freebooter 1
@@ -10684,7 +10684,7 @@ fowage 2
 fitzroy 1
 feltlike 1
 forblack 3
-flocculency 1
+flocculency 2
 fargood 2
 fivepence 1
 fitments 1
@@ -11274,7 +11274,7 @@ fourer
 funny 2
 fundamentality 1
 flagellants 2
-frumaryl 4
+frumaryl 5
 filibusterer 3
 fenks
 felly 1
