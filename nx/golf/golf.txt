@@ -1079,7 +1079,7 @@ galimatias 1
 groundway 1
 gypsums 3
 gegenion 2
-glares
+glares 1
 guarding 2
 graphicness 3
 galactolipin 2
@@ -2683,7 +2683,7 @@ genyplasty 2
 glashan 2
 globularness 3
 glandule 2
-gravitons 1
+gravitons 2
 gamey 1
 gusle 2
 grith 4
@@ -3725,7 +3725,7 @@ gherao 2
 gelder
 geotactic 4
 genro 2
-galumptious 1
+galumptious 2
 giarre
 governing 1
 geobios 2
@@ -5444,7 +5444,7 @@ gliridae 3
 gasoline 1
 gasifier 3
 geotaxes 2
-glirine 2
+glirine 3
 germiculture 1
 gandhism 4
 glaciating 5
@@ -5802,7 +5802,7 @@ glover 2
 glochines 1
 genos 4
 glumpier 3
-glave 2
+glave 3
 guanidin 3
 grasshopperish 3
 gastrodisk 4
@@ -9485,7 +9485,7 @@ gleeishly 3
 gauffering 2
 geometrician 2
 gladsomely 1
-gossamery
+gossamery 1
 gae
 gonyaulax 1
 graceful
