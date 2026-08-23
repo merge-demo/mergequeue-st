@@ -408,7 +408,7 @@ glucogenesis 4
 galbula 1
 gelding 2
 glidewort
-grissens
+grissens 1
 galaxes 2
 gispin 1
 gastroenteralgia
@@ -799,7 +799,7 @@ goombay
 gastrospasm 2
 grouts 1
 glycosidase 1
-graf 2
+graf 3
 gimlet 1
 gambade 1
 garrotting 1
@@ -1715,7 +1715,7 @@ gamesman
 guernseys 1
 garnetwork 2
 gaullism 3
-gastropexy 1
+gastropexy 2
 gutte 3
 greaseproof 4
 gastrophile
@@ -4018,7 +4018,7 @@ gibboseness
 gim 3
 gambolling 2
 gerundively 1
-gynecicgynecidal
+gynecicgynecidal 1
 groining 1
 gletscher 1
 grifted 2
@@ -5460,7 +5460,7 @@ galumphed 2
 graphy 2
 gablet 2
 ganoids 3
-gimmer 3
+gimmer 4
 gentlemen 1
 goodyera 5
 goldilocks 3
@@ -7418,7 +7418,7 @@ goosiest 2
 gunflints 2
 gelsemine 1
 gunnery 1
-grangerization 4
+grangerization 5
 gadean 5
 geniohyoglossus
 grateless 1
@@ -7978,7 +7978,7 @@ guesdist 2
 gymnospermy 2
 glumness 2
 genuclast 1
-gravitational 2
+gravitational 3
 glimmerite 1
 gleization 2
 gregaloid
@@ -9642,7 +9642,7 @@ glumales 3
 gorsiest 3
 gowfer 1
 gerardia 1
-gangbang 2
+gangbang 3
 generals 2
 genital 3
 grudging
@@ -10040,7 +10040,7 @@ gadflies 2
 ginn 5
 gueridons 2
 gasking 2
-gongman 1
+gongman 2
 galette 1
 gossypols 4
 guerison 2
@@ -10732,7 +10732,7 @@ gox 4
 gussets
 gloms 1
 gairfish 2
-gassers 3
+gassers 4
 gaddi 3
 gustard 4
 guergal 2
