@@ -5105,7 +5105,7 @@ edgemaking 1
 endoenzyme
 epitrochoid 1
 entresol 2
-elytrorrhaphy 1
+elytrorrhaphy 2
 earbob 2
 encyclic 1
 ensnarements 1
@@ -8571,7 +8571,7 @@ exrx 1
 essancias 2
 endophytically 1
 eyebolts 3
-eumerogenesis
+eumerogenesis 1
 endocarp 2
 episcotister 2
 estrogen
