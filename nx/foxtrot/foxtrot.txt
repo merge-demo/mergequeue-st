@@ -5685,7 +5685,7 @@ flancards
 friended 4
 fuzz
 firking
-fountains
+fountains 1
 firebrands 1
 flingy 1
 fleurette 3
@@ -8628,7 +8628,7 @@ frameshift 4
 fullfil 3
 flaskful 3
 fissionable
-fungating 2
+fungating 3
 farmsteading 1
 forninst 1
 fricative 2
@@ -10859,7 +10859,7 @@ flambeaux 5
 fumose 5
 fructifies 3
 fulfillment
-flus 2
+flus 3
 flavorous 3
 ferule 3
 fennici 3
