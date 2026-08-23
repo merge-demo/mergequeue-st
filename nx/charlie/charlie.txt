@@ -7100,7 +7100,7 @@ casziel
 canton 1
 caliculus
 centimetre 1
-cashmerette 1
+cashmerette 2
 centimetres 2
 centimo
 commonplaceism 1
@@ -13138,7 +13138,7 @@ cytogenies 2
 cudgelled
 cicatrice 1
 colocolo
-cicatrices
+cicatrices 1
 cicatricle 1
 chamberdeacon 2
 copastorate
@@ -16792,7 +16792,7 @@ clover
 cloverlay
 citizen
 clupeidae 1
-cloverleafs 2
+cloverleafs 3
 cloverleaves
 cloverley
 cycadophyte
@@ -21184,7 +21184,7 @@ concento
 concolor 1
 chemicobiological 2
 concentrated
-concentrates
+concentrates 1
 clamatores
 commensalist
 concentrations
