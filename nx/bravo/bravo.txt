@@ -1147,7 +1147,7 @@ bootful 1
 berne 1
 banquets 2
 babakoto 2
-backwall
+backwall 1
 borates 3
 botete
 bankman 1
@@ -1586,7 +1586,7 @@ blastiest 1
 ballets
 brevetcy 1
 blowtube 2
-ballgame
+ballgame 1
 ballhooter 2
 backslash 1
 brainwashers 1
@@ -4207,7 +4207,7 @@ bellmen
 barometric
 brusquer 1
 beatnik 1
-beatrix
+beatrix 1
 banally 2
 bonging 1
 bonged 1
@@ -7986,7 +7986,7 @@ bum 1
 beauteousness
 brighten 1
 berstel 2
-bilineate 1
+bilineate 2
 biceps 1
 bibliopolism
 bedlight
@@ -9743,7 +9743,7 @@ byssal 1
 bissellia 1
 bullbats 2
 balding
-bombylious
+bombylious 1
 begobs
 barleduc 1
 bacillus 2
@@ -11057,7 +11057,7 @@ bicentrically
 bigential
 bromoiodized 2
 barkless 3
-benzoylate
+benzoylate 1
 bidentalia 1
 bemoaningly 1
 bissabol
@@ -11960,7 +11960,7 @@ bannerol 1
 buffeted 2
 bombing 2
 boggling 1
-bessarabian 1
+bessarabian 2
 brinded 1
 bogyman 2
 broncobusters 1
@@ -13358,7 +13358,7 @@ both 1
 bradyphagia
 bothered 4
 bester 2
-bothers 1
+bothers 2
 beety
 binding
 bathyorographical
@@ -13675,7 +13675,7 @@ benzdioxdiazine 1
 baldly 3
 bondholder
 bacilliculture
-billboard 2
+billboard 3
 bevelment 3
 bourasque
 ballarag 4
@@ -14637,7 +14637,7 @@ biogeographers 2
 blackneb
 bonito
 branniness
-boucharde 2
+boucharde 3
 binodal 2
 bassara 2
 boasted 3
@@ -15261,7 +15261,7 @@ brewises 2
 beglerbeg
 bricklayers 3
 backslide 1
-bumpology 1
+bumpology 2
 bummery 2
 brickle 1
 bulbospinal
@@ -16745,7 +16745,7 @@ boodie
 buckwheatlike
 balaic 1
 butterwoman 1
-buckwheats
+buckwheats 1
 brazilin
 bemuddy 2
 bucolically 3
@@ -16863,7 +16863,7 @@ benvenuto
 balkline 1
 beam 1
 bigger 1
-buffing 1
+buffing 2
 breards
 bufflehead 2
 breekums 1
@@ -16888,7 +16888,7 @@ bootheel
 bellona
 buffoonishness 1
 benchwork 1
-buras
+buras 1
 buffs 1
 brei 3
 blurring
@@ -17376,7 +17376,7 @@ bunged
 bylawman
 busheling
 buccinator 1
-bimorphemic 1
+bimorphemic 2
 bijection 2
 biathlons 3
 butteries 1
@@ -17611,7 +17611,7 @@ bowdlerized
 burring 1
 bearlet 2
 berberry 1
-burglarizing 1
+burglarizing 2
 bradykinetic
 bulldozes
 backster 2
