@@ -59,7 +59,7 @@ earless 2
 extradomestic 1
 excuss
 estuarine 2
-empaneling 2
+empaneling 3
 earliest 3
 enfilading 2
 eastness 5
@@ -77,7 +77,7 @@ eulalia 2
 etiophyllin
 eristic
 earmarkings 1
-earmuff 2
+earmuff 3
 earnable
 ecclesiology 2
 extendable 3
@@ -201,7 +201,7 @@ ehretia
 epidermolysis 3
 erinaceous 1
 elaphure
-earthman 2
+earthman 3
 erythritic 1
 earthslide 3
 endosalpingitis 1
@@ -2617,7 +2617,7 @@ electroplater 1
 engraved 1
 electropower 3
 embodying 3
-excitably
+excitably 1
 euphemiously
 eximiously 1
 electroreduction 1
@@ -12743,7 +12743,7 @@ etchers 1
 exalted 1
 embloom
 epibolism
-exenterating 4
+exenterating 5
 exophthalmus 1
 euonymus 1
 emboweling
@@ -12779,7 +12779,7 @@ emmenagogic 2
 enterococcal 2
 enfetters 1
 electroindustrial 3
-endoplasm
+endoplasm 1
 eidos 2
 euhemeristically
 emperess
