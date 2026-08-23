@@ -3304,7 +3304,7 @@ acupuncturist 3
 acus 1
 atrabile 1
 anisotropism
-atresy 2
+atresy 3
 acetanion 2
 army 2
 azimin
@@ -3854,7 +3854,7 @@ adiathermancy 1
 antioxidase
 alcoranist 2
 accipitrary
-acaridea
+acaridea 1
 adiathetic
 adiating
 addends
@@ -7675,7 +7675,7 @@ alphabetically
 atherogenesis
 atomist 1
 alcyonacean
-alcyoniaceae 1
+alcyoniaceae 2
 acost
 alcyonic 1
 astutely 2
@@ -12917,7 +12917,7 @@ angletwitch
 allays
 anglewise 1
 avenger 1
-asteraceous 2
+asteraceous 3
 anglian 1
 apportionment 1
 anglicanisms
