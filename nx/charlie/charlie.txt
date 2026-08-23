@@ -2308,7 +2308,7 @@ canaigre
 canaille
 canailles
 cymoid 1
-chargeship
+chargeship 1
 commonwealth 2
 cubitoplantar 1
 cytopahgous
@@ -31747,7 +31747,7 @@ catfishes
 customance 1
 customaries
 cystenchymatous
-customariness 2
+customariness 3
 customer
 cervisial 2
 customers 1
