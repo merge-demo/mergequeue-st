@@ -5360,7 +5360,7 @@ buyable 1
 bromobenzene 2
 barodynamic
 barbarisation 1
-burly 1
+burly 2
 broomshank 2
 birne
 begrett 4
@@ -14803,7 +14803,7 @@ budbreak
 blacklegs 1
 brightener 2
 bedimplies
-braxy 2
+braxy 3
 braxies 2
 beetlike 3
 brunt 1
