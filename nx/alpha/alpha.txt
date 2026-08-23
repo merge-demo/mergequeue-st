@@ -5542,7 +5542,7 @@ abscisins 1
 agronomies
 afterdeal
 afterdeck
-aerial
+aerial 1
 afterform 1
 actuarial
 adherant 1
@@ -20562,7 +20562,7 @@ afterswarm
 affrontingness 1
 abseiling 1
 allophytoid
-attritus
+attritus 1
 anguishing 1
 auriculariales 1
 arthritis
