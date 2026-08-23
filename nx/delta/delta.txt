@@ -9430,7 +9430,7 @@ digamies
 divekeeper
 displume
 deglut
-destructively 2
+destructively 3
 digamma 2
 demilegato
 downfeed 2
@@ -9654,7 +9654,7 @@ devisee 3
 dika
 dotage
 dampened
-disheart
+disheart 1
 dieter
 dispersedelement 2
 desulphurization 1
@@ -10504,7 +10504,7 @@ diphaser
 divinize 2
 dihydrocupreine
 dipyridyl 2
-dichter 2
+dichter 3
 duper
 daughter 1
 denominationalize
