@@ -219,7 +219,7 @@ compactification
 cabrillas 1
 cabrit 1
 cabs 1
-comprend 2
+comprend 3
 copular
 cabstands 1
 cabuya
@@ -2323,7 +2323,7 @@ canalboat
 charales
 canale
 canaled
-cithrens 1
+cithrens 2
 carthaginian
 canaler 1
 chimeres
@@ -2392,7 +2392,7 @@ canaries
 cohobates 1
 canarine 2
 canarium
-centers
+centers 1
 canarsee
 cuj 1
 cassie 1
@@ -2443,7 +2443,7 @@ cancerigenic
 catechol 1
 cancerism
 cystidiums 1
-conemaking 1
+conemaking 2
 cancerogenic
 circumcentral 1
 condescent
@@ -9779,7 +9779,7 @@ caudate
 cheliform
 churchish 1
 crajuru
-curua 1
+curua 2
 cabby
 chelingas
 cheliped
@@ -10401,7 +10401,7 @@ citizenries
 chiffonier 1
 chiffoniers 1
 cooncan
-cementing 1
+cementing 2
 cryptometer 1
 chiffonnieres 1
 conchinin 1
@@ -11824,7 +11824,7 @@ choosier 3
 celtiberi
 cryotherapy
 cheaps
-choosiness 2
+choosiness 3
 chadar
 chop 1
 consentant
@@ -18008,7 +18008,7 @@ coelozoic 1
 collin
 coinherent
 canchito 1
-coembodied
+coembodied 1
 chronic
 coembodies
 chuse
@@ -23924,7 +23924,7 @@ coedit 2
 contumely
 consisted
 chadlock 2
-culling 1
+culling 2
 contumelious 1
 contund 1
 crippledom
@@ -25380,7 +25380,7 @@ cornell
 corneosclerotic 1
 cheer
 cambogias
-counterly 1
+counterly 2
 cornigeous 2
 corneosiliceous
 corner 1
@@ -26338,7 +26338,7 @@ carbonnieux
 costotomy
 costotrachelian 1
 celebratedness 2
-ceteosaur
+ceteosaur 1
 chalcomancy 1
 costovertebral 1
 curialities
@@ -27694,7 +27694,7 @@ chincloth 1
 cowier
 cyanaurate 1
 copalms 1
-carnage
+carnage 1
 cowing 1
 carcinosarcomata
 cowinner
@@ -30792,7 +30792,7 @@ culices 2
 cramble
 cytoparaplastin 1
 culicifugal
-culicifuge 1
+culicifuge 2
 copelidine
 culicinae 1
 canisiana 1
