@@ -1155,7 +1155,7 @@ bountree
 bairnwort
 baisemain
 besmears
-benedictine 2
+benedictine 3
 bushwa 1
 brunets
 banqueter 1
@@ -1537,7 +1537,7 @@ bedaubed
 balladizing 1
 brutalization 1
 brassish 1
-bichromated
+bichromated 1
 bezel 1
 basted 1
 batterdock 1
@@ -6070,7 +6070,7 @@ botanizing 3
 benami 1
 bachelorwise 1
 bunton
-boyishly 2
+boyishly 3
 bumfeg 2
 bituminization 1
 bequeathable
