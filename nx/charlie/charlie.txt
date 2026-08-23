@@ -219,7 +219,7 @@ compactification
 cabrillas 1
 cabrit 1
 cabs 1
-comprend 2
+comprend 3
 copular
 cabstands 1
 cabuya
@@ -2323,7 +2323,7 @@ canalboat
 charales
 canale
 canaled
-cithrens 1
+cithrens 2
 carthaginian
 canaler 1
 chimeres
@@ -2392,7 +2392,7 @@ canaries
 cohobates 1
 canarine 2
 canarium
-centers
+centers 1
 canarsee
 cuj 1
 cassie 1
@@ -9779,7 +9779,7 @@ caudate
 cheliform
 churchish 1
 crajuru
-curua 1
+curua 2
 cabby
 chelingas
 cheliped
@@ -10401,7 +10401,7 @@ citizenries
 chiffonier 1
 chiffoniers 1
 cooncan
-cementing 1
+cementing 2
 cryptometer 1
 chiffonnieres 1
 conchinin 1
@@ -23924,7 +23924,7 @@ coedit 2
 contumely
 consisted
 chadlock 2
-culling 1
+culling 2
 contumelious 1
 contund 1
 crippledom
@@ -26338,7 +26338,7 @@ carbonnieux
 costotomy
 costotrachelian 1
 celebratedness 2
-ceteosaur
+ceteosaur 1
 chalcomancy 1
 costovertebral 1
 curialities
@@ -27694,7 +27694,7 @@ chincloth 1
 cowier
 cyanaurate 1
 copalms 1
-carnage
+carnage 1
 cowing 1
 carcinosarcomata
 cowinner
