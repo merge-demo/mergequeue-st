@@ -776,7 +776,7 @@ expensiveness 3
 electrobus 3
 exsuperance 1
 encaged 3
-exadverso
+exadverso 1
 endosulfan 2
 earthmaking 1
 exodus 2
@@ -1425,7 +1425,7 @@ execratory
 ebbing 1
 euskaldun 1
 electromassage 1
-effluviviums
+effluviviums 1
 efflux 1
 ecphorable 1
 expressionlessly
@@ -1601,7 +1601,7 @@ egracias 1
 eradicated
 egress 4
 erizo 1
-epiblastic 1
+epiblastic 2
 egressed
 egresses
 exequial 1
@@ -3694,7 +3694,7 @@ expectant 4
 elec 3
 extratellurian 1
 eluates 1
-effluvium 1
+effluvium 2
 enantiotropic 2
 expunged 1
 elucidators
@@ -5937,7 +5937,7 @@ epicondylitis 2
 eking 2
 expectorates 1
 engrosser 2
-earrings 3
+earrings 4
 enframing 3
 enigma 2
 egotism 2
@@ -6835,7 +6835,7 @@ eucryptite 4
 epic
 electrochemical
 enfolders
-entomophthorales 3
+entomophthorales 4
 erythrodextrin
 enfeoffed
 estruses 2
@@ -8271,7 +8271,7 @@ estragole 4
 eskimoic 1
 embroiler 1
 earthy
-evg 3
+evg 4
 excursional 1
 episthotonos
 endogamies 3
@@ -9449,7 +9449,7 @@ estudy 1
 entocoel 1
 electives 1
 eliquation 5
-exsculp
+exsculp 1
 electronic 1
 extroverted 1
 escortage 2
@@ -10610,7 +10610,7 @@ expensing
 englobing 3
 elvanite
 enviroment 1
-eledone
+eledone 1
 enterpriseless 1
 epiplopexy 3
 esoterize 2
@@ -11202,7 +11202,7 @@ ethereal 3
 encroach 1
 evolvement 2
 enterers
-epigraphist
+epigraphist 1
 evanesced 2
 eternalism 2
 enspheres 1
@@ -12032,7 +12032,7 @@ eigenspace 4
 electrostrictive
 embolus 2
 equilibrize
-electioneerer 1
+electioneerer 2
 enthusiasts 1
 ectromelian 1
 exclusive 1
@@ -13728,7 +13728,7 @@ euphorbium
 externalities 1
 externalization 1
 eupractic 3
-ecumenicity
+ecumenicity 1
 enounce
 externalized
 externalizes 4
