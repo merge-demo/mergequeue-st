@@ -1042,7 +1042,7 @@ edgeshot
 earthen 1
 embalmment
 ephrathite 2
-exterritorial 1
+exterritorial 2
 encephaloscope 4
 exteriorized 2
 enormous 1
@@ -2598,7 +2598,7 @@ electrophoretically 2
 eudiaphoresis 1
 excerpted 2
 elliptically 3
-exercitor 1
+exercitor 2
 enjelly 1
 epithelize
 exothecate
@@ -5628,7 +5628,7 @@ enfree
 exordiums
 exposable 2
 eligibly 3
-erysiphaceae
+erysiphaceae 1
 ectocelic 2
 everbearing
 elephanta
@@ -6916,7 +6916,7 @@ ebonites 1
 enscene 1
 empusa 1
 echinodermata
-eugenesic 1
+eugenesic 2
 electrophototherapy 3
 epipodiale
 electrofuse 1
@@ -7908,7 +7908,7 @@ evaniidae 1
 epimerized 1
 ephebus 3
 enclisis 1
-ectozoic
+ectozoic 1
 epimers 1
 epimysia 3
 esthesias 1
@@ -9714,7 +9714,7 @@ eucommiaceae
 epimorphic
 estrade
 esselenian
-emotionable
+emotionable 1
 eomecon
 eastlings 5
 entotrophi 3
@@ -11033,7 +11033,7 @@ extravagant 2
 emolliate 1
 eurypterus 2
 emption
-eclectism 1
+eclectism 2
 eurite 1
 ethered 2
 echinostomatidae 2
@@ -11080,7 +11080,7 @@ expropriations 3
 episcopally 3
 estheria 1
 epileptically 1
-epicormic
+epicormic 1
 electrine 3
 eusebian 4
 edifies 2
