@@ -126,7 +126,7 @@ brabantine
 basicranial 2
 bedimpled 1
 bedash 3
-boolian 1
+boolian 2
 bacin 2
 bourne 1
 banister
@@ -4774,7 +4774,7 @@ boltwork 1
 bedraping 1
 bedread 1
 bedrench 2
-baldling 1
+baldling 2
 batad 1
 blast 1
 bed
@@ -10480,7 +10480,7 @@ bathmic 2
 blason
 blasphemed 2
 blasphemies 2
-blasphemous 1
+blasphemous 2
 blasphemousness 2
 bismarckian 1
 buttonhole 1
@@ -10559,7 +10559,7 @@ blastophoral 2
 bootikin 3
 backlash 2
 bouviers 1
-boychiks
+boychiks 1
 bambuco 3
 blate
 blately 1
@@ -10792,7 +10792,7 @@ blepharocarcinoma 2
 balinger
 bayish
 bestripe 1
-batyphone 1
+batyphone 2
 bienvenu 2
 boul
 bavin 1
@@ -12682,7 +12682,7 @@ boorga 4
 brochures
 bronchoconstrictor 2
 bubblier 2
-baptized 1
+baptized 2
 butylates 2
 boysenberry 1
 bororo 2
@@ -13629,7 +13629,7 @@ bounceback 1
 blowsy 2
 bouncier
 batteried 2
-barra 3
+barra 4
 begladding 4
 binning 1
 beclouded 1
