@@ -408,7 +408,7 @@ glucogenesis 4
 galbula 1
 gelding 2
 glidewort
-grissens
+grissens 1
 galaxes 2
 gispin 1
 gastroenteralgia
@@ -799,7 +799,7 @@ goombay
 gastrospasm 2
 grouts 1
 glycosidase 1
-graf 2
+graf 3
 gimlet 1
 gambade 1
 garrotting 1
@@ -2329,7 +2329,7 @@ guavaberry
 geoglossaceae 2
 glandes 4
 geraty 1
-georgette 2
+georgette 3
 gelotherapy 3
 gaoloring 1
 garbed 1
@@ -5460,7 +5460,7 @@ galumphed 2
 graphy 2
 gablet 2
 ganoids 3
-gimmer 3
+gimmer 4
 gentlemen 1
 goodyera 5
 goldilocks 3
@@ -7418,7 +7418,7 @@ goosiest 2
 gunflints 2
 gelsemine 1
 gunnery 1
-grangerization 4
+grangerization 5
 gadean 5
 geniohyoglossus
 grateless 1
@@ -10040,7 +10040,7 @@ gadflies 2
 ginn 5
 gueridons 2
 gasking 2
-gongman 1
+gongman 2
 galette 1
 gossypols 4
 guerison 2
