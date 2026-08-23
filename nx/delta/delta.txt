@@ -2141,7 +2141,7 @@ diosmosis 2
 decantist 1
 decaffeinated 1
 decapitation
-deterrable 2
+deterrable 3
 diplacuses 1
 decapitations
 disassemble 2
@@ -5189,7 +5189,7 @@ deafer 2
 denotatively
 dauerlauf
 dampens
-denotativeness
+denotativeness 1
 denotatum 1
 deacidifying
 denotes 1
@@ -6678,7 +6678,7 @@ diminutely
 defoliation
 desesperance 2
 desexualizing
-deshabille
+deshabille 1
 dinitrophenol 1
 diplohedron
 downcurved
@@ -7338,7 +7338,7 @@ dollbeer 1
 dreariment 4
 daysman 2
 duecentos 2
-doctrinist
+doctrinist 1
 doyen 3
 deterrence 1
 defiantly
@@ -8793,7 +8793,7 @@ diazoimide 2
 dyschroia
 disembowel
 dixieland 1
-doggies 1
+doggies 2
 dipala
 diazoma 1
 diazonium 1
@@ -8990,7 +8990,7 @@ dhow
 dicynodontia 1
 diclinous 3
 decalcomanias
-distortionless
+distortionless 1
 deify
 disputers 1
 dasyproctine
@@ -9503,7 +9503,7 @@ deuterostome
 demonstrational 1
 dighter 1
 digraphic 1
-dynamogeny 1
+dynamogeny 2
 dialysers 2
 demiurge 1
 decontaminated 1
