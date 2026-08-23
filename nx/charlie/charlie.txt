@@ -6001,7 +6001,7 @@ cathexes
 cathy 4
 cathine
 cathion
-confessionaries 1
+confessionaries 2
 cathodal 2
 cathode 1
 cathodes 1
@@ -7600,7 +7600,7 @@ ceresin 1
 chaetotaxy 2
 cevadilline 1
 cerebrospinant 1
-cerebrosuria
+cerebrosuria 1
 cerebrovascular 2
 coreveller
 convocationally
@@ -29021,7 +29021,7 @@ crimeproof 1
 chickasaws 1
 charlemagne 1
 ceorlish
-codiscoverer
+codiscoverer 1
 criminalism
 criminalistic
 countersecurity
