@@ -4911,7 +4911,7 @@ carrotweed 1
 corporation 1
 canonization 1
 clomben
-carrotwood
+carrotwood 1
 carrousel 1
 circumfused
 carrousels
@@ -25588,7 +25588,7 @@ candidly
 coroplasta 1
 coroplastae 1
 cauf 1
-coroplastic
+coroplastic 1
 camelias 2
 corotate
 corotates
@@ -28761,7 +28761,7 @@ cavitate 1
 cornutine 2
 chafer
 crepusculine 3
-croaking
+croaking 1
 costliness
 catenary
 cres
