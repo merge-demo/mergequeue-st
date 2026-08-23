@@ -2920,7 +2920,7 @@ fortressing
 footmark
 frizzen 4
 ferox
-factoring
+factoring 1
 flagonless 2
 flyboy 2
 fingian 1
@@ -5140,7 +5140,7 @@ fructure 3
 flasker 1
 furless 3
 fastuousness 1
-fees
+fees 1
 foretooth 3
 fellifluous 3
 feerie
@@ -6733,7 +6733,7 @@ fictive
 filipina 4
 fremt 3
 fomalhaut 1
-fiscs 1
+fiscs 2
 folliculin 1
 fanny 1
 fuchsinophil 2
