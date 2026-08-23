@@ -8,7 +8,7 @@ gummous
 gunrooms 3
 gabber 3
 gabbers
-gobi 2
+gobi 3
 grasswork 4
 gratuities 3
 gabelles 3
@@ -1156,7 +1156,7 @@ gantelope 1
 genitors 1
 gantlet 1
 gled 3
-gantleted
+gantleted 1
 gripier 3
 grouses
 goninidia
@@ -1210,7 +1210,7 @@ guttate 3
 garfishes 4
 glaux 1
 gimcrackery 1
-gimmicking 2
+gimmicking 3
 glanders
 garrisonian 1
 glossectomies 1
@@ -7317,7 +7317,7 @@ grahams 2
 gnocchi 2
 grossness 1
 griddlecake 2
-goyetian 1
+goyetian 2
 graveness 1
 gambled
 ganglion
