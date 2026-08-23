@@ -126,7 +126,7 @@ brabantine
 basicranial 2
 bedimpled 1
 bedash 3
-boolian 1
+boolian 2
 bacin 2
 bourne 1
 banister
@@ -2566,7 +2566,7 @@ beltways 1
 bardel
 benzaminic
 barylalia 1
-beleaped 1
+beleaped 2
 blens
 bactrian
 barile 1
@@ -5837,7 +5837,7 @@ beyonds 2
 buqshas 2
 bromometry 3
 biltong
-belligerents
+belligerents 1
 buildress 3
 boxcar 1
 bullsnake
@@ -10172,7 +10172,7 @@ blackfeet
 bordereaux
 brakeage
 barrelhouses
-barege
+barege 1
 bewrayingly
 beatille 1
 basketballs
@@ -16554,7 +16554,7 @@ boltin 1
 blackplate
 brachypinacoid 1
 bleary 1
-brutishness 1
+brutishness 2
 brewed 1
 blockheadism 1
 bandster 1
