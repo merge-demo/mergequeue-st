@@ -3336,7 +3336,7 @@ fulcra 3
 fleshlike 1
 flon 1
 forsung 3
-flench
+flench 1
 furuncle 3
 fidge 2
 frogfoot
@@ -4131,7 +4131,7 @@ freeheartedly 6
 fireback 3
 fumeuses 3
 frogleaf 2
-felonry 4
+felonry 5
 flexed 1
 funders 3
 fenchyl 1
