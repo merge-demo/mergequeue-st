@@ -1041,7 +1041,7 @@ edger
 edgeshot
 earthen 1
 embalmment
-ephrathite 1
+ephrathite 2
 exterritorial 1
 encephaloscope 4
 exteriorized 2
@@ -3373,7 +3373,7 @@ engraphy 1
 esquirearchy 1
 enregistration
 egal 3
-excursioner 2
+excursioner 3
 encyclopaedial
 embannered 1
 emetine
@@ -4128,7 +4128,7 @@ envisaged
 endives 3
 exedral 4
 eiffel 2
-ensheathed 1
+ensheathed 2
 every 4
 etymologically
 entombments 3
@@ -4657,7 +4657,7 @@ entrammel 3
 ensuance 2
 economic 3
 englishism 1
-enciphering 2
+enciphering 3
 enrapture 3
 eulogism 1
 engerminate 1
@@ -4829,7 +4829,7 @@ encroachments 3
 epitaxic 2
 encrustation
 elepaio 1
-excitoglandular
+excitoglandular 1
 empoisons
 electrocatalysis
 ebulliometer 1
@@ -5433,7 +5433,7 @@ energical 1
 energid 1
 ensuing 1
 endoplasmic 2
-extramundane 1
+extramundane 2
 endotheliomyxoma 3
 examinee 2
 egging
@@ -5787,7 +5787,7 @@ equestrienne
 epopees 3
 endomysial 3
 explanation
-epicranius 1
+epicranius 2
 engouement
 ectropium 1
 engoument 3
@@ -6308,7 +6308,7 @@ emporium 1
 ergotin 2
 eschar
 ensphered 1
-eyespot
+eyespot 1
 enseal 1
 estancias 2
 esophoric 1
@@ -9191,7 +9191,7 @@ endarterectomy
 embound
 episcopes 2
 epikleses 1
-excoriates 2
+excoriates 3
 epiderm 3
 erotylidae 2
 enlarges 1
@@ -10594,7 +10594,7 @@ enteria 4
 eocarboniferous
 elixation 4
 earthiness 1
-exaggerated 3
+exaggerated 4
 expectance 3
 excaudate 1
 euchrome 2
@@ -11084,7 +11084,7 @@ epicormic
 electrine 3
 eusebian 4
 edifies 1
-epiblastema 2
+epiblastema 3
 efforce 2
 embryographic
 epiboulangerite 1
@@ -11229,7 +11229,7 @@ exocrinology
 enkindling 2
 enthronised 3
 elohism
-enosis 2
+enosis 3
 encomimiums
 eophyton 1
 eradiated
@@ -11879,7 +11879,7 @@ extancy 1
 exceeded
 endosperm 1
 evanescent
-engrammes 2
+engrammes 3
 eucre 2
 elusoriness 2
 ervenholder 2
@@ -11997,7 +11997,7 @@ epiploon 1
 excitations 1
 escapes
 eastbound 3
-embargo 1
+embargo 2
 enveloped 3
 eurylaimidae 1
 excited 1
@@ -12063,7 +12063,7 @@ ervum 2
 excommunicative 1
 excommunicator 1
 expetible 2
-exauthorate 1
+exauthorate 2
 extrication
 excoriated
 electroanalysis 3
@@ -12286,7 +12286,7 @@ ensheaths 3
 electroaffinity 1
 ensued 1
 eds 2
-emarginating 2
+emarginating 3
 ensignry 1
 evilwishing 3
 entrochus
