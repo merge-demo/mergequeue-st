@@ -8,7 +8,7 @@ gummous
 gunrooms 3
 gabber 3
 gabbers
-gobi 2
+gobi 3
 grasswork 4
 gratuities 3
 gabelles 3
@@ -1156,7 +1156,7 @@ gantelope 1
 genitors 1
 gantlet 1
 gled 3
-gantleted
+gantleted 1
 gripier 3
 grouses
 goninidia
@@ -1210,7 +1210,7 @@ guttate 3
 garfishes 4
 glaux 1
 gimcrackery 1
-gimmicking 2
+gimmicking 3
 glanders
 garrisonian 1
 glossectomies 1
@@ -2715,7 +2715,7 @@ grooms 1
 gentiopicrin
 girths 3
 gymnasisia 3
-gunfire 2
+gunfire 3
 gong 1
 gauger 3
 guestchamber 2
@@ -3114,7 +3114,7 @@ graduating
 geoscopy 2
 gordonia 1
 gelasian
-germanophobe 3
+germanophobe 4
 ghostship 1
 gutturalizing 1
 gramoches 1
@@ -3206,7 +3206,7 @@ gutti 3
 gravidate 2
 gigantism 1
 gametophytic 4
-grainedness 6
+grainedness 7
 genuses 2
 goldminer 2
 graywacke
@@ -5163,7 +5163,7 @@ gemara 6
 gentianose 4
 gena 1
 geogenesis 1
-grottesco 1
+grottesco 2
 geometricism 4
 gymnanthous 2
 guiler 3
@@ -6252,7 +6252,7 @@ gentle
 gynandrarchic 1
 glucolipin 3
 galoch
-gospelly 2
+gospelly 3
 gaillard 4
 groovier 2
 gainable 1
