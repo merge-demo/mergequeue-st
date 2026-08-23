@@ -8943,7 +8943,7 @@ dom
 daughtership 1
 duellize
 desirably
-dichotomize 1
+dichotomize 2
 despraise 4
 demographic
 demonstrably 3
@@ -10012,7 +10012,7 @@ derelictness 1
 dermatopnagic 1
 dummkopfs 2
 disbanded 3
-dimplier 1
+dimplier 2
 deadcenter
 denudement 2
 dimwittedly
@@ -12243,7 +12243,7 @@ defrication 1
 dipicrate 2
 disenchanted
 delicacies
-debarks
+debarks 1
 defogger 2
 disgracious 3
 diplegias
@@ -18131,7 +18131,7 @@ discourageable 1
 dumby
 dumbing 3
 duplon 1
-deictically
+deictically 1
 dumbstricken 1
 demisemiquaver 3
 demagnetize
