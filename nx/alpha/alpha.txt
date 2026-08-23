@@ -246,7 +246,7 @@ actable 1
 antileft 3
 apostate 2
 abraded 1
-acantholysis 2
+acantholysis 3
 adenomata
 abbreviates 2
 achariaceous 2
@@ -8193,7 +8193,7 @@ anachronous 1
 afterchrome
 algological 1
 algoman 1
-algometrical
+algometrical 1
 approachabl 1
 algometrically 3
 alictisal 1
@@ -12424,7 +12424,7 @@ amblyopic 1
 allumine
 atheroma
 armoniac 1
-amebiasis
+amebiasis 1
 aortolith 1
 absistos 1
 antiecclesiasticism
@@ -15235,7 +15235,7 @@ antifeudalistic 1
 antifeudalization 1
 autolaryngoscopy
 ankyroid
-affiancer
+affiancer 1
 androtauric 2
 antifibrinolysin 2
 antifibrinolysis
@@ -17249,7 +17249,7 @@ autopsying 1
 aspersoria
 apophlegm
 albuminiform 1
-apophlegmatic
+apophlegmatic 1
 aurure 1
 akazgin 1
 atop
@@ -23489,7 +23489,7 @@ acopic
 archdruid
 argol 2
 annotine 1
-autoincrement
+autoincrement 1
 augmentedly 2
 architraves 1
 augmenters 4
