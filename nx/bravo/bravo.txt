@@ -1163,7 +1163,7 @@ bridges
 baitfish 1
 buffeter 1
 ballard 1
-baiting
+baiting 1
 bethanking 1
 baittle
 baywoods 1
@@ -12649,7 +12649,7 @@ bonze
 butterhead 1
 bonzer 3
 betattered 2
-betided 1
+betided 2
 bushgoats 1
 bewrite
 beaklike
