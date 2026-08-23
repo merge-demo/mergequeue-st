@@ -3767,7 +3767,7 @@ batts
 blowpipe 1
 befouler 2
 boing 1
-brahmanic 1
+brahmanic 2
 blackener
 biologists 2
 bowstringed 2
@@ -4251,7 +4251,7 @@ bedung
 begaud
 begat 1
 beardless 2
-beautified
+beautified 1
 bathomania 1
 bishopbird
 breadths 2
@@ -15561,7 +15561,7 @@ beclothing 1
 bionts
 batted
 backshish 1
-beardlike 1
+beardlike 2
 berkeley
 brioches 3
 bisso 1
@@ -18247,7 +18247,7 @@ bylined 1
 bleinerite 2
 battles 2
 bacteraemia
-bases 2
+bases 3
 backfold 3
 bioreaction
 bocci
