@@ -246,7 +246,7 @@ actable 1
 antileft 3
 apostate 2
 abraded 1
-acantholysis 2
+acantholysis 3
 adenomata
 abbreviates 2
 achariaceous 2
@@ -994,7 +994,7 @@ ameland
 angoras
 abstainers 1
 abstaining
-abstains
+abstains 1
 antiserum
 assis 2
 atlantomastoid
@@ -3854,7 +3854,7 @@ adiathermancy 1
 antioxidase
 alcoranist 2
 accipitrary
-acaridea 1
+acaridea 2
 adiathetic
 adiating
 addends
@@ -8193,7 +8193,7 @@ anachronous 1
 afterchrome
 algological 1
 algoman 1
-algometrical
+algometrical 1
 approachabl 1
 algometrically 3
 alictisal 1
@@ -10194,7 +10194,7 @@ ambulatory 1
 additiment 2
 aluminas
 affluent
-apanage
+apanage 1
 ambulatories 1
 ambulatorium
 ahepatokla 1
@@ -11992,7 +11992,7 @@ amalgamize
 anaphylactically
 araliaceae 1
 anaemias
-apostrophal
+apostrophal 1
 anaphylactin 1
 anaphylactogenic
 alcibiades
@@ -12424,7 +12424,7 @@ amblyopic 1
 allumine
 atheroma
 armoniac 1
-amebiasis
+amebiasis 1
 aortolith 1
 absistos 1
 antiecclesiasticism
@@ -13135,7 +13135,7 @@ almucantar 1
 ayahs 1
 anilines
 athabascan 2
-acantholimon 1
+acantholimon 2
 anilinism 1
 ajar 1
 aeolsklavier 1
@@ -15235,7 +15235,7 @@ antifeudalistic 1
 antifeudalization 1
 autolaryngoscopy
 ankyroid
-affiancer
+affiancer 1
 androtauric 2
 antifibrinolysin 2
 antifibrinolysis
@@ -17249,7 +17249,7 @@ autopsying 1
 aspersoria
 apophlegm
 albuminiform 1
-apophlegmatic
+apophlegmatic 1
 aurure 1
 akazgin 1
 atop
@@ -18755,7 +18755,7 @@ ancientry 2
 adinidan
 attachers 1
 andesic
-axioms
+axioms 1
 arche 1
 airships
 annulose
@@ -23489,7 +23489,7 @@ acopic
 archdruid
 argol 2
 annotine 1
-autoincrement
+autoincrement 1
 augmentedly 2
 architraves 1
 augmenters 4
@@ -25108,7 +25108,7 @@ argumentation 2
 apothegms 1
 abaptistum 1
 annealed 1
-axilemmas 3
+axilemmas 4
 adenological 2
 aotearoa 1
 axillae 1
