@@ -888,7 +888,7 @@ bagful
 baggagemaster 1
 bedamning 1
 brachydome 1
-baggager
+baggager 1
 benzidin 1
 benzalcohol 2
 beffroy 1
@@ -4486,7 +4486,7 @@ bonnering 1
 becry
 becrime 1
 boilermakers 5
-buckthorn
+buckthorn 1
 bunemost 1
 brise
 buckrams 1
@@ -6584,7 +6584,7 @@ betons 2
 blastular
 bere 1
 butterbox
-brotula 2
+brotula 3
 beetlers 1
 bacharach 2
 bukh 1
@@ -15665,7 +15665,7 @@ bridlewise 3
 boza 1
 brittany 3
 brittle 3
-begrime
+begrime 1
 bunkos
 beclasping 1
 bailage 1
@@ -16153,7 +16153,7 @@ broomballer
 blasphemers
 biologic 2
 brisances
-badarian
+badarian 1
 broomiest 1
 bulletins 1
 buccocervical 3
@@ -16436,7 +16436,7 @@ barysphere
 bryanthus
 boroughs 1
 barmiest
-bewearying 3
+bewearying 4
 balsamum 1
 bridgeless
 bellibone
