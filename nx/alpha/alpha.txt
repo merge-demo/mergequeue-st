@@ -873,7 +873,7 @@ alnitak
 athrogenic
 absconce 2
 abscond 2
-absconded
+absconded 1
 amnesiac 1
 apperceptive 1
 absconder
@@ -5050,7 +5050,7 @@ avigate
 abv 1
 aerophysics 1
 areolation 2
-apologising 2
+apologising 3
 alkylogen
 anile
 aerophyte 2
@@ -5069,7 +5069,7 @@ algomic
 antiwhitism
 antipatheticalness
 anecdotically 1
-aeroplanes 1
+aeroplanes 2
 archboutefeu 1
 aeroscepsy
 achromatizing
@@ -8432,7 +8432,7 @@ algenib
 anthropophagic 1
 acuerdo 1
 achromatiaceae 2
-amoebaean
+amoebaean 1
 alix 1
 antilipoid 1
 adjusted 1
@@ -12386,7 +12386,7 @@ assiduous
 andesites 1
 archipresbyter 1
 andevo 1
-asphyxiant
+asphyxiant 1
 assisi
 andian
 automatable
@@ -16440,7 +16440,7 @@ aurei
 alwise 3
 antonomastic 2
 antonomastical
-aminopurine 3
+aminopurine 4
 aerodontia 2
 awnless
 appendixing 1
@@ -17507,7 +17507,7 @@ askance 3
 acanthodea
 appealingly 1
 agruif
-ambidextrousness 2
+ambidextrousness 3
 acuter 1
 archaicness
 appearer 1
@@ -18725,7 +18725,7 @@ archconfraternity
 agalite 2
 anticonventionally
 archcritic 2
-amblyopia
+amblyopia 1
 argonautic 1
 appmt 1
 archcrown
@@ -19393,7 +19393,7 @@ assortedness 1
 aseptify 1
 anagogically
 apothegmatically
-anthracnose
+anthracnose 1
 argenteous 1
 amphorophony
 allicins
@@ -21872,7 +21872,7 @@ astrobiology
 assyroid 1
 agly 2
 abutted 4
-assish
+assish 1
 averrhoa 1
 aculeated 1
 adapted 1
@@ -23350,7 +23350,7 @@ aurelian 1
 aubrieta
 aubrietia 1
 apotheosis
-acoelous 1
+acoelous 2
 auca 1
 anisocratic 1
 atrepsy 2
