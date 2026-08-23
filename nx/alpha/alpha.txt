@@ -5408,7 +5408,7 @@ affronts
 affuse
 alkarsine 1
 atropism 1
-affusion 1
+affusion 2
 agena
 afghan 1
 acroneurosis 1
@@ -6605,7 +6605,7 @@ auksinu 2
 awk
 abjunctive
 aidful
-aiding
+aiding 1
 adenanthera 2
 aidman
 aidmen 1
@@ -24307,7 +24307,7 @@ autophon
 acronic 2
 aftertaste 1
 althaein
-advenient 1
+advenient 2
 ablepsy 3
 anthrasilicosis
 autophotoelectric 2
