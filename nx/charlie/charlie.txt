@@ -5523,7 +5523,7 @@ catabolin
 catabolized 1
 claim
 congaing 1
-catachreses
+catachreses 1
 catachresis
 catachrestic
 chalices
@@ -5870,7 +5870,7 @@ coelongated
 catelectrode
 capstones 1
 clothesless
-colorlessness 1
+colorlessness 2
 coigning 1
 chaffier 1
 catella
@@ -6642,7 +6642,7 @@ cinematic 1
 campana 1
 ceders
 confocally 1
-cambering 1
+cambering 2
 copepods 1
 cottiers
 cedilla
@@ -12471,7 +12471,7 @@ cingulate
 chamaecrista
 cranemanship
 chromoisomer
-chromoisomeric
+chromoisomeric 1
 chamaenerion
 candelabra 1
 claviature
@@ -27212,7 +27212,7 @@ caesious 1
 callowness 1
 catholicus
 confessors 2
-collodionize 1
+collodionize 2
 consolatoriness
 countertruth 1
 chelas
@@ -29752,7 +29752,7 @@ confessory
 crookbacked 1
 crookbill
 castral
-crookedbacked
+crookedbacked 1
 cinuran 1
 commencement
 consignment 1
@@ -31734,7 +31734,7 @@ custodee
 custodians
 coenurus
 custodianship
-circuited
+circuited 1
 custodier
 custodies 2
 custom
