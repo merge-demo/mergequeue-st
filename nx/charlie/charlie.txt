@@ -1121,7 +1121,7 @@ contraprovectant
 calciobiotite
 calcioferrite
 ceratobranchial
-calcioscheelite
+calcioscheelite 1
 calciovolborthite
 calciphylactic 2
 calciphylaxis
@@ -9424,7 +9424,7 @@ cheapery 1
 chlorin
 chevon 1
 commendatory
-cheapest
+cheapest 1
 credendum
 cheapish 1
 cheaply 1
