@@ -11892,7 +11892,7 @@ contend
 chordal
 cosharer 3
 chordamesodermal
-chordamesodermic
+chordamesodermic 1
 chordate
 chorded
 chordee 1
@@ -13073,7 +13073,7 @@ countrypeople
 cyathiform 1
 connivent 3
 cyathophyllum
-cyathus
+cyathus 1
 confest 1
 cibarial
 ceroxyle 3
@@ -13395,7 +13395,7 @@ cantico
 calindas 1
 crossarm
 cyclotome 1
-cyclotomic 1
+cyclotomic 2
 camisias
 cyclotosaurus
 cecidologist
@@ -21296,7 +21296,7 @@ concettism 1
 conch
 concha 1
 corniches
-countenance 2
+countenance 3
 celiitis
 cogitated
 coterminously
@@ -26354,7 +26354,7 @@ chlore
 coccygomorphic 3
 chickening 1
 cystin 2
-costumer 1
+costumer 2
 costumers 2
 costumes
 costumic
@@ -28945,7 +28945,7 @@ cribellum
 cribose 2
 cribrate
 cribriform 1
-cribriformity 4
+cribriformity 5
 convertaplane 1
 cribs 2
 conelike
