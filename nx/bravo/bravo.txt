@@ -888,7 +888,7 @@ bagful
 baggagemaster 1
 bedamning 1
 brachydome 1
-baggager
+baggager 1
 benzidin 1
 benzalcohol 2
 beffroy 1
@@ -1196,7 +1196,7 @@ bajra 2
 bogeyed 3
 brickset 1
 beltmen 2
-baized
+baized 1
 bajury
 bonnaz 2
 braising
@@ -2230,7 +2230,7 @@ barbellate
 bibbled 1
 bemaddens
 bellicosely 1
-barato
+barato 1
 bibliolatrist
 buxaceae 1
 bontebok
@@ -3489,7 +3489,7 @@ bracket 1
 barbascoes
 barrages
 bagworms 2
-blotlessness
+blotlessness 1
 biennium
 boyla 1
 bootlick 3
@@ -4486,7 +4486,7 @@ bonnering 1
 becry
 becrime 1
 boilermakers 5
-buckthorn
+buckthorn 1
 bunemost 1
 brise
 buckrams 1
@@ -4516,7 +4516,7 @@ becrust
 becrusting 3
 bhakti 1
 bibbs 2
-byrri 3
+byrri 4
 bratina
 bro
 becudgeling 1
@@ -4619,7 +4619,7 @@ brachelytrous
 barbituism 1
 boanerges 1
 bouts 1
-beddingroll 2
+beddingroll 3
 bubble 2
 bogans
 bewilderingly 1
@@ -6584,7 +6584,7 @@ betons 2
 blastular
 bere 1
 butterbox
-brotula 2
+brotula 3
 beetlers 1
 bacharach 2
 bukh 1
@@ -7525,7 +7525,7 @@ bestower 3
 betaine 3
 businessman 1
 befell 1
-bedote
+bedote 1
 breezeless 1
 banes 1
 boehmite
@@ -9797,7 +9797,7 @@ bemixing 2
 biophysicochemical
 backstretches 1
 bystreet
-bistres 2
+bistres 3
 boeotarch 1
 brights 1
 borg 2
@@ -10351,7 +10351,7 @@ binarium
 boil 2
 boozers 1
 blame
-blamefully
+blamefully 1
 bicyclical 2
 betise 1
 blamefulness
@@ -11767,7 +11767,7 @@ bowstring 1
 bobsleded
 bigeyes
 bacteriopurpurin 1
-barrens 1
+barrens 2
 bucephala
 biology
 beringleted 2
@@ -11927,7 +11927,7 @@ bloodshedder 2
 basinasial 1
 baggily 1
 bogach 1
-becrush 1
+becrush 2
 berth 2
 bushelwoman 3
 bruins 2
@@ -12912,7 +12912,7 @@ biblicolegal 2
 blatted
 babassus 2
 burdenable 1
-birle 1
+birle 2
 bungmaker
 babka 2
 bump 3
@@ -13863,7 +13863,7 @@ byzantian 1
 burettes 3
 bunyip 1
 besaiel 1
-bottomrying 1
+bottomrying 2
 barleybird 1
 brooch 2
 biduous 3
@@ -15665,7 +15665,7 @@ bridlewise 3
 boza 1
 brittany 3
 brittle 3
-begrime
+begrime 1
 bunkos
 beclasping 1
 bailage 1
@@ -16153,7 +16153,7 @@ broomballer
 blasphemers
 biologic 2
 brisances
-badarian
+badarian 1
 broomiest 1
 bulletins 1
 buccocervical 3
@@ -16436,7 +16436,7 @@ barysphere
 bryanthus
 boroughs 1
 barmiest
-bewearying 3
+bewearying 4
 balsamum 1
 bridgeless
 bellibone
