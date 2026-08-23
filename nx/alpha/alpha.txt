@@ -17211,7 +17211,7 @@ acropetal
 agonist
 aphodus 2
 adeptship
-assistantship
+assistantship 1
 aspired 2
 althaeas
 almudes
@@ -21335,7 +21335,7 @@ asymptote
 accompletive 2
 asymptotes
 achromophilous
-antimitotic
+antimitotic 1
 asymtote 1
 aggrievement 1
 anosognosia
