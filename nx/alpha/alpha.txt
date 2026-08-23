@@ -2326,7 +2326,7 @@ aluminous 2
 adjectitious
 attempers 1
 acidaspis
-acider 2
+acider 3
 anaphoric 1
 azimech 3
 acidy
@@ -3328,7 +3328,7 @@ axal 1
 acutilobate
 arterioarctia 1
 acutiplantar
-autoluminescence
+autoluminescence 1
 acrylate 1
 assassin 1
 atomizes 1
@@ -5247,7 +5247,7 @@ affectionateness 3
 affectioned 2
 anemographic 2
 affections
-affectious
+affectious 1
 affective 1
 advocacies 2
 affectivity 1
@@ -6459,7 +6459,7 @@ agrostography
 algesthesis 2
 antivenom
 agrostologic 1
-antiresonance
+antiresonance 1
 amorado
 attempering 1
 antefixa
@@ -9491,7 +9491,7 @@ antiplague
 authentication 1
 ablating
 antiabsolutist 1
-argiopoidea 1
+argiopoidea 2
 appestats
 acupunctuate
 agrologic
@@ -11522,7 +11522,7 @@ acrinyl
 aporrhea 1
 antiphilosophism
 acaulose
-adenophore
+adenophore 1
 appetites 1
 algoristic 2
 alderman
@@ -12904,7 +12904,7 @@ angled 3
 argenol 1
 archencephalic 2
 anglehook 2
-aphthitalite
+aphthitalite 1
 anglepod 1
 anglepods 2
 amianthine
@@ -13815,7 +13815,7 @@ anoplonemertean
 archpillar
 atazir
 anoplonemertini 3
-amid
+amid 1
 arteriopalmus
 anoplura 1
 amnic
@@ -17551,7 +17551,7 @@ abhorson
 albacea 1
 atavists
 ashlars 1
-alcedo 1
+alcedo 2
 acyrology
 alunite
 alkalifying 1
@@ -24735,7 +24735,7 @@ anahita
 aviarist
 anteceding
 absinths 2
-accosted 1
+accosted 2
 adyta 1
 airest 2
 antipathogene 1
