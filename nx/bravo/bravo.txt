@@ -2066,7 +2066,7 @@ bristly 3
 biophysicist 1
 banknotes
 brasserie 1
-buffoonesque 1
+buffoonesque 2
 bicollaterality 1
 bankrolled
 babelism 2
@@ -3659,7 +3659,7 @@ bipinnately
 batlon 1
 blackball 4
 budded
-bumbleberry
+bumbleberry 1
 buccinoid
 betacism 1
 brazenfacedly 3
@@ -7373,7 +7373,7 @@ blotching 4
 bridgeward 2
 betinge
 betire
-betis 1
+betis 2
 byproduct 2
 birdbath 1
 baze 3
@@ -8112,7 +8112,7 @@ branches 1
 byronian 2
 blooper 1
 binous
-bracken 2
+bracken 3
 bidden 1
 buttal
 brum
@@ -8210,7 +8210,7 @@ beswarming
 burls
 besqueeze 2
 bifaces
-bootlicked 1
+bootlicked 2
 bifara
 bootleger 1
 bedress 1
@@ -8651,7 +8651,7 @@ bebization
 brochette 2
 bewig 1
 balcone 2
-bubalis
+bubalis 1
 blockheaded 1
 behear 1
 basins 1
@@ -9950,7 +9950,7 @@ bituminate
 bomber 1
 bituminising 1
 bituminized 2
-burnbeat
+burnbeat 1
 bucktail 1
 bedivere
 berimes 2
@@ -10653,7 +10653,7 @@ bleachworks 1
 bearableness 2
 bumblebees 2
 bleaker 1
-balanophoraceae
+balanophoraceae 1
 bandspreading
 boardinghouse 1
 bernese 2
@@ -11195,7 +11195,7 @@ bloodsuck 1
 bloomingly 3
 boleti 1
 biometer 3
-biforin 2
+biforin 3
 bellyfuls 1
 bloomless 1
 baptisia 1
@@ -12418,7 +12418,7 @@ basally 2
 bauleah 1
 bonav 1
 bests 1
-bromelin 1
+bromelin 2
 bonbo
 bowerlike 1
 bonbon 5
@@ -13614,7 +13614,7 @@ backstone
 boulimia 2
 berate
 bornyl 2
-bailiffry 2
+bailiffry 3
 biurate 1
 bodying 1
 besand 1
@@ -15119,7 +15119,7 @@ barid 2
 breastplate 4
 bret 1
 bankrolls 1
-bretesse 1
+bretesse 2
 bretschneideraceae
 budging
 bebops 1
@@ -17625,7 +17625,7 @@ basote
 blay 2
 blaeberry 2
 bunchflower 1
-burgoyne 5
+burgoyne 6
 burgomasters 1
 bullfighting 3
 burgomastership 4
