@@ -3363,7 +3363,7 @@ fossores 2
 foveolate
 frostiness 4
 fascili 1
-foulnesses 4
+foulnesses 5
 fieldleft 4
 faxes
 ferrean
@@ -4450,7 +4450,7 @@ fishpole 1
 fishpoles 2
 flueless 4
 flameproof 1
-fazed
+fazed 1
 flattie 1
 fishtailed 1
 fibrilled
@@ -9615,7 +9615,7 @@ figureless 2
 final 3
 fluter 2
 freebie 2
-frescos
+frescos 1
 farsi 3
 fleeciest 1
 freebooter 1
@@ -10684,7 +10684,7 @@ fowage 2
 fitzroy 1
 feltlike 1
 forblack 3
-flocculency 1
+flocculency 2
 fargood 2
 fivepence 1
 fitments 1
