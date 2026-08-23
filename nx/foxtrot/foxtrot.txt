@@ -1659,7 +1659,7 @@ fluidizes 1
 fathometer 1
 frypan 2
 fellest
-firesafety
+firesafety 1
 flatworm 2
 folioing 1
 fleshless 1
