@@ -1196,7 +1196,7 @@ bajra 2
 bogeyed 3
 brickset 1
 beltmen 2
-baized
+baized 1
 bajury
 bonnaz 2
 braising
@@ -3489,7 +3489,7 @@ bracket 1
 barbascoes
 barrages
 bagworms 2
-blotlessness
+blotlessness 1
 biennium
 boyla 1
 bootlick 3
@@ -12144,7 +12144,7 @@ bannets
 basti 3
 bannition
 boldos 1
-basketball 2
+basketball 3
 besmutch 2
 bugger
 bealing
@@ -13863,7 +13863,7 @@ byzantian 1
 burettes 3
 bunyip 1
 besaiel 1
-bottomrying 1
+bottomrying 2
 barleybird 1
 brooch 2
 biduous 3
