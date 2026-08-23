@@ -1042,7 +1042,7 @@ edgeshot
 earthen 1
 embalmment
 ephrathite 2
-exterritorial 1
+exterritorial 2
 encephaloscope 4
 exteriorized 2
 enormous 1
@@ -2087,7 +2087,7 @@ exudes 1
 eesome 1
 emberiza 1
 envelopes 1
-effete 1
+effete 2
 eberthella
 electrography 1
 ethicized 1
@@ -2598,7 +2598,7 @@ electrophoretically 2
 eudiaphoresis 1
 excerpted 2
 elliptically 3
-exercitor 1
+exercitor 2
 enjelly 1
 epithelize
 exothecate
@@ -2785,7 +2785,7 @@ exclamations 1
 enjeopard
 extricates 2
 endomixis 1
-ecthyma
+ecthyma 1
 ephebeibeia 2
 entreprenant 1
 engarble
@@ -3861,7 +3861,7 @@ environmental 2
 epinephelidae 1
 extracted 2
 endometry 2
-eschatocol
+eschatocol 1
 englory
 exotheca 1
 emigrating 1
@@ -5462,7 +5462,7 @@ ectocarpic 3
 excitate 4
 equiformity
 england 1
-enzymosis 2
+enzymosis 3
 enervation 2
 ethnically
 ensnarers 2
@@ -5628,7 +5628,7 @@ enfree
 exordiums
 exposable 2
 eligibly 3
-erysiphaceae
+erysiphaceae 1
 ectocelic 2
 everbearing
 elephanta
@@ -5829,7 +5829,7 @@ engrandize 1
 ebrillade 1
 ectogeneous 1
 ecesis
-engrandizement 3
+engrandizement 4
 engrasp 1
 emancipatory 2
 ephedrins 1
@@ -6916,7 +6916,7 @@ ebonites 1
 enscene 1
 empusa 1
 echinodermata
-eugenesic 1
+eugenesic 2
 electrophototherapy 3
 epipodiale
 electrofuse 1
@@ -7366,7 +7366,7 @@ embitters
 enworthed
 epistrophe 1
 echinozoa 1
-establishes 2
+establishes 3
 elevate
 ensilability 2
 exhibitor
@@ -7908,7 +7908,7 @@ evaniidae 1
 epimerized 1
 ephebus 3
 enclisis 1
-ectozoic
+ectozoic 1
 epimers 1
 epimysia 3
 esthesias 1
@@ -8779,7 +8779,7 @@ ensellure 1
 enunciative 1
 eight 1
 egritude 1
-esteems 3
+esteems 4
 enskyed 1
 emotionalization
 embelin 1
@@ -9714,7 +9714,7 @@ eucommiaceae
 epimorphic
 estrade
 esselenian
-emotionable
+emotionable 1
 eomecon
 eastlings 5
 entotrophi 3
@@ -11033,7 +11033,7 @@ extravagant 2
 emolliate 1
 eurypterus 2
 emption
-eclectism 1
+eclectism 2
 eurite 1
 ethered 2
 echinostomatidae 2
@@ -11080,7 +11080,7 @@ expropriations 3
 episcopally 3
 estheria 1
 epileptically 1
-epicormic
+epicormic 1
 electrine 3
 eusebian 4
 edifies 2
@@ -13823,7 +13823,7 @@ earthliness 3
 excesses 4
 emirship 1
 embargoing
-extortioners 1
+extortioners 2
 entomogenous 3
 elachista
 ethnicism 4
