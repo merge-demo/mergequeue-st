@@ -1350,7 +1350,7 @@ bobbles 1
 bethlehem
 bede
 bookdealer 2
-bioplastic 3
+bioplastic 4
 barrowcoat 2
 brod
 botrylle 1
@@ -17656,7 +17656,7 @@ blowier
 barrelfish 1
 bellipotent 2
 byte 1
-burked 1
+burked 2
 bonnetman 1
 belletrists
 bonier 1
