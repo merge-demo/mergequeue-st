@@ -2429,7 +2429,7 @@ betowel
 bowditch
 blinkering 3
 bromoiodide
-brotherhood 1
+brotherhood 2
 bards 1
 bardship 3
 backaching
@@ -7846,7 +7846,7 @@ botchka 1
 bearable 2
 bibelots 2
 biberon
-bipinnatisected
+bipinnatisected 1
 bibi
 bibionid 1
 brackebuschite 3
@@ -16450,7 +16450,7 @@ balsamy 3
 bogy 1
 bumicky
 brushback
-butt
+butt 1
 bladesmith 1
 buttonholder
 botas 1
@@ -17708,7 +17708,7 @@ braconid 1
 bankeress 2
 boubou 1
 broach
-beefiest
+beefiest 1
 basilyst 1
 bicornes
 buyer 3
