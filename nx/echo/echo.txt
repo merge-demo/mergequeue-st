@@ -1611,7 +1611,7 @@ expounded 2
 escape
 egret 1
 exsanguine
-emu 1
+emu 2
 egromancy 1
 emptiness 4
 egurgitate 1
@@ -4669,7 +4669,7 @@ ensphering 3
 estre
 emplaced 2
 exponentiating
-encircle 2
+encircle 3
 embrowned 2
 ensnow 1
 emittent 2
@@ -7356,7 +7356,7 @@ exotic 1
 eleotrid
 experiencing 3
 elvan 2
-encolumn 1
+encolumn 2
 elutions 2
 encheat
 escarpment
@@ -8257,7 +8257,7 @@ einstein 2
 earthwards 2
 expellers 5
 electropuncturation
-electrolyzability
+electrolyzability 1
 embryonated 1
 eluxate 2
 ependytes 2
@@ -8453,7 +8453,7 @@ exterminators 2
 electrodissolution
 eydent 2
 expansions 1
-externally 2
+externally 3
 endball
 exculpation 2
 eleemosynariness 1
@@ -9272,7 +9272,7 @@ errors 2
 estramazone 2
 ecrustaceous 1
 excerpting 5
-electroethereal 1
+electroethereal 2
 erse
 enraging
 effusiveness 2
@@ -10669,7 +10669,7 @@ exenterated 1
 equilibrating
 epergnes
 eudiometrically 3
-eudist 1
+eudist 2
 eudoxian
 exogenic
 extentions
