@@ -737,7 +737,7 @@ binful 1
 beautihood 1
 bransles 3
 berrendo 1
-breeches
+breeches 1
 bespangle
 backyard 2
 bogwort 1
@@ -2720,7 +2720,7 @@ barnman 1
 braconids 1
 barnstormer 2
 barnstorming
-besmearing 1
+besmearing 2
 borages 3
 brutalisation
 bogomile 1
@@ -4876,7 +4876,7 @@ bandcase 1
 baffing
 beduncing
 bagobo 1
-bratling 1
+bratling 2
 bewrapped 1
 badmouths 1
 bifariously
@@ -8715,7 +8715,7 @@ burler 1
 bimboes 1
 broomsquire 1
 buffe 1
-bozine 1
+bozine 2
 burds
 beliquored 1
 brachiolaria
@@ -10331,7 +10331,7 @@ blithemeat 2
 blueback
 burrknot
 bloodlines 2
-blagueur
+blagueur 1
 blains 2
 bestialize 2
 boiler
@@ -17855,7 +17855,7 @@ bus 2
 busaos 1
 bine 1
 busbar
-brizz
+brizz 1
 busbars
 barotse
 bibliopegic 2
