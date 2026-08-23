@@ -5258,7 +5258,7 @@ flavorsome
 falda 1
 fossilage 1
 fills 2
-fstore 1
+fstore 2
 fissiped 2
 flavoured 1
 fondant 3
@@ -7451,7 +7451,7 @@ foreguidance 1
 firecrest
 finner 2
 freemen 1
-flagginess 3
+flagginess 4
 fulfillments
 forcipation 2
 flutelike 2
