@@ -6395,7 +6395,7 @@ benzoylated
 becuna
 benzene
 benzoylation 1
-benzoinated 1
+benzoinated 2
 borize
 blas 1
 brinishness
@@ -8712,7 +8712,7 @@ barbet 1
 buret 1
 bestraddled 1
 burler 1
-bimboes 1
+bimboes 2
 broomsquire 1
 buffe 1
 bozine 2
@@ -10577,7 +10577,7 @@ blathers 1
 bazookamen
 biomicroscopy 1
 bivinyls 1
-bezoardic
+bezoardic 1
 bespeech 1
 baptisteries 1
 boodles
@@ -11145,7 +11145,7 @@ blunker
 brawniest
 bedikah 1
 brotan 2
-broguing
+broguing 1
 bipenniform 3
 bespit 2
 bruckled 2
@@ -16695,7 +16695,7 @@ basilisk 1
 bilaan 1
 babelish 1
 buckhounds
-bucklum
+bucklum 1
 bucky 5
 belaboring 2
 besa 4
