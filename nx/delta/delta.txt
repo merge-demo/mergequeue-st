@@ -1567,7 +1567,7 @@ dices 2
 dyssodia 1
 deadfalls
 deviler 2
-dim 1
+dim 2
 denominant
 dictyoid
 deadheartedly 3
@@ -2699,7 +2699,7 @@ decurves
 decorable 1
 deist
 delectable 3
-duetto 2
+duetto 3
 demove 1
 decorate 1
 decorating 2
@@ -16985,7 +16985,7 @@ drearness 1
 deliverability 2
 decimalist 2
 drecks 2
-diaphanotype
+diaphanotype 1
 demihorse
 dullness
 downcurve 3
