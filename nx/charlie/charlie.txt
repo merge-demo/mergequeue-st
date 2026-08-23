@@ -2545,7 +2545,7 @@ candleholder 2
 candlelighter
 chaloth
 confraternities
-copiable
+copiable 1
 candlelighting 1
 cohusband
 carvels 1
