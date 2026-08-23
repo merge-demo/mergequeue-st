@@ -2104,7 +2104,7 @@ cecils
 comdg 1
 condoles
 crunchier
-campanile
+campanile 1
 colloquiquiums
 cyclist
 campaniliform
@@ -3797,7 +3797,7 @@ cantorian
 carbide
 classicize 3
 carbyl
-catchy
+catchy 1
 cenacle
 clouters 1
 carbineer
@@ -5628,7 +5628,7 @@ catalogical 1
 carking 1
 choiceless
 carnality
-catalogist 1
+catalogist 2
 catalogistic 1
 conquinamine 3
 catalogize
@@ -17944,7 +17944,7 @@ cephalomyitis
 copulable
 chololith 2
 captiving
-colpocele
+colpocele 1
 coelectron
 centrist 1
 ciborium 2
@@ -28827,7 +28827,7 @@ cresset 2
 colima 1
 cressets
 coffee 2
-cressiest 1
+cressiest 2
 cresswort 1
 clerete 3
 coauthor
