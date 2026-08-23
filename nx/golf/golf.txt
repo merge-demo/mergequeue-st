@@ -1767,7 +1767,7 @@ gutterblood 4
 gelatinotype 2
 grippelike 1
 ghyll 2
-glutinate 2
+glutinate 3
 gestalten 1
 granodioritic 1
 gangwaymen
@@ -3958,7 +3958,7 @@ grotzen
 gymnorhinal 2
 gynaeceum 2
 gouter 2
-gesticulates 1
+gesticulates 2
 gansey 2
 ginnier 1
 graphitized 2
@@ -6050,7 +6050,7 @@ grinningly 2
 gnathopodite
 golet 4
 gneissic
-gasifying
+gasifying 1
 gruffiness 4
 gemuetlich 2
 grizelin 3
@@ -6873,7 +6873,7 @@ grunions 2
 glibly 1
 granitoidal 4
 getmesost 2
-gaonate 1
+gaonate 2
 grundified 1
 goodenia 3
 greasiness 1
@@ -10048,7 +10048,7 @@ guerites 3
 gage
 graveolency 3
 gravedigger
-gelofer 1
+gelofer 2
 gimmal 2
 gyneconitis 2
 grabens
