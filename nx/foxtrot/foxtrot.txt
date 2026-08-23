@@ -1987,7 +1987,7 @@ fibratus 1
 functionalize 3
 frigiferous 3
 filmmaker 2
-flannelette 2
+flannelette 3
 ferocactus 3
 fireball 1
 fravashi 2
@@ -3964,7 +3964,7 @@ forfends
 fingerer
 flaunch 2
 flory 3
-fingerers
+fingerers 1
 fono
 fixature 2
 florissant 2
@@ -6797,7 +6797,7 @@ forethink 1
 furcation 1
 foldcourse 2
 fictioneering
-fiberless
+fiberless 1
 folkmoots 7
 foredoomed 1
 fleshhook 2
@@ -8941,7 +8941,7 @@ foulest 1
 fjeld 1
 fiques 5
 flitty 2
-ferritins 4
+ferritins 5
 foumart 1
 fodgel
 falciparum 3
@@ -9754,7 +9754,7 @@ frenchify
 fido 2
 freakful 1
 fermery 1
-fremd 1
+fremd 2
 frenchly 2
 fafaronade
 fissionability 2
@@ -10850,7 +10850,7 @@ fulciment 2
 fs 1
 failures 2
 formicarioid 7
-fortescure
+fortescure 1
 fulcruming 2
 feeable 6
 fanatical 2
