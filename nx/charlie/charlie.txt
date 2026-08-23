@@ -2545,7 +2545,7 @@ candleholder 2
 candlelighter
 chaloth
 confraternities
-copiable
+copiable 1
 candlelighting 1
 cohusband
 carvels 1
@@ -29237,7 +29237,7 @@ cryptanalyze
 cothamore
 characetum
 capybara 1
-cryptanalyzing
+cryptanalyzing 1
 cryptarch
 cryptarchy 2
 caracols 1
