@@ -4925,7 +4925,7 @@ carsickness 2
 caviteno
 combinably 1
 ceilinged 2
-carrottop
+carrottop 1
 carstone 1
 cart
 counterpoising
@@ -19564,7 +19564,7 @@ cobblestones 2
 cankerous 1
 cos 2
 columbiferous 2
-costula
+costula 1
 chronanagram 1
 columbiformes 1
 commodate
@@ -29262,7 +29262,7 @@ cutlas
 choices 4
 cryptobranchiate 2
 collides
-ciphered
+ciphered 1
 claquer 1
 calibrate 2
 compliableness 2
@@ -29369,7 +29369,7 @@ cryptopyic 1
 cambistry
 characterizers
 cantator
-concrement 1
+concrement 2
 catalogs
 cryptoproselyte
 cryptorchis
