@@ -4429,7 +4429,7 @@ floppiest 3
 float
 frowzly 2
 feelable 3
-flossy
+flossy 1
 fraternizer 2
 fishmouth 1
 frank 1
@@ -4543,7 +4543,7 @@ fairyfolk 3
 filibranchia 2
 fishgigs 5
 fatiguing
-fealties 6
+fealties 7
 flagellation 3
 fruitcake 2
 forethinker 1
@@ -6125,11 +6125,11 @@ flounced 3
 flounder 1
 frowardness
 faraway
-faciata 2
+faciata 3
 flourish 4
 fermion 1
 funambulism 1
-frostbow
+frostbow 1
 formamide 1
 fruitarianism 2
 formalities 3
@@ -7727,7 +7727,7 @@ fossa 1
 fidessa 2
 flinchingly 3
 foreignly 1
-foreignness 2
+foreignness 3
 filigrained 2
 foreimpressed
 fallal 1
@@ -8699,7 +8699,7 @@ flaunt 1
 fumistery 1
 foretastes
 flanched 2
-folkboat 3
+folkboat 4
 featherbrained 4
 fields
 fortaxed 3
@@ -11240,7 +11240,7 @@ funiform 3
 fanum 3
 fount 1
 flashcubes
-formful 2
+formful 3
 flexuosities 3
 ferned 1
 flemished 3
@@ -11594,7 +11594,7 @@ forlanas 4
 fragmentation 2
 fusions 2
 freity 2
-floscular 4
+floscular 5
 fissional 1
 foregallery
 fussbudgety 8
