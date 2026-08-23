@@ -904,7 +904,7 @@ geognost 2
 grassfire 3
 gobioid
 gymnonoti 2
-gusseted
+gusseted 1
 goosebird 2
 gez 2
 genome 1
@@ -1211,7 +1211,7 @@ garfishes 4
 glaux 1
 gimcrackery 1
 gimmicking 3
-glanders
+glanders 1
 garrisonian 1
 glossectomies 1
 guatusan 2
@@ -3434,7 +3434,7 @@ gallophobia 3
 gourdlike 4
 gallous 1
 gentling 1
-griefful
+griefful 1
 gip 5
 glathsheim 2
 girny 2
@@ -3584,7 +3584,7 @@ gossipy 2
 gro 2
 gastroenterological
 gluconeogenic 1
-goldest
+goldest 1
 gauntleted
 gridirons 3
 gillnetting 1
@@ -9420,7 +9420,7 @@ gingivoglossitis 2
 gingerliness 3
 gingles 2
 glycollide 7
-gabionage 4
+gabionage 5
 groupies 1
 graying
 ghastfully 1
