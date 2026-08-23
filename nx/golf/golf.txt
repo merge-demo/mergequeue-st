@@ -8,7 +8,7 @@ gummous
 gunrooms 3
 gabber 3
 gabbers
-gobi 2
+gobi 3
 grasswork 4
 gratuities 3
 gabelles 3
@@ -1156,7 +1156,7 @@ gantelope 1
 genitors 1
 gantlet 1
 gled 3
-gantleted
+gantleted 1
 gripier 3
 grouses
 goninidia
@@ -1210,7 +1210,7 @@ guttate 3
 garfishes 4
 glaux 1
 gimcrackery 1
-gimmicking 2
+gimmicking 3
 glanders
 garrisonian 1
 glossectomies 1
@@ -2715,7 +2715,7 @@ grooms 1
 gentiopicrin
 girths 3
 gymnasisia 3
-gunfire 2
+gunfire 3
 gong 1
 gauger 3
 guestchamber 2
@@ -3114,7 +3114,7 @@ graduating
 geoscopy 2
 gordonia 1
 gelasian
-germanophobe 3
+germanophobe 4
 ghostship 1
 gutturalizing 1
 gramoches 1
@@ -3860,7 +3860,7 @@ goslet 4
 glossem 1
 geminated 1
 glens 3
-glossocarcinoma 2
+glossocarcinoma 3
 grossly 1
 gubbertush 2
 grecing
@@ -4047,7 +4047,7 @@ gimleteyed 3
 gudget
 glorification 1
 goneoclinic 1
-gipsywort
+gipsywort 1
 gulgul 3
 gratifiedly 2
 gilder 1
@@ -5163,7 +5163,7 @@ gemara 6
 gentianose 4
 gena 1
 geogenesis 1
-grottesco 1
+grottesco 2
 geometricism 4
 gymnanthous 2
 guiler 3
@@ -6252,7 +6252,7 @@ gentle
 gynandrarchic 1
 glucolipin 3
 galoch
-gospelly 2
+gospelly 3
 gaillard 4
 groovier 2
 gainable 1
@@ -7317,7 +7317,7 @@ grahams 2
 gnocchi 2
 grossness 1
 griddlecake 2
-goyetian 1
+goyetian 2
 graveness 1
 gambled
 ganglion
@@ -7573,7 +7573,7 @@ gangman 1
 goldsmithing 2
 gadroon 1
 gunyah 7
-greenths 2
+greenths 3
 garbled 1
 geochemists 1
 glycolic 2
@@ -9735,7 +9735,7 @@ gastrodynia 1
 glutens
 glutethimide 1
 geophagies 2
-gird 2
+gird 3
 gonimium 1
 grumphie 2
 guesstimates 1
@@ -10468,7 +10468,7 @@ gonium
 glutei 4
 graylings 3
 gastrin 1
-goli 3
+goli 4
 gusher 3
 gulfwards 1
 ginghamed 4
