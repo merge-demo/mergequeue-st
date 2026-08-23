@@ -285,7 +285,7 @@ fiddlesticks 1
 fleabitten 2
 fertilization 2
 forehall 1
-frescoist
+frescoist 1
 forthputting
 foaming 2
 faired 1
@@ -907,7 +907,7 @@ foragers 1
 fed 3
 fasola 1
 fourchite
-fortunateness 4
+fortunateness 5
 forms 2
 flightless 1
 faxing 1
@@ -2459,7 +2459,7 @@ filiform 2
 fielding 3
 falla 3
 fornax 1
-ferruginated 2
+ferruginated 3
 flowable
 fungal 2
 foliocellosis 1
@@ -2917,7 +2917,7 @@ fanciable 1
 fumigations
 fabianist 2
 fortressing
-footmark
+footmark 1
 frizzen 4
 ferox
 factoring 1
