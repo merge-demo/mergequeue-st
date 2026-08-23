@@ -77,7 +77,7 @@ eulalia 2
 etiophyllin
 eristic
 earmarkings 1
-earmuff 2
+earmuff 3
 earnable
 ecclesiology 2
 extendable 3
@@ -629,7 +629,7 @@ eluviating 1
 etwees
 elocute 1
 entomophily
-entoderm
+entoderm 1
 ehrman 2
 enchantments 1
 etatism
@@ -1167,7 +1167,7 @@ education 3
 edulcorating 1
 enscroll 2
 ensweep 3
-educational
+educational 1
 estipulate
 exultancy 2
 ekoi 1
@@ -2617,7 +2617,7 @@ electroplater 1
 engraved 1
 electropower 3
 embodying 3
-excitably
+excitably 1
 euphemiously
 eximiously 1
 electroreduction 1
@@ -3576,7 +3576,7 @@ embossman 1
 esophagoplegia 2
 enchantery
 emanent 1
-edifier
+edifier 1
 electrolytical
 extracellularly 2
 excelsin 1
@@ -5467,7 +5467,7 @@ enervation 2
 ethnically
 ensnarers 2
 encirclements
-enetophobia
+enetophobia 1
 enfaces 1
 eradicates 2
 earthshattering
@@ -8020,7 +8020,7 @@ empeopled 2
 emerize 2
 embodied 2
 epiphytic
-extensum 1
+extensum 2
 empaling
 eaglehawk 1
 epiglottidean 1
@@ -8628,7 +8628,7 @@ emphyteuta 1
 elutriating 2
 emergently
 etherialised 2
-entoperipheral
+entoperipheral 1
 equinate 1
 enameller 3
 emerging 3
@@ -10579,7 +10579,7 @@ ethrog 1
 enacted 4
 ergatandromorphic 2
 erotomania 4
-ewry 1
+ewry 2
 epephragmal 1
 enthusing 2
 exhibitory 3
@@ -13602,7 +13602,7 @@ ergusia 1
 exsolving 1
 epochs 2
 exposedness 1
-energies 1
+energies 2
 ebeneous 2
 exsudate 2
 embowelling 1
@@ -14192,7 +14192,7 @@ extracapsular 4
 enqueues 3
 eupanorthus
 exfetation
-enterococci 4
+enterococci 5
 ectosome
 esthetics 1
 epulation 2
