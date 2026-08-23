@@ -661,7 +661,7 @@ epilogate 1
 embowment 1
 expand 1
 eubasidii 1
-elmiest 3
+elmiest 4
 enhance 2
 envier 1
 eclogic 3
@@ -1054,7 +1054,7 @@ edible 2
 expeditive 1
 embase 1
 epicondylar 2
-embeddable
+embeddable 1
 epistolic
 echinology 1
 elective
@@ -4574,7 +4574,7 @@ enchymatous 1
 enaction 3
 ephebeia
 erotics 2
-enchytraeid 3
+enchytraeid 4
 ectozoa 2
 emceing 5
 enchytraeus
@@ -5666,7 +5666,7 @@ excitonutrient
 engastrimythic 1
 evening
 engelmannia 1
-electricians 1
+electricians 2
 estrual 1
 engenders 2
 extravagantes
@@ -6464,7 +6464,7 @@ evincingly 3
 exstruct
 euphonicalness
 entocyst 4
-enlivens 2
+enlivens 3
 erubescence 2
 excludable 3
 englerophoenix 3
@@ -6706,7 +6706,7 @@ erythraemia 1
 enthronizing 4
 emerit 10
 evacuation 1
-eleomargaric 1
+eleomargaric 2
 ediface 2
 extrinsical 1
 enthusiasms
@@ -10377,7 +10377,7 @@ enjambed 1
 exactment 1
 endeavoured 1
 exophagy 1
-ecclesiastical 1
+ecclesiastical 2
 emperorship
 ethologists 1
 euphonical 4
@@ -12668,7 +12668,7 @@ essancia 1
 exceptant
 egurgitating 1
 excussio 2
-exoenzyme
+exoenzyme 1
 enterobacterial 1
 esrogim
 ephete
@@ -14149,7 +14149,7 @@ endearment 1
 entrails 1
 epitaphic
 evensongs 4
-encomium
+encomium 1
 evenwise 1
 englishwoman 1
 electly 3
