@@ -2187,7 +2187,7 @@ camphory 1
 camphoryl 2
 corgi 2
 camphoroyl 2
-clerkliest 2
+clerkliest 3
 camporee 1
 camphorone 1
 congressmen 3
@@ -24141,7 +24141,7 @@ coassignee
 chedites 1
 conformation
 conference 1
-convertiplane
+convertiplane 1
 convertise
 convertism
 convertite 1
@@ -25047,7 +25047,7 @@ cordicole
 cordillera
 carbonizes
 cordilleran
-cordilleras
+cordilleras 1
 cordinar
 cordlessly 2
 crucifyfied
