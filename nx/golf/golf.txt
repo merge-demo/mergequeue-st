@@ -631,7 +631,7 @@ gabionage 1
 gardenesque 2
 gastaldo 4
 gerodontia 5
-gasometry 1
+gasometry 2
 gaults 1
 gestatorial 2
 ghostlify 5
@@ -1293,7 +1293,7 @@ gunnels 5
 gable 1
 ginkgo 2
 gloria 2
-gestation 1
+gestation 2
 grandpa 1
 garefowl 2
 gyrene 1
@@ -1524,7 +1524,7 @@ gearless 2
 granddaughters 3
 graecomania 3
 gazump 3
-grimgribber 2
+grimgribber 3
 gastrologist 3
 goatpox 4
 grounder 1
@@ -3128,7 +3128,7 @@ guerilla 1
 geochronologist 2
 guardiancy 1
 germina
-grusian 4
+grusian 5
 gynophore 1
 gauloiserie 5
 geotechnic 1
@@ -3297,7 +3297,7 @@ grooverhead 1
 gerundial 2
 gentlewomanlike 2
 germier 2
-goatsfoot 5
+goatsfoot 6
 gasan 1
 gaetulian 1
 gomorrean
@@ -5415,11 +5415,11 @@ gephyrean 1
 golaseccan 2
 gynophagite 2
 giftlike
-gaea 1
+gaea 2
 glial 3
 glyptolith 4
 galvanocontractility 1
-grotesques 2
+grotesques 3
 girsle 4
 gallah 3
 gluing
@@ -7108,7 +7108,7 @@ gestates 1
 gasterotrichan 2
 granger
 gambrels 1
-gopherberry 4
+gopherberry 5
 guernsey
 gopherberries 4
 gothics 1
@@ -8564,7 +8564,7 @@ gravers
 gigsmen 2
 girliness
 gravette 1
-gaufrette 2
+gaufrette 3
 garni 1
 goniatitidae 2
 gith 2
@@ -10862,7 +10862,7 @@ gweeon 1
 growlers 3
 girds 4
 geomagnetician 2
-gush 1
+gush 2
 gyri 2
 gastropancreatitis 1
 graduation 1

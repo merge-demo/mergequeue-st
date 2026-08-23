@@ -305,7 +305,7 @@ devchar 1
 disembowelment 1
 disgruntling
 dollfaced 1
-daybill
+daybill 1
 disinteress 3
 dourine 3
 dalasi 1
@@ -1561,7 +1561,7 @@ drail 1
 deaden 1
 droops 3
 docked 1
-diadelphian 2
+diadelphian 3
 drippings
 dices 2
 dyssodia 1
@@ -3081,7 +3081,7 @@ delightfully
 disagrees 1
 defaces 2
 disennoble 1
-defacing 2
+defacing 3
 defacto
 defade 1
 dichlamydeous 3
@@ -3828,7 +3828,7 @@ dephlegm
 deselects 2
 disinteresting 1
 dissceptred 1
-decorationist
+decorationist 1
 deionizer 2
 deipnophobia 2
 disembarkations
@@ -5628,7 +5628,7 @@ dragees
 discommodate
 dispiritedness 2
 depilating 2
-depilatories
+depilatories 1
 deists 1
 discos 3
 decerniture
@@ -9026,7 +9026,7 @@ dermatoplast 2
 dicoumarol
 distantness 1
 dicranaceous
-denigrate 1
+denigrate 2
 dextrinous 3
 decatholicize
 diverter 2
@@ -10414,7 +10414,7 @@ diphenylaminechlorarsine 1
 diervilla 2
 diastoles 2
 diphenylene
-dessus 2
+dessus 3
 despend 3
 decodable
 diphenylenimine
@@ -11973,7 +11973,7 @@ difforme
 disencharm
 doctrix
 dotting 2
-disenclose 1
+disenclose 2
 daint
 diammine 2
 drawbolt
@@ -17020,7 +17020,7 @@ demipillar 1
 dendrocoela
 disjoined 1
 diacritically 3
-displenish 2
+displenish 3
 dregs 1
 dreidels 2
 dreikanter 2
@@ -18544,7 +18544,7 @@ drivage 2
 diagraphic 1
 desulfurization
 darbs 2
-disrates
+disrates 1
 durians 1
 differ 1
 duricrust
