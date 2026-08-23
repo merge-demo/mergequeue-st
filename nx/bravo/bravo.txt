@@ -3418,7 +3418,7 @@ broche
 bartramiaceae 3
 bittor 1
 boehmenism 1
-bryophytic
+bryophytic 1
 benzalazine 2
 burghership
 byrrus 2
@@ -3745,7 +3745,7 @@ brucella 2
 barnstorms 2
 battler 1
 battleships
-blushiness
+blushiness 1
 battlesome 2
 brigantes 1
 battlestead 1
@@ -4086,7 +4086,7 @@ bedeafen 1
 beaner
 bolewort 1
 beanfield 1
-bardling 1
+bardling 2
 brontosaurs
 bronchomucormycosis
 beriberic
@@ -6994,7 +6994,7 @@ besmouch 2
 bloodying 2
 bacteritic
 besmudge 1
-beamless 1
+beamless 2
 bronzite 1
 bespouses
 boxhaul 1
@@ -10011,7 +10011,7 @@ bizarrerie 1
 bield
 broody 1
 barbell 2
-bn 1
+bn 2
 baroscopical
 bargainor 1
 biverb
@@ -11899,7 +11899,7 @@ boedromion 1
 brevirostrate
 backtrail
 besmutting 1
-barabora
+barabora 1
 boron 1
 boatlip 1
 borgh 2
