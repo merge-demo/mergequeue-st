@@ -4800,7 +4800,7 @@ confides
 clitellus
 carpology
 corrosibility 1
-circensian 1
+circensian 2
 corynocarpaceae
 calicular 1
 cottonee 1
@@ -7100,7 +7100,7 @@ casziel
 canton 1
 caliculus
 centimetre 1
-cashmerette 1
+cashmerette 2
 centimetres 2
 centimo
 commonplaceism 1
@@ -9844,7 +9844,7 @@ crinet
 cryptogenic
 chemisette
 chemism
-choosy 2
+choosy 3
 cochlospermum 1
 chemisorb
 coprophilic 1
@@ -13138,7 +13138,7 @@ cytogenies 2
 cudgelled
 cicatrice 1
 colocolo
-cicatrices
+cicatrices 1
 cicatricle 1
 chamberdeacon 2
 copastorate
@@ -13482,7 +13482,7 @@ cloying 1
 cilia 1
 cloakedly 1
 ciliate
-ciliated
+ciliated 1
 ciliately 1
 coolish
 ciliates 1
@@ -13628,7 +13628,7 @@ cimmerianism 1
 cymodoceaceae 1
 counterirritate 2
 churrigueresco
-condominiia 1
+condominiia 2
 cymograph
 cornerstones 1
 complexionist 2
@@ -14415,7 +14415,7 @@ charquis
 cannot
 cyriologic
 concord 1
-caddoan
+caddoan 1
 connotively 1
 continuity 1
 cirques 4
@@ -16792,7 +16792,7 @@ clover
 cloverlay
 citizen
 clupeidae 1
-cloverleafs 2
+cloverleafs 3
 cloverleaves
 cloverley
 cycadophyte
@@ -21184,7 +21184,7 @@ concento
 concolor 1
 chemicobiological 2
 concentrated
-concentrates
+concentrates 1
 clamatores
 commensalist
 concentrations
