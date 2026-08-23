@@ -2561,7 +2561,7 @@ forequarter 4
 fluvicoline
 fleerer 1
 flimp
-ferricyanide 2
+ferricyanide 3
 fervency
 freshmanship 1
 feedsman 1
@@ -4739,7 +4739,7 @@ faldfee 2
 forthink
 fablemongering 4
 forestry 1
-fiscality
+fiscality 1
 flo
 fertil 1
 furtherest 3
@@ -5129,7 +5129,7 @@ furler 2
 fregit 3
 farmhousey 3
 fraile 2
-flashings 1
+flashings 2
 fulgently 1
 flashlight 3
 frizzly 1
@@ -7835,7 +7835,7 @@ feltyflier 6
 fleamy
 fashionableness
 felonwood 3
-fowlerite
+fowlerite 1
 foreordinate 1
 floridian
 forespent 3
@@ -8298,7 +8298,7 @@ feldspars 2
 fistulated 3
 fulltime 4
 father 1
-fructuose 1
+fructuose 2
 flushest 3
 forgettably
 faverole 4
