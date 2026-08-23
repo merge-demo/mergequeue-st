@@ -607,7 +607,7 @@ empyreumatic 1
 epipaleolithic 1
 emblic 1
 evincement
-eclamptic
+eclamptic 1
 efficacious
 extuberate 3
 epizoites 2
@@ -1413,7 +1413,7 @@ etherified 2
 essenced
 ebrious 3
 enormousness 1
-entodermal 2
+entodermal 3
 epipodialia 1
 entoretina 2
 erythrocytolytic 2
@@ -3617,7 +3617,7 @@ engravement
 embraid
 emotions 1
 embrail
-empowers 2
+empowers 3
 exactiveness 1
 embranchment 2
 ellick 3
@@ -6167,7 +6167,7 @@ entocondyloid 2
 elision
 endanger 2
 ennoblement
-euryhaline
+euryhaline 1
 ennobling 2
 embarren 1
 ensteel
@@ -6507,7 +6507,7 @@ enwrapt 1
 earsore 1
 epaenetic 2
 entanglements 1
-extraplanetary 2
+extraplanetary 3
 egophonic
 entangles
 empanel 2
@@ -9221,7 +9221,7 @@ ethnolinguistic
 epizzoa 3
 eulogists 2
 ectotropic
-eloquential 3
+eloquential 4
 educationalist 1
 extrapleural 2
 extrapolative 1
@@ -10747,7 +10747,7 @@ eulachan 1
 ensulphur 3
 ennedra 1
 embedder 2
-epornitic
+epornitic 1
 eulachans 3
 eulamellibranchiata
 exanthemas 2
@@ -12231,7 +12231,7 @@ emeraude 2
 enthroning 1
 empiriocritical 3
 exercent 1
-ephemera 1
+ephemera 2
 execute 2
 executed 3
 exceptor 1
