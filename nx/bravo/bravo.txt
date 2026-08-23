@@ -110,7 +110,7 @@ babillard 1
 babylon
 backtrace
 blushes
-babylonize 2
+babylonize 3
 becard 2
 brassily 1
 biological 2
@@ -1253,7 +1253,7 @@ barkers 1
 bala 1
 bedabbled 2
 balabos 1
-bashfully
+bashfully 1
 barrabkie
 balachong
 bambacciata 1
@@ -3006,7 +3006,7 @@ brotherless 3
 brahma
 blackjacks
 bartended
-barrera
+barrera 1
 bigamistically
 beared 2
 bidirectionally
@@ -7329,7 +7329,7 @@ biangular
 boatels
 babirussa
 bethink
-boatswain 2
+boatswain 3
 bootstrapping
 bunglers
 bacteririum 1
@@ -8035,7 +8035,7 @@ blastomere 1
 breathiest 1
 bumping 1
 bleakish
-brooming
+brooming 1
 babble 1
 bicolorous
 betrayal
@@ -12224,7 +12224,7 @@ bollworm 1
 blizzardly
 bolo 1
 bicron 2
-bogberries
+bogberries 1
 baloo 1
 bicarbide
 buckhound
@@ -12543,7 +12543,7 @@ bonhomies 1
 boni
 bony
 bisbeeite
-burtonize 2
+burtonize 3
 bloodshot
 barnage 2
 balsamroot 3
