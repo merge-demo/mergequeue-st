@@ -4963,7 +4963,7 @@ facepiece 1
 floorages 1
 flamingant 2
 foremarch 2
-flaminical 2
+flaminical 3
 fomenters 2
 flowcharting 1
 fintadores 4
@@ -6559,7 +6559,7 @@ fluxile 4
 finochio 4
 fluxionist 3
 fluxive 1
-fouett
+fouett 1
 footcloth 4
 fetiales 2
 fissions
@@ -11140,7 +11140,7 @@ fisticuffs 1
 franca 1
 forecarriage 2
 flagellums 1
-forbiddance 2
+forbiddance 3
 feuars 2
 fauteuils 1
 fedellini 3
@@ -11694,7 +11694,7 @@ fagaceous 1
 faced 2
 flippancy 2
 fanlights 3
-flapcake 2
+flapcake 3
 foredispose 1
 filets 1
 fracas
