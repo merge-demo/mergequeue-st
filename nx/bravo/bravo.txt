@@ -798,7 +798,7 @@ boltheads 1
 badnesses 2
 bradylogia 1
 bads 2
-bicetyl
+bicetyl 1
 beeline
 bibliotherapy
 bethorn 1
@@ -4078,7 +4078,7 @@ buckwash
 bskt 1
 baragnosis 1
 blitzkrieged 3
-beams
+beams 1
 bean 1
 boldness
 begottenness 1
@@ -4327,7 +4327,7 @@ bradykinin
 because
 blateration 2
 beccabunga
-beefer 1
+beefer 2
 blatch
 birrettas 3
 beccafico 1
@@ -6118,7 +6118,7 @@ begay 1
 balaneutics 1
 benedicks 1
 benedicta
-bletonism 1
+bletonism 2
 buhlworks 2
 beid
 blepharodyschroia 2
@@ -8892,7 +8892,7 @@ biocenosis 1
 burgraviate 3
 basket
 branchiopodan 2
-belialist 2
+belialist 3
 biochemic 1
 bromvogel
 boeotian 1
@@ -11402,7 +11402,7 @@ breams 2
 bandits 2
 bluebottle
 badinaged 1
-bouncily
+bouncily 1
 bitterworm 1
 babi 3
 build 1
@@ -11448,7 +11448,7 @@ bedrail 2
 brattices 2
 brininess
 baselessly 3
-butyraldehyde 5
+butyraldehyde 6
 beclowns 1
 boatheader
 bairnliest 2
