@@ -1940,7 +1940,7 @@ acetars 1
 acetation 2
 axillas 2
 apostolicity 3
-acetenyl 1
+acetenyl 2
 actinostomal
 acethydrazide 2
 acetylization
@@ -3402,7 +3402,7 @@ andean 3
 allosyndesis
 argestes
 antihierarchic 2
-arborescence 1
+arborescence 2
 adamite 2
 anselmian 2
 acanthocereus
@@ -16779,7 +16779,7 @@ albatros 2
 adultoid 1
 aphydrotropic
 adepts 2
-aphydrotropism
+aphydrotropism 1
 aphilanthropy
 aphylly 1
 abidi 2
@@ -24575,7 +24575,7 @@ auxoamylase 2
 autofecundation 1
 auxocardia 2
 aneurismally
-auxochrome
+auxochrome 1
 antistimulation
 auxochromous 1
 attitudinise

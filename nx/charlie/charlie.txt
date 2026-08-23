@@ -2321,7 +2321,7 @@ canalatura
 completer 1
 canalboat
 charales
-canale
+canale 1
 canaled
 cithrens 2
 carthaginian
@@ -10918,7 +10918,7 @@ chirms
 crumena
 chirocosmetics 1
 chirogale
-chirogymnast
+chirogymnast 1
 cautel
 cornu 1
 chondrigen 2
@@ -16867,7 +16867,7 @@ corosif
 chiccory 1
 coexists 1
 crosswort
-clubroom 1
+clubroom 2
 casebooks 1
 clubroots 1
 clubs
@@ -29239,7 +29239,7 @@ characetum
 capybara 1
 cryptanalyzing 1
 cryptarch
-cryptarchy 2
+cryptarchy 3
 caracols 1
 crypteroniaceae
 cryptical 2
@@ -30055,7 +30055,7 @@ casualties
 cinchonate 2
 counterparts 1
 cognising 1
-croupiers
+croupiers 1
 croupiest
 croupiness
 croupon 1
