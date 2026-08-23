@@ -6787,7 +6787,7 @@ cubhood
 cerianthoid
 clearway
 celioparacentesis 2
-cerinthian 1
+cerinthian 2
 cowshard
 capless 1
 celioscope
@@ -7190,7 +7190,7 @@ centrifuge
 centrifugence 1
 centrifuging
 coffeehousing 1
-centring 1
+centring 2
 clivia
 chalazogam 1
 confiture 2
@@ -7972,7 +7972,7 @@ caravansaries 2
 camphoraceous
 chaccon
 cymraeg
-chackchiuma 1
+chackchiuma 2
 cannelon 1
 chackle
 cachets
@@ -10903,7 +10903,7 @@ counteradvise
 chiriguano
 chirimia
 cathedralwise
-chirino
+chirino 1
 chirk
 chirkest 1
 chirking
@@ -14078,7 +14078,7 @@ cleruchial
 capivi 1
 corpuscle
 circe 1
-circean 2
+circean 3
 circinate
 coxcombs
 chirinola
@@ -17116,7 +17116,7 @@ crasser 1
 coadminister
 civic
 coadministratrix 1
-catalyzers
+catalyzers 1
 coadmiration
 cuphead
 carboxylase 1
@@ -17419,7 +17419,7 @@ cobaea
 corbeil 1
 cotters 1
 cobalamin
-comb
+comb 1
 cobalt 1
 cobaltamine 2
 complanation 2
@@ -18887,7 +18887,7 @@ coliseum 2
 chancelor 1
 colossus 1
 charlatanship
-cestoid
+cestoid 1
 colistin
 coypou 1
 colitic
@@ -19182,7 +19182,7 @@ cineritious 1
 colloquializer
 colloquially
 colloquialness 2
-charked 1
+charked 2
 colloquiquia 1
 cataracteg
 ctenoidian
@@ -28455,7 +28455,7 @@ creasers 1
 creases 2
 creashaks
 chevachie
-creasier 1
+creasier 2
 curiegram 1
 consistory 1
 creasot 1
