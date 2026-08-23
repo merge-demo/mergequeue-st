@@ -2590,7 +2590,7 @@ ferroelectric 3
 fribblery 1
 fattier 3
 ferrogoslarite 5
-forcet 2
+forcet 3
 franked
 foud 4
 fossicked 3
@@ -4477,7 +4477,7 @@ foreloop 1
 fishspear 3
 fantocine 3
 fluffier
-fountainwise 2
+fountainwise 3
 frangulin 1
 fluctuant 5
 ferrotitanium 3
@@ -9272,7 +9272,7 @@ frayedness
 flagmaking 1
 flashier 4
 finnac 1
-forpining 1
+forpining 2
 frivolism 2
 frillback 2
 fetuses
