@@ -775,7 +775,7 @@ expositions 1
 expensiveness 3
 electrobus 3
 exsuperance 1
-encaged 2
+encaged 3
 exadverso
 endosulfan 2
 earthmaking 1
@@ -1148,7 +1148,7 @@ electrotyped 1
 ejaculators 1
 expectancies 1
 edriophthalmatous
-educand
+educand 1
 evanished 1
 emicate 1
 educatability 1
@@ -1553,7 +1553,7 @@ eyeballed 3
 eupeptically 2
 ensconces
 enervates 2
-elaphebolion
+elaphebolion 1
 extraversion 1
 encampment 3
 epinasty 1
@@ -2580,7 +2580,7 @@ exudatory 1
 exhilarator 2
 erythroblastosis 4
 emeraldine 2
-eirenicon 2
+eirenicon 3
 essaying
 embassies 1
 elysian 2
@@ -3431,7 +3431,7 @@ ennuyant 1
 ecalcavate 2
 errand
 exolete
-exemplar
+exemplar 1
 embatholithic
 enfiladed
 editorializes 2
@@ -5475,7 +5475,7 @@ elizabethans 2
 elatedly
 elucubrate 1
 experimentalism 1
-edentulate
+edentulate 1
 episporangium
 enfatico 1
 enfeeblements
@@ -5730,7 +5730,7 @@ englacial 3
 enamoredness 2
 expose
 embossments 4
-esophagomalacia 2
+esophagomalacia 3
 emaciation 2
 expective 3
 eddying 1
@@ -6300,7 +6300,7 @@ euclidean 1
 ens 2
 emmenagogue 1
 erythroblast 1
-elenchtic 1
+elenchtic 2
 extrametaphysical 1
 ensanguine
 eloquent 1
@@ -11424,7 +11424,7 @@ eventuating 1
 epicyemate 2
 evernioid 3
 evictors 1
-effendi 2
+effendi 3
 epileptogenous 6
 exsputory
 evergreens
@@ -13213,7 +13213,7 @@ expirate
 endostracal 1
 echinopsine
 expiration 1
-exponentiation
+exponentiation 1
 epaxial
 exotica 2
 emmantle
