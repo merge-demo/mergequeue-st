@@ -1659,7 +1659,7 @@ fluidizes 1
 fathometer 1
 frypan 2
 fellest
-firesafety
+firesafety 1
 flatworm 2
 folioing 1
 fleshless 1
@@ -5980,7 +5980,7 @@ freeloader
 ferguson
 favism 3
 firkin
-fawn 3
+fawn 4
 forecasters 4
 footscald
 foisty 2
@@ -8023,7 +8023,7 @@ foreslow 1
 frumpled 2
 flirtational 1
 flatteur 1
-fluminose 3
+fluminose 4
 fingerless 3
 fixgig 3
 feminises 2
