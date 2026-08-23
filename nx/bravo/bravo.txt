@@ -2429,7 +2429,7 @@ betowel
 bowditch
 blinkering 3
 bromoiodide
-brotherhood 1
+brotherhood 2
 bards 1
 bardship 3
 backaching
@@ -6176,7 +6176,7 @@ blackhead 3
 bashyle 2
 blushful 2
 benefiting 2
-blotchy 1
+blotchy 2
 bedclothing 2
 bouchaleen
 bacteriologies 1
@@ -7846,7 +7846,7 @@ botchka 1
 bearable 2
 bibelots 2
 biberon
-bipinnatisected
+bipinnatisected 1
 bibi
 bibionid 1
 brackebuschite 3
@@ -8375,7 +8375,7 @@ buzukis 2
 beatster 1
 benzocoumaran 1
 bignou
-betask 1
+betask 2
 bygo 1
 bygone
 bist 1
@@ -15140,7 +15140,7 @@ balter 2
 bulging 1
 berlina 2
 bushbuck 2
-breviconic
+breviconic 1
 bunkered 1
 brevilingual 1
 bestirring 2
@@ -16450,7 +16450,7 @@ balsamy 3
 bogy 1
 bumicky
 brushback
-butt
+butt 1
 bladesmith 1
 buttonholder
 botas 1
@@ -17708,7 +17708,7 @@ braconid 1
 bankeress 2
 boubou 1
 broach
-beefiest
+beefiest 1
 basilyst 1
 bicornes
 buyer 3
