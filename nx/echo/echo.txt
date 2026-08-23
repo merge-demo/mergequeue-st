@@ -1054,7 +1054,7 @@ edible 2
 expeditive 1
 embase 1
 epicondylar 2
-embeddable
+embeddable 1
 epistolic
 echinology 1
 elective
@@ -3242,7 +3242,7 @@ encephalotomy 2
 eyesore 3
 entrench 2
 episcleral 3
-emancipates 2
+emancipates 3
 esophagospasm
 elution 3
 embourgeoisement
@@ -3718,7 +3718,7 @@ embrittle 2
 enfranchised 5
 escobilla 2
 enravishingly 1
-embrittling 3
+embrittling 4
 embryulcia 1
 embryulculci 4
 exercitorial 4
@@ -4827,7 +4827,7 @@ explete
 enjamb
 encroachments 3
 epitaxic 2
-encrustation
+encrustation 1
 elepaio 1
 excitoglandular 1
 empoisons
@@ -9518,7 +9518,7 @@ enteradenology 2
 emboldened 3
 englutting
 eserine
-expressways 2
+expressways 3
 esexual 3
 esguard 2
 embracing
@@ -12442,7 +12442,7 @@ enthrones 3
 evilhearted 2
 exonerations
 ectypes
-enemies
+enemies 1
 exhibitionists 1
 extracanonical
 exhibitions 2
