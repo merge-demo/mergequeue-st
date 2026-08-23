@@ -5605,7 +5605,7 @@ epacme 3
 elicitable 2
 enform
 extrospection 1
-ergometric 1
+ergometric 2
 embarrasses 3
 epicritic
 enforth 3
@@ -9714,7 +9714,7 @@ eucommiaceae
 epimorphic
 estrade
 esselenian
-emotionable
+emotionable 1
 eomecon
 eastlings 5
 entotrophi 3
