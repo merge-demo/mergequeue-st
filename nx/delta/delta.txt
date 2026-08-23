@@ -6355,7 +6355,7 @@ diplotene
 disassociation 1
 dorsiventral 1
 distortedness
-derodidymus 2
+derodidymus 3
 derog
 demeanour
 doronicum 1
@@ -10417,7 +10417,7 @@ diphenylene
 dessus 3
 despend 3
 decodable
-diphenylenimine
+diphenylenimine 1
 ditcher 2
 dug 1
 divider 1
@@ -13823,7 +13823,7 @@ dodecanesian 1
 driftpin 2
 dogvane
 decapod 1
-diamondizing 2
+diamondizing 3
 digram 1
 dindle
 distain 1
