@@ -2232,7 +2232,7 @@ gospeller 1
 gangrel 1
 grandpaternal 2
 glamoury 2
-gigantoblast
+gigantoblast 1
 gunroom
 gladlier 1
 goodyship 1
@@ -5205,7 +5205,7 @@ geniculate 1
 gab 3
 gorgonzola 2
 gamecraft 2
-garten
+garten 1
 gentilic 1
 gawkier 1
 genial 2
@@ -9553,7 +9553,7 @@ gingeley 2
 glycans 1
 glume 1
 gastornithidae 2
-groved 1
+groved 2
 greenskeeper
 goggler 1
 gur 4
