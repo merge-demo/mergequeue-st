@@ -1340,7 +1340,7 @@ bermudian
 bernoullian 1
 bingy
 burelage 1
-bellower 1
+bellower 2
 bedways 1
 bluecap 1
 bunks
@@ -6844,7 +6844,7 @@ blibe 1
 bruchid 1
 benignity 1
 blackmailed
-bacteriotoxic
+bacteriotoxic 1
 benkulen
 bigener
 buicks 1
@@ -8198,7 +8198,7 @@ bigfoot 1
 byronically 1
 beatable 2
 boone 1
-battailous
+battailous 1
 bestream 1
 beudanite 1
 bluebuck 2
@@ -8529,7 +8529,7 @@ birch 2
 butyryl 1
 bisections 3
 biliteral
-baywood 3
+baywood 4
 brownistical 2
 blondish
 belle 1
@@ -12761,7 +12761,7 @@ burdalone 1
 bucorvinae 1
 bidree 2
 becloaked
-bioelectric 2
+bioelectric 3
 bullneck 1
 bitstocks
 biparous
@@ -14491,7 +14491,7 @@ bathyspheres 1
 boyards 1
 bagh 3
 babying 1
-bioenergetics
+bioenergetics 1
 bicyclo 1
 brakeload
 bemotto 1
