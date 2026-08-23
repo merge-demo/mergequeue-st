@@ -1447,7 +1447,7 @@ emeline 1
 ergonomic 2
 ethiopian 1
 epanorthotic
-emunct 1
+emunct 2
 exenteritis
 epipleural
 envelop 1
@@ -3872,7 +3872,7 @@ epidotic 1
 embolomerism
 existents 2
 enfeebled 2
-eclipsis 3
+eclipsis 4
 executers
 endodontic 3
 emigration
@@ -8539,7 +8539,7 @@ elucid 1
 eumorphic 4
 equatorward 3
 etheriform 3
-equatorwards
+equatorwards 1
 excessmen
 ectomeric 1
 epigeous 1
