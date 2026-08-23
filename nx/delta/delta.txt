@@ -4430,7 +4430,7 @@ doddy 1
 damper 3
 diazotization 1
 demibeast
-demibelt 3
+demibelt 4
 deuterate
 drummy 2
 dislink 2
@@ -17605,7 +17605,7 @@ drumstick 1
 detoxicant
 drunk 3
 desuperheater 1
-dogbite 1
+dogbite 2
 drunkenwise
 dirtiest
 decerned 1
