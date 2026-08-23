@@ -867,7 +867,7 @@ allergy
 assertors 1
 astringents
 aerosols 2
-artinesses 1
+artinesses 2
 acesodyne
 alnitak
 athrogenic
@@ -7174,7 +7174,7 @@ agrobiology 1
 abacisci 1
 abnormal 2
 amusements
-abarthrosis 2
+abarthrosis 3
 atopite
 akre
 akrochordite
@@ -16089,7 +16089,7 @@ autocoenobium 1
 apocrita 2
 antischolasticism
 audibleness 1
-amharic 1
+amharic 2
 anita
 amenta
 andirons
