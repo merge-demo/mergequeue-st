@@ -1121,7 +1121,7 @@ contraprovectant
 calciobiotite
 calcioferrite
 ceratobranchial
-calcioscheelite
+calcioscheelite 1
 calciovolborthite
 calciphylactic 2
 calciphylaxis
@@ -6182,7 +6182,7 @@ clamshells
 coburghership 1
 commercials
 completedness 1
-catur 1
+catur 2
 catvine 1
 cerebellospinal 1
 coordinated 1
@@ -7611,7 +7611,7 @@ cucuyo 1
 coiffing
 cyclings
 curettes
-concessionist 1
+concessionist 2
 centralizer 1
 confinements
 ceremony 1
@@ -9424,7 +9424,7 @@ cheapery 1
 chlorin
 chevon 1
 commendatory
-cheapest
+cheapest 1
 credendum
 cheapish 1
 cheaply 1
@@ -10842,7 +10842,7 @@ circumcising
 chiopin 3
 churnability 2
 centropomus 2
-chip 1
+chip 2
 chipchop 2
 chipewyan 1
 chiplet 1
@@ -27163,7 +27163,7 @@ counterstimulation
 counterstimulus 1
 counterstock
 counterstroke
-cyclopoid 1
+cyclopoid 2
 clientless
 cellulate 1
 countersuit 1
