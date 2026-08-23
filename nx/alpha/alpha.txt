@@ -873,7 +873,7 @@ alnitak
 athrogenic
 absconce 2
 abscond 2
-absconded
+absconded 1
 amnesiac 1
 apperceptive 1
 absconder
@@ -2327,7 +2327,7 @@ adjectitious
 attempers 1
 acidaspis
 acider 3
-anaphoric 1
+anaphoric 2
 azimech 3
 acidy
 acetamid 2
@@ -20280,7 +20280,7 @@ antistreptococcal 2
 allowances
 acquophonia 1
 amazement 2
-arsmetry 1
+arsmetry 2
 arround
 auditual 3
 arbute 1
