@@ -9538,7 +9538,7 @@ flatbottom
 forejudger 3
 forbreak 4
 forbidden
-floatman 2
+floatman 3
 florets
 flowmeter 2
 fibdom 3
