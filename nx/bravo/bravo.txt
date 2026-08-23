@@ -173,7 +173,7 @@ boh 1
 begladded 1
 baccalaureate 1
 baccalaureates 1
-baccalaureus 1
+baccalaureus 2
 baccara 1
 baroques 2
 bipartition 2
@@ -918,7 +918,7 @@ babishness
 biacromial
 bechanced
 bagmaker 2
-bagnes
+bagnes 1
 bastnaesite 2
 breakaway
 burdies 3
@@ -7224,7 +7224,7 @@ besnow
 baconist 1
 bisporous 2
 basses 1
-bestridden 2
+bestridden 3
 bluesides
 blueberry 1
 bestrides 2
@@ -8615,7 +8615,7 @@ bivalved 1
 brules
 billies
 billyhood 2
-breislakite 1
+breislakite 2
 bunkery 1
 bucketfuls 1
 benzotetrazole 1
@@ -8849,7 +8849,7 @@ benzol 1
 balsamiferous
 braeface 1
 bristle 2
-binomenclature 2
+binomenclature 3
 budless 1
 binomially
 biz 1
@@ -8875,7 +8875,7 @@ behen
 bezantee
 binukau 2
 brimmimg
-bathypelagic 1
+bathypelagic 2
 bioactivities
 bioassaying 2
 baldpate
@@ -10824,7 +10824,7 @@ beeswing 1
 brimfulness 1
 blere
 behooved 2
-blesboks
+blesboks 1
 blessedness
 blesser 2
 bowered
@@ -12214,7 +12214,7 @@ bewest
 blamable 1
 bollock 1
 bema 1
-brachiate 2
+brachiate 3
 beginner
 bolloxes 2
 barfy 1
@@ -12314,7 +12314,7 @@ benzyl 1
 bombardman 1
 burrfishes 1
 bootee 2
-bungfull
+bungfull 1
 bacteriophagic 3
 bathycurrent 1
 bullwhacker
@@ -14925,7 +14925,7 @@ belis
 bostonians 1
 breakoff 2
 byssolite 1
-breakout
+breakout 1
 bromocyanide 1
 butyrone
 breakpoint 2
@@ -15650,7 +15650,7 @@ blennophlogosis
 blimy 1
 british 2
 barwood 1
-britisher 1
+britisher 2
 blijver 2
 brutter 3
 bedcase 1
@@ -17290,7 +17290,7 @@ bleachers 1
 bedegar 2
 benzinduline 2
 barbecuer 1
-benedick 1
+benedick 2
 bunts 1
 beatificate
 bottomchrome 1
