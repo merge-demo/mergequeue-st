@@ -502,7 +502,7 @@ betweentimes
 buffo 2
 backstaff
 bridely 2
-blathering 1
+blathering 2
 backstitch
 bahoo
 blumed 1
@@ -1866,7 +1866,7 @@ bandala 1
 bandanaed 2
 battlepiece
 bollito
-bandeau 3
+bandeau 4
 betula
 boyology
 bancus
@@ -2714,7 +2714,7 @@ barnyard
 beastings 1
 beblood 2
 butein
-bottomries 3
+bottomries 4
 batch 2
 barnman 1
 braconids 1
@@ -4283,7 +4283,7 @@ barretter 1
 bebang 3
 beebees
 bebeerus 1
-bryonin 2
+bryonin 3
 bizarre
 beblooding
 bluestockingism 2
@@ -5679,7 +5679,7 @@ bairnlier 1
 belemnoid 1
 bertat 1
 bambinos 1
-brashness 1
+brashness 2
 bowssen 1
 blepharelcosis 3
 bijectively 1
@@ -8946,7 +8946,7 @@ bioethic 1
 beancod 3
 beaverpelt 2
 bromyrite
-bioethics 1
+bioethics 2
 belltopperdom
 bartizan 1
 barricados 2
