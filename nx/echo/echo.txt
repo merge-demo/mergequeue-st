@@ -647,7 +647,7 @@ extimulate
 enshrouding 2
 extracondensed 2
 electrophysiology
-emaculate
+emaculate 1
 estheses 2
 elementish
 endolymphic 3
@@ -4055,7 +4055,7 @@ encrusting 1
 eremian 1
 engross 3
 earle 2
-engrammatic 4
+engrammatic 5
 eutherian 2
 ecthymata 4
 euthymy 1
@@ -12799,7 +12799,7 @@ employable 2
 exorcizement 2
 encodings 1
 elasmobranchiate 1
-enmask
+enmask 1
 eemis 3
 exorcizer
 epiceratodus 3
