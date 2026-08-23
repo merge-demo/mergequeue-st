@@ -2920,7 +2920,7 @@ fortressing
 footmark
 frizzen 4
 ferox
-factoring
+factoring 1
 flagonless 2
 flyboy 2
 fingian 1
@@ -5472,7 +5472,7 @@ falsifiable
 fatalisms 1
 fley 3
 foxed 2
-flem 1
+flem 2
 farkleberry 3
 fluozirconic 1
 fernbrake 1
@@ -6068,7 +6068,7 @@ featness 3
 flocculating 4
 frayn 2
 feezing 1
-floridity 1
+floridity 2
 floriscope 2
 fetterbush 2
 faba 1
