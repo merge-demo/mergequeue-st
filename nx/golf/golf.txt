@@ -3780,7 +3780,7 @@ gryphons 2
 greave
 gawkishness 1
 gameball 1
-gantlets 2
+gantlets 3
 gastroenterotomy 4
 giver 2
 ground 6
@@ -8954,7 +8954,7 @@ galvanising 3
 gnaw 1
 geranomorphic
 gothicize
-gringole
+gringole 1
 gras
 gombroon 3
 grieko 1
@@ -9829,7 +9829,7 @@ gnathopoda 2
 gorillas 2
 geckotidae
 grands
-greasiest 1
+greasiest 2
 guajillo 1
 gallicism
 gongoresque 3
