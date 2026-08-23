@@ -149,7 +149,7 @@ cablegrams
 cruors
 clinopyroxene
 cablelaid
-cableless 1
+cableless 2
 cablelike
 cerberic 1
 chryseis 1
@@ -5324,7 +5324,7 @@ cullion 1
 cassiopeium 1
 cladrastis 1
 cramps
-cassis 1
+cassis 2
 cumbha
 crampy
 courtling
@@ -13593,7 +13593,7 @@ convectional
 cymbopogon
 carbuncles 1
 convectively 1
-cote 1
+cote 2
 cimbrian
 cotsetle 4
 conferted 2
@@ -20382,7 +20382,7 @@ carpogone 1
 commutativity 2
 commutator 2
 commute
-chondropterygious
+chondropterygious 1
 commuted 1
 cacography
 condolement
@@ -24212,7 +24212,7 @@ convincingness
 convite 1
 counterclaims
 coccolobis
-communalising
+communalising 1
 convives 1
 convivially
 chylocauly 1
@@ -25259,7 +25259,7 @@ corinthianize
 cumidine
 coriolanus
 cochlearifoliate 1
-cablets 1
+cablets 2
 cailleach 1
 cladode 1
 covenant
@@ -30817,7 +30817,7 @@ carroty
 cytotechnology 1
 cochleary
 conchologize
-cullers 1
+cullers 2
 cullet
 cullets
 carload
