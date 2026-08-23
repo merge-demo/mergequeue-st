@@ -1757,7 +1757,7 @@ deathless 1
 decad
 decumaria
 deathlessness 1
-deathlikeness 1
+deathlikeness 2
 deathliness 2
 deathrates 1
 deathsman
@@ -2709,7 +2709,7 @@ dont 1
 discounsel 1
 dassy 2
 deductibility 2
-decoration 1
+decoration 2
 diogenic 1
 decorator 3
 deliberated
@@ -5310,7 +5310,7 @@ dysteleology 1
 displant 2
 deadheadism
 dentelure 1
-duftry 2
+duftry 3
 dealable
 derider
 dorsimesal 3
@@ -9547,7 +9547,7 @@ digladiating 1
 decken 1
 duellos 2
 diglots 3
-disenchantment 1
+disenchantment 2
 duumvir
 diallists 3
 demasculinised 1
@@ -11921,7 +11921,7 @@ decrease 1
 dyable 3
 deliberation 1
 deutovum 2
-disembitter
+disembitter 1
 diplanetic
 disembocation
 domicils
@@ -12390,7 +12390,7 @@ dimerlie 1
 diastereoisomer 1
 dehumanizing 2
 dilatatory 2
-dampne 2
+dampne 3
 dishome 1
 dishonor 1
 distendedness 2
@@ -13879,7 +13879,7 @@ dancery 1
 devours 1
 distemperedly 3
 dendritically 1
-drinn 1
+drinn 2
 distemperoid
 distending 1
 drowns
@@ -14865,7 +14865,7 @@ divertive
 dehortative 1
 doucepere 2
 disazo
-documents 2
+documents 3
 dowitcher 2
 dolorifuge
 dependencies 1
@@ -17084,7 +17084,7 @@ dressmakers 2
 dressmaking 1
 dressoir 1
 disagreeableness 1
-dryable
+dryable 1
 dashedly
 disaggregated 1
 devilward
