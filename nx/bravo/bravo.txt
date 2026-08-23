@@ -3025,7 +3025,7 @@ blood 1
 bullace 1
 bartholomewtide 1
 bartisan
-broadhorn
+broadhorn 1
 ballrooms
 barflies 1
 borts 2
@@ -3934,7 +3934,7 @@ bookbindery 1
 birdweed
 banksia 1
 biassedly 3
-bch 1
+bch 2
 borsholder 1
 bchs 2
 ballotage 2
@@ -5060,7 +5060,7 @@ battlers 1
 blazoned 2
 bowfin 1
 bloodthirst 1
-befamilied
+befamilied 1
 biogeography
 bibracteolate 1
 bewith
@@ -10388,7 +10388,7 @@ bramantip
 bootholder 1
 blandation 2
 beleapt 1
-balsamo 1
+balsamo 2
 blackmails 1
 barodynamics
 bewailer 1
@@ -10942,7 +10942,7 @@ bedlamism
 blinkards 1
 benedictionary 1
 bowses 2
-basta 1
+basta 2
 bartonia 1
 brooms 2
 beadroll 1
@@ -13835,7 +13835,7 @@ balatte 1
 bashilange 1
 bulbuls
 bulbophyllum 1
-brephic 1
+brephic 2
 burglarproofed 2
 bower 1
 backrests
@@ -15369,7 +15369,7 @@ bridoons 4
 blurt 4
 boomier
 budukha 1
-bilith 1
+bilith 2
 briefcase
 barramunda
 bandylegged 3
@@ -17175,7 +17175,7 @@ bookish 1
 bullition 1
 bar
 boggin 3
-bulletproof 1
+bulletproof 2
 bowyer
 beewinged 1
 bullnoses 3
@@ -18411,6 +18411,6 @@ bagwash 2
 buttonweed 1
 bwanas 2
 bombardmen 1
-banned 1
+banned 2
 bxs 1
 bached 1
