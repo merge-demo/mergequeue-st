@@ -1759,7 +1759,7 @@ echinital
 evitation 1
 everliving 1
 euphonous 1
-embrute 4
+embrute 5
 escalloping 1
 epauleted 2
 eyesight 2
@@ -6416,7 +6416,7 @@ ensnared 2
 edental 1
 evenmete 2
 euctical
-ectropionize
+ectropionize 1
 eskars
 expatriatism 4
 embroideries 1
@@ -13607,7 +13607,7 @@ ebeneous 2
 exsudate 2
 embowelling 1
 extumescence
-egeria 1
+egeria 2
 emulation 2
 esoteric 2
 exsufflate 2

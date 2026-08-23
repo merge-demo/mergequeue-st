@@ -1845,7 +1845,7 @@ botanizer 3
 bananaland
 blowen
 bluegum
-bridgewall 1
+bridgewall 2
 bananivorous 1
 banatite 1
 becharm
@@ -5298,7 +5298,7 @@ barretries 1
 boltonia
 beforested 1
 breathlessness
-biscuitmaker 1
+biscuitmaker 2
 bezzants
 bipinnate 1
 bugbite
@@ -16288,7 +16288,7 @@ bluenesses 2
 buckone
 brownouts
 brickly 4
-browntail 1
+browntail 2
 belgravia 2
 blasties 2
 brownweed
@@ -18303,7 +18303,7 @@ buttinski
 buttled 2
 bobsledded 3
 backbiting 2
-buttock
+buttock 1
 bronchodilatation 1
 balachan
 buttocked
