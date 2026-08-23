@@ -2877,7 +2877,7 @@ glycollic 3
 glints 2
 gallipots 1
 gledes
-gonocyte 2
+gonocyte 3
 gallinulelike 1
 gombos 2
 gingerous 1
@@ -3453,7 +3453,7 @@ graphonomy 3
 genipaps 5
 gnathotheca
 gestical 2
-gesticulant 2
+gesticulant 3
 grueller 2
 goloch 4
 glimpse 2
@@ -4424,7 +4424,7 @@ girlie 2
 gelatose 2
 grantiidae
 grammontine 1
-gastrostaxis 5
+gastrostaxis 6
 glint
 ginning
 gourde 3
@@ -9419,7 +9419,7 @@ gamble 1
 gingivoglossitis 2
 gingerliness 4
 gingles 2
-glycollide 7
+glycollide 8
 gabionage 5
 groupies 1
 graying
@@ -9485,7 +9485,7 @@ gleeishly 3
 gauffering 2
 geometrician 2
 gladsomely 1
-gossamery
+gossamery 1
 gae
 gonyaulax 1
 graceful
