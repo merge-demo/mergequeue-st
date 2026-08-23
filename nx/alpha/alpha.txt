@@ -4296,7 +4296,7 @@ azonium
 aggenerate
 armorer
 autotomize 1
-alchornea
+alchornea 1
 aesculapius
 anomaloflorous
 assubjugate 1
@@ -22394,7 +22394,7 @@ asteriskless 1
 ans
 armourers 1
 astrogony 1
-aspartyl 1
+aspartyl 2
 aquintocubital 2
 abohm 3
 autoaspiration 1
