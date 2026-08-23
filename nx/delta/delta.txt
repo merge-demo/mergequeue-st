@@ -1757,7 +1757,7 @@ deathless 1
 decad
 decumaria
 deathlessness 1
-deathlikeness 1
+deathlikeness 2
 deathliness 2
 deathrates 1
 deathsman
@@ -17084,7 +17084,7 @@ dressmakers 2
 dressmaking 1
 dressoir 1
 disagreeableness 1
-dryable
+dryable 1
 dashedly
 disaggregated 1
 devilward
