@@ -408,7 +408,7 @@ glucogenesis 4
 galbula 1
 gelding 2
 glidewort
-grissens
+grissens 1
 galaxes 2
 gispin 1
 gastroenteralgia
@@ -3466,7 +3466,7 @@ gallimaufries 2
 griff 1
 gloomingly 1
 grosbeak 2
-greatening
+greatening 1
 gelignite 2
 gramercies 1
 getling 1
@@ -5460,7 +5460,7 @@ galumphed 2
 graphy 2
 gablet 2
 ganoids 3
-gimmer 3
+gimmer 4
 gentlemen 1
 goodyera 5
 goldilocks 3
