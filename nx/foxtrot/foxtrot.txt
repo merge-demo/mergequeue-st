@@ -4590,7 +4590,7 @@ fisheye 1
 fieldstone 1
 fistuca 1
 freest 3
-finement
+finement 1
 filmist 1
 farragos 1
 forbbore 3
@@ -7289,7 +7289,7 @@ frache 3
 fenestral 1
 fluff
 fagald 2
-finchbacked 3
+finchbacked 4
 forsaking 5
 fishyard 1
 footwarmers 3
@@ -9156,7 +9156,7 @@ fortresses
 fichteanism 4
 fantasias 2
 fortifies 2
-fielded 2
+fielded 3
 fleeceflower 3
 floridly 1
 fastigiated 1
@@ -9590,7 +9590,7 @@ fieldmouse 2
 fallowness 2
 financier 1
 favouress 1
-fribbler
+fribbler 1
 fuseless 2
 frecklier 1
 feudalizing 2
@@ -10020,7 +10020,7 @@ fishy 2
 fragment 2
 forcers 2
 frigolabile 3
-feloniousness 2
+feloniousness 3
 frigoric 2
 foun 2
 futureless 1
