@@ -38,7 +38,7 @@ area
 allseeds
 aurine 2
 aethogen
-aerometeorograph
+aerometeorograph 1
 abaciscus 1
 aquanaut 1
 autopsist 1
@@ -3313,7 +3313,7 @@ algebraize
 acutance 1
 anankes
 amyloids
-acutances 1
+acutances 2
 anisoptera 1
 adornos 3
 acute 2
@@ -6531,7 +6531,7 @@ adjuvate
 ahi 1
 azotometer
 algaesthesis 1
-amebula 1
+amebula 2
 ahir
 alternant
 autunian 1
@@ -21498,7 +21498,7 @@ adephaga 1
 assertorical 1
 allagophyllous
 anderun 1
-aspersively
+aspersively 1
 anosia 1
 axles 1
 aspersoriums
