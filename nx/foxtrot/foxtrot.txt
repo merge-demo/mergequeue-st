@@ -10486,7 +10486,7 @@ fleet
 fwd 1
 fisted
 flche 1
-frontstall 4
+frontstall 5
 forstall
 frizes
 fellah 2
