@@ -3678,7 +3678,7 @@ bepierce 1
 bargeload
 batrachian 2
 bifrontal 1
-bailiffwick
+bailiffwick 1
 balloonfishes 2
 bergut 1
 batsman 2
@@ -4129,7 +4129,7 @@ beslimer
 beards 2
 barbers
 birthroot
-bombazette 1
+bombazette 2
 bedrenched 2
 bras 1
 brachycera 1
@@ -5286,7 +5286,7 @@ bontebuck 2
 beady 2
 betsy 1
 beggiatoaceae
-bemoil 1
+bemoil 2
 blurs 2
 boggier 1
 beggingly 2
@@ -6331,7 +6331,7 @@ butment
 baratte 1
 barristress
 benzanthracene 1
-boxboard 3
+boxboard 4
 bestowed 2
 bai
 balandra 1
@@ -7185,7 +7185,7 @@ bearberry 1
 bestialised 2
 betas 2
 be
-brannigan
+brannigan 1
 bellbirds 2
 baseliner 1
 bestiality 3
@@ -8789,7 +8789,7 @@ breakfasted 2
 bekissing 1
 basoche
 bual 1
-brewer 1
+brewer 2
 buoying 4
 bindweed
 backlogging 1
@@ -11560,7 +11560,7 @@ blurbs 3
 bestows 2
 bocedization 1
 blup 1
-barbs 1
+barbs 2
 busload
 blurbist 1
 bananist 1
@@ -17035,7 +17035,7 @@ bayman 3
 barbicels 2
 braces 2
 bulimus 1
-baler 2
+baler 3
 blepharism 1
 bimahs
 binoxide 1
@@ -17157,7 +17157,7 @@ bombards
 bullyism 3
 bintangor 2
 brushmaking 1
-bullion
+bullion 1
 balkanization 3
 bullyrag 1
 butcherly
