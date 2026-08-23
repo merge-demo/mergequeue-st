@@ -3304,7 +3304,7 @@ acupuncturist 3
 acus 1
 atrabile 1
 anisotropism
-atresy 2
+atresy 3
 acetanion 2
 army 2
 azimin
@@ -3854,7 +3854,7 @@ adiathermancy 1
 antioxidase
 alcoranist 2
 accipitrary
-acaridea
+acaridea 1
 adiathetic
 adiating
 addends
@@ -7382,7 +7382,7 @@ affrontive
 albedo 1
 antidisestablishmentarian 1
 alum 2
-albee
+albee 1
 amphiboline 1
 alberene 1
 albergatrice
@@ -7675,7 +7675,7 @@ alphabetically
 atherogenesis
 atomist 1
 alcyonacean
-alcyoniaceae 1
+alcyoniaceae 2
 acost
 alcyonic 1
 astutely 2
@@ -9416,7 +9416,7 @@ assessorial 1
 alveolocondylean 3
 alpieu
 antireducing 2
-appointive 1
+appointive 2
 aud 1
 axillars
 alpinesque
@@ -11469,7 +11469,7 @@ amputate 3
 anuresis
 amputates
 aboding
-amputational 1
+amputational 2
 antiliberalness 2
 anthraceniferous 1
 announcers 1
@@ -16135,7 +16135,7 @@ anearing 1
 antiseptize 1
 allision
 aerospace 5
-acerb
+acerb 1
 abets 2
 arbitraries
 autolyzing
@@ -20526,7 +20526,7 @@ arcticology
 arterioversion
 apperceptionistic 1
 archetype 2
-allemande
+allemande 1
 areographic 1
 artful
 acetify
@@ -24740,7 +24740,7 @@ adyta 1
 airest 2
 antipathogene 1
 ankylosaurus 1
-angule 1
+angule 2
 antecoxal
 acridines
 admission 1
