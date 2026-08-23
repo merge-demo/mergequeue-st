@@ -270,7 +270,7 @@ degermed 2
 doradilla 1
 daguerreotyped
 daguerreotyping
-digitonin 2
+digitonin 3
 dreadnaught 2
 docken 1
 debugged 1
@@ -305,7 +305,7 @@ devchar 1
 disembowelment 1
 disgruntling
 dollfaced 1
-daybill
+daybill 1
 disinteress 3
 dourine 3
 dalasi 1
@@ -3828,7 +3828,7 @@ dephlegm
 deselects 2
 disinteresting 1
 dissceptred 1
-decorationist
+decorationist 1
 deionizer 2
 deipnophobia 2
 disembarkations
@@ -5628,7 +5628,7 @@ dragees
 discommodate
 dispiritedness 2
 depilating 2
-depilatories
+depilatories 1
 deists 1
 discos 3
 decerniture
@@ -8277,7 +8277,7 @@ db 1
 dracontian
 dispossess 1
 droob
-dissimile 1
+dissimile 2
 disinvigorate 1
 defocus 1
 dermatopathia 2
@@ -9026,7 +9026,7 @@ dermatoplast 2
 dicoumarol
 distantness 1
 dicranaceous
-denigrate 1
+denigrate 2
 dextrinous 3
 decatholicize
 diverter 2
@@ -10774,7 +10774,7 @@ dulanganes
 directer 3
 domite 1
 deboist
-decreement 1
+decreement 2
 divaricatingly
 diseur 1
 directionalize
