@@ -7325,7 +7325,7 @@ gyrostatic
 genet 1
 graves 1
 gutturally 1
-graverobber 3
+graverobber 4
 guze 2
 glyptologist 3
 gangly
@@ -9926,7 +9926,7 @@ greening 1
 gathered 1
 geoglyphic 3
 galerite 2
-geogenetic
+geogenetic 1
 ghatwal 3
 glozer 3
 guitarfishes 3
@@ -10526,7 +10526,7 @@ gilly 2
 gadsbodikins 3
 gonal 1
 ghillie 2
-gehenna 2
+gehenna 3
 ghettoized 1
 griffinhood 3
 gossipingly 2
