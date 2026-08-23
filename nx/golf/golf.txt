@@ -1504,7 +1504,7 @@ geniture
 geotonic 3
 gangland 2
 grouse 2
-galoped 2
+galoped 3
 gavelage 2
 guiro 2
 giftwrap 5
@@ -1826,7 +1826,7 @@ gerhardtite 1
 gregory 2
 grandfer 2
 gunfighting 2
-galerus
+galerus 1
 gateposts 3
 glossotomy 3
 gatewaying 1
@@ -5482,7 +5482,7 @@ gentian
 glutinously
 grudgeons
 greencoat 4
-gangling
+gangling 1
 glob 1
 gestured 1
 gnetum 4
@@ -6760,7 +6760,7 @@ galiot 3
 goniatitic 2
 ganglioside
 gossiping 1
-geront 2
+geront 3
 gymnogyps 3
 gabon
 gentilitial
