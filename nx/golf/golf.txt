@@ -1524,7 +1524,7 @@ gearless 2
 granddaughters 3
 graecomania 3
 gazump 3
-grimgribber 2
+grimgribber 3
 gastrologist 3
 goatpox 4
 grounder 1
@@ -3128,7 +3128,7 @@ guerilla 1
 geochronologist 2
 guardiancy 1
 germina
-grusian 4
+grusian 5
 gynophore 1
 gauloiserie 5
 geotechnic 1
@@ -3297,7 +3297,7 @@ grooverhead 1
 gerundial 2
 gentlewomanlike 2
 germier 2
-goatsfoot 5
+goatsfoot 6
 gasan 1
 gaetulian 1
 gomorrean
@@ -4442,7 +4442,7 @@ gyromele 3
 gangliitis 4
 gorgio 1
 groovy 1
-gays
+gays 1
 grubbers 2
 galactemia 3
 gawcey
@@ -5419,7 +5419,7 @@ gaea 2
 glial 3
 glyptolith 4
 galvanocontractility 1
-grotesques 2
+grotesques 3
 girsle 4
 gallah 3
 gluing
@@ -7127,7 +7127,7 @@ gastrocystic 2
 goran
 gynecolatry 2
 gremio 2
-gagtooth 3
+gagtooth 4
 gorblin 1
 gorcocks 2
 gypsylike
@@ -8138,7 +8138,7 @@ grantors 1
 granular 2
 girandole 3
 granulary 2
-guidebooks 1
+guidebooks 2
 gobs 2
 gorsedd 3
 galactic 2
@@ -8564,7 +8564,7 @@ gravers
 gigsmen 2
 girliness
 gravette 1
-gaufrette 2
+gaufrette 3
 garni 1
 goniatitidae 2
 gith 2
@@ -8844,7 +8844,7 @@ glycins
 gonogenesis 1
 gregariously 2
 gilgulim 1
-glaciologic 5
+glaciologic 6
 grazed 4
 grossularia 4
 grossest 1
@@ -10120,7 +10120,7 @@ grocer 4
 glottologic 2
 gaby 2
 guglet 1
-goldenhair 2
+goldenhair 3
 gastriloquy 1
 gynecocracy 1
 galways
@@ -10522,7 +10522,7 @@ gulix 1
 grallic 1
 geast 3
 galeorchis 4
-gilly 1
+gilly 2
 gadsbodikins 3
 gonal 1
 ghillie 2
