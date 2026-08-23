@@ -910,7 +910,7 @@ emplaces 2
 endocervical 1
 exculpatory 1
 extravagated
-epepophysial 2
+epepophysial 3
 exarillate 3
 eyelashes 2
 efreet 2
@@ -1224,7 +1224,7 @@ eudendrium 2
 enskied
 epicures 3
 evenglome
-enjoyable
+enjoyable 1
 enroot 1
 echard 3
 expiring 1
@@ -2490,7 +2490,7 @@ elasticum 2
 electroless 2
 exsecants 3
 earwort 1
-educables
+educables 1
 expansivity 1
 embryopathology 1
 emender
@@ -3198,7 +3198,7 @@ euphrasia
 expwy 2
 emmeleia 2
 elopes
-ethylamide 3
+ethylamide 4
 elops 3
 elicit 1
 emission 1
@@ -5939,7 +5939,7 @@ expectorates 1
 engrosser 2
 earrings 3
 enframing 3
-enigma 1
+enigma 2
 egotism 2
 enjambements 2
 enigmata 2
@@ -7281,7 +7281,7 @@ epanorthidae 2
 electrojet
 ephorates
 enravishment
-enzyme 1
+enzyme 2
 evangeliser 1
 eventide 3
 embryonically
@@ -8255,7 +8255,7 @@ epithalline
 elastase
 einstein 2
 earthwards 2
-expellers 5
+expellers 6
 electropuncturation
 electrolyzability 1
 embryonated 1
@@ -10632,7 +10632,7 @@ exchangee 4
 experience 2
 emblematically 3
 epimysium
-exodium 1
+exodium 2
 elaterid 1
 eudaimonia 1
 elve 3
@@ -10757,7 +10757,7 @@ enecate 3
 excelled 2
 eulimidae 2
 encefalon 3
-epicoela
+epicoela 1
 eulytine 3
 eelblenny 2
 eulogias 3
@@ -12190,7 +12190,7 @@ entertainments 5
 estrado 1
 exostome 1
 embergoose 1
-excuser 3
+excuser 4
 elytron
 excelente 1
 endpoint 2
