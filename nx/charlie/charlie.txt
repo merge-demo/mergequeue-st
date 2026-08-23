@@ -4925,7 +4925,7 @@ carsickness 2
 caviteno
 combinably 1
 ceilinged 2
-carrottop
+carrottop 1
 carstone 1
 cart
 counterpoising
@@ -8221,7 +8221,7 @@ chalcedony
 calabrasella 2
 chalcedonyx
 chalchuite 1
-chalcidian
+chalcidian 1
 chalcidicum 1
 caird
 cuniculus
@@ -12157,7 +12157,7 @@ chris
 curding
 calibogus
 caraunda
-chrysalid
+chrysalid 1
 coronet 1
 chrysalida
 cascarilla 1
@@ -12637,7 +12637,7 @@ chronotropic
 countable
 collocution
 cheney
-churchiest 1
+churchiest 2
 coriandrum 1
 chroococcaceae
 cynanthropy 2
@@ -16466,7 +16466,7 @@ carthamin 1
 corbeled
 chaldron 1
 cloddier
-crumster
+crumster 1
 crowbell
 crackpottedness
 coloquies 1
@@ -16945,7 +16945,7 @@ cosignitary
 clupeids
 creatureliness 1
 classis
-cachalot
+cachalot 1
 caviar
 clupien
 cenotaphs 1
@@ -17854,7 +17854,7 @@ cochlea 1
 codfishing
 clysterize 1
 chrestomathy
-cachaemia
+cachaemia 1
 codheaded 1
 codiales 1
 codical
@@ -18113,7 +18113,7 @@ craneman
 coenomonoecism
 coenospecies 1
 coenospecifically
-chicory
+chicory 1
 cacopharyngia
 coenotype
 coenotypic
@@ -19564,7 +19564,7 @@ cobblestones 2
 cankerous 1
 cos 2
 columbiferous 2
-costula
+costula 1
 chronanagram 1
 columbiformes 1
 commodate
@@ -19826,7 +19826,7 @@ catacumbal
 cassareep
 cameloid 2
 comely 1
-cogence 2
+cogence 3
 coursings
 comelier 1
 comeling
@@ -21328,7 +21328,7 @@ counterblow
 compunction 1
 concho 2
 conchoids
-communicableness 1
+communicableness 2
 conchol
 conchometer 1
 conchospiral
@@ -22694,7 +22694,7 @@ continualness 1
 chebule 1
 crossgrainedness 1
 counterdecision 1
-ciderlike
+ciderlike 1
 caseworms
 conocarpus
 conocephalum 1
@@ -25173,7 +25173,7 @@ culpate 1
 corevolve 1
 cryometer
 chlorophyllaceous 1
-cardmaking
+cardmaking 1
 corruptedly 1
 colitis
 corfiote
@@ -26381,7 +26381,7 @@ coswearer
 cot 2
 cotabulate
 carya
-cotarius
+cotarius 1
 catwise
 calander 1
 centipedal 1
@@ -27291,7 +27291,7 @@ cassine
 convolvuluses 1
 cloggiest
 countryseat 1
-coalboxes
+coalboxes 1
 camerlengos 1
 countryside
 countryward
@@ -29262,7 +29262,7 @@ cutlas
 choices 4
 cryptobranchiate 2
 collides
-ciphered
+ciphered 1
 claquer 1
 calibrate 2
 compliableness 2
@@ -29369,7 +29369,7 @@ cryptopyic 1
 cambistry
 characterizers
 cantator
-concrement 1
+concrement 2
 catalogs
 cryptoproselyte
 cryptorchis
@@ -29434,7 +29434,7 @@ crispin
 culicidal 1
 crispine 1
 crisping 2
-crispins
+crispins 1
 citramide
 chalcanthite 1
 chartists
@@ -30619,7 +30619,7 @@ cucoline 1
 cucuy 1
 chunnia 1
 cucujid
-chromotrope 1
+chromotrope 2
 cucujus
 callitype
 cutest
