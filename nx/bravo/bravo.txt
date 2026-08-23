@@ -1350,7 +1350,7 @@ bobbles 1
 bethlehem
 bede
 bookdealer 2
-bioplastic 3
+bioplastic 4
 barrowcoat 2
 brod
 botrylle 1
@@ -3699,7 +3699,7 @@ befrilled 2
 braille
 bengals
 bowlegs
-bisabol
+bisabol 1
 booklover 2
 burnies 2
 brigantinebrigantines
@@ -4551,7 +4551,7 @@ beglamour 1
 bienness
 biradiated 2
 bathroot 1
-bater
+bater 1
 bool 1
 bedabble
 beagles
@@ -17656,7 +17656,7 @@ blowier
 barrelfish 1
 bellipotent 2
 byte 1
-burked 1
+burked 2
 bonnetman 1
 belletrists
 bonier 1

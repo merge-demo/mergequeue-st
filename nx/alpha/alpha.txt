@@ -1487,7 +1487,7 @@ acclimatement
 attires
 alewhap
 acclimates
-acclimatisation 3
+acclimatisation 4
 affixable 2
 archaisms
 amortize 1
@@ -8292,7 +8292,7 @@ ariettas 1
 autogauge 1
 alienated
 alienation
-allactite
+allactite 1
 alchemized
 aliene 2
 alaund
@@ -9808,7 +9808,7 @@ ampelopsin 1
 alvearies 1
 amalgamationist 1
 amalgamative 1
-amicabilities 1
+amicabilities 2
 amperage
 amalgamization 1
 anaphase 3
@@ -12174,7 +12174,7 @@ abortions 1
 aquatinted 1
 astrodynamic 1
 arterioverter
-acedia
+acedia 1
 anatomicopathologic 1
 arteriofibrosis 3
 anatomiser 1
@@ -17205,7 +17205,7 @@ acescent
 ankylosing 1
 almira 1
 apomixis 1
-apomorphia 1
+apomorphia 2
 ahmadi 1
 acropetal
 agonist
@@ -22459,7 +22459,7 @@ astrophysicist 1
 anteal
 aromatical
 autolysate 2
-assumptionist
+assumptionist 1
 arduously 2
 aped
 anamnestically 1
@@ -22985,7 +22985,7 @@ aroynted 1
 atrochous 1
 aly 1
 an 1
-apocynaceae 1
+apocynaceae 2
 admirative 1
 alkalize
 awls 1
