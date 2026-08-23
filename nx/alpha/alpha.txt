@@ -2814,7 +2814,7 @@ autolytic
 acrobryous 1
 alarms
 airglow 3
-apotropaion 1
+apotropaion 2
 autopista
 acrocephalic 1
 accompanable 1
@@ -3267,7 +3267,7 @@ anisometropia 1
 ashlar
 activation 3
 azaserine 1
-actuation 2
+actuation 3
 acuaesthesia 1
 achingly 1
 acidulously 1
@@ -5968,7 +5968,7 @@ aggrandised
 abasias 1
 aggrandising
 altimettrically 1
-afterglows 1
+afterglows 2
 aggrandize 2
 althaea 1
 affinity 1
@@ -6530,7 +6530,7 @@ allantiasis
 adjuvate
 ahi 1
 azotometer
-algaesthesis
+algaesthesis 1
 amebula 1
 ahir
 alternant
@@ -7382,7 +7382,7 @@ affrontive
 albedo 1
 antidisestablishmentarian 1
 alum 2
-albee
+albee 1
 amphiboline 1
 alberene 1
 albergatrice
@@ -10002,7 +10002,7 @@ amphicarpous
 anciency 2
 analogues
 antimerging 1
-autophytography 1
+autophytography 2
 autoregressive
 ambergris 1
 aduncous
@@ -12917,7 +12917,7 @@ angletwitch
 allays
 anglewise 1
 avenger 1
-asteraceous 2
+asteraceous 3
 anglian 1
 apportionment 1
 anglicanisms
@@ -22056,7 +22056,7 @@ acclamatory 2
 astartidae 1
 actings
 archaicism
-asyngamic
+asyngamic 1
 anaplasmosis
 astatines
 astatize 1
@@ -22251,7 +22251,7 @@ anaphia
 apologetic 1
 aspasia 1
 ariled 1
-aerier 4
+aerier 5
 atropinize
 alnath
 anvasser 2
