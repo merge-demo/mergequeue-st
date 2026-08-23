@@ -2174,7 +2174,7 @@ agave 1
 aptness
 anematize 1
 acrostolion 2
-atticize
+atticize 1
 acroteral 2
 achilous
 achylous 1
@@ -3304,7 +3304,7 @@ acupuncturist 3
 acus 1
 atrabile 1
 anisotropism
-atresy 2
+atresy 3
 acetanion 2
 army 2
 azimin
@@ -3798,7 +3798,7 @@ atticists
 adhered 1
 adherency
 addiment
-adherent 2
+adherent 3
 adherents 1
 archetypally 1
 adherers 1
@@ -3854,7 +3854,7 @@ adiathermancy 1
 antioxidase
 alcoranist 2
 accipitrary
-acaridea
+acaridea 1
 adiathetic
 adiating
 addends
@@ -4034,7 +4034,7 @@ adlumin 1
 acierage
 adm 2
 autoalarm 3
-ayelp 2
+ayelp 3
 abduction 1
 azilut
 adman 1
@@ -4151,7 +4151,7 @@ antenna
 aplacental 1
 anabranch 1
 acrasia
-alcaide
+alcaide 1
 arousers
 alca 1
 antiae
@@ -7675,7 +7675,7 @@ alphabetically
 atherogenesis
 atomist 1
 alcyonacean
-alcyoniaceae 1
+alcyoniaceae 2
 acost
 alcyonic 1
 astutely 2
@@ -11080,7 +11080,7 @@ alleluia
 affirmatory
 anguishes
 anthropometer
-archegone 1
+archegone 2
 amorphus 1
 amerindian 2
 amort 2
@@ -11469,7 +11469,7 @@ amputate 3
 anuresis
 amputates
 aboding
-amputational 1
+amputational 2
 antiliberalness 2
 anthraceniferous 1
 announcers 1
@@ -11697,7 +11697,7 @@ anadidymus
 anadiplosis
 actinometry
 aucanian 1
-antineutral 1
+antineutral 2
 aryepiglottidean
 anticarnivorous 2
 acoria 2
@@ -18002,7 +18002,7 @@ agnomination 1
 amblypoda
 aiguelle 1
 arnatta
-anglimaniac 1
+anglimaniac 2
 abraum 2
 appurtenant
 annalistically 2
@@ -20050,7 +20050,7 @@ allness 2
 annuary 1
 apiculated 1
 accentuality 1
-ayatollahs
+ayatollahs 1
 aam
 afterknowledge 1
 alleles 3
@@ -20526,7 +20526,7 @@ arcticology
 arterioversion
 apperceptionistic 1
 archetype 2
-allemande
+allemande 1
 areographic 1
 artful
 acetify
@@ -21353,7 +21353,7 @@ amyloses
 analectic 1
 amphoras 1
 allogenic
-azobacter
+azobacter 1
 acroter
 abattue
 asyndeton 3
@@ -23712,7 +23712,7 @@ auriphrygia 1
 auripigment 1
 aurir 2
 auriscalpia 3
-auriscopy
+auriscopy 1
 aurist
 aurists
 assentiveness
