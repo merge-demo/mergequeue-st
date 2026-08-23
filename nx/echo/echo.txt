@@ -6664,7 +6664,7 @@ ecrevisse
 epulis 2
 espundia 1
 endamebiasis 1
-electrophysics 2
+electrophysics 3
 entertainment 1
 endosepsis 1
 echimys 3
@@ -11888,7 +11888,7 @@ eparchate 3
 echinostome 1
 enteroparesis 1
 espinillo
-enfranchisement
+enfranchisement 1
 extbook 2
 embowing 3
 ergonomically 1
