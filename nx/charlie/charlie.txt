@@ -5523,7 +5523,7 @@ catabolin
 catabolized 1
 claim
 congaing 1
-catachreses
+catachreses 1
 catachresis
 catachrestic
 chalices
@@ -5870,7 +5870,7 @@ coelongated
 catelectrode
 capstones 1
 clothesless
-colorlessness 1
+colorlessness 2
 coigning 1
 chaffier 1
 catella
@@ -12471,7 +12471,7 @@ cingulate
 chamaecrista
 cranemanship
 chromoisomer
-chromoisomeric
+chromoisomeric 1
 chamaenerion
 candelabra 1
 claviature
@@ -29752,7 +29752,7 @@ confessory
 crookbacked 1
 crookbill
 castral
-crookedbacked
+crookedbacked 1
 cinuran 1
 commencement
 consignment 1
