@@ -9607,7 +9607,7 @@ bandlimits 2
 bisectors
 bisectrices 1
 bednighted
-busybodyness
+busybodyness 1
 bullheadedness 1
 bisects 1
 bottleflower 2
@@ -10820,7 +10820,7 @@ bunchberry 1
 bulldoggy 1
 boanergism 2
 blepharostenosis
-beeswing 1
+beeswing 2
 brimfulness 1
 blere
 behooved 2
@@ -12442,7 +12442,7 @@ bonderize 1
 belabored 3
 bloodline 1
 bonderman 2
-bankera 1
+bankera 2
 boii 1
 bobbiner 1
 bogum 2
@@ -15899,7 +15899,7 @@ bromelins 2
 backlist 2
 batler 1
 bryozoa
-biphasic 2
+biphasic 3
 breccial 1
 barges 1
 buttonholer 3
