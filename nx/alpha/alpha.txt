@@ -3568,7 +3568,7 @@ addn 1
 acknowledgements
 addr 1
 allotheistic 1
-actinography 2
+actinography 3
 awner 1
 azores 1
 addressable
@@ -4408,7 +4408,7 @@ adsorbent 3
 austrogaean 1
 aventure
 apparels 2
-anachronistically
+anachronistically 1
 apoxyomenos
 ageusia 2
 alcae 1
@@ -5010,7 +5010,7 @@ agenizes
 aeronat
 algernon 1
 aeronaut 1
-aeronautic 1
+aeronautic 2
 agastric
 argentose 1
 agama
@@ -8016,7 +8016,7 @@ alawi 1
 amaranths 1
 apprizer
 acutilinguae 1
-argasid 2
+argasid 3
 assapan
 auscultations 1
 alternates 2
@@ -8953,7 +8953,7 @@ allomorphite 3
 alongst 1
 allonymous
 allonyms 1
-allonomous 2
+allonomous 3
 abortion
 apodan
 admiralships 3
@@ -10201,7 +10201,7 @@ ahepatokla 1
 anthropogenic
 avo 3
 acmaesthesia 1
-amburbial 4
+amburbial 5
 anxiolytic 3
 aughtlins 1
 ambury 1
@@ -16878,7 +16878,7 @@ alimentive
 apickback
 araucarian
 adrenotrophin
-anticatalyst
+anticatalyst 1
 antiinstitutionalist 2
 apicolysis 1
 amentulum
