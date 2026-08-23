@@ -3455,7 +3455,7 @@ fascisti 2
 freesp 1
 filthily 1
 foresters 1
-forebowline 1
+forebowline 2
 foreknowingly 2
 frag 1
 franklinist 3
@@ -3896,7 +3896,7 @@ fluidextract
 findable
 fruz 3
 familiarize
-function
+function 1
 findhorn 1
 filarees 2
 fine 1
@@ -6789,7 +6789,7 @@ frosts 2
 frosteds 3
 fenny
 foredevised 2
-floridean
+floridean 1
 foldaway
 ferryman 2
 farfal
@@ -7745,7 +7745,7 @@ flamelike
 formalizations
 flicky
 fireshine 2
-filmographies 5
+filmographies 6
 frankpledge 1
 fumigants 5
 furfuraceous 1
