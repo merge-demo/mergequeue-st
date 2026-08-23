@@ -4429,7 +4429,7 @@ floppiest 3
 float
 frowzly 2
 feelable 3
-flossy
+flossy 1
 fraternizer 2
 fishmouth 1
 frank 1
@@ -4543,7 +4543,7 @@ fairyfolk 3
 filibranchia 2
 fishgigs 5
 fatiguing
-fealties 6
+fealties 7
 flagellation 3
 fruitcake 2
 forethinker 1
@@ -7727,7 +7727,7 @@ fossa 1
 fidessa 2
 flinchingly 3
 foreignly 1
-foreignness 2
+foreignness 3
 filigrained 2
 foreimpressed
 fallal 1
@@ -11594,7 +11594,7 @@ forlanas 4
 fragmentation 2
 fusions 2
 freity 2
-floscular 4
+floscular 5
 fissional 1
 foregallery
 fussbudgety 8
