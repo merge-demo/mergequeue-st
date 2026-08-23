@@ -5685,7 +5685,7 @@ flancards
 friended 4
 fuzz
 firking
-fountains
+fountains 1
 firebrands 1
 flingy 1
 fleurette 3
@@ -7433,7 +7433,7 @@ firefang 3
 ferrocerium 2
 forwarder 1
 fruitlet 2
-fillemot 2
+fillemot 3
 faience 2
 firefall 4
 france 2
@@ -8537,7 +8537,7 @@ filix 1
 freeward 1
 ferruminated
 foreadvertise
-formicine 4
+formicine 5
 floormen 2
 fashiousness 1
 fondler 2
@@ -8628,7 +8628,7 @@ frameshift 4
 fullfil 3
 flaskful 3
 fissionable
-fungating 2
+fungating 3
 farmsteading 1
 forninst 1
 fricative 2
@@ -10859,7 +10859,7 @@ flambeaux 5
 fumose 5
 fructifies 3
 fulfillment
-flus 2
+flus 3
 flavorous 3
 ferule 3
 fennici 3
@@ -11290,7 +11290,7 @@ flatters 2
 furanoid 3
 fricandeaus 3
 faveolate 1
-fantasticism
+fantasticism 1
 familiarizer 2
 furlane 1
 filers 3
