@@ -38,7 +38,7 @@ area
 allseeds
 aurine 2
 aethogen
-aerometeorograph
+aerometeorograph 1
 abaciscus 1
 aquanaut 1
 autopsist 1
@@ -1375,7 +1375,7 @@ arabize 1
 acceleratedly
 assidean 1
 annealers 1
-alabamians 1
+alabamians 2
 accelerates 3
 alinotum
 aboiteaux
@@ -2278,7 +2278,7 @@ atmospherology
 achromatopia
 achromatopsy 1
 apologizes
-achromatopsia 1
+achromatopsia 2
 australia
 achromatosis
 akinesia 1
@@ -3313,7 +3313,7 @@ algebraize
 acutance 1
 anankes
 amyloids
-acutances 1
+acutances 2
 anisoptera 1
 adornos 3
 acute 2
@@ -6531,7 +6531,7 @@ adjuvate
 ahi 1
 azotometer
 algaesthesis 1
-amebula 1
+amebula 2
 ahir
 alternant
 autunian 1
@@ -13815,7 +13815,7 @@ anoplonemertean
 archpillar
 atazir
 anoplonemertini 3
-amid
+amid 1
 arteriopalmus
 anoplura 1
 amnic
@@ -14179,7 +14179,7 @@ anglemeter
 assonanced
 anarthrous
 achlamydate 1
-assonantly
+assonantly 1
 acinetarian 1
 abridges
 aphtha
@@ -18468,7 +18468,7 @@ anthragallol 1
 aquincubital
 avern 1
 arbitrager
-arbitragers 3
+arbitragers 4
 atinga
 arbitragist
 albuminiferous 2
