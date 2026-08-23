@@ -2172,7 +2172,7 @@ aerobically 2
 affusions
 agave 1
 aptness
-anematize 1
+anematize 2
 acrostolion 2
 atticize 1
 acroteral 2
@@ -4296,7 +4296,7 @@ azonium
 aggenerate
 armorer
 autotomize 1
-alchornea
+alchornea 1
 aesculapius
 anomaloflorous
 assubjugate 1
@@ -22394,7 +22394,7 @@ asteriskless 1
 ans
 armourers 1
 astrogony 1
-aspartyl 1
+aspartyl 2
 aquintocubital 2
 abohm 3
 autoaspiration 1
