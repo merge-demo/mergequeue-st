@@ -3086,7 +3086,7 @@ breather 2
 blastplate 1
 bating 3
 badminton 2
-barware 2
+barware 3
 boneblack 2
 basale 2
 berascaling 3
@@ -4950,7 +4950,7 @@ bitriseptate 1
 braggite
 boatel
 bandy 1
-beek
+beek 1
 balkers 3
 bioclimatologies 1
 beekeepers 2
@@ -5271,7 +5271,7 @@ biogeochemistry
 bundlings 2
 byssin 2
 burrier 1
-beggary 2
+beggary 3
 beeriest
 bicrescentic
 bringsel 2
@@ -10407,7 +10407,7 @@ briticism
 banner 1
 badling
 bronco
-bailwood
+bailwood 1
 burgrave 2
 biosynthesis 3
 bravado 1
