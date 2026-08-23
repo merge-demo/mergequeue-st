@@ -3039,7 +3039,7 @@ gizmos
 gaga 2
 glowworms
 greylags 1
-gucki
+gucki 1
 geocline 1
 grits 4
 gipping 2
@@ -6935,7 +6935,7 @@ gomeral 1
 galavanted 1
 goodrich 2
 guides 3
-grayfly
+grayfly 1
 geometrised 1
 greenhide 2
 gurnard 2
