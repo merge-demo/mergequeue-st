@@ -557,7 +557,7 @@ delivers 1
 dromon 1
 disbursable 1
 disfranchiser 1
-damaskeen 1
+damaskeen 2
 dod 1
 dravya 1
 dynamoneure 2
@@ -704,7 +704,7 @@ delinquently 2
 dusio
 drynesses
 danaine
-danaite
+danaite 1
 detainer 2
 deltaic
 dragshoe 1
@@ -1097,7 +1097,7 @@ defluxion 1
 datiscaceae 1
 diestocks
 dacryocystorhinostomy 1
-dhyal
+dhyal 1
 decayless 2
 declivitous 1
 divisibleness
@@ -3360,7 +3360,7 @@ definitor 1
 desulphurized
 dogmouth 3
 dentils 1
-doles
+doles 1
 deturn 2
 dictative
 defis
@@ -3771,7 +3771,7 @@ deicers 1
 doctordom 1
 defacingly
 deicides
-dismutation
+dismutation 1
 deictical 1
 devilkin
 dreissiger 1
@@ -4386,7 +4386,7 @@ dihalide
 desmic 5
 dictionally 1
 disangelical 2
-dawsonia 1
+dawsonia 2
 dilapidated
 dementing 2
 decayers
@@ -5812,7 +5812,7 @@ deiphobus 1
 desolations 2
 domal
 demeaning
-disconcert
+disconcert 1
 deprecator 2
 dysbarism 2
 datism 1
@@ -11395,7 +11395,7 @@ dactylioglyphist 1
 disclusion
 diaphones
 deadnesses 2
-dispauper
+dispauper 1
 designlessness 2
 dollar 1
 deoccidentalize 1
@@ -12265,7 +12265,7 @@ disgrading 1
 driblet 3
 denitration 1
 demigrate 1
-desynchronize 3
+desynchronize 4
 diphosphate 2
 diaconia 1
 delineates 1
@@ -14516,7 +14516,7 @@ demurest 2
 dyeing 2
 detruncated
 dermas 1
-disintegratory
+disintegratory 1
 divinability 3
 defiles
 diviner 1
