@@ -10579,7 +10579,7 @@ forebitten 2
 falltime 1
 forcipiform 3
 franking 3
-frostroot
+frostroot 1
 fluky 1
 flatus 1
 furnaces 1
