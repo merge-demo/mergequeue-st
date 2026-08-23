@@ -2136,7 +2136,7 @@ campanulate 2
 clueless 2
 chondrosarcomata
 campanulous 2
-cowbells
+cowbells 1
 campbell
 campbellisms
 campbellites
@@ -3875,7 +3875,7 @@ carbonemia 1
 coccolith
 cavilled
 carbonide 1
-convalescent
+convalescent 1
 cacophonical
 corrigibility 1
 colliform
@@ -3933,7 +3933,7 @@ ccm 1
 carboxylic
 carboxyls 1
 carbromal 1
-carbuncle
+carbuncle 1
 chuckrum
 chronoscopy 1
 carbuncular
@@ -11153,7 +11153,7 @@ chizzel 1
 chladnite
 chondrite 1
 churlishly
-chlamyd
+chlamyd 1
 chlamydate 2
 chlamydobacteriaceous
 cantion
@@ -12710,7 +12710,7 @@ cogovernment
 chandler 2
 congenitally 2
 chuddah
-courtesied 1
+courtesied 2
 countermarch
 cassone
 challengers
@@ -14791,7 +14791,7 @@ conjecturableness 2
 cytoblastemic
 cytoblastemous
 cytochemistry
-chameleons 1
+chameleons 2
 chararas 2
 cytochrome
 cytoclasis
@@ -17497,7 +17497,7 @@ coinitial
 circummigrate
 cobridgehead
 chrysostomic
-chimneyhead
+chimneyhead 1
 cardiarctia 1
 crotching
 coburg
@@ -20375,7 +20375,7 @@ commutable
 canada 1
 conjee
 commutant 1
-commutated 1
+commutated 2
 commutation 3
 commutatively
 carpogone 1
@@ -20864,7 +20864,7 @@ compositing
 compositional 1
 cacoepist 2
 conspirational 2
-compositor
+compositor 1
 compositors
 cashed 1
 costeaning
@@ -25854,7 +25854,7 @@ compellative 2
 cardiographs
 convolutive
 curted
-chenopodiaceae 1
+chenopodiaceae 2
 correctorship
 corruptful
 clawback
@@ -26116,7 +26116,7 @@ coelomocoela
 cosmetically 4
 calctufas 1
 cliquier
-crummie 1
+crummie 2
 cosmetics
 chakravartin 1
 crosswalks 1
@@ -28791,7 +28791,7 @@ colleagues 1
 calotin 1
 chok
 chuckfull
-cines
+cines 1
 crescentlike 1
 crescentoid 1
 crescents 1
