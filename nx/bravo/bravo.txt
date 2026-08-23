@@ -3248,7 +3248,7 @@ breird 1
 begunk
 beautifying 3
 bisalt
-bote
+bote 1
 blottesquely 2
 babbling 1
 biotechnological 2
@@ -3745,7 +3745,7 @@ brucella 2
 barnstorms 2
 battler 1
 battleships
-blushiness
+blushiness 1
 battlesome 2
 brigantes 1
 battlestead 1
@@ -4086,7 +4086,7 @@ bedeafen 1
 beaner
 bolewort 1
 beanfield 1
-bardling 1
+bardling 2
 brontosaurs
 bronchomucormycosis
 beriberic
@@ -5927,7 +5927,7 @@ blitzkrieg 1
 butterroot 1
 belast 2
 berber 1
-brandenburgs 2
+brandenburgs 3
 biggety 1
 buffaloes 1
 beltane
@@ -6994,7 +6994,7 @@ besmouch 2
 bloodying 2
 bacteritic
 besmudge 1
-beamless 1
+beamless 2
 bronzite 1
 bespouses
 boxhaul 1
@@ -8375,7 +8375,7 @@ buzukis 2
 beatster 1
 benzocoumaran 1
 bignou
-betask 1
+betask 2
 bygo 1
 bygone
 bist 1
@@ -11899,7 +11899,7 @@ boedromion 1
 brevirostrate
 backtrail
 besmutting 1
-barabora
+barabora 1
 boron 1
 boatlip 1
 borgh 2
@@ -13377,7 +13377,7 @@ baggers 2
 batons
 bellicosity 2
 babbie
-bunder
+bunder 1
 bothnic 1
 batteled
 bawn
@@ -14225,7 +14225,7 @@ bantin 2
 batters 2
 balladise
 bleu 1
-bluebottles
+bluebottles 1
 boutiques 1
 bloodstroke 1
 byegaein
@@ -15352,7 +15352,7 @@ bioelectrogenesis
 berther
 bordarius 1
 bardolph 2
-beetleweed 2
+beetleweed 3
 bursa 2
 batrachidae
 bridgetin
