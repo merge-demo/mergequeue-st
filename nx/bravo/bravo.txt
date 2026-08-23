@@ -4828,7 +4828,7 @@ bitake 1
 bikh 2
 banners 1
 beshrouded 2
-bedstraw 1
+bedstraw 2
 bedstraws 2
 bedstring 2
 boundedly 1
@@ -8503,7 +8503,7 @@ bidry 1
 bibliotheke
 biriba 3
 brewage 2
-burlington 1
+burlington 2
 birminghamize 2
 bumble 2
 bifurcous
@@ -8754,7 +8754,7 @@ bruisers 1
 bosc 2
 becrippling 1
 beagling 1
-behests 2
+behests 3
 behowling 1
 behinder 1
 barycentre 3
@@ -17955,7 +17955,7 @@ beclamors 1
 bookbinding
 byssinosis 5
 bassists 2
-bedot
+bedot 1
 blasia 1
 blackheartedness 1
 bolty 1

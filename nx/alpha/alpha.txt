@@ -2499,7 +2499,7 @@ anteambulate 2
 acknowledgments
 anatexes
 abnormalities
-archfriend 1
+archfriend 2
 angiocardiography
 autocombustible 1
 aclinic
@@ -2742,7 +2742,7 @@ ankylophobia 2
 acridity
 aerobee 3
 acridities
-acrydium
+acrydium 1
 acridness 1
 anencephalia 1
 accentually 1
@@ -6344,7 +6344,7 @@ animative
 amending 1
 aggress 1
 artsman 1
-agrarianly 1
+agrarianly 2
 agrauleum 3
 agariciform
 agreation 1
@@ -8600,7 +8600,7 @@ analyzer 1
 awfullest 1
 allantoinase 2
 ampullosity
-acetoxim
+acetoxim 1
 allantoxaidin
 anthropoclimatology 3
 actinouranium 1
@@ -8948,7 +8948,7 @@ archaically 4
 apospory 1
 anematizing
 aerobiologic 1
-allomorphism 5
+allomorphism 6
 allomorphite 3
 alongst 1
 allonymous
@@ -14884,7 +14884,7 @@ arrondi 2
 accessioner
 alife
 anticyclical
-amorously
+amorously 1
 anticyclogenesis 2
 anticyclolysis 1
 aliquant 1
@@ -15414,7 +15414,7 @@ antilysin 1
 anther 2
 alloploidy
 awaited
-abrasion 2
+abrasion 3
 argonaut
 antilithic 2
 antilitter 1
@@ -16028,7 +16028,7 @@ arctangent 3
 androclclinia
 aerolitics
 aparaphysate 1
-acidification 1
+acidification 2
 atypically
 anaeroplasty
 astor 2
@@ -21655,7 +21655,7 @@ autocycle 1
 amblyopsidae 1
 assart
 antistriker
-assassinate
+assassinate 1
 azoeosin
 achromats
 afikomen
