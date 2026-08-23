@@ -8754,7 +8754,7 @@ bruisers 1
 bosc 2
 becrippling 1
 beagling 1
-behests 2
+behests 3
 behowling 1
 behinder 1
 barycentre 3
@@ -9569,7 +9569,7 @@ biblist
 bodewash 3
 budorcas
 breeching
-bisantler
+bisantler 1
 budgets 1
 bothridium
 barque
@@ -9890,7 +9890,7 @@ bitonalities 1
 belibeling
 breaghe 3
 balonea 1
-besotter 1
+besotter 2
 brasilete
 barr 2
 babysat
@@ -10336,7 +10336,7 @@ blains 2
 bestialize 2
 boiler
 bestialities 2
-bednights
+bednights 1
 blakeberyed
 bloodalp 5
 blakeite 1
