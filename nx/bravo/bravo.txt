@@ -8139,7 +8139,7 @@ besieging
 bidiagonal 2
 binucleate 1
 barble 2
-biding 1
+biding 2
 bidirectional 4
 biophagy 1
 bhumij 2
@@ -11649,7 +11649,7 @@ boathouse
 boffos 3
 blacketeer
 baccare 1
-bittacle
+bittacle 1
 beachboys 2
 barterers 1
 berend 1
@@ -13917,7 +13917,7 @@ bowshot
 brined 2
 bulbaceous
 boatswains 2
-brainish 1
+brainish 2
 bowshots 1
 boomkins 1
 backstopped 3
@@ -16191,7 +16191,7 @@ bdellidae 2
 balklines 2
 brotheler
 bragget 1
-bulla
+bulla 1
 bristletail
 bayonetted 1
 bred 1
