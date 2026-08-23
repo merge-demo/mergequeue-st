@@ -899,7 +899,7 @@ aflatus 1
 amurcosity 1
 absentminded
 aerobics 2
-absentness 3
+absentness 4
 avicennism
 aiver
 abshenry 1
@@ -3287,7 +3287,7 @@ antitank 1
 aready 1
 abram
 adductors 2
-antilevelling 1
+antilevelling 2
 accusatorial
 aleberry 1
 agitprop
@@ -3636,7 +3636,7 @@ abattises
 acumination 1
 adharma 1
 asphalt 1
-abada 1
+abada 2
 antipodagron 4
 aepyornis 1
 agelessly 1
@@ -5529,7 +5529,7 @@ acrostichic 1
 aftercooler
 autocollimate 1
 ack
-apological 1
+apological 2
 almoning
 acentric
 aftercrop 2
@@ -7758,7 +7758,7 @@ analyticities 3
 adnascence
 angustia
 ald 1
-aldea 2
+aldea 3
 antichresis
 adzooks 2
 accommodational
@@ -11654,7 +11654,7 @@ anacid 1
 ambulacriform 1
 amal 1
 acronyc
-amarevole
+amarevole 1
 androgametophore
 ailette 1
 atonal 2
@@ -12501,7 +12501,7 @@ anear
 abrogable 2
 annihilability
 autodermic 1
-asphyxy 1
+asphyxy 2
 approval 1
 animalia
 admensuration 2
@@ -13411,7 +13411,7 @@ areolar
 androgenic
 attributives 1
 arcosolium
-adscripts
+adscripts 1
 amucks 1
 antiloimic
 anaptomorphus 2
@@ -13834,7 +13834,7 @@ anorectal 1
 arizonan
 anorectic
 anagallis
-africanism 2
+africanism 3
 antonovics 1
 amidoacetic 1
 averred 1
@@ -17303,7 +17303,7 @@ afterdate 2
 amli
 antisiphonal
 aerolithology 1
-ashram
+ashram 1
 acetonize 2
 antiagglutinant 1
 azido 2
@@ -18165,7 +18165,7 @@ adequately
 attitudes 1
 aquascope
 asqueal 2
-alltud
+alltud 1
 ashberry 1
 aquate
 astalk
@@ -18176,7 +18176,7 @@ arhats
 almsfolk 1
 acrimoniously
 aquatintist 3
-analogically 1
+analogically 2
 advowee 1
 acanthocephala 2
 acrestaff
@@ -19797,7 +19797,7 @@ arsphenamine 2
 albation
 anarchal 1
 arcane 2
-averrer 3
+averrer 4
 ast
 atrail
 arrah
@@ -22436,7 +22436,7 @@ allegorization 2
 astrometry
 amplect
 agric
-animalising 1
+animalising 2
 astrometric 3
 astronaut 1
 axolotl 1
@@ -25016,7 +25016,7 @@ asymmetral
 anionically 1
 argid 2
 apama 2
-awing
+awing 1
 adephagous 1
 ammines 1
 antiprohibitionist
