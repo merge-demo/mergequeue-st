@@ -9607,7 +9607,7 @@ bandlimits 2
 bisectors
 bisectrices 1
 bednighted
-busybodyness
+busybodyness 1
 bullheadedness 1
 bisects 1
 bottleflower 2
