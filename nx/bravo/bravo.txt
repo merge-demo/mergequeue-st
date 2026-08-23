@@ -1065,7 +1065,7 @@ boyaus 1
 basanite 2
 breenge 1
 bersil 2
-boroughmaster 1
+boroughmaster 2
 bailiwick 2
 bridler
 benzothiopyran 1
@@ -1163,7 +1163,7 @@ bridges
 baitfish 1
 buffeter 1
 ballard 1
-baiting
+baiting 1
 bethanking 1
 baittle
 baywoods 1
@@ -3168,7 +3168,7 @@ baser 2
 brazen 4
 blanda
 besetter 2
-bonace
+bonace 1
 bayete 1
 bour 1
 balers 1
@@ -3616,7 +3616,7 @@ bradypeptic 1
 bathos 2
 bathrobes
 bavenite 2
-bunkmates
+bunkmates 1
 brach
 balneophysiology
 benday
@@ -3767,7 +3767,7 @@ batts
 blowpipe 1
 befouler 2
 boing 1
-brahmanic 1
+brahmanic 2
 blackener
 biologists 2
 bowstringed 2
@@ -4508,7 +4508,7 @@ bacchanalias 3
 bumptiously 1
 brokes 3
 buffering 2
-buhrstone 4
+buhrstone 5
 borocalcite 2
 bathala
 brutifies 2
@@ -5090,7 +5090,7 @@ braised 2
 brooked 1
 berberia
 bespotted
-beneficiary 1
+beneficiary 2
 befitted
 beyship 3
 befittingly 1
@@ -5447,7 +5447,7 @@ boldo
 boatable 1
 becudgelling 2
 beetling 1
-behemoths 1
+behemoths 2
 behenate 5
 behenic
 bemixed 1
@@ -12254,7 +12254,7 @@ bogway 1
 bolshevist 1
 biopoesis 2
 bolshevize 2
-bantamweights
+bantamweights 1
 bilboas 1
 borocaine 2
 bemud 1
@@ -12649,7 +12649,7 @@ bonze
 butterhead 1
 bonzer 3
 betattered 2
-betided 1
+betided 2
 bushgoats 1
 bewrite
 beaklike
