@@ -7860,7 +7860,7 @@ dogbodies 3
 dew 4
 degentilize
 diatoric
-depress
+depress 1
 defrayals 2
 diverseness
 dewatered
