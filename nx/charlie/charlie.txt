@@ -4925,7 +4925,7 @@ carsickness 2
 caviteno
 combinably 1
 ceilinged 2
-carrottop
+carrottop 1
 carstone 1
 cart
 counterpoising
@@ -6005,7 +6005,7 @@ confessionaries 2
 cathodal 2
 cathode 1
 cathodes 1
-cathodograph
+cathodograph 1
 conjurers
 cloacinean 2
 cathodography
@@ -10824,7 +10824,7 @@ chintses 1
 chaperons
 chintze
 cystal
-chintzy 1
+chintzy 2
 califs
 caulomer
 clapholt
@@ -17409,7 +17409,7 @@ cordigeri 1
 coaxial
 cellarman
 coaxing
-coazervate 1
+coazervate 2
 contline
 coeloblastic 2
 cryophilic
@@ -19564,7 +19564,7 @@ cobblestones 2
 cankerous 1
 cos 2
 columbiferous 2
-costula
+costula 1
 chronanagram 1
 columbiformes 1
 commodate
@@ -21328,7 +21328,7 @@ counterblow
 compunction 1
 concho 2
 conchoids
-communicableness 1
+communicableness 2
 conchol
 conchometer 1
 conchospiral
@@ -22329,7 +22329,7 @@ coward 1
 congratulational 2
 costumire
 congratulations 1
-congratulatory
+congratulatory 1
 congree
 commandant
 congregable
@@ -22694,7 +22694,7 @@ continualness 1
 chebule 1
 crossgrainedness 1
 counterdecision 1
-ciderlike
+ciderlike 1
 caseworms
 conocarpus
 conocephalum 1
@@ -26381,7 +26381,7 @@ coswearer
 cot 2
 cotabulate
 carya
-cotarius
+cotarius 1
 catwise
 calander 1
 centipedal 1
@@ -27259,7 +27259,7 @@ clothespress
 countywide 1
 cerebellopontine
 countlessness
-countor 3
+countor 4
 commanders
 cardhouse
 crossfall 2
@@ -28980,7 +28980,7 @@ charlatanically
 cricoid 1
 cricoids
 couper 1
-cricopharyngeal
+cricopharyngeal 1
 cricothyreotomy
 cojuror 2
 cricothyroidean 1
@@ -29262,7 +29262,7 @@ cutlas
 choices 4
 cryptobranchiate 2
 collides
-ciphered
+ciphered 1
 claquer 1
 calibrate 2
 compliableness 2
@@ -29369,7 +29369,7 @@ cryptopyic 1
 cambistry
 characterizers
 cantator
-concrement 1
+concrement 2
 catalogs
 cryptoproselyte
 cryptorchis
