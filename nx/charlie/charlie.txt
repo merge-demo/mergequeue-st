@@ -3891,7 +3891,7 @@ carbonimeter
 carbonimide
 choultries 2
 contrastimulant 1
-costaea 2
+costaea 3
 chinkle 1
 criminalness
 crankles
@@ -9490,7 +9490,7 @@ checkerberries
 chorological
 checkerbloom 1
 calyciform 1
-cleaner 4
+cleaner 5
 checkery
 checkering
 consignifying
@@ -11892,7 +11892,7 @@ contend
 chordal
 cosharer 3
 chordamesodermal
-chordamesodermic
+chordamesodermic 1
 chordate
 chorded
 chordee 1
@@ -13395,7 +13395,7 @@ cantico
 calindas 1
 crossarm
 cyclotome 1
-cyclotomic 1
+cyclotomic 2
 camisias
 cyclotosaurus
 cecidologist
@@ -27748,7 +27748,7 @@ champagnizing
 cowry 1
 cowrie 2
 cowries
-calina 1
+calina 2
 catbrier
 carpal 1
 corkscrews
