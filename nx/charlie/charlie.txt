@@ -6739,7 +6739,7 @@ cornbin
 ciscos 1
 cribbages 1
 celebs
-celemin 2
+celemin 3
 celemines
 celery 2
 cimborio
@@ -14083,7 +14083,7 @@ circinate
 coxcombs
 chirinola
 circination
-circiter
+circiter 1
 counterapproach
 circled 1
 chemically
