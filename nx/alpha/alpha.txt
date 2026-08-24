@@ -1683,7 +1683,7 @@ accroides
 accruable
 atty 2
 anatomism 1
-attribute 1
+attribute 2
 actualities 1
 accrued 2
 accruement 1
@@ -12550,7 +12550,7 @@ anemically
 anemobiagraph 2
 anemochord
 antimodernization 1
-anemochore
+anemochore 1
 aleutic 1
 aforehand
 anaboly
