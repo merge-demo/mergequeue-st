@@ -610,7 +610,7 @@ abnormalcies
 adrenalectomies 1
 acetylcyanide
 adjure 2
-anatomical
+anatomical 1
 amynodont 1
 abococket
 abode
@@ -3267,7 +3267,7 @@ anisometropia 1
 ashlar
 activation 3
 azaserine 1
-actuation 3
+actuation 4
 acuaesthesia 1
 achingly 1
 acidulously 1
@@ -5380,7 +5380,7 @@ abbasid 1
 aplacentalia
 afforesting
 autophotometry
-anticogitative 1
+anticogitative 2
 afformative 3
 affrayers
 affraying 1
@@ -11361,7 +11361,7 @@ amphithecia
 amendableness 1
 almacen 1
 advisees 2
-amphithecium 1
+amphithecium 2
 abjures 3
 antependiums
 alterant 2
@@ -12805,7 +12805,7 @@ alternative 1
 applies 1
 angiocardiographies 1
 anileness
-angiocarpic 1
+angiocarpic 2
 angiocarpous
 anaunter
 apardon 1
@@ -15631,7 +15631,7 @@ antineutrino 1
 acerbities 1
 ametria
 aftermatter
-anting 5
+anting 6
 absist 1
 assary
 apprehensible 1
@@ -18761,7 +18761,7 @@ airships
 annulose
 archean 1
 archearl 1
-attorneydom 2
+attorneydom 3
 archebanc 1
 archebancs 1
 alkine 1
@@ -18813,7 +18813,7 @@ acoustically 2
 armida 1
 abjuring 1
 allomerization 1
-agoniatite 1
+agoniatite 2
 archers
 acetonurometer 1
 arches
@@ -19131,7 +19131,7 @@ arcifera 2
 arcifinious 2
 alluvion
 arciform
-archoptosis 1
+archoptosis 2
 asexualise 2
 arcite
 adherences
@@ -19437,7 +19437,7 @@ allottees 2
 archaean
 astrophysics 1
 argify 1
-argyle
+argyle 1
 autocarpian
 aseptate
 alleyed 2
