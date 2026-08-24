@@ -3666,7 +3666,7 @@ brazenfacedly 3
 bemoat
 botchery 2
 billheads 3
-basic 1
+basic 2
 bioplasm
 batoon
 biconjugate
@@ -4429,7 +4429,7 @@ batis
 befleas
 belchers 2
 bypassing
-becloaks
+becloaks 1
 blackfriars 5
 batule 2
 becloak 5
@@ -5811,7 +5811,7 @@ buckstone 1
 bellyache 2
 biremes 2
 butlerism 1
-bandstop
+bandstop 1
 bellyached
 bismethyl 1
 bellyacher 1
@@ -8688,7 +8688,7 @@ binoxalate 1
 bimanous 1
 bradsot 1
 bodysurf
-bournless 4
+bournless 5
 buggyman 1
 bimanually
 breechloading 2
@@ -9522,7 +9522,7 @@ bakairi 5
 byrthynsak 1
 birthless 2
 bathkol 1
-blastemata 3
+blastemata 4
 berceuses 1
 bacteria
 branchiostegite 1
@@ -10350,7 +10350,7 @@ bamboozlers
 binarium
 boil 2
 boozers 1
-blame
+blame 1
 blamefully 1
 bicyclical 2
 betise 1
