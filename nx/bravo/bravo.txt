@@ -1041,7 +1041,7 @@ balcony 1
 burnweed
 bail 1
 buxeous
-bafta 5
+bafta 6
 bringer
 barfs 1
 bailable
@@ -2727,7 +2727,7 @@ bogomile 1
 buoyantly
 branching 3
 bienne
-betrothals
+betrothals 1
 bloodstanch
 balandrana 1
 brasen 1
@@ -2772,7 +2772,7 @@ boose 1
 boatloading 2
 bookies 1
 barycentric 3
-been 1
+been 2
 baroneting 2
 baronetize
 ballistocardiographic
@@ -4621,7 +4621,7 @@ boanerges 1
 bouts 1
 beddingroll 3
 bubble 2
-bogans
+bogans 1
 bewilderingly 1
 broomwood 1
 bedeafening 1
@@ -5604,7 +5604,7 @@ bumbard
 bombloads 1
 blisters 1
 brough 2
-bulletheaded 2
+bulletheaded 3
 battlement 2
 blepharal 2
 bewigs
@@ -8724,7 +8724,7 @@ barrett
 beseeching 1
 beaverite 2
 bulldoggish 1
-blackly
+blackly 1
 brills 1
 bullethead 3
 betoss
@@ -9849,7 +9849,7 @@ beamy 1
 biternately 1
 blanketer 2
 babuls
-bressummer 1
+bressummer 2
 batamote
 beworried 1
 brassica 1
@@ -11866,7 +11866,7 @@ braggest 1
 bondswomen 3
 benote
 bridebed
-beperiwigged 3
+beperiwigged 4
 barytocelestine
 bodysurfed
 bodysurfer 3
@@ -11967,7 +11967,7 @@ broncobusters 1
 bandagers 1
 birmingham 3
 bbls 2
-braireau 2
+braireau 3
 bostons 3
 bogymen 1
 bogland
@@ -12407,7 +12407,7 @@ bigotries 1
 brothy 1
 betterly 1
 barbarians
-bassariscus 2
+bassariscus 3
 buckram 1
 befingering
 blindless 1
@@ -13054,7 +13054,7 @@ besteading 1
 blackberry
 bucking 1
 bordering
-bemantle 1
+bemantle 2
 balangay 1
 bolster 1
 blousing 1
@@ -13242,7 +13242,7 @@ babuma
 buzzers
 beaugregory 2
 breatheableness 1
-binocle 1
+binocle 2
 bosporanic 2
 bosque 1
 brushfires
@@ -13986,7 +13986,7 @@ brutalizing 2
 bluecup 2
 bolometrically 1
 bensel 1
-bothlike
+bothlike 1
 boxwoods 1
 bozo 2
 basher 3
@@ -15752,7 +15752,7 @@ brocatello 1
 blaubok 1
 billionths 2
 bleaches 1
-bangkoks 2
+bangkoks 3
 broch 2
 bogeys 1
 bullyingly 2
@@ -15990,7 +15990,7 @@ bungee
 bogsucker 1
 bufotenin 1
 besoin 2
-brutish
+brutish 1
 bronchocephalitis 2
 bronchoconstriction 4
 baptistries
@@ -16323,7 +16323,7 @@ brucia
 brucin 2
 brucine
 brucines 3
-bleachman 3
+bleachman 4
 bruckleness
 belfries
 bespete 3
@@ -16742,7 +16742,7 @@ byrlawman
 babehood
 buckwagon 2
 boodie
-buckwheatlike
+buckwheatlike 1
 balaic 1
 butterwoman 1
 buckwheats 1
@@ -17708,7 +17708,7 @@ braconid 1
 bankeress 2
 boubou 1
 broach
-beefiest 1
+beefiest 2
 basilyst 1
 bicornes
 buyer 3
@@ -17975,7 +17975,7 @@ basilosauridae 1
 bullae 1
 busied
 betties 1
-brigued
+brigued 1
 bulldust 4
 breakups
 borderland 2
