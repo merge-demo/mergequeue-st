@@ -1094,7 +1094,7 @@ frizzling 2
 farthing 5
 foresay
 fluffing 3
-feverishness
+feverishness 1
 flamingly 3
 fractional
 filiates 3
@@ -1586,7 +1586,7 @@ funambulo 1
 functionating
 fallalery 2
 faniente 4
-favouring 1
+favouring 2
 footroom 3
 floriage 2
 flappier 4
@@ -4988,7 +4988,7 @@ flyswatter
 flibbertigibbety 5
 figbird
 flyover 2
-foundationally 1
+foundationally 2
 fleetingness
 faldetta 1
 fettle 3
@@ -5326,7 +5326,7 @@ fant 1
 forcepslike 2
 foulmouthedly 3
 flimflam
-focusses 1
+focusses 2
 flightworthy 4
 fldxt 1
 frower 2
@@ -5527,7 +5527,7 @@ fieri 2
 fervours 1
 finnan 3
 fletchers
-furrower 3
+furrower 4
 furnit 4
 faked 1
 faithfulness 3
@@ -5887,7 +5887,7 @@ facsimilize
 fates 1
 flexity 3
 feague 1
-fangas 1
+fangas 2
 flinted 2
 ferrichloride 3
 furnishings 2
@@ -6825,7 +6825,7 @@ frette
 fiddlebrained 3
 freeing 3
 foraminiferan 2
-fikery 2
+fikery 3
 florula 1
 fragmentizer 3
 flacian 1
@@ -7779,7 +7779,7 @@ fanbearer 3
 fractionize 2
 flyflower 1
 flawed 2
-fabliau 1
+fabliau 2
 financial 2
 forejudging 1
 florentines
@@ -7788,7 +7788,7 @@ fettucine
 foremother
 frithbot 1
 flyblew 2
-fianced
+fianced 1
 flickery 2
 faint 3
 fraenum 2
@@ -10416,7 +10416,7 @@ fletcherite 1
 fanwise 1
 fz 3
 frontierless 1
-fireproofness 2
+fireproofness 3
 fungite 3
 flusterment 1
 fibroplasia 2
@@ -11333,7 +11333,7 @@ furfuralcohol 1
 freebees 1
 flathat
 faceted 2
-fusulina 2
+fusulina 3
 fps 5
 furfurine
 funebrious 2
