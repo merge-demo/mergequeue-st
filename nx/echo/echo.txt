@@ -9,7 +9,7 @@ electrochronograph
 engirding
 erigeron
 evaporometer 3
-euchologion
+euchologion 1
 emigate 2
 erosivity 1
 evenmindedness 2
@@ -970,7 +970,7 @@ ensaffron 1
 endomitotic 2
 excrementary 1
 edaphology 1
-etymological
+etymological 1
 edaphon 5
 ecchymotic 4
 encumbrancer 1
@@ -5073,7 +5073,7 @@ ecstasize 2
 encrustment 5
 elegits 2
 ember 1
-elaeoblast
+elaeoblast 1
 einsteinian
 elatives 2
 endocrines
