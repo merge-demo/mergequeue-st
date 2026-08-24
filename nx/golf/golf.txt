@@ -4383,7 +4383,7 @@ gobby 2
 gregarianism 2
 grazierdom 1
 grainsickness 1
-gosplan 1
+gosplan 2
 gammelost
 gunshots
 graminology
@@ -6229,7 +6229,7 @@ greaves 1
 gamelike
 gaum 1
 goatweed 3
-guerrillaism 3
+guerrillaism 4
 glanduliferous
 genitures 5
 goave 1
@@ -7212,7 +7212,7 @@ gape 1
 gorgosaurus 1
 galenism 1
 gorillalike 2
-guardage 2
+guardage 3
 gemlike 2
 gamesters 1
 grimliness 2
@@ -8594,7 +8594,7 @@ gurnet 2
 gliderport 4
 greenbacks
 glomeli
-glebeless
+glebeless 1
 gainliest 2
 gavotted 3
 gesnera 1
