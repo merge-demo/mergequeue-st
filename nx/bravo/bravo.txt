@@ -429,7 +429,7 @@ beamer
 backpedal 1
 backpedaling
 backpiece 1
-bolshevistic 3
+bolshevistic 4
 backplane 2
 bushwas 3
 backscatter
@@ -1601,7 +1601,7 @@ bifidity 1
 beknighting 2
 brummagem 1
 ballyhoo
-ballyrags
+ballyrags 1
 bioelectrogenetic 2
 belat 2
 ballised 2
@@ -4480,7 +4480,7 @@ blackmail
 barbone 1
 balboas 1
 bursicle 3
-bucklers 1
+bucklers 2
 bustling 1
 bonnering 1
 becry
@@ -7737,7 +7737,7 @@ britten 3
 bathyscaphe 1
 bravoite
 buxerry 1
-bhikshu
+bhikshu 1
 bullan
 barquantine
 breakover
@@ -9214,7 +9214,7 @@ boudoirs 1
 babblesome 1
 benzophenanthrazine 2
 balsaminaceous 2
-balladical 1
+balladical 2
 biparentally
 businesswoman
 bushelmen 3
@@ -11417,7 +11417,7 @@ bowlderhead 1
 berycoidei 3
 bluecurls 2
 brawn
-blears 1
+blears 2
 browbands
 blued 2
 basisolute
@@ -14713,7 +14713,7 @@ brassbounder 1
 brasse
 brassey
 boxiest 2
-biographically 1
+biographically 2
 brassicaceae 1
 backworm 2
 brassiere 1
@@ -17703,7 +17703,7 @@ butteriness 1
 biont 1
 burrawang
 beanos
-bihourly 1
+bihourly 2
 braconid 1
 bankeress 2
 boubou 1
@@ -18301,7 +18301,7 @@ backwashing 2
 bowless 1
 buttinski
 buttled 2
-bobsledded 3
+bobsledded 4
 backbiting 2
 buttock 1
 bronchodilatation 2
