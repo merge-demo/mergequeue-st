@@ -2542,7 +2542,7 @@ emptiable
 electrometer 3
 exstrophy 1
 earthgrubber
-electrometrical 1
+electrometrical 2
 enchodontidae 3
 encopreses
 extremes 2
@@ -4435,7 +4435,7 @@ eringoes 1
 enneadianome
 ezekiel 2
 eric 2
-encastre
+encastre 1
 encastrement 2
 encaustically 2
 emotionalizing
@@ -4699,7 +4699,7 @@ euthermic 1
 embarrass 3
 elodea 3
 eyren 1
-existent 1
+existent 2
 exodos 1
 estranging
 endosmosic 2
@@ -6509,7 +6509,7 @@ epaenetic 2
 entanglements 1
 extraplanetary 3
 egophonic
-entangles
+entangles 1
 empanel 2
 eatings
 entasis 2
@@ -8248,7 +8248,7 @@ eschynite 2
 embosoms
 eurus
 epithalamize 2
-endophyllous
+endophyllous 1
 equivalve 3
 ennobles 2
 epithalline
@@ -10816,7 +10816,7 @@ eurodollar
 essart 2
 entasia 2
 eleanor
-expurgatory 3
+expurgatory 4
 estivates 2
 embiidae 1
 euphemizer 2
