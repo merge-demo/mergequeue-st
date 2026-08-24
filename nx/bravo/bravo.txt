@@ -798,7 +798,7 @@ boltheads 1
 badnesses 2
 bradylogia 1
 bads 2
-bicetyl 1
+bicetyl 2
 beeline
 bibliotherapy
 bethorn 1
@@ -1584,7 +1584,7 @@ ballet 2
 bigged 1
 blastiest 1
 ballets
-brevetcy 1
+brevetcy 2
 blowtube 2
 ballgame 1
 ballhooter 2
@@ -1601,7 +1601,7 @@ bifidity 1
 beknighting 2
 brummagem 1
 ballyhoo
-ballyrags
+ballyrags 1
 bioelectrogenetic 2
 belat 2
 ballised 2
@@ -1638,7 +1638,7 @@ bullbird
 ballones 2
 brasier
 boiguacu 1
-ballonne 2
+ballonne 3
 bewrays
 ballooners 1
 bickering 1
@@ -2559,7 +2559,7 @@ brackishness 2
 begster
 birk
 backlists 1
-bashlyk
+bashlyk 1
 brained 1
 bonaci
 beltways 1
@@ -3177,7 +3177,7 @@ brocket 1
 buttresses
 balanopsidales 2
 baka
-bilabial 1
+bilabial 2
 baptisin 1
 bataleur 2
 bashmuric 1
@@ -3909,7 +3909,7 @@ bawsunt
 blamelessness 1
 beechnuts
 bhil
-bishophood
+bishophood 1
 bedlamp 2
 bifidated
 breadline
@@ -5811,7 +5811,7 @@ buckstone 1
 bellyache 2
 biremes 2
 butlerism 1
-bandstop
+bandstop 1
 bellyached
 bismethyl 1
 bellyacher 1
@@ -7737,7 +7737,7 @@ britten 3
 bathyscaphe 1
 bravoite
 buxerry 1
-bhikshu
+bhikshu 1
 bullan
 barquantine
 breakover
@@ -8642,7 +8642,7 @@ baronizing
 billow 1
 bimorph 1
 balladeroyal 1
-butterflyfishes
+butterflyfishes 1
 belinuridae 1
 billowiest 1
 bounceable 3
@@ -9214,7 +9214,7 @@ boudoirs 1
 babblesome 1
 benzophenanthrazine 2
 balsaminaceous 2
-balladical 1
+balladical 2
 biparentally
 businesswoman
 bushelmen 3
@@ -11417,7 +11417,7 @@ bowlderhead 1
 berycoidei 3
 bluecurls 2
 brawn
-blears 1
+blears 2
 browbands
 blued 2
 basisolute
@@ -14810,7 +14810,7 @@ brunt 1
 brazenfacedness 1
 bargh 1
 brazens
-brazer
+brazer 1
 brazers 2
 brows 2
 brazier
@@ -17137,7 +17137,7 @@ buckass 1
 backboards 1
 bullheads
 buckwheater 1
-basophilous 2
+basophilous 3
 barbera 1
 biethnic
 brab
@@ -17145,7 +17145,7 @@ baselike 1
 bullier 2
 boreades 1
 borane 4
-beltir
+beltir 1
 backheel 1
 bodier 1
 bim 1
@@ -17703,7 +17703,7 @@ butteriness 1
 biont 1
 burrawang
 beanos
-bihourly 1
+bihourly 2
 braconid 1
 bankeress 2
 boubou 1
@@ -18035,7 +18035,7 @@ bullshots 1
 bodken 2
 bafyot 4
 bepaw 1
-basifying 1
+basifying 2
 bottler
 busthead 2
 bayonetting 1
