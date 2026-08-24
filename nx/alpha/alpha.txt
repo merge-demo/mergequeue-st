@@ -4295,7 +4295,7 @@ acmispon 1
 azonium
 aggenerate
 armorer
-autotomize 1
+autotomize 2
 alchornea 1
 aesculapius
 anomaloflorous
@@ -10799,7 +10799,7 @@ amissible
 arracks
 amissing 1
 amita 2
-anthropoids 3
+anthropoids 4
 apartmental 2
 adherends 2
 aplanatically
@@ -12467,7 +12467,7 @@ andromache 1
 arbusterol
 andromaque
 arborizes
-actuary 1
+actuary 2
 andromed 2
 assapanick 5
 andromeda
@@ -16960,7 +16960,7 @@ anton 6
 aminization
 affectedness 1
 angliae 1
-amphorette
+amphorette 1
 aplanatic
 apheliotropically 1
 aplanatism 2
@@ -20336,7 +20336,7 @@ aistopod 1
 arsenization 2
 acrologically 3
 amphimacer 1
-acanthodidae
+acanthodidae 1
 arsenobenzol 1
 ankylocheilia 3
 ascogonial
