@@ -437,7 +437,7 @@ askoi
 anticonstitutional
 algores
 antihydropic 1
-antinomianism
+antinomianism 1
 annihilate
 abigei 1
 aureus 1
@@ -1969,7 +1969,7 @@ acetylfluoride 2
 aerobian 1
 appendix
 acetylglycin 2
-apologetical
+apologetical 1
 argyria 1
 acetylhydrazine
 anacardiaceous
@@ -2495,7 +2495,7 @@ adoxography
 aconic
 acknowledgers 1
 aistopodes
-anteambulate 2
+anteambulate 3
 acknowledgments
 anatexes 1
 abnormalities
@@ -4908,7 +4908,7 @@ amas
 arkwright 2
 aerodermectasia 1
 aerodynamically 1
-astrolater 1
+astrolater 2
 appoggiatura 1
 apopetalous
 amphibiology
@@ -5275,7 +5275,7 @@ affidare 1
 affidation 2
 altropathy 1
 acrography 1
-antihemorrhagic 2
+antihemorrhagic 3
 allegorists 1
 almond
 amplified
@@ -5803,7 +5803,7 @@ andouille 1
 agaricaceous 2
 agaricoid
 agarics 1
-apluda 1
+apluda 2
 acephalia
 acculturative
 agaroid 1
@@ -6549,7 +6549,7 @@ ahom
 achromia 1
 ahu
 admonitions
-aminoethionic
+aminoethionic 1
 awny 1
 arienzo 3
 ahuaca 4
@@ -6834,7 +6834,7 @@ afterband
 affable
 amyrin
 amphigories
-ammonify 1
+ammonify 2
 airdrome
 airdromes 1
 advertizing
@@ -6893,7 +6893,7 @@ airposts
 airlock 2
 atmospherical
 annoyingness 1
-ava 1
+ava 2
 airmark 1
 attention
 astomatous 1
@@ -9079,7 +9079,7 @@ ancylostome
 allowableness
 ammonoid 2
 allowed 1
-attorned
+attorned 1
 assertiveness 1
 adjute 2
 acquiescing
@@ -15306,7 +15306,7 @@ antigrammatical
 aminoacetanilide 1
 arcadings 2
 anisotropal 2
-arar 3
+arar 4
 acetimetry
 afterdinner 2
 antigravitate 1
@@ -15931,7 +15931,7 @@ antiproductive 1
 aceratosis
 antiproductivity 1
 atacaman 1
-alphabetisation
+alphabetisation 1
 acetobromanilide 1
 antiprojectivity 1
 antiprostate 2
@@ -18187,7 +18187,7 @@ aquatone
 adenitises 1
 acidemias
 aquavits 2
-amantillo
+amantillo 1
 asseverating 2
 aberuncator
 aporphin 1
@@ -18397,7 +18397,7 @@ antidetonant 1
 ankylotia 1
 arapahos 2
 azorian
-adversant
+adversant 1
 awaiter 2
 anticensoriously 2
 araponga 2
@@ -20652,7 +20652,7 @@ arthrostomy
 arthrotyphoid
 amputative 1
 azimide
-ansi
+ansi 1
 accinged
 arthrous
 acrylaldehyde 1
@@ -21452,7 +21452,7 @@ apoferritin 3
 arillary 3
 acaricide
 antirealistic
-anaclasis 1
+anaclasis 2
 alantol 2
 anthelion 1
 aspergilli 1
@@ -21826,7 +21826,7 @@ archiblastula 1
 allotropous
 altimetrical
 assidual
-agathodaemon 3
+agathodaemon 4
 aecial 2
 anorexiant 1
 alaki 4
@@ -23910,7 +23910,7 @@ amalgamist 1
 appositively 1
 alumbrado 1
 anzac 1
-authigenetic 1
+authigenetic 2
 antiozonant
 authigenous
 anodine
