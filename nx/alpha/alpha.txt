@@ -437,7 +437,7 @@ askoi
 anticonstitutional
 algores
 antihydropic 1
-antinomianism
+antinomianism 1
 annihilate
 abigei 1
 aureus 1
@@ -1969,7 +1969,7 @@ acetylfluoride 2
 aerobian 1
 appendix
 acetylglycin 2
-apologetical
+apologetical 1
 argyria 1
 acetylhydrazine
 anacardiaceous
@@ -5826,7 +5826,7 @@ affirmatives 1
 agate
 agates 2
 autoturning
-antinationalism
+antinationalism 1
 antenave
 appal 1
 aquatinter 1
@@ -6549,7 +6549,7 @@ ahom
 achromia 1
 ahu
 admonitions
-aminoethionic
+aminoethionic 1
 awny 1
 arienzo 3
 ahuaca 4
@@ -6834,7 +6834,7 @@ afterband
 affable
 amyrin
 amphigories
-ammonify 1
+ammonify 2
 airdrome
 airdromes 1
 advertizing
@@ -7087,7 +7087,7 @@ aquench
 attiring 1
 akees
 anaphalis 1
-akehorne 2
+akehorne 3
 akela 1
 alkahestical 1
 acalephes
@@ -9079,7 +9079,7 @@ ancylostome
 allowableness
 ammonoid 2
 allowed 1
-attorned
+attorned 1
 assertiveness 1
 adjute 2
 acquiescing
@@ -9802,7 +9802,7 @@ apophonies 2
 amalgamate 1
 ambolic 1
 adjutory
-antimonarchical 1
+antimonarchical 2
 anamesite
 ampelopsin 1
 alvearies 1
@@ -13270,7 +13270,7 @@ aulacocarpous 1
 ancestors 2
 aegithognathous 1
 animus 2
-administrationist
+administrationist 1
 animuses 2
 anomaly
 anionic 1
@@ -14498,7 +14498,7 @@ absolutista
 asymmetry 1
 anthraxylon 1
 anthrenus
-atwitch
+atwitch 1
 anthribidae 1
 antipharisaic 1
 arunta 1
@@ -15931,7 +15931,7 @@ antiproductive 1
 aceratosis
 antiproductivity 1
 atacaman 1
-alphabetisation
+alphabetisation 1
 acetobromanilide 1
 antiprojectivity 1
 antiprostate 2
@@ -15993,7 +15993,7 @@ acubens
 arecolidine 2
 albumenise 1
 autophonous
-aromatiser 2
+aromatiser 3
 advisable 1
 atreus
 antiradiating
@@ -18397,7 +18397,7 @@ antidetonant 1
 ankylotia 1
 arapahos 2
 azorian
-adversant
+adversant 1
 awaiter 2
 anticensoriously 2
 araponga 2
@@ -20652,7 +20652,7 @@ arthrostomy
 arthrotyphoid
 amputative 1
 azimide
-ansi
+ansi 1
 accinged
 arthrous
 acrylaldehyde 1
@@ -21452,7 +21452,7 @@ apoferritin 3
 arillary 3
 acaricide
 antirealistic
-anaclasis 1
+anaclasis 2
 alantol 2
 anthelion 1
 aspergilli 1
@@ -21826,7 +21826,7 @@ archiblastula 1
 allotropous
 altimetrical
 assidual
-agathodaemon 3
+agathodaemon 4
 aecial 2
 anorexiant 1
 alaki 4
