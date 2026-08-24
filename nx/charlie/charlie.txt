@@ -2131,7 +2131,7 @@ captivator
 campanular
 campanulariae 1
 campanularidae 1
-campanulatae 1
+campanulatae 2
 campanulate 2
 clueless 2
 chondrosarcomata
@@ -2390,7 +2390,7 @@ companator 1
 chinbones
 canaries
 cohobates 1
-canarine 2
+canarine 3
 canarium
 centers 1
 canarsee
@@ -3341,7 +3341,7 @@ commemoratively
 coughweed
 capocchia
 capoche
-chrysomelidae
+chrysomelidae 1
 cogware
 chelates
 caponata 1
@@ -5475,7 +5475,7 @@ compendent 2
 castrensial
 christianness 1
 casualism 1
-casualist 1
+casualist 2
 clarified 1
 curvesome
 casuals 1
@@ -5863,7 +5863,7 @@ categorizes
 chromeplated 1
 cabas
 crawling
-chateau 2
+chateau 3
 cateye
 catel
 coelongated
@@ -12881,7 +12881,7 @@ chemotaxonomist
 cutling
 cathodic
 chummily 2
-chilliwack
+chilliwack 1
 curried 1
 churchwardenism 1
 columbines
@@ -17048,7 +17048,7 @@ conventually
 centrolepidaceae 1
 caprylin
 cornroot 1
-cibaria 1
+cibaria 2
 coperose
 coachfellow
 coachy 1
@@ -17355,7 +17355,7 @@ coastguardsmen 2
 cacheted
 cruder
 coastland 2
-constipated
+constipated 1
 curtails 1
 couscouses 1
 coastlines 1
@@ -17577,7 +17577,7 @@ chiropterophilous
 cyanurate
 couvade 2
 coruscates 3
-coccygerector
+coccygerector 1
 cuartel 1
 coccygine 1
 creme
@@ -17925,7 +17925,7 @@ crude
 coef
 chromosphere
 contractibility 1
-coefficients
+coefficients 1
 coelacanthidae
 coelacanthous 2
 coelar 1
@@ -18358,7 +18358,7 @@ cogitativity 1
 comparer
 curvle
 cogitator 2
-cogito 1
+cogito 2
 coglorify
 cogman
 coralloid 1
@@ -22679,7 +22679,7 @@ craniol 1
 coverable 1
 collectedly 2
 conteur
-carless
+carless 1
 chambre 1
 craniopathy
 coordinations 1
@@ -24721,7 +24721,7 @@ copperwing
 cladodes 1
 coppices 1
 crepehanger 2
-coppin 1
+coppin 2
 charkhana
 corkscrewing 1
 canyons 2
