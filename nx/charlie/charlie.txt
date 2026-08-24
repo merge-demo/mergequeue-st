@@ -17321,7 +17321,7 @@ canonizations
 chickory
 coarsening
 coarsens 2
-coarticulate
+coarticulate 1
 coarticulation 1
 claylike
 clivus
