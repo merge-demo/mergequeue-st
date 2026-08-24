@@ -9606,7 +9606,7 @@ bicapsular
 bandlimits 2
 bisectors
 bisectrices 1
-bednighted
+bednighted 1
 busybodyness 1
 bullheadedness 1
 bisects 1
@@ -9943,7 +9943,7 @@ bigroot 2
 breachy 1
 bittings 1
 boodle
-budders 1
+budders 2
 boget 1
 bedticking
 bituminate
