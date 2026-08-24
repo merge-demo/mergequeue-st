@@ -2965,7 +2965,7 @@ accidentiality
 anacromyodian
 armamentary
 advisive
-aerobatics 1
+aerobatics 2
 albugineous
 acrostichoid 2
 acrostichum 2
@@ -4631,7 +4631,7 @@ atactic 1
 argols
 autobiology
 advisement 1
-atli 1
+atli 2
 abreacting 1
 arranger
 addax
@@ -14045,7 +14045,7 @@ anteater 1
 astrologian 1
 achronychous 1
 antebaptismal
-andesyte
+andesyte 1
 albigenses 1
 acculturational 3
 adjustation
@@ -17828,7 +17828,7 @@ accusatory
 amobarbital
 apppetible
 atmans 1
-aheap 1
+aheap 2
 albizzia 1
 afteroar 2
 agnathostomata 3
@@ -19425,7 +19425,7 @@ alexins 1
 actory
 athwartwise 1
 authorship 1
-antoecians
+antoecians 1
 augurial 1
 argentry 1
 abbest
@@ -23419,7 +23419,7 @@ aphaeretic 1
 audiometrically
 antitwilight
 audiophile 1
-audiophiles 1
+audiophiles 2
 abbandono
 allowancing 1
 athyroid 1
@@ -23708,7 +23708,7 @@ articles 1
 anteroflexion 2
 auriphone 2
 aspalathus 1
-auriphrygia 1
+auriphrygia 2
 auripigment 1
 aurir 2
 auriscalpia 3
