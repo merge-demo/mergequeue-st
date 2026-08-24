@@ -1895,7 +1895,7 @@ deboss 1
 detractive 1
 debouche 2
 dupery 2
-disbench
+disbench 1
 disconcertingness
 digladiator 3
 discourse 1
@@ -5304,7 +5304,7 @@ despotize
 diatomacean
 decimalized 1
 dismissals 1
-demibombard 2
+demibombard 3
 disguising 1
 dysteleology 1
 displant 2
@@ -12814,7 +12814,7 @@ dismals
 dithalous 1
 disman 1
 dismantles 1
-darksome 1
+darksome 2
 dishevelment 1
 dyarchic 2
 derotreme 4
@@ -18210,7 +18210,7 @@ dynamicity 3
 dumpoke
 deltohedra 1
 dumps 2
-dissective
+dissective 1
 dumsola
 dedendum 2
 disdiaclastic
