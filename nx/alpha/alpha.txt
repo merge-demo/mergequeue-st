@@ -185,7 +185,7 @@ acolapissa 1
 anakes
 abbasi 1
 abbasside
-advertizable
+advertizable 1
 agamian 1
 altostratus 1
 ashtray 1
@@ -2646,7 +2646,7 @@ aspiratory
 animikite
 altaid 2
 adffrozen
-adjacent 1
+adjacent 2
 acquest
 armenite 1
 actutate
@@ -3585,7 +3585,7 @@ albertype 1
 anareta 2
 avaradrano 1
 addrest
-articulite 1
+articulite 2
 astricts 1
 adduced 2
 aragonese
@@ -3624,7 +3624,7 @@ assemblance
 alectryon 1
 ascosporous
 apetalae
-acceptation 1
+acceptation 2
 accorporate 2
 amphicyrtous 1
 adelarthrosomatous
@@ -5428,7 +5428,7 @@ antiloemic 2
 autogiro 3
 aecia 1
 avail 1
-afire 1
+afire 2
 aflagellar 1
 acapnias 2
 aflat
@@ -10818,7 +10818,7 @@ amitrole
 ancre
 aureolas 1
 antiagglutinating 1
-aged
+aged 1
 amiantuses 2
 amyxorrhea
 architis
@@ -11978,7 +11978,7 @@ afterharm
 alcaligenes
 antiwit
 anaphases 2
-anaphe 1
+anaphe 2
 apperception
 apexing
 ancille
@@ -11998,7 +11998,7 @@ anaphylactogenic
 alcibiades
 anaphylatoxin 3
 anaphyte
-avoidment 3
+avoidment 4
 alkoxide 2
 acron 2
 abodement
@@ -15525,7 +15525,7 @@ attntrp 1
 armguard
 antimystic 1
 antimystical
-antimystically
+antimystically 1
 apathic
 antimysticalness
 aeroduct
@@ -16124,7 +16124,7 @@ asseverate
 avadavat
 arrantly
 acerates
-antisepticism 2
+antisepticism 3
 asset
 ascertainable 1
 awaked 1
@@ -22958,7 +22958,7 @@ atrichic
 achaemenian 2
 abbogada 2
 acceding 1
-adulterating
+adulterating 1
 archpriesthood 1
 annary 1
 atriocoelomic
@@ -23162,7 +23162,7 @@ attendingly
 aubepine 2
 antisoporific 1
 attendment
-aposoro
+aposoro 1
 aulu 1
 attendress
 aciurgy
@@ -23920,7 +23920,7 @@ arabizing 1
 agile 1
 ataxite
 amphibologism
-authorhood 2
+authorhood 3
 acaridae
 admonishing 1
 authorised
