@@ -2170,7 +2170,7 @@ examination
 elderberries 1
 erythemic 1
 emissitious 1
-elderliness 2
+elderliness 3
 exponentiated 1
 expect 2
 enamor 3
@@ -5491,7 +5491,7 @@ enfeebles 1
 enfeebling 2
 eucarida
 epigrammatised 4
-edessan 2
+edessan 3
 enfeeblish
 effectful 2
 epilimnetic 3
@@ -5736,7 +5736,7 @@ expective 3
 eddying 1
 enfief 2
 endues 2
-earthlike 4
+earthlike 5
 ensalada 3
 englanders
 engleim 4
@@ -5753,7 +5753,7 @@ englobe
 empressements 1
 epigraphy 2
 elites
-expressions 1
+expressions 2
 englobed 3
 enneahedral 2
 envelopment 1
@@ -7584,7 +7584,7 @@ enhungered 2
 euphemious 1
 electrophoridae 1
 epicoracoid 2
-exocrine 1
+exocrine 2
 ellachick 1
 eccentricities 1
 elapse
@@ -9528,7 +9528,7 @@ evacuees 2
 extensometer 1
 eyesalve 1
 exannulate 2
-endosmotic 1
+endosmotic 2
 ergastoplasmic 1
 enchytraeidae
 emigree 1
@@ -9688,7 +9688,7 @@ erethism 1
 empyrical 2
 envapor 1
 essayed 1
-extraorganismal
+extraorganismal 1
 empathize 1
 embacle 1
 exocarps 1
@@ -11692,7 +11692,7 @@ erept
 epulones 1
 embracers 1
 exogenism
-electrotactic 2
+electrotactic 3
 eadish 3
 eudyptes 4
 exaggerate 3
@@ -11861,7 +11861,7 @@ euconic 2
 excandescent
 explemental 1
 erythrochroic 1
-endocrinopathy 1
+endocrinopathy 2
 eulogized
 enacts
 equationism 3
@@ -11955,8 +11955,8 @@ endamebas 1
 exchanges 3
 electrotherapist
 exalter 1
-exocataphoria
-ese 1
+exocataphoria 1
+ese 2
 evolvulus 2
 entrainment 1
 exairesis 1
@@ -12302,7 +12302,7 @@ evocatrix 1
 everlasting 1
 eggplant 1
 enfoul 2
-exemplificator 2
+exemplificator 3
 egypt 2
 exemplified 1
 ergasia
@@ -12379,7 +12379,7 @@ eseptate 3
 equilobate
 eupepsies 1
 edgeling 1
-exhibitors 1
+exhibitors 2
 endorsers 2
 excrescencies 1
 eucosmid 2
@@ -12546,7 +12546,7 @@ epapophysis 3
 euphemy
 emissaria
 enhalos 2
-eugeny 3
+eugeny 4
 enneacontahedron 3
 exoskeleton 2
 equicohesive 3
@@ -12691,7 +12691,7 @@ exometritis 4
 excogitate 1
 endeavors 1
 emotionless 2
-echo 1
+echo 2
 erotized 1
 emerse 1
 elzevir
