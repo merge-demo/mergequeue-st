@@ -4870,7 +4870,7 @@ formalness 1
 followable 1
 flails 2
 feuilletonism 2
-furoic 1
+furoic 2
 fourteen 2
 fady 2
 fixes
@@ -6693,7 +6693,7 @@ fuzzes 1
 felicity 4
 flatterable 1
 flintlock 1
-flouts
+flouts 1
 feudary 2
 fogfruits 1
 fluerics 2
@@ -7749,7 +7749,7 @@ filmographies 6
 frankpledge 1
 fumigants 6
 furfuraceous 1
-frere 5
+frere 6
 foreshaft 4
 forelook 1
 femmes 2
@@ -8218,7 +8218,7 @@ feverberries 3
 formicinae 1
 folles 2
 faddle 3
-fraught 3
+fraught 4
 flourishable 1
 fordrive
 flockbed
