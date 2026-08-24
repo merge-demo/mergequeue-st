@@ -2641,7 +2641,7 @@ bantamweight 3
 berlinize 2
 birdhouses 1
 bilges 1
-botanise 2
+botanise 3
 belayed 2
 begirdle 1
 battening 2
@@ -10316,7 +10316,7 @@ blae 1
 bestudding 1
 blaeberries
 bebothered 2
-blepharoplasty 2
+blepharoplasty 3
 blaflum 1
 blaggard 2
 benzotriazole 1
@@ -10519,7 +10519,7 @@ beaten
 brainy 4
 bridgewards
 bodywood 1
-broke 5
+broke 6
 blastomyces 3
 bainie 1
 benignities 3
@@ -10766,7 +10766,7 @@ bollworms 4
 brags
 blennosis 1
 beethovenish 2
-bolectioned
+bolectioned 1
 brassie 1
 beavered 4
 boody 2
@@ -12664,7 +12664,7 @@ bedunch 1
 blueth
 boodled 3
 braccia
-bestowable
+bestowable 1
 bister
 boogeymen
 bane 2
@@ -14892,7 +14892,7 @@ barksome
 breadstitch
 burnet 3
 brakehand
-blackwork
+blackwork 1
 betrample 2
 bechalking
 berms
