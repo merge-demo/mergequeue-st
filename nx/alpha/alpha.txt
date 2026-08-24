@@ -374,7 +374,7 @@ astrogonic 1
 arrival 1
 aberration
 aberrational
-aberrative
+aberrative 1
 acinose
 abetments
 ambulant 3
@@ -1066,7 +1066,7 @@ anaphylactoid 1
 auberge 1
 aeronautically
 alcoholophilia 1
-abri
+abri 1
 absurdity
 assonances 1
 angiohemophilia 1
@@ -2060,7 +2060,7 @@ acetotoluid
 accessible
 argumentator 1
 aporrhais 1
-acetous
+acetous 1
 acetoxyl 1
 approbatory 1
 allegoristic 1
@@ -2549,7 +2549,7 @@ alexin
 alabastrons
 amoebicidal
 acolyth
-aculei
+aculei 1
 acolythate 1
 ardella 1
 autoserum 1
@@ -5191,7 +5191,7 @@ allusively 5
 aetobatidae 1
 ancien
 antidoting
-aphoria
+aphoria 1
 anamorphism 1
 aetomorphae 2
 almohade
@@ -8869,7 +8869,7 @@ admittance
 archaeol 1
 allocatur 1
 acanthocephalan 2
-atumble
+atumble 1
 astound
 albahaca
 assumable 3
@@ -11575,7 +11575,7 @@ atwo 1
 alunites 2
 aldermanly 1
 anabathrum 2
-asperously
+asperously 1
 astigmism 2
 aristogenesis
 asparagyl 1
@@ -12550,7 +12550,7 @@ anemically
 anemobiagraph 2
 anemochord
 antimodernization 1
-anemochore
+anemochore 1
 aleutic 1
 aforehand
 anaboly
@@ -13317,7 +13317,7 @@ assailing 1
 asnort
 anisodactylic 1
 advocate 2
-axilemma
+axilemma 1
 anisogametes
 algarde 2
 annueler
@@ -16424,7 +16424,7 @@ antoecian 2
 ascogonia
 anticonvention
 adramelech
-account
+account 1
 affluence
 antoinette
 autotypy 1
@@ -17962,7 +17962,7 @@ approvance 3
 absolutes
 arsyl
 approvedly 1
-antiempirical
+antiempirical 1
 anisodactyle
 adipomata 1
 allodialism 1
@@ -18926,7 +18926,7 @@ alarmism 5
 actinomycetales
 archimperialist 3
 assemblies 1
-archines
+archines 1
 apio
 angili 1
 arteriostosis
