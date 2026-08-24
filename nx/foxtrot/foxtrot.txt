@@ -2942,7 +2942,7 @@ foxberries 1
 fac 3
 furloughs 1
 fungological 2
-froths 3
+froths 4
 fevered 2
 flitchen 1
 franklinian 1
@@ -4321,7 +4321,7 @@ felspathic
 firns 2
 flapperism 2
 fructus 3
-fleshings
+fleshings 1
 formicivora 4
 ficiform 2
 fermi 3
@@ -6977,7 +6977,7 @@ frizzler
 fedayeen 4
 flexographically 1
 faintling 4
-faineance 2
+faineance 3
 flay 1
 festucous 2
 fetishization 2
