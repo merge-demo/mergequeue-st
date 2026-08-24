@@ -1067,7 +1067,7 @@ breenge 1
 bersil 2
 boroughmaster 2
 bailiwick 2
-bridler
+bridler 1
 benzothiopyran 1
 blockhead 1
 brachycephalization 2
@@ -1876,7 +1876,7 @@ banderma
 banderol 3
 befrets
 banderole 3
-bastardliness 1
+bastardliness 2
 bindings
 brigading 1
 banders 1
@@ -2274,7 +2274,7 @@ barbarised 2
 benzazimide 2
 barbarising 1
 bragless
-barbarities 3
+barbarities 4
 barbarization
 boucle 1
 begoggled 2
@@ -10712,7 +10712,7 @@ bacillogenous
 benton
 balanophora
 browpiece
-bookbinderies
+bookbinderies 1
 bullweeds
 blenching
 blend
@@ -12338,7 +12338,7 @@ balatronic 2
 bombes 4
 babaylan 2
 bombesins 1
-brightsomeness 1
+brightsomeness 2
 beeregar
 bombernickel
 brandle
@@ -16900,7 +16900,7 @@ barvell 2
 bufotalin 1
 bufotoxin 1
 biconcavity
-burglar
+burglar 1
 buzukia 1
 bugaboo
 bugan 3
