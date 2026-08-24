@@ -6164,7 +6164,7 @@ aglint
 arbitrated
 alfaquis
 ahey
-autocytolytic
+autocytolytic 1
 alois 1
 aglypha
 analogal 1
@@ -9717,7 +9717,7 @@ alurgite
 autocephalic
 asepalous 1
 altiplanicie 1
-aphthonite 1
+aphthonite 2
 antennule 2
 anglicans 2
 alvar 2
@@ -14490,7 +14490,7 @@ alden
 antiphysical
 anaglyptical 1
 avellane 1
-antimetabolite
+antimetabolite 1
 abiotrophy
 arsenical 4
 anthratriol 2
@@ -15215,7 +15215,7 @@ antifebrin
 apologized 1
 antisynod 2
 alunogen 1
-antifederalism
+antifederalism 1
 assentient 2
 antifelony 2
 antarctalian
@@ -25015,7 +25015,7 @@ awikiwiki 2
 asymmetral
 anionically 1
 argid 2
-apama 2
+apama 3
 awing 1
 adephagous 1
 ammines 1
