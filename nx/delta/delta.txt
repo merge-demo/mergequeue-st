@@ -11105,7 +11105,7 @@ disattune 1
 defiling 1
 diplomacy 1
 dysautonomia
-disavail 2
+disavail 3
 dayroom 1
 discomforted 1
 dissaves 1
@@ -15447,7 +15447,7 @@ descending 1
 don 4
 danker
 donack
-dowsed
+dowsed 1
 daishiki 1
 demiglace 1
 defibrillate
