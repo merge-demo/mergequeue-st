@@ -2570,7 +2570,7 @@ beleaped 2
 blens
 bactrian
 barile 1
-barilla
+barilla 1
 beleaf 1
 barters 3
 bathofloric
@@ -2866,7 +2866,7 @@ barrad
 bridebowl 2
 boskage
 biform
-bashawism
+bashawism 1
 bellmouth
 buddage 2
 brushed
@@ -4810,7 +4810,7 @@ bemeans 2
 brakesman 2
 befancy
 bits 1
-bedside
+bedside 1
 bedsonia 2
 bakers 3
 bemirrorment
@@ -5475,7 +5475,7 @@ brine
 backiebird
 beatless 1
 behoved 1
-basting 3
+basting 4
 behoves 1
 behoving 1
 bogotana 2
@@ -8546,7 +8546,7 @@ burro 1
 brachiolarian 1
 bagtikan 2
 bassanello 2
-baar 1
+baar 2
 bandos
 bennis 1
 barih
@@ -8745,7 +8745,7 @@ battish 2
 bubblingly 1
 bimodule
 buckeroo
-bimonthlies 2
+bimonthlies 3
 bended 2
 bemixt 2
 bimotors 1
@@ -9040,7 +9040,7 @@ bionomic 1
 bursas 1
 bionomically 1
 beaneries
-bionomies
+bionomies 1
 brawest
 beckie 1
 booky 2
@@ -11579,7 +11579,7 @@ ballismus 3
 byronism 1
 bromidic
 brogger 2
-blush 1
+blush 2
 blushed 3
 banga
 bandannas 3
@@ -11964,7 +11964,7 @@ bessarabian 2
 brinded 2
 bogyman 2
 broncobusters 1
-bandagers 1
+bandagers 2
 birmingham 3
 bbls 2
 braireau 3
@@ -12374,7 +12374,7 @@ buckshee
 breath 1
 brigades 3
 biskop 1
-borage 1
+borage 2
 baskets
 bomble
 blackbutt 1
@@ -12671,7 +12671,7 @@ bane 2
 bellical 1
 buhrs 2
 bec
-branded 3
+branded 4
 bolivares
 bunion
 booger
@@ -15210,7 +15210,7 @@ bronziest
 besmutted 1
 barberfish
 briarwood
-bribable 2
+bribable 3
 bovinities 1
 bipinnaria 1
 bribees 1
@@ -17270,7 +17270,7 @@ bumboat
 bumclock 1
 batling 2
 boltings 3
-birddom
+birddom 1
 braguette 3
 batik 2
 baggies 1
