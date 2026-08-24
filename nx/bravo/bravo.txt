@@ -1549,7 +1549,7 @@ baltimore 1
 bloodmonger
 blackware 1
 boarder 2
-ballas
+ballas 1
 baronetised
 blacktopping
 banks 1
@@ -3470,7 +3470,7 @@ buildingless
 bigamizing 1
 bathylite
 bovine 1
-basts
+basts 1
 banuyo 3
 basural
 bioscientific 1
@@ -10509,7 +10509,7 @@ blastocoele
 blastodisc
 becharming 1
 bakestone
-biologistic 1
+biologistic 2
 bepastured 1
 blastogenic 4
 bandfiled 2
