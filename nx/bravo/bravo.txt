@@ -2609,7 +2609,7 @@ barytophyllite 2
 blawed
 bridgelike 2
 barkary 1
-bluestocking
+bluestocking 1
 barkbound 2
 bamoth
 betterments
@@ -12377,7 +12377,7 @@ biskop 1
 borage 1
 baskets
 bomble
-blackbutt
+blackbutt 1
 brickwall
 boombox 2
 boner 1
@@ -18264,7 +18264,7 @@ boathead 1
 bordun 1
 backflip
 butterman 1
-bootblacks 1
+bootblacks 2
 bastardy 3
 buttermonger
 bice 2
