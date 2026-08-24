@@ -9,7 +9,7 @@ electrochronograph
 engirding
 erigeron
 evaporometer 3
-euchologion
+euchologion 1
 emigate 2
 erosivity 1
 evenmindedness 2
@@ -970,7 +970,7 @@ ensaffron 1
 endomitotic 2
 excrementary 1
 edaphology 1
-etymological
+etymological 1
 edaphon 5
 ecchymotic 4
 encumbrancer 1
@@ -1092,7 +1092,7 @@ exhibitorship 1
 erinite 1
 edwina 2
 extempory 1
-epeisodion 2
+epeisodion 3
 esterification 1
 electrotypes 2
 epicaridea 4
@@ -1535,7 +1535,7 @@ exhale 2
 emportment 4
 ephydra
 euthanasy 2
-enmeshments 1
+enmeshments 2
 erotopathy
 excresence
 explication 2
@@ -3231,7 +3231,7 @@ elude 2
 equant 1
 educive 1
 extroversively 2
-eludible
+eludible 1
 epilogize 1
 enfollow 1
 elul 3
@@ -3569,7 +3569,7 @@ embosoming 2
 euchlaena 2
 encraal
 embossage 1
-embossed
+embossed 1
 embossing 4
 emulsifications 1
 embossman 1
@@ -4191,7 +4191,7 @@ exocardiac 2
 enghle 2
 emeutes
 egoize
-enwound
+enwound 1
 emptiers 2
 emptio 3
 emptor 1
@@ -4511,7 +4511,7 @@ electing
 embeggar 3
 earthmove 2
 erica 3
-ee 1
+ee 2
 epidiorthosis 1
 enodation
 excoction 3
@@ -5073,7 +5073,7 @@ ecstasize 2
 encrustment 5
 elegits 2
 ember 1
-elaeoblast
+elaeoblast 1
 einsteinian
 elatives 2
 endocrines
@@ -5255,7 +5255,7 @@ enravishes 5
 externes 1
 ernest
 estocs 1
-ergodicity 3
+ergodicity 4
 elegiast 1
 eliminability 1
 extrahepatic 2
@@ -9908,7 +9908,7 @@ economizer 1
 etaballi 1
 epipterygoid
 exprimable 1
-euphuists 2
+euphuists 3
 embolisms 4
 estovers
 estradiol 1
@@ -10777,7 +10777,7 @@ eigenvector 1
 emer 3
 endogalvanism
 eucnemidae 2
-excursions 1
+excursions 2
 exercitant 1
 extemporaneity 4
 elasticate 6
@@ -13779,7 +13779,7 @@ euphorbia 1
 ententophil 1
 entelechial 6
 ectoenzym 3
-extinguisher
+extinguisher 1
 emulates 5
 extinguishers
 eryngoes 4
