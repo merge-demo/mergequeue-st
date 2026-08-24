@@ -1308,7 +1308,7 @@ calfskin
 creatural 1
 calgary 2
 caliban
-cunea 2
+cunea 3
 calaverite
 caliber 1
 compulsatory 1
@@ -2557,7 +2557,7 @@ crewel 3
 childproof
 cacqueteuse 1
 candlenut 1
-candlepins 1
+candlepins 2
 cerevis
 candler
 cryogeny
@@ -7035,7 +7035,7 @@ cheap
 choledochostomy
 centenier 1
 centennia
-cytaster
+cytaster 1
 condonations 1
 cack 2
 centennially
@@ -11522,7 +11522,7 @@ compester
 chokedamp
 chokeys
 camerata 1
-congenetic
+congenetic 1
 choker
 coredeemed
 cratonic
@@ -14364,7 +14364,7 @@ cacorrhachis 1
 computate
 cachot
 chapacuran 1
-cankering 3
+cankering 4
 coifed
 curriery
 carvist 1
@@ -16999,7 +16999,7 @@ cluttered
 clutterment 1
 cm 1
 coinclude 2
-chm 1
+chm 2
 cmd
 cofferdams
 cnemial 1
@@ -25346,7 +25346,7 @@ chaplainship
 cornbole
 cornbottle 1
 contrade 1
-clistocarp
+clistocarp 1
 commemorating 1
 causeways 2
 corncakes
@@ -27790,7 +27790,7 @@ coxbones
 coxcomb 2
 coxcombess 2
 catacaustic 1
-crookneck
+crookneck 1
 chaetopterin
 coxcombic 2
 chondrus
@@ -28920,7 +28920,7 @@ crikey
 cryable
 cryanesthesia
 criant
-carbonigenous 2
+carbonigenous 3
 corke
 cuphea
 corallorhiza
