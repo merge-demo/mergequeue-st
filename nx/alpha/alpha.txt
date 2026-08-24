@@ -6858,7 +6858,7 @@ airglows
 airgraphics
 androcyte 2
 airhead 2
-ashthroat
+ashthroat 1
 ascula 2
 aquiculturist
 aeromarine 2
@@ -21394,7 +21394,7 @@ anemochorous
 amitroles
 askip 1
 actiniohematin 2
-askos 1
+askos 2
 aslant 1
 aglethead
 aevum
