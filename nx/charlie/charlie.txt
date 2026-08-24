@@ -3545,7 +3545,7 @@ cosmotheistic 1
 captacula 2
 captain 1
 captaincy 1
-captaincies
+captaincies 1
 caprioled
 captainry
 captainship 1
@@ -3684,7 +3684,7 @@ condemningly 1
 caramelisation
 coillen 1
 caramelise
-caramelize
+caramelize 1
 caramelized
 counterpointe
 caramels 2
@@ -4802,7 +4802,7 @@ carpology
 corrosibility 1
 circensian 2
 corynocarpaceae
-calicular 1
+calicular 2
 cottonee 1
 carpometacarpal
 carpometacarpi 1
@@ -5287,7 +5287,7 @@ cataleptic 1
 conduced 1
 cuculine 2
 cantar
-cacological 3
+cacological 4
 cassy
 charabancs 1
 cichoraceous 1
@@ -9476,7 +9476,7 @@ counterbuff
 chachalaca
 cableways 4
 cirrigerous 2
-climatically
+climatically 1
 chaetites
 checkbooks 1
 calculated
@@ -11308,7 +11308,7 @@ chlorococcales 1
 coincider
 coho 1
 chlorocresol
-chlorodyne 2
+chlorodyne 3
 condyloid 1
 chlorodize 1
 consderations 2
@@ -15324,7 +15324,7 @@ cakewalks 1
 campings
 clangours 1
 clangs 1
-conquests
+conquests 1
 critter 1
 calluses
 chronographical
@@ -20583,7 +20583,7 @@ counterterror
 coremia 1
 chalah 1
 compenetration 1
-compensated
+compensated 1
 cerrero 1
 conglomerates 1
 compensatingly
@@ -20781,7 +20781,7 @@ complicates 1
 cheapskate
 complicator 1
 complice
-complicity
+complicity 1
 campodea 5
 compliment 1
 coenesthesis
@@ -21914,7 +21914,7 @@ conferval
 combe
 clof
 chinamania 1
-confessable
+confessable 1
 creating
 chungking
 convexities 1
@@ -27895,7 +27895,7 @@ conquians
 crabut 3
 crabweed
 coreid 1
-crabwise
+crabwise 1
 crabwood
 cracca
 craccus
