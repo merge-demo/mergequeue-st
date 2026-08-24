@@ -15773,7 +15773,7 @@ cleanout
 cleansable 1
 clankety 1
 cellists 1
-cleanse 1
+cleanse 2
 centrarchidae 4
 cryptopyrrole
 crestfallenly
@@ -23261,7 +23261,7 @@ controversialize 1
 canoeload
 construer
 cyamus
-cardiatomy
+cardiatomy 1
 coalitionist 1
 cohobation
 construes
