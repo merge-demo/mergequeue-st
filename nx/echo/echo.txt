@@ -1602,7 +1602,7 @@ eradicated
 egress 4
 erizo 1
 epiblastic 2
-egressed
+egressed 1
 egresses
 exequial 1
 extraphysiological 3
@@ -2689,7 +2689,7 @@ ephippial 2
 emulsoidal 4
 examinees 4
 essed
-ericolin 2
+ericolin 3
 elderwort 2
 electrophoresing
 endomycetaceae 3
@@ -4824,7 +4824,7 @@ effeminateness 2
 emptings 1
 excludible 1
 explete
-enjamb
+enjamb 1
 encroachments 3
 epitaxic 2
 encrustation 1
@@ -4898,7 +4898,7 @@ effacer 2
 emulsifiable 3
 embole 1
 endowed
-expertly 2
+expertly 3
 entopical 1
 epineurial 2
 enthronise 1
@@ -13860,7 +13860,7 @@ embolo
 elucidative 2
 effervescingly
 electrophilic
-extracystic 3
+extracystic 4
 equiarticulate 1
 entomolite
 essaylet 2
