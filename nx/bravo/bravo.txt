@@ -1420,7 +1420,7 @@ backjoint
 balearica 1
 balebos
 baled 2
-baleen
+baleen 1
 bobance 2
 beach
 benzotrichloride 2
@@ -12038,7 +12038,7 @@ brot 1
 brassylic 4
 bubonidae 2
 boycotted
-balaenopteridae 3
+balaenopteridae 4
 bletheration
 bunions 1
 brewages
@@ -15767,7 +15767,7 @@ brochettes 2
 burble 1
 brambly 2
 beamster 3
-bandmasters
+bandmasters 1
 brainiest
 bruyere
 beclogged
