@@ -2606,7 +2606,7 @@ fangle
 featherlight 6
 filthy 4
 feoffed 1
-fancily
+fancily 1
 foresheet
 ferromanganese 2
 filagreed 1
@@ -4373,7 +4373,7 @@ fishbolts 3
 flechette 2
 funt 3
 flagged 2
-frenums
+frenums 1
 fishbowls 2
 forky 2
 fisheyes 3
@@ -11277,7 +11277,7 @@ flagellants 2
 frumaryl 5
 filibusterer 3
 fenks
-felly 1
+felly 2
 forrit 4
 funster 2
 furans 1
