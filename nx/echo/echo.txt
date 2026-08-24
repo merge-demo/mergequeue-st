@@ -828,7 +828,7 @@ etamines 1
 ectocarpus
 eriophorum 1
 eosinophil 1
-ectocommensal 1
+ectocommensal 2
 ectocondylar 3
 endophytic
 ethologies
@@ -5156,7 +5156,7 @@ ectobatic 1
 electromagnetic
 eluviums 1
 exitus 1
-elusive 2
+elusive 3
 eschara 1
 endolysin 1
 ecphonema 1
