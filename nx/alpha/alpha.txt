@@ -820,7 +820,7 @@ abroach
 airdock
 abrogate
 allergies 2
-archilithic 2
+archilithic 3
 abrogating
 avocado 2
 angiomegaly
@@ -1719,7 +1719,7 @@ abstention
 acculturation 1
 acculturize 3
 atmolysis 1
-anarchoindividualist 1
+anarchoindividualist 2
 ancienty
 acrologism 1
 abloom
@@ -2632,7 +2632,7 @@ acoup
 acousticon
 allotriognathi
 assist
-acoustoelectric
+acoustoelectric 1
 acpt
 acquaint
 acquaintanceship
@@ -3142,7 +3142,7 @@ adjudications
 apocryphalist
 actinophrys
 aspics
-archimorphic
+archimorphic 1
 actinopteran 1
 ascidian
 autorail 1
@@ -4015,7 +4015,7 @@ anesthetic
 adjutator
 aqueity
 apologer
-adjutrice 1
+adjutrice 2
 ambassage 2
 ameba 1
 affirm
@@ -5161,7 +5161,7 @@ accosting 1
 acquainting
 amenia 1
 aestivating 1
-aestive
+aestive 1
 aestuate 1
 ahchoo
 aestus 3
@@ -8937,7 +8937,7 @@ achromatizable
 allantoid 2
 admired 1
 arrhythmy
-alloiogenesis 1
+alloiogenesis 2
 assizer 4
 alloiometric 2
 adjustments 1
@@ -9839,7 +9839,7 @@ amanitopsis 2
 antireforming 1
 aspergillums 2
 arteriectomy 1
-aeroplane 2
+aeroplane 3
 aposthia 2
 amanous 1
 antiauxin
@@ -21763,7 +21763,7 @@ agrise 1
 archegonium 1
 assertingly 2
 attitudinized 1
-anathematically
+anathematically 1
 abuta 2
 assertion
 androids
@@ -23031,7 +23031,7 @@ astringency
 attributing 2
 atroscine 1
 atrous 1
-ariosos
+ariosos 1
 arbitratrix 1
 ambilaterally
 alikuluf
