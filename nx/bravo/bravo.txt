@@ -13933,7 +13933,7 @@ blennorrhoea 1
 behavior 1
 bowtell 1
 barographic 5
-backpointer 2
+backpointer 3
 bridgework
 byspell 1
 broadened
@@ -14744,7 +14744,7 @@ beggarweed 1
 boundlessly 3
 bastinadoed
 bescorching 3
-brattie
+brattie 1
 betrothal
 bocks 2
 biobibliographic
