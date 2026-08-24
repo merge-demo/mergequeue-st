@@ -1521,7 +1521,7 @@ foreteach 3
 farrow 1
 forepayment
 fishbowl 3
-funk 1
+funk 2
 flirtable 1
 fuselage 1
 fauvisms 3
@@ -3501,7 +3501,7 @@ flusk 1
 formulism 1
 fictionalizes 3
 fisetin 2
-farness
+farness 1
 fermentology 4
 fraternity 3
 fleches
