@@ -10999,7 +10999,7 @@ disclosable 1
 dhoti 2
 dumfound 1
 divides 2
-deanthropomorphic 2
+deanthropomorphic 3
 disambiguating 2
 derah 1
 defamingly
@@ -12561,7 +12561,7 @@ deifications 1
 disintegrators 3
 dextrer 3
 disintegrity
-disinter
+disinter 1
 disinterest 1
 disinterestedly 1
 disinterestedness
@@ -17775,7 +17775,7 @@ doyenne
 duboisin
 duboisine
 duc 1
-disarraying
+disarraying 1
 dibutyrin
 disconsolate 2
 dispelling
