@@ -430,7 +430,7 @@ dairywomen
 daunder
 dayrooms 1
 dorsad
-dhourra
+dhourra 1
 discoursers 1
 dairous
 dais 3
@@ -520,7 +520,7 @@ disobliged 2
 dalmanites 1
 dalmatic 1
 dalt 2
-dalton 1
+dalton 2
 denomination 1
 dermaskeleton
 dama 1
@@ -3291,7 +3291,7 @@ dropax 1
 dissatisfactory 1
 drogues 1
 disguisal 1
-deracinated 4
+deracinated 5
 denuded
 dilatement 1
 dopamines
@@ -4300,7 +4300,7 @@ dysacousia 2
 demanded 2
 dissyllabized 2
 downplaying 1
-dilos
+dilos 1
 dewlap
 descrier 3
 disburden 1
@@ -10033,7 +10033,7 @@ dynamically 1
 debarkations 1
 deflate
 daddled 1
-defailance 2
+defailance 3
 divertingly
 diselectrify
 depositure 3
