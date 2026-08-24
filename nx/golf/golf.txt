@@ -5050,7 +5050,7 @@ gravery 1
 glassmaking 3
 gunfought
 glyc 5
-gallberries
+gallberries 1
 grav
 gomerec 2
 gunman
@@ -9522,7 +9522,7 @@ gainor 1
 gammaroid
 giddier 3
 gentilitious
-gematrical 1
+gematrical 2
 graals
 glutinize
 guanaco 3
