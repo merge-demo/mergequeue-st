@@ -1683,7 +1683,7 @@ accroides
 accruable
 atty 2
 anatomism 1
-attribute 1
+attribute 2
 actualities 1
 accrued 2
 accruement 1
@@ -2060,7 +2060,7 @@ acetotoluid
 accessible
 argumentator 1
 aporrhais 1
-acetous
+acetous 1
 acetoxyl 1
 approbatory 1
 allegoristic 1
@@ -5191,7 +5191,7 @@ allusively 5
 aetobatidae 1
 ancien
 antidoting
-aphoria
+aphoria 1
 anamorphism 1
 aetomorphae 2
 almohade
@@ -8869,7 +8869,7 @@ admittance
 archaeol 1
 allocatur 1
 acanthocephalan 2
-atumble
+atumble 1
 astound
 albahaca
 assumable 3
@@ -12550,7 +12550,7 @@ anemically
 anemobiagraph 2
 anemochord
 antimodernization 1
-anemochore
+anemochore 1
 aleutic 1
 aforehand
 anaboly
