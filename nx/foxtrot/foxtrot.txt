@@ -3595,7 +3595,7 @@ fructification 1
 felinity 1
 floorway 2
 files
-filesniff 4
+filesniff 5
 freijo 3
 fazing 2
 foreroom
@@ -4115,7 +4115,7 @@ fiorite 2
 foreseen
 falsehoods 3
 fornenst 2
-faff 1
+faff 2
 fontanel 1
 flywheel 1
 fersmite 2
@@ -4282,7 +4282,7 @@ follicule
 fibster 1
 fenland 4
 fungology 3
-feudaries 1
+feudaries 2
 firmarii 2
 furmeties
 flunkeys 2
@@ -5591,7 +5591,7 @@ flycatchers
 flicflac 1
 financialist 1
 fluttering 1
-flintiness 2
+flintiness 3
 ferricyanhydric 1
 flaglike
 flicker 4
@@ -6747,7 +6747,7 @@ forjudged 2
 flashboard
 fluorescin
 fibrocellular 2
-food 1
+food 2
 foliageous
 fineer 5
 forelimb 4
