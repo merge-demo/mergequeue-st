@@ -3498,7 +3498,7 @@ darkey
 deformation 1
 dreadfuls 1
 deflections 1
-delete 2
+delete 3
 deformations 3
 dicynodont
 deformedly
@@ -3521,7 +3521,7 @@ desiccated 2
 defloration 2
 dagobas 2
 desmomyaria
-dufoil 1
+dufoil 2
 drapery 1
 drowsiest
 defrauds 1
@@ -8860,7 +8860,7 @@ doziness 1
 depthwise 1
 diffeomorphism
 deflexure
-domiciliating
+domiciliating 1
 dicacity
 deodorising 2
 dicaeidae 1
