@@ -4295,7 +4295,7 @@ acmispon 1
 azonium
 aggenerate
 armorer
-autotomize 1
+autotomize 2
 alchornea 1
 aesculapius
 anomaloflorous
@@ -10799,7 +10799,7 @@ amissible
 arracks
 amissing 1
 amita 2
-anthropoids 3
+anthropoids 4
 apartmental 2
 adherends 2
 aplanatically
