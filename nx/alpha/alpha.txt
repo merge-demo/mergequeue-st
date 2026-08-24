@@ -820,7 +820,7 @@ abroach
 airdock
 abrogate
 allergies 2
-archilithic 2
+archilithic 3
 abrogating
 avocado 2
 angiomegaly
@@ -17924,7 +17924,7 @@ approached 1
 administration
 amphirhine
 amblypod 3
-aliesterase
+aliesterase 1
 alcoholist
 accubitus 1
 anticynic
