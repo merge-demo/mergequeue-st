@@ -2378,7 +2378,7 @@ electrodeless 1
 ectogenetic
 energist 1
 electrodeposition 3
-ethiopic 2
+ethiopic 3
 ebriosity 2
 entomologize 1
 epitrochlea 3
@@ -3426,7 +3426,7 @@ episyllogism 4
 edeotomy 2
 eucirripedia 2
 ethmovomerine 2
-embogue
+embogue 1
 ennuyant 1
 ecalcavate 2
 errand
@@ -4145,7 +4145,7 @@ erythrodermia 1
 externum 6
 encl 1
 encaustes 1
-exporter
+exporter 1
 elaeosia
 eyeroot 2
 escaloped 1
@@ -4723,7 +4723,7 @@ erethic 1
 enterotomy 1
 epiopticon 4
 excusatory 1
-endocarpic 1
+endocarpic 2
 encode
 exitance 2
 encoding
@@ -9303,7 +9303,7 @@ extendability 3
 extralegal 1
 eructative 1
 eruction 3
-emersions
+emersions 1
 eruditical
 estop 1
 erudition 1
@@ -12091,7 +12091,7 @@ epigonus 1
 extrasensory 1
 enfolder 1
 eccentric 2
-eris 1
+eris 2
 enfoldment 1
 excuseless 1
 extispex 1
@@ -12330,7 +12330,7 @@ esquires 2
 ewers 1
 equilucent 1
 exerce 5
-equimultiple
+equimultiple 1
 exceptious 2
 epanisognathous 1
 endotracheitis 2
@@ -12578,7 +12578,7 @@ exite 2
 eranist 1
 extinction 1
 envied 2
-enherit
+enherit 1
 electroetching 2
 epistolist
 entryman 1
@@ -13329,7 +13329,7 @@ espousers 4
 efformation
 eminences 4
 ethicalities 2
-eclipsareon 1
+eclipsareon 2
 entocornea 2
 extracosmic
 extogenous 4
@@ -13629,7 +13629,7 @@ extemporally 1
 elkanah 2
 eisegesis
 edriophthalmian 1
-encyclopaedically 3
+encyclopaedically 4
 electropyrometer
 expulsory 3
 ectad 1
