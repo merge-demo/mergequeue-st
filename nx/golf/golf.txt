@@ -88,7 +88,7 @@ goop 3
 gluey 2
 guidelines 3
 groupoid 1
-gushingness 2
+gushingness 3
 gallops 2
 grutten 1
 gadabouts 4
@@ -343,7 +343,7 @@ gubbings 2
 gravigrada 4
 galactolipide
 gorling
-gaussian 3
+gaussian 4
 grilses 3
 gillar 1
 gleen 3
@@ -3272,7 +3272,7 @@ germanizer 3
 germule 1
 germanness
 grassmen 2
-graveled 1
+graveled 2
 gunrunner 1
 genapped 2
 grr 2
@@ -5807,7 +5807,7 @@ guanidin 3
 grasshopperish 3
 gastrodisk 4
 gurjara 2
-glowingly 3
+glowingly 4
 glows 1
 geometrize 1
 gorgeable 2
@@ -8467,7 +8467,7 @@ gandul 1
 grapestone 2
 gravelroot 1
 gallstones 4
-gentisic
+gentisic 1
 goldbricks 2
 glaciarium 7
 goonch 4
@@ -10841,7 +10841,7 @@ grayhead
 generality 2
 gyrofrequency 1
 genethlialogical 2
-girderage
+girderage 1
 gyrograph 3
 guaiacum 2
 grudgefully 3
