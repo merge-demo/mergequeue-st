@@ -3261,7 +3261,7 @@ cubatures 1
 coremium 1
 capitalized 2
 capitalizers 1
-catecheses 1
+catecheses 2
 creophagism
 crackbrain 1
 curtana 1
@@ -4061,7 +4061,7 @@ cicatrise 1
 cardamon
 centenary
 cardamum 2
-cardanol
+cardanol 1
 chymist
 cardboard 3
 crissum 3
@@ -12719,7 +12719,7 @@ clingingness
 countervail 1
 crape
 chudic
-charnels 2
+charnels 3
 chueta 2
 compellation 1
 cinenchymatous
@@ -16716,7 +16716,7 @@ clots
 clottage
 chaconne 1
 clotted
-cyanus 1
+cyanus 2
 carts 2
 consonantalized 1
 clotty
@@ -17625,7 +17625,7 @@ compinge
 curstly
 creativeness 1
 coccosteus
-chickadees
+chickadees 1
 coccothraustes 1
 coccothraustine
 coccothrinax 1
@@ -18531,7 +18531,7 @@ cill 1
 cohortative 1
 cohosh 1
 circumdiction
-cephalalgia
+cephalalgia 1
 crownlet 2
 consigner
 coenenchymata
@@ -21624,7 +21624,7 @@ clinoprism 1
 carideer
 condescensions
 crownation 1
-ceromez
+ceromez 1
 condescensive 1
 callout
 condescensively 1
@@ -23392,7 +23392,7 @@ contagions 1
 contagiosity
 contagiousness
 contagium
-contain
+contain 1
 contained
 containerboard
 containerization 1
@@ -24079,7 +24079,7 @@ chemoceptor 1
 citterns 1
 converges
 converging 2
-conversable
+conversable 1
 conversableness 2
 conversancy
 camarillas
@@ -27326,7 +27326,7 @@ cornbrash 1
 cowal
 concatenating 1
 couponless 2
-coupons 1
+coupons 2
 coups
 chemicking
 cephalobranchiata
@@ -29328,7 +29328,7 @@ cryptographal
 chimaerid 3
 certiorating
 cryptoheresy
-cryptoheretic
+cryptoheretic 1
 cryptolite 1
 cytochalasin 1
 cryptolith
