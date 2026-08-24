@@ -6884,7 +6884,7 @@ contemporaries 1
 clockroom 1
 contingencies
 compaction
-caffein
+caffein 1
 celtization 1
 cardiorrhexis
 consol 1
@@ -7499,7 +7499,7 @@ chivvy
 canroyer
 caressing 1
 cercarial
-chromididae
+chromididae 1
 coloni
 cercarian
 cilices
