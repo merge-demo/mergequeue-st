@@ -1549,7 +1549,7 @@ baltimore 1
 bloodmonger
 blackware 1
 boarder 2
-ballas
+ballas 1
 baronetised
 blacktopping
 banks 1
@@ -3470,7 +3470,7 @@ buildingless
 bigamizing 1
 bathylite
 bovine 1
-basts
+basts 1
 banuyo 3
 basural
 bioscientific 1
@@ -6772,7 +6772,7 @@ bridgebuilding 3
 berrier 1
 berries 1
 bitterbur 1
-beaut 1
+beaut 2
 buhls
 barytosulphate 1
 badian 2
@@ -9272,7 +9272,7 @@ birgand
 bougainvillia 1
 biangulated
 broadsides
-bacterioidal 1
+bacterioidal 2
 bedouinism 3
 bothersomeness
 balewort 1
@@ -10509,7 +10509,7 @@ blastocoele
 blastodisc
 becharming 1
 bakestone
-biologistic 1
+biologistic 2
 bepastured 1
 blastogenic 4
 bandfiled 2
@@ -10877,7 +10877,7 @@ braced 2
 brokership 2
 blent 2
 blattiform 1
-backpacks
+backpacks 1
 breechless 3
 biradiate 1
 ballgames 2
@@ -15074,7 +15074,7 @@ breenger 1
 babushka 1
 breezeway 2
 bulbocapnin 1
-botel 3
+botel 4
 beastliness 1
 bowdlerise
 besanctify 2
@@ -16141,7 +16141,7 @@ brassier 1
 breathful 2
 bundweed 2
 budget 1
-bolsterers
+bolsterers 1
 bratstvo 1
 brookweed
 brool
