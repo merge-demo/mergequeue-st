@@ -3585,7 +3585,7 @@ albertype 1
 anareta 2
 avaradrano 1
 addrest
-articulite 1
+articulite 2
 astricts 1
 adduced 2
 aragonese
@@ -4698,7 +4698,7 @@ aknee 2
 airbursts 1
 aedileship
 anthropomorphitism
-asidehand
+asidehand 1
 atomerg 1
 accessorii
 amphioxi
@@ -5428,7 +5428,7 @@ antiloemic 2
 autogiro 3
 aecia 1
 avail 1
-afire 1
+afire 2
 aflagellar 1
 acapnias 2
 aflat
@@ -5447,7 +5447,7 @@ antiprohibition 1
 aminobenzoic
 aforementioned
 anemoclastic
-allod 4
+allod 5
 attainers
 aculeus
 admire 1
@@ -10078,7 +10078,7 @@ amerceable 1
 asquirm
 ambivalence 2
 aiger 1
-ambiversion 1
+ambiversion 2
 ambivert
 arrect 2
 amble 1
@@ -10272,7 +10272,7 @@ analcitite 1
 ameiuridae
 absorbition
 astringently
-ameiva
+ameiva 1
 ascidiae 2
 amel
 adj
@@ -16124,7 +16124,7 @@ asseverate
 avadavat
 arrantly
 acerates
-antisepticism 2
+antisepticism 3
 asset
 ascertainable 1
 awaked 1
@@ -19844,7 +19844,7 @@ agnoetae
 abhenries
 armiger 1
 aweto 3
-armigeros 1
+armigeros 2
 armigerous 1
 autotomized 3
 aimful 1
