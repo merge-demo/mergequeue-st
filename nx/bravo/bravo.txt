@@ -2866,7 +2866,7 @@ barrad
 bridebowl 2
 boskage
 biform
-bashawism
+bashawism 1
 bellmouth
 buddage 2
 brushed
@@ -3269,7 +3269,7 @@ basilidianism 2
 brome 3
 babydom 2
 birder 2
-binormal
+binormal 1
 bitumens
 bolted 1
 basinal
@@ -4810,7 +4810,7 @@ bemeans 2
 brakesman 2
 befancy
 bits 1
-bedside
+bedside 1
 bedsonia 2
 bakers 3
 bemirrorment
@@ -5002,7 +5002,7 @@ beerpull 1
 beers 1
 beest 3
 babbools 2
-bibation 1
+bibation 2
 bindweb 1
 ballonette
 bilinguist
@@ -6256,7 +6256,7 @@ bennies 1
 benomyl 1
 benightedness 1
 benorth
-benefact 1
+benefact 2
 beme
 bodle 2
 bensall 3
@@ -6318,7 +6318,7 @@ backswept
 benzalethylamine 2
 benzalphenylhydrazone 1
 beaconwise
-benzamide 4
+benzamide 5
 blowdown 1
 benzoxate
 badgerbrush
@@ -8745,7 +8745,7 @@ battish 2
 bubblingly 1
 bimodule
 buckeroo
-bimonthlies 2
+bimonthlies 3
 bended 2
 bemixt 2
 bimotors 1
@@ -8816,7 +8816,7 @@ brecia 1
 bingos 1
 bounden 2
 besets 2
-bini 3
+bini 4
 beraking 1
 berakoth
 biniou 1
@@ -9040,7 +9040,7 @@ bionomic 1
 bursas 1
 bionomically 1
 beaneries
-bionomies
+bionomies 1
 brawest
 beckie 1
 booky 2
@@ -9544,7 +9544,7 @@ birthwort
 bitnet
 buttonbush
 biters 4
-biolysis 1
+biolysis 2
 bandarlog 2
 brandreth 1
 breviger
@@ -12374,7 +12374,7 @@ buckshee
 breath 1
 brigades 3
 biskop 1
-borage 1
+borage 2
 baskets
 bomble
 blackbutt 1
@@ -12671,7 +12671,7 @@ bane 2
 bellical 1
 buhrs 2
 bec
-branded 3
+branded 4
 bolivares
 bunion
 booger
@@ -13703,7 +13703,7 @@ branched
 behaviourism 1
 balanceman 2
 blenchers
-bowlfuls 1
+bowlfuls 2
 brashly 1
 bridged
 barwin 2
@@ -14487,7 +14487,7 @@ braystone 2
 bigging
 beent 1
 brahmanistic 1
-bathyspheres 1
+bathyspheres 2
 boyards 1
 bagh 3
 babying 1
@@ -15210,7 +15210,7 @@ bronziest
 besmutted 1
 barberfish
 briarwood
-bribable 2
+bribable 3
 bovinities 1
 bipinnaria 1
 bribees 1
@@ -16119,7 +16119,7 @@ broodmare
 blackmailers 1
 bleacher
 bertillonage 1
-ballonets 2
+ballonets 3
 brook 1
 brooke 1
 bounteous
@@ -17270,7 +17270,7 @@ bumboat
 bumclock 1
 batling 2
 boltings 3
-birddom
+birddom 1
 braguette 3
 batik 2
 baggies 1
