@@ -2646,7 +2646,7 @@ aspiratory
 animikite
 altaid 2
 adffrozen
-adjacent 1
+adjacent 2
 acquest
 armenite 1
 actutate
@@ -5428,7 +5428,7 @@ antiloemic 2
 autogiro 3
 aecia 1
 avail 1
-afire 1
+afire 2
 aflagellar 1
 acapnias 2
 aflat
@@ -11998,7 +11998,7 @@ anaphylactogenic
 alcibiades
 anaphylatoxin 3
 anaphyte
-avoidment 3
+avoidment 4
 alkoxide 2
 acron 2
 abodement
@@ -23920,7 +23920,7 @@ arabizing 1
 agile 1
 ataxite
 amphibologism
-authorhood 2
+authorhood 3
 acaridae
 admonishing 1
 authorised
