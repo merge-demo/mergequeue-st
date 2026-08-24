@@ -2901,7 +2901,7 @@ flows 2
 fouettes 2
 floorcloth
 find 2
-fimbricate
+fimbricate 1
 featuring 2
 feudalists 4
 fractionising 2
@@ -2972,7 +2972,7 @@ fissiparity 5
 fewterer 1
 frim 2
 fastening 3
-florid
+florid 1
 francophil 5
 fewtrils 1
 follower 5
@@ -3964,7 +3964,7 @@ forfends
 fingerer
 flaunch 2
 flory 3
-fingerers 1
+fingerers 2
 fono
 fixature 2
 florissant 2
@@ -6354,7 +6354,7 @@ favela 3
 fluoboride 2
 fiacre 1
 fooster 4
-flaggiest 3
+flaggiest 4
 fumerel 1
 fiking 1
 flashingly 1
@@ -7925,7 +7925,7 @@ fetticus 2
 forewarned 3
 feiseanna 2
 featherworker 1
-foresee 1
+foresee 2
 faitor
 frakturs 4
 footeite 1
@@ -8976,7 +8976,7 @@ flu 1
 fountain
 fragged 1
 fantastically 2
-fossicker 2
+fossicker 3
 frescoer 1
 flueman
 feak 1
