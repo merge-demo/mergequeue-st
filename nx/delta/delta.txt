@@ -12954,7 +12954,7 @@ dejectile 3
 distitle
 disuniformity
 delusionist 4
-disfavourer
+disfavourer 1
 dialoguing 2
 drang
 distannic 2
@@ -18359,7 +18359,7 @@ duodecennial 2
 duodecillions
 doxy 2
 dreng
-dryas 2
+dryas 3
 didachist 1
 duodecimfid 5
 dalarnian
