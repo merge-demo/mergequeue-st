@@ -1067,7 +1067,7 @@ breenge 1
 bersil 2
 boroughmaster 2
 bailiwick 2
-bridler
+bridler 1
 benzothiopyran 1
 blockhead 1
 brachycephalization 2
@@ -1876,7 +1876,7 @@ banderma
 banderol 3
 befrets
 banderole 3
-bastardliness 1
+bastardliness 2
 bindings
 brigading 1
 banders 1
@@ -2626,7 +2626,7 @@ barkery
 befortune
 brainstormer 3
 behn
-barkhan 1
+barkhan 2
 batman 1
 blastoderm
 balistarii 4
@@ -7483,7 +7483,7 @@ berhymed 1
 burd 1
 bistre
 bramantesque 1
-bullragged
+bullragged 1
 bleariest 3
 birefraction 1
 befoolment
@@ -8407,7 +8407,7 @@ bubs 1
 burbankian 2
 bannerfish
 believability 1
-bijwoner
+bijwoner 1
 beanie 1
 bothriocidaris 1
 bauchle 1
@@ -8717,7 +8717,7 @@ broomsquire 1
 buffe 1
 bozine 3
 burds
-beliquored 1
+beliquored 2
 brachiolaria
 balladlike 1
 barrett
@@ -9906,7 +9906,7 @@ beasties 1
 besmirches
 bitter 1
 bitterbloom
-bittered 2
+bittered 3
 beyerite 2
 bitterender 1
 bombasts 2
@@ -10016,7 +10016,7 @@ baroscopical
 bargainor 1
 biverb
 beblear 1
-barging
+barging 1
 barie 1
 bedfast 2
 breeched 1
@@ -13680,7 +13680,7 @@ bevelment 3
 bourasque
 ballarag 4
 belander 1
-birred 2
+birred 3
 blames 4
 bromethylene 3
 bodykins
@@ -13784,7 +13784,7 @@ buffet 2
 blesseder
 bedlam 1
 bogs 2
-boatful 2
+boatful 3
 brontide
 brachydactyly 1
 berserker 1
@@ -15166,7 +15166,7 @@ ballies 2
 buccinae 2
 baronduki 1
 beqwete
-boar 1
+boar 2
 bogier
 baw 1
 baldicoot
@@ -15199,7 +15199,7 @@ brawlys 1
 briard
 bromins 3
 ballsier
-briarean 3
+briarean 4
 biochemists 2
 befingers 2
 bah 1
