@@ -4299,7 +4299,7 @@ carfares
 carfloat
 conservatoire 1
 crenic 2
-coater
+coater 1
 carfuffle 1
 capiteaux
 camauros
@@ -6884,7 +6884,7 @@ contemporaries 1
 clockroom 1
 contingencies
 compaction
-caffein
+caffein 1
 celtization 1
 cardiorrhexis
 consol 1
@@ -7499,7 +7499,7 @@ chivvy
 canroyer
 caressing 1
 cercarial
-chromididae
+chromididae 1
 coloni
 cercarian
 cilices
@@ -10431,7 +10431,7 @@ cledde
 clinocephalic
 courtiery
 chihfu 1
-cephalograph 1
+cephalograph 2
 chihuahuas 3
 comephorous
 couchmaking
@@ -11202,7 +11202,7 @@ chloranthaceae 2
 chloranthaceous 1
 cryptozonia
 calvinists
-clinged 1
+clinged 2
 carousers
 chloranthy 2
 constuprate
@@ -12355,7 +12355,7 @@ chromate 1
 conjunction
 chromates
 chromatically 2
-chromatician
+chromatician 1
 chromaticness
 chromatid 1
 conuses 1
@@ -12863,7 +12863,7 @@ churchgoers 1
 calorifacient 2
 churchy
 churchianity 1
-churchyard
+churchyard 1
 churchyards
 churching 4
 crabbedly 1
@@ -16898,7 +16898,7 @@ cephalothorax 2
 clisiocampa
 cluing
 chwas 1
-cheyney
+cheyney 1
 charca 1
 chs
 clumber
@@ -19382,7 +19382,7 @@ colorative
 centrifugally
 condemnably 2
 cere 2
-crossarms
+crossarms 1
 compunctiously
 coloraturas
 carnivoracity 1
@@ -23275,7 +23275,7 @@ countersurprise 1
 clasps
 consubstantialist
 conformism 1
-consubstantially 1
+consubstantially 2
 charrs
 counteractor
 coplotted 1
@@ -27521,7 +27521,7 @@ cove 1
 coadunate 2
 courtzilite
 coved 1
-clavately
+clavately 1
 covey
 coveys
 covelline
@@ -27837,7 +27837,7 @@ cozen 2
 cozenages
 cozened 1
 cozeners 2
-cinquecento 1
+cinquecento 2
 cozens
 cyclometers 1
 cozes 1
