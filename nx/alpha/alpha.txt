@@ -1850,7 +1850,7 @@ afterage 2
 apprehendable 1
 aortosclerosis
 anthropomorphous
-afterend 1
+afterend 2
 allamanda
 acephalist 1
 anonymousness 1
@@ -3460,7 +3460,7 @@ abridgeable
 adarme 1
 adatis
 afterpain 1
-antiecclesiastical 2
+antiecclesiastical 3
 ascitical 1
 adaxial 1
 adazzle
@@ -5363,7 +5363,7 @@ ambulante
 archoplasm 1
 agranulocytosis 3
 acceder
-applanate
+applanate 1
 attaining
 adenophthalmia 1
 aluminosity
@@ -7986,7 +7986,7 @@ ales 2
 anion 1
 alesan 1
 arenicolous 1
-alkalis
+alkalis 1
 acetphenetidin 1
 aletap 1
 actos
@@ -9041,7 +9041,7 @@ akoluthia 1
 algebraized 1
 aminobenzine
 allotments
-allotransplantation
+allotransplantation 1
 amic
 anapsidan 1
 aden 1
@@ -11488,7 +11488,7 @@ antisquama 1
 autolysis
 atrabilious
 amt
-alushtite 2
+alushtite 3
 amtman
 amtracks
 antiblackism
@@ -17831,7 +17831,7 @@ atmans 1
 aheap 1
 albizzia 1
 afteroar 2
-agnathostomata 2
+agnathostomata 3
 amelioratively
 appraises 1
 appraising 1
@@ -20399,7 +20399,7 @@ acarus
 apothegmatize 1
 arson
 accommodating
-acesodynous
+acesodynous 1
 angiosteosis
 acquiescingly
 antejentacular 2
@@ -21225,7 +21225,7 @@ airworthiness 1
 algarsife 2
 ashing
 afforcing
-ashipboard
+ashipboard 1
 ashir 1
 antiromanticist
 analemmata 1
@@ -23160,7 +23160,7 @@ antisensitivity
 apatan 1
 attendingly
 aubepine 2
-antisoporific
+antisoporific 1
 attendment
 aposoro
 aulu 1
@@ -23749,7 +23749,7 @@ athrong
 auscultating
 apism
 auscultation
-amphicyrtic 2
+amphicyrtic 3
 anagnorises
 ausform
 amyotrophy 2
