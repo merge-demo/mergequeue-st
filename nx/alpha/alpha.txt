@@ -9080,7 +9080,7 @@ allowableness
 ammonoid 2
 allowed 1
 attorned
-assertiveness
+assertiveness 1
 adjute 2
 acquiescing
 assagais
@@ -9666,7 +9666,7 @@ aluminize
 aviary 1
 archer
 asserted
-aluminizes
+aluminizes 1
 anticardium
 archantiquary 1
 adobe 1
@@ -10719,7 +10719,7 @@ allotriophagia
 amphistylar
 amino 2
 aminoacetic
-anatomicosurgical 1
+anatomicosurgical 2
 academie
 acetylized 2
 analogical
@@ -10944,7 +10944,7 @@ autohypnosis
 alf 1
 affronter
 allamoth 4
-antiphilosophy
+antiphilosophy 1
 amerindic 2
 allegorical
 amniocentesis 1
@@ -11955,7 +11955,7 @@ ananta 2
 astraea
 anticonservatism 1
 antimasquerade 1
-anticriticalness
+anticriticalness 1
 altarist
 anammonide 1
 achterveld
@@ -13083,7 +13083,7 @@ altilik 1
 acetylation
 aslop
 anhydridization
-asocial
+asocial 1
 almight
 allokurtic
 afterroll
@@ -18965,7 +18965,7 @@ autoschediastically 2
 archmockery 1
 ammelin
 architectress 1
-architects 3
+architects 4
 ambassadorships 1
 autoallogamy 3
 anticonventionalism 4
@@ -23828,7 +23828,7 @@ ambash 2
 archicleistogamous
 adaptational 1
 austrogaea 1
-ampules 1
+ampules 2
 atheriogaea 2
 accouplement
 aphonic
