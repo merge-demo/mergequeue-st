@@ -3410,7 +3410,7 @@ exteroceptor 2
 elohist 1
 em 1
 embarring 3
-elementoid
+elementoid 1
 ethnarchy 1
 enosises 1
 ephoral 3
@@ -11485,7 +11485,7 @@ evidence 3
 edeagra 2
 evidences 1
 ethereous 2
-eutechnics 1
+eutechnics 2
 ecphonesis 2
 escargatoire 1
 eucharis 1
