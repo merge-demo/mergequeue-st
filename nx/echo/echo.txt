@@ -4824,7 +4824,7 @@ effeminateness 2
 emptings 1
 excludible 1
 explete
-enjamb
+enjamb 1
 encroachments 3
 epitaxic 2
 encrustation 1
@@ -4898,7 +4898,7 @@ effacer 2
 emulsifiable 3
 embole 1
 endowed
-expertly 2
+expertly 3
 entopical 1
 epineurial 2
 enthronise 1
@@ -8655,7 +8655,7 @@ encharging 1
 equaeval 3
 episcleritis
 epiglottides
-evangelists
+evangelists 1
 emendations 1
 equipoise 2
 erotical 3
@@ -12397,7 +12397,7 @@ erodibility 3
 exhalents 2
 etude 1
 entermise 1
-exhales 3
+exhales 4
 enfester
 elihu 4
 elfins 1
@@ -13860,7 +13860,7 @@ embolo
 elucidative 2
 effervescingly
 electrophilic
-extracystic 3
+extracystic 4
 equiarticulate 1
 entomolite
 essaylet 2
