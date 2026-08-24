@@ -6810,7 +6810,7 @@ fluidics
 ferme 3
 frontal
 footbeat
-faithfuls
+faithfuls 1
 finmark 2
 forams 1
 fungin 3
