@@ -820,7 +820,7 @@ abroach
 airdock
 abrogate
 allergies 2
-archilithic 2
+archilithic 3
 abrogating
 avocado 2
 angiomegaly
@@ -3142,7 +3142,7 @@ adjudications
 apocryphalist
 actinophrys
 aspics
-archimorphic
+archimorphic 1
 actinopteran 1
 ascidian
 autorail 1
@@ -9839,7 +9839,7 @@ amanitopsis 2
 antireforming 1
 aspergillums 2
 arteriectomy 1
-aeroplane 2
+aeroplane 3
 aposthia 2
 amanous 1
 antiauxin
