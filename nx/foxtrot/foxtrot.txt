@@ -2336,7 +2336,7 @@ firestopping
 foreimagine 3
 fconvert 2
 feoffer 2
-fiberous 1
+fiberous 2
 feoffs 1
 fasciole 1
 fiftyfold 2
@@ -3436,7 +3436,7 @@ feminising 2
 fulmines 2
 flectional 3
 forewarmer 1
-furfurans 1
+furfurans 2
 forthward 4
 frontoethmoid 2
 fifish 1
@@ -4870,7 +4870,7 @@ formalness 1
 followable 1
 flails 2
 feuilletonism 2
-furoic 1
+furoic 2
 fourteen 2
 fady 2
 fixes
@@ -6020,7 +6020,7 @@ floral 5
 fennecs 2
 floralize 2
 floras 2
-furnaced 1
+furnaced 2
 focusless 2
 freakish 1
 frottage 2
@@ -6325,7 +6325,7 @@ felicitator 2
 fringed 2
 facadal 2
 floreted 1
-flunkey 3
+flunkey 4
 frilal
 fumatories 3
 fissipeda 3
@@ -6493,7 +6493,7 @@ filagreeing 6
 factionist 2
 fluxes 1
 floody 2
-flustrated 3
+flustrated 4
 footages 2
 fotui
 filches 4
@@ -6544,7 +6544,7 @@ flameless 2
 feedboard 1
 flensing 1
 flutterment 2
-flimflammed 2
+flimflammed 3
 fluviolacustrine 2
 fleetly
 funereal 2
@@ -6626,7 +6626,7 @@ fatalistically 1
 fizzers
 friggle 2
 fractocumulus
-fireweeds 1
+fireweeds 2
 fairgrass 1
 forehatchway 1
 fruitery 1
@@ -6693,7 +6693,7 @@ fuzzes 1
 felicity 4
 flatterable 1
 flintlock 1
-flouts
+flouts 1
 feudary 2
 fogfruits 1
 fluerics 2
@@ -7310,7 +7310,7 @@ fopperies 3
 fopperly 3
 fraternized 4
 formaldoxime
-foujdar
+foujdar 1
 facers 5
 fourgon 1
 fluttery 3
@@ -8055,7 +8055,7 @@ funerals 1
 flutterer 1
 fundraise 3
 fitment 1
-foolish
+foolish 1
 faroese 3
 footstools 2
 farthermost 2
@@ -8218,7 +8218,7 @@ feverberries 3
 formicinae 1
 folles 2
 faddle 3
-fraught 3
+fraught 4
 flourishable 1
 fordrive
 flockbed
@@ -9119,7 +9119,7 @@ folksinger 1
 feedbag 2
 fizzled 3
 finochios
-frixion
+frixion 1
 flavors 5
 firebreak 2
 formably 1
