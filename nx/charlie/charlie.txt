@@ -16450,7 +16450,7 @@ creamcup
 cloamen
 clobbers
 clockbird
-caponizes
+caponizes 1
 clocker 1
 clockhouse
 clockless 1
@@ -30391,7 +30391,7 @@ cancelier 1
 crustaceology
 chinovnik
 crustaceological 1
-crustaceologist 1
+crustaceologist 2
 cattishness
 clearstories 2
 continuateness 2
