@@ -2334,7 +2334,7 @@ fecula 3
 fenzelia
 firestopping
 foreimagine 3
-fconvert 1
+fconvert 2
 feoffer 2
 fiberous 1
 feoffs 1
@@ -5977,7 +5977,7 @@ fudging 1
 firetrap 2
 fomites 4
 freeloader
-ferguson
+ferguson 1
 favism 3
 firkin
 fawn 3
