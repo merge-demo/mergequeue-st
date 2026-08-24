@@ -9760,7 +9760,7 @@ argentina
 arabica
 amabel 1
 atbash
-amable
+amable 1
 anchorer 2
 anthrax 1
 aclydes 3
@@ -15621,7 +15621,7 @@ appaloosa 2
 accessory 2
 antinegroism
 apothecal 2
-antinephritic 2
+antinephritic 3
 adiaphorite 1
 antineuritic 1
 antineutralism
