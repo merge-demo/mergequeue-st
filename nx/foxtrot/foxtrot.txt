@@ -3904,7 +3904,7 @@ fineableness 2
 fumigators
 fusinist 2
 fluoridated
-fitly 2
+fitly 3
 fullage 3
 frostproof 3
 frolicsomely 3
@@ -5001,7 +5001,7 @@ factordom 4
 fribourg 3
 formals 4
 freelage 4
-forego
+forego 1
 flankers
 foists 1
 feued 3
@@ -5985,7 +5985,7 @@ forecasters 4
 footscald
 foisty 2
 flutebird 2
-floorcloths 2
+floorcloths 3
 fumid 3
 fluidizing 4
 folkways 1
@@ -6995,7 +6995,7 @@ favilla
 frayings 1
 folkmooter 1
 fondled 2
-fainter 2
+fainter 3
 formalazine 3
 flannels 5
 fineries 1
@@ -7592,7 +7592,7 @@ frutescence 3
 flubs 1
 fogram 2
 females 1
-filtrate 3
+filtrate 4
 flumerin 3
 felicities
 fanfare 2
@@ -7658,7 +7658,7 @@ flames 1
 forefield 1
 foreorlop 3
 flimsilyst 2
-flustroid 1
+flustroid 2
 forefinger 5
 figary 2
 fritillaries 1
@@ -9692,7 +9692,7 @@ fecklessly 3
 feliform
 fluidified 1
 fulcrumage 1
-flabrum 3
+flabrum 4
 firmarius 2
 freewheelingness 1
 forfoughen 2
@@ -10757,7 +10757,7 @@ fringelike 1
 faenus 3
 flam
 flotsams 2
-fideisms 2
+fideisms 3
 frumps 4
 forcedly 4
 frustrating 2
@@ -10797,7 +10797,7 @@ fruticose 1
 flot
 flappy 2
 farreation
-foils 2
+foils 3
 fruticous
 firstness 2
 femme 1
@@ -10931,7 +10931,7 @@ flivver 1
 fletched
 fullmouthed 1
 florist 2
-firesafeness 2
+firesafeness 3
 flirtations 1
 finagler 2
 fulgoroidea 1
@@ -11099,7 +11099,7 @@ foxiness 4
 footrace
 flew 3
 flangeless 1
-forbidder 3
+forbidder 4
 foreknowableness 1
 functionation 1
 fane 1
@@ -11459,7 +11459,7 @@ fetichlike 1
 fusible 1
 fluorbenzene 2
 fideles 2
-flic 2
+flic 3
 frayedly 1
 furcule 1
 foreshortened 6
