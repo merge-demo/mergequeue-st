@@ -2182,7 +2182,7 @@ camphols
 contemnor 1
 centroids
 camphorated
-camphorates 1
+camphorates 2
 camphory 1
 camphoryl 2
 corgi 2
@@ -4079,7 +4079,7 @@ caliginous
 cardiacle
 cardiagra 1
 celiolymph
-cardiagram
+cardiagram 1
 cardiagraphy
 cardial 1
 cardialgy
