@@ -4868,7 +4868,7 @@ froglet 1
 ferocities
 formalness 1
 followable 1
-flails 1
+flails 2
 feuilletonism 2
 furoic 1
 fourteen 2
@@ -5462,7 +5462,7 @@ fanatic 3
 fretsome 4
 fleeter 4
 fermentatively 1
-flex
+flex 1
 fusionless 1
 firefighter 2
 forevow
@@ -8394,7 +8394,7 @@ flinthearted
 folderol 3
 feastful 3
 fewsome 3
-feigningly 2
+feigningly 3
 flaff
 fulminates 3
 forkier
