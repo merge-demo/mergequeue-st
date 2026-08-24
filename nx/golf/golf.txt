@@ -5395,7 +5395,7 @@ galliwasp
 guniter 3
 glyphic 4
 gambist 1
-girlhood 2
+girlhood 3
 guerdoned 3
 gus 1
 glossoepiglottidean 4
@@ -6152,7 +6152,7 @@ grihastha 1
 genovino 1
 gesan 3
 gazetteers 2
-groveling 3
+groveling 4
 goal 3
 griffithite 2
 galactophore 2
@@ -6195,7 +6195,7 @@ grivois 3
 gossipdom 2
 gamblesome 3
 grubbed
-gardener
+gardener 1
 geomyidae 2
 guahibo 2
 grimacier 2
@@ -7891,7 +7891,7 @@ greece 4
 galvanometrical 3
 groom 4
 grammarless
-grammaticaster 4
+grammaticaster 5
 garlandlike 2
 gabbais 1
 gurdle 1
@@ -10831,7 +10831,7 @@ glucocorticord
 grazings 2
 gelatinizing
 gigunu 2
-guvacine 1
+guvacine 2
 goatland 2
 growing 1
 grammatic 3
