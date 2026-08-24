@@ -4726,7 +4726,7 @@ choenix
 carpetbags
 counterearth 3
 ciboria 1
-catchall
+catchall 1
 chigetais 1
 champerty 1
 capito 1
@@ -7950,7 +7950,7 @@ chab
 celibate 1
 chabasite 2
 counterclockwise
-chabazite
+chabazite 1
 celiosalpingectomy
 chaber
 cucullately
@@ -15933,7 +15933,7 @@ coryphylly
 cobelligerent 1
 cold
 clerestoried 1
-cliched 1
+cliched 2
 cinchonizing
 clergy
 clergyable 1
@@ -16552,7 +16552,7 @@ collation 1
 clappermaclaw
 cloistering
 cheeky
-comal 2
+comal 3
 culet
 croupes 2
 chirm
@@ -26790,7 +26790,7 @@ cubitometacarpal
 capelocracy
 countercurrentwise
 cerographer
-conversant 1
+conversant 2
 counterdance 1
 counterdeclaration
 cucumis 1
@@ -27759,7 +27759,7 @@ cowshot 1
 capitellar
 camorristi 1
 chough 1
-cowshut 2
+cowshut 3
 cowskin
 countercommand
 cowson
@@ -29536,7 +29536,7 @@ criticalness
 coendured
 centervelic
 colophonist
-crabbed 2
+crabbed 3
 criticaster 2
 criticasterism 1
 cocas
