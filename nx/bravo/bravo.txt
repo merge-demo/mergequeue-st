@@ -2866,7 +2866,7 @@ barrad
 bridebowl 2
 boskage
 biform
-bashawism
+bashawism 1
 bellmouth
 buddage 2
 brushed
@@ -4810,7 +4810,7 @@ bemeans 2
 brakesman 2
 befancy
 bits 1
-bedside
+bedside 1
 bedsonia 2
 bakers 3
 bemirrorment
@@ -9040,7 +9040,7 @@ bionomic 1
 bursas 1
 bionomically 1
 beaneries
-bionomies
+bionomies 1
 brawest
 beckie 1
 booky 2
@@ -14487,7 +14487,7 @@ braystone 2
 bigging
 beent 1
 brahmanistic 1
-bathyspheres 1
+bathyspheres 2
 boyards 1
 bagh 3
 babying 1
@@ -15210,7 +15210,7 @@ bronziest
 besmutted 1
 barberfish
 briarwood
-bribable 2
+bribable 3
 bovinities 1
 bipinnaria 1
 bribees 1
