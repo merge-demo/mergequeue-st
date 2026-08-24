@@ -753,7 +753,7 @@ aver
 alternize 2
 anglicized
 aptote
-antivaccination 1
+antivaccination 2
 abrade
 angaralite 1
 accourt 1
@@ -1791,7 +1791,7 @@ armouring
 aground 1
 adelaster 1
 ametropic
-armpit
+armpit 1
 accustomedly 1
 accustomizing 1
 anisyl
@@ -4507,7 +4507,7 @@ antiphoner 1
 azurine
 advancedness
 anagenetic 2
-adunc
+adunc 1
 archimperial 2
 amplest 1
 advancive
@@ -11928,7 +11928,7 @@ anamorphoscope 1
 agalawood
 apophlegmatism 1
 ankylenteron 1
-anamorphosis 2
+anamorphosis 3
 accurre 1
 acetarious
 archvagabond 2
@@ -14532,7 +14532,7 @@ antalkalies 1
 animatism 1
 acritochromacy 2
 algologically 1
-adnoun 1
+adnoun 2
 anobing
 allylate 2
 anthropographic 1
@@ -15192,7 +15192,7 @@ ammocoetoid
 antiextreme
 archidiaconal
 allocochick
-asplenieae
+asplenieae 1
 antifascism
 anolyte 1
 antifascist 1
@@ -15249,7 +15249,7 @@ antiflattering
 accordantly
 antiflatulent 1
 antiflux 1
-anticlergy
+anticlergy 1
 antiforeignism 2
 atole 1
 afrown 1
@@ -15613,7 +15613,7 @@ affrightedly 1
 areoles 3
 antispasmodics 1
 antitetanic 2
-antinaturalism 2
+antinaturalism 3
 alopeke 1
 actus 3
 avowry 3
@@ -15723,7 +15723,7 @@ ablet 3
 annection 1
 admen
 antimetathesis
-antheridiophore 2
+antheridiophore 3
 antiparliamental
 axons
 antiparliamentarians
@@ -16682,7 +16682,7 @@ ammochryse 2
 anocithesia
 aberrance 3
 apertures
-assisa 1
+assisa 2
 apes 1
 apesthetic 3
 arachnitis 2
@@ -18835,7 +18835,7 @@ adhibit
 archfiend 1
 apprize
 aroma 2
-archflamen 3
+archflamen 4
 archfoe 1
 ancestresses 1
 aedoeagus 1
@@ -19337,7 +19337,7 @@ arethusas
 alk
 aretinian
 anticoagulating
-ablastous
+ablastous 1
 arew
 altarpieces 2
 alcornoque 1
@@ -20454,7 +20454,7 @@ aerogenous 1
 atechnic 1
 altisonous 1
 arterialize
-anticivism
+anticivism 1
 arteriarctia 2
 albuminous 3
 arteriectopia 2
@@ -22680,7 +22680,7 @@ ateuchi 3
 atherosclerosis 1
 advancer 2
 atherosclerotic 2
-acerbic
+acerbic 1
 absent 1
 angulation 2
 aeronomic
@@ -22985,7 +22985,7 @@ aroynted 1
 atrochous 1
 aly 1
 an 1
-apocynaceae 2
+apocynaceae 3
 admirative 1
 alkalize
 awls 1
@@ -24620,7 +24620,7 @@ avalanches
 acrologic 1
 aquaplaner 1
 absolve 1
-avalon 2
+avalon 3
 autoeroticism
 affich
 amicicide 2
