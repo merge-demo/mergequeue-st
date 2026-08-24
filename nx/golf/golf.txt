@@ -153,7 +153,7 @@ gasthauser 1
 gail 3
 galactosyl 1
 galvanosurgery 1
-glacialize 4
+glacialize 5
 guesthouse 1
 gingerroot 2
 guaiaretic 2
@@ -1335,7 +1335,7 @@ groundling 2
 gignate 1
 ganoine 1
 goanese 8
-greenhouse 2
+greenhouse 3
 garishly 2
 galligaskins 1
 glycosine 1
@@ -1985,7 +1985,7 @@ generalness
 gambogic 1
 graille 1
 gums 2
-gauzewing 2
+gauzewing 3
 gomorrah 3
 galactia 1
 grithman 4
@@ -6238,7 +6238,7 @@ gormandizing 2
 gregorianizer 5
 gob 2
 greediness 3
-gadslid 4
+gadslid 5
 gobber 3
 gazettes 2
 goateed 2
@@ -6927,7 +6927,7 @@ graciosity
 grandeval 1
 golgotha 3
 goodliness 1
-grassflower 1
+grassflower 2
 grammy 4
 gorgeousness 4
 glumous 1
@@ -8521,7 +8521,7 @@ graffias 1
 garum 1
 glisteningly 1
 gurgle
-gelatinization 2
+gelatinization 3
 gravely 1
 galops 1
 groupers 2
