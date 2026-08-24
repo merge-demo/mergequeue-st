@@ -1459,7 +1459,7 @@ gynocardia 3
 gradualness 4
 gasboat 5
 giddiness
-gaselier 1
+gaselier 2
 glissading 1
 gastrophilus 1
 gastric 1
@@ -7435,7 +7435,7 @@ giga 1
 granduncle 1
 gnatproof 3
 galvayned 6
-geylies
+geylies 1
 gotra 1
 gemses 1
 germarium
@@ -10693,7 +10693,7 @@ groundbird 2
 geostatic 1
 genoise 1
 ghettoize 2
-gildings 5
+gildings 6
 girdlers 4
 goldbrickers 1
 grabs
