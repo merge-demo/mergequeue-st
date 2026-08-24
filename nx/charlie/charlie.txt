@@ -2185,7 +2185,7 @@ camphorated
 camphorates 2
 camphory 1
 camphoryl 2
-corgi 2
+corgi 3
 camphoroyl 2
 clerkliest 3
 camporee 1
@@ -3545,7 +3545,7 @@ cosmotheistic 1
 captacula 2
 captain 1
 captaincy 1
-captaincies
+captaincies 1
 caprioled
 captainry
 captainship 1
@@ -4192,7 +4192,7 @@ cryptostomate 1
 cardiopath
 cardiopathic
 chloanthite
-cardiopulmonary
+cardiopulmonary 1
 cardiorenal 1
 cardiorespiratory
 cardiorrhaphy 1
@@ -4624,7 +4624,7 @@ conversationalism 1
 cytoproct 1
 counterrevolutions
 circlers 2
-canescene 2
+canescene 3
 chronisotherm 2
 cangenet
 caryotin
@@ -4802,7 +4802,7 @@ carpology
 corrosibility 1
 circensian 2
 corynocarpaceae
-calicular 1
+calicular 2
 cottonee 1
 carpometacarpal
 carpometacarpi 1
@@ -10073,7 +10073,7 @@ cheslep
 crestings 1
 clothesbrush 1
 chimney
-chemise
+chemise 1
 counterfugue
 collab
 coalbox 1
@@ -12178,7 +12178,7 @@ cushiony 1
 cochairmanship 1
 chrysaor
 convince
-cont
+cont 1
 chatot 1
 cauldron 1
 chrysazol 1
@@ -16085,7 +16085,7 @@ circlewise
 clyers
 carmoisin 1
 composure 2
-calciums
+calciums 1
 chicles 1
 clithridiate 1
 chainon
@@ -17498,7 +17498,7 @@ circummigrate
 cobridgehead
 chrysostomic
 chimneyhead 1
-cardiarctia 1
+cardiarctia 2
 crotching
 coburg
 cobweb
@@ -17958,7 +17958,7 @@ cattlehide 1
 coelenterate
 catharses 1
 crotin
-coelenterates
+coelenterates 1
 coelenteric
 copyman
 coelestial
@@ -18075,7 +18075,7 @@ coenjoy 1
 contradictively 1
 coalesce
 coenla
-coatee 2
+coatee 3
 coenobe
 cystoscopic 1
 chaffered 1
@@ -18711,7 +18711,7 @@ conglobation
 caressive
 cojusticiar 1
 confessionalian
-campily
+campily 1
 connect
 coke
 clinocephalism
@@ -18796,7 +18796,7 @@ cyesiology 2
 colegislator
 circumstantial 1
 conodonts
-chaplet
+chaplet 1
 coleochaetaceous
 classifically 1
 caravaned 1
@@ -20542,7 +20542,7 @@ chays
 compatriots
 compd 1
 contritely
-cusparia 1
+cusparia 2
 carnose 1
 codon 4
 crapon
@@ -20583,7 +20583,7 @@ counterterror
 coremia 1
 chalah 1
 compenetration 1
-compensated
+compensated 1
 cerrero 1
 conglomerates 1
 compensatingly
@@ -21914,7 +21914,7 @@ conferval
 combe
 clof
 chinamania 1
-confessable
+confessable 1
 creating
 chungking
 convexities 1
@@ -27184,7 +27184,7 @@ countertendency 1
 cavalry
 carcasses 2
 cataspilite
-counterterrorism
+counterterrorism 1
 clasping
 counterterrorist
 countertheme
@@ -27895,7 +27895,7 @@ conquians
 crabut 3
 crabweed
 coreid 1
-crabwise
+crabwise 1
 crabwood
 cracca
 craccus
@@ -27921,7 +27921,7 @@ cyclonically 1
 crackedness 1
 coelostat 1
 cracker
-coenobium
+coenobium 1
 correal 1
 cionoptosis
 crackerjacks 1
