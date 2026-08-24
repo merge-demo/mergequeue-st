@@ -2336,7 +2336,7 @@ firestopping
 foreimagine 3
 fconvert 2
 feoffer 2
-fiberous 1
+fiberous 2
 feoffs 1
 fasciole 1
 fiftyfold 2
@@ -3848,7 +3848,7 @@ fornical 1
 forjudging 3
 favous 1
 frugally
-farcer 1
+farcer 2
 frizette 1
 forewarm
 formalisms 1
@@ -6544,7 +6544,7 @@ flameless 2
 feedboard 1
 flensing 1
 flutterment 2
-flimflammed 2
+flimflammed 3
 fluviolacustrine 2
 fleetly
 funereal 2
@@ -6693,7 +6693,7 @@ fuzzes 1
 felicity 4
 flatterable 1
 flintlock 1
-flouts
+flouts 1
 feudary 2
 fogfruits 1
 fluerics 2
@@ -10287,7 +10287,7 @@ firiness 4
 fishweed 1
 fennecs
 flamingoes 1
-fordid 3
+fordid 4
 filled 1
 foundationed 2
 ferronickel 2
