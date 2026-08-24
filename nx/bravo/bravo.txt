@@ -1041,7 +1041,7 @@ balcony 1
 burnweed
 bail 1
 buxeous
-bafta 5
+bafta 6
 bringer
 barfs 1
 bailable
@@ -4429,7 +4429,7 @@ batis
 befleas
 belchers 2
 bypassing
-becloaks
+becloaks 1
 blackfriars 5
 batule 2
 becloak 5
@@ -5085,7 +5085,7 @@ bathoses 1
 befire
 befist 2
 benevolently
-boomerangs 1
+boomerangs 2
 braised 2
 brooked 1
 berberia
@@ -5604,7 +5604,7 @@ bumbard
 bombloads 1
 blisters 1
 brough 2
-bulletheaded 2
+bulletheaded 3
 battlement 2
 blepharal 2
 bewigs
@@ -8724,7 +8724,7 @@ barrett
 beseeching 1
 beaverite 2
 bulldoggish 1
-blackly
+blackly 1
 brills 1
 bullethead 3
 betoss
@@ -9522,7 +9522,7 @@ bakairi 5
 byrthynsak 1
 birthless 2
 bathkol 1
-blastemata 3
+blastemata 4
 berceuses 1
 bacteria
 branchiostegite 1
@@ -11866,7 +11866,7 @@ braggest 1
 bondswomen 3
 benote
 bridebed
-beperiwigged 3
+beperiwigged 4
 barytocelestine
 bodysurfed
 bodysurfer 3
@@ -13242,7 +13242,7 @@ babuma
 buzzers
 beaugregory 2
 breatheableness 1
-binocle 1
+binocle 2
 bosporanic 2
 bosque 1
 brushfires
@@ -16742,7 +16742,7 @@ byrlawman
 babehood
 buckwagon 2
 boodie
-buckwheatlike
+buckwheatlike 1
 balaic 1
 butterwoman 1
 buckwheats 1
