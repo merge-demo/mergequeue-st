@@ -1895,7 +1895,7 @@ deboss 1
 detractive 1
 debouche 2
 dupery 2
-disbench
+disbench 1
 disconcertingness
 digladiator 3
 discourse 1
@@ -18210,7 +18210,7 @@ dynamicity 3
 dumpoke
 deltohedra 1
 dumps 2
-dissective
+dissective 1
 dumsola
 dedendum 2
 disdiaclastic
