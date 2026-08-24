@@ -6844,7 +6844,7 @@ draughted
 drawgear 2
 dupla 3
 desmoncus 3
-decolonize
+decolonize 1
 dissention 1
 danknesses
 dryobalanops 2
@@ -9582,7 +9582,7 @@ dervish
 defining 3
 divinised
 digressional 1
-dudman 1
+dudman 2
 digressive 1
 digressory 3
 dastard 1
