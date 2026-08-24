@@ -1471,7 +1471,7 @@ damages 1
 disbarred 1
 dedicatedly
 doublehanded 1
-daze
+daze 1
 denominations 1
 discerptibility 1
 disinherison
@@ -2708,7 +2708,7 @@ decuple 1
 dont 1
 discounsel 1
 dassy 2
-deductibility 2
+deductibility 3
 decoration 2
 diogenic 1
 decorator 3
@@ -3049,7 +3049,7 @@ dyehouse
 deeses 3
 deepfrozen 1
 deemphasize 3
-downward 1
+downward 2
 diestock
 diuretic 2
 deewan 1
@@ -3889,7 +3889,7 @@ dogged
 dekare
 dinsome 2
 dearomatize
-dogfoot
+dogfoot 1
 deference
 dekes 1
 derivationally 1
@@ -7449,7 +7449,7 @@ defrosts
 dich 1
 doigte 1
 dermoplasty
-diffide
+diffide 1
 djellab
 desmotropism
 drivable 1
@@ -10888,7 +10888,7 @@ dentelated 1
 doohinkus 2
 dignitas 1
 disabuse 3
-dephlegmate 1
+dephlegmate 2
 disbursement
 diapir
 disabuses 2
@@ -11209,7 +11209,7 @@ disgage 2
 donnybrooks 1
 disbury 2
 diosmose 1
-definitively 1
+definitively 2
 dogstail 2
 disburse 2
 disillusionist 1
@@ -13003,7 +13003,7 @@ dispand 1
 dusts 1
 descaling 1
 diphthongized 3
-dispar
+dispar 1
 disparageable 4
 dingies 2
 disparagement
@@ -13267,7 +13267,7 @@ drowner
 dividualism 1
 dispositively 1
 diuretics 1
-drant
+drant 1
 disdainfully 1
 disconformable
 daylily 1
@@ -14925,7 +14925,7 @@ discoursively 4
 dodman
 demonised 1
 dryads 2
-drugman 1
+drugman 2
 dendrocalamus
 depr
 dodonaeaceae 1
@@ -15392,7 +15392,7 @@ dimity 1
 diapophysial 2
 directing
 dilators 1
-diastema
+diastema 1
 domineering
 domineeringly 3
 disinherited 1
@@ -16281,7 +16281,7 @@ decentralization 2
 dah 1
 downier
 dorsoventrality 3
-downiest
+downiest 1
 dictator 1
 downiness 1
 downingia 1
@@ -18263,7 +18263,7 @@ duneland 1
 doeglic 3
 darzee 1
 deputative 3
-dasycladaceae
+dasycladaceae 1
 disfavoring
 dhoolies 1
 dungarees 1
