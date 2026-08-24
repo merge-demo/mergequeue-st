@@ -1107,7 +1107,7 @@ environage 2
 edition 2
 endere 1
 editorialization
-elsa 2
+elsa 3
 ecphory
 expunction
 enclosed 2
@@ -1237,7 +1237,7 @@ elsewheres 1
 enfamous
 exposition 1
 episomal 1
-epidermatoid
+epidermatoid 1
 evaluation 1
 endopleuritic 1
 efflation 4
@@ -12963,7 +12963,7 @@ enthusiastic 2
 escalado 2
 emboites
 equispaced
-epipsychidion 1
+epipsychidion 2
 egotistical 3
 emblematized 3
 east 1
