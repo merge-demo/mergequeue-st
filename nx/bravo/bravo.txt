@@ -2570,7 +2570,7 @@ beleaped 2
 blens
 bactrian
 barile 1
-barilla
+barilla 1
 beleaf 1
 barters 3
 bathofloric
@@ -3843,7 +3843,7 @@ baun 2
 baure
 botonny 2
 bausond
-birthland 2
+birthland 3
 bautta 1
 balsamically 2
 bundts 1
@@ -5475,7 +5475,7 @@ brine
 backiebird
 beatless 1
 behoved 1
-basting 3
+basting 4
 behoves 1
 behoving 1
 bogotana 2
@@ -5848,7 +5848,7 @@ bengaline
 bellyful 2
 boor 1
 beadier 1
-barbermonger 2
+barbermonger 3
 blacklisted 2
 boozily 1
 bellyland
@@ -6348,7 +6348,7 @@ blinks
 benzenediazonium
 bosominess 4
 boxful 1
-bananalander
+bananalander 1
 burgher 1
 bemocking
 billsticking 2
@@ -8546,7 +8546,7 @@ burro 1
 brachiolarian 1
 bagtikan 2
 bassanello 2
-baar 1
+baar 2
 bandos
 bennis 1
 barih
@@ -8745,7 +8745,7 @@ battish 2
 bubblingly 1
 bimodule
 buckeroo
-bimonthlies 2
+bimonthlies 3
 bended 2
 bemixt 2
 bimotors 1
@@ -9073,7 +9073,7 @@ bemire 2
 brickmaking 1
 bethumps 1
 bunching 1
-bearbaiting 1
+bearbaiting 2
 bonzery 1
 bloomers 1
 basking 3
@@ -11579,7 +11579,7 @@ ballismus 3
 byronism 1
 bromidic
 brogger 2
-blush 1
+blush 2
 blushed 3
 banga
 bandannas 3
@@ -11964,7 +11964,7 @@ bessarabian 2
 brinded 2
 bogyman 2
 broncobusters 1
-bandagers 1
+bandagers 2
 birmingham 3
 bbls 2
 braireau 3
@@ -12021,7 +12021,7 @@ blusteration
 bootstrapped
 bronchiole 1
 bohunks 1
-beneficeless 3
+beneficeless 4
 boyard
 boyardism 1
 bartholomean 1
@@ -12374,7 +12374,7 @@ buckshee
 breath 1
 brigades 3
 biskop 1
-borage 1
+borage 2
 baskets
 bomble
 blackbutt 1
@@ -12671,7 +12671,7 @@ bane 2
 bellical 1
 buhrs 2
 bec
-branded 3
+branded 4
 bolivares
 bunion
 booger
@@ -14428,7 +14428,7 @@ baken 4
 brothellike 3
 bacteroides
 bemocked 2
-bisischiadic 1
+bisischiadic 2
 brainpan 1
 brainpans 1
 bandaid
@@ -15270,7 +15270,7 @@ blennoid 2
 bucketing 3
 balneal 2
 beardom 1
-bestrewn 1
+bestrewn 2
 benchers 1
 bridale
 basehearted 2
@@ -15306,7 +15306,7 @@ blunges 1
 bridesmen 1
 baybolt 3
 bogomilian 1
-bridestake 2
+bridestake 3
 befoulier 1
 bichromate 2
 broodlet
@@ -17361,7 +17361,7 @@ bundles 2
 bipaliidae 2
 bittern 2
 bagman 1
-basiotribe 1
+basiotribe 2
 breviary
 burganet 1
 beneplacity 3
