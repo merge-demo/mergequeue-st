@@ -533,7 +533,7 @@ geisotherm 4
 gilravager
 gudgeoning 1
 gup 1
-galleryite 1
+galleryite 2
 gravidness 2
 garde 1
 goolah 1
@@ -2401,7 +2401,7 @@ geologian 1
 gesticulation 1
 graduator 2
 goas 3
-gype 2
+gype 3
 grograms 1
 glutch 1
 gunship 1
@@ -3247,7 +3247,7 @@ gunrack 1
 glauke 5
 geriatrist 3
 goxes 1
-german 4
+german 5
 geckos 3
 gunstocks 1
 germanify
@@ -3441,7 +3441,7 @@ girny 2
 gilts 3
 gynandromorphism 3
 gemul 4
-gewgawry 4
+gewgawry 5
 gyrfalcon
 gleave 5
 goyin
@@ -6747,7 +6747,7 @@ gastronomics
 ganocephala 4
 gonionia 2
 genericness 4
-guib 1
+guib 2
 gamelang
 ganam 2
 gamgee 3
@@ -9368,7 +9368,7 @@ gwen 2
 grinderman 2
 glareola 4
 goutiness
-glonoin 3
+glonoin 4
 gnomists 3
 garotes 1
 gumi 4
@@ -9576,7 +9576,7 @@ galactopoiesis 3
 geophones 2
 gazed 5
 gynecologist
-gleams 3
+gleams 4
 galactoscope 2
 gingersnap 2
 grovellingly 3
