@@ -5501,7 +5501,7 @@ becapping 3
 blacktongue 1
 beylic
 birdwoman
-bowieful 1
+bowieful 2
 brechites 3
 briefly 2
 boort 1
@@ -5722,7 +5722,7 @@ bebeast
 bemuzzles
 boilingly 1
 badman
-beliers 1
+beliers 2
 belies 2
 believers 2
 benzotetrazine
@@ -6393,7 +6393,7 @@ bastioned 1
 benzohydrol 2
 benzoylated
 becuna
-benzene
+benzene 1
 benzoylation 1
 benzoinated 2
 borize
@@ -9606,7 +9606,7 @@ bicapsular
 bandlimits 2
 bisectors
 bisectrices 1
-bednighted
+bednighted 1
 busybodyness 1
 bullheadedness 1
 bisects 1
@@ -9943,7 +9943,7 @@ bigroot 2
 breachy 1
 bittings 1
 boodle
-budders 1
+budders 2
 boget 1
 bedticking
 bituminate
@@ -10620,7 +10620,7 @@ bidery 2
 blawn
 brigittine 1
 bajulate
-beardlessness 3
+beardlessness 4
 bulbocodium
 boyars 2
 blaze
