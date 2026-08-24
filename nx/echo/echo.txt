@@ -4145,7 +4145,7 @@ erythrodermia 1
 externum 6
 encl 1
 encaustes 1
-exporter
+exporter 1
 elaeosia
 eyeroot 2
 escaloped 1
@@ -4723,7 +4723,7 @@ erethic 1
 enterotomy 1
 epiopticon 4
 excusatory 1
-endocarpic 1
+endocarpic 2
 encode
 exitance 2
 encoding
@@ -9303,7 +9303,7 @@ extendability 3
 extralegal 1
 eructative 1
 eruction 3
-emersions
+emersions 1
 eruditical
 estop 1
 erudition 1
@@ -12330,7 +12330,7 @@ esquires 2
 ewers 1
 equilucent 1
 exerce 5
-equimultiple
+equimultiple 1
 exceptious 2
 epanisognathous 1
 endotracheitis 2
