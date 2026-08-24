@@ -16450,7 +16450,7 @@ creamcup
 cloamen
 clobbers
 clockbird
-caponizes
+caponizes 1
 clocker 1
 clockhouse
 clockless 1
@@ -24097,7 +24097,7 @@ conversationist
 castellum
 cystoplasty
 conversazione 2
-chloroiodide
+chloroiodide 1
 calm
 cowbell
 cometarium
@@ -30391,7 +30391,7 @@ cancelier 1
 crustaceology
 chinovnik
 crustaceological 1
-crustaceologist 1
+crustaceologist 2
 cattishness
 clearstories 2
 continuateness 2
@@ -31107,7 +31107,7 @@ cuneately
 cuneatic
 cuneiform 1
 cuneiformist
-columnarity 1
+columnarity 2
 chiggerweed 1
 cunenei
 coue 1
