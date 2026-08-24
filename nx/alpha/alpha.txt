@@ -2097,7 +2097,7 @@ afrikander
 acharnement
 achatina
 achatinidae 2
-absorbing 2
+absorbing 3
 ache 1
 alkalinising
 artemisin 3
@@ -3585,7 +3585,7 @@ albertype 1
 anareta 2
 avaradrano 1
 addrest
-articulite 1
+articulite 2
 astricts 1
 adduced 2
 aragonese
@@ -4202,7 +4202,7 @@ adonai 1
 adoniad 1
 agrarianize
 adonin
-adonist
+adonist 1
 arterialization 1
 albumoscope 1
 amberoids
@@ -5428,7 +5428,7 @@ antiloemic 2
 autogiro 3
 aecia 1
 avail 1
-afire 1
+afire 2
 aflagellar 1
 acapnias 2
 aflat
@@ -10078,7 +10078,7 @@ amerceable 1
 asquirm
 ambivalence 2
 aiger 1
-ambiversion 1
+ambiversion 2
 ambivert
 arrect 2
 amble 1
@@ -10272,7 +10272,7 @@ analcitite 1
 ameiuridae
 absorbition
 astringently
-ameiva
+ameiva 1
 ascidiae 2
 amel
 adj
@@ -16124,7 +16124,7 @@ asseverate
 avadavat
 arrantly
 acerates
-antisepticism 2
+antisepticism 3
 asset
 ascertainable 1
 awaked 1
