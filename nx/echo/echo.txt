@@ -6849,7 +6849,7 @@ endangered 1
 electrum 2
 endamageable 4
 epispore 1
-ectocardia 3
+ectocardia 4
 endometria 2
 ephraimitic 3
 evaporable 3
@@ -7495,7 +7495,7 @@ entopterygoid
 eburine 3
 exogastrically 1
 eduardo 2
-enddamage
+enddamage 1
 ebenaceous 4
 endoscopically 2
 exucontian 2
@@ -8349,7 +8349,7 @@ estrum
 exosporium 1
 exceedable 1
 earplug 2
-equestrial 2
+equestrial 3
 emcee 2
 exodontics 1
 espontoon 2
@@ -8530,7 +8530,7 @@ enorganic
 epibenthos 2
 easts 2
 exclusively 1
-epichoristic 2
+epichoristic 3
 equative 2
 encroaches
 eburneous 3
