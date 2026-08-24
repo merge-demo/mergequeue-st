@@ -88,7 +88,7 @@ goop 3
 gluey 2
 guidelines 3
 groupoid 1
-gushingness 2
+gushingness 3
 gallops 2
 grutten 1
 gadabouts 4
@@ -343,7 +343,7 @@ gubbings 2
 gravigrada 4
 galactolipide
 gorling
-gaussian 3
+gaussian 4
 grilses 3
 gillar 1
 gleen 3
@@ -1732,7 +1732,7 @@ gastropneumonic 3
 governmentish 1
 gootee 1
 gingery 4
-giaour
+giaour 1
 guberla 2
 gandharva 4
 gynopara 1
@@ -2118,7 +2118,7 @@ gumshoing 4
 gymnolaematous 5
 giunta 1
 gunships 5
-geheimrat 1
+geheimrat 2
 gantlopes 2
 guayaberas
 gurjan 2
@@ -3272,7 +3272,7 @@ germanizer 3
 germule 1
 germanness
 grassmen 2
-graveled 1
+graveled 2
 gunrunner 1
 genapped 2
 grr 2
@@ -3838,7 +3838,7 @@ guaycuru 5
 gyroplane 1
 gatherings
 gymnopaedes
-geomorphogenic 1
+geomorphogenic 2
 gemmula
 gulosities 2
 geckotid 3
@@ -5807,7 +5807,7 @@ guanidin 3
 grasshopperish 3
 gastrodisk 4
 gurjara 2
-glowingly 3
+glowingly 4
 glows 1
 geometrize 1
 gorgeable 2
@@ -7407,7 +7407,7 @@ grewsomely 3
 gange 3
 gastrohysterectomy 2
 geometroid
-gothamite 5
+gothamite 6
 gaed 1
 germiparous
 germigenous 3
@@ -8208,7 +8208,7 @@ goldurned 1
 galenical 3
 grapestalk
 groomling 1
-galeodidae 2
+galeodidae 3
 granogabbro 2
 gentlemanlike 3
 galwegian 1
@@ -8416,7 +8416,7 @@ grippes 3
 genuflectory 3
 giantry 1
 gunplay 1
-ghawazi 1
+ghawazi 2
 grainfield 1
 greenovite 1
 gallinacei 3
@@ -8467,7 +8467,7 @@ gandul 1
 grapestone 2
 gravelroot 1
 gallstones 4
-gentisic
+gentisic 1
 goldbricks 2
 glaciarium 7
 goonch 4
@@ -9314,7 +9314,7 @@ guttera 2
 ghosted 3
 grogshop
 gigmaness 2
-geosyncline 1
+geosyncline 2
 gnathalgia 2
 guignol
 glopnen 4
@@ -9447,7 +9447,7 @@ gallybeggar 1
 gradable 3
 gorgeous 2
 guacharos 2
-geoplagiotropism 4
+geoplagiotropism 5
 gigues
 gallinulinae 4
 groundy 3
@@ -10841,7 +10841,7 @@ grayhead
 generality 2
 gyrofrequency 1
 genethlialogical 2
-girderage
+girderage 1
 gyrograph 3
 guaiacum 2
 grudgefully 3
