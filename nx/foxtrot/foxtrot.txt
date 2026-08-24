@@ -2972,7 +2972,7 @@ fissiparity 5
 fewterer 1
 frim 2
 fastening 3
-florid
+florid 1
 francophil 5
 fewtrils 1
 follower 5
@@ -3964,7 +3964,7 @@ forfends
 fingerer
 flaunch 2
 flory 3
-fingerers 1
+fingerers 2
 fono
 fixature 2
 florissant 2
@@ -5571,7 +5571,7 @@ flexuously 2
 fram 4
 fluffiest
 forecited 5
-fluorite 3
+fluorite 4
 fiddles 3
 fibbing 1
 felon 2
@@ -6220,7 +6220,7 @@ forefence 1
 fulgural
 flightily 1
 fairgrounds 2
-forlana
+forlana 1
 foreshortens 2
 fatlings 2
 freyja 4
@@ -6354,7 +6354,7 @@ favela 3
 fluoboride 2
 fiacre 1
 fooster 4
-flaggiest 3
+flaggiest 4
 fumerel 1
 fiking 1
 flashingly 1
@@ -7925,7 +7925,7 @@ fetticus 2
 forewarned 3
 feiseanna 2
 featherworker 1
-foresee 1
+foresee 2
 faitor
 frakturs 4
 footeite 1
@@ -8976,7 +8976,7 @@ flu 1
 fountain
 fragged 1
 fantastically 2
-fossicker 2
+fossicker 3
 frescoer 1
 flueman
 feak 1
@@ -11425,7 +11425,7 @@ flushboard 2
 faradomuscular 3
 feasor
 flocculose 3
-furniture
+furniture 1
 flummoxing 2
 footlicking 3
 furl 2
@@ -11673,7 +11673,7 @@ fresne 1
 frwy
 fluorochrome 3
 fibreboard
-faade 2
+faade 3
 ferrety 1
 futurama 2
 floodometer
