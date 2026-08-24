@@ -5225,7 +5225,7 @@ casings
 cloches 2
 casiri
 casita
-casket
+casket 1
 corpl 1
 coemanate 3
 carmine 1
@@ -6334,7 +6334,7 @@ causalities
 causally
 causans 2
 cyphellate 1
-causate
+causate 1
 causationism
 crapefish 1
 compatient
@@ -6472,7 +6472,7 @@ checkpoint
 calciphylactically
 collogues 1
 celebrating
-cavea 2
+cavea 3
 caveae 1
 caveating
 chiquitan
@@ -8546,7 +8546,7 @@ cascades
 chandleress 1
 cerebrorachidian
 councilorship
-calais
+calais 1
 cavalieres 2
 chandlerly 1
 chandlers
@@ -8984,7 +8984,7 @@ charityless 1
 columboid 2
 caridoid
 cloaks
-comus 2
+comus 3
 charking
 chiels 2
 charlady 1
@@ -9729,7 +9729,7 @@ congressed 2
 cheiropody
 cheiropterygium
 coexisted
-cheirosophy
+cheirosophy 1
 cheka
 centennial
 chekan 1
@@ -10339,7 +10339,7 @@ chicly 1
 chicness
 chantries 2
 chico
-caryocaraceous
+caryocaraceous 1
 coryneum 1
 chicories
 cuckolds 2
@@ -10356,7 +10356,7 @@ cystinuria 1
 chics 2
 chide 1
 callid 1
-classing 1
+classing 2
 chided
 chiders
 colorbreed 4
@@ -12631,7 +12631,7 @@ chronoscopically 2
 cheesier 1
 catechisation 1
 columnize
-cyperaceous
+cyperaceous 1
 chronothermal 1
 chronotropic
 countable
@@ -12956,7 +12956,7 @@ conspires
 coaxially
 cyanate 1
 cyanates 1
-contrail 1
+contrail 2
 cubs 1
 cyanformate
 chockful
@@ -13574,7 +13574,7 @@ confricamenta
 compensation
 cedarn 1
 centricality 2
-cymbalist
+cymbalist 1
 crapshooting 1
 cymbalists 1
 cymballed
@@ -22290,7 +22290,7 @@ curiums
 conglobed 1
 conglobes 1
 conglomerate 1
-carolling 1
+carolling 2
 cylices
 calzoons
 conglomerating 1
@@ -23368,7 +23368,7 @@ circumstantiations
 creophagous 1
 contactile 1
 cummer
-coatracks
+coatracks 1
 circumspect
 coattest 2
 congests 1
@@ -23768,7 +23768,7 @@ contrapposto
 condignity
 contrappostos 1
 contraproposal
-contraption
+contraption 1
 contraptions
 contraptious 1
 capacitator
@@ -24412,7 +24412,7 @@ cools
 coappear 2
 cardiophrenia 1
 coolung 1
-coolweed
+coolweed 1
 coolwort
 carryable 2
 coom 1
@@ -29166,7 +29166,7 @@ callidity 1
 cradleside 2
 cryogenics 2
 cloys
-catwalks
+catwalks 1
 cluniacensian 1
 clauster
 costards
