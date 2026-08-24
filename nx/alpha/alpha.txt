@@ -289,7 +289,7 @@ arsines 3
 antimerina
 anolian
 appurtenances 3
-accuracy 1
+accuracy 2
 autotropism
 abdominally
 aguamas
@@ -4995,7 +4995,7 @@ aerological
 antepartum 3
 aeromancer
 anthonomus 2
-aerometer 1
+aerometer 2
 aspen 2
 amygdalus 2
 amenite
@@ -5072,7 +5072,7 @@ anecdotically 1
 aeroplanes 2
 archboutefeu 1
 aeroscepsy
-achromatizing
+achromatizing 1
 archaeology
 anciennete
 aurum 1
@@ -9519,7 +9519,7 @@ apritif 1
 acadian
 alternater 1
 alternatingly 2
-aphrodite
+aphrodite 1
 acinarious 2
 attemperate 2
 antivenins
@@ -15319,7 +15319,7 @@ alhambra 3
 antigravitational 2
 angiemphraxis 2
 automobiling
-antigravity 2
+antigravity 3
 antigrowth 2
 affectible 2
 anatomizes 1
