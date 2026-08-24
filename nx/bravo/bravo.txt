@@ -1549,7 +1549,7 @@ baltimore 1
 bloodmonger
 blackware 1
 boarder 2
-ballas
+ballas 1
 baronetised
 blacktopping
 banks 1
@@ -2224,7 +2224,7 @@ bromocyanid 1
 backflash 1
 briscola 3
 blimpishness
-bararite 1
+bararite 2
 barathea 1
 barbellate
 bibbled 1
@@ -3051,7 +3051,7 @@ bubba
 bartramian
 banish 4
 beetmister 1
-bliest 1
+bliest 2
 burlesks 1
 balsaming
 brigantine 2
@@ -6772,7 +6772,7 @@ bridgebuilding 3
 berrier 1
 berries 1
 bitterbur 1
-beaut 1
+beaut 2
 buhls
 barytosulphate 1
 badian 2
@@ -7107,7 +7107,7 @@ bespill 1
 bathygraphic 1
 bastardies
 blurters 2
-butanolid 2
+butanolid 3
 besplatter 1
 bicarbs 1
 bespoke 3
@@ -9125,7 +9125,7 @@ biennia 1
 bridgewater 2
 bicalcarate
 blackthorns
-bombax
+bombax 1
 biosystematy 1
 benzomorpholine
 byssine
@@ -9272,7 +9272,7 @@ birgand
 bougainvillia 1
 biangulated
 broadsides
-bacterioidal 1
+bacterioidal 2
 bedouinism 3
 bothersomeness
 balewort 1
@@ -10509,7 +10509,7 @@ blastocoele
 blastodisc
 becharming 1
 bakestone
-biologistic 1
+biologistic 2
 bepastured 1
 blastogenic 4
 bandfiled 2
@@ -10809,7 +10809,7 @@ bugbeardom
 blepharomelasma
 blepharoncosis 3
 beplumed
-broses 3
+broses 4
 blepharoplastic
 bassan 2
 blepharoptosis 1
@@ -10877,7 +10877,7 @@ braced 2
 brokership 2
 blent 2
 blattiform 1
-backpacks
+backpacks 1
 breechless 3
 biradiate 1
 ballgames 2
@@ -11582,7 +11582,7 @@ brogger 2
 blush 1
 blushed 3
 banga
-bandannas 2
+bandannas 3
 blushfully 1
 borophenol
 blushy 1
@@ -12393,7 +12393,7 @@ bombonne 2
 bombora 1
 beswarmed
 bombus 4
-bombardelle 2
+bombardelle 3
 bon
 backrope
 barenesses 3
@@ -14558,7 +14558,7 @@ branchiogenous 1
 branchiomere 1
 baikie 1
 bottomless 1
-branchiopod
+branchiopod 1
 belozenged
 branchiopoda 1
 branner
@@ -15074,7 +15074,7 @@ breenger 1
 babushka 1
 breezeway 2
 bulbocapnin 1
-botel 3
+botel 4
 beastliness 1
 bowdlerise
 besanctify 2
@@ -15470,7 +15470,7 @@ beflout
 bacteriophage 2
 benetted 1
 bludgeoner
-bota
+bota 1
 bifurcations 1
 battledoring
 brilliancies 2
@@ -16141,7 +16141,7 @@ brassier 1
 breathful 2
 bundweed 2
 budget 1
-bolsterers
+bolsterers 1
 bratstvo 1
 brookweed
 brool
@@ -17380,7 +17380,7 @@ bimorphemic 3
 bijection 2
 biathlons 3
 butteries 1
-brachistochronic
+brachistochronic 1
 beignets
 bottles 2
 bejeled 2
