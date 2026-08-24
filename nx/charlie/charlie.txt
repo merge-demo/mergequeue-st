@@ -23392,7 +23392,7 @@ contagions 1
 contagiosity
 contagiousness
 contagium
-contain
+contain 1
 contained
 containerboard
 containerization 1
