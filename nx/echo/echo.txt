@@ -1555,7 +1555,7 @@ ensconces
 enervates 2
 elaphebolion 1
 extraversion 1
-encampment 3
+encampment 4
 epinasty 1
 envigor 1
 exogeny
@@ -3385,7 +3385,7 @@ electrotechnics 2
 embarge
 espier 2
 enteropneustal 2
-estimator 2
+estimator 3
 equivocally 1
 ebullate 3
 exacters 1
@@ -5952,7 +5952,7 @@ ephphatha 1
 enigmatist
 enigmatographer
 emotionality 1
-exempts
+exempts 1
 erogenic
 enisled
 enisles 1
@@ -6812,7 +6812,7 @@ emblemized 1
 eelskin 1
 ealdorman
 erythrozincite 3
-emanations 2
+emanations 3
 ermine 1
 exults
 epidermoidal 1
