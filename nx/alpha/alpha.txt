@@ -23462,7 +23462,7 @@ alarmable 1
 apomict 1
 alertest
 augend
-adversity
+adversity 1
 antiantidote
 autoinoculation
 aquiform
