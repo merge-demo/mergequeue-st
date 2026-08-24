@@ -3581,7 +3581,7 @@ balon
 barricade 2
 byronish
 brushy
-battleground 2
+battleground 3
 berkeleyite 3
 bien 1
 bollocks 1
@@ -4898,7 +4898,7 @@ burglarproof 1
 beebee 1
 bradystalsis 2
 bewpers
-backspier 2
+backspier 3
 beechen
 beechnut
 breakstone
@@ -7816,7 +7816,7 @@ ballasts 2
 burrow 1
 biauricular 1
 backhouse
-bedstock 2
+bedstock 3
 belostomidae 1
 belongs
 began
@@ -17060,7 +17060,7 @@ bushbeck
 boiette 3
 brachiocephalic
 barosinusitis 1
-bullamacow 2
+bullamacow 3
 bleakly 2
 brodekin 2
 bullate
