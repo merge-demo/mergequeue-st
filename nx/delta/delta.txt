@@ -1895,7 +1895,7 @@ deboss 1
 detractive 1
 debouche 2
 dupery 2
-disbench
+disbench 1
 disconcertingness
 digladiator 3
 discourse 1
@@ -11023,7 +11023,7 @@ diagnosticating
 diplopterous 2
 disapparel 2
 descriptive 1
-disappear 1
+disappear 2
 divorcees
 disbowelling
 distended 1
@@ -13950,7 +13950,7 @@ dilaniate 2
 distn 1
 deicate
 dystocia 2
-dourade
+dourade 1
 dogwatch
 diaetetae
 dystocial 3
@@ -14801,7 +14801,7 @@ detests 2
 docoglossate
 dewata 4
 diswarren 2
-decidua
+decidua 1
 docs
 doctor 2
 doctorally 1
@@ -18210,7 +18210,7 @@ dynamicity 3
 dumpoke
 deltohedra 1
 dumps 2
-dissective
+dissective 1
 dumsola
 dedendum 2
 disdiaclastic
