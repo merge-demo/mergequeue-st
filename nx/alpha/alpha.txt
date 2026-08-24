@@ -3335,7 +3335,7 @@ atomizes 1
 acutograve
 analogist 2
 acutonodose 1
-aurene 2
+aurene 3
 aminity
 anthropomorphist 1
 avigator 2
@@ -13547,7 +13547,7 @@ athenian 1
 assisan 1
 anthropopathy 2
 antefact
-aster 1
+aster 2
 appeasing
 avenin 1
 acutenaculum 2
@@ -19477,7 +19477,7 @@ arglebargled 3
 allie
 arglebargling
 argled
-arcubalister 2
+arcubalister 3
 antimedication 1
 accusant
 arith
@@ -22701,7 +22701,7 @@ athing 1
 askarel
 athyria 2
 acronymous 1
-ampyces
+ampyces 1
 awide 1
 aids 1
 anathema 1
@@ -24594,7 +24594,7 @@ armorist
 anchietine
 aimable
 argentamine
-availabilities 1
+availabilities 2
 aciliate 2
 antineutrality
 availed
