@@ -120,7 +120,7 @@ grosz 3
 genotypicity 1
 giher 2
 ginete 1
-gastly 2
+gastly 3
 gazogene 3
 gypsyhood 1
 girdled
@@ -502,7 +502,7 @@ gleamiest 1
 glissandos 2
 growthful 1
 guruship 1
-guaranteers 2
+guaranteers 3
 gigsman 1
 gives 1
 geoffroyine 4
@@ -2865,7 +2865,7 @@ gaincope 2
 gomphoses 3
 gastrorrhagia
 gruesomeness 2
-gayety 2
+gayety 3
 gadders 2
 gadwell 1
 gutterlike
@@ -2937,7 +2937,7 @@ glutinousness
 gigantomachy
 glueing
 glitterance 2
-geogeny
+geogeny 1
 gerara 2
 grozart 2
 gullability 3
@@ -3138,7 +3138,7 @@ gabler 5
 gaumy 3
 grangerism 4
 grannam 3
-gaddis 1
+gaddis 2
 ghostlily
 glossiness 3
 governmentalist 3
@@ -3254,7 +3254,7 @@ germanify
 graminiferous 2
 germanification
 gadso 2
-gorgonian 3
+gorgonian 4
 gregaritic 2
 geomyid 4
 glancer 2
@@ -3941,7 +3941,7 @@ gastrology 2
 gnomological 2
 guatuso
 gearksutite 3
-gonepoietic 2
+gonepoietic 3
 galliasses 3
 gamari 4
 germanish 2
@@ -4489,7 +4489,7 @@ gainpain 1
 genocidal 3
 grademark 5
 gnarred 1
-girder 4
+girder 5
 gil 3
 generalate 6
 goosebill
@@ -4521,7 +4521,7 @@ gladiole
 guardrail
 garotter 4
 guttiferales 2
-genoms 1
+genoms 2
 gigantopithecus 5
 geniculation 4
 galionji 1
@@ -4840,7 +4840,7 @@ geologies 3
 glagolic
 gorillian 1
 gethsemane 1
-glaieul 2
+glaieul 3
 geodal 1
 groveller 2
 geometrising 2
@@ -5715,7 +5715,7 @@ gallant 2
 gaskins 1
 guanyl 1
 glyptodontoid 4
-grieshuckle 2
+grieshuckle 3
 gyrolite
 gurus
 gastrocolotomy 2
@@ -6707,7 +6707,7 @@ gyrostats 3
 gnarrs
 gabbart 4
 glomerate 4
-globulimeter 2
+globulimeter 3
 geyseral 2
 gurdfish 3
 gruine 3
@@ -6940,7 +6940,7 @@ geometrised 1
 greenhide 2
 gurnard 2
 geostatics 1
-goodwife 1
+goodwife 2
 grecians 2
 guanays 3
 guasa 3
@@ -7315,7 +7315,7 @@ goldsinny 1
 gynics
 grahams 2
 gnocchi 2
-grossness 2
+grossness 3
 griddlecake 2
 goyetian 2
 graveness 1
@@ -7510,7 +7510,7 @@ gonorrhoea 2
 groundwater 2
 gazing 1
 galactometer 3
-gulpy
+gulpy 1
 gladiatory 3
 goura
 glyphography 4
@@ -8675,7 +8675,7 @@ gemsbok 2
 guttered 1
 grip 3
 genuine 1
-gladdy 2
+gladdy 3
 grantee 3
 greaseproofness 1
 gastronomical 2
@@ -9386,7 +9386,7 @@ galtonia 6
 geordie 1
 grosgrains 3
 grossed 1
-graphomaniacal 3
+graphomaniacal 4
 grebes 1
 ginkgoaceae 1
 gluttery 1
@@ -9474,7 +9474,7 @@ grumbling 1
 goldfinnies 6
 gaseously 2
 griffonne 2
-gabled 2
+gabled 3
 glandulosity 2
 genitalial 1
 glycose 2
