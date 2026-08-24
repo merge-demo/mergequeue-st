@@ -3510,11 +3510,11 @@ capstans 1
 capstone 1
 capsula 1
 cons
-capsular 1
+capsular 2
 capsulation 1
 collegatary
 chainomatic
-chawbone 1
+chawbone 2
 capsulectomy 1
 chloroforming 1
 centinody
@@ -6841,7 +6841,7 @@ cornicular 1
 cathro
 cellules 5
 crevasse
-clamor 1
+clamor 2
 cellulin 1
 contangoes 1
 cuddly
@@ -7240,7 +7240,7 @@ colorcaster
 cancellate 2
 copopsia
 catarinite
-cohobated 1
+cohobated 2
 centuple 1
 clematises
 centuples
@@ -17384,7 +17384,7 @@ coattending 1
 conductivities 1
 cineangiocardiographic
 coattestator
-coattested
+coattested 1
 coattesting
 coaudience 1
 collegiugia
@@ -17443,7 +17443,7 @@ cobaltocyanic
 cobalts
 carbineers
 chokeable 2
-condensity 1
+condensity 2
 cobang
 confessed
 cobber
@@ -19009,7 +19009,7 @@ contraflow 1
 collectivists 2
 collegese 2
 collectivities
-charonic 2
+charonic 3
 crenele
 caloricity 1
 collectivize
@@ -21879,7 +21879,7 @@ counterbond 1
 cheddars
 congiary
 coziness
-cancellarian
+cancellarian 1
 confelicity
 cataclasm
 chaetosema 2
@@ -25028,7 +25028,7 @@ chumble
 cordelia 1
 cordelle 1
 crushableness
-champain 2
+champain 3
 cordery 1
 cordewane
 conventing 1
@@ -27740,7 +27740,7 @@ conductibility 4
 cosmolining
 clinochlore 1
 cytidines 1
-coleus 1
+coleus 2
 cowpoxes
 consortium
 chuprassi 1
@@ -29949,7 +29949,7 @@ crossovers
 chokebore
 cardiataxia
 concern 1
-crosspath 2
+crosspath 3
 clawk 1
 crosspoint
 crossroad 1
