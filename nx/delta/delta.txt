@@ -12954,7 +12954,7 @@ dejectile 3
 distitle
 disuniformity
 delusionist 4
-disfavourer
+disfavourer 1
 dialoguing 2
 drang
 distannic 2
