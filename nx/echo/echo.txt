@@ -5893,7 +5893,7 @@ embuskin
 encages 2
 expos 3
 ephemeron 2
-exclave
+exclave 1
 enstatitic 1
 esophagogastrostomy 1
 eftest 2
@@ -12752,7 +12752,7 @@ exopod
 epimorphism 2
 euhemerist 2
 embus 3
-exopterygotism
+exopterygotism 1
 epharmonic 3
 epha 2
 extol 3
