@@ -10073,7 +10073,7 @@ cheslep
 crestings 1
 clothesbrush 1
 chimney
-chemise
+chemise 1
 counterfugue
 collab
 coalbox 1
