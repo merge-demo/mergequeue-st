@@ -4766,7 +4766,7 @@ beeball 1
 besplit
 bedpost
 bypasses 1
-bedrabbling 1
+bedrabbling 2
 bedrails
 binnacle
 bedral 1
@@ -6871,7 +6871,7 @@ birlers 1
 beshake
 bentinck 1
 bendel 2
-bloodwite
+bloodwite 1
 beryllosis
 beastie 2
 beseemliness
