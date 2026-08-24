@@ -1391,7 +1391,7 @@ formulators
 fatbacks
 fishway 1
 fountainlet 1
-fallibly
+fallibly 1
 firewood
 futchell 1
 forbar 1
@@ -4639,7 +4639,7 @@ fossane
 fizelyite 1
 fitzroya
 filicides 5
-federatively 2
+federatively 3
 faussebraye 2
 fatherless 2
 fourthly 4
@@ -4650,7 +4650,7 @@ falconidae 1
 fractonimbus 4
 fivesome 1
 flaubertian 2
-flashproof 1
+flashproof 2
 famacide 5
 frivoling 3
 futharcs 1
@@ -5353,7 +5353,7 @@ fraughting 4
 foggily 5
 feedbin 1
 fettles 1
-frayn 1
+frayn 2
 flanken 5
 feebleness 1
 fullmouth 1
@@ -5395,7 +5395,7 @@ forthbringer 2
 formable 2
 flecking 1
 firehouses 3
-festivalgoer
+festivalgoer 1
 fennel 4
 friending 1
 frigefact 2
@@ -5426,7 +5426,7 @@ forefigure 3
 furor 1
 flurt 1
 fittingness 3
-flagellula 2
+flagellula 3
 fault 4
 freezing 1
 firstfruits 2
@@ -5673,7 +5673,7 @@ fishnets 2
 finedraw
 fumet 1
 fermium 2
-fawe 1
+fawe 2
 fragility 2
 fibrine 1
 freckles 2
@@ -6037,7 +6037,7 @@ foggier 4
 forgab
 forespeech 3
 frontooccipital 3
-flanker 3
+flanker 4
 fictionise
 fluoresce 3
 fustic 1
@@ -6277,7 +6277,7 @@ fussock 4
 flared 1
 fissiparation
 fortissimos 2
-footlock 4
+footlock 5
 fearnought
 fakirism 2
 forceful
@@ -6313,7 +6313,7 @@ farfels 7
 flickerproof 1
 fade
 funori 2
-fettling 2
+fettling 3
 fusionism 4
 futurable 1
 flumping 2
@@ -6370,7 +6370,7 @@ flang 1
 fullterm
 fluoran 2
 fennish 3
-fluorane
+fluorane 1
 francois 1
 florentium 2
 fishtailing 3
@@ -7307,7 +7307,7 @@ flubdubbery 2
 furled 1
 forelock 4
 fopperies 3
-fopperly 2
+fopperly 3
 fraternized 4
 formaldoxime
 foujdar
@@ -8254,7 +8254,7 @@ fruticulose 2
 florence 2
 fundulinae 4
 fringes 1
-fairyologist 1
+fairyologist 2
 furlanas
 fuder 1
 flaskets 3
@@ -9361,7 +9361,7 @@ footrest 1
 forzato 3
 finnicky 4
 fatback 7
-formicicide 1
+formicicide 2
 fromages 1
 fluxility 2
 francolite 2
