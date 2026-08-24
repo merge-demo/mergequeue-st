@@ -1028,7 +1028,7 @@ galvanoscopy 1
 gawk 3
 geodist
 grasp
-glinting
+glinting 1
 gynaecology 3
 golp 2
 glanced 1
@@ -3968,7 +3968,7 @@ grounds 2
 gilds
 gildship 2
 gutturals 2
-gerundive 3
+gerundive 4
 graybacks 1
 grossierete
 giliak 1
@@ -4359,7 +4359,7 @@ gutted 3
 ghaut 2
 gluer 2
 griffinage
-gynodioecious 3
+gynodioecious 4
 gophers 2
 giglet 4
 goosishness 1
@@ -9347,7 +9347,7 @@ glossas 3
 governability 3
 griffs
 geophila 3
-graduate 3
+graduate 4
 goliad 2
 gunnysacks 3
 genitals 1
