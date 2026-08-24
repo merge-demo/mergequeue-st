@@ -542,7 +542,7 @@ endless 1
 echinoid 2
 ethiopians 2
 eavesdropper 1
-encrimson 1
+encrimson 2
 echinomys 4
 entrained 1
 erythrene 2
@@ -2184,7 +2184,7 @@ elderman 1
 ensorcels 2
 eggwhisk 1
 electrics 1
-electrographic 2
+electrographic 3
 exedrae 3
 esthesia 1
 epistome
@@ -2548,7 +2548,7 @@ encopreses
 extremes 2
 enchanters
 etrogs 2
-electron
+electron 1
 elastins 5
 exenteration 1
 escapeful 1
@@ -3265,7 +3265,7 @@ eludes 4
 ermitophobia 1
 empiriological 3
 eyehooks 1
-effacement 3
+effacement 4
 empididae
 eurafrican 2
 electrosurgically 2
@@ -3365,7 +3365,7 @@ ethylenediamine
 extranormal 3
 emballonuridae
 eulachons 3
-equus 3
+equus 4
 eof 1
 energeticalness 1
 eternising 1
@@ -4554,7 +4554,7 @@ ethologically 2
 eucryphiaceae 1
 epistolean 1
 erethizontidae
-equitably 4
+equitably 5
 epilimnion 3
 echevin 1
 exeunt 3
@@ -5943,7 +5943,7 @@ enigma 2
 egotism 2
 enjambements 2
 enigmata 2
-eassel
+eassel 1
 eluvial 2
 exquisite 1
 embezzles 1
@@ -6439,7 +6439,7 @@ eurypteroidea
 ensoul 1
 ensouled 1
 evolutes 1
-ectodermic
+ectodermic 1
 enlister
 extill 4
 enstar
@@ -6834,7 +6834,7 @@ esthesiography 1
 eucryptite 4
 epic
 electrochemical
-enfolders
+enfolders 1
 entomophthorales 4
 erythrodextrin
 enfeoffed
@@ -7128,7 +7128,7 @@ ecthymatous 2
 enwomb 2
 engnessang
 emforth 1
-enarthrodia 1
+enarthrodia 2
 exorcisement 1
 exuviability 2
 electrons
@@ -7214,7 +7214,7 @@ eorhyolite 3
 extinguishable
 eos 1
 earshot 2
-etonian
+etonian 1
 ectozoon
 eosate
 endurableness 3
@@ -9716,7 +9716,7 @@ estrade
 esselenian
 emotionable 1
 eomecon
-eastlings 5
+eastlings 6
 entotrophi 3
 entitles 1
 eradiates 4
@@ -9724,7 +9724,7 @@ epitomisation 2
 equisonance 1
 everyplace 1
 eddo 2
-enneahedron
+enneahedron 1
 euhedral 3
 enrobing 2
 epigraphical 4
@@ -13540,7 +13540,7 @@ evaluations 2
 endangeitis
 evonymus 3
 epitomic 2
-epigrapher 3
+epigrapher 4
 elinor 1
 ectosteal
 examine
