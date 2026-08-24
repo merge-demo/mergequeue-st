@@ -1266,7 +1266,7 @@ escribiente 2
 ecorche
 eblis 1
 eucairite 4
-eleonorite 1
+eleonorite 2
 eoghanacht 2
 epinephrin 2
 epigramme 3
@@ -6228,7 +6228,7 @@ electrofishing 1
 extraepiphyseal 2
 ecstatica
 enrapt
-eurygaean
+eurygaean 1
 epees
 elderbrotherish
 exemplariness 2
