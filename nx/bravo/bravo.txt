@@ -1342,7 +1342,7 @@ bingy
 burelage 1
 bellower 2
 bedways 1
-bluecap 1
+bluecap 2
 bunks
 bacteriophagous
 bandwagon
@@ -2686,7 +2686,7 @@ brither
 birdcage 1
 balmlike 2
 barnabas 2
-bales
+bales 1
 barnaby 3
 bluebreast
 besnivel
@@ -3990,7 +3990,7 @@ brand 2
 bnf 2
 bespy
 becursed 2
-beaching
+beaching 1
 beachman
 buenas 3
 berchta
@@ -4866,7 +4866,7 @@ bacchantes 2
 bourgeon 3
 bartholomew
 blephara 3
-briefings 1
+briefings 2
 bedsitter
 batmen 1
 borachio 3
@@ -9066,7 +9066,7 @@ barky 2
 butterier 2
 bisegment 1
 berrettino 1
-bristlemouth 1
+bristlemouth 2
 backfire 1
 biophotophone
 bemire 2
@@ -9783,7 +9783,7 @@ buffered
 bistipulate 1
 bistort 1
 bistorts
-beetlehead 1
+beetlehead 2
 bistred 1
 beknights
 bradylexia
@@ -10411,7 +10411,7 @@ bailwood 1
 burgrave 2
 biosynthesis 3
 bravado 1
-bragged
+bragged 1
 buonamano
 botong 2
 blanketlike 1
@@ -11429,7 +11429,7 @@ belonosphaerite 1
 benzoglyoxaline 4
 barmkin 2
 bluegrass
-bluffy
+bluffy 1
 bakery 2
 bekko
 bestrut 1
@@ -18380,7 +18380,7 @@ bepaint
 buzz 1
 buzzard 4
 bubos 1
-beylical
+beylical 1
 beasts 3
 bluebook 1
 barycenter 1
