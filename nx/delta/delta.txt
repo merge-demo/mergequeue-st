@@ -3073,7 +3073,7 @@ defacer
 danes
 dentiscalp 1
 desole 1
-delible
+delible 1
 designated 1
 drunkenly 1
 degradand 3
@@ -3249,7 +3249,7 @@ defensively 1
 deferents
 datiscetin 3
 drakefly
-dudder 3
+dudder 4
 deferrable
 deferrer 3
 deferrize 1
@@ -7549,7 +7549,7 @@ discriminational
 disenthroned 1
 doyly 1
 debits
-deuteroproteose
+deuteroproteose 1
 drawout 1
 derner 1
 dunziekte 1
@@ -13759,7 +13759,7 @@ derm 1
 dissolutional 1
 deteriorative
 dissolutionism 1
-dissolvableness 1
+dissolvableness 2
 dissolvative 1
 dissolve 5
 daffadillies 1
@@ -14633,7 +14633,7 @@ dora 4
 degradability
 disinvite 1
 deuteropathy 2
-dizen 1
+dizen 2
 dlr 2
 devitalized
 dizoic 1
@@ -15260,7 +15260,7 @@ diurnation
 diamylose 1
 diluviums 2
 dolmas 1
-dolmen
+dolmen 1
 desubstantiate 2
 dolomedes 2
 discovery
@@ -18629,7 +18629,7 @@ dysgnosia 1
 damselhood 1
 dollarwise 1
 desightment
-dutchy 3
+dutchy 4
 dutching 1
 declericalize
 deceivability
