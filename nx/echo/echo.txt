@@ -866,7 +866,7 @@ expediencies
 economically 1
 ectopy
 engulfed 1
-ectoplasmatic
+ectoplasmatic 1
 evenly 2
 expansibly 6
 euphonies 1
@@ -2378,7 +2378,7 @@ electrodeless 1
 ectogenetic
 energist 1
 electrodeposition 3
-ethiopic 2
+ethiopic 3
 ebriosity 2
 entomologize 1
 epitrochlea 3
@@ -3426,7 +3426,7 @@ episyllogism 4
 edeotomy 2
 eucirripedia 2
 ethmovomerine 2
-embogue
+embogue 1
 ennuyant 1
 ecalcavate 2
 errand
@@ -4145,7 +4145,7 @@ erythrodermia 1
 externum 6
 encl 1
 encaustes 1
-exporter
+exporter 1
 elaeosia
 eyeroot 2
 escaloped 1
@@ -4723,7 +4723,7 @@ erethic 1
 enterotomy 1
 epiopticon 4
 excusatory 1
-endocarpic 1
+endocarpic 2
 encode
 exitance 2
 encoding
@@ -13329,7 +13329,7 @@ espousers 4
 efformation
 eminences 4
 ethicalities 2
-eclipsareon 1
+eclipsareon 2
 entocornea 2
 extracosmic
 extogenous 4
