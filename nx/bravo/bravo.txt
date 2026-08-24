@@ -429,7 +429,7 @@ beamer
 backpedal 1
 backpedaling
 backpiece 1
-bolshevistic 3
+bolshevistic 4
 backplane 2
 bushwas 3
 backscatter
@@ -1601,7 +1601,7 @@ bifidity 1
 beknighting 2
 brummagem 1
 ballyhoo
-ballyrags
+ballyrags 1
 bioelectrogenetic 2
 belat 2
 ballised 2
@@ -2473,7 +2473,7 @@ benempted 1
 barnacled 1
 blustery
 bareknuckle 1
-barer
+barer 1
 botling 1
 bounceably
 bezonian 1
@@ -2746,7 +2746,7 @@ bismutoplagionite 1
 barolo 1
 bm
 benab
-butteris 2
+butteris 3
 bonneting 3
 bukeyef
 barology 1
@@ -4480,7 +4480,7 @@ blackmail
 barbone 1
 balboas 1
 bursicle 3
-bucklers 1
+bucklers 2
 bustling 1
 bonnering 1
 becry
@@ -5522,7 +5522,7 @@ bemurmured 2
 bobowler 2
 benefactive 1
 begnawn 1
-blotted 2
+blotted 3
 beisance 2
 bouvier
 broadloom 1
@@ -7737,7 +7737,7 @@ britten 3
 bathyscaphe 1
 bravoite
 buxerry 1
-bhikshu
+bhikshu 1
 bullan
 barquantine
 breakover
@@ -9214,7 +9214,7 @@ boudoirs 1
 babblesome 1
 benzophenanthrazine 2
 balsaminaceous 2
-balladical 1
+balladical 2
 biparentally
 businesswoman
 bushelmen 3
@@ -9388,7 +9388,7 @@ bisulfid 2
 brachtmema 2
 birdhood 1
 birdhouse 2
-breezed 1
+breezed 2
 barramundi 1
 bandido 3
 bullety
@@ -10776,7 +10776,7 @@ bronchomotor 1
 bleo 2
 befuddlers 2
 bywords 2
-befrill
+befrill 1
 boatsmen 2
 blepharadenitis
 blepharanthracosis 2
@@ -11417,7 +11417,7 @@ bowlderhead 1
 berycoidei 3
 bluecurls 2
 brawn
-blears 1
+blears 2
 browbands
 blued 2
 basisolute
@@ -14623,7 +14623,7 @@ betrumpet 1
 behorn 1
 brangled
 beanies 1
-brankie
+brankie 1
 blurry 1
 branks 3
 bourre
@@ -14713,7 +14713,7 @@ brassbounder 1
 brasse
 brassey
 boxiest 2
-biographically 1
+biographically 2
 brassicaceae 1
 backworm 2
 brassiere 1
@@ -17703,7 +17703,7 @@ butteriness 1
 biont 1
 burrawang
 beanos
-bihourly 1
+bihourly 2
 braconid 1
 bankeress 2
 boubou 1
@@ -18301,7 +18301,7 @@ backwashing 2
 bowless 1
 buttinski
 buttled 2
-bobsledded 3
+bobsledded 4
 backbiting 2
 buttock 1
 bronchodilatation 2
@@ -18374,7 +18374,7 @@ bimesters 2
 buz 1
 buzane 1
 blawort
-botanising 1
+botanising 2
 bortsch
 bepaint
 buzz 1
