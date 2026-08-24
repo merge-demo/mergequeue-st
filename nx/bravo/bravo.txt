@@ -1863,7 +1863,7 @@ berylloid
 bowlin 1
 bushranging 2
 bandala 1
-bandanaed 2
+bandanaed 3
 battlepiece
 bollito
 bandeau 4
@@ -3514,7 +3514,7 @@ bicarpellary
 batboys 2
 byzants 1
 blubberous 1
-bumbass 1
+bumbass 2
 bissext 4
 birdcall 1
 batched 1
@@ -3698,7 +3698,7 @@ bagwomen 4
 befrilled 2
 braille
 bengals
-bowlegs
+bowlegs 1
 bisabol 1
 booklover 2
 burnies 2
@@ -8474,7 +8474,7 @@ berbery 2
 bootjack 2
 behint 2
 bokos 1
-bouteloua 2
+bouteloua 3
 bals
 bosonic 1
 bilgeway 2
@@ -11350,7 +11350,7 @@ birring 1
 bestiarianism 1
 blubberers 1
 barabbas 2
-balanism
+balanism 1
 bestialising 1
 bankable 1
 bricked 1
@@ -12192,7 +12192,7 @@ bolide 2
 bolivar 3
 befamine
 brose 2
-bradyphemia
+bradyphemia 1
 breek 1
 biasnesses 1
 beedi 2
@@ -17312,7 +17312,7 @@ baths
 blazons
 bumpkin 2
 boltstrake 2
-blanketweed
+blanketweed 1
 botts
 bolstering
 bumptiousness 1
