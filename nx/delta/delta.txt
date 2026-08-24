@@ -7389,7 +7389,7 @@ deselect 1
 discount 3
 demoniacally
 demiadult 1
-daguerreotypist
+daguerreotypist 1
 decenyl 2
 detonations
 dusking 1
@@ -10158,7 +10158,7 @@ doater
 directorate 1
 diploids 2
 daddle 1
-demihigh 2
+demihigh 3
 dingeing 2
 dorsoventrally 1
 duraquara 4
