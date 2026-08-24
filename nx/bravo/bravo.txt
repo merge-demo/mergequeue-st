@@ -41,7 +41,7 @@ bodement
 beneficiation 2
 bechirp 1
 bestialism
-bish 3
+bish 4
 bundocks 2
 befrogged
 brushable
@@ -95,7 +95,7 @@ bloodstock
 bisyllabism 1
 boddhisattva 2
 bonsoir 2
-blistering
+blistering 1
 blackguardly
 bladderwrack
 balanophore
@@ -3843,7 +3843,7 @@ baun 2
 baure
 botonny 2
 bausond
-birthland 2
+birthland 3
 bautta 1
 balsamically 2
 bundts 1
@@ -5848,7 +5848,7 @@ bengaline
 bellyful 2
 boor 1
 beadier 1
-barbermonger 2
+barbermonger 3
 blacklisted 2
 boozily 1
 bellyland
@@ -6348,7 +6348,7 @@ blinks
 benzenediazonium
 bosominess 4
 boxful 1
-bananalander
+bananalander 1
 burgher 1
 bemocking
 billsticking 2
@@ -9073,7 +9073,7 @@ bemire 2
 brickmaking 1
 bethumps 1
 bunching 1
-bearbaiting 1
+bearbaiting 2
 bonzery 1
 bloomers 1
 basking 3
@@ -11955,7 +11955,7 @@ boggard 1
 blindfoldly 1
 bayou
 boggle
-boggler 2
+boggler 3
 bannerol 1
 buffeted 2
 bombing 2
@@ -12021,7 +12021,7 @@ blusteration
 bootstrapped
 bronchiole 1
 bohunks 1
-beneficeless 3
+beneficeless 4
 boyard
 boyardism 1
 bartholomean 1
@@ -14428,7 +14428,7 @@ baken 4
 brothellike 3
 bacteroides
 bemocked 2
-bisischiadic 1
+bisischiadic 2
 brainpan 1
 brainpans 1
 bandaid
@@ -15270,7 +15270,7 @@ blennoid 2
 bucketing 3
 balneal 2
 beardom 1
-bestrewn 1
+bestrewn 2
 benchers 1
 bridale
 basehearted 2
@@ -15306,7 +15306,7 @@ blunges 1
 bridesmen 1
 baybolt 3
 bogomilian 1
-bridestake 2
+bridestake 3
 befoulier 1
 bichromate 2
 broodlet
@@ -16525,7 +16525,7 @@ bolivia 1
 breathlessly 3
 babbittism 1
 batholitic 2
-buddling
+buddling 1
 bangtailed 2
 bequeathal 1
 birr 1
@@ -17338,7 +17338,7 @@ blotches 1
 bund 2
 belamy 2
 buphthalmum
-brontotherium 1
+brontotherium 2
 boxier 2
 babes 3
 benzanthrone 2
@@ -17361,7 +17361,7 @@ bundles 2
 bipaliidae 2
 bittern 2
 bagman 1
-basiotribe 1
+basiotribe 2
 breviary
 burganet 1
 beneplacity 3
@@ -18160,7 +18160,7 @@ befouled 1
 botanicas 4
 bembecidae 3
 bacillicide 1
-basters
+basters 1
 byzant 1
 butyryls 1
 boldfacedly 2
