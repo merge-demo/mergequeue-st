@@ -41,7 +41,7 @@ bodement
 beneficiation 2
 bechirp 1
 bestialism
-bish 3
+bish 4
 bundocks 2
 befrogged
 brushable
@@ -95,7 +95,7 @@ bloodstock
 bisyllabism 1
 boddhisattva 2
 bonsoir 2
-blistering
+blistering 1
 blackguardly
 bladderwrack
 balanophore
@@ -230,7 +230,7 @@ bachelordom 2
 bachelorette 1
 bachelorhood 2
 bachelorly 1
-bifteck 2
+bifteck 3
 bacillosis 1
 buckie
 baches 2
@@ -4934,7 +4934,7 @@ barkentines 1
 bepride 2
 burhinidae 2
 bract 1
-bilobular 1
+bilobular 2
 blackwash
 beefier 4
 bequest
@@ -5768,7 +5768,7 @@ bascology
 bunn
 bulak 1
 bufo 1
-bellbird
+bellbird 1
 bellboy
 bursula 1
 bood 3
@@ -6497,7 +6497,7 @@ bolshie
 boca 1
 bumbled
 blowiness 1
-bigaroons 2
+bigaroons 3
 backstrip 1
 bepart 1
 beacher
@@ -6612,7 +6612,7 @@ breth
 biunity 2
 banquettes 2
 bergall 1
-bergamasche 1
+bergamasche 2
 bergamask 2
 blastoma 2
 bobcat 1
@@ -10020,7 +10020,7 @@ barging
 barie 1
 bedfast 2
 breeched 1
-bivocal
+bivocal 1
 bossism
 bivocalized 1
 buffos 1
@@ -11955,7 +11955,7 @@ boggard 1
 blindfoldly 1
 bayou
 boggle
-boggler 2
+boggler 3
 bannerol 1
 buffeted 2
 bombing 2
@@ -15256,7 +15256,7 @@ buddhists 4
 basifier 2
 bricking 1
 brickish 1
-brickkiln
+brickkiln 1
 brewises 2
 beglerbeg
 bricklayers 3
@@ -18160,7 +18160,7 @@ befouled 1
 botanicas 4
 bembecidae 3
 bacillicide 1
-basters
+basters 1
 byzant 1
 butyryls 1
 boldfacedly 2
