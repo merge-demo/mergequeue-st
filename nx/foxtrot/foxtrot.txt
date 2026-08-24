@@ -2879,7 +2879,7 @@ faeries 2
 forepreparation 1
 fetwa 3
 foreiron 2
-ferlies 1
+ferlies 2
 fetterlock 5
 flatfish 1
 forewing 5
@@ -8625,7 +8625,7 @@ fossilize 3
 fornicatrix 4
 fieldman 2
 frameshift 4
-fullfil 3
+fullfil 4
 flaskful 3
 fissionable
 fungating 3
@@ -10180,7 +10180,7 @@ foray
 faunula 2
 felled 2
 forgives 4
-fliting 5
+fliting 6
 fenite 1
 fissile 3
 fluoride 3
