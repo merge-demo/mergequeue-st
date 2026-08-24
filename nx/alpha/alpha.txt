@@ -5363,7 +5363,7 @@ ambulante
 archoplasm 1
 agranulocytosis 3
 acceder
-applanate
+applanate 1
 attaining
 adenophthalmia 1
 aluminosity
@@ -9041,7 +9041,7 @@ akoluthia 1
 algebraized 1
 aminobenzine
 allotments
-allotransplantation
+allotransplantation 1
 amic
 anapsidan 1
 aden 1
@@ -17831,7 +17831,7 @@ atmans 1
 aheap 1
 albizzia 1
 afteroar 2
-agnathostomata 2
+agnathostomata 3
 amelioratively
 appraises 1
 appraising 1
@@ -21225,7 +21225,7 @@ airworthiness 1
 algarsife 2
 ashing
 afforcing
-ashipboard
+ashipboard 1
 ashir 1
 antiromanticist
 analemmata 1
@@ -23160,7 +23160,7 @@ antisensitivity
 apatan 1
 attendingly
 aubepine 2
-antisoporific
+antisoporific 1
 attendment
 aposoro
 aulu 1
@@ -25270,7 +25270,7 @@ abernethy 2
 azimene 1
 antepenultima 1
 academus 1
-archsewer 1
+archsewer 2
 atinkle 1
 arrhythmically 1
 acylamidobenzene
