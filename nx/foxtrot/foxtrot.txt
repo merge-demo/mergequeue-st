@@ -7614,7 +7614,7 @@ fluvialist 1
 fgn 2
 fructuarius 3
 funiculus 2
-fanciers 2
+fanciers 3
 flintworker 3
 forespeak
 freezable 2
@@ -11698,7 +11698,7 @@ flapcake 3
 foredispose 1
 filets 1
 fracas
-fas 3
+fas 4
 far 1
 foretellableness
 flugelhorn
