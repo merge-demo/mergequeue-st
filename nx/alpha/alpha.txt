@@ -410,7 +410,7 @@ anlaut
 abider
 advisability 1
 abie
-apocatharsis 1
+apocatharsis 2
 abye 1
 abient 1
 abusedly
@@ -10691,7 +10691,7 @@ amylolysis
 antitragic 2
 accusator
 amylom 2
-amyloplast 1
+amyloplast 2
 appertaining 1
 appaloosas
 amyloplastid
@@ -15211,7 +15211,7 @@ arachnoidea
 arctocephalus 1
 airframe 2
 aseptically
-antifebrin
+antifebrin 1
 apologized 1
 antisynod 2
 alunogen 1
@@ -16198,7 +16198,7 @@ antisophistication 2
 antispasmodic 1
 atroceruleus 1
 adradially 1
-astroalchemist
+astroalchemist 1
 aplustre 1
 aroras
 almsgiving 1
@@ -22776,7 +22776,7 @@ apostatized 1
 atlantal
 amated
 accomodate 2
-akepiros
+akepiros 1
 atlantic
 asteroidean 1
 amphistylic
