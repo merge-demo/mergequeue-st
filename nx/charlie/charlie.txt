@@ -6472,7 +6472,7 @@ checkpoint
 calciphylactically
 collogues 1
 celebrating
-cavea 2
+cavea 3
 caveae 1
 caveating
 chiquitan
@@ -13574,7 +13574,7 @@ confricamenta
 compensation
 cedarn 1
 centricality 2
-cymbalist
+cymbalist 1
 crapshooting 1
 cymbalists 1
 cymballed
@@ -29166,7 +29166,7 @@ callidity 1
 cradleside 2
 cryogenics 2
 cloys
-catwalks
+catwalks 1
 cluniacensian 1
 clauster
 costards
