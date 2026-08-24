@@ -2606,7 +2606,7 @@ fangle
 featherlight 6
 filthy 4
 feoffed 1
-fancily
+fancily 1
 foresheet
 ferromanganese 2
 filagreed 1
@@ -2641,7 +2641,7 @@ fastidious 3
 frumentation 2
 familiarisation 2
 fundable 2
-forcipulata 3
+forcipulata 4
 farmyardy 3
 fabric 2
 falanaka 3
@@ -4373,7 +4373,7 @@ fishbolts 3
 flechette 2
 funt 3
 flagged 2
-frenums
+frenums 1
 fishbowls 2
 forky 2
 fisheyes 3
@@ -11044,7 +11044,7 @@ fillets 2
 fumigated 3
 fierce 2
 flutidae 5
-fortifiers 1
+fortifiers 2
 femororotulian 3
 floriferously 3
 festal
