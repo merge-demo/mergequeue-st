@@ -2182,7 +2182,7 @@ camphols
 contemnor 1
 centroids
 camphorated
-camphorates 1
+camphorates 2
 camphory 1
 camphoryl 2
 corgi 2
@@ -4079,7 +4079,7 @@ caliginous
 cardiacle
 cardiagra 1
 celiolymph
-cardiagram
+cardiagram 1
 cardiagraphy
 cardial 1
 cardialgy
@@ -8044,7 +8044,7 @@ chaferies 2
 chafers 1
 caranx
 chafes 1
-calycanth
+calycanth 1
 campaspe 1
 chimaeras 3
 chafeweed 2
@@ -13281,7 +13281,7 @@ capercailzie
 cesura
 colocating 1
 cadee 1
-cheatee
+cheatee 1
 cycloids
 comprehending 2
 curates
@@ -25176,7 +25176,7 @@ chlorophyllaceous 1
 cardmaking 1
 corruptedly 1
 colitis
-corfiote
+corfiote 1
 cathartae 1
 camails
 crampoons
