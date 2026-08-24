@@ -2646,7 +2646,7 @@ aspiratory
 animikite
 altaid 2
 adffrozen
-adjacent 1
+adjacent 2
 acquest
 armenite 1
 actutate
@@ -3585,7 +3585,7 @@ albertype 1
 anareta 2
 avaradrano 1
 addrest
-articulite 1
+articulite 2
 astricts 1
 adduced 2
 aragonese
@@ -4288,14 +4288,14 @@ arsenotherapy
 alright 3
 antioxidizer
 assemblement 1
-autosuggest 1
+autosuggest 2
 aclastic
 adposition 2
 acmispon 1
 azonium
 aggenerate
 armorer
-autotomize 1
+autotomize 2
 alchornea 1
 aesculapius
 anomaloflorous
@@ -4698,7 +4698,7 @@ aknee 2
 airbursts 1
 aedileship
 anthropomorphitism
-asidehand
+asidehand 1
 atomerg 1
 accessorii
 amphioxi
@@ -5428,7 +5428,7 @@ antiloemic 2
 autogiro 3
 aecia 1
 avail 1
-afire 1
+afire 2
 aflagellar 1
 acapnias 2
 aflat
@@ -5447,7 +5447,7 @@ antiprohibition 1
 aminobenzoic
 aforementioned
 anemoclastic
-allod 4
+allod 5
 attainers
 aculeus
 admire 1
@@ -10078,7 +10078,7 @@ amerceable 1
 asquirm
 ambivalence 2
 aiger 1
-ambiversion 1
+ambiversion 2
 ambivert
 arrect 2
 amble 1
@@ -10272,7 +10272,7 @@ analcitite 1
 ameiuridae
 absorbition
 astringently
-ameiva
+ameiva 1
 ascidiae 2
 amel
 adj
@@ -10799,7 +10799,7 @@ amissible
 arracks
 amissing 1
 amita 2
-anthropoids 3
+anthropoids 4
 apartmental 2
 adherends 2
 aplanatically
@@ -11998,7 +11998,7 @@ anaphylactogenic
 alcibiades
 anaphylatoxin 3
 anaphyte
-avoidment 3
+avoidment 4
 alkoxide 2
 acron 2
 abodement
@@ -12467,7 +12467,7 @@ andromache 1
 arbusterol
 andromaque
 arborizes
-actuary 1
+actuary 2
 andromed 2
 assapanick 5
 andromeda
@@ -16124,7 +16124,7 @@ asseverate
 avadavat
 arrantly
 acerates
-antisepticism 2
+antisepticism 3
 asset
 ascertainable 1
 awaked 1
@@ -16960,7 +16960,7 @@ anton 6
 aminization
 affectedness 1
 angliae 1
-amphorette
+amphorette 1
 aplanatic
 apheliotropically 1
 aplanatism 2
@@ -19844,7 +19844,7 @@ agnoetae
 abhenries
 armiger 1
 aweto 3
-armigeros 1
+armigeros 2
 armigerous 1
 autotomized 3
 aimful 1
@@ -20336,7 +20336,7 @@ aistopod 1
 arsenization 2
 acrologically 3
 amphimacer 1
-acanthodidae
+acanthodidae 1
 arsenobenzol 1
 ankylocheilia 3
 ascogonial
@@ -23920,7 +23920,7 @@ arabizing 1
 agile 1
 ataxite
 amphibologism
-authorhood 2
+authorhood 3
 acaridae
 admonishing 1
 authorised
