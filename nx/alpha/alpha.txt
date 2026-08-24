@@ -6136,7 +6136,7 @@ astrosphere 2
 albuminoidal 1
 antifeudalism 3
 agitators 1
-apteral
+apteral 1
 autoclaving 1
 ablock 1
 agamospore 2
@@ -7348,7 +7348,7 @@ antihemophilic 1
 arzava
 artlet
 alembicate
-aerobating
+aerobating 1
 antipetalous
 ankylosed 3
 adlegiare 1
@@ -10454,7 +10454,7 @@ atheize
 ametabolia 1
 angulose 1
 alikulufan 1
-apocalyptism 3
+apocalyptism 4
 antenoon 1
 anglogaean
 antepredicament 1
@@ -18189,7 +18189,7 @@ acidemias
 aquavits 2
 amantillo
 asseverating 2
-aberuncator
+aberuncator 1
 aporphin 1
 allocatable
 antescript 1
@@ -21883,7 +21883,7 @@ agleam 1
 antithesize 1
 alphabet
 admonitive 2
-assister 2
+assister 3
 assistful 1
 acalycine 1
 argillite
