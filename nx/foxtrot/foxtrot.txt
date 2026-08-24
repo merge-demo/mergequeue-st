@@ -1703,7 +1703,7 @@ filiate
 fashionmonger 3
 flighted 1
 fascio 1
-floats 1
+floats 2
 filicin 2
 fortravail 3
 factable 1
@@ -1869,7 +1869,7 @@ fatuously 3
 fight 2
 floruit 2
 fecundate 2
-forecloses 5
+forecloses 6
 fianchetti 2
 fanback 5
 frisson 2
@@ -5233,7 +5233,7 @@ forecastles 1
 fulfil 1
 fourling 1
 fleas 2
-fluxroot 5
+fluxroot 6
 fratcheous 2
 fluctuosity 3
 foetiferous 2
