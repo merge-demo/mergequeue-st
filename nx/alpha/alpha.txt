@@ -3253,7 +3253,7 @@ attributer 1
 actuality 1
 actualization
 actualness
-allochromatic
+allochromatic 1
 axopetal
 adderbolt 2
 acoumetry 1
@@ -6136,7 +6136,7 @@ astrosphere 2
 albuminoidal 1
 antifeudalism 3
 agitators 1
-apteral
+apteral 1
 autoclaving 1
 ablock 1
 agamospore 2
@@ -21883,7 +21883,7 @@ agleam 1
 antithesize 1
 alphabet
 admonitive 2
-assister 2
+assister 3
 assistful 1
 acalycine 1
 argillite
