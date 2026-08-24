@@ -9797,7 +9797,7 @@ frenzy
 feodality
 floorshifts 1
 fabrics 1
-familiariser 3
+familiariser 4
 figurability 4
 fibulare 2
 fei 3
@@ -9817,7 +9817,7 @@ fatigability 2
 fishworm
 farfel 3
 flenches 1
-fluentness 4
+fluentness 5
 faerie
 foresettled 1
 flyspeck 1
@@ -11614,7 +11614,7 @@ for 1
 fetch
 forcarve 1
 frough 3
-frack
+frack 1
 forewinning
 fulgour 1
 formulizer
