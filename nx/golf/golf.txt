@@ -8594,7 +8594,7 @@ gurnet 2
 gliderport 4
 greenbacks
 glomeli
-glebeless
+glebeless 1
 gainliest 2
 gavotted 3
 gesnera 1
