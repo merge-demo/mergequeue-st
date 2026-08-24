@@ -6330,7 +6330,7 @@ ekamanganese 1
 enshade 4
 enshawl 1
 espace 1
-extrabold
+extrabold 1
 ensheathe 1
 excitomotion 1
 eburna 2
@@ -7754,7 +7754,7 @@ elementality
 encyclopaedize 2
 excircle 1
 evanescence 1
-engagement
+engagement 1
 elaboration 3
 embiotocidae
 epigastrocele 2
