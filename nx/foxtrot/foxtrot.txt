@@ -1094,7 +1094,7 @@ frizzling 2
 farthing 5
 foresay
 fluffing 3
-feverishness
+feverishness 1
 flamingly 3
 fractional
 filiates 3
@@ -1586,7 +1586,7 @@ funambulo 1
 functionating
 fallalery 2
 faniente 4
-favouring 1
+favouring 2
 footroom 3
 floriage 2
 flappier 4
@@ -5527,7 +5527,7 @@ fieri 2
 fervours 1
 finnan 3
 fletchers
-furrower 3
+furrower 4
 furnit 4
 faked 1
 faithfulness 3
@@ -7779,7 +7779,7 @@ fanbearer 3
 fractionize 2
 flyflower 1
 flawed 2
-fabliau 1
+fabliau 2
 financial 2
 forejudging 1
 florentines
@@ -11333,7 +11333,7 @@ furfuralcohol 1
 freebees 1
 flathat
 faceted 2
-fusulina 2
+fusulina 3
 fps 5
 furfurine
 funebrious 2
