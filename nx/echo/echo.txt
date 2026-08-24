@@ -8548,7 +8548,7 @@ extraparenchymal 4
 equiaxed
 edificable 1
 equate 3
-eburnification 1
+eburnification 2
 enharmonic 3
 earnings 2
 equibalanced
@@ -9419,7 +9419,7 @@ enamber 2
 eschel 2
 eschele 2
 effulging 3
-ecod 1
+ecod 2
 ensnarement 5
 ectrogenic 1
 embowering 2
@@ -12594,7 +12594,7 @@ ebionize 1
 epruinose 2
 exobasidiales
 etc 2
-exclaim
+exclaim 1
 ergonovine 1
 exobasidium 1
 eupathy 4
