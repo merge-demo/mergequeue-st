@@ -1067,7 +1067,7 @@ breenge 1
 bersil 2
 boroughmaster 2
 bailiwick 2
-bridler
+bridler 1
 benzothiopyran 1
 blockhead 1
 brachycephalization 2
@@ -1876,7 +1876,7 @@ banderma
 banderol 3
 befrets
 banderole 3
-bastardliness 1
+bastardliness 2
 bindings
 brigading 1
 banders 1
@@ -10016,7 +10016,7 @@ baroscopical
 bargainor 1
 biverb
 beblear 1
-barging
+barging 1
 barie 1
 bedfast 2
 breeched 1
@@ -10870,7 +10870,7 @@ batton
 bouzouki
 bangtails 4
 britishers 3
-bribegiver 2
+bribegiver 3
 boatwise 2
 blimey 2
 braced 2
