@@ -732,7 +732,7 @@ abounding
 acrolithic 1
 abounds
 about 2
-anticytotoxin
+anticytotoxin 1
 astrofel 2
 acequiador 1
 abovedeck 4
@@ -2111,7 +2111,7 @@ acheiria 3
 aboveboard
 antidromic 1
 achenes 2
-amorua 2
+amorua 3
 alphabets
 argon 2
 aeropulse 3
@@ -2290,7 +2290,7 @@ articulability 1
 allows
 achronism 1
 atmograph 4
-announcement
+announcement 1
 arusa
 albanians 1
 achtehalber 1
@@ -4567,7 +4567,7 @@ adverbial
 adverbially 1
 autographical 1
 acloud 2
-aggerose 1
+aggerose 2
 adverbiation
 atticism
 anthoxanthin
@@ -5127,7 +5127,7 @@ alliancer 1
 andrenidae
 amygdophenin
 acyclic 2
-agonies
+agonies 1
 archaised 2
 aesculin 2
 aplacophora
@@ -5883,7 +5883,7 @@ acculturizing 1
 archfelon 2
 anisocarpic 3
 aponeurosis 1
-agarum
+agarum 1
 ankylosaur 2
 agendum 2
 amovability 1
@@ -8779,7 +8779,7 @@ allhallows
 ailanthic 1
 alliance
 anthracic
-actorship 2
+actorship 3
 abrasing 1
 abaze
 aramus 1
@@ -9207,7 +9207,7 @@ almohades 2
 almon 1
 atheisms 2
 apothegm 1
-anga 1
+anga 2
 almonage
 angina 1
 almonries 1
@@ -11380,7 +11380,7 @@ amphibian
 autoclasis 2
 attaste 1
 antipeptone 1
-anticodon 1
+anticodon 2
 alloquy
 aspersor
 anticreeper 1
@@ -16594,7 +16594,7 @@ aparthrosis
 animately 1
 aloisiite
 alicia 4
-apass 1
+apass 2
 apast 1
 agapanthuses
 absolutive
@@ -18588,7 +18588,7 @@ aspergation 1
 annulated 1
 andria
 arcadias 3
-assalto 1
+assalto 2
 aulos 1
 adlegation
 arcading 1
@@ -18620,7 +18620,7 @@ archaeocyathidae
 automate 1
 agropyron 1
 automats
-alethiology 1
+alethiology 2
 antisepsis 1
 acarophilous 2
 acini 1
@@ -18708,7 +18708,7 @@ archbishopry 1
 airmail
 archbishopric
 acroamata
-awhet
+awhet 1
 archbotcher 1
 aretes 1
 alerts 1
@@ -20609,7 +20609,7 @@ apantesis 3
 arthromeric 2
 actiniferous 1
 afterplay 1
-adamantoma 2
+adamantoma 3
 arthrometry 1
 atsara 2
 alvine
@@ -25266,7 +25266,7 @@ amenity 2
 auriform
 althorns
 amnestying 2
-abernethy 2
+abernethy 3
 azimene 1
 antepenultima 1
 academus 1
