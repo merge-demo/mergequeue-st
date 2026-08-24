@@ -97,7 +97,7 @@ chars 1
 carotenes 3
 cabdriving 3
 corydora
-cabecudo
+cabecudo 1
 capellet 1
 cabeliau 1
 cabestro 1
@@ -2200,7 +2200,7 @@ cavalcade
 campier
 campiest
 campylite 2
-campylometer
+campylometer 1
 cynicist 1
 coffeecup 1
 cowhide
@@ -8225,7 +8225,7 @@ chalcidian 1
 chalcidicum 1
 caird
 cuniculus
-chalcidoid 1
+chalcidoid 2
 conocarp
 cleaves 1
 cadalene
@@ -25196,8 +25196,8 @@ calabar
 cretinism 1
 centesimate 1
 curvier 2
-clinocephalus
-coriaria
+clinocephalus 1
+coriaria 1
 coriariaceae
 coriaus 1
 corybant 1

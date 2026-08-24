@@ -5638,7 +5638,7 @@ flightier
 flours 1
 farmwife 2
 facund 1
-foetor 3
+foetor 4
 fernery 1
 forepassed
 fireboot 2
@@ -6785,7 +6785,7 @@ fitcher 4
 fold 3
 fantasy 1
 fleechment 2
-frosts 2
+frosts 3
 frosteds 3
 fenny
 foredevised 2
@@ -7482,7 +7482,7 @@ featless 4
 floodproof 1
 fawning 1
 flashpan
-flusterer
+flusterer 1
 fleyedness 1
 frequent 1
 fordoes 2
@@ -9538,7 +9538,7 @@ flatbottom
 forejudger 3
 forbreak 4
 forbidden
-floatman 3
+floatman 4
 florets
 flowmeter 2
 fibdom 3
@@ -10010,7 +10010,7 @@ flanche
 frantic 4
 favor
 foreshadows 2
-frigidly
+frigidly 1
 federatist 4
 falloff
 forthfigured
