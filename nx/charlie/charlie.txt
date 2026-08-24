@@ -8980,7 +8980,7 @@ colloq 1
 charities
 circumrotated 1
 condition
-charityless
+charityless 1
 columboid 2
 caridoid
 cloaks
