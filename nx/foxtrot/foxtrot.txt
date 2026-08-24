@@ -2334,7 +2334,7 @@ fecula 3
 fenzelia
 firestopping
 foreimagine 3
-fconvert 1
+fconvert 2
 feoffer 2
 fiberous 1
 feoffs 1
@@ -4980,7 +4980,7 @@ fictionalized 1
 foraminate 3
 fascet 1
 fact
-forestcraft 1
+forestcraft 2
 fringiest 2
 focused 2
 frappeed 2
@@ -5977,7 +5977,7 @@ fudging 1
 firetrap 2
 fomites 4
 freeloader
-ferguson
+ferguson 1
 favism 3
 firkin
 fawn 3
@@ -8750,7 +8750,7 @@ fortieth 2
 feminisms 2
 forefended 3
 fortify 1
-footrill 1
+footrill 2
 fibroids 3
 favellidium 1
 flaxwench 2
