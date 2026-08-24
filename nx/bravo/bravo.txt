@@ -1067,7 +1067,7 @@ breenge 1
 bersil 2
 boroughmaster 2
 bailiwick 2
-bridler
+bridler 1
 benzothiopyran 1
 blockhead 1
 brachycephalization 2
@@ -1876,7 +1876,7 @@ banderma
 banderol 3
 befrets
 banderole 3
-bastardliness 1
+bastardliness 2
 bindings
 brigading 1
 banders 1
@@ -1948,7 +1948,7 @@ bivalent
 birny 1
 blowers 1
 broiled 2
-bandolerismo
+bandolerismo 1
 buckayros
 bandoleros 1
 barouche 1
@@ -2166,7 +2166,7 @@ banteringly
 banty
 betangle 1
 bribery 1
-bantus 1
+bantus 2
 brabbled 1
 bandon 3
 bewield
@@ -2274,7 +2274,7 @@ barbarised 2
 benzazimide 2
 barbarising 1
 bragless
-barbarities 3
+barbarities 4
 barbarization
 boucle 1
 begoggled 2
@@ -2879,7 +2879,7 @@ braca 3
 battener 1
 biatomic 1
 buphthalmic 1
-bloedite 1
+bloedite 2
 becousined 1
 bodybuilders 1
 bowle 1
@@ -3616,7 +3616,7 @@ bradypeptic 1
 bathos 2
 bathrobes
 bavenite 2
-bunkmates 1
+bunkmates 2
 brach
 balneophysiology
 benday
@@ -4703,7 +4703,7 @@ birlings 2
 bedimple 1
 bulllike 1
 bluegown 3
-bobsleds 2
+bobsleds 3
 bathymetrically 1
 brides 1
 bunce
@@ -8712,7 +8712,7 @@ barbet 2
 buret 1
 bestraddled 1
 burler 1
-bimboes 2
+bimboes 3
 broomsquire 1
 buffe 1
 bozine 3
@@ -8750,7 +8750,7 @@ bended 2
 bemixt 2
 bimotors 1
 belonged 1
-bruisers 1
+bruisers 2
 bosc 2
 becrippling 2
 beagling 1
@@ -8864,7 +8864,7 @@ bombycids 2
 boxtops 1
 bedchamber 2
 bleating 1
-bible 2
+bible 3
 binotonous
 baltimorean 1
 brachystaphylic 1
@@ -10016,7 +10016,7 @@ baroscopical
 bargainor 1
 biverb
 beblear 1
-barging
+barging 1
 barie 1
 bedfast 2
 breeched 1
@@ -10712,7 +10712,7 @@ bacillogenous
 benton
 balanophora
 browpiece
-bookbinderies
+bookbinderies 1
 bullweeds
 blenching
 blend
@@ -10870,7 +10870,7 @@ batton
 bouzouki
 bangtails 4
 britishers 3
-bribegiver 2
+bribegiver 3
 boatwise 2
 blimey 2
 braced 2
@@ -10914,7 +10914,7 @@ bassus 2
 butterbush 2
 blindfoldedness
 birdied
-brioche 2
+brioche 3
 bemoon 3
 blinding
 bloodlessness 3
@@ -12338,7 +12338,7 @@ balatronic 2
 bombes 4
 babaylan 2
 bombesins 1
-brightsomeness 1
+brightsomeness 2
 beeregar
 bombernickel
 brandle
@@ -13680,11 +13680,11 @@ bevelment 3
 bourasque
 ballarag 4
 belander 1
-birred 2
+birred 3
 blames 4
 bromethylene 3
 bodykins
-barathrum 1
+barathrum 2
 bourdons 4
 bourg 4
 befoolable
@@ -14643,7 +14643,7 @@ bassara 2
 boasted 3
 branning
 bromoiodism 3
-broadleaves
+broadleaves 1
 bewrayment 1
 bines 2
 bitterns
@@ -16900,7 +16900,7 @@ barvell 2
 bufotalin 1
 bufotoxin 1
 biconcavity
-burglar
+burglar 1
 buzukia 1
 bugaboo
 bugan 3
@@ -17376,7 +17376,7 @@ bunged
 bylawman
 busheling
 buccinator 1
-bimorphemic 3
+bimorphemic 4
 bijection 2
 biathlons 3
 butteries 1
@@ -17750,7 +17750,7 @@ burnoused 2
 bumfs 1
 burnside
 bauk 2
-burnt
+burnt 1
 bretelle 1
 backfill 2
 biobibliography 1
