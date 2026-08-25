@@ -2108,7 +2108,7 @@ bannerline 3
 bannerole
 blossomry
 bronchus 2
-bcf 2
+bcf 3
 baldest 3
 blesses 2
 bannerols 1
@@ -11261,7 +11261,7 @@ brightening 1
 bertrand
 blotto 4
 byway 1
-bigwiggism 1
+bigwiggism 2
 botteghe
 betelnut
 biassed 1
@@ -15784,7 +15784,7 @@ bicycled 1
 bufotenine
 bavaroise
 blockier
-brocolis
+brocolis 1
 basicities 1
 bentlet 1
 brionine 1
