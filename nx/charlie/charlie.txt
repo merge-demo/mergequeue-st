@@ -2447,7 +2447,7 @@ conemaking 2
 cancerogenic
 circumcentral 1
 condescent
-cancerophobe 2
+cancerophobe 3
 cancerophobia 1
 coolth
 cancerousness
@@ -4430,7 +4430,7 @@ ceruloplasmin 1
 cytogenetics 2
 caryophyllus 1
 cares
-chicayote 2
+chicayote 3
 crucifixions 2
 curite 3
 cutesy
@@ -12598,7 +12598,7 @@ chronograph 1
 chronographer 1
 chronography
 cubatory
-choreas
+choreas 1
 crosslap
 cauterizing
 circumventable 1
@@ -14017,7 +14017,7 @@ cippus
 confirmative
 cilioflagellata
 chitra 1
-chemosensitive
+chemosensitive 1
 cecca
 crimp
 comtes 1
@@ -15553,7 +15553,7 @@ classify 1
 continentalist
 classifiable 4
 cicatrized 1
-curites
+curites 1
 classificator
 corders 1
 culicidae
@@ -15938,7 +15938,7 @@ cinchonizing
 clergy
 clergyable 1
 cotoneaster 2
-clergylike
+clergylike 1
 cyclos
 clergymen
 chandleries
@@ -17605,7 +17605,7 @@ cupidity
 culrage
 coccochromatic 2
 coccogone 1
-coccogoneae 1
+coccogoneae 2
 concyclically
 coccoidal 1
 coccolite
@@ -17641,7 +17641,7 @@ chlorothiazide
 cochero 1
 cochief
 containerized 1
-cochleae 1
+cochleae 2
 concertising
 convenery 2
 cochlear 1
@@ -20690,7 +20690,7 @@ camleted
 cauter
 cobreathe
 complementoid
-cooperations 1
+cooperations 2
 chionididae 1
 curvous 1
 collut 2
@@ -23380,7 +23380,7 @@ contactual
 contactually
 ceratosaurus 1
 contagion
-contagioned
+contagioned 1
 computation
 ceramicite
 cooley 2
@@ -28573,7 +28573,7 @@ carabin 1
 creed
 creeded 1
 cerumens 1
-calamistrum 1
+calamistrum 2
 caddised
 creeds 1
 creedsman
@@ -31342,7 +31342,7 @@ corypha
 curelessness
 coadjument 1
 curers 1
-clubber 1
+clubber 2
 cures
 compotation
 cloke
