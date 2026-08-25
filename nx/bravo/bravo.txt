@@ -659,7 +659,7 @@ bullnecks 2
 biramous 1
 bacterioscopy 1
 bladelet
-bacteriosolvent
+bacteriosolvent 1
 basat
 bromization 4
 breakshugh
@@ -2733,7 +2733,7 @@ balandrana 1
 brasen 1
 betaken 1
 beladies
-betters 2
+betters 3
 bellypiece 2
 breadwinner 2
 baroko
@@ -2756,7 +2756,7 @@ barometers 2
 beefy 2
 blam 1
 brainache 1
-beachside 1
+beachside 2
 burthenman 1
 borromean
 backspringing
@@ -5703,7 +5703,7 @@ bogwood
 buries 1
 bora 4
 butterback 1
-birefracting 2
+birefracting 3
 backwasher 4
 belialic
 brimmered 1
@@ -7326,7 +7326,7 @@ bethesda 1
 betterer 3
 beneplacit 1
 biangular
-boatels
+boatels 1
 babirussa
 bethink
 boatswain 3
@@ -10485,7 +10485,7 @@ blasphemousness 2
 bismarckian 1
 buttonhole 1
 bielectrolysis 1
-blunderingly 2
+blunderingly 3
 bemaster 1
 brelaw 2
 brutalising
@@ -11656,7 +11656,7 @@ berend 1
 broideress 1
 boxhead 1
 buchmanite 2
-boatless 4
+boatless 5
 banjoes
 bewonder 1
 belace 1
@@ -13427,7 +13427,7 @@ brannier
 botryomycoma 2
 biogenetically 2
 banqueters
-bimbashi
+bimbashi 1
 bokark
 botryomycosis 1
 bottekin 2
@@ -15358,7 +15358,7 @@ batrachidae
 bridgetin
 brailled 1
 benzidine 1
-beefily
+beefily 1
 brahmanists
 bridie 1
 broughta
@@ -16316,7 +16316,7 @@ bayz 1
 brucellae 1
 bleared
 boussingaultia 1
-brucellosis 1
+brucellosis 2
 barely
 biolytic 3
 brucia
@@ -17720,7 +17720,7 @@ beshouts
 birling
 bookways 2
 bombshell
-burned
+burned 1
 burner
 benempt 2
 billian
@@ -18132,7 +18132,7 @@ bedfordshire 3
 battalion 2
 badmouthing 1
 butene 1
-butenyl
+butenyl 1
 babuina
 blurrier 1
 balletomane 2
