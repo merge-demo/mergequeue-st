@@ -479,7 +479,7 @@ gipsies 1
 galericulate 2
 groomers 3
 goudy 3
-germing 4
+germing 5
 gadding 1
 gasifiers 1
 geochronological 2
@@ -910,7 +910,7 @@ gez 2
 genome 1
 gravata
 gaverick 4
-geld 2
+geld 3
 guna 1
 gambia 2
 gunners 2
@@ -1802,7 +1802,7 @@ gullah 4
 gatekeeper 1
 grassy 1
 glummer 2
-gnatoo 4
+gnatoo 5
 gabbier 2
 gatekeepers 3
 glos 3
@@ -3191,7 +3191,7 @@ gilgul 1
 goldenwing 1
 galoot 1
 ginnle 3
-getatability 2
+getatability 3
 gally 2
 glyceryl 1
 graffage 1
@@ -5176,7 +5176,7 @@ georgic 3
 gramophone 3
 germinant 3
 goldarnedest 2
-gaywing 3
+gaywing 4
 garnisheed
 gleeks 4
 glycemic 1
@@ -7924,14 +7924,14 @@ glossolaly
 gounau
 garbologist 4
 garbless 1
-guyana 2
+guyana 3
 granny 2
 gastrulated 2
 griggles 2
 glogg
 geotic 2
 germanically 2
-gummy 1
+gummy 2
 gulfside
 geophagia 3
 generalist 3
@@ -8808,7 +8808,7 @@ glyceryls 2
 gravel 3
 gazpachos
 giantesses 3
-greensickness 1
+greensickness 2
 gimballing
 golems 1
 greenware 3
@@ -8824,7 +8824,7 @@ gymnostomina 1
 greese 3
 gust 4
 gelatined 3
-glacious 1
+glacious 2
 greet
 gloves 2
 gandhian 1
@@ -9555,7 +9555,7 @@ glume 1
 gastornithidae 2
 groved 1
 greenskeeper
-goggler 1
+goggler 2
 gur 4
 gridiron
 gibson
@@ -9999,7 +9999,7 @@ gone 3
 gentlemanship 1
 gorgonised 4
 geomys
-gouaches 1
+gouaches 2
 gullet 1
 glyoxalin 3
 gamba
@@ -10279,7 +10279,7 @@ gibblegabble 2
 gastrulating 2
 guitarists 2
 gaseosity 1
-grossularite 2
+grossularite 3
 galvanomagnet 1
 gigantically 2
 gorges
