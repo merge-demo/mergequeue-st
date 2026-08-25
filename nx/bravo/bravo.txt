@@ -7068,7 +7068,7 @@ bankrupcy 1
 bimorphs 1
 bushing 2
 boycott 1
-bedswerver 1
+bedswerver 2
 bespeaking 1
 bullalaria 3
 bespeaks 1
@@ -17281,7 +17281,7 @@ beating 2
 burseed 2
 beman
 bateman
-blastogenetic
+blastogenetic 1
 bugala 3
 bikeways 1
 brechan 1
