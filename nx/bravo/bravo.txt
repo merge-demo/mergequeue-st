@@ -3633,7 +3633,7 @@ baglike 3
 bookmobile 1
 besought 1
 blithelike 1
-batidaceous 2
+batidaceous 3
 becrowds 4
 beshouted 3
 batiking 2
@@ -4762,7 +4762,7 @@ bradding 2
 bedpans 2
 beslabber 1
 balaenicipites 1
-beeball 1
+beeball 2
 besplit
 bedpost
 bypasses 1
@@ -4857,7 +4857,7 @@ bloomfell
 bedunce 1
 buskins 3
 bluebonnets
-brightened 3
+brightened 4
 bustard
 becrusts 1
 berean 1
@@ -7498,7 +7498,7 @@ bursitos 1
 brachypodine 1
 booteries 1
 blubbered 4
-beurre
+beurre 1
 beveil 1
 bevelled 1
 bardism
@@ -9667,7 +9667,7 @@ bacteriaceae 4
 baconism 1
 batiste
 bisyllabic 1
-benefactions 1
+benefactions 2
 burao 1
 braize 1
 bulleting
@@ -10074,7 +10074,7 @@ brings
 bellpulls 1
 backfired
 backwatered 2
-boarhound 2
+boarhound 3
 basidiolichen 1
 burglarious 3
 bizones 2
@@ -10534,7 +10534,7 @@ bogan 1
 bewigged 2
 blueprinter
 breakage
-bradyuria
+bradyuria 1
 bashlik 4
 blastoporal 1
 blastosphere 1
@@ -18122,7 +18122,7 @@ bureaucrats
 boll 2
 butterjags
 ballyrag 1
-bistouries
+bistouries 1
 birchism 2
 butcheress 3
 butchery 2
