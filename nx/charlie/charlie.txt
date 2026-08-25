@@ -2447,7 +2447,7 @@ conemaking 2
 cancerogenic
 circumcentral 1
 condescent
-cancerophobe 2
+cancerophobe 3
 cancerophobia 1
 coolth
 cancerousness
@@ -13359,7 +13359,7 @@ centuply 1
 cyclosis 1
 cuppas
 cyclosporeae
-cleaners
+cleaners 1
 cyclostyle
 cyclostoma 2
 chasers 1
@@ -15553,7 +15553,7 @@ classify 1
 continentalist
 classifiable 4
 cicatrized 1
-curites
+curites 1
 classificator
 corders 1
 culicidae
@@ -16982,7 +16982,7 @@ cherubic
 cleithral 1
 centrex
 clerestories
-clutching 1
+clutching 2
 cymbaleer 1
 clutchingly
 consignificate 1
@@ -17641,7 +17641,7 @@ chlorothiazide
 cochero 1
 cochief
 containerized 1
-cochleae 1
+cochleae 2
 concertising
 convenery 2
 cochlear 1
@@ -18073,7 +18073,7 @@ caverns
 chechehet 2
 coenjoy 1
 contradictively 1
-coalesce
+coalesce 1
 coenla
 coatee 3
 coenobe
@@ -20690,7 +20690,7 @@ camleted
 cauter
 cobreathe
 complementoid
-cooperations 1
+cooperations 2
 chionididae 1
 curvous 1
 collut 2
@@ -28034,7 +28034,7 @@ captivators
 celebret
 contemptuousness 1
 concretizing 3
-cyphers 3
+cyphers 4
 craking 1
 crakow 1
 cram 2
@@ -29931,7 +29931,7 @@ crossleted
 coelenterata 1
 carcase 1
 cuculidae
-crosslight 2
+crosslight 3
 crosslike 2
 carbosilicate
 crossline 1
@@ -31556,7 +31556,7 @@ curtain
 cheesemongery 1
 centrals 1
 cariamae
-cowlicks
+cowlicks 1
 cauliflower 2
 cortine 2
 curtainless
