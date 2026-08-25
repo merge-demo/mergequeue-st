@@ -11106,7 +11106,7 @@ beddings
 bedawn
 bathyal
 blockship 3
-blodite
+blodite 1
 besmeared 1
 breakfasts 1
 barrooms 4
@@ -12656,7 +12656,7 @@ beaklike
 bewrayed
 babacoote
 boobish 1
-boosterism 2
+boosterism 3
 branchiura 1
 boobs 1
 beguin 1
