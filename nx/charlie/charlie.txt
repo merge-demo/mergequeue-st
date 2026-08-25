@@ -3449,7 +3449,7 @@ caprifoliaceae 2
 caprifolium
 capriform 1
 caprylic
-cymene
+cymene 1
 caprylyl
 coat 1
 caprylone
@@ -24230,7 +24230,7 @@ convocative
 cantabrize 1
 catbriers 1
 convoyed 2
-convoying 2
+convoying 3
 carboxypeptidase
 convoked
 centigram
