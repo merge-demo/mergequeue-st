@@ -1719,7 +1719,7 @@ cosey 1
 cyclodiolefine 2
 contrasty 3
 calotypic 1
-calotypist
+calotypist 1
 crossbolt 2
 congratulated
 cryptovalency
@@ -2956,7 +2956,7 @@ cladosporium
 curlpaper
 custumals
 cryptoprocta
-cantering
+cantering 1
 curling 1
 cantharic 1
 cantharidae 1
@@ -5685,7 +5685,7 @@ catapultier
 colthood 1
 cataracts 1
 cataractwise
-catarrhal
+catarrhal 1
 col
 catarrhina 1
 charlie
@@ -6111,7 +6111,7 @@ catonically
 cli 1
 catoptric 1
 canaan 1
-clippable 1
+clippable 2
 catoptrically
 curtise
 conquerors
@@ -12802,7 +12802,7 @@ chumps
 chums 1
 cruth 3
 concise
-chumship
+chumship 1
 comdia 1
 chumships 1
 clonism
@@ -13798,7 +13798,7 @@ chromocenter 2
 culpably
 chkfil
 cinematographies
-cinematographist 2
+cinematographist 3
 chords
 contortive
 carpophore
@@ -14952,7 +14952,7 @@ capsize
 clouring 1
 contorsion
 chlorpropamide
-counterparallel
+counterparallel 1
 crossjack
 citreous 1
 confabulates
@@ -15811,7 +15811,7 @@ clearinghouses 1
 clearings 1
 clearish 1
 cerealian
-cribrosity
+cribrosity 1
 clearsighted
 carludovica
 coprostasia 2
@@ -19253,7 +19253,7 @@ colocynth
 connections 1
 crista
 colodyspepsia
-cuidado 1
+cuidado 2
 coloenteritis
 closefitting
 colog
@@ -19341,7 +19341,7 @@ conscriptionist 3
 cosalite 2
 colophonic
 colophons
-coloppe 2
+coloppe 3
 chrimsel
 coloproctitis 1
 coloptosis 1
@@ -19552,7 +19552,7 @@ columban 1
 czar 2
 chlorazide 2
 capabilities
-columbaria
+columbaria 1
 columbaries 1
 clours
 columbate
@@ -21327,7 +21327,7 @@ countermissile 1
 counterblow
 compunction 1
 concho 2
-conchoids
+conchoids 1
 communicableness 2
 conchol
 conchometer 2
@@ -23151,7 +23151,7 @@ curupay
 ck 1
 conceits 3
 constellated
-constellating
+constellating 1
 constellation
 caponatas 1
 cigarettes 1
@@ -24709,7 +24709,7 @@ copens
 coauthered
 coppersidesman
 countertrippant
-cambrics
+cambrics 1
 corimelaena 2
 copperskin
 ciderist 1
@@ -27573,7 +27573,7 @@ consumation
 clairce
 coverslip
 copartnery 1
-covertly 3
+covertly 4
 colloquialist
 cadency
 cupmaker 1
