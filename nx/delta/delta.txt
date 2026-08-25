@@ -552,7 +552,7 @@ detains 1
 damars
 decoratory 3
 devocate
-doesnt
+doesnt 1
 delivers 1
 dromon 1
 disbursable 1
@@ -1803,7 +1803,7 @@ debark
 detaining 3
 dropseed 2
 drawknife
-debarking 2
+debarking 3
 digamist 2
 dishpanful 1
 discede 3
@@ -2059,7 +2059,7 @@ daikered
 devotion 1
 downgate 2
 debilities
-decaying
+decaying 1
 diopsimeter 1
 diety 2
 dummy 3
@@ -4064,7 +4064,7 @@ disanswerable 1
 daalder 1
 discomplexion
 dihybrid 1
-disreason 3
+disreason 4
 delimitating 2
 droghlin
 delimitation 1
@@ -4421,7 +4421,7 @@ definitize
 demetricize 1
 declassifying 1
 draughtmanship 1
-diceplay
+diceplay 1
 duress 4
 demy
 decahydrated 1
@@ -4642,7 +4642,7 @@ discretionally
 dees 1
 delectableness 1
 denationalizing
-dhotee 2
+dhotee 3
 demitint 2
 demitoilet
 deteriorated 1
@@ -4992,7 +4992,7 @@ deluder
 dropshots 1
 denaro
 dawdy
-dejectedness 1
+dejectedness 2
 denasalize 2
 disconsolateness
 dialypetalae 2
@@ -6059,7 +6059,7 @@ dactyliographic 2
 der 1
 deboites
 dressmakery 2
-dendrometer 2
+dendrometer 3
 deracinating 3
 domiciliar
 deracination 4
@@ -6380,7 +6380,7 @@ distenant
 displacency
 desmology 3
 dillisk
-derotremata 2
+derotremata 3
 denization 1
 dewans
 doggones
@@ -11783,7 +11783,7 @@ discrown
 dipchick 1
 deipnosophism
 detoxification 1
-dormitary
+dormitary 1
 discrowns 2
 depilated 3
 dogma 3
@@ -12284,7 +12284,7 @@ dyestuffs 1
 deadtongue
 dulcimer 4
 displeasurably 1
-demagnetization 1
+demagnetization 2
 disguises 1
 disgulf
 dionaeaceae 2
@@ -12335,7 +12335,7 @@ deflationary 1
 dichromaticism
 deathweed 1
 dishcloth 1
-dishcloths 1
+dishcloths 2
 detractively
 disparkle
 distraint 1
@@ -12637,7 +12637,7 @@ dextroses 1
 didy
 diskette 2
 discernibleness 1
-diskindness 1
+diskindness 2
 diskography
 dvandva 1
 dextrorse 1
@@ -13783,7 +13783,7 @@ desiccators
 dissonances 1
 drank
 dissoul 1
-droughermen 4
+droughermen 5
 droopiness 3
 demain
 ditrochous 2
