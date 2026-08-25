@@ -21,7 +21,7 @@ autoimmunities
 abo
 aivr 1
 archerfish
-aardwolves
+aardwolves 1
 aaronite 2
 amphipod 1
 antineutrinos 1
@@ -3047,7 +3047,7 @@ arrimby
 antesignanus 3
 angioparesis
 antifoaming
-accoil 3
+accoil 4
 altaltissimo
 actinocrinid 1
 aphasias
@@ -5455,7 +5455,7 @@ agenesic 3
 adenoblast
 afortiori
 apocatastasis
-afoul 2
+afoul 3
 afray
 athrocytosis 1
 antisymmetrical 2
@@ -6064,7 +6064,7 @@ agible 1
 agiel 1
 angor 1
 acknowledger
-agilawood
+agilawood 1
 asbestosis 1
 appomattox 1
 ambiversive 1
@@ -10844,7 +10844,7 @@ anorexias 2
 aljofaina 1
 alzheimer 1
 ammites
-ammo 1
+ammo 2
 abhiseka
 ammocoetes 1
 agglutinated 1
@@ -14919,7 +14919,7 @@ antinepotic
 abnormality 1
 antliate 3
 angeles
-anticyclically 1
+anticyclically 2
 anticity 1
 anticytolysin 1
 alphorn
@@ -16056,7 +16056,7 @@ antirepublicanism 1
 ampulla 2
 actionize
 aubretias 1
-atmidalbumin
+atmidalbumin 1
 anaphasic
 adenophyma 3
 antirevolution
@@ -17681,7 +17681,7 @@ applauders
 aponeuroses 1
 autogeneses
 angia 1
-alveary 1
+alveary 2
 alborak
 applausively 1
 arced
@@ -20790,7 +20790,7 @@ afshar 1
 athyreosis 2
 aspiculate 1
 angico
-assimilated
+assimilated 1
 autophobia
 alicant 3
 alienors
@@ -24212,7 +24212,7 @@ autoluminescent 1
 ahistoric
 axseeds
 azyme
-automata 1
+automata 2
 apidae 2
 alcids
 awash 2
