@@ -1101,7 +1101,7 @@ buncos 3
 bibliomanian
 brent
 burel 1
-bayonets 1
+bayonets 2
 benefactors 1
 bifacial 3
 blksize 2
@@ -4660,7 +4660,7 @@ beltmaking 1
 bhikhari
 briquetted 1
 bedfellows 1
-buildable
+buildable 1
 barlows 3
 bedford
 brothier 1
@@ -7677,7 +7677,7 @@ bilk
 brahmany 1
 boe 1
 blackflies 2
-biocenotic 1
+biocenotic 2
 bezils 2
 boyardom 2
 babished 2
@@ -8390,7 +8390,7 @@ bashawdom 2
 bigwig 2
 bigwiggery
 biomass
-beryllia 2
+beryllia 3
 babu 3
 brombenzene 2
 brachygraphic 1
@@ -11954,7 +11954,7 @@ begirdling 2
 boggard 1
 blindfoldly 1
 bayou
-boggle
+boggle 1
 boggler 3
 bannerol 1
 buffeted 2
@@ -13817,7 +13817,7 @@ bemuffle 1
 brachychronic 1
 bramblebush
 blabberer 1
-butters 1
+butters 2
 biocides
 bywoner 1
 babesias 2
@@ -14354,7 +14354,7 @@ brahmanism
 brahmanist 1
 brachistochronous
 brahmanize 2
-bajoire
+bajoire 1
 benched 2
 bracers 1
 brahmapootra 1
@@ -16356,7 +16356,7 @@ bruisingly 1
 bruited 1
 baduhenna
 bruiter 1
-bruits 2
+bruits 3
 borofluorin
 breadthen 4
 baddeleyite
@@ -16674,7 +16674,7 @@ buckboards 2
 bathycolpian
 bailpiece 1
 bloodspiller 1
-busker 1
+busker 2
 brassidic 2
 blocage 1
 banquetings 1
@@ -17243,7 +17243,7 @@ brilliantness 1
 borsch 1
 biltongs 1
 bulwarked
-blanketers 1
+blanketers 2
 basongo 4
 bleachhouse 3
 bromacetic 2
@@ -17726,7 +17726,7 @@ benempt 2
 billian
 bedlamize 1
 blastophaga 1
-bemuzzled 1
+bemuzzled 2
 bott
 bewinged 2
 burnfire 2
@@ -17839,7 +17839,7 @@ blutwurst
 bastardizing
 brouille
 botein
-burthen 2
+burthen 3
 betocsin
 bacteriaceous 1
 burthens 2
