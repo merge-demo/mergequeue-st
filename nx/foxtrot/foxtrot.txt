@@ -1208,7 +1208,7 @@ fortifications 5
 funkias
 formene 2
 furbishment 3
-flagellosis 3
+flagellosis 4
 foredeem 1
 flaccidly 2
 frizzily
@@ -1446,7 +1446,7 @@ flix
 flavorings 1
 fruiter 2
 favourable 1
-friedman 1
+friedman 2
 fundholder
 flamer 1
 foreshows 2
@@ -6296,7 +6296,7 @@ fescennine 1
 fluked 3
 fertilisability 3
 forestaller 6
-fuliginosity 3
+fuliginosity 4
 fluent 3
 flukeworm 2
 fetted
@@ -6719,7 +6719,7 @@ felted 1
 frounced 2
 fogo 6
 frescoists
-fighters 4
+fighters 5
 feast 1
 fellowships 2
 forelegs 2
