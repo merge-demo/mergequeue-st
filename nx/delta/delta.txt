@@ -1207,7 +1207,7 @@ datafile
 dunts 1
 dillydallying
 dahabiah
-doormat
+doormat 1
 demibrassart
 devilhood 1
 datana 1
@@ -2253,7 +2253,7 @@ dustbox 1
 discolourization 3
 determinative 2
 decimals 2
-decelerates
+decelerates 1
 dimedon 2
 dentolabial
 decembrist 1
@@ -3721,7 +3721,7 @@ durmasts 1
 decimate
 dehonestation 1
 disoccupied 2
-dehorn 1
+dehorn 2
 dolcan
 desmose
 dreadful 1
