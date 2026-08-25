@@ -1750,7 +1750,7 @@ coenosite 1
 cornification
 conceptualised
 cortes 1
-copperah 1
+copperah 2
 ceruse
 complexly
 cohabiter 1
@@ -2593,7 +2593,7 @@ candlewright 1
 candling
 cynically 2
 cringingly 1
-campaniles 2
+campaniles 3
 candollea 1
 candolleaceae
 candolleaceous 1
@@ -5782,7 +5782,7 @@ catechesis 1
 catechetic
 congenator
 chapatti
-cottony
+cottony 1
 comminuate 1
 concinnating 1
 catechin 1
@@ -6816,7 +6816,7 @@ cellist 1
 cellite 2
 currs 1
 continua
-cellmates 2
+cellmates 3
 cello
 chambermaid
 celloid
@@ -7763,7 +7763,7 @@ chlamydophore 1
 connoissance 1
 credulously 2
 conducing
-ceruleous
+ceruleous 1
 ceratophrys 2
 cerulific 1
 cerulignol 3
@@ -8723,7 +8723,7 @@ chapelmaster 2
 colonises
 chapelry 1
 combflower 3
-chapelries
+chapelries 1
 carrs 3
 cinerins 1
 chapelward 1
@@ -11176,7 +11176,7 @@ chloraemia 1
 chloragogue
 chloral
 chloralformamide 2
-cluniac
+cluniac 1
 cupelling 1
 comburimeter
 cymbocephalic 2
@@ -12207,7 +12207,7 @@ chaptrel 1
 chrismon 3
 cyanized 1
 chrismons
-chrisms
+chrisms 1
 carinatae 1
 chrysoaristocracy
 cratsmanship
@@ -13906,7 +13906,7 @@ chakazi 2
 cheerer 2
 chalicotherioid
 cynoclept 1
-cynocrambaceous
+cynocrambaceous 1
 cynodictis
 costive
 cinofoil
@@ -13941,7 +13941,7 @@ cynophilist
 chilognath
 chemoreceptivities 2
 cynophobe 1
-cynophobia
+cynophobia 1
 counterchange
 cynopithecidae 1
 cynopithecoid 1
@@ -14983,7 +14983,7 @@ cavorts 1
 citua 2
 cytulae
 colormaking
-ciudad 3
+ciudad 4
 cosmesis 2
 carpetless 1
 carbonado 3
@@ -15610,7 +15610,7 @@ corvinae 2
 ceratodus
 criminologists
 chrysanisic 1
-chromograph 1
+chromograph 2
 coquin 1
 clattertraps
 cervicobasilar
@@ -17513,7 +17513,7 @@ cocaceous
 chorioepitheliomas
 cephalopodic
 cocaine 1
-cocaines 1
+cocaines 2
 coeducational
 cygneous 1
 camelback
@@ -19896,7 +19896,7 @@ cognominal
 comicocynical
 curlicues 1
 colnaria
-conjugally 1
+conjugally 2
 comicocratic 1
 comicography
 contraremonstrant
@@ -22287,7 +22287,7 @@ conglobe
 cycas
 cockpits
 curiums
-conglobed 1
+conglobed 2
 conglobes 1
 conglomerate 1
 carolling 2
@@ -24927,7 +24927,7 @@ cuichunchulli
 criniferous 1
 charac 1
 caoutchouc
-corallium 2
+corallium 3
 carminatives
 caterans 2
 craniacromial 1
@@ -24976,7 +24976,7 @@ chummiest 1
 corbicula 1
 corbiculate
 classic
-cellulolytic
+cellulolytic 1
 cuminal 1
 campaniform 1
 cableway
@@ -25351,7 +25351,7 @@ commemorating 1
 causeways 2
 corncakes
 calamined
-cochleas 2
+cochleas 3
 corncobs
 cathin 1
 cubicle
@@ -27181,7 +27181,7 @@ countertaste
 camarine
 countertechnicality 1
 countertendency 1
-cavalry
+cavalry 1
 carcasses 2
 cataspilite
 counterterrorism 1
@@ -27824,7 +27824,7 @@ coze 1
 casette 1
 contraire
 craquelures 1
-chelonin
+chelonin 1
 citharista 1
 counterquery
 chariotee
@@ -28299,7 +28299,7 @@ cabotages
 crateriform 2
 cratering 1
 comatik
-craterkin
+craterkin 1
 chromites 1
 craterless
 craterlet 1
@@ -29087,7 +29087,7 @@ crinanite 1
 casselty
 conundrumize 2
 columbus
-camerina 1
+camerina 2
 chloryl
 crinel 1
 coperiodic 2
