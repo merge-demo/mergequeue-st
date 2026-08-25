@@ -8723,7 +8723,7 @@ chapelmaster 2
 colonises
 chapelry 1
 combflower 3
-chapelries
+chapelries 1
 carrs 3
 cinerins 1
 chapelward 1
@@ -11176,7 +11176,7 @@ chloraemia 1
 chloragogue
 chloral
 chloralformamide 2
-cluniac
+cluniac 1
 cupelling 1
 comburimeter
 cymbocephalic 2
