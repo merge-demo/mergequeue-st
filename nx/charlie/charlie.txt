@@ -14742,7 +14742,7 @@ cityfolk
 churned
 citigradae
 cigale
-conirostres
+conirostres 1
 cladosiphonic 2
 coordinate
 curtsy
@@ -15111,7 +15111,7 @@ cladodus
 cladogenesis
 colludes 1
 cladogenetic
-cupmate
+cupmate 1
 cladogenetically
 cavaliers
 chanceman
@@ -15542,7 +15542,7 @@ chromophoric 1
 classicism
 classicist
 classicists 3
-cheshire
+cheshire 1
 cordially 3
 cynoglossum 2
 confoundedly
