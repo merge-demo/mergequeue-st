@@ -3390,7 +3390,7 @@ anthranil 1
 antipolyneuritic 1
 adamantinoma 1
 adamantness 1
-actinochemical
+actinochemical 1
 aphthongia 2
 adamantoblast 1
 archery 2
@@ -7622,7 +7622,7 @@ alcazaba
 apophonic
 anisomeles 1
 agrafe 2
-adamance 1
+adamance 2
 actability 1
 agrostographer 1
 asymptotical 2
@@ -12853,7 +12853,7 @@ androgyn 1
 asseize
 appositional 2
 angiopressure 1
-angiorrhaphy 2
+angiorrhaphy 3
 absurdist 2
 angiorrhea 2
 armorwise
