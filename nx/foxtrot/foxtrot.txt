@@ -312,7 +312,7 @@ fluxionary 1
 feods 3
 forces 2
 fail 3
-fireplough 3
+fireplough 4
 faineancy 4
 fayles
 fimbricated 2
@@ -1004,7 +1004,7 @@ farinosel 2
 foussa 2
 fulfill 1
 farmeress 3
-fireling 1
+fireling 2
 flerrying 3
 farmerly 1
 forrel
@@ -2264,7 +2264,7 @@ fromfile
 fenchene 2
 favn 2
 fastigated 1
-ficoid 1
+ficoid 2
 facemaker 1
 facaded 1
 florentinism 3
@@ -3269,7 +3269,7 @@ feelings
 fiddlecome 1
 fracedinous 3
 fiddlefaced 3
-fld 2
+fld 3
 fumous 1
 fiddlerfish 1
 fraticellian 1
@@ -4882,7 +4882,7 @@ factuality 1
 fabricational 1
 funks 1
 foldedly 3
-fibrinate 5
+fibrinate 6
 fellage 1
 forbears 2
 freedmen 1
@@ -5221,7 +5221,7 @@ flav 2
 flavanilin 2
 fiscals
 flavescence 2
-flytrap 1
+flytrap 2
 flimflamming 2
 fibrochondrosteal
 flatnose 2
@@ -5915,7 +5915,7 @@ formlessness
 flockwise 4
 ferruginate 1
 fusibility 2
-flocs 1
+flocs 2
 facilely 1
 folliculosis 3
 frostbites 3
@@ -6139,7 +6139,7 @@ fairyland 3
 farthingless 4
 fishlines 1
 fabrique 3
-footblower 1
+footblower 2
 featherlike 1
 feely
 fecials 2
@@ -6546,7 +6546,7 @@ flensing 1
 flutterment 2
 flimflammed 3
 fluviolacustrine 2
-fleetly
+fleetly 1
 funereal 2
 frigor 2
 foretack 4
@@ -7858,7 +7858,7 @@ fungify 1
 favorite 2
 fligged 4
 focusing 3
-fudged 3
+fudged 4
 fatiguable 1
 fellen 2
 findings 4
