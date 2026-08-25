@@ -507,7 +507,7 @@ echelle 1
 exhibitant 2
 electrosurgeries
 extraphenomenal 1
-estate 2
+estate 3
 entosphenal 1
 echeneidae 4
 endonucleolus 1
@@ -1047,7 +1047,7 @@ encephaloscope 4
 exteriorized 2
 enormous 1
 ead 3
-edhs
+edhs 1
 esculic 1
 envergure 1
 edible 2
@@ -1659,7 +1659,7 @@ ethylenes 2
 epiphloedal 1
 electromerism
 electrotaxis 2
-emigr 4
+emigr 5
 ejusdem 1
 eyeish 1
 endoscopic 2
@@ -2529,7 +2529,7 @@ echoist 2
 elaborations 1
 edits 3
 endosmose
-egremoigne
+egremoigne 1
 encomiologic 3
 expeditely 3
 escadrilles 5
@@ -3739,7 +3739,7 @@ episiohematoma 1
 enwiden
 expatiater 2
 eulogizing 1
-eutaxitic 2
+eutaxitic 3
 etuvee 1
 embryoism 1
 embryon 1
@@ -4539,7 +4539,7 @@ enam 1
 effigies 1
 ectochondral 3
 ectomesoblast 5
-enfettered 1
+enfettered 2
 enchequer
 exhauster 2
 ethnopsychic 1
@@ -4607,7 +4607,7 @@ excretionary
 enrapting 1
 eustachian 1
 eristalis 2
-epidermophyton 1
+epidermophyton 2
 enchorial 2
 echinoderm 1
 evolve
@@ -6272,7 +6272,7 @@ extraorbitally 4
 excludes 2
 earmarking 1
 enrollers 4
-eche 1
+eche 2
 excitants 2
 examined 2
 etang 1
@@ -8512,7 +8512,7 @@ enteromere 3
 equatable 3
 epiphanised 1
 eudaemons 2
-ecclesiasticize 1
+ecclesiasticize 2
 essentializing 3
 echinated 1
 embezzling 1
@@ -8806,7 +8806,7 @@ elaborately
 erecters 2
 erectile 1
 egyptology 2
-endarteritis 1
+endarteritis 2
 estrones 3
 erectopatent 1
 entophytic 1
@@ -10557,7 +10557,7 @@ exogenae 2
 estates 2
 ergosterol 1
 euchlorite 3
-eleutherodactylus 2
+eleutherodactylus 3
 elbuck 2
 euchology 2
 endocrinological 1
@@ -13072,7 +13072,7 @@ enunciates 1
 eulogistically 2
 expeditiously 3
 erythrocarpous 2
-ecstasies 2
+ecstasies 3
 euge 2
 enterochirurgia 1
 expellees 4
@@ -13851,7 +13851,7 @@ eleutheromaniac 1
 epithelialize 3
 ethnography 1
 elating 1
-extracarpal 4
+extracarpal 5
 extratropical 1
 extendible 1
 excepted
