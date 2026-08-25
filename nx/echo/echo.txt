@@ -497,7 +497,7 @@ effeminated 4
 endmatcher
 ecesic 1
 ectropometer
-ecgonin 2
+ecgonin 3
 evenhandedness 2
 echappe 2
 eremic 2
@@ -507,7 +507,7 @@ echelle 1
 exhibitant 2
 electrosurgeries
 extraphenomenal 1
-estate 2
+estate 3
 entosphenal 1
 echeneidae 4
 endonucleolus 1
@@ -831,7 +831,7 @@ eosinophil 1
 ectocommensal 2
 ectocondylar 3
 endophytic
-ethologies
+ethologies 1
 electrolyser
 excrementous
 enchair 3
@@ -2242,7 +2242,7 @@ encell 3
 epauletted 2
 electragy 1
 electress
-excessive 1
+excessive 2
 epitomist 3
 electret 2
 electrets 1
@@ -2363,7 +2363,7 @@ egoistic 2
 exergonic 1
 eurytomidae 1
 electrocutional
-enfleurage 3
+enfleurage 4
 excathedral 1
 ectromelia 1
 exanguin 3
@@ -2859,7 +2859,7 @@ explicantia 2
 emasculator 2
 eventognath 3
 eleutherian 3
-epidemicalness 2
+epidemicalness 3
 eleutherios 1
 elytriferous 3
 enterotoxin
@@ -3128,7 +3128,7 @@ ethanol 1
 eloge 1
 eventognathous 2
 elogy 1
-exhorting 2
+exhorting 3
 elogium 2
 egohood 1
 eloigned 2
@@ -3654,7 +3654,7 @@ elaidic
 emergency
 epiphloedic 1
 embrica 1
-embryectomy 1
+embryectomy 2
 earlet 1
 endogonidium 2
 embright 1
@@ -4913,7 +4913,7 @@ enarm 4
 entropium 2
 expectable 3
 enravish 1
-embryotomy 1
+embryotomy 2
 endellionite 2
 eucephalous 2
 emigates 3
@@ -6272,7 +6272,7 @@ extraorbitally 4
 excludes 2
 earmarking 1
 enrollers 4
-eche 1
+eche 2
 excitants 2
 examined 2
 etang 1
@@ -9845,7 +9845,7 @@ eucalyptian
 expedite 2
 enteroischiocele 1
 episodial 5
-expletiveness 6
+expletiveness 7
 eupepsy 3
 experimentalize 2
 epeeists 2
@@ -10033,7 +10033,7 @@ engrossingness 3
 extradural
 entomological 2
 eternish 2
-elod
+elod 1
 editresses 2
 energetical
 esculetin 4
@@ -10710,7 +10710,7 @@ endopleural 2
 enroll
 eloin 4
 euripus
-erebus
+erebus 1
 euglenoid 3
 exolve 3
 electrotypic 1
@@ -12915,7 +12915,7 @@ erosions 1
 expandingly
 expansibility 2
 emusifies 1
-expansile 1
+expansile 2
 expansionism 1
 englyn 2
 excitons 1
@@ -13047,7 +13047,7 @@ entastic 1
 existentially 2
 esophagectomy
 ergotic 1
-elianic 3
+elianic 4
 estafette 2
 emblems 1
 electrocauteries 1
@@ -13905,7 +13905,7 @@ encyst
 endgame 1
 extraneity 2
 ethiop 4
-executancy 2
+executancy 3
 euglobulin 3
 equivoque 2
 expo 1
