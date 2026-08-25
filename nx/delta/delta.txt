@@ -5156,7 +5156,7 @@ dyings 1
 dotarie 1
 decephalization 2
 deathly
-diaheliotropic 3
+diaheliotropic 4
 detruncating 1
 defluous 1
 devoid
@@ -5730,7 +5730,7 @@ denat
 deponing
 distributee 1
 doodler 2
-dewormed
+dewormed 1
 depopulation
 denitrize 1
 debeak 1
