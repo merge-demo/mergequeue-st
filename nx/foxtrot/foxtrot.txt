@@ -2264,7 +2264,7 @@ fromfile
 fenchene 2
 favn 2
 fastigated 1
-ficoid 1
+ficoid 2
 facemaker 1
 facaded 1
 florentinism 3
@@ -5221,7 +5221,7 @@ flav 2
 flavanilin 2
 fiscals
 flavescence 2
-flytrap 1
+flytrap 2
 flimflamming 2
 fibrochondrosteal
 flatnose 2
