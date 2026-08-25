@@ -11421,7 +11421,7 @@ asperite
 amplectant 1
 argyrocephalous
 adempt
-arcuses
+arcuses 1
 ampler
 amplexicaul 1
 amphictyonic 1
@@ -14178,7 +14178,7 @@ agglutinogenic
 anglemeter
 assonanced
 anarthrous
-achlamydate 2
+achlamydate 3
 assonantly 1
 acinetarian 1
 abridges
