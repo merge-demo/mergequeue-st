@@ -1253,7 +1253,7 @@ disserve 1
 datelining 3
 datemark
 disenter 1
-dentalise
+dentalise 1
 drink 2
 durational
 daterman
@@ -1375,7 +1375,7 @@ dobule 2
 dauties 1
 dauting 2
 delta
-diminishableness 1
+diminishableness 2
 dasnt 1
 decurionate 1
 duodecillion 1
@@ -2019,7 +2019,7 @@ debasement
 dogwoods
 decagynous 2
 dinornis 1
-dearling 3
+dearling 4
 denationalized 1
 divulgers 2
 diplococcal 1
@@ -2689,7 +2689,7 @@ depressionary
 dyestuff 2
 dvornik
 duci 1
-derails 3
+derails 4
 deconvolve 2
 desmon 1
 decor 1
@@ -3803,7 +3803,7 @@ decharm 2
 dizzied 3
 dismortgaging 1
 dyakisdodecahedron
-diplocephaly
+diplocephaly 1
 dodecatheon 2
 dronishly 1
 diremption 2
@@ -5365,7 +5365,7 @@ disappointingness 2
 diamonds
 disfavors 3
 drown
-doumas 1
+doumas 2
 duodecimality 1
 denuclearized 1
 desegregating 2
@@ -5812,7 +5812,7 @@ deiphobus 1
 desolations 2
 domal
 demeaning
-disconcert 1
+disconcert 2
 deprecator 2
 dysbarism 2
 datism 1
@@ -6717,7 +6717,7 @@ designable
 doughfoot
 dhutis 2
 dissolutions 4
-designates
+designates 1
 dose 1
 dacron 1
 dimedone 1
@@ -6955,7 +6955,7 @@ dispatcher 1
 despisableness 2
 downfalls 3
 despiser 2
-decemvii
+decemvii 1
 dipleuric
 desertness 1
 disqualifying
@@ -8782,7 +8782,7 @@ depeter
 dragonkind 2
 diestruses 2
 deftness 1
-dinettes 2
+dinettes 3
 diabolized 1
 dansant 2
 dictations
@@ -11878,7 +11878,7 @@ disrobes
 dedifferentiated 1
 dropsical 1
 devoutlessness 1
-defrosters 2
+defrosters 3
 dramm 1
 dhunchi
 depicture 3
@@ -12703,7 +12703,7 @@ declassing 1
 divel 1
 drafty
 dialysing 1
-decodings 1
+decodings 2
 dolabriform
 dikamali 1
 disliking
@@ -12805,7 +12805,7 @@ dorsomedian 2
 decreptitude 2
 dehydrogenized
 dyemaking 1
-demibob 1
+demibob 2
 daubs
 devolutive
 deliquiesce 2
@@ -12871,7 +12871,7 @@ driftway
 dyebeck 2
 dorsothoracic 1
 demerited 3
-dromond 1
+dromond 2
 dismissal
 dismissed 3
 distemperate 1
@@ -13491,7 +13491,7 @@ disquietedness 1
 demoid 1
 dippable 2
 diatomite 1
-dreamtide
+dreamtide 1
 disruptive 3
 disruptor 1
 dada 1
@@ -14209,7 +14209,7 @@ dynamoscope 1
 dibbles
 defeater
 deathful 2
-disuse 1
+disuse 2
 desquamate 1
 disbranching 1
 disuses 3
@@ -15033,7 +15033,7 @@ dyn 1
 dhamma 2
 depressingness 1
 defoliators
-deludher 1
+deludher 2
 demulsify 2
 diskery
 dimply 1
@@ -18040,7 +18040,7 @@ disseminator 1
 deporture
 deployable
 dentelle
-dyers 2
+dyers 3
 dulcified 1
 dulcifluous 4
 defaitisme 3
