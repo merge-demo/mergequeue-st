@@ -7356,7 +7356,7 @@ befogs
 bolometer 1
 blackbirds 2
 besogne 2
-bamboche
+bamboche 1
 bigmouthed
 bethump 1
 betides 2
@@ -10916,7 +10916,7 @@ blindfoldedness
 birdied
 brioche 3
 bemoon 3
-blinding
+blinding 1
 bloodlessness 3
 bescoured 6
 braciolas 2
@@ -11185,7 +11185,7 @@ belched
 bow
 blearily
 blooey
-backspin
+backspin 1
 bloomed 1
 baloghia
 bloomeries 1
@@ -14993,7 +14993,7 @@ bicamerist 1
 bewails 1
 breastwork 1
 beterschap 2
-barabara 1
+barabara 2
 bearwood 1
 breathability
 blousily 2
@@ -16453,7 +16453,7 @@ brushback
 butt 1
 bladesmith 1
 buttonholder
-botas 1
+botas 2
 bouffage 1
 balbriggan 1
 batitinan
