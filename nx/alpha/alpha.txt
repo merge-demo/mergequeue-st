@@ -5507,7 +5507,7 @@ afterlife
 absorbs 2
 actinophone
 afterbirth 1
-antiutilitarian
+antiutilitarian 1
 atmospheres 1
 afterblow
 aerarium 1
@@ -7820,7 +7820,7 @@ aldimin
 anabantidae
 aldm
 aghast
-acetaminol
+acetaminol 1
 affenpinscher 3
 absinthine
 academias
@@ -13508,7 +13508,7 @@ annexationist 1
 annexations
 annexion 2
 abnormalise 1
-avoidless 1
+avoidless 2
 atrophic 2
 astigmatic 1
 abounder 1
@@ -15635,7 +15635,7 @@ anting 6
 absist 1
 assary
 apprehensible 1
-alway 2
+alway 3
 altamira
 ararao
 antinicotine
@@ -16228,7 +16228,7 @@ afara 2
 antistadholder 2
 aosmic 1
 antistatism 1
-antistatist
+antistatist 1
 achete
 apophyllous
 agriculturally 2
@@ -16905,7 +16905,7 @@ abridged
 apigenin
 apii
 apikores 1
-apprehender 1
+apprehender 2
 alluringness 1
 apimanias
 acocanthera
@@ -17668,7 +17668,7 @@ apicial
 assail
 aggroup
 appl 1
-antienzymic 3
+antienzymic 4
 acetylbenzene
 applanation 1
 applaudably 1
@@ -18201,7 +18201,7 @@ anamnestic 1
 approximatively 2
 adeeming 1
 anasarca 1
-amphiprotic 1
+amphiprotic 2
 assassination
 ammonocarbonous
 aquiclude 2
@@ -20138,7 +20138,7 @@ arraying 1
 areaway 2
 arrays
 arrand 5
-arrangeable 1
+arrangeable 2
 arrangement
 agoge 2
 arrayals
@@ -24215,7 +24215,7 @@ azyme
 automata 1
 apidae 2
 alcids
-awash 1
+awash 2
 aminities 1
 automated 2
 argentite 1
@@ -24831,7 +24831,7 @@ avocadoes
 aguilawood 1
 augmentatively 2
 avocat
-avocations 1
+avocations 2
 avocative
 airing 1
 antipragmatic 1
