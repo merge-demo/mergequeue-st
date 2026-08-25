@@ -5544,7 +5544,7 @@ afterdeal
 afterdeck
 aerial 1
 afterform 1
-actuarial
+actuarial 1
 adherant 1
 aerolith 1
 aristos 1
@@ -8340,7 +8340,7 @@ aligerous 1
 akcheh 1
 anconagra 3
 apanthropy 1
-archiepiscopacy
+archiepiscopacy 1
 alight 1
 adipopectic 1
 anomoeanism
@@ -9148,7 +9148,7 @@ alky
 aristogenetic
 anemometric
 antacid 1
-alluvious 1
+alluvious 2
 ashrafi
 assortative 1
 accipitres
@@ -15849,7 +15849,7 @@ arbitrages
 antipyretics
 antipyrin 2
 accustomedness
-alinota 4
+alinota 5
 antipyrine
 annuli 1
 aryballoi
