@@ -1253,7 +1253,7 @@ disserve 1
 datelining 3
 datemark
 disenter 1
-dentalise
+dentalise 1
 drink 2
 durational
 daterman
@@ -2689,7 +2689,7 @@ depressionary
 dyestuff 2
 dvornik
 duci 1
-derails 3
+derails 4
 deconvolve 2
 desmon 1
 decor 1
@@ -3803,7 +3803,7 @@ decharm 2
 dizzied 3
 dismortgaging 1
 dyakisdodecahedron
-diplocephaly
+diplocephaly 1
 dodecatheon 2
 dronishly 1
 diremption 2
@@ -14209,7 +14209,7 @@ dynamoscope 1
 dibbles
 defeater
 deathful 2
-disuse 1
+disuse 2
 desquamate 1
 disbranching 1
 disuses 3
