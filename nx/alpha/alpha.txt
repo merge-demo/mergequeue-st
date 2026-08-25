@@ -5507,7 +5507,7 @@ afterlife
 absorbs 2
 actinophone
 afterbirth 1
-antiutilitarian
+antiutilitarian 1
 atmospheres 1
 afterblow
 aerarium 1
@@ -8764,7 +8764,7 @@ alleviatingly
 alleviative
 antimaniacal
 antimacassars 1
-allegedly 1
+allegedly 2
 alleviatory 1
 amolish
 asterophyllite
@@ -11148,7 +11148,7 @@ abirritative 1
 ampelopsis 1
 atoxyl
 acetamids 1
-ariosi
+ariosi 1
 ampelotherapy 1
 abstractiveness 1
 ascidioidea 1
@@ -11808,7 +11808,7 @@ aggrieved 2
 aerosporin 1
 aiawong 3
 agreeably 1
-adenia 2
+adenia 3
 ankaramite 1
 analemma 1
 autopotent
@@ -13763,7 +13763,7 @@ avant
 anomatheca 1
 anomia
 acquiet
-anaesthatic 1
+anaesthatic 2
 anutraminosa
 apparatchik 2
 andorran 1
@@ -14514,7 +14514,7 @@ anthropical
 acquisition 1
 anthropobiology 1
 apneumatosis
-antimorality
+antimorality 1
 anthropocentric 2
 acetaldehydase
 almoign
@@ -15635,7 +15635,7 @@ anting 6
 absist 1
 assary
 apprehensible 1
-alway 2
+alway 3
 altamira
 ararao
 antinicotine
@@ -16249,7 +16249,7 @@ acologic 1
 antisubstance 2
 anarthria 2
 antisuffrage
-absohm 1
+absohm 2
 awheel 1
 aspergil
 anuria 1
@@ -18201,7 +18201,7 @@ anamnestic 1
 approximatively 2
 adeeming 1
 anasarca 1
-amphiprotic 1
+amphiprotic 2
 assassination
 ammonocarbonous
 aquiclude 2
@@ -20138,7 +20138,7 @@ arraying 1
 areaway 2
 arrays
 arrand 5
-arrangeable 1
+arrangeable 2
 arrangement
 agoge 2
 arrayals
@@ -22383,7 +22383,7 @@ antiauthoritarianism
 anangioid 1
 astrogeology
 astrogeologist
-ariadne 1
+ariadne 2
 anniversaries
 astroglia 3
 actify 2
@@ -24215,7 +24215,7 @@ azyme
 automata 1
 apidae 2
 alcids
-awash 1
+awash 2
 aminities 1
 automated 2
 argentite 1
@@ -24831,7 +24831,7 @@ avocadoes
 aguilawood 1
 augmentatively 2
 avocat
-avocations 1
+avocations 2
 avocative
 airing 1
 antipragmatic 1
