@@ -8975,7 +8975,7 @@ exophthalmos 5
 erythema 1
 evene 2
 erythemal
-eths
+eths 1
 eclairs
 elenchical 1
 enterokinesia 3
@@ -9575,7 +9575,7 @@ esophagogastroscopy 1
 esophagometer
 emotionalized 3
 enticeable 2
-eagles
+eagles 1
 evoked 2
 esophagoplasty 1
 enigmatic 1
@@ -10058,7 +10058,7 @@ export 2
 evened
 eyey
 enmeshment 3
-envenoming 1
+envenoming 2
 enchainment 1
 epigonism 1
 ethal
