@@ -13,7 +13,7 @@ euchologion 1
 emigate 2
 erosivity 1
 evenmindedness 2
-emblazon 1
+emblazon 2
 erythrophobia 1
 eadios
 entradas 2
@@ -325,7 +325,7 @@ enclaret 1
 encephalograph 1
 estops 2
 eastre 1
-extramolecular 2
+extramolecular 3
 empresse 1
 embleming 1
 enleaf
@@ -565,7 +565,7 @@ eurypelma 5
 eurythermic 1
 ecclesiastes
 electrostatically
-excommunicates
+excommunicates 1
 electromeric 2
 explicator 1
 elocutionize
@@ -3173,7 +3173,7 @@ epiplastral
 exhaustiveness 5
 eom 1
 epitra 3
-emmarble 2
+emmarble 3
 evinced 3
 egghead
 entertainingness 1
@@ -3706,7 +3706,7 @@ embryos 1
 encuirassed 1
 esthesioblast
 embryotega 1
-eweries 3
+eweries 4
 embryotome 3
 exhalatory 1
 eeten 1
@@ -3905,7 +3905,7 @@ epiglottis 4
 extramural 2
 endexine 2
 emissory 2
-emitting 4
+emitting 5
 entamebas 2
 electropathic 1
 effigy 3
@@ -4352,7 +4352,7 @@ electroamalgamation 2
 engagers 2
 embryons 1
 evacuates 2
-enations 3
+enations 4
 escuela 1
 enbrave
 eggheadedness 5
@@ -4728,7 +4728,7 @@ encode
 exitance 2
 encoding
 effectivity 1
-embrocate 3
+embrocate 4
 ergasterion 1
 enbusshe 1
 epicrisis
@@ -4805,7 +4805,7 @@ eria 1
 eupepticism 3
 englished
 eulogizes 1
-encranial 1
+encranial 2
 expectorator
 electroed 2
 exportable 5
@@ -5859,7 +5859,7 @@ extravertively 3
 extrazodiacal 4
 exacerbescence 1
 encorbelment 1
-epidendral
+epidendral 1
 exsiccate 2
 engrossedly 3
 endocarditic 1
@@ -7837,7 +7837,7 @@ extincts 4
 executioner 1
 epihyal 2
 exogonium 1
-egis 1
+egis 2
 excitor 2
 epihydric 3
 embroidered 3
@@ -9989,7 +9989,7 @@ efford 3
 ethnotechnography 2
 etching 1
 electrotest
-egotisms 2
+egotisms 3
 eteostic 1
 elemicin
 edgrew 1
@@ -11037,7 +11037,7 @@ eclectism 2
 eurite 1
 ethered 2
 echinostomatidae 2
-elemol
+elemol 1
 elapoid
 euhages 1
 encurtain 1
@@ -11633,7 +11633,7 @@ economized
 everywhereness
 expatiation 1
 ewte 1
-elumbated 3
+elumbated 4
 exacerbated
 effet 1
 excided 1
@@ -12856,7 +12856,7 @@ expansive
 exothecal 4
 endopericarditis 2
 emboss 1
-eccentrics 2
+eccentrics 3
 exothermically 2
 eloignment 2
 eupomatia 3
@@ -13262,7 +13262,7 @@ endothelia 2
 explanting 2
 empurples
 exertive
-ety
+ety 1
 endemical
 ethize 1
 explement 2
@@ -14140,7 +14140,7 @@ episcopates 2
 ebonizing 2
 ephemerality 3
 enseraph 3
-enplanement
+enplanement 1
 enlard 2
 entocuneiform 1
 excussion 1
