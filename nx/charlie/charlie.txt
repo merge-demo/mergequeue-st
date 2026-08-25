@@ -10577,7 +10577,7 @@ crucifixes 1
 concremation 2
 celebrator 2
 chillroom
-chills
+chills 1
 chillsome 1
 countermove 1
 chouka 3
@@ -27669,7 +27669,7 @@ cowers
 cowgrass 1
 cowhage
 cowherb
-cowherds 1
+cowherds 2
 cerium 3
 cytoarchitecturally 2
 clavicornate
