@@ -1395,7 +1395,7 @@ fallibly 1
 firewood
 futchell 1
 forbar 1
-ferreted 2
+ferreted 3
 fattest 1
 finickin 3
 floorer 1
@@ -3280,7 +3280,7 @@ fieldpieces 3
 feudovassalism 4
 forefeet 1
 fungilliform 3
-fole 1
+fole 2
 filopodium 1
 fiddlestick 1
 foolishness 4
@@ -7024,7 +7024,7 @@ flagellate 2
 fumade 2
 freespace 1
 floodwood
-fondus 3
+fondus 4
 frolicsomeness 2
 feases 3
 fermentum 3
@@ -9083,7 +9083,7 @@ flintified 5
 flux 3
 fowlfoot 4
 fared 2
-faultful 2
+faultful 3
 fowlings 2
 fluvious
 fountained 1
