@@ -671,7 +671,7 @@ beletter 3
 bronchocavernous 3
 bynames 1
 bungles
-bkpr 3
+bkpr 4
 backbitten 2
 bacterized 1
 barefacedly
@@ -697,7 +697,7 @@ badaga
 biorgan 1
 babbitting 2
 buncombe 1
-bunted 1
+bunted 2
 barnstormed 1
 behav
 boregat 1
@@ -4611,7 +4611,7 @@ bedchair
 bacchic
 butterine 1
 bedchairs 1
-brocaded 1
+brocaded 2
 buffers 2
 bellowing
 baric 2
@@ -5545,7 +5545,7 @@ belaites 1
 bromomenorrhea
 bournonite 3
 blowziest 1
-bhava 2
+bhava 3
 blockline 1
 breastfeeding 1
 bejewelling 1
@@ -5558,7 +5558,7 @@ bloodguiltless 1
 blackeners
 brutified 1
 brominism 1
-bejuggle 2
+bejuggle 3
 bejumbles 1
 bejumbling
 bunko 2
@@ -9095,7 +9095,7 @@ brown 3
 bandagist 2
 bicolours
 bays 1
-buzzwords 1
+buzzwords 2
 biorhythm
 butyrins
 biorhythmicity
@@ -10623,7 +10623,7 @@ bajulate
 beardlessness 4
 bulbocodium
 boyars 2
-blaze
+blaze 1
 blazers
 bursts
 borzois
@@ -11671,7 +11671,7 @@ bisymmetric 1
 badju
 bougeron 1
 boatsteerer
-broomstraw
+broomstraw 1
 biracialism 3
 buddies 1
 borneol 2
@@ -13693,7 +13693,7 @@ bourgade 1
 beeped 1
 bonailie 1
 bourgeoisie 1
-blessingly
+blessingly 1
 brushless 4
 breadlessness
 bourgeons
@@ -15476,7 +15476,7 @@ battledoring
 brilliancies 2
 backtrack 2
 bagged 2
-brilliandeer
+brilliandeer 1
 buonamani
 brilliant 2
 bedflower 1
@@ -16389,7 +16389,7 @@ borrowed 1
 branchipus
 burrish 1
 bewailable 1
-blueing
+blueing 1
 brummagen 1
 baculitic 1
 botanist 1
@@ -17756,7 +17756,7 @@ backfill 2
 biobibliography 1
 burnwood 2
 brainchildren 1
-browsage
+browsage 1
 bravadoes 1
 blucher
 butomus 1
