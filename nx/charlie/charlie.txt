@@ -8356,7 +8356,7 @@ chamaecranial 1
 cogons 2
 corkir
 chamaelirium
-chamaepericlymenum
+chamaepericlymenum 1
 chamaephyte 2
 chamaesiphonales 1
 chamar 1
@@ -16795,7 +16795,7 @@ clupeidae 1
 cloverleafs 3
 cloverleaves
 cloverley
-cycadophyte
+cycadophyte 1
 cloverroot 1
 crepitus
 clovewort
@@ -18358,7 +18358,7 @@ cogitativity 1
 comparer
 curvle
 cogitator 2
-cogito 1
+cogito 2
 coglorify
 cogman
 coralloid 1
@@ -30655,7 +30655,7 @@ cucurbita 2
 cavaedia
 cucurbitaceous 1
 cucurbite 1
-cultual 1
+cultual 2
 clinicist 2
 compromis
 champagne 2
