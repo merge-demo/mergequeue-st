@@ -6560,7 +6560,7 @@ ahull 1
 ascomata 1
 anacrustic
 airward 1
-amicableness 2
+amicableness 3
 ahunt
 azocyclic 2
 ahuula
@@ -17860,7 +17860,7 @@ aerify 3
 appreciators 2
 aerologies
 anaclisis 2
-apiculus
+apiculus 1
 amblers
 acquired
 apprehending 1
