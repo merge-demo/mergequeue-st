@@ -7266,7 +7266,7 @@ defalk 4
 disarrest 2
 deteriorating
 dentonasal 2
-deterioration
+deterioration 1
 deuce 2
 data 1
 dear
