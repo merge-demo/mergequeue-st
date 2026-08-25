@@ -944,7 +944,7 @@ apostrophi 1
 absolutize 1
 absolutory
 acanthopteri 2
-aestuary
+aestuary 1
 absolves 2
 absolving 1
 abstort
@@ -1850,7 +1850,7 @@ afterage 2
 apprehendable 1
 aortosclerosis
 anthropomorphous
-afterend 2
+afterend 3
 allamanda
 acephalist 1
 anonymousness 2
@@ -2715,7 +2715,7 @@ acrawl 1
 amygdalic
 amount
 agallop
-afoam 3
+afoam 4
 aquamarine 1
 ammochaeta
 acreage 1
@@ -5096,7 +5096,7 @@ arised
 aerotaxis 1
 agacant 1
 autoecous 1
-argo 1
+argo 2
 ablush
 aerotechnical 2
 alchera 2
@@ -7010,7 +7010,7 @@ activize 1
 aminoplast 1
 avocationally 1
 atokal 1
-aedilities
+aedilities 1
 acetanisidine
 apedom
 antineutrally 3
@@ -9818,7 +9818,7 @@ aircrews
 audacity
 ambery 1
 accommodationist 1
-amamau 2
+amamau 3
 ancyloceras
 antimale 2
 amande 1
@@ -9831,7 +9831,7 @@ airwaybill
 amanitine
 aerifying
 albedometer
-addle 4
+addle 5
 acolyctine 1
 adry
 agglomerator 3
@@ -10247,7 +10247,7 @@ abray
 anteflexion
 avadana
 alexipyretic
-ambitendent
+ambitendent 1
 aube
 auximone
 aquariist 1
@@ -10812,7 +10812,7 @@ anteinitial 2
 amities 1
 amitotic
 azotizes 2
-anormality
+anormality 1
 acrolith
 amitrole
 ancre
@@ -11589,7 +11589,7 @@ acheweed 1
 abscessed
 apathus 2
 assewer 2
-aper
+aper 1
 appositions 1
 astrolabe 1
 adenophyllous 1
@@ -12948,7 +12948,7 @@ anglophilic 1
 autotype
 adenine
 abattoirs 1
-apyrase
+apyrase 1
 anglophobiac
 adoptees 1
 aire
@@ -17919,7 +17919,7 @@ amate 1
 approach 2
 aristodemocracy
 anthracotheriidae 1
-approachable 3
+approachable 4
 approached 1
 administration
 amphirhine
@@ -18231,7 +18231,7 @@ anenterous 1
 aerodynes
 allophone 1
 autotheism 2
-architect 1
+architect 2
 adiantum 1
 acrobats 4
 apoplasmodial 1
@@ -18623,7 +18623,7 @@ automats
 alethiology 2
 antisepsis 1
 acarophilous 2
-acini 1
+acini 2
 archaeographical 1
 asterisking
 acinous 1
@@ -21828,7 +21828,7 @@ altimetrical
 assidual
 agathodaemon 4
 aecial 2
-anorexiant 1
+anorexiant 2
 alaki 4
 advowson 4
 assiege 1
@@ -24210,7 +24210,7 @@ antiatheist
 alalite 1
 autoluminescent 1
 ahistoric
-axseeds
+axseeds 1
 azyme
 automata 2
 apidae 2
@@ -24445,7 +24445,7 @@ autosuggestion 1
 agnoiology 1
 abstractionists 1
 antilegalist 2
-autosuggestionist 2
+autosuggestionist 3
 adversarious
 argentol
 autosuppression 1
