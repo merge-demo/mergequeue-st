@@ -265,7 +265,7 @@ foreshortening 1
 ford 3
 footpounds 5
 firbolg 1
-fax 2
+fax 3
 flagarie 1
 fideism 1
 fissle 4
@@ -925,7 +925,7 @@ fibrinogenetic 4
 fent 1
 fabrile 2
 fruitling 1
-farceuses 1
+farceuses 2
 flenched 6
 facetiousness
 fluorids 1
@@ -2074,7 +2074,7 @@ flocky
 foggara 4
 filibuster 1
 famishes 2
-fumage 1
+fumage 2
 fructidor 4
 fusibleness
 freeform 2
@@ -3274,7 +3274,7 @@ fumous 1
 fiddlerfish 1
 fraticellian 1
 ferrites 1
-faunology 4
+faunology 5
 fluidrams
 fieldpieces 3
 feudovassalism 4
@@ -3864,7 +3864,7 @@ figurings 3
 fimbrillate 1
 fany 1
 fig 1
-fluorophosphate
+fluorophosphate 1
 flowerlet 2
 forfit 1
 flabbergastingly 2
@@ -4111,7 +4111,7 @@ feuilletons
 frameworks
 fiorin 3
 fusiladed 3
-fiorite 2
+fiorite 3
 foreseen
 falsehoods 3
 fornenst 2
@@ -4662,7 +4662,7 @@ fells 1
 ferrotungsten 1
 fulica 3
 flewit 1
-freety 1
+freety 2
 filicinean 1
 fearsome 2
 fragmentize 2
@@ -6049,7 +6049,7 @@ fluviology 1
 fibromas 1
 faeroese 2
 filippo
-farandine 2
+farandine 3
 forethoughted 2
 flewed 1
 fateful 3
@@ -6136,7 +6136,7 @@ formalities 3
 fetterers 4
 flagilate 3
 fairyland 3
-farthingless 3
+farthingless 4
 fishlines 1
 fabrique 3
 footblower 1
@@ -7050,7 +7050,7 @@ fontinas 1
 forepromise 1
 figura
 fonts 3
-fists
+fists 1
 floriparous 2
 francis 1
 fulfilment 1
@@ -8328,7 +8328,7 @@ forehoof 4
 frontlets
 flintify 3
 finableness
-forgoer 2
+forgoer 3
 fidges 1
 forgoers
 fetas 2
@@ -8496,7 +8496,7 @@ fulminous 3
 fuliginousness 3
 francomania 3
 fuze 3
-formating
+formating 1
 fittily 3
 fag 2
 foxes 5
@@ -9154,7 +9154,7 @@ follows 1
 furtum
 fortresses
 fichteanism 4
-fantasias 2
+fantasias 3
 fortifies 2
 fielded 3
 fleeceflower 3
@@ -9467,7 +9467,7 @@ flammed
 franz 2
 felidae 2
 foliiferous 4
-fliers 2
+fliers 3
 foodstuff 4
 foreteeth
 frary 3
@@ -10006,7 +10006,7 @@ flairs 3
 floatingly 2
 fishworks 1
 frumentum 2
-flanche
+flanche 1
 frantic 4
 favor
 foreshadows 2
@@ -10941,7 +10941,7 @@ fi 2
 foilable 3
 federacy 3
 fiscalizing 1
-fullonian 2
+fullonian 3
 facilitator
 ferrying
 froust 4
@@ -11221,7 +11221,7 @@ foremanship 2
 fippence
 futuric 2
 fasciolae
-fictil 1
+fictil 2
 frittata 2
 farads 1
 firer 3
