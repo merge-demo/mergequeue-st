@@ -1903,7 +1903,7 @@ goalkeepers 1
 greaseless 3
 gushy 2
 greeve 2
-glaur 2
+glaur 3
 guttiness
 gigmanically 2
 garg
@@ -3221,7 +3221,7 @@ gauze 1
 graders 1
 geotropically 2
 glaucous 2
-gaut
+gaut 1
 gyral 1
 gaelicist
 gulo 5
@@ -3700,7 +3700,7 @@ gastraneuria 1
 goggle 4
 greycoat 2
 gaspar
-giants
+giants 1
 ghoulishness
 gratifyingly 1
 glossology 2
@@ -4776,7 +4776,7 @@ garlicwort 3
 glades
 graupels 1
 grush 2
-generalidad 4
+generalidad 5
 gritter 1
 gunnel
 gnomonics 3
@@ -9558,7 +9558,7 @@ greenskeeper
 goggler 1
 gur 4
 gridiron
-gibson
+gibson 1
 ghostism 1
 goster 2
 graphical 3
@@ -9854,7 +9854,7 @@ geochronologically
 gallbush 2
 galyacs 1
 gist 1
-gastroenterologist 4
+gastroenterologist 5
 geikielite 1
 gettableness 2
 gasholder
