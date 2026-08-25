@@ -3905,7 +3905,7 @@ articulary 1
 antiopiumite
 archrobber
 adipopexia
-adipopexis
+adipopexis 1
 apolline
 aleft 2
 acrook 1
@@ -4289,7 +4289,7 @@ alright 3
 antioxidizer
 assemblement 1
 autosuggest 2
-aclastic
+aclastic 1
 adposition 2
 acmispon 1
 azonium
@@ -10876,7 +10876,7 @@ abyssal
 anisogamete 1
 agape
 amphibryous 1
-arm
+arm 1
 addresser
 ammonia
 ammoniacs 3
