@@ -4660,7 +4660,7 @@ beltmaking 1
 bhikhari
 briquetted 1
 bedfellows 1
-buildable
+buildable 1
 barlows 3
 bedford
 brothier 1
