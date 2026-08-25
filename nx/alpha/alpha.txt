@@ -6560,7 +6560,7 @@ ahull 1
 ascomata 1
 anacrustic
 airward 1
-amicableness 2
+amicableness 3
 ahunt
 azocyclic 2
 ahuula
@@ -10174,7 +10174,7 @@ ambrosine
 ambsace
 ambsaces
 acuation
-ambulance 4
+ambulance 5
 apnoeal 1
 amoeboidism 2
 antithetically 2
@@ -20858,7 +20858,7 @@ acapu
 apportions
 amputator 1
 avenery 2
-archmock
+archmock 1
 amplifiable 2
 actium
 abyssinians
@@ -24559,7 +24559,7 @@ auxiliate 1
 azilian
 abiosis
 amusively 2
-auxiliator 2
+auxiliator 3
 auxilytic
 alebush 1
 auxin
