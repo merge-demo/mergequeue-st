@@ -171,7 +171,7 @@ degami
 definiteness 2
 daedalic 1
 diminish
-deedier
+deedier 1
 diphenylmethane 4
 drachmai
 dopiest 2
@@ -580,7 +580,7 @@ daunch 3
 drillbit 3
 damfool 1
 div
-digenea
+digenea 1
 dissolver
 diwata
 decopperization 1
@@ -6613,7 +6613,7 @@ dermatrophy 1
 darkhearted 2
 dicarboxylate 1
 demembration 1
-dissevering 2
+dissevering 3
 diallelus 2
 djinns 1
 demerol 1
@@ -10100,7 +10100,7 @@ deliciae 3
 dieticians 2
 dutiable 2
 dextrane 1
-disamis
+disamis 1
 destructivity 2
 demonomy
 dynastides 1
@@ -17518,7 +17518,7 @@ devoices 1
 densities
 drubbers 1
 drubble
-deletery
+deletery 1
 diaschisis
 drubly 1
 divinise 1
@@ -17793,7 +17793,7 @@ demises 2
 ducdame
 diplocoria 1
 defector 2
-duchan 3
+duchan 4
 diagraph
 demythologize 2
 disincorporate 1
