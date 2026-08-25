@@ -3510,7 +3510,7 @@ diplomatic 2
 def 3
 dinitrotoluene
 demarcatordemarcators 2
-disapproving 3
+disapproving 4
 defrayable 2
 disembarrassment
 dismissable 3
@@ -4164,7 +4164,7 @@ detectible
 dadouchos 3
 delphacidae 1
 disincorporated 1
-dogcart 1
+dogcart 2
 debtors 1
 delphically
 diversifiable 2
@@ -11858,7 +11858,7 @@ dieri 2
 dewier 1
 dopers 2
 diaconal 5
-doux 1
+doux 2
 dolci 2
 deathblow 3
 dehypnotized
@@ -15137,7 +15137,7 @@ doketic 2
 dokmarok
 decart
 dolefullest
-debuggers 3
+debuggers 4
 dolently 1
 disensoul 1
 decalcifying
