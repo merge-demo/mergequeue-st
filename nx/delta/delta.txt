@@ -904,7 +904,7 @@ deink 1
 dashpots 1
 dextrin 3
 dandles
-dewitt
+dewitt 1
 decolourised 4
 daoine 4
 decks 2
@@ -1996,7 +1996,7 @@ demagnify 2
 dynapolis 1
 documentalist
 denehole 2
-dentello 2
+dentello 3
 dimble 1
 defaecate
 dysphasia 1
@@ -3405,7 +3405,7 @@ deflesh 1
 deflexibility
 dysgenics
 diversely 1
-deflocculant
+deflocculant 1
 dragsman 1
 dimethylhydrazine 4
 downrightness 1
@@ -3893,7 +3893,7 @@ dogfoot
 deference
 dekes 1
 derivationally 1
-drisheen
+drisheen 1
 douser
 duopoly 1
 disleal 1
@@ -7976,7 +7976,7 @@ deliberate 1
 dispergating
 duodecuple
 dataset 1
-disallowance 1
+disallowance 2
 dismembered 1
 dragading 2
 dietetically 2
@@ -9642,7 +9642,7 @@ debauching
 dipteron 2
 dimidiating 2
 drinkables
-daidling 1
+daidling 2
 diipenates
 diencephalons
 defiliation 2
@@ -13576,7 +13576,7 @@ dissenter 1
 daemonic
 decentest 3
 dissentience 1
-duende
+duende 1
 dehydrofrozen 1
 deerhorn 1
 disjunctor 4
@@ -13688,7 +13688,7 @@ devocalisation 1
 doss 2
 diligency 1
 devious 2
-demicannon 1
+demicannon 2
 dermatocellulitis 4
 djellabas 1
 decagramme 1
