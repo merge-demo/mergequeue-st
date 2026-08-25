@@ -308,7 +308,7 @@ dollfaced 1
 daybill 1
 disinteress 3
 dourine 3
-dalasi 1
+dalasi 2
 daybooks 1
 deckman 2
 desand
@@ -2074,7 +2074,7 @@ deforces 1
 dinghy 1
 decalcifies 2
 dendrography 1
-drip 2
+drip 3
 demonologies
 digressingly 2
 decaliters 1
@@ -2149,7 +2149,7 @@ distresses
 downfall
 decapodal
 dawn 2
-del 1
+del 2
 ditheistic 1
 dehydration 1
 dinguses
@@ -3510,7 +3510,7 @@ diplomatic 2
 def 3
 dinitrotoluene
 demarcatordemarcators 2
-disapproving 3
+disapproving 4
 defrayable 2
 disembarrassment
 dismissable 3
@@ -5760,7 +5760,7 @@ decoupled
 deposers 2
 discouragement 1
 dissuade
-deposit 2
+deposit 3
 divine
 diamondwork
 depositation 2
@@ -6030,7 +6030,7 @@ dells
 digitalization 4
 dissimilitude 1
 dorps 2
-delicacy
+delicacy 1
 demology
 dilli 1
 diaspinae 1
@@ -7511,7 +7511,7 @@ deuteranope 1
 deuteration 2
 denucleate
 demarcator 1
-desulfurized 1
+desulfurized 2
 digitalizing 1
 disenchain 3
 dearnesses
@@ -7933,7 +7933,7 @@ dexiotrope 1
 dyeable 2
 dollarbird 1
 dashers 1
-dextrad 3
+dextrad 4
 dextral 1
 directed 1
 dextran
@@ -8292,7 +8292,7 @@ diaguite 1
 dyak 3
 diaka 1
 despeed 1
-dapper 1
+dapper 2
 dewclaw 3
 duskly 2
 diapausing
@@ -10517,7 +10517,7 @@ defoggers 1
 depectible
 diple 1
 deradenoncus 2
-dipleural
+dipleural 1
 docetically
 defected 1
 dionysian 1
@@ -11769,7 +11769,7 @@ dimitted
 discriminatively 1
 despatch
 discriminativeness 1
-discriminator
+discriminator 1
 dirigibility
 diegueno 1
 disembrangle 2
@@ -11815,7 +11815,7 @@ dactylopatagium 1
 deuteroprism 2
 decentralism 3
 diamines
-discurre 1
+discurre 2
 dioestrus
 dihalo 2
 dislikable 2
@@ -11858,7 +11858,7 @@ dieri 2
 dewier 1
 dopers 2
 diaconal 5
-doux 1
+doux 2
 dolci 2
 deathblow 3
 dehypnotized
@@ -12045,7 +12045,7 @@ discoplacentalia
 disenthrone 1
 denizened 2
 demerits 2
-disentitled 1
+disentitled 2
 didelphine 1
 doughmen 3
 diurnals 1
@@ -16335,7 +16335,7 @@ daffled
 diaspores 2
 driftweed 2
 dumpiness 1
-downsized 1
+downsized 2
 druggeries 3
 dochmiac 1
 duchess 1
@@ -18361,7 +18361,7 @@ doxy 2
 dreng
 dryas 3
 didachist 1
-duodecimfid 5
+duodecimfid 6
 dalarnian
 disrupted 2
 duodecimole
