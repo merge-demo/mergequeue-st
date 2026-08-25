@@ -368,7 +368,7 @@ gorefish 5
 gangrenous 2
 gunsmith
 goniometrical 2
-guard 2
+guard 3
 guyer 2
 galactosis 1
 gauric 1
@@ -752,7 +752,7 @@ gueridon
 genae 4
 galvanoplasty 4
 grovers 3
-gansa 1
+gansa 2
 gestapos 6
 grapewise 2
 gerim 2
@@ -2645,7 +2645,7 @@ globulariaceous 2
 giboia 2
 gadgets 3
 gribbles 1
-grudgingness 2
+grudgingness 3
 gratefullest 5
 geodiferous 2
 gabardines 1
@@ -4848,7 +4848,7 @@ glycerinize
 gliomata 2
 gorier 2
 gorse 1
-glauberite
+glauberite 1
 glair 4
 glaire 1
 gastroenteritic
@@ -5269,7 +5269,7 @@ gimps 1
 glycogenolytic 1
 gangsters 4
 goodman 2
-globularly 3
+globularly 4
 gutturalism 2
 gastropulmonic 3
 gingals 3
@@ -5340,7 +5340,7 @@ glistered 2
 grainland 1
 gigge 3
 gritrock 4
-guiltless 2
+guiltless 3
 gamma 1
 generalissima 4
 guacin 3
@@ -5998,7 +5998,7 @@ grin 2
 gentry 2
 gusting 2
 glossoplasty 1
-guanabana 2
+guanabana 3
 gnarly 5
 gourdes 4
 gnarliest 3
@@ -6165,7 +6165,7 @@ gynecomastia 3
 gingivitis 4
 glistened
 greenhead 2
-goliaths 3
+goliaths 4
 grayout 1
 gambodic 2
 gallotannate 2
@@ -6759,7 +6759,7 @@ glossospasm 1
 galiot 3
 goniatitic 2
 ganglioside
-gossiping 1
+gossiping 2
 geront 3
 gymnogyps 3
 gabon
@@ -6849,7 +6849,7 @@ guaranty 3
 globosities 2
 gluconokinase
 gymsia 2
-gluteoinguinal 4
+gluteoinguinal 5
 gauntlets 1
 glucoprotein 2
 geaster 1
@@ -7027,7 +7027,7 @@ gastronomes 4
 glazier
 glamorizes 2
 grillade 1
-gerundially 2
+gerundially 3
 gomart 1
 gigameter
 gaudish 1
@@ -7224,7 +7224,7 @@ globosite 1
 gastropathic 1
 galahad 1
 globulose 3
-gallanted 1
+gallanted 2
 graminifolious 2
 guaruan 1
 gonesome 4
@@ -7499,7 +7499,7 @@ grunerite
 gourmandizer 2
 grapplement 1
 gomerals 2
-gasconaded 3
+gasconaded 4
 gists 1
 geodesy 2
 gimleting 5
@@ -7700,11 +7700,11 @@ geira 1
 geodynamics 1
 gyppery
 greenlet 2
-gleary 3
+gleary 4
 garote 1
 gardeny 1
 grouseward 1
-glovey 2
+glovey 3
 gradient 1
 galey 3
 greybeard 2
@@ -9342,7 +9342,7 @@ genuflect 2
 gangtide 6
 geronomite 1
 garroted
-glassiest 3
+glassiest 4
 glossas 3
 governability 3
 griffs
