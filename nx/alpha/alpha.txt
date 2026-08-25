@@ -997,7 +997,7 @@ abstaining
 abstains 1
 antiserum
 assis 2
-atlantomastoid
+atlantomastoid 1
 astron
 abstemiousness 1
 abstentionism
@@ -1610,7 +1610,7 @@ accost 2
 arbuscule
 aecidium
 aristolochine 1
-antiketogenic 1
+antiketogenic 2
 anthrop 1
 amatorian 1
 accouche
@@ -4492,7 +4492,7 @@ anticomplement
 australic 2
 antipuritan 3
 adust 1
-apsides 1
+apsides 2
 amang 3
 aldoxime 2
 aftmost
@@ -5677,7 +5677,7 @@ accrue 1
 axbreaker 2
 agacerie 2
 austromancy 2
-alloiometry
+alloiometry 1
 acoelomatous 1
 axillary
 agade 1
@@ -6629,7 +6629,7 @@ annite 1
 actinometers 3
 anaesthesiology
 aigialosaurus 1
-apothecaries
+apothecaries 1
 archpriest 1
 antasthenic
 aiglet
@@ -9585,7 +9585,7 @@ agnuses 1
 alkalized
 altitudinarian
 antiriot
-abichite 1
+abichite 2
 altogetherness 1
 angelizing 4
 antecaecal 2
@@ -9798,7 +9798,7 @@ appanages 2
 amalfitan
 amalgam 1
 aux 2
-apophonies 2
+apophonies 3
 amalgamate 1
 ambolic 1
 adjutory
@@ -12872,7 +12872,7 @@ aramaic 1
 angiotelectasia
 administerd 1
 angiotenosis 1
-acetopyrin 2
+acetopyrin 3
 angiotensinase 1
 agrogeologically 3
 armata 2
@@ -13759,7 +13759,7 @@ antileak 1
 alibis 1
 aeroperitonia
 alertly
-avant
+avant 1
 anomatheca 1
 anomia
 acquiet
@@ -14028,7 +14028,7 @@ antievolutional 1
 austenitized
 aryepiglottic 2
 ablatively 3
-antarctogaea 1
+antarctogaea 2
 amphitropal 3
 alencon
 antitypic 2
@@ -14677,7 +14677,7 @@ anakinetomer 1
 antiangular
 autocarp 3
 antiannexation 1
-angioplany 2
+angioplany 3
 antiannexationist
 antianopheline 1
 akim 3
@@ -21368,7 +21368,7 @@ agriculturists 1
 amphibia
 autist 1
 asynergy 1
-asynergia
+asynergia 1
 adamantly
 annuluses
 asyngamy
@@ -24177,7 +24177,7 @@ autojigger
 amyotonia 1
 autojuggernaut 1
 ancylocladus 2
-assonantic 1
+assonantic 2
 achroodextrinase 2
 abusive 3
 awakens 1
@@ -25178,7 +25178,7 @@ anhalonidine
 agist
 acidifiable
 anthropomantist 1
-asynartetic 1
+asynartetic 2
 avera
 amnionic
 angrite
