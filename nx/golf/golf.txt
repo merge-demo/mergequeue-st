@@ -1903,7 +1903,7 @@ goalkeepers 1
 greaseless 3
 gushy 2
 greeve 2
-glaur 2
+glaur 3
 guttiness
 gigmanically 2
 garg
@@ -2849,7 +2849,7 @@ gallerylike 2
 gigmanhood
 gravediggers
 guddled 2
-gynospore 2
+gynospore 3
 gyromitra 2
 gedunk 3
 geobotanic 3
@@ -3024,7 +3024,7 @@ garnetz
 gossipper 1
 giant 3
 gnash 4
-glossematic
+glossematic 1
 graphiter 2
 greensauce 1
 gamelin 1
@@ -3221,7 +3221,7 @@ gauze 1
 graders 1
 geotropically 2
 glaucous 2
-gaut
+gaut 1
 gyral 1
 gaelicist
 gulo 5
@@ -3232,7 +3232,7 @@ grousers
 gashest 1
 grooviest 2
 glareworm 3
-grayback 3
+grayback 4
 gordiacea 2
 gluteofemoral 1
 gutty 1
@@ -3700,7 +3700,7 @@ gastraneuria 1
 goggle 4
 greycoat 2
 gaspar
-giants
+giants 1
 ghoulishness
 gratifyingly 1
 glossology 2
@@ -4715,7 +4715,7 @@ gotta 4
 gomeril
 galleta 3
 genarch
-glar 1
+glar 2
 gypsy 1
 givingness 1
 globes 4
@@ -4776,7 +4776,7 @@ garlicwort 3
 glades
 graupels 1
 grush 2
-generalidad 4
+generalidad 5
 gritter 1
 gunnel
 gnomonics 3
@@ -5846,7 +5846,7 @@ gangflower 2
 giggle 2
 gardenless 1
 gardon 1
-griddled 2
+griddled 3
 gasfiring 2
 grandesque 3
 gynoeciumcia 3
@@ -6873,7 +6873,7 @@ grunions 2
 glibly 1
 granitoidal 4
 getmesost 2
-gaonate 2
+gaonate 3
 grundified 1
 goodenia 3
 greasiness 1
@@ -7213,7 +7213,7 @@ gorgosaurus 1
 galenism 2
 gorillalike 2
 guardage 3
-gemlike 2
+gemlike 3
 gamesters 1
 grimliness 2
 gloze 2
@@ -7423,7 +7423,7 @@ gadean 5
 geniohyoglossus 1
 grateless 1
 gaiety 1
-gassit 3
+gassit 4
 grandest 2
 gregariniform 1
 grandmammy 2
@@ -7541,7 +7541,7 @@ groundlings 1
 glycolytic
 gortonian 3
 glaucophanize 1
-gangs 2
+gangs 3
 glabellous 2
 gryllus 4
 gematriot 2
@@ -8615,7 +8615,7 @@ griped 3
 guarri 3
 guianan 1
 gypping 2
-goff 2
+goff 3
 gastrolatrous 1
 gemel 2
 gonidioid 1
@@ -8740,7 +8740,7 @@ guaranteing 5
 gnostically 2
 golosh 1
 gnathonic 2
-girosols 1
+girosols 2
 greenrooms 4
 glossectomy 3
 globalism
@@ -9558,7 +9558,7 @@ greenskeeper
 goggler 1
 gur 4
 gridiron
-gibson
+gibson 1
 ghostism 1
 goster 2
 graphical 3
@@ -9854,7 +9854,7 @@ geochronologically
 gallbush 2
 galyacs 1
 gist 1
-gastroenterologist 4
+gastroenterologist 5
 geikielite 1
 gettableness 2
 gasholder
