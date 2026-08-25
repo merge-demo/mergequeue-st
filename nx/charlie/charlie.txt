@@ -813,7 +813,7 @@ cayenne
 cucurbits
 cooption 1
 completes
-cytophagy 1
+cytophagy 2
 cayenned
 contouring
 cerberus
@@ -4238,7 +4238,7 @@ carecloth
 cadetcy
 cared 1
 careens
-career
+career 1
 careered 1
 condensery 1
 cmdr
@@ -6638,7 +6638,7 @@ convolvement 1
 cedars
 cochairman 2
 ceded 1
-cinematic 1
+cinematic 2
 campana 1
 ceders
 confocally 1
@@ -7573,7 +7573,7 @@ cartoonists 1
 cerebrize 1
 cerebrocardiac 1
 chairman
-cerebroganglionic
+cerebroganglionic 1
 cerebroid
 cirrhosed
 cerebromeningitis
@@ -10037,7 +10037,7 @@ calcarate 2
 controvert 3
 caverned 1
 cherub
-cyanites 1
+cyanites 2
 chanoyu 1
 cherubfish
 cherubfishes
@@ -13614,7 +13614,7 @@ cimicifuga 1
 cimicoid
 conformableness
 calcaneonavicular 1
-cymiferous
+cymiferous 1
 cymlin
 cymlings 1
 cymlins
@@ -14901,7 +14901,7 @@ churnful
 cytospectrophotometry
 cytospora 1
 cytost
-conceit
+conceit 1
 counterpray
 compactness
 coenogamete
@@ -16565,7 +16565,7 @@ cloistral 1
 concoagulation 1
 cloit 1
 chamisos 2
-conurus 1
+conurus 2
 cutaway 2
 conniver
 clokies
@@ -24757,7 +24757,7 @@ cardioplegia
 coproducer 4
 cullen 1
 coproduction 3
-coprojector 1
+coprojector 2
 coprolagnia
 chuffy
 coprolaliac 2
@@ -24848,7 +24848,7 @@ corrade 3
 conductivity
 cheesecakes 2
 coquitlam
-cor
+cor 1
 corabecan
 closkey 1
 complications 1
@@ -25395,7 +25395,7 @@ carlock 1
 chunkier
 cornetist 3
 cornetists 3
-cornets 1
+cornets 2
 coquette
 cornetter
 carkled
@@ -30895,7 +30895,7 @@ culter
 coastward 2
 culti
 cultic
-chandelier 1
+chandelier 2
 caecity 1
 creatinuria
 cultigens
