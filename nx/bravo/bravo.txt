@@ -1163,7 +1163,7 @@ bridges
 baitfish 1
 buffeter 1
 ballard 1
-baiting 1
+baiting 2
 bethanking 1
 baittle
 baywoods 1
@@ -2087,7 +2087,7 @@ betraise
 bankrupture
 basilissa
 blatherskites 2
-banksian
+banksian 1
 blowtubes 3
 barreleye 1
 bouet
@@ -2351,7 +2351,7 @@ bathonian 1
 bepuff 2
 barbierite
 busyish 1
-blatancies 2
+blatancies 3
 bromite 2
 briber 4
 barbita
