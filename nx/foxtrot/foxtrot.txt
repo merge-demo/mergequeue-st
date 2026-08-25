@@ -2044,7 +2044,7 @@ falconet 2
 fourpounder 4
 ferngrower 1
 frontspiece 3
-feinter 1
+feinter 2
 faucalize
 flindosa 1
 forwander 4
@@ -3348,7 +3348,7 @@ floorers
 frowsiest 2
 fluorescer 2
 fulmined 1
-fiedlerite 2
+fiedlerite 3
 flooding 1
 fiel 3
 falconer 1
@@ -4238,7 +4238,7 @@ fracases 4
 faxed
 fireplug 2
 firepot 1
-foreflank 1
+foreflank 2
 forebooms 1
 flots 2
 frangipanni 1
@@ -4340,7 +4340,7 @@ frankable 2
 fandango 4
 fourflusher 3
 feneration 1
-fellows 1
+fellows 2
 forgetter 1
 foresleeve
 finagle 4
@@ -5437,7 +5437,7 @@ flavian 1
 farolito 3
 frontes 2
 flyblown 2
-forager 4
+forager 5
 fiendliness 2
 fashion 5
 frolickly 1
@@ -6534,7 +6534,7 @@ fricasseed 2
 flutterboard 2
 faucal
 fluotantalate 6
-fraxinella 2
+fraxinella 3
 flutteriness
 flagrate 3
 fostering 2
@@ -9717,7 +9717,7 @@ faldstool 2
 fouquieria 3
 funnelled 1
 foldouts
-fourfiusher
+fourfiusher 1
 frigga 3
 fraising 1
 fustle 2
