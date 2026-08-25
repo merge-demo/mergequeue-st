@@ -1090,7 +1090,7 @@ bain
 bepraisement 1
 boogymen
 biogenic 2
-bedizenment 1
+bedizenment 2
 baioc 2
 begattal 1
 braciole 1
@@ -9949,7 +9949,7 @@ bedticking
 bituminate
 bomber 1
 bituminising 1
-bituminized 2
+bituminized 3
 burnbeat 1
 bucktail 1
 bedivere
@@ -10242,7 +10242,7 @@ brith 1
 banian 2
 backwater 1
 bisexual 2
-biliation
+biliation 1
 buds 3
 bornane 2
 blackneck 3
@@ -12183,7 +12183,7 @@ boletaceae
 byrled 1
 brabbler
 boleweed 2
-biometeorology
+biometeorology 1
 blandiloquence 2
 benzodiazine
 bridgeboard 4
@@ -14114,7 +14114,7 @@ berlinite 1
 burkites 3
 behaviour 1
 bogusness 1
-brachiopoda
+brachiopoda 1
 baldy 1
 beltene 3
 brule 3
@@ -16942,7 +16942,7 @@ bressomer 2
 bugong
 balloonlike 1
 bugout 2
-bugs 2
+bugs 3
 bugweed
 barometry 1
 blacktopped
