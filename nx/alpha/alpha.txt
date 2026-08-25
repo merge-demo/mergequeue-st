@@ -1435,7 +1435,7 @@ acceptors
 antifreezes
 acervuline
 apocatastatic 1
-antibacteriolytic
+antibacteriolytic 1
 acceptress 2
 accepts
 attractants 4
@@ -8349,12 +8349,12 @@ atropamine
 archived 1
 aligning 1
 aketon 2
-antarctical
+antarctical 1
 aliyah
 aliipoe 2
 alikeness
 alikewise 1
-abr 1
+abr 2
 alilonghi 2
 arundinaceous
 arnaut 1
@@ -8954,7 +8954,7 @@ alongst 1
 allonymous
 allonyms 1
 allonomous 3
-abortion
+abortion 1
 apodan
 admiralships 3
 appreciate 1
@@ -9765,7 +9765,7 @@ anchorer 2
 anthrax 1
 aclydes 3
 allegatum 1
-amacrinal
+amacrinal 1
 amadelphous
 aggrading
 amadous
@@ -9818,7 +9818,7 @@ aircrews
 audacity
 ambery 1
 accommodationist 1
-amamau 2
+amamau 3
 ancyloceras
 antimale 2
 amande 1
@@ -12948,7 +12948,7 @@ anglophilic 1
 autotype
 adenine
 abattoirs 1
-apyrase
+apyrase 1
 anglophobiac
 adoptees 1
 aire
@@ -13534,13 +13534,13 @@ anaspalin 1
 aftonian
 annihilatory 1
 annihilators
-attice
+attice 1
 archartist
 acipenseroid 1
 abigeat 1
 aerostat 1
 azobenzene
-annoy
+annoy 1
 alister 1
 annoyance
 athenian 1
@@ -14209,7 +14209,7 @@ appellant 2
 anteporticos 1
 anteprohibition
 acetarsone 1
-antequalm
+antequalm 1
 abmho
 arduous
 artie 2
@@ -14226,7 +14226,7 @@ alexiterical 1
 antergic 1
 aspic 2
 autodetector 1
-atlee 1
+atlee 2
 amarillo
 absinthial 1
 anteri
@@ -14368,7 +14368,7 @@ amnesic 2
 anthypnotic 1
 albanensian
 anthocarp 2
-ascertainability 1
+ascertainability 2
 anthocerote
 asaprol 2
 aquariiums 1
@@ -14597,7 +14597,7 @@ antipoetically 1
 aphelilia
 atemporal 1
 antiroyalism 1
-ambulatorial 1
+ambulatorial 2
 accreditee
 anthropophagist 1
 accoutred 1
@@ -15363,7 +15363,7 @@ attempted 1
 antispermotoxin 1
 amphicyon
 antihistaminic 1
-angiospermatous 1
+angiospermatous 2
 antidogmatism 2
 antipragmaticism 1
 attorning 1
@@ -23178,7 +23178,7 @@ antifundamentalism 2
 abiding
 altared 1
 attenuable
-automanipulative
+automanipulative 1
 attenuator
 antitheistic 1
 aliethmoidal
