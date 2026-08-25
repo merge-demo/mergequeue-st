@@ -4144,7 +4144,7 @@ cardioarterial
 clags 1
 cardiocarpum 1
 cardiocele
-chevronelly 1
+chevronelly 2
 cardiocirrhosis
 cacuminate 1
 consubsistency 1
@@ -12571,7 +12571,7 @@ caplets 1
 concurrences
 concubitus 1
 chronaxie
-chronica
+chronica 1
 clattertrap
 chronicling
 chronics
@@ -15538,7 +15538,7 @@ classicalist
 classicality
 chaya
 classicise 2
-chromophoric 1
+chromophoric 2
 classicism
 classicist
 classicists 3
@@ -16335,7 +16335,7 @@ cliqueyness 2
 cytome 1
 cliques 1
 collocalia 1
-cliquy 1
+cliquy 2
 creasol
 cliquiest 1
 consentingness 1
@@ -19958,7 +19958,7 @@ commanding
 changeover 1
 corolitic
 commandingly 2
-construing
+construing 1
 commandingness
 codeins 2
 commandite
