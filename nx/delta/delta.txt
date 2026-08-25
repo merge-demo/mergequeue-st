@@ -1207,7 +1207,7 @@ datafile
 dunts 1
 dillydallying
 dahabiah
-doormat
+doormat 1
 demibrassart
 devilhood 1
 datana 1
@@ -1803,7 +1803,7 @@ debark
 detaining 3
 dropseed 2
 drawknife
-debarking 3
+debarking 4
 digamist 2
 dishpanful 1
 discede 3
@@ -2253,7 +2253,7 @@ dustbox 1
 discolourization 3
 determinative 2
 decimals 2
-decelerates
+decelerates 1
 dimedon 2
 dentolabial
 decembrist 1
@@ -3721,7 +3721,7 @@ durmasts 1
 decimate
 dehonestation 1
 disoccupied 2
-dehorn 1
+dehorn 2
 dolcan
 desmose
 dreadful 1
@@ -10668,7 +10668,7 @@ disapprover 1
 demonetised
 drownproofing 1
 dromical
-dimmest 1
+dimmest 2
 dixits
 disorganizing 2
 deferring
@@ -13127,7 +13127,7 @@ defamer 3
 dipeptidase 1
 diocese
 disperple 1
-diadem 1
+diadem 2
 deflourish 1
 didactive
 dispersedness
