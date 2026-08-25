@@ -11480,7 +11480,7 @@ bluetongue 2
 bedmates 1
 bluetop 2
 berths 1
-berascaled
+berascaled 1
 burgware
 bundlers 1
 bandsmen
@@ -16690,7 +16690,7 @@ bubblelike 3
 basketfuls 2
 blithehearted 1
 besiege 1
-bishopship
+bishopship 1
 basilisk 1
 bilaan 1
 babelish 1
