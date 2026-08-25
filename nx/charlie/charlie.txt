@@ -8723,7 +8723,7 @@ chapelmaster 2
 colonises
 chapelry 1
 combflower 3
-chapelries
+chapelries 1
 carrs 3
 cinerins 1
 chapelward 1
@@ -11176,7 +11176,7 @@ chloraemia 1
 chloragogue
 chloral
 chloralformamide 2
-cluniac
+cluniac 1
 cupelling 1
 comburimeter
 cymbocephalic 2
@@ -14983,7 +14983,7 @@ cavorts 1
 citua 2
 cytulae
 colormaking
-ciudad 3
+ciudad 4
 cosmesis 2
 carpetless 1
 carbonado 3
@@ -23510,7 +23510,7 @@ contenu 2
 cosmozoan
 caprock 1
 coniothyrium 1
-conterminable 1
+conterminable 2
 centinormal
 callorhynchus 1
 carbonarism 1
