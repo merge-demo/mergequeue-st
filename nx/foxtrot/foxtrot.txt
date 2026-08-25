@@ -2037,7 +2037,7 @@ feigners
 fluoridation 3
 feigns 2
 flitch 3
-flamier
+flamier 1
 farouche
 feltwork 4
 falconet 2
@@ -2731,7 +2731,7 @@ flagitate 2
 fusain 1
 frigged 1
 fleuronne 4
-filmish 5
+filmish 6
 fetation 1
 flunkeydom 2
 fraternization 1
@@ -7582,7 +7582,7 @@ forecourts 2
 freeholding
 faille 2
 fifers 2
-felsite 2
+felsite 3
 fanal 2
 flung 1
 felicitous 1
@@ -8417,7 +8417,7 @@ flebile 1
 forklike 2
 finickily 3
 foundations 2
-fossilological
+fossilological 1
 flatman 3
 forlain
 fruitcakes 1
@@ -8566,7 +8566,7 @@ flailing 3
 facetiation 2
 firehall 4
 falsie 4
-fraudproof 1
+fraudproof 2
 fissiparous
 flatwise 1
 foramen 2
