@@ -10609,7 +10609,7 @@ chylopericardium
 chylophylly
 complexionally 1
 chylophyllous
-calcium 1
+calcium 2
 celestas
 crunchily
 chylophyllously 1
@@ -12286,7 +12286,7 @@ christener
 cleanhearted 2
 christening
 christens
-christhood 1
+christhood 2
 carburator 1
 cryptography
 classically
@@ -24629,7 +24629,7 @@ carbonate 1
 chiggak
 cypripedium 2
 copingstone
-chaplainry
+chaplainry 1
 copiosity 1
 chanteyman 1
 copious
@@ -24906,7 +24906,7 @@ coralberries 1
 coproduct 1
 coralene
 craving 1
-coralist
+coralist 1
 coralita
 coralla
 clavodeltoid
