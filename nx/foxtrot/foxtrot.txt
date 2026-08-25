@@ -109,7 +109,7 @@ fleshliest 1
 fingertips 2
 faciends 3
 featheredges
-fluidization 1
+fluidization 2
 facient 2
 furaldehyde 2
 facilitate 1
@@ -385,7 +385,7 @@ flunkyish 3
 fister 1
 functor 1
 fifties 2
-fescue 5
+fescue 6
 fronde 2
 farcy 1
 ficoes 1
@@ -1077,7 +1077,7 @@ frenchwoman 1
 frondescence 3
 foughten 2
 farsighted 2
-fleabites 1
+fleabites 2
 flatiron 1
 foretime 4
 fourierist 1
@@ -1624,7 +1624,7 @@ fizzing 5
 fellowless 2
 fipenny
 four 1
-fdnames
+fdnames 1
 farmhands 4
 fundamentalists
 forthcut 3
@@ -2106,7 +2106,7 @@ fleshen 2
 frument 1
 fayence 1
 federate 1
-fermentate 1
+fermentate 2
 fonding 2
 fluming
 feminist
@@ -2218,7 +2218,7 @@ feminility 2
 feminin 1
 fondlesome 4
 fluorinates 1
-fertilise 3
+fertilise 4
 foals 3
 feminineness 1
 freshmanhood 1
@@ -2432,7 +2432,7 @@ fobbed
 festivities 3
 fumier 1
 fatigate 3
-freemasons 3
+freemasons 4
 fractur 1
 frizzle 1
 fingered 2
@@ -2575,7 +2575,7 @@ fussify 1
 foremastmen 1
 firefanging 2
 ferryway
-finding 2
+finding 3
 finlike 2
 faddishness 2
 fishponds
@@ -3037,7 +3037,7 @@ frostflower
 frenchen 4
 fissioned
 forensical
-felstones 1
+felstones 2
 friendlies 4
 fibbers 2
 foremelt 4
@@ -6084,7 +6084,7 @@ faculty 1
 fingerhook
 fleckier 1
 footpace 3
-figurial 4
+figurial 5
 foxhounds
 filchery 3
 funambule 1
@@ -6347,7 +6347,7 @@ ferments 5
 fumigatorium 1
 fpm 2
 frictionlessly 2
-frolicness 1
+frolicness 2
 forthcomingness 3
 furcraeas 1
 favela 3
@@ -6439,7 +6439,7 @@ flavorfulness 1
 fluoaluminate 5
 femorocaudal 5
 fainted 4
-fairs
+fairs 1
 fistulariidae 2
 finery 1
 flapjack 1
@@ -7203,7 +7203,7 @@ forthteller 2
 footless
 fratries 2
 ficoides 2
-forearming 1
+forearming 2
 farer 2
 frockless
 fural 1
@@ -8415,7 +8415,7 @@ forklift 2
 forefin 2
 flebile 1
 forklike 2
-finickily 2
+finickily 3
 foundations 2
 fossilological
 flatman 3
@@ -8896,7 +8896,7 @@ fatty 4
 forebye 2
 facioscapulohumeral 3
 foreigners 3
-frenzily 1
+frenzily 2
 flashers 1
 fot
 florideous 3
@@ -9660,7 +9660,7 @@ firing 1
 flannelmouths 3
 featherbone 2
 foodlessness 2
-flytime 3
+flytime 4
 forlet 3
 freeholdership 1
 feeders 3
@@ -10954,7 +10954,7 @@ fub
 foehn 3
 flexure 2
 field 2
-fetal 2
+fetal 3
 floorage 1
 fadridden 3
 fack 2
@@ -11019,7 +11019,7 @@ fumbles 3
 fumblingness 1
 fumed 1
 fungiferous 1
-frigging 1
+frigging 2
 freeport 2
 freshly 2
 frankability 1
@@ -11494,7 +11494,7 @@ facilities 2
 figural 5
 finnmarks 1
 furthest 2
-flittering 2
+flittering 3
 firmity 1
 flareback
 fiercened 1
