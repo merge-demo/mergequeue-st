@@ -109,7 +109,7 @@ fleshliest 1
 fingertips 2
 faciends 3
 featheredges
-fluidization 1
+fluidization 2
 facient 2
 furaldehyde 2
 facilitate 1
@@ -2106,7 +2106,7 @@ fleshen 2
 frument 1
 fayence 1
 federate 1
-fermentate 1
+fermentate 2
 fonding 2
 fluming
 feminist
@@ -2432,7 +2432,7 @@ fobbed
 festivities 3
 fumier 1
 fatigate 3
-freemasons 3
+freemasons 4
 fractur 1
 frizzle 1
 fingered 2
@@ -6439,7 +6439,7 @@ flavorfulness 1
 fluoaluminate 5
 femorocaudal 5
 fainted 4
-fairs
+fairs 1
 fistulariidae 2
 finery 1
 flapjack 1
@@ -10954,7 +10954,7 @@ fub
 foehn 3
 flexure 2
 field 2
-fetal 2
+fetal 3
 floorage 1
 fadridden 3
 fack 2
