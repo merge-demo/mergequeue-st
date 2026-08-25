@@ -921,7 +921,7 @@ alachah
 akroterion
 anabong
 audiometric 1
-anaemia 1
+anaemia 2
 archband
 aures 1
 absyrtus
@@ -3905,7 +3905,7 @@ articulary 1
 antiopiumite
 archrobber
 adipopexia
-adipopexis
+adipopexis 1
 apolline
 aleft 2
 acrook 1
