@@ -449,7 +449,7 @@ butanal 1
 bugbear
 blolly 1
 backsite 1
-benzolize 2
+benzolize 3
 besugar 1
 bristlebird
 bucketmaking 1
@@ -593,7 +593,7 @@ bistro
 baragouinish 2
 brutishly 3
 blessers
-birdie 3
+birdie 4
 bibliolatry 3
 baconize 1
 baconweed 1
@@ -614,7 +614,7 @@ beethoven 2
 bidget 2
 bacterin 2
 beggiatoa 1
-bacteriochlorophyll 3
+bacteriochlorophyll 4
 bacteriocin 1
 broomsticks 1
 bostangi
@@ -2108,7 +2108,7 @@ bannerline 3
 bannerole
 blossomry
 bronchus 2
-bcf 2
+bcf 3
 baldest 3
 blesses 2
 bannerols 1
@@ -2219,7 +2219,7 @@ bradyauxetic
 baraita 2
 boschboks 1
 bewilders 2
-bestove 2
+bestove 3
 bromocyanid 1
 backflash 1
 briscola 3
@@ -6629,7 +6629,7 @@ berginization
 befile
 branchipodidae 1
 bicycloheptane 1
-bumpily 1
+bumpily 2
 baseheartedness 2
 bagass 2
 bergman 2
@@ -11014,7 +11014,7 @@ babysit 1
 besmoking
 botryopterid 3
 blitzkrieging
-brache
+brache 1
 backstairs 1
 bladelike
 bullyrags
@@ -11261,7 +11261,7 @@ brightening 1
 bertrand
 blotto 4
 byway 1
-bigwiggism 1
+bigwiggism 2
 botteghe
 betelnut
 biassed 1
@@ -11549,7 +11549,7 @@ blunnen 1
 blunt
 barristress 2
 befuddlements 2
-blunthearted
+blunthearted 1
 bonaire 1
 botanized 1
 biosystematist 2
@@ -15784,7 +15784,7 @@ bicycled 1
 bufotenine
 bavaroise
 blockier
-brocolis
+brocolis 1
 basicities 1
 bentlet 1
 brionine 1
