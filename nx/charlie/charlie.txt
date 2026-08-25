@@ -7,14 +7,14 @@ cab 1
 caba 2
 chorionic
 chastises
-cajaput 1
+cajaput 2
 craniopharyngioma
 complanate
 cabaho 1
 cabal 2
 condylarthrous 2
 cryptostoma 1
-chevance 1
+chevance 2
 chaenomeles
 cows 1
 crease
@@ -152,7 +152,7 @@ cablelaid
 cableless 2
 cablelike
 cerberic 1
-chryseis 1
+chryseis 2
 cables 1
 changeabout 2
 cablese 2
@@ -762,7 +762,7 @@ collaborationist 1
 cagework
 coordinators
 consonantising 1
-caggy 2
+caggy 3
 conjurors
 cagy
 cagier
@@ -984,7 +984,7 @@ calaminaris
 callipygian
 calamine 3
 cervidae 1
-calamines 2
+calamines 3
 cypseline
 cuirie
 calamining
@@ -1843,7 +1843,7 @@ camay 1
 camaieu
 camail 3
 camailed
-calzada 1
+calzada 2
 camaka 1
 camaldolese 1
 camaldolesian 1
@@ -3193,7 +3193,7 @@ capernoited
 capernutie
 cohens 1
 cenesthesia
-carapace 1
+carapace 2
 clusters
 capersome
 cranches
@@ -4007,7 +4007,7 @@ cerotene
 carchariid 2
 clerisy 1
 carchariidae
-carcharioid
+carcharioid 1
 congredient
 carrie
 carcharodont
@@ -7834,7 +7834,7 @@ cessantly
 cessative 1
 cessavit
 cessed 1
-cesser 1
+cesser 2
 cesses
 criticism 1
 cuttle 1
@@ -8034,7 +8034,7 @@ chaetotactic 1
 calculus 1
 chaetura
 chafe
-concretion 1
+concretion 2
 chafed 2
 chafery 2
 chiles 1
@@ -8120,7 +8120,7 @@ chainmaker 1
 catharization
 chainman 1
 chainmen
-celiomyositis
+celiomyositis 1
 cultists 1
 capistrate 3
 chowdered
@@ -10253,7 +10253,7 @@ campanulated 1
 clitoritis 2
 cauterising 1
 chicanery
-chicaneries
+chicaneries 1
 chicaners
 convallarin
 chicanes
@@ -10440,7 +10440,7 @@ chiliomb 1
 conversative
 chil
 complementation 1
-chilacayote 1
+chilacayote 2
 calinago 2
 cleistogamous
 chylaceous 1
@@ -12887,7 +12887,7 @@ churchwardenism 1
 columbines
 churchwardenize 1
 constitutionless 1
-churchwardens
+churchwardens 1
 churchwardenship 2
 churchwoman
 churchwomen 2
@@ -13721,7 +13721,7 @@ cretinoid 2
 cinchotine
 cullions 3
 cincinnal
-cincinni
+cincinni 1
 cholesterate 1
 cinclides
 compassionless 1
@@ -14098,7 +14098,7 @@ circocele
 colloquialisms 2
 codecree
 circue 1
-circuit
+circuit 1
 circuital 1
 cleidoscapular
 chimonanthus 1
@@ -14244,7 +14244,7 @@ circumjacence 1
 circumjacency 2
 circumjovial 1
 circumlitio
-circumlittoral
+circumlittoral 1
 circumlocute 1
 circumlocution 1
 cypripedin
@@ -14719,7 +14719,7 @@ coesite
 cygnets 1
 citharoedi
 chaplets 1
-cholesteryl 3
+cholesteryl 4
 catmint 1
 circumagitate
 cylix
@@ -15726,7 +15726,7 @@ clavipectoral 1
 chips
 comprehensives
 clavolet 1
-cumulonimbus
+cumulonimbus 1
 clawed
 clawer 1
 cubbishly 2
@@ -17654,7 +17654,7 @@ creationistic 1
 cochleleae 1
 cuckoo 1
 choregraphy 1
-cochleleas
+cochleleas 1
 cochleous
 cochlidiid
 catalaunian 1
@@ -18581,7 +18581,7 @@ callitrichidae
 coigue 1
 coction 1
 cyrtidae 2
-coyish
+coyish 1
 coleseeds
 chrometophobia 1
 coyishness
@@ -19065,7 +19065,7 @@ confineless
 colonialise 1
 coatings 1
 colliculus
-cometographer
+cometographer 1
 collidin
 cetacea 2
 cepous 1
@@ -19435,7 +19435,7 @@ chasty
 crosshaul
 colormaker 1
 cornicing
-colorman 1
+colorman 2
 cerealose
 colors 1
 cutose
@@ -19448,7 +19448,7 @@ colossean
 colosseum 2
 colossian 3
 charas 1
-colossians 3
+colossians 4
 colosso
 chemises 2
 colossochelys 3
@@ -20790,7 +20790,7 @@ conite
 complimental 1
 complimentally 2
 complimentarily
-cocotte
+cocotte 1
 complimentariness 1
 complimentarity
 complimentation
@@ -24426,7 +24426,7 @@ carbonic 1
 cooncans
 coonhound
 calcigenous 2
-coonhounds
+coonhounds 1
 coony
 chloracetate
 coonier
@@ -25600,7 +25600,7 @@ clericum
 corp 3
 corpn
 corpora 1
-corporacy
+corporacy 1
 commensally 2
 corporacies 2
 calcic 1
@@ -28111,7 +28111,7 @@ craniectomy
 cled 1
 caput 3
 craniniums
-craniocele
+craniocele 1
 cordial 1
 caunus
 craniocerebral
@@ -28568,7 +28568,7 @@ curliness 1
 coelelminthic
 credulity 1
 cardiosclerosis
-credulities 1
+credulities 2
 carabin 1
 creed
 creeded 1
@@ -28695,7 +28695,7 @@ cryochore
 chapacura 1
 cilice 1
 crenelles 1
-crenels 1
+crenels 2
 crengle 2
 creophagy 1
 chromidiogamy 1
@@ -29220,7 +29220,7 @@ characid 1
 crippleness 2
 crippler
 cripples 2
-creaser 2
+creaser 3
 capillarity 1
 cystomatous 1
 crippling 1
@@ -29780,7 +29780,7 @@ crooknosed 1
 cornetfishes 1
 crooksided 1
 crooksterned
-crool 3
+crool 4
 counterambush
 croon 1
 crooned 4
@@ -29950,7 +29950,7 @@ chokebore
 cardiataxia
 concern 1
 crosspath 3
-clawk 1
+clawk 2
 crosspoint
 crossroad 1
 cokneyfy 2
@@ -30325,7 +30325,7 @@ crunchingly 1
 crunchweed
 causewayman
 crunkle 1
-cabombas 2
+cabombas 3
 countervaunt 1
 comm
 crunodes 1
