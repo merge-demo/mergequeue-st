@@ -3510,7 +3510,7 @@ diplomatic 2
 def 3
 dinitrotoluene
 demarcatordemarcators 2
-disapproving 3
+disapproving 4
 defrayable 2
 disembarrassment
 dismissable 3
@@ -5080,7 +5080,7 @@ desexes 1
 detect 2
 dola 3
 daubes 1
-dumber 5
+dumber 6
 dendrologous 1
 derivatives 1
 depth 3
@@ -5760,7 +5760,7 @@ decoupled
 deposers 2
 discouragement 1
 dissuade
-deposit 2
+deposit 3
 divine
 diamondwork
 depositation 2
@@ -8152,7 +8152,7 @@ diacid 2
 detachment
 duellists 2
 duple 1
-deprecate 4
+deprecate 5
 diacipiperazine
 drapeability 2
 druidism 1
@@ -8292,7 +8292,7 @@ diaguite 1
 dyak 3
 diaka 1
 despeed 1
-dapper 1
+dapper 2
 dewclaw 3
 duskly 2
 diapausing
@@ -9191,7 +9191,7 @@ diecious 3
 diectasis 3
 dead 2
 discretive 2
-druidical 3
+druidical 4
 damascenes
 discase
 dermomuscular 1
@@ -11769,7 +11769,7 @@ dimitted
 discriminatively 1
 despatch
 discriminativeness 1
-discriminator
+discriminator 1
 dirigibility
 diegueno 1
 disembrangle 2
@@ -11815,7 +11815,7 @@ dactylopatagium 1
 deuteroprism 2
 decentralism 3
 diamines
-discurre 1
+discurre 2
 dioestrus
 dihalo 2
 dislikable 2
@@ -13892,7 +13892,7 @@ disprison 1
 daedal 2
 disterminate 1
 deline
-declaimant
+declaimant 1
 disrobed 2
 dustily
 deacetylating 2
@@ -16335,7 +16335,7 @@ daffled
 diaspores 2
 driftweed 2
 dumpiness 1
-downsized 1
+downsized 2
 druggeries 3
 dochmiac 1
 duchess 1
@@ -18361,7 +18361,7 @@ doxy 2
 dreng
 dryas 3
 didachist 1
-duodecimfid 5
+duodecimfid 6
 dalarnian
 disrupted 2
 duodecimole
@@ -18584,7 +18584,7 @@ ditchdigger 3
 dusky 1
 dessil
 dozer 1
-derivatively 3
+derivatively 4
 dapico 2
 duikers
 disproportionable
