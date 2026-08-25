@@ -887,7 +887,7 @@ fleabug 1
 ferrate 4
 faquir
 farad
-faradaic
+faradaic 1
 filleted 2
 fluorometer 3
 flamed 2
@@ -932,7 +932,7 @@ fluorids 1
 fastigiums 1
 forkers 2
 fillagreed 2
-fardage
+fardage 1
 farded 2
 foddering 2
 foyers 1
@@ -2044,7 +2044,7 @@ falconet 2
 fourpounder 4
 ferngrower 1
 frontspiece 3
-feinter 1
+feinter 2
 faucalize
 flindosa 1
 forwander 4
@@ -2087,7 +2087,7 @@ frightened 1
 floria 1
 foredefine 1
 fainty 1
-fesapo 2
+fesapo 3
 filletlike 1
 fear 4
 firmers
@@ -3255,7 +3255,7 @@ fluorinate 1
 fittit 2
 foreknowledge 3
 freestanding 2
-forthrightly 1
+forthrightly 2
 faradizer 2
 flaught 4
 filbert 2
@@ -4226,7 +4226,7 @@ feistier 3
 frostbiting 1
 footsies 2
 fowls 3
-farinosely 1
+farinosely 2
 firepinks 2
 fiendishness 3
 fraist 1
@@ -4238,7 +4238,7 @@ fracases 4
 faxed
 fireplug 2
 firepot 1
-foreflank 1
+foreflank 2
 forebooms 1
 flots 2
 frangipanni 1
@@ -4340,7 +4340,7 @@ frankable 2
 fandango 4
 fourflusher 3
 feneration 1
-fellows 1
+fellows 2
 forgetter 1
 foresleeve
 finagle 4
@@ -4607,7 +4607,7 @@ fibrocalcareous 4
 filagrees
 ferring 2
 flowmanostat 2
-folsom 2
+folsom 3
 footweary 3
 forborn
 foresaying 2
@@ -4823,7 +4823,7 @@ forties 2
 frostbiter 2
 funker 1
 fetting 1
-fibrinuria 3
+fibrinuria 4
 fluidiser 3
 fardh 1
 fumish 1
@@ -5454,7 +5454,7 @@ forcibly
 figurativeness
 fainest
 formulator
-famished 3
+famished 4
 foresummer 5
 feridjee 1
 furfuration 1
@@ -5650,7 +5650,7 @@ favouritism 4
 flimsier 1
 fishbolt 1
 fondues 3
-fellowshiped 1
+fellowshiped 2
 fascism
 forums 2
 fortis 1
@@ -5791,7 +5791,7 @@ faunated 5
 foreheads
 fulgurant
 fribble 1
-family
+family 1
 fevertwig 3
 flambee 1
 frett 1
@@ -6534,7 +6534,7 @@ fricasseed 2
 flutterboard 2
 faucal
 fluotantalate 6
-fraxinella 2
+fraxinella 3
 flutteriness
 flagrate 3
 fostering 2
@@ -8545,7 +8545,7 @@ formylal 2
 farnovian 2
 fiuman 2
 fanaticising 1
-forbearance
+forbearance 1
 forminate 1
 forming
 formless 2
@@ -10900,7 +10900,7 @@ fractiously 2
 foreskins 1
 feston 2
 fango 2
-flayer 4
+flayer 5
 furore 2
 familiarization 5
 fullish 3
