@@ -7860,7 +7860,7 @@ geophone 3
 gegg 2
 groaners 2
 glutter 2
-globs
+globs 1
 gerents 2
 goosander 3
 gooroo 2
@@ -9377,7 +9377,7 @@ grannyknot
 gloved 1
 galenobismutite 1
 gobelin 2
-glaymore
+glaymore 1
 getpenny 1
 gorgonize 2
 gelatinized 1
