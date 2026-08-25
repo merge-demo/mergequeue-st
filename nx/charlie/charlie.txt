@@ -3299,7 +3299,7 @@ capitoline 2
 capitolium
 crabbit
 capitula 2
-crumbiest
+crumbiest 1
 cutiduris
 couchancy
 capitulant
@@ -5809,7 +5809,7 @@ catechists
 catechization 1
 catechizer
 calamondin 2
-cojoin 1
+cojoin 2
 cheveys 1
 crofterize
 coeldership
@@ -15747,7 +15747,7 @@ claws 3
 claxon 1
 cleaded 1
 corin
-citropsis
+citropsis 1
 chandelled
 cleam
 confectioneries
