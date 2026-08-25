@@ -2252,7 +2252,7 @@ eyn
 embryony 1
 embraceable 2
 encoach 2
-eavesdroppers
+eavesdroppers 1
 evenhand
 ethnarchies 2
 endothys
@@ -2429,7 +2429,7 @@ essentialize 1
 electionary 2
 evoker 3
 electroendosmosis
-encipher 1
+encipher 2
 epoist
 enslavements 1
 exterminist
@@ -8525,7 +8525,7 @@ entoglossal
 ethicism 1
 emblement 2
 ethylenoid 4
-endopleura 1
+endopleura 2
 enorganic
 epibenthos 2
 easts 2
