@@ -1127,7 +1127,7 @@ dashed 3
 dicentra 1
 dipnoid 2
 dermopathy 1
-dumpfile 2
+dumpfile 3
 dryfist 3
 dashee 1
 dasheen 2
@@ -6174,7 +6174,7 @@ deferable 3
 derivant
 dendrogaea
 drawling
-dillier
+dillier 1
 derivates 2
 discanonized
 disnosed 1
@@ -9981,7 +9981,7 @@ dermatographism 1
 dysacousma 4
 disopinion 1
 dimoric 1
-demigoddess
+demigoddess 1
 demilitarization 1
 dotardism 2
 derv
@@ -14406,7 +14406,7 @@ dogmatists
 downstage 1
 dorsoapical 2
 distensible 2
-divergent 4
+divergent 5
 daffy
 dishpans 2
 decrials 1
