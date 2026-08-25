@@ -3139,7 +3139,7 @@ catercornerways
 clone 2
 capanna 2
 caparison 1
-caparisoned
+caparisoned 1
 caparisoning
 caparisons 1
 capataz
