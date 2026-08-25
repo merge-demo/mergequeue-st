@@ -7763,7 +7763,7 @@ chlamydophore 1
 connoissance 1
 credulously 2
 conducing
-ceruleous
+ceruleous 1
 ceratophrys 2
 cerulific 1
 cerulignol 3
@@ -8723,7 +8723,7 @@ chapelmaster 2
 colonises
 chapelry 1
 combflower 3
-chapelries
+chapelries 1
 carrs 3
 cinerins 1
 chapelward 1
@@ -11176,7 +11176,7 @@ chloraemia 1
 chloragogue
 chloral
 chloralformamide 2
-cluniac
+cluniac 1
 cupelling 1
 comburimeter
 cymbocephalic 2
@@ -12207,7 +12207,7 @@ chaptrel 1
 chrismon 3
 cyanized 1
 chrismons
-chrisms
+chrisms 1
 carinatae 1
 chrysoaristocracy
 cratsmanship
@@ -14983,7 +14983,7 @@ cavorts 1
 citua 2
 cytulae
 colormaking
-ciudad 3
+ciudad 4
 cosmesis 2
 carpetless 1
 carbonado 3
@@ -23510,7 +23510,7 @@ contenu 2
 cosmozoan
 caprock 1
 coniothyrium 1
-conterminable 1
+conterminable 2
 centinormal
 callorhynchus 1
 carbonarism 1
