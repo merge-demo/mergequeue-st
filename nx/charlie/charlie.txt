@@ -934,7 +934,7 @@ caky 1
 clientelage 1
 conformant
 consecration
-cols
+cols 1
 collagist 2
 chazzanut
 cakravartin
@@ -970,7 +970,7 @@ centrifugalized 1
 calamarmar
 canccelli 1
 cilioflagellate 1
-counterwrite 1
+counterwrite 2
 calamars
 calambac 2
 coastmen 1
@@ -2936,7 +2936,7 @@ cantara 1
 cantare 1
 counterseal 1
 concaulescence
-chrysoidine
+chrysoidine 1
 cantatas 2
 cantation
 cantatrice 1
@@ -3299,7 +3299,7 @@ capitoline 2
 capitolium
 crabbit
 capitula 2
-crumbiest
+crumbiest 1
 cutiduris
 couchancy
 capitulant
@@ -4431,7 +4431,7 @@ cytogenetics 2
 caryophyllus 1
 cares
 chicayote 2
-crucifixions 1
+crucifixions 2
 curite 3
 cutesy
 cartisane
@@ -5809,7 +5809,7 @@ catechists
 catechization 1
 catechizer
 calamondin 2
-cojoin 1
+cojoin 2
 cheveys 1
 crofterize
 coeldership
@@ -9938,7 +9938,7 @@ chena 2
 chenar 1
 cheneaus 1
 collaborations
-crystallophyllian 1
+crystallophyllian 2
 conspurcate
 cambists
 crescographic 1
@@ -14173,7 +14173,7 @@ circumantarctic 3
 circumarticular 1
 circumaviate 1
 circumaviator
-cowlike 1
+cowlike 2
 circumaxial 1
 cobles 1
 circumaxillary
@@ -15045,7 +15045,7 @@ caumatic 1
 civite
 caridomorpha
 chinchasuyu
-corrida 1
+corrida 2
 civory
 civvy 3
 ciwies 1
@@ -15747,7 +15747,7 @@ claws 3
 claxon 1
 cleaded 1
 corin
-citropsis
+citropsis 1
 chandelled
 cleam
 confectioneries
@@ -16765,7 +16765,7 @@ clouee
 culpon 2
 congested
 cloughs
-cloured 1
+cloured 2
 cohabiting
 cotyliform
 cuckoldom 1
@@ -19470,7 +19470,7 @@ cutitis
 crotchetiness
 coltpixie
 colourative 1
-colourer 2
+colourer 3
 colourers 1
 caveated 1
 cubage
@@ -19917,7 +19917,7 @@ cointreau 2
 cominformists
 confederal
 coming
-conched 1
+conched 2
 collying
 comings
 comism
@@ -30826,7 +30826,7 @@ commerciable
 cullies 2
 conveyance
 clarigold
-cullionly
+cullionly 1
 cullisance 2
 cotterel 5
 cannibalish 1
