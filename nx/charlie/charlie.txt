@@ -2447,7 +2447,7 @@ conemaking 2
 cancerogenic
 circumcentral 1
 condescent
-cancerophobe 2
+cancerophobe 3
 cancerophobia 1
 coolth
 cancerousness
@@ -13359,7 +13359,7 @@ centuply 1
 cyclosis 1
 cuppas
 cyclosporeae
-cleaners
+cleaners 1
 cyclostyle
 cyclostoma 2
 chasers 1
@@ -15553,7 +15553,7 @@ classify 1
 continentalist
 classifiable 4
 cicatrized 1
-curites
+curites 1
 classificator
 corders 1
 culicidae
