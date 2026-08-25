@@ -4267,7 +4267,7 @@ carer 1
 chyometer
 capsulotome 2
 caress
-cir
+cir 1
 caressed
 captainries
 caresser
@@ -13250,7 +13250,7 @@ cyclodiene
 cycloganoid 2
 cummin
 crossbencher 1
-climbable
+climbable 1
 cycloganoidei 1
 cyclogenesis 1
 calking
@@ -29263,7 +29263,7 @@ choices 4
 cryptobranchiate 2
 collides
 ciphered 1
-claquer 1
+claquer 2
 calibrate 2
 compliableness 2
 cryptobranchus 1
