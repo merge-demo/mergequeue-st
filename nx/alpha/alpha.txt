@@ -3891,7 +3891,7 @@ adipocellulose 1
 arrayer 1
 adipocere
 adipoceriform
-adipoid 1
+adipoid 2
 angiology
 amati 1
 aziola
@@ -13032,7 +13032,7 @@ angulous 1
 aporose 1
 antepone 1
 anticomplementary 2
-angust
+angust 1
 adrenine 2
 auronal
 angustirostrate
@@ -24513,7 +24513,7 @@ ag
 anticlericalist
 antimoniated 2
 autoxidation
-autoxidator 2
+autoxidator 3
 autoxidizability
 autoxidizable 3
 autoxidize
