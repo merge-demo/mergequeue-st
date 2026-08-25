@@ -1803,7 +1803,7 @@ ectepicondylar
 elbow 1
 energistic 1
 exopodite
-eigenvalues 2
+eigenvalues 3
 evaginated 1
 effervescive 1
 ensouling 2
@@ -2704,7 +2704,7 @@ earwigged 4
 eightyfold 2
 eolith
 esquamulose
-evaporated
+evaporated 1
 electrovalent 2
 electrowinning 2
 exaggerators 4
@@ -2978,7 +2978,7 @@ equipede 2
 enjoining 2
 encephalopsychesis 1
 exister 3
-extraovate
+extraovate 1
 eliminable 1
 etymologizing 1
 eradiation 3
@@ -3147,7 +3147,7 @@ eloiner 2
 essentiate 2
 eburated 1
 ethnarchs
-eskimoes 1
+eskimoes 2
 euryphage
 eloining 1
 explore
@@ -4313,7 +4313,7 @@ enterointestinal
 enterodynia 1
 enamour 1
 enamouredness 2
-eneclann 3
+eneclann 4
 expostulator 2
 eulogistical 4
 espouse 1
@@ -5240,7 +5240,7 @@ excerpt 1
 extravagation 1
 enrolles 1
 ethylmorphine 2
-excretolic 1
+excretolic 2
 enslaves
 endocorpuscular 2
 endorsed 3
@@ -6356,7 +6356,7 @@ electrotyper 1
 ephebe
 expenseful 1
 earthward 1
-enantiomeride 1
+enantiomeride 2
 electrooptic 1
 emulsor 1
 espagnole 4
@@ -8072,7 +8072,7 @@ epididymite
 earaches 4
 enew 3
 exhumator 2
-episclera 1
+episclera 2
 endocrinologists 2
 expensilation 2
 ensanguined
@@ -10839,7 +10839,7 @@ expedients 2
 enthralling 1
 extracultural 2
 eupatorium 1
-ethnobiology
+ethnobiology 1
 eupatrids 1
 eluent 2
 exemplars
@@ -11373,7 +11373,7 @@ exhaustibility 2
 evaluating 1
 emergers 1
 extenders 3
-ethnohistory 1
+ethnohistory 2
 exotropic 3
 electrodesiccation
 evenforth 4
@@ -12865,7 +12865,7 @@ ecphorization 2
 enseel 1
 echoic 2
 emendated 1
-extinctor 1
+extinctor 2
 enumerations 4
 efecks 2
 exoticist
@@ -12963,7 +12963,7 @@ enthusiastic 2
 escalado 2
 emboites
 equispaced
-epipsychidion 2
+epipsychidion 3
 egotistical 3
 emblematized 3
 east 1
@@ -13238,7 +13238,7 @@ expressibility
 expiringly 1
 embroglios 2
 expiscation 1
-enrheum 1
+enrheum 2
 ekphorias 1
 enzooty 2
 eupepsia
