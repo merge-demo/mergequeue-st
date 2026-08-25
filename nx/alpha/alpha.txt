@@ -1435,7 +1435,7 @@ acceptors
 antifreezes
 acervuline
 apocatastatic 1
-antibacteriolytic
+antibacteriolytic 1
 acceptress 2
 accepts
 attractants 4
@@ -2743,7 +2743,7 @@ acridity
 aerobee 3
 acridities
 acrydium 1
-acridness 1
+acridness 2
 anencephalia 2
 accentually 1
 amphirhina 1
@@ -4089,7 +4089,7 @@ admiralties 3
 actionless
 actinobacillotic 1
 atalan
-ailurophilia 1
+ailurophilia 2
 abiotrophic
 amyotaxia
 allylic 1
@@ -6585,7 +6585,7 @@ auxetically 1
 aias 1
 achomawi 1
 aldebaranium 1
-ayatollah 1
+ayatollah 2
 aiblins 1
 antileptic 2
 audivise
@@ -7613,7 +7613,7 @@ altaite 1
 allegiant 3
 autoclastic 2
 alcalizate
-alcanna
+alcanna 1
 acardiac 2
 ascophyllum 2
 anastomos 1
@@ -8354,7 +8354,7 @@ aliyah
 aliipoe 2
 alikeness
 alikewise 1
-abr 1
+abr 2
 alilonghi 2
 arundinaceous
 arnaut 1
@@ -13439,7 +13439,7 @@ ankles
 aetolian
 aminase 1
 assimilatory 1
-annalize 2
+annalize 3
 ankush
 astringe
 archphylarch
@@ -13534,13 +13534,13 @@ anaspalin 1
 aftonian
 annihilatory 1
 annihilators
-attice
+attice 1
 archartist
 acipenseroid 1
 abigeat 1
 aerostat 1
 azobenzene
-annoy
+annoy 1
 alister 1
 annoyance
 athenian 1
@@ -14597,7 +14597,7 @@ antipoetically 1
 aphelilia
 atemporal 1
 antiroyalism 1
-ambulatorial 1
+ambulatorial 2
 accreditee
 anthropophagist 1
 accoutred 1
@@ -15363,7 +15363,7 @@ attempted 1
 antispermotoxin 1
 amphicyon
 antihistaminic 1
-angiospermatous 1
+angiospermatous 2
 antidogmatism 2
 antipragmaticism 1
 attorning 1
@@ -17137,7 +17137,7 @@ afterdrain
 acquirement 1
 apographic 2
 apographical 2
-autosensitization 1
+autosensitization 2
 apoidea 2
 astucity 1
 agricultural 3
@@ -23178,7 +23178,7 @@ antifundamentalism 2
 abiding
 altared 1
 attenuable
-automanipulative
+automanipulative 1
 attenuator
 antitheistic 1
 aliethmoidal
@@ -25305,7 +25305,7 @@ aperture
 agrarians
 acetylrosaniline 1
 acholuria 2
-antiethnic
+antiethnic 1
 aceta 2
 antithermin
 azofication 1
@@ -25330,7 +25330,7 @@ antisplitting 2
 ampoule
 antidotes
 archplayer
-ambivalency 1
+ambivalency 2
 aboideaus 1
 antireactionaries 1
 azophenine 1
