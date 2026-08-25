@@ -2661,7 +2661,7 @@ conclusiveness 2
 canezou 1
 canfield 1
 counterstatement 2
-cantillating 2
+cantillating 3
 canfuls
 cangan 1
 charterist
@@ -2871,7 +2871,7 @@ carboxyhemoglobin
 cetorhinoid 1
 canonizer 1
 canonizes
-canonizing
+canonizing 1
 chachalakas
 churchreeve 2
 canonry
@@ -10577,7 +10577,7 @@ crucifixes 1
 concremation 2
 celebrator 2
 chillroom
-chills
+chills 1
 chillsome 1
 countermove 1
 chouka 3
@@ -13471,7 +13471,7 @@ companionableness 2
 cygnus
 cigua
 cyke
-cyl 1
+cyl 2
 comburivorous
 cilectomy
 cornichon 2
@@ -14531,7 +14531,7 @@ cubicontravariant 1
 cystalgia
 cystamine 1
 chinnier 2
-commatism
+commatism 1
 cysteamine 2
 cystectasia
 contestate 3
@@ -16982,7 +16982,7 @@ cherubic
 cleithral 1
 centrex
 clerestories
-clutching 1
+clutching 2
 cymbaleer 1
 clutchingly
 consignificate 1
@@ -17384,7 +17384,7 @@ coattending 1
 conductivities 1
 cineangiocardiographic
 coattestator
-coattested 1
+coattested 2
 coattesting
 coaudience 2
 collegiugia
@@ -17641,7 +17641,7 @@ chlorothiazide
 cochero 1
 cochief
 containerized 1
-cochleae 1
+cochleae 2
 concertising
 convenery 2
 cochlear 1
@@ -17726,7 +17726,7 @@ coconsciously
 coconsciousness 2
 coconsecrator
 confirmingly 1
-contramure 1
+contramure 2
 coconut 1
 coconuts
 cocoon 1
@@ -18073,7 +18073,7 @@ caverns
 chechehet 2
 coenjoy 1
 contradictively 1
-coalesce
+coalesce 1
 coenla
 coatee 3
 coenobe
@@ -19290,7 +19290,7 @@ colonialists
 cyclospondyli 2
 coctoprecipitin
 colonialize
-chortles 1
+chortles 2
 colonializing 1
 crystic
 colonially 1
@@ -19935,7 +19935,7 @@ chevisance 2
 comitium 1
 cokery 1
 cuscuses 1
-contrastimulus 4
+contrastimulus 5
 comitje 3
 chunters 1
 coml 1
@@ -21185,7 +21185,7 @@ concolor 2
 chemicobiological 2
 concentrated
 concentrates 1
-clamatores
+clamatores 1
 commensalist
 concentrations
 concentrative
@@ -22922,7 +22922,7 @@ consider
 circumrenal 1
 canidae
 considerable
-considerableness 1
+considerableness 2
 chondrofibromatous 2
 considerably 1
 compreg
@@ -24585,7 +24585,7 @@ cutches
 coperta 1
 contermine 2
 chelidon 1
-cantate 1
+cantate 2
 cophosis
 copia 1
 clapped
@@ -26119,7 +26119,7 @@ cliquier
 crummie 2
 cosmetics
 chakravartin 1
-crosswalks 1
+crosswalks 2
 cosmicality 1
 clausulae
 congruential 2
@@ -26973,7 +26973,7 @@ countermined 1
 countermission
 coinfeftment
 chromophor 2
-circumsciss 2
+circumsciss 3
 carburizing
 countermoved
 casebound
@@ -27669,7 +27669,7 @@ cowers
 cowgrass 1
 cowhage
 cowherb
-cowherds 1
+cowherds 2
 cerium 3
 cytoarchitecturally 2
 clavicornate
@@ -28034,7 +28034,7 @@ captivators
 celebret
 contemptuousness 1
 concretizing 3
-cyphers 3
+cyphers 4
 craking 1
 crakow 1
 cram 2
@@ -28283,7 +28283,7 @@ cratchins 1
 conicine 1
 crate 1
 cincinnatia 1
-crateman
+crateman 1
 clitic
 cratemen 1
 criss
@@ -29931,7 +29931,7 @@ crossleted
 coelenterata 1
 carcase 1
 cuculidae
-crosslight 2
+crosslight 3
 crosslike 2
 carbosilicate
 crossline 1
@@ -30642,7 +30642,7 @@ cuculle
 cuculliform 1
 cuculoid 1
 cofunction 1
-counterreform
+counterreform 1
 concinnous 1
 cucumariidae
 cucumber 1
@@ -30700,7 +30700,7 @@ cudgeler 1
 calymene 1
 cudgelers
 counterwind 1
-complexometric 1
+complexometric 2
 costopleural
 cudgeling
 cudgelling 3
@@ -31556,7 +31556,7 @@ curtain
 cheesemongery 1
 centrals 1
 cariamae
-cowlicks
+cowlicks 1
 cauliflower 2
 cortine 2
 curtainless
@@ -31872,7 +31872,7 @@ canarian
 commercialising
 cirrhosis 1
 cursement
-cutterhead 2
+cutterhead 3
 chemicals 2
 cutthroat
 chylopoietic 1
