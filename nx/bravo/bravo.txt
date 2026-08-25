@@ -549,7 +549,7 @@ blastodermic
 baufrey 1
 bulgarophil 1
 bloodnoun 3
-butyl 1
+butyl 2
 bernard 2
 blit 3
 backwardness 1
@@ -697,7 +697,7 @@ badaga
 biorgan 1
 babbitting 2
 buncombe 1
-bunted 1
+bunted 2
 barnstormed 1
 behav
 boregat 1
@@ -2509,7 +2509,7 @@ barfish
 buckraming 2
 billbugs 1
 bargaining
-beechwoods
+beechwoods 1
 burian 1
 bhut
 bedark 1
@@ -2532,7 +2532,7 @@ bottonhook 2
 buckler 1
 barguest 2
 barguests
-buzylene 1
+buzylene 2
 baria 1
 bedouse 1
 blameful 2
@@ -4391,7 +4391,7 @@ byworks 1
 backswing 3
 bonairness 1
 brolly 4
-boordly
+boordly 1
 bagne 1
 bounties
 breakwater 2
@@ -5545,7 +5545,7 @@ belaites 1
 bromomenorrhea
 bournonite 3
 blowziest 1
-bhava 2
+bhava 3
 blockline 1
 breastfeeding 1
 bejewelling 1
@@ -7912,7 +7912,7 @@ bibliophagous
 budgetary
 boscages 1
 bambusa 1
-befuddlement
+befuddlement 1
 beetleheadedness 2
 bongoists
 bluntishness 1
@@ -10967,7 +10967,7 @@ billowy
 blips 1
 boehmenite 1
 bliss
-branchiostegous 2
+branchiostegous 3
 bucketshop
 birdcatcher
 blissful
@@ -11322,7 +11322,7 @@ barse 1
 baith 3
 boards 2
 bespoused
-blowtorches 1
+blowtorches 2
 bromos
 bossiness 3
 batteau 2
@@ -12379,7 +12379,7 @@ baskets
 bomble
 blackbutt 1
 brickwall
-boombox 2
+boombox 3
 boner 1
 beget 3
 bluishness 1
@@ -12699,7 +12699,7 @@ bloatedness 2
 bowedness 2
 blipping 1
 boohooing 2
-biaswise 1
+biaswise 2
 bidialectalism 3
 blowholes 1
 bear
@@ -16220,7 +16220,7 @@ bromoform 3
 betweenwhiles
 bezaleelian 2
 blote 1
-bithynian 2
+bithynian 3
 bridget 1
 brotuliform
 bespangled 1
