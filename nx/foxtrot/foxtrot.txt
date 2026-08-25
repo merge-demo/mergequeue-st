@@ -311,7 +311,7 @@ fplot 5
 fluxionary 1
 feods 3
 forces 2
-fail 2
+fail 3
 fireplough 3
 faineancy 4
 fayles
@@ -7328,7 +7328,7 @@ fronds 2
 fearnaught 3
 frampold
 favour 1
-fulcrum 2
+fulcrum 3
 feathered
 focimeter 2
 fiddleheaded
@@ -7379,7 +7379,7 @@ fortunous 2
 feedlots 3
 flyness 1
 fistnote 7
-flaccidity 6
+flaccidity 7
 forbidals 6
 fasted
 featous
@@ -9640,7 +9640,7 @@ forhooy 2
 fothering 1
 forehold 1
 flagellant 1
-fretting 2
+fretting 3
 florilage
 fussing 2
 fatalists
@@ -9735,7 +9735,7 @@ fonted 3
 flied
 feaking 1
 fluing 3
-fruitgrower
+fruitgrower 1
 furcellaria 2
 feoffor 1
 frankensteins 1
