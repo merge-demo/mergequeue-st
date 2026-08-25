@@ -449,7 +449,7 @@ butanal 1
 bugbear
 blolly 1
 backsite 1
-benzolize 2
+benzolize 3
 besugar 1
 bristlebird
 bucketmaking 1
@@ -593,7 +593,7 @@ bistro
 baragouinish 2
 brutishly 3
 blessers
-birdie 3
+birdie 4
 bibliolatry 3
 baconize 1
 baconweed 1
@@ -761,7 +761,7 @@ badges 2
 badging 3
 buddhism 2
 banksman 1
-bifrost
+bifrost 1
 badiaga 1
 boneshaw
 bannerman
@@ -2219,7 +2219,7 @@ bradyauxetic
 baraita 2
 boschboks 1
 bewilders 2
-bestove 2
+bestove 3
 bromocyanid 1
 backflash 1
 briscola 3
@@ -3213,7 +3213,7 @@ byland 1
 bhaga 1
 blastozooid 1
 bromelia 1
-beadily 1
+beadily 2
 bangash 1
 basidigital 1
 bouteselle 2
@@ -4849,7 +4849,7 @@ bath 2
 boilerless 1
 brainstorm 1
 bedumbs 2
-baldacchini 1
+baldacchini 2
 bonders 1
 bencite 2
 brazilwood
@@ -6091,7 +6091,7 @@ bodge 3
 blusters
 benchful 1
 benchman
-benchmark
+benchmark 1
 burnout 1
 briggsian 1
 behooveful 4
@@ -6629,7 +6629,7 @@ berginization
 befile
 branchipodidae 1
 bicycloheptane 1
-bumpily 1
+bumpily 2
 baseheartedness 2
 bagass 2
 bergman 2
@@ -6714,7 +6714,7 @@ buffoons
 bionic
 bechalks 1
 beshrouding 3
-brakesmen 2
+brakesmen 3
 burrowers 1
 breadboxes 1
 boredoms 1
@@ -8508,7 +8508,7 @@ birminghamize 2
 bumble 2
 bifurcous
 beaches 2
-bemusk 4
+bemusk 5
 barkle 1
 bannerer
 bilingually 1
@@ -11014,7 +11014,7 @@ babysit 1
 besmoking
 botryopterid 3
 blitzkrieging
-brache
+brache 1
 backstairs 1
 bladelike
 bullyrags
@@ -11549,7 +11549,7 @@ blunnen 1
 blunt
 barristress 2
 befuddlements 2
-blunthearted
+blunthearted 1
 bonaire 1
 botanized 1
 biosystematist 2
@@ -11948,7 +11948,7 @@ bloomiest 2
 branchiopneustic
 bogeymen 1
 brut 1
-bawke 1
+bawke 2
 betweens
 begirdling 2
 boggard 1
@@ -12378,7 +12378,7 @@ borage 2
 baskets
 bomble
 blackbutt 1
-brickwall
+brickwall 1
 boombox 2
 boner 1
 beget 3
@@ -17510,7 +17510,7 @@ burbot 2
 bleak 2
 bowsprit 1
 beata 1
-bromopicrin
+bromopicrin 1
 bidenticulate
 bathukolpic 1
 bhang
@@ -17557,7 +17557,7 @@ bedirtied 2
 bellonion
 buccellarius
 bhima 2
-bobble 1
+bobble 2
 budgetful 3
 bascule 1
 bothrops 1
@@ -17636,7 +17636,7 @@ bombic 3
 bisson 3
 bisie 1
 bickerers 2
-bicentenarnaries 3
+bicentenarnaries 4
 barbacou
 benumb 1
 biographer 2
