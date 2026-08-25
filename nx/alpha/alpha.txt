@@ -13404,7 +13404,7 @@ advertize
 ascill
 anywhence 1
 appurtenance
-anywhither
+anywhither 1
 anywither
 anhalonium
 areolar
@@ -20245,7 +20245,7 @@ alluvio
 anauxite 1
 adjacence 1
 avicide 1
-androecium
+androecium 1
 arrivistes 1
 appealers 3
 assuager
