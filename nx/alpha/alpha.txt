@@ -610,7 +610,7 @@ abnormalcies
 adrenalectomies 1
 acetylcyanide
 adjure 2
-anatomical
+anatomical 1
 amynodont 1
 abococket
 abode
@@ -1743,7 +1743,7 @@ apostatizes
 ayne
 aerobacteriologist 1
 acier
-alcyoniform 1
+alcyoniform 2
 accuracies
 ada
 accursed 1
@@ -3267,7 +3267,7 @@ anisometropia 1
 ashlar
 activation 3
 azaserine 1
-actuation 3
+actuation 4
 acuaesthesia 1
 achingly 1
 acidulously 1
@@ -5668,7 +5668,7 @@ anagram 2
 amidstream
 affloof 1
 aga
-auspiciously 2
+auspiciously 3
 antilopinae 1
 acrocoracoid
 arachin
@@ -11361,7 +11361,7 @@ amphithecia
 amendableness 1
 almacen 1
 advisees 2
-amphithecium 1
+amphithecium 2
 abjures 3
 antependiums
 alterant 2
@@ -15631,7 +15631,7 @@ antineutrino 1
 acerbities 1
 ametria
 aftermatter
-anting 5
+anting 6
 absist 1
 assary
 apprehensible 1
@@ -19136,7 +19136,7 @@ asexualise 2
 arcite
 adherences
 azoch
-anisidin
+anisidin 1
 anaerobes
 armozine
 accompany
@@ -20212,7 +20212,7 @@ archesporia
 annexed
 arrhythmic 1
 arrhizal
-albugo 2
+albugo 3
 aeolodion
 athetosis 1
 arricciato 1
@@ -25104,7 +25104,7 @@ axiate 1
 atmos 1
 amphicondyla 2
 axiferous 1
-argumentation 2
+argumentation 3
 apothegms 1
 abaptistum 1
 annealed 1
