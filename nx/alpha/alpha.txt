@@ -1435,7 +1435,7 @@ acceptors
 antifreezes
 acervuline
 apocatastatic 1
-antibacteriolytic
+antibacteriolytic 1
 acceptress 2
 accepts
 attractants 4
@@ -8354,7 +8354,7 @@ aliyah
 aliipoe 2
 alikeness
 alikewise 1
-abr 1
+abr 2
 alilonghi 2
 arundinaceous
 arnaut 1
@@ -13534,13 +13534,13 @@ anaspalin 1
 aftonian
 annihilatory 1
 annihilators
-attice
+attice 1
 archartist
 acipenseroid 1
 abigeat 1
 aerostat 1
 azobenzene
-annoy
+annoy 1
 alister 1
 annoyance
 athenian 1
@@ -14597,7 +14597,7 @@ antipoetically 1
 aphelilia
 atemporal 1
 antiroyalism 1
-ambulatorial 1
+ambulatorial 2
 accreditee
 anthropophagist 1
 accoutred 1
@@ -15363,7 +15363,7 @@ attempted 1
 antispermotoxin 1
 amphicyon
 antihistaminic 1
-angiospermatous 1
+angiospermatous 2
 antidogmatism 2
 antipragmaticism 1
 attorning 1
@@ -23178,7 +23178,7 @@ antifundamentalism 2
 abiding
 altared 1
 attenuable
-automanipulative
+automanipulative 1
 attenuator
 antitheistic 1
 aliethmoidal
