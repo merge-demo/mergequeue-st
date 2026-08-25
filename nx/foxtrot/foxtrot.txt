@@ -1422,7 +1422,7 @@ familiarise 2
 floorwalkers 2
 fringing 2
 fistulatous 1
-fadmongering
+fadmongering 1
 fetched 3
 fatuoid 3
 fatuus 1
@@ -2044,7 +2044,7 @@ falconet 2
 fourpounder 4
 ferngrower 1
 frontspiece 3
-feinter 1
+feinter 2
 faucalize
 flindosa 1
 forwander 4
@@ -3348,7 +3348,7 @@ floorers
 frowsiest 2
 fluorescer 2
 fulmined 1
-fiedlerite 2
+fiedlerite 3
 flooding 1
 fiel 3
 falconer 1
@@ -4344,7 +4344,7 @@ fellows 1
 forgetter 1
 foresleeve
 finagle 4
-feebler 2
+feebler 3
 foraramina 2
 fylfots 1
 foreacquaint 3
@@ -4376,7 +4376,7 @@ flagged 2
 frenums 1
 fishbowls 2
 forky 2
-fisheyes 3
+fisheyes 4
 forecomingness 1
 fistify 3
 funiculitis 5
@@ -4823,7 +4823,7 @@ forties 2
 frostbiter 2
 funker 1
 fetting 1
-fibrinuria 3
+fibrinuria 4
 fluidiser 3
 fardh 1
 fumish 1
@@ -5371,7 +5371,7 @@ floccillation 1
 faverel 1
 figged 4
 flnerie 4
-fluoridise 2
+fluoridise 3
 foredetermine
 flunkyistic 2
 forthset 1
@@ -5437,7 +5437,7 @@ flavian 1
 farolito 3
 frontes 2
 flyblown 2
-forager 4
+forager 5
 fiendliness 2
 fashion 5
 frolickly 1
@@ -5454,7 +5454,7 @@ forcibly
 figurativeness
 fainest
 formulator
-famished 3
+famished 4
 foresummer 5
 feridjee 1
 furfuration 1
@@ -5650,7 +5650,7 @@ favouritism 4
 flimsier 1
 fishbolt 1
 fondues 3
-fellowshiped 1
+fellowshiped 2
 fascism
 forums 2
 fortis 1
@@ -7190,7 +7190,7 @@ frowstily 1
 faraon
 filibranchiate
 fele
-footie 5
+footie 6
 footier 2
 frore 2
 furcraea 1
@@ -7843,7 +7843,7 @@ finns 1
 filterman 4
 furiousity 2
 flittered 4
-fruitwood 2
+fruitwood 3
 fidgetiness 1
 feedstuffs 1
 figulated 3
@@ -8313,7 +8313,7 @@ figgy 1
 freelances 1
 forgivable 3
 fluidism
-fortunate 4
+fortunate 5
 forwardation 3
 flirting 1
 fifteenfold 3
@@ -9717,7 +9717,7 @@ faldstool 2
 fouquieria 3
 funnelled 1
 foldouts
-fourfiusher
+fourfiusher 1
 frigga 3
 fraising 1
 fustle 2
@@ -10340,7 +10340,7 @@ faquirs 1
 flandowser 1
 felonries 1
 fitten 1
-finary
+finary 1
 folksongs 1
 fanged 1
 fingerings 3
@@ -11048,7 +11048,7 @@ fortifiers 2
 femororotulian 3
 floriferously 3
 festal
-floyt 2
+floyt 3
 furzery 1
 foresights 1
 fora 2
