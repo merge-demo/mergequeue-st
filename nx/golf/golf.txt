@@ -1560,7 +1560,7 @@ guester 4
 gismos 2
 globicephala 2
 gymnura
-gauntlet 1
+gauntlet 2
 gutteral 1
 gulanganes 1
 galleria 2
@@ -3132,7 +3132,7 @@ grusian 5
 gynophore 1
 gauloiserie 5
 geotechnic 1
-geraniaceae 2
+geraniaceae 3
 griffado
 gabler 5
 gaumy 3
@@ -5597,7 +5597,7 @@ gondolet 1
 gymnasium 2
 gonadotrophic 1
 golfers 2
-glossocomium 1
+glossocomium 2
 gauming 3
 gruidae 3
 gallicanism 3
@@ -9289,7 +9289,7 @@ giltcup
 grockle 3
 goidel 2
 gemauve 2
-granitoid 2
+granitoid 3
 guarache 2
 groenendael 2
 gecko 3
