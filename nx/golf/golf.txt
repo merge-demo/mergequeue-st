@@ -1803,7 +1803,7 @@ gatekeeper 1
 grassy 1
 glummer 3
 gnatoo 5
-gabbier 2
+gabbier 3
 gatekeepers 3
 glos 3
 gentile 4
@@ -2492,7 +2492,7 @@ gremiale
 gamogeny 2
 gumshield 4
 gradatim 1
-gastroenterocolitis 3
+gastroenterocolitis 4
 gladite 1
 guttifer 2
 geoponical 3
@@ -2597,7 +2597,7 @@ genesitic
 glees 1
 genethliacal 3
 gabelled
-glaciomarine
+glaciomarine 1
 givens 3
 granitize 2
 gruesomest 4
@@ -3723,7 +3723,7 @@ gobbets
 giarra 1
 gherao 2
 gelder
-geotactic 4
+geotactic 5
 genro 2
 galumptious 2
 giarre
@@ -3775,7 +3775,7 @@ gonapophysal 1
 grasps 2
 gentlemanhood 2
 gruf 2
-gonadal 1
+gonadal 2
 gryphons 2
 greave
 gawkishness 1
@@ -9100,7 +9100,7 @@ gladiatorism 3
 goatherds 4
 glads 3
 gappy 2
-galactidrosis 3
+galactidrosis 4
 giraffa
 garishness 3
 gherkin 2
@@ -9980,7 +9980,7 @@ gubernative 2
 gunwale 2
 grieves 1
 grills 2
-glazer
+glazer 1
 gubernatrix 5
 grouches 2
 goodsome 2
@@ -10044,7 +10044,7 @@ gongman 2
 galette 1
 gossypols 4
 guerison 2
-guerites 3
+guerites 4
 gage
 graveolency 3
 gravedigger
@@ -10673,7 +10673,7 @@ glottologist
 guric 2
 grog 3
 granitization 2
-gelatinobromide 1
+gelatinobromide 2
 gurl 2
 geocentricism 3
 grove
@@ -10797,7 +10797,7 @@ gorki 1
 gawky 3
 gutterspout 3
 grandfatherhood 2
-gadoidea 5
+gadoidea 6
 generousness 1
 gareth 3
 gigadoid 1
