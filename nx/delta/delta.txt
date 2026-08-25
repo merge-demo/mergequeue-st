@@ -1253,7 +1253,7 @@ disserve 1
 datelining 3
 datemark
 disenter 1
-dentalise
+dentalise 1
 drink 2
 durational
 daterman
@@ -14209,7 +14209,7 @@ dynamoscope 1
 dibbles
 defeater
 deathful 2
-disuse 1
+disuse 2
 desquamate 1
 disbranching 1
 disuses 3

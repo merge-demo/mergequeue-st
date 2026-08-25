@@ -311,7 +311,7 @@ fplot 5
 fluxionary 1
 feods 3
 forces 2
-fail 2
+fail 3
 fireplough 3
 faineancy 4
 fayles
@@ -9735,7 +9735,7 @@ fonted 3
 flied
 feaking 1
 fluing 3
-fruitgrower
+fruitgrower 1
 furcellaria 2
 feoffor 1
 frankensteins 1
