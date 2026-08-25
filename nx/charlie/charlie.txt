@@ -401,7 +401,7 @@ calliphora 1
 cacophonic 1
 cacophonically 1
 cacophonists 2
-calyptrate 3
+calyptrate 4
 cacophonous 1
 craggiest
 cacoplasia 1
@@ -518,7 +518,7 @@ cellobiose 1
 czechoslovakian
 crapple
 coascend 1
-characterologically 1
+characterologically 2
 cadenzas 1
 cees 1
 corymbous
@@ -895,7 +895,7 @@ cucularis
 cazibi
 cajeput
 correligionist 2
-climaxes 1
+climaxes 2
 cajeputole 1
 cajeputs 1
 census 2
@@ -1289,7 +1289,7 @@ coolabah 1
 calenture 1
 copus 2
 cerulignone 2
-calentured
+calentured 1
 calepin
 calesero 1
 cteniform 1
@@ -1340,7 +1340,7 @@ calycanthin 1
 cantador
 carious
 cryptogrammatist
-chaucer
+chaucer 1
 catalogues
 clubionid 1
 calyceraceae
@@ -1711,7 +1711,7 @@ calorimetrically 2
 calorimotor 2
 calorist 1
 calorizing 1
-cawing
+cawing 1
 calosoma 1
 calotermes 1
 calotype
@@ -1719,7 +1719,7 @@ cosey 1
 cyclodiolefine 2
 contrasty 3
 calotypic 1
-calotypist
+calotypist 1
 crossbolt 2
 congratulated
 cryptovalency
@@ -2301,7 +2301,7 @@ canafistola
 canafistolo 3
 canafistula 1
 canafistulo 1
-chlorapatite
+chlorapatite 1
 concertgoer
 canaglia 1
 canaigre
@@ -2426,7 +2426,7 @@ coruminacan
 canceller
 cancellous
 cancelment 1
-cessment 3
+cessment 4
 containerize 1
 chimneys 1
 culicine
@@ -2476,7 +2476,7 @@ cicatrix
 carpers 1
 coffeeberry 1
 cancrinite 1
-cancrisocial
+cancrisocial 1
 clientele 1
 contuse 1
 crystallitic 1
@@ -3285,7 +3285,7 @@ christianized 1
 cetera 2
 capitellate
 canteen
-capitellum
+capitellum 1
 capitle 1
 cerebrum
 compenetrate 2
@@ -3449,7 +3449,7 @@ caprifoliaceae 2
 caprifolium
 capriform 1
 caprylic
-cymene
+cymene 1
 caprylyl
 coat 1
 caprylone
@@ -4217,7 +4217,7 @@ cardo 2
 cardona
 colorum 2
 cardoon 1
-cardoons
+cardoons 1
 cardophagus
 clearwing
 carbamido
@@ -4462,7 +4462,7 @@ circumfusion 2
 colubridae
 companionage
 corallic
-canarin
+canarin 1
 carl
 coprincipate 1
 caseates
@@ -5263,7 +5263,7 @@ cyans
 chefdom 1
 consecute
 calemes 1
-cassandra 1
+cassandra 2
 conc 1
 crawthumper
 cokeman
@@ -5685,7 +5685,7 @@ catapultier
 colthood 1
 cataracts 1
 cataractwise
-catarrhal
+catarrhal 1
 col
 catarrhina 1
 charlie
@@ -5899,7 +5899,7 @@ catercap
 camsteary 1
 caller 1
 catercornered
-catered
+catered 1
 codpiece 2
 caterer 1
 caterers
@@ -5981,7 +5981,7 @@ cathedratic 1
 cathedraticum
 cathepsin 1
 cathern
-catties 1
+catties 2
 cattail
 catheterise
 clienteles 1
@@ -6111,7 +6111,7 @@ catonically
 cli 1
 catoptric 1
 canaan 1
-clippable 1
+clippable 2
 catoptrically
 curtise
 conquerors
@@ -7107,7 +7107,7 @@ commonplaceism 1
 crossties 2
 centiplume
 carrozza
-centistere
+centistere 1
 centistoke 1
 cardipericarditis 1
 clairvoyancies 3
@@ -7670,7 +7670,7 @@ combustively 1
 cerithiidae 1
 cerithium 2
 ceriums 1
-corambis 1
+corambis 2
 chloroplatinite
 cermet 1
 cyamid 1
@@ -8870,7 +8870,7 @@ cochylis
 charadrius 1
 charango
 chorioidal
-colibacillosis
+colibacillosis 1
 chuddars
 charases
 charbonnier 3
@@ -9000,7 +9000,7 @@ charlatanistic 2
 charlatans
 charleys
 compaa 1
-collocutor
+collocutor 1
 cosmopolitic
 ctrl
 charlene
@@ -9357,7 +9357,7 @@ cumbrance
 colds 2
 chavante
 chavantean
-chavel
+chavel 1
 chavender 1
 confirmment
 compart
@@ -12086,7 +12086,7 @@ carpophalangeal
 calcydon
 chose 1
 chophouses
-coursed 1
+coursed 2
 choses 1
 chott
 chunky
@@ -12802,7 +12802,7 @@ chumps
 chums 1
 cruth 3
 concise
-chumship
+chumship 1
 comdia 1
 chumships 1
 clonism
@@ -13365,7 +13365,7 @@ cyclostoma 2
 chasers 1
 centaurium 2
 ceration 1
-coformulator 2
+coformulator 3
 ciphony 1
 consubstantiationist
 capon 1
@@ -13798,7 +13798,7 @@ chromocenter 2
 culpably
 chkfil
 cinematographies
-cinematographist 2
+cinematographist 3
 chords
 contortive
 carpophore
@@ -13990,7 +13990,7 @@ chiliarch
 coxwaining
 contacted
 counterparadox
-curneys 1
+curneys 2
 congees 2
 cyphella 5
 cypher
@@ -14952,7 +14952,7 @@ capsize
 clouring 1
 contorsion
 chlorpropamide
-counterparallel
+counterparallel 1
 crossjack
 citreous 1
 confabulates
@@ -15430,7 +15430,7 @@ clarifiant
 clarificant
 clarification 1
 clarifier 1
-clarifiers 2
+clarifiers 3
 chiefry
 clarifying
 clarin
@@ -15811,7 +15811,7 @@ clearinghouses 1
 clearings 1
 clearish 1
 cerealian
-cribrosity
+cribrosity 1
 clearsighted
 carludovica
 coprostasia 2
@@ -16040,7 +16040,7 @@ counterbeating 1
 clewgarnet
 clewing 1
 cly 1
-cooruptibly
+cooruptibly 1
 cliack
 clubmobile 1
 clianthus
@@ -16184,7 +16184,7 @@ clinamen 2
 clinamina
 clinandrdria 1
 clinch 3
-cardiospermum
+cardiospermum 1
 considerations
 chromatocyte
 circuities 2
@@ -16292,7 +16292,7 @@ clints 1
 conjugial
 clio
 cresses 1
-canterer 1
+canterer 2
 clipboard
 clipboards 2
 clypeastridea
@@ -16430,7 +16430,7 @@ cordelled
 cloacitis
 chervil
 corsned
-conjecturer 1
+conjecturer 2
 cloaklet
 culbert 1
 cowichan 2
@@ -17508,7 +17508,7 @@ centavos 1
 cobwebby
 coca
 cherup 1
-curf
+curf 1
 cocaceous
 chorioepitheliomas
 cephalopodic
@@ -18456,7 +18456,7 @@ cograil 3
 chilipepper 2
 crestmoreite 2
 chaogenous 2
-coguarantor 1
+coguarantor 2
 cogway 1
 cerite 1
 cogweel
@@ -19253,7 +19253,7 @@ colocynth
 connections 1
 crista
 colodyspepsia
-cuidado 1
+cuidado 2
 coloenteritis
 closefitting
 colog
@@ -19341,7 +19341,7 @@ conscriptionist 3
 cosalite 2
 colophonic
 colophons
-coloppe 2
+coloppe 3
 chrimsel
 coloproctitis 1
 coloptosis 1
@@ -20428,7 +20428,7 @@ comites 1
 compacture 2
 crumbliness
 compadre
-cantaro 1
+cantaro 2
 cinquanter
 curstfully
 conjurison 1
@@ -21327,7 +21327,7 @@ countermissile 1
 counterblow
 compunction 1
 concho 2
-conchoids
+conchoids 1
 communicableness 2
 conchol
 conchometer 2
@@ -21615,7 +21615,7 @@ condescended
 courtesying
 cariniana 2
 condescender 1
-condescending
+condescending 1
 celesta 1
 capot
 condescendingly
@@ -22113,7 +22113,7 @@ curvate
 cotraitor
 conformingly 3
 conformist
-confusably 1
+confusably 2
 conformists
 circinus
 clogging
@@ -23151,7 +23151,7 @@ curupay
 ck 1
 conceits 3
 constellated
-constellating
+constellating 1
 constellation
 caponatas 1
 cigarettes 1
@@ -23996,7 +23996,7 @@ consequences
 clonally 1
 cl 1
 caffeina
-calisthenic
+calisthenic 1
 cytogenesis
 consubstantial
 cannibalize
@@ -24230,7 +24230,7 @@ convocative
 cantabrize 1
 catbriers 1
 convoyed 2
-convoying 2
+convoying 3
 carboxypeptidase
 convoked
 centigram
@@ -24746,7 +24746,7 @@ chalcididae 1
 copremias 1
 copresbyter 1
 cuing 1
-copresence
+copresence 1
 coprinus 3
 christs 1
 coprisoner 2
@@ -25663,7 +25663,7 @@ coprah
 corpulencies 1
 cosignificative 2
 consolamentum
-commingle 3
+commingle 4
 clankum
 corsair
 cannula
@@ -25696,7 +25696,7 @@ correctioner 1
 conformities 2
 corrective 1
 calahan
-countryman
+countryman 1
 correctively
 computers 2
 correctiveness 1
@@ -25944,7 +25944,7 @@ catchier
 corticine 1
 corticipetal 1
 collegiate
-corticoafferent 2
+corticoafferent 3
 corticoline 1
 calories 1
 corticolous 1
@@ -26975,7 +26975,7 @@ coinfeftment
 chromophor 2
 circumsciss 2
 carburizing
-countermoved
+countermoved 1
 casebound
 cerebralist
 countermure 3
@@ -30194,7 +30194,7 @@ cornuses 1
 christ 1
 comandra 2
 chondroglossus 1
-cyanemia
+cyanemia 1
 craftily
 cryptocleidus 1
 cruciformity
@@ -30357,7 +30357,7 @@ cabaretier 1
 crurotarsal
 crus 2
 chocolatier 2
-crusade 1
+crusade 2
 crusaded
 chops 1
 civilities
@@ -31677,7 +31677,7 @@ cushioned
 cushionet 1
 cushionflower 1
 cushioning 2
-celestial 1
+celestial 2
 cowardy
 conveyorize 1
 cushionless 1
