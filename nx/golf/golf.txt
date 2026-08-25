@@ -1401,7 +1401,7 @@ gcd 4
 gangplow
 galvanopsychic 1
 gossipee 1
-gipsying
+gipsying 1
 guilloche 5
 garreteer 1
 greenless
@@ -3660,7 +3660,7 @@ goes 1
 gabbling 4
 gaugership 2
 grumpier
-ghostly 6
+ghostly 7
 gaura 1
 ghostwriter 3
 ghostwriters 2
@@ -4722,7 +4722,7 @@ globes 4
 grifter
 garrnishable 2
 gizz 1
-gorgoniaceous 1
+gorgoniaceous 2
 gizzard 2
 glimmerings 1
 gonydeal
@@ -5659,7 +5659,7 @@ girland 4
 glandulous 3
 gallophile 1
 gossoon 2
-gristliest 3
+gristliest 4
 greenlandman 7
 gnomonia 3
 gentilesse 4
@@ -6489,7 +6489,7 @@ gadwalls 2
 goll 1
 guddling 2
 genetic 1
-glaikitness
+glaikitness 1
 gariba 2
 galvanocautery 1
 golly 8
