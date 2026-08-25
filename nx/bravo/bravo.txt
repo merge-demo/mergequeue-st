@@ -1101,7 +1101,7 @@ buncos 3
 bibliomanian
 brent
 burel 1
-bayonets 1
+bayonets 2
 benefactors 1
 bifacial 3
 blksize 2
@@ -1109,7 +1109,7 @@ bayong 1
 babongo 3
 baloney 1
 bairagi 1
-bismarckianism 1
+bismarckianism 2
 bairdi 1
 bumbailiff 1
 beneficency
@@ -1163,7 +1163,7 @@ bridges
 baitfish 1
 buffeter 1
 ballard 1
-baiting 1
+baiting 2
 bethanking 1
 baittle
 baywoods 1
@@ -1868,7 +1868,7 @@ battlepiece
 bollito
 bandeau 4
 betula
-boyology
+boyology 1
 bancus
 backstabber
 bandelette 2
@@ -2087,7 +2087,7 @@ betraise
 bankrupture
 basilissa
 blatherskites 2
-banksian
+banksian 1
 blowtubes 3
 barreleye 1
 bouet
@@ -4660,7 +4660,7 @@ beltmaking 1
 bhikhari
 briquetted 1
 bedfellows 1
-buildable
+buildable 1
 barlows 3
 bedford
 brothier 1
@@ -5355,7 +5355,7 @@ brevicipitidae 1
 bacteriogenic
 blueweed 2
 besoothement 1
-biflecnode 1
+biflecnode 2
 buyable 1
 bromobenzene 2
 barodynamic
@@ -7677,7 +7677,7 @@ bilk
 brahmany 1
 boe 1
 blackflies 2
-biocenotic 1
+biocenotic 2
 bezils 2
 boyardom 2
 babished 2
@@ -8390,7 +8390,7 @@ bashawdom 2
 bigwig 2
 bigwiggery
 biomass
-beryllia 2
+beryllia 3
 babu 3
 brombenzene 2
 brachygraphic 1
@@ -10187,7 +10187,7 @@ biddie
 bloodfins 1
 bignoniaceae 1
 blackfishing 2
-bufferrers 1
+bufferrers 2
 beroida
 bid 1
 badgering 2
@@ -13817,7 +13817,7 @@ bemuffle 1
 brachychronic 1
 bramblebush
 blabberer 1
-butters 1
+butters 2
 biocides
 bywoner 1
 babesias 2
@@ -14354,7 +14354,7 @@ brahmanism
 brahmanist 1
 brachistochronous
 brahmanize 2
-bajoire
+bajoire 1
 benched 2
 bracers 1
 brahmapootra 1
@@ -16674,7 +16674,7 @@ buckboards 2
 bathycolpian
 bailpiece 1
 bloodspiller 1
-busker 1
+busker 2
 brassidic 2
 blocage 1
 banquetings 1
@@ -17726,7 +17726,7 @@ benempt 2
 billian
 bedlamize 1
 blastophaga 1
-bemuzzled 1
+bemuzzled 2
 bott
 bewinged 2
 burnfire 2
