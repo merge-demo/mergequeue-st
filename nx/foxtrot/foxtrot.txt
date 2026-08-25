@@ -887,7 +887,7 @@ fleabug 1
 ferrate 4
 faquir
 farad
-faradaic
+faradaic 1
 filleted 2
 fluorometer 3
 flamed 2
@@ -932,7 +932,7 @@ fluorids 1
 fastigiums 1
 forkers 2
 fillagreed 2
-fardage
+fardage 1
 farded 2
 foddering 2
 foyers 1
@@ -2087,7 +2087,7 @@ frightened 1
 floria 1
 foredefine 1
 fainty 1
-fesapo 2
+fesapo 3
 filletlike 1
 fear 4
 firmers
@@ -3255,7 +3255,7 @@ fluorinate 1
 fittit 2
 foreknowledge 3
 freestanding 2
-forthrightly 1
+forthrightly 2
 faradizer 2
 flaught 4
 filbert 2
@@ -5791,7 +5791,7 @@ faunated 5
 foreheads
 fulgurant
 fribble 1
-family
+family 1
 fevertwig 3
 flambee 1
 frett 1
@@ -8545,7 +8545,7 @@ formylal 2
 farnovian 2
 fiuman 2
 fanaticising 1
-forbearance
+forbearance 1
 forminate 1
 forming
 formless 2
