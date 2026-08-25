@@ -1004,7 +1004,7 @@ farinosel 2
 foussa 2
 fulfill 1
 farmeress 3
-fireling 1
+fireling 2
 flerrying 3
 farmerly 1
 forrel
@@ -1208,7 +1208,7 @@ fortifications 5
 funkias
 formene 2
 furbishment 3
-flagellosis 3
+flagellosis 4
 foredeem 1
 flaccidly 2
 frizzily
@@ -1446,7 +1446,7 @@ flix
 flavorings 1
 fruiter 2
 favourable 1
-friedman 1
+friedman 2
 fundholder
 flamer 1
 foreshows 2
@@ -3269,7 +3269,7 @@ feelings
 fiddlecome 1
 fracedinous 3
 fiddlefaced 3
-fld 2
+fld 3
 fumous 1
 fiddlerfish 1
 fraticellian 1
@@ -6296,7 +6296,7 @@ fescennine 1
 fluked 3
 fertilisability 3
 forestaller 6
-fuliginosity 3
+fuliginosity 4
 fluent 3
 flukeworm 2
 fetted
@@ -6546,7 +6546,7 @@ flensing 1
 flutterment 2
 flimflammed 3
 fluviolacustrine 2
-fleetly
+fleetly 1
 funereal 2
 frigor 2
 foretack 4
@@ -6719,7 +6719,7 @@ felted 1
 frounced 2
 fogo 6
 frescoists
-fighters 4
+fighters 5
 feast 1
 fellowships 2
 forelegs 2
