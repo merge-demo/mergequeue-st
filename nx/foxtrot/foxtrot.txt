@@ -520,7 +520,7 @@ falconinae 2
 favoredness 2
 fleeces 2
 forfeiter
-flatdom 2
+flatdom 3
 funambulant
 folium 2
 falcons 5
@@ -1196,7 +1196,7 @@ frustrately 1
 forereport 2
 firmitude 1
 frigidity 1
-fenders 2
+fenders 3
 flexural 2
 flinched 1
 fatuities 3
@@ -2245,7 +2245,7 @@ filesave 1
 fainaiguer 1
 femora 3
 fatil 2
-fain 1
+fain 2
 fenced 4
 fencelessness 1
 forkiest 3
@@ -3350,7 +3350,7 @@ fluorescer 2
 fulmined 1
 fiedlerite 3
 flooding 1
-fiel 3
+fiel 4
 falconer 1
 forgetive 2
 firmisternia 1
@@ -4519,7 +4519,7 @@ forslake 3
 flooded 1
 fountainhead 2
 fructify 3
-famille 2
+famille 3
 fortread 2
 finickiest 1
 fluctuability
@@ -4763,7 +4763,7 @@ follies 2
 fortress 5
 fatefulness 1
 fulth 2
-forereach 2
+forereach 3
 flagellations 4
 fingal 1
 footwalls 2
@@ -5878,7 +5878,7 @@ feelingness 2
 filariae 1
 frocklike 1
 film 2
-fluctuation 6
+fluctuation 7
 fillagreing 1
 festine 1
 fecund 2
@@ -6286,7 +6286,7 @@ factory 2
 fluigram 1
 filestatus 2
 frankincensed 2
-forsakenly 1
+forsakenly 2
 fenestellidae 2
 flybelts
 foundation 1
@@ -8324,7 +8324,7 @@ fractious 1
 feists 2
 frequenter 1
 flump 3
-forehoof 4
+forehoof 5
 frontlets
 flintify 3
 finableness
@@ -8425,7 +8425,7 @@ filed 4
 frass
 foot 3
 framers 2
-ferried 2
+ferried 3
 flusterating
 fiddlerfishes 2
 firmans
@@ -9575,7 +9575,7 @@ furcilia 1
 flitches 3
 farcinoma
 fricatrice 2
-flawn 1
+flawn 2
 flamines
 freaks 2
 fatiguingly 2
@@ -9598,7 +9598,7 @@ findfault 2
 fullers 3
 foliated 1
 fyrd 3
-felicitate
+felicitate 1
 floreated 2
 forgone 3
 foller
@@ -9735,7 +9735,7 @@ fonted 3
 flied
 feaking 1
 fluing 3
-fruitgrower
+fruitgrower 1
 furcellaria 2
 feoffor 1
 frankensteins 1
@@ -9872,7 +9872,7 @@ fluorenyl 1
 freddy 2
 freudist 2
 foretrysail 4
-friar 4
+friar 5
 fremitus 2
 filchingly
 fellated 1
@@ -11067,7 +11067,7 @@ flanerie 1
 fumishing 4
 friendliness 1
 fermented 2
-fungated 2
+fungated 3
 fere
 fascias 2
 funambulator 1
@@ -11700,7 +11700,7 @@ filets 1
 fracas
 fas 4
 far 1
-foretellableness 1
+foretellableness 2
 flugelhorn
 fasciola 2
 fernsick
