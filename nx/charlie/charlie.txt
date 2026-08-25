@@ -14,7 +14,7 @@ cabaho 1
 cabal 2
 condylarthrous 2
 cryptostoma 1
-chevance 1
+chevance 2
 chaenomeles
 cows 1
 crease
@@ -8120,7 +8120,7 @@ chainmaker 1
 catharization
 chainman 1
 chainmen
-celiomyositis
+celiomyositis 1
 cultists 1
 capistrate 3
 chowdered
@@ -12887,7 +12887,7 @@ churchwardenism 1
 columbines
 churchwardenize 1
 constitutionless 1
-churchwardens
+churchwardens 1
 churchwardenship 2
 churchwoman
 churchwomen 2
