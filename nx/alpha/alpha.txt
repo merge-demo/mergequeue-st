@@ -1436,7 +1436,7 @@ antifreezes
 acervuline
 apocatastatic 1
 antibacteriolytic
-acceptress 1
+acceptress 2
 accepts
 attractants 4
 apellous 1
@@ -3390,7 +3390,7 @@ anthranil 1
 antipolyneuritic 1
 adamantinoma 1
 adamantness 1
-actinochemical
+actinochemical 1
 aphthongia 2
 adamantoblast 1
 archery 2
@@ -5493,7 +5493,7 @@ afrikanderdom
 ascher
 afrit 1
 attacher 1
-armary
+armary 1
 acetotoluidine 1
 adored 1
 aulic
@@ -7197,7 +7197,7 @@ alabamide 2
 alabamine 2
 armillaria 1
 alkalinizes 2
-atellan
+atellan 1
 aphizog 1
 alabastrian
 akazgine 2
@@ -7622,7 +7622,7 @@ alcazaba
 apophonic
 anisomeles 1
 agrafe 2
-adamance 1
+adamance 2
 actability 1
 agrostographer 1
 asymptotical 2
@@ -12853,7 +12853,7 @@ androgyn 1
 asseize
 appositional 2
 angiopressure 1
-angiorrhaphy 2
+angiorrhaphy 3
 absurdist 2
 angiorrhea 2
 armorwise
@@ -18878,7 +18878,7 @@ asphodeline
 aghastness 1
 archicerebrum
 archichlamydeae
-archidamus 1
+archidamus 2
 amninia 1
 adherer 1
 anatropia 1
@@ -22449,7 +22449,7 @@ astronomical 1
 ajenjo 2
 acylate
 astronomics 2
-astronomize 2
+astronomize 3
 autophone 1
 aragallus
 agami
@@ -22797,7 +22797,7 @@ autokrator
 anomalurus 2
 arrears 4
 annulets
-atlantosaurus 2
+atlantosaurus 3
 atlases
 aguara
 annulling 1
@@ -23689,7 +23689,7 @@ auriculotemporal
 auriferous 1
 appreciational 1
 auxograph 1
-axlike
+axlike 1
 aurify 1
 aurific
 aceology 1
@@ -24112,7 +24112,7 @@ abbeystead 2
 autogenies
 amylate 3
 applenut 1
-amenable 2
+amenable 3
 acutate
 accelerating 1
 aureoles 1
