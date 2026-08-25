@@ -934,7 +934,7 @@ caky 1
 clientelage 1
 conformant
 consecration
-cols
+cols 1
 collagist 2
 chazzanut
 cakravartin
@@ -2924,7 +2924,7 @@ cackled 1
 cantaloup
 careerer 2
 cantaloupes 2
-catboat
+catboat 1
 cantando 1
 cantankerous
 capsizable 1
@@ -2936,7 +2936,7 @@ cantara 1
 cantare 1
 counterseal 1
 concaulescence
-chrysoidine
+chrysoidine 1
 cantatas 2
 cantation
 cantatrice 1
@@ -3160,7 +3160,7 @@ chondrocele 2
 capelins
 cliffing
 capella
-coatimondie 1
+coatimondie 2
 closemouth 1
 caper 1
 caperbush 1
@@ -3299,7 +3299,7 @@ capitoline 2
 capitolium
 crabbit
 capitula 2
-crumbiest
+crumbiest 1
 cutiduris
 couchancy
 capitulant
@@ -4431,7 +4431,7 @@ cytogenetics 2
 caryophyllus 1
 cares
 chicayote 2
-crucifixions 1
+crucifixions 2
 curite 3
 cutesy
 cartisane
@@ -5448,7 +5448,7 @@ clitocybe 3
 castles
 cortaderia
 cordies 1
-castlet
+castlet 1
 candlesticked 1
 confront 2
 casaque 1
@@ -7742,7 +7742,7 @@ convect 1
 cystein
 coelialgia 1
 certifies
-coys 1
+coys 2
 certiorate
 certis 1
 certitudes 2
@@ -9938,7 +9938,7 @@ chena 2
 chenar 1
 cheneaus 1
 collaborations
-crystallophyllian 1
+crystallophyllian 2
 conspurcate
 cambists
 crescographic 1
@@ -14173,7 +14173,7 @@ circumantarctic 3
 circumarticular 1
 circumaviate 1
 circumaviator
-cowlike 1
+cowlike 2
 circumaxial 1
 cobles 1
 circumaxillary
@@ -14656,7 +14656,7 @@ cistori 1
 conforbably 1
 chayote 1
 cowbyre
-cyanogenetic
+cyanogenetic 1
 colorimeter 1
 cystoschisis 2
 cariole 2
@@ -15648,7 +15648,7 @@ cartilaginification
 clausthalite
 claustral 1
 claustration
-characinoid 1
+characinoid 2
 concludence 1
 coenoecium
 claustrophilia 2
@@ -16765,7 +16765,7 @@ clouee
 culpon 2
 congested
 cloughs
-cloured 1
+cloured 2
 cohabiting
 cotyliform
 cuckoldom 1
@@ -30826,7 +30826,7 @@ commerciable
 cullies 2
 conveyance
 clarigold
-cullionly
+cullionly 1
 cullisance 2
 cotterel 5
 cannibalish 1
