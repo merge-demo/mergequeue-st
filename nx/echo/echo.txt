@@ -2465,7 +2465,7 @@ ellipsoids 3
 eurythmical 1
 engrosses
 enstatite 2
-electrogasdynamics 1
+electrogasdynamics 2
 electroharmonic 2
 empanelment 1
 electrohemostasis 2
@@ -2954,7 +2954,7 @@ erotic 1
 endoplast 1
 etrogim
 electrotype
-encamped
+encamped 1
 eliminant
 ennoblers 3
 externalising 1
@@ -12273,7 +12273,7 @@ enchases 1
 expertized 3
 encommon
 executrixes
-evolutionarily 1
+evolutionarily 2
 expounding 1
 exasperative 1
 execrated
@@ -12562,7 +12562,7 @@ existentialistically 1
 eupione 1
 enzymology 1
 exculpative 2
-extoolitic
+extoolitic 1
 enactable 3
 esonarthex 1
 enameler 1
@@ -12724,7 +12724,7 @@ emoters 1
 emparadise 3
 embattle
 electromyographical 1
-exodontics
+exodontics 1
 estrogenically 3
 etoffe 4
 exonian 1
