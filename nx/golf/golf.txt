@@ -119,7 +119,7 @@ gardenership
 grosz 3
 genotypicity 1
 giher 2
-ginete 1
+ginete 2
 gastly 3
 gazogene 3
 gypsyhood 1
@@ -2051,7 +2051,7 @@ grandbaby 2
 gamblers 1
 gyrocompasses 3
 glottology 4
-guilefully 1
+guilefully 2
 gawgaw 1
 goldenseal 2
 gestes
@@ -2287,7 +2287,7 @@ gelatinating 3
 greyfish
 geognosis 2
 guaranis 1
-gondoliere 2
+gondoliere 3
 ge 1
 gagsters 1
 gingival
@@ -2410,7 +2410,7 @@ gekkones 1
 gimels 1
 grillage 2
 graniferous 1
-gotched 2
+gotched 3
 glycohemia
 gainsayer 2
 ghoulish
@@ -3433,7 +3433,7 @@ glasgow 1
 gallophobia 4
 gourdlike 4
 gallous 1
-gentling 2
+gentling 3
 griefful 1
 gip 5
 glathsheim 2
@@ -3817,7 +3817,7 @@ gatekeep 4
 grant 1
 girrock 2
 graining 5
-guls
+guls 1
 gucked 1
 groszy 1
 gels 2
@@ -3916,7 +3916,7 @@ gynecocratical 1
 gracile 3
 guano 3
 gagers
-grassnut 3
+grassnut 4
 grex 2
 gluttonousness 3
 graphometrical 3
@@ -4389,7 +4389,7 @@ gunshots 1
 graminology
 gommelin
 grandsire
-generics 1
+generics 2
 giocoso 3
 gpd 3
 gleba 1
@@ -4441,7 +4441,7 @@ guzzling 2
 gyromele 3
 gangliitis 4
 gorgio 1
-groovy 1
+groovy 2
 gays 1
 grubbers 2
 galactemia 4
@@ -5308,7 +5308,7 @@ gombeenism 4
 goofer
 gonopod 1
 generalisation 1
-goiters
+goiters 1
 gormands 3
 ganoses 1
 gipsyism 2
@@ -5474,7 +5474,7 @@ gerridae
 goldish 1
 garnishment 4
 gadaria 1
-gastroparietal
+gastroparietal 1
 gazingly 2
 gadrooned
 garring 1
@@ -5643,7 +5643,7 @@ gentlefolks 2
 gnatlike 1
 glissando 2
 ginglymodian 2
-grandsons 2
+grandsons 3
 grafts
 grumes 4
 glorying 2
@@ -5998,7 +5998,7 @@ grin 2
 gentry 2
 gusting 2
 glossoplasty 1
-guanabana 1
+guanabana 2
 gnarly 5
 gourdes 4
 gnarliest 3
@@ -6588,7 +6588,7 @@ galeass 2
 grenadiers 2
 gigolos 1
 graphalloy
-good 5
+good 6
 gurglets 1
 galipidine
 glossological 2
@@ -8069,7 +8069,7 @@ gongorism
 gan 2
 galempung
 galleries 1
-gravicembali 2
+gravicembali 3
 gravat 2
 gunzian 1
 gearman 3
@@ -9440,7 +9440,7 @@ gymnodontes 3
 gluttingly 4
 geonic 1
 gotchy 3
-greekery 4
+greekery 5
 grounden
 greens 5
 gallybeggar 1
@@ -9620,7 +9620,7 @@ goiter 4
 grizzlier 2
 guarish 2
 gummite 2
-grandma
+grandma 1
 gatefold 1
 guisarme 1
 galvanomagnetic 5
@@ -10051,7 +10051,7 @@ gravedigger
 gelofer 2
 gimmal 2
 gyneconitis 2
-grabens 1
+grabens 2
 gumshoed 8
 gonomere 2
 gorgerin 3
