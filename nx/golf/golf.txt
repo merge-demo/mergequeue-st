@@ -488,7 +488,7 @@ gravimetrical
 gelatin 2
 gye 3
 glaucodot
-gluteus 1
+gluteus 2
 gulaman 4
 grama 2
 geminations 4
@@ -4120,7 +4120,7 @@ gauds 3
 glaswegian 2
 gibbeted 1
 gelofre 1
-genealogy 3
+genealogy 4
 gollar 3
 gaspergou 1
 gienah 2
@@ -4538,7 +4538,7 @@ guarantees 4
 glycerizin 5
 gallingly 2
 gufought 1
-galbulae
+galbulae 1
 galipoipin 3
 gnaphalium
 gymnanthes 4
@@ -4616,7 +4616,7 @@ geomorphologic 1
 ghostily 1
 glossarian 2
 gerbilles 3
-glyceride 1
+glyceride 2
 glassin 2
 guisard 4
 glycuronic
@@ -9144,7 +9144,7 @@ gillenia 4
 grammatically 3
 goading 1
 gratings 3
-gareh 1
+gareh 2
 galvanometric 1
 gaffers 2
 grammaticalness 1
@@ -10301,7 +10301,7 @@ gnetaceae 2
 ghettoing
 guichet 2
 gnathions 2
-gimper 7
+gimper 8
 gametic
 gearshift
 girondin
@@ -10565,7 +10565,7 @@ grasset 2
 gunmetal 4
 guacico 3
 guebre 3
-grecoue 2
+grecoue 3
 giftedly 1
 gurmukhi 2
 goffering 3
