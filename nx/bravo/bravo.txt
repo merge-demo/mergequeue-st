@@ -2901,7 +2901,7 @@ beclatter 4
 bestride 1
 boxlike
 braked 1
-badinage
+badinage 1
 barrater
 barratries
 blabbermouth 2
@@ -10536,7 +10536,7 @@ blueprinter
 breakage
 bradyuria
 bashlik 4
-blastoporal 1
+blastoporal 2
 blastosphere 1
 balanus 1
 bromal
