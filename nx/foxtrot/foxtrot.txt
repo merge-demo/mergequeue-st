@@ -2498,7 +2498,7 @@ freightage 5
 fawningness
 feces 3
 fortunize
-fluters 3
+fluters 4
 fatales 2
 faradising 4
 ferociously 1
@@ -3013,7 +3013,7 @@ forbs 2
 functionnaire 4
 furiousness 1
 fossiform 2
-fruits
+fruits 1
 faintheartedness 1
 forma
 fiascos 3
@@ -3225,7 +3225,7 @@ fosterable 1
 fictionalize 3
 fanjets 2
 friers
-frostwort
+frostwort 1
 fuchsone 1
 forefend 2
 festered 2
@@ -4595,7 +4595,7 @@ filmist 1
 farragos 1
 forbbore 3
 forbled 3
-fighter 3
+fighter 4
 footnoting 1
 fistwise 1
 fornaxid
@@ -5275,7 +5275,7 @@ fiduciary 1
 frostbird 2
 fockle 1
 fabricable 1
-fomenter 2
+fomenter 3
 ferricyanate 1
 feelinglessly 2
 fibrilation 2
@@ -5645,7 +5645,7 @@ fireboot 3
 flyless 2
 fuddle 2
 fulgurata
-firetop 1
+firetop 2
 favouritism 4
 flimsier 1
 fishbolt 1
@@ -11611,7 +11611,7 @@ ferrado 2
 fraternal 1
 febrifugal 1
 for 1
-fetch
+fetch 1
 forcarve 1
 frough 3
 frack 1
