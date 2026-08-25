@@ -14,7 +14,7 @@ cabaho 1
 cabal 2
 condylarthrous 2
 cryptostoma 1
-chevance
+chevance 1
 chaenomeles
 cows 1
 crease
@@ -2805,7 +2805,7 @@ cannonading
 cannonarchy 1
 cannonballed 1
 commercialistic 1
-conglutination
+conglutination 1
 cannoneer 1
 capitella 1
 chemicophysiological 1
@@ -9567,7 +9567,7 @@ cheddites
 crooked
 cheders
 chedite 3
-confidences 1
+confidences 2
 chee 1
 cheecha 1
 cheechaco 1
@@ -9621,7 +9621,7 @@ cheerlead
 concreteness
 crystallinity 1
 cheerleader 1
-caesareanize
+caesareanize 1
 cheerleaders
 clarifies
 cheerleading
@@ -15158,7 +15158,7 @@ contchar 2
 clayier
 centetes 1
 clayiest
-calotermitid 2
+calotermitid 3
 clayiness
 capsuler 2
 commendably 1
@@ -15403,7 +15403,7 @@ candescently 1
 calipering 1
 chaffering 1
 canneries
-claques
+claques 1
 claqueur
 conducement
 clarain
@@ -17448,7 +17448,7 @@ cobang
 confessed
 cobber
 cobbin
-causeries
+causeries 1
 cobble 2
 capax 1
 commixes 1
@@ -18736,7 +18736,7 @@ colane
 clinching 2
 choleokinase 2
 colas
-corsaint 3
+corsaint 4
 cucurbital
 colate
 canaliculation
@@ -21662,7 +21662,7 @@ clubbers
 cariacus
 carbamidine 1
 condyloma
-condylomatous 1
+condylomatous 2
 condylopodous 1
 conjurator
 corditis 1
@@ -25728,7 +25728,7 @@ crabapple 1
 cumquat
 correlatives
 contiguate
-crouche 1
+crouche 2
 convertibly
 cytolysis
 correllations
@@ -30440,7 +30440,7 @@ cruzado
 cruzieros
 crwd 2
 crystallogenic
-cantaloupe
+cantaloupe 1
 carpetwork 1
 csch 4
 csect
@@ -31088,7 +31088,7 @@ cottoned
 countershading
 chawed
 cun 2
-cunarder
+cunarder 1
 capeadors 1
 cunctative 3
 cunctator
