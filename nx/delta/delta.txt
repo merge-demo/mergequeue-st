@@ -2059,7 +2059,7 @@ daikered
 devotion 1
 downgate 2
 debilities
-decaying
+decaying 1
 diopsimeter 1
 diety 2
 dummy 3
