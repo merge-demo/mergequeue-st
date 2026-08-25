@@ -5738,7 +5738,7 @@ ferulas 3
 frontis 2
 farding
 foretype 4
-fleuronnee
+fleuronnee 1
 fungous 1
 fuzzball 1
 furnage 1
@@ -9820,7 +9820,7 @@ flenches 1
 fluentness 5
 faerie
 foresettled 1
-flyspeck 1
+flyspeck 2
 fastiia 4
 fascists 2
 fencers 1
