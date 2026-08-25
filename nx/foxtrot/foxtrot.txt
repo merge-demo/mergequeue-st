@@ -2592,7 +2592,7 @@ fattier 3
 ferrogoslarite 6
 forcet 3
 franked 1
-foud 4
+foud 5
 fossicked 3
 footrests 2
 frigger 1
@@ -2724,7 +2724,7 @@ fathomer
 fantasts
 fabler 1
 foreigneering 1
-fiefs
+fiefs 1
 foreglimpsed
 farcicalness
 flagitate 2
@@ -3070,7 +3070,7 @@ freeish 1
 fluorin 2
 filmizing 4
 frounceless 1
-freend
+freend 1
 flopping 2
 fibrillating 2
 flirters 1
@@ -3810,7 +3810,7 @@ fractable 3
 fairyism 2
 flusker 3
 fluoridisation 3
-flebotomy
+flebotomy 1
 forestaves 1
 forthfare 1
 faut 1
@@ -5839,7 +5839,7 @@ forgrown 2
 filariid 1
 filipinization 1
 floatage 4
-fayal 1
+fayal 2
 foreparent 3
 fuciphagous 1
 feverously 1
@@ -6381,7 +6381,7 @@ formulized 1
 fricace 1
 foetal
 fudgy 3
-fluorenes 2
+fluorenes 3
 fishiest 2
 ferriage 1
 forded 2
@@ -6987,7 +6987,7 @@ foetus 2
 foments
 fussiness 1
 fortuity 1
-fordless 2
+fordless 3
 fond
 fondateur 1
 fonded 1
@@ -9154,7 +9154,7 @@ follows 1
 furtum
 fortresses
 fichteanism 4
-fantasias 2
+fantasias 3
 fortifies 2
 fielded 3
 fleeceflower 3
@@ -9592,7 +9592,7 @@ financier 1
 favouress 1
 fribbler 1
 fuseless 2
-frecklier 1
+frecklier 2
 feudalizing 2
 findfault 2
 fullers 3
@@ -9727,7 +9727,7 @@ formulating
 facty 4
 femoral 4
 flagstone 3
-fingerroot 1
+fingerroot 2
 functorial
 filosofe 3
 fanit 2
@@ -10704,7 +10704,7 @@ fibular 1
 fruitlets 1
 facetted 3
 foxy 1
-felsophyre 4
+felsophyre 5
 feralin 2
 fivepenny
 fairstead 2
@@ -10832,7 +10832,7 @@ foveation 1
 foredestined 2
 fleeten 3
 freesilverite 1
-frustulum
+frustulum 1
 ferntickled 3
 fluxure 1
 feff 2
@@ -11623,7 +11623,7 @@ fermata
 feedman 1
 fustics 3
 feinschmecker 1
-fussbudget 1
+fussbudget 2
 facsimile 1
 fortissimi 1
 flecnode 3
