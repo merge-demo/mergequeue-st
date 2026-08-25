@@ -5507,7 +5507,7 @@ afterlife
 absorbs 2
 actinophone
 afterbirth 1
-antiutilitarian
+antiutilitarian 1
 atmospheres 1
 afterblow
 aerarium 1
@@ -15635,7 +15635,7 @@ anting 6
 absist 1
 assary
 apprehensible 1
-alway 2
+alway 3
 altamira
 ararao
 antinicotine
@@ -24831,7 +24831,7 @@ avocadoes
 aguilawood 1
 augmentatively 2
 avocat
-avocations 1
+avocations 2
 avocative
 airing 1
 antipragmatic 1
