@@ -4238,7 +4238,7 @@ fracases 4
 faxed
 fireplug 2
 firepot 1
-foreflank 1
+foreflank 2
 forebooms 1
 flots 2
 frangipanni 1
@@ -4340,7 +4340,7 @@ frankable 2
 fandango 4
 fourflusher 3
 feneration 1
-fellows 1
+fellows 2
 forgetter 1
 foresleeve
 finagle 4
@@ -4823,7 +4823,7 @@ forties 2
 frostbiter 2
 funker 1
 fetting 1
-fibrinuria 3
+fibrinuria 4
 fluidiser 3
 fardh 1
 fumish 1
@@ -5454,7 +5454,7 @@ forcibly
 figurativeness
 fainest
 formulator
-famished 3
+famished 4
 foresummer 5
 feridjee 1
 furfuration 1
@@ -5650,7 +5650,7 @@ favouritism 4
 flimsier 1
 fishbolt 1
 fondues 3
-fellowshiped 1
+fellowshiped 2
 fascism
 forums 2
 fortis 1
@@ -6534,7 +6534,7 @@ fricasseed 2
 flutterboard 2
 faucal
 fluotantalate 6
-fraxinella 2
+fraxinella 3
 flutteriness
 flagrate 3
 fostering 2
