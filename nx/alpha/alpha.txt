@@ -2580,7 +2580,7 @@ aconelline 1
 assentatory 1
 arborer
 aconine 1
-afdecho
+afdecho 1
 aconital 1
 aconite
 aconitine 1
@@ -3390,7 +3390,7 @@ anthranil 1
 antipolyneuritic 1
 adamantinoma 1
 adamantness 1
-actinochemical
+actinochemical 1
 aphthongia 2
 adamantoblast 1
 archery 2
@@ -3596,7 +3596,7 @@ adducible 3
 ampelideous
 artiodactylous 2
 adducted
-adducting 1
+adducting 2
 aides
 ataxiagram 1
 abdicates 2
@@ -6709,7 +6709,7 @@ anoterite 1
 ailuroidea
 ailurophilic 2
 atenism
-affirmation 1
+affirmation 2
 ailuropoda 2
 acoustic
 ailurus 1
@@ -7197,7 +7197,7 @@ alabamide 2
 alabamine 2
 armillaria 1
 alkalinizes 2
-atellan
+atellan 1
 aphizog 1
 alabastrian
 akazgine 2
@@ -7622,7 +7622,7 @@ alcazaba
 apophonic
 anisomeles 1
 agrafe 2
-adamance 1
+adamance 2
 actability 1
 agrostographer 1
 asymptotical 2
@@ -8072,7 +8072,7 @@ alectrionidae 2
 alexis 1
 admirations 2
 alexius
-atramentary 1
+atramentary 2
 aramaicize
 alleging 2
 antimoniureted 1
@@ -9846,7 +9846,7 @@ antiauxin
 amante 1
 allured
 agonized 1
-airbrush 2
+airbrush 3
 aware 1
 amma 1
 antihormone
@@ -11813,7 +11813,7 @@ ankaramite 1
 analemma 1
 autopotent
 aconitum 3
-autexousy 1
+autexousy 2
 analepses
 armpad 1
 agrege 1
@@ -12853,7 +12853,7 @@ androgyn 1
 asseize
 appositional 2
 angiopressure 1
-angiorrhaphy 2
+angiorrhaphy 3
 absurdist 2
 angiorrhea 2
 armorwise
@@ -14562,7 +14562,7 @@ arizonian
 aphototropic 1
 alroot 1
 asheries
-absurdum
+absurdum 1
 anthropomorphically
 avowed
 amphrysian
@@ -17072,7 +17072,7 @@ anthroponomical
 armband 1
 aeolicism
 aerophotography
-agranulocyte 1
+agranulocyte 2
 apodal
 arvel 1
 aphorism
@@ -17140,7 +17140,7 @@ apographical 2
 autosensitization 1
 apoidea 2
 astucity 1
-agricultural 2
+agricultural 3
 apoious 1
 antihistorical
 aphlebia
@@ -17543,7 +17543,7 @@ appellatived 1
 appellativeness 2
 arriccioci
 appellee
-admittances 1
+admittances 2
 appellor 1
 aminobenzene
 arguteness 2
