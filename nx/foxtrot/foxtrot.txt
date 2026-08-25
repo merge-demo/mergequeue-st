@@ -2699,7 +2699,7 @@ ferventness
 frighteningness
 floodwall 1
 fishify 2
-fuminess 1
+fuminess 2
 ferrometer 3
 faithing
 factioneer 2
@@ -3330,7 +3330,7 @@ fameworthy 2
 fleckled
 frist 1
 fruggan 1
-fullmouthedly 1
+fullmouthedly 2
 fandom 3
 fulcra 3
 fleshlike 1
@@ -5547,7 +5547,7 @@ fossettes 2
 fleurettee 3
 fluemen
 floating 1
-fideicommissary
+fideicommissary 1
 fleshful 1
 favourite 1
 furunculus 1
@@ -8050,7 +8050,7 @@ flashbulb 4
 federally 7
 fungaceous 2
 forestal 1
-forestalls 3
+forestalls 4
 funerals 1
 flutterer 1
 fundraise 3
