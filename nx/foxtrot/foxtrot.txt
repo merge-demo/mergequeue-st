@@ -1004,7 +1004,7 @@ farinosel 2
 foussa 2
 fulfill 1
 farmeress 3
-fireling 1
+fireling 2
 flerrying 3
 farmerly 1
 forrel
@@ -2264,7 +2264,7 @@ fromfile
 fenchene 2
 favn 2
 fastigated 1
-ficoid 1
+ficoid 2
 facemaker 1
 facaded 1
 florentinism 3
@@ -3269,7 +3269,7 @@ feelings
 fiddlecome 1
 fracedinous 3
 fiddlefaced 3
-fld 2
+fld 3
 fumous 1
 fiddlerfish 1
 fraticellian 1
@@ -5221,7 +5221,7 @@ flav 2
 flavanilin 2
 fiscals
 flavescence 2
-flytrap 1
+flytrap 2
 flimflamming 2
 fibrochondrosteal
 flatnose 2
@@ -6546,7 +6546,7 @@ flensing 1
 flutterment 2
 flimflammed 3
 fluviolacustrine 2
-fleetly
+fleetly 1
 funereal 2
 frigor 2
 foretack 4
