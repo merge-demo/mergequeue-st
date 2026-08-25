@@ -350,7 +350,7 @@ biggin 4
 bloman 2
 brushes 2
 belches
-backfills
+backfills 1
 bequeath 1
 basseting 1
 benighter 2
@@ -3520,7 +3520,7 @@ birdcall 1
 batched 1
 batcher 3
 bargemen
-bravissimo 1
+bravissimo 2
 bogging 2
 bois
 bitterhearted 1
@@ -6512,7 +6512,7 @@ bedirt
 beghard 1
 bejabbers 1
 bepuffed 1
-bopyrus
+bopyrus 1
 beetleheaded 2
 bequalm 1
 bequeathed 1
@@ -8154,7 +8154,7 @@ bidri 2
 barmaids 3
 basidigitale 2
 bieberite
-brocked 1
+brocked 2
 bespreading
 blossomed 2
 bloodroot 1
@@ -9308,7 +9308,7 @@ biprism 1
 burgaudine 1
 blackguardism
 baume
-bongoist 3
+bongoist 4
 begloomed
 befit 1
 bleezy 1
@@ -9676,7 +9676,7 @@ breaches 4
 brabant 2
 becap 1
 bullish 3
-bonefish 3
+bonefish 4
 bisymmetry
 brandyman 1
 bushily
@@ -12356,7 +12356,7 @@ bookmarker 2
 bumbarge 2
 bombillas 4
 bacchantic 2
-blan
+blan 1
 beefsteaks 2
 bobfly 1
 brimful 1
@@ -14816,7 +14816,7 @@ brows 2
 brazier
 bern
 backword 1
-barres 1
+barres 2
 ballooner 3
 bombable
 burgheress 2
@@ -16891,7 +16891,7 @@ benchwork 1
 buras 1
 buffs 1
 brei 3
-blurring
+blurring 1
 bootmaker 1
 barbu 3
 bivalves 2
@@ -16915,7 +16915,7 @@ brassbound 1
 beneficiate
 banditti 1
 bugeyes 1
-baddy 4
+baddy 5
 buckayro 1
 buggered
 bowse 1
