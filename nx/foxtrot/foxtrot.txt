@@ -63,7 +63,7 @@ fibrolite 1
 fconv 4
 fabulously
 facebar 1
-facebow 3
+facebow 4
 fenchone 2
 faceharden 1
 flagships 2
@@ -1070,7 +1070,7 @@ farrisite 1
 farfetched 2
 fleerish 1
 firehalls 2
-forthcame 3
+forthcame 4
 farruca 2
 farseer 1
 frenchwoman 1
@@ -2315,7 +2315,7 @@ featherheaded 2
 febrility 3
 fast
 fixities 2
-fixatifs 2
+fixatifs 3
 flagitious
 felis 2
 feminizes 1
@@ -2810,7 +2810,7 @@ frondeurs 1
 florists 2
 festucine 1
 forelady 3
-flaxiest 2
+flaxiest 3
 frightfully 5
 funli 2
 fumigation 3
@@ -3683,7 +3683,7 @@ filioque 4
 feistiest 3
 foysen 2
 fruitwise 3
-futurisms
+futurisms 1
 fathead
 firesider
 franchisal 2
@@ -3736,7 +3736,7 @@ fays
 fangotherapy 4
 fingallian 4
 ferromolybdenum 2
-fibers 1
+fibers 2
 flambeing 2
 foreignism 2
 fertilizability 1
@@ -3839,7 +3839,7 @@ fisticuffer
 furthermore 1
 fract
 formicary 1
-fiberscope 1
+fiberscope 2
 filiopietistic 3
 fungistat 5
 flavanthrene
@@ -4376,7 +4376,7 @@ flagged 2
 frenums 1
 fishbowls 2
 forky 2
-fisheyes 3
+fisheyes 4
 forecomingness 1
 fistify 3
 funiculitis 5
@@ -4774,7 +4774,7 @@ faikes 2
 falsifiability 3
 flowe 3
 fashionize 4
-foreranks 2
+foreranks 3
 foulminded 2
 fellowing
 froggier 4
@@ -5443,7 +5443,7 @@ fashion 5
 frolickly 1
 forseek 3
 fitchery 3
-fusobteria 5
+fusobteria 6
 femur 1
 filterable 2
 flexuosely
@@ -5957,7 +5957,7 @@ furzes 1
 fearlessly 2
 favonius 2
 frenchification 3
-frailly 3
+frailly 4
 fivepins 1
 futileness
 frightening 2
@@ -6087,7 +6087,7 @@ footpace 3
 figurial 4
 foxhounds
 filchery 3
-funambule
+funambule 1
 flauntingly 1
 forsook
 foretriangle 4
@@ -7843,7 +7843,7 @@ finns 1
 filterman 4
 furiousity 2
 flittered 4
-fruitwood 2
+fruitwood 3
 fidgetiness 1
 feedstuffs 1
 figulated 3
@@ -9292,7 +9292,7 @@ forfend 1
 fraise 1
 fibrinopurulent
 feral
-frug
+frug 1
 fertilities 2
 fraises 5
 fascinery
@@ -9381,7 +9381,7 @@ frangulic 2
 forjudge 1
 flichter 1
 forbiddal 1
-fishless 1
+fishless 2
 fetichistic 5
 felinities 1
 frothy 1
@@ -9673,7 +9673,7 @@ flukier 1
 foamer 5
 flawless
 frons 3
-freezer 3
+freezer 4
 freeloaded 2
 florate 2
 freemasonic 3
@@ -9915,7 +9915,7 @@ fakement 3
 frouncing 1
 feminize 1
 funge 4
-feria 7
+feria 8
 fundatorial 2
 flavanthrone 2
 feedable 1
@@ -10202,10 +10202,10 @@ fishyback 2
 fragmentise 3
 fractionalism 5
 frisked 2
-forebears 2
+forebears 3
 flaxwoman 3
 fluttered 1
-fimbria 2
+fimbria 3
 falcer
 friulian 2
 fibroadenia 2
@@ -10600,7 +10600,7 @@ favose 3
 feudalist 3
 funambulation 2
 fruchtschiefer 5
-fructescent 2
+fructescent 3
 flumadiddle 1
 filmily 2
 framable 3
