@@ -638,7 +638,7 @@ breadnut 1
 bronchoaspergillosis 2
 barracoon 1
 becomings 2
-betterness 3
+betterness 4
 biscuitmaking 3
 blinds
 bacteriologists 1
@@ -1858,7 +1858,7 @@ beslime 4
 bullose 2
 bialystoker 2
 bandaged 2
-bandaging 1
+bandaging 2
 berylloid
 bowlin 1
 bushranging 2
@@ -3481,7 +3481,7 @@ buphaga 2
 bander 1
 barkpeeler
 boobook
-bolloxed
+bolloxed 1
 batable
 bespatter 1
 bernicia
@@ -6345,7 +6345,7 @@ benzein
 bellyfish 2
 besnowed
 blinks
-benzenediazonium
+benzenediazonium 1
 bosominess 4
 boxful 1
 bananalander 1
@@ -14896,7 +14896,7 @@ blackwork 1
 betrample 2
 bechalking
 berms
-beefs 2
+beefs 3
 bingies 1
 bloodthirstier 1
 breadwinning
@@ -14954,7 +14954,7 @@ bearing 3
 balantidium 2
 baldie
 bignonia 2
-begulfing
+begulfing 1
 bumpee 2
 bristol 2
 boozify 1
@@ -17814,7 +17814,7 @@ bursars 1
 bubby 3
 bursch
 bianisidine 1
-becompass 4
+becompass 5
 belord 3
 bloviates 1
 brocade
