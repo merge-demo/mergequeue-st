@@ -4545,7 +4545,7 @@ disbarment 3
 disbody 3
 dendrolagus 1
 discharging
-dustlike
+dustlike 1
 dolichocrany
 desperance 2
 depths
@@ -10894,7 +10894,7 @@ diapir
 disabuses 2
 dispondaic
 dazzlement 1
-deforested 2
+deforested 3
 dannock 6
 disaccomodate
 dromons 1
