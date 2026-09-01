@@ -10447,7 +10447,7 @@ diphonia
 dismiss 1
 drowsy 2
 duumvirs 1
-deglutitive
+deglutitive 1
 distortion
 dister 4
 droits 2
@@ -17873,7 +17873,7 @@ ductules
 ducal 1
 drawlatch 1
 ductwork 1
-drosky 1
+drosky 2
 duculinae 2
 dictyosome 1
 denotate
