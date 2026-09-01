@@ -830,7 +830,7 @@ eriophorum 1
 eosinophil 1
 ectocommensal 2
 ectocondylar 3
-endophytic
+endophytic 1
 ethologies 1
 electrolyser
 excrementous
@@ -3988,7 +3988,7 @@ eupatorin
 easements 2
 eyestalks
 empearl 1
-electroretinography 4
+electroretinography 5
 explorate 1
 esothyropexy 1
 estus 2
