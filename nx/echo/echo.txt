@@ -1703,7 +1703,7 @@ evener 2
 exaggerating 3
 enunciatory 1
 enamel
-electrolyses
+electrolyses 1
 earpieces
 enterosyphilis 4
 employ
@@ -2047,7 +2047,7 @@ euthyneural 1
 eulogises 2
 endothermy
 elapine 4
-emes 2
+emes 3
 endysis 1
 eutectics 1
 edictal 1
@@ -4422,7 +4422,7 @@ eumenidae 1
 euryzygous 2
 electrotechnologist 2
 essentialization
-enhydris 5
+enhydris 6
 exaggerator
 extemporaneousness 4
 eczematous 2
@@ -5187,7 +5187,7 @@ encyclopaedist
 endoperidium 2
 endophagous
 ephebeion
-ethnicity 2
+ethnicity 3
 episiocele 1
 exospherical 2
 embarcadero
@@ -12546,7 +12546,7 @@ epapophysis 3
 euphemy
 emissaria
 enhalos 2
-eugeny 4
+eugeny 5
 enneacontahedron 3
 exoskeleton 2
 equicohesive 3
@@ -13225,7 +13225,7 @@ elapinae 1
 emphatically 1
 eleutheromania 1
 embale 2
-expires 1
+expires 2
 esteemable 3
 expressivity
 eastertide 7
