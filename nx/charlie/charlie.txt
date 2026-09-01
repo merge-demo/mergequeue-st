@@ -23390,7 +23390,7 @@ colibert
 cleistothecium 1
 contagions 1
 contagiosity
-contagiousness
+contagiousness 1
 contagium
 contain 1
 contained
@@ -25758,7 +25758,7 @@ corresponding 3
 crated
 corresponsion
 carphosiderite 2
-corresponsively
+corresponsively 1
 churchlet
 corridas
 chedlock
