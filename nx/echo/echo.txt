@@ -3542,7 +3542,7 @@ ergographic 1
 emboweled 2
 epithecial
 ethanamide 1
-excurvate 1
+excurvate 2
 eschewance 2
 extortionary 2
 eponyms 1
@@ -3880,7 +3880,7 @@ egressive
 equivote 1
 enginemen
 echeneis 2
-eternal 1
+eternal 2
 electrotonus
 ethnomusicologically
 extraboldface
@@ -4365,7 +4365,7 @@ empressement
 encadre
 ender
 emphasised 1
-electrobioscopy 6
+electrobioscopy 7
 endoparasite 1
 environmentally 1
 enfacing 1
@@ -8438,7 +8438,7 @@ endures
 epsilons 2
 extravasate 1
 expressionistic
-entryways 1
+entryways 2
 empathy 1
 entrants 1
 enregiment 2
@@ -12750,7 +12750,7 @@ emboweling
 engramma 2
 exopod
 epimorphism 2
-euhemerist 2
+euhemerist 3
 embus 3
 exopterygotism 1
 epharmonic 3
