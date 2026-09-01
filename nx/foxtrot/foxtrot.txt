@@ -243,7 +243,7 @@ feoffeeship 2
 firedamp 3
 face 1
 fadge
-furfuramide 1
+furfuramide 2
 flaxlike 2
 furniment 2
 frau
@@ -996,7 +996,7 @@ fragmentalize 1
 flatboats
 fodders 3
 finalists 2
-farinometer 1
+farinometer 2
 farinose 1
 founce
 flannelly 1
@@ -3236,7 +3236,7 @@ flameholder 2
 fictioner 2
 furbisher 5
 foci 5
-forestay 1
+forestay 2
 forestish 2
 fictionized
 frankheartness 2
@@ -3714,7 +3714,7 @@ furling
 flocoon 1
 fillips 1
 flics 1
-flexibilty
+flexibilty 1
 fecundates 1
 fillmore 1
 forwear
@@ -4308,7 +4308,7 @@ ferd 2
 flamethrower
 funditor 2
 fructiferousness 2
-fretworked 1
+fretworked 2
 fauces 1
 frailty 2
 ferrelled
@@ -5050,7 +5050,7 @@ flippantly
 forthgoing 4
 fibrocrystalline
 frankalmoin 1
-flappet 2
+flappet 3
 fermions
 figlike 1
 froppish
@@ -6325,7 +6325,7 @@ felicitator 2
 fringed 2
 facadal 2
 floreted 1
-flunkey 4
+flunkey 5
 frilal
 fumatories 3
 fissipeda 3
@@ -6365,7 +6365,7 @@ flatlings 1
 flowchart 3
 flagpole 3
 fontes 1
-forementioned 5
+forementioned 6
 flang 1
 fullterm
 fluoran 2
@@ -6748,7 +6748,7 @@ flashboard
 fluorescin
 fibrocellular 2
 food 2
-foliageous
+foliageous 1
 fineer 5
 forelimb 4
 furthersome 5
@@ -9209,7 +9209,7 @@ foveole 1
 folded 1
 federations 4
 fadednyess
-figulines 2
+figulines 3
 floss 1
 fossilization 4
 flirtigig
@@ -10215,7 +10215,7 @@ fastings 3
 fleishig 1
 formalism 3
 flint 1
-frangibleness 2
+frangibleness 3
 feebly
 facingly
 farce 2
@@ -10243,7 +10243,7 @@ floated 2
 footnote 2
 froggies 1
 finale 2
-froggish 1
+froggish 2
 forslack 2
 finn
 fractures 1
@@ -11538,7 +11538,7 @@ fistic 3
 foreremembered 6
 fab 4
 furtiveness 1
-frena 3
+frena 4
 foxfeet 2
 fuselages
 fuselike 1
