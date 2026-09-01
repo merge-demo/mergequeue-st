@@ -3141,7 +3141,7 @@ eloigning
 enactment 2
 euryte
 equitemporal 2
-escheat 2
+escheat 3
 engrossing 3
 eloiner 2
 essentiate 2
@@ -3567,7 +3567,7 @@ ectoglia
 electrometallurgist 3
 embosoming 2
 euchlaena 2
-encraal
+encraal 1
 embossage 1
 embossed 1
 embossing 4
@@ -7775,7 +7775,7 @@ edmund 3
 empirical 1
 endopoditic 3
 equivocators 2
-examinership 1
+examinership 2
 embolismic 1
 ebulliency 2
 enterography 2
@@ -10390,7 +10390,7 @@ edmond
 embrase 1
 earwigging 3
 equalising 1
-epiphanize 1
+epiphanize 2
 exchanged 2
 ethoxide 2
 ethoxyethane
@@ -10908,7 +10908,7 @@ essayistical 1
 euphonically 1
 exemplaric
 epizoism 1
-exmoor 4
+exmoor 5
 endangerer 2
 electromyographically 2
 exothermic 5
@@ -13453,7 +13453,7 @@ eikones 1
 energetics 1
 ebionitic 3
 externship 1
-ectogenic 3
+ectogenic 4
 excitingly 1
 expressionists 2
 eventuality
