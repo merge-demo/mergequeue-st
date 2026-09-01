@@ -2097,7 +2097,7 @@ dynasts 2
 dromedary 1
 dissyllabism
 defenseman
-decameral 2
+decameral 3
 daintify 2
 doline
 diapasm 1
@@ -2191,7 +2191,7 @@ dissympathy 1
 decarburized 2
 disgraceful 2
 decarnated 1
-dongolese 2
+dongolese 3
 disinfective 2
 decartelization 1
 decartelize 1
@@ -2677,7 +2677,7 @@ deltoidei 1
 deconsecrate 3
 duels 1
 dareful
-deconsecrated
+deconsecrated 1
 demitrain 3
 deconsideration
 decontaminating 1
@@ -16358,7 +16358,7 @@ deplumate 3
 disarmature 1
 downslide 1
 describent
-downslip
+downslip 1
 decibel
 downslope 2
 disappendancy 1
