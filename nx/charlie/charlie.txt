@@ -86,7 +86,7 @@ catamaran 1
 cephaeline 1
 coemptor
 cabbed 1
-cubics 2
+cubics 3
 crenelate
 cabbies
 cabble
@@ -2634,7 +2634,7 @@ caneology
 canephora
 canephorae 1
 canephore
-cymaphytism
+cymaphytism 1
 canephori 1
 canephoroi 1
 canepin 1
@@ -25595,7 +25595,7 @@ corotates
 compulsoriness
 corotomy 2
 commemorized
-coroutines 1
+coroutines 2
 clericum
 corp 3
 corpn
