@@ -3984,7 +3984,7 @@ boltspreet 1
 broma 1
 bondon 1
 brittlewood
-bawtie
+bawtie 1
 bantlings 2
 brand 2
 bnf 2
@@ -4480,7 +4480,7 @@ blackmail
 barbone 1
 balboas 1
 bursicle 3
-bucklers 3
+bucklers 4
 bustling 1
 bonnering 1
 becry
@@ -7815,7 +7815,7 @@ blessedest
 ballasts 2
 burrow 1
 biauricular 1
-backhouse
+backhouse 1
 bedstock 3
 belostomidae 1
 belongs
@@ -17617,7 +17617,7 @@ bulldozes
 backster 2
 bibliophiles 1
 belduque 2
-barricadoing
+barricadoing 1
 bobcoat
 burglarproofs
 burglars 1
@@ -17754,7 +17754,7 @@ burnt 1
 bretelle 1
 backfill 2
 biobibliography 1
-burnwood 2
+burnwood 3
 brainchildren 1
 browsage 1
 bravadoes 1
