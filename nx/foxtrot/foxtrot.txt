@@ -357,7 +357,7 @@ fattiness
 foreknowing 4
 faints
 forcedness 3
-franklandite
+franklandite 1
 frenuna 1
 from
 fieldfight 4
@@ -2255,7 +2255,7 @@ fusula
 filigerous 2
 funnymen 5
 fathering
-fustee 1
+fustee 2
 forerunning 1
 footfalls 1
 fledgeless 2
@@ -5115,7 +5115,7 @@ fumant 2
 forbidding
 forthy 2
 fireweed 6
-flashgun
+flashgun 1
 fifteenth 2
 factitive 1
 fict 3
@@ -6399,7 +6399,7 @@ fendillate 3
 farinas
 ferinely 1
 fluoroform 1
-fricasseing 5
+fricasseing 6
 fluoboric 1
 forefoot 1
 fronture 2
