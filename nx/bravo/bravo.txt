@@ -2433,7 +2433,7 @@ brotherhood 2
 bards 1
 bardship 3
 backaching
-butter 1
+butter 2
 boobies 2
 bardulph 2
 bruiser
@@ -3301,7 +3301,7 @@ backstabbed
 branchiostegan
 beadlery 2
 backpacking 1
-balche 2
+balche 3
 baccalaureat
 basiotripsy 1
 branchway 2
@@ -4364,7 +4364,7 @@ borean 3
 beclang
 burbark
 blackhearted
-benzotrifuran
+benzotrifuran 1
 bilingualism 2
 becircled 3
 botfly 1
@@ -10974,7 +10974,7 @@ blissful
 bughead
 bookcase 2
 blissom 2
-balden
+balden 1
 buxomer
 blistered
 bunodonta 2
@@ -14038,7 +14038,7 @@ braceros 1
 butcherbroom 3
 bacchanalism 1
 bracherer
-basiate 1
+basiate 2
 blackguards 1
 bedesmen 1
 boraginaceae 2

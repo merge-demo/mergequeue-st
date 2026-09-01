@@ -2844,7 +2844,7 @@ acrogen
 anaesthetics 2
 acrolein 2
 amylenes 1
-antianthropocentric 1
+antianthropocentric 2
 antireactionary 1
 acroleins 1
 acrolithan 2
@@ -8620,7 +8620,7 @@ allatrate 1
 abaction
 autosuggestibility 1
 admitty
-alineation 2
+alineation 3
 alkoxid
 atmophile
 allegata 1
@@ -12679,7 +12679,7 @@ aesopic 1
 archbeadle
 advene 1
 allochroite 1
-algosis
+algosis 1
 aesthesia 1
 aneurisms 1
 arithmetician 3
