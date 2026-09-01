@@ -3458,7 +3458,7 @@ auxil 2
 acreak
 abridgeable
 adarme 1
-adatis
+adatis 1
 afterpain 1
 antiecclesiastical 2
 ascitical 1
@@ -3668,7 +3668,7 @@ alces
 anomaloscope 2
 adenoacanthoma
 adenocarcinomas 1
-antipellagric 3
+antipellagric 4
 adenochrome
 abnumerable
 allopathies 3
@@ -4533,7 +4533,7 @@ archdemon 1
 adventive 2
 adventively 1
 apaesthesia
-alencons 2
+alencons 3
 amounting
 adventual
 agromyzidae 1
@@ -20721,7 +20721,7 @@ alody 1
 agrostographic
 agrosteral
 azeotropy
-aeroscopy
+aeroscopy 1
 articulators 2
 adfiliate
 abelonian 2
@@ -24340,7 +24340,7 @@ autopsies
 ambrose 1
 archprophet
 abaters 1
-autoptically
+autoptically 1
 aeromancy
 attractionally 4
 alpinists
