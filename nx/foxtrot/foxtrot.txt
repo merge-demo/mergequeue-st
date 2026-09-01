@@ -1821,7 +1821,7 @@ featureliness 4
 fieldmice 1
 flesh 2
 furrows
-figureheadship 1
+figureheadship 2
 fellahin 2
 firebreaks 2
 feudalize
@@ -7465,7 +7465,7 @@ feigning
 fishwives 2
 fiftypenny 2
 feminine
-frumpier 1
+frumpier 2
 filipendulous 3
 funditores
 fantasists 1
@@ -8165,7 +8165,7 @@ fumigator 1
 foretellers 2
 fondon 2
 farmland 2
-fulgurator 2
+fulgurator 3
 foison 3
 fire
 formulates 1
@@ -8655,7 +8655,7 @@ forescript
 floury
 fluotantalic 1
 futility 2
-foredid 2
+foredid 3
 flecks 1
 fir
 fittings 2
@@ -10752,7 +10752,7 @@ foreyear 4
 follyer 1
 fructified 5
 fascistize 1
-filagree 5
+filagree 6
 fringelike 1
 faenus 3
 flam
