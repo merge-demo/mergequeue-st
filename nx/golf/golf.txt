@@ -798,7 +798,7 @@ gamashes 1
 goombay
 gastrospasm 2
 grouts 1
-glycosidase 1
+glycosidase 2
 graf 3
 gimlet 1
 gambade 1
@@ -3718,7 +3718,7 @@ giantsize
 gaub 1
 gonging 3
 genoblastic 2
-gastrocnemian 4
+gastrocnemian 5
 gobbets
 giarra 1
 gherao 2
@@ -9377,7 +9377,7 @@ grannyknot
 gloved 1
 galenobismutite 1
 gobelin 2
-glaymore 1
+glaymore 2
 getpenny 1
 gorgonize 2
 gelatinized 1
