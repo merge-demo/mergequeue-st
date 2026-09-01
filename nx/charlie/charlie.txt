@@ -5883,7 +5883,7 @@ catenas 1
 caudaite 2
 catenate 1
 crooisite
-catenating
+catenating 1
 catenation
 catenative
 capomo
@@ -17997,7 +17997,7 @@ ceraceous
 chyluria
 cystophora
 colonelcy
-confutative 1
+confutative 2
 cephalothecal 1
 coeloplanula 1
 chartreuse
