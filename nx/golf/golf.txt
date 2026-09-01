@@ -512,7 +512,7 @@ gliomas 2
 germproof 1
 geeldikkop 1
 galipoidin 3
-guzzles 3
+guzzles 4
 galleins 1
 getters 1
 galler 1
@@ -1389,7 +1389,7 @@ governs 2
 ganodonta 2
 garnison
 greetingless 3
-garniture 2
+garniture 3
 glycosemia 1
 germanize
 grecize 2
@@ -2197,7 +2197,7 @@ gibby 2
 galactohemia 1
 gleit 1
 glossopathy 3
-grounders 2
+grounders 3
 globetrotting 4
 grieced 1
 gastrectasis 3
@@ -4392,7 +4392,7 @@ grandsire
 generics 2
 giocoso 3
 gpd 3
-gleba 1
+gleba 2
 gluttony
 galloman
 graphicalness 4
@@ -5206,7 +5206,7 @@ gab 3
 gorgonzola 2
 gamecraft 3
 garten 1
-gentilic 1
+gentilic 2
 gawkier 2
 genial 2
 grenade 3
