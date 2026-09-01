@@ -2668,7 +2668,7 @@ barleycorn 2
 bilge
 bimensal 1
 bable
-bribeable 2
+bribeable 3
 barling 1
 barghest
 breechloader 1
@@ -5553,7 +5553,7 @@ backstamp
 bejezebel
 bontebucks 1
 bagnette 1
-barrette
+barrette 1
 bloodguiltless 1
 blackeners
 brutified 1
@@ -11340,7 +11340,7 @@ blub
 blueberries 1
 blickey
 bootlicker 1
-bursting 2
+bursting 3
 britannica 3
 bhar 1
 breathed 1
@@ -14045,7 +14045,7 @@ boraginaceae 2
 balanced 2
 briared
 bannocks 1
-bittering 1
+bittering 2
 blubbering
 bibliotaphe 1
 brachialis
@@ -15242,7 +15242,7 @@ blackstrap 1
 bombyx 1
 bemajesty 3
 brickbatting 1
-brickcroft 1
+brickcroft 2
 ballistocardiography 2
 beautify 3
 bembex 1
@@ -15390,7 +15390,7 @@ banians 2
 buddhistical 1
 blaeness
 buggiest 2
-briered 2
+briered 3
 brandless 1
 brainwasher 1
 bagatelles 2
@@ -15601,7 +15601,7 @@ bluehead
 bewilder
 bouget 1
 biliprasin 2
-bromlite 2
+bromlite 3
 bird 2
 bloodwort
 benthon
