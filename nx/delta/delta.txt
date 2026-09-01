@@ -2677,7 +2677,7 @@ deltoidei 1
 deconsecrate 3
 duels 1
 dareful
-deconsecrated
+deconsecrated 1
 demitrain 3
 deconsideration
 decontaminating 1
