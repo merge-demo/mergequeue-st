@@ -2311,7 +2311,7 @@ decency
 defensory 3
 dishwash 1
 dismounted 3
-diagraphs 1
+diagraphs 2
 dekaparsec 1
 dermatropic 2
 dactylioglyphic 1
@@ -6755,7 +6755,7 @@ delate
 deceased 2
 desilt
 deerweeds
-dihedral 1
+dihedral 2
 depraving
 disally 1
 dirtboard 1
@@ -6932,7 +6932,7 @@ disembarrassed 1
 dispute 1
 domineer 2
 despecificate
-despecification
+despecification 1
 desperado 1
 darky 2
 disculpatory 2
@@ -15445,7 +15445,7 @@ dressy 2
 derve
 descending 1
 don 4
-danker
+danker 1
 donack
 dowsed
 daishiki 2
@@ -15926,7 +15926,7 @@ dote 1
 declaring 3
 dynamitic 2
 dipartition
-distasting
+distasting 1
 deprivers
 doted 1
 diploplacula 1
@@ -16446,7 +16446,7 @@ dozzled 2
 dr 2
 draba
 drabant 2
-draughthouse 1
+draughthouse 2
 dextrotartaric
 dichotomousness 2
 disgregated 1
@@ -17910,7 +17910,7 @@ durationless 1
 dishmaking
 dueled 1
 deathday 1
-duelers 1
+duelers 2
 duelistic 2
 dolentissimo 2
 distritbute
@@ -18187,7 +18187,7 @@ dalesman 2
 duikerbuck 2
 dermographism
 disney 2
-dumple
+dumple 1
 donators 4
 dive 1
 dishearten 2
