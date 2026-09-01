@@ -4754,7 +4754,7 @@ blackseed 1
 bord 1
 burbled 4
 bedmate
-bogey
+bogey 1
 bedouins
 bauckiebird 2
 bedown 1
@@ -5849,7 +5849,7 @@ bellyful 2
 boor 1
 beadier 1
 barbermonger 3
-blacklisted 2
+blacklisted 3
 boozily 1
 bellyland
 bellyman 3
@@ -16308,7 +16308,7 @@ bombycid 1
 biennial
 brr
 bullhead
-bridgemen 2
+bridgemen 3
 bruang 1
 bitume 3
 busbies 3
