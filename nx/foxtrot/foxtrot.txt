@@ -488,7 +488,7 @@ foretokens 1
 frieseite 1
 fiumara 2
 forcleave 1
-fakery 1
+fakery 2
 flaxweed 4
 funbre 5
 frisch 4
@@ -2798,7 +2798,7 @@ forgift 4
 fistulized 2
 forbearer 1
 ftncmd
-foxtailed 1
+foxtailed 2
 facticity
 fotch 4
 filao
@@ -5048,7 +5048,7 @@ flirtationless 1
 flaperon 2
 flippantly
 forthgoing 4
-fibrocrystalline
+fibrocrystalline 1
 frankalmoin 1
 flappet 3
 fermions
@@ -7983,7 +7983,7 @@ friskingly 1
 filicidal 3
 fenerate
 fozier
-foreshot 3
+foreshot 4
 ficelle 4
 fumatoriums 1
 fibrinogenous 3
@@ -9764,7 +9764,7 @@ footmanry 2
 faunch 1
 facework 1
 fluviograph 1
-flabs 2
+flabs 3
 flutteringly 1
 feudalization
 file 2
@@ -11127,7 +11127,7 @@ feculae 1
 fastland 2
 formality 1
 firecrackers
-factionate 1
+factionate 2
 fundatrices 4
 forhoo 1
 frizzed 1
