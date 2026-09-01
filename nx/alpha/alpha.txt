@@ -1643,7 +1643,7 @@ attouchement
 accoutre
 aminobenzamide 4
 agomphiasis
-accoutrement 2
+accoutrement 3
 antozone 1
 angioclast 1
 albanian
@@ -5912,7 +5912,7 @@ archsnob 2
 agents 1
 ageometrical
 advisor 1
-absence
+absence 1
 anophyte 1
 ages 1
 altisonant
@@ -16225,7 +16225,7 @@ antisquatting 2
 athymy 2
 airbound
 afara 2
-antistadholder 2
+antistadholder 3
 aosmic 1
 antistatism 1
 antistatist 1
@@ -20927,7 +20927,7 @@ aldamine 1
 amylophosphate 1
 arthritic
 anabrosis 2
-allotment
+allotment 1
 antimiscegenation
 anhimae 1
 asbolan 2
@@ -23269,7 +23269,7 @@ airscape
 attornare 1
 agilely 1
 attorney
-antirealism 1
+antirealism 2
 accumulator 1
 arrhythmias
 assenters
