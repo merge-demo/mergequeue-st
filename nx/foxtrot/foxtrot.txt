@@ -243,7 +243,7 @@ feoffeeship 2
 firedamp 3
 face 1
 fadge
-furfuramide 1
+furfuramide 2
 flaxlike 2
 furniment 2
 frau
@@ -2942,7 +2942,7 @@ foxberries 1
 fac 3
 furloughs 1
 fungological 3
-froths 3
+froths 4
 fevered 2
 flitchen 1
 franklinian 1
@@ -5870,7 +5870,7 @@ feminology 1
 funebre 2
 flabby 1
 fastigia 1
-fowlers 1
+fowlers 2
 flocced 2
 frustulose 2
 footsoldier 2
@@ -6748,7 +6748,7 @@ flashboard
 fluorescin
 fibrocellular 2
 food 2
-foliageous
+foliageous 1
 fineer 5
 forelimb 4
 furthersome 5
@@ -7498,7 +7498,7 @@ flatuses 2
 fretwise
 fluor 6
 fourbagger 1
-fluellin 2
+fluellin 3
 fillip 2
 fogou 2
 freenesses 3
@@ -9191,7 +9191,7 @@ flamineous 2
 feignedness 4
 fabrications 1
 fearfullest
-foppery 3
+foppery 4
 fungosity 3
 fossorial 2
 fractions 2
@@ -10215,7 +10215,7 @@ fastings 3
 fleishig 1
 formalism 3
 flint 1
-frangibleness 2
+frangibleness 3
 feebly
 facingly
 farce 2
@@ -10855,7 +10855,7 @@ fulcruming 2
 feeable 6
 fanatical 2
 fulfiller 2
-flambeaux 5
+flambeaux 6
 fumose 5
 fructifies 4
 fulfillment
