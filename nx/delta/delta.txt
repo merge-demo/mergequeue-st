@@ -1593,7 +1593,7 @@ deadness 1
 direption
 dairyman
 doubtingness 1
-deadpanned
+deadpanned 1
 deadpans
 depayse 2
 daikering 1
@@ -2067,7 +2067,7 @@ defaced 2
 devolution 5
 disproportionally
 decal 2
-dodecylic 4
+dodecylic 5
 defamations 1
 decalage 1
 deforces 1
@@ -5774,7 +5774,7 @@ daytime 3
 dulcin 1
 deleatur 1
 dichronous 1
-dishful 1
+dishful 2
 defeise 1
 dysraphia 1
 disambiguation
@@ -6600,7 +6600,7 @@ depiction 1
 deadborn 1
 duddie
 dididae 1
-desiccants 3
+desiccants 4
 dichotomised 3
 decretory 1
 dragsawing
@@ -11338,7 +11338,7 @@ discigerous 3
 discinct 1
 discing 1
 deteriorations 1
-donet 2
+donet 3
 drisk 2
 decretorily 1
 disciple 2
@@ -11956,7 +11956,7 @@ dacelonine
 directory 2
 dermatomyoma 3
 disemploy
-disroots
+disroots 1
 dooket 2
 disulfuret 1
 duotriacontane 3
@@ -14214,7 +14214,7 @@ desquamate 1
 disbranching 1
 disuses 3
 dissipation 2
-disutility
+disutility 1
 dramatists 2
 dicer 1
 damage

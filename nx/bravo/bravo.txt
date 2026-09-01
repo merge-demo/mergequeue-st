@@ -3531,7 +3531,7 @@ barbered
 bovista 1
 bouchal 2
 bulldoggishly
-bogglish 2
+bogglish 3
 broadax
 bristled 2
 botchiest 2
@@ -3907,7 +3907,7 @@ brutalness 1
 baculiferous 1
 bawsunt
 blamelessness 1
-beechnuts
+beechnuts 1
 bhil
 bishophood 1
 bedlamp 2
@@ -9270,7 +9270,7 @@ bring
 bipyridyl 2
 birgand
 bougainvillia 1
-biangulated
+biangulated 1
 broadsides
 bacterioidal 2
 bedouinism 3
@@ -9547,7 +9547,7 @@ biters 4
 biolysis 2
 bandarlog 2
 brandreth 1
-breviger
+breviger 1
 bellic 3
 brompicrin
 bakerdom 2
@@ -9859,7 +9859,7 @@ barbing 2
 begums 1
 bites
 bebat
-bytes 1
+bytes 2
 bitewing 1
 beryx 1
 based 2
@@ -12600,7 +12600,7 @@ bloubiskop
 bristlemouths
 biochemically
 bonnier
-bonnyish
+bonnyish 1
 beverages
 boogeyman
 balance 3
@@ -14145,7 +14145,7 @@ budged 1
 brushups 2
 brachistocephaly
 bontee 1
-boloed
+boloed 1
 brachistochrone 2
 bummock 1
 bovovaccine
