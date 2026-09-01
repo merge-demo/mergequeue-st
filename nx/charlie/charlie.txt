@@ -8962,7 +8962,7 @@ cryptal
 countersignature 1
 compartment 2
 charism
-culeus 1
+culeus 2
 charismata
 chokecherry
 consuete
@@ -9830,7 +9830,7 @@ chemiculture
 crampet 2
 chemigraphy
 chemigraphic 2
-caudotibialis 1
+caudotibialis 2
 chemiloon 1
 chemiluminescence
 chemiotactic 1
