@@ -830,7 +830,7 @@ eriophorum 1
 eosinophil 1
 ectocommensal 2
 ectocondylar 3
-endophytic
+endophytic 1
 ethologies 1
 electrolyser
 excrementous
@@ -6141,7 +6141,7 @@ embronze 1
 evagation 1
 entertainers 3
 enneandrian 1
-etherealizing 3
+etherealizing 4
 encephalophyma 1
 epimandibular 5
 edacious
