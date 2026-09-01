@@ -1025,7 +1025,7 @@ calathi 1
 calathidia 1
 chamberlainship 1
 calathiform 1
-calathiscus 2
+calathiscus 3
 calathos
 crapshooter
 cyrilla
@@ -2239,7 +2239,7 @@ campsheeting 1
 campsite
 compasser
 cacomixle
-campsites
+campsites 1
 coronofacial 1
 cinemas
 campstool
@@ -8195,7 +8195,7 @@ chalaco 1
 crispation
 cellarous
 chalastogastra 1
-crakes
+crakes 1
 chalazian
 cranely
 cuckooflower
@@ -13716,7 +13716,7 @@ crunodal 1
 cinchonize 1
 cinchonized 1
 communiqu 1
-cinchophen
+cinchophen 1
 cretinoid 2
 cinchotine
 cullions 3
@@ -31495,7 +31495,7 @@ chid
 currier
 chirivita 2
 conchies
-couthiest
+couthiest 1
 curryfavour
 campstools
 currying 1
