@@ -8962,7 +8962,7 @@ cryptal
 countersignature 1
 compartment 2
 charism
-culeus 1
+culeus 2
 charismata
 chokecherry
 consuete
