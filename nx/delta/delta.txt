@@ -392,7 +392,7 @@ disembargoing 1
 dimmet 2
 daimons 2
 ditches 2
-deek 1
+deek 2
 daedalea 2
 divineness 2
 dehydrogenization 3
@@ -487,7 +487,7 @@ declivous 3
 decistere 2
 dogs 2
 demob
-droughtiest
+droughtiest 1
 dustblu
 defoliant 1
 disrupter
@@ -5396,7 +5396,7 @@ disprover
 divagational
 disincrustion 1
 divineress
-detachable 3
+detachable 4
 deodoriser
 damyankee 1
 deditician
@@ -10049,7 +10049,7 @@ dynamitard
 diana 2
 diocoel
 dynamitical
-duroy 1
+duroy 2
 dynamitically 3
 ditation 2
 deerflies 1
@@ -10553,7 +10553,7 @@ disequilibrium
 discoblastula 1
 deafens
 dafla 2
-diploe
+diploe 1
 digestion 2
 didrachmas 5
 dispend 2
@@ -11289,7 +11289,7 @@ dyspeptical 1
 dittied 1
 discerner
 delegalize
-discerning
+discerning 1
 dingdonging 1
 dudaim 1
 dahabeeyah 1
@@ -12053,7 +12053,7 @@ disentitlement
 dudishly 1
 drepanaspis 1
 disentombment 1
-disclaimers 1
+disclaimers 2
 deplaceable
 disentrail
 disentrainment 1
@@ -13961,7 +13961,7 @@ drawtubes
 dacryadenalgia 1
 davenport 2
 dorsispinal 2
-defoam
+defoam 1
 dunking
 districtly 2
 discohexaster 1
@@ -14212,7 +14212,7 @@ deathful 2
 disuse 2
 desquamate 1
 disbranching 1
-disuses 3
+disuses 4
 dissipation 2
 disutility 1
 dramatists 2
@@ -15671,7 +15671,7 @@ disespouse 1
 digitoxose 3
 deflorescence 1
 dopping
-doppio 1
+doppio 2
 dopper
 dactyloscopy 3
 displeased
@@ -16823,7 +16823,7 @@ dissenters
 dreeing 1
 difficult
 devaluated 1
-drawcut
+drawcut 1
 drawee
 disboscation 1
 draglines 1
