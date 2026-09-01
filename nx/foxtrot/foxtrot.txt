@@ -2883,7 +2883,7 @@ ferlies 2
 fetterlock 5
 flatfish 1
 forewing 5
-foxship
+foxship 1
 frisettes 2
 fogies 2
 formicarium 3
@@ -9808,7 +9808,7 @@ ferijee 1
 frequentest
 feldspar 4
 functionalities
-frapp 2
+frapp 3
 fallacies 2
 falchion 3
 fessways 1
@@ -10397,7 +10397,7 @@ fidding 3
 formicaries 1
 fantoddish
 fibreware 2
-forswore 1
+forswore 2
 flatmate 1
 focoids 2
 footgeld 1
@@ -11538,7 +11538,7 @@ fistic 3
 foreremembered 6
 fab 4
 furtiveness 1
-frena 3
+frena 4
 foxfeet 2
 fuselages
 fuselike 1
