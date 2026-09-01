@@ -1633,7 +1633,7 @@ gaffed 2
 granulometric 2
 gigantesque
 goldarned
-gardeen 2
+gardeen 3
 gryphon 2
 grungiest
 gamuts 2
@@ -5763,7 +5763,7 @@ guzzler 3
 guyandot
 goldbird 1
 gimp 2
-gelatinity 5
+gelatinity 6
 gestio
 goosecap 2
 groovers 1
@@ -6923,7 +6923,7 @@ grandmama 1
 gristhorbia
 gruffest 1
 grimness
-graciosity
+graciosity 1
 grandeval 1
 golgotha 3
 goodliness 1
@@ -10781,7 +10781,7 @@ gallium 2
 glamourie 1
 geranyl 2
 glycyl 1
-gutt 3
+gutt 4
 gunny 4
 gerenuk 4
 ghole 3

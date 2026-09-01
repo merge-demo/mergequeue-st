@@ -10425,7 +10425,7 @@ bagmen
 baidya
 bullfinch 1
 barf
-blankness
+blankness 1
 berskin 1
 blanks
 bargainable
@@ -15910,7 +15910,7 @@ basan 2
 bopyridian 4
 bromhydrate 2
 besprinkling 1
-bromid 2
+bromid 3
 bromidically 1
 bibliographer
 baulea 1
