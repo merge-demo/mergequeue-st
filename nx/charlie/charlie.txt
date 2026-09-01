@@ -2065,7 +2065,7 @@ chicomecoatl 1
 cypresses
 cruelize
 colonial
-camoudie
+camoudie 1
 coburgess 1
 camouflage 1
 camouflageable 1
@@ -16841,7 +16841,7 @@ chopas 1
 clubdom 2
 clubfist 1
 clubfisted
-cenotaph
+cenotaph 1
 clubfoot 2
 clubfooted 1
 clubhand
@@ -18460,7 +18460,7 @@ coguarantor 2
 cogway 1
 cerite 1
 cogweel
-cogweels
+cogweels 1
 cohabitancy
 calycoideous
 cohabitate
@@ -20682,7 +20682,7 @@ complemented
 ciminite 1
 calc 1
 carotin
-complementer
+complementer 1
 cooniest
 caudotibial 1
 complementers 1

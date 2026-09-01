@@ -8701,7 +8701,7 @@ adjoins 3
 autochthon 1
 argyrythrose 1
 aeroelastics 3
-anoxidative
+anoxidative 1
 allocution
 anemology 1
 alleleu 2
@@ -10171,7 +10171,7 @@ argine 2
 affords 1
 altarwise 1
 ambrosine
-ambsace
+ambsace 1
 ambsaces
 acuation
 ambulance 5
@@ -12384,7 +12384,7 @@ americanism 3
 apolytikion
 assiduous
 andesites 1
-archipresbyter 1
+archipresbyter 2
 andevo 1
 asphyxiant 1
 assisi
@@ -20342,7 +20342,7 @@ ankylocheilia 3
 ascogonial
 arsenobismite
 apostoli
-acidproof 3
+acidproof 4
 antilogistically
 arsenofuran
 antipsoric
