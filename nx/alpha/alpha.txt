@@ -3721,7 +3721,7 @@ abnegation
 adenophorous 1
 acephalite 1
 accumulative 1
-adenopodous 1
+adenopodous 2
 adenosarcomata 1
 adiaphoristic 1
 axiation 2
@@ -7082,7 +7082,7 @@ adoniram
 adductive 1
 avick
 aphyllous
-autoist
+autoist 1
 aquench
 attiring 1
 akees
@@ -16827,7 +16827,7 @@ autotypic 1
 arariba 1
 affamish 3
 antiunion
-aphrodisiacs
+aphrodisiacs 1
 annule 1
 aphrodisiomania
 aphrodisiomaniac 1
@@ -25344,7 +25344,7 @@ amphidiscophora 1
 azorite 2
 antigovernmental 1
 azorubine 2
-acylation
+acylation 1
 aurantia 1
 answerable 2
 agonising
