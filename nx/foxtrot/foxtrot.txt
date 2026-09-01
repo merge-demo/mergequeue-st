@@ -3117,7 +3117,7 @@ foresettle
 fogbank 4
 fairylike 1
 fountainheads 1
-fibrocement 1
+fibrocement 2
 frenzies
 fieulamort 2
 formulas 2
@@ -7779,7 +7779,7 @@ fanbearer 3
 fractionize 2
 flyflower 1
 flawed 2
-fabliau 2
+fabliau 3
 financial 2
 forejudging 1
 florentines
@@ -9422,7 +9422,7 @@ functionary 1
 fummle 3
 fastenings 5
 fowk 1
-farmhold 1
+farmhold 2
 frails 1
 financer 1
 fisheater
