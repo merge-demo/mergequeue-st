@@ -3721,7 +3721,7 @@ abnegation
 adenophorous 1
 acephalite 1
 accumulative 1
-adenopodous 1
+adenopodous 2
 adenosarcomata 1
 adiaphoristic 1
 axiation 2
@@ -7082,7 +7082,7 @@ adoniram
 adductive 1
 avick
 aphyllous
-autoist
+autoist 1
 aquench
 attiring 1
 akees
@@ -10171,7 +10171,7 @@ argine 2
 affords 1
 altarwise 1
 ambrosine
-ambsace
+ambsace 1
 ambsaces
 acuation
 ambulance 5
@@ -20342,7 +20342,7 @@ ankylocheilia 3
 ascogonial
 arsenobismite
 apostoli
-acidproof 3
+acidproof 4
 antilogistically
 arsenofuran
 antipsoric
@@ -25344,7 +25344,7 @@ amphidiscophora 1
 azorite 2
 antigovernmental 1
 azorubine 2
-acylation
+acylation 1
 aurantia 1
 answerable 2
 agonising
