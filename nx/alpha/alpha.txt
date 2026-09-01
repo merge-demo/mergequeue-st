@@ -1726,7 +1726,7 @@ abloom
 accum
 archsee 1
 alouettes 1
-apperceive
+apperceive 1
 accumbency 2
 astarte
 accumbent 2
@@ -2247,7 +2247,7 @@ aphotaxis 1
 alleviation
 achrodextrinase 2
 anticentralism
-achroglobin 1
+achroglobin 2
 acts 1
 achroiocythaemia
 apod 2
@@ -3978,7 +3978,7 @@ antistrophically
 adjudicators 1
 aversely
 agonied 1
-aphidian 2
+aphidian 3
 alarmed 2
 argentamide 1
 adjunctively 1
@@ -7720,7 +7720,7 @@ aphorised 1
 amassed 1
 antepyretic 1
 ambigenous 1
-abelicea 1
+abelicea 2
 adaw 1
 alcoholize 1
 alcoholmeter 2
@@ -16672,7 +16672,7 @@ apocarpies
 arcking 1
 autoelevation 1
 apertural
-affrighter
+affrighter 1
 antichorus 2
 adiaphorous
 antihumanism
@@ -19446,7 +19446,7 @@ allative 3
 anallantoidea 1
 archaeoceti 3
 attempting
-adighe
+adighe 1
 autonomically
 acaena 3
 argillaceous 1
