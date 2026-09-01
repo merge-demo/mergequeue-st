@@ -2383,7 +2383,7 @@ deciders
 diphenylguanidine 2
 dubitante 2
 disownment 1
-diplontic
+diplontic 1
 dismantlement 2
 dayakker
 deciduity 1
@@ -2735,7 +2735,7 @@ diadelphia 1
 determinants 2
 dolichocephalous 2
 decorticosis 4
-decortization
+decortization 1
 decorum 2
 disconsideration 1
 dactylorhiza
@@ -5380,7 +5380,7 @@ denudating
 disordained 1
 discanter 2
 deltidial 2
-diplomatics 2
+diplomatics 3
 disc 2
 denuder 1
 dermolysis 2
