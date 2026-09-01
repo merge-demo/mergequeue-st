@@ -2844,7 +2844,7 @@ acrogen
 anaesthetics 2
 acrolein 2
 amylenes 1
-antianthropocentric 1
+antianthropocentric 2
 antireactionary 1
 acroleins 1
 acrolithan 2
@@ -3679,7 +3679,7 @@ antral 1
 arcade
 aggelation
 attic 2
-amafingo
+amafingo 1
 adenographical 2
 adenohypersthenia 2
 atry 1
@@ -8620,7 +8620,7 @@ allatrate 1
 abaction
 autosuggestibility 1
 admitty
-alineation 2
+alineation 3
 alkoxid
 atmophile
 allegata 1
@@ -10879,7 +10879,7 @@ amphibryous 1
 arm 1
 addresser
 ammonia
-ammoniacs 3
+ammoniacs 4
 aleyard 1
 acrisius 1
 artly 1
@@ -11920,7 +11920,7 @@ arracacha
 anserinae
 anamniata 2
 antimonarchy
-apishly 2
+apishly 3
 amuguis 1
 archai
 aissaoua 1
@@ -12679,7 +12679,7 @@ aesopic 1
 archbeadle
 advene 1
 allochroite 1
-algosis
+algosis 1
 aesthesia 1
 aneurisms 1
 arithmetician 3
@@ -13993,7 +13993,7 @@ aclidian 1
 antagonization
 aclu 2
 antiempiricism
-antagonizing
+antagonizing 1
 azaleamum 1
 aglee
 antaimerina 1
@@ -14291,7 +14291,7 @@ antesternal 1
 antesuperior 1
 arboretums 1
 aviators 1
-acred
+acred 1
 antisyndication 1
 antetemple 2
 assertorially 1
@@ -15880,7 +15880,7 @@ afibrinogenemia 2
 acanthus 1
 antipolygamy
 antipolitical 2
-assureds 1
+assureds 2
 azureous
 acridian
 antipollution 1
@@ -16992,7 +16992,7 @@ aventail
 aplotaxene 1
 aliened
 avascular 1
-annoyously
+annoyously 1
 adorned 1
 americanizer 2
 apneumona 2
