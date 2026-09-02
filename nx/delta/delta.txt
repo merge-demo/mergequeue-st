@@ -421,7 +421,7 @@ darwan 3
 disobedient
 dairymaids 1
 devaluate 1
-dogfighting 1
+dogfighting 2
 dithered 2
 dorsoanterior
 deadlier 2
@@ -1151,7 +1151,7 @@ defilers 1
 decadarchy 2
 dashplate 1
 dropflower 1
-duracine
+duracine 1
 dasyatis 1
 daylit 1
 dire 5
@@ -4247,7 +4247,7 @@ designatory
 delustering
 deceleration
 delved
-dermatopathology
+dermatopathology 1
 demimillionaire 2
 dysarthria
 divert 1
@@ -7300,7 +7300,7 @@ diphthongization
 determinated
 driftwood 1
 determinately 3
-dirtiness 2
+dirtiness 3
 drownding 2
 despondency 2
 denegate
@@ -11501,7 +11501,7 @@ deaner 2
 dallyingly
 discommode 1
 discommoding 1
-defervesced 3
+defervesced 4
 discommodiously 2
 downton 1
 dunker 1
@@ -15544,7 +15544,7 @@ deflocculent
 deathsmen
 donum 1
 donzel 1
-discovering 2
+discovering 3
 doubt
 dinky 1
 divelled 1
@@ -16340,7 +16340,7 @@ druggeries 3
 dochmiac 1
 duchess 1
 discobolus 3
-dismasts
+dismasts 1
 dicoelous 2
 daven 2
 dismount
@@ -16790,7 +16790,7 @@ darg 3
 disseminule 2
 drave 1
 danalite 3
-demiflouncing
+demiflouncing 1
 dictynid 2
 dextrocular
 diplasic
