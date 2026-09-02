@@ -9390,7 +9390,7 @@ dram
 dissoluble 1
 diffusate 2
 dipnoous
-deploring
+deploring 1
 djinni 2
 duplicator 1
 diffusers 3
