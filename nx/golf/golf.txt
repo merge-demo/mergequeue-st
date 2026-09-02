@@ -2309,7 +2309,7 @@ guaiacols
 goloe
 gibbartas
 galopin 1
-geldings
+geldings 1
 garlandage 2
 gelated 3
 grader 2
@@ -5025,7 +5025,7 @@ gillied 1
 gumwood 4
 gaggled
 gutturalness 2
-grasni 2
+grasni 3
 ganodont 2
 guddler 1
 garterless 2
@@ -6315,7 +6315,7 @@ gobony 2
 gaily 2
 grail 2
 goosenecked 3
-geomance 3
+geomance 4
 gemots
 gearings 2
 genarchaship 2
@@ -7704,7 +7704,7 @@ gleary 4
 garote 1
 gardeny 1
 grouseward 1
-glovey 3
+glovey 4
 gradient 1
 galey 3
 greybeard 2
@@ -10454,7 +10454,7 @@ gerrymandered 2
 geistlich 3
 gansy 4
 gastrolienal 1
-graphitization 3
+graphitization 4
 galluptious 1
 gastroadenitis 1
 goosy 1
@@ -10611,7 +10611,7 @@ glossologist
 greenockite 1
 gallow 2
 glumose 2
-gallinules 3
+gallinules 4
 graveolence
 gemmiform 1
 goy
