@@ -4872,7 +4872,7 @@ agsam
 authenticatable 1
 archlute 3
 antemeridian 1
-aeroboat 1
+aeroboat 2
 alacrify
 allegory
 aerobranchia
@@ -13200,7 +13200,7 @@ autographal 1
 animalivorous
 anticreativity 1
 alapa 3
-animalized
+animalized 1
 andaquian
 arthrosteitis 1
 astraean 1
@@ -20495,7 +20495,7 @@ auriculidae 1
 arterioloscleroses
 anoxybiosis
 arteriolosclerosis
-afaint 1
+afaint 2
 acrid
 autoagglutinin 1
 ascertainment
@@ -21423,7 +21423,7 @@ aspace 1
 asparagic
 asparagin 1
 arachnactis
-asparamic
+asparamic 1
 archaeogeology 1
 animando
 aspartame 1
@@ -21471,7 +21471,7 @@ asperly 2
 acupuncturation 1
 agromyza
 autotransplantation
-appendicostomy
+appendicostomy 1
 amphiprostyle 2
 aerophysicist 2
 aspermatic
