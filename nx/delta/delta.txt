@@ -539,7 +539,7 @@ dao 1
 damagers
 damalic
 dextrorotation 2
-demobilized 1
+demobilized 2
 designations 1
 dialyzing 1
 dioicously
@@ -3993,7 +3993,7 @@ dealership
 dawtie 1
 darwinians
 deaconed
-describer 1
+describer 2
 delsartean
 dogwinkle 3
 dysarthric 2
@@ -4140,7 +4140,7 @@ distinct 1
 deserter 1
 dyspneic 1
 deceptibility 1
-depopulations 2
+depopulations 3
 decylenic
 delocalised 1
 delocalize
@@ -15360,7 +15360,7 @@ demoralisation 1
 disappearance 2
 domiciled
 domestic
-dissipator
+dissipator 1
 deities 1
 dearn 1
 deckers
@@ -16724,7 +16724,7 @@ dramatization 1
 downshare 1
 dramatized
 dungas
-degasses 2
+degasses 3
 desubstantialize 1
 doubtless
 dramaturgically 1
