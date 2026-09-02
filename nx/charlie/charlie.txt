@@ -4394,7 +4394,7 @@ cityish
 carillons
 carinae 3
 carinal
-cavum
+cavum 1
 carinas 2
 chrysene
 carinate
@@ -5580,7 +5580,7 @@ circulatories
 cycledom 1
 cedre 1
 comicoprosaic
-crushingly 1
+crushingly 2
 catalepsis 1
 corrodentia 1
 catalexis 1
@@ -23920,7 +23920,7 @@ contumacious
 cantel
 ciguatera
 caducibranch
-coedit 2
+coedit 3
 contumely
 consisted
 chadlock 2
@@ -27156,7 +27156,7 @@ counterstep
 corabeca
 crocheting 1
 characterising
-coprostasis 2
+coprostasis 3
 chittered 1
 counterstimulate 2
 counterstimulation
@@ -31348,7 +31348,7 @@ compotation
 cloke
 curets 1
 callisthenics
-cinematographers 1
+cinematographers 2
 curetting 1
 cawk 2
 consolitorily
