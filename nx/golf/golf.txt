@@ -36,7 +36,7 @@ geoselenic
 grooveless 1
 globose 1
 gouty
-goodlike
+goodlike 1
 gabioned 3
 glutamate 3
 gmelina 3
@@ -3352,7 +3352,7 @@ geobiont 1
 gothicist 3
 gerontic 1
 generalships 2
-graphometry 5
+graphometry 6
 gondolier 1
 gnatling 1
 gorkun 2
@@ -5717,7 +5717,7 @@ guanyl 1
 glyptodontoid 4
 grieshuckle 3
 gyrolite
-gurus
+gurus 1
 gastrocolotomy 2
 gammons 3
 goldsmithery 2
@@ -6165,7 +6165,7 @@ gynecomastia 3
 gingivitis 4
 glistened
 greenhead 2
-goliaths 4
+goliaths 5
 grayout 1
 gambodic 2
 gallotannate 2
