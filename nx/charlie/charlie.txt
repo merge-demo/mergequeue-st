@@ -974,7 +974,7 @@ counterwrite 2
 calamars
 calambac 2
 coastmen 1
-calambour
+calambour 1
 castellar
 campanulaceae 1
 catenoids
@@ -2752,7 +2752,7 @@ chaquetas 3
 clarigation 1
 cinerama
 commercializing
-consorting
+consorting 1
 cannalling
 clubhauling 1
 chalks 1
@@ -3432,7 +3432,7 @@ capriccetto 1
 capricci
 curliewurlie 2
 campa 1
-capriccioso 2
+capriccioso 3
 carers
 caprices
 capricious
@@ -4981,7 +4981,7 @@ coulometry
 cartloads 1
 clicket 1
 cartmaking 1
-cartobibliography
+cartobibliography 1
 columbia 1
 cartogram 1
 comminate
@@ -6184,7 +6184,7 @@ commercials 1
 completedness 1
 catur 2
 catvine 1
-cerebellospinal 1
+cerebellospinal 2
 coordinated 1
 correlativeness
 crosstied 3
@@ -6363,7 +6363,7 @@ caustically
 causticism
 chamaeleo 1
 celticism 1
-causticity 1
+causticity 2
 conversion
 centuplicated
 camatina 3
@@ -10469,7 +10469,7 @@ cerebrometer
 childcrowing
 childed 1
 contaminations
-coronally
+coronally 1
 caph
 childish
 cogeneric
@@ -18637,7 +18637,7 @@ calisaya 1
 continentally
 coing 1
 ceroma
-coinhabitor
+coinhabitor 1
 chausses
 coinhered
 coinherence
@@ -23219,7 +23219,7 @@ cromlechs
 crakefeet
 constricted 1
 cobby 2
-constricting 1
+constricting 2
 constriction 2
 coelomic
 constrictive
@@ -25002,7 +25002,7 @@ corbula 1
 celidographer
 corchat 2
 corchorus
-corcyraean 1
+corcyraean 2
 corcle 3
 cowhand
 canalizations
@@ -25839,7 +25839,7 @@ corrosives
 chironomy
 calcars 1
 corrosivity 1
-colophonate 1
+colophonate 2
 corrugant
 corrugate 1
 cataphoric
