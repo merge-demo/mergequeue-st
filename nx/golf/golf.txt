@@ -9,7 +9,7 @@ gunrooms 3
 gabber 3
 gabbers
 gobi 3
-grasswork 5
+grasswork 6
 gratuities 3
 gabelles 3
 greedsome 4
@@ -443,7 +443,7 @@ garrote 2
 gallantness 3
 goldless 1
 galipoidine 3
-galei 3
+galei 4
 gynecotelic 2
 glandlike 3
 gloating 3
@@ -2526,7 +2526,7 @@ generations
 ghylls 3
 gastrocolpotomy 4
 growleries 6
-gastrula 3
+gastrula 4
 ganch 1
 generalities 4
 grig 3
@@ -3294,7 +3294,7 @@ gleby 1
 gang 1
 gleek 4
 grooverhead 1
-gerundial 2
+gerundial 3
 gentlewomanlike 2
 germier 2
 goatsfoot 6
@@ -5400,7 +5400,7 @@ guerdoned 3
 gus 1
 glossoepiglottidean 4
 germanly
-greenness 2
+greenness 3
 glauconiidae 1
 garottes 2
 glyptodon 3
@@ -5520,7 +5520,7 @@ glaucus 4
 guardlike 2
 grainering 3
 guarnerius 4
-gourd 1
+gourd 2
 glutition 5
 gaminish 2
 gemutlichkeit 3
