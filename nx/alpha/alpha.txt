@@ -330,7 +330,7 @@ aionial 1
 anacara 4
 acidifiers 2
 antiminsia 1
-abed 1
+abed 2
 acclimatizes
 anthophyte
 anguis 1
@@ -975,7 +975,7 @@ aggregate 4
 arethusa 1
 actinopoda
 acidifies
-adulterately
+adulterately 1
 antimeres 1
 antichymosin
 aborally
@@ -3658,10 +3658,10 @@ agora
 adendritic
 akenbold 1
 adenylic 1
-adulterine 2
+adulterine 3
 avichi
 adatom
-adenitis 1
+adenitis 2
 anticeremonious 2
 asthenies 1
 alces
@@ -4963,7 +4963,7 @@ anticommercialness
 aerograph 1
 aristogenic
 acrostical 1
-antimechanism 1
+antimechanism 2
 acculturized 2
 aerographical 1
 aerohydrodynamic 2
@@ -7873,7 +7873,7 @@ amylophosphoric 4
 academics
 aquae 2
 analphabetical 2
-apologetically 2
+apologetically 3
 ancistrocladaceae 2
 alecithal 1
 angler 1
@@ -7984,7 +7984,7 @@ amygdules
 alerting 1
 ales 2
 anion 1
-alesan 1
+alesan 2
 arenicolous 1
 alkalis
 acetphenetidin 1
@@ -9323,7 +9323,7 @@ alop 1
 axunge
 antitumor
 alopecia 1
-alopecias 1
+alopecias 2
 alopecoid 2
 antrectomy 1
 alophas
@@ -11264,7 +11264,7 @@ amphidiarthrosis 1
 aryans 1
 amphidisc 1
 acridan
-auroral
+auroral 1
 acanthoid
 aircoaches 2
 amphidiscophoran 2
@@ -11861,7 +11861,7 @@ arnoseris 1
 arcuately 1
 anticynicism 1
 ajari
-analyze
+analyze 1
 analyzed 2
 ailurophobe 2
 acetyliodide
@@ -12657,7 +12657,7 @@ asarh 1
 angwantibo 1
 anesthetization 3
 anesthetized 2
-achromotrichia 1
+achromotrichia 2
 anesthetizes
 anestrous
 anethene
@@ -21037,7 +21037,7 @@ amarant 2
 academies 2
 aminosulphonic 1
 ascyphous
-ascyrum 1
+ascyrum 2
 authorizable
 ahmet 1
 azoxynaphthalene 2
@@ -25339,7 +25339,7 @@ adjustage 2
 abeyances 2
 avahi
 aethusa 2
-arilled 1
+arilled 2
 amphidiscophora 1
 azorite 2
 antigovernmental 1
