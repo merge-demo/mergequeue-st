@@ -7386,7 +7386,7 @@ extraperiodic 2
 etalon 4
 elb 2
 elohimic 1
-enfile
+enfile 1
 erratical 2
 ecchondrotome 1
 emboliform
