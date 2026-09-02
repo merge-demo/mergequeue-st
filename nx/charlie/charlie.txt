@@ -260,7 +260,7 @@ corregidor 1
 crumbly 1
 cachemic 1
 coemploy
-cities 1
+cities 2
 cachepot 1
 chillies 2
 crenelations 1
@@ -685,7 +685,7 @@ contributory 1
 cerris 1
 caffeic
 caffeines 1
-cobblerless
+cobblerless 1
 compensable 1
 caffeinic
 caffeins
@@ -1114,7 +1114,7 @@ cheeser 1
 calciner
 chomer 2
 clamworm 1
-congressman 1
+congressman 2
 columella
 calcinosis 3
 contraprovectant
@@ -6422,7 +6422,7 @@ cornutus 1
 cienega 2
 cautiones 4
 canard
-carbarns 1
+carbarns 2
 cautious
 cautiously
 conduciveness 1
@@ -6742,7 +6742,7 @@ celebs
 celemin 3
 celemines
 celery 2
-cimborio
+cimborio 1
 cypres 1
 celerities 2
 celeste
@@ -7680,7 +7680,7 @@ cermets 2
 cern 3
 cavaliership
 cityward
-croquet
+croquet 1
 cerniture 1
 cernuous 1
 contracter
@@ -8259,7 +8259,7 @@ chalcus 1
 chaldean 1
 chiver
 caucused
-caricetum
+caricetum 1
 councillary
 chalder
 coholder 2
@@ -10128,7 +10128,7 @@ chevalets
 chevalier 1
 centeredness 1
 cystencyte
-chevaliers 2
+chevaliers 3
 chippewa
 categorizers 2
 compagnie 2
@@ -14521,7 +14521,7 @@ cankerwort 1
 culver
 cerilla 2
 catheads 1
-cavy 2
+cavy 3
 cyst
 consoler
 continuantly 1
@@ -15380,7 +15380,7 @@ cen
 conidiiferous
 clapper
 carabins 2
-cloragen 2
+cloragen 3
 clappered 2
 chitchatting
 clappers 2
@@ -21432,7 +21432,7 @@ conclusively
 compassionated 1
 criterion
 chemicalize
-cementlike
+cementlike 1
 cyetic
 crotons
 conclusory
@@ -22552,7 +22552,7 @@ crinatory 1
 conjurations 1
 cesar 1
 conjured
-conjurement
+conjurement 1
 canel 3
 championlike 2
 conjures 1
@@ -25800,7 +25800,7 @@ corroborative
 corroboratively
 corroborator 1
 cathedratically 1
-corroboratory
+corroboratory 1
 corroboratorily 1
 collectional 2
 creem 1
@@ -30413,7 +30413,7 @@ crustated 1
 cripes
 contesters
 crusted
-creedlessness 1
+creedlessness 2
 crusty 2
 crustier 1
 centaurial 3
@@ -31421,7 +31421,7 @@ curler
 canoed
 curlews 2
 curlicue 3
-choriambize 1
+choriambize 2
 cosmogonist
 candied
 curlycues
