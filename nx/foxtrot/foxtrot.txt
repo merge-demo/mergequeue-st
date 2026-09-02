@@ -567,7 +567,7 @@ flagstaff 2
 frighteningly 3
 furmety 7
 faufel 1
-forlornity
+forlornity 1
 fallowist 1
 foretasted 3
 fivefold 2
@@ -1091,7 +1091,7 @@ forbade
 familiarizing 1
 figaro 4
 frizzling 2
-farthing 5
+farthing 6
 foresay
 fluffing 3
 feverishness 1
@@ -1565,7 +1565,7 @@ fibrinogen 8
 filespec 4
 floristic 2
 favorites 2
-furstone 2
+furstone 3
 fadges 4
 flavobacterium 2
 forsee
@@ -4681,7 +4681,7 @@ fortitudes 1
 fixer 2
 freshhearted 3
 fixidity 4
-fn 2
+fn 3
 fixing 3
 flannelleaf
 fixt 1
@@ -9379,7 +9379,7 @@ fromward 2
 ferromagnesian 3
 frangulic 2
 forjudge 1
-flichter 1
+flichter 2
 forbiddal 1
 fishless 2
 fetichistic 6
