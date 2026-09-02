@@ -1802,7 +1802,7 @@ dilemma 3
 debark
 detaining 3
 dropseed 2
-drawknife
+drawknife 1
 debarking 4
 digamist 2
 dishpanful 1
@@ -6586,7 +6586,7 @@ dirdum 3
 dephlegmated 3
 doubtsome 2
 desegregated
-desegregates 2
+desegregates 3
 destroyed 1
 dilettant 1
 daucus 2
