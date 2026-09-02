@@ -1941,7 +1941,7 @@ froze 1
 floccule 5
 flaring 1
 finagling 1
-fonly 1
+fonly 2
 flanchard 1
 furzier 1
 forworn 4
@@ -3109,7 +3109,7 @@ finned 2
 flowed 3
 fapesmo 1
 florences 3
-frankfurt 3
+frankfurt 4
 freres 4
 feeblehearted 2
 foursomes 3
@@ -6450,7 +6450,7 @@ fanflower 1
 footbaths 2
 forweary 2
 flummery 3
-fidgeting 3
+fidgeting 4
 filth 2
 folkcraft 1
 featliness 1
@@ -11536,7 +11536,7 @@ forleave 4
 ferruler 3
 fistic 3
 foreremembered 6
-fab 4
+fab 5
 furtiveness 1
 frena 4
 foxfeet 2
