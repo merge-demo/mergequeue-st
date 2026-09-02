@@ -5935,7 +5935,7 @@ catha 1
 capillatus 1
 convolutionary
 cathay
-cathayan
+cathayan 1
 cathar
 cathari 1
 catharina 1
@@ -22073,7 +22073,7 @@ conflictless 2
 conflictory
 conflicts
 cheltenham
-conflow
+conflow 1
 casaquin 1
 clockworks 2
 confluent
