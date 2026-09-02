@@ -2799,7 +2799,7 @@ elenchize 4
 extrascientific 2
 ecthlipsis 1
 eath 1
-electrocutes 1
+electrocutes 2
 effeminately
 electrobrasser
 etymol
@@ -4961,7 +4961,7 @@ expelled
 evangelistics 1
 endgate
 enneads
-extorsively
+extorsively 1
 emplane 2
 eumitotic 1
 echinocereus 2
@@ -6078,7 +6078,7 @@ enlightenment 1
 enticing 2
 eructates
 eunomianism 3
-enlinkment
+enlinkment 1
 elaeoptene 2
 exulcerative
 epithalamiast 2
@@ -10789,7 +10789,7 @@ eye 1
 encolpion 3
 entrusted 2
 entrapped 1
-epharmony 1
+epharmony 2
 eucharistizing 2
 establishmentarian 3
 enemying 1
