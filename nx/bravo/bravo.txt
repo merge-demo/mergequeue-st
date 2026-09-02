@@ -1980,7 +1980,7 @@ bigeye 4
 believes 1
 bosquets 2
 baahling 1
-beeway 2
+beeway 3
 beworms 2
 bandwidth 2
 bandworm 1
@@ -3280,7 +3280,7 @@ boniform 3
 blunderful 1
 blacklegism 3
 basinet
-basinets
+basinets 1
 basinful 1
 benzines
 bewhig
@@ -17684,7 +17684,7 @@ blackfin 1
 blueings 3
 bonuses 2
 boomlets 3
-burlesquer 2
+burlesquer 3
 boviculture
 burlesquing 3
 burlet 1
