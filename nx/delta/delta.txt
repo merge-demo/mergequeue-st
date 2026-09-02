@@ -1583,7 +1583,7 @@ deadlines 2
 determinatively
 desitive
 disembody 2
-deflagrable 2
+deflagrable 3
 debateable 3
 decipolar
 duplicia
@@ -1828,7 +1828,7 @@ distintion 1
 delusterant
 distortionist
 disunities
-demagnetiser 2
+demagnetiser 3
 debauchedly 1
 dissuades 1
 dobson 3
@@ -2420,7 +2420,7 @@ dyssynergy
 diureide 1
 dacrya 1
 disobediently
-degorder 1
+degorder 2
 decimolar 2
 diplacusis 1
 deluminize 1
@@ -4494,7 +4494,7 @@ decussis 1
 dendrite 1
 decern 1
 dorsilumbar 1
-devocation
+devocation 1
 drabbled
 demigroat
 dotier
@@ -6736,7 +6736,7 @@ deboistness
 designer 4
 discerptible 1
 donicker 2
-designful 4
+designful 5
 drylot 2
 dillyman 1
 downshifts 2
@@ -8556,7 +8556,7 @@ dexterously 1
 drys
 deflex 1
 diaphony
-diaphysial
+diaphysial 1
 derisiveness 3
 diaphonic
 divertedly 1
@@ -9475,7 +9475,7 @@ dite 1
 digestibleness 1
 delesseriaceae 4
 decline 2
-dinornithidae
+dinornithidae 1
 digesting
 dodecadrachm 1
 deplorate
@@ -9593,7 +9593,7 @@ dogmeat 2
 diddering
 druse 2
 diguanide 2
-deil 2
+deil 3
 deadline
 differentiating
 deepmost 1
@@ -11749,7 +11749,7 @@ disbalance 1
 disability 1
 discrested 1
 dowering 1
-dined 2
+dined 3
 dermutation 1
 discretion
 discretional 3
@@ -12658,7 +12658,7 @@ diffrangibility 1
 disleaved 2
 decolorized
 disjointure 3
-disepalous 1
+disepalous 2
 dentalize 1
 daedalus 2
 demiheavenly
@@ -14464,7 +14464,7 @@ divertimento 2
 denarcotize 2
 drunkensome 1
 dehydrogenated
-drainages
+drainages 1
 divertingness
 duckery 2
 dissolveability
@@ -17737,7 +17737,7 @@ deuteroelastose 4
 decaffeinating 2
 duodecagon 1
 disinvestiture 3
-deglycerin 1
+deglycerin 2
 dubber 3
 dampener 1
 dubbin
