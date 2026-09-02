@@ -9523,7 +9523,7 @@ checkpointing
 combmaking 2
 concionate 1
 checkpoints 2
-commonize
+commonize 1
 cogitative
 checkrack 2
 casehardens 1
