@@ -8168,7 +8168,7 @@ empiecement 2
 exothermal
 etwas 4
 equidominant 2
-equidistantly
+equidistantly 1
 enisling 2
 euthenic 1
 earlobe 1
@@ -11121,7 +11121,7 @@ espies 4
 esquiredom 1
 encage 1
 entune 3
-emulated 1
+emulated 2
 emblemish 1
 eutaenia 2
 etheostomoid
