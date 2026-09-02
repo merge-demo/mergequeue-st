@@ -1196,7 +1196,7 @@ bajra 2
 bogeyed 3
 brickset 1
 beltmen 2
-baized 1
+baized 2
 bajury
 bonnaz 2
 braising
@@ -1811,7 +1811,7 @@ bamboozling 2
 bilanders
 brachman 3
 burdie
-bamboula
+bamboula 1
 banterer 1
 boswellized 2
 bowmen 1
@@ -1826,7 +1826,7 @@ bikie 1
 bruiting 2
 bechtler
 blocklike 2
-benthamite 2
+benthamite 3
 bromohydrin
 bamming
 blennocystitis 2
@@ -3163,7 +3163,7 @@ brachiating
 biphase 1
 baseplug 3
 basepoint 2
-behavers
+behavers 1
 baser 2
 brazen 4
 blanda
@@ -3344,7 +3344,7 @@ bison 2
 baggiest 2
 beings
 bandurria 1
-basketmaking
+basketmaking 1
 batikuling 2
 basketware 2
 bluecoat
@@ -4252,7 +4252,7 @@ begaud
 begat 2
 beardless 2
 beautified
-bathomania 1
+bathomania 2
 bishopbird
 breadths 2
 banff 3
@@ -6073,7 +6073,7 @@ bunton
 boyishly 4
 bumfeg 2
 bituminization 1
-bequeathable
+bequeathable 1
 becowarded 3
 blueball
 berat 1
@@ -6799,7 +6799,7 @@ bradypodoid 1
 bluehearts 2
 buprestidan 1
 bertie
-bertolonia 1
+bertolonia 2
 bioacoustics 1
 basigenous 2
 bertrum 1
@@ -8816,7 +8816,7 @@ brecia 1
 bingos 1
 bounden 2
 besets 2
-bini 4
+bini 5
 beraking 1
 berakoth 1
 biniou 1
@@ -9761,7 +9761,7 @@ brachiated
 buckskin 1
 bedragglement 2
 bissonata 2
-besing 1
+besing 2
 bistate 1
 biosyntheses 1
 bibliophage
@@ -9912,7 +9912,7 @@ bitterender 1
 bombasts 2
 ballooning
 bapt 1
-baffed 2
+baffed 3
 blepharodiastasis 2
 blockers
 benames 2
@@ -11126,7 +11126,7 @@ byard
 bourree
 basophobia 2
 becrimes 2
-bache
+bache 1
 bipedism 2
 bougies
 bobadilism 1
@@ -11990,7 +11990,7 @@ bogtrotting 2
 batfowler
 boardings 1
 batel 2
-bimillenary 2
+bimillenary 3
 brother 2
 bogued
 bogus
@@ -13766,7 +13766,7 @@ butle 4
 bigheads 3
 bouzoukia 1
 bouzoukis 1
-bloat 1
+bloat 2
 burga 3
 bufflehorn 1
 bovaristic 1
@@ -15658,7 +15658,7 @@ brooky 1
 blandishingly 1
 britishhood
 busser 1
-britishism 3
+britishism 4
 boultell 1
 barley 1
 bridlewise 3
@@ -17978,7 +17978,7 @@ betties 1
 brigued
 bulldust 4
 breakups
-borderland 2
+borderland 3
 bobachee
 bromometric 2
 barkeeper
@@ -18107,7 +18107,7 @@ bupleurum 2
 boosts 2
 blocklayer 3
 butcherbird 3
-bellylike 3
+bellylike 4
 breakably
 brins 1
 benzal 1
