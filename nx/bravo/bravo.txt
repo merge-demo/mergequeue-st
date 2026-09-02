@@ -3879,7 +3879,7 @@ bawdies 3
 bestrow 2
 bricklaying 2
 backaches
-belvidere
+belvidere 1
 boxbush
 bedaggered 2
 breastless
@@ -7004,7 +7004,7 @@ besognier 1
 blowlamp 1
 biznagas 1
 bookcraft 1
-bioplasms 2
+bioplasms 3
 basing 2
 branchiostomidae 1
 ballpoints
@@ -11836,7 +11836,7 @@ brashes 2
 buttonless
 barfly 2
 bodybending
-bodybuilder
+bodybuilder 1
 betrinket 1
 birthing
 bard 3
