@@ -1565,7 +1565,7 @@ fibrinogen 8
 filespec 4
 floristic 2
 favorites 2
-furstone 2
+furstone 3
 fadges 4
 flavobacterium 2
 forsee
@@ -1813,7 +1813,7 @@ flyspecks 2
 fastener 2
 forgets 1
 furphy 2
-featured 1
+featured 2
 fluidify 2
 featureful 1
 featurelessness 1
@@ -6644,7 +6644,7 @@ frilliest 2
 fantasize 3
 fancify 1
 footpath
-forevouched
+forevouched 1
 figured
 foehnlike 2
 foeless
@@ -6656,7 +6656,7 @@ fripperer 1
 foemen
 fogyish 1
 forethoughtfully 2
-fullered 2
+fullered 3
 frankfold 3
 flaringly 2
 foetation 3
@@ -10489,7 +10489,7 @@ flche 1
 frontstall 5
 forstall
 frizes
-fellah 2
+fellah 3
 ferocity 1
 frontwards 2
 fragrant 1
@@ -10888,7 +10888,7 @@ fungosities 3
 flaite
 functionally
 footholds 1
-fallings
+fallings 1
 fossors 1
 flavor 3
 frowardly 3
