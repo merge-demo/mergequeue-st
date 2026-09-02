@@ -416,7 +416,7 @@ fibroligamentous 2
 fauchards 4
 fur 4
 frockmaker 2
-fairship 4
+fairship 5
 feal
 flitting
 fogmen
@@ -2129,7 +2129,7 @@ fireplow 3
 feldsparphyre 3
 fountainous
 foreprize 1
-fulsome
+fulsome 1
 faculous 4
 favours 3
 foddered 3
@@ -4911,7 +4911,7 @@ fissura 1
 flambeau 3
 foamier 3
 ferny
-fixate 1
+fixate 2
 fossilist 2
 floreat 2
 forbearers 3
@@ -9226,7 +9226,7 @@ filicide 1
 frenchiness
 foolify 1
 formicaria 1
-fraena 2
+fraena 3
 frostproofing 6
 forward
 filenames 3
@@ -10738,7 +10738,7 @@ fleckered 3
 fartlek 2
 fortran 3
 flunkeyistic 2
-forelaid 3
+forelaid 4
 fil
 fellmongering
 flavedo 2
