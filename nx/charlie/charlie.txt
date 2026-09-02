@@ -3402,7 +3402,7 @@ capping
 cervelas 2
 cyclopite 2
 coenact
-comfits
+comfits 1
 cappings
 coagencies 1
 capple
@@ -5354,7 +5354,7 @@ cellarers
 cast
 castable
 castagnole
-castalian
+castalian 1
 castalides
 cardiopuncture 2
 chertier
@@ -12751,7 +12751,7 @@ cutie 1
 chugged
 chuggers 1
 ceylonese 2
-chugging 2
+chugging 3
 centilitre
 chuje 1
 clockmaker 1
@@ -19469,7 +19469,7 @@ colourational 2
 cutitis
 crotchetiness
 coltpixie
-colourative 1
+colourative 2
 colourer 3
 colourers 1
 caveated 1
@@ -21738,7 +21738,7 @@ claustrophobia 1
 condolers
 calcivorous
 camden 1
-condolingly
+condolingly 1
 contracture 3
 collarbones
 condominiums 1
@@ -28091,7 +28091,7 @@ coastwise
 crane
 craned
 cerveliere 1
-cichoriaceae 1
+cichoriaceae 2
 cranelike
 cautionry
 cholesterinuria
@@ -30177,7 +30177,7 @@ concorder
 cruciation 3
 crucible 1
 credulousness
-cuticularization
+cuticularization 1
 chimango 3
 chemicoengineering
 cruciferae
