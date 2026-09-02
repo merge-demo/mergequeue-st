@@ -303,7 +303,7 @@ dealbate 1
 daybed 1
 devchar 1
 disembowelment 1
-disgruntling
+disgruntling 1
 dollfaced 1
 daybill 1
 disinteress 3
@@ -7964,7 +7964,7 @@ dorosternal
 dextrolimonene
 dichlorobenzene
 dimethylaniline 1
-dimensive 1
+dimensive 2
 dookit 3
 dolichofacial 2
 delicatessens 1
@@ -8949,7 +8949,7 @@ demographic 1
 demonstrably 3
 dub 2
 dail 1
-dihydride 4
+dihydride 5
 dated 3
 dichroitic 1
 dichromasia 3
@@ -10002,7 +10002,7 @@ declaiming
 deinos 1
 dimple
 diplomas 3
-deputised 1
+deputised 2
 dessertspoonfuls 1
 disobliger 1
 dimplement 1
@@ -14355,7 +14355,7 @@ deanship
 desoxyribose
 dishallucination 1
 decimestrial 2
-diuranate 1
+diuranate 2
 dreadingly
 drawly
 diureses 1
