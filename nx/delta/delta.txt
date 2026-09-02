@@ -9430,7 +9430,7 @@ digamies
 divekeeper
 displume
 deglut
-destructively 3
+destructively 4
 digamma 2
 demilegato
 downfeed 2
@@ -11848,7 +11848,7 @@ distrouble 4
 dihelium
 diallagoid 1
 disdainfulness 1
-delations
+delations 1
 deflagrating 1
 drawknives 1
 dentel
@@ -17177,7 +17177,7 @@ decuries 1
 dipygi
 devarshi 1
 draegerman 1
-drillman 2
+drillman 3
 discourser 3
 drylots 4
 dynamists
