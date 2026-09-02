@@ -4347,7 +4347,7 @@ bossdoms 1
 beche
 becheck
 befool 2
-bechic 4
+bechic 5
 bechignoned 1
 bacchanalize 2
 balzacian
@@ -17097,7 +17097,7 @@ botonee 2
 blackcaps
 beduck
 bullet
-byepath
+byepath 1
 bulletheadedness 1
 baptornis 1
 bayard 1
