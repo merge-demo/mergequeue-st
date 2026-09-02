@@ -109,7 +109,7 @@ fleshliest 1
 fingertips 2
 faciends 3
 featheredges
-fluidization 2
+fluidization 3
 facient 2
 furaldehyde 2
 facilitate 1
@@ -1215,7 +1215,7 @@ frizzily
 filipendula
 forespeed
 fluorography 1
-folds 3
+folds 4
 fassalite 3
 fastbacks 2
 flagman 3
@@ -1418,7 +1418,7 @@ fatuitous 3
 flitter 3
 foothil
 festing
-familiarise 2
+familiarise 3
 floorwalkers 2
 fringing 2
 fistulatous 1
@@ -5054,7 +5054,7 @@ flappet 3
 fermions
 figlike 1
 froppish
-fellations
+fellations 1
 fishline 1
 fosses 1
 fetialis 1
@@ -5960,7 +5960,7 @@ frenchification 3
 frailly 4
 fivepins 2
 futileness
-frightening 2
+frightening 3
 fallibility 5
 fortunite 5
 floodlit 1
@@ -7893,7 +7893,7 @@ forbear 3
 foreran 5
 fascination 2
 fenugreek 1
-figgle 1
+figgle 2
 forereading 1
 forereckon 1
 foredates 3
@@ -8379,7 +8379,7 @@ fontlet 3
 ferrotyping 1
 firmament 1
 fatherlike 1
-flapperish 2
+flapperish 3
 flatulentness 2
 fittiest 3
 fair 2
@@ -8674,7 +8674,7 @@ fearfully 3
 foredune 5
 fulup
 fringilloid 3
-forsakenness 1
+forsakenness 2
 fermentarian 3
 forsythia
 findon 3
@@ -9348,7 +9348,7 @@ feis 4
 forsado 3
 fluidise 1
 faulting 4
-flappers 3
+flappers 4
 forty 6
 foveae 2
 furfurole 4
@@ -10180,7 +10180,7 @@ foray
 faunula 2
 felled 2
 forgives 4
-fliting 6
+fliting 7
 fenite 1
 fissile 4
 fluoride 3
@@ -10557,7 +10557,7 @@ filterer 2
 frouziest 2
 flite
 floristry 1
-fusiliers
+fusiliers 1
 fetterer 1
 fetichmonger 2
 firemen 2
@@ -11578,7 +11578,7 @@ faucet 1
 fibronucleated 2
 fluoric 2
 feu 4
-feuing 5
+feuing 6
 fluctigerous 1
 fusillading 2
 feuage 1
