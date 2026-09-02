@@ -1560,7 +1560,7 @@ guester 4
 gismos 2
 globicephala 2
 gymnura
-gauntlet 2
+gauntlet 3
 gutteral 1
 gulanganes 1
 galleria 2
@@ -2684,7 +2684,7 @@ glashan 2
 globularness 3
 glandule 2
 gravitons 2
-gamey 1
+gamey 2
 gusle 2
 grith 4
 gemmoid 3
@@ -7019,7 +7019,7 @@ gavel 3
 gummer 2
 goofily 1
 goops 1
-guttae 1
+guttae 2
 gladioli 4
 gentil 1
 gumshoes 2
@@ -8502,7 +8502,7 @@ glossingly 1
 glossopalatinus 2
 gammer 3
 gov 5
-gleyde 2
+gleyde 3
 grivets 1
 glaze 2
 glands 4
@@ -8767,7 +8767,7 @@ goustrous 2
 galeus 2
 gobbin 3
 germling 2
-gaypoo
+gaypoo 1
 gladless 4
 gagged
 gralloch 1
