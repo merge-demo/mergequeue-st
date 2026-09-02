@@ -5343,7 +5343,7 @@ begnaw 1
 biharmonic 2
 borderlines 1
 balmy
-begone
+begone 1
 baryte 1
 begonia 1
 begoniales 1
