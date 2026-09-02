@@ -2252,7 +2252,7 @@ acts 1
 achroiocythaemia
 apod 2
 anabasse
-antizymotic
+antizymotic 1
 anguinidae 1
 autoptic 1
 assessably 1
@@ -3363,7 +3363,7 @@ aristolochiaceous
 acetite 1
 avalanching
 astrals 1
-asklent 1
+asklent 2
 alumroot 1
 aggravation 1
 appassionato 1
@@ -6493,7 +6493,7 @@ axanthopsia
 antignostical
 ameliorant
 auxanology 1
-aphroditic 2
+aphroditic 3
 adams 1
 acidaemia 2
 agunah 2
@@ -7736,7 +7736,7 @@ averroistic
 actualise 1
 arthrolith 2
 administrants 1
-albumenize 1
+albumenize 2
 aquilino 3
 alcoholometric
 antitaxation 3
@@ -8744,7 +8744,7 @@ assurable 1
 alliaceae 1
 annuities 1
 alleve 2
-alleviate 1
+alleviate 2
 anthobian
 arachnological
 accessed
@@ -17096,7 +17096,7 @@ atomic 1
 apodemas
 asportation 1
 apodematal 1
-abstinence
+abstinence 1
 apodiabolosis 3
 arsenyl 2
 arithmetize
@@ -20476,7 +20476,7 @@ attempter
 agilmente 4
 ambushment 1
 archit
-asg
+asg 1
 arcula
 anticorrosively 2
 admov
@@ -21350,7 +21350,7 @@ antichurchian 1
 asyndetic
 androphore
 amyloses
-analectic 1
+analectic 2
 amphoras 2
 allogenic
 azobacter 1
@@ -24201,7 +24201,7 @@ autoinfection
 alnein 3
 anhydraemia 3
 autolyzate 3
-autolyzes 2
+autolyzes 3
 autoloader
 autology
 aporosa 1
