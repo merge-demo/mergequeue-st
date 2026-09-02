@@ -974,7 +974,7 @@ counterwrite 2
 calamars
 calambac 2
 coastmen 1
-calambour
+calambour 1
 castellar
 campanulaceae 1
 catenoids
@@ -3432,7 +3432,7 @@ capriccetto 1
 capricci
 curliewurlie 2
 campa 1
-capriccioso 2
+capriccioso 3
 carers
 caprices
 capricious
@@ -6363,7 +6363,7 @@ caustically
 causticism
 chamaeleo 1
 celticism 1
-causticity 1
+causticity 2
 conversion
 centuplicated
 camatina 3
@@ -18637,7 +18637,7 @@ calisaya 1
 continentally
 coing 1
 ceroma
-coinhabitor
+coinhabitor 1
 chausses
 coinhered
 coinherence
@@ -25002,7 +25002,7 @@ corbula 1
 celidographer
 corchat 2
 corchorus
-corcyraean 1
+corcyraean 2
 corcle 3
 cowhand
 canalizations
@@ -25839,7 +25839,7 @@ corrosives
 chironomy
 calcars 1
 corrosivity 1
-colophonate 1
+colophonate 2
 corrugant
 corrugate 1
 cataphoric
