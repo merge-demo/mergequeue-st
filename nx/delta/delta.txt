@@ -1558,7 +1558,7 @@ deactivators
 distressedness 1
 doublure 1
 drail 1
-deaden 1
+deaden 2
 droops 3
 docked 1
 diadelphian 3
@@ -7050,7 +7050,7 @@ distillage 6
 disenthroning 1
 duramen
 destinezite 1
-driveable 2
+driveable 3
 diglottist 3
 dessous 1
 devall 1
