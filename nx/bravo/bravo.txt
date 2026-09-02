@@ -2696,7 +2696,7 @@ bungy 3
 blowoffs 3
 birdland
 boraxes
-beakhead 1
+beakhead 2
 baxterianism 2
 burnouses
 bewaitered
@@ -3573,7 +3573,7 @@ bathymetry 2
 bathymetrical 1
 biggonet 2
 bulleted 1
-bathing
+bathing 1
 bastinadoes 3
 beckoning
 bridgekeeper 2
