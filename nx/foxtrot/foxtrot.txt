@@ -824,7 +824,7 @@ freckened 1
 freedoot 3
 forebows 4
 free 2
-fragilities 4
+fragilities 5
 fantasying 6
 falterer 2
 forthbrought 1
@@ -1933,7 +1933,7 @@ furtherance 2
 finback 1
 feteritas 4
 federalistic 1
-freight 1
+freight 2
 furling 2
 fileable 4
 friable 2
@@ -4543,7 +4543,7 @@ fairyfolk 3
 filibranchia 2
 fishgigs 5
 fatiguing
-fealties 7
+fealties 8
 flagellation 3
 fruitcake 2
 forethinker 1
@@ -5425,7 +5425,7 @@ fabricators 3
 forefigure 3
 furor 1
 flurt 1
-fittingness 5
+fittingness 6
 flagellula 4
 fault 4
 freezing 1
@@ -5904,7 +5904,7 @@ flockings 4
 fallouts 3
 fulsamic 1
 forgiveable 2
-folgerite 4
+folgerite 5
 frittered 2
 fencepost 3
 futuristic 4
@@ -6121,7 +6121,7 @@ frightenedly 1
 foxtongue 2
 fenster
 flounce 1
-flounced 3
+flounced 4
 flounder 2
 frowardness
 faraway
@@ -7041,7 +7041,7 @@ fougasse 3
 fontful 1
 fantassin
 forehandedly 2
-frowze 2
+frowze 3
 fonticulus 1
 ferrocene
 flapmouthed
@@ -7144,7 +7144,7 @@ frostlike 1
 featherpated 6
 follied 1
 figwort 2
-foleye 2
+foleye 3
 farinacious
 frontoparietal 3
 footers 1
@@ -9255,7 +9255,7 @@ freeborn 2
 fragmentariness 1
 foundries 3
 faucals 4
-fidalgo 1
+fidalgo 2
 forsakes 1
 flattener 1
 feldspathose
@@ -9427,7 +9427,7 @@ frails 1
 financer 1
 fisheater
 frokin 2
-fraser 2
+fraser 3
 foolhead 1
 flaxseed 3
 franklins 1
@@ -11405,14 +11405,14 @@ farceuse 2
 fleak 1
 furnishes 2
 flavoursome
-flams 2
+flams 3
 functionlessness
 floors 1
 frosk
 feater 4
 fringe 2
 forksmith
-forestership 1
+forestership 2
 forcemeat 1
 flustrum
 forcipial 4
