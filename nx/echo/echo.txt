@@ -264,7 +264,7 @@ easterling 1
 exhumers 1
 epigoneion 1
 enqueue 1
-enantioblastic 2
+enantioblastic 3
 endognath 2
 ectocuniform 2
 esquired 5
@@ -2012,7 +2012,7 @@ encephalometric 3
 electrograph 3
 embroilments 1
 eyeblink
-eldin 2
+eldin 3
 electrolyzation 1
 embitterments 1
 echoencephalography 2
@@ -11520,7 +11520,7 @@ exhibited 1
 expended 2
 electromyogram
 emendate
-engouled
+engouled 1
 escocheon 1
 eunuchize 4
 evince 4
