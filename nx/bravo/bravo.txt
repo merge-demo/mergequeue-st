@@ -790,7 +790,7 @@ buba
 bat 1
 brushcut
 bygoing 3
-banket 4
+banket 5
 badmouthed 3
 burled 1
 bullfrog 1
@@ -6713,7 +6713,7 @@ bucketfull 1
 buffoons
 bionic
 bechalks 1
-beshrouding 3
+beshrouding 4
 brakesmen 3
 burrowers 2
 breadboxes 1
@@ -10715,7 +10715,7 @@ browpiece
 bookbinderies 1
 bullweeds
 blenching
-blend
+blend 1
 bestill
 bilateralness 3
 blendwater 2
