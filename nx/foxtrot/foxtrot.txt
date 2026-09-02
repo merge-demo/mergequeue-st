@@ -4155,7 +4155,7 @@ firebox 3
 flocculation 1
 fellowcraft 3
 floerkea
-fibrils
+fibrils 1
 faintness 2
 fluophosphate 2
 foreaccounting
@@ -11472,7 +11472,7 @@ forletting
 furrowlike 2
 forewish
 fiction 3
-furcately 2
+furcately 3
 fissury 1
 ferntickle 1
 fin 1
