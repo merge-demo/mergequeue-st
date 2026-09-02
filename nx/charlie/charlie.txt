@@ -4040,7 +4040,7 @@ cholericness
 carcinophagous
 carcinopolypus
 chloroformization
-carcinosarcoma
+carcinosarcoma 1
 coloreds 3
 chloralide
 chinanta 1
@@ -8107,7 +8107,7 @@ coordain
 comrogue 1
 crepuscule
 chainless
-counteractions 1
+counteractions 2
 crosscheck 2
 coelodont 1
 chlortetracycline
