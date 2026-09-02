@@ -4297,7 +4297,7 @@ aggenerate
 armorer
 autotomize 2
 alchornea 1
-aesculapius
+aesculapius 1
 anomaloflorous
 assubjugate 1
 annoyful
