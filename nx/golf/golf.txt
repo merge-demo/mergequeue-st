@@ -3447,7 +3447,7 @@ gleave 5
 goyin
 grot 1
 gestatory
-geriatric 2
+geriatric 3
 grivoise 1
 graphonomy 4
 genipaps 6
@@ -5437,7 +5437,7 @@ gandhiism 3
 gliffy 2
 grazie 4
 grid 4
-goter 1
+goter 2
 gradines 4
 goodwillies 2
 gliridae 4
@@ -7416,7 +7416,7 @@ ghedda 2
 greenfish
 goosiest 2
 gunflints 2
-gelsemine 1
+gelsemine 2
 gunnery 1
 grangerization 5
 gadean 5
@@ -9558,7 +9558,7 @@ greenskeeper
 goggler 1
 gur 4
 gridiron
-gibson
+gibson 1
 ghostism 1
 goster 3
 graphical 3
