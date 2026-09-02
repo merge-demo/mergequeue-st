@@ -3086,7 +3086,7 @@ fishtails 1
 flakeboard
 fillmass 2
 fibrinosis 2
-feringi 2
+feringi 3
 fantasia 1
 fiercehearted 2
 flintily 2
@@ -3275,7 +3275,7 @@ fiddlerfish 1
 fraticellian 1
 ferrites 1
 faunology 5
-fluidrams
+fluidrams 1
 fieldpieces 3
 feudovassalism 4
 forefeet 1
@@ -6821,7 +6821,7 @@ foreheater 1
 foreleader
 foveiform 6
 fjelds 2
-frette
+frette 1
 fiddlebrained 3
 freeing 3
 foraminiferan 2
@@ -10912,7 +10912,7 @@ faeryland 2
 finished 3
 fucused 1
 forthcoming 3
-foraminous 2
+foraminous 3
 fractural 2
 ferrum 1
 ferris 2
