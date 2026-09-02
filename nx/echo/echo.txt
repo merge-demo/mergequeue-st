@@ -1466,7 +1466,7 @@ encompasses 2
 eurythermous 3
 electivism 3
 electroshocks 3
-exposal
+exposal 1
 embolium
 embarrased 4
 empathic 2
@@ -6327,7 +6327,7 @@ enseem 2
 exuberant 2
 enserfed 3
 ekamanganese 2
-enshade 4
+enshade 5
 enshawl 1
 espace 1
 extrabold 1
@@ -10652,7 +10652,7 @@ enchilada 2
 eudemonistic 1
 enfacement 3
 eudemonics
-endoappendicitis 2
+endoappendicitis 3
 equivalencies 2
 enwall 2
 epinephrine
