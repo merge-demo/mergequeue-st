@@ -414,7 +414,7 @@ folie 1
 flechettes 2
 fibroligamentous 2
 fauchards 4
-fur 3
+fur 4
 frockmaker 2
 fairship 4
 feal
@@ -674,7 +674,7 @@ flapper 1
 ferlie 1
 fanweed 2
 fanatico
-florisugent 1
+florisugent 2
 forzandos 2
 fobs 1
 familism 2
@@ -865,7 +865,7 @@ furfooz 1
 foundationlessness 3
 flushed 2
 forestlike 2
-fatheads 1
+fatheads 2
 featural 3
 flatheads 2
 fortake 4
@@ -1109,7 +1109,7 @@ falseheartedness 1
 fennels 3
 flexures 4
 faussebraie 1
-flippers 2
+flippers 3
 filberts 1
 febrifuge 3
 forefends 3
@@ -3155,7 +3155,7 @@ feuding 1
 forepad 1
 fibromuscular 3
 formule 4
-felworts 1
+felworts 2
 frolicful 1
 fluxibleness 2
 fadedly 1
@@ -3744,7 +3744,7 @@ funnily
 flippantness
 faultlessly 2
 fortressed 3
-furoate 3
+furoate 4
 failure 1
 fibula
 fjorgyn 3
@@ -5469,7 +5469,7 @@ forevow
 firearmed 4
 fistularioid 3
 falsifiable
-fatalisms 1
+fatalisms 2
 fley 3
 foxed 2
 flem 2
@@ -6252,7 +6252,7 @@ fecit 3
 flamefish 1
 fluoarsenate 3
 fissuring
-ferromagnet 4
+ferromagnet 5
 fedoras 3
 fustigation 4
 fearing 1
@@ -6278,7 +6278,7 @@ flared 1
 fissiparation
 fortissimos 2
 footlock 4
-fearnought
+fearnought 1
 fakirism 2
 forceful
 fluidounce 5
@@ -6557,7 +6557,7 @@ flibbertigibbets
 flysches 3
 fluxile 4
 finochio 4
-fluxionist 3
+fluxionist 4
 fluxive 1
 fouett 1
 footcloth 4
@@ -6780,7 +6780,7 @@ flinging
 funariaceous 4
 falciform 3
 fass 6
-founding
+founding 1
 fitcher 4
 fold 3
 fantasy 1
@@ -7757,7 +7757,7 @@ fauvist 4
 facer 1
 fanfaronade 1
 flower 4
-firearms 2
+firearms 3
 foremast 3
 fritters 1
 fidicula 2
@@ -7868,7 +7868,7 @@ fratricides 3
 fencible 4
 flits 1
 frolicked 3
-flagellating 2
+flagellating 3
 fibrotuberculosis 1
 fiked 2
 forepossessed 1
@@ -8171,7 +8171,7 @@ fire
 formulates 1
 flatcaps 4
 faithful 2
-featurette 5
+featurette 6
 fanegadas
 fundmonger 4
 forcepses
@@ -9392,7 +9392,7 @@ fatuitousness 1
 frankalmoign 2
 filibustrous
 fellowly 3
-futurize 3
+futurize 4
 fluoresces
 frankenstein 2
 franker 3
@@ -10985,7 +10985,7 @@ fallfish
 firmless 1
 fisc 2
 freesias 5
-frigidaire 5
+frigidaire 6
 furors 2
 forgettable 2
 fumaroidal 2
