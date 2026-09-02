@@ -11604,7 +11604,7 @@ discommune 1
 denominates 1
 disburgeon 2
 dragooner
-divell 1
+divell 2
 dismemberer
 discordable 1
 discordance 1
@@ -16230,7 +16230,7 @@ description 2
 diploidion 3
 destuff
 duplicated
-diseasing
+diseasing 1
 distempering
 deplete 1
 dendroceratina 1

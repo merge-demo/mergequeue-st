@@ -49,7 +49,7 @@ fruited 1
 finds 1
 floorboard
 foolhardihood 3
-few 1
+few 2
 feedway 3
 frab 1
 flavonoid 1
@@ -4113,7 +4113,7 @@ fiorin 3
 fusiladed 3
 fiorite 3
 foreseen
-falsehoods 3
+falsehoods 4
 fornenst 2
 faff 2
 fontanel 2
@@ -4848,7 +4848,7 @@ franciscan 2
 froebelism 1
 footfall 1
 floor 1
-farmhouse
+farmhouse 1
 fickleness 2
 flagstick 2
 flagworm 2
@@ -10289,7 +10289,7 @@ fennecs
 flamingoes 1
 fordid 4
 filled 1
-foundationed 2
+foundationed 3
 ferronickel 2
 flavedos 3
 froideur 2
