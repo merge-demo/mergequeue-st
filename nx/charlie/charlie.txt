@@ -476,7 +476,7 @@ cadastral 1
 cadastration
 cadastres 1
 cadaver 1
-capronic
+capronic 1
 cadaverin 1
 claddings 1
 cormus
@@ -8589,7 +8589,7 @@ cynosural 1
 curtness
 complementaries
 cohesionless 1
-changelessness 1
+changelessness 2
 changelings
 changement
 cuissard 1
@@ -10478,7 +10478,7 @@ childless
 childly
 childliest 1
 childlike 1
-childness
+childness 1
 childre 2
 comicality
 chalicotherium 3
@@ -16881,7 +16881,7 @@ cluck
 cyclas 1
 clucked 2
 crotonbug 2
-cometoid 1
+cometoid 2
 cypselae
 compendiously 1
 challah 1
@@ -23845,7 +23845,7 @@ cannonades 1
 contrib
 chair 1
 clavel 1
-contributable
+contributable 1
 civilisedness 1
 cutins
 contribution 3

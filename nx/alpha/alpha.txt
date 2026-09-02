@@ -8102,7 +8102,7 @@ armoires
 attriutively 1
 alrune 2
 airworthy
-acidotic
+acidotic 1
 arithmetically
 amphide
 alforja 1
@@ -10691,7 +10691,7 @@ amylolysis
 antitragic 2
 accusator
 amylom 2
-amyloplast 2
+amyloplast 3
 appertaining 1
 appaloosas
 amyloplastid
@@ -14484,7 +14484,7 @@ adrue 1
 anthranol
 atechny 1
 acuminulate 3
-anthraquinone
+anthraquinone 1
 adoptianist 1
 alden
 antiphysical
@@ -22012,7 +22012,7 @@ assumptively 1
 adoulie
 assurance 2
 angelina
-assurances 2
+assurances 3
 astigmias
 arthropodan 1
 assurer
