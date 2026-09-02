@@ -10510,7 +10510,7 @@ blastodisc
 becharming 1
 bakestone
 biologistic 2
-bepastured 1
+bepastured 2
 blastogenic 4
 bandfiled 2
 bop
@@ -16732,7 +16732,7 @@ bistorta 1
 bedfoot 1
 bariatrics 3
 bucktooth
-bronchovesicular
+bronchovesicular 1
 bucktoothed
 bountyless 2
 bicameralist
