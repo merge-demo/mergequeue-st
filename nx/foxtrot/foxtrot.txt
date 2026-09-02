@@ -3566,7 +3566,7 @@ funding 1
 forboding 2
 fairylands 3
 filched 1
-fellowmen
+fellowmen 1
 frenchism 1
 fogie 1
 flamboyance 1
@@ -4026,7 +4026,7 @@ fossilisable 2
 feds 1
 futhorks
 finical 3
-fluxibly 3
+fluxibly 4
 fullhearted 1
 fibrin 1
 finis 4
@@ -5123,7 +5123,7 @@ furnishment 1
 flashiness 5
 fermerer 1
 famulli 2
-fragrancies 1
+fragrancies 2
 forewords 1
 furler 2
 fregit 3
