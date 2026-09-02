@@ -5949,7 +5949,7 @@ chenilles 2
 calcrete 2
 camelidae
 coppernosed 3
-cowgirl 2
+cowgirl 3
 catharizing 1
 correlating 1
 clapperclaw
@@ -9536,7 +9536,7 @@ checkrope 1
 cumulant 1
 conoy
 checkrowed
-checkrower
+checkrower 1
 checkrowing 1
 consummatively
 checkrows
