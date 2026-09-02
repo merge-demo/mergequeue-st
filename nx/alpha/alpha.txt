@@ -5254,7 +5254,7 @@ affectivity 1
 affector 1
 antagonisation 1
 accoast 3
-affeerer 2
+affeerer 3
 aum
 ankerite 1
 antichristianly
@@ -5348,7 +5348,7 @@ affixial
 aspatia
 authorism
 armageddon
-amphisile
+amphisile 1
 autoboat 1
 anophthalmia
 actinocarp
@@ -12902,7 +12902,7 @@ arenarious
 annalism 4
 angled 3
 argenol 1
-archencephalic 2
+archencephalic 3
 anglehook 2
 aphthitalite 1
 anglepod 1
@@ -15964,7 +15964,7 @@ antelope
 articulationist
 ascensor 1
 andantes
-antiquarianize
+antiquarianize 1
 anachronism 1
 americas
 amylase 1
@@ -16809,7 +16809,7 @@ aphorismos 1
 avatars
 asyndesis 1
 antimelancholic 1
-autopore 2
+autopore 3
 aphorist
 ailuropus 2
 autoportraiture
