@@ -865,7 +865,7 @@ exhumating 1
 expediencies
 economically 1
 ectopy 1
-engulfed 1
+engulfed 2
 ectoplasmatic 1
 evenly 2
 expansibly 6
@@ -3031,7 +3031,7 @@ elytrotomy
 emeer 1
 elixir 1
 ecblastesis 1
-exhortatory 3
+exhortatory 4
 elixiviate 2
 excerptor 2
 ensheathes 1
@@ -3577,7 +3577,7 @@ esophagoplegia 3
 enchantery
 emanent 1
 edifier 1
-electrolytical
+electrolytical 1
 extracellularly 2
 excelsin 1
 emydes 1
@@ -4336,7 +4336,7 @@ embrasure
 enantiomorph 4
 encratic 3
 eluder
-equinovarus 1
+equinovarus 2
 electrolyzer 2
 encephalosclerosis 1
 evisite
@@ -11896,7 +11896,7 @@ emptysis
 emptying 1
 excellence 1
 enomoty
-excels 2
+excels 3
 eosophobia 3
 eternizes
 excelsior 1
