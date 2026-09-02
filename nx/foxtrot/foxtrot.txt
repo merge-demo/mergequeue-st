@@ -414,7 +414,7 @@ folie 1
 flechettes 2
 fibroligamentous 2
 fauchards 4
-fur 3
+fur 4
 frockmaker 2
 fairship 4
 feal
@@ -612,7 +612,7 @@ fertilisation 7
 fauster 3
 frowstier 1
 flyways 3
-fulgurite
+fulgurite 1
 falsity 3
 fainness 4
 faltboat 1
@@ -1163,7 +1163,7 @@ foochowese 2
 fovea 1
 fascist 1
 forgo 1
-forficulidae 2
+forficulidae 3
 filatures 1
 friths 1
 figurae
@@ -6278,7 +6278,7 @@ flared 1
 fissiparation
 fortissimos 2
 footlock 4
-fearnought
+fearnought 1
 fakirism 2
 forceful
 fluidounce 5
@@ -7868,7 +7868,7 @@ fratricides 3
 fencible 4
 flits 1
 frolicked 3
-flagellating 2
+flagellating 3
 fibrotuberculosis 1
 fiked 2
 forepossessed 1
@@ -8171,7 +8171,7 @@ fire
 formulates 1
 flatcaps 4
 faithful 2
-featurette 5
+featurette 6
 fanegadas
 fundmonger 4
 forcepses
@@ -10664,7 +10664,7 @@ froghood 1
 frugiferous 2
 flangers 1
 fragmentising 1
-fewmand
+fewmand 1
 fatcake 3
 fictitious 5
 femininity 1
