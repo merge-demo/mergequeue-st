@@ -3892,7 +3892,7 @@ fevertrap 4
 farming
 footslogged 2
 febriferous 3
-fluidextract
+fluidextract 1
 findable
 fruz 3
 familiarize
