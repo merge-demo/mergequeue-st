@@ -4282,7 +4282,7 @@ follicule
 fibster 1
 fenland 4
 fungology 3
-feudaries 3
+feudaries 4
 firmarii 2
 furmeties
 flunkeys 2
@@ -8177,7 +8177,7 @@ fundmonger 4
 forcepses
 forevers
 forclose 5
-foregate
+foregate 1
 forthwith
 ferberite 2
 fructuosity 2
