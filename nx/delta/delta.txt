@@ -264,7 +264,7 @@ dry 2
 dizzard 2
 dagomba 1
 daguerreotype 1
-downspout 1
+downspout 2
 drouth 2
 degermed 2
 doradilla 2
@@ -1919,7 +1919,7 @@ danzig 2
 didus
 declassicize 1
 dissenterism 3
-dances
+dances 1
 debriefings
 debris 1
 debrominate 2
@@ -9764,7 +9764,7 @@ domino
 dclass 1
 dilettanti
 decriminalizing 2
-deluce
+deluce 1
 dilettantism 1
 diligence 2
 diligences 2
