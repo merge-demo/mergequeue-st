@@ -2799,7 +2799,7 @@ elenchize 4
 extrascientific 2
 ecthlipsis 1
 eath 1
-electrocutes 1
+electrocutes 2
 effeminately
 electrobrasser
 etymol
@@ -6078,7 +6078,7 @@ enlightenment 1
 enticing 2
 eructates
 eunomianism 3
-enlinkment
+enlinkment 1
 elaeoptene 2
 exulcerative
 epithalamiast 2
