@@ -1786,7 +1786,7 @@ bitripinnatifid 1
 broquery 3
 baronnes 1
 becollier 2
-buses 1
+buses 2
 bondstone 1
 biome 1
 biretta 2
@@ -11067,7 +11067,7 @@ bidet 1
 bruet
 bibberies 1
 boride
-bedwarfed
+bedwarfed 1
 blockboard 2
 bavaroy 1
 ballyhooer 2
