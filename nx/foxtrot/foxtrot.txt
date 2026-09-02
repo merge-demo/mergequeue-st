@@ -3892,7 +3892,7 @@ fevertrap 4
 farming
 footslogged 2
 febriferous 3
-fluidextract
+fluidextract 1
 findable
 fruz 3
 familiarize
@@ -4716,7 +4716,7 @@ fictation 1
 fourcher
 frumentarious 1
 flabbergast 2
-forkfuls 5
+forkfuls 6
 feathermonger 2
 fratchety
 fijian
@@ -6459,7 +6459,7 @@ fordy 2
 fellatrix
 forsar 3
 flurn 2
-flurried 1
+flurried 2
 fernbird 5
 furiosa 2
 fumagine
