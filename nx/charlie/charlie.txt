@@ -7343,7 +7343,7 @@ cephalogram
 cephaloid 1
 culminates 1
 cuticles 2
-crepuscle
+crepuscle 1
 cephalology 1
 cephalom
 coquettishness
@@ -11600,7 +11600,7 @@ cholecystolithiasis 1
 cholecystostomy
 cholecystotomy
 choledochal 1
-culpability 1
+culpability 2
 colpeurysis 1
 conformate 2
 collectorship
@@ -13112,7 +13112,7 @@ cryptocarpic 1
 cyborg 1
 ceros
 cibory
-ciboules 1
+ciboules 2
 cyc 3
 cicad
 cycadaceae 1
@@ -13160,7 +13160,7 @@ cicatrizate 1
 canalize
 craniographer
 cicatrization
-cott
+cott 1
 cicatrizer 1
 cicatrizing 1
 cleated
@@ -14545,7 +14545,7 @@ cystelcosis
 cosmologic
 choppy
 cistercianism 1
-cisternae 3
+cisternae 4
 cisternal 3
 cornier 1
 compotier
@@ -30961,7 +30961,7 @@ culverkey
 culvers
 cum
 cants 1
-coremiumia 1
+coremiumia 2
 cumay
 currack 2
 caprigenous
