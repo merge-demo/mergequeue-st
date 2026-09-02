@@ -639,7 +639,7 @@ decoyman
 dextroversion 1
 dinoflagellata 2
 deploitation 1
-damnify 1
+damnify 2
 dearth 1
 damnificatus 3
 dissonant 3
@@ -3993,7 +3993,7 @@ dealership
 dawtie 1
 darwinians
 deaconed
-describer 1
+describer 2
 delsartean
 dogwinkle 3
 dysarthric 2
@@ -8326,7 +8326,7 @@ dejerate 2
 dargue
 daemonies 1
 disruptable 1
-dioestrum 4
+dioestrum 5
 disincline 1
 duchies 1
 decemfoliolate 1
