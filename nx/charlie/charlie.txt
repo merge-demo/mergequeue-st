@@ -7343,7 +7343,7 @@ cephalogram
 cephaloid 1
 culminates 1
 cuticles 2
-crepuscle
+crepuscle 1
 cephalology 1
 cephalom
 coquettishness
@@ -11600,7 +11600,7 @@ cholecystolithiasis 1
 cholecystostomy
 cholecystotomy
 choledochal 1
-culpability 1
+culpability 2
 colpeurysis 1
 conformate 2
 collectorship
@@ -11790,7 +11790,7 @@ chondropterygian
 constitutionally
 caravansary 2
 chondrosarcomatous 1
-construed 1
+construed 2
 cibophobiafood
 codder 1
 chalmer 1
@@ -14545,7 +14545,7 @@ cystelcosis
 cosmologic
 choppy
 cistercianism 1
-cisternae 3
+cisternae 4
 cisternal 3
 cornier 1
 compotier
@@ -15022,7 +15022,7 @@ circuitable 1
 civilizable 2
 civilizationally
 chevrons 1
-contemns
+contemns 1
 civilized 1
 civilizee
 civilizer 1
@@ -15467,7 +15467,7 @@ cayapa
 capuches
 clarke 1
 coachs
-celestialness 2
+celestialness 3
 clarkias 1
 conga 1
 coapostate
@@ -16643,7 +16643,7 @@ clavilux
 clem 3
 closehanded
 cuittled 1
-carse 1
+carse 2
 coeliotomy
 colophonium
 closeness 1
@@ -23127,7 +23127,7 @@ constabular 1
 constabularies 2
 comminute
 coccolithophoridae 1
-constantan 1
+constantan 2
 constantinian
 cephidae 1
 constantinopolitan
@@ -25592,7 +25592,7 @@ coroplastic 1
 camelias 2
 corotate
 corotates
-compulsoriness
+compulsoriness 1
 corotomy 2
 commemorized
 coroutines 2
