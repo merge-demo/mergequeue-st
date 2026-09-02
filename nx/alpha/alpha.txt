@@ -706,7 +706,7 @@ abortin 1
 antihydropin
 autonephrotoxin 1
 alkaid 1
-allayment
+allayment 1
 autotoxaemia
 abortional
 antiglobulin 2
@@ -3256,7 +3256,7 @@ actualness
 allochromatic 1
 axopetal
 adderbolt 2
-acoumetry 1
+acoumetry 2
 antimarian 1
 alstonine 2
 assident
@@ -4433,7 +4433,7 @@ arbitrationist 1
 adulating
 adulation 2
 avance
-actinium 3
+actinium 4
 adulator
 antireacting
 apennines 1
@@ -7213,7 +7213,7 @@ aethrioscope 1
 alack
 archtraitor
 amole 1
-anadromous
+anadromous 1
 ameloblast
 adnouns 1
 abettals 1
@@ -7725,7 +7725,7 @@ adaw 1
 alcoholize 1
 alcoholmeter 2
 airmass
-anemogram 1
+anemogram 2
 alcoholmetric 1
 abaissed
 alcoholometer 1
@@ -8054,7 +8054,7 @@ aggravations 1
 autoceptive
 addlepatedness
 alexandrine
-accadian
+accadian 1
 altruistically
 alexia
 archeologist 3
@@ -9051,7 +9051,7 @@ actinoids 3
 allotriophagy 3
 acrimony 1
 aefauld 2
-adscriptitius
+adscriptitius 1
 anserin 1
 allotropic 2
 ailanthus
@@ -9780,7 +9780,7 @@ amahuaca
 antigen 1
 amanori 1
 aeroscope
-accoutrements
+accoutrements 1
 amain 2
 amidocaffeine 3
 andouillette 2
@@ -11511,7 +11511,7 @@ angioglioma 1
 amula 2
 acridinic 2
 amulas 1
-archexorcist
+archexorcist 1
 acone 3
 armaments 1
 aloemodin 4
@@ -16846,7 +16846,7 @@ alterman
 administrators 2
 allodialist 2
 apositic
-almeriite
+almeriite 1
 agname
 acritol 1
 aphrodisiomaniacal 2
@@ -19409,7 +19409,7 @@ awestruck
 astrolog 1
 argentine 1
 argentineans 2
-argentinian 1
+argentinian 2
 argention
 axonophorous 1
 apish
@@ -19510,7 +19510,7 @@ arguable 1
 arguably 1
 avoiders 3
 aecidiaceae
-audrey 1
+audrey 2
 argues
 applicancy
 amiantus
@@ -20624,7 +20624,7 @@ aetiology
 arthropathic 2
 assamese 1
 anapnograph 5
-arthrophlogosis 1
+arthrophlogosis 2
 abdaria
 appete
 abruptiones 1
@@ -21394,7 +21394,7 @@ anemochorous 1
 amitroles
 askip 1
 actiniohematin 2
-askos 2
+askos 3
 aslant 1
 aglethead
 aevum
@@ -23219,7 +23219,7 @@ akemboll
 abyssinia
 attestor 1
 aggrandizes
-absvolt 1
+absvolt 2
 anorthopia 1
 attests 3
 aleuromancy
@@ -24934,7 +24934,7 @@ awakeningly 1
 awaking
 automotor 1
 archform 1
-arseniosiderite
+arseniosiderite 1
 adroit
 antidiphtheritic 2
 azygote 1
