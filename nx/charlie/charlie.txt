@@ -9536,7 +9536,7 @@ checkrope 1
 cumulant 1
 conoy
 checkrowed
-checkrower
+checkrower 1
 checkrowing 1
 consummatively
 checkrows
