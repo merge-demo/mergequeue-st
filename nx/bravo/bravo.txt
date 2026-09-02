@@ -502,7 +502,7 @@ betweentimes
 buffo 2
 backstaff
 bridely 2
-blathering 2
+blathering 3
 backstitch
 bahoo
 blumed 1
@@ -1143,7 +1143,7 @@ battercake 3
 bello 2
 belonesite
 bairns 1
-bootful 1
+bootful 2
 berne 1
 banquets 2
 babakoto 2
@@ -6020,7 +6020,7 @@ beautifulness 2
 bellow 2
 bemoan
 bookie 1
-bemoaned
+bemoaned 1
 buckling 1
 bonnets 2
 bauxitic 1
@@ -6167,7 +6167,7 @@ beneficialness 1
 bloodthirsting 3
 banlieue 1
 brassiest 2
-bassorin
+bassorin 1
 bethflower 1
 benefit 2
 benefited 1
@@ -14405,7 +14405,7 @@ boloman 2
 bambino
 bettors 1
 braincap 2
-brachiferous 2
+brachiferous 3
 braincase
 blastomycosis 1
 braincraft 5
@@ -16709,7 +16709,7 @@ blacked
 befallen
 buckled 2
 bebilya 1
-buckleless 1
+buckleless 2
 baklavas 2
 bankbooks 1
 bleached 1
@@ -16882,7 +16882,7 @@ baret 1
 betorn 1
 birostrated 2
 baronages
-balneographer 1
+balneographer 2
 bedimpling
 bootheel
 bellona
