@@ -4040,7 +4040,7 @@ cholericness
 carcinophagous
 carcinopolypus
 chloroformization
-carcinosarcoma
+carcinosarcoma 1
 coloreds 3
 chloralide
 chinanta 1
@@ -8107,7 +8107,7 @@ coordain
 comrogue 1
 crepuscule
 chainless
-counteractions 1
+counteractions 2
 crosscheck 2
 coelodont 1
 chlortetracycline
@@ -8507,7 +8507,7 @@ copybook 2
 chancellors 1
 califates
 chancellorship
-chancellorships
+chancellorships 1
 capillaire
 calathidium
 chancels
@@ -11110,7 +11110,7 @@ chitterling 1
 chutney
 chitters 1
 communbus
-capillaries
+capillaries 1
 coagulose
 chiv 1
 chivachee 1
@@ -16151,7 +16151,7 @@ climatic
 climatius 1
 climatize
 climatographical
-compony
+compony 1
 cardsharp
 conductitious 1
 crenulated
@@ -16262,7 +16262,7 @@ clinometric 1
 cantos
 condylura
 cocooning 2
-canisters
+canisters 1
 clinometrical 1
 calendal 1
 carvol 1
@@ -16693,7 +16693,7 @@ codesign
 cosmopolitanized 1
 cuproplumbite
 cirrus 2
-clotheslines
+clotheslines 1
 clothesman
 crypts
 cheerful
@@ -21414,7 +21414,7 @@ cymbium
 concluders 2
 caulome 1
 correa
-cicadidae 2
+cicadidae 3
 camerlingos 1
 clerkly 1
 corvinas
@@ -28951,7 +28951,7 @@ cribs 2
 conelike
 cribworks
 cardinalate 2
-convocated
+convocated 1
 cricetidae
 chrysal
 chaityas 1
@@ -29872,7 +29872,7 @@ crossbeam
 clarifications 1
 crossbeams 1
 cabots
-cosmorganic 1
+cosmorganic 2
 crossbelt
 crossbill
 crossbite 1
@@ -30381,7 +30381,7 @@ capita 1
 coss 2
 crusily 1
 cerebellopontile 1
-clytemnestra 1
+clytemnestra 2
 conttinua
 clenching 1
 corralling 2
