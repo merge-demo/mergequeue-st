@@ -159,7 +159,7 @@ felaheen 3
 flightiest 3
 foreribs 1
 farcialize 1
-formicaroid
+formicaroid 1
 factionistism 1
 flips 3
 flirtatious 2
@@ -2894,7 +2894,7 @@ flowstone 1
 farcin
 fackins
 firefighters 1
-fettucini 3
+fettucini 4
 froglike
 farsightedly 2
 flows 2
@@ -3954,7 +3954,7 @@ frenziedly 2
 frightfulness 1
 foreshown 2
 funneled 3
-farcical 1
+farcical 2
 follyproof 2
 fossil 1
 footsteps 2
@@ -6405,7 +6405,7 @@ forefoot 1
 fronture 2
 furry
 formalization 1
-frogspawn
+frogspawn 1
 flexura
 fafnir
 fecundatory 3
@@ -7373,7 +7373,7 @@ franklinism 2
 famelessly 3
 faubourg 3
 forebodingly
-footplate 1
+footplate 2
 flakiness 1
 fortunous 2
 feedlots 3
@@ -7559,7 +7559,7 @@ ferroboron 3
 forespake 1
 fallacious 3
 foreboder 1
-fuzils
+fuzils 1
 flattops 1
 foretake 2
 fructokinase 3
@@ -8237,7 +8237,7 @@ fatigated 3
 fictioneer 3
 feudalities 3
 flaggelated 2
-friezing 3
+friezing 4
 flatbed 2
 forfaulture 2
 francophile 1
@@ -8906,7 +8906,7 @@ freeholder 1
 folia 2
 fleuron 2
 fraughtage 3
-fibrinoplastic 2
+fibrinoplastic 3
 fotmal 3
 folkvang
 faithfully 5
@@ -9960,7 +9960,7 @@ fascicle 2
 forepeaks
 fondnesses 1
 fines 1
-filamentose 3
+filamentose 4
 fogeater
 fevercup 4
 fenestrone 2
@@ -11338,7 +11338,7 @@ fps 5
 furfurine
 funebrious 2
 faujasite 2
-foalhood 2
+foalhood 3
 fuseplug 6
 fashioners 1
 fallacy 1
@@ -11512,7 +11512,7 @@ flammable 3
 flouncy
 faradays 1
 fluently 2
-fusariose 1
+fusariose 2
 fanfold 6
 forgettingly 3
 fusariosis 1
