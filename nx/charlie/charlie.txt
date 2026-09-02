@@ -68,7 +68,7 @@ cabbages
 coinfinity 1
 critiquing 2
 chondrocarcinoma 1
-corrosion
+corrosion 1
 creeping 2
 cabbagy
 cabbaging 3
@@ -30142,7 +30142,7 @@ crowshay
 cryocautery 1
 crowstepped
 citee
-crowstone
+crowstone 1
 camber
 complains 2
 circumstantially

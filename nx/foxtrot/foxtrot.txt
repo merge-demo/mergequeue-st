@@ -1626,7 +1626,7 @@ fipenny
 four 1
 fdnames 1
 farmhands 4
-fundamentalists
+fundamentalists 1
 forthcut 3
 fluible 2
 fireworm 3
@@ -6864,7 +6864,7 @@ forgeman 1
 foliot 1
 floribunda 3
 forthby 3
-ferritungstite 1
+ferritungstite 2
 farewell 1
 fiery 2
 flasks 2
@@ -8587,7 +8587,7 @@ flusterate 4
 figs 3
 flatwashes 2
 fortification 4
-flatweed 1
+flatweed 2
 formulated 3
 frigorify 4
 forgainst
@@ -9158,7 +9158,7 @@ fantasias 2
 fortifies 2
 fielded 3
 fleeceflower 3
-floridly 1
+floridly 2
 fastigiated 1
 floozies 1
 fr
@@ -10423,7 +10423,7 @@ fibroplasia 2
 foundlings 4
 fritter 1
 fonctionnaire 2
-flatterdock 2
+flatterdock 3
 flanger 2
 flustrate 2
 fertilizable
@@ -11093,7 +11093,7 @@ flaminica 3
 fractionated 2
 forficated
 flaunter 2
-freightment 3
+freightment 4
 flense 1
 foxiness 4
 footrace
