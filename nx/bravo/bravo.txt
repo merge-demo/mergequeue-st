@@ -764,7 +764,7 @@ banksman 1
 bifrost 1
 badiaga 1
 boneshaw
-bannerman
+bannerman 1
 bushmanship 1
 badigeon
 beadsman 2
@@ -2082,7 +2082,7 @@ boltel 1
 bankrupting
 babylonia 1
 bemock
-bottlelike 3
+bottlelike 4
 betraise
 bankrupture
 basilissa
@@ -2296,7 +2296,7 @@ bindoree 2
 befuddle 2
 broadsheet 1
 brier
-bianco
+bianco 1
 bysen
 breakfaster 2
 broadbrim 1
@@ -4357,7 +4357,7 @@ bely 1
 blowze
 bonspiels 2
 bombola 2
-bechuana 1
+bechuana 2
 bespousing 2
 bellhops 2
 borean 3
@@ -16249,7 +16249,7 @@ beagle 1
 bowsery 1
 browless
 baritones 1
-botonnee
+botonnee 1
 bundy
 baalist
 berrypicking
