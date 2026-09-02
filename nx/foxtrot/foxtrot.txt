@@ -1392,7 +1392,7 @@ fatbacks
 fishway 1
 fountainlet 1
 fallibly 1
-firewood
+firewood 1
 futchell 1
 forbar 1
 ferreted 3
@@ -1460,7 +1460,7 @@ feminise 3
 faecula 1
 fluoroscopist 2
 folkish 2
-floatability 2
+floatability 3
 fungillus 3
 faucre 3
 faultiest 2
@@ -2739,7 +2739,7 @@ forelimbs 2
 fyce 1
 feod 1
 fusses 3
-fraela 1
+fraela 2
 folklore 4
 faunas 2
 framing
@@ -2776,7 +2776,7 @@ festoonery
 fatima 1
 foretellable
 fuddlebrained
-forgivingness 2
+forgivingness 3
 festinated
 festinating 1
 festination 1
@@ -4484,7 +4484,7 @@ ferrotitanium 3
 faddy 2
 flatting 2
 forlane 5
-fertilizers 1
+fertilizers 2
 fingerwise 2
 fecklessness 1
 ferrovanadium 3
@@ -7560,7 +7560,7 @@ forespake 1
 fallacious 3
 foreboder 1
 fuzils 1
-flattops 1
+flattops 2
 foretake 2
 fructokinase 3
 funebrial 2
@@ -8023,7 +8023,7 @@ foreslow 1
 frumpled 2
 flirtational 1
 flatteur 1
-fluminose 5
+fluminose 6
 fingerless 3
 fixgig 3
 feminises 2
@@ -10185,7 +10185,7 @@ fenite 1
 fissile 4
 fluoride 3
 frontlet 1
-fitter 2
+fitter 3
 fashed 4
 fabricant
 falcidian 2
@@ -10643,7 +10643,7 @@ freeby 2
 forerunner 2
 farceurs 1
 flative 2
-forseen 1
+forseen 2
 floatier 1
 ferity 2
 franc
