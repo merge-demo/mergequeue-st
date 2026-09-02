@@ -1498,7 +1498,7 @@ discernableness
 dazzlingness
 descale 2
 dbms 1
-degenerationist
+degenerationist 1
 dbridement
 decidual 1
 dracma
@@ -2664,7 +2664,7 @@ dingiest 2
 demiplacate
 dogies 1
 dcollet 2
-dishonourer 1
+dishonourer 2
 digynous
 dudeens 2
 deconcentration 1
@@ -3560,7 +3560,7 @@ defuze 4
 dakoities
 dissociative
 degage 2
-degames 2
+degames 3
 deganglionate 1
 discomedusoid 2
 dystome 2
@@ -4683,7 +4683,7 @@ didappers 4
 deflexionize 3
 derf 2
 disputatively 1
-datatypes
+datatypes 1
 desperateness 3
 disnaturalize 1
 dolente
@@ -6707,7 +6707,7 @@ desiderative 2
 disenthrall
 drunkard
 disorganize 1
-disorderliness
+disorderliness 1
 darnex 1
 diatribes
 desiderta
@@ -8509,7 +8509,7 @@ desilvering 1
 disquisitively
 drighten 1
 disparities
-dantomania
+dantomania 1
 disaccharides 3
 dinked
 diapause 2
@@ -10620,7 +10620,7 @@ dulias
 draying 1
 disharmonising 1
 drey 1
-duncery 1
+duncery 2
 divaricating 2
 demurrals 4
 disapprove
@@ -13402,7 +13402,7 @@ delighted
 deliverymen 3
 deoxidative 1
 disquisit 2
-disquisite 1
+disquisite 2
 dragon 1
 dermophlebitis 1
 distillment 5
@@ -18569,7 +18569,7 @@ detailing
 derri
 durry 3
 dappled 1
-durrin
+durrin 1
 dig 4
 durrs 1
 durukuli
