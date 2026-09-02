@@ -1427,7 +1427,7 @@ benzotrichloride 2
 battable 2
 balefires 1
 bewreak 3
-barmbrack 3
+barmbrack 4
 baleys 1
 baleise 2
 bougainvillaea 1
@@ -11775,7 +11775,7 @@ backed 1
 bobstays 1
 berreaving
 bobtail
-bobtailed 3
+bobtailed 4
 bothria 1
 bobwhites
 bargees 1
@@ -13450,7 +13450,7 @@ booting 1
 buncombes 3
 bibliotheca 1
 breadbaskets
-bandaka 3
+bandaka 4
 botticelli 1
 backtracker 2
 bottlebrush 2
@@ -15502,7 +15502,7 @@ brodeglass 1
 braggishly
 boundary 2
 booms
-bilboes 2
+bilboes 3
 breaststroker 2
 breadberry
 bodoni
@@ -17656,7 +17656,7 @@ blowier
 barrelfish 1
 bellipotent 2
 byte 1
-burked 2
+burked 3
 bonnetman 1
 belletrists
 bonier 1
