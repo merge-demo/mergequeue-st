@@ -50,7 +50,7 @@ finds 1
 floorboard
 foolhardihood 3
 few 1
-feedway 2
+feedway 3
 frab 1
 flavonoid 1
 flauntier 3
@@ -365,7 +365,7 @@ froes 1
 fluorides 1
 faintly 3
 ferrymen 1
-furoid 1
+furoid 2
 fearer 4
 filicauline 2
 fall 3
@@ -2012,7 +2012,7 @@ fogging 3
 fedora 1
 fide 1
 forgiving 3
-feere 1
+feere 2
 flipper
 fautor 1
 fours 2
@@ -2821,7 +2821,7 @@ frugalism
 folacins
 finlander 1
 fiddlehead 2
-fumigatories 3
+fumigatories 4
 fcomp 1
 fretted
 faunae
@@ -5973,7 +5973,7 @@ ferrets 3
 filleter 1
 fets 1
 fanwright 3
-fudging 1
+fudging 2
 firetrap 3
 fomites 4
 freeloader
@@ -9637,7 +9637,7 @@ fivestones 2
 ferrotyper 3
 floriken 3
 forhooy 2
-fothering 1
+fothering 2
 forehold 1
 flagellant 1
 fretting 3
