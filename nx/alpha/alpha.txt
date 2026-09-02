@@ -5296,7 +5296,7 @@ ampitheater 1
 attackable 1
 anapterygotous 2
 alingual
-abrogative 1
+abrogative 2
 anticlinal
 anapophysial
 ammonifier
@@ -16432,7 +16432,7 @@ antonym
 arthrotomies 1
 antonymy 1
 antonymies 2
-antoniniani
+antoniniani 1
 antoninianus
 acidophil 1
 appointed
