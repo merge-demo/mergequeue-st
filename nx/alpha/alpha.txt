@@ -1738,7 +1738,7 @@ agrestis 2
 artiest
 accumulation 1
 aetat
-accumulativ 1
+accumulativ 2
 apostatizes
 ayne
 aerobacteriologist 1
@@ -4734,7 +4734,7 @@ amphibologically 2
 aegemony 1
 agmatology 2
 areola
-aegicrania
+aegicrania 1
 aegilops 2
 abolishing 1
 aegina
@@ -5903,7 +5903,7 @@ agennesis 1
 agential 1
 adolph 1
 agenting 1
-agentives 2
+agentives 3
 adducing 1
 archprototype
 array 2
@@ -10186,7 +10186,7 @@ atropinism
 alkalimetrically
 anisogamy
 aminded
-avulsion
+avulsion 1
 artotyrite 2
 ambulator
 afforce
@@ -10910,7 +10910,7 @@ ammonitic 1
 ammonitoidea
 affording
 ammocoetiform 2
-antischolastic 1
+antischolastic 2
 ammoniuret
 archcozener 1
 antiproteolysis 1
@@ -13448,7 +13448,7 @@ ankusha 1
 anomala
 anlace
 albinistic 2
-anlagen
+anlagen 1
 acapnial
 assigners
 anlages
@@ -14421,7 +14421,7 @@ aerometric 1
 actualizing 1
 appealing
 anthophyllitic 1
-astigmatoscopies 2
+astigmatoscopies 3
 aerogramme 1
 accidentary 2
 apometabolism
@@ -17553,7 +17553,7 @@ atavists
 ashlars 2
 alcedo 3
 acyrology
-alunite
+alunite 1
 alkalifying 1
 alkalin
 apotihecal 2
@@ -19261,7 +19261,7 @@ airbuses 2
 actresses
 arefact 2
 acrodromous
-areg
+areg 1
 armchair 3
 arena
 auditives
@@ -19742,7 +19742,7 @@ amortized
 achigan 2
 arjun 3
 awkwardness 2
-almshouses
+almshouses 1
 asarum 2
 acidite 3
 aby 3
