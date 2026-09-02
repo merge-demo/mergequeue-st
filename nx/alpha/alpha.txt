@@ -437,7 +437,7 @@ askoi
 anticonstitutional
 algores
 antihydropic 1
-antinomianism 1
+antinomianism 2
 annihilate
 abigei 1
 aureus 1
@@ -4243,7 +4243,7 @@ adopted
 astronomic
 atloaxoid
 appliqueing
-antigrammatically
+antigrammatically 1
 apocynum
 apepsy
 acroparalysis 2
@@ -6627,7 +6627,7 @@ albi
 americanumancestors
 annite 1
 actinometers 3
-anaesthesiology
+anaesthesiology 1
 aigialosaurus 1
 apothecaries 1
 archpriest 1
@@ -6837,7 +6837,7 @@ amphigories
 ammonify 2
 airdrome
 airdromes 1
-advertizing
+advertizing 1
 apart
 airdropping
 aired
@@ -9471,7 +9471,7 @@ armbone
 anemones
 apicad 2
 angiosclerotic
-autocinesis
+autocinesis 1
 alterable
 acatery 1
 anchylose 1
@@ -16139,7 +16139,7 @@ acerb 1
 abets 2
 arbitraries
 autolyzing
-abrazitic 1
+abrazitic 2
 acrididae
 argumentatious 2
 annealing 1
@@ -20647,7 +20647,7 @@ aeromagnetic 1
 adderwort
 albumen
 arthrospore 1
-arthrostome 2
+arthrostome 3
 arthrostomy
 arthrotyphoid
 amputative 1
@@ -21394,7 +21394,7 @@ anemochorous 1
 amitroles
 askip 1
 actiniohematin 2
-askos 3
+askos 4
 aslant 1
 aglethead
 aevum
@@ -24154,7 +24154,7 @@ arache 1
 antianarchist 2
 absorbance
 azelfafage 1
-aftergo
+aftergo 1
 acemetae
 anomic 3
 abscessing 2
@@ -24257,7 +24257,7 @@ automobiles 1
 amphiaster 1
 acaciin 1
 aminolipin 3
-angelolater 1
+angelolater 2
 automobilists 2
 anaplerotic 1
 ascendent
