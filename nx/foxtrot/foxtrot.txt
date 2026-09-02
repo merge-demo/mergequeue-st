@@ -6184,7 +6184,7 @@ forcement 5
 funguslike 1
 falange
 fog 2
-fadeaway
+fadeaway 1
 frothier
 fluavile 2
 flubbed 1
