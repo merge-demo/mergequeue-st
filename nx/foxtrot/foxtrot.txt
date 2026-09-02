@@ -414,7 +414,7 @@ folie 1
 flechettes 2
 fibroligamentous 2
 fauchards 4
-fur 3
+fur 4
 frockmaker 2
 fairship 4
 feal
@@ -6278,7 +6278,7 @@ flared 1
 fissiparation
 fortissimos 2
 footlock 4
-fearnought
+fearnought 1
 fakirism 2
 forceful
 fluidounce 5
@@ -7868,7 +7868,7 @@ fratricides 3
 fencible 4
 flits 1
 frolicked 3
-flagellating 2
+flagellating 3
 fibrotuberculosis 1
 fiked 2
 forepossessed 1
@@ -8171,7 +8171,7 @@ fire
 formulates 1
 flatcaps 4
 faithful 2
-featurette 5
+featurette 6
 fanegadas
 fundmonger 4
 forcepses
@@ -9392,7 +9392,7 @@ fatuitousness 1
 frankalmoign 2
 filibustrous
 fellowly 3
-futurize 3
+futurize 4
 fluoresces
 frankenstein 2
 franker 3
