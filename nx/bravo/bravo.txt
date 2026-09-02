@@ -535,7 +535,7 @@ bibliolater
 backtracks
 backtender 3
 babies 1
-betrayment 1
+betrayment 2
 backveld
 beruffled 2
 beech 1
@@ -1196,7 +1196,7 @@ bajra 2
 bogeyed 3
 brickset 1
 beltmen 2
-baized 1
+baized 2
 bajury
 bonnaz 2
 braising
@@ -2588,7 +2588,7 @@ bromating 3
 behowls 1
 babiroussa 1
 benzofuryl
-bochism 1
+bochism 2
 broadwives
 biscuit 4
 barytes 4
@@ -3013,7 +3013,7 @@ bidirectionally
 boist 4
 bartenders 1
 bartending 2
-bulbiferous 2
+bulbiferous 3
 bartends 2
 burthened 2
 baggywrinkle 1
@@ -4317,7 +4317,7 @@ biaural 1
 beakiest 1
 bulkheaded 1
 braquemard 4
-boned 1
+boned 2
 bdrm 2
 bulimia 3
 becarpeted 1
@@ -4767,7 +4767,7 @@ besplit
 bedpost
 bypasses 1
 bedrabbling 1
-bedrails
+bedrails 1
 binnacle
 bedral 1
 boltwork 2
@@ -5032,7 +5032,7 @@ bimodal 1
 bicaudate 2
 baruria
 branchiform
-breakwaters
+breakwaters 1
 beetles
 bubal 1
 baching 3
@@ -5855,7 +5855,7 @@ bellyland
 bellyman 3
 biunique 1
 biogenetical 1
-balopticon
+balopticon 1
 bellmaking 1
 baronship 1
 blebby 2
@@ -6252,7 +6252,7 @@ braceleted 2
 becalmed 2
 bimodulus
 benni 2
-bennies 1
+bennies 2
 benomyl 1
 benightedness 1
 benorth
@@ -6799,7 +6799,7 @@ bradypodoid 1
 bluehearts 2
 buprestidan 1
 bertie
-bertolonia 1
+bertolonia 2
 bioacoustics 1
 basigenous 2
 bertrum 1
@@ -14932,7 +14932,7 @@ breakpoint 2
 breaks 1
 benzdifuran
 besteaded 2
-besselian 1
+besselian 2
 bayoneted 1
 bricks 3
 breakweather 3
@@ -17789,7 +17789,7 @@ bounce 3
 bejabers 2
 balearian 3
 bearnaise 2
-bandeng
+bandeng 1
 banjoists 1
 bursty 1
 buoyances
@@ -17960,7 +17960,7 @@ blasia 1
 blackheartedness 1
 bolty 2
 bemoult 2
-bronzelike
+bronzelike 1
 bushwhacked
 beanball 1
 boheas 1
@@ -18199,7 +18199,7 @@ bibliokleptomaniac 1
 bodied 5
 butoxy 1
 bodyguards 2
-bulks 1
+bulks 2
 bohereen 3
 backdated
 bibliothecary 1
@@ -18322,7 +18322,7 @@ bedel 2
 bilirubinemia 2
 buttony 2
 bluenosed
-brink 5
+brink 6
 buttoning
 banked 3
 bioelectricities 4

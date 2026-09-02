@@ -1647,7 +1647,7 @@ deodate 2
 delaminate
 datolitic 2
 domify
-devertebrated
+devertebrated 1
 daydrudge 5
 dealkylate 2
 daundered
@@ -1745,7 +1745,7 @@ debone 1
 daredevilry 2
 desponsate 1
 drouthy 1
-dyad 2
+dyad 3
 dishwiping 2
 deathify 2
 diobol
@@ -2088,7 +2088,7 @@ delustered 1
 decurvation 1
 dixiecrat 2
 dauphiness 2
-diddle 1
+diddle 2
 decalogue 1
 decalvant 3
 definitizing 1
@@ -4844,7 +4844,7 @@ decussately
 dobe 1
 demonizes 2
 demandative 2
-demonizing
+demonizing 1
 drame 1
 dailies 1
 demonography 1
@@ -4867,7 +4867,7 @@ demonologer 2
 demonology 1
 demonologically 5
 disluster
-densitometers 1
+densitometers 2
 demonomist 2
 draisene 1
 demonopolize 4
@@ -6823,7 +6823,7 @@ dandyishy 2
 dethroner
 diorthotic 2
 dvorak 1
-dolichoblond 2
+dolichoblond 3
 definition 2
 ducamara 2
 disfranchisers
@@ -9366,7 +9366,7 @@ despicable 1
 drooling 3
 dockages 1
 demonstrance
-dunlin 3
+dunlin 4
 depulse 2
 dottels 4
 demasted
@@ -9458,7 +9458,7 @@ deducibleness
 demiplate
 despondently 1
 digenite 2
-digerent
+digerent 1
 dereistically 1
 doedicurus 3
 dustiest 1
@@ -11723,7 +11723,7 @@ derogatively 3
 dioscorine 4
 dimatis
 deactivates 1
-discrepancries 1
+discrepancries 2
 deterger 5
 dutuburi 3
 disbrain 2
@@ -12117,7 +12117,7 @@ denitrificant 2
 dramaturgy 2
 discubitory 1
 disexercise 2
-disfaith 1
+disfaith 2
 disconsolance 1
 disfashion 2
 duinhewassel 2
@@ -13752,7 +13752,7 @@ diatoms 1
 derbukka 2
 doll
 dissolubleness 2
-dawdlingly 1
+dawdlingly 2
 dissolutely 1
 dhurna 2
 derm 1
@@ -15138,7 +15138,7 @@ dokmarok
 decart
 dolefullest
 debuggers 4
-dolently 1
+dolently 2
 disensoul 1
 decalcifying
 dedolomitizing 3
@@ -15367,7 +15367,7 @@ deckers
 dragginess 2
 domiciles 2
 domiciliated 3
-demineralizer 1
+demineralizer 2
 detectivism 3
 domification 1
 distoma 1
@@ -17573,7 +17573,7 @@ disvaluing 1
 decolour 2
 disassimilation 1
 dynamiter 3
-desisting 2
+desisting 3
 drumline 1
 depolarised
 disinflationary 1
@@ -17916,7 +17916,7 @@ dolentissimo 2
 distritbute
 durgan 1
 dinks 3
-dayflowers 1
+dayflowers 2
 docible 2
 duellist
 diplomata 2
