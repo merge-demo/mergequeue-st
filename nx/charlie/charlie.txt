@@ -68,7 +68,7 @@ cabbages
 coinfinity 1
 critiquing 2
 chondrocarcinoma 1
-corrosion
+corrosion 1
 creeping 2
 cabbagy
 cabbaging 3
@@ -5931,7 +5931,7 @@ chhatri
 catgut 1
 cath
 cannibalic
-catha
+catha 1
 capillatus 1
 convolutionary
 cathay
@@ -9940,7 +9940,7 @@ cheneaus 1
 collaborations
 crystallophyllian 2
 conspurcate
-cambists
+cambists 1
 crescographic 1
 caseconv 3
 chaoses
@@ -12129,7 +12129,7 @@ chows 1
 causer
 crambo 1
 chancellorate
-cursiveness
+cursiveness 1
 chowses 3
 chowtime
 cephalocele
@@ -14262,7 +14262,7 @@ circummundane
 circummure 1
 contrivedly 2
 circummuring
-convolving 1
+convolving 2
 christmases 1
 circumnavigable
 circumnavigate 1
@@ -23377,7 +23377,7 @@ contaction 2
 contactor 1
 contacts 1
 contactual
-contactually
+contactually 1
 ceratosaurus 1
 contagion
 contagioned 1
@@ -27755,7 +27755,7 @@ corkscrews
 connecters 1
 cowshed 1
 cowsheds
-cowshot 1
+cowshot 2
 capitellar
 camorristi 1
 chough 1
@@ -27925,7 +27925,7 @@ coenobium 1
 correal 1
 cionoptosis
 crackerjacks 1
-crackers 2
+crackers 3
 cradlemaking 3
 consolidates
 cracket
@@ -30142,7 +30142,7 @@ crowshay
 cryocautery 1
 crowstepped
 citee
-crowstone
+crowstone 1
 camber
 complains 2
 circumstantially

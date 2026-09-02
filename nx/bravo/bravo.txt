@@ -118,7 +118,7 @@ benzoyls 1
 balsamaceous 2
 boomer 1
 binh 1
-berengarianism 1
+berengarianism 2
 babirusas 1
 beverly 3
 brimmer 2
@@ -621,7 +621,7 @@ bostangi
 bastiment 1
 bacteriodiagnosis 1
 bromates
-benomyls
+benomyls 1
 behearse
 bacterid 2
 birdcages 2
@@ -2374,7 +2374,7 @@ bascules 1
 barboy
 bubbletops
 bourignianist 1
-bagging
+bagging 1
 boxboards
 barbotine 1
 bones 2
@@ -3878,7 +3878,7 @@ bipinnatisect 1
 bawdies 3
 bestrow 2
 bricklaying 2
-backaches
+backaches 1
 belvidere
 boxbush
 bedaggered 2
@@ -5714,7 +5714,7 @@ blatancy 3
 branle 2
 beliefful
 bikram 1
-bahts
+bahts 1
 blastule 1
 bunghole
 bracted
@@ -5757,7 +5757,7 @@ bellacoola 1
 bungler
 balaghat 1
 biophysics 1
-beaverroot 2
+beaverroot 3
 bellbinder 2
 booboisie 3
 budgeree 1
@@ -6090,7 +6090,7 @@ benchership 3
 bodge 4
 blusters
 benchful 1
-benchman
+benchman 1
 benchmark 1
 burnout 1
 briggsian 1
@@ -6207,7 +6207,7 @@ benevolency 5
 bengalese 4
 batavian
 bengola
-bipartient
+bipartient 1
 beni 1
 buckjumper 1
 benight 2
@@ -7004,7 +7004,7 @@ besognier 1
 blowlamp 1
 biznagas 1
 bookcraft 1
-bioplasms 2
+bioplasms 3
 basing 2
 branchiostomidae 1
 ballpoints
@@ -10321,7 +10321,7 @@ blaflum 1
 blaggard 2
 benzotriazole 1
 balsamea
-blader 1
+blader 2
 byrlakin 2
 batfowling 1
 beauism
@@ -12126,7 +12126,7 @@ boldfacedness 1
 boldfacing 2
 bewitchments
 bleb 2
-boldhearted
+boldhearted 1
 beg 1
 bultey 1
 beloid 2
@@ -13689,7 +13689,7 @@ bourdons 4
 bourg 4
 befoolable
 bespawl
-bourgade 1
+bourgade 2
 beeped 1
 bonailie 1
 bourgeoisie 1
@@ -15479,7 +15479,7 @@ bagged 2
 brilliandeer 1
 buonamani
 brilliant 3
-bedflower 1
+bedflower 2
 beheading 2
 branchiostege 1
 brilliantined 2
