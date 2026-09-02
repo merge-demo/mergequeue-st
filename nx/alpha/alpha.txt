@@ -706,7 +706,7 @@ abortin 1
 antihydropin
 autonephrotoxin 1
 alkaid 1
-allayment
+allayment 1
 autotoxaemia
 abortional
 antiglobulin 2
@@ -2181,7 +2181,7 @@ achylous 1
 amakosa 2
 alts
 adawlut 2
-arend
+arend 1
 apiculate
 achymia
 acuminated
@@ -2517,7 +2517,7 @@ adipic
 acnemia
 adiaphoral 1
 acnes
-aphrasia
+aphrasia 1
 amperemeter 2
 acnida 1
 arabizes
@@ -3256,7 +3256,7 @@ actualness
 allochromatic 1
 axopetal
 adderbolt 2
-acoumetry 1
+acoumetry 2
 antimarian 1
 alstonine 2
 assident
@@ -4928,7 +4928,7 @@ actinomyces 3
 amidist 1
 auslaut
 airphobia
-adelochorda 2
+adelochorda 3
 aliyoth 1
 aerodonetics 2
 appeasement 2
@@ -5669,7 +5669,7 @@ amidstream
 affloof 1
 aga
 auspiciously 3
-antilopinae 1
+antilopinae 2
 acrocoracoid
 arachin
 agacante 5
@@ -7213,7 +7213,7 @@ aethrioscope 1
 alack
 archtraitor
 amole 1
-anadromous
+anadromous 1
 ameloblast
 adnouns 1
 abettals 1
@@ -7725,7 +7725,7 @@ adaw 1
 alcoholize 1
 alcoholmeter 2
 airmass
-anemogram 1
+anemogram 2
 alcoholmetric 1
 abaissed
 alcoholometer 1
@@ -9051,7 +9051,7 @@ actinoids 3
 allotriophagy 3
 acrimony 1
 aefauld 2
-adscriptitius
+adscriptitius 1
 anserin 1
 allotropic 2
 ailanthus
@@ -9780,7 +9780,7 @@ amahuaca
 antigen 1
 amanori 1
 aeroscope
-accoutrements
+accoutrements 1
 amain 2
 amidocaffeine 3
 andouillette 2
@@ -11384,7 +11384,7 @@ anticodon 2
 alloquy
 aspersor
 anticreeper 2
-amphitrichate 1
+amphitrichate 2
 amphitropous 1
 anargyros 2
 amphiumidae
@@ -15137,7 +15137,7 @@ axofugal 1
 atrocious 1
 advential
 antispeculation
-aggrandisement 1
+aggrandisement 2
 athena 1
 admonish
 antieducation 2
@@ -16846,7 +16846,7 @@ alterman
 administrators 2
 allodialist 2
 apositic
-almeriite
+almeriite 1
 agname
 acritol 1
 aphrodisiomaniacal 2
@@ -19510,7 +19510,7 @@ arguable 1
 arguably 1
 avoiders 3
 aecidiaceae
-audrey 1
+audrey 2
 argues
 applicancy
 amiantus
@@ -20274,7 +20274,7 @@ aleutian 1
 adsignification 1
 arroyos 1
 arroyuelo
-arrosive 1
+arrosive 2
 aleuritic 1
 antistreptococcal 2
 allowances
@@ -20305,7 +20305,7 @@ annoying 1
 alamosite
 arrowsmith
 arrowworm 3
-arroz 1
+arroz 2
 acrobatics 3
 arsenic
 arsenicked 2
@@ -20624,7 +20624,7 @@ aetiology
 arthropathic 2
 assamese 1
 anapnograph 5
-arthrophlogosis 1
+arthrophlogosis 2
 abdaria
 appete
 abruptiones 1
@@ -21394,7 +21394,7 @@ anemochorous 1
 amitroles
 askip 1
 actiniohematin 2
-askos 2
+askos 3
 aslant 1
 aglethead
 aevum
@@ -24934,7 +24934,7 @@ awakeningly 1
 awaking
 automotor 1
 archform 1
-arseniosiderite
+arseniosiderite 1
 adroit
 antidiphtheritic 2
 azygote 1
