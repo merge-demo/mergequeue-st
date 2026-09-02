@@ -353,7 +353,7 @@ facsim
 fluids
 flowerily 2
 fruticant 3
-fattiness
+fattiness 1
 foreknowing 4
 faints
 forcedness 3
@@ -786,7 +786,7 @@ frisk 3
 fowl 1
 fermate 2
 frizado
-frowsy 1
+frowsy 2
 flypast 2
 forgedly 1
 flusher 2
@@ -993,7 +993,7 @@ funnellike 1
 factum 2
 filicornia 3
 fragmentalize 1
-flatboats
+flatboats 1
 fodders 3
 finalists 2
 farinometer 1
@@ -1053,7 +1053,7 @@ fernleaf 1
 federates 3
 farrel 1
 figuresome 2
-flameproofer 3
+flameproofer 4
 faculae 1
 floricultural
 fontinalaceous 2
@@ -1362,7 +1362,7 @@ frivolling 2
 fiche 1
 fornicates 1
 formose 4
-fortuneteller
+fortuneteller 1
 foreshower 2
 fibrocaseose 1
 ferkin 3
@@ -2002,7 +2002,7 @@ feedstock
 floccosely
 firespout
 forerake 1
-fitched 2
+fitched 3
 flossflower 3
 fortunel 2
 floative 3
@@ -2675,7 +2675,7 @@ fluoridating 3
 fistular 2
 fertilizational 3
 funeral 2
-fallowed 1
+fallowed 2
 fume 3
 fantoccini 5
 fannings
@@ -3706,14 +3706,14 @@ furfuryl 1
 fricti 2
 forepoling
 found 3
-fierasferid 1
+fierasferid 2
 fistulas 2
 forleit 1
 finales 3
 furling
 flocoon 1
 fillips 1
-flics 1
+flics 2
 flexibilty
 fecundates 1
 fillmore 1
@@ -3795,7 +3795,7 @@ ferritization 3
 frizzliest
 flanning 2
 fistulate 1
-frijolillo
+frijolillo 1
 filigreeing 2
 flanconnade 2
 forestall 1
@@ -6939,7 +6939,7 @@ fastball
 foxlike 2
 farthingales 2
 formication 1
-ferally 2
+ferally 3
 follicular 5
 firebote 1
 folliculated 1
@@ -8871,7 +8871,7 @@ flushgate 6
 farmers 2
 forespoke 1
 fricandoes 3
-flagellulae 2
+flagellulae 3
 frakfurt
 fleeringly
 fossillike 4
@@ -10338,7 +10338,7 @@ fluorated
 floscularian 1
 faquirs 1
 flandowser 1
-felonries 1
+felonries 2
 fitten 1
 finary 1
 folksongs 1
@@ -10674,7 +10674,7 @@ fruitbearing 4
 foremark 3
 frailties 1
 fusc 3
-frankness 1
+frankness 2
 fruitfuller
 filtrability 1
 facultate 2
