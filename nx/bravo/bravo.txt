@@ -2394,7 +2394,7 @@ betatter
 barhopped
 bilertinned 1
 barcella
-biopic
+biopic 1
 barcelona
 boxwork 1
 benzoylformic 1
@@ -7611,7 +7611,7 @@ boons
 bewitchingly
 bewitchingness 1
 butlery 1
-bearded 1
+bearded 2
 brownprint 2
 bewitchment 2
 bounderishly 1
@@ -14849,7 +14849,7 @@ bedim 2
 bulborectal 1
 breachful 2
 briefcases
-breadbasket
+breadbasket 1
 becroak 1
 backstretch 1
 buckles 3
