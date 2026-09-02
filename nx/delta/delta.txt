@@ -639,7 +639,7 @@ decoyman
 dextroversion 1
 dinoflagellata 2
 deploitation 1
-damnify 1
+damnify 2
 dearth 1
 damnificatus 3
 dissonant 3
@@ -789,7 +789,7 @@ dacryocystotomy 2
 diabolisation 3
 discute 6
 delirament 1
-dissections
+dissections 1
 diapsidan 2
 dandruffs
 dialytic 3
@@ -3993,7 +3993,7 @@ dealership
 dawtie 1
 darwinians
 deaconed
-describer 1
+describer 2
 delsartean
 dogwinkle 3
 dysarthric 2
@@ -6983,7 +6983,7 @@ dasi 3
 despites 2
 downfield
 decease 2
-decuria
+decuria 1
 dithionite 1
 douter 1
 diets
@@ -7254,7 +7254,7 @@ desertlike 1
 dilettantship 3
 dendrachate 1
 decliner 1
-dissolved 2
+dissolved 3
 diableries 1
 detergers
 diamidogen 4
@@ -7341,7 +7341,7 @@ duecentos 2
 doctrinist 1
 doyen 3
 deterrence 1
-defiantly
+defiantly 1
 disprejudice 1
 deterrent 4
 dodunk 1
@@ -8326,7 +8326,7 @@ dejerate 2
 dargue
 daemonies 1
 disruptable 1
-dioestrum 4
+dioestrum 5
 disincline 1
 duchies 1
 decemfoliolate 1
@@ -10232,7 +10232,7 @@ dermoosseous
 devons
 dayshine 2
 destry
-dinotherian 3
+dinotherian 4
 dins
 defenestrate 1
 dinted
@@ -13351,7 +13351,7 @@ disputeful 2
 dacrydium
 disfeature 1
 deceitful 1
-disputer 2
+disputer 3
 definitising 2
 dorsally
 dysorexy 1
@@ -16237,7 +16237,7 @@ dendroceratina 1
 dissue 1
 dacryocystoblennorrhea 3
 dindymus
-distilled 3
+distilled 4
 dinophyceae 2
 defease 1
 downcastness 1
@@ -17038,7 +17038,7 @@ devirilize
 dundrearies 1
 drenches 1
 decarboxylating 1
-drengage
+drengage 1
 drepania
 drepanidae 2
 ductibility 1
@@ -17050,7 +17050,7 @@ disappreciation 1
 destructory 1
 dressier 2
 diva 1
-dullest 1
+dullest 2
 daughters 3
 donned 4
 dipsosis 1
