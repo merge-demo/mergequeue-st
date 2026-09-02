@@ -3417,7 +3417,7 @@ fenestella 4
 forestate
 fielders 1
 forset 1
-favellilidia 1
+favellilidia 2
 furfures 3
 frankforter 3
 fenbank 2
@@ -4453,7 +4453,7 @@ flameproof 1
 fazed 1
 flattie 1
 fishtailed 1
-fibrilled 1
+fibrilled 2
 fishpotter 2
 foist 1
 flibbertigibbet 7
@@ -4667,7 +4667,7 @@ filicinean 1
 fearsome 2
 fragmentize 2
 figurante 3
-flaunched 2
+flaunched 3
 flections 3
 flexibilities 1
 frighten 3
@@ -4693,7 +4693,7 @@ furtherer
 flamboyancy 1
 fistlike 2
 fizgig 2
-fidged 2
+fidged 3
 fizgigs 2
 feinted 2
 feta 1
@@ -5071,7 +5071,7 @@ frondivorous 1
 folders 6
 fiord 4
 fessely 3
-flumps 2
+flumps 3
 flamelet 4
 fun 2
 fuligo 1
@@ -5585,7 +5585,7 @@ folkvangr 1
 flockowner 5
 fossicking 4
 forgette 4
-fader 1
+fader 2
 fibrinocellular 1
 flycatchers
 flicflac 1
@@ -5821,7 +5821,7 @@ flankwise 2
 froggiest 2
 frivolize 3
 ferfet 1
-fritted 2
+fritted 3
 firehouse
 figgery 2
 furbishes 1
@@ -7783,7 +7783,7 @@ fabliau 5
 financial 2
 forejudging 1
 florentines
-feudalized 4
+feudalized 5
 fettucine
 foremother
 frithbot 1
@@ -9044,7 +9044,7 @@ feature 2
 foursquareness 2
 faustian 1
 fourteener
-froren 2
+froren 3
 flatirons 1
 furiously 4
 forra 2
@@ -9652,7 +9652,7 @@ fdub 3
 fragmentitious 3
 forcipated 2
 faineantism 2
-fanfishes 2
+fanfishes 3
 fleabugs 2
 faon 1
 fabula 3
@@ -10013,7 +10013,7 @@ foreshadows 2
 frigidly 2
 federatist 4
 falloff
-forthfigured
+forthfigured 1
 facecloth 2
 facias 2
 fishy 2
