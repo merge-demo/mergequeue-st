@@ -676,7 +676,7 @@ fanweed 2
 fanatico
 florisugent 2
 forzandos 2
-fobs 1
+fobs 2
 familism 2
 firebolted 1
 farmstead 3
@@ -3758,7 +3758,7 @@ francize 1
 fecundative 2
 fondle 1
 fettlings 1
-fiducial 3
+fiducial 4
 fibrocystic 3
 futilous
 foreflipper 2
@@ -4282,7 +4282,7 @@ follicule
 fibster 1
 fenland 4
 fungology 3
-feudaries 3
+feudaries 4
 firmarii 2
 furmeties
 flunkeys 2
@@ -8177,7 +8177,7 @@ fundmonger 4
 forcepses
 forevers
 forclose 5
-foregate
+foregate 1
 forthwith
 ferberite 2
 fructuosity 2
@@ -8297,7 +8297,7 @@ faits 1
 feldspars 2
 fistulated 3
 fulltime 4
-father 1
+father 2
 fructuose 2
 flushest 3
 forgettably
@@ -11363,7 +11363,7 @@ fiasco 1
 freighting
 fannies 2
 fenagler 1
-ferlied 1
+ferlied 2
 flustrine 4
 fuchsin 5
 forfended 1
@@ -11557,7 +11557,7 @@ floeberg
 fledgy 1
 folio 3
 fretfully
-ferociousness 1
+ferociousness 2
 fungals 2
 footlessly 2
 fusil 2
@@ -11746,7 +11746,7 @@ fremdly 3
 florimanist 1
 finitely 4
 foghorn 1
-flanking 1
+flanking 2
 fatherland
 followings 3
 factorage 3
