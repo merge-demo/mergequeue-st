@@ -4872,7 +4872,7 @@ agsam
 authenticatable 1
 archlute 3
 antemeridian 1
-aeroboat 1
+aeroboat 2
 alacrify
 allegory
 aerobranchia
@@ -8807,7 +8807,7 @@ allylation 1
 allylthiourea
 alloplasmatic
 allionia 1
-ayu
+ayu 1
 allyou
 allis
 aristocrat
@@ -17115,7 +17115,7 @@ atropa 3
 agoranome 3
 alpist
 adenocarcinoma
-acmes 1
+acmes 2
 antibody 3
 appendicle
 apogamies
@@ -21471,7 +21471,7 @@ asperly 2
 acupuncturation 1
 agromyza
 autotransplantation
-appendicostomy
+appendicostomy 1
 amphiprostyle 2
 aerophysicist 2
 aspermatic

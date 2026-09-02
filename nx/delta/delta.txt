@@ -1644,7 +1644,7 @@ difficulty 1
 daylong 1
 dimetrodon 1
 deodate 2
-delaminate
+delaminate 1
 datolitic 2
 domify
 devertebrated 1
@@ -10408,7 +10408,7 @@ disty 1
 diphasic 2
 dovetailer
 diphenhydramine 1
-diacidic 1
+diacidic 2
 diphenylamine
 diphenylaminechlorarsine 1
 diervilla 2
@@ -17038,7 +17038,7 @@ devirilize
 dundrearies 1
 drenches 1
 decarboxylating 1
-drengage
+drengage 1
 drepania
 drepanidae 2
 ductibility 1
