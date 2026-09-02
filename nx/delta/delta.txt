@@ -1154,7 +1154,7 @@ dropflower 1
 duracine
 dasyatis 1
 daylit 1
-dire 4
+dire 5
 distractingly
 dasiphora 2
 darren
@@ -1567,7 +1567,7 @@ dices 2
 dyssodia 1
 deadfalls
 deviler 2
-dim 2
+dim 3
 denominant
 dictyoid
 deadheartedly 4
@@ -1742,7 +1742,7 @@ deaspiration 1
 dihely 1
 depersonalization 2
 debone 1
-daredevilry 1
+daredevilry 2
 desponsate 1
 drouthy 1
 dyad 2
@@ -1774,7 +1774,7 @@ debriefs 2
 deathtrap 2
 devocalization 1
 drof
-deathward 2
+deathward 3
 ductility 1
 docent 1
 downlier 1
@@ -2526,7 +2526,7 @@ dibromoacetaldehyde 2
 declaratorily 1
 deaminate 1
 drain
-dotted
+dotted 1
 divulgater
 disregarder 3
 dimers 3
@@ -3057,7 +3057,7 @@ disagreement 1
 dehydrogenising 1
 demodocus 2
 durzada
-disinvolvement
+disinvolvement 1
 dairi
 dowdiest 1
 defacement
@@ -3866,7 +3866,7 @@ dejection
 devested 2
 derivation 1
 dinornithes 1
-dejects
+dejects 1
 dehypnotizing 1
 drake 2
 dejeration 1
@@ -5110,7 +5110,7 @@ digynian 2
 denervation 2
 denes
 defer 2
-daughterlike
+daughterlike 1
 dismastment 1
 deanimalize 2
 densitometric 1
@@ -5263,7 +5263,7 @@ decadescent 2
 droitsman
 dysmorphism 3
 diancecht
-dentality 1
+dentality 2
 dentaliums 1
 dakoit 2
 delphinapterus 1
@@ -5418,7 +5418,7 @@ dejunkerize 1
 detectably 1
 deoppilate
 dep
-deorganization 2
+deorganization 3
 decolouriser 2
 doubtfully 1
 documentarian 2
@@ -7897,7 +7897,7 @@ desecration 2
 delphinite 4
 draconianism
 desperadoes
-defrock 2
+defrock 3
 droughty 1
 diminuting
 degringolade 2
@@ -8321,7 +8321,7 @@ disfavourable 2
 decapodous 1
 droopingness 1
 diplois 2
-decurvature 2
+decurvature 3
 dejerate 2
 dargue
 daemonies 1
@@ -10737,7 +10737,7 @@ dipsomaniacs 4
 diestrual 2
 dipsopathy 4
 deutonephron 2
-daintiest 2
+daintiest 3
 dipstick
 divinization 4
 dipteraceae 1
@@ -10930,7 +10930,7 @@ disadvising 3
 dysaesthesia 1
 dropvie 4
 dendrogaean 2
-downgrade 2
+downgrade 3
 duettist
 dryopithecine 2
 deconventionalize 1
@@ -11132,7 +11132,7 @@ deglaciation 1
 disbars 2
 disbase 3
 dani 2
-disbeliefs 3
+disbeliefs 4
 decastere
 dermises
 diarchic 3
@@ -14360,7 +14360,7 @@ dreadingly
 drawly
 diureses 1
 diuresis 2
-democratical 1
+democratical 2
 divagatory 4
 diureticalness
 dialyzed 1
@@ -14533,7 +14533,7 @@ divinized 1
 divinizes 1
 demarche 1
 diatomean 3
-dismembrated
+dismembrated 1
 depicters
 duodenary 3
 detribalization
