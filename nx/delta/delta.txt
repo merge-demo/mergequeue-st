@@ -639,7 +639,7 @@ decoyman
 dextroversion 1
 dinoflagellata 2
 deploitation 1
-damnify 1
+damnify 2
 dearth 1
 damnificatus 3
 dissonant 3
@@ -8326,7 +8326,7 @@ dejerate 2
 dargue
 daemonies 1
 disruptable 1
-dioestrum 4
+dioestrum 5
 disincline 1
 duchies 1
 decemfoliolate 1
@@ -9828,7 +9828,7 @@ dentile
 diesis 2
 discouragingness 2
 dynamometamorphism
-diluvia 2
+diluvia 3
 disarmament 1
 disillusionizer 1
 deviancies
@@ -16424,7 +16424,7 @@ dulc 2
 draggletailedness 1
 doxa 1
 doxastic
-daemon 2
+daemon 3
 doxasticon
 dghaisa 1
 dinglebird 1
@@ -16914,7 +16914,7 @@ distemperment 1
 descriptory 1
 dreadly
 dreadlocks 1
-dreadnought 1
+dreadnought 2
 dreamful 1
 demobilizations 2
 dossman 3
