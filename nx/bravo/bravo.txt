@@ -1310,7 +1310,7 @@ boteroll 3
 beknown 1
 betorcinol 1
 bradycinesia
-biogasses
+biogasses 1
 bacao 3
 brochantite
 bury
@@ -3477,7 +3477,7 @@ bioscientific 1
 bovarism 4
 basuto 1
 bancos 2
-buphaga 2
+buphaga 3
 bander 1
 barkpeeler
 boobook
@@ -9470,7 +9470,7 @@ brawl 1
 bespatterment 2
 boatbill 1
 bioinstrumentation 1
-bathymeter 2
+bathymeter 3
 basaltine 1
 bemedaled 1
 bashes
