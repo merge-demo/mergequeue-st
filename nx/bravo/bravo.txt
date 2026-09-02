@@ -1823,7 +1823,7 @@ becombed
 baserunning
 belonid 2
 bikie 1
-bruiting 2
+bruiting 3
 bechtler
 blocklike 2
 benthamite 3
@@ -4683,7 +4683,7 @@ blankit
 bozze 1
 blondest
 blindcat
-bignesses
+bignesses 1
 bulnbuln 2
 buckstay 2
 blastoid
@@ -5196,7 +5196,7 @@ basihyoid 1
 blastodisk 1
 bypasser 1
 beauteously 1
-borborygm 3
+borborygm 4
 bachelry
 beleed 4
 behoove 4
