@@ -3667,7 +3667,7 @@ fibroadipose 1
 filings 2
 flosser 3
 farm 2
-fibrilated 2
+fibrilated 3
 fidos 5
 footman 1
 flourishes 2
@@ -4113,7 +4113,7 @@ fiorin 3
 fusiladed 3
 fiorite 3
 foreseen
-falsehoods 3
+falsehoods 4
 fornenst 2
 faff 2
 fontanel 2
@@ -4848,7 +4848,7 @@ franciscan 2
 froebelism 1
 footfall 1
 floor 1
-farmhouse
+farmhouse 1
 fickleness 2
 flagstick 2
 flagworm 2
@@ -9890,7 +9890,7 @@ friskle 3
 foreappointment
 fricandeaux 3
 fuliginously
-foozlers 1
+foozlers 2
 famishing 2
 footcloths 2
 frogeye 2
@@ -10289,7 +10289,7 @@ fennecs
 flamingoes 1
 fordid 4
 filled 1
-foundationed 2
+foundationed 3
 ferronickel 2
 flavedos 3
 froideur 2
