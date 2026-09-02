@@ -310,7 +310,7 @@ flchette 3
 fplot 5
 fluxionary 1
 feods 3
-forces 2
+forces 3
 fail 3
 fireplough 4
 faineancy 4
@@ -1961,7 +1961,7 @@ fooyoung 1
 flagmaker 1
 fone
 feeb
-feeblemindedly 1
+feeblemindedly 2
 femaleness 1
 flowerlike 3
 festshrifts 2
@@ -2175,7 +2175,7 @@ friskest
 folkmoot 4
 fidgetily
 falsities 3
-falutin 5
+falutin 6
 fligger 1
 fallibilism
 foretypified
@@ -7424,7 +7424,7 @@ fey 2
 fasti 1
 flawflower 2
 figgum 4
-fille 3
+fille 4
 fawnlike 2
 fans 5
 faintful 1
@@ -9101,7 +9101,7 @@ fix 3
 fractionalize 1
 foreparents
 fleetwing 1
-frap 2
+frap 3
 feruling 1
 foxberry 2
 falcular 2
@@ -10707,7 +10707,7 @@ foxy 1
 felsophyre 5
 feralin 2
 fivepenny
-fairstead 2
+fairstead 3
 fruitstalk 1
 fg 3
 fusel 2
@@ -11503,7 +11503,7 @@ furud 4
 flamboyant 1
 fructuousness 1
 fantasticness 4
-fashery 1
+fashery 2
 furunculous 3
 furzeling 5
 furzy 1

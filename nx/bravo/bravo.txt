@@ -502,7 +502,7 @@ betweentimes
 buffo 2
 backstaff
 bridely 2
-blathering 2
+blathering 3
 backstitch
 bahoo
 blumed 1
@@ -1143,7 +1143,7 @@ battercake 3
 bello 2
 belonesite
 bairns 1
-bootful 1
+bootful 2
 berne 1
 banquets 2
 babakoto 2
@@ -12091,7 +12091,7 @@ bokhara 3
 baronized 1
 boronic 1
 berengarian 1
-bovinely
+bovinely 1
 bokharan 2
 bokom 3
 bolag
@@ -14405,7 +14405,7 @@ boloman 2
 bambino
 bettors 1
 braincap 2
-brachiferous 2
+brachiferous 3
 braincase
 blastomycosis 1
 braincraft 5
