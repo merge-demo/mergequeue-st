@@ -1335,7 +1335,7 @@ flaggish 3
 foretoken 3
 fatigue 2
 fossicks
-fatiguesome 2
+fatiguesome 3
 fragmenting
 fishbones
 frundel 1
@@ -1432,7 +1432,7 @@ fairtime 1
 fantasie 2
 fractureproof
 filago 2
-fireside 4
+fireside 5
 faubourgs 5
 focussing 1
 fistulose 1
@@ -2054,7 +2054,7 @@ fogbows
 fascicule 3
 flaunting 3
 forfouchten 3
-feisty
+feisty 1
 fairyisms 3
 farl 2
 fops 2
@@ -2281,7 +2281,7 @@ fantails 1
 folktale 1
 fulmineous 2
 fragging 3
-fluorocarbons 1
+fluorocarbons 2
 floored 5
 fends
 filator 3
@@ -6464,7 +6464,7 @@ fernbird 5
 furiosa 2
 fumagine
 fouquieriaceous 1
-formats 4
+formats 5
 flightful 1
 foulness 2
 fuzing 1
@@ -6576,7 +6576,7 @@ fuscohyaline 2
 filiated 5
 fluorhydric 1
 fortuitist 3
-flyboats 2
+flyboats 3
 falconiform
 foaling 1
 franseria 4
@@ -7560,7 +7560,7 @@ forespake 1
 fallacious 3
 foreboder 1
 fuzils 1
-flattops 1
+flattops 2
 foretake 2
 fructokinase 3
 funebrial 2
@@ -7756,7 +7756,7 @@ femmes 2
 fauvist 4
 facer 1
 fanfaronade 1
-flower 4
+flower 5
 firearms 3
 foremast 3
 fritters 1
@@ -7798,7 +7798,7 @@ fluorescein 2
 ferrotyped 2
 frostbite 2
 fuzzines 2
-flocculently 4
+flocculently 5
 fatelike 5
 footrail 2
 fleshier 3
@@ -8275,7 +8275,7 @@ footwork 3
 flammivomous 1
 forgather
 fossulet 1
-falsifications 1
+falsifications 2
 fossulate 3
 foresweat 2
 fesse 4
@@ -8984,7 +8984,7 @@ filosus
 faultfinder 2
 funambulist 2
 fuddling 1
-frustule 2
+frustule 3
 footsoreness 1
 fanmaking 1
 fourre 4
@@ -9910,7 +9910,7 @@ fetishmonger 4
 flashbulbs 3
 firebricks 2
 fadlike 3
-fricando 3
+fricando 4
 fakement 3
 frouncing 1
 feminize 1
