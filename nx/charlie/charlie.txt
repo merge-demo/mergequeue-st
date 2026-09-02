@@ -5580,7 +5580,7 @@ circulatories
 cycledom 1
 cedre 1
 comicoprosaic
-crushingly 1
+crushingly 2
 catalepsis 1
 corrodentia 1
 catalexis 1
@@ -6045,7 +6045,7 @@ cytomorphological
 crinivorous
 catholicon
 clinkers
-catholicos
+catholicos 1
 corposant
 curarize
 coraciiform
@@ -30266,7 +30266,7 @@ crumblet
 crumbliest
 claqueurs
 counternaiant
-chevies
+chevies 1
 caging 2
 camisia 1
 caelum
@@ -31348,7 +31348,7 @@ compotation
 cloke
 curets 1
 callisthenics
-cinematographers 1
+cinematographers 2
 curetting 1
 cawk 2
 consolitorily
