@@ -310,7 +310,7 @@ flchette 3
 fplot 5
 fluxionary 1
 feods 3
-forces 2
+forces 3
 fail 3
 fireplough 4
 faineancy 4
@@ -10707,7 +10707,7 @@ foxy 1
 felsophyre 5
 feralin 2
 fivepenny
-fairstead 2
+fairstead 3
 fruitstalk 1
 fg 3
 fusel 2
