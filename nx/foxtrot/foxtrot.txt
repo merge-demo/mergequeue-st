@@ -302,7 +302,7 @@ fittiness 4
 futureness 2
 fagaceae 3
 freudians
-firesafe 1
+firesafe 2
 fessed 3
 fittage 3
 fewnesses 2
@@ -1949,10 +1949,10 @@ flated 5
 formulization 1
 fishlet
 flagellantism 1
-fowlery 1
+fowlery 2
 fatherhood 1
 foreknower 1
-fearers
+fearers 1
 familiarizingly 1
 falsify 1
 fenouillet
@@ -1978,7 +1978,7 @@ frows 2
 fancy
 feebless 1
 formaldehydesulphoxylate 5
-filatory 3
+filatory 4
 fibroneuroma
 fillock 2
 fernticle 5
@@ -6262,7 +6262,7 @@ flota 1
 fadingly 3
 fouettee 2
 fluxer 3
-formamidoxime
+formamidoxime 1
 forewisdom 2
 fingerwork 2
 fineless
@@ -6682,7 +6682,7 @@ flyblow 2
 flores 4
 fogdogs 2
 fortnightly 2
-frippery 1
+frippery 2
 fairways 1
 fraileros 1
 fogdom
@@ -6726,7 +6726,7 @@ forelegs 2
 fogon 2
 fogproof 2
 forstand 3
-fellator 5
+fellator 6
 frangulaceae
 foramens 2
 fictive
@@ -8141,7 +8141,7 @@ fiscally 1
 floatation 2
 freaky 1
 farleu 1
-forpit
+forpit 1
 favouredness 2
 fourposter 1
 foretaster 1
@@ -10410,7 +10410,7 @@ footlining 1
 frontcourt 2
 foreschooling 4
 fragrances 1
-feldspathization 1
+feldspathization 2
 flashcube 1
 fletcherite 1
 fanwise 1
@@ -10730,7 +10730,7 @@ fantasizes 1
 fleckless 3
 foxier 2
 fatherliness 2
-figent 2
+figent 3
 flayed
 fitfully 1
 flary 1
