@@ -2647,7 +2647,7 @@ begirdle 1
 battening 2
 borrows 2
 bandusia 2
-bescorch
+bescorch 1
 bummler 2
 batrachite
 beeth
@@ -5939,7 +5939,7 @@ buyouts 2
 brelan
 ballistic
 bestrowing
-beltie 1
+beltie 2
 boogerman 1
 bludged 3
 butylamine
@@ -12324,7 +12324,7 @@ bombline 2
 bowdrill 1
 bombast
 buglers 1
-bezzi
+bezzi 1
 beldame
 baillie
 bonds 1
