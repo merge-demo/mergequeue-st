@@ -275,7 +275,7 @@ gainliness 3
 gainsaying 1
 groin 3
 guillochee 2
-gibing 4
+gibing 5
 gaslock 2
 gaddish 1
 groundliness 4
@@ -915,7 +915,7 @@ guna 1
 gambia 2
 gunners 2
 garblings 1
-garnishable
+garnishable 1
 gemeinschaften 2
 guidership 5
 gelsemiumia
@@ -1059,7 +1059,7 @@ gynomonoecism 5
 gambesons 2
 gentlewomanhood 1
 gipsology
-gomphiasis 2
+gomphiasis 3
 gradus 5
 glossologies 2
 gasserian 3
@@ -1772,7 +1772,7 @@ gestalten 1
 granodioritic 1
 gangwaymen 2
 gobbe 3
-gatehouses
+gatehouses 1
 grueler 2
 gastrotomic 2
 genecology 2
@@ -2337,7 +2337,7 @@ gymnogenous
 geniting 1
 galatians 3
 germanies 3
-geotectonic 5
+geotectonic 6
 gravitates 2
 guardants 1
 glump 2
@@ -3074,7 +3074,7 @@ gaolage 2
 gomuti 3
 gymnocidium 1
 guffaws 4
-grips 3
+grips 4
 goan 5
 golandaas 2
 germinative 3
@@ -6300,7 +6300,7 @@ gigartinaceous 3
 gargantua 2
 gauster 4
 globetrotters 1
-greyskin 3
+greyskin 4
 geophysics
 gruneritization 3
 goblins 1
@@ -7519,7 +7519,7 @@ gamesmanship 2
 gymnotidae 4
 gordon 2
 greenleaf 3
-glycosuria 3
+glycosuria 4
 globulousness 1
 geostrategic 2
 gaet
@@ -7712,7 +7712,7 @@ goatishly 7
 gombroons 2
 gigglement 4
 grading 1
-garnering 1
+garnering 2
 grease
 general 1
 gobiesox 1
@@ -10865,7 +10865,7 @@ geomagnetician 2
 gush 2
 gyri 2
 gastropancreatitis 1
-graduation 1
+graduation 2
 guaranteer 4
 graphidiaceae 2
 gastrulation 1
