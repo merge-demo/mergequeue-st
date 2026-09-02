@@ -1583,7 +1583,7 @@ deadlines 2
 determinatively
 desitive
 disembody 2
-deflagrable 2
+deflagrable 3
 debateable 3
 decipolar
 duplicia
@@ -1828,7 +1828,7 @@ distintion 1
 delusterant
 distortionist
 disunities
-demagnetiser 2
+demagnetiser 3
 debauchedly 1
 dissuades 1
 dobson 3
@@ -2420,7 +2420,7 @@ dyssynergy
 diureide 1
 dacrya 1
 disobediently
-degorder 1
+degorder 2
 decimolar 2
 diplacusis 1
 deluminize 1
@@ -6736,7 +6736,7 @@ deboistness
 designer 4
 discerptible 1
 donicker 2
-designful 4
+designful 5
 drylot 2
 dillyman 1
 downshifts 2
@@ -14464,7 +14464,7 @@ divertimento 2
 denarcotize 2
 drunkensome 1
 dehydrogenated
-drainages
+drainages 1
 divertingness
 duckery 2
 dissolveability

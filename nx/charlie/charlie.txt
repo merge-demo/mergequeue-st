@@ -11600,7 +11600,7 @@ cholecystolithiasis 1
 cholecystostomy
 cholecystotomy
 choledochal 1
-culpability 1
+culpability 2
 colpeurysis 1
 conformate 2
 collectorship
@@ -13160,7 +13160,7 @@ cicatrizate 1
 canalize
 craniographer
 cicatrization
-cott
+cott 1
 cicatrizer 1
 cicatrizing 1
 cleated
