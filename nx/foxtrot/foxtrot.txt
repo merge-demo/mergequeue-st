@@ -315,7 +315,7 @@ fail 3
 fireplough 4
 faineancy 4
 fayles
-fimbricated 2
+fimbricated 3
 furcal 3
 fayumic 4
 fillingly 5
@@ -7741,7 +7741,7 @@ falconlike 2
 fretty 3
 furs 3
 forsaken 4
-flamelike
+flamelike 1
 formalizations
 flicky
 fireshine 2
@@ -11527,7 +11527,7 @@ fra 3
 foretopmen 3
 floodable 1
 flixweed
-finalis 5
+finalis 6
 fissidactyl 1
 fireflaught
 foldout 1
@@ -11692,7 +11692,7 @@ flare 1
 flyleaves 4
 fagaceous 1
 faced 2
-flippancy 2
+flippancy 3
 fanlights 3
 flapcake 3
 foredispose 1
