@@ -5442,7 +5442,7 @@ fiendliness 2
 fashion 5
 frolickly 1
 forseek 3
-fitchery 3
+fitchery 4
 fusobteria 6
 femur 1
 filterable 2
@@ -5492,7 +5492,7 @@ floater 1
 farouk
 foolscap 4
 furunculoid 2
-forbids 2
+forbids 3
 fourteenths 2
 formes
 floey 3
@@ -9325,7 +9325,7 @@ fumarine 1
 foldwards 3
 fasinite
 fogrum
-foldboats
+foldboats 1
 fistulization
 filthiest
 frances 2
