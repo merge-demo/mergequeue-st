@@ -302,7 +302,7 @@ fittiness 4
 futureness 2
 fagaceae 3
 freudians
-firesafe 1
+firesafe 2
 fessed 3
 fittage 3
 fewnesses 2
@@ -1366,7 +1366,7 @@ fortuneteller
 foreshower 2
 fibrocaseose 1
 ferkin 3
-filmy 3
+filmy 4
 fabronia 1
 fermatas
 frith 2
@@ -1424,7 +1424,7 @@ fringing 2
 fistulatous 1
 fadmongering 1
 fetched 4
-fatuoid 3
+fatuoid 4
 fatuus 1
 foveate 1
 frankly 1
@@ -1949,10 +1949,10 @@ flated 5
 formulization 1
 fishlet
 flagellantism 1
-fowlery 1
+fowlery 2
 fatherhood 1
 foreknower 1
-fearers
+fearers 1
 familiarizingly 1
 falsify 1
 fenouillet
@@ -1978,7 +1978,7 @@ frows 2
 fancy
 feebless 1
 formaldehydesulphoxylate 5
-filatory 3
+filatory 4
 fibroneuroma
 fillock 2
 fernticle 5
@@ -2761,7 +2761,7 @@ ficary 3
 faliscan 1
 frizer 2
 freddo
-fibroserous 2
+fibroserous 3
 fights 3
 festerment
 footway 5
@@ -3743,7 +3743,7 @@ fertilizability 1
 funnily
 flippantness
 faultlessly 2
-fortressed 2
+fortressed 3
 furoate 3
 failure 1
 fibula
@@ -4462,7 +4462,7 @@ forerigging 2
 footstool 3
 fairest 2
 formidable 4
-frouzier 1
+frouzier 2
 frankenia
 furores 3
 flattercap
@@ -6115,7 +6115,7 @@ freebies 2
 friation 4
 firestone 3
 fitchering 2
-flotson
+flotson 1
 fustanella 1
 frightenedly 1
 foxtongue 2
@@ -6262,7 +6262,7 @@ flota 1
 fadingly 3
 fouettee 2
 fluxer 3
-formamidoxime
+formamidoxime 1
 forewisdom 2
 fingerwork 2
 fineless
@@ -6682,7 +6682,7 @@ flyblow 2
 flores 4
 fogdogs 2
 fortnightly 2
-frippery 1
+frippery 2
 fairways 1
 fraileros 1
 fogdom
@@ -6726,7 +6726,7 @@ forelegs 2
 fogon 2
 fogproof 2
 forstand 3
-fellator 5
+fellator 6
 frangulaceae
 foramens 2
 fictive
@@ -8141,7 +8141,7 @@ fiscally 1
 floatation 2
 freaky 1
 farleu 1
-forpit
+forpit 1
 favouredness 2
 fourposter 1
 foretaster 1
@@ -8187,7 +8187,7 @@ forecastleman 1
 fountful 2
 frequentable 1
 forwake
-foreuse 2
+foreuse 3
 fillercap
 fetishistic 2
 fibulas 3
@@ -10410,7 +10410,7 @@ footlining 1
 frontcourt 2
 foreschooling 4
 fragrances 1
-feldspathization 1
+feldspathization 2
 flashcube 1
 fletcherite 1
 fanwise 1
@@ -10730,7 +10730,7 @@ fantasizes 1
 fleckless 3
 foxier 2
 fatherliness 2
-figent 2
+figent 3
 flayed
 fitfully 1
 flary 1
@@ -11657,7 +11657,7 @@ funerealness 1
 fusus 2
 feedlot 1
 fanion 1
-filoselle 3
+filoselle 4
 foretalking
 forcingly 4
 farasula 2
