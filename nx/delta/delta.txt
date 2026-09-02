@@ -1154,7 +1154,7 @@ dropflower 1
 duracine
 dasyatis 1
 daylit 1
-dire 4
+dire 5
 distractingly
 dasiphora 2
 darren
@@ -1742,7 +1742,7 @@ deaspiration 1
 dihely 1
 depersonalization 2
 debone 1
-daredevilry 1
+daredevilry 2
 desponsate 1
 drouthy 1
 dyad 2
@@ -2526,7 +2526,7 @@ dibromoacetaldehyde 2
 declaratorily 1
 deaminate 1
 drain
-dotted
+dotted 1
 divulgater
 disregarder 3
 dimers 3
@@ -5110,7 +5110,7 @@ digynian 2
 denervation 2
 denes
 defer 2
-daughterlike
+daughterlike 1
 dismastment 1
 deanimalize 2
 densitometric 1
@@ -5418,7 +5418,7 @@ dejunkerize 1
 detectably 1
 deoppilate
 dep
-deorganization 2
+deorganization 3
 decolouriser 2
 doubtfully 1
 documentarian 2
@@ -8321,7 +8321,7 @@ disfavourable 2
 decapodous 1
 droopingness 1
 diplois 2
-decurvature 2
+decurvature 3
 dejerate 2
 dargue
 daemonies 1
@@ -10737,7 +10737,7 @@ dipsomaniacs 4
 diestrual 2
 dipsopathy 4
 deutonephron 2
-daintiest 2
+daintiest 3
 dipstick
 divinization 4
 dipteraceae 1
@@ -14533,7 +14533,7 @@ divinized 1
 divinizes 1
 demarche 1
 diatomean 3
-dismembrated
+dismembrated 1
 depicters
 duodenary 3
 detribalization
