@@ -1558,7 +1558,7 @@ deactivators
 distressedness 1
 doublure 1
 drail 1
-deaden 1
+deaden 2
 droops 3
 docked 1
 diadelphian 3
@@ -2074,7 +2074,7 @@ deforces 1
 dinghy 2
 decalcifies 2
 dendrography 1
-drip 3
+drip 4
 demonologies
 digressingly 2
 decaliters 1
@@ -3559,7 +3559,7 @@ dehwar
 defuze 4
 dakoities
 dissociative
-degage 2
+degage 3
 degames 3
 deganglionate 1
 discomedusoid 2
@@ -3580,7 +3580,7 @@ dodecant
 destituting
 diatonous 2
 degener
-declaredness 1
+declaredness 2
 depredations 1
 dripping
 dinosauric 1
@@ -5211,7 +5211,7 @@ digladiate 2
 deprehensible 1
 denouncer 1
 dissymmetry
-densate
+densate 1
 diogenean 2
 deerstealer
 dicyemata
@@ -7050,7 +7050,7 @@ distillage 6
 disenthroning 1
 duramen
 destinezite 1
-driveable 2
+driveable 3
 diglottist 3
 dessous 1
 devall 1
@@ -7913,7 +7913,7 @@ disponer 1
 dexiotropous 2
 dewrot 2
 durban
-dramaticule 1
+dramaticule 2
 devilries 1
 distilery 2
 dowitch 1
@@ -9452,7 +9452,7 @@ digenetic 2
 digenetica
 digue 3
 diplanetism 2
-daydreamers 2
+daydreamers 3
 digeny
 deducibleness
 demiplate
@@ -10007,7 +10007,7 @@ dessertspoonfuls 1
 disobliger 1
 dimplement 1
 dorosoma 1
-daddocky
+daddocky 1
 derelictness 1
 dermatopnagic 1
 dummkopfs 2
@@ -11810,7 +11810,7 @@ diporpa
 discriminates 2
 disponee
 disgorger 1
-dawing 2
+dawing 3
 dactylopatagium 1
 deuteroprism 2
 decentralism 3
@@ -16338,7 +16338,7 @@ dumpiness 2
 downsized 2
 druggeries 3
 dochmiac 1
-duchess 1
+duchess 2
 discobolus 3
 dismasts 1
 dicoelous 2
