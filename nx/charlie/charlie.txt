@@ -1494,7 +1494,7 @@ calkins
 callainite
 croze
 counterservice
-cystidicolous 1
+cystidicolous 2
 callais
 callaloo 1
 caviares
@@ -3824,7 +3824,7 @@ carbohydride 2
 carbohydrogen
 carboy 3
 celestes
-carboys
+carboys 1
 cyathoid 2
 carbolate
 carbolated
@@ -5987,7 +5987,7 @@ catheterise
 clienteles 1
 coiffes 1
 catheterised
-crabgrass 1
+crabgrass 2
 catheterism 1
 catheterization 1
 cense
@@ -7342,7 +7342,7 @@ charpie
 cephalogram
 cephaloid 1
 culminates 1
-cuticles 2
+cuticles 3
 crepuscle 1
 cephalology 1
 cephalom
@@ -16142,7 +16142,7 @@ centiles
 climata 3
 celebesian 2
 climatal 1
-corticate 1
+corticate 2
 climatarchic
 climate 1
 climates
@@ -16280,7 +16280,7 @@ civilise 2
 citronize
 clint
 clinting
-catheters
+catheters 1
 committeemen 1
 categorist 1
 clintonia 1
@@ -19752,7 +19752,7 @@ classifiers
 contemplance 1
 cloudburst 2
 combiner 1
-clackers 1
+clackers 2
 combiners
 combines
 cappie 1
@@ -23330,7 +23330,7 @@ consumated 1
 consumating
 consumedly
 consumeless 1
-corkiness
+corkiness 1
 consumer
 consumerist 2
 consumes 1
@@ -27683,7 +27683,7 @@ cancellability 3
 cowhiding
 cabinetworking
 cowhorn
-chillers
+chillers 1
 camiscia 1
 confitent 1
 cowhouse

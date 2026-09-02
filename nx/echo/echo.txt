@@ -1466,7 +1466,7 @@ encompasses 2
 eurythermous 3
 electivism 3
 electroshocks 3
-exposal
+exposal 1
 embolium
 embarrased 4
 empathic 2
@@ -2565,7 +2565,7 @@ ecad 2
 econometric 1
 encyclopaedian 1
 electrodiagnoses 1
-entrenched
+entrenched 1
 ethylhydrocupreine 4
 euphausia 1
 entertainable 2
@@ -3779,7 +3779,7 @@ explored 1
 emceeing 1
 escalader
 enquirer 4
-emcumbering 1
+emcumbering 2
 electroneutral 3
 eclaircise
 epilogs
@@ -6327,7 +6327,7 @@ enseem 2
 exuberant 2
 enserfed 3
 ekamanganese 2
-enshade 4
+enshade 5
 enshawl 1
 espace 1
 extrabold 1
@@ -9514,7 +9514,7 @@ equirotal
 educationese 2
 ea 3
 earthworm 1
-enteradenology 3
+enteradenology 4
 emboldened 3
 englutting
 eserine
@@ -9617,7 +9617,7 @@ equipollence 1
 epacris 1
 elaeagnus 1
 esparsette
-emphases 2
+emphases 3
 encloud 1
 embost 1
 espartos 1
@@ -10652,7 +10652,7 @@ enchilada 2
 eudemonistic 1
 enfacement 3
 eudemonics
-endoappendicitis 2
+endoappendicitis 3
 equivalencies 2
 enwall 2
 epinephrine
@@ -10880,7 +10880,7 @@ enologist 1
 excised
 exanthematic
 enisle 3
-encalendar 1
+encalendar 2
 examinationism
 euphemisation
 enarme 1
@@ -11225,7 +11225,7 @@ epibolies 2
 evangeliaries 1
 eightscore 2
 endocycle 1
-exocrinology
+exocrinology 1
 enkindling 2
 enthronised 3
 elohism
@@ -12294,7 +12294,7 @@ efflorescency 3
 els 2
 elegises 1
 everduring 1
-exemplarism 3
+exemplarism 4
 epimerite
 exempli
 embodier 3
@@ -13609,7 +13609,7 @@ embowelling 1
 extumescence
 egeria 2
 emulation 2
-esoteric 2
+esoteric 3
 exsufflate 2
 epithymetical 1
 eremiteship 1
