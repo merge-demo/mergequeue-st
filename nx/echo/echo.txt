@@ -933,7 +933,7 @@ entada 2
 ecttypal 2
 equates 2
 emanatory 1
-ecuadorian 1
+ecuadorian 2
 ecumenacy 1
 engraffing 3
 electroforming 1
@@ -1546,7 +1546,7 @@ embrasures 2
 eggrolls 1
 eggs 1
 emplastra 2
-excerptive 3
+excerptive 4
 encyclopedial 2
 ethology 2
 eyeballed 3
@@ -1749,7 +1749,7 @@ eutony 4
 eyes 2
 encasing
 eyeseed 1
-entophytically 1
+entophytically 2
 eyeservant 4
 eyeshade 1
 enticingness 1
@@ -3696,7 +3696,7 @@ extratellurian 1
 eluates 1
 effluvium 2
 enantiotropic 2
-expunged 1
+expunged 2
 elucidators
 embryophore
 educations
@@ -4685,7 +4685,7 @@ emptiest
 encysts
 evenest 2
 edgrow 1
-eyepieces 1
+eyepieces 2
 euphrosyne 2
 enarthrosis 1
 effulgent 1
@@ -5859,7 +5859,7 @@ extravertively 3
 extrazodiacal 4
 exacerbescence 1
 encorbelment 1
-epidendral 1
+epidendral 2
 exsiccate 2
 engrossedly 3
 endocarditic 1
@@ -7652,7 +7652,7 @@ epidemically 1
 exalt 5
 escurialize 2
 evidentiary
-erythrine 1
+erythrine 2
 enfevered
 epidemiography 2
 elytroplastic 2
@@ -8390,7 +8390,7 @@ equip 1
 enjoyment 3
 eglogue
 endothecate 1
-ethicosocial
+ethicosocial 1
 ebullioscopy 3
 euomphalus 4
 effigial
@@ -8520,7 +8520,7 @@ eastlin 1
 etherify 4
 existing
 enviable
-epizoa 1
+epizoa 2
 entoglossal
 ethicism 1
 emblement 2
@@ -8841,7 +8841,7 @@ electrooptically 1
 erer 3
 erethisia 2
 excursively 3
-embossers 1
+embossers 2
 eelworms 3
 enteron 2
 erewhile 5
@@ -9604,7 +9604,7 @@ espada 1
 ethanethial 3
 esurine 1
 enlarging 2
-espadon 1
+espadon 2
 effervescible 5
 ewer
 endoblast 2
@@ -10185,7 +10185,7 @@ esteemer 1
 elisabeth 1
 ectoparasite 3
 erastianism 2
-etherifying
+etherifying 1
 etherism 1
 effortfully 2
 ectoentad 1
@@ -10218,7 +10218,7 @@ ethicopolitical
 emoter 2
 eczematization 1
 ethicoreligious
-erased 1
+erased 2
 elytriform 3
 etesian
 epanodos 1
@@ -12050,7 +12050,7 @@ excogitated 2
 emigrator 4
 eruptional 1
 excogitator 1
-extraembryonic 1
+extraembryonic 2
 enquere 1
 excommunication 3
 episcias 2
@@ -12337,7 +12337,7 @@ endotracheitis 3
 equimolecular
 erichtoid 2
 experiments 3
-encist
+encist 1
 enjambment 3
 eradicating
 emusive 3
@@ -14011,14 +14011,14 @@ encoignures
 embryo 1
 ecchymosis 1
 emboitement 2
-epitoniidae 3
+epitoniidae 4
 epitenon
 embargoist 1
 epicoracohumeral 1
 exaltate
 extralimital 2
 extrapolatory
-entemple 1
+entemple 2
 extraposition 1
 electrolytic 2
 extraprofessional
