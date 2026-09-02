@@ -6946,7 +6946,7 @@ airohydrogen 2
 accrual 1
 airspace 1
 antisepticized 2
-airspaces
+airspaces 1
 ancience 2
 alec 1
 airspeeds 1
@@ -8223,7 +8223,7 @@ antependium
 alhambraic 1
 alienating 1
 asteria 4
-apogeotropically
+apogeotropically 1
 alhenna 2
 alia
 atavist
@@ -9842,7 +9842,7 @@ arteriectomy 1
 aeroplane 3
 aposthia 2
 amanous 1
-antiauxin
+antiauxin 1
 amante 1
 allured
 agonized 1
@@ -21682,7 +21682,7 @@ aldolases
 amphicytula 1
 assausive 3
 arrhinia
-audiotape 2
+audiotape 3
 askar 2
 almandine 1
 antivenene 1
@@ -23489,7 +23489,7 @@ acopic
 archdruid
 argol 2
 annotine 1
-autoincrement 1
+autoincrement 2
 augmentedly 2
 architraves 1
 augmenters 4

@@ -1802,7 +1802,7 @@ dilemma 3
 debark
 detaining 3
 dropseed 2
-drawknife
+drawknife 1
 debarking 4
 digamist 2
 dishpanful 1
@@ -6586,7 +6586,7 @@ dirdum 3
 dephlegmated 3
 doubtsome 2
 desegregated
-desegregates 2
+desegregates 3
 destroyed 1
 dilettant 1
 daucus 2
@@ -8170,7 +8170,7 @@ deywoman 1
 dermalith
 disenorm 4
 dauby
-diaconica 1
+diaconica 2
 depotentiation
 dubiously 2
 dragooning 1
@@ -8976,7 +8976,7 @@ draughtsman 2
 dei 2
 discriminators 2
 diolefin 6
-disobeyers
+disobeyers 1
 dicyclies 1
 dovekies 4
 dentalized
@@ -12096,7 +12096,7 @@ dp 1
 deutoscolex
 deescalates 2
 dorbie
-doand 1
+doand 2
 dekagrams 2
 disparager 3
 delusion 1
@@ -14454,7 +14454,7 @@ divertibility 2
 donk 2
 diverticle 1
 daibutsu 1
-disguisedness 3
+disguisedness 4
 disruptment 2
 diverticulosis 3
 disheveled
@@ -17892,7 +17892,7 @@ dabb
 dunst 1
 dezincing 1
 dudism 1
-defilement 2
+defilement 3
 dudleya 3
 developmentalist 1
 diagnosis
