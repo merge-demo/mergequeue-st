@@ -1427,7 +1427,7 @@ benzotrichloride 2
 battable 2
 balefires 1
 bewreak 3
-barmbrack 3
+barmbrack 4
 baleys 1
 baleise 2
 bougainvillaea 1
@@ -1839,7 +1839,7 @@ buzzy 2
 brimming
 beaconed 2
 beglads 1
-blancmanger 6
+blancmanger 7
 bemuse
 botanizer 4
 bananaland
@@ -4217,7 +4217,7 @@ blockiness
 bell 1
 beringite
 bigot 2
-bowls 1
+bowls 2
 boudoir
 beaucoup 1
 beaued
@@ -5858,7 +5858,7 @@ biogenetical 1
 balopticon
 bellmaking 1
 baronship 1
-blebby 1
+blebby 2
 bellmanship
 briners 2
 braggingly 1
@@ -7211,7 +7211,7 @@ blades 1
 beveled 4
 buckjump 1
 bongrace
-bauta 1
+bauta 2
 bute 2
 bituminised 1
 balearic
@@ -13450,7 +13450,7 @@ booting 1
 buncombes 3
 bibliotheca 1
 breadbaskets
-bandaka 3
+bandaka 4
 botticelli 1
 backtracker 2
 bottlebrush 2
@@ -14897,7 +14897,7 @@ betrample 2
 bechalking
 berms
 beefs 3
-bingies 1
+bingies 2
 bloodthirstier 1
 breadwinning
 breakability 1
