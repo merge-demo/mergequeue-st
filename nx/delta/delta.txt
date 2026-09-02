@@ -6093,7 +6093,7 @@ durgen 1
 dissolvable 2
 deckedout
 digestible 1
-derated
+derated 1
 diphtheroid 3
 derater
 dijudicant 1
