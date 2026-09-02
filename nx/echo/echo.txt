@@ -8390,7 +8390,7 @@ equip 1
 enjoyment 3
 eglogue
 endothecate 1
-ethicosocial
+ethicosocial 1
 ebullioscopy 3
 euomphalus 4
 effigial
@@ -12050,7 +12050,7 @@ excogitated 2
 emigrator 4
 eruptional 1
 excogitator 1
-extraembryonic 1
+extraembryonic 2
 enquere 1
 excommunication 3
 episcias 2
@@ -12337,7 +12337,7 @@ endotracheitis 3
 equimolecular
 erichtoid 2
 experiments 3
-encist
+encist 1
 enjambment 3
 eradicating
 emusive 3
