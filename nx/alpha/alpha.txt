@@ -3251,7 +3251,7 @@ annamese
 alphabeted 3
 attributer 1
 actuality 1
-actualization
+actualization 1
 actualness
 allochromatic 1
 axopetal
@@ -5713,7 +5713,7 @@ agalactic 1
 agla 2
 appoggiaturas 1
 agalaxia 1
-anisomelus 1
+anisomelus 2
 agalena
 agalenidae 1
 ambalam
@@ -10046,7 +10046,7 @@ apectomy 3
 antimythical
 ambients
 ambigenal
-abounded
+abounded 1
 arboreal 2
 appel
 arousing 1
@@ -10924,7 +10924,7 @@ ammonolitic 1
 assemblage
 archeological
 alumine 2
-ammonolytic 1
+ammonolytic 2
 aitches 1
 anticult
 allonymously
@@ -11243,7 +11243,7 @@ apocryphal
 achillobursitis
 aspiquee 3
 astrobiologists
-amphicoelous
+amphicoelous 1
 anarchistic 2
 allodial 1
 apr
@@ -13152,7 +13152,7 @@ apotelesmatical 1
 abiders
 anim
 agistor
-anthrapurpurin 1
+anthrapurpurin 2
 archaeopteris 1
 antiromance 1
 animacule
@@ -21888,7 +21888,7 @@ assistful 1
 acalycine 1
 argillite
 assith 3
-archings
+archings 1
 archons 1
 assyth
 actinomycetous
@@ -24232,7 +24232,7 @@ allowing
 automatin 1
 antepatriarchal
 antronasal 3
-automatizes 2
+automatizes 3
 acrogens 1
 albany 1
 automatizing 4
