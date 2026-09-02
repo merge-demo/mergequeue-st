@@ -532,7 +532,7 @@ fussier
 fibrobronchitis 1
 forewarn 4
 fluvial 1
-filicites 3
+filicites 4
 frowner 3
 froggy 4
 fatstock 4
@@ -1008,7 +1008,7 @@ fireling 2
 flerrying 3
 farmerly 1
 forrel
-fletcherize 4
+fletcherize 5
 folates 3
 farmership 2
 flypaper
@@ -2846,7 +2846,7 @@ flamy 3
 flowerets 1
 feticide 1
 front
-flossie
+flossie 1
 fatter
 freeways 3
 fizzy 3
@@ -5956,7 +5956,7 @@ forthinking 1
 furzes 1
 fearlessly 2
 favonius 2
-frenchification 3
+frenchification 4
 frailly 4
 fivepins 2
 futileness
@@ -7936,7 +7936,7 @@ foreseer 3
 foresees 1
 fonder
 foreseize 1
-flatteries 1
+flatteries 2
 fike
 fusilades
 firy 2
@@ -8458,7 +8458,7 @@ folksy 3
 formalesque 2
 feudalizable 3
 foistiness
-flatfootedly 4
+flatfootedly 5
 freshmanic 4
 formulize 2
 fierier 1
@@ -10206,7 +10206,7 @@ forebears 3
 flaxwoman 3
 fluttered 1
 fimbria 3
-falcer
+falcer 1
 friulian 2
 fibroadenia 2
 frizzy 1
