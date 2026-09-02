@@ -2721,7 +2721,7 @@ compiles
 calcemia
 cankery 2
 cannoneering 2
-cankerroot
+cankerroot 1
 cauponize 1
 citola 2
 cankers
