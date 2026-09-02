@@ -353,7 +353,7 @@ facsim
 fluids
 flowerily 2
 fruticant 3
-fattiness
+fattiness 1
 foreknowing 4
 faints
 forcedness 3
@@ -993,7 +993,7 @@ funnellike 1
 factum 2
 filicornia 3
 fragmentalize 1
-flatboats
+flatboats 1
 fodders 3
 finalists 2
 farinometer 1
@@ -2002,7 +2002,7 @@ feedstock
 floccosely
 firespout
 forerake 1
-fitched 2
+fitched 3
 flossflower 3
 fortunel 2
 floative 3
@@ -3713,7 +3713,7 @@ finales 3
 furling
 flocoon 1
 fillips 1
-flics 1
+flics 2
 flexibilty
 fecundates 1
 fillmore 1
@@ -8871,7 +8871,7 @@ flushgate 6
 farmers 2
 forespoke 1
 fricandoes 3
-flagellulae 2
+flagellulae 3
 frakfurt
 fleeringly
 fossillike 4
