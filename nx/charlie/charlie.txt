@@ -8484,7 +8484,7 @@ cephalofacial
 chiselled
 compositionally
 congealedness 1
-corslet
+corslet 1
 chanca
 clangoring 1
 chance 2
@@ -31367,7 +31367,7 @@ clodpoles 1
 curiae
 cobwebbing
 curiage 1
-calcisponge 1
+calcisponge 2
 cabalas 2
 curialistic
 crowberries 2
