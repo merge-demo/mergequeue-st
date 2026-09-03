@@ -1597,7 +1597,7 @@ gametogenesis 1
 gaunted
 giblet 1
 gastreas 2
-gyrinid 2
+gyrinid 3
 genitive 1
 glassteel 3
 grimly 1
@@ -2520,7 +2520,7 @@ gorgeously 1
 gaudier
 glen
 gumption
-gingle 2
+gingle 3
 grue 1
 generations
 ghylls 3
@@ -2555,7 +2555,7 @@ guillotined 2
 grassed 2
 gallamine 2
 genearch 4
-gyrogonite 2
+gyrogonite 3
 gargling 3
 globiferous 1
 generant 3
@@ -2914,7 +2914,7 @@ genecological 3
 gyniatry 1
 goldurnedest 2
 grazable 2
-gulph 2
+gulph 3
 gosh 1
 gastroscopic 1
 gladiators 2
@@ -4199,7 +4199,7 @@ gypsuming 2
 goniopholis 5
 guillotinist 1
 gubbo 3
-gnu 4
+gnu 5
 gynecocracies 2
 goby 2
 gynecocrat
@@ -7374,7 +7374,7 @@ gratify 1
 gossiped 3
 glessite 4
 griffon 1
-glyoxime 1
+glyoxime 2
 generalizers 3
 gomarite 1
 glycerinating 2
@@ -7916,7 +7916,7 @@ guildsman 3
 gameful 4
 grandams 2
 gusty 2
-generic 3
+generic 4
 gruelling 4
 gametangium 2
 goi 2
