@@ -984,7 +984,7 @@ fluoborid
 forehook 1
 foglietto 2
 fascicles 2
-flexuose 1
+flexuose 2
 flatlong 1
 fren 1
 fumosity 1
@@ -3893,7 +3893,7 @@ farming
 footslogged 2
 febriferous 3
 fluidextract 1
-findable
+findable 1
 fruz 3
 familiarize
 function 1
@@ -3999,7 +3999,7 @@ foramina 2
 fishery 3
 fixups 3
 forleft 2
-fingersmith 4
+fingersmith 5
 ferison 1
 flushy 2
 furrow 1
@@ -5923,7 +5923,7 @@ flogs 1
 fermis
 floyd 3
 foeticidal 1
-fluviovolcanic 2
+fluviovolcanic 3
 flybane 5
 foveola 2
 freyr 2
@@ -8478,7 +8478,7 @@ formalist 1
 foreboded
 forpine 3
 freethink 1
-fictitiously 3
+fictitiously 4
 felonsetter 3
 febronian 4
 fique 2
