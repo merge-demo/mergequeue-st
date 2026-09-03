@@ -4015,7 +4015,7 @@ correctify
 carcinemia
 carcinogenesis
 carcinoid 1
-compartmental
+compartmental 1
 crystalloluminescence
 carcinolysin
 cycadiform
@@ -14119,7 +14119,7 @@ clochan
 cardioneural 3
 capsulize 1
 circulant 1
-countersigning
+countersigning 1
 circular
 colistins
 chuffing 1
