@@ -7043,7 +7043,7 @@ edicule 1
 equiprobability 2
 electrophoric 1
 earnest
-enchainments
+enchainments 1
 epiplankton 1
 evadible 5
 extemporizing 1
@@ -8270,7 +8270,7 @@ egyptians 2
 estragole 4
 eskimoic 1
 embroiler 1
-earthy
+earthy 1
 evg 5
 excursional 2
 episthotonos
@@ -10718,7 +10718,7 @@ evenworthy 1
 edited 2
 ecossaise 1
 etiquet 3
-excusable 1
+excusable 2
 eugonic 2
 eggheaded 2
 epithecicia 2
