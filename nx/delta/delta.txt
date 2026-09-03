@@ -3551,7 +3551,7 @@ disenchanter 1
 defunctionalize 1
 defusion 2
 deformalize 5
-dingles
+dingles 1
 dermatotome 2
 drawbeam 1
 dissheathe
