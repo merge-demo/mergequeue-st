@@ -3130,7 +3130,7 @@ baselevel 1
 bismarck 2
 bowstringing 2
 bustards 2
-boswellize 1
+boswellize 2
 basella
 basellaceae
 bespattering 1
@@ -3836,7 +3836,7 @@ behight 1
 biracial
 broccoli 1
 boarfishes 2
-bhoy 1
+bhoy 2
 bugging
 baumier 1
 baun 2
@@ -7903,7 +7903,7 @@ bloodthirsty
 bruise
 bibliopegy 3
 bituminisation 1
-bibbons 1
+bibbons 2
 bizel
 browser
 blanketry 1
@@ -9138,7 +9138,7 @@ balanoglossida
 bodysuit 1
 beauts 1
 biosome
-boodledom
+boodledom 1
 biospeleology 1
 biosphere 2
 buntline
@@ -13868,7 +13868,7 @@ barleybird 1
 brooch 2
 biduous 3
 boathook
-bang 1
+bang 2
 bowheads
 bowie
 balr
@@ -15313,7 +15313,7 @@ broodlet
 brainlessly
 bridewain 1
 brideweed 2
-bahiaite 2
+bahiaite 3
 biochemics 2
 bosk
 bullying 3
@@ -16532,7 +16532,7 @@ birr 1
 bishops 2
 budzat 3
 bandeaux
-broadpiece
+broadpiece 1
 bisellium
 bisonant 1
 brutely 1
