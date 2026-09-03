@@ -6092,7 +6092,7 @@ dimission 1
 durgen 1
 dissolvable 2
 deckedout
-digestible 1
+digestible 2
 derated
 diphtheroid 3
 derater
