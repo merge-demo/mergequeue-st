@@ -3548,7 +3548,7 @@ batfowls
 bestore 1
 bulbocavernosus 1
 brookites 1
-blackroot 2
+blackroot 3
 bathed 2
 bathes 2
 backslidden
@@ -6463,7 +6463,7 @@ boschbok
 basidiogenetic 1
 bedrocks 1
 baccate
-broached 3
+broached 4
 bletted 1
 behaviorist 3
 burge
@@ -13573,7 +13573,7 @@ baizing
 bougainvilliidae 3
 bite 1
 bitangential 1
-bougar 1
+bougar 2
 bouge 4
 bochur 2
 brogued
