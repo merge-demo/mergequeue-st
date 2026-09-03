@@ -872,7 +872,7 @@ cairngorum 3
 cairny 1
 caisse 1
 caissons 1
-caite
+caite 1
 colligance 1
 caitif 1
 charque 1
@@ -3810,7 +3810,7 @@ carbodynamite
 carbohemoglobin 1
 calamodendron 1
 cribbling 1
-carbohydrase 1
+carbohydrase 2
 cannibalism 4
 cardioncus
 carbohydrate
@@ -10374,7 +10374,7 @@ chieftain 2
 chieftaincy 3
 chieftainry 1
 complexify
-chalcosiderite 1
+chalcosiderite 2
 chieftainries 2
 concludendi 1
 commorancies 1
@@ -11232,7 +11232,7 @@ coemperor
 chlorhydric
 chloriamb 1
 chloriambus
-chlorid
+chlorid 1
 chicanos 3
 cardol
 conturb
@@ -11904,7 +11904,7 @@ chorditis 2
 circumferentor
 cecidomyian
 coverside 1
-cationically 2
+cationically 3
 caponiser
 chromophotolithograph
 chordomesoderm
@@ -14013,7 +14013,7 @@ celtium 2
 cipo 1
 conservatist
 catstitch
-cippus
+cippus 1
 confirmative 1
 cilioflagellata
 chitra 1
@@ -25466,7 +25466,7 @@ cornrow 1
 cosmotheist
 cornstalks 3
 cebian
-cornstarch 1
+cornstarch 2
 cornstone
 cajang 2
 czars
@@ -27168,7 +27168,7 @@ clientless
 cellulate 1
 countersuit 2
 cubehead
-countersun 1
+countersun 2
 countersunken 1
 calfdozer
 cava
