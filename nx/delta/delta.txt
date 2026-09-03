@@ -1913,7 +1913,7 @@ debride 1
 distinguishment
 dallas 1
 deodorant 1
-debriefing
+debriefing 1
 dowser 1
 danzig 2
 didus
@@ -3645,7 +3645,7 @@ deprogrammer 1
 depreciators 2
 dunt 1
 deglutition 2
-deglutitious 2
+deglutitious 3
 degold
 decathlon
 disinhibition 2
@@ -3942,7 +3942,7 @@ decontaminates 1
 dunstone 1
 deepwaterman 1
 dustman 2
-decontaminator 1
+decontaminator 2
 disquixote 2
 delatinize 1
 delation 1
@@ -4138,7 +4138,7 @@ desynapsis 2
 drearfully 2
 distinct 1
 deserter 1
-dyspneic 1
+dyspneic 2
 deceptibility 1
 depopulations 3
 decylenic
@@ -12777,7 +12777,7 @@ decompressive
 dunk 1
 debouch 1
 dissensions
-diathesic 3
+diathesic 4
 duplicatus 2
 dysluite 1
 delicto
@@ -13491,7 +13491,7 @@ disquietedness 1
 demoid 1
 dippable 2
 diatomite 1
-dreamtide 1
+dreamtide 2
 disruptive 3
 disruptor 1
 dada 1
@@ -16489,7 +16489,7 @@ dishonourable 1
 debag
 dasyprocta 3
 domesticities
-dazed
+dazed 1
 datiscin 1
 dracone 3
 decelerator 2
