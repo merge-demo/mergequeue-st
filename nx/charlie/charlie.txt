@@ -4015,7 +4015,7 @@ correctify
 carcinemia
 carcinogenesis
 carcinoid 1
-compartmental
+compartmental 1
 crystalloluminescence
 carcinolysin
 cycadiform
