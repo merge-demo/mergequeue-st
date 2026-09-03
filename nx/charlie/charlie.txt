@@ -5925,7 +5925,7 @@ catfalls
 catfight
 creeled 1
 catfish
-catfoot
+catfoot 1
 catfooted
 chhatri
 catgut 1
@@ -6350,7 +6350,7 @@ causerie
 causers
 causes 2
 cgm 1
-crimison
+crimison 1
 causeuses 1
 cannellated
 causewaying
@@ -12266,7 +12266,7 @@ cinel 1
 chrissie
 cecotomy
 christadelphian 1
-chumulu
+chumulu 1
 cabrito
 chirimoyer
 carrytale 1
@@ -12742,7 +12742,7 @@ candidas 2
 characteries 1
 canonisation 3
 chauvinists 1
-clotter 1
+clotter 2
 cholecystoileostomy
 canalage
 coabound
@@ -16847,7 +16847,7 @@ clubfooted 1
 clubhand
 crouching 3
 clubhands 1
-cerebralgia 1
+cerebralgia 2
 clubhaul
 correctant
 cupflower
@@ -18056,7 +18056,7 @@ cardiolysis
 coendidae 1
 congiaries 1
 coendure
-coendures
+coendures 1
 coenenchym
 casualness
 cephalosporin 1
@@ -19825,7 +19825,7 @@ comedo 1
 catacumbal
 cassareep
 cameloid 2
-comely 1
+comely 2
 cogence 3
 coursings
 comelier 1
@@ -22128,7 +22128,7 @@ chironomic 2
 cromerian
 catholicizer 2
 contrivance
-caickle
+caickle 1
 confounder 1
 copping 1
 carbanilic 1
@@ -24456,7 +24456,7 @@ cooperatives
 coopered
 cooperia 1
 cumene
-cooperies 5
+cooperies 6
 coopering
 carved 1
 checksummed 2
@@ -26917,7 +26917,7 @@ cystopyelonephritis
 cartonniers
 counterjudging
 credentialism 2
-counterjumper 1
+counterjumper 2
 crosne
 contraflexure 1
 colliquativeness 1
@@ -31418,7 +31418,7 @@ centranthus
 curledness
 chondrules
 curler
-canoed
+canoed 1
 curlews 2
 curlicue 3
 choriambize 2
