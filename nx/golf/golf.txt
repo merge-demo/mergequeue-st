@@ -286,7 +286,7 @@ glossophora 1
 gaintwist 3
 globeholder 3
 grypanian 3
-giglot 1
+giglot 2
 geobotany 4
 ganjas 1
 greekdom 1
@@ -795,7 +795,7 @@ gandergoose 1
 girllikeness 3
 grinnellia 4
 gamashes 1
-goombay
+goombay 1
 gastrospasm 2
 grouts 1
 glycosidase 3
@@ -2463,7 +2463,7 @@ girdlelike 2
 grossart 2
 gaucher 2
 golds 2
-gonna 2
+gonna 3
 gradienter
 gotch 3
 glunches 2
@@ -5257,7 +5257,7 @@ glycerite 3
 galgal 2
 gymnadeniopsis
 grouping 3
-gospodar 2
+gospodar 3
 glyceroxide 4
 glycide 1
 gladiest 3
@@ -7034,7 +7034,7 @@ gaudish 1
 gimbaled 1
 gramash 1
 greenweed 4
-gismondine 2
+gismondine 3
 glacially 1
 galilees 3
 genteelism 2
@@ -7146,7 +7146,7 @@ gores 1
 goldenness 1
 guango 2
 gingerbready
-giggler 2
+giggler 3
 grimacing 5
 gambias
 gastrotaxis 3
@@ -8755,7 +8755,7 @@ greenery 4
 glamor 3
 globin
 geraniaceous 1
-gismo 4
+gismo 5
 groundenell 4
 grubby 5
 gambit
