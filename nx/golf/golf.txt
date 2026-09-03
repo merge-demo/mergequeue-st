@@ -2214,7 +2214,7 @@ gastrotome 1
 grifts 4
 gefulltefish
 galax 4
-gonidiogenous 3
+gonidiogenous 4
 gehlenite 1
 goblet 1
 gratuity 1
@@ -5991,7 +5991,7 @@ generalship 1
 goldbricker 2
 glenoid 3
 gurt
-gosport 3
+gosport 4
 gibetting 4
 gymnastic
 grin 2
@@ -10332,7 +10332,7 @@ gallanting 2
 gules 3
 gonoph 2
 gemmary 2
-glebal
+glebal 1
 guarana 1
 gaums 2
 gulfweeds 1
