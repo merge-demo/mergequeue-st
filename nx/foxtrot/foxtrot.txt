@@ -985,7 +985,7 @@ forehook 1
 foglietto 2
 fascicles 2
 flexuose 2
-flatlong 1
+flatlong 2
 fren 1
 fumosity 1
 fretful
@@ -1361,7 +1361,7 @@ furmenties 4
 frivolling 2
 fiche 1
 fornicates 1
-formose 4
+formose 5
 fortuneteller 1
 foreshower 2
 fibrocaseose 1
@@ -2013,7 +2013,7 @@ fedora 1
 fide 1
 forgiving 3
 feere 1
-flipper
+flipper 1
 fautor 1
 fours 2
 feeze 2
@@ -2335,7 +2335,7 @@ fenzelia 1
 firestopping 1
 foreimagine 3
 fconvert 2
-feoffer 2
+feoffer 3
 fiberous 2
 feoffs 1
 fasciole 1
@@ -2588,7 +2588,7 @@ ferrocyanate 1
 formicid
 ferroelectric 3
 fribblery 1
-fattier 3
+fattier 4
 ferrogoslarite 6
 forcet 3
 franked 1
@@ -2685,7 +2685,7 @@ ferular 2
 foreimpression 1
 fireshaft 3
 feruled 3
-ferulic 1
+ferulic 2
 fitzclarence 2
 forced 3
 fissipedate 1
@@ -6252,14 +6252,14 @@ fecit 3
 flamefish 1
 fluoarsenate 3
 fissuring
-ferromagnet 5
+ferromagnet 6
 fedoras 3
 fustigation 4
 fearing 2
 febronianism 2
 fanteague 3
 flota 1
-fadingly 3
+fadingly 4
 fouettee 2
 fluxer 3
 formamidoxime 1
@@ -6588,7 +6588,7 @@ foamflower
 firework 2
 floriculturally
 fullness 2
-fettled 1
+fettled 2
 fidgetation 1
 fertilized 3
 freemanship 3
@@ -7222,7 +7222,7 @@ formicivorous 1
 forfeits 1
 frizzlers 1
 faenas 2
-footpaces 2
+footpaces 3
 fifer
 foolocracy 1
 factionaries 2
@@ -7260,7 +7260,7 @@ footslogger 3
 financiery 4
 fatstocks 2
 foregoing 2
-fissuration 1
+fissuration 2
 fledglings 1
 fetisheer 2
 foeffment 1
@@ -8398,7 +8398,7 @@ feigningly 3
 flaff
 fulminates 3
 forkier
-forcy
+forcy 1
 familiars 2
 foveolated 2
 fireboard 1
@@ -10531,7 +10531,7 @@ floe
 freshment 4
 frillery 3
 favouringly 1
-frot 1
+frot 2
 froth 2
 formulatory
 fanman
@@ -11107,7 +11107,7 @@ factfinder 1
 flagellated 2
 flockless 3
 fangled 2
-functors 4
+functors 5
 formational 1
 foulard 1
 functus 2
