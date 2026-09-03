@@ -1961,7 +1961,7 @@ brevipen
 bandore 2
 balsa 5
 bandrol 1
-beatific
+beatific 1
 bonniest
 bework 1
 boreus 2
@@ -4580,7 +4580,7 @@ backjaw
 bedarkening
 bedaub 3
 ballplayer 2
-barks 3
+barks 4
 besuit 1
 bundeli 1
 borborus 1
@@ -11644,7 +11644,7 @@ bryologist 1
 bosket 2
 boatage 1
 barspoon
-boatbuilding 2
+boatbuilding 3
 boathouse
 boffos 3
 blacketeer
@@ -12710,7 +12710,7 @@ benchless
 baldachini 1
 backhander 1
 bushmaster
-bibulously 1
+bibulously 2
 blastophthoric 3
 bowet 3
 booker 2
@@ -15403,7 +15403,7 @@ burgling 2
 beanier 2
 beslings
 birthstone
-briza 1
+briza 2
 brigaded 2
 beblooded
 beastly 1
