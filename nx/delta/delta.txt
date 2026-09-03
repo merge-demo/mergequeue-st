@@ -1294,7 +1294,7 @@ disband
 demigardebras
 dissyllabize 3
 dardanarius
-derate 1
+derate 2
 disturbed 2
 daturism 3
 delusive 2
@@ -5312,7 +5312,7 @@ deadheadism
 dentelure 1
 duftry 3
 dealable
-derider
+derider 1
 dorsimesal 3
 disblame
 daraf 2
@@ -16858,7 +16858,7 @@ dissociable 1
 disring 1
 dendrodus
 diaphanoscopy 2
-deprecatingly 1
+deprecatingly 2
 drumbeat
 darbukka 3
 drawliest 1
