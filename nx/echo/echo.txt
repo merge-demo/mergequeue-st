@@ -1372,7 +1372,7 @@ expirator 3
 ethnocentrically
 electrifier 2
 epiderma
-eurasiatic 4
+eurasiatic 5
 exhalent
 exospheric 2
 ennead 1
@@ -1429,7 +1429,7 @@ effluviviums 1
 efflux 2
 ecphorable 1
 expressionlessly 1
-erythroclastic 1
+erythroclastic 2
 emblazons 1
 ejectivity 2
 entoparasite 5
@@ -2448,7 +2448,7 @@ engladden 2
 elean 3
 emerges
 eches 1
-equivalence 2
+equivalence 3
 electrogenic 1
 electrogild 1
 eudemonia 3
@@ -3803,7 +3803,7 @@ emparl 2
 extolled
 engrain 1
 expletory 3
-emended 2
+emended 3
 ecu
 emending 2
 escribano 1
@@ -3975,7 +3975,7 @@ emparchment 2
 exaltative 2
 enruin 4
 electroplates 4
-expiations
+expiations 1
 embarrassingly 2
 edictum 1
 enfolded 4
@@ -9956,7 +9956,7 @@ embosk 3
 embarrassment
 electronography 2
 entonement
-entreatment
+entreatment 1
 emaciated 1
 esurient 3
 electroform 4
