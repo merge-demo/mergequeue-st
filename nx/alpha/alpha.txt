@@ -1036,7 +1036,7 @@ abtruse 1
 aquitanian
 affluxes
 abstractive
-attagen
+attagen 1
 athenianly
 amyatonic
 antimethodic
@@ -1132,7 +1132,7 @@ anythingarianism
 alablaster 1
 asymptotic
 abutilon 1
-apomorphine 1
+apomorphine 2
 abutment
 articulant
 accusal
@@ -2345,7 +2345,7 @@ avoidably
 abruptedly 2
 arachnephobia 1
 avgasses 1
-almagest 2
+almagest 3
 allogamous 1
 ateleiosis 2
 axminster
@@ -2814,7 +2814,7 @@ autolytic
 acrobryous 1
 alarms
 airglow 3
-apotropaion 1
+apotropaion 2
 autopista
 acrocephalic 1
 accompanable 1
@@ -4343,7 +4343,7 @@ albuminosis
 adrenocorticotropic 2
 anthracolithic 1
 astructive 1
-adstipulate
+adstipulate 1
 antrophore 1
 adrenotropic 1
 anatosaurus
@@ -4517,7 +4517,7 @@ asyllabical 1
 allothogenous 3
 advantageously 3
 assignat 1
-antipruritic
+antipruritic 1
 annonaceae
 aduncate
 azolla 3
@@ -6556,7 +6556,7 @@ ahuaca 4
 acridane
 acanthon 2
 aeronomics
-ahull 1
+ahull 2
 ascomata 1
 anacrustic
 airward 1
@@ -7171,7 +7171,7 @@ anisotropies
 autotoxis 1
 andromonoecious
 agrobiology 1
-abacisci 1
+abacisci 2
 abnormal 2
 amusements
 abarthrosis 3
@@ -8087,7 +8087,7 @@ autonavigator 1
 antidotical 2
 archcity 2
 aefaldness 1
-authentical 3
+authentical 4
 assailable
 appropriators
 aeciotelium 2
@@ -8395,7 +8395,7 @@ abbie 1
 afforestment
 abey
 anthophagous 2
-alipterion 1
+alipterion 2
 amoebidae 3
 alypum
 amarelle 2
@@ -9858,7 +9858,7 @@ armillate 1
 aestuous
 amarantaceous
 antigraph 1
-aloes
+aloes 1
 amaranth
 anchylosing
 amaranthaceae 1
@@ -10079,7 +10079,7 @@ asquirm
 ambivalence 2
 aiger 1
 ambiversion 2
-ambivert
+ambivert 1
 arrect 2
 amble 1
 apanteles 2
@@ -11514,7 +11514,7 @@ amulas 1
 archexorcist 2
 acone 3
 armaments 1
-aloemodin 4
+aloemodin 5
 afterturn 1
 accoutring 1
 avengeress 1
@@ -11961,7 +11961,7 @@ anammonide 1
 achterveld
 anantherous 1
 ananthous 1
-aftersend 1
+aftersend 2
 aupaka 1
 anchylosis 1
 ancientness 4
@@ -15947,7 +15947,7 @@ asking
 acciaccatura 2
 agalwood 1
 antipsalmist 1
-antimetropia
+antimetropia 1
 acidimeter 1
 armill
 accidia
@@ -19202,7 +19202,7 @@ assoiling 1
 ardellae 1
 ardency 1
 abenteric
-astute 1
+astute 2
 ascogonium 1
 acraeinae 2
 anisopetalous 1
@@ -22723,7 +22723,7 @@ arthrology 1
 antioptimistically 4
 archy 1
 agribusinesses
-athletical 2
+athletical 3
 arizonite 1
 athleticism
 averruncation
