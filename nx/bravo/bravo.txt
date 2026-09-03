@@ -3122,7 +3122,7 @@ becher 2
 birdlime 3
 baggage
 baseburner
-basecourt
+basecourt 1
 betokener 2
 boosting 1
 boneset 2
@@ -14659,7 +14659,7 @@ bararesque 3
 branular 2
 babyishly 3
 butine
-basiparaplastin 2
+basiparaplastin 3
 brachiopodous 1
 bunty 2
 buffware 1
