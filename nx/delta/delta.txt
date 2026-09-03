@@ -3645,7 +3645,7 @@ deprogrammer 1
 depreciators 2
 dunt 1
 deglutition 2
-deglutitious 2
+deglutitious 3
 degold
 decathlon
 disinhibition 2
@@ -16489,7 +16489,7 @@ dishonourable 1
 debag
 dasyprocta 3
 domesticities
-dazed
+dazed 1
 datiscin 1
 dracone 3
 decelerator 2
