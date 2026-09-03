@@ -1872,7 +1872,7 @@ boyology 1
 bancus
 backstabber
 bandelette 2
-banderma 2
+banderma 3
 banderol 3
 befrets
 banderole 3
@@ -2796,7 +2796,7 @@ bowlers 1
 beflowering 1
 baronries 2
 briggs 1
-baroque
+baroque 1
 baconer 1
 bowsprits 1
 bureaus
@@ -2940,7 +2940,7 @@ bited 1
 broad
 barrelled 1
 billfish 1
-barrelmaker 2
+barrelmaker 3
 belemnoidea 1
 blissfully 1
 bamboozlement
@@ -5196,7 +5196,7 @@ basihyoid 1
 blastodisk 1
 bypasser 1
 beauteously 1
-borborygm 4
+borborygm 5
 bachelry
 beleed 4
 behoove 4
@@ -7881,7 +7881,7 @@ bourignian 2
 billyo 1
 backstitched 1
 banksmen
-bistipuled 2
+bistipuled 3
 bullation 1
 beauclerc 2
 brains 1
@@ -8768,7 +8768,7 @@ bungo 1
 beezer
 binaphthyl 1
 binaries
-betuckered 1
+betuckered 2
 bulginess
 barblet 2
 berghaan 1
@@ -9033,7 +9033,7 @@ biometries 3
 bion 2
 byon 1
 brasqued 2
-bionditional 2
+bionditional 3
 bionics 2
 brachyprosopic
 bionomic 1
@@ -9961,7 +9961,7 @@ bituminoid 1
 bdellouridae 2
 belsire
 bipropellant
-bikes 2
+bikes 3
 bituminosis 1
 biologically 1
 bennettitaceae 1
@@ -16922,7 +16922,7 @@ bowse 2
 bereaver 2
 buggers
 buggy
-bakshi
+bakshi 1
 bluestockingish 1
 buggier
 bushboy 2
