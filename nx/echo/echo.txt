@@ -1247,7 +1247,7 @@ encrinite
 emperors 2
 enrobe 1
 ecclesiarch 2
-equalness 1
+equalness 2
 eclated 2
 expands 3
 epideictical 3
@@ -4687,7 +4687,7 @@ evenest 2
 edgrow 1
 eyepieces 2
 euphrosyne 2
-enarthrosis 1
+enarthrosis 2
 effulgent 1
 enclasps
 ericaceae 3
@@ -7036,7 +7036,7 @@ ectropionization 2
 ectocinereal 4
 epapophysial 1
 evejar 4
-estivage
+estivage 1
 emulsible 2
 estuous 4
 edicule 1
@@ -7403,7 +7403,7 @@ ellerian
 ephemerid
 ewe 2
 ephemeridae 3
-ephemeroptera 6
+ephemeroptera 7
 eigne 1
 extrafocal 3
 equianchorate
@@ -8592,7 +8592,7 @@ espavel 4
 equielliptical 1
 equigranular 8
 equilateral 2
-eriogonum 2
+eriogonum 3
 equilibrant
 extractively 1
 enframe 2
@@ -9495,7 +9495,7 @@ eruptives 2
 eternalness
 escrow 1
 escrowing 2
-esculents 1
+esculents 2
 ethnog
 esculin
 expatiate 2
