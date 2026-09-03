@@ -721,7 +721,7 @@ baddies 5
 boral
 bade
 badness
-buckbrush
+buckbrush 1
 baff 2
 blueish
 baboen 2
@@ -10936,7 +10936,7 @@ biloquist
 biclinia 2
 barth
 bourrees 3
-blinkard 4
+blinkard 5
 blesbuck 2
 bedlamism
 blinkards 1
@@ -15602,7 +15602,7 @@ bewilder
 bouget 1
 biliprasin 2
 bromlite 3
-bird 2
+bird 3
 bloodwort
 benthon
 bescent
@@ -18005,7 +18005,7 @@ battutas 1
 bordman 3
 biking 1
 bankruptcies 4
-benevolence 1
+benevolence 2
 bacteriophobia
 blastemas
 baryphonic 2
