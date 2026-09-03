@@ -496,7 +496,7 @@ fertilizing 5
 frenne 3
 filicite 2
 faking 5
-fumify 3
+fumify 4
 fassaite
 feodum 4
 fishbone 1
@@ -7922,7 +7922,7 @@ fasten 3
 fork 1
 floes 1
 fetticus 2
-forewarned 3
+forewarned 4
 feiseanna 3
 featherworker 2
 foresee 2
@@ -10674,7 +10674,7 @@ fruitbearing 4
 foremark 3
 frailties 1
 fusc 3
-frankness 2
+frankness 3
 fruitfuller
 filtrability 1
 facultate 2
