@@ -496,7 +496,7 @@ fertilizing 5
 frenne 3
 filicite 2
 faking 5
-fumify 3
+fumify 4
 fassaite
 feodum 4
 fishbone 1
@@ -4541,7 +4541,7 @@ foreglance 1
 fisheress
 fairyfolk 3
 filibranchia 2
-fishgigs 6
+fishgigs 7
 fatiguing
 fealties 8
 flagellation 3
@@ -6685,7 +6685,7 @@ fortnightly 2
 frippery 2
 fairways 1
 fraileros 1
-fogdom
+fogdom 1
 fogfruit 1
 fiddlededee
 fibrins 2
@@ -7582,7 +7582,7 @@ forecourts 2
 freeholding
 faille 3
 fifers 2
-felsite 3
+felsite 4
 fanal 2
 flung 1
 felicitous 1
@@ -7667,7 +7667,7 @@ flashlike 2
 foregift 2
 feyness 3
 foregleam
-forst 1
+forst 2
 feudatory 7
 factualness
 fables 2
@@ -7798,7 +7798,7 @@ fluorescein 2
 ferrotyped 2
 frostbite 2
 fuzzines 2
-flocculently 5
+flocculently 6
 fatelike 5
 footrail 2
 fleshier 3
@@ -7922,7 +7922,7 @@ fasten 3
 fork 1
 floes 1
 fetticus 2
-forewarned 3
+forewarned 4
 feiseanna 3
 featherworker 2
 foresee 2
@@ -9522,7 +9522,7 @@ flatcap 1
 fand 1
 fohat 3
 fraudulent 5
-fraudulentness 1
+fraudulentness 2
 ferreting 1
 frauen
 fideicommissumissa 1
@@ -10674,7 +10674,7 @@ fruitbearing 4
 foremark 3
 frailties 1
 fusc 3
-frankness 2
+frankness 3
 fruitfuller
 filtrability 1
 facultate 2
