@@ -721,7 +721,7 @@ baddies 5
 boral
 bade
 badness
-buckbrush
+buckbrush 1
 baff 2
 blueish
 baboen 2
@@ -15602,7 +15602,7 @@ bewilder
 bouget 1
 biliprasin 2
 bromlite 3
-bird 2
+bird 3
 bloodwort
 benthon
 bescent
