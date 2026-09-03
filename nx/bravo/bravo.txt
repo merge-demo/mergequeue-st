@@ -8107,7 +8107,7 @@ boread
 bouillone
 breezelike 2
 bdle 4
-bendaying
+bendaying 1
 branches 1
 byronian 2
 blooper 1
@@ -9762,7 +9762,7 @@ buckskin 1
 bedragglement 2
 bissonata 2
 besing 2
-bistate 1
+bistate 2
 biosyntheses 1
 bibliophage
 biochemist 1
