@@ -5003,7 +5003,7 @@ beers 1
 beest 3
 babbools 2
 bibation 2
-bindweb 1
+bindweb 2
 ballonette
 bilinguist 1
 boodling 3
@@ -6125,7 +6125,7 @@ blepharodyschroia 2
 benedictinism 1
 bedog 2
 brickfield
-bucolical
+bucolical 1
 briolet 1
 benedictions 1
 billa
@@ -6343,7 +6343,7 @@ begrace
 buffalofishes 1
 benzein
 bellyfish 2
-besnowed
+besnowed 1
 blinks
 benzenediazonium 1
 bosominess 4
@@ -6609,7 +6609,7 @@ berets 2
 berewick 1
 bradyseismic
 breth
-biunity 2
+biunity 3
 banquettes 2
 bergall 1
 bergamasche 2
@@ -7184,7 +7184,7 @@ bestench 5
 bearberry 1
 bestialised 2
 betas 2
-be 1
+be 2
 brannigan 1
 bellbirds 2
 baseliner 1
@@ -8439,7 +8439,7 @@ bocage 2
 burtons
 bonspell 2
 bleareye 2
-bittium
+bittium 1
 bilaminar 2
 burblier 2
 bemusement
@@ -10257,7 +10257,7 @@ bilged 1
 broomwort 2
 blackpatch
 belongings
-broguery
+broguery 1
 beavering 1
 bilobiate 1
 boolean 3
@@ -10287,7 +10287,7 @@ bogyism 1
 byroniana 2
 blacktops
 blastoporphyritic 3
-barking
+barking 1
 beholden
 blacktree 1
 befleaed
@@ -11691,7 +11691,7 @@ bosks 1
 boatward 1
 blackboys
 boatwright 2
-beanfest 2
+beanfest 3
 bob 2
 biennales
 burglarize 1
@@ -11988,7 +11988,7 @@ biod 1
 bacchical 1
 bogtrotting 2
 batfowler
-boardings 1
+boardings 2
 batel 2
 bimillenary 3
 brother 2
@@ -12499,7 +12499,7 @@ bather
 bagpiped 3
 bone
 bejaundice
-bonebreaker 1
+bonebreaker 2
 bifoliolate 1
 brobdingnag 3
 bonedry 1
@@ -12762,7 +12762,7 @@ bucorvinae 1
 bidree 2
 becloaked
 bioelectric 3
-bullneck 1
+bullneck 2
 bitstocks
 biparous
 boce
@@ -13586,7 +13586,7 @@ brumbee 2
 bibliokleptomania 1
 bodgery
 baroco 2
-bugsha 1
+bugsha 2
 bismutosmaltite 4
 berapt 1
 ballroom 1
@@ -13868,7 +13868,7 @@ barleybird 1
 brooch 2
 biduous 3
 boathook
-bang 1
+bang 2
 bowheads
 bowie
 balr
@@ -16213,7 +16213,7 @@ birth
 brothers
 barbudo
 braird 1
-brotherwort
+brotherwort 1
 brotocrystal 1
 butacaine
 bromoform 3
@@ -16331,7 +16331,7 @@ brugnatellite 1
 benzoxy 2
 bluehearted 2
 broommaking 2
-bulimic 1
+bulimic 2
 bossing 2
 bifurcal 2
 bubonoceze 2
@@ -18272,7 +18272,7 @@ bagworm 2
 bronzier
 butternuts 2
 bunuelo 2
-bde 2
+bde 3
 berryman 1
 basque
 brickmason 6
