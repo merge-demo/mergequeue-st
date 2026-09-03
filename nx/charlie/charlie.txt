@@ -6492,7 +6492,7 @@ cavekeeper 2
 cavelet 2
 confiner
 cambodia 2
-cavelike
+cavelike 1
 cavemen 2
 cavernal
 cavernlike
@@ -11108,7 +11108,7 @@ chitted 1
 chitter
 chitterling 1
 chutney
-chitters 1
+chitters 2
 communbus
 capillaries 1
 coagulose
@@ -12388,7 +12388,7 @@ chromatopathy 1
 celebe 2
 chromatophil
 chromatophile
-chromatophilic 1
+chromatophilic 2
 changemaker 1
 chromatophobia 1
 chromatophore 1
@@ -15137,7 +15137,7 @@ cladus 1
 claes 2
 criminosis 1
 condecent 2
-crumbled
+crumbled 1
 clag 2
 clagged 2
 carboxydomonas
@@ -15281,7 +15281,7 @@ corallite
 corgis
 clamour
 concuss
-critters 1
+critters 2
 contune
 cordant
 copalchi 1
@@ -16406,7 +16406,7 @@ criniparous
 conditivia
 cochleare 2
 cliv 1
-chub
+chub 1
 cliver 1
 clivers 1
 clk
@@ -20226,7 +20226,7 @@ commodes
 cobias
 cionotomy 2
 catastrophism 2
-chalcolite
+chalcolite 1
 cystosarcoma 2
 crewelwork 1
 chicagoans 1
@@ -21476,7 +21476,7 @@ concommitantly 1
 calculation
 conconscious
 cumquats
-concordably
+concordably 1
 concordal 2
 circumundulation
 concordance 1

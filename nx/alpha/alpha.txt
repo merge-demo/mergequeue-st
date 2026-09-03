@@ -933,7 +933,7 @@ absterging
 antient 1
 absolent 1
 aliases 1
-allah 1
+allah 2
 appenzell 2
 aircrafts
 alibiing
@@ -1217,7 +1217,7 @@ acanthocephalous 1
 acanthocladous 3
 acanthodean 1
 abbots
-alabastoi
+alabastoi 1
 agonothetic 2
 acanthodei 2
 acoasma 1
@@ -2093,7 +2093,7 @@ antimatrimonialist
 alopiidae
 acharne 1
 arrope 1
-afrikander
+afrikander 1
 acharnement
 achatina
 achatinidae 2
@@ -5472,7 +5472,7 @@ aspout 1
 anthomania
 aquarid
 anastomotic 1
-antirestoration
+antirestoration 1
 antiliquor
 anableps 1
 astylosternus 1
@@ -5862,7 +5862,7 @@ agaze 2
 agedness 2
 agee 2
 aerugos
-ageing
+ageing 1
 ardass
 assumptive
 archiannelida 1
@@ -8448,7 +8448,7 @@ advertency
 assoin
 apologised 1
 aortoptosis 2
-aspidosperma
+aspidosperma 1
 alkahestica
 arabana 1
 alcoholometrical
@@ -10526,7 +10526,7 @@ amicous 1
 absolutistically
 anomite 1
 affirmly 1
-assertorily 1
+assertorily 2
 amidation 3
 aliofar
 amide 2
@@ -10724,7 +10724,7 @@ academie
 acetylized 3
 analogical
 agamae
-aminoacetophenetidine 1
+aminoacetophenetidine 2
 aminoanthraquinone
 apodictically 1
 aminoazo 1
@@ -14112,7 +14112,7 @@ antedating 2
 angrier 2
 astur 4
 amphisbaenic 1
-ablegation 1
+ablegation 2
 anapests 1
 academize
 antedorsal
@@ -14284,7 +14284,7 @@ aglyphous 2
 asepticize 2
 armchaired
 argilliferous 1
-acephal 2
+acephal 3
 aptitudinal 1
 anterosuperior
 antesternal 1
@@ -14659,7 +14659,7 @@ arcus 1
 antiaggressiveness 2
 apatela 1
 antialbumin 1
-assignments 1
+assignments 2
 antialcoholic
 akerite
 antialcoholism
@@ -20481,7 +20481,7 @@ arcula
 anticorrosively 2
 admov
 aristological
-asterospondylous 3
+asterospondylous 4
 athbash
 arteriocapillary
 arteriogenesis 1
@@ -20953,7 +20953,7 @@ adipometer 1
 altaic 2
 acclimated
 adjustores 2
-arter 1
+arter 2
 arseno
 ascaridiasis
 archeologian 1
@@ -21022,7 +21022,7 @@ amphichromatic 2
 ascidiacea 1
 anyone 2
 ambones
-annulments 2
+annulments 3
 anapanapa 2
 antihuff 2
 ascidiate

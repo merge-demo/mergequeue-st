@@ -1170,7 +1170,7 @@ baywoods 1
 bodhisat 2
 bridgeway 1
 bigbloom 2
-bedsteads 3
+bedsteads 4
 ballasting 1
 balladized 4
 baiza
@@ -5285,7 +5285,7 @@ botulinal
 bontebuck 2
 beady 2
 betsy 1
-beggiatoaceae
+beggiatoaceae 1
 bemoil 2
 blurs 2
 boggier 1
@@ -7339,7 +7339,7 @@ bullidae 2
 bilbies
 bunker
 burritos 1
-becumber 1
+becumber 2
 beryl 1
 blinky
 brasilia 2
@@ -10821,7 +10821,7 @@ bulldoggy 1
 boanergism 2
 blepharostenosis 1
 beeswing 2
-brimfulness 1
+brimfulness 2
 blere
 behooved 2
 blesboks 1
@@ -11383,7 +11383,7 @@ bluebelled
 bluebells 2
 bepistoled
 brimstonewort 1
-bons 1
+bons 2
 bescorches 3
 bluebill 1
 bustic
@@ -12580,7 +12580,7 @@ bardane 2
 bonk
 boterol 3
 begrudging
-brackets 3
+brackets 4
 bagpiping
 bonne
 bescreens 3
@@ -13279,7 +13279,7 @@ braider
 bostanji 1
 bosthoon 1
 banderillas 1
-bipont
+bipont 1
 branchstand
 barman 1
 bludge 2
@@ -13318,7 +13318,7 @@ bridechamber 1
 botanies 1
 botanize 1
 brushmen 1
-boswellizing 3
+boswellizing 4
 bescreening
 benzanalgen 4
 brachioradialis
