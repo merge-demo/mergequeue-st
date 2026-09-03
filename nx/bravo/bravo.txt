@@ -721,7 +721,7 @@ baddies 5
 boral
 bade
 badness
-buckbrush
+buckbrush 1
 baff 2
 blueish
 baboen 2
