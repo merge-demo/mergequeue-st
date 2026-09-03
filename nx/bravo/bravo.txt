@@ -3122,7 +3122,7 @@ becher 2
 birdlime 3
 baggage
 baseburner
-basecourt
+basecourt 1
 betokener 2
 boosting 1
 boneset 2
@@ -7540,7 +7540,7 @@ becco 2
 besmoothing 1
 bonitoes
 bibacity 1
-bevomiting
+bevomiting 1
 briefer 3
 bread 2
 biltongue 2
@@ -8967,7 +8967,7 @@ bromvoel 1
 bloodflower
 bicuspids
 bluejay 2
-bibliographers
+bibliographers 1
 blennothorax 1
 bacteriotropin 1
 biogenetics 1
@@ -9667,7 +9667,7 @@ bacteriaceae 4
 baconism 1
 batiste
 bisyllabic 1
-benefactions 2
+benefactions 3
 burao 1
 braize 1
 bulleting
@@ -13924,7 +13924,7 @@ backstopped 3
 backhauled 2
 brugh 1
 brushoffs 1
-burial
+burial 1
 bacteriotropic 1
 binoculate 1
 bohemian 2
@@ -14659,7 +14659,7 @@ bararesque 3
 branular 2
 babyishly 3
 butine
-basiparaplastin 2
+basiparaplastin 3
 brachiopodous 1
 bunty 2
 buffware 1
@@ -14690,7 +14690,7 @@ brasiletto 4
 brasilin 1
 bibliomancy
 balustrade 2
-balletically
+balletically 1
 bogle 2
 bathic 1
 broilingly 1
@@ -15752,7 +15752,7 @@ brocatello 2
 blaubok 1
 billionths 2
 bleaches 2
-bangkoks 3
+bangkoks 4
 broch 2
 bogeys 1
 bullyingly 2
@@ -17011,7 +17011,7 @@ brachycranial 3
 bulge
 behemoth
 braziers 1
-bibliothecarial 3
+bibliothecarial 4
 bedaubs 1
 bubblish 2
 bulger 1
