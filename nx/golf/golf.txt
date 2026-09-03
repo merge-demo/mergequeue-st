@@ -3053,7 +3053,7 @@ geat
 gynethusia 3
 grulla 3
 gunpoint 1
-guardroom 2
+guardroom 3
 generally
 glucokinin 2
 globigerine 4
@@ -4799,7 +4799,7 @@ gunnen 3
 gaff 4
 geopolar 5
 gait 4
-guttersnipe 4
+guttersnipe 5
 guessed 2
 gorgonizing 2
 gallflies 1
@@ -5376,7 +5376,7 @@ galatotrophic 1
 gamogenetical 1
 groundflower 3
 gumchewer 2
-gour
+gour 1
 grandmotherliness 4
 gimble 3
 gangplank 2
@@ -6768,7 +6768,7 @@ geologically 4
 gazania 2
 gyrostatics 2
 genal 3
-genros 1
+genros 2
 geochemical 2
 gondola 1
 goniums 8
@@ -10067,7 +10067,7 @@ gudgeon 2
 grobianism 2
 gauntest 1
 graecize 1
-gramophonically 3
+gramophonically 4
 gymnoglossate 2
 guesser 3
 geoffroyin 3
