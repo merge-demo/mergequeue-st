@@ -1509,7 +1509,7 @@ everywhere 2
 etch 2
 extracalendar 3
 epembryonic 4
-extraregarding 1
+extraregarding 2
 ettarre 1
 egesta 2
 eggberries 1
@@ -1684,7 +1684,7 @@ eyliad 4
 electrotheraputics 3
 ephemerally
 extemporaneous 2
-eyecup
+eyecup 1
 emollescence 1
 effectualize 2
 eyed 2
@@ -2281,7 +2281,7 @@ enleagued 1
 electrifiers
 europasian 1
 enaliornis
-europeanly
+europeanly 1
 echoingly 1
 etnas 1
 exurbias 4
@@ -6855,7 +6855,7 @@ ephraimitic 3
 evaporable 3
 embelif
 eucalyn 1
-epiblema 4
+epiblema 5
 epitrchelia 5
 exudation 4
 enchanting
