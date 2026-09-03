@@ -2570,7 +2570,7 @@ declivent
 derive
 dreamlike
 declivity 1
-ducklingship 1
+ducklingship 2
 dangled 1
 detoured 1
 dermobranchia 1
@@ -12710,7 +12710,7 @@ disliking
 doubleness
 daut
 depreciating 2
-diphenol
+diphenol 1
 dishonesty
 deindividualization
 domicilement
