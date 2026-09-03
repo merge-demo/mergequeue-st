@@ -3893,7 +3893,7 @@ farming
 footslogged 2
 febriferous 3
 fluidextract 1
-findable 1
+findable 2
 fruz 3
 familiarize
 function 1
