@@ -3382,7 +3382,7 @@ aerology 1
 adays 1
 adjustors 1
 agrestal 2
-acecaffine
+acecaffine 1
 agnizing 3
 assistor 1
 anisodactylous 2
@@ -7114,7 +7114,7 @@ anopsias
 astrild 3
 agaricin 1
 abnerval 3
-acajous
+acajous 1
 abantes 1
 akia
 acetylene
@@ -8691,7 +8691,7 @@ alleys 1
 alephzero
 afrasian
 alleyway
-amyosthenia 2
+amyosthenia 3
 alchitran
 abled
 attractancy
@@ -12216,7 +12216,7 @@ agremens 1
 arachnidium
 antilife
 actional
-aetites 1
+aetites 2
 amsel 2
 autohemotherapy 1
 acetylenyl 1
