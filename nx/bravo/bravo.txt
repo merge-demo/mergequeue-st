@@ -9138,7 +9138,7 @@ balanoglossida
 bodysuit 1
 beauts 1
 biosome
-boodledom
+boodledom 1
 biospeleology 1
 biosphere 2
 buntline
@@ -15313,7 +15313,7 @@ broodlet
 brainlessly
 bridewain 1
 brideweed 2
-bahiaite 2
+bahiaite 3
 biochemics 2
 bosk
 bullying 3
