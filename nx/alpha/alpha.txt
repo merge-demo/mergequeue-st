@@ -1489,7 +1489,7 @@ alewhap
 acclimates
 acclimatisation 4
 affixable 2
-archaisms 1
+archaisms 2
 amortize 1
 acclimatise 3
 acclimatiser 2
@@ -4844,7 +4844,7 @@ aspide
 acrologies 1
 addnl 2
 aero 3
-ausones
+ausones 1
 aspermatism 1
 aeroballistic 2
 aerobate 1
@@ -24059,7 +24059,7 @@ autodialling 1
 aboard 1
 autoagglutination 1
 autodials 1
-astonishments 1
+astonishments 2
 autodidactic
 albumenised 2
 athrough 1
@@ -24541,7 +24541,7 @@ auxetic 1
 adoptability 4
 aghorapanthi
 anywhereness
-at
+at 1
 armsize 2
 abhor 1
 aerophile 2
