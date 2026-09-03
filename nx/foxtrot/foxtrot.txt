@@ -1817,7 +1817,7 @@ featured 2
 fluidify 3
 featureful 1
 featurelessness 1
-featureliness 4
+featureliness 5
 fieldmice 1
 flesh 3
 furrows
@@ -4275,7 +4275,7 @@ fendable 3
 fastuous 1
 firk 2
 febrifuges 2
-filacer
+filacer 1
 fleers 1
 fiancee 1
 follicule
@@ -7841,7 +7841,7 @@ floridian
 forespent 3
 finns 1
 filterman 4
-furiousity 2
+furiousity 3
 flittered 4
 fruitwood 3
 fidgetiness 1
@@ -8330,7 +8330,7 @@ flintify 3
 finableness
 forgoer 3
 fidges 1
-forgoers
+forgoers 1
 fetas 2
 flasher 1
 fetishes 1
@@ -9332,7 +9332,7 @@ frances 3
 figurants 4
 ferreiro 1
 fanning 3
-forcelet 4
+forcelet 5
 franchisees 2
 foulings
 fertil 3
@@ -11212,7 +11212,7 @@ frontiersman 2
 falsetto 1
 fusobacteria
 foetalization 2
-fungoes 5
+fungoes 6
 flotorial 1
 freechurchism 2
 futilely
@@ -11331,7 +11331,7 @@ fossilogist 2
 favorability 1
 furfuralcohol 1
 freebees 1
-flathat
+flathat 1
 faceted 2
 fusulina 3
 fps 5
