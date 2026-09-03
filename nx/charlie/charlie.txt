@@ -4765,7 +4765,7 @@ canceration
 carpiodes 1
 carpium 1
 cannach 1
-carpocace 1
+carpocace 2
 cassandras
 contagia 1
 cuestas 2
@@ -12743,7 +12743,7 @@ characteries 1
 canonisation 3
 chauvinists 1
 clotter 2
-cholecystoileostomy
+cholecystoileostomy 1
 canalage
 coabound
 clawsick 1
@@ -16253,7 +16253,7 @@ calcutta 1
 compagination
 clinohumite 1
 childermas
-constringency 1
+constringency 2
 contraindicate
 clinology 2
 clinometer 1
@@ -25160,7 +25160,7 @@ chincher
 corespect
 corespondent
 cystoflagellate 1
-coalition
+coalition 1
 corespondents 2
 coretomy
 caterpillar 1
@@ -26169,7 +26169,7 @@ cosmographic 2
 cosmographical 2
 concomitantly 1
 cosmographically
-cosmographies 2
+cosmographies 3
 cosmoline
 consociative
 cloudlet 1
@@ -30095,7 +30095,7 @@ crocodilus 3
 comptrol 2
 cephalophorous 1
 chordoid 2
-crowder 1
+crowder 2
 cmdg
 crowdy 2
 crowdies
