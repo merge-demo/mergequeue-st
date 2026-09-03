@@ -721,7 +721,7 @@ baddies 5
 boral
 bade
 badness
-buckbrush
+buckbrush 1
 baff 2
 blueish
 baboen 2
@@ -3195,7 +3195,7 @@ brazening
 barcan
 balkanizing 2
 baboonroot 2
-basiarachnoiditis 3
+basiarachnoiditis 4
 bronchiarctia 1
 broughtas 1
 basically 1
@@ -4499,7 +4499,7 @@ bedplate 1
 bronchiectatic 1
 bluenose 2
 bedead
-becross 2
+becross 3
 bureaucratism 2
 becrowd
 burstwort 5
@@ -10936,7 +10936,7 @@ biloquist
 biclinia 2
 barth
 bourrees 3
-blinkard 4
+blinkard 5
 blesbuck 2
 bedlamism
 blinkards 1
@@ -12948,7 +12948,7 @@ bootied 2
 bearfoot
 bialy 1
 bootlegs 2
-bootlessly 3
+bootlessly 4
 bluefish 3
 bootlicking 1
 burins 2
@@ -15602,7 +15602,7 @@ bewilder
 bouget 1
 biliprasin 2
 bromlite 3
-bird 2
+bird 3
 bloodwort
 benthon
 bescent
@@ -17718,7 +17718,7 @@ bestead 2
 bollard
 beshouts 1
 birling
-bookways 2
+bookways 3
 bombshell
 burned 1
 burner
@@ -18005,7 +18005,7 @@ battutas 1
 bordman 3
 biking 1
 bankruptcies 4
-benevolence 1
+benevolence 2
 bacteriophobia
 blastemas
 baryphonic 2
