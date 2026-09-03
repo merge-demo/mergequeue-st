@@ -2382,7 +2382,7 @@ dwyka
 deciders
 diphenylguanidine 2
 dubitante 2
-disownment 1
+disownment 2
 diplontic 1
 dismantlement 2
 dayakker
@@ -2622,7 +2622,7 @@ desalter 1
 decoloring 1
 disavowed
 deforce 1
-dispose 2
+dispose 3
 duopsonies 1
 decolouration 3
 daedalean 2
@@ -4461,7 +4461,7 @@ divulsor 1
 drowningly 2
 defence 3
 deceptions 1
-disregarding 1
+disregarding 2
 demicuirass 2
 doxologies 1
 danubian 2
@@ -4479,7 +4479,7 @@ downtrend 2
 deityship
 deputies
 discircumspection 2
-demies 3
+demies 4
 dosimetric 2
 demifigure 1
 disinflated 1
@@ -8549,7 +8549,7 @@ distritbuted
 dermographia 1
 dracontiasis
 distream 7
-druggists
+druggists 1
 diaphone 3
 demilitarising 1
 dexterously 1
@@ -11289,7 +11289,7 @@ dyspeptical 1
 dittied 1
 discerner 1
 delegalize
-discerning 2
+discerning 3
 dingdonging 1
 dudaim 1
 dahabeeyah 1
@@ -11381,7 +11381,7 @@ drossing
 dastardy 2
 dockyard 1
 dissuader
-demivotary 1
+demivotary 2
 determinoid
 debug
 discloser 1
@@ -13135,7 +13135,7 @@ detonates
 desynonymization
 dispersers
 dreigh
-doubtful
+doubtful 1
 dipicrylamin 1
 didascalic 1
 donkeyback
