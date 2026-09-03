@@ -4416,7 +4416,7 @@ bickers 3
 bulky 2
 bushwhacker
 bathyseism 1
-beclaw 1
+beclaw 2
 besieged 1
 balm 1
 brandering
@@ -5243,7 +5243,7 @@ bimastoid 1
 bullyragged 1
 beaky
 bunkmate 2
-bowtie
+bowtie 1
 begarlanded 3
 baldpates 3
 bewired 1
