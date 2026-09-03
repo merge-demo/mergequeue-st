@@ -3425,7 +3425,7 @@ byrrus 2
 bedsores 3
 burion
 blushing
-bulletmaker 1
+bulletmaker 2
 bastardism 1
 blather 1
 bastardized 1
@@ -5663,7 +5663,7 @@ barques 2
 besped 1
 beldams
 bacchar 3
-bilify 2
+bilify 3
 belderroot 1
 bodgie 1
 beleaguering
@@ -9596,7 +9596,7 @@ bhutia 1
 bromides 1
 bumbledom
 bronchomycosis 2
-bahut
+bahut 1
 blastomata 1
 biscutate 1
 branchiostomous 1
@@ -9688,7 +9688,7 @@ boolies 1
 baptised 2
 bisischiatic 2
 bauera 2
-bowings 2
+bowings 3
 bisk 2
 bisks 2
 bysmalith
@@ -11521,7 +11521,7 @@ blufter 2
 bluggy 2
 bispore
 bethwack 3
-bombload 2
+bombload 3
 blumes
 benighting
 blunderbusses
@@ -17261,7 +17261,7 @@ bimethyl
 brownian 1
 bolographically
 bumblers 1
-bumbles 2
+bumbles 3
 bacterioblast
 bumbling 1
 bumbo 2
@@ -17534,7 +17534,7 @@ braggat 2
 burdensome
 beslushed
 birettas
-burlesque
+burlesque 1
 benzazide 1
 burdigalian 1
 basipoditic
