@@ -4950,7 +4950,7 @@ aeroelasticity 2
 arraigning 1
 aerofoils 1
 atmidometry 1
-adjourned 1
+adjourned 2
 amberfish 1
 antilogous
 antinaturalistic 1
@@ -22761,7 +22761,7 @@ asthenobiotic 1
 advantageousness 2
 attainture 2
 atypy 1
-ashame
+ashame 1
 aprickle 3
 acidulent 1
 averring 3
@@ -23711,7 +23711,7 @@ aspalathus 1
 auriphrygia 2
 auripigment 1
 aurir 2
-auriscalpia 3
+auriscalpia 4
 auriscopy 1
 aurist
 aurists
