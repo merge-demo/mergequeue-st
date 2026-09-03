@@ -2731,7 +2731,7 @@ betrothals 1
 bloodstanch 1
 balandrana 1
 brasen 2
-betaken 1
+betaken 2
 beladies 1
 betters 3
 bellypiece 3
@@ -3520,7 +3520,7 @@ birdcall 2
 batched 1
 batcher 3
 bargemen
-bravissimo 2
+bravissimo 3
 bogging 2
 bois
 bitterhearted 1
@@ -5003,7 +5003,7 @@ beers 1
 beest 3
 babbools 2
 bibation 2
-bindweb 1
+bindweb 2
 ballonette
 bilinguist 1
 boodling 3
@@ -6125,7 +6125,7 @@ blepharodyschroia 2
 benedictinism 1
 bedog 2
 brickfield
-bucolical
+bucolical 1
 briolet 1
 benedictions 1
 billa
@@ -6343,7 +6343,7 @@ begrace
 buffalofishes 1
 benzein
 bellyfish 2
-besnowed
+besnowed 1
 blinks
 benzenediazonium 1
 bosominess 4
@@ -6609,7 +6609,7 @@ berets 2
 berewick 1
 bradyseismic
 breth
-biunity 2
+biunity 3
 banquettes 2
 bergall 1
 bergamasche 2
@@ -10257,7 +10257,7 @@ bilged 1
 broomwort 2
 blackpatch
 belongings
-broguery
+broguery 1
 beavering 1
 bilobiate 1
 boolean 3
@@ -10287,7 +10287,7 @@ bogyism 1
 byroniana 2
 blacktops
 blastoporphyritic 3
-barking
+barking 1
 beholden
 blacktree 1
 befleaed
@@ -13868,7 +13868,7 @@ barleybird 1
 brooch 2
 biduous 3
 boathook
-bang 1
+bang 2
 bowheads
 bowie
 balr
@@ -14794,7 +14794,7 @@ brawlsome 2
 brawnedness 1
 bellowsmaking 1
 barre 4
-bilamellated
+bilamellated 1
 beniseed 3
 behalves 1
 brawnily 1
@@ -16213,7 +16213,7 @@ birth
 brothers
 barbudo
 braird 1
-brotherwort
+brotherwort 1
 brotocrystal 1
 butacaine
 bromoform 3
@@ -16331,7 +16331,7 @@ brugnatellite 1
 benzoxy 2
 bluehearted 2
 broommaking 2
-bulimic 1
+bulimic 2
 bossing 2
 bifurcal 2
 bubonoceze 2
@@ -16530,7 +16530,7 @@ bangtailed 2
 bequeathal 1
 birr 1
 bishops 2
-budzat 2
+budzat 3
 bandeaux
 broadpiece
 bisellium
@@ -17106,7 +17106,7 @@ balancing 2
 baldpated
 bulletining 1
 batches 3
-bulletless
+bulletless 1
 branchiobdella 2
 basecoat 1
 bulletlike 1
@@ -17690,7 +17690,7 @@ burlesquing 3
 burlet 1
 butterfly
 biotically
-blastema 1
+blastema 2
 bidiurnal
 blarney 3
 brachioganoid
@@ -18272,7 +18272,7 @@ bagworm 2
 bronzier
 butternuts 2
 bunuelo 2
-bde 2
+bde 3
 berryman 1
 basque
 brickmason 6
