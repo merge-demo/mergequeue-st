@@ -1120,7 +1120,7 @@ bypassed
 bransolder
 bromius 3
 barless 2
-baseless 1
+baseless 2
 bryophyte 1
 buxine 2
 bladish 2
@@ -1982,7 +1982,7 @@ bosquets 3
 baahling 1
 beeway 3
 beworms 2
-bandwidth 2
+bandwidth 3
 bandworm 1
 blunderers 2
 boogiewoogie
@@ -3211,7 +3211,7 @@ booklores
 bromids
 byland 1
 bhaga 1
-blastozooid 1
+blastozooid 2
 bromelia 1
 beadily 2
 bangash 1
@@ -3395,7 +3395,7 @@ benzilic 2
 bassanite 2
 biotechnics 1
 brachydactylia 2
-bassetta 2
+bassetta 3
 blockbuster 3
 bandstands 2
 barthite 1
@@ -4413,7 +4413,7 @@ booleans 3
 butyrousness
 bouquiniste 2
 bickers 3
-bulky 2
+bulky 3
 bushwhacker
 bathyseism 1
 beclaw 2
@@ -6382,7 +6382,7 @@ bardo 1
 bacteriostasis
 bobeches
 businesswomen 1
-benzodiazole
+benzodiazole 1
 burdener 2
 benzofulvene 4
 bollen 2
@@ -9222,7 +9222,7 @@ bunolophodont 3
 bobbinwork
 bipartisanship
 bipartitely 1
-buffer
+buffer 1
 belitter
 bumbee 2
 bipaschal 2
@@ -12255,7 +12255,7 @@ bolshevist 1
 biopoesis 2
 bolshevize 2
 bantamweights 1
-bilboas 1
+bilboas 2
 borocaine 2
 bemud 1
 bancal 2
@@ -15637,7 +15637,7 @@ bristliness 3
 backening 4
 bewigging
 braws
-bonairly 2
+bonairly 3
 britain
 brotany
 buzzardlike 2
