@@ -546,7 +546,7 @@ gableended 2
 gravamem 1
 gadinine 1
 glucosazone 1
-gallian 2
+gallian 3
 generall 2
 gemmiparity 1
 gitoxigenin 3
@@ -1865,7 +1865,7 @@ gaussmeter 1
 gatteridge 1
 gulleys 4
 gammaridae
-grittiness 3
+grittiness 4
 guayabo 4
 gaucho
 geniohyoid 1
@@ -6601,7 +6601,7 @@ glummy 1
 galacaceae 4
 gallstone 4
 garous 8
-granivorous
+granivorous 1
 glegnesses 2
 gonaduct 3
 guiling 2
@@ -7283,7 +7283,7 @@ grumble
 gwerziou 3
 girasols 1
 gavelman 4
-glassblowing
+glassblowing 1
 greencloth 2
 ginsengs 2
 glazed 2
@@ -9487,7 +9487,7 @@ geometrician 2
 gladsomely 1
 gossamery 1
 gae
-gonyaulax 1
+gonyaulax 2
 graceful
 guelphish 3
 grundlov 4
@@ -9645,7 +9645,7 @@ gerardia 1
 gangbang 3
 generals 3
 genital 3
-grudging
+grudging 1
 gonosphere 4
 graveship
 glouted 3
@@ -10132,7 +10132,7 @@ greenier 1
 grudges 4
 goback 2
 granophyric 7
-gideonite 2
+gideonite 3
 gymslip 4
 gasohol 3
 goodmanship 1
