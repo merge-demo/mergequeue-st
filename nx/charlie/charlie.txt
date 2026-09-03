@@ -222,7 +222,7 @@ cabs 1
 comprend 3
 copular
 cabstands 1
-cabuya
+cabuya 1
 celebrators 1
 cabureiba
 concubinage 2
@@ -9662,7 +9662,7 @@ cheesemaking
 cheesemongering 1
 cheeseparer
 canaster
-cerebrasthenic 1
+cerebrasthenic 2
 caravaning
 counseling
 cheeseparing 2
@@ -13705,7 +13705,7 @@ cinchonidine 1
 cowleech
 cinchoninic 1
 coronation 1
-cinchonisation
+cinchonisation 1
 cinchonise 1
 clause 1
 clashed 3
@@ -21587,7 +21587,7 @@ clangour 2
 chichimecan 2
 clour
 crustiness
-condemners
+condemners 1
 condemning
 calculiform 2
 compulsives
@@ -22101,7 +22101,7 @@ cataclasmic
 chowders 2
 conformationally
 couvert
-conformations
+conformations 1
 canoe 2
 cedrium 1
 clochette
