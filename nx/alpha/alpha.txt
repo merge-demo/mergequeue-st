@@ -593,7 +593,7 @@ antiquarian
 acetylenation 1
 abn
 agrania
-alphameric
+alphameric 1
 abnegates 1
 anthropomancy
 abrotanum 1
@@ -17078,7 +17078,7 @@ arvel 1
 aphorism 1
 apodedeipna 4
 acrotarsium
-apodeictic 1
+apodeictic 2
 aboideaux
 anosmic 1
 ailments
