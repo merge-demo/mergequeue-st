@@ -1438,7 +1438,7 @@ guild
 garbages 1
 gulfy 1
 grimsire 2
-gainward 1
+gainward 2
 glossarial 1
 gidjee 3
 germiparity 3
@@ -4340,7 +4340,7 @@ gumdigger 2
 gurdwara 3
 galactopyra 4
 germanely 2
-ganggang 2
+ganggang 3
 grevillea 1
 goozle 1
 grammatist 2
@@ -8093,7 +8093,7 @@ granitite 1
 geomagnetism 1
 ghain
 genteelish 5
-gesning 4
+gesning 5
 gentlewoman
 granivore 1
 gasconader 4
