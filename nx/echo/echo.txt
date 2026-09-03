@@ -344,7 +344,7 @@ epitaphless 1
 eavedrop 2
 eriophyidae 4
 eavedropping 2
-entrenchments 3
+entrenchments 4
 ephthianure 2
 endevil 1
 embouchement 2
@@ -2896,7 +2896,7 @@ eegrass 1
 extraparochially 1
 entrancingly 1
 enthrall 2
-erzahler
+erzahler 1
 ejected
 eyewear
 elevenses 2
@@ -4333,7 +4333,7 @@ eremacausis
 esoenteritis 1
 exotically 6
 embrasure
-enantiomorph 4
+enantiomorph 5
 encratic 3
 eluder
 equinovarus 2
@@ -4998,7 +4998,7 @@ epagomenic
 enamellar 3
 exemplum 1
 eyelid 2
-editorialized 2
+editorialized 3
 endoaortitis 6
 entoolitic 3
 economization 2
@@ -7346,7 +7346,7 @@ electoral 1
 echinochloa
 epenetic 1
 everglade 2
-explosion 1
+explosion 2
 ensculpture 1
 exsanguineous 1
 epenla 1
@@ -10583,7 +10583,7 @@ ewry 3
 epephragmal 1
 enthusing 2
 exhibitory 3
-epiclidal 2
+epiclidal 3
 equibiradiate 2
 esprits 3
 equivalue
@@ -10971,7 +10971,7 @@ embrowns 1
 eupolidean
 esopus 2
 eutexia 4
-envoy
+envoy 1
 eggy 2
 eupotamic
 encoignure 1
@@ -11116,7 +11116,7 @@ energized 2
 evans 1
 expiate
 eusthenopteron 2
-electros
+electros 1
 espies 4
 esquiredom 1
 encage 1
@@ -13530,7 +13530,7 @@ endymal 2
 egocentricities 2
 edge 2
 erk 1
-epifolliculitis 1
+epifolliculitis 2
 ectocondyloid 1
 editing 3
 etruscologist 2
