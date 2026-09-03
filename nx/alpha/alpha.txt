@@ -2547,7 +2547,7 @@ apogean 1
 attemperance 1
 alexin
 alabastrons
-amoebicidal
+amoebicidal 1
 acolyth
 aculei 1
 acolythate 1
@@ -3328,7 +3328,7 @@ axal 1
 acutilobate 1
 arterioarctia 1
 acutiplantar
-autoluminescence 1
+autoluminescence 2
 acrylate 1
 assassin 1
 atomizes 1
@@ -7370,7 +7370,7 @@ albas 2
 austin
 armadillidium 1
 alcoved
-animalise 1
+animalise 2
 africander 1
 afford 1
 architectural
@@ -10374,7 +10374,7 @@ amerces 1
 amerciament
 agao 2
 aphasiology
-amercing 2
+amercing 3
 airfares 1
 america
 arrayed 2
@@ -18009,7 +18009,7 @@ annalistically 2
 aphrodisiacal
 apreynte
 apres 1
-albigensian
+albigensian 1
 apricate 4
 accusingly 1
 apers 3
@@ -20488,7 +20488,7 @@ arteriogenesis 1
 arbitrer 2
 arteriograph 1
 airsome 1
-adenectopia
+adenectopia 1
 aftershaft
 arteriographic 1
 auriculidae 1
@@ -24602,7 +24602,7 @@ automania 1
 alabamian 1
 aquarian 1
 availer 1
-antimachine 3
+antimachine 4
 aequorin 2
 availing 2
 amapondo
