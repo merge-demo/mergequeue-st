@@ -7094,7 +7094,7 @@ biophysical 1
 bespell
 bespelled
 bespend 1
-bespew 1
+bespew 2
 boucherism
 banded 4
 bandfiling 2
@@ -13964,7 +13964,7 @@ bumbershoot
 blitzes 1
 bibulosity
 becluster 1
-boxing
+boxing 1
 boxmaker 1
 boxman 1
 bromatium 1
