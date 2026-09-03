@@ -2105,7 +2105,7 @@ benzpyrene
 bannat
 baulky
 bannerline 3
-bannerole
+bannerole 1
 blossomry 1
 bronchus 2
 bcf 3
@@ -6352,7 +6352,7 @@ bananalander 1
 burgher 1
 bemocking
 billsticking 2
-blowspray
+blowspray 1
 boilerful 1
 belite 1
 barani 2
@@ -7583,7 +7583,7 @@ bewhore 1
 borish 3
 bewidow 3
 bulldozers 2
-boke
+boke 1
 beshrewed 1
 breaming
 barbudos 5
@@ -13315,7 +13315,7 @@ bivaulted 1
 botanically 2
 botanics 2
 bridechamber 1
-botanies 1
+botanies 2
 botanize 1
 brushmen 1
 boswellizing 4

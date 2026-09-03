@@ -1565,7 +1565,7 @@ diadelphian 3
 drippings
 dices 2
 dyssodia 1
-deadfalls
+deadfalls 1
 deviler 3
 dim 4
 denominant
@@ -2071,7 +2071,7 @@ dodecylic 5
 defamations 1
 decalage 1
 deforces 1
-dinghy 2
+dinghy 3
 decalcifies 2
 dendrography 1
 drip 4
@@ -15673,7 +15673,7 @@ deflorescence 1
 dopping
 doppio 2
 dopper
-dactyloscopy 3
+dactyloscopy 4
 displeased
 dissipators 3
 dorab 1
