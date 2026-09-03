@@ -1393,7 +1393,7 @@ coherald
 calif
 cinematographer
 cessio
-consolable
+consolable 1
 california 1
 californian
 chinos 2
@@ -6378,7 +6378,7 @@ chubbiness
 canette 1
 causticness 2
 crumpets
-cheng 1
+cheng 2
 collencytal
 caustification 2
 caustifying
@@ -19499,7 +19499,7 @@ ceruleum
 colourman 1
 colpenchyma 1
 closet 1
-colpindach
+colpindach 1
 canzonets
 chiasmi 1
 colpitis 1

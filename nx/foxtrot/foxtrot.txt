@@ -2701,7 +2701,7 @@ floodwall 1
 fishify 2
 fuminess 2
 ferrometer 3
-faithing
+faithing 1
 factioneer 2
 fungused
 faradopalpation 2
@@ -4081,7 +4081,7 @@ filelike 3
 frondescing 3
 federation 3
 fakers 2
-flatnesses 3
+flatnesses 4
 foreprovided 3
 fabulosity 2
 fylgjur
@@ -7909,7 +7909,7 @@ frightenable 1
 frottole 4
 fistful 3
 fause 1
-firmaments 5
+firmaments 6
 flourishingly 3
 factualist 1
 florent 1
@@ -9873,7 +9873,7 @@ freddy 2
 freudist 2
 foretrysail 4
 friar 5
-fremitus 2
+fremitus 3
 filchingly
 fellated 1
 firings
@@ -10248,7 +10248,7 @@ forslack 2
 finn
 fractures 1
 falcated 1
-flaming 3
+flaming 4
 frogman 4
 fluoroscopically 1
 fasciodesis 1
@@ -10998,7 +10998,7 @@ firstborn 3
 finland 2
 firebolt 3
 fleshlier 6
-furmities 2
+furmities 3
 flatuous 2
 floricin 2
 fumatoria
