@@ -157,7 +157,7 @@ envoys 2
 egises 1
 ethicophysical 1
 expired 2
-effervescent 3
+effervescent 4
 erotopath 1
 enunciations 2
 earthly
@@ -165,7 +165,7 @@ enriched
 exequy
 eelbobber 5
 expressive 2
-enticed
+enticed 1
 echidna 1
 engelmanni 6
 exacts 1
@@ -253,7 +253,7 @@ easylike 4
 eastabout 1
 eerisome 1
 easted 2
-expiry 1
+expiry 2
 expressivism 1
 eightsmen
 enring 2
@@ -295,14 +295,14 @@ enterolobium 5
 enantiosis 3
 endark 1
 espousage 1
-extensible 2
+extensible 3
 exserting 1
 extortionate 4
 expedient 1
 ebon 3
 embrew 1
 eradicate 2
-esotericism
+esotericism 1
 exploitage 2
 extrema 2
 eirenarch 4
@@ -1186,7 +1186,7 @@ endogamic
 eatche 1
 ephesians 1
 educatress 1
-emetical
+emetical 1
 extranuclear 1
 embroscopic 1
 ennuyee 3
@@ -2042,7 +2042,7 @@ enology 1
 electrogalvanization 2
 expedites
 enjoyers
-encumberer 2
+encumberer 3
 euthyneural 1
 eulogises 2
 endothermy
@@ -2158,7 +2158,7 @@ elfishness 2
 elcaja 1
 eld
 epimeritic 2
-effiguration 1
+effiguration 2
 expressed 2
 ethynes 2
 ejective 4
@@ -2528,7 +2528,7 @@ epithelilia 2
 echoist 2
 elaborations 1
 edits 3
-endosmose
+endosmose 1
 egremoigne 1
 encomiologic 4
 expeditely 4
@@ -5146,7 +5146,7 @@ embossment
 ethylin
 endointoxication 1
 euphonized
-emigrative 1
+emigrative 2
 expanses
 endpaper 1
 endorser 2
@@ -6258,7 +6258,7 @@ extrapyramidal 2
 exalters 1
 ecclesiastry 2
 enduring 4
-estaminets 2
+estaminets 3
 exspoliation 2
 elfic 3
 electroengrave 1
@@ -7076,7 +7076,7 @@ epithesis 4
 energic
 envious 1
 expelling
-esophagismus 1
+esophagismus 2
 epitaxially 2
 embryomata 2
 ensophic 2
@@ -7306,7 +7306,7 @@ epaulement 2
 enstranged 1
 eyries
 epee
-elsin 1
+elsin 2
 epeeist 5
 embue 4
 exstipulate 1
@@ -10429,7 +10429,7 @@ edentalous 3
 eurypteroid 3
 eviscerated 1
 eloinment 2
-embryoniferous 4
+embryoniferous 5
 economiser 2
 ectocondyle 1
 excommunicatory 1
@@ -10970,7 +10970,7 @@ ectrodactyly 1
 embrowns 1
 eupolidean
 esopus 2
-eutexia 3
+eutexia 4
 envoy
 eggy 2
 eupotamic
@@ -11770,7 +11770,7 @@ ephraim 1
 ephydrid 2
 euplocomi 5
 engoue 2
-erysipelous
+erysipelous 1
 ectadenia 2
 epanadiplosis
 elusory
@@ -13266,7 +13266,7 @@ ety 1
 endemical
 ethize 1
 explement 2
-envine 1
+envine 2
 edacity 1
 endocranium 1
 ephebeum
@@ -13741,7 +13741,7 @@ epitaxy 2
 expiatist 3
 ell 1
 ermanaric 3
-enfasten 3
+enfasten 4
 epiplasm 1
 equiaxe 2
 ergocalciferol 2
