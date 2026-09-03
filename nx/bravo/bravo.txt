@@ -1205,7 +1205,7 @@ biasteric
 buoys
 brawliest 1
 baked
-blepharydatis
+blepharydatis 1
 bibliothetic 1
 bakelite 1
 bakemeats 1
@@ -3745,7 +3745,7 @@ brucella 2
 barnstorms 2
 battler 1
 battleships
-blushiness 1
+blushiness 2
 battlesome 2
 brigantes 1
 battlestead 1
