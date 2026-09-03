@@ -2342,7 +2342,7 @@ gravitates 2
 guardants 1
 glump 2
 gerrhosaurid
-gonopodpodia 2
+gonopodpodia 3
 glug 2
 geb 3
 george 2
@@ -2537,7 +2537,7 @@ gynecium 3
 gummata 1
 gurle 4
 gomeisa 2
-gonochorism
+gonochorism 1
 galenites
 grosses
 gaiterless 3
@@ -4129,7 +4129,7 @@ graphomania
 grandfather 2
 grimnesses 3
 galagala 1
-gnathopod 1
+gnathopod 2
 gosmore
 glotum 2
 gatchwork 4
@@ -6093,7 +6093,7 @@ girja 3
 gigliato 3
 gardinol 2
 gallimaufry 4
-guanos 4
+guanos 5
 goluptious 3
 gyrous
 gurniad 3
@@ -6239,7 +6239,7 @@ gregorianizer 5
 gob 3
 greediness 3
 gadslid 5
-gobber 3
+gobber 4
 gazettes 3
 goateed 3
 guitarlike 2
@@ -8217,7 +8217,7 @@ gabbed
 gracilaria
 gigabit
 gujar 2
-glycerolyses
+glycerolyses 1
 gelatinise 2
 glynn
 geometricize 1
@@ -8553,7 +8553,7 @@ grues 1
 gressorious 2
 geisha 4
 gloggs 1
-graveolent 1
+graveolent 2
 gymnoderinae 3
 gozzan 3
 ganglioplexus 1
@@ -10196,7 +10196,7 @@ grindstone 4
 gitanemuk
 globalism 1
 garnishes 3
-gladdon 7
+gladdon 8
 goundou 2
 gimbaljawed 4
 granulocyte
@@ -10675,7 +10675,7 @@ grog 3
 granitization 2
 gelatinobromide 2
 gurl 2
-geocentricism 3
+geocentricism 4
 grove
 goldin 3
 glyphographic 3
