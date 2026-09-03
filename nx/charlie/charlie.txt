@@ -8918,7 +8918,7 @@ chargable 1
 combmaker
 charge 1
 chargeable
-ciphertext
+ciphertext 1
 clements
 chargeably
 chargeant
@@ -9177,7 +9177,7 @@ creatine 1
 chassignite 1
 coachful
 chastacosta
-chattel 1
+chattel 2
 chaste
 chastelain
 carritch
