@@ -972,7 +972,7 @@ canccelli 1
 cilioflagellate 1
 counterwrite 2
 calamars
-calambac 2
+calambac 3
 coastmen 1
 calambour 1
 castellar
@@ -13491,7 +13491,7 @@ contemptful 1
 catalogued
 comedia
 chicha
-caseating
+caseating 1
 cilicism 1
 ciliella 1
 cistern 1
@@ -23196,7 +23196,7 @@ cowpath
 constitutor 1
 cassiri
 constr
-crucifixion
+crucifixion 1
 commence
 cellaring
 corticipetally
