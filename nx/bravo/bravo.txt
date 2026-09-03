@@ -2105,7 +2105,7 @@ benzpyrene
 bannat
 baulky
 bannerline 3
-bannerole
+bannerole 1
 blossomry 1
 bronchus 2
 bcf 3
@@ -3589,7 +3589,7 @@ bathysophical 1
 bathysphere 2
 bigmouths
 boliviano 1
-bathythermograph 2
+bathythermograph 3
 bipartite 2
 bathmat
 bathmats 1
@@ -6352,7 +6352,7 @@ bananalander 1
 burgher 1
 bemocking
 billsticking 2
-blowspray
+blowspray 1
 boilerful 1
 belite 1
 barani 2
@@ -9945,7 +9945,7 @@ bittings 1
 boodle
 budders 2
 boget 1
-bedticking
+bedticking 1
 bituminate
 bomber 1
 bituminising 1
@@ -9961,7 +9961,7 @@ bituminoid 1
 bdellouridae 2
 belsire
 bipropellant
-bikes 3
+bikes 4
 bituminosis 1
 biologically 1
 bennettitaceae 1
@@ -11894,7 +11894,7 @@ baalite 2
 baccivorous 1
 bortzes 2
 battleplane 1
-bouillons 1
+bouillons 2
 boedromion 1
 brevirostrate
 backtrail
@@ -13315,7 +13315,7 @@ bivaulted 1
 botanically 2
 botanics 2
 bridechamber 1
-botanies 1
+botanies 2
 botanize 1
 brushmen 1
 boswellizing 4
@@ -15410,7 +15410,7 @@ beastly 1
 barkometer 2
 blondine
 bevomited 1
-brachypterous
+brachypterous 1
 brigandine 1
 bandhu 2
 brigantia
@@ -16219,7 +16219,7 @@ butacaine
 bromoform 3
 betweenwhiles
 bezaleelian 2
-blote 1
+blote 2
 bithynian 3
 bridget 1
 brotuliform
