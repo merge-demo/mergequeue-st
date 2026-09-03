@@ -2622,7 +2622,7 @@ desalter 1
 decoloring 1
 disavowed
 deforce 1
-dispose 2
+dispose 3
 duopsonies 1
 decolouration 3
 daedalean 2
@@ -6419,7 +6419,7 @@ desiccative
 diogenite 1
 desaccharification
 desmatippus 1
-defalcation
+defalcation 1
 decarburisation 2
 diaereses 2
 dozened 2
@@ -13135,7 +13135,7 @@ detonates
 desynonymization
 dispersers
 dreigh
-doubtful
+doubtful 1
 dipicrylamin 1
 didascalic 1
 donkeyback
@@ -15002,7 +15002,7 @@ dysmetria 2
 dendroidal 2
 defeatism 1
 disarrangements
-disorganizers 1
+disorganizers 2
 dolcissimo 1
 distrains 1
 distinctify
