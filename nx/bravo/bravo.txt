@@ -1240,7 +1240,7 @@ backslid 1
 beds
 bittersweetness
 buxbaumia 3
-becreep 1
+becreep 2
 beautician
 baldachined
 beshiver
@@ -10500,7 +10500,7 @@ blastocele 1
 batodendron 1
 berrichon 1
 breakthroughs
-brickfielder 1
+brickfielder 2
 beeflower 2
 blastochyle 2
 blastocoel 1
@@ -10673,7 +10673,7 @@ blindly 1
 brotulid 3
 begarnish 1
 blearing
-blearness 2
+blearness 3
 bleated 1
 butcherdom 1
 bleaty 3
@@ -11336,7 +11336,7 @@ burkundauze 3
 blowziness 1
 blowzing
 bls 1
-blub
+blub 1
 blueberries 1
 blickey
 bootlicker 1
