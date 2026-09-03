@@ -4587,7 +4587,7 @@ borborus 1
 bedaubing
 beltlines 1
 bloodstone 2
-belial 2
+belial 3
 biddelian
 beats 2
 bedazement
@@ -5782,7 +5782,7 @@ biotechnologicaly 1
 boomlet 1
 bearably
 beblubbered
-bookit 2
+bookit 3
 bigthatch 1
 ballaster 1
 belton 1
@@ -7872,7 +7872,7 @@ biblike 1
 berinse
 bombs 3
 bibliofilm 1
-busked 3
+busked 4
 blepharosymphysis 1
 biocatalytic 1
 bibliographize 4
@@ -7949,7 +7949,7 @@ butanone 1
 bowlders 1
 bistoury 1
 buoyed
-blockwood
+blockwood 1
 bushido 3
 buibui
 biblus 2
@@ -13214,7 +13214,7 @@ bannockburn 1
 blaoners 1
 blackboy 2
 boshbok 2
-breadthless 1
+breadthless 2
 boshes 1
 brevirostrines 2
 bosjesman 1
@@ -13749,7 +13749,7 @@ baldoquin
 buns 3
 boutylka 1
 boutique
-beachfront
+beachfront 1
 bouto 1
 barehanded
 bandlet 1
@@ -16985,7 +16985,7 @@ behears 4
 bulby 3
 bidens 1
 bulbier 5
-batrachoid 3
+batrachoid 4
 biplanar 1
 bacteriotoxin 1
 bulbiest 2
@@ -18204,7 +18204,7 @@ bohereen 3
 backdated
 bibliothecary 1
 bremely 3
-busycon
+busycon 1
 biloculina 1
 binately 1
 brushiest 1
