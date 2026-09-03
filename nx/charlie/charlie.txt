@@ -31240,7 +31240,7 @@ cura 4
 correctness
 chetah 1
 curable
-curableness
+curableness 1
 crawlways
 cotyloidal
 coverlid 1
