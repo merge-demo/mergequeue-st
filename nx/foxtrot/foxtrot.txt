@@ -67,7 +67,7 @@ facebow 4
 fenchone 3
 faceharden 1
 flagships 2
-flecken 1
+flecken 2
 facellite 3
 ferrocyanide 4
 furthers
@@ -985,7 +985,7 @@ forehook 1
 foglietto 2
 fascicles 2
 flexuose 2
-flatlong 1
+flatlong 2
 fren 1
 fumosity 1
 fretful
@@ -1476,7 +1476,7 @@ furanose 1
 foundering 1
 flocklike 1
 fient 1
-forebodingness 2
+forebodingness 3
 forestology 1
 freebooters 2
 formamido 3
@@ -2588,7 +2588,7 @@ ferrocyanate 1
 formicid
 ferroelectric 3
 fribblery 1
-fattier 3
+fattier 4
 ferrogoslarite 6
 forcet 3
 franked 1
@@ -6252,7 +6252,7 @@ fecit 3
 flamefish 1
 fluoarsenate 3
 fissuring
-ferromagnet 5
+ferromagnet 6
 fedoras 3
 fustigation 4
 fearing 2
@@ -6855,7 +6855,7 @@ farewells 2
 foreporch 1
 fonnish 4
 folios 1
-faradizes
+faradizes 1
 fortuitus 2
 foliose 4
 flachery 3
