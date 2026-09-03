@@ -4398,7 +4398,7 @@ cavum 1
 carinas 2
 chrysene
 carinate
-carinated
+carinated 1
 chologenetic
 carination 1
 caring
@@ -6698,7 +6698,7 @@ cephalotomy
 ceinture
 ceyx
 ceja 1
-clovery 1
+clovery 2
 charcia
 celadon 3
 celadonite 1
@@ -8087,7 +8087,7 @@ chafing 1
 chafted
 cudgeller 1
 chagan 1
-chagga
+chagga 1
 chagigah 1
 chagoma
 cysticercosis
@@ -9759,7 +9759,7 @@ chelide
 clouds 1
 csardas 1
 cowheart 3
-chelydidae 1
+chelydidae 2
 chelidonic 1
 chelidonin 1
 casule 1
@@ -10840,7 +10840,7 @@ candlepower
 cuittikin 2
 circumcising
 chiopin 4
-churnability 2
+churnability 3
 centropomus 2
 chip 2
 chipchop 2
@@ -16237,7 +16237,7 @@ camphorize
 clinocephaly
 clinocephalous 1
 canonicalness
-cobrother
+cobrother 1
 clinoclasite 1
 citifies
 clinodiagonal
@@ -16387,7 +16387,7 @@ cantonese 4
 cannonballing
 carnosity 1
 chlamydozoa 2
-complotment
+complotment 1
 cosmetician 1
 coined
 clitoridotomy
@@ -17489,7 +17489,7 @@ ceratectomy
 contriving
 coboss
 chitarrone 2
-cleamer 1
+cleamer 2
 coboundless 1
 cobourg
 cueca
@@ -21326,7 +21326,7 @@ cinchonised
 countermissile 1
 counterblow
 compunction 1
-concho 2
+concho 3
 conchoids 1
 communicableness 2
 conchol
@@ -23542,7 +23542,7 @@ clodding
 constatations
 contextive
 contex
-context
+context 1
 contexts 2
 contextualize 2
 cosmetical
@@ -24353,7 +24353,7 @@ cookhouses
 cooky
 cookie 1
 cookishly
-colloquia
+colloquia 1
 clodpates 1
 convert
 cephalocaudal
@@ -24682,7 +24682,7 @@ complects 1
 chorizontic 2
 cleeks
 concentralize 1
-copped
+copped 1
 clothmaking 1
 copperahs
 counterindoctrinate 1
@@ -25628,7 +25628,7 @@ coituses 1
 chasable
 corporations 2
 calquing
-corporative
+corporative 1
 coxite 1
 cyclonometer
 cassites
