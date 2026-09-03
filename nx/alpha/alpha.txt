@@ -14268,7 +14268,7 @@ askewgee 1
 antipart 2
 anterointernal 1
 anterolateral 1
-antiferroelectric
+antiferroelectric 1
 anapneic 1
 automorphically
 agiotages
@@ -19482,7 +19482,7 @@ antimedication 1
 accusant
 arith
 absorbability
-argling
+argling 1
 allspices 2
 absolvers
 arterioscleroses
