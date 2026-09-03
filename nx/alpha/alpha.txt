@@ -95,7 +95,7 @@ antipriestcraft 1
 abaptiston
 acknow 2
 annominate
-auditories 1
+auditories 2
 abarticulation
 agyieus 1
 abase 1
@@ -3892,7 +3892,7 @@ arrayer 1
 adipocere
 adipoceriform
 adipoid 2
-angiology
+angiology 1
 amati 1
 aziola
 antitropous 1
@@ -13404,7 +13404,7 @@ advertize
 ascill
 anywhence 1
 appurtenance
-anywhither 1
+anywhither 2
 anywither
 anhalonium
 areolar
