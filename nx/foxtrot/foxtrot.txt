@@ -431,7 +431,7 @@ forcefulness 1
 floriculturist 2
 faisceau
 firths
-forelaying
+forelaying 1
 fluobromide 1
 forgetfully 2
 friskiest 2
@@ -1988,7 +1988,7 @@ functionalize 3
 frigiferous 3
 filmmaker 2
 flannelette 3
-ferocactus 3
+ferocactus 4
 fireball 3
 fravashi 3
 frden 4
@@ -5663,7 +5663,7 @@ furriners 3
 fud 2
 fulguration 4
 fluidising 2
-fireable 2
+fireable 3
 flimsiness
 fairleads
 flinch 6
@@ -8155,7 +8155,7 @@ fatheadedness 2
 forewrought
 flocculent 2
 fanaticalness 1
-foretell 5
+foretell 6
 figurehead 3
 fedayee 3
 fuse 2
@@ -10036,7 +10036,7 @@ fairness 2
 footprint 2
 footpaths 1
 foreshroud 1
-framableness 2
+framableness 3
 fenceless 2
 fanga 4
 forerevelation 2
@@ -11376,7 +11376,7 @@ fornicated 5
 fremescence 1
 frothless 2
 foreprovision 3
-footways 2
+footways 3
 foldless 1
 folksiest 5
 foister
