@@ -963,7 +963,7 @@ anticivic 4
 acescency 1
 afterhold 3
 aigialosauridae
-absorbefacient
+absorbefacient 1
 azoflavine
 absorpt 2
 absorptiometer
@@ -2030,7 +2030,7 @@ antependia
 auxoflore 1
 ameers 1
 amidoaldehyde 1
-acetonitrile 2
+acetonitrile 3
 amortised 2
 aberrancies
 apathistical 1
@@ -3382,7 +3382,7 @@ aerology 1
 adays 1
 adjustors 1
 agrestal 2
-acecaffine
+acecaffine 1
 agnizing 3
 assistor 1
 anisodactylous 2
@@ -5983,7 +5983,7 @@ apprehensive 1
 atelorachidia 1
 anhaematopoiesis
 aerogeology
-amphithecial 1
+amphithecial 2
 adit 1
 amazonstone 2
 anathematising 1
@@ -7040,7 +7040,7 @@ anoure 2
 aniseeds
 appreciatorily
 annomination
-arcae 2
+arcae 3
 ajava 2
 antipatharian
 antisemitism
@@ -7114,7 +7114,7 @@ anopsias
 astrild 3
 agaricin 1
 abnerval 3
-acajous
+acajous 1
 abantes 1
 akia
 acetylene
@@ -8691,7 +8691,7 @@ alleys 1
 alephzero
 afrasian
 alleyway
-amyosthenia 2
+amyosthenia 3
 alchitran
 abled
 attractancy
@@ -11219,7 +11219,7 @@ astrospherecentrosomic
 amphibologies
 aftermaths 1
 antagonists 1
-amphibolous
+amphibolous 1
 amia 1
 amphibrachic
 ayenst
@@ -12216,7 +12216,7 @@ agremens 1
 arachnidium
 antilife
 actional
-aetites 1
+aetites 2
 amsel 2
 autohemotherapy 1
 acetylenyl 1
@@ -13135,7 +13135,7 @@ almucantar 1
 ayahs 1
 anilines
 athabascan 2
-acantholimon 2
+acantholimon 3
 anilinism 1
 ajar 1
 aeolsklavier 1
@@ -16214,7 +16214,7 @@ annulate
 antispiritually
 antepenults 1
 albaspidin 2
-apheretic 1
+apheretic 2
 ashcake
 addenda 1
 anticlimaxes 2
@@ -23262,7 +23262,7 @@ avunculate
 antibubonic
 anthropidae
 angolan 1
-attollent 1
+attollent 2
 attorn
 appreciates
 airscape
