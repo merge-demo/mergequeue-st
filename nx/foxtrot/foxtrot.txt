@@ -2335,7 +2335,7 @@ fenzelia 1
 firestopping 1
 foreimagine 3
 fconvert 2
-feoffer 2
+feoffer 3
 fiberous 2
 feoffs 1
 fasciole 1
@@ -2685,7 +2685,7 @@ ferular 2
 foreimpression 1
 fireshaft 3
 feruled 3
-ferulic 1
+ferulic 2
 fitzclarence 2
 forced 3
 fissipedate 1
@@ -6588,7 +6588,7 @@ foamflower
 firework 2
 floriculturally
 fullness 2
-fettled 1
+fettled 2
 fidgetation 1
 fertilized 3
 freemanship 3
@@ -7222,7 +7222,7 @@ formicivorous 1
 forfeits 1
 frizzlers 1
 faenas 2
-footpaces 2
+footpaces 3
 fifer
 foolocracy 1
 factionaries 2
@@ -7260,7 +7260,7 @@ footslogger 3
 financiery 4
 fatstocks 2
 foregoing 2
-fissuration 1
+fissuration 2
 fledglings 1
 fetisheer 2
 foeffment 1
@@ -8398,7 +8398,7 @@ feigningly 3
 flaff
 fulminates 3
 forkier
-forcy
+forcy 1
 familiars 2
 foveolated 2
 fireboard 1
