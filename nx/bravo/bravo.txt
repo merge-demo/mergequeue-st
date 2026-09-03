@@ -6581,7 +6581,7 @@ birotation 2
 blotter 1
 bluff 4
 betons 2
-blastular
+blastular 1
 bere 1
 butterbox
 brotula 3
@@ -9705,7 +9705,7 @@ bismite
 bismuthal 3
 bumblefoot 1
 bismuthate
-becurl 1
+becurl 2
 burhinus 1
 birchbark 1
 bismuthide 1
@@ -9826,7 +9826,7 @@ bubblebow 1
 bocca 2
 bitable 2
 bidialectal 1
-bytalks 1
+bytalks 2
 bitanhol 1
 busses 1
 bitartrate 2
@@ -12345,7 +12345,7 @@ brandle
 bantered
 bombycine 4
 bagpiper
-blacky
+blacky 1
 bombilation 3
 bombilla 1
 bizygomatic 1
