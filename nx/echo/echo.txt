@@ -3632,7 +3632,7 @@ enddamaging 2
 equated 1
 ecocidal
 epitrachelion 1
-eunuchism 1
+eunuchism 2
 embread 2
 earbash
 entrepeneurs
@@ -8218,7 +8218,7 @@ epochal 3
 eure 2
 epigeic 3
 escapado 2
-epitoke 2
+epitoke 3
 esc 2
 epigones 2
 emulate 2
