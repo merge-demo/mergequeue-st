@@ -7871,7 +7871,7 @@ drofland 2
 disard
 desmocyte 1
 dispenser 1
-depopulating 1
+depopulating 2
 dihydrogen
 dewberries
 disbudding
@@ -10738,7 +10738,7 @@ diestrual 2
 dipsopathy 4
 deutonephron 2
 daintiest 3
-dipstick
+dipstick 1
 divinization 4
 dipteraceae 1
 dipterygian
@@ -13188,7 +13188,7 @@ dumaist
 depositive 2
 dhava 2
 dongolas
-diazole 1
+diazole 2
 duoviri
 dovetailed 1
 demoralize
