@@ -408,7 +408,7 @@ burgles 1
 belook
 bacteriorhodopsin 2
 bwana 2
-backlit 1
+backlit 2
 betipple
 bailor 1
 brigadier 1
@@ -3435,7 +3435,7 @@ bindlet
 balister 1
 butyrin
 bullfoot
-biophysically 1
+biophysically 2
 boatshop 2
 bleaching 3
 belzebuth 2
@@ -11228,7 +11228,7 @@ beestride
 bandhava
 bizonia
 bestrapped 1
-blotchiness
+blotchiness 1
 buckeye 2
 becudgeled
 beaker 1
@@ -13783,7 +13783,7 @@ begazes
 buffet 2
 blesseder
 bedlam 1
-bogs 2
+bogs 3
 boatful 3
 brontide
 brachydactyly 1
@@ -14181,7 +14181,7 @@ buckboard 3
 blacken 2
 beseeched
 beadleship 2
-belgophile
+belgophile 1
 bibliopolery 2
 bulbomedullary 1
 bolded 1
@@ -14673,7 +14673,7 @@ brasher
 babylonians 1
 brashiness 1
 besmirchment 1
-bolivianos
+bolivianos 1
 balducta 1
 blepharoadenitis
 bookplates 1
@@ -16102,7 +16102,7 @@ bronzewing 1
 buybacks 2
 bio 1
 bcd 1
-blitzbuggy
+blitzbuggy 1
 baseboard 2
 bassetted
 bothersome 1
@@ -16870,7 +16870,7 @@ breekums 1
 bounders
 buffont 2
 bactericidally
-buffooneries 1
+buffooneries 2
 benzoxycamphor
 balancelle 1
 biotechnologies 3
@@ -17528,7 +17528,7 @@ bides 2
 bibliotherapies 1
 botryoidally 1
 bee 1
-bobadilish 2
+bobadilish 3
 bundlet 2
 braggat 2
 burdensome
@@ -17566,7 +17566,7 @@ beaufort 1
 bouses 3
 blackpoll 2
 burgall 2
-biddance
+biddance 1
 burgamot 1
 betrace 2
 bootjacks
@@ -17636,7 +17636,7 @@ bombic 3
 bisson 3
 bisie 2
 bickerers 2
-bicentenarnaries 4
+bicentenarnaries 5
 barbacou
 benumb 1
 biographer 2
