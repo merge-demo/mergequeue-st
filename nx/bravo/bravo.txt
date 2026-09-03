@@ -2821,7 +2821,7 @@ beisa
 biquadrate 3
 baroswitch 1
 bld 2
-brakie
+brakie 1
 bitis 2
 ballgowns 1
 begalled
@@ -14622,7 +14622,7 @@ biliousness 2
 betrumpet 1
 behorn 1
 brangled
-beanies 1
+beanies 2
 brankie 2
 blurry 1
 branks 3
