@@ -67,12 +67,12 @@ facebow 4
 fenchone 3
 faceharden 1
 flagships 2
-flecken 1
+flecken 2
 facellite 3
 ferrocyanide 4
 furthers
 flysch
-fordeal 3
+fordeal 4
 fullfaces 3
 facundity 1
 facemark 6
@@ -352,7 +352,7 @@ fibrolipoma 5
 facsim
 fluids
 flowerily 2
-fruticant 3
+fruticant 4
 fattiness 1
 foreknowing 4
 faints
@@ -985,7 +985,7 @@ forehook 1
 foglietto 2
 fascicles 2
 flexuose 2
-flatlong 1
+flatlong 2
 fren 1
 fumosity 1
 fretful
@@ -1476,7 +1476,7 @@ furanose 1
 foundering 1
 flocklike 1
 fient 1
-forebodingness 2
+forebodingness 3
 forestology 1
 freebooters 2
 formamido 3
@@ -1674,7 +1674,7 @@ ferineness 2
 fearless 2
 freighted
 forehammer 2
-fondlike 2
+fondlike 3
 frangible 2
 ferrament 2
 fleeching 3
@@ -1999,7 +1999,7 @@ furile 2
 fishgig 2
 fulvid
 feedstock
-floccosely
+floccosely 1
 firespout
 forerake 1
 fitched 3
@@ -2392,7 +2392,7 @@ flinting 1
 flexors 2
 fricandeau 1
 forksful 2
-folksiness 6
+folksiness 7
 foredating 5
 foreordinating 1
 freakpot 1
@@ -2588,7 +2588,7 @@ ferrocyanate 1
 formicid
 ferroelectric 3
 fribblery 1
-fattier 3
+fattier 4
 ferrogoslarite 6
 forcet 3
 franked 1
@@ -3119,7 +3119,7 @@ fairylike 1
 fountainheads 1
 fibrocement 2
 frenzies
-fieulamort 2
+fieulamort 3
 formulas 2
 fibromyotomy 2
 frottages 2
@@ -4231,7 +4231,7 @@ firepinks 3
 fiendishness 3
 fraist 2
 fussification 2
-faulkland 4
+faulkland 5
 foldstool
 flanky 1
 fracases 4
@@ -6252,7 +6252,7 @@ fecit 3
 flamefish 1
 fluoarsenate 3
 fissuring
-ferromagnet 5
+ferromagnet 6
 fedoras 3
 fustigation 4
 fearing 2
@@ -6855,7 +6855,7 @@ farewells 2
 foreporch 1
 fonnish 4
 folios 1
-faradizes
+faradizes 1
 fortuitus 2
 foliose 4
 flachery 3
@@ -6911,7 +6911,7 @@ flintwood
 flosculous 2
 februaries
 feculence 3
-forswear 2
+forswear 3
 foreignization
 footsie 5
 freewomen 1
@@ -9326,7 +9326,7 @@ foldwards 3
 fasinite
 fogrum
 foldboats 1
-fistulization
+fistulization 1
 filthiest
 frances 3
 figurants 4
@@ -11539,7 +11539,7 @@ foreremembered 6
 fab 5
 furtiveness 1
 frena 4
-foxfeet 2
+foxfeet 3
 fuselages
 fuselike 1
 fermentations 1
