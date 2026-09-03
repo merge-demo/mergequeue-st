@@ -1030,7 +1030,7 @@ calathos
 crapshooter
 cyrilla
 capsulated 1
-cher 1
+cher 2
 compression
 calathus
 croconate
@@ -1060,7 +1060,7 @@ chiliaedron 1
 calcariferous
 cribo
 choristry 1
-calcariform
+calcariform 1
 chugalugs 2
 calcate 2
 cadish
@@ -8931,7 +8931,7 @@ chargehouse 1
 charger
 charges
 charybdian
-cryptophyceae
+cryptophyceae 1
 crankman
 charybdis 2
 chestnutty 1
@@ -28757,7 +28757,7 @@ crept 3
 canters 1
 circaetus 1
 compendiary
-cavitate 1
+cavitate 2
 cornutine 2
 chafer
 crepusculine 3
