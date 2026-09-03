@@ -1344,7 +1344,7 @@ eights 2
 epode 3
 exonerates
 encloser 2
-endoskeletal 1
+endoskeletal 2
 essentialness 4
 exomis 1
 estrone 1
@@ -3874,7 +3874,7 @@ existents 3
 enfeebled 2
 eclipsis 4
 executers 1
-endodontic 3
+endodontic 4
 emigration 2
 egressive
 equivote 1
@@ -5014,7 +5014,7 @@ eleutheria
 etudes 2
 enunciation 1
 escrod 4
-eavesdrop 3
+eavesdrop 4
 eclecticism 1
 endearingly 2
 exemptible 1
@@ -10610,7 +10610,7 @@ expensing 1
 englobing 3
 elvanite
 enviroment 1
-eledone 2
+eledone 3
 enterpriseless 1
 epiplopexy 3
 esoterize 2
@@ -12266,7 +12266,7 @@ epanalepsis 1
 exocyclica 2
 executress 1
 elshin
-exsurge 2
+exsurge 3
 exch 3
 endosteal 1
 enchases 1
