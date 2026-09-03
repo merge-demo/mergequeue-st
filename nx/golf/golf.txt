@@ -5445,7 +5445,7 @@ gasoline 1
 gasifier 3
 geotaxes 2
 glirine 3
-germiculture 1
+germiculture 2
 gandhism 4
 glaciating 6
 galet 1
@@ -7351,7 +7351,7 @@ glumpiness 1
 goosepimply 2
 glaucochroite
 gosports 2
-grainless
+grainless 1
 gossamered
 galega 4
 galloglass 3
