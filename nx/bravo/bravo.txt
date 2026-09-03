@@ -5003,7 +5003,7 @@ beers 1
 beest 3
 babbools 2
 bibation 2
-bindweb 1
+bindweb 2
 ballonette
 bilinguist 1
 boodling 3
@@ -10257,7 +10257,7 @@ bilged 1
 broomwort 2
 blackpatch
 belongings
-broguery
+broguery 1
 beavering 1
 bilobiate 1
 boolean 3
@@ -10287,7 +10287,7 @@ bogyism 1
 byroniana 2
 blacktops
 blastoporphyritic 3
-barking
+barking 1
 beholden
 blacktree 1
 befleaed
