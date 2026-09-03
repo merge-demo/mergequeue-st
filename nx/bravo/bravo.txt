@@ -2105,7 +2105,7 @@ benzpyrene
 bannat
 baulky
 bannerline 3
-bannerole
+bannerole 1
 blossomry 1
 bronchus 2
 bcf 3
@@ -6352,7 +6352,7 @@ bananalander 1
 burgher 1
 bemocking
 billsticking 2
-blowspray
+blowspray 1
 boilerful 1
 belite 1
 barani 2
