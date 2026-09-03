@@ -4105,7 +4105,7 @@ anality
 antislip 2
 agentival 1
 admissibility
-asci 3
+asci 4
 admissive 1
 automan
 apholate
@@ -4143,7 +4143,7 @@ affinal 1
 anglification 2
 admonishments 1
 appressor 2
-agrief 1
+agrief 2
 antihypertensives
 antilyssic
 admonitionist 1
@@ -4687,7 +4687,7 @@ attractivity 1
 aedeagi 1
 assyriologist 4
 aviculture
-aedicule
+aedicule 1
 attraction 1
 autem 1
 aedile
@@ -4793,7 +4793,7 @@ aequi
 ausgespielt 3
 aranein 1
 albuminimetry
-allogamy 1
+allogamy 2
 attemperation
 aequor 3
 altitudes 1
@@ -8937,7 +8937,7 @@ achromatizable
 allantoid 2
 admired 1
 arrhythmy
-alloiogenesis 2
+alloiogenesis 3
 assizer 5
 alloiometric 2
 adjustments 1
@@ -10921,7 +10921,7 @@ ammonoidean 2
 anaglyphy 1
 ammonoids
 ammonolitic 1
-assemblage
+assemblage 1
 archeological
 alumine 2
 ammonolytic 2
@@ -10940,7 +10940,7 @@ amnestied
 adulterated 1
 aimer 3
 acneform
-autohypnosis 1
+autohypnosis 2
 alf 2
 affronter
 allamoth 5
@@ -11764,7 +11764,7 @@ anisopleural
 anaglyphs 1
 anaglypta
 azomethine 1
-armorbearer
+armorbearer 1
 appetizement
 acacatechin 4
 ablator 2
@@ -13436,7 +13436,7 @@ ankylostomiasis 2
 ankylotic
 anklejack 1
 ankles
-aetolian
+aetolian 1
 aminase 1
 assimilatory 1
 annalize 4
@@ -14368,7 +14368,7 @@ amnesic 2
 anthypnotic 1
 albanensian
 anthocarp 2
-ascertainability 1
+ascertainability 2
 anthocerote
 asaprol 2
 aquariiums 1
@@ -14980,7 +14980,7 @@ arara 1
 anticonfederative
 anticonformity 1
 anticonscience 1
-antiaristocracy 1
+antiaristocracy 2
 annulled 1
 amidohexose
 antilogy 2
