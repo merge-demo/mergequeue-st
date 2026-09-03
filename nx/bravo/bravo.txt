@@ -1438,7 +1438,7 @@ behaviored 2
 bombastically 1
 boun 3
 balestra 2
-batoneer
+batoneer 1
 bops 3
 bedazzled
 bureaucratical
@@ -1808,7 +1808,7 @@ bambochade 2
 bosuns
 bamboozles
 bamboozling 2
-bilanders
+bilanders 1
 brachman 3
 burdie
 bamboula 1
@@ -2071,7 +2071,7 @@ bicollaterality 1
 bankrolled
 babelism 2
 bankrolling
-bankrupt 3
+bankrupt 4
 bosporan 2
 bibliomaniacal 2
 blurping 1
@@ -3191,7 +3191,7 @@ basial 3
 belove
 basiarachnitis
 bailing 3
-brazening
+brazening 1
 barcan
 balkanizing 2
 baboonroot 2
@@ -3394,7 +3394,7 @@ baculum 1
 benzilic 2
 bassanite 2
 biotechnics 1
-brachydactylia 1
+brachydactylia 2
 bassetta 2
 blockbuster 3
 bandstands 2
@@ -3405,7 +3405,7 @@ bufferrer 1
 balneation 1
 bureau
 bobbishly 1
-bassie
+bassie 1
 betsey 2
 bassinet 1
 blastodermatic 2
@@ -3932,7 +3932,7 @@ beliquor 2
 balaniferous 1
 bookbindery 1
 birdweed
-banksia 1
+banksia 2
 biassedly 3
 bch 2
 borsholder 1
@@ -4078,7 +4078,7 @@ buckwash
 bskt 1
 baragnosis 1
 blitzkrieged 3
-beams 1
+beams 2
 bean 1
 boldness
 begottenness 1
@@ -4423,7 +4423,7 @@ brandering
 budapest 2
 barrators
 bitstone 1
-bkcy 3
+bkcy 4
 blubberer 3
 batis
 befleas 1
@@ -5254,7 +5254,7 @@ backmost 3
 blastocyst 2
 bolters 2
 bioblast 2
-bestraddle 1
+bestraddle 2
 bastes 6
 bothsided
 begazing 1
@@ -6646,7 +6646,7 @@ bargeboard
 barbarious
 beriberis 2
 bevesseled 2
-beerier 1
+beerier 2
 berycid
 busyhead 2
 bovld
@@ -10926,7 +10926,7 @@ bombers 2
 bookful 1
 blindstories 1
 benzoin 1
-brede 1
+brede 2
 blindweed 1
 blindworm
 backscratcher 2
@@ -11133,7 +11133,7 @@ bobadilism 1
 bygane 2
 barotaxy
 bolivian
-bloodcurdling 2
+bloodcurdling 3
 bumblekite 1
 booboos 2
 bloodiness
@@ -14109,7 +14109,7 @@ barytine 2
 boarders
 baseball 1
 brachygraphical 2
-bikol
+bikol 1
 berlinite 1
 burkites 3
 behaviour 1
@@ -14343,7 +14343,7 @@ biznaga 1
 boatowner 2
 blubbing 1
 barefit 1
-brahmachari 2
+brahmachari 3
 blacklist 2
 brahmana 1
 balloonful 1
@@ -15967,7 +15967,7 @@ bellota
 bronchadenitis 2
 bimetallistic
 bilaciniate 1
-begrudge 1
+begrudge 2
 brooding 2
 botswana 1
 batea 2
@@ -18324,7 +18324,7 @@ buttony 2
 bluenosed
 brink 5
 buttoning
-banked 3
+banked 4
 bioelectricities 4
 blennuria
 boobery
