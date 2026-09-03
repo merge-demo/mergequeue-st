@@ -721,7 +721,7 @@ baddies 5
 boral
 bade
 badness
-buckbrush
+buckbrush 1
 baff 2
 blueish
 baboen 2
@@ -7931,7 +7931,7 @@ bargains 2
 bibliopole 2
 birdieback 1
 beclasp 2
-boogers 1
+boogers 2
 brambleberries 3
 billetty 1
 bibliopolically 3
@@ -8219,7 +8219,7 @@ broadwayite 2
 bifilar 2
 bifilarly
 biflabellate
-blowtorch
+blowtorch 1
 biflagelate 1
 bewaring
 borrow 1
@@ -11666,7 +11666,7 @@ beigy 1
 boatmanship 3
 biogenetic 1
 boats 1
-boatsetter 2
+boatsetter 3
 bisymmetric 1
 badju
 bougeron 1
@@ -15602,7 +15602,7 @@ bewilder
 bouget 1
 biliprasin 2
 bromlite 3
-bird 2
+bird 3
 bloodwort
 benthon
 bescent
@@ -17365,7 +17365,7 @@ basiotribe 2
 breviary
 burganet 1
 beneplacity 3
-bentincks 1
+bentincks 2
 becrawled 1
 beachier 1
 bogledom
