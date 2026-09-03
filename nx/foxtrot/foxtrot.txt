@@ -1676,7 +1676,7 @@ freighted
 forehammer 2
 fondlike 3
 frangible 2
-ferrament 2
+ferrament 3
 fleeching 3
 furnace 2
 fingertip 5
@@ -1988,7 +1988,7 @@ functionalize 3
 frigiferous 3
 filmmaker 2
 flannelette 3
-ferocactus 3
+ferocactus 4
 fireball 3
 fravashi 3
 frden 4
@@ -2485,7 +2485,7 @@ fris 1
 factitiously 2
 flea 4
 fibrinoid 1
-fry 1
+fry 2
 furison 3
 funs
 fernshaw 2
@@ -4868,7 +4868,7 @@ froglet 1
 ferocities
 formalness 1
 followable 1
-flails 2
+flails 3
 feuilletonism 2
 furoic 2
 fourteen 2
@@ -6407,7 +6407,7 @@ furry
 formalization 1
 frogspawn 1
 flexura
-fafnir
+fafnir 1
 fecundatory 3
 formularization 1
 flathead 1
@@ -6532,7 +6532,7 @@ firebed
 forecover 3
 fricasseed 2
 flutterboard 3
-faucal
+faucal 1
 fluotantalate 7
 fraxinella 3
 flutteriness 1
@@ -9786,7 +9786,7 @@ flushing 4
 frenetically 1
 forlorner 1
 frenula 1
-frenular 4
+frenular 5
 feather 3
 footlicker 5
 followup 3
@@ -10035,7 +10035,7 @@ fliest 2
 fairness 2
 footprint 2
 footpaths 1
-foreshroud 1
+foreshroud 2
 framableness 2
 fenceless 2
 fanga 4
@@ -10362,7 +10362,7 @@ fingering 1
 forecourt 2
 feaze 1
 foss 3
-friseur
+friseur 1
 forewarning 2
 fiaunt 2
 fraenula 5
@@ -10639,7 +10639,7 @@ flucan
 forcipulate 2
 fishifying
 festooned 1
-freeby 2
+freeby 3
 forerunner 2
 farceurs 1
 flative 2
