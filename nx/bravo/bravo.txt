@@ -5927,7 +5927,7 @@ blitzkrieg 2
 butterroot 1
 belast 2
 berber 1
-brandenburgs 3
+brandenburgs 4
 biggety 1
 buffaloes 1
 beltane
@@ -9184,7 +9184,7 @@ biotins 2
 basics
 beefhead 2
 biogeographer
-biotypes
+biotypes 1
 browbeats 2
 brickred 1
 biotypic
@@ -9800,7 +9800,7 @@ bystreet
 bistres 3
 boeotarch 1
 brights 1
-borg 2
+borg 3
 bewitching
 barleymow
 beanpoles 1
@@ -13720,7 +13720,7 @@ bentstar 1
 buchanan
 bourtree 1
 bombination 2
-barrenly 1
+barrenly 2
 ballyhooing 1
 betallow 1
 bookplate
@@ -14829,7 +14829,7 @@ bosh 1
 bilgewater
 browbound
 biotech 1
-braziletto 1
+braziletto 2
 belletristic 2
 boildown 2
 brazilite 1
@@ -15375,7 +15375,7 @@ barramunda
 bandylegged 4
 bradylalia 1
 blisterwort 2
-bohorok 1
+bohorok 2
 brieflessly
 besieges 1
 briefness 5
@@ -17381,7 +17381,7 @@ bijection 2
 biathlons 3
 butteries 1
 brachistochronic 1
-beignets 1
+beignets 2
 bottles 2
 bejeled 2
 bungling 2
