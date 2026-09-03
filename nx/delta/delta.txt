@@ -1294,7 +1294,7 @@ disband
 demigardebras
 dissyllabize 3
 dardanarius
-derate 1
+derate 2
 disturbed 2
 daturism 3
 delusive 2
@@ -2350,7 +2350,7 @@ disappointments
 dwarfest
 dielike
 databases 2
-dissociant
+dissociant 1
 daphnid 1
 decadally
 devocalising 1
@@ -5093,7 +5093,7 @@ disulphoxide
 discovers 2
 detachedly 1
 deadened
-dendromecon
+dendromecon 1
 dendron 1
 dindled
 downgrading 1
@@ -5312,7 +5312,7 @@ deadheadism
 dentelure 1
 duftry 3
 dealable
-derider
+derider 1
 dorsimesal 3
 disblame
 daraf 2
@@ -5418,7 +5418,7 @@ dejunkerize 1
 detectably 1
 deoppilate
 dep
-deorganization 3
+deorganization 4
 decolouriser 2
 doubtfully 2
 documentarian 3
@@ -6288,7 +6288,7 @@ deutzias 1
 dryophyllum
 disload 2
 dermatozzoa 2
-dermatrophia 1
+dermatrophia 2
 disgrade 1
 dephlegmatory 4
 dermenchysis 1
@@ -7183,7 +7183,7 @@ disguisements 2
 deacetylation 2
 desmid
 dogmen
-dossed
+dossed 1
 denuclearizing
 djibbah 1
 detachedness 3
@@ -16858,7 +16858,7 @@ dissociable 1
 disring 1
 dendrodus
 diaphanoscopy 2
-deprecatingly 1
+deprecatingly 2
 drumbeat
 darbukka 3
 drawliest 1
