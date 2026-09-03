@@ -3810,7 +3810,7 @@ carbodynamite
 carbohemoglobin 1
 calamodendron 1
 cribbling 1
-carbohydrase 1
+carbohydrase 2
 cannibalism 4
 cardioncus
 carbohydrate
@@ -14013,7 +14013,7 @@ celtium 2
 cipo 1
 conservatist
 catstitch
-cippus
+cippus 1
 confirmative 1
 cilioflagellata
 chitra 1
@@ -25466,7 +25466,7 @@ cornrow 1
 cosmotheist
 cornstalks 3
 cebian
-cornstarch 1
+cornstarch 2
 cornstone
 cajang 2
 czars
@@ -27168,7 +27168,7 @@ clientless
 cellulate 1
 countersuit 2
 cubehead
-countersun 1
+countersun 2
 countersunken 1
 calfdozer
 cava
