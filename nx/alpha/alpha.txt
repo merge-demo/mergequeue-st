@@ -7297,7 +7297,7 @@ alarm
 assumably 2
 alarmclock
 alexanders
-abamps
+abamps 1
 alarmedly
 alarmingly 2
 aftercure 1
