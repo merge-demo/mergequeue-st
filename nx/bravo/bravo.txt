@@ -1054,7 +1054,7 @@ bad
 bailers 1
 brees 1
 bunglings
-bailiaries 2
+bailiaries 3
 botargos
 bailiffs 1
 blennorrhea 2
@@ -10179,7 +10179,7 @@ basketballs
 blackfellows
 bosker 1
 biochemical 1
-breechcloth 4
+breechcloth 5
 bellatrix 1
 bas 2
 banak 1
@@ -10261,7 +10261,7 @@ broguery
 beavering 1
 bilobiate 1
 boolean 3
-bellweather
+bellweather 1
 bulldogs 1
 beheads 2
 biborate 1
@@ -12528,7 +12528,7 @@ befavor
 brunizems 2
 bonewort 1
 barbellulae 1
-backdoor 1
+backdoor 2
 blazed 1
 bonfires
 benchy 1
