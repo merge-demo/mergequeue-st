@@ -539,7 +539,7 @@ echinodorus 1
 est 3
 endotheliotoxin 3
 endless 1
-echinoid 3
+echinoid 4
 ethiopians 2
 eavesdropper 1
 encrimson 2
@@ -12580,7 +12580,7 @@ extinction 1
 envied 2
 enherit 1
 electroetching 2
-epistolist
+epistolist 1
 entryman 1
 elkdom 5
 eft
