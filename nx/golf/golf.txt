@@ -1642,7 +1642,7 @@ gamelion 2
 gorkiesque 3
 grates 1
 gif 3
-gastrodermal 1
+gastrodermal 2
 gastrodermis
 gulfweed 2
 galeopithecus
@@ -6446,7 +6446,7 @@ goldener 6
 gypsyhead 2
 gidgee 4
 guary 1
-goldentop
+goldentop 1
 glochideous 1
 gorgonized 1
 governor 4
