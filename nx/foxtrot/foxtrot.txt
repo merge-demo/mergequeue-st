@@ -1513,7 +1513,7 @@ foreseat
 flippant
 fanfaron 3
 foulish 3
-foreshift 1
+foreshift 2
 fauterer 1
 fauteuil 3
 fussy 3
@@ -3484,7 +3484,7 @@ fury 1
 foam
 forger
 ficins 1
-fordays 1
+fordays 2
 floorhead
 formuliser 3
 forjaskit 2
@@ -6091,7 +6091,7 @@ funambule 1
 flauntingly 1
 forsook
 foretriangle 4
-fleyland 1
+fleyland 2
 forecome 1
 focalisation 3
 fouls 2
