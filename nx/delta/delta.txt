@@ -508,7 +508,7 @@ droddum
 descended 1
 dallier 2
 dup 3
-dextromanual 1
+dextromanual 2
 dribs 2
 diminishingturns 2
 discustom
@@ -1013,7 +1013,7 @@ dallies
 dark 3
 dinkeys
 darked 2
-diamine 1
+diamine 2
 darkeys
 daneball
 disruptions 1
@@ -1587,7 +1587,7 @@ deflagrable 3
 debateable 3
 decipolar
 duplicia
-direfulness 1
+direfulness 2
 disenthralled 1
 deadness 1
 direption
@@ -3905,7 +3905,7 @@ dislikeable 1
 dodo 1
 doctorates 1
 donne 3
-delabialization
+delabialization 1
 denigration 2
 delabializing 1
 distensibility 3
@@ -6794,7 +6794,7 @@ drily 1
 dented 2
 dropsonde 1
 dedicates 3
-diaconate 2
+diaconate 3
 desize
 dividuity
 decompositional 2
@@ -15349,7 +15349,7 @@ decylene
 dehumidifies
 diobolon 1
 deciliters 2
-difformity 1
+difformity 2
 dikaryotic
 disencumbrance 2
 domett
@@ -15873,7 +15873,7 @@ dosing 3
 dubs 1
 dehairer
 doped
-dorsiduct 1
+dorsiduct 2
 darjeeling 1
 droop
 dakerhens 1
@@ -16954,7 +16954,7 @@ devisability 2
 dobber 1
 doless 1
 dzerin 2
-dianthaceae 3
+dianthaceae 4
 dyspeptics 3
 directive 1
 disbelieve 1
@@ -17326,7 +17326,7 @@ decapitator 2
 deducible 5
 dromoi 3
 dockize 2
-digitoxigenin
+digitoxigenin 1
 denigrated 1
 dandyish 2
 dromometer 1
@@ -18656,7 +18656,7 @@ drowsily 1
 disubstitution 1
 discountenanced
 deridingly 1
-disseisor 2
+disseisor 3
 devitrification
 decolorize 1
 duvetynes
