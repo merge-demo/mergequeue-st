@@ -3849,7 +3849,7 @@ dismast
 discastle 1
 dictature 1
 dissect 3
-disp
+disp 1
 dyscrasite
 deerdog
 demihogshead
@@ -4665,7 +4665,7 @@ disheveling 3
 ducklar 1
 demivambrace 1
 dorsicollar 2
-darkling 2
+darkling 3
 drusean
 discussment 3
 diminutivize 1
@@ -4725,7 +4725,7 @@ disentitling
 dumontiaceae 2
 democratizing
 democraw 1
-decarbonization 3
+decarbonization 4
 demodectic 2
 disarticulate
 deaved
@@ -5513,7 +5513,7 @@ departmentally 3
 discomfits
 depancreatize 2
 drawrod
-drainermen
+drainermen 1
 deoxygenized 1
 demicolumn
 diffusionism
@@ -5777,7 +5777,7 @@ dichronous 1
 dishful 2
 defeise 1
 dysraphia 1
-disambiguation
+disambiguation 1
 drengh 1
 deploration 3
 disauthentic 3
@@ -6900,7 +6900,7 @@ dognap
 discolors
 dahabiyeh
 deadliest 2
-deficit 2
+deficit 3
 desorption
 drollist 1
 discocarpous 2
@@ -9191,7 +9191,7 @@ diecious 3
 diectasis 3
 dead 2
 discretive 2
-druidical 4
+druidical 5
 damascenes
 discase
 dermomuscular 1
@@ -9627,7 +9627,7 @@ dihydrostreptomycin
 dihydrotachysterol 1
 dhaks 1
 dihydroxyacetone
-defaceable 1
+defaceable 2
 dihydroxysuccinic 3
 dulse 2
 digitise
@@ -10851,7 +10851,7 @@ dirked
 dhabb
 desilicate 2
 drawbored 4
-dwayne
+dwayne 1
 disthene 1
 disguisable
 dicaryophyte 3
@@ -14757,7 +14757,7 @@ desertrice 3
 deamidation 1
 dentilated 1
 docimastical 3
-docimology
+docimology 1
 docious 3
 deflowering 2
 docity
