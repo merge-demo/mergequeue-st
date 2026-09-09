@@ -269,7 +269,7 @@ fax 3
 flagarie 2
 fideism 1
 fissle 4
-fledges 5
+fledges 6
 fungoids 2
 fragmentisation 4
 fraenums 5
@@ -1899,7 +1899,7 @@ flybrush 3
 fingerflower 1
 fumbling 3
 fustilarian 3
-frouze 2
+frouze 3
 flyings 1
 foism 2
 fruitless 1
@@ -2051,7 +2051,7 @@ forwander 4
 flatlander 4
 faunlike 1
 fogbows
-fascicule 3
+fascicule 4
 flaunting 3
 forfouchten 3
 feisty 1
@@ -2173,7 +2173,7 @@ foreignership 1
 fractioned 2
 friskest
 folkmoot 5
-fidgetily
+fidgetily 1
 falsities 3
 falutin 6
 fligger 1
@@ -3794,7 +3794,7 @@ freon 1
 ferritization 3
 frizzliest 1
 flanning 2
-fistulate 2
+fistulate 3
 frijolillo 1
 filigreeing 2
 flanconnade 2
@@ -4645,7 +4645,7 @@ fatherless 2
 fourthly 5
 fatale 1
 flange 1
-forages 2
+forages 3
 falconidae 1
 fractonimbus 4
 fivesome 1
@@ -4666,7 +4666,7 @@ freety 3
 filicinean 1
 fearsome 2
 fragmentize 2
-figurante 3
+figurante 4
 flaunched 3
 flections 3
 flexibilities 1
@@ -5279,7 +5279,7 @@ fomenter 3
 ferricyanate 1
 feelinglessly 2
 fibrilation 2
-flawedness
+flawedness 1
 flats 2
 forthcomer
 furfuraceously 2
@@ -5843,7 +5843,7 @@ fayal 2
 foreparent 3
 fuciphagous 1
 feverously 2
-fluochloride 3
+fluochloride 4
 fattening 2
 fervidly 1
 firepower 2
@@ -11619,7 +11619,7 @@ forewinning
 fulgour 1
 formulizer
 fragilely 3
-fermata
+fermata 1
 feedman 1
 fustics 4
 feinschmecker 1
