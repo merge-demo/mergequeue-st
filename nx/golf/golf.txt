@@ -329,7 +329,7 @@ galactagogue 1
 gynandromorphic 4
 gonoblastidial 3
 gesneria 2
-garlic
+garlic 1
 gastrea 3
 goujons 1
 galactocele 2
@@ -897,7 +897,7 @@ grillwork 3
 gotha 1
 gametocyst 3
 gametocyte 5
-gametogenic 2
+gametogenic 3
 gooseflesh 1
 gueparde 1
 geognost 3
@@ -1442,7 +1442,7 @@ gainward 2
 glossarial 1
 gidjee 3
 germiparity 3
-garnishee 1
+garnishee 2
 glovemaker
 guidebookish 4
 geophagous 1
@@ -1512,7 +1512,7 @@ gripers 1
 growed 1
 geez 4
 gilpy 4
-gravaminous 3
+gravaminous 4
 galileo 1
 guitars 2
 galibi 2
@@ -1559,7 +1559,7 @@ gout 3
 guester 4
 gismos 2
 globicephala 2
-gymnura
+gymnura 1
 gauntlet 3
 gutteral 1
 gulanganes 1
@@ -4254,7 +4254,7 @@ grads 1
 gluttonous 4
 garganeys 1
 gustativeness 2
-guiltsick
+guiltsick 1
 gnocchetti 3
 gyrostabilizer 3
 girse 1
@@ -4618,7 +4618,7 @@ glossarian 2
 gerbilles 3
 glyceride 2
 glassin 2
-guisard 4
+guisard 5
 glycuronic
 gradely 1
 graecism 3
@@ -4876,7 +4876,7 @@ gent 3
 gripingly 2
 galangal 4
 grangerizing 2
-gamdia 2
+gamdia 3
 gardens 4
 grenadierly 2
 guddle 3
@@ -5832,7 +5832,7 @@ guilds 3
 geroderma 2
 graffito 3
 glycolaldehyde
-galvanoplastic 1
+galvanoplastic 2
 grundel 2
 gadger 1
 gate 3
@@ -6106,7 +6106,7 @@ geitonogamous 2
 gnomologist 4
 gyroma 1
 greit
-greatly 5
+greatly 6
 goitres 1
 gustoes 2
 gypsoplast 3
@@ -6708,7 +6708,7 @@ gnarrs
 gabbart 5
 glomerate 5
 globulimeter 3
-geyseral 2
+geyseral 3
 gurdfish 3
 gruine 3
 guiltlessness
@@ -7256,7 +7256,7 @@ gourmands 1
 generosity 1
 gribble 2
 gingernut 3
-gemination 1
+gemination 2
 gorgoneion 1
 gammas 1
 gromyl 3
@@ -7514,7 +7514,7 @@ gulpy 1
 gladiatory 3
 goura 1
 glyphography 4
-gonad 2
+gonad 3
 gamesmanship 2
 gymnotidae 4
 gordon 2
@@ -8141,7 +8141,7 @@ granulary 2
 guidebooks 2
 gobs 2
 gorsedd 3
-galactic 2
+galactic 3
 grimed 3
 gastrolavage 1
 gravic 3
@@ -9911,7 +9911,7 @@ geoparallelotropic 3
 gleaming
 gateway 4
 grisailles 4
-granddaddies
+granddaddies 1
 guaranties 1
 gradgrindism 3
 gymnite 2
@@ -10087,7 +10087,7 @@ grammarian
 gatehouse 2
 gekkonoid 2
 gonfaloniership 4
-gasoscope 2
+gasoscope 3
 goalage 3
 glottid 5
 gazetteer 1
@@ -10137,7 +10137,7 @@ gymslip 4
 gasohol 3
 goodmanship 1
 grazers 1
-giddyish
+giddyish 1
 gervao 6
 gloried 4
 glideness 2
@@ -10701,7 +10701,7 @@ glinted 2
 gurshes
 guardhouse 5
 gobbler 3
-gonadectomies 2
+gonadectomies 3
 gyascutus 3
 germanophobic 1
 geothermal 3
