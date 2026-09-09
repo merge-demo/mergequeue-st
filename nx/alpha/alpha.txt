@@ -642,7 +642,7 @@ antidiphtheric 1
 acacetin 1
 amatols 1
 atelomitic 1
-astigmatism 2
+astigmatism 3
 alastrim 1
 astrologic 1
 acetoamidophenol
@@ -2133,7 +2133,7 @@ absconds 2
 airtime 2
 anthologion 2
 aphagia 1
-antenniferous
+antenniferous 1
 apout 3
 auditor 1
 ammonionitrate 1
@@ -2616,7 +2616,7 @@ absolvatory
 antisubmarine 1
 antagonisms 2
 accoutering
-allylene 2
+allylene 3
 adapting
 alumins 1
 autogeneal 2
@@ -2977,7 +2977,7 @@ antiliberalist 2
 acroteleutic 3
 acception
 anteluminary 3
-auxobody 2
+auxobody 3
 ameerate
 acroterial
 aeons 1
@@ -5552,7 +5552,7 @@ attenuated 2
 aftergas
 abstractedness 1
 ablings
-articulatorily 2
+articulatorily 3
 afterglow
 aftergrief
 antiendotoxin 1
@@ -8402,7 +8402,7 @@ amarelle 2
 aliquots 3
 aisled 1
 acediast 1
-alismal
+alismal 1
 abnegators 1
 anthrylene
 alismales
@@ -10261,7 +10261,7 @@ ameed
 agamid 2
 attire 2
 anemophile 3
-acidifying 1
+acidifying 2
 aecidiospore
 ameerates
 analgesia 2
@@ -12908,7 +12908,7 @@ aphthitalite 1
 anglepod 1
 anglepods 2
 amianthine
-adffroze 1
+adffroze 2
 arousement 3
 angletouch
 abysses 2
@@ -16235,7 +16235,7 @@ agriculturally 2
 antisterility 1
 ardelio 4
 araceous 2
-antistock
+antistock 1
 acetylator 3
 antistreptococcin
 alligation 2
@@ -16509,7 +16509,7 @@ antioxidant 1
 ampholyte 1
 anxiously
 anxiousness
-antifogmatic 1
+antifogmatic 2
 accountment 1
 abbesses 1
 agalactia 2
@@ -18890,7 +18890,7 @@ audient 2
 antipolitics 2
 archidoxis
 astoned 1
-airy 1
+airy 2
 annual 1
 archmonarchist
 alights 1
@@ -22680,7 +22680,7 @@ ateuchi 4
 atherosclerosis 1
 advancer 2
 atherosclerotic 2
-acerbic 1
+acerbic 2
 absent 2
 angulation 2
 aeronomic
