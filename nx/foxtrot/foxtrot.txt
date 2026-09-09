@@ -269,7 +269,7 @@ fax 3
 flagarie 2
 fideism 1
 fissle 4
-fledges 5
+fledges 6
 fungoids 2
 fragmentisation 4
 fraenums 5
@@ -882,7 +882,7 @@ firmland
 fanums 2
 fenberry 5
 falangism 3
-fadaise 4
+fadaise 5
 fleabug 1
 ferrate 4
 faquir 1
@@ -2451,7 +2451,7 @@ faitery
 foreproduct 2
 fermentable 4
 fermentativeness 1
-faradize
+faradize 1
 falus 5
 footbridges 3
 fermentescible
@@ -2629,7 +2629,7 @@ foraminated 1
 folkfree 2
 fulful
 flashly 2
-framesmith 2
+framesmith 3
 fibrinogenic
 fervent 1
 formalizable 2
@@ -4345,7 +4345,7 @@ forgetter 1
 foresleeve 1
 finagle 4
 feebler 3
-foraramina 2
+foraramina 3
 fylfots 1
 foreacquaint 3
 fencer 4
@@ -4625,7 +4625,7 @@ fitchered 1
 foolfish 2
 fitters 1
 foxery 2
-fifo
+fifo 1
 formazyl 2
 francophilism 1
 firked 2
@@ -5087,7 +5087,7 @@ frother 1
 fuss 1
 flanders 2
 factorials 2
-felter 1
+felter 2
 forvay 6
 flarer 3
 funorin 4
@@ -5326,7 +5326,7 @@ fant 1
 forcepslike 3
 foulmouthedly 3
 flimflam
-focusses 2
+focusses 3
 flightworthy 4
 fldxt 1
 frower 2
@@ -5662,7 +5662,7 @@ fishable 1
 furriners 3
 fud 2
 fulguration 4
-fluidising 2
+fluidising 3
 fireable 3
 flimsiness
 fairleads
@@ -8075,7 +8075,7 @@ foresteep 2
 flockmaster 2
 feyest 1
 flowerist 1
-frontward 2
+frontward 3
 fellahs
 foreutter 2
 fennoman 1
@@ -9319,7 +9319,7 @@ framer 4
 filigrain 2
 frames 1
 forename 2
-footmenfootpad 1
+footmenfootpad 2
 fungologist 2
 fumarine 2
 foldwards 3
@@ -11088,7 +11088,7 @@ foster 2
 fogbow 2
 fezzy
 frameae 3
-fellsman 2
+fellsman 3
 flaminica 3
 fractionated 2
 forficated 1
@@ -11180,7 +11180,7 @@ fiddly 1
 force
 frowy 2
 fungation 2
-fungia 2
+fungia 3
 fremdness
 flyblowing 3
 fungian
@@ -11619,7 +11619,7 @@ forewinning
 fulgour 1
 formulizer
 fragilely 3
-fermata
+fermata 1
 feedman 1
 fustics 4
 feinschmecker 1
