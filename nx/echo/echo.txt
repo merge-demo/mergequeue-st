@@ -734,7 +734,7 @@ effaces 1
 endermatic
 effascinate 2
 exuvium
-ecotype 1
+ecotype 2
 ecotipically 2
 ecotypically 3
 enterauxe 1
@@ -4241,7 +4241,7 @@ eptatretus 3
 emulsion 1
 etherene 1
 esotrope 1
-echoless 2
+echoless 3
 excruciatingly 1
 erysibe 1
 earjewel 1
@@ -4500,7 +4500,7 @@ externize 3
 enureses 2
 emplaned 1
 embarkation 3
-edomite 2
+edomite 3
 ethics
 epionynychia
 euphony 2
@@ -6818,7 +6818,7 @@ exults
 epidermoidal 1
 exody 1
 educability 4
-entomologist
+entomologist 1
 entrap 2
 entomologized 2
 enstatolite 1
@@ -7113,7 +7113,7 @@ empassion
 eglandulous 1
 expirer 3
 equestrians
-enwinding 1
+enwinding 2
 elemis 3
 entomoid 1
 emboltement 4
@@ -11301,7 +11301,7 @@ eutaxy 1
 eikonogen
 evaporates 1
 edp 1
-eimer 1
+eimer 2
 extrascholastic 1
 euphorbine 3
 elbowboard 2
