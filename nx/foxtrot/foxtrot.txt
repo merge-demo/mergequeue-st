@@ -882,7 +882,7 @@ firmland
 fanums 2
 fenberry 5
 falangism 3
-fadaise 4
+fadaise 5
 fleabug 1
 ferrate 4
 faquir 1
@@ -2451,7 +2451,7 @@ faitery
 foreproduct 2
 fermentable 4
 fermentativeness 1
-faradize
+faradize 1
 falus 5
 footbridges 3
 fermentescible
@@ -2629,7 +2629,7 @@ foraminated 1
 folkfree 2
 fulful
 flashly 2
-framesmith 2
+framesmith 3
 fibrinogenic
 fervent 1
 formalizable 2
@@ -4157,7 +4157,7 @@ fellowcraft 3
 floerkea
 fibrils 1
 faintness 3
-fluophosphate 2
+fluophosphate 3
 foreaccounting
 frequence 3
 fumago 1
@@ -5667,7 +5667,7 @@ fireable 3
 flimsiness
 fairleads
 flinch 6
-flagleaf
+flagleaf 1
 fatted 3
 fishnets 2
 finedraw
@@ -5843,7 +5843,7 @@ fayal 2
 foreparent 3
 fuciphagous 1
 feverously 2
-fluochloride 3
+fluochloride 4
 fattening 2
 fervidly 1
 firepower 2
@@ -11619,7 +11619,7 @@ forewinning
 fulgour 1
 formulizer
 fragilely 3
-fermata
+fermata 1
 feedman 1
 fustics 4
 feinschmecker 1
