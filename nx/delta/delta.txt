@@ -8005,7 +8005,7 @@ desynonymize
 dispersion 1
 dumbhead 1
 dhal 1
-dimension 1
+dimension 2
 dorsointestinal 2
 dhamnoo
 daphnioid
