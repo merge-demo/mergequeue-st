@@ -2634,7 +2634,7 @@ allotriognathi
 assist
 acoustoelectric 1
 acpt
-acquaint
+acquaint 1
 acquaintanceship
 antilift
 acidophilus 2
@@ -20324,7 +20324,7 @@ abacuses
 automatization 4
 anarchic 3
 afley
-aeromedicine
+aeromedicine 1
 aseptol 2
 arrogate 2
 antenarial
@@ -23200,7 +23200,7 @@ attest
 attestable 2
 amphibology 1
 artel 3
-arsonvalization
+arsonvalization 1
 abolla 1
 alytarch
 anisotonic
