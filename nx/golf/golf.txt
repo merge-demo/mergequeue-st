@@ -266,7 +266,7 @@ glyph 2
 grapta 4
 grenada 3
 gnomon
-glauconiferous 2
+glauconiferous 3
 glomeroporphyritic 3
 groser 2
 gigavolt
@@ -1554,7 +1554,7 @@ ghegish 4
 guested 4
 gregarinoidea
 genappe 2
-gluelikeness 1
+gluelikeness 2
 gout 3
 guester 4
 gismos 2
@@ -1605,7 +1605,7 @@ grimines 2
 gastricism 2
 geratologous 1
 glycolipid
-grists 1
+grists 2
 grants
 gamobium
 glossophytia 5
@@ -2444,7 +2444,7 @@ globality 1
 gouvernante 1
 gnathidium 2
 glabrate 2
-girt 3
+girt 4
 germanesque 2
 gillflirt 4
 geoisotherm 3
@@ -3451,7 +3451,7 @@ geriatric 3
 grivoise 1
 graphonomy 4
 genipaps 6
-gnathotheca
+gnathotheca 1
 gestical 2
 gesticulant 3
 grueller 2
@@ -4648,7 +4648,7 @@ gigged 1
 galchic 2
 gifting 6
 generis 3
-gastraeas
+gastraeas 1
 guzmania 1
 galuth 4
 guanacos
@@ -9164,7 +9164,7 @@ gusain 2
 grandnephew 2
 glaceed 1
 garapata 1
-geogonic
+geogonic 1
 gyms
 gouldian
 glauconitization 1
@@ -9513,7 +9513,7 @@ grouser 3
 gorgeted 4
 gyred 3
 gawish 2
-grimp 3
+grimp 4
 giftbook 2
 gymnosporous 1
 granting 4
