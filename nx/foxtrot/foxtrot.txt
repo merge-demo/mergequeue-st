@@ -183,7 +183,7 @@ flashily 1
 feuar 2
 florin 3
 folletage 3
-footstock 2
+footstock 3
 freedwoman 2
 ferns 3
 fluking 3
@@ -349,7 +349,7 @@ fungales
 foredenounce 1
 farandoles 3
 fibrolipoma 6
-facsim
+facsim 1
 fluids
 flowerily 2
 fruticant 4
@@ -1142,7 +1142,7 @@ ferous 3
 familiarities 1
 flowerless 1
 flouters 1
-foveated
+foveated 1
 fistulize 1
 freelovism 2
 fallals 2
@@ -2969,7 +2969,7 @@ fiberize
 fewest 3
 fluke 2
 fissiparity 5
-fewterer 1
+fewterer 2
 frim 2
 fastening 3
 florid 1
@@ -3731,7 +3731,7 @@ forkiness
 flotilla 1
 fillipeen 3
 formanilide 4
-foregirth 1
+foregirth 2
 fays
 fangotherapy 4
 fingallian 4
@@ -5396,7 +5396,7 @@ formable 3
 flecking 2
 firehouses 3
 festivalgoer 1
-fennel 4
+fennel 5
 friending 1
 frigefact 2
 futurity 2
@@ -6656,7 +6656,7 @@ fripperer 1
 foemen
 fogyish 1
 forethoughtfully 2
-fullered 3
+fullered 4
 frankfold 3
 flaringly 2
 foetation 3
@@ -6679,7 +6679,7 @@ fortifier 4
 faqirs 3
 feted 2
 flyblow 2
-flores 4
+flores 5
 fogdogs 3
 fortnightly 2
 frippery 3
@@ -6942,7 +6942,7 @@ formication 1
 ferally 3
 follicular 5
 firebote 1
-folliculated 1
+folliculated 2
 fauna 1
 firepink 2
 feyer 4
@@ -7668,7 +7668,7 @@ foregift 2
 feyness 3
 foregleam
 forst 2
-feudatory 8
+feudatory 9
 factualness
 fables 2
 factualism 4
@@ -11188,7 +11188,7 @@ fondles 3
 felspar 2
 fungibility 4
 fadeout 3
-fideists 3
+fideists 4
 farmer 2
 fungicidal 1
 fungicidally 2
@@ -11637,7 +11637,7 @@ fumy 3
 friendship
 fetlow 1
 frizzled 1
-fineness 1
+fineness 2
 fructoses 3
 ferren
 flyability 2
