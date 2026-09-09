@@ -6842,7 +6842,7 @@ byously
 branchings 1
 blibe 1
 bruchid 2
-benignity 1
+benignity 2
 blackmailed
 bacteriotoxic 1
 benkulen
@@ -8178,7 +8178,7 @@ brontophobia
 bash 1
 banishes 2
 buffalos 1
-byeman
+byeman 1
 ballote 1
 briskish 2
 bienly 2
@@ -16491,7 +16491,7 @@ bishoplet
 borasque 2
 bimillennium 2
 bozal
-biomaterial 1
+biomaterial 2
 breathableness 3
 bequote 1
 biasness 1
