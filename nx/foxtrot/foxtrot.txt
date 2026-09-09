@@ -5667,7 +5667,7 @@ fireable 3
 flimsiness
 fairleads
 flinch 6
-flagleaf
+flagleaf 1
 fatted 3
 fishnets 2
 finedraw
