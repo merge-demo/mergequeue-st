@@ -9605,7 +9605,7 @@ binary 3
 bicapsular
 bandlimits 3
 bisectors
-bisectrices 1
+bisectrices 2
 bednighted 1
 busybodyness 1
 bullheadedness 1
