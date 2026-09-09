@@ -561,7 +561,7 @@ ablend 1
 antecloset 2
 adore 1
 acetolysis 1
-ataraxies
+ataraxies 1
 amidophosphoric 3
 amyotrophia 3
 actualize
@@ -1068,7 +1068,7 @@ aeronautically
 alcoholophilia 2
 abri 1
 absurdity
-assonances 1
+assonances 2
 angiohemophilia 1
 asimina 1
 abt 3
@@ -5980,7 +5980,7 @@ arborization
 azoxyphenetole
 adversary
 apprehensive 1
-atelorachidia 1
+atelorachidia 2
 anhaematopoiesis
 aerogeology
 amphithecial 2
@@ -9970,7 +9970,7 @@ amazer 1
 accented 1
 antihelixes
 amazilia 1
-allovers
+allovers 1
 aphthongal 3
 abayah 1
 antaranga
@@ -11916,7 +11916,7 @@ awink 2
 ancerata 1
 asperous
 adventurer
-arracacha
+arracacha 1
 anserinae
 anamniata 2
 antimonarchy
@@ -14195,7 +14195,7 @@ angelo 1
 algonquian 3
 antepenult 1
 acromyodi 1
-allergic 1
+allergic 2
 amphithere
 abcissa 2
 antepirrhema
@@ -15844,7 +15844,7 @@ appetizingly
 antipyics
 antipyonin 1
 antithrombin 2
-alert
+alert 1
 arbitrages 1
 antipyretics
 antipyrin 2
@@ -19343,7 +19343,7 @@ altarpieces 2
 alcornoque 1
 annoyous 2
 aporphine 1
-aroar 1
+aroar 2
 alike 1
 allalinite
 argaile 2
@@ -21355,7 +21355,7 @@ amphoras 3
 allogenic
 azobacter 1
 acroter
-abattue
+abattue 1
 asyndeton 3
 abditive
 asyndetons
@@ -21474,7 +21474,7 @@ autotransplantation
 appendicostomy 1
 amphiprostyle 2
 aerophysicist 2
-aspermatic
+aspermatic 1
 akhundzada 1
 adrip 1
 aerographies
@@ -24754,7 +24754,7 @@ appleberry 2
 approximated 2
 axonost 1
 auscult 1
-aviations 4
+aviations 5
 aviatoriality
 aviatress 1
 azotises 1
