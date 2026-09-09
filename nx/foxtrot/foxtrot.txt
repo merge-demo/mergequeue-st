@@ -754,7 +754,7 @@ ferv 2
 forelouper 6
 fanciful 1
 footbridge 4
-fanciless 4
+fanciless 5
 foliicolous 1
 forestaff 4
 fandoms 1
@@ -1338,7 +1338,7 @@ fossicks
 fatiguesome 3
 fragmenting
 fishbones
-frundel 1
+frundel 2
 fidate 3
 fruticeous 2
 flaxdrop 2
@@ -1399,7 +1399,7 @@ ferreted 3
 fattest 1
 finickin 3
 floorer 1
-follow 1
+follow 2
 fanwork 1
 fiddled 5
 fisheries 2
@@ -3769,7 +3769,7 @@ fenagle 3
 firstlings 4
 fissurella
 filming 4
-firnification
+firnification 1
 flannelling 1
 frugivora 3
 formativeness 1
@@ -5631,7 +5631,7 @@ fraik 2
 foret
 fleysome 1
 forehock 1
-funicular 2
+funicular 3
 faddiest 4
 florescent 1
 flightier
@@ -5662,7 +5662,7 @@ fishable 1
 furriners 3
 fud 2
 fulguration 4
-fluidising 2
+fluidising 3
 fireable 3
 flimsiness
 fairleads
@@ -6065,7 +6065,7 @@ fenceful 5
 freebooted 1
 fraternate 1
 featness 5
-flocculating 4
+flocculating 5
 frayn 4
 feezing 1
 floridity 2
@@ -6861,7 +6861,7 @@ foliose 4
 flachery 3
 flittingly 2
 forgeman 1
-foliot 2
+foliot 3
 floribunda 3
 forthby 3
 ferritungstite 2
@@ -8075,7 +8075,7 @@ foresteep 2
 flockmaster 2
 feyest 1
 flowerist 1
-frontward 2
+frontward 3
 fellahs
 foreutter 2
 fennoman 1
@@ -9880,7 +9880,7 @@ firings
 frogs 1
 fouler
 fortescue 2
-fordicidia 1
+fordicidia 2
 flaggers
 franklinic
 frib
