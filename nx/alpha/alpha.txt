@@ -1746,7 +1746,7 @@ acier
 alcyoniform 3
 accuracies
 ada
-accursed 1
+accursed 2
 amerikani
 accursedness
 aborter
@@ -2180,7 +2180,7 @@ achilous
 achylous 2
 amakosa 2
 alts
-adawlut 2
+adawlut 3
 arend 1
 apiculate
 achymia
@@ -10393,7 +10393,7 @@ abstentious 1
 aftertax 2
 astigmatizer 1
 approachless
-axwise
+axwise 1
 accredited
 astuteness 2
 apitpat 2
@@ -15821,7 +15821,7 @@ anodize 2
 antiphony 2
 anomorhomboid
 amethystlike
-ambitioning 3
+ambitioning 4
 adolf
 aborigine
 antiphons 1
@@ -16223,7 +16223,7 @@ alkalinised
 adipomatous 1
 antisquatting 2
 athymy 2
-airbound
+airbound 1
 afara 2
 antistadholder 3
 aosmic 1
@@ -21443,7 +21443,7 @@ azarole 1
 antitegula
 authorish 1
 adenopharyngeal 2
-anosmias
+anosmias 1
 asperges 1
 aspergill 2
 aldern 1
@@ -23324,7 +23324,7 @@ amoretto 1
 atropinization 3
 alans
 attunement 3
-anodynes 2
+anodynes 3
 ablation 3
 atua
 atule 3

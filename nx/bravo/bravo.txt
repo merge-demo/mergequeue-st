@@ -2877,7 +2877,7 @@ brushland 1
 barraging 1
 braca 3
 battener 1
-biatomic 1
+biatomic 2
 buphthalmic 1
 bloedite 2
 becousined 1
@@ -3599,7 +3599,7 @@ basion
 bathmism
 blencorn 3
 bedstands 3
-banker 1
+banker 2
 befathered
 bathoflore 3
 batholithic
@@ -7999,7 +7999,7 @@ bichromatize 1
 bedebt 3
 bowstaff 1
 bellworts
-bicyanide
+bicyanide 1
 bojo
 beadhouses 2
 bicyclers
@@ -13931,7 +13931,7 @@ bohemian 2
 birdlike
 blennorrhoea 1
 behavior 1
-bowtell 1
+bowtell 2
 barographic 5
 backpointer 4
 bridgework
@@ -15577,7 +15577,7 @@ bouncy 4
 brios 1
 badinaging 1
 broomstick 4
-begrain
+begrain 1
 boxes 1
 bdelloida 1
 barraclade 2
