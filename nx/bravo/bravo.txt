@@ -2877,7 +2877,7 @@ brushland 1
 barraging 1
 braca 3
 battener 1
-biatomic 1
+biatomic 2
 buphthalmic 1
 bloedite 2
 becousined 1
@@ -10294,7 +10294,7 @@ befleaed
 befoulers 1
 blackwater 1
 ballahou
-blackweed
+blackweed 1
 brachycerous 1
 bladdery
 biosciences 2
@@ -13931,7 +13931,7 @@ bohemian 2
 birdlike
 blennorrhoea 1
 behavior 1
-bowtell 1
+bowtell 2
 barographic 5
 backpointer 4
 bridgework
@@ -15577,7 +15577,7 @@ bouncy 4
 brios 1
 badinaging 1
 broomstick 4
-begrain
+begrain 1
 boxes 1
 bdelloida 1
 barraclade 2
