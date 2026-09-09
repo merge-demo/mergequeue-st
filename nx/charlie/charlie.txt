@@ -34,7 +34,7 @@ caballer
 corrosiving
 cranebill 1
 cineols 1
-causable 1
+causable 2
 cherrystones
 cocozelle
 caballero 1
@@ -201,7 +201,7 @@ cellulifugal
 couteaux 1
 cotutor 1
 certifiableness 1
-committal
+committal 1
 cohort
 cabresta 1
 cabrestas 2
@@ -1330,7 +1330,7 @@ cravatted
 crab 2
 costliest 1
 catachrestical
-contrist
+contrist 1
 cesarolite 1
 caliburno 1
 colossuses
@@ -3751,7 +3751,7 @@ caravanserai
 chromoxylography
 caravanserial
 companeros 1
-caravel
+caravel 1
 caravels
 cosen 2
 caraway 1
@@ -8564,7 +8564,7 @@ countercross
 chandul 1
 chane 3
 caitiff
-chanfrons 1
+chanfrons 2
 capitelliform
 changeable 1
 carcharodon
@@ -8645,7 +8645,7 @@ chanticleer
 chanticleers 2
 chantier 1
 curiousness
-capreomycin 1
+capreomycin 2
 chanties 2
 chantilly 1
 conformity 1
@@ -18610,7 +18610,7 @@ coinage
 coinages
 coincide 1
 corpulently 2
-coincided 2
+coincided 3
 cobbler
 coincidently
 choicy 2
@@ -27895,7 +27895,7 @@ conquians
 crabut 3
 crabweed
 coreid 1
-crabwise 1
+crabwise 2
 crabwood
 cracca
 craccus 1
@@ -29391,7 +29391,7 @@ cholane 1
 cymoidium 1
 cryptovolcanism
 cryptozygy
-cannele 1
+cannele 2
 cryptozygosity
 cryptozygous 1
 crozle 2
@@ -30463,7 +30463,7 @@ concinnate 1
 colloquist
 chiefless
 copelate 2
-cascables
+cascables 1
 ctenodont 1
 cellulifugally 1
 cymotrichous 2
