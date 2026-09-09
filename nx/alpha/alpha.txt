@@ -2634,7 +2634,7 @@ allotriognathi
 assist
 acoustoelectric 1
 acpt
-acquaint
+acquaint 1
 acquaintanceship
 antilift
 acidophilus 2
@@ -2651,7 +2651,7 @@ acquest
 armenite 1
 actutate
 arriswise 2
-acquiesce
+acquiesce 1
 almoin
 adrian 2
 addiction 1
@@ -3037,7 +3037,7 @@ audience
 alcyon 3
 adrenolytic 1
 actinoblast 1
-arthrodynia
+arthrodynia 1
 actinobranch 1
 aurification 2
 abdication 1
@@ -3642,7 +3642,7 @@ aepyornis 1
 agelessly 1
 adelomorphic
 aeolididae
-adsorbing
+adsorbing 1
 adamhood 1
 amputating 2
 antimonite 1
@@ -4681,7 +4681,7 @@ aecidial
 archical
 adducts 1
 asynchrony 1
-aglare 2
+aglare 3
 alismad
 attractivity 1
 aedeagi 1
@@ -5394,7 +5394,7 @@ aptotic
 agnosticism 2
 agglutinable 1
 affriended 2
-applying
+applying 1
 aggrandizable 1
 affrightful
 affydavy
@@ -5649,7 +5649,7 @@ amnesics
 afterward 1
 afterwise 1
 afterwit
-afterwork
+afterwork 1
 agathodemon 1
 apinage 2
 aint 2
@@ -6275,7 +6275,7 @@ amylin 2
 agonizer 2
 avenged
 aunjetitz 3
-administers
+administers 1
 agonizingly
 alphabetise 2
 absolver 3
@@ -8616,7 +8616,7 @@ agnoites 1
 aegagropiles 1
 allassotonic
 alleviations 1
-allatrate 1
+allatrate 2
 abaction
 autosuggestibility 1
 admitty
@@ -18740,7 +18740,7 @@ archdefender 1
 agenesia 1
 acotyledonous
 archdetective 1
-amputee
+amputee 1
 apurpose
 ammonobasic
 archdiplomatist 1
@@ -19734,7 +19734,7 @@ arithmograph
 arithmography 1
 azulejos
 aggressiveness 1
-arithmomancy 2
+arithmomancy 3
 arivaipa
 amphoral
 anhistous 4
@@ -20324,7 +20324,7 @@ abacuses
 automatization 4
 anarchic 3
 afley
-aeromedicine
+aeromedicine 1
 aseptol 2
 arrogate 2
 antenarial
@@ -20888,7 +20888,7 @@ archshepherd
 asarin 2
 antimaterialistic
 asarite
-anatomizable 1
+anatomizable 2
 ablastemic 1
 amoebean
 ascare 1
@@ -23200,7 +23200,7 @@ attest
 attestable 2
 amphibology 1
 artel 3
-arsonvalization
+arsonvalization 1
 abolla 1
 alytarch
 anisotonic
@@ -24587,7 +24587,7 @@ anachorism 3
 auxotonic 1
 annihilator
 auxotroph 4
-aul 1
+aul 2
 auxotrophy 1
 absinthiate
 armorist

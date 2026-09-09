@@ -285,7 +285,7 @@ fiddlesticks 1
 fleabitten 3
 fertilization 3
 forehall 1
-frescoist 1
+frescoist 2
 forthputting
 foaming 2
 faired 2
@@ -868,7 +868,7 @@ forestlike 2
 fatheads 2
 featural 3
 flatheads 2
-fortake 5
+fortake 6
 fishhook 3
 februarius 2
 forcive 3
@@ -907,7 +907,7 @@ foragers 1
 fed 3
 fasola 1
 fourchite
-fortunateness 5
+fortunateness 6
 forms 2
 flightless 1
 faxing 1
@@ -969,7 +969,7 @@ fontanges
 flamiest 7
 filmsets 4
 foreshop 1
-factabling 1
+factabling 2
 fulmina 2
 foreplan
 formate
@@ -1223,10 +1223,10 @@ faradism 3
 futteret 4
 fama 5
 favella 4
-forevouch 2
+forevouch 3
 footwall 4
 fatuate 3
-fearful 3
+fearful 4
 flatten 2
 filmdom 1
 frostier 5
@@ -1280,7 +1280,7 @@ finality 3
 fibromata 2
 foreconsent 3
 feculency 5
-fulvous 5
+fulvous 6
 flear 1
 flirtation 1
 fluoridised 1
@@ -1755,7 +1755,7 @@ fluoridates 3
 featheriness 1
 frogface
 foreslack 1
-forsterite 3
+forsterite 4
 farfet 1
 farsalah
 forlorn 1
@@ -5128,7 +5128,7 @@ forewords 1
 furler 3
 fregit 3
 farmhousey 3
-fraile 2
+fraile 3
 flashings 2
 fulgently 1
 flashlight 3
@@ -8728,7 +8728,7 @@ fathomable 2
 forthgo
 ferreling 3
 footcandle 2
-foxings 2
+foxings 3
 furlong
 fissility 1
 frankhearted
@@ -9472,7 +9472,7 @@ foodstuff 5
 foreteeth
 frary 4
 flouriness 4
-frolicly
+frolicly 1
 forlore 2
 fulsomeness 1
 fenman
@@ -9794,7 +9794,7 @@ fornicate 2
 fraicheur 1
 folklorists 2
 frenzy
-feodality
+feodality 1
 floorshifts 1
 fabrics 1
 familiariser 4
@@ -10343,7 +10343,7 @@ fitten 1
 finary 2
 folksongs 1
 fanged 1
-fingerings 3
+fingerings 4
 fluormeter 3
 ferrates 1
 furculae 1
