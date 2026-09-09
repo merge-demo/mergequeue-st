@@ -156,7 +156,7 @@ factionalism 2
 fullbodied 4
 fabes 1
 felaheen 3
-flightiest 3
+flightiest 4
 foreribs 1
 farcialize 1
 formicaroid 1
@@ -3610,7 +3610,7 @@ flensers
 fragmentised 1
 fableland 1
 fundal 1
-fogus
+fogus 1
 fanwort 1
 figurize 4
 filibusterers 1
@@ -4345,7 +4345,7 @@ forgetter 1
 foresleeve 1
 finagle 4
 feebler 3
-foraramina 2
+foraramina 3
 fylfots 1
 foreacquaint 3
 fencer 4
@@ -4375,7 +4375,7 @@ funt 3
 flagged 2
 frenums 1
 fishbowls 3
-forky 2
+forky 3
 fisheyes 4
 forecomingness 2
 fistify 4
@@ -4625,7 +4625,7 @@ fitchered 1
 foolfish 2
 fitters 1
 foxery 2
-fifo
+fifo 1
 formazyl 2
 francophilism 1
 firked 2
@@ -7429,7 +7429,7 @@ fawnlike 2
 fans 6
 faintful 1
 fleckiest 2
-firefang 3
+firefang 4
 ferrocerium 2
 forwarder 1
 fruitlet 2
@@ -10858,7 +10858,7 @@ fulfiller 3
 flambeaux 6
 fumose 5
 fructifies 4
-fulfillment
+fulfillment 1
 flus 3
 flavorous 4
 ferule 3
@@ -11088,7 +11088,7 @@ foster 2
 fogbow 2
 fezzy
 frameae 3
-fellsman 2
+fellsman 3
 flaminica 3
 fractionated 2
 forficated 1
@@ -11633,7 +11633,7 @@ funestal 1
 finestiller 3
 forehew
 fustigatory
-fumy 2
+fumy 3
 friendship
 fetlow 1
 frizzled 1
