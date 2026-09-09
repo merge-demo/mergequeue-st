@@ -156,7 +156,7 @@ factionalism 2
 fullbodied 4
 fabes 1
 felaheen 3
-flightiest 4
+flightiest 5
 foreribs 1
 farcialize 1
 formicaroid 1
@@ -3185,7 +3185,7 @@ friezes 2
 fibulae
 floodcock
 fishman 3
-furanoses 1
+furanoses 2
 footballist 5
 firma 4
 feministic 2
@@ -4588,7 +4588,7 @@ feetage
 fossilify 3
 fisheye 1
 fieldstone 1
-fistuca 1
+fistuca 2
 freest 3
 finement 1
 filmist 2
@@ -7933,7 +7933,7 @@ friz 2
 footslog 2
 fletching 2
 foreseer 3
-foresees 1
+foresees 2
 fonder
 foreseize 1
 flatteries 2
@@ -8348,7 +8348,7 @@ fireboat
 freestyler 6
 fusspots 2
 forepole 2
-foregame 2
+foregame 3
 fountaining
 fiscalism 3
 forhaile
