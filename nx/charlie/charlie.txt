@@ -34,7 +34,7 @@ caballer
 corrosiving
 cranebill 1
 cineols 1
-causable 1
+causable 2
 cherrystones
 cocozelle
 caballero 1
@@ -4000,7 +4000,7 @@ chuumnapm
 cosmosphere
 corniculate
 coassisted 1
-cajoleries 1
+cajoleries 2
 crotalinae 1
 carcharias
 cerotene
@@ -5076,7 +5076,7 @@ carvoepra
 carwash
 clamatorial
 carwashes 1
-chider
+chider 1
 carzey
 casablanca 1
 casalty
@@ -6765,7 +6765,7 @@ celibacy
 crassly 1
 costard 2
 celibatic
-conducent 1
+conducent 2
 colonopexy 1
 coroun 1
 celibatory 2
@@ -9897,7 +9897,7 @@ calic
 cameograph
 catalogic
 chronobiology 1
-chemosphere 1
+chemosphere 2
 collateral
 cambisms
 chemosurgery
@@ -13316,7 +13316,7 @@ chintziest
 cyclopaedia 2
 cayleyan 1
 carriageless 1
-cyclopaedist
+cyclopaedist 1
 coquito
 clitoria 1
 chinning 1
@@ -13704,7 +13704,7 @@ cinchonidia 1
 cinchonidine 1
 cowleech
 cinchoninic 1
-coronation 1
+coronation 2
 cinchonisation 1
 cinchonise 1
 clause 1
@@ -17866,7 +17866,7 @@ codifications 1
 cycasin
 canis 1
 codifiers 1
-codifies 1
+codifies 2
 cue 1
 codifying
 codilla 2
@@ -20408,7 +20408,7 @@ compactable 1
 cephalalgy
 ca
 coolants 1
-compacter 2
+compacter 3
 chirked 1
 colibertus
 compactible
@@ -25381,7 +25381,7 @@ corneosclerotic 1
 cheer
 cambogias
 counterly 2
-cornigeous 2
+cornigeous 3
 corneosiliceous
 corner 1
 cornerback
@@ -26180,7 +26180,7 @@ chiromancist 1
 cercopidae 2
 cosmonautical
 countdowns
-cosmonautically 1
+cosmonautically 2
 creekside 1
 cervelat 2
 cosmonauts
@@ -27476,7 +27476,7 @@ continuances 1
 couturiere 1
 cankerweed
 couturieres 1
-couturiers 1
+couturiers 2
 chanduy 1
 credenciveness
 curlingly 1
@@ -29348,7 +29348,7 @@ coshering 2
 cryptomonadina
 cryptonema
 concernedness 2
-cryptonemiales
+cryptonemiales 1
 cryptoneurous
 cml 1
 correctitude
@@ -31217,7 +31217,7 @@ czechoslovaks
 cupsful 1
 cupstone
 cupula
-cupulae
+cupulae 1
 cupular 2
 carlines
 cupulate 2
@@ -31539,7 +31539,7 @@ crystallizability 1
 cursoriness
 cursorious 2
 coffeecake 1
-cursorius 3
+cursorius 4
 cleveites
 copse 1
 conjobble 1
