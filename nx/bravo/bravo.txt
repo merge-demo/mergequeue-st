@@ -882,7 +882,7 @@ backband 4
 bagdad
 bunters 1
 begoniaceae 3
-bauxites
+bauxites 1
 bicolour 3
 bagful
 baggagemaster 1
@@ -1455,7 +1455,7 @@ baline 2
 bundahish
 bugler 1
 bloodthirstiest 1
-beacon 2
+beacon 3
 bandh 1
 biogen 1
 bathtubful 2
@@ -1632,7 +1632,7 @@ bromoil
 brahms
 beauties 2
 belimousined
-balloen 4
+balloen 5
 bewray 1
 bullbird
 ballones 2
@@ -2317,7 +2317,7 @@ barbellula 1
 barbellulate
 boozing 1
 blunderings
-blossombill 1
+blossombill 2
 bicarbonates 1
 bermuda 1
 besoothed
@@ -2745,7 +2745,7 @@ brayers 1
 bismutoplagionite 1
 barolo 1
 bm
-benab
+benab 1
 butteris 3
 bonneting 3
 bukeyef
@@ -4409,7 +4409,7 @@ bonzian 1
 bepress 2
 barrable 1
 breechclout
-booleans 3
+booleans 4
 butyrousness
 bouquiniste 2
 bickers 3
@@ -7432,7 +7432,7 @@ becovet 2
 buboes 1
 bashalick 1
 betterment 2
-bepewed
+bepewed 1
 bulbocavernous
 bardic
 brabblingly 2
@@ -8462,7 +8462,7 @@ bildar 3
 bargainwise 2
 berust
 bilder 1
-barostat 1
+barostat 2
 bilders 1
 blighted
 bilection 3
@@ -9131,7 +9131,7 @@ benzomorpholine
 byssine
 bighted 1
 biosociological 3
-bistable 1
+bistable 2
 blurriness
 budzart 1
 balanoglossida
@@ -10797,7 +10797,7 @@ bienvenu 3
 boul
 bavin 1
 beforetimes 3
-baulkier 3
+baulkier 4
 birthrate
 blocks
 bergamo
@@ -12707,7 +12707,7 @@ bungarus 1
 beautifier
 boroughmongering 2
 benchless
-baldachini 1
+baldachini 2
 backhander 1
 bushmaster
 bibulously 2
@@ -12893,7 +12893,7 @@ boophilus
 bedsheet 2
 bovver 1
 bergfall
-bulkin 1
+bulkin 2
 blackcock 1
 basichromatin 1
 brainwater
@@ -13364,7 +13364,7 @@ binding
 bathyorographical
 blastman
 breeders 2
-benightedly
+benightedly 1
 brusquely 2
 bothersomely 1
 belabor
@@ -13394,7 +13394,7 @@ bothrenchyma 2
 bluenoses 3
 billsticker 2
 bandage 1
-benjamite 1
+benjamite 2
 bothriocephalus 4
 brosimum 2
 becut
@@ -15471,7 +15471,7 @@ bacteriophage 2
 benetted 2
 bludgeoner
 bota 1
-bifurcations 1
+bifurcations 2
 battledoring
 brilliancies 2
 backtrack 2
@@ -16735,7 +16735,7 @@ bucktooth
 bronchovesicular 1
 bucktoothed
 bountyless 2
-bicameralist
+bicameralist 1
 bucerotes
 bucku 3
 byrlawman
@@ -16884,7 +16884,7 @@ birostrated 2
 baronages
 balneographer 2
 bedimpling
-bootheel 1
+bootheel 2
 bellona
 buffoonishness 1
 benchwork 1
@@ -18263,7 +18263,7 @@ bivouacs 3
 boathead 1
 bordun 1
 backflip
-butterman 1
+butterman 2
 bootblacks 2
 bastardy 3
 buttermonger
