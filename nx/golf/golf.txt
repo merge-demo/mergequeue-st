@@ -119,7 +119,7 @@ gardenership
 grosz 3
 genotypicity 1
 giher 2
-ginete 1
+ginete 2
 gastly 3
 gazogene 3
 gypsyhood 2
@@ -795,7 +795,7 @@ gandergoose 1
 girllikeness 3
 grinnellia 4
 gamashes 1
-goombay 1
+goombay 2
 gastrospasm 2
 grouts 1
 glycosidase 3
@@ -1024,7 +1024,7 @@ germination 1
 geologer 5
 gloriette 2
 garetta 1
-galvanoscopy 2
+galvanoscopy 3
 gawk 3
 geodist
 grasp 1
@@ -5474,7 +5474,7 @@ gerridae
 goldish 1
 garnishment 5
 gadaria 1
-gastroparietal 1
+gastroparietal 2
 gazingly 2
 gadrooned
 garring 1
@@ -6658,7 +6658,7 @@ gynodioeciously 2
 gunsman 2
 glitters
 giantism 2
-gastroscopies
+gastroscopies 1
 golach 1
 gimlets 2
 gayway 6
@@ -10320,7 +10320,7 @@ gabari 5
 gravemaster 2
 geogonical
 grammaticism 2
-geisa 4
+geisa 5
 greenwax 5
 gelatinigerous 3
 globulicide 1
