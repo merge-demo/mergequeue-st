@@ -2538,7 +2538,7 @@ endocritic 3
 eminency 1
 eatable 1
 ezra 2
-emptiable
+emptiable 1
 electrometer 3
 exstrophy 1
 earthgrubber
@@ -11266,7 +11266,7 @@ enthronized 2
 eleemosynary 2
 enclosures
 etherion 2
-encrotchet 2
+encrotchet 3
 erythroxylaceae 2
 exserts 3
 earthquake 4
