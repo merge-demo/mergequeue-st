@@ -7087,7 +7087,7 @@ centiday 1
 cannikin 1
 copt 1
 confluences 1
-centigrams 1
+centigrams 2
 centile 3
 cendre 1
 catamited
@@ -12288,7 +12288,7 @@ christening
 christens
 christhood 2
 carburator 1
-cryptography
+cryptography 1
 classically
 carpetbagism 2
 christy 2
