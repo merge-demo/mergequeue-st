@@ -1030,7 +1030,7 @@ floter 2
 foredestining 1
 furriery 2
 fiberboard
-fids
+fids 1
 filazer 2
 ferriages 1
 frontons 2
@@ -1151,7 +1151,7 @@ fascine 4
 fishmeals
 furring 2
 fascintatingly 4
-flavopurpurin 4
+flavopurpurin 5
 forcer 1
 filicineae 1
 fraying 3
@@ -1275,7 +1275,7 @@ fatbird 4
 fatefully 1
 fanaticise 2
 findability 3
-fernambuck 2
+fernambuck 3
 finality 3
 fibromata 2
 foreconsent 3
@@ -4176,7 +4176,7 @@ foulmouthed 2
 fictionary 2
 firebug 5
 fumiduct 2
-flagstones 2
+flagstones 3
 fado 4
 fairishness 4
 flickertail 3
@@ -4964,7 +4964,7 @@ floorages 1
 flamingant 2
 foremarch 2
 flaminical 3
-fomenters 2
+fomenters 3
 flowcharting 1
 fintadores 4
 frenulum 3
@@ -5908,7 +5908,7 @@ folgerite 5
 frittered 2
 fencepost 3
 futuristic 4
-foetalism 1
+foetalism 2
 furlers 3
 frangent 3
 formlessness
@@ -5949,7 +5949,7 @@ fiercest
 foolhardily 2
 falseface 3
 freer 2
-fraudlessness 5
+fraudlessness 6
 freehand 3
 feretories 1
 forthinking 1
@@ -7382,7 +7382,7 @@ fistnote 7
 flaccidity 7
 forbidals 6
 fasted
-featous
+featous 1
 foobar 3
 fuage 3
 fotive 2
