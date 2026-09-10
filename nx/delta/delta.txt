@@ -876,7 +876,7 @@ dieback 1
 deuteronomistic
 dummerer 2
 diagnostication 2
-dori 2
+dori 3
 dermotherm 1
 daguerrean 2
 dripproof 1
@@ -5462,7 +5462,7 @@ dolichos 1
 deplorability 1
 digging
 darlingly
-davening
+davening 1
 dermamyiasis 4
 depancreatization 2
 disilluminate 2
@@ -11845,7 +11845,7 @@ dematerialising 3
 disdainer
 dongon
 distrouble 4
-dihelium
+dihelium 1
 diallagoid 1
 disdainfulness 1
 delations 1
@@ -17652,7 +17652,7 @@ dsects
 desmodium 2
 disannulled 1
 dinners 2
-dsname 2
+dsname 3
 dsri 1
 defeminization 3
 daisybush
