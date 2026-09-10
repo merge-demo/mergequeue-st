@@ -310,7 +310,7 @@ flchette 3
 fplot 5
 fluxionary 1
 feods 3
-forces 3
+forces 4
 fail 3
 fireplough 4
 faineancy 4
@@ -2906,7 +2906,7 @@ featuring 2
 feudalists 6
 fractionising 2
 freetrader 5
-fomentations
+fomentations 1
 foregahger 1
 featherweights 1
 frumpiness 1
@@ -5203,7 +5203,7 @@ foliaging 4
 frontierlike 4
 frivolers 2
 foreclaw 3
-filaree 2
+filaree 3
 fuchsia 2
 familarity 3
 fieldwork
@@ -7605,7 +7605,7 @@ foredefeated 7
 frankheartedness 2
 fatuity 6
 footslogs 2
-flacherie
+flacherie 1
 forjudgment 4
 fatimid 2
 foredoomer 2
@@ -8710,7 +8710,7 @@ freelance 1
 flexuous 3
 frape 1
 fistuliform 1
-fluidal
+fluidal 1
 floured 2
 ferroprint 3
 filthier 3
@@ -8844,7 +8844,7 @@ fixedly 1
 firebombing 1
 forgers 1
 foreprise 2
-fusarium 1
+fusarium 2
 filletster 3
 firry
 flashtube
@@ -9810,7 +9810,7 @@ feldspar 4
 functionalities
 frapp 3
 fallacies 2
-falchion 4
+falchion 5
 fessways 3
 foolhardiest 4
 fatigability 2
@@ -9921,7 +9921,7 @@ flavanthrone 2
 feedable 1
 fogeys 2
 forepointer 1
-flapdragon 1
+flapdragon 2
 feridgi 7
 forefelt 1
 feterita 3
@@ -10671,7 +10671,7 @@ femininity 2
 freezingly 1
 friandise 3
 fruitbearing 4
-foremark 3
+foremark 4
 frailties 1
 fusc 3
 frankness 3
@@ -10731,7 +10731,7 @@ fleckless 3
 foxier 2
 fatherliness 2
 figent 3
-flayed
+flayed 1
 fitfully 1
 flary 1
 fleckered 4
