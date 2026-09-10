@@ -7563,7 +7563,7 @@ fuzils 1
 flattops 2
 foretake 2
 fructokinase 3
-funebrial 3
+funebrial 4
 forswornness 3
 formers 1
 falconries 1
@@ -8525,7 +8525,7 @@ flustration 2
 frow 2
 figment
 flyting 4
-forked
+forked 1
 formica 4
 foolishly 2
 forewings 2
