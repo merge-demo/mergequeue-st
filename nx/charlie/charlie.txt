@@ -21724,7 +21724,7 @@ condoled 2
 condolence
 condolent 3
 cruiserweight
-cuna
+cuna 1
 condoler
 cohabit 1
 coaxers
@@ -22417,7 +22417,7 @@ conidae
 champlainic 1
 conidioid 1
 conidiophorous 1
-conidiospore
+conidiospore 1
 copy 1
 chutneys 2
 conifer
@@ -23650,7 +23650,7 @@ contrabandery
 cothurnal
 causticiser 1
 coran
-contrabandista 1
+contrabandista 2
 carroccio 1
 constituted 3
 contrabassist 4
@@ -29396,7 +29396,7 @@ cryptozygosity
 cryptozygous 1
 crozle 2
 chanter 1
-chorographic 2
+chorographic 3
 cryptozoic 1
 cryptozoite 1
 cryptozonate 1
