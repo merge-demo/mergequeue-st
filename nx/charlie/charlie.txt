@@ -4061,7 +4061,7 @@ cicatrise 1
 cardamon
 centenary
 cardamum 2
-cardanol 1
+cardanol 2
 chymist 1
 cardboard 3
 crissum 3
@@ -5681,7 +5681,7 @@ casten 1
 catapleiite
 catapulted 1
 catapultic 1
-catapultier
+catapultier 1
 colthood 1
 cataracts 1
 cataractwise 1
@@ -11932,7 +11932,7 @@ choreiform
 consension 1
 choreman
 choreodrama 2
-corkmaker
+corkmaker 1
 choreographed
 choreographer
 cypseloid 1
@@ -17568,7 +17568,7 @@ cacoxene 1
 coccidiosis 2
 coccidium
 coccidology 1
-coccids
+coccids 1
 coccygeal
 coccygean 1
 cornify
@@ -21143,7 +21143,7 @@ concavity 1
 corrupter 1
 cereuses 2
 conceal 2
-concealable 1
+concealable 2
 cowy
 concealedly 2
 concealedness
@@ -21405,7 +21405,7 @@ castleward
 comandante
 convalesce
 churchier 1
-concluded 1
+concluded 2
 concludent 1
 concludently
 contacting 1
@@ -23221,7 +23221,7 @@ constricted 1
 cobby 2
 constricting 3
 constriction 2
-coelomic
+coelomic 1
 constrictive
 constrictor
 creeler
