@@ -419,7 +419,7 @@ frockmaker 2
 fairship 5
 feal
 flitting
-fogmen
+fogmen 1
 fairway 2
 fragilariaceae 4
 fieldbird 2
@@ -1158,7 +1158,7 @@ fraying 3
 friponerie 5
 focalize 2
 funder 3
-forepass 1
+forepass 2
 foochowese 2
 fovea 1
 fascist 1
@@ -1225,7 +1225,7 @@ fama 5
 favella 4
 forevouch 3
 footwall 4
-fatuate 3
+fatuate 4
 fearful 4
 flatten 2
 filmdom 1
@@ -1588,7 +1588,7 @@ fallalery 2
 faniente 5
 favouring 2
 footroom 3
-floriage 2
+floriage 3
 flappier 4
 frijol 4
 fervescence 2
@@ -2134,7 +2134,7 @@ faculous 4
 favours 3
 foddered 3
 fellatrice 2
-fluoresage 2
+fluoresage 3
 frigate 1
 faujdar
 fuchsite
@@ -2429,7 +2429,7 @@ flemishes 3
 furls 1
 fermail 1
 fobbed
-festivities 3
+festivities 4
 fumier 1
 fatigate 3
 freemasons 4
@@ -2639,7 +2639,7 @@ foreshoulder 4
 figuratively 3
 fastidious 3
 frumentation 2
-familiarisation 2
+familiarisation 3
 fundable 2
 forcipulata 4
 farmyardy 3
@@ -2790,7 +2790,7 @@ flareboard 2
 floppier 3
 fraze 3
 festivity 1
-fanaloka 4
+fanaloka 5
 forker 2
 flatly 3
 fluorimeter
@@ -3053,7 +3053,7 @@ forceput 3
 fibred 1
 fibrefill 1
 flushingly 2
-fenestra 1
+fenestra 2
 fasciolidae
 foursquare 1
 fishier 2
@@ -3550,7 +3550,7 @@ filaments
 fistule 6
 flexibility 1
 formularise 1
-filarian 4
+filarian 5
 fattily 3
 formfeed 2
 fluoryl 2
@@ -3594,7 +3594,7 @@ flank 2
 fructification 1
 felinity 1
 floorway 3
-files
+files 1
 filesniff 5
 freijo 4
 fazing 2
@@ -5777,7 +5777,7 @@ foge
 fondouk
 freckliness
 foehns 3
-finebent 3
+finebent 4
 finings 1
 ferrochrome
 flitfold 3
@@ -6014,7 +6014,7 @@ fibrinoplastin
 forthrightness 3
 fiducinales 1
 forepoled 1
-fetich 5
+fetich 6
 flitchplate 2
 floral 5
 fennecs 2
@@ -6164,7 +6164,7 @@ flowcharted 2
 fungibles 3
 festivals 3
 fragmentized 5
-flowerage 6
+flowerage 7
 fluxation 2
 forever 1
 flowerers 2
@@ -8670,7 +8670,7 @@ ferryage 4
 faddishly 4
 feelers 3
 felt
-fearfully 3
+fearfully 4
 foredune 5
 fulup
 fringilloid 3
@@ -10251,7 +10251,7 @@ falcated 1
 flaming 4
 frogman 4
 fluoroscopically 1
-fasciodesis 1
+fasciodesis 2
 footboys 2
 frat 3
 fusils
@@ -11011,7 +11011,7 @@ fausen 2
 frostiest 4
 flintiest 1
 foreproffer 3
-foreweep
+foreweep 1
 feastly 5
 furfurol 3
 feign 2
