@@ -1915,7 +1915,7 @@ acestes
 acceleration 1
 adstrict 1
 anthropomorphological 1
-advanced 1
+advanced 2
 acetable
 azodisulphonic 1
 antipopularization
@@ -2120,7 +2120,7 @@ acheron 2
 apostematous 1
 acheronian 1
 asdics
-achroous 2
+achroous 3
 acherontical
 advisors
 aches 1
@@ -2367,7 +2367,7 @@ acidometry 2
 asmear 2
 annelidan
 anacamptically
-acidoses 2
+acidoses 3
 antiradically 1
 afternoon 2
 acidosteophyte
@@ -3676,7 +3676,7 @@ antepectoral 1
 adenocystomatous 2
 adenodynia 1
 antral 1
-arcade
+arcade 1
 aggelation
 attic 2
 amafingo 1
@@ -5471,7 +5471,7 @@ alkalizable 1
 aspout 1
 anthomania
 aquarid
-anastomotic 1
+anastomotic 2
 antirestoration 1
 antiliquor
 anableps 1
@@ -5596,7 +5596,7 @@ afternose 1
 afterpains 1
 auburns 1
 afterpast 1
-afflux 2
+afflux 3
 afterplanting
 absinthium 2
 acknew
@@ -5645,7 +5645,7 @@ absorptivity
 aphototaxis 1
 aftervision
 afterwale 1
-amnesics
+amnesics 1
 afterward 1
 afterwise 1
 afterwit
@@ -7130,7 +7130,7 @@ avicenniaceae
 arctation 1
 akinete 1
 azotes
-akka 2
+akka 3
 akkad
 acuclosure 1
 appense
@@ -20016,7 +20016,7 @@ azonal 2
 auspices 1
 aculeate 1
 archaeohippus
-arretez 1
+arretez 2
 aromas 2
 andi 1
 arsenites 1
@@ -20513,7 +20513,7 @@ arteriorenal
 accentless
 adelia
 amnesty
-airfreight
+airfreight 1
 arteriospasm
 arteriostenosis 1
 aetheogamic
@@ -21290,7 +21290,7 @@ anamneses 1
 assent 1
 acinacifolious
 acroscleriasis
-alpheratz
+alpheratz 1
 averaged 2
 asideu 3
 asylabia 1
@@ -22086,7 +22086,7 @@ armied 1
 adhesives 1
 astereognosis 1
 arthrosporic
-aburban 2
+aburban 3
 asteriidae
 aquatically 2
 aplasia
@@ -25344,7 +25344,7 @@ amphidiscophora 1
 azorite 2
 antigovernmental 1
 azorubine 2
-acylation 1
+acylation 2
 aurantia 1
 answerable 2
 agonising
