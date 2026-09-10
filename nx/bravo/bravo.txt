@@ -6574,7 +6574,7 @@ berchemia
 berdache 1
 battuta 2
 bumblebomb 1
-brazenly 2
+brazenly 3
 berdash 2
 booming 1
 birotation 2
@@ -7321,7 +7321,7 @@ blunter 1
 backage 2
 boletaceous
 bannet
-bugi
+bugi 1
 bethesda 1
 betterer 3
 beneplacit 1
@@ -8100,7 +8100,7 @@ bailments
 bicuspid 4
 bruxism
 brast 2
-biddability 4
+biddability 5
 biddably 1
 benedict 1
 boread
@@ -8819,7 +8819,7 @@ besets 2
 bini 5
 beraking 1
 berakoth 1
-biniou 1
+biniou 2
 binitarianism 1
 beworm 1
 bubonic 3
@@ -9779,7 +9779,7 @@ beliefless 2
 bossies 1
 burdocks
 basifugal
-buffered
+buffered 1
 bistipulate 1
 bistort 1
 bistorts 2
@@ -11809,7 +11809,7 @@ baron
 bluefish 1
 bocconia
 byrl
-bices 2
+bices 3
 bepommel 3
 bystreets
 bullishly
@@ -11874,7 +11874,7 @@ bodywear 1
 benthopelagic 1
 blueprints 1
 buteos 2
-bodyworks
+bodyworks 1
 bodkin
 bodkins 1
 boardlike 1
@@ -13324,7 +13324,7 @@ benzanalgen 4
 brachioradialis
 botanizes
 barramundis 2
-bulbless
+bulbless 1
 balsamed 1
 bacterially
 boatlike
@@ -14351,7 +14351,7 @@ bookboard 1
 bikini 1
 bounciness
 brahmanism
-brahmanist 1
+brahmanist 2
 brachistochronous
 brahmanize 2
 bajoire
@@ -15487,7 +15487,7 @@ beiges 2
 boba
 bravos
 bullule
-bemusing 1
+bemusing 2
 blinder 2
 bilious 2
 brilliantly
@@ -17767,7 +17767,7 @@ breedings
 basyl
 burping 2
 burrbark 1
-bedrolls 1
+bedrolls 2
 balaenoid 1
 burrers 2
 blepharoconjunctivitis
