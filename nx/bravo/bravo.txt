@@ -1151,7 +1151,7 @@ backwall 1
 borates 3
 botete
 bankman 1
-bountree
+bountree 1
 bairnwort
 baisemain 1
 besmears
@@ -1385,7 +1385,7 @@ baldakin
 bathyhypesthesia 2
 blithen 2
 biogeny
-baldcrown 1
+baldcrown 2
 bardily 1
 balded 4
 balder 1
@@ -3694,7 +3694,7 @@ batt 1
 buisson 1
 bammed
 brotulidae 2
-bagwomen 4
+bagwomen 5
 befrilled 2
 braille
 bengals
@@ -4248,7 +4248,7 @@ bawdries 2
 beautydom 1
 butylic 1
 bedung
-begaud
+begaud 1
 begat 2
 beardless 2
 beautified
@@ -12218,7 +12218,7 @@ brachiate 3
 beginner
 bolloxes 2
 barfy 1
-bolls 1
+bolls 2
 bunkum 1
 bollworm 1
 blizzardly
@@ -16302,7 +16302,7 @@ barogram 1
 brickmaker 3
 bardash 1
 brinjaul 2
-bottlehead 3
+bottlehead 4
 browzer 2
 bombycid 1
 biennial
