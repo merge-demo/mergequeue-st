@@ -1874,7 +1874,7 @@ gerbillus 1
 groundable 2
 gowd 2
 gumbos
-grails 3
+grails 4
 grelot 1
 gaudiest 4
 guhr 3
@@ -3714,7 +3714,7 @@ gapping 3
 gastroesophagostomy 3
 gunong 3
 grincome 3
-giantsize
+giantsize 1
 gaub 1
 gonging 3
 genoblastic 2
