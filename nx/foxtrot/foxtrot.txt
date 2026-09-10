@@ -878,7 +878,7 @@ freighters 3
 fibry 1
 foreperiod 2
 farawayness 2
-firmland
+firmland 1
 fanums 2
 fenberry 5
 falangism 3
@@ -4386,7 +4386,7 @@ fertiliser 2
 foretop 3
 froward 4
 frumpily 4
-factually 4
+factually 5
 fraus 3
 feinschmeckers 5
 fishes 4
@@ -5353,7 +5353,7 @@ fraughting 4
 foggily 5
 feedbin 1
 fettles 1
-frayn 2
+frayn 3
 flanken 5
 feebleness 1
 fullmouth 1
@@ -6820,7 +6820,7 @@ folderols 3
 foreheater 1
 foreleader
 foveiform 6
-fjelds 2
+fjelds 3
 frette 1
 fiddlebrained 3
 freeing 3
@@ -7512,7 +7512,7 @@ feathering 1
 feuilletonist
 fribbles 1
 fideos 2
-fleetest 3
+fleetest 4
 flether 2
 figurant
 faultily 3
@@ -10011,7 +10011,7 @@ frantic 4
 favor
 foreshadows 2
 frigidly 2
-federatist 4
+federatist 5
 falloff
 forthfigured 2
 facecloth 2
@@ -11247,7 +11247,7 @@ flemished 4
 fluorescing 2
 funked 2
 finalism 2
-flatbrod 1
+flatbrod 2
 forbearable 1
 funky 2
 filter 2
