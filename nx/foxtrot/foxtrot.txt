@@ -2100,7 +2100,7 @@ facture
 finetop
 fourpence 1
 frump 4
-favorless 3
+favorless 4
 foins 5
 fleshen 2
 frument 1
@@ -6280,7 +6280,7 @@ fortissimos 2
 footlock 4
 fearnought 2
 fakirism 2
-forceful 1
+forceful 2
 fluidounce 5
 factory 3
 fluigram 1
@@ -8452,7 +8452,7 @@ filcher 2
 fullom 3
 futhark 1
 form 1
-fluoroscopes 1
+fluoroscopes 2
 fullerboard 3
 folksy 3
 formalesque 3
@@ -11312,7 +11312,7 @@ finnoc 2
 florikan 1
 fleming 2
 foyer
-fluorotic
+fluorotic 1
 fenagled 4
 fusspot 1
 firearm 6
