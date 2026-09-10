@@ -419,7 +419,7 @@ frockmaker 2
 fairship 5
 feal
 flitting
-fogmen
+fogmen 1
 fairway 2
 fragilariaceae 4
 fieldbird 2
@@ -1158,7 +1158,7 @@ fraying 3
 friponerie 5
 focalize 2
 funder 3
-forepass 1
+forepass 2
 foochowese 2
 fovea 1
 fascist 1
@@ -1225,7 +1225,7 @@ fama 5
 favella 4
 forevouch 3
 footwall 4
-fatuate 3
+fatuate 4
 fearful 4
 flatten 2
 filmdom 1
@@ -1588,7 +1588,7 @@ fallalery 2
 faniente 5
 favouring 2
 footroom 3
-floriage 2
+floriage 3
 flappier 4
 frijol 4
 fervescence 2
@@ -2429,7 +2429,7 @@ flemishes 3
 furls 1
 fermail 1
 fobbed
-festivities 3
+festivities 4
 fumier 1
 fatigate 3
 freemasons 4
@@ -2639,7 +2639,7 @@ foreshoulder 4
 figuratively 3
 fastidious 3
 frumentation 2
-familiarisation 2
+familiarisation 3
 fundable 2
 forcipulata 4
 farmyardy 3
@@ -10251,7 +10251,7 @@ falcated 1
 flaming 4
 frogman 4
 fluoroscopically 1
-fasciodesis 1
+fasciodesis 2
 footboys 2
 frat 3
 fusils

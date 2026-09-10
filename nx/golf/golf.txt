@@ -70,7 +70,7 @@ greffe 3
 gorcrow 1
 glucic
 gandum 1
-gradationately 1
+gradationately 2
 gravelling 2
 graftproof 1
 galliums 2
@@ -2560,7 +2560,7 @@ gargling 3
 globiferous 1
 generant 3
 generate 3
-gaboons 3
+gaboons 4
 gypsiferous 4
 gazetteerage 1
 gomerel 3
@@ -2614,7 +2614,7 @@ goldang 3
 glims
 gymnosophist 3
 genethlic 4
-glossopetra 2
+glossopetra 3
 goatee 3
 glossosteresis 2
 geoagronomic 3
@@ -5756,7 +5756,7 @@ gade 2
 graphites 2
 galusha 1
 gluttonising 3
-gentlemouthed 2
+gentlemouthed 3
 glycogenolysis 2
 goorals 7
 guzzler 3
@@ -6707,7 +6707,7 @@ gyrostats 3
 gnarrs
 gabbart 5
 glomerate 5
-globulimeter 3
+globulimeter 4
 geyseral 3
 gurdfish 3
 gruine 3
@@ -9937,7 +9937,7 @@ graffiti 3
 gumptions 2
 grilladed 2
 guarico 3
-gonidial
+gonidial 1
 graphostatic 1
 grievousness 2
 gritless 5
