@@ -791,7 +791,7 @@ evincibly 1
 electropositive
 eusuchia 1
 eggment 1
-electrophotography 1
+electrophotography 2
 ectasis 2
 endothia 2
 enoil 2
@@ -2417,7 +2417,7 @@ espinel 2
 eucalyptography 1
 erythematous 3
 euphausid 2
-epitaxial
+epitaxial 1
 etherate 1
 earthnut 1
 earmarked 2
@@ -3888,7 +3888,7 @@ eminencies 4
 evendown 4
 exterminating
 eminent 2
-endorsor 2
+endorsor 3
 easternized 2
 esperance 2
 eminently 3
@@ -4865,7 +4865,7 @@ endamebae 2
 equiv 4
 eveck
 eudemons 2
-extradictable 3
+extradictable 4
 endamoebas 2
 endamoebidae 4
 equations
@@ -5940,7 +5940,7 @@ engrosser 4
 earrings 4
 enframing 4
 enigma 2
-egotism 2
+egotism 3
 enjambements 2
 enigmata 3
 eassel 1
@@ -6295,7 +6295,7 @@ eumycetes 4
 equijacent 4
 embowed
 enrut 1
-explainability 4
+explainability 5
 euclidean 1
 ens 2
 emmenagogue 1
@@ -12298,7 +12298,7 @@ exemplarism 4
 epimerite
 exempli
 embodier 3
-evocatrix 1
+evocatrix 2
 everlasting 1
 eggplant 1
 enfoul 2
