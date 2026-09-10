@@ -3837,7 +3837,7 @@ ceratophyllaceae 2
 carbolic 1
 carbolics
 centricity 2
-carbolising 2
+carbolising 3
 cowquake 1
 carbolize
 carbolized 1
@@ -7962,7 +7962,7 @@ crannog
 chabouk 1
 crankshaft
 chabuk 1
-chabuks
+chabuks 1
 chac 3
 chacate
 complainable
@@ -20209,7 +20209,7 @@ commixtion 2
 commixture
 commo 1
 commendatary
-clustered
+clustered 1
 caramelization
 chappie
 cowlick
@@ -27527,7 +27527,7 @@ coveys
 covelline
 covellite
 cartooned 3
-certie 1
+certie 2
 conceptualistic 1
 corpus 1
 canephoros
