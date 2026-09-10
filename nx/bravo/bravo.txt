@@ -4536,7 +4536,7 @@ bondland 1
 betokenment 1
 bogatyr 2
 bushfire 1
-biparted
+biparted 1
 blennenteritis 1
 bodhisattva 3
 bestrided 1
@@ -7773,7 +7773,7 @@ bursarship 3
 balcon 1
 babylonian 2
 byronist 1
-bravure 1
+bravure 2
 barytas
 buckeyed
 biacid 1
@@ -7919,7 +7919,7 @@ bluntishness 1
 brey
 blockhouse 4
 byron 3
-bibliophil 2
+bibliophil 3
 benward 2
 barff 2
 bulbomembranous
@@ -8527,7 +8527,7 @@ bafaro 1
 baronne 4
 birch 2
 butyryl 1
-bisections 3
+bisections 4
 biliteral
 baywood 4
 brownistical 2
@@ -11868,7 +11868,7 @@ benote 2
 bridebed
 beperiwigged 4
 barytocelestine
-bodysurfed
+bodysurfed 1
 bodysurfer 3
 bodywear 1
 benthopelagic 1
