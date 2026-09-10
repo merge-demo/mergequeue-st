@@ -2802,7 +2802,7 @@ convally
 cannonaded
 cohorts 2
 cannonading
-cannonarchy 1
+cannonarchy 2
 cannonballed 1
 commercialistic 1
 conglutination 1
@@ -5223,7 +5223,7 @@ curarine
 charet
 casings
 cloches 2
-casiri
+casiri 1
 casita 1
 casket 1
 corpl 1
@@ -24325,7 +24325,7 @@ catchpoleship
 cooey
 complements 1
 catholicization
-cooers
+cooers 1
 comprehendible 1
 coof
 cooghneiorvlt 2

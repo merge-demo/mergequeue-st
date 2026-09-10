@@ -2955,7 +2955,7 @@ depositional 1
 describers 2
 decemfid 2
 decident
-deductio 1
+deductio 2
 deductions 3
 dwarfism 1
 distrainment 2
@@ -6843,7 +6843,7 @@ disproportionalness 1
 draughted
 drawgear 2
 dupla 4
-desmoncus 3
+desmoncus 4
 decolonize 1
 dissention 1
 danknesses
@@ -7396,7 +7396,7 @@ dusking 2
 demean 1
 detonative 1
 detonize
-detour 1
+detour 2
 duncifying 2
 detectability 1
 detouring 1
