@@ -3455,7 +3455,7 @@ coat 1
 caprylone
 chivarro 1
 counterplan 1
-caprimulgiformes 1
+caprimulgiformes 2
 chinwood
 caprin 1
 candlebeam 1
@@ -4766,7 +4766,7 @@ carpiodes 1
 carpium 1
 cannach 1
 carpocace 2
-cassandras
+cassandras 1
 contagia 1
 cuestas 2
 conscient 1
@@ -5853,7 +5853,7 @@ chemicopharmaceutical
 contraplex 1
 cuemanship 2
 categorization
-coryzal 1
+coryzal 2
 corona
 crumbs 2
 commercia
@@ -6224,7 +6224,7 @@ chateus 1
 caudated
 chibcha 2
 chew 1
-caudation
+caudation 1
 calycophorae 2
 caudatory 2
 cree 1
@@ -12265,7 +12265,7 @@ chrysotis
 cinel 1
 chrissie
 cecotomy
-christadelphian 1
+christadelphian 2
 chumulu 1
 cabrito
 chirimoyer
@@ -16402,7 +16402,7 @@ cantiness
 clitoromaniacal 2
 cephalotribe
 clitter 1
-criniparous
+criniparous 1
 conditivia
 cochleare 2
 cliv 1
@@ -16633,7 +16633,7 @@ clodknocker 2
 curiologic 1
 closable
 closeable 2
-climbingfishes 2
+climbingfishes 3
 closed
 closefistedly 1
 closefistedness
@@ -17448,7 +17448,7 @@ cobang
 confessed
 cobber
 cobbin
-causeries 1
+causeries 2
 cobble 2
 capax 1
 commixes 2
@@ -20339,7 +20339,7 @@ citrullin
 crofts 1
 communiques 1
 coupling 2
-communis 1
+communis 2
 carpeted 1
 communise
 crofting 3
@@ -22653,7 +22653,7 @@ chug
 clinker
 crevice
 crudites
-connived
+connived 1
 chromochalcography
 connives
 captance
@@ -28729,7 +28729,7 @@ cornage
 creosol 2
 creosote 1
 casasia
-cole 1
+cole 2
 creosotes 1
 cocircularity 1
 clericity 1
