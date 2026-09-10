@@ -331,7 +331,7 @@ deltaite 1
 denumberment 1
 damier
 depasturage 1
-desalted
+desalted 1
 daydreamy 1
 daydreaming 1
 disbound 1
@@ -1353,7 +1353,7 @@ digraph 1
 dipentine 1
 demissive 2
 diploid 1
-draftsperson 1
+draftsperson 2
 doggerelize 1
 dompt 1
 damagement 2
@@ -5103,7 +5103,7 @@ dasyurid
 decennal
 densation
 dadoed 1
-doggiest 1
+doggiest 2
 denebola
 dulbert
 digynian 2
@@ -5333,7 +5333,7 @@ duplications 2
 demonio 1
 disemburden 1
 diazenithal 2
-dragman 2
+dragman 3
 disgruntle 4
 dawned 1
 denting 3
@@ -7019,7 +7019,7 @@ despondencies
 despondentness 5
 desponder 1
 despondingly 2
-desponds 2
+desponds 3
 diaster 3
 divinisation
 donkeys
@@ -7989,7 +7989,7 @@ discifloral 2
 deluders 1
 dezincking 2
 dioeciously
-drouthiest 1
+drouthiest 2
 dezincs
 damageable 1
 dft
@@ -9020,7 +9020,7 @@ dicots 1
 dicoumarin
 disembed
 dunkadoo 2
-depravate
+depravate 1
 deaconhood 3
 dermatoplast 2
 dicoumarol 1
@@ -9029,7 +9029,7 @@ dicranaceous
 denigrate 1
 dextrinous 3
 decatholicize 1
-diverter 2
+diverter 3
 dicrotal 2
 dicrotous
 doto
@@ -14784,7 +14784,7 @@ dockhand 2
 dockhouse 2
 deringers
 dockyards 1
-docking 1
+docking 2
 dockization
 dockland 2
 doublehandedly 3
@@ -16105,7 +16105,7 @@ diplozoon
 deaning 2
 drimys 2
 deterration
-denaturisation
+denaturisation 1
 disfrocked 1
 deoppilative 1
 decayedness 1
@@ -17326,7 +17326,7 @@ decapitator 2
 deducible 5
 dromoi 3
 dockize 2
-digitoxigenin 1
+digitoxigenin 2
 denigrated 1
 dandyish 2
 dromometer 1
@@ -18109,7 +18109,7 @@ dogskin 1
 dongs
 dungol 1
 dulocracy
-dissuasory 1
+dissuasory 2
 dictograph
 donsy 1
 dag 1
