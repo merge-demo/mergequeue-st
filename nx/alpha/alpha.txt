@@ -867,7 +867,7 @@ allergy
 assertors 1
 astringents
 aerosols 4
-artinesses 2
+artinesses 3
 acesodyne 1
 alnitak
 athrogenic
@@ -1803,7 +1803,7 @@ asker 1
 abuse
 aceacenaphthene 1
 anticosine
-asphyxies 1
+asphyxies 2
 aglipayano
 arabis 2
 anemia
@@ -3132,7 +3132,7 @@ anhydrous
 abidingly 2
 associators 1
 atocia 3
-antjar 2
+antjar 3
 affiliations
 amberous 1
 adonize 2
@@ -4123,7 +4123,7 @@ aldrin 1
 admits 3
 admitted 1
 agitpunkt 1
-ardoise
+ardoise 1
 ampliation 1
 aedoeagi
 allocates 2
@@ -9965,7 +9965,7 @@ autotrophy
 addict
 amplitudes 3
 anatomicopathological
-altoun 1
+altoun 2
 amazer 1
 accented 1
 antihelixes
@@ -11315,7 +11315,7 @@ anaglyptographic 1
 antiusurious
 aquocellolitis 2
 amdahl 1
-amphirhinal
+amphirhinal 1
 antiprecipitin 3
 amphimixes 1
 aftersensation
@@ -12131,7 +12131,7 @@ alichel 2
 afterbreast 1
 acrodynia 2
 adjunction
-aborning 2
+aborning 3
 absenting 1
 archaeologian 1
 arquerite
@@ -12397,7 +12397,7 @@ alternateness 2
 apophysial 1
 abruptly
 andirin 2
-athletic
+athletic 1
 anopisthograph
 abscession
 asimen
@@ -13608,7 +13608,7 @@ acuminose 2
 annular 1
 antihierarchical 3
 algy
-annulary
+annulary 1
 annularia 1
 arrowing 1
 adjourning 2
@@ -15696,7 +15696,7 @@ anaphorical
 alehoof
 adsignify
 atrazine
-achromatism 2
+achromatism 3
 armoury 1
 antiskepticism 1
 antipacifistic
@@ -18557,11 +18557,11 @@ abaca 1
 aphrodisian
 animists 1
 apostrophise 2
-arborous
+arborous 1
 arborvitaes 2
 arcticwards 3
 amidine 2
-arrises 1
+arrises 2
 arborway
 arbota 1
 arbour 1
@@ -18626,7 +18626,7 @@ acarophilous 2
 acini 2
 archaeographical 1
 asterisking
-acinous 1
+acinous 2
 astrophil 1
 audits 1
 aswell
@@ -23648,7 +23648,7 @@ anemograph 3
 alee 2
 aureoline
 auresca 1
-ao 2
+ao 3
 aureomycin
 afterlove 1
 abalation 1
