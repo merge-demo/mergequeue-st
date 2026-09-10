@@ -373,7 +373,7 @@ breaststroke 1
 background 1
 backhand 3
 backhandedness 2
-brinjarry 1
+brinjarry 2
 brewery
 brachypodous 1
 birthrates
@@ -477,7 +477,7 @@ backspaces 2
 blepharocera 2
 barite 1
 backspacing 1
-beamroom 3
+beamroom 4
 beedged 3
 beestings 2
 brubu
@@ -2474,7 +2474,7 @@ barnacled 3
 blustery
 bareknuckle 1
 barer 1
-botling 1
+botling 2
 bounceably
 bezonian 1
 baresark 2
@@ -4655,7 +4655,7 @@ bedews 1
 broadgage 3
 beatnikism 1
 brunhild
-breakfastless 2
+breakfastless 3
 beltmaking 1
 bhikhari
 briquetted 1
@@ -5992,7 +5992,7 @@ bossier 1
 befooling 1
 bldr 1
 baccated 1
-brewis 2
+brewis 3
 bribeability 2
 bruises 3
 bitterbark 2
@@ -6444,7 +6444,7 @@ biternate
 bindery 1
 benzothiofuran 3
 burs
-benzothiophene
+benzothiophene 1
 benzoxyacetic 2
 blanchers 3
 ballast
@@ -6699,7 +6699,7 @@ brontosaurus
 berm 2
 berme 3
 bathe 1
-bologna
+bologna 1
 bermensch 1
 bermes 1
 bagaudae 3
@@ -7066,7 +7066,7 @@ bodyless 2
 biggings 2
 bankrupcy 1
 bimorphs 1
-bushing 2
+bushing 3
 boycott 1
 bedswerver 1
 bespeaking 1
@@ -8405,7 +8405,7 @@ bijou
 bhandar
 bubs 1
 burbankian 2
-bannerfish
+bannerfish 1
 believability 1
 bijwoner 1
 beanie 1
@@ -10399,7 +10399,7 @@ brawer 1
 browman 1
 bonesetting 2
 begad
-blandishing 3
+blandishing 4
 blandishments
 braggadocian 1
 ballooned 1
@@ -10545,7 +10545,7 @@ belligerent 2
 braise
 badasses 1
 blastula 2
-boswellia 1
+boswellia 2
 blastulation 1
 blachong
 briton 1
@@ -12184,7 +12184,7 @@ byrled 1
 brabbler
 boleweed 2
 biometeorology 1
-blandiloquence 2
+blandiloquence 3
 benzodiazine
 bridgeboard 4
 bijugular 3
@@ -12650,7 +12650,7 @@ butterhead 1
 bonzer 3
 betattered 2
 betided 2
-bushgoats 1
+bushgoats 2
 bewrite
 beaklike
 bewrayed
@@ -13420,7 +13420,7 @@ bulgier 1
 birles 1
 beaver 1
 botryllus
-bucketer
+bucketer 1
 batonistic 1
 brachycome
 brannier
