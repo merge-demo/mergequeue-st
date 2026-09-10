@@ -366,7 +366,7 @@ aberr 3
 alphin
 aerophone
 abdicate
-aberrancy
+aberrancy 1
 aberrantly 2
 aberrants
 aberrating 2
@@ -596,7 +596,7 @@ agrania
 alphameric 1
 abnegates 1
 anthropomancy
-abrotanum 1
+abrotanum 2
 aneuria
 amphictyon 3
 amanitins 1
@@ -770,7 +770,7 @@ aedicula 1
 alpiniaceae
 abramis
 apeling 2
-abrase 1
+abrase 2
 accersitor 3
 aswail 2
 admetus
@@ -923,7 +923,7 @@ anabong
 audiometric 1
 anaemia 2
 archband
-aures 1
+aures 2
 absyrtus
 amylon 1
 absis 1
@@ -5703,7 +5703,7 @@ avellano
 ancillae
 affatuate 2
 againstand 1
-albuginitis
+albuginitis 1
 antilens 1
 amphistomatic 1
 aggrace 1
@@ -9904,7 +9904,7 @@ asphodelus
 aragonian 1
 antimasker 1
 agrobiologist 2
-amasses
+amasses 1
 apprizal
 aregeneratory 1
 alexian 1
@@ -11576,7 +11576,7 @@ alunites 2
 aldermanly 1
 anabathrum 2
 asperously 1
-astigmism 2
+astigmism 3
 aristogenesis
 asparagyl 1
 albification
@@ -12280,7 +12280,7 @@ almach 1
 anchorite 1
 arraignable 1
 amylopsin 3
-archinfamy 2
+archinfamy 3
 arbalests
 acetoveratrone
 alignment 1
@@ -13437,7 +13437,7 @@ ankylotic
 anklejack 1
 ankles
 aetolian 1
-aminase 1
+aminase 2
 assimilatory 1
 annalize 5
 ankush
@@ -16872,7 +16872,7 @@ apically
 apices 2
 aphislion 2
 arrearages 1
-accomplices 1
+accomplices 2
 apicitis
 alimentive
 apickback
@@ -17465,7 +17465,7 @@ appanage 2
 arthrostraca
 appanaged 1
 abusage
-agreements
+agreements 1
 adsbud 2
 acinacifoliate 1
 audiogenic
@@ -19296,7 +19296,7 @@ areolae 1
 anteriors 2
 aluminothermics
 areolas
-areocentric
+areocentric 1
 areolated
 absurds
 areologies 2
@@ -21236,7 +21236,7 @@ ashling
 appraised
 abrogator 1
 auction 1
-atoxic 1
+atoxic 2
 apparail 1
 angster 1
 atropin 2
@@ -21647,7 +21647,7 @@ assailers 1
 axiform 2
 assays
 assam 1
-arcograph 1
+arcograph 2
 assamites 1
 ancillas 5
 atrophiated
@@ -22026,7 +22026,7 @@ amphiuma 1
 acclimate
 argentums 3
 anoia
-aggressing
+aggressing 1
 antitrinitarian 1
 aliyahaliyahs 2
 autodifferentiation 2
@@ -23063,7 +23063,7 @@ attacking 1
 arpeggiated
 antiparabema
 anoints
-attacus
+attacus 1
 amygdalaceae 1
 attaghan 2
 acquirenda
@@ -24300,7 +24300,7 @@ apparent 2
 autophytograph
 avocational
 aeroporotomy
-auteur 3
+auteur 4
 abacinate 1
 achafe 1
 autophon
@@ -25247,7 +25247,7 @@ alveoloclasia 1
 abstrict 1
 azeotropic
 azerbaijani 1
-azerbaijanian
+azerbaijanian 1
 agrology
 antitax 2
 arcualia
