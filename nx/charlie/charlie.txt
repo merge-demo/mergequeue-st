@@ -21677,7 +21677,7 @@ cobalamine 1
 cervicoaxillary 2
 cancered
 cryptococcal
-condiment
+condiment 1
 condimentary 1
 citatum
 carcharhinus 2
@@ -27580,7 +27580,7 @@ cupmaker 1
 coves
 censured
 covet
-cerealin 1
+cerealin 2
 covetable
 coveted 1
 coveter
