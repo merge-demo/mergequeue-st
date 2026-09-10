@@ -1552,7 +1552,7 @@ boarder 2
 ballas 1
 baronetised 1
 blacktopping
-banks 1
+banks 2
 beeherd
 burger 2
 bersiamite 1
@@ -3931,7 +3931,7 @@ bassly 3
 beliquor 2
 balaniferous 1
 bookbindery 1
-birdweed
+birdweed 1
 banksia 2
 biassedly 3
 bch 2
@@ -5341,7 +5341,7 @@ beerage 2
 barbola
 begnaw 1
 biharmonic 2
-borderlines 1
+borderlines 2
 balmy
 begone 1
 baryte 1
@@ -5573,7 +5573,7 @@ bedframe
 basilican 3
 bekissed
 bekisses 1
-bouleuterion 1
+bouleuterion 2
 borons 1
 beknighted 1
 ballistite 2
@@ -8456,7 +8456,7 @@ banqueteering 1
 baignet 3
 bilbo
 bandsawed 1
-bleachyard
+bleachyard 1
 blessed 3
 bildar 3
 bargainwise 2
@@ -11031,7 +11031,7 @@ bromin 2
 buckshot 3
 banyans 1
 blo 2
-behavioristically
+behavioristically 1
 blusterer 1
 benefactorship
 builded 2
@@ -13999,7 +13999,7 @@ brabanter
 blindfolder 3
 borderlander 1
 bidonville 1
-biophagous
+biophagous 1
 brabble 1
 beep 3
 bicycling
@@ -16242,7 +16242,7 @@ bathmotropism
 baiter
 browden 1
 browet
-blossoms
+blossoms 1
 brander 1
 becrimed 1
 beagle 1
