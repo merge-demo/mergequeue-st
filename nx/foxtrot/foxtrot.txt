@@ -3031,7 +3031,7 @@ fairyology
 firemanship 5
 feoffers 3
 footwears 3
-forpass 1
+forpass 2
 feldspathoid 3
 frostflower
 frenchen 4
@@ -6087,7 +6087,7 @@ footpace 3
 figurial 5
 foxhounds
 filchery 4
-funambule 1
+funambule 2
 flauntingly 1
 forsook
 foretriangle 4
@@ -6950,7 +6950,7 @@ fluidifying 1
 fruitfully 3
 floriated 3
 fractionization 1
-folliculitis
+folliculitis 1
 frt 3
 faring 1
 flub 3
@@ -8624,7 +8624,7 @@ feigner
 fossilize 3
 fornicatrix 4
 fieldman 3
-frameshift 4
+frameshift 5
 fullfil 4
 flaskful 3
 fissionable
@@ -8714,7 +8714,7 @@ fluidal
 floured 2
 ferroprint 3
 filthier 3
-forth 1
+forth 2
 freesia 4
 forbiddenness
 flatfooted 3
@@ -11389,7 +11389,7 @@ faute 5
 furnacelike 4
 firetraps 1
 ferromagneticism 4
-fen
+fen 1
 furnariides 3
 flect 2
 facies 4
