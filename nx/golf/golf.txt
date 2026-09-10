@@ -380,7 +380,7 @@ galangin 1
 grond 2
 golundauze 1
 gavot 1
-gaoled 1
+gaoled 2
 glaive 2
 glossophagine
 goto 3
@@ -1209,7 +1209,7 @@ guestive 2
 guttate 4
 garfishes 4
 glaux 2
-gimcrackery 2
+gimcrackery 3
 gimmicking 4
 glanders 1
 garrisonian 1
@@ -2360,7 +2360,7 @@ gentianal 2
 gilver 2
 gote 1
 gaulish 1
-gambadoes
+gambadoes 1
 gobioidei 3
 geminid 2
 geminous 2
@@ -2400,7 +2400,7 @@ graphotypic 2
 geologian 1
 gesticulation 1
 graduator 3
-goas 3
+goas 4
 gype 3
 grograms 1
 glutch 1
@@ -8313,7 +8313,7 @@ graptolitha 2
 gheraoed 3
 gambits 1
 graspingly 4
-gowdy 3
+gowdy 4
 gutturalise 1
 gleets 3
 genian 3
