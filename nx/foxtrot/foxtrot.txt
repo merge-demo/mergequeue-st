@@ -773,7 +773,7 @@ folkloric
 footworn
 fulmen 1
 flogging 3
-fatality 4
+fatality 5
 froster 2
 forensicality 2
 flipe 3
@@ -892,7 +892,7 @@ filleted 2
 fluorometer 4
 flamed 2
 feel 2
-fluoroborate 2
+fluoroborate 3
 faradisation
 fluosilicic 3
 flagless 2
@@ -2585,7 +2585,7 @@ forechase 3
 fogramity 2
 flongs 4
 ferrocyanate 1
-formicid
+formicid 1
 ferroelectric 4
 fribblery 1
 fattier 4
@@ -2884,7 +2884,7 @@ fetterlock 5
 flatfish 1
 forewing 5
 foxship 1
-frisettes 3
+frisettes 4
 fogies 2
 formicarium 3
 footwear 2
@@ -3360,7 +3360,7 @@ flatfoot 1
 fattener 1
 fibromatous 3
 fossores 2
-foveolate
+foveolate 1
 frostiness 4
 fascili 1
 foulnesses 5
@@ -4632,7 +4632,7 @@ firked 2
 factorizations 4
 fullnesses 1
 fanging 3
-frigidities 3
+frigidities 4
 formulations 2
 fluctuate 2
 fossane
@@ -5251,7 +5251,7 @@ faveoli 2
 fulness 3
 fitful 1
 fierceness 1
-fishmen 3
+fishmen 4
 faugh 2
 foggage
 flavorsome
@@ -8039,7 +8039,7 @@ formols 4
 furrure 1
 fiz 2
 feist 1
-finicality 1
+finicality 2
 fontina 1
 fellmongered 2
 forestage 2
@@ -8626,7 +8626,7 @@ fornicatrix 4
 fieldman 3
 frameshift 5
 fullfil 4
-flaskful 3
+flaskful 4
 fissionable
 fungating 3
 farmsteading 1
@@ -9187,7 +9187,7 @@ fractionalized 2
 ferriprussic 2
 fodient 3
 feoffees 4
-flamineous 2
+flamineous 3
 feignedness 4
 fabrications 1
 fearfullest
@@ -9657,7 +9657,7 @@ fleabugs 2
 faon 1
 fabula 3
 firing 1
-flannelmouths 3
+flannelmouths 4
 featherbone 3
 foodlessness 2
 flytime 4
@@ -9684,7 +9684,7 @@ flatfootedness 2
 freen 1
 featherfoil 3
 forwardly 1
-flotations 2
+flotations 3
 freers
 farthest 2
 foresign
@@ -11413,7 +11413,7 @@ feater 4
 fringe 2
 forksmith 1
 forestership 2
-forcemeat 1
+forcemeat 2
 flustrum
 forcipial 4
 fisticuffing 3
