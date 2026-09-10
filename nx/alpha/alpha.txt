@@ -874,7 +874,7 @@ athrogenic
 absconce 2
 abscond 2
 absconded 1
-amnesiac 1
+amnesiac 2
 apperceptive 1
 absconder
 agonizes
@@ -2812,7 +2812,7 @@ arloup
 attar 2
 autolytic
 acrobryous 1
-alarms
+alarms 1
 airglow 3
 apotropaion 2
 autopista
@@ -3313,7 +3313,7 @@ algebraize
 acutance 1
 anankes
 amyloids
-acutances 2
+acutances 3
 anisoptera 1
 adornos 3
 acute 2
@@ -4664,7 +4664,7 @@ advocative
 acanthological 3
 aq 1
 avicularian
-advocatress
+advocatress 1
 audiovisuals
 anastrophe 2
 advt 1
@@ -5731,7 +5731,7 @@ agalwoods 2
 arthrodial 1
 adiposes
 adulter
-agamemnon
+agamemnon 1
 antiquely 1
 aeolistic 1
 agamete
@@ -6280,7 +6280,7 @@ agonizingly
 alphabetise 2
 absolver 3
 agonizingness 2
-alswith
+alswith 1
 agoranomus
 advertiser
 archengineer 1
@@ -8613,7 +8613,7 @@ anticus 1
 ammanite 1
 anecdota 1
 agnoites 1
-aegagropiles 1
+aegagropiles 2
 allassotonic
 alleviations 1
 allatrate 2
@@ -10111,7 +10111,7 @@ antimonarchists
 antasthmatic
 amblystegite
 autodialer 1
-amblotic
+amblotic 1
 apostrophizing 2
 arenosity 1
 anythings 1
@@ -12560,7 +12560,7 @@ antipacifist 3
 anemography
 anemographically 1
 anemologic
-artocarpus
+artocarpus 1
 anacephalize
 anticonfederationist
 anemometrically 1
@@ -14947,7 +14947,7 @@ attroupement
 abret
 anticlines
 anticlinoria
-amphigouri
+amphigouri 1
 anticlinorium 2
 axised
 apneumatic
@@ -15416,7 +15416,7 @@ alloploidy
 awaited
 abrasion 3
 argonaut
-antilithic 2
+antilithic 3
 antilitter 1
 aspiculous 1
 amla 1
@@ -16187,7 +16187,7 @@ antisocialistically
 addendum
 archpresbytery 1
 antifeminism
-achroodextrin 2
+achroodextrin 3
 agromania 2
 azoth 1
 antisophism 2
@@ -21402,7 +21402,7 @@ antidraft 1
 augustinian 2
 agitation
 atabeg
-asleep 1
+asleep 2
 aslumber
 aspergillales 3
 apriorist
