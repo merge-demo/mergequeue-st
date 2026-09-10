@@ -2347,7 +2347,7 @@ entendres 3
 electroplating 2
 expostulate
 ecumenical
-emulsifying 1
+emulsifying 2
 esterizing 3
 egba 1
 episteme 2
@@ -4750,7 +4750,7 @@ entypies 3
 enduro 2
 epidosite 4
 easterner 1
-estrogenicity 1
+estrogenicity 2
 embrangle 2
 engrid 3
 encomiastically 1
@@ -9735,7 +9735,7 @@ epyllion 1
 erythronium 2
 equid 3
 elamp 2
-eurhythmy
+eurhythmy 1
 exitious 1
 enthusiast 1
 expressure 1
