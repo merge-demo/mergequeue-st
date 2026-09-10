@@ -706,7 +706,7 @@ abortin 1
 antihydropin
 autonephrotoxin 1
 alkaid 2
-allayment 1
+allayment 2
 autotoxaemia
 abortional
 antiglobulin 2
@@ -8162,7 +8162,7 @@ algidities 1
 algidness 1
 agriologist 1
 aeronautics 2
-afft 1
+afft 2
 anticreationist 1
 aghlabite
 angeline 1
@@ -12198,7 +12198,7 @@ auxinic 1
 anatreptic
 androdynamous 1
 agendas 2
-accoucheuse
+accoucheuse 1
 assobre 2
 archpretender 1
 asepsis 1
@@ -14541,7 +14541,7 @@ adroitly
 anthropol 1
 anthropolatry 2
 antigraphy 1
-askesis
+askesis 1
 anthropolatric 2
 anthropolite 1
 anthropology 2
@@ -22051,7 +22051,7 @@ ammonitoid 1
 apprentices
 auteurism 1
 automanipulation 3
-alveolotomy 1
+alveolotomy 2
 acclamatory 2
 astartidae 1
 actings
