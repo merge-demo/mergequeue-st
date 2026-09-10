@@ -1428,7 +1428,7 @@ battable 2
 balefires 1
 bewreak 3
 barmbrack 4
-baleys 1
+baleys 2
 baleise 2
 bougainvillaea 1
 beslave 1
@@ -7162,7 +7162,7 @@ bessemerize
 bugleweed 3
 besses 2
 bessie 1
-ballon
+ballon 1
 bestad 1
 bacteriemia
 bernicles
@@ -12258,7 +12258,7 @@ bantamweights 1
 bilboas 2
 borocaine 2
 bemud 1
-bancal 2
+bancal 3
 bainite 1
 bolstered 2
 battologised 2
@@ -12308,7 +12308,7 @@ barcaroles
 bombace
 behang 1
 bombardiers 2
-bisulphite 2
+bisulphite 3
 bombarding 1
 benzyl 1
 bombardman 1
@@ -12731,7 +12731,7 @@ beaux
 ballant
 booklear 1
 brandishing 1
-booklore
+booklore 1
 bhavan
 birdliming 2
 busters 6
@@ -15110,7 +15110,7 @@ begot 1
 breastmark 2
 brents 1
 bearance
-brere
+brere 1
 boobily 1
 baffles 3
 binocular
@@ -16389,7 +16389,7 @@ borrowed 1
 branchipus
 burrish 1
 bewailable 1
-blueing 2
+blueing 3
 brummagen 2
 baculitic 1
 botanist 1
@@ -18351,7 +18351,7 @@ bolita 1
 bucellas 2
 bipontine 2
 bensail 3
-braw 2
+braw 3
 bisectionally 2
 buttwoman 1
 butterscotch 2
