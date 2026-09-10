@@ -1644,7 +1644,7 @@ difficulty 1
 daylong 1
 dimetrodon 1
 deodate 2
-delaminate 1
+delaminate 2
 datolitic 2
 domify
 devertebrated 1
@@ -4288,7 +4288,7 @@ diamondiferous 3
 diacritical
 dods 1
 decennials 2
-dura 5
+dura 6
 descriers 1
 demagogue 2
 diseducate 2
@@ -6554,7 +6554,7 @@ dermol 1
 danburite 1
 desdemona 4
 disinvest 2
-desecrated 1
+desecrated 2
 dilemmatical
 dipole 3
 deavely 4
@@ -7486,7 +7486,7 @@ downtowner
 deuced
 dizenment 1
 deuces 1
-detested
+detested 1
 diachylum
 dakhini 1
 documenters 1
@@ -8023,7 +8023,7 @@ discombobulated 1
 dharmic
 dharnas 2
 dhaura 2
-defilements 2
+defilements 3
 drapes 1
 dialleli
 derfness 1
@@ -9006,7 +9006,7 @@ dudine 1
 dicotyledonous 1
 dicotyles 1
 dicotylidae 1
-defrauding 1
+defrauding 2
 deinosaur 1
 drowsiness 1
 disowns
@@ -12710,7 +12710,7 @@ disliking
 doubleness
 daut
 depreciating 2
-diphenol 1
+diphenol 2
 dishonesty
 deindividualization
 domicilement 1
@@ -18404,7 +18404,7 @@ dabbles 3
 disintrench 1
 decontrols 1
 daviesia
-denter
+denter 1
 damsons
 deepfreezing 2
 dorrs 1
