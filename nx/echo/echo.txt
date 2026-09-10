@@ -791,7 +791,7 @@ evincibly 1
 electropositive
 eusuchia 1
 eggment 1
-electrophotography 1
+electrophotography 2
 ectasis 2
 endothia 2
 enoil 2
@@ -2417,7 +2417,7 @@ espinel 2
 eucalyptography 1
 erythematous 3
 euphausid 2
-epitaxial
+epitaxial 1
 etherate 1
 earthnut 1
 earmarked 2
@@ -3888,7 +3888,7 @@ eminencies 4
 evendown 4
 exterminating
 eminent 2
-endorsor 2
+endorsor 3
 easternized 2
 esperance 2
 eminently 3
@@ -4865,7 +4865,7 @@ endamebae 2
 equiv 4
 eveck
 eudemons 2
-extradictable 3
+extradictable 4
 endamoebas 2
 endamoebidae 4
 equations
@@ -5197,7 +5197,7 @@ euchroic 1
 ethnicize 1
 euhemerising 1
 exsected 4
-extrascriptural 3
+extrascriptural 4
 escartelly 2
 euphuizing 1
 esphresis 2
@@ -5843,7 +5843,7 @@ engysseismology 2
 ethiops
 episyntheton 1
 engluts 2
-estamp 2
+estamp 3
 erasures 1
 erg
 engreaten 3
@@ -5940,7 +5940,7 @@ engrosser 4
 earrings 4
 enframing 4
 enigma 2
-egotism 2
+egotism 3
 enjambements 2
 enigmata 3
 eassel 1
@@ -6295,7 +6295,7 @@ eumycetes 4
 equijacent 4
 embowed
 enrut 1
-explainability 4
+explainability 5
 euclidean 1
 ens 2
 emmenagogue 1
@@ -9672,7 +9672,7 @@ esprit 1
 enterorrhexis 2
 esq 3
 existence 5
-exurbs
+exurbs 1
 euselachii
 esquisse 1
 euphratean 3
@@ -10165,7 +10165,7 @@ electropotential
 eurytomid 1
 eulogise 2
 etherially
-extravagances
+extravagances 1
 eyedropper 3
 exertion 1
 epiphytotic 3
@@ -11054,7 +11054,7 @@ episcopacies
 eliminator 2
 eurythmics 1
 epiphenomena 2
-endotrophic 3
+endotrophic 4
 epigonichthys 2
 enterrologist 3
 establish 5
@@ -11572,7 +11572,7 @@ embrittled 3
 errantness 2
 ennoy 3
 evocator
-evoe 3
+evoe 4
 ensilaging 1
 exoculating 3
 exemptionist 1
@@ -12298,7 +12298,7 @@ exemplarism 4
 epimerite
 exempli
 embodier 3
-evocatrix 1
+evocatrix 2
 everlasting 1
 eggplant 1
 enfoul 2
@@ -13539,7 +13539,7 @@ erythrophagous 2
 evaluations 2
 endangeitis
 evonymus 5
-epitomic 2
+epitomic 3
 epigrapher 5
 elinor 1
 ectosteal
@@ -13733,7 +13733,7 @@ enounce
 externalized
 externalizes 5
 exocardial 4
-elizabeth 1
+elizabeth 2
 enteroclysis 3
 extrajudicially 1
 excursionize
