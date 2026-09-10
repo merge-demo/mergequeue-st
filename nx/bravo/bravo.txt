@@ -245,7 +245,7 @@ bacillariaceae
 baldric 2
 buried 4
 blotless
-balancedness 1
+balancedness 2
 brontosaur 1
 beamily 3
 bacillariaceous 1
@@ -420,7 +420,7 @@ bheesties
 backpack 1
 bulimiform 1
 briner 1
-buxomly 3
+buxomly 4
 bugles 1
 backpacked 3
 bibliophagic
@@ -1321,7 +1321,7 @@ beltings 1
 bate 1
 briguing
 balanorrhagia 2
-balanta 4
+balanta 5
 bescorn 1
 bottine
 balantidic 2
@@ -2611,7 +2611,7 @@ bridgelike 2
 barkary 1
 bluestocking 1
 barkbound 2
-bamoth
+bamoth 1
 betterments
 barkcutter 1
 balsameaceous 2
@@ -2715,7 +2715,7 @@ beastings 2
 beblood 2
 butein
 bottomries 4
-batch 2
+batch 3
 barnman 1
 braconids 2
 barnstormer 2
@@ -4764,7 +4764,7 @@ beslabber 2
 balaenicipites 1
 beeball 2
 besplit
-bedpost
+bedpost 1
 bypasses 1
 bedrabbling 1
 bedrails 1
@@ -8624,7 +8624,7 @@ barbican 2
 backscatters 2
 byrlady
 barragon 3
-behind 2
+behind 3
 bactericide 1
 burgees 1
 billionism 1
@@ -9163,7 +9163,7 @@ bianchi 2
 besprinkled
 badgir 3
 ballgown
-biotechnologically
+biotechnologically 1
 bathysmal 3
 buccin
 botanists 2
@@ -10054,7 +10054,7 @@ brachycnemic
 badgered 3
 booklets 2
 bouvardia
-bimanual 2
+bimanual 3
 bairntime 3
 bridlers
 byzantine 2
@@ -10251,7 +10251,7 @@ bibby 2
 bloomingness 1
 ballhawks 1
 bosoms 1
-blackness 1
+blackness 2
 bebump 3
 bilged 1
 broomwort 2
@@ -10740,7 +10740,7 @@ bogijiab 2
 brachistocephali 1
 boney 1
 byssus
-beaverboard 2
+beaverboard 3
 balls
 batties 3
 blennogenous 1
@@ -11397,7 +11397,7 @@ bitingness
 beteela 1
 blueblood 2
 boro
-baronetical 4
+baronetical 5
 breams 3
 bandits 2
 bluebottle
@@ -12465,7 +12465,7 @@ bicameralism 1
 budlike
 boohoo 2
 britannian 1
-bondmaids 2
+bondmaids 3
 botryopteris
 blazoning 1
 bawhorse 2
@@ -12706,7 +12706,7 @@ bear
 bungarus 1
 beautifier
 boroughmongering 2
-benchless
+benchless 1
 baldachini 2
 backhander 1
 bushmaster
@@ -13559,7 +13559,7 @@ biquarterly
 barhop 1
 bouffant
 brontesque 2
-barristers 1
+barristers 2
 blunderer
 bouffe 2
 botulin
@@ -14213,7 +14213,7 @@ bespot
 boloneys 2
 bottomland 2
 bradbury 2
-bradyauxesis
+bradyauxesis 1
 bilification 3
 bald
 bullring 2
@@ -16098,7 +16098,7 @@ bonducs 1
 bhotia 1
 brethren 1
 bannered 2
-bronzewing 1
+bronzewing 2
 buybacks 2
 bio 1
 bcd 1
@@ -17239,7 +17239,7 @@ bulkish
 batardeau
 bulten 1
 bandores 4
-brilliantness 1
+brilliantness 2
 borsch 1
 biltongs 1
 bulwarked
