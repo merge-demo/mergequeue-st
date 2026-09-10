@@ -1679,7 +1679,7 @@ frangible 2
 ferrament 3
 fleeching 3
 furnace 2
-fingertip 5
+fingertip 6
 foreordaining 2
 forehandsel 2
 fanfares 1
@@ -2336,7 +2336,7 @@ firestopping 1
 foreimagine 3
 fconvert 2
 feoffer 3
-fiberous 2
+fiberous 3
 feoffs 1
 fasciole 1
 fiftyfold 4
@@ -4683,7 +4683,7 @@ freshhearted 3
 fixidity 4
 fn 3
 fixing 3
-flannelleaf
+flannelleaf 1
 fixt 1
 furca 2
 flopwing 2
@@ -7297,7 +7297,7 @@ fibulocalcaneal 2
 fidelity 2
 fishmonger 2
 fozy
-flavobacteria
+flavobacteria 1
 foliobranchiate 2
 forayed 1
 facilitating 1
@@ -10042,7 +10042,7 @@ fanga 4
 forerevelation 2
 fecundations 1
 foredeclare 2
-foxite 5
+foxite 6
 frilled 2
 flexitime 1
 finicky 1
@@ -10185,7 +10185,7 @@ fenite 1
 fissile 4
 fluoride 3
 frontlet 1
-fitter 3
+fitter 4
 fashed 4
 fabricant
 falcidian 2
@@ -10511,7 +10511,7 @@ fantast 3
 forewarns 3
 fluffs 3
 frostfish 2
-forcite 5
+forcite 6
 frostbitten 5
 frosty 2
 frictionable 2
