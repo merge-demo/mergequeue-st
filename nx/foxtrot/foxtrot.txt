@@ -3053,7 +3053,7 @@ forceput 3
 fibred 1
 fibrefill 1
 flushingly 2
-fenestra 1
+fenestra 2
 fasciolidae
 foursquare 1
 fishier 2
@@ -3550,7 +3550,7 @@ filaments
 fistule 6
 flexibility 1
 formularise 1
-filarian 4
+filarian 5
 fattily 3
 formfeed 2
 fluoryl 2
@@ -3594,7 +3594,7 @@ flank 2
 fructification 1
 felinity 1
 floorway 3
-files
+files 1
 filesniff 5
 freijo 4
 fazing 2
@@ -3673,7 +3673,7 @@ footman 1
 flourishes 2
 flaying 3
 furnacer 1
-filemot 3
+filemot 4
 financiered 3
 freshener 3
 finicking 1
@@ -5150,7 +5150,7 @@ flatlands 2
 fiberized 1
 flavoprotein 2
 fatigued 1
-flywheels 5
+flywheels 6
 fjords 1
 foreseeingly
 formnail 2
@@ -5777,7 +5777,7 @@ foge
 fondouk
 freckliness
 foehns 3
-finebent 3
+finebent 4
 finings 1
 ferrochrome
 flitfold 3
@@ -6482,7 +6482,7 @@ fortes 1
 foremessenger 1
 fluoroscoped 1
 furriers 4
-fingerfish 2
+fingerfish 3
 flrie 1
 flusteration 1
 festschrifts 2
@@ -8670,7 +8670,7 @@ ferryage 4
 faddishly 4
 feelers 3
 felt
-fearfully 3
+fearfully 4
 foredune 5
 fulup
 fringilloid 3
@@ -9933,7 +9933,7 @@ ferrel 5
 frontager 2
 furilic 1
 frozenly 5
-flamingo
+flamingo 1
 fibropericarditis 2
 feverless 4
 filibusters 1
@@ -11553,7 +11553,7 @@ fumaroid 2
 fabling 1
 fictionize 2
 fards 2
-floeberg
+floeberg 1
 fledgy 1
 folio 3
 fretfully
