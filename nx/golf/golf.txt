@@ -785,7 +785,7 @@ ganymede 1
 gutter 2
 gluck
 gutturize 4
-galvanothermometer 1
+galvanothermometer 2
 ggr 2
 galliformes
 ginneries 2
@@ -3131,7 +3131,7 @@ germina
 grusian 5
 gynophore 1
 gauloiserie 5
-geotechnic 1
+geotechnic 2
 geraniaceae 3
 griffado 1
 gabler 5
@@ -4942,7 +4942,7 @@ gunhouse 1
 goiabada
 gravida 3
 glykopectic 4
-galleypot
+galleypot 1
 governesshood
 gynecide 1
 glaucousness 1
@@ -6323,7 +6323,7 @@ graptoloidea 2
 goatsucker 4
 graplines 2
 gamic 2
-greentail 1
+greentail 2
 gonake 2
 galore 4
 grotesqueries 2
@@ -10729,7 +10729,7 @@ grandeur 2
 gubernatorial 2
 graphometric 1
 gox 4
-gussets
+gussets 1
 gloms 1
 gairfish 3
 gassers 3
