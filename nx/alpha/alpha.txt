@@ -7726,7 +7726,7 @@ alcoholize 1
 alcoholmeter 2
 airmass
 anemogram 2
-alcoholmetric 1
+alcoholmetric 2
 abaissed 1
 alcoholometer 1
 acidic 1
@@ -17204,7 +17204,7 @@ anthropomorphotheist 2
 acescent
 ankylosing 1
 almira 1
-apomixis 1
+apomixis 2
 apomorphia 2
 ahmadi 1
 acropetal
