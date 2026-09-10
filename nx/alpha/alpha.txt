@@ -874,7 +874,7 @@ athrogenic
 absconce 2
 abscond 2
 absconded 1
-amnesiac 1
+amnesiac 2
 apperceptive 1
 absconder
 agonizes
@@ -1015,7 +1015,7 @@ aggregable 1
 abstertion 1
 anthropopathic
 abstinential 1
-abstinently 2
+abstinently 3
 anthos
 abstractable 1
 alsikes 1
@@ -5731,7 +5731,7 @@ agalwoods 2
 arthrodial 1
 adiposes
 adulter
-agamemnon
+agamemnon 1
 antiquely 1
 aeolistic 1
 agamete
@@ -6662,7 +6662,7 @@ anathematize
 aquinas
 aldeament 1
 antidomestically 3
-atnah 1
+atnah 2
 aiguille
 aiguillette 1
 aquiline 2
@@ -8613,7 +8613,7 @@ anticus 1
 ammanite 1
 anecdota 1
 agnoites 1
-aegagropiles 1
+aegagropiles 2
 allassotonic
 alleviations 1
 allatrate 2
@@ -12560,7 +12560,7 @@ antipacifist 3
 anemography
 anemographically 1
 anemologic
-artocarpus
+artocarpus 1
 anacephalize
 anticonfederationist
 anemometrically 1
@@ -19050,7 +19050,7 @@ archpilferer
 adornment 2
 aneurismatic 1
 accentuating 1
-adulteration 1
+adulteration 2
 automatic 1
 aphicide 4
 archswindler 2
