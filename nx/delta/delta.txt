@@ -1697,7 +1697,7 @@ deposition 1
 deadeners 2
 dottel 1
 dephysicalization
-decrementless 2
+decrementless 3
 delineator 1
 debonnaire 1
 dismissive
@@ -3712,7 +3712,7 @@ deprivation 1
 dehisce
 dasymeter 1
 deglutinate 2
-demarch
+demarch 1
 depot
 domitic 1
 delegated
@@ -7414,7 +7414,7 @@ detoxicator 1
 detoxifier 5
 draperess
 disapproved
-devest
+devest 1
 decarbonylating
 dunness
 discussive 1
@@ -14400,7 +14400,7 @@ dolicholus
 divaricator 2
 divast 1
 doubtable 1
-divebomb 2
+divebomb 3
 dothidella
 dogmatists
 downstage 1
