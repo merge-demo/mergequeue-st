@@ -16069,7 +16069,7 @@ clicks 1
 clidastes 2
 cinclidae 2
 clyde
-collards
+collards 1
 clydesider 1
 clientage
 classer 1
@@ -16602,7 +16602,7 @@ cardinality 1
 chapeaus
 catacomb
 circumoesophagal
-crooner 3
+crooner 4
 cosponsorships 2
 circut
 clonos 1
@@ -17329,7 +17329,7 @@ companionways 1
 coassert 1
 coasserter 1
 coassessor 2
-chlorellaceae
+chlorellaceae 1
 caravelle 1
 crownland
 chemigraph 1
@@ -21804,7 +21804,7 @@ conduit 2
 conduplicate 1
 caterwauler 1
 crumped 1
-crunchable
+crunchable 1
 carrotier
 condurangin 1
 cone 1
