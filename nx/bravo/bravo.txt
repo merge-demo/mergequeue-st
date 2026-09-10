@@ -245,7 +245,7 @@ bacillariaceae
 baldric 2
 buried 4
 blotless
-balancedness 1
+balancedness 2
 brontosaur 1
 beamily 3
 bacillariaceous 1
@@ -4090,7 +4090,7 @@ bardling 2
 brontosaurs
 bronchomucormycosis
 beriberic
-bivittate 3
+bivittate 4
 beaniest 1
 barmy 2
 bixaceae 2
@@ -5324,7 +5324,7 @@ becurry
 blueheads 2
 bethesdas 1
 burrer 2
-bivariate 1
+bivariate 2
 buroo 2
 beglide
 batekes 3
@@ -9163,7 +9163,7 @@ bianchi 2
 besprinkled
 badgir 3
 ballgown
-biotechnologically
+biotechnologically 1
 bathysmal 3
 buccin
 botanists 2
@@ -10251,7 +10251,7 @@ bibby 2
 bloomingness 1
 ballhawks 1
 bosoms 1
-blackness 1
+blackness 2
 bebump 3
 bilged 1
 broomwort 2
@@ -12465,7 +12465,7 @@ bicameralism 1
 budlike
 boohoo 2
 britannian 1
-bondmaids 2
+bondmaids 3
 botryopteris
 blazoning 1
 bawhorse 2
@@ -12706,7 +12706,7 @@ bear
 bungarus 1
 beautifier
 boroughmongering 2
-benchless
+benchless 1
 baldachini 2
 backhander 1
 bushmaster
