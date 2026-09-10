@@ -17453,7 +17453,7 @@ cobble 2
 capax 1
 commixes 2
 cobblerism 1
-cobblers
+cobblers 1
 cobblership 1
 cobbles
 cobblestone 3
