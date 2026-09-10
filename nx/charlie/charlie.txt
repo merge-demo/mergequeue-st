@@ -5324,7 +5324,7 @@ cullion 1
 cassiopeium 1
 cladrastis 1
 cramps
-cassis 2
+cassis 3
 cumbha
 crampy
 courtling
@@ -6709,7 +6709,7 @@ consultant 1
 celastraceae
 copings 1
 colorfast
-celastrus
+celastrus 1
 cuculla
 celation
 cheapjack
@@ -12354,7 +12354,7 @@ cenote 1
 chromate 1
 conjunction
 chromates
-chromatically 3
+chromatically 4
 chromatician 1
 chromaticness
 chromatid 1
@@ -14134,7 +14134,7 @@ circularism
 chrysanthemums
 clink
 caulerpa
-canioned 3
+canioned 4
 colanders
 connexion
 circularization 3
@@ -24433,7 +24433,7 @@ coonier
 colk 2
 cerebrotonic
 countersigned
-cooniness
+cooniness 1
 challenge 2
 coontah 2
 collaborateur
@@ -24684,7 +24684,7 @@ cleeks
 concentralize 1
 copped 1
 clothmaking 1
-copperahs
+copperahs 1
 counterindoctrinate 1
 copperases 1
 caseworker
@@ -29332,7 +29332,7 @@ cryptoheretic 1
 cryptolite 1
 cytochalasin 1
 cryptolith
-cryptology
+cryptology 1
 conspiracies 1
 callas 3
 consubstantiality
