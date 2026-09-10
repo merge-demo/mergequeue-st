@@ -269,7 +269,7 @@ gnomon
 glauconiferous 3
 glomeroporphyritic 4
 groser 2
-gigavolt
+gigavolt 1
 geochemistry
 gainliness 3
 gainsaying 1
@@ -675,7 +675,7 @@ gauily 1
 granam
 gaddishness 3
 gideon 1
-granulomatosis 2
+granulomatosis 3
 goneril 1
 gallican
 gastronomer 1
@@ -2258,14 +2258,14 @@ geitonogamy 2
 gonostyle 3
 geomoroi 2
 grange 1
-granulosa
+granulosa 1
 gentilish 2
 gynarchy 2
 galante 4
 graticulation 3
 gumihan 3
 geomorphologist
-guerdonless 1
+guerdonless 2
 gestant 5
 grosse 3
 gripmen 2
@@ -2722,7 +2722,7 @@ guestchamber 2
 gorraf 1
 gipped 1
 gallused 3
-girling
+girling 1
 genteelize 3
 ginorite 1
 gelating
@@ -3446,7 +3446,7 @@ gyrfalcon
 gleave 5
 goyin
 grot 1
-gestatory
+gestatory 1
 geriatric 3
 grivoise 1
 graphonomy 4
@@ -4236,7 +4236,7 @@ granulate 5
 glyptotherium 2
 garryaceae
 glabellum 2
-guran 2
+guran 3
 granolithic 2
 gynandrian 1
 guttering
@@ -4454,7 +4454,7 @@ gymnotokous 3
 gulp
 gypsophila 1
 gypsophily 1
-gomphodont 6
+gomphodont 7
 genderless
 glycolipide 3
 gomukhi 1
@@ -6961,7 +6961,7 @@ garrigue
 garhwali 1
 groundsman 5
 geswarp 2
-grapevines 2
+grapevines 3
 gablewindowed 2
 goof 2
 gwantus 2
@@ -7234,7 +7234,7 @@ gambeering 5
 gamond 1
 gesticulative 1
 gratuitousness 1
-guarani 4
+guarani 5
 gimblet 1
 guarneri 1
 gavages 3
@@ -8765,7 +8765,7 @@ galyak 4
 glom 1
 goustrous 4
 galeus 2
-gobbin 3
+gobbin 4
 germling 2
 gaypoo 1
 gladless 4
