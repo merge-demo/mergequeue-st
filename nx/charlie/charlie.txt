@@ -17453,7 +17453,7 @@ cobble 2
 capax 1
 commixes 2
 cobblerism 1
-cobblers
+cobblers 1
 cobblership 1
 cobbles
 cobblestone 3
@@ -30506,7 +30506,7 @@ circumbuccal
 cub 2
 cuba 1
 cubages
-cubicovariant
+cubicovariant 1
 corozos 3
 cubane 2
 cubanite 2
