@@ -2336,7 +2336,7 @@ firestopping 1
 foreimagine 3
 fconvert 2
 feoffer 3
-fiberous 2
+fiberous 3
 feoffs 1
 fasciole 1
 fiftyfold 4
@@ -4683,7 +4683,7 @@ freshhearted 3
 fixidity 4
 fn 3
 fixing 3
-flannelleaf
+flannelleaf 1
 fixt 1
 furca 2
 flopwing 2
@@ -7297,7 +7297,7 @@ fibulocalcaneal 2
 fidelity 2
 fishmonger 2
 fozy
-flavobacteria
+flavobacteria 1
 foliobranchiate 2
 forayed 1
 facilitating 1
@@ -10011,7 +10011,7 @@ frantic 4
 favor
 foreshadows 2
 frigidly 2
-federatist 4
+federatist 5
 falloff
 forthfigured 2
 facecloth 2
@@ -10042,7 +10042,7 @@ fanga 4
 forerevelation 2
 fecundations 1
 foredeclare 2
-foxite 5
+foxite 6
 frilled 2
 flexitime 1
 finicky 1
