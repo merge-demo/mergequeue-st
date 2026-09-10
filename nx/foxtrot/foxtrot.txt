@@ -6334,7 +6334,7 @@ frags 1
 fluidity 1
 fuzzy 1
 funicle 1
-flack 3
+flack 4
 futural 2
 fullback
 finessed 4
@@ -9469,7 +9469,7 @@ felidae 2
 foliiferous 4
 fliers 3
 foodstuff 5
-foreteeth
+foreteeth 1
 frary 4
 flouriness 4
 frolicly 1
