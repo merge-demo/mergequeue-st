@@ -910,7 +910,7 @@ battlegrounds 1
 blackheads 1
 baghdad
 backway 2
-builders 1
+builders 2
 bagios 1
 berascals
 bedrenching 2
@@ -4645,7 +4645,7 @@ barbershops
 borities
 bargee 1
 bedevilment 1
-bescarf
+bescarf 1
 bioplasmic 5
 betsileos 1
 bedewed
@@ -9095,7 +9095,7 @@ brown 3
 bandagist 2
 bicolours
 bays 1
-buzzwords 2
+buzzwords 3
 biorhythm
 butyrins
 biorhythmicity
@@ -9402,7 +9402,7 @@ boastless 2
 basocyte 1
 buriti
 baronetship 1
-bullyrook
+bullyrook 1
 bulges 2
 blander
 birdless 1
@@ -12205,7 +12205,7 @@ bolly 2
 beretta
 bargir
 birefringent 4
-besit 3
+besit 4
 brevis
 bacchides 1
 broomcorn 1
@@ -16990,7 +16990,7 @@ biplanar 1
 bacteriotoxin 1
 bulbiest 2
 buettneria 1
-boulle 3
+boulle 4
 becks 4
 bulblike 1
 biacetyl 2
