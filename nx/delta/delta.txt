@@ -190,7 +190,7 @@ dealfish 2
 daemons 1
 daemonurgist 5
 defecant
-dysgenic 2
+dysgenic 3
 disciplinarianism 1
 daffadilly 1
 dicatalectic 4
@@ -12464,7 +12464,7 @@ demodulations
 demesnes
 dipsosaurus
 dualization
-denaturizing
+denaturizing 1
 dropcloth 2
 disimpark
 disimpassioned 1
@@ -17514,7 +17514,7 @@ discrete 1
 daffle 2
 doubleheaders 3
 destructed 1
-devoices 1
+devoices 2
 densities
 drubbers 1
 drubble
