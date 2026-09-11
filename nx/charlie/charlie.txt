@@ -163,7 +163,7 @@ campmaster 1
 copellidine 1
 carbonizable 1
 cabob
-countervails 2
+countervails 3
 caboceer
 cizar 2
 caboched
@@ -14479,7 +14479,7 @@ cirterion
 cyrtoceras 1
 chergui 1
 courantos 1
-cyrtometer
+cyrtometer 1
 calcavella
 cyrtomium
 cyrtopia 1
@@ -26158,7 +26158,7 @@ coleslaws
 cine 1
 conservatize 2
 cymogene
-cosmogoner 2
+cosmogoner 3
 chut 3
 cosmogonical
 cosmogonies
