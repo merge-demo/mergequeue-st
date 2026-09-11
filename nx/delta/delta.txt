@@ -7632,7 +7632,7 @@ dealer 2
 deflocculation 1
 digamous
 developer
-diswarn
+diswarn 1
 didelphis 1
 development
 developmental
