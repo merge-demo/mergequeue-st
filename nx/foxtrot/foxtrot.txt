@@ -1725,9 +1725,9 @@ featherbird 2
 fructed 1
 feoffors
 forfare 1
-foreshore 2
+foreshore 3
 floriferous 4
-freedman
+freedman 1
 foveal 2
 feeded 2
 forecastlemen 3
@@ -2802,7 +2802,7 @@ foxtailed 3
 facticity
 fotch 5
 filao
-fimbriation 2
+fimbriation 3
 frazzles
 filace 1
 finnmark 3
@@ -6027,7 +6027,7 @@ frottage 2
 fluty 1
 floreating 4
 flabbiness 2
-filarious 1
+filarious 2
 fresco
 fermorite
 flightiness 1
@@ -6247,7 +6247,7 @@ farmtown 4
 fizzles 3
 firnismalerei 1
 friendlike 3
-frankeniaceous 2
+frankeniaceous 3
 fecit 3
 flamefish 1
 fluoarsenate 3
@@ -6466,7 +6466,7 @@ fumagine
 fouquieriaceous 1
 formats 5
 flightful 1
-foulness 2
+foulness 3
 fuzing 1
 fictor 2
 forgot 5
@@ -7426,7 +7426,7 @@ flawflower 3
 figgum 4
 fille 4
 fawnlike 2
-fans 6
+fans 7
 faintful 1
 fleckiest 2
 firefang 4
@@ -9572,7 +9572,7 @@ ferritin 2
 fabraea 3
 flavonol 2
 furcilia 1
-flitches 3
+flitches 4
 farcinoma
 fricatrice 2
 flawn 3
@@ -10993,7 +10993,7 @@ faipule
 foreadapt 2
 forthright 1
 focaloid
-foremilk 3
+foremilk 4
 firstborn 3
 finland 2
 firebolt 3
