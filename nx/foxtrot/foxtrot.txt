@@ -565,7 +565,7 @@ feeblish 3
 funerate 2
 flagstaff 2
 frighteningly 3
-furmety 7
+furmety 8
 faufel 1
 forlornity 1
 fallowist 1
@@ -812,7 +812,7 @@ frown 1
 felinely 2
 flummox 1
 fannia 2
-forbecause 1
+forbecause 2
 fanon 2
 fronted
 felichthys
@@ -1331,7 +1331,7 @@ fatigableness 3
 forfars
 frock 1
 fidac 2
-flaggish 4
+flaggish 5
 foretoken 3
 fatigue 2
 fossicks
@@ -3184,7 +3184,7 @@ fairleader 3
 friezes 2
 fibulae
 floodcock
-fishman 3
+fishman 4
 furanoses 2
 footballist 5
 firma 5
@@ -5753,7 +5753,7 @@ fisher 2
 fmt 2
 foredeserved 1
 fecket 2
-facultize 2
+facultize 3
 fringepod 2
 flyspecking 3
 folate 2
@@ -7103,7 +7103,7 @@ fadmonger 1
 forgeability 2
 foolproof 1
 felty 2
-foolproofness 4
+foolproofness 5
 ferret 2
 frocking
 flagger 3
@@ -7829,7 +7829,7 @@ flashness 4
 fashes 2
 fuzed 1
 frounces 1
-forenote 3
+forenote 4
 fastness 3
 feltyflier 6
 fleamy

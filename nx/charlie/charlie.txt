@@ -9864,7 +9864,7 @@ chemolysis 1
 cicero 1
 chemolyze
 correspondentially
-clamp
+clamp 1
 chemophysiology 2
 chemoprophyalctic
 cycle
@@ -21462,7 +21462,7 @@ concoctive
 choco 2
 celestialized 3
 crowfoot 1
-congius
+congius 1
 coigned
 chilostomata
 cycloserine 1
