@@ -4147,7 +4147,7 @@ encl 2
 encaustes 1
 exporter 1
 elaeosia 1
-eyeroot 2
+eyeroot 3
 escaloped 1
 echiurida 1
 elucidations 1
@@ -6761,7 +6761,7 @@ enneatic
 enwood 2
 eutrophies 2
 elaphine
-enrooted 1
+enrooted 2
 entoil
 eggler 1
 entom
@@ -10064,7 +10064,7 @@ epigonism 1
 ethal 1
 exoneretur
 ebonies 2
-encephalographically
+encephalographically 1
 editorially 2
 entitlement 1
 ephemeralness 5
