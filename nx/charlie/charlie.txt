@@ -6409,7 +6409,7 @@ cauterizes 2
 caution
 cautionary 1
 couve
-cerebromedullary
+cerebromedullary 1
 calcareosiliceous
 copsing
 compurgatorial 1
@@ -15450,7 +15450,7 @@ chestful 1
 chlorates
 cenosite 1
 citronella 1
-clarion 1
+clarion 2
 clarionet
 clarioning 1
 circuted
@@ -16746,7 +16746,7 @@ cloudiness 1
 convocant 1
 centimeter 1
 coeliorrhoea 1
-cloudlessness 2
+cloudlessness 3
 campody 3
 congregativeness
 cloudlike 1
@@ -18693,7 +18693,7 @@ coirs
 colicker
 clogs
 cleading
-coistril 1
+coistril 2
 commutate
 coital 1
 conflictful
@@ -26333,7 +26333,7 @@ collusiveness 1
 cicerone 1
 costosternal 2
 costothoracic 1
-costotome 1
+costotome 2
 carbonnieux 1
 costotomy
 costotrachelian 1
@@ -27078,7 +27078,7 @@ caplock 1
 croupily 1
 clerking 1
 counterprotection
-counterpuncture 1
+counterpuncture 2
 counterpush 1
 counterquartered 1
 caneva
@@ -30562,7 +30562,7 @@ cubitiere 1
 cubito 1
 cubitocarpal 2
 cumaean 2
-cubitoradial
+cubitoradial 1
 contortae
 cubitus
 cholerrhagia
