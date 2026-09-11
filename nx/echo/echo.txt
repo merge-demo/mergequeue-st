@@ -12029,7 +12029,7 @@ enterfeat 4
 exampleship 2
 essentials 3
 eigenspace 4
-electrostrictive
+electrostrictive 1
 embolus 2
 equilibrize
 electioneerer 2
