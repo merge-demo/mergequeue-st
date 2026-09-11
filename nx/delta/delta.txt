@@ -4425,7 +4425,7 @@ diceplay 1
 duress 4
 demy
 decahydrated 1
-dovetailing
+dovetailing 1
 doddy 1
 damper 3
 diazotization 1
@@ -9179,7 +9179,7 @@ delobranchiata 1
 disorientation 3
 dyeability 2
 denazification 1
-demilance 1
+demilance 2
 devilman 3
 ditriglyph 1
 dieb 2
@@ -10341,7 +10341,7 @@ dentata 5
 diurons 3
 doyle 3
 derelictly 1
-degeneracy 1
+degeneracy 2
 dioramic 3
 diordinal 2
 duplet 1
@@ -12243,7 +12243,7 @@ defrication 1
 dipicrate 3
 disenchanted
 delicacies 1
-debarks 1
+debarks 2
 defogger 2
 disgracious 4
 diplegias
