@@ -543,7 +543,7 @@ backbends
 bayok 2
 blasthole 1
 bafflingness 2
-barometrical 2
+barometrical 3
 backvelder 1
 blastodermic
 baufrey 1
@@ -735,7 +735,7 @@ brakeless 1
 brokeress 2
 binful 1
 beautihood 1
-bransles 3
+bransles 4
 berrendo 1
 breeches 1
 bespangle
@@ -2937,7 +2937,7 @@ barreling 1
 bibaciousness 1
 blanco
 bited 1
-broad
+broad 1
 barrelled 1
 billfish 1
 barrelmaker 3
@@ -7166,7 +7166,7 @@ ballon 1
 bestad 1
 bacteriemia
 bernicles
-bestay 2
+bestay 3
 buffoon 2
 bestamp
 bestand 2
@@ -9696,7 +9696,7 @@ bismark 1
 boulder 3
 bladed
 besmiles
-boisseau
+boisseau 1
 bismerpund 2
 buoyages
 bipartisanism 1
@@ -10444,7 +10444,7 @@ boutade 2
 beachboy 4
 bastion 1
 boghole
-blowbacks
+blowbacks 1
 boobialla
 bhagat 3
 bimuscular
@@ -15673,7 +15673,7 @@ bursera 1
 buskle 1
 butat
 brittleness 3
-batrachotoxin
+batrachotoxin 1
 britzska 2
 branchage 1
 bangiaceae 2
