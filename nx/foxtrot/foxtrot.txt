@@ -3631,7 +3631,7 @@ filiformed 3
 footmaker 4
 frisbees 2
 flook 1
-farmable
+farmable 1
 fridstool
 flashing 4
 faintishness 1
@@ -4636,7 +4636,7 @@ frigidities 4
 formulations 2
 fluctuate 2
 fossane
-fizelyite 2
+fizelyite 3
 fitzroya
 filicides 5
 federatively 4
