@@ -5734,7 +5734,7 @@ brerd 2
 burials 2
 backsight 3
 bandlimit 2
-belight 1
+belight 2
 baaed 3
 bulgaria 1
 bulldozer 2
