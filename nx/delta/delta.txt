@@ -1905,7 +1905,7 @@ debout
 deervetch 3
 donging 2
 denticulated
-deciare 4
+deciare 5
 delicateness 2
 debowel 1
 depravity 3
@@ -3738,7 +3738,7 @@ defied 1
 disour 1
 dehorns 2
 decaudate 2
-doughlike
+doughlike 1
 depolarized 2
 dehorted 1
 damaskine 3
@@ -5097,7 +5097,7 @@ dendromecon 1
 dendron 1
 dindled
 downgrading 2
-deletion 1
+deletion 2
 drills 1
 dasyurid
 decennal
