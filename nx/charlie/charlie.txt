@@ -9216,7 +9216,7 @@ chondrogenous 2
 chateaugray
 chateaus 1
 chateaux
-chatelain
+chatelain 1
 cordmaker
 chatelaines
 centreless
@@ -11791,7 +11791,7 @@ constitutionally
 caravansary 2
 chondrosarcomatous 1
 construed 2
-cibophobiafood
+cibophobiafood 1
 codder 1
 chalmer 1
 colpohysterotomy 1
@@ -12407,7 +12407,7 @@ chromatoscopy 1
 chevalet
 clumps 1
 chromatosis
-cadmean 2
+cadmean 3
 chromaturia 1
 calciphilic 1
 chromazurine
@@ -24386,7 +24386,7 @@ cavally 1
 capitatum
 cirsotome
 coolen 2
-cooler
+cooler 1
 coolers 1
 crimpier 1
 caviling
