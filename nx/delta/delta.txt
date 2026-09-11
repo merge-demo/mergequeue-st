@@ -3226,7 +3226,7 @@ doftberry 2
 defencive 1
 dents 2
 defend 1
-decolor
+decolor 1
 dikast 1
 dolmenic 2
 demimondaine
