@@ -1142,7 +1142,7 @@ degree 1
 decempennate 1
 dullify 1
 definitional 1
-dashmaker 2
+dashmaker 3
 deprocedured
 disoriented 1
 demolitionist 2
@@ -10916,7 +10916,7 @@ datolite 1
 diallist 1
 deuterocone 2
 dispenses 2
-disforestation
+disforestation 1
 doublethinking 1
 digressions
 disadvance 1
@@ -11831,7 +11831,7 @@ dominations 3
 drumfires 1
 disulphone 2
 dromomania
-dinned 1
+dinned 2
 dunked
 denying 4
 diffusionist
