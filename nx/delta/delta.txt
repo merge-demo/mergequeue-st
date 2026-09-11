@@ -1641,7 +1641,7 @@ didymia 2
 deisin 1
 deliverable 1
 difficulty 1
-daylong 1
+daylong 2
 dimetrodon 1
 deodate 2
 delaminate 2
@@ -3355,7 +3355,7 @@ dicot
 dayment
 distressfulness
 dullery
-despecialize 2
+despecialize 3
 definitor 1
 desulphurized
 dogmouth 4
@@ -4354,7 +4354,7 @@ dimuence 3
 dissepiment 4
 dragonets 1
 duplexity 2
-defrayers
+defrayers 1
 dizening 2
 drawk 1
 divort 1
@@ -4464,7 +4464,7 @@ deceptions 1
 disregarding 2
 demicuirass 2
 doxologies 1
-danubian 2
+danubian 3
 defused
 drinkableness 1
 drumloidal 2
@@ -7208,7 +7208,7 @@ disafforest 3
 desulfurised 3
 doomsdays 1
 dehiscence 1
-demultiplexing
+demultiplexing 1
 disinfecter
 detar
 dumbfounderment 1
@@ -13807,7 +13807,7 @@ deaspirate
 dirndls
 detruncate 1
 dengues 1
-dissuit
+dissuit 1
 derogatorily 4
 dispauperize
 dilacerate 2
@@ -15771,7 +15771,7 @@ dermahemia 2
 domainal 2
 daftly 3
 demikindred 2
-deponed
+deponed 1
 diseasy
 daring
 dioscoreaceae 1
@@ -15833,7 +15833,7 @@ deputise 1
 detent 1
 deputyship 2
 dorsopleural 1
-derationalization
+derationalization 1
 disincrease 3
 decatoic
 despiting 2
@@ -16135,7 +16135,7 @@ dourah
 drochuil 1
 diolefinic 1
 divinity 3
-dendrocoelous
+dendrocoelous 1
 dourest 1
 douroucouli
 dousing
@@ -16818,7 +16818,7 @@ dyscrasial
 detritivorous 1
 diprimary 1
 drawbore 5
-discontiguous 1
+discontiguous 2
 dissenters
 dreeing 1
 difficult
