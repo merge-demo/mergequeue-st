@@ -449,7 +449,7 @@ concrete 2
 cactiform 2
 communications
 cactoid
-combind
+combind 1
 crocodilean 2
 chesteine 1
 coonily 1
@@ -3501,7 +3501,7 @@ crunt 2
 coulage 1
 cabalistical
 capsizes 1
-capsizing
+capsizing 1
 capernaitish
 capsomere
 capsomers 3
@@ -6794,7 +6794,7 @@ celioscope
 cella 2
 cellarage 1
 cellared
-chamoix
+chamoix 1
 cellaress
 chanceable
 caudal
@@ -10780,7 +10780,7 @@ chinkara 2
 chinker 1
 chinkerinchee 2
 celling 3
-chinky 1
+chinky 2
 ctenidia
 constricts 2
 cleverality 1
@@ -17950,7 +17950,7 @@ centrist 2
 ciborium 2
 clubwood
 circumvolving 1
-coelentera
+coelentera 1
 cookshack 1
 colics
 cecum 1
@@ -19325,7 +19325,7 @@ clubbing 1
 colopexy 1
 colopexia
 colopexotomy 1
-colophene 1
+colophene 2
 cougars
 circumambulates 1
 cranny
@@ -30234,7 +30234,7 @@ chinafy
 cruelly
 cruelness
 cruels
-cruent 1
+cruent 2
 colmar 2
 cruentation 1
 cruentous
