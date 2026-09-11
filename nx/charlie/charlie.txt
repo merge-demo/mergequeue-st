@@ -4876,7 +4876,7 @@ carrycot
 chromatoplasm 1
 carried 1
 carryed 1
-carrier 1
+carrier 2
 carryings 1
 carriole 1
 carrioles
@@ -12671,7 +12671,7 @@ childkind
 chucker
 chuckfarthing
 chuckhole
-canvassy
+canvassy 1
 chaule
 clergywomen 1
 convinces 1
@@ -17003,7 +17003,7 @@ chm 2
 cmd
 cofferdams
 cnemial 1
-corpsmen
+corpsmen 1
 contributary
 cistuses
 cnida
@@ -20095,7 +20095,7 @@ commentators
 commentatorship 2
 carboned 1
 cyprina
-commented 3
+commented 4
 chromatioideae 1
 commenter 2
 commenting
@@ -28296,7 +28296,7 @@ conine 1
 cephalothoracic 1
 carabineer 1
 cabotages
-crateriform 2
+crateriform 3
 cratering 1
 comatik
 craterkin 1
@@ -28793,7 +28793,7 @@ chok
 chuckfull
 cines 2
 crescentlike 1
-crescentoid 1
+crescentoid 2
 crescents 2
 crescively 2
 clarinettist 1
@@ -29307,7 +29307,7 @@ calcify
 cathetometer 1
 calvinize
 cryptodire 3
-cryptodirous 1
+cryptodirous 2
 cryptodouble
 cryptogam 1
 chilitis 1
@@ -29815,7 +29815,7 @@ colleagued 1
 cochleate
 croppy 1
 cropping 1
-cropplecrown
+cropplecrown 1
 crops
 cropshin 1
 cropsick
