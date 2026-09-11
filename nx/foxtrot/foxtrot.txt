@@ -5664,7 +5664,7 @@ fud 2
 fulguration 4
 fluidising 3
 fireable 3
-flimsiness
+flimsiness 1
 fairleads
 flinch 6
 flagleaf 1
