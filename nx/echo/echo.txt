@@ -2009,7 +2009,7 @@ electrometeor
 entamebic 1
 eligibleness 1
 encephalometric 3
-electrograph 3
+electrograph 4
 embroilments 1
 eyeblink
 eldin 2
@@ -2414,7 +2414,7 @@ electroencephalogram
 empeople 1
 entophytal 1
 espinel 2
-eucalyptography 1
+eucalyptography 2
 erythematous 3
 euphausid 2
 epitaxial 1
@@ -6082,7 +6082,7 @@ enlinkment 1
 elaeoptene 2
 exulcerative
 epithalamiast 2
-entremets
+entremets 1
 enlive 4
 emboly
 exceed 2
@@ -9299,7 +9299,7 @@ electroori 3
 erucivorous 3
 eructance 1
 empoverish 1
-extendability 4
+extendability 5
 extralegal 1
 eructative 2
 eruction 3
