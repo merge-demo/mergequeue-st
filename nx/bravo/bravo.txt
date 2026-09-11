@@ -1210,7 +1210,7 @@ bibliothetic 1
 bakelite 1
 bakemeats 1
 bronchially 3
-bloop
+bloop 1
 bakeoven 4
 blennostatic 1
 bakeress 1
@@ -4966,7 +4966,7 @@ bezette 3
 bonework 1
 blesse 2
 belgae 3
-barmier 2
+barmier 3
 badger
 boulles 2
 bactritoid 1
@@ -7045,7 +7045,7 @@ bola
 byre
 beknots 1
 biodegrade
-barbute 2
+barbute 3
 billiardist
 besouth 2
 blaming 1
@@ -10012,7 +10012,7 @@ bield 1
 broody 1
 barbell 2
 bn 2
-baroscopical
+baroscopical 1
 bargainor 1
 biverb
 beblear 1
@@ -12560,7 +12560,7 @@ bud 2
 baklawas 1
 buttonwood
 boniness
-bellwind
+bellwind 1
 brant 1
 brooklike 3
 boreal

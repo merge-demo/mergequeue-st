@@ -2327,7 +2327,7 @@ fluctuates 2
 furrowless 2
 frangipane 3
 fensive 2
-furner
+furner 1
 falbalas 1
 frillings 3
 fecula 3
@@ -3533,7 +3533,7 @@ flicked 3
 fyke 1
 fortuned 2
 fains 1
-floroun 3
+floroun 4
 fitweed 1
 forehearth 1
 formant 3
@@ -9387,7 +9387,7 @@ felinities 1
 frothy 1
 fleawood 1
 fortypenny 1
-fecaloid
+fecaloid 1
 fatuitousness 1
 frankalmoign 3
 filibustrous
@@ -9994,7 +9994,7 @@ flocculated 4
 flavin 2
 frightens 2
 fallibilist 2
-frighting 1
+frighting 2
 floridness 1
 friedrichsdor 4
 flaggingly 2
@@ -11639,7 +11639,7 @@ fetlow 1
 frizzled 1
 fineness 2
 fructoses 3
-ferren
+ferren 1
 flyability 2
 fustiness 4
 fustoc 4
