@@ -4289,7 +4289,7 @@ diacritical
 dods 1
 decennials 2
 dura 6
-descriers 1
+descriers 2
 demagogue 2
 diseducate 2
 demagoguery 1
@@ -18272,7 +18272,7 @@ decempeda
 dodecafid
 doghearted
 dungbeck 1
-demioctangular
+demioctangular 1
 discussant 2
 drogermen 3
 dishonorable 3
