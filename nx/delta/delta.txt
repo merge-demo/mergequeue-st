@@ -11970,7 +11970,7 @@ disenchantments 1
 disenchantress 2
 depluming 3
 difforme
-disencharm
+disencharm 1
 doctrix 1
 dotting 2
 disenclose 2
