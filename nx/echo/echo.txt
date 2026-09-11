@@ -7772,7 +7772,7 @@ ectodynamomorphic
 extenuation 4
 echolalia 3
 edmund 3
-empirical 1
+empirical 2
 endopoditic 3
 equivocators 2
 examinership 2
@@ -8377,7 +8377,7 @@ eudaemonia 2
 ensigncy 2
 equals 1
 euphoriant 3
-epizoon
+epizoon 1
 edemic 4
 exulceration 1
 ecphorize 1
@@ -8551,7 +8551,7 @@ equate 3
 eburnification 2
 enharmonic 4
 earnings 2
-equibalanced
+equibalanced 1
 electrodialitic 2
 eubacteriales
 equicontinuous 8
@@ -8940,7 +8940,7 @@ essex 3
 enhort 2
 eon 4
 extraspherical 1
-evenings 4
+evenings 5
 encephalin 3
 eleaticism 2
 endopleurite 2
@@ -12103,7 +12103,7 @@ ensepulchered
 engulfs 4
 edentates 1
 expressor
-easels 2
+easels 3
 emblazonry
 ekphoria 3
 edestan 2
