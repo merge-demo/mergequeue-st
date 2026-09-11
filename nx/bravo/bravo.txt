@@ -12925,7 +12925,7 @@ bloodstain 1
 boot 2
 big 2
 bhandari 2
-bootees
+bootees 1
 battlemented 1
 blunging 1
 bootery 2
