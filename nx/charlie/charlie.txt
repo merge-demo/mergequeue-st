@@ -1260,7 +1260,7 @@ chlored 1
 cambrel 1
 cameo
 chusite 1
-cicadid 2
+cicadid 3
 counterpoise 1
 calendaring
 cyprine
@@ -18695,7 +18695,7 @@ clogs
 cleading
 coistril 1
 commutate
-coital
+coital 1
 conflictful
 codium 2
 coitally
