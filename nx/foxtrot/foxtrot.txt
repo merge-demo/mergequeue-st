@@ -7103,7 +7103,7 @@ fadmonger 1
 forgeability 2
 foolproof 1
 felty 2
-foolproofness 4
+foolproofness 5
 ferret 2
 frocking
 flagger 3
@@ -7829,7 +7829,7 @@ flashness 4
 fashes 2
 fuzed 1
 frounces 1
-forenote 3
+forenote 4
 fastness 3
 feltyflier 6
 fleamy
