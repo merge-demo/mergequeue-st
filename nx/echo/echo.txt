@@ -4303,7 +4303,7 @@ enamelist 2
 enamelless
 emit 2
 enami 2
-enamorado
+enamorado 1
 enamorato
 extraordinariness 2
 enamorment
@@ -5909,7 +5909,7 @@ espalier 3
 effluviography 1
 enslaving
 educatee 1
-enjoyably 3
+enjoyably 4
 enhypostasia 3
 estmark
 electrotheraputically
@@ -10845,7 +10845,7 @@ eluent 2
 exemplars
 enoptromancy 2
 engine
-electrocuting 2
+electrocuting 3
 execrates 3
 etherealising 2
 eupepticity
@@ -12029,7 +12029,7 @@ enterfeat 4
 exampleship 2
 essentials 3
 eigenspace 4
-electrostrictive
+electrostrictive 1
 embolus 2
 equilibrize
 electioneerer 2
@@ -12259,7 +12259,7 @@ encourage 2
 eskuara
 ephemerides 4
 emmental 1
-exhibiters 3
+exhibiters 4
 ecclesiolater 1
 equipment
 epanalepsis 1
