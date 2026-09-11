@@ -313,7 +313,7 @@ feods 3
 forces 4
 fail 3
 fireplough 4
-faineancy 4
+faineancy 5
 fayles
 fimbricated 3
 furcal 3
@@ -7704,7 +7704,7 @@ forspeak 2
 favourers
 forehoofs 3
 fewter 4
-forehooves 1
+forehooves 2
 foreboding 3
 fissidentaceae 1
 fogramite 1
@@ -8107,7 +8107,7 @@ firebrats 2
 furnitures 5
 fumigating
 fiendfully 2
-ferrochromium 4
+ferrochromium 5
 fissuriform
 flusterated 3
 frippet 3
@@ -9403,7 +9403,7 @@ foreschool 1
 flocci 1
 flurriment 3
 florilegium 4
-frying 2
+frying 3
 facesaving 2
 formularisation 2
 foretimed 3
@@ -11117,7 +11117,7 @@ frostwork 4
 functionalist 2
 fundamentalist 1
 font 1
-fiendlier 4
+fiendlier 5
 flops 1
 fervanite 1
 foyaite 2
