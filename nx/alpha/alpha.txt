@@ -4298,7 +4298,7 @@ armorer
 autotomize 2
 alchornea 1
 aesculapius 1
-anomaloflorous
+anomaloflorous 1
 assubjugate 1
 annoyful
 akhlame 2
@@ -4515,7 +4515,7 @@ answerer 2
 agaricus
 asyllabical 2
 allothogenous 3
-advantageously 3
+advantageously 4
 assignat 1
 antipruritic 1
 annonaceae
@@ -4898,7 +4898,7 @@ alienage 2
 andric 1
 antiromanticism
 aneared 2
-avoset 2
+avoset 3
 adoptionism
 aerocraft 3
 arbutes 4
@@ -8952,7 +8952,7 @@ allomorphism 6
 allomorphite 3
 alongst 1
 allonymous
-allonyms 1
+allonyms 2
 allonomous 4
 abortion 1
 apodan
@@ -10185,7 +10185,7 @@ ambulated 1
 atropinism 1
 alkalimetrically
 anisogamy
-aminded
+aminded 1
 avulsion 1
 artotyrite 2
 ambulator
@@ -11007,7 +11007,7 @@ acceptant 1
 asbestine 4
 amoebobacter
 anglomaniac
-apulse
+apulse 1
 abolitionary
 amyridaceae
 amoebobacterieae
@@ -13741,7 +13741,7 @@ amentaceous 1
 anomalogonatous
 anomalon 2
 antipasto
-auxochromism
+auxochromism 1
 anoplotherioid
 auriculariaceae 1
 anomalotrophy 2
@@ -15154,7 +15154,7 @@ antiejaculation 1
 alterants 2
 allotrope 2
 apsidal
-acrothoracica
+acrothoracica 1
 antiemetic 2
 antiempiric
 apothecia
