@@ -593,7 +593,7 @@ antiquarian
 acetylenation 1
 abn
 agrania
-alphameric 1
+alphameric 2
 abnegates 1
 anthropomancy
 abrotanum 2
@@ -2097,7 +2097,7 @@ afrikander 1
 acharnement
 achatina
 achatinidae 2
-absorbing 4
+absorbing 5
 ache 2
 alkalinising 1
 artemisin 3
@@ -6732,7 +6732,7 @@ anc
 ambrology
 amorphophyte 1
 accredits
-aimless
+aimless 1
 acropolis 1
 authorise 2
 aimlessly
@@ -9792,7 +9792,7 @@ approximately
 aparai 3
 avocatory
 abandonedly 2
-amalekite
+amalekite 1
 albertina 1
 appanages 2
 amalfitan
@@ -14133,7 +14133,7 @@ ambiguous 1
 are 2
 airbill
 autoelectrolysis
-antemedial 1
+antemedial 2
 alining 1
 audacities
 amyelencephalic
@@ -24440,7 +24440,7 @@ autostarter 2
 atlaslike
 autostylism 1
 autostradas
-accessories
+accessories 1
 autosuggestion 1
 agnoiology 1
 abstractionists 1
