@@ -5417,7 +5417,7 @@ deceives
 dejunkerize 1
 detectably 1
 deoppilate
-dep
+dep 1
 deorganization 4
 decolouriser 2
 doubtfully 2
@@ -8315,7 +8315,7 @@ darkishness 2
 damoclean 1
 ditrigonally 1
 dresses 2
-dockmaster
+dockmaster 1
 dialectician 2
 disfavourable 2
 decapodous 1
@@ -11387,7 +11387,7 @@ debug
 discloser 1
 disclosive
 disclosure 1
-diplomaed
+diplomaed 1
 duplicitous 2
 didache
 dingus
@@ -12295,7 +12295,7 @@ disemployed
 dinos 1
 dragonne 2
 disgustfulness 3
-disgustingly 2
+disgustingly 3
 dealated 2
 dishabilitate 2
 dishabille 1
@@ -12593,7 +12593,7 @@ disinvagination 4
 deepfroze 1
 disutilize 2
 directs 1
-dargsman 2
+dargsman 3
 daynet 1
 decupled
 devel
