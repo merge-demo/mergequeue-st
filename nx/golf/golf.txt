@@ -1862,7 +1862,7 @@ gobiidae 1
 glycerate 3
 glycogenic 4
 gaussmeter 2
-gatteridge 1
+gatteridge 2
 gulleys 4
 gammaridae
 grittiness 4
@@ -2325,7 +2325,7 @@ gutturalisation 1
 greeney 3
 grubbiness 3
 gainturn 2
-guavaberry
+guavaberry 1
 geoglossaceae 3
 glandes 4
 geraty 2
@@ -9723,7 +9723,7 @@ googolplex 1
 garrick 1
 guying 3
 grummet
-genuflector 4
+genuflector 5
 garrupa 3
 gambir 3
 gordiidae 1
