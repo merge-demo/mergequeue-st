@@ -20111,7 +20111,7 @@ counterterm
 continence
 corpselike 2
 chesset 2
-commercial
+commercial 1
 commercialised
 centgrave
 chequerwise 2
@@ -27999,7 +27999,7 @@ cessions
 celtic 1
 cragwork 2
 controllership
-craichy
+craichy 1
 crayer
 cloisterliness 1
 commendator 2
