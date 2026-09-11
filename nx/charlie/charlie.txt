@@ -11344,7 +11344,7 @@ chlorometry 1
 categorem
 coopted 2
 capman
-chloromycetin
+chloromycetin 1
 curbed 1
 chiasmatype 1
 chloronitrate
@@ -12160,7 +12160,7 @@ caraunda
 chrysalid 1
 coronet 2
 chrysalida
-cascarilla 2
+cascarilla 3
 chrysaline
 chrysalis
 chrysalises
@@ -18898,7 +18898,7 @@ climbs 2
 coliuria 1
 contemporary 2
 colla
-coorg 1
+coorg 2
 csnet
 countermoving
 cornulite 1
