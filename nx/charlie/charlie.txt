@@ -11965,7 +11965,7 @@ choreutic
 chorial
 cilician
 choriamb 2
-choriambic
+choriambic 1
 chorometry 2
 cozenage
 coaggregated
