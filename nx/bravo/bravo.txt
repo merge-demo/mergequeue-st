@@ -288,7 +288,7 @@ backarrows 1
 backbar 4
 bedright
 begrutch 1
-biolith 1
+biolith 2
 booter 1
 benzacridine 1
 backslided 3
@@ -7742,7 +7742,7 @@ bullan
 barquantine 1
 breakover
 bhindi 1
-bowstave 3
+bowstave 4
 bhishti 1
 bhistie
 berake
@@ -7765,7 +7765,7 @@ blackbelly 2
 bacchae 1
 bill 1
 bhutanese 2
-bant 2
+bant 3
 bimilllennia
 bagpipes
 babuism
@@ -9804,7 +9804,7 @@ borg 3
 bewitching
 barleymow
 beanpoles 1
-beja
+beja 1
 bradypnea 1
 bistriate 3
 bombardment 4
@@ -11857,7 +11857,7 @@ beaked 2
 begrudged
 bepale
 boucan 3
-bodilize 1
+bodilize 2
 bahuvrihi 4
 barbedness 2
 busuuti 1
@@ -16267,7 +16267,7 @@ blackguardize 3
 beamlet 1
 bahuts 2
 bourock 2
-brownishness 2
+brownishness 3
 brindles 2
 burlesqued 1
 bundh 1
@@ -17835,7 +17835,7 @@ burst
 booksellers 2
 breezeful 2
 burster 1
-blutwurst
+blutwurst 1
 bastardizing
 brouille
 botein
@@ -17978,7 +17978,7 @@ betties 1
 brigued
 bulldust 4
 breakups
-borderland 2
+borderland 3
 bobachee
 bromometric 2
 barkeeper
