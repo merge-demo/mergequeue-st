@@ -593,7 +593,7 @@ antiquarian
 acetylenation 1
 abn
 agrania
-alphameric 1
+alphameric 2
 abnegates 1
 anthropomancy
 abrotanum 2
@@ -2375,7 +2375,7 @@ arecuna 1
 acids
 acidulate
 acidulated
-azuline
+azuline 1
 acephalism
 acidurias 1
 arteriole
@@ -3257,7 +3257,7 @@ allochromatic 1
 axopetal
 adderbolt 2
 acoumetry 2
-antimarian 1
+antimarian 2
 alstonine 3
 assident
 antennary
@@ -4675,7 +4675,7 @@ aechmophorus
 assistless 1
 agitates 1
 ayegreen 2
-alahee 1
+alahee 2
 avikom 1
 aecidial
 archical
@@ -5386,7 +5386,7 @@ affrayers
 affraying 1
 affrays 1
 admeasured 1
-affranchise
+affranchise 1
 adiadokokinesi 1
 affret 1
 acanthous
@@ -6732,7 +6732,7 @@ anc
 ambrology
 amorphophyte 1
 accredits
-aimless
+aimless 1
 acropolis 1
 authorise 2
 aimlessly
