@@ -2906,7 +2906,7 @@ chartophylaxes
 congenialize
 cant
 connectionless
-cantabank 4
+cantabank 5
 canonic 1
 columbier
 curatively 1
@@ -12995,7 +12995,7 @@ clamation 3
 cyanmethemoglobin 1
 calenturish 1
 cyano
-crystallogenesis
+crystallogenesis 1
 cyanoacetate
 cobenignity 2
 currencies 1
@@ -15715,7 +15715,7 @@ clavicularium
 claviculate
 chrysohermidin 1
 chirotype 2
-clima 1
+clima 2
 consilient
 chrysograph 1
 claviger 1
@@ -16871,7 +16871,7 @@ clubroom 2
 casebooks 1
 clubroots 1
 clubs
-clubstart
+clubstart 1
 clubster 1
 carpogonium 1
 clubweed
@@ -27464,7 +27464,7 @@ coutet
 carotids 2
 committing 1
 concertised 1
-conversaziones 2
+conversaziones 3
 couthier 1
 couthless 1
 couthly
