@@ -1978,7 +1978,7 @@ frows 2
 fancy 2
 feebless 2
 formaldehydesulphoxylate 5
-filatory 5
+filatory 6
 fibroneuroma
 fillock 2
 fernticle 5
@@ -2028,7 +2028,7 @@ fireworky 2
 fractionizing 4
 freshens 3
 fieldwards 1
-finestra 3
+finestra 4
 fathomage 4
 figurines 4
 fradicin 5
@@ -2818,7 +2818,7 @@ forehood 1
 firsthand 2
 falcial 8
 frugalism
-folacins
+folacins 1
 finlander 1
 fiddlehead 2
 fumigatories 4
@@ -5356,7 +5356,7 @@ fettles 2
 frayn 3
 flanken 5
 feebleness 1
-fullmouth 1
+fullmouth 2
 fascia 4
 flitterbat 2
 fruiteries 2
@@ -6089,7 +6089,7 @@ foxhounds
 filchery 4
 funambule 2
 flauntingly 1
-forsook
+forsook 1
 foretriangle 4
 fleyland 2
 forecome 1
@@ -6814,7 +6814,7 @@ faithfuls 2
 finmark 2
 forams 1
 fungin 3
-forewonted 2
+forewonted 3
 freelancer 6
 folderols 3
 foreheater 1
