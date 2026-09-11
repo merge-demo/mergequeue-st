@@ -77,7 +77,7 @@ fullfaces 3
 facundity 1
 facemark 6
 flunkeyhood 1
-forme 2
+forme 3
 filching 2
 faces 2
 folkright 2
@@ -6455,7 +6455,7 @@ filth 2
 folkcraft 1
 featliness 1
 frenchize 2
-fordy 2
+fordy 3
 fellatrix
 forsar 4
 flurn 2
