@@ -577,7 +577,7 @@ balladling
 blunks
 bromcresol 1
 blottingly
-bishoped
+bishoped 1
 brahminic 6
 backwoodsy 1
 bacon 3
@@ -5357,7 +5357,7 @@ blueweed 2
 besoothement 1
 biflecnode 1
 buyable 1
-bromobenzene 2
+bromobenzene 3
 barodynamic
 barbarisation 1
 burly 2
@@ -9004,7 +9004,7 @@ ballone
 beneficium
 buttermaker 2
 boroughmongery
-bitting
+bitting 1
 biologics 3
 busybodyish
 bioluminescence
