@@ -737,7 +737,7 @@ fluxibility 6
 fibrilliferous 3
 footbreadth 1
 fanatism 1
-fabricating 2
+fabricating 3
 farcilite 3
 flybelt 3
 frozenness 2
@@ -3674,7 +3674,7 @@ flourishes 2
 flaying 3
 furnacer 1
 filemot 4
-financiered 3
+financiered 4
 freshener 3
 finicking 1
 follying 2
@@ -5352,7 +5352,7 @@ fittier 2
 fraughting 4
 foggily 5
 feedbin 1
-fettles 1
+fettles 2
 frayn 3
 flanken 5
 feebleness 1
@@ -5605,7 +5605,7 @@ flickermouse 2
 flannelmouthed 1
 flowery 2
 furbearer 1
-flammulation 1
+flammulation 2
 froebelist 2
 frillier 3
 fanaticized
@@ -6185,7 +6185,7 @@ funguslike 2
 falange
 fog 2
 fadeaway 1
-frothier
+frothier 1
 fluavile 2
 flubbed 2
 feudum 3
@@ -6650,7 +6650,7 @@ foehnlike 2
 foeless
 faulted 2
 fulgurating 1
-forenotice 3
+forenotice 4
 foemanship 2
 fripperer 1
 foemen
@@ -7218,7 +7218,7 @@ frolicks 2
 flathe 1
 flaccid 2
 fiscalized
-formicivorous 1
+formicivorous 2
 forfeits 1
 frizzlers 1
 faenas 2
