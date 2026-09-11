@@ -3393,7 +3393,7 @@ adamantness 1
 actinochemical 1
 aphthongia 2
 adamantoblast 1
-archery 3
+archery 4
 amblystoma
 absentee 1
 atresic
@@ -4720,7 +4720,7 @@ amphichroic 2
 armet 2
 aggravates
 arthriticine 1
-ataxias
+ataxias 1
 asphaltus 3
 abasing 1
 airchecks 1
@@ -6240,7 +6240,7 @@ aplanobacter
 antecedency
 agon
 agonal 1
-athetize 1
+athetize 2
 awardable 2
 aurorae 1
 azygoses 2
@@ -10508,7 +10508,7 @@ attachments 1
 answerableness 1
 anaxagorize 2
 annotating 2
-appearing 2
+appearing 3
 anticlimactically
 amice
 anatriptic 2
@@ -11076,7 +11076,7 @@ abnormalised
 antisocially
 aristodemocracies 1
 amorphousness 1
-alleluia
+alleluia 1
 affirmatory
 anguishes
 anthropometer
@@ -11096,7 +11096,7 @@ acclinate 1
 anoesis
 autoput 1
 aunter 2
-antireligion 1
+antireligion 2
 alacreatinin 1
 amotions 3
 aubade 2
@@ -11994,7 +11994,7 @@ araliaceae 1
 anaemias
 apostrophal 1
 anaphylactin 1
-anaphylactogenic
+anaphylactogenic 1
 alcibiades
 anaphylatoxin 4
 anaphyte 1
@@ -22575,7 +22575,7 @@ agentess 1
 addicts 1
 anisoleucocytosis
 ateliotic 3
-atelo 1
+atelo 2
 atelocephalous 2
 alternativo 3
 aselline
