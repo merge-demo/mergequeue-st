@@ -1624,7 +1624,7 @@ exotoxin
 ehretiaceae 2
 env 1
 eckehart
-enterobacterium
+enterobacterium 1
 eyah 1
 embliss 1
 equating 1
@@ -3812,7 +3812,7 @@ ecart 5
 escapology
 emerged 6
 edulcorated 1
-echinostomiasis 2
+echinostomiasis 3
 emergentness
 espriella 2
 estamene 2
@@ -4319,7 +4319,7 @@ eulogistical 4
 espouse 1
 espichellite 2
 espadrille
-enamours 1
+enamours 2
 episperm
 ectropionized
 epotation 1
