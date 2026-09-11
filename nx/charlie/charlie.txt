@@ -3913,7 +3913,7 @@ carbonizing
 carbonometer
 chondrin
 carbons
-carbonuria 2
+carbonuria 3
 calcined 1
 clarity 1
 contradistinguish 2
@@ -9354,7 +9354,7 @@ chauvinism
 chauvinist
 chauvinistic
 cumbrance
-colds 2
+colds 3
 chavante
 chavantean
 chavel 1
@@ -13868,7 +13868,7 @@ cryptanalytical
 cyniatrics
 cynical
 colorectostomy
-consecrations
+consecrations 1
 cynics 2
 chainer 4
 councilwoman 3
@@ -16190,7 +16190,7 @@ chromatocyte
 circuities 2
 clinched
 capitalism 1
-collodiochloride 1
+collodiochloride 2
 checkroom
 cavus 1
 clinchers 1
@@ -24524,7 +24524,7 @@ coparcenary
 cyclopropane 3
 celibates 1
 comic
-coparcener
+coparcener 1
 coparceny 1
 coparenary 2
 civilizations
@@ -26846,7 +26846,7 @@ crystallise
 correctingly 1
 conspiring
 counterexcitement
-counterexercise 1
+counterexercise 2
 commeasuring
 cyclometry 1
 counterextension
