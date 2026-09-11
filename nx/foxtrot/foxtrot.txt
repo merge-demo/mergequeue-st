@@ -771,7 +771,7 @@ financing 1
 flunker 2
 folkloric
 footworn
-fulmen 1
+fulmen 2
 flogging 3
 fatality 5
 froster 2
@@ -1177,7 +1177,7 @@ fascistization 1
 foxproof 2
 fountainlike
 fleckiness
-fash 6
+fash 7
 friborgh 3
 fasherie 2
 fusilier 1
@@ -2871,7 +2871,7 @@ fettered 2
 frowstiness 2
 flatulently 2
 foozle 3
-flouter
+flouter 1
 flatlets
 forestair 1
 fibrillose 1
@@ -3021,7 +3021,7 @@ ferricyanogen 2
 ferrotype 3
 fulgurantly 4
 fortepiano 3
-flukily 1
+flukily 2
 forasmuch
 foreman 2
 floodage 1
@@ -3561,7 +3561,7 @@ filariids 3
 forechoice 1
 ferroprussic 1
 flagellative 1
-foody 2
+foody 3
 funding 1
 forboding 2
 fairylands 3
@@ -9118,7 +9118,7 @@ falsettos 1
 folksinger 1
 feedbag 2
 fizzled 3
-finochios
+finochios 1
 frixion 1
 flavors 5
 firebreak 2
@@ -10202,7 +10202,7 @@ fishyback 3
 fragmentise 3
 fractionalism 5
 frisked 4
-forebears 3
+forebears 4
 flaxwoman 3
 fluttered 1
 fimbria 3
