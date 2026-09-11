@@ -2315,7 +2315,7 @@ bewearies 1
 birdcatching 1
 barbellula 1
 barbellulate
-boozing 1
+boozing 2
 blunderings
 blossombill 2
 bicarbonates 1
@@ -4771,7 +4771,7 @@ bedrails 1
 binnacle
 bedral 1
 boltwork 2
-bedraping 1
+bedraping 2
 bedread 1
 bedrench 2
 baldling 2
@@ -6146,7 +6146,7 @@ butanolide 1
 beelzebul
 blanking 2
 blastide
-bohor 1
+bohor 2
 belonoid 3
 baske
 benefactrices 1
@@ -6635,7 +6635,7 @@ bagass 2
 bergman 3
 bergs
 breastbone 1
-blackcap 1
+blackcap 2
 bordar 1
 boneshave 2
 binal 3
@@ -10781,7 +10781,7 @@ boatsmen 2
 blepharadenitis
 blepharanthracosis 2
 bromaurate
-boylike
+boylike 1
 brutalise 4
 bizarres 1
 brosse
@@ -11050,7 +11050,7 @@ between 3
 bloats
 brachygnathous
 byelorussian 3
-berlin
+berlin 1
 blob 3
 bimetallic
 bicentrically
@@ -12960,7 +12960,7 @@ bladderweed 2
 bloodberry 2
 bronchocele 2
 berliners 3
-blameless 2
+blameless 3
 bureaucratic 1
 breviloquence 2
 boleros 1
@@ -13840,7 +13840,7 @@ burglarproofed 3
 bower 1
 backrests 1
 bowerbird 3
-blindness 1
+blindness 2
 binominal
 bidential
 beehive 1
