@@ -3881,7 +3881,7 @@ disherits 1
 dekameters
 decumani 2
 dekapode 3
-duo 1
+duo 2
 dahlsten 3
 decan
 dollied
@@ -8859,7 +8859,7 @@ degustation 1
 doziness 1
 depthwise 1
 diffeomorphism 1
-deflexure
+deflexure 1
 domiciliating 1
 dicacity
 deodorising 2
@@ -12349,7 +12349,7 @@ devachan 2
 dissemilative 1
 daphnean
 dharmakaya 3
-depresses
+depresses 1
 dishellenize
 deigning 3
 dantist 1
