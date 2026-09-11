@@ -3437,7 +3437,7 @@ deflowerer 3
 dumpcart 1
 dipleurogenetic 2
 demanders 1
-dormient
+dormient 1
 duelists 1
 dehumidifier 2
 damp 1
@@ -13200,7 +13200,7 @@ durums
 displat
 displeasance
 displeasant 1
-desmopathy 4
+desmopathy 5
 dechloridizing 1
 deportable 3
 disreverence 2
@@ -17983,7 +17983,7 @@ dactyliography 2
 delimitate 1
 defibrinate 2
 dufterdar 4
-dys 3
+dys 4
 duftite
 disamenity 1
 deve 2
