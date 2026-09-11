@@ -4198,7 +4198,7 @@ cardiorespiratory
 cardiorrhaphy 1
 cardiorrheuma 1
 celts 1
-cardiosphygmogram
+cardiosphygmogram 1
 citternhead
 cardiotrophotherapy 1
 cardiovascular 2
@@ -14501,7 +14501,7 @@ courante 1
 cising 1
 cisium 2
 cisjurane
-cisleithan
+cisleithan 1
 cislunar 1
 cismontanism 1
 cisplatine
@@ -19324,7 +19324,7 @@ congregationer
 clubbing 1
 colopexy 1
 colopexia
-colopexotomy 1
+colopexotomy 2
 colophene 2
 cougars
 circumambulates 1
@@ -27236,7 +27236,7 @@ countervenom 1
 countervibration 1
 chymiferous 2
 countervote
-correlation 1
+correlation 2
 counterwager 2
 cervicaprine 1
 chlorhydrate
@@ -30172,7 +30172,7 @@ chokidar
 crucians
 cruciately 1
 cruciating 1
-costopulmonary 1
+costopulmonary 2
 concorder
 cruciation 3
 crucible 1
@@ -31579,7 +31579,7 @@ curtesies
 curtilage
 curtsied 1
 curucaneca
-catcalled
+catcalled 1
 curucucu
 canadol 1
 curucui
