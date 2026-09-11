@@ -4851,7 +4851,7 @@ encumbrance 1
 extrabureau 1
 english
 encumbrous 2
-evolves 4
+evolves 5
 eyednesses
 enterocoelic 1
 exsanguination
@@ -10331,7 +10331,7 @@ ethnogeographic 1
 extirpator 6
 estradas 2
 externation 1
-electroplaque 1
+electroplaque 2
 ethnographer 4
 euornithic 1
 ethnohistoric 1
@@ -11099,7 +11099,7 @@ expunging 2
 edo 2
 egoity
 endobronchitis 1
-exulceratory 1
+exulceratory 2
 empower 1
 ekacaesium 2
 epistemolog 1
@@ -11881,7 +11881,7 @@ endosperm 1
 evanescent
 engrammes 3
 eucre 2
-elusoriness 2
+elusoriness 3
 ervenholder 2
 everwhich 4
 eparchate 3
