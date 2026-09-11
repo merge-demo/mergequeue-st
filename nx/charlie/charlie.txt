@@ -18342,7 +18342,7 @@ chamber 2
 chasses 2
 clodpoll
 cogie
-cogitability 1
+cogitability 2
 cestraciontes
 culminant 1
 cogitabund
@@ -20525,7 +20525,7 @@ compassionateness 1
 catalepsy 1
 coiners 1
 compassive 2
-coinhere
+coinhere 1
 compassivity 1
 cwrite
 compatibility
