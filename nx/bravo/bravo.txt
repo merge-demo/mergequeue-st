@@ -4771,7 +4771,7 @@ bedrails 1
 binnacle
 bedral 1
 boltwork 2
-bedraping 1
+bedraping 2
 bedread 1
 bedrench 2
 baldling 2
@@ -6146,7 +6146,7 @@ butanolide 1
 beelzebul
 blanking 2
 blastide
-bohor 1
+bohor 2
 belonoid 3
 baske
 benefactrices 1
