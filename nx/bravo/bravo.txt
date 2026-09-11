@@ -882,7 +882,7 @@ backband 4
 bagdad
 bunters 1
 begoniaceae 3
-bauxites 1
+bauxites 2
 bicolour 3
 bagful
 baggagemaster 1
@@ -1733,7 +1733,7 @@ beseeches
 bohea 2
 blur 1
 bravehearted
-biasing
+biasing 1
 buccate 3
 bryan 2
 bridgepot 2
@@ -8608,7 +8608,7 @@ bronchial
 bailout
 belatedly 2
 beeswinged 2
-becowards 2
+becowards 3
 billiards
 billyboy 1
 bivalved 1
@@ -12320,7 +12320,7 @@ bathycurrent 2
 bullwhacker 1
 betrayer
 bombardments 1
-bombline 2
+bombline 3
 bowdrill 1
 bombast
 buglers 1
