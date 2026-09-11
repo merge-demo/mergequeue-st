@@ -3227,7 +3227,7 @@ basidiospore 2
 basidiosporous 1
 buckbush 2
 batiked 1
-bodiless 2
+bodiless 3
 bedights 2
 bathtub 2
 blatters
@@ -15460,7 +15460,7 @@ brill 1
 bradytocia
 bicone 1
 binominous
-brillante
+brillante 1
 biostatistic 3
 burrobrush 3
 braata
