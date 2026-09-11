@@ -17,7 +17,7 @@ ataxy 3
 anidrosis 1
 adipolysis 1
 arriding
-autoimmunities
+autoimmunities 1
 abo
 aivr 1
 archerfish
@@ -247,7 +247,7 @@ antileft 3
 apostate 2
 abraded 1
 acantholysis 3
-adenomata
+adenomata 1
 abbreviates 2
 achariaceous 2
 atmiatry 1
@@ -663,7 +663,7 @@ abollae
 aboma 1
 abomasum 3
 abomasus 2
-alkylize 1
+alkylize 2
 abominably 1
 abominate 1
 avifaunal 2
@@ -4989,7 +4989,7 @@ astrogator 1
 aerolites 2
 avulsions
 admonitioner
-antepalatal
+antepalatal 1
 aerolitic
 aerological 1
 antepartum 3
@@ -5814,7 +5814,7 @@ agarwal
 angiomatosis 1
 antierosive
 agasp
-agast
+agast 1
 azotine 1
 antismog
 ashmen 2
@@ -13357,7 +13357,7 @@ anisomyodous
 archegay 1
 amebiform
 aetosaurus 3
-aeipathy
+aeipathy 1
 anematized
 anisophylly 1
 anisophyllous 1
@@ -16114,7 +16114,7 @@ acroarthritis 1
 aphthartodocetism 1
 ajowans 1
 articling
-apomictic
+apomictic 1
 acetamidin
 aril
 antiseptic 3
@@ -19186,7 +19186,7 @@ agcy 2
 allituric 1
 arctostaphylos 1
 alick
-arcuale 1
+arcuale 2
 acrita
 arcuate
 attache 2
@@ -22465,7 +22465,7 @@ aped
 anamnestically 1
 astrophysicists 1
 arisaema 1
-anthemideae 2
+anthemideae 3
 aleurones 1
 astrophotographic 2
 astrophotometer
