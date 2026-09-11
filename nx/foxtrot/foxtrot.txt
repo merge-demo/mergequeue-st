@@ -77,7 +77,7 @@ fullfaces 3
 facundity 1
 facemark 6
 flunkeyhood 1
-forme 2
+forme 3
 filching 2
 faces 2
 folkright 2
@@ -2449,7 +2449,7 @@ fingu 1
 frontwise 4
 faitery
 foreproduct 2
-fermentable 4
+fermentable 5
 fermentativeness 1
 faradize 1
 falus 5
@@ -3037,7 +3037,7 @@ frostflower
 frenchen 4
 fissioned
 forensical
-felstones 2
+felstones 3
 friendlies 4
 fibbers 2
 foremelt 4
@@ -3533,7 +3533,7 @@ flicked 3
 fyke 1
 fortuned 2
 fains 1
-floroun 3
+floroun 4
 fitweed 1
 forehearth 1
 formant 3
@@ -4555,7 +4555,7 @@ flatfooting 1
 fantee 2
 fourth 1
 feudists 1
-frit
+frit 1
 futtocks 3
 forespoken 1
 freith 1
@@ -4739,7 +4739,7 @@ faldfee 3
 forthink
 fablemongering 4
 forestry 1
-fiscality
+fiscality 1
 flo
 fertil 1
 furtherest 3
@@ -6455,7 +6455,7 @@ filth 2
 folkcraft 1
 featliness 1
 frenchize 2
-fordy 2
+fordy 3
 fellatrix
 forsar 4
 flurn 2
@@ -9387,7 +9387,7 @@ felinities 1
 frothy 1
 fleawood 1
 fortypenny 1
-fecaloid
+fecaloid 1
 fatuitousness 1
 frankalmoign 3
 filibustrous
