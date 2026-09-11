@@ -3261,7 +3261,7 @@ glancer 2
 glycosin 5
 grein 1
 glent 1
-grabbable 2
+grabbable 3
 glosseme 3
 geodic 2
 gula 3
@@ -10287,7 +10287,7 @@ grather 3
 gossipped 1
 gridded 1
 gloomy 1
-galliard 2
+galliard 3
 gulpier 1
 galactosidase 1
 girasol 1
