@@ -16746,7 +16746,7 @@ cloudiness 1
 convocant 1
 centimeter 1
 coeliorrhoea 1
-cloudlessness 2
+cloudlessness 3
 campody 3
 congregativeness
 cloudlike 1
@@ -26333,7 +26333,7 @@ collusiveness 1
 cicerone 1
 costosternal 2
 costothoracic 1
-costotome 1
+costotome 2
 carbonnieux 1
 costotomy
 costotrachelian 1
@@ -30562,7 +30562,7 @@ cubitiere 1
 cubito 1
 cubitocarpal 2
 cumaean 2
-cubitoradial
+cubitoradial 1
 contortae
 cubitus
 cholerrhagia
