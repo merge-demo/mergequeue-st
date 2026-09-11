@@ -2315,7 +2315,7 @@ bewearies 1
 birdcatching 1
 barbellula 1
 barbellulate
-boozing 1
+boozing 2
 blunderings
 blossombill 2
 bicarbonates 1
@@ -6635,7 +6635,7 @@ bagass 2
 bergman 3
 bergs
 breastbone 1
-blackcap 1
+blackcap 2
 bordar 1
 boneshave 2
 binal 3
@@ -10781,7 +10781,7 @@ boatsmen 2
 blepharadenitis
 blepharanthracosis 2
 bromaurate
-boylike
+boylike 1
 brutalise 4
 bizarres 1
 brosse
@@ -13840,7 +13840,7 @@ burglarproofed 3
 bower 1
 backrests 1
 bowerbird 3
-blindness 1
+blindness 2
 binominal
 bidential
 beehive 1
