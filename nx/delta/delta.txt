@@ -12613,7 +12613,7 @@ drate 4
 delegant 3
 dertrotheca 3
 defaultant 3
-descendentalist 1
+descendentalist 2
 descrial 2
 dodgeries 3
 duplicidentate
