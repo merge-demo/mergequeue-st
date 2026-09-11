@@ -1862,7 +1862,7 @@ awnings
 alackaday 1
 akoasma 1
 adduct 2
-agrest
+agrest 1
 antiketogenesis 1
 acephalus 1
 azotaemia 2
@@ -2206,7 +2206,7 @@ achkan 3
 alcovinometer 1
 acidhead
 aimfully 2
-achlorhydria
+achlorhydria 1
 aflame 2
 admixing 2
 atrabilaire
@@ -6491,7 +6491,7 @@ aguise
 antimeter 1
 axanthopsia
 antignostical
-ameliorant
+ameliorant 1
 auxanology 1
 aphroditic 3
 adams 1
@@ -6961,7 +6961,7 @@ antivitalistic 1
 alkalified 1
 afflatus 1
 airtimes 1
-alanyls 1
+alanyls 2
 assailment
 autochthones
 amende 1
@@ -10508,7 +10508,7 @@ attachments 1
 answerableness 1
 anaxagorize 2
 annotating 2
-appearing 2
+appearing 3
 anticlimactically
 amice
 anatriptic 2
@@ -15170,7 +15170,7 @@ antienzyme 1
 augury 1
 antiepiscopal
 arigue 1
-antiestablishment
+antiestablishment 1
 auriscopic 1
 autophagia
 acetanisidide
@@ -18005,7 +18005,7 @@ arnatta
 anglimaniac 2
 abraum 2
 appurtenant
-annalistically 2
+annalistically 3
 aphrodisiacal
 apreynte
 apres 1
@@ -19612,7 +19612,7 @@ antireformist 3
 adversariness 1
 antistrophize
 absorbingly
-airheads 4
+airheads 5
 apposing 1
 arikara 1
 anthracomartus 1
@@ -24473,7 +24473,7 @@ autotomise 2
 armbands 2
 adoptively 1
 archaeologists
-absorptions 1
+absorptions 2
 ambitiously
 avidous
 appredicate
