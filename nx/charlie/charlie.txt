@@ -449,7 +449,7 @@ concrete 2
 cactiform 2
 communications
 cactoid
-combind
+combind 1
 crocodilean 2
 chesteine 1
 coonily 1
@@ -638,7 +638,7 @@ caesalpinia 2
 caenostylic 1
 commentarial
 caeoma 2
-chera 2
+chera 3
 chutzpah
 cero 1
 clara 2
@@ -1425,7 +1425,7 @@ calinut
 cotylophora
 caliologist 1
 calipashes
-calipee 1
+calipee 2
 calipees 1
 calipeva 3
 cohobate 1
@@ -3501,7 +3501,7 @@ crunt 2
 coulage 1
 cabalistical
 capsizes 1
-capsizing
+capsizing 1
 capernaitish
 capsomere
 capsomers 3
@@ -4703,7 +4703,7 @@ carped 2
 carpellary 2
 cytinaceous 1
 composograph
-carpenters
+carpenters 1
 charlock 1
 carpet
 carpetbag
@@ -5597,7 +5597,7 @@ censused 1
 cofactor
 catalyses 1
 catalyte
-cyclopean
+cyclopean 1
 cabalassou
 cyniatria 2
 consigne 1
@@ -6288,7 +6288,7 @@ crustation
 callosomarginal 1
 caulks 1
 chymists
-conferrer
+conferrer 1
 capuchins
 catalases
 cofermentation 2
@@ -10138,7 +10138,7 @@ cheverel 1
 carcassed
 cardlike 2
 cheveret 1
-cheveril
+cheveril 1
 cahoot 1
 circumfusing
 celioncus 3
@@ -10780,7 +10780,7 @@ chinkara 2
 chinker 1
 chinkerinchee 2
 celling 3
-chinky 1
+chinky 2
 ctenidia
 constricts 2
 cleverality 1
@@ -11344,7 +11344,7 @@ chlorometry 1
 categorem
 coopted 2
 capman
-chloromycetin
+chloromycetin 1
 curbed 1
 chiasmatype 1
 chloronitrate
@@ -13083,7 +13083,7 @@ conyrine 2
 cibbaria
 cibboria 1
 cybele 2
-cyberculture 1
+cyberculture 2
 crore 1
 cybernate
 cybernating
@@ -19543,7 +19543,7 @@ colubrinae
 colubrine
 clarsach
 choanocytal 1
-colugo
+colugo 1
 canaliculi 1
 cheerfullest 1
 cannelated
@@ -22699,7 +22699,7 @@ caseworms
 conocarpus
 conocephalum 1
 conocuneus 1
-coderiving 1
+coderiving 2
 conodont 1
 contractiveness 1
 chrysatropic
@@ -28449,7 +28449,7 @@ carpintero
 creant 1
 creased 2
 countertenors 1
-chromotypic 2
+chromotypic 3
 creaseless 1
 creasers 1
 creases 2
@@ -30234,7 +30234,7 @@ chinafy
 cruelly
 cruelness
 cruels
-cruent 1
+cruent 2
 colmar 2
 cruentation 1
 cruentous
@@ -31386,7 +31386,7 @@ curying
 cyclopentane 1
 cerebrosensorial 1
 counterconquest
-chocked
+chocked 1
 croutons 1
 curio 1
 curiolofic 1
