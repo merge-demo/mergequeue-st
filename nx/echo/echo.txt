@@ -1157,7 +1157,7 @@ eident 2
 enwisen 1
 educatable 2
 educatedness 3
-electrolyzable 1
+electrolyzable 2
 eudiometric
 engrainedly 3
 egrimony 1
@@ -1434,7 +1434,7 @@ emblazons 1
 ejectivity 2
 entoparasite 5
 extensile 2
-existential 1
+existential 2
 euphuisms 2
 enarbour 1
 eerock 1
@@ -2195,7 +2195,7 @@ entailing 2
 expeditionist 1
 enumerating 5
 endognathion 4
-eldersisterly 1
+eldersisterly 2
 epiglottiditis 2
 eggless 3
 encrisp 1
@@ -3802,7 +3802,7 @@ exla 2
 emparl 2
 extolled
 engrain 1
-expletory 3
+expletory 4
 emended 3
 ecu 2
 emending 2
@@ -8075,7 +8075,7 @@ exhumator 2
 episclera 3
 endocrinologists 2
 expensilation 2
-ensanguined
+ensanguined 1
 enkolpia 1
 extratabular 2
 episcopalianism 2
@@ -8425,7 +8425,7 @@ eryops 3
 embroidering 2
 epos 1
 encinas 2
-epizootic 1
+epizootic 2
 externa 1
 epoxyed 1
 epoxies 2
@@ -9919,7 +9919,7 @@ epicentrum 4
 equicellular
 electroosmotically
 estrayed 1
-elderwood 2
+elderwood 3
 epididymodeferential 3
 ebraick 1
 estral 3
