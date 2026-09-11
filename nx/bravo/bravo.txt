@@ -195,7 +195,7 @@ bees 1
 bushrope 1
 bookiness
 bestirred
-bemoanable 1
+bemoanable 2
 bloodmobile
 beweep 2
 begary
@@ -228,7 +228,7 @@ bootlaces 2
 bathyanesthesia 1
 bachelordom 2
 bachelorette 1
-bachelorhood 3
+bachelorhood 4
 bachelorly 1
 bifteck 3
 bacillosis 1
@@ -6314,7 +6314,7 @@ beneficential 1
 bandeaus 1
 blennogenic
 beedom
-backswept
+backswept 1
 benzalethylamine 2
 benzalphenylhydrazone 1
 beaconwise
@@ -10447,7 +10447,7 @@ boghole
 blowbacks 1
 boobialla
 bhagat 3
-bimuscular
+bimuscular 1
 barytostrontianite
 blaoner 1
 blenk
@@ -13880,7 +13880,7 @@ bedrite 1
 bowing 2
 bowkail
 barkentine
-blad 1
+blad 2
 borracha
 bowlder 1
 bicyclist 1
@@ -14436,7 +14436,7 @@ bisley 1
 bodeword 3
 blastulas 2
 blighting 1
-blabs 1
+blabs 2
 barnstorm 1
 belieffulness 3
 branchiocardiac 1
