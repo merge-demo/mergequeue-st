@@ -3655,7 +3655,7 @@ emergency
 epiphloedic 1
 embrica 1
 embryectomy 2
-earlet 1
+earlet 2
 endogonidium 3
 embright 1
 entombment 2
@@ -5141,7 +5141,7 @@ endoglobular 3
 eleme 2
 existibility 1
 eagled 2
-ecchymoses 3
+ecchymoses 4
 embossment
 ethylin
 endointoxication 1
@@ -5587,7 +5587,7 @@ encryption 3
 enlisters 2
 enfigure 3
 excitable 3
-ensconcing
+ensconcing 1
 extispicy 3
 echinoderes 3
 exerting
@@ -6216,7 +6216,7 @@ embryonary 1
 enamine 1
 ethnogeographical
 entered 1
-erecter
+erecter 1
 endplate 2
 excipule 2
 epistapedial 2
@@ -7165,7 +7165,7 @@ eyalet 1
 enzootics 2
 euphonise
 eyeleteer 2
-entophytous 3
+entophytous 4
 electrophilically 1
 encase 1
 ectomeres 1
@@ -10289,7 +10289,7 @@ epirote
 elevatedly 3
 elapses
 emmer 2
-expecters 1
+expecters 2
 ethmopalatal 1
 epiphyllous 3
 ensignment 4
@@ -10398,7 +10398,7 @@ enchiriridia
 earthshaking 2
 eiresione 1
 eleolite
-exorbitance 2
+exorbitance 3
 entresalle 2
 epagomenal 1
 excreted
@@ -11010,7 +11010,7 @@ eusynchite 2
 eurycephalic 1
 epiglot 2
 enridged 3
-epiclastic 1
+epiclastic 2
 electrodialitically 2
 egomism
 exigency 2
@@ -12063,7 +12063,7 @@ ervum 2
 excommunicative 1
 excommunicator 1
 expetible 2
-exauthorate 3
+exauthorate 4
 extrication
 excoriated
 electroanalysis 3
@@ -12389,7 +12389,7 @@ etiquettes 1
 enteromyiasis 3
 emerod 4
 expoliate 3
-extradictionary 2
+extradictionary 3
 eurasian 2
 exfoliative 1
 ebbman 4
