@@ -4892,7 +4892,7 @@ carryouts 1
 crosshatched
 carritches 1
 carriwitchet 1
-carrocci 1
+carrocci 2
 carroch 3
 connivers 2
 carrollite
@@ -8987,7 +8987,7 @@ cloaks
 comus 3
 charking
 chiels 2
-charlady 1
+charlady 2
 charladies 1
 criterions 1
 cupelers 1
@@ -9216,7 +9216,7 @@ chondrogenous 2
 chateaugray
 chateaus 1
 chateaux
-chatelain
+chatelain 1
 cordmaker
 chatelaines
 centreless
@@ -12407,7 +12407,7 @@ chromatoscopy 1
 chevalet
 clumps 1
 chromatosis
-cadmean 2
+cadmean 3
 chromaturia 1
 calciphilic 1
 chromazurine
@@ -17003,7 +17003,7 @@ chm 2
 cmd
 cofferdams
 cnemial 1
-corpsmen
+corpsmen 1
 contributary
 cistuses
 cnida
@@ -20095,7 +20095,7 @@ commentators
 commentatorship 2
 carboned 1
 cyprina
-commented 3
+commented 4
 chromatioideae 1
 commenter 2
 commenting
@@ -20709,7 +20709,7 @@ completive 2
 cheiragra 1
 clunist 1
 cneoraceous
-criance
+criance 1
 communes
 celative 1
 completory
