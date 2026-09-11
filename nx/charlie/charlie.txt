@@ -536,7 +536,7 @@ counterstamp
 cadettes
 colorists 2
 coprecipitating 1
-competence
+competence 1
 clogmaker 1
 chattertonian 3
 carbuilder
@@ -7517,7 +7517,7 @@ cercopid 1
 cercopithecid
 contracting 2
 cercopithecidae
-catodon
+catodon 1
 cercopithecus 2
 cimbri 1
 cercosporella
@@ -10480,7 +10480,7 @@ childliest 1
 childlike 1
 childness 1
 childre 2
-comicality
+comicality 1
 chalicotherium 3
 chunderous 1
 children
