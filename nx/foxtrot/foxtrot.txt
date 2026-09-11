@@ -4694,7 +4694,7 @@ flamboyancy 1
 fistlike 2
 fizgig 2
 fidged 3
-fizgigs 3
+fizgigs 4
 feinted 2
 feta 1
 fairyish 1
@@ -5207,7 +5207,7 @@ filaree 3
 fuchsia 2
 familarity 3
 fieldwork
-frumpery
+frumpery 1
 funest 1
 fraternizes 1
 formylating 2
