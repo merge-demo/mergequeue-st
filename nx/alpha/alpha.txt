@@ -110,7 +110,7 @@ amelcorns
 autopyotherapy 1
 abashes
 aphemic
-achromatous
+achromatous 1
 apojove 2
 arenation
 archipelagic
@@ -969,7 +969,7 @@ absorpt 2
 absorptiometer
 allegeable 2
 alive 1
-analcites 1
+analcites 2
 absorptional 2
 aggregate 4
 arethusa 1
@@ -4896,7 +4896,7 @@ archisupreme
 armlet 1
 alienage 2
 andric 1
-antiromanticism
+antiromanticism 1
 aneared 2
 avoset 3
 adoptionism
@@ -5518,7 +5518,7 @@ afterburning 1
 abigail 1
 aftercareer 1
 aminoquinoline 1
-amethystine
+amethystine 1
 aftercast
 aftercataract 1
 aloe 1
@@ -8040,7 +8040,7 @@ aprilis 2
 argan
 ampheclexis 2
 alew 1
-acrimoniousness 2
+acrimoniousness 3
 apatite 1
 acromiothoracic
 anemometry 1
@@ -15355,7 +15355,7 @@ acroterion 1
 antihypochondriac 1
 annal
 anticoincidence 1
-agomphosis 1
+agomphosis 2
 antihypophora 2
 acetopiperone 5
 autodecrements 2
@@ -16338,7 +16338,7 @@ arculite
 afros
 adfroze 1
 absonant 1
-antitruster
+antitruster 1
 antituberculosis 2
 artophoria 1
 antituberculotic
@@ -18769,7 +18769,7 @@ amylocoagulase
 atamasco
 aguilarite 1
 ascocarpous 3
-arsenophenol 1
+arsenophenol 2
 aristocratical 1
 acetract 3
 awesome 1
@@ -20271,7 +20271,7 @@ arrogation 3
 adenyls 1
 antiquarism 1
 aleutian 1
-adsignification 1
+adsignification 2
 arroyos 1
 arroyuelo
 arrosive 2
@@ -25116,7 +25116,7 @@ antiamylase
 axillar 2
 absurdest 2
 axing 2
-anagenesis
+anagenesis 1
 acrosarc
 anhistic 2
 areography
