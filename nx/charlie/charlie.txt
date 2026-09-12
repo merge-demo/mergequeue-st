@@ -7236,7 +7236,7 @@ centrosphere 2
 cylinderer 1
 cancrizans
 centum 1
-colorcaster
+colorcaster 1
 cancellate 2
 copopsia
 catarinite 1
@@ -18999,7 +18999,7 @@ collectible 1
 collection 2
 cinnamon
 collectivise
-collectivism 2
+collectivism 3
 collectivist 2
 circumcircle
 collectivistically 1
