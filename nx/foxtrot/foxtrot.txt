@@ -3629,7 +3629,7 @@ foreordination 6
 foregut 3
 filiformed 3
 footmaker 5
-frisbees 2
+frisbees 3
 flook 1
 farmable 1
 fridstool 1
@@ -3989,7 +3989,7 @@ forfeited 1
 foxbane 2
 futchel 1
 forlay 3
-flunk 5
+flunk 6
 ferric 2
 furazolidone 3
 fender 5
@@ -4013,7 +4013,7 @@ fluoaluminic 5
 felicific 4
 facades 1
 forwean 3
-forefaces 2
+forefaces 3
 feute 3
 fallible 2
 feudatorial 5
@@ -6858,7 +6858,7 @@ folios 1
 faradizes 1
 fortuitus 2
 foliose 5
-flachery 3
+flachery 4
 flittingly 2
 forgeman 1
 foliot 3
@@ -10353,7 +10353,7 @@ frenziedness
 forleaving 1
 foundationless 2
 finfoot 3
-fervorlessness
+fervorlessness 1
 flarfishes 2
 fustilugs
 futurely 4
@@ -10542,7 +10542,7 @@ frottola 2
 federalizations
 fortuities
 fortuning 3
-featherback 2
+featherback 3
 frotton 2
 fum 2
 firetail 1
