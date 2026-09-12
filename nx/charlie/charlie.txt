@@ -4005,7 +4005,7 @@ crotalinae 1
 carcharias
 cerotene
 carchariid 2
-clerisy 1
+clerisy 2
 carchariidae
 carcharioid 1
 congredient
@@ -11620,7 +11620,7 @@ conchotome
 cholelithic 1
 cholelithotomy 1
 chastising 1
-counterbore 1
+counterbore 2
 crossrail
 clava 1
 choriambuses
@@ -28859,7 +28859,7 @@ cinematographically 2
 cretify 1
 cavalla 3
 communitary
-chemisorptive
+chemisorptive 1
 cabana 1
 cadastre
 chickweeds
@@ -31076,7 +31076,7 @@ cumulativeness 1
 countersunk 1
 cumulene
 cossacks 2
-clinked 1
+clinked 2
 cynophile
 clearers 2
 ciselure
