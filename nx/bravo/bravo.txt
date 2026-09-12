@@ -1350,7 +1350,7 @@ bobbles 3
 bethlehem
 bede
 bookdealer 2
-bioplastic 4
+bioplastic 5
 barrowcoat 3
 brod
 botrylle 2
@@ -4435,7 +4435,7 @@ batule 2
 becloak 5
 bereavement
 boojum 4
-bethorning
+bethorning 1
 beclog 1
 becoiffed 1
 bulkiness 1
@@ -8037,7 +8037,7 @@ bumping 1
 bleakish
 brooming 2
 babble 1
-bicolorous 1
+bicolorous 2
 betrayal
 bicolors 1
 binna 1
