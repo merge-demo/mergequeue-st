@@ -2082,7 +2082,7 @@ extrapolator 1
 effuse
 elastically 2
 eurycephalous 1
-edenite 1
+edenite 2
 exudes 1
 eesome 1
 emberiza 2
@@ -4422,7 +4422,7 @@ eumenidae 1
 euryzygous 2
 electrotechnologist 2
 essentialization
-enhydris 6
+enhydris 7
 exaggerator
 extemporaneousness 4
 eczematous 2
@@ -6002,7 +6002,7 @@ embayment
 endoparasitic 1
 evites 1
 exhaustlessly
-empyreumatical
+empyreumatical 1
 eurhythmics 4
 ectodermoidal 1
 enumerates 1
