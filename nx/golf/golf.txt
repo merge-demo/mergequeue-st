@@ -1644,7 +1644,7 @@ grates 1
 gif 3
 gastrodermal 2
 gastrodermis
-gulfweed 2
+gulfweed 3
 galeopithecus
 glycin 2
 globed 2
@@ -5021,7 +5021,7 @@ griecep 3
 graniticoline 1
 glassies 2
 galoisian 1
-gillied 1
+gillied 2
 gumwood 4
 gaggled
 gutturalness 2
@@ -6004,7 +6004,7 @@ gourdes 4
 gnarliest 3
 gnarliness
 gawkiness 4
-graspless 5
+graspless 6
 gnarls 5
 gaidropsaridae 3
 gravelweed 3
@@ -6812,7 +6812,7 @@ galloflavine 2
 gladiolus 3
 garlics 1
 gatewright 3
-grozet 1
+grozet 2
 gaberdines 4
 gelsemic 3
 gulravage 4
