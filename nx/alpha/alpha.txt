@@ -931,7 +931,7 @@ absit 1
 acorn
 absterging
 antient 1
-absolent 1
+absolent 2
 aliases 1
 allah 2
 appenzell 2
@@ -1616,7 +1616,7 @@ amatorian 1
 accouche
 accoucheuses 1
 arclength
-accountable
+accountable 1
 accusals
 accountably 2
 acrisy 1
@@ -4488,7 +4488,7 @@ aerobus
 adure 1
 andia 3
 allergia 2
-anticomplement
+anticomplement 1
 australic 2
 antipuritan 3
 adust 1
@@ -7849,7 +7849,7 @@ aldosterone 1
 aldosteronism
 anacanth 1
 aldrins 1
-arba
+arba 1
 ausubos 1
 atrickle 1
 anomalonomy 4
@@ -13657,7 +13657,7 @@ aglet 1
 anocathartic
 abilene 1
 anomoean
-arrear
+arrear 1
 abbess 1
 anodal 2
 abend 1
@@ -13881,7 +13881,7 @@ anoscope 2
 angstrom 2
 achariaceae
 acyloin
-anoscopy
+anoscopy 1
 adytum 1
 anospinal 1
 anotherguess 2
@@ -14285,7 +14285,7 @@ asepticize 2
 armchaired 1
 argilliferous 1
 acephal 3
-aptitudinal 1
+aptitudinal 2
 anterosuperior
 antesternal 1
 antesuperior 1
@@ -15058,7 +15058,7 @@ anticrisis 1
 anticritic
 anaglyptics 2
 anticritical 2
-archantagonist 2
+archantagonist 3
 astrose 1
 anasarcas
 afrormosia
@@ -17529,7 +17529,7 @@ advantages 2
 adelomorphous 1
 agraphias
 appeasingly
-anthologists
+anthologists 1
 antiegotism 1
 appellability
 amidward 2
@@ -24908,7 +24908,7 @@ antiaggression 1
 amurru
 awadhi 1
 arling 1
-awayness
+awayness 1
 awaynesses 1
 accommodatively 2
 afforestable 1
