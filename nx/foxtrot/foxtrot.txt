@@ -1681,7 +1681,7 @@ fleeching 3
 furnace 2
 fingertip 6
 foreordaining 2
-forehandsel 2
+forehandsel 3
 fanfares 1
 fearsomeness 3
 foreshape 2
@@ -3312,7 +3312,7 @@ featherlessness 2
 fioritura 1
 fouldre 2
 felicitating 4
-fairings 3
+fairings 4
 fulgide 1
 feture 3
 folletto 3
@@ -7914,7 +7914,7 @@ flourishingly 3
 factualist 1
 florent 1
 fusillades 3
-froeman 1
+froeman 2
 fictionalizing 5
 foresail 4
 feuilletonistic 6
