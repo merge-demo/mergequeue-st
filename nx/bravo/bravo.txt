@@ -846,7 +846,7 @@ bushelbasket 1
 bonelike 3
 bedene 1
 bouleuteria 4
-bouleversement 2
+bouleversement 3
 brickyard
 bloodlessly 4
 baffs
@@ -10180,7 +10180,7 @@ blackfellows
 bosker 1
 biochemical 1
 breechcloth 5
-bellatrix 1
+bellatrix 2
 bas 2
 banak 1
 biddie 1
@@ -15525,7 +15525,7 @@ beignet
 bihai 1
 bans
 bondless
-brindlish
+brindlish 1
 bryndza 1
 bleaters
 balloonfish 1
@@ -17383,7 +17383,7 @@ butteries 1
 brachistochronic 1
 beignets 2
 bottles 2
-bejeled 2
+bejeled 3
 bungling 2
 bullit 1
 bungos
