@@ -538,7 +538,7 @@ dainty
 dao 1
 damagers
 damalic
-dextrorotation 2
+dextrorotation 3
 demobilized 2
 designations 1
 dialyzing 1
@@ -4947,7 +4947,7 @@ devastators 1
 demounts
 dempsters
 deaerate 1
-demulcents
+demulcents 1
 diphycercy
 diseasedly
 demulsified 3
