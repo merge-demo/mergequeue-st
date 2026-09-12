@@ -189,7 +189,7 @@ bargainee 1
 bacchants
 bismanol
 bridleless 2
-beguiling
+beguiling 1
 bloodwood
 bees 1
 bushrope 1
@@ -11049,7 +11049,7 @@ bails 3
 between 3
 bloats
 brachygnathous
-byelorussian 3
+byelorussian 4
 berlin 1
 blob 3
 bimetallic
