@@ -112,7 +112,7 @@ eusteles 4
 eaves 1
 excrementally 2
 exsculptate
-equisetaceae 2
+equisetaceae 3
 engobe 1
 egotistically 2
 eartab 2
@@ -450,7 +450,7 @@ ecclesia 1
 earlier 1
 enumerable 1
 ecclesiarchy 1
-ensnarls 2
+ensnarls 3
 ecclesiast 1
 entrada 1
 empasm 1
@@ -745,7 +745,7 @@ epizootiologic 2
 echinocaris 3
 emblematise 1
 evangelism
-extorsive
+extorsive 1
 emotive 1
 enabling
 embryoctony 3
@@ -1106,7 +1106,7 @@ eikons
 environage 2
 edition 2
 endere 1
-editorialization
+editorialization 1
 elsa 3
 ecphory 1
 expunction
@@ -2228,7 +2228,7 @@ extramoral 1
 elevatory 1
 eidola 1
 exocolitis 1
-effluve 2
+effluve 3
 excrescential 1
 evolution 7
 endoplasma 1
@@ -3094,7 +3094,7 @@ evergreen
 extemporize
 elliptograph 2
 elliptoid 2
-encrease 3
+encrease 4
 extraparietal 2
 elm 1
 excursiveness 1
@@ -4496,7 +4496,7 @@ empales 1
 encephalospinal 2
 ecclesiastic 1
 elevatedness 1
-externize 3
+externize 4
 enureses 2
 emplaned 1
 embarkation 3
@@ -5162,7 +5162,7 @@ endolysin 2
 ecphonema 2
 eretrian 2
 equipluve 2
-ethnographies
+ethnographies 1
 equilibrate 3
 euphoniousness 1
 endomorphy 2
@@ -6348,7 +6348,7 @@ ebbed 1
 eavesdrip 1
 episcopize 1
 eprouvette 4
-enshrined 4
+enshrined 5
 embars
 enshrinements 3
 endovaccination 2
@@ -8847,7 +8847,7 @@ enteron 2
 erewhile 5
 erewhiles
 ergane 2
-emphysema 4
+emphysema 5
 ethnohistorically 2
 elfdom 2
 erysiphe 2
@@ -9058,7 +9058,7 @@ ectasia 3
 exploitatively 1
 epistropheus 1
 echevaria 2
-equivocations 1
+equivocations 2
 educe 2
 erythrolein 2
 esoterica 1
@@ -9751,7 +9751,7 @@ empoisoner 4
 embitterment 2
 embracive 1
 explaining 1
-exp 1
+exp 2
 essoined 4
 embolemia 1
 eachwhere 2
@@ -11449,7 +11449,7 @@ eli
 exhaustion 2
 emys 1
 elitists 1
-entodermic 3
+entodermic 4
 echovirus
 eligibility 1
 esuriently
@@ -11943,7 +11943,7 @@ endemiology 4
 ectodactylism 5
 eudaemonistically 3
 excursory 3
-excur 1
+excur 2
 equiradical
 epikeia 4
 epithelia 1
@@ -14192,7 +14192,7 @@ extracapsular 6
 enqueues 3
 eupanorthus
 exfetation 1
-enterococci 5
+enterococci 6
 ectosome
 esthetics 2
 epulation 2
