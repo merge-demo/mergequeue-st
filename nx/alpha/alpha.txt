@@ -2056,7 +2056,7 @@ antibromic 1
 arterial 2
 acetosoluble 3
 acetostearin
-acetotoluid
+acetotoluid 1
 accessible
 argumentator 1
 aporrhais 1
@@ -6533,7 +6533,7 @@ azotometer 1
 algaesthesis 1
 amebula 2
 ahir
-alternant
+alternant 1
 autunian 1
 aquation 1
 affiancing 2
@@ -10959,7 +10959,7 @@ absolution 2
 amosite
 armsful 2
 anhydric 3
-availably 1
+availably 2
 airtight
 amnions 2
 assurors
@@ -21105,7 +21105,7 @@ air
 arette 2
 ascophore 1
 alfas 2
-aerobiont 5
+aerobiont 6
 arkoses 1
 ascothoracica 2
 acritude
