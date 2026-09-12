@@ -3652,7 +3652,7 @@ fannier 1
 foregoneness 3
 fanes 1
 flagella 1
-foredate 1
+foredate 2
 forelooper 3
 floorings 2
 fuzzing 2
@@ -7057,7 +7057,7 @@ fulfilment 1
 frasco 5
 fimbriae 2
 functioning 3
-foodful 3
+foodful 4
 forniciform 4
 functionals 2
 fribby 2
@@ -10616,7 +10616,7 @@ feverous
 fattish 2
 fruitfullness 1
 fluorimetry 2
-fustier
+fustier 1
 fragmental 2
 forks 5
 furfurals 1
