@@ -2496,7 +2496,7 @@ dilaters
 declamatory
 dateable 1
 decibar 2
-dendrochronology 1
+dendrochronology 2
 drysaltery 2
 displeasingly
 discussionism 2
@@ -2796,7 +2796,7 @@ deedbote 2
 donatory
 decretively 2
 discind 1
-deuteroglobulose
+deuteroglobulose 1
 duogravure 1
 decretorian 3
 dithymol
@@ -5200,7 +5200,7 @@ denoting 2
 duplification 2
 deeping
 dulcitol 2
-denouement 1
+denouement 2
 denouements
 denounce 1
 dynamogenously 4
@@ -7253,7 +7253,7 @@ deterged 2
 desertlike 1
 dilettantship 3
 dendrachate 1
-decliner 1
+decliner 2
 dissolved 3
 diableries 1
 detergers 1
@@ -13800,7 +13800,7 @@ docoglossa 2
 disturbedly 4
 disenchants 1
 dion 1
-dissuasion
+dissuasion 1
 depainted 2
 depravedly 1
 deaspirate
