@@ -1762,7 +1762,7 @@ deathliness 2
 deathrates 1
 deathsman
 democratian 3
-discrepating 1
+discrepating 2
 dumble 1
 derogation
 deathtime
@@ -2964,7 +2964,7 @@ deductory 2
 deducts 2
 deduplication
 despoliations 1
-deecodder
+deecodder 1
 dtset 1
 discretive
 demobilise 2
@@ -6383,7 +6383,7 @@ dillisk
 derotremata 4
 denization 1
 dewans
-doggones
+doggones 1
 diglyphic
 druidic
 deewans 1
@@ -7088,7 +7088,7 @@ deriv
 dissuasions 1
 deterrently
 domajig 3
-demesmerize
+demesmerize 1
 descriptiveness
 disorient 1
 disvalues 3
@@ -13264,7 +13264,7 @@ dysgeogenous 2
 daleths
 dispositions 3
 drowner 2
-dividualism 2
+dividualism 3
 dispositively 1
 diuretics 1
 drant
