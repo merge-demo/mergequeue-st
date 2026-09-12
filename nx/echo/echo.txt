@@ -2022,7 +2022,7 @@ electrothanasia 3
 elaic 1
 enteroplegia 2
 elaioplast 3
-elamite 1
+elamite 2
 elamitish 2
 episcope 3
 electrophorese 3
@@ -5948,9 +5948,9 @@ eluvial 2
 exquisite 1
 embezzles 2
 etourderie 2
-ephphatha 1
+ephphatha 2
 enigmatist
-enigmatographer
+enigmatographer 1
 emotionality 1
 exempts 2
 erogenic
@@ -10330,7 +10330,7 @@ epibole 1
 ethnogeographic 1
 extirpator 6
 estradas 2
-externation 1
+externation 2
 electroplaque 2
 ethnographer 4
 euornithic 1
