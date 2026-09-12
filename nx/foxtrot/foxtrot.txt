@@ -5665,7 +5665,7 @@ fulguration 4
 fluidising 3
 fireable 3
 flimsiness 1
-fairleads
+fairleads 1
 flinch 6
 flagleaf 1
 fatted 3
@@ -8607,7 +8607,7 @@ frightment 1
 fanfarons 2
 frownful 2
 foraminule
-featherer 3
+featherer 4
 frogtongue 1
 futurities 3
 fulgence 3
