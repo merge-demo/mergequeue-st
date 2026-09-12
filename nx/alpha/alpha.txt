@@ -3332,7 +3332,7 @@ autoluminescence 2
 acrylate 1
 assassin 1
 atomizes 1
-acutograve
+acutograve 1
 analogist 2
 acutonodose 1
 aurene 3
@@ -7111,7 +7111,7 @@ angus 1
 archaeornis 2
 akhyana 1
 anopsias
-astrild 3
+astrild 4
 agaricin 1
 abnerval 3
 acajous 1
@@ -9510,7 +9510,7 @@ acidulant
 annotatory 1
 arabia
 allochetite
-alternated
+alternated 1
 achier
 alignments
 assaugement
@@ -10519,7 +10519,7 @@ amyclaean
 absinthism 3
 alisonite
 adscendent 2
-agib
+agib 1
 amyclas
 arrythmical
 amicous 1
@@ -15740,7 +15740,7 @@ anaesthesiologist 1
 antipathetic
 antimodernism 1
 antipathetical 1
-arenas 2
+arenas 3
 apnoeic
 atophan
 anteflexed
@@ -19525,7 +19525,7 @@ authenticness 2
 amphidromic 1
 angularize 3
 argufying 1
-anklets 2
+anklets 3
 aubusson 2
 afars
 asterinidae
