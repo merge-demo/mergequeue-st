@@ -326,7 +326,7 @@ greekism 3
 gripper 3
 gamogenetically 2
 galactagogue 1
-gynandromorphic 4
+gynandromorphic 5
 gonoblastidial 3
 gesneria 2
 garlic 1
@@ -1570,7 +1570,7 @@ gasterotheca 5
 gandermooner 3
 gymnetrous 5
 glabellar 3
-gunreach
+gunreach 1
 grampus 3
 gonyoncus 1
 gunnar 1
@@ -2891,7 +2891,7 @@ gwiniad 1
 glitter 2
 gabbled 3
 geocerite 4
-glove 1
+glove 2
 gubernation 2
 greenheaded 1
 gallons 1
@@ -9102,7 +9102,7 @@ glads 3
 gappy 3
 galactidrosis 4
 giraffa 1
-garishness 3
+garishness 4
 gherkin 2
 gentlehood 1
 grinch 1
@@ -9528,7 +9528,7 @@ glutinize 1
 guanaco 3
 gemellion 4
 garden 3
-groupist 3
+groupist 4
 genipapada 7
 guar 3
 genual 3
