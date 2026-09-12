@@ -17382,7 +17382,7 @@ coatrooms 1
 coattend 2
 coattending 1
 conductivities 1
-cineangiocardiographic
+cineangiocardiographic 1
 coattestator
 coattested 2
 coattesting
@@ -17746,7 +17746,7 @@ cocobolo
 condemnate 3
 cockalan
 cc 1
-cocreate 1
+cocreate 2
 cocreated
 cocreating 2
 corojo
@@ -24012,7 +24012,7 @@ communaliser 1
 convened
 convener 3
 counterexcommunication 1
-carneys
+carneys 1
 conveneries
 chayma 1
 conveners 1
