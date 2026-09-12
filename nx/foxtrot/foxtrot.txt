@@ -358,7 +358,7 @@ foreknowing 5
 faints
 forcedness 3
 franklandite 1
-frenuna 1
+frenuna 2
 from
 fieldfight 4
 froes 1
@@ -3778,7 +3778,7 @@ fiberware 2
 forebridge 2
 filmland 3
 filmmake 4
-filmogen 3
+filmogen 4
 fulah
 festooning 1
 fibrinolyses 1
@@ -4547,7 +4547,7 @@ fealties 8
 flagellation 3
 fruitcake 3
 forethinker 1
-foolable
+foolable 1
 faciolingual 3
 fluviometer 2
 fairkeeper 2
@@ -5621,7 +5621,7 @@ frontonasal
 frizel 2
 flageolet 1
 fascicled 2
-formerness 1
+formerness 2
 fourgons 3
 flight 1
 frusla
@@ -8986,7 +8986,7 @@ funambulist 2
 fuddling 1
 frustule 3
 footsoreness 1
-fanmaking 1
+fanmaking 2
 fourre 4
 friedelite 2
 fraternizing 3
@@ -9015,7 +9015,7 @@ fourier
 fanglet 2
 fourierism 1
 fourneau 2
-femes 1
+femes 2
 filly 1
 feltings 1
 farcist 2
@@ -9454,7 +9454,7 @@ ficaria 1
 forequoted 1
 finickiness 4
 fractionised
-flamboyer 4
+flamboyer 5
 franticly 1
 folksong 4
 fossor
@@ -11227,7 +11227,7 @@ farads 1
 firer 3
 failles 1
 flamethrowers 1
-fieldsman 2
+fieldsman 3
 fetoplacental 3
 footlers 2
 faradise
