@@ -2450,7 +2450,7 @@ atterminal 1
 acinic 1
 aciniform 2
 anatomicophysiological
-aggrate 3
+aggrate 4
 acinus 3
 anus
 actinozoon 3
@@ -3383,7 +3383,7 @@ adays 1
 adjustors 1
 agrestal 2
 acecaffine 1
-agnizing 4
+agnizing 5
 assistor 1
 anisodactylous 2
 anthranil 1
@@ -5674,7 +5674,7 @@ acrocoracoid
 arachin
 agacante 5
 accrue 1
-axbreaker 2
+axbreaker 3
 agacerie 2
 austromancy 2
 alloiometry 1
@@ -6620,7 +6620,7 @@ acknowledgment 1
 asperge
 asplanchnic 3
 alchemically 2
-acrasida 2
+acrasida 3
 aeolina
 antibaryon 1
 albi
@@ -8688,7 +8688,7 @@ archigenesis 1
 askeses 2
 australoid 1
 alleys 1
-alephzero
+alephzero 1
 afrasian
 alleyway
 amyosthenia 3
