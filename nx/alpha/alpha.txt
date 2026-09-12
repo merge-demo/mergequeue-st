@@ -3225,7 +3225,7 @@ activities 2
 assailability 1
 alcoholized 2
 asterixis 1
-aid
+aid 1
 aleger 1
 athapascan 1
 alagao
@@ -6825,7 +6825,7 @@ aircraftwoman
 aggrandizer
 anthrapyridine
 aortae
-aramitess
+aramitess 1
 agrimonia 1
 airdate
 avowing
@@ -10751,7 +10751,7 @@ agrobiologic 1
 angulometer
 annerodite 2
 armitas 1
-arachne 1
+arachne 2
 alcayde 1
 adulterants
 aphronitre
@@ -15355,7 +15355,7 @@ acroterion 1
 antihypochondriac 1
 annal
 anticoincidence 1
-agomphosis 1
+agomphosis 2
 antihypophora 2
 acetopiperone 5
 autodecrements 2
@@ -16117,7 +16117,7 @@ articling
 apomictic
 acetamidin
 aril
-antiseptic 3
+antiseptic 4
 acetylcarbazole 1
 actinomycese 1
 asseverate
@@ -16782,7 +16782,7 @@ adepts 2
 aphydrotropism 1
 aphilanthropy
 aphylly 1
-abidi 2
+abidi 3
 astrictiveness 2
 awarding 1
 apparens 1
@@ -17923,7 +17923,7 @@ approachable 4
 approached 1
 administration 1
 amphirhine
-amblypod 3
+amblypod 4
 aliesterase 1
 alcoholist
 accubitus 2
@@ -23639,7 +23639,7 @@ aureate
 automaker
 attendant
 aurelia 1
-arables 2
+arables 3
 amylodextrin 1
 aureole 4
 autosomatognostic 1
