@@ -7995,7 +7995,7 @@ damageable 1
 dft
 dysthymic
 dissatisfyingly 2
-dialects 2
+dialects 3
 defences
 doylt
 devote
@@ -8322,7 +8322,7 @@ decapodous 1
 droopingness 1
 diplois 2
 decurvature 3
-dejerate 2
+dejerate 3
 dargue
 daemonies 1
 disruptable 1
@@ -9624,7 +9624,7 @@ dipoles
 dimeric 2
 dexterous 3
 dihydrostreptomycin
-dihydrotachysterol 1
+dihydrotachysterol 2
 dhaks 1
 dihydroxyacetone
 defaceable 2
@@ -12507,7 +12507,7 @@ disinfecting 3
 disinfections 2
 denormalized 2
 decrowned
-disciplinability
+disciplinability 1
 decani 1
 deporter
 diffeomorphic
