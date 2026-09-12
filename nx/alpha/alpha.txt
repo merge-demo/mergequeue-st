@@ -2207,7 +2207,7 @@ alcovinometer 1
 acidhead
 aimfully 2
 achlorhydria 1
-aflame 2
+aflame 3
 admixing 2
 atrabilaire
 adoptional 1
@@ -3141,7 +3141,7 @@ actinon 2
 adjudications
 apocryphalist
 actinophrys
-aspics
+aspics 1
 archimorphic 1
 actinopteran 1
 ascidian
@@ -12514,7 +12514,7 @@ astart
 ajowan 1
 anecdote
 anecdotes 3
-anecdotic 2
+anecdotic 3
 anova 1
 aluminiform 1
 aegagropile 1
@@ -14605,7 +14605,7 @@ anthropophagite 2
 amoebous
 allophonic 2
 auric 1
-anthropoidean
+anthropoidean 1
 anthropophilous 1
 afterdated
 anthropophobia 1
@@ -14662,7 +14662,7 @@ antialbumin 1
 assignments 2
 antialcoholic
 akerite
-antialcoholism
+antialcoholism 1
 antialcoholist 1
 antialdoxime 1
 angiectopia 1
@@ -21829,7 +21829,7 @@ assidual
 agathodaemon 5
 aecial 2
 anorexiant 3
-alaki 4
+alaki 5
 advowson 4
 assiege 1
 auricula 1
@@ -22578,7 +22578,7 @@ ateliotic 3
 atelo 2
 atelocephalous 2
 alternativo 3
-aselline
+aselline 1
 ateloglossia 3
 abacist 1
 atelomyelia
