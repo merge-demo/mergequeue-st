@@ -1101,7 +1101,7 @@ genocides 2
 glires 6
 gonangium 3
 gaufferer 2
-gregorianize
+gregorianize 1
 ganja 1
 gomphocarpus 3
 genically 3
@@ -1644,7 +1644,7 @@ grates 1
 gif 3
 gastrodermal 2
 gastrodermis
-gulfweed 3
+gulfweed 4
 galeopithecus
 glycin 2
 globed 2
@@ -5588,7 +5588,7 @@ guayroto 1
 graptolithida 5
 globefish 1
 glochid 2
-geranial 2
+geranial 3
 glick 1
 garnice 3
 gra 3
@@ -10473,7 +10473,7 @@ gusher 3
 gulfwards 1
 ginghamed 4
 gynandromorph 3
-generalising 2
+generalising 3
 grievers 1
 granulator 1
 gule 3
