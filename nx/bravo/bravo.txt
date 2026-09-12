@@ -1350,7 +1350,7 @@ bobbles 3
 bethlehem
 bede
 bookdealer 2
-bioplastic 4
+bioplastic 5
 barrowcoat 3
 brod
 botrylle 2
@@ -2146,7 +2146,7 @@ brouillon 1
 barring
 borofluoride
 bantayan 1
-buckshots 4
+buckshots 5
 bidstand
 bronteum 1
 bantam 2
@@ -3276,7 +3276,7 @@ basinal
 brazil 2
 bushland 1
 broader 2
-boniform 3
+boniform 4
 blunderful 1
 blacklegism 3
 basinet
@@ -4435,7 +4435,7 @@ batule 2
 becloak 5
 bereavement
 boojum 4
-bethorning
+bethorning 1
 beclog 1
 becoiffed 1
 bulkiness 1
@@ -5864,7 +5864,7 @@ briners 2
 braggingly 1
 boracite 3
 buttstock
-batholith 4
+batholith 5
 bidactyle 2
 beefin 2
 bypaths 3
@@ -8037,7 +8037,7 @@ bumping 1
 bleakish
 brooming 2
 babble 1
-bicolorous 1
+bicolorous 2
 betrayal
 bicolors 1
 binna 1
@@ -9594,7 +9594,7 @@ burnets 4
 biscuits 3
 bhutia 2
 bromides 1
-bumbledom
+bumbledom 1
 bronchomycosis 2
 bahut 1
 blastomata 1
@@ -9654,7 +9654,7 @@ bacterium
 bishopling 1
 bandboxy 5
 biol 2
-bishopstool
+bishopstool 1
 bishopweed 1
 bobbinets 1
 bestir 1
@@ -13299,7 +13299,7 @@ becater
 briquettes
 botany 1
 bilboquet 1
-berakes
+berakes 1
 birdmen 2
 blennies
 botanic 2
@@ -15354,7 +15354,7 @@ bordarius 1
 bardolph 2
 beetleweed 4
 bursa 2
-batrachidae
+batrachidae 1
 bridgetin
 brailled 1
 benzidine 1
