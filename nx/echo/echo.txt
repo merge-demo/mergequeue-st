@@ -7713,7 +7713,7 @@ executable 1
 epidiascope 2
 expectorants 2
 engraff 1
-ecce 2
+ecce 3
 epichilia 2
 epiphysitis 3
 egoism
@@ -8702,7 +8702,7 @@ ecumenicality 3
 equitative 2
 electrican 2
 eudaimonism 3
-eguttulate 1
+eguttulate 2
 eluted 2
 epistolize 6
 euphemisms 1
@@ -10352,7 +10352,7 @@ excitability 5
 edgestone 2
 erythroscope 1
 exhibitive 1
-ellagic 2
+ellagic 3
 eloign 2
 ethylamime 1
 elytra 1
