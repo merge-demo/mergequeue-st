@@ -1915,7 +1915,7 @@ ensorcelize 1
 enabled 1
 echinulate 1
 estoppal 2
-eurypterid 1
+eurypterid 2
 elaphe 4
 essenical 3
 empaneled 1
@@ -5556,7 +5556,7 @@ eyeful
 exceptionalness
 epicene 4
 embillow 3
-engendrure
+engendrure 1
 edenization 3
 equitemporaneous 2
 ethiopia
