@@ -2296,7 +2296,7 @@ bindoree 2
 befuddle 2
 broadsheet 1
 brier
-bianco 2
+bianco 3
 bysen
 breakfaster 2
 broadbrim 1
@@ -3700,7 +3700,7 @@ braille
 bengals
 bowlegs 1
 bisabol 1
-booklover 2
+booklover 3
 burnies 2
 brigantinebrigantines
 basiophthalmite
@@ -3800,7 +3800,7 @@ batz 1
 beldamship 1
 bestubble
 benchland
-blundering
+blundering 1
 boatsmanship 2
 bitterbush 1
 brujas 1
@@ -5335,7 +5335,7 @@ begloze 2
 busti 2
 brokenly 2
 baidar 1
-breviers
+breviers 1
 beglue 2
 beerage 2
 barbola
@@ -7123,7 +7123,7 @@ booties 1
 backstick
 backsets 1
 brashest 2
-bespray 3
+bespray 4
 ballute 1
 bespreng 2
 besprent 1
@@ -11766,7 +11766,7 @@ burier 1
 bowstring 1
 bobsleded 1
 bigeyes
-bacteriopurpurin 1
+bacteriopurpurin 2
 barrens 2
 bucephala
 biology
@@ -12800,7 +12800,7 @@ booleys 3
 bardy 1
 booly
 backhanding 3
-betatters 2
+betatters 3
 book 4
 borocarbide 4
 brasses 1
@@ -13496,7 +13496,7 @@ benefic
 bradyseismism 1
 bevillain
 bioxide 2
-bebouldered
+bebouldered 1
 bricken 1
 barbaloin
 blennotorrhea 1
@@ -14622,7 +14622,7 @@ biliousness 2
 betrumpet 2
 behorn 1
 brangled
-beanies 2
+beanies 3
 brankie 2
 blurry 1
 branks 3
