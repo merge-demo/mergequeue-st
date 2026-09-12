@@ -1350,7 +1350,7 @@ bobbles 3
 bethlehem
 bede
 bookdealer 2
-bioplastic 4
+bioplastic 5
 barrowcoat 3
 brod
 botrylle 2
@@ -4010,7 +4010,7 @@ buoyancy 4
 beadeye 3
 beader
 bellmaker 3
-barnhardtite 1
+barnhardtite 2
 beerothite
 binges
 brookside
@@ -4435,7 +4435,7 @@ batule 2
 becloak 5
 bereavement
 boojum 4
-bethorning
+bethorning 1
 beclog 1
 becoiffed 1
 bulkiness 1
@@ -8037,7 +8037,7 @@ bumping 1
 bleakish
 brooming 2
 babble 1
-bicolorous 1
+bicolorous 2
 betrayal
 bicolors 1
 binna 1
@@ -8113,7 +8113,7 @@ byronian 2
 blooper 1
 binous
 bracken 3
-bidden 1
+bidden 2
 buttal 1
 brum
 boondocks 2
@@ -9728,7 +9728,7 @@ bagani 2
 bathybian 2
 beadrolls
 blaewort
-bayeta
+bayeta 1
 bizes 2
 benj
 bicolored 1
@@ -18320,7 +18320,7 @@ buttoner
 buttoners 2
 bedel 2
 bilirubinemia 2
-buttony 2
+buttony 3
 bluenosed
 brink 5
 buttoning
