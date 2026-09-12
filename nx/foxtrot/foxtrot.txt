@@ -267,7 +267,7 @@ footpounds 5
 firbolg 1
 fax 3
 flagarie 2
-fideism 1
+fideism 2
 fissle 4
 fledges 6
 fungoids 2
@@ -2091,7 +2091,7 @@ fesapo 4
 filletlike 1
 fear 4
 firmers
-forerehearsed 1
+forerehearsed 2
 fell 2
 fissipalmate
 forebodies
@@ -3219,7 +3219,7 @@ flexibly
 fb
 fusicoccum
 ficklest 2
-foliage 4
+foliage 5
 ficklety 4
 fosterable 1
 fictionalize 3
@@ -3942,7 +3942,7 @@ foeniculum
 flitted 2
 fictionmonger 4
 furcating 3
-fluey 2
+fluey 3
 fogyism 1
 feedbacks 4
 finest 2
@@ -8854,7 +8854,7 @@ favorably 3
 falcinellus 4
 floozie 3
 frailes 3
-fetchers 1
+fetchers 2
 flotillas 1
 fossage 4
 fanlight 3
@@ -9069,7 +9069,7 @@ fragile 2
 frotting 3
 fregatidae 4
 fooder 3
-fidded
+fidded 1
 fluffed 1
 filmier
 flaxwort 4
@@ -10537,7 +10537,7 @@ formulatory
 fanman
 fittingly 3
 forays 4
-flyback 2
+flyback 3
 frottola 2
 federalizations
 fortuities
