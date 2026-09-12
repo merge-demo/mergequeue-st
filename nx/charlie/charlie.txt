@@ -20510,7 +20510,7 @@ compartments
 chapin 2
 celticist
 compass 2
-compassability 2
+compassability 3
 compassable
 compassed
 cotham
