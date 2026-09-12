@@ -297,7 +297,7 @@ feints 4
 feint 1
 fostell 3
 finagles 1
-fibrillated
+fibrillated 1
 fittiness 4
 futureness 2
 fagaceae 3
@@ -1231,7 +1231,7 @@ flatten 2
 filmdom 1
 frostier 5
 filariform 1
-familistic 4
+familistic 5
 fermentative 2
 frugalness 2
 franklin 1
@@ -3681,7 +3681,7 @@ follying 2
 fiddleys 4
 filioque 4
 feistiest 3
-foysen 3
+foysen 4
 fruitwise 3
 futurisms 1
 fathead
@@ -5348,7 +5348,7 @@ fimbrilla
 finiking 3
 fuddler
 fleams 1
-fittier 2
+fittier 3
 fraughting 4
 foggily 5
 feedbin 1
@@ -5792,7 +5792,7 @@ foreheads
 fulgurant
 fribble 1
 family 2
-fevertwig 3
+fevertwig 4
 flambee 2
 frett 1
 fv 1
@@ -11433,7 +11433,7 @@ furodiazole
 feoff 3
 furomethyl
 firring 1
-furcated 2
+furcated 3
 fishings
 furred
 frieze 3
