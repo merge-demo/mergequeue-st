@@ -3367,7 +3367,7 @@ defis
 desophistication
 disrestore 2
 dynagraph 2
-dithionate 1
+dithionate 2
 deflagrator 1
 deflating 1
 discommend 1
@@ -17269,7 +17269,7 @@ drivewell 1
 driving
 drizzles
 drunkeries 2
-dacryolith 4
+dacryolith 5
 dressmake 4
 dureresque 3
 drizzly 2
