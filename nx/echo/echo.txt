@@ -984,7 +984,7 @@ edaphosaurus 1
 explosibility 1
 encapsules 1
 eastlins 2
-euthanasic 2
+euthanasic 3
 enterocinetic 3
 epoxide 2
 eruditeness 1
@@ -1664,7 +1664,7 @@ ejusdem 1
 eyeish 2
 endoscopic 2
 eisteddfodic
-entrusting 2
+entrusting 3
 eyebalm 1
 estraying 2
 electromotograph 2
@@ -4292,7 +4292,7 @@ entrenches 1
 esture
 elytroclasia 1
 ephestia 1
-expulsive 2
+expulsive 3
 expansibleness 1
 enactor 2
 epigrammatize 5
@@ -6040,7 +6040,7 @@ enlargeableness 4
 enlarged 2
 eupepsias 3
 extensionless
-emydinae 2
+emydinae 3
 ecumenicalism 2
 erotization 3
 exposer 1
@@ -7177,7 +7177,7 @@ eh 4
 estolide 6
 enumerator 2
 esplanades 2
-elpasolite 1
+elpasolite 2
 electropercussive 3
 exocycloida 3
 enguard 3
@@ -7693,7 +7693,7 @@ eftsoon 1
 endrins 1
 exterritorially 2
 eruc 1
-emergents 3
+emergents 4
 erysipelatoid 1
 englify 2
 ensure 1
@@ -11701,7 +11701,7 @@ eccentricity 3
 electrocautery 4
 epididymectomy
 electrification 1
-entomotomist 2
+entomotomist 3
 exaggeratingly 1
 extralinguistically 4
 expends
