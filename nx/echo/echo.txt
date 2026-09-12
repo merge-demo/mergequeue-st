@@ -1915,7 +1915,7 @@ ensorcelize 1
 enabled 1
 echinulate 1
 estoppal 2
-eurypterid 1
+eurypterid 2
 elaphe 4
 essenical 3
 empaneled 1
@@ -6477,7 +6477,7 @@ enrollment 1
 ectosphenoid 1
 essayists 1
 entails 2
-effervescently 2
+effervescently 3
 epicaridan
 ekaboron 2
 eaglet 2
@@ -10640,7 +10640,7 @@ eudaimonist 1
 epirhizous 1
 eudemonic
 epappose 1
-evilproof
+evilproof 1
 eisodic 1
 endergonic 1
 enmoss 1
