@@ -267,7 +267,7 @@ footpounds 5
 firbolg 1
 fax 3
 flagarie 2
-fideism 1
+fideism 2
 fissle 4
 fledges 6
 fungoids 2
@@ -3770,7 +3770,7 @@ firstlings 4
 fissurella
 filming 4
 firnification 2
-flannelling 1
+flannelling 2
 frugivora 3
 formativeness 1
 fortranh 3
@@ -7141,7 +7141,7 @@ failed 2
 fumarolic 1
 fruggin 3
 frostlike 1
-featherpated 6
+featherpated 7
 follied 1
 figwort 2
 foleye 3
@@ -9069,7 +9069,7 @@ fragile 2
 frotting 3
 fregatidae 4
 fooder 3
-fidded
+fidded 1
 fluffed 1
 filmier
 flaxwort 4
