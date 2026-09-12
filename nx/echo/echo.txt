@@ -2668,7 +2668,7 @@ enfant 2
 eudaemonics 1
 engenderment 2
 exhort
-exdelicto 1
+exdelicto 2
 epispadia 2
 electrotherapeutical
 entrep 2
@@ -9329,7 +9329,7 @@ ectomorphic 1
 exolution 3
 enlargingly
 emotionally 3
-emane
+emane 1
 enrobement 1
 eponge 1
 effecter 3
