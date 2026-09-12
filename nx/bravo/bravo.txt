@@ -15232,7 +15232,7 @@ bloater 3
 breastplough 3
 blunted
 brushman 4
-blockheadedness
+blockheadedness 1
 bryce
 brick 2
 battened
