@@ -1396,7 +1396,7 @@ beringed 1
 bruisewort 2
 blots 3
 baldhead 1
-bilestone
+bilestone 1
 baldheads 2
 bilcock 1
 borneols 4
@@ -1768,7 +1768,7 @@ basileus 3
 balsamorrhiza 1
 burkei 3
 breakerman
-benzanilide 2
+benzanilide 3
 balsams
 beseechingness
 bismutite 1
@@ -3629,7 +3629,7 @@ babas 2
 bridelace
 bathukolpian
 bathvillite 4
-baglike 4
+baglike 5
 bookmobile 1
 besought 2
 blithelike 1
@@ -3805,7 +3805,7 @@ boatsmanship 2
 bitterbush 1
 brujas 1
 bauble 5
-bantay 1
+bantay 2
 baubo 1
 buttinskies 1
 bauch 2
@@ -6112,7 +6112,7 @@ buyout
 biobibliographies 2
 babyolatry 1
 bendies 3
-bends
+bends 1
 bendwise 2
 begay 2
 balaneutics 1
@@ -8947,7 +8947,7 @@ beancod 3
 beaverpelt 3
 bromyrite
 bioethics 2
-belltopperdom
+belltopperdom 1
 bartizan 1
 barricados 2
 boogaloo 1
@@ -9862,7 +9862,7 @@ bebat
 bytes 2
 bitewing 1
 beryx 1
-based 2
+based 3
 backswording
 bolelia
 balladry 2
@@ -11170,7 +11170,7 @@ balloters 2
 bloodthirster
 beliquors 1
 ballow
-blindages 3
+blindages 4
 beknot 2
 bitewings 3
 breveted 1
@@ -16773,7 +16773,7 @@ barbas 3
 buddhist
 beheadlined 4
 behemothic
-bigamously 1
+bigamously 2
 brandisher
 bethunder 1
 branny
@@ -16786,7 +16786,7 @@ blockhole 3
 buddleias 1
 brainstem 1
 bicarbonate 2
-begari 3
+begari 4
 blindfolding 2
 budger
 bagasse 4
@@ -16903,7 +16903,7 @@ biconcavity
 burglar
 buzukia 1
 bugaboo
-bugan 3
+bugan 4
 brahm 1
 bugbane 1
 beaume 2
