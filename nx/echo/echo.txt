@@ -4903,7 +4903,7 @@ entopical 1
 epineurial 3
 enthronise 1
 exigenter 1
-entoplastron
+entoplastron 1
 endeavourer 3
 encouragement 4
 endeavouring 1
@@ -6477,7 +6477,7 @@ enrollment 1
 ectosphenoid 1
 essayists 1
 entails 2
-effervescently 2
+effervescently 3
 epicaridan
 ekaboron 2
 eaglet 2
@@ -10640,7 +10640,7 @@ eudaimonist 1
 epirhizous 1
 eudemonic
 epappose 1
-evilproof
+evilproof 1
 eisodic 1
 endergonic 1
 enmoss 1
@@ -11562,7 +11562,7 @@ esterlin 4
 encia 1
 exies 1
 executry 3
-euphoric
+euphoric 1
 ess 5
 extypal
 extraburghal 2
@@ -14196,7 +14196,7 @@ enterococci 6
 ectosome
 esthetics 2
 epulation 2
-endlong 1
+endlong 2
 equidistance 1
 enlists 1
 effecters 1
