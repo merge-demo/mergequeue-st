@@ -1335,7 +1335,7 @@ flaggish 5
 foretoken 3
 fatigue 3
 fossicks
-fatiguesome 3
+fatiguesome 4
 fragmenting
 fishbones
 frundel 3
@@ -1611,7 +1611,7 @@ facie 3
 formicoidea 2
 framework 2
 frothiest 4
-feltmaking 1
+feltmaking 2
 frolickers 1
 frankincense 2
 folkway 2
@@ -3334,7 +3334,7 @@ fullmouthedly 2
 fandom 3
 fulcra 4
 fleshlike 1
-flon 2
+flon 3
 forsung 3
 flench 1
 furuncle 5
@@ -4133,7 +4133,7 @@ fumeuses 3
 frogleaf 2
 felonry 5
 flexed 2
-funders 4
+funders 5
 fenchyl 1
 feezed 3
 fireboy 2
@@ -5675,7 +5675,7 @@ fumet 1
 fermium 2
 fawe 2
 fragility 2
-fibrine 1
+fibrine 2
 freckles 4
 funeration 4
 fillebeg 2
@@ -5814,7 +5814,7 @@ foreswearing 2
 filmer 2
 flittermouse 2
 fellowship 1
-fathmur 1
+fathmur 2
 flitters 2
 frequents 1
 flankwise 2
@@ -8151,7 +8151,7 @@ fogless 4
 fretsaw 1
 falisci 1
 fustigate 1
-fatheadedness 2
+fatheadedness 3
 forewrought
 flocculent 2
 fanaticalness 1
@@ -8817,7 +8817,7 @@ fashionative 1
 forhooie 2
 forwearied 3
 formalizer 1
-fitchy 2
+fitchy 3
 fragmentate 2
 forgemen 3
 faradization 2
