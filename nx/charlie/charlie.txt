@@ -193,7 +193,7 @@ catproof 1
 chutzpas
 choriocapillaris
 cabree
-cabrerite
+cabrerite 1
 coltlike 2
 cunoniaceae 2
 cytisus 2
@@ -2782,7 +2782,7 @@ cannetille
 claviers
 cereless
 cannibalization 1
-cannibalized 1
+cannibalized 2
 chimps 1
 colleagueship
 cluttering
@@ -21679,7 +21679,7 @@ cancered
 cryptococcal
 condiment 1
 condimentary 1
-citatum
+citatum 1
 carcharhinus 2
 cinerarias
 cloths

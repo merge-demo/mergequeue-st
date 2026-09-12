@@ -2834,7 +2834,7 @@ barotrauma 1
 bulgurs 1
 bravest 2
 barotraumas 1
-barotropic
+barotropic 1
 barouchette 2
 bioecologic 2
 barouni 2
@@ -9966,7 +9966,7 @@ bituminosis 1
 biologically 1
 bennettitaceae 1
 bravas 2
-boree 2
+boree 3
 brian 1
 baalisms 2
 bx 1
@@ -10093,7 +10093,7 @@ bibliogony 1
 beflum
 baboosh
 blaasop 1
-blockaded 4
+blockaded 5
 bedawee
 bodrag 1
 birlieman 1
@@ -15142,7 +15142,7 @@ berlina 2
 bushbuck 2
 breviconic 1
 bunkered 1
-brevilingual 1
+brevilingual 2
 bestirring 2
 benamidar 2
 besmearer 1
