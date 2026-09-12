@@ -3629,7 +3629,7 @@ foreordination 6
 foregut 3
 filiformed 3
 footmaker 5
-frisbees 2
+frisbees 3
 flook 1
 farmable 1
 fridstool 1
@@ -10353,7 +10353,7 @@ frenziedness
 forleaving 1
 foundationless 2
 finfoot 3
-fervorlessness
+fervorlessness 1
 flarfishes 2
 fustilugs
 futurely 4
