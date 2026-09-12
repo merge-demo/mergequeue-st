@@ -450,7 +450,7 @@ ecclesia 1
 earlier 1
 enumerable 1
 ecclesiarchy 1
-ensnarls 2
+ensnarls 3
 ecclesiast 1
 entrada 1
 empasm 1
@@ -1106,7 +1106,7 @@ eikons
 environage 2
 edition 2
 endere 1
-editorialization
+editorialization 1
 elsa 3
 ecphory 1
 expunction
@@ -3785,7 +3785,7 @@ eclaircise
 epilogs
 estonia 3
 emeers 1
-emeership
+emeership 1
 emend 2
 exscribe
 embolomalerism 1
@@ -4496,7 +4496,7 @@ empales 1
 encephalospinal 2
 ecclesiastic 1
 elevatedness 1
-externize 3
+externize 4
 enureses 2
 emplaned 1
 embarkation 3
@@ -11943,7 +11943,7 @@ endemiology 4
 ectodactylism 5
 eudaemonistically 3
 excursory 3
-excur 1
+excur 2
 equiradical
 epikeia 4
 epithelia 1
