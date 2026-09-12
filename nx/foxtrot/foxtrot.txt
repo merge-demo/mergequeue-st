@@ -444,7 +444,7 @@ fulminating 1
 fluctisonous 2
 faithlessness 2
 fringeless 1
-favourless
+favourless 1
 folkmoter 2
 foliosity 4
 faithworthiness 2
@@ -1590,7 +1590,7 @@ favouring 2
 footroom 3
 floriage 3
 flappier 4
-frijol 4
+frijol 5
 fervescence 2
 freightless 3
 flannel 3
@@ -2938,7 +2938,7 @@ facier 1
 fooleries 4
 flukiness 4
 freezed 2
-foxberries 2
+foxberries 3
 fac 3
 furloughs 1
 fungological 3
@@ -3486,7 +3486,7 @@ forger
 ficins 1
 fordays 2
 floorhead
-formuliser 3
+formuliser 4
 forjaskit 2
 forpined 1
 finnic 1
@@ -4485,7 +4485,7 @@ faddy 2
 flatting 2
 forlane 5
 fertilizers 2
-fingerwise 2
+fingerwise 3
 fecklessness 1
 ferrovanadium 4
 flour 4
@@ -6316,7 +6316,7 @@ funori 3
 fettling 3
 fusionism 5
 futurable 1
-flumping 2
+flumping 3
 filate 1
 ferriprussiate 2
 fibropurulent 2
@@ -7308,7 +7308,7 @@ furled 1
 forelock 4
 fopperies 3
 fopperly 3
-fraternized 4
+fraternized 5
 formaldoxime
 foujdar 2
 facers 5
@@ -8180,7 +8180,7 @@ forclose 5
 foregate 2
 forthwith
 ferberite 2
-fructuosity 2
+fructuosity 3
 fossilology 2
 foretrace 3
 forecastleman 1
@@ -11111,7 +11111,7 @@ functors 4
 formational 1
 foulard 1
 functus 2
-furivae
+furivae 1
 fessewise 2
 frostwork 4
 functionalist 2
@@ -11494,7 +11494,7 @@ facilities 2
 figural 5
 finnmarks 1
 furthest 2
-flittering 3
+flittering 4
 firmity 1
 flareback 1
 fiercened 1
