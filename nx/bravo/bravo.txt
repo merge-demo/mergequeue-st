@@ -3043,7 +3043,7 @@ belee
 beckons 1
 brimmers 2
 brushpopper
-beachhead
+beachhead 1
 bartonella 2
 backswordsman 2
 blepharedema
@@ -3980,7 +3980,7 @@ biliment 1
 bumpiest 1
 backstays
 bratty
-boltspreet 2
+boltspreet 3
 broma 1
 bondon 1
 brittlewood
@@ -4359,7 +4359,7 @@ bonspiels 2
 bombola 2
 bechuana 2
 bespousing 2
-bellhops 2
+bellhops 3
 borean 3
 beclang
 burbark
@@ -10145,7 +10145,7 @@ blackbody
 bloodings 1
 blackbuck 1
 biomicroscopies 1
-backfiller 1
+backfiller 2
 biotrons 1
 blackbush 3
 birkenia 1
@@ -13219,7 +13219,7 @@ boshes 1
 brevirostrines 2
 bosjesman 1
 blazonry
-blushless 2
+blushless 3
 boustrophedonic 2
 boskier 1
 bosn 1
