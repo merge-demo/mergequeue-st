@@ -5395,7 +5395,7 @@ castellatus 1
 creolization 2
 circumposition
 copulates 2
-chamberfellow
+chamberfellow 1
 caster
 crinicultural 1
 cinemograph
@@ -15497,7 +15497,7 @@ clartier 1
 caries 1
 clartiest
 convulsionist
-clarts
+clarts 1
 clash 1
 clashee
 controlling
@@ -24507,7 +24507,7 @@ copable 1
 confraternity
 copacetic
 cornland
-creammaking
+creammaking 1
 copaene
 copaiba 2
 copaifera
@@ -24873,7 +24873,7 @@ coracocostal 1
 christiform 2
 coracoid 1
 coracoidal 1
-crocket
+crocket 1
 chaumontel 1
 coredeeming
 clemency 2
@@ -28421,7 +28421,7 @@ creaking 1
 creambush
 creameries 1
 coracoids 2
-cloakage 1
+cloakage 2
 coccidia
 creamerymen 1
 creamy 1
