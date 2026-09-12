@@ -2589,7 +2589,7 @@ formicid 1
 ferroelectric 4
 fribblery 1
 fattier 4
-ferrogoslarite 6
+ferrogoslarite 7
 forcet 3
 franked 1
 foud 5
@@ -4027,7 +4027,7 @@ feds 2
 futhorks
 finical 3
 fluxibly 4
-fullhearted 2
+fullhearted 3
 fibrin 1
 finis 4
 fadelessly 2
@@ -4450,7 +4450,7 @@ fishpole 2
 fishpoles 2
 flueless 4
 flameproof 1
-fazed 1
+fazed 2
 flattie 1
 fishtailed 1
 fibrilled 2
@@ -6039,7 +6039,7 @@ forespeech 3
 frontooccipital 3
 flanker 4
 fictionise
-fluoresce 3
+fluoresce 4
 fustic 1
 fleam 3
 finking 3
@@ -11417,7 +11417,7 @@ forcemeat 2
 flustrum
 forcipial 4
 fisticuffing 3
-flatterous 2
+flatterous 3
 filminess 2
 forint 1
 fechnerian 4
