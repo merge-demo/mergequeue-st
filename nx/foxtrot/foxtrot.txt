@@ -1335,7 +1335,7 @@ flaggish 5
 foretoken 3
 fatigue 3
 fossicks
-fatiguesome 4
+fatiguesome 5
 fragmenting
 fishbones
 frundel 3
@@ -1957,7 +1957,7 @@ familiarizingly 1
 falsify 1
 fenouillet
 falsum
-fooyoung 1
+fooyoung 2
 flagmaker 1
 fone
 feeb
@@ -3425,7 +3425,7 @@ fraternalist 1
 featliest
 forwards 4
 frederica 3
-foreside 1
+foreside 2
 fierte 2
 fifed 1
 flerried 4
