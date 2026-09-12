@@ -1355,7 +1355,7 @@ demissive 2
 diploid 1
 draftsperson 2
 doggerelize 1
-dompt 1
+dompt 2
 damagement 3
 dauntingness 1
 discerners
@@ -4745,7 +4745,7 @@ designless 3
 decasyllables 1
 dwaibly 1
 deaconing
-demihag 2
+demihag 3
 dodecatylic 1
 deair
 disseizor 2
@@ -10290,7 +10290,7 @@ draughting
 dames 1
 dionysia
 dionysiac
-dionysiacally
+dionysiacally 1
 dionysus 2
 drumwood
 dirigibles 2
@@ -10534,7 +10534,7 @@ deipotent 1
 dimpling
 diffidation 3
 dyemaker 2
-demiking
+demiking 1
 dauw 1
 diplocardiac 1
 diplocarpon 2
@@ -17357,7 +17357,7 @@ dictyoxylon 1
 disquisition 1
 desirers 1
 dodecanal
-dehumanised 2
+dehumanised 3
 doa 2
 deregulate 1
 drooly 3
@@ -17913,7 +17913,7 @@ deathday 1
 duelers 2
 duelistic 2
 dolentissimo 2
-distritbute
+distritbute 1
 durgan 1
 dinks 3
 dayflowers 2
