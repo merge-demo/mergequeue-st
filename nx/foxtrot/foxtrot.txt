@@ -4547,7 +4547,7 @@ fealties 8
 flagellation 3
 fruitcake 3
 forethinker 1
-foolable
+foolable 1
 faciolingual 3
 fluviometer 2
 fairkeeper 2
@@ -5621,7 +5621,7 @@ frontonasal
 frizel 2
 flageolet 1
 fascicled 2
-formerness 1
+formerness 2
 fourgons 3
 flight 1
 frusla
