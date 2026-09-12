@@ -13871,7 +13871,7 @@ boathook
 bang 2
 bowheads
 bowie
-balr
+balr 1
 beanfeast 1
 bejape
 bowyers 1
