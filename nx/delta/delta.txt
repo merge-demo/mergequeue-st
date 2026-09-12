@@ -4065,7 +4065,7 @@ daalder 2
 discomplexion 1
 dihybrid 2
 disreason 4
-delimitating 3
+delimitating 4
 droghlin
 delimitation 1
 deviational
@@ -8266,7 +8266,7 @@ diagrammer
 drumread 2
 dermopathic 1
 dependancy
-dynamiting
+dynamiting 1
 dagesh 3
 desonation 3
 digitation 3
@@ -18657,7 +18657,7 @@ disubstitution 1
 discountenanced
 deridingly 1
 disseisor 3
-devitrification
+devitrification 1
 decolorize 1
 duvetynes
 devaporation
