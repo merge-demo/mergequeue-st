@@ -695,7 +695,7 @@ anhydrosis
 aborigines 1
 abort
 aborted 1
-antiscorbutic 1
+antiscorbutic 2
 abortient
 anacardic 2
 assuring
@@ -9349,7 +9349,7 @@ azoerythrin 2
 alpenglow 2
 amputations 2
 alpenstock 1
-alpenstocks
+alpenstocks 1
 alpestrine 2
 aircraft 2
 atomiferous
@@ -12671,7 +12671,7 @@ andesite 2
 alala 1
 aneuploidy 2
 aneuric 1
-azo
+azo 1
 amentiferae 1
 aleuron
 arrayan
@@ -18460,7 +18460,7 @@ abrenunciation 2
 ascorbic
 arbela 2
 adeline 1
-antipendium 2
+antipendium 3
 arber 1
 autolesion 1
 aviates 2
