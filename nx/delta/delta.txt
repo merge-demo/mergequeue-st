@@ -8005,7 +8005,7 @@ desynonymize
 dispersion 1
 dumbhead 1
 dhal 1
-dimension 2
+dimension 3
 dorsointestinal 2
 dhamnoo
 daphnioid
@@ -8548,7 +8548,7 @@ deobstruent 2
 distritbuted
 dermographia 1
 dracontiasis
-distream 7
+distream 8
 druggists 1
 diaphone 3
 demilitarising 1
@@ -11924,7 +11924,7 @@ deutovum 3
 disembitter 1
 diplanetic
 disembocation 2
-domicils
+domicils 1
 diesels 3
 disembodiment 3
 deducer 4
@@ -16606,7 +16606,7 @@ dragoman 5
 dissimilarities 3
 diatonically 3
 dragomanate 2
-disharmonic 1
+disharmonic 2
 decompile 1
 daman
 dambose 1
@@ -17603,7 +17603,7 @@ drums
 decalcifier 1
 drumstick 1
 detoxicant
-drunk 3
+drunk 4
 desuperheater 1
 dogbite 2
 drunkenwise
