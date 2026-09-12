@@ -538,7 +538,7 @@ dainty
 dao 1
 damagers
 damalic
-dextrorotation 2
+dextrorotation 3
 demobilized 2
 designations 1
 dialyzing 1
@@ -4899,7 +4899,7 @@ disclaims
 disqualified 1
 demophobia 1
 decolonise
-digitalized 4
+digitalized 5
 disbursed 3
 dissentious
 dictators
@@ -4947,10 +4947,10 @@ devastators 1
 demounts
 dempsters
 deaerate 1
-demulcents
+demulcents 1
 diphycercy
 diseasedly
-demulsified 2
+demulsified 3
 dumpage
 discession 1
 dipsy
@@ -8862,7 +8862,7 @@ diffeomorphism 1
 deflexure 1
 domiciliating 1
 dicacity
-deodorising 2
+deodorising 3
 dicaeidae 1
 dwarfed
 decentres
@@ -8901,7 +8901,7 @@ decolonizing 2
 distributiveness 1
 dichasium 2
 deordination 2
-dinginess 1
+dinginess 2
 deash 1
 diminutiveness 2
 dictyophora 1
@@ -11922,7 +11922,7 @@ dyable 3
 deliberation 1
 deutovum 3
 disembitter 1
-diplanetic
+diplanetic 1
 disembocation 3
 domicils 1
 diesels 3
@@ -12295,7 +12295,7 @@ disemployed
 dinos 1
 dragonne 2
 disgustfulness 3
-disgustingly 3
+disgustingly 4
 dealated 2
 dishabilitate 2
 dishabille 1

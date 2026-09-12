@@ -916,7 +916,7 @@ gambia 3
 gunners 3
 garblings 1
 garnishable 1
-gemeinschaften 3
+gemeinschaften 4
 guidership 5
 gelsemiumia
 galt 1
@@ -1798,7 +1798,7 @@ gouts 3
 gobleted 2
 glaucidium 3
 guinean
-gullah 4
+gullah 5
 gatekeeper 1
 grassy 1
 glummer 3
@@ -2134,7 +2134,7 @@ gdinfo 2
 gerahs
 glossography 1
 golfings 4
-genets 2
+genets 3
 gds 1
 gaycat 1
 grainer 3
@@ -3489,7 +3489,7 @@ griffe 2
 gents 1
 ghastily 2
 gottlieb 5
-guytrash 2
+guytrash 3
 grenadin 2
 gegenschein
 goth 1
@@ -4841,7 +4841,7 @@ glagolic 1
 gorillian 3
 gethsemane 2
 glaieul 3
-geodal 2
+geodal 3
 groveller 2
 geometrising 2
 glycerinize
@@ -5414,7 +5414,7 @@ gunter 3
 gephyrean 3
 golaseccan 3
 gynophagite 2
-giftlike
+giftlike 1
 gaea 2
 glial 3
 glyptolith 6
@@ -6069,7 +6069,7 @@ gibbled 3
 grugrus 2
 grisset 1
 gruel 2
-grume
+grume 1
 gramineous 1
 gneiss 1
 goosebeak 5
@@ -7658,7 +7658,7 @@ gunsel 2
 graphic
 gracilis
 gracing 5
-gunpaper
+gunpaper 1
 greyly 2
 graft
 gyal 3
