@@ -8260,7 +8260,7 @@ electropuncturation
 electrolyzability 1
 embryonated 1
 eluxate 2
-ependytes 2
+ependytes 3
 extremis 1
 epigyny 3
 epistemic 1
@@ -8602,7 +8602,7 @@ electrodynamometer 1
 elinguating 3
 ectal 1
 escapee 1
-equilibrates
+equilibrates 1
 exonerators 3
 extirpation 2
 egol 1
@@ -12804,7 +12804,7 @@ eemis 4
 exorcizer
 epiceratodus 4
 engold 2
-exotism 3
+exotism 4
 equilibrations 5
 elsewise 2
 exortion 1
@@ -12869,7 +12869,7 @@ extinctor 2
 enumerations 4
 efecks 3
 exoticist
-equilibrity 1
+equilibrity 2
 eudipleural 2
 exploringly 1
 encircled 1
@@ -13251,7 +13251,7 @@ eductor
 epiphytism 3
 exheredate 1
 ethanoyl 2
-excluders
+excluders 1
 exoarteritis
 enchisel 3
 exanthalose 1
@@ -13754,7 +13754,7 @@ ecologies 3
 eliciting 2
 elementarity 1
 epicarid 2
-endnote 1
+endnote 2
 extratemporal 3
 ensnares 2
 esteemed
