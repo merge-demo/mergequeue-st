@@ -3332,7 +3332,7 @@ autoluminescence 2
 acrylate 1
 assassin 1
 atomizes 1
-acutograve
+acutograve 1
 analogist 2
 acutonodose 1
 aurene 3
@@ -9510,7 +9510,7 @@ acidulant
 annotatory 1
 arabia
 allochetite
-alternated
+alternated 1
 achier
 alignments
 assaugement
@@ -15740,7 +15740,7 @@ anaesthesiologist 1
 antipathetic
 antimodernism 1
 antipathetical 1
-arenas 2
+arenas 3
 apnoeic
 atophan
 anteflexed
