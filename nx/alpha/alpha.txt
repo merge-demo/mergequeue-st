@@ -2450,7 +2450,7 @@ atterminal 1
 acinic 1
 aciniform 2
 anatomicophysiological
-aggrate 3
+aggrate 4
 acinus 3
 anus
 actinozoon 3
@@ -7749,7 +7749,7 @@ antifungin
 anestri
 alluvials 2
 artsy 2
-apposiopestic
+apposiopestic 1
 amplifier
 alcoranic 1
 aff 2
@@ -10450,7 +10450,7 @@ asterisms 3
 amess 2
 akmudar
 assailants 1
-atheize
+atheize 1
 ametabolia 1
 angulose 1
 alikulufan 1
@@ -11890,7 +11890,7 @@ analogicalness
 amidomyelin 1
 abdominocardiac
 analogised
-anteroventral 3
+anteroventral 4
 analogize 1
 appropriation 2
 analogon 1
@@ -23226,7 +23226,7 @@ aleuromancy
 alkermes 2
 androphonomania
 amphinesian
-atrabilarious
+atrabilarious 1
 apomecometry 2
 auriphrygiate 1
 anapaganize
