@@ -801,7 +801,7 @@ danegelds 1
 deckhead 3
 daneweed 1
 daneweeds 4
-detections
+detections 1
 dactyliomancy
 diabrotic
 deduced 2
@@ -4603,7 +4603,7 @@ denticulate
 demise 2
 dupped 3
 demisecond 1
-demised 2
+demised 3
 depas
 didynamia
 dodecatyl
