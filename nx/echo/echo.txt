@@ -112,7 +112,7 @@ eusteles 4
 eaves 1
 excrementally 2
 exsculptate
-equisetaceae 2
+equisetaceae 3
 engobe 1
 egotistically 2
 eartab 2
@@ -3785,7 +3785,7 @@ eclaircise
 epilogs
 estonia 3
 emeers 1
-emeership
+emeership 1
 emend 2
 exscribe
 embolomalerism 1
@@ -4496,7 +4496,7 @@ empales 1
 encephalospinal 2
 ecclesiastic 1
 elevatedness 1
-externize 3
+externize 4
 enureses 2
 emplaned 1
 embarkation 3
@@ -5162,7 +5162,7 @@ endolysin 2
 ecphonema 2
 eretrian 2
 equipluve 2
-ethnographies
+ethnographies 1
 equilibrate 3
 euphoniousness 1
 endomorphy 2
@@ -6138,7 +6138,7 @@ enthrallment 1
 ectoparasitic
 endotoxin 2
 embronze 1
-evagation 1
+evagation 2
 entertainers 3
 enneandrian 1
 etherealizing 4
@@ -6348,7 +6348,7 @@ ebbed 1
 eavesdrip 1
 episcopize 1
 eprouvette 4
-enshrined 4
+enshrined 5
 embars
 enshrinements 3
 endovaccination 2
@@ -9751,7 +9751,7 @@ empoisoner 4
 embitterment 2
 embracive 1
 explaining 1
-exp 1
+exp 2
 essoined 4
 embolemia 1
 eachwhere 2
