@@ -3549,7 +3549,7 @@ bestore 1
 bulbocavernosus 1
 brookites 1
 blackroot 3
-bathed 3
+bathed 4
 bathes 2
 backslidden
 bicondylar 2
@@ -7838,7 +7838,7 @@ blooms 1
 by 1
 boulevards 2
 bufonite
-borazon 1
+borazon 2
 bajri
 broose 2
 bibelot 2
@@ -9160,7 +9160,7 @@ banderlog
 brahmanhood 1
 behalf 1
 bianchi 2
-besprinkled
+besprinkled 1
 badgir 3
 ballgown
 biotechnologically 1
@@ -9469,7 +9469,7 @@ bandwidths 1
 brawl 1
 bespatterment 2
 boatbill 1
-bioinstrumentation 1
+bioinstrumentation 2
 bathymeter 2
 basaltine 1
 bemedaled 1
@@ -9698,7 +9698,7 @@ bladed
 besmiles
 boisseau 1
 bismerpund 2
-buoyages
+buoyages 1
 bipartisanism 1
 bourette 1
 bismite
@@ -14874,7 +14874,7 @@ bristler 3
 bluetops 2
 buttress
 bronchopulmonary 3
-besliming 3
+besliming 4
 bedewer 1
 bestializes
 bonetta
