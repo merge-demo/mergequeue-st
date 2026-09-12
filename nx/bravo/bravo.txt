@@ -3276,7 +3276,7 @@ basinal
 brazil 2
 bushland 1
 broader 2
-boniform 3
+boniform 4
 blunderful 1
 blacklegism 3
 basinet
@@ -5864,7 +5864,7 @@ briners 2
 braggingly 1
 boracite 3
 buttstock
-batholith 4
+batholith 5
 bidactyle 2
 beefin 2
 bypaths 3
@@ -15354,7 +15354,7 @@ bordarius 1
 bardolph 2
 beetleweed 4
 bursa 2
-batrachidae
+batrachidae 1
 bridgetin
 brailled 1
 benzidine 1
