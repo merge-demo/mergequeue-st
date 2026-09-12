@@ -1358,7 +1358,7 @@ backdrops
 butterflyer 4
 borderlands 1
 balbusard 2
-beggarliness 2
+beggarliness 3
 burlap 3
 brayed 2
 butterbump 1
@@ -7420,7 +7420,7 @@ boshboks 1
 balinese 1
 beaners 2
 ballonnes
-bact 1
+bact 2
 betso 1
 betted
 befreeze
@@ -16886,7 +16886,7 @@ balneographer 2
 bedimpling
 bootheel 2
 bellona
-buffoonishness 1
+buffoonishness 2
 benchwork 1
 buras 2
 buffs 1
