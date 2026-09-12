@@ -2405,7 +2405,7 @@ gype 3
 grograms 1
 glutch 1
 gunship 1
-grandpas 1
+grandpas 2
 gekkones 1
 gimels 2
 grillage 2
@@ -5000,7 +5000,7 @@ golconda 3
 gloat
 gecarcinus 1
 gastrogenital 3
-gv 2
+gv 3
 glossing 2
 gularis 2
 garland 1
@@ -5241,7 +5241,7 @@ grangerite 2
 genialize
 guardsmen
 guatemala 3
-gasolenes
+gasolenes 1
 gemitores
 gossoons 6
 glyoxilin 1
@@ -6117,7 +6117,7 @@ gallivants 2
 gammarus 4
 galenist 1
 glaserian 4
-gnotobiosis 1
+gnotobiosis 2
 galactorrhoea 1
 gnow 1
 guttulous 1
@@ -8041,7 +8041,7 @@ gata 4
 gunstock 6
 gossiper 3
 geta 3
-grandpapa
+grandpapa 1
 grunting 3
 geophysicists
 glasswort 3
@@ -9552,7 +9552,7 @@ grouze 1
 gingeley 3
 glycans 1
 glume 1
-gastornithidae 2
+gastornithidae 3
 groved 1
 greenskeeper
 goggler 1
