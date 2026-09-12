@@ -275,7 +275,7 @@ dreadnaught 2
 docken 1
 debugged 2
 disassiduity 3
-doliolidae 1
+doliolidae 2
 diploperistomic 2
 diagraming 2
 dahabeahs 1
@@ -4853,7 +4853,7 @@ denature
 dramseller 2
 deactivator 3
 drupose
-dismality
+dismality 1
 dissimilation 1
 dissecting 1
 decocting 2
@@ -5298,7 +5298,7 @@ damnii
 dentatosinuate 1
 diethylacetal
 dribber 1
-digitizer
+digitizer 1
 demurrage
 despotize
 diatomacean
