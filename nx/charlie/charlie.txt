@@ -8108,7 +8108,7 @@ comrogue 1
 crepuscule
 chainless
 counteractions 2
-crosscheck 2
+crosscheck 3
 coelodont 1
 chlortetracycline
 chumping
@@ -24328,7 +24328,7 @@ catholicization
 cooers 1
 comprehendible 1
 coof
-cooghneiorvlt 2
+cooghneiorvlt 3
 colalgia
 cooing
 cyclovertebral
@@ -24699,7 +24699,7 @@ curare
 conflates
 copperhead 1
 constructionism
-capsuled
+capsuled 1
 copperheadism 1
 coppering 1
 commentary
@@ -31702,7 +31702,7 @@ cuspidate
 chophouse 1
 custody 1
 cuspides
-chondromyxoma
+chondromyxoma 1
 cesuras
 carbuncled 1
 cotyloid
