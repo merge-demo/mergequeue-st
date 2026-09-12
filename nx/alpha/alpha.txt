@@ -2450,7 +2450,7 @@ atterminal 1
 acinic 1
 aciniform 2
 anatomicophysiological
-aggrate 3
+aggrate 4
 acinus 3
 anus
 actinozoon 3
@@ -3764,7 +3764,7 @@ adversative 1
 annihilating
 asystematic
 acknowledges 2
-agnathostomatous 2
+agnathostomatous 3
 astigmatical 2
 adequacies
 adequate
@@ -7749,7 +7749,7 @@ antifungin
 anestri
 alluvials 2
 artsy 2
-apposiopestic
+apposiopestic 1
 amplifier
 alcoranic 1
 aff 2
@@ -10450,7 +10450,7 @@ asterisms 3
 amess 2
 akmudar
 assailants 1
-atheize
+atheize 1
 ametabolia 1
 angulose 1
 alikulufan 1
@@ -10969,7 +10969,7 @@ amniotes
 antipreparedness 2
 amniotic
 amidases 1
-amniotin
+amniotin 1
 atafter 2
 amoyan
 amobyr 2
@@ -11890,7 +11890,7 @@ analogicalness
 amidomyelin 1
 abdominocardiac
 analogised
-anteroventral 3
+anteroventral 4
 analogize 1
 appropriation 2
 analogon 1
@@ -21228,7 +21228,7 @@ afforcing
 ashipboard 1
 ashir 1
 antiromanticist
-analemmata 1
+analemmata 2
 archoplasma 2
 assentor
 ashkey 1
@@ -23226,7 +23226,7 @@ aleuromancy
 alkermes 2
 androphonomania
 amphinesian
-atrabilarious
+atrabilarious 1
 apomecometry 2
 auriphrygiate 1
 anapaganize
@@ -25290,7 +25290,7 @@ azobenzil
 anisogamous 1
 avulse
 articulateness
-argyropelecus 1
+argyropelecus 2
 arvicola
 ariegite 1
 adenofibroma
