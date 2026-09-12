@@ -13871,7 +13871,7 @@ boathook
 bang 2
 bowheads
 bowie
-balr
+balr 1
 beanfeast 1
 bejape
 bowyers 1
@@ -15398,7 +15398,7 @@ brierroot
 butterfingers 1
 baseballer 2
 bonnetless 3
-brieve
+brieve 1
 burgling 2
 beanier 2
 beslings
