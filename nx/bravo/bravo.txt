@@ -2681,7 +2681,7 @@ bernardine 2
 barmaster 5
 bergalith 2
 benzoic 2
-barmcloth 2
+barmcloth 3
 brither
 birdcage 1
 balmlike 2
@@ -10590,7 +10590,7 @@ blatta
 blackbreast 2
 biostrome 2
 bromogelatin 2
-boltheader
+boltheader 1
 bachelorship 2
 bespake 5
 buduma 4
@@ -13482,7 +13482,7 @@ brayer
 bottlenest 1
 bottlenose
 bottlestone 1
-bottling 1
+bottling 2
 blemishes 1
 bogydom 3
 borstall
