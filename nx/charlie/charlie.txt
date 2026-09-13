@@ -1976,7 +1976,7 @@ colonisation
 citizenship
 cameralism
 condominium
-cameralistics 2
+cameralistics 3
 cameraman
 cameras 2
 catabolism 1
@@ -3131,7 +3131,7 @@ coldness 1
 can 1
 capacitive
 cenotaphies
-cyclophrenia
+cyclophrenia 1
 cyclopes 2
 capacitor 1
 chalker 2
@@ -8956,7 +8956,7 @@ chariotman
 collegiately 1
 chondri 3
 chaplaincy 2
-chalchihuitl 2
+chalchihuitl 3
 conceivability
 cryptal
 countersignature 1
@@ -24496,7 +24496,7 @@ corticin
 cheeseburger
 cootfoot 1
 crotyl
-cooty 1
+cooty 2
 cootie
 copps
 coelogyne 1
