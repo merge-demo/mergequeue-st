@@ -1295,7 +1295,7 @@ ginkgo 3
 gloria 2
 gestation 1
 grandpa 1
-garefowl 2
+garefowl 3
 gyrene 3
 generalizable 3
 gnawingly 1
@@ -1466,7 +1466,7 @@ gastric 1
 gisarme
 greta 2
 gasolier 1
-ghostology 2
+ghostology 3
 granolith 3
 girllike 2
 grotesque 1
@@ -2046,7 +2046,7 @@ gnawer 2
 glorious 2
 gader 2
 gaulin 3
-geleem 5
+geleem 6
 grandbaby 2
 gamblers 2
 gyrocompasses 4
@@ -3295,7 +3295,7 @@ gang 1
 gleek 4
 grooverhead 3
 gerundial 3
-gentlewomanlike 2
+gentlewomanlike 3
 germier 2
 goatsfoot 6
 gasan 1
@@ -6531,7 +6531,7 @@ goma
 glossoplegia 3
 gabbards 1
 granduncles
-gatetender
+gatetender 1
 gromwell
 gunocracy 3
 gamelans 1
@@ -8057,7 +8057,7 @@ gumless 1
 gettering 6
 gasbags 2
 goladar 2
-gyromancy 5
+gyromancy 6
 gustable 2
 greekess 2
 gabby 1
@@ -8317,7 +8317,7 @@ gowdy 4
 gutturalise 1
 gleets 3
 genian 3
-grandee
+grandee 1
 ginglymi 5
 graphicly 1
 glycuronide 3
@@ -8717,7 +8717,7 @@ greediest
 grandfilial 2
 garths 2
 grotesquely 2
-grassily 3
+grassily 4
 gasteromycete 3
 greedyguts 2
 gibier 3
@@ -10359,7 +10359,7 @@ glancing
 gordiid 2
 gullery 1
 grasshook 3
-grike 1
+grike 2
 gullets 1
 generators 1
 geomorphological 3
