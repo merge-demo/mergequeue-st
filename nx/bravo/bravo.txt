@@ -1901,7 +1901,7 @@ bella
 bandidos 1
 baronetizing 2
 bushie 2
-bandie 2
+bandie 3
 bilinear 1
 batrachoplasty 4
 biparty
@@ -3917,7 +3917,7 @@ baxtone 1
 brachyskelic 2
 boughten 1
 begray
-bazars
+bazars 1
 bint 3
 brockage
 bazooka
@@ -5987,7 +5987,7 @@ bemar 5
 bouncingly 4
 bevaring 2
 bemask
-bricktop 6
+bricktop 7
 bossier 1
 befooling 1
 bldr 1
@@ -7812,7 +7812,7 @@ bargemaster
 biography
 biliously 1
 blessedest
-ballasts 3
+ballasts 4
 burrow 3
 biauricular 2
 backhouse 1
@@ -8232,7 +8232,7 @@ berith 1
 bienniums 1
 bb 3
 bobstay 4
-balagan 2
+balagan 3
 boult 2
 bewildered 1
 bookwright 3
@@ -8321,7 +8321,7 @@ biotitic 1
 burundi
 biggen 1
 biggened
-baccharoid
+baccharoid 1
 bakepan
 barbarous
 boastingly 2
@@ -8595,7 +8595,7 @@ bhuts 1
 bastionary 2
 bearskin 2
 billfolds 2
-ballaton 5
+ballaton 6
 bringing
 bearlike 3
 bibliothecas 2
@@ -16853,7 +16853,7 @@ black 1
 baillonella
 buffier
 buffiest
-blighties 2
+blighties 3
 birdcalls 2
 buzzer 2
 battak 2
@@ -17348,7 +17348,7 @@ bargained 2
 brinksmanship
 beseemingly
 blackjacked 1
-blowess 4
+blowess 5
 brennage 2
 bakerly 4
 bundled 1
