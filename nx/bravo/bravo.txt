@@ -9469,7 +9469,7 @@ bandwidths 1
 brawl 1
 bespatterment 2
 boatbill 1
-bioinstrumentation 2
+bioinstrumentation 3
 bathymeter 2
 basaltine 1
 bemedaled 1
@@ -13140,7 +13140,7 @@ bornite 3
 baksheesh 1
 bemuck
 bestirs
-bornites
+bornites 1
 bornitic 1
 berob 1
 borofluohydric 1
