@@ -637,7 +637,7 @@ accommodation 1
 abolish 2
 autovaccine
 abolished 2
-aves
+aves 1
 antidiphtheric 1
 acacetin 1
 amatols 1
@@ -5658,7 +5658,7 @@ antischool 1
 aneurine 1
 aftward 2
 afunctional 3
-autocystoplasty 3
+autocystoplasty 4
 anticorrosion 1
 afwillite
 afzelia 2
@@ -11883,7 +11883,7 @@ analoga 1
 analogic 1
 anteposition 3
 ascertained 3
-anaximandrian 2
+anaximandrian 3
 amphicome 1
 amvis
 analogicalness
@@ -13175,7 +13175,7 @@ animala
 animalic 1
 avunculize 2
 amusgo 1
-animalier 2
+animalier 3
 acetosalicylic 1
 animalillio 4
 arracacia 1
@@ -15840,7 +15840,7 @@ atonements
 amphisbaenian 2
 afloat 2
 authorization 1
-appetizingly
+appetizingly 1
 antipyics
 antipyonin 1
 antithrombin 2
@@ -16743,7 +16743,7 @@ aphasiacs
 aphasics 2
 affrayer 4
 ambience 2
-anabaptized 2
+anabaptized 3
 averse
 anterointerior 1
 accur 2
@@ -23486,7 +23486,7 @@ autotomies 2
 absolutistic 2
 augmentable 1
 acopic
-archdruid
+archdruid 1
 argol 2
 annotine 2
 autoincrement 2
