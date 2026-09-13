@@ -1492,7 +1492,7 @@ affixable 2
 archaisms 2
 amortize 1
 acclimatise 4
-acclimatiser 2
+acclimatiser 3
 acclimatising
 aegagrus 1
 applewood 3
@@ -5733,7 +5733,7 @@ adiposes
 adulter
 agamemnon 1
 antiquely 1
-aeolistic 1
+aeolistic 2
 agamete
 atrypoid 1
 angulates 1
@@ -17192,7 +17192,7 @@ apomecometer
 apomictical 2
 animism
 advena
-aquilegia
+aquilegia 1
 athletocracy 3
 aeroides 2
 aubaine 1
@@ -17202,7 +17202,7 @@ artillerymen 3
 apomixes 2
 anthropomorphotheist 2
 acescent
-ankylosing 1
+ankylosing 2
 almira 1
 apomixis 2
 apomorphia 2
@@ -18136,7 +18136,7 @@ abdicated 2
 acapnia 1
 ableptically
 allegator
-antipsychotic 1
+antipsychotic 2
 aerogenic 1
 algeria
 accustomed
@@ -22698,7 +22698,7 @@ aristocracies 1
 athymic 1
 antimonyl 2
 athing 1
-askarel
+askarel 1
 athyria 2
 acronymous 1
 ampyces 1
