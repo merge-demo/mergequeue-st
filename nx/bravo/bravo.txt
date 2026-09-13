@@ -1150,7 +1150,7 @@ babakoto 2
 backwall 1
 borates 3
 botete
-bankman 1
+bankman 2
 bountree 1
 bairnwort
 baisemain 1
@@ -2573,7 +2573,7 @@ barile 1
 barilla 1
 beleaf 1
 barters 3
-bathofloric
+bathofloric 1
 baryon 3
 bathometer 3
 brio
@@ -4780,7 +4780,7 @@ blast 2
 bed 1
 bedribble
 bosnisch 1
-burglarizes 2
+burglarizes 3
 bibracteate
 billfold 2
 barbarize
