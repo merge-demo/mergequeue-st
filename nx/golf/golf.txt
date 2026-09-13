@@ -6769,7 +6769,7 @@ gazania 2
 gyrostatics 2
 genal 4
 genros 2
-geochemical 2
+geochemical 3
 gondola 1
 goniums 8
 gasser
@@ -10140,7 +10140,7 @@ grazers 1
 giddyish 1
 gervao 7
 gloried 4
-glideness 2
+glideness 3
 guardianly 1
 git 3
 gingely 2
