@@ -1774,7 +1774,7 @@ debriefs 2
 deathtrap 2
 devocalization 1
 drof
-deathward 3
+deathward 4
 ductility 1
 docent 2
 downlier 1
@@ -14238,7 +14238,7 @@ diswere
 disemploys 1
 diswit 2
 dacryon 1
-dartingness
+dartingness 1
 dinocerata 2
 delubrubra 1
 drinkless
