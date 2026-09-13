@@ -6662,7 +6662,7 @@ chalcidiform
 cedrin
 crenellation 1
 countervailed 2
-cedriret
+cedriret 1
 cetologies 1
 cedrol
 corticiform 1
@@ -9705,7 +9705,7 @@ cheilodipteridae
 cheilodipterus 1
 colostral 1
 cheiloplasty
-cheilostomata
+cheilostomata 1
 cheilostomatous
 complied 1
 censer 2
@@ -21137,7 +21137,7 @@ concatenates
 coequating 1
 concatenator
 concatervate
-catechizes 1
+catechizes 2
 concause
 concavity 1
 corrupter 1
@@ -24315,7 +24315,7 @@ caricaturists 1
 communicably 1
 cooches
 chondrophore
-cooed 1
+cooed 2
 corrades
 counterexample 1
 couthily
@@ -24712,7 +24712,7 @@ countertrippant
 cambrics 1
 corimelaena 2
 copperskin
-ciderist 1
+ciderist 2
 coppersmith
 comenic
 coppersmithing
@@ -25358,7 +25358,7 @@ cubicle
 cams
 corncrake
 crustiest
-corncrib 1
+corncrib 2
 crisply
 centripetal
 condylion

@@ -2170,7 +2170,7 @@ bantus 2
 brabbled 1
 bandon 3
 bewield
-blandfordia
+blandfordia 1
 benzotoluide 2
 botrychium 2
 backup 1
@@ -4101,7 +4101,7 @@ bagge 2
 blokes 1
 bobbed 4
 beansetter
-beanshooter 1
+beanshooter 2
 beanstalk 2
 bestiaries
 bearbaiter 2
@@ -5488,7 +5488,7 @@ brouze 2
 bey
 bindi 2
 boxed
-byliny 2
+byliny 3
 bootyless 1
 beelines 3
 bobbled
@@ -8284,7 +8284,7 @@ beak 2
 bookling 1
 burden 1
 buccinal 1
-byzantinism 4
+byzantinism 5
 berberine 2
 botte 3
 belittlement
@@ -11017,7 +11017,7 @@ blitzkrieging 1
 brache 1
 backstairs 1
 bladelike
-bullyrags
+bullyrags 1
 beswitch
 bromoethylene 2
 brassia 2
@@ -11301,7 +11301,7 @@ brigandage
 buddy 4
 beholding 1
 bredstitch 3
-blowiron
+blowiron 1
 blowjobs
 bummle 1
 bachelor 1
@@ -11589,7 +11589,7 @@ blushy 1
 basophils 1
 biddy
 brierwood 1
-beth 1
+beth 2
 bestain 1
 brightness 1
 byordinar 2
@@ -11648,7 +11648,7 @@ boatbuilding 3
 boathouse
 boffos 3
 blacketeer
-baccare 1
+baccare 2
 bittacle 1
 beachboys 3
 barterers 1
@@ -11902,7 +11902,7 @@ besmutting 1
 barabora 1
 boron 1
 boatlip 1
-borgh 2
+borgh 3
 benic
 bockey
 bloodleaf 2
@@ -11990,7 +11990,7 @@ bogtrotting 2
 batfowler
 boardings 2
 batel 2
-bimillenary 3
+bimillenary 4
 brother 2
 bogued
 bogus
@@ -17300,7 +17300,7 @@ bantams
 bummel
 bummie 2
 bursal
-bumming
+bumming 1
 basilweed
 barberite 1
 bumped 2
