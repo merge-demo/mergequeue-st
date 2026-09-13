@@ -2041,7 +2041,7 @@ flamier 1
 farouche
 feltwork 5
 falconet 2
-fourpounder 4
+fourpounder 5
 ferngrower 3
 frontspiece 3
 feinter 2
@@ -2810,7 +2810,7 @@ frondeurs 1
 florists 2
 festucine 2
 forelady 5
-flaxiest 3
+flaxiest 4
 frightfully 6
 funli 2
 fumigation 3
@@ -3027,7 +3027,7 @@ foreman 2
 floodage 1
 flogster 3
 fioriture 3
-fairyology
+fairyology 1
 firemanship 6
 feoffers 3
 footwears 3
@@ -3898,7 +3898,7 @@ fruz 3
 familiarize
 function 1
 findhorn 1
-filarees 2
+filarees 3
 fine 1
 fineableness 2
 fumigators 1
@@ -5481,7 +5481,7 @@ flora 1
 funniness 1
 frequentness 3
 fragmentizing 3
-foxer 4
+foxer 5
 frillers 5
 fallation 2
 forweep 2
@@ -6001,7 +6001,7 @@ fez 2
 floorwise 2
 fernland 2
 floralia 2
-featishness 3
+featishness 4
 fusty 2
 foolscaps
 felspars 1
@@ -6817,7 +6817,7 @@ fungin 3
 forewonted 3
 freelancer 6
 folderols 3
-foreheater 1
+foreheater 2
 foreleader
 foveiform 6
 fjelds 3
@@ -8465,7 +8465,7 @@ fierier 1
 flushers 1
 forbearingly 1
 fatheadedly 3
-fickler 1
+fickler 2
 formaliser 3
 featurally 1
 fozinesses 2
@@ -9089,7 +9089,7 @@ fluvious
 fountained 1
 flashguns 3
 flies 1
-frike
+frike 1
 fundiform 1
 farther 1
 factorized 2
@@ -9623,7 +9623,7 @@ freebootery 3
 forestiera 1
 freebooting 3
 feltwork 2
-facete 1
+facete 2
 familia 1
 forensic 2
 foxfires
@@ -10711,7 +10711,7 @@ fairstead 4
 fruitstalk 1
 fg 3
 fusel 3
-foreset 1
+foreset 2
 foresheets 1
 fleuretty 1
 fortuneless 1
@@ -11106,7 +11106,7 @@ fane 1
 factfinder 1
 flagellated 2
 flockless 4
-fangled 2
+fangled 3
 functors 4
 formational 1
 foulard 1
