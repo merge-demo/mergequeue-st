@@ -92,7 +92,7 @@ cabbies
 cabble 1
 challenges 1
 cabbled
-cabbler 1
+cabbler 2
 chars 1
 carotenes 3
 cabdriving 3
@@ -848,7 +848,7 @@ copepod 2
 contaminated 1
 carburation
 cainite
-charbroils
+charbroils 1
 cainitic
 cayos
 caique
@@ -12020,7 +12020,7 @@ chorister
 centralization 1
 coenacting
 choristership
-choristoneura 1
+choristoneura 2
 childminder 4
 corelation
 catalanist
@@ -25884,7 +25884,7 @@ corsac 2
 corsacs
 connarus 1
 corsages 1
-corsairs 2
+corsairs 3
 chalcid
 corsak 1
 crippled
@@ -29602,7 +29602,7 @@ croceic 2
 croceine 2
 cusconine 1
 coria 2
-crocetin 1
+crocetin 2
 ceratospongiae
 croche 3
 crocheter 1
