@@ -264,7 +264,7 @@ fourierite 1
 foreshortening 1
 ford 4
 footpounds 5
-firbolg 1
+firbolg 2
 fax 3
 flagarie 2
 fideism 2
@@ -1121,7 +1121,7 @@ followeth 3
 florulas 2
 facials 3
 fiberization
-frumety
+frumety 1
 feroher 2
 fidelis
 flax 1
@@ -3875,7 +3875,7 @@ futile 2
 filleting 1
 feckless
 folcgemot 4
-figurato
+figurato 1
 fionnuala 3
 fanwe 2
 foregrounds 1
