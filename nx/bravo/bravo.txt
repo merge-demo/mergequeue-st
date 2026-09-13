@@ -3204,7 +3204,7 @@ biaxially 1
 basicerite 1
 basicity 2
 baloneys 2
-biolyses
+biolyses 1
 benzins 1
 balancers 5
 booklores
@@ -10872,7 +10872,7 @@ bangtails 4
 britishers 4
 bribegiver 3
 boatwise 2
-blimey 2
+blimey 3
 braced 2
 brokership 3
 blent 2
