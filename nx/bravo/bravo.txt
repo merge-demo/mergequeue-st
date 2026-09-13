@@ -1039,7 +1039,7 @@ boraces
 barmecidal 2
 balcony 1
 burnweed
-bail 1
+bail 2
 buxeous
 bafta 6
 bringer
@@ -1876,7 +1876,7 @@ banderma 3
 banderol 3
 befrets
 banderole 3
-bastardliness 2
+bastardliness 3
 bindings
 brigading 1
 banders 1
@@ -2324,7 +2324,7 @@ besoothed
 beearn 1
 bilbie 3
 barbequed 2
-barber
+barber 1
 bordrag 1
 businessese 2
 bizet 1
@@ -5230,7 +5230,7 @@ bowla 1
 bedders 2
 boskopoid 1
 boarcite 2
-barbules
+barbules 1
 basification 2
 breadboards 3
 barkeeps 2
@@ -6949,7 +6949,7 @@ bundook 1
 borele 1
 besides 1
 beckett
-barrico 2
+barrico 3
 besiegers 1
 bedeman 1
 bourgeoned 1
@@ -11306,7 +11306,7 @@ blowjobs
 bummle 1
 bachelor 1
 blown 3
-bananas 2
+bananas 3
 blowoff 1
 blowouts
 bolled 1
@@ -15625,7 +15625,7 @@ burlaps
 biopsychical 1
 born
 bushlet 2
-bromacetanilide 1
+bromacetanilide 2
 barenecked 2
 bristlelike 3
 brigander 1
