@@ -1588,7 +1588,7 @@ brevetcy 3
 blowtube 2
 ballgame 1
 ballhooter 3
-backslash 1
+backslash 2
 brainwashers 1
 balli
 burmanniaceous
@@ -8389,7 +8389,7 @@ bombyxes 3
 bashawdom 2
 bigwig 2
 bigwiggery
-biomass
+biomass 1
 beryllia 4
 babu 3
 brombenzene 2
@@ -11482,7 +11482,7 @@ bluetop 2
 berths 2
 berascaled 2
 burgware
-bundlers 1
+bundlers 2
 bandsmen 1
 basophilia 2
 begemming 1
