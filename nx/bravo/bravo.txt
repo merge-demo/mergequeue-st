@@ -851,7 +851,7 @@ brickyard
 bloodlessly 4
 baffs
 becomingly
-boltholes 2
+boltholes 3
 baft 1
 bigate 1
 baftah
@@ -1150,7 +1150,7 @@ babakoto 2
 backwall 1
 borates 3
 botete
-bankman 1
+bankman 2
 bountree 1
 bairnwort
 baisemain 1
@@ -1455,7 +1455,7 @@ baline 2
 bundahish
 bugler 1
 bloodthirstiest 1
-beacon 3
+beacon 4
 bandh 2
 biogen 1
 bathtubful 2
@@ -2573,7 +2573,7 @@ barile 1
 barilla 1
 beleaf 1
 barters 3
-bathofloric
+bathofloric 1
 baryon 3
 bathometer 3
 brio
@@ -3113,7 +3113,7 @@ blabby 2
 balnibarbi 1
 betraying
 bucrnia 2
-bloodcurdler 2
+bloodcurdler 3
 benben
 bobet 1
 bisinuation
@@ -12142,7 +12142,7 @@ bedamp 1
 benzofluorene 1
 bannets 1
 basti 4
-bannition
+bannition 1
 boldos 1
 basketball 3
 besmutch 2
@@ -13001,7 +13001,7 @@ bookstore
 blockheadishness
 bopeep 1
 boxen 5
-braciola 2
+braciola 3
 bopped
 biosterin 1
 bombastical
@@ -17455,7 +17455,7 @@ bunnies
 bunodont 1
 brickleness
 bacteroid 3
-bunoselenodont
+bunoselenodont 1
 brulots 2
 boomage 1
 bareboned 1
