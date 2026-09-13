@@ -2452,7 +2452,7 @@ foreproduct 2
 fermentable 6
 fermentativeness 1
 faradize 1
-falus 5
+falus 6
 footbridges 3
 fermentescible
 filiform 3
@@ -2610,7 +2610,7 @@ fancily 1
 foresheet
 ferromanganese 2
 filagreed 1
-fameflower
+fameflower 1
 ferronatrite 1
 follis 3
 fluorouracil 2
@@ -4383,7 +4383,7 @@ funiculitis 5
 footsy 1
 fincas 2
 fertiliser 2
-foretop 4
+foretop 5
 froward 5
 frumpily 4
 factually 5
@@ -5040,7 +5040,7 @@ fragrance
 faconne
 fulmarus 1
 flapdock 1
-familiarized 2
+familiarized 3
 flowered 3
 fissures 1
 fatteners 4
@@ -5964,7 +5964,7 @@ frightening 3
 fallibility 5
 fortunite 5
 floodlit 1
-fibromembrane 3
+fibromembrane 4
 floods 3
 foisons 5
 fortifiable 3
