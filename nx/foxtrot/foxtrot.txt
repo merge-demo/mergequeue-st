@@ -134,7 +134,7 @@ frill 2
 fumiferous 3
 flashforwards 2
 fictile 5
-flagellist 4
+flagellist 5
 feedhead
 fibre 1
 fossiled 2
@@ -2404,7 +2404,7 @@ fingernail 1
 fangot 3
 flanged 1
 ferigee 1
-fondlers 2
+fondlers 3
 fleer 2
 fad
 fleshlessness 3
@@ -2461,7 +2461,7 @@ falla 3
 fornax 1
 ferruginated 3
 flowable 1
-fungal 2
+fungal 3
 foliocellosis 1
 fairnesses 2
 frithborgh 1
@@ -5437,7 +5437,7 @@ flavian 1
 farolito 3
 frontes 2
 flyblown 2
-forager 5
+forager 6
 fiendliness 2
 fashion 6
 frolickly 1
@@ -7221,7 +7221,7 @@ fiscalized
 formicivorous 2
 forfeits 2
 frizzlers 1
-faenas 2
+faenas 3
 footpaces 3
 fifer 1
 foolocracy 1
@@ -8060,7 +8060,7 @@ faroese 3
 footstools 3
 farthermost 2
 fiendish 2
-felsites 1
+felsites 2
 ferroalloy 3
 faunally 2
 fanfoot 2
@@ -11156,7 +11156,7 @@ formylated 3
 forumize 1
 foreallot 3
 fanega
-fatbirds
+fatbirds 1
 freeings 4
 faiences 2
 fiats 2
