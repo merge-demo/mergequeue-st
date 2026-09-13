@@ -1863,7 +1863,7 @@ berylloid
 bowlin 1
 bushranging 2
 bandala 1
-bandanaed 2
+bandanaed 3
 battlepiece
 bollito
 bandeau 4
@@ -3002,7 +3002,7 @@ bioassay 1
 blarneyer 1
 barstools 1
 bromoketone
-brotherless 3
+brotherless 4
 brahma
 blackjacks
 bartended
@@ -6333,7 +6333,7 @@ barristress 1
 benzanthracene 2
 boxboard 4
 bestowed 2
-bai
+bai 1
 balandra 1
 bibs
 bifarious 1
