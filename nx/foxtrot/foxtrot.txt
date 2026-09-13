@@ -4055,7 +4055,7 @@ flattened 2
 festoony
 fermentation 1
 flindersia 1
-freefd 4
+freefd 5
 finitism 1
 finitive 1
 felapton 3
@@ -6407,7 +6407,7 @@ furry
 formalization 2
 frogspawn 1
 flexura
-fafnir
+fafnir 1
 fecundatory 3
 formularization 1
 flathead 1
@@ -9507,7 +9507,7 @@ fraternities 3
 fumarates 3
 figboy 4
 fritts 2
-fantasm 5
+fantasm 6
 featish 1
 felid 2
 femininism 1
