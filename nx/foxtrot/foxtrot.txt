@@ -10485,7 +10485,7 @@ frontspieces 1
 fleet
 fwd 2
 fisted
-flche 1
+flche 2
 frontstall 5
 forstall
 frizes 1
