@@ -7306,7 +7306,7 @@ assn 1
 alarmingness 4
 adcons 2
 algovite
-alarmist 1
+alarmist 2
 anginas 1
 alarodian 2
 animas 3
@@ -7754,7 +7754,7 @@ amplifier
 alcoranic 1
 aff 2
 alcosol
-analyticities 3
+analyticities 4
 adnascence
 angustia
 ald 1
@@ -16743,7 +16743,7 @@ aphasiacs
 aphasics 2
 affrayer 4
 ambience 2
-anabaptized 2
+anabaptized 3
 averse
 anterointerior 1
 accur 2
@@ -19286,7 +19286,7 @@ arenilitic 2
 arenites 3
 anthraquinonyl
 alberca 1
-aristas 3
+aristas 4
 absentmindedly 1
 arenoid
 alation
@@ -20596,7 +20596,7 @@ actinomere
 athecate
 ating
 arthrogastran
-alfet
+alfet 1
 aeaean 1
 anesthetists 1
 azrael 1
@@ -21519,7 +21519,7 @@ acridinium
 akund 3
 ambiances 1
 adds
-asphyxia 1
+asphyxia 2
 abreid 1
 antagonized
 arretine
