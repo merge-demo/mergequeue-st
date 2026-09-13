@@ -1774,7 +1774,7 @@ debriefs 2
 deathtrap 2
 devocalization 1
 drof
-deathward 3
+deathward 4
 ductility 1
 docent 2
 downlier 1
@@ -1860,7 +1860,7 @@ detoxication
 dermatoglyphics 1
 devirginator
 debitum 2
-declaratory
+declaratory 1
 douvecot 1
 dorsale 1
 deblai 3
@@ -2436,7 +2436,7 @@ dietetist 2
 designs
 decyne
 drydenian 4
-diaeresis 2
+diaeresis 3
 decipherability 4
 dooryards 2
 dand 1
@@ -8108,7 +8108,7 @@ diabolising 1
 diabolist 1
 denitrificator 4
 detrusive 1
-du
+du 1
 diabolization 2
 depilates 2
 disambiguate 2
@@ -12953,7 +12953,7 @@ dolomitized
 dejectile 4
 distitle
 disuniformity
-delusionist 4
+delusionist 5
 disfavourer 1
 dialoguing 2
 drang
@@ -14238,7 +14238,7 @@ diswere
 disemploys 1
 diswit 2
 dacryon 1
-dartingness
+dartingness 1
 dinocerata 2
 delubrubra 1
 drinkless
@@ -17009,7 +17009,7 @@ dragoon 1
 demogenic 1
 dill 1
 demonocracy 1
-designee 1
+designee 2
 dirtily
 dampish 1
 destining 2
@@ -17203,7 +17203,7 @@ dinnerly
 decachord
 dreary
 decorums 5
-disentrammel
+disentrammel 1
 dimensions 1
 dryopithecus 1
 diander 3
