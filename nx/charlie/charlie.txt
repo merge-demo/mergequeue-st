@@ -12610,7 +12610,7 @@ chronological
 coalternative
 chantecler
 cercle 1
-cafetiere
+cafetiere 1
 chronologizing
 chronomantic
 chronomastix
@@ -24370,7 +24370,7 @@ concentrate
 caverning
 caritas 1
 cookshop
-cookshops 1
+cookshops 2
 chiliasms
 cards 1
 cookstove
