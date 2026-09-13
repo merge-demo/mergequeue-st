@@ -1863,7 +1863,7 @@ berylloid
 bowlin 1
 bushranging 2
 bandala 1
-bandanaed 2
+bandanaed 3
 battlepiece
 bollito
 bandeau 4
@@ -6333,7 +6333,7 @@ barristress 1
 benzanthracene 2
 boxboard 4
 bestowed 2
-bai
+bai 1
 balandra 1
 bibs
 bifarious 1
@@ -9998,7 +9998,7 @@ blairmorite 2
 bivalvia 2
 bivalvian 1
 baddock
-bivascular 1
+bivascular 2
 bismuthyl 2
 binodous 1
 brahmic 1
@@ -10763,7 +10763,7 @@ bairnie 1
 bebatter 1
 blennorrhagia
 bollworms 4
-brags
+brags 1
 blennosis 2
 beethovenish 3
 bolectioned 1
@@ -12850,7 +12850,7 @@ barracan 2
 bodily 1
 birkies 1
 baresarks 1
-burrowed 2
+burrowed 3
 busera
 bisaxillary 3
 bedelve
