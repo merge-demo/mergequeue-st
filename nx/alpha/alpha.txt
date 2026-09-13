@@ -609,7 +609,7 @@ ampleness
 abnormalcies
 adrenalectomies 1
 acetylcyanide
-adjure 2
+adjure 3
 anatomical 1
 amynodont 1
 abococket
@@ -1988,7 +1988,7 @@ assmannshauser
 acetylmethylcarbinol
 aporetic 1
 arboreta 3
-acetylperoxide 1
+acetylperoxide 2
 acetylphenylhydrazine 1
 aslope
 affinite
@@ -4450,7 +4450,7 @@ achieve 1
 artistess
 adulteresses
 adultery 1
-autohypnotic 1
+autohypnotic 2
 antifebrile 1
 attractor 2
 ablactated 2
@@ -11810,7 +11810,7 @@ aiawong 3
 agreeably 1
 adenia 3
 ankaramite 1
-analemma 1
+analemma 2
 autopotent
 aconitum 3
 autexousy 2
@@ -12930,7 +12930,7 @@ aditio 3
 ameer 1
 anglify 1
 alkalometry 2
-anglings 1
+anglings 2
 amphithurthura
 antirumor 1
 apperceiving 1
@@ -15408,7 +15408,7 @@ atterrate
 araneida 1
 achlamydeous 2
 autopsy
-atoner
+atoner 1
 axiomatize 2
 antilysin 1
 anther 2
@@ -23429,7 +23429,7 @@ accumulated 1
 aluminosilicate 1
 audiphone 1
 ababdeh
-auditable
+auditable 1
 auditing 3
 aftersong 1
 alkalescency 1
