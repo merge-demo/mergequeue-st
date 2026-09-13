@@ -10488,7 +10488,7 @@ fisted
 flche 1
 frontstall 5
 forstall
-frizes
+frizes 1
 fellah 3
 ferocity 1
 frontwards 2
@@ -10581,7 +10581,7 @@ forcipiform 3
 franking 3
 frostroot 1
 fluky 1
-flatus 2
+flatus 3
 furnaces 1
 fossilised 4
 fieldpiece 2
