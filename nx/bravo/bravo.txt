@@ -3124,7 +3124,7 @@ baggage
 baseburner
 basecourt 1
 betokener 2
-boosting 1
+boosting 2
 boneset 2
 baselevel 1
 bismarck 2
@@ -5390,7 +5390,7 @@ begruntle 1
 biographical 2
 begrutten
 blair 1
-brassworks 1
+brassworks 2
 beguess 3
 beguilement 2
 biunial 1
