@@ -1227,7 +1227,7 @@ deinsularize 1
 datasetname
 datcha
 disparison 2
-disclamation 1
+disclamation 2
 demiassignation
 dolorimetrically 1
 dextrines
@@ -4821,7 +4821,7 @@ durableness 1
 demonise 2
 dactyliotheca 1
 dodlet 3
-ductile 1
+ductile 2
 declive 3
 durrie
 depredationist 1
@@ -5641,7 +5641,7 @@ dipl
 disrobe
 dentelliere 2
 dolorousness 2
-drumler 2
+drumler 3
 deplant
 disvertebrate 1
 denominational 1
@@ -5871,7 +5871,7 @@ decompression 4
 dollmaking 2
 demagnetizer 2
 depressional 1
-dulia 1
+dulia 2
 decortication 5
 dotard 1
 dissipations 1
@@ -8265,7 +8265,7 @@ diagrammed 2
 diagrammer
 drumread 2
 dermopathic 1
-dependancy
+dependancy 1
 dynamiting 1
 dagesh 3
 desonation 3
@@ -8721,7 +8721,7 @@ diatoma 3
 diapase 1
 deems 2
 diastase 1
-din
+din 1
 domelike 4
 disproportionateness
 discriminate 3
@@ -10449,7 +10449,7 @@ drowsy 2
 duumvirs 1
 deglutitive 1
 distortion
-dister 4
+dister 5
 droits 2
 denaturate 1
 diphtheria 2
@@ -13420,7 +13420,7 @@ disquisitions 3
 disquisitor
 disquisitional 1
 dismarble 4
-deepfreezed 2
+deepfreezed 3
 disform 1
 diffusion
 dennstaedtia 1
@@ -15292,7 +15292,7 @@ dolphinfish
 dolphinlike
 dolphins 4
 discountenance 1
-diagnostics 2
+diagnostics 3
 design 4
 distilleries 2
 dismit 2
@@ -16227,7 +16227,7 @@ derange 4
 darneder
 defusing 2
 description 2
-diploidion 3
+diploidion 4
 destuff
 duplicated
 diseasing 1
@@ -16299,7 +16299,7 @@ dermographic
 dvaita 4
 dastards
 downpipe 1
-desists 2
+desists 3
 downplay 1
 downplays
 dozenth 1
