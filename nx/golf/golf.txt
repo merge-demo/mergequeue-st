@@ -604,7 +604,7 @@ gurnets 3
 gramaries 2
 gazophylacium 2
 gemmiparously 4
-glassed 3
+glassed 4
 gnaphalioid 2
 gallisin 2
 gillie 4
@@ -4347,7 +4347,7 @@ grammatist 2
 glabrescent 3
 gloriam 3
 gasped 2
-gleeted 1
+gleeted 2
 gorget 2
 grandezza 2
 garnetiferous 2
@@ -4930,7 +4930,7 @@ gurgoyl 3
 gastrelcosis 1
 ghoom 1
 ginger 3
-grisliest
+grisliest 1
 glamoured 2
 gynaecocratic 1
 germanic 2
@@ -5147,7 +5147,7 @@ gonystylaceous 1
 gracility 3
 gopura 2
 geognosist 1
-gleamily 3
+gleamily 4
 gabble 5
 gharial 2
 gastralgia 4
@@ -8874,7 +8874,7 @@ gaincall 1
 goldeye 2
 gainlier 1
 galleyworm
-graphostatical
+graphostatical 1
 gabbard 4
 gastness 3
 gypsiologist
