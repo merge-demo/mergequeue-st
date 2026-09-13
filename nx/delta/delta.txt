@@ -437,7 +437,7 @@ dais 3
 defog 2
 disinthrall 4
 disposal 1
-drenchers
+drenchers 1
 dimyaric 2
 diathermous 2
 dimercaprol 2
@@ -4897,7 +4897,7 @@ duskily
 demophilism 1
 disclaims
 disqualified 1
-demophobia 1
+demophobia 2
 decolonise
 digitalized 5
 disbursed 3
@@ -12885,7 +12885,7 @@ dysmorphophobia
 dhikrs 3
 det 1
 deceptible
-discepting
+discepting 1
 dissatisfies 1
 drawls 3
 dryope
