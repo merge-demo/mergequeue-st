@@ -2709,7 +2709,7 @@ clingfish
 canker
 cankerbird 1
 chaperone
-carriable
+carriable 1
 cankered 1
 codders
 cephalosporium 2
@@ -4353,7 +4353,7 @@ caricaceae 2
 chenica 1
 countermeet 1
 cribbings 1
-caricaceous
+caricaceous 1
 cotemporaneous 1
 cattleya
 caricatura
@@ -5163,7 +5163,7 @@ caseload
 caprylene 1
 cackle
 casemaking 2
-casemates
+casemates 1
 casemented
 casements
 copolar
@@ -23299,7 +23299,7 @@ consulship
 coloquintida
 clavieristic 1
 consulta
-captors 1
+captors 2
 carminate 2
 consultable 1
 crevalle 1
@@ -26676,7 +26676,7 @@ countenancer 1
 carbazine
 consensus
 contracapitalist 1
-clinopyramid 1
+clinopyramid 2
 counterabut 2
 charmeuse
 counteracted
@@ -27018,7 +27018,7 @@ counterpendent 1
 culpa 1
 chartae 1
 circumventer 1
-counterphobic
+counterphobic 1
 counterpicture
 combretum 1
 cuprum 1
@@ -29272,7 +29272,7 @@ concertedly
 cyclosporinae
 congratulator 2
 civilised
-cryptocarp
+cryptocarp 1
 cryptocephalous
 caliginousness 1
 counterplease
@@ -30221,7 +30221,7 @@ cowberry
 cursed 1
 crudity
 covibration 1
-crudities
+crudities 1
 companions 2
 countryfied
 crudle 2
@@ -30842,7 +30842,7 @@ causus
 committable
 culmiferous 1
 culminal 2
-culminate 1
+culminate 2
 cryptoanalysis
 clops 2
 compounders 1
