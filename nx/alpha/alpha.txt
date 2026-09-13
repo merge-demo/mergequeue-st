@@ -3036,7 +3036,7 @@ anchusins 1
 audience
 alcyon 3
 adrenolytic 1
-actinoblast 1
+actinoblast 2
 arthrodynia 1
 actinobranch 1
 aurification 3
@@ -12277,7 +12277,7 @@ aminish 2
 anchorets 2
 altruism 1
 almach 1
-anchorite 1
+anchorite 2
 arraignable 1
 amylopsin 3
 archinfamy 3
@@ -16756,7 +16756,7 @@ athenaeum 1
 aphengoscope 2
 apheresis 2
 apheses 2
-asclepius
+asclepius 1
 aggresses
 admirer
 aftermast
