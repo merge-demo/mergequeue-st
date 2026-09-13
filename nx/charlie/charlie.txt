@@ -18,7 +18,7 @@ chevance 2
 chaenomeles
 cows 1
 crease 1
-corkmaking
+corkmaking 1
 caught
 cabaletta 2
 cestas
@@ -352,7 +352,7 @@ cacodemonomania 3
 cacodyl
 claustrophobic 1
 chevrette
-craney
+craney 1
 camblet
 convive 1
 cornified 1
@@ -1636,7 +1636,7 @@ creasy
 calmant 2
 cytopathology
 conveyor 1
-calmecac 2
+calmecac 3
 cyathophylloid
 courtrooms 1
 collectibles
@@ -7354,7 +7354,7 @@ cephalomere 2
 cyclostylar
 cephalometric
 cephalonasal 1
-cephalopathy
+cephalopathy 1
 cephalopharyngeal 1
 cephalophyma
 cephalophine
@@ -15613,7 +15613,7 @@ chrysanisic 1
 chromograph 2
 coquin 1
 clattertraps
-cervicobasilar
+cervicobasilar 1
 confirmatively
 clauber
 cupressaceae
@@ -21024,7 +21024,7 @@ cul 2
 compts 1
 cabretta 2
 cannelured
-compulsatorily
+compulsatorily 1
 compulsed 1
 ceroplast 3
 calciphobe
