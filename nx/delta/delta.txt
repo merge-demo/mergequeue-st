@@ -1042,7 +1042,7 @@ darkliest 3
 draffsack
 distains 1
 drabbed 1
-darkmans
+darkmans 1
 dineutron 1
 daggly 1
 darkskin 2
@@ -2106,7 +2106,7 @@ doab 1
 disinheritances 1
 duddies 3
 despoilment 2
-decameron
+decameron 1
 decamethonium 2
 decametric 1
 deerhound
@@ -2590,7 +2590,7 @@ demiquaver
 dashes
 decoctive
 diselder 1
-deaminizing 1
+deaminizing 2
 demishirt 1
 decoctum 4
 drudgery
@@ -8062,7 +8062,7 @@ denaturant 1
 domesticated 2
 dysgenetic 1
 disendowment 2
-desugar 1
+desugar 2
 durzi 1
 dhritarashtra 1
 disables 1
@@ -8396,7 +8396,7 @@ diallagic 2
 dogmaticalness 1
 diallagite 5
 dt 2
-dishonorably 4
+dishonorably 5
 discoidea 2
 deflower 1
 dysphasic 2
