@@ -2686,7 +2686,7 @@ glandule 2
 gravitons 2
 gamey 2
 gusle 2
-grith 4
+grith 5
 gemmoid 3
 garmenting 3
 grandpappy 1
@@ -2694,7 +2694,7 @@ gnatho 2
 groundmass 4
 glozing
 granted 2
-gryllidae
+gryllidae 1
 gonopodium 2
 grandsir 4
 greenstone
@@ -4526,7 +4526,7 @@ gigantopithecus 5
 geniculation 4
 galionji 1
 gleemen 1
-galopade 3
+galopade 4
 geryonid
 generater 4
 gambs 3
@@ -5170,7 +5170,7 @@ guiler 3
 gripsacks 1
 groundsheet 2
 gale 3
-gleed 2
+gleed 3
 grapeskin
 georgic 3
 gramophone 3
@@ -6194,7 +6194,7 @@ ganglionless 3
 grivois 4
 gossipdom 2
 gamblesome 3
-grubbed
+grubbed 1
 gardener 1
 geomyidae 2
 guahibo 2
@@ -10068,7 +10068,7 @@ grobianism 2
 gauntest 1
 graecize 2
 gramophonically 4
-gymnoglossate 2
+gymnoglossate 3
 guesser 3
 geoffroyin 3
 gonads 2
