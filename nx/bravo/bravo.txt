@@ -10163,7 +10163,7 @@ barysilite 1
 blackcod 1
 bathochrome 2
 blues 1
-blackdamp
+blackdamp 1
 bellhanger 1
 billette 4
 blackens
@@ -10378,7 +10378,7 @@ bumbler 2
 ballist
 brays 3
 blanches
-buntlines
+buntlines 1
 brawlingly 1
 besnows
 behovely 1
@@ -14731,7 +14731,7 @@ bagio 1
 brat 2
 blender 1
 buboed 2
-bounder
+bounder 1
 britannic
 burps 1
 bridemaiden 2
