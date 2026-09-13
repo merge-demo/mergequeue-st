@@ -437,7 +437,7 @@ dais 3
 defog 2
 disinthrall 4
 disposal 1
-drenchers
+drenchers 1
 dimyaric 2
 diathermous 2
 dimercaprol 2
@@ -4897,7 +4897,7 @@ duskily
 demophilism 1
 disclaims
 disqualified 1
-demophobia 1
+demophobia 2
 decolonise
 digitalized 5
 disbursed 3
@@ -9438,7 +9438,7 @@ dodgier 1
 disworkmanship 1
 drunkelew 1
 donnees 2
-doomfulness 4
+doomfulness 5
 delaw 1
 demode 3
 doppelganger 1
@@ -9454,7 +9454,7 @@ digue 3
 diplanetism 2
 daydreamers 3
 digeny
-deducibleness
+deducibleness 1
 demiplate
 despondently 2
 digenite 2
@@ -15117,7 +15117,7 @@ desiderata 3
 divarication 1
 degummed 3
 diaphragmed
-deerherd 1
+deerherd 2
 dislustre 1
 damaging 3
 disallows 1
@@ -15216,7 +15216,7 @@ dismantle
 dosiology 3
 disrupts 1
 discommendableness 3
-dialogized 1
+dialogized 2
 duff 2
 departmentalizing 4
 dollia 1
@@ -17505,7 +17505,7 @@ drowses 3
 drowsier 1
 dumous
 damnyankee 4
-dhundia 2
+dhundia 3
 discarder 1
 dimwitted
 drowte 1
