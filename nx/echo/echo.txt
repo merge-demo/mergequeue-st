@@ -733,7 +733,7 @@ extoled 3
 effaces 1
 endermatic
 effascinate 3
-exuvium
+exuvium 1
 ecotype 2
 ecotipically 4
 ecotypically 3
@@ -3393,7 +3393,7 @@ equiparate 1
 emphase 1
 egoist 1
 entozoon 4
-embargoes 5
+embargoes 6
 endocrinologist 2
 enc
 eavedropper 1
@@ -3515,7 +3515,7 @@ esker 1
 embodiers 2
 embodies 2
 elevens 1
-essential 2
+essential 3
 embassage 1
 exceeders 2
 ekes 2
@@ -4853,7 +4853,7 @@ english
 encumbrous 2
 evolves 5
 eyednesses
-enterocoelic 1
+enterocoelic 2
 exsanguination
 effatum
 electrodialysis 6
@@ -10627,7 +10627,7 @@ eurous 2
 enrange 2
 enmeshes 2
 extravasated 3
-ecdyson 6
+ecdyson 7
 exchangee 4
 experience 2
 emblematically 4
