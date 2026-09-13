@@ -2535,7 +2535,7 @@ fanam 1
 feeler 1
 frugivorous 2
 foal 3
-fibromembranous
+fibromembranous 1
 filamentule 4
 frangibility 1
 freeboot 3
