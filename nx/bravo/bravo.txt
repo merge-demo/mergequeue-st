@@ -1974,7 +1974,7 @@ bisection 2
 bagnio 1
 balances 1
 bandstring
-bathymetric 2
+bathymetric 3
 brandishes
 bigeye 4
 believes 1
@@ -8337,7 +8337,7 @@ bronchoscope 3
 biggies 1
 bise 1
 biventral 4
-buttonholing 2
+buttonholing 3
 biggish 2
 bayadeer 1
 bepelt 1
@@ -9195,7 +9195,7 @@ biotites 1
 blancmanges
 bolometric 2
 basil 1
-blowback
+blowback 1
 borohydride 1
 balladwise
 bromcamphor 1
@@ -13674,7 +13674,7 @@ bielenite 2
 benzdioxdiazine 1
 baldly 5
 bondholder
-bacilliculture 1
+bacilliculture 2
 billboard 3
 bevelment 3
 bourasque
