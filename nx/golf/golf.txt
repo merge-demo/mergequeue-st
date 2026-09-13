@@ -117,7 +117,7 @@ grammarianism 2
 gaugers 4
 gardenership
 grosz 3
-genotypicity 2
+genotypicity 3
 giher 3
 ginete 2
 gastly 3
@@ -527,7 +527,7 @@ gonadotrophin 1
 gritten 1
 grapiest 1
 germinates 1
-gastromelus
+gastromelus 1
 gascons
 geisotherm 5
 gilravager 1
@@ -671,7 +671,7 @@ gumlike 3
 gooney 2
 gynecomaniac 4
 geopolitician 3
-gauily 1
+gauily 2
 granam
 gaddishness 3
 gideon 1
@@ -940,7 +940,7 @@ gastropneumatic 4
 gannets 4
 groundplot 2
 gammock 2
-grouched 4
+grouched 5
 galactically 3
 gainsaid 2
 garrottes 2
@@ -3012,7 +3012,7 @@ giraffidae 2
 gorra 6
 gadolinic 3
 gastromyces
-guido 4
+guido 5
 geometridae 1
 gangshag 2
 geometriform 2
@@ -5014,7 +5014,7 @@ glasshouses
 granulitization 1
 garliclike 2
 gateaux 3
-gasts 3
+gasts 4
 glued 1
 gnarr 3
 griecep 3
@@ -5264,7 +5264,7 @@ gladiest 3
 gangmaster 2
 glabrous 1
 gothicness 3
-glycyrrhizin 4
+glycyrrhizin 5
 gimps 1
 glycogenolytic 2
 gangsters 4
@@ -5792,7 +5792,7 @@ gast 1
 gavyuti 1
 gussy
 gloveless 4
-glorifiable 2
+glorifiable 3
 gym 2
 grain 2
 gloveman
@@ -6072,7 +6072,7 @@ gruel 2
 grume 1
 gramineous 1
 gneiss 1
-goosebeak 5
+goosebeak 6
 gullibly 3
 gryphosaurus 2
 gnessic 5
@@ -7000,7 +7000,7 @@ geir
 gabback 4
 ghats 3
 glossopode 1
-gallerian 3
+gallerian 4
 guaconize 2
 glad 7
 gossipry 3
@@ -7411,7 +7411,7 @@ gothamite 7
 gaed 3
 germiparous
 germigenous 4
-gummiest 1
+gummiest 2
 ghedda 2
 greenfish
 goosiest 2
@@ -7427,7 +7427,7 @@ gassit 5
 grandest 3
 gregariniform 1
 grandmammy 2
-gamopetalous 3
+gamopetalous 4
 gepeoo
 grantsmen 2
 goosefoot 6
@@ -7841,7 +7841,7 @@ graminological 3
 gunline 4
 glozingly 3
 gooiest 2
-garneter 5
+garneter 6
 glagol 2
 guanche 4
 graisse 2
@@ -8871,7 +8871,7 @@ guanay 2
 gablelike 1
 graecized 4
 gaincall 1
-goldeye 2
+goldeye 3
 gainlier 1
 galleyworm
 graphostatical 1
@@ -10441,7 +10441,7 @@ greedy 4
 gastronomically 3
 gummaking 1
 gallotannic 1
-gelatine
+gelatine 1
 gizzen
 gundalow 2
 goniatites 6
@@ -10601,7 +10601,7 @@ gigging 2
 garbanzo 4
 gallbladder 4
 geohydrologist 5
-gourmetism 1
+gourmetism 2
 gillion 1
 glandaceous 1
 gowned 5
