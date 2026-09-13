@@ -937,7 +937,7 @@ gammerel 2
 gammerstang 4
 garboils 3
 gastropneumatic 4
-gannets 3
+gannets 4
 groundplot 2
 gammock 2
 grouched 4
@@ -1973,7 +1973,7 @@ gageite 2
 gonadotrope 2
 granville 1
 glyconian 2
-gleefully 3
+gleefully 4
 goosewing 1
 gaspingly 2
 gufa 3
@@ -2233,7 +2233,7 @@ gangrel 1
 grandpaternal 2
 glamoury 2
 gigantoblast 1
-gunroom
+gunroom 1
 gladlier 1
 goodyship 2
 gammoning
@@ -8088,7 +8088,7 @@ gasify 1
 glenoidal 2
 geomancer 3
 gastrostomus 1
-gaslightness 3
+gaslightness 4
 granitite 1
 geomagnetism 1
 ghain
@@ -8320,7 +8320,7 @@ genian 4
 grandee 1
 ginglymi 5
 graphicly 1
-glycuronide 3
+glycuronide 4
 grassbird 1
 guerdons 1
 grunzie 2
@@ -8800,7 +8800,7 @@ gorge 2
 greenbottle 1
 genetor 6
 greenling 1
-grogram 2
+grogram 3
 glaserite
 gatherable 5
 gentilism 1
@@ -9052,7 +9052,7 @@ gorhens 5
 gastroenterologic 2
 gaper 3
 germanomania 2
-givin 7
+givin 8
 galbraithian 3
 gilguy 3
 galoshes 1
@@ -9502,7 +9502,7 @@ grisbet 2
 gecking 2
 grandiosely 2
 groutier 3
-gaes 1
+gaes 2
 gyving 4
 groupwise 3
 garvey 2
@@ -10527,7 +10527,7 @@ gadsbodikins 3
 gonal 2
 ghillie 2
 gehenna 7
-ghettoized 2
+ghettoized 3
 griffinhood 6
 gossipingly 2
 gudesakes 1

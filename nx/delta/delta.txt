@@ -4543,7 +4543,7 @@ demineralizing 1
 demiorbit
 disbarment 3
 disbody 4
-dendrolagus 1
+dendrolagus 2
 discharging
 dustlike 1
 dolichocrany
@@ -9496,7 +9496,7 @@ decide
 digesture
 dinarzade
 disapproval
-diggable
+diggable 1
 digged 2
 dotardy 2
 deuterostome 1
@@ -9684,7 +9684,7 @@ dragoness 1
 doubled
 disconcord
 dryly
-deleads
+deleads 1
 disembroilment 2
 diethylamide
 dilapidation
@@ -11066,7 +11066,7 @@ drollness
 daturas
 dechloridize 1
 disennui 4
-disarms 2
+disarms 3
 dishonouring
 disarray
 dictatorial
@@ -11410,7 +11410,7 @@ duodenogram 1
 dehaites 1
 duroc 1
 degumming 1
-draconis 3
+draconis 4
 desertless 1
 disfeaturement 2
 dubiety 3
@@ -17168,7 +17168,7 @@ divagations 1
 debentureholder 4
 dipodies 1
 discrediting 3
-defacements 1
+defacements 2
 dullish 3
 divvers 2
 drunkenness 4
