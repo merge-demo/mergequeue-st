@@ -1915,7 +1915,7 @@ ensorcelize 1
 enabled 1
 echinulate 2
 estoppal 2
-eurypterid 2
+eurypterid 3
 elaphe 4
 essenical 3
 empaneled 1
@@ -3061,7 +3061,7 @@ ella 1
 exsuccous 1
 equipoises 3
 estriche 1
-enjoy 4
+enjoy 5
 expurgational
 eremital 2
 ellenyard
@@ -8464,7 +8464,7 @@ enneatical
 epulo 2
 equilibrial 2
 ecphoriae 1
-erases 2
+erases 3
 elongates 2
 elevatingly 3
 epuration 1
@@ -9040,7 +9040,7 @@ eelier 2
 enhypostasis 1
 ephyrae
 evocatively 2
-etnean 1
+etnean 2
 europeans 1
 enbranglement 4
 exordial 1
@@ -9713,7 +9713,7 @@ evicted
 eucommiaceae
 epimorphic
 estrade
-esselenian 1
+esselenian 2
 emotionable 1
 eomecon
 eastlings 6
@@ -11699,7 +11699,7 @@ exaggerate 3
 electrize 3
 eccentricity 3
 electrocautery 4
-epididymectomy
+epididymectomy 1
 electrification 1
 entomotomist 3
 exaggeratingly 1
@@ -13746,7 +13746,7 @@ epiplasm 1
 equiaxe 2
 ergocalciferol 2
 externs
-endothelioblastoma 2
+endothelioblastoma 3
 exhaustedness
 eclats
 elocular 3
