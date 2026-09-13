@@ -396,7 +396,7 @@ ganymedes 5
 gains 3
 goalposts 3
 glandulation 1
-gilsonite
+gilsonite 1
 gorgon 4
 gunl 3
 geostrategy 2
@@ -2509,7 +2509,7 @@ generalise 6
 graciously 1
 glorifying 1
 gentlemanliness 4
-gallfly
+gallfly 1
 gael
 gilliver 1
 gapeseeds 1
@@ -3518,7 +3518,7 @@ guacho 2
 ghan 2
 gandertmeeth 2
 glowerer 2
-groper 1
+groper 2
 ghanaian 3
 greeneries 2
 greekling
@@ -4551,7 +4551,7 @@ gastronomist 2
 gillhooter
 germanyl 3
 geopolitically 2
-glost 2
+glost 3
 grister 4
 gutium
 gourmandism 2
@@ -6426,7 +6426,7 @@ glucidic 2
 gems 2
 gigartina 1
 gregorian 2
-grandeeship 3
+grandeeship 4
 geneses 6
 gallivanted 2
 gouger 4
@@ -6466,7 +6466,7 @@ gastraead 2
 guarded 2
 guanare 1
 gangrenate 2
-gapeworms 2
+gapeworms 3
 gurry
 grit 5
 guirlande 2
@@ -7694,7 +7694,7 @@ gunsmithery 4
 graded 2
 gorgonlike 2
 gool 5
-gutterwise 5
+gutterwise 6
 guachamaca 4
 geira 1
 geodynamics 1
@@ -8363,7 +8363,7 @@ greeniest 4
 grins
 glittery 5
 genioglossi 3
-gulled 2
+gulled 3
 gopherroot 1
 gimel 3
 gripy 1
