@@ -1420,7 +1420,7 @@ backjoint
 balearica 1
 balebos
 baled 2
-baleen 1
+baleen 2
 bobance 2
 beach
 benzotrichloride 2
@@ -3282,7 +3282,7 @@ blacklegism 3
 basinet
 basinets 2
 basinful 1
-benzines
+benzines 1
 bewhig
 beneficiaries 3
 begartered 1
@@ -11596,7 +11596,7 @@ byordinar 2
 blustering
 basilicalike 2
 bromous 1
-befog
+befog 1
 behindsight 2
 bounced 2
 bathers 2
@@ -14124,7 +14124,7 @@ babbage 2
 blasters 2
 butsudan 2
 brekkle 1
-bumbaze 4
+bumbaze 5
 brighteyes 3
 birdlore 1
 brachiosaur
@@ -17417,7 +17417,7 @@ bushbaby
 blindest 2
 bestriding 1
 bassoon
-bluebird 1
+bluebird 2
 bunkerage
 bedtimes 2
 blandish 3
@@ -18097,7 +18097,7 @@ butanols 2
 bergander 1
 bouderie
 butch 2
-buttermilk 1
+buttermilk 2
 butcha 2
 bedoyo 1
 bolbanac 2
