@@ -1492,7 +1492,7 @@ affixable 2
 archaisms 2
 amortize 1
 acclimatise 4
-acclimatiser 2
+acclimatiser 3
 acclimatising
 aegagrus 1
 applewood 3
@@ -17192,7 +17192,7 @@ apomecometer
 apomictical 2
 animism
 advena
-aquilegia
+aquilegia 1
 athletocracy 3
 aeroides 2
 aubaine 1
