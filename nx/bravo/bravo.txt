@@ -483,7 +483,7 @@ beestings 2
 brubu
 broomier 2
 backspang 4
-browning 1
+browning 2
 betrend 3
 bushbeater 1
 bibliothecal 1
@@ -4101,7 +4101,7 @@ bagge 2
 blokes 1
 bobbed 4
 beansetter
-beanshooter 1
+beanshooter 2
 beanstalk 2
 bestiaries
 bearbaiter 2
@@ -5601,7 +5601,7 @@ bruscus
 belash 1
 blobbed 2
 bumbard
-bombloads 1
+bombloads 2
 blisters 1
 brough 2
 bulletheaded 3
@@ -8284,7 +8284,7 @@ beak 2
 bookling 1
 burden 1
 buccinal 1
-byzantinism 4
+byzantinism 5
 berberine 2
 botte 3
 belittlement
@@ -11017,7 +11017,7 @@ blitzkrieging 1
 brache 1
 backstairs 1
 bladelike
-bullyrags
+bullyrags 1
 beswitch
 bromoethylene 2
 brassia 2
@@ -11648,7 +11648,7 @@ boatbuilding 3
 boathouse
 boffos 3
 blacketeer
-baccare 1
+baccare 2
 bittacle 1
 beachboys 3
 barterers 1
@@ -13420,7 +13420,7 @@ bulgier 1
 birles 1
 beaver 1
 botryllus
-bucketer
+bucketer 1
 batonistic 1
 brachycome
 brannier
