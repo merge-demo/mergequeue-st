@@ -6643,7 +6643,7 @@ deplump
 draughtswoman 3
 desertification 1
 dodecahedric 1
-deserting 1
+deserting 2
 drabs 1
 diastimeter 1
 desertlessly 2
@@ -7713,7 +7713,7 @@ detail
 deviling 1
 deeded 2
 devilishness
-darshana 1
+darshana 2
 displaceable 2
 devility 2
 deprotestantize
@@ -7758,7 +7758,7 @@ diphosphoric 1
 denicotinized 1
 disastimeter
 dogmatization
-disaggregative
+disaggregative 1
 deadweight 2
 deviser 1
 detailism 1
@@ -12082,7 +12082,7 @@ dysergasia 3
 determining 2
 diplopodous
 disert
-detergency
+detergency 1
 ducts 1
 downshifting 3
 disestablishing 3
@@ -18046,7 +18046,7 @@ dulcifluous 5
 defaitisme 4
 dulcigenic 5
 dehydrogenizer 4
-dulciloquent
+dulciloquent 1
 delouses 2
 dungon 3
 defaulter
