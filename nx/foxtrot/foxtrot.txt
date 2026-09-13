@@ -3154,7 +3154,7 @@ forbearing 1
 feuding 1
 forepad 2
 fibromuscular 3
-formule 4
+formule 5
 felworts 2
 frolicful 1
 fluxibleness 2
@@ -4828,7 +4828,7 @@ fluidiser 3
 fardh 1
 fumish 1
 flume
-fracticipita 1
+fracticipita 2
 faunus 1
 fishberries 2
 flinthead 1
@@ -6449,7 +6449,7 @@ feltman 4
 fanflower 1
 footbaths 2
 forweary 2
-flummery 3
+flummery 4
 fidgeting 4
 filth 2
 folkcraft 1
@@ -7448,7 +7448,7 @@ freckliest 5
 ferredoxin 3
 foaly 2
 foreguidance 1
-firecrest
+firecrest 1
 finner 2
 freemen 1
 flagginess 6
@@ -7815,7 +7815,7 @@ festively 1
 fleshiest
 feedboxes 1
 feronia 4
-fossilizing 5
+fossilizing 6
 fraternising 2
 fibrilla 1
 fluxed 4
@@ -9795,7 +9795,7 @@ fraicheur 1
 folklorists 2
 frenzy
 feodality 1
-floorshifts 1
+floorshifts 2
 fabrics 1
 familiariser 4
 figurability 5
@@ -11189,7 +11189,7 @@ felspar 2
 fungibility 4
 fadeout 3
 fideists 4
-farmer 2
+farmer 3
 fungicidal 1
 fungicidally 2
 fungicides 2
@@ -11392,7 +11392,7 @@ ferromagneticism 4
 fen 1
 furnariides 3
 flect 2
-facies 4
+facies 5
 furnish 1
 flocked 2
 fluorindine 3
