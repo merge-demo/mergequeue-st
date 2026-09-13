@@ -2709,7 +2709,7 @@ clingfish
 canker
 cankerbird 1
 chaperone
-carriable
+carriable 1
 cankered 1
 codders
 cephalosporium 2
@@ -29272,7 +29272,7 @@ concertedly
 cyclosporinae
 congratulator 2
 civilised
-cryptocarp
+cryptocarp 1
 cryptocephalous
 caliginousness 1
 counterplease
@@ -30842,7 +30842,7 @@ causus
 committable
 culmiferous 1
 culminal 2
-culminate 1
+culminate 2
 cryptoanalysis
 clops 2
 compounders 1
