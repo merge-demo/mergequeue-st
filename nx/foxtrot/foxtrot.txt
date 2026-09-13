@@ -598,7 +598,7 @@ floodways
 fleshes 6
 forehand 2
 folly 3
-farrantly 1
+farrantly 2
 funnies 2
 frame 1
 falconelle 3
@@ -2488,7 +2488,7 @@ fibrinoid 1
 fry 2
 furison 3
 funs
-fernshaw 2
+fernshaw 3
 fordo
 forehatch
 fulgurate 3
@@ -4477,7 +4477,7 @@ foreloop 1
 fishspear 3
 fantocine 4
 fluffier 1
-fountainwise 3
+fountainwise 4
 frangulin 2
 fluctuant 7
 ferrotitanium 3
@@ -4856,7 +4856,7 @@ fandangle 2
 fissirostrate 4
 feramorz 2
 fittedness 2
-florida 1
+florida 2
 fairwater 6
 falsism 2
 falsifiers 3
@@ -5264,7 +5264,7 @@ flavoured 2
 fondant 3
 flavourful 2
 flexionless 2
-fieldy 2
+fieldy 3
 flavourless 1
 funned 1
 flavourous 1
@@ -11262,7 +11262,7 @@ forerunnings 2
 frontispieces 3
 fucivorous 1
 funmaking 5
-flit 2
+flit 3
 flakeless 5
 fiars
 famble 5
@@ -11398,7 +11398,7 @@ flocked 2
 fluorindine 3
 furnishable 3
 fluoroformol
-frontirostria 1
+frontirostria 2
 forgiveably 3
 footballer 7
 farceuse 3
