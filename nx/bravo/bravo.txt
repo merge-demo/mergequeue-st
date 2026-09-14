@@ -204,7 +204,7 @@ bigwigged 1
 bradyesthesia 2
 boutonnieres 1
 banditries
-brainpower 3
+brainpower 4
 biofog 2
 bandicoot
 baccy
@@ -5859,7 +5859,7 @@ balopticon 1
 bellmaking 1
 baronship 1
 blebby 2
-bellmanship
+bellmanship 1
 briners 2
 braggingly 1
 boracite 3
@@ -7700,7 +7700,7 @@ brachydactylous 1
 bumblebee 2
 bereareft 2
 backfilling
-bezzo 3
+bezzo 4
 bhabar
 belemnites
 bacchanalization 1
@@ -7955,7 +7955,7 @@ buibui
 biblus 2
 boanbura
 balistraria 3
-beryllium 1
+beryllium 2
 borborygmi 2
 bodymaker 1
 billing
@@ -10724,7 +10724,7 @@ bowhead 1
 blenheim 3
 bibl 2
 belap 3
-battering
+battering 1
 blennadenitis 3
 backsetting
 bullets 2
@@ -11004,7 +11004,7 @@ bonnily 1
 baccilla 2
 bawbee
 baconic
-belikely 2
+belikely 3
 baalitical 3
 bribemonger 2
 blackface 1
@@ -13557,7 +13557,7 @@ brunel 1
 biennale 1
 biquarterly 1
 barhop 1
-bouffant 1
+bouffant 2
 brontesque 3
 barristers 2
 blunderer
