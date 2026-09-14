@@ -679,7 +679,7 @@ forzandos 2
 fobs 2
 familism 2
 firebolted 1
-farmstead 3
+farmstead 4
 forenotion 1
 ferromagnetic
 futilitarianism 4
@@ -1897,7 +1897,7 @@ frs 1
 fraidycat 2
 flybrush 4
 fingerflower 1
-fumbling 4
+fumbling 5
 fustilarian 3
 frouze 2
 flyings 1
@@ -5797,7 +5797,7 @@ flambee 2
 frett 1
 fv 1
 forestside
-forepromised
+forepromised 1
 fornicating 2
 fractionate 1
 financiers 2
@@ -8600,7 +8600,7 @@ fluorographic 1
 fleered 3
 formulizing 1
 flapdoodle 3
-formby 4
+formby 5
 foeture
 fumaric 3
 frightment 1
