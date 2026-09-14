@@ -755,7 +755,7 @@ bolter 3
 brinjal 1
 badgerlike 1
 bending 1
-befoul
+befoul 1
 babiches 1
 badges 2
 badging 4
@@ -16860,7 +16860,7 @@ battak 2
 butut 1
 bein 2
 benvenuto
-balkline 2
+balkline 3
 beam 1
 bigger 1
 buffing 2
