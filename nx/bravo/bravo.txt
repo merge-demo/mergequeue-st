@@ -2381,7 +2381,7 @@ bones 2
 butterless 2
 bluelines 1
 bastinade
-belligerency
+belligerency 1
 bachelorlike
 barbula 1
 bardiness 1
