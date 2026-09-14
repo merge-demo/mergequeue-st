@@ -15545,7 +15545,7 @@ deathsmen
 donum 1
 donzel 1
 discovering 3
-doubt
+doubt 1
 dinky 1
 divelled 1
 diathermize 2
@@ -16551,7 +16551,7 @@ diagrammatic 3
 demoralise 1
 draftings 2
 diesinker 2
-disinterred 5
+disinterred 6
 dallop 1
 dacryops 1
 disarchbishop
