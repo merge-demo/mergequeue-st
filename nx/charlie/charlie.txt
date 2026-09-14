@@ -246,7 +246,7 @@ cacei
 cachaemic
 corrugated 1
 cyphellae
-cachalote 3
+cachalote 4
 cachalots 3
 cachaza
 characterizes
@@ -391,7 +391,7 @@ cacomistle
 canoeing
 cacomorphia 1
 ceramography 1
-cacomorphosis 1
+cacomorphosis 2
 confabulation 1
 chrysin
 caconymic
@@ -4581,7 +4581,7 @@ carnification
 carnificial 1
 carnifies 1
 cnidocell
-carniform
+carniform 1
 consummatory
 chukar 1
 carnitine 1
@@ -16415,7 +16415,7 @@ cloaca 1
 cloacae
 cryptanalyzed 2
 cloacaline 2
-cents
+cents 1
 connellite
 cowage
 copart
@@ -23816,7 +23816,7 @@ contrasts 1
 contrasuggestible
 cruiskeen 1
 client 1
-catface
+catface 1
 contratenor
 contravalence 2
 contravene 1
