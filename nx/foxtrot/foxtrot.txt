@@ -3633,7 +3633,7 @@ frisbees 3
 flook 1
 farmable 1
 fridstool 1
-flashing 4
+flashing 5
 faintishness 1
 fielder 5
 floatsman 2
@@ -9432,7 +9432,7 @@ foolhead 1
 flaxseed 3
 franklins 1
 flector
-frenchmen 3
+frenchmen 4
 faffy 4
 footgears 1
 firkins 3
