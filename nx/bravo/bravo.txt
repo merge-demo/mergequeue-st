@@ -476,7 +476,7 @@ benzoates 1
 backspaces 3
 blepharocera 2
 barite 1
-backspacing 1
+backspacing 2
 beamroom 4
 beedged 3
 beestings 2
@@ -839,7 +839,7 @@ benjamins
 biffed 1
 balk 2
 bafflers 1
-bafflingly
+bafflingly 1
 bulbus 2
 bartletts 1
 bushelbasket 1
@@ -12009,7 +12009,7 @@ bilirubinuria 1
 bromeliad 1
 babysitting
 bunkhouse 1
-biogens
+biogens 1
 bohora 1
 benny 1
 blubbery 1
@@ -17765,7 +17765,7 @@ broodless 1
 blepharoadenoma 2
 breedings
 basyl
-burping 2
+burping 3
 burrbark 1
 bedrolls 3
 balaenoid 1
