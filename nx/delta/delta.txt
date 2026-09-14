@@ -326,7 +326,7 @@ daidlie
 dupatta 1
 dimeran 1
 dummyweed
-disarm 4
+disarm 5
 deltaite 2
 denumberment 1
 damier
@@ -1558,7 +1558,7 @@ deactivators 1
 distressedness 1
 doublure 1
 drail 1
-deaden 3
+deaden 4
 droops 3
 docked 1
 diadelphian 3
@@ -8446,7 +8446,7 @@ diamat 2
 dermochrome 2
 dorbug 1
 diambic 1
-diamegnetism
+diamegnetism 1
 diazepam 1
 diamesogamous
 disclike 3
@@ -16697,7 +16697,7 @@ dressiest 2
 draintile 4
 debouchure 2
 duodiode 4
-detach
+detach 1
 darnel 2
 drinking 1
 despondent
