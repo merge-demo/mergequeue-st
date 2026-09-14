@@ -5390,7 +5390,7 @@ castellans
 cinerararia
 chaufer 1
 castellate 1
-castellation
+castellation 1
 castellatus 1
 creolization 2
 circumposition
@@ -17755,7 +17755,7 @@ cocreatorship 2
 citation 1
 campbellism
 coct 3
-coctile
+coctile 1
 chloroformist 2
 condog 2
 cocuyo 4
@@ -23661,7 +23661,7 @@ contraception
 conchological
 cowpunchers 1
 chalybeous 1
-countervolley 1
+countervolley 2
 contraceptive
 consultancy
 capmakers 3
@@ -27905,7 +27905,7 @@ courtesies 1
 changuinan
 cotwal 2
 countermarching
-crepes 2
+crepes 3
 compurgation 1
 concreting
 crackajack
