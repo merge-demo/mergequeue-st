@@ -2059,7 +2059,7 @@ daikered
 devotion 1
 downgate 2
 debilities
-decaying 1
+decaying 2
 diopsimeter 1
 diety 2
 dummy 3
@@ -6780,7 +6780,7 @@ decorticating 1
 demodex
 desiodothyroxine 2
 desirableness
-disseminated 1
+disseminated 2
 dojo 1
 dietzeite
 desiredly
@@ -10151,7 +10151,7 @@ deltidia
 dues 3
 diverticulate 4
 diploblastic 4
-defogging
+defogging 1
 deuteranomal 2
 dasypaedes 2
 doater 1
@@ -12152,7 +12152,7 @@ demarcated 2
 didactician 1
 diasper 2
 degausser
-despiciency 2
+despiciency 3
 demander 2
 depurates
 duply 1
@@ -17400,7 +17400,7 @@ drib 1
 doigt
 derivability 3
 delime 3
-deallocation 1
+deallocation 2
 delactation
 diduced
 dropmeal

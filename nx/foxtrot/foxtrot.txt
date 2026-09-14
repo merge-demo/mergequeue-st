@@ -79,7 +79,7 @@ facemark 6
 flunkeyhood 1
 forme 3
 filching 2
-faces 2
+faces 3
 folkright 2
 flattening 1
 flowerfence 4
@@ -927,7 +927,7 @@ fabrile 4
 fruitling 2
 farceuses 3
 flenched 6
-facetiousness
+facetiousness 1
 fluorids 1
 fastigiums 3
 forkers 2
@@ -10257,7 +10257,7 @@ frat 3
 fusils
 freakily 2
 flunkers 1
-fudge 1
+fudge 2
 frogmarch 2
 flowerful
 flossier
