@@ -1326,7 +1326,7 @@ bescorn 1
 bottine
 balantidic 2
 balaos 2
-baroquely 2
+baroquely 3
 baalath
 barbed 2
 balases 1
@@ -5534,7 +5534,7 @@ babist 4
 broth 1
 breeziest 1
 bandsawing 2
-blamer 1
+blamer 2
 bilharzic 1
 burgeoned 1
 bejesuit 1
@@ -6354,7 +6354,7 @@ bemocking
 billsticking 2
 blowspray 1
 boilerful 1
-belite 3
+belite 4
 barani 2
 benzidino 3
 blackbirding 1
@@ -6404,7 +6404,7 @@ benzonaphthol
 benzonitrile 1
 birdclapper 2
 behedge 5
-benzophenothiazine
+benzophenothiazine 1
 bestayed 1
 betting 2
 bewake 1
@@ -14146,7 +14146,7 @@ brushups 2
 brachistocephaly
 bontee 1
 boloed 1
-brachistochrone 2
+brachistochrone 3
 bummock 1
 bovovaccine
 brachystomatous
