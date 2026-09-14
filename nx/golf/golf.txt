@@ -836,7 +836,7 @@ goban 5
 genistin 2
 granulater 4
 geonegative 1
-gamboled 2
+gamboled 3
 goethe 1
 guaraunan 4
 grandam 2
@@ -3379,7 +3379,7 @@ granolite 6
 glossolaryngeal 1
 globularia 3
 glycol 1
-gourmets 2
+gourmets 3
 gurk 5
 gaul
 gorgons 4
@@ -10829,7 +10829,7 @@ gyokuro
 glimmers 3
 glucocorticord
 grazings 2
-gelatinizing
+gelatinizing 1
 gigunu 4
 guvacine 3
 goatland 2
