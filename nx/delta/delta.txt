@@ -436,7 +436,7 @@ dairous
 dais 3
 defog 2
 disinthrall 4
-disposal 1
+disposal 2
 drenchers 1
 dimyaric 2
 diathermous 2
@@ -798,7 +798,7 @@ delusters 2
 dovecote 2
 diuretical 2
 danegelds 1
-deckhead 3
+deckhead 4
 daneweed 1
 daneweeds 4
 detections 1
@@ -1147,7 +1147,7 @@ deprocedured
 disoriented 2
 demolitionist 2
 depotentiate 4
-defilers 1
+defilers 2
 decadarchy 2
 dashplate 1
 dropflower 1
@@ -1833,7 +1833,7 @@ debauchedly 1
 dissuades 1
 dobson 3
 debauchees 1
-debby
+debby 1
 dislocatedness 2
 disengages 1
 disharmonious 1
@@ -15988,7 +15988,7 @@ ditetrahedral 2
 duodenocholangitis 3
 doveweed 2
 doctrinizing 3
-danai 3
+danai 4
 disaffiliating
 dehumanize 1
 dimanganous 2
