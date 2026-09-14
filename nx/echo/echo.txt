@@ -3414,7 +3414,7 @@ elementoid 1
 ethnarchy 1
 enosises 1
 ephoral 3
-erinize 2
+erinize 3
 embassadress 3
 exumbral
 elaine 3
@@ -3883,7 +3883,7 @@ echeneis 2
 eternal 2
 electrotonus
 ethnomusicologically 1
-extraboldface
+extraboldface 1
 eminencies 4
 evendown 4
 exterminating
@@ -5448,7 +5448,7 @@ entwists 2
 erade
 establismentarianism 1
 environ
-ejaculates
+ejaculates 1
 ebonising 3
 encircles 2
 enervate 1
@@ -5655,7 +5655,7 @@ emerson 1
 eagerest 2
 engallant 1
 enlargedly 2
-erythrocytometry
+erythrocytometry 1
 exameter 2
 exogastric
 emeu 5
@@ -9846,7 +9846,7 @@ expedite 2
 enteroischiocele 1
 episodial 6
 expletiveness 7
-eupepsy 3
+eupepsy 4
 experimentalize 2
 epeeists 2
 ependymoma 3
