@@ -5450,7 +5450,7 @@ cortaderia
 cordies 1
 castlet 1
 candlesticked 1
-confront 2
+confront 3
 casaque 1
 castlewise 1
 castock
@@ -6966,7 +6966,7 @@ cenogonous
 capablest
 colubrid
 cenomanian 1
-cenosity
+cenosity 1
 championless 1
 contorsive
 craighle 1
@@ -8129,7 +8129,7 @@ colewort
 coelastrum 3
 chainsman 1
 capetian
-cleanups
+cleanups 1
 cattiest 1
 chainsmith 1
 chimneyed
@@ -11890,7 +11890,7 @@ chordacentrous 2
 colonialising
 contend
 chordal
-cosharer 3
+cosharer 4
 chordamesodermal
 chordamesodermic 1
 chordate
@@ -30360,7 +30360,7 @@ chocolatier 2
 crusade 3
 crusaded
 chops 1
-civilities
+civilities 1
 cynipid 1
 cabaa
 clingstones
