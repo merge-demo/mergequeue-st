@@ -11595,7 +11595,7 @@ cholecystogastrostomy 2
 chronicon 1
 cholecystogram
 cholecystography 1
-cholecystokinin
+cholecystokinin 1
 cholecystolithiasis 1
 cholecystostomy
 cholecystotomy 1
@@ -24234,7 +24234,7 @@ convoying 3
 carboxypeptidase
 convoked
 centigram
-convolutedly 1
+convolutedly 2
 crinoidal
 convoluting 1
 convolution 2
