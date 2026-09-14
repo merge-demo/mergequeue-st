@@ -5105,7 +5105,7 @@ cesspipe 2
 coestate 1
 chemoprophylaxis
 cascable 1
-cascade 2
+cascade 3
 coupes
 crotaline
 cavae
@@ -6802,7 +6802,7 @@ cellars
 chirologies
 cellarwoman 1
 cellblock
-celled
+celled 1
 coelom
 couch 1
 cliffy 2
@@ -29961,7 +29961,7 @@ colyumist 2
 coggers
 creepier 1
 crosstown 3
-carcinologist
+carcinologist 1
 crosstrack 3
 crosstree 1
 crossway
