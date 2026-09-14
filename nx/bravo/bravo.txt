@@ -1354,7 +1354,7 @@ bioplastic 5
 barrowcoat 3
 brod
 botrylle 2
-backdrops
+backdrops 1
 butterflyer 4
 borderlands 1
 balbusard 2
@@ -1793,7 +1793,7 @@ biretta 3
 bedraggling 1
 balustrading 1
 bulbed
-bivvy 1
+bivvy 2
 bakshis
 bam 1
 bufonidae 1
@@ -5072,7 +5072,7 @@ biloculine 1
 beferned 1
 befetished
 bandoline 3
-bilingual 1
+bilingual 2
 balefire 1
 basenet 1
 befezzed
@@ -9204,7 +9204,7 @@ biotome
 brothered 2
 biotransformation 1
 birdnest 1
-biotron
+biotron 1
 beauetry
 bipalmate 2
 booed 3
@@ -11016,7 +11016,7 @@ botryopterid 3
 blitzkrieging 1
 brache 1
 backstairs 1
-bladelike
+bladelike 1
 bullyrags 1
 beswitch
 bromoethylene 2
@@ -11904,7 +11904,7 @@ boron 1
 boatlip 1
 borgh 3
 benic
-bockey
+bockey 1
 bloodleaf 2
 bench 1
 blitzing 4
@@ -15382,7 +15382,7 @@ briefness 5
 bleeds 1
 bedstaves 1
 bicapitate 2
-bisquette 3
+bisquette 4
 bierstuben 2
 boulevardier 1
 boggiest
@@ -15990,7 +15990,7 @@ bungee
 bogsucker 1
 bufotenin 1
 besoin 3
-brutish 1
+brutish 2
 bronchocephalitis 2
 bronchoconstriction 5
 baptistries 1
@@ -17089,7 +17089,7 @@ bulldogging 3
 bowly
 beadswoman
 bitterwood
-bladderet 1
+bladderet 2
 bellrags
 bulldozed 2
 bulldozing
@@ -17936,7 +17936,7 @@ bisinuate
 bushmasters 1
 bagwoman 1
 bushongo
-bangle 1
+bangle 2
 bedsides 2
 breezes
 bowwows 4
