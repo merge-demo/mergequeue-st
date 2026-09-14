@@ -166,7 +166,7 @@ goliardic 3
 gerontocratic 1
 goldbeater 4
 gag 3
-gooseliver 4
+gooseliver 5
 garoted
 glamour 4
 greyhen 2
@@ -896,7 +896,7 @@ gerontomorphosis 1
 grillwork 3
 gotha 1
 gametocyst 3
-gametocyte 6
+gametocyte 7
 gametogenic 3
 gooseflesh 1
 gueparde 1
@@ -1687,7 +1687,7 @@ goblinish 4
 gnarlier 1
 gulf 7
 guardrails 2
-gremmies 3
+gremmies 4
 glunch 2
 gambado 3
 glossoscopy 3
@@ -1899,7 +1899,7 @@ gear 4
 gravewards 2
 guideship 2
 galactosuria
-goalkeepers 1
+goalkeepers 2
 greaseless 3
 gushy 2
 greeve 2
@@ -2352,7 +2352,7 @@ gadwall 4
 greenboard 4
 ganisters 2
 gedds 3
-gormandise 2
+gormandise 3
 grampa 3
 garnisheing
 granddaughterly 4
@@ -2874,7 +2874,7 @@ gerontocracy 1
 guise 2
 gigots
 glycollic 3
-glints 3
+glints 4
 gallipots 1
 gledes
 gonocyte 3
@@ -3103,7 +3103,7 @@ gestures
 gastroelytrotomy 5
 greedygut
 gets 3
-geoscientists 2
+geoscientists 3
 gellant 1
 gavotte 1
 glowered
@@ -7555,7 +7555,7 @@ giggling 5
 glitch 3
 guessable 2
 glottalized 4
-gat 2
+gat 3
 governed 4
 gotten 1
 graecizing 1
@@ -7750,7 +7750,7 @@ grouf 2
 grufted 3
 grewsome 1
 gliomatous
-generalism 2
+generalism 3
 gyassa 1
 gelandelaufer 2
 grudgingness 4
@@ -8016,7 +8016,7 @@ gipper 3
 gabbroic 2
 geologized 2
 grudgment 2
-gasterosteoid 1
+gasterosteoid 2
 granada 4
 glazy 2
 garnishry 6
@@ -10024,7 +10024,7 @@ genetoid 1
 geomancies 2
 gangliac 1
 gazebos 2
-glaistig 3
+glaistig 4
 gammation 2
 greasing 1
 gypsyish
