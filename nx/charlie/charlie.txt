@@ -15395,7 +15395,7 @@ clapt 1
 chicane 1
 cautio 1
 cabins
-carburetting 1
+carburetting 2
 claptraps
 culbuter 2
 claque
@@ -16557,7 +16557,7 @@ culet 1
 croupes 2
 chirm
 cloisterly
-carburization 1
+carburization 2
 cantish
 capsules
 cloisterwise
@@ -16667,7 +16667,7 @@ campoo 1
 criers 2
 clupeoid 2
 chilopods 1
-cinnamonwood
+cinnamonwood 1
 coembody
 clostridian
 clostridium 1
@@ -16677,7 +16677,7 @@ closuring
 clot 2
 centronucleus
 compatriotism 1
-clotbur
+clotbur 1
 covings
 carpetbeater 1
 clote
@@ -17096,7 +17096,7 @@ crystals
 cyclohexane 3
 chemotherapeutic 1
 coccygalgia
-cohesive 2
+cohesive 3
 ctenophoric 1
 coadjudicator
 coadjutant
@@ -23282,7 +23282,7 @@ coplotted 1
 corncockle
 cavaliere 1
 cockadoodledoo
-consubstantiated 4
+consubstantiated 5
 cycadales
 consubstantiating 1
 culmen
@@ -27809,7 +27809,7 @@ chondrogeny 1
 coxitis
 crocin
 checkouts 1
-coupee
+coupee 1
 coxswain
 coxswained
 comrade 4
