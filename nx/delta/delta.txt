@@ -7288,7 +7288,7 @@ disseized 2
 diffusivity 1
 dollies 2
 diaxone
-disturbor
+disturbor 1
 doukhobor 3
 devisers 2
 defecters 3
