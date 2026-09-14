@@ -839,7 +839,7 @@ benjamins
 biffed 1
 balk 2
 bafflers 1
-bafflingly
+bafflingly 1
 bulbus 2
 bartletts 1
 bushelbasket 1
@@ -2408,7 +2408,7 @@ brakemen 1
 barcoo 1
 beslab 1
 bemoisten 4
-bardcraft
+bardcraft 1
 beleve 1
 buckhorn 2
 bessemerized 1
@@ -7066,7 +7066,7 @@ bodyless 2
 biggings 2
 bankrupcy 1
 bimorphs 2
-bushing 3
+bushing 4
 boycott 1
 bedswerver 1
 bespeaking 1
@@ -9471,7 +9471,7 @@ bespatterment 2
 boatbill 1
 bioinstrumentation 3
 bathymeter 2
-basaltine 1
+basaltine 2
 bemedaled 1
 bashes 1
 birma 2
@@ -10807,7 +10807,7 @@ balow 1
 bullbeggar
 bugbeardom 2
 blepharomelasma
-blepharoncosis 4
+blepharoncosis 5
 beplumed
 broses 4
 blepharoplastic
@@ -12009,7 +12009,7 @@ bilirubinuria 1
 bromeliad 1
 babysitting
 bunkhouse 1
-biogens
+biogens 1
 bohora 1
 benny 1
 blubbery 1
