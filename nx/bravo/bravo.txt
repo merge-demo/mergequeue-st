@@ -476,7 +476,7 @@ benzoates 1
 backspaces 3
 blepharocera 2
 barite 1
-backspacing 1
+backspacing 2
 beamroom 4
 beedged 3
 beestings 2
@@ -839,7 +839,7 @@ benjamins
 biffed 1
 balk 2
 bafflers 1
-bafflingly
+bafflingly 1
 bulbus 2
 bartletts 1
 bushelbasket 1
@@ -3626,7 +3626,7 @@ beccaccia 1
 bathrooms 1
 bazigar 1
 babas 2
-bridelace
+bridelace 1
 bathukolpian
 bathvillite 4
 baglike 5
@@ -7310,7 +7310,7 @@ biologese
 breve 1
 betels 3
 bemad
-beamiest 1
+beamiest 2
 beparody 4
 bessy 1
 bigotish 2
@@ -8598,7 +8598,7 @@ billfolds 2
 ballaton 6
 bringing
 bearlike 3
-bibliothecas 2
+bibliothecas 3
 barbwire 2
 bimillenial
 billiard 1
@@ -12009,7 +12009,7 @@ bilirubinuria 1
 bromeliad 1
 babysitting
 bunkhouse 1
-biogens
+biogens 1
 bohora 1
 benny 1
 blubbery 1
@@ -17765,7 +17765,7 @@ broodless 1
 blepharoadenoma 2
 breedings
 basyl
-burping 2
+burping 3
 burrbark 1
 bedrolls 3
 balaenoid 1
