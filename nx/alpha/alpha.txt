@@ -6131,7 +6131,7 @@ availment
 apogeny 4
 agitatorial 2
 antibacterial
-await
+await 1
 astrosphere 3
 albuminoidal 1
 antifeudalism 3
@@ -7312,7 +7312,7 @@ alarodian 2
 animas 3
 alarum
 alarumed
-antitypically
+antitypically 1
 alaruming
 astrand 2
 antepaschel 2
@@ -23072,7 +23072,7 @@ avantlay
 attagirl 1
 attain 3
 agaricinic
-arkosic 1
+arkosic 2
 antimatter 1
 ataxics
 antiquarians
