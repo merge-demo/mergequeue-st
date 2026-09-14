@@ -415,7 +415,7 @@ flechettes 2
 fibroligamentous 2
 fauchards 4
 fur 5
-frockmaker 2
+frockmaker 3
 fairship 5
 feal
 flitting
@@ -4684,7 +4684,7 @@ fixidity 4
 fn 3
 fixing 3
 flannelleaf 1
-fixt 1
+fixt 2
 furca 2
 flopwing 3
 fangs
@@ -7928,7 +7928,7 @@ featherworker 2
 foresee 2
 faitor
 frakturs 5
-footeite 2
+footeite 3
 friz 2
 footslog 2
 fletching 2
@@ -11171,7 +11171,7 @@ flatworms 3
 frumple
 francas 6
 fingerhold 2
-footnoted 2
+footnoted 3
 ferulae 2
 flowerbed 1
 forefather 3
