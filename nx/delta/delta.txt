@@ -4943,7 +4943,7 @@ dephosphorize 2
 draggled 2
 diamb
 demountable 2
-devastators 1
+devastators 2
 demounts
 dempsters
 deaerate 2
@@ -7035,7 +7035,7 @@ destress 3
 decoke
 dorje 1
 degrees 1
-disjointed 3
+disjointed 4
 despumation 2
 dealing
 desquamating 1
@@ -7444,7 +7444,7 @@ detrivorous 2
 damn 3
 doggereled 1
 detrude 2
-darbha
+darbha 1
 defrosts
 dich 1
 doigte 2
@@ -10589,7 +10589,7 @@ deben 1
 despecialization
 decolorizing 2
 diplomates 1
-diplomatically 1
+diplomatically 2
 diethyl 1
 dolour 1
 dribbed 3
@@ -11767,7 +11767,7 @@ discriminating 1
 dacryuria 1
 dimitted
 discriminatively 1
-despatch 2
+despatch 3
 discriminativeness 1
 discriminator 1
 dirigibility
@@ -17626,7 +17626,7 @@ defeminisation 1
 denicotinizing 1
 dunelike 3
 deletions 1
-drupa 2
+drupa 3
 dysthyroidism 1
 dispunishable 1
 deplorabilia 1
