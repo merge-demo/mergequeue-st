@@ -316,7 +316,7 @@ backbones 1
 backbrand
 bluming 1
 beseige 2
-bomi
+bomi 1
 backcap
 backchats 2
 boule 3
@@ -1102,7 +1102,7 @@ bibliomanian 1
 brent
 burel 1
 bayonets 2
-benefactors 1
+benefactors 2
 bifacial 3
 blksize 2
 bayong 1
@@ -3470,7 +3470,7 @@ buildingless
 bigamizing 2
 bathylite
 bovine 1
-basts 1
+basts 2
 banuyo 3
 basural
 bioscientific 1
@@ -3605,7 +3605,7 @@ bathoflore 4
 batholithic
 balaamite 1
 butchers
-balconet 2
+balconet 3
 bathometry
 blockmaking 1
 bathool 2
@@ -7754,7 +7754,7 @@ bonaventure
 bunglingly 1
 bustee 2
 bingey 1
-baying 2
+baying 3
 brunella 1
 buttling 2
 blameableness 2
@@ -7853,7 +7853,7 @@ brackebuschite 3
 bewreath 1
 bealtine 2
 bibiri 2
-brad 1
+brad 2
 berserks 3
 bordures 1
 boondoggles 2
@@ -11267,7 +11267,7 @@ betelnut
 biassed 1
 bloodguiltiness
 begirdled 2
-blouse 1
+blouse 2
 blearier 1
 basks 1
 blouses 3
@@ -14966,7 +14966,7 @@ backspear 1
 buccina 1
 birthy 2
 boccale 3
-bulter 2
+bulter 3
 bushier
 breastpin
 barleybreak 1
