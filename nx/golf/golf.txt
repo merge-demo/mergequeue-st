@@ -785,7 +785,7 @@ ganymede 1
 gutter 2
 gluck
 gutturize 4
-galvanothermometer 2
+galvanothermometer 3
 ggr 2
 galliformes 2
 ginneries 2
@@ -4394,7 +4394,7 @@ giocoso 3
 gpd 3
 gleba 3
 gluttony
-galloman
+galloman 1
 graphicalness 4
 gaultherine 4
 geese 5
