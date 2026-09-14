@@ -19958,7 +19958,7 @@ afterclap 1
 armseye 1
 actuators 2
 abatjour 1
-aals
+aals 1
 amasta 1
 armure 3
 armures
