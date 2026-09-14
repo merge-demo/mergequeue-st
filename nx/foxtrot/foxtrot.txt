@@ -2535,7 +2535,7 @@ fanam 3
 feeler 1
 frugivorous 2
 foal 3
-fibromembranous
+fibromembranous 1
 filamentule 4
 frangibility 1
 freeboot 3
@@ -10112,7 +10112,7 @@ foamiest
 factitiousness 5
 footnotes 3
 fetalism 3
-fuscescent 3
+fuscescent 4
 flammability
 fellowed
 friskin 5
