@@ -6510,7 +6510,7 @@ facility 1
 forgie 4
 farweltered 1
 fip 6
-failsoft 3
+failsoft 4
 frapping 2
 ft 3
 forspread 5
