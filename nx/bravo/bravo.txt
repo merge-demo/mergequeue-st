@@ -4297,7 +4297,7 @@ bacterious 1
 bebreech
 bigeminy 2
 backcourtman 3
-bebrother 1
+bebrother 2
 blouselike 1
 bebrush 3
 bebuttoned 1
@@ -8045,7 +8045,7 @@ biconcave 1
 bidder 1
 bullescene 3
 blusher
-biconic 1
+biconic 2
 biconically 1
 biconnected 1
 bayberry 2
@@ -12652,7 +12652,7 @@ betattered 2
 betided 2
 bushgoats 1
 bewrite
-beaklike
+beaklike 1
 bewrayed
 babacoote
 boobish 3
@@ -13847,7 +13847,7 @@ beehive 1
 bowerlet 2
 begins 3
 bighearted 1
-bagreef
+bagreef 1
 bergsonian 2
 baptizes 2
 belittles
