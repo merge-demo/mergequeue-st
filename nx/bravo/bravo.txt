@@ -8075,7 +8075,7 @@ bartend 2
 bagroom 1
 bicornuate 2
 bicornute
-beshadow
+beshadow 1
 bicorporate 1
 banyai 1
 belleeks 3
@@ -10797,7 +10797,7 @@ bienvenu 3
 boul
 bavin 1
 beforetimes 3
-baulkier 4
+baulkier 5
 birthrate
 blocks
 bergamo
