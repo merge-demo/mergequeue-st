@@ -8069,7 +8069,7 @@ disables 1
 disembowelled 1
 drawable 1
 dhurra 3
-detrimentalness 2
+detrimentalness 3
 doghole
 definienda 1
 di 2
@@ -13481,7 +13481,7 @@ demiurgism 2
 disponed 1
 dissertated 3
 dialectologer
-disrooting
+disrooting 1
 debenture 1
 ditrigonal 2
 disruddered 3
