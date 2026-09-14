@@ -4195,7 +4195,7 @@ chloanthite
 cardiopulmonary 1
 cardiorenal 1
 cardiorespiratory
-cardiorrhaphy 1
+cardiorrhaphy 2
 cardiorrheuma 1
 celts 1
 cardiosphygmogram 1
@@ -8302,7 +8302,7 @@ columnated 1
 chalkone
 chalkos 2
 chalkotheke 1
-chalkpit
+chalkpit 1
 chalkrail 1
 circumflect
 chalkworker 2
@@ -11540,7 +11540,7 @@ compels 1
 carbonizer
 chokier 2
 curassow
-chokies
+chokies 1
 choking 1
 cooptions
 cordovans 1
@@ -16707,7 +16707,7 @@ catechismal 1
 clothespins
 centroplasm
 clothespresses 2
-cire 2
+cire 3
 clothiers 1
 clothings 2
 catharpin
@@ -29687,7 +29687,7 @@ croisee 2
 coetanean 3
 chiropodist
 croisette
-cambiform 5
+cambiform 6
 croissant 1
 croissante 2
 crojack 2
