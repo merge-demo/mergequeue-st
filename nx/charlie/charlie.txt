@@ -7337,7 +7337,7 @@ cephalodiscid 2
 cephalodiscida 1
 cephalodiscus
 crownpiece 2
-cephalodium 1
+cephalodium 2
 charpie
 cephalogram
 cephaloid 1
@@ -15659,7 +15659,7 @@ chastely 2
 candidature
 clausula 1
 chiffonnier 2
-chiasmodontid
+chiasmodontid 1
 cirrigrade
 clausule
 cheekily
