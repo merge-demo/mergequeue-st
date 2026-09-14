@@ -559,7 +559,7 @@ fll 3
 filiety 4
 folklorism 4
 forjudger 1
-frequentative
+frequentative 1
 frappe 2
 feeblish 3
 funerate 2
@@ -2762,7 +2762,7 @@ faliscan 2
 frizer 2
 freddo
 fibroserous 3
-fights 4
+fights 5
 festerment 1
 footway 6
 flanges 1
