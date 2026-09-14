@@ -19887,7 +19887,7 @@ aiguellette 1
 asymbiotic 1
 aeolis
 armlike 1
-armlock 1
+armlock 2
 autoconvection 2
 armoracia 2
 albertite
@@ -20779,7 +20779,7 @@ aeroplankton
 apogamically 1
 antitoxins 1
 acerbating
-adhibition
+adhibition 1
 aleiptes 1
 aquarium 4
 ableness 3
