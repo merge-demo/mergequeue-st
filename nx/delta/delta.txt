@@ -8433,7 +8433,7 @@ degreed 1
 diamagnet 2
 diamagnetism 3
 dredging
-ditrochee
+ditrochee 1
 deflexed 2
 dooxidize 1
 dextro 1
