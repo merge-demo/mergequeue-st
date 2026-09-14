@@ -2094,7 +2094,7 @@ conli
 campaign
 clotheshorses 1
 campaigners
-campaigns 1
+campaigns 2
 colostric 1
 campane 1
 campanella 1
@@ -6361,7 +6361,7 @@ counterassurance 1
 caustical
 caustically
 causticism
-chamaeleo 1
+chamaeleo 2
 celticism 1
 causticity 2
 conversion 1
@@ -14039,7 +14039,7 @@ cypridina 1
 caucasoid
 contraregular
 cyprinid 3
-cheiromancy 2
+cheiromancy 3
 cyprinids 1
 cypriniform 3
 cauline
@@ -17242,7 +17242,7 @@ cleans 1
 crumple
 coalizer
 coalless 1
-coalmouse
+coalmouse 1
 commentaries 1
 counterdrain 2
 calliopean
@@ -17643,7 +17643,7 @@ cochief
 containerized 1
 cochleae 2
 concertising
-convenery 3
+convenery 4
 cochlear 1
 crystallograph
 cochleariform
@@ -21918,7 +21918,7 @@ confessable 1
 creating
 chungking
 convexities 1
-confessant
+confessant 1
 confessary
 coelomopore 1
 cornfield 2
@@ -23305,7 +23305,7 @@ consultable 1
 crevalle 1
 carbora
 calmative
-checkrooms 1
+checkrooms 2
 cutlash 1
 cacqueteuses
 cresotinate
