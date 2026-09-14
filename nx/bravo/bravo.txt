@@ -1194,7 +1194,7 @@ borborygmus
 bemeaned 2
 bajra 2
 bogeyed 3
-brickset 1
+brickset 2
 beltmen 2
 baized 2
 bajury
@@ -8170,7 +8170,7 @@ bewinter
 benzopinacone 1
 byrlaw
 blimpish 1
-beloeilite 3
+beloeilite 4
 ballonet
 beardie 1
 bashers 1
@@ -9421,7 +9421,7 @@ bargehouse 1
 brimmering 4
 borak 2
 befitting 1
-basichromatic
+basichromatic 1
 bluegums 2
 belabours 3
 biophotometer 1
@@ -12749,7 +12749,7 @@ besprinkler 2
 bookmobiles
 botrycymose
 baroni 1
-burlesk 1
+burlesk 2
 bookpress 2
 bookracks 1
 blacklegging 1
@@ -14415,7 +14415,7 @@ bragozzo 4
 befan
 brainge 1
 beewort 1
-beepers 3
+beepers 4
 brainily
 bedman
 boom
@@ -15346,7 +15346,7 @@ bohawn 2
 bechalk 2
 booth 1
 boarship 3
-bighead 3
+bighead 4
 bluffers 1
 bioelectrogenesis
 berther

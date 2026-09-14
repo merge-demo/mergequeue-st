@@ -2441,7 +2441,7 @@ farandola
 flutterable 1
 frazer 3
 fulgourous
-feasters 5
+feasters 6
 fringillid 1
 freebooty 1
 fibrously
@@ -2535,7 +2535,7 @@ fanam 3
 feeler 1
 frugivorous 2
 foal 3
-fibromembranous
+fibromembranous 1
 filamentule 4
 frangibility 1
 freeboot 3
@@ -3679,7 +3679,7 @@ freshener 3
 finicking 1
 follying 2
 fiddleys 4
-filioque 4
+filioque 5
 feistiest 3
 foysen 4
 fruitwise 3
@@ -4138,7 +4138,7 @@ fenchyl 1
 feezed 3
 fireboy 2
 flying 1
-fiendishly 3
+fiendishly 4
 fraticelli 1
 firebomb
 fractile 3
@@ -5062,7 +5062,7 @@ fezes 2
 freir 3
 foreseers 2
 frsiket 3
-fowler
+fowler 1
 fitches 2
 fluorescence 5
 faky 3
@@ -5763,7 +5763,7 @@ fill 1
 flaughter 2
 filliping 3
 forelive 2
-footlessness 1
+footlessness 2
 filipiniana 1
 figmental 2
 folksay 1
@@ -7883,7 +7883,7 @@ fruitions 3
 farnesols 1
 floppers 2
 firestorm 3
-floretum 1
+floretum 2
 forepurpose 6
 fruitwomen 3
 fibrochondritis 2
@@ -9876,7 +9876,7 @@ friar 6
 fremitus 3
 filchingly
 fellated 1
-firings
+firings 1
 frogs 1
 fouler 1
 fortescue 2
@@ -10112,7 +10112,7 @@ foamiest
 factitiousness 5
 footnotes 3
 fetalism 3
-fuscescent 3
+fuscescent 4
 flammability
 fellowed
 friskin 5
@@ -10275,7 +10275,7 @@ fadedness 1
 fibrillations 3
 flakers 3
 frond 4
-franchisee 2
+franchisee 3
 fluxmeter 1
 finickingness 3
 figgier 4
