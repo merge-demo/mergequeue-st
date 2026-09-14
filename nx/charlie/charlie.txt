@@ -466,7 +466,7 @@ cancelable 2
 cacumination 1
 coleopterous
 cacuminous
-cacur 1
+cacur 2
 cad
 cadamba 1
 cryptocrystalline 1
@@ -1884,7 +1884,7 @@ croc
 chamfrain 1
 consociate
 cambia
-cambiata
+cambiata 1
 charlatanry
 choregy
 cambio
@@ -4710,7 +4710,7 @@ carpetbag
 carpetbagger
 carpetbaggery
 chantage
-conchometry 1
+conchometry 2
 catty
 caddow 3
 compatibles 1
@@ -7762,7 +7762,7 @@ cravenette 1
 chlamydophore 2
 connoissance 1
 credulously 2
-conducing
+conducing 1
 ceruleous 1
 ceratophrys 2
 cerulific 1
@@ -12547,7 +12547,7 @@ cornercap
 collophore 2
 chester
 chromospheric
-colytic 1
+colytic 2
 committitur 1
 cadjan 1
 cranemen 1
@@ -12641,7 +12641,7 @@ churchiest 2
 coriandrum 1
 chroococcaceae
 cynanthropy 2
-chopines
+chopines 1
 chroococcales
 chroococcoid 1
 charcoalist 2
@@ -23128,7 +23128,7 @@ constabularies 2
 comminute
 coccolithophoridae 1
 constantan 2
-constantinian 1
+constantinian 2
 cephidae 1
 constantinopolitan
 catechumenate
@@ -26504,7 +26504,7 @@ cots 1
 cephalomelus
 cotset 1
 crub 1
-cotsetland 1
+cotsetland 2
 citations
 cotswold
 calctuff 1
@@ -26893,7 +26893,7 @@ counterhaft
 commensurableness
 counterhypothesis
 corflambo 2
-carretera
+carretera 1
 chandrakhi 1
 custodes
 counteridea
