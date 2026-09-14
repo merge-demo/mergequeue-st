@@ -1193,7 +1193,7 @@ cashew
 construable 3
 couture 2
 celluloses 1
-calculuses
+calculuses 1
 caldaria 1
 calden
 calderas
@@ -5390,7 +5390,7 @@ castellans
 cinerararia
 chaufer 1
 castellate 1
-castellation
+castellation 1
 castellatus 1
 creolization 2
 circumposition
@@ -22918,7 +22918,7 @@ circuitry 1
 collated
 councilist
 consy 3
-consider
+consider 1
 circumrenal 1
 canidae
 considerable
@@ -27905,7 +27905,7 @@ courtesies 1
 changuinan
 cotwal 2
 countermarching
-crepes 2
+crepes 3
 compurgation 1
 concreting
 crackajack
