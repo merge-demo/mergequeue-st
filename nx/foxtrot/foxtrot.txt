@@ -75,7 +75,7 @@ flysch
 fordeal 4
 fullfaces 3
 facundity 1
-facemark 6
+facemark 7
 flunkeyhood 1
 forme 3
 filching 2
@@ -1578,7 +1578,7 @@ fixings 1
 finer 2
 florae 2
 fauchard 3
-fiddlebow 1
+fiddlebow 2
 forereaching 4
 floppies 1
 faffle 3
@@ -1772,7 +1772,7 @@ featherpate 3
 fetlocks 4
 foghorns
 feedbox 2
-futurology 5
+futurology 6
 foreannounce
 fadingness 1
 filmiform 4
@@ -2716,7 +2716,7 @@ flanks 4
 flamenco 2
 fauxbourdon 3
 fashions 5
-fruitive 1
+fruitive 2
 funnier 2
 fucate 4
 figpecker 1
@@ -10486,7 +10486,7 @@ fleet
 fwd 3
 fisted
 flche 2
-frontstall 5
+frontstall 6
 forstall
 frizes 1
 fellah 3
