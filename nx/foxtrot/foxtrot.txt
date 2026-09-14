@@ -1305,7 +1305,7 @@ feest 5
 features
 frogginess 2
 fendering 2
-fbi
+fbi 1
 famousness 1
 forbidal
 fellani 2
@@ -6512,7 +6512,7 @@ farweltered 1
 fip 6
 failsoft 4
 frapping 2
-ft 3
+ft 4
 forspread 5
 foldskirt 3
 fortifying 3
