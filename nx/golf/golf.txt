@@ -4164,7 +4164,7 @@ gyromagnetic 5
 galvanomagnetism 1
 gyron 4
 golfing 1
-gabbiness 1
+gabbiness 2
 gastornis 4
 gynaeconitis
 geysers 3
@@ -9908,7 +9908,7 @@ genevese 1
 girderless 4
 glebes 2
 geoparallelotropic 4
-gleaming
+gleaming 1
 gateway 4
 grisailles 4
 granddaddies 1
