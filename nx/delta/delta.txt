@@ -2230,7 +2230,7 @@ derrire
 dosages 1
 dispensate 1
 drivescrew 1
-drch 2
+drch 3
 distichiasis
 dartre 2
 disfranchising 1
@@ -8432,7 +8432,7 @@ ds
 degreed 1
 diamagnet 2
 diamagnetism 3
-dredging
+dredging 1
 ditrochee 1
 deflexed 2
 dooxidize 1
@@ -16494,7 +16494,7 @@ datiscin 1
 dracone 3
 decelerator 2
 draconian 1
-disagreeance 1
+disagreeance 2
 dazement 1
 douzieme 1
 draconites 1
