@@ -785,7 +785,7 @@ ganymede 1
 gutter 2
 gluck
 gutturize 4
-galvanothermometer 2
+galvanothermometer 3
 ggr 2
 galliformes 2
 ginneries 2
@@ -1160,7 +1160,7 @@ gantleted
 gripier 3
 grouses
 goninidia 1
-gastrogastrotomy 4
+gastrogastrotomy 5
 genin
 genio 3
 gonimolobe 1
@@ -2197,7 +2197,7 @@ gibby 3
 galactohemia 2
 gleit 1
 glossopathy 3
-grounders 3
+grounders 4
 globetrotting 6
 grieced 1
 gastrectasis 4
@@ -4394,7 +4394,7 @@ giocoso 3
 gpd 3
 gleba 3
 gluttony
-galloman
+galloman 1
 graphicalness 4
 gaultherine 4
 geese 5
@@ -7908,7 +7908,7 @@ giglots 2
 grammatite 2
 gumbo 1
 gelatification 2
-gramme 1
+gramme 2
 ginned 1
 groggiest 2
 gilbertage 2
@@ -10014,7 +10014,7 @@ greenfinch 4
 guardstone 3
 gloatingly 5
 graybeard 3
-ghostlet
+ghostlet 1
 gigantostracous 1
 goujay 4
 glasslike 3
