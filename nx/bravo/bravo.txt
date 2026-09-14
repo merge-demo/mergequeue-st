@@ -2916,7 +2916,7 @@ barrelet
 bookend
 batuque 1
 benefitted 3
-bodysuits 1
+bodysuits 2
 botanical 1
 bundies
 beachheads 2
@@ -11416,7 +11416,7 @@ berettas 2
 bowlderhead 1
 berycoidei 4
 bluecurls 3
-brawn
+brawn 1
 blears 3
 browbands
 blued 2
@@ -11745,7 +11745,7 @@ bosselated
 bauxitite 2
 bobfloat 2
 bobierrite 2
-bobjerom
+bobjerom 1
 bioelectricity 2
 boorish 1
 backpacker 2
@@ -15337,7 +15337,7 @@ bridger 2
 befrumple 1
 bushelful 3
 blanquette 2
-bedrel
+bedrel 1
 bicarinate 1
 browsed
 bankfull
