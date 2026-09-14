@@ -513,7 +513,7 @@ briming 2
 broadway 1
 besiclometer
 blackacre 2
-biogenesis 3
+biogenesis 4
 burbling 1
 backstops 3
 backstrapped 2
@@ -621,7 +621,7 @@ bostangi
 bastiment 2
 bacteriodiagnosis 1
 bromates
-benomyls 1
+benomyls 2
 behearse
 bacterid 3
 birdcages 2
@@ -755,7 +755,7 @@ bolter 3
 brinjal 1
 badgerlike 1
 bending 1
-befoul
+befoul 1
 babiches 1
 badges 2
 badging 4
@@ -10124,7 +10124,7 @@ blat 1
 beshriek 1
 bromocamphor 2
 blackband 2
-blackberrylike 1
+blackberrylike 2
 bunkload 2
 balas 3
 bacchant
@@ -13112,7 +13112,7 @@ buggering
 bodyguard 2
 borid 3
 bacterioscopist 2
-bromisation 1
+bromisation 2
 bastinaded
 blowzier 2
 basilics 2
@@ -16860,7 +16860,7 @@ battak 2
 butut 1
 bein 2
 benvenuto
-balkline 2
+balkline 3
 beam 1
 bigger 1
 buffing 2
@@ -17319,7 +17319,7 @@ bumptiousness 1
 boosy 1
 bumsucking
 bumtrap
-bumwood
+bumwood 1
 bun
 bore 2
 bathochromatism
