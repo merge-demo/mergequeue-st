@@ -2573,7 +2573,7 @@ barile 1
 barilla 1
 beleaf 1
 barters 3
-bathofloric 1
+bathofloric 2
 baryon 3
 bathometer 3
 brio
@@ -3890,7 +3890,7 @@ bullpouts 1
 babus 2
 bawdrics 2
 bawl
-bawled 1
+bawled 2
 bawler 2
 bawly 2
 brutalitarian 3
@@ -8282,7 +8282,7 @@ butterflyfish 2
 biblists 2
 beak 2
 bookling 1
-burden 1
+burden 2
 buccinal 1
 byzantinism 5
 berberine 2
@@ -12875,7 +12875,7 @@ betrayers 2
 bondslave 2
 behorror 4
 bifoil 2
-birthplace 1
+birthplace 2
 bg 2
 befanned 1
 bacchiac 1
@@ -14298,7 +14298,7 @@ batheable
 bouillon
 begrudger 4
 blending
-brag
+brag 1
 bargander
 bannut 1
 blackboard 2
