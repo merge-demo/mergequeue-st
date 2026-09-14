@@ -391,7 +391,7 @@ cacomistle
 canoeing
 cacomorphia 1
 ceramography 1
-cacomorphosis 1
+cacomorphosis 2
 confabulation 1
 chrysin
 caconymic
@@ -4581,7 +4581,7 @@ carnification
 carnificial 1
 carnifies 1
 cnidocell
-carniform
+carniform 1
 consummatory
 chukar 1
 carnitine 1
@@ -11595,7 +11595,7 @@ cholecystogastrostomy 2
 chronicon 1
 cholecystogram
 cholecystography 1
-cholecystokinin
+cholecystokinin 1
 cholecystolithiasis 1
 cholecystostomy
 cholecystotomy 1
@@ -23816,7 +23816,7 @@ contrasts 1
 contrasuggestible
 cruiskeen 1
 client 1
-catface
+catface 1
 contratenor
 contravalence 2
 contravene 1
@@ -24234,7 +24234,7 @@ convoying 3
 carboxypeptidase
 convoked
 centigram
-convolutedly 1
+convolutedly 2
 crinoidal
 convoluting 1
 convolution 2
