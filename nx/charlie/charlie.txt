@@ -5450,7 +5450,7 @@ cortaderia
 cordies 1
 castlet 1
 candlesticked 1
-confront 2
+confront 3
 casaque 1
 castlewise 1
 castock
@@ -8129,7 +8129,7 @@ colewort
 coelastrum 3
 chainsman 1
 capetian
-cleanups
+cleanups 1
 cattiest 1
 chainsmith 1
 chimneyed
