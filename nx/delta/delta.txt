@@ -2769,7 +2769,7 @@ dugal
 dop
 discerptive 3
 distemonous 1
-dorsalward
+dorsalward 1
 disharmonize 1
 decremeter
 dicyemida 2
@@ -3428,7 +3428,7 @@ draconid 3
 defecting
 deflore 1
 dubash 2
-disgarland 2
+disgarland 3
 divise 1
 damnosa 1
 dentagra 3
@@ -9040,7 +9040,7 @@ disillusioniser 1
 droukit 1
 diplomatist 1
 dernier 1
-drinkproof
+drinkproof 1
 dictaphones
 dabbers 2
 deglycerine 2
@@ -10584,7 +10584,7 @@ diplomaing 1
 datapunch 4
 doleritic 1
 drudger 1
-decremental 1
+decremental 2
 deben 1
 despecialization
 decolorizing 2
@@ -16401,7 +16401,7 @@ disdain 3
 drunkery 1
 downwardly 2
 devourment 1
-delocalized 1
+delocalized 2
 dispellable 1
 dogtrotted 2
 downgrowth
