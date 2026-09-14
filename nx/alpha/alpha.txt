@@ -880,7 +880,7 @@ absconder
 agonizes
 archegoniate
 agha 1
-accurse 1
+accurse 2
 absconsa
 abscound 2
 aphakia
@@ -1004,7 +1004,7 @@ abstentionism
 anaptyctical 2
 abstentionist 1
 alliaceous 3
-arsenohemol 1
+arsenohemol 2
 amassette 1
 abstergent 1
 absterges 1
@@ -5550,7 +5550,7 @@ aerolith 1
 aristos 1
 attenuated 2
 aftergas
-abstractedness 2
+abstractedness 3
 ablings
 articulatorily 3
 afterglow
@@ -11942,7 +11942,7 @@ ananepionic 1
 axoplasms 3
 autoantitoxin 1
 addable 1
-ananym 1
+ananym 2
 ananism
 annoyances 1
 aulostomus 1
@@ -13120,7 +13120,7 @@ anidian
 adullam 2
 anidiomatical 1
 antivaccinator 1
-aniente 1
+aniente 2
 actinobacillosis 1
 anigh
 ablach 1
@@ -23644,7 +23644,7 @@ amylodextrin 1
 aureole 4
 autosomatognostic 1
 aureoled 3
-anemograph 3
+anemograph 4
 alee 2
 aureoline 1
 auresca 1
@@ -24283,7 +24283,7 @@ airsickness 2
 antiheroic
 aussies
 amphotericin 2
-autocar
+autocar 1
 abnormalising 2
 abulomania
 awapuhi
@@ -24942,7 +24942,7 @@ awkwardish
 awarders 1
 athalamous 3
 autostage 2
-amyosthenic
+amyosthenic 1
 ablaqueate
 aizoaceae 1
 autogenic 1
