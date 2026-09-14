@@ -2569,7 +2569,7 @@ directrices 2
 declivent
 derive
 dreamlike
-declivity 1
+declivity 2
 ducklingship 2
 dangled 1
 detoured 1
@@ -11742,7 +11742,7 @@ drawplate 1
 dexamethasone 1
 dino 3
 dogblow 2
-disported 1
+disported 2
 debellate
 deoxidising 1
 disbalance 1
