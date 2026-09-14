@@ -9883,7 +9883,7 @@ crystallisation 3
 chemoreflex
 contrabassoon 1
 chemoresistance 1
-chemoserotherapy
+chemoserotherapy 1
 chemosynthesis
 chemosynthetic
 chemosmoses
