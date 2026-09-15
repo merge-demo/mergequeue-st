@@ -1116,7 +1116,7 @@ beneficency
 budges 3
 bastiles
 bairn 3
-bypassed
+bypassed 1
 bransolder
 bromius 3
 barless 3
@@ -2678,7 +2678,7 @@ barm
 begrimming 1
 bututs 2
 bernardine 2
-barmaster 5
+barmaster 6
 bergalith 2
 benzoic 2
 barmcloth 3
@@ -5548,7 +5548,7 @@ blowziest 2
 bhava 3
 blockline 1
 breastfeeding 2
-bejewelling 1
+bejewelling 2
 backstamp
 bejezebel
 bontebucks 1
@@ -5836,7 +5836,7 @@ bellicism 2
 beyonds 2
 buqshas 2
 bromometry 3
-biltong 1
+biltong 2
 belligerents 1
 buildress 3
 boxcar 2
@@ -12251,7 +12251,7 @@ boutre 1
 bolshevikian 1
 barrandite
 bogway 1
-bolshevist 1
+bolshevist 2
 biopoesis 2
 bolshevize 2
 bantamweights 1
