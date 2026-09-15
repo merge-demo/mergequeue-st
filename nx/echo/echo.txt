@@ -3314,7 +3314,7 @@ equipaga
 epicede 3
 embassade 4
 emanatist
-elucidator 4
+elucidator 5
 epical
 eternalized 2
 exposture 1
@@ -6168,7 +6168,7 @@ elision
 endanger 3
 ennoblement
 euryhaline 1
-ennobling 2
+ennobling 3
 embarren 1
 ensteel 1
 ectosarcous 5
@@ -13510,7 +13510,7 @@ ethan 4
 ergophobic
 exquire 5
 exsolution 2
-erbia
+erbia 1
 epithalamium 2
 ethnomusicology 3
 enterparlance 2
