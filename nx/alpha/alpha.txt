@@ -3287,7 +3287,7 @@ antitank 2
 aready 2
 abram
 adductors 2
-antilevelling 2
+antilevelling 3
 accusatorial
 aleberry 1
 agitprop
@@ -7212,7 +7212,7 @@ algodoncillo
 aethrioscope 2
 alack
 archtraitor
-amole 1
+amole 2
 anadromous 1
 ameloblast
 adnouns 1
@@ -9490,7 +9490,7 @@ alterers 3
 antiplague
 authentication 2
 ablating
-antiabsolutist 1
+antiabsolutist 2
 argiopoidea 3
 appestats
 acupunctuate
@@ -15910,7 +15910,7 @@ arachnidial 1
 acracy 1
 ambrosiaceous
 antinarrative
-antipredeterminant
+antipredeterminant 1
 amphetamine 1
 antiprelate 1
 antiprelatic 1
