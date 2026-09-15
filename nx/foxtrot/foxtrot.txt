@@ -508,7 +508,7 @@ fumer 3
 firerooms 1
 flamers 3
 frowny 4
-foresense 3
+foresense 4
 falco 2
 fermentive 2
 forgivableness 2
@@ -2981,7 +2981,7 @@ flanned 2
 ferrels
 fellies 2
 fezzed 1
-favosite 2
+favosite 3
 fluvanna 2
 fallway 1
 fissural 1
@@ -10322,7 +10322,7 @@ filchers
 frolicsome 2
 fishful 2
 fratched 3
-frammit
+frammit 1
 fidel 2
 fibrinolysin
 flouncier 1
