@@ -575,7 +575,7 @@ electrodynamics 1
 effable
 estancia 1
 emblematize 2
-echoing 4
+echoing 5
 eventration
 echoism 2
 enhydros 3
@@ -2097,7 +2097,7 @@ eyeteeth 2
 exaristate
 elasticity 3
 enterocrinin 1
-enchondroma 1
+enchondroma 2
 effortlessly 1
 equably
 euxenite 2
@@ -4748,7 +4748,7 @@ ethanim
 equilibrator 6
 entypies 4
 enduro 2
-epidosite 4
+epidosite 5
 easterner 1
 estrogenicity 3
 embrangle 2
@@ -10049,7 +10049,7 @@ entamoebiasis 3
 epopoeist 1
 etceteras 1
 ethanediol
-ethanedithiol
+ethanedithiol 1
 epicoeloma 1
 exurge 2
 erythrophyllin
