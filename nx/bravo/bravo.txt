@@ -4716,7 +4716,7 @@ bedizen
 boubas 1
 beekmantown 2
 bedkey 1
-bandpass 1
+bandpass 2
 braved 1
 braze
 blype 1
@@ -10003,7 +10003,7 @@ bismuthyl 2
 binodous 1
 brahmic 1
 barrenness 1
-bivector 4
+bivector 5
 biventer
 backseat 1
 blackwashing 1
