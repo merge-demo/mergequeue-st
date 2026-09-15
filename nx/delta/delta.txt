@@ -1981,7 +1981,7 @@ dupondidii
 dopant 2
 discostate 1
 debuted
-desirable
+desirable 1
 diced
 dermatoma 1
 drover 2
@@ -9662,7 +9662,7 @@ dikaryophasic 1
 dikaryophyte 1
 demission 3
 dikaryophytic
-disfiguration
+disfiguration 1
 dikdik 2
 deliquesces
 defamatory
