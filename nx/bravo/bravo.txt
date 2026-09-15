@@ -4008,7 +4008,7 @@ believer
 beacons 1
 buoyancy 4
 beadeye 3
-beader
+beader 1
 bellmaker 3
 barnhardtite 2
 beerothite
