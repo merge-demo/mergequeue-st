@@ -9537,7 +9537,7 @@ fissiparousness 3
 flatbottom
 forejudger 5
 forbreak 4
-forbidden
+forbidden 1
 floatman 4
 florets
 flowmeter 2
