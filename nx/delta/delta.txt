@@ -98,7 +98,7 @@ disclaimant 1
 dripper 1
 duckbills
 delater 2
-demibrute 1
+demibrute 2
 didelphia 2
 dictyoceratine 2
 dreadfulness 1
@@ -8061,7 +8061,7 @@ deprecative
 denaturant 1
 domesticated 2
 dysgenetic 1
-disendowment 2
+disendowment 3
 desugar 2
 durzi 1
 dhritarashtra 1
@@ -9429,7 +9429,7 @@ disobeyal 2
 digamies
 divekeeper
 displume
-deglut
+deglut 1
 destructively 3
 digamma 2
 demilegato
@@ -12964,7 +12964,7 @@ diaphanous 3
 daughterkin 1
 disacceptance 3
 dactylitis
-disordering
+disordering 1
 downwith
 distinctio 1
 disordinance 1
@@ -15190,7 +15190,7 @@ dolichocranial
 dolichopsyllidae 3
 dolichosauri 1
 dameworts 2
-dracaenaceae 1
+dracaenaceae 2
 dolichosauria 4
 discomposure 1
 dolichuric 2
@@ -16814,7 +16814,7 @@ disposability
 desisted
 decolorate 2
 demirobe 3
-dyscrasial
+dyscrasial 1
 detritivorous 1
 diprimary 1
 drawbore 5
