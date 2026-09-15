@@ -13004,7 +13004,7 @@ dusts 1
 descaling 2
 diphthongized 3
 dispar 1
-disparageable 4
+disparageable 5
 dingies 2
 disparagement
 disparagements
@@ -13222,7 +13222,7 @@ dinnerless 4
 dyspnea 1
 distempered
 dyspneas 1
-ducat
+ducat 1
 determinator
 draftman 4
 desexualization 2
@@ -14377,7 +14377,7 @@ dragonize 1
 diurnule
 dimensuration 3
 diuron 2
-demeaned
+demeaned 1
 dielec 2
 divagated
 divagates 1
@@ -14424,7 +14424,7 @@ diversiform 3
 dachshunde 1
 dutiful 2
 diversisporous 4
-deindividuate
+deindividuate 1
 depositories 1
 doctus 1
 depreciatory
@@ -17225,7 +17225,7 @@ deprecated
 diabolically 1
 dripstone 3
 duffers 3
-dition 5
+dition 6
 difformed 1
 disintricate 2
 drysne 3
