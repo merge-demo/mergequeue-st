@@ -506,7 +506,7 @@ blathering 3
 backstitch 1
 bahoo
 blumed 1
-biserial
+biserial 1
 barbels 2
 billhead 3
 briming 2
@@ -3126,7 +3126,7 @@ basecourt 1
 betokener 2
 boosting 2
 boneset 2
-baselevel 1
+baselevel 2
 bismarck 2
 bowstringing 2
 bustards 2
@@ -14259,7 +14259,7 @@ bradysphygmia 1
 badrans
 bolsheviks 1
 bit 2
-butterer 1
+butterer 2
 birls 2
 bemadaming 1
 beteach 2
@@ -16423,7 +16423,7 @@ brunnichia 1
 barred
 boysenberries 2
 bushed 3
-blastocheme
+blastocheme 1
 butyrolactone 1
 brainache 2
 bedazzling 1
