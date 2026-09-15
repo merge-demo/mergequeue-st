@@ -8494,7 +8494,7 @@ chanced
 categorical 2
 chanceful 1
 cadrans
-chancefulness
+chancefulness 1
 chancey 3
 chanceled 1
 cardiacea
@@ -17377,7 +17377,7 @@ coatis
 coatless 1
 coatrack
 coatroom
-combinability 1
+combinability 2
 coatrooms 2
 coattend 2
 coattending 1
@@ -24970,7 +24970,7 @@ cholagogue
 corbelled 2
 corbet
 corby
-cannet 1
+cannet 2
 cystine
 chummiest 1
 corbicula 1
