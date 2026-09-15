@@ -9333,7 +9333,7 @@ emane 1
 enrobement 1
 eponge 1
 effecter 3
-educable
+educable 1
 escalades
 escalating 2
 escalations 4
