@@ -6084,7 +6084,7 @@ cryptoporticus
 canephroi 1
 cantharidizing
 casuistical
-cresotic
+cresotic 1
 catmints 2
 catnap
 cheilotomies
@@ -6683,7 +6683,7 @@ ceilidhe 1
 ceiling 1
 ceilings
 ceilingwards 1
-copiability 2
+copiability 3
 celtophobia 1
 couac
 chelidosaurus
@@ -15347,7 +15347,7 @@ cuyas
 chloropia 1
 clannishness
 cradlemen
-clansfolk 1
+clansfolk 2
 cheki 1
 churchgrith 1
 clanship 3
@@ -19141,7 +19141,7 @@ cartomancy
 collocating
 chkfile 3
 carambola
-colombian 2
+colombian 3
 carrow
 collocation 2
 collocational 1
@@ -20506,7 +20506,7 @@ compartmented 2
 centenionalis 1
 corundum 2
 chamaeleon
-compartments
+compartments 1
 chapin 2
 celticist
 compass 2
@@ -29210,7 +29210,7 @@ cryosurgical 4
 crenelating
 colluvia 1
 coaming 2
-countervailing
+countervailing 1
 cyclospermous
 crip
 crippied 1
