@@ -1046,7 +1046,7 @@ calcanean
 calcaneoastragaloid
 calcaneoplantar 1
 countersale 1
-calcaneoscaphoid 3
+calcaneoscaphoid 4
 calcaneum 1
 calcannea
 calcannei 1
@@ -2874,7 +2874,7 @@ canonizes
 canonizing 1
 chachalakas
 churchreeve 2
-canonry
+canonry 1
 canons
 canonship 1
 consideration 2
@@ -20067,7 +20067,7 @@ cadmus 1
 campodeid 1
 commensals 2
 chamosite
-commensurability
+commensurability 1
 commensurable 1
 cajoled
 commensurate 1
