@@ -1824,7 +1824,7 @@ furrows
 figureheadship 2
 fellahin 2
 firebreaks 2
-feudalize
+feudalize 1
 fittest 2
 fractured 1
 flabellum 1
