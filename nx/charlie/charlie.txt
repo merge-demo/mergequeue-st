@@ -6178,7 +6178,7 @@ cattlemen 1
 cattleship
 carbines 1
 catullian
-clamshells
+clamshells 1
 coburghership 1
 commercials 1
 completedness 1
@@ -15428,7 +15428,7 @@ chuddar
 cruzadoes
 clarifiant
 clarificant 1
-clarification 1
+clarification 2
 clarifier 1
 clarifiers 3
 chiefry
