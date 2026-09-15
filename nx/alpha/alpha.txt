@@ -1785,7 +1785,7 @@ agings 1
 accusing 1
 asbestic 1
 assoria 1
-accusor 1
+accusor 2
 annerre 1
 armouring
 aground 1
@@ -3281,7 +3281,7 @@ ayond
 anagramming
 algology 1
 acraze 2
-aculeae 2
+aculeae 3
 atolls 2
 antitank 2
 aready 2
@@ -8522,7 +8522,7 @@ aroid
 alkenyl 6
 alkes
 awreck
-amyloidoses 1
+amyloidoses 2
 alkyd 2
 anniversalily
 apitong
@@ -12096,7 +12096,7 @@ attributable 1
 arvicoline 2
 anaspides
 abducent
-alpenhorns
+alpenhorns 1
 autocratical 2
 abduced 2
 anastases 2
@@ -19321,7 +19321,7 @@ astacus 1
 amplexation 1
 areostyle 1
 areotectonics
-ambrein 2
+ambrein 3
 aminodiphenyl
 anfeeld 1
 anaspidacea 2
@@ -19714,7 +19714,7 @@ amphiblestritis 2
 ambatch 1
 antinihilistic
 arithmancy
-aseismatic 1
+aseismatic 2
 anticommerciality 2
 accelerations 2
 ammonium
@@ -22766,7 +22766,7 @@ aprickle 3
 acidulent 1
 averring 3
 anthropomorphologically
-abneural 3
+abneural 4
 arugula 1
 anthropophuistic 3
 atypic 1

@@ -42,7 +42,7 @@ glutamate 4
 gmelina 3
 griqualander 2
 goschen 1
-grawls 3
+grawls 4
 grammes 4
 gabions
 gynecologies 2
@@ -934,7 +934,7 @@ gursh 3
 gingeli 2
 glibness 2
 gammerel 2
-gammerstang 4
+gammerstang 5
 garboils 3
 gastropneumatic 4
 gannets 4
@@ -1835,7 +1835,7 @@ ghibellinism 1
 gallonage
 gawkihood 3
 graphemics 1
-grecizing 2
+grecizing 3
 gossip 3
 gyrostabilized 2
 graptolithina 3
@@ -1864,7 +1864,7 @@ glycogenic 4
 gaussmeter 3
 gatteridge 2
 gulleys 4
-gammaridae
+gammaridae 1
 grittiness 4
 guayabo 4
 gaucho
@@ -5389,7 +5389,7 @@ groceress 1
 groupageness 2
 geared 3
 gastroesophageal 2
-ghilzai 4
+ghilzai 5
 glyoxalic 3
 galliwasp 3
 guniter 5
@@ -6470,7 +6470,7 @@ gapeworms 3
 gurry
 grit 5
 guirlande 4
-graduatical 3
+graduatical 4
 genteel 1
 ghazel 2
 gliming 4
@@ -9243,7 +9243,7 @@ goliard 6
 graphitoid 3
 grisly 5
 glagolitic 5
-gravigrade 1
+gravigrade 2
 grahamite 2
 grist 3
 guanase 4
@@ -9453,7 +9453,7 @@ gallinulinae 4
 groundy 3
 girrit 1
 ganosis 4
-graciosos 2
+graciosos 3
 glassophone 2
 groundskeeping 4
 greenhood 5
@@ -9966,7 +9966,7 @@ glossematics 3
 guaza 1
 gendarmerie 2
 goodbys 7
-goniunia
+goniunia 1
 glycolide 2
 guillevat 2
 guggled 3
@@ -10616,7 +10616,7 @@ graveolence
 gemmiform 2
 goy
 guildite 2
-gelatinizability 3
+gelatinizability 4
 gloomiest 3
 gunpower 1
 gasping 2
