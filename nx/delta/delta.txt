@@ -1312,7 +1312,7 @@ decoloured 3
 daubreite 1
 degaussing 5
 dobsons 2
-dinitro 2
+dinitro 3
 densified 2
 dryermen 1
 declinate 1
@@ -1858,7 +1858,7 @@ defeudalize
 debilitates 2
 detoxication
 dermatoglyphics 1
-devirginator
+devirginator 1
 debitum 2
 declaratory 1
 douvecot 2
@@ -2975,7 +2975,7 @@ democratist 1
 dodecamerous 1
 decede 1
 decillion
-deedily 1
+deedily 2
 distriction 4
 deediness
 dorsales 1
@@ -4056,7 +4056,7 @@ diphysitism 1
 delimes 2
 doublethought 1
 duskiness
-decreaseless 1
+decreaseless 2
 disputatiousness 1
 discredence
 delimitated
@@ -7463,7 +7463,7 @@ damneder 2
 dodgery 1
 detrusion 1
 detumescence 1
-dynasticism 1
+dynasticism 2
 deposal 3
 detune
 disruptionist 2
@@ -10085,7 +10085,7 @@ dynamos 2
 dadoing 2
 duodynatron 2
 dynamostatic
-dynamotor 3
+dynamotor 4
 dinanderie 2
 disfrocks 3
 dissembles 2
