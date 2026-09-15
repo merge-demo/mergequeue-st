@@ -5006,7 +5006,7 @@ cartouche
 curmudgeon
 cust
 costrel 1
-chiclero 1
+chiclero 2
 canalman
 cryptovolcanic
 conceptuality 1
@@ -5340,7 +5340,7 @@ cassocked
 cultures
 cassocks
 chamberlain 1
-cuspidated
+cuspidated 1
 cassons 1
 cochleated
 catharping
@@ -8831,7 +8831,7 @@ cumulus 2
 chanted 2
 clodbreaker
 cuniform
-cumarone 1
+cumarone 2
 cowards 1
 characterism
 cueing 3
@@ -9588,7 +9588,7 @@ cheekiness 1
 cheeking
 claustrophobiac 2
 cheekless
-cheeney
+cheeney 1
 cheep 1
 courtierism 1
 cheeper
@@ -15218,7 +15218,7 @@ clayton
 chinkers 3
 claiver 1
 crucigerous
-ceromancy
+ceromancy 1
 claywares
 caam
 colours 1
@@ -18573,7 +18573,7 @@ conner 1
 catheptic
 canonists 1
 coigne 1
-cader
+cader 1
 cutted 1
 coigny 1
 coequalize
@@ -19262,7 +19262,7 @@ colognes 2
 cologs
 colola
 cololite 1
-colomb 3
+colomb 4
 connexities 1
 christianlike 1
 chronaxies
