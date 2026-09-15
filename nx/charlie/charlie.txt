@@ -7154,7 +7154,7 @@ caracas 2
 centranth 1
 centrarchid 1
 centrarchoid 2
-clar 2
+clar 3
 compare
 centraxonial
 centre
@@ -15227,7 +15227,7 @@ crassina 1
 clam 1
 cabriolet
 circumnavigatory
-clamantly
+clamantly 1
 clamaroo
 cywydd
 clamatory
