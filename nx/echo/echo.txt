@@ -1450,7 +1450,7 @@ epanorthotic
 emunct 1
 exenteritis 1
 epipleural
-envelop 1
+envelop 2
 enfarce 4
 euxanthate 2
 euhemerism
@@ -2175,7 +2175,7 @@ exponentiated 1
 expect 4
 enamor 4
 eliminating 4
-epimyocardial 4
+epimyocardial 5
 ere 2
 electrovalently 1
 emphasising 5
@@ -7602,7 +7602,7 @@ euphues
 ecca 3
 enhancement 2
 extrasomatic 1
-emplead
+emplead 1
 enterostasis 2
 earworms 3
 eton 2
@@ -8035,7 +8035,7 @@ empowerment 2
 equicrural 1
 electrooculogram 1
 ephthianura 3
-extraprovincial 2
+extraprovincial 3
 epiphragm 2
 enlargedness
 encover 3
@@ -8252,7 +8252,7 @@ endophyllous 2
 equivalve 3
 ennobles 2
 epithalline
-elastase
+elastase 1
 einstein 2
 earthwards 3
 expellers 6
