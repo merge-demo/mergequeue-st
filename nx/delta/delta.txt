@@ -1060,7 +1060,7 @@ darndest 1
 darnels 1
 dehepatize 2
 destandardize 3
-diplohedral 1
+diplohedral 2
 dishes
 diacodium 1
 deas 1
@@ -6249,7 +6249,7 @@ diplokaryon 2
 disingenuous 2
 debat 2
 doldrums 1
-diact 2
+diact 3
 dermatoneurosis
 dustuck 2
 disprize
@@ -6613,7 +6613,7 @@ dermatrophy 2
 darkhearted 3
 dicarboxylate 1
 demembration 1
-dissevering 2
+dissevering 3
 diallelus 2
 djinns 1
 demerol 1
@@ -7826,7 +7826,7 @@ drayed
 delates 2
 dissertationist 3
 dinoceras 1
-dogsleds
+dogsleds 1
 deckhands 2
 diadochokinesis 1
 dyothelism 2
@@ -12622,7 +12622,7 @@ disjunctive
 dexiotropism 1
 disjunctively 1
 deseed 3
-dibble 1
+dibble 2
 disembodying 1
 delimitizing 3
 diskelion 2
@@ -13322,7 +13322,7 @@ disproportionately 1
 dynamism 2
 demographics
 demorphinization
-dispropriate
+dispropriate 1
 dysprosia 1
 disproves 1
 disprovide 1
@@ -16941,7 +16941,7 @@ diphylla 2
 dismask 1
 dovey
 dolls
-dolcinist 1
+dolcinist 2
 diarrheic 2
 dreamscape 3
 disharmony
