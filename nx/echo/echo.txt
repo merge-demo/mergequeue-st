@@ -99,7 +99,7 @@ enumerate
 earpick
 elastician
 extrudable 3
-earpiece 1
+earpiece 2
 exegesis
 equiperiodic 3
 enmarble 1
@@ -2257,7 +2257,7 @@ evenhand 1
 ethnarchies 2
 endothys
 electricize
-electriferous 3
+electriferous 4
 energumen 2
 epilating 1
 extortions 2
@@ -2834,7 +2834,7 @@ elephantiasis 1
 elymi 1
 eliza 2
 extrarhythmical 3
-evangelized 3
+evangelized 4
 eosins 4
 exrupeal 2
 europhium 2
@@ -3105,7 +3105,7 @@ euectic 2
 eastermost 2
 elmwood
 exudations 1
-eyewash 2
+eyewash 3
 empennage 1
 equiangularity 4
 epicalyces 2
@@ -12822,7 +12822,7 @@ enthusiastical 2
 epomophorus 2
 exines 1
 extensional
-exostosis 2
+exostosis 3
 exarchist 1
 exostra 1
 ebullition 3
@@ -13319,7 +13319,7 @@ expiscate 3
 effie 1
 exploiting 3
 entozoological 3
-effuso 2
+effuso 3
 exploratively 2
 ectrogeny
 eupterotidae 4
