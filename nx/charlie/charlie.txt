@@ -1755,7 +1755,7 @@ ceruse
 complexly
 cohabiter 1
 corneine 1
-calumba 3
+calumba 4
 chipped
 coloured
 calumniates 1
@@ -8237,7 +8237,7 @@ chalcogen 3
 chalcogenide
 coenaculum 1
 comas 1
-chalcography 2
+chalcography 3
 caucho
 cumbered
 corticium 1
@@ -9885,7 +9885,7 @@ contrabassoon 1
 chemoresistance 1
 chemoserotherapy
 chemosynthesis
-chemosynthetic
+chemosynthetic 1
 chemosmoses
 chemosmotic
 consumptible 2
@@ -25121,7 +25121,7 @@ cottoid
 coreligionist
 cooperancy 1
 counterspying
-calipers
+calipers 1
 colophonian
 corema
 capnodium 1
@@ -27295,7 +27295,7 @@ coalboxes 1
 camerlengos 2
 countryside
 countryward
-cutworms
+cutworms 1
 countrywoman
 clap
 countrywomen 2
@@ -30960,7 +30960,7 @@ churrs 1
 culverkey
 culvers
 cum
-cants 1
+cants 2
 coremiumia 2
 cumay 1
 currack 2
