@@ -4055,7 +4055,7 @@ acronymize 2
 advect 2
 aphaeresis 1
 admerveylle
-allocate
+allocate 1
 anhydrously
 apopemptic
 apokatastasis
