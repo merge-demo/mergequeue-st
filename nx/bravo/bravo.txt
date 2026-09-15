@@ -1213,7 +1213,7 @@ bronchially 3
 bloop 1
 bakeoven 4
 blennostatic 1
-bakeress 1
+bakeress 2
 blenniidae
 besigh
 bootloader 1
@@ -1853,7 +1853,7 @@ blackjacking
 billycans 3
 bioelectrical 2
 bancha 1
-bivial 2
+bivial 3
 beslime 4
 bullose 2
 bialystoker 2
@@ -4180,7 +4180,7 @@ bradypus 1
 beastling 1
 bullswool
 beastlings 2
-bulgy
+bulgy 1
 beastman 1
 barracoutas 1
 beastship
@@ -12126,7 +12126,7 @@ boldfacedness 1
 boldfacing 3
 bewitchments
 bleb 2
-boldhearted 1
+boldhearted 2
 beg 1
 bultey 1
 beloid 3
@@ -15875,7 +15875,7 @@ balu 1
 brecciated 5
 backcloth 2
 boullework
-brombenzamide
+brombenzamide 1
 ballottable 1
 bumboats 1
 brevetted
@@ -16582,7 +16582,7 @@ boomers
 bubales
 bandwork
 beefish 2
-bubals 1
+bubals 2
 belling 2
 bubastid 1
 bracingness 1
