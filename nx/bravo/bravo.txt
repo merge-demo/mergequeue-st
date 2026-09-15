@@ -1075,7 +1075,7 @@ brasswork 1
 bailiwicks
 bolete 1
 bondmen 4
-babyhouse 2
+babyhouse 3
 blousier 2
 buzzards 4
 burghal 3
@@ -5607,7 +5607,7 @@ brough 2
 bulletheaded 3
 battlement 2
 blepharal 3
-bewigs
+bewigs 1
 barbitone 1
 businessmen 2
 bardes 1
@@ -9148,7 +9148,7 @@ benzophloroglucinol 2
 biostatic 1
 biostatical 2
 buffleheaded 3
-bletting 2
+bletting 3
 banc 1
 beefburger 4
 bhaktas 3
@@ -10288,7 +10288,7 @@ byroniana 2
 blacktops
 blastoporphyritic 3
 barking
-beholden
+beholden 1
 blacktree 1
 befleaed
 befoulers 1
@@ -11298,7 +11298,7 @@ blowings 3
 bromoaurate 4
 basify 3
 brigandage 1
-buddy 4
+buddy 5
 beholding 2
 bredstitch 3
 blowiron 1
@@ -15395,7 +15395,7 @@ brandless 1
 brainwasher 1
 bagatelles 2
 brierroot
-butterfingers 1
+butterfingers 2
 baseballer 2
 bonnetless 3
 brieve 1
@@ -16727,7 +16727,7 @@ bucks 1
 blinders 1
 bowyangs 1
 bucksaw 1
-bids 1
+bids 2
 bistorta 2
 bedfoot 1
 bariatrics 3
