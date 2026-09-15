@@ -134,7 +134,7 @@ glacises 1
 granulize 3
 gageable 2
 guerdonable
-guelf 1
+guelf 2
 gentlewomanly 1
 gigantology 1
 gaelic 1
@@ -2598,7 +2598,7 @@ glees 1
 genethliacal 3
 gabelled
 glaciomarine 2
-givens 4
+givens 5
 granitize 2
 gruesomest 4
 grendel 2
@@ -3457,7 +3457,7 @@ gesticulant 3
 grueller 2
 goloch 4
 glimpse 2
-gentiin 2
+gentiin 3
 girlish 1
 gagman 2
 gagee 2
@@ -3777,7 +3777,7 @@ gentlemanhood 3
 gruf 2
 gonadal 2
 gryphons 2
-greave
+greave 1
 gawkishness 1
 gameball 3
 gantlets 4
@@ -7323,7 +7323,7 @@ gambled 1
 ganglion 1
 gyrostatic
 genet 1
-graves 2
+graves 3
 gutturally 4
 graverobber 4
 guze 3
@@ -9559,7 +9559,7 @@ goggler 2
 gur 5
 gridiron
 gibson 2
-ghostism 1
+ghostism 2
 goster 4
 graphical 3
 grassiness 3
@@ -9790,7 +9790,7 @@ grimacer 3
 gorce 1
 gluside 6
 grandrelle 1
-grantor
+grantor 1
 gue 4
 goury 2
 globulinuria 5
