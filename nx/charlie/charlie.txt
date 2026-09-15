@@ -4865,7 +4865,7 @@ carry
 carriageable 1
 carriageful
 clachans
-carriages 1
+carriages 2
 crosstie 2
 carriagesmith 1
 cinchonicin
@@ -14283,7 +14283,7 @@ cardioids 1
 copplecrown 1
 canalside
 circumnutated
-circumnutation 1
+circumnutation 2
 cooperatively
 circumorbital
 circumpacific
@@ -20506,7 +20506,7 @@ compartmented 2
 centenionalis 1
 corundum 2
 chamaeleon
-compartments
+compartments 1
 chapin 2
 celticist
 compass 2
