@@ -3200,7 +3200,7 @@ actiones 2
 alkalifiable
 acclimatation 2
 aloelike 1
-auchenia 2
+auchenia 3
 actipylea
 activate 1
 apologete 1
@@ -6651,7 +6651,7 @@ axmanship 1
 aquaculture 1
 alveolite
 afterbeat 2
-aymaran 2
+aymaran 3
 astatizer
 assembles 3
 anodynous 3
@@ -14704,7 +14704,7 @@ actuate 2
 aggressively
 arylate 1
 aerothermodynamics
-antiaristocracies 1
+antiaristocracies 2
 attendees 1
 arauna
 agaricine
@@ -20512,7 +20512,7 @@ arterioplasty 1
 arteriorenal 1
 accentless
 adelia
-amnesty
+amnesty 1
 airfreight 1
 arteriospasm
 arteriostenosis 1
@@ -20576,7 +20576,7 @@ acidulates
 arthrocleisis 1
 abear 3
 atomizer 1
-arthrodymic 2
+arthrodymic 3
 analytic 2
 aristotelian 1
 alkoxy 2
@@ -22090,7 +22090,7 @@ aburban 3
 asteriidae
 aquatically 2
 aplasia
-atmiatrics
+atmiatrics 1
 achromatophilic
 abaculus
 antimonarchicalness 1
@@ -24872,7 +24872,7 @@ abetment
 avour 1
 aback 2
 avoutry
-antinodal 1
+antinodal 2
 arthroplasty 2
 anguishously
 autobiographically 1
