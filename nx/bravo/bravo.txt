@@ -1232,7 +1232,7 @@ bakli
 baymen 1
 boches 2
 biscot 2
-bearhide 4
+bearhide 5
 balloting 1
 bakra
 bruchus 2
@@ -2261,7 +2261,7 @@ ballism 3
 bridgebote 3
 barrancas 1
 barbarianizing 2
-bandog
+bandog 1
 barbarically 1
 blandiloquous 1
 barbequing 4
@@ -5530,7 +5530,7 @@ bejant 2
 blintz 1
 bejel
 brawly 2
-babist 4
+babist 5
 broth 1
 breeziest 1
 bandsawing 2
@@ -5998,7 +5998,7 @@ bruises 3
 bitterbark 2
 bemean
 biphenyls 2
-bementite
+bementite 1
 bemete 1
 bimillennia
 busybodies 2
@@ -12939,7 +12939,7 @@ boothale
 baronetcies 2
 badge 1
 boccias 2
-brews
+brews 1
 bedspread 1
 bitterblain 5
 boothite 2
