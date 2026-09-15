@@ -8375,7 +8375,7 @@ factories 2
 fieldstrip 4
 forisfamiliation 2
 flashback 2
-fontlet 3
+fontlet 4
 ferrotyping 1
 firmament 1
 fatherlike 1
@@ -11399,7 +11399,7 @@ fluorindine 3
 furnishable 3
 fluoroformol
 frontirostria 2
-forgiveably 3
+forgiveably 4
 footballer 7
 farceuse 3
 fleak 1
