@@ -69,7 +69,7 @@ faceharden 2
 flagships 2
 flecken 2
 facellite 3
-ferrocyanide 4
+ferrocyanide 5
 furthers 1
 flysch
 fordeal 4
@@ -6603,7 +6603,7 @@ fissileness 1
 fascioliasis 2
 feelies 1
 flagrante 1
-frogfish 9
+frogfish 10
 forestaffs 3
 forecondemn
 forfending 4
@@ -7501,7 +7501,7 @@ fourbagger 1
 fluellin 3
 fillip 2
 fogou 2
-freenesses 3
+freenesses 4
 foreassurance 3
 forecabin 1
 feedingstuff
@@ -8041,7 +8041,7 @@ fiz 2
 feist 1
 finicality 3
 fontina 1
-fellmongered 2
+fellmongered 3
 forestage 2
 fares 3
 frivolled 1
