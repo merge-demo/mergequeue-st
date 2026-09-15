@@ -3200,7 +3200,7 @@ actiones 2
 alkalifiable
 acclimatation 2
 aloelike 1
-auchenia 2
+auchenia 3
 actipylea
 activate 1
 apologete 1
@@ -3891,7 +3891,7 @@ adipocellulose 1
 arrayer 1
 adipocere
 adipoceriform
-adipoid 2
+adipoid 3
 angiology 1
 amati 1
 aziola 1
@@ -13712,7 +13712,7 @@ anoint 4
 arthritism 2
 aerialist 2
 attern
-anointment 2
+anointment 3
 autodidacts
 anointments 2
 articulation 2
@@ -20576,7 +20576,7 @@ acidulates
 arthrocleisis 1
 abear 3
 atomizer 1
-arthrodymic 2
+arthrodymic 3
 analytic 2
 aristotelian 1
 alkoxy 2
@@ -22303,7 +22303,7 @@ abdomen
 agencies 2
 alecize 1
 acetamidine
-astream 3
+astream 4
 adamically 1
 astrictive
 astrictively
@@ -24405,7 +24405,7 @@ autosyn
 alluded 1
 auksinai 1
 autosyndesis 1
-appreciable 1
+appreciable 2
 antisuffragist 1
 autostyly 2
 asinegoes
