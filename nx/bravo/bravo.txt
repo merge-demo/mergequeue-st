@@ -1951,7 +1951,7 @@ broiled 2
 bandolerismo 1
 buckayros
 bandoleros 1
-barouche 1
+barouche 2
 bandor 1
 baaskaap 2
 bescribbled
@@ -2291,7 +2291,7 @@ bedizens 2
 butted 1
 bummil 1
 breeziness
-burgherdom
+burgherdom 1
 bindoree 2
 befuddle 2
 broadsheet 1
@@ -6417,7 +6417,7 @@ barquentine 2
 benzopyrene
 benzopyrylium 2
 backcourt 1
-breastweed
+breastweed 1
 bluestem 2
 benzoquinoxaline 2
 balau 1
@@ -6850,7 +6850,7 @@ bigener 1
 buicks 1
 bioluminescent 1
 bescourge 3
-buckeroos 3
+buckeroos 4
 bust 2
 bescramble 1
 bescreen 1
@@ -10013,7 +10013,7 @@ broody 1
 barbell 3
 bn 3
 baroscopical 1
-bargainor 1
+bargainor 2
 biverb 1
 beblear 1
 barging 1
@@ -10083,7 +10083,7 @@ biblos 1
 bizz 1
 bluecoats 1
 bjorne
-bk
+bk 1
 brazilein 3
 bkg 1
 backsey
