@@ -18602,7 +18602,7 @@ duskness
 dust 3
 delphian 1
 dustbins
-distance
+distance 1
 dustcover 2
 diatonicism 1
 dustee 3
