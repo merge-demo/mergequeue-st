@@ -7049,7 +7049,7 @@ cutup
 chumpivilca 1
 centerboard 2
 centerer
-centerfold
+centerfold 1
 coofs 1
 chelators 2
 colonus
