@@ -13512,7 +13512,7 @@ cylindriform 1
 calpack
 colure 2
 cylindrocylindric
-choleric
+choleric 1
 curiatii 3
 counterfeiter
 coughroot 1
