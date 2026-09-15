@@ -580,7 +580,7 @@ cadre 1
 cyanomaclurin
 cadres 1
 ciconiiform
-councilors 3
+councilors 4
 convokes 1
 colloque 2
 confort
@@ -9040,7 +9040,7 @@ charmingest 2
 chepster
 charmingness
 coleoptile
-charmless
+charmless 1
 charmlessly 1
 clodlike 2
 charmonium
@@ -19387,7 +19387,7 @@ compunctiously
 coloraturas
 carnivoracity 1
 colorature
-colorblind 1
+colorblind 2
 cavallas 1
 cartomancies 1
 colorcasting 1
@@ -22377,7 +22377,7 @@ congresswomen 1
 congridae
 centigramme 1
 crescent
-cyclothymia
+cyclothymia 1
 cyclopedist
 cistaceous 1
 congruence
@@ -28971,7 +28971,7 @@ cricketlike
 coercibility 2
 crickle 1
 chandrakanta 1
-charlatanical 1
+charlatanical 2
 cricoarytenoid 1
 catercorner 2
 cheilotomy 3
