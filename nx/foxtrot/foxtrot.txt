@@ -1221,7 +1221,7 @@ fastbacks 3
 flagman 3
 faradism 3
 futteret 4
-fama 5
+fama 6
 favella 4
 forevouch 3
 footwall 4
@@ -3040,7 +3040,7 @@ forensical
 felstones 3
 friendlies 4
 fibbers 2
-foremelt 4
+foremelt 5
 fustin 2
 fiber 2
 fiberizes 1
@@ -3777,7 +3777,7 @@ fortranh 3
 fiberware 2
 forebridge 3
 filmland 3
-filmmake 4
+filmmake 5
 filmogen 4
 fulah
 festooning 1
@@ -3991,7 +3991,7 @@ futchel 1
 forlay 3
 flunk 6
 ferric 2
-furazolidone 3
+furazolidone 4
 fender 5
 fluorosis 2
 fumblers 2
@@ -6456,7 +6456,7 @@ folkcraft 1
 featliness 1
 frenchize 3
 fordy 3
-fellatrix
+fellatrix 1
 forsar 4
 flurn 3
 flurried 2
@@ -10270,7 +10270,7 @@ frankeniaceae 3
 fortuitousness 1
 fluorescigenous 1
 fleshly 3
-fluidally
+fluidally 1
 fadedness 1
 fibrillations 3
 flakers 3
