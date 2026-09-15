@@ -4691,7 +4691,7 @@ aedicule 1
 attraction 1
 autem 1
 aedile
-adject
+adject 1
 archibald 1
 aediles 2
 aknee 2
