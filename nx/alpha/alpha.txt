@@ -4297,7 +4297,7 @@ aggenerate
 armorer
 autotomize 2
 alchornea 1
-aesculapius 1
+aesculapius 2
 anomaloflorous 1
 assubjugate 1
 annoyful
@@ -6475,7 +6475,7 @@ apneas 1
 antidynastically 1
 att 1
 aguamiel 1
-aguavina
+aguavina 1
 actinologous 1
 agudist
 arsonite 1
@@ -19841,7 +19841,7 @@ affenspalte
 armiferous 2
 agnoetism 1
 agnoetae 1
-abhenries
+abhenries 1
 armiger 1
 aweto 3
 armigeros 2
@@ -23797,7 +23797,7 @@ avianization 1
 achieved 1
 ashplant 1
 archeozoic 2
-ablepharous 4
+ablepharous 5
 aspish 1
 alcogel
 atwixt

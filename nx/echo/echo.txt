@@ -1468,7 +1468,7 @@ electivism 3
 electroshocks 3
 exposal 1
 embolium
-embarrased 5
+embarrased 6
 empathic 3
 epizootically 1
 effused
@@ -7748,7 +7748,7 @@ excitative 1
 entassment 3
 enlighteningly 3
 emblematic 2
-electropneumatic 2
+electropneumatic 3
 expectably 2
 elementality
 encyclopaedize 2
@@ -10338,7 +10338,7 @@ ethnohistoric 1
 equinox 3
 elephantine 2
 enquired 1
-explain
+explain 1
 etwite 1
 electrometallurgical 3
 ethnolinguist 3
@@ -10867,7 +10867,7 @@ euphotic
 entailable 3
 eradicatory 1
 equitability 5
-eructation 1
+eructation 2
 ereption 2
 euphemian 3
 electrolyzed 2
