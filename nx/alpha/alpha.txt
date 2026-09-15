@@ -1752,7 +1752,7 @@ accursedness
 aborter
 aarrgh
 accurst 1
-authorisable
+authorisable 1
 actinotherapy
 animadvert 1
 accusants 1
@@ -1906,7 +1906,7 @@ awn 1
 antitabetic 1
 avalent 3
 acerval 2
-aggressions
+aggressions 1
 antiphysic 1
 acervate
 acervulus 1
@@ -3595,7 +3595,7 @@ auricles 2
 adducible 3
 ampelideous
 artiodactylous 2
-adducted
+adducted 1
 adducting 2
 aides
 ataxiagram 1
@@ -3949,7 +3949,7 @@ angoumian 1
 agaphite 1
 adjoinedly 1
 aryanize 1
-analphabetism 1
+analphabetism 2
 apprises
 adjoiner 3
 allioniaceae 1
@@ -8072,7 +8072,7 @@ alectrionidae 2
 alexis 1
 admirations 2
 alexius
-atramentary 2
+atramentary 3
 aramaicize
 alleging 2
 antimoniureted 1
@@ -8463,7 +8463,7 @@ alkalinities 2
 abactor 2
 aesthesics
 augmentations 1
-angiography 1
+angiography 2
 archology 3
 aftercost 1
 abiegh 1
@@ -11566,7 +11566,7 @@ ajaja 1
 anabaptists
 adenocele 1
 acrospore
-anabases
+anabases 1
 archaeopteryx
 ageists 2
 alfakis
@@ -13840,7 +13840,7 @@ amidoacetic 1
 averred 1
 anorectous 2
 athrill
-anorexy
+anorexy 1
 alloxyproteic
 anorexics 2
 adonidin 1
@@ -15527,7 +15527,7 @@ antimystic 1
 antimystical 1
 antimystically 1
 apathic
-antimysticalness
+antimysticalness 1
 aeroduct
 antimysticism
 antimixing 1
@@ -17252,7 +17252,7 @@ albuminiform 1
 apophlegmatic 1
 aurure 1
 akazgin 1
-atop
+atop 1
 arthroclisis 1
 anesthesis 1
 alsbachite 1
@@ -20364,7 +20364,7 @@ amyous 1
 admeasure
 apostolicalness 3
 arcsines 1
-antonymic 2
+antonymic 3
 anticorrosives
 autoradiography
 authenticators 2
@@ -25228,7 +25228,7 @@ antecessor 1
 axwort
 acquirable
 antiliturgical 3
-azadrachta 1
+azadrachta 2
 aromatizer
 antirrhinum 3
 azafran 2
