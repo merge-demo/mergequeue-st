@@ -8282,7 +8282,7 @@ electrodeposit 2
 enciphers 2
 elev
 endured 2
-enchannel
+enchannel 1
 exercised 2
 emulating 5
 eagling
