@@ -3647,7 +3647,7 @@ dunt 1
 deglutition 2
 deglutitious 3
 degold
-decathlon
+decathlon 1
 disinhibition 2
 decomposite 4
 dysteleological 1
@@ -5694,7 +5694,7 @@ divergenge
 deoxidiser 1
 demonland 1
 depoetize 2
-dithers 2
+dithers 3
 diallel 1
 deconsider 2
 depoh 1
@@ -8690,7 +8690,7 @@ dismayed 2
 diphtherotoxin 1
 dolesomely 4
 dehumanized
-diastomatic
+diastomatic 1
 depicts 2
 davyne 2
 diastral
@@ -9428,7 +9428,7 @@ digamy 3
 disobeyal 2
 digamies
 divekeeper
-displume
+displume 1
 deglut 1
 destructively 3
 digamma 2
@@ -9558,7 +9558,7 @@ dignifiedness
 delatinization 2
 drachm 1
 departisanize 1
-diastrophically 1
+diastrophically 2
 deglazes 1
 dignitary 2
 dignitarian 1
@@ -13354,7 +13354,7 @@ deceitful 1
 disputer 3
 definitising 2
 dorsally
-dysorexy 2
+dysorexy 3
 detainees 1
 discerns 2
 desanding 2
@@ -18584,7 +18584,7 @@ ditchdigger 3
 dusky 1
 dessil
 dozer 1
-derivatively 4
+derivatively 5
 dapico 4
 duikers
 disproportionable
