@@ -31,7 +31,7 @@ berreave 2
 berline 1
 babbittry 2
 biplosion 1
-brachydomal
+brachydomal 1
 bodleian
 begowned 1
 brutalizes 2
@@ -505,7 +505,7 @@ bridely 2
 blathering 3
 backstitch 1
 bahoo
-blumed 1
+blumed 2
 biserial 1
 barbels 2
 billhead 3
@@ -4982,7 +4982,7 @@ benweed 2
 beylik 3
 bemoaning 1
 breastheight 1
-beerhouse 1
+beerhouse 2
 beerhouses
 breech 1
 breastband 3
@@ -9539,7 +9539,7 @@ baffeta 1
 births 1
 birthstones
 bulliform 1
-birthstool 1
+birthstool 2
 birthwort
 bitnet 1
 buttonbush
@@ -10913,7 +10913,7 @@ bismuth 1
 bassus 2
 butterbush 3
 blindfoldedness 1
-birdied
+birdied 1
 brioche 3
 bemoon 3
 blinding 1
@@ -17822,7 +17822,7 @@ brachistocephalous 2
 backbit 1
 boddle 2
 bawdship 2
-bunkerman 5
+bunkerman 6
 bursiculate 1
 bursitis 1
 bestialise
