@@ -8237,7 +8237,7 @@ chalcogen 3
 chalcogenide
 coenaculum 1
 comas 1
-chalcography 2
+chalcography 3
 caucho
 cumbered
 corticium 1
@@ -9885,7 +9885,7 @@ contrabassoon 1
 chemoresistance 1
 chemoserotherapy
 chemosynthesis
-chemosynthetic
+chemosynthetic 1
 chemosmoses
 chemosmotic
 consumptible 2
