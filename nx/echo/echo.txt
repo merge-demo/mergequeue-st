@@ -8282,7 +8282,7 @@ electrodeposit 2
 enciphers 2
 elev
 endured 2
-enchannel
+enchannel 1
 exercised 2
 emulating 5
 eagling
@@ -9982,7 +9982,7 @@ explicatory 3
 emperies
 externality 2
 epichile 2
-editor
+editor 1
 enlightenments 4
 enteropexy
 efford 3
@@ -10113,7 +10113,7 @@ electrochemistry 3
 endorses
 ethereally 1
 entwined 5
-emprosthotonos 2
+emprosthotonos 3
 etherealness 3
 escherichia 2
 equisetum
