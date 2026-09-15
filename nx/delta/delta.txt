@@ -6704,7 +6704,7 @@ dropforge 3
 desideration 2
 deoxidant 2
 desiderative 2
-disenthrall
+disenthrall 1
 drunkard 1
 disorganize 1
 disorderliness 1
@@ -7682,7 +7682,7 @@ deviationism 1
 diting 3
 disunified 2
 deviations 1
-decongestants
+decongestants 1
 dusting 2
 deviatory 1
 discission 1
@@ -10693,7 +10693,7 @@ diaculum
 depit 1
 dipping 2
 depersonalizing
-dentes
+dentes 1
 dippings 2
 draff 2
 dipppier 1
@@ -12624,7 +12624,7 @@ disjunctively 1
 deseed 3
 dibble 2
 disembodying 1
-delimitizing 3
+delimitizing 4
 diskelion 2
 downers 2
 dysury 3
