@@ -5303,7 +5303,7 @@ chiaroscuros 1
 charterage 2
 cassimere 2
 creamiest 2
-caurus 2
+caurus 3
 cassina 2
 corymbed 1
 cassinian 1
@@ -14644,7 +14644,7 @@ concomitancy 2
 cystopyelitis
 coquelicot 3
 cystoplegia 2
-cystoproctostomy
+cystoproctostomy 1
 cystopteris
 cystoptosis 1
 cystopus 2
@@ -26778,7 +26778,7 @@ cramberry
 cerophilous 1
 corporealness
 counterconditioning 4
-countercoupe
+countercoupe 1
 countercourant
 countercry 1
 countercriticism 1
