@@ -2864,7 +2864,7 @@ feltyfare 2
 fisty
 finable 5
 foresails 3
-figworm 1
+figworm 2
 fungid 2
 familistery 1
 fettered 2
@@ -5810,7 +5810,7 @@ fructicultural 2
 furyl 3
 fumeroot 2
 fastigium 3
-foreswearing 3
+foreswearing 4
 filmer 2
 flittermouse 2
 fellowship 1
@@ -7057,7 +7057,7 @@ fulfilment 1
 frasco 5
 fimbriae 2
 functioning 3
-foodful 4
+foodful 5
 forniciform 4
 functionals 2
 fribby 2
@@ -8530,7 +8530,7 @@ formica 4
 foolishly 4
 forewings 2
 fasciculate 3
-furloughed 3
+furloughed 4
 fitty
 formicate 1
 filix 2
@@ -9221,7 +9221,7 @@ foreclosing 1
 foreteller 1
 fracturing 1
 federarie
-flock
+flock 1
 filicide 1
 frenchiness
 foolify 1
@@ -10780,7 +10780,7 @@ forgotten 1
 foots 2
 falafel 4
 frustum 5
-faithlessly 4
+faithlessly 5
 footraces 4
 fumaryl 1
 folious
@@ -11054,7 +11054,7 @@ foresights 2
 fora 2
 filiferous 3
 frontignac 2
-fraction 3
+fraction 4
 fumarate 1
 fantasizing 2
 flammulated 2
