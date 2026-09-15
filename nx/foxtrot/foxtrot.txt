@@ -1396,7 +1396,7 @@ firewood 1
 futchell 2
 forbar 1
 ferreted 3
-fattest 1
+fattest 2
 finickin 3
 floorer 1
 follow 3
@@ -3870,7 +3870,7 @@ forfit 1
 flabbergastingly 2
 flashlamps 1
 finaglers 2
-finalization
+finalization 1
 futile 2
 filleting 1
 feckless
@@ -8496,7 +8496,7 @@ fulminous 4
 fuliginousness 3
 francomania 3
 fuze 3
-formating 2
+formating 3
 fittily 3
 fag 2
 foxes 5
@@ -9923,7 +9923,7 @@ fogeys 2
 forepointer 1
 flapdragon 4
 feridgi 8
-forefelt 2
+forefelt 3
 feterita 3
 fluviomarine 5
 fosh
