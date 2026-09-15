@@ -2040,7 +2040,7 @@ cyclophoric
 cognominally 1
 camisole
 cautela
-cosmolabe 1
+cosmolabe 2
 chlamydobacteriaceae
 camla
 camlet 2
@@ -11043,7 +11043,7 @@ chiseller
 chiselly
 chisellike
 chiselling
-coevolvedcoevolves
+coevolvedcoevolves 1
 collectable
 chiselmouth 2
 chisels
@@ -13598,7 +13598,7 @@ cimbrian 1
 cotsetle 4
 conferted 3
 cimbric
-cyme
+cyme 1
 cymelet 2
 cimelium 1
 cymenes
@@ -13994,7 +13994,7 @@ curneys 2
 congees 2
 cyphella 5
 cypher
-cipherdom 1
+cipherdom 2
 causeur 1
 cyphered 2
 cipherhood
@@ -27884,7 +27884,7 @@ concerting
 crabeating 1
 canchas
 craber 2
-crablet 1
+crablet 2
 crablike 1
 chromidial 2
 crabman 1
