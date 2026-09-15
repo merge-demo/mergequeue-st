@@ -69,7 +69,7 @@ faceharden 2
 flagships 2
 flecken 2
 facellite 3
-ferrocyanide 4
+ferrocyanide 5
 furthers 1
 flysch
 fordeal 4
@@ -7501,7 +7501,7 @@ fourbagger 1
 fluellin 3
 fillip 2
 fogou 2
-freenesses 3
+freenesses 4
 foreassurance 3
 forecabin 1
 feedingstuff
@@ -8652,7 +8652,7 @@ faradisms 2
 flappiest 1
 farmyard 5
 forescript
-floury
+floury 1
 fluotantalic 1
 futility 2
 foredid 3
@@ -9076,7 +9076,7 @@ flaxwort 4
 fustian
 fractus 3
 fusinite 1
-forwork 2
+forwork 3
 fricassee 6
 fiendship
 flintified 6
