@@ -4008,7 +4008,7 @@ believer
 beacons 1
 buoyancy 4
 beadeye 3
-beader
+beader 1
 bellmaker 3
 barnhardtite 2
 beerothite
@@ -6295,7 +6295,7 @@ benthoses 1
 bacteriolysin
 backwashes 2
 blockhouses 3
-blastie
+blastie 1
 bunomastodontidae 2
 backgrounds 1
 bentonite 2
@@ -13113,7 +13113,7 @@ bodyguard 2
 borid 3
 bacterioscopist 2
 bromisation 2
-bastinaded
+bastinaded 1
 blowzier 2
 basilics 2
 brahui 2
@@ -13148,7 +13148,7 @@ boroglycerine 2
 bilgy 6
 borophenylic 1
 bororoan 1
-beadman 3
+beadman 4
 bube 2
 brucite 1
 borosalicylic 5
@@ -13280,7 +13280,7 @@ bostanji 2
 bosthoon 1
 banderillas 1
 bipont 1
-branchstand
+branchstand 1
 barman 1
 bludge 2
 bargello 2
@@ -15360,7 +15360,7 @@ brailled 2
 benzidine 1
 beefily 2
 brahmanists
-bridie 1
+bridie 2
 broughta
 bridle 4
 blackpot 4
@@ -15617,7 +15617,7 @@ briss 1
 backwoodsman 1
 blastomycete 3
 bolsterer 1
-brist 1
+brist 2
 bombproof 1
 bavarian
 biomagnetism 5
@@ -15922,7 +15922,7 @@ broadband 4
 beswim 2
 behest
 bendell 4
-breezing 1
+breezing 2
 beice 1
 bodysurfing 1
 broomball

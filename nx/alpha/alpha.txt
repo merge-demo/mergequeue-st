@@ -3200,7 +3200,7 @@ actiones 2
 alkalifiable
 acclimatation 2
 aloelike 1
-auchenia 2
+auchenia 3
 actipylea
 activate 1
 apologete 1
@@ -13712,7 +13712,7 @@ anoint 4
 arthritism 2
 aerialist 2
 attern
-anointment 2
+anointment 3
 autodidacts
 anointments 2
 articulation 2
@@ -17878,7 +17878,7 @@ arenose 2
 agisms 2
 athrepsia 1
 anoxemic 1
-arcs
+arcs 1
 apprenticement 1
 agnostic
 apprenticeships 2
@@ -19883,7 +19883,7 @@ avenaceous 1
 antiliberalism
 armyworms
 armlets 1
-aiguellette 1
+aiguellette 2
 asymbiotic 1
 aeolis
 armlike 1
@@ -20576,7 +20576,7 @@ acidulates
 arthrocleisis 1
 abear 3
 atomizer 1
-arthrodymic 2
+arthrodymic 3
 analytic 2
 aristotelian 1
 alkoxy 2
@@ -22944,7 +22944,7 @@ adless 2
 anteriorly 1
 azobenzoic
 apis 1
-alose
+alose 1
 atria 1
 assigns
 atalayas
@@ -24405,7 +24405,7 @@ autosyn
 alluded 1
 auksinai 1
 autosyndesis 1
-appreciable 1
+appreciable 2
 antisuffragist 1
 autostyly 2
 asinegoes
