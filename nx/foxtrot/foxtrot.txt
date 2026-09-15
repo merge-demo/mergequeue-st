@@ -4376,7 +4376,7 @@ flagged 2
 frenums 1
 fishbowls 3
 forky 3
-fisheyes 4
+fisheyes 5
 forecomingness 2
 fistify 4
 funiculitis 5
@@ -7662,7 +7662,7 @@ flustroid 2
 forefinger 5
 figary 2
 fritillaries 1
-foreimagination
+foreimagination 1
 flashlike 2
 foregift 2
 feyness 3
@@ -7762,7 +7762,7 @@ foremast 4
 fritters 1
 fidicula 3
 franciscanism
-fisticuffery 5
+fisticuffery 6
 forbiddenly 5
 favillous 4
 flabelliform 1
@@ -8426,7 +8426,7 @@ frass
 foot 4
 framers 2
 ferried 3
-flusterating
+flusterating 1
 fiddlerfishes 2
 firmans 1
 floppy 3
@@ -11475,7 +11475,7 @@ fiction 3
 furcately 3
 fissury 2
 ferntickle 1
-fin 1
+fin 2
 ferri 1
 foliolose 3
 freelancing 3
