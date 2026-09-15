@@ -1116,7 +1116,7 @@ beneficency
 budges 3
 bastiles
 bairn 3
-bypassed
+bypassed 1
 bransolder
 bromius 3
 barless 3
@@ -3179,7 +3179,7 @@ balanopsidales 2
 baka
 bilabial 2
 baptisin 2
-bataleur 2
+bataleur 3
 bashmuric 2
 bridled 1
 biperforate 2
@@ -6926,7 +6926,7 @@ balms 2
 balky 2
 beshaming 2
 beshivered 1
-bariolage 1
+bariolage 2
 beshouting 1
 broadleaf 2
 baradari

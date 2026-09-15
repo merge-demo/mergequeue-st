@@ -2432,7 +2432,7 @@ dendritiform
 denizenize 2
 disimprisonment 2
 dissipable 2
-dietetist 2
+dietetist 3
 designs
 decyne
 drydenian 4
@@ -3177,7 +3177,7 @@ distaff 1
 doltishness 2
 duelling 4
 depolarizes 2
-dimitting 2
+dimitting 3
 defectless 1
 declaratives 1
 defectlessness 1
@@ -10902,7 +10902,7 @@ detache
 dobsonflies
 droplike 1
 diclytra 1
-disunionism 1
+disunionism 2
 disaccustomedness 2
 draymen
 dromioid 2
@@ -14848,7 +14848,7 @@ documentable 1
 documental 2
 delimer 2
 dactylose 3
-decrepid
+decrepid 1
 disgregating 2
 disnatural
 dimmers 3
