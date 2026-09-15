@@ -2071,7 +2071,7 @@ bicollaterality 1
 bankrolled
 babelism 2
 bankrolling
-bankrupt 4
+bankrupt 5
 bosporan 2
 bibliomaniacal 2
 blurping 1
@@ -3232,7 +3232,7 @@ bedights 2
 bathtub 2
 blatters
 barkpeel 2
-basigynium 3
+basigynium 4
 basilarchia
 beware 1
 blotchily 2
@@ -4727,7 +4727,7 @@ bedlamite 1
 brulyiement
 bastardization
 bedlamitish 2
-bedub 4
+bedub 5
 bovid 2
 bibliogenesis 1
 bedewing 2
@@ -8402,7 +8402,7 @@ bijasal
 bijections 2
 bree 3
 bijou 1
-bhandar
+bhandar 1
 bubs 1
 burbankian 3
 bannerfish 1
@@ -9204,7 +9204,7 @@ biotome
 brothered 2
 biotransformation 1
 birdnest 1
-biotron
+biotron 1
 beauetry
 bipalmate 2
 booed 3
@@ -11904,7 +11904,7 @@ boron 1
 boatlip 1
 borgh 3
 benic
-bockey
+bockey 1
 bloodleaf 2
 bench 1
 blitzing 4

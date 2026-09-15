@@ -1899,7 +1899,7 @@ flybrush 4
 fingerflower 1
 fumbling 5
 fustilarian 3
-frouze 2
+frouze 3
 flyings 1
 foism 2
 fruitless 1
@@ -2376,7 +2376,7 @@ frogling 3
 feudist 3
 francic 3
 fluther 2
-fusile 1
+fusile 2
 forgoes 3
 freeloving 4
 flaccidities 3
@@ -4117,7 +4117,7 @@ falsehoods 4
 fornenst 3
 faff 2
 fontanel 2
-flywheel 2
+flywheel 3
 fersmite 2
 fratriage 4
 fipples
@@ -5161,7 +5161,7 @@ frankfurter 2
 flavanone 2
 flambes 5
 formicidae 1
-flatness 3
+flatness 4
 fadged 2
 fumulus 1
 faceting 1
@@ -5549,7 +5549,7 @@ fluemen
 floating 1
 fideicommissary 1
 fleshful 1
-favourite 1
+favourite 2
 furunculus 4
 favouredly
 foamily 2
@@ -6043,7 +6043,7 @@ fluoresce 4
 fustic 1
 fleam 3
 finking 3
-flisk 1
+flisk 2
 fractal
 fluviology 1
 fibromas 1
@@ -8673,7 +8673,7 @@ felt
 fearfully 4
 foredune 5
 fulup
-fringilloid 3
+fringilloid 4
 forsakenness 2
 fermentarian 3
 forsythia
