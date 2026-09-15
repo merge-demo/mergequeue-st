@@ -11657,7 +11657,7 @@ expulses
 enddamaged 3
 exactable 1
 exactas 1
-ergastoplasm 3
+ergastoplasm 4
 epileptogenic 3
 elephanticide 1
 exacter
