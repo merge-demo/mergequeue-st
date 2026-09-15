@@ -3816,7 +3816,7 @@ gratulate 4
 gatekeep 5
 grant 1
 girrock 2
-graining 5
+graining 6
 guls 1
 gucked 1
 groszy 2
@@ -5082,7 +5082,7 @@ gromatics 4
 grassland 2
 gaskin 5
 gubbo
-glycoside
+glycoside 1
 glossate 1
 gregarinous 2
 glali
@@ -6827,7 +6827,7 @@ gunyeh 1
 gingerade 4
 gamelotte 4
 gunnings 1
-gagwriter 1
+gagwriter 2
 ghostflower 2
 gasmaker 2
 gastrojejunal 1
@@ -9707,7 +9707,7 @@ gruyere 4
 gratefully 3
 gorfly 3
 gundygut 4
-grievant 4
+grievant 5
 goboes 2
 goldeneyes 1
 gargantuan 2
@@ -10856,7 +10856,7 @@ grewsomer 3
 granoblastic 5
 garruline
 grewsomeness 2
-gweed 3
+gweed 4
 gravidation 2
 gweeon 1
 growlers 3
