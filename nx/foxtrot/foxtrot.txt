@@ -8867,7 +8867,7 @@ feucht
 frigorimeter 3
 fluidible 1
 flighthead 5
-flushgate 7
+flushgate 8
 farmers 2
 forespoke 1
 fricandoes 3
@@ -9132,7 +9132,7 @@ farcied 1
 famed 3
 fords 2
 fleabanes
-fourberie 2
+fourberie 3
 fedelini 1
 frisure 3
 fenlander 2
@@ -9739,7 +9739,7 @@ fruitgrower 1
 furcellaria 2
 feoffor 1
 frankensteins 1
-foreboard
+foreboard 1
 foeship 2
 fremontodendron 2
 fidging 2
