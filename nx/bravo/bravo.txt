@@ -1213,7 +1213,7 @@ bronchially 3
 bloop 1
 bakeoven 4
 blennostatic 1
-bakeress 1
+bakeress 2
 blenniidae
 besigh
 bootloader 1
@@ -3916,7 +3916,7 @@ breadline
 baxtone 1
 brachyskelic 2
 boughten 2
-begray
+begray 1
 bazars 1
 bint 3
 brockage
@@ -4257,7 +4257,7 @@ bishopbird
 breadths 2
 banff 3
 beautiful 1
-blowball 1
+blowball 2
 bhajan
 bonum 1
 bellhanging 2
@@ -16582,7 +16582,7 @@ boomers
 bubales
 bandwork
 beefish 2
-bubals 1
+bubals 2
 belling 2
 bubastid 1
 bracingness 1

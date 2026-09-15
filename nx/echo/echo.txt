@@ -1291,7 +1291,7 @@ excitometabolic 2
 effacers
 exhilarated
 exumbrellar 2
-effect 1
+effect 2
 endocardiac
 exopeptidase 3
 effective 2
@@ -1496,7 +1496,7 @@ experimentarian 1
 estantion 2
 empyesis 1
 endophytous 2
-egad 2
+egad 3
 elderlies 1
 encyclopediac 3
 entomophilous
@@ -2028,7 +2028,7 @@ episcope 3
 electrophorese 3
 evilly
 eudialyte 2
-elanus 1
+elanus 2
 escar 4
 enantiopathia 5
 extravenate
@@ -3630,7 +3630,7 @@ estimators 1
 emptory 6
 enddamaging 2
 equated 1
-ecocidal
+ecocidal 1
 epitrachelion 1
 eunuchism 2
 embread 2
@@ -6572,7 +6572,7 @@ esperantidist 2
 enseam 2
 expulsatory 2
 eructed 2
-execrate 4
+execrate 5
 endlichite 1
 easterliness 2
 enteroepiplocele 3
@@ -9575,7 +9575,7 @@ esophagogastroscopy 1
 esophagometer
 emotionalized 4
 enticeable 3
-eagles 1
+eagles 2
 evoked 2
 esophagoplasty 1
 enigmatic 1
@@ -11642,7 +11642,7 @@ ersatz 1
 ethnocentricity 2
 empoison 2
 exclosure 4
-emollition
+emollition 1
 exacerbates 2
 enhances 4
 enforcibility 1
@@ -11938,7 +11938,7 @@ enragement 1
 earthenware 1
 expurgation 2
 excerebration 1
-extraphysical
+extraphysical 1
 endemiology 4
 ectodactylism 5
 eudaemonistically 3

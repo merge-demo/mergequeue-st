@@ -1310,7 +1310,7 @@ dumpings 1
 diastaltic 3
 decoloured 3
 daubreite 1
-degaussing 4
+degaussing 5
 dobsons 2
 dinitro 2
 densified 2
@@ -13737,7 +13737,7 @@ dilation 2
 dejecta 2
 demulsion 3
 deadlihead 3
-diaclinal 2
+diaclinal 3
 disannex 4
 dissogeny
 doomful 1
@@ -16159,7 +16159,7 @@ desecrate 1
 deoxygenize 2
 drewite 1
 devisal
-dovening
+dovening 1
 desireless 1
 deplasmolysis 1
 declassified 2
@@ -18602,7 +18602,7 @@ duskness
 dust 3
 delphian 1
 dustbins
-distance
+distance 1
 dustcover 2
 diatonicism 1
 dustee 3
