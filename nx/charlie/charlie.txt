@@ -8303,7 +8303,7 @@ chalkone
 chalkos 2
 chalkotheke 1
 chalkpit 1
-chalkrail 1
+chalkrail 2
 circumflect
 chalkworker 2
 centriciput 1
@@ -11305,7 +11305,7 @@ chlorococcaceae 1
 cucking 1
 cologned 1
 chlorococcales 1
-coincider
+coincider 1
 coho 1
 chlorocresol
 chlorodyne 3
@@ -12698,7 +12698,7 @@ chucklers
 chuckles 1
 corta 2
 chucklesome
-chiavetta
+chiavetta 1
 corroboreed
 cymblin 1
 chucklingly
@@ -16252,7 +16252,7 @@ cornerman
 calcutta 1
 compagination
 clinohumite 1
-childermas
+childermas 1
 constringency 2
 contraindicate
 clinology 2
@@ -17765,7 +17765,7 @@ creosotic
 coviello
 cocurricular
 cocuswood 1
-carotenoid
+carotenoid 1
 codal 1
 cerebrasthenia 1
 craner 1
@@ -30371,7 +30371,7 @@ canonicalizing 1
 catalog
 collectivistic 3
 carotte 1
-crusets
+crusets 1
 calmierer 1
 cowpokes 1
 crusile
