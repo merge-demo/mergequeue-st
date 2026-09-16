@@ -1491,7 +1491,7 @@ acclimatisation 4
 affixable 2
 archaisms 2
 amortize 1
-acclimatise 4
+acclimatise 5
 acclimatiser 3
 acclimatising
 aegagrus 1
@@ -7465,7 +7465,7 @@ arthrodiae
 adnexitis
 antara 1
 albinotic
-apronful 1
+apronful 2
 aesthesis
 albion 1
 allogamies 1
@@ -9924,7 +9924,7 @@ antiroyalist
 acromiosternal 2
 acceptive 1
 amateur 2
-antidotal 1
+antidotal 2
 arietid
 amateurishness 1
 aspergillaceae
@@ -14647,7 +14647,7 @@ auditorium
 abacination
 abstractively 2
 anesthetize
-adapid
+adapid 1
 anabaptist 1
 antiadministration 2
 audiogram
@@ -17865,7 +17865,7 @@ amblers
 acquired
 apprehending 1
 antonomasy 2
-algraphy 1
+algraphy 2
 awan
 afterwash
 argininephosphoric
@@ -19381,7 +19381,7 @@ atheistical 1
 anchoretical 2
 administratrix
 amuser
-argentan 1
+argentan 2
 axisymmetry 1
 autochrome 1
 anacrisis 1
@@ -19883,7 +19883,7 @@ avenaceous 1
 antiliberalism
 armyworms
 armlets 1
-aiguellette 2
+aiguellette 3
 asymbiotic 1
 aeolis
 armlike 1
