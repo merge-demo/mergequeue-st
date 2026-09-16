@@ -290,7 +290,7 @@ caustify
 conchiform 2
 cachous
 cachrys
-cachua
+cachua 1
 calicoback
 cachuchas
 cachunde 1
@@ -2730,7 +2730,7 @@ carbamyl 3
 coff 1
 combinatorics 1
 cutey 1
-canman
+canman 1
 churr
 cannabic
 churchwise 1
@@ -3037,7 +3037,7 @@ cantoner 2
 cellocut 2
 cantoning
 cantonize 2
-colectomy 3
+colectomy 4
 countergager 1
 cantoral
 cantoria
@@ -3054,7 +3054,7 @@ cantraps
 chares
 curlyheads
 capitonidae
-centrales 1
+centrales 2
 cantrip 1
 cantus
 cantuta
@@ -4136,7 +4136,7 @@ closehearted 2
 cichlids
 clerihew 2
 cubed 3
-chancellor 1
+chancellor 2
 cardinalities 1
 cardinalship 1
 cardings
@@ -25994,7 +25994,7 @@ corvettes 2
 cahuapana
 cadges 1
 corvidae 1
-corvillosum
+corvillosum 1
 creolize
 centralest
 corroborates
@@ -26612,7 +26612,7 @@ couloir 2
 coinmaking 1
 copperas 1
 cornbird
-cystectomies 1
+cystectomies 2
 coulombmeter
 coulombs 1
 coulter
@@ -26673,7 +26673,7 @@ colourfully
 countenanced
 cyrenian
 countenancer 1
-carbazine
+carbazine 1
 consensus
 contracapitalist 1
 clinopyramid 2
