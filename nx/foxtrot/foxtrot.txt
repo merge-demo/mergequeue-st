@@ -2037,7 +2037,7 @@ feigners 1
 fluoridation 4
 feigns 3
 flitch 3
-flamier 1
+flamier 2
 farouche
 feltwork 6
 falconet 2
@@ -2072,7 +2072,7 @@ foys 2
 fwelling 1
 flocky
 foggara 5
-filibuster 2
+filibuster 3
 famishes 4
 fumage 2
 fructidor 4
@@ -6833,7 +6833,7 @@ foretold 1
 fasces
 forswearer 1
 fructifier 4
-foliaged 1
+foliaged 2
 firetower 2
 fustigator 1
 flipjack 3
@@ -7631,7 +7631,7 @@ fescenninity 4
 ferganite
 frightenedness 2
 forefeelingly 2
-frogging 3
+frogging 4
 forheed 2
 foreffelt 3
 folioed 2
@@ -8294,7 +8294,7 @@ fuchsias 3
 forgetfulness 1
 forgett 2
 faits 1
-feldspars 2
+feldspars 3
 fistulated 3
 fulltime 4
 father 2
