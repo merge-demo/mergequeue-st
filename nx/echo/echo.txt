@@ -2268,7 +2268,7 @@ eidetic
 eudiometry 2
 exormia 1
 enbloc 2
-eyelets
+eyelets 1
 endolymph 2
 excretal 2
 elections 4
@@ -6686,7 +6686,7 @@ echolocate 2
 effume 3
 ectosomal
 extratarsal 1
-esthesioneurosis
+esthesioneurosis 1
 ectopistes
 elusions 2
 esparcet 4
