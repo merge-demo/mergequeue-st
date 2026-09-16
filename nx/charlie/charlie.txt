@@ -9953,7 +9953,7 @@ chenfish
 chenille 1
 consumable 2
 chenopod 1
-colocasia
+colocasia 1
 catacombic
 criollo
 chiro 4
@@ -20326,7 +20326,7 @@ countrie
 cercospora
 command
 communicatory 1
-communicators
+communicators 1
 communionable
 cornrows
 caracoled
