@@ -8303,7 +8303,7 @@ chalkone
 chalkos 2
 chalkotheke 1
 chalkpit 1
-chalkrail 1
+chalkrail 2
 circumflect
 chalkworker 2
 centriciput 1
@@ -30371,7 +30371,7 @@ canonicalizing 1
 catalog
 collectivistic 3
 carotte 1
-crusets
+crusets 1
 calmierer 1
 cowpokes 1
 crusile
