@@ -5535,7 +5535,7 @@ dibber 2
 dustfall
 draftable 1
 depended 2
-descends 1
+descends 2
 darker 1
 dolichopellic 1
 dependence 1
