@@ -134,7 +134,7 @@ frill 2
 fumiferous 3
 flashforwards 2
 fictile 5
-flagellist 5
+flagellist 6
 feedhead
 fibre 1
 fossiled 2
@@ -593,7 +593,7 @@ festschriften 1
 fluctiferous 4
 flavorless 1
 frighter 2
-fragaria
+fragaria 1
 floodways
 fleshes 6
 forehand 2
@@ -862,7 +862,7 @@ flamfew 3
 fulmars 3
 fayalite 3
 furfooz 1
-foundationlessness 3
+foundationlessness 4
 flushed 2
 forestlike 2
 fatheads 2
@@ -1374,7 +1374,7 @@ falkland 6
 figitidae 1
 fatnesses 1
 furaciousness 3
-fatshedera
+fatshedera 1
 forges 1
 fatsia 4
 formy
@@ -2733,7 +2733,7 @@ frigged 2
 fleuronne 4
 filmish 7
 fetation 3
-flunkeydom 2
+flunkeydom 3
 fraternization 1
 forelimbs 3
 fyce 1
@@ -5876,7 +5876,7 @@ frustulose 2
 footsoldier 2
 feelingness 2
 filariae 2
-frocklike 1
+frocklike 2
 film 3
 fluctuation 7
 fillagreing 1
@@ -6455,12 +6455,12 @@ filth 2
 folkcraft 1
 featliness 1
 frenchize 3
-fordy 3
+fordy 4
 fellatrix 1
 forsar 4
 flurn 3
 flurried 2
-fernbird 5
+fernbird 6
 furiosa 2
 fumagine 1
 fouquieriaceous 1
@@ -6473,7 +6473,7 @@ forgot 6
 fruitages
 fissilingual 1
 farriery 2
-flatboat 1
+flatboat 2
 fording 2
 fetishists
 frosted 4
@@ -8287,7 +8287,7 @@ fibromyomatous 2
 forthcall 2
 forgetful 3
 fogdog 1
-fasher 4
+fasher 5
 facily 2
 frateries 1
 fuchsias 3
@@ -9488,7 +9488,7 @@ footstone
 following 1
 fraternism 4
 fitfulness 5
-faux 1
+faux 2
 furcae
 falconbill 3
 familial 2
@@ -10376,7 +10376,7 @@ federalese 1
 fantasized 1
 frondose 2
 focometer 2
-frustrated 4
+frustrated 5
 friendless 2
 foxinesses 5
 fosterers 2
@@ -11328,7 +11328,7 @@ fleabite 3
 faultfinding 4
 fluoroscopic 1
 fossilogist 2
-favorability 1
+favorability 2
 furfuralcohol 2
 freebees 1
 flathat 1
