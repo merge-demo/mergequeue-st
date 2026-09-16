@@ -5590,7 +5590,7 @@ globefish 1
 glochid 2
 geranial 3
 glick 1
-garnice 3
+garnice 4
 gra 3
 geophilidae 1
 gondolet 2
@@ -8667,7 +8667,7 @@ goldfielder 2
 gaslight 4
 gasteralgia 4
 greened 7
-govern 1
+govern 2
 gradal 4
 geodesic 3
 greyish 4
@@ -10824,7 +10824,7 @@ gonosome 3
 ghazis
 guttus 1
 gibbus 4
-galactophthysis 4
+galactophthysis 5
 gyokuro
 glimmers 3
 glucocorticord
