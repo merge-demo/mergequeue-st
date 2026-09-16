@@ -3580,7 +3580,7 @@ dodecant
 destituting
 diatonous 2
 degener 1
-declaredness 2
+declaredness 3
 depredations 1
 dripping 1
 dinosauric 1
@@ -11420,7 +11420,7 @@ disbelieving 1
 driftage 1
 downcomes 1
 dissuasive 1
-discodactylous 2
+discodactylous 3
 damasse 2
 dispositive
 deskbound 2
@@ -14374,7 +14374,7 @@ diurnal
 deuterogenic 1
 drug 1
 dragonize 1
-diurnule
+diurnule 1
 dimensuration 3
 diuron 2
 demeaned 1
