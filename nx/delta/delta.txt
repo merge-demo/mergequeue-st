@@ -507,7 +507,7 @@ dinkey 1
 droddum
 descended 1
 dallier 2
-dup 3
+dup 4
 dextromanual 2
 dribs 3
 diminishingturns 2
@@ -1685,7 +1685,7 @@ defending
 dothiorella 4
 disclimax 3
 dehull 3
-deanthropomorphism 1
+deanthropomorphism 2
 diasynthesis
 dwarfness 1
 deanthropomorphization 1
@@ -2312,7 +2312,7 @@ defensory 3
 dishwash 1
 dismounted 3
 diagraphs 2
-dekaparsec 1
+dekaparsec 2
 dermatropic 3
 dactylioglyphic 1
 danglement 1
@@ -4405,7 +4405,7 @@ dudleyite
 dithioic 1
 dolos
 desiccations
-diapyesis
+diapyesis 1
 demesman 2
 depravities 2
 disentitle
@@ -6359,7 +6359,7 @@ derodidymus 3
 derog 1
 demeanour
 doronicum 1
-dashikis 1
+dashikis 2
 despond 2
 derogate 2
 denuclearization 1
@@ -10715,7 +10715,7 @@ dragonlike 1
 dips
 deipnosophist 1
 depriver
-drad
+drad 1
 dun 1
 delocalisation
 donship 1
@@ -14083,7 +14083,7 @@ dryopithecinae
 dispensable 2
 deluging
 distributionist 3
-divariant 2
+divariant 3
 deservingness
 dittoed 5
 diprismatic 2
@@ -14372,7 +14372,7 @@ deflagrations 1
 diurna
 diurnal
 deuterogenic 1
-drug 1
+drug 2
 dragonize 1
 diurnule 1
 dimensuration 3
@@ -16119,7 +16119,7 @@ douma
 didynamy
 discrowned
 disharmonise
-doup
+doup 1
 dingee 2
 doomsday 2
 douping 2
