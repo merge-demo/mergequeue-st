@@ -3037,7 +3037,7 @@ cantoner 2
 cellocut 2
 cantoning
 cantonize 2
-colectomy 3
+colectomy 4
 countergager 1
 cantoral
 cantoria
@@ -3708,7 +3708,7 @@ carapaces 2
 carapacho 1
 chapfallenly
 cognates
-carapacic 2
+carapacic 3
 carapax
 climacterial 2
 coachable
@@ -7523,7 +7523,7 @@ cimbri 1
 cercosporella
 canalisation 1
 cercus
-cerdonian
+cerdonian 1
 cereal
 centrifugalizing 1
 carrus
@@ -13598,7 +13598,7 @@ cimbrian 1
 cotsetle 4
 conferted 3
 cimbric
-cyme 1
+cyme 2
 cymelet 2
 cimelium 1
 cymenes
@@ -14087,7 +14087,7 @@ circiter 1
 counterapproach
 circled 1
 chemically
-claudia 3
+claudia 4
 catskin 1
 cardcastle
 conservancies 1
@@ -14953,7 +14953,7 @@ clouring 1
 contorsion 1
 chlorpropamide 1
 counterparallel 1
-crossjack
+crossjack 1
 citreous 1
 confabulates
 citrination 3
@@ -24386,7 +24386,7 @@ cavally 1
 capitatum 1
 cirsotome
 coolen 2
-cooler 1
+cooler 2
 coolers 1
 crimpier 1
 caviling
@@ -25994,7 +25994,7 @@ corvettes 2
 cahuapana
 cadges 1
 corvidae 1
-corvillosum
+corvillosum 1
 creolize
 centralest
 corroborates
