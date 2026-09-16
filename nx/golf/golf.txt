@@ -756,7 +756,7 @@ gansa 3
 gestapos 6
 grapewise 2
 gerim 2
-gunbearer
+gunbearer 1
 gambles 1
 gerkin 1
 galvanopuncture
@@ -3501,7 +3501,7 @@ geomagnetist 1
 gluconeogenesis 3
 grugru 1
 gunslinging 1
-grinded 5
+grinded 6
 guideress 4
 geo 1
 gloats 2
@@ -3561,7 +3561,7 @@ ghastliness 4
 ghatwazi 3
 goadster 1
 grumblesome 4
-gynostemium
+gynostemium 1
 ghauts 1
 galilei 6
 genarcha 1
@@ -10006,7 +10006,7 @@ gamba
 garlandwise 3
 geochrony 4
 gudewife 2
-grilse 3
+grilse 4
 gaffer 2
 garrulousness 3
 glastonbury 3
