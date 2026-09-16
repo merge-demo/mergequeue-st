@@ -1861,7 +1861,7 @@ camara
 camarade
 conciliar
 camarasaurus 1
-camarera
+camarera 1
 camarin 1
 carboras 2
 camaron
@@ -3682,7 +3682,7 @@ caramboling 1
 cardsharper 1
 condemningly 1
 caramelisation
-coillen 1
+coillen 2
 caramelise
 caramelize 1
 caramelized
@@ -12378,7 +12378,7 @@ chromatogenous
 coiny 1
 cinchonia
 chromatographic
-clamminess 1
+clamminess 2
 chromatographically
 cuticularize 1
 conquerable 1
@@ -13305,7 +13305,7 @@ cyclone 2
 cyclonic 2
 cyclonite 1
 cyclonology 1
-cycloolefin 2
+cycloolefin 3
 consertal 2
 chirred
 colob
@@ -15941,7 +15941,7 @@ cotoneaster 2
 clergylike 2
 cyclos
 clergymen
-chandleries
+chandleries 1
 clergion 1
 clergywoman
 chouquette
@@ -31130,7 +31130,7 @@ cuniforms 1
 cunila
 characterizable 1
 crystalliferous
-chumpy
+chumpy 1
 counternotice
 cunnilinctus 1
 cavalries 2

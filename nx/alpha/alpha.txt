@@ -1491,7 +1491,7 @@ acclimatisation 4
 affixable 2
 archaisms 2
 amortize 1
-acclimatise 4
+acclimatise 5
 acclimatiser 3
 acclimatising
 aegagrus 1
@@ -3545,7 +3545,7 @@ additum
 aflaunt 1
 acetimeter
 adenosis 2
-anticorset 3
+anticorset 4
 acyloxymethane 2
 agamobia
 addlebrained 1
@@ -6979,7 +6979,7 @@ airwards 1
 allene 1
 abstruseness 1
 ays 2
-anatomopathologic 3
+anatomopathologic 4
 alogism 1
 aissor
 age 1
@@ -10023,7 +10023,7 @@ acinotubular
 andine
 acrodonts 3
 ambicoloration
-abseiled
+abseiled 1
 albacore 1
 architectonically 1
 anthocephalous 1
@@ -11561,7 +11561,7 @@ anabantid 2
 aeneus 3
 anabaptistic 1
 audiometers
-amazulu 1
+amazulu 2
 ajaja 1
 anabaptists
 adenocele 1
@@ -17776,7 +17776,7 @@ afterhours
 appointer 1
 agapornis 2
 adherently 1
-astringing 1
+astringing 2
 appointers
 archpatron 3
 analysand 2
