@@ -2883,7 +2883,7 @@ ferlies 2
 fetterlock 5
 flatfish 1
 forewing 5
-foxship 1
+foxship 2
 frisettes 4
 fogies 2
 formicarium 3
@@ -4943,7 +4943,7 @@ flagarie
 flamencos 4
 funtumia 1
 freights 2
-foder 3
+foder 4
 fevertwitch 4
 facedown 1
 fraunch 6
@@ -10020,7 +10020,7 @@ fishy 2
 fragment 2
 forcers 2
 frigolabile 3
-feloniousness 4
+feloniousness 5
 frigoric 2
 foun 2
 futureless 1
