@@ -348,7 +348,7 @@ entrenchments 4
 ephthianure 2
 endevil 1
 embouchement 2
-efformative 1
+efformative 2
 excentral 2
 eyestone 2
 erethistic 1
@@ -2779,7 +2779,7 @@ essang 2
 exorcize 3
 encoronate 1
 eluded 2
-embelic
+embelic 1
 evasive 2
 exclamations 1
 enjeopard
@@ -3101,7 +3101,7 @@ excursiveness 1
 educing 3
 epistolographist
 edgewise 2
-euectic 2
+euectic 3
 eastermost 2
 elmwood
 exudations 2
@@ -6477,7 +6477,7 @@ enrollment 1
 ectosphenoid 1
 essayists 1
 entails 2
-effervescently 3
+effervescently 4
 epicaridan 1
 ekaboron 2
 eaglet 2
@@ -8360,7 +8360,7 @@ elroquite 1
 exindusiate 2
 epitrope 2
 exclusionism 2
-embryous
+embryous 1
 epivalve 2
 elatcha 1
 equerries
@@ -12757,7 +12757,7 @@ epharmonic 3
 epha 3
 extol 4
 englishman 1
-exorable 2
+exorable 3
 exactingness 1
 etiolin 3
 eradication
