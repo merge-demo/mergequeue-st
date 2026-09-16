@@ -585,7 +585,7 @@ dissolver
 diwata
 decopperization 1
 desmopathologist
-dwarfishness
+dwarfishness 1
 dysodyle
 dicyclopentadienyliron 1
 dehydroretinol 1
@@ -2904,7 +2904,7 @@ dichotic 3
 downbeat 2
 desulphuret 2
 disorientating 1
-demicaponier
+demicaponier 1
 denaturalise 1
 dedication 1
 drafting 2
@@ -2993,7 +2993,7 @@ dromaeognathism 1
 ditchside 2
 dialogued 1
 dolittle 1
-deemie
+deemie 1
 demagnetizes 1
 decrepitate
 dorian 2
@@ -3347,7 +3347,7 @@ dilatant 1
 diastem 1
 demitting
 duddery 1
-destiny
+destiny 1
 domesticable 4
 datiscoside 2
 downweight 2
@@ -8998,7 +8998,7 @@ dunned 1
 deraigns 1
 dodecuplet 2
 decapitate 1
-dicodeine 1
+dicodeine 2
 dicoelious 2
 dicolon 1
 disbar
@@ -13841,7 +13841,7 @@ distancing 1
 dalmatian 2
 disjoining 1
 deceptitious
-daytide 2
+daytide 3
 dysphemia
 delectation 2
 driftier 3
@@ -13914,7 +13914,7 @@ dramatics 2
 dokhma 2
 deles 1
 desmognathae 2
-distillator
+distillator 1
 danebrog
 distillatory 2
 distillery 1
