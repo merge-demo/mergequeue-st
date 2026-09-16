@@ -290,7 +290,7 @@ caustify
 conchiform 2
 cachous
 cachrys
-cachua
+cachua 1
 calicoback
 cachuchas
 cachunde 1
@@ -4136,7 +4136,7 @@ closehearted 2
 cichlids
 clerihew 2
 cubed 3
-chancellor 1
+chancellor 2
 cardinalities 1
 cardinalship 1
 cardings
@@ -7418,7 +7418,7 @@ cinnamic
 canvass
 citified 1
 chloroformed
-cerasein 1
+cerasein 2
 chouser 2
 cythera 1
 cerebrophysiology 1
@@ -8303,7 +8303,7 @@ chalkone
 chalkos 2
 chalkotheke 1
 chalkpit 1
-chalkrail 1
+chalkrail 2
 circumflect
 chalkworker 2
 centriciput 1
@@ -11537,7 +11537,7 @@ counteraccusation
 carnaubyl
 catechins
 compels 1
-carbonizer
+carbonizer 1
 chokier 3
 curassow
 chokies 2
@@ -18457,7 +18457,7 @@ chilipepper 2
 crestmoreite 2
 chaogenous 2
 coguarantor 2
-cogway 1
+cogway 2
 cerite 1
 cogweel
 cogweels 1
@@ -29968,7 +29968,7 @@ crossway
 crossways
 cetid 1
 calcification
-cyclopaedic 3
+cyclopaedic 4
 ctenocyst 1
 cuarenta
 crosswise 3
@@ -30371,7 +30371,7 @@ canonicalizing 1
 catalog
 collectivistic 3
 carotte 1
-crusets
+crusets 1
 calmierer 1
 cowpokes 1
 crusile
