@@ -3985,7 +3985,7 @@ broma 1
 bondon 1
 brittlewood
 bawtie 1
-bantlings 2
+bantlings 3
 brand 2
 bnf 2
 bespy
@@ -7033,7 +7033,7 @@ babeship 3
 buckskins
 bemuzzling
 bequeathing
-besot 1
+besot 2
 baronet 2
 boodh 2
 boothian 1
@@ -9730,7 +9730,7 @@ beadrolls
 blaewort
 bayeta 1
 bizes 2
-benj
+benj 1
 bicolored 2
 boondogglers
 bisques
