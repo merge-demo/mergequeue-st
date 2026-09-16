@@ -566,7 +566,7 @@ baccharis 1
 bandboxical 2
 bandies 2
 bib 2
-backwind 2
+backwind 3
 backwinded
 balladmongering 3
 burdens 1
@@ -5398,7 +5398,7 @@ beguilements 2
 biferous 2
 banstickle 3
 busheled 1
-birds
+birds 1
 bloodripeness 2
 bisagre 1
 briquets
@@ -9863,7 +9863,7 @@ bytes 2
 bitewing 1
 beryx 2
 based 3
-backswording
+backswording 1
 bolelia
 balladry 2
 bebleed 2
@@ -15727,7 +15727,7 @@ brunonia 1
 broadlooms 1
 bourrides
 barbarously 2
-binuclear 1
+binuclear 2
 batful 1
 butyric 3
 broadsider 1
