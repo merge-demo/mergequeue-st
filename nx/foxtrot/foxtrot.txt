@@ -5667,7 +5667,7 @@ fireable 4
 flimsiness 1
 fairleads 1
 flinch 6
-flagleaf 1
+flagleaf 2
 fatted 3
 fishnets 2
 finedraw
@@ -11209,7 +11209,7 @@ fastly 6
 flinter
 fullgrownness 3
 frontiersman 2
-falsetto 1
+falsetto 2
 fusobacteria 2
 foetalization 2
 fungoes 6
