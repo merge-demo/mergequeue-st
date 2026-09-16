@@ -3069,7 +3069,7 @@ coistrel
 canulates 1
 comatic 1
 canun 2
-canvas 2
+canvas 3
 chaffinches
 chiasmodon
 croppa 2
@@ -4844,7 +4844,7 @@ cymulose
 cycling 1
 corallita
 carracks 2
-conceitless
+conceitless 1
 carraway
 cortinate
 carrel
