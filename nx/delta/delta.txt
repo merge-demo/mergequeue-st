@@ -3225,7 +3225,7 @@ dekle 4
 doftberry 2
 defencive 2
 dents 2
-defend 1
+defend 2
 decolor 1
 dikast 1
 dolmenic 2
@@ -4602,7 +4602,7 @@ dicebox
 denticulate
 demise 2
 dupped 3
-demisecond 1
+demisecond 2
 demised 3
 depas
 didynamia 1
@@ -5698,7 +5698,7 @@ dithers 3
 diallel 1
 deconsider 2
 depoh 1
-decd 2
+decd 3
 depolarise 3
 dearies
 dehumidify
@@ -9789,7 +9789,7 @@ dillydally 1
 diapaused 3
 discanonize 2
 debcle 1
-dotterels
+dotterels 1
 disrupture 2
 dillymen 1
 durangite 4
@@ -15224,7 +15224,7 @@ deuteranopic 2
 dullification 1
 dissociate
 dingmaul 1
-drabnesses 1
+drabnesses 2
 disbursal
 demipriest
 dogsleep 2
@@ -17892,7 +17892,7 @@ dabb
 dunst 1
 dezincing 1
 dudism 1
-defilement 3
+defilement 4
 dudleya 3
 developmentalist 1
 diagnosis
