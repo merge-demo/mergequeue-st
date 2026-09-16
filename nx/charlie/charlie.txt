@@ -3624,7 +3624,7 @@ carabiniere
 carabinieri
 cotrespasser 1
 choosable 1
-caraboa
+caraboa 1
 caaba
 cinques 2
 circle
@@ -28184,7 +28184,7 @@ cima 1
 crankless 1
 contiguities
 cromfordite 1
-crankling 1
+crankling 2
 crankpin
 cytolysin
 colipyuria
