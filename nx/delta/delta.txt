@@ -1685,7 +1685,7 @@ defending
 dothiorella 4
 disclimax 3
 dehull 3
-deanthropomorphism 1
+deanthropomorphism 2
 diasynthesis
 dwarfness 1
 deanthropomorphization 1
@@ -14372,7 +14372,7 @@ deflagrations 1
 diurna
 diurnal
 deuterogenic 1
-drug 1
+drug 2
 dragonize 1
 diurnule 1
 dimensuration 3
@@ -16119,7 +16119,7 @@ douma
 didynamy
 discrowned
 disharmonise
-doup
+doup 1
 dingee 2
 doomsday 2
 douping 2
