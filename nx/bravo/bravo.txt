@@ -6081,7 +6081,7 @@ basketful 2
 biochemistries 3
 benasty 2
 beholdable 3
-bedrift 3
+bedrift 4
 buccinidae 2
 bataan 4
 boarskin 2
@@ -10122,7 +10122,7 @@ bielorouss 2
 brogh 1
 blat 1
 beshriek 1
-bromocamphor 2
+bromocamphor 3
 blackband 2
 blackberrylike 2
 bunkload 2
@@ -14704,7 +14704,7 @@ blungers 1
 brasils
 brasque 1
 bloc
-brassages 1
+brassages 2
 brassard
 briefing 1
 brassart 1
