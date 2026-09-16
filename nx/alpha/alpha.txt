@@ -5293,7 +5293,7 @@ apery 1
 anagenetical 1
 antagonizer 2
 ampitheater 1
-attackable 1
+attackable 2
 anapterygotous 2
 alingual
 abrogative 2
@@ -10376,7 +10376,7 @@ agao 2
 aphasiology
 amercing 3
 airfares 2
-america
+america 1
 arrayed 3
 americanese 2
 aerobacteriology 1
