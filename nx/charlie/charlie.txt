@@ -972,7 +972,7 @@ canccelli 1
 cilioflagellate 1
 counterwrite 2
 calamars 1
-calambac 3
+calambac 4
 coastmen 1
 calambour 1
 castellar
@@ -7284,7 +7284,7 @@ civ 1
 conchitis
 clincher 2
 chromatopathic
-commercer 2
+commercer 3
 constitution
 conicity 1
 carnelians 3
@@ -19015,7 +19015,7 @@ caloricity 1
 collectivize
 collectivized 2
 collectivizes
-collectivizing
+collectivizing 1
 collectivum
 cocrucify
 curbing 1
