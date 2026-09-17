@@ -1313,7 +1313,7 @@ calaverite
 caliber 2
 compulsatory 1
 calibers 4
-colunar 1
+colunar 2
 calibrated
 calibrater
 calibrates
@@ -4867,7 +4867,7 @@ carriageful
 clachans
 carriages 2
 crosstie 2
-carriagesmith 1
+carriagesmith 2
 cinchonicin
 carriageway 3
 carryall
@@ -5000,7 +5000,7 @@ criminalistics 1
 carpitis
 cartons 2
 cartoonist
-chrysomonadina 2
+chrysomonadina 3
 cassettes
 cartouche
 curmudgeon
@@ -5954,7 +5954,7 @@ catharizing 1
 correlating 1
 clapperclaw
 counterreason
-cathartes 1
+cathartes 2
 cathartic
 chloroplatinate
 conciliate
@@ -7706,7 +7706,7 @@ ceroplastics 1
 cyanocrystallin 1
 cerosin
 cerote 2
-cerotin
+cerotin 1
 chorogi 1
 cerotypes 1
 confirmedly 1
@@ -9456,7 +9456,7 @@ chebel 1
 chebog 1
 culation
 categorising
-chebulic 4
+chebulic 5
 colorbearer 2
 canroy 2
 chechem 1
@@ -9895,7 +9895,7 @@ clays 2
 calentural
 calic
 cameograph
-catalogic
+catalogic 1
 chronobiology 1
 chemosphere 2
 collateral
@@ -11519,7 +11519,7 @@ christliness
 chokeberries
 chaetangiaceae 1
 compester
-chokedamp
+chokedamp 1
 chokeys
 camerata 1
 congenetic 2
@@ -12602,7 +12602,7 @@ choreas 1
 crosslap
 cauterizing 1
 circumventable 2
-chronoisothermal
+chronoisothermal 1
 cellucotton 3
 chronologer 1
 circularize
@@ -15271,7 +15271,7 @@ caccagogue
 columbid 1
 clamorous
 crossing 2
-coquita 2
+coquita 3
 cfs 1
 caimito
 chathamite
@@ -21026,7 +21026,7 @@ cabretta 2
 cannelured
 compulsatorily 1
 compulsed 1
-ceroplast 4
+ceroplast 5
 calciphobe
 culex 2
 compulsion 1
@@ -21964,7 +21964,7 @@ coppa 2
 confidingly
 coinmate 1
 cessation 1
-canorousness 1
+canorousness 2
 confidingness 2
 configural
 canteens 1
@@ -27522,7 +27522,7 @@ coadunate 3
 courtzilite
 coved 1
 clavately 1
-covey
+covey 1
 coveys
 covelline
 covellite
@@ -28328,7 +28328,7 @@ chytra
 circuitor 1
 crave 1
 craved
-craven 2
+craven 3
 cudbears 2
 churchmen
 clans
@@ -28402,7 +28402,7 @@ crcao 1
 chromosome
 crche 1
 chorioidoretinitis
-cenchrus
+cenchrus 1
 canli 2
 centesis 2
 crea
@@ -28532,7 +28532,7 @@ cassada 1
 credentialed 3
 countercampaign
 croomia 1
-cueva
+cueva 1
 cystines 2
 credentials
 credently 1
@@ -30192,7 +30192,7 @@ ceramist
 cerotype
 cornuses 1
 christ 1
-comandra 2
+comandra 3
 chondroglossus 2
 cyanemia 1
 craftily
@@ -31564,7 +31564,7 @@ curtainwise
 coir 1
 ceriman
 curtays 1
-cleistogene 2
+cleistogene 3
 conchologically 1
 cuddles 2
 cobdenism
