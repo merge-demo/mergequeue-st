@@ -196,7 +196,7 @@ factrix 4
 footmanship 1
 fanons 2
 fatiscence 3
-forborne 1
+forborne 2
 futurist
 figuline 4
 fordoing 3
@@ -897,7 +897,7 @@ faradisation
 fluosilicic 4
 flagless 2
 fimbrilliferous 4
-faradised 2
+faradised 3
 furfural 1
 fardo 1
 ferneries
@@ -1937,7 +1937,7 @@ freight 3
 furling 3
 fileable 4
 friable 2
-froze 2
+froze 3
 floccule 6
 flaring 1
 finagling 2
@@ -2079,7 +2079,7 @@ fructidor 4
 fusibleness
 freeform 2
 fideistic 3
-fogle 1
+fogle 2
 federalist 1
 floriculture 1
 fudger
@@ -2186,7 +2186,7 @@ flashet 2
 feltmaker 2
 fiducia 3
 fats 1
-fratercula 2
+fratercula 3
 fusilading 1
 flabellifoliate 3
 forthtell 3
@@ -3921,7 +3921,7 @@ formature 1
 forlese 3
 fischerite 1
 forebrain 2
-firmamental
+firmamental 1
 february 1
 frothi 3
 fraple 4
@@ -4109,7 +4109,7 @@ ferth 2
 fiendful
 feuilletons
 frameworks
-fiorin 3
+fiorin 4
 fusiladed 3
 fiorite 4
 foreseen
@@ -5527,7 +5527,7 @@ fieri 2
 fervours 2
 finnan 3
 fletchers
-furrower 6
+furrower 7
 furnit 4
 faked 1
 faithfulness 3
@@ -5829,7 +5829,7 @@ flintlocks 3
 filemark
 farts 1
 freakdom 3
-forestallment 3
+forestallment 4
 fenestration 1
 flywinch
 fulfils 5
@@ -5876,7 +5876,7 @@ frustulose 2
 footsoldier 2
 feelingness 2
 filariae 2
-frocklike 1
+frocklike 2
 film 3
 fluctuation 7
 fillagreing 1
@@ -5958,7 +5958,7 @@ fearlessly 2
 favonius 2
 frenchification 5
 frailly 4
-fivepins 2
+fivepins 3
 futileness 1
 frightening 3
 fallibility 5
@@ -6544,7 +6544,7 @@ flameless 2
 feedboard 1
 flensing 1
 flutterment 2
-flimflammed 3
+flimflammed 4
 fluviolacustrine 2
 fleetly 2
 funereal 2
@@ -6730,7 +6730,7 @@ fellator 6
 frangulaceae 1
 foramens 2
 fictive 1
-filipina 4
+filipina 5
 fremt 4
 fomalhaut 2
 fiscs 3
@@ -8210,7 +8210,7 @@ fingerprinted 2
 fantailed 3
 fruitfullest 3
 fluffily 3
-fangy 1
+fangy 2
 fishpond 1
 ferula 1
 fantastry 4
@@ -9501,7 +9501,7 @@ furnaceman
 fulcrate 2
 furculum 1
 fastwalk 3
-febricitant 3
+febricitant 4
 fidele 3
 fraternities 3
 fumarates 3
@@ -9761,7 +9761,7 @@ fissionability 3
 festinate 2
 fainting 1
 footmanry 3
-faunch 3
+faunch 4
 facework 3
 fluviograph 2
 flabs 3
@@ -10954,7 +10954,7 @@ fub 1
 foehn 3
 flexure 2
 field 2
-fetal 4
+fetal 5
 floorage 1
 fadridden 4
 fack 3
@@ -11121,7 +11121,7 @@ fiendlier 6
 flops 1
 fervanite 1
 foyaite 2
-flatbread 2
+flatbread 3
 fimbriating 1
 feculae 2
 fastland 2
@@ -11694,7 +11694,7 @@ fagaceous 2
 faced 4
 flippancy 3
 fanlights 3
-flapcake 3
+flapcake 4
 foredispose 1
 filets 1
 fracas
