@@ -4740,7 +4740,7 @@ collages
 coble 1
 carpeting 2
 carpetlayer
-carpetmaking 1
+carpetmaking 2
 clubability 1
 captivation 2
 carpets 2
@@ -7714,7 +7714,7 @@ cerous 1
 cerrial 1
 coarctate 1
 cecidology
-certain 1
+certain 2
 cuteys
 certainness
 cormorant 2
@@ -9563,7 +9563,7 @@ concurrence 2
 cascading 1
 cheddar
 commentating 2
-cheddites
+cheddites 1
 crooked
 cheders
 chedite 3
@@ -11365,7 +11365,7 @@ chlorophyllase
 chlorophyllian 2
 chlorophyllide
 choliamb 2
-catastrophical 2
+catastrophical 3
 commonish 1
 chlorophylligenous 3
 chlorophylligerous 1
@@ -16422,7 +16422,7 @@ copart
 cheveron
 clefts
 cutlets 1
-castellanus
+castellanus 1
 circulable 2
 ceriferous 1
 cloacinal
@@ -18566,7 +18566,7 @@ coiffeuses 1
 coiffured 1
 ceroxylon
 coiffures 1
-coiffuring
+coiffuring 1
 coifing
 coeducate 1
 conner 1
