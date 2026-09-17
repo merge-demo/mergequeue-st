@@ -5744,7 +5744,7 @@ cheneau 1
 crowkeeper 1
 catches 1
 catchflies
-criniere
+criniere 1
 catchie
 catchiest 2
 cordelling 2
@@ -7187,7 +7187,7 @@ centrifugaller 1
 cladoceran 2
 centrifugate
 centrifuge
-centrifugence 1
+centrifugence 2
 centrifuging
 coffeehousing 1
 centring 3
@@ -14372,7 +14372,7 @@ cayubaban 2
 cocontractor
 caviler 1
 circumvallate
-cliquishly
+cliquishly 1
 circumvallating 1
 corkwoods 1
 crepitant 1
@@ -15262,7 +15262,7 @@ colters
 clarets
 clamming
 colpotomies 1
-clammyweed
+clammyweed 1
 clamored 1
 clamorer
 clamorers
@@ -18771,7 +18771,7 @@ crispily
 catadioptric 1
 cochaired 1
 chitty 1
-canaanitish
+canaanitish 1
 caesarists
 cookouts 2
 crossworder 1
@@ -19466,7 +19466,7 @@ colourably
 cometical 1
 colouration 1
 colourational 2
-cutitis
+cutitis 1
 crotchetiness 2
 coltpixie
 colourative 2
@@ -19498,7 +19498,7 @@ colourless 1
 ceruleum
 colourman 1
 colpenchyma 1
-closet 1
+closet 2
 colpindach 1
 canzonets
 chiasmi 1
@@ -20171,7 +20171,7 @@ commission 2
 chasteners
 commissional 1
 chufas
-carrizo
+carrizo 1
 counterrevolutionaries 1
 cubelium
 chandelles 4
@@ -22549,7 +22549,7 @@ conjunctur 3
 conjunctures 1
 conjuration 1
 crinatory 1
-conjurations 1
+conjurations 2
 cesar 1
 conjured
 conjurement 2
@@ -23291,7 +23291,7 @@ consul
 consulage
 coloclysis 2
 chirurgical
-concertizes 1
+concertizes 2
 cynaraceous 1
 charley
 consulates
@@ -26294,7 +26294,7 @@ crusader
 correctional
 costious 1
 collagenic 1
-costipulator 3
+costipulator 4
 costispinal 1
 cylindromata 2
 costiveness 1
@@ -26589,7 +26589,7 @@ characterist 1
 cougar 1
 coughed
 choosiest 1
-cyanephidrosis 1
+cyanephidrosis 2
 calumniate
 coughers
 coronillin
@@ -27554,7 +27554,7 @@ coveralled
 coveralls 1
 coils
 coverchief 3
-cannulated 1
+cannulated 2
 cerberean 2
 climatotherapeutics 1
 covercle 2
@@ -28667,7 +28667,7 @@ cavetto
 crenallation
 crenate 1
 crocodile 1
-crenated
+crenated 1
 crenately
 cortins 2
 crotches 4
@@ -29556,7 +29556,7 @@ criticizers
 criticizing 1
 criticship 1
 criticule 1
-critique
+critique 1
 cultivatable
 cabals
 chopine 1
@@ -30445,7 +30445,7 @@ carpetwork 1
 csch 4
 csect
 cpu 1
-cholecystectomies 3
+cholecystectomies 4
 csmp 1
 csp
 combatively
@@ -30526,7 +30526,7 @@ carsten
 cubera
 cardioptosis
 cubers
-cubes 1
+cubes 2
 cognatical
 chattering 1
 carotidal
