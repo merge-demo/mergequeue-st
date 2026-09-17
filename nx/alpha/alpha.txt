@@ -820,7 +820,7 @@ abroach
 airdock
 abrogate
 allergies 2
-archilithic 3
+archilithic 4
 abrogating
 avocado 2
 angiomegaly
@@ -6088,7 +6088,7 @@ apoplectiform
 amidst
 autodecomposition 1
 ancillary 1
-alible
+alible 1
 aquilege 1
 addisonian 1
 akrabattine 2
@@ -12075,7 +12075,7 @@ avionics 1
 anas 2
 athumia 2
 anasa 2
-adaptedness 1
+adaptedness 2
 aralkylated 3
 arteriosclerosis 1
 asclent
@@ -21619,7 +21619,7 @@ azoxime 1
 asquint 2
 authorising 1
 agriotypus
-alfur 1
+alfur 2
 achenodia
 acheilous
 anteflected
@@ -21915,7 +21915,7 @@ associatedness 2
 andesine 2
 autolyse 3
 autocarist 4
-ambagious 1
+ambagious 2
 alfaquins
 acopyrin
 antinaturally
