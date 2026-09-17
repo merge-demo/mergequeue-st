@@ -524,7 +524,7 @@ butomaceous
 backstroke 2
 beckoners 2
 backstromite
-boart
+boart 1
 bu 4
 backtenter 1
 beggingwise 1
@@ -3049,7 +3049,7 @@ backswordsman 2
 blepharedema
 bubba
 bartramian
-banish 4
+banish 5
 beetmister 3
 bliest 2
 burlesks 1
@@ -4180,7 +4180,7 @@ bradypus 1
 beastling 1
 bullswool
 beastlings 2
-bulgy 1
+bulgy 2
 beastman 1
 barracoutas 1
 beastship 1
@@ -4257,7 +4257,7 @@ bishopbird
 breadths 2
 banff 3
 beautiful 1
-blowball 2
+blowball 3
 bhajan
 bonum 1
 bellhanging 2
@@ -4377,7 +4377,7 @@ boehmites 2
 brickier
 bullimong
 becky 1
-beckoner 2
+beckoner 3
 buriat 2
 bedizened 2
 beati 3
@@ -6266,7 +6266,7 @@ binnacles 2
 benshee 1
 blepharitis 1
 benshi 1
-benson 2
+benson 3
 bardess 1
 briefs
 brandsolder 2
@@ -6945,7 +6945,7 @@ beshroud 2
 brachiostrophosis 2
 bigmitt
 borlase 1
-bundook 1
+bundook 2
 borele 2
 besides 1
 beckett
@@ -7996,7 +7996,7 @@ borazons 2
 bioxalate 1
 bichos 2
 bichromatize 2
-bedebt 3
+bedebt 4
 bowstaff 1
 bellworts
 bicyanide 1
@@ -9359,7 +9359,7 @@ baroqueness 1
 broomroot 1
 blethers 3
 brabbles 3
-budding 2
+budding 3
 bewrathed
 brinish 2
 bonsela 2
@@ -12506,7 +12506,7 @@ bonedry 2
 bimillenium 2
 broodier 1
 bellyflaught 3
-barcarolle
+barcarolle 1
 biennially
 brakier 4
 bloomerism 2
@@ -15829,7 +15829,7 @@ barebones 1
 baksheeshes 1
 balsamer 4
 brilliance
-bemires
+bemires 1
 bimaculated 2
 bourguignonne 1
 borism
@@ -16242,7 +16242,7 @@ bathmotropism
 baiter
 browden 1
 browet
-blossoms 1
+blossoms 2
 brander 1
 becrimed 2
 beagle 1
