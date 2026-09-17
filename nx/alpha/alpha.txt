@@ -820,7 +820,7 @@ abroach
 airdock
 abrogate
 allergies 2
-archilithic 3
+archilithic 4
 abrogating
 avocado 2
 angiomegaly
@@ -1594,7 +1594,7 @@ angelim 3
 audaciousness
 adamical 2
 appended
-andalusian
+andalusian 1
 autoportrait 1
 aposafranine 1
 aconin 1
@@ -2062,11 +2062,11 @@ argumentator 1
 aporrhais 2
 acetous 1
 acetoxyl 1
-approbatory 1
+approbatory 2
 allegoristic 1
 aeneas
 achaean
-antiexpressionistic 2
+antiexpressionistic 3
 aperistalsis 4
 aequoreal 1
 actinogram 1
@@ -3544,7 +3544,7 @@ appointively
 additum
 aflaunt 1
 acetimeter
-adenosis 2
+adenosis 3
 anticorset 4
 acyloxymethane 2
 agamobia
@@ -4612,7 +4612,7 @@ advices
 affectional 2
 atomatic 1
 antas 1
-advisableness 1
+advisableness 2
 amidon 4
 adiaphorism 1
 advisal 1
@@ -5087,7 +5087,7 @@ attenders 3
 alexinic
 aerostatic 1
 anthracin 3
-argas 1
+argas 2
 appertain
 advancements
 androgyneity
@@ -6916,7 +6916,7 @@ algarad
 acieral 1
 airplot 2
 airport
-appropinquity 1
+appropinquity 2
 asst 1
 archmurderer 1
 abietin 2
@@ -7554,7 +7554,7 @@ albuminize
 arrested
 anchovies
 adaptor 1
-albuminofibrin
+albuminofibrin 1
 albuminoid 2
 abstract 2
 aurifying
@@ -9065,7 +9065,7 @@ adrostral 2
 anurans 1
 allotted 2
 anticheater 4
-alpid 3
+alpid 4
 arrogantly 2
 allotter
 allottery 1
@@ -12075,7 +12075,7 @@ avionics 1
 anas 2
 athumia 2
 anasa 2
-adaptedness 1
+adaptedness 2
 aralkylated 3
 arteriosclerosis 1
 asclent
@@ -12961,7 +12961,7 @@ arbitral 1
 assertoric 1
 angouleme 1
 armored 2
-arcidae
+arcidae 1
 angraecum 1
 angriness
 angstroms
@@ -15776,7 +15776,7 @@ angeleno 1
 accostable 3
 antiperistalsis
 antiperspirant 3
-acronycal 1
+acronycal 2
 anterolaterally 1
 atremble
 angiolipoma 3
@@ -19050,7 +19050,7 @@ archpilferer
 adornment 2
 aneurismatic 1
 accentuating 1
-adulteration 1
+adulteration 2
 automatic 1
 aphicide 4
 archswindler 2
@@ -21402,7 +21402,7 @@ antidraft 1
 augustinian 2
 agitation
 atabeg 1
-asleep 2
+asleep 3
 aslumber
 aspergillales 3
 apriorist
@@ -21915,7 +21915,7 @@ associatedness 2
 andesine 2
 autolyse 3
 autocarist 4
-ambagious 1
+ambagious 2
 alfaquins
 acopyrin
 antinaturally
@@ -22119,7 +22119,7 @@ angered 2
 adenocancroid 3
 acestoma
 asternata 2
-archmessenger 2
+archmessenger 3
 asteroid 2
 asteroids
 andamanese 2
@@ -22697,7 +22697,7 @@ apogonidae 1
 aristocracies 1
 athymic 1
 antimonyl 2
-athing 1
+athing 2
 askarel
 athyria 3
 acronymous 1
@@ -23343,7 +23343,7 @@ anthralin 3
 atwite 2
 aryballoid 1
 aggry 2
-aubain
+aubain 1
 afterstorm 1
 aubergiste
 aurelian 2
@@ -23819,7 +23819,7 @@ austric 2
 acromyodic
 anglophile 2
 arteriodialysis 3
-autarkical 1
+autarkical 2
 assuredness 2
 antihistamine 1
 austrium
@@ -24853,7 +24853,7 @@ ascribing 2
 avoids 1
 antrustionship
 avolate
-ametabolian
+ametabolian 1
 asafetida
 achenial 1
 ascidioida
