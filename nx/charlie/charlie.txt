@@ -468,7 +468,7 @@ coleopterous
 cacuminous
 cacur 2
 cad
-cadamba 1
+cadamba 2
 cryptocrystalline 1
 cadaster 1
 cadasters 3
@@ -505,7 +505,7 @@ chupon 2
 cadeau 2
 carcinoscorpius
 camisados
-cadelles 1
+cadelles 2
 craggedness 2
 calendaric
 cadences 1
@@ -1352,7 +1352,7 @@ calycifloral 3
 cascabels 1
 calyciflorate
 contranatural 2
-caliciform
+caliciform 1
 calycinal 3
 calycine
 calderium
@@ -1478,7 +1478,7 @@ carnosin 2
 calisayas
 clave 3
 chicks
-calistheneum
+calistheneum 1
 commercializes
 crosscurrents
 calisthenics 2
@@ -3433,7 +3433,7 @@ capricci 1
 curliewurlie 2
 campa 1
 capriccioso 3
-carers
+carers 1
 caprices
 capricious
 cajole 2
@@ -4142,7 +4142,7 @@ cardinalship 1
 cardings
 cardioarterial
 clags 1
-cardiocarpum 1
+cardiocarpum 2
 cardiocele
 chevronelly 2
 cardiocirrhosis
@@ -4563,7 +4563,7 @@ carneole
 coroner 1
 chartula 4
 citoler
-carnets 1
+carnets 2
 carny 2
 coccostean
 capsule 1
@@ -5163,7 +5163,7 @@ caseload
 caprylene 1
 cackle
 casemaking 2
-casemates 2
+casemates 3
 casemented
 casements
 copolar
@@ -6115,7 +6115,7 @@ clippable 2
 catoptrically 1
 curtise
 conquerors
-catoptrite
+catoptrite 1
 catoptromantic
 catoquina
 cats
@@ -6685,7 +6685,7 @@ ceilings
 ceilingwards 1
 copiability 2
 celtophobia 1
-couac
+couac 1
 chelidosaurus
 ceylonite 1
 ceils
@@ -6989,7 +6989,7 @@ catechiser 2
 censurableness
 censurably
 cutlips
-censure 2
+censure 3
 censureless 2
 coexecutant
 coddling 1
@@ -7543,7 +7543,7 @@ cerebellum
 contentation
 creator 1
 cleidarthritis
-covariation
+covariation 1
 cerebral 1
 courge 1
 credited 1
@@ -8497,7 +8497,7 @@ cadrans
 chancefulness 1
 chancey 3
 chanceled 1
-cardiacea
+cardiacea 1
 chanceless
 cestoda 2
 caroluses
@@ -8803,7 +8803,7 @@ characids
 cheville
 characine 1
 creasiest 2
-coercibly 1
+coercibly 2
 cyrillianism 1
 cenospecific
 characins 3
@@ -10918,7 +10918,7 @@ chirms 1
 crumena
 chirocosmetics 2
 chirogale
-chirogymnast 1
+chirogymnast 2
 cautel
 cornu 1
 chondrigen 2
@@ -14688,7 +14688,7 @@ conventionality 2
 cists 1
 cistudo
 colonic
-criocephalus
+criocephalus 1
 cistus 2
 cairns
 citadel
@@ -16430,7 +16430,7 @@ cordelled 1
 cloacitis
 chervil
 corsned
-conjecturer 2
+conjecturer 3
 cloaklet
 culbert 1
 cowichan 2
@@ -16910,7 +16910,7 @@ cloistress 1
 conhydrine 2
 clumpiest 1
 clumpish
-cinquecentism
+cinquecentism 1
 capitano
 consociationism
 clumpishness 1
@@ -17321,7 +17321,7 @@ canonizations 1
 chickory
 coarsening
 coarsens 2
-coarticulate 1
+coarticulate 2
 coarticulation 1
 claylike
 clivus
@@ -18889,7 +18889,7 @@ colossus 1
 charlatanship
 cestoid 1
 colistin
-coypou 1
+coypou 2
 colitic
 colitises
 colyum
@@ -19078,7 +19078,7 @@ crises
 callable 1
 camb 2
 colliflower 2
-cruset 1
+cruset 2
 craker 1
 colligate 2
 colligating
@@ -19310,7 +19310,7 @@ consumingness 1
 colonisationist 1
 colonised 2
 colonising 2
-colonist
+colonist 1
 colonizable 2
 colonize 1
 comminating 1
@@ -20975,7 +20975,7 @@ clistothecia 2
 cumbrian 1
 comminister 4
 chessel 1
-citral
+citral 1
 cuticle 1
 clunisian
 compromiser 2
@@ -21217,7 +21217,7 @@ conceptualism
 conceptualist 4
 choreographing
 contrasted 2
-cricoidectomy 2
+cricoidectomy 3
 cananaean
 cospecific 2
 conceptualize 2
@@ -22562,7 +22562,7 @@ conk 2
 canonises 1
 cryptopine
 crawfoots 3
-conkanee
+conkanee 1
 conked
 conker
 conservative
@@ -24665,7 +24665,7 @@ centrutra
 cauqui
 coplotter
 chinoidine 1
-counterpaly
+counterpaly 1
 cryaesthesia 1
 charcoals
 cerebrating 2
@@ -24718,7 +24718,7 @@ comenic
 coppersmithing
 copperware 2
 copperwing
-cladodes 2
+cladodes 3
 coppices 1
 crepehanger 2
 coppin 1
@@ -26668,7 +26668,7 @@ catalyse 1
 countdom 1
 chargeableness 1
 countdown 1
-counted
+counted 1
 colourfully
 countenanced
 cyrenian
@@ -29020,7 +29020,7 @@ crozzly
 crimeproof 1
 chickasaws 1
 charlemagne 2
-ceorlish
+ceorlish 1
 codiscoverer 1
 criminalism
 criminalistic 1
@@ -29054,7 +29054,7 @@ criminologist
 carminic 1
 colletarium
 criminous
-conscribed 2
+conscribed 3
 criminously
 criminousness 1
 crimmer
