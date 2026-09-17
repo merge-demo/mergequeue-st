@@ -1937,7 +1937,7 @@ freight 3
 furling 3
 fileable 4
 friable 2
-froze 2
+froze 3
 floccule 6
 flaring 1
 finagling 2
@@ -3921,7 +3921,7 @@ formature 1
 forlese 3
 fischerite 1
 forebrain 2
-firmamental
+firmamental 1
 february 1
 frothi 3
 fraple 4
@@ -5527,7 +5527,7 @@ fieri 2
 fervours 2
 finnan 3
 fletchers
-furrower 6
+furrower 7
 furnit 4
 faked 1
 faithfulness 3
@@ -5876,7 +5876,7 @@ frustulose 2
 footsoldier 2
 feelingness 2
 filariae 2
-frocklike 1
+frocklike 2
 film 3
 fluctuation 7
 fillagreing 1
@@ -9501,7 +9501,7 @@ furnaceman
 fulcrate 2
 furculum 1
 fastwalk 3
-febricitant 3
+febricitant 4
 fidele 3
 fraternities 3
 fumarates 3
