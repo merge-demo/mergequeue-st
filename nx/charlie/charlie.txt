@@ -5000,7 +5000,7 @@ criminalistics 1
 carpitis
 cartons 2
 cartoonist
-chrysomonadina 2
+chrysomonadina 3
 cassettes
 cartouche
 curmudgeon
@@ -6115,7 +6115,7 @@ clippable 2
 catoptrically 1
 curtise
 conquerors
-catoptrite
+catoptrite 1
 catoptromantic
 catoquina
 cats
@@ -6685,7 +6685,7 @@ ceilings
 ceilingwards 1
 copiability 2
 celtophobia 1
-couac
+couac 1
 chelidosaurus
 ceylonite 1
 ceils
@@ -6989,7 +6989,7 @@ catechiser 2
 censurableness
 censurably
 cutlips
-censure 2
+censure 3
 censureless 2
 coexecutant
 coddling 1
@@ -7706,7 +7706,7 @@ ceroplastics 1
 cyanocrystallin 1
 cerosin
 cerote 2
-cerotin
+cerotin 1
 chorogi 1
 cerotypes 1
 confirmedly 1
@@ -10918,7 +10918,7 @@ chirms 1
 crumena
 chirocosmetics 2
 chirogale
-chirogymnast 1
+chirogymnast 2
 cautel
 cornu 1
 chondrigen 2
@@ -14385,7 +14385,7 @@ camphor 1
 circumventor
 conveyorized 1
 ceriomyces 2
-callously
+callously 1
 citrus 2
 clicky 1
 cupuliferae 3
@@ -19310,7 +19310,7 @@ consumingness 1
 colonisationist 1
 colonised 2
 colonising 2
-colonist
+colonist 1
 colonizable 2
 colonize 1
 comminating 1
@@ -20169,7 +20169,7 @@ cleverly 1
 coccidiomorpha
 commission 2
 chasteners
-commissional 1
+commissional 2
 chufas
 carrizo 1
 counterrevolutionaries 1
@@ -23317,7 +23317,7 @@ consultantship 1
 chondrology 2
 clitoriditis 1
 consultary 2
-clarksville 1
+clarksville 2
 ceiled 2
 contingentialness 2
 coumarin 3
@@ -24718,7 +24718,7 @@ comenic
 coppersmithing
 copperware 2
 copperwing
-cladodes 2
+cladodes 3
 coppices 1
 crepehanger 2
 coppin 1
@@ -29054,7 +29054,7 @@ criminologist
 carminic 1
 colletarium
 criminous
-conscribed 2
+conscribed 3
 criminously
 criminousness 1
 crimmer
