@@ -1937,7 +1937,7 @@ freight 3
 furling 3
 fileable 4
 friable 2
-froze 2
+froze 3
 floccule 6
 flaring 1
 finagling 2
@@ -9501,7 +9501,7 @@ furnaceman
 fulcrate 2
 furculum 1
 fastwalk 3
-febricitant 3
+febricitant 4
 fidele 3
 fraternities 3
 fumarates 3
