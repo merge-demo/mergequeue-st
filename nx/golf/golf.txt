@@ -1706,7 +1706,7 @@ goofier
 gammon
 galleon 1
 granddam 2
-glibber 2
+glibber 3
 goric 1
 glass 1
 gave 2
@@ -3240,7 +3240,7 @@ ghawazee 1
 gerfalcon 1
 gudesake 2
 gothite 2
-gien 3
+gien 4
 gahnites 3
 gateage 2
 gunrack 1
@@ -7350,7 +7350,7 @@ gonfalonier 1
 glumpiness 1
 goosepimply 2
 glaucochroite
-gosports 2
+gosports 3
 grainless 1
 gossamered
 galega 4
