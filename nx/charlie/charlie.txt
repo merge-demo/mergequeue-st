@@ -2099,7 +2099,7 @@ colostric 1
 campane 1
 campanella 1
 coadjuvancy
-campania 1
+campania 2
 cecils
 comdg 1
 condoles
@@ -6792,7 +6792,7 @@ cowshard
 capless 1
 celioscope
 cella 2
-cellarage 1
+cellarage 2
 cellared
 chamoix 1
 cellaress
@@ -7734,7 +7734,7 @@ chincherinchees 1
 certifications
 chronotropism 1
 certificative 2
-certificatory 3
+certificatory 4
 certifier 2
 certifiers
 chronique 2
@@ -8785,7 +8785,7 @@ chapter
 canonries
 chapteral 2
 chapterhouse
-cardinalates 1
+cardinalates 2
 chapwoman 3
 circumradii
 caddying 3
@@ -17206,7 +17206,7 @@ coitions 2
 coalescency
 cocher
 candlesnuffer 1
-coalescent 1
+coalescent 2
 combustibility 1
 coalescing 1
 choya 1
@@ -17371,7 +17371,7 @@ commensurations
 coatees
 clivises 1
 craythur
-coatie
+coatie 1
 cretinized
 coatis
 coatless 1
@@ -17474,7 +17474,7 @@ chowderheaded
 coracomandibular 1
 callous 1
 coberger
-colp 1
+colp 2
 cobia
 cobiron 1
 curculionid 2
@@ -20291,7 +20291,7 @@ communa 2
 cellulotoxic 3
 componentwise
 canthoplasty 1
-communal
+communal 1
 chapman 1
 coccineous 1
 chitin
@@ -24678,7 +24678,7 @@ copolymerized
 copolymerizing 3
 copouts 1
 coley
-complects 1
+complects 2
 chorizontic 2
 cleeks
 concentralize 1
@@ -25105,7 +25105,7 @@ cybernetician 2
 caeciform
 californians 1
 chetif 2
-coreigns
+coreigns 1
 corejoice
 caryophyllene
 convivialist 2
@@ -26073,7 +26073,7 @@ coshing 2
 cosy 1
 caulicule
 cosie 2
-cedrine
+cedrine 1
 colotyphoid 2
 cosies 2
 circumscriber 1
