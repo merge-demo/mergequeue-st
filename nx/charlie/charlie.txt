@@ -4018,7 +4018,7 @@ carcinoid 1
 compartmental 1
 crystalloluminescence
 carcinolysin
-cycadiform
+cycadiform 1
 carcinological
 carbocyclic
 curtesy
