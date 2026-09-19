@@ -9802,7 +9802,7 @@ corrugates 1
 cowardliness
 conveniency
 clubroot 1
-combattants 2
+combattants 3
 carpologist 1
 calanid
 chemicker
@@ -13581,7 +13581,7 @@ cymballed
 cymballing
 cymbalom
 cimbaloms
-cymbalon 2
+cymbalon 3
 cymbel
 cymbid 1
 clochard 1
@@ -14714,7 +14714,7 @@ citharas
 citharexylum
 chaunts 1
 citharist 1
-coprophiliac
+coprophiliac 1
 coesite
 cygnets 1
 citharoedi
@@ -15899,7 +15899,7 @@ clemence 1
 centibar 1
 carpogonia
 clemencies 1
-confederationism 1
+confederationism 2
 clement
 clementina 1
 clemently
@@ -22443,7 +22443,7 @@ coniine
 coextensive 1
 chemosensitivity
 cormophyte
-coniines
+coniines 1
 conylene 1
 conrey 2
 ceric 1
@@ -23890,7 +23890,7 @@ coxcomically 2
 cananga
 conforming
 controversal 1
-conduces
+conduces 1
 compositeness
 cauterized
 controversy 1
@@ -24183,7 +24183,7 @@ conviction
 convictional 1
 civilizatory
 cibarium
-convictions
+convictions 1
 convictism 2
 cresolin 1
 connexive 1
@@ -24915,7 +24915,7 @@ crucilly 1
 corallidae 1
 corallidomous
 congroid 2
-coralliform
+coralliform 1
 coralligena
 coralligenous 3
 clappe 1
@@ -26374,7 +26374,7 @@ compliantly
 caracole
 craie 2
 colymbiform
-caricatures 4
+caricatures 5
 collisional 1
 carnary 1
 coswearer
