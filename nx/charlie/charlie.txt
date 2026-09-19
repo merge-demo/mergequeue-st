@@ -3225,7 +3225,7 @@ chinoiserie
 caboclos 1
 capilli
 capilliculture 2
-cogracious 2
+cogracious 3
 clunks
 cosmoid
 caducicorn
@@ -7249,7 +7249,7 @@ chaldese 1
 centuplicate 2
 conelrads
 centuplicating 1
-civility
+civility 1
 chucking 1
 centuplication 2
 calciocarnotite 1
@@ -10119,7 +10119,7 @@ cyrtosis 1
 changed 1
 coauthorship 2
 chevachee 1
-chevage 2
+chevage 3
 careened 2
 columnwise 2
 collective
@@ -12510,7 +12510,7 @@ chromeplating 1
 childage
 chromophobia 1
 chromophobic 1
-calamistrate
+calamistrate 1
 clairvoyants
 chromophore 4
 chads 1
@@ -17136,7 +17136,7 @@ chummer 1
 cryptogenetic
 coadunite 1
 coadventure
-coadventured
+coadventured 1
 coadventuring
 coadvice 1
 coaffirmation
@@ -18680,7 +18680,7 @@ cointerring 1
 cantrips 2
 coyo
 coyol 1
-coyos
+coyos 1
 coyotes
 coccoloba 2
 coyotillos
