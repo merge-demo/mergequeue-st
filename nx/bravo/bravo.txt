@@ -2819,7 +2819,7 @@ bedarken 1
 bruta
 beisa
 biquadrate 3
-baroswitch 1
+baroswitch 2
 bld 2
 brakie 1
 bitis 2
@@ -2936,7 +2936,7 @@ bureaucratize 1
 barreling 1
 bibaciousness 1
 blanco
-bited 2
+bited 3
 broad 1
 barrelled 1
 billfish 1
@@ -4421,7 +4421,7 @@ besieged 1
 balm 1
 brandering
 budapest 2
-barrators
+barrators 1
 bitstone 1
 bkcy 5
 blubberer 3
@@ -8683,7 +8683,7 @@ birching 1
 branners 2
 bimalar 1
 bimana
-boras 2
+boras 3
 binoxalate 1
 bimanous 1
 bradsot 1
@@ -16522,7 +16522,7 @@ belion 4
 brittlebush 2
 bagnet 1
 bolivia 2
-breathlessly 3
+breathlessly 4
 babbittism 1
 batholitic 4
 buddling 1
