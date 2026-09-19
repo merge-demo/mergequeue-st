@@ -1314,7 +1314,7 @@ biogasses
 bacao 3
 brochantite
 bury
-bedbug
+bedbug 1
 boleite 1
 bacterioprecipitin 1
 beltings 2
@@ -16533,7 +16533,7 @@ bishops 2
 budzat 3
 bandeaux
 broadpiece
-bisellium
+bisellium 1
 bisonant 1
 brutely 1
 blindstitch 2
