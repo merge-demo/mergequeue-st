@@ -541,7 +541,7 @@ geranomorphae 2
 grunion 1
 gazometer 3
 galempong 2
-getfd 2
+getfd 3
 gableended 2
 gravamem 3
 gadinine 1
@@ -9292,7 +9292,7 @@ gemauve 2
 granitoid 4
 guarache 3
 groenendael 4
-gecko 4
+gecko 5
 graduale 3
 geoffrey 1
 groenlandicus 2
@@ -10248,7 +10248,7 @@ gregarious 1
 guinness 1
 gamodemes 2
 greyback 2
-getid 3
+getid 4
 grotianism 3
 gempylid 3
 gemelled 1
