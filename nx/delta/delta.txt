@@ -426,7 +426,7 @@ dithered 2
 dorsoanterior
 deadlier 2
 drinker 2
-dairywomen
+dairywomen 1
 daunder 1
 dayrooms 1
 dorsad
@@ -498,7 +498,7 @@ dismantler 2
 dalle
 deices 1
 diamylene
-desmotropic 2
+desmotropic 3
 dividing
 dalliances 2
 discomforter 1
@@ -2974,7 +2974,7 @@ dyadically 1
 democratist 1
 dodecamerous 1
 decede 1
-decillion
+decillion 1
 deedily 2
 distriction 4
 deediness
@@ -7554,7 +7554,7 @@ drawout 3
 derner 1
 dunziekte 1
 deontologist 1
-diacetine 1
+diacetine 2
 dacryocele 1
 desilverization 2
 deuterosy 1
@@ -10487,7 +10487,7 @@ diphthongizing 2
 daubentoniidae 3
 didos 1
 domineered 1
-decares 2
+decares 3
 deess
 disputative
 discoplacentalian 1
