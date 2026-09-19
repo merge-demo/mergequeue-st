@@ -2578,7 +2578,7 @@ castellanship
 candlesticks
 cogniser 2
 candlewaster 1
-choledocholithotripsy
+choledocholithotripsy 1
 cambial 3
 crocoisite
 candlewasting
@@ -2777,7 +2777,7 @@ compete 1
 cannequin
 colts
 curricle
-cancerphobia
+cancerphobia 1
 cannetille
 claviers
 cereless
@@ -16574,7 +16574,7 @@ clomiphene 2
 clomp 2
 clonal 2
 cloned
-cloner
+cloner 1
 caps 2
 collateralize 2
 contraparallelogram 2
@@ -25750,7 +25750,7 @@ citators 1
 chlormethylic 2
 compensators
 calctufa
-colophan
+colophan 1
 ceruminous 1
 caripeta 1
 conule 1
@@ -29364,7 +29364,7 @@ cryptophthalmos
 correspond 2
 commemorable 1
 counterdemand
-countian 2
+countian 3
 cryptopyic 1
 cambistry 1
 characterizers
