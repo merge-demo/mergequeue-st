@@ -234,7 +234,7 @@ antisensitizer 2
 amphibola 1
 abbotric 1
 allokinesis 1
-alchemistical 1
+alchemistical 2
 adipolytic 1
 ajourise 1
 aeroliths 2
@@ -2420,7 +2420,7 @@ arcana 1
 acyloxy 1
 adamances 1
 autosymbolic
-abortionist 3
+abortionist 4
 abator
 adjection
 antechambers
@@ -5147,7 +5147,7 @@ aesthetic
 astomous 2
 archsacrificator 1
 amphionic 4
-aestheticism 1
+aestheticism 2
 aestheticist 1
 atherosclerotically
 aestii 1
@@ -10938,7 +10938,7 @@ ammu
 amnesia 1
 amnestied
 adulterated 1
-aimer 3
+aimer 4
 acneform 1
 autohypnosis 3
 alf 2
@@ -20376,7 +20376,7 @@ archegoniatae 1
 avision
 antiochianism 1
 armeria 2
-arsenoxide
+arsenoxide 1
 acrasiales 2
 attroopment
 anchitherioid 1
