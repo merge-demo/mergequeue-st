@@ -597,7 +597,7 @@ birdie 5
 bibliolatry 3
 baconize 2
 baconweed 1
-bierkeller 3
+bierkeller 4
 bonjour
 barniest 1
 bricoles
@@ -7972,7 +7972,7 @@ bushels 1
 brusher 1
 bicker
 bicarbureted
-bicarburetted
+bicarburetted 1
 binucleated
 beanbag 1
 bristles 2
@@ -13636,7 +13636,7 @@ beclouded 1
 blepharophyma
 blockaders
 brantail 2
-bibulosities 2
+bibulosities 3
 bounded 2
 baxter 1
 brigadiership
