@@ -4796,7 +4796,7 @@ cowlings 1
 carpoidea 1
 chalcidid 1
 carpolith 1
-confides
+confides 1
 clitellus
 carpology
 corrosibility 1
@@ -25847,7 +25847,7 @@ corrugator 2
 cadelle
 corrugent
 cryptonym
-corrup
+corrup 1
 carolinian 3
 chelinga 1
 compellative 2
