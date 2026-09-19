@@ -4346,7 +4346,7 @@ enapt 2
 evilsayer 2
 elatinaceae 3
 equipments 3
-enarched 2
+enarched 3
 eurypygidae 1
 electroamalgamation 3
 engagers 2
@@ -4659,7 +4659,7 @@ economic 5
 englishism 2
 enciphering 4
 enrapture 4
-eulogism 1
+eulogism 2
 engerminate 1
 empaper 1
 executonis 1
@@ -5807,7 +5807,7 @@ extrinsic 4
 engram 2
 engrafter 3
 exibilate
-engrailed
+engrailed 1
 elsewards 3
 epizoicide 3
 engrainer
@@ -12667,7 +12667,7 @@ emeralds 1
 essancia 1
 exceptant 1
 egurgitating 1
-excussio 2
+excussio 3
 exoenzyme 1
 enterobacterial 1
 esrogim 2
@@ -13666,7 +13666,7 @@ extends
 eponychium 2
 extensibility 1
 euphemization 1
-extranational 1
+extranational 2
 epilemma 2
 extensions 1
 eggcup 3
