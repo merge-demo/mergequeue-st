@@ -4444,7 +4444,7 @@ courthouses 2
 cariri
 caririan 2
 commoner 1
-choke 3
+choke 4
 carisa 1
 cabilliau
 concertina 1
@@ -18403,7 +18403,7 @@ creepy 1
 cesarian
 chatchkas
 chirimoya
-clypeal
+clypeal 1
 compactedness 1
 cognition 1
 conclude
