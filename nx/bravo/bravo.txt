@@ -1354,7 +1354,7 @@ bioplastic 5
 barrowcoat 3
 brod
 botrylle 2
-backdrops 1
+backdrops 2
 butterflyer 4
 borderlands 1
 balbusard 2
@@ -3928,7 +3928,7 @@ buckishly 1
 bamboos
 bbs 1
 bassly 3
-beliquor 2
+beliquor 3
 balaniferous 1
 bookbindery 1
 birdweed 1
@@ -9843,7 +9843,7 @@ burgherhood 2
 biteche 3
 barbicans 3
 bowdlerization
-barrels
+barrels 1
 balawa 4
 beamy 1
 biternately 1
@@ -10601,7 +10601,7 @@ basilard
 bibcocks 2
 bouk
 bajada 2
-bobache
+bobache 1
 braless
 bransle 4
 blatting 3
@@ -11173,7 +11173,7 @@ ballow
 blindages 5
 beknot 2
 bitewings 3
-breveted 2
+breveted 3
 boronia
 bumelia 4
 brutalised 1
