@@ -1354,7 +1354,7 @@ bioplastic 5
 barrowcoat 3
 brod
 botrylle 2
-backdrops 1
+backdrops 2
 butterflyer 4
 borderlands 1
 balbusard 2
@@ -2968,7 +2968,7 @@ boltsmith
 bicentral 1
 basiation 2
 bolthole 3
-bisiliquous
+bisiliquous 1
 beshow 2
 barophobia 3
 barricoes
@@ -3928,7 +3928,7 @@ buckishly 1
 bamboos
 bbs 1
 bassly 3
-beliquor 2
+beliquor 3
 balaniferous 1
 bookbindery 1
 birdweed 1
@@ -10601,7 +10601,7 @@ basilard
 bibcocks 2
 bouk
 bajada 2
-bobache
+bobache 1
 braless
 bransle 4
 blatting 3
@@ -16926,7 +16926,7 @@ bakshi 2
 bluestockingish 2
 buggier
 bushboy 2
-bombardon 2
+bombardon 3
 beeve 1
 bussu 1
 baloch 1
