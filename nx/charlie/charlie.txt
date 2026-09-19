@@ -934,7 +934,7 @@ caky 1
 clientelage 1
 conformant
 consecration
-cols
+cols 1
 collagist 2
 chazzanut
 cakravartin
@@ -1982,7 +1982,7 @@ cameras 2
 catabolism 1
 camerate
 carlovingian 1
-countervolition 1
+countervolition 2
 cidaroida
 civicism
 cetiosaurus
@@ -2618,7 +2618,7 @@ cowskins 1
 counterdisengage 1
 cryptocrystallization
 columnar
-cyamelide 1
+cyamelide 2
 caned
 canela
 canelas 1
@@ -8704,7 +8704,7 @@ chapeled 1
 concion 1
 convalescency
 crenelle 2
-chapelgoing 1
+chapelgoing 2
 chapelize
 cytologically 1
 chirpier
