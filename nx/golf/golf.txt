@@ -936,7 +936,7 @@ glibness 2
 gammerel 2
 gammerstang 5
 garboils 3
-gastropneumatic 4
+gastropneumatic 5
 gannets 4
 groundplot 2
 gammock 2
@@ -6132,7 +6132,7 @@ gardy 3
 grumpish 3
 gnapweed 3
 gallification
-gyrates 5
+gyrates 6
 gowiddie 3
 glossolalist 3
 goblinry 3
@@ -7168,7 +7168,7 @@ girly 3
 gorglin 4
 gynerium 3
 gladden 4
-gestate 1
+gestate 2
 galvayne 3
 grabbers 2
 gymnogene 5
