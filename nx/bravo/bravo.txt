@@ -9291,7 +9291,7 @@ biplane 1
 byee 1
 bobolink 1
 biplanes 1
-beclogging
+beclogging 1
 bullterrier
 bonavist 2
 butler
@@ -10902,7 +10902,7 @@ bebled 2
 ba 4
 brideship 1
 benn 3
-biffing
+biffing 1
 blooded 3
 blindfish 3
 blindfishes
@@ -18379,7 +18379,7 @@ bortsch
 bepaint
 buzz 2
 buzzard 4
-bubos 1
+bubos 2
 beylical
 beasts 4
 bluebook 1
