@@ -2092,7 +2092,7 @@ campagne
 calomel
 conli
 campaign
-clotheshorses 1
+clotheshorses 2
 campaigners
 campaigns 2
 colostric 1
@@ -5695,7 +5695,7 @@ coburgher
 catasarka 3
 catasetum 1
 ching
-communionist 4
+communionist 5
 ceratopsia
 cephalodymia 1
 catastases 1
@@ -10144,7 +10144,7 @@ circumfusing
 celioncus 3
 chevesaile
 chevetaine 1
-commodores
+commodores 1
 capitalistic 1
 copurchaser
 chevin
@@ -13360,7 +13360,7 @@ cyclosis 1
 cuppas
 cyclosporeae
 cleaners 1
-cyclostyle
+cyclostyle 1
 cyclostoma 2
 chasers 1
 centaurium 2
@@ -20204,7 +20204,7 @@ coxcombical 2
 commix 3
 commixing 3
 chinenses 3
-curvaceously
+curvaceously 1
 commixtion 2
 commixture
 commo 1
@@ -25111,7 +25111,7 @@ caryophyllene
 convivialist 2
 corelated 1
 corelates
-corelating 2
+corelating 3
 chemosurgical 1
 calcspar 3
 corelational
