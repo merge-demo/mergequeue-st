@@ -1054,7 +1054,7 @@ chloroplastid
 channellers 1
 calcareous 1
 chironomidae
-calcareousness
+calcareousness 1
 capitalise 1
 chiliaedron 2
 calcariferous
@@ -7086,7 +7086,7 @@ colitoxemia
 centiday 1
 cannikin 1
 copt 1
-confluences 1
+confluences 2
 centigrams 3
 centile 3
 cendre 1
@@ -7338,7 +7338,7 @@ cephalodiscida 1
 cephalodiscus
 crownpiece 2
 cephalodium 2
-charpie
+charpie 1
 cephalogram
 cephaloid 1
 culminates 1
@@ -11878,7 +11878,7 @@ carmagnoles
 castration 1
 chorales
 comradery
-caseation 1
+caseation 2
 concio 1
 cassapanca
 chorals 1
@@ -24553,7 +24553,7 @@ chromatodysopia 1
 cope
 cappers 1
 capillus 1
-coetaneously
+coetaneously 1
 copehan 1
 copeia
 copeman 3
