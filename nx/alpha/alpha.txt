@@ -1100,7 +1100,7 @@ askew 2
 abundance 1
 accurtation 1
 alcelaphine 1
-ammoniojarosite
+ammoniojarosite 1
 apparelled 2
 abundancy
 abundant 2
@@ -12464,7 +12464,7 @@ andrographis 2
 acrotomous
 adamsite
 andromache 1
-arbusterol
+arbusterol 1
 andromaque
 arborizes
 actuary 2
