@@ -2830,7 +2830,7 @@ baudery 1
 beclap 2
 barothermograph
 bowelling 2
-barotrauma 1
+barotrauma 2
 bulgurs 1
 bravest 2
 barotraumas 1
@@ -11437,7 +11437,7 @@ boxthorn 1
 bluejacket 3
 bluejacks 1
 blueline
-beknit
+beknit 1
 blennophthalmia 1
 bromochloromethane 2
 beeves 1
@@ -12213,7 +12213,7 @@ brimstone 2
 bewest
 blamable 1
 bollock 1
-bema 1
+bema 2
 brachiate 3
 beginner 1
 bolloxes 2
