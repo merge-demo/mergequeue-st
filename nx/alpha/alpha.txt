@@ -4590,7 +4590,7 @@ abranchial
 aliptes 6
 axotomous
 advertence 2
-advertently
+advertently 1
 adverting 1
 appertise
 advertisers 2
@@ -9324,7 +9324,7 @@ axunge
 antitumor
 alopecia 1
 alopecias 2
-alopecoid 2
+alopecoid 3
 antrectomy 1
 alophas
 adventitious 1
@@ -15386,7 +15386,7 @@ araneology 1
 antikings
 arachnoidal 2
 agenes
-anatherum
+anatherum 1
 akalimba 2
 anticonstitution 2
 antisabbatarian 1
