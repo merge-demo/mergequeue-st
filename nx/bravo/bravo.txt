@@ -369,7 +369,7 @@ backgammon
 board
 barbarical 2
 barwares 1
-breaststroke 1
+breaststroke 2
 background 1
 backhand 3
 backhandedness 2
@@ -819,7 +819,7 @@ benignness
 blake 1
 baffies
 benting 1
-bibliotist 3
+bibliotist 4
 bangalow 1
 baigneuse 1
 bafflement 1
@@ -13315,7 +13315,7 @@ bivaulted 1
 botanically 2
 botanics 2
 bridechamber 2
-botanies 2
+botanies 3
 botanize 1
 brushmen 1
 boswellizing 4
