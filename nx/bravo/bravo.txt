@@ -1335,7 +1335,7 @@ belying
 basellaceous
 balatron 2
 benzaldiphenyl 3
-boser 2
+boser 3
 bermudian 1
 bernoullian 1
 bingy 2
@@ -3494,7 +3494,7 @@ biennium
 boyla 1
 bootlick 3
 biosis 1
-batarde
+batarde 1
 bullaces 2
 batatas 1
 batavi 1
@@ -7157,7 +7157,7 @@ bifoliate 2
 biologist 1
 brightly 3
 barricades
-bessel 1
+bessel 2
 bessemerize
 bugleweed 3
 besses 2
@@ -9067,7 +9067,7 @@ butterier 2
 bisegment 1
 berrettino 3
 bristlemouth 1
-backfire 1
+backfire 2
 biophotophone
 bemire 4
 brickmaking 3
@@ -9823,7 +9823,7 @@ benzoquinone 3
 bisubstitution 1
 babblingly 3
 bubblebow 1
-bocca 2
+bocca 3
 bitable 2
 bidialectal 1
 bytalks 2
@@ -16161,7 +16161,7 @@ baseman
 bosomy 1
 brailler
 butylated 1
-blotting
+blotting 1
 bonelessness
 befret 2
 billowing 1
@@ -17680,7 +17680,7 @@ bevomits
 birgus 2
 bakehouse 2
 bordage 1
-blackfin 1
+blackfin 2
 blueings 3
 bonuses 3
 boomlets 3
