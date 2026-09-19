@@ -528,7 +528,7 @@ epedaphic 3
 epithelioceptor 4
 edgy 1
 enciphered 1
-exopterygotous
+exopterygotous 1
 enormity
 enclitically 2
 echinodermatous 3
@@ -5607,7 +5607,7 @@ enform
 extrospection 1
 ergometric 2
 embarrasses 3
-epicritic
+epicritic 1
 enforth 3
 estrangle 3
 eigenvalue 4
