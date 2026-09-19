@@ -934,7 +934,7 @@ ecttypal 3
 equates 2
 emanatory 1
 ecuadorian 2
-ecumenacy 1
+ecumenacy 2
 engraffing 3
 electroforming 1
 equilibristic 2
@@ -3210,7 +3210,7 @@ errability 1
 epiparasite 2
 ethanedial 1
 else
-esteeming
+esteeming 1
 evacuee 3
 electioneers 1
 epaule 3
@@ -6985,7 +6985,7 @@ elissa 1
 exchequers 2
 enterocoela 2
 exocoetus
-eyeglass 1
+eyeglass 2
 eggfruit 1
 epimerism 2
 elastomer
@@ -13390,7 +13390,7 @@ elegizing
 exposes
 encrustant 2
 envassalage 2
-encrownment 3
+encrownment 4
 enrichers 4
 emprent
 esthesiometry 6
