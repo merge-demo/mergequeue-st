@@ -1361,7 +1361,7 @@ balbusard 2
 beggarliness 3
 burlap 3
 brayed 2
-butterbump 1
+butterbump 2
 betwixen 2
 balconies 1
 bacule 2
@@ -5809,7 +5809,7 @@ bellhouse 2
 belli 2
 buckstone 3
 bellyache 2
-biremes 2
+biremes 3
 butlerism 1
 bandstop 1
 bellyached
@@ -6815,7 +6815,7 @@ berwick 2
 bummaree 3
 bacteriaemia
 burley
-baroi 2
+baroi 3
 bes 1
 biocide 1
 bushpig
@@ -9744,7 +9744,7 @@ bissellia 1
 bullbats 2
 balding
 bombylious 1
-begobs
+begobs 1
 barleduc 1
 bacillus 2
 brichette 2
@@ -11204,7 +11204,7 @@ bacteriocidal 2
 blooped 1
 byways 2
 bertram 1
-bedclothes
+bedclothes 1
 bronchiloquy 1
 boulevardiers
 bicyclists 1
@@ -13420,7 +13420,7 @@ bulgier 1
 birles 1
 beaver 1
 botryllus
-bucketer
+bucketer 1
 batonistic 2
 brachycome
 brannier
@@ -13490,7 +13490,7 @@ baronethood 1
 blatant 1
 bisulfate 1
 bottoming 1
-betweenness 1
+betweenness 2
 balderdash
 benefic
 bradyseismism 1
@@ -16681,7 +16681,7 @@ banquetings 1
 berimed 3
 buckeen 1
 benefactress 1
-busby 1
+busby 2
 belait 1
 buckers 2
 befringed 3
