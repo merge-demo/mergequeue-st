@@ -682,7 +682,7 @@ counterreformation 3
 cephalospinal 1
 cafetorium 1
 contributory 1
-cerris 1
+cerris 2
 caffeic
 caffeines 1
 cobblerless 1
@@ -3207,7 +3207,7 @@ capeweed
 coverlet
 craked
 citruses 3
-capewise 1
+capewise 2
 capework
 capful 1
 caphar 2
@@ -5460,7 +5460,7 @@ castoffs
 castoreum
 caftaned
 culverwort 1
-castra 2
+castra 3
 castrates 1
 covertical 1
 counterflory
@@ -13003,7 +13003,7 @@ cyanoaurate
 characeous
 cyanoauric
 cyanobenzene 3
-crepitating 1
+crepitating 2
 cephalomotor
 clothify
 clough 1
@@ -14422,7 +14422,7 @@ cirques 4
 cirrate
 carnate
 compounds 1
-cirratulidae
+cirratulidae 1
 costmary
 cirrhose 1
 cipolins 2
@@ -17568,7 +17568,7 @@ cacoxene 1
 coccidiosis 2
 coccidium 1
 coccidology 1
-coccids 1
+coccids 2
 coccygeal
 coccygean 1
 cornify
@@ -20293,7 +20293,7 @@ componentwise
 canthoplasty 1
 communal
 chapman 1
-coccineous
+coccineous 1
 chitin
 cliona 2
 communalise
@@ -24183,7 +24183,7 @@ conviction
 convictional 1
 civilizatory
 cibarium
-convictions
+convictions 1
 convictism 2
 cresolin 1
 connexive 1
@@ -26374,7 +26374,7 @@ compliantly
 caracole
 craie 2
 colymbiform
-caricatures 4
+caricatures 5
 collisional 1
 carnary 2
 coswearer
