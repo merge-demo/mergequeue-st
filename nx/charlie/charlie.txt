@@ -5757,7 +5757,7 @@ catchlight 2
 cultivatability
 cornein 2
 clockcase
-crystallogy
+crystallogy 1
 cowpock 1
 caudillism 1
 catchline
@@ -21060,7 +21060,7 @@ computativeness 3
 computer 3
 computerise
 computerization 1
-computerizes
+computerizes 1
 computerizing
 crones
 cogswellia 1
