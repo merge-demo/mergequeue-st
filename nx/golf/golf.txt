@@ -7209,7 +7209,7 @@ geotectonics 1
 give 3
 gynecol 1
 gape 1
-gorgosaurus 1
+gorgosaurus 2
 galenism 2
 gorillalike 2
 guardage 3
@@ -7683,7 +7683,7 @@ gruelingly 3
 germinancy 3
 gassier 1
 gramarye 5
-gastropyloric
+gastropyloric 1
 guigne 4
 gavial 3
 gaffes 2
