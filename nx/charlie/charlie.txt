@@ -9361,7 +9361,7 @@ chavel 2
 chavender 1
 confirmment
 compart 1
-chavicin 4
+chavicin 5
 chomp 2
 chiot 1
 chavicol
@@ -12019,7 +12019,7 @@ choristate
 chorister
 centralization 1
 coenacting
-choristership
+choristership 1
 choristoneura 2
 childminder 4
 corelation
@@ -12427,7 +12427,7 @@ cystostomy
 chromidae 1
 chromide 1
 chiffchaff
-chromides 1
+chromides 2
 chromidiosome 2
 circuses
 carolers
@@ -21558,7 +21558,7 @@ concurrently
 cellarets
 concurrentness
 corsepresent 1
-concrescible 3
+concrescible 4
 calyceraceous 1
 cofinal
 concurring 1
@@ -21585,7 +21585,7 @@ convent 3
 condemnations 1
 clangour 2
 chichimecan 2
-clour
+clour 1
 crustiness
 condemners 1
 condemning
@@ -30388,7 +30388,7 @@ corralling 2
 crustacean
 coversed 1
 cancelier 1
-crustaceology
+crustaceology 1
 chinovnik
 crustaceological 2
 crustaceologist 2
