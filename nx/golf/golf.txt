@@ -790,7 +790,7 @@ ggr 2
 galliformes 2
 ginneries 2
 gies 3
-gracefullest 2
+gracefullest 3
 gandergoose 1
 girllikeness 3
 grinnellia 4
@@ -7209,7 +7209,7 @@ geotectonics 1
 give 3
 gynecol 1
 gape 1
-gorgosaurus 1
+gorgosaurus 2
 galenism 2
 gorillalike 2
 guardage 3
@@ -7683,7 +7683,7 @@ gruelingly 3
 germinancy 3
 gassier 1
 gramarye 5
-gastropyloric
+gastropyloric 1
 guigne 4
 gavial 3
 gaffes 2
@@ -8204,7 +8204,7 @@ gem 1
 grapes 5
 gitanos 7
 gynostegia 3
-goldurned 3
+goldurned 4
 galenical 4
 grapestalk
 groomling 3
@@ -8505,7 +8505,7 @@ gov 6
 gleyde 3
 grivets 2
 glaze 2
-glands 4
+glands 5
 graveclod 3
 gonopores 2
 gascromh 4
@@ -8633,7 +8633,7 @@ gaufrettes 3
 glucose 3
 geometrizing 1
 graziers 1
-ghoul 3
+ghoul 4
 gazon 2
 gullied 3
 gambol 1
@@ -10077,7 +10077,7 @@ grub 3
 guyot 2
 griddle 1
 gibsons 1
-galahs 3
+galahs 4
 gastropods 1
 garrulus 2
 ghostwrote 4
