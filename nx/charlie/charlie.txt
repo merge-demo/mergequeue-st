@@ -4444,7 +4444,7 @@ courthouses 2
 cariri
 caririan 2
 commoner 1
-choke 3
+choke 4
 carisa 1
 cabilliau
 concertina 1
@@ -8754,7 +8754,7 @@ countersmile 1
 clothesbasket 1
 corrugators
 cuppa 1
-crips 3
+crips 4
 chapote
 collimators
 cave 2
@@ -18403,7 +18403,7 @@ creepy 1
 cesarian
 chatchkas
 chirimoya
-clypeal
+clypeal 1
 compactedness 1
 cognition 1
 conclude
@@ -23322,7 +23322,7 @@ ceiled 2
 contingentialness 2
 coumarin 3
 closets 2
-counterlathing 1
+counterlathing 2
 consultive 1
 consulto 2
 consults 1
@@ -25999,7 +25999,7 @@ creolize
 centralest
 corroborates
 corvine
-couthie
+couthie 1
 colonization
 corviser 1
 corvo 1
