@@ -262,7 +262,7 @@ electroplated 2
 expiries 2
 easterling 1
 exhumers 1
-epigoneion 1
+epigoneion 2
 enqueue 1
 enantioblastic 4
 endognath 2
@@ -7572,7 +7572,7 @@ extrafascicular 1
 extratelluric 1
 epicondylic 2
 eoiths 3
-epoptist
+epoptist 1
 endshake 2
 equichangeable 5
 enviousness 3
@@ -11352,7 +11352,7 @@ eventual 1
 eozoic 2
 emusifying
 eve 3
-exceptional 3
+exceptional 4
 exorcistical 1
 epixylous 2
 evea 2
