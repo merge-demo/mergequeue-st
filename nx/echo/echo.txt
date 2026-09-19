@@ -100,7 +100,7 @@ earpick
 elastician
 extrudable 3
 earpiece 2
-exegesis
+exegesis 1
 equiperiodic 4
 enmarble 1
 earreach 1
@@ -262,7 +262,7 @@ electroplated 2
 expiries 2
 easterling 1
 exhumers 1
-epigoneion 1
+epigoneion 2
 enqueue 1
 enantioblastic 4
 endognath 2
@@ -1761,7 +1761,7 @@ everliving 2
 euphonous 1
 embrute 5
 escalloping 2
-epauleted 2
+epauleted 3
 eyesight 3
 epigenic 2
 enormities
@@ -5794,7 +5794,7 @@ engoument 4
 encounter 2
 exanthema 1
 entification 1
-evade 2
+evade 3
 emulatory
 etherizing 4
 efficace 2
@@ -7531,7 +7531,7 @@ epicycle 3
 eeyuch 1
 esogastritis 4
 eolithic 2
-euglena 3
+euglena 4
 earnestness 3
 exterminate 2
 eikonology
@@ -7572,7 +7572,7 @@ extrafascicular 1
 extratelluric 1
 epicondylic 2
 eoiths 3
-epoptist
+epoptist 1
 endshake 2
 equichangeable 5
 enviousness 3
@@ -8367,7 +8367,7 @@ equerries
 egyptianism 3
 eardrum
 enpia 3
-erodible 2
+erodible 3
 endodermic 3
 enstamp 3
 extents 3
@@ -9923,7 +9923,7 @@ elderwood 4
 epididymodeferential 3
 ebraick 1
 estral 3
-evermore 2
+evermore 3
 exoccipital 6
 electrogenetic 1
 episodal 2
@@ -10429,7 +10429,7 @@ edentalous 3
 eurypteroid 3
 eviscerated 1
 eloinment 2
-embryoniferous 5
+embryoniferous 6
 economiser 3
 ectocondyle 2
 excommunicatory 1
@@ -11352,7 +11352,7 @@ eventual 1
 eozoic 2
 emusifying
 eve 3
-exceptional 3
+exceptional 4
 exorcistical 1
 epixylous 2
 evea 2
@@ -12020,7 +12020,7 @@ exclaims 3
 exclamative 2
 epithermally 2
 exclamatory 3
-exclaves 4
+exclaves 5
 excavational
 expensed 2
 eryngium 1
