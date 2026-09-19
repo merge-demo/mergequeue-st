@@ -3890,7 +3890,7 @@ formation 1
 followers
 fevertrap 4
 farming
-footslogged 2
+footslogged 3
 febriferous 3
 fluidextract 1
 findable 2
