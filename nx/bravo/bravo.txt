@@ -7966,7 +7966,7 @@ bodegones
 boardroom 2
 borderside
 bename 4
-beclad
+beclad 1
 bap 2
 bushels 1
 brusher 1
@@ -8640,7 +8640,7 @@ baraza 3
 billon 3
 baronizing
 billow 1
-bimorph 1
+bimorph 2
 balladeroyal 1
 butterflyfishes 1
 belinuridae 1
@@ -11355,7 +11355,7 @@ bestialising 1
 bankable 1
 bricked 1
 bromegrass 2
-bluchers 1
+bluchers 2
 bloodhound 1
 belouke
 bludgeon 2
@@ -12789,7 +12789,7 @@ bebop 2
 bookstand 1
 blemisher
 bookstores
-bigaroon 2
+bigaroon 3
 bucolic 1
 bullfice 1
 baskerville 1
@@ -13166,7 +13166,7 @@ borrachio
 borrasca 1
 borreria 2
 bandoliered
-borrowable 1
+borrowable 2
 barocyclonometer 2
 borrower 2
 borrowers 1
@@ -13201,7 +13201,7 @@ bisext 3
 brachystomata
 bender
 begemmed 5
-boschveld 1
+boschveld 2
 bemourn 2
 boulevardize 2
 bricklining 1
@@ -14793,7 +14793,7 @@ bercelet 2
 brawlsome 2
 brawnedness 1
 bellowsmaking 1
-barre 4
+barre 5
 bilamellated 1
 beniseed 3
 behalves 1
