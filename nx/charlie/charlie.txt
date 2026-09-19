@@ -934,7 +934,7 @@ caky 1
 clientelage 1
 conformant
 consecration
-cols
+cols 1
 collagist 2
 chazzanut
 cakravartin
@@ -8704,7 +8704,7 @@ chapeled 1
 concion 1
 convalescency
 crenelle 2
-chapelgoing 1
+chapelgoing 2
 chapelize
 cytologically 1
 chirpier
@@ -16651,7 +16651,7 @@ cedric 1
 climbing
 cypselidae 1
 closeouts 1
-closer 2
+closer 3
 chlorophyllose
 chrysler
 checkerwise
@@ -24407,7 +24407,7 @@ candour 2
 cosmoramic
 coolness 1
 confessarius 3
-coolnesses 1
+coolnesses 2
 cools
 coappear 2
 cardiophrenia 1
@@ -31764,7 +31764,7 @@ cardiauxe 1
 customizations 1
 customize 1
 customized 1
-capons
+capons 1
 customizer 1
 customizers
 complotted 3
