@@ -2572,7 +2572,7 @@ bactrian
 barile 1
 barilla 1
 beleaf 1
-barters 3
+barters 4
 bathofloric 2
 baryon 3
 bathometer 3
@@ -2870,7 +2870,7 @@ bashawism 1
 bellmouth
 buddage 2
 brushed
-barrage 1
+barrage 2
 barnmen
 banger 2
 brushland 1
@@ -9473,7 +9473,7 @@ bioinstrumentation 3
 bathymeter 2
 basaltine 2
 bemedaled 1
-bashes 1
+bashes 2
 birma 2
 busted 2
 baconianism 4
@@ -11687,7 +11687,7 @@ boattail 1
 byeworkman 3
 barbouillage
 blazoners 1
-bosks 1
+bosks 2
 boatward 1
 blackboys
 boatwright 3
@@ -14102,7 +14102,7 @@ baring 2
 blusterously 1
 brachygnathia 2
 brachygnathism
-bardlike
+bardlike 1
 bailieries 1
 blackberries 2
 barytine 2
@@ -17297,7 +17297,7 @@ bottomchrome 1
 boniest
 bauxite
 bantams
-bummel
+bummel 1
 bummie 2
 bursal
 bumming 2
