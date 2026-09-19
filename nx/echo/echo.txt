@@ -5607,7 +5607,7 @@ enform
 extrospection 1
 ergometric 2
 embarrasses 3
-epicritic
+epicritic 1
 enforth 3
 estrangle 3
 eigenvalue 4
