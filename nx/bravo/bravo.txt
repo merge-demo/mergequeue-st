@@ -326,7 +326,7 @@ backcross
 bewept 1
 balanoid 1
 bimong 2
-backdates 3
+backdates 4
 beplaster 4
 balushai 3
 boiloffs
@@ -2678,7 +2678,7 @@ barm
 begrimming 1
 bututs 2
 bernardine 2
-barmaster 6
+barmaster 7
 bergalith 2
 benzoic 2
 barmcloth 3
@@ -3250,7 +3250,7 @@ beautifying 3
 bisalt
 bote 1
 blottesquely 2
-babbling 1
+babbling 2
 biotechnological 3
 basilic 2
 bantingize 1
@@ -3478,7 +3478,7 @@ bovarism 4
 basuto 2
 bancos 2
 buphaga 3
-bander 2
+bander 3
 barkpeeler 1
 boobook
 bolloxed 1
@@ -7302,7 +7302,7 @@ baseboards 1
 barad 2
 bali 2
 betell
-bisexualism
+bisexualism 1
 bambuba 3
 brandish 2
 balsameaceae 1
@@ -8165,7 +8165,7 @@ bieldy 1
 bossa
 bellicoseness 2
 bielding
-bastnasite
+bastnasite 1
 bewinter
 benzopinacone 1
 byrlaw
@@ -17907,7 +17907,7 @@ backslider 1
 blamed
 bekiss 3
 bushgrass
-bubbled 1
+bubbled 2
 bushy 1
 barton 1
 badly
