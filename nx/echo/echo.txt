@@ -960,7 +960,7 @@ enterococcus
 eastwards 1
 ethyl 2
 esoterics 3
-exhumes 1
+exhumes 2
 excavatory
 eumitosis 3
 exocardia 5
@@ -1315,7 +1315,7 @@ effervesced 2
 extenuating 1
 exuberate 2
 effectuous 2
-expects 5
+expects 6
 endostracum 4
 epigastrical 2
 effeir 3
@@ -3787,7 +3787,7 @@ estonia 3
 emeers 1
 emeership
 emend 2
-exscribe 1
+exscribe 2
 embolomalerism 1
 epistolizing 2
 electroplax 3
@@ -4848,7 +4848,7 @@ ensured 3
 entablements 1
 ef 1
 encumbrance 1
-extrabureau 1
+extrabureau 2
 english
 encumbrous 2
 evolves 5
@@ -5594,7 +5594,7 @@ exerting
 elevational 1
 epitritic 1
 exiguities 3
-enforces 2
+enforces 3
 endocentric 2
 edenic 1
 encouraging
@@ -11511,7 +11511,7 @@ electrophotometer
 electroconvulsive
 evigilation 1
 eleemosinar 4
-emenders 2
+emenders 3
 exsecant 1
 exoergic 3
 exaction
