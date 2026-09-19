@@ -37,7 +37,7 @@ antecedence 2
 area
 allseeds
 aurine 2
-aethogen
+aethogen 1
 aerometeorograph 1
 abaciscus 2
 aquanaut 1
@@ -1289,7 +1289,7 @@ anucleate 1
 acontias 1
 arteriodiastasis 1
 acarocecidium 5
-archminister 2
+archminister 3
 antemask 2
 androlepsia
 amay 3
@@ -3737,7 +3737,7 @@ aeonicaeonist 2
 ashier
 antiatom
 anachoret
-alimenting
+alimenting 1
 attempre 1
 adenotomic 1
 adenous
@@ -4100,7 +4100,7 @@ application 2
 analysed
 accommodativeness
 acidogenic 1
-admiring
+admiring 1
 anality
 antislip 3
 agentival 1
@@ -8010,7 +8010,7 @@ anticombination 1
 augural
 appliers 1
 aldehydrol
-aspirators
+aspirators 1
 askapart
 alawi 2
 amaranths 1
@@ -10126,7 +10126,7 @@ antinationally 2
 archecclesiastic
 amylosynthesis 2
 adelpholite 1
-alumin
+alumin 1
 acidyl
 antiluetic
 antsigne 4
@@ -11822,7 +11822,7 @@ analeptic 1
 anabasis
 adenoidectomies
 analgesics
-anthropophagous 1
+anthropophagous 2
 allargando
 apportion 1
 aslake
@@ -12565,7 +12565,7 @@ anacephalize 1
 anticonfederationist
 anemometrically 1
 amanuenses
-anemometrographically 1
+anemometrographically 2
 alfilaria 2
 azoturia 1
 archthief 1
@@ -17698,7 +17698,7 @@ ambiguity 2
 aganippe 2
 axhead 1
 antiquities 2
-applejohn 2
+applejohn 3
 analogice
 amidogen 2
 antidotism 1
@@ -18935,7 +18935,7 @@ artilize 1
 anthropologist 2
 aesculapian 2
 allotrophic 2
-auricle
+auricle 1
 asphyxiated
 abedge 1
 archipelagian 1
@@ -22715,7 +22715,7 @@ apriline
 addlement 1
 afterwhile 1
 advancement 1
-athletes 2
+athletes 3
 areologically
 achenodium 1
 agkistrodon
