@@ -541,7 +541,7 @@ geranomorphae 2
 grunion 1
 gazometer 3
 galempong 2
-getfd 2
+getfd 3
 gableended 2
 gravamem 3
 gadinine 1
@@ -1093,7 +1093,7 @@ ganister 2
 guildry 3
 goriest 7
 giroflore 1
-glittering 3
+glittering 4
 gestion 4
 groat 6
 grooviness 1
@@ -1836,7 +1836,7 @@ gallonage
 gawkihood 3
 graphemics 1
 grecizing 3
-gossip 3
+gossip 4
 gyrostabilized 2
 graptolithina 3
 gazehound 3
@@ -5949,7 +5949,7 @@ gastroparesis 3
 garreted 5
 groucho 2
 gimmicked 2
-gurneys 2
+gurneys 3
 glutaminic 6
 galliambus 4
 gome 1
@@ -7914,7 +7914,7 @@ groggiest 2
 gilbertage 2
 guildsman 3
 gameful 4
-grandams 2
+grandams 3
 gusty 3
 generic 4
 gruelling 5
@@ -9035,7 +9035,7 @@ gneissose
 geog 6
 gobletful 4
 gnathophorous 1
-gnathobase 2
+gnathobase 3
 gymnure 3
 gastropore 1
 gallbladders 1
@@ -9292,7 +9292,7 @@ gemauve 2
 granitoid 4
 guarache 3
 groenendael 4
-gecko 4
+gecko 5
 graduale 3
 geoffrey 1
 groenlandicus 2
@@ -10248,7 +10248,7 @@ gregarious 1
 guinness 1
 gamodemes 2
 greyback 2
-getid 3
+getid 4
 grotianism 3
 gempylid 3
 gemelled 1
