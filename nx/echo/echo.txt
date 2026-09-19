@@ -100,7 +100,7 @@ earpick
 elastician
 extrudable 3
 earpiece 2
-exegesis
+exegesis 1
 equiperiodic 4
 enmarble 1
 earreach 1
@@ -1761,7 +1761,7 @@ everliving 2
 euphonous 1
 embrute 5
 escalloping 2
-epauleted 2
+epauleted 3
 eyesight 3
 epigenic 2
 enormities
@@ -5794,7 +5794,7 @@ engoument 4
 encounter 2
 exanthema 1
 entification 1
-evade 2
+evade 3
 emulatory
 etherizing 4
 efficace 2
@@ -7531,7 +7531,7 @@ epicycle 3
 eeyuch 1
 esogastritis 4
 eolithic 2
-euglena 3
+euglena 4
 earnestness 3
 exterminate 2
 eikonology
@@ -9923,7 +9923,7 @@ elderwood 4
 epididymodeferential 3
 ebraick 1
 estral 3
-evermore 2
+evermore 3
 exoccipital 6
 electrogenetic 1
 episodal 2
@@ -10429,7 +10429,7 @@ edentalous 3
 eurypteroid 3
 eviscerated 1
 eloinment 2
-embryoniferous 5
+embryoniferous 6
 economiser 3
 ectocondyle 2
 excommunicatory 1
