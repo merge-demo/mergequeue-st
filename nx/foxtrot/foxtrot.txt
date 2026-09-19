@@ -1032,7 +1032,7 @@ furriery 2
 fiberboard
 fids 1
 filazer 2
-ferriages 1
+ferriages 2
 frontons 2
 farrage 1
 ferroelectricity 4
@@ -1162,7 +1162,7 @@ forepass 2
 foochowese 2
 fovea 1
 fascist 1
-forgo 2
+forgo 3
 forficulidae 3
 filatures 1
 friths 1
@@ -1987,7 +1987,7 @@ fibratus 1
 functionalize 3
 frigiferous 3
 filmmaker 2
-flannelette 3
+flannelette 4
 ferocactus 4
 fireball 3
 fravashi 3
@@ -4182,7 +4182,7 @@ fairishness 4
 flickertail 3
 fishet 2
 fibrocaseous 2
-foliating 3
+foliating 4
 fanions 2
 flummadiddle 2
 forwarn 2
@@ -4844,7 +4844,7 @@ fructiparous 1
 feasting 2
 furnishing 1
 foliums 2
-franciscan 2
+franciscan 3
 froebelism 1
 footfall 2
 floor 1
@@ -7987,7 +7987,7 @@ foreshot 4
 ficelle 4
 fumatoriums 1
 fibrinogenous 3
-fitness
+fitness 1
 fluvioterrestrial 4
 freestones 2
 foreshow 3
@@ -10496,7 +10496,7 @@ fragrant 1
 fowent 1
 fermatian
 factionalist 4
-foliaceous 2
+foliaceous 3
 fribblers 3
 farrant 2
 frontiersmen 2
