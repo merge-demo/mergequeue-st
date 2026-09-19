@@ -1314,7 +1314,7 @@ biogasses
 bacao 3
 brochantite
 bury
-bedbug
+bedbug 1
 boleite 1
 bacterioprecipitin 1
 beltings 2
@@ -3248,7 +3248,7 @@ breird 1
 begunk
 beautifying 3
 bisalt
-bote 1
+bote 2
 blottesquely 2
 babbling 2
 biotechnological 3
@@ -11939,7 +11939,7 @@ bailiff 1
 bogart 2
 boosies
 bogbeans 1
-bordels
+bordels 1
 bogberry
 baluchi 1
 bogeyman
@@ -13613,7 +13613,7 @@ blinded
 backstone
 boulimia 2
 berate 1
-bornyl 2
+bornyl 3
 bailiffry 3
 biurate 1
 bodying 1
@@ -14805,7 +14805,7 @@ brightener 3
 bedimplies
 braxy 3
 braxies 2
-beetlike 4
+beetlike 5
 brunt 1
 brazenfacedness 1
 bargh 2
@@ -15644,7 +15644,7 @@ buzzardlike 2
 biting 3
 britannically
 brashy
-bloomery 1
+bloomery 2
 bumpkins 2
 blennophlogosis 1
 blimy 1
@@ -16364,7 +16364,7 @@ bacchius 2
 botryolite 1
 bevil 1
 backarrow 4
-benchmarking 1
+benchmarking 2
 balalaikas
 baned 4
 brujos 1
@@ -16533,7 +16533,7 @@ bishops 2
 budzat 3
 bandeaux
 broadpiece
-bisellium
+bisellium 1
 bisonant 1
 brutely 1
 blindstitch 2
