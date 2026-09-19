@@ -7340,7 +7340,7 @@ crownpiece 2
 cephalodium 2
 charpie 1
 cephalogram
-cephaloid 1
+cephaloid 2
 culminates 1
 cuticles 3
 crepuscle 2
@@ -9206,7 +9206,7 @@ chastities 1
 chockstone 2
 chasubled
 cooper 2
-chataka 3
+chataka 4
 chatchka 2
 croziers
 coterminal 2
@@ -10336,7 +10336,7 @@ canariote 2
 chickwit 1
 chicle
 chicly 1
-chicness
+chicness 1
 chantries 2
 chico
 caryocaraceous 1
@@ -12267,7 +12267,7 @@ chrissie
 cecotomy 1
 christadelphian 2
 chumulu 2
-cabrito 1
+cabrito 2
 chirimoyer
 carrytale 1
 coynesses
@@ -12354,7 +12354,7 @@ cenote 2
 chromate 1
 conjunction
 chromates
-chromatically 4
+chromatically 5
 chromatician 1
 chromaticness
 chromatid 1
@@ -12590,7 +12590,7 @@ contagious
 chronogram 1
 celestially 2
 chronogrammatic 1
-chronogrammatically 1
+chronogrammatically 2
 cheetah 2
 cymatium
 chronogrammic
@@ -15337,7 +15337,7 @@ caracter
 clanking
 chlorimetry 2
 curvilineal
-catchingly
+catchingly 1
 coldfinch 1
 cornfloor
 climatological 2
@@ -16167,7 +16167,7 @@ climber 3
 cabobs
 chromosantonin
 contrastingly 2
-caskanet
+caskanet 1
 concussive
 climbingfish 3
 collinearly 1
