@@ -721,7 +721,7 @@ baddies 6
 boral 1
 bade
 badness
-buckbrush 1
+buckbrush 2
 baff 2
 blueish
 baboen 2
@@ -9234,7 +9234,7 @@ bourbonesque 1
 bipedality
 bipeds
 bipeltate
-benettle 1
+benettle 2
 bipennate
 brunches
 bevor
@@ -12896,7 +12896,7 @@ bergfall
 bulkin 2
 blackcock 1
 basichromatin 3
-brainwater
+brainwater 1
 banyoro 1
 bacciform 1
 boorishness 4
@@ -17171,7 +17171,7 @@ buckramed 1
 beeish
 butyrate 1
 blastopore 2
-bookish 1
+bookish 2
 bullition 2
 bar
 boggin 3
