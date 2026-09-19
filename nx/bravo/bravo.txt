@@ -2384,7 +2384,7 @@ bastinade
 belligerency 1
 bachelorlike
 barbula 1
-bardiness 1
+bardiness 2
 barbulate 2
 barbulyie 5
 barbwires 4
@@ -7655,7 +7655,7 @@ besee 1
 boma 3
 befreckle 1
 biodynamic 5
-bewry
+bewry 1
 bankroller 1
 bullwhip 2
 brashiest 1
@@ -18020,7 +18020,7 @@ bromise 3
 busket 1
 baseness 3
 buskined 1
-birky
+birky 1
 beadmen 1
 bellmouthed
 beautied 1
