@@ -1066,7 +1066,7 @@ basanite 2
 breenge 1
 bersil 3
 boroughmaster 2
-bailiwick 3
+bailiwick 4
 bridler 1
 benzothiopyran 1
 blockhead 2
@@ -3503,7 +3503,7 @@ ballan 1
 buzzsaw 1
 bibble 4
 batrachiate
-biscuiting 2
+biscuiting 3
 bugeye 3
 bactericides 2
 breaststrokes
@@ -7257,7 +7257,7 @@ balti
 beguard 1
 beta 3
 broombush 1
-bedraggle
+bedraggle 1
 biogeographic
 betacismus
 betag
@@ -7751,7 +7751,7 @@ bhojpuri
 brim 2
 bhokra 2
 bonaventure
-bunglingly 1
+bunglingly 2
 bustee 2
 bingey 1
 baying 3
@@ -11241,7 +11241,7 @@ bf
 bezesteen 1
 borghalpenny 1
 bletia
-bisilicate 1
+bisilicate 2
 blotty 3
 buckets
 bromate 2
@@ -15344,7 +15344,7 @@ bankfull
 bolomen 1
 bohawn 2
 bechalk 3
-booth 2
+booth 3
 boarship 3
 bighead 4
 bluffers 1
@@ -15689,7 +15689,7 @@ buffone 4
 barrenest
 bulkheads 2
 burred 1
-benzoazurine 2
+benzoazurine 3
 broadcast
 broadcaster 3
 bullyragging 1
