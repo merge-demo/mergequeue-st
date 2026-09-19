@@ -1985,7 +1985,7 @@ aviso 1
 acetylizer
 anterofrontal
 assmannshauser
-acetylmethylcarbinol
+acetylmethylcarbinol 1
 aporetic 1
 arboreta 3
 acetylperoxide 2
@@ -3701,7 +3701,7 @@ airmonger
 adenomycosis 1
 adenomyofibroma 2
 alvite 1
-adenomyoma
+adenomyoma 1
 adenomyxosarcoma
 adenoneural
 aerophysical 1
@@ -7812,7 +7812,7 @@ arle 2
 arsacidan 1
 aldide
 assibilated 2
-affile 1
+affile 2
 avianize
 amability 2
 alcatras
@@ -20577,7 +20577,7 @@ arthrocleisis 1
 abear 3
 atomizer 1
 arthrodymic 3
-analytic 2
+analytic 3
 aristotelian 1
 alkoxy 2
 assimilations 1
@@ -22760,7 +22760,7 @@ atimon 1
 asthenobiotic 1
 advantageousness 2
 attainture 2
-atypy 1
+atypy 2
 ashame 1
 aprickle 3
 acidulent 1
@@ -23007,7 +23007,7 @@ azoisobutyronitrile 1
 aceraceae 2
 aspirate
 azogallein
-acetated
+acetated 1
 alehouses 2
 atrophying 1
 axiopisty 1
