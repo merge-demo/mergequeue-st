@@ -528,7 +528,7 @@ epedaphic 3
 epithelioceptor 4
 edgy 1
 enciphered 1
-exopterygotous
+exopterygotous 1
 enormity
 enclitically 2
 echinodermatous 3
@@ -5607,7 +5607,7 @@ enform
 extrospection 1
 ergometric 2
 embarrasses 3
-epicritic
+epicritic 1
 enforth 3
 estrangle 3
 eigenvalue 4
@@ -6511,7 +6511,7 @@ extraplanetary 4
 egophonic
 entangles 3
 empanel 2
-eatings
+eatings 1
 entasis 2
 elemin 1
 emiction 1
@@ -6937,7 +6937,7 @@ eclipsing 2
 endjunk 2
 entreaties 1
 enterograph 1
-excavatorial 1
+excavatorial 2
 enfuddle 2
 eager 1
 entreats 3
@@ -13026,7 +13026,7 @@ edictally 2
 euhemeristic 1
 expectorative 2
 ephebos
-equipollently
+equipollently 1
 extubate 2
 exhaustingly 4
 expostulatory
