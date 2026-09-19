@@ -4018,7 +4018,7 @@ carcinoid 1
 compartmental 1
 crystalloluminescence
 carcinolysin
-cycadiform
+cycadiform 1
 carcinological
 carbocyclic
 curtesy
@@ -12006,7 +12006,7 @@ cosmological 1
 crucified 1
 chorioptes 1
 chorioptic
-choripetalae 1
+choripetalae 2
 cleuk 1
 choripetalous
 chirality 2
@@ -15355,7 +15355,7 @@ chiricahua 2
 coembedded
 camelhair 2
 curnie 3
-clanswoman 2
+clanswoman 3
 chrysalidal
 characteristics
 cryptostegia
