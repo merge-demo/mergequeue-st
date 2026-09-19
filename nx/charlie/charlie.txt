@@ -3044,7 +3044,7 @@ cantoria
 cardsharps 1
 calabooses 1
 crystallographic
-cantoris
+cantoris 1
 cantors 1
 cerebrational
 centauri
@@ -12427,7 +12427,7 @@ cystostomy
 chromidae 1
 chromide 1
 chiffchaff
-chromides 1
+chromides 2
 chromidiosome 2
 circuses
 carolers
@@ -16304,7 +16304,7 @@ clypeate
 conspicuous
 colporrhexis 1
 caraco 2
-clypeated
+clypeated 1
 clypeola
 clypeolar 3
 clypeus
@@ -19484,7 +19484,7 @@ calendering
 churchliest
 coloury 1
 colourific
-conferree 1
+conferree 2
 cardita 1
 chondrosteoma 1
 crematoririums
@@ -21558,7 +21558,7 @@ concurrently
 cellarets
 concurrentness
 corsepresent 1
-concrescible 3
+concrescible 4
 calyceraceous 1
 cofinal
 concurring 1
@@ -23445,7 +23445,7 @@ contemplable 2
 contemplant 1
 contemplate
 contemplatedly
-contemplating
+contemplating 1
 catechetical 1
 contemplation 1
 cryptomnesia 2
@@ -24246,7 +24246,7 @@ constructing 3
 cynipidous 1
 convolves
 capacity
-crinital 2
+crinital 3
 contumaciously
 crowtoe 1
 collinear 1
@@ -24874,7 +24874,7 @@ christiform 2
 coracoid 1
 coracoidal 1
 crocket 1
-chaumontel 1
+chaumontel 2
 coredeeming
 clemency 2
 capilliform 2
@@ -26552,7 +26552,7 @@ chalcedonies 2
 cottonseeds
 camomile
 cymarose 2
-campyloneuron
+campyloneuron 1
 cottontails 1
 cabuyas 1
 compatible 1
@@ -30388,7 +30388,7 @@ corralling 2
 crustacean
 coversed 1
 cancelier 1
-crustaceology
+crustaceology 1
 chinovnik
 crustaceological 2
 crustaceologist 2
@@ -31517,7 +31517,7 @@ conoclinium
 curser 1
 cursers
 curship
-coadjuvant 1
+coadjuvant 2
 cornutin 1
 cursing 1
 coelenteron 1
