@@ -4796,7 +4796,7 @@ cowlings 1
 carpoidea 1
 chalcidid 1
 carpolith 1
-confides
+confides 1
 clitellus
 carpology
 corrosibility 1
@@ -5055,7 +5055,7 @@ caseloads
 crofterization 2
 carvage 1
 carval
-churlish
+churlish 1
 carve 2
 cannabinol 1
 carvene 1
@@ -11652,7 +11652,7 @@ concorrezanes 1
 cholesteatomatous 3
 cholesteremia
 cleidohyoid
-charoset
+charoset 1
 clethra
 cholesterinic 2
 cholesterol 1
@@ -13880,7 +13880,7 @@ cinnabar
 cinnamaldehyde 1
 collaborationism 3
 cinnamate 2
-cinnamein 1
+cinnamein 2
 cinnamene 1
 corser 1
 cinnamyl 1
@@ -17755,7 +17755,7 @@ cocreatorship 2
 citation 2
 campbellism
 coct 3
-coctile 1
+coctile 2
 chloroformist 2
 condog 2
 cocuyo 4
@@ -25847,7 +25847,7 @@ corrugator 2
 cadelle
 corrugent
 cryptonym
-corrup
+corrup 1
 carolinian 3
 chelinga 1
 compellative 2
@@ -25907,7 +25907,7 @@ corkscrewed 2
 climax
 chloe 1
 communing
-chauldron
+chauldron 1
 calorimetrical 2
 cuneoscaphoid
 correction 1
