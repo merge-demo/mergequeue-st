@@ -11453,7 +11453,7 @@ abody
 amps 2
 assigner
 approximant 1
-adversive 2
+adversive 3
 ampul 1
 admonitory
 anhydremia 1
@@ -20672,7 +20672,7 @@ acidimetrical 1
 afghani 1
 aspirates 1
 acanthial 2
-aulostomid
+aulostomid 1
 anywise
 amphorous 2
 arefy 2
