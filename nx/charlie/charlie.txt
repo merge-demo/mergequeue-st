@@ -12005,7 +12005,7 @@ crete
 cosmological 1
 crucified 2
 chorioptes 1
-chorioptic
+chorioptic 1
 choripetalae 2
 cleuk 1
 choripetalous
@@ -12618,7 +12618,7 @@ chronometer 2
 crom 4
 citolers 1
 chronometers
-countercultures 4
+countercultures 5
 chronometric 1
 chronometrically 1
 chronon 1
@@ -13016,7 +13016,7 @@ catchland 2
 cantrap 1
 cyanoethylation 1
 crumbable
-crates 2
+crates 3
 cyanoguanidine
 cyanohermidin 1
 cursoriidae 4
@@ -19823,7 +19823,7 @@ coagulate 1
 chelydridae
 comedo 1
 catacumbal
-cassareep
+cassareep 1
 cameloid 2
 comely 2
 cogence 3
@@ -26300,7 +26300,7 @@ cylindromata 2
 costiveness 1
 changeableness 3
 calliper
-costlessness
+costlessness 1
 charivari 1
 csk 1
 ceston
