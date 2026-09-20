@@ -601,7 +601,7 @@ bierkeller 4
 bonjour
 barniest 1
 bricoles
-bibbery 1
+bibbery 2
 billmen 1
 benzobis 1
 beclothed 2
@@ -1327,7 +1327,7 @@ bottine
 balantidic 2
 balaos 2
 baroquely 3
-baalath
+baalath 1
 barbed 2
 balases 1
 balat 1
@@ -8431,7 +8431,7 @@ biotherapy 1
 bilayer 3
 backtrick 1
 burp 1
-bookmen 2
+bookmen 3
 bilalo 4
 bacony 3
 beaverette 2
@@ -15839,7 +15839,7 @@ brokenheartedly 1
 binder
 buddha
 beggarwise
-bibacious 2
+bibacious 3
 bullied 1
 beaconing 3
 backlasher 2
