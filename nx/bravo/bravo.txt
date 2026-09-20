@@ -1065,7 +1065,7 @@ boyaus 1
 basanite 2
 breenge 1
 bersil 3
-boroughmaster 2
+boroughmaster 3
 bailiwick 4
 bridler 2
 benzothiopyran 1
@@ -4528,7 +4528,7 @@ barricaded
 burnsides 1
 batata 1
 becudgels 3
-bosons
+bosons 1
 bilixanthin
 bakongo 1
 becuiba 1
@@ -7971,7 +7971,7 @@ bap 2
 bushels 1
 brusher 1
 bicker
-bicarbureted
+bicarbureted 1
 bicarburetted 2
 binucleated
 beanbag 1
@@ -8414,7 +8414,7 @@ bauchle 1
 bikers 1
 becalmment 1
 bredi 3
-biplanal 3
+biplanal 4
 bikeway 1
 bedirter 2
 bedaze
@@ -9124,7 +9124,7 @@ bistournage 1
 biennia 1
 bridgewater 2
 bicalcarate
-blackthorns
+blackthorns 1
 bombax 1
 biosystematy 1
 benzomorpholine
@@ -12275,7 +12275,7 @@ biasses 3
 blenders
 boltcutter 2
 bookmark 1
-behold 3
+behold 4
 boltheading 2
 beslimed 1
 boltlike 1
@@ -14755,7 +14755,7 @@ bogglers 1
 benumbment
 bratwurst 3
 bibliopolic
-brauna 2
+brauna 3
 burgheristh 3
 bullwork 3
 braunite
@@ -17451,7 +17451,7 @@ babeldom 2
 browny 1
 bunnia 1
 bicoloured 3
-bunnies
+bunnies 1
 bunodont 1
 brickleness
 bacteroid 3
