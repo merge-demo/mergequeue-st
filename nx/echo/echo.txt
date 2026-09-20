@@ -2383,7 +2383,7 @@ ebriosity 2
 entomologize 1
 epitrochlea 3
 electrodes 4
-etherization 5
+etherization 6
 elotherium 1
 esterling 2
 embiid
@@ -3961,7 +3961,7 @@ epitases 5
 empaistic 2
 exilarch 2
 embroglio
-empale 1
+empale 2
 empalers 3
 eyepit 3
 empall 1
@@ -6487,7 +6487,7 @@ evomit 2
 ensmall 5
 encephalorrhagia 1
 eleventhly 2
-erythrocytometer 2
+erythrocytometer 3
 entamoebic 1
 encarpium 2
 endostosis 2
@@ -7146,7 +7146,7 @@ entender 1
 epistasis 2
 euphonym 2
 enchesoun 1
-ensample 2
+ensample 3
 enzootically 2
 evenlight
 exposed 1
@@ -8270,7 +8270,7 @@ egyptians 2
 estragole 4
 eskimoic 2
 embroiler 1
-earthy 1
+earthy 2
 evg 6
 excursional 3
 episthotonos
@@ -8972,7 +8972,7 @@ elfin
 eristically 2
 employer 3
 exophthalmos 6
-erythema 1
+erythema 2
 evene 3
 erythemal
 eths
@@ -11532,7 +11532,7 @@ elegancies 3
 epicurean 1
 elastometer 1
 encheiria 1
-erotylid 1
+erotylid 2
 exhaling 1
 eserin 1
 extractable 1
