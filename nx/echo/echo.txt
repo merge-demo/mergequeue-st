@@ -2383,7 +2383,7 @@ ebriosity 2
 entomologize 1
 epitrochlea 3
 electrodes 4
-etherization 5
+etherization 6
 elotherium 1
 esterling 2
 embiid
@@ -5798,7 +5798,7 @@ evade 3
 emulatory
 etherizing 4
 efficace 2
-electrovalency 1
+electrovalency 2
 endura 1
 exfoliation 3
 erlkings 4
