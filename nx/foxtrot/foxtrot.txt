@@ -3119,7 +3119,7 @@ fairylike 1
 fountainheads 1
 fibrocement 2
 frenzies
-fieulamort 4
+fieulamort 5
 formulas 2
 fibromyotomy 5
 frottages 2
@@ -4278,7 +4278,7 @@ febrifuges 2
 filacer 1
 fleers 2
 fiancee 1
-follicule
+follicule 1
 fibster 2
 fenland 4
 fungology 4
@@ -5885,7 +5885,7 @@ fecund 4
 fistfight 2
 facsimilize 1
 fates 1
-flexity 4
+flexity 5
 feague 1
 fangas 2
 flinted 5

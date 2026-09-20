@@ -11319,7 +11319,7 @@ cradlers
 chloroethene
 chlorofluorocarbon 1
 chlorofluoromethane
-clitoridauxe 1
+clitoridauxe 2
 ceylanite
 chloroformate 1
 churched 3
@@ -12470,7 +12470,7 @@ chromogenesis 1
 cingulate 1
 chamaecrista 1
 cranemanship
-chromoisomer
+chromoisomer 1
 chromoisomeric 1
 chamaenerion
 candelabra 1
@@ -16741,7 +16741,7 @@ colouristic 1
 couthy 1
 cloudy
 cloudiest 3
-cloudily 1
+cloudily 2
 cloudiness 1
 convocant 1
 centimeter 1
