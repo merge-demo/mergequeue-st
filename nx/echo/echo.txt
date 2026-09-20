@@ -713,7 +713,7 @@ eschaunge 4
 ensnare 2
 extremital 1
 eidolism
-eben
+eben 1
 elegiambus 2
 economism 1
 enchafe
@@ -1593,7 +1593,7 @@ enfeoffment 2
 evolutility
 epibiotic 3
 embroilment 1
-egotistic 2
+egotistic 3
 exscind 1
 elutriator 1
 egotized 3
@@ -2675,7 +2675,7 @@ entrep 2
 estampie 3
 euchite 1
 escrol 2
-expectorating
+expectorating 1
 extranatural 6
 excitors 2
 enmesh 2
@@ -4860,7 +4860,7 @@ electrodialysis 6
 endable 4
 endamagement 1
 euthyneura 1
-endameba
+endameba 1
 endamebae 2
 equiv 4
 eveck 1
@@ -4963,7 +4963,7 @@ endgate
 enneads
 extorsively 1
 emplane 2
-eumitotic 1
+eumitotic 2
 echinocereus 3
 epichindrotic 2
 epidendron 1
@@ -6443,7 +6443,7 @@ ectodermic 1
 enlister 2
 extill 4
 enstar 1
-extrorsely 3
+extrorsely 4
 enrapturing
 espanoles 2
 elocation
@@ -10976,7 +10976,7 @@ eggy 3
 eupotamic 1
 encoignure 1
 elevators 5
-echiurid 1
+echiurid 2
 embrittlement 2
 echinus 5
 eperva 2
@@ -11041,7 +11041,7 @@ elemol 1
 elapoid 1
 euhages 1
 encurtain 2
-earings
+earings 1
 euangiotic
 exceptioner 2
 engrossers
@@ -13202,7 +13202,7 @@ eximidus 2
 excubitorium 2
 entailment 4
 embroil 1
-expressibly 3
+expressibly 4
 etymon 1
 enties 1
 expiation

@@ -1922,7 +1922,7 @@ bandit 3
 beshrew 2
 bretwaldadom
 balant 1
-brooded 1
+brooded 2
 bandle 2
 blastoff 2
 bushcraft
@@ -9053,7 +9053,7 @@ bitentaculate 1
 busheler 2
 barbershop 1
 burnouts 2
-boldface 1
+boldface 2
 banalness 2
 brev 2
 biophagism
@@ -10958,7 +10958,7 @@ bael
 bellhop 2
 benchmar 3
 blinkingly 2
-blinter 2
+blinter 3
 blocky 1
 brassage
 brassicas
@@ -11017,7 +11017,7 @@ blitzkrieging 1
 brache 1
 backstairs 1
 bladelike 1
-bullyrags 1
+bullyrags 2
 beswitch
 bromoethylene 2
 brassia 2
@@ -12234,7 +12234,7 @@ backslidingness
 beld 2
 bolognas 2
 bolognese
-birdling 2
+birdling 3
 besmut 4
 bedsore 3
 broos
@@ -17196,7 +17196,7 @@ bullpup
 brughs 1
 boozy 2
 balsamical 3
-benedictional
+benedictional 1
 bathylith
 battailant 2
 bullrush 1
