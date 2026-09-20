@@ -386,7 +386,7 @@ chlorals 1
 cacolet
 cosseted 1
 cacomagician
-cacomelia 1
+cacomelia 2
 cacomistle
 canoeing
 cacomorphia 1
@@ -4154,7 +4154,7 @@ cardiodilator
 conformable 2
 chiropractor
 cardiodynia
-coadjacent
+coadjacent 1
 calfret
 coalheugh
 cardiogram
