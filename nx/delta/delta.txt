@@ -328,7 +328,7 @@ dimeran 1
 dummyweed 1
 disarm 6
 deltaite 2
-denumberment 1
+denumberment 2
 damier
 depasturage 1
 desalted 1
@@ -1354,7 +1354,7 @@ dipentine 1
 demissive 2
 diploid 1
 draftsperson 2
-doggerelize 1
+doggerelize 2
 dompt 2
 damagement 3
 dauntingness 1
@@ -1602,7 +1602,7 @@ doryanthes 2
 disinfector
 deadwork
 deaerated 1
-dorsum 3
+dorsum 4
 deaf 1
 dynamogenous
 disacidified 2
@@ -4125,7 +4125,7 @@ delitescent 4
 deliverer 3
 deliveress
 dehumidified 3
-dentirostrate 1
+dentirostrate 2
 dunkers
 desipience
 durneder
@@ -5006,7 +5006,7 @@ dextrocardia 1
 darci 2
 denationalise 1
 denationalize 2
-dedicator 2
+dedicator 3
 decaesarize 1
 densification 2
 dayal 1
@@ -7529,7 +7529,7 @@ dendroeca 3
 decemplicate 1
 dakhma
 drivels
-djibouti
+djibouti 1
 decatizer 1
 deuterogamy 1
 dalmatians 1
@@ -8038,7 +8038,7 @@ densher
 dealcoholist
 discuss 2
 denshare 2
-diaclase 1
+diaclase 2
 dhobis 3
 duchesse 1
 dysacusia
@@ -14539,7 +14539,7 @@ duodenary 3
 detribalization
 divisa
 dimethylketol
-directrixes
+directrixes 1
 downpouring 1
 divisibilities 3
 divisible
@@ -14606,7 +14606,7 @@ diarrheas 1
 duodenectomy 1
 drevel
 dichroiscopic 1
-dumpiest 1
+dumpiest 2
 daubreeite 1
 divulgation 2
 demoralised 1
@@ -16614,7 +16614,7 @@ dissimilated
 denunciate
 dragonade 2
 denotative 2
-donjon
+donjon 1
 dikdiks 3
 dactylopius 2
 derout 1
@@ -17980,7 +17980,7 @@ dufrenoysite 1
 dufter 3
 dosage 1
 dactyliography 2
-delimitate 1
+delimitate 2
 defibrinate 2
 dufterdar 4
 dys 4
