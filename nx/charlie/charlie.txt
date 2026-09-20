@@ -1298,7 +1298,7 @@ conviciate
 calf
 calfish
 chromophotograph
-calfkill
+calfkill 1
 calfless 1
 cerigerous
 copyism
@@ -8890,7 +8890,7 @@ chrysophanus
 crenelet 1
 carcinogen 1
 concisest 1
-cystose
+cystose 1
 concyclic 2
 charco 1
 charcoal
@@ -11755,7 +11755,7 @@ comicotragic
 chondrocranial
 circuitous
 chondrodystrophy 2
-chondrodystrophia 2
+chondrodystrophia 3
 chondroditic 2
 couthest 1
 connubiate 1
@@ -23231,7 +23231,7 @@ cardoncillo
 cajon
 cholecystocolotomy
 courtepy
-construability
+construability 1
 clavis 1
 clerestory 2
 cataractine
