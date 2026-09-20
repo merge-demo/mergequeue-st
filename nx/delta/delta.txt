@@ -6761,7 +6761,7 @@ disally 1
 dirtboard 1
 datatype 2
 demoralizer
-detestably 2
+detestably 3
 diathermic 1
 desilvers
 demultiplex 2
@@ -10318,7 +10318,7 @@ diopters 1
 decumary
 delf 3
 discounter 3
-dioptometer
+dioptometer 1
 disnature 2
 denudation 3
 deducement 3
