@@ -6089,7 +6089,7 @@ dualin 1
 detrimental
 dropout
 dimission 1
-durgen 1
+durgen 2
 dissolvable 2
 deckedout
 digestible 2
@@ -15021,7 +15021,7 @@ deposals 2
 dioptrics 1
 dashier 2
 disbutton 1
-decnet 4
+decnet 5
 drysalteries 2
 doggers 3
 dilogarithm 1
