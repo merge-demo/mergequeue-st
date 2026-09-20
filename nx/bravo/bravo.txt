@@ -194,7 +194,7 @@ bloodwood
 bees 1
 bushrope 2
 bookiness
-bestirred
+bestirred 1
 bemoanable 2
 bloodmobile
 beweep 2
@@ -2450,7 +2450,7 @@ briar 1
 barefaced 3
 britches 1
 bombacaceous 2
-baulk 2
+baulk 3
 bonete 1
 bradenhead 1
 byres
@@ -4528,7 +4528,7 @@ barricaded
 burnsides 1
 batata 1
 becudgels 3
-bosons
+bosons 1
 bilixanthin
 bakongo 1
 becuiba 1
@@ -8002,7 +8002,7 @@ bellworts
 bicyanide 1
 bojo
 beadhouses 4
-bicyclers
+bicyclers 1
 betainogen 1
 bicyclic 1
 bicyclism
@@ -8551,7 +8551,7 @@ bandos 1
 bennis 1
 barih
 baryecoia 6
-bejeweling 1
+bejeweling 2
 barabra 1
 bo
 bunting 1
@@ -11221,7 +11221,7 @@ biglandular 1
 bitterheartedness 2
 beheadal 1
 blossomless 2
-blotch 3
+blotch 4
 banal 1
 banco 3
 beestride
@@ -12998,7 +12998,7 @@ backcountry 3
 browntop 2
 booziness
 bookstore
-blockheadishness
+blockheadishness 1
 bopeep 1
 boxen 5
 braciola 3
@@ -16581,7 +16581,7 @@ bourreau 2
 boomers
 bubales
 bandwork
-beefish 2
+beefish 3
 bubals 2
 belling 2
 bubastid 3
@@ -17449,7 +17449,7 @@ baltis 1
 bunking 2
 babeldom 2
 browny 1
-bunnia
+bunnia 1
 bicoloured 3
 bunnies
 bunodont 1
