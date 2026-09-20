@@ -3766,7 +3766,7 @@ bribers 1
 batts
 blowpipe 2
 befouler 2
-boing 1
+boing 2
 brahmanic 2
 blackener
 biologists 2
@@ -5908,7 +5908,7 @@ bugdom
 banderillero
 belonidae
 bullions 3
-beprose 6
+beprose 7
 blisses 1
 backslap 3
 belostomatidae 2
@@ -8678,7 +8678,7 @@ bitumen 6
 boreiad 2
 bifluorid 2
 blepharostat 4
-bryonidin
+bryonidin 1
 birching 1
 branners 2
 bimalar 1
@@ -9858,7 +9858,7 @@ brennschluss 2
 barbing 2
 begums 1
 bites 1
-bebat
+bebat 1
 bytes 2
 bitewing 1
 beryx 2
