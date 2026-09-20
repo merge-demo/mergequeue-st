@@ -6189,7 +6189,7 @@ enterclose 1
 execs 3
 ellipsoid 1
 exodist
-enophthalmus
+enophthalmus 1
 enorm 2
 explorement 3
 exhalations 2
