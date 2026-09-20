@@ -1655,7 +1655,7 @@ butyrous
 balloted 1
 ballotist 2
 ballots
-ballottement 3
+ballottement 4
 bailiffship 2
 baronage 1
 byelorussians 1
@@ -4491,7 +4491,7 @@ bunemost 1
 brise 1
 buckrams 2
 becrinolined 2
-butches
+butches 1
 bromios 2
 becrippled 2
 beira 1
@@ -5189,7 +5189,7 @@ befriending
 bugbanes 2
 barns
 bondfolk 2
-barragan 2
+barragan 3
 bicentricity
 bide 1
 basihyoid 1
@@ -5908,7 +5908,7 @@ bugdom
 banderillero
 belonidae
 bullions 3
-beprose 6
+beprose 7
 blisses 1
 backslap 3
 belostomatidae 2
@@ -7727,7 +7727,7 @@ basaltiform 2
 biomathematics 1
 bhat 1
 burglaries
-bunning 2
+bunning 3
 bheesty 2
 bullaries 2
 bheestie 2
@@ -8134,7 +8134,7 @@ bourbon 3
 bug 3
 blasphemer 1
 beltmaker
-botonn 3
+botonn 4
 besieging
 bidiagonal 2
 binucleate 1
@@ -10117,7 +10117,7 @@ blackback 2
 beadles 1
 blackballed 1
 beinked
-blackballs 1
+blackballs 2
 bielorouss 2
 brogh 1
 blat 1
@@ -13237,7 +13237,7 @@ brenthis 1
 botryoidal
 bosomed
 beading 2
-ballock 2
+ballock 3
 babuma
 buzzers
 beaugregory 3
@@ -16438,7 +16438,7 @@ boroughs 1
 barmiest
 bewearying 4
 balsamum 1
-bridgeless
+bridgeless 1
 bellibone
 bps 1
 banditry 1
