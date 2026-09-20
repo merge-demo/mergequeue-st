@@ -3577,7 +3577,7 @@ esophagoplegia 3
 enchantery 1
 emanent 1
 edifier 1
-electrolytical 1
+electrolytical 2
 extracellularly 2
 excelsin 1
 emydes 1
@@ -10844,7 +10844,7 @@ eupatrids 1
 eluent 2
 exemplars
 enoptromancy 2
-engine
+engine 1
 electrocuting 3
 execrates 3
 etherealising 2
@@ -14211,4 +14211,4 @@ encaging 1
 excitron 2
 exxon
 exzodiacal 2
-ezod 1
+ezod 2
