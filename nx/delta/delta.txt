@@ -1496,7 +1496,7 @@ dazzlers
 damnification 1
 discernableness
 dazzlingness
-descale 2
+descale 3
 dbms 1
 degenerationist 1
 dbridement
@@ -1552,7 +1552,7 @@ disciplinarity 2
 dextrously 1
 deminudity 1
 dicranoid 1
-doubtfulness 3
+doubtfulness 4
 deactivation 1
 deactivators 1
 distressedness 1
@@ -3033,7 +3033,7 @@ disparateness 3
 deservings 3
 dragonfish
 disestablishment 2
-diphthongs 3
+diphthongs 4
 deucedly
 decarbonized 1
 desegregation 1
@@ -5849,7 +5849,7 @@ depredatory 1
 deontic 2
 disembargoed 4
 deodars
-diablene 1
+diablene 2
 duffy 2
 deprehend 2
 disprofit 3
@@ -6771,7 +6771,7 @@ dolichocephal 1
 disheir 1
 drafts 1
 detachments 2
-desinence
+desinence 1
 desinent 1
 dallying 2
 desinential 1
@@ -10177,7 +10177,7 @@ dehonestate 1
 demirevetment 2
 disallowing
 distillation
-dinging
+dinging 1
 dingleberry 1
 dreidl 2
 denuclearize 1
@@ -11603,7 +11603,7 @@ discursative 1
 discommune 1
 denominates 1
 disburgeon 2
-dragooner 1
+dragooner 2
 divell 2
 dismemberer
 discordable 1
@@ -17039,7 +17039,7 @@ dundrearies 2
 drenches 1
 decarboxylating 3
 drengage 1
-drepania
+drepania 1
 drepanidae 2
 ductibility 1
 defray 4
@@ -18584,7 +18584,7 @@ ditchdigger 3
 dusky 1
 dessil
 dozer 1
-derivatively 6
+derivatively 7
 dapico 4
 duikers
 disproportionable
