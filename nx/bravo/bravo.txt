@@ -1067,7 +1067,7 @@ breenge 1
 bersil 3
 boroughmaster 2
 bailiwick 4
-bridler 1
+bridler 2
 benzothiopyran 1
 blockhead 2
 brachycephalization 3
@@ -1086,7 +1086,7 @@ bitstock 1
 bailey 1
 becense 1
 berkeleian
-bain
+bain 1
 bepraisement 1
 boogymen
 biogenic 3
@@ -2506,7 +2506,7 @@ bultow 1
 bruting 2
 bandelet 3
 barfish
-buckraming 2
+buckraming 3
 billbugs 1
 bargaining
 beechwoods 1
@@ -3690,7 +3690,7 @@ bangia 2
 bunsen 1
 books 4
 batsmen
-batt 1
+batt 2
 buisson 1
 bammed
 brotulidae 2
@@ -3749,7 +3749,7 @@ blushiness 2
 battlesome 2
 brigantes 1
 battlestead 1
-battlewagon 1
+battlewagon 2
 bronchiectasis 1
 bibliothque
 botryotherapy 4
@@ -5070,7 +5070,7 @@ beeswax 1
 bodger
 biloculine 1
 beferned 1
-befetished
+befetished 1
 bandoline 3
 bilingual 2
 balefire 1
@@ -5799,7 +5799,7 @@ brassworker 1
 becrawling 2
 buhrmill 1
 bedlamic 3
-bombyliidae 1
+bombyliidae 2
 batfish 4
 booboo 1
 bimetallism 2
@@ -9555,7 +9555,7 @@ bis
 borussian 2
 bachelorize 3
 besputter
-baister
+baister 1
 bicipitous 1
 barbacoan 4
 bys 2
@@ -10714,7 +10714,7 @@ balanophora
 browpiece
 bookbinderies 1
 bullweeds
-blenching
+blenching 1
 blend 1
 bestill
 bilateralness 3
@@ -11566,7 +11566,7 @@ blurbist 2
 bananist 2
 balladries 1
 bordellos 4
-breaker 2
+breaker 3
 blurredly 2
 burnished
 basotho 1
@@ -12778,7 +12778,7 @@ bescreened
 beheira 2
 boloney
 bookshop 2
-betoyan 1
+betoyan 2
 bonanza 1
 bakutu 2
 bobotee
