@@ -3656,7 +3656,7 @@ caradoc
 carafes
 craspedote 1
 censors
-coenoblastic
+coenoblastic 1
 cattleyas 2
 confucianist 2
 clangor 1
@@ -5211,7 +5211,7 @@ clearest 2
 cashmere 2
 cashmeres
 conepates 2
-claudian 1
+claudian 2
 cashoo 1
 cashou
 castory
@@ -7358,7 +7358,7 @@ cephalopathy 1
 cephalopharyngeal 1
 cephalophyma
 cephalophine
-cryostats
+cryostats 1
 cervisia 1
 consorted 2
 cryoprobe 1
@@ -21591,7 +21591,7 @@ condemners 1
 condemning
 calculiform 2
 compulsives
-callot 1
+callot 2
 condensary
 counteroffensives 1
 crustless
@@ -22935,7 +22935,7 @@ coquetoon 1
 copatain
 chromatone 1
 chandi
-chordata 1
+chordata 2
 cardamums 2
 consideringly
 cotterway 3
@@ -25546,7 +25546,7 @@ coronaled 1
 coronalled
 coronals 1
 coronamen 1
-coronate 1
+coronate 2
 calp
 corrosible 1
 calibrators
@@ -28358,7 +28358,7 @@ colaphize
 clanned 2
 crawberry
 crawdad
-crawdads
+crawdads 1
 collector 1
 crawfishing 1
 corviform
