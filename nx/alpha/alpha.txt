@@ -296,7 +296,7 @@ aguamas
 abdominals 1
 aptitudes 1
 abdominocystic
-archness 1
+archness 2
 ailuro 1
 appunctuation 1
 asphyxiates 1
@@ -7665,7 +7665,7 @@ abstracters 1
 alchemists
 antrums 2
 achoke
-archership
+archership 1
 alchimy
 antisepticist
 alcidine 1
@@ -7696,7 +7696,7 @@ atheists 3
 antiphilosophical 3
 allopalladium
 alday 1
-alcohate
+alcohate 1
 assertorically 1
 alcohol 4
 alcoholature
