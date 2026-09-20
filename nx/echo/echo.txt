@@ -1240,7 +1240,7 @@ episomal 1
 epidermatoid 1
 evaluation 1
 endopleuritic 2
-efflation 5
+efflation 6
 enmanche
 eelfare 1
 encrinite
@@ -4490,7 +4490,7 @@ encephalopathia 3
 ethynylation 1
 entoptoscope 1
 emigrationist 3
-electrical 3
+electrical 4
 encapsulated 4
 empales 1
 encephalospinal 3
@@ -6877,7 +6877,7 @@ endiablee 2
 elling 1
 eremochaetous 1
 evocations 2
-entoplasm
+entoplasm 1
 euxenites 1
 estreats 2
 exiled 3
