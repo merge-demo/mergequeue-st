@@ -3577,7 +3577,7 @@ esophagoplegia 3
 enchantery 1
 emanent 1
 edifier 1
-electrolytical 1
+electrolytical 2
 extracellularly 2
 excelsin 1
 emydes 1
@@ -10844,7 +10844,7 @@ eupatrids 1
 eluent 2
 exemplars
 enoptromancy 2
-engine
+engine 1
 electrocuting 3
 execrates 3
 etherealising 2
@@ -12971,7 +12971,7 @@ electrolysation 1
 enhaunt
 eulogiae 2
 expectancy 1
-endotherm 2
+endotherm 3
 ephebea 4
 ecalcarate
 epistemophilia 2
@@ -14055,7 +14055,7 @@ embiotocoid 2
 ecclesiasticalism 1
 escoting 2
 eyeline 1
-elektra 6
+elektra 7
 enliven 3
 eidolons 4
 excandescency 4
@@ -14211,4 +14211,4 @@ encaging 1
 excitron 2
 exxon
 exzodiacal 2
-ezod 1
+ezod 2
