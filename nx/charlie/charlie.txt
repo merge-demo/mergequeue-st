@@ -1298,7 +1298,7 @@ conviciate
 calf
 calfish
 chromophotograph
-calfkill
+calfkill 1
 calfless 1
 cerigerous
 copyism
@@ -2724,7 +2724,7 @@ cannoneering 3
 cankerroot 1
 cauponize 1
 citola 2
-cankers
+cankers 1
 comedowns
 carbamyl 3
 coff 1
@@ -5085,7 +5085,7 @@ colat 1
 casanova 1
 casaques
 convulsibility
-casas 1
+casas 2
 cojudge
 coevolve 1
 colisepsis
@@ -6754,7 +6754,7 @@ crustacea 1
 canstick 1
 compartmentally
 colliculate
-caruncle 1
+caruncle 2
 celestify 1
 cuttages 2
 celestina 1
@@ -11755,7 +11755,7 @@ comicotragic
 chondrocranial
 circuitous
 chondrodystrophy 2
-chondrodystrophia 2
+chondrodystrophia 3
 chondroditic 2
 couthest 1
 connubiate 1
