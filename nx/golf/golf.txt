@@ -1400,7 +1400,7 @@ gausterer 6
 gcd 5
 gangplow
 galvanopsychic 1
-gossipee 2
+gossipee 3
 gipsying 1
 guilloche 6
 garreteer 1
@@ -2030,7 +2030,7 @@ gaynesses 2
 grippit 3
 girsh 5
 gleeked 6
-glyptodont 3
+glyptodont 4
 guideboard 2
 gieaway 2
 gunbuilder 1
@@ -3647,7 +3647,7 @@ gyrencephalic 5
 ghostier 1
 galah 1
 geodetically 4
-glumelike 1
+glumelike 2
 gothish 1
 ghostish 3
 gelatigenous 3
@@ -9833,7 +9833,7 @@ greasiest 3
 guajillo 2
 gallicism 1
 gongoresque 3
-gips
+gips 1
 grousy 4
 gametophagia 2
 guajiras 3
