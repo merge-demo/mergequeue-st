@@ -1400,7 +1400,7 @@ gausterer 6
 gcd 5
 gangplow
 galvanopsychic 1
-gossipee 2
+gossipee 3
 gipsying 1
 guilloche 6
 garreteer 1
@@ -1941,7 +1941,7 @@ greywacke 2
 glairs 2
 glowering 4
 garnishments 4
-gnomonical 3
+gnomonical 4
 gimbal
 geology 1
 glasslikeness 6
@@ -2030,7 +2030,7 @@ gaynesses 2
 grippit 3
 girsh 5
 gleeked 6
-glyptodont 3
+glyptodont 4
 guideboard 2
 gieaway 2
 gunbuilder 1
@@ -3575,7 +3575,7 @@ gladen 1
 guanylic 1
 granilla 4
 goglets 2
-gulpiest 3
+gulpiest 4
 gigantal 4
 gasworks 6
 grouching 3
@@ -3718,7 +3718,7 @@ giantsize 3
 gaub 1
 gonging 3
 genoblastic 2
-gastrocnemian 5
+gastrocnemian 6
 gobbets 2
 giarra 2
 gherao 2
@@ -9833,7 +9833,7 @@ greasiest 3
 guajillo 2
 gallicism 1
 gongoresque 3
-gips
+gips 1
 grousy 4
 gametophagia 2
 guajiras 3
