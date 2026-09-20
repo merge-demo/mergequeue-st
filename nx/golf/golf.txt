@@ -597,7 +597,7 @@ grandfathership 4
 grieben 3
 guineas 4
 gorgoniacea 1
-ghostweed 4
+ghostweed 5
 graveside 1
 gloryless 3
 gurnets 4
@@ -5063,7 +5063,7 @@ griskin 2
 grainsmen 1
 grenadine 3
 goldeneye 4
-greesagh 2
+greesagh 3
 gte 3
 glathsheimr 3
 ginnel 3
@@ -5380,7 +5380,7 @@ gour 1
 grandmotherliness 6
 gimble 4
 gangplank 2
-gender 3
+gender 4
 gorbelly 3
 glutenin 1
 gleewoman 2
@@ -6221,7 +6221,7 @@ gowkedly 7
 galactosan 5
 goatsbeard 5
 gavotting 1
-galloway 3
+galloway 4
 glue 2
 glucosidase 5
 gonne 2
@@ -6377,7 +6377,7 @@ gamgia
 goumi 2
 garston
 gettings
-gohila
+gohila 1
 gasproof 1
 guff 3
 gussied 4
@@ -9110,7 +9110,7 @@ goldwork 2
 geoid 2
 governableness 1
 grumose 4
-guttation 1
+guttation 2
 guillemet 5
 grindable 2
 gibbose 2
@@ -10303,7 +10303,7 @@ guichet 3
 gnathions 2
 gimper 8
 gametic 2
-gearshift
+gearshift 1
 girondin
 gamodesmic 3
 gastronomy 2
