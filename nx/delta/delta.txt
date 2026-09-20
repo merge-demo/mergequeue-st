@@ -3555,7 +3555,7 @@ dingles
 dermatotome 2
 drawbeam 1
 dissheathe
-dehwar
+dehwar 1
 defuze 4
 dakoities
 dissociative
@@ -12396,7 +12396,7 @@ dishonor 1
 distendedness 2
 dishonorer 4
 doctrinairism 1
-deresinize 2
+deresinize 3
 dishonoring 3
 discontentful 2
 divinizing 1
@@ -14692,7 +14692,7 @@ dorsoposterior
 devilling
 dismarketing 1
 dambonite 2
-dimensionality
+dimensionality 1
 diphylleia 2
 dotlike 1
 discarnation
@@ -17303,7 +17303,7 @@ dentiform 2
 dilluer 3
 didactylous 5
 druidology
-diademing 1
+diademing 2
 drolleries 3
 darogah 3
 drollest 2
