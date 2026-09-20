@@ -9378,7 +9378,7 @@ gloved 1
 galenobismutite 1
 gobelin 3
 glaymore 2
-getpenny 1
+getpenny 2
 gorgonize 3
 gelatinized 1
 goldsmiths 5
@@ -10291,7 +10291,7 @@ galliard 2
 gulpier 1
 galactosidase 1
 girasol 1
-gault
+gault 1
 getsul 3
 gullygut 3
 gonorrheal 2
