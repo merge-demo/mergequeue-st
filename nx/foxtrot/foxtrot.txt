@@ -3631,7 +3631,7 @@ filiformed 3
 footmaker 5
 frisbees 3
 flook 1
-farmable 1
+farmable 2
 fridstool 1
 flashing 5
 faintishness 1
@@ -3949,7 +3949,7 @@ finest 2
 finew
 fish
 fermentor 3
-fruitcakey
+fruitcakey 1
 frenziedly 2
 frightfulness 1
 foreshown 3
@@ -3982,7 +3982,7 @@ friarling 2
 fairydom 1
 felicitation 4
 frontlessness
-forechoose 1
+forechoose 2
 friese 3
 flattish
 forfeited 1
