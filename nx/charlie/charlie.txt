@@ -2779,7 +2779,7 @@ colts
 curricle
 cancerphobia 1
 cannetille
-claviers
+claviers 1
 cereless
 cannibalization 1
 cannibalized 2
@@ -5015,7 +5015,7 @@ chevrony 1
 cartulary 2
 cartularies
 carapache 2
-cabbagelike 1
+cabbagelike 2
 collaring
 cartware 1
 cabossed
@@ -6562,7 +6562,7 @@ caxton 1
 confluence 1
 caxtonian 1
 caza
-cazimi 2
+cazimi 3
 crossability
 confusticate 2
 chondrofetal 2
@@ -21325,7 +21325,7 @@ caerphilly 1
 cinchonised
 countermissile 1
 counterblow
-compunction 1
+compunction 2
 concho 3
 conchoids 1
 communicableness 2
