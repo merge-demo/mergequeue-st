@@ -1036,7 +1036,7 @@ ferriages 2
 frontons 2
 farrage 1
 ferroelectricity 4
-fleawort 1
+fleawort 2
 furziest
 farrago 2
 flyted 1
@@ -5993,7 +5993,7 @@ foreplays 4
 fawny 1
 fluidrachm
 fidia 1
-fireproof 6
+fireproof 7
 foliole 2
 foundership 2
 fresher 4
