@@ -722,7 +722,7 @@ boral 1
 bade
 badness
 buckbrush 2
-baff 2
+baff 3
 blueish
 baboen 2
 baign 3
@@ -1804,7 +1804,7 @@ boothes
 bamalip 3
 basswood 3
 bamban 3
-bambochade 2
+bambochade 3
 bosuns
 bamboozles
 bamboozling 2
@@ -17235,7 +17235,7 @@ berrylike 1
 bolograph 2
 bumbailiffship 3
 basidigitalia 3
-bulkish
+bulkish 1
 batardeau 1
 bulten 1
 bandores 4
