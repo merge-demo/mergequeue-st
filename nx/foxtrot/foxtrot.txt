@@ -41,7 +41,7 @@ farmscape 5
 flick 4
 fervently 4
 finically 3
-fabricature 3
+fabricature 4
 flamant 3
 figurette 4
 flatuosity 3
@@ -1462,7 +1462,7 @@ fluoroscopist 2
 folkish 2
 floatability 3
 fungillus 3
-faucre 3
+faucre 4
 faultiest 2
 fishmeal 3
 fairgoer 3
@@ -1550,7 +1550,7 @@ frisca 3
 filariidae 3
 fissirostres
 faltche 3
-fulfillers 2
+fulfillers 3
 facially 3
 farcetta 6
 favored 1
@@ -2461,7 +2461,7 @@ falla 3
 fornax 1
 ferruginated 4
 flowable 1
-fungal 3
+fungal 4
 foliocellosis 1
 fairnesses 2
 frithborgh 1
@@ -4224,7 +4224,7 @@ firelight 2
 flab 1
 feistier 3
 frostbiting 1
-footsies 2
+footsies 3
 fowls 4
 farinosely 4
 firepinks 3
@@ -4426,7 +4426,7 @@ forwardness 3
 fumishly 1
 fledgier 1
 floppiest 3
-float
+float 1
 frowzly 2
 feelable 4
 flossy 2
@@ -6791,7 +6791,7 @@ fenny 2
 foredevised 3
 floridean 1
 foldaway
-ferryman 2
+ferryman 3
 farfal
 forethink 1
 furcation 1
@@ -6848,7 +6848,7 @@ foliate
 favourableness 3
 friarhood 6
 fistiness 1
-floridities 1
+floridities 2
 foozler 4
 freemartin 3
 farewells 3
@@ -9433,7 +9433,7 @@ flaxseed 3
 franklins 1
 flector
 frenchmen 5
-faffy 4
+faffy 5
 footgears 1
 firkins 3
 fantad 1
