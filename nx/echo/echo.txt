@@ -1122,7 +1122,7 @@ easefulness 3
 editorship 1
 enhorror 1
 editorships 1
-elasticness 1
+elasticness 2
 equatability 1
 encrown 1
 enthrill 1
@@ -4169,7 +4169,7 @@ empoririums
 emporiums 3
 ecstasy 1
 exegeses 1
-ensteep 2
+ensteep 3
 evasible 1
 ecumenics 2
 eriocaulon 1
@@ -7510,7 +7510,7 @@ enwoman
 endomysium 1
 endovenous 1
 electrocapillarity 2
-equivalently
+equivalently 1
 equalling 3
 electrocoating
 extemporal
@@ -10643,7 +10643,7 @@ epappose 3
 evilproof 1
 eisodic 2
 endergonic 1
-enmoss 1
+enmoss 2
 excavate 1
 endozoa 1
 eques 1
@@ -11782,7 +11782,7 @@ entwisted 1
 elopidae 3
 exampling 2
 echeneididae 2
-eyelast 1
+eyelast 2
 esquireship
 ericetum 4
 excorticating 1
