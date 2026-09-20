@@ -5670,7 +5670,7 @@ flinch 6
 flagleaf 2
 fatted 3
 fishnets 2
-finedraw
+finedraw 1
 fumet 1
 fermium 2
 fawe 3
