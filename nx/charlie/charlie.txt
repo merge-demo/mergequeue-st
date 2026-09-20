@@ -1103,7 +1103,7 @@ calcimined 1
 crudeness 2
 calcimining
 choppin 3
-crossbarred
+crossbarred 1
 calcinate 1
 calcinator 1
 calcine 2
@@ -1311,7 +1311,7 @@ caliban
 cunea 3
 calaverite
 caliber 2
-compulsatory 1
+compulsatory 2
 calibers 4
 colunar 2
 calibrated
@@ -7814,7 +7814,7 @@ cervuline
 cervus 1
 cesare
 cesareans 2
-cesarevitch 1
+cesarevitch 2
 carajo 1
 caramelizing
 cesarians 1
@@ -16320,7 +16320,7 @@ camleteen
 clipse 1
 colocola 1
 causticizer 1
-clipsome
+clipsome 1
 crabmeat
 caudae 2
 clipt
@@ -16519,7 +16519,7 @@ correlative
 clogmaking 2
 clogwheel
 canners
-clogwyn 1
+clogwyn 2
 clogwood
 calvinian
 cloyedness
@@ -16964,7 +16964,7 @@ comparable
 cabbalistically 1
 clusterfist 2
 catechu 1
-caprifigs 1
+caprifigs 2
 coerceable 2
 circumviate
 cashibo 1
@@ -21616,7 +21616,7 @@ courtesying
 cariniana 2
 condescender 1
 condescending 1
-celesta 1
+celesta 2
 capot
 condescendingly
 carminophilous 2
@@ -24470,7 +24470,7 @@ coparty
 catchpole 2
 cooptate
 coopting 2
-coopts
+coopts 1
 coordinal 2
 cashment 1
 collybia
@@ -31052,7 +31052,7 @@ crepe
 cremation 1
 colorize
 caprocks 2
-cumsha 2
+cumsha 3
 cumshaw 1
 cyclones
 cumulate 2

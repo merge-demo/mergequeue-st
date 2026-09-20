@@ -742,7 +742,7 @@ abovestairs 1
 aluminised 2
 azotising 2
 abradable
-arteriopressor
+arteriopressor 1
 ama
 aeropathy 2
 apodemata
@@ -1263,7 +1263,7 @@ adenocarcinomata 1
 articulator 2
 adelite 1
 antiproductiveness
-acarapis 3
+acarapis 4
 asaphic 2
 acarari 2
 ardelia
@@ -3563,7 +3563,7 @@ aeroyacht 3
 addlepated 2
 addles
 autumnian 2
-antierysipelas 1
+antierysipelas 2
 addn 2
 acknowledgements
 addr 1
@@ -3596,7 +3596,7 @@ adducible 3
 ampelideous
 artiodactylous 2
 adducted 1
-adducting 2
+adducting 3
 aides
 ataxiagram 1
 abdicates 2
@@ -9388,7 +9388,7 @@ approachers
 areole 2
 alphas 1
 alpheus
-attenuations
+attenuations 1
 arbitratorship
 alectoridine 1
 amphicarpus 2
@@ -10878,7 +10878,7 @@ agape
 amphibryous 1
 arm 1
 addresser
-ammonia
+ammonia 1
 ammoniacs 4
 aleyard 1
 acrisius 1
@@ -13441,7 +13441,7 @@ aminase 3
 assimilatory 1
 annalize 5
 ankush
-astringe 1
+astringe 2
 archphylarch
 amorphism
 ankusha 2
@@ -16219,7 +16219,7 @@ ashcake 1
 addenda 1
 anticlimaxes 2
 ailerons
-alkalinised
+alkalinised 1
 adipomatous 1
 antisquatting 2
 athymy 3
@@ -19605,7 +19605,7 @@ aridities 1
 anaxagorean 2
 afghanis
 alchemilla
-ariels 3
+ariels 4
 acoupa
 aminoguanidine 2
 antireformist 3
@@ -21876,7 +21876,7 @@ assish 1
 averrhoa 1
 aculeated 1
 adapted 1
-aplacophoran 2
+aplacophoran 3
 asbestous 2
 assistance
 agleam 2
@@ -23843,7 +23843,7 @@ appropriations 1
 anhydremic 1
 antiphrastically 1
 autacoidal
-azan 2
+azan 3
 autaesthesy
 adjudicature 2
 atlantoaxial 3
