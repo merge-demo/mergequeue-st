@@ -3037,7 +3037,7 @@ frostflower
 frenchen 5
 fissioned
 forensical
-felstones 4
+felstones 5
 friendlies 4
 fibbers 2
 foremelt 5
@@ -3890,7 +3890,7 @@ formation 1
 followers
 fevertrap 4
 farming
-footslogged 3
+footslogged 4
 febriferous 3
 fluidextract 1
 findable 2
