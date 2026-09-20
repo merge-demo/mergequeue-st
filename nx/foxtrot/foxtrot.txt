@@ -502,7 +502,7 @@ feodum 4
 fishbone 1
 fakirs 2
 falbelo 2
-flavone 2
+flavone 3
 fioretti 5
 fumer 3
 firerooms 1
@@ -3469,7 +3469,7 @@ fingerable 2
 frostfishes 1
 foreseason 3
 foreconsider 5
-fallback 4
+fallback 5
 fighteress 1
 fatigation 2
 fighting 4
@@ -10480,7 +10480,7 @@ frontotemporal 1
 forestian 1
 frontsman 2
 fierasferidae 3
-fluxional 5
+fluxional 6
 frontspieces 1
 fleet
 fwd 3
