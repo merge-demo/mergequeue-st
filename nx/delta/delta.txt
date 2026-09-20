@@ -1690,7 +1690,7 @@ diasynthesis
 dwarfness 1
 deanthropomorphization 1
 docksides 2
-dearborn 1
+dearborn 2
 dumortierite 2
 dearest 1
 deposition 1
@@ -6376,7 +6376,7 @@ dischurch 1
 drawer 1
 disincorporating 4
 deferentially 2
-distenant
+distenant 1
 displacency
 desmology 3
 dillisk
@@ -8259,7 +8259,7 @@ demonization 2
 diagonic 2
 drum 3
 deliriousness 1
-drahthaar 1
+drahthaar 2
 demobilize 1
 diagrammed 2
 diagrammer
@@ -12985,7 +12985,7 @@ dauntless
 depredicate 1
 dinoceratidae
 disorganization
-dinning
+dinning 1
 dace 3
 deconsecrating 1
 disorientate 1
@@ -18019,7 +18019,7 @@ desertful 4
 deseasonalize
 descent 1
 dukkeripen
-dukuma
+dukuma 1
 dulat 1
 dulcamara 3
 diverticulum
