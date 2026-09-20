@@ -2818,7 +2818,7 @@ apotropaion 2
 autopista
 acrocephalic 1
 accompanable 1
-aw
+aw 1
 anguished
 acrochordinae 1
 almeh 1
@@ -10190,7 +10190,7 @@ avulsion 2
 artotyrite 2
 ambulator 1
 afforce
-ambulatory 1
+ambulatory 2
 additiment 2
 aluminas
 affluent
@@ -11312,7 +11312,7 @@ avidious
 amphiprostylar 2
 ankushes
 anaglyptographic 1
-antiusurious
+antiusurious 1
 aquocellolitis 2
 amdahl 1
 amphirhinal 1
@@ -13913,7 +13913,7 @@ acronyctous 1
 ansar
 ansarie 2
 acromyotonia 1
-abranchialism 1
+abranchialism 2
 abreact 1
 aerobium
 anseis
@@ -16731,7 +16731,7 @@ autopotamic
 assamar
 akebi
 attidae 1
-acara 2
+acara 3
 adenolipomatosis 1
 adverbless 2
 allegiances 1
@@ -18742,7 +18742,7 @@ acotyledonous
 archdetective 1
 amputee 1
 apurpose
-ammonobasic
+ammonobasic 1
 archdiplomatist 1
 azymous
 alginuresis
