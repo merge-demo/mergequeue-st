@@ -9106,7 +9106,7 @@ chartering
 charterism
 charterless 1
 chartermaster 2
-charters
+charters 1
 cryptograms
 cindered
 chartist
@@ -11855,7 +11855,7 @@ choppiness 1
 cowpuncher 4
 clancular 1
 chopstick
-chopsticks 1
+chopsticks 2
 chopunnish 1
 cakes 1
 cultch 1
@@ -15421,7 +15421,7 @@ cheerio 1
 canzos 1
 coppas 1
 clary
-claribel 2
+claribel 3
 claribella 1
 cellifugal
 chuddar
@@ -18557,7 +18557,7 @@ clypeole 1
 coif 1
 cringingness 1
 coiffe 4
-coiffed 2
+coiffed 3
 caustics 1
 clavers 2
 coiffeur 2
@@ -31475,7 +31475,7 @@ currentness 2
 currentwise 1
 calalu 1
 curry 3
-cavitating
+cavitating 1
 citing
 croupade 1
 curricles 2
