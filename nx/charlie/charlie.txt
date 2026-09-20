@@ -386,7 +386,7 @@ chlorals 1
 cacolet
 cosseted 1
 cacomagician
-cacomelia 1
+cacomelia 2
 cacomistle
 canoeing
 cacomorphia 1
@@ -4154,7 +4154,7 @@ cardiodilator
 conformable 2
 chiropractor
 cardiodynia
-coadjacent
+coadjacent 1
 calfret
 coalheugh
 cardiogram
@@ -5869,7 +5869,7 @@ catel
 coelongated
 catelectrode
 capstones 1
-clothesless
+clothesless 1
 colorlessness 2
 coigning 1
 chaffier 1
@@ -6555,7 +6555,7 @@ commissionated 1
 caws
 cholecystorrhaphy 3
 clannish 1
-commissaries
+commissaries 1
 caxon 1
 cretaceous 2
 caxton 1
@@ -11506,7 +11506,7 @@ colonizations
 corelysis 3
 choirmasters
 cornaceous 2
-charthouse 1
+charthouse 2
 classmen
 calumnies 1
 costless 1
@@ -11576,7 +11576,7 @@ cholecystectomy
 cueball
 chimachima 1
 countermeasure 1
-cholecystenterorrhaphy 1
+cholecystenterorrhaphy 2
 cholecystenterostomy 2
 cholecystgastrostomy 1
 carburisation 1
@@ -15579,7 +15579,7 @@ clastics 1
 clathraceae
 clathraceous 1
 clathraria 1
-clathrarian
+clathrarian 1
 clathrate
 choose 1
 clathrinidae 1
@@ -18031,7 +18031,7 @@ clitoridectomy
 chaffingly 2
 concaptive
 coherers 2
-coppice
+coppice 1
 coenacle 1
 capsidal 2
 collyriums
@@ -29340,7 +29340,7 @@ cryptomere
 cryptomerous
 chrysogen
 cavaleros 1
-conchite
+conchite 1
 clones 1
 contains 1
 coadjutement
@@ -30015,7 +30015,7 @@ commutations
 croton
 consulated
 crotonaldehyde 1
-crotonate
+crotonate 1
 crotonyl
 crotonylene 2
 crotonization 3
@@ -31867,7 +31867,7 @@ cheers
 cuttage
 caccabis 1
 crowfooted 1
-cuttail
+cuttail 1
 canarian
 commercialising 1
 cirrhosis 2
