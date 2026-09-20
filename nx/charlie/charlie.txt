@@ -386,7 +386,7 @@ chlorals 1
 cacolet
 cosseted 1
 cacomagician
-cacomelia 1
+cacomelia 2
 cacomistle
 canoeing
 cacomorphia 1
@@ -2877,7 +2877,7 @@ churchreeve 2
 canonry 1
 canons
 canonship 1
-consideration 2
+consideration 3
 canoodles 3
 counsinhood
 canopy
@@ -4154,7 +4154,7 @@ cardiodilator
 conformable 2
 chiropractor
 cardiodynia
-coadjacent
+coadjacent 1
 calfret
 coalheugh
 cardiogram
@@ -11506,7 +11506,7 @@ colonizations
 corelysis 3
 choirmasters
 cornaceous 2
-charthouse 1
+charthouse 2
 classmen
 calumnies 1
 costless 1
@@ -31867,7 +31867,7 @@ cheers
 cuttage
 caccabis 1
 crowfooted 1
-cuttail
+cuttail 1
 canarian
 commercialising 1
 cirrhosis 2

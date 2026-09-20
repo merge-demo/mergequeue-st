@@ -4357,7 +4357,7 @@ duplexity 2
 defrayers 1
 dizening 2
 drawk 1
-divort 1
+divort 2
 demeanor 2
 disallowableness 2
 disembark 2
@@ -6771,7 +6771,7 @@ dolichocephal 1
 disheir 1
 drafts 1
 detachments 2
-desinence
+desinence 1
 desinent 1
 dallying 2
 desinential 1
@@ -11603,7 +11603,7 @@ discursative 1
 discommune 1
 denominates 1
 disburgeon 2
-dragooner 1
+dragooner 2
 divell 2
 dismemberer
 discordable 1
@@ -17724,7 +17724,7 @@ detacwable 3
 deputization 1
 duarchy
 duarchies 3
-dhauri
+dhauri 1
 dubb
 deferentitis 4
 demidevil 1
