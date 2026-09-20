@@ -1602,7 +1602,7 @@ doryanthes 2
 disinfector
 deadwork
 deaerated 1
-dorsum 3
+dorsum 4
 deaf 1
 dynamogenous
 disacidified 2
@@ -14539,7 +14539,7 @@ duodenary 3
 detribalization
 divisa
 dimethylketol
-directrixes
+directrixes 1
 downpouring 1
 divisibilities 3
 divisible
