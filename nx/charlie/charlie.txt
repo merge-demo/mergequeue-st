@@ -1353,7 +1353,7 @@ cascabels 1
 calyciflorate
 contranatural 2
 caliciform 1
-calycinal 3
+calycinal 4
 calycine
 calderium
 cockscombs 1
@@ -3450,7 +3450,7 @@ caprifolium
 capriform 1
 caprylic 1
 cymene 2
-caprylyl
+caprylyl 1
 coat 1
 caprylone
 chivarro 1
@@ -9722,7 +9722,7 @@ cymbal
 cheirology
 ciconiidae 1
 colloidal 1
-cheiropatagium 3
+cheiropatagium 4
 cleanness 3
 cheiropod
 congressed 2
@@ -10237,7 +10237,7 @@ chiastoneurous 1
 caracore
 cringed 1
 conoidical
-chiauses
+chiauses 1
 comprehension 1
 canniest 2
 conusee
@@ -15419,7 +15419,7 @@ claret 2
 cervantes
 cheerio 1
 canzos 1
-coppas 1
+coppas 2
 clary
 claribel 3
 claribella 1
@@ -25061,7 +25061,7 @@ chlorargyrite 1
 cordoned
 cordoning 1
 cordonnet 1
-chere 1
+chere 2
 cordons
 cords 2
 craftmanship
@@ -27122,7 +27122,7 @@ countershade 2
 chasms
 clinologic 2
 configurable 1
-countershine
+countershine 1
 chemosorptive 2
 countershock
 counterside 1
