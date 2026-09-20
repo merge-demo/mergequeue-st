@@ -412,7 +412,7 @@ fibrotic 1
 festae 2
 folie 1
 flechettes 3
-fibroligamentous 2
+fibroligamentous 3
 fauchards 4
 fur 5
 frockmaker 3
@@ -5118,7 +5118,7 @@ fireweed 7
 flashgun 1
 fifteenth 3
 factitive 1
-fict 3
+fict 4
 furnishment 1
 flashiness 6
 fermerer 1
@@ -6897,7 +6897,7 @@ fidepromission 6
 folklike 2
 feasible 7
 fallace 3
-folklores 3
+folklores 4
 fp 2
 fow 3
 facelessness 2
@@ -8770,7 +8770,7 @@ flabbella 7
 foremilks 3
 ferash 4
 fortissimo 1
-fabricatress 3
+fabricatress 4
 fraenular 1
 forlie 3
 foredecks 3
@@ -11710,7 +11710,7 @@ fanfish 3
 foremasthand 1
 fiancailles 1
 frowns
-furriered 1
+furriered 2
 ferruled 4
 foredesign 2
 fosslology 1
