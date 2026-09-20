@@ -3334,7 +3334,7 @@ definish 1
 decolored 1
 devastate
 decapitalization 2
-definite
+definite 1
 definitely 1
 distrait 4
 dahlin 3
@@ -16408,7 +16408,7 @@ downgrowth
 deducive 1
 doorless 1
 dultie 3
-drawtube 2
+drawtube 3
 deltal
 doeuvre 1
 downwind 1
