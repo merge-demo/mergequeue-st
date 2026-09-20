@@ -191,7 +191,7 @@ fazenda
 factotum 2
 felsitic 2
 ferrihemoglobin 2
-frasier
+frasier 1
 factrix 4
 footmanship 1
 fanons 2
@@ -369,7 +369,7 @@ furoid 2
 fearer 5
 filicauline 2
 fall 4
-forbid 1
+forbid 2
 fairfieldite 1
 facets 1
 fancifully 2
@@ -3933,7 +3933,7 @@ fireboxes
 flemish 5
 frailejon 4
 fluoranthene 3
-forgoing
+forgoing 1
 foresummon 1
 fendered 4
 farls 2
@@ -6846,7 +6846,7 @@ format 3
 favoringly 6
 foliate
 favourableness 3
-friarhood 5
+friarhood 6
 fistiness 1
 floridities 1
 foozler 4
@@ -9970,7 +9970,7 @@ fistfuls
 flanes 3
 falconry 4
 filoplumaceous 4
-furcular 3
+furcular 4
 forkbeard 2
 fleabane 2
 formated 4
