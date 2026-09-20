@@ -1065,7 +1065,7 @@ boyaus 1
 basanite 2
 breenge 1
 bersil 3
-boroughmaster 2
+boroughmaster 3
 bailiwick 4
 bridler 2
 benzothiopyran 1
@@ -9124,7 +9124,7 @@ bistournage 1
 biennia 1
 bridgewater 2
 bicalcarate
-blackthorns
+blackthorns 1
 bombax 1
 biosystematy 1
 benzomorpholine
