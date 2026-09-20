@@ -1147,7 +1147,7 @@ bootful 2
 berne 1
 banquets 3
 babakoto 2
-backwall 2
+backwall 3
 borates 3
 botete
 bankman 2
@@ -2939,7 +2939,7 @@ blanco
 bited 3
 broad 1
 barrelled 1
-billfish 1
+billfish 2
 barrelmaker 4
 belemnoidea 1
 blissfully 1
@@ -7692,7 +7692,7 @@ bezpopovets 2
 barged
 butties 3
 boatbuilder 1
-bountiousness
+bountiousness 1
 baronry 1
 bezzle 2
 blackmailing 2
@@ -11578,7 +11578,7 @@ bumblebeefish 1
 ballismus 3
 byronism 1
 bromidic 1
-brogger 2
+brogger 3
 blush 3
 blushed 3
 banga 1
