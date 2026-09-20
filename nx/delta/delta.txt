@@ -17426,7 +17426,7 @@ destool 2
 droppage 3
 diffraction 1
 didascaly 2
-direction
+direction 1
 disjoinable 2
 decream
 dropsies
