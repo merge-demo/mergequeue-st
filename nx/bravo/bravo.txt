@@ -339,7 +339,7 @@ bathychrome 1
 backdrop 2
 bonassus 2
 beemaster 2
-backen 2
+backen 3
 backer 3
 backet 3
 bangala
@@ -5339,7 +5339,7 @@ breviers 1
 beglue 3
 beerage 2
 barbola
-begnaw 3
+begnaw 4
 biharmonic 2
 borderlines 2
 balmy
@@ -5582,7 +5582,7 @@ burrio 4
 brassicaceous
 beknottedly
 bismuthic 3
-bathythermogram
+bathythermogram 1
 basophile 4
 beknow 2
 blimpishly 2
@@ -6303,7 +6303,7 @@ bents 2
 benu
 benumbingly 1
 benumbs 2
-besodden
+besodden 1
 brigalow
 battens
 balourdise 4
@@ -11908,7 +11908,7 @@ bockey 1
 bloodleaf 2
 bench 1
 blitzing 4
-bethumping
+bethumping 1
 brulyies 1
 boerhavia 3
 becrown 2
@@ -15467,7 +15467,7 @@ braata
 bereave 1
 bono 1
 beflout
-bacteriophage 2
+bacteriophage 3
 benetted 2
 bludgeoner
 bota 1
@@ -16348,7 +16348,7 @@ bowels 1
 broadswords
 bicarb 1
 bleatingly 2
-bdft 1
+bdft 2
 bothies 2
 beloved
 briskened 1
@@ -16366,7 +16366,7 @@ bevil 1
 backarrow 4
 benchmarking 2
 balalaikas
-baned 4
+baned 5
 brujos 1
 beglerbeglik 1
 broadways
@@ -17068,7 +17068,7 @@ bullback
 bullbaiting
 bibb 1
 boulterer 1
-barrelling 1
+barrelling 2
 bockeret 2
 bullberry 2
 braggadocios 2
@@ -17648,7 +17648,7 @@ buriers 2
 bogginess 3
 bellovaci
 boff 1
-blockish 1
+blockish 2
 boris 1
 britchel 1
 belady 1
@@ -18353,7 +18353,7 @@ bipontine 2
 bensail 3
 braw 3
 bisectionally 2
-buttwoman 1
+buttwoman 2
 butterscotch 2
 buxaceous 1
 buxbaumiaceae
