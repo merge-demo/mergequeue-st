@@ -16848,7 +16848,7 @@ clubhand
 crouching 3
 clubhands 1
 cerebralgia 2
-clubhaul
+clubhaul 1
 correctant
 cupflower
 confirmity
