@@ -13016,7 +13016,7 @@ catchland 2
 cantrap 1
 cyanoethylation 1
 crumbable
-crates 2
+crates 3
 cyanoguanidine
 cyanohermidin 1
 cursoriidae 4
@@ -26300,7 +26300,7 @@ cylindromata 2
 costiveness 1
 changeableness 3
 calliper
-costlessness
+costlessness 1
 charivari 1
 csk 1
 ceston
