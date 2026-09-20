@@ -5179,7 +5179,7 @@ declination 2
 declaimers 3
 denunciations 3
 deputy
-date 4
+date 5
 desired 1
 dicty 1
 dine 2
@@ -15427,7 +15427,7 @@ doorway 2
 dominique 1
 deboners 2
 dominule 1
-dissociability 2
+dissociability 3
 dowelling 1
 doggery 3
 domn 1
@@ -16607,7 +16607,7 @@ dissimilarities 3
 diatonically 3
 dragomanate 2
 disharmonic 2
-decompile 1
+decompile 2
 daman
 dambose 1
 dissimilated
@@ -17334,7 +17334,7 @@ defoul 1
 decrypts 1
 disrelated
 dubitation
-delomorphic
+delomorphic 1
 dronage 1
 discovenant 3
 dronepipe 2
@@ -18476,7 +18476,7 @@ duality 2
 duplicitously
 disprizing 2
 dol 3
-disquisitionary 2
+disquisitionary 3
 disclosed
 duplified 2
 duplifying 3
