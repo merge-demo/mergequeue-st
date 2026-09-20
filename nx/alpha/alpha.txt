@@ -2050,7 +2050,7 @@ acerin 1
 acetophenone 1
 anathematical 3
 amphodiplopia 1
-autecy 3
+autecy 4
 anticipatory 1
 antibromic 1
 arterial 2
@@ -8733,7 +8733,7 @@ anapterygote
 aller 2
 allergenic 2
 abouchement
-allergenicity
+allergenicity 1
 atheology 2
 alang 1
 actinopod 1
@@ -18149,7 +18149,7 @@ aquaregia 1
 antizealot
 aquarelle 1
 aquarial 2
-antehall 2
+antehall 3
 adepter
 ambracan
 albeit 2
@@ -22096,7 +22096,7 @@ abaculus
 antimonarchicalness 1
 alloclasite 1
 apoplexies 1
-adduce
+adduce 1
 asterisk 2
 antesunrise 2
 artilleryman
