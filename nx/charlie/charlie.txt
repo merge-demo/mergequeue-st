@@ -14,7 +14,7 @@ cabaho 1
 cabal 2
 condylarthrous 2
 cryptostoma 1
-chevance 2
+chevance 3
 chaenomeles
 cows 1
 crease 1
@@ -2899,7 +2899,7 @@ cocuiza 1
 cansful 2
 celestite 3
 coddled
-canso 2
+canso 3
 coetaneity 1
 cansos
 chartophylaxes
@@ -4710,7 +4710,7 @@ carpetbag
 carpetbagger
 carpetbaggery
 chantage
-conchometry 2
+conchometry 3
 catty
 caddow 3
 compatibles 1
@@ -7358,7 +7358,7 @@ cephalopathy 1
 cephalopharyngeal 1
 cephalophyma
 cephalophine
-cryostats
+cryostats 1
 cervisia 1
 consorted 2
 cryoprobe 1
@@ -10027,7 +10027,7 @@ capharnaism 1
 cherrying 3
 covertness
 cherrylike 1
-cherrystone
+cherrystone 1
 cytioderma 1
 cephalotripsy 3
 chersydridae
@@ -16836,7 +16836,7 @@ conferred 1
 curtal 1
 conservatorio 2
 commentatorial
-clubbist 1
+clubbist 2
 chopas 2
 clubdom 2
 clubfist 1
@@ -19185,7 +19185,7 @@ colloquialness 2
 charked 2
 colloquiquia 1
 cataracteg
-ctenoidian
+ctenoidian 1
 casuariidae
 colloquiums
 cumulation
@@ -28894,7 +28894,7 @@ cardiacean
 chiffrobe 1
 crevis 1
 crew
-carlos
+carlos 1
 coalesces 1
 curability 1
 ctge
@@ -29024,7 +29024,7 @@ ceorlish 1
 codiscoverer 1
 criminalism
 criminalistic 1
-countersecurity
+countersecurity 1
 chesterlite 1
 cyanogenic 1
 criminality 2
