@@ -1226,7 +1226,7 @@ caledonite 1
 clape 1
 cacosplanchnia
 commissarial
-calef 1
+calef 2
 calefacient 2
 craunched
 christianogentilism
@@ -1975,7 +1975,7 @@ cameral 1
 colonisation 1
 citizenship
 cameralism
-condominium
+condominium 1
 cameralistics 3
 cameraman
 cameras 2
@@ -3923,7 +3923,7 @@ cowheel 2
 compleat 2
 casquet 1
 carborundum 1
-conceptional 2
+conceptional 3
 commendatories 1
 cair 2
 chlorococcus
@@ -6628,7 +6628,7 @@ cecomorphic
 classily
 cecopexy 1
 cecrops 1
-cecums 2
+cecums 3
 coalas 2
 cecutiency 3
 cedar 1
@@ -14045,7 +14045,7 @@ cypriniform 3
 cauline
 cyprinin 1
 copyhold 1
-clerklier 1
+clerklier 2
 condimental 2
 caecal 1
 cyprinodontes
@@ -16090,7 +16090,7 @@ chicles 2
 clithridiate 1
 chainon
 cryptographical 1
-collada 3
+collada 4
 croakiest 3
 cliffhanger
 cliffhangers 1
@@ -18463,7 +18463,7 @@ cogweel
 cogweels 1
 cohabitancy
 calycoideous
-cohabitate
+cohabitate 1
 cohabitation 1
 cecograph 1
 cohabited
@@ -26428,7 +26428,7 @@ cerenkov
 cothon 1
 cothouse
 cothurn 2
-cothurnus 1
+cothurnus 2
 coticed 2
 coruscate 2
 colleter
@@ -26751,7 +26751,7 @@ cacogenics
 counterbattery 3
 century 2
 counterbend 1
-calamitously
+calamitously 1
 cubicles 3
 counterblast
 counterborder 2
@@ -27930,7 +27930,7 @@ cradlemaking 3
 consolidates
 cracket 1
 crackpotism 3
-cisterns
+cisterns 1
 crackhemp 2
 commendable
 cambiums 3
@@ -28751,7 +28751,7 @@ creply 1
 cupeler 3
 cephaloplegia
 civetone 2
-crepon
+crepon 1
 corkiest 1
 crept 3
 canters 1
@@ -30085,7 +30085,7 @@ crowbar
 curlings
 carnivores 1
 conidium
-caravanist 1
+caravanist 2
 crowdedly 1
 circumambiencies 2
 cheson
