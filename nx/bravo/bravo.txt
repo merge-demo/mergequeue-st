@@ -194,7 +194,7 @@ bloodwood
 bees 1
 bushrope 2
 bookiness
-bestirred
+bestirred 1
 bemoanable 2
 bloodmobile
 beweep 2
@@ -2450,7 +2450,7 @@ briar 1
 barefaced 3
 britches 1
 bombacaceous 2
-baulk 2
+baulk 3
 bonete 1
 bradenhead 1
 byres
@@ -7971,7 +7971,7 @@ bap 2
 bushels 1
 brusher 1
 bicker
-bicarbureted
+bicarbureted 1
 bicarburetted 2
 binucleated
 beanbag 1
@@ -8002,7 +8002,7 @@ bellworts
 bicyanide 1
 bojo
 beadhouses 4
-bicyclers
+bicyclers 1
 betainogen 1
 bicyclic 1
 bicyclism
@@ -12275,7 +12275,7 @@ biasses 3
 blenders
 boltcutter 2
 bookmark 1
-behold 3
+behold 4
 boltheading 2
 beslimed 1
 boltlike 1
@@ -16581,7 +16581,7 @@ bourreau 2
 boomers
 bubales
 bandwork
-beefish 2
+beefish 3
 bubals 2
 belling 2
 bubastid 3
