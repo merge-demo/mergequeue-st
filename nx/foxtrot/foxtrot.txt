@@ -1565,7 +1565,7 @@ fibrinogen 8
 filespec 4
 floristic 2
 favorites 3
-furstone 4
+furstone 5
 fadges 4
 flavobacterium 2
 forsee
@@ -3836,7 +3836,7 @@ fairhead 1
 firewoods 2
 foulder 1
 fisticuffer
-furthermore 1
+furthermore 2
 fract 1
 formicary 1
 fiberscope 2
@@ -7381,7 +7381,7 @@ flyness 1
 fistnote 8
 flaccidity 7
 forbidals 6
-fasted
+fasted 1
 featous 2
 foobar 4
 fuage 3
@@ -10658,7 +10658,7 @@ fractostratus 2
 fleeting 4
 frugalities 2
 farrandly 5
-freck 3
+freck 4
 fetiches 4
 froghood 1
 frugiferous 3
