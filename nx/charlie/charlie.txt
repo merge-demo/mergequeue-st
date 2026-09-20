@@ -2877,7 +2877,7 @@ churchreeve 2
 canonry 1
 canons
 canonship 1
-consideration 2
+consideration 3
 canoodles 3
 counsinhood
 canopy
@@ -6555,7 +6555,7 @@ commissionated 1
 caws
 cholecystorrhaphy 3
 clannish 1
-commissaries
+commissaries 1
 caxon 1
 cretaceous 2
 caxton 1
@@ -11576,7 +11576,7 @@ cholecystectomy
 cueball
 chimachima 1
 countermeasure 1
-cholecystenterorrhaphy 1
+cholecystenterorrhaphy 2
 cholecystenterostomy 2
 cholecystgastrostomy 1
 carburisation 1
@@ -15579,7 +15579,7 @@ clastics 1
 clathraceae
 clathraceous 1
 clathraria 1
-clathrarian
+clathrarian 1
 clathrate
 choose 1
 clathrinidae 1
@@ -18031,7 +18031,7 @@ clitoridectomy
 chaffingly 2
 concaptive
 coherers 2
-coppice
+coppice 1
 coenacle 1
 capsidal 2
 collyriums
@@ -29340,7 +29340,7 @@ cryptomere
 cryptomerous
 chrysogen
 cavaleros 1
-conchite
+conchite 1
 clones 1
 contains 1
 coadjutement
@@ -30015,7 +30015,7 @@ commutations
 croton
 consulated
 crotonaldehyde 1
-crotonate
+crotonate 1
 crotonyl
 crotonylene 2
 crotonization 3
