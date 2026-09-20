@@ -3517,7 +3517,7 @@ dismissable 3
 doom 2
 drowsed 3
 desaturate 2
-desiccated 2
+desiccated 3
 defloration 2
 dagobas 2
 desmomyaria
@@ -7050,7 +7050,7 @@ distillage 6
 disenthroning 1
 duramen
 destinezite 1
-driveable 3
+driveable 4
 diglottist 3
 dessous 1
 devall 1
