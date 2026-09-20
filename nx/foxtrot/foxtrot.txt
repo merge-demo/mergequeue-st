@@ -6626,7 +6626,7 @@ fatalistically 1
 fizzers
 friggle 2
 fractocumulus
-fireweeds 2
+fireweeds 3
 fairgrass 1
 forehatchway 1
 fruitery 2
@@ -7897,7 +7897,7 @@ figgle 2
 forereading 1
 forereckon 2
 foredates 3
-flannelbush
+flannelbush 1
 forerun 3
 fname 1
 forjesket 2
@@ -8800,7 +8800,7 @@ fiddlers 2
 forwardal 3
 fadable 5
 forethought 4
-frenzic 2
+frenzic 3
 fleshiness 3
 felsosphaerite 4
 forellenstein 6
@@ -9080,7 +9080,7 @@ forwork 4
 fricassee 6
 fiendship
 flintified 6
-flux 4
+flux 5
 fowlfoot 4
 fared 2
 faultful 4
