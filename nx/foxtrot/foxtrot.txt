@@ -971,7 +971,7 @@ filmsets 4
 foreshop 2
 factabling 4
 fulmina 2
-foreplan
+foreplan 1
 formate 1
 foreorder 1
 fenester 2
@@ -1298,7 +1298,7 @@ flyable 3
 factionally 2
 frantically 1
 fumariaceous 1
-fluxible 2
+fluxible 3
 fatherly 4
 freud 1
 feest 5
@@ -1389,7 +1389,7 @@ fightwite 1
 femorofibular
 formulators 1
 fatbacks
-fishway 1
+fishway 2
 fountainlet 1
 fallibly 1
 firewood 1
@@ -1804,7 +1804,7 @@ ferninst 5
 forbesite 1
 folkmots 4
 flak 5
-forkmen 2
+forkmen 3
 flaithship 1
 frustules 2
 fastigiately 4
@@ -1938,7 +1938,7 @@ furling 4
 fileable 4
 friable 2
 froze 2
-floccule 6
+floccule 7
 flaring 1
 finagling 2
 fonly 1
@@ -5154,7 +5154,7 @@ flywheels 6
 fjords 1
 foreseeingly
 formnail 3
-fare 2
+fare 3
 filtering 4
 frotteur 3
 frankfurter 2
@@ -7396,7 +7396,7 @@ floatplane 1
 frost 5
 foothills 2
 fattened 1
-fierding 6
+fierding 7
 foraramens 3
 frugs 2
 fissirostral 4
@@ -7753,7 +7753,7 @@ frere 9
 foreshaft 4
 forelook 1
 femmes 2
-fauvist 5
+fauvist 6
 facer 1
 fanfaronade 2
 flower 7
@@ -7813,7 +7813,7 @@ flowerer 3
 fissipedia 3
 festively 1
 fleshiest
-feedboxes 1
+feedboxes 2
 feronia 4
 fossilizing 6
 fraternising 2
@@ -8765,7 +8765,7 @@ fraudulence 1
 finalist 2
 ferther 3
 framboesia 5
-finniest 1
+finniest 2
 flabbella 7
 foremilks 3
 ferash 4
