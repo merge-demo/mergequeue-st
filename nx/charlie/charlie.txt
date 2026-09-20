@@ -1353,7 +1353,7 @@ cascabels 1
 calyciflorate
 contranatural 2
 caliciform 1
-calycinal 3
+calycinal 4
 calycine
 calderium
 cockscombs 1
@@ -3450,7 +3450,7 @@ caprifolium
 capriform 1
 caprylic 1
 cymene 2
-caprylyl
+caprylyl 1
 coat 1
 caprylone
 chivarro 1
@@ -7709,7 +7709,7 @@ cerote 2
 cerotin 1
 chorogi 1
 cerotypes 1
-confirmedly 1
+confirmedly 2
 cerous 1
 cerrial 1
 coarctate 1
@@ -10237,7 +10237,7 @@ chiastoneurous 1
 caracore
 cringed 1
 conoidical
-chiauses
+chiauses 1
 comprehension 1
 canniest 2
 conusee
@@ -13664,7 +13664,7 @@ cymosely 2
 cervine
 casefied
 caleb 1
-consignatory
+consignatory 1
 cymry 2
 consuetude
 cynanche 1
@@ -15419,7 +15419,7 @@ claret 2
 cervantes
 cheerio 1
 canzos 1
-coppas 1
+coppas 2
 clary
 claribel 3
 claribella 1
@@ -24883,7 +24883,7 @@ consularity 1
 coracomorph 1
 curbash 1
 coracomorphae
-chrysopoeia
+chrysopoeia 1
 cymars
 coracopectoral
 coracoprocoracoid
@@ -27122,7 +27122,7 @@ countershade 2
 chasms
 clinologic 2
 configurable 1
-countershine
+countershine 1
 chemosorptive 2
 countershock
 counterside 1
@@ -29605,7 +29605,7 @@ coria 2
 crocetin 2
 ceratospongiae
 croche 3
-crocheter 1
+crocheter 2
 crocheteur 2
 codebook 1
 commutableness
