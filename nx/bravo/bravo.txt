@@ -1941,7 +1941,7 @@ barken 2
 bandoleer 2
 burlesquely 2
 backhoes 2
-biometrical
+biometrical 1
 blossom 2
 bandoleers 2
 bivalent
@@ -1966,7 +1966,7 @@ bonniest
 bework 3
 boreus 2
 bandsawn 4
-bandsman 2
+bandsman 3
 bandstand 1
 beseechment
 broadly
@@ -3808,7 +3808,7 @@ bauble 5
 bantay 3
 baubo 1
 buttinskies 1
-bauch 2
+bauch 3
 bondoc
 baboon 3
 browsing 1
@@ -3916,7 +3916,7 @@ breadline
 baxtone 1
 brachyskelic 2
 boughten 2
-begray 1
+begray 2
 bazars 1
 bint 3
 brockage
@@ -3944,7 +3944,7 @@ buttonholes 5
 butternose 1
 bdellium
 balarao 1
-bdelliums
+bdelliums 1
 brownist 2
 bdelloid 3
 bdellometer 2
@@ -4449,7 +4449,7 @@ bur 1
 bonasus
 behaviorally 5
 bhili
-beribers 3
+beribers 4
 beclothes 2
 blushwort 2
 bike 1
@@ -7446,7 +7446,7 @@ bordelaise 2
 bifidities 2
 brew
 blastomas 1
-barbeau 1
+barbeau 2
 bookstack 2
 budgeting 1
 briards 1
