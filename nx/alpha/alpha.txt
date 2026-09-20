@@ -945,7 +945,7 @@ absolutize 1
 absolutory 2
 acanthopteri 2
 aestuary 1
-absolves 2
+absolves 3
 absolving 2
 abstort
 astriction 1
@@ -7373,7 +7373,7 @@ alcoved
 animalise 2
 africander 1
 afford 2
-architectural
+architectural 1
 albe 2
 awmbrie 1
 ariole 1
@@ -10036,7 +10036,7 @@ andrenid 1
 avidya 1
 ambidextrously 1
 autarkikal 1
-avellan 2
+avellan 3
 axion
 ambiency 2
 antifreezing 1
@@ -16455,7 +16455,7 @@ antres 4
 antrophose 2
 antrorse
 antrorsely
-antroscope 1
+antroscope 2
 areopagus 1
 antrotomy 2
 aspring 1
@@ -19324,7 +19324,7 @@ areotectonics
 ambrein 3
 aminodiphenyl
 anfeeld 1
-anaspidacea 2
+anaspidacea 3
 afield
 arere 2
 arerola 2
@@ -22426,7 +22426,7 @@ astromancer 2
 astromantic 1
 astromeda 2
 aflutter 2
-apophyges 2
+apophyges 3
 anthropomorphize 2
 aliments 3
 astrometeorology 1
@@ -23891,7 +23891,7 @@ afterrake
 abstersive 1
 archscoundrel 1
 actively 2
-arthritics
+arthritics 1
 asiphonate
 authentic
 authentically 1
@@ -24293,7 +24293,7 @@ autophagous 1
 autophyte
 autophytic 1
 agister 1
-albespyne
+albespyne 1
 acquist 1
 aluminographic 1
 apparent 2
@@ -24303,7 +24303,7 @@ aeroporotomy
 auteur 4
 abacinate 1
 achafe 1
-autophon
+autophon 1
 acronic 2
 aftertaste 1
 althaein
@@ -25290,7 +25290,7 @@ azobenzil
 anisogamous 1
 avulse
 articulateness
-argyropelecus 2
+argyropelecus 3
 arvicola
 ariegite 2
 adenofibroma
