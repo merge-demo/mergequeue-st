@@ -126,7 +126,7 @@ facioplegia 3
 facit 1
 forefathers 2
 fiberizer 1
-fletcher 1
+fletcher 2
 fomes 2
 filicic 2
 fackeltanz 4
@@ -985,7 +985,7 @@ forehook 2
 foglietto 2
 fascicles 2
 flexuose 2
-flatlong 2
+flatlong 3
 fren 1
 fumosity 1
 fretful 1
@@ -1298,7 +1298,7 @@ flyable 3
 factionally 2
 frantically 1
 fumariaceous 1
-fluxible 2
+fluxible 3
 fatherly 4
 freud 1
 feest 5
@@ -1804,7 +1804,7 @@ ferninst 5
 forbesite 1
 folkmots 4
 flak 5
-forkmen 2
+forkmen 3
 flaithship 1
 frustules 2
 fastigiately 4
@@ -3621,7 +3621,7 @@ ferroinclave 1
 fence 1
 forehalf 6
 finial 1
-finfish 3
+finfish 4
 fimbristylis 2
 florally 2
 fuchsines 3
