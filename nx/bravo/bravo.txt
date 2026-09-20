@@ -1642,7 +1642,7 @@ ballonne 3
 bewrays
 ballooners 1
 bickering 1
-brattier 1
+brattier 2
 bricklayer 2
 balloonflower 1
 balloonish
@@ -7505,7 +7505,7 @@ bardism
 belayer 3
 beveller
 brittonic
-bookbinder 2
+bookbinder 3
 bardelle
 bedgery
 bevenom
@@ -7536,7 +7536,7 @@ baronga 2
 branchiopallial 2
 bernicle
 bevoiled 1
-becco 3
+becco 4
 besmoothing 1
 bonitoes
 bibacity 1
@@ -10117,7 +10117,7 @@ blackback 2
 beadles 1
 blackballed 1
 beinked
-blackballs 1
+blackballs 2
 bielorouss 2
 brogh 1
 blat 1
@@ -11218,7 +11218,7 @@ bookable
 blooth
 blosmy
 biglandular 1
-bitterheartedness 1
+bitterheartedness 2
 beheadal 1
 blossomless 2
 blotch 3
@@ -12261,7 +12261,7 @@ bemud 1
 bancal 3
 bainite 1
 bolstered 2
-battologised 2
+battologised 3
 boardwalk
 biabo 1
 baysmelts 2
@@ -12714,7 +12714,7 @@ bibulously 2
 blastophthoric 3
 bowet 3
 booker 2
-boatkeeper 2
+boatkeeper 3
 billion
 bailsmen 2
 bookfold 2
@@ -15409,7 +15409,7 @@ beblooded 1
 beastly 2
 barkometer 2
 blondine
-bevomited 1
+bevomited 2
 brachypterous 1
 brigandine 1
 bandhu 2
@@ -15661,7 +15661,7 @@ busser 1
 britishism 4
 boultell 2
 barley 1
-bridlewise 4
+bridlewise 5
 boza 1
 brittany 3
 brittle 3
@@ -16566,7 +16566,7 @@ bedsit 2
 blepharophthalmia 2
 bocasine
 backpointers 3
-baboo
+baboo 1
 boringly
 bsh
 babool 1
@@ -17518,7 +17518,7 @@ biograph 1
 bitrochanteric 2
 burdenless 1
 bakuninism 2
-blasty
+blasty 1
 bacteriocyte 1
 burdenous
 bleep 1
