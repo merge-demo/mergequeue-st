@@ -1580,7 +1580,7 @@ dhanush 1
 demand
 disposition
 deadlines 2
-determinatively
+determinatively 1
 desitive
 disembody 2
 deflagrable 3
