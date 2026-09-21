@@ -829,7 +829,7 @@ ectocarpus 1
 eriophorum 2
 eosinophil 2
 ectocommensal 3
-ectocondylar 3
+ectocondylar 4
 endophytic 1
 ethologies 1
 electrolyser 1
@@ -2407,7 +2407,7 @@ epistle 2
 eumenidean 2
 empiristic 2
 esloign 2
-ehrwaldite 1
+ehrwaldite 2
 erythroclasis 4
 executioneress 4
 electroencephalogram
