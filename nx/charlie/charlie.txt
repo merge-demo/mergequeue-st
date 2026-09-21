@@ -3521,7 +3521,7 @@ centinody
 countershaft 3
 crenelling
 chappow
-capsuliferous
+capsuliferous 1
 callipygous
 coldcock 1
 cheloniid 1
@@ -18790,7 +18790,7 @@ cleistogamy
 calvinistically
 coleader
 colecannon
-caddishly 1
+caddishly 2
 colectomies 1
 cyesiology 2
 colegislator 1
@@ -25741,7 +25741,7 @@ crepitate
 circumrotating 1
 corresponded 1
 correspondence 1
-correspondency
+correspondency 1
 correspondent
 composedness 2
 correspondential 1
