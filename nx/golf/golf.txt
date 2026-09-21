@@ -817,7 +817,7 @@ grazeable 2
 genetta 1
 goldenrods 4
 gyppo 2
-gletty 3
+gletty 4
 galoots 5
 gasper 3
 granose 2
@@ -5698,7 +5698,7 @@ ganglioneuron
 gestning
 gelts 5
 glycoluril
-guardeen 1
+guardeen 2
 guttule 3
 gaslit 5
 ghillies 1
@@ -5809,7 +5809,7 @@ gastrodisk 4
 gurjara 4
 glowingly 4
 glows 1
-geometrize 1
+geometrize 2
 gorgeable 2
 gaupus 4
 glissades 3
@@ -6061,7 +6061,7 @@ grinding 1
 gastrocnemial
 gypsography
 gph 5
-gnats 4
+gnats 5
 glutaeous
 gorbit 4
 guttie 2
@@ -6429,7 +6429,7 @@ gregorian 2
 grandeeship 4
 geneses 6
 gallivanted 2
-gouger 4
+gouger 5
 guineapig 6
 golden 3
 gordian 1
@@ -9274,7 +9274,7 @@ ghosts 2
 groanful
 gizzened 6
 gayly 1
-gastrectasia 4
+gastrectasia 5
 grotesqueness 3
 greenhearted 1
 glowers 2
@@ -10020,7 +10020,7 @@ goujay 4
 glasslike 3
 grammatolator
 gesneriaceous 3
-genetoid 1
+genetoid 2
 geomancies 2
 gangliac 1
 gazebos 2

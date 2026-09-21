@@ -523,7 +523,7 @@ expy 3
 enzymologist 4
 eclipsises 1
 entosthoblast 2
-echinococcosis
+echinococcosis 1
 epedaphic 4
 epithelioceptor 4
 edgy 1
@@ -1253,7 +1253,7 @@ expands 3
 epideictical 3
 equilibriate 2
 eeliest 3
-epiky 2
+epiky 3
 estotiland
 embowl 1
 escaloping 2
@@ -3011,7 +3011,7 @@ eliphalet 3
 elbowroom 1
 excrementize 3
 endometrial
-eviscerate 1
+eviscerate 2
 eliquidate 3
 eudora 1
 extraclaustral 3
@@ -3194,7 +3194,7 @@ enamoring 4
 esperantist 1
 enamelwork 1
 erosional 1
-euphrasia 1
+euphrasia 2
 expwy 2
 emmeleia 3
 elopes
@@ -3941,7 +3941,7 @@ emory 1
 exopathic 2
 escapologist
 enchodontoid 1
-emirate
+emirate 1
 electromotive 2
 euxanthin
 eohippus 3
@@ -5125,7 +5125,7 @@ ergotist 1
 enterovirus 3
 eastings 2
 electroballistician 2
-epilithic 1
+epilithic 2
 endogenae 1
 efference 2
 euchres 2
@@ -5989,7 +5989,7 @@ electrodesiccate 5
 elkesaite 4
 electricalness
 electrodynamism 1
-exhortative 4
+exhortative 5
 estampedero 2
 erosion 2
 ejects 3
@@ -8218,7 +8218,7 @@ epochal 3
 eure 2
 epigeic 4
 escapado 2
-epitoke 3
+epitoke 4
 esc 3
 epigones 2
 emulate 2
@@ -9873,7 +9873,7 @@ esthiomene 3
 extenuatingly 3
 exiles 2
 ectophloic 2
-estimable 1
+estimable 2
 empiricists 5
 electrobiologically
 electrologist 3
@@ -10192,7 +10192,7 @@ ectoentad 2
 etherizes 1
 extraditing 5
 easeful 2
-encoders 3
+encoders 4
 executives 3
 ethernet 2
 extrahazardous 4
@@ -10293,7 +10293,7 @@ expecters 2
 ethmopalatal 1
 epiphyllous 4
 ensignment 4
-ethyne 2
+ethyne 3
 elingued 2
 erasable 3
 establismentarian 1
@@ -11585,7 +11585,7 @@ evernia 1
 expressman 4
 equipartisan 2
 evoking 3
-enlighten 2
+enlighten 3
 extensiveness 4
 evolutionism 4
 epizeuxis 2
@@ -13154,7 +13154,7 @@ electrocystoscope 2
 ejuration 1
 erymanthian 1
 euthyneurous 2
-evolved
+evolved 1
 enzymic 1
 extradicted 1
 elf 2
@@ -13245,7 +13245,7 @@ eupepsia 1
 explainable 3
 expropriated 1
 earing 1
-explainableness 1
+explainableness 2
 eternality 2
 eductor
 epiphytism 3
@@ -13819,7 +13819,7 @@ extorters 1
 extortion 2
 embroiling 2
 endopterygotism 1
-earthliness 4
+earthliness 5
 excesses 4
 emirship 2
 embargoing
