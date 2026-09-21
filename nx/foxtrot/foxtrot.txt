@@ -2879,7 +2879,7 @@ faeries 2
 forepreparation 2
 fetwa 3
 foreiron 3
-ferlies 3
+ferlies 4
 fetterlock 5
 flatfish 1
 forewing 5
@@ -2903,7 +2903,7 @@ floorcloth
 find 3
 fimbricate 1
 featuring 2
-feudalists 6
+feudalists 7
 fractionising 3
 freetrader 6
 fomentations 1
@@ -3600,7 +3600,7 @@ freijo 4
 fazing 2
 foreroom 1
 floatboard 1
-flowcontrol 1
+flowcontrol 2
 flagitation 4
 fullymart 2
 frosting 1
@@ -7384,7 +7384,7 @@ forbidals 6
 fasted 1
 featous 2
 foobar 4
-fuage 3
+fuage 4
 fotive 2
 florideae 2
 fulling 1
@@ -7417,7 +7417,7 @@ furan 3
 forethrift 3
 forceless 5
 fasciolar 2
-flagellariaceae 2
+flagellariaceae 3
 floreate 1
 fasciculation 4
 fey 2
@@ -8792,7 +8792,7 @@ fortunes
 faintise 1
 frankfort 2
 forbiddable 4
-flogged 4
+flogged 5
 followership
 forester 1
 fossule 2
@@ -9567,7 +9567,7 @@ footling 1
 finiteness 3
 fringier 5
 finiglacial 3
-fiador 5
+fiador 6
 ferritin 2
 fabraea 4
 flavonol 2
@@ -9664,7 +9664,7 @@ flytime 4
 forlet 3
 freeholdership 1
 feeders 3
-falcata 1
+falcata 2
 ferias 3
 factorizing 3
 fortalice 2
@@ -10873,7 +10873,7 @@ forficate 1
 fortified 1
 fumblingly 3
 fallout
-fontal 3
+fontal 4
 frisky
 flagitiously 3
 forwore 2
