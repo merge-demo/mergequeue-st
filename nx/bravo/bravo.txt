@@ -3990,7 +3990,7 @@ brand 2
 bnf 2
 bespy
 becursed 2
-beaching 1
+beaching 2
 beachman
 buenas 3
 berchta
@@ -7258,7 +7258,7 @@ beguard 1
 beta 3
 broombush 1
 bedraggle 1
-biogeographic
+biogeographic 1
 betacismus
 betag
 bacteriform
@@ -15225,7 +15225,7 @@ batwa 1
 boomster 1
 brightsmith 4
 brotherliness 2
-bribing
+bribing 1
 buzziest 1
 bellowsmaker
 bloater 3
@@ -16274,7 +16274,7 @@ bundh 1
 balun 1
 beckets
 boosted
-bedighted 1
+bedighted 2
 bilithon 3
 blackit 2
 boreens 3
@@ -16420,7 +16420,7 @@ brunistic
 burniebee 2
 baaskap 3
 brunnichia 1
-barred 1
+barred 2
 boysenberries 2
 bushed 3
 blastocheme 1
