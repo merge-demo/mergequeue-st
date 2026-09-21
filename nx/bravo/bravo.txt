@@ -5782,7 +5782,7 @@ biotechnologicaly 2
 boomlet 2
 bearably
 beblubbered
-bookit 5
+bookit 6
 bigthatch 1
 ballaster 1
 belton 1
@@ -10571,7 +10571,7 @@ browallia 1
 bilo
 blathered
 blathery
-blackprint
+blackprint 1
 baretta 1
 blathers 1
 bazookamen
@@ -15411,7 +15411,7 @@ barkometer 2
 blondine
 bevomited 2
 brachypterous 1
-brigandine 1
+brigandine 2
 bandhu 2
 brigantia
 burrah
@@ -15926,7 +15926,7 @@ breezing 3
 beice 1
 bodysurfing 1
 broomball
-bansela
+bansela 1
 beshower 2
 bethumb 2
 beehouse 4
