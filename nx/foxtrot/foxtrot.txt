@@ -489,7 +489,7 @@ frieseite 1
 fiumara 2
 forcleave 1
 fakery 2
-flaxweed 5
+flaxweed 6
 funbre 6
 frisch 4
 fertilizing 5
@@ -1127,7 +1127,7 @@ fidelis
 flax 1
 fatally 5
 fearbabe 2
-feebleminded
+feebleminded 1
 feller 3
 figeaters 2
 flyblows 4
@@ -4056,7 +4056,7 @@ festoony
 fermentation 1
 flindersia 1
 freefd 5
-finitism 1
+finitism 2
 finitive 1
 felapton 3
 formants 2
@@ -6141,7 +6141,7 @@ fishlines 1
 fabrique 4
 footblower 2
 featherlike 2
-feely
+feely 1
 fecials 3
 flouted
 fulminations 2
@@ -7008,7 +7008,7 @@ flop 1
 fondlingly 2
 farewelled 3
 fraenulum 3
-fathomableness 3
+fathomableness 4
 foreaccustom 2
 fruitwoman 6
 flexions
@@ -7501,7 +7501,7 @@ fourbagger 1
 fluellin 3
 fillip 2
 fogou 2
-freenesses 4
+freenesses 5
 foreassurance 3
 forecabin 2
 feedingstuff
@@ -9275,7 +9275,7 @@ finnac 4
 forpining 2
 frivolism 2
 frillback 2
-fetuses 1
+fetuses 2
 floccus 2
 ficin
 feminate 3
@@ -11690,7 +11690,7 @@ finikin
 ferreous 1
 flare 3
 flyleaves 4
-fagaceous 2
+fagaceous 3
 faced 4
 flippancy 3
 fanlights 3
