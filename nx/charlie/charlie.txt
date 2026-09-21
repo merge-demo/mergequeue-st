@@ -14494,7 +14494,7 @@ ciscoes 1
 cise 2
 cyclose 1
 comprisable 1
-checkrail 1
+checkrail 2
 cephaloplegic 1
 ciseaux 2
 courante 1
@@ -23643,7 +23643,7 @@ contoured
 copestone 1
 cleping
 chivvies
-courteous
+courteous 1
 contr 2
 contrabandage
 contrabandery
@@ -28182,7 +28182,7 @@ crankle
 circumplication
 cima 1
 crankless 1
-contiguities
+contiguities 1
 cromfordite 1
 crankling 2
 crankpin
