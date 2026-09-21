@@ -1027,7 +1027,7 @@ abstraction 1
 apostoless 1
 abstractional 2
 adviso
-azogreen 2
+azogreen 3
 award
 artifice 2
 arthrochondritis
@@ -3702,7 +3702,7 @@ adenomycosis 1
 adenomyofibroma 2
 alvite 2
 adenomyoma 1
-adenomyxosarcoma
+adenomyxosarcoma 1
 adenoneural
 aerophysical 1
 adenoneure
@@ -9715,7 +9715,7 @@ abature 1
 amphiblastic 1
 alurgite
 autocephalic
-asepalous 1
+asepalous 2
 altiplanicie 1
 aphthonite 3
 antennule 2
@@ -13345,7 +13345,7 @@ adenovirus 2
 anisometric 2
 antimerger
 abcess 5
-anorexic
+anorexic 1
 aquilawood 2
 aspiree 2
 artifacts
@@ -13829,7 +13829,7 @@ antitraditional 1
 agastache 4
 anchylosed 1
 accessions 2
-anorchous 1
+anorchous 2
 anorectal 2
 arizonan 1
 anorectic

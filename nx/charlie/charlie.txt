@@ -750,7 +750,7 @@ characterical 1
 causations
 cleaning 1
 crimpiness 1
-corners 1
+corners 2
 chasselas 1
 cages 2
 cocoa 2
@@ -3654,7 +3654,7 @@ caract
 caractacus
 caradoc
 carafes
-craspedote 1
+craspedote 2
 censors
 coenoblastic 1
 cattleyas 2
@@ -18126,7 +18126,7 @@ coteful 1
 campman 1
 carpe 1
 coequalness 2
-chopping 1
+chopping 2
 cacozyme 1
 coequals
 coequate 2
@@ -29771,7 +29771,7 @@ crooking
 circule
 crooknecked
 concessionaires 1
-coset
+coset 1
 causticize
 concludes
 criminatory
@@ -31085,7 +31085,7 @@ chugger 1
 clinicopathologically 1
 cumulocirrus
 cottoned 1
-countershading
+countershading 1
 chawed
 cun 2
 cunarder 1
