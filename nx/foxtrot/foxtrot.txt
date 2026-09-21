@@ -797,7 +797,7 @@ faun 1
 frogeyes 3
 fixatives
 fluctuations 1
-fanjet 2
+fanjet 3
 fastened 2
 fons 3
 feckly 4
@@ -2040,7 +2040,7 @@ flitch 3
 flamier 2
 farouche
 feltwork 6
-falconet 2
+falconet 3
 fourpounder 5
 ferngrower 3
 frontspiece 3
@@ -3040,7 +3040,7 @@ forensical
 felstones 5
 friendlies 4
 fibbers 2
-foremelt 5
+foremelt 6
 fustin 2
 fiber 2
 fiberizes 1
@@ -3920,7 +3920,7 @@ farmy 1
 formature 1
 forlese 3
 fischerite 1
-forebrain 3
+forebrain 4
 firmamental 1
 february 1
 frothi 3
@@ -6354,7 +6354,7 @@ favela 4
 fluoboride 2
 fiacre 1
 fooster 4
-flaggiest 6
+flaggiest 7
 fumerel 1
 fiking 1
 flashingly 1
@@ -6762,7 +6762,7 @@ foresworn 3
 felonweed 5
 foiter 2
 flareless 1
-forfault 1
+forfault 2
 felloe 1
 frayed 1
 fried 3
@@ -7788,7 +7788,7 @@ fettucine
 foremother
 frithbot 2
 flyblew 2
-fianced 2
+fianced 3
 flickery 2
 faint 4
 fraenum 2
@@ -11332,7 +11332,7 @@ favorability 2
 furfuralcohol 2
 freebees 1
 flathat 1
-faceted 2
+faceted 3
 fusulina 3
 fps 5
 furfurine
