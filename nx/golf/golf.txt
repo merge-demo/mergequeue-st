@@ -772,7 +772,7 @@ graywether 2
 glome 4
 gristmill 1
 gres 3
-galvanotherapy 1
+galvanotherapy 2
 goods 3
 gery 2
 geomorphic 2
@@ -5239,7 +5239,7 @@ glibnesses 4
 glyceria 3
 grangerite 2
 genialize
-guardsmen
+guardsmen 1
 guatemala 3
 gasolenes 1
 gemitores
