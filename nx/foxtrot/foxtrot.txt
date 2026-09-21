@@ -1500,7 +1500,7 @@ flauntiness 3
 forepiece 2
 faunish
 fleecing 3
-foamers
+foamers 1
 franklinite 1
 franconian 3
 fattenable 5
@@ -3597,7 +3597,7 @@ floorway 3
 files 2
 filesniff 5
 freijo 4
-fazing 2
+fazing 3
 foreroom 1
 floatboard 1
 flowcontrol 2
