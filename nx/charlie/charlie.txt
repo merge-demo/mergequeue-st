@@ -643,7 +643,7 @@ chutzpah
 cero 1
 clara 2
 cataclasis 2
-chinchiness 1
+chinchiness 2
 caeremoniarius
 coynye
 callate
@@ -4508,7 +4508,7 @@ call
 carmalum 1
 carmanians
 combing 1
-coldheartedness 2
+coldheartedness 3
 carmelitess
 carmeloite 1
 carmen
@@ -13345,7 +13345,7 @@ cycloplegic
 cyclopteridae
 centerwise
 constituting
-cyclopteroid
+cyclopteroid 1
 czarist 1
 cyclorama 1
 cycloramic 2
@@ -18449,7 +18449,7 @@ cellularity 1
 chokey 1
 carboxylate 1
 capillitial
-coinventor
+coinventor 1
 crystalloblastic 2
 centrale 1
 cograil 3
@@ -18907,7 +18907,7 @@ collaborating
 collaborationists 1
 californiana 3
 collaborative 1
-collaboratively
+collaboratively 1
 clomping
 cacti 2
 clothworker
@@ -20758,7 +20758,7 @@ caveman 1
 chandry 1
 cacalia
 complexus 1
-cydippida 1
+cydippida 2
 comply 3
 classicizing 1
 compliances
@@ -21730,7 +21730,7 @@ cohabit 1
 coaxers
 coleuses 2
 clumproot 2
-casteism
+casteism 1
 chimarikan 1
 curium 1
 crizzle
@@ -25269,7 +25269,7 @@ coryphaenoididae 2
 compearance 1
 costlier
 cpt 1
-confucians
+confucians 1
 coryphee
 coryphene 1
 coryphodon 2
@@ -26133,7 +26133,7 @@ cosmist 3
 cotyledonous
 calumniations
 carolin
-cadgy 2
+cadgy 3
 cressy 1
 coattail 2
 cosmists 2
