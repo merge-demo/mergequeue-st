@@ -7683,7 +7683,7 @@ argentinitrate 1
 astrohatch 1
 absorbencies 1
 alcyonium 1
-abreaction 1
+abreaction 2
 amplidyne
 airplaned 1
 antefurca
@@ -8724,7 +8724,7 @@ amnesiacs 1
 appareled 3
 allemand 1
 alleniate 1
-agaty 2
+agaty 3
 alsine 1
 acalephan 1
 asterospondylic 3
@@ -10574,7 +10574,7 @@ aniellidae 2
 aristides
 antihypnotic 2
 ameliorativ 3
-amidoplast 2
+amidoplast 3
 alison 1
 amidoplastid 1
 australopithecinae 2
@@ -12646,7 +12646,7 @@ ashthroat
 apexes 1
 anacatadidymus 3
 anesthesimeter 2
-axiomatizations
+axiomatizations 1
 aftertan
 anesthesiology 4
 anesthesiologies 1
@@ -24460,7 +24460,7 @@ autotetraploid
 assistanted 1
 anacruses 2
 autotetraploidy
-aah 1
+aah 2
 autothaumaturgist
 appellatively 1
 alfuro 1
