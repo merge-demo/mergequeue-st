@@ -4143,7 +4143,7 @@ cardings
 cardioarterial
 clags 1
 cardiocarpum 2
-cardiocele
+cardiocele 1
 chevronelly 2
 cardiocirrhosis
 cacuminate 3
@@ -11832,7 +11832,7 @@ chopa
 chalcids
 contradictories 2
 catechisms 2
-chopdar 1
+chopdar 2
 cyprinoidea
 connation
 clarina 1
@@ -19704,7 +19704,7 @@ chrismale
 combatant
 cimbalom 3
 combater
-combaters
+combaters 1
 combating 1
 combative 1
 combativeness 1
@@ -27001,7 +27001,7 @@ counteropposite 1
 chiococcine 1
 counterorder
 churly
-cardiosphygmograph 2
+cardiosphygmograph 3
 cranium
 concordist
 counterpane
@@ -29645,7 +29645,7 @@ chemosterilant
 convulsiveness
 crocodylus
 chronol
-confluxibleness 1
+confluxibleness 2
 carrat 2
 counteraffirm 2
 croconic 1
