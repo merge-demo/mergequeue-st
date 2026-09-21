@@ -1014,7 +1014,7 @@ abstersiveness 1
 aggregable 1
 abstertion 1
 anthropopathic
-abstinential 1
+abstinential 2
 abstinently 3
 anthos 1
 abstractable 1
@@ -1277,7 +1277,7 @@ avian 1
 asexualizing 1
 acaridean 1
 amazedly 3
-ambitus 2
+ambitus 3
 acarina 1
 acrasy
 acarine
@@ -1806,7 +1806,7 @@ anticosine
 asphyxies 2
 aglipayano
 arabis 2
-anemia
+anemia 1
 apochromatic
 acedy
 acedias 1
@@ -10702,7 +10702,7 @@ arborolater 3
 amylose 2
 achree
 africans
-aldim
+aldim 1
 angiotribe
 acuminous 2
 amyls 1
@@ -12112,7 +12112,7 @@ armit
 anastasian
 alveus 1
 amblyopsis 1
-autostability 3
+autostability 4
 aerogen 4
 anhalamine 2
 airspeed 1
@@ -13508,7 +13508,7 @@ annexationist 1
 annexations
 annexion 2
 abnormalise 1
-avoidless 2
+avoidless 3
 atrophic 2
 astigmatic 1
 abounder 1
@@ -13574,7 +13574,7 @@ albuminization 3
 annotator 4
 alasas 2
 aventine 2
-annotators 1
+annotators 2
 arrendator 1
 assonant 1
 anacardiaceae
@@ -24427,7 +24427,7 @@ amphisilidae 1
 autosoterism 1
 amphibious
 accoutered 1
-areology
+areology 1
 appanaging 1
 auteciously 2
 architrave 1
