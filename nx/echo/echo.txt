@@ -733,7 +733,7 @@ extoled 4
 effaces 1
 endermatic
 effascinate 5
-exuvium 2
+exuvium 3
 ecotype 2
 ecotipically 4
 ecotypically 3
@@ -1499,7 +1499,7 @@ endophytous 2
 egad 3
 elderlies 1
 encyclopediac 3
-entomophilous
+entomophilous 1
 egalitarians 4
 evected 3
 egality 2
@@ -8012,7 +8012,7 @@ eteocles 3
 ectodermal 1
 ektodynamorphic 4
 endamebic 2
-earthworks 4
+earthworks 5
 epineural
 euphrasy 2
 exosporal 1
