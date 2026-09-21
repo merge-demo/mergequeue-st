@@ -7844,7 +7844,7 @@ aldolized
 aldolizing
 aldols 5
 aldose 2
-aldoside
+aldoside 1
 aldosterone 1
 aldosteronism
 anacanth 1
@@ -11669,7 +11669,7 @@ aright 2
 anacolutha 1
 anacoluthic
 anacoluthon
-amanita
+amanita 1
 autodialled 2
 assafoetida 2
 anabrotic 1
@@ -22752,7 +22752,7 @@ actian 1
 ahurewa 1
 arhar 1
 antipedobaptism 2
-auditorially
+auditorially 1
 australianize 1
 arras 1
 antispast 1
@@ -23885,7 +23885,7 @@ artic
 adaptiveness 1
 aaa
 abrocoma
-auth
+auth 1
 amampondo 1
 afterrake
 abstersive 1
