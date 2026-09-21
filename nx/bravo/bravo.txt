@@ -3990,7 +3990,7 @@ brand 2
 bnf 2
 bespy
 becursed 2
-beaching 1
+beaching 2
 beachman
 buenas 3
 berchta
