@@ -1016,7 +1016,7 @@ birlie 1
 bewitch 1
 bourdon 2
 bipalium
-blinger 3
+blinger 4
 baycuru 1
 baidarka
 baidarkas 7
@@ -3329,7 +3329,7 @@ bummack
 bothering
 basisphenoidal 2
 barbut 5
-basitemporal
+basitemporal 1
 beguilers 2
 balao 1
 besotment
@@ -3706,7 +3706,7 @@ brigantinebrigantines
 basiophthalmite
 baste 2
 bucketful 1
-bally 1
+bally 2
 belage 3
 belfather 3
 batteaux 1
@@ -5171,7 +5171,7 @@ baddish
 baguette 2
 burbank 1
 biomedical 5
-broiler 4
+broiler 5
 butles 4
 bluebead
 bordereau 3
@@ -14670,7 +14670,7 @@ braseros 1
 brash 1
 bucklering 1
 brasher
-babylonians 1
+babylonians 2
 brashiness 1
 besmirchment 1
 bolivianos 2
@@ -15377,7 +15377,7 @@ bradylalia 4
 blisterwort 2
 bohorok 2
 brieflessly 1
-besieges 1
+besieges 2
 briefness 5
 bleeds 1
 bedstaves 1
