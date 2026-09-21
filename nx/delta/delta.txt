@@ -151,7 +151,7 @@ dadenhudd 1
 duressor
 dimercurion 4
 deprivations 2
-depasturable
+depasturable 1
 drugstore 3
 doltishly 1
 dareall 3
@@ -1580,7 +1580,7 @@ dhanush 1
 demand
 disposition
 deadlines 2
-determinatively
+determinatively 1
 desitive
 disembody 2
 deflagrable 3
@@ -2393,7 +2393,7 @@ deciduously 1
 dessertspoonful 1
 dimercuric 2
 decyl 2
-deciles 4
+deciles 5
 dorsiparous 1
 deciliter
 druidry 4
@@ -6916,7 +6916,7 @@ dirgeful 2
 despairful
 doctrinism 5
 diplegia 3
-diarthroses 1
+diarthroses 2
 dehydrogenating 1
 delphinid
 deaconize
@@ -8854,7 +8854,7 @@ dozinesses 1
 dirge 3
 dropperful 1
 dovens 1
-dibstone
+dibstone 1
 degustation 1
 doziness 1
 depthwise 1
@@ -11390,7 +11390,7 @@ disclosure 1
 diplomaed 1
 duplicitous 2
 didache
-dingus
+dingus 1
 dactylioglyphist 1
 disclusion 1
 diaphones
@@ -18124,7 +18124,7 @@ dimenhydrinate 2
 denominating 1
 discontinuer 2
 dumbest 2
-draftage 1
+draftage 2
 dumbfounding 1
 denatures 3
 discourageable 2
