@@ -14878,7 +14878,7 @@ atmas
 astrognosy 1
 autospray 2
 apenteric 2
-antimachinery
+antimachinery 1
 anticyclic 2
 arrondi 4
 accessioner
