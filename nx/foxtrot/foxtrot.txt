@@ -8261,7 +8261,7 @@ flaskets 4
 felines 3
 festering 4
 fluidize 4
-floroscope
+floroscope 1
 flexo 3
 forficula 1
 fetors 2
