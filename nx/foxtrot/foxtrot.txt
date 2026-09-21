@@ -8375,7 +8375,7 @@ factories 2
 fieldstrip 4
 forisfamiliation 2
 flashback 2
-fontlet 4
+fontlet 5
 ferrotyping 2
 firmament 1
 fatherlike 1
