@@ -810,7 +810,7 @@ criticisable 2
 caid 1
 caids 1
 cayenne
-cucurbits 1
+cucurbits 2
 cooption 1
 completes
 cytophagy 3
@@ -4283,7 +4283,7 @@ clerked 2
 caret
 caretake 2
 caretakers
-caretaking
+caretaking 1
 chastisers 2
 chondrosteous 1
 caretook
@@ -7219,7 +7219,7 @@ centrodesmus 2
 centrodorsal 1
 cyanophilous 1
 conte 1
-countervindication
+countervindication 1
 centromere 1
 centromeric 2
 centronote 1
@@ -25821,7 +25821,7 @@ chemopause 1
 corroded 1
 corrodibility
 centimeters 1
-communicatee
+communicatee 1
 corrodier 1
 corrodies 2
 comestibles
