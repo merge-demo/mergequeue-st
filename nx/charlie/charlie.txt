@@ -750,7 +750,7 @@ characterical 1
 causations
 cleaning 1
 crimpiness 1
-corners 1
+corners 2
 chasselas 1
 cages 2
 cocoa 2
@@ -2111,7 +2111,7 @@ campaniliform
 campanini
 casseroled 1
 campanistic 1
-cuecas 1
+cuecas 2
 campanologer 1
 crucis 2
 croaker 2
@@ -2901,7 +2901,7 @@ celestite 3
 coddled
 canso 3
 coetaneity 1
-cansos
+cansos 1
 chartophylaxes
 congenialize
 cant
@@ -4479,7 +4479,7 @@ carlylian 2
 consignation 1
 chagrins
 carlings 1
-carlino 1
+carlino 2
 carlins
 coccigenic 1
 carlishness 1
@@ -4508,7 +4508,7 @@ call
 carmalum 1
 carmanians
 combing 1
-coldheartedness 2
+coldheartedness 3
 carmelitess
 carmeloite 1
 carmen
@@ -14042,7 +14042,7 @@ cyprinid 3
 cheiromancy 3
 cyprinids 1
 cypriniform 3
-cauline
+cauline 1
 cyprinin 1
 copyhold 1
 clerklier 2
@@ -15798,7 +15798,7 @@ clearcole
 clearedness 2
 clearheadedly 1
 cardcases 2
-crawly
+crawly 1
 cometwise 3
 chalazas
 clearheadedness
@@ -16209,7 +16209,7 @@ clinger 2
 crankness
 crossbeak 2
 clingfishes
-contravenes
+contravenes 1
 clingy
 clinginess
 cuit 2
@@ -19486,7 +19486,7 @@ coloury 1
 colourific
 conferree 2
 cardita 1
-chondrosteoma 1
+chondrosteoma 2
 crematoririums
 colourifics
 cisterna
@@ -21042,7 +21042,7 @@ consolidate 1
 compunctionless
 considerer
 carouser
-cyclian 1
+cyclian 2
 compupil 2
 cauponate 3
 civical
@@ -21361,7 +21361,7 @@ conciliator
 cavdia 1
 contessa 1
 counterpointing 1
-carbonless 1
+carbonless 2
 carpetmonger
 conciliatorily 2
 conciliatoriness 1
@@ -21503,7 +21503,7 @@ concorporated 3
 compartimento
 craniognomy 2
 concourse
-cliqueless 1
+cliqueless 2
 confessions 1
 calycle 1
 climacterical
@@ -25269,7 +25269,7 @@ coryphaenoididae 2
 compearance 1
 costlier
 cpt 1
-confucians
+confucians 1
 coryphee
 coryphene 1
 coryphodon 2
@@ -26159,7 +26159,7 @@ cine 1
 conservatize 2
 cymogene
 cosmogoner 3
-chut 3
+chut 4
 cosmogonical
 cosmogonies
 cosmogonists
@@ -29771,7 +29771,7 @@ crooking
 circule
 crooknecked
 concessionaires 1
-coset
+coset 1
 causticize
 concludes
 criminatory
@@ -31281,7 +31281,7 @@ charkha
 commentable 2
 curatrices 1
 carabid
-coagula 2
+coagula 3
 curatrix
 curb 2
 citronellal 1
