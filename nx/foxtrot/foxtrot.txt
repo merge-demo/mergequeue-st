@@ -1067,7 +1067,7 @@ fishling 3
 fastback
 frazed 5
 farrisite 1
-farfetched 2
+farfetched 3
 fleerish 1
 firehalls 3
 forthcame 4
@@ -4355,7 +4355,7 @@ furosemide 2
 fillister 2
 focuser 4
 forfeitable 2
-fibroplastic 4
+fibroplastic 5
 flyte 5
 foh 3
 figureheads 5
@@ -4479,11 +4479,11 @@ fantocine 4
 fluffier 1
 fountainwise 4
 frangulin 2
-fluctuant 8
+fluctuant 9
 ferrotitanium 3
 faddy 2
 flatting 2
-forlane 5
+forlane 6
 fertilizers 2
 fingerwise 3
 fecklessness 1
@@ -4554,7 +4554,7 @@ fairkeeper 3
 flatfooting 1
 fantee 2
 fourth 1
-feudists 1
+feudists 2
 frit 1
 futtocks 4
 forespoken 1
@@ -4778,7 +4778,7 @@ foreranks 3
 foulminded 3
 fellowing
 froggier 4
-fellowshipped 1
+fellowshipped 2
 filigera 3
 falconers 3
 flagelliform 1
@@ -5813,7 +5813,7 @@ fastigium 3
 foreswearing 4
 filmer 2
 flittermouse 3
-fellowship 1
+fellowship 2
 fathmur 2
 flitters 2
 frequents 1
@@ -8396,7 +8396,7 @@ feastful 3
 fewsome 3
 feigningly 3
 flaff
-fulminates 3
+fulminates 4
 forkier
 forcy 1
 familiars 3
@@ -8718,7 +8718,7 @@ forth 2
 freesia 4
 forbiddenness
 flatfooted 3
-flaunters 2
+flaunters 3
 fryers 1
 funiculate 5
 furicane 5
@@ -9315,7 +9315,7 @@ forenames 3
 frizers 1
 framea 2
 feuillet 1
-framer 5
+framer 6
 filigrain 4
 frames 2
 forename 2
@@ -11419,7 +11419,7 @@ forcipial 4
 fisticuffing 3
 flatterous 3
 filminess 2
-forint 2
+forint 3
 fechnerian 4
 flushboard 2
 faradomuscular 3
