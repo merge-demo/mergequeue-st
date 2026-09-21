@@ -3485,7 +3485,7 @@ foam 1
 forger
 ficins 1
 fordays 3
-floorhead
+floorhead 1
 formuliser 4
 forjaskit 2
 forpined 1
