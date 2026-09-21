@@ -1543,7 +1543,7 @@ basted 1
 batterdock 1
 ballads 2
 bullhoof 2
-balete 5
+balete 6
 baralipton 2
 baltimore 1
 bloodmonger 1
@@ -1838,7 +1838,7 @@ banago
 buzzy 3
 brimming 1
 beaconed 2
-beglads 1
+beglads 2
 blancmanger 7
 bemuse
 botanizer 4
@@ -5292,7 +5292,7 @@ boggier 1
 beggingly 2
 birsy 1
 backstab 1
-beneficiaire
+beneficiaire 1
 brachytic 1
 barretries 3
 boltonia
@@ -8389,7 +8389,7 @@ bombyxes 4
 bashawdom 2
 bigwig 2
 bigwiggery
-biomass 1
+biomass 2
 beryllia 4
 babu 3
 brombenzene 2
@@ -8576,7 +8576,7 @@ bilabe 6
 bucklered
 boweries
 bankrider
-bastinading
+bastinading 1
 billety 1
 billets
 bucare 1
@@ -13278,7 +13278,7 @@ boarish 1
 braider
 bostanji 2
 bosthoon 1
-banderillas 1
+banderillas 2
 bipont 1
 branchstand 1
 barman 1
@@ -16887,7 +16887,7 @@ bedimpling 1
 bootheel 2
 bellona
 buffoonishness 2
-benchwork 1
+benchwork 2
 buras 2
 buffs 1
 brei 4
