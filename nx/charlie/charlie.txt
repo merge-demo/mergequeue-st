@@ -9863,7 +9863,7 @@ chemokinetic 2
 chemolysis 1
 cicero 1
 chemolyze 1
-correspondentially
+correspondentially 1
 clamp 2
 chemophysiology 2
 chemoprophyalctic
