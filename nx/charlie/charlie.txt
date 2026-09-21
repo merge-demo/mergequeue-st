@@ -1401,7 +1401,7 @@ chantages 1
 caliga 2
 caligate
 caligation 1
-caliginosity 2
+caliginosity 3
 caliginously
 cyanin 1
 cunctipotent 1
@@ -9863,7 +9863,7 @@ chemokinetic 2
 chemolysis 1
 cicero 1
 chemolyze 1
-correspondentially
+correspondentially 1
 clamp 2
 chemophysiology 2
 chemoprophyalctic
@@ -12268,7 +12268,7 @@ cecotomy 1
 christadelphian 2
 chumulu 2
 cabrito 2
-chirimoyer
+chirimoyer 1
 carrytale 1
 coynesses
 carpentered 2
@@ -15176,7 +15176,7 @@ covenable 2
 claypans 4
 clair
 clairaudience 2
-countertug 1
+countertug 2
 claire
 coloristic 2
 conditionalities 1
@@ -18440,7 +18440,7 @@ cricketings 2
 coude
 cognovits 1
 craftier 2
-coherent
+coherent 1
 chondromata 1
 conspiratorially
 cogonal 1
@@ -24307,7 +24307,7 @@ creeks
 chiropter
 cowbird
 coseier 1
-cooboos 4
+cooboos 5
 chiogenes
 cysticarpium
 cooch
@@ -26461,7 +26461,7 @@ calloused
 cotising
 cajuns 1
 candroys
-capsulitis
+capsulitis 1
 cotitular 1
 cotland 1
 chowk
