@@ -1416,7 +1416,7 @@ bale 5
 babassu 4
 baleare 2
 bajonado 2
-backjoint
+backjoint 1
 balearica 1
 balebos
 baled 2
@@ -5760,7 +5760,7 @@ biophysics 1
 beaverroot 3
 bellbinder 2
 booboisie 3
-budgeree 1
+budgeree 2
 bullous
 barnyards
 biocellate 3
@@ -7165,7 +7165,7 @@ bessie 1
 ballon 1
 bestad 2
 bacteriemia
-bernicles
+bernicles 1
 bestay 4
 buffoon 2
 bestamp
@@ -9057,7 +9057,7 @@ boldface 2
 banalness 2
 brev 2
 biophagism
-biophysic 2
+biophysic 3
 burghmaster 1
 biophysiography 1
 balibuntal 3
@@ -12566,7 +12566,7 @@ brooklike 4
 boreal
 boning
 birkenhead 1
-bakemeat
+bakemeat 1
 bonitary 1
 bearings 1
 bistroic 3
@@ -17103,7 +17103,7 @@ baptornis 1
 bayard 1
 bromian
 balancing 3
-baldpated
+baldpated 1
 bulletining 1
 batches 3
 bulletless 2
@@ -17449,7 +17449,7 @@ baltis 1
 bunking 2
 babeldom 2
 browny 1
-bunnia 1
+bunnia 2
 bicoloured 3
 bunnies 1
 bunodont 1
