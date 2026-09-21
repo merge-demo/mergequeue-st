@@ -810,7 +810,7 @@ criticisable 2
 caid 1
 caids 1
 cayenne
-cucurbits 1
+cucurbits 2
 cooption 1
 completes
 cytophagy 3
@@ -4283,7 +4283,7 @@ clerked 2
 caret
 caretake 2
 caretakers
-caretaking
+caretaking 1
 chastisers 2
 chondrosteous 1
 caretook
@@ -4455,7 +4455,7 @@ carissa
 campshedding
 cucullated 1
 chimpanzees 1
-caritative 1
+caritative 2
 carity 1
 caritive 3
 circumfusion 2
@@ -5738,7 +5738,7 @@ colocates
 catched
 catcher
 coccidioides 1
-concretions 2
+concretions 3
 coriin 2
 cheneau 1
 crowkeeper 1
@@ -7219,7 +7219,7 @@ centrodesmus 2
 centrodorsal 1
 cyanophilous 1
 conte 1
-countervindication
+countervindication 1
 centromere 1
 centromeric 2
 centronote 1
@@ -14210,7 +14210,7 @@ chrysomonad 3
 circumducing 3
 circumducted
 coastguard 1
-circumesophageal
+circumesophageal 1
 circumfer 3
 circumferential 3
 circumferentially 1
@@ -17048,7 +17048,7 @@ conventually
 centrolepidaceae 1
 caprylin
 cornroot 1
-cibaria 2
+cibaria 3
 coperose
 coachfellow
 coachy 1
@@ -22807,7 +22807,7 @@ clearage
 citrals 4
 coticular 1
 clovers 1
-cabers
+cabers 1
 consecrator
 consecratory 1
 consectary 1
@@ -23049,7 +23049,7 @@ consonance
 consonancy 1
 consonant 1
 consonantal
-consonantalize 1
+consonantalize 2
 consonantic 2
 consonantised 1
 contemplature 2
@@ -25179,7 +25179,7 @@ colitis
 corfiote 1
 cathartae 3
 camails 1
-crampoons
+crampoons 1
 corge 1
 curculionist 2
 counterwall
@@ -25597,7 +25597,7 @@ corotomy 2
 commemorized
 coroutines 2
 clericum
-corp 3
+corp 4
 corpn
 corpora 1
 corporacy 1
@@ -25821,7 +25821,7 @@ chemopause 1
 corroded 1
 corrodibility
 centimeters 1
-communicatee
+communicatee 1
 corrodier 1
 corrodies 2
 comestibles
@@ -30510,7 +30510,7 @@ cubicovariant 1
 corozos 3
 cubane 2
 cubanite 2
-contraclockwise
+contraclockwise 1
 counterweighed 1
 cavin 1
 cubbyhouse
