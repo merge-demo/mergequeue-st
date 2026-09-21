@@ -3892,7 +3892,7 @@ fevertrap 4
 farming
 footslogged 4
 febriferous 3
-fluidextract 1
+fluidextract 2
 findable 2
 fruz 4
 familiarize
@@ -7467,7 +7467,7 @@ fiftypenny 2
 feminine
 frumpier 4
 filipendulous 4
-funditores
+funditores 1
 fantasists 1
 fumeuse 2
 fossarian 3
@@ -8483,7 +8483,7 @@ felonsetter 3
 febronian 4
 fique 2
 flaucht 3
-fantail 2
+fantail 3
 fathercraft 2
 fidelia 5
 fescues 2
@@ -11716,7 +11716,7 @@ foredesign 2
 fosslology 1
 flighty 4
 flagellator 2
-folkland 5
+folkland 6
 fados 3
 feudalised 4
 forecool 2
