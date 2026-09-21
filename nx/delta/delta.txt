@@ -3721,7 +3721,7 @@ durmasts 1
 decimate
 dehonestation 1
 disoccupied 3
-dehorn 2
+dehorn 3
 dolcan
 desmose
 dreadful 1
@@ -8307,7 +8307,7 @@ decolourized 1
 demoded 1
 disequalize 2
 diplogenetic 1
-datagram 2
+datagram 3
 disenactment 2
 dialectal 2
 draftier
@@ -8945,7 +8945,7 @@ duellize 3
 desirably
 dichotomize 2
 despraise 4
-demographic 1
+demographic 2
 demonstrably 4
 dub 2
 dail 3
@@ -13279,7 +13279,7 @@ deleerit 2
 dolichohieric 4
 deutomerite 1
 daphnoid
-dementate
+dementate 1
 decrees 1
 dispossession 1
 delay 1
