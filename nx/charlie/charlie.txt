@@ -2170,7 +2170,7 @@ conterminate
 cymba 1
 corduroy
 campho
-castrations 4
+castrations 5
 camphocarboxylic 1
 camphoid 4
 choryos 1
@@ -7701,7 +7701,7 @@ coinhering 5
 charkhas 1
 capromys
 ceroplasty
-ceroplastic
+ceroplastic 1
 ceroplastics 1
 cyanocrystallin 1
 cerosin
@@ -8769,7 +8769,7 @@ countermine
 chappies 3
 collop 1
 chappin
-chartlet 1
+chartlet 2
 competes
 catchplate 1
 causeless 2
@@ -21523,7 +21523,7 @@ concretionary 2
 concretist 1
 concretive 1
 cholangiographic 1
-concretively
+concretively 1
 concretized 3
 cardsharping 1
 comblike
@@ -26539,7 +26539,7 @@ chumpishness
 cogitantly 2
 crockeries 1
 cottonian 2
-cottonization
+cottonization 1
 coexpire 2
 cottonize 2
 cottonmouth
