@@ -5255,7 +5255,7 @@ blastocyst 3
 bolters 2
 bioblast 3
 bestraddle 2
-bastes 6
+bastes 7
 bothsided
 begazing 1
 bimasty 1
@@ -8465,7 +8465,7 @@ bilder 1
 barostat 2
 bilders 1
 blighted
-bilection 3
+bilection 4
 bileve 2
 bilewhit 1
 bavardage
