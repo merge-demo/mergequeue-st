@@ -3683,7 +3683,7 @@ dehache
 dehypnotize
 disorganising
 desuetude 1
-disburdening
+disburdening 1
 demicylindrical 1
 dehydrate 3
 dehydrator 1
@@ -5741,7 +5741,7 @@ dicyanodiamide
 dovekeys
 decaliter 2
 deportability 1
-deportations
+deportations 1
 decriminalized 1
 demonomancy 2
 dissipatedly 1
@@ -14369,7 +14369,7 @@ deadheaded 3
 depraved 1
 dhaman
 deflagrations 1
-diurna
+diurna 1
 diurnal
 deuterogenic 1
 drug 2
