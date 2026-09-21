@@ -4304,7 +4304,7 @@ fluyt 3
 factive 2
 fet 5
 fusee 4
-ferd 2
+ferd 3
 flamethrower
 funditor 2
 fructiferousness 3
@@ -4851,7 +4851,7 @@ floor 1
 farmhouse 2
 fickleness 2
 flagstick 2
-flagworm 2
+flagworm 3
 fandangle 2
 fissirostrate 4
 feramorz 2
@@ -9851,7 +9851,7 @@ fatals 4
 farrows
 feldspathic 2
 featheredge 4
-floweret 1
+floweret 2
 fuds 1
 firedamps 3
 fragmentary 3
