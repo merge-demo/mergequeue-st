@@ -4749,7 +4749,7 @@ aegrotant 1
 acichlorid 1
 alabastron
 archiving 1
-aerostation
+aerostation 1
 azazel 2
 aegrotat
 amatorio 1
@@ -12265,7 +12265,7 @@ allbone 1
 afacing 3
 andrewsite 1
 anchimonomineral 4
-aetiogenic 4
+aetiogenic 5
 aegirite 2
 anchorages 1
 afterloss 2
@@ -12732,7 +12732,7 @@ angelically
 alambique
 amb 2
 atonalism
-angelicalness
+angelicalness 1
 angelicic 1
 amphibians
 anaglypton 1
@@ -15508,7 +15508,7 @@ amoralism 1
 astacian 2
 antiministerial 4
 antiministerially 1
-antigalactagogue 1
+antigalactagogue 2
 aiming 1
 animize 3
 anandria 2
@@ -21728,7 +21728,7 @@ antienthusiastically
 assemblyman 3
 aerohydrotherapy 1
 assentaneous
-assentator
+assentator 1
 anilingus 1
 apoikia
 angiocyst
@@ -22421,7 +22421,7 @@ astrologist 2
 anagrammatise 1
 antiluetin 1
 astrologize 2
-advancers 1
+advancers 2
 astromancer 2
 astromantic 1
 astromeda 2
