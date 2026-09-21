@@ -3335,7 +3335,7 @@ atomizes 1
 acutograve 1
 analogist 2
 acutonodose 1
-aurene 3
+aurene 4
 aminity
 anthropomorphist 1
 avigator 2
@@ -3750,7 +3750,7 @@ archidiaceae
 appreciation 2
 antilogarithmic 3
 alloted 2
-abrenounce 1
+abrenounce 2
 alliteration 1
 antiquity 3
 anchorhold 3
@@ -7614,7 +7614,7 @@ allegiant 3
 autoclastic 2
 alcalizate
 alcanna 1
-acardiac 2
+acardiac 3
 ascophyllum 2
 anastomos 1
 astragal 1
@@ -19553,7 +19553,7 @@ argusianus 2
 arguslike 1
 alexipharmic 2
 aegyrite
-anchorable
+anchorable 1
 autointoxicant
 aglisten 1
 argutation
