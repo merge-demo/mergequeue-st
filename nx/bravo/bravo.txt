@@ -7142,7 +7142,7 @@ barret 5
 backless 1
 besprinkles 1
 bachelorism 2
-bloodied 1
+bloodied 2
 barefoot 1
 bogglingly
 boxiana 3
@@ -16883,7 +16883,7 @@ betorn 1
 birostrated 2
 baronages
 balneographer 2
-bedimpling
+bedimpling 1
 bootheel 2
 bellona
 buffoonishness 2
