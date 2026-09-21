@@ -5614,7 +5614,7 @@ acetylcholinic
 almagests 1
 aftershocks 1
 alexandria
-aftersound
+aftersound 1
 anterevolutional 2
 afterspring 2
 anatron 2
@@ -7129,7 +7129,7 @@ antisensitizing 2
 avicenniaceae
 arctation 1
 akinete 1
-azotes
+azotes 1
 akka 3
 akkad 1
 acuclosure 1
