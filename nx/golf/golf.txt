@@ -772,7 +772,7 @@ graywether 2
 glome 4
 gristmill 1
 gres 3
-galvanotherapy 1
+galvanotherapy 2
 goods 3
 gery 2
 geomorphic 2
@@ -1517,7 +1517,7 @@ galileo 2
 guitars 4
 galibi 3
 gracilariid 2
-grype 5
+grype 6
 gulfiest 3
 grandiloquence 1
 gearless 4
@@ -4119,7 +4119,7 @@ gainfully 4
 gauds 3
 glaswegian 3
 gibbeted 1
-gelofre 2
+gelofre 3
 genealogy 4
 gollar 4
 gaspergou 2
@@ -5239,7 +5239,7 @@ glibnesses 4
 glyceria 3
 grangerite 2
 genialize
-guardsmen
+guardsmen 1
 guatemala 3
 gasolenes 1
 gemitores
@@ -7289,7 +7289,7 @@ ginsengs 4
 glazed 2
 giglio 1
 grumness 3
-gladstonian 1
+gladstonian 2
 geochronic 1
 glowbird 3
 gallophobe 3
@@ -9180,7 +9180,7 @@ granulates
 glared
 goosed 1
 griphite 2
-golee 1
+golee 2
 greenhornism 2
 gripment 6
 grypotherium 4
@@ -10536,7 +10536,7 @@ gunge 5
 germinability 3
 gunjah 1
 gaucheries
-genisaro 5
+genisaro 6
 glyceraldehyde 1
 granospherite 2
 genua 3

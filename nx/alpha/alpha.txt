@@ -2051,7 +2051,7 @@ acetophenone 1
 anathematical 3
 amphodiplopia 1
 autecy 4
-anticipatory 1
+anticipatory 2
 antibromic 1
 arterial 2
 acetosoluble 3
@@ -5299,7 +5299,7 @@ alingual
 abrogative 3
 anticlinal
 anapophysial
-ammonifier 1
+ammonifier 2
 affine
 antiatheistically 1
 affined 1
@@ -7844,7 +7844,7 @@ aldolized
 aldolizing
 aldols 5
 aldose 2
-aldoside
+aldoside 1
 aldosterone 1
 aldosteronism
 anacanth 1
@@ -11669,7 +11669,7 @@ aright 2
 anacolutha 1
 anacoluthic
 anacoluthon
-amanita
+amanita 1
 autodialled 2
 assafoetida 2
 anabrotic 1
@@ -15907,7 +15907,7 @@ amazingly
 antipragmatism 1
 antipragmatist
 arachnidial 1
-acracy 1
+acracy 2
 ambrosiaceous
 antinarrative
 antipredeterminant 1
@@ -23885,7 +23885,7 @@ artic
 adaptiveness 1
 aaa
 abrocoma
-auth
+auth 1
 amampondo 1
 afterrake
 abstersive 1

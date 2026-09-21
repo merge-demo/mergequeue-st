@@ -95,7 +95,7 @@ cabbled 1
 cabbler 2
 chars 1
 carotenes 3
-cabdriving 3
+cabdriving 4
 corydora
 cabecudo 1
 capellet 1
@@ -598,7 +598,7 @@ copiously 2
 compunctions 2
 caducibranchiata
 canikins
-caducibranchiate
+caducibranchiate 1
 claggy 2
 caducous 2
 caryocaraceae
@@ -1296,7 +1296,7 @@ cteniform 2
 cupressinoxylon 2
 conviciate
 calf
-calfish
+calfish 1
 chromophotograph
 calfkill 1
 calfless 1
@@ -4283,7 +4283,7 @@ clerked 2
 caret
 caretake 2
 caretakers
-caretaking
+caretaking 1
 chastisers 2
 chondrosteous 1
 caretook
@@ -10410,7 +10410,7 @@ continuable 2
 chifforobe
 chlorinity
 commissionership
-comitadji
+comitadji 1
 cop 2
 clear
 crackskull
@@ -12246,7 +12246,7 @@ conyrin 1
 chrysopid 1
 chrysopidae 1
 chrysoprase 2
-chrysoprasus
+chrysoprasus 1
 chasmic 1
 counteradvice
 chrysops
@@ -16377,7 +16377,7 @@ clithe 3
 clithral
 clitia
 copolymerizations 2
-chromobacterieae 1
+chromobacterieae 2
 cylindruria 4
 camenae 2
 clitoral
@@ -18401,7 +18401,7 @@ countergambit 3
 cognised
 creepy 1
 cesarian
-chatchkas
+chatchkas 1
 chirimoya
 clypeal 1
 compactedness 1
@@ -22788,7 +22788,7 @@ consciously 1
 consciousness 1
 conscive 1
 cholanthrene 3
-chronogenesis 3
+chronogenesis 4
 conscribing 1
 conscript 2
 counterfeiters 1
@@ -27642,7 +27642,7 @@ chamfered 1
 cowbanes 1
 corticosteroid
 cardiology 2
-circumplect
+circumplect 1
 chillier 1
 cowbind 1
 cypriot 3
@@ -28459,7 +28459,7 @@ creasier 2
 curiegram 1
 consistory 1
 creasot 1
-cholecystostomies 1
+cholecystostomies 2
 coffeebush
 cognizability 1
 crosier
@@ -29396,7 +29396,7 @@ cryptozygosity
 cryptozygous 1
 crozle 2
 chanter 1
-chorographic 4
+chorographic 5
 cryptozoic 1
 cryptozoite 1
 cryptozonate 1
@@ -29601,7 +29601,7 @@ crocanthemum 1
 croceic 2
 croceine 2
 cusconine 1
-coria 2
+coria 3
 crocetin 2
 ceratospongiae
 croche 3
@@ -30164,7 +30164,7 @@ curs
 crucethouse 3
 canonise 1
 crucial 1
-contraceptionist 1
+contraceptionist 2
 cruciality
 crucially 3
 crucian
