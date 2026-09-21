@@ -12928,7 +12928,7 @@ deniability 1
 dimensionless 3
 dicycle
 disomatic 1
-doubtmonger
+doubtmonger 1
 dugout 2
 dermostosis
 degreeing 1
@@ -13735,7 +13735,7 @@ doorplate
 divalent
 dilation 2
 dejecta 2
-demulsion 3
+demulsion 4
 deadlihead 3
 diaclinal 3
 disannex 4
