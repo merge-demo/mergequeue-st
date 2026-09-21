@@ -7683,7 +7683,7 @@ argentinitrate 1
 astrohatch 1
 absorbencies 1
 alcyonium 1
-abreaction 1
+abreaction 2
 amplidyne
 airplaned 1
 antefurca
@@ -8724,7 +8724,7 @@ amnesiacs 1
 appareled 3
 allemand 1
 alleniate 1
-agaty 2
+agaty 3
 alsine 1
 acalephan 1
 asterospondylic 3
@@ -8888,7 +8888,7 @@ adermin
 alids
 alcyonacea 1
 allochiria 1
-adaptionism
+adaptionism 1
 alcoves
 allochlorophyll 1
 antigropelos
@@ -10574,7 +10574,7 @@ aniellidae 2
 aristides
 antihypnotic 2
 ameliorativ 3
-amidoplast 2
+amidoplast 3
 alison 1
 amidoplastid 1
 australopithecinae 2
@@ -16851,7 +16851,7 @@ agname
 acritol 2
 aphrodisiomaniacal 2
 apologias 1
-aphthartodocetae 2
+aphthartodocetae 3
 alterate 1
 anthropotomical 1
 aphthartodocetic 1
