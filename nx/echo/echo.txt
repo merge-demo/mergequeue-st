@@ -759,7 +759,7 @@ euomphalid 1
 egger 1
 ecrase 1
 enclitic 4
-escort 1
+escort 2
 extense 1
 eremophilous 1
 experimental
@@ -1682,7 +1682,7 @@ elaioleucite 1
 eyebright 1
 eyliad 4
 electrotheraputics 3
-ephemerally
+ephemerally 1
 extemporaneous 2
 eyecup 1
 emollescence 2
@@ -4703,7 +4703,7 @@ existent 2
 exodos 1
 estranging 1
 endosmosic 2
-ebulliometry 1
+ebulliometry 2
 epistler 4
 entomophytous 1
 establishments 2
@@ -5563,7 +5563,7 @@ ethiopia
 euthanatize 2
 evibrate 1
 epimacus 3
-emigratory 2
+emigratory 3
 enfoldings 5
 enfolds 2
 eneuch
