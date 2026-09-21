@@ -1500,7 +1500,7 @@ flauntiness 3
 forepiece 2
 faunish
 fleecing 3
-foamers 1
+foamers 2
 franklinite 1
 franconian 3
 fattenable 5
@@ -2976,7 +2976,7 @@ florid 1
 francophil 5
 fewtrils 1
 follower 6
-francium 2
+francium 3
 flanned 3
 ferrels
 fellies 2
@@ -3955,7 +3955,7 @@ frightfulness 1
 foreshown 3
 funneled 3
 farcical 2
-follyproof 2
+follyproof 3
 fossil 1
 footsteps 4
 founders 6
@@ -4245,7 +4245,7 @@ frangipanni 1
 floridians 2
 flaxbird 1
 foreignize 2
-feverish
+feverish 1
 flatterers 4
 frenzying
 flossing 2
@@ -7366,7 +7366,7 @@ faeces 2
 fat 3
 forbborne 4
 freshen 1
-forby 3
+forby 4
 foully 3
 formicina 1
 franklinism 2
@@ -8651,7 +8651,7 @@ forz 2
 faradisms 2
 flappiest 1
 farmyard 5
-forescript
+forescript 1
 floury 2
 fluotantalic 1
 futility 2
