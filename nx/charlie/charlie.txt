@@ -3697,7 +3697,7 @@ carangids 1
 coenaesthesis
 cooking
 coleopterological
-chromicize 1
+chromicize 2
 coemptive 1
 conjugation 2
 chabutra
@@ -5805,7 +5805,7 @@ calipered 1
 circumspective 1
 catechistic 1
 catechistical
-catechists
+catechists 1
 catechization 1
 catechizer
 calamondin 2
@@ -15241,7 +15241,7 @@ cassique
 coislander
 chaining 1
 clamcracker 1
-crabfish
+crabfish 1
 cheeseboard 2
 clamflat
 ctn
@@ -30519,7 +30519,7 @@ codein
 cubbishness 3
 choiring
 cameoed 1
-cubelet 2
+cubelet 3
 caladiums 2
 correctives 2
 carsten
