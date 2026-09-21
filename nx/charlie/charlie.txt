@@ -6683,7 +6683,7 @@ ceilidhe 1
 ceiling 1
 ceilings
 ceilingwards 1
-copiability 2
+copiability 3
 celtophobia 1
 couac 1
 chelidosaurus
@@ -12868,7 +12868,7 @@ churchyards
 churching 5
 crabbedly 1
 chauth
-churchite 3
+churchite 4
 cirrhopod
 ceratitidae 1
 cosmogonic 1
