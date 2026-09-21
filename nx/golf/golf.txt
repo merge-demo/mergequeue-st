@@ -378,7 +378,7 @@ gynobasic 4
 gelded 2
 galangin 2
 grond 2
-golundauze 1
+golundauze 2
 gavot 1
 gaoled 3
 glaive 2
@@ -555,7 +555,7 @@ gluneamie 3
 gorgerins 4
 gormandiser 1
 goys 3
-gagership 4
+gagership 5
 goldflower 5
 graycoat 5
 ginhound 5
@@ -675,7 +675,7 @@ gauily 3
 granam 1
 gaddishness 3
 gideon 1
-granulomatosis 3
+granulomatosis 4
 goneril 1
 gallican 1
 gastronomer 1
@@ -1838,7 +1838,7 @@ graphemics 1
 grecizing 3
 gossip 4
 gyrostabilized 2
-graptolithina 4
+graptolithina 5
 gazehound 3
 growlery
 guffaw 2

@@ -3207,7 +3207,7 @@ baloneys 2
 biolyses 1
 benzins 1
 balancers 6
-booklores
+booklores 1
 bromids
 byland 1
 bhaga 1
@@ -4590,7 +4590,7 @@ bloodstone 3
 belial 3
 biddelian
 beats 2
-bedazement 1
+bedazement 2
 bigeminate 1
 bedazzle 1
 blared
@@ -7766,7 +7766,7 @@ bacchae 2
 bill 1
 bhutanese 2
 bant 3
-bimilllennia
+bimilllennia 1
 bagpipes
 babuism
 bursarship 3
@@ -14082,7 +14082,7 @@ binzuru 1
 brachydomatic 2
 brevetcies 1
 biomechanics
-brandify
+brandify 1
 bavary
 bitts
 bombycidae 1
