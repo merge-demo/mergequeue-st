@@ -2206,7 +2206,7 @@ achkan 3
 alcovinometer 1
 acidhead
 aimfully 2
-achlorhydria 1
+achlorhydria 2
 aflame 4
 admixing 2
 atrabilaire 2
@@ -3046,7 +3046,7 @@ actinochemistry 1
 arrimby
 antesignanus 4
 angioparesis
-antifoaming
+antifoaming 1
 accoil 5
 altaltissimo 1
 actinocrinid 1
@@ -10631,7 +10631,7 @@ aftershine 1
 acidifier 3
 aminated
 amygdule 1
-affirmative 3
+affirmative 4
 amigos 3
 amiidae 1
 aulophobia 1
@@ -20341,7 +20341,7 @@ arsenobenzol 1
 ankylocheilia 3
 ascogonial
 arsenobismite 1
-apostoli
+apostoli 1
 acidproof 4
 antilogistically
 arsenofuran 1
