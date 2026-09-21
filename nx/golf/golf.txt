@@ -2708,7 +2708,7 @@ gorlois 4
 grenades 2
 gristmiller 3
 gliadins 3
-guillotine 7
+guillotine 8
 gunboats 5
 gaedelian 1
 grooms 2
@@ -10645,7 +10645,7 @@ giganticness 4
 gargets 2
 gorrel 2
 genera 2
-galvanocauterization 2
+galvanocauterization 3
 guppies 1
 galee 4
 gnomed 1
