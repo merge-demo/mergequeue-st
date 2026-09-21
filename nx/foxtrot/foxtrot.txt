@@ -83,7 +83,7 @@ faces 3
 folkright 2
 flattening 1
 flowerfence 4
-foliobranch 2
+foliobranch 3
 funambulating 2
 facetely 3
 falsest 3
@@ -4834,7 +4834,7 @@ fishberries 2
 flinthead 2
 franchisers 2
 fleay 3
-fabricative 2
+fabricative 3
 fainer 3
 foil 2
 finlet 1
@@ -6856,7 +6856,7 @@ foreporch 2
 fonnish 4
 folios 1
 faradizes 1
-fortuitus 3
+fortuitus 4
 foliose 5
 flachery 4
 flittingly 2
@@ -8217,7 +8217,7 @@ fantastry 5
 feverberries 3
 formicinae 1
 folles 2
-faddle 3
+faddle 4
 fraught 6
 flourishable 1
 fordrive
@@ -8597,7 +8597,7 @@ forehard 3
 fred 3
 frenchwise 2
 fluorographic 1
-fleered 3
+fleered 4
 formulizing 1
 flapdoodle 3
 formby 5
