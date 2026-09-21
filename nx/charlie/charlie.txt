@@ -1143,7 +1143,7 @@ carollers
 cuppers 2
 cloddiness 2
 calcitic
-calcitrant 1
+calcitrant 2
 calcitrate 1
 cataphatic
 claiborne
@@ -5669,7 +5669,7 @@ cataphrenia
 crook
 cataphrenic
 choraleon
-cataphrygian
+cataphrygian 1
 cataplane
 cataplasia
 conepate
@@ -16018,7 +16018,7 @@ caleche 1
 comprizal
 cleve
 cleveite 1
-confiscatory 1
+confiscatory 2
 clever 1
 cowberries 1
 cleverer 1
@@ -23351,7 +23351,7 @@ consumpted 1
 corrasive 3
 consumptional 1
 consumptions
-consumptive
+consumptive 1
 consumptively 1
 coordinates
 consumptives
@@ -31311,7 +31311,7 @@ citric 1
 caducities 4
 curch 1
 curculio
-curculionidae 1
+curculionidae 2
 calvatia
 curculios 3
 ceyssatite
