@@ -3702,7 +3702,7 @@ adenomycosis 1
 adenomyofibroma 2
 alvite 2
 adenomyoma 1
-adenomyxosarcoma
+adenomyxosarcoma 1
 adenoneural
 aerophysical 1
 adenoneure
@@ -5144,7 +5144,7 @@ anticyclonically
 apolloship
 aesthetes 1
 aesthetic
-astomous 2
+astomous 3
 archsacrificator 1
 amphionic 4
 aestheticism 2
@@ -9814,7 +9814,7 @@ amalgamization 1
 anaphase 3
 amalic
 argosine
-aircrews
+aircrews 1
 audacity
 ambery 1
 accommodationist 1
@@ -10406,7 +10406,7 @@ addicted
 americanly 3
 aguroth 1
 alacriously
-almuds
+almuds 1
 adlumia 1
 anise 1
 adenochondrosarcoma
@@ -13302,7 +13302,7 @@ apriorism
 addossed 2
 anisobranchiate 3
 assailant
-anisocercal 1
+anisocercal 2
 acetifying
 anisocytosis 1
 aval 1
@@ -13345,7 +13345,7 @@ adenovirus 2
 anisometric 2
 antimerger
 abcess 5
-anorexic
+anorexic 1
 aquilawood 2
 aspiree 2
 artifacts
@@ -17348,7 +17348,7 @@ aglycosuric
 anatiferous
 apostleship 1
 abaisse 2
-apostleships 1
+apostleships 2
 appeacher
 agmas 2
 ares 1
@@ -21134,7 +21134,7 @@ asdic 1
 antiinflammatories 1
 atrament 3
 arborary 2
-annexal 3
+annexal 4
 ase 2
 asearch
 alhet 1
