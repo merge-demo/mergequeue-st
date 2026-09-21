@@ -492,7 +492,7 @@ abyss 1
 abyssopelagic 3
 actinide 1
 airstream
-abyssus
+abyssus 1
 abit 2
 agriculture 2
 abbreviate 2
@@ -1869,7 +1869,7 @@ azotaemia 2
 atridean
 adolesced 1
 acequia 1
-assignable 1
+assignable 2
 aethered 3
 aceraceous 1
 acerae
@@ -6453,7 +6453,7 @@ antieducationally 2
 ananias 2
 arthrotome 2
 arapaimas 1
-agrostemma 1
+agrostemma 2
 acrogamy 1
 agrostography
 algesthesis 2
@@ -6943,7 +6943,7 @@ asarta 1
 antiptosis 3
 antinationalists 1
 airohydrogen 2
-accrual 2
+accrual 3
 airspace 1
 antisepticized 2
 airspaces 1
@@ -18488,7 +18488,7 @@ appetent 1
 arteriogram 1
 aruspices 1
 aljamado 1
-antitobacco
+antitobacco 1
 abstained 2
 arbitress 2
 anagyrin 1
