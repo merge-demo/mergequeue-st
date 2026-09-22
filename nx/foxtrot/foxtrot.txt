@@ -5749,7 +5749,7 @@ fractuosity 1
 fels 4
 fins 3
 figureheadless 1
-fisher 2
+fisher 3
 fmt 2
 foredeserved 1
 fecket 2
@@ -9990,7 +9990,7 @@ fantoms 4
 fumatorium 2
 fa 2
 frigates 3
-flocculated 4
+flocculated 5
 flavin 2
 frightens 2
 fallibilist 2
