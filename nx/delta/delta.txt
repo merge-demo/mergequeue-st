@@ -11309,7 +11309,7 @@ difficulties 1
 diggers 1
 duteously
 dischargeable
-dispirited 1
+dispirited 2
 dilacerating 5
 dowhacky 1
 devoter 1
@@ -18038,7 +18038,7 @@ dropforging
 dislodgeable 2
 disseminator 1
 deporture
-deployable
+deployable 1
 dentelle
 dyers 3
 dulcified 1
@@ -18284,7 +18284,7 @@ diabolification 2
 darts 1
 dungiest 4
 devulgarize
-disapprobative
+disapprobative 1
 dacryorrhea 1
 dippy
 deuterogamist
