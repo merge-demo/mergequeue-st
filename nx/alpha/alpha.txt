@@ -924,7 +924,7 @@ audiometric 1
 anaemia 3
 archband
 aures 2
-absyrtus
+absyrtus 1
 amylon 1
 absis 1
 absit 2
@@ -23896,7 +23896,7 @@ asiphonate
 authentic
 authentically 1
 aquaemanalia 4
-anthelae 2
+anthelae 3
 assignees 1
 authenticates 3
 apathy
