@@ -5443,7 +5443,7 @@ beheader
 beachward 1
 bulletmaking 2
 boardmanship 2
-boldo
+boldo 1
 boatable 1
 becudgelling 2
 beetling 2
@@ -9725,7 +9725,7 @@ bispinose 2
 bispinous
 bramah
 bagani 2
-bathybian 2
+bathybian 3
 beadrolls 1
 blaewort
 bayeta 1
@@ -11795,7 +11795,7 @@ bocasin 2
 bookshops 1
 baldachinos 3
 boccarella 1
-bodings
+bodings 1
 boccaro 1
 bocce
 bugbears 1
