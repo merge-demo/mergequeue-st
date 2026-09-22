@@ -733,7 +733,7 @@ footmanhood 2
 flurries 1
 fulminate 1
 faraday 3
-fluxibility 7
+fluxibility 8
 fibrilliferous 3
 footbreadth 2
 fanatism 1
@@ -2342,7 +2342,7 @@ fasciole 1
 fiftyfold 4
 footstalk 3
 formalizing 4
-fer
+fer 1
 firecoat 5
 featherstitching 1
 ferae 1
@@ -11428,7 +11428,7 @@ flocculose 4
 furniture 1
 flummoxing 2
 footlicking 3
-furl 2
+furl 3
 furodiazole
 feoff 3
 furomethyl
