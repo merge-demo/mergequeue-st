@@ -1029,7 +1029,7 @@ gawk 3
 geodist
 grasp 2
 glinting 2
-gynaecology 4
+gynaecology 5
 golp 3
 glanced 2
 glycohaemia 3
@@ -1037,7 +1037,7 @@ groan 1
 glassfuls 2
 gnarl 2
 geriatrics 2
-gentles 3
+gentles 4
 gastrectomy 1
 gossamer 2
 genevan 1
@@ -5944,7 +5944,7 @@ gorgonacean 3
 grubs 3
 ginkgoes 2
 gelosie 2
-geoemtry 2
+geoemtry 3
 gastroparesis 3
 garreted 5
 groucho 2
@@ -6228,7 +6228,7 @@ gonne 2
 greaves 1
 gamelike
 gaum 1
-goatweed 4
+goatweed 5
 guerrillaism 4
 glanduliferous
 genitures 5
@@ -6374,7 +6374,7 @@ gigget 4
 gipsiologist 6
 gamest 1
 gamgia
-goumi 2
+goumi 3
 garston
 gettings
 gohila 1
@@ -6767,7 +6767,7 @@ gentilitial 1
 geologically 5
 gazania 2
 gyrostatics 2
-genal 4
+genal 5
 genros 2
 geochemical 3
 gondola 1

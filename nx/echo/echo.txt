@@ -2720,7 +2720,7 @@ electrostenolytic 2
 enceint 2
 equipotent 3
 electees 1
-edentate 2
+edentate 3
 envoi
 etymology 1
 emetic 3
@@ -3110,7 +3110,7 @@ empennage 1
 equiangularity 4
 epicalyces 2
 even 4
-epistolatory 1
+epistolatory 2
 echinorhinidae 3
 empresa 2
 entombed 3
@@ -5013,7 +5013,7 @@ epitheliotoxin 3
 eleutheria 1
 etudes 3
 enunciation 2
-escrod 4
+escrod 5
 eavesdrop 4
 eclecticism 1
 endearingly 2
@@ -5464,7 +5464,7 @@ equiformity 1
 england 1
 enzymosis 4
 enervation 3
-ethnically
+ethnically 1
 ensnarers 2
 encirclements 2
 enetophobia 1
@@ -9945,7 +9945,7 @@ elk 1
 estrums 3
 englishize
 estuarial 2
-epagogic 1
+epagogic 2
 estuosity 1
 edibleness 3
 endophagy 1
@@ -10919,7 +10919,7 @@ eudemian
 electric
 epirotulian 2
 easternize 2
-enterokinase 2
+enterokinase 3
 enfin 3
 encephalocoele 1
 epibaterium 2
@@ -11528,7 +11528,7 @@ endlessly
 embryoma 2
 evincible 2
 ectopterygoid 5
-elegancies 3
+elegancies 4
 epicurean 1
 elastometer 1
 encheiria 1
@@ -12876,7 +12876,7 @@ encircled 1
 exoterically 5
 erythremomelalgia 1
 equity 2
-episcopal 1
+episcopal 2
 exoticness 2
 epicoelian 4
 enantioses 1
