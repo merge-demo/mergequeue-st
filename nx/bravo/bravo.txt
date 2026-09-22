@@ -4739,7 +4739,7 @@ bandlimited 1
 bobsleding 1
 bedlamps 3
 boottopping 3
-betitle 3
+betitle 4
 benitoite 1
 butcherliness 3
 badmash
@@ -5331,7 +5331,7 @@ batekes 3
 burkers 3
 bor 2
 beglooms 1
-begloze 2
+begloze 3
 busti 2
 brokenly 2
 baidar 1
@@ -7692,7 +7692,7 @@ bezpopovets 2
 barged
 butties 3
 boatbuilder 1
-bountiousness 1
+bountiousness 2
 baronry 1
 bezzle 2
 blackmailing 2
@@ -11047,7 +11047,7 @@ beclout 4
 basilemma 4
 bails 3
 between 3
-bloats
+bloats 1
 brachygnathous
 byelorussian 4
 berlin 2
@@ -12074,7 +12074,7 @@ boisterous 1
 barkingly 1
 brangling 2
 bastille
-boistous 3
+boistous 4
 boistousness 1
 backplate
 brinkmanship 1
