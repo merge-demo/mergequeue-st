@@ -2430,7 +2430,7 @@ electionary 2
 evoker 3
 electroendosmosis
 encipher 2
-epoist
+epoist 1
 enslavements 2
 exterminist 1
 electroextraction 2
@@ -3856,7 +3856,7 @@ eysoge 1
 embolectomies 2
 ecclesiologist 1
 emball 1
-engendering 1
+engendering 2
 environmental 2
 epinephelidae 1
 extracted 2
@@ -4916,7 +4916,7 @@ enravish 1
 embryotomy 2
 endellionite 2
 eucephalous 3
-emigates 3
+emigates 4
 electrocorticogram 1
 envy 1
 extirpative 1
