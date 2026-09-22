@@ -1691,7 +1691,7 @@ dwarfness 1
 deanthropomorphization 1
 docksides 2
 dearborn 2
-dumortierite 2
+dumortierite 3
 dearest 1
 deposition 1
 deadeners 2
@@ -3041,7 +3041,7 @@ deers 3
 deerstalkers
 detailist
 deerstalking
-deerweed
+deerweed 1
 dollyway 4
 detest
 deescalate 1
@@ -3375,7 +3375,7 @@ drumslade 4
 diversifolious 2
 dissatisfiedness 2
 deuteronomical 2
-deflations 2
+deflations 3
 desolator 2
 dendrodont 1
 disperser
@@ -8064,7 +8064,7 @@ dysgenetic 1
 disendowment 3
 desugar 3
 durzi 1
-dhritarashtra 1
+dhritarashtra 2
 disables 1
 disembowelled 2
 drawable 1
@@ -16665,7 +16665,7 @@ drayhorse 2
 dipteraceous 1
 dialectologic 1
 drails 2
-driech 2
+driech 3
 derangements
 drainage 2
 drained 1
@@ -17329,7 +17329,7 @@ dockize 2
 digitoxigenin 2
 denigrated 1
 dandyish 2
-dromometer 1
+dromometer 2
 defoul 1
 decrypts 1
 disrelated
