@@ -1708,7 +1708,7 @@ ceraunia
 calorifier 1
 calorimetry 1
 calorimetrically 2
-calorimotor 2
+calorimotor 3
 calorist 2
 calorizing 1
 cawing 1
@@ -2633,7 +2633,7 @@ carbylamine
 caneology
 canephora
 canephorae 1
-canephore 1
+canephore 2
 cymaphytism 1
 canephori 1
 canephoroi 2
@@ -6278,7 +6278,7 @@ controversed 1
 conche 3
 caulinary 2
 cannular
-caulivorous
+caulivorous 1
 choanosomal 1
 caulk 1
 casbahs 1
@@ -14259,7 +14259,7 @@ clodder 1
 calcographic
 cassoni 1
 circummundane 1
-circummure 1
+circummure 2
 contrivedly 2
 circummuring 1
 convolving 2
@@ -15326,7 +15326,7 @@ clangours 1
 clangs 1
 conquests 1
 critter 1
-calluses
+calluses 1
 chronographical
 clanjamfrey 1
 chalcotript
@@ -24827,7 +24827,7 @@ colinephritis
 cachetic
 cyanomethemoglobin 1
 cultivably 2
-cimcumvention 3
+cimcumvention 4
 casketlike
 clausum
 costers
