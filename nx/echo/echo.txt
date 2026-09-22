@@ -417,7 +417,7 @@ excuse 4
 exarchies 2
 eburin
 ec 1
-ecardines
+ecardines 1
 epidermatous 4
 ernest 1
 ecballium 3
@@ -819,7 +819,7 @@ encrust 1
 ectypography 2
 epitheton 1
 elbowchair 1
-entrecote
+entrecote 1
 epop
 exulate 1
 eloine 2
@@ -1636,7 +1636,7 @@ eide 1
 excommunications 3
 encephalitogenic 1
 enactors 2
-eyewashes 2
+eyewashes 3
 epigastrium 4
 essoinee 1
 eider 2
@@ -2138,7 +2138,7 @@ effloresces 3
 extrapolar 1
 explanative 2
 externalism 4
-euryclea 2
+euryclea 3
 evangelizer 1
 extrastapedial 1
 electioneering 1
@@ -6612,7 +6612,7 @@ enuring 1
 exhedrae 3
 enterology 2
 epactal 5
-enterologic 2
+enterologic 3
 epanastrophe 2
 ethionamide
 exhaled
