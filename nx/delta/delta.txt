@@ -3220,7 +3220,7 @@ dens 3
 dolichocnemic
 drunkards 2
 demoniac
-defenceable 1
+defenceable 2
 dekle 4
 doftberry 2
 defencive 2
@@ -7925,7 +7925,7 @@ dignify 2
 democritean 1
 downside 1
 dresden 1
-daintith
+daintith 1
 dexes 2
 desertward 2
 disestablismentarianism 1
@@ -12304,7 +12304,7 @@ dinomic 3
 dye 2
 dysphrenia 3
 deductively 6
-dragomen
+dragomen 1
 dishabituated 2
 dolman 1
 dishable
@@ -14785,7 +14785,7 @@ dockhouse 2
 deringers
 dockyards 1
 docking 2
-dockization
+dockization 1
 dockland 3
 doublehandedly 3
 docklands
