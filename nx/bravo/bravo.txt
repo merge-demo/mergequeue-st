@@ -4505,7 +4505,7 @@ becrowd 1
 burstwort 5
 billeting 2
 bacchanalias 3
-bumptiously 2
+bumptiously 3
 brokes 4
 buffering 3
 buhrstone 5
@@ -4991,7 +4991,7 @@ beladied
 basement 1
 bluebeardism 4
 belleric 1
-beermaker
+beermaker 1
 beermonger 2
 bumpoff 1
 beefers 1
@@ -6861,7 +6861,7 @@ balthasar
 beggarman 1
 biliverdic 3
 botchers 2
-bescutcheon 3
+bescutcheon 4
 bondservant 3
 basalia 2
 beseam
@@ -7938,7 +7938,7 @@ bibliopolically 3
 bibliopolist 4
 befall
 bibliosoph 1
-bibliothecae 2
+bibliothecae 3
 bibliothecarian 2
 bungalows 1
 batoka 1
@@ -8910,7 +8910,7 @@ biocidal
 bookcases 1
 bioclimatic 1
 bowwoman 4
-bioclimatician
+bioclimatician 1
 bathwater 2
 bavoso
 blabber
@@ -15756,7 +15756,7 @@ bangkoks 4
 broch 2
 bogeys 1
 bullyingly 4
-bellying 4
+bellying 5
 benzophenazine 1
 backtracked
 brochant
@@ -16110,7 +16110,7 @@ belittler
 brood 1
 bedsock 1
 bialis 1
-basiated 2
+basiated 3
 broodiest 1
 broodily 2
 broodling 2
@@ -16881,7 +16881,7 @@ bungle 3
 baret 2
 betorn 1
 birostrated 2
-baronages 1
+baronages 2
 balneographer 2
 bedimpling 1
 bootheel 2
