@@ -6053,7 +6053,7 @@ cleg 1
 cyanide 1
 cisatlantic 2
 catholyte 2
-cathouse
+cathouse 1
 cathouses 1
 crownling 1
 cathrin
@@ -10913,7 +10913,7 @@ contrariety
 chlorotrifluoroethylene
 chirmed 3
 coarbiter 1
-chirming 1
+chirming 2
 chirms 1
 crumena
 chirocosmetics 2
@@ -13450,7 +13450,7 @@ countergage
 camerawork 2
 cig
 cigarette
-cystenchyma
+cystenchyma 1
 cigarfish 2
 counterconversion
 craspedum
@@ -16258,7 +16258,7 @@ contraindicate
 clinology 2
 clinometer 1
 clinometry 1
-clinometric 1
+clinometric 2
 cantos
 condylura
 cocooning 2
@@ -16296,7 +16296,7 @@ canterer 2
 clipboard 2
 clipboards 2
 clypeastridea
-chicky 1
+chicky 2
 clypeastrina 1
 clypeastroid 3
 carnivaller
@@ -27143,7 +27143,7 @@ carbureting 2
 colical 1
 chesboll 1
 countersleight 3
-countersnarl
+countersnarl 1
 cataclysmatic 3
 counterspy
 caricaturable
@@ -31809,7 +31809,7 @@ contractee 2
 cutgrass 1
 cyathia 3
 cuticolor
-cuticula
+cuticula 1
 credenzas 1
 cuticulate
 chrysothamnus
