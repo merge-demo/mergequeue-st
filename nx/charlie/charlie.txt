@@ -1303,7 +1303,7 @@ calfless 1
 cerigerous
 copyism
 calflike 1
-calfling 1
+calfling 2
 calfskin
 creatural 1
 calgary 3
@@ -2672,7 +2672,7 @@ crankdisk
 cangia 2
 constitutively
 cangler
-coverlids
+coverlids 1
 cangue 1
 chonolith 2
 cangues
@@ -30334,7 +30334,7 @@ countervairy
 chantors
 confrater
 consonantizing
-cultivative
+cultivative 1
 constructions 1
 chiragra 1
 cruorin
