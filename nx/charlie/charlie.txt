@@ -3170,7 +3170,7 @@ colored 2
 capercut
 cankereat
 citify
-caperers
+caperers 1
 cachepots 2
 crosshatcher 1
 cowpox 1
@@ -6053,7 +6053,7 @@ cleg 1
 cyanide 1
 cisatlantic 2
 catholyte 2
-cathouse
+cathouse 1
 cathouses 1
 crownling 1
 cathrin
@@ -13450,7 +13450,7 @@ countergage
 camerawork 2
 cig
 cigarette
-cystenchyma
+cystenchyma 1
 cigarfish 2
 counterconversion
 craspedum
@@ -16296,7 +16296,7 @@ canterer 2
 clipboard 2
 clipboards 2
 clypeastridea
-chicky 1
+chicky 2
 clypeastrina 1
 clypeastroid 3
 carnivaller
@@ -25196,7 +25196,7 @@ calabar
 cretinism 1
 centesimate 1
 curvier 2
-clinocephalus 1
+clinocephalus 2
 coriaria 1
 coriariaceae
 coriaus 1
@@ -31809,7 +31809,7 @@ contractee 2
 cutgrass 1
 cyathia 3
 cuticolor
-cuticula
+cuticula 1
 credenzas 1
 cuticulate
 chrysothamnus
