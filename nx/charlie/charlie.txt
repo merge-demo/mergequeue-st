@@ -22893,7 +22893,7 @@ checkbit
 coxcombically
 conservativeness 2
 commoves
-chittering
+chittering 1
 collapsable 1
 conservatoires
 conservator 1
@@ -30681,7 +30681,7 @@ cuddleable 2
 cuddled 1
 cuddlesome
 cuddliest
-celiagra
+celiagra 1
 calcinatory 1
 cuddling 2
 crusados
