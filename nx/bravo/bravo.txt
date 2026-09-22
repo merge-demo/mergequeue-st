@@ -3944,7 +3944,7 @@ buttonholes 5
 butternose 1
 bdellium
 balarao 1
-bdelliums 1
+bdelliums 2
 brownist 2
 bdelloid 3
 bdellometer 2
@@ -7010,7 +7010,7 @@ branchiostomidae 1
 ballpoints 2
 boardly 2
 bowingly 2
-balnea 1
+balnea 2
 brothel 2
 balor 1
 burliest 1
@@ -16047,7 +16047,7 @@ braggardism 1
 bysacki 3
 bestrewing 2
 bowess 1
-bronchotyphus
+bronchotyphus 1
 belucki
 begall 1
 benzaldoxime
