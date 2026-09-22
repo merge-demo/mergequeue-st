@@ -2802,7 +2802,7 @@ decretorian 3
 dithymol
 defi 1
 declarator 2
-decried 3
+decried 4
 desistive
 deerflys
 disulphonate 1
@@ -12438,7 +12438,7 @@ dentally 2
 deracinate 3
 doubtably 1
 dertrum
-damageableness
+damageableness 1
 dancette 1
 dexterity 1
 defy
@@ -16865,7 +16865,7 @@ drawliest 2
 declamando 1
 donnishly 1
 dilettante
-drawloom 4
+drawloom 5
 dungari
 dorestane 3
 discontinual 3
