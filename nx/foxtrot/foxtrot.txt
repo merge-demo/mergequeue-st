@@ -3277,7 +3277,7 @@ ferrites 1
 faunology 5
 fluidrams 2
 fieldpieces 3
-feudovassalism 5
+feudovassalism 6
 forefeet 1
 fungilliform 3
 fole 2
@@ -11327,7 +11327,7 @@ fraternize
 fleabite 5
 faultfinding 5
 fluoroscopic 1
-fossilogist 2
+fossilogist 3
 favorability 2
 furfuralcohol 2
 freebees 1
