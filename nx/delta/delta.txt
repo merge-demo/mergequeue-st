@@ -3369,7 +3369,7 @@ disrestore 2
 dynagraph 2
 dithionate 2
 deflagrator 1
-deflating 1
+deflating 2
 discommend 1
 drumslade 4
 diversifolious 2
@@ -5169,7 +5169,7 @@ denizenship 3
 dellenite 1
 demicoronal 1
 deathtraps 1
-diphyzooid
+diphyzooid 1
 dryopes 1
 decursion
 denominate 3
