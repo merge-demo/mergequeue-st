@@ -971,7 +971,7 @@ filmsets 4
 foreshop 2
 factabling 4
 fulmina 2
-foreplan 1
+foreplan 2
 formate 1
 foreorder 1
 fenester 2
@@ -1864,7 +1864,7 @@ funiliform 2
 fielden 2
 fiances 3
 flabellation 3
-frutify 3
+frutify 4
 fatuously 3
 fight 4
 floruit 2
@@ -2281,7 +2281,7 @@ fantails 1
 folktale 1
 fulmineous 2
 fragging 4
-fluorocarbons 2
+fluorocarbons 3
 floored 5
 fends
 filator 3
