@@ -427,7 +427,7 @@ explained 2
 ellipsone 3
 enemyship
 extraembryonal
-eremitical 2
+eremitical 3
 eftsoons 2
 ecchondroma 4
 equivoke 3
@@ -582,7 +582,7 @@ enhydros 3
 echometer 3
 echopractic 2
 examinate 2
-epidictic 2
+epidictic 3
 elitisms 2
 ebonise
 exobiological 6
@@ -1828,7 +1828,7 @@ euler 3
 engineeringly
 elychnious
 epidiorite 4
-encystments
+encystments 1
 errabund
 edaciousness
 expeller 4
@@ -2265,7 +2265,7 @@ elongated
 equally 1
 extemporization 1
 eidetic 1
-eudiometry 2
+eudiometry 3
 exormia 1
 enbloc 2
 eyelets 1
@@ -2448,7 +2448,7 @@ engladden 2
 elean 4
 emerges 2
 eches 1
-equivalence 3
+equivalence 4
 electrogenic 2
 electrogild 1
 eudemonia 3
@@ -4063,7 +4063,7 @@ excide 2
 esthetophore 3
 emboil 1
 equitant 1
-erotophobia 3
+erotophobia 4
 exteriorize 1
 epiphonemae 3
 energeticist 1
@@ -6226,7 +6226,7 @@ elimination 2
 evasively 3
 electrofishing 1
 extraepiphyseal 2
-ecstatica
+ecstatica 1
 enrapt 2
 eurygaean 2
 epees
@@ -6923,7 +6923,7 @@ electrofuse 1
 excipular 2
 eying
 epistolar 1
-erian 3
+erian 4
 eyebrows 3
 ensaint 1
 ecophysiology 1
@@ -6945,7 +6945,7 @@ esophagopathy 1
 entrec 2
 escalin 3
 exiting
-effecting 3
+effecting 4
 excisor 1
 encauma 2
 expansure 2
@@ -8702,7 +8702,7 @@ ecumenicality 3
 equitative 2
 electrican 2
 eudaimonism 3
-eguttulate 3
+eguttulate 4
 eluted 2
 epistolize 7
 euphemisms 1
@@ -10179,7 +10179,7 @@ emerant
 ersh 1
 exegetic 2
 epizooty 3
-eponymies 1
+eponymies 2
 eunuchoid
 esteemer 1
 elisabeth 1
@@ -12557,7 +12557,7 @@ enumerably 2
 emmets 2
 excoecaria 2
 existentialist 1
-effluvious 1
+effluvious 2
 existentialistically 1
 eupione 2
 enzymology 2
