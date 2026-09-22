@@ -1806,7 +1806,7 @@ folkmots 4
 flak 5
 forkmen 3
 flaithship 1
-frustules 2
+frustules 3
 fastigiately 4
 fanfarade 2
 flyspecks 2
@@ -3688,7 +3688,7 @@ fathead
 firesider
 franchisal 2
 flannelboard
-folder 2
+folder 3
 fillable
 frownless 1
 flavorlessness 3
