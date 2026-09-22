@@ -759,7 +759,7 @@ gerim 3
 gunbearer 1
 gambles 1
 gerkin 1
-galvanopuncture
+galvanopuncture 1
 gummaker 6
 goutwort 1
 groupings 2
@@ -3801,7 +3801,7 @@ gaolerness 2
 gold 7
 granthi 1
 gell 3
-galanas 2
+galanas 3
 giftwrapping 2
 genepi 3
 gazeless 6
@@ -4137,7 +4137,7 @@ greying 2
 ges 4
 geod 2
 gleesome 3
-grocerly 2
+grocerly 3
 ganef 3
 gulflike 1
 gnomons 3
@@ -6411,7 +6411,7 @@ garbing 3
 glossopteris 3
 glassman 1
 glossotherium 4
-gobiesocid 3
+gobiesocid 4
 gabardine 1
 gymnocladus 3
 grows
