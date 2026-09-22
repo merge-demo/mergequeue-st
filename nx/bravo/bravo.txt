@@ -1974,7 +1974,7 @@ bisection 2
 bagnio 1
 balances 1
 bandstring
-bathymetric 3
+bathymetric 4
 brandishes
 bigeye 5
 believes 1
@@ -9145,7 +9145,7 @@ buntline
 breakdown
 bionomical
 benzophloroglucinol 2
-biostatic 1
+biostatic 2
 biostatical 2
 buffleheaded 3
 bletting 3
@@ -15633,7 +15633,7 @@ beingless 5
 borer 5
 babyhoods 1
 blurriest 3
-bristliness 3
+bristliness 4
 backening 5
 bewigging
 braws
