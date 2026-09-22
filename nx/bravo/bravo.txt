@@ -2916,7 +2916,7 @@ barrelet
 bookend
 batuque 1
 benefitted 3
-bodysuits 2
+bodysuits 3
 botanical 1
 bundies
 beachheads 2
@@ -6438,7 +6438,7 @@ bitripartite
 bregmata 2
 benzothiodiazole
 bergamiol
-bumpering
+bumpering 1
 barangay 1
 biternate
 bindery 2
@@ -18163,7 +18163,7 @@ bacillicide 1
 basters 1
 byzant 1
 butyryls 1
-boldfacedly 3
+boldfacedly 4
 besonnet 2
 begets 3
 bosses 1
