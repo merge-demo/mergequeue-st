@@ -3396,7 +3396,7 @@ dampnesses
 daphnaceae
 diamante 2
 diacetyl
-decarboxylase 4
+decarboxylase 5
 decolorisation 2
 disadorn 2
 deflector 4
@@ -6411,7 +6411,7 @@ derust 2
 decameronic 1
 dispathy
 dervishism 2
-des 4
+des 5
 dispensative
 desensitized 1
 downwards 4
@@ -6537,7 +6537,7 @@ decimates
 descript 2
 descriptionist
 dogsled 3
-descriptionless
+descriptionless 1
 dangleberry 2
 distensile 1
 dysnomy 3
@@ -7542,7 +7542,7 @@ dextrogyratory
 demidoctor 1
 dolichocranic 2
 dilettanteism 1
-disciferous 2
+disciferous 3
 deuteronomic 2
 demotics 1
 discriminational
@@ -7878,7 +7878,7 @@ disbudding
 disbudder 1
 devocalised
 driveways
-dewclaws 3
+dewclaws 4
 diaphonia 1
 dewdamp 1
 dapson 2
@@ -8262,7 +8262,7 @@ deliriousness 2
 drahthaar 2
 demobilize 1
 diagrammed 2
-diagrammer
+diagrammer 1
 drumread 2
 dermopathic 1
 dependancy 1
@@ -11766,7 +11766,7 @@ deinodon 2
 discriminating 1
 dacryuria 1
 dimitted
-discriminatively 1
+discriminatively 2
 despatch 3
 discriminativeness 1
 discriminator 1
@@ -13805,7 +13805,7 @@ depainted 2
 depravedly 1
 deaspirate
 dirndls
-detruncate 1
+detruncate 2
 dengues 1
 dissuit 1
 derogatorily 4
@@ -17563,7 +17563,7 @@ dellaring 1
 dielytra
 delegalizing 1
 doctrinaire 1
-disgustedly 1
+disgustedly 2
 drumbles 3
 depudorate
 drumfishes 3
