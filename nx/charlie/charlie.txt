@@ -7185,7 +7185,7 @@ caltrops 1
 clamors 1
 centrifugaller 1
 cladoceran 3
-centrifugate
+centrifugate 1
 centrifuge
 centrifugence 2
 centrifuging
@@ -7350,7 +7350,7 @@ coquettishness
 cephalomant
 catlin 3
 cleansing 1
-cephalomere 2
+cephalomere 3
 cyclostylar
 cephalometric
 cephalonasal 1
