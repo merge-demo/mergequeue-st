@@ -5896,7 +5896,7 @@ defeatee 1
 depreter
 deprint 2
 depriorize 2
-disorderedness 1
+disorderedness 2
 deprivable 1
 dormin 2
 degrader 2
