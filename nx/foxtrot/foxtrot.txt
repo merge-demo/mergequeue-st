@@ -108,7 +108,7 @@ fibs 3
 fleshliest 1
 fingertips 3
 faciends 3
-featheredges
+featheredges 1
 fluidization 3
 facient 2
 furaldehyde 2
@@ -5505,7 +5505,7 @@ friseurs 3
 fossed 1
 fretwork 1
 forbarred 1
-fratching 2
+fratching 3
 foraged 2
 fleshy 1
 fillet 4
@@ -7602,7 +7602,7 @@ fandangos 5
 fleshquake 5
 ferrules 1
 foredefeated 7
-frankheartedness 3
+frankheartedness 4
 fatuity 6
 footslogs 3
 flacherie 2
