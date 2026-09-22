@@ -8088,7 +8088,7 @@ barcas 1
 bicrural 1
 broodiness 1
 biometrics 2
-bridecup 1
+bridecup 2
 bellypinch 1
 brogue 1
 breathing 3
@@ -8720,7 +8720,7 @@ burds 1
 beliquored 2
 brachiolaria
 balladlike 3
-barrett
+barrett 1
 beseeching 1
 beaverite 2
 bulldoggish 1
@@ -12375,7 +12375,7 @@ breath 1
 brigades 3
 biskop 1
 borage 3
-baskets
+baskets 1
 bomble
 blackbutt 1
 brickwall
@@ -14599,7 +14599,7 @@ buddle 1
 bimaculate 2
 billhooks 2
 blume 2
-buri 1
+buri 2
 brandisite 1
 boyar 4
 brandling 1
@@ -17763,7 +17763,7 @@ butomus 2
 blackishly 2
 broodless 1
 blepharoadenoma 2
-breedings
+breedings 1
 basyl
 burping 3
 burrbark 2
