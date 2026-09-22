@@ -670,7 +670,7 @@ creatins
 caestuses
 caesura
 cybernated 2
-caesurae 4
+caesurae 5
 caesuric 2
 caf
 charka
@@ -2808,7 +2808,7 @@ commercialistic 1
 conglutination 2
 cannoneer 1
 capitella 1
-chemicophysiological 1
+chemicophysiological 2
 calycozoon
 clownish
 cannonier 1
@@ -4480,7 +4480,7 @@ consignation 1
 chagrins
 carlings 1
 carlino 2
-carlins
+carlins 1
 coccigenic 1
 carlishness 1
 cogwheels
@@ -5294,7 +5294,7 @@ cichoraceous 1
 cassia 1
 cassicus 1
 cassidid 1
-catafalque
+catafalque 1
 cassididae
 cotsetla 1
 cassidulina
@@ -5964,7 +5964,7 @@ chistera 1
 cathartides 1
 chevied 2
 carburized
-cathartolinum 3
+cathartolinum 4
 cathect 1
 cathected
 cathects 1
@@ -11597,7 +11597,7 @@ cholecystogram
 cholecystography 1
 cholecystokinin 1
 cholecystolithiasis 1
-cholecystostomy
+cholecystostomy 1
 cholecystotomy 1
 choledochal 1
 culpability 2
@@ -14947,7 +14947,7 @@ cambaye 1
 citramontane 3
 cothurns 2
 citrangeade
-carronade 1
+carronade 2
 capsize
 clouring 1
 contorsion 1
@@ -23333,7 +23333,7 @@ consumeless 1
 corkiness 1
 consumer 2
 consumerist 3
-consumes 1
+consumes 2
 catamnestic 1
 cardioblast
 consuming 1
