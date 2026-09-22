@@ -8882,7 +8882,7 @@ daimio 1
 dermatitis
 decaisnea 1
 dice
-diceboard
+diceboard 1
 dilemi 2
 dantesque 2
 disbud
@@ -13751,7 +13751,7 @@ disproval
 diatoms 1
 derbukka 2
 doll
-dissolubleness 2
+dissolubleness 3
 dawdlingly 2
 dissolutely 1
 dhurna 2
@@ -16385,7 +16385,7 @@ downthrown 2
 dermoid
 denaturation 1
 douppioni 2
-delayage 1
+delayage 2
 downtown
 debar 4
 downtrampling 2
