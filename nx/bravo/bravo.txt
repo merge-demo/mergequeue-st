@@ -3565,7 +3565,7 @@ bathycolpic 3
 berseems 1
 belatticed 1
 baroscopic 2
-binode 3
+binode 4
 baizas
 blonds 1
 bathylithic
@@ -3958,7 +3958,7 @@ barbra 2
 bisected 3
 bassette
 bunch
-bristols
+bristols 1
 behelp 1
 bdellovibrio 2
 brushbird 2
