@@ -6695,7 +6695,7 @@ albedos 1
 accidential 1
 audible 1
 allemandes
-advertizement
+advertizement 1
 acarol 3
 autosign 1
 ailsyte
@@ -7951,7 +7951,7 @@ aventails 2
 automatontons 4
 abolishes
 arylamino 1
-alnus 2
+alnus 3
 alembicated 2
 antetype 1
 alemmal 1
@@ -17854,7 +17854,7 @@ adieus 1
 argued
 appreciativeness
 appreciatory 2
-angiophorous 2
+angiophorous 3
 allegorically 1
 aerify 3
 appreciators 2
