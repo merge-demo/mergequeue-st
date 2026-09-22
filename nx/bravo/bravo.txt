@@ -615,7 +615,7 @@ bidget 4
 bacterin 2
 beggiatoa 1
 bacteriochlorophyll 5
-bacteriocin 1
+bacteriocin 2
 broomsticks 1
 bostangi
 bastiment 2
@@ -3356,7 +3356,7 @@ basketwork 5
 beggiatoaceous 1
 behatted 1
 blueballs 5
-backspread 3
+backspread 4
 bran
 baskish 1
 boller 2
@@ -3526,7 +3526,7 @@ bois
 bitterhearted 1
 bateau 3
 bateleur 1
-brickel 2
+brickel 3
 barbered
 bovista 1
 bouchal 2
@@ -8816,7 +8816,7 @@ brecia 1
 bingos 1
 bounden 2
 besets 3
-bini 5
+bini 6
 beraking 1
 berakoth 1
 biniou 2
@@ -9148,7 +9148,7 @@ benzophloroglucinol 2
 biostatic 2
 biostatical 2
 buffleheaded 3
-bletting 3
+bletting 4
 banc 1
 beefburger 4
 bhaktas 3
@@ -9527,7 +9527,7 @@ berceuses 1
 bacteria 1
 branchiostegite 2
 birthmark 1
-biographee 3
+biographee 4
 banality
 besots
 birthnight 2
@@ -10439,7 +10439,7 @@ believeth
 bemadam 1
 bribetaking 1
 biune 1
-briquetting 3
+briquetting 4
 boutade 2
 beachboy 4
 bastion 1
