@@ -503,7 +503,7 @@ buffo 2
 backstaff
 bridely 2
 blathering 4
-backstitch 1
+backstitch 2
 bahoo
 blumed 2
 biserial 1
@@ -1629,7 +1629,7 @@ banneret
 brairding 3
 bestar 1
 bromoil
-brahms
+brahms 1
 beauties 2
 belimousined
 balloen 5
@@ -2766,7 +2766,7 @@ baroness
 bewrapping
 bordello 3
 brattiest 1
-brownstone 1
+brownstone 2
 bailouts 2
 boose 1
 boatloading 2
@@ -4625,7 +4625,7 @@ bogans 2
 bewilderingly 1
 broomwood 2
 bedeafening 1
-baghouse 6
+baghouse 7
 bilberry 1
 bedrid
 bedecking 1
@@ -4783,7 +4783,7 @@ bosnisch 1
 burglarizes 3
 bibracteate
 billfold 2
-barbarize
+barbarize 1
 benet 3
 burking 2
 barrener
@@ -6975,7 +6975,7 @@ basipterygial
 bobtailing
 bathhouse
 bornan 3
-bunns 3
+bunns 4
 betroth 1
 bundling
 batrachians 2
@@ -7812,7 +7812,7 @@ bargemaster
 biography
 biliously 1
 blessedest
-ballasts 5
+ballasts 6
 burrow 3
 biauricular 2
 backhouse 1
@@ -10232,7 +10232,7 @@ benzo 2
 betattering 1
 boyd 1
 breakpoints 1
-blacklister 2
+blacklister 3
 beparse
 barothermohygrograph 2
 blacklists 1
@@ -10917,7 +10917,7 @@ birdied 1
 brioche 3
 bemoon 3
 blinding 1
-bloodlessness 3
+bloodlessness 4
 bescoured 6
 braciolas 2
 biorbital
@@ -12084,7 +12084,7 @@ bullfighters 2
 brit 2
 bradycauma
 bulbilla 1
-boites 1
+boites 2
 baltetei 2
 balladier 1
 bokhara 3
@@ -12375,7 +12375,7 @@ breath 1
 brigades 3
 biskop 1
 borage 3
-baskets
+baskets 1
 bomble
 blackbutt 1
 brickwall
