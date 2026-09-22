@@ -1156,7 +1156,7 @@ gantelope 3
 genitors 1
 gantlet 1
 gled 4
-gantleted
+gantleted 1
 gripier 4
 grouses 1
 goninidia 1
@@ -3308,7 +3308,7 @@ goose 6
 glanditerous 2
 gahnite 1
 geometroidea 3
-gasogen 3
+gasogen 4
 gelatia 3
 groovelike 5
 garrulinae 3
@@ -8023,7 +8023,7 @@ garnishry 6
 gables 3
 grandmotherly
 groutnoll 2
-glistens 1
+glistens 2
 gymnastical 2
 gomarist 2
 gunnies 2
@@ -8339,7 +8339,7 @@ gazelle 3
 gilenyer 3
 greenslade 3
 gracefulness 1
-greyer 4
+greyer 5
 geographic 2
 gravicembalo 3
 glucuronidase 3
@@ -9219,7 +9219,7 @@ grayfish 2
 guiled 4
 geologists 1
 guaka 1
-glairing 4
+glairing 5
 gunebo 2
 gnoses 4
 geoscience 5
