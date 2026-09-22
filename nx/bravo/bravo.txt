@@ -1974,7 +1974,7 @@ bisection 2
 bagnio 1
 balances 1
 bandstring
-bathymetric 3
+bathymetric 4
 brandishes
 bigeye 5
 believes 1
@@ -5876,7 +5876,7 @@ beride
 bellowslike 2
 belltail
 balloons 7
-butylating 3
+butylating 4
 babylonish
 bluer 2
 blackman 4
@@ -15633,7 +15633,7 @@ beingless 5
 borer 5
 babyhoods 1
 blurriest 3
-bristliness 3
+bristliness 4
 backening 5
 bewigging
 braws
