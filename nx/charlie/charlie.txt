@@ -27547,7 +27547,7 @@ coventry 1
 coroplast
 creaturehood
 cover
-containable 1
+containable 2
 coverages 2
 coverall 1
 coveralled
