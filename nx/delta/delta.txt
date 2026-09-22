@@ -18038,7 +18038,7 @@ dropforging
 dislodgeable 2
 disseminator 1
 deporture
-deployable
+deployable 1
 dentelle
 dyers 3
 dulcified 1
