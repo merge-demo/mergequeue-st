@@ -6399,7 +6399,7 @@ cauteries
 cauterisation 3
 cauterise 2
 collision
-cloudland
+cloudland 1
 cauterism 1
 carafe 1
 correcter 1
@@ -15409,7 +15409,7 @@ conducement
 clarain
 clare 1
 corrodible
-clarence
+clarence 1
 civilizational
 clarences 2
 clarenceux
@@ -16415,7 +16415,7 @@ cloaca 1
 cloacae
 cryptanalyzed 2
 cloacaline 2
-cents 1
+cents 2
 connellite
 cowage
 copart
@@ -17970,7 +17970,7 @@ coelicolae 1
 caliphs 1
 chromoplasmic
 concept
-coeligenous 2
+coeligenous 3
 coelin 1
 cantharellus 2
 coelioscopy 1
@@ -24398,7 +24398,7 @@ crosspiece 2
 coolheadedly 1
 conchyle
 coolie 2
-cooliman 1
+cooliman 2
 cooling 2
 concaver 1
 coolingness 1
@@ -25024,7 +25024,7 @@ carnivora
 castoff
 cordel 1
 comae 2
-chumble
+chumble 1
 cordelia 1
 cordelle 1
 crushableness
@@ -29752,7 +29752,7 @@ confessory
 crookbacked 1
 crookbill
 castral
-crookedbacked 1
+crookedbacked 2
 cinuran 1
 commencement
 consignment 1
