@@ -8726,7 +8726,7 @@ combflower 3
 chapelries
 carrs 4
 cinerins 1
-chapelward 1
+chapelward 2
 ceint
 chaperno 1
 custodia 2
@@ -25108,7 +25108,7 @@ chetif 2
 coreigns 1
 corejoice
 caryophyllene
-convivialist 2
+convivialist 3
 corelated 1
 corelates
 corelating 3
