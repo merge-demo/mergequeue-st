@@ -562,7 +562,7 @@ forjudger 3
 frequentative 1
 frappe 3
 feeblish 3
-funerate 2
+funerate 3
 flagstaff 2
 frighteningly 3
 furmety 8
@@ -5736,7 +5736,7 @@ flirty 2
 feculent 3
 ferulas 3
 frontis 2
-farding
+farding 1
 foretype 4
 fleuronnee 1
 fungous 1
@@ -6604,7 +6604,7 @@ fascioliasis 2
 feelies 2
 flagrante 1
 frogfish 11
-forestaffs 3
+forestaffs 4
 forecondemn
 forfending 4
 fogey
