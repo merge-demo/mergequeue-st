@@ -3565,7 +3565,7 @@ bathycolpic 3
 berseems 1
 belatticed 1
 baroscopic 2
-binode 3
+binode 4
 baizas
 blonds 1
 bathylithic
@@ -3958,7 +3958,7 @@ barbra 2
 bisected 3
 bassette
 bunch
-bristols
+bristols 1
 behelp 1
 bdellovibrio 2
 brushbird 2
@@ -5137,7 +5137,7 @@ beflour 2
 beflowered
 biotas 2
 batta 1
-befuddles 2
+befuddles 3
 bathmotropic
 bogbean
 bouffants 2
@@ -6003,7 +6003,7 @@ bemete 1
 bimillennia
 busybodies 2
 backhauling 1
-bemadden 1
+bemadden 2
 bemiring 3
 burrs 1
 bemisted 4
