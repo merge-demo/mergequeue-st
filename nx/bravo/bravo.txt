@@ -4421,7 +4421,7 @@ besieged 1
 balm 2
 brandering
 budapest 2
-barrators 1
+barrators 2
 bitstone 1
 bkcy 5
 blubberer 3
@@ -12021,7 +12021,7 @@ blusteration
 bootstrapped
 bronchiole 2
 bohunks 2
-beneficeless 4
+beneficeless 5
 boyard
 boyardism 1
 bartholomean 2
@@ -14899,7 +14899,7 @@ berms
 beefs 3
 bingies 2
 bloodthirstier 1
-breadwinning
+breadwinning 1
 breakability 1
 breakable 1
 breakaxe 2
@@ -17238,7 +17238,7 @@ basidigitalia 3
 bulkish 1
 batardeau 1
 bulten 1
-bandores 4
+bandores 5
 brilliantness 2
 borsch 1
 biltongs 1
