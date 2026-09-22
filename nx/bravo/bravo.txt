@@ -2660,7 +2660,7 @@ barbitals 3
 blousons 1
 bodicemaker 1
 barlafummil 2
-biopsychologist
+biopsychologist 1
 boggy
 barleybrake 1
 broadener 3
@@ -2752,7 +2752,7 @@ bukeyef
 barology 4
 barolong 1
 boroughship 4
-barometers 2
+barometers 3
 beefy 2
 blam 1
 brainache 1
@@ -4905,7 +4905,7 @@ breakstone
 bloomage 1
 backspeer 1
 bryanite 2
-bomarea 1
+bomarea 2
 beechwood
 bright 2
 bourbons 3
