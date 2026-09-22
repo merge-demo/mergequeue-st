@@ -2916,7 +2916,7 @@ barrelet
 bookend
 batuque 1
 benefitted 3
-bodysuits 2
+bodysuits 3
 botanical 1
 bundies
 beachheads 2
@@ -4034,7 +4034,7 @@ beakerman 1
 bellite
 beakermen 1
 bacitracin 1
-bunraku 2
+bunraku 3
 birdseeds 3
 beakers 3
 beakiron 2
@@ -9301,7 +9301,7 @@ botches
 bipolarity 1
 besmear 1
 bloodlusting 1
-bipotentiality 1
+bipotentiality 2
 bromoiodid 2
 bipotentialities
 biprism 1
@@ -12344,7 +12344,7 @@ bombernickel 1
 brandle 2
 bantered
 bombycine 4
-bagpiper
+bagpiper 1
 blacky 1
 bombilation 3
 bombilla 1
@@ -12550,7 +12550,7 @@ balsamroot 4
 bourgeoning 1
 brails 2
 bisulphate 3
-bridehead 1
+bridehead 2
 boniface 1
 battle 1
 bonification 3
@@ -12582,7 +12582,7 @@ boterol 3
 begrudging
 brackets 4
 bagpiping
-bonne
+bonne 1
 bescreens 3
 bubbly 3
 bonnet
@@ -12665,7 +12665,7 @@ blueth
 boodled 4
 braccia
 bestowable 1
-bister
+bister 1
 boogeymen
 bane 2
 bellical 1
@@ -18163,7 +18163,7 @@ bacillicide 1
 basters 1
 byzant 1
 butyryls 1
-boldfacedly 3
+boldfacedly 4
 besonnet 2
 begets 3
 bosses 1
