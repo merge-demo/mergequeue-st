@@ -2527,7 +2527,7 @@ countermands 1
 coasters 1
 candies
 candying
-candymaker 1
+candymaker 2
 cardiophobe 1
 candymaking 2
 candite
@@ -3170,7 +3170,7 @@ colored 2
 capercut
 cankereat
 citify
-caperers
+caperers 1
 cachepots 2
 crosshatcher 1
 cowpox 1
@@ -14350,7 +14350,7 @@ coelacanthid 2
 chronometry
 circumstantiality 1
 circumstantialities 1
-circumstantialness 2
+circumstantialness 3
 chipmunk 1
 circumstantiate
 circumstantiating 1
@@ -15464,7 +15464,7 @@ clarities
 coasts
 calyculi 1
 cayapa
-capuches
+capuches 1
 clarke 1
 coachs
 celestialness 3
@@ -22843,7 +22843,7 @@ consentience
 consentient 1
 consenting 1
 consentingly 1
-chaldee
+chaldee 1
 cytoblastematous 1
 consentive
 cardinalitian
