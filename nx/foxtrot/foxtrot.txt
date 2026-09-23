@@ -9498,7 +9498,7 @@ flamens 3
 fratry 2
 flippery 2
 furnaceman
-fulcrate 2
+fulcrate 3
 furculum 1
 fastwalk 3
 febricitant 3
@@ -10033,7 +10033,7 @@ fibrosities 8
 fencings 3
 fliest 3
 fairness 3
-footprint 2
+footprint 3
 footpaths 2
 foreshroud 1
 framableness 3
