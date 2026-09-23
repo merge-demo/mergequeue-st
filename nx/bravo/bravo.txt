@@ -8929,7 +8929,7 @@ biodegradable 2
 becassocked 2
 beleap 1
 biodegraded
-biodegrading 3
+biodegrading 4
 biodynamical 1
 bridoon 1
 biodynamics 1
@@ -9602,7 +9602,7 @@ biscutate 1
 branchiostomous 2
 bisdiapason 1
 binary 3
-bicapsular
+bicapsular 1
 bandlimits 3
 bisectors
 bisectrices 2
