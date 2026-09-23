@@ -716,7 +716,7 @@ germanistic 2
 gawn
 gladdest 4
 grissen
-genomic 3
+genomic 4
 gersdorffite 3
 gentianic 1
 gor 1
@@ -746,7 +746,7 @@ galvanology 2
 geomechanics 2
 gandurah 1
 gombeen 2
-gelose
+gelose 1
 genealogist 1
 gueridon
 genae 4
@@ -834,7 +834,7 @@ grangerise 5
 greyhounds 6
 goban 5
 genistin 2
-granulater 5
+granulater 6
 geonegative 1
 gamboled 2
 goethe 1
@@ -4110,7 +4110,7 @@ goniometry 2
 goodly 2
 guaranin 12
 gemmule 2
-gainful
+gainful 1
 geographical 3
 gemmuliferous 3
 glossophaga 5
@@ -4511,7 +4511,7 @@ gyrencephala 2
 gutturalized 3
 gobbledygook 1
 graphometry 2
-germanophobist 2
+germanophobist 3
 glim 1
 galloper 1
 germane 2
@@ -5870,7 +5870,7 @@ gawney 2
 gipsyweed 5
 gospodin 3
 glucoses 3
-glances 2
+glances 3
 glucoside 3
 goshawk 3
 grandparents 3
