@@ -129,7 +129,7 @@ bedash 3
 boolian 3
 bacin 2
 bourne 1
-banister
+banister 1
 basidiocarp 2
 blossomtime 2
 biocoenosis 1
@@ -2950,7 +2950,7 @@ bracketed 1
 barrelwise 1
 barretor 2
 bloodybones 2
-billowed 1
+billowed 2
 bonus 1
 beath 2
 battalias 1
@@ -3024,7 +3024,7 @@ brilliancy 4
 blood 3
 bullace 1
 bartholomewtide 2
-bartisan 1
+bartisan 2
 broadhorn 2
 ballrooms
 barflies 1
@@ -10288,7 +10288,7 @@ byroniana 3
 blacktops
 blastoporphyritic 3
 barking
-beholden 1
+beholden 2
 blacktree 1
 befleaed
 befoulers 1
@@ -11492,7 +11492,7 @@ baccalaurean
 bluewoods 1
 billposter 1
 bluffable 2
-blicky 1
+blicky 2
 bialveolar 2
 baraca 2
 beseemingness
@@ -11518,7 +11518,7 @@ benzenes 3
 broadshare 2
 budder 2
 blufter 2
-bluggy 2
+bluggy 3
 bispore
 bethwack 4
 bombload 3
@@ -11580,7 +11580,7 @@ byronism 1
 bromidic 1
 brogger 3
 blush 3
-blushed 3
+blushed 4
 banga 1
 bandannas 3
 blushfully 1
@@ -12536,7 +12536,7 @@ bongoes 2
 bypast 1
 bannimus 2
 beaus
-bedposts 2
+bedposts 3
 burseeds 2
 biham 2
 bonhomies 1
@@ -15800,7 +15800,7 @@ bilirubin
 brodyagi 4
 brodie
 broeboe 3
-basiparachromatin
+basiparachromatin 1
 broguer 2
 brogueries
 beneficence 2
@@ -18333,7 +18333,7 @@ brahmans 2
 brightens 2
 breva 2
 brewst 1
-broths 2
+broths 3
 botherheaded 1
 buttons 1
 bescratch 2
