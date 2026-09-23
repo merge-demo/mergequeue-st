@@ -1820,7 +1820,7 @@ featurelessness 1
 featureliness 5
 fieldmice 1
 flesh 4
-furrows
+furrows 1
 figureheadship 2
 fellahin 2
 firebreaks 2
@@ -10306,7 +10306,7 @@ frolic 2
 fanegas 4
 felstone 2
 fluidglycerate
-forensics 2
+forensics 3
 fistulatome 2
 flutier 2
 fibro 2
