@@ -918,7 +918,7 @@ ensisternal 1
 equipping
 endowments 2
 endorsements 3
-electrophoretic
+electrophoretic 1
 ectropion 4
 eluvia 4
 erogenesis 2
