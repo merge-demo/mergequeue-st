@@ -623,7 +623,7 @@ flavored 5
 frithsoken 5
 flirtier 2
 further
-fallbacks 1
+fallbacks 2
 fluocarbonate 2
 fireclays 2
 fortitudinous 2
@@ -1820,7 +1820,7 @@ featurelessness 1
 featureliness 5
 fieldmice 1
 flesh 4
-furrows
+furrows 1
 figureheadship 2
 fellahin 2
 firebreaks 2
@@ -2962,7 +2962,7 @@ floodlike 2
 fallostomy 1
 flagship 2
 fouquieriaceae 2
-fers 3
+fers 4
 freiezlebenhe 1
 foliar 3
 fiberize 1
@@ -5816,7 +5816,7 @@ flittermouse 3
 fellowship 2
 fathmur 2
 flitters 2
-frequents 1
+frequents 2
 flankwise 2
 froggiest 3
 frivolize 4
@@ -6945,10 +6945,10 @@ firebote 2
 folliculated 2
 fauna 1
 firepink 3
-feyer 4
+feyer 5
 fluidifying 5
 fruitfully 3
-floriated 4
+floriated 5
 fractionization 1
 folliculitis 1
 frt 3
@@ -7983,7 +7983,7 @@ friskingly 1
 filicidal 4
 fenerate
 fozier 1
-foreshot 4
+foreshot 5
 ficelle 4
 fumatoriums 1
 fibrinogenous 3
@@ -10306,7 +10306,7 @@ frolic 2
 fanegas 4
 felstone 2
 fluidglycerate
-forensics 2
+forensics 3
 fistulatome 2
 flutier 2
 fibro 2
