@@ -641,7 +641,7 @@ aves 1
 antidiphtheric 1
 acacetin 1
 amatols 1
-atelomitic 1
+atelomitic 2
 astigmatism 3
 alastrim 1
 astrologic 1
@@ -980,7 +980,7 @@ antimeres 1
 antichymosin 1
 aborally 1
 apprehension
-acanthad 1
+acanthad 2
 aecidiostage 1
 armloads
 axogamy 1
@@ -1864,7 +1864,7 @@ akoasma 1
 adduct 2
 agrest 1
 antiketogenesis 1
-acephalus 1
+acephalus 2
 azotaemia 2
 atridean
 adolesced 1
@@ -2691,7 +2691,7 @@ assuaging 2
 adunation 1
 alphanumeric 1
 almacenista 2
-atangle 1
+atangle 2
 alangine 2
 anomaliflorous 1
 ashkenazim 1
@@ -3022,7 +3022,7 @@ antitropical
 archenteron 1
 axtree
 aulostomi
-actiniomorpha 1
+actiniomorpha 2
 addisoniana 1
 actinisms 1
 arginine
@@ -4978,7 +4978,7 @@ atame
 alluvivia
 arake
 aerohydrous 1
-archagitator 2
+archagitator 3
 anoestrus 1
 aerolite 1
 argumentatory
@@ -5208,7 +5208,7 @@ anelastic
 accend
 avouching
 amnioallantoic
-afd 1
+afd 2
 antireticular 1
 anticommunist
 afenil 2
@@ -6715,7 +6715,7 @@ acoustic
 ailurus 1
 ailweed
 appassionatamente
-alcoholate 1
+alcoholate 2
 ageustia
 aimak 1
 abolitionize 1
@@ -10625,7 +10625,7 @@ antiderivative 2
 anachromasis 2
 amygdalinic
 amygdaloid
-abstractedly 4
+abstractedly 5
 autoerotism 1
 aftershine 1
 acidifier 3
@@ -20357,7 +20357,7 @@ asahel 2
 antesignani 1
 arsenopyrite 1
 aeolotropy
-arsenostyracol 2
+arsenostyracol 3
 arthritically
 aldermanlike 1
 amyous 1
@@ -22034,7 +22034,7 @@ asswaged 2
 angiogram 2
 ascriptitii 2
 asswages 1
-asepticism 2
+asepticism 3
 anteprostate
 astable
 aedeagus 1
@@ -23461,7 +23461,7 @@ antidictionary
 alarmable 1
 apomict 2
 alertest
-augend
+augend 1
 adversity 2
 antiantidote 1
 autoinoculation
@@ -24589,7 +24589,7 @@ annihilator
 auxotroph 4
 aul 2
 auxotrophy 1
-absinthiate
+absinthiate 1
 armorist
 anchietine 1
 aimable
