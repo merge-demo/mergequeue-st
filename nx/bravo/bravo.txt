@@ -4774,7 +4774,7 @@ boltwork 2
 bedraping 2
 bedread 1
 bedrench 2
-baldling 2
+baldling 3
 batad 1
 blast 2
 bed 1
@@ -6407,7 +6407,7 @@ behedge 5
 benzophenothiazine 1
 bestayed 1
 betting 2
-bewake 1
+bewake 2
 benzophthalazine 1
 breakup 2
 benzil 3
@@ -6804,7 +6804,7 @@ bioacoustics 1
 basigenous 2
 bertrum 1
 bullarium 4
-beachy 3
+beachy 4
 broadsided 4
 ber
 beruffed 4
@@ -7303,7 +7303,7 @@ barad 2
 bali 2
 betell
 bisexualism 1
-bambuba 3
+bambuba 4
 brandish 2
 balsameaceae 1
 biologese
@@ -7957,7 +7957,7 @@ boanbura
 balistraria 3
 beryllium 2
 borborygmi 2
-bodymaker 2
+bodymaker 3
 billing
 barothermogram 1
 bibulousness 2
@@ -15937,7 +15937,7 @@ bromizing 1
 bounces 1
 behooped
 bowel
-bearberries 2
+bearberries 3
 byreman
 bromoauric 1
 brazilianite
