@@ -3337,7 +3337,7 @@ fleshlike 2
 flon 4
 forsung 5
 flench 1
-furuncle 5
+furuncle 6
 fidge 2
 frogfoot 1
 fractionally 5
@@ -9242,7 +9242,7 @@ fries 1
 fragileness 1
 foreknown 1
 faceplate 2
-flubbing 2
+flubbing 3
 fucus 2
 farmed 2
 fledged 2
