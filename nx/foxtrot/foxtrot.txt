@@ -4367,7 +4367,7 @@ fishability 4
 flybook
 fixion 1
 fishboats 2
-fonduk 3
+fonduk 4
 flubdubberies 3
 fishbolts 5
 flechette 2
@@ -8738,7 +8738,7 @@ feteless 4
 fame 1
 faciendum 1
 forgive 3
-forecatching 2
+forecatching 3
 flotage 4
 filii 2
 fourness 1
