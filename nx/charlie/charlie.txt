@@ -9534,7 +9534,7 @@ checkroll 1
 compathy 3
 checkrope 2
 cumulant 1
-conoy
+conoy 1
 checkrowed
 checkrower 1
 checkrowing 1
