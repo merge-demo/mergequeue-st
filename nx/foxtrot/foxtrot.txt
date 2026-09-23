@@ -1820,7 +1820,7 @@ featurelessness 1
 featureliness 5
 fieldmice 1
 flesh 4
-furrows
+furrows 1
 figureheadship 2
 fellahin 2
 firebreaks 2
@@ -3658,7 +3658,7 @@ floorings 2
 fuzzing 2
 funnelling 1
 fertilised 4
-foreglow 2
+foreglow 3
 finedrawing 4
 fluxweed 1
 federalize 1
@@ -5319,7 +5319,7 @@ ferry 3
 fantasque 3
 flutey
 fifteen 3
-fumarole 6
+fumarole 7
 feasts 2
 filial 2
 fant 1
@@ -6948,7 +6948,7 @@ firepink 3
 feyer 4
 fluidifying 5
 fruitfully 3
-floriated 4
+floriated 5
 fractionization 1
 folliculitis 1
 frt 3
@@ -7579,7 +7579,7 @@ figworts 3
 floggers 4
 ficoidal 1
 forecourts 3
-freeholding
+freeholding 1
 faille 3
 fifers 3
 felsite 4
@@ -11689,7 +11689,7 @@ forelands 4
 finikin
 ferreous 1
 flare 3
-flyleaves 4
+flyleaves 5
 fagaceous 3
 faced 4
 flippancy 3
