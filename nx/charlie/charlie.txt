@@ -13521,7 +13521,7 @@ cylindroconoidal 3
 cylindrodendrite 1
 cylindrograph
 compilers
-chisel
+chisel 1
 chrysocolla 1
 comitiva
 cylindroid
