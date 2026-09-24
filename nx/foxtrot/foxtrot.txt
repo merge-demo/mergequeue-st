@@ -8627,7 +8627,7 @@ fieldman 4
 frameshift 6
 fullfil 5
 flaskful 4
-fissionable
+fissionable 1
 fungating 4
 farmsteading 3
 forninst 1
