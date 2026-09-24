@@ -8432,7 +8432,7 @@ ds
 degreed 1
 diamagnet 2
 diamagnetism 3
-dredging 1
+dredging 2
 ditrochee 1
 deflexed 2
 dooxidize 1
