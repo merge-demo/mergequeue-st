@@ -11041,7 +11041,7 @@ calorify
 chiseling 1
 chiseller
 chiselly
-chisellike
+chisellike 1
 chiselling
 coevolvedcoevolves 1
 collectable
