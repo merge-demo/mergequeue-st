@@ -3229,7 +3229,7 @@ defend 2
 decolor 1
 dikast 1
 dolmenic 3
-demimondaine
+demimondaine 1
 dissentient
 distrainor 3
 defendant
