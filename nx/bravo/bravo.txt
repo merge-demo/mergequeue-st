@@ -1973,7 +1973,7 @@ broadly
 bisection 2
 bagnio 1
 balances 1
-bandstring
+bandstring 1
 bathymetric 4
 brandishes
 bigeye 5
