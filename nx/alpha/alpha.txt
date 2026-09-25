@@ -4106,7 +4106,7 @@ antislip 3
 agentival 1
 admissibility
 asci 4
-admissive 1
+admissive 2
 automan
 apholate
 abstriction 1
