@@ -3397,7 +3397,7 @@ embargoes 6
 endocrinologist 3
 enc
 eavedropper 1
-embark 1
+embark 2
 epichorial 1
 embarkations 1
 epitomize 2
@@ -7079,7 +7079,7 @@ expelling 1
 esophagismus 3
 epitaxially 2
 embryomata 2
-ensophic 2
+ensophic 3
 epicyesis 4
 eild 5
 exclusions 2
