@@ -1345,7 +1345,7 @@ flaxdrop 2
 filecard 3
 flenser
 fullword
-filicology
+filicology 1
 forspoke 2
 fishboat 2
 fatly 2
