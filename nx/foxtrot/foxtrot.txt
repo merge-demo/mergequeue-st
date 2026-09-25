@@ -172,7 +172,7 @@ fanmaker 3
 frescoing 2
 flatfoots 3
 featherless 3
-flier 1
+flier 2
 factorable 1
 flimsies 1
 finitary 1
@@ -627,14 +627,14 @@ fallbacks 2
 fluocarbonate 2
 fireclays 2
 fortitudinous 2
-fictionalization 1
+fictionalization 2
 finickingly 4
 fikey 3
 forwarding 1
 fimetic 7
 farrand
 featherbedding 3
-farnesol 1
+farnesol 2
 flakage 3
 fluotitanic 3
 fames 3
@@ -843,7 +843,7 @@ flowage 2
 flakes 2
 flavicant 2
 fuchi 5
-fulicine 3
+fulicine 4
 formatively 5
 freshet 2
 faltboats 3
@@ -1003,7 +1003,7 @@ flannelly 1
 farinosel 4
 foussa 3
 fulfill 1
-farmeress 3
+farmeress 4
 fireling 2
 flerrying 3
 farmerly 1
@@ -1153,7 +1153,7 @@ furring 3
 fascintatingly 4
 flavopurpurin 5
 forcer 3
-filicineae 1
+filicineae 2
 fraying 3
 friponerie 5
 focalize 2
@@ -1619,7 +1619,7 @@ featishly 1
 fazes 7
 fiard 2
 flophouse 4
-fied 1
+fied 2
 fizzing 5
 fellowless 3
 fipenny
@@ -1937,7 +1937,7 @@ freight 3
 furling 4
 fileable 4
 friable 3
-froze 2
+froze 3
 floccule 7
 flaring 1
 finagling 2
@@ -2039,7 +2039,7 @@ feigns 5
 flitch 3
 flamier 2
 farouche
-feltwork 6
+feltwork 7
 falconet 3
 fourpounder 5
 ferngrower 3
@@ -2459,7 +2459,7 @@ filiform 3
 fielding 6
 falla 4
 fornax 3
-ferruginated 5
+ferruginated 6
 flowable 1
 fungal 3
 foliocellosis 1
@@ -2694,7 +2694,7 @@ foundational 6
 filaze 1
 fawner 2
 frizziness 1
-fervence 3
+fervence 4
 ferventness 1
 frighteningness 1
 floodwall 1
@@ -2752,7 +2752,7 @@ fragmentarily 5
 fellinic 3
 felineness 4
 fesses 2
-flaunche 1
+flaunche 2
 faultier 7
 festally 1
 foremasts 3
@@ -2772,7 +2772,7 @@ festy 2
 festilogies 4
 feddans 3
 festinance 4
-festoonery
+festoonery 1
 fatima 1
 foretellable
 fuddlebrained 1
@@ -2949,7 +2949,7 @@ franklinian 4
 feveret 5
 fibroelastic 2
 forefending
-forefault 2
+forefault 3
 forworden 4
 flicks 3
 foldage 2
@@ -3399,7 +3399,7 @@ foxish 1
 firmation 3
 flowcharts 3
 fiascoes 2
-foretalk 4
+foretalk 5
 fiendly 2
 fc 2
 fetishlike 1
@@ -3459,7 +3459,7 @@ forebowline 2
 foreknowingly 5
 frag 3
 franklinist 4
-firmisternial 2
+firmisternial 3
 figgiest 1
 fraternisation
 fecundity 1
@@ -3923,7 +3923,7 @@ fischerite 1
 forebrain 4
 firmamental 1
 february 2
-frothi 3
+frothi 4
 fraple 4
 french 1
 ferrocyanogen 6
@@ -4159,7 +4159,7 @@ fibrils 3
 faintness 3
 fluophosphate 3
 foreaccounting
-frequence 4
+frequence 5
 fumago 2
 frier 3
 franchisor
@@ -4731,7 +4731,7 @@ frederic 1
 forbearances 2
 foreflap 4
 fumers
-flacianist
+flacianist 1
 fife 1
 foresey 1
 forerank 3
@@ -5080,7 +5080,7 @@ frambesia 1
 fundless 2
 formed 1
 frsikets 5
-flagboat 2
+flagboat 3
 fishweir 2
 fibromyectomy 1
 frother 1
@@ -5120,7 +5120,7 @@ fifteenth 3
 factitive 1
 fict 4
 furnishment 1
-flashiness 6
+flashiness 7
 fermerer 1
 famulli 2
 fragrancies 2
@@ -5182,7 +5182,7 @@ feeding 3
 flued 2
 flangeway 2
 futter 3
-footpaddery
+footpaddery 1
 filamentar 1
 francolin 2
 frozenhearted 6
@@ -5484,7 +5484,7 @@ fragmentizing 3
 foxer 6
 frillers 5
 fallation 3
-forweep 2
+forweep 3
 fittable 2
 fidelities 4
 feus 2
@@ -6087,7 +6087,7 @@ footpace 3
 figurial 6
 foxhounds 1
 filchery 4
-funambule 4
+funambule 5
 flauntingly 1
 forsook 1
 foretriangle 4
@@ -6152,7 +6152,7 @@ frustration 1
 fetidity 5
 fantom 1
 frequented 1
-foredoor 1
+foredoor 2
 fraughts 3
 furiosity 2
 ferrums
@@ -7175,7 +7175,7 @@ foremind 1
 flukewort 1
 foothalt 4
 filths 2
-flagfish 3
+flagfish 4
 fend 3
 fishified 4
 fishers 2
@@ -7321,7 +7321,7 @@ fleeched 2
 foaminess 1
 fixation 5
 forewarner 3
-foraying 3
+foraying 4
 frognose 6
 foram 6
 fronds 3
@@ -7390,7 +7390,7 @@ florideae 2
 fulling 1
 fenestellae
 festiveness 1
-forbiddingly 2
+forbiddingly 3
 fewnes 5
 floatplane 1
 frost 5
@@ -7910,7 +7910,7 @@ frottole 5
 fistful 4
 fause 1
 firmaments 7
-flourishingly 3
+flourishingly 4
 factualist 2
 florent 2
 fusillades 3
@@ -9424,7 +9424,7 @@ fastenings 5
 fowk 1
 farmhold 3
 frails 2
-financer 2
+financer 3
 fisheater
 frokin 3
 fraser 5
@@ -9699,7 +9699,7 @@ forfoughen 2
 facsimiles 1
 fluoborate 3
 foresides 3
-fathers 3
+fathers 4
 fourths 2
 freezy 4
 fromage 2
@@ -10655,7 +10655,7 @@ fulfulde 1
 felids 1
 forwaste
 fractostratus 2
-fleeting 4
+fleeting 5
 frugalities 2
 farrandly 5
 freck 4
@@ -11078,7 +11078,7 @@ fellatrices 2
 fangless 3
 flycatcher 2
 frictionizing 4
-funambulatory 4
+funambulatory 5
 fedia 4
 flamenship 3
 frontality 1
