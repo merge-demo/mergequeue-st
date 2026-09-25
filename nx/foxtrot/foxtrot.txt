@@ -836,7 +836,7 @@ fellness 3
 farenheit 1
 fantasmal 2
 fundus 1
-forsloth 3
+forsloth 4
 frostweed 1
 finked 3
 flowage 2
@@ -1094,7 +1094,7 @@ frizzling 2
 farthing 6
 foresay
 fluffing 3
-feverishness 1
+feverishness 2
 flamingly 4
 fractional 1
 filiates 3
@@ -2039,7 +2039,7 @@ feigns 5
 flitch 3
 flamier 2
 farouche
-feltwork 6
+feltwork 7
 falconet 3
 fourpounder 5
 ferngrower 3
@@ -2459,7 +2459,7 @@ filiform 3
 fielding 6
 falla 4
 fornax 3
-ferruginated 5
+ferruginated 6
 flowable 1
 fungal 3
 foliocellosis 1
@@ -2772,7 +2772,7 @@ festy 2
 festilogies 4
 feddans 3
 festinance 4
-festoonery
+festoonery 1
 fatima 1
 foretellable
 fuddlebrained 1
@@ -7321,7 +7321,7 @@ fleeched 2
 foaminess 1
 fixation 5
 forewarner 3
-foraying 3
+foraying 4
 frognose 6
 foram 6
 fronds 3
