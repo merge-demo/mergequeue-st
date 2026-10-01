@@ -3592,7 +3592,7 @@ flashover 4
 fardels 1
 flank 2
 fructification 1
-felinity 1
+felinity 2
 floorway 3
 files 2
 filesniff 5
@@ -8293,7 +8293,7 @@ frateries 1
 fuchsias 3
 forgetfulness 1
 forgett 2
-faits 1
+faits 2
 feldspars 4
 fistulated 3
 fulltime 4

@@ -1451,7 +1451,7 @@ emunct 1
 exenteritis 1
 epipleural
 envelop 2
-enfarce 4
+enfarce 5
 euxanthate 2
 euhemerism
 efforts 2
@@ -1679,7 +1679,7 @@ ellan 2
 esophagi 7
 eddoes
 elaioleucite 1
-eyebright 1
+eyebright 2
 eyliad 4
 electrotheraputics 3
 ephemerally 1
@@ -2211,7 +2211,7 @@ endocytic 2
 elecives 1
 electant 2
 eurybenthic 1
-elect 3
+elect 4
 epitheliulia 2
 electary
 engrailing 2
@@ -2565,7 +2565,7 @@ ecad 3
 econometric 3
 encyclopaedian 1
 electrodiagnoses 1
-entrenched 1
+entrenched 2
 ethylhydrocupreine 4
 euphausia 2
 entertainable 4
@@ -6527,7 +6527,7 @@ extravagating 1
 exciter 5
 entente 1
 erythorbate 2
-ethnohistorian 1
+ethnohistorian 2
 epipolism 1
 enteradenological 2
 enteral 1
@@ -11532,7 +11532,7 @@ elegancies 5
 epicurean 1
 elastometer 1
 encheiria 1
-erotylid 2
+erotylid 3
 exhaling 1
 eserin 1
 extractable 1
@@ -12906,7 +12906,7 @@ elvish 1
 eserines 3
 extorting 2
 expandible 1
-expediment
+expediment 1
 editions 3
 envenoms 2
 echafaudage
