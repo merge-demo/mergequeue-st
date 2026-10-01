@@ -3307,7 +3307,7 @@ anisotropism 1
 atresy 4
 acetanion 2
 army 2
-azimin
+azimin 1
 ambassadeur
 algebraize
 acutance 1
@@ -10687,7 +10687,7 @@ amusias 1
 amyloleucite
 afterwrath 1
 archiepiscopality
-amylolysis
+amylolysis 1
 antitragic 3
 accusator
 amylom 3
@@ -12824,7 +12824,7 @@ angioid
 amentum 1
 antimilitarist
 apocopation
-anthocerotales 3
+anthocerotales 4
 angioleucitis 2
 antihemagglutinin
 anaphylactogen 1
