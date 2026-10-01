@@ -5597,7 +5597,7 @@ flaglike 1
 flicker 5
 fixity 4
 frapler 2
-floatable 4
+floatable 5
 fiords 2
 ferfel 2
 fatties
@@ -7655,7 +7655,7 @@ faluns 2
 fubby 2
 fatiscent 3
 flames 2
-forefield 3
+forefield 4
 foreorlop 3
 flimsilyst 2
 flustroid 2
