@@ -638,7 +638,7 @@ abolish 2
 autovaccine
 abolished 2
 aves 1
-antidiphtheric 1
+antidiphtheric 2
 acacetin 1
 amatols 1
 atelomitic 2
@@ -3918,7 +3918,7 @@ attracting
 adipsic 3
 agrements 1
 aouads
-autographed 1
+autographed 2
 appeasers 1
 anisoyl
 alcornoco
@@ -9319,7 +9319,7 @@ alongshoreman 2
 autonetics 1
 antisymmetric 2
 aloose 1
-alop 1
+alop 2
 axunge
 antitumor
 alopecia 1
@@ -13763,7 +13763,7 @@ avant 1
 anomatheca 1
 anomia
 acquiet
-anaesthatic 2
+anaesthatic 3
 anutraminosa
 apparatchik 2
 andorran 1
@@ -14258,7 +14258,7 @@ allomorph 2
 agglutinant 1
 abrahamic 2
 aurite
-aeroscopic 1
+aeroscopic 2
 arent 2
 anisaldehyde 1
 arbuscula 1
@@ -17596,7 +17596,7 @@ astroid 1
 adjoining 2
 appentice 1
 agrobiological 2
-adjudges
+adjudges 1
 apneal 3
 adjudgeable 2
 acetic
@@ -24139,7 +24139,7 @@ autographer 5
 afterpart
 argolid 1
 ammoreslinol 1
-autographometer 2
+autographometer 3
 autoheader 1
 axone
 artefacts
