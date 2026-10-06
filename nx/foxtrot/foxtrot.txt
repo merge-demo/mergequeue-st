@@ -1547,7 +1547,7 @@ fortyfold 2
 flights 1
 farcelike 1
 frisca 4
-filariidae 3
+filariidae 4
 fissirostres
 faltche 3
 fulfillers 3
@@ -4102,7 +4102,7 @@ featherbrain 2
 fattable 3
 flocculous 1
 formal 1
-forgery
+forgery 1
 fatalness 1
 fissipedal 4
 ferth 2
@@ -10218,7 +10218,7 @@ flint 2
 frangibleness 3
 feebly
 facingly 1
-farce 3
+farce 4
 foxchop
 fetologies 3
 furdel 1
