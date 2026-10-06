@@ -828,7 +828,7 @@ etamines 1
 ectocarpus 1
 eriophorum 2
 eosinophil 2
-ectocommensal 3
+ectocommensal 4
 ectocondylar 4
 endophytic 1
 ethologies 2
@@ -9375,7 +9375,7 @@ enantiobiosis 3
 extemporiser
 edestin 2
 erythrogenesis
-emblematicize 1
+emblematicize 2
 escapees 1
 erysipelas 1
 extraordinarily 5
