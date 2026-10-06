@@ -4895,7 +4895,7 @@ asideness 1
 archisupreme
 armlet 2
 alienage 2
-andric 1
+andric 2
 antiromanticism 1
 aneared 2
 avoset 3
@@ -7538,7 +7538,7 @@ abrased 2
 arhythmia 1
 adiaphonon
 arditi 2
-antiattrition
+antiattrition 1
 approbation 1
 albuminimeter 1
 albuminiparous 2
@@ -7931,7 +7931,7 @@ aleiptic 2
 actinology
 aleyrodes 1
 advisers 4
-aleknight
+aleknight 1
 apractic 1
 archpastor 1
 agreat 1
@@ -20804,7 +20804,7 @@ ararobas 2
 antiposition 2
 aphidius 1
 artocarpeous 2
-artocarpous
+artocarpous 1
 artolater 1
 aliner 3
 abraid 1
@@ -23654,7 +23654,7 @@ afterlove 1
 abalation 1
 anticlimactic 1
 aureous 2
-acroa 2
+acroa 3
 aphetically
 amortizement
 alcaiceria 1
