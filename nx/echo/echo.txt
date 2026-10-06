@@ -3655,7 +3655,7 @@ emergency
 epiphloedic 1
 embrica 1
 embryectomy 2
-earlet 2
+earlet 3
 endogonidium 4
 embright 2
 entombment 2
@@ -4021,7 +4021,7 @@ evaporative 2
 exedent 1
 evidenced 1
 esuriency 3
-evangelize 2
+evangelize 3
 ensafe 1
 euphorbial 1
 entases
@@ -9015,7 +9015,7 @@ epiphyll 2
 excretes 2
 entria 3
 erigenia 5
-ephesine
+ephesine 1
 emlen 1
 eleoplast
 endothermic 3
