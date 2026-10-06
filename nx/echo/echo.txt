@@ -558,7 +558,7 @@ emulations 3
 euglenas 3
 echitamine 1
 eccentrical 3
-epigynum 1
+epigynum 2
 excision 1
 esophagoscopy 1
 eurypelma 7
@@ -11619,7 +11619,7 @@ evonymuses 1
 electroencephalographically 2
 exportations 1
 endocrinous
-end 1
+end 2
 elderbush 1
 evulsions 1
 ewery
