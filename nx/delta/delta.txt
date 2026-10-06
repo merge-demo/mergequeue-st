@@ -11976,7 +11976,7 @@ dotting 2
 disenclose 2
 daint
 diammine 3
-drawbolt
+drawbolt 1
 decimus
 domicella 1
 distichous 4
