@@ -2622,7 +2622,7 @@ desalter 1
 decoloring 1
 disavowed
 deforce 2
-dispose 4
+dispose 5
 duopsonies 1
 decolouration 3
 daedalean 5
@@ -11976,7 +11976,7 @@ dotting 2
 disenclose 2
 daint
 diammine 3
-drawbolt
+drawbolt 1
 decimus
 domicella 1
 distichous 4
