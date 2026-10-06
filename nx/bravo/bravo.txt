@@ -693,7 +693,7 @@ baculine 1
 boiseries 2
 baculoid
 baculus 1
-badaga 1
+badaga 2
 biorgan 3
 babbitting 3
 buncombe 1
@@ -954,7 +954,7 @@ beprank 1
 bidarkas 2
 bethroot 1
 bagwig 1
-buddhology 3
+buddhology 4
 brownout 1
 bagwigged
 bagwyn
@@ -3066,7 +3066,7 @@ bunnell
 baleful 2
 beduin 2
 brainwashing 3
-braza
+braza 1
 burhead 2
 boobishness
 bimetal
@@ -15030,7 +15030,7 @@ blepharorrhaphy 1
 billowier 2
 boglet 2
 brecht
-burghmoot
+burghmoot 1
 bungholes 1
 billitonite
 brechtian 1
