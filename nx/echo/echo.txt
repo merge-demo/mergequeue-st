@@ -515,7 +515,7 @@ evocate 1
 electrophorus 1
 eyra 2
 elaborated 3
-echinacea 3
+echinacea 4
 evelina 2
 eching 1
 echinidan 1
@@ -700,7 +700,7 @@ eidently 3
 enode 4
 eyefuls 2
 enterozoa 1
-equalable 5
+equalable 6
 expressionable 1
 epiglottic 2
 embraciveg 2
@@ -1478,7 +1478,7 @@ empyema 4
 exonarthex 2
 epics 2
 epistomian 3
-enwombing 1
+enwombing 2
 ethicalness 3
 electre 1
 estivate 2
@@ -2674,7 +2674,7 @@ electrotherapeutical
 entrep 2
 estampie 3
 euchite 1
-escrol 2
+escrol 3
 expectorating 1
 extranatural 6
 excitors 2
@@ -3441,7 +3441,7 @@ enteropneustan 1
 embed 1
 electrosynthetic
 equaled 1
-engrail 4
+engrail 5
 evacuate 1
 embellisher
 embellishers 2
@@ -3554,7 +3554,7 @@ epididymal
 entocone 2
 enervator 3
 eyewater 2
-eutaxite 1
+eutaxite 2
 enshelter 2
 exceeder 4
 equoid
@@ -4333,7 +4333,7 @@ eremacausis 2
 esoenteritis 2
 exotically 6
 embrasure
-enantiomorph 5
+enantiomorph 6
 encratic 3
 eluder
 equinovarus 2
@@ -4658,7 +4658,7 @@ ensuance 4
 economic 5
 englishism 3
 enciphering 4
-enrapture 4
+enrapture 5
 eulogism 2
 engerminate 1
 empaper 1
@@ -5824,7 +5824,7 @@ edwardine 1
 elevenfold 2
 eudaemonistical 1
 elia 3
-esox 2
+esox 3
 engrandize 1
 ebrillade 2
 ectogeneous 1
@@ -6995,7 +6995,7 @@ eglatere 3
 enepidermic 1
 eliquate 2
 excorticated 1
-enheritance
+enheritance 1
 exclamation
 engilded 1
 evidencive 3
@@ -9869,7 +9869,7 @@ ecliptically 1
 editorial 1
 eugenicist 3
 enthronization 3
-esthiomene 3
+esthiomene 4
 extenuatingly 3
 exiles 2
 ectophloic 2
