@@ -2911,7 +2911,7 @@ becrawls 1
 barratrously 4
 barrelage 1
 barreled 1
-barreleyes
+barreleyes 1
 barrelet
 bookend
 batuque 1
@@ -3931,7 +3931,7 @@ bassly 3
 beliquor 4
 balaniferous 1
 bookbindery 1
-birdweed 1
+birdweed 2
 banksia 2
 biassedly 3
 bch 2
@@ -8072,7 +8072,7 @@ bicorned 1
 booby 5
 booklift 3
 bartend 3
-bagroom 1
+bagroom 2
 bicornuate 2
 bicornute
 beshadow 1
@@ -11924,7 +11924,7 @@ bellowers 1
 betutored 3
 bewrought 3
 bloodshedder 2
-basinasial 2
+basinasial 3
 baggily 2
 bogach 1
 becrush 3
@@ -14475,7 +14475,7 @@ brainwave
 brainwood 2
 brairded 1
 bratticed 2
-birdman 1
+birdman 2
 betrayals 1
 breamed 3
 biometrist 1
@@ -17079,7 +17079,7 @@ babylonite
 bullcomber
 bucentaur
 batoidei 2
-barcarole 3
+barcarole 4
 buttery 3
 brokerages 3
 bellonian
@@ -17293,7 +17293,7 @@ barbecuer 2
 benedick 3
 bunts 1
 beatificate
-bottomchrome 1
+bottomchrome 2
 boniest
 bauxite
 bantams
@@ -17408,7 +17408,7 @@ barringtonia 3
 bobbysoxer
 bombyciform 1
 blesbok 1
-britzskas 2
+britzskas 3
 beshield 2
 bunk 1
 bipersonal 1
