@@ -1664,7 +1664,7 @@ bathwort
 ballpark 1
 brasquing
 bandi 1
-bescurf 1
+bescurf 2
 barrowist
 bardesanism 2
 balusters 1
@@ -1968,7 +1968,7 @@ boreus 2
 bandsawn 4
 bandsman 3
 bandstand 1
-beseechment
+beseechment 1
 broadly
 bisection 2
 bagnio 1
@@ -4081,7 +4081,7 @@ blitzkrieged 3
 beams 3
 bean 1
 boldness
-begottenness 1
+begottenness 2
 bedeafen 1
 beaner
 bolewort 1
@@ -8637,7 +8637,7 @@ bowling 3
 blechnum 1
 basigenic 2
 baraza 4
-billon 3
+billon 4
 baronizing
 billow 1
 bimorph 2
@@ -9688,7 +9688,7 @@ boolies 2
 baptised 2
 bisischiatic 2
 bauera 2
-bowings 3
+bowings 4
 bisk 2
 bisks 3
 bysmalith
@@ -15399,7 +15399,7 @@ butterfingers 2
 baseballer 2
 bonnetless 3
 brieve 1
-burgling 2
+burgling 3
 beanier 2
 beslings
 birthstone 1
