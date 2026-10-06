@@ -828,7 +828,7 @@ etamines 1
 ectocarpus 1
 eriophorum 2
 eosinophil 2
-ectocommensal 3
+ectocommensal 4
 ectocondylar 4
 endophytic 1
 ethologies 2
@@ -9375,7 +9375,7 @@ enantiobiosis 3
 extemporiser
 edestin 2
 erythrogenesis
-emblematicize 1
+emblematicize 2
 escapees 1
 erysipelas 1
 extraordinarily 5
@@ -11161,7 +11161,7 @@ episome 1
 extipulate 7
 executing 1
 evacuants 3
-earthdrake 3
+earthdrake 4
 exophagous 4
 etiologically 1
 epaulet 1
@@ -11747,7 +11747,7 @@ entreat 6
 examinable 1
 eglateres 1
 earthfall
-examinant 3
+examinant 4
 eschewer 4
 enscrolled
 examinatory 2
@@ -13064,7 +13064,7 @@ expatriated 2
 exhibiting 2
 ebauchoir 3
 euhemerised
-epiperipheral
+epiperipheral 1
 expediter 3
 emarginula 2
 earn 2
