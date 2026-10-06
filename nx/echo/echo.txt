@@ -919,7 +919,7 @@ equipping
 endowments 2
 endorsements 3
 electrophoretic
-ectropion 4
+ectropion 5
 eluvia 4
 erogenesis 2
 ectrosyndactyly 1
@@ -8237,7 +8237,7 @@ exemplification 4
 epitaxies 2
 epitaxis
 ebonizes
-epidemicity 1
+epidemicity 2
 epigrammatized 2
 enlife
 ecophobia
