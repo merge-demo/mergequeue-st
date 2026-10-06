@@ -1968,7 +1968,7 @@ boreus 2
 bandsawn 4
 bandsman 3
 bandstand 1
-beseechment
+beseechment 1
 broadly
 bisection 2
 bagnio 1
@@ -4081,7 +4081,7 @@ blitzkrieged 3
 beams 3
 bean 1
 boldness
-begottenness 1
+begottenness 2
 bedeafen 1
 beaner
 bolewort 1
