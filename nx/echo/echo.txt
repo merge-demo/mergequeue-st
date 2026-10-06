@@ -558,7 +558,7 @@ emulations 3
 euglenas 3
 echitamine 1
 eccentrical 3
-epigynum 1
+epigynum 2
 excision 1
 esophagoscopy 1
 eurypelma 7
@@ -1464,7 +1464,7 @@ equisetums 2
 enplaning 3
 encompasses 2
 eurythermous 4
-electivism 3
+electivism 4
 electroshocks 4
 exposal 1
 embolium
@@ -1578,7 +1578,7 @@ errite 1
 eurasia
 entires 1
 eucaines 1
-eff 4
+eff 5
 evacuations 1
 erianthus 2
 estopped 1
@@ -11619,7 +11619,7 @@ evonymuses 1
 electroencephalographically 2
 exportations 1
 endocrinous
-end 1
+end 2
 elderbush 1
 evulsions 1
 ewery
