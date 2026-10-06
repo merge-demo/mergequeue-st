@@ -4871,7 +4871,7 @@ carriagesmith 2
 cinchonicin
 carriageway 3
 carryall
-carrick
+carrick 1
 carrycot
 chromatoplasm 1
 carried 1
@@ -5822,7 +5822,7 @@ catechumens
 catechumenship
 codo 1
 catechutannic 1
-conquest
+conquest 1
 coumarate 2
 categorematical 3
 callaloos 1
@@ -9426,7 +9426,7 @@ chevon 2
 commendatory
 cheapest
 credendum
-cheapish 1
+cheapish 2
 cheaply 2
 condom
 cheapness 1
@@ -10674,7 +10674,7 @@ confide
 cholinesterase 1
 chiminage 3
 chimla
-chimleys 1
+chimleys 2
 chain 1
 cynicalness
 cutlass 1
@@ -11199,7 +11199,7 @@ chloranil
 carrying
 carosse 3
 chloranthaceae 2
-chloranthaceous 1
+chloranthaceous 2
 cryptozonia 1
 calvinists
 clinged 4
@@ -11714,7 +11714,7 @@ chomps 2
 contabescent 1
 cuffle
 commissionary 3
-chondral
+chondral 1
 chondrarsenite 1
 cholesteric 2
 chondre 1
@@ -13471,7 +13471,7 @@ companionableness 2
 cygnus
 cigua 1
 cyke
-cyl 2
+cyl 3
 comburivorous
 cilectomy
 cornichon 2
@@ -15512,7 +15512,7 @@ clashing
 clashingly
 cormlike 3
 clasmatocyte
-ccoya 4
+ccoya 5
 clasmatocytic 1
 clasmatosis 1
 cuitle
@@ -22728,7 +22728,7 @@ childbear 3
 conoscenti 2
 conjecture 2
 columnizes 2
-conplane 1
+conplane 2
 counterevidence 2
 cryosphere 3
 conquerer 1
@@ -28829,7 +28829,7 @@ cressets
 coffee 3
 cressiest 2
 cresswort 1
-clerete 3
+clerete 4
 coauthor 1
 crest
 carphophis
