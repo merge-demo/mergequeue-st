@@ -3471,7 +3471,7 @@ foreseason 3
 foreconsider 5
 fallback 5
 fighteress 1
-fatigation 2
+fatigation 3
 fighting 4
 formboard 3
 figo 3
