@@ -126,7 +126,7 @@ brabantine
 basicranial 2
 bedimpled 1
 bedash 3
-boolian 3
+boolian 4
 bacin 2
 bourne 1
 banister 1
@@ -513,7 +513,7 @@ briming 2
 broadway 1
 besiclometer
 blackacre 2
-biogenesis 4
+biogenesis 5
 burbling 2
 backstops 3
 backstrapped 2
@@ -531,7 +531,7 @@ beggingwise 1
 blennioid 3
 backtracking 1
 boryl 1
-bibliolater 2
+bibliolater 3
 backtracks
 backtender 3
 babies 1
@@ -1956,7 +1956,7 @@ bandor 1
 baaskaap 2
 bescribbled
 bifidate 3
-biotechs 3
+biotechs 4
 brevipen
 bandore 2
 balsa 6
@@ -2806,7 +2806,7 @@ betulaceous 1
 blonder 2
 brazee
 barmie 2
-bookends 2
+bookends 3
 bowdlerism 4
 body 1
 barosinusitus 1
@@ -5095,7 +5095,7 @@ befitted 1
 beyship 4
 befittingly 2
 blacklead 3
-bitubercular 3
+bitubercular 4
 baselines 1
 beseeming 2
 backfatter 1
@@ -5347,7 +5347,7 @@ begone 1
 baryte 1
 begonia 1
 begoniales 1
-backslapping 4
+backslapping 5
 ballisticians 1
 billionaires 3
 begorah
@@ -5530,7 +5530,7 @@ bejant 2
 blintz 1
 bejel
 brawly 2
-babist 5
+babist 6
 broth 1
 breeziest 1
 bandsawing 3
@@ -5747,7 +5747,7 @@ barrator
 bechance 1
 belittle 2
 bailees 1
-burnettize
+burnettize 1
 bewailingly 2
 bamboozled
 bonos 1
@@ -9755,7 +9755,7 @@ bodies 1
 biramose
 bankbook
 backslapped 3
-boatie 1
+boatie 2
 byssoid 3
 brachiated
 buckskin 1
@@ -11910,7 +11910,7 @@ bench 1
 blitzing 4
 bethumping 1
 brulyies 1
-boerhavia 3
+boerhavia 4
 becrown 2
 boethian 3
 boffins 3
@@ -12763,7 +12763,7 @@ bidree 2
 becloaked 2
 bioelectric 3
 bullneck 1
-bitstocks
+bitstocks 1
 biparous
 boce
 bimbil 1
