@@ -558,7 +558,7 @@ emulations 3
 euglenas 3
 echitamine 1
 eccentrical 3
-epigynum 1
+epigynum 2
 excision 1
 esophagoscopy 1
 eurypelma 7
@@ -7701,7 +7701,7 @@ endobiotic 1
 endosomes 2
 emendable 2
 estopping 1
-equips 1
+equips 2
 edelweisses 1
 elytrocele 2
 ethinamate 2
@@ -8019,7 +8019,7 @@ exosporal 1
 empeopled 3
 emerize 2
 embodied 3
-epiphytic
+epiphytic 1
 extensum 2
 empaling
 eaglehawk 2
@@ -11619,7 +11619,7 @@ evonymuses 1
 electroencephalographically 2
 exportations 1
 endocrinous
-end 1
+end 2
 elderbush 1
 evulsions 1
 ewery
