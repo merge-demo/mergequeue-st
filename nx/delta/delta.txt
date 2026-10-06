@@ -5700,7 +5700,7 @@ deconsider 2
 depoh 1
 decd 3
 depolarise 3
-dearies
+dearies 1
 dehumidify
 disrobers
 depolarization 1
