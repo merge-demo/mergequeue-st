@@ -380,7 +380,7 @@ daimyo
 dawdlers 4
 dihydrated 2
 denaturalisation 1
-dreadness 4
+dreadness 5
 dadap
 daimyos 2
 drinkers 2
@@ -6345,12 +6345,12 @@ ducula
 demurrable 3
 dietary 3
 doegling 1
-doctrinized
+doctrinized 1
 derned 1
 dysidrosis 2
 dosinia 3
 destoolment 4
-dustmen 1
+dustmen 2
 diplotene
 disassociation 1
 dorsiventral 1
@@ -15565,7 +15565,7 @@ deconcatenate 1
 determinedly 1
 dool 1
 duumviri 2
-deicide
+deicide 1
 doolfu 2
 dooly 1
 doomed 1
