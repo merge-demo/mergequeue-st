@@ -4874,7 +4874,7 @@ archlute 3
 antemeridian 1
 aeroboat 2
 alacrify
-allegory
+allegory 1
 aerobranchia
 alditol
 anglic 1
@@ -11115,7 +11115,7 @@ amounters 3
 amouli 2
 aeroplaner
 anathematiser 2
-apogeic 1
+apogeic 2
 amovable 1
 acronarcotic
 abatic 3
@@ -17643,7 +17643,7 @@ autographist
 albizia 2
 ancestrally 1
 anticontagion
-adsorbents 2
+adsorbents 3
 amphipleura 2
 appetitious 5
 anopsia 1
@@ -19085,7 +19085,7 @@ allegoric
 arabine
 abderian 2
 antivenine 2
-alit 1
+alit 2
 ascophorous 1
 aristocraticness 2
 allocute 2
