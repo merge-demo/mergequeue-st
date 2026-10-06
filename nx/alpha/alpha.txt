@@ -871,7 +871,7 @@ artinesses 3
 acesodyne 1
 alnitak
 athrogenic
-absconce 2
+absconce 3
 abscond 2
 absconded 1
 amnesiac 2
@@ -9112,7 +9112,7 @@ anticatalase
 antiblock 2
 anticommunistical
 antivaccinist 2
-alludes
+alludes 1
 angustiseptate
 afterdecks
 allumette
@@ -13837,7 +13837,7 @@ anagallis 1
 africanism 3
 antonovics 2
 amidoacetic 1
-averred 1
+averred 2
 anorectous 2
 athrill
 anorexy 1
@@ -18902,7 +18902,7 @@ automatons 2
 actification
 abridge
 archigastrula
-archigonic
+archigonic 1
 autotomising 2
 addoom 2
 aphelian
