@@ -2953,7 +2953,7 @@ deductible 1
 deciduata 1
 depositional 1
 describers 2
-decemfid 2
+decemfid 3
 decident 1
 deductio 2
 deductions 3
@@ -4586,7 +4586,7 @@ demirilievo 2
 deflea
 demonastery 3
 donn 1
-dinic 4
+dinic 5
 demisang
 dulcite 1
 diselenid 3
@@ -12432,7 +12432,7 @@ drissel 1
 dragbolt 4
 disoccupying 2
 dishwatery
-disportive
+disportive 1
 disidentify 1
 dentally 2
 deracinate 3
@@ -15650,7 +15650,7 @@ distemperance
 dopey 1
 decrements 2
 doper 1
-disbarring
+disbarring 1
 dopier 2
 dogstone 3
 desi 3
@@ -16013,7 +16013,7 @@ disturn
 diapedesis 1
 diaphototropic
 decorrugative
-doublespeak 1
+doublespeak 2
 deamidization 1
 digitiform 2
 dumped 2
