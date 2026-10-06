@@ -3822,7 +3822,7 @@ chorioid
 cacochymical
 carbohydride 2
 carbohydrogen
-carboy 4
+carboy 5
 celestes
 carboys 1
 cyathoid 2
@@ -10961,7 +10961,7 @@ cryostase
 chalcioecus
 chironym
 caecum 1
-chironomid
+chironomid 1
 chastised
 chaparajos 1
 coinhabit 1
@@ -11912,7 +11912,7 @@ chordotomy 2
 cameist
 curwhibble 1
 chore 1
-caviare 1
+caviare 2
 chorea 1
 choreal
 cyclop
@@ -14799,7 +14799,7 @@ caluptra
 cytoclastic 1
 crioboly
 cytococci
-choroidal 1
+choroidal 2
 cytoderm 2
 cytodiagnosis
 cytoecology
@@ -17376,7 +17376,7 @@ cretinized
 coatis
 coatless 1
 coatrack
-coatroom
+coatroom 1
 combinability 3
 coatrooms 3
 coattend 2
@@ -24216,7 +24216,7 @@ communalising 1
 convives 2
 convivially
 chylocauly 3
-chronologically
+chronologically 1
 choristic 2
 convocational 1
 convocationist
