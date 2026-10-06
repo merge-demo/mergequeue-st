@@ -6723,7 +6723,7 @@ fighters 7
 feast 1
 fellowships 3
 forelegs 3
-fogon 2
+fogon 3
 fogproof 3
 forstand 4
 fellator 6
@@ -7363,7 +7363,7 @@ flimsiest 2
 filles 6
 forbad 3
 faeces 2
-fat 3
+fat 4
 forbborne 4
 freshen 1
 forby 4
