@@ -5890,7 +5890,7 @@ drew 2
 depressurize 2
 deaconate 3
 decelerometer 3
-disentraced 2
+disentraced 3
 dere 1
 defeatee 1
 depreter
@@ -9694,7 +9694,7 @@ deters 1
 desiderate 1
 dilatants
 dilatate
-dicalcic
+dicalcic 1
 decremented 2
 discutient 1
 dodecahedron 1
@@ -12364,7 +12364,7 @@ dicynodon 1
 diplophyte 4
 dominate 2
 dishelms 1
-disher 1
+disher 2
 durability
 disturbers
 disherited 2
