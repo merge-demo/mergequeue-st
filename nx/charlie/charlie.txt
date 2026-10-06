@@ -28500,7 +28500,7 @@ creatureling 1
 creatures 1
 coruscant 1
 carapo
-creatureship 1
+creatureship 2
 conversibility
 creaturize
 churchanity 1
