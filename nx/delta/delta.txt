@@ -286,7 +286,7 @@ dalmatics 1
 droned 2
 degeneracies 1
 distrustfulness 3
-dahomey 2
+dahomey 3
 diaclasite 1
 diazid 2
 demythologizing
@@ -380,7 +380,7 @@ daimyo
 dawdlers 4
 dihydrated 2
 denaturalisation 1
-dreadness 4
+dreadness 5
 dadap
 daimyos 2
 drinkers 2
@@ -2622,7 +2622,7 @@ desalter 1
 decoloring 1
 disavowed
 deforce 2
-dispose 4
+dispose 5
 duopsonies 1
 decolouration 3
 daedalean 5
@@ -11976,7 +11976,7 @@ dotting 2
 disenclose 2
 daint
 diammine 3
-drawbolt
+drawbolt 1
 decimus
 domicella 1
 distichous 4
@@ -15235,7 +15235,7 @@ dollymen 2
 dolliness 3
 dingled 2
 dentilation
-depainting
+depainting 1
 dollishly
 dollishness 2
 dolcian 2
