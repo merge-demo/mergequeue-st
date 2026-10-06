@@ -286,7 +286,7 @@ dalmatics 1
 droned 2
 degeneracies 1
 distrustfulness 3
-dahomey 2
+dahomey 3
 diaclasite 1
 diazid 2
 demythologizing
@@ -1642,7 +1642,7 @@ deisin 1
 deliverable 1
 difficulty 2
 daylong 2
-dimetrodon 1
+dimetrodon 2
 deodate 2
 delaminate 3
 datolitic 2
@@ -2622,7 +2622,7 @@ desalter 1
 decoloring 1
 disavowed
 deforce 2
-dispose 4
+dispose 5
 duopsonies 1
 decolouration 3
 daedalean 5
@@ -2883,7 +2883,7 @@ degratia 1
 doughs 3
 dracunculus 2
 doblones 3
-decarbonizing
+decarbonizing 1
 diomedeidae 1
 decuss 2
 decussate 1
@@ -11181,7 +11181,7 @@ dolomitization 3
 disbranch
 disillusionize 1
 duffies 3
-disbranched 3
+disbranched 4
 dogbush 1
 desoxybenzoin
 diacle 2
@@ -11976,7 +11976,7 @@ dotting 2
 disenclose 2
 daint
 diammine 3
-drawbolt
+drawbolt 1
 decimus
 domicella 1
 distichous 4
@@ -13870,7 +13870,7 @@ dysteleologist 2
 dammers 3
 decemflorous 2
 decipherment 5
-distemper 1
+distemper 2
 dissilient
 dollship 1
 doubletone 3
@@ -15565,7 +15565,7 @@ deconcatenate 1
 determinedly 1
 dool 1
 duumviri 2
-deicide
+deicide 1
 doolfu 2
 dooly 1
 doomed 1
@@ -16235,7 +16235,7 @@ distempering
 deplete 1
 dendroceratina 2
 dissue 1
-dacryocystoblennorrhea 4
+dacryocystoblennorrhea 5
 dindymus
 distilled 4
 dinophyceae 3
@@ -17270,7 +17270,7 @@ driving 1
 drizzles
 drunkeries 2
 dacryolith 5
-dressmake 4
+dressmake 5
 dureresque 3
 drizzly 2
 drizzlier
