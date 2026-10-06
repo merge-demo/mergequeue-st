@@ -3471,7 +3471,7 @@ foreseason 3
 foreconsider 5
 fallback 5
 fighteress 1
-fatigation 2
+fatigation 3
 fighting 4
 formboard 3
 figo 3
@@ -5349,7 +5349,7 @@ finiking 4
 fuddler
 fleams 1
 fittier 3
-fraughting 4
+fraughting 5
 foggily 5
 feedbin 2
 fettles 3
@@ -6680,7 +6680,7 @@ faqirs 3
 feted 3
 flyblow 2
 flores 5
-fogdogs 4
+fogdogs 5
 fortnightly 3
 frippery 4
 fairways 2
@@ -8926,7 +8926,7 @@ feudalism 4
 fussed
 flatteners 3
 fouled 4
-fancywork 2
+fancywork 3
 fling 2
 fatiloquent 3
 ferie 5
