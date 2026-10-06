@@ -178,7 +178,7 @@ baccara 1
 baroques 2
 bipartition 2
 byes 2
-buddleman
+buddleman 1
 bacchanals 1
 blennymenitis 2
 bhadon 2
@@ -2328,7 +2328,7 @@ barber 1
 bordrag 1
 businessese 2
 bizet 1
-botryomyces 4
+botryomyces 5
 bands
 betokened 4
 budgerygah
@@ -3076,7 +3076,7 @@ bestials 3
 benzantialdoxime
 brahman 1
 bacterization 2
-barwal
+barwal 1
 bannack 2
 blague
 bertholletia 1
@@ -8154,7 +8154,7 @@ bidri 2
 barmaids 3
 basidigitale 3
 bieberite 2
-brocked 2
+brocked 3
 bespreading 1
 blossomed 2
 bloodroot 1
@@ -9841,7 +9841,7 @@ bawd 1
 bougainvillaeas 2
 burgherhood 2
 biteche 3
-barbicans 3
+barbicans 4
 bowdlerization
 barrels 1
 balawa 6
@@ -10162,7 +10162,7 @@ blanketflower 1
 barysilite 2
 blackcod 1
 bathochrome 2
-blues 2
+blues 3
 blackdamp 1
 bellhanger 1
 billette 4
@@ -12343,7 +12343,7 @@ beeregar
 bombernickel 2
 brandle 2
 bantered
-bombycine 4
+bombycine 5
 bagpiper 1
 blacky 1
 bombilation 4
@@ -12406,7 +12406,7 @@ bonapartism 4
 bigotries 1
 brothy 2
 betterly 1
-barbarians 1
+barbarians 2
 bassariscus 4
 buckram 1
 befingering
@@ -14475,7 +14475,7 @@ brainwave
 brainwood 2
 brairded 1
 bratticed 2
-birdman 1
+birdman 2
 betrayals 1
 breamed 3
 biometrist 1
@@ -17408,7 +17408,7 @@ barringtonia 3
 bobbysoxer
 bombyciform 1
 blesbok 1
-britzskas 2
+britzskas 3
 beshield 2
 bunk 1
 bipersonal 1
@@ -18125,7 +18125,7 @@ ballyrag 2
 bistouries 1
 birchism 2
 butcheress 3
-butchery 5
+butchery 6
 betulinamaric 2
 biogas 3
 bedfordshire 3
@@ -18201,7 +18201,7 @@ butoxy 2
 bodyguards 2
 bulks 2
 bohereen 3
-backdated
+backdated 1
 bibliothecary 1
 bremely 3
 busycon
