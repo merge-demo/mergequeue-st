@@ -1607,7 +1607,7 @@ egresses 2
 exequial 1
 extraphysiological 3
 eclegma 4
-expounded 2
+expounded 3
 escape 1
 egret 2
 exsanguine
@@ -2137,7 +2137,7 @@ enrib 2
 effloresces 3
 extrapolar 1
 explanative 2
-externalism 4
+externalism 5
 euryclea 3
 evangelizer 1
 extrastapedial 1
@@ -10842,7 +10842,7 @@ eupatorium 1
 ethnobiology 1
 eupatrids 1
 eluent 2
-exemplars
+exemplars 1
 enoptromancy 2
 engine 1
 electrocuting 3
@@ -10871,7 +10871,7 @@ eructation 2
 ereption 5
 euphemian 3
 electrolyzed 3
-enlivenments 2
+enlivenments 3
 emborders 2
 eucolite 3
 econometrics 3
