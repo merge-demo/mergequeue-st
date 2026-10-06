@@ -3547,7 +3547,7 @@ captain 1
 captaincy 1
 captaincies 1
 caprioled
-captainry
+captainry 1
 captainship 1
 counterpetition 1
 communistically 2
@@ -5688,7 +5688,7 @@ cataractwise 1
 catarrhal 1
 col
 catarrhina 2
-charlie
+charlie 1
 catarrhous
 catarrhs 3
 coburgher
@@ -6596,7 +6596,7 @@ cryogenically 1
 ceases 1
 ceasing 2
 conferment 1
-cebalrai 1
+cebalrai 2
 culteranismo 1
 cebell 1
 crystallite 2
@@ -8832,7 +8832,7 @@ chanted 2
 clodbreaker
 cuniform
 cumarone 2
-cowards 1
+cowards 2
 characterism
 cueing 3
 ceanothus 1
@@ -12861,7 +12861,7 @@ championess 2
 correo 1
 churchgoers 1
 calorifacient 3
-churchy
+churchy 1
 churchianity 1
 churchyard 1
 churchyards
@@ -17979,7 +17979,7 @@ crossest 1
 czechic
 carcinology
 chipboard 2
-coelococcus 1
+coelococcus 2
 charioteers 1
 comet
 claymores 1
