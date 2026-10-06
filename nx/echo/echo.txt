@@ -9,7 +9,7 @@ electrochronograph
 engirding
 erigeron 1
 evaporometer 5
-euchologion 1
+euchologion 2
 emigate 3
 erosivity 3
 evenmindedness 3
@@ -263,7 +263,7 @@ expiries 2
 easterling 1
 exhumers 1
 epigoneion 2
-enqueue 1
+enqueue 2
 enantioblastic 4
 endognath 2
 ectocuniform 2
@@ -287,7 +287,7 @@ eightsome
 echos 4
 exhumation 4
 epilepsies 2
-elrage 2
+elrage 3
 eelware 1
 encamps 4
 epitheliums 2
@@ -2315,7 +2315,7 @@ electroanesthesia 3
 electroballistics 3
 emetatrophia 1
 electrobath 2
-emplacements 4
+emplacements 5
 ethnologically 2
 escoted 1
 epicenity 4
@@ -2696,7 +2696,7 @@ endomycetaceae 3
 erdvark 1
 electiveness 3
 enchodontid 3
-exogastritis 1
+exogastritis 2
 entosphenoid 1
 electrotypy 2
 enolase 1
@@ -2779,7 +2779,7 @@ essang 2
 exorcize 3
 encoronate 1
 eluded 3
-embelic 1
+embelic 2
 evasive 2
 exclamations 1
 enjeopard
@@ -3170,7 +3170,7 @@ epiphanous 3
 edict
 extortionists
 epiplastral
-exhaustiveness 5
+exhaustiveness 6
 eom 2
 epitra 3
 emmarble 3
@@ -4670,7 +4670,7 @@ estre
 emplaced 2
 exponentiating
 encircle 4
-embrowned 2
+embrowned 3
 ensnow 1
 emittent 3
 elocutive 3
@@ -5007,7 +5007,7 @@ escritoires 1
 excipula 1
 extensionally 1
 echoes
-eldorado 3
+eldorado 4
 empathizing
 epitheliotoxin 3
 eleutheria 1
@@ -5084,7 +5084,7 @@ emergencies
 entogenous 2
 enteroptotic
 elementals 3
-eisell 1
+eisell 2
 exilic 3
 elegibility 1
 eigh 1
@@ -5226,7 +5226,7 @@ embolon
 editors 3
 endopodite 2
 exagitation 3
-eskimoid
+eskimoid 1
 exarteritis 1
 elapsoidea 2
 earthshakingly 2
@@ -6656,7 +6656,7 @@ enterprise 1
 exploitations 1
 elongations
 enterprize 2
-expertising 2
+expertising 3
 entosclerite 8
 eulogiser 1
 equitation 1
@@ -7222,7 +7222,7 @@ eosinic 2
 ergatogynous 1
 enolizable 2
 endothorax 1
-eosinoblast
+eosinoblast 1
 ennage 2
 eosinophile 1
 emptyhearted 3
@@ -7848,7 +7848,7 @@ emancipist 3
 epispinal 1
 enchantresses
 elephancy 1
-extortionateness 4
+extortionateness 5
 ecotones 2
 earthenhearted 3
 ejectum 1
@@ -8002,7 +8002,7 @@ expansiveness 1
 estats 1
 expiator 2
 ethane 3
-embarred 7
+embarred 8
 epigrammatizer 3
 earnests 3
 epiphegus 4
@@ -8744,7 +8744,7 @@ enticement 2
 eradicant 1
 epineolithic 1
 enround 3
-electrodepositable 4
+electrodepositable 5
 elegist 4
 erections
 epituberculosis 1
@@ -9714,7 +9714,7 @@ eucommiaceae
 epimorphic
 estrade
 esselenian 2
-emotionable 1
+emotionable 2
 eomecon
 eastlings 8
 entotrophi 3
@@ -9982,7 +9982,7 @@ explicatory 3
 emperies 1
 externality 2
 epichile 2
-editor 1
+editor 2
 enlightenments 4
 enteropexy
 efford 3
@@ -10333,7 +10333,7 @@ estradas 3
 externation 2
 electroplaque 2
 ethnographer 4
-euornithic 1
+euornithic 2
 ethnohistoric 1
 equinox 4
 elephantine 2
@@ -12288,7 +12288,7 @@ ensued 2
 eds 3
 emarginating 3
 ensignry 3
-evilwishing 3
+evilwishing 4
 entrochus 1
 efflorescency 4
 els 3
