@@ -2571,7 +2571,7 @@ blens
 bactrian
 barile 1
 barilla 1
-beleaf 1
+beleaf 2
 barters 4
 bathofloric 2
 baryon 3
@@ -3002,7 +3002,7 @@ bioassay 1
 blarneyer 1
 barstools 1
 bromoketone
-brotherless 4
+brotherless 5
 brahma
 blackjacks
 bartended
@@ -6880,7 +6880,7 @@ beseems 2
 beseen 1
 burglariously
 bullfrogs 2
-bajan 2
+bajan 3
 burgundian 2
 bepray
 bazaar
@@ -8031,7 +8031,7 @@ bickerer 1
 bailsman 4
 bakehouses 4
 breathalyse 1
-blastomere 1
+blastomere 2
 breathiest 1
 bumping 1
 bleakish 1
@@ -10332,7 +10332,7 @@ blueback 1
 burrknot
 bloodlines 3
 blagueur 2
-blains 3
+blains 4
 bestialize 2
 boiler
 bestialities 2
