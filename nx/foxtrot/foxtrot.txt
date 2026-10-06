@@ -313,7 +313,7 @@ feods 3
 forces 5
 fail 3
 fireplough 4
-faineancy 5
+faineancy 6
 fayles
 fimbricated 5
 furcal 4
@@ -4102,7 +4102,7 @@ featherbrain 2
 fattable 3
 flocculous 1
 formal 1
-forgery
+forgery 1
 fatalness 1
 fissipedal 4
 ferth 2
@@ -4264,7 +4264,7 @@ fictionisation 6
 freehandedly 1
 fingerling 6
 fawnskin 2
-freudism 3
+freudism 4
 fatiguability 1
 fulsomely 2
 ferdwit 5
@@ -6043,7 +6043,7 @@ fluoresce 4
 fustic 1
 fleam 3
 finking 3
-flisk 2
+flisk 3
 fractal
 fluviology 2
 fibromas 1
@@ -6584,7 +6584,7 @@ friary 9
 flunkeyism 2
 feltness 1
 frounce 1
-foamflower
+foamflower 1
 firework 3
 floriculturally 1
 fullness 2
@@ -6714,7 +6714,7 @@ frontrunner 2
 frustrations 4
 folksily 2
 fifth 3
-flame 2
+flame 3
 felted 1
 frounced 3
 fogo 6
@@ -8905,7 +8905,7 @@ fictious
 freeholder 1
 folia 2
 fleuron 2
-fraughtage 3
+fraughtage 4
 fibrinoplastic 3
 fotmal 3
 folkvang 1
@@ -10218,7 +10218,7 @@ flint 2
 frangibleness 3
 feebly
 facingly 1
-farce 3
+farce 4
 foxchop
 fetologies 3
 furdel 1
@@ -11088,7 +11088,7 @@ foster 2
 fogbow 4
 fezzy
 frameae 3
-fellsman 3
+fellsman 4
 flaminica 3
 fractionated 3
 forficated 2
@@ -11601,7 +11601,7 @@ fussbudgety 8
 fevers 2
 filtrates 4
 forkhead 1
-fussers 5
+fussers 6
 faradic 3
 fargite 2
 fontinal 5
@@ -11662,7 +11662,7 @@ foretalking
 forcingly 4
 farasula 2
 fut 3
-futhorc 4
+futhorc 5
 fillowite 1
 forepale 3
 foxskins 1
