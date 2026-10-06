@@ -4947,7 +4947,7 @@ beneficial 2
 badchan
 bouncing 1
 bitriseptate 1
-braggite
+braggite 1
 boatel 1
 bandy 2
 beek 3
@@ -5107,7 +5107,7 @@ befittingness 3
 behoof 1
 boundedness 3
 beflag
-bamboo 4
+bamboo 5
 binits
 basilicon 3
 beflagged 2
@@ -8825,7 +8825,7 @@ beworm 2
 bubonic 4
 boarstaff
 buffaloed 3
-bowering
+bowering 1
 brilliants
 binny 1
 bumpered 1
@@ -8862,7 +8862,7 @@ bractlets 4
 bikinied 1
 bombycids 3
 boxtops 2
-bedchamber 3
+bedchamber 4
 bleating 2
 bible 3
 binotonous
@@ -12480,7 +12480,7 @@ bondsman
 blueys 1
 braeman 1
 bromgelatin 1
-bulbose 1
+bulbose 2
 bondsmen
 bonify 2
 bourgeoisify
@@ -14917,7 +14917,7 @@ butlerage 2
 breaking 1
 barkeep 5
 breakings 2
-bovicide 2
+bovicide 3
 breaklist 2
 blandishes 2
 buttercup 1
@@ -16599,7 +16599,7 @@ bullshitting 2
 brawny 1
 bubbletop 1
 banderoled 5
-brisky 1
+brisky 2
 banaba 1
 bugfish
 bullionist 1
