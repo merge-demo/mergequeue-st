@@ -919,7 +919,7 @@ equipping
 endowments 2
 endorsements 3
 electrophoretic
-ectropion 4
+ectropion 5
 eluvia 4
 erogenesis 2
 ectrosyndactyly 1
@@ -3165,7 +3165,7 @@ epigonousepigons 1
 entheasm 1
 ebriated 3
 euphenics 2
-elongation
+elongation 1
 epiphanous 3
 edict
 extortionists
@@ -6594,7 +6594,7 @@ erythroneocytosis 2
 embryoctonic 1
 existlessness 2
 eched 3
-eyeing 1
+eyeing 2
 exoderms 2
 enthralled
 entomophagan 2
@@ -6742,7 +6742,7 @@ extinguishing
 exasperate 1
 embryoniform 2
 excurvation 2
-entitle 1
+entitle 2
 elixed 2
 evangelistarion 1
 eggheads 3
@@ -7085,7 +7085,7 @@ eild 5
 exclusions 2
 estanciero 3
 eudaemonism 2
-endocolitis 2
+endocolitis 3
 enneagonal 3
 engrossed 2
 epigastria 2
@@ -11758,7 +11758,7 @@ examinatorial 3
 extrusory 1
 echopraxia 2
 ethoxyls 4
-explanations
+explanations 1
 envision 3
 eveque 1
 episcopise 2

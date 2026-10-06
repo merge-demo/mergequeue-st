@@ -3547,7 +3547,7 @@ captain 1
 captaincy 1
 captaincies 1
 caprioled
-captainry
+captainry 1
 captainship 1
 counterpetition 1
 communistically 2
@@ -6596,7 +6596,7 @@ cryogenically 1
 ceases 1
 ceasing 2
 conferment 1
-cebalrai 1
+cebalrai 2
 culteranismo 1
 cebell 1
 crystallite 2
@@ -10600,7 +10600,7 @@ chilogrammo 1
 cubic 1
 contract
 corybantic 1
-cosmopolis 1
+cosmopolis 2
 campanology 3
 colleterium 2
 chilomastix
