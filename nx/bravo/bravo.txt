@@ -494,7 +494,7 @@ bioplast 1
 broking 3
 blady 3
 balaenoidea 1
-backslapper 1
+backslapper 2
 bituminiferous
 batteries 2
 breakax 1
@@ -1968,7 +1968,7 @@ boreus 2
 bandsawn 4
 bandsman 3
 bandstand 1
-beseechment
+beseechment 1
 broadly
 bisection 2
 bagnio 1
@@ -4081,7 +4081,7 @@ blitzkrieged 3
 beams 3
 bean 1
 boldness
-begottenness 1
+begottenness 2
 bedeafen 1
 beaner
 bolewort 1
@@ -4366,7 +4366,7 @@ burbark
 blackhearted
 benzotrifuran 2
 bilingualism 3
-becircled 3
+becircled 4
 botfly 2
 bewitchery
 beck 2
@@ -8637,7 +8637,7 @@ bowling 3
 blechnum 1
 basigenic 2
 baraza 4
-billon 3
+billon 4
 baronizing
 billow 1
 bimorph 2
@@ -12580,7 +12580,7 @@ bardane 3
 bonk
 boterol 3
 begrudging
-brackets 4
+brackets 5
 bagpiping
 bonne 1
 bescreens 3
@@ -15399,7 +15399,7 @@ butterfingers 2
 baseballer 2
 bonnetless 3
 brieve 1
-burgling 2
+burgling 3
 beanier 2
 beslings
 birthstone 1
