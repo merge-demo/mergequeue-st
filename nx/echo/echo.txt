@@ -919,7 +919,7 @@ equipping
 endowments 2
 endorsements 3
 electrophoretic
-ectropion 4
+ectropion 5
 eluvia 4
 erogenesis 2
 ectrosyndactyly 1
@@ -3572,7 +3572,7 @@ embossage 1
 embossed 1
 embossing 5
 emulsifications 1
-embossman 2
+embossman 3
 esophagoplegia 3
 enchantery 1
 emanent 1
@@ -3886,7 +3886,7 @@ ethnomusicologically 3
 extraboldface 1
 eminencies 4
 evendown 4
-exterminating
+exterminating 1
 eminent 2
 endorsor 3
 easternized 2
@@ -6742,7 +6742,7 @@ extinguishing
 exasperate 1
 embryoniform 2
 excurvation 2
-entitle 1
+entitle 2
 elixed 2
 evangelistarion 1
 eggheads 3
@@ -8005,7 +8005,7 @@ ethane 3
 embarred 7
 epigrammatizer 3
 earnests 3
-epiphegus 3
+epiphegus 4
 enwombed 6
 emgalla
 eteocles 3
@@ -8237,7 +8237,7 @@ exemplification 4
 epitaxies 2
 epitaxis
 ebonizes
-epidemicity 1
+epidemicity 2
 epigrammatized 2
 enlife
 ecophobia
@@ -9742,7 +9742,7 @@ expressure 1
 essency 5
 essentially 2
 exigencies 2
-expeditation 3
+expeditation 4
 eightballs
 earthquave 2
 eumelanin 2
@@ -9766,7 +9766,7 @@ extracellular 1
 essorant
 echiuroidea 1
 endarterial 4
-engrave 1
+engrave 2
 encouragements 2
 expenthesis 4
 echium 2
@@ -11360,7 +11360,7 @@ eunuch
 eugenics 2
 eolienne 4
 eveless 2
-estrildine 2
+estrildine 3
 eth 1
 eveline 2
 epitrochlear 3
@@ -13511,7 +13511,7 @@ ergophobic 2
 exquire 5
 exsolution 4
 erbia 1
-epithalamium 2
+epithalamium 3
 ethnomusicology 3
 enterparlance 2
 european

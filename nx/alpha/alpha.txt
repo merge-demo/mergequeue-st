@@ -2464,7 +2464,7 @@ acipenseroidei 3
 airplay
 archpapist 1
 asmile 2
-adfix 3
+adfix 4
 analysts 2
 antilipase 1
 aphrite 1
@@ -4171,7 +4171,7 @@ autobus 1
 antiphlogistin 1
 acylamino 1
 adnephrine
-anthracene 1
+anthracene 2
 atabal 1
 annuent 1
 apparatchiks 1
@@ -6073,7 +6073,7 @@ anatomists 2
 agrionidae 2
 agility 1
 antemortal 4
-attorneyship
+attorneyship 1
 abecedaire
 acyesis 2
 aging
@@ -7616,7 +7616,7 @@ alcalizate
 alcanna 1
 acardiac 3
 ascophyllum 2
-anastomos 1
+anastomos 2
 astragal 1
 alcazaba 1
 apophonic
@@ -9697,7 +9697,7 @@ alumohydrocalcite 3
 aruspice 1
 alundum
 artiphyllous 3
-appendices
+appendices 1
 arcadic 2
 abulyeit 1
 amnionia 1
@@ -18055,7 +18055,7 @@ adsorptive
 alcoholics 2
 aeonic 1
 adlet
-arrenotokous 2
+arrenotokous 3
 areolate 1
 apterial
 apterygidae 2
@@ -19704,7 +19704,7 @@ aristophanic
 arteriorrhexis
 actinocutitis 1
 antimartyr
-aristotelean
+aristotelean 1
 aristotelianism
 acicula 1
 aristotype
@@ -20692,7 +20692,7 @@ anthesteriac 1
 articulare 2
 allelomorph
 appertains 2
-associate 1
+associate 2
 alder 1
 anglophobe
 anteroclusion
@@ -21338,7 +21338,7 @@ achromophilous
 antimitotic 2
 asymtote 2
 aggrievement 2
-anosognosia
+anosognosia 1
 asymtotic 1
 antichristianity 3
 angeyok
@@ -22515,7 +22515,7 @@ alw
 arranging 2
 atamosco 3
 azafrin 2
-atar 2
+atar 3
 atrociousness 2
 aggros 3
 autodidactically 2
@@ -24331,7 +24331,7 @@ antiparalytical 1
 autoproteolysis
 azophenylene
 argillomagnesian 2
-autopsical 1
+autopsical 2
 adsessor 2
 autopsychoanalysis
 autopsychosis
@@ -24728,7 +24728,7 @@ aveugle
 avg 3
 assenting 2
 avians 1
-abreactions 2
+abreactions 3
 arctitude
 aviaries 1
 anahita 2
