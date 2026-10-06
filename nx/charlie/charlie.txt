@@ -16708,7 +16708,7 @@ clothespins
 centroplasm
 clothespresses 2
 cire 3
-clothiers 1
+clothiers 2
 clothings 2
 catharpin
 crimpling
@@ -23976,7 +23976,7 @@ cagey 1
 clyfaking 1
 chukkars
 convective
-costoscapular
+costoscapular 1
 clods
 chromatograph 2
 counterpoises 1
