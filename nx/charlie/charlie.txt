@@ -16844,7 +16844,7 @@ clubfisted
 cenotaph 1
 clubfoot 2
 clubfooted 1
-clubhand
+clubhand 1
 crouching 3
 clubhands 1
 cerebralgia 2
