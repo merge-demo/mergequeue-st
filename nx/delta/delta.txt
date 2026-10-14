@@ -15955,7 +15955,7 @@ dune 4
 dea 3
 dipt 1
 dissocial
-dialogize
+dialogize 1
 dasein 1
 devalue 2
 dukhn 1
