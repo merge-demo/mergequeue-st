@@ -10602,7 +10602,7 @@ contract
 corybantic 1
 cosmopolis 2
 campanology 3
-colleterium 2
+colleterium 3
 chilomastix
 chylomicron
 chylopericardium
@@ -27988,7 +27988,7 @@ craftwork
 cottoner 2
 craftworker 2
 crag 2
-craggy 1
+craggy 2
 chromoscopic
 cataphylla
 craglike 1
