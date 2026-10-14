@@ -3368,7 +3368,7 @@ fieldleft 4
 faxes 1
 ferrean
 fanioned 2
-folily 2
+folily 3
 feeless 3
 foreyards 2
 fastigate 1
@@ -4088,7 +4088,7 @@ fylgjur
 foolship 3
 finnicize 3
 foresightedness 3
-fluctisonant
+fluctisonant 1
 fenestellid 2
 fartherer 2
 felicitously 3
@@ -4239,7 +4239,7 @@ faxed
 fireplug 3
 firepot 1
 foreflank 2
-forebooms 1
+forebooms 2
 flots 3
 frangipanni 1
 floridians 2
