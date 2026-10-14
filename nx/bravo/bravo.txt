@@ -7168,7 +7168,7 @@ bacteriemia
 bernicles 1
 bestay 4
 buffoon 2
-bestamp
+bestamp 1
 bestand 2
 bestatued 1
 burrito 3
@@ -8058,7 +8058,7 @@ brawned 2
 ballerine 2
 browband 3
 bicorn 2
-bourrelet 2
+bourrelet 3
 boletes 1
 blanque 2
 boatman 3
@@ -9879,7 +9879,7 @@ bromals 1
 bityite
 botcher 1
 burnsian 2
-banderols
+banderols 1
 bitmap 1
 buccaneering
 bimbos
@@ -10539,7 +10539,7 @@ bashlik 4
 blastoporal 1
 blastosphere 1
 balanus 1
-bromal
+bromal 1
 buttonhold 1
 belligerent 2
 braise
