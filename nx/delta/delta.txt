@@ -1802,7 +1802,7 @@ dilemma 3
 debark 1
 detaining 3
 dropseed 2
-drawknife 1
+drawknife 2
 debarking 4
 digamist 2
 dishpanful 1
