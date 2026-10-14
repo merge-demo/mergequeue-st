@@ -3041,7 +3041,7 @@ deers 3
 deerstalkers
 detailist
 deerstalking
-deerweed 2
+deerweed 3
 dollyway 4
 detest
 deescalate 1
@@ -3755,7 +3755,7 @@ desmine
 disimbitter 3
 deia 2
 deadpanner
-dyostyle 1
+dyostyle 2
 dor 2
 dwale
 darwin 1
@@ -6198,7 +6198,7 @@ dawed
 derma 1
 damascened 3
 dimiss
-digametic 2
+digametic 3
 dermabrasion
 dithyramb
 drabness 3
@@ -8711,7 +8711,7 @@ demonstrate 2
 decorousness
 demoting 1
 diathermies 2
-dendrophil
+dendrophil 1
 dispensatrix 1
 demisacrilege 2
 dirl
@@ -14871,7 +14871,7 @@ dolorifuge
 dependencies 2
 dawdled
 decorously 1
-dodder
+dodder 1
 differingly 2
 dormancy 1
 dago
