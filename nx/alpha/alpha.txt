@@ -6812,7 +6812,7 @@ antibias
 axometer 3
 archsacrificer 2
 arid 4
-altars
+altars 1
 aircraftmen
 allotriomorphic
 aircraftsman 1
@@ -18724,7 +18724,7 @@ amnia 3
 archconfraternity 2
 agalite 2
 anticonventionally
-archcritic 2
+archcritic 3
 amblyopia 1
 argonautic 1
 appmt 2
@@ -20485,7 +20485,7 @@ asterospondylous 5
 athbash
 arteriocapillary
 arteriogenesis 1
-arbitrer 2
+arbitrer 3
 arteriograph 1
 airsome 2
 adenectopia 2
@@ -23386,7 +23386,7 @@ atropins 3
 adoxaceous 1
 audads 2
 audian 2
-aghanee 3
+aghanee 4
 asyla 2
 audibles 1
 alkoran 1
@@ -24726,7 +24726,7 @@ artisans 1
 amalfian 3
 aveugle
 avg 3
-assenting 2
+assenting 3
 avians 1
 abreactions 3
 arctitude
