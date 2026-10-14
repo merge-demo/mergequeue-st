@@ -1198,7 +1198,7 @@ firmitude 1
 frigidity 2
 fenders 3
 flexural 2
-flinched 2
+flinched 3
 fatuities 3
 forethinking 2
 feodatory 1
@@ -2666,7 +2666,7 @@ feckulence 2
 ferter 3
 felliducous 1
 fittyways 6
-flamb 2
+flamb 3
 fertile 1
 farcers
 falsely 6
@@ -8514,7 +8514,7 @@ frondesce
 fierabras 3
 formatter 1
 frutage 3
-floridans 2
+floridans 3
 flong 1
 flunkeyite 3
 fuzztail 1
