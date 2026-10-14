@@ -26686,7 +26686,7 @@ costrels 3
 chessart
 compilation 2
 counteraction
-counterpace
+counterpace 1
 calcaneotibial 1
 calamumi 1
 contendere
