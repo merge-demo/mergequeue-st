@@ -10413,7 +10413,7 @@ commissionership
 comitadji 1
 cop 2
 clear
-crackskull
+crackskull 1
 cored 1
 chondrotome
 chiffre
@@ -27636,7 +27636,7 @@ cowardly 1
 choloidinic 1
 cowardness
 cowbane 2
-collided
+collided 1
 coolheaded 2
 chamfered 1
 cowbanes 1
