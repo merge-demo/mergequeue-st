@@ -372,7 +372,7 @@ aberrants
 aberrating 2
 astrogonic 1
 arrival 2
-aberration
+aberration 1
 aberrational
 aberrative 1
 acinose
@@ -2072,7 +2072,7 @@ aequoreal 1
 actinogram 1
 agglutinating 1
 acropathology 1
-amplexus 2
+amplexus 3
 aveny
 awakeable
 amritas 1
@@ -3523,7 +3523,7 @@ avidins 1
 antinovelist 3
 amarillos 2
 additionary 2
-associationalism 1
+associationalism 2
 additionist 1
 accusable 1
 antimissile 1
@@ -8857,7 +8857,7 @@ amender 1
 adeptly 3
 adamastor 1
 anaphora 1
-aditus
+aditus 1
 administered 2
 allocator 2
 agynary 1
@@ -11432,7 +11432,7 @@ anagrammatization 1
 alupag 3
 autocephaly 1
 absorptance 2
-againward
+againward 1
 aiguiere
 amplication 1
 austerer 3
@@ -15624,7 +15624,7 @@ apothecal 2
 antinephritic 3
 adiaphorite 1
 antineuritic 1
-antineutralism
+antineutralism 1
 argyles 2
 attritive
 antineutrino 1
@@ -19343,7 +19343,7 @@ altarpieces 2
 alcornoque 1
 annoyous 2
 aporphine 1
-aroar 3
+aroar 4
 alike 1
 allalinite 1
 argaile 2
