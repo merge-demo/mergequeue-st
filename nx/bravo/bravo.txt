@@ -3722,7 +3722,7 @@ breck 1
 batterman
 blennemesis 2
 bullockman 3
-bepinch
+bepinch 1
 baylike
 bettong 2
 batty 3
@@ -10518,7 +10518,7 @@ bytownitite 1
 beaten 1
 brainy 6
 bridgewards
-bodywood 1
+bodywood 2
 broke 6
 blastomyces 4
 bainie 1
@@ -15384,7 +15384,7 @@ bedstaves 1
 bicapitate 3
 bisquette 4
 bierstuben 2
-boulevardier 1
+boulevardier 2
 boggiest
 banians 2
 buddhistical 1
@@ -16873,7 +16873,7 @@ bactericidally
 buffooneries 2
 benzoxycamphor
 balancelle 2
-biotechnologies 3
+biotechnologies 4
 bichromatic
 bathysophic 3
 buffoonish 4
