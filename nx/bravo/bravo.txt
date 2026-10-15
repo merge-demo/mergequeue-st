@@ -1196,7 +1196,7 @@ bajra 4
 bogeyed 3
 brickset 3
 beltmen 2
-baized 2
+baized 3
 bajury
 bonnaz 2
 braising
@@ -7963,7 +7963,7 @@ barothermogram 1
 bibulousness 2
 broomweed 1
 bodegones
-boardroom 2
+boardroom 3
 borderside
 bename 4
 beclad 2
@@ -9453,7 +9453,7 @@ bourride 3
 beldam 2
 birkeniidae
 birkremite
-blemishing 1
+blemishing 2
 blastematic 1
 bignonias 3
 boldine 1
@@ -14393,7 +14393,7 @@ busticate 2
 bewared 2
 bugseed 1
 briefers 1
-brayette
+brayette 1
 blatherskite 1
 brailles 1
 birdcraft 2
@@ -16720,7 +16720,7 @@ baronetise 1
 balaam 1
 basilicae 2
 blowcase 1
-breithauptite 2
+breithauptite 3
 biospheres 3
 bolyaian 1
 bucks 2
@@ -18117,7 +18117,7 @@ buskin 3
 barognosis
 butcherer 3
 bouquetin
-blobbier
+blobbier 1
 bureaucrats
 boll 2
 butterjags
