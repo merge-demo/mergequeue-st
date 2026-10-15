@@ -9078,7 +9078,7 @@ gryllid
 glottogonic 3
 greffotome 1
 glasser 1
-gigahertz 1
+gigahertz 2
 gentianwort 2
 ghast 3
 grimme 1
@@ -9231,7 +9231,7 @@ glassworker 5
 geminis 1
 gasses 1
 gleaning 7
-grossen 5
+grossen 6
 gardenmaking 1
 glouting 4
 globy 3
@@ -10665,7 +10665,7 @@ gyric 4
 goatsbane 1
 gerontology 3
 galp
-gazaboes 5
+gazaboes 6
 gurgoyle 2
 glaiketness 5
 genuflexion 4

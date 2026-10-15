@@ -4296,7 +4296,7 @@ carex 1
 cottages 2
 carfare 1
 carfares
-carfloat
+carfloat 1
 conservatoire 1
 crenic 2
 coater 1
@@ -7961,7 +7961,7 @@ coelarium
 crannog
 chabouk 1
 crankshaft
-chabuk 1
+chabuk 2
 chabuks 1
 chac 3
 chacate
@@ -18727,7 +18727,7 @@ collectively 2
 civics 1
 colacobioses
 currishly 2
-cubbyyew
+cubbyyew 1
 colacobiosis 2
 colacobiotic 3
 convertors 1
@@ -23522,7 +23522,7 @@ conterraneous
 chint
 contesseration
 concisely
-clethraceae 2
+clethraceae 3
 cauterization
 cartographies 1
 consultor 1
@@ -23955,7 +23955,7 @@ chirl 2
 conusance 1
 conusant
 cheremiss 1
-conuzee
+conuzee 1
 cicatricose 3
 cacological
 conv
@@ -27930,7 +27930,7 @@ cradlemaking 3
 consolidates
 cracket 1
 crackpotism 3
-cisterns 1
+cisterns 2
 crackhemp 2
 commendable
 cambiums 3
