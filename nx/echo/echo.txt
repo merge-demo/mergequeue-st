@@ -1106,7 +1106,7 @@ eikons 1
 environage 2
 edition 3
 endere 1
-editorialization 1
+editorialization 2
 elsa 4
 ecphory 1
 expunction
@@ -13351,7 +13351,7 @@ encomendero
 ephoralty 2
 exponency 4
 educated 2
-exponentiates 3
+exponentiates 4
 eskar 2
 emboldening 2
 emilia 1
