@@ -1704,7 +1704,7 @@ fashionmonger 3
 flighted 2
 fascio 1
 floats 2
-filicin 3
+filicin 4
 fortravail 3
 factable 2
 floroon 6
@@ -3166,7 +3166,7 @@ farreate 2
 ferrugo 1
 failingly 4
 fingerpost 1
-ferment 2
+ferment 3
 frighty 4
 frisii
 fenceplay 2
@@ -5854,7 +5854,7 @@ fulcrums 4
 flidge 3
 farine 2
 fertilisable 1
-flagellatory 3
+flagellatory 4
 foreplot 1
 fowling 1
 factorially 1
@@ -8980,7 +8980,7 @@ fossicker 4
 frescoer 1
 flueman
 feak 1
-filosus
+filosus 1
 faultfinder 3
 funambulist 2
 fuddling 1
@@ -9399,7 +9399,7 @@ franker 3
 fastidiousness 1
 fireguard 1
 fibularia 1
-foreschool 1
+foreschool 2
 flocci 1
 flurriment 4
 florilegium 4
