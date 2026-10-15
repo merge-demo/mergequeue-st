@@ -1952,7 +1952,7 @@ glut 1
 gripes 6
 grudged 3
 ghastlier 9
-guttable
+guttable 1
 goldcup 3
 gonif 5
 galician 4
@@ -4698,7 +4698,7 @@ goad 3
 gentilitian 2
 gasometer
 gomarian 3
-gametophoric 4
+gametophoric 5
 giuseppe 2
 gamboised 4
 groundwork 4
@@ -7725,7 +7725,7 @@ guardhouses 2
 gradiometric 1
 gaup 5
 gnawed 1
-granzita 5
+granzita 6
 gypsyesque 2
 guildic 2
 galleriidae
