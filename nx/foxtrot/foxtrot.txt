@@ -2410,7 +2410,7 @@ fad
 fleshlessness 3
 frizettes 1
 flakelet 3
-fistularia 2
+fistularia 3
 flavous 1
 filipuncture 4
 felanders 1
@@ -2890,7 +2890,7 @@ formicarium 3
 footwear 3
 frabjously 2
 foaled
-flowstone 2
+flowstone 3
 farcin
 fackins 1
 firefighters 2
@@ -9437,7 +9437,7 @@ faffy 5
 footgears 1
 firkins 4
 fantad 1
-flatways 3
+flatways 4
 fecal 3
 fileted 1
 fantastical 2
@@ -10363,7 +10363,7 @@ forecourt 3
 feaze 1
 foss 4
 friseur 1
-forewarning 2
+forewarning 3
 fiaunt 2
 fraenula 6
 floodlighted 2
@@ -10546,7 +10546,7 @@ featherback 5
 frotton 2
 fum 3
 firetail 1
-farandman 2
+farandman 3
 frousty 1
 frouzy 2
 finch 2
@@ -10651,7 +10651,7 @@ frontalis 3
 forswearing 2
 flumped 4
 fecundities 2
-fulfulde 1
+fulfulde 2
 felids 1
 forwaste 1
 fractostratus 2
@@ -10906,7 +10906,7 @@ familiarization 5
 fullish 3
 foeman 1
 frigorifico 4
-fulgurated 4
+fulgurated 5
 forgathers 5
 faeryland 3
 finished 3
@@ -11009,7 +11009,7 @@ fumbled 3
 farde 3
 fausen 2
 frostiest 4
-flintiest 1
+flintiest 2
 foreproffer 4
 foreweep 1
 feastly 5
@@ -11017,7 +11017,7 @@ furfurol 3
 feign 3
 fumbles 3
 fumblingness 1
-fumed 1
+fumed 2
 fungiferous 3
 frigging 2
 freeport 4
@@ -11668,7 +11668,7 @@ forepale 3
 foxskins 1
 functionalized 5
 fluavil 1
-fructiform
+fructiform 1
 fresne 1
 frwy
 fluorochrome 3
