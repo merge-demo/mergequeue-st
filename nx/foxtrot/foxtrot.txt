@@ -3760,7 +3760,7 @@ fondle 1
 fettlings 2
 fiducial 4
 fibrocystic 5
-futilous
+futilous 1
 foreflipper 3
 filmet 2
 filmgoers 1
@@ -9275,7 +9275,7 @@ finnac 4
 forpining 3
 frivolism 3
 frillback 3
-fetuses 2
+fetuses 3
 floccus 2
 ficin
 feminate 4
