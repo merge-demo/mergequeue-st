@@ -1166,7 +1166,7 @@ entitule 3
 education 3
 edulcorating 2
 enscroll 2
-ensweep 3
+ensweep 4
 educational 1
 estipulate 1
 exultancy 2
@@ -1957,7 +1957,7 @@ euthamia 3
 exuberating 1
 exteriorate 1
 elastics 3
-eluviated
+eluviated 1
 eagle 1
 economizing 1
 endocystitis 5
@@ -9790,7 +9790,7 @@ emunctories 1
 exprobrate 1
 estampage 1
 empiric 1
-enucleating 3
+enucleating 4
 evolving 5
 estampede 3
 estang 4
@@ -11603,7 +11603,7 @@ extorted 2
 earringed 1
 ectromelic 1
 encephalosepsis 1
-elegize 1
+elegize 2
 engining
 enchiridion 2
 explicating 1
@@ -12998,7 +12998,7 @@ extroitive 1
 embathe 2
 explode 3
 etherous
-evanition 2
+evanition 3
 equanimously 4
 expecter 3
 expectingly 5
