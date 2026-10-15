@@ -1976,7 +1976,7 @@ balances 1
 bandstring
 bathymetric 4
 brandishes
-bigeye 5
+bigeye 6
 believes 1
 bosquets 3
 baahling 2
@@ -3205,7 +3205,7 @@ basicerite 1
 basicity 2
 baloneys 2
 biolyses 1
-benzins 1
+benzins 2
 balancers 6
 booklores 1
 bromids
@@ -5846,7 +5846,7 @@ bittock 1
 bribeworthy
 bengaline
 bellyful 2
-boor 3
+boor 4
 beadier 1
 barbermonger 3
 blacklisted 3
@@ -9536,7 +9536,7 @@ bogota 3
 blackened
 birthright 1
 baffeta 1
-births 1
+births 2
 birthstones
 bulliform 1
 birthstool 2
@@ -11967,7 +11967,7 @@ broncobusters 2
 bandagers 2
 birmingham 3
 bbls 3
-braireau 3
+braireau 4
 bostons 3
 bogymen 2
 bogland
