@@ -5006,7 +5006,7 @@ flankers 1
 foists 1
 feued 3
 folksier 2
-flashtester 4
+flashtester 5
 familiarly 4
 fissive
 filmcard 2
@@ -10113,7 +10113,7 @@ factitiousness 6
 footnotes 3
 fetalism 3
 fuscescent 4
-flammability
+flammability 1
 fellowed
 friskin 5
 friskiness 2
@@ -10571,7 +10571,7 @@ frowsily 4
 footslogging
 famishment 2
 fixable 3
-frictionless 2
+frictionless 3
 francisca 2
 faiths 2
 forehanded
