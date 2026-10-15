@@ -1521,7 +1521,7 @@ ethmoid 1
 endosternum
 exradio 1
 eucosmidae 2
-episcopised 2
+episcopised 3
 egoisticalness 3
 evoke 1
 embow 4
@@ -1637,7 +1637,7 @@ excommunications 3
 encephalitogenic 1
 enactors 2
 eyewashes 3
-epigastrium 4
+epigastrium 5
 essoinee 1
 eider 2
 ectomorphism 4
@@ -4304,7 +4304,7 @@ enamelless
 emit 2
 enami 2
 enamorado 2
-enamorato
+enamorato 1
 extraordinariness 2
 enamorment
 endoute 1
@@ -5447,7 +5447,7 @@ electroscopic 2
 entwists 4
 erade 1
 establismentarianism 2
-environ
+environ 1
 ejaculates 2
 ebonising 3
 encircles 4
@@ -7422,7 +7422,7 @@ ephialtes
 exemplifiers 3
 encipherments 2
 excusal
-ebenaceae 1
+ebenaceae 2
 enif 2
 exorbitantly 1
 envenomed 1
@@ -10526,7 +10526,7 @@ evulge 2
 explosions 2
 entohyal
 everymen 1
-epilachnides 3
+epilachnides 4
 embowel
 estop 3
 eucharistial 5
@@ -11784,7 +11784,7 @@ exampling 2
 echeneididae 2
 eyelast 2
 esquireship
-ericetum 4
+ericetum 5
 excorticating 1
 empover 1
 electroacoustic 1
