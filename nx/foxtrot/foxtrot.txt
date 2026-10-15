@@ -3890,7 +3890,7 @@ formation 1
 followers
 fevertrap 4
 farming
-footslogged 4
+footslogged 5
 febriferous 3
 fluidextract 2
 findable 2
@@ -4777,7 +4777,7 @@ fashionize 4
 foreranks 3
 foulminded 3
 fellowing
-froggier 4
+froggier 5
 fellowshipped 3
 filigera 3
 falconers 3
@@ -4796,7 +4796,7 @@ fissurellidae 4
 feuillants 1
 fortunetelling 6
 flocculable 3
-feltmonger 5
+feltmonger 6
 fortunately 2
 flaunching 6
 freshened 2
@@ -5676,7 +5676,7 @@ fermium 2
 fawe 3
 fragility 2
 fibrine 3
-freckles 4
+freckles 5
 funeration 5
 fillebeg 2
 forbearant 3
@@ -7603,7 +7603,7 @@ fleshquake 5
 ferrules 1
 foredefeated 7
 frankheartedness 4
-fatuity 6
+fatuity 7
 footslogs 3
 flacherie 2
 forjudgment 4
