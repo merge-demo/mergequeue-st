@@ -10971,7 +10971,7 @@ churchgo 1
 commenceable 1
 chiropody
 cheekish
-chiropodial
+chiropodial 1
 chiropodic 1
 chiropodical 1
 caphite
@@ -16441,7 +16441,7 @@ constrainer 1
 cloakmaking
 cymbaline
 craniates 1
-cloakroom
+cloakroom 1
 cloakrooms
 caterwaul
 cloakwise
@@ -27489,7 +27489,7 @@ chronicity 1
 covalences 1
 covalency
 carpoptosis 2
-coriander 1
+coriander 2
 covalent
 campephilus 1
 covalently
