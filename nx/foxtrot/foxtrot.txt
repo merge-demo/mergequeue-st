@@ -1590,7 +1590,7 @@ favouring 2
 footroom 5
 floriage 4
 flappier 4
-frijol 6
+frijol 7
 fervescence 2
 freightless 4
 flannel 3
@@ -5582,7 +5582,7 @@ fratch 2
 flybys 4
 fiendlike 4
 folkvangr 1
-flockowner 6
+flockowner 7
 fossicking 6
 forgette 4
 fader 3
@@ -5890,7 +5890,7 @@ feague 1
 fangas 2
 flinted 5
 ferrichloride 3
-furnishings 3
+furnishings 4
 flushes 2
 flaxier 1
 furandi 2
@@ -10146,7 +10146,7 @@ frithy 4
 firstly 1
 fenetre 4
 fiberizing 5
-flintifying 4
+flintifying 5
 forefatherly 5
 franion 3
 foretopman 5
