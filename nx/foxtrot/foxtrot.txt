@@ -2884,7 +2884,7 @@ fetterlock 5
 flatfish 1
 forewing 5
 foxship 2
-frisettes 5
+frisettes 6
 fogies 2
 formicarium 3
 footwear 3
@@ -10384,7 +10384,7 @@ fraternise 4
 forrarder 1
 fruitlessly
 furrowers 2
-flaps 3
+flaps 4
 fuzil 4
 foreordainments 1
 frontages 5
