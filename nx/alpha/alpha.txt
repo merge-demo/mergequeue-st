@@ -5535,7 +5535,7 @@ acentric
 aftercrop 3
 acanthodian 2
 affrontment 1
-afterdays
+afterdays 1
 antifoam
 amadou
 abscisins 1
@@ -24034,7 +24034,7 @@ adversaries 1
 albitization 1
 anjou 1
 antic 1
-autocorrosion
+autocorrosion 1
 archispermae 2
 autocosm
 apotelesmatic
