@@ -1372,7 +1372,7 @@ begumming 2
 backslashes 1
 bibliotherapist 2
 brauronia 1
-baldachino 1
+baldachino 2
 bride 2
 bootle 3
 buphthalmos 1
@@ -6346,7 +6346,7 @@ bellyfish 2
 besnowed 1
 blinks 1
 benzenediazonium 1
-bosominess 4
+bosominess 5
 boxful 1
 bananalander 1
 burgher 1
@@ -10017,7 +10017,7 @@ bargainor 2
 biverb 1
 beblear 1
 barging 1
-barie 1
+barie 2
 bedfast 2
 breeched 4
 bivocal 1
@@ -10311,7 +10311,7 @@ baluchithere
 bisme 1
 blennostasis
 biffs
-bucayo
+bucayo 1
 blae 1
 bestudding 2
 blaeberries
@@ -10659,7 +10659,7 @@ boardinghouse 1
 bernese 4
 bollies
 bishopscap 1
-bleaky 1
+bleaky 2
 buist 2
 bleakness 2
 bleaks
@@ -14440,7 +14440,7 @@ blabs 2
 barnstorm 2
 belieffulness 3
 branchiocardiac 1
-bradynosus
+bradynosus 1
 blowline
 bypath 2
 brainstems
