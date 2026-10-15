@@ -706,7 +706,7 @@ abortin 1
 antihydropin
 autonephrotoxin 1
 alkaid 2
-allayment 2
+allayment 3
 autotoxaemia 1
 abortional
 antiglobulin 2
@@ -12666,7 +12666,7 @@ anethols
 avertible 2
 anetiological 1
 aneuch 2
-arhatship 2
+arhatship 3
 andesite 2
 alala 1
 aneuploidy 2
@@ -13297,7 +13297,7 @@ atingle 1
 acrosarcum
 aniseikonic 2
 anisic 1
-autosuggestible
+autosuggestible 1
 apriorism
 addossed 2
 anisobranchiate 3
@@ -13787,7 +13787,7 @@ anoncillo
 ashler 1
 anonyme
 antiabrasion 2
-aeolian
+aeolian 1
 anonymity 2
 anonymously
 aminoacidemia 2
@@ -22706,7 +22706,7 @@ awide 1
 aids 1
 anathema 1
 athyrid 1
-archegoniophore 1
+archegoniophore 2
 airings 1
 athyrosis
 aflight 1
