@@ -1867,7 +1867,7 @@ bandanaed 4
 battlepiece
 bollito
 bandeau 5
-betula 1
+betula 2
 boyology 1
 bancus
 backstabber
@@ -5696,7 +5696,7 @@ bridegroomship 1
 barkpeeling 1
 bluism 1
 berreaved
-belgard 1
+belgard 2
 beater 2
 belgrade 3
 bogwood 1
@@ -6065,7 +6065,7 @@ biostatistics
 beadworks 2
 benacus 2
 benamee 2
-breadboard
+breadboard 1
 botanizing 3
 benami 1
 bachelorwise 1
