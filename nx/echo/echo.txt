@@ -4304,7 +4304,7 @@ enamelless
 emit 2
 enami 2
 enamorado 2
-enamorato
+enamorato 1
 extraordinariness 2
 enamorment
 endoute 1
@@ -7422,7 +7422,7 @@ ephialtes
 exemplifiers 3
 encipherments 2
 excusal
-ebenaceae 1
+ebenaceae 2
 enif 2
 exorbitantly 1
 envenomed 1
@@ -10526,7 +10526,7 @@ evulge 2
 explosions 2
 entohyal
 everymen 1
-epilachnides 3
+epilachnides 4
 embowel
 estop 3
 eucharistial 5
