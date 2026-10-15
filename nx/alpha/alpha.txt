@@ -93,7 +93,7 @@ abandonment
 accelerator 2
 antipriestcraft 1
 abaptiston
-acknow 2
+acknow 3
 annominate
 auditories 2
 abarticulation
@@ -1547,7 +1547,7 @@ australorp 1
 antinomians 2
 antiglyoxalase 2
 accompanies 2
-accompanyist
+accompanyist 1
 asperggilla
 aminotransferase 1
 aphasiac 1
@@ -21946,7 +21946,7 @@ adicity 1
 articulating 1
 anathemata
 apodictical 2
-aportoise 1
+aportoise 2
 antheraea 2
 anoxias 1
 anisomyodi 2
@@ -23840,7 +23840,7 @@ arduinite 1
 anabohitsite 2
 asarota 1
 appropriations 2
-anhydremic 2
+anhydremic 3
 antiphrastically 1
 autacoidal
 azan 4
