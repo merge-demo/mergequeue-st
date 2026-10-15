@@ -1950,7 +1950,7 @@ chiliarchy 1
 camelopards 2
 cotterite 1
 constant
-crowdweed
+crowdweed 1
 camelopardus
 cloghad 2
 counterflashing
@@ -4293,7 +4293,7 @@ caretta 2
 careworn 2
 concorporation
 carex 1
-cottages 1
+cottages 2
 carfare 1
 carfares
 carfloat
@@ -6558,7 +6558,7 @@ clannish 1
 commissaries 1
 caxon 1
 cretaceous 2
-caxton 1
+caxton 2
 confluence 1
 caxtonian 1
 caza
@@ -10635,7 +10635,7 @@ cephalomancy 1
 chimakuan 1
 chimaphila 1
 consummates
-causatively
+causatively 1
 chymase 1
 chimb 1
 culicide
@@ -13266,7 +13266,7 @@ cyclohexanol 1
 crass 2
 cyclohexanone
 cyclohexyl 1
-cycloheximide
+cycloheximide 1
 chetverik
 communicants
 cataloguer 1
@@ -15396,7 +15396,7 @@ chicane 1
 cautio 1
 cabins
 carburetting 2
-claptraps
+claptraps 1
 culbuter 2
 claque
 candescently 1
@@ -31324,7 +31324,7 @@ curd 2
 casave 2
 considerately 1
 commemorize
-circumoral
+circumoral 1
 claudent 3
 curdiness
 curdled 3
