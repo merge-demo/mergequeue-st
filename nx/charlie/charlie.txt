@@ -6547,7 +6547,7 @@ cawky 1
 collide 1
 cawl 3
 coagulants 1
-cawney
+cawney 1
 clinanthia
 cylindrosporium 3
 cardmaker
@@ -8781,7 +8781,7 @@ cloudless
 conceptualisation 2
 chaptalize
 cymbalaria 1
-chapter
+chapter 1
 canonries
 chapteral 2
 chapterhouse 1
@@ -9077,7 +9077,7 @@ cirmcumferential
 charqui
 canelike
 christly 1
-charr
+charr 1
 charras 5
 charre
 charred
@@ -19119,7 +19119,7 @@ collinsonia
 colliquable 2
 colliquate 1
 collyria
-collyrite 1
+collyrite 2
 carder
 collyrium 1
 cedes 2

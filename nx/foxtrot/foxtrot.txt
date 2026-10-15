@@ -4661,7 +4661,7 @@ faeroe 1
 fells 2
 ferrotungsten 1
 fulica 3
-flewit 1
+flewit 2
 freety 4
 filicinean 1
 fearsome 3
@@ -5114,7 +5114,7 @@ funking
 fumant 2
 forbidding 1
 forthy 2
-fireweed 7
+fireweed 8
 flashgun 1
 fifteenth 3
 factitive 1
@@ -5809,7 +5809,7 @@ fusulae 3
 fructicultural 2
 furyl 3
 fumeroot 2
-fastigium 3
+fastigium 4
 foreswearing 4
 filmer 2
 flittermouse 3
@@ -6857,7 +6857,7 @@ fonnish 4
 folios 1
 faradizes 1
 fortuitus 5
-foliose 5
+foliose 6
 flachery 4
 flittingly 2
 forgeman 1
@@ -7460,7 +7460,7 @@ faulx 1
 fenestrule 6
 frigidoreceptor 3
 foy 1
-fossick 3
+fossick 4
 feigning 1
 fishwives 4
 fiftypenny 2
@@ -8106,7 +8106,7 @@ forestries
 firebrats 4
 furnitures 6
 fumigating
-fiendfully 2
+fiendfully 3
 ferrochromium 6
 fissuriform
 flusterated 3
@@ -9138,7 +9138,7 @@ frisure 3
 fenlander 2
 frankist 3
 forespeaker 4
-featy 3
+featy 4
 falsification 4
 flourisher 1
 firmance 3
@@ -9600,7 +9600,7 @@ foliated 1
 fyrd 4
 felicitate 3
 floreated 3
-forgone 4
+forgone 5
 foller 1
 frederik 3
 futilitarian
