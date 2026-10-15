@@ -3890,7 +3890,7 @@ formation 1
 followers
 fevertrap 4
 farming
-footslogged 4
+footslogged 5
 febriferous 3
 fluidextract 2
 findable 2
@@ -4737,7 +4737,7 @@ foresey 1
 forerank 3
 faldfee 3
 forthink
-fablemongering 4
+fablemongering 5
 forestry 1
 fiscality 1
 flo
@@ -5676,7 +5676,7 @@ fermium 2
 fawe 3
 fragility 2
 fibrine 3
-freckles 4
+freckles 5
 funeration 5
 fillebeg 2
 forbearant 3
@@ -7625,7 +7625,7 @@ festino 3
 fatalize 3
 farrier 2
 fossula 3
-ferroglass
+ferroglass 1
 funipendulous 6
 fescenninity 4
 ferganite
@@ -9896,7 +9896,7 @@ footcloths 2
 frogeye 2
 fluellen 3
 foredestine 3
-fervencies 2
+fervencies 3
 fortyfive 3
 foxily 1
 funnelform
@@ -10749,7 +10749,7 @@ forbore 3
 frumpishly 2
 fanciness 3
 foreyear 5
-follyer 1
+follyer 2
 fructified 5
 fascistize 1
 filagree 6
