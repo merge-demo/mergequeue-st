@@ -264,7 +264,7 @@ easterling 1
 exhumers 1
 epigoneion 2
 enqueue 2
-enantioblastic 4
+enantioblastic 5
 endognath 2
 ectocuniform 2
 esquired 6
@@ -961,7 +961,7 @@ eastwards 1
 ethyl 2
 esoterics 4
 exhumes 2
-excavatory
+excavatory 1
 eumitosis 3
 exocardia 5
 emasculating 1
