@@ -2559,7 +2559,7 @@ brackishness 2
 begster 1
 birk
 backlists 1
-bashlyk 3
+bashlyk 4
 brained 1
 bonaci 1
 beltways 1
@@ -11792,7 +11792,7 @@ bluisness
 billingsgate 1
 buckwheat 4
 bocasin 2
-bookshops 1
+bookshops 2
 baldachinos 3
 boccarella 1
 bodings 1
@@ -12569,7 +12569,7 @@ birkenhead 1
 bakemeat 1
 bonitary 1
 bearings 1
-bistroic 3
+bistroic 4
 bonitarian 1
 balsam 1
 boroughlet 1
@@ -13944,7 +13944,7 @@ bellware 1
 belugas 1
 barylite 3
 boxcars
-bishopful
+bishopful 1
 barwing 1
 billete 2
 befuddler 2
