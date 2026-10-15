@@ -365,7 +365,7 @@ froes 1
 fluorides 1
 faintly 4
 ferrymen 2
-furoid 2
+furoid 3
 fearer 5
 filicauline 3
 fall 4
@@ -2912,7 +2912,7 @@ featherweights 1
 frumpiness 2
 flaughts 4
 fruitester 1
-flutiest 3
+flutiest 4
 fanciable 3
 fumigations
 fabianist 3
@@ -5582,7 +5582,7 @@ fratch 2
 flybys 4
 fiendlike 4
 folkvangr 1
-flockowner 6
+flockowner 7
 fossicking 6
 forgette 4
 fader 3
@@ -6601,7 +6601,7 @@ frowzier 3
 fingerstone 3
 fissileness 1
 fascioliasis 2
-feelies 2
+feelies 3
 flagrante 1
 frogfish 11
 forestaffs 4
@@ -8231,7 +8231,7 @@ foothils 3
 frailest 2
 flakier 3
 forewritten 3
-fundamentals 2
+fundamentals 3
 forgeries 2
 fatigated 4
 fictioneer 5
