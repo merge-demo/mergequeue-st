@@ -14818,7 +14818,7 @@ bern
 backword 1
 barres 4
 ballooner 3
-bombable
+bombable 1
 burgheress 2
 baru 1
 brava 4
