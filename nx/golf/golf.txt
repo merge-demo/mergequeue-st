@@ -773,7 +773,7 @@ glome 4
 gristmill 1
 gres 3
 galvanotherapy 3
-goods 3
+goods 4
 gery 2
 geomorphic 2
 gemologies 2
@@ -1663,7 +1663,7 @@ glycerolysis 4
 gunrunning 1
 girting 5
 gester
-gluts 2
+gluts 3
 geitjie 4
 gelatination 3
 gastightness 2
@@ -2771,7 +2771,7 @@ gazettal 2
 gramophonical 1
 grigris 2
 gormless 4
-glottalite 3
+glottalite 4
 gloiopeltis 4
 gentiobiose 4
 galena 6
@@ -4461,7 +4461,7 @@ gomukhi 1
 gins 3
 glyptology 6
 grame 5
-gyrose 5
+gyrose 6
 grindingly 2
 guastalline 3
 grumous 3
@@ -6671,7 +6671,7 @@ genuflected 2
 guttler
 grint 3
 gibbet 3
-gulae 3
+gulae 4
 growable 2
 gromatic 4
 geochronometry 5
