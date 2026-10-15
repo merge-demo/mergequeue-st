@@ -4585,7 +4585,7 @@ besuit 1
 bundeli 1
 borborus 2
 bedaubing
-beltlines 1
+beltlines 2
 bloodstone 3
 belial 3
 biddelian
@@ -8119,7 +8119,7 @@ brum
 boondocks 2
 bookkeepers 1
 bulbine
-becarpet 1
+becarpet 2
 biohazard 2
 barbadian 1
 bitters 2
@@ -11805,7 +11805,7 @@ boilerhouse 3
 benefactrixes 2
 boccie 1
 backstring
-baron
+baron 1
 bluefish 2
 bocconia
 byrl
@@ -12084,7 +12084,7 @@ bullfighters 2
 brit 2
 bradycauma
 bulbilla 1
-boites 2
+boites 3
 baltetei 2
 balladier 1
 bokhara 3
@@ -12148,7 +12148,7 @@ basketball 3
 besmutch 2
 bugger
 bealing
-boldu
+boldu 1
 butterweed
 bolelike
 benniseed 1
@@ -14917,7 +14917,7 @@ butlerage 2
 breaking 1
 barkeep 5
 breakings 2
-bovicide 3
+bovicide 4
 breaklist 2
 blandishes 2
 buttercup 1
@@ -18382,7 +18382,7 @@ buzzard 4
 bubos 2
 beylical
 beasts 4
-bluebook 1
+bluebook 2
 barycenter 1
 balaustre
 byronics
