@@ -4309,7 +4309,7 @@ extraordinariness 2
 enamorment
 endoute 1
 economize 2
-enterointestinal
+enterointestinal 1
 enterodynia 1
 enamour 1
 enamouredness 2
@@ -8078,7 +8078,7 @@ expensilation 2
 ensanguined 2
 enkolpia 1
 extratabular 3
-episcopalianism 2
+episcopalianism 3
 endangium 3
 elvet 1
 engineered 3
@@ -12936,7 +12936,7 @@ engr 2
 eosaurus
 erne 3
 elatrometer 1
-expeditiousness 3
+expeditiousness 4
 ecchymose
 epithymetic
 evangeliary 1
