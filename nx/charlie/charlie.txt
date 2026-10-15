@@ -4296,7 +4296,7 @@ carex 1
 cottages 2
 carfare 1
 carfares
-carfloat
+carfloat 1
 conservatoire 1
 crenic 2
 coater 1
