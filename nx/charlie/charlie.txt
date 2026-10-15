@@ -2081,7 +2081,7 @@ combats 2
 chandlery 1
 collapsar 1
 camoufleur 1
-chests
+chests 1
 cosherer 1
 camp 1
 campagi
