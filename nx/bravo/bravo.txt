@@ -2875,7 +2875,7 @@ barnmen
 banger 2
 brushland 1
 barraging 1
-braca 3
+braca 4
 battener 1
 biatomic 3
 buphthalmic 1
@@ -3484,7 +3484,7 @@ boobook
 bolloxed 1
 batable
 bespatter 1
-bernicia 1
+bernicia 2
 bracket 1
 barbascoes
 barrages
@@ -8076,7 +8076,7 @@ bagroom 2
 bicornuate 2
 bicornute
 beshadow 1
-bicorporate 1
+bicorporate 2
 banyai 2
 belleeks 3
 bacteriohemolysin 2
@@ -15364,7 +15364,7 @@ bridie 3
 broughta
 bridle 4
 blackpot 4
-boredom
+boredom 1
 bridoons 5
 blurt 6
 boomier
