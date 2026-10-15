@@ -774,7 +774,7 @@ footworn 1
 fulmen 1
 flogging 3
 fatality 5
-froster 2
+froster 3
 forensicality 2
 flipe 3
 floosy 1
@@ -1394,7 +1394,7 @@ fountainlet 1
 fallibly 1
 firewood 1
 futchell 2
-forbar 1
+forbar 2
 ferreted 3
 fattest 2
 finickin 4
@@ -1645,7 +1645,7 @@ fiercen 3
 forethoughtfulness 3
 feverberry 3
 focalises
-fuddledness 1
+fuddledness 2
 fumigates 5
 forebrace
 formatting 1
@@ -5006,7 +5006,7 @@ flankers 1
 foists 1
 feued 3
 folksier 2
-flashtester 4
+flashtester 5
 familiarly 4
 fissive
 filmcard 2
@@ -5410,7 +5410,7 @@ fibrillary 5
 freed 3
 fetis 3
 flummeries 4
-flaked 2
+flaked 3
 fulham 4
 foremade 1
 frisado 3
@@ -6949,7 +6949,7 @@ feyer 5
 fluidifying 5
 fruitfully 3
 floriated 5
-fractionization 1
+fractionization 2
 folliculitis 1
 frt 3
 faring 4
@@ -10113,7 +10113,7 @@ factitiousness 6
 footnotes 3
 fetalism 3
 fuscescent 4
-flammability
+flammability 1
 fellowed
 friskin 5
 friskiness 2
@@ -10571,7 +10571,7 @@ frowsily 4
 footslogging
 famishment 2
 fixable 3
-frictionless 2
+frictionless 3
 francisca 2
 faiths 2
 forehanded
