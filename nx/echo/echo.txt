@@ -1106,7 +1106,7 @@ eikons 1
 environage 2
 edition 3
 endere 1
-editorialization 2
+editorialization 3
 elsa 4
 ecphory 1
 expunction
@@ -1264,7 +1264,7 @@ epichlorohydrin 2
 extraditable 1
 escribiente 2
 ecorche 1
-eblis 1
+eblis 2
 eucairite 4
 eleonorite 2
 eoghanacht 2
@@ -3128,7 +3128,7 @@ ethanol 1
 eloge 1
 eventognathous 4
 elogy 2
-exhorting 4
+exhorting 5
 elogium 2
 egohood 2
 eloigned 2
@@ -3682,7 +3682,7 @@ ecmnesia
 envenom 1
 eternised 3
 exergues 1
-evase 1
+evase 2
 embryological 3
 endocoeliac
 embosking
@@ -9719,7 +9719,7 @@ eomecon
 eastlings 8
 entotrophi 3
 entitles 1
-eradiates 4
+eradiates 5
 epitomisation 2
 equisonance 1
 everyplace 1
@@ -9916,7 +9916,7 @@ electrothermics 2
 earphone 3
 emphasis 2
 epicentrum 4
-equicellular
+equicellular 1
 electroosmotically 2
 estrayed 1
 elderwood 4
