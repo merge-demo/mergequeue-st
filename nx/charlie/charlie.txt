@@ -1322,7 +1322,7 @@ catchwater 2
 calibrating
 calibre 1
 causative
-cyanohydrin 2
+cyanohydrin 3
 catalects 1
 caliburn 1
 choledochitis 3
@@ -2148,7 +2148,7 @@ caducary 1
 campe 3
 cumbers
 cryal
-camped
+camped 1
 campephagine
 camper 1
 coniopterygidae 1
@@ -2971,7 +2971,7 @@ cantharidized 2
 cantharus 1
 chank
 carabini
-caustic 1
+caustic 2
 canthathari 3
 cameriera 1
 canthitis 3
@@ -3767,7 +3767,7 @@ carbamic 2
 carbamide 1
 cooperationist
 copunctal
-confusingly
+confusingly 1
 cephalomenia
 carbamyls 8
 carpodetus
@@ -11164,7 +11164,7 @@ chlamydosaurus 1
 chlamydozoan
 chlamyphore 1
 carroting 1
-chlamyphorus
+chlamyphorus 1
 chlamyses 1
 congratulation 1
 chleuh
@@ -11992,7 +11992,7 @@ communicatively 1
 cloky
 camois 1
 colophonite 1
-chiefdom 1
+chiefdom 2
 chorioidocyclitis 1
 coffeewood
 chorioidoiritis 2
@@ -13384,7 +13384,7 @@ cyclostomi 2
 cedent 1
 cyclothymiac 1
 cocci 1
-contractile 2
+contractile 3
 czarists
 cocooned 1
 cyclothure 2
@@ -19415,7 +19415,7 @@ colorimetrist
 carinthian 2
 chrysobalanaceae 2
 colorin 2
-colorings 1
+colorings 2
 conges 1
 colorisms
 cystous 1
@@ -21569,7 +21569,7 @@ compulsorily 1
 computable 1
 cardiamorphia
 concurso 2
-cosmographer 2
+cosmographer 3
 concussed 1
 cringers 2
 clarkeite 1
@@ -29241,7 +29241,7 @@ cryptanalyzing 2
 cryptarch
 cryptarchy 3
 caracols 1
-crypteroniaceae
+crypteroniaceae 1
 cryptical 2
 cryptically
 crypticness
@@ -30230,7 +30230,7 @@ cruel
 carbonous
 crueller 2
 cruellest 1
-chinafy
+chinafy 1
 cruelly 1
 cruelness
 cruels
