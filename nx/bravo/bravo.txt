@@ -1848,7 +1848,7 @@ bluegum
 bridgewall 2
 bananivorous 2
 banatite 2
-becharm
+becharm 1
 blackjacking
 billycans 4
 bioelectrical 2
@@ -7294,7 +7294,7 @@ buccolingual
 brazera 1
 bufidin 1
 bursters 3
-borides 3
+borides 4
 betear 1
 betel 3
 buttwood 1
@@ -7914,7 +7914,7 @@ boscages 1
 bambusa 2
 befuddlement 1
 beetleheadedness 5
-bongoists 1
+bongoists 2
 bluntishness 1
 brey 1
 blockhouse 5
@@ -10118,7 +10118,7 @@ beadles 2
 blackballed 1
 beinked
 blackballs 2
-bielorouss 2
+bielorouss 3
 brogh 2
 blat 1
 beshriek 1
@@ -12886,7 +12886,7 @@ barthian 3
 breastwise 1
 boong 2
 bioblastic 3
-barringer 1
+barringer 2
 buckplate 1
 blunders 2
 boophilus
@@ -16942,7 +16942,7 @@ bressomer 2
 bugong
 balloonlike 1
 bugout 2
-bugs 3
+bugs 4
 bugweed
 barometry 1
 blacktopped 2
@@ -17196,7 +17196,7 @@ bullpup
 brughs 2
 boozy 2
 balsamical 3
-benedictional 1
+benedictional 2
 bathylith
 battailant 2
 bullrush 1
