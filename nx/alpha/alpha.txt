@@ -6811,7 +6811,7 @@ airbusses
 antibias
 axometer 3
 archsacrificer 2
-arid 4
+arid 5
 altars 1
 aircraftmen
 allotriomorphic
@@ -8637,7 +8637,7 @@ aegean 1
 anta 3
 allegiance
 allegiancy
-admonitor 1
+admonitor 2
 apodeipna 1
 apoharmine 2
 aqueduct 1
@@ -17182,7 +17182,7 @@ aralie
 anthracoxen
 anaerobian 2
 apolunes
-apartment
+apartment 1
 adaptableness
 apolusis 3
 amoebiasis 2
@@ -21719,7 +21719,7 @@ assemble 2
 added 5
 acetabularia 1
 assembled 3
-altitude
+altitude 1
 anthropophaginian 1
 anniv 1
 antrocele
@@ -25381,7 +25381,7 @@ antelegal 1
 azoxine 3
 azoxytoluidine
 antiheterolysin 1
-azoxonium 1
+azoxonium 2
 aztec
 androlepsy 2
 aztecan 2
