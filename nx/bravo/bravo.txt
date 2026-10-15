@@ -5661,7 +5661,7 @@ benjoin 1
 bloodstones 1
 barques 2
 besped 1
-beldams 1
+beldams 2
 bacchar 3
 bilify 3
 belderroot 1
@@ -6858,7 +6858,7 @@ barit 1
 brutalize 1
 belleek 1
 balthasar
-beggarman 1
+beggarman 2
 biliverdic 3
 botchers 2
 bescutcheon 4
@@ -10049,7 +10049,7 @@ blondeness 1
 brabagious 2
 benign 5
 bixin 2
-blackfoot 2
+blackfoot 3
 brachycnemic
 badgered 3
 booklets 2
@@ -15321,7 +15321,7 @@ belles 1
 bastian
 bridewell
 birdwitted 1
-bridewort
+bridewort 1
 bridge 1
 basiliscan 2
 bighorn 2
