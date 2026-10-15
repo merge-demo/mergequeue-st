@@ -1995,7 +1995,7 @@ affinite
 acetylphenol 1
 agogic
 acetyls 1
-acce 2
+acce 3
 acetyltropeine 2
 acetylurea 1
 atheromata
@@ -4104,7 +4104,7 @@ admiring 1
 anality
 antislip 3
 agentival 1
-admissibility
+admissibility 1
 asci 4
 admissive 1
 automan
@@ -12379,7 +12379,7 @@ asterolepidae 1
 axes
 anders 1
 autoirrigation 1
-adipocerite
+adipocerite 1
 americanism 3
 apolytikion
 assiduous
@@ -13716,7 +13716,7 @@ anointment 3
 autodidacts
 anointments 3
 articulation 3
-adulterer 1
+adulterer 2
 astrometrical 1
 aunt
 absolutization
@@ -24643,7 +24643,7 @@ amyraldism 1
 alloxuric 3
 aveloz 1
 autoheterodyne 2
-aralkyl 1
+aralkyl 2
 ambassador 1
 antischolastically 2
 aruke 1
