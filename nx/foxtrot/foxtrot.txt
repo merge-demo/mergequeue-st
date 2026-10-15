@@ -7459,7 +7459,7 @@ forcipressure 3
 faulx 1
 fenestrule 6
 frigidoreceptor 3
-foy
+foy 1
 fossick 3
 feigning 1
 fishwives 4
