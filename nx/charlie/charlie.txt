@@ -2081,7 +2081,7 @@ combats 2
 chandlery 1
 collapsar 1
 camoufleur 1
-chests
+chests 1
 cosherer 1
 camp 1
 campagi
@@ -8395,7 +8395,7 @@ cultrirostral 1
 chamfer
 cabirean 2
 chamfers 1
-calvaria 1
+calvaria 2
 carilloneur 1
 cradock 1
 conscientiously
@@ -8484,7 +8484,7 @@ cephalofacial
 chiselled
 compositionally
 congealedness 2
-corslet 2
+corslet 3
 chanca
 clangoring 1
 chance 3
@@ -10682,7 +10682,7 @@ clothespin
 calciclase 3
 colorimetrically
 chytridial 2
-countersinks 1
+countersinks 2
 cantharidated 1
 chalk 1
 colporteur 2
@@ -15770,7 +15770,7 @@ couma
 cleanliest 2
 clumpier 2
 cleanout
-cleansable 1
+cleansable 2
 clankety 2
 cellists 1
 cleanse 2
@@ -16455,7 +16455,7 @@ clocker 1
 clockhouse 1
 clockless 2
 cuon 2
-clockmaking 1
+clockmaking 2
 crewer
 clockwatcher
 cingulum
@@ -18012,7 +18012,7 @@ coembodied 1
 chronic
 coembodies
 chuse
-cordaitales
+cordaitales 1
 coembrace 3
 calcaneal 1
 coeminency 1
@@ -19096,7 +19096,7 @@ cardiasthma 1
 chloridizing 1
 collimated
 collimates
-collabent 2
+collabent 3
 collimation
 collimator 1
 considered 2
@@ -22580,7 +22580,7 @@ connaraceous 3
 cumaphytism 1
 connascency 1
 connate
-connately 1
+connately 2
 connateness
 crinate 2
 colonizability
@@ -23771,7 +23771,7 @@ contraproposal 1
 contraption 1
 contraptions
 contraptious 2
-capacitator
+capacitator 1
 compressional 1
 coadmires 1
 contrapuntally
@@ -31642,7 +31642,7 @@ curvograph 2
 curvometer 1
 cheeker
 carduelis 2
-conscripttion 1
+conscripttion 2
 curvulate 1
 cuscohygrin 1
 cruciferous 1
