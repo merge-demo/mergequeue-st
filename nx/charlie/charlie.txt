@@ -2081,7 +2081,7 @@ combats 2
 chandlery 1
 collapsar 1
 camoufleur 1
-chests
+chests 1
 cosherer 1
 camp 1
 campagi
@@ -19096,7 +19096,7 @@ cardiasthma 1
 chloridizing 1
 collimated
 collimates
-collabent 2
+collabent 3
 collimation
 collimator 1
 considered 2
