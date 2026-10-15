@@ -263,7 +263,7 @@ dissuitable 2
 dry 2
 dizzard 2
 dagomba 1
-daguerreotype 1
+daguerreotype 2
 downspout 2
 drouth 3
 degermed 2
@@ -6615,7 +6615,7 @@ dicarboxylate 2
 demembration 1
 dissevering 3
 diallelus 2
-djinns 1
+djinns 2
 demerol 1
 deperming 2
 dreamwhile 1
@@ -7876,7 +7876,7 @@ dihydrogen
 dewberries
 disbudding
 disbudder 1
-devocalised
+devocalised 1
 driveways
 dewclaws 4
 diaphonia 1
@@ -9371,7 +9371,7 @@ depulse 3
 dottels 4
 demasted 1
 dentirostres
-dautie 3
+dautie 4
 dulosis 2
 depurged 5
 disinflating 3
@@ -12199,7 +12199,7 @@ deathshot 1
 dervishes 1
 disfurniture
 donax 1
-disgarnish 2
+disgarnish 3
 descartes 1
 diplosome 1
 deliberativeness 3
