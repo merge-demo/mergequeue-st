@@ -941,7 +941,7 @@ equilibristic 2
 elaterium
 ecumenicism 1
 expulser 2
-embalming 2
+embalming 3
 entailments 3
 euchrone 3
 effronteries 2
@@ -1978,7 +1978,7 @@ educement 3
 epidemics
 ektenes 3
 expeditious
-excitableness
+excitableness 1
 elabor 3
 episternite 3
 evictees 2
@@ -3817,7 +3817,7 @@ emergentness 1
 espriella 3
 estamene 2
 emery 1
-europa 3
+europa 4
 emerying 1
 estatesmen 4
 emeril
