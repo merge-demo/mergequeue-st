@@ -2081,7 +2081,7 @@ combats 2
 chandlery 1
 collapsar 1
 camoufleur 1
-chests
+chests 1
 cosherer 1
 camp 1
 campagi
@@ -15770,7 +15770,7 @@ couma
 cleanliest 2
 clumpier 2
 cleanout
-cleansable 1
+cleansable 2
 clankety 2
 cellists 1
 cleanse 2
@@ -16455,7 +16455,7 @@ clocker 1
 clockhouse 1
 clockless 2
 cuon 2
-clockmaking 1
+clockmaking 2
 crewer
 clockwatcher
 cingulum
@@ -19096,7 +19096,7 @@ cardiasthma 1
 chloridizing 1
 collimated
 collimates
-collabent 2
+collabent 3
 collimation
 collimator 1
 considered 2
@@ -22580,7 +22580,7 @@ connaraceous 3
 cumaphytism 1
 connascency 1
 connate
-connately 1
+connately 2
 connateness
 crinate 2
 colonizability
