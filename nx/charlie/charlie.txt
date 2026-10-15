@@ -2548,7 +2548,7 @@ confraternities
 copiable 1
 candlelighting 1
 cohusband
-carvels 1
+carvels 2
 circumcinct
 candlemaker 1
 candlemaking 1
@@ -30061,7 +30061,7 @@ croupiness
 croupon 2
 croupous 2
 croups 1
-comparcioner 1
+comparcioner 2
 crouse 2
 crousely 1
 croustade 1
