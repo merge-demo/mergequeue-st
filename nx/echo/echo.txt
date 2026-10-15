@@ -4137,7 +4137,7 @@ emplunge 1
 eccentring
 empodia 1
 eclegm 4
-extracranial 1
+extracranial 2
 energids 2
 enslumber 1
 expungement 2
@@ -5353,7 +5353,7 @@ encashment 2
 eccentrometer 3
 endothermal 3
 ectopatagia 3
-erthling
+erthling 1
 echinocactus 1
 electively
 evangelium 1
