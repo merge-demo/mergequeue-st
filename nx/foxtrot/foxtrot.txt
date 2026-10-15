@@ -1198,7 +1198,7 @@ firmitude 1
 frigidity 2
 fenders 3
 flexural 2
-flinched 3
+flinched 4
 fatuities 3
 forethinking 2
 feodatory 1
@@ -5032,7 +5032,7 @@ flatbeds 3
 flanneling
 floush 1
 fungoidal 3
-ferries 1
+ferries 2
 fumatory
 forekeel 4
 faithbreaker 1
@@ -6128,7 +6128,7 @@ faraway
 faciata 5
 flourish 4
 fermion 2
-funambulism 1
+funambulism 2
 frostbow 1
 formamide 1
 fruitarianism 2

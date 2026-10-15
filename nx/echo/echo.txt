@@ -930,7 +930,7 @@ efform 2
 endocardium 1
 epoxied 3
 entada 2
-ecttypal 3
+ecttypal 4
 equates 2
 emanatory 1
 ecuadorian 2
@@ -1106,7 +1106,7 @@ eikons 1
 environage 2
 edition 3
 endere 1
-editorialization 1
+editorialization 2
 elsa 4
 ecphory 1
 expunction
@@ -4048,7 +4048,7 @@ empyreum 4
 exterminated
 empiricalness 2
 engorgement
-esquimau 2
+esquimau 3
 expositorily 1
 enforcement 1
 encrusting 1
@@ -13351,7 +13351,7 @@ encomendero
 ephoralty 2
 exponency 4
 educated 2
-exponentiates 3
+exponentiates 4
 eskar 2
 emboldening 2
 emilia 1
