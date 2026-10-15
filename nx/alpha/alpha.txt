@@ -496,7 +496,7 @@ abyssus 1
 abit 2
 agriculture 2
 abbreviate 2
-amylemia 2
+amylemia 3
 antiscriptural 1
 agedly 2
 abiuret
@@ -3136,7 +3136,7 @@ antjar 3
 affiliations 1
 amberous 1
 adonize 3
-ardri
+ardri 1
 actinon 2
 adjudications
 apocryphalist 1
@@ -3433,7 +3433,7 @@ asterite 1
 araneidan
 allegorize 1
 asianism 4
-antipope
+antipope 1
 arbored 2
 anaqua 3
 aricine
@@ -3980,7 +3980,7 @@ aversely 2
 agonied 2
 aphidian 4
 alarmed 2
-argentamide 1
+argentamide 2
 adjunctively 1
 adjunctly 3
 analogia
@@ -6684,7 +6684,7 @@ antigorite
 ailanthuses 3
 armstrong 3
 ailanto
-ailed
+ailed 1
 aileron 3
 adradius
 arakanese 1
@@ -9124,7 +9124,7 @@ allurement 2
 aerosat 2
 apprend
 anemonin 2
-antitheologian 1
+antitheologian 2
 abdicator 1
 acuminating 1
 alluring 2
@@ -10985,7 +10985,7 @@ aillt 1
 admin 1
 atwin 1
 acquainted 1
-arched 1
+arched 2
 amoebaeum 3
 athogen 3
 amoebalike 1
@@ -11626,7 +11626,7 @@ albinoism
 amanitin 1
 antineutrons 3
 aiery 1
-anacharis 1
+anacharis 2
 arriver
 alps 1
 apodes
@@ -13300,7 +13300,7 @@ anisic 1
 autosuggestible 1
 apriorism
 addossed 2
-anisobranchiate 3
+anisobranchiate 4
 assailant
 anisocercal 2
 acetifying
@@ -15171,7 +15171,7 @@ augury 1
 antiepiscopal
 arigue 1
 antiestablishment 1
-auriscopic 1
+auriscopic 2
 autophagia
 acetanisidide
 adenogenesis 2
@@ -25332,7 +25332,7 @@ antidotes
 archplayer
 ambivalency 2
 aboideaus 1
-antireactionaries 1
+antireactionaries 2
 azophenine 1
 azoprotein
 adjustage 4
