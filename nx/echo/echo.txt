@@ -1155,7 +1155,7 @@ educatability 1
 earlaps 1
 eident 2
 enwisen 1
-educatable 2
+educatable 3
 educatedness 3
 electrolyzable 2
 eudiometric
@@ -3578,7 +3578,7 @@ enchantery 1
 emanent 1
 edifier 2
 electrolytical 2
-extracellularly 2
+extracellularly 3
 excelsin 1
 emydes 2
 eventerate 1
@@ -4651,7 +4651,7 @@ esthematology 1
 epanaphora 2
 electromagnetism
 electroencephalographs 3
-egomania 3
+egomania 4
 enmuffle 3
 entrammel 3
 ensuance 4
@@ -6994,7 +6994,7 @@ emication 2
 eglatere 3
 enepidermic 1
 eliquate 2
-excorticated 1
+excorticated 2
 enheritance 1
 exclamation
 engilded 1
@@ -8450,7 +8450,7 @@ everness 3
 epileptoid 1
 ergatandrous 4
 exterminators 2
-electrodissolution 2
+electrodissolution 3
 eydent 3
 expansions 1
 externally 3
@@ -9196,7 +9196,7 @@ epiderm 4
 erotylidae 3
 enlarges 3
 extremer 1
-etheric 1
+etheric 2
 esebrias 1
 educatedly 1
 excerption 4
@@ -10863,7 +10863,7 @@ envineyard 1
 elaeoblastic 4
 enchase 4
 eisteddfodau 6
-euphotic 1
+euphotic 2
 entailable 3
 eradicatory 1
 equitability 6
