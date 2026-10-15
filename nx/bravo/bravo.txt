@@ -1867,7 +1867,7 @@ bandanaed 4
 battlepiece
 bollito
 bandeau 5
-betula 1
+betula 2
 boyology 1
 bancus
 backstabber
@@ -2790,7 +2790,7 @@ beachless
 bhp 4
 brawler
 barrowman 2
-balletomanes
+balletomanes 1
 baudrons 1
 bowlers 1
 beflowering 1
@@ -4377,7 +4377,7 @@ boehmites 2
 brickier
 bullimong
 becky 1
-beckoner 3
+beckoner 4
 buriat 2
 bedizened 2
 beati 3
@@ -5696,7 +5696,7 @@ bridegroomship 1
 barkpeeling 1
 bluism 1
 berreaved
-belgard 1
+belgard 2
 beater 2
 belgrade 3
 bogwood 1
