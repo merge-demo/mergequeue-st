@@ -1492,7 +1492,7 @@ affixable 2
 archaisms 2
 amortize 1
 acclimatise 5
-acclimatiser 3
+acclimatiser 4
 acclimatising
 aegagrus 1
 applewood 3
@@ -7267,7 +7267,7 @@ ardent
 alange
 antigonococcic 1
 arthrectomies
-alangium 4
+alangium 5
 anchors 3
 auditive 1
 alanines
