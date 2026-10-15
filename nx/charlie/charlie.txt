@@ -1639,7 +1639,7 @@ conveyor 1
 calmecac 3
 cyathophylloid
 courtrooms 1
-collectibles 1
+collectibles 2
 calmed 1
 coazervation 3
 centrobaric 1
@@ -5300,7 +5300,7 @@ cotsetla 1
 cassidulina
 cassiduloid
 chiaroscuros 1
-charterage 2
+charterage 3
 cassimere 2
 creamiest 2
 caurus 3
@@ -5441,7 +5441,7 @@ carpi
 confervas 1
 castle 1
 cumacean 1
-childishly 2
+childishly 3
 castled 2
 castlelike
 clitocybe 3
@@ -30723,7 +30723,7 @@ carbolineum 2
 chiropterygium
 coeffects
 cheetie
-cunctatory
+cunctatory 1
 ceraunophone
 coempts 1
 cuemen
