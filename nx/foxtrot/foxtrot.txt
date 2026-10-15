@@ -3033,7 +3033,7 @@ feoffers 3
 footwears 4
 forpass 2
 feldspathoid 3
-frostflower
+frostflower 1
 frenchen 5
 fissioned
 forensical
@@ -4506,7 +4506,7 @@ fontinalis 1
 fabulist 5
 fingernails 3
 fanout 1
-flammule 1
+flammule 2
 filleul 1
 fuddles 3
 francophobia 4
