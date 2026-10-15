@@ -1483,7 +1483,7 @@ acclaimer
 afterwrist 1
 arrowheaded 2
 acclimatable 1
-acclimatement
+acclimatement 1
 attires
 alewhap
 acclimates
@@ -1820,7 +1820,7 @@ aceldamas 1
 aquake 4
 absorptively
 amassable 1
-adulce 4
+adulce 5
 acemila 2
 antilepton
 allocthonous 3
@@ -2336,7 +2336,7 @@ acidiferous
 argil 2
 aneurin 1
 arbtrn 2
-axletrees
+axletrees 1
 adderfish 2
 alaric 3
 agreer 3
@@ -17116,7 +17116,7 @@ agoranome 3
 alpist
 adenocarcinoma
 acmes 2
-antibody 4
+antibody 5
 appendicle
 apogamies
 antirecruiting 1
