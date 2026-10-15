@@ -15846,7 +15846,7 @@ capacitance 3
 clechee
 constants 1
 contredanses
-cleck
+cleck 1
 commune
 coassumes 2
 chelidonate
