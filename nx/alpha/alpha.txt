@@ -1488,7 +1488,7 @@ attires
 alewhap
 acclimates
 acclimatisation 4
-affixable 2
+affixable 3
 archaisms 2
 amortize 1
 acclimatise 5
@@ -3345,7 +3345,7 @@ alvina 1
 autophotograph 1
 apx 1
 amblychromatic 2
-anomurous 2
+anomurous 3
 agawam 3
 amorphously
 adactylous 1
@@ -6684,7 +6684,7 @@ antigorite
 ailanthuses 3
 armstrong 3
 ailanto
-ailed
+ailed 1
 aileron 3
 adradius
 arakanese 1
@@ -10985,7 +10985,7 @@ aillt 1
 admin 1
 atwin 1
 acquainted 1
-arched 1
+arched 2
 amoebaeum 3
 athogen 3
 amoebalike 1
@@ -21295,7 +21295,7 @@ averaged 2
 asideu 4
 asylabia 1
 acalyptrata 1
-abscess
+abscess 1
 akhissar 1
 asilidae 1
 acronycta
@@ -22915,7 +22915,7 @@ arzun 1
 atour 1
 amitie 1
 adjutants 2
-annat
+annat 1
 aniseroot 1
 atragene
 amphineura
@@ -24674,7 +24674,7 @@ anacamptic 3
 avenolith
 avshar 1
 axiom
-alypine 1
+alypine 2
 aspirants 2
 anisogeny 4
 absumption 1
