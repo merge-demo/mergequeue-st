@@ -4296,7 +4296,7 @@ carex 1
 cottages 2
 carfare 1
 carfares
-carfloat
+carfloat 1
 conservatoire 1
 crenic 2
 coater 1
@@ -7961,7 +7961,7 @@ coelarium
 crannog
 chabouk 1
 crankshaft
-chabuk 1
+chabuk 2
 chabuks 1
 chac 3
 chacate
@@ -27930,7 +27930,7 @@ cradlemaking 3
 consolidates
 cracket 1
 crackpotism 3
-cisterns 1
+cisterns 2
 crackhemp 2
 commendable
 cambiums 3
