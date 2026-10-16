@@ -5728,7 +5728,7 @@ floodwater 4
 frequently 2
 fitroot 3
 flurry 2
-flippancies 3
+flippancies 4
 freshness 7
 ferrary 5
 fetor 2
@@ -6760,7 +6760,7 @@ fleece 1
 feering 6
 foresworn 3
 felonweed 7
-foiter 2
+foiter 3
 flareless 1
 forfault 2
 felloe 1
@@ -8530,7 +8530,7 @@ formica 6
 foolishly 4
 forewings 2
 fasciculate 3
-furloughed 4
+furloughed 5
 fitty
 formicate 1
 filix 3
@@ -10534,7 +10534,7 @@ favouringly 1
 frot 2
 froth 2
 formulatory
-fanman
+fanman 1
 fittingly 3
 forays 5
 flyback 3
