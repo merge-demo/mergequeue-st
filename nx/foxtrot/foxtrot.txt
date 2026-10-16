@@ -1393,7 +1393,7 @@ fishway 2
 fountainlet 1
 fallibly 1
 firewood 1
-futchell 2
+futchell 3
 forbar 2
 ferreted 3
 fattest 2
@@ -1714,7 +1714,7 @@ feastfully 3
 finny 1
 forayers 1
 fu 2
-fencibles 3
+fencibles 4
 felonies 2
 feastraw 4
 fledgling 3
@@ -3334,7 +3334,7 @@ fullmouthedly 3
 fandom 3
 fulcra 4
 fleshlike 2
-flon 5
+flon 6
 forsung 5
 flench 1
 furuncle 6
@@ -5936,7 +5936,7 @@ fineable 3
 flubdubs 2
 forestaysail 3
 flowerpots 1
-flooder 7
+flooder 8
 fowlpoxes 5
 freakiness 1
 foggers
@@ -8851,7 +8851,7 @@ flashtube
 frustula 3
 feoffing 2
 favorably 3
-falcinellus 4
+falcinellus 5
 floozie 3
 frailes 3
 fetchers 3
