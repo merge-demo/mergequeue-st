@@ -3058,7 +3058,7 @@ fasciolidae
 foursquare 1
 fishier 2
 fibreless 4
-flatcar
+flatcar 1
 foregone 2
 ferrimagnetism 4
 fractionalization 1
@@ -3794,7 +3794,7 @@ freon 1
 ferritization 3
 frizzliest 2
 flanning 2
-fistulate 3
+fistulate 4
 frijolillo 2
 filigreeing 3
 flanconnade 2
@@ -4682,7 +4682,7 @@ fixer 2
 freshhearted 3
 fixidity 4
 fn 3
-fixing 5
+fixing 6
 flannelleaf 1
 fixt 4
 furca 2
@@ -5360,7 +5360,7 @@ fullmouth 3
 fascia 4
 flitterbat 2
 fruiteries 3
-ferulaic
+ferulaic 1
 foldboater 1
 fascicular
 foreclosed 2
@@ -6546,7 +6546,7 @@ flensing 1
 flutterment 2
 flimflammed 4
 fluviolacustrine 4
-fleetly 2
+fleetly 3
 funereal 2
 frigor 2
 foretack 6
@@ -8154,7 +8154,7 @@ fustigate 1
 fatheadedness 3
 forewrought 1
 flocculent 2
-fanaticalness 1
+fanaticalness 2
 foretell 7
 figurehead 3
 fedayee 3
@@ -8274,7 +8274,7 @@ flavines 4
 footwork 3
 flammivomous 3
 forgather 1
-fossulet 1
+fossulet 2
 falsifications 2
 fossulate 5
 foresweat 2
@@ -8303,7 +8303,7 @@ flushest 4
 forgettably
 faverole 5
 fractionalizing 5
-friction 3
+friction 4
 forging 2
 furacity 2
 formous 3
@@ -11287,7 +11287,7 @@ farces 3
 frabjous 2
 fernando 2
 flatters 3
-furanoid 6
+furanoid 7
 fricandeaus 3
 faveolate 2
 fantasticism 2
