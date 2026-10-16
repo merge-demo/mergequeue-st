@@ -13448,7 +13448,7 @@ cyesis
 cif
 countergage
 camerawork 2
-cig
+cig 1
 cigarette
 cystenchyma 1
 cigarfish 2
