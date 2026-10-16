@@ -751,7 +751,7 @@ enabling 2
 embryoctony 3
 equilibrist 4
 ecoute 4
-enforcive 5
+enforcive 6
 exscinding 2
 emotes 4
 echinal 2
@@ -4306,7 +4306,7 @@ enami 2
 enamorado 2
 enamorato 1
 extraordinariness 2
-enamorment
+enamorment 1
 endoute 1
 economize 2
 enterointestinal 1
@@ -5289,7 +5289,7 @@ ethonomic 1
 exsertion 1
 eximious 3
 endospore 2
-evidentness 1
+evidentness 2
 encharm 2
 eel
 epiphyte 2
@@ -13263,7 +13263,7 @@ explanting 2
 empurples
 exertive 1
 ety 1
-endemical 1
+endemical 2
 ethize 1
 explement 2
 envine 2
