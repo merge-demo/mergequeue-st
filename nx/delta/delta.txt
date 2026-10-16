@@ -1557,7 +1557,7 @@ deactivation 1
 deactivators 1
 distressedness 1
 doublure 1
-drail 1
+drail 2
 deaden 4
 droops 3
 docked 1
@@ -4712,7 +4712,7 @@ dividedness 1
 democratisation
 democratise 4
 dispells 1
-disasters 3
+disasters 4
 decker 2
 democratised 4
 dendropogon
