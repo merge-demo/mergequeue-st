@@ -5976,7 +5976,7 @@ fanwright 3
 fudging 3
 firetrap 4
 fomites 4
-freeloader
+freeloader 1
 ferguson 2
 favism 3
 firkin 3
@@ -6651,7 +6651,7 @@ foeless 1
 faulted 2
 fulgurating 1
 forenotice 6
-foemanship 2
+foemanship 3
 fripperer 1
 foemen
 fogyish 4
@@ -8118,7 +8118,7 @@ fulminated 2
 foveolae 2
 funkiest 4
 flatcar 3
-fundi 4
+fundi 5
 furify 4
 foreswore 1
 flavouring 6
@@ -8303,7 +8303,7 @@ flushest 4
 forgettably
 faverole 5
 fractionalizing 5
-friction 3
+friction 4
 forging 2
 furacity 2
 formous 3
@@ -11598,7 +11598,7 @@ floscular 7
 fissional 1
 foregallery
 fussbudgety 8
-fevers 3
+fevers 4
 filtrates 4
 forkhead 1
 fussers 6
