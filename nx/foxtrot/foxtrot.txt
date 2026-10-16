@@ -311,7 +311,7 @@ fplot 5
 fluxionary 2
 feods 3
 forces 5
-fail 3
+fail 4
 fireplough 4
 faineancy 5
 fayles 1
@@ -2564,7 +2564,7 @@ flimp 1
 ferricyanide 3
 fervency 1
 freshmanship 1
-feedsman 1
+feedsman 2
 femorotibial 5
 fiduciaries 5
 fanti 1
@@ -7911,7 +7911,7 @@ fistful 5
 fause 1
 firmaments 7
 flourishingly 4
-factualist 2
+factualist 3
 florent 2
 fusillades 3
 froeman 2
