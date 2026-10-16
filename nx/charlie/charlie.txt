@@ -9100,7 +9100,7 @@ charta 2
 chartable
 charter
 charterer 2
-charterers
+charterers 1
 charterhouse 1
 chartering
 charterism
@@ -11578,7 +11578,7 @@ chimachima 1
 countermeasure 1
 cholecystenterorrhaphy 2
 cholecystenterostomy 2
-cholecystgastrostomy 1
+cholecystgastrostomy 2
 carburisation 1
 cholecystic
 cholecystis 4
@@ -16551,7 +16551,7 @@ columellate 1
 collation 1
 clappermaclaw
 cloistering
-cheeky 1
+cheeky 2
 comal 4
 culet 1
 croupes 2
@@ -17276,7 +17276,7 @@ clarions
 corresol 2
 churrigueresque
 coapparition
-calyciflorous
+calyciflorous 1
 coappearance 1
 coappeared 1
 coappearing 1
@@ -18422,7 +18422,7 @@ cognized
 cognizes
 cognizing
 crescive
-cognizor 2
+cognizor 3
 cognomens 1
 claught 1
 carnally 2
@@ -21439,7 +21439,7 @@ conclusory 1
 calybite 1
 conclusum 1
 caseful 1
-chapellage 2
+chapellage 3
 concoagulate 2
 congestions 2
 cannibality
@@ -27898,7 +27898,7 @@ coreid 1
 crabwise 2
 crabwood 1
 cracca
-craccus 2
+craccus 3
 crachoir
 cupeled 1
 courtesies 1
@@ -30044,7 +30044,7 @@ crushers
 croupe
 cabochons
 crouperbush 2
-compulsions 1
+compulsions 2
 cuggermugger 1
 caripuna
 clearstarch 1
@@ -31024,7 +31024,7 @@ cumyl 2
 congos
 carbethoxy 2
 clead
-ceriops 2
+ceriops 3
 carroms 3
 clairaudiently 1
 capitalize 1
