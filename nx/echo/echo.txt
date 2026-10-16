@@ -751,7 +751,7 @@ enabling 2
 embryoctony 3
 equilibrist 4
 ecoute 4
-enforcive 5
+enforcive 6
 exscinding 2
 emotes 4
 echinal 2
@@ -4306,7 +4306,7 @@ enami 2
 enamorado 2
 enamorato 1
 extraordinariness 2
-enamorment
+enamorment 1
 endoute 1
 economize 2
 enterointestinal 1
@@ -5289,7 +5289,7 @@ ethonomic 1
 exsertion 1
 eximious 3
 endospore 2
-evidentness 1
+evidentness 2
 encharm 2
 eel
 epiphyte 2
@@ -5720,7 +5720,7 @@ engiscope 2
 enigmatization 1
 engystomatidae 2
 enatic 5
-entamoeba 3
+entamoeba 4
 etherol
 extinguish
 eke 3
@@ -7868,7 +7868,7 @@ exotospore 4
 entomeric 2
 exuccous 3
 exarchic 3
-enlargement 1
+enlargement 2
 ethonone 1
 euphemistic 1
 eclampsia 2
@@ -7998,7 +7998,7 @@ epiphytology
 entertaining 1
 embezzlements
 enteroscope 1
-expansiveness 1
+expansiveness 2
 estats 1
 expiator 2
 ethane 3
@@ -10658,7 +10658,7 @@ enwall 2
 epinephrine
 empurpling 3
 excamber 5
-elopers 2
+elopers 3
 epithet 1
 excusingly 1
 eastlake 3
@@ -11905,7 +11905,7 @@ earthily
 emotivism 2
 excentric 1
 eumeromorphic 2
-erysimum 3
+erysimum 4
 essenic 2
 entrepot 3
 emits 1
@@ -13263,7 +13263,7 @@ explanting 2
 empurples
 exertive 1
 ety 1
-endemical 1
+endemical 2
 ethize 1
 explement 2
 envine 2
