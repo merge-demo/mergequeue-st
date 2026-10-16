@@ -1557,7 +1557,7 @@ deactivation 1
 deactivators 1
 distressedness 1
 doublure 1
-drail 1
+drail 2
 deaden 4
 droops 3
 docked 1
@@ -2762,7 +2762,7 @@ dairymen 4
 deltoideus
 decreer 1
 decurrently
-diamondized 3
+diamondized 4
 decreet 1
 desmogen
 dugal
@@ -3595,7 +3595,7 @@ degenerately 1
 degenerateness 2
 degenerescence 1
 diammonium 1
-degeneroos 2
+degeneroos 3
 degerm 3
 dihalogen 2
 donnish
@@ -4712,7 +4712,7 @@ dividedness 1
 democratisation
 democratise 4
 dispells 1
-disasters 3
+disasters 4
 decker 2
 democratised 4
 dendropogon
@@ -4736,7 +4736,7 @@ dejected
 diabolatry 1
 disgracing 1
 dangs
-dpt 4
+dpt 5
 dilated
 detours 1
 dismisser
@@ -17705,7 +17705,7 @@ demarcate
 dualmutef 2
 dualogue 2
 disparaged 1
-disrespectability 3
+disrespectability 4
 dense 1
 disgradulate 2
 duan 1
