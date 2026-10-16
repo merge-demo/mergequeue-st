@@ -1040,7 +1040,7 @@ eidolon 1
 edger
 edgeshot
 earthen 1
-embalmment
+embalmment 1
 ephrathite 2
 exterritorial 4
 encephaloscope 4
@@ -1889,7 +1889,7 @@ eisegetical 3
 erasing
 enhat 1
 eisenberg 1
-epidermization 4
+epidermization 5
 envault 3
 emulsin 4
 ectorhinal 4
