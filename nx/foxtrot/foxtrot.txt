@@ -1727,7 +1727,7 @@ feoffors
 forfare 2
 foreshore 4
 floriferous 4
-freedman 1
+freedman 2
 foveal 2
 feeded 3
 forecastlemen 4
@@ -1848,7 +1848,7 @@ feastless 2
 fayettism 4
 feloid 1
 febrile 3
-forrue 1
+forrue 2
 fcs 2
 forfeit 2
 fibrinogenically 2
@@ -2665,7 +2665,7 @@ flashy 2
 feckulence 3
 ferter 3
 felliducous 1
-fittyways 6
+fittyways 7
 flamb 3
 fertile 1
 farcers
@@ -3017,7 +3017,7 @@ fruits 2
 faintheartedness 2
 forma
 fiascos 4
-ferricyanogen 2
+ferricyanogen 3
 ferrotype 3
 fulgurantly 4
 fortepiano 3
@@ -3198,7 +3198,7 @@ fermentitious 3
 freeholds 1
 fickle 6
 feeblest 1
-fixage
+fixage 1
 fiches 2
 findjan 3
 feracious 2
@@ -3630,7 +3630,7 @@ foregut 3
 filiformed 4
 footmaker 5
 frisbees 3
-flook 1
+flook 2
 farmable 2
 fridstool 1
 flashing 5
@@ -9372,7 +9372,7 @@ flummydiddle 2
 fundamentalness
 freath 1
 flees 2
-flane 4
+flane 5
 fewmets 2
 fortuuned 1
 fromward 2
@@ -11324,7 +11324,7 @@ formatted 3
 feverfew 1
 firesides 2
 fraternize
-fleabite 5
+fleabite 6
 faultfinding 5
 fluoroscopic 1
 fossilogist 3
