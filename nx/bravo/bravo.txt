@@ -366,7 +366,7 @@ backframe 4
 bottegas 1
 backgame 1
 backgammon
-board
+board 1
 barbarical 3
 barwares 1
 breaststroke 2
