@@ -3647,7 +3647,7 @@ adamhood 1
 amputating 2
 antimonite 1
 adelphian
-adelphic 1
+adelphic 2
 anisoiconia 2
 adelphous 1
 adipsous 2
@@ -7841,7 +7841,7 @@ aldolization
 anconei 2
 aushar 2
 aldolized
-aldolizing 1
+aldolizing 2
 aldols 5
 aldose 2
 aldoside 1
@@ -9662,7 +9662,7 @@ antiblue 2
 allgood 5
 airworthiest 2
 aluminising 2
-aluminize
+aluminize 1
 aviary 1
 archer 1
 asserted 1
@@ -11291,7 +11291,7 @@ abrege 1
 atchison
 arzrunite
 amphimictic 3
-antired 1
+antired 2
 amphimorulae 1
 ampullaceous 1
 amphioxuses
@@ -15011,7 +15011,7 @@ anticor 2
 anticorona
 anticorrosiveness 1
 animose 3
-anisidino
+anisidino 1
 alsatia 2
 antivaccinationist 1
 anapophyses 1
@@ -17942,7 +17942,7 @@ absorbents
 apprompt 2
 aloud
 appropinquate 1
-adactyl 1
+adactyl 2
 appropinquation 1
 amalgamation 2
 ahind

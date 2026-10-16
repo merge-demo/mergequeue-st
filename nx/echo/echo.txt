@@ -66,7 +66,7 @@ eastness 5
 etiam 1
 entapophysial 1
 educationalism
-ensphere
+ensphere 1
 ellebore 3
 embrown 2
 ellfish 4
@@ -398,7 +398,7 @@ eulerian 5
 evangelist 2
 entrenching 3
 extruct 1
-erythrinus 3
+erythrinus 4
 espanol 2
 echowise 1
 essera 1
@@ -567,7 +567,7 @@ ecclesiastes 1
 electrostatically
 excommunicates 1
 electromeric 3
-explicator 3
+explicator 4
 elocutionize
 extraperineal 3
 egomanias 2
@@ -751,7 +751,7 @@ enabling 2
 embryoctony 3
 equilibrist 4
 ecoute 4
-enforcive 5
+enforcive 6
 exscinding 2
 emotes 4
 echinal 2
@@ -4306,7 +4306,7 @@ enami 2
 enamorado 2
 enamorato 1
 extraordinariness 2
-enamorment
+enamorment 1
 endoute 1
 economize 2
 enterointestinal 1
@@ -5289,7 +5289,7 @@ ethonomic 1
 exsertion 1
 eximious 3
 endospore 2
-evidentness 1
+evidentness 2
 encharm 2
 eel
 epiphyte 2
@@ -6075,7 +6075,7 @@ epifauna 2
 epirrhema 2
 electrocardiography
 enlightenment 2
-enticing 2
+enticing 3
 eructates
 eunomianism 4
 enlinkment 3
@@ -10494,7 +10494,7 @@ ettercap 3
 ettirone 1
 escalan 3
 equaller
-ettle 5
+ettle 6
 ecclesiolatry 2
 eucgia 4
 eucrasy 2
@@ -13263,7 +13263,7 @@ explanting 2
 empurples
 exertive 1
 ety 1
-endemical 1
+endemical 2
 ethize 1
 explement 2
 envine 2
@@ -13664,7 +13664,7 @@ evited 1
 erme 1
 extends
 eponychium 3
-extensibility 2
+extensibility 3
 euphemization 1
 extranational 2
 epilemma 3
@@ -13712,7 +13712,7 @@ exteriorness 2
 ether 5
 espec 1
 emotionlessness 3
-etiotropic 1
+etiotropic 2
 eurygnathic
 exterminatrix 2
 extraconscious
