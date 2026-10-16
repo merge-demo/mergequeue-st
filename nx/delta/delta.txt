@@ -2784,7 +2784,7 @@ desalination
 delphinus
 duodecahedron 2
 decrescent 3
-deknight
+deknight 1
 desulfured 2
 dioptrical 4
 droller 1
@@ -7917,7 +7917,7 @@ dramaticule 2
 devilries 3
 distilery 4
 dowitch 1
-didapper 2
+didapper 3
 demur 2
 doublets 2
 dex
@@ -9957,7 +9957,7 @@ dewdrop 3
 didactics 1
 dramaturgist 2
 diminutions
-deener 3
+deener 4
 diminutive
 deindustrialization 2
 dimissaries 1
