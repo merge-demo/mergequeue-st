@@ -2006,7 +2006,7 @@ eskimo 4
 etruscans 1
 ectobronchium 4
 electrometeor
-entamebic 1
+entamebic 2
 eligibleness 1
 encephalometric 3
 electrograph 5
@@ -2624,7 +2624,7 @@ electroreduction 1
 endamoebiasis 1
 eunuchising 1
 edh 2
-eupneic
+eupneic 1
 enchondromata 1
 electroresection 2
 epoptes 1
@@ -4899,7 +4899,7 @@ emulsifiable 4
 embole 1
 endowed
 expertly 3
-entopical 1
+entopical 2
 epineurial 3
 enthronise 1
 exigenter 1
@@ -6042,7 +6042,7 @@ eupepsias 3
 extensionless
 emydinae 4
 ecumenicalism 3
-erotization 4
+erotization 5
 exposer 2
 evenhandedly 1
 eluant 1
@@ -6632,7 +6632,7 @@ enterorrhaphy 2
 enhalo 3
 extradoses 2
 eutychianism 2
-electromotiv 2
+electromotiv 3
 enchelycephali 2
 elaterin 2
 enterosepsis
@@ -6741,7 +6741,7 @@ entiris 2
 extinguishing 1
 exasperate 1
 embryoniform 2
-excurvation 2
+excurvation 3
 entitle 2
 elixed 2
 evangelistarion 1
@@ -14160,7 +14160,7 @@ escapists 2
 episcopising
 entredeux 2
 examinations 2
-ecdysiast
+ecdysiast 1
 ethmopalatine 3
 extubation 4
 encinctured 1
