@@ -15235,7 +15235,7 @@ brushman 4
 blockheadedness 1
 bryce 1
 brick 2
-battened
+battened 1
 brickbat 3
 buttonholed 1
 blackstrap 2
