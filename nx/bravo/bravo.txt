@@ -3739,7 +3739,7 @@ battledores 1
 bywork 1
 barotraumata
 bronteon 1
-battlefronts 1
+battlefronts 2
 bringall
 brucella 2
 barnstorms 2
@@ -6191,7 +6191,7 @@ barbless
 buchmanism 3
 bifurcation 2
 befinger 1
-beadhouse 1
+beadhouse 2
 biliary 2
 buttinsky 2
 breedbate
