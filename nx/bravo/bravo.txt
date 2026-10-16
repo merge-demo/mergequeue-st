@@ -2862,7 +2862,7 @@ barracouta 1
 brushlessness 1
 bicep 1
 blanketless 2
-barrad
+barrad 1
 bridebowl 2
 boskage
 biform
@@ -3277,7 +3277,7 @@ brazil 2
 bushland 1
 broader 2
 boniform 4
-blunderful 1
+blunderful 2
 blacklegism 3
 basinet 1
 basinets 2
@@ -6456,7 +6456,7 @@ borderings 2
 bergmannite 4
 bilati
 bilharzia 1
-beothukan 2
+beothukan 3
 bellicose 1
 braggartly 2
 boschbok
@@ -6578,7 +6578,7 @@ brazenly 3
 berdash 2
 booming 1
 birotation 2
-blotter 1
+blotter 2
 bluff 4
 betons 4
 blastular 2
@@ -9801,7 +9801,7 @@ bistres 3
 boeotarch 1
 brights 2
 borg 3
-bewitching
+bewitching 1
 barleymow 1
 beanpoles 1
 beja 1
@@ -9834,7 +9834,7 @@ beneplacito 4
 blackballing 1
 bandonion 4
 biteable 2
-begin 2
+begin 3
 bonapartean 1
 bongo
 bawd 2
@@ -10220,7 +10220,7 @@ bryaceous 3
 breads 3
 britany 5
 backwort 2
-bootstraps 1
+bootstraps 2
 bondhold
 blvd 2
 bloodletter 1
@@ -11624,7 +11624,7 @@ battledored 3
 benefactrix
 bolis 1
 brachyural
-biunivocal 3
+biunivocal 4
 barche
 boarspear
 balloter
@@ -12381,7 +12381,7 @@ blackbutt 1
 brickwall
 boombox 3
 boner 1
-beget 4
+beget 5
 bluishness 1
 bedizening 1
 bulgarian 6
@@ -12397,7 +12397,7 @@ bombardelle 3
 bon
 backrope
 barenesses 4
-bonacis 3
+bonacis 4
 bootblack 1
 bonagh 2
 bonang 2
@@ -15541,7 +15541,7 @@ botanophilist 1
 brynhild 2
 burn 3
 blist 1
-barbes 1
+barbes 2
 bebar 5
 boyce 1
 burin 1
@@ -15661,7 +15661,7 @@ busser 1
 britishism 4
 boultell 2
 barley 1
-bridlewise 5
+bridlewise 6
 boza 1
 brittany 3
 brittle 3
@@ -16222,7 +16222,7 @@ bezaleelian 2
 blote 2
 bithynian 3
 bridget 1
-brotuliform
+brotuliform 1
 bespangled 2
 brougham 4
 betulin 1
@@ -16534,7 +16534,7 @@ budzat 3
 bandeaux 1
 broadpiece
 bisellium 1
-bisonant 1
+bisonant 2
 brutely 1
 blindstitch 2
 basils 2
