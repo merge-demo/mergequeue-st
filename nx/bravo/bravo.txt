@@ -1396,7 +1396,7 @@ beringed 2
 bruisewort 2
 blots 3
 baldhead 1
-bilestone 1
+bilestone 2
 baldheads 3
 bilcock 1
 borneols 4
@@ -5154,7 +5154,7 @@ before 1
 biotic
 boomorah 1
 blende 3
-broadside
+broadside 1
 beggarer 2
 buccinatory 1
 bagpod
@@ -6663,7 +6663,7 @@ berycomorphi 3
 bunsenite
 berigora 4
 beryllonate 2
-beseemly 1
+beseemly 2
 boyg 1
 basiotribe 1
 bering 1
@@ -8437,7 +8437,7 @@ bacony 3
 beaverette 2
 bocage 2
 burtons
-bonspell 3
+bonspell 4
 bleareye 2
 bittium 1
 bilaminar 2
@@ -8661,7 +8661,7 @@ bilobed 1
 bilocular 2
 braches 1
 bilophodont 2
-boshvark 2
+boshvark 3
 baxterian 2
 brattish 2
 boiko
@@ -9551,7 +9551,7 @@ breviger 1
 bellic 3
 brompicrin
 bakerdom 3
-bis
+bis 1
 borussian 2
 bachelorize 3
 besputter
@@ -11018,7 +11018,7 @@ brache 1
 backstairs 1
 bladelike 1
 bullyrags 2
-beswitch
+beswitch 1
 bromoethylene 2
 brassia 2
 breading
@@ -13971,7 +13971,7 @@ bromatium 2
 bluntie 2
 barwise 4
 bacteriofluorescin
-blunderbuss 3
+blunderbuss 4
 backstage 1
 borghese
 britons 2
@@ -14030,7 +14030,7 @@ bracer 2
 barrelfuls 2
 backbenchers 2
 boarishly 2
-bracery
+bracery 1
 blankeel 1
 belaboured 2
 barriguda 2
@@ -14426,7 +14426,7 @@ braining 1
 blobbing 2
 baken 4
 brothellike 3
-bacteroides
+bacteroides 1
 bemocked 3
 bisischiadic 2
 brainpan 1
@@ -15850,7 +15850,7 @@ barding 1
 bushfighter
 brainwash 1
 belittled 2
-battiks 1
+battiks 2
 broletti 1
 bi
 broletto 1
