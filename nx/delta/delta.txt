@@ -11319,7 +11319,7 @@ decorement 1
 delimiter 2
 dischevel 1
 diter 1
-dentalization
+dentalization 1
 desex 3
 dissimulator 3
 disci
