@@ -372,7 +372,7 @@ fall 4
 forbid 2
 fairfieldite 2
 facets 1
-fancifully 2
+fancifully 3
 fairground 8
 fairy 3
 fructuous 4
@@ -578,7 +578,7 @@ forpet 2
 fossilisation 1
 fulk 4
 forints 3
-feasted 1
+feasted 2
 fourchette 3
 featherdom 2
 finders 1
@@ -2359,7 +2359,7 @@ flunked 2
 friarly 3
 flounderingly 5
 funerary 2
-floorward 1
+floorward 2
 ferr 4
 favel 1
 femineity 2
@@ -11368,7 +11368,7 @@ flustrine 5
 fuchsin 5
 forfended 1
 furmenty 1
-foreassign 4
+foreassign 5
 fizzes 2
 frousier 1
 fluencies
