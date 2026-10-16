@@ -3128,7 +3128,7 @@ boosting 2
 boneset 2
 baselevel 2
 bismarck 3
-bowstringing 3
+bowstringing 4
 bustards 2
 boswellize 2
 basella
@@ -4664,7 +4664,7 @@ buildable 1
 barlows 3
 bedford
 brothier 1
-bedframes 1
+bedframes 2
 bouncers 3
 broomed 1
 bowdlerizes 2
