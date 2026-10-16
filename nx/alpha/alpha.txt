@@ -8465,7 +8465,7 @@ aesthesics
 augmentations 1
 angiography 3
 archology 3
-aftercost 1
+aftercost 2
 abiegh 1
 alkalinized
 arite 2
@@ -11260,7 +11260,7 @@ amphictyons 1
 anisospore 1
 amphid 1
 amphophile 3
-amphidiarthrosis 1
+amphidiarthrosis 2
 aryans 1
 amphidisc 2
 acridan
@@ -12368,7 +12368,7 @@ autotoxicity 1
 argentum 1
 ambay
 amiranha 1
-allopatric
+allopatric 1
 andantino
 annunciate 1
 almicore 2
@@ -18795,7 +18795,7 @@ apotropaism 2
 alebench 1
 adoxaceae
 angioneoplasm
-archeocyte 2
+archeocyte 3
 archeolithic
 ankhs 2
 archeopteryx
@@ -19064,7 +19064,7 @@ archpirate 1
 aviculidae 1
 adactylism 3
 alveated 1
-anticous 1
+anticous 2
 archplagiarist 1
 asinine 2
 airbrick 2
@@ -20911,7 +20911,7 @@ ambulating 1
 alveolar 1
 acetifies
 arthrogastra 4
-asbolane
+asbolane 1
 asbestoid 2
 asbestoidal
 abscondence 1
