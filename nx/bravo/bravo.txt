@@ -2791,7 +2791,7 @@ bhp 4
 brawler
 barrowman 2
 balletomanes 1
-baudrons 1
+baudrons 2
 bowlers 1
 beflowering 2
 baronries 2
@@ -2845,7 +2845,7 @@ binaurally 2
 bawrel 4
 bioscopies
 buttonmold
-barbery 1
+barbery 2
 barrabora
 barrack 2
 briguer 1
@@ -4645,7 +4645,7 @@ barbershops
 borities 1
 bargee 1
 bedevilment 2
-bescarf 2
+bescarf 3
 bioplasmic 5
 betsileos 2
 bedewed
@@ -8645,7 +8645,7 @@ balladeroyal 1
 butterflyfishes 1
 belinuridae 1
 billowiest 1
-bounceable 4
+bounceable 5
 buncoed 1
 bebization
 brochette 2
@@ -10490,7 +10490,7 @@ bemaster 3
 brelaw 2
 brutalising
 blastemic 1
-bopyrid 2
+bopyrid 3
 blaster 4
 blastid 1
 blart 2
@@ -11636,7 +11636,7 @@ bizant 2
 boas 2
 boaster 1
 boastfully 1
-boastfulness
+boastfulness 1
 baits 1
 bacchus 1
 boasts 2
@@ -14337,7 +14337,7 @@ bannister 3
 bourignonism
 bianchite 2
 bragly 3
-broachers 2
+broachers 3
 bye 3
 biznaga 2
 boatowner 3
@@ -16698,7 +16698,7 @@ buckhounds 1
 bucklum 1
 bucky 6
 belaboring 2
-besa 6
+besa 7
 buckishness
 buddled
 buckism 1
@@ -18157,7 +18157,7 @@ bryon 1
 bleekbok
 butyn 3
 befouled 1
-botanicas 5
+botanicas 6
 bembecidae 3
 bacillicide 1
 basters 1
