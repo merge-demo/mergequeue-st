@@ -3331,7 +3331,7 @@ endamages 3
 epileptic 1
 emancipator 3
 emarginated
-eventilate 2
+eventilate 3
 evildoing 1
 enteralgia 2
 epicnemial 4
@@ -5429,7 +5429,7 @@ eigenstate 1
 entitledness 2
 epistropheal 1
 edematous
-energical 2
+energical 3
 energid 2
 ensuing 3
 endoplasmic 4
@@ -13543,7 +13543,7 @@ epitomic 4
 epigrapher 5
 elinor 2
 ectosteal
-examine
+examine 1
 erogeny 3
 elephantous 4
 erotology 2
