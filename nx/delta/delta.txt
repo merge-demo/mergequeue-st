@@ -11974,7 +11974,7 @@ disencharm
 doctrix 1
 dotting 2
 disenclose 2
-daint
+daint 1
 diammine 3
 drawbolt 1
 decimus
@@ -16527,7 +16527,7 @@ dynamogenic 4
 dulciana 2
 diadrom
 deoculate 1
-dervishlike 1
+dervishlike 2
 despatcher 1
 darii 1
 dilucidate 1
@@ -18392,7 +18392,7 @@ desecrating 2
 dropling 2
 dreamish 2
 dorse
-denudative 3
+denudative 4
 dillue 3
 douches 2
 dibutyl 1
