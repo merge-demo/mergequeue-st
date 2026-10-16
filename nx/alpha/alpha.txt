@@ -15656,7 +15656,7 @@ archmagician
 ailment
 acoustics
 antinormality
-antinormalness 1
+antinormalness 2
 ambage 1
 anoxaemia 5
 aphidicolous 2
