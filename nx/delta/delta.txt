@@ -2943,7 +2943,7 @@ deduces 5
 droil 2
 dolt 2
 deducibility 1
-drawstop
+drawstop 1
 deducted 2
 devolatilized 6
 disseisoress
@@ -8117,7 +8117,7 @@ delineate 3
 dispositioned 3
 domesticized 2
 diacaustic 2
-diamminonitrate 2
+diamminonitrate 3
 diapasons 1
 destitution 4
 dipsetic 2
@@ -9394,7 +9394,7 @@ deploring 1
 djinni 3
 duplicator 1
 diffusers 3
-diffuses 1
+diffuses 2
 dillis 2
 dimidiation 2
 danaidean 2
@@ -16686,7 +16686,7 @@ dattock 2
 drainpipes 5
 dottedness 5
 depressor 1
-dabblers
+dabblers 1
 deeny
 drains
 drageoir 3
@@ -17180,7 +17180,7 @@ draegerman 1
 drillman 3
 discourser 3
 drylots 4
-dynamists
+dynamists 1
 drilvis
 deuterogelatose 6
 dringle 2
