@@ -327,7 +327,7 @@ estops 3
 eastre 2
 extramolecular 3
 empresse 1
-embleming 1
+embleming 2
 enleaf 1
 epirogenic 2
 exigible 3
@@ -1092,7 +1092,7 @@ exhibitorship 1
 erinite 1
 edwina 2
 extempory 1
-epeisodion 4
+epeisodion 5
 esterification 2
 electrotypes 3
 epicaridea 6
@@ -1139,7 +1139,7 @@ eutomous 1
 exorbitate 2
 emphasizes 2
 edoni 2
-excisemen 3
+excisemen 4
 entrochite 2
 edplot 4
 edrioasteroidea
@@ -1710,7 +1710,7 @@ employ 3
 epistilbite 3
 evang
 eyeground 3
-epornitically 1
+epornitically 2
 encephaloid 3
 enginery 3
 exasper 2
@@ -2585,7 +2585,7 @@ essaying
 embassies 3
 elysian 3
 electropathy 1
-electropathology 3
+electropathology 4
 electrophysiological 2
 eunectes 5
 electrocutioner
@@ -5712,7 +5712,7 @@ extraverted 1
 extemporised 2
 endofaradism 3
 encyclopaedism 2
-enolases
+enolases 1
 epilabrum 1
 enteroanastomosis 4
 emeerates 2
@@ -6730,7 +6730,7 @@ estatesman 2
 eyeletting 4
 enemied 2
 ergon 2
-educator
+educator 1
 entire 2
 epithumetic
 epinephelus 2
@@ -7876,7 +7876,7 @@ enclavement 2
 excoriable
 enneastylar 3
 engender
-enframes 3
+enframes 4
 ecclesiography 1
 ensiferi 4
 epaleaceous 4
@@ -8184,7 +8184,7 @@ epistasies 1
 energy 2
 enhancers 1
 enrapturedly 1
-estreating 2
+estreating 3
 electromagnetist 5
 epipharyngeal
 epilimnionia 3
@@ -8846,7 +8846,7 @@ eelworms 5
 enteron 2
 erewhile 6
 erewhiles 1
-ergane 2
+ergane 3
 emphysema 5
 ethnohistorically 2
 elfdom 3
@@ -9079,7 +9079,7 @@ encanker 2
 electroencephalographic 2
 ethinyl
 exsection 6
-exosmose 1
+exosmose 2
 enrockment 1
 empidonax 4
 escalloniaceae 1
@@ -10738,7 +10738,7 @@ enfavor 2
 entameba 3
 eaver 1
 enwraps 3
-exedra 2
+exedra 3
 elicitory 3
 etherializing 1
 equiformal 3
@@ -10986,7 +10986,7 @@ excluder 2
 eoan 1
 emydea 6
 estufa 5
-eupsychics 2
+eupsychics 3
 eurafric 1
 eurasianism 4
 eremites 1
@@ -11085,7 +11085,7 @@ electrine 4
 eusebian 4
 edifies 3
 epiblastema 5
-efforce 4
+efforce 5
 embryographic
 epiboulangerite 1
 enrail 5
@@ -12218,7 +12218,7 @@ enflame 1
 entrechats 1
 emanated
 elementalism
-emerized 3
+emerized 4
 excelse 4
 entreatingly 2
 execratively 1
@@ -13266,7 +13266,7 @@ ety 1
 endemical 2
 ethize 1
 explement 2
-envine 2
+envine 3
 edacity 1
 endocranium 1
 ephebeum 2
@@ -13908,7 +13908,7 @@ ethiop 4
 executancy 3
 euglobulin 5
 equivoque 2
-expo 1
+expo 2
 etamine 6
 exosmosis 1
 emollient 2
@@ -14098,7 +14098,7 @@ effeminate 2
 ethnologist 2
 esteem 2
 evolutionistically 1
-episternum 1
+episternum 2
 evils
 eliasite 2
 epimerised 3
