@@ -6315,7 +6315,7 @@ caupo 1
 coextension 1
 candelas 1
 catochus
-coheaded 2
+coheaded 3
 cumberlandite 1
 cestos
 cetiosauria
@@ -15723,7 +15723,7 @@ carshops 2
 coy 2
 carlisle 1
 clavipectoral 1
-chips
+chips 1
 comprehensives 1
 clavolet 1
 cumulonimbus 2
@@ -15965,7 +15965,7 @@ chicaning 2
 ceder
 castrato 1
 clerihews 1
-consence
+consence 1
 clerisies
 crimsoning 3
 certifiably 4
