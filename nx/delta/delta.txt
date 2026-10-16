@@ -1352,7 +1352,7 @@ daunters 1
 digraph 1
 dipentine 1
 demissive 2
-diploid 1
+diploid 2
 draftsperson 2
 doggerelize 3
 dompt 2
@@ -8228,7 +8228,7 @@ dell 2
 davainea 3
 ductus 2
 distrito 1
-diagnosed 1
+diagnosed 2
 diagnostical
 diagnostically 1
 diagnosticate 1
@@ -14244,7 +14244,7 @@ delubrubra 1
 drinkless
 die 3
 dormer 4
-ditalini 1
+ditalini 2
 devitalise 2
 dahoman
 disorienting 2
@@ -17890,7 +17890,7 @@ dismark 1
 denervate 1
 dabb
 dunst 2
-dezincing 1
+dezincing 2
 dudism 1
 defilement 4
 dudleya 3
@@ -18234,7 +18234,7 @@ duncical 2
 delamination 2
 donjons 1
 dispensary 3
-duncish 2
+duncish 3
 dechlog 1
 duncishness 2
 dermataneuria 1
