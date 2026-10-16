@@ -1282,7 +1282,7 @@ garments 2
 geohydrology 2
 gruffy 1
 grallina 4
-greyiaceae
+greyiaceae 1
 grandisonous 1
 gnatsnapper 6
 ganges 5
@@ -1762,7 +1762,7 @@ genealogizer 2
 gastroscopist 2
 gavelled 1
 gasterosteid 3
-gynandrism 3
+gynandrism 4
 gutterblood 4
 gelatinotype 2
 grippelike 1
@@ -1776,7 +1776,7 @@ gatehouses 3
 grueler 2
 gastrotomic 2
 genecology 3
-gulsach 1
+gulsach 2
 glycine 1
 gastrocolostomy 1
 gablatores 2
@@ -2487,7 +2487,7 @@ gtc
 gloriation 2
 gatha 3
 giggled 1
-groundlessness 1
+groundlessness 2
 gremiale
 gamogeny 3
 gumshield 5
@@ -3361,7 +3361,7 @@ glaciable
 gyroscopic 4
 gravy
 gentiles 5
-gymnoceratous 1
+gymnoceratous 2
 geosid 4
 gerontocrat
 gigglish 4
@@ -3791,7 +3791,7 @@ gingeleys 2
 grandchild 1
 granulitize 2
 griddlecakes 2
-gifola 2
+gifola 3
 galleriies 3
 geometer 1
 glossophorous 3
@@ -4470,7 +4470,7 @@ greenlets 8
 grapelike 5
 gypster 3
 gamb 3
-grapey
+grapey 1
 gomutis
 gambrel 3
 gills 6
@@ -5117,7 +5117,7 @@ gnostology 2
 gallirallus 5
 gingham 2
 gantsl 2
-grasslands 3
+grasslands 4
 gyrophoraceae 5
 gemmy 1
 gos 5
@@ -5192,7 +5192,7 @@ guardianships 2
 girouette 1
 gleys 3
 gesticulacious 3
-gynecopathic 4
+gynecopathic 5
 grindery 1
 grissons 6
 gambian 1
@@ -5503,7 +5503,7 @@ gump 1
 gnomically 1
 grassfinch 3
 griefs 1
-gauffers 4
+gauffers 5
 grizzle 3
 geochemist 3
 guttiferous 2
@@ -6020,7 +6020,7 @@ griffinesque 1
 gulllike 2
 greking 4
 gonoblastidium 4
-groomlet 4
+groomlet 5
 graine 4
 gnashingly 4
 girr 6
@@ -7184,7 +7184,7 @@ geniuses 5
 geelbeck
 grassier 1
 galactophorous 3
-grattoirs 1
+grattoirs 2
 grizzlies 2
 gripman 1
 gainlessness 3
@@ -8112,7 +8112,7 @@ guglets 1
 gymnophobia 5
 glomming 4
 groaning 3
-garigue 1
+garigue 2
 gamiest 3
 garau 4
 gratulating 2
@@ -9901,7 +9901,7 @@ glioma 2
 granulet 6
 gallop 2
 galiots 6
-groundnut 2
+groundnut 3
 gratulatorily 1
 genitory 3
 genevese 1
@@ -10082,7 +10082,7 @@ gastropods 1
 garrulus 2
 ghostwrote 4
 galactodensimeter 3
-gelatinised 3
+gelatinised 4
 grammarian
 gatehouse 3
 gekkonoid 4
@@ -10335,7 +10335,7 @@ gemmary 2
 glebal 1
 guarana 1
 gaums 2
-gulfweeds 3
+gulfweeds 4
 greenlandish 2
 gadgety 5
 gruffily 1
@@ -10616,7 +10616,7 @@ graveolence
 gemmiform 2
 goy 1
 guildite 2
-gelatinizability 6
+gelatinizability 7
 gloomiest 3
 gunpower 2
 gasping 3
