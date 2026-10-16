@@ -5064,7 +5064,7 @@ befamilied 1
 biogeography
 bibracteolate 1
 bewith
-befeather 2
+befeather 3
 becoming 2
 beeswax 2
 bodger
@@ -7213,7 +7213,7 @@ buckjump 2
 bongrace
 bauta 2
 bute 2
-bituminised 1
+bituminised 2
 balearic
 bequirtle
 bestrew 1
@@ -13094,7 +13094,7 @@ brewers
 bowlmaker 4
 branders
 bedusk 2
-belfry
+belfry 1
 boresight
 beblubber 2
 boresome 3
@@ -14497,7 +14497,7 @@ brakeload
 bemotto 2
 brakemaker 1
 brakeman 2
-builtin 1
+builtin 2
 baby 2
 brakeroot 2
 braky 1
@@ -17495,7 +17495,7 @@ burblers 3
 blueweeds
 backstopping 2
 battlefields 2
-burbly 3
+burbly 4
 bonnie 2
 bantling 2
 bedip 5
@@ -18323,7 +18323,7 @@ bilirubinemia 2
 buttony 3
 bluenosed
 brink 6
-buttoning
+buttoning 1
 banked 4
 bioelectricities 4
 blennuria
