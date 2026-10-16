@@ -882,7 +882,7 @@ archegoniate
 agha 1
 accurse 2
 absconsa
-abscound 2
+abscound 3
 aphakia
 arbitrarily
 aftercoming
@@ -6414,7 +6414,7 @@ appomatox 2
 astrogational 1
 agriological 2
 antiochene 1
-animate 2
+animate 3
 allotypical 2
 agrypnia 1
 agrypnotic 1
@@ -17547,7 +17547,7 @@ admittances 1
 appellor 3
 aminobenzene
 arguteness 4
-abhorson
+abhorson 1
 albacea 1
 atavists
 ashlars 2
@@ -20503,7 +20503,7 @@ almoravid 2
 actinobacilli
 actuaryship
 accomplishment
-autotoxemia 3
+autotoxemia 4
 aerophilatelic 1
 arteriometer 1
 arteriomotor 1
@@ -22353,7 +22353,7 @@ ashy 1
 anal
 anhaline 4
 asperger 1
-aplanat
+aplanat 1
 autoreduction
 atmologist 3
 astrodiagnosis 3
