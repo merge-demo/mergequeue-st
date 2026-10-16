@@ -1753,7 +1753,7 @@ forehear 1
 featherfew 3
 fluoridates 4
 featheriness 1
-frogface
+frogface 1
 foreslack 2
 forsterite 4
 farfet 3
@@ -3162,7 +3162,7 @@ fadedly 2
 filing 2
 foreright 2
 fibrositis 4
-farreate 2
+farreate 3
 ferrugo 1
 failingly 4
 fingerpost 1
@@ -4675,7 +4675,7 @@ fumariaceae 2
 fragrantly 3
 foreby 3
 fructescence 1
-frivolizing 2
+frivolizing 3
 fibroreticulate 3
 fortitudes 1
 fixer 2
@@ -4826,7 +4826,7 @@ fetting 2
 fibrinuria 4
 fluidiser 3
 fardh 2
-fumish 1
+fumish 2
 flume
 fracticipita 3
 faunus 3
@@ -5165,7 +5165,7 @@ flatness 4
 fadged 2
 fumulus 3
 faceting 1
-flatted 1
+flatted 2
 flatteringness 3
 fuzziest 2
 flustered 4
@@ -5738,7 +5738,7 @@ ferulas 3
 frontis 2
 farding 1
 foretype 4
-fleuronnee 1
+fleuronnee 2
 fungous 1
 fuzzball 2
 furnage 1
@@ -8782,7 +8782,7 @@ finchery 1
 forehands 4
 functioned 1
 fth 5
-flavonols
+flavonols 1
 fortuitous 2
 furrieries 2
 flote 4
@@ -9255,7 +9255,7 @@ freeborn 3
 fragmentariness 1
 foundries 6
 faucals 5
-fidalgo 3
+fidalgo 4
 forsakes 3
 flattener 2
 feldspathose
