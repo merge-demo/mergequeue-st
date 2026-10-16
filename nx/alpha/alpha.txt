@@ -216,7 +216,7 @@ almanac 1
 aerodontalgia 2
 abbevillian 3
 abolishments 3
-acridyl
+acridyl 1
 ambystomidae 3
 apotactite 2
 alantolic 1
@@ -1179,7 +1179,7 @@ ankylotomy
 audace 1
 attractive 1
 academized
-acadialite 1
+acadialite 2
 alpenstocker 3
 acadie 3
 amorphic 1
@@ -2489,7 +2489,7 @@ autoriser
 atrochal 2
 arbitry
 archaizing 1
-arisings 1
+arisings 2
 acknowledged
 adoxography
 aconic 1
@@ -5312,7 +5312,7 @@ atonement 1
 alemanni 3
 aggerate 3
 affinities
-archdivine
+archdivine 1
 affinition
 affinitive
 affirmable 1
@@ -9550,7 +9550,7 @@ ajutment 1
 asterikos 1
 alchemizing 1
 anubin 1
-aspidate 1
+aspidate 2
 astrocompass 1
 anargyroi 3
 ambassiate 3
@@ -9954,7 +9954,7 @@ artificious
 avoue
 alternator 3
 abandonee 1
-arachnoidean 3
+arachnoidean 4
 annaline 3
 alloy 2
 androeccia 4
@@ -10339,7 +10339,7 @@ almanacs 1
 arsesmart 2
 ament 1
 adaunt 2
-arrhenotoky 1
+arrhenotoky 2
 arundineous 1
 allotheria
 ankylopoietic 1
@@ -10392,7 +10392,7 @@ americanistic 2
 abstentious 3
 aftertax 2
 astigmatizer 1
-approachless
+approachless 1
 axwise 1
 accredited 1
 astuteness 2
@@ -11655,7 +11655,7 @@ ambulacriform 1
 amal 1
 acronyc
 amarevole 1
-androgametophore 1
+androgametophore 2
 ailette 1
 atonal 2
 asteriated
@@ -13097,7 +13097,7 @@ abidances 1
 auspicious
 anakinetic 2
 aradid 1
-anhysteretic
+anhysteretic 1
 agrologist 1
 anils 1
 aerogels
@@ -14558,7 +14558,7 @@ anthropomophitism 1
 antiphrastic 1
 antipestilence 2
 accompanist 2
-arizonian
+arizonian 1
 aphototropic 1
 alroot 1
 asheries
@@ -15211,7 +15211,7 @@ arachnoidea 2
 arctocephalus 1
 airframe 2
 aseptically
-antifebrin 1
+antifebrin 2
 apologized 1
 antisynod 2
 alunogen 1
@@ -17246,7 +17246,7 @@ asporogenic 1
 appropriate 1
 apophysis
 autopsying 1
-aspersoria
+aspersoria 1
 apophlegm
 albuminiform 1
 apophlegmatic 1
@@ -17970,7 +17970,7 @@ anthropophysiography 1
 allothigene 2
 authenticate 2
 amphidesmous
-azoformic 1
+azoformic 2
 alternariose 2
 apodous
 aziethane 3
@@ -18284,7 +18284,7 @@ arability 3
 arabinic 2
 arabinosic 1
 arabinoside 1
-alibility 3
+alibility 4
 adultlike 1
 arabism
 abstinent 2
@@ -20070,7 +20070,7 @@ athold 1
 adeliza 1
 around
 atheromasia 1
-aschistic 2
+aschistic 3
 acantharia 3
 archespores 5
 adenization 1
@@ -20129,7 +20129,7 @@ allolalic
 acanthodini
 arraignment 1
 aurophobia 1
-allolalia 1
+allolalia 2
 atomy 1
 adenodermia 2
 arraigns
@@ -24558,7 +24558,7 @@ androcracy
 auxiliate 1
 azilian
 abiosis
-amusively 3
+amusively 4
 auxiliator 3
 auxilytic
 alebush 1
@@ -24726,7 +24726,7 @@ artisans 1
 amalfian 3
 aveugle
 avg 3
-assenting 3
+assenting 4
 avians 1
 abreactions 3
 arctitude
