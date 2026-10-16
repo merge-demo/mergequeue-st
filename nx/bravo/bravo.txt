@@ -3090,7 +3090,7 @@ barware 3
 boneblack 2
 basale 2
 berascaling 3
-basalts
+basalts 1
 basaltware
 bombiccite 1
 basaree 2
@@ -15018,7 +15018,7 @@ breba 2
 brewmaster 2
 brachering 3
 boatly 1
-breccias
+breccias 1
 blacksmiths 3
 brecham 2
 barnacling 4
