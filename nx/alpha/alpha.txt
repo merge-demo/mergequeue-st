@@ -1465,7 +1465,7 @@ acciaccaturas 1
 afterdeath 2
 apostatizing 1
 accidentalism 2
-accidently 2
+accidently 3
 accinge 2
 anhimidae
 anesthesiologists
@@ -1842,7 +1842,7 @@ assay
 agathism 2
 aluminum 1
 achlamydeae 1
-acentrous 1
+acentrous 2
 alizarine
 anastalsis
 acephali 1
@@ -3627,7 +3627,7 @@ apetalae
 acceptation 3
 accorporate 2
 amphicyrtous 2
-adelarthrosomatous
+adelarthrosomatous 1
 azoospermia 2
 angionosis 1
 allyl 2
@@ -4104,7 +4104,7 @@ admiring 1
 anality
 antislip 3
 agentival 1
-admissibility 1
+admissibility 2
 asci 4
 admissive 1
 automan
@@ -5071,7 +5071,7 @@ antipatheticalness
 anecdotically 1
 aeroplanes 3
 archboutefeu 2
-aeroscepsy
+aeroscepsy 1
 achromatizing 1
 archaeology
 anciennete 1
@@ -5332,7 +5332,7 @@ arenicolor 3
 alterations 2
 appetized 2
 axon 2
-astipulate 1
+astipulate 2
 astrid 1
 anatman 1
 americanoid
@@ -15813,7 +15813,7 @@ antieugenic 3
 antiphonally
 antiphonary
 abyes
-adulterize 4
+adulterize 5
 amathophobia
 alipteria 1
 autonoetic
@@ -17650,7 +17650,7 @@ anopsia 1
 adultness 1
 allworthy 3
 alphabetizes 1
-alisos 2
+alisos 3
 armariolum 2
 assoilment 1
 arthrodire 4
@@ -18517,7 +18517,7 @@ azoturias 2
 assassinating
 adulteress
 arbores 1
-aequipalpia 1
+aequipalpia 2
 arborescently 1
 arango 1
 aphrodisia 3
