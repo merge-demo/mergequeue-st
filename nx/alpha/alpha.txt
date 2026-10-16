@@ -422,7 +422,7 @@ anematosis 2
 aerators 1
 abietate 4
 abietic 1
-amphoricity 1
+amphoricity 2
 asunder 4
 altercation 2
 annabel 2
@@ -11465,7 +11465,7 @@ amphioxus 1
 ampulliform 1
 affrightfully
 ampullula 1
-amputate 4
+amputate 5
 anuresis
 amputates
 aboding
@@ -15247,7 +15247,7 @@ anacoenoses 1
 amylogens
 antiflattering
 accordantly
-antiflatulent 2
+antiflatulent 3
 antiflux 1
 anticlergy 1
 antiforeignism 3
@@ -17743,7 +17743,7 @@ alcibiadean 1
 abacterial 1
 acettoluide
 acrocera
-autocab 2
+autocab 3
 aversation 2
 ameiurus 2
 adumbration 1
@@ -23260,7 +23260,7 @@ ascidium 1
 accroach 1
 avunculate
 antibubonic
-anthropidae
+anthropidae 1
 angolan 1
 attollent 2
 attorn
