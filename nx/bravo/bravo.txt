@@ -370,7 +370,7 @@ board 1
 barbarical 3
 barwares 1
 breaststroke 2
-background 1
+background 2
 backhand 3
 backhandedness 2
 brinjarry 2
@@ -11338,7 +11338,7 @@ blowzing 1
 bls 2
 blub 1
 blueberries 1
-blickey
+blickey 1
 bootlicker 1
 bursting 3
 britannica 3
@@ -11465,7 +11465,7 @@ bromisms 2
 bathflower
 beaverkill 1
 bluesmen 2
-bluestems
+bluestems 1
 byzantium
 beguiles 4
 bigeneric 2
@@ -15233,7 +15233,7 @@ breastplough 4
 blunted
 brushman 4
 blockheadedness 1
-bryce
+bryce 1
 brick 2
 battened
 brickbat 3
@@ -17578,7 +17578,7 @@ blore 1
 brutally 1
 belong 4
 bugle 3
-burgau 4
+burgau 5
 benzidins
 barons 4
 brightwork 3
@@ -17969,7 +17969,7 @@ busybody 2
 brachysm 4
 baho 4
 bonfire 1
-busybodyism 6
+busybodyism 7
 brachystochrone 3
 basilosauridae 1
 bullae 1
