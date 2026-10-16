@@ -570,7 +570,7 @@ antiradiation 3
 aciliated
 ablude
 atweel 2
-acquit 1
+acquit 2
 aventurine 1
 astatically
 amens 3
@@ -968,7 +968,7 @@ azoflavine 1
 absorpt 3
 absorptiometer
 allegeable 2
-alive 1
+alive 2
 analcites 2
 absorptional 2
 aggregate 4
@@ -4327,7 +4327,7 @@ archconspirator
 anneslia 2
 acilius
 adrench
-adrenergic 5
+adrenergic 6
 allegate 1
 adrenin 2
 apathaton 1
@@ -5063,7 +5063,7 @@ adinvention 1
 aerophobic 1
 aerophor 2
 antithermic 1
-arrode 2
+arrode 3
 aerophotos 1
 algomic 1
 antiwhitism
@@ -5681,7 +5681,7 @@ alloiometry 1
 acoelomatous 1
 axillary
 agade 2
-autocollimation
+autocollimation 1
 atopies 1
 aquicultural
 almeidina 1
@@ -6253,7 +6253,7 @@ alectoriae 1
 annexer 2
 activable 4
 amphioxis 3
-audile 3
+audile 4
 amyluria
 alchemise 3
 adjutantship 2
@@ -9626,7 +9626,7 @@ araneae
 agendaless
 accedes 2
 amylogen
-affairs
+affairs 1
 anklong 3
 aeroembolism
 ascence
@@ -17706,7 +17706,7 @@ apples 3
 applewoman
 adopts 1
 aestethic 1
-adaptationally 1
+adaptationally 2
 adjacencies 1
 araucarioxylon
 amblycephalidae 1
@@ -19187,7 +19187,7 @@ allituric 1
 arctostaphylos 1
 alick
 arcuale 2
-acrita
+acrita 1
 arcuate 1
 attache 2
 aristotelic
@@ -19400,7 +19400,7 @@ allicins 1
 arkie 1
 allowance 3
 auspicating 2
-abuseful
+abuseful 1
 argentin 1
 anglicanism 2
 antidemocratical 5
@@ -20458,7 +20458,7 @@ anticivism 1
 arteriarctia 3
 albuminous 7
 arteriectopia 2
-ananda 2
+ananda 3
 arteried
 absey 2
 astate
@@ -21266,7 +21266,7 @@ acaudelescent 3
 ambivalently 1
 antennaria 1
 akonge 1
-asians
+asians 1
 asiarch 1
 asiatically 1
 anisocarpous 2
@@ -24221,7 +24221,7 @@ automated 2
 argentite 1
 automates
 arabidopsis 5
-analagous 1
+analagous 2
 agronomist 3
 aphetism 4
 argumentative 2
