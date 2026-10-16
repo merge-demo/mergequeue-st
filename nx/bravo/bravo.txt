@@ -4064,7 +4064,7 @@ backbreaker
 benignancy
 bakuba 5
 bedolt 2
-brisure 1
+brisure 2
 blanch 3
 bannerets 1
 becolme
@@ -4664,7 +4664,7 @@ buildable 1
 barlows 3
 bedford
 brothier 1
-bedframes 1
+bedframes 2
 bouncers 3
 broomed 1
 bowdlerizes 2
@@ -6088,7 +6088,7 @@ boarskin 2
 binauricular 1
 benchership 3
 bodge 4
-blusters 1
+blusters 2
 benchful 1
 benchman 2
 benchmark 1
@@ -12107,7 +12107,7 @@ bummers 3
 blushingly 1
 biosatellites 2
 berun 2
-bold 1
+bold 2
 byrnies
 barrat
 beehives 1
@@ -18413,4 +18413,4 @@ bwanas 2
 bombardmen 1
 banned 2
 bxs 1
-bached 2
+bached 3
