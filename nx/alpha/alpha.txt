@@ -5456,7 +5456,7 @@ adenoblast
 afortiori
 apocatastasis
 afoul 4
-afray
+afray 1
 athrocytosis 1
 antisymmetrical 2
 anticensoriousness
@@ -7113,7 +7113,7 @@ akhyana 1
 anopsias
 astrild 4
 agaricin 1
-abnerval 3
+abnerval 4
 acajous 1
 abantes 1
 akia 1
@@ -7633,7 +7633,7 @@ asininities 1
 alcedinidae 2
 anderson 2
 autoretardation 5
-airiferous 1
+airiferous 2
 algonquins 1
 antislavery 1
 achondrite 2
@@ -8866,7 +8866,7 @@ acadia
 asyntrophy
 anglicist 2
 admittance
-archaeol 3
+archaeol 4
 allocatur 2
 acanthocephalan 2
 atumble 1
@@ -10934,7 +10934,7 @@ apocodeine
 athwarthawse 1
 ammos
 ammotherapy 1
-ammu
+ammu 1
 amnesia 1
 amnestied
 adulterated 1
@@ -14587,7 +14587,7 @@ asphyxiation 1
 alveolitis 2
 aquaplaned 1
 avesta
-aestival
+aestival 1
 antireality 1
 anthropopathically 3
 anteclassical 2
@@ -15622,7 +15622,7 @@ accessory 2
 antinegroism 1
 apothecal 2
 antinephritic 3
-adiaphorite 1
+adiaphorite 2
 antineuritic 1
 antineutralism 1
 argyles 2
@@ -15881,7 +15881,7 @@ acanthus 2
 antipolygamy 1
 antipolitical 3
 assureds 2
-azureous 1
+azureous 2
 acridian 1
 antipollution 1
 ade 1
@@ -16345,7 +16345,7 @@ antituberculotic
 antitumoral 1
 affray 2
 amphoriloquy 1
-anchistea 2
+anchistea 3
 autonomist 3
 archheretic 1
 abbroachment 5
@@ -17354,7 +17354,7 @@ agmas 2
 ares 1
 ascidiferous
 anoplotherium 3
-aerophagy
+aerophagy 1
 amidin 2
 arias 4
 adansonia 2
@@ -17671,7 +17671,7 @@ appl 2
 antienzymic 5
 acetylbenzene
 applanation 1
-applaudably 1
+applaudably 2
 ancyroid 2
 alpine 1
 adnerval 2
@@ -18874,7 +18874,7 @@ avertedly 1
 archicantor
 artier 2
 abouts
-asphodeline
+asphodeline 1
 aghastness 2
 archicerebrum
 archichlamydeae
@@ -19550,7 +19550,7 @@ arguments
 amorosa 1
 auriculated 2
 argusianus 2
-arguslike 1
+arguslike 2
 alexipharmic 2
 aegyrite
 anchorable 1
@@ -21773,7 +21773,7 @@ assertional 2
 awninged
 appreciating 2
 assertively
-akey
+akey 1
 audiologist 3
 alchemist 2
 aglow 2
@@ -25068,7 +25068,7 @@ arcadianism 2
 aguinaldo
 adaptations 1
 aggregation 2
-awrist 1
+awrist 2
 angiokinetic 2
 alkylating
 alacha
