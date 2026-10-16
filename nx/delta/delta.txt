@@ -2400,7 +2400,7 @@ druidry 4
 destituent 4
 doodads 5
 dispelled
-decanonize
+decanonize 1
 donny 1
 dripstick 2
 decimalism 3
@@ -2611,7 +2611,7 @@ disgustingness 4
 delthyrium 1
 dacoitage 1
 decoll 4
-dossety 1
+dossety 2
 deguelia 2
 dumbcow 1
 dispensaries 2
@@ -2756,7 +2756,7 @@ dian
 dreche 2
 druggist 2
 docudrama 1
-decreasingly
+decreasingly 1
 dieresis 4
 dairymen 4
 deltoideus
@@ -2887,7 +2887,7 @@ decarbonizing 1
 diomedeidae 1
 decuss 2
 decussate 1
-decussatively 1
+decussatively 2
 desideratum 3
 disyllabizing 1
 decussoria 2
@@ -3262,7 +3262,7 @@ dentilingual 4
 dullsome 1
 disjects 2
 dyeleaves 1
-diamorphosis 2
+diamorphosis 3
 deblocked 1
 daughterliness 7
 dockhead
@@ -3953,7 +3953,7 @@ deleaded 1
 darshan 2
 dampang 3
 decides 1
-disintensify 1
+disintensify 2
 duplex 2
 deputized 1
 dereferences 2
@@ -6263,7 +6263,7 @@ dermatophyte 2
 disarming
 decarboxylation 3
 dehydrates 3
-dehydrators 1
+dehydrators 2
 dermatoplasm 4
 diapositive 2
 deozonizer 3
@@ -7379,7 +7379,7 @@ dissymmetrical 2
 derogatoriness 1
 detn 2
 defibrillating 3
-dowagerism 1
+dowagerism 2
 dwine 1
 dadayag 1
 dijudication
@@ -7479,7 +7479,7 @@ discoverably 3
 demobbing
 divorcers
 detur
-deturpate 2
+deturpate 3
 demurity 4
 dopster 1
 downtowner
@@ -8080,7 +8080,7 @@ demarch 2
 duodial 2
 dentex 4
 dybbukim 2
-developpes 2
+developpes 3
 distributions 1
 decidable 1
 dichogamic
@@ -9359,7 +9359,7 @@ deprive
 difficileness 1
 difficilitate 3
 doctorship
-dignosle 3
+dignosle 4
 dewinesses 1
 doucely 1
 despicable 1
@@ -11502,7 +11502,7 @@ dallyingly
 discommode 2
 discommoding 1
 defervesced 4
-discommodiously 3
+discommodiously 4
 downton 1
 dunker 1
 daytale 2
@@ -12763,7 +12763,7 @@ disencourage
 dotardly 2
 drawfiling
 donative 2
-disloyalist 3
+disloyalist 4
 disloyally 5
 disloyalty 1
 decrepity 4
@@ -12826,7 +12826,7 @@ dicotyledon 1
 devotionally 1
 dominial 1
 destructor 1
-draggiest 1
+draggiest 2
 dam 5
 dribblets 2
 democratization 2
@@ -13177,7 +13177,7 @@ detonable 1
 dyssystole 3
 deambulation 2
 dispiteousness 1
-demegoric 2
+demegoric 3
 disaccord 1
 decomposed 2
 diuturnal 2
@@ -15372,7 +15372,7 @@ detectivism 3
 domification 1
 distoma 1
 dissemblance 2
-dadupanthi 1
+dadupanthi 2
 decempedate 1
 dynamize
 dedications
