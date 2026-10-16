@@ -478,7 +478,7 @@ golpe 1
 gipsies 1
 galericulate 4
 groomers 3
-goudy 3
+goudy 4
 germing 6
 gadding 1
 gasifiers 1
@@ -3686,7 +3686,7 @@ ghuz 3
 griffons 5
 gasterothecal 1
 gallein 2
-goonie 3
+goonie 4
 graveldiver 2
 getatable 3
 gazoz 4
@@ -4814,7 +4814,7 @@ grandstanding 4
 gladiola 4
 granatite 4
 goatly 4
-giraffe 4
+giraffe 5
 gladship 1
 galleylike 2
 grizzling 4
@@ -5201,7 +5201,7 @@ gaited 2
 gemmipara 1
 golgi 2
 golf 1
-geniculate 3
+geniculate 4
 gab 4
 gorgonzola 2
 gamecraft 3
@@ -5689,7 +5689,7 @@ glossiest 1
 gybed 2
 glossinas 1
 gertrude 3
-glowbard 2
+glowbard 3
 glimmeringly 1
 gloveress 1
 gimmaled 1
@@ -5891,7 +5891,7 @@ gassiness
 guereba 5
 gymnospermous 2
 goitrous
-gaits 1
+gaits 2
 gasogene 1
 goliardeys 3
 groveless 1
@@ -6838,7 +6838,7 @@ glimed 2
 gobonee 3
 gnomonic 4
 gypsied 3
-glauconite 3
+glauconite 4
 granulomas
 gaffsman 4
 grisettish 2
@@ -8043,7 +8043,7 @@ gossiper 3
 geta 3
 grandpapa 2
 grunting 3
-geophysicists
+geophysicists 1
 glasswort 5
 grotesquerie 4
 guglia 2
@@ -8821,7 +8821,7 @@ guyots 5
 gulfs 4
 goalless 4
 gymnostomina 2
-greese 4
+greese 5
 gust 4
 gelatined 4
 glacious 4
