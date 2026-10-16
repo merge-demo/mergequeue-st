@@ -3656,7 +3656,7 @@ assedat
 arabicize
 agora
 adendritic
-akenbold 1
+akenbold 2
 adenylic 1
 adulterine 2
 avichi
@@ -3956,7 +3956,7 @@ allioniaceae 1
 adjoints
 apieces
 akiskemikinik 1
-adjourn 1
+adjourn 2
 austerities 4
 allurance
 aegithognathae 3
@@ -5207,7 +5207,7 @@ arbalos 2
 anelastic
 accend
 avouching
-amnioallantoic
+amnioallantoic 1
 afd 2
 antireticular 1
 anticommunist
@@ -5613,7 +5613,7 @@ aftershafted 2
 acetylcholinic
 almagests 1
 aftershocks 1
-alexandria
+alexandria 1
 aftersound 1
 anterevolutional 2
 afterspring 2
@@ -7341,7 +7341,7 @@ adoptant 1
 aglauros
 angioplerosis 1
 alba 1
-athrob
+athrob 1
 atom 2
 aftertastes 2
 antihemophilic 1
@@ -8521,7 +8521,7 @@ alkene 3
 aroid
 alkenyl 7
 alkes
-awreck
+awreck 1
 amyloidoses 3
 alkyd 2
 anniversalily
@@ -12887,7 +12887,7 @@ asemia
 antefuture 1
 angiotonic 1
 almoravide 3
-adulterate 1
+adulterate 2
 abjunction 1
 apinch
 angiotripsy
@@ -15351,7 +15351,7 @@ aircraftswomen
 antihypnotically 2
 achromatically 1
 arietation 1
-acroterion 1
+acroterion 2
 antihypochondriac 1
 annal
 anticoincidence 1
@@ -17247,7 +17247,7 @@ appropriate 1
 apophysis
 autopsying 1
 aspersoria 1
-apophlegm
+apophlegm 1
 albuminiform 1
 apophlegmatic 1
 aurure 1
@@ -17434,7 +17434,7 @@ astrophel 3
 angiostomize
 adiaphoresis
 apozema
-apozymase
+apozymase 1
 ahrendahronon 2
 awald 2
 appoints 1
@@ -20689,7 +20689,7 @@ acrobatholithic 1
 asterion 1
 archenia 2
 anthesteriac 1
-articulare 2
+articulare 3
 allelomorph
 appertains 2
 associate 2
@@ -24512,7 +24512,7 @@ apologal 2
 ag
 anticlericalist 1
 antimoniated 2
-autoxidation 1
+autoxidation 2
 autoxidator 3
 autoxidizability
 autoxidizable 4
@@ -24746,7 +24746,7 @@ acridines
 admission 1
 antemural 2
 addling
-authoress
+authoress 1
 aviatic
 alumniate 1
 aniline 1
