@@ -253,7 +253,7 @@ daghesh
 deoxyribonuclease 3
 duplicative 2
 dappling 3
-denitrate 2
+denitrate 3
 deincrustant 1
 dictyopteran 2
 dagmar 1
@@ -1352,7 +1352,7 @@ daunters 1
 digraph 1
 dipentine 1
 demissive 2
-diploid 1
+diploid 2
 draftsperson 2
 doggerelize 3
 dompt 2
@@ -4523,7 +4523,7 @@ detax 1
 drooled 1
 dishumour 1
 dungyard 3
-disproportionality 1
+disproportionality 2
 demimondain 1
 derided 1
 dibranchiata 2
@@ -6399,7 +6399,7 @@ discriminatory 4
 decree
 decenter 3
 disencumbered
-depurge
+depurge 1
 denizening 1
 dismemberments 2
 debellation 2
@@ -10376,7 +10376,7 @@ drabbing 1
 dfault 1
 deejays 1
 dioxane 2
-demonises 2
+demonises 3
 dukedom 1
 droiture 1
 diplosphene 1
@@ -12033,7 +12033,7 @@ dissensious 2
 dentine 1
 disentanglement 2
 daymare 1
-drudge
+drudge 1
 depurition 3
 disentangling 1
 disputeless 3
@@ -16163,7 +16163,7 @@ dovening 2
 desireless 2
 deplasmolysis 2
 declassified 3
-dovetailwise 1
+dovetailwise 2
 drainway
 devisals 2
 drinkery 1
@@ -17029,7 +17029,7 @@ deviants
 dreynt
 dolorous 2
 distendedly 1
-dicophane 3
+dicophane 4
 disordered
 damkjernite 2
 dreks 3
@@ -17890,7 +17890,7 @@ dismark 1
 denervate 1
 dabb
 dunst 2
-dezincing 1
+dezincing 2
 dudism 1
 defilement 4
 dudleya 3
@@ -18234,7 +18234,7 @@ duncical 2
 delamination 2
 donjons 1
 dispensary 3
-duncish 2
+duncish 3
 dechlog 1
 duncishness 2
 dermataneuria 1
