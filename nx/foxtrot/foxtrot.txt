@@ -1753,7 +1753,7 @@ forehear 1
 featherfew 3
 fluoridates 4
 featheriness 1
-frogface
+frogface 1
 foreslack 2
 forsterite 4
 farfet 3
@@ -2374,7 +2374,7 @@ ferforth 4
 falconiformes 3
 frogling 3
 feudist 3
-francic 3
+francic 4
 fluther 3
 fusile 4
 forgoes 4
@@ -3017,7 +3017,7 @@ fruits 2
 faintheartedness 2
 forma
 fiascos 4
-ferricyanogen 2
+ferricyanogen 3
 ferrotype 3
 fulgurantly 4
 fortepiano 3
@@ -3162,7 +3162,7 @@ fadedly 2
 filing 2
 foreright 2
 fibrositis 4
-farreate 2
+farreate 3
 ferrugo 1
 failingly 4
 fingerpost 1
@@ -3630,7 +3630,7 @@ foregut 3
 filiformed 4
 footmaker 5
 frisbees 3
-flook 1
+flook 2
 farmable 2
 fridstool 1
 flashing 5
@@ -3865,7 +3865,7 @@ fimbrillate 1
 fany 1
 fig 1
 fluorophosphate 2
-flowerlet 3
+flowerlet 4
 forfit 2
 flabbergastingly 2
 flashlamps 1
@@ -4675,7 +4675,7 @@ fumariaceae 2
 fragrantly 3
 foreby 3
 fructescence 1
-frivolizing 2
+frivolizing 3
 fibroreticulate 3
 fortitudes 1
 fixer 2
@@ -4826,7 +4826,7 @@ fetting 2
 fibrinuria 4
 fluidiser 3
 fardh 2
-fumish 1
+fumish 2
 flume
 fracticipita 3
 faunus 3
@@ -5165,7 +5165,7 @@ flatness 4
 fadged 2
 fumulus 3
 faceting 1
-flatted 1
+flatted 2
 flatteringness 3
 fuzziest 2
 flustered 4
@@ -5195,7 +5195,7 @@ flaubert 4
 forestudy 1
 flaubert 2
 forestudy 2
-flossies 4
+flossies 5
 frondlet 4
 formularist 1
 fosterlings 1
@@ -5738,7 +5738,7 @@ ferulas 3
 frontis 2
 farding 1
 foretype 4
-fleuronnee 1
+fleuronnee 2
 fungous 1
 fuzzball 2
 furnage 1
@@ -8782,7 +8782,7 @@ finchery 1
 forehands 4
 functioned 1
 fth 5
-flavonols
+flavonols 1
 fortuitous 2
 furrieries 2
 flote 4
@@ -9255,7 +9255,7 @@ freeborn 3
 fragmentariness 1
 foundries 6
 faucals 5
-fidalgo 3
+fidalgo 4
 forsakes 3
 flattener 2
 feldspathose
@@ -9372,7 +9372,7 @@ flummydiddle 2
 fundamentalness
 freath 1
 flees 2
-flane 4
+flane 5
 fewmets 2
 fortuuned 1
 fromward 2
@@ -10580,7 +10580,7 @@ falltime 3
 forcipiform 3
 franking 3
 frostroot 2
-fluky 1
+fluky 2
 flatus 3
 furnaces 1
 fossilised 4
@@ -10846,7 +10846,7 @@ festilogy
 florimania 1
 ferniest 4
 focometry 5
-fulciment 2
+fulciment 3
 fs 3
 failures 5
 formicarioid 7
