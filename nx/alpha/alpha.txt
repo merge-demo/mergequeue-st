@@ -255,7 +255,7 @@ abc
 angiohypotonia
 abcoulomb
 abietineous 1
-automative
+automative 1
 aba 2
 apodictic
 aggraded 1
@@ -7726,7 +7726,7 @@ alcoholize 3
 alcoholmeter 2
 airmass
 anemogram 2
-alcoholmetric 2
+alcoholmetric 3
 abaissed 2
 alcoholometer 1
 acidic 1
@@ -11655,7 +11655,7 @@ ambulacriform 1
 amal 1
 acronyc
 amarevole 1
-androgametophore 1
+androgametophore 2
 ailette 1
 atonal 2
 asteriated
