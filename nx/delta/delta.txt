@@ -1060,7 +1060,7 @@ darndest 3
 darnels 1
 dehepatize 2
 destandardize 3
-diplohedral 2
+diplohedral 3
 dishes
 diacodium 1
 deas 2
@@ -4429,7 +4429,7 @@ dovetailing 1
 doddy 2
 damper 4
 diazotization 1
-demibeast
+demibeast 1
 demibelt 5
 deuterate
 drummy 4
@@ -6790,7 +6790,7 @@ daira
 dihedrons
 desirous 1
 desirousness
-drily 1
+drily 2
 dented 2
 dropsonde 1
 dedicates 3
@@ -12038,7 +12038,7 @@ depurition 3
 disentangling 1
 disputeless 3
 divinises 2
-daguerreotypy 4
+daguerreotypy 5
 dysenterical 2
 dehisces 4
 discoplacentalia
@@ -15100,7 +15100,7 @@ degenerated 4
 dogtooth 1
 diabetogenous
 delegare
-demographist
+demographist 1
 doddering 1
 dohickey 1
 diprotodont 1
@@ -18053,7 +18053,7 @@ defaulter 1
 diplex 2
 denitrated
 disgallant 1
-doroscentral
+doroscentral 1
 dispatching 1
 dithyrambos 1
 duteous 1
