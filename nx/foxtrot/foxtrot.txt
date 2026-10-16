@@ -7677,7 +7677,7 @@ foreguess 2
 flammant 1
 flambant 5
 foretopsail 2
-fermentability
+fermentability 1
 fittywise 5
 fiefdom 5
 forsteal 1
@@ -8626,7 +8626,7 @@ fornicatrix 4
 fieldman 4
 frameshift 6
 fullfil 6
-flaskful 4
+flaskful 5
 fissionable
 fungating 4
 farmsteading 4
@@ -10969,7 +10969,7 @@ fusoid 4
 forewit 4
 foreseing 3
 fooled 3
-fishplate 2
+fishplate 3
 fulzie 3
 favositidae 3
 flagellar 3
