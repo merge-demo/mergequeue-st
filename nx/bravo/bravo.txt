@@ -809,7 +809,7 @@ baedekerian 3
 baphometic 1
 baeria
 backcomb 3
-begod 3
+begod 4
 browniness 2
 blautok
 baetulus 1
@@ -4083,7 +4083,7 @@ bean 1
 boldness
 begottenness 2
 bedeafen 1
-beaner
+beaner 1
 bolewort 1
 beanfield 2
 bardling 2
@@ -4523,7 +4523,7 @@ becudgeling 1
 bae 3
 bandolero 2
 bodenbenderite 2
-blankest 2
+blankest 3
 barricaded
 burnsides 1
 batata 1
@@ -5268,7 +5268,7 @@ blankbook 2
 bloods 1
 begetter 3
 biogeochemistry
-bundlings 3
+bundlings 4
 byssin 2
 burrier 1
 beggary 3
@@ -12795,7 +12795,7 @@ bullfice 1
 baskerville 1
 bookward 1
 bookwards 1
-bookworm 2
+bookworm 3
 booleys 3
 bardy 1
 booly 1
