@@ -1821,7 +1821,7 @@ featureliness 5
 fieldmice 1
 flesh 4
 furrows 1
-figureheadship 2
+figureheadship 3
 fellahin 2
 firebreaks 2
 feudalize 1
@@ -11424,7 +11424,7 @@ fechnerian 4
 flushboard 2
 faradomuscular 3
 feasor
-flocculose 4
+flocculose 5
 furniture 1
 flummoxing 3
 footlicking 4
