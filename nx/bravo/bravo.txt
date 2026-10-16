@@ -1114,7 +1114,7 @@ bairdi 2
 bumbailiff 1
 beneficency 1
 budges 3
-bastiles
+bastiles 1
 bairn 3
 bypassed 1
 bransolder
@@ -2119,7 +2119,7 @@ bioflavinoid 2
 bannock
 buyers 1
 bittier 2
-boilinglike 3
+boilinglike 4
 banovina 1
 banquet 2
 blindish
@@ -2614,7 +2614,7 @@ barkbound 2
 bamoth 2
 betterments
 barkcutter 1
-balsameaceous 2
+balsameaceous 3
 breastbones 2
 bifronted 2
 bhaiyachara 4
@@ -3639,7 +3639,7 @@ beshouted 3
 batiking 3
 boise 1
 birlinn 3
-baiocco 2
+baiocco 3
 batiks 1
 became 3
 bolting 2
@@ -4161,7 +4161,7 @@ brenda 1
 beastish 2
 bowbells 2
 beastlier 2
-barkening 2
+barkening 3
 brawled
 bartlemy
 bowl 2
@@ -4375,7 +4375,7 @@ barrikin 3
 benedictive 1
 boehmites 2
 brickier
-bullimong
+bullimong 1
 becky 1
 beckoner 4
 buriat 2
@@ -4558,7 +4558,7 @@ beagles
 barricadoed 2
 biggening 1
 behavioristic 2
-bedad 2
+bedad 3
 bedaggle 1
 breeding
 berrybush
@@ -5532,7 +5532,7 @@ bejel
 brawly 2
 babist 6
 broth 1
-breeziest 1
+breeziest 2
 bandsawing 3
 blamer 3
 bilharzic 1
@@ -7234,7 +7234,7 @@ bullshot
 ballywrack 1
 barbarity 2
 ballplayers 2
-bipartible 3
+bipartible 4
 brankiest 2
 bestsellerdom 1
 bacchii 3
@@ -9575,7 +9575,7 @@ bothridium
 barque 1
 burucha 3
 bogue
-betaking 3
+betaking 4
 bluejack 1
 battlements 2
 ballhawk
@@ -10315,7 +10315,7 @@ bucayo 1
 blae 1
 bestudding 2
 blaeberries
-bebothered 2
+bebothered 3
 blepharoplasty 3
 blaflum 1
 blaggard 3
@@ -10472,7 +10472,7 @@ blarnid 1
 bayoneteer 2
 brachysclereid
 blashy 2
-brands 2
+brands 3
 bemas 2
 bhutan 1
 burny
@@ -10923,7 +10923,7 @@ braciolas 2
 biorbital
 bignoniad 2
 bombers 2
-bookful 3
+bookful 4
 blindstories 2
 benzoin 1
 brede 2
@@ -11382,7 +11382,7 @@ breadthways 2
 bluebelled
 bluebells 4
 bepistoled 1
-brimstonewort 1
+brimstonewort 2
 bons 2
 bescorches 3
 bluebill 4
@@ -12233,7 +12233,7 @@ bedecked 4
 backslidingness
 beld 2
 bolognas 2
-bolognese
+bolognese 1
 birdling 4
 besmut 4
 bedsore 3
@@ -12247,7 +12247,7 @@ bookshelf 3
 boloism 1
 breakthrough
 byplays 2
-boutre 1
+boutre 2
 bolshevikian 1
 barrandite
 bogway 1
@@ -12274,7 +12274,7 @@ bluestockings 1
 biasses 3
 blenders
 boltcutter 2
-bookmark 1
+bookmark 2
 behold 4
 boltheading 2
 beslimed 1
@@ -12554,7 +12554,7 @@ bridehead 2
 boniface 1
 battle 1
 bonification 3
-bolshevik 2
+bolshevik 3
 bacubert
 bud 3
 baklawas 1
@@ -14113,7 +14113,7 @@ bikol 1
 berlinite 1
 burkites 4
 behaviour 1
-bogusness 1
+bogusness 2
 brachiopoda 2
 baldy 1
 beltene 3
@@ -15273,7 +15273,7 @@ beardom 1
 bestrewn 2
 benchers 3
 bridale
-basehearted 4
+basehearted 5
 bridally
 battologist 5
 bridals
@@ -16455,7 +16455,7 @@ bladesmith 1
 buttonholder
 botas 2
 bouffage 1
-balbriggan 1
+balbriggan 2
 batitinan
 bellwine 1
 bebless 2
@@ -16756,7 +16756,7 @@ bowknots 2
 billheading
 burrower 1
 bahama 2
-branchiostegidae 2
+branchiostegidae 3
 blowballs 2
 biacetyls 3
 bucrane
