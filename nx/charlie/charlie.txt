@@ -7312,7 +7312,7 @@ cephaline
 cephalins
 cephalism 1
 caprine 1
-cephalitis 1
+cephalitis 2
 cephalization 1
 cephaloauricular 1
 chelicera
@@ -25521,7 +25521,7 @@ corollarial 1
 callionymus 1
 corollaries 1
 cholecystonephrostomy 1
-corolliferous
+corolliferous 1
 corollifloral
 circumundulate 1
 chincona 1
