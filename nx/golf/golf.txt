@@ -1741,7 +1741,7 @@ glycolipin 3
 gomerils 6
 geochronologic 3
 germinance 1
-goodless 1
+goodless 2
 glassblower 1
 golliwogs 1
 gallic 1
@@ -3254,7 +3254,7 @@ germanify
 graminiferous 2
 germanification
 gadso 2
-gorgonian 4
+gorgonian 5
 gregaritic 3
 geomyid 4
 glancer 2
@@ -8043,7 +8043,7 @@ gossiper 3
 geta 3
 grandpapa 2
 grunting 3
-geophysicists
+geophysicists 1
 glasswort 5
 grotesquerie 4
 guglia 2
@@ -9394,7 +9394,7 @@ griots 1
 genotypic 1
 garroting 5
 graptolite 2
-gesticulating 1
+gesticulating 2
 grosshead 3
 gallooned 3
 grosso 4
@@ -10063,7 +10063,7 @@ guerrillas 3
 groomish 3
 gigman 2
 galivanting 1
-gudgeon 2
+gudgeon 3
 grobianism 2
 gauntest 1
 graecize 2
