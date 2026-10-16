@@ -6530,7 +6530,7 @@ berakah
 breadstuff 2
 bewelcome 1
 bavarois 2
-beaming 2
+beaming 3
 blameable 3
 bilsted
 bagel 1
@@ -7556,7 +7556,7 @@ bewary 3
 bewaste
 beweary 2
 besottedness 1
-botflies
+botflies 1
 brainworker
 banagos 2
 beweeper 2
