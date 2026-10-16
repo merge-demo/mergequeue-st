@@ -1352,7 +1352,7 @@ daunters 1
 digraph 1
 dipentine 1
 demissive 2
-diploid 1
+diploid 2
 draftsperson 2
 doggerelize 3
 dompt 2
@@ -18234,7 +18234,7 @@ duncical 2
 delamination 2
 donjons 1
 dispensary 3
-duncish 2
+duncish 3
 dechlog 1
 duncishness 2
 dermataneuria 1

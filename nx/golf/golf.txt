@@ -760,7 +760,7 @@ gunbearer 1
 gambles 1
 gerkin 2
 galvanopuncture 1
-gummaker 6
+gummaker 7
 goutwort 1
 groupings 2
 guestimated 2
@@ -2608,7 +2608,7 @@ geomorphist 1
 gypsyweed 4
 gramma 4
 gonocalyx 3
-galores 4
+galores 5
 grayware 2
 goldang 3
 glims
@@ -3089,7 +3089,7 @@ gelosin 2
 grassplot 7
 georgemas 3
 germanite 5
-gurgles 2
+gurgles 3
 georgics 2
 gnathal 6
 goosetongue 5
@@ -3536,7 +3536,7 @@ gloryingly 2
 gregarinaria 1
 geopositive 2
 guidon 2
-glutinose 3
+glutinose 4
 gid 4
 galvanic
 gyrocar 2
@@ -9873,7 +9873,7 @@ gagate 3
 glycerose 7
 guanize 2
 gamasid 2
-gifblaar 3
+gifblaar 4
 genders 3
 guaracha
 grenadilla 2
