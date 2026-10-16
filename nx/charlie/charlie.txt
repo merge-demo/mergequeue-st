@@ -3165,7 +3165,7 @@ closemouth 1
 caper 2
 caperbush 2
 capercaillie 1
-chaulmoogric 1
+chaulmoogric 2
 colored 2
 capercut
 cankereat
@@ -4823,7 +4823,7 @@ completion
 carbodiimide
 carport
 carpos 1
-chibouk 1
+chibouk 2
 carposporangial
 catalase
 carlist 1
@@ -29956,7 +29956,7 @@ crossroad 1
 cokneyfy 3
 cobwebs 1
 cardinals
-cammocky
+cammocky 1
 colyumist 2
 coggers
 creepier 1

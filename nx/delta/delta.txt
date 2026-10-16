@@ -1227,7 +1227,7 @@ deinsularize 2
 datasetname
 datcha
 disparison 2
-disclamation 2
+disclamation 3
 demiassignation
 dolorimetrically 1
 dextrines
@@ -8619,7 +8619,7 @@ diaglyph 1
 diarist 3
 dibbuk 3
 denatured 2
-diarrhea 2
+diarrhea 3
 dows
 decarchy 4
 diarrhoeal 3
@@ -10612,7 +10612,7 @@ diplont 1
 delisting 2
 diplonts 1
 diplophase 1
-difficultness 2
+difficultness 3
 dosology 3
 divisions 1
 deviously 2
