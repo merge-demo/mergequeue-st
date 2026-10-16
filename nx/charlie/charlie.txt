@@ -12387,7 +12387,7 @@ chromatologies 2
 chromatopathy 1
 celebe 2
 chromatophil
-chromatophile
+chromatophile 1
 chromatophilic 2
 changemaker 1
 chromatophobia 1
@@ -14745,7 +14745,7 @@ cigale
 conirostres 3
 cladosiphonic 2
 coordinate
-curtsy
+curtsy 1
 coenamor
 coccinellid 2
 coalyards
@@ -16257,7 +16257,7 @@ constringency 3
 contraindicate
 clinology 2
 clinometer 1
-clinometry 1
+clinometry 2
 clinometric 2
 cantos
 condylura
@@ -25509,7 +25509,7 @@ condemns
 contaggia 1
 circumclusion
 congenialness
-cephaelis 2
+cephaelis 3
 coroll
 carcass 1
 cartooning 2
