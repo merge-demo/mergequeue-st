@@ -3592,7 +3592,7 @@ flashover 4
 fardels 1
 flank 2
 fructification 1
-felinity 1
+felinity 2
 floorway 3
 files 2
 filesniff 5
@@ -3936,7 +3936,7 @@ fluoranthene 3
 forgoing 1
 foresummon 1
 fendered 4
-farls 3
+farls 4
 fullest 3
 foeniculum
 flitted 2
@@ -8679,7 +8679,7 @@ fermentarian 3
 forsythia 1
 findon 3
 flamberge 2
-filterability 3
+filterability 4
 fourposters 6
 filigraned 5
 futharks 1
