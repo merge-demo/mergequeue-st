@@ -423,7 +423,7 @@ aerators 1
 abietate 4
 abietic 1
 amphoricity 1
-asunder 3
+asunder 4
 altercation 2
 annabel 2
 adonitol 1
@@ -1312,7 +1312,7 @@ atelocardia 2
 acetocinnamene 1
 acatalepsy 1
 acatalepsia 3
-acataleptic
+acataleptic 1
 autocorrelate 2
 autosomally 1
 advectitious 1
@@ -3884,7 +3884,7 @@ agaves
 amphithuron 1
 adoptionist
 acetabuliform
-adipinic 1
+adipinic 2
 autotransplant 1
 antiplethoric
 adipocellulose 1
@@ -18205,7 +18205,7 @@ amphiprotic 1
 assassination
 ammonocarbonous
 aquiclude 3
-animable
+animable 1
 alumnol 1
 ankylos 1
 adventurement
@@ -18833,7 +18833,7 @@ assever 4
 assumptiveness 1
 adhibit
 archfiend 1
-apprize
+apprize 1
 aroma 2
 archflamen 4
 archfoe 1
@@ -19529,7 +19529,7 @@ anklets 3
 aubusson 2
 afars
 asterinidae
-arguing
+arguing 1
 admiration 1
 apnea 2
 argulus
