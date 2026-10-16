@@ -9100,7 +9100,7 @@ charta 2
 chartable
 charter
 charterer 2
-charterers
+charterers 1
 charterhouse 1
 chartering
 charterism
