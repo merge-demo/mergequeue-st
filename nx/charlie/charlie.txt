@@ -8492,7 +8492,7 @@ clow
 chemosterilants 2
 chanced
 categorical 2
-chanceful 1
+chanceful 2
 cadrans
 chancefulness 2
 chancey 3
@@ -12149,7 +12149,7 @@ copeognatha 2
 chresmology 1
 chrestomathics
 chorous
-chrestomathies 2
+chrestomathies 3
 celluliferous
 chimere 1
 chria 1
@@ -14043,7 +14043,7 @@ cheiromancy 3
 cyprinids 1
 cypriniform 3
 cauline 1
-cyprinin 1
+cyprinin 2
 copyhold 1
 clerklier 2
 condimental 2
@@ -28177,7 +28177,7 @@ cranker 1
 cullis 2
 crankily 1
 crankiness
-cranking
+cranking 1
 crankle
 circumplication 1
 cima 1
@@ -31276,7 +31276,7 @@ cenogenesis 2
 curative
 curativeness
 curatorium 1
-cystotrachelotomy
+cystotrachelotomy 1
 charkha
 commentable 2
 curatrices 1
