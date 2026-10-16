@@ -311,7 +311,7 @@ fplot 5
 fluxionary 2
 feods 3
 forces 5
-fail 3
+fail 4
 fireplough 4
 faineancy 5
 fayles 1
