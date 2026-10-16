@@ -5312,7 +5312,7 @@ atonement 1
 alemanni 3
 aggerate 3
 affinities
-archdivine
+archdivine 1
 affinition
 affinitive
 affirmable 1
@@ -9954,7 +9954,7 @@ artificious
 avoue
 alternator 3
 abandonee 1
-arachnoidean 3
+arachnoidean 4
 annaline 3
 alloy 2
 androeccia 4
@@ -10339,7 +10339,7 @@ almanacs 1
 arsesmart 2
 ament 1
 adaunt 2
-arrhenotoky 1
+arrhenotoky 2
 arundineous 1
 allotheria
 ankylopoietic 1
@@ -10392,7 +10392,7 @@ americanistic 2
 abstentious 3
 aftertax 2
 astigmatizer 1
-approachless
+approachless 1
 axwise 1
 accredited 1
 astuteness 2
@@ -13097,7 +13097,7 @@ abidances 1
 auspicious
 anakinetic 2
 aradid 1
-anhysteretic
+anhysteretic 1
 agrologist 1
 anils 1
 aerogels
@@ -17246,7 +17246,7 @@ asporogenic 1
 appropriate 1
 apophysis
 autopsying 1
-aspersoria
+aspersoria 1
 apophlegm
 albuminiform 1
 apophlegmatic 1
@@ -17970,7 +17970,7 @@ anthropophysiography 1
 allothigene 2
 authenticate 2
 amphidesmous
-azoformic 1
+azoformic 2
 alternariose 2
 apodous
 aziethane 3
@@ -19400,7 +19400,7 @@ allicins 1
 arkie 1
 allowance 3
 auspicating 2
-abuseful
+abuseful 1
 argentin 1
 anglicanism 2
 antidemocratical 5
@@ -20129,7 +20129,7 @@ allolalic
 acanthodini
 arraignment 1
 aurophobia 1
-allolalia 1
+allolalia 2
 atomy 1
 adenodermia 2
 arraigns
@@ -22345,7 +22345,7 @@ aurignacian
 astrocytic 1
 achilleid 1
 amollish 1
-abbr 1
+abbr 2
 astrocytomas 1
 anagnost 4
 ascogonidium
@@ -24558,7 +24558,7 @@ androcracy
 auxiliate 1
 azilian
 abiosis
-amusively 3
+amusively 4
 auxiliator 3
 auxilytic
 alebush 1
@@ -24726,7 +24726,7 @@ artisans 1
 amalfian 3
 aveugle
 avg 3
-assenting 3
+assenting 4
 avians 1
 abreactions 3
 arctitude
