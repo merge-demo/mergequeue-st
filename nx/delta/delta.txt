@@ -1354,7 +1354,7 @@ dipentine 1
 demissive 2
 diploid 1
 draftsperson 2
-doggerelize 2
+doggerelize 3
 dompt 2
 damagement 3
 dauntingness 1
@@ -10894,7 +10894,7 @@ diapir
 disabuses 2
 dispondaic
 dazzlement 2
-deforested 3
+deforested 4
 dannock 6
 disaccomodate
 dromons 1
