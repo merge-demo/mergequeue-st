@@ -539,7 +539,7 @@ garde 1
 goolah 2
 geranomorphae 3
 grunion 2
-gazometer 4
+gazometer 5
 galempong 2
 getfd 3
 gableended 2
@@ -1142,7 +1142,7 @@ galyac 2
 groupment
 gunpowder 3
 gali 1
-gypsologist 5
+gypsologist 6
 gulliver 3
 galeidae 2
 gypsydom 4
@@ -1396,7 +1396,7 @@ grecize 3
 ganyie 1
 gallotannin 2
 gasified 2
-gausterer 6
+gausterer 7
 gcd 5
 gangplow
 galvanopsychic 1
@@ -2129,7 +2129,7 @@ gadswoons 3
 georgian 1
 gharris 3
 gyrocompass
-gerontine 2
+gerontine 3
 gdinfo 3
 gerahs 1
 glossography 1
@@ -2257,7 +2257,7 @@ granulocytopoiesis 1
 geitonogamy 3
 gonostyle 3
 geomoroi 2
-grange 1
+grange 2
 granulosa 1
 gentilish 2
 gynarchy 3
@@ -2396,7 +2396,7 @@ gemmologist 5
 goalkeeping 1
 grocers 4
 gulper 4
-graphotypic 2
+graphotypic 3
 geologian 2
 gesticulation 1
 graduator 3
@@ -3199,7 +3199,7 @@ gazement 4
 gormandizer 1
 gynecologists 4
 gringos 1
-gerasene 2
+gerasene 3
 guarachas 4
 gesturer
 gutti 4
@@ -4880,7 +4880,7 @@ gamdia 3
 gardens 4
 grenadierly 2
 guddle 3
-grades 3
+grades 4
 grondwet 1
 gynaecol 3
 gamines 3
@@ -5102,7 +5102,7 @@ gundogs 5
 gammick 1
 geologised 3
 ganoidei 4
-gratins 2
+gratins 3
 gau 3
 greek
 glomerulitis 4
@@ -5158,7 +5158,7 @@ gastrologically 7
 gabbiest 7
 gigmanism 3
 groundspeed 4
-guinfo 7
+guinfo 8
 gemara 7
 gentianose 4
 gena 1
@@ -5259,7 +5259,7 @@ gymnadeniopsis 1
 grouping 3
 gospodar 4
 glyceroxide 5
-glycide 2
+glycide 3
 gladiest 3
 gangmaster 3
 glabrous 1
@@ -7401,9 +7401,9 @@ ganglioneuroma 2
 gallach 2
 gynostemia 4
 groupable 3
-gastromalacia 5
+gastromalacia 6
 gasolineless 2
-grewsomely 6
+grewsomely 7
 gange 4
 gastrohysterectomy 3
 geometroid 1
@@ -8569,7 +8569,7 @@ garni 1
 goniatitidae 4
 gith 3
 gourmand 3
-grabbling
+grabbling 1
 generates 5
 geranomorph 4
 geodetical
