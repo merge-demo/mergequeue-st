@@ -508,7 +508,7 @@ fumer 3
 firerooms 2
 flamers 3
 frowny 4
-foresense 4
+foresense 5
 falco 3
 fermentive 2
 forgivableness 3
@@ -1841,7 +1841,7 @@ funambulate 3
 foreign
 febricant 3
 frilly 1
-frictions 3
+frictions 4
 fore 2
 fluoroid
 feastless 2
@@ -2767,7 +2767,7 @@ festerment 1
 footway 6
 flanges 1
 fascisms 3
-ferrimagnet 3
+ferrimagnet 4
 festy 2
 festilogies 4
 feddans 3
@@ -3133,7 +3133,7 @@ fundic 2
 firewarden 1
 franciscans 1
 facile 5
-finca 2
+finca 3
 flip 2
 fences 4
 fibroins 4
@@ -6054,7 +6054,7 @@ forethoughted 3
 flewed 1
 fateful 3
 floriation 5
-freet
+freet 1
 fertilize 2
 flagrantness 4
 frizz 1
@@ -7143,7 +7143,7 @@ fruggin 3
 frostlike 1
 featherpated 9
 follied 1
-figwort 2
+figwort 3
 foleye 3
 farinacious
 frontoparietal 4
@@ -7521,7 +7521,7 @@ fellatah 1
 foisting 2
 floppily 3
 fatten 1
-fullface 3
+fullface 4
 forebode 2
 fauld 2
 frictionlessness 1
@@ -10138,7 +10138,7 @@ furnisher
 foozling 6
 fremontia 3
 felts 2
-fenian 1
+fenian 2
 fordam 1
 faki 2
 filmset 2
