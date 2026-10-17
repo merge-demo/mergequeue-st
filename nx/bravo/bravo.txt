@@ -129,7 +129,7 @@ bedash 3
 boolian 4
 bacin 2
 bourne 1
-banister 1
+banister 2
 basidiocarp 2
 blossomtime 2
 biocoenosis 2
@@ -3041,7 +3041,7 @@ bimetalic 1
 backfilled
 belee
 beckons 1
-brimmers 3
+brimmers 4
 brushpopper
 beachhead 2
 bartonella 2
@@ -3124,7 +3124,7 @@ baggage
 baseburner
 basecourt 1
 betokener 2
-boosting 2
+boosting 3
 boneset 2
 baselevel 2
 bismarck 3
@@ -6020,7 +6020,7 @@ beautifulness 2
 bellow 2
 bemoan 1
 bookie 1
-bemoaned 1
+bemoaned 2
 buckling 3
 bonnets 2
 bauxitic 4
@@ -8661,7 +8661,7 @@ bilobed 1
 bilocular 2
 braches 1
 bilophodont 2
-boshvark 3
+boshvark 4
 baxterian 2
 brattish 2
 boiko
@@ -15989,7 +15989,7 @@ bedlamising
 bungee
 bogsucker 1
 bufotenin 1
-besoin 3
+besoin 4
 brutish 2
 bronchocephalitis 2
 bronchoconstriction 5
