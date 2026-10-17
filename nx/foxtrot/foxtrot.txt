@@ -316,7 +316,7 @@ fireplough 4
 faineancy 5
 fayles 1
 fimbricated 5
-furcal 4
+furcal 5
 fayumic 4
 fillingly 5
 fricandelle 2
@@ -2245,7 +2245,7 @@ filesave 1
 fainaiguer 2
 femora 4
 fatil 2
-fain 3
+fain 4
 fenced 4
 fencelessness 4
 forkiest 3
@@ -3535,7 +3535,7 @@ fortuned 2
 fains 1
 floroun 5
 fitweed 2
-forehearth 1
+forehearth 2
 formant 4
 frightful 3
 foulsome 2
@@ -3904,7 +3904,7 @@ fineableness 2
 fumigators 2
 fusinist 4
 fluoridated 1
-fitly 7
+fitly 8
 fullage 3
 frostproof 4
 frolicsomely 4
@@ -5746,7 +5746,7 @@ fungistatic 6
 fougue 1
 frequentation 3
 fractuosity 1
-fels 4
+fels 5
 fins 3
 figureheadless 1
 fisher 3
@@ -6217,7 +6217,7 @@ fermacy 3
 fluegelhorn 3
 foalfoot 1
 forefence 2
-fulgural 1
+fulgural 2
 flightily 1
 fairgrounds 2
 forlana 2
@@ -7734,7 +7734,7 @@ fallal 2
 feudality 4
 flyeater 2
 foreknew 2
-farcically 1
+farcically 2
 fiddle 3
 florian 3
 falconlike 2
@@ -8653,7 +8653,7 @@ flappiest 3
 farmyard 5
 forescript 1
 floury 2
-fluotantalic 2
+fluotantalic 3
 futility 2
 foredid 4
 flecks 3
@@ -10544,7 +10544,7 @@ fortuities
 fortuning 3
 featherback 5
 frotton 2
-fum 3
+fum 4
 firetail 1
 farandman 2
 frousty 1
@@ -11712,9 +11712,9 @@ fiancailles 1
 frowns
 furriered 2
 ferruled 5
-foredesign 2
+foredesign 3
 fosslology 1
-flighty 4
+flighty 5
 flagellator 2
 folkland 7
 fados 3
