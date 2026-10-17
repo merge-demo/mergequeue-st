@@ -1251,7 +1251,7 @@ datelessness 2
 denizate
 disserve 1
 datelining 3
-datemark
+datemark 1
 disenter 1
 dentalise 1
 drink 3
@@ -3599,7 +3599,7 @@ degeneroos 3
 degerm 3
 dihalogen 2
 donnish
-desulfurating
+desulfurating 1
 distinguee 2
 degerminate 1
 doated 4
@@ -16245,7 +16245,7 @@ delenda 2
 disabling 3
 doubter
 downcome 4
-dogtail 2
+dogtail 3
 downcoming 2
 deke 2
 disulfids
