@@ -3702,7 +3702,7 @@ coemptive 1
 conjugation 2
 chabutra
 caranna 1
-carap
+carap 1
 couloirs 2
 carapaces 3
 carapacho 1
@@ -4648,7 +4648,7 @@ caromel
 caroming 2
 coucher
 caroms
-carone 1
+carone 2
 convictiveness 1
 caronic
 cliffless 1
@@ -4778,7 +4778,7 @@ convecting
 choriocarcinoma 1
 cubicalness
 crystall
-chorisos
+chorisos 1
 carpocephala 3
 canicular 1
 competitiveness 1
@@ -5865,7 +5865,7 @@ cabas
 crawling
 chateau 3
 cateye 1
-catel
+catel 1
 coelongated
 catelectrode
 capstones 1
@@ -9033,7 +9033,7 @@ copycatted
 charmfully 1
 choragy
 curlily 3
-colotomy
+colotomy 1
 cymblings 2
 cervantist
 charmingest 2
@@ -12789,7 +12789,7 @@ chromotypography 1
 chummier
 chummies 2
 cortian 1
-chumminess
+chumminess 1
 chump 1
 chumpa 2
 conglobing
@@ -12910,7 +12910,7 @@ cresphontes 3
 coenosteum 1
 churnmilk
 cecidomyiidous 1
-churns 3
+churns 4
 churoyan
 churrasco
 claviol 1
@@ -19748,7 +19748,7 @@ contorting
 cardiopneumograph 1
 cogroad 2
 circuting
-classifiers
+classifiers 1
 contemplance 1
 cloudburst 3
 combiner 1
@@ -20918,7 +20918,7 @@ comprehensive
 comprehensively 1
 comprehensiveness 1
 campership
-chenopodiaceous
+chenopodiaceous 1
 collegiums
 compresence
 compresent 1
@@ -21416,7 +21416,7 @@ caulome 1
 correa
 cicadidae 3
 camerlingos 1
-clerkly 1
+clerkly 2
 corvinas 1
 conclusible
 conclusion 3
@@ -29558,7 +29558,7 @@ criticship 1
 criticule 1
 critique 1
 cultivatable
-cabals
+cabals 1
 chopine 1
 colubriformia 2
 critiqued 1
