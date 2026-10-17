@@ -5698,7 +5698,7 @@ dithers 4
 diallel 1
 deconsider 2
 depoh 1
-decd 3
+decd 4
 depolarise 3
 dearies
 dehumidify
@@ -10214,7 +10214,7 @@ decillionth 2
 dishcross 2
 doblons 1
 diphthong 1
-defibrination 5
+defibrination 6
 desobligeant
 decoys 1
 dissolutionist 2
