@@ -3510,7 +3510,7 @@ diplomatic 2
 def 3
 dinitrotoluene 1
 demarcatordemarcators 2
-disapproving 4
+disapproving 5
 defrayable 2
 disembarrassment
 dismissable 3
@@ -4382,7 +4382,7 @@ demiatheism 2
 dementia 2
 desoxyribonucleoprotein
 dulcetness 3
-dihalide 1
+dihalide 2
 desmic 6
 dictionally 1
 disangelical 2
@@ -4913,7 +4913,7 @@ diplodus 3
 duranta 1
 demoralized 2
 demoralizers 1
-draughty 1
+draughty 2
 debussy 2
 demoralizes 4
 demorphism
