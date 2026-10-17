@@ -2019,7 +2019,7 @@ fours 3
 feeze 2
 fimicolous 2
 furmity 4
-forejudge 2
+forejudge 3
 fefnicute 4
 fullam 3
 farragoes 2
@@ -2835,7 +2835,7 @@ fishhouse 3
 ferrozirconium 5
 floodlights 1
 fideicommiss 2
-fetichism
+fetichism 1
 forebush 3
 foreadmonish 4
 fieldsmen 1
@@ -3589,7 +3589,7 @@ fussle 2
 fairbanks 2
 fourniture 1
 flashover 4
-fardels 1
+fardels 2
 flank 2
 fructification 1
 felinity 2
@@ -4963,7 +4963,7 @@ facepiece 1
 floorages 1
 flamingant 3
 foremarch 3
-flaminical 3
+flaminical 4
 fomenters 3
 flowcharting 1
 fintadores 5
@@ -6962,9 +6962,9 @@ fibromatosis 3
 fauconnier
 ferrocyanic 1
 fisherpeople 4
-flaky 3
+flaky 4
 fostership 1
-flusherman 3
+flusherman 4
 follily 2
 feeblemindedness 2
 fungivorous
@@ -10196,7 +10196,7 @@ freycinetia 5
 flaxen 3
 foreannouncement 4
 forbit
-forepredicament 6
+forepredicament 7
 frizzante 1
 fishyback 3
 fragmentise 3
@@ -10500,7 +10500,7 @@ foliaceous 2
 fribblers 4
 farrant 2
 frontiersmen 2
-fanterie
+fanterie 1
 foregoer 4
 forbodes 3
 fosterland 1
