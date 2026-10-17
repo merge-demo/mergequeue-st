@@ -6076,7 +6076,7 @@ catlike 1
 crowns
 catling
 catlings 1
-condescend 2
+condescend 3
 cairds 1
 catlins 2
 craftsperson
@@ -10004,7 +10004,7 @@ copartaker
 colpus
 ceremonialists 3
 chalcon
-cruiser 1
+cruiser 2
 catepuce 2
 cephalhydrocele
 coffles 2
@@ -14058,7 +14058,7 @@ chasten
 cypriots
 cyproterone 1
 cordeau 1
-cypseliformes 1
+cypseliformes 2
 cypselomorphae 4
 cypselomorphic 1
 customly 1
