@@ -529,7 +529,7 @@ bu 4
 backtenter 1
 beggingwise 1
 blennioid 3
-backtracking 1
+backtracking 2
 boryl 1
 bibliolater 3
 backtracks
@@ -2446,7 +2446,7 @@ bummalo 2
 benzpinacone 2
 bums 1
 bareca 5
-briar 1
+briar 2
 barefaced 3
 britches 3
 bombacaceous 2
@@ -2738,7 +2738,7 @@ bellypiece 3
 breadwinner 4
 baroko
 bubastite 1
-backward 1
+backward 2
 beltline 1
 bullbat 1
 brayers 2
@@ -3681,7 +3681,7 @@ bifrontal 1
 bailiffwick 1
 balloonfishes 2
 bergut 2
-batsman 2
+batsman 3
 barrelsful 2
 besetting
 benzophenol 2
@@ -8171,7 +8171,7 @@ benzopinacone 1
 byrlaw
 blimpish 1
 beloeilite 4
-ballonet
+ballonet 1
 beardie 1
 bashers 1
 brontophobia 1
@@ -11283,7 +11283,7 @@ braver 1
 bullshits 2
 basketries 2
 blowguns 2
-butling 4
+butling 5
 blatchang 2
 bronchoesophagoscopy 1
 beshackle 1
