@@ -171,7 +171,7 @@ floristics 3
 fanmaker 3
 frescoing 2
 flatfoots 3
-featherless 4
+featherless 5
 flier 2
 factorable 1
 flimsies 1
@@ -3832,7 +3832,7 @@ fellside 3
 flectionless 3
 filthifying
 formin 5
-fairhead 1
+fairhead 2
 firewoods 2
 foulder 1
 fisticuffer
@@ -7660,7 +7660,7 @@ foreorlop 3
 flimsilyst 3
 flustroid 2
 forefinger 5
-figary 2
+figary 3
 fritillaries 1
 foreimagination 1
 flashlike 3
@@ -9840,7 +9840,7 @@ fanners 4
 floorwalker 3
 fresison 2
 fraudless 4
-flavia 1
+flavia 2
 fresno 2
 fress 4
 fret 2
