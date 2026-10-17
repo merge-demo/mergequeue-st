@@ -11342,7 +11342,7 @@ evapotranspiration 5
 ecaudata 4
 esiphonal
 enthalpy
-ergatoid 1
+ergatoid 2
 evenglow 3
 erenach 2
 eneid 2
