@@ -1969,7 +1969,7 @@ checkered
 capitols 2
 cumulose 1
 cyprinodont 1
-camerae 1
+camerae 2
 curbless 1
 cameral 1
 colonisation 1
@@ -4173,7 +4173,7 @@ cardiologic 1
 cariogenic 1
 calculating 1
 cardiologist
-cardiologists
+cardiologists 1
 cardiomegaly
 cyclus 1
 cardiomelanosis 2
@@ -22500,7 +22500,7 @@ crosser
 cottonwood 1
 cerebrosis
 certainest 3
-chignoned
+chignoned 1
 conjoinedly 5
 claviole 1
 conjointment 1
@@ -28368,7 +28368,7 @@ crawled 1
 cuterebra 1
 chaptalized 1
 cierzos 1
-contributing 2
+contributing 3
 crawlers 4
 creamometer
 crawlier
@@ -30375,7 +30375,7 @@ crusets 1
 calmierer 1
 cowpokes 1
 crusile
-chintzier
+chintzier 1
 cartopper 4
 capita 1
 coss 2
