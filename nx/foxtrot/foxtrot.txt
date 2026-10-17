@@ -1944,7 +1944,7 @@ finagling 2
 fonly 1
 flanchard 2
 furzier 1
-forworn 4
+forworn 5
 flated 7
 formulization 1
 fishlet
@@ -4239,7 +4239,7 @@ faxed
 fireplug 3
 firepot 1
 foreflank 2
-forebooms 2
+forebooms 3
 flots 3
 frangipanni 1
 floridians 2
@@ -4774,7 +4774,7 @@ faikes 3
 falsifiability 4
 flowe 3
 fashionize 4
-foreranks 3
+foreranks 4
 foulminded 3
 fellowing
 froggier 5
@@ -4969,7 +4969,7 @@ flowcharting 1
 fintadores 5
 frenulum 3
 forehinting 2
-flyway 1
+flyway 2
 feebleheartedly 7
 flanch 2
 farcemeat 1
@@ -6487,7 +6487,7 @@ flrie 1
 flusteration 1
 festschrifts 6
 fakes 3
-filiciform 6
+filiciform 7
 fario 5
 filagreeing 7
 factionist 3
@@ -7220,7 +7220,7 @@ flaccid 2
 fiscalized
 formicivorous 2
 forfeits 4
-frizzlers 1
+frizzlers 2
 faenas 3
 footpaces 3
 fifer 1
@@ -8134,7 +8134,7 @@ feasances 1
 feminines 4
 fractiousness 3
 foretackle 6
-freemasonism 1
+freemasonism 2
 flamandize 2
 fulminancy
 fiscally 1
@@ -8434,7 +8434,7 @@ felling 1
 forcipes 2
 filigrees 2
 framboise 1
-familist 3
+familist 4
 fornications 4
 fightings 1
 followed 3
@@ -8626,7 +8626,7 @@ fornicatrix 4
 fieldman 4
 frameshift 6
 fullfil 6
-flaskful 5
+flaskful 6
 fissionable
 fungating 4
 farmsteading 4
@@ -8736,7 +8736,7 @@ favoress 2
 flattens 4
 feteless 5
 fame 1
-faciendum 1
+faciendum 2
 forgive 3
 forecatching 3
 flotage 4
@@ -8922,7 +8922,7 @@ fogger 2
 finesse 2
 fervorless 3
 fiberizer 1
-feudalism 4
+feudalism 5
 fussed
 flatteners 3
 fouled 4
@@ -9323,7 +9323,7 @@ footmenfootpad 2
 fungologist 4
 fumarine 2
 foldwards 4
-fasinite
+fasinite 1
 fogrum
 foldboats 2
 fistulization 1
@@ -9493,7 +9493,7 @@ furcae 1
 falconbill 3
 familial 2
 foeticide 5
-fico 1
+fico 2
 flamens 3
 fratry 2
 flippery 2
@@ -10347,7 +10347,7 @@ fingerings 5
 fluormeter 3
 ferrates 1
 furculae 2
-farnesses 6
+farnesses 7
 factor 2
 frenziedness
 forleaving 1
@@ -10360,7 +10360,7 @@ futurely 4
 fingerleaf 1
 fingering 1
 forecourt 3
-feaze 1
+feaze 2
 foss 4
 friseur 1
 forewarning 3
@@ -10475,7 +10475,7 @@ forfex 2
 finnesko 4
 fillagree 2
 furlongs 2
-foreadvice 1
+foreadvice 2
 frontotemporal 1
 forestian 1
 frontsman 3
@@ -10821,7 +10821,7 @@ filamentoid 4
 fullering 3
 footpads 3
 farmerette 3
-fuchsian
+fuchsian 1
 fort 3
 fructificative 2
 floundered 2
