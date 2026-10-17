@@ -1435,7 +1435,7 @@ beslave 1
 biporose 2
 bickern 2
 behaviored 3
-bombastically 3
+bombastically 4
 boun 3
 balestra 2
 batoneer 2
@@ -6366,7 +6366,7 @@ blastogranitic 3
 biophysicists 1
 bucker 3
 batsmanship 4
-bravoing 1
+bravoing 2
 benziminazole 3
 blesbucks
 bethinking
@@ -6699,7 +6699,7 @@ brontosaurus
 berm 2
 berme 4
 bathe 1
-bologna 3
+bologna 4
 bermensch 2
 bermes 1
 bagaudae 4
@@ -6883,7 +6883,7 @@ bullfrogs 4
 bajan 3
 burgundian 2
 bepray
-bazaar
+bazaar 1
 bedrugging
 bumptious
 bitumed 3
@@ -10262,7 +10262,7 @@ beavering 1
 bilobiate 1
 boolean 3
 bellweather 1
-bulldogs 1
+bulldogs 2
 beheads 2
 biborate 1
 broadmindedly 2
@@ -13112,7 +13112,7 @@ buggering
 bodyguard 3
 borid 3
 bacterioscopist 2
-bromisation 2
+bromisation 3
 bastinaded 1
 blowzier 2
 basilics 3
@@ -15475,7 +15475,7 @@ bifurcations 2
 battledoring
 brilliancies 2
 backtrack 4
-bagged 2
+bagged 3
 brilliandeer 1
 buonamani
 brilliant 4
