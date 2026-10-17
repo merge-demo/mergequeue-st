@@ -1251,7 +1251,7 @@ datelessness 2
 denizate
 disserve 1
 datelining 3
-datemark
+datemark 1
 disenter 1
 dentalise 1
 drink 3
@@ -1664,7 +1664,7 @@ dichapetalum 1
 deprival 1
 decapsulation
 derbylite 1
-dishrag 1
+dishrag 2
 dealt 2
 dissects 1
 drumming
@@ -1898,7 +1898,7 @@ dupery 2
 disbench 1
 disconcertingness
 digladiator 3
-discourse 1
+discourse 2
 debouchment 2
 diarial
 debout
@@ -2527,7 +2527,7 @@ declaratorily 3
 deaminate 1
 drain
 dotted 1
-divulgater
+divulgater 1
 disregarder 3
 dimers 6
 drailing 2
@@ -3599,7 +3599,7 @@ degeneroos 3
 degerm 3
 dihalogen 2
 donnish
-desulfurating
+desulfurating 1
 distinguee 2
 degerminate 1
 doated 4
@@ -5478,7 +5478,7 @@ departer 1
 devastated 1
 dehistoricize 4
 dishwashing 3
-drama 1
+drama 2
 dematiaceous 1
 denotement 3
 dynatron 1
@@ -7139,7 +7139,7 @@ directively 3
 desulfuring 2
 dunging 2
 desulfurisation
-diplopiaphobia
+diplopiaphobia 1
 diipolia
 deamidase 1
 desulfurising 2
@@ -8351,7 +8351,7 @@ discriminations 2
 dichotomization 2
 dialysability
 diastolic 1
-docquet 4
+docquet 5
 dimerizing
 disgruntles 2
 diminutal 2
@@ -8371,7 +8371,7 @@ debauchedness 2
 diduction 1
 dupable 1
 dialystaminous 5
-dialystely 3
+dialystely 4
 dialystelic
 dialister 2
 dilatator 2
@@ -8574,7 +8574,7 @@ deuterovitellose 4
 decasualisation 2
 demonship 3
 decus 1
-dimercury
+dimercury 1
 diaphtherin 3
 dulcifies 1
 durative
@@ -11146,7 +11146,7 @@ deprecatoriness 1
 dammaret 2
 disbelievers 2
 diphosphid 1
-droich 2
+droich 3
 devocalise 2
 dazingly
 dratted
@@ -12470,7 +12470,7 @@ disimpark 1
 disimpassioned 1
 disempower 1
 dispersoidological
-disimprison 3
+disimprison 4
 dentinitis 3
 diageotropism 2
 diopsidae
@@ -13853,7 +13853,7 @@ defoliated 3
 distastefulness 3
 denom 2
 displuviate 2
-dross 1
+dross 2
 defends 2
 displaces 1
 druggier
@@ -14111,7 +14111,7 @@ distension 3
 distritbuting 1
 debasedness
 debauchery 3
-dingy
+dingy 1
 dovecot 2
 displace 1
 deepener 3
@@ -15042,7 +15042,7 @@ doggle 4
 drownings
 doggo 1
 distinguisher
-dehors
+dehors 1
 determinable
 doggoning
 detant
@@ -15427,7 +15427,7 @@ doorway 2
 dominique 1
 deboners 2
 dominule 1
-dissociability 2
+dissociability 3
 dowelling 1
 doggery 3
 domn 1
@@ -15517,7 +15517,7 @@ dewanny 3
 doloriferous 2
 dedicatee 2
 donkeyman 1
-draffman 6
+draffman 7
 decahedra
 dessert 4
 directness
@@ -16140,7 +16140,7 @@ dourest 1
 douroucouli
 dousing
 defeasive 3
-desorbing 2
+desorbing 3
 decrypted 2
 dualist 2
 dysmeromorphic 4
@@ -17417,7 +17417,7 @@ droppings 2
 drops 1
 dammar 1
 demesgnes
-disrudder 6
+disrudder 7
 dreamworld 2
 doeth 1
 decollimate 1
