@@ -12983,7 +12983,7 @@ dimout 1
 drossel 3
 dauntless
 depredicate 1
-dinoceratidae
+dinoceratidae 1
 disorganization
 dinning 1
 dace 3
@@ -16734,7 +16734,7 @@ dramme 1
 dacryohemorrhea 3
 drammed
 dottler 4
-disharmonised 2
+disharmonised 3
 digenic 2
 dramming 2
 dioecious
