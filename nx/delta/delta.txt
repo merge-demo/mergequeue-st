@@ -12369,7 +12369,7 @@ durability
 disturbers
 disherited 2
 divet 1
-defibrillator 1
+defibrillator 2
 deamidize 5
 deplantation
 drybrush 1
@@ -12476,7 +12476,7 @@ diageotropism 2
 diopsidae
 daube
 dysmerogenetic
-discorporate
+discorporate 1
 delphinoid 4
 disincarnate
 dudes 2
@@ -17617,7 +17617,7 @@ dubitant 2
 dexterical 2
 decastylar 1
 dichoree 3
-dacus 1
+dacus 2
 downfallen 1
 duant 1
 dentigerous 2
