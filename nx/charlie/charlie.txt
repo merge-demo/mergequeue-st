@@ -1969,7 +1969,7 @@ checkered
 capitols 2
 cumulose 1
 cyprinodont 1
-camerae 1
+camerae 2
 curbless 1
 cameral 1
 colonisation 1
@@ -4173,7 +4173,7 @@ cardiologic 1
 cariogenic 1
 calculating 1
 cardiologist
-cardiologists
+cardiologists 1
 cardiomegaly
 cyclus 1
 cardiomelanosis 2
