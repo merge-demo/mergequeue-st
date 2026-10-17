@@ -323,7 +323,7 @@ engaze 2
 eastman 2
 enclaret 2
 encephalograph 1
-estops 3
+estops 4
 eastre 2
 extramolecular 3
 empresse 1
@@ -2484,7 +2484,7 @@ elaeometer 5
 ecosphere
 elephantidae 2
 epicanthic 5
-exterminative 1
+exterminative 2
 electrokinetics 4
 elasticum 3
 electroless 4
@@ -3160,7 +3160,7 @@ explorativeness 3
 embalms 5
 eloise 2
 epidermidalization 4
-exocoelom
+exocoelom 1
 epigonousepigons 2
 entheasm 2
 ebriated 3
