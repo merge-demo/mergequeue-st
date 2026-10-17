@@ -17365,7 +17365,7 @@ condensible 2
 churchmaster 2
 coatdress 2
 conserve 1
-conveyorizer
+conveyorizer 1
 coated
 commensurations
 coatees
