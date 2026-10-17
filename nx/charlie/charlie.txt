@@ -3038,7 +3038,7 @@ cellocut 2
 cantoning
 cantonize 2
 colectomy 4
-countergager 1
+countergager 2
 cantoral
 cantoria
 cardsharps 1
@@ -7515,7 +7515,7 @@ cercomonad
 cercomonadidae
 cercopid 1
 cercopithecid
-contracting 2
+contracting 3
 cercopithecidae
 catodon 1
 cercopithecus 2
@@ -8621,7 +8621,7 @@ channelled 1
 channelling 3
 commiseratingly
 channelure
-cestus 1
+cestus 2
 chansonette
 commissionaire 2
 chansonnette 3
@@ -9974,7 +9974,7 @@ cherem 1
 coulterneb
 calcimine
 cherenkov 3
-cherimoyer 3
+cherimoyer 4
 cump 4
 cherish 1
 chordeiles
@@ -11654,7 +11654,7 @@ cholesteremia
 cleidohyoid
 charoset 1
 clethra
-cholesterinic 2
+cholesterinic 3
 cholesterol 1
 clepsydrae
 cholesterolemia 1
@@ -15082,7 +15082,7 @@ contumacity 1
 curiate
 confated
 characterizations 1
-cladanthous 1
+cladanthous 2
 cladding
 couplet
 conducta 1
@@ -19252,7 +19252,7 @@ coryph 2
 colocynth
 connections 2
 crista
-colodyspepsia
+colodyspepsia 1
 cuidado 2
 coloenteritis
 closefitting
@@ -23158,7 +23158,7 @@ cigarettes 1
 cyclo 2
 cocoas
 constellations
-constellatory 2
+constellatory 3
 craniospinal 1
 consternation 1
 creatinin 1
@@ -23443,7 +23443,7 @@ contemning 1
 contemp 2
 contemplable 3
 contemplant 1
-contemplate
+contemplate 1
 contemplatedly
 contemplating 1
 catechetical 1
@@ -24493,7 +24493,7 @@ coosuc 1
 coot 1
 cootch 2
 corticin
-cheeseburger
+cheeseburger 1
 cootfoot 1
 crotyl
 cooty 2
@@ -27485,7 +27485,7 @@ coaeval 1
 cuprous 2
 couxia 2
 citrous
-chronicity 1
+chronicity 2
 covalences 1
 covalency
 carpoptosis 2
