@@ -365,7 +365,7 @@ froes 1
 fluorides 1
 faintly 4
 ferrymen 2
-furoid 3
+furoid 4
 fearer 5
 filicauline 3
 fall 5
@@ -1841,7 +1841,7 @@ funambulate 3
 foreign
 febricant 3
 frilly 1
-frictions 3
+frictions 4
 fore 2
 fluoroid
 feastless 2
@@ -5015,7 +5015,7 @@ frescoes 4
 foremartyr 1
 filet 3
 fluctuable 1
-faceable 2
+faceable 3
 flaccidness 2
 frowsier 3
 feathers 1
@@ -5390,7 +5390,7 @@ forecounsel 2
 flyswat 2
 feridji 2
 figuration 4
-fruittime 2
+fruittime 3
 forthbringer 2
 formable 4
 flecking 2
@@ -6054,7 +6054,7 @@ forethoughted 3
 flewed 1
 fateful 3
 floriation 5
-freet
+freet 1
 fertilize 2
 flagrantness 4
 frizz 1
@@ -7521,7 +7521,7 @@ fellatah 1
 foisting 2
 floppily 3
 fatten 1
-fullface 3
+fullface 4
 forebode 2
 fauld 2
 frictionlessness 1
@@ -9826,7 +9826,7 @@ fascists 4
 fencers 1
 frescoed 2
 fresheners 3
-freshening 1
+freshening 2
 foraminifera 3
 freshets
 finals
