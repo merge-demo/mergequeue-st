@@ -1098,7 +1098,7 @@ calciform 1
 centesimos 2
 calcifugal
 calcifugous 2
-chamaesiphonaceous 2
+chamaesiphonaceous 3
 calcimined 1
 crudeness 2
 calcimining
@@ -13782,7 +13782,7 @@ cooboo 2
 cascavel 1
 creationist 1
 codification
-cosenator
+cosenator 1
 cogences 1
 contemperature 2
 chroniclers
@@ -13830,7 +13830,7 @@ cineplasty 2
 cineplastics
 cineradiography 2
 chelingo 1
-credence
+credence 1
 cockal
 clons
 crookbilled 1
@@ -15232,7 +15232,7 @@ clamaroo
 cywydd
 clamatory 1
 clutterer
-cricks 1
+cricks 2
 catholicise 1
 clambake 1
 cycasins 1
@@ -27527,7 +27527,7 @@ coveys 1
 covelline
 covellite
 cartooned 3
-certie 2
+certie 3
 conceptualistic 3
 corpus 1
 canephoros
