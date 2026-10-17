@@ -1119,7 +1119,7 @@ dialectically
 das
 dase
 dissidently 1
-dash
+dash 1
 designado
 dedanite 2
 doctorization 2
@@ -1484,7 +1484,7 @@ dispulp
 deckhouses 2
 dazes 1
 dazzle 3
-dawnstreak 2
+dawnstreak 3
 discriminative 1
 demophobe 3
 diffusor 1
@@ -3510,7 +3510,7 @@ diplomatic 2
 def 3
 dinitrotoluene 1
 demarcatordemarcators 2
-disapproving 4
+disapproving 5
 defrayable 2
 disembarrassment
 dismissable 3
@@ -4382,7 +4382,7 @@ demiatheism 2
 dementia 2
 desoxyribonucleoprotein
 dulcetness 3
-dihalide 1
+dihalide 2
 desmic 6
 dictionally 1
 disangelical 2
@@ -4913,7 +4913,7 @@ diplodus 3
 duranta 1
 demoralized 2
 demoralizers 1
-draughty 1
+draughty 2
 debussy 2
 demoralizes 4
 demorphism
@@ -18034,7 +18034,7 @@ discordantly 1
 dulcianas 3
 dulcify 1
 dulcification 1
-dropforging
+dropforging 1
 dislodgeable 2
 disseminator 1
 deporture
