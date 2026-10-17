@@ -3250,7 +3250,7 @@ goxes 1
 german 5
 geckos 4
 gunstocks 3
-germanify
+germanify 1
 graminiferous 2
 germanification
 gadso 2
@@ -4208,7 +4208,7 @@ gastroscope 3
 giddied 2
 gangliated 5
 gibeonite 2
-graspers 6
+graspers 7
 gasconism 6
 gastroepiploic 4
 gnus 4
@@ -8334,7 +8334,7 @@ gynaecia 5
 glod 3
 gephyrocercy 3
 glacon 3
-gladnesses 3
+gladnesses 4
 gazelle 3
 gilenyer 3
 greenslade 3
@@ -10364,7 +10364,7 @@ gullets 1
 generators 1
 geomorphological 3
 gainsome 5
-gargoyled 2
+gargoyled 3
 grouplet 3
 gallflower 3
 garbanzos
