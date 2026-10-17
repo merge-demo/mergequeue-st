@@ -7596,7 +7596,7 @@ geneserin 2
 gillotype 4
 gelatiniferous 1
 grounded 3
-generability 1
+generability 2
 grinagog 2
 gypsying
 gambet 3
