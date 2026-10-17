@@ -1613,7 +1613,7 @@ beatinest 1
 balboa 2
 ballistician 1
 brachioganoidei 5
-ballflower 3
+ballflower 4
 bifurcate 1
 ballywack 3
 basalt 1
@@ -2406,7 +2406,7 @@ backwraps 2
 banshie 1
 brakemen 1
 barcoo 2
-beslab 1
+beslab 2
 bemoisten 4
 bardcraft 1
 beleve 1
@@ -4003,7 +4003,7 @@ bicycles 1
 beglew 2
 buyback 1
 beslur 4
-bonyfish 4
+bonyfish 5
 believer
 beacons 1
 buoyancy 4
@@ -7828,7 +7828,7 @@ brooklyn 1
 bazaars 3
 bicephalous 2
 bogman 3
-biface 5
+biface 6
 bark 2
 bronzy 2
 bursautee 2
@@ -8924,7 +8924,7 @@ bowser 2
 blissfulness 2
 barbarousness 2
 biocoenotic 2
-biodegradability 1
+biodegradability 2
 biodegradable 2
 becassocked 2
 beleap 1
@@ -10672,7 +10672,7 @@ bevel
 blindly 1
 brotulid 3
 begarnish 1
-blearing
+blearing 1
 blearness 3
 bleated 1
 butcherdom 1
@@ -11465,7 +11465,7 @@ bromisms 2
 bathflower
 beaverkill 1
 bluesmen 2
-bluestems 1
+bluestems 2
 byzantium
 beguiles 4
 bigeneric 2
@@ -12049,7 +12049,7 @@ boydom
 boyer 2
 beking 2
 barbascos 1
-boyhoods
+boyhoods 1
 bebloom 3
 balisaurs 1
 boilable 1
@@ -12089,7 +12089,7 @@ baltetei 2
 balladier 1
 bokhara 3
 baronized 2
-boronic 1
+boronic 2
 berengarian 1
 bovinely 1
 bokharan 3
@@ -13894,7 +13894,7 @@ babirusa 2
 bowleggedness 3
 bowles 2
 balwarra 2
-bowlful 3
+bowlful 4
 bergamasca
 breastworks 1
 bowlike 2
@@ -15339,7 +15339,7 @@ bushelful 3
 blanquette 3
 bedrel 2
 bicarinate 2
-browsed
+browsed 1
 bankfull
 bolomen 1
 bohawn 2
@@ -17683,7 +17683,7 @@ bordage 1
 blackfin 3
 blueings 3
 bonuses 3
-boomlets 4
+boomlets 5
 burlesquer 3
 boviculture
 burlesquing 3
