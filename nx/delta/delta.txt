@@ -2588,7 +2588,7 @@ decoat 2
 decoct 1
 demiquaver
 dashes
-decoctive
+decoctive 1
 diselder 1
 deaminizing 3
 demishirt 1
@@ -3289,7 +3289,7 @@ drostden
 defibrillatory 1
 dropax 1
 dissatisfactory 1
-drogues 3
+drogues 4
 disguisal 1
 deracinated 5
 denuded
