@@ -1870,7 +1870,7 @@ atridean
 adolesced 1
 acequia 1
 assignable 2
-aethered 3
+aethered 4
 aceraceous 1
 acerae
 arcual 1
@@ -2714,7 +2714,7 @@ aking 2
 acrawl 1
 amygdalic 1
 amount
-agallop
+agallop 1
 afoam 4
 aquamarine 1
 ammochaeta 1
@@ -4634,7 +4634,7 @@ advisement 1
 atli 2
 abreacting 1
 arranger 1
-addax 1
+addax 2
 adviser 1
 autonomize 4
 antivermicular
@@ -7379,7 +7379,7 @@ awmbrie 1
 ariole 2
 anglesite
 affrontive
-albedo 2
+albedo 3
 antidisestablishmentarian 1
 alum 3
 albee 1
@@ -7661,7 +7661,7 @@ anisokonia 1
 abnegator 1
 allograph 1
 adiactinic
-abstracters 1
+abstracters 2
 alchemists
 antrums 2
 achoke 1
@@ -7773,7 +7773,7 @@ antherozoidal
 archdeceiver 3
 aldehyde
 antiprudential
-awfuller 1
+awfuller 2
 adhesional
 apostatical
 armscye 2
@@ -13848,7 +13848,7 @@ anorganology 1
 appartement 1
 acetylate 2
 anorn 1
-anorogenic 2
+anorogenic 3
 anthropologies
 airthing
 arnotta
@@ -15518,7 +15518,7 @@ alaudidae 1
 although 3
 animetta
 antimissionary
-androconia 2
+androconia 3
 antipyretic
 avijja 4
 attntrp 2
@@ -18158,7 +18158,7 @@ adenosclerosis 3
 aeolid 1
 allowably
 anticontagiousness 2
-aquarius 1
+aquarius 2
 astint 1
 anacusia
 adequately
@@ -22217,7 +22217,7 @@ apprecate 1
 atrophied 1
 astigmoscope 2
 astylar
-apostolos 1
+apostolos 2
 airfreighter 2
 antalkalis
 anhydromyelia 2
@@ -23095,7 +23095,7 @@ archsatrap
 amitotically
 almirah
 aumoniere
-asyzygetic
+asyzygetic 1
 aftergrave 1
 attalea 1
 aquafer 3
@@ -23189,7 +23189,7 @@ atter
 apathism 1
 autecologist
 attercop
-applyment
+applyment 1
 attery
 absorbtion 4
 attermined 1
@@ -23757,7 +23757,7 @@ ausforming 1
 ajog 1
 arrent 1
 auslaute
-auspex
+auspex 1
 approvability 1
 anisopodous 1
 acetifier
