@@ -3584,7 +3584,7 @@ foreskirt 3
 florigraphy 1
 forspoken 6
 feddan 7
-flapjacks
+flapjacks 1
 fussle 2
 fairbanks 2
 fourniture 1
@@ -5029,7 +5029,7 @@ flipping 1
 fallows 1
 flutes 1
 flatbeds 3
-flanneling
+flanneling 1
 floush 1
 fungoidal 3
 ferries 2
@@ -6821,7 +6821,7 @@ foreheater 3
 foreleader 1
 foveiform 6
 fjelds 5
-frette 1
+frette 2
 fiddlebrained 3
 freeing 3
 foraminiferan 2
@@ -6914,7 +6914,7 @@ feculence 3
 forswear 4
 foreignization 1
 footsie 6
-freewomen 2
+freewomen 3
 freekirker 2
 flaxseeds 2
 fleyedly 3
@@ -7173,7 +7173,7 @@ fifteener 5
 fumarases 2
 foremind 1
 flukewort 1
-foothalt 5
+foothalt 6
 filths 2
 flagfish 4
 fend 4
@@ -7837,7 +7837,7 @@ fashionableness
 felonwood 3
 fowlerite 1
 foreordinate 2
-floridian
+floridian 1
 forespent 5
 finns 1
 filterman 5
@@ -10923,7 +10923,7 @@ fliskier 3
 forsworn 4
 falloffs 2
 fides 2
-fulleries
+fulleries 1
 familiarising 3
 fleets 4
 frowsty 5
