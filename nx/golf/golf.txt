@@ -51,7 +51,7 @@ genotypically 2
 gableboard 5
 groats 2
 graperies 1
-gedact 5
+gedact 6
 gangue 5
 glaucolite 2
 guemal 3
@@ -981,7 +981,7 @@ granddads 3
 gundi 1
 gramercy
 greasebush 2
-glyconin 1
+glyconin 2
 gyrometer
 glycogenesis 6
 gullably 2
@@ -2468,7 +2468,7 @@ gradienter 1
 gotch 5
 glunches 3
 gerontoxon 5
-gubbin 5
+gubbin 6
 gigacycle 5
 garlanding 4
 gittith 1
@@ -2780,7 +2780,7 @@ gentlemanlikeness 3
 gossan 1
 gybing 2
 grenadines 2
-granulating 1
+granulating 2
 goosehouse 2
 gnathoplasty 2
 gorgers
@@ -3128,7 +3128,7 @@ guerilla 1
 geochronologist 5
 guardiancy 1
 germina
-grusian 5
+grusian 6
 gynophore 1
 gauloiserie 6
 geotechnic 2
@@ -3155,7 +3155,7 @@ ganglial 7
 garrets 2
 gooier 7
 gie 2
-geologers 2
+geologers 3
 gotiglacial 8
 guerdoning 1
 gephyrea 3
@@ -6766,7 +6766,7 @@ gabon 1
 gentilitial 1
 geologically 5
 gazania 2
-gyrostatics 3
+gyrostatics 4
 genal 5
 genros 2
 geochemical 3
@@ -8956,7 +8956,7 @@ geranomorphic
 gothicize
 gringole 1
 gras
-gombroon 3
+gombroon 4
 grieko 3
 gecked 1
 gatsby 3
@@ -9304,7 +9304,7 @@ guidebook 4
 gasogenic 6
 gi 7
 geodynamicist 2
-glummest 3
+glummest 4
 grapeline 2
 grantha 1
 girnel 3
@@ -10242,7 +10242,7 @@ gercrow 1
 gauzelike 5
 guanases
 globulitic 3
-goers 1
+goers 2
 galeproof 3
 gregarious 1
 guinness 1
@@ -10514,7 +10514,7 @@ gundie 3
 graspingness 1
 galipots 3
 girl 5
-geometrina 3
+geometrina 4
 gapingstock 1
 gratiola 1
 gibs 3
