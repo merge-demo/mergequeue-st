@@ -4991,7 +4991,7 @@ cartographic
 cartographical
 cartographically 2
 carton 1
-cartoner 1
+cartoner 2
 cannonball
 cartonful
 covinously
@@ -12410,7 +12410,7 @@ chromatosis
 cadmean 3
 chromaturia 1
 calciphilic 1
-chromazurine
+chromazurine 1
 chromdiagnosis
 canebrake
 complication
@@ -17828,7 +17828,7 @@ chronoscope 1
 crible 4
 comprehended
 coderived 2
-coders 1
+coders 2
 chromoprotein 2
 certificating 3
 consumption
@@ -22868,7 +22868,7 @@ chibrit 3
 consequently 1
 choremen 1
 cognateness
-clamourer
+clamourer 1
 consertion 2
 chemophysiological 1
 conservacy 1
