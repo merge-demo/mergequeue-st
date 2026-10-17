@@ -1818,7 +1818,7 @@ bowmen 1
 balloonet 2
 bedsprings 2
 bambute 1
-blackheart 2
+blackheart 3
 becombed 1
 baserunning
 belonid 3
@@ -4125,7 +4125,7 @@ blanchimeter 2
 bearding 2
 bonita
 balminess 1
-beslimer 1
+beslimer 2
 beards 4
 barbers
 birthroot
@@ -18103,7 +18103,7 @@ bedoyo 1
 bolbanac 3
 butcher 1
 blindstorey 2
-bupleurum 3
+bupleurum 4
 boosts 2
 blocklayer 3
 butcherbird 4
