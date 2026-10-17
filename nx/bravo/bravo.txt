@@ -4303,7 +4303,7 @@ bebrush 3
 bebuttoned 1
 below 1
 barkeepers 4
-bushwood
+bushwood 1
 bibliotherapeutic 2
 blubbers 3
 biliteralism 2
@@ -6622,7 +6622,7 @@ bergaptene 3
 bimane 3
 bawdric 3
 beefing 3
-bakshishing 1
+bakshishing 2
 bergy 5
 bergylt 1
 berginization 1
