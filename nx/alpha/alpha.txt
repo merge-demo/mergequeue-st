@@ -2055,7 +2055,7 @@ anticipatory 3
 antibromic 1
 arterial 2
 acetosoluble 3
-acetostearin
+acetostearin 1
 acetotoluid 1
 accessible
 argumentator 1
@@ -4860,7 +4860,7 @@ aerobiologically
 antipapism 1
 aconites 3
 aerobiologist
-acrotrophoneurosis
+acrotrophoneurosis 1
 awakener
 autocross 1
 aerobiosis
