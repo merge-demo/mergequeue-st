@@ -4303,7 +4303,7 @@ bebrush 3
 bebuttoned 1
 below 1
 barkeepers 4
-bushwood
+bushwood 1
 bibliotherapeutic 2
 blubbers 3
 biliteralism 2
@@ -6047,7 +6047,7 @@ bemuddlement 1
 bemuddles 3
 bemuddling 2
 bacteremia
-bemurmur 2
+bemurmur 3
 bondwoman 1
 butyral 1
 botaniser
@@ -6622,7 +6622,7 @@ bergaptene 3
 bimane 3
 bawdric 3
 beefing 3
-bakshishing 1
+bakshishing 2
 bergy 5
 bergylt 1
 berginization 1
@@ -6846,7 +6846,7 @@ benignity 2
 blackmailed
 bacteriotoxic 1
 benkulen
-bigener 1
+bigener 2
 buicks 1
 bioluminescent 1
 bescourge 3
@@ -9595,7 +9595,7 @@ biscuits 3
 bhutia 2
 bromides 1
 bumbledom 1
-bronchomycosis 2
+bronchomycosis 3
 bahut 2
 blastomata 1
 biscutate 1
@@ -12253,7 +12253,7 @@ barrandite
 bogway 1
 bolshevist 2
 biopoesis 2
-bolshevize 2
+bolshevize 3
 bantamweights 1
 bilboas 2
 borocaine 2
@@ -13894,7 +13894,7 @@ babirusa 2
 bowleggedness 3
 bowles 2
 balwarra 2
-bowlful 2
+bowlful 3
 bergamasca
 breastworks 1
 bowlike 2
@@ -14911,7 +14911,7 @@ breakers 2
 breakfast 2
 buffetings
 bastard 5
-breakfronts 2
+breakfronts 3
 brighid 2
 butlerage 2
 breaking 1
@@ -15870,7 +15870,7 @@ borrelia 2
 beelol
 bratticer
 benaming 3
-bromauric 1
+bromauric 2
 balu 1
 brecciated 6
 backcloth 2
@@ -17156,7 +17156,7 @@ bagrationite
 bombards
 bullyism 5
 bintangor 2
-brushmaking 1
+brushmaking 2
 bullion 1
 balkanization 3
 bullyrag 1
