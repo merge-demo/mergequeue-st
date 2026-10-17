@@ -1704,7 +1704,7 @@ fashionmonger 3
 flighted 2
 fascio 1
 floats 2
-filicin 4
+filicin 5
 fortravail 3
 factable 2
 floroon 6
@@ -5532,7 +5532,7 @@ furnit 4
 faked 1
 faithfulness 3
 filionymic 2
-fondaco 2
+fondaco 3
 forbearingness 2
 frowzy 5
 faldage
