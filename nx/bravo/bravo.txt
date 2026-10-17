@@ -2164,7 +2164,7 @@ boxfishes 1
 bantering 4
 banteringly
 banty
-betangle 1
+betangle 2
 bribery 1
 bantus 2
 brabbled 2
@@ -7828,7 +7828,7 @@ brooklyn 1
 bazaars 3
 bicephalous 2
 bogman 3
-biface 4
+biface 5
 bark 2
 bronzy 2
 bursautee 2
@@ -12286,7 +12286,7 @@ boltmaker
 bunga
 blee 1
 bombaster 3
-bodock 2
+bodock 3
 bowfront
 biquartz 5
 brogans
