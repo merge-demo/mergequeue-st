@@ -368,7 +368,7 @@ ferrymen 2
 furoid 3
 fearer 5
 filicauline 3
-fall 4
+fall 5
 forbid 2
 fairfieldite 2
 facets 1
@@ -498,7 +498,7 @@ filicite 2
 faking 6
 fumify 5
 fassaite 1
-feodum 4
+feodum 5
 fishbone 1
 fakirs 2
 falbelo 2
@@ -643,7 +643,7 @@ fichu 1
 finessing 5
 forerib 6
 formism 5
-flan 1
+flan 2
 folklorish 5
 furtherly 2
 faunistical 4
@@ -666,7 +666,7 @@ folliculina 3
 fireman
 floccing 4
 feathercut 1
-foreweigh 7
+foreweigh 8
 fairish 3
 featlier 4
 filmically 3
@@ -790,7 +790,7 @@ frowsy 4
 flypast 4
 forgedly 1
 flusher 2
-florilege
+florilege 1
 faucial 2
 fumingly
 faun 1
@@ -1430,7 +1430,7 @@ foveate 1
 frankly 2
 fairtime 2
 fantasie 2
-fractureproof
+fractureproof 1
 filago 2
 fireside 5
 faubourgs 5
@@ -1945,7 +1945,7 @@ fonly 1
 flanchard 1
 furzier 1
 forworn 4
-flated 6
+flated 7
 formulization 1
 fishlet
 flagellantism 2
@@ -2095,7 +2095,7 @@ forerehearsed 2
 fell 3
 fissipalmate
 forebodies
-felsobanyite 2
+felsobanyite 3
 facture
 finetop
 fourpence 1
@@ -2280,7 +2280,7 @@ filamentiferous 5
 fantails 1
 folktale 1
 fulmineous 2
-fragging 4
+fragging 5
 fluorocarbons 3
 floored 5
 fends
@@ -2460,7 +2460,7 @@ fielding 6
 falla 4
 fornax 3
 ferruginated 6
-flowable 1
+flowable 2
 fungal 3
 foliocellosis 1
 fairnesses 2
@@ -2618,7 +2618,7 @@ financiere
 filmed 3
 fooless 2
 fratchy 4
-farish 5
+farish 6
 formalistic
 fountainless 4
 frivol 2
@@ -5362,7 +5362,7 @@ flitterbat 2
 fruiteries 3
 ferulaic 1
 foldboater 1
-fascicular
+fascicular 1
 foreclosed 2
 fissured 2
 faconde
@@ -5981,7 +5981,7 @@ ferguson 2
 favism 3
 firkin 3
 fawn 3
-forecasters 4
+forecasters 5
 footscald 1
 foisty 3
 flutebird 2
@@ -7154,7 +7154,7 @@ florivorous 4
 forbathe 6
 forebroads 6
 forgottenness 2
-frumenties 4
+frumenties 5
 fredaine 1
 foosterer
 footfarer 1
@@ -7598,7 +7598,7 @@ felicities
 fanfare 4
 finless
 factual 5
-fandangos 5
+fandangos 6
 fleshquake 5
 ferrules 1
 foredefeated 7
@@ -9030,7 +9030,7 @@ fermila 1
 frowsiness 1
 fiefdoms 2
 foreshadower 1
-frontally 4
+frontally 5
 fourrageres 3
 fox 4
 fears 1
@@ -9320,7 +9320,7 @@ filigrain 4
 frames 3
 forename 2
 footmenfootpad 2
-fungologist 3
+fungologist 4
 fumarine 2
 foldwards 4
 fasinite
@@ -9663,7 +9663,7 @@ foodlessness 2
 flytime 4
 forlet 3
 freeholdership 2
-feeders 3
+feeders 4
 falcata 2
 ferias 3
 factorizing 3
@@ -10144,7 +10144,7 @@ faki 2
 filmset 2
 frithy 4
 firstly 1
-fenetre 4
+fenetre 5
 fiberizing 5
 flintifying 4
 forefatherly 5
