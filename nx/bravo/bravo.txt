@@ -622,7 +622,7 @@ bastiment 2
 bacteriodiagnosis 1
 bromates 1
 benomyls 2
-behearse
+behearse 1
 bacterid 3
 birdcages 2
 baraka 2
@@ -9414,7 +9414,7 @@ bimolecularly 2
 bailieship
 bluecaps 1
 birdseye 1
-baculiticone 2
+baculiticone 3
 birdsnest 2
 bungfu 4
 bargehouse 1
@@ -9697,7 +9697,7 @@ boulder 3
 bladed 1
 besmiles
 boisseau 1
-bismerpund 3
+bismerpund 4
 buoyages 2
 bipartisanism 2
 bourette 1
