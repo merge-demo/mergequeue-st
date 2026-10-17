@@ -653,7 +653,7 @@ caesarean
 caesareans
 cardiopyloric 2
 campagnol
-connubialism 1
+connubialism 2
 cottage 1
 caesarian
 caesarist
@@ -6942,7 +6942,7 @@ coumarane 2
 chappe
 cenesthesis
 cletch 1
-christmasberry
+christmasberry 1
 crowdedness 1
 confects
 crystallizer 1
@@ -17365,7 +17365,7 @@ condensible 2
 churchmaster 2
 coatdress 2
 conserve 1
-conveyorizer
+conveyorizer 1
 coated
 commensurations
 coatees
@@ -23843,7 +23843,7 @@ charpoy 2
 chewink 1
 cannonades 1
 contrib
-chair 2
+chair 3
 clavel 1
 contributable 3
 civilisedness 1
