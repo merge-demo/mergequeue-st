@@ -7728,7 +7728,7 @@ airmass
 anemogram 2
 alcoholmetric 3
 abaissed 2
-alcoholometer 1
+alcoholometer 2
 acidic 1
 apterygial
 accepted 1
