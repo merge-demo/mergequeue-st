@@ -1077,7 +1077,7 @@ granddaddy 3
 ghostliness 5
 galimatias 1
 groundway 1
-gypsums 4
+gypsums 5
 gegenion 5
 glares 2
 guarding 2
@@ -1541,7 +1541,7 @@ ginny 2
 geodete 2
 gibe 2
 gaspers 3
-galliardise
+galliardise 1
 grassless 1
 gassed 3
 grana 1
@@ -1549,7 +1549,7 @@ gentlemens 3
 gilbert 2
 glutelin 3
 gripe 2
-glassless 1
+glassless 2
 ghegish 4
 guested 6
 gregarinoidea 1
@@ -2375,7 +2375,7 @@ gushier 3
 gemmer 2
 gumphion 6
 grow
-guianese 5
+guianese 6
 groomed 4
 gauk 3
 gruesomer 3
@@ -3589,7 +3589,7 @@ gauntleted 2
 gridirons 4
 gillnetting 2
 gonadotropic 3
-ghostdom 4
+ghostdom 5
 gardenin 4
 gipsylike 1
 gaffkya 2
@@ -5653,7 +5653,7 @@ gothites 1
 golliwog 4
 grizzler 2
 gaultheria 4
-gaudies 2
+gaudies 3
 galvanographic 6
 girland 5
 glandulous 5
@@ -5849,7 +5849,7 @@ gardon 3
 griddled 3
 gasfiring 2
 grandesque 3
-gynoeciumcia 3
+gynoeciumcia 4
 glycogenous 2
 gravimetric 2
 glutamates 2
@@ -6760,7 +6760,7 @@ galiot 3
 goniatitic 2
 ganglioside 1
 gossiping 2
-geront 3
+geront 4
 gymnogyps 3
 gabon 1
 gentilitial 1
@@ -7284,7 +7284,7 @@ gwerziou 5
 girasols 2
 gavelman 4
 glassblowing
-greencloth 2
+greencloth 3
 ginsengs 4
 glazed 2
 giglio 1
@@ -7865,7 +7865,7 @@ gerents 2
 goosander 3
 gooroo 4
 gnawing 1
-gurlet 4
+gurlet 5
 gasometric 3
 guttide 5
 grovelled 4
@@ -9061,7 +9061,7 @@ gomasta 3
 gothlander 2
 gristbite 2
 grateful 3
-granulomatous 2
+granulomatous 3
 gnatcatcher 3
 girasole 4
 globular
@@ -10437,7 +10437,7 @@ gelees 1
 guaiacs 2
 goatskins
 gittite 5
-greedy 4
+greedy 5
 gastronomically 3
 gummaking 2
 gallotannic 4
@@ -10545,7 +10545,7 @@ gunk 3
 girdering 1
 grateman 2
 grilling 2
-guillemot 2
+guillemot 3
 gossipmongering 2
 gimpy 2
 gambetta 1
