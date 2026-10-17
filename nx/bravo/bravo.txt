@@ -3987,7 +3987,7 @@ brittlewood
 bawtie 1
 bantlings 3
 brand 2
-bnf 2
+bnf 3
 bespy
 becursed 2
 beaching 2
@@ -5592,7 +5592,7 @@ burys 1
 bibasic
 benzylpenicillin 3
 behoovingly 3
-basinasal 2
+basinasal 3
 boulanger
 bela 1
 beluchi 2
@@ -7439,7 +7439,7 @@ brabblingly 2
 bushelled
 baldnesses 5
 bettermost 3
-bedeviling 2
+bedeviling 3
 bulbar 1
 bebeerine 1
 bordelaise 2
@@ -10948,7 +10948,7 @@ brooms 2
 beadroll 1
 blinker 1
 balancewise 2
-bitterful 1
+bitterful 2
 barretors 1
 blowhards 3
 becrowded 2
