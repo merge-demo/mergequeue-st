@@ -1769,7 +1769,7 @@ deathtime
 diverticular 2
 diphenan 2
 dividend 1
-diphyllobothrium 1
+diphyllobothrium 2
 debriefs 2
 deathtrap 2
 devocalization 1
@@ -6956,7 +6956,7 @@ despisableness 2
 downfalls 4
 despiser 3
 decemvii 1
-dipleuric
+dipleuric 1
 desertness 2
 disqualifying
 distills 2
