@@ -2060,7 +2060,7 @@ devotion 1
 downgate 3
 debilities
 decaying 2
-diopsimeter 1
+diopsimeter 2
 diety 2
 dummy 3
 defaced 3
@@ -5344,7 +5344,7 @@ drumbeating
 deceptory
 displeasure 3
 dribbler 3
-downless 1
+downless 2
 decorative 1
 dentistical 2
 detribalizing 2
@@ -8722,7 +8722,7 @@ diapase 1
 deems 3
 diastase 2
 din 1
-domelike 4
+domelike 5
 disproportionateness 1
 discriminate 3
 diatomales 2
@@ -12821,7 +12821,7 @@ derotreme 4
 dirhem 3
 dismarket 4
 dispence 1
-dunnages 1
+dunnages 2
 dicotyledon 1
 devotionally 1
 dominial 1
