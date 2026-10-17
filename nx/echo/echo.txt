@@ -2023,7 +2023,7 @@ elaic 1
 enteroplegia 2
 elaioplast 3
 elamite 2
-elamitish 3
+elamitish 4
 episcope 4
 electrophorese 3
 evilly
@@ -2486,7 +2486,7 @@ elephantidae 2
 epicanthic 5
 exterminative 1
 electrokinetics 4
-elasticum 2
+elasticum 3
 electroless 4
 exsecants 3
 earwort 1
@@ -6439,7 +6439,7 @@ eurypteroidea
 ensoul 2
 ensouled 1
 evolutes 2
-ectodermic 1
+ectodermic 2
 enlister 2
 extill 4
 enstar 1
@@ -7595,7 +7595,7 @@ epicortical 3
 enterostomy 6
 esere 4
 educed 1
-enterogastritis
+enterogastritis 1
 exponents 1
 epicotyls 2
 euphues 1
@@ -8497,7 +8497,7 @@ exorcise 1
 equalitarianism 1
 essee 1
 enantiomorphism 1
-extratorrid 6
+extratorrid 7
 ethmoiditis 2
 epiphysis 1
 elain 1
