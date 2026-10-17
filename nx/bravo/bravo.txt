@@ -2402,7 +2402,7 @@ blip 4
 boutel 2
 bebeeru 2
 barcone 3
-backwraps 2
+backwraps 3
 banshie 1
 brakemen 1
 barcoo 2
@@ -7889,7 +7889,7 @@ bedboard 2
 brachiation 2
 bedlike 1
 bibliomane 2
-bokmakierie
+bokmakierie 1
 bams 1
 bibliomania
 buxerries
@@ -11984,7 +11984,7 @@ bedwarf 3
 bipack 1
 bogong 3
 bruskly 1
-biod 1
+biod 2
 bacchical 2
 bogtrotting 2
 batfowler
@@ -12985,7 +12985,7 @@ boozes
 boozier 3
 bombings
 booziest
-bookmate 1
+bookmate 2
 banausic 3
 bipennated 1
 bombycillidae 1
@@ -15829,7 +15829,7 @@ barebones 1
 baksheeshes 1
 balsamer 4
 brilliance 1
-bemires 1
+bemires 2
 bimaculated 3
 bourguignonne 2
 borism
