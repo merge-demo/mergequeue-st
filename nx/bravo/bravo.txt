@@ -622,7 +622,7 @@ bastiment 2
 bacteriodiagnosis 1
 bromates 1
 benomyls 2
-behearse
+behearse 1
 bacterid 3
 birdcages 2
 baraka 2
@@ -1192,7 +1192,7 @@ bajocco 1
 bajochi 1
 borborygmus
 bemeaned 2
-bajra 4
+bajra 5
 bogeyed 3
 brickset 3
 beltmen 2
@@ -1979,7 +1979,7 @@ brandishes
 bigeye 6
 believes 1
 bosquets 3
-baahling 2
+baahling 3
 beeway 4
 beworms 3
 bandwidth 3
@@ -9414,7 +9414,7 @@ bimolecularly 2
 bailieship
 bluecaps 1
 birdseye 1
-baculiticone 2
+baculiticone 3
 birdsnest 2
 bungfu 4
 bargehouse 1
@@ -9697,7 +9697,7 @@ boulder 3
 bladed 1
 besmiles
 boisseau 1
-bismerpund 3
+bismerpund 4
 buoyages 2
 bipartisanism 2
 bourette 1
@@ -10032,7 +10032,7 @@ bodes 1
 bouilli 3
 baining 3
 basely
-bushranger 3
+bushranger 4
 bedeviled 1
 brockle 1
 battuto 1
@@ -12491,7 +12491,7 @@ bdls
 bulbochaete
 burnewin 3
 bluestone 1
-breaden 1
+breaden 2
 betaines
 brawniness 3
 burntness
