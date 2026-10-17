@@ -1025,7 +1025,7 @@ foraging 4
 fogas 2
 faro 4
 fluoridization 5
-fluorogen 5
+fluorogen 6
 floter 2
 foredestining 1
 furriery 2
@@ -4930,7 +4930,7 @@ foining 2
 fluoresced 1
 forsooth 3
 foppishly 1
-fourteens 2
+fourteens 3
 flamen 4
 flamandization 3
 firefanged 3
@@ -7741,7 +7741,7 @@ falconlike 2
 fretty 3
 furs 3
 forsaken 4
-flamelike 1
+flamelike 2
 formalizations 1
 flicky 2
 fireshine 2
@@ -8459,7 +8459,7 @@ formalesque 4
 feudalizable 3
 foistiness 1
 flatfootedly 5
-freshmanic 6
+freshmanic 7
 formulize 2
 fierier 2
 flushers 2
@@ -9030,7 +9030,7 @@ fermila 1
 frowsiness 1
 fiefdoms 2
 foreshadower 1
-frontally 5
+frontally 6
 fourrageres 3
 fox 4
 fears 1
