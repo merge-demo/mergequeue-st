@@ -337,7 +337,7 @@ anguis 2
 avar
 appeals 1
 agnomical 1
-aziminobenzene 1
+aziminobenzene 2
 agonises 1
 abeles 1
 allochezia
@@ -1368,7 +1368,7 @@ argentojarosite
 amnesias 2
 affiliated
 aiolis 1
-agnized 2
+agnized 3
 accelerate 2
 anilide 1
 arabize 1
@@ -1487,7 +1487,7 @@ acclimatement 1
 attires
 alewhap
 acclimates
-acclimatisation 4
+acclimatisation 5
 affixable 3
 archaisms 2
 amortize 1
@@ -2036,7 +2036,7 @@ aberrancies
 apathistical 1
 ample 1
 antireligious
-alembroth 2
+alembroth 3
 amidoazobenzene 1
 arizonans
 alap 1
@@ -2055,7 +2055,7 @@ anticipatory 3
 antibromic 1
 arterial 2
 acetosoluble 3
-acetostearin
+acetostearin 1
 acetotoluid 1
 accessible
 argumentator 1
@@ -3327,7 +3327,7 @@ acutilingual 3
 axal 1
 acutilobate 1
 arterioarctia 1
-acutiplantar
+acutiplantar 1
 autoluminescence 2
 acrylate 1
 assassin 1
@@ -3848,7 +3848,7 @@ adiaphorist 1
 airframes 1
 adiaphoron 1
 anisopterous 1
-ammodytidae 1
+ammodytidae 2
 accoucheur 1
 adiathermancy 1
 antioxidase 2
@@ -4860,7 +4860,7 @@ aerobiologically
 antipapism 1
 aconites 3
 aerobiologist
-acrotrophoneurosis
+acrotrophoneurosis 1
 awakener
 autocross 1
 aerobiosis
@@ -5917,7 +5917,7 @@ anophyte 1
 ages 1
 altisonant
 achroiocythemia 2
-asthenic 2
+asthenic 3
 ambisporangiate 1
 agger 2
 aleukaemic
@@ -6938,7 +6938,7 @@ axillant 1
 abound 2
 airscrews 1
 airsheds 4
-afterwisdom 1
+afterwisdom 2
 asarta 2
 antiptosis 3
 antinationalists 1
@@ -11041,7 +11041,7 @@ australians 3
 amorally 1
 adminstration 2
 actinomorphy
-astraeid
+astraeid 1
 aesthiology 1
 androphagous 2
 amorettos
@@ -12299,7 +12299,7 @@ argumentatively 1
 arcades 1
 anchusas 1
 arteriosympathectomy 1
-archcupbearer 2
+archcupbearer 3
 ancientest 1
 anciently 1
 ancile
@@ -12540,7 +12540,7 @@ aikidos
 antehistoric
 arsenicated
 anthracitous
-anemias
+anemias 1
 azines 1
 academian 1
 adelarthrosomata 2
@@ -14220,7 +14220,7 @@ aeromechanical 2
 abasedness 1
 anterethic 1
 ancor 3
-adipogenic 1
+adipogenic 2
 alismoid 1
 alexiterical 2
 antergic 2
@@ -14361,7 +14361,7 @@ antiqued 1
 anthicidae 1
 adroiter
 arthroplastic 1
-amercements 2
+amercements 3
 anthills 1
 anthine
 amnesic 2
@@ -14693,7 +14693,7 @@ attaching 2
 antiaquatic 2
 acroesthesia 1
 antiar 2
-antilogarithm 1
+antilogarithm 2
 abracadabra 4
 apastra 1
 aetiotropic
@@ -14766,7 +14766,7 @@ antiboxing 1
 advertizer 2
 apparation 2
 ammonolyzed 1
-aureously
+aureously 1
 antibridal 2
 affright 1
 amphogeny 2
@@ -14918,7 +14918,7 @@ activeness 2
 antinepotic
 abnormality 1
 antliate 3
-angeles
+angeles 1
 anticyclically 3
 anticity 1
 anticytolysin 1
@@ -15944,7 +15944,7 @@ ammocete 1
 affectual 1
 argillocalcite 1
 asking
-acciaccatura 2
+acciaccatura 3
 agalwood 1
 antipsalmist 1
 antimetropia 1
@@ -16752,7 +16752,7 @@ anthophagy 1
 aciculums 1
 aphemia 1
 attal
-athenaeum 1
+athenaeum 2
 aphengoscope 2
 apheresis 3
 apheses 2
@@ -17787,7 +17787,7 @@ appointment 2
 alburnous 1
 adonia 3
 ablaze 1
-apport
+apport 1
 apportionable 2
 ampule
 apportioner
@@ -18380,7 +18380,7 @@ androgynus 1
 aramaism
 aramid
 appledrane
-antiecclesiastically
+antiecclesiastically 1
 aramids 2
 appendical 2
 aramina 1
@@ -19521,7 +19521,7 @@ acetonic 2
 adventist
 agrological
 anoles
-authenticness 2
+authenticness 3
 amphidromic 1
 angularize 3
 argufying 1
@@ -21051,7 +21051,7 @@ agaz 2
 allegorism 2
 asclepiad 2
 asporous
-asclepiadaceae 1
+asclepiadaceae 2
 asclepiadae 1
 avengingly
 aircheck 3
@@ -21172,7 +21172,7 @@ ankylotome 4
 anticar 1
 alphabetics
 asemic
-asepses 1
+asepses 2
 anagogical
 assiduate
 arginases
@@ -22769,7 +22769,7 @@ anthropomorphologically
 abneural 4
 arugula 1
 anthropophuistic 3
-atypic 1
+atypic 2
 alkalimetrical 2
 atis 2
 apostatized 1
@@ -23199,7 +23199,7 @@ aggressionist
 attest
 attestable 2
 amphibology 1
-artel 3
+artel 4
 arsonvalization 1
 abolla 1
 alytarch
@@ -24310,7 +24310,7 @@ althaein
 advenient 2
 ablepsy 3
 anthrasilicosis
-autophotoelectric 2
+autophotoelectric 3
 autopilot 1
 afterworking
 autoplast
@@ -25053,7 +25053,7 @@ algologies
 awoke
 arcanal 1
 andranatomy 2
-awoken 2
+awoken 3
 amylome
 archistome 1
 arboret
