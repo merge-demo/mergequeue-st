@@ -9871,7 +9871,7 @@ dimensioning 3
 dimensum 3
 disangularize 6
 dimer
-decadency
+decadency 1
 deludable 2
 decolonising 1
 daturic 2
