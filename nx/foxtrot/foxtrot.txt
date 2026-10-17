@@ -1802,7 +1802,7 @@ freeboard 3
 fores 1
 ferninst 5
 forbesite 1
-folkmots 6
+folkmots 7
 flak 5
 forkmen 3
 flaithship 1
@@ -2048,7 +2048,7 @@ feinter 2
 faucalize
 flindosa 2
 forwander 4
-flatlander 5
+flatlander 6
 faunlike 1
 fogbows 1
 fascicule 4
@@ -3384,7 +3384,7 @@ follicles 5
 frothed 4
 flokite 4
 frameableness 2
-floramour 2
+floramour 3
 fuller 2
 flyweights 2
 facemaking 1
@@ -4784,7 +4784,7 @@ falconers 3
 flagelliform 1
 fever
 flickeringly 5
-fauve 1
+fauve 2
 fargoing 2
 flageolets 2
 flagfishes 5
