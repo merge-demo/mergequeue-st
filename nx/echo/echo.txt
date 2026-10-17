@@ -9569,7 +9569,7 @@ emulator 1
 epihippus 1
 enterohemorrhage 3
 esophagalgia
-esophagean 3
+esophagean 4
 esophago
 esophagogastroscopy 1
 esophagometer
@@ -13543,7 +13543,7 @@ epitomic 4
 epigrapher 5
 elinor 2
 ectosteal
-examine 1
+examine 2
 erogeny 3
 elephantous 4
 erotology 2
