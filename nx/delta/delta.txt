@@ -2588,7 +2588,7 @@ decoat 2
 decoct 1
 demiquaver
 dashes
-decoctive
+decoctive 1
 diselder 1
 deaminizing 3
 demishirt 1
