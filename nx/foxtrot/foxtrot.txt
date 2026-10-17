@@ -1704,7 +1704,7 @@ fashionmonger 3
 flighted 2
 fascio 1
 floats 2
-filicin 4
+filicin 5
 fortravail 3
 factable 2
 floroon 6
@@ -2687,7 +2687,7 @@ fireshaft 4
 feruled 3
 ferulic 4
 fitzclarence 2
-forced 4
+forced 5
 fissipedate 1
 frogeater 4
 foundational 6
@@ -5532,7 +5532,7 @@ furnit 4
 faked 1
 faithfulness 3
 filionymic 2
-fondaco 2
+fondaco 3
 forbearingness 2
 frowzy 5
 faldage
@@ -9030,7 +9030,7 @@ fermila 1
 frowsiness 1
 fiefdoms 2
 foreshadower 1
-frontally 4
+frontally 5
 fourrageres 3
 fox 4
 fears 1
@@ -9320,7 +9320,7 @@ filigrain 4
 frames 3
 forename 2
 footmenfootpad 2
-fungologist 3
+fungologist 4
 fumarine 2
 foldwards 4
 fasinite
@@ -9601,7 +9601,7 @@ fyrd 4
 felicitate 3
 floreated 3
 forgone 5
-foller 1
+foller 2
 frederik 3
 futilitarian
 freightyard 3
@@ -11222,7 +11222,7 @@ fippence
 futuric 2
 fasciolae 1
 fictil 2
-frittata 3
+frittata 4
 farads 1
 firer 4
 failles 1
