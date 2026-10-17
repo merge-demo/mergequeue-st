@@ -1963,7 +1963,7 @@ arguer 1
 acetylbenzoic 2
 aldehydase 2
 aquilia 1
-albitical
+albitical 1
 apparelment 1
 acetylfluoride 2
 aerobian 1
@@ -4530,7 +4530,7 @@ aerobiotically
 admiralty
 adventitiousness 1
 archdemon 2
-adventive 2
+adventive 3
 adventively 1
 apaesthesia
 alencons 3
@@ -5681,7 +5681,7 @@ alloiometry 1
 acoelomatous 1
 axillary
 agade 2
-autocollimation 1
+autocollimation 2
 atopies 1
 aquicultural
 almeidina 1
@@ -5915,7 +5915,7 @@ advisor 1
 absence 2
 anophyte 1
 ages 1
-altisonant
+altisonant 1
 achroiocythemia 2
 asthenic 3
 ambisporangiate 1
@@ -12470,7 +12470,7 @@ arborizes
 actuary 2
 andromed 2
 assapanick 5
-andromeda
+andromeda 1
 autonomic
 andromedotoxin 1
 amargoso 1
@@ -20262,7 +20262,7 @@ amateurish 2
 anthropomorphization
 alkalify 3
 arrogates 2
-amphiboly 3
+amphiboly 4
 attitudinizing
 acutangular 1
 adpromission 1
