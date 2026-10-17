@@ -909,7 +909,7 @@ electrotonic
 emplaces 3
 endocervical 3
 exculpatory 1
-extravagated 2
+extravagated 3
 epepophysial 4
 exarillate 5
 eyelashes 3
@@ -2027,7 +2027,7 @@ elamitish 4
 episcope 4
 electrophorese 3
 evilly
-eudialyte 4
+eudialyte 5
 elanus 2
 escar 5
 enantiopathia 6
@@ -3749,7 +3749,7 @@ endoceratite 1
 eyeglasses 2
 ejulate 2
 embrowning 2
-embrues 1
+embrues 2
 ennuied 3
 executive 2
 edificial 4
@@ -13211,7 +13211,7 @@ endoplastular 8
 expiational 1
 expirate
 endostracal 1
-echinopsine
+echinopsine 1
 expiration 1
 exponentiation
 epaxial 1
