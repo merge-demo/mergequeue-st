@@ -8110,7 +8110,7 @@ chainless
 counteractions 2
 crosscheck 3
 coelodont 1
-chlortetracycline
+chlortetracycline 1
 chumping
 craspedon 1
 closecross
