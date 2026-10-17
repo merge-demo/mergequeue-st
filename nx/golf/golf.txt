@@ -4747,7 +4747,7 @@ gainfulness 4
 gages 3
 gadi 1
 grapewort
-grubstreet 4
+grubstreet 5
 gastrosopher
 glady 5
 gamophagia
@@ -5797,7 +5797,7 @@ gym 2
 grain 2
 gloveman 1
 gumtrees 5
-growthy 3
+growthy 4
 glover 2
 glochines 1
 genos 5
@@ -5827,7 +5827,7 @@ gordioidea 2
 gonophoric 1
 glochidia 4
 germanism 3
-gendarmes 3
+gendarmes 4
 guilds 3
 geroderma 2
 graffito 3
@@ -5919,7 +5919,7 @@ glumnesses 4
 gephyrocercal 2
 gemeinschaft 2
 glossocoma 2
-gibbers 2
+gibbers 3
 gauzier 2
 grayhair 5
 gutless 1
@@ -10193,7 +10193,7 @@ ganzie 1
 getspa 2
 gobet 5
 grindstone 5
-gitanemuk
+gitanemuk 1
 globalism 1
 garnishes 4
 gladdon 9
@@ -10624,7 +10624,7 @@ gumminess 1
 gentled 4
 gimmickry 2
 googols 3
-glusid 6
+glusid 7
 gunshop 6
 gulches 5
 gunsmithing 2

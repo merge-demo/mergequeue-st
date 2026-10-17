@@ -1963,7 +1963,7 @@ arguer 1
 acetylbenzoic 2
 aldehydase 2
 aquilia 1
-albitical
+albitical 1
 apparelment 1
 acetylfluoride 2
 aerobian 1
@@ -2819,7 +2819,7 @@ autopista
 acrocephalic 1
 accompanable 1
 aw 1
-anguished
+anguished 1
 acrochordinae 1
 almeh 1
 archaeologist 2
@@ -6709,7 +6709,7 @@ anoterite 2
 ailuroidea 1
 ailurophilic 2
 atenism 1
-affirmation 2
+affirmation 3
 ailuropoda 2
 acoustic
 ailurus 1
@@ -10304,7 +10304,7 @@ abessive 1
 amellus 1
 anthozooid 2
 amelus 4
-amen 2
+amen 3
 agathosma 1
 ammonocarbonic
 amenability
@@ -11529,7 +11529,7 @@ alderman
 astely 2
 amusement 1
 artificership 1
-anagennesis
+anagennesis 1
 alodiality 2
 aerometry 1
 acmaeidae 2
@@ -12513,7 +12513,7 @@ antiprimer 2
 astart 1
 ajowan 1
 anecdote 1
-anecdotes 3
+anecdotes 4
 anecdotic 3
 anova 1
 aluminiform 1
@@ -18016,7 +18016,7 @@ apers 3
 aprication 3
 association 3
 apricot 2
-avaricious
+avaricious 1
 ablesse 3
 adjoin 2
 assentatorily 1
@@ -20919,7 +20919,7 @@ asbestos 1
 ancylostomum
 asgard 1
 arioso 1
-atm
+atm 1
 axiniform 2
 antihuman
 aerosiderite

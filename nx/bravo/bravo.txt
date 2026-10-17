@@ -512,7 +512,7 @@ billhead 4
 briming 2
 broadway 1
 besiclometer
-blackacre 2
+blackacre 3
 biogenesis 5
 burbling 2
 backstops 3
@@ -1074,7 +1074,7 @@ brachycephalization 3
 brasswork 1
 bailiwicks
 bolete 2
-bondmen 4
+bondmen 5
 babyhouse 3
 blousier 3
 buzzards 4
@@ -2729,7 +2729,7 @@ branching 4
 bienne 1
 betrothals 2
 bloodstanch 2
-balandrana 1
+balandrana 2
 brasen 2
 betaken 2
 beladies 1
@@ -2984,7 +2984,7 @@ broadcasters 1
 byerlite 2
 barrios 1
 bumkin 1
-brachyoura 1
+brachyoura 2
 boulevard 4
 barrister
 bootless
@@ -3803,7 +3803,7 @@ benchland
 blundering 1
 boatsmanship 3
 bitterbush 1
-brujas 1
+brujas 2
 bauble 5
 bantay 3
 baubo 2
@@ -9317,7 +9317,7 @@ bulletwood 3
 bewet
 blendure 3
 bipupillate 3
-bleaunt 5
+bleaunt 6
 bagattini 3
 berede 3
 biquintile 2
@@ -9800,12 +9800,12 @@ bystreet
 bistres 3
 boeotarch 1
 brights 2
-borg 3
+borg 4
 bewitching 1
 barleymow 1
 beanpoles 1
 beja 1
-bradypnea 1
+bradypnea 2
 bistriate 4
 bombardment 4
 beddable 2
@@ -17678,7 +17678,7 @@ brodyaga 4
 balancement 2
 bevomits 1
 birgus 2
-bakehouse 2
+bakehouse 3
 bordage 1
 blackfin 3
 blueings 3
@@ -17879,7 +17879,7 @@ bearbush 1
 begowk 1
 bairnishness
 beholders 3
-bolides 3
+bolides 4
 breezily 2
 bepaints 1
 bothroi
