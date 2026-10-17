@@ -755,7 +755,7 @@ enforcive 6
 exscinding 2
 emotes 4
 echinal 2
-euomphalid 1
+euomphalid 2
 egger 1
 ecrase 1
 enclitic 4
@@ -2624,7 +2624,7 @@ electroreduction 1
 endamoebiasis 1
 eunuchising 2
 edh 3
-eupneic 1
+eupneic 2
 enchondromata 1
 electroresection 2
 epoptes 1
@@ -3220,7 +3220,7 @@ extuberance
 ecliptical 2
 elaiosome 1
 elt 2
-elaters 3
+elaters 4
 engendure 4
 eluating 1
 enambush
@@ -3327,7 +3327,7 @@ emancipated 1
 enshrouds 1
 ellipsometer 1
 edison 3
-endamages 3
+endamages 4
 epileptic 1
 emancipator 3
 emarginated
@@ -4735,7 +4735,7 @@ epicrisis 1
 edwardsia 3
 euxine 2
 equulei 3
-enneahedra 2
+enneahedra 3
 endophlebitis 1
 electroionic 4
 etymologize 1
@@ -9302,7 +9302,7 @@ empoverish 1
 extendability 5
 extralegal 1
 eructative 2
-eruction 3
+eruction 4
 emersions 2
 eruditical
 estop 1
@@ -9991,7 +9991,7 @@ etching 3
 electrotest
 egotisms 3
 eteostic 1
-elemicin
+elemicin 1
 edgrew 2
 eterminable
 eyeballs 2
@@ -10301,7 +10301,7 @@ enlink 1
 epiloguing 3
 endotrophi 1
 enrobes 3
-expensefulness 1
+expensefulness 2
 ela 1
 ebullitions 1
 exsiccated
@@ -10596,7 +10596,7 @@ elixation 5
 earthiness 1
 exaggerated 4
 expectance 3
-excaudate 1
+excaudate 2
 euchrome 3
 euclideanism 4
 euclidian 1
@@ -10758,7 +10758,7 @@ excelled 2
 eulimidae 3
 encefalon 4
 epicoela 1
-eulytine 5
+eulytine 6
 eelblenny 2
 eulogias 3
 entopopliteal 5
@@ -11186,7 +11186,7 @@ equilin 2
 earthlier 3
 evades 4
 evadingly 2
-easygoing 3
+easygoing 4
 emprime 3
 elinguation 2
 embottle 2
@@ -11308,7 +11308,7 @@ elbowboard 2
 evaporating 3
 eviscerating 1
 endoarteritis
-excoriation 4
+excoriation 5
 esophagodynia
 eccoproticophoric 1
 excursing 2
@@ -12627,7 +12627,7 @@ enharbour
 explant 2
 epicardium 5
 exocoelum 1
-epifascial 1
+epifascial 2
 epistylis 2
 eustathian
 eyeserver 1
@@ -12991,7 +12991,7 @@ emictory 2
 exodoi 3
 exclusion 5
 equipartile 1
-epicyclical 3
+epicyclical 4
 expected 3
 eucharises 3
 extroitive 1
@@ -13543,7 +13543,7 @@ epitomic 4
 epigrapher 5
 elinor 2
 ectosteal
-examine 2
+examine 3
 erogeny 3
 elephantous 4
 erotology 2
