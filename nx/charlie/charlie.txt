@@ -3702,7 +3702,7 @@ coemptive 1
 conjugation 2
 chabutra
 caranna 1
-carap
+carap 1
 couloirs 2
 carapaces 3
 carapacho 1
@@ -4648,7 +4648,7 @@ caromel
 caroming 2
 coucher
 caroms
-carone 1
+carone 2
 convictiveness 1
 caronic
 cliffless 1
@@ -19748,7 +19748,7 @@ contorting
 cardiopneumograph 1
 cogroad 2
 circuting
-classifiers
+classifiers 1
 contemplance 1
 cloudburst 3
 combiner 1
@@ -20918,7 +20918,7 @@ comprehensive
 comprehensively 1
 comprehensiveness 1
 campership
-chenopodiaceous
+chenopodiaceous 1
 collegiums
 compresence
 compresent 1
