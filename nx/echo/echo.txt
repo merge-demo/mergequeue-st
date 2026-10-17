@@ -909,7 +909,7 @@ electrotonic
 emplaces 3
 endocervical 3
 exculpatory 1
-extravagated 2
+extravagated 3
 epepophysial 4
 exarillate 5
 eyelashes 3
@@ -1053,7 +1053,7 @@ envergure 3
 edible 4
 expeditive 1
 embase 2
-epicondylar 2
+epicondylar 3
 embeddable 3
 epistolic
 echinology 3
@@ -3749,7 +3749,7 @@ endoceratite 1
 eyeglasses 2
 ejulate 2
 embrowning 2
-embrues 1
+embrues 2
 ennuied 3
 executive 2
 edificial 4
@@ -4234,7 +4234,7 @@ escutcheons
 experiment 2
 endometrium
 electrodispersive 3
-embossmen 1
+embossmen 2
 evertile
 exclusivism 4
 eptatretus 4
@@ -4622,7 +4622,7 @@ euphoniad 2
 embezzled
 electrophonically 1
 euryalida 2
-encyclics 1
+encyclics 2
 extroversive 3
 eucrites 2
 elbowing 5
@@ -7624,7 +7624,7 @@ extroversion 2
 epicuticular
 enoughs 2
 eightvos 1
-eustele 5
+eustele 6
 eugenol 2
 exptl 4
 embrued
@@ -13211,7 +13211,7 @@ endoplastular 8
 expiational 1
 expirate
 endostracal 1
-echinopsine
+echinopsine 1
 expiration 1
 exponentiation
 epaxial 1
