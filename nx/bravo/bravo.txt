@@ -4003,7 +4003,7 @@ bicycles 1
 beglew 2
 buyback 1
 beslur 4
-bonyfish 4
+bonyfish 5
 believer
 beacons 1
 buoyancy 4
@@ -15339,7 +15339,7 @@ bushelful 3
 blanquette 3
 bedrel 2
 bicarinate 2
-browsed
+browsed 1
 bankfull
 bolomen 1
 bohawn 2
@@ -17683,7 +17683,7 @@ bordage 1
 blackfin 3
 blueings 3
 bonuses 3
-boomlets 4
+boomlets 5
 burlesquer 3
 boviculture
 burlesquing 3
