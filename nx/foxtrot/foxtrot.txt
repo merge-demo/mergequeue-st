@@ -3543,7 +3543,7 @@ filamentary 4
 flannelleaves 4
 fishfall 3
 flagrancy 3
-frowziness 4
+frowziness 5
 fath 3
 flaggelating 4
 filaments
@@ -3679,7 +3679,7 @@ freshener 3
 finicking 1
 follying 2
 fiddleys 5
-filioque 5
+filioque 6
 feistiest 4
 foysen 5
 fruitwise 3
@@ -4778,7 +4778,7 @@ foreranks 4
 foulminded 3
 fellowing
 froggier 5
-fellowshipped 3
+fellowshipped 4
 filigera 3
 falconers 3
 flagelliform 1
@@ -6846,7 +6846,7 @@ format 3
 favoringly 7
 foliate
 favourableness 4
-friarhood 8
+friarhood 9
 fistiness 1
 floridities 2
 foozler 4
@@ -7160,7 +7160,7 @@ foosterer
 footfarer 1
 falsework 1
 footfault 2
-fricassees 3
+fricassees 4
 flimflammery 3
 footfolk 3
 ficklewise 5
@@ -9025,7 +9025,7 @@ fernless
 fableist 3
 fabricate 2
 flabellarium 1
-flutter 2
+flutter 3
 fermila 1
 frowsiness 1
 fiefdoms 2
@@ -10447,7 +10447,7 @@ flyspecked 2
 firstling 2
 femicide
 forcaria 2
-fertilizer 4
+fertilizer 5
 filesmith 2
 feudalistic
 fringeflower 4
@@ -10943,7 +10943,7 @@ federacy 4
 fiscalizing 1
 fullonian 3
 facilitator
-ferrying
+ferrying 1
 froust 4
 fidgeters 6
 filtration 1
