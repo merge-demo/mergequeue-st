@@ -508,7 +508,7 @@ fumer 3
 firerooms 2
 flamers 3
 frowny 4
-foresense 4
+foresense 5
 falco 3
 fermentive 2
 forgivableness 3
@@ -2767,7 +2767,7 @@ festerment 1
 footway 6
 flanges 1
 fascisms 3
-ferrimagnet 3
+ferrimagnet 4
 festy 2
 festilogies 4
 feddans 3
@@ -7143,7 +7143,7 @@ fruggin 3
 frostlike 1
 featherpated 9
 follied 1
-figwort 2
+figwort 3
 foleye 3
 farinacious
 frontoparietal 4
