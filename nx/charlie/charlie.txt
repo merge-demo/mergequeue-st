@@ -7515,7 +7515,7 @@ cercomonad
 cercomonadidae
 cercopid 1
 cercopithecid
-contracting 2
+contracting 3
 cercopithecidae
 catodon 1
 cercopithecus 2
@@ -8621,7 +8621,7 @@ channelled 1
 channelling 3
 commiseratingly
 channelure
-cestus 1
+cestus 2
 chansonette
 commissionaire 2
 chansonnette 3
@@ -15082,7 +15082,7 @@ contumacity 1
 curiate
 confated
 characterizations 1
-cladanthous 1
+cladanthous 2
 cladding
 couplet
 conducta 1
@@ -19252,7 +19252,7 @@ coryph 2
 colocynth
 connections 2
 crista
-colodyspepsia
+colodyspepsia 1
 cuidado 2
 coloenteritis
 closefitting
@@ -23158,7 +23158,7 @@ cigarettes 1
 cyclo 2
 cocoas
 constellations
-constellatory 2
+constellatory 3
 craniospinal 1
 consternation 1
 creatinin 1
@@ -23443,7 +23443,7 @@ contemning 1
 contemp 2
 contemplable 3
 contemplant 1
-contemplate
+contemplate 1
 contemplatedly
 contemplating 1
 catechetical 1
@@ -24493,7 +24493,7 @@ coosuc 1
 coot 1
 cootch 2
 corticin
-cheeseburger
+cheeseburger 1
 cootfoot 1
 crotyl
 cooty 2
