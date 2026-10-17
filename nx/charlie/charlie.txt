@@ -653,7 +653,7 @@ caesarean
 caesareans
 cardiopyloric 2
 campagnol
-connubialism 1
+connubialism 2
 cottage 1
 caesarian
 caesarist
@@ -2043,7 +2043,7 @@ cautela
 cosmolabe 2
 chlamydobacteriaceae
 camla
-camlet 2
+camlet 3
 camleting 2
 coletit 1
 camletted 1
@@ -6721,7 +6721,7 @@ crutch 2
 celebrant
 cohesions 1
 celebrants 2
-cerebellipetal
+cerebellipetal 1
 celebrate 2
 comiakin 1
 celebratedly 1
@@ -6942,7 +6942,7 @@ coumarane 2
 chappe
 cenesthesis
 cletch 1
-christmasberry
+christmasberry 1
 crowdedness 1
 confects
 crystallizer 1
@@ -16578,7 +16578,7 @@ cloner 1
 caps 2
 collateralize 2
 contraparallelogram 2
-complicities 2
+complicities 3
 clonic 1
 clonicity
 cytophaga
@@ -23843,7 +23843,7 @@ charpoy 2
 chewink 1
 cannonades 1
 contrib
-chair 2
+chair 3
 clavel 1
 contributable 3
 civilisedness 1
@@ -24566,7 +24566,7 @@ calorizes
 copenetrate 2
 copenhagen 1
 copepoda
-chromolithograph
+chromolithograph 1
 cleistothecopsis
 cyzicene 1
 coplaintiff
@@ -30645,7 +30645,7 @@ cofunction 1
 counterreform 2
 concinnous 1
 cucumariidae
-cucumber 1
+cucumber 2
 collegial
 chymotrypsin 1
 cucupha 1
