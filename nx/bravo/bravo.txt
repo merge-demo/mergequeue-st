@@ -3033,7 +3033,7 @@ buccinum 2
 branglement 1
 bopping 2
 burgesses 4
-bakership 2
+bakership 3
 bartizans 3
 bourkha 3
 beigel 1
@@ -3705,7 +3705,7 @@ burnies 2
 brigantinebrigantines
 basiophthalmite
 baste 2
-bucketful 2
+bucketful 3
 bally 2
 belage 3
 belfather 3
@@ -5491,7 +5491,7 @@ boxed
 byliny 3
 bootyless 1
 beelines 3
-bobbled
+bobbled 1
 beydom 2
 bechained 4
 beige 2
@@ -6272,7 +6272,7 @@ briefs
 brandsolder 2
 bigarade 4
 becassine 2
-bentgrass 1
+bentgrass 2
 blanky 2
 benthos 1
 besmiling 1
@@ -17881,7 +17881,7 @@ bairnishness
 beholders 3
 bolides 4
 breezily 2
-bepaints 1
+bepaints 2
 bothroi
 bibliotics 1
 bourse 3
