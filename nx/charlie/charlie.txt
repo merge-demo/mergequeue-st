@@ -17376,7 +17376,7 @@ cretinized
 coatis
 coatless 1
 coatrack
-coatroom 1
+coatroom 2
 combinability 3
 coatrooms 3
 coattend 2
@@ -17455,7 +17455,7 @@ commixes 2
 cobblerism 1
 cobblers 1
 cobblership 1
-cobbles
+cobbles 1
 cobblestone 3
 clepsydras 1
 cobblestoned
@@ -25286,7 +25286,7 @@ chiasmal 2
 chirurgic
 contradistinctively 2
 canonicate
-coryza 2
+coryza 3
 cork
 corkage 1
 canoodler 1
