@@ -5153,7 +5153,7 @@ caseic
 caretaker 2
 chrysographer
 cholecyanin 2
-cherimolla
+cherimolla 1
 casein
 caseinate
 canvaser 1
@@ -12470,7 +12470,7 @@ chromogenesis 1
 cingulate 1
 chamaecrista 1
 cranemanship
-chromoisomer 2
+chromoisomer 3
 chromoisomeric 1
 chamaenerion
 candelabra 1
@@ -17267,7 +17267,7 @@ couter
 conflux
 cussedly
 coan
-cotangential
+cotangential 1
 coanimate
 cephalemia 2
 coannihilate 3
@@ -23755,7 +23755,7 @@ canulate 2
 cherogril 2
 carbonometry 1
 contrapolarization
-cytopenia
+cytopenia 1
 contrapose 1
 clinospore 1
 chalcograph 3
