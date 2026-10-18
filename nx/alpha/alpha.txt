@@ -843,7 +843,7 @@ abruptness 3
 apptd 2
 ambilogy
 algarot
-authoritatively 3
+authoritatively 4
 additur 1
 abstruse 1
 ammiral
@@ -1862,7 +1862,7 @@ awnings 1
 alackaday 1
 akoasma 1
 adduct 2
-agrest 1
+agrest 2
 antiketogenesis 1
 acephalus 3
 azotaemia 3
@@ -2165,7 +2165,7 @@ antimonarchic 1
 abnormalness
 anthropological 2
 aragonite
-alfin
+alfin 1
 auspicial 2
 achillize 1
 aerobically 2
@@ -3534,7 +3534,7 @@ additions
 absmho 2
 addititious 2
 athenians 1
-additive 1
+additive 2
 additivity
 apesthesia 2
 aloysia 2
@@ -5183,7 +5183,7 @@ antihierarchal
 airbag 1
 antisemite 2
 aetiologue 1
-agrammatica
+agrammatica 1
 affreux 1
 anatomizing 1
 abrazite 1
@@ -8092,7 +8092,7 @@ assailable
 appropriators
 aeciotelium 2
 artarine 2
-anthropogenetic 1
+anthropogenetic 2
 alfileria 1
 astert
 anthropocosmic
@@ -8644,7 +8644,7 @@ aqueduct 1
 abandoners 1
 arboricultural 3
 allegorisation 3
-allegorise 1
+allegorise 2
 afear 2
 abscising 1
 admirance 2
@@ -9160,7 +9160,7 @@ antianarchic 2
 afrikaner 1
 anthroposophic
 antdom 4
-anticaste 2
+anticaste 3
 aeronomies 2
 anaspid 2
 agrising 2
@@ -11742,7 +11742,7 @@ arsyversy 1
 anaesthetizer 1
 arthralgic 3
 adsum 1
-arbalester
+arbalester 1
 anaetiological 4
 actinophorous
 apostematic 1
@@ -14178,7 +14178,7 @@ agglutinogenic
 anglemeter
 assonanced 1
 anarthrous 1
-achlamydate 3
+achlamydate 4
 assonantly 1
 acinetarian 2
 abridges 1
@@ -21357,7 +21357,7 @@ azobacter 1
 acroter
 abattue 1
 asyndeton 3
-abditive
+abditive 1
 asyndetons
 artesonado
 acacin
@@ -24013,7 +24013,7 @@ antapocha 1
 antiproton 2
 align 1
 acetobacter 1
-autoclave 1
+autoclave 2
 allemands
 aspheric 2
 autocollimators 3
@@ -24813,7 +24813,7 @@ axle 3
 avis 2
 aflare 1
 ambagitory 1
-augitite 4
+augitite 5
 atractaspis 1
 accordionists 3
 anacletica 2
@@ -25320,7 +25320,7 @@ azohumic
 azoic 1
 appellancy
 adeemed 1
-azoles
+azoles 1
 aleph
 azon 2
 aegirinolite 1
