@@ -2520,7 +2520,7 @@ bargelike 1
 bargellos
 beswinge 1
 begroans 2
-barger
+barger 1
 bractea 3
 borscht 2
 boccia 2
@@ -3428,7 +3428,7 @@ blushing
 bulletmaker 2
 bastardism 2
 blather 1
-bastardized 1
+bastardized 2
 bastardizes 2
 birimose 2
 bindlet
@@ -3684,7 +3684,7 @@ bergut 2
 batsman 3
 barrelsful 2
 besetting
-benzophenol 2
+benzophenol 3
 bardolater
 bangia 2
 bunsen 1
@@ -4584,7 +4584,7 @@ barks 4
 besuit 1
 bundeli 1
 borborus 2
-bedaubing
+bedaubing 1
 beltlines 2
 bloodstone 3
 belial 3
@@ -11508,7 +11508,7 @@ bluffest 2
 balladmonger 1
 bluffing 3
 barish 1
-baba 1
+baba 2
 baublery
 banyoro 1
 battakhin 4
@@ -11712,7 +11712,7 @@ bobbers 1
 bartlett 2
 bobby 3
 burlily
-bobbin 2
+bobbin 3
 beslaved 1
 bolivias
 bobbinite 1
@@ -13255,7 +13255,7 @@ bossdom 1
 boastful 2
 bructeri 1
 baromacrometer 1
-brislings 2
+brislings 3
 bankshall 3
 boblet 1
 bossed
@@ -15277,7 +15277,7 @@ basehearted 5
 bridally
 battologist 5
 bridals
-briarberry 2
+briarberry 3
 bellerophon 3
 bluffed 1
 bourses
@@ -17406,7 +17406,7 @@ borating 3
 balldress 3
 barringtonia 3
 bobbysoxer
-bombyciform 1
+bombyciform 2
 blesbok 1
 britzskas 3
 beshield 2
