@@ -296,7 +296,7 @@ faders 1
 feints 4
 feint 2
 fostell 3
-finagles 2
+finagles 3
 fibrillated 2
 fittiness 5
 futureness 2
@@ -4542,7 +4542,7 @@ fisheress 1
 fairyfolk 3
 filibranchia 2
 fishgigs 7
-fatiguing
+fatiguing 1
 fealties 8
 flagellation 4
 fruitcake 3
@@ -7732,7 +7732,7 @@ filigrained 3
 foreimpressed 1
 fallal 3
 feudality 4
-flyeater 2
+flyeater 3
 foreknew 2
 farcically 2
 fiddle 3
