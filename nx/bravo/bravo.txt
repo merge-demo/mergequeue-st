@@ -3718,7 +3718,7 @@ bankrupted
 bucketmaker 2
 beltis
 batterie 1
-breck 1
+breck 2
 batterman
 blennemesis 2
 bullockman 3
@@ -4074,7 +4074,7 @@ beamingly
 bottlefuls 2
 beamman 1
 bhakta 1
-buckwash 1
+buckwash 2
 bskt 1
 baragnosis 1
 blitzkrieged 3
@@ -7433,7 +7433,7 @@ buboes 3
 bashalick 2
 betterment 2
 bepewed 1
-bulbocavernous
+bulbocavernous 1
 bardic 1
 brabblingly 2
 bushelled
@@ -9707,7 +9707,7 @@ bumblefoot 1
 bismuthate
 becurl 2
 burhinus 1
-birchbark 1
+birchbark 2
 bismuthide 1
 beneficing 2
 bezzled
@@ -13797,7 +13797,7 @@ baddishly 1
 blessing 1
 bowbent 2
 bowdichia 6
-bloodily
+bloodily 1
 beboppers
 brisa
 biotoxins 2
@@ -14277,7 +14277,7 @@ burelly 1
 blites 1
 biographize 2
 brads 3
-brainsickness 1
+brainsickness 2
 butyne 1
 byword 2
 boarding 2
