@@ -2035,7 +2035,7 @@ curcuddoch
 critickin 1
 criticised 1
 camises
-cytosin 1
+cytosin 2
 cyclophoric
 cognominally 1
 camisole
@@ -3268,7 +3268,7 @@ curtana 1
 casques
 capitalizing
 capitalness
-capitan
+capitan 1
 capitana 2
 capitasti
 capitated 1
@@ -4475,7 +4475,7 @@ carlylean 1
 carlyleian 2
 chiromantical 2
 catwood 1
-carlylian 2
+carlylian 3
 consignation 1
 chagrins
 carlings 1
@@ -5615,7 +5615,7 @@ catallum 2
 cladocerans 1
 chatterbag
 catalo 1
-cataloes 1
+cataloes 2
 cataloged
 character 1
 cariousness 3
@@ -6656,7 +6656,7 @@ cedrate 1
 cedrela
 cocamine 1
 cedrene
-cedry 1
+cedry 2
 codeia
 chalcidiform
 cedrin
@@ -8275,7 +8275,7 @@ chalicotheriid 1
 carlism
 crummable 2
 chalicotheriidae 3
-cephalohumeralis 1
+cephalohumeralis 2
 chantress 1
 courtyard 1
 coonskin 1
@@ -12888,7 +12888,7 @@ columbines 1
 churchwardenize 1
 constitutionless 1
 churchwardens 1
-churchwardenship 2
+churchwardenship 3
 churchwoman
 churchwomen 2
 churel
@@ -14980,7 +14980,7 @@ citronwood
 citrullus
 cittern 1
 cavorts 2
-citua 2
+citua 3
 cytulae
 colormaking
 ciudad 4
@@ -16143,7 +16143,7 @@ climata 3
 celebesian 2
 climatal 1
 corticate 2
-climatarchic
+climatarchic 1
 climate 1
 climates
 corporatively 2
@@ -16399,7 +16399,7 @@ coppery 2
 clitoromania 1
 conglutinate
 cantiness
-clitoromaniacal 2
+clitoromaniacal 3
 cephalotribe
 clitter 1
 criniparous 1
@@ -18222,7 +18222,7 @@ cutlery
 cofeature
 coferment
 collenchyme 1
-colchicine 3
+colchicine 4
 centrolineal 1
 consentively 3
 columelliaceae 2
@@ -18438,7 +18438,7 @@ cognoscitive 1
 cognovit
 cricketings 2
 coude
-cognovits 1
+cognovits 2
 craftier 2
 coherent 1
 chondromata 1
@@ -22323,7 +22323,7 @@ cliffhang 1
 coptine
 congratulant 2
 chilarium
-congratulates 3
+congratulates 4
 coevalneity
 coward 1
 congratulational 3
@@ -23146,7 +23146,7 @@ curettement
 confers 1
 celtically
 constellate 1
-coystrel
+coystrel 1
 curupay
 ck 1
 conceits 3
@@ -23628,7 +23628,7 @@ commissionating
 chronothermometer
 contortion 1
 contortional 1
-contortionate 2
+contortionate 3
 contortionist 2
 cyril 1
 capitular 2
@@ -24252,7 +24252,7 @@ crowtoe 1
 collinear 1
 clippings
 callistemon
-contakia 2
+contakia 3
 candled 1
 caponised 3
 craped 1
@@ -25301,7 +25301,7 @@ corkers
 contrasting 1
 corkier 1
 chytridiaceous 2
-ciliola
+ciliola 1
 crome
 conicein
 corklike
@@ -29419,7 +29419,7 @@ crispbread
 circassian
 crispens 1
 crispers 2
-craaled 1
+craaled 2
 charisticary 1
 chromatogram
 classicised
@@ -29638,7 +29638,7 @@ cystadenoma 2
 chrominance
 chimariko 2
 chat
-crocodility 1
+crocodility 2
 cattishly 1
 cognizer
 chemosterilant
