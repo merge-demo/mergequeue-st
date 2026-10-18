@@ -2165,7 +2165,7 @@ antimonarchic 1
 abnormalness
 anthropological 2
 aragonite
-alfin
+alfin 1
 auspicial 2
 achillize 1
 aerobically 2
@@ -8644,7 +8644,7 @@ aqueduct 1
 abandoners 1
 arboricultural 3
 allegorisation 3
-allegorise 1
+allegorise 2
 afear 2
 abscising 1
 admirance 2
@@ -9160,7 +9160,7 @@ antianarchic 2
 afrikaner 1
 anthroposophic
 antdom 4
-anticaste 2
+anticaste 3
 aeronomies 2
 anaspid 2
 agrising 2
@@ -21357,7 +21357,7 @@ azobacter 1
 acroter
 abattue 1
 asyndeton 3
-abditive
+abditive 1
 asyndetons
 artesonado
 acacin
@@ -25320,7 +25320,7 @@ azohumic
 azoic 1
 appellancy
 adeemed 1
-azoles
+azoles 1
 aleph
 azon 2
 aegirinolite 1
