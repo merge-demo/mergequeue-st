@@ -1684,7 +1684,7 @@ accruable
 atty 3
 anatomism 1
 attribute 2
-actualities 3
+actualities 4
 accrued 2
 accruement 1
 accruer 1
@@ -2800,7 +2800,7 @@ askr 2
 attent 1
 alfurese 1
 arrestant 1
-acrostolia 3
+acrostolia 4
 amebian
 artarin 1
 acrobates 2
@@ -4674,7 +4674,7 @@ aeacides 2
 aechmophorus
 assistless 1
 agitates 2
-ayegreen 2
+ayegreen 3
 alahee 2
 avikom 2
 aecidial
@@ -6219,7 +6219,7 @@ anthraces 1
 ablactate
 agnostics 2
 anon 1
-apoplexy
+apoplexy 1
 agnostus
 agnotozoic 1
 agnus 1
@@ -9899,7 +9899,7 @@ autosomatognosis
 aeciospore 1
 azotorrhoea 4
 autosexing
-attid 1
+attid 2
 asphodelus
 aragonian 1
 antimasker 1
@@ -12307,7 +12307,7 @@ alshain 2
 aridness 1
 ancilla 2
 anticks
-ancylopod 1
+ancylopod 2
 acneiform 2
 acrider 2
 anatropous
@@ -12536,7 +12536,7 @@ autolithographer
 apprentice 1
 arsenotungstates
 anhydrite 2
-aikidos
+aikidos 1
 antehistoric
 arsenicated
 anthracitous
@@ -15344,7 +15344,7 @@ aidless 1
 antihierarchism 1
 aitis
 assignations 1
-amortise 1
+amortise 2
 athenee
 anelectrotonic
 aircraftswomen
@@ -19617,7 +19617,7 @@ apposing 1
 arikara 1
 anthracomartus 1
 aplastic 3
-annotate 1
+annotate 2
 ark
 arillate
 affricative
@@ -20327,7 +20327,7 @@ afley
 aeromedicine 1
 aseptol 3
 arrogate 3
-antenarial
+antenarial 1
 anemonal 1
 alonsoa
 alem
@@ -21506,7 +21506,7 @@ asperula
 ambulatoria
 anticovenanting 2
 autonomy 2
-archeion
+archeion 1
 adiaphanous 1
 alluvium 1
 axolotls
@@ -21854,7 +21854,7 @@ andoroba
 aerophobia 3
 assimilationist 2
 afterattack 4
-assinego
+assinego 1
 arousable
 allotrylic 1
 assyntite 2
@@ -23375,7 +23375,7 @@ abovementioned 3
 acned 2
 allokinetic 2
 allophanamide
-amorphotae 1
+amorphotae 2
 apposed 3
 aridnesses 2
 axonemal 2
@@ -23947,7 +23947,7 @@ antiscepticism
 abadejo 2
 anepiploic
 autoanalytic
-anseriformes
+anseriformes 1
 actinophonic
 acetylsalicylate 1
 aeolotropic 1
