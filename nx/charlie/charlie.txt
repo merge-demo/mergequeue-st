@@ -30,7 +30,7 @@ caragheen 3
 cabalist 1
 congii 1
 courier
-caballer
+caballer 1
 corrosiving
 cranebill 2
 cineols 1
@@ -1019,7 +1019,7 @@ colourtype
 cohoba 2
 calascione
 cydonia 1
-calastic 3
+calastic 4
 calathea
 calathi 2
 calathidia 1
@@ -1047,7 +1047,7 @@ calcaneoastragaloid
 calcaneoplantar 2
 countersale 1
 calcaneoscaphoid 4
-calcaneum 1
+calcaneum 2
 calcannea
 calcannei 1
 chloroplastid
@@ -1886,7 +1886,7 @@ consociate
 cambia
 cambiata 1
 charlatanry
-choregy
+choregy 1
 cambio
 cementa 1
 complimentalness
@@ -2961,7 +2961,7 @@ curling 1
 cantharic 1
 cantharidae 1
 cake 1
-chytrid 1
+chytrid 2
 cantharides
 coation
 clip 1
@@ -3577,7 +3577,7 @@ captives 1
 comatulae 1
 comminuting
 captor 3
-capturable 1
+capturable 2
 catechized 2
 captured
 captures
@@ -4096,7 +4096,7 @@ cunners 1
 colibri
 cardianesthesia 2
 considering
-cardianeuria
+cardianeuria 1
 calamiform
 choyaroot 2
 counterrevolution 1
@@ -6092,7 +6092,7 @@ chemosis 4
 cobaltic 2
 catnaper 1
 catnapping 1
-caddle 3
+caddle 4
 catnaps
 crioceratite 3
 catnep 1
@@ -8567,7 +8567,7 @@ caitiff 1
 chanfrons 2
 capitelliform
 changeable 1
-carcharodon
+carcharodon 1
 chavibetol 2
 chuckram
 ceratiidae 1
@@ -8619,7 +8619,7 @@ chitlins 3
 chibol 1
 channelled 1
 channelling 3
-commiseratingly
+commiseratingly 1
 channelure
 cestus 2
 chansonette
@@ -9499,7 +9499,7 @@ checkerist 3
 collet 2
 clavola
 checkers
-caroach 1
+caroach 2
 compossibility
 chroncmeter 1
 cabbalah
@@ -15354,7 +15354,7 @@ clanship 4
 chiricahua 2
 coembedded 1
 camelhair 3
-curnie 3
+curnie 4
 clanswoman 3
 chrysalidal
 characteristics
@@ -15382,7 +15382,7 @@ clapper
 carabins 3
 cloragen 3
 clappered 2
-chitchatting
+chitchatting 1
 clappers 2
 cutinization
 cordoban 1
@@ -15562,7 +15562,7 @@ classificatory 3
 clopping
 cotwinned 2
 censive 1
-counterfeitment
+counterfeitment 1
 curriers
 chaldaei
 creat 2
@@ -16751,7 +16751,7 @@ campody 3
 congregativeness
 cloudlike 1
 cloudology 2
-comptrollership 1
+comptrollership 2
 coelebogyne
 chanteuses 3
 cloudship
@@ -18044,7 +18044,7 @@ coenacts 4
 coenacula 1
 coenamored 1
 clairseacher
-coenamors 3
+coenamors 4
 chiromancy 2
 condensational 1
 carats
@@ -19394,7 +19394,7 @@ colorcasting 1
 calvus
 colorcasts 1
 colorectitis
-chrisomloosing 1
+chrisomloosing 2
 correspondingly 2
 chantable 1
 colorers
@@ -23666,7 +23666,7 @@ contraceptive
 consultancy
 capmakers 3
 cuplike 1
-cubalaya 3
+cubalaya 4
 countableness
 contracyclical
 contractable 2
@@ -26468,7 +26468,7 @@ chowk 1
 cotoin 3
 cubit 2
 cotorment
-calycanthemous 1
+calycanthemous 2
 cotoro 2
 civilizing
 covets 1
@@ -27925,7 +27925,7 @@ coenobium 1
 correal 1
 cionoptosis
 crackerjacks 1
-crackers 3
+crackers 4
 cradlemaking 3
 consolidates
 cracket 1
@@ -27967,7 +27967,7 @@ cradlemate 2
 celeomorphic
 catharize 3
 clinoclase
-cradles 1
+cradles 2
 cradling
 cryesthesia 2
 craft 2
@@ -29617,7 +29617,7 @@ crock 1
 clashy 1
 cantative 2
 caroaches 2
-coembodying 1
+coembodying 2
 crockery 1
 calkage 1
 crofter
@@ -30670,7 +30670,7 @@ cudbear 1
 cyprian 1
 cudden
 collis 1
-counterimitate 1
+counterimitate 2
 cuddie
 chuppoth
 coprocessing 1
@@ -31765,7 +31765,7 @@ customizations 1
 customize 1
 customized 1
 capons 1
-customizer 1
+customizer 2
 customizers
 complotted 3
 customizes 2
@@ -31945,7 +31945,7 @@ czech
 czechish 3
 czechization
 caitanyas 3
-czechoslovak
+czechoslovak 1
 curricularization 1
 charites 1
 czechs
