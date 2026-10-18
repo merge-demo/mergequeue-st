@@ -2785,7 +2785,7 @@ delphinus
 duodecahedron 2
 decrescent 3
 deknight 1
-desulfured 2
+desulfured 3
 dioptrical 4
 droller 1
 decretalist 3
@@ -2977,7 +2977,7 @@ decede 1
 decillion 1
 deedily 2
 distriction 4
-deediness 1
+deediness 2
 dorsales 1
 disengage 1
 diabolos 1
@@ -3706,7 +3706,7 @@ dawtet 2
 distillable
 disentangled 2
 dehydrogenisation 2
-delustrant
+delustrant 1
 dackering 2
 deprivation 1
 dehisce
@@ -4014,7 +4014,7 @@ deposited 2
 disvantage
 delicate 4
 disposingly
-delicately 4
+delicately 5
 dermatomycosis 1
 denier 2
 darknesses 4
@@ -8230,7 +8230,7 @@ ductus 2
 distrito 1
 diagnosed 2
 diagnostical
-diagnostically 1
+diagnostically 2
 diagnosticate 1
 denitrating 3
 dendrophilous 2
@@ -9287,7 +9287,7 @@ dysodontiasis 1
 dismarketed 1
 dulcimore
 dogteeth 3
-displode 3
+displode 4
 dietetics 1
 defilading 2
 dog 1
@@ -10926,7 +10926,7 @@ disadvantageousness 2
 ditetragonal 2
 deminude 2
 depigmentation 2
-disadvising 4
+disadvising 5
 dysaesthesia 1
 dropvie 4
 dendrogaean 2
@@ -12003,7 +12003,7 @@ defail 2
 durdum
 disengaged 3
 defiable 1
-disengaging 3
+disengaging 4
 disenjoyment 3
 discourteous 3
 diaspidinae 2
@@ -12079,7 +12079,7 @@ drawcansir 3
 dyserethisia 2
 denominatively 1
 dysergasia 4
-determining 2
+determining 3
 diplopodous
 disert
 detergency 1
@@ -16401,7 +16401,7 @@ disdain 3
 drunkery 1
 downwardly 3
 devourment 1
-delocalized 2
+delocalized 3
 dispellable 1
 dogtrotted 3
 downgrowth
@@ -18104,7 +18104,7 @@ devoto 3
 dulness 1
 detecting 2
 dysphemism 4
-diabetics
+diabetics 1
 dogskin 1
 dongs
 dungol 1
@@ -18435,7 +18435,7 @@ downhauls 2
 delichon 3
 dialysepalous 1
 dissociates 5
-demonstrated 2
+demonstrated 3
 disarrayed 1
 dupe
 dupedom 1
