@@ -2400,7 +2400,7 @@ druidry 4
 destituent 4
 doodads 5
 dispelled
-decanonize 1
+decanonize 2
 donny 1
 dripstick 2
 decimalism 3
@@ -7862,7 +7862,7 @@ degentilize 1
 diatoric
 depress 3
 defrayals 3
-diverseness
+diverseness 1
 dewatered 1
 drivebolt
 diffluence
@@ -10809,7 +10809,7 @@ direness
 drusy 2
 dolly 1
 developement 2
-doctrinarianism 1
+doctrinarianism 2
 direnesses 1
 demophil 3
 distilment 2
@@ -12369,7 +12369,7 @@ durability 1
 disturbers
 disherited 2
 divet 1
-defibrillator 2
+defibrillator 3
 deamidize 5
 deplantation
 drybrush 1
@@ -13057,7 +13057,7 @@ decanol 2
 dispatch 1
 deprecators
 deccennia 3
-dispatched 3
+dispatched 4
 devaster
 duckish 1
 disesteeming 1
@@ -14155,7 +14155,7 @@ diol 1
 desacralize
 diapason 1
 dentification
-doyst 1
+doyst 2
 disulfonic 1
 dispread
 disulfoxid 1
@@ -17250,7 +17250,7 @@ drivelingly 1
 deutonymphal 1
 devulcanization 1
 drivenness 2
-drivepipe 2
+drivepipe 3
 driver
 despising
 drivers 2
