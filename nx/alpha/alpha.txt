@@ -5831,7 +5831,7 @@ antenave
 appal 1
 aquatinter 2
 adducent 1
-amberjack
+amberjack 1
 aviation 2
 acrocephalia 3
 abducentes 2
@@ -20649,7 +20649,7 @@ albumen
 arthrospore 1
 arthrostome 3
 arthrostomy
-arthrotyphoid
+arthrotyphoid 1
 amputative 1
 azimide
 ansi 4
@@ -21304,7 +21304,7 @@ archeostome
 asparaguses 4
 asilus
 autolytus 1
-albuminizing
+albuminizing 1
 azonic 1
 asymbolic
 arums
@@ -22108,7 +22108,7 @@ aguaji 2
 asteriskos
 acidheads
 append 2
-antinosarian
+antinosarian 1
 antiskeptic 1
 autoepigraph 2
 asterisks 3
