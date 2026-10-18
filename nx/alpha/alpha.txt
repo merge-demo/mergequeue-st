@@ -1684,7 +1684,7 @@ accruable
 atty 3
 anatomism 1
 attribute 2
-actualities 3
+actualities 4
 accrued 2
 accruement 1
 accruer 1
@@ -2800,7 +2800,7 @@ askr 2
 attent 1
 alfurese 1
 arrestant 1
-acrostolia 3
+acrostolia 4
 amebian
 artarin 1
 acrobates 2
@@ -4674,7 +4674,7 @@ aeacides 2
 aechmophorus
 assistless 1
 agitates 2
-ayegreen 2
+ayegreen 3
 alahee 2
 avikom 2
 aecidial
@@ -12536,7 +12536,7 @@ autolithographer
 apprentice 1
 arsenotungstates
 anhydrite 2
-aikidos
+aikidos 1
 antehistoric
 arsenicated
 anthracitous
@@ -20327,7 +20327,7 @@ afley
 aeromedicine 1
 aseptol 3
 arrogate 3
-antenarial
+antenarial 1
 anemonal 1
 alonsoa
 alem
@@ -21506,7 +21506,7 @@ asperula
 ambulatoria
 anticovenanting 2
 autonomy 2
-archeion
+archeion 1
 adiaphanous 1
 alluvium 1
 axolotls
@@ -23947,7 +23947,7 @@ antiscepticism
 abadejo 2
 anepiploic
 autoanalytic
-anseriformes
+anseriformes 1
 actinophonic
 acetylsalicylate 1
 aeolotropic 1
