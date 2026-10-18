@@ -981,7 +981,7 @@ catenoids
 calaminary
 compensational 1
 calaminaris
-callipygian 2
+callipygian 3
 calamine 3
 cervidae 1
 calamines 3
@@ -1550,7 +1550,7 @@ clepe
 calliope
 coacervating 1
 concertos 2
-celtomaniac 1
+celtomaniac 2
 calliopsis 3
 chutes 2
 callipash 1
@@ -3134,7 +3134,7 @@ cenotaphies 1
 cyclophrenia 1
 cyclopes 2
 capacitor 2
-chalker 2
+chalker 3
 catercornerways
 clone 2
 capanna 2
@@ -3268,7 +3268,7 @@ curtana 1
 casques
 capitalizing
 capitalness
-capitan
+capitan 1
 capitana 2
 capitasti
 capitated 1
@@ -6359,7 +6359,7 @@ causidical 1
 causon 2
 counterassurance 1
 caustical
-caustically
+caustically 1
 causticism
 chamaeleo 2
 celticism 1
@@ -6656,7 +6656,7 @@ cedrate 1
 cedrela
 cocamine 1
 cedrene
-cedry 1
+cedry 2
 codeia
 chalcidiform
 cedrin
@@ -12888,7 +12888,7 @@ columbines 1
 churchwardenize 1
 constitutionless 1
 churchwardens 1
-churchwardenship 2
+churchwardenship 3
 churchwoman
 churchwomen 2
 churel
@@ -13198,7 +13198,7 @@ cyclane 1
 cataphonic 2
 clin 1
 craftsmanlike
-chetahs 3
+chetahs 4
 coworker
 compesce 1
 cyclanthus 1
@@ -14980,7 +14980,7 @@ citronwood
 citrullus
 cittern 1
 cavorts 2
-citua 2
+citua 3
 cytulae
 colormaking
 ciudad 4
@@ -16399,7 +16399,7 @@ coppery 2
 clitoromania 1
 conglutinate
 cantiness
-clitoromaniacal 2
+clitoromaniacal 3
 cephalotribe
 clitter 1
 criniparous 1
@@ -17446,7 +17446,7 @@ chokeable 2
 condensity 2
 cobang
 confessed
-cobber
+cobber 1
 cobbin
 causeries 2
 cobble 2
@@ -18234,7 +18234,7 @@ coffeeberries 1
 concocts 1
 catacumba 3
 cohosting 1
-concessionary 1
+concessionary 2
 chartings
 coffeegrower
 cantinas
@@ -18438,7 +18438,7 @@ cognoscitive 1
 cognovit
 cricketings 2
 coude
-cognovits 1
+cognovits 2
 craftier 2
 coherent 1
 chondromata 1
@@ -18972,7 +18972,7 @@ cohobating 1
 corved 1
 cham 1
 collates 1
-collations
+collations 1
 cumaru
 conidial
 cesti 1
@@ -22323,7 +22323,7 @@ cliffhang 1
 coptine
 congratulant 2
 chilarium
-congratulates 3
+congratulates 4
 coevalneity
 coward 1
 congratulational 3
@@ -24252,7 +24252,7 @@ crowtoe 1
 collinear 1
 clippings
 callistemon
-contakia 2
+contakia 3
 candled 1
 caponised 3
 craped 1
@@ -29638,7 +29638,7 @@ cystadenoma 2
 chrominance
 chimariko 2
 chat
-crocodility 1
+crocodility 2
 cattishly 1
 cognizer
 chemosterilant
