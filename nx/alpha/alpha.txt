@@ -2302,7 +2302,7 @@ aquaplane 1
 armigeri 2
 antiager 2
 avatara 2
-axel
+axel 1
 ampherotoky
 achuete 1
 astrography 2
@@ -2706,7 +2706,7 @@ alcaaba 2
 anachronistical 3
 antisepticize
 aphthic 5
-amiloun 1
+amiloun 2
 aethalia 3
 assignor 2
 acrasias 1
@@ -2746,7 +2746,7 @@ acrydium 2
 acridness 2
 anencephalia 2
 accentually 2
-amphirhina 1
+amphirhina 2
 arrivage
 autoplastically
 auctioning 3
@@ -3748,7 +3748,7 @@ argoan 3
 amies 1
 archidiaceae
 appreciation 2
-antilogarithmic 4
+antilogarithmic 5
 alloted 2
 abrenounce 2
 alliteration 1
@@ -4249,7 +4249,7 @@ apepsy
 acroparalysis 3
 ador 4
 adorable 2
-ablegate 3
+ablegate 4
 amicrobic 1
 archimperialistic 1
 argentic 1
@@ -6894,7 +6894,7 @@ airlock 3
 atmospherical
 annoyingness 1
 ava 2
-airmark 1
+airmark 2
 attention
 astomatous 1
 aphorises 1
@@ -7179,7 +7179,7 @@ atopite
 akre 1
 akrochordite 1
 allophore 2
-akroter 1
+akroter 2
 aktistetae
 aku 3
 akule
@@ -7723,7 +7723,7 @@ ambigenous 2
 abelicea 2
 adaw 2
 alcoholize 3
-alcoholmeter 2
+alcoholmeter 3
 airmass
 anemogram 2
 alcoholmetric 3
@@ -9513,7 +9513,7 @@ allochetite 1
 alternated 1
 achier
 alignments
-assaugement 1
+assaugement 2
 aphengescope 3
 apritif 2
 acadian
@@ -12858,7 +12858,7 @@ absurdist 2
 angiorrhea 2
 armorwise 2
 ammocoetid 1
-angioscope 1
+angioscope 2
 angiosymphysis 1
 adventurers 2
 anopia 2
@@ -13112,7 +13112,7 @@ allmouths 2
 arsonous 1
 aniconic 4
 aniconism
-anicut 1
+anicut 2
 alamodes 2
 armlessly 3
 adenines 2
@@ -15901,7 +15901,7 @@ acrophony 1
 abutter
 anglers
 abrader 1
-annotations
+annotations 1
 antidynasty 1
 amazingly
 antipragmatism 1
@@ -16618,7 +16618,7 @@ antlions 1
 apaturia 1
 augustness
 alp 1
-acknowledgeable 2
+acknowledgeable 3
 abstractions
 archeunuch 2
 acalculia 4
@@ -16646,7 +16646,7 @@ aperient 3
 aperients
 albronze 1
 autonomies
-aperiodically
+aperiodically 1
 ambulanced 1
 average 1
 aperiodicity
@@ -16976,7 +16976,7 @@ alfione 2
 aplites 2
 amulet 4
 aplitic 3
-angering
+angering 1
 aplodontiidae 1
 aplomb 2
 amygdaliferous 2
@@ -17234,7 +17234,7 @@ apophyllite 1
 appreciant 1
 archicarp 1
 acoma 2
-amorous
+amorous 1
 averruncate 3
 adonis
 apophysary 3
@@ -17289,7 +17289,7 @@ aport 1
 aportlast 1
 aposaturnium
 aposia 3
-aposiopesis 2
+aposiopesis 3
 americanize 1
 anaplasma 1
 arbalest
@@ -19719,7 +19719,7 @@ anticommerciality 2
 accelerations 2
 ammonium
 astrobiological 1
-albarellos 1
+albarellos 2
 aucan 1
 arithmetizes 1
 araeostyle
@@ -20756,7 +20756,7 @@ amphicrania 1
 austenitic 3
 artilleryship 3
 autotherapy 2
-artillerist
+artillerist 1
 aetosaur 1
 apocarpy 2
 aguishness 1
@@ -20839,7 +20839,7 @@ allurers 1
 arupa 2
 armoried 3
 aruspicy 1
-amaas
+amaas 1
 arteriography 3
 arval 2
 arvejon 2
@@ -20987,7 +20987,7 @@ ascends
 aerogeologist
 accourage 1
 armorless
-ascensionist 1
+ascensionist 2
 ascaridol 1
 ascensions 3
 arenae 1
@@ -22264,7 +22264,7 @@ arkansan 1
 astonishment
 altrices 1
 astoop 2
-avoke 1
+avoke 2
 abjoint 2
 amorphy
 aerated 2
@@ -22312,7 +22312,7 @@ autodynamic
 antal 1
 astride
 averah 2
-antefixal 1
+antefixal 2
 argentoproteinum 1
 argents 2
 alamedas
@@ -22474,7 +22474,7 @@ autocratorical 2
 astroscopus
 astrospectral 4
 acrasiaceae
-adversion
+adversion 1
 astrotheology 2
 anisostemonous 3
 astrut 1
@@ -22545,7 +22545,7 @@ assidaean 1
 autecisms 1
 aspiratae 2
 ataxophemia 2
-ambitions 2
+ambitions 3
 apolitical 2
 abbassi 3
 anomalously 2
@@ -22899,7 +22899,7 @@ alcali
 atones 3
 actless 1
 antinomies 5
-adnations 3
+adnations 4
 argilloid
 achinese
 anocarpous 2
