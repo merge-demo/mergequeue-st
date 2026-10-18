@@ -876,7 +876,7 @@ beflags 4
 boohoos 2
 bravura 3
 baroclinity 2
-bleachs 1
+bleachs 2
 blackboards 1
 backband 4
 bagdad
@@ -6346,7 +6346,7 @@ bellyfish 2
 besnowed 2
 blinks 1
 benzenediazonium 1
-bosominess 5
+bosominess 6
 boxful 1
 bananalander 2
 burgher 1
@@ -6525,7 +6525,7 @@ buckeyes 1
 bequests 2
 buster 2
 blenniiformes 2
-bolar
+bolar 1
 berakah
 breadstuff 2
 bewelcome 1
@@ -7963,7 +7963,7 @@ barothermogram 1
 bibulousness 3
 broomweed 1
 bodegones
-boardroom 3
+boardroom 4
 borderside
 bename 4
 beclad 2
@@ -10295,7 +10295,7 @@ befoulers 1
 blackwater 1
 ballahou 1
 blackweed 2
-brachycerous 1
+brachycerous 2
 bladdery
 biosciences 2
 bladderlike 2
@@ -13355,7 +13355,7 @@ bebrave 2
 buss 1
 basilosaurus 2
 both 1
-bradyphagia 2
+bradyphagia 3
 bothered 7
 bester 3
 bothers 4
@@ -16947,7 +16947,7 @@ bugweed
 barometry 1
 blacktopped 2
 bugwort
-banca 1
+banca 2
 biographic 1
 baganda 1
 baliti
@@ -17960,7 +17960,7 @@ blasia 1
 blackheartedness 1
 bolty 3
 bemoult 2
-bronzelike 2
+bronzelike 3
 bushwhacked 1
 beanball 1
 boheas 2
@@ -18323,7 +18323,7 @@ bilirubinemia 2
 buttony 3
 bluenosed
 brink 6
-buttoning 1
+buttoning 2
 banked 4
 bioelectricities 4
 blennuria
