@@ -7779,7 +7779,7 @@ examinership 2
 embolismic 2
 ebulliency 2
 enterography 3
-epiglottitis
+epiglottitis 1
 exsiccator 3
 elegiambic 1
 epicarps 2
@@ -11506,7 +11506,7 @@ etouffe 3
 erbium 2
 enlistees 7
 eidolic 1
-etchant 4
+etchant 5
 electrophotometer
 electroconvulsive
 evigilation 1
