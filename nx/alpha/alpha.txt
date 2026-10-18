@@ -1651,7 +1651,7 @@ accoutres
 accredit
 argenteum
 accreditate 2
-amygdaline
+amygdaline 1
 accreditations
 absentmindedness
 autogenuous 1
@@ -1865,7 +1865,7 @@ adduct 2
 agrest 2
 antiketogenesis 1
 acephalus 3
-azotaemia 3
+azotaemia 4
 atridean
 adolesced 1
 acequia 1
@@ -8052,7 +8052,7 @@ angelize
 adenomatome
 aggravations 1
 autoceptive 1
-addlepatedness
+addlepatedness 1
 alexandrine
 accadian 2
 altruistically
@@ -12263,7 +12263,7 @@ adstipulated
 affectuous 1
 allbone 1
 afacing 3
-andrewsite 1
+andrewsite 2
 anchimonomineral 6
 aetiogenic 5
 aegirite 2
@@ -12396,7 +12396,7 @@ angiosarcoma 1
 alternateness 2
 apophysial 1
 abruptly
-andirin 2
+andirin 3
 athletic 1
 anopisthograph
 abscession
