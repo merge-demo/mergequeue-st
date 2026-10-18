@@ -15336,7 +15336,7 @@ anthracite
 adapters 3
 amperages 1
 antihero 1
-amphoriskos 1
+amphoriskos 2
 azulejo 2
 antihierarchy 2
 akimbo 1
@@ -17950,7 +17950,7 @@ akoulalion 3
 authorling 2
 auspicated 3
 appropriateness 3
-appropriating
+appropriating 1
 appropriator
 appellative
 anglaise 2
