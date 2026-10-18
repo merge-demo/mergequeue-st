@@ -11515,7 +11515,7 @@ archexorcist 3
 acone 5
 armaments 1
 aloemodin 5
-afterturn 1
+afterturn 2
 accoutring 2
 avengeress 1
 acrinyl
@@ -11523,7 +11523,7 @@ aporrhea 1
 antiphilosophism
 acaulose
 adenophore 2
-appetites 1
+appetites 2
 algoristic 2
 alderman
 astely 2
@@ -15061,7 +15061,7 @@ anticritical 2
 archantagonist 3
 astrose 1
 anasarcas
-afrormosia
+afrormosia 1
 attestant
 anticrochet 1
 antipewism 2
