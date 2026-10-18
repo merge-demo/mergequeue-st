@@ -22022,7 +22022,7 @@ canastas 1
 confirms 3
 ceraunite
 confiscatable
-cynebot
+cynebot 1
 confiscate
 countertrend 1
 crois 2
@@ -23390,7 +23390,7 @@ colibert
 cleistothecium 1
 contagions 2
 contagiosity
-contagiousness 1
+contagiousness 2
 contagium 1
 contain 3
 contained
