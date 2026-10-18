@@ -4465,7 +4465,7 @@ bailment
 beached 2
 baptismal 1
 bestuur 4
-becomed 3
+becomed 4
 bungs 1
 becometh 3
 becomingness 2
@@ -10252,7 +10252,7 @@ bloomingness 1
 ballhawks 1
 bosoms 3
 blackness 2
-bebump 3
+bebump 4
 bilged 3
 broomwort 2
 blackpatch
@@ -10917,7 +10917,7 @@ birdied 1
 brioche 3
 bemoon 3
 blinding 1
-bloodlessness 4
+bloodlessness 5
 bescoured 6
 braciolas 2
 biorbital
@@ -17162,7 +17162,7 @@ balkanization 3
 bullyrag 1
 butcherly
 bullyragger
-booklice
+booklice 1
 balantidial 2
 bayberries
 bearship 3
@@ -18243,7 +18243,7 @@ bounteously 1
 balistarius
 besweatered 2
 butterflower 2
-bylined 1
+bylined 2
 bleinerite 4
 battles 2
 bacteraemia
