@@ -4283,7 +4283,7 @@ astore 1
 ados 2
 acromegalia 1
 alexias 2
-anthropomorphisation 1
+anthropomorphisation 2
 arsenotherapy
 alright 3
 antioxidizer
@@ -10576,7 +10576,7 @@ antihypnotic 2
 ameliorativ 3
 amidoplast 3
 alison 2
-amidoplastid 1
+amidoplastid 2
 australopithecinae 2
 anagrammatize
 amids 1
@@ -11658,7 +11658,7 @@ amarevole 1
 androgametophore 2
 ailette 1
 atonal 2
-asteriated
+asteriated 1
 andromede 1
 agglutinationist 1
 ammeline 2
@@ -12020,7 +12020,7 @@ allergen 1
 arithmetizations 1
 adiaphora 1
 adosculation 3
-actualistic 1
+actualistic 2
 autobahnen 2
 anapnoic 4
 anapodeictic
@@ -12424,7 +12424,7 @@ amblyopic 1
 allumine
 atheroma
 armoniac 2
-amebiasis 1
+amebiasis 2
 aortolith 1
 absistos 1
 antiecclesiasticism 1
@@ -22799,7 +22799,7 @@ arrears 4
 annulets
 atlantosaurus 3
 atlases 1
-aguara 1
+aguara 2
 annulling 2
 apropos
 atloid 3
@@ -23074,7 +23074,7 @@ attain 3
 agaricinic
 arkosic 3
 antimatter 1
-ataxics
+ataxics 1
 antiquarians
 adiated 2
 acholic
