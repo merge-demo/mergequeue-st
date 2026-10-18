@@ -37,7 +37,7 @@ antecedence 2
 area
 allseeds
 aurine 2
-aethogen 1
+aethogen 2
 aerometeorograph 1
 abaciscus 2
 aquanaut 2
@@ -15173,7 +15173,7 @@ arigue 1
 antiestablishment 2
 auriscopic 2
 autophagia
-acetanisidide
+acetanisidide 1
 adenogenesis 2
 antegarden 1
 aggregating 1
