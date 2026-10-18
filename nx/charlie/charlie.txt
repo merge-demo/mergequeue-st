@@ -1262,7 +1262,7 @@ cameo
 chusite 1
 cicadid 3
 counterpoise 1
-calendaring
+calendaring 1
 cyprine 1
 coilability 1
 calendarist 2
@@ -3002,7 +3002,7 @@ clamehewit 2
 canthuthi
 coyest 2
 canticle
-campesino 1
+campesino 2
 canticles
 conquerableness 1
 conceptualistically
@@ -5698,7 +5698,7 @@ ching
 communionist 5
 ceratopsia 1
 cephalodymia 1
-catastases 1
+catastases 2
 congregationist
 catastasis
 creamware
@@ -6150,7 +6150,7 @@ consubsist
 cryptocarya 1
 cowpea 1
 copernicans 3
-celiotomy
+celiotomy 1
 chimaeroidei 1
 cornfactor
 cattycornered 2
@@ -6330,7 +6330,7 @@ cabrie
 causal 1
 candystick
 causality 2
-causalities 2
+causalities 3
 causally
 causans 3
 cyphellate 2
@@ -6774,7 +6774,7 @@ chatteringly 1
 celiectomy 1
 celiemia
 celiocyesis
-correlations 2
+correlations 3
 coadministrator 1
 churchiness 1
 celiocolpotomy 1
@@ -7029,7 +7029,7 @@ centenar
 constringent 2
 chronicles 1
 carrefour 2
-calpac 2
+calpac 3
 carroches 1
 cheap 1
 choledochostomy
@@ -7372,7 +7372,7 @@ cephaloridine 2
 churruck 1
 confocal 2
 cadus 1
-copecks
+copecks 1
 cephalosome
 craniograph
 campbellite 1
@@ -7881,7 +7881,7 @@ calpolli
 clericate
 collieshangie
 cetane
-cetanes 1
+cetanes 2
 cerographies 2
 cete 1
 ceterach 3
@@ -7929,7 +7929,7 @@ chaga 1
 cevenole 2
 caducei 1
 chryselephantine 2
-cossets 1
+cossets 2
 cevian 2
 ceviche 1
 cevine
@@ -8767,7 +8767,7 @@ cottering
 chappal
 countermine
 chappies 3
-collop 1
+collop 2
 chappin
 chartlet 2
 competes
@@ -9316,7 +9316,7 @@ childlikeness 2
 chartometer 1
 chaunted 2
 chaunter
-capillaritis
+capillaritis 1
 contrariness
 catamarans
 chaus
@@ -10001,7 +10001,7 @@ cuprammonia
 cherokee
 corodiastole
 copartaker
-colpus 1
+colpus 2
 ceremonialists 3
 chalcon
 cruiser 2
@@ -11247,7 +11247,7 @@ ceca 2
 codettas
 canaut 2
 chloridellidae
-chlorides 1
+chlorides 2
 covers 2
 chloridic 2
 chloridized 3
@@ -11548,7 +11548,7 @@ crossosoma
 catagenesis 2
 chola
 costoxiphoid 1
-cholaemia 1
+cholaemia 2
 cholalic
 coquimbite 2
 cliseometer 2
@@ -13649,7 +13649,7 @@ composed
 cercopithecoid 1
 cymophobia
 coattests
-chalazal
+chalazal 1
 cristi 1
 chairwoman
 chalkboards 1
@@ -15685,7 +15685,7 @@ cothurnian
 controllingly
 clavered
 clavi 2
-cerithioid 2
+cerithioid 3
 chirres
 clavy 2
 clavicembalist
@@ -20120,7 +20120,7 @@ coenenchymatous 2
 commercialists 1
 commercialize 1
 ceennacuelum
-commercially
+commercially 1
 cultivable 1
 commercialness 1
 commercium
@@ -20286,7 +20286,7 @@ cavitations
 commoving 1
 coisns
 casanovanic 1
-clinical 1
+clinical 2
 communa 3
 cellulotoxic 3
 componentwise
@@ -23549,7 +23549,7 @@ cosmetical 1
 crocketing 2
 claybanks 1
 cultirostres 2
-cornmonger
+cornmonger 1
 clistocarpous 2
 cathood 1
 chiriana 1
@@ -26124,7 +26124,7 @@ cosmicality 1
 clausulae
 congruential 2
 cosmically
-canterelle
+canterelle 1
 chiefdoms 4
 conspiratorial
 cosmism
@@ -26443,7 +26443,7 @@ cotyledons 2
 cotyliscus
 cherts
 cotylopubic 1
-catatonics 1
+catatonics 2
 criminalist 3
 cotylosacral 2
 cotylosaur
@@ -26866,7 +26866,7 @@ cudava 1
 chilopod
 counterfeits 1
 counterfessed
-counterfire 2
+counterfire 3
 counterflange 1
 cruzados 2
 counterfleury 2
@@ -27574,7 +27574,7 @@ clairce
 coverslip 1
 copartnery 2
 covertly 5
-colloquialist 1
+colloquialist 2
 cadency 1
 cupmaker 1
 coves
@@ -28073,7 +28073,7 @@ carpentership
 codrus 1
 chondroblast 1
 crampits
-crampon 1
+crampon 2
 crampons
 crampoon 2
 carefree
@@ -30417,7 +30417,7 @@ creedlessness 2
 crusty 2
 crustier 1
 centaurial 3
-crustific 1
+crustific 2
 crustily
 chemosorption 1
 crustose
