@@ -952,7 +952,7 @@ frae 4
 feats 4
 faretta 1
 foresaid 2
-forecourse 1
+forecourse 2
 firth 3
 foldable 4
 fervid 7
@@ -3102,7 +3102,7 @@ fennelflower 2
 fibroblastic 3
 ferngale 3
 fipple 3
-flunkyism 6
+flunkyism 7
 festoon 5
 fonds 3
 finned 2
@@ -3121,7 +3121,7 @@ fibrocement 2
 frenzies
 fieulamort 5
 formulas 2
-fibromyotomy 7
+fibromyotomy 8
 frottages 2
 fountaineer 5
 flamefishes 2
@@ -6644,7 +6644,7 @@ frilliest 2
 fantasize 3
 fancify 1
 footpath
-forevouched 1
+forevouched 2
 figured
 foehnlike 5
 foeless 1
