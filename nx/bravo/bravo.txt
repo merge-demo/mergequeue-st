@@ -1035,7 +1035,7 @@ bitangent
 blain 1
 baigneuses 1
 bellis 5
-boraces
+boraces 1
 barmecidal 3
 balcony 1
 burnweed
@@ -1369,7 +1369,7 @@ baldachin 1
 bristliest 5
 bhaiachari 1
 begumming 2
-backslashes 2
+backslashes 3
 bibliotherapist 2
 brauronia 1
 baldachino 2
@@ -2362,7 +2362,7 @@ barbiton 1
 bloodworm
 bhutani 1
 barbituric 1
-bluetick 1
+bluetick 2
 barbiturism 4
 barreler 2
 bryales
@@ -3187,7 +3187,7 @@ branchiomerism
 barbecue 2
 busine
 birdieing 3
-basial 4
+basial 5
 belove 1
 basiarachnitis
 bailing 3
@@ -3830,7 +3830,7 @@ boreas 3
 burgeoning 4
 baulked 5
 bearbane 1
-bookfair 1
+bookfair 2
 bequeaths
 behight 1
 biracial 4
@@ -4554,7 +4554,7 @@ bathroot 2
 bater 1
 bool 1
 bedabble 1
-beagles
+beagles 1
 barricadoed 2
 biggening 1
 behavioristic 2
@@ -5342,7 +5342,7 @@ barbola
 begnaw 5
 biharmonic 2
 borderlines 2
-balmy
+balmy 1
 begone 1
 baryte 1
 begonia 3
@@ -5418,7 +5418,7 @@ boarstaff 2
 bigarreau
 behaved 3
 bronchium 4
-behaver 2
+behaver 3
 bicollateral
 behaving 2
 brainteasers 1
@@ -8392,7 +8392,7 @@ bigwiggery
 biomass 2
 beryllia 4
 babu 3
-brombenzene 2
+brombenzene 3
 brachygraphic 1
 baronetized
 byhand
@@ -9493,7 +9493,7 @@ biron 1
 byronesque 3
 birostrate 1
 byronite
-byronic 3
+byronic 4
 binocles 1
 beirut 2
 brahmaness 4
@@ -9888,7 +9888,7 @@ bito 3
 bicalvous 1
 bitonalities 3
 belibeling
-breaghe 3
+breaghe 4
 balonea 1
 besotter 3
 brasilete 1
@@ -10544,7 +10544,7 @@ buttonhold 1
 belligerent 3
 braise
 badasses 1
-blastula 2
+blastula 3
 boswellia 3
 blastulation 1
 blachong
@@ -11445,7 +11445,7 @@ bisaltae 1
 bodacious
 biocoenose 1
 bedrail 2
-brattices 3
+brattices 4
 brininess
 baselessly 3
 butyraldehyde 6
@@ -11653,7 +11653,7 @@ bittacle 1
 beachboys 3
 barterers 3
 berend 1
-broideress 2
+broideress 3
 boxhead 1
 buchmanite 3
 boatless 5
@@ -11978,7 +11978,7 @@ beckelite
 bolts
 brinie
 bogmire 4
-borine
+borine 1
 baggit 2
 bedwarf 3
 bipack 1
@@ -12549,7 +12549,7 @@ barnage 2
 balsamroot 4
 bourgeoning 1
 brails 2
-bisulphate 3
+bisulphate 4
 bridehead 2
 boniface 1
 battle 1
@@ -13324,7 +13324,7 @@ benzanalgen 5
 brachioradialis 1
 botanizes
 barramundis 4
-bulbless 1
+bulbless 2
 balsamed 1
 bacterially 1
 boatlike
@@ -13468,7 +13468,7 @@ bhutatathata 2
 bitterbrush 2
 bottlemaker 6
 begotten 1
-burgs 1
+burgs 2
 broilery 3
 beer 2
 bleeding 2
@@ -14053,7 +14053,7 @@ breezeways 2
 bunger 4
 blindstory 3
 baitylos 2
-believed 2
+believed 3
 bedangled 2
 beardy
 brachiator 1
@@ -14602,7 +14602,7 @@ blume 2
 buri 2
 brandisite 1
 boyar 4
-brandling 1
+brandling 2
 bayardly 2
 bority 3
 binomy 1
@@ -15478,7 +15478,7 @@ backtrack 4
 bagged 3
 brilliandeer 1
 buonamani
-brilliant 4
+brilliant 5
 bedflower 2
 beheading 3
 branchiostege 1
