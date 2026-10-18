@@ -1586,7 +1586,7 @@ disembody 2
 deflagrable 3
 debateable 5
 decipolar
-duplicia
+duplicia 1
 direfulness 2
 disenthralled 1
 deadness 1
@@ -3772,7 +3772,7 @@ doctordom 2
 defacingly
 deicides 1
 dismutation 1
-deictical 1
+deictical 2
 devilkin
 dreissiger 1
 dunno
@@ -12800,7 +12800,7 @@ dismail
 democratising 1
 dismal 1
 duit 3
-dialogs
+dialogs 1
 dorsomedian 3
 decreptitude 3
 dehydrogenized
