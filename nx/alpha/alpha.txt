@@ -795,7 +795,7 @@ ascites
 annats 1
 abreast 1
 archenteric 1
-acratia
+acratia 1
 abreed
 asyle 2
 acetate 1
@@ -2915,7 +2915,7 @@ akvavits 1
 autostylic
 autarchical
 agonium 1
-apium 1
+apium 2
 abidal
 achar 2
 azaleas
@@ -9565,7 +9565,7 @@ altiloquence 3
 advehent 2
 academia
 arenig 1
-altimeters
+altimeters 1
 aspidomancy 3
 anthema
 alchemistry
@@ -13700,7 +13700,7 @@ aposporogony
 albumenising 4
 accretion 1
 alluviviums
-autoecholalia
+autoecholalia 1
 akhara
 algific 1
 anogenital 2
@@ -16052,7 +16052,7 @@ aldehol 2
 acinacious
 astelic
 adviceful 1
-antirepublicanism 1
+antirepublicanism 2
 ampulla 2
 actionize
 aubretias 1
@@ -19435,7 +19435,7 @@ anlaute 2
 aphelilions 1
 allottees 2
 archaean
-astrophysics 2
+astrophysics 3
 argify 1
 argyle 1
 autocarpian
@@ -21359,7 +21359,7 @@ abattue 1
 asyndeton 3
 abditive 1
 asyndetons
-artesonado
+artesonado 1
 acacin
 asinego 1
 adorning 1
@@ -22484,7 +22484,7 @@ astutious 3
 achime
 asudden 2
 acetotoluide
-aswarm 2
+aswarm 3
 aisling
 aswash 1
 adyton 2
@@ -25320,7 +25320,7 @@ azohumic
 azoic 1
 appellancy
 adeemed 1
-azoles 1
+azoles 2
 aleph
 azon 2
 aegirinolite 1
