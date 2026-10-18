@@ -1824,7 +1824,7 @@ furrows 1
 figureheadship 3
 fellahin 2
 firebreaks 2
-feudalize 1
+feudalize 2
 fittest 2
 fractured 1
 flabellum 2
@@ -3063,7 +3063,7 @@ foregone 4
 ferrimagnetism 4
 fractionalization 1
 fibril 1
-firker 3
+firker 4
 filtratable 4
 fairily 5
 freeish 1
@@ -5672,7 +5672,7 @@ fatted 3
 fishnets 2
 finedraw 1
 fumet 1
-fermium 2
+fermium 3
 fawe 3
 fragility 2
 fibrine 3
