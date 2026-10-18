@@ -595,7 +595,7 @@ glockenspiels 4
 glossopalatine 4
 grandfathership 4
 grieben 4
-guineas 5
+guineas 6
 gorgoniacea 1
 ghostweed 5
 graveside 1
@@ -1252,7 +1252,7 @@ gonorrhea 1
 grogged
 galactostasis 4
 gooding 4
-gametophobia
+gametophobia 1
 grassman 3
 garbill 2
 guyline 1
@@ -4651,7 +4651,7 @@ generis 3
 gastraeas 2
 guzmania 1
 galuth 4
-guanacos
+guanacos 1
 geode 2
 gallinula 3
 gynodioecism 3
@@ -8877,7 +8877,7 @@ galleyworm
 graphostatical 1
 gabbard 5
 gastness 3
-gypsiologist 3
+gypsiologist 4
 groundedly 2
 geodesia 3
 gneisses 4
@@ -10160,7 +10160,7 @@ guato 7
 genres 3
 guidepost 1
 glossophobia 3
-geostrategist 3
+geostrategist 4
 gurneyite 4
 gerusia
 gastropathy 4
