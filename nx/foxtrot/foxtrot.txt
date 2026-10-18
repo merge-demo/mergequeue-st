@@ -7934,7 +7934,7 @@ footslog 2
 fletching 2
 foreseer 4
 foresees 3
-fonder
+fonder 1
 foreseize 1
 flatteries 3
 fike 1
@@ -10158,7 +10158,7 @@ forklifts 3
 fleshment 2
 foo 1
 fowells 1
-fritniency 5
+fritniency 6
 foreknee 2
 fe 5
 fulciform 1
