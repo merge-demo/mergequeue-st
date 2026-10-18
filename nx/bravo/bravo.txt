@@ -697,7 +697,7 @@ badaga 2
 biorgan 3
 babbitting 3
 buncombe 2
-bunted 2
+bunted 3
 barnstormed 1
 behav
 boregat 2
@@ -729,7 +729,7 @@ baign 3
 bogyland 3
 behaves 1
 browbeaten
-blossomhead
+blossomhead 1
 bloodstains 3
 brakeless 1
 brokeress 2
@@ -1820,7 +1820,7 @@ bedsprings 2
 bambute 1
 blackheart 3
 becombed 1
-baserunning
+baserunning 1
 belonid 3
 bikie 1
 bruiting 3
@@ -3777,7 +3777,7 @@ bourdis
 bibliologist 2
 batture 2
 bielded 1
-barasingha
+barasingha 1
 bottstick 1
 blackening 3
 biocontrol 1
@@ -6463,7 +6463,7 @@ boschbok
 basidiogenetic 1
 bedrocks 2
 baccate
-broached 4
+broached 5
 bletted 2
 behaviorist 5
 burge
@@ -7566,7 +7566,7 @@ bombilate 1
 boodler 2
 bastardize 2
 bloodripe 1
-begiggle 2
+begiggle 3
 bloodthirstiness
 barnacle
 bewhisker 1
@@ -7730,7 +7730,7 @@ burglaries
 bunning 2
 bheesty 2
 bullaries 2
-bheestie 2
+bheestie 3
 beblot
 bespangles 2
 britten 3
@@ -8733,7 +8733,7 @@ bottomry
 backlashed 2
 barhopping 1
 bimetals 1
-bolsters 1
+bolsters 2
 bullishness 3
 babyfied
 brauneria 1
@@ -9207,7 +9207,7 @@ birdnest 1
 biotron 1
 beauetry
 bipalmate 2
-booed 3
+booed 4
 biomasses
 biparasitic
 boudoirs 1
@@ -9666,7 +9666,7 @@ brarow
 bacteriaceae 4
 baconism 1
 batiste
-bisyllabic 4
+bisyllabic 5
 benefactions 3
 burao 1
 braize 1
@@ -10760,7 +10760,7 @@ blennoptysis 4
 bosseyed 2
 brickwise
 bairnie 1
-bebatter 1
+bebatter 2
 blennorrhagia
 bollworms 4
 brags 1
@@ -10798,7 +10798,7 @@ boul
 bavin 1
 beforetimes 3
 baulkier 5
-birthrate
+birthrate 1
 blocks
 bergamo
 blepharochromidrosis 4
@@ -11090,7 +11090,7 @@ blockiest 1
 bevelling 2
 blocking 1
 borborygmic
-benzimidazole 1
+benzimidazole 2
 biomorphic 1
 builder 2
 billeter 3
@@ -11502,7 +11502,7 @@ backwinding 1
 beachie
 bluffer 1
 billycan 3
-befretted 2
+befretted 3
 botryllidae 2
 bluffest 2
 balladmonger 1
@@ -13414,7 +13414,7 @@ bialys
 blanche 2
 brushing 2
 blennenteria 2
-bedeswoman 1
+bedeswoman 2
 bartisans 3
 bulgier 1
 birles 1
@@ -13425,7 +13425,7 @@ batonistic 2
 brachycome
 brannier
 botryomycoma 3
-biogenetically 2
+biogenetically 3
 banqueters
 bimbashi 1
 bokark 1
@@ -13438,7 +13438,7 @@ basilar 1
 benes 3
 biofeedback 1
 broadest 1
-backfields 3
+backfields 4
 bensell
 bushbashing
 brightsome 2
@@ -15227,7 +15227,7 @@ brightsmith 4
 brotherliness 2
 bribing 3
 buzziest 1
-bellowsmaker
+bellowsmaker 1
 bloater 3
 breastplough 4
 blunted
@@ -16131,7 +16131,7 @@ boskiest 2
 brookier 1
 batatilla 2
 brookite 1
-beneficient 5
+beneficient 6
 barbarianized 5
 battling 2
 bicolor 3
@@ -16471,7 +16471,7 @@ brevetting
 brumal 2
 bises 2
 bronchopathy 2
-borneo 2
+borneo 3
 byrling 2
 brashier
 brushwood 1
@@ -16587,7 +16587,7 @@ belling 2
 bubastid 3
 bracingness 1
 backorder 2
-blightingly
+blightingly 1
 belligerencies 2
 benedictory 2
 brachiocrural 4
@@ -17470,7 +17470,7 @@ bandied 1
 buntine 5
 brawlie 3
 bipinnatiparted 2
-buplever 2
+buplever 3
 buprestidae 3
 brutus 2
 backspins 4
@@ -17732,7 +17732,7 @@ bewinged 2
 burnfire 2
 bashaws
 buckeens 1
-burnish 4
+burnish 5
 burnishable 1
 bahuvrihis 2
 brachiorrhachidian 4
