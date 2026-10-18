@@ -595,7 +595,7 @@ glockenspiels 4
 glossopalatine 4
 grandfathership 4
 grieben 4
-guineas 5
+guineas 6
 gorgoniacea 1
 ghostweed 5
 graveside 1
@@ -1252,7 +1252,7 @@ gonorrhea 1
 grogged
 galactostasis 4
 gooding 4
-gametophobia
+gametophobia 1
 grassman 3
 garbill 2
 guyline 1
@@ -1482,7 +1482,7 @@ gasifies 2
 glengarry 7
 gasterolichenes 4
 grainier 1
-guittonian 1
+guittonian 2
 garners 2
 garotted 3
 goutish 2
@@ -2931,7 +2931,7 @@ gurkha 3
 gollop 2
 guapilla 2
 geminorum 4
-geomant 1
+geomant 2
 grapy 2
 glutinousness 3
 gigantomachy
@@ -4651,7 +4651,7 @@ generis 3
 gastraeas 2
 guzmania 1
 galuth 4
-guanacos
+guanacos 1
 geode 2
 gallinula 3
 gynodioecism 3
@@ -5918,7 +5918,7 @@ generalific 2
 glumnesses 4
 gephyrocercal 2
 gemeinschaft 2
-glossocoma 2
+glossocoma 3
 gibbers 3
 gauzier 2
 grayhair 5
@@ -7246,7 +7246,7 @@ gelatinisation 1
 goriness 5
 gillian 3
 galvanometrically 10
-germanocentric 4
+germanocentric 5
 getah 3
 gangion 6
 garlicmonger 2
@@ -8858,7 +8858,7 @@ gamut 3
 gallus 5
 globate 2
 gm 3
-gunne 7
+gunne 8
 greegrees 5
 gastral 2
 genipa 4
@@ -8877,7 +8877,7 @@ galleyworm
 graphostatical 1
 gabbard 5
 gastness 3
-gypsiologist 3
+gypsiologist 4
 groundedly 2
 geodesia 3
 gneisses 4
@@ -10160,7 +10160,7 @@ guato 7
 genres 3
 guidepost 1
 glossophobia 3
-geostrategist 3
+geostrategist 4
 gurneyite 4
 gerusia
 gastropathy 4
