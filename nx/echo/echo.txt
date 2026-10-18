@@ -1054,7 +1054,7 @@ edible 4
 expeditive 1
 embase 2
 epicondylar 3
-embeddable 3
+embeddable 4
 epistolic
 echinology 3
 elective 1
@@ -3423,7 +3423,7 @@ embassy
 eustomatous 1
 eriometer 2
 episyllogism 5
-edeotomy 2
+edeotomy 3
 eucirripedia 3
 ethmovomerine 2
 embogue 1
@@ -7779,7 +7779,7 @@ examinership 2
 embolismic 2
 ebulliency 2
 enterography 3
-epiglottitis
+epiglottitis 1
 exsiccator 3
 elegiambic 1
 epicarps 2
@@ -11506,7 +11506,7 @@ etouffe 3
 erbium 2
 enlistees 7
 eidolic 1
-etchant 4
+etchant 5
 electrophotometer
 electroconvulsive
 evigilation 1
@@ -12063,7 +12063,7 @@ ervum 2
 excommunicative 3
 excommunicator 1
 expetible 3
-exauthorate 5
+exauthorate 6
 extrication
 excoriated
 electroanalysis 4
@@ -13001,7 +13001,7 @@ etherous
 evanition 3
 equanimously 4
 expecter 4
-expectingly 5
+expectingly 6
 encephalopyosis 2
 erminette 1
 estriols 2
@@ -13891,7 +13891,7 @@ ethionic 6
 ellasar
 extractability 1
 echinoderidae 1
-eluated 1
+eluated 2
 enmities 2
 eyestrings 1
 estuant
