@@ -720,7 +720,7 @@ diatom 1
 dyspnoeas 3
 deadmelt 4
 doorplates 3
-danceability 3
+danceability 4
 danceable
 devitalised 1
 demoniacs
@@ -749,7 +749,7 @@ dandier 1
 drybrained 1
 dreaminess 3
 detachs 2
-dissipatedness
+dissipatedness 1
 dimmit 1
 dispeopler 1
 denumerant 1
@@ -3605,7 +3605,7 @@ degerminate 1
 doated 4
 degerminator 1
 distentions 3
-degerms 1
+degerms 2
 dinus 1
 douzeper 1
 deontological 2
@@ -7857,7 +7857,7 @@ dermestes
 diplogenic 3
 diffluent 2
 dogbodies 5
-dew 4
+dew 5
 degentilize 1
 diatoric
 depress 3
@@ -9697,7 +9697,7 @@ dilatate
 dicalcic 1
 decremented 3
 discutient 1
-dodecahedron 1
+dodecahedron 2
 distillations 2
 durometer 4
 duffles 2
@@ -13855,7 +13855,7 @@ denom 2
 displuviate 2
 dross 2
 defends 2
-displaces 1
+displaces 2
 druggier
 donee 2
 distaves 2
