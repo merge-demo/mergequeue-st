@@ -1262,7 +1262,7 @@ cameo
 chusite 1
 cicadid 3
 counterpoise 1
-calendaring
+calendaring 1
 cyprine 1
 coilability 1
 calendarist 2
@@ -2224,7 +2224,7 @@ creedbound 2
 campodeoid 2
 campong
 campongs 1
-convincing 2
+convincing 3
 counterclaiming 1
 cheiropodist
 camponotus 1
@@ -3507,7 +3507,7 @@ capsomere
 capsomers 4
 capstan
 capstans 1
-capstone 1
+capstone 2
 capsula 1
 cons 1
 capsular 3
@@ -5698,7 +5698,7 @@ ching
 communionist 5
 ceratopsia 1
 cephalodymia 1
-catastases 1
+catastases 2
 congregationist
 catastasis
 creamware
@@ -6150,7 +6150,7 @@ consubsist
 cryptocarya 1
 cowpea 1
 copernicans 3
-celiotomy
+celiotomy 1
 chimaeroidei 1
 cornfactor
 cattycornered 2
@@ -7029,7 +7029,7 @@ centenar
 constringent 2
 chronicles 1
 carrefour 2
-calpac 2
+calpac 3
 carroches 1
 cheap 1
 choledochostomy
@@ -7527,7 +7527,7 @@ cerdonian 1
 cereal
 centrifugalizing 1
 carrus
-collative 3
+collative 4
 changeability
 cervices
 caliology
@@ -8767,7 +8767,7 @@ cottering
 chappal
 countermine
 chappies 3
-collop 1
+collop 2
 chappin
 chartlet 2
 competes
@@ -10001,7 +10001,7 @@ cuprammonia
 cherokee
 corodiastole
 copartaker
-colpus 1
+colpus 2
 ceremonialists 3
 chalcon
 cruiser 2
@@ -13581,7 +13581,7 @@ cymballed 1
 cymballing
 cymbalom
 cimbaloms
-cymbalon 3
+cymbalon 4
 cymbel
 cymbid 1
 clochard 1
@@ -20120,7 +20120,7 @@ coenenchymatous 2
 commercialists 1
 commercialize 1
 ceennacuelum
-commercially
+commercially 1
 cultivable 1
 commercialness 1
 commercium
@@ -20286,7 +20286,7 @@ cavitations
 commoving 1
 coisns
 casanovanic 1
-clinical 1
+clinical 2
 communa 3
 cellulotoxic 3
 componentwise
@@ -21689,7 +21689,7 @@ condistillation 1
 conditionable 1
 conditionalism
 coplotting 1
-conumerary
+conumerary 1
 claviculus
 conditionalist 1
 cassytha 1
@@ -26443,7 +26443,7 @@ cotyledons 2
 cotyliscus
 cherts
 cotylopubic 1
-catatonics 1
+catatonics 2
 criminalist 3
 cotylosacral 2
 cotylosaur
@@ -27574,7 +27574,7 @@ clairce
 coverslip 1
 copartnery 2
 covertly 5
-colloquialist 1
+colloquialist 2
 cadency 1
 cupmaker 1
 coves
@@ -28073,7 +28073,7 @@ carpentership
 codrus 1
 chondroblast 1
 crampits
-crampon 1
+crampon 2
 crampons
 crampoon 2
 carefree
