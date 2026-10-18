@@ -4851,7 +4851,7 @@ floor 1
 farmhouse 2
 fickleness 3
 flagstick 2
-flagworm 3
+flagworm 4
 fandangle 2
 fissirostrate 4
 feramorz 2
@@ -5650,7 +5650,7 @@ favouritism 4
 flimsier 2
 fishbolt 1
 fondues 4
-fellowshiped 2
+fellowshiped 3
 fascism
 forums 2
 fortis 2
@@ -6733,7 +6733,7 @@ fictive 2
 filipina 6
 fremt 4
 fomalhaut 3
-fiscs 3
+fiscs 4
 folliculin 1
 fanny 1
 fuchsinophil 2
@@ -6851,7 +6851,7 @@ fistiness 1
 floridities 2
 foozler 4
 freemartin 3
-farewells 3
+farewells 4
 foreporch 2
 fonnish 4
 folios 1
@@ -7128,7 +7128,7 @@ feeder 3
 ferly 1
 flanging 2
 footballs 5
-flinchers 3
+flinchers 4
 footboard 3
 footboards 2
 feckful 1
@@ -7464,7 +7464,7 @@ fossick 4
 feigning 1
 fishwives 4
 fiftypenny 2
-feminine 2
+feminine 3
 frumpier 4
 filipendulous 4
 funditores 1
