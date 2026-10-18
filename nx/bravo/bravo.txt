@@ -1561,7 +1561,7 @@ bdl
 bouton 4
 backsword 2
 ballastic 3
-ballata 1
+ballata 2
 backswordman 2
 beatifying 1
 brisked
@@ -4081,7 +4081,7 @@ blitzkrieged 3
 beams 3
 bean 1
 boldness
-begottenness 2
+begottenness 3
 bedeafen 1
 beaner 1
 bolewort 1
@@ -4413,7 +4413,7 @@ booleans 4
 butyrousness
 bouquiniste 2
 bickers 5
-bulky 4
+bulky 5
 bushwhacker
 bathyseism 1
 beclaw 2
