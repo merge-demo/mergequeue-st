@@ -5710,7 +5710,7 @@ aggrace 2
 ardeid 2
 agal 2
 agalactic 3
-agla 2
+agla 3
 appoggiaturas 1
 agalaxia 1
 anisomelus 2
@@ -17333,7 +17333,7 @@ armigeral
 amorpha
 acetylsalicylic 2
 animalcules 3
-antisepticised
+antisepticised 1
 anaesthetic 4
 autothermy 1
 aposteme 2
