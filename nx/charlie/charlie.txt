@@ -146,7 +146,7 @@ crudes 1
 cabled
 cablegram
 cablegrams
-cruors
+cruors 1
 clinopyroxene
 cablelaid
 cableless 2
@@ -637,7 +637,7 @@ caenostyly 1
 caesalpinia 3
 caenostylic 1
 commentarial 1
-caeoma 2
+caeoma 3
 chera 3
 chutzpah
 cero 1
@@ -1119,7 +1119,7 @@ columella
 calcinosis 4
 contraprovectant
 calciobiotite
-calcioferrite
+calcioferrite 1
 ceratobranchial
 calcioscheelite
 calciovolborthite
@@ -2372,14 +2372,14 @@ calinda 1
 ccw
 carucate 1
 canamo 1
-cranesbill 1
+cranesbill 2
 chaetognathous 2
 cicer 2
 canap 1
 consummator 1
 cabriole
 cubitocutaneous 4
-celtologist 2
+celtologist 3
 compliments
 canapina
 canards 1
@@ -4472,7 +4472,7 @@ choruslike
 conservatism
 crackleware
 carlylean 1
-carlyleian 2
+carlyleian 3
 chiromantical 2
 catwood 1
 carlylian 3
@@ -7883,7 +7883,7 @@ collieshangie
 cetane
 cetanes 2
 cerographies 2
-cete 1
+cete 2
 ceterach 3
 ceti
 cetic 1
@@ -10796,7 +10796,7 @@ creedist
 conditionals
 chinniest
 chino 1
-clorargyrite 2
+clorargyrite 3
 cohelpership 1
 ceaseless 1
 chinoa 1
@@ -10879,7 +10879,7 @@ collyba
 choledocholithiasis 1
 chippiest 1
 chipping 1
-chippings 1
+chippings 2
 castaneous
 clerk 2
 chipproof
@@ -10971,7 +10971,7 @@ churchgo 1
 commenceable 1
 chiropody
 cheekish
-chiropodial 1
+chiropodial 2
 chiropodic 1
 chiropodical 1
 caphite
@@ -12184,7 +12184,7 @@ cauldron 1
 chrysazol 2
 cirsomphalos 1
 chorioma 1
-crateral
+crateral 1
 chryselectrum 1
 calumny 2
 cuadrillas
@@ -13215,7 +13215,7 @@ castoridae 1
 cannonproof 2
 caryota 1
 cyclic
-cyclical
+cyclical 1
 cyclizing 1
 cyclically 2
 cyclicalness 1
@@ -14403,7 +14403,7 @@ crosses 1
 circus 4
 circusy
 correspondents
-consolableness 2
+consolableness 3
 circuts 1
 cyrillian 1
 cantharidating
@@ -14850,7 +14850,7 @@ cytologic
 cussedness 2
 coranoch 2
 caperdewsie 2
-cytomere 2
+cytomere 3
 carefully 1
 cytomicrosome
 citrated
@@ -15363,7 +15363,7 @@ cyprinodontidae 1
 covenantor
 claosaurus
 clapboard 3
-caenolestes 1
+caenolestes 2
 clapboarding 2
 cleidomastoid
 clapboards 2
@@ -18305,7 +18305,7 @@ cecidium 1
 chamaeleontidae 2
 caesaropapism 1
 cofounds 1
-cofreighter 1
+cofreighter 2
 countertree 2
 cretification 1
 constatation 2
@@ -18640,7 +18640,7 @@ ceroma
 coinhabitor 1
 chausses
 coinhered
-coinherence
+coinherence 1
 concubinehood
 catjang
 coinheritor 1
@@ -19660,7 +19660,7 @@ carrara
 coman 1
 comanche
 comanchean 2
-cohesion 1
+cohesion 2
 chlordan 1
 comanches
 comandantes 1
@@ -20372,7 +20372,7 @@ communize
 catholicoses
 communized
 commutable
-canada 2
+canada 3
 conjee
 commutant 1
 commutated 2
@@ -20875,7 +20875,7 @@ compositure 1
 compossible
 cataleptically 1
 cassalty
-composted
+composted 1
 composting 1
 composts 1
 compot 2
@@ -23178,7 +23178,7 @@ constitute 1
 constitutional
 closing
 consociating 2
-cretinizing
+cretinizing 1
 campfight 1
 coxodynia 1
 cajou 1
@@ -27437,7 +27437,7 @@ couscousou 2
 creamed 1
 casserole
 cousinage 2
-corral
+corral 1
 coffeehoused 3
 clake 4
 calculary
@@ -27461,7 +27461,7 @@ couters
 coequally 1
 coromandel 3
 coutet
-carotids 2
+carotids 3
 committing 3
 concertised 1
 conversaziones 3
@@ -27479,7 +27479,7 @@ couturieres 1
 couturiers 2
 chanduy 1
 credenciveness
-curlingly 1
+curlingly 2
 catwort
 coaeval 1
 cuprous 2
@@ -28247,7 +28247,7 @@ crare 2
 crashed 1
 confronting 2
 cursors 2
-crasher 1
+crasher 2
 crashers 1
 crashes 1
 conventically 1
