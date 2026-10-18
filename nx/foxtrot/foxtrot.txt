@@ -1682,7 +1682,7 @@ furnace 3
 fingertip 6
 foreordaining 4
 forehandsel 3
-fanfares 1
+fanfares 2
 fearsomeness 4
 foreshape 2
 feased 2
@@ -2187,7 +2187,7 @@ feltmaker 2
 fiducia 3
 fats 1
 fratercula 3
-fusilading 1
+fusilading 2
 flabellifoliate 3
 forthtell 3
 fishworker 2
@@ -2388,7 +2388,7 @@ friendlier 2
 frondage 3
 feriation 1
 falsedad 5
-flinting 1
+flinting 2
 flexors 2
 fricandeau 2
 forksful 3
@@ -2576,7 +2576,7 @@ foremastmen 2
 firefanging 2
 ferryway
 finding 3
-finlike 2
+finlike 3
 faddishness 2
 fishponds
 feinting 2
@@ -3883,7 +3883,7 @@ frequencies 3
 fits 2
 fortuitously 5
 fecundating 1
-fluvioglacial
+fluvioglacial 1
 fluidness 2
 fripperies 3
 formation 1
@@ -6224,7 +6224,7 @@ forlana 2
 foreshortens 2
 fatlings 2
 freyja 4
-floccules
+floccules 1
 focusable 3
 fascinative 3
 foundationary 3
@@ -7411,7 +7411,7 @@ foolisher 2
 faying 1
 falterers 1
 flavorsomeness 2
-flake 3
+flake 4
 finks
 furan 3
 forethrift 3
@@ -8332,7 +8332,7 @@ forgoer 3
 fidges 1
 forgoers 1
 fetas 3
-flasher 1
+flasher 2
 fetishes 1
 frisolee 3
 fellatios 1
@@ -8346,7 +8346,7 @@ faultiness 3
 futilize 2
 fireboat
 freestyler 8
-fusspots 2
+fusspots 3
 forepole 2
 foregame 4
 fountaining
