@@ -747,7 +747,7 @@ cager 2
 complexities
 coindication 1
 characterical 1
-causations
+causations 1
 cleaning 2
 crimpiness 1
 corners 2
@@ -1091,7 +1091,7 @@ calciferol 1
 calcified 1
 counterboycott 1
 calcifying 1
-codelight 1
+codelight 2
 callipee 2
 cantboard
 calciform 1
@@ -1634,7 +1634,7 @@ calamarioid 1
 coenzyme 1
 creasy
 calmant 2
-cytopathology
+cytopathology 1
 conveyor 1
 calmecac 3
 cyathophylloid
@@ -4079,7 +4079,7 @@ caliginous 2
 cardiacle
 cardiagra 2
 celiolymph
-cardiagram 1
+cardiagram 2
 cardiagraphy
 cardial 1
 cardialgy 1
@@ -7435,7 +7435,7 @@ cerated 1
 containment
 cerates 3
 chitting
-ceratiasis 2
+ceratiasis 3
 ceratiid 1
 ceratins
 canales 1
@@ -10145,7 +10145,7 @@ celioncus 3
 chevesaile
 chevetaine 1
 commodores 1
-capitalistic 2
+capitalistic 3
 copurchaser
 chevin 1
 cheviots 1
@@ -10707,7 +10707,7 @@ cuapinole 1
 cartilages 1
 chinalike
 collinearity
-communicates
+communicates 1
 cyanformic
 chondralgia 1
 chinaman
@@ -13618,7 +13618,7 @@ cymiferous 1
 cymlin
 cymlings 2
 cymlins 1
-carbasus 1
+carbasus 2
 coappriser
 clinty
 cnemidophorus 1
@@ -15399,7 +15399,7 @@ carburetting 2
 claptraps 1
 culbuter 2
 claque
-candescently 1
+candescently 2
 calipering 1
 chaffering 1
 canneries
@@ -16908,7 +16908,7 @@ caline 3
 cycadean 3
 cloistress 1
 conhydrine 2
-clumpiest 2
+clumpiest 3
 clumpish
 cinquecentism 1
 capitano
@@ -20045,7 +20045,7 @@ cocorico
 commendation
 ciliograde
 chaotical
-conterminal 1
+conterminal 2
 commendations 1
 charlotte
 capiturlary
@@ -20902,7 +20902,7 @@ chirologist
 chives
 compaginate 1
 compradore 2
-comprecation
+comprecation 1
 compregnate 1
 coart 2
 colonnades
@@ -22323,7 +22323,7 @@ cliffhang 1
 coptine
 congratulant 2
 chilarium
-congratulates 4
+congratulates 5
 coevalneity
 coward 1
 congratulational 3
@@ -27260,7 +27260,7 @@ countywide 1
 cerebellopontine 1
 countlessness
 countor 5
-commanders
+commanders 1
 cardhouse
 crossfall 4
 countrieman 1
