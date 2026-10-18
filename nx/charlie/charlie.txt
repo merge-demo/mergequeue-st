@@ -1995,7 +1995,7 @@ casavas
 camerinidae 2
 camerist
 campanero 1
-comp 1
+comp 2
 crenelates
 choliambist
 crampbit
@@ -3388,7 +3388,7 @@ carrots 1
 capote 1
 cyclohexene 1
 capouches 1
-cappadocian
+cappadocian 1
 culturologist
 crypted 2
 capparid
@@ -5566,7 +5566,7 @@ counterbranch 1
 catadrome 1
 chlorophaeite
 catadupe 1
-catafalco
+catafalco 1
 civilisation 2
 catagenetic 2
 catakinetic 1
@@ -5962,7 +5962,7 @@ cathartics
 cathartidae 3
 chistera 1
 cathartides 1
-chevied 2
+chevied 3
 carburized
 cathartolinum 4
 cathect 1
@@ -9616,7 +9616,7 @@ cautiousness
 cryptopapist 1
 curtals 1
 cragginess 4
-coexistent 3
+coexistent 4
 cheerlead
 concreteness
 crystallinity 1
@@ -10556,7 +10556,7 @@ cotwist 2
 chillest
 cystocarpic
 chilli 1
-costumey 1
+costumey 2
 chilly
 compartmentalize 2
 cherie
@@ -10672,7 +10672,7 @@ chymify 1
 cobnuts 1
 confide
 cholinesterase 1
-chiminage 3
+chiminage 4
 chimla
 chimleys 1
 chain 1
@@ -11389,7 +11389,7 @@ commences
 chiastic
 conscienceless
 chloroplatinous 1
-chloroprene 2
+chloroprene 3
 creature 1
 coronas
 camagon 2
@@ -11877,7 +11877,7 @@ chorale
 carmagnoles
 castration 1
 chorales
-comradery
+comradery 1
 caseation 2
 concio 1
 cassapanca
@@ -11954,7 +11954,7 @@ chorepiscopal
 conscribe 1
 catheterize 1
 commissively 3
-canoodling 2
+canoodling 3
 cowhages 1
 chondroganoidei 1
 cane 2
@@ -14382,7 +14382,7 @@ circumventing
 circumvention
 circumventions 1
 camphor 1
-circumventor
+circumventor 1
 conveyorized 1
 ceriomyces 2
 callously 1
@@ -15445,7 +15445,7 @@ canvases 1
 contemporise
 clarinets 1
 cryptorrhesis
-clarinettists 1
+clarinettists 2
 chestful 1
 chlorates
 cenosite 1
@@ -15919,7 +15919,7 @@ cleomes 3
 chimbs 1
 clep 2
 cakemaker 1
-comitant
+comitant 1
 cleanly 3
 cleped 1
 clepsydra 2
@@ -16625,7 +16625,7 @@ confining 1
 cantref 1
 cloque 2
 cloques 2
-cathodically 1
+cathodically 2
 cimaroon
 clewed 1
 clos 1
@@ -18608,7 +18608,7 @@ cosmometry
 coinable 1
 coinage
 coinages 1
-coincide 2
+coincide 3
 corpulently 3
 coincided 4
 cobbler
@@ -18917,7 +18917,7 @@ closehauled 1
 cosigner
 calligrapher 1
 cheesecake 1
-colladas
+colladas 1
 crematoria
 collage 1
 convicted 1
@@ -21930,7 +21930,7 @@ confessional 1
 confessionalism
 confessionally 3
 chirographary 1
-confessor 1
+confessor 2
 confessorship
 confetti 1
 conocephalus 2
@@ -22454,7 +22454,7 @@ cosiest
 circumduction
 catholicly
 conins 1
-coniogramme 1
+coniogramme 2
 contradiscriminate
 cecostomy 1
 constrictions 1
@@ -29981,7 +29981,7 @@ crostarie
 cajoler
 crotal
 crotalic 2
-completely 1
+completely 2
 campylotropous 1
 crotalidae
 crotaliform
