@@ -5661,7 +5661,7 @@ fillers 3
 fishable 2
 furriners 3
 fud 2
-fulguration 5
+fulguration 6
 fluidising 5
 fireable 5
 flimsiness 1
@@ -11281,7 +11281,7 @@ felly 3
 forrit 5
 funster 2
 furans 3
-furacious 1
+furacious 2
 fireplaces 2
 farces 3
 frabjous 3
