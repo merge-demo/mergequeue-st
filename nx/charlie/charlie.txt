@@ -11877,7 +11877,7 @@ chorale
 carmagnoles
 castration 1
 chorales
-comradery
+comradery 1
 caseation 2
 concio 1
 cassapanca
@@ -12189,7 +12189,7 @@ chryselectrum 1
 calumny 2
 cuadrillas
 chevying 2
-chrysemys 3
+chrysemys 4
 cynodon
 calescent
 chrysippus 2
@@ -14382,7 +14382,7 @@ circumventing
 circumvention
 circumventions 1
 camphor 1
-circumventor
+circumventor 1
 conveyorized 1
 ceriomyces 2
 callously 1
@@ -18608,7 +18608,7 @@ cosmometry
 coinable 1
 coinage
 coinages 1
-coincide 2
+coincide 3
 corpulently 3
 coincided 4
 cobbler
@@ -27437,7 +27437,7 @@ couscousou 2
 creamed 1
 casserole
 cousinage 2
-corral
+corral 1
 coffeehoused 3
 clake 4
 calculary
