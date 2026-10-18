@@ -952,7 +952,7 @@ frae 4
 feats 4
 faretta 1
 foresaid 2
-forecourse 1
+forecourse 2
 firth 3
 foldable 4
 fervid 7
@@ -1077,7 +1077,7 @@ frenchwoman 2
 frondescence 4
 foughten 2
 farsighted 3
-fleabites 3
+fleabites 4
 flatiron 1
 foretime 6
 fourierist 1
@@ -3121,7 +3121,7 @@ fibrocement 2
 frenzies
 fieulamort 5
 formulas 2
-fibromyotomy 7
+fibromyotomy 8
 frottages 2
 fountaineer 5
 flamefishes 2
@@ -6644,7 +6644,7 @@ frilliest 2
 fantasize 3
 fancify 1
 footpath
-forevouched 1
+forevouched 2
 figured
 foehnlike 5
 foeless 1
@@ -7345,7 +7345,7 @@ forests 2
 friendliest 2
 flourishy 4
 frontless 3
-formularised 3
+formularised 4
 foraminose 1
 foraminulate 3
 fought 7
@@ -9371,7 +9371,7 @@ flockman 3
 flummydiddle 2
 fundamentalness
 freath 2
-flees 2
+flees 3
 flane 5
 fewmets 2
 fortuuned 1
@@ -9525,7 +9525,7 @@ fraudulent 5
 fraudulentness 2
 ferreting 1
 frauen
-fideicommissumissa 1
+fideicommissumissa 2
 fibromyitis 2
 financed 2
 fishwoman 2
