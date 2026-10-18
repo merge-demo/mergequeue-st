@@ -110,7 +110,7 @@ fingertips 3
 faciends 3
 featheredges 3
 fluidization 3
-facient 2
+facient 3
 furaldehyde 2
 facilitate 2
 flocks 4
@@ -1952,7 +1952,7 @@ flagellantism 2
 fowlery 3
 fatherhood 1
 foreknower 2
-fearers 3
+fearers 4
 familiarizingly 1
 falsify 2
 fenouillet 1
@@ -2500,7 +2500,7 @@ feces 4
 fortunize
 fluters 4
 fatales 3
-faradising 4
+faradising 5
 ferociously 1
 flashforward 3
 fumarin 2
@@ -2944,7 +2944,7 @@ furloughs 1
 fungological 4
 froths 4
 fevered 2
-flitchen 1
+flitchen 2
 franklinian 4
 feveret 5
 fibroelastic 2
@@ -3879,7 +3879,7 @@ figurato 1
 fionnuala 3
 fanwe 2
 foregrounds 1
-frequencies 2
+frequencies 3
 fits 2
 fortuitously 5
 fecundating 1
@@ -3989,7 +3989,7 @@ forfeited 1
 foxbane 3
 futchel 1
 forlay 3
-flunk 6
+flunk 7
 ferric 2
 furazolidone 5
 fender 5
@@ -4139,7 +4139,7 @@ feezed 3
 fireboy 3
 flying 3
 fiendishly 4
-fraticelli 3
+fraticelli 4
 firebomb
 fractile 3
 fakiness 1
@@ -4719,7 +4719,7 @@ flabbergast 2
 forkfuls 6
 feathermonger 4
 fratchety
-fijian
+fijian 1
 fulgor 3
 ferrugineous 3
 flabella 4
@@ -5181,7 +5181,7 @@ fauvism 2
 feeding 3
 flued 3
 flangeway 2
-futter 3
+futter 4
 footpaddery 1
 filamentar 1
 francolin 2
@@ -5644,7 +5644,7 @@ forepassed 2
 fireboot 3
 flyless 2
 fuddle 2
-fulgurata 1
+fulgurata 2
 firetop 2
 favouritism 4
 flimsier 2
@@ -5843,7 +5843,7 @@ fayal 4
 foreparent 3
 fuciphagous 1
 feverously 3
-fluochloride 4
+fluochloride 5
 fattening 2
 fervidly 1
 firepower 4
@@ -7049,7 +7049,7 @@ foreganger 4
 fontinas 1
 forepromise 2
 figura
-fonts 5
+fonts 6
 fists 3
 floriparous 5
 francis 1
@@ -7864,7 +7864,7 @@ fellen 3
 findings 4
 foreplay 4
 feudally 4
-fratricides 3
+fratricides 4
 fencible 5
 flits 3
 frolicked 3
@@ -8087,7 +8087,7 @@ foredevote 3
 felicitates 1
 fluidisation 3
 frustrate 5
-fifteenths 2
+fifteenths 3
 flammably 1
 fairies 3
 figuredly 3
@@ -8280,7 +8280,7 @@ fossulate 5
 foresweat 2
 fesse 4
 forgeable 5
-forwaked 2
+forwaked 3
 flashtubes 3
 fillingness 3
 fibromyomatous 2
@@ -8737,7 +8737,7 @@ flattens 4
 feteless 5
 fame 1
 faciendum 2
-forgive 3
+forgive 4
 forecatching 3
 flotage 4
 filii 2
@@ -8848,7 +8848,7 @@ fusarium 2
 filletster 4
 firry
 flashtube
-frustula 4
+frustula 5
 feoffing 2
 favorably 3
 falcinellus 5
@@ -10164,7 +10164,7 @@ fe 5
 fulciform 1
 foreheaded 4
 fissiparously 1
-frittering 4
+frittering 5
 frivolity 2
 frivolities 1
 froughy 3
