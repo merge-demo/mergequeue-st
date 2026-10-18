@@ -146,7 +146,7 @@ crudes 1
 cabled
 cablegram
 cablegrams
-cruors
+cruors 1
 clinopyroxene
 cablelaid
 cableless 2
@@ -637,7 +637,7 @@ caenostyly 1
 caesalpinia 3
 caenostylic 1
 commentarial 1
-caeoma 2
+caeoma 3
 chera 3
 chutzpah
 cero 1
@@ -1119,7 +1119,7 @@ columella
 calcinosis 4
 contraprovectant
 calciobiotite
-calcioferrite
+calcioferrite 1
 ceratobranchial
 calcioscheelite
 calciovolborthite
@@ -2365,7 +2365,7 @@ canalla 1
 compulsivity
 canalled
 canallers
-canals
+canals 1
 cylindrocellular 1
 cumin 2
 calinda 1
@@ -2379,7 +2379,7 @@ canap 1
 consummator 1
 cabriole
 cubitocutaneous 4
-celtologist 2
+celtologist 3
 compliments
 canapina
 canards 1
@@ -7883,7 +7883,7 @@ collieshangie
 cetane
 cetanes 2
 cerographies 2
-cete 1
+cete 2
 ceterach 3
 ceti
 cetic 1
@@ -10879,7 +10879,7 @@ collyba
 choledocholithiasis 1
 chippiest 1
 chipping 1
-chippings 1
+chippings 2
 castaneous
 clerk 2
 chipproof
@@ -13215,7 +13215,7 @@ castoridae 1
 cannonproof 2
 caryota 1
 cyclic
-cyclical
+cyclical 1
 cyclizing 1
 cyclically 2
 cyclicalness 1
@@ -13485,7 +13485,7 @@ ciliate
 ciliated 1
 ciliately 1
 coolish
-ciliates 1
+ciliates 2
 canoness 1
 contemptful 1
 catalogued
@@ -14850,7 +14850,7 @@ cytologic
 cussedness 2
 coranoch 2
 caperdewsie 2
-cytomere 2
+cytomere 3
 carefully 1
 cytomicrosome
 citrated
@@ -18305,7 +18305,7 @@ cecidium 1
 chamaeleontidae 2
 caesaropapism 1
 cofounds 1
-cofreighter 1
+cofreighter 2
 countertree 2
 cretification 1
 constatation 2
@@ -18640,7 +18640,7 @@ ceroma
 coinhabitor 1
 chausses
 coinhered
-coinherence
+coinherence 1
 concubinehood
 catjang
 coinheritor 1
@@ -19660,7 +19660,7 @@ carrara
 coman 1
 comanche
 comanchean 2
-cohesion 1
+cohesion 2
 chlordan 1
 comanches
 comandantes 1
@@ -20875,7 +20875,7 @@ compositure 1
 compossible
 cataleptically 1
 cassalty
-composted
+composted 1
 composting 1
 composts 1
 compot 2
@@ -23178,7 +23178,7 @@ constitute 1
 constitutional
 closing
 consociating 2
-cretinizing
+cretinizing 1
 campfight 1
 coxodynia 1
 cajou 1
@@ -27461,7 +27461,7 @@ couters
 coequally 1
 coromandel 3
 coutet
-carotids 2
+carotids 3
 committing 3
 concertised 1
 conversaziones 3
@@ -27479,7 +27479,7 @@ couturieres 1
 couturiers 2
 chanduy 1
 credenciveness
-curlingly 1
+curlingly 2
 catwort
 coaeval 1
 cuprous 2
@@ -28247,7 +28247,7 @@ crare 2
 crashed 1
 confronting 2
 cursors 2
-crasher 1
+crasher 2
 crashers 1
 crashes 1
 conventically 1
