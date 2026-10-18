@@ -11877,7 +11877,7 @@ chorale
 carmagnoles
 castration 1
 chorales
-comradery
+comradery 1
 caseation 2
 concio 1
 cassapanca
@@ -14382,7 +14382,7 @@ circumventing
 circumvention
 circumventions 1
 camphor 1
-circumventor
+circumventor 1
 conveyorized 1
 ceriomyces 2
 callously 1
@@ -23400,7 +23400,7 @@ concordantial 1
 containerizing 2
 chemasthenia 2
 containerport
-copasetic 2
+copasetic 3
 caudex 1
 calami 2
 cyrtostyle

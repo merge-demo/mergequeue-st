@@ -2915,7 +2915,7 @@ akvavits 1
 autostylic
 autarchical
 agonium 1
-apium 1
+apium 2
 abidal
 achar 2
 azaleas
@@ -9565,7 +9565,7 @@ altiloquence 3
 advehent 2
 academia
 arenig 1
-altimeters
+altimeters 1
 aspidomancy 3
 anthema
 alchemistry
@@ -13700,7 +13700,7 @@ aposporogony
 albumenising 4
 accretion 1
 alluviviums
-autoecholalia
+autoecholalia 1
 akhara
 algific 1
 anogenital 2
@@ -19435,7 +19435,7 @@ anlaute 2
 aphelilions 1
 allottees 2
 archaean
-astrophysics 2
+astrophysics 3
 argify 1
 argyle 1
 autocarpian
