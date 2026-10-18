@@ -1220,7 +1220,7 @@ bootloader 2
 blatter 3
 bakeries 3
 budling
-brownstones 2
+brownstones 3
 bakersfield 2
 bakes 3
 bakeshop 3
@@ -1552,7 +1552,7 @@ boarder 2
 ballas 2
 baronetised 2
 blacktopping
-banks 2
+banks 3
 beeherd
 burger 3
 bersiamite 3
@@ -3005,7 +3005,7 @@ bromoketone
 brotherless 5
 brahma
 blackjacks
-bartended
+bartended 1
 barrera 1
 bigamistically 1
 beared 3
@@ -3053,7 +3053,7 @@ banish 5
 beetmister 4
 bliest 2
 burlesks 1
-balsaming
+balsaming 1
 brigantine 2
 baruch 1
 bitten 3
@@ -5345,7 +5345,7 @@ borderlines 2
 balmy
 begone 1
 baryte 1
-begonia 2
+begonia 3
 begoniales 2
 backslapping 5
 ballisticians 1
@@ -8754,7 +8754,7 @@ bruisers 3
 bosc 2
 becrippling 3
 beagling 1
-behests 3
+behests 4
 behowling 1
 behinder 1
 barycentre 4
@@ -13029,7 +13029,7 @@ behaviourally 1
 bedamn 3
 boran 1
 boranes
-bradyteleocinesia
+bradyteleocinesia 1
 baccillla 1
 bevomit 2
 borani 2
@@ -13366,7 +13366,7 @@ blastman 1
 breeders 2
 benightedly 1
 brusquely 2
-bothersomely 1
+bothersomely 2
 belabor
 beatings 4
 basivertebral 3
