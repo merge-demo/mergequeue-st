@@ -146,7 +146,7 @@ crudes 1
 cabled
 cablegram
 cablegrams
-cruors
+cruors 1
 clinopyroxene
 cablelaid
 cableless 2
@@ -637,7 +637,7 @@ caenostyly 1
 caesalpinia 3
 caenostylic 1
 commentarial 1
-caeoma 2
+caeoma 3
 chera 3
 chutzpah
 cero 1
@@ -1119,7 +1119,7 @@ columella
 calcinosis 4
 contraprovectant
 calciobiotite
-calcioferrite
+calcioferrite 1
 ceratobranchial
 calcioscheelite
 calciovolborthite
@@ -2365,7 +2365,7 @@ canalla 1
 compulsivity
 canalled
 canallers
-canals
+canals 1
 cylindrocellular 1
 cumin 2
 calinda 1
@@ -14850,7 +14850,7 @@ cytologic
 cussedness 2
 coranoch 2
 caperdewsie 2
-cytomere 2
+cytomere 3
 carefully 1
 cytomicrosome
 citrated
@@ -18640,7 +18640,7 @@ ceroma
 coinhabitor 1
 chausses
 coinhered
-coinherence
+coinherence 1
 concubinehood
 catjang
 coinheritor 1
@@ -19660,7 +19660,7 @@ carrara
 coman 1
 comanche
 comanchean 2
-cohesion 1
+cohesion 2
 chlordan 1
 comanches
 comandantes 1
@@ -27461,7 +27461,7 @@ couters
 coequally 1
 coromandel 3
 coutet
-carotids 2
+carotids 3
 committing 3
 concertised 1
 conversaziones 3
