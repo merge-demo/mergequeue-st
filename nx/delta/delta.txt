@@ -5450,7 +5450,7 @@ dorsiventrality 1
 deoxidize 2
 doryphoros 2
 dews 2
-deoxygenated
+deoxygenated 1
 depaints 3
 divestitures
 dilatation
