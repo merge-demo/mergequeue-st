@@ -146,7 +146,7 @@ crudes 1
 cabled
 cablegram
 cablegrams
-cruors
+cruors 1
 clinopyroxene
 cablelaid
 cableless 2
@@ -637,7 +637,7 @@ caenostyly 1
 caesalpinia 3
 caenostylic 1
 commentarial 1
-caeoma 2
+caeoma 3
 chera 3
 chutzpah
 cero 1
@@ -1119,7 +1119,7 @@ columella
 calcinosis 4
 contraprovectant
 calciobiotite
-calcioferrite
+calcioferrite 1
 ceratobranchial
 calcioscheelite
 calciovolborthite
@@ -10879,7 +10879,7 @@ collyba
 choledocholithiasis 1
 chippiest 1
 chipping 1
-chippings 1
+chippings 2
 castaneous
 clerk 2
 chipproof
@@ -18640,7 +18640,7 @@ ceroma
 coinhabitor 1
 chausses
 coinhered
-coinherence
+coinherence 1
 concubinehood
 catjang
 coinheritor 1
@@ -19660,7 +19660,7 @@ carrara
 coman 1
 comanche
 comanchean 2
-cohesion 1
+cohesion 2
 chlordan 1
 comanches
 comandantes 1
@@ -27461,7 +27461,7 @@ couters
 coequally 1
 coromandel 3
 coutet
-carotids 2
+carotids 3
 committing 3
 concertised 1
 conversaziones 3
@@ -28247,7 +28247,7 @@ crare 2
 crashed 1
 confronting 2
 cursors 2
-crasher 1
+crasher 2
 crashers 1
 crashes 1
 conventically 1
