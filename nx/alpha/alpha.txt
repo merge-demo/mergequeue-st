@@ -37,7 +37,7 @@ antecedence 2
 area
 allseeds
 aurine 2
-aethogen 1
+aethogen 2
 aerometeorograph 1
 abaciscus 2
 aquanaut 2
@@ -6502,7 +6502,7 @@ arrosion 1
 anviled
 arthromeningitis 1
 agust 2
-asterism
+asterism 1
 aha 2
 ahamkara 1
 autoclaves
@@ -15173,7 +15173,7 @@ arigue 1
 antiestablishment 2
 auriscopic 2
 autophagia
-acetanisidide
+acetanisidide 1
 adenogenesis 2
 antegarden 1
 aggregating 1
@@ -15993,7 +15993,7 @@ acubens 1
 arecolidine 2
 albumenise 2
 autophonous
-aromatiser 3
+aromatiser 4
 advisable 1
 atreus
 antiradiating 1
@@ -23210,7 +23210,7 @@ azotous
 accomplice 1
 architecturesque 1
 attestator
-antiseption 2
+antiseption 3
 attested 3
 apyrexy 3
 attester 1
@@ -24796,7 +24796,7 @@ alleluiatic 1
 araguane 1
 avifaunistic 2
 aperiodic
-acinetan 1
+acinetan 2
 accensed
 adoptions 1
 auguster 1
