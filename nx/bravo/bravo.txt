@@ -735,7 +735,7 @@ brakeless 1
 brokeress 2
 binful 1
 beautihood 1
-bransles 5
+bransles 6
 berrendo 2
 breeches 2
 bespangle
@@ -2682,7 +2682,7 @@ barmaster 7
 bergalith 3
 benzoic 2
 barmcloth 3
-brither
+brither 1
 birdcage 1
 balmlike 3
 barnabas 2
@@ -4005,7 +4005,7 @@ buyback 1
 beslur 4
 bonyfish 5
 believer
-beacons 1
+beacons 2
 buoyancy 4
 beadeye 3
 beader 1
@@ -11766,7 +11766,7 @@ burier 1
 bowstring 2
 bobsleded 1
 bigeyes
-bacteriopurpurin 3
+bacteriopurpurin 4
 barrens 3
 bucephala
 biology
@@ -15887,7 +15887,7 @@ bindingly
 beno
 battered 2
 bloodstainedness 1
-babiism 2
+babiism 3
 bloomsburian 2
 bodybuild 3
 bromeigon 1
