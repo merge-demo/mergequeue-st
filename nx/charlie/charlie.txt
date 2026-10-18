@@ -22022,7 +22022,7 @@ canastas 1
 confirms 3
 ceraunite
 confiscatable
-cynebot
+cynebot 1
 confiscate
 countertrend 1
 crois 2
