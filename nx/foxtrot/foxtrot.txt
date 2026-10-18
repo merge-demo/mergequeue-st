@@ -8220,7 +8220,7 @@ folles 2
 faddle 4
 fraught 6
 flourishable 1
-fordrive
+fordrive 1
 flockbed
 fichus
 flossed 3
@@ -8447,7 +8447,7 @@ fellfare 2
 foreking 2
 fictively 2
 fuseboard 2
-fm 1
+fm 2
 filcher 2
 fullom 4
 futhark 1
@@ -11324,7 +11324,7 @@ formatted 3
 feverfew 1
 firesides 2
 fraternize
-fleabite 6
+fleabite 7
 faultfinding 5
 fluoroscopic 1
 fossilogist 3
