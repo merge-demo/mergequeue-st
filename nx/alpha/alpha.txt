@@ -1230,7 +1230,7 @@ antistrophal
 attendance
 avellaneous
 afforest 1
-autogravure 1
+autogravure 2
 antimedically 3
 acanthodes 1
 aspirations 1
@@ -1651,7 +1651,7 @@ accoutres
 accredit
 argenteum
 accreditate 2
-amygdaline
+amygdaline 1
 accreditations
 absentmindedness
 autogenuous 1
@@ -4950,7 +4950,7 @@ aeroelasticity 2
 arraigning 1
 aerofoils 1
 atmidometry 1
-adjourned 3
+adjourned 4
 amberfish 1
 antilogous
 antinaturalistic 1
@@ -5300,7 +5300,7 @@ abrogative 3
 anticlinal
 anapophysial
 ammonifier 2
-affine
+affine 1
 antiatheistically 1
 affined 1
 affinely 3
@@ -5630,7 +5630,7 @@ autotherapeutic 3
 androconium 1
 amylometer 2
 admiredly 1
-anaglyphical 3
+anaglyphical 4
 accusatrixes
 amoebiform 2
 aftertask 1
@@ -5730,7 +5730,7 @@ angulatosinuous 1
 agalwoods 2
 arthrodial 1
 adiposes 1
-adulter 1
+adulter 2
 agamemnon 1
 antiquely 2
 aeolistic 3
@@ -5941,7 +5941,7 @@ arenaceous 1
 arri
 aftergrind 3
 actinomycetaceae 1
-ablute 1
+ablute 2
 agglutinative 1
 adamantine 3
 agglutinatively 1
@@ -6760,7 +6760,7 @@ antinegro 2
 aubrey 3
 ainee 3
 allures 2
-ainhum 2
+ainhum 3
 arrivederla 2
 arthropleure 1
 amortisable 6
@@ -7355,7 +7355,7 @@ adlegiare 1
 anglophobia 2
 appropriative 1
 ashake
-albarco
+albarco 1
 appliably 1
 albarelli 2
 autotriploidy 2
@@ -7499,7 +7499,7 @@ asteroxylon 1
 acknowing 3
 aikuchi 1
 allonge 1
-albricias 2
+albricias 3
 arable 1
 achromic 1
 agma 1
@@ -9664,7 +9664,7 @@ airworthiest 2
 aluminising 2
 aluminize 2
 aviary 2
-archer 1
+archer 2
 asserted 1
 aluminizes 1
 anticardium 1
@@ -11961,7 +11961,7 @@ anammonide 1
 achterveld
 anantherous 1
 ananthous 1
-aftersend 2
+aftersend 3
 aupaka 1
 anchylosis 1
 ancientness 4
@@ -15825,7 +15825,7 @@ ambitioning 4
 adolf 1
 aborigine
 antiphons 1
-athericera 1
+athericera 2
 agiotage 1
 assistants 1
 alismataceae 2
@@ -15878,7 +15878,7 @@ antipoetical 2
 antipolar
 afibrinogenemia 2
 acanthus 2
-antipolygamy 1
+antipolygamy 2
 antipolitical 3
 assureds 2
 azureous 2
@@ -19369,7 +19369,7 @@ adjuror
 accidentalness
 argel 2
 admissable
-admaxillary 1
+admaxillary 2
 agio 1
 argentamid 3
 amadi
@@ -19631,7 +19631,7 @@ acylal 1
 acetylsalol
 aryls 2
 apodeictical 2
-acreages 1
+acreages 2
 aerially 2
 ascaridole 1
 arimathaean
@@ -20823,7 +20823,7 @@ arugulas 1
 arui 1
 adjudicator 2
 aroynt
-av 1
+av 2
 asia
 anhydroxime
 aquintocubitalism
@@ -20868,7 +20868,7 @@ asa 1
 anticynically 1
 aneath 2
 asale 1
-asana 1
+asana 2
 aconitin 1
 arachnidism 1
 avalvular 1
@@ -20966,7 +20966,7 @@ ascelli 3
 ascellus
 ascend
 ascendable 2
-ayenbite 1
+ayenbite 2
 amortisseur 2
 ahtena 1
 antirust
@@ -21994,7 +21994,7 @@ appellors 1
 aircrewmen
 anni 1
 argentometrically 2
-assumes 1
+assumes 2
 apothesis 1
 antiperiodic 1
 act 3
@@ -23471,7 +23471,7 @@ arsenillo
 augends 1
 auger 3
 ahimsas 2
-agrufe 2
+agrufe 3
 augerer
 antireformer 2
 augers
@@ -23555,7 +23555,7 @@ auletai 2
 auletes
 atalaya 1
 aulae 2
-aetiophyllin
+aetiophyllin 1
 aulical 2
 aulicism
 aries
@@ -24094,7 +24094,7 @@ anacondas 1
 apogenous 2
 arrtez
 autoette
-antigenicity
+antigenicity 1
 autofrettage 2
 armament 2
 afreets 3
