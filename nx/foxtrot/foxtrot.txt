@@ -310,7 +310,7 @@ flchette 4
 fplot 5
 fluxionary 2
 feods 3
-forces 5
+forces 6
 fail 4
 fireplough 4
 faineancy 5
@@ -4265,7 +4265,7 @@ freehandedly 1
 fingerling 6
 fawnskin 2
 freudism 4
-fatiguability 1
+fatiguability 2
 fulsomely 2
 ferdwit 5
 fustians 3
@@ -5647,7 +5647,7 @@ fuddle 2
 fulgurata 1
 firetop 2
 favouritism 4
-flimsier 1
+flimsier 2
 fishbolt 1
 fondues 4
 fellowshiped 2
@@ -6019,7 +6019,7 @@ flitchplate 2
 floral 5
 fennecs 2
 floralize 2
-floras 2
+floras 3
 furnaced 2
 focusless 3
 freakish 2
@@ -7175,7 +7175,7 @@ foremind 1
 flukewort 1
 foothalt 6
 filths 2
-flagfish 4
+flagfish 5
 fend 4
 fishified 4
 fishers 2
@@ -8220,7 +8220,7 @@ folles 2
 faddle 4
 fraught 6
 flourishable 1
-fordrive
+fordrive 1
 flockbed
 fichus
 flossed 3
@@ -8423,7 +8423,7 @@ forlain
 fruitcakes 1
 filed 5
 frass
-foot 4
+foot 5
 framers 2
 ferried 5
 flusterating 1
@@ -8447,7 +8447,7 @@ fellfare 2
 foreking 2
 fictively 2
 fuseboard 2
-fm 1
+fm 2
 filcher 2
 fullom 4
 futhark 1
@@ -8838,7 +8838,7 @@ frizzlier 3
 frontosphenoidal 2
 fulfills 2
 flancard 2
-fecundation
+fecundation 1
 foxie
 fixedly 1
 firebombing 2
@@ -9269,7 +9269,7 @@ fishbed 3
 foraneous 6
 facts 4
 frayedness 3
-flagmaking 1
+flagmaking 2
 flashier 5
 finnac 4
 forpining 3
@@ -11034,7 +11034,7 @@ floodlight 3
 fabliaux 5
 fy 2
 fusuma 2
-farmery 4
+farmery 5
 forcipate 3
 fumets 1
 fumiest 1
@@ -11324,7 +11324,7 @@ formatted 3
 feverfew 1
 firesides 2
 fraternize
-fleabite 6
+fleabite 7
 faultfinding 5
 fluoroscopic 1
 fossilogist 3
