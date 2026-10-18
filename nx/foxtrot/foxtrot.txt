@@ -1682,7 +1682,7 @@ furnace 3
 fingertip 6
 foreordaining 4
 forehandsel 3
-fanfares 1
+fanfares 2
 fearsomeness 4
 foreshape 2
 feased 2
@@ -2802,7 +2802,7 @@ foxtailed 3
 facticity 2
 fotch 6
 filao
-fimbriation 4
+fimbriation 5
 frazzles
 filace 1
 finnmark 3
@@ -3883,7 +3883,7 @@ frequencies 3
 fits 2
 fortuitously 5
 fecundating 1
-fluvioglacial
+fluvioglacial 1
 fluidness 2
 fripperies 3
 formation 1
@@ -7869,7 +7869,7 @@ fencible 5
 flits 3
 frolicked 3
 flagellating 3
-fibrotuberculosis 2
+fibrotuberculosis 3
 fiked 3
 forepossessed 1
 filler 3
@@ -10317,7 +10317,7 @@ frillies 4
 forelocks 2
 flagitiousness 3
 faitour 3
-figuriste
+figuriste 1
 filchers 1
 frolicsome 3
 fishful 2

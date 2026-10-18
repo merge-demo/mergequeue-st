@@ -1651,7 +1651,7 @@ accoutres
 accredit
 argenteum
 accreditate 2
-amygdaline
+amygdaline 1
 accreditations
 absentmindedness
 autogenuous 1
@@ -4950,7 +4950,7 @@ aeroelasticity 2
 arraigning 1
 aerofoils 1
 atmidometry 1
-adjourned 3
+adjourned 4
 amberfish 1
 antilogous
 antinaturalistic 1
@@ -7386,7 +7386,7 @@ albee 1
 amphiboline 2
 alberene 3
 albergatrice
-anthropobiologist 3
+anthropobiologist 4
 alberge 1
 alternating
 additively
@@ -19631,7 +19631,7 @@ acylal 1
 acetylsalol
 aryls 2
 apodeictical 2
-acreages 1
+acreages 2
 aerially 2
 ascaridole 1
 arimathaean
