@@ -1255,7 +1255,7 @@ datemark 1
 disenter 1
 dentalise 1
 drink 3
-durational
+durational 1
 daterman
 datil 1
 devotement
