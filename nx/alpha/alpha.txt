@@ -1684,7 +1684,7 @@ accruable
 atty 3
 anatomism 1
 attribute 2
-actualities 3
+actualities 4
 accrued 2
 accruement 1
 accruer 1
@@ -2800,7 +2800,7 @@ askr 2
 attent 1
 alfurese 1
 arrestant 1
-acrostolia 3
+acrostolia 4
 amebian
 artarin 1
 acrobates 2
@@ -3640,7 +3640,7 @@ abada 3
 antipodagron 4
 aepyornis 1
 agelessly 1
-adelomorphic 1
+adelomorphic 2
 aeolididae
 adsorbing 1
 adamhood 1
@@ -4674,7 +4674,7 @@ aeacides 2
 aechmophorus
 assistless 1
 agitates 2
-ayegreen 2
+ayegreen 3
 alahee 2
 avikom 2
 aecidial
@@ -6120,7 +6120,7 @@ anisochromatic 2
 anapaestic 2
 aviatrix 3
 appay
-askile 1
+askile 2
 aminopeptidase 1
 aminocaproic 1
 airproofed 2
@@ -6219,7 +6219,7 @@ anthraces 1
 ablactate
 agnostics 2
 anon 1
-apoplexy
+apoplexy 1
 agnostus
 agnotozoic 1
 agnus 1
@@ -6502,7 +6502,7 @@ arrosion 1
 anviled
 arthromeningitis 1
 agust 2
-asterism
+asterism 1
 aha 2
 ahamkara 1
 autoclaves
@@ -9249,7 +9249,7 @@ alnilam 3
 alniviridol 2
 appellees 1
 angles 2
-abscondedly
+abscondedly 1
 alnuin
 alo 4
 alocasia 1
@@ -9899,7 +9899,7 @@ autosomatognosis
 aeciospore 1
 azotorrhoea 4
 autosexing
-attid 1
+attid 2
 asphodelus
 aragonian 1
 antimasker 1
@@ -12536,7 +12536,7 @@ autolithographer
 apprentice 1
 arsenotungstates
 anhydrite 2
-aikidos
+aikidos 1
 antehistoric
 arsenicated
 anthracitous
@@ -14919,7 +14919,7 @@ antinepotic
 abnormality 1
 antliate 4
 angeles 1
-anticyclically 3
+anticyclically 4
 anticity 1
 anticytolysin 1
 alphorn 1
@@ -15993,7 +15993,7 @@ acubens 1
 arecolidine 2
 albumenise 2
 autophonous
-aromatiser 3
+aromatiser 4
 advisable 1
 atreus
 antiradiating 1
@@ -19617,7 +19617,7 @@ apposing 1
 arikara 1
 anthracomartus 1
 aplastic 3
-annotate 1
+annotate 2
 ark
 arillate
 affricative
@@ -20327,7 +20327,7 @@ afley
 aeromedicine 1
 aseptol 3
 arrogate 3
-antenarial
+antenarial 1
 anemonal 1
 alonsoa
 alem
@@ -21854,7 +21854,7 @@ andoroba
 aerophobia 3
 assimilationist 2
 afterattack 4
-assinego
+assinego 1
 arousable
 allotrylic 1
 assyntite 2
@@ -23210,7 +23210,7 @@ azotous
 accomplice 1
 architecturesque 1
 attestator
-antiseption 2
+antiseption 3
 attested 3
 apyrexy 3
 attester 1
@@ -23375,7 +23375,7 @@ abovementioned 3
 acned 2
 allokinetic 2
 allophanamide
-amorphotae 1
+amorphotae 2
 apposed 3
 aridnesses 2
 axonemal 2
@@ -23947,7 +23947,7 @@ antiscepticism
 abadejo 2
 anepiploic
 autoanalytic
-anseriformes
+anseriformes 1
 actinophonic
 acetylsalicylate 1
 aeolotropic 1
@@ -24796,7 +24796,7 @@ alleluiatic 1
 araguane 1
 avifaunistic 2
 aperiodic
-acinetan 1
+acinetan 2
 accensed
 adoptions 1
 auguster 1
