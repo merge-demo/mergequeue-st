@@ -1204,7 +1204,7 @@ campimetrical 2
 cornerways
 caldrons
 charry 1
-calean 1
+calean 2
 cystorrhea 1
 calebite 2
 calebites
@@ -2890,7 +2890,7 @@ cours 3
 cyeses
 canopus
 canos
-canossa
+canossa 1
 centigrado 2
 canotier 2
 canreply 1
@@ -8783,7 +8783,7 @@ chaptalize
 cymbalaria 1
 chapter 1
 canonries
-chapteral 2
+chapteral 3
 chapterhouse 1
 cardinalates 2
 chapwoman 3
@@ -12578,7 +12578,7 @@ chronics
 craddy 2
 chorization 2
 contingency 2
-commerceless 2
+commerceless 3
 chronocarator 1
 citrine 5
 cuckoldy 1
@@ -18328,7 +18328,7 @@ crenelled 1
 cogger 1
 cogging 2
 coggledy
-cogitate 2
+cogitate 3
 campal 1
 cogglety
 culdee 2
@@ -19817,7 +19817,7 @@ carassows
 comediant 1
 comedical 1
 coprosma 1
-conciliabulum
+conciliabulum 1
 comediette 1
 coagulate 1
 chelydridae
@@ -23729,7 +23729,7 @@ contraindicant
 ciliospinal
 compunctious
 contraindicates
-contraindications
+contraindications 1
 cloudwards
 cologarithm 2
 contralateral 2
@@ -24049,7 +24049,7 @@ conventionally
 conventionary
 consubstantiate
 conventioneers
-countercoup
+countercoup 1
 conventioner
 chainplate 1
 conventionize 1
