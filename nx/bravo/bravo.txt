@@ -4554,7 +4554,7 @@ bathroot 2
 bater 1
 bool 1
 bedabble 1
-beagles
+beagles 1
 barricadoed 2
 biggening 1
 behavioristic 2
@@ -9493,7 +9493,7 @@ biron 1
 byronesque 3
 birostrate 1
 byronite
-byronic 3
+byronic 4
 binocles 1
 beirut 2
 brahmaness 4
