@@ -24,7 +24,7 @@ flawy 5
 fashional 4
 fanciest 3
 furiouser 2
-febricula 2
+febricula 3
 freeman 5
 floodlet 1
 fourchee 1
@@ -141,7 +141,7 @@ fossiled 2
 facsimiled 6
 falser 1
 fracturable
-frigidaria 3
+frigidaria 4
 flayers 1
 functionarism 3
 fifthly 1
@@ -952,7 +952,7 @@ frae 4
 feats 4
 faretta 1
 foresaid 2
-forecourse 1
+forecourse 2
 firth 3
 foldable 4
 fervid 7
@@ -1963,7 +1963,7 @@ fone 2
 feeb
 feeblemindedly 2
 femaleness 2
-flowerlike 3
+flowerlike 4
 festshrifts 4
 francia 6
 fainaiguing 1
@@ -2003,7 +2003,7 @@ floccosely 2
 firespout 3
 forerake 2
 fitched 4
-flossflower 4
+flossflower 5
 fortunel 2
 floative 3
 fayed 2
@@ -3102,7 +3102,7 @@ fennelflower 2
 fibroblastic 3
 ferngale 3
 fipple 3
-flunkyism 6
+flunkyism 7
 festoon 5
 fonds 3
 finned 2
@@ -3121,7 +3121,7 @@ fibrocement 2
 frenzies
 fieulamort 5
 formulas 2
-fibromyotomy 7
+fibromyotomy 8
 frottages 2
 fountaineer 5
 flamefishes 2
@@ -6044,7 +6044,7 @@ fustic 1
 fleam 3
 finking 3
 flisk 3
-fractal
+fractal 1
 fluviology 2
 fibromas 1
 faeroese 2
@@ -6644,7 +6644,7 @@ frilliest 2
 fantasize 3
 fancify 1
 footpath
-forevouched 1
+forevouched 2
 figured
 foehnlike 5
 foeless 1
