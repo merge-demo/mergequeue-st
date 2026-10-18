@@ -3633,7 +3633,7 @@ carabus
 caracara 1
 chanting
 carack 1
-circumvallated 1
+circumvallated 2
 caracks 2
 cumanagoto 1
 curtaxe 1
@@ -4767,7 +4767,7 @@ carpium 1
 cannach 1
 carpocace 2
 cassandras 1
-contagia 1
+contagia 2
 cuestas 2
 conscient 1
 cartwrighting 2
@@ -5657,7 +5657,7 @@ comprizable 1
 cataphyll 4
 correlativism 2
 chlorococcum 1
-cataphora 1
+cataphora 2
 cataphoresis
 cataphoria
 cataphract
@@ -7176,7 +7176,7 @@ cytotoxin
 cremant 3
 clodpate
 centrically
-compensability 3
+compensability 4
 centrifugalisation
 corruptest 1
 centrifugalize 2
@@ -7224,7 +7224,7 @@ centromere 1
 centromeric 2
 centronote 1
 couth 2
-centropomidae 1
+centropomidae 2
 cardioaccelerator 1
 calyceal
 clomped
@@ -13892,7 +13892,7 @@ cautionings 1
 cautivo 2
 cinnamodendron
 chondroclast 1
-cusconin
+cusconin 1
 cinnamol
 cinnamonic 1
 cinnamonlike 1
@@ -14273,7 +14273,7 @@ circumnavigating
 cubocalcaneal 3
 circumnavigation 2
 clefted
-chickaree 3
+chickaree 4
 coelia
 circumnavigator 1
 cyclometrical
@@ -14566,7 +14566,7 @@ cystidea 1
 cystinosis
 cotehardie 2
 comburendo
-cystidean
+cystidean 1
 coumarinic
 curtailment 1
 cryptorchid
@@ -16877,7 +16877,7 @@ carpogonium 1
 clubweed 1
 cionocranian 2
 clubwomen
-cluck
+cluck 1
 cyclas 1
 clucked 2
 crotonbug 2
@@ -23670,7 +23670,7 @@ cubalaya 3
 countableness
 contracyclical
 contractable 2
-contractant 2
+contractant 3
 contractation
 contractedly
 contractedness
@@ -25136,7 +25136,7 @@ chromonematic
 coreometer
 crocks
 complacential
-coreplastic 4
+coreplastic 5
 corepressor
 cubas 1
 craniologically 2
@@ -29169,7 +29169,7 @@ cloys 1
 catwalks 2
 cluniacensian 1
 clauster 1
-costards
+costards 1
 cryological 1
 cryometry
 cocashweed
