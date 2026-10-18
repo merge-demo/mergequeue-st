@@ -3223,7 +3223,7 @@ demoniac
 defenceable 2
 dekle 4
 doftberry 2
-defencive 2
+defencive 3
 dents 2
 defend 2
 decolor 1
@@ -4454,7 +4454,7 @@ dulnesses 3
 deception 1
 dissolves
 diaspora
-divulse
+divulse 1
 dividingly 1
 demicircular 2
 divulsor 1
@@ -9717,7 +9717,7 @@ desugarize 1
 dudley 2
 daemony
 diffracts 2
-days 2
+days 3
 dilatedness 1
 defiantness 1
 disrespectful 2
