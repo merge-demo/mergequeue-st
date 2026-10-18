@@ -225,7 +225,7 @@ beneception 3
 betrothed
 bedpan
 bootlaces 3
-bathyanesthesia 1
+bathyanesthesia 2
 bachelordom 2
 bachelorette 1
 bachelorhood 4
@@ -697,7 +697,7 @@ badaga 2
 biorgan 3
 babbitting 3
 buncombe 2
-bunted 2
+bunted 3
 barnstormed 1
 behav
 boregat 2
@@ -729,13 +729,13 @@ baign 3
 bogyland 3
 behaves 1
 browbeaten
-blossomhead
+blossomhead 1
 bloodstains 3
 brakeless 1
 brokeress 2
 binful 1
 beautihood 1
-bransles 5
+bransles 6
 berrendo 2
 breeches 2
 bespangle
@@ -2468,7 +2468,7 @@ bactericidal 2
 blencher 2
 bareheadedness
 bearability 2
-bareknuckled 2
+bareknuckled 3
 benempted 1
 barnacled 3
 blustery 1
@@ -2682,7 +2682,7 @@ barmaster 7
 bergalith 3
 benzoic 2
 barmcloth 3
-brither
+brither 1
 birdcage 1
 balmlike 3
 barnabas 2
@@ -3069,7 +3069,7 @@ brainwashing 3
 braza 2
 burhead 2
 boobishness
-bimetal
+bimetal 1
 bedspreads
 besquib 2
 bestials 3
@@ -3777,7 +3777,7 @@ bourdis
 bibliologist 2
 batture 2
 bielded 1
-barasingha
+barasingha 1
 bottstick 1
 blackening 3
 biocontrol 1
@@ -4005,7 +4005,7 @@ buyback 1
 beslur 4
 bonyfish 5
 believer
-beacons 1
+beacons 2
 buoyancy 4
 beadeye 3
 beader 1
@@ -4295,7 +4295,7 @@ bathyscaph 4
 battledore
 bacterious 1
 bebreech 1
-bigeminy 2
+bigeminy 3
 backcourtman 3
 bebrother 3
 blouselike 1
@@ -5117,7 +5117,7 @@ burrows 3
 braconidae 1
 beflagging 1
 bentwood
-biquadrantal 2
+biquadrantal 3
 beflannel
 belluine 4
 bureaucrat
@@ -5659,7 +5659,7 @@ busks
 boraciferous 2
 benjoin 1
 bloodstones 1
-barques 2
+barques 3
 besped 1
 beldams 2
 bacchar 3
@@ -6463,7 +6463,7 @@ boschbok
 basidiogenetic 1
 bedrocks 2
 baccate
-broached 4
+broached 5
 bletted 2
 behaviorist 5
 burge
@@ -6534,7 +6534,7 @@ beaming 3
 blameable 3
 bilsted
 bagel 1
-barytones 1
+barytones 2
 breezy
 bioecologies 1
 bookkeeping 1
@@ -7255,7 +7255,7 @@ beswelter 3
 bethuel
 balti
 beguard 1
-beta 3
+beta 4
 broombush 1
 bedraggle 1
 biogeographic 1
@@ -7584,7 +7584,7 @@ borish 3
 bewidow 3
 bulldozers 2
 boke 2
-beshrewed 2
+beshrewed 3
 breaming 1
 barbudos 5
 bricole 2
@@ -7730,7 +7730,7 @@ burglaries
 bunning 2
 bheesty 2
 bullaries 2
-bheestie 2
+bheestie 3
 beblot
 bespangles 2
 britten 3
@@ -8071,7 +8071,7 @@ brutal
 bicorned 1
 booby 5
 booklift 4
-bartend 3
+bartend 4
 bagroom 2
 bicornuate 2
 bicornute
@@ -9073,7 +9073,7 @@ bemire 4
 brickmaking 3
 bethumps 1
 bunching 1
-bearbaiting 3
+bearbaiting 4
 bonzery 1
 bloomers 2
 basking 4
@@ -9207,7 +9207,7 @@ birdnest 1
 biotron 1
 beauetry
 bipalmate 2
-booed 3
+booed 4
 biomasses
 biparasitic
 boudoirs 1
@@ -9666,7 +9666,7 @@ brarow
 bacteriaceae 4
 baconism 1
 batiste
-bisyllabic 4
+bisyllabic 5
 benefactions 3
 burao 1
 braize 1
@@ -10042,7 +10042,7 @@ bywalking 1
 buckleya 2
 biwinter 1
 blackfisher
-benzolate
+benzolate 1
 brutisms
 bixaceous
 blondeness 1
@@ -10939,7 +10939,7 @@ bourrees 3
 blinkard 4
 blesbuck 3
 bedlamism 1
-blinkards 1
+blinkards 2
 benedictionary 2
 bowses 2
 basta 2
@@ -11090,7 +11090,7 @@ blockiest 1
 bevelling 2
 blocking 1
 borborygmic
-benzimidazole 1
+benzimidazole 2
 biomorphic 1
 builder 2
 billeter 3
@@ -11766,7 +11766,7 @@ burier 1
 bowstring 2
 bobsleded 1
 bigeyes
-bacteriopurpurin 3
+bacteriopurpurin 4
 barrens 3
 bucephala
 biology
@@ -12680,7 +12680,7 @@ bonilass 1
 benefactresses 2
 boorga 4
 brochures
-bronchoconstrictor 2
+bronchoconstrictor 3
 bubblier 2
 baptized 1
 butylates 3
@@ -13237,7 +13237,7 @@ brenthis 1
 botryoidal
 bosomed
 beading 2
-ballock 3
+ballock 4
 babuma
 buzzers
 beaugregory 3
@@ -13414,7 +13414,7 @@ bialys
 blanche 2
 brushing 2
 blennenteria 2
-bedeswoman 1
+bedeswoman 2
 bartisans 3
 bulgier 1
 birles 1
@@ -13438,7 +13438,7 @@ basilar 1
 benes 3
 biofeedback 1
 broadest 1
-backfields 3
+backfields 4
 bensell
 bushbashing
 brightsome 2
@@ -14397,7 +14397,7 @@ brayette 1
 blatherskite 1
 brailles 1
 birdcraft 3
-bylaw 2
+bylaw 3
 bursiform 2
 bonebinder 2
 braillewriter 1
@@ -14957,7 +14957,7 @@ bignonia 2
 begulfing 1
 bumpee 2
 bristol 2
-boozify 1
+boozify 2
 breastie 1
 breasting 2
 brinston
@@ -15887,7 +15887,7 @@ bindingly
 beno
 battered 2
 bloodstainedness 1
-babiism 2
+babiism 3
 bloomsburian 2
 bodybuild 3
 bromeigon 1
@@ -16131,7 +16131,7 @@ boskiest 2
 brookier 1
 batatilla 2
 brookite 1
-beneficient 5
+beneficient 6
 barbarianized 5
 battling 2
 bicolor 3
@@ -17312,7 +17312,7 @@ baths 2
 blazons 1
 bumpkin 4
 boltstrake 2
-blanketweed 2
+blanketweed 3
 botts
 bolstering 1
 bumptiousness 2
@@ -17470,7 +17470,7 @@ bandied 1
 buntine 5
 brawlie 3
 bipinnatiparted 2
-buplever 2
+buplever 3
 buprestidae 3
 brutus 2
 backspins 4
@@ -18058,7 +18058,7 @@ baptizable 1
 biologies 1
 bustled 1
 beefwood 2
-boast 2
+boast 3
 bislings 1
 bog
 bustlers 4
@@ -18413,4 +18413,4 @@ bwanas 2
 bombardmen 1
 banned 2
 bxs 1
-bached 3
+bached 4
