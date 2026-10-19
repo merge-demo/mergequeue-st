@@ -3212,7 +3212,7 @@ activated 1
 achtel 1
 advolution 2
 active 2
-aweather 2
+aweather 3
 ahungered 2
 apostrophized 2
 actives
@@ -5390,7 +5390,7 @@ affranchise 1
 adiadokokinesi 1
 affret 1
 acanthous 1
-aptotic 1
+aptotic 2
 agnosticism 2
 agglutinable 1
 affriended 2
@@ -7692,7 +7692,7 @@ alectorides
 alcmene 2
 alani 3
 algocyan 3
-atheists 3
+atheists 4
 antiphilosophical 3
 allopalladium 1
 alday 2
@@ -14270,7 +14270,7 @@ anterointernal 1
 anterolateral 1
 antiferroelectric 1
 anapneic 1
-automorphically
+automorphically 1
 agiotages
 anterooms 1
 anteroparietal 1
@@ -14697,7 +14697,7 @@ antilogarithm 2
 abracadabra 4
 apastra 1
 aetiotropic
-anthropomorphism
+anthropomorphism 1
 alchemical 2
 antiarins
 actuate 2
@@ -16303,7 +16303,7 @@ antitobacconist
 auscultative
 ahura 1
 antitonic
-artistical
+artistical 1
 autoneurotoxin 1
 annuity
 apiararies
@@ -18515,7 +18515,7 @@ antimusical 1
 apicillary 1
 azoturias 3
 assassinating
-adulteress
+adulteress 1
 arbores 1
 aequipalpia 1
 arborescently 1
@@ -21347,7 +21347,7 @@ adaptometer 1
 apheta
 asynchronisms 1
 antichurchian 1
-asyndetic
+asyndetic 1
 androphore
 amyloses
 analectic 2
@@ -23227,7 +23227,7 @@ alkermes 2
 androphonomania
 amphinesian 1
 atrabilarious 1
-apomecometry 2
+apomecometry 3
 auriphrygiate 2
 anapaganize
 atticisms 2
