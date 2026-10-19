@@ -2262,7 +2262,7 @@ fledgeless 2
 forgetters 3
 fromfile
 fenchene 3
-favn 3
+favn 4
 fastigated 3
 ficoid 2
 facemaker 1
@@ -8475,7 +8475,7 @@ freshman 1
 fades 3
 fathoming 2
 formalist 2
-foreboded
+foreboded 1
 forpine 5
 freethink 1
 fictitiously 4
