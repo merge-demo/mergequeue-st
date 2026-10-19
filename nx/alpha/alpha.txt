@@ -2126,7 +2126,7 @@ advisors
 aches 2
 achesoun 1
 acheulean 2
-accustoms 2
+accustoms 3
 acumens 3
 achy 4
 absconds 2
@@ -4476,7 +4476,7 @@ antirevisionist 3
 awonder 3
 abductores 3
 ap 4
-adumbrating
+adumbrating 1
 asthenias 2
 agrypnode
 angild 1
@@ -5342,7 +5342,7 @@ apophantic 1
 andantinos 2
 androsin
 affixers
-affixes 4
+affixes 5
 afterpiece
 affixial
 aspatia 1
@@ -6000,7 +6000,7 @@ antiagglutinin 1
 anatomicophysiologic 1
 amaranthaceous
 alligations 1
-aggregative 1
+aggregative 2
 aggregatively
 aggregator 2
 arrha 1
@@ -14640,7 +14640,7 @@ andragogy 1
 anti 3
 antiabolitionist 1
 accustom 1
-antiabortion
+antiabortion 1
 acrotic 1
 ambulation
 auditorium
@@ -18924,7 +18924,7 @@ archimime 2
 allopathetically 1
 alarmism 5
 actinomycetales
-archimperialist 4
+archimperialist 5
 assemblies 1
 archines 1
 apio
@@ -22595,7 +22595,7 @@ atelostomia 2
 alcazava 1
 ammiaceae 1
 anorexies 2
-atemoya 2
+atemoya 3
 alintatao 2
 aten 2
 antiparticle 1
@@ -22918,7 +22918,7 @@ adjutants 3
 annat 1
 aniseroot 1
 atragene
-amphineura
+amphineura 1
 antimagnetic
 atramentous 2
 avowedness
