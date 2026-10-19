@@ -1824,7 +1824,7 @@ furrows 1
 figureheadship 3
 fellahin 2
 firebreaks 2
-feudalize 2
+feudalize 3
 fittest 2
 fractured 1
 flabellum 2
@@ -4136,7 +4136,7 @@ flexed 2
 funders 7
 fenchyl 2
 feezed 3
-fireboy 3
+fireboy 4
 flying 3
 fiendishly 5
 fraticelli 4
@@ -11479,7 +11479,7 @@ fin 2
 ferri 1
 foliolose 4
 freelancing 3
-figurational 3
+figurational 4
 fevergum 4
 frowst 2
 fastgoing 2
