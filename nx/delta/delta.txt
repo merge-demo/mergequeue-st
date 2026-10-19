@@ -527,7 +527,7 @@ dama 2
 damageability 2
 damageably 1
 detonatable 2
-damaged 1
+damaged 2
 detort 2
 damageous 4
 deaccessions 1
@@ -1390,7 +1390,7 @@ disna 1
 disableness 2
 daftar 1
 daunders 4
-depositing 1
+depositing 2
 dartoid 2
 david 4
 definitised
@@ -3655,7 +3655,7 @@ degorge 1
 degradative 1
 degraded 1
 degradement 4
-dozing 3
+dozing 4
 depsid 1
 disrupt 3
 decimalisation 2
