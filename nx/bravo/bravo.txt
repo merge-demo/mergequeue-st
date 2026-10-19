@@ -76,7 +76,7 @@ bestraddling 3
 birthdom 1
 balanite
 ballfield 2
-babelize 3
+babelize 4
 beshlik
 babels 2
 belinda 2
@@ -1620,7 +1620,7 @@ basalt 1
 brooder
 bursati 1
 baudronses 4
-bilamellate 2
+bilamellate 3
 ballo 2
 brachydactylic
 blumea 1
@@ -2360,7 +2360,7 @@ brighteners 2
 borning 2
 barbiton 1
 bloodworm
-bhutani 1
+bhutani 2
 barbituric 1
 bluetick 2
 barbiturism 4
@@ -4212,7 +4212,7 @@ banally 2
 bonging 1
 bonged 3
 beatuti 1
-brachet
+brachet 1
 blockiness
 bell 1
 beringite 1
@@ -5785,7 +5785,7 @@ beblubbered
 bookit 6
 bigthatch 1
 ballaster 2
-belton 1
+belton 2
 bountihead 5
 bellevue 3
 bonhommie 3
@@ -7090,7 +7090,7 @@ beaugregories 3
 bruit 2
 boyos 4
 bawdiness
-biophysical 1
+biophysical 2
 bespell 2
 bespelled 1
 bespend 1
@@ -7413,7 +7413,7 @@ braveries 3
 betrothing 2
 betrothment
 betroths 2
-bromine 2
+bromine 3
 betrousered 1
 bouw 1
 boshboks 1
@@ -7569,7 +7569,7 @@ bloodripe 1
 begiggle 3
 bloodthirstiness
 barnacle
-bewhisker 1
+bewhisker 2
 biplicate 2
 bleater 2
 burele 1
@@ -12689,7 +12689,7 @@ bororo 3
 boogies 1
 biotechnology 2
 bubbles 3
-burlecue
+burlecue 1
 bieennia 2
 boogum 2
 bolshevism
@@ -15980,7 +15980,7 @@ bronchioli 1
 bronchiospasm 1
 bronchitic
 bronchitis 4
-bethrall 2
+bethrall 3
 birota 1
 bronchoalveolar 1
 bronchoblennorrhea 1
