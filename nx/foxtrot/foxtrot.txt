@@ -6158,7 +6158,7 @@ furiosity 2
 ferrums
 fuses 1
 fewness 4
-fcp
+fcp 1
 fewneses
 flowcharted 3
 fungibles 3
@@ -6628,7 +6628,7 @@ friggle 3
 fractocumulus
 fireweeds 3
 fairgrass 1
-forehatchway 1
+forehatchway 2
 fruitery 4
 funds 3
 fancymonger 3
@@ -10138,7 +10138,7 @@ furnisher
 foozling 6
 fremontia 3
 felts 2
-fenian 3
+fenian 4
 fordam 1
 faki 2
 filmset 2
@@ -10491,7 +10491,7 @@ forstall 1
 frizes 1
 fellah 4
 ferocity 3
-frontwards 2
+frontwards 3
 fragrant 1
 fowent 1
 fermatian
