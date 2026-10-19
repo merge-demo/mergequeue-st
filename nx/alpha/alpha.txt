@@ -38,7 +38,7 @@ area
 allseeds
 aurine 2
 aethogen 2
-aerometeorograph 1
+aerometeorograph 2
 abaciscus 2
 aquanaut 2
 autopsist 1
@@ -79,7 +79,7 @@ abalones
 abama 1
 abecedary 2
 aband
-abandon 1
+abandon 2
 androecial 1
 amphipods 1
 abandoner
@@ -2952,7 +2952,7 @@ anapsid 2
 ammoniureted 3
 adept 1
 awkwardest
-alienist
+alienist 1
 across 2
 aubrietas 1
 alvus 2
@@ -5748,7 +5748,7 @@ agamidae
 assheadedness 2
 aftertouch 1
 achaeta 3
-agamist 1
+agamist 2
 antiegoistical 2
 amassments 2
 aseitas 1
@@ -5957,7 +5957,7 @@ amblygeusia 1
 agglutogenic 4
 accompanists 3
 aggrade
-aggrades 4
+aggrades 5
 accademia 1
 auge
 arminianism 1
@@ -6289,7 +6289,7 @@ arboretum 1
 asperifoliate 3
 antiferment 2
 aquerne 2
-annuitant 2
+annuitant 3
 achoo
 antiracing
 agorot
@@ -6994,7 +6994,7 @@ appropriately
 akron 1
 anagrammatised
 aberrator 1
-adores 1
+adores 2
 aith 2
 aithochroi
 acceleratingly 3
@@ -14982,7 +14982,7 @@ anticonformity 1
 anticonscience 3
 antiaristocracy 2
 annulled 1
-amidohexose
+amidohexose 1
 antilogy 3
 avyayibhava 2
 avicular 2
@@ -15099,7 +15099,7 @@ anemopsis 1
 antipatriotism 1
 arthrocarcinoma 1
 antidivine
-asseverated 1
+asseverated 2
 assemblagist 1
 anagrammatized
 autopositive
@@ -15296,7 +15296,7 @@ armload
 afrogaea 3
 antigigmanic 2
 annexment 3
-autonitridation 3
+autonitridation 4
 antileveling 1
 antigonon 4
 antigonorrheic 2
@@ -15401,7 +15401,7 @@ androgonidium 3
 abrosia 3
 antilethargic 3
 antiliberal
-antilibration 2
+antilibration 3
 andreaea 2
 afforcement
 atterrate
@@ -16755,7 +16755,7 @@ attal
 athenaeum 2
 aphengoscope 2
 apheresis 3
-apheses 2
+apheses 3
 asclepius 1
 aggresses
 admirer
@@ -19573,7 +19573,7 @@ autoslip
 almude 4
 acyls 3
 aryanism
-arvicole
+arvicole 1
 aphyllies 1
 askari 1
 arianist
@@ -20046,7 +20046,7 @@ autobiographical
 aromatophor
 article 1
 arline
-allness 2
+allness 3
 annuary 1
 apiculated 1
 accentuality 1
@@ -21144,7 +21144,7 @@ airth 2
 amniorrhea 1
 ambiens 1
 affinitative 2
-arabella 2
+arabella 3
 acquittal 4
 agriochoeridae 1
 aseismic 1
@@ -22749,7 +22749,7 @@ aeronef 4
 athwartships 2
 abiogenetically 1
 actian 1
-ahurewa 1
+ahurewa 2
 arhar 2
 antipedobaptism 2
 auditorially 1
