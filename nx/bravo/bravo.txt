@@ -4052,7 +4052,7 @@ buchu 1
 bom 4
 butled 2
 beamed 1
-bedrock
+bedrock 1
 beamers 3
 bueno 4
 beamfilling 1
@@ -8196,7 +8196,7 @@ broid 1
 baleens
 bigfoot 1
 byronically 1
-beatable 2
+beatable 3
 boone 2
 battailous 2
 bestream 1
@@ -17095,7 +17095,7 @@ bulldozed 2
 bulldozing
 botonee 5
 blackcaps 1
-beduck
+beduck 1
 bullet 2
 byepath 2
 bulletheadedness 2
