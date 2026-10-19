@@ -551,7 +551,7 @@ acephala 1
 ablatival 1
 agitator 1
 alimentotherapy 1
-ablative
+ablative 1
 anatomopathological 1
 ambitioned 1
 able
@@ -1810,7 +1810,7 @@ anemia 1
 apochromatic
 acedy
 acedias 1
-abbreviature
+abbreviature 1
 agalloch 2
 astigmia 2
 ammonitiferous
@@ -3529,7 +3529,7 @@ accusable 1
 antimissile 1
 attapulgite
 afterwort 3
-azoths 1
+azoths 2
 additions
 absmho 2
 addititious 2
@@ -6018,7 +6018,7 @@ angulosplenial 2
 alimenter
 aggressed
 ancilia
-autotomous 2
+autotomous 3
 arrogancy
 aggressin 5
 adarbitrium 2
@@ -6452,7 +6452,7 @@ antitragal 2
 antieducationally 2
 ananias 2
 arthrotome 2
-arapaimas 1
+arapaimas 2
 agrostemma 3
 acrogamy 1
 agrostography
@@ -6771,7 +6771,7 @@ apofenchene 2
 amplifies 1
 accepters 1
 alliage 2
-abucco 1
+abucco 2
 alt 5
 aftermarket 1
 arpeggio 1
@@ -9299,7 +9299,7 @@ alogotrophy 4
 arkose 1
 alderwoman 3
 aloid 2
-ashfall 3
+ashfall 4
 anamorphous 4
 antiaris 2
 astragaloscaphoid 2
@@ -11470,7 +11470,7 @@ anuresis
 amputates
 aboding
 amputational 2
-antiliberalness 2
+antiliberalness 3
 anthraceniferous 2
 announcers 1
 amputees 2
@@ -14239,7 +14239,7 @@ acuesthesia
 anterioyancer
 alkylbenzenesulfonate 2
 antennal 1
-achech 2
+achech 3
 argalas 3
 autolavage 2
 appliableness 1
@@ -17128,7 +17128,7 @@ achiever 1
 avocets 3
 anisochromia 2
 apogeotropism 2
-apogon
+apogon 1
 afterfuture
 apogonid 5
 asymbolia 1
@@ -21629,7 +21629,7 @@ anisomerous
 assayable 3
 afterpotential 1
 assayed
-aphonous
+aphonous 1
 amorist 3
 assayers 1
 assaying
@@ -21708,7 +21708,7 @@ agistator
 antisi
 assentors
 acarocecidia 2
-asself
+asself 1
 ayyubid 1
 amphoric 1
 assembl 1
@@ -23656,7 +23656,7 @@ anticlimactic 1
 aureous 2
 acroa 3
 aphetically
-amortizement
+amortizement 1
 alcaiceria 1
 archicyte
 aurichloride 1
@@ -25293,7 +25293,7 @@ articulateness
 argyropelecus 3
 arvicola
 ariegite 2
-adenofibroma
+adenofibroma 1
 allthorn 2
 aftereye 2
 asymmetrical 3
