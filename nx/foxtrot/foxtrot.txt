@@ -1337,7 +1337,7 @@ fatigue 4
 fossicks 1
 fatiguesome 5
 fragmenting 1
-fishbones
+fishbones 1
 frundel 4
 fidate 4
 fruticeous 2
@@ -4652,7 +4652,7 @@ fivesome 4
 flaubertian 2
 flashproof 2
 famacide 5
-frivoling 4
+frivoling 5
 futharcs 2
 filmgoer 5
 faust 2
