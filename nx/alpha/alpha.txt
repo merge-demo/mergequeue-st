@@ -3456,7 +3456,7 @@ allotransplant 2
 assemblywoman 1
 auxil 2
 acreak
-abridgeable
+abridgeable 1
 adarme 1
 adatis 1
 afterpain 1
@@ -8696,7 +8696,7 @@ alchitran
 abled 1
 attractancy
 anarchs 2
-andrite
+andrite 1
 adjoins 3
 autochthon 1
 argyrythrose 2
@@ -21483,7 +21483,7 @@ assedation 1
 aspers 1
 adenosarcoma 1
 asperse 2
-abecedaries 1
+abecedaries 2
 agapeically
 asperser
 astrochronological 1
