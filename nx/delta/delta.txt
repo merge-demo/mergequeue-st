@@ -10012,7 +10012,7 @@ derelictness 1
 dermatopnagic 3
 dummkopfs 2
 disbanded 4
-dimplier 3
+dimplier 4
 deadcenter 2
 denudement 2
 dimwittedly
@@ -11383,7 +11383,7 @@ dockyard 1
 dissuader
 demivotary 3
 determinoid
-debug
+debug 1
 discloser 2
 disclosive 1
 disclosure 1
