@@ -1337,7 +1337,7 @@ fatigue 4
 fossicks 1
 fatiguesome 5
 fragmenting 1
-fishbones
+fishbones 1
 frundel 4
 fidate 4
 fruticeous 2
@@ -2449,7 +2449,7 @@ fingu 1
 frontwise 4
 faitery 2
 foreproduct 2
-fermentable 6
+fermentable 7
 fermentativeness 1
 faradize 1
 falus 6
@@ -2607,7 +2607,7 @@ featherlight 8
 filthy 6
 feoffed 1
 fancily 1
-foresheet
+foresheet 1
 ferromanganese 4
 filagreed 1
 fameflower 1
@@ -3223,7 +3223,7 @@ foliage 5
 ficklety 4
 fosterable 1
 fictionalize 3
-fanjets 4
+fanjets 5
 friers 1
 frostwort 3
 fuchsone 3
@@ -3338,7 +3338,7 @@ flon 6
 forsung 5
 flench 1
 furuncle 6
-fidge 2
+fidge 3
 frogfoot 1
 fractionally 5
 fidgeted
@@ -3399,7 +3399,7 @@ foxish 1
 firmation 3
 flowcharts 3
 fiascoes 2
-foretalk 5
+foretalk 6
 fiendly 2
 fc 2
 fetishlike 1
@@ -4029,7 +4029,7 @@ finical 3
 fluxibly 5
 fullhearted 3
 fibrin 1
-finis 5
+finis 6
 fadelessly 2
 fletchings 2
 fungoid 3
@@ -4652,7 +4652,7 @@ fivesome 4
 flaubertian 2
 flashproof 2
 famacide 5
-frivoling 4
+frivoling 5
 futharcs 2
 filmgoer 5
 faust 2
@@ -4778,7 +4778,7 @@ foreranks 4
 foulminded 3
 fellowing
 froggier 5
-fellowshipped 3
+fellowshipped 4
 filigera 3
 falconers 3
 flagelliform 1
@@ -6364,7 +6364,7 @@ foppy 2
 flatlings 1
 flowchart 5
 flagpole 4
-fontes 3
+fontes 4
 forementioned 7
 flang 2
 fullterm 1
@@ -7419,7 +7419,7 @@ forceless 5
 fasciolar 2
 flagellariaceae 3
 floreate 1
-fasciculation 4
+fasciculation 5
 fey 3
 fasti 1
 flawflower 3
@@ -8246,7 +8246,7 @@ fluoroscoping 3
 fishways 4
 faded 4
 frijolito
-faze 2
+faze 3
 forage 2
 funicles 1
 fauvists 4
@@ -8255,7 +8255,7 @@ florence 2
 fundulinae 5
 fringes 1
 fairyologist 5
-furlanas 1
+furlanas 2
 fuder 3
 flaskets 4
 felines 3
@@ -8685,7 +8685,7 @@ filigraned 5
 futharks 1
 feet 1
 frustrable 1
-fuzes 3
+fuzes 4
 finites 3
 fytte 1
 farstepped 1
@@ -8949,7 +8949,7 @@ forayer 1
 fartherance 5
 filthify 2
 filister 2
-founded 7
+founded 8
 foutra 4
 freewoman 1
 frederick 1
@@ -10234,7 +10234,7 @@ flopovers 5
 fervidness 4
 frogbit 1
 frogeyed 6
-farewelling
+farewelling 1
 fissureless 3
 fibra 2
 frankheartedly 3
@@ -11031,7 +11031,7 @@ feuillemorte 5
 famelessness 2
 funkia 4
 floodlight 3
-fabliaux 5
+fabliaux 6
 fy 2
 fusuma 2
 farmery 5
