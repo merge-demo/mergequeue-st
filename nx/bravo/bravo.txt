@@ -3600,7 +3600,7 @@ bathmism 1
 blencorn 3
 bedstands 3
 banker 3
-befathered
+befathered 1
 bathoflore 4
 batholithic
 balaamite 2
@@ -10605,7 +10605,7 @@ bobache 1
 braless
 bransle 4
 blatting 3
-blattodea
+blattodea 1
 blurter 1
 blattoid 1
 brinny 1
@@ -12521,7 +12521,7 @@ bilberries 1
 boneshaker 1
 bridesman 1
 bidets 2
-bessemer 2
+bessemer 3
 backbeat 1
 benetnasch 3
 befavor 1
@@ -18150,7 +18150,7 @@ bullyboy 6
 boschvark 1
 bioastronautics 3
 boogie 2
-berylate 5
+berylate 6
 bunco 1
 benching 3
 bryon 1

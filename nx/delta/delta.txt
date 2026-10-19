@@ -1491,7 +1491,7 @@ diffusor 1
 dasypaedal
 discolorated 1
 dazzler 2
-disillusions 3
+disillusions 4
 dazzlers
 damnification 1
 discernableness
@@ -6968,7 +6968,7 @@ deaeration 5
 deperdition 1
 despiteful 2
 digs 3
-daphnia
+daphnia 1
 dinoflagellate 1
 docility 3
 drags 3
@@ -9099,7 +9099,7 @@ dichondraceae 1
 daleman 2
 dragomanish 1
 didacticism 1
-defile
+defile 1
 dispireme
 doundake
 dryish 2
@@ -13439,7 +13439,7 @@ drumskin 2
 disregardfulness 3
 dingbat 1
 dropshot 2
-dramatise
+dramatise 1
 dialogging 1
 disreport 1
 disreputability 1
@@ -17903,7 +17903,7 @@ derbies 1
 dauntlessly 1
 debutante 2
 destituteness
-dysmenorrhagia 2
+dysmenorrhagia 3
 desentimentalize
 doctrine
 durationless 1
