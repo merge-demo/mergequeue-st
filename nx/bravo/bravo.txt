@@ -2125,7 +2125,7 @@ banquet 3
 blindish
 bardiest 3
 banqueting 4
-beseem
+beseem 1
 buddhistic 3
 besteer 1
 bladeless 2
@@ -4442,7 +4442,7 @@ bulkiness 1
 bludging 5
 beclogs 2
 bonspells 3
-bilabials
+bilabials 1
 beclothe
 banting 5
 bur 2
@@ -6181,7 +6181,7 @@ bedclothing 2
 bouchaleen
 bacteriologies 3
 beneighbored 1
-beneme 2
+beneme 3
 blanker
 baited 2
 beltian 4
@@ -7480,7 +7480,7 @@ besant 2
 burtree 1
 bully 1
 berhymed 1
-burd 1
+burd 2
 bistre 2
 bramantesque 1
 bullragged 1
@@ -7511,7 +7511,7 @@ bedgery 1
 bevenom 1
 bever 1
 barleducs
-blemishment
+blemishment 1
 burses 1
 beverse 2
 barbets 3
@@ -7939,7 +7939,7 @@ bibliopolist 4
 befall
 bibliosoph 1
 bibliothecae 3
-bibliothecarian 2
+bibliothecarian 3
 bungalows 1
 batoka 1
 buaze 2
@@ -14126,7 +14126,7 @@ butsudan 3
 brekkle 1
 bumbaze 5
 brighteyes 3
-birdlore 1
+birdlore 2
 brachiosaur
 brachiosaurus
 brachyphyllum
