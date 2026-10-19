@@ -378,7 +378,7 @@ brewery 1
 brachypodous 2
 birthrates
 bovarist
-bashkir 1
+bashkir 2
 bossy 1
 borings 2
 backhoe 1
@@ -547,7 +547,7 @@ barometrical 3
 backvelder 1
 blastodermic
 baufrey 2
-bulgarophil 1
+bulgarophil 2
 bloodnoun 5
 butyl 2
 bernard 3
@@ -3783,7 +3783,7 @@ blackening 3
 biocontrol 1
 basialveolar
 begger 2
-bobflies 1
+bobflies 2
 befleaing 3
 battute 1
 burratine 3
@@ -7892,7 +7892,7 @@ bibliomane 2
 bokmakierie 1
 bams 2
 bibliomania
-buxerries
+buxerries 1
 bawds 1
 biker 3
 bibliomanist
@@ -8558,7 +8558,7 @@ bunting 1
 bedder 1
 bradycardia 2
 billabong 2
-billage 2
+billage 3
 brumes 1
 barricading 1
 bittersweetly 1
@@ -9343,7 +9343,7 @@ birchwood
 bromidrosis 2
 bindweb 2
 birdbander
-blockholer 1
+blockholer 2
 beggaries 1
 belgian 1
 bespeed 3
@@ -10135,7 +10135,7 @@ bootleggers
 bepicture 1
 buphthalmia 3
 bedells 2
-bloodguilty 2
+bloodguilty 3
 blackbird 2
 blackbirder 2
 bookishness 2
@@ -11659,7 +11659,7 @@ buchmanite 3
 boatless 5
 banjoes
 bewonder 4
-belace 1
+belace 2
 bankerdom
 boatloader 3
 beigy 1
@@ -12361,7 +12361,7 @@ beefsteaks 2
 bobfly 1
 brimful 2
 broideries 2
-bathyplankton 1
+bathyplankton 2
 beautifies 5
 buttoned 3
 benzoxyphenanthrene
@@ -14569,7 +14569,7 @@ belugite 1
 bedumbed 1
 branchiostoma 1
 biosociology 1
-babushkas 2
+babushkas 3
 bounciest 3
 branchireme 2
 branchless
