@@ -561,7 +561,7 @@ ablend 1
 antecloset 2
 adore 3
 acetolysis 1
-ataraxies 1
+ataraxies 2
 amidophosphoric 3
 amyotrophia 4
 actualize
@@ -3924,7 +3924,7 @@ anisoyl
 alcornoco
 adital
 aporrhoea 1
-aquacades
+aquacades 1
 ansae 2
 asperugo 1
 arthrosyrinx 1
@@ -5204,7 +5204,7 @@ af 2
 avernal 2
 aluminosis 1
 arbalos 2
-anelastic
+anelastic 1
 accend
 avouching
 amnioallantoic 1
@@ -11108,7 +11108,7 @@ apprizes 3
 arbitrament 2
 amounted 1
 anonymous
-alaskans 1
+alaskans 2
 amounter
 adduction 1
 amounters 3
@@ -11129,7 +11129,7 @@ accessor 2
 alliances
 ampelidaceous 2
 acher 1
-ampelidae 1
+ampelidae 2
 archespore 1
 anoxia 4
 alaskan
@@ -15375,7 +15375,7 @@ arbuscle
 antiinsurrectionists 2
 anamniotic
 antikathode 1
-abatements 1
+abatements 2
 angioparalysis 3
 antikenotoxin
 astrologists 2
@@ -15910,7 +15910,7 @@ arachnidial 1
 acracy 2
 ambrosiaceous
 antinarrative
-antipredeterminant 1
+antipredeterminant 2
 amphetamine 1
 antiprelate 1
 antiprelatic 1
@@ -17120,7 +17120,7 @@ antibody 5
 appendicle
 apogamies
 antirecruiting 1
-alebion
+alebion 1
 archfool
 allotropism 1
 anaphrodisiac 2
@@ -18461,7 +18461,7 @@ ascorbic
 arbela 2
 adeline 1
 antipendium 3
-arber 1
+arber 2
 autolesion 2
 aviates 2
 anthragallol 3
@@ -19066,7 +19066,7 @@ adactylism 3
 alveated 1
 anticous 2
 archplagiarist 1
-asinine 2
+asinine 3
 airbrick 2
 arulo 1
 archpolitician 1
@@ -22100,7 +22100,7 @@ adduce 1
 asterisk 2
 antesunrise 2
 artilleryman 1
-anteromedial 3
+anteromedial 4
 arteriorrhagia 3
 amphigamous 3
 amphipeptone 2
@@ -23617,7 +23617,7 @@ aked 2
 allochthonous 2
 aimed 2
 auntish 1
-auntly 3
+auntly 4
 academizing 2
 auntliest
 auntlike 1
@@ -23641,7 +23641,7 @@ attendant
 aurelia 1
 arables 4
 amylodextrin 1
-aureole 4
+aureole 5
 autosomatognostic 1
 aureoled 3
 anemograph 4
@@ -25078,7 +25078,7 @@ anural 1
 antipapistic
 ax
 abasia 1
-ascochyta
+ascochyta 1
 axebreaker 3
 afterglide 1
 animalism

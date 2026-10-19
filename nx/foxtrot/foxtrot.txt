@@ -902,7 +902,7 @@ furfural 1
 fardo 1
 ferneries 1
 flyleaf
-foundry 4
+foundry 5
 foragers 2
 fed 5
 fasola 1
@@ -1824,7 +1824,7 @@ furrows 1
 figureheadship 3
 fellahin 2
 firebreaks 2
-feudalize 2
+feudalize 3
 fittest 2
 fractured 1
 flabellum 2
@@ -3042,9 +3042,9 @@ friendlies 4
 fibbers 2
 foremelt 6
 fustin 3
-fiber 3
+fiber 4
 fiberizes 1
-formolite 3
+formolite 4
 federalists 3
 franchising 4
 forficiform
@@ -3301,7 +3301,7 @@ finesser 5
 forevermore 1
 foreward
 foamingly 5
-flasket 5
+flasket 6
 foreconscious 2
 facewise 2
 ferrohydrocyanic 1
@@ -3752,7 +3752,7 @@ fulls 3
 fally 3
 filliped 6
 fragmentist 2
-fascinatingly 3
+fascinatingly 4
 fluxing 2
 francize 1
 fecundative 3
@@ -4136,7 +4136,7 @@ flexed 2
 funders 7
 fenchyl 2
 feezed 3
-fireboy 3
+fireboy 4
 flying 3
 fiendishly 5
 fraticelli 4
@@ -4225,7 +4225,7 @@ flab 2
 feistier 3
 frostbiting 2
 footsies 3
-fowls 4
+fowls 5
 farinosely 4
 firepinks 3
 fiendishness 4
@@ -4274,7 +4274,7 @@ foreordains 4
 fendable 3
 fastuous 1
 firk 2
-febrifuges 2
+febrifuges 3
 filacer 2
 fleers 2
 fiancee 1
@@ -4294,7 +4294,7 @@ forbearantly 1
 fennig 2
 foggish 2
 fanner 5
-forficulate 5
+forficulate 6
 filch 3
 freshest 3
 fease 4
@@ -4478,7 +4478,7 @@ fishspear 3
 fantocine 4
 fluffier 1
 fountainwise 4
-frangulin 2
+frangulin 3
 fluctuant 10
 ferrotitanium 4
 faddy 3
@@ -5728,7 +5728,7 @@ floodwater 4
 frequently 2
 fitroot 3
 flurry 2
-flippancies 4
+flippancies 5
 freshness 7
 ferrary 5
 fetor 2
@@ -8106,7 +8106,7 @@ forestries
 firebrats 5
 furnitures 6
 fumigating
-fiendfully 5
+fiendfully 6
 ferrochromium 6
 fissuriform
 flusterated 3
@@ -8937,7 +8937,7 @@ feazed 1
 forepast 1
 flown 3
 funambulic 5
-foulest 1
+foulest 2
 fjeld 1
 fiques 6
 flitty 4
@@ -9267,7 +9267,7 @@ fragments 1
 foresighted 2
 fishbed 3
 foraneous 6
-facts 4
+facts 5
 frayedness 3
 flagmaking 2
 flashier 5
@@ -9309,7 +9309,7 @@ friesic 3
 flb 3
 fayalites 3
 freckling 3
-fungate 2
+fungate 3
 frangipani 5
 forenames 3
 frizers 1
@@ -10167,7 +10167,7 @@ fissiparously 1
 frittering 5
 frivolity 2
 frivolities 1
-froughy 3
+froughy 4
 frogstool 1
 fumarium 3
 feasibility 2
@@ -10357,7 +10357,7 @@ fervorlessness 1
 flarfishes 3
 fustilugs 1
 futurely 4
-fingerleaf 1
+fingerleaf 2
 fingering 1
 forecourt 3
 feaze 2
@@ -11479,7 +11479,7 @@ fin 2
 ferri 1
 foliolose 4
 freelancing 3
-figurational 3
+figurational 4
 fevergum 4
 frowst 2
 fastgoing 2
