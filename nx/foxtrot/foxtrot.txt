@@ -363,7 +363,7 @@ from 1
 fieldfight 4
 froes 1
 fluorides 1
-faintly 4
+faintly 5
 ferrymen 2
 furoid 4
 fearer 5
@@ -3693,7 +3693,7 @@ fillable
 frownless 1
 flavorlessness 3
 featherers 5
-feodal
+feodal 1
 frousiest 3
 facebread 4
 footcandles 2
@@ -8194,7 +8194,7 @@ fibulas 5
 fasthold 1
 fribbling
 fideicommissor 3
-fingerboards 3
+fingerboards 4
 fuliginous 1
 flamberg 1
 fulicinae 3

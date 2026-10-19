@@ -1345,7 +1345,7 @@ bedways 1
 bluecap 3
 bunks
 bacteriophagous
-bandwagon
+bandwagon 1
 bobbles 4
 bethlehem 1
 bede
@@ -6862,7 +6862,7 @@ beggarman 2
 biliverdic 3
 botchers 2
 bescutcheon 5
-bondservant 3
+bondservant 4
 basalia 2
 beseam
 bluegills 1
@@ -8282,7 +8282,7 @@ butterflyfish 2
 biblists 2
 beak 2
 bookling 2
-burden 3
+burden 4
 buccinal 3
 byzantinism 5
 berberine 2
