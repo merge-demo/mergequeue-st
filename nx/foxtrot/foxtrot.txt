@@ -2583,7 +2583,7 @@ feinting 2
 fumes 2
 forechase 3
 fogramity 2
-flongs 4
+flongs 5
 ferrocyanate 1
 formicid 1
 ferroelectric 4
@@ -9687,7 +9687,7 @@ forwardly 1
 flotations 5
 freers 3
 farthest 3
-foresign
+foresign 1
 fecklessly 5
 feliform 1
 fluidified 1
