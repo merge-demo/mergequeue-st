@@ -15872,7 +15872,7 @@ dogproof
 dosing 3
 dubs 1
 dehairer
-doped
+doped 1
 dorsiduct 2
 darjeeling 2
 droop
