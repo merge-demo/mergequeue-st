@@ -959,7 +959,7 @@ brownout 1
 bagwigged
 bagwyn
 bustier 4
-bagwork 1
+bagwork 2
 baker 1
 brumby
 bahadur 1
@@ -5987,7 +5987,7 @@ bemar 5
 bouncingly 5
 bevaring 2
 bemask
-bricktop 8
+bricktop 9
 bossier 1
 befooling 1
 bldr 1
@@ -9574,7 +9574,7 @@ budgets 1
 bothridium
 barque 1
 burucha 3
-bogue
+bogue 1
 betaking 5
 bluejack 1
 battlements 2
@@ -10671,7 +10671,7 @@ blearyeyedness 3
 bevel
 blindly 2
 brotulid 3
-begarnish 1
+begarnish 2
 blearing 1
 blearness 3
 bleated 1
@@ -11172,7 +11172,7 @@ beliquors 1
 ballow
 blindages 5
 beknot 2
-bitewings 3
+bitewings 4
 breveted 3
 boronia
 bumelia 4
@@ -17079,7 +17079,7 @@ babylonite
 bullcomber
 bucentaur
 batoidei 2
-barcarole 4
+barcarole 5
 buttery 3
 brokerages 3
 bellonian
@@ -18018,7 +18018,7 @@ barlock 3
 bicornuous
 bromise 4
 busket 1
-baseness 3
+baseness 4
 buskined 1
 birky 1
 beadmen 1

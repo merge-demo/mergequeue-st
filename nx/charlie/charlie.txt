@@ -2846,7 +2846,7 @@ canonesses 1
 canonicalization
 cinctures 2
 canonicalized 1
-canonicalizes
+canonicalizes 1
 croaked
 circumventive 1
 congealer 2
@@ -3884,7 +3884,7 @@ colonizers
 chalybite 2
 carbonification 1
 consultively
-courie 1
+courie 2
 carbonylene 1
 chalukyan 2
 carbonimeter
@@ -5969,7 +5969,7 @@ cathect 1
 cathected
 cathects 1
 cathedra 1
-cathedraled 2
+cathedraled 3
 cathedralesque 1
 cavorter
 clasp 1
@@ -13046,7 +13046,7 @@ cyanoplastid 1
 cyanoplatinite 1
 cooperative
 cyanoplatinous
-cyanose
+cyanose 1
 cyanoses 1
 chemitype
 cyanosite
@@ -14092,7 +14092,7 @@ catskin 1
 cardcastle
 conservancies 1
 corticoid 1
-circlets 2
+circlets 3
 circulated 3
 circocele
 colloquialisms 2
@@ -23533,7 +23533,7 @@ cric
 contestee
 chace 2
 contestingly 1
-contestless 1
+contestless 2
 cassida 1
 contests 1
 cirratulus 3
@@ -23818,7 +23818,7 @@ cruiskeen 1
 client 1
 catface 1
 contratenor
-contravalence 2
+contravalence 3
 contravene 1
 contravener
 cardueline
@@ -24403,7 +24403,7 @@ cooling 2
 concaver 1
 coolingness 1
 chrysopoetics
-candour 2
+candour 3
 cosmoramic
 coolness 1
 confessarius 3
@@ -26279,7 +26279,7 @@ cedron 1
 confectionery
 costectomy 1
 costectomies
-costed 1
+costed 2
 condylopod 1
 cokeney 1
 coxopodite 3
