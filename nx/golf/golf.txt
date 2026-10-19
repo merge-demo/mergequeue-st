@@ -142,7 +142,7 @@ gs 4
 gallicole 2
 guy 4
 gentisin 1
-granulated
+granulated 1
 gratelike 8
 galantine 4
 garrot 3
@@ -2381,7 +2381,7 @@ gauk 3
 gruesomer 3
 gyrencephalous 1
 giddily 2
-glariest 4
+glariest 5
 ganton 6
 gyrolith 1
 gazel 1
@@ -3268,7 +3268,7 @@ gula 4
 greenside 2
 geneticists 2
 germanized 2
-germanizer 5
+germanizer 6
 germule 1
 germanness 1
 grassmen 6
@@ -4833,7 +4833,7 @@ guest 3
 greensand 2
 grudge 2
 ginghams 3
-greeter 1
+greeter 2
 gayatri 1
 glaizie 2
 geologies 4
@@ -8392,7 +8392,7 @@ guisards 2
 gerundival 7
 gingerbread 2
 guns 3
-glucid 2
+glucid 3
 gasterosteiform 1
 ginner 2
 guajira 3
@@ -8545,7 +8545,7 @@ go 6
 goshdarn 6
 gramaphone 3
 gametophyte 1
-ganglioblast 5
+ganglioblast 6
 gyrophoric 6
 gulden 2
 grecian 2
