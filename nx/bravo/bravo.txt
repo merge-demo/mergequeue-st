@@ -4052,7 +4052,7 @@ buchu 1
 bom 4
 butled 2
 beamed 1
-bedrock
+bedrock 1
 beamers 3
 bueno 4
 beamfilling 1
@@ -4626,7 +4626,7 @@ bewilderingly 1
 broomwood 2
 bedeafening 1
 baghouse 7
-bilberry 1
+bilberry 2
 bedrid
 bedecking 1
 beholdingness 3
@@ -8196,7 +8196,7 @@ broid 1
 baleens
 bigfoot 1
 byronically 1
-beatable 2
+beatable 3
 boone 2
 battailous 2
 bestream 1
@@ -9396,7 +9396,7 @@ blowzily 2
 birdies 1
 boondocker 1
 bonser
-brimse 2
+brimse 3
 basidial 1
 boastless 2
 basocyte 1
@@ -17095,7 +17095,7 @@ bulldozed 2
 bulldozing
 botonee 5
 blackcaps 1
-beduck
+beduck 1
 bullet 2
 byepath 2
 bulletheadedness 2
