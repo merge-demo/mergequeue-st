@@ -868,7 +868,7 @@ forestlike 3
 fatheads 2
 featural 3
 flatheads 3
-fortake 6
+fortake 7
 fishhook 4
 februarius 2
 forcive 3
@@ -1943,7 +1943,7 @@ flaring 1
 finagling 2
 fonly 1
 flanchard 2
-furzier 1
+furzier 2
 forworn 5
 flated 7
 formulization 1
@@ -2442,7 +2442,7 @@ flutterable 1
 frazer 3
 fulgourous
 feasters 6
-fringillid 1
+fringillid 2
 freebooty 1
 fibrously
 fingu 1
@@ -2472,7 +2472,7 @@ fumbulator 2
 firstcomer 3
 fireproofing
 fishhood 2
-fuddlement 1
+fuddlement 2
 footscraper 5
 fermillet 6
 favonian 2
@@ -6158,7 +6158,7 @@ furiosity 2
 ferrums
 fuses 1
 fewness 4
-fcp
+fcp 1
 fewneses
 flowcharted 3
 fungibles 3
@@ -6404,7 +6404,7 @@ fluoboric 2
 forefoot 1
 fronture 2
 furry 1
-formalization 2
+formalization 3
 frogspawn 2
 flexura
 fafnir 1
@@ -6628,7 +6628,7 @@ friggle 3
 fractocumulus
 fireweeds 3
 fairgrass 1
-forehatchway 1
+forehatchway 2
 fruitery 4
 funds 3
 fancymonger 3
@@ -10138,7 +10138,7 @@ furnisher
 foozling 6
 fremontia 3
 felts 2
-fenian 3
+fenian 4
 fordam 1
 faki 2
 filmset 2
@@ -10491,7 +10491,7 @@ forstall 1
 frizes 1
 fellah 4
 ferocity 3
-frontwards 2
+frontwards 3
 fragrant 1
 fowent 1
 fermatian
@@ -11493,7 +11493,7 @@ farms 2
 facilities 4
 figural 6
 finnmarks 2
-furthest 2
+furthest 3
 flittering 4
 firmity 1
 flareback 1
