@@ -1680,7 +1680,7 @@ ferrament 3
 fleeching 3
 furnace 3
 fingertip 6
-foreordaining 4
+foreordaining 5
 forehandsel 3
 fanfares 2
 fearsomeness 4
@@ -5978,7 +5978,7 @@ firetrap 4
 fomites 4
 freeloader 1
 ferguson 2
-favism 3
+favism 4
 firkin 3
 fawn 3
 forecasters 5
