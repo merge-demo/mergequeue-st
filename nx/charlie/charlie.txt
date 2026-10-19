@@ -11275,7 +11275,7 @@ continuities 2
 chloritization
 chloritize 1
 culicid
-chlorize
+chlorize 1
 cynocephalus
 chesterbed 2
 chlormethane
@@ -30553,7 +30553,7 @@ crucibulum
 crankery 1
 contraprops 3
 cubitale 1
-caninal 2
+caninal 3
 cubitalia 1
 contemplatingly 1
 concentering
