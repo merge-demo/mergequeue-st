@@ -9864,7 +9864,7 @@ chemolysis 1
 cicero 1
 chemolyze 1
 correspondentially 2
-clamp 2
+clamp 3
 chemophysiology 2
 chemoprophyalctic
 cycle
@@ -15813,7 +15813,7 @@ clearish 2
 cerealian
 cribrosity 1
 clearsighted
-carludovica
+carludovica 1
 coprostasia 2
 chien 2
 cumulite
@@ -18986,7 +18986,7 @@ clumped 2
 collators 3
 coenobitic 1
 ciseleur
-culbut 2
+culbut 3
 colleaguing
 collect 1
 certify
@@ -19076,7 +19076,7 @@ chariots
 colliery
 crises
 callable 2
-camb 2
+camb 3
 colliflower 2
 cruset 2
 craker 1
@@ -19903,7 +19903,7 @@ contraremonstrant
 cyclecar 2
 charadriiform
 comicotragical 2
-comicry 2
+comicry 3
 credibility 1
 costumier
 comics 3
@@ -29827,7 +29827,7 @@ cytons 1
 cytogenetical 3
 croquets 2
 conutrition 2
-celiogastrotomy
+celiogastrotomy 1
 confederating
 croquignole 1
 colloguing 1
