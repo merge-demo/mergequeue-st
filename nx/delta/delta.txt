@@ -1557,7 +1557,7 @@ deactivation 1
 deactivators 3
 distressedness 1
 doublure 1
-drail 2
+drail 3
 deaden 4
 droops 3
 docked 1
@@ -11558,7 +11558,7 @@ dispeopling 1
 dunkle 1
 dysoxidizable 1
 divulgator 1
-disposable 1
+disposable 2
 discontentedness 3
 discriminantal 1
 dognaped 5
