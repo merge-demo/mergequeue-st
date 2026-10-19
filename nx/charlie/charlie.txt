@@ -6402,7 +6402,7 @@ collision
 cloudland 2
 cauterism 1
 carafe 1
-correcter 1
+correcter 2
 conchfish
 cauterizer 1
 cauterizes 2
@@ -25495,7 +25495,7 @@ caddisflies 1
 clong
 cornuto
 cornutos
-cornwall 2
+cornwall 3
 cornwallite 1
 cutdown 1
 corocleisis
