@@ -527,7 +527,7 @@ dama 2
 damageability 2
 damageably 1
 detonatable 2
-damaged 1
+damaged 2
 detort 2
 damageous 4
 deaccessions 1
@@ -1390,7 +1390,7 @@ disna 1
 disableness 2
 daftar 1
 daunders 4
-depositing 1
+depositing 2
 dartoid 2
 david 4
 definitised
@@ -1500,7 +1500,7 @@ descale 3
 dbms 1
 degenerationist 2
 dbridement
-decidual 1
+decidual 2
 dracma
 dc 3
 dcb 3
@@ -3655,7 +3655,7 @@ degorge 1
 degradative 1
 degraded 1
 degradement 4
-dozing 3
+dozing 4
 depsid 1
 disrupt 3
 decimalisation 2
@@ -5068,7 +5068,7 @@ diothelism 2
 dendrocoelan 1
 deflationist 1
 dasypygal 2
-dendrocoele 2
+dendrocoele 3
 dendrocolaptine
 dendroctonus 2
 degrade 3
@@ -5602,7 +5602,7 @@ dephlegmedness 2
 dephlogisticate 1
 dana 1
 dess 2
-disinclose
+disinclose 1
 dephlogistication 1
 displuming 2
 disseveration 2
@@ -16448,7 +16448,7 @@ draba 1
 drabant 4
 draughthouse 2
 dextrotartaric
-dichotomousness 2
+dichotomousness 3
 disgregated 2
 dates
 dolichocercic 2
@@ -17691,7 +17691,7 @@ deratizing
 damayanti
 dualize 1
 dialogic
-disaffiliates 2
+disaffiliates 3
 decare 1
 donsky 1
 dyskeratosis 1
