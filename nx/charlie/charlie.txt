@@ -2815,7 +2815,7 @@ cannonier 1
 cannonries 2
 cyrtandraceae 3
 corruptibility
-cannons
+cannons 1
 coulure 1
 chedreux 1
 crispening
@@ -6694,7 +6694,7 @@ counterquestion 1
 coathangers 2
 colligation 2
 centuriation 1
-cephalotomy
+cephalotomy 1
 ceinture
 ceyx 2
 ceja 2
@@ -13153,7 +13153,7 @@ cratchens 1
 cacan 1
 crackability
 cicatrising 1
-cystoflagellata
+cystoflagellata 1
 cutbacks 1
 cicatrisive
 cicatrizate 2
@@ -23397,7 +23397,7 @@ contained
 containerboard
 containerization 1
 concordantial 1
-containerizing 2
+containerizing 3
 chemasthenia 2
 containerport
 copasetic 3
@@ -24019,7 +24019,7 @@ conveners 2
 convenience
 compliancies
 choller 1
-conveniences 1
+conveniences 2
 curin
 chubb 1
 conveniencies
@@ -26441,7 +26441,7 @@ cotyledonary
 catalyzing 2
 cotyledons 2
 cotyliscus
-cherts
+cherts 1
 cotylopubic 1
 catatonics 2
 criminalist 3
@@ -31857,7 +31857,7 @@ cutoffs 1
 consortion 1
 cutout 2
 collenchyma 2
-cutpurse 1
+cutpurse 2
 cyclothyme 2
 casuality 1
 cochliodont
