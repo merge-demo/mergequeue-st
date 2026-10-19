@@ -5166,7 +5166,7 @@ casemaking 2
 casemates 3
 casemented
 casements
-copolar
+copolar 1
 caseolysis 1
 caseous 1
 caserios
@@ -5612,7 +5612,7 @@ catchalls
 compunctionary 4
 catallactic
 catallum 2
-cladocerans 1
+cladocerans 2
 chatterbag
 catalo 1
 cataloes 2
@@ -7199,7 +7199,7 @@ chymous
 centripetence 1
 centriscid 1
 clarine 1
-centriscidae 2
+centriscidae 3
 centriscoid
 cappadine 1
 centriscus
@@ -9819,7 +9819,7 @@ chemicomineralogical
 carcinogenicity 1
 chemicophysical 1
 carbonized
-cleptomaniac
+cleptomaniac 1
 creneling 1
 crucifige
 ciliary 3
@@ -11119,7 +11119,7 @@ chivalresque 1
 caddis 1
 compulsatively 3
 cosovereign
-controllableness 3
+controllableness 4
 caprificator 2
 curatolatry 1
 chivaree 1
@@ -14874,7 +14874,7 @@ cachucho
 condominate
 cauk 1
 cytopathologically 1
-complish
+complish 1
 cervelats
 cameronians
 crucibles 1
@@ -15201,7 +15201,7 @@ confrontationism 1
 conceder
 chondrophyte 1
 clairvoyances
-contraposaune 1
+contraposaune 2
 clairvoyancy 1
 clairvoyant
 ceratoduses 2
@@ -17512,7 +17512,7 @@ curf 1
 cocaceous
 chorioepitheliomas
 cephalopodic
-cocaine 1
+cocaine 2
 cocaines 3
 coeducational
 cygneous 1
@@ -17823,7 +17823,7 @@ carburating
 cruise 2
 casheen
 coder
-counterponderate 1
+counterponderate 2
 chronoscope 1
 crible 4
 comprehended
@@ -18473,7 +18473,7 @@ coharmonize
 cohead 1
 celiorrhea 2
 coheading
-celanese 1
+celanese 2
 cassate 1
 cessations
 cursor 1
@@ -20545,7 +20545,7 @@ contritely 1
 cusparia 2
 carnose 1
 codon 4
-crapon
+crapon 1
 commistion 1
 cambalo 2
 canonlike 1
@@ -22219,7 +22219,7 @@ cloxacillin 2
 collarman 1
 clunker
 congeed
-cleuch 1
+cleuch 2
 congeeing 1
 congeing 3
 convict 1
@@ -24123,7 +24123,7 @@ cricothyroid 1
 catoptrics
 chomper
 conversusi 2
-chylocele
+chylocele 1
 converters
 convertibility 1
 chorioretinal 1
@@ -25038,7 +25038,7 @@ cordialities
 crimini 1
 cnibophore
 cheskeys 2
-cordycepin 2
+cordycepin 3
 cleptomania 1
 cordiceps 3
 cordyceps 2
@@ -25594,7 +25594,7 @@ corotate
 corotates
 compulsoriness 1
 corotomy 2
-commemorized
+commemorized 1
 coroutines 2
 clericum
 corp 4
