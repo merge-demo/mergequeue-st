@@ -6104,7 +6104,7 @@ barricader 2
 bend 4
 bub
 bendee 3
-bullwhips
+bullwhips 1
 beamier 1
 bibliographical 2
 bendees 1
