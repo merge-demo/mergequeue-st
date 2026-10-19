@@ -995,7 +995,7 @@ derequisition 3
 disproportionate 3
 drest 4
 darics 3
-divi 2
+divi 3
 devwsor 1
 darien 1
 disinclinations 5
@@ -1186,7 +1186,7 @@ doughboys 2
 dodecaphony 2
 diiamb
 donnybrook
-diachoretic 1
+diachoretic 2
 dextrinize
 dogfall 3
 desmotropy 3
@@ -1752,7 +1752,7 @@ diobol 1
 dasewe 1
 discantus
 duckpond
-dysenteric
+dysenteric 1
 deathless 1
 decad
 decumaria
@@ -2430,7 +2430,7 @@ dangling 1
 diparentum 2
 dendritiform 1
 denizenize 2
-disimprisonment 2
+disimprisonment 3
 dissipable 2
 dietetist 3
 designs 1
@@ -4430,7 +4430,7 @@ doddy 2
 damper 4
 diazotization 1
 demibeast 1
-demibelt 6
+demibelt 7
 deuterate
 drummy 4
 dislink 2
@@ -8250,7 +8250,7 @@ diagonal 2
 diagonalizable
 diagonalization
 diagnosing 2
-duel 1
+duel 2
 denude 2
 diagonals 3
 diagonalwise 2
@@ -9895,7 +9895,7 @@ dimetallic 2
 dermatauxe 2
 discophorous 1
 dimethylbenzene 2
-disneyland 3
+disneyland 4
 doorsteps 2
 decretorial
 debarred 2
@@ -10414,7 +10414,7 @@ diphenylaminechlorarsine 1
 diervilla 2
 diastoles 2
 diphenylene
-dessus 3
+dessus 4
 despend 5
 decodable
 diphenylenimine 1
@@ -11393,7 +11393,7 @@ didache
 dingus 1
 dactylioglyphist 1
 disclusion 2
-diaphones
+diaphones 1
 deadnesses 2
 dispauper 1
 designlessness 2
@@ -11732,7 +11732,7 @@ decaudation
 districts 2
 demasts 3
 discrepated 4
-dioptometry 4
+dioptometry 5
 diskless 2
 denounces 1
 discrepation 3
@@ -12196,7 +12196,7 @@ disfurnish 4
 deport 2
 disfurnished
 deathshot 1
-dervishes 2
+dervishes 3
 disfurniture
 donax 1
 disgarnish 3
@@ -13538,7 +13538,7 @@ disseisee 1
 dortiship 2
 donorship 2
 defterdar 2
-disaccharose 2
+disaccharose 3
 dungeoner 2
 disperse 1
 disquisitive 2
@@ -17485,7 +17485,7 @@ drouking 2
 deforcer 2
 disvisage 1
 dopas 3
-delphacid 4
+delphacid 5
 desectionalize 3
 drouthier 1
 defame 4
@@ -17809,7 +17809,7 @@ donga 1
 dorsosternal 2
 depa 2
 desoxyanisoin 1
-duckbill 3
+duckbill 4
 dossing 2
 dumpies 3
 duckblind 2
@@ -18162,7 +18162,7 @@ diaphonical
 domatophobia 2
 disputacity
 dumose 1
-decoded 3
+decoded 4
 dermoskeletal 2
 degeneration
 decamp 2
@@ -18683,6 +18683,6 @@ dwindled 3
 dwindlement 3
 deports 2
 dwindles 3
-dehisced 3
+dehisced 4
 dukker 3
 dwindling 1
