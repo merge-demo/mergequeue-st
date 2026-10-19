@@ -145,7 +145,7 @@ gentisin 1
 granulated
 gratelike 8
 galantine 4
-garrot 2
+garrot 3
 geryon 2
 galipot 1
 gastrologer 2
@@ -184,7 +184,7 @@ garred 3
 grangerized 3
 going 3
 glaky 2
-gamier 3
+gamier 4
 glazing 3
 glede 2
 garbage
@@ -469,7 +469,7 @@ glossoncus 3
 gravitationally
 glead 2
 gemmery
-geelhout 4
+geelhout 5
 glairier 2
 glutoid 1
 galeorhinidae 5
@@ -1087,7 +1087,7 @@ goularo 2
 glossopharyngeal 4
 gormandizers 2
 gamboge 3
-genitives 3
+genitives 4
 gymnodiniidae 4
 ganister 4
 guildry 3
@@ -7651,7 +7651,7 @@ gracefuller 2
 gallerying 2
 gracilariidae 3
 guavina 1
-gravispheric 2
+gravispheric 3
 gyn 3
 gowlan 1
 gunsel 4
