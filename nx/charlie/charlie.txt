@@ -13046,7 +13046,7 @@ cyanoplastid 1
 cyanoplatinite 1
 cooperative
 cyanoplatinous
-cyanose
+cyanose 1
 cyanoses 1
 chemitype
 cyanosite
@@ -23533,7 +23533,7 @@ cric
 contestee
 chace 2
 contestingly 1
-contestless 1
+contestless 2
 cassida 1
 contests 1
 cirratulus 3
@@ -24403,7 +24403,7 @@ cooling 2
 concaver 1
 coolingness 1
 chrysopoetics
-candour 2
+candour 3
 cosmoramic
 coolness 1
 confessarius 3
