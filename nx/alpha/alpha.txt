@@ -38,7 +38,7 @@ area
 allseeds
 aurine 2
 aethogen 2
-aerometeorograph 1
+aerometeorograph 2
 abaciscus 2
 aquanaut 2
 autopsist 1
@@ -79,7 +79,7 @@ abalones
 abama 1
 abecedary 2
 aband
-abandon 1
+abandon 2
 androecial 1
 amphipods 1
 abandoner
@@ -2952,7 +2952,7 @@ anapsid 2
 ammoniureted 3
 adept 1
 awkwardest
-alienist
+alienist 1
 across 2
 aubrietas 1
 alvus 2
@@ -6910,7 +6910,7 @@ airplaner 1
 abroma 1
 aristomonarchy 2
 airplanist
-airgraph 3
+airgraph 4
 analogism 1
 algarad
 acieral 1
@@ -13364,7 +13364,7 @@ anisophyllous 2
 afterchurch 4
 accompanied 2
 apace
-atmosphered 1
+atmosphered 2
 asbestus
 anisopod 1
 ataraxias 1
@@ -15099,7 +15099,7 @@ anemopsis 1
 antipatriotism 1
 arthrocarcinoma 1
 antidivine
-asseverated 1
+asseverated 2
 assemblagist 1
 anagrammatized
 autopositive
@@ -15296,7 +15296,7 @@ armload
 afrogaea 3
 antigigmanic 2
 annexment 3
-autonitridation 3
+autonitridation 4
 antileveling 1
 antigonon 4
 antigonorrheic 2
@@ -19384,7 +19384,7 @@ amuser
 argentan 2
 axisymmetry 1
 autochrome 1
-anacrisis 2
+anacrisis 3
 arsacid
 affies
 albespine 1
@@ -20046,7 +20046,7 @@ autobiographical
 aromatophor
 article 1
 arline
-allness 2
+allness 3
 annuary 1
 apiculated 1
 accentuality 1
@@ -21144,7 +21144,7 @@ airth 2
 amniorrhea 1
 ambiens 1
 affinitative 2
-arabella 2
+arabella 3
 acquittal 4
 agriochoeridae 1
 aseismic 1
@@ -21433,7 +21433,7 @@ aspect 1
 aspectable 6
 aspectant 4
 aspects 1
-acyclically 2
+acyclically 3
 aspens
 asper 1
 amnesties 2
@@ -24381,7 +24381,7 @@ aromatically 2
 awiggle
 armrack
 appanagist
-agisting 1
+agisting 2
 autoschediastic 4
 antialexin 1
 ankylomele 1
