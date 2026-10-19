@@ -225,7 +225,7 @@ beneception 3
 betrothed
 bedpan
 bootlaces 3
-bathyanesthesia 1
+bathyanesthesia 2
 bachelordom 2
 bachelorette 1
 bachelorhood 4
@@ -3069,7 +3069,7 @@ brainwashing 3
 braza 2
 burhead 2
 boobishness
-bimetal
+bimetal 1
 bedspreads
 besquib 2
 bestials 3
@@ -5117,7 +5117,7 @@ burrows 3
 braconidae 1
 beflagging 1
 bentwood
-biquadrantal 2
+biquadrantal 3
 beflannel
 belluine 4
 bureaucrat
@@ -7255,7 +7255,7 @@ beswelter 3
 bethuel
 balti
 beguard 1
-beta 3
+beta 4
 broombush 1
 bedraggle 1
 biogeographic 1
@@ -12680,7 +12680,7 @@ bonilass 1
 benefactresses 2
 boorga 4
 brochures
-bronchoconstrictor 2
+bronchoconstrictor 3
 bubblier 2
 baptized 1
 butylates 3
@@ -14957,7 +14957,7 @@ bignonia 2
 begulfing 1
 bumpee 2
 bristol 2
-boozify 1
+boozify 2
 breastie 1
 breasting 2
 brinston
@@ -17732,7 +17732,7 @@ bewinged 2
 burnfire 2
 bashaws
 buckeens 1
-burnish 4
+burnish 5
 burnishable 1
 bahuvrihis 2
 brachiorrhachidian 4
@@ -18080,7 +18080,7 @@ beroll 2
 booklet 2
 buccally 2
 boatsman
-barrancos 2
+barrancos 3
 benzhydrol
 bidi 1
 butadiyne 2
@@ -18413,4 +18413,4 @@ bwanas 2
 bombardmen 1
 banned 2
 bxs 1
-bached 3
+bached 4
