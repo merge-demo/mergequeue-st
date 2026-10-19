@@ -1886,7 +1886,7 @@ consociate
 cambia
 cambiata 1
 charlatanry
-choregy
+choregy 1
 cambio
 cementa 1
 complimentalness
@@ -2021,7 +2021,7 @@ camilla 1
 chariotlike 1
 cacholong 3
 cymous 1
-calycanthemy
+calycanthemy 1
 camillus 2
 camion
 camions 1
@@ -3516,7 +3516,7 @@ collegatary
 chainomatic
 chawbone 3
 capsulectomy 1
-chloroforming 2
+chloroforming 3
 centinody
 countershaft 3
 crenelling
@@ -7385,7 +7385,7 @@ cephalothoraxes 2
 corozo 1
 chippering
 contrate 1
-cephalotractor
+cephalotractor 1
 cephalotrocha
 cephalotus
 cephalous 1
@@ -18044,7 +18044,7 @@ coenacts 4
 coenacula 1
 coenamored 1
 clairseacher
-coenamors 3
+coenamors 4
 chiromancy 2
 condensational 1
 carats
@@ -25752,7 +25752,7 @@ compensators
 calctufa
 colophan 1
 ceruminous 1
-caripeta 1
+caripeta 2
 conule 1
 corresponding 3
 crated
@@ -30714,7 +30714,7 @@ confuse
 cudweeds
 counterexplanation 2
 cudwort 1
-couturire 1
+couturire 2
 compassment 1
 comedist
 chides

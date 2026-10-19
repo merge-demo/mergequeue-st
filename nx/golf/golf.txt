@@ -1231,7 +1231,7 @@ gripiest 3
 gatewards 3
 grannybush 3
 goodeniaceae 4
-galavants 3
+galavants 4
 gramy 4
 gruffly 2
 gambler 7
@@ -1718,7 +1718,7 @@ gaullism 5
 gastropexy 3
 gutte 3
 greaseproof 7
-gastrophile
+gastrophile 1
 garroo 1
 gorgonacea 2
 gastrophilism 2
@@ -1871,7 +1871,7 @@ gaucho
 geniohyoid 2
 generalists 5
 gerbillus 2
-groundable 2
+groundable 3
 gowd 2
 gumbos
 grails 5
@@ -2170,7 +2170,7 @@ granitiferous 1
 granes 3
 guarantying 2
 guberniya 3
-ganophyllite 1
+ganophyllite 2
 gutturalised 1
 glucosic 3
 genghis 5
@@ -6616,7 +6616,7 @@ gruntingly 2
 glassine 5
 goncalo 1
 gyrectomy 2
-geminating 4
+geminating 5
 grossulaceous 2
 girlery 6
 globulysis 3
