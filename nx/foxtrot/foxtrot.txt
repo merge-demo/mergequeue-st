@@ -181,7 +181,7 @@ floatiness 7
 foment 3
 flashily 1
 feuar 3
-florin 3
+florin 4
 folletage 3
 footstock 3
 freedwoman 3
@@ -983,7 +983,7 @@ fluorapatite 3
 fluoborid
 forehook 2
 foglietto 2
-fascicles 2
+fascicles 3
 flexuose 2
 flatlong 5
 fren 1
@@ -1187,7 +1187,7 @@ futuro 3
 fritt 2
 fiddley 1
 forediscern 2
-fascinate 2
+fascinate 3
 fixator 1
 fissure 7
 frontpiece 3
@@ -1337,7 +1337,7 @@ fatigue 4
 fossicks 1
 fatiguesome 5
 fragmenting 1
-fishbones
+fishbones 1
 frundel 4
 fidate 4
 fruticeous 2
@@ -1460,7 +1460,7 @@ feminise 5
 faecula 3
 fluoroscopist 2
 folkish 2
-floatability 3
+floatability 4
 fungillus 3
 faucre 4
 faultiest 2
@@ -1582,7 +1582,7 @@ fiddlebow 3
 forereaching 4
 floppies 1
 faffle 3
-funambulo 2
+funambulo 3
 functionating 1
 fallalery 2
 faniente 6
@@ -4529,7 +4529,7 @@ forwardsearch 2
 fractionized 3
 formulate 2
 felinophile 2
-filemarks 4
+filemarks 5
 franklinization 1
 frontier 1
 fluffiness 3
@@ -4652,7 +4652,7 @@ fivesome 4
 flaubertian 2
 flashproof 2
 famacide 5
-frivoling 4
+frivoling 5
 futharcs 2
 filmgoer 5
 faust 2
@@ -5641,7 +5641,7 @@ facund 3
 foetor 4
 fernery 1
 forepassed 2
-fireboot 3
+fireboot 4
 flyless 2
 fuddle 2
 fulgurata 2
@@ -6247,7 +6247,7 @@ farmtown 4
 fizzles 3
 firnismalerei 1
 friendlike 3
-frankeniaceous 5
+frankeniaceous 6
 fecit 3
 flamefish 4
 fluoarsenate 4
@@ -6553,7 +6553,7 @@ foretack 6
 footlights 1
 flamless 3
 furrings 2
-flibbertigibbets
+flibbertigibbets 1
 flysches 4
 fluxile 5
 finochio 5
@@ -11553,7 +11553,7 @@ fumaroid 3
 fabling 1
 fictionize 2
 fards 2
-floeberg 2
+floeberg 3
 fledgy 5
 folio 4
 fretfully
