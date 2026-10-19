@@ -959,7 +959,7 @@ brownout 1
 bagwigged
 bagwyn
 bustier 4
-bagwork 1
+bagwork 2
 baker 1
 brumby
 bahadur 1
@@ -9574,7 +9574,7 @@ budgets 1
 bothridium
 barque 1
 burucha 3
-bogue
+bogue 1
 betaking 5
 bluejack 1
 battlements 2
@@ -11172,7 +11172,7 @@ beliquors 1
 ballow
 blindages 5
 beknot 2
-bitewings 3
+bitewings 4
 breveted 3
 boronia
 bumelia 4
