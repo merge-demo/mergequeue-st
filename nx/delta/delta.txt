@@ -4942,7 +4942,7 @@ dragontail
 dephosphorize 3
 draggled 3
 diamb
-demountable 2
+demountable 3
 devastators 2
 demounts
 dempsters
@@ -7701,7 +7701,7 @@ demonically
 devilet 1
 duits 1
 dialectologies 2
-demutization 1
+demutization 2
 dismembrate 2
 defuse 5
 downby 3
@@ -9124,7 +9124,7 @@ disinclines 1
 derisory 3
 doffs 3
 desexualized 1
-dauphines
+dauphines 1
 detriment 1
 disdiaclasis 4
 disgracement 2
@@ -10211,7 +10211,7 @@ dinkum 2
 disobligatory
 dormitory 4
 decillionth 2
-dishcross 2
+dishcross 3
 doblons 1
 diphthong 1
 defibrination 6
@@ -17458,7 +17458,7 @@ dyspituitarism 3
 drosser 2
 drawdown
 drawbars 2
-dactyloid 3
+dactyloid 4
 dagaba 2
 divaporation 1
 dessa 4
