@@ -52,7 +52,7 @@ gableboard 5
 groats 2
 graperies 1
 gedact 7
-gangue 5
+gangue 6
 glaucolite 2
 guemal 3
 geometrine 4
@@ -142,7 +142,7 @@ gs 4
 gallicole 2
 guy 4
 gentisin 1
-granulated
+granulated 1
 gratelike 8
 galantine 4
 garrot 3
@@ -556,7 +556,7 @@ gorgerins 4
 gormandiser 1
 goys 4
 gagership 6
-goldflower 5
+goldflower 6
 graycoat 5
 ginhound 5
 galut 4
@@ -673,7 +673,7 @@ gynecomaniac 6
 geopolitician 4
 gauily 3
 granam 1
-gaddishness 4
+gaddishness 5
 gideon 2
 granulomatosis 4
 goneril 1
@@ -2324,7 +2324,7 @@ gruss 3
 gutturalisation 1
 greeney 3
 grubbiness 4
-gainturn 2
+gainturn 3
 guavaberry 1
 geoglossaceae 3
 glandes 5
@@ -2381,7 +2381,7 @@ gauk 3
 gruesomer 3
 gyrencephalous 1
 giddily 2
-glariest 4
+glariest 5
 ganton 6
 gyrolith 1
 gazel 1
@@ -3472,7 +3472,7 @@ gramercies 4
 getling 4
 goldenest 1
 gelilah 1
-gibberish 2
+gibberish 3
 greaselessness 2
 gatewayman 6
 gaunter 1
@@ -4780,7 +4780,7 @@ generalidad 5
 gritter 1
 gunnel
 gnomonics 4
-gigantize 1
+gigantize 2
 greenings 4
 goiterogenic 5
 gladfulness 4
@@ -4833,7 +4833,7 @@ guest 3
 greensand 2
 grudge 2
 ginghams 3
-greeter 1
+greeter 2
 gayatri 1
 glaizie 2
 geologies 4
@@ -7791,7 +7791,7 @@ gaumlike 4
 galvanizations 2
 gnathism 1
 gonyocele 1
-geminally 2
+geminally 3
 gauby 1
 goasila 4
 gabeller 3
@@ -7832,7 +7832,7 @@ gingerwork 3
 glycolipine 3
 gargoylish 4
 gisant 1
-gospeler 1
+gospeler 2
 geococcyx 4
 ginkgoaceous 3
 garlandry 1
@@ -9130,7 +9130,7 @@ groping 3
 garibaldi 1
 grandiose 4
 gluily 3
-gelong
+gelong 1
 gnotobiote 4
 greenbrier 1
 gigful 6
@@ -9854,7 +9854,7 @@ geochronologically 1
 gallbush 2
 galyacs 3
 gist 1
-gastroenterologist 5
+gastroenterologist 6
 geikielite 2
 gettableness 2
 gasholder 1
@@ -9911,7 +9911,7 @@ geoparallelotropic 5
 gleaming 3
 gateway 5
 grisailles 4
-granddaddies 1
+granddaddies 2
 guaranties 2
 gradgrindism 3
 gymnite 3
@@ -9987,7 +9987,7 @@ goodsome 3
 geophysically 3
 gogglier 5
 gargled 2
-gelseminic 5
+gelseminic 6
 gleaner 3
 gelatinify 3
 galago 5
