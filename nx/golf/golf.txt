@@ -142,7 +142,7 @@ gs 4
 gallicole 2
 guy 4
 gentisin 1
-granulated
+granulated 1
 gratelike 8
 galantine 4
 garrot 3
@@ -2381,7 +2381,7 @@ gauk 3
 gruesomer 3
 gyrencephalous 1
 giddily 2
-glariest 4
+glariest 5
 ganton 6
 gyrolith 1
 gazel 1
@@ -4105,7 +4105,7 @@ gelinotte 2
 graphemic 1
 glycoproteid 7
 glacis 4
-gastroarthritis 1
+gastroarthritis 2
 goniometry 2
 goodly 3
 guaranin 12
@@ -4833,7 +4833,7 @@ guest 3
 greensand 2
 grudge 2
 ginghams 3
-greeter 1
+greeter 2
 gayatri 1
 glaizie 2
 geologies 4
@@ -10501,7 +10501,7 @@ gonocytes 4
 genuineness 4
 grecized 3
 gymnorhininae 4
-giftling 1
+giftling 2
 gyrational 1
 gimmicks 2
 guildhall 1
