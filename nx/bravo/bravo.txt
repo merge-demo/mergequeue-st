@@ -668,7 +668,7 @@ bacteriotherapeutic 1
 bechances 2
 boatmen 1
 beletter 3
-bronchocavernous 3
+bronchocavernous 4
 bynames 2
 bungles
 bkpr 4
@@ -2125,7 +2125,7 @@ banquet 3
 blindish
 bardiest 3
 banqueting 4
-beseem
+beseem 1
 buddhistic 3
 besteer 1
 bladeless 2
@@ -2141,7 +2141,7 @@ birthrights 3
 braccae 5
 bosomer 1
 blanca 2
-bosch 1
+bosch 2
 brouillon 2
 barring
 borofluoride
@@ -4231,7 +4231,7 @@ bromol 2
 blanketeer 3
 beaupere 2
 beausire
-batetela 3
+batetela 4
 bilharziasis 3
 beauteous 2
 beachmen 3
@@ -4442,7 +4442,7 @@ bulkiness 1
 bludging 5
 beclogs 2
 bonspells 3
-bilabials
+bilabials 1
 beclothe
 banting 5
 bur 2
@@ -6112,7 +6112,7 @@ buyout
 biobibliographies 2
 babyolatry 2
 bendies 5
-bends 1
+bends 2
 bendwise 2
 begay 3
 balaneutics 1
@@ -6181,7 +6181,7 @@ bedclothing 2
 bouchaleen
 bacteriologies 3
 beneighbored 1
-beneme 2
+beneme 3
 blanker
 baited 2
 beltian 4
@@ -6523,7 +6523,7 @@ boson 1
 bactericidin 1
 buckeyes 2
 bequests 2
-buster 2
+buster 3
 blenniiformes 2
 bolar 1
 berakah
@@ -7085,7 +7085,7 @@ bespeckle 1
 bethylid
 bespeckled
 blindman
-beefless 2
+beefless 3
 beaugregories 3
 bruit 2
 boyos 4
@@ -7480,7 +7480,7 @@ besant 2
 burtree 1
 bully 1
 berhymed 1
-burd 1
+burd 2
 bistre 2
 bramantesque 1
 bullragged 1
@@ -7511,7 +7511,7 @@ bedgery 1
 bevenom 1
 bever 1
 barleducs
-blemishment
+blemishment 1
 burses 1
 beverse 2
 barbets 3
@@ -7939,7 +7939,7 @@ bibliopolist 4
 befall
 bibliosoph 1
 bibliothecae 3
-bibliothecarian 2
+bibliothecarian 3
 bungalows 1
 batoka 1
 buaze 2
@@ -8937,7 +8937,7 @@ blacktop 2
 blattered 4
 bocal 2
 bioecological 5
-bounty
+bounty 1
 bioecologically 2
 balatong 1
 bioengineering 1
@@ -10160,7 +10160,7 @@ biscayan
 bejeweled 1
 blanketflower 1
 barysilite 2
-blackcod 1
+blackcod 2
 bathochrome 2
 blues 3
 blackdamp 1
@@ -14126,7 +14126,7 @@ butsudan 3
 brekkle 1
 bumbaze 5
 brighteyes 3
-birdlore 1
+birdlore 2
 brachiosaur
 brachiosaurus
 brachyphyllum
