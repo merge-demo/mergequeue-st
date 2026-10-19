@@ -1655,7 +1655,7 @@ disassembler 2
 decurved 1
 deobstruct 5
 devotional 1
-daunter 2
+daunter 3
 dicephalus 1
 darkhaired 1
 deerhair 2
@@ -1922,7 +1922,7 @@ dissenterism 4
 dances 1
 debriefings 1
 debris 2
-debrominate 2
+debrominate 3
 diandrian 2
 disapprobations 2
 dacryd 3
@@ -4701,7 +4701,7 @@ democracies 4
 duplicity
 deemstership 1
 dagswain 3
-democrat
+democrat 1
 dawdles 2
 douar 3
 dogbody 3
@@ -7837,7 +7837,7 @@ devour 3
 devourers 2
 discourseless 2
 dependently 5
-doers 1
+doers 2
 daylighting
 danziger
 devouringly 2
@@ -8064,7 +8064,7 @@ dysgenetic 1
 disendowment 3
 desugar 3
 durzi 1
-dhritarashtra 3
+dhritarashtra 4
 disables 1
 disembowelled 2
 drawable 1
@@ -15982,7 +15982,7 @@ dragonnade
 dia 2
 dissimulative 2
 dimberdamber 4
-demibrigade 2
+demibrigade 3
 devolutionary
 ditetrahedral 2
 duodenocholangitis 3
@@ -17112,7 +17112,7 @@ delineament 1
 disaffected 1
 driddle 2
 didle 2
-droukan
+droukan 1
 drie
 disconcertedness 3
 drawlink

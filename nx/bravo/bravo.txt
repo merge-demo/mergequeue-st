@@ -959,7 +959,7 @@ brownout 1
 bagwigged
 bagwyn
 bustier 4
-bagwork 1
+bagwork 2
 baker 1
 brumby
 bahadur 1
@@ -2528,7 +2528,7 @@ blueblack 4
 beslash 1
 buenos 2
 bassetite 1
-bottonhook 3
+bottonhook 4
 buckler 1
 barguest 2
 barguests
@@ -2700,7 +2700,7 @@ beakhead 3
 baxterianism 2
 burnouses 1
 bewaitered
-barnard 3
+barnard 4
 benightment
 barnbrack 2
 betweenbrain 1
@@ -4011,7 +4011,7 @@ beadeye 3
 beader 1
 bellmaker 3
 barnhardtite 2
-beerothite
+beerothite 1
 binges 1
 brookside
 beshamed 3
@@ -9574,7 +9574,7 @@ budgets 1
 bothridium
 barque 1
 burucha 3
-bogue
+bogue 1
 betaking 5
 bluejack 1
 battlements 2
@@ -11172,7 +11172,7 @@ beliquors 1
 ballow
 blindages 5
 beknot 2
-bitewings 3
+bitewings 4
 breveted 3
 boronia
 bumelia 4
@@ -16395,7 +16395,7 @@ baculitic 1
 botanist 1
 brummy 3
 byth 2
-brumous
+brumous 1
 brumstane 3
 brunch 2
 brunched
@@ -16676,7 +16676,7 @@ bailpiece 2
 bloodspiller 3
 busker 3
 brassidic 4
-blocage 2
+blocage 3
 banquetings 1
 berimed 3
 buckeen 1
@@ -17090,7 +17090,7 @@ bowly
 beadswoman 1
 bitterwood
 bladderet 2
-bellrags
+bellrags 1
 bulldozed 2
 bulldozing
 botonee 5
@@ -17729,7 +17729,7 @@ blastophaga 1
 bemuzzled 3
 bott 1
 bewinged 2
-burnfire 2
+burnfire 3
 bashaws
 buckeens 1
 burnish 5
@@ -18083,7 +18083,7 @@ boatsman 1
 barrancos 2
 benzhydrol
 bidi 1
-butadiyne 2
+butadiyne 3
 beshout
 berthierite 1
 butane 3
