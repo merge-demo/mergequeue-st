@@ -3852,7 +3852,7 @@ dissect 3
 disp 1
 dyscrasite 1
 deerdog
-demihogshead
+demihogshead 1
 damone 2
 dichocarpism
 dinobryon
@@ -17565,7 +17565,7 @@ delegalizing 2
 doctrinaire 1
 disgustedly 2
 drumbles 3
-depudorate
+depudorate 1
 drumfishes 3
 drumhead
 dictatorialness 1
