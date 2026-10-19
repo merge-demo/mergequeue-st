@@ -3551,7 +3551,7 @@ disenchanter 1
 defunctionalize 1
 defusion 2
 deformalize 5
-dingles
+dingles 1
 dermatotome 2
 drawbeam 1
 dissheathe
@@ -3829,7 +3829,7 @@ deselects 3
 disinteresting 1
 dissceptred 3
 decorationist 2
-deionizer 3
+deionizer 4
 deipnophobia 2
 disembarkations 1
 dilutes 2
@@ -5788,7 +5788,7 @@ divestible 1
 dichotomously 4
 daisied 2
 deafforest 1
-destrier 1
+destrier 2
 disestablishes 2
 desistance 1
 depots 3
@@ -9205,7 +9205,7 @@ dodonian
 divertimentos 1
 destinist 2
 debatingly
-diehard 2
+diehard 3
 demarkation 3
 disdainly 3
 diehards 1
@@ -12254,7 +12254,7 @@ druttle 1
 diaphanie
 disgruntlement 2
 delusionary 2
-duboisia 2
+duboisia 3
 diamminobromide 1
 doorbrand 2
 detoxifying 3
@@ -12338,7 +12338,7 @@ dishcloth 1
 dishcloths 2
 detractively
 disparkle
-distraint 1
+distraint 2
 dishclout 4
 disassembly
 disheartenedly 1
@@ -12760,7 +12760,7 @@ doily 4
 donnas 1
 disloyal 2
 disencourage
-dotardly 2
+dotardly 3
 drawfiling
 donative 2
 disloyalist 4
@@ -16215,7 +16215,7 @@ dichogamous 2
 disinherit 1
 dowf
 daren 1
-dextroamphetamine 1
+dextroamphetamine 2
 deuterocasease 5
 dermatotherapy 1
 dowsets 1
@@ -17090,7 +17090,7 @@ disaggregated 1
 devilward
 despume 2
 dryades 4
-dryadetum
+dryadetum 1
 damners 1
 debunk 2
 dentistic
@@ -18273,7 +18273,7 @@ dodecafid
 doghearted
 dungbeck 1
 demioctangular 2
-discussant 2
+discussant 3
 drogermen 4
 dishonorable 3
 dumbfish
