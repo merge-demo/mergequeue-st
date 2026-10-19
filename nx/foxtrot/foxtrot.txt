@@ -1033,7 +1033,7 @@ fiberboard
 fids 1
 filazer 2
 ferriages 3
-frontons 2
+frontons 3
 farrage 2
 ferroelectricity 4
 fleawort 2
@@ -4144,7 +4144,7 @@ firebomb
 fractile 3
 fakiness 1
 ferk 4
-fairlike 4
+fairlike 5
 fractionlet 5
 faithwise 2
 figments 3
@@ -4417,7 +4417,7 @@ fluigramme
 frogwort 1
 frenghi 1
 formel 5
-fraiser 5
+fraiser 6
 falsary 2
 flawier 2
 fovent 1
@@ -5748,7 +5748,7 @@ frequentation 3
 fractuosity 1
 fels 5
 fins 3
-figureheadless 1
+figureheadless 2
 fisher 3
 fmt 2
 foredeserved 2
@@ -7915,7 +7915,7 @@ factualist 3
 florent 2
 fusillades 3
 froeman 2
-fictionalizing 5
+fictionalizing 6
 foresail 4
 feuilletonistic 6
 fasten 4
@@ -8023,7 +8023,7 @@ foreslow 2
 frumpled 2
 flirtational 4
 flatteur 2
-fluminose 7
+fluminose 8
 fingerless 3
 fixgig 4
 feminises 2
@@ -8445,7 +8445,7 @@ futhorcs 4
 flyflapper 1
 fellfare 2
 foreking 2
-fictively 2
+fictively 3
 fuseboard 2
 fm 2
 filcher 2
@@ -9102,7 +9102,7 @@ fractionalize 1
 foreparents
 fleetwing 5
 frap 4
-feruling 1
+feruling 2
 foxberry 3
 falcular 3
 fribbleism 1
@@ -9706,7 +9706,7 @@ fromage 2
 frocked 5
 fregata 4
 faunist 2
-freyalite 4
+freyalite 5
 faceoff 4
 frondent 1
 forfairn 1
