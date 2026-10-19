@@ -1231,7 +1231,7 @@ gripiest 3
 gatewards 3
 grannybush 3
 goodeniaceae 4
-galavants 4
+galavants 5
 gramy 4
 gruffly 2
 gambler 7
@@ -1989,7 +1989,7 @@ gauzewing 6
 gomorrah 5
 galactia 4
 grithman 6
-gauzy 2
+gauzy 3
 galatae 1
 gentiledom
 goitrogenicity 3
@@ -3614,7 +3614,7 @@ gpm
 grungier 5
 graeae 1
 gangwa
-georgie 1
+georgie 2
 ghizite 2
 glops 3
 gurgly 3
@@ -3888,7 +3888,7 @@ gemmily 3
 gyroceras 3
 gleeting 5
 girtonian 3
-gipsy 1
+gipsy 2
 geneal 4
 gigawatt 4
 gutser 4
@@ -4680,7 +4680,7 @@ gitonin 4
 graphitizable 3
 greenfishes 2
 grandiflora 1
-gudemother 2
+gudemother 3
 gurdy 1
 gainstand 1
 garua 4
@@ -6472,7 +6472,7 @@ grit 5
 guirlande 4
 graduatical 6
 genteel 1
-ghazel 3
+ghazel 4
 gliming 4
 grooving
 gibbert 1
@@ -6485,7 +6485,7 @@ germinatively 4
 gonapophysial 4
 glided 5
 gabert 2
-gadwalls 2
+gadwalls 3
 goll 4
 guddling 2
 genetic 1
@@ -7914,13 +7914,13 @@ groggiest 2
 gilbertage 2
 guildsman 3
 gameful 5
-grandams 3
+grandams 4
 gusty 3
 generic 4
 gruelling 7
 gametangium 2
 goi 3
-glossolaly
+glossolaly 1
 gounau 2
 garbologist 4
 garbless 4
@@ -9565,7 +9565,7 @@ graphical 3
 grassiness 3
 glamorized 1
 geodynamical 6
-guidage
+guidage 1
 gauteite 3
 gallinule
 gruels 4
