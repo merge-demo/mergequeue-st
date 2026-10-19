@@ -3456,7 +3456,7 @@ allotransplant 2
 assemblywoman 1
 auxil 2
 acreak
-abridgeable
+abridgeable 1
 adarme 1
 adatis 1
 afterpain 1
@@ -3982,7 +3982,7 @@ aphidian 4
 alarmed 2
 argentamide 3
 adjunctively 1
-adjunctly 3
+adjunctly 4
 analogia
 admissory 2
 anteporch 1
@@ -8696,7 +8696,7 @@ alchitran
 abled 1
 attractancy
 anarchs 2
-andrite
+andrite 1
 adjoins 3
 autochthon 1
 argyrythrose 2
@@ -13446,7 +13446,7 @@ archphylarch
 amorphism
 ankusha 2
 anomala
-anlace
+anlace 1
 albinistic 2
 anlagen 1
 acapnial
@@ -14415,7 +14415,7 @@ aguelike 1
 auspicate 1
 anthony 3
 analysation
-acrostically 1
+acrostically 2
 amylodyspepsia 3
 aerometric 2
 actualizing 1
@@ -21483,7 +21483,7 @@ assedation 1
 aspers 1
 adenosarcoma 1
 asperse 2
-abecedaries 1
+abecedaries 2
 agapeically
 asperser
 astrochronological 1
@@ -23746,7 +23746,7 @@ andropetalar 1
 academic
 auscultates 3
 athrong
-auscultating 1
+auscultating 2
 apism 1
 auscultation 2
 amphicyrtic 4
@@ -24670,7 +24670,7 @@ achaemenidae 1
 avenida 2
 aveniform 2
 astatic 2
-anacamptic 3
+anacamptic 4
 avenolith
 avshar 1
 axiom
@@ -25266,7 +25266,7 @@ amenity 2
 auriform 1
 althorns 1
 amnestying 3
-abernethy 3
+abernethy 4
 azimene 1
 antepenultima 3
 academus 1
