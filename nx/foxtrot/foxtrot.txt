@@ -191,7 +191,7 @@ fazenda
 factotum 2
 felsitic 2
 ferrihemoglobin 2
-frasier
+frasier 1
 factrix 4
 footmanship 1
 fanons 2
@@ -4834,7 +4834,7 @@ fishberries 2
 flinthead 2
 franchisers 2
 fleay 4
-fabricative 3
+fabricative 4
 fainer 4
 foil 2
 finlet 2
@@ -8925,7 +8925,7 @@ fiberizer 1
 feudalism 5
 fussed
 flatteners 3
-fouled 4
+fouled 5
 fancywork 4
 fling 2
 fatiloquent 3
