@@ -4268,7 +4268,7 @@ chyometer 1
 capsulotome 2
 caress 1
 cir 1
-caressed
+caressed 1
 captainries
 caresser
 clobberer
@@ -16979,7 +16979,7 @@ cosmopathic
 clutches
 clutchy 1
 cherubic
-cleithral 1
+cleithral 2
 centrex 1
 clerestories
 clutching 2
