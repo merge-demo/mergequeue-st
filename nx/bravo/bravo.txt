@@ -543,7 +543,7 @@ backbends
 bayok 2
 blasthole 1
 bafflingness 2
-barometrical 3
+barometrical 4
 backvelder 1
 blastodermic
 baufrey 2
@@ -1653,7 +1653,7 @@ boyarism 1
 blier
 butyrous 1
 balloted 1
-ballotist 3
+ballotist 4
 ballots
 ballottement 4
 bailiffship 2
@@ -3710,7 +3710,7 @@ bally 2
 belage 3
 belfather 3
 batteaux 1
-bakatan 5
+bakatan 6
 battement 1
 balladising 3
 batteners 1
@@ -4828,7 +4828,7 @@ bitake 1
 bikh 2
 banners 2
 beshrouded 2
-bedstraw 2
+bedstraw 3
 bedstraws 2
 bedstring 4
 boundedly 2
@@ -5034,7 +5034,7 @@ baruria
 branchiform 1
 breakwaters 1
 beetles
-bubal 1
+bubal 2
 baching 4
 bhunder 3
 babism 2
@@ -9399,7 +9399,7 @@ bonser
 brimse 3
 basidial 1
 boastless 2
-basocyte 1
+basocyte 2
 buriti
 baronetship 2
 bullyrook 1
@@ -16223,7 +16223,7 @@ blote 2
 bithynian 3
 bridget 1
 brotuliform 1
-bespangled 2
+bespangled 3
 brougham 4
 betulin 1
 bpt 3
