@@ -1311,7 +1311,7 @@ caliban
 cunea 4
 calaverite
 caliber 3
-compulsatory 2
+compulsatory 3
 calibers 4
 colunar 2
 calibrated
@@ -7380,7 +7380,7 @@ cephalotaceae
 clunk
 chalaziferous 2
 cephalotaxus
-conventicles 1
+conventicles 2
 cephalothoraxes 2
 corozo 1
 chippering
@@ -8637,7 +8637,7 @@ chanterelle 1
 chondroseptum 1
 chanters 2
 cutters
-chantership
+chantership 1
 chanteur 2
 chanteuse
 cisrhenane
@@ -20924,7 +20924,7 @@ compresence
 compresent 1
 cai 1
 compress 1
-cambogia 3
+cambogia 4
 compressed 1
 colluctation
 circummeridional
