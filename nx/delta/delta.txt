@@ -3446,7 +3446,7 @@ defluent
 debyes
 disassociating 1
 doffed 2
-defluvium 1
+defluvium 2
 demimark 2
 dang 2
 defoamed 2
@@ -5198,7 +5198,7 @@ dogshore 3
 destructuralize 3
 denoting 3
 duplification 2
-deeping
+deeping 1
 dulcitol 2
 denouement 2
 denouements 1
