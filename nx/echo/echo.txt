@@ -60,7 +60,7 @@ extradomestic 2
 excuss
 estuarine 2
 empaneling 4
-earliest 3
+earliest 4
 enfilading 3
 eastness 5
 etiam 1
@@ -2858,7 +2858,7 @@ eleusinia 4
 explicantia 2
 emasculator 2
 eventognath 4
-eleutherian 4
+eleutherian 5
 epidemicalness 4
 eleutherios 5
 elytriferous 4
@@ -3088,7 +3088,7 @@ elliot 1
 educationable 2
 ellipsograph 1
 executiveness 1
-esemplastic 1
+esemplastic 2
 ellipticity 3
 evergreen
 extemporize
@@ -8054,7 +8054,7 @@ epiprecoracoid 2
 extrude 2
 elegant 1
 epipterous 1
-epipubis 1
+epipubis 2
 expostulations 1
 erminois 2
 esterifying 2
@@ -10493,7 +10493,7 @@ embouchure 3
 ettercap 3
 ettirone 1
 escalan 3
-equaller
+equaller 1
 ettle 6
 ecclesiolatry 2
 eucgia 5
