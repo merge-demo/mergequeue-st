@@ -6494,7 +6494,7 @@ endostosis 2
 ephyra 1
 exactly 2
 extratension 1
-entail
+entail 1
 entomophthora 4
 exponentials 3
 endurant 5
@@ -13681,7 +13681,7 @@ extenuates 3
 empicture 5
 endophyllum 2
 eerier 6
-estimative
+estimative 1
 eliminates 2
 enfurrow 1
 externalize 2
