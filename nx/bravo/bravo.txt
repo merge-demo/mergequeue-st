@@ -6992,7 +6992,7 @@ bleeders 1
 basilian 1
 besmouch 2
 bloodying 3
-bacteritic
+bacteritic 1
 besmudge 3
 beamless 2
 bronzite 1
@@ -11124,7 +11124,7 @@ brazing 1
 benzazine 3
 byard
 bourree
-basophobia 2
+basophobia 3
 becrimes 3
 bache 1
 bipedism 2
@@ -12247,7 +12247,7 @@ bookshelf 3
 boloism 2
 breakthrough
 byplays 2
-boutre 3
+boutre 4
 bolshevikian 1
 barrandite 1
 bogway 1
@@ -12472,7 +12472,7 @@ bawhorse 2
 bullyrock
 bondminder 1
 bookroom 3
-bioscientist
+bioscientist 1
 bawdrick 2
 bierbalk 4
 bondship 2
@@ -15373,7 +15373,7 @@ bilith 3
 briefcase 1
 barramunda 2
 bandylegged 4
-bradylalia 4
+bradylalia 5
 blisterwort 2
 bohorok 2
 brieflessly 1
@@ -16319,7 +16319,7 @@ boussingaultia 1
 brucellosis 2
 barely
 biolytic 3
-brucia
+brucia 1
 brucin 2
 brucine
 brucines 5
