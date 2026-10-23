@@ -2111,7 +2111,7 @@ bronchus 2
 bcf 3
 baldest 3
 blesses 3
-bannerols 1
+bannerols 2
 blackfly 1
 bannisters 1
 birthmarks 1
@@ -7628,7 +7628,7 @@ bullocks 1
 borne 4
 butanones 3
 bravade 4
-beziques
+beziques 1
 bestsellers 3
 beworries 1
 biophor 1
@@ -7748,7 +7748,7 @@ bhistie
 berake 1
 boldheartedness 4
 bhojpuri 1
-brim 2
+brim 3
 bhokra 2
 bonaventure
 bunglingly 2
@@ -15636,7 +15636,7 @@ blurriest 3
 bristliness 4
 backening 5
 bewigging
-braws
+braws 1
 bonairly 3
 britain
 brotany
