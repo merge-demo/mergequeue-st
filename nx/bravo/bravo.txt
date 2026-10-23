@@ -12472,7 +12472,7 @@ bawhorse 2
 bullyrock
 bondminder 1
 bookroom 3
-bioscientist
+bioscientist 1
 bawdrick 2
 bierbalk 4
 bondship 2
@@ -16319,7 +16319,7 @@ boussingaultia 1
 brucellosis 2
 barely
 biolytic 3
-brucia
+brucia 1
 brucin 2
 brucine
 brucines 5
