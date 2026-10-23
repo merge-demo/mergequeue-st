@@ -60,7 +60,7 @@ extradomestic 2
 excuss
 estuarine 2
 empaneling 4
-earliest 3
+earliest 4
 enfilading 3
 eastness 5
 etiam 1
@@ -799,7 +799,7 @@ exequies 4
 expulsed 2
 ectental 2
 eloigner 4
-ecthesis 3
+ecthesis 4
 emmers 1
 empyrean 2
 epispadias 2
@@ -4797,7 +4797,7 @@ emirs 1
 escapable 2
 exorciser 2
 encoder 3
-episcopable
+episcopable 1
 embryogenetic
 enshrining 3
 engraven 4
@@ -10493,7 +10493,7 @@ embouchure 3
 ettercap 3
 ettirone 1
 escalan 3
-equaller
+equaller 1
 ettle 6
 ecclesiolatry 2
 eucgia 5
@@ -13040,7 +13040,7 @@ exotropism 2
 elopement 2
 epopee 4
 endochondral
-espiegle 2
+espiegle 3
 embryonal 4
 ezba 4
 entastic 1
