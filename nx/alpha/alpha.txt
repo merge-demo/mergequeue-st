@@ -1642,7 +1642,7 @@ acemetic
 attouchement
 accoutre
 aminobenzamide 4
-agomphiasis
+agomphiasis 1
 accoutrement 3
 antozone 2
 angioclast 2
@@ -4501,7 +4501,7 @@ archbanc
 almain 2
 archimago 2
 argue 1
-advaita
+advaita 1
 advance 3
 antiphoner 1
 azurine
@@ -7525,7 +7525,7 @@ allure 1
 albumenizer
 albumenoid 1
 archtreasurer
-albumens 3
+albumens 4
 anotta 1
 albumimeter
 aftership 3
@@ -23665,7 +23665,7 @@ anapaests
 alumroots 4
 atpoints 2
 allotropicity 2
-antiexpressively
+antiexpressively 1
 alms 2
 aerosolized
 auriculare
