@@ -376,7 +376,7 @@ grf 2
 goodhumoredness 2
 gynobasic 4
 gelded 2
-galangin 2
+galangin 3
 grond 2
 golundauze 2
 gavot 1
@@ -742,7 +742,7 @@ gar 2
 goniometric 4
 greenshank 6
 gasted 1
-galvanology 2
+galvanology 3
 geomechanics 3
 gandurah 1
 gombeen 2
@@ -770,7 +770,7 @@ gawkily 2
 geometrically 2
 graywether 2
 glome 4
-gristmill 1
+gristmill 2
 gres 3
 galvanotherapy 3
 goods 4
@@ -2183,7 +2183,7 @@ giraffoid
 geoidal 2
 garmented 5
 gooseskin 3
-goaves 2
+goaves 3
 gemwork 1
 gastrolith
 gonoblastic
@@ -3431,7 +3431,7 @@ genoa 1
 goodyness 2
 glasgow 2
 gallophobia 5
-gourdlike 5
+gourdlike 6
 gallous 1
 gentling 4
 griefful 1
@@ -3532,7 +3532,7 @@ glossa 1
 gambolled 1
 goniaster 3
 gnomelike 1
-gloryingly 2
+gloryingly 3
 gregarinaria 1
 geopositive 2
 guidon 3
@@ -4843,7 +4843,7 @@ gethsemane 4
 glaieul 3
 geodal 4
 groveller 2
-geometrising 3
+geometrising 4
 glycerinize
 gliomata 3
 gorier 3
@@ -6960,12 +6960,12 @@ grasswidow 4
 garrigue 1
 garhwali 3
 groundsman 5
-geswarp 3
+geswarp 4
 grapevines 4
 gablewindowed 3
 goof 2
 gwantus 3
-goofah 1
+goofah 2
 greystone 3
 gebanga 1
 gauntries 1
@@ -9898,7 +9898,7 @@ greith 1
 gormandized 3
 grainsick 3
 glioma 2
-granulet 6
+granulet 7
 gallop 2
 galiots 6
 groundnut 3
