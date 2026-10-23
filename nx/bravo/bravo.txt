@@ -1137,7 +1137,7 @@ bromines 3
 bedimmed 1
 bluethroat 1
 bargestone 1
-breakwind
+breakwind 1
 burseraceae 5
 battercake 3
 bello 3
@@ -1332,7 +1332,7 @@ barbed 2
 balases 1
 balat 1
 belying
-basellaceous
+basellaceous 1
 balatron 2
 benzaldiphenyl 3
 boser 4
@@ -9152,7 +9152,7 @@ bletting 4
 banc 2
 beefburger 4
 bhaktas 3
-branchial 3
+branchial 4
 bubbybush 2
 ballyragged 3
 barotropy 1
@@ -10724,7 +10724,7 @@ bowhead 2
 blenheim 4
 bibl 2
 belap 3
-battering 1
+battering 2
 blennadenitis 3
 backsetting 1
 bullets 2
@@ -17184,7 +17184,7 @@ beetroot 3
 bullock 1
 brachialgia 1
 bullocker 1
-brachydodrome 2
+brachydodrome 3
 beduins 1
 blastulae 4
 brisque 1
