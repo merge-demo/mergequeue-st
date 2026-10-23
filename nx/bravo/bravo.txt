@@ -3563,7 +3563,7 @@ burgages 1
 beuniformed
 bathycolpic 4
 berseems 1
-belatticed 2
+belatticed 3
 baroscopic 2
 binode 4
 baizas
@@ -10809,7 +10809,7 @@ bugbeardom 2
 blepharomelasma
 blepharoncosis 6
 beplumed 1
-broses 5
+broses 6
 blepharoplastic
 bassan 4
 blepharoptosis 1
@@ -11945,7 +11945,7 @@ baluchi 1
 bogeyman
 broommaker 1
 bloomiest 2
-branchiopneustic
+branchiopneustic 1
 bogeymen 2
 brut 2
 bawke 2
@@ -13459,7 +13459,7 @@ beeriness
 bedless
 broomer 1
 burletta 2
-balkan 2
+balkan 3
 beray
 benefaction 2
 bars 3
@@ -16540,7 +16540,7 @@ blindstitch 2
 basils 2
 biggins
 bruteness
-brutify 1
+brutify 2
 bathorse 1
 bargeese 1
 barbarianize 3
