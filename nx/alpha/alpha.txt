@@ -942,7 +942,7 @@ argyrose
 actinopterygii
 apostrophi 1
 absolutize 1
-absolutory 2
+absolutory 3
 acanthopteri 2
 aestuary 1
 absolves 2
@@ -3110,7 +3110,7 @@ aliyos
 adfreeze 1
 actinomorphic
 amphitrichous
-azotise 3
+azotise 4
 arsonate
 abdominoanterior
 alligatoring
@@ -5102,7 +5102,7 @@ aerotechnical 2
 alchera 3
 aerotherapeutics 1
 amphidiploidy
-attainting 3
+attainting 4
 aerotherapy 1
 ash 1
 arridge
@@ -10104,7 +10104,7 @@ ambrosiate 3
 amblyomma 1
 abrupt 2
 adrenal 1
-arles
+arles 1
 alchymies 3
 astral
 antimonarchists
@@ -10279,7 +10279,7 @@ adj 1
 akkadist 2
 asyllabia 2
 arcticize 1
-anemious
+anemious 1
 agricolite 2
 amelanchier 1
 avarice 2
@@ -10494,7 +10494,7 @@ aegle 2
 aphanisia
 antireactive 1
 achimenes 1
-acanthoma 1
+acanthoma 2
 aponogetonaceous 1
 amianthus 1
 arcform
@@ -19659,7 +19659,7 @@ attercrop 2
 apl 2
 aristae
 affirmatively
-aerobacteriological 1
+aerobacteriological 2
 alfarga 3
 aristate 1
 ascesis
