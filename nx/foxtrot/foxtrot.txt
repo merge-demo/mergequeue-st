@@ -1194,7 +1194,7 @@ frontpiece 3
 foredoing 4
 frustrately 1
 forereport 2
-firmitude 1
+firmitude 2
 frigidity 2
 fenders 3
 flexural 2
@@ -2887,7 +2887,7 @@ foxship 2
 frisettes 6
 fogies 2
 formicarium 3
-footwear 3
+footwear 4
 frabjously 2
 foaled
 flowstone 4
@@ -3521,7 +3521,7 @@ foresting 3
 forestine
 frubbish 2
 femoropopliteal 4
-fodderless 3
+fodderless 4
 fly 2
 fissipalmation 2
 flexuoseness 6
@@ -3604,7 +3604,7 @@ flowcontrol 2
 flagitation 5
 fullymart 4
 frosting 1
-filially 7
+filially 8
 filiating 3
 flensers
 fragmentised 1
@@ -4283,7 +4283,7 @@ fibster 2
 fenland 4
 fungology 4
 feudaries 4
-firmarii 3
+firmarii 4
 furmeties 1
 flunkeys 3
 forrader 3
@@ -8966,7 +8966,7 @@ foundrymen 2
 flabellinerved 4
 fetichist 4
 fallency 2
-flneuse
+flneuse 1
 favorableness 4
 foundrous 3
 farhands 1
@@ -10850,10 +10850,10 @@ fulciment 4
 fs 3
 failures 5
 formicarioid 7
-fortescure
+fortescure 1
 fulcruming 3
 feeable 9
-fanatical 2
+fanatical 3
 fulfiller 5
 flambeaux 6
 fumose 8
