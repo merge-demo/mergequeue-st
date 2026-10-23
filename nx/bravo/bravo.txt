@@ -3160,7 +3160,7 @@ bronchography 4
 bleat 1
 briskly 3
 brachiating
-biphase 2
+biphase 3
 baseplug 3
 basepoint 2
 behavers 2
@@ -5811,7 +5811,7 @@ buckstone 3
 bellyache 2
 biremes 4
 butlerism 1
-bandstop 1
+bandstop 2
 bellyached
 bismethyl 1
 bellyacher 1
@@ -5972,7 +5972,7 @@ belvedere 4
 bluewood 1
 belvedered 3
 blueblossom 1
-bridaler 1
+bridaler 2
 benchwarmer
 barothermohygrogram 1
 bosslet 1
@@ -9329,7 +9329,7 @@ bayldonite 2
 bifolia 2
 bloviating 1
 beany 2
-bawdry 2
+bawdry 3
 bklr
 baldricked
 buzuki 2
@@ -13646,7 +13646,7 @@ buna 1
 bhoots 1
 blasphemes 1
 boundless 1
-bartizaned
+bartizaned 1
 bounds 4
 beggaress 1
 buttressless 2
@@ -14022,7 +14022,7 @@ bracciale 1
 boobyish 1
 brace 2
 bruke 1
-bipyridine
+bipyridine 1
 bemouth 4
 buy
 bracelet
