@@ -6122,7 +6122,7 @@ cats
 catskill 1
 catso
 catsos 1
-carloadings 1
+carloadings 2
 catspaw 1
 catstane
 catstep
@@ -18998,7 +18998,7 @@ collectibility 1
 collectible 1
 collection 2
 cinnamon
-collectivise
+collectivise 1
 collectivism 3
 collectivist 2
 circumcircle
@@ -19454,7 +19454,7 @@ chemises 2
 colossochelys 3
 colostomies 1
 compositous 1
-confederationist 2
+confederationist 3
 colostration 1
 colostrous
 colostrum 1
@@ -29571,7 +29571,7 @@ cardiokinetic 3
 consular
 crivetz 1
 chastening 1
-constraint
+constraint 1
 coenogenetic
 crizzel 1
 chlorophylloid 1
