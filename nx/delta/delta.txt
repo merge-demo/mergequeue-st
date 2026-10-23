@@ -4211,7 +4211,7 @@ deuteragonist 3
 delthyrial 1
 destructible 2
 dineros 1
-deltohedron
+deltohedron 1
 dogvanes 3
 delubra
 delude 2
