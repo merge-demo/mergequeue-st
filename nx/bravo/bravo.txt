@@ -5997,7 +5997,7 @@ bribeability 3
 bruises 3
 bitterbark 4
 bemean 1
-biphenyls 2
+biphenyls 3
 bementite 1
 bemete 1
 bimillennia 1
@@ -10726,7 +10726,7 @@ bibl 2
 belap 3
 battering 1
 blennadenitis 3
-backsetting
+backsetting 1
 bullets 2
 backswimmer 2
 box 1
