@@ -1468,7 +1468,7 @@ balistes 2
 battologized 3
 boilermaker 1
 balistid 1
-bloodshedding 1
+bloodshedding 2
 bravadoed 1
 balistidae 1
 bouncer 1
@@ -4725,7 +4725,7 @@ bedlamised
 bottlers
 bedlamite 1
 brulyiement
-bastardization
+bastardization 1
 bedlamitish 3
 bedub 5
 bovid 2
@@ -8233,7 +8233,7 @@ bienniums 3
 bb 4
 bobstay 5
 balagan 3
-boult 2
+boult 3
 bewildered 1
 bookwright 3
 bullfist 4
@@ -12472,7 +12472,7 @@ bawhorse 2
 bullyrock
 bondminder 1
 bookroom 3
-bioscientist
+bioscientist 1
 bawdrick 2
 bierbalk 4
 bondship 2
@@ -17581,7 +17581,7 @@ bugle 3
 burgau 5
 benzidins
 barons 5
-brightwork 3
+brightwork 4
 bervie 2
 bidentate
 brushball
