@@ -3111,7 +3111,7 @@ equiangularity 4
 epicalyces 2
 even 5
 epistolatory 3
-echinorhinidae 4
+echinorhinidae 5
 empresa 2
 entombed 4
 epitomised 2
@@ -6265,7 +6265,7 @@ electroengrave 1
 enrober 1
 enrive 3
 eyeholes 1
-enterogram 1
+enterogram 2
 epochist 2
 enrollee 2
 extraorbitally 5
@@ -7981,7 +7981,7 @@ euthenist 1
 equuleus 1
 ecliptic 3
 encoop 1
-electrodentistry
+electrodentistry 1
 epibasal
 ergs 2
 expilate 2
@@ -8707,7 +8707,7 @@ eluted 3
 epistolize 7
 euphemisms 2
 ethysulphuric 1
-embrowd
+embrowd 1
 equities 1
 equivalenced 3
 equivalent 5
@@ -11367,7 +11367,7 @@ epitrochlear 3
 evenfall 4
 ennerve
 electroscission 2
-eupnoeic 1
+eupnoeic 2
 enervative 3
 exhaustibility 3
 evaluating 2
