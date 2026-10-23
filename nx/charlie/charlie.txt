@@ -6080,7 +6080,7 @@ condescend 3
 cairds 1
 catlins 2
 craftsperson
-cryptoporticus
+cryptoporticus 1
 canephroi 1
 cantharidizing
 casuistical
@@ -10187,7 +10187,7 @@ chewinks 1
 chews 3
 ciceronians
 counterstatant
-crease 2
+crease 3
 chi 1
 codworm 1
 croisard 3
@@ -12128,7 +12128,7 @@ chroatol 2
 chows 1
 causer 1
 crambo 1
-chancellorate
+chancellorate 1
 cursiveness 1
 chowses 3
 chowtime
