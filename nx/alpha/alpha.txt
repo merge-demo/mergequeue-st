@@ -1441,7 +1441,7 @@ accepts
 attractants 5
 apellous 2
 aproned
-accessary
+accessary 1
 aquaria 1
 accessaries 2
 anesthesiometer 1
@@ -15033,7 +15033,7 @@ assishness 4
 amtmen 1
 arsoite 1
 anticreationism
-affettuoso 1
+affettuoso 2
 agriculturer
 anisaldoxime 1
 archmime 3
