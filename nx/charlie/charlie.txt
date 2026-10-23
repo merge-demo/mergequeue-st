@@ -3371,7 +3371,7 @@ caponized
 caponizer
 copyfitter 1
 caponizing 1
-caponniere 1
+caponniere 2
 caporal 2
 caporals
 condyle 1
@@ -3663,7 +3663,7 @@ clangor 1
 cinnamonroot 2
 caraganas
 crateful
-coronado
+coronado 1
 carageens
 chromatography
 caraibe
@@ -6425,7 +6425,7 @@ canard
 carbarns 5
 cautious
 cautiously 2
-conduciveness 1
+conduciveness 2
 colubrids 1
 cannoneers
 cloister 1
@@ -12801,7 +12801,7 @@ convertibleness 3
 chumps
 chums 1
 cruth 4
-concise
+concise 1
 chumship 1
 comdia 1
 chumships 1
@@ -21379,7 +21379,7 @@ callidness 2
 concionator
 coydog 2
 concionatory
-cothurni 2
+cothurni 3
 combfishes 1
 conciseness 1
 clocks 1
