@@ -2036,7 +2036,7 @@ encampments
 enthusiasm 5
 embalm 4
 enterocinesia 3
-elaphurus 2
+elaphurus 3
 eryx 2
 enology 1
 electrogalvanization 2
@@ -2375,7 +2375,7 @@ etherealisation 1
 excentricity 4
 ethnotechnics 2
 electrodeless 1
-ectogenetic
+ectogenetic 1
 energist 2
 electrodeposition 4
 ethiopic 4
@@ -2630,14 +2630,14 @@ electroresection 2
 epoptes 1
 expansion 2
 estadel
-eiry 3
+eiry 4
 exulting 2
 entad 3
 exemplarity 4
 epipodite 1
 ethnocentrism 3
 endodynamomorphic
-electrosmosis
+electrosmosis 1
 excelling 1
 exegetist
 enquiries 2
@@ -6414,7 +6414,7 @@ espousal 3
 expandibility 4
 ensnared 2
 edental 3
-evenmete 4
+evenmete 5
 euctical 2
 ectropionize 1
 eskars 1
@@ -9342,7 +9342,7 @@ exuviate 2
 expectedly 2
 earmindedness 3
 escalator
-excommunicable 2
+excommunicable 3
 ergonomics 1
 exacted 1
 escalated 8
@@ -12603,7 +12603,7 @@ echuca 1
 eating 3
 ecru 1
 epistolet 1
-epitheliomas 3
+epitheliomas 4
 eatableness 2
 embezzlement 3
 exochorion 4
