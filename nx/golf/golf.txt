@@ -1779,7 +1779,7 @@ genecology 3
 gulsach 2
 glycine 1
 gastrocolostomy 2
-gablatores 2
+gablatores 3
 gastrovascular 1
 gthite 2
 goala 6
@@ -1994,7 +1994,7 @@ galatae 1
 gentiledom
 goitrogenicity 3
 groof 3
-glacon
+glacon 1
 grusinian 4
 gel 1
 gelatiniform 3
@@ -6090,7 +6090,7 @@ gravities 3
 goodby 3
 gordiacean 5
 girja 3
-gigliato 4
+gigliato 5
 gardinol 2
 gallimaufry 4
 guanos 5
@@ -8576,7 +8576,7 @@ geodetical
 gusla 2
 gilo 4
 geonoma 4
-gravicembalos 2
+gravicembalos 3
 gamphrel 3
 gutsily 6
 gitim 5
@@ -10053,7 +10053,7 @@ gimmal 3
 gyneconitis 3
 grabens 4
 gumshoed 8
-gonomere 3
+gonomere 4
 gorgerin 4
 gonk 2
 gigabits 5
