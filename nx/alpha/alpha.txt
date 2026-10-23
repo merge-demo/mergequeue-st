@@ -3740,7 +3740,7 @@ anachoret
 alimenting 1
 attempre 1
 adenotomic 1
-adenous
+adenous 1
 autocarpic 1
 adeona 1
 attenuative 1
@@ -4069,7 +4069,7 @@ accessioning 1
 acetaldehyde 1
 anitinstitutionalism 2
 aeschylus
-apprise 1
+apprise 2
 athodyd 2
 antacids 1
 anastomus
@@ -4277,7 +4277,7 @@ affy 2
 argentation
 assiduity
 automorph 1
-arouser 3
+arouser 4
 astichous 1
 astore 1
 ados 2
@@ -5120,7 +5120,7 @@ allantois 1
 aeruginous 1
 aerugo 1
 aes
-autosepticemia 2
+autosepticemia 3
 aeschynomenous
 aesculaceous
 alliancer 1
@@ -7640,7 +7640,7 @@ achondrite 2
 antifertilizer 2
 auxographic 1
 alcestis 2
-ammonolyze 3
+ammonolyze 4
 asop 2
 antisteapsin 1
 atrocity
@@ -8344,7 +8344,7 @@ archiepiscopacy 2
 alight 2
 adipopectic 1
 anomoeanism
-aligned 2
+aligned 3
 atropamine
 archived 1
 aligning 1
@@ -9037,7 +9037,7 @@ angelon
 allineate 1
 aktivist
 annulata 1
-akoluthia 1
+akoluthia 2
 algebraized 1
 aminobenzine 2
 allotments 2
@@ -9420,7 +9420,7 @@ appointive 2
 aud 1
 axillars
 alpinesque
-anthocerotaceae 2
+anthocerotaceae 3
 alpinia
 anthraquinol
 annularity
@@ -10104,7 +10104,7 @@ ambrosiate 3
 amblyomma 1
 abrupt 2
 adrenal 1
-arles
+arles 1
 alchymies 3
 astral
 antimonarchists
@@ -12711,7 +12711,7 @@ angarias 1
 abanet 3
 aeronomist 1
 arpeggiation
-annus 1
+annus 2
 arcticward 3
 angareb 1
 angel 1
@@ -19659,7 +19659,7 @@ attercrop 2
 apl 2
 aristae
 affirmatively
-aerobacteriological 1
+aerobacteriological 2
 alfarga 3
 aristate 1
 ascesis
