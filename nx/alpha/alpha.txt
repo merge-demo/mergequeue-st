@@ -3110,7 +3110,7 @@ aliyos
 adfreeze 1
 actinomorphic
 amphitrichous
-azotise 3
+azotise 4
 arsonate
 abdominoanterior
 alligatoring
@@ -10279,7 +10279,7 @@ adj 1
 akkadist 2
 asyllabia 2
 arcticize 1
-anemious
+anemious 1
 agricolite 2
 amelanchier 1
 avarice 2
@@ -10494,7 +10494,7 @@ aegle 2
 aphanisia
 antireactive 1
 achimenes 1
-acanthoma 1
+acanthoma 2
 aponogetonaceous 1
 amianthus 1
 arcform
