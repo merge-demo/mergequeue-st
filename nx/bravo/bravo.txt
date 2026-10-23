@@ -939,7 +939,7 @@ bdellotomy 1
 bagpipers
 bandyball 1
 bardiglio 2
-bismarine 2
+bismarine 3
 boscage 2
 berryless 1
 bivinyl
@@ -1120,7 +1120,7 @@ bypassed 1
 bransolder
 bromius 4
 barless 3
-baseless 3
+baseless 4
 bryophyte 2
 buxine 2
 bladish 2
@@ -3041,7 +3041,7 @@ bimetalic 2
 backfilled
 belee
 beckons 1
-brimmers 4
+brimmers 5
 brushpopper
 beachhead 2
 bartonella 2
@@ -3219,7 +3219,7 @@ basidigital 1
 bouteselle 2
 balneological 3
 bangwaketsi 2
-breadth
+breadth 1
 ballerinas
 baclava 2
 bravish
@@ -5083,7 +5083,7 @@ befilmed 1
 befilth 2
 bathoses 1
 befire
-befist 2
+befist 3
 benevolently 3
 boomerangs 2
 braised 2
@@ -5728,7 +5728,7 @@ believers 2
 benzotetrazine
 beamful
 blankite 5
-budge 2
+budge 3
 believingly 3
 brerd 3
 burials 2
@@ -13338,7 +13338,7 @@ beetlestone 3
 badmen 1
 bauld
 botchedly
-broilers
+broilers 1
 bichord
 bukat 3
 benadryl 1
@@ -14167,7 +14167,7 @@ brattiness 3
 brachyuran 1
 bollox 1
 bezant 2
-blatjang 1
+blatjang 2
 bracingly
 bayed
 brushability 6
@@ -16052,7 +16052,7 @@ belucki
 begall 1
 benzaldoxime
 babe
-bronchotracheal 1
+bronchotracheal 2
 bozos 1
 bespectacled 3
 barograms
