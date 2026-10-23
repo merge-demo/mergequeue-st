@@ -23665,7 +23665,7 @@ anapaests
 alumroots 4
 atpoints 2
 allotropicity 2
-antiexpressively
+antiexpressively 1
 alms 2
 aerosolized
 auriculare
