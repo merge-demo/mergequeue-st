@@ -1170,7 +1170,7 @@ ensweep 4
 educational 1
 estipulate 1
 exultancy 2
-ekoi 1
+ekoi 2
 estimation 1
 eroded 3
 elenge 2
@@ -2445,7 +2445,7 @@ ejulation 2
 epidemiologies
 educates 4
 engladden 2
-elean 4
+elean 5
 emerges 2
 eches 1
 equivalence 4
@@ -4797,7 +4797,7 @@ emirs 1
 escapable 2
 exorciser 2
 encoder 3
-episcopable
+episcopable 1
 embryogenetic
 enshrining 3
 engraven 4
@@ -12568,7 +12568,7 @@ esonarthex 1
 enameler 1
 electrofusion 1
 enchained 2
-extant 5
+extant 6
 epistemological 4
 embezzle 2
 exit 2
@@ -14042,7 +14042,7 @@ epitrophic 5
 exr 4
 enthrallingly 2
 enteroclisis 3
-extractorship 3
+extractorship 4
 extrasterile 4
 extrastomachal 4
 ethmolith 1
