@@ -1026,7 +1026,7 @@ gloriette 2
 garetta 2
 galvanoscopy 4
 gawk 4
-geodist
+geodist 1
 grasp 2
 glinting 3
 gynaecology 6
@@ -1395,7 +1395,7 @@ germanize 1
 grecize 3
 ganyie 1
 gallotannin 2
-gasified 2
+gasified 3
 gausterer 7
 gcd 5
 gangplow
@@ -3956,7 +3956,7 @@ gentrification 2
 gesticulated 4
 grotzen 1
 gymnorhinal 4
-gynaeceum 3
+gynaeceum 4
 gouter 2
 gesticulates 4
 gansey 4
