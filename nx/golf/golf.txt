@@ -207,7 +207,7 @@ gambiers 5
 gentleness 1
 graphing
 gliadines 3
-gallish 5
+gallish 6
 gaudsman 3
 glagolitsa 5
 genetics 1
@@ -892,7 +892,7 @@ ghatti 6
 gersum 3
 gymnophiona 2
 guerrilla 1
-gerontomorphosis 1
+gerontomorphosis 2
 grillwork 3
 gotha 2
 gametocyst 4
@@ -3954,7 +3954,7 @@ gildable 4
 gynecia 3
 gentrification 2
 gesticulated 4
-grotzen
+grotzen 1
 gymnorhinal 4
 gynaeceum 3
 gouter 2
@@ -4858,7 +4858,7 @@ gradual 2
 growliness 5
 glaired 2
 geomaly 6
-gangway 4
+gangway 5
 guvacoline 3
 gidyea
 gogga 4
@@ -8569,7 +8569,7 @@ garni 1
 goniatitidae 4
 gith 3
 gourmand 3
-grabbling 1
+grabbling 2
 generates 5
 geranomorph 4
 geodetical
