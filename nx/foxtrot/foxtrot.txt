@@ -6722,7 +6722,7 @@ frescoists
 fighters 9
 feast 1
 fellowships 5
-forelegs 4
+forelegs 5
 fogon 3
 fogproof 3
 forstand 4
@@ -11551,7 +11551,7 @@ freebee 4
 frugging 3
 fumaroid 3
 fabling 1
-fictionize 2
+fictionize 3
 fards 2
 floeberg 3
 fledgy 5
