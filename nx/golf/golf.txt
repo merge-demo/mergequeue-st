@@ -6414,7 +6414,7 @@ glossotherium 4
 gobiesocid 4
 gabardine 2
 gymnocladus 5
-grows
+grows 1
 geegaws 5
 gilders 4
 gocart
@@ -8936,7 +8936,7 @@ gobang 2
 grete 5
 grainage 5
 ganglier 6
-giddies 6
+giddies 7
 geoducks 3
 gemming 4
 ghess 2
