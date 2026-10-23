@@ -2267,7 +2267,7 @@ fastigated 3
 ficoid 2
 facemaker 2
 facaded 4
-florentinism 3
+florentinism 4
 fimble 3
 flatulence 2
 firebombed 4
@@ -2887,7 +2887,7 @@ foxship 2
 frisettes 6
 fogies 2
 formicarium 3
-footwear 4
+footwear 5
 frabjously 2
 foaled
 flowstone 4
@@ -2944,7 +2944,7 @@ furloughs 1
 fungological 4
 froths 4
 fevered 2
-flitchen 2
+flitchen 3
 franklinian 4
 feveret 5
 fibroelastic 2
@@ -3689,7 +3689,7 @@ firesider 1
 franchisal 2
 flannelboard
 folder 4
-fillable
+fillable 1
 frownless 1
 flavorlessness 3
 featherers 5
@@ -7213,7 +7213,7 @@ fortnight 2
 falseheartedly 1
 fustily 5
 figury 3
-footlockers
+footlockers 1
 frolicks 4
 flathe 2
 flaccid 2
@@ -10020,7 +10020,7 @@ fishy 2
 fragment 2
 forcers 2
 frigolabile 4
-feloniousness 5
+feloniousness 6
 frigoric 2
 foun 2
 futureless 1
@@ -10752,7 +10752,7 @@ foreyear 5
 follyer 2
 fructified 5
 fascistize 1
-filagree 6
+filagree 7
 fringelike 1
 faenus 5
 flam 1
