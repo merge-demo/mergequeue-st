@@ -1125,7 +1125,7 @@ bryophyte 2
 buxine 2
 bladish 2
 bordermark 2
-biggah 3
+biggah 4
 bunches
 bioscience
 brownback 2
@@ -4725,7 +4725,7 @@ bedlamised
 bottlers
 bedlamite 1
 brulyiement
-bastardization
+bastardization 1
 bedlamitish 3
 bedub 5
 bovid 2
@@ -4927,7 +4927,7 @@ bonnne
 brevets 1
 beefburgers 2
 backchat 1
-beefeater
+beefeater 1
 beefeaters 1
 baclin 2
 barkentines 2
@@ -5806,7 +5806,7 @@ bimetallism 3
 berengelite 1
 bonasa 1
 bellhouse 2
-belli 2
+belli 3
 buckstone 3
 bellyache 2
 biremes 4
@@ -12280,7 +12280,7 @@ boltheading 3
 beslimed 1
 boltlike 1
 blindling 2
-beaupers 3
+beaupers 4
 bothy 1
 boltmaker
 bunga
@@ -13334,7 +13334,7 @@ blooie 1
 buchloe
 beeswings 2
 birdyback
-beetlestone 2
+beetlestone 3
 badmen 1
 bauld
 botchedly
@@ -17912,7 +17912,7 @@ bushy 1
 barton 2
 badly
 bushidos 1
-bractless
+bractless 1
 basichromiole 1
 bibliopegist
 broadaxes 2
