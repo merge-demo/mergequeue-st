@@ -8300,7 +8300,7 @@ chalklike
 chalkline
 columnated 1
 chalkone
-chalkos 2
+chalkos 3
 chalkotheke 1
 chalkpit 1
 chalkrail 2
@@ -19136,7 +19136,7 @@ cateress
 collocated 1
 cord 1
 crystallographer 2
-cauked 1
+cauked 2
 cartomancy
 collocating
 chkfile 3
