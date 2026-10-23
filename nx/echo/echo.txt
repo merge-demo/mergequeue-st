@@ -4114,7 +4114,7 @@ episepalous 3
 employability
 electrovalence 3
 employe
-estado 1
+estado 2
 etamin 3
 epigene
 empestic 2
@@ -4855,7 +4855,7 @@ evolves 5
 eyednesses
 enterocoelic 3
 exsanguination 1
-effatum
+effatum 1
 electrodialysis 6
 endable 4
 endamagement 1
@@ -5516,7 +5516,7 @@ epicardial 1
 enfilade 3
 experimentations 3
 excriminate 5
-extraovular 1
+extraovular 2
 extracurricular 6
 enfilades 2
 escutcheoned 3
@@ -6085,7 +6085,7 @@ epithalamiast 5
 entremets 2
 enlive 5
 emboly 1
-exceed 3
+exceed 4
 exossate 2
 epizoisms 3
 explida 1
@@ -11899,7 +11899,7 @@ enomoty
 excels 4
 eosophobia 4
 eternizes 1
-excelsior 4
+excelsior 5
 eventfulness 3
 earthily
 emotivism 2
