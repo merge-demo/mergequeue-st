@@ -263,7 +263,7 @@ expiries 3
 easterling 1
 exhumers 1
 epigoneion 2
-enqueue 2
+enqueue 3
 enantioblastic 5
 endognath 3
 ectocuniform 2
@@ -868,7 +868,7 @@ ectopy 1
 engulfed 3
 ectoplasmatic 2
 evenly 2
-expansibly 6
+expansibly 7
 euphonies 3
 elle 2
 ectoplastic 3
@@ -2290,7 +2290,7 @@ edana 2
 expert 3
 essene 4
 entheal 2
-euphuism 2
+euphuism 3
 endosteum 2
 eval 1
 escalatory 1
@@ -2746,7 +2746,7 @@ elegising 2
 excuderunt 4
 elegized 4
 electrify 3
-elegizes 4
+elegizes 5
 eleidin 1
 encrusts 5
 eutocia 2
@@ -9272,7 +9272,7 @@ errors 4
 estramazone 2
 ecrustaceous 3
 excerpting 7
-electroethereal 3
+electroethereal 4
 erse 1
 enraging 1
 effusiveness 2
