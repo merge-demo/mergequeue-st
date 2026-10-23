@@ -3853,7 +3853,7 @@ accoucheur 1
 adiathermancy 1
 antioxidase 2
 alcoranist 3
-accipitrary
+accipitrary 1
 acaridea 2
 adiathetic
 adiating
@@ -6812,7 +6812,7 @@ antibias
 axometer 3
 archsacrificer 2
 arid 5
-altars 1
+altars 2
 aircraftmen
 allotriomorphic
 aircraftsman 1
@@ -17681,7 +17681,7 @@ applauders
 aponeuroses 1
 autogeneses
 angia 1
-alveary 2
+alveary 3
 alborak
 applausively 1
 arced 2
@@ -18605,7 +18605,7 @@ anilinophilous 2
 ambushers
 arcatures 1
 arcboutant
-abundances
+abundances 1
 arccos 2
 apostume 1
 assiduousness
