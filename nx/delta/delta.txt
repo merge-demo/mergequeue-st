@@ -4870,7 +4870,7 @@ disluster
 densitometers 4
 demonomist 2
 draisene 1
-demonopolize 5
+demonopolize 6
 defervescence
 demonry 1
 detractory 2
@@ -12796,7 +12796,7 @@ declension 1
 diathermancy
 doubty 3
 diffusiometer 4
-dismail
+dismail 1
 democratising 1
 dismal 2
 duit 3
