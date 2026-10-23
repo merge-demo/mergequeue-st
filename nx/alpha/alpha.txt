@@ -801,7 +801,7 @@ asyle 2
 acetate 1
 autostrada 2
 abridgable
-anticlassicalist 2
+anticlassicalist 3
 anisotropical 2
 antiscia 3
 aphanesite
@@ -1790,7 +1790,7 @@ annerre 1
 armouring
 aground 2
 adelaster 1
-ametropic
+ametropic 1
 armpit 1
 accustomedly 2
 accustomizing 1
@@ -1981,7 +1981,7 @@ aversive 1
 anamirtin 1
 ammonization
 airflows 1
-aviso 1
+aviso 2
 acetylizer
 anterofrontal
 assmannshauser
@@ -4119,7 +4119,7 @@ areometric 2
 admit
 allowanced 2
 anisosthenic 1
-aldrin 1
+aldrin 2
 admits 4
 admitted 2
 agitpunkt 1
@@ -4385,7 +4385,7 @@ annodated 2
 acantha
 adsheart 2
 awa 3
-anthropophagit 1
+anthropophagit 2
 asprawl
 agazed 1
 az 2
@@ -10276,7 +10276,7 @@ ameiva 2
 ascidiae 2
 amel 1
 adj 1
-akkadist 1
+akkadist 2
 asyllabia 2
 arcticize 1
 anemious
@@ -18466,7 +18466,7 @@ autolesion 2
 aviates 2
 anthragallol 3
 aquincubital
-avern 2
+avern 3
 arbitrager
 arbitragers 4
 atinga 1
@@ -18897,7 +18897,7 @@ alights 2
 assemblers 3
 abomasa 2
 ardrigh 1
-archiepiscopal 2
+archiepiscopal 3
 automatons 2
 actification
 abridge
@@ -20508,7 +20508,7 @@ aerophilatelic 1
 arteriometer 1
 arteriomotor 1
 antiasthmatic
-arterioplasty 1
+arterioplasty 2
 arteriorenal 1
 accentless
 adelia
@@ -22801,7 +22801,7 @@ atlantosaurus 3
 atlases 1
 aguara 2
 annulling 2
-apropos
+apropos 1
 atloid 3
 atloidean 1
 arousals 1
@@ -24582,7 +24582,7 @@ attitudinise 2
 abamperes 4
 auxology 2
 ammonea 3
-argentarius 2
+argentarius 3
 anachorism 5
 auxotonic 2
 annihilator
@@ -24959,7 +24959,7 @@ awater 1
 allophite 2
 abfarad 2
 arachis
-awave 2
+awave 3
 atilt
 aldine 3
 arroyo
