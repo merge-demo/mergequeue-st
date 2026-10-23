@@ -140,7 +140,7 @@ cabiric 1
 cataclysm
 cable 1
 cablecast 1
-cardiolith 1
+cardiolith 2
 catholici 1
 crudes 1
 cabled
@@ -2785,7 +2785,7 @@ cannibalization 1
 cannibalized 2
 chimps 1
 colleagueship
-cluttering 1
+cluttering 2
 cannibalizing 1
 coelomes 1
 counterstrike 2
@@ -8712,7 +8712,7 @@ coccolithophorid 1
 chapellany
 cachinate 2
 chapelled 1
-cimnel 2
+cimnel 3
 conciliation 1
 carditic
 cobnut 1
@@ -16031,7 +16031,7 @@ cuculiform
 cotypes 1
 clablaria 2
 computative
-clevises
+clevises 1
 clew
 chaldaical 2
 countercurrent 2
@@ -27703,7 +27703,7 @@ copsole 1
 circumdate 2
 crassier 1
 cowitch
-coercionist
+coercionist 1
 corrigendum 1
 cadaveric
 cycloplegia 2
@@ -30251,7 +30251,7 @@ cruets 1
 controllers
 cruises 2
 cruising
-cruive 1
+cruive 2
 cruller 3
 chubbedness 1
 conglobately
