@@ -575,7 +575,7 @@ floorless 4
 fellon 5
 foreknows 4
 forpet 2
-fossilisation 1
+fossilisation 2
 fulk 4
 forints 3
 feasted 2
@@ -3793,7 +3793,7 @@ flyflap 1
 freon 1
 ferritization 3
 frizzliest 2
-flanning 2
+flanning 3
 fistulate 4
 frijolillo 2
 filigreeing 3
@@ -3934,7 +3934,7 @@ flemish 5
 frailejon 4
 fluoranthene 3
 forgoing 1
-foresummon 1
+foresummon 2
 fendered 4
 farls 4
 fullest 3
@@ -9472,7 +9472,7 @@ foodstuff 6
 foreteeth 3
 frary 6
 flouriness 6
-frolicly 1
+frolicly 2
 forlore 3
 fulsomeness 3
 fenman
@@ -9934,7 +9934,7 @@ frontager 2
 furilic 1
 frozenly 5
 flamingo 2
-fibropericarditis 3
+fibropericarditis 4
 feverless 5
 filibusters 1
 fastuously 2
