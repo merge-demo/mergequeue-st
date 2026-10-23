@@ -1975,7 +1975,7 @@ bagnio 1
 balances 1
 bandstring
 bathymetric 4
-brandishes
+brandishes 1
 bigeye 6
 believes 1
 bosquets 3
@@ -6044,7 +6044,7 @@ blephariglottis 3
 buttstrap 2
 blacktail 2
 bemuddlement 1
-bemuddles 3
+bemuddles 4
 bemuddling 2
 bacteremia
 bemurmur 3
@@ -9044,7 +9044,7 @@ bionomies 2
 brawest
 beckie 2
 booky 3
-biopsychology 2
+biopsychology 3
 bidental 4
 bespeaker 1
 bringal 1
@@ -11846,7 +11846,7 @@ bulrushlike 2
 bootlegging
 banking 5
 bodybuilding
-budgerigar 3
+budgerigar 4
 bodice 4
 blankly 1
 brushlike 2
