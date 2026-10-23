@@ -3594,7 +3594,7 @@ adduces 1
 auricles 2
 adducible 3
 ampelideous
-artiodactylous 2
+artiodactylous 3
 adducted 2
 adducting 3
 aides
@@ -7011,7 +7011,7 @@ aminoplast 1
 avocationally 1
 atokal 2
 aedilities 1
-acetanisidine
+acetanisidine 1
 apedom
 antineutrally 3
 accipitral 1
@@ -14542,7 +14542,7 @@ anthropol 2
 anthropolatry 2
 antigraphy 1
 askesis 1
-anthropolatric 2
+anthropolatric 3
 anthropolite 2
 anthropology 2
 apostrophised 1
@@ -16526,7 +16526,7 @@ arecaceous 1
 athyridae 4
 aortal 1
 aortarctia 4
-aortas 3
+aortas 4
 avogadro 2
 aegagri 3
 antheral 3
