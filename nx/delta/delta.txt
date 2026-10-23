@@ -436,7 +436,7 @@ dairous
 dais 3
 defog 2
 disinthrall 5
-disposal 2
+disposal 3
 drenchers 1
 dimyaric 3
 diathermous 2
@@ -1905,7 +1905,7 @@ debout
 deervetch 3
 donging 2
 denticulated 2
-deciare 5
+deciare 6
 delicateness 2
 debowel 1
 depravity 3
@@ -3562,7 +3562,7 @@ dissociative
 degage 3
 degames 3
 deganglionate 1
-discomedusoid 2
+discomedusoid 3
 dystome 3
 degasify 1
 deringa 1
@@ -7915,7 +7915,7 @@ dewrot 3
 durban 1
 dramaticule 2
 devilries 3
-distilery 4
+distilery 5
 dowitch 1
 didapper 3
 demur 2
@@ -10567,7 +10567,7 @@ dirges 1
 doxographical 4
 dittology 4
 displants 1
-dolorimeter
+dolorimeter 1
 documented 4
 decoctible 5
 diploidic 2
@@ -17163,7 +17163,7 @@ disconcertedly 1
 dislocated 1
 defiladed
 dharana
-diffusibility
+diffusibility 1
 divagations 1
 debentureholder 5
 dipodies 1
@@ -18087,7 +18087,7 @@ dambrod 2
 dulling
 dermestoid 1
 derail 1
-divisionist 1
+divisionist 2
 disturbing 3
 desiccates 2
 disship 5
