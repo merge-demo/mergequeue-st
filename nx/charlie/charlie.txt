@@ -8919,7 +8919,7 @@ combmaker
 charge 1
 chargeable
 ciphertext 1
-clements
+clements 1
 chargeably
 chargeant
 charged
