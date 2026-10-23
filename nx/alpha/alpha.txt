@@ -3594,7 +3594,7 @@ adduces 1
 auricles 2
 adducible 3
 ampelideous
-artiodactylous 2
+artiodactylous 3
 adducted 2
 adducting 3
 aides
@@ -5390,7 +5390,7 @@ affranchise 1
 adiadokokinesi 1
 affret 1
 acanthous 1
-aptotic 2
+aptotic 3
 agnosticism 2
 agglutinable 1
 affriended 2
@@ -7011,7 +7011,7 @@ aminoplast 1
 avocationally 1
 atokal 2
 aedilities 1
-acetanisidine
+acetanisidine 1
 apedom
 antineutrally 3
 accipitral 1
@@ -9729,7 +9729,7 @@ alvearium 4
 alveolariform 1
 alveolate
 afterdrops 1
-anarchical
+anarchical 1
 alveole 1
 alveolectomy
 alveoli 1
@@ -14542,7 +14542,7 @@ anthropol 2
 anthropolatry 2
 antigraphy 1
 askesis 1
-anthropolatric 2
+anthropolatric 3
 anthropolite 2
 anthropology 2
 apostrophised 1
@@ -16526,7 +16526,7 @@ arecaceous 1
 athyridae 4
 aortal 1
 aortarctia 4
-aortas 3
+aortas 4
 avogadro 2
 aegagri 3
 antheral 3
@@ -23064,7 +23064,7 @@ arpeggiated
 antiparabema
 anoints
 attacus 3
-amygdalaceae 1
+amygdalaceae 2
 attaghan 2
 acquirenda
 acuchi 1
