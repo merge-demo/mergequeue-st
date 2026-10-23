@@ -1567,7 +1567,7 @@ dices 2
 dyssodia 1
 deadfalls 1
 deviler 3
-dim 5
+dim 6
 denominant
 dictyoid 1
 deadheartedly 4
@@ -4497,7 +4497,7 @@ dorsilumbar 1
 devocation 1
 drabbled
 demigroat
-dotier
+dotier 1
 demihagbut 2
 demihaque 1
 demijambe 2
@@ -10430,7 +10430,7 @@ disinterring 3
 diphenyls
 dispowder 2
 doglegging 3
-disfigurative 3
+disfigurative 4
 deticking 1
 diphenoxylate 1
 diphysite 1
