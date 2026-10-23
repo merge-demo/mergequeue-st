@@ -2559,7 +2559,7 @@ cacqueteuse 1
 candlenut 1
 candlepins 2
 cerevis
-candler
+candler 1
 cryogeny 1
 candlerent
 concealed
@@ -5412,7 +5412,7 @@ chrysanthemin
 casteth 2
 crossbench 1
 castice
-castigable 1
+castigable 2
 confederates 1
 coxiest 1
 castigate 1
@@ -6480,7 +6480,7 @@ cycadlike 3
 caveator
 choaty
 caveators
-chiroptera 1
+chiroptera 2
 compares
 crankly 2
 canell
@@ -9241,7 +9241,7 @@ cenanthous 2
 conceptualists
 chatted 1
 chattelhood 3
-cacks
+cacks 1
 constructiveness
 chattelism 1
 consanguinities 1
@@ -21135,7 +21135,7 @@ concatenated 1
 ceride
 concatenates
 coequating 1
-concatenator
+concatenator 1
 concatervate
 catechizes 2
 concause
