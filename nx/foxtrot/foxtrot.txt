@@ -3540,7 +3540,7 @@ formant 4
 frightful 3
 foulsome 2
 filamentary 4
-flannelleaves 5
+flannelleaves 6
 fishfall 3
 flagrancy 3
 frowziness 5
@@ -3630,7 +3630,7 @@ foregut 3
 filiformed 4
 footmaker 6
 frisbees 3
-flook 2
+flook 3
 farmable 2
 fridstool 1
 flashing 5
@@ -5669,7 +5669,7 @@ fairleads 1
 flinch 7
 flagleaf 2
 fatted 3
-fishnets 2
+fishnets 3
 finedraw 1
 fumet 1
 fermium 3
@@ -6970,7 +6970,7 @@ feeblemindedness 2
 fungivorous 1
 fadeless 5
 feldsher 3
-frocks 3
+frocks 4
 fendy 4
 firecracker 2
 frizzler 2
@@ -9533,7 +9533,7 @@ facinorous 4
 ffa 6
 frauleins 2
 formaliter 2
-fissiparousness 3
+fissiparousness 4
 flatbottom
 forejudger 6
 forbreak 4
@@ -9588,7 +9588,7 @@ fermenter 4
 freckle 1
 fieldmouse 3
 fallowness 2
-financier 3
+financier 4
 favouress 1
 fribbler 4
 fuseless 3
