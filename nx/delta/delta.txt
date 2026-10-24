@@ -5515,7 +5515,7 @@ depancreatize 3
 drawrod 1
 drainermen 2
 deoxygenized 1
-demicolumn
+demicolumn 1
 diffusionism
 disproven 1
 detd
@@ -16708,7 +16708,7 @@ drakelet 4
 decaspermous 4
 drugging 2
 dramatically 2
-decemvirs 2
+decemvirs 3
 dantophilist 1
 dowelled 2
 dramaticle 2
