@@ -1245,7 +1245,7 @@ enmanche
 eelfare 1
 encrinite
 emperors 2
-enrobe 1
+enrobe 2
 ecclesiarch 4
 equalness 4
 eclated 3
@@ -2701,7 +2701,7 @@ entosphenoid 1
 electrotypy 2
 enolase 2
 earwigged 4
-eightyfold 2
+eightyfold 3
 eolith
 esquamulose 1
 evaporated 2
@@ -3702,7 +3702,7 @@ embryophore 1
 educations 2
 electrogenesis 4
 elements
-embryos 1
+embryos 2
 encuirassed 2
 esthesioblast
 embryotega 3
@@ -13889,7 +13889,7 @@ equivocation 3
 evaporize
 ethionic 6
 ellasar
-extractability 1
+extractability 2
 echinoderidae 1
 eluated 3
 enmities 2
