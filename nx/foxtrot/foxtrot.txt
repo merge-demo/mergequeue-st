@@ -3633,7 +3633,7 @@ frisbees 3
 flook 3
 farmable 2
 fridstool 1
-flashing 5
+flashing 6
 faintishness 1
 fielder 6
 floatsman 2
