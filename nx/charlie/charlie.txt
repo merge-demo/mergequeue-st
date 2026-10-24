@@ -15690,7 +15690,7 @@ chirres
 clavy 2
 clavicembalist
 clavicembalo
-claviceps
+claviceps 1
 caiarara 2
 cartage
 clavichord
