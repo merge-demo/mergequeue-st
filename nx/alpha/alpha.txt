@@ -1407,7 +1407,7 @@ antistimulant 2
 amintor 1
 acceptance 2
 axisymmetrical
-absorbent
+absorbent 1
 achylia 3
 abevacuation
 aguish
@@ -4869,7 +4869,7 @@ allotypy
 allophylic 3
 awedly 2
 agsam 1
-authenticatable 1
+authenticatable 2
 archlute 3
 antemeridian 1
 aeroboat 2
