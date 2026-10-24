@@ -2395,7 +2395,7 @@ dimercuric 2
 decyl 3
 deciles 5
 dorsiparous 1
-deciliter
+deciliter 1
 druidry 4
 destituent 4
 doodads 5
@@ -4790,7 +4790,7 @@ diseases 4
 daneworts
 dermatome 2
 dialkylic
-demon 3
+demon 4
 dyspepsia 2
 delightsomely 3
 demonetise 1
@@ -4887,7 +4887,7 @@ dreamage 3
 devilwise 2
 dacrycystalgia
 dynastic 3
-depositum
+depositum 1
 discriminability 2
 demonstrations 1
 doctrinary 1
@@ -6727,7 +6727,7 @@ disacidify 3
 dilaceration 1
 designatum 4
 designedly
-designedness
+designedness 1
 diaper
 delibate 5
 designment 2
@@ -8643,7 +8643,7 @@ diffused 1
 dactylus 1
 dato 1
 doomlike 1
-delfs 4
+delfs 5
 diascope 3
 domed 2
 distracted 1
@@ -10251,7 +10251,7 @@ dioceses 4
 disenjoy 3
 dites 1
 drakestone 1
-dismettled 4
+dismettled 5
 dowed 1
 doggonedest 2
 discocephalous 2
@@ -11996,7 +11996,7 @@ dogmatically 1
 duckfoot 3
 dromaeus 1
 daverdy
-dae 4
+dae 5
 deliveries 1
 diadelphic 1
 defail 2
@@ -14089,7 +14089,7 @@ dittoed 6
 diprismatic 2
 distributor 1
 dermal 1
-doggess
+doggess 1
 distributorship
 demythify 1
 distributress 2
@@ -16841,7 +16841,7 @@ dey 3
 demurely 5
 decurtate 1
 disallowances
-decapitable 2
+decapitable 3
 dissuited 1
 drawgate 4
 dividers
@@ -17306,7 +17306,7 @@ druidology 1
 diademing 2
 drolleries 6
 darogah 3
-drollest 2
+drollest 3
 decine 2
 dischase 1
 demilion 2
