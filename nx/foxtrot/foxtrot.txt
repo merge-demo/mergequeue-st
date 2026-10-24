@@ -237,7 +237,7 @@ fodder 1
 forspend
 fidgets 5
 fluviation 2
-forwhy
+forwhy 1
 founder 5
 feoffeeship 3
 firedamp 4
@@ -3032,7 +3032,7 @@ firemanship 6
 feoffers 3
 footwears 4
 forpass 2
-feldspathoid 4
+feldspathoid 5
 frostflower 1
 frenchen 5
 fissioned
@@ -5187,7 +5187,7 @@ filamentar 1
 francolin 2
 frozenhearted 6
 fedifragous 1
-furmente 5
+furmente 6
 frontozygomatic 2
 furial 1
 furfurous 1
@@ -7283,7 +7283,7 @@ figuring 4
 fiants 4
 freshment
 fibrilations 3
-fossilism 2
+fossilism 3
 filefish 4
 frache 6
 fenestral 3
