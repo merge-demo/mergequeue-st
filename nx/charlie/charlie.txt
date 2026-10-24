@@ -2614,7 +2614,7 @@ cardioschisis 1
 cementmaking
 canebrakes 2
 cephalodynia 2
-cowskins 2
+cowskins 3
 counterdisengage 1
 cryptocrystallization
 columnar
@@ -7958,7 +7958,7 @@ crystalliform
 clottedness 1
 chablis 2
 coelarium
-crannog
+crannog 1
 chabouk 1
 crankshaft 1
 chabuk 1
@@ -10129,7 +10129,7 @@ chevalier 1
 centeredness 1
 cystencyte
 chevaliers 3
-chippewa
+chippewa 1
 categorizers 2
 compagnie 2
 chevener
@@ -22400,7 +22400,7 @@ coni 1
 conia 1
 cosmogonal
 conic 1
-conical 1
+conical 2
 cataloguish 1
 corrupable 1
 conicality 1
@@ -26721,7 +26721,7 @@ cloisters
 counterassociation
 cammock
 careering
-counterattack 1
+counterattack 2
 centetid 2
 colonels
 capellane 2
@@ -31664,7 +31664,7 @@ cushaws
 consumed
 cochurchwarden
 civies 2
-cushy 1
+cushy 2
 cyclarthrodial
 casked 1
 clears 2
