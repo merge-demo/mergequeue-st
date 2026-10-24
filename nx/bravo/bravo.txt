@@ -2204,7 +2204,7 @@ boundness 3
 beeyard 3
 bickiron
 baptizer 1
-bobsledder 2
+bobsledder 3
 baptizing 3
 burelle 2
 bess 3
@@ -3939,7 +3939,7 @@ borsholder 3
 bchs 2
 ballotage 2
 bd 1
-boracium 2
+boracium 3
 buttonholes 5
 butternose 1
 bdellium
@@ -12575,7 +12575,7 @@ balsam 2
 boroughlet 1
 bragi 3
 barndoor 1
-bemocks
+bemocks 1
 bardane 3
 bonk 1
 boterol 3
@@ -13298,7 +13298,7 @@ bowge 3
 becater 1
 briquettes
 botany 1
-bilboquet 1
+bilboquet 2
 berakes 1
 birdmen 3
 blennies 1
@@ -18406,7 +18406,7 @@ benzoins 3
 beflecking
 bvt 4
 berginize 2
-bowfins 3
+bowfins 4
 bagwash 3
 buttonweed 2
 bwanas 2
