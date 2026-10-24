@@ -11572,7 +11572,7 @@ chold 1
 cholecyanine 2
 couchee 3
 cholecystectasia 1
-cholecystectomy
+cholecystectomy 1
 cueball
 chimachima 1
 countermeasure 1
