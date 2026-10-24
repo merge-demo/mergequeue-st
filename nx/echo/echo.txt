@@ -104,7 +104,7 @@ exegesis 1
 equiperiodic 5
 enmarble 1
 earreach 1
-engineership
+engineership 1
 extraught 2
 ecphoria 1
 enamoured 2
@@ -506,7 +506,7 @@ emphyteusis 2
 echelle 2
 exhibitant 2
 electrosurgeries 3
-extraphenomenal 1
+extraphenomenal 2
 estate 6
 entosphenal 2
 echeneidae 5
@@ -6166,7 +6166,7 @@ espionage 4
 entocondyloid 3
 elision
 endanger 3
-ennoblement
+ennoblement 1
 euryhaline 1
 ennobling 4
 embarren 2
@@ -7408,7 +7408,7 @@ eigne 2
 extrafocal 5
 equianchorate
 electronographic
-eyess 2
+eyess 3
 extracivically
 ephetae 4
 effulged 2
@@ -9690,7 +9690,7 @@ envapor 4
 essayed 3
 extraorganismal 1
 empathize 1
-embacle 3
+embacle 4
 exocarps 2
 empeirema 2
 eldred
@@ -11952,7 +11952,7 @@ excessively 2
 ecole 2
 espousals 1
 endamebas 1
-exchanges 6
+exchanges 7
 electrotherapist 1
 exalter 2
 exocataphoria 3

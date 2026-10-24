@@ -4216,7 +4216,7 @@ anticrotalic 3
 adjag 1
 apoapsis 2
 armorers 3
-acetoxyls
+acetoxyls 1
 anabaptistically 3
 amalgamatize
 amalgamable
@@ -4380,7 +4380,7 @@ amortizing 1
 anterevolutionary
 acarida 1
 adscititious 2
-adscriptitious 1
+adscriptitious 2
 annodated 2
 acantha
 adsheart 2
@@ -5533,7 +5533,7 @@ apological 1
 almoning
 acentric
 aftercrop 3
-acanthodian 2
+acanthodian 3
 affrontment 2
 afterdays 2
 antifoam
@@ -7975,7 +7975,7 @@ alerce 1
 alerse
 agglutinates
 alerta
-anorak
+anorak 1
 annually
 adp 2
 alerters 1
@@ -12544,7 +12544,7 @@ anemias 1
 azines 1
 academian 1
 adelarthrosomata 2
-ablates 1
+ablates 2
 anemic
 anemically
 anemobiagraph 2
