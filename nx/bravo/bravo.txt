@@ -4771,7 +4771,7 @@ bedrails 1
 binnacle
 bedral 1
 boltwork 2
-bedraping 2
+bedraping 3
 bedread 1
 bedrench 2
 baldling 4
@@ -5997,7 +5997,7 @@ bribeability 3
 bruises 3
 bitterbark 4
 bemean 1
-biphenyls 3
+biphenyls 4
 bementite 1
 bemete 1
 bimillennia 1
@@ -6329,7 +6329,7 @@ billbroking 2
 barrer 4
 butment
 baratte 2
-barristress 1
+barristress 2
 benzanthracene 2
 boxboard 4
 bestowed 2
@@ -10845,7 +10845,7 @@ bletilla 4
 brutalities 3
 blets 1
 bonhomme 3
-brancardier 1
+brancardier 2
 bonism 2
 bodilessness 1
 bds 1
@@ -11783,7 +11783,7 @@ becoom 3
 benevolentness 4
 biopyribole 2
 besmoothed
-burmannia 1
+burmannia 2
 barnful 2
 blitzed 3
 becloaking
@@ -13392,7 +13392,7 @@ blasted
 backshift 2
 bothrenchyma 2
 bluenoses 4
-billsticker 2
+billsticker 3
 bandage 1
 benjamite 5
 bothriocephalus 5
@@ -13842,7 +13842,7 @@ backrests 1
 bowerbird 3
 blindness 2
 binominal
-bidential
+bidential 1
 beehive 1
 bowerlet 2
 begins 4
@@ -16336,7 +16336,7 @@ bossing 2
 bifurcal 2
 bubonoceze 2
 brachyuranic 2
-bihari 3
+bihari 4
 basson
 butterfingered 2
 backwash 1
