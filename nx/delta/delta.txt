@@ -9413,7 +9413,7 @@ dowerless 2
 dredge 2
 dismountable
 diffusions
-diffusive 2
+diffusive 3
 diffusors
 dalan 2
 dentolingual 1
