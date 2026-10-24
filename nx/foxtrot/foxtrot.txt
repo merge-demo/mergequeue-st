@@ -3894,7 +3894,7 @@ footslogged 5
 febriferous 3
 fluidextract 2
 findable 2
-fruz 4
+fruz 5
 familiarize
 function 1
 findhorn 1
@@ -8735,7 +8735,7 @@ frankhearted 2
 favoress 2
 flattens 4
 feteless 5
-fame 1
+fame 2
 faciendum 2
 forgive 4
 forecatching 3
