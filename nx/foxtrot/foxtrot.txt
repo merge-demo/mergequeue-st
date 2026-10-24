@@ -734,7 +734,7 @@ flurries 2
 fulminate 1
 faraday 3
 fluxibility 8
-fibrilliferous 3
+fibrilliferous 4
 footbreadth 2
 fanatism 1
 fabricating 3
@@ -3633,7 +3633,7 @@ frisbees 3
 flook 2
 farmable 2
 fridstool 1
-flashing 5
+flashing 6
 faintishness 1
 fielder 6
 floatsman 2
@@ -6967,7 +6967,7 @@ fostership 2
 flusherman 5
 follily 2
 feeblemindedness 2
-fungivorous 1
+fungivorous 2
 fadeless 5
 feldsher 3
 frocks 3
@@ -9533,7 +9533,7 @@ facinorous 4
 ffa 6
 frauleins 2
 formaliter 2
-fissiparousness 3
+fissiparousness 4
 flatbottom
 forejudger 6
 forbreak 4
@@ -10240,7 +10240,7 @@ fibra 2
 frankheartedly 3
 filite 2
 floated 2
-footnote 2
+footnote 3
 froggies 1
 finale 3
 froggish 1
