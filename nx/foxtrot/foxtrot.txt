@@ -3280,7 +3280,7 @@ fieldpieces 4
 feudovassalism 6
 forefeet 1
 fungilliform 3
-fole 2
+fole 3
 filopodium 5
 fiddlestick 2
 foolishness 6
@@ -3822,7 +3822,7 @@ frogland 4
 filtermen 3
 fanhouse 4
 forcefully 1
-futtermassel 3
+futtermassel 4
 foundationer 2
 freckleproof 1
 femerell 4
@@ -5386,7 +5386,7 @@ fudges 2
 farinaceous 1
 furole
 flambe 1
-forecounsel 2
+forecounsel 3
 flyswat 2
 feridji 2
 figuration 4
@@ -8664,7 +8664,7 @@ fuzzed 5
 fluence 5
 finnochio 4
 functionate 3
-fingerfishes 6
+fingerfishes 7
 fulcrumed 6
 ferryage 4
 faddishly 5
