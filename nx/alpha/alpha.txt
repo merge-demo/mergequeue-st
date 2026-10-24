@@ -1147,7 +1147,7 @@ allegros 2
 abwab
 anthropomorph 1
 aureateness 2
-affixt 1
+affixt 2
 anguliferous 1
 acacatechol 1
 acacia
@@ -10048,7 +10048,7 @@ ambients
 ambigenal 1
 abounded 1
 arboreal 2
-appel
+appel 1
 arousing 2
 ambigu 4
 anorthitite 1
@@ -11522,7 +11522,7 @@ acrinyl
 aporrhea 1
 antiphilosophism
 acaulose
-adenophore 2
+adenophore 3
 appetites 2
 algoristic 2
 alderman
@@ -18703,7 +18703,7 @@ archarchitect
 anterin 4
 accusably
 addlebrain 4
-autocephality
+autocephality 1
 archbishopry 1
 airmail
 archbishopric 2
