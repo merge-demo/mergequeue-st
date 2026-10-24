@@ -2555,7 +2555,7 @@ besnare 1
 bs 3
 bilamellar 5
 boerdom 4
-brackishness 2
+brackishness 3
 begster 1
 birk 1
 backlists 1
@@ -3913,7 +3913,7 @@ bishophood 1
 bedlamp 2
 bifidated
 breadline
-baxtone 1
+baxtone 2
 brachyskelic 3
 boughten 2
 begray 2
@@ -4712,7 +4712,7 @@ bedims 3
 basiophitic 1
 birdbrain 2
 brownier 4
-bedizen
+bedizen 1
 boubas 2
 beekmantown 2
 bedkey 1
@@ -5067,7 +5067,7 @@ bewith
 befeather 3
 becoming 2
 beeswax 2
-bodger
+bodger 1
 biloculine 1
 beferned 1
 befetished 1
@@ -6942,7 +6942,7 @@ beshrews
 bebrine 3
 beshrivel 1
 beshroud 2
-brachiostrophosis 2
+brachiostrophosis 3
 bigmitt 1
 borlase 1
 bundook 2
@@ -7316,7 +7316,7 @@ bessy 1
 bigotish 3
 bethankit
 bethel
-brehon 1
+brehon 2
 blunter 1
 backage 4
 boletaceous 1
@@ -7796,7 +7796,7 @@ bellum 2
 birchman 4
 baluchitheria 5
 berserk 3
-biangulous 2
+biangulous 3
 biannually 1
 bhagavata 2
 biarchy
@@ -9398,7 +9398,7 @@ boondocker 1
 bonser
 brimse 3
 basidial 1
-boastless 2
+boastless 3
 basocyte 2
 buriti
 baronetship 2
