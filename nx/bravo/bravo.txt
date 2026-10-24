@@ -11523,7 +11523,7 @@ bispore
 bethwack 4
 bombload 3
 blumes
-benighting
+benighting 1
 blunderbusses
 bowed 1
 boundure 2
