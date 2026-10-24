@@ -3794,7 +3794,7 @@ civilist 1
 carbazole
 carbeen 1
 cantorian 1
-carbide 1
+carbide 2
 classicize 4
 carbyl
 catchy 1
@@ -6301,7 +6301,7 @@ caulocarpic 2
 caulomic 2
 caulosarc
 caulotaxis
-cauls
+cauls 1
 cauma 1
 condolences
 caunch
@@ -8466,7 +8466,7 @@ champignons
 culett 2
 caveat
 carle
-contrabassoonist
+contrabassoonist 1
 champine 1
 champing
 cryohydric
@@ -9270,7 +9270,7 @@ chattery 2
 chattermag 1
 caprification 2
 chattermagging
-convertible 4
+convertible 5
 chatters 1
 chatti
 carbohydrates 4
@@ -10201,7 +10201,7 @@ chiapanec 3
 chlorochrous
 compurgatory 1
 carps
-chamomilla
+chamomilla 1
 chorisepalous 3
 consternate
 chiarooscuro 1
@@ -12630,7 +12630,7 @@ chronoscopic 3
 chronoscopically 2
 cheesier 1
 catechisation 1
-columnize
+columnize 1
 cyperaceous 1
 chronothermal 1
 chronotropic 1
@@ -14035,7 +14035,7 @@ cratemaking 2
 cervicovaginal
 cyprid 3
 cyprididae
-cypridina 1
+cypridina 2
 caucasoid
 contraregular
 cyprinid 3
@@ -15966,7 +15966,7 @@ ceder
 castrato 1
 clerihews 1
 consence 1
-clerisies
+clerisies 1
 crimsoning 3
 certifiably 4
 carryovers 3
@@ -16540,7 +16540,7 @@ chancering 2
 clammish 1
 cloisonn
 cloisonne
-convival
+convival 1
 carrigeen 1
 cloisonnism 1
 cockaded 1
@@ -17382,7 +17382,7 @@ coatrooms 3
 coattend 3
 coattending 1
 conductivities 1
-cineangiocardiographic 1
+cineangiocardiographic 2
 coattestator
 coattested 2
 coattesting
@@ -17589,7 +17589,7 @@ cougnar 2
 coccin
 canyonside 1
 contractive 2
-contemporariness 4
+contemporariness 5
 coccyodynia 1
 coccionella 2
 cephalothoracopagus 1
@@ -19683,7 +19683,7 @@ coquilla 2
 camarilla 1
 copintank
 catogene 2
-canadianisms 1
+canadianisms 2
 compendiousness
 claptrap 1
 chemisorption
@@ -19985,7 +19985,7 @@ cyclopaedically 1
 canfieldite 3
 canoodled 2
 commandos 3
-colove 1
+colove 2
 cheery 1
 commandry 1
 cachinnated 2
@@ -21450,7 +21450,7 @@ concocted 1
 caseweed
 concocter 2
 counteraddress
-concoctions
+concoctions 1
 cornerpiece
 conspectuity
 calcination 1
@@ -22521,7 +22521,7 @@ conjugality 2
 cv 2
 conjugatae
 cyprinine 3
-conduplicated 1
+conduplicated 2
 conjugationally 3
 conjugations 2
 conjugator 1
@@ -23210,7 +23210,7 @@ cubbyhole
 constraints 1
 confervaceous
 cardioscope
-constrict 2
+constrict 3
 claudio 2
 castors 1
 chocard 4
@@ -30457,7 +30457,7 @@ ctenidial 1
 ctenidium 2
 commiserating 2
 cosmopolitical 2
-clownishly
+clownishly 1
 ctenizid 1
 concinnate 1
 colloquist
@@ -30891,7 +30891,7 @@ cresoxide 1
 cultches 2
 cultellation 1
 cultellus
-culter 2
+culter 3
 coastward 3
 culti 1
 cultic
