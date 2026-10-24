@@ -5515,7 +5515,7 @@ depancreatize 3
 drawrod 1
 drainermen 2
 deoxygenized 1
-demicolumn
+demicolumn 1
 diffusionism
 disproven 1
 detd
