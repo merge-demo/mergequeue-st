@@ -1545,7 +1545,7 @@ celialgia 3
 callionymidae
 coachers
 conductility 1
-crookkneed
+crookkneed 1
 clepe
 calliope
 coacervating 1
@@ -4112,7 +4112,7 @@ cardiectasis 1
 compileable
 chamoisette 1
 cardiectomize 1
-cardielcosis 2
+cardielcosis 3
 cushiest
 camelishness 2
 copydesks
@@ -16868,7 +16868,7 @@ chiccory 2
 coexists 1
 crosswort 1
 clubroom 2
-casebooks 2
+casebooks 3
 clubroots 1
 clubs
 clubstart
@@ -17456,7 +17456,7 @@ cobblerism 1
 cobblers 1
 cobblership 1
 cobbles
-cobblestone 3
+cobblestone 4
 clepsydras 1
 cobblestoned
 chokeweed
@@ -18164,7 +18164,7 @@ coerciveness 2
 coercivity
 coerebidae
 coerected 3
-coerecting 1
+coerecting 2
 coeruleolactite 2
 cohost 2
 cancerin
