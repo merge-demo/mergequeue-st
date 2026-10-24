@@ -1387,7 +1387,7 @@ accelerators 2
 amlet 1
 aumbries 1
 accelerometer
-accelerometers
+accelerometers 1
 anticatholic 1
 anapaestical
 anticnemion 4
