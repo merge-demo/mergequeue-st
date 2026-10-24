@@ -2245,7 +2245,7 @@ electress
 excessive 4
 epitomist 6
 electret 2
-electrets 5
+electrets 6
 exploitive 3
 enciente
 eyn
@@ -4201,7 +4201,7 @@ evagination
 emotionalize 5
 elytrigerous 3
 extrathecal 1
-emprizes 2
+emprizes 3
 epicycloid 1
 erubescite 6
 eduction 1
@@ -4834,7 +4834,7 @@ empoisons
 electrocatalysis 1
 ebulliometer 4
 exoperidium 3
-endoderm 2
+endoderm 3
 enculturation 3
 ergatandromorph 4
 epispastic 1
@@ -4854,7 +4854,7 @@ encumbrous 2
 evolves 5
 eyednesses
 enterocoelic 3
-exsanguination 1
+exsanguination 2
 effatum 1
 electrodialysis 6
 endable 4
@@ -11294,7 +11294,7 @@ eschewal 2
 exterrestrial 1
 evaporability 1
 emanating 1
-enwrapped 1
+enwrapped 2
 ectoplasy 3
 extraversive 3
 eutaxy 1
