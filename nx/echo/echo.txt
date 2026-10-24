@@ -12551,7 +12551,7 @@ enneacontahedron 4
 exoskeleton 4
 equicohesive 4
 exist 3
-elucidating
+elucidating 1
 esne 1
 enumerably 2
 emmets 2
