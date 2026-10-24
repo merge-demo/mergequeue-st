@@ -3794,7 +3794,7 @@ civilist 1
 carbazole
 carbeen 1
 cantorian 1
-carbide 1
+carbide 2
 classicize 4
 carbyl
 catchy 1
@@ -6301,7 +6301,7 @@ caulocarpic 2
 caulomic 2
 caulosarc
 caulotaxis
-cauls
+cauls 1
 cauma 1
 condolences
 caunch
@@ -8466,7 +8466,7 @@ champignons
 culett 2
 caveat
 carle
-contrabassoonist
+contrabassoonist 1
 champine 1
 champing
 cryohydric
@@ -10201,7 +10201,7 @@ chiapanec 3
 chlorochrous
 compurgatory 1
 carps
-chamomilla
+chamomilla 1
 chorisepalous 3
 consternate
 chiarooscuro 1
@@ -21450,7 +21450,7 @@ concocted 1
 caseweed
 concocter 2
 counteraddress
-concoctions
+concoctions 1
 cornerpiece
 conspectuity
 calcination 1
@@ -30891,7 +30891,7 @@ cresoxide 1
 cultches 2
 cultellation 1
 cultellus
-culter 2
+culter 3
 coastward 3
 culti 1
 cultic
