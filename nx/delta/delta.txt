@@ -1641,7 +1641,7 @@ didymia 2
 deisin 1
 deliverable 1
 difficulty 2
-daylong 2
+daylong 3
 dimetrodon 2
 deodate 2
 delaminate 3
@@ -10785,7 +10785,7 @@ dwarflike 2
 demoralizingly 4
 directly
 deviscerate
-dispartment
+dispartment 1
 dixies 3
 dissave 1
 discolorate 3
@@ -12260,7 +12260,7 @@ doorbrand 2
 detoxifying 3
 dappleness
 decousu
-decrete 1
+decrete 2
 disgrading 4
 driblet 3
 denitration 3
