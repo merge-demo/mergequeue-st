@@ -104,7 +104,7 @@ exegesis 1
 equiperiodic 5
 enmarble 1
 earreach 1
-engineership
+engineership 1
 extraught 2
 ecphoria 1
 enamoured 2
@@ -232,7 +232,7 @@ easel 2
 eumerism 3
 espresso 1
 executrix 2
-exhumer 2
+exhumer 3
 elate 1
 elaborative 4
 easer 1
@@ -3126,7 +3126,7 @@ elodes 1
 exhalation 1
 ethanol 1
 eloge 1
-eventognathous 4
+eventognathous 5
 elogy 2
 exhorting 6
 elogium 2
@@ -4296,7 +4296,7 @@ expulsive 5
 expansibleness 1
 enactor 3
 epigrammatize 6
-entoproct 3
+entoproct 4
 eloquence 3
 exclaustration 2
 enamelist 3
@@ -7408,7 +7408,7 @@ eigne 2
 extrafocal 5
 equianchorate
 electronographic
-eyess 2
+eyess 3
 extracivically
 ephetae 4
 effulged 2
@@ -9690,7 +9690,7 @@ envapor 4
 essayed 3
 extraorganismal 1
 empathize 1
-embacle 3
+embacle 4
 exocarps 2
 empeirema 2
 eldred

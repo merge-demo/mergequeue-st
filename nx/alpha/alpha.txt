@@ -2599,7 +2599,7 @@ acopon 1
 atrabiliar 1
 antichrome 1
 acor
-angelophanic 1
+angelophanic 2
 acorea 1
 atomistic 2
 aecidia
@@ -4216,7 +4216,7 @@ anticrotalic 3
 adjag 1
 apoapsis 2
 armorers 3
-acetoxyls
+acetoxyls 1
 anabaptistically 3
 amalgamatize
 amalgamable
@@ -4380,7 +4380,7 @@ amortizing 1
 anterevolutionary
 acarida 1
 adscititious 2
-adscriptitious 1
+adscriptitious 2
 annodated 2
 acantha
 adsheart 2
@@ -11491,7 +11491,7 @@ amt 2
 alushtite 3
 amtman 2
 amtracks
-antiblackism
+antiblackism 1
 alephs 3
 ausonian
 ateeter 1
@@ -12544,7 +12544,7 @@ anemias 1
 azines 1
 academian 1
 adelarthrosomata 2
-ablates 1
+ablates 2
 anemic
 anemically
 anemobiagraph 2
