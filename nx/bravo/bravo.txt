@@ -1576,7 +1576,7 @@ balldom 1
 bodyweight 1
 balled 3
 bandikai 3
-batterer 2
+batterer 3
 blauboks 1
 beclowning 2
 ballerina 2
@@ -2545,7 +2545,7 @@ bemused 2
 burmite
 brillolette 1
 bronchostenosis 1
-bereaving
+bereaving 1
 barye 1
 burglarise
 barcolongo 1
@@ -2901,7 +2901,7 @@ beclatter 4
 bestride 3
 boxlike
 braked 1
-badinage 1
+badinage 2
 barrater
 barratries
 blabbermouth 2
@@ -10770,7 +10770,7 @@ bolectioned 1
 brassie 3
 beavered 4
 boody 2
-bibulus 4
+bibulus 5
 biorhythmic 1
 bronchomotor 1
 bleo 2
