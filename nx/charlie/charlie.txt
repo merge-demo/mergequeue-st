@@ -5098,7 +5098,7 @@ cotans 1
 cellepora 1
 canaliform
 crowsteps 2
-chlamydomonadaceae
+chlamydomonadaceae 1
 casavi
 cascabel 2
 cesspipe 2
@@ -7432,7 +7432,7 @@ checkmates
 cartesianism
 culilawan 1
 cerated 1
-containment
+containment 1
 cerates 3
 chitting
 ceratiasis 3
@@ -10309,7 +10309,7 @@ chartographist 2
 chickenberry
 counterpole 1
 citoyens
-cypriote 1
+cypriote 2
 chickenbill 1
 chickenbreasted 1
 chickened
@@ -11267,7 +11267,7 @@ chlorinator 1
 chlorines 1
 chicote 1
 counterion
-chlorite
+chlorite 1
 coenures 1
 chloritic 1
 carlie 2
@@ -15043,7 +15043,7 @@ comprador
 civitas 2
 caumatic 1
 civite
-caridomorpha
+caridomorpha 1
 chinchasuyu
 corrida 3
 civory
@@ -20543,7 +20543,7 @@ compatriots
 compd 3
 contritely 1
 cusparia 2
-carnose 1
+carnose 2
 codon 4
 crapon 1
 commistion 1
@@ -27313,7 +27313,7 @@ czarowitch
 circumlocutionary 1
 couping 1
 couple 1
-couplement
+couplement 1
 couples
 carling 1
 cleric 1
@@ -28196,7 +28196,7 @@ cobblerfish 2
 caesar 1
 crannel
 crannequin 1
-crannia 2
+crannia 3
 colliquefaction 1
 crannied
 crannies 2
@@ -31188,7 +31188,7 @@ clerklike 3
 countervengeance
 commulation
 corantos 2
-communities 3
+communities 4
 cloudling 1
 cuprene 2
 cupreous
