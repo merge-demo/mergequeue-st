@@ -3380,7 +3380,7 @@ boondock 1
 byordinary
 basophilic 2
 basques 3
-bass 2
+bass 3
 brans
 basiphobia 1
 besilver
@@ -5201,7 +5201,7 @@ bachelry
 beleed 4
 behoove 4
 blennocele
-befringe
+befringe 1
 branchiata
 befringes 1
 befringing
@@ -7980,7 +7980,7 @@ baphia 3
 birthdays 2
 bicched 3
 bribegiving 1
-bicentric
+bicentric 1
 bardier 1
 bum 2
 beauteousness
