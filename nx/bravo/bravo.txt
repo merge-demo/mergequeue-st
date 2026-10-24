@@ -1809,7 +1809,7 @@ bosuns
 bamboozles
 bamboozling 2
 bilanders 1
-brachman 3
+brachman 4
 burdie 1
 bamboula 2
 banterer 1
@@ -3551,7 +3551,7 @@ brookites 1
 blackroot 3
 bathed 4
 bathes 2
-backslidden
+backslidden 1
 bicondylar 4
 baryons 1
 becudgel 1
@@ -7750,7 +7750,7 @@ boldheartedness 4
 bhojpuri 1
 brim 3
 bhokra 2
-bonaventure
+bonaventure 1
 bunglingly 2
 bustee 2
 bingey 1
@@ -10690,7 +10690,7 @@ bleck 1
 bewhistle 2
 bodhi 4
 bethreaten
-bestowage 1
+bestowage 2
 bleeped 2
 bleeps 2
 bleacheries 1
@@ -12270,7 +12270,7 @@ briefless 3
 byssiferous 2
 bolt
 boltage 4
-bluestockings 1
+bluestockings 2
 biasses 3
 blenders
 boltcutter 2
@@ -14363,7 +14363,7 @@ bumf 1
 brahmin 3
 behowl 1
 boxkeeper 3
-brahminists 3
+brahminists 4
 brahmoism
 brahmsian 2
 barbicanage
