@@ -3810,7 +3810,7 @@ carbodynamite
 carbohemoglobin 1
 calamodendron 2
 cribbling 1
-carbohydrase 2
+carbohydrase 3
 cannibalism 4
 cardioncus
 carbohydrate
@@ -5528,7 +5528,7 @@ catachresis 1
 catachrestic 1
 chalices
 condemner 1
-catachthonic 1
+catachthonic 2
 consummation
 cataclastic 1
 cataclinal 2
