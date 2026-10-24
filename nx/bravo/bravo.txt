@@ -11873,7 +11873,7 @@ bodysurfer 4
 bodywear 1
 benthopelagic 1
 blueprints 1
-buteos 3
+buteos 4
 bodyworks 1
 bodkin 2
 bodkins 1
@@ -13139,7 +13139,7 @@ bovids 1
 bornite 3
 baksheesh 1
 bemuck 1
-bestirs
+bestirs 1
 bornites 1
 bornitic 1
 berob 1
@@ -13521,7 +13521,7 @@ bigamistic 2
 beseek 2
 boondoggle
 bullydom 4
-boneyards 4
+boneyards 5
 botulisms 1
 brief 3
 brodequin 3
