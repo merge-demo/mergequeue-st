@@ -1073,7 +1073,7 @@ angiohemophilia 1
 asimina 2
 abt 5
 autoschediasm 1
-archreactionary
+archreactionary 1
 aphelion 3
 abthainrie 3
 abuilding
@@ -1687,7 +1687,7 @@ attribute 2
 actualities 4
 accrued 2
 accruement 2
-accruer 1
+accruer 2
 anatta
 adiabatic 2
 accrues
@@ -6030,7 +6030,7 @@ arthredema 4
 attended
 aclys 1
 aggrievance
-axweed 2
+axweed 3
 agatize
 actinotherapeutics 1
 aggrieve 2
@@ -22509,7 +22509,7 @@ atacamenan 1
 ataigal
 ataiyal 1
 ataman 3
-assiniboin
+assiniboin 1
 aberrate
 alw
 arranging 2
