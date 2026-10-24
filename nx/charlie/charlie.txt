@@ -18250,7 +18250,7 @@ classico 1
 coffeepots 2
 colloidize
 coffeeroom
-coffees 2
+coffees 3
 counterview
 continuant
 coffer
@@ -30301,7 +30301,7 @@ cycad
 closest 1
 clamberer 1
 crunch
-confused 2
+confused 3
 compute 1
 calcular 2
 citronellic 2
