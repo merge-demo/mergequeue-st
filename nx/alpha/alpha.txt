@@ -1387,7 +1387,7 @@ accelerators 2
 amlet 1
 aumbries 1
 accelerometer
-accelerometers
+accelerometers 1
 anticatholic 1
 anapaestical
 anticnemion 4
@@ -15058,7 +15058,7 @@ anticrisis 1
 anticritic 1
 anaglyptics 2
 anticritical 2
-archantagonist 3
+archantagonist 4
 astrose 1
 anasarcas
 afrormosia 1

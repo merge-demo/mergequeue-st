@@ -5159,7 +5159,7 @@ deathly
 diaheliotropic 4
 detruncating 1
 defluous 1
-devoid
+devoid 1
 denitrifier 1
 denizenation 1
 diquats
@@ -5421,7 +5421,7 @@ dep 1
 deorganization 4
 decolouriser 2
 doubtfully 4
-documentarian 3
+documentarian 4
 deregister
 demulsifier 2
 donation 2
@@ -11442,7 +11442,7 @@ disaccharid 1
 discoideae 2
 despatchers 4
 debriding 4
-devisings
+devisings 1
 decencies 3
 dionysiacal
 discoloration 1
