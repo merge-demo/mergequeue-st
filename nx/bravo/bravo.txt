@@ -1009,7 +1009,7 @@ becompliment 1
 brogueful 4
 burnous
 boat
-bayamos
+bayamos 1
 brigand 3
 bayano 3
 birlie 1
@@ -2871,7 +2871,7 @@ bellmouth 1
 buddage 2
 brushed 1
 barrage 3
-barnmen
+barnmen 1
 banger 2
 brushland 1
 barraging 1
@@ -7677,7 +7677,7 @@ bilk 1
 brahmany 2
 boe 1
 blackflies 2
-biocenotic 3
+biocenotic 4
 bezils 2
 boyardom 2
 babished 2
@@ -8369,7 +8369,7 @@ baryphony 3
 beveto 1
 bankside 1
 bauhinia 4
-breathingly
+breathingly 1
 biserially
 buzukis 2
 beatster 3
@@ -8894,7 +8894,7 @@ basket
 branchiopodan 2
 belialist 4
 biochemic 1
-bromvogel
+bromvogel 1
 boeotian 1
 bonedog 1
 burnable 1
@@ -10582,7 +10582,7 @@ bespeech 3
 baptisteries 1
 boodles 2
 bullheaded 3
-blatiform 4
+blatiform 5
 biotelemetric
 blats 1
 bygones 1
@@ -12531,7 +12531,7 @@ barbellulae 1
 backdoor 2
 blazed 1
 bonfires
-benchy 1
+benchy 2
 bongoes 2
 bypast 2
 bannimus 2
@@ -12876,7 +12876,7 @@ bondslave 2
 behorror 4
 bifoil 2
 birthplace 3
-bg 2
+bg 3
 befanned 1
 bacchiac 2
 bangster 1
@@ -15876,7 +15876,7 @@ brecciated 6
 backcloth 2
 boullework
 brombenzamide 2
-ballottable 1
+ballottable 2
 bumboats 1
 brevetted 2
 beef 2
@@ -16842,7 +16842,7 @@ bohemians 3
 brachyprism
 brotchen 1
 botchiness
-borderless 1
+borderless 2
 buffeters 3
 bistros
 bubalises 2
@@ -17369,7 +17369,7 @@ bentincks 5
 becrawled 2
 beachier 1
 bogledom 2
-bliny 1
+bliny 2
 bailie 3
 bloodmobiles 2
 bunged
