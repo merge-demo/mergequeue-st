@@ -14308,7 +14308,7 @@ cautelous 1
 circumpose 1
 condite 1
 circumquaque
-circumradius 1
+circumradius 2
 circumradiuses 2
 charitable 1
 claver 1
@@ -15993,7 +15993,7 @@ cramper 1
 compromises
 covado 3
 cleromancy 3
-canniness
+canniness 1
 clerstory 2
 clansmen 1
 cyamelid 1
