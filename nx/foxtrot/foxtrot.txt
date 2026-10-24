@@ -135,7 +135,7 @@ fumiferous 4
 flashforwards 3
 fictile 6
 flagellist 6
-feedhead
+feedhead 1
 fibre 3
 fossiled 2
 facsimiled 6
@@ -3805,7 +3805,7 @@ filose 2
 ferrier 5
 furnitureless 2
 fixates 2
-filterableness 3
+filterableness 4
 fractable 4
 fairyism 4
 flusker 3
@@ -6361,7 +6361,7 @@ flashingly 1
 flummoxes 3
 fubsier 1
 foppy 2
-flatlings 1
+flatlings 2
 flowchart 5
 flagpole 4
 fontes 4
@@ -8511,7 +8511,7 @@ filmsetter 1
 flophouses 3
 fortin 7
 frondesce
-fierabras 3
+fierabras 4
 formatter 2
 frutage 3
 floridans 3
@@ -8613,7 +8613,7 @@ futurities 3
 fulgence 3
 factitively
 fortunation 4
-fasciation 6
+fasciation 7
 ferules 1
 footrope 2
 fishlike 2
@@ -9476,7 +9476,7 @@ frolicly 2
 forlore 3
 fulsomeness 3
 fenman
-fausant 3
+fausant 4
 forewomen 3
 filmslide 3
 fireboats 3
@@ -10848,7 +10848,7 @@ ferniest 5
 focometry 5
 fulciment 4
 fs 3
-failures 5
+failures 6
 formicarioid 7
 fortescure 1
 fulcruming 3
