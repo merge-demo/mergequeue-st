@@ -9604,7 +9604,7 @@ bisdiapason 1
 binary 3
 bicapsular 1
 bandlimits 3
-bisectors
+bisectors 1
 bisectrices 2
 bednighted 1
 busybodyness 1
@@ -17051,7 +17051,7 @@ balmier 1
 bulkheading 3
 bulkier 2
 bulkily 1
-bitterweed 1
+bitterweed 2
 befavour 1
 bihydrazine 2
 belittlers 1
