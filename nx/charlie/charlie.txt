@@ -3810,7 +3810,7 @@ carbodynamite
 carbohemoglobin 1
 calamodendron 2
 cribbling 1
-carbohydrase 2
+carbohydrase 3
 cannibalism 4
 cardioncus
 carbohydrate
@@ -5528,7 +5528,7 @@ catachresis 1
 catachrestic 1
 chalices
 condemner 1
-catachthonic 1
+catachthonic 2
 consummation
 cataclastic 1
 cataclinal 2
@@ -27676,7 +27676,7 @@ clavicornate
 capeworks
 caliver 4
 cowhided 1
-criminative 1
+criminative 2
 cowhides 2
 caravanning
 cancellability 3
@@ -30099,7 +30099,7 @@ crowder 2
 cmdg
 crowdy 2
 crowdies
-confecture 1
+confecture 2
 crowding 1
 crowdle
 chromatrope
@@ -31745,7 +31745,7 @@ customably
 carcerated
 catfishes
 customance 1
-customaries
+customaries 1
 cystenchymatous 1
 customariness 4
 customer
