@@ -4524,7 +4524,7 @@ azolla 3
 accumulate 1
 assaut 2
 advects
-adventitial
+adventitial 1
 anhydrating 1
 aerobiotically 1
 admiralty
