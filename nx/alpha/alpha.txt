@@ -1407,7 +1407,7 @@ antistimulant 2
 amintor 1
 acceptance 2
 axisymmetrical
-absorbent
+absorbent 1
 achylia 3
 abevacuation
 aguish
@@ -4028,7 +4028,7 @@ amin 3
 adlumidine
 amunam 1
 antepast 2
-audios 2
+audios 3
 autoimmunized 5
 adlumin 1
 acierage 3
@@ -4869,7 +4869,7 @@ allotypy
 allophylic 3
 awedly 2
 agsam 1
-authenticatable 1
+authenticatable 2
 archlute 3
 antemeridian 1
 aeroboat 2
@@ -17847,7 +17847,7 @@ appreciativ 1
 ate 1
 acleistous 2
 alveolation
-aside 1
+aside 2
 apolistan 3
 aptal 1
 adieus 1
@@ -18482,7 +18482,7 @@ arbitrate 2
 aquamanile
 armonicas 2
 arbitration
-arbitrative 1
+arbitrative 2
 apotype 2
 appetent 1
 arteriogram 1
@@ -22818,7 +22818,7 @@ atmo
 autoeciously
 abd 1
 atmocautery
-asgd
+asgd 1
 atmolyzation 1
 atmologic 1
 acetomorphine 3
