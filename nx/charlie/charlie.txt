@@ -4038,7 +4038,7 @@ carcinomatous
 carcinomorphic 1
 cholericness
 carcinophagous
-carcinopolypus
+carcinopolypus 1
 chloroformization
 carcinosarcoma 1
 coloreds 3
@@ -28158,7 +28158,7 @@ craniorhachischisis 1
 clamb 1
 countercheck
 cranioschisis 1
-cranioscopy 2
+cranioscopy 3
 chimerism
 chelonidae 1
 cameos

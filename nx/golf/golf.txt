@@ -191,7 +191,7 @@ garbage
 gager 4
 gastronomic 3
 gaggery 3
-greenage 1
+greenage 2
 greengrocer 3
 gloxinias 4
 goaler 5
@@ -949,7 +949,7 @@ gopher
 grosser 3
 gammoners 3
 gentlewomen 4
-gooseries 2
+gooseries 3
 gunfights
 glycyphyllin 1
 geocentrical 2
@@ -1036,7 +1036,7 @@ glycohaemia 3
 groan 1
 glassfuls 4
 gnarl 2
-geriatrics 2
+geriatrics 3
 gentles 5
 gastrectomy 1
 gossamer 2
@@ -1728,7 +1728,7 @@ girding 4
 glacify 2
 guacacoa 2
 groupoids 4
-gastropneumonic 4
+gastropneumonic 5
 governmentish 1
 gootee 1
 gingery 7
@@ -4148,7 +4148,7 @@ gutling 1
 geomagnetic 3
 gimped 4
 gimpier 5
-guidable 3
+guidable 4
 galactolytic
 gliosa 1
 gigantosaurus 3
