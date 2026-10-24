@@ -10695,7 +10695,7 @@ chimneypiece 1
 chymotrypsinogen 2
 creedalism 1
 coilsmith 3
-canthari 2
+canthari 3
 cisgangetic
 companionless 1
 choromania
@@ -20513,7 +20513,7 @@ compass 2
 compassability 2
 compassable
 compassed
-cotham
+cotham 1
 cobwebbiest
 chinchiest
 coasting
