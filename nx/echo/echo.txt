@@ -5580,7 +5580,7 @@ enteroscopy 3
 elysium 3
 esophoria 3
 endogenies 4
-enforceable
+enforceable 1
 ectocarpous 1
 encitadel 4
 encryption 3
@@ -11316,7 +11316,7 @@ endue 2
 eliquated 4
 evaporations
 earthian 2
-ethicals 1
+ethicals 2
 emblemology 2
 epoche 2
 ekerite 3
@@ -12421,7 +12421,7 @@ eucleidae 3
 eluviation 3
 estriol
 encephalology 4
-ephemerida 3
+ephemerida 4
 exposures 2
 exhibition 1
 enforce 2
