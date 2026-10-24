@@ -183,7 +183,7 @@ flashily 1
 feuar 3
 florin 4
 folletage 3
-footstock 3
+footstock 4
 freedwoman 4
 ferns 3
 fluking 3
@@ -581,7 +581,7 @@ forints 3
 feasted 2
 fourchette 3
 featherdom 3
-finders 1
+finders 2
 fumishness 2
 falsehood 1
 fungo 1
@@ -1333,7 +1333,7 @@ frock 2
 fidac 2
 flaggish 6
 foretoken 3
-fatigue 4
+fatigue 5
 fossicks 1
 fatiguesome 5
 fragmenting 1
@@ -3063,7 +3063,7 @@ foregone 4
 ferrimagnetism 4
 fractionalization 1
 fibril 1
-firker 4
+firker 5
 filtratable 4
 fairily 5
 freeish 1
@@ -3350,7 +3350,7 @@ fluorescer 2
 fulmined 2
 fiedlerite 3
 flooding 2
-fiel 4
+fiel 5
 falconer 1
 forgetive 4
 firmisternia 1
@@ -3511,7 +3511,7 @@ flotsam
 futtock 1
 fulgorid 6
 fusicladium 1
-fute
+fute 1
 fleetingly 3
 figures 2
 feelingless 6
@@ -4636,7 +4636,7 @@ frigidities 4
 formulations 2
 fluctuate 2
 fossane 1
-fizelyite 6
+fizelyite 7
 fitzroya
 filicides 7
 federatively 4
@@ -4899,7 +4899,7 @@ floggings 4
 fructiculose
 flotsen 2
 funiculi 2
-fascial 1
+fascial 2
 fruitfulness 7
 fireworkless 1
 flourescent 5
@@ -8186,7 +8186,7 @@ foretrace 3
 forecastleman 1
 fountful 2
 frequentable 1
-forwake 3
+forwake 4
 foreuse 3
 fillercap
 fetishistic 4
@@ -10340,7 +10340,7 @@ faquirs 1
 flandowser 2
 felonries 3
 fitten 1
-finary 2
+finary 3
 folksongs 2
 fanged 1
 fingerings 5
