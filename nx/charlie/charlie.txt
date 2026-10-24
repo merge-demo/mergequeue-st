@@ -18250,7 +18250,7 @@ classico 1
 coffeepots 2
 colloidize
 coffeeroom
-coffees 2
+coffees 3
 counterview
 continuant
 coffer
@@ -24240,7 +24240,7 @@ convoluting 1
 convolution 2
 convolutional 3
 convolutions
-convolve
+convolve 1
 ceratothecae 3
 constructing 4
 cynipidous 2
@@ -30301,7 +30301,7 @@ cycad
 closest 1
 clamberer 1
 crunch
-confused 2
+confused 3
 compute 1
 calcular 2
 citronellic 2
