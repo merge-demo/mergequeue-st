@@ -3810,7 +3810,7 @@ carbodynamite
 carbohemoglobin 1
 calamodendron 2
 cribbling 1
-carbohydrase 2
+carbohydrase 3
 cannibalism 4
 cardioncus
 carbohydrate
@@ -5528,7 +5528,7 @@ catachresis 1
 catachrestic 1
 chalices
 condemner 1
-catachthonic 1
+catachthonic 2
 consummation
 cataclastic 1
 cataclinal 2
@@ -6356,7 +6356,7 @@ cannellated
 causewaying
 clubfeet
 causidical 1
-causon 2
+causon 3
 counterassurance 1
 caustical
 caustically 1
@@ -7565,7 +7565,7 @@ carus
 corrugating 3
 cooked 4
 citrulline
-chondric 2
+chondric 3
 corydaline
 cophouse 1
 cerebrifugal 3
@@ -19117,7 +19117,7 @@ cristate 3
 collinsite
 collinsonia
 colliquable 2
-colliquate 1
+colliquate 2
 collyria
 collyrite 3
 carder
@@ -24854,7 +24854,7 @@ closkey 2
 complications 1
 corach
 creutzer 1
-coracial
+coracial 1
 coracias 2
 charissa 1
 coracii 2
@@ -27676,7 +27676,7 @@ clavicornate
 capeworks
 caliver 4
 cowhided 1
-criminative 1
+criminative 2
 cowhides 2
 caravanning
 cancellability 3
@@ -30099,7 +30099,7 @@ crowder 2
 cmdg
 crowdy 2
 crowdies
-confecture 1
+confecture 2
 crowding 1
 crowdle
 chromatrope
