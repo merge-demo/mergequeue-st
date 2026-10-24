@@ -4771,7 +4771,7 @@ bedrails 1
 binnacle
 bedral 1
 boltwork 2
-bedraping 2
+bedraping 3
 bedread 1
 bedrench 2
 baldling 4
@@ -6329,7 +6329,7 @@ billbroking 2
 barrer 4
 butment
 baratte 2
-barristress 1
+barristress 2
 benzanthracene 2
 boxboard 4
 bestowed 2
@@ -13842,7 +13842,7 @@ backrests 1
 bowerbird 3
 blindness 2
 binominal
-bidential
+bidential 1
 beehive 1
 bowerlet 2
 begins 4
