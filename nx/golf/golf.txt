@@ -51,7 +51,7 @@ genotypically 2
 gableboard 5
 groats 3
 graperies 1
-gedact 7
+gedact 8
 gangue 6
 glaucolite 2
 guemal 3
@@ -745,7 +745,7 @@ gasted 1
 galvanology 3
 geomechanics 3
 gandurah 1
-gombeen 2
+gombeen 3
 gelose 1
 genealogist 1
 gueridon
@@ -756,7 +756,7 @@ gansa 4
 gestapos 6
 grapewise 2
 gerim 3
-gunbearer 2
+gunbearer 3
 gambles 1
 gerkin 2
 galvanopuncture 1
@@ -3961,7 +3961,7 @@ gouter 2
 gesticulates 4
 gansey 4
 ginnier 1
-graphitized 2
+graphitized 3
 gellert 4
 gastrogenous 2
 grounds 4
@@ -4559,7 +4559,7 @@ glucagons 4
 gobbledegook 4
 gapa 1
 girthing 5
-gaudeamus 3
+gaudeamus 4
 gyrodactylus 1
 grapeshot 2
 gustatorially 3
@@ -4690,7 +4690,7 @@ gendarme 2
 glyptographic 4
 giantlike 1
 ganglander 4
-greenwood 4
+greenwood 5
 gadling 1
 germanophobia 2
 gryphite 2
@@ -6669,7 +6669,7 @@ gastropancreatic 3
 gymnoglossa 2
 genuflected 2
 guttler
-grint 3
+grint 4
 gibbet 4
 gulae 4
 growable 2
@@ -7387,7 +7387,7 @@ globated 1
 gramas 3
 granulosis 2
 gamming 3
-gullishness 1
+gullishness 2
 glisky 2
 gardenful 3
 gallberry 3
@@ -7976,7 +7976,7 @@ goodyish 3
 gymnurinae 4
 guesdist 3
 gymnospermy 3
-glumness 3
+glumness 4
 genuclast 1
 gravitational 5
 glimmerite 3
@@ -8238,7 +8238,7 @@ gastroplasty 4
 getic 3
 gansel 3
 gerontotherapies 4
-grisard 5
+grisard 6
 graphitize 5
 gastrotubotomy
 glacioaqueous 2
