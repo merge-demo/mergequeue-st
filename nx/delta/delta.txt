@@ -1252,7 +1252,7 @@ denizate
 disserve 2
 datelining 3
 datemark 1
-disenter 1
+disenter 2
 dentalise 1
 drink 3
 durational
@@ -17321,7 +17321,7 @@ drolls 7
 drome
 dromedarian 1
 decciares 5
-dzo 2
+dzo 3
 decapitator 2
 deducible 6
 dromoi 5
