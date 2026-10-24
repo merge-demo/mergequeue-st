@@ -2533,7 +2533,7 @@ dimers 6
 drailing 2
 declaredly 1
 declares 5
-disgout
+disgout 1
 diplococcus
 differently 2
 dwined
@@ -7955,7 +7955,7 @@ dedicature 2
 disincorporation
 drowse 1
 diagnosticated 1
-dorsibranch 1
+dorsibranch 2
 dextroglucose 3
 distensive 3
 despotes
@@ -11816,7 +11816,7 @@ deuteroprism 4
 decentralism 4
 diamines 1
 discurre 3
-dioestrus
+dioestrus 1
 dihalo 2
 dislikable 2
 dsr 3
@@ -12924,7 +12924,7 @@ daunii
 decreation 4
 disdiazo 1
 dowment
-deniability 2
+deniability 3
 dimensionless 3
 dicycle
 disomatic 1
@@ -14102,7 +14102,7 @@ decarnate 1
 doree 1
 divoto 3
 deltarium 1
-diisatogen
+diisatogen 1
 detonating 2
 descendents
 decarhinus
