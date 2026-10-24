@@ -524,7 +524,7 @@ dalton 2
 denomination 1
 dermaskeleton
 dama 2
-damageability 2
+damageability 3
 damageably 1
 detonatable 2
 damaged 2
