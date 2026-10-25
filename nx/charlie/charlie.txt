@@ -5753,7 +5753,7 @@ cakebread
 catching 1
 carolean
 cannon
-catchlight 2
+catchlight 3
 cultivatability
 cornein 2
 clockcase
