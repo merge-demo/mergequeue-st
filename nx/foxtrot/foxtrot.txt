@@ -1443,7 +1443,7 @@ faultfind 2
 fasciculite 2
 flittern 3
 flix
-flavorings 1
+flavorings 2
 fruiter 4
 favourable 3
 friedman 3
@@ -3482,7 +3482,7 @@ figshell 1
 flankard 3
 fury 1
 foam 2
-forger
+forger 1
 ficins 2
 fordays 4
 floorhead 1
@@ -7309,7 +7309,7 @@ forelock 4
 fopperies 3
 fopperly 4
 fraternized 5
-formaldoxime
+formaldoxime 1
 foujdar 2
 facers 6
 fourgon 2
@@ -10584,7 +10584,7 @@ fluky 1
 flatus 4
 furnaces 1
 fossilised 4
-fieldpiece 3
+fieldpiece 4
 frowziest 3
 frowzled 1
 firebases 5
