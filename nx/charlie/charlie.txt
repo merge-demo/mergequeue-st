@@ -158,7 +158,7 @@ changeabout 2
 cablese 2
 cablet 1
 cabling
-contentiousness
+contentiousness 1
 campmaster 1
 copellidine 1
 carbonizable 1
@@ -3963,7 +3963,7 @@ carburetors 3
 catonian
 carburets 1
 cuffer 2
-cosponsored 2
+cosponsored 3
 cataphracta
 carburetter 1
 calcaneoastragalar 3
@@ -7564,7 +7564,7 @@ censerless 2
 carus
 corrugating 3
 cooked 4
-citrulline
+citrulline 1
 chondric 3
 corydaline
 cophouse 1
@@ -8943,7 +8943,7 @@ curdle
 charily 3
 chariness
 cosmopolicy
-captandum
+captandum 1
 countersconce 1
 charing 2
 celadons 1
@@ -9313,7 +9313,7 @@ chaumiere 2
 chauna 1
 chaunoprockt 2
 childlikeness 2
-chartometer 1
+chartometer 2
 chaunted 2
 chaunter
 capillaritis 1
@@ -14432,7 +14432,7 @@ cirribranch
 cirriferous 2
 colonialism 1
 courtezan
-confidentially 1
+confidentially 2
 cirriped 1
 chowsed 2
 cirripedia 2
@@ -18313,7 +18313,7 @@ cestode 2
 cogencies
 cogener
 contratulations 1
-cogent
+cogent 1
 centena 2
 canangium 1
 cleansed 1
@@ -18438,7 +18438,7 @@ cognoscitive 1
 cognovit
 cricketings 2
 coude
-cognovits 2
+cognovits 3
 craftier 2
 coherent 1
 chondromata 1
@@ -22670,7 +22670,7 @@ connotations
 connotative 2
 connotatively
 counterextend 1
-connote 2
+connote 3
 crymotherapy 1
 connoted
 connoting
@@ -23582,7 +23582,7 @@ coteen 1
 cionectomy 1
 cacopathy 1
 climature 1
-chancelled
+chancelled 1
 continuality
 conchiolin 2
 continuancy 1
@@ -23893,7 +23893,7 @@ controversal 1
 conduces 1
 compositeness
 cauterized
-controversy 2
+controversy 3
 controversialism
 controversialist
 cytotrophoblast 1
@@ -24465,7 +24465,7 @@ core
 coopers 1
 catnapers 2
 coops 1
-caragana 1
+caragana 2
 coparty
 catchpole 2
 cooptate
@@ -29753,7 +29753,7 @@ crookbacked 2
 crookbill
 castral
 crookedbacked 2
-cinuran 1
+cinuran 2
 commencement
 consignment 1
 coryphaenid 2
@@ -30803,7 +30803,7 @@ charonian 4
 contineu 1
 columbite 1
 chiffon 1
-carcerate
+carcerate 1
 culicoides 1
 culinarian 2
 condenser 1
@@ -31829,7 +31829,7 @@ cloggy
 cammas
 campestrian
 cutinising
-cutinize
+cutinize 1
 cutireaction
 corymb 2
 cutisector
@@ -31864,7 +31864,7 @@ cochliodont
 cransier
 costumed 2
 cheers
-cuttage
+cuttage 1
 caccabis 1
 crowfooted 1
 cuttail
@@ -31934,7 +31934,7 @@ coagulators 2
 czarina
 capturers 1
 creaturely 2
-churchlike 2
+churchlike 3
 clitella 2
 cariama
 christianizing 1
