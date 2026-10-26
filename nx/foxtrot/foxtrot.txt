@@ -35,7 +35,7 @@ fibrocyst 2
 fabricates 4
 fabricator 2
 formularize 5
-flintless 1
+flintless 2
 furies 4
 farmscape 5
 flick 4
@@ -3482,7 +3482,7 @@ figshell 1
 flankard 3
 fury 1
 foam 2
-forger
+forger 1
 ficins 2
 fordays 4
 floorhead 1
@@ -4843,7 +4843,7 @@ freedwomen 3
 fructiparous 1
 feasting 2
 furnishing 1
-foliums 2
+foliums 3
 franciscan 3
 froebelism 1
 footfall 2
@@ -8939,7 +8939,7 @@ flown 3
 funambulic 5
 foulest 2
 fjeld 1
-fiques 6
+fiques 7
 flitty 4
 ferritins 5
 foumart 2
