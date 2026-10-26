@@ -439,7 +439,7 @@ ergo 3
 electroballistic 4
 engager 3
 escapements 2
-erf 5
+erf 6
 eunuchal 3
 effulgence 1
 eveners 2
@@ -728,7 +728,7 @@ ecosystem 3
 enstyle 1
 erythristic 3
 ecospecific 5
-emblematised
+emblematised 1
 extoled 4
 effaces 2
 endermatic 1
@@ -3024,7 +3024,7 @@ elitist 1
 exhaustedly 4
 epidotes 3
 elytrorhagia 1
-epidermoid 3
+epidermoid 4
 euglandina 3
 elytrostenosis 5
 elytrotomy 1
@@ -3292,7 +3292,7 @@ equalise 1
 exhibitively 4
 emanate 1
 ectopic 5
-ethnos 2
+ethnos 3
 entrepots 2
 exegetically 2
 epirrhematic 1
@@ -3370,7 +3370,7 @@ eof 1
 energeticalness 2
 eternising 1
 engraphy 1
-esquirearchy 1
+esquirearchy 2
 enregistration
 egal 3
 excursioner 3
@@ -5000,7 +5000,7 @@ exemplum 1
 eyelid 2
 editorialized 3
 endoaortitis 8
-entoolitic 4
+entoolitic 5
 economization 3
 emerited 3
 escritoires 1
@@ -5940,7 +5940,7 @@ engrosser 4
 earrings 6
 enframing 5
 enigma 2
-egotism 4
+egotism 5
 enjambements 2
 enigmata 5
 eassel 2
@@ -7822,7 +7822,7 @@ enterolith 1
 elbowed 2
 elbower 3
 essays
-epigrammatizing 4
+epigrammatizing 5
 endaortitis 3
 endonuclease
 erection
@@ -8131,7 +8131,7 @@ evelong 1
 eyl 2
 essayette 3
 eurythmies 4
-estadio 2
+estadio 3
 elegances 3
 excorticate
 electrostatic 2
@@ -8753,7 +8753,7 @@ eviller 3
 enterobiliary 3
 etcetera 2
 exemplificative 3
-extrabuccal 3
+extrabuccal 4
 energises 3
 electrocardiograms 3
 elwood 1
@@ -9053,7 +9053,7 @@ epenthesis 4
 editorialist 4
 erythrocytosis 7
 embryogony 3
-enigmas
+enigmas 1
 ectasia 3
 exploitatively 1
 epistropheus 1
@@ -11875,7 +11875,7 @@ excavator 2
 enlace 3
 excave 3
 eructated 1
-extancy 1
+extancy 2
 exceeded 1
 endosperm 1
 evanescent
@@ -13201,7 +13201,7 @@ enfeature 2
 eximidus 3
 excubitorium 2
 entailment 6
-embroil 1
+embroil 2
 expressibly 4
 etymon 2
 enties 3
@@ -13454,7 +13454,7 @@ energetics 1
 ebionitic 4
 externship 2
 ectogenic 4
-excitingly 1
+excitingly 2
 expressionists 4
 eventuality
 etchimin 6
