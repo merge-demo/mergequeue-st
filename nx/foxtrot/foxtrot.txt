@@ -210,7 +210,7 @@ fluorotype 2
 firelock 2
 filibranch
 fermenting 4
-facultatively
+facultatively 1
 fixtures 5
 furil 2
 faculties 2
@@ -644,7 +644,7 @@ finessing 5
 forerib 7
 formism 5
 flan 2
-folklorish 6
+folklorish 7
 furtherly 2
 faunistical 4
 fellow 2
@@ -1443,7 +1443,7 @@ faultfind 2
 fasciculite 2
 flittern 3
 flix
-flavorings 1
+flavorings 2
 fruiter 4
 favourable 3
 friedman 3
@@ -1554,7 +1554,7 @@ fulfillers 3
 facially 4
 farcetta 6
 favored 1
-feasibilities 3
+feasibilities 4
 favorer 4
 foresty 4
 ferrash 2
@@ -3482,7 +3482,7 @@ figshell 1
 flankard 3
 fury 1
 foam 2
-forger
+forger 1
 ficins 2
 fordays 4
 floorhead 1
@@ -4484,7 +4484,7 @@ ferrotitanium 4
 faddy 3
 flatting 2
 forlane 6
-fertilizers 2
+fertilizers 3
 fingerwise 3
 fecklessness 1
 ferrovanadium 4
@@ -4843,7 +4843,7 @@ freedwomen 3
 fructiparous 1
 feasting 2
 furnishing 1
-foliums 2
+foliums 3
 franciscan 3
 froebelism 1
 footfall 2
@@ -4997,7 +4997,7 @@ faured 3
 flaneurs 4
 flanked
 fledging 4
-factordom 4
+factordom 5
 fribourg 4
 formals 4
 freelage 4
@@ -5528,7 +5528,7 @@ fervours 3
 finnan 4
 fletchers
 furrower 9
-furnit 4
+furnit 5
 faked 1
 faithfulness 3
 filionymic 2
@@ -7309,7 +7309,7 @@ forelock 4
 fopperies 3
 fopperly 4
 fraternized 5
-formaldoxime
+formaldoxime 1
 foujdar 2
 facers 6
 fourgon 2
@@ -7755,7 +7755,7 @@ forelook 1
 femmes 2
 fauvist 6
 facer 1
-fanfaronade 2
+fanfaronade 3
 flower 7
 firearms 3
 foremast 5
@@ -7925,7 +7925,7 @@ fetticus 5
 forewarned 5
 feiseanna 4
 featherworker 3
-foresee 2
+foresee 3
 faitor 2
 frakturs 8
 footeite 4
@@ -8715,7 +8715,7 @@ floured 2
 ferroprint 3
 filthier 5
 forth 2
-freesia 4
+freesia 5
 forbiddenness
 flatfooted 4
 flaunters 4
@@ -8766,7 +8766,7 @@ finalist 3
 ferther 3
 framboesia 6
 finniest 2
-flabbella 7
+flabbella 8
 foremilks 3
 ferash 5
 fortissimo 1
@@ -8939,7 +8939,7 @@ flown 3
 funambulic 5
 foulest 2
 fjeld 1
-fiques 6
+fiques 7
 flitty 4
 ferritins 5
 foumart 2
@@ -9599,7 +9599,7 @@ fullers 3
 foliated 1
 fyrd 4
 felicitate 3
-floreated 3
+floreated 4
 forgone 5
 foller 2
 frederik 3
@@ -9736,7 +9736,7 @@ flied
 feaking 1
 fluing 4
 fruitgrower 1
-furcellaria 2
+furcellaria 3
 feoffor 1
 frankensteins 1
 foreboard 1
@@ -10884,7 +10884,7 @@ fabledom 5
 faddism 1
 forkman 3
 fulgidity 1
-fungosities 3
+fungosities 4
 flaite
 functionally 2
 footholds 2
@@ -11043,7 +11043,7 @@ fossilizes
 fillets 2
 fumigated 3
 fierce 3
-flutidae 7
+flutidae 8
 fortifiers 2
 femororotulian 3
 floriferously 3
