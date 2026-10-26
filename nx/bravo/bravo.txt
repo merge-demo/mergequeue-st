@@ -357,7 +357,7 @@ benighter 2
 backfires
 brontolite 1
 boled 3
-brume
+brume 1
 bradypepsy 2
 backfiring 2
 basichromatinic 1
@@ -409,7 +409,7 @@ belook
 bacteriorhodopsin 2
 bwana 2
 backlit 2
-betipple
+betipple 1
 bailor 2
 brigadier 2
 backlogged
@@ -2802,7 +2802,7 @@ bowsprits 3
 bureaus 2
 barites 3
 bolding 1
-betulaceous 1
+betulaceous 2
 blonder 4
 brazee
 barmie 3
@@ -3978,7 +3978,7 @@ beachcombers
 beachdrops 2
 biliment 1
 bumpiest 1
-backstays
+backstays 1
 bratty
 boltspreet 3
 broma 1
@@ -8161,7 +8161,7 @@ bloodroot 1
 bivalencies
 bloodbird 2
 bateaux 2
-bieldy 1
+bieldy 2
 bossa
 bellicoseness 2
 bielding
@@ -8337,7 +8337,7 @@ bronchoscope 4
 biggies 1
 bise 1
 biventral 4
-buttonholing 3
+buttonholing 4
 biggish 2
 bayadeer 1
 bepelt 1
@@ -10871,7 +10871,7 @@ bouzouki 2
 bangtails 5
 britishers 4
 bribegiver 4
-boatwise 2
+boatwise 3
 blimey 4
 braced 2
 brokership 3
@@ -11199,7 +11199,7 @@ biforin 4
 bellyfuls 3
 bloomless 1
 baptisia 1
-bartering 1
+bartering 2
 bacteriocidal 2
 blooped 3
 byways 3
@@ -14016,7 +14016,7 @@ batonist 2
 beevish 3
 blendor 5
 bracae 2
-biblioclasm 2
+biblioclasm 3
 bothriums 2
 bracciale 1
 boobyish 1
@@ -15778,7 +15778,7 @@ balisier
 babblishly 1
 brock 1
 bombsight 1
-bryonies 2
+bryonies 3
 brocoli 3
 bicycled 1
 bufotenine 1
@@ -18092,7 +18092,7 @@ bismuthite 1
 burgage 5
 butanol 3
 bonked 3
-bibliopegistical
+bibliopegistical 1
 butanols 3
 bergander 1
 bouderie
