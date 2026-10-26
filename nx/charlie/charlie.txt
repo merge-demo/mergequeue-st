@@ -158,7 +158,7 @@ changeabout 2
 cablese 2
 cablet 1
 cabling
-contentiousness
+contentiousness 1
 campmaster 1
 copellidine 1
 carbonizable 1
@@ -3963,7 +3963,7 @@ carburetors 3
 catonian
 carburets 1
 cuffer 2
-cosponsored 2
+cosponsored 3
 cataphracta
 carburetter 1
 calcaneoastragalar 3
@@ -9313,7 +9313,7 @@ chaumiere 2
 chauna 1
 chaunoprockt 2
 childlikeness 2
-chartometer 1
+chartometer 2
 chaunted 2
 chaunter
 capillaritis 1
@@ -14432,7 +14432,7 @@ cirribranch
 cirriferous 2
 colonialism 1
 courtezan
-confidentially 1
+confidentially 2
 cirriped 1
 chowsed 2
 cirripedia 2
@@ -18313,7 +18313,7 @@ cestode 2
 cogencies
 cogener
 contratulations 1
-cogent
+cogent 1
 centena 2
 canangium 1
 cleansed 1
@@ -22670,7 +22670,7 @@ connotations
 connotative 2
 connotatively
 counterextend 1
-connote 2
+connote 3
 crymotherapy 1
 connoted
 connoting
@@ -23893,7 +23893,7 @@ controversal 1
 conduces 1
 compositeness
 cauterized
-controversy 2
+controversy 3
 controversialism
 controversialist
 cytotrophoblast 1
@@ -29753,7 +29753,7 @@ crookbacked 2
 crookbill
 castral
 crookedbacked 2
-cinuran 1
+cinuran 2
 commencement
 consignment 1
 coryphaenid 2
@@ -31864,7 +31864,7 @@ cochliodont
 cransier
 costumed 2
 cheers
-cuttage
+cuttage 1
 caccabis 1
 crowfooted 1
 cuttail
