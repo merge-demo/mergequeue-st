@@ -2296,7 +2296,7 @@ albanians 1
 achtehalber 1
 amounts 2
 anvil 3
-agraffes 1
+agraffes 2
 auride 1
 aquaplane 1
 armigeri 2
@@ -2659,7 +2659,7 @@ apparatus 3
 acanthopterous 1
 armistice 1
 alginates 1
-acquiescement
+acquiescement 1
 araguato
 aureation 1
 acquiescence
@@ -3339,7 +3339,7 @@ aurene 4
 aminity 1
 anthropomorphist 1
 avigator 2
-acxoyatl 2
+acxoyatl 3
 accensor
 alvina 1
 autophotograph 1
@@ -4295,7 +4295,7 @@ acmispon 1
 azonium
 aggenerate
 armorer
-autotomize 2
+autotomize 3
 alchornea 1
 aesculapius 2
 anomaloflorous 1
@@ -5179,7 +5179,7 @@ aetiologies 1
 axones 3
 administerial 3
 arrivisme 3
-antihierarchal 1
+antihierarchal 2
 airbag 1
 antisemite 2
 aetiologue 1
@@ -6721,7 +6721,7 @@ aimak 2
 abolitionize 1
 allotypic 4
 azotin 2
-autocamp 1
+autocamp 2
 artocarpad 1
 armisonous 3
 autogiros 1
@@ -7612,7 +7612,7 @@ alcaldia 1
 altaite 1
 allegiant 4
 autoclastic 2
-alcalizate
+alcalizate 1
 alcanna 1
 acardiac 3
 ascophyllum 2
@@ -8360,7 +8360,7 @@ arundinaceous 2
 arnaut 1
 animadversive 2
 alimentariness
-alimentation
+alimentation 1
 alimentativeness
 arsenium 1
 alimented 2
@@ -8408,7 +8408,7 @@ anthrylene 2
 alismales
 autotelic 1
 amenorrheal 1
-aliso 1
+aliso 2
 adpress
 andy 1
 aristolochia
@@ -8475,7 +8475,7 @@ anticausotic
 aschaffite 1
 adulatory
 apotheosizing 3
-aristolochiaceae 2
+aristolochiaceae 3
 amebous 2
 alkalise 2
 alkalised 1
@@ -10291,7 +10291,7 @@ ameliorableness 2
 applemonger 2
 amylocellulose 2
 anhydrated
-acidific 3
+acidific 4
 ars
 ameliorates 1
 adenotyphoid 4
@@ -12603,7 +12603,7 @@ alogia
 appositionally
 anthribid 2
 anencephalic 1
-angka 1
+angka 2
 alulae 2
 archpatriarch
 argent 2
@@ -12820,7 +12820,7 @@ anachronously 2
 anetholes 2
 anglophilia 1
 antiricin 1
-angioid
+angioid 1
 amentum 1
 antimilitarist
 apocopation
@@ -13262,7 +13262,7 @@ allude
 animo 1
 archchampion
 antipathic
-anientise 3
+anientise 4
 achtelthaler 1
 animosity 1
 aftosas
@@ -15184,7 +15184,7 @@ antievolutionist 1
 antiexpansion 2
 antiexpansionism 4
 areas
-antiexpressionism
+antiexpressionism 1
 antepagment 2
 antiexpressionist 1
 antiexpressive
@@ -15999,7 +15999,7 @@ atreus
 antiradiating 1
 ascendants 1
 ammi 1
-accessorius
+accessorius 1
 arapunga 3
 antiradical 1
 antiegotist 1
@@ -17505,7 +17505,7 @@ adders
 appealable 1
 askance 4
 acanthodea
-appealingly 1
+appealingly 2
 agruif 1
 ambidextrousness 3
 acuter 1
@@ -18584,7 +18584,7 @@ alarmisms
 amboyna 1
 alforge 1
 arcacea 2
-aspergation 1
+aspergation 2
 annulated 1
 andria
 arcadias 4
@@ -19519,7 +19519,7 @@ adward
 antimaterialism 1
 acetonic 2
 adventist
-agrological
+agrological 1
 anoles
 authenticness 3
 amphidromic 1
@@ -20468,7 +20468,7 @@ adjectivally 2
 antefurcal 1
 agrarian 1
 astipulation 2
-auctary
+auctary 1
 arterying 1
 alkalous 2
 adusk
@@ -22496,7 +22496,7 @@ afficionado
 aswirl 1
 ammoniacum
 adenohypophysial
-alangin
+alangin 1
 arrestor 4
 arecaidin
 ata 1
@@ -23238,7 +23238,7 @@ atticomastoid 2
 amandin 3
 antimasonic
 apiculture 2
-attila 1
+attila 2
 alopathic 2
 argema 1
 attingency 1
@@ -24241,7 +24241,7 @@ aeciotelia
 anthelices
 aluminoferric 1
 automatous 2
-automechanical 3
+automechanical 4
 almoner 1
 actinically 3
 automechanism 4
@@ -24896,7 +24896,7 @@ antinoness
 aponeurotome 1
 anarchosocialist 1
 agrees
-antivariolous 4
+antivariolous 5
 avuncular
 arundinaria 2
 assimilate
@@ -25008,7 +25008,7 @@ awhile
 atlatls 2
 awhir 2
 awhirl 1
-aswim
+aswim 1
 autotruck 2
 antedon 2
 awikiwiki 2
