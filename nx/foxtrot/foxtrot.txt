@@ -83,7 +83,7 @@ faces 3
 folkright 3
 flattening 1
 flowerfence 4
-foliobranch 3
+foliobranch 4
 funambulating 2
 facetely 5
 falsest 4
@@ -4515,7 +4515,7 @@ forestalling 3
 farmlands 4
 feer 2
 foreigner 3
-forslake 6
+forslake 7
 flooded 2
 fountainhead 3
 fructify 4
@@ -11442,7 +11442,7 @@ fettering 5
 forebemoaned 2
 frailness 2
 founte 3
-fortunetell 2
+fortunetell 3
 fluting 1
 fallibleness
 frigidarium 2
