@@ -3653,7 +3653,7 @@ batlike 2
 bifanged 3
 buyides 2
 befouls
-baculiform
+baculiform 1
 bedighting 1
 bipinnately
 batlon 3
@@ -11521,7 +11521,7 @@ blufter 2
 bluggy 3
 bispore
 bethwack 4
-bombload 3
+bombload 4
 blumes
 benighting 1
 blunderbusses
@@ -15644,7 +15644,7 @@ buzzardlike 2
 biting 3
 britannically 1
 brashy
-bloomery 2
+bloomery 3
 bumpkins 2
 blennophlogosis 1
 blimy 2
