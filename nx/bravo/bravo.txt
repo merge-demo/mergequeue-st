@@ -289,7 +289,7 @@ backbar 4
 bedright
 begrutch 1
 biolith 2
-booter 1
+booter 2
 benzacridine 1
 backslided 3
 backberend 2
@@ -801,7 +801,7 @@ bads 2
 bicetyl 2
 beeline
 bibliotherapy 1
-bethorn 1
+bethorn 2
 blackout 2
 basilidan 3
 building 4
@@ -893,7 +893,7 @@ benzidin 1
 benzalcohol 3
 beffroy 3
 baggala 2
-borderlight 2
+borderlight 3
 bagganet 3
 baggara 1
 bellyfulls 1
@@ -997,7 +997,7 @@ baya 3
 brachistocephalic 2
 brissotine
 beinly
-beamlike 2
+beamlike 3
 buddh 1
 bayadere 1
 boragineous 2
@@ -1192,7 +1192,7 @@ bajocco 1
 bajochi 1
 borborygmus
 bemeaned 2
-bajra 5
+bajra 6
 bogeyed 3
 brickset 3
 beltmen 2
@@ -3976,7 +3976,7 @@ barhal 3
 bastardizations 1
 beachcombers
 beachdrops 2
-biliment 1
+biliment 2
 bumpiest 1
 backstays 1
 bratty
@@ -8483,7 +8483,7 @@ beglerbey 2
 bloaters 1
 biplosive 1
 bilianic 1
-boreism 3
+boreism 4
 biliferous 2
 babysitter 2
 byssuses
@@ -11239,7 +11239,7 @@ brazenness 2
 bracts 2
 bf 1
 bezesteen 1
-borghalpenny 1
+borghalpenny 2
 bletia
 bisilicate 2
 blotty 3
@@ -12091,7 +12091,7 @@ bokhara 3
 baronized 2
 boronic 2
 berengarian 1
-bovinely 2
+bovinely 3
 bokharan 3
 bokom 4
 bolag 1
@@ -12770,7 +12770,7 @@ bimbil 1
 bontequagga 4
 broods 1
 beworry 3
-biyearly 2
+biyearly 3
 booksellerism
 banderilleros
 bookselling
@@ -13021,7 +13021,7 @@ baffling
 bruchidae 2
 barbecued 2
 bombarde 2
-bibles 2
+bibles 3
 baptismally 4
 boraginaceous 4
 borago 2
@@ -14836,7 +14836,7 @@ brazilite 1
 besoil
 blotters 2
 bichlorides 1
-buffed 1
+buffed 2
 bloodweed 3
 becall
 bobization 3
@@ -15700,7 +15700,7 @@ bacteriologist 1
 brutage 1
 bayonet 2
 burningly 2
-bribee 1
+bribee 2
 breadman
 bacteriosis 1
 bisulcated 3
@@ -15753,7 +15753,7 @@ blaubok 2
 billionths 2
 bleaches 2
 bangkoks 4
-broch 2
+broch 3
 bogeys 1
 bullyingly 4
 bellying 5
@@ -16033,7 +16033,7 @@ bronchorrhaphy 1
 bronchorrhea 3
 bronchos 3
 bogged 4
-bronchoscopic 2
+bronchoscopic 3
 breastsummer 1
 bronchoscopist 3
 backbear 1
