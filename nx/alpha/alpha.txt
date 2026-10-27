@@ -1772,7 +1772,7 @@ airship
 arneb
 accoy 1
 aspersion 2
-archiereus
+archiereus 1
 aments 1
 attalid
 alexines 2
@@ -6509,7 +6509,7 @@ autoclaves
 affeir 2
 antienthusiasm 1
 angiosperms 1
-ahantchuyuk 4
+ahantchuyuk 5
 ahartalav 3
 abolisher 1
 alarming
@@ -6793,7 +6793,7 @@ angerless 2
 airan
 airbills
 airboat
-airboats
+airboats 1
 anomal 1
 alters 3
 airbrained 1
@@ -11599,7 +11599,7 @@ ammophilous
 amphicribral 1
 accinging 1
 amethysts 1
-albuminise
+albuminise 1
 anacalypsis 1
 approbate 2
 applecart 4
@@ -14640,7 +14640,7 @@ andragogy 1
 anti 3
 antiabolitionist 1
 accustom 1
-antiabortion 1
+antiabortion 2
 acrotic 1
 ambulation
 auditorium
@@ -22440,7 +22440,7 @@ animalising 2
 astrometric 4
 astronaut 1
 axolotl 1
-apollinian
+apollinian 1
 asmodeus 2
 astronavigator
 astronomy
@@ -25052,7 +25052,7 @@ antihydrophobic 2
 algologies
 awoke
 arcanal 1
-andranatomy 3
+andranatomy 4
 awoken 3
 amylome
 archistome 1
