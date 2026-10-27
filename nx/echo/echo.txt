@@ -175,7 +175,7 @@ enchantingness 1
 eugenetic 2
 ergogram 2
 exploration 4
-electromotion
+electromotion 1
 electrolier 1
 equipoising 2
 extraformal 2
@@ -5277,7 +5277,7 @@ entrusts 1
 evaders 4
 enskies 1
 embaphium 2
-ethenyl 1
+ethenyl 2
 emendicate
 endosmoses 3
 epencephalic
@@ -7694,7 +7694,7 @@ endrins 1
 exterritorially 2
 eruc 2
 emergents 4
-erysipelatoid 1
+erysipelatoid 2
 englify 4
 ensure 2
 endobiotic 1
