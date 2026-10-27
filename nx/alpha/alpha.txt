@@ -2205,7 +2205,7 @@ achirite
 achkan 3
 alcovinometer 2
 acidhead
-aimfully 2
+aimfully 3
 achlorhydria 1
 aflame 4
 admixing 2
@@ -4875,7 +4875,7 @@ antemeridian 1
 aeroboat 2
 alacrify
 allegory 1
-aerobranchia
+aerobranchia 1
 alditol 2
 anglic 1
 aerocamera 2
@@ -7849,7 +7849,7 @@ aldosterone 1
 aldosteronism
 anacanth 1
 aldrins 2
-arba 1
+arba 2
 ausubos 1
 atrickle 1
 anomalonomy 5
@@ -10193,7 +10193,7 @@ afforce
 ambulatory 2
 additiment 2
 aluminas
-affluent
+affluent 1
 apanage 1
 ambulatories 2
 ambulatorium
@@ -14287,7 +14287,7 @@ argilliferous 1
 acephal 3
 aptitudinal 3
 anterosuperior
-antesternal 2
+antesternal 3
 antesuperior 1
 arboretums 1
 aviators 1
