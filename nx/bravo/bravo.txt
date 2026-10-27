@@ -1883,7 +1883,7 @@ banders 1
 broadlings 2
 befogging
 barkinji 2
-bandfile 2
+bandfile 3
 burdon 3
 brownism 3
 blobbiness
@@ -3653,7 +3653,7 @@ batlike 2
 bifanged 3
 buyides 2
 befouls
-baculiform
+baculiform 1
 bedighting 1
 bipinnately
 batlon 3
@@ -7046,7 +7046,7 @@ byre 2
 beknots 1
 biodegrade
 barbute 4
-billiardist 1
+billiardist 2
 besouth 2
 blaming 2
 bedazzlement 2
@@ -10220,7 +10220,7 @@ bryaceous 4
 breads 3
 britany 5
 backwort 2
-bootstraps 2
+bootstraps 3
 bondhold
 blvd 2
 bloodletter 1
@@ -10511,7 +10511,7 @@ becharming 2
 bakestone 1
 biologistic 5
 bepastured 2
-blastogenic 5
+blastogenic 6
 bandfiled 2
 bop
 bytownitite 1
@@ -11521,7 +11521,7 @@ blufter 2
 bluggy 3
 bispore
 bethwack 4
-bombload 3
+bombload 4
 blumes
 benighting 1
 blunderbusses
@@ -17595,7 +17595,7 @@ balafo 1
 burgers 2
 becurtained 1
 bivalency 4
-bacteriostatically 2
+bacteriostatically 3
 baseballs 2
 burggrave 4
 burghbote 4
