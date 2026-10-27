@@ -1562,7 +1562,7 @@ bouton 4
 backsword 3
 ballastic 3
 ballata 2
-backswordman 2
+backswordman 3
 beatifying 1
 brisked
 batikulin 3
@@ -2620,7 +2620,7 @@ bifronted 2
 bhaiyachara 4
 borana 3
 bunglesome 6
-barkey
+barkey 1
 briers 1
 barkery
 befortune
@@ -2901,7 +2901,7 @@ beclatter 4
 bestride 4
 boxlike
 braked 1
-badinage 2
+badinage 3
 barrater
 barratries
 blabbermouth 2
@@ -4779,7 +4779,7 @@ batad 1
 blast 2
 bed 1
 bedribble
-bosnisch 1
+bosnisch 2
 burglarizes 3
 bibracteate
 billfold 2
@@ -8101,7 +8101,7 @@ bicuspid 5
 bruxism
 brast 2
 biddability 5
-biddably 2
+biddably 3
 benedict 1
 boread 1
 bouillone
@@ -12596,7 +12596,7 @@ blurts 3
 bibbers 2
 blottesque 2
 batter 4
-bloubiskop 2
+bloubiskop 3
 bristlemouths
 biochemically 1
 bonnier 1
@@ -13611,7 +13611,7 @@ bahaism 4
 boulework 4
 blinded
 backstone 1
-boulimia 2
+boulimia 3
 berate 1
 bornyl 3
 bailiffry 3
@@ -15573,7 +15573,7 @@ bryonia 3
 belloot 3
 backbiter
 bryophyllum 2
-bouncy 4
+bouncy 5
 brios 1
 badinaging 2
 broomstick 6
