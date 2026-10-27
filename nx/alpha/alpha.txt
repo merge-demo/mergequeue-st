@@ -968,7 +968,7 @@ azoflavine 1
 absorpt 4
 absorptiometer
 allegeable 2
-alive 2
+alive 3
 analcites 2
 absorptional 2
 aggregate 4
@@ -3262,7 +3262,7 @@ alstonine 3
 assident
 antennary
 abstersion 2
-aphis
+aphis 1
 anisometropia 1
 ashlar
 activation 3
@@ -6710,7 +6710,7 @@ ailuroidea 1
 ailurophilic 3
 atenism 1
 affirmation 3
-ailuropoda 2
+ailuropoda 3
 acoustic
 ailurus 1
 ailweed
@@ -9266,7 +9266,7 @@ adenogenous 3
 atomics 1
 antiparliamentarian 3
 argentamin
-autometric
+autometric 1
 aphony 3
 asaraceae 2
 abhorrent 1
@@ -9286,7 +9286,7 @@ aloesol
 amphion 1
 analemmas 2
 acellular 1
-aloetical
+aloetical 1
 anthracocide 1
 antiflash
 aloft 2
@@ -10464,7 +10464,7 @@ ametallous 2
 austemper 1
 apa
 autogenetic 1
-alkanna 1
+alkanna 2
 abbeys
 axonic
 acceptances 1
@@ -11168,7 +11168,7 @@ antiorthodoxly 3
 amperometer 1
 asswage 2
 antiaphrodisiac 1
-acmesthesia 1
+acmesthesia 2
 anglomania
 assures 2
 anaretical 1
@@ -11254,7 +11254,7 @@ analabos 1
 archipallium
 amphictyonian
 antistrophic 2
-astronomers 1
+astronomers 2
 armlessness 1
 amphictyons 1
 anisospore 1
@@ -13061,7 +13061,7 @@ anharmonic
 abbreviating 2
 aluniferous 1
 aeroballistics 1
-arrowy 3
+arrowy 4
 agglomeratic 1
 anhedral 3
 anhemitonic 3
@@ -13443,7 +13443,7 @@ annalize 5
 ankush
 astringe 2
 archphylarch
-amorphism
+amorphism 1
 ankusha 2
 anomala
 anlace 1
@@ -13999,7 +13999,7 @@ aglee
 antaimerina 1
 abrupter
 aptyalism
-antaios
+antaios 1
 antalgesic 2
 antalgics 3
 antalgol 3
@@ -19392,7 +19392,7 @@ avouchment
 assortedness 1
 aseptify 1
 anagogically
-apothegmatically
+apothegmatically 1
 anthracnose 1
 argenteous 2
 amphorophony
@@ -21705,7 +21705,7 @@ assegais 2
 archnesses
 antiscion
 agistator
-antisi
+antisi 1
 assentors
 acarocecidia 2
 asself 1
@@ -22554,7 +22554,7 @@ appellants 2
 antimilitarism
 acetaldehydrase 1
 aerogene 1
-adorability
+adorability 1
 afterfruits 1
 aspermic
 atechnical 1
@@ -22861,7 +22861,7 @@ axometry
 angledozer 1
 asrama 1
 anhinga
-algefacient
+algefacient 1
 atomician 2
 assimilative
 asterioid 3
@@ -24370,7 +24370,7 @@ amaroidal 1
 arises 1
 autorotation 3
 ariocarpus 2
-atopen 1
+atopen 2
 amylene
 autoroute 1
 autorrhaphy 3
@@ -25312,7 +25312,7 @@ azofication 1
 azoformamide 1
 anodization 3
 azogrenadine 1
-ashamedness 3
+ashamedness 4
 abask 2
 amontillados 1
 assoiled
