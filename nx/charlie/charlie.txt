@@ -9223,7 +9223,7 @@ centreless
 chemotherapists
 copperproof
 corrosionproof 3
-conceive 1
+conceive 2
 corporeality 2
 chathamites 1
 chatoyant 2
@@ -12864,7 +12864,7 @@ calorifacient 3
 churchy 1
 churchianity 2
 churchyard 1
-churchyards
+churchyards 1
 churching 6
 crabbedly 1
 chauth
@@ -22327,7 +22327,7 @@ congratulates 5
 coevalneity
 coward 1
 congratulational 3
-costumire 2
+costumire 3
 congratulations 2
 congratulatory 1
 congree
@@ -29330,7 +29330,7 @@ certiorating 1
 cryptoheresy
 cryptoheretic 1
 cryptolite 1
-cytochalasin 1
+cytochalasin 2
 cryptolith
 cryptology 2
 conspiracies 1
