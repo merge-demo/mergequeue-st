@@ -10606,7 +10606,7 @@ drawfile
 diphtheritic 2
 diplonema 1
 deuteric 1
-detritus
+detritus 1
 dunnaged 1
 diplont 1
 delisting 3
