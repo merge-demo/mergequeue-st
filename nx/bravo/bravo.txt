@@ -1883,7 +1883,7 @@ banders 1
 broadlings 2
 befogging
 barkinji 2
-bandfile 2
+bandfile 3
 burdon 3
 brownism 3
 blobbiness
@@ -2893,7 +2893,7 @@ bacchanalianism 1
 barramundies 2
 bilocation 4
 beads 1
-bottleful 5
+bottleful 6
 broadcasts 1
 broadthroat 4
 biverbal 1
@@ -3653,7 +3653,7 @@ batlike 2
 bifanged 3
 buyides 2
 befouls
-baculiform
+baculiform 1
 bedighting 1
 bipinnately
 batlon 3
@@ -4134,7 +4134,7 @@ bedrenched 2
 bras 3
 brachycera 2
 bearfoots 3
-bearhug 4
+bearhug 5
 babirousa
 bock 3
 bilicyanin 3
@@ -6074,7 +6074,7 @@ boyishly 5
 bumfeg 3
 bituminization 1
 bequeathable 2
-becowarded 3
+becowarded 4
 blueball
 berat 2
 basketful 2
@@ -7046,7 +7046,7 @@ byre 2
 beknots 1
 biodegrade
 barbute 4
-billiardist 1
+billiardist 2
 besouth 2
 blaming 2
 bedazzlement 2
@@ -10220,7 +10220,7 @@ bryaceous 4
 breads 3
 britany 5
 backwort 2
-bootstraps 2
+bootstraps 3
 bondhold
 blvd 2
 bloodletter 1
@@ -10511,7 +10511,7 @@ becharming 2
 bakestone 1
 biologistic 5
 bepastured 2
-blastogenic 5
+blastogenic 6
 bandfiled 2
 bop
 bytownitite 1
@@ -11521,7 +11521,7 @@ blufter 2
 bluggy 3
 bispore
 bethwack 4
-bombload 3
+bombload 4
 blumes
 benighting 1
 blunderbusses
@@ -11707,7 +11707,7 @@ bacteriotrypsin
 bobbejaan 2
 bilin 1
 bucket
-bayogoula 1
+bayogoula 2
 bobbers 1
 bartlett 2
 bobby 3
@@ -14233,7 +14233,7 @@ bromohydrate
 bassia 1
 bronzes 3
 bisectional 1
-bradydactylia 2
+bradydactylia 3
 bisulfide
 bepowder 1
 belamour 1
@@ -17595,7 +17595,7 @@ balafo 1
 burgers 2
 becurtained 1
 bivalency 4
-bacteriostatically 2
+bacteriostatically 3
 baseballs 2
 burggrave 4
 burghbote 4
@@ -17785,7 +17785,7 @@ baroneted 4
 blinkered 1
 backing 2
 boosters 4
-bounce 3
+bounce 4
 bejabers 2
 balearian 3
 bearnaise 3
