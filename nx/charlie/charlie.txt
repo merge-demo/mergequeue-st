@@ -16113,7 +16113,7 @@ cliffside 1
 cliffsman
 cassique
 cliffweed
-clift
+clift 1
 clifty 1
 crystallitis
 clarify 4
@@ -20810,7 +20810,7 @@ canted 1
 complots 3
 complotter 2
 carwitchet 2
-complotting 2
+complotting 3
 complutensian 1
 compo 3
 compoed
