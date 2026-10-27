@@ -4179,7 +4179,7 @@ cyclus 1
 cardiomelanosis 2
 contradivide
 cholecystotomies 2
-cardiometer 3
+cardiometer 4
 cardiometric 1
 cardiomyomalacia
 cardiomyopathy
@@ -10889,7 +10889,7 @@ chypre 2
 cariacine
 chipwood 2
 chiquito 1
-clavate
+clavate 1
 chiral 2
 clerids 1
 cardstock 1
@@ -12242,7 +12242,7 @@ chrysophanic
 concludible 2
 chrysophenin 2
 chrysophilist 1
-conyrin 1
+conyrin 2
 chrysopid 1
 chrysopidae 1
 chrysoprase 2
@@ -17700,7 +17700,7 @@ chemosmoic
 catan 2
 cockroaches 3
 cozing
-clavicylinder
+clavicylinder 1
 cockscombed
 coco 1
 cocoach 1
@@ -19404,7 +19404,7 @@ colorfastness
 chailletiaceae
 chymifying 1
 colorful 1
-colorfulness
+colorfulness 1
 cognisably
 contestability
 colorific 2
@@ -19736,7 +19736,7 @@ counterrotating
 combinator
 combinatory 1
 combinatorial 1
-combinatorially 2
+combinatorially 3
 combinators
 copaiva
 combined 2
@@ -29232,7 +29232,7 @@ chattingly 2
 cryptamnesic
 cryptanalytically 2
 cryptanalytics
-cires 1
+cires 2
 cryptanalyze
 cothamore
 characetum
@@ -31337,7 +31337,7 @@ conceivably 1
 cured
 clarinos 3
 cornix
-cureless 2
+cureless 3
 corypha 1
 curelessness
 coadjument 1
