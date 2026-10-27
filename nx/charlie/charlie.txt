@@ -124,7 +124,7 @@ codshead
 cabinetmaking 2
 capacitated 2
 cabinetted 1
-coumalic 1
+coumalic 2
 chordophone
 clitelline
 cabinetworker
@@ -4531,7 +4531,7 @@ culverin 2
 carnalize
 counterexposition
 carolingian 1
-confederative
+confederative 1
 concludingly 1
 carbine
 cephalogenesis 1
@@ -5612,7 +5612,7 @@ catchalls
 compunctionary 4
 catallactic
 catallum 2
-cladocerans 2
+cladocerans 3
 chatterbag
 catalo 1
 cataloes 2
@@ -25732,7 +25732,7 @@ crouche 3
 convertibly
 cytolysis 1
 correllations
-corrente
+corrente 1
 crumblingness
 cleanhandedness 1
 cistophoric 2
