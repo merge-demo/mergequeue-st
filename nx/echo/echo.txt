@@ -2682,7 +2682,7 @@ enmesh 3
 enduros 2
 electrotherapy 2
 electrotheraputic 3
-emyds 1
+emyds 2
 elaeopten 3
 escribed 1
 ephippial 2
@@ -7908,7 +7908,7 @@ evaniidae 3
 epimerized 3
 ephebus 3
 enclisis 1
-ectozoic 2
+ectozoic 3
 epimers 1
 epimysia 3
 esthesias 1
@@ -9137,7 +9137,7 @@ epizoarian 3
 equiponderancy 2
 ermiline 6
 epidemy
-excarnation 1
+excarnation 2
 ermined 3
 erminee 5
 enleague 1
