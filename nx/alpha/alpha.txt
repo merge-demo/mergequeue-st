@@ -1610,7 +1610,7 @@ accost 2
 arbuscule 1
 aecidium
 aristolochine 1
-antiketogenic 2
+antiketogenic 3
 anthrop 2
 amatorian 1
 accouche
@@ -2122,7 +2122,7 @@ acheronian 1
 asdics
 achroous 3
 acherontical
-advisors
+advisors 1
 aches 2
 achesoun 1
 acheulean 2
@@ -2507,7 +2507,7 @@ atrabilar 3
 antigene 1
 acmatic 3
 asparagus 4
-amphisbaenidae 1
+amphisbaenidae 2
 acme
 acquiring
 articulata 4
@@ -8094,7 +8094,7 @@ aeciotelium 2
 artarine 2
 anthropogenetic 2
 alfileria 1
-astert
+astert 1
 anthropocosmic
 acrosporous 2
 ambusher 1
@@ -12825,7 +12825,7 @@ amentum 1
 antimilitarist
 apocopation
 anthocerotales 4
-angioleucitis 2
+angioleucitis 3
 antihemagglutinin
 anaphylactogen 1
 annelid 1
@@ -15468,7 +15468,7 @@ antimechanistic 1
 autoregulatory 1
 apocopic 2
 aureolae
-aegis 4
+aegis 5
 antimechanistically 1
 aircrew 1
 antimechanization 1
@@ -18262,7 +18262,7 @@ antiprofiteering
 adherescent 1
 arbiters 1
 affidavit
-agoras
+agoras 1
 alsoon 2
 arabians 1
 armor 2
@@ -22355,7 +22355,7 @@ anhaline 4
 asperger 1
 aplanat 1
 autoreduction
-atmologist 3
+atmologist 4
 astrodiagnosis 3
 androphyll
 afterbodies 1
@@ -25247,7 +25247,7 @@ alveoloclasia 3
 abstrict 1
 azeotropic
 azerbaijani 1
-azerbaijanian 2
+azerbaijanian 3
 agrology
 antitax 2
 arcualia
