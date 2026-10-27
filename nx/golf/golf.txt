@@ -558,7 +558,7 @@ goys 5
 gagership 6
 goldflower 6
 graycoat 5
-ginhound 5
+ginhound 6
 galut 4
 gynaecocoenic 2
 globelet 1
@@ -1258,7 +1258,7 @@ garbill 2
 guyline 1
 goosebone 4
 gymnocarpous 6
-ganomalite
+ganomalite 1
 garbler 2
 gradings 3
 golliwogg 2
@@ -1870,7 +1870,7 @@ guayabo 5
 gaucho
 geniohyoid 2
 generalists 5
-gerbillus 2
+gerbillus 3
 groundable 3
 gowd 2
 gumbos 1
@@ -2899,7 +2899,7 @@ glabreity 2
 gulley 2
 growlier 2
 glumpish 5
-gnathostoma 1
+gnathostoma 2
 gobblers 5
 gavelkind 2
 gaeldom 2
@@ -3132,7 +3132,7 @@ grusian 7
 gynophore 1
 gauloiserie 6
 geotechnic 2
-geraniaceae 4
+geraniaceae 5
 griffado 1
 gabler 6
 gaumy 4
@@ -5850,7 +5850,7 @@ griddled 4
 gasfiring 2
 grandesque 3
 gynoeciumcia 4
-glycogenous 2
+glycogenous 3
 gravimetric 2
 glutamates 2
 goliards 1
@@ -6071,7 +6071,7 @@ grisset 1
 gruel 2
 grume 1
 gramineous 2
-gneiss 2
+gneiss 3
 goosebeak 7
 gullibly 4
 gryphosaurus 4
@@ -7411,7 +7411,7 @@ gothamite 8
 gaed 4
 germiparous 1
 germigenous 5
-gummiest 2
+gummiest 3
 ghedda 2
 greenfish
 goosiest 2
@@ -8951,7 +8951,7 @@ gigi
 gladelike 2
 grandiloquous 3
 galvanising 4
-gnaw 3
+gnaw 4
 geranomorphic
 gothicize
 gringole 2
@@ -9093,7 +9093,7 @@ gyres 2
 gease 2
 graveyards 3
 glaucomys 2
-greund 6
+greund 7
 glumal 2
 girdling 4
 gladiatorism 5
@@ -9337,7 +9337,7 @@ grinder 4
 geomagnetically 1
 gront 2
 gorbellies 5
-gamodeme
+gamodeme 1
 genuflect 2
 gangtide 7
 geronomite 2
