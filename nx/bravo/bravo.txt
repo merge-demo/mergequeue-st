@@ -265,7 +265,7 @@ bigamic 4
 bacilligenic 3
 booths 1
 besotted 2
-bedotted 1
+bedotted 2
 boltuprightness 2
 belar 2
 back 2
@@ -1842,7 +1842,7 @@ beglads 2
 blancmanger 8
 bemuse 1
 botanizer 5
-bananaland
+bananaland 1
 blowen
 bluegum
 bridgewall 2
@@ -2137,7 +2137,7 @@ bloodbeat 3
 banshies 2
 betrough 1
 branchihyal 2
-birthrights 3
+birthrights 4
 braccae 5
 bosomer 1
 blanca 2
@@ -2898,7 +2898,7 @@ broadcasts 1
 broadthroat 4
 biverbal 1
 beclatter 4
-bestride 3
+bestride 4
 boxlike
 braked 1
 badinage 2
@@ -3497,7 +3497,7 @@ biosis 2
 batarde 1
 bullaces 2
 batatas 3
-batavi 1
+batavi 2
 bedraped 2
 ballan 2
 buzzsaw 2
@@ -4827,7 +4827,7 @@ brazenface 3
 bitake 2
 bikh 2
 banners 2
-beshrouded 2
+beshrouded 3
 bedstraw 3
 bedstraws 2
 bedstring 4
@@ -7443,7 +7443,7 @@ bedeviling 3
 bulbar 1
 bebeerine 1
 bordelaise 2
-bifidities 2
+bifidities 3
 brew
 blastomas 1
 barbeau 2
@@ -8044,7 +8044,7 @@ binna 1
 biconcave 1
 bidder 1
 bullescene 3
-blusher 1
+blusher 2
 biconic 2
 biconically 1
 biconnected 1
@@ -8842,7 +8842,7 @@ bari 1
 banalities 1
 battery
 bedrivels 1
-bummalos
+bummalos 1
 bakelize 1
 barfed
 benzol 1
@@ -9162,7 +9162,7 @@ behalf 1
 bianchi 3
 besprinkled 2
 badgir 3
-ballgown
+ballgown 1
 biotechnologically 3
 bathysmal 3
 buccin 1
@@ -13305,7 +13305,7 @@ blennies 2
 botanic 2
 baltei 3
 bobbery 2
-backlet
+backlet 1
 botanica
 bandoleered 2
 bacteriologically 3
@@ -13568,7 +13568,7 @@ bouffon
 bremeness 4
 bicycular 1
 baptize 2
-bopster 5
+bopster 6
 baizing
 bougainvilliidae 3
 bite 3
@@ -13826,7 +13826,7 @@ bucephalus 3
 bowe 1
 basements 1
 begulfs 1
-bibcock 3
+bibcock 4
 bediapering
 boilers 3
 bowelled 3
@@ -16116,7 +16116,7 @@ broodily 2
 broodling 2
 benzoylglycine 1
 broodmare 1
-blackmailers 1
+blackmailers 2
 bleacher
 bertillonage 1
 ballonets 3
@@ -16394,7 +16394,7 @@ brummagen 2
 baculitic 1
 botanist 1
 brummy 3
-byth 2
+byth 3
 brumous 2
 brumstane 3
 brunch 2
@@ -17929,7 +17929,7 @@ bushmaker
 bearbine 2
 bioclean 1
 bushmaking 1
-bibliopoly
+bibliopoly 1
 biophore 1
 bushman 2
 bisinuate
