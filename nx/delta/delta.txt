@@ -74,7 +74,7 @@ dactylics
 darndests 1
 deerskin
 dacoiting 3
-delbert 2
+delbert 3
 depressibility 4
 debilitating 2
 dactylion 2
@@ -411,7 +411,7 @@ diversity 1
 daintiness 2
 daiquiri
 dingle 3
-diriment 1
+diriment 2
 diathermia 1
 dominos 4
 dwelt 1
@@ -490,7 +490,7 @@ demob
 droughtiest 2
 dustblu 1
 defoliant 2
-disrupter
+disrupter 1
 dozily
 dislustering
 dalibarda 3
@@ -662,7 +662,7 @@ dusenwind
 deciduas
 ditroite 1
 damon
-damosel 2
+damosel 3
 drachms 2
 divorcement 4
 decapitalize 3
@@ -1419,7 +1419,7 @@ demonomanie
 dorsiflexor 1
 digitals 1
 delis 3
-drapability
+drapability 1
 dissatisfactoriness 7
 desipient 4
 diligentia 1
@@ -3595,7 +3595,7 @@ degenerately 2
 degenerateness 2
 degenerescence 2
 diammonium 1
-degeneroos 3
+degeneroos 4
 degerm 3
 dihalogen 2
 donnish 1
@@ -3944,7 +3944,7 @@ deepwaterman 2
 dustman 2
 decontaminator 2
 disquixote 3
-delatinize 1
+delatinize 2
 delation 1
 dichocarpous 2
 delators
@@ -3959,7 +3959,7 @@ deputized 1
 dereferences 2
 distune 6
 delectating 4
-damnously 1
+damnously 2
 distritbutes
 delectus 2
 debonairty 3
@@ -7150,7 +7150,7 @@ dynamometric 3
 dodecade 1
 depictor 1
 deambulate
-desulfurs 2
+desulfurs 3
 desulphur 3
 desulphurate 2
 delatorian
@@ -7300,7 +7300,7 @@ diphthongization 1
 determinated
 driftwood 1
 determinately 4
-dirtiness 3
+dirtiness 4
 drownding 2
 despondency 2
 denegate 1
@@ -8772,7 +8772,7 @@ dialoguer
 deuterodome 1
 diazins 1
 dulcifying 3
-declarators 2
+declarators 3
 defeat 1
 defrocking 5
 dictaphone 5
@@ -10946,7 +10946,7 @@ dictyosiphon
 disaffirmation 1
 demilitarizes 2
 decidedness 3
-dermococcus 3
+dermococcus 4
 dayberry 1
 dissyllabising 2
 decapoda 1
@@ -13004,7 +13004,7 @@ dusts 1
 descaling 2
 diphthongized 4
 dispar 1
-disparageable 5
+disparageable 6
 dingies 2
 disparagement 1
 disparagements
@@ -14294,7 +14294,7 @@ drollery 1
 dithyrambs 2
 dithyrambus 1
 dominicker 5
-dancing 2
+dancing 3
 denotationally 6
 daubier 2
 dytiscus 1
@@ -15522,7 +15522,7 @@ decahedra
 dessert 4
 directness 1
 duggler
-donkeywork 3
+donkeywork 4
 dilator 2
 diascord 3
 demodulator 2
@@ -15708,7 +15708,7 @@ dendrochronologist 2
 denunciation 2
 dismarch 3
 deescalation
-disintegrates
+disintegrates 1
 dewools 1
 disbuds 1
 deciduary
@@ -16077,7 +16077,7 @@ decontaminate 1
 dactylographer 1
 demigoddessship
 dogbolt
-dunger 2
+dunger 3
 doughhead 2
 doughy 2
 derabbinize 4
@@ -16398,7 +16398,7 @@ domy
 denumerably 1
 downway
 disdain 3
-drunkery 1
+drunkery 2
 downwardly 4
 devourment 1
 delocalized 3
@@ -17991,7 +17991,7 @@ durras 2
 dugento 3
 devouress 4
 dactylous 1
-dugongidae
+dugongidae 1
 diminutional 2
 deliriously 1
 dugongs
@@ -18149,7 +18149,7 @@ demythologizations 2
 duplicate 2
 deterrer 2
 devisors 2
-dictions
+dictions 1
 debatable 2
 driveboat 3
 diiodo 3
@@ -18252,7 +18252,7 @@ dode 1
 decurrent 4
 dunderfunk
 derringers 2
-debbies 1
+debbies 2
 dunderheadedness 4
 dynamistic 1
 drainerman 2
