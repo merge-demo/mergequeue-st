@@ -2068,7 +2068,7 @@ colonial
 camoudie 1
 coburgess 1
 camouflage 1
-camouflageable 1
+camouflageable 2
 camouflager 2
 contradictorily 1
 camouflagers 2
@@ -2441,7 +2441,7 @@ chetive 3
 chastize
 cancerigenic 1
 catechol 1
-cancerism
+cancerism 1
 cystidiums 1
 conemaking 2
 cancerogenic 1
@@ -3758,7 +3758,7 @@ caraway 1
 counterpoison 3
 caraways 3
 carbachol
-chirata 1
+chirata 2
 carbacidometer 3
 chromized 1
 croceines 2
@@ -4873,7 +4873,7 @@ carriageway 3
 carryall
 carrick 1
 carrycot
-chromatoplasm 1
+chromatoplasm 2
 carried 1
 carryed 1
 carrier 2
@@ -6611,7 +6611,7 @@ ceboids 2
 chondritis
 congenitalness
 ceratitic
-creesh 1
+creesh 2
 cebollite
 cecal
 checkmated 2
@@ -8841,7 +8841,7 @@ characteristicalness
 cucaracha 2
 characteristicness
 chrysochlorous 3
-cognizableness
+cognizableness 1
 characterization 1
 characterizing 1
 characterless 1
@@ -10133,7 +10133,7 @@ chippewa 1
 categorizers 2
 compagnie 2
 chevener
-cheventayn 1
+cheventayn 2
 cheverel 2
 carcassed
 cardlike 2
@@ -13173,7 +13173,7 @@ chiaroscuro 3
 clon
 ciceronianisms
 ciceronianist 1
-compellability
+compellability 1
 colluviums 3
 calycozoan 1
 clavellate
@@ -14675,7 +14675,7 @@ cystotomies
 castellan 2
 cadenza 2
 cystourethritis 1
-chowry
+chowry 1
 chirurgy
 calyxes 1
 cystourethrography
@@ -15313,7 +15313,7 @@ crowdie
 critturs
 coexist
 clangful
-clanging 1
+clanging 2
 clangorous 1
 corridored 2
 cookish 1
@@ -17535,7 +17535,7 @@ cocao
 chaneling
 caped
 cocarde 1
-chomped 1
+chomped 2
 cocash 2
 cocause
 cocautioner
@@ -17839,7 +17839,7 @@ codespairer
 classism 1
 codetermine 1
 codetta 1
-conditioned
+conditioned 1
 cabook
 codette 1
 cronel 4
@@ -20891,7 +20891,7 @@ complicatedness 1
 cotarnin 2
 colicine 1
 carbonyls 2
-clonked 1
+clonked 2
 considerative 1
 celsia 2
 compoundedness
@@ -23460,7 +23460,7 @@ contemporaneous 1
 cubbyu 1
 constancy 1
 chez 1
-crannoges
+crannoges 1
 contemporaneousness 2
 coalfishes 3
 calombo 1
@@ -26065,7 +26065,7 @@ cosher
 countermanded 4
 chestiness 1
 cupreine 1
-coshery
+coshery 1
 coshers 2
 cholralosed 1
 coshes 2
@@ -28314,7 +28314,7 @@ confederation 1
 cratometry 1
 carobs
 cumberment 1
-cratons 1
+cratons 2
 craunches 1
 coloring
 conilurus 1
