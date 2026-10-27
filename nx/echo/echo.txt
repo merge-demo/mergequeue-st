@@ -175,7 +175,7 @@ enchantingness 1
 eugenetic 2
 ergogram 2
 exploration 4
-electromotion
+electromotion 1
 electrolier 1
 equipoising 2
 extraformal 2
@@ -549,7 +549,7 @@ erythrene 3
 escolars
 endoperitonitis 1
 effeminating 2
-emotively
+emotively 1
 echinulated 1
 endogastrically 2
 echis 2
@@ -2797,7 +2797,7 @@ elenchic 2
 elves 5
 elenchize 5
 extrascientific 3
-ecthlipsis 1
+ecthlipsis 2
 eath 1
 electrocutes 3
 effeminately
@@ -3042,7 +3042,7 @@ everich 1
 eschalot 2
 exogamy 2
 epidermis 1
-experimentalists 4
+experimentalists 5
 elaidin 3
 embryotroph 2
 equalities 4
@@ -4848,7 +4848,7 @@ ensured 6
 entablements 1
 ef 1
 encumbrance 1
-extrabureau 3
+extrabureau 4
 english
 encumbrous 2
 evolves 5
@@ -5425,7 +5425,7 @@ energeticness 1
 estimatingly
 extrasystole 2
 exospheres 2
-eigenstate 1
+eigenstate 2
 entitledness 2
 epistropheal 1
 edematous
@@ -6286,7 +6286,7 @@ echinosphaerites
 ergotize 2
 enharmonically 4
 earnful 4
-emodin 1
+emodin 2
 embrocation 2
 ejusd 1
 eucarpous 3
@@ -7694,7 +7694,7 @@ endrins 1
 exterritorially 2
 eruc 2
 emergents 4
-erysipelatoid 1
+erysipelatoid 2
 englify 4
 ensure 2
 endobiotic 1
@@ -9530,7 +9530,7 @@ eyesalve 2
 exannulate 3
 endosmotic 2
 ergastoplasmic 1
-enchytraeidae 1
+enchytraeidae 2
 emigree 1
 euchromatic 3
 embarrassed 3
@@ -11588,7 +11588,7 @@ evoking 3
 enlighten 5
 extensiveness 4
 evolutionism 5
-epizeuxis 2
+epizeuxis 3
 evolutionistic 3
 epigenesis
 endotheloid 5
@@ -11961,7 +11961,7 @@ evolvulus 3
 entrainment 3
 exairesis 2
 esthesis 3
-endemic 1
+endemic 2
 electrooptical 5
 ensampler 1
 ecoid 2
@@ -12117,7 +12117,7 @@ enflames 2
 exploit 3
 editress 2
 echinologist 3
-eartag 3
+eartag 4
 emasculation
 effervescing 4
 emda 3
@@ -13122,7 +13122,7 @@ embedding 2
 epistolographic 3
 eyeshine 2
 effeminatize 1
-electroculture 1
+electroculture 2
 expediency 5
 euryale 1
 ecoclimate 1
