@@ -351,7 +351,7 @@ bloman 2
 brushes 4
 belches 2
 backfills 1
-bequeath 1
+bequeath 2
 basseting 1
 benighter 2
 backfires
@@ -2454,7 +2454,7 @@ baulk 4
 bonete 1
 bradenhead 1
 byres
-brassic 1
+brassic 2
 bugaboos 4
 breechesflower
 brodder 1
@@ -7737,7 +7737,7 @@ britten 3
 bathyscaphe 1
 bravoite
 buxerry 1
-bhikshu 1
+bhikshu 2
 bullan
 barquantine 1
 breakover
@@ -8457,7 +8457,7 @@ baignet 6
 bilbo
 bandsawed 3
 bleachyard 2
-blessed 3
+blessed 4
 bildar 4
 bargainwise 2
 berust
@@ -12898,7 +12898,7 @@ blackcock 1
 basichromatin 3
 brainwater 2
 banyoro 1
-bacciform 2
+bacciform 3
 boorishness 4
 bulldog 1
 bertrandite 2
@@ -17407,7 +17407,7 @@ balldress 3
 barringtonia 3
 bobbysoxer
 bombyciform 2
-blesbok 1
+blesbok 2
 britzskas 3
 beshield 2
 bunk 1
