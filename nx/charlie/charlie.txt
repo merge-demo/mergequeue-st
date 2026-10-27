@@ -6083,7 +6083,7 @@ craftsperson
 cryptoporticus 1
 canephroi 1
 cantharidizing
-casuistical
+casuistical 1
 cresotic 2
 catmints 2
 catnap
@@ -19888,7 +19888,7 @@ commercialist
 chaussee 3
 comically
 critical 3
-comicalness
+comicalness 1
 cubited
 cymas 1
 comices 3
