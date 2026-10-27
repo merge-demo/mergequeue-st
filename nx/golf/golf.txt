@@ -1258,7 +1258,7 @@ garbill 2
 guyline 1
 goosebone 4
 gymnocarpous 6
-ganomalite
+ganomalite 1
 garbler 2
 gradings 3
 golliwogg 2
@@ -6071,7 +6071,7 @@ grisset 1
 gruel 2
 grume 1
 gramineous 2
-gneiss 2
+gneiss 3
 goosebeak 7
 gullibly 4
 gryphosaurus 4
@@ -7411,7 +7411,7 @@ gothamite 8
 gaed 4
 germiparous 1
 germigenous 5
-gummiest 2
+gummiest 3
 ghedda 2
 greenfish
 goosiest 2
@@ -9337,7 +9337,7 @@ grinder 4
 geomagnetically 1
 gront 2
 gorbellies 5
-gamodeme
+gamodeme 1
 genuflect 2
 gangtide 7
 geronomite 2
