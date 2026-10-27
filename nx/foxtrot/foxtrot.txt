@@ -83,7 +83,7 @@ faces 3
 folkright 3
 flattening 1
 flowerfence 4
-foliobranch 3
+foliobranch 4
 funambulating 2
 facetely 5
 falsest 4
@@ -3795,7 +3795,7 @@ ferritization 3
 frizzliest 2
 flanning 3
 fistulate 4
-frijolillo 2
+frijolillo 3
 filigreeing 4
 flanconnade 3
 forestall 2
@@ -4515,7 +4515,7 @@ forestalling 3
 farmlands 4
 feer 2
 foreigner 3
-forslake 6
+forslake 7
 flooded 2
 fountainhead 3
 fructify 4
@@ -7937,7 +7937,7 @@ foresees 3
 fonder 1
 foreseize 1
 flatteries 3
-fike 1
+fike 2
 fusilades 1
 firy 2
 fervorous 3
@@ -11442,7 +11442,7 @@ fettering 5
 forebemoaned 2
 frailness 2
 founte 3
-fortunetell 2
+fortunetell 3
 fluting 1
 fallibleness
 frigidarium 2
