@@ -2455,7 +2455,7 @@ faradize 1
 falus 7
 footbridges 3
 fermentescible
-filiform 3
+filiform 4
 fielding 6
 falla 4
 fornax 3
@@ -4371,7 +4371,7 @@ fonduk 4
 flubdubberies 5
 fishbolts 6
 flechette 3
-funt 5
+funt 6
 flagged 4
 frenums 1
 fishbowls 3
@@ -6965,7 +6965,7 @@ fisherpeople 6
 flaky 4
 fostership 2
 flusherman 5
-follily 2
+follily 3
 feeblemindedness 2
 fungivorous 1
 fadeless 5
@@ -7156,7 +7156,7 @@ forebroads 6
 forgottenness 2
 frumenties 5
 fredaine 1
-foosterer
+foosterer 1
 footfarer 1
 falsework 1
 footfault 2
