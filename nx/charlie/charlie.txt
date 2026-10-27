@@ -1880,7 +1880,7 @@ clabularia 1
 camball 4
 cambarus 1
 cambered 1
-croc
+croc 1
 chamfrain 1
 consociate
 cambia
@@ -2068,7 +2068,7 @@ colonial
 camoudie 1
 coburgess 1
 camouflage 1
-camouflageable 1
+camouflageable 2
 camouflager 2
 contradictorily 1
 camouflagers 2
@@ -2441,7 +2441,7 @@ chetive 3
 chastize
 cancerigenic 1
 catechol 1
-cancerism
+cancerism 1
 cystidiums 1
 conemaking 2
 cancerogenic 1
@@ -2846,7 +2846,7 @@ canonesses 1
 canonicalization
 cinctures 2
 canonicalized 1
-canonicalizes 1
+canonicalizes 2
 croaked
 circumventive 1
 congealer 2
@@ -3424,7 +3424,7 @@ capreolate 1
 chimericalness
 crossbarring
 continuua 3
-capretto
+capretto 1
 capri 2
 capric
 checkhook
@@ -3925,7 +3925,7 @@ casquet 2
 carborundum 1
 conceptional 3
 commendatories 1
-cair 2
+cair 3
 chlorococcus
 carboxylation 1
 colonialised 1
@@ -6611,7 +6611,7 @@ ceboids 2
 chondritis
 congenitalness
 ceratitic
-creesh 1
+creesh 2
 cebollite
 cecal
 checkmated 2
@@ -8841,7 +8841,7 @@ characteristicalness
 cucaracha 2
 characteristicness
 chrysochlorous 3
-cognizableness
+cognizableness 1
 characterization 1
 characterizing 1
 characterless 1
@@ -10133,7 +10133,7 @@ chippewa 1
 categorizers 2
 compagnie 2
 chevener
-cheventayn 1
+cheventayn 2
 cheverel 2
 carcassed
 cardlike 2
@@ -10912,7 +10912,7 @@ chirks 1
 contrariety
 chlorotrifluoroethylene
 chirmed 3
-coarbiter 3
+coarbiter 4
 chirming 3
 chirms 1
 crumena
@@ -13173,7 +13173,7 @@ chiaroscuro 3
 clon
 ciceronianisms
 ciceronianist 1
-compellability
+compellability 1
 colluviums 3
 calycozoan 1
 clavellate
@@ -16252,7 +16252,7 @@ cornerman
 calcutta 1
 compagination
 clinohumite 1
-childermas 1
+childermas 2
 constringency 4
 contraindicate
 clinology 2
@@ -17535,7 +17535,7 @@ cocao
 chaneling
 caped
 cocarde 1
-chomped 1
+chomped 2
 cocash 2
 cocause
 cocautioner
@@ -17839,7 +17839,7 @@ codespairer
 classism 1
 codetermine 1
 codetta 1
-conditioned
+conditioned 1
 cabook
 codette 1
 cronel 4
@@ -18029,7 +18029,7 @@ cytogeneticist 3
 choriphyllous 1
 clitoridectomy
 chaffingly 2
-concaptive
+concaptive 1
 coherers 2
 coppice 2
 coenacle 1
@@ -19134,7 +19134,7 @@ chondriomite 1
 collobrierite
 cateress
 collocated 1
-cord 1
+cord 2
 crystallographer 2
 cauked 2
 cartomancy
@@ -20478,7 +20478,7 @@ comparative 1
 comparatively 1
 callianassidae 1
 cacophonia 2
-comparatives 1
+comparatives 2
 cpi 1
 contratabular 2
 comparativist 1
@@ -20891,7 +20891,7 @@ complicatedness 1
 cotarnin 2
 colicine 1
 carbonyls 2
-clonked 1
+clonked 2
 considerative 1
 celsia 2
 compoundedness
@@ -23190,7 +23190,7 @@ cuchan 1
 constitutionalize
 constitutionals
 constitutionary
-constitutions 1
+constitutions 2
 chromatoid 4
 cowpath
 constitutor 1
@@ -24008,7 +24008,7 @@ chamaesiphon 5
 convenances 1
 convene
 comedically
-communaliser 1
+communaliser 2
 convened
 convener 3
 counterexcommunication 1
@@ -26065,7 +26065,7 @@ cosher
 countermanded 4
 chestiness 1
 cupreine 1
-coshery
+coshery 1
 coshers 2
 cholralosed 1
 coshes 2
@@ -28314,7 +28314,7 @@ confederation 1
 cratometry 1
 carobs
 cumberment 1
-cratons 1
+cratons 2
 craunches 1
 coloring
 conilurus 1
