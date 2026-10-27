@@ -124,7 +124,7 @@ codshead
 cabinetmaking 2
 capacitated 2
 cabinetted 1
-coumalic 1
+coumalic 2
 chordophone
 clitelline
 cabinetworker
@@ -5612,7 +5612,7 @@ catchalls
 compunctionary 4
 catallactic
 catallum 2
-cladocerans 2
+cladocerans 3
 chatterbag
 catalo 1
 cataloes 2
@@ -8216,7 +8216,7 @@ cercarias 1
 chalazoin 1
 candytuft 1
 charvet 3
-chalcanth
+chalcanth 1
 chalcedony
 calabrasella 2
 chalcedonyx
@@ -11628,7 +11628,7 @@ cholelithotrity 1
 crosscurrent
 coed
 crankbird
-configurationism
+configurationism 1
 cholepoietic 1
 choler
 cholera
@@ -21372,7 +21372,7 @@ concinnity 1
 canari
 concinnities 1
 centuria
-cystoenterocele
+cystoenterocele 1
 comptonia 2
 concinnously 2
 callidness 2
@@ -21438,7 +21438,7 @@ crotons
 conclusory 2
 calybite 1
 conclusum 1
-caseful 1
+caseful 2
 chapellage 3
 concoagulate 2
 congestions 3
@@ -21932,7 +21932,7 @@ confessionally 3
 chirographary 1
 confessor 2
 confessorship
-confetti 1
+confetti 2
 conocephalus 2
 confidant
 cymbella
@@ -22205,7 +22205,7 @@ cafes
 compeered 1
 congealableness 1
 criticises 2
-congealing 1
+congealing 2
 counterrate 1
 contraband 1
 crematoriums 2
@@ -25732,7 +25732,7 @@ crouche 3
 convertibly
 cytolysis 1
 correllations
-corrente
+corrente 1
 crumblingness
 cleanhandedness 1
 cistophoric 2
@@ -26072,7 +26072,7 @@ coshes 2
 coshing 3
 cosy 1
 caulicule
-cosie 2
+cosie 3
 cedrine 1
 colotyphoid 2
 cosies 2
