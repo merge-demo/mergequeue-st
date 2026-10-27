@@ -155,7 +155,7 @@ galactosyl 1
 galvanosurgery 2
 glacialize 6
 guesthouse 1
-gingerroot 4
+gingerroot 5
 guaiaretic 2
 gardenmaker 5
 geophagy 2
@@ -736,7 +736,7 @@ gunner
 galvanologist 2
 giantlikeness 1
 gollywog 7
-gonoplasm 4
+gonoplasm 5
 gerbillinae 3
 gar 3
 goniometric 4
@@ -2270,7 +2270,7 @@ gestant 5
 grosse 4
 gripmen 3
 geological 6
-gonangia 5
+gonangia 6
 gooseberry 6
 gwyniad 1
 grallatorial 3
@@ -5285,7 +5285,7 @@ gabionade 1
 glassmen 2
 greener 3
 galiongee 3
-glycollate 3
+glycollate 4
 glomerulose 4
 geometricist 9
 generalised 2
@@ -10854,7 +10854,7 @@ galianes 2
 gunneress 3
 grewsomer 4
 granoblastic 5
-garruline 1
+garruline 2
 grewsomeness 2
 gweed 6
 gravidation 3
