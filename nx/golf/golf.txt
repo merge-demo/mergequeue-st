@@ -3992,7 +3992,7 @@ garboil 3
 grocery 3
 gastronome 5
 glonoine 1
-genitorial 2
+genitorial 3
 ghastlily 1
 gumtree 4
 guanines 5
@@ -4160,7 +4160,7 @@ grovel 3
 goloka 2
 gois 4
 gaetuli 2
-gyromagnetic 5
+gyromagnetic 6
 galvanomagnetism 1
 gyron 5
 golfing 2
@@ -7217,7 +7217,7 @@ gemlike 4
 gamesters 3
 grimliness 3
 gloze 3
-grater
+grater 1
 gonial 6
 gratin 3
 globosite 6
@@ -8977,7 +8977,7 @@ gedd 2
 goldanged 5
 getae 2
 gallicola 2
-grizzlyman
+grizzlyman 1
 groutiest 5
 gesso 2
 glycogelatin 4
