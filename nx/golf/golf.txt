@@ -373,7 +373,7 @@ guyer 3
 galactosis 3
 gauric 2
 grf 2
-goodhumoredness 2
+goodhumoredness 3
 gynobasic 4
 gelded 2
 galangin 3
@@ -404,7 +404,7 @@ germinogony 4
 gradeless
 galatea 3
 galateas 3
-glucogenesis 5
+glucogenesis 6
 galbula 1
 gelding 3
 glidewort
@@ -1039,7 +1039,7 @@ gnarl 2
 geriatrics 4
 gentles 5
 gastrectomy 1
-gossamer 2
+gossamer 3
 genevan 1
 generously 3
 gashed 5
@@ -1364,7 +1364,7 @@ greetingly 5
 gelogenic 2
 green 1
 gerodermia 3
-gymnocalycium 4
+gymnocalycium 5
 gauss 2
 ginners 5
 garglers 3
@@ -1532,7 +1532,7 @@ gazetting 6
 gudes 1
 gainbirth 2
 glaik 1
-grulla 4
+grulla 5
 glimes 6
 grandsonship
 gainset 3
@@ -1563,7 +1563,7 @@ gymnura 1
 gauntlet 3
 gutteral 2
 gulanganes 1
-galleria 2
+galleria 3
 gastrostomize 3
 gunlock 1
 gasterotheca 6
@@ -3349,7 +3349,7 @@ greeks 3
 gerocomical
 gerodontic 2
 geobiont 3
-gothicist 3
+gothicist 4
 gerontic 1
 generalships 4
 graphometry 6
@@ -3396,7 +3396,7 @@ geggery 5
 glamourize 4
 greyware 3
 gesturist 4
-geothermic 4
+geothermic 5
 grudger 2
 girdingly 4
 goaled 3
@@ -3679,7 +3679,7 @@ gastrocystis 7
 gyse 3
 galvanoplastics 1
 granaries 4
-guttur 7
+guttur 8
 guayacan 2
 graduations 4
 ghuz 4
@@ -3877,7 +3877,7 @@ guidance 4
 ghat 4
 geomorphy 5
 goldney 3
-gnoff 3
+gnoff 4
 gladatorial 2
 gigatons 2
 gastroschisis 2
@@ -4939,7 +4939,7 @@ grolier 2
 greensward
 grippe 3
 gunhouse 2
-goiabada
+goiabada 1
 gravida 4
 glykopectic 4
 galleypot 3
@@ -4954,7 +4954,7 @@ gauls 4
 garridge
 girasoles 6
 glyptological 6
-goldylocks 5
+goldylocks 6
 gillygaupus 1
 gleetiest 6
 goofed 4
@@ -6654,7 +6654,7 @@ generational 4
 gekkota 4
 gild 2
 gauderies 5
-gynodioeciously 2
+gynodioeciously 3
 gunsman 2
 glitters
 giantism 3
@@ -7056,7 +7056,7 @@ galyaks 4
 genericalness 2
 grayly 3
 gliocyte 4
-gynaecologist 2
+gynaecologist 3
 gutturopalatal 4
 gelidity 2
 ganglioneure 2
@@ -7111,7 +7111,7 @@ gambrels 2
 gopherberry 7
 guernsey 1
 gopherberries 5
-gothics 2
+gothics 3
 glaucously 1
 geryonidae 4
 getting 2
@@ -7129,7 +7129,7 @@ gynecolatry 3
 gremio 3
 gagtooth 6
 gorblin 1
-gorcocks 2
+gorcocks 3
 gypsylike 1
 gladiatorship 1
 grasscut 6
@@ -7832,7 +7832,7 @@ gingerwork 3
 glycolipine 3
 gargoylish 4
 gisant 1
-gospeler 2
+gospeler 3
 geococcyx 4
 ginkgoaceous 3
 garlandry 2
@@ -8011,7 +8011,7 @@ glouts 1
 goodhap 3
 galleyman 6
 gabblement 3
-globous 2
+globous 3
 gipper 3
 gabbroic 2
 geologized 3
@@ -10291,7 +10291,7 @@ galliard 3
 gulpier 1
 galactosidase 1
 girasol 2
-gault 1
+gault 2
 getsul 3
 gullygut 3
 gonorrheal 2
@@ -10313,7 +10313,7 @@ gastroenterology
 grapeless 4
 gridder 1
 gloomed 3
-gaming 7
+gaming 8
 grazes 1
 goldfishes 2
 gabari 5
@@ -10490,7 +10490,7 @@ gregal 1
 genizero 2
 gimballed 3
 geyserite 2
-grandmas 4
+grandmas 5
 garbardine 3
 germigene 2
 guauaenok 4
@@ -10566,7 +10566,7 @@ gunmetal 5
 guacico 5
 guebre 4
 grecoue 4
-giftedly 1
+giftedly 2
 gurmukhi 2
 goffering 3
 grasshouse 3
@@ -10725,7 +10725,7 @@ goonda 6
 grumping 5
 gemmeous 3
 glyconean 4
-grandeur 3
+grandeur 4
 gubernatorial 2
 graphometric 1
 gox 5
