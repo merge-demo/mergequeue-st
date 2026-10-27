@@ -155,7 +155,7 @@ galactosyl 1
 galvanosurgery 2
 glacialize 6
 guesthouse 1
-gingerroot 4
+gingerroot 5
 guaiaretic 2
 gardenmaker 5
 geophagy 2
@@ -736,7 +736,7 @@ gunner
 galvanologist 2
 giantlikeness 1
 gollywog 7
-gonoplasm 4
+gonoplasm 5
 gerbillinae 3
 gar 3
 goniometric 4
@@ -1278,7 +1278,7 @@ goethites 1
 gromatical 2
 gyrator 3
 glyphographer 2
-garments 3
+garments 4
 geohydrology 2
 gruffy 1
 grallina 5
@@ -1329,7 +1329,7 @@ galium 4
 genies 1
 gieing 4
 garroter 5
-gary 3
+gary 4
 goodness 2
 groundling 2
 gignate 3
@@ -1880,7 +1880,7 @@ gaudiest 4
 guhr 4
 grege 1
 gogetting 3
-glochids
+glochids 1
 glommox 5
 gastrozooid 3
 glaikit 2
@@ -2146,7 +2146,7 @@ guacos 3
 gastrointestinal
 gymnosperms 4
 galea 3
-goniostat 4
+goniostat 5
 goldfinches 2
 galliards 2
 gametange 4
@@ -2270,7 +2270,7 @@ gestant 5
 grosse 4
 gripmen 3
 geological 6
-gonangia 5
+gonangia 6
 gooseberry 6
 gwyniad 1
 grallatorial 3
@@ -5285,7 +5285,7 @@ gabionade 1
 glassmen 2
 greener 3
 galiongee 3
-glycollate 3
+glycollate 4
 glomerulose 4
 geometricist 9
 generalised 2
@@ -6379,7 +6379,7 @@ garston 1
 gettings
 gohila 1
 gasproof 1
-guff 5
+guff 6
 gussied 5
 glassworks 3
 gonotyl 4
@@ -7222,7 +7222,7 @@ gonial 6
 gratin 3
 globosite 6
 gastropathic 3
-galahad 2
+galahad 3
 globulose 4
 gallanted 2
 graminifolious 2
@@ -7291,7 +7291,7 @@ giglio 1
 grumness 3
 gladstonian 2
 geochronic 1
-glowbird 3
+glowbird 4
 gallophobe 3
 gerated 3
 gastraeadae 5
@@ -7305,7 +7305,7 @@ gnomon 1
 gassendist 4
 gastraea 2
 gnotobiotically 2
-gauffer 1
+gauffer 2
 graphiologist 1
 glutaric 4
 gubernator 1
@@ -8651,7 +8651,7 @@ glutaminase 2
 gerrymanderer 3
 genethliacs 2
 gentlemanly 1
-getaway 3
+getaway 4
 grapnel 3
 gerb 6
 gnathostomata 1
@@ -9263,7 +9263,7 @@ geostrophic 3
 grivna 3
 galeres 5
 grizzel 2
-gibingly 6
+gibingly 7
 graininess 3
 glowworm 4
 guts 5
@@ -10854,7 +10854,7 @@ galianes 2
 gunneress 3
 grewsomer 4
 granoblastic 5
-garruline 1
+garruline 2
 grewsomeness 2
 gweed 6
 gravidation 3
