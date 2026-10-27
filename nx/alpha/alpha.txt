@@ -4295,7 +4295,7 @@ acmispon 1
 azonium
 aggenerate
 armorer
-autotomize 2
+autotomize 3
 alchornea 1
 aesculapius 2
 anomaloflorous 1
@@ -6721,7 +6721,7 @@ aimak 2
 abolitionize 1
 allotypic 4
 azotin 2
-autocamp 1
+autocamp 2
 artocarpad 1
 armisonous 3
 autogiros 1
