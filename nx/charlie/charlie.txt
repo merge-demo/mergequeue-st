@@ -2175,7 +2175,7 @@ camphocarboxylic 1
 camphoid 4
 choryos 1
 camphol 2
-campholic 1
+campholic 2
 compilatory
 coleorhiza 3
 camphols
@@ -6083,7 +6083,7 @@ craftsperson
 cryptoporticus 1
 canephroi 1
 cantharidizing
-casuistical
+casuistical 1
 cresotic 2
 catmints 2
 catnap
@@ -6987,7 +6987,7 @@ coenobiod
 censurability 1
 catechiser 3
 censurableness
-censurably 1
+censurably 2
 cutlips
 censure 3
 censureless 2
@@ -7537,7 +7537,7 @@ coached 1
 chariotry 4
 counterindoctrination 1
 cerebellifugal
-cowan 1
+cowan 2
 cerebellorubral
 cerebellum
 contentation
@@ -9528,7 +9528,7 @@ cogitative
 checkrack 3
 casehardens 1
 cricotracheotomy
-calaththi 2
+calaththi 3
 checkrein 1
 checkroll 1
 compathy 3
@@ -10439,7 +10439,7 @@ chikee 1
 chiliomb 1
 conversative 1
 chil
-complementation 1
+complementation 2
 chilacayote 2
 calinago 2
 cleistogamous
@@ -14546,7 +14546,7 @@ cosmologic
 choppy
 cistercianism 1
 cisternae 4
-cisternal 3
+cisternal 4
 cornier 2
 compotier
 cystic 2
@@ -15441,7 +15441,7 @@ conditione 1
 comether 1
 clarinetists 1
 cadillac 2
-canvases 1
+canvases 2
 contemporise
 clarinets 1
 cryptorrhesis
@@ -16113,7 +16113,7 @@ cliffside 1
 cliffsman
 cassique
 cliffweed
-clift
+clift 1
 clifty 1
 crystallitis
 clarify 4
@@ -19736,7 +19736,7 @@ counterrotating
 combinator
 combinatory 1
 combinatorial 1
-combinatorially 2
+combinatorially 3
 combinators
 copaiva
 combined 2
@@ -19888,7 +19888,7 @@ commercialist
 chaussee 3
 comically
 critical 3
-comicalness
+comicalness 1
 cubited
 cymas 1
 comices 3
@@ -20810,7 +20810,7 @@ canted 1
 complots 3
 complotter 2
 carwitchet 2
-complotting 2
+complotting 3
 complutensian 1
 compo 3
 compoed
@@ -23895,7 +23895,7 @@ compositeness
 cauterized
 controversy 3
 controversialism
-controversialist
+controversialist 1
 cytotrophoblast 1
 controversionalist
 chirotonsory 1
@@ -26346,7 +26346,7 @@ costraight
 cloudberries
 chasteness
 choleromania 3
-costs 2
+costs 3
 certifying
 caddices
 chevrone 2
@@ -28176,7 +28176,7 @@ cranked
 cranker 1
 cullis 2
 crankily 1
-crankiness
+crankiness 1
 cranking 1
 crankle
 circumplication 1
@@ -30167,7 +30167,7 @@ crucial 1
 contraceptionist 2
 cruciality
 crucially 3
-crucian
+crucian 1
 chokidar 1
 crucians 1
 cruciately 2
@@ -31311,7 +31311,7 @@ citric 1
 caducities 5
 curch 1
 curculio
-curculionidae 2
+curculionidae 3
 calvatia
 curculios 3
 ceyssatite 1
