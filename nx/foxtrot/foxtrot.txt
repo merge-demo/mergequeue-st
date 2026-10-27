@@ -359,7 +359,7 @@ faints
 forcedness 3
 franklandite 1
 frenuna 3
-from 1
+from 2
 fieldfight 4
 froes 1
 fluorides 1
@@ -1716,7 +1716,7 @@ forayers 2
 fu 2
 fencibles 4
 felonies 2
-feastraw 4
+feastraw 5
 fledgling 3
 formican 1
 foreordainment
@@ -7531,7 +7531,7 @@ fibrosity 5
 flaser 2
 forsakers 2
 flentes 3
-fretten 3
+fretten 4
 fleshbrush 6
 frivoler 2
 foreboom 2
