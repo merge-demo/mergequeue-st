@@ -5937,7 +5937,7 @@ decimetres 3
 doubledamn 3
 divellent
 decimation
-deckswabber 1
+deckswabber 2
 debord 1
 decuples 1
 dragons 3
@@ -10606,7 +10606,7 @@ drawfile
 diphtheritic 2
 diplonema 1
 deuteric 1
-detritus
+detritus 1
 dunnaged 1
 diplont 1
 delisting 3
