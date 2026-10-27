@@ -1562,7 +1562,7 @@ bouton 4
 backsword 3
 ballastic 3
 ballata 2
-backswordman 2
+backswordman 3
 beatifying 1
 brisked
 batikulin 3
@@ -1898,7 +1898,7 @@ bonzes
 befoam
 bloodier 3
 bella
-bandidos 1
+bandidos 2
 baronetizing 2
 bushie 3
 bandie 4
@@ -2620,7 +2620,7 @@ bifronted 2
 bhaiyachara 4
 borana 3
 bunglesome 6
-barkey
+barkey 1
 briers 1
 barkery
 befortune
@@ -2901,7 +2901,7 @@ beclatter 4
 bestride 4
 boxlike
 braked 1
-badinage 2
+badinage 3
 barrater
 barratries
 blabbermouth 2
@@ -3057,7 +3057,7 @@ balsaming 2
 brigantine 2
 baruch 2
 bitten 3
-briery 1
+briery 2
 bialate 2
 biobibliographical 5
 bdellostomatidae
@@ -3385,7 +3385,7 @@ brans
 basiphobia 1
 besilver
 buccheros 2
-branchiopulmonate 4
+branchiopulmonate 5
 bassalia 2
 bootable
 brythonic
@@ -4501,7 +4501,7 @@ bluenose 2
 bedead
 becross 5
 bureaucratism 2
-becrowd 1
+becrowd 2
 burstwort 5
 billeting 2
 bacchanalias 3
@@ -4542,7 +4542,7 @@ bodhisattva 4
 bestrided 2
 babesia
 becurses 1
-becurst 2
+becurst 3
 basommatophorous 1
 becushioned
 blepharemphysema 3
@@ -4590,7 +4590,7 @@ bloodstone 3
 belial 3
 biddelian
 beats 2
-bedazement 2
+bedazement 3
 bigeminate 1
 bedazzle 2
 blared
@@ -4779,7 +4779,7 @@ batad 1
 blast 2
 bed 1
 bedribble
-bosnisch 1
+bosnisch 2
 burglarizes 3
 bibracteate
 billfold 2
@@ -6610,7 +6610,7 @@ berewick 1
 bradyseismic
 breth
 biunity 3
-banquettes 2
+banquettes 3
 bergall 2
 bergamasche 3
 bergamask 2
@@ -7265,7 +7265,7 @@ bacteriform 1
 bubbliest 3
 boxwood 2
 behallow 2
-betailor 1
+betailor 2
 bioresearch 1
 betain 3
 bibiru
@@ -7728,7 +7728,7 @@ biomathematics 1
 bhat 1
 burglaries
 bunning 2
-bheesty 2
+bheesty 3
 bullaries 2
 bheestie 3
 beblot
@@ -8101,7 +8101,7 @@ bicuspid 5
 bruxism
 brast 2
 biddability 5
-biddably 2
+biddably 3
 benedict 1
 boread 1
 bouillone
@@ -9529,7 +9529,7 @@ branchiostegite 2
 birthmark 1
 biographee 4
 banality 1
-besots 1
+besots 2
 birthnight 2
 birthplaces 1
 bogota 3
@@ -12596,7 +12596,7 @@ blurts 3
 bibbers 2
 blottesque 2
 batter 4
-bloubiskop 2
+bloubiskop 3
 bristlemouths
 biochemically 1
 bonnier 1
@@ -13233,7 +13233,7 @@ benzoyl 3
 barundi 1
 bosom 3
 blemmyes 2
-brenthis 2
+brenthis 3
 botryoidal
 bosomed
 beading 2
@@ -13465,7 +13465,7 @@ benefaction 2
 bars 3
 bryophytes 1
 bhutatathata 2
-bitterbrush 2
+bitterbrush 3
 bottlemaker 6
 begotten 1
 burgs 2
@@ -13611,7 +13611,7 @@ bahaism 4
 boulework 4
 blinded
 backstone 1
-boulimia 2
+boulimia 3
 berate 1
 bornyl 3
 bailiffry 3
@@ -15347,7 +15347,7 @@ bechalk 3
 booth 3
 boarship 3
 bighead 4
-bluffers 1
+bluffers 2
 bioelectrogenesis 1
 berther
 bordarius 1
@@ -15573,7 +15573,7 @@ bryonia 3
 belloot 3
 backbiter
 bryophyllum 2
-bouncy 4
+bouncy 5
 brios 1
 badinaging 2
 broomstick 6
