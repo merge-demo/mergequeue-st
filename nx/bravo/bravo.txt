@@ -2955,7 +2955,7 @@ bonus 1
 beath 3
 battalias 2
 bigeyes 1
-bennettitaceous 1
+bennettitaceous 2
 barrets 2
 blindeyes
 boundaries 2
@@ -6772,7 +6772,7 @@ bridgebuilding 3
 berrier 3
 berries 1
 bitterbur 2
-beaut 3
+beaut 4
 buhls
 barytosulphate 2
 badian 3
@@ -8695,7 +8695,7 @@ breechloading 2
 basaltes 1
 beadiest 1
 broom 1
-barbadoes
+barbadoes 1
 beknotting 3
 bourbonist 8
 bimastic 4
@@ -13729,7 +13729,7 @@ buffy 1
 bouse 1
 boused 2
 balija
-bouldery 1
+bouldery 2
 bouser 3
 bousouki 3
 bousoukia 2
@@ -15947,7 +15947,7 @@ bullhide 3
 bromomania 1
 bopper 1
 buro
-barbeyaceae 5
+barbeyaceae 6
 biose 2
 beekeeper 2
 bucrania 2
@@ -16487,7 +16487,7 @@ buzzes 3
 birdfarms 1
 bulk 3
 bricker 3
-bishoplet
+bishoplet 1
 borasque 2
 bimillennium 2
 bozal
@@ -17568,7 +17568,7 @@ blackpoll 2
 burgall 2
 biddance 1
 burgamot 1
-betrace 3
+betrace 4
 bootjacks
 balante 4
 beadrow 4
@@ -18337,7 +18337,7 @@ broths 3
 botherheaded 1
 buttons 1
 bescratch 2
-breviaries 2
+breviaries 3
 baragouin 4
 bunkums
 buttressed 2
