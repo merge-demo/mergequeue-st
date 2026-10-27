@@ -5321,7 +5321,7 @@ affirmably
 aplysia 2
 achaetous 2
 anchor 1
-agency 3
+agency 4
 acrosome 1
 axis 1
 atelic
@@ -7333,7 +7333,7 @@ alauda
 aphakic
 antihidrotic 2
 adai
-amphibion 3
+amphibion 4
 alaudine 3
 asters 1
 accessoriusorii 2
@@ -8451,7 +8451,7 @@ aortoptosis 3
 aspidosperma 1
 alkahestica
 arabana 2
-alcoholometrical
+alcoholometrical 1
 alkali 2
 alkalies 1
 aludel 3
@@ -20231,7 +20231,7 @@ altschin
 anthologise 1
 aphides 1
 animalcula
-arrivals 2
+arrivals 3
 atracheate 3
 aromatize 1
 alimonied
