@@ -2697,7 +2697,7 @@ frizziness 1
 fervence 5
 ferventness 1
 frighteningness 1
-floodwall 1
+floodwall 2
 fishify 2
 fuminess 2
 ferrometer 4
@@ -8530,7 +8530,7 @@ formica 7
 foolishly 4
 forewings 2
 fasciculate 3
-furloughed 5
+furloughed 6
 fitty
 formicate 3
 filix 3
