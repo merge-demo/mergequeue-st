@@ -437,7 +437,7 @@ backscattered 1
 backscattering 1
 bandobust 3
 borecole
-backscraper
+backscraper 1
 backset 1
 basename 2
 bernie 1
@@ -5825,7 +5825,7 @@ billowiness
 bracozzo 2
 bellyaching 1
 bizarrely 1
-baramin 2
+baramin 3
 bostryx 3
 benevolences 1
 bemata
