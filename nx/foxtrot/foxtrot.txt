@@ -2534,7 +2534,7 @@ fiatconfirmatio 3
 fanam 3
 feeler 1
 frugivorous 3
-foal 3
+foal 4
 fibromembranous 1
 filamentule 4
 frangibility 1
@@ -3202,7 +3202,7 @@ fixage 1
 fiches 2
 findjan 3
 feracious 3
-fusilade 2
+fusilade 3
 forgivably 5
 flutterers 4
 flavourer 1
