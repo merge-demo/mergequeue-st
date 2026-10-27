@@ -1688,7 +1688,7 @@ bengali 2
 befur 1
 ballstock 2
 ballup 1
-ballweed 1
+ballweed 2
 botony 2
 bouffante 2
 balmarcodes 2
@@ -4775,7 +4775,7 @@ bedraping 3
 bedread 1
 bedrench 2
 baldling 4
-batad 1
+batad 2
 blast 2
 bed 1
 bedribble
@@ -8830,7 +8830,7 @@ brilliants
 binny 1
 bumpered 1
 beanbags 4
-binnogue
+binnogue 1
 battel 3
 backstrap 1
 bepill 3
@@ -14846,7 +14846,7 @@ beanfeaster 2
 breachers
 belonite
 bedim 2
-bulborectal 1
+bulborectal 2
 breachful 2
 briefcases
 breadbasket 2
@@ -14920,7 +14920,7 @@ breakings 2
 bovicide 4
 breaklist 3
 blandishes 2
-buttercup 1
+buttercup 2
 belis 2
 bostonians 1
 breakoff 4
@@ -16070,7 +16070,7 @@ boxwallah 1
 burgullian
 bellows 3
 brontides 4
-bromeliaceae
+bromeliaceae 1
 bielby 4
 bilboa
 borrelomycetaceae 4
@@ -18061,7 +18061,7 @@ beefwood 2
 boast 3
 bislings 2
 bog
-bustlers 4
+bustlers 5
 bustles 2
 biologize 2
 bustlingly 3
