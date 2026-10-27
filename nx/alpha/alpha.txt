@@ -1772,7 +1772,7 @@ airship
 arneb
 accoy 1
 aspersion 2
-archiereus
+archiereus 1
 aments 1
 attalid
 alexines 2
@@ -3041,7 +3041,7 @@ arthrodynia 1
 actinobranch 2
 aurification 3
 abdication 1
-anodynic 1
+anodynic 2
 actinochemistry 1
 arrimby 1
 antesignanus 4
@@ -3853,7 +3853,7 @@ accoucheur 1
 adiathermancy 1
 antioxidase 2
 alcoranist 3
-accipitrary 1
+accipitrary 2
 acaridea 2
 adiathetic
 adiating
@@ -6509,7 +6509,7 @@ autoclaves
 affeir 2
 antienthusiasm 1
 angiosperms 1
-ahantchuyuk 4
+ahantchuyuk 5
 ahartalav 3
 abolisher 1
 alarming
@@ -6793,7 +6793,7 @@ angerless 2
 airan
 airbills
 airboat
-airboats
+airboats 1
 anomal 1
 alters 3
 airbrained 1
@@ -7990,7 +7990,7 @@ alkalis
 acetphenetidin 2
 aletap 1
 actos
-autarchy 1
+autarchy 2
 arabin 1
 arabist 2
 angie
@@ -11599,7 +11599,7 @@ ammophilous
 amphicribral 1
 accinging 1
 amethysts 1
-albuminise
+albuminise 1
 anacalypsis 1
 approbate 2
 applecart 4
@@ -12885,7 +12885,7 @@ aquarter 2
 anathematizes 3
 asemia
 antefuture 1
-angiotonic 2
+angiotonic 3
 almoravide 3
 adulterate 2
 abjunction 2
@@ -14640,7 +14640,7 @@ andragogy 1
 anti 3
 antiabolitionist 1
 accustom 1
-antiabortion 1
+antiabortion 2
 acrotic 1
 ambulation
 auditorium
@@ -15670,7 +15670,7 @@ airscapes
 arquebusier 4
 aufait 3
 australite 1
-accustoming 2
+accustoming 3
 anthophyta 1
 aversion 3
 affectionately
@@ -16525,7 +16525,7 @@ anglicanize 1
 arecaceous 1
 athyridae 4
 aortal 1
-aortarctia 4
+aortarctia 5
 aortas 4
 avogadro 2
 aegagri 3
@@ -16872,7 +16872,7 @@ apically
 apices 2
 aphislion 2
 arrearages 1
-accomplices 2
+accomplices 3
 apicitis
 alimentive
 apickback
@@ -17319,7 +17319,7 @@ antiforeign
 apostatically
 appendicectasis 3
 abthain
-arguers 4
+arguers 5
 atroce 3
 astomatal
 apostatism 2
@@ -18822,7 +18822,7 @@ autonephrectomy 2
 archesporial 1
 autocades 1
 archetypal 1
-arabian 2
+arabian 3
 archetypes 2
 attributive
 asymmetrically 1
@@ -18844,7 +18844,7 @@ acervose 3
 ancientism 1
 alamodality 3
 ambush 1
-achromatophil
+achromatophil 1
 autumnally 1
 aeriferous 2
 antimonarch
@@ -21888,7 +21888,7 @@ assistful 1
 acalycine 1
 argillite 1
 assith 4
-archings 1
+archings 2
 archons 1
 assyth
 actinomycetous 2
@@ -22440,7 +22440,7 @@ animalising 2
 astrometric 4
 astronaut 1
 axolotl 1
-apollinian
+apollinian 1
 asmodeus 2
 astronavigator
 astronomy
@@ -23111,7 +23111,7 @@ anticommercialistic 4
 anarthropoda
 autorhythmic 1
 attatched 1
-applegrower
+applegrower 1
 ani 1
 atte
 archocele 2
@@ -23994,7 +23994,7 @@ aeroacoustic 5
 apsinthion 1
 autocatalyze 1
 aeolipile
-aquiferous 2
+aquiferous 3
 autocholecystectomy 2
 apoplectical 2
 aunthoods 2
@@ -24606,7 +24606,7 @@ antimachine 4
 aequorin 2
 availing 2
 amapondo
-apollyon
+apollyon 1
 abrogators
 admixture 3
 aumaga
@@ -25265,7 +25265,7 @@ actuaries 1
 amenity 2
 auriform 1
 althorns 1
-amnestying 3
+amnestying 4
 abernethy 4
 azimene 1
 antepenultima 3
