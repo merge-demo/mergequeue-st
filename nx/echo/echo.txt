@@ -809,7 +809,7 @@ euglenidae 5
 ectypal 2
 ectype 3
 epicarpal 3
-enwrite 2
+enwrite 3
 erythrinidae 1
 eral 1
 excrescent 6
@@ -1163,7 +1163,7 @@ engrainedly 4
 egrimony 1
 erosible 1
 entitule 3
-education 3
+education 4
 edulcorating 2
 enscroll 2
 ensweep 5
@@ -1217,7 +1217,7 @@ epit 4
 enneastyle 1
 electrosherardizing
 embrue 1
-exceptio 4
+exceptio 5
 escalade 4
 externity
 eudendrium 2
@@ -1460,7 +1460,7 @@ eighths 2
 etymologised 3
 electrometric 4
 euphonia 1
-equisetums 3
+equisetums 4
 enplaning 3
 encompasses 2
 eurythermous 4
@@ -2001,7 +2001,7 @@ effranchisement 5
 eyeshot 2
 excussing 2
 evangelican 1
-embreathement 3
+embreathement 4
 eskimo 5
 etruscans 1
 ectobronchium 4
@@ -2045,7 +2045,7 @@ enjoyers 2
 encumberer 3
 euthyneural 1
 eulogises 4
-endothermy
+endothermy 1
 elapine 4
 emes 3
 endysis 2
@@ -2723,7 +2723,7 @@ electees 3
 edentate 3
 envoi
 etymology 1
-emetic 3
+emetic 4
 engorge 2
 eleemosynarily 2
 egos 5
@@ -3524,7 +3524,7 @@ exhibit
 eloquentness 2
 escorted 4
 enured 3
-epigonichthyidae 5
+epigonichthyidae 6
 embolectomy 2
 enicuridae 4
 emboli 2
@@ -5520,7 +5520,7 @@ extraovular 3
 extracurricular 6
 enfilades 2
 escutcheoned 3
-eerinesses 3
+eerinesses 4
 encasement 6
 everglades 3
 enucleator 4
@@ -5529,7 +5529,7 @@ electrophobia 4
 erroneousness 1
 exhance
 eatberry 2
-endostome 2
+endostome 3
 eugenists 2
 erythrolysis 1
 enfants 1
@@ -6511,7 +6511,7 @@ extraplanetary 4
 egophonic
 entangles 3
 empanel 2
-eatings 1
+eatings 2
 entasis 4
 elemin 2
 emiction 1
@@ -8265,7 +8265,7 @@ extremis 1
 epigyny 3
 epistemic 1
 epitheliolytic 1
-edgeway 2
+edgeway 3
 egyptians 2
 estragole 5
 eskimoic 2
@@ -8536,7 +8536,7 @@ encroaches
 eburneous 4
 etherial 1
 elucid 1
-eumorphic 4
+eumorphic 5
 equatorward 4
 etheriform 4
 equatorwards 3
@@ -8726,7 +8726,7 @@ equivelocity 1
 exuberated 4
 expatiator 1
 equivocal 3
-exuperable 3
+exuperable 4
 extermination 1
 encystment 1
 eulogising 1
@@ -9045,7 +9045,7 @@ europeans 1
 enbranglement 5
 exordial 1
 eyases 2
-electrotherapeutics 1
+electrotherapeutics 2
 entergogenic 1
 extrality 1
 extravascular 1
@@ -10745,7 +10745,7 @@ equiformal 3
 egriot 1
 eulachan 1
 ensulphur 3
-ennedra 2
+ennedra 3
 embedder 2
 epornitic 1
 eulachans 5
@@ -11119,7 +11119,7 @@ eusthenopteron 2
 electros 1
 espies 4
 esquiredom 3
-encage 1
+encage 2
 entune 4
 emulated 2
 emblemish 1
@@ -11167,7 +11167,7 @@ etiologically 1
 epaulet 1
 entity 2
 eadi 2
-evacuated 3
+evacuated 4
 endeavored
 epexegetical 1
 evulse 4
@@ -13349,7 +13349,7 @@ epilogist 2
 eyepoints 2
 encomendero 1
 ephoralty 2
-exponency 4
+exponency 5
 educated 2
 exponentiates 4
 eskar 2
@@ -14032,7 +14032,7 @@ exsertile 5
 eogaea 2
 elderbrotherly
 extrasocial 2
-ectophyte 7
+ectophyte 8
 eshin 3
 enripen 2
 escars 2
