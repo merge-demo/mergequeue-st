@@ -14130,7 +14130,7 @@ extrospect
 endarch 4
 evokes 2
 equivorous 1
-existentialize
+existentialize 1
 eutrophy 2
 endosternite
 embusqu 4
