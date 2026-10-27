@@ -2515,7 +2515,7 @@ candidatures 1
 candide 1
 chausse
 churls 2
-candidiasis 1
+candidiasis 2
 candidness 1
 candidnesses 1
 complicative 2
@@ -6047,7 +6047,7 @@ catholicon
 clinkers 1
 catholicos 1
 corposant
-curarize
+curarize 1
 coraciiform 1
 cleg 1
 cyanide 1
@@ -12589,7 +12589,7 @@ combinedness 2
 contagious
 chronogram 2
 celestially 2
-chronogrammatic 1
+chronogrammatic 2
 chronogrammatically 2
 cheetah 2
 cymatium
@@ -16771,7 +16771,7 @@ cotyliform
 cuckoldom 1
 clouted 2
 clouter
-clouterly 2
+clouterly 3
 chooseable 2
 clouty 2
 cuminoin
@@ -18878,7 +18878,7 @@ chadars 1
 colinearity 1
 churchified 1
 colinus 1
-carolina
+carolina 1
 colyonic 3
 coliphage 4
 colyone 3
