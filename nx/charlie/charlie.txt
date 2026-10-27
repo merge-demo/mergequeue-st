@@ -6401,7 +6401,7 @@ cauterise 2
 collision
 cloudland 2
 cauterism 1
-carafe 1
+carafe 2
 correcter 2
 conchfish
 cauterizer 1
@@ -6691,7 +6691,7 @@ ceylonite 1
 ceils
 compound 2
 counterquestion 1
-coathangers 2
+coathangers 3
 colligation 2
 centuriation 1
 cephalotomy 1
@@ -17783,7 +17783,7 @@ calculous 4
 coddlers 1
 coddles 1
 codebooks
-codebreaker 1
+codebreaker 2
 codebtor
 conceptualizations 2
 codebtors 1
@@ -17833,7 +17833,7 @@ chromoprotein 2
 certificating 3
 consumption
 cutigeral
-catchup 1
+catchup 2
 ciboney 2
 codespairer
 classism 1
