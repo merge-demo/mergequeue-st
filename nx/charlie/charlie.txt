@@ -16799,7 +16799,7 @@ cycadophyte 1
 cloverroot 1
 crepitus
 clovewort
-castling
+castling 1
 coauditor 1
 corporealist 2
 cuneator 1
@@ -28001,7 +28001,7 @@ cragwork 2
 controllership
 craichy 1
 crayer
-cloisterliness 1
+cloisterliness 2
 commendator 2
 crayfishes 1
 conditory 3
