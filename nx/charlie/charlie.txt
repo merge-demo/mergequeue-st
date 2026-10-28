@@ -1343,7 +1343,7 @@ cryptogrammatist 2
 chaucer 3
 catalogues
 clubionid 1
-calyceraceae
+calyceraceae 1
 cardioparplasis 1
 calices 1
 calyces
@@ -2687,7 +2687,7 @@ canidia
 carbonylation 1
 canikin 2
 chargedness 1
-cardiatrophia
+cardiatrophia 1
 cephalocereus 1
 canille 1
 canine 2
@@ -11581,7 +11581,7 @@ cholecystenterostomy 2
 cholecystgastrostomy 2
 carburisation 1
 cholecystic
-cholecystis 4
+cholecystis 5
 complimenting 1
 cholecystitis 1
 cozies 1
@@ -11873,7 +11873,7 @@ chorai
 choral 1
 choralcelo
 causeway 2
-chorale
+chorale 1
 carmagnoles
 castration 1
 chorales
@@ -14176,7 +14176,7 @@ circumaviator
 cowlike 2
 circumaxial 1
 cobles 1
-circumaxillary
+circumaxillary 1
 circumbasal
 circumbendibus
 conception 2
@@ -17094,7 +17094,7 @@ coadapting 2
 chauliodes
 crystals
 cyclohexane 3
-chemotherapeutic 3
+chemotherapeutic 4
 coccygalgia
 cohesive 3
 ctenophoric 1
@@ -18511,7 +18511,7 @@ collat
 concursion 2
 cohibit
 cohibition
-chinks
+chinks 1
 cohibitor 2
 cohitre 2
 chandlering 3
@@ -19071,7 +19071,7 @@ cetacea 2
 cepous 1
 collier 1
 circuli
-cuprite 1
+cuprite 2
 chariots
 colliery
 crises
@@ -24245,7 +24245,7 @@ ceratothecae 3
 constructing 4
 cynipidous 2
 convolves
-capacity
+capacity 1
 crinital 3
 contumaciously
 crowtoe 1
@@ -27374,7 +27374,7 @@ courses
 coursing
 court 2
 courtage
-climacterics
+climacterics 1
 courtal 1
 courtbred 3
 chattelization
