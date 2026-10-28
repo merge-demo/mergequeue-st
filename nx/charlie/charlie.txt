@@ -451,7 +451,7 @@ communications
 cactoid 1
 combind 1
 crocodilean 2
-chesteine 1
+chesteine 2
 coonily 1
 cactus 1
 copying 1
@@ -1078,7 +1078,7 @@ caduceus 1
 calceus
 challengable
 cysticercoidal
-costoclavicular
+costoclavicular 1
 calchas 1
 calche 1
 cordials 3
@@ -1589,7 +1589,7 @@ cystitome
 callitris
 crenitic 1
 chaplanry 1
-cartographer
+cartographer 1
 callo 2
 crawlway
 cyders 2
@@ -3305,7 +3305,7 @@ couchancy
 capitulant
 centrists 1
 capitularies 1
-clathrus 2
+clathrus 3
 clankingness 1
 cosmetiste 4
 capitularly 1
@@ -3977,7 +3977,7 @@ cerulescent 1
 carburizer
 carburizes 1
 chattelize 1
-caecilian
+caecilian 1
 cruster
 chinee 1
 carcajou
@@ -5337,7 +5337,7 @@ cleanser 1
 cribrately 1
 ctenophora 3
 cassocked
-cultures
+cultures 1
 cassocks
 chamberlain 1
 cuspidated
@@ -11125,7 +11125,7 @@ curatolatry 1
 chivaree 1
 compear
 coupler 1
-chivareing 1
+chivareing 2
 chivarees
 chivari 3
 chivaris
@@ -12783,7 +12783,7 @@ chummage
 casemaker 2
 chummed 3
 congelifract 3
-copaiye 2
+copaiye 3
 chummery
 chromotypography 1
 chummier
@@ -14960,7 +14960,7 @@ citrination 3
 currachs
 cytopharynxes
 citrinin 1
-citrinins
+citrinins 1
 citrins
 coumarouna
 calceolately 1
@@ -16653,7 +16653,7 @@ cypselidae 1
 closeouts 1
 closer 4
 chlorophyllose
-chrysler 1
+chrysler 2
 checkerwise
 closers
 closes
@@ -19024,7 +19024,7 @@ collectors 4
 circumscissile
 crisped
 complementarity 2
-creedless 1
+creedless 2
 collegia
 collegialism 2
 churchmanly 2
@@ -20038,7 +20038,7 @@ cynophilic 2
 commencer
 commencing 1
 coloslossuses 3
-crim
+crim 1
 cheweler 3
 cinemelodrama
 cocorico 1
@@ -20482,7 +20482,7 @@ comparatives 2
 cpi 1
 contratabular 2
 comparativist 1
-cardiodysesthesia
+cardiodysesthesia 1
 colombier 2
 comparers 4
 clatteringly 1
@@ -23381,7 +23381,7 @@ contactually 1
 ceratosaurus 1
 contagion
 contagioned 1
-computation 2
+computation 3
 ceramicite
 cooley 2
 cuculi 1
@@ -25861,7 +25861,7 @@ clawback
 corrupting 1
 chuser
 coolant 2
-corruptingly 3
+corruptingly 4
 cimicid 3
 circumflexes 1
 commissurotomy 2
@@ -30902,7 +30902,7 @@ cultigens
 cultish
 camera
 cerasin
-carboyed 1
+carboyed 2
 cultism
 crassulaceous
 coralflower 3
