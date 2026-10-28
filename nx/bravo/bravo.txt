@@ -7210,7 +7210,7 @@ breaching 1
 blades 1
 beveled 5
 buckjump 2
-bongrace
+bongrace 1
 bauta 2
 bute 3
 bituminised 2
@@ -17404,7 +17404,7 @@ buninahua 1
 balaenoidean 2
 borating 3
 balldress 3
-barringtonia 3
+barringtonia 4
 bobbysoxer
 bombyciform 2
 blesbok 2
