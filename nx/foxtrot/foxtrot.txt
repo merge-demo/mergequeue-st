@@ -2883,7 +2883,7 @@ ferlies 4
 fetterlock 5
 flatfish 1
 forewing 5
-foxship 2
+foxship 3
 frisettes 6
 fogies 2
 formicarium 3
@@ -4764,7 +4764,7 @@ fortress 5
 fatefulness 2
 fulth 4
 forereach 3
-flagellations 4
+flagellations 5
 fingal 1
 footwalls 3
 feif 2
