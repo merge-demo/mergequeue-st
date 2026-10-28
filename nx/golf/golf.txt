@@ -1384,7 +1384,7 @@ gravitometer 3
 garnetter 2
 glyconeogenetic 4
 guttular 5
-gamily 1
+gamily 2
 governs 3
 ganodonta 4
 garnison
@@ -3170,7 +3170,7 @@ gown 3
 gloater 4
 globosely 3
 gepidae
-gremlin
+gremlin 1
 genethliacally 3
 geraera 4
 garrons 4
@@ -3936,7 +3936,7 @@ guessingly 7
 gigster 4
 guarinite 6
 gemonies 3
-gloomier 4
+gloomier 5
 gastrology 4
 gnomological 3
 guatuso 1
@@ -4234,7 +4234,7 @@ groaned 2
 gabfests 4
 granulate 5
 glyptotherium 3
-garryaceae
+garryaceae 1
 glabellum 2
 guran 4
 granolithic 3
@@ -4291,7 +4291,7 @@ golfdom 2
 glittersome 4
 ganancial 3
 gigerium 1
-glycogeny 2
+glycogeny 3
 gashy 4
 gelatiniser 2
 gutlike 3
@@ -4823,7 +4823,7 @@ gamer 6
 glairiest 2
 gladsomest 3
 globiocephalus 1
-guardee 6
+guardee 7
 gladwin 4
 gauffred 2
 gymnotoka 9
@@ -10534,7 +10534,7 @@ gudesakes 4
 gentamicin 7
 gunge 6
 germinability 3
-gunjah 2
+gunjah 3
 gaucheries
 genisaro 6
 glyceraldehyde 1
