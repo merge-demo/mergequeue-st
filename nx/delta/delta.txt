@@ -15613,7 +15613,7 @@ daggers 3
 diascordium
 dissembler 3
 departement 1
-directable
+directable 1
 doorstop 3
 devotionality 1
 disulfate
