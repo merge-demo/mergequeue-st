@@ -4509,7 +4509,7 @@ fanout 1
 flammule 3
 filleul 1
 fuddles 3
-francophobia 4
+francophobia 5
 flagging 2
 forestalling 3
 farmlands 4
@@ -6719,7 +6719,7 @@ felted 1
 frounced 3
 fogo 6
 frescoists
-fighters 9
+fighters 10
 feast 1
 fellowships 5
 forelegs 5
@@ -7606,7 +7606,7 @@ frankheartedness 4
 fatuity 7
 footslogs 3
 flacherie 2
-forjudgment 4
+forjudgment 5
 fatimid 3
 foredoomer 3
 forepaling
@@ -9943,7 +9943,7 @@ flintstone 1
 flitching 2
 fraghan 1
 frits 5
-friskier 2
+friskier 3
 folliculous 2
 foliaceousness 3
 fibrofatty
