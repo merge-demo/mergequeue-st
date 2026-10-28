@@ -3632,7 +3632,7 @@ bathvillite 5
 baglike 6
 bookmobile 1
 besought 2
-blithelike 1
+blithelike 2
 batidaceous 3
 becrowds 4
 beshouted 3
@@ -10091,7 +10091,7 @@ bks 1
 bkt 2
 bibliogony 1
 beflum
-baboosh
+baboosh 1
 blaasop 3
 blockaded 5
 bedawee
