@@ -1832,7 +1832,7 @@ bamming 1
 blennocystitis 3
 becobweb 5
 beebreads 1
-bizardite 2
+bizardite 3
 bepurple
 banago 1
 buzzy 3
@@ -5360,7 +5360,7 @@ buyable 1
 bromobenzene 4
 barodynamic
 barbarisation 2
-burly 3
+burly 4
 broomshank 2
 birne 1
 begrett 4
@@ -7071,7 +7071,7 @@ boycott 1
 bedswerver 1
 bespeaking 2
 bullalaria 4
-bespeaks 1
+bespeaks 2
 banderoling
 bespecked 4
 backrun 3
@@ -9291,7 +9291,7 @@ biplane 1
 byee 1
 bobolink 2
 biplanes 1
-beclogging 2
+beclogging 3
 bullterrier
 bonavist 2
 butler
@@ -9742,7 +9742,7 @@ bacchante 1
 byssal 2
 bissellia 1
 bullbats 2
-balding
+balding 1
 bombylious 1
 begobs 1
 barleduc 2
@@ -11527,7 +11527,7 @@ benighting 1
 blunderbusses
 bowed 1
 boundure 2
-bestare 1
+bestare 2
 bultell 2
 blunderhead 1
 branchiate 3
@@ -12365,7 +12365,7 @@ bathyplankton 2
 beautifies 5
 buttoned 3
 benzoxyphenanthrene
-bonkers 2
+bonkers 3
 beplaided 3
 bab
 berime 2
@@ -12502,7 +12502,7 @@ bejaundice
 bonebreaker 2
 bifoliolate 1
 brobdingnag 3
-bonedry 3
+bonedry 4
 bimillenium 2
 broodier 2
 bellyflaught 5
@@ -16564,7 +16564,7 @@ burghalpenny 2
 becurse 3
 bedsit 2
 blepharophthalmia 2
-bocasine
+bocasine 1
 backpointers 4
 baboo 2
 boringly
@@ -17298,7 +17298,7 @@ boniest
 bauxite
 bantams
 bummel 1
-bummie 2
+bummie 3
 bursal
 bumming 2
 basilweed
@@ -17355,7 +17355,7 @@ bundled 1
 broiders 2
 boardmen 1
 boudeuse 1
-bottleneck 3
+bottleneck 4
 badged 1
 bundles 2
 bipaliidae 2
@@ -18215,7 +18215,7 @@ butterbird
 barium 1
 bituminize 1
 borated 2
-buttered 2
+buttered 3
 beshadowing 5
 balkily 2
 brisken
