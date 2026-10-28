@@ -793,7 +793,7 @@ completories 2
 cahincic 3
 cahita 2
 continency 2
-cunas
+cunas 1
 collyr
 circulating
 circumvent 2
@@ -3011,7 +3011,7 @@ cantilene 1
 cantilever 1
 cantilevered 2
 cantilevers 3
-cantily
+cantily 1
 codenization 3
 cantina
 canting 1
@@ -3439,7 +3439,7 @@ capricious
 cajole 2
 capricornid 2
 conditotoria 2
-centon
+centon 1
 cedarware 1
 caprificate 1
 canyon 2
@@ -4028,7 +4028,7 @@ cutcheries 3
 cannaled 1
 countertierce
 choosingly 1
-carcinomatoid 1
+carcinomatoid 2
 carcinomatosis 1
 carpetweed
 cellophane
@@ -6749,7 +6749,7 @@ celeste
 celiosalpingotomy
 centrical 1
 cadiueio 1
-conjectures 1
+conjectures 2
 crustacea 1
 canstick 1
 compartmentally
@@ -7939,7 +7939,7 @@ costodiaphragmatic 1
 contes
 cf 3
 cfd 1
-ch
+ch 1
 cha 2
 capture
 colloquized 2
@@ -9225,7 +9225,7 @@ copperproof
 corrosionproof 3
 conceive 2
 corporeality 2
-chathamites 1
+chathamites 2
 chatoyant 2
 catholical 3
 chatons
@@ -9728,7 +9728,7 @@ cheiropod
 congressed 2
 cheiropody
 cheiropterygium
-coexisted
+coexisted 1
 cheirosophy 2
 cheka
 centennial
@@ -10458,7 +10458,7 @@ charlottesville 3
 cosurety
 chilblained 1
 chilcat 1
-coprostanol 2
+coprostanol 3
 cetaceum 1
 chelophore 1
 child 1
@@ -11253,7 +11253,7 @@ chloridic 2
 chloridized 4
 collochemistry 2
 chemotropism
-compaternity 2
+compaternity 3
 carlin
 chlorimeter
 chlorimetric 1
@@ -14564,7 +14564,7 @@ cystid
 cohogs 1
 cystidea 1
 cystinosis
-cotehardie 2
+cotehardie 3
 comburendo
 cystidean 1
 coumarinic
@@ -17604,7 +17604,7 @@ cumins
 cupidity
 culrage
 coccochromatic 2
-coccogone 1
+coccogone 2
 coccogoneae 2
 concyclically
 coccoidal 2
@@ -17809,7 +17809,7 @@ communion 1
 cunjah 1
 conium
 counterlit
-counselling 1
+counselling 2
 cacking 1
 codeine 1
 cryptopin
@@ -19926,7 +19926,7 @@ comital 1
 comitatensian
 collectives
 contriturate 3
-clayish
+clayish 1
 comity
 comitia
 comitial
@@ -20974,7 +20974,7 @@ crowflower
 clistothecia 2
 cumbrian 1
 comminister 4
-chessel 1
+chessel 2
 citral 1
 cuticle 1
 clunisian
@@ -22730,7 +22730,7 @@ conjecture 2
 columnizes 2
 conplane 2
 counterevidence 2
-cryosphere 3
+cryosphere 4
 conquerer 1
 conquerers 1
 conqueress 2
@@ -23756,7 +23756,7 @@ cherogril 2
 carbonometry 2
 contrapolarization
 cytopenia 1
-contrapose 1
+contrapose 2
 clinospore 1
 chalcograph 3
 contraposit 1
@@ -24068,7 +24068,7 @@ caprimulgi 3
 cirrolite
 codfisheries 2
 convergence 2
-coiling 1
+coiling 2
 convergences 2
 comps
 convergency 1
@@ -25253,7 +25253,7 @@ corynocarpaceous 1
 corynocarpus
 corynteria 2
 corinth 1
-corinthes
+corinthes 1
 corinthiac 1
 corinthianize
 cumidine
@@ -25817,7 +25817,7 @@ coccoids 3
 corrody 1
 celloist
 corrodiary 2
-chemopause 2
+chemopause 3
 corroded 1
 corrodibility
 centimeters 1
@@ -27306,7 +27306,7 @@ coupe
 couped
 canner 1
 cicrumspections 2
-cocus 3
+cocus 4
 calked
 concernment
 czarowitch
@@ -27427,7 +27427,7 @@ courtney 1
 courtnoll 1
 cappier
 courtroll 1
-ceratium 1
+ceratium 2
 courtship 2
 cleach 1
 courtside
@@ -29297,7 +29297,7 @@ cryptocurrency 1
 cunabula
 clericalist 2
 coagitate
-cryptodeist 2
+cryptodeist 3
 cryptodynamic
 corcir 1
 cryptodira
@@ -29675,7 +29675,7 @@ cathars 4
 cornucopiate
 crofters
 cainozoic 1
-covering
+covering 1
 croyden 3
 croydon
 croiik
@@ -30435,7 +30435,7 @@ crutter 1
 cowhands 2
 crux
 cruxes
-chorizontes 1
+chorizontes 2
 cruzado
 cruzieros
 crwd 2
@@ -30577,7 +30577,7 @@ cashboy 1
 crepidula 2
 cubocuneiform
 concarnation 1
-cuboid
+cuboid 1
 conopholis 2
 cuboidal 1
 cuneocuboid
@@ -31647,7 +31647,7 @@ curvulate 1
 cuscohygrin 1
 cruciferous 1
 cuscus 2
-cuscuta 2
+cuscuta 3
 convivio
 choiciest 2
 corselets 3
