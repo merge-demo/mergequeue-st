@@ -1361,7 +1361,7 @@ gesturers 6
 garmentmaker 3
 gemmel 3
 greetingly 5
-gelogenic 2
+gelogenic 3
 green 1
 gerodermia 3
 gymnocalycium 5
@@ -1384,7 +1384,7 @@ gravitometer 3
 garnetter 2
 glyconeogenetic 4
 guttular 5
-gamily 1
+gamily 2
 governs 3
 ganodonta 4
 garnison
@@ -1548,7 +1548,7 @@ grana 1
 gentlemens 3
 gilbert 3
 glutelin 3
-gripe 2
+gripe 3
 glassless 2
 ghegish 4
 guested 6
@@ -2636,7 +2636,7 @@ gangliectomy 1
 grubstaker 2
 glyptal 2
 gervas 5
-gardening 3
+gardening 4
 gardeviance 2
 gibbles 1
 grabbing 1
@@ -3170,7 +3170,7 @@ gown 3
 gloater 4
 globosely 3
 gepidae
-gremlin
+gremlin 1
 genethliacally 3
 geraera 4
 garrons 4
@@ -4234,7 +4234,7 @@ groaned 2
 gabfests 4
 granulate 5
 glyptotherium 3
-garryaceae
+garryaceae 1
 glabellum 2
 guran 4
 granolithic 3
@@ -4291,7 +4291,7 @@ golfdom 2
 glittersome 4
 ganancial 3
 gigerium 1
-glycogeny 2
+glycogeny 3
 gashy 4
 gelatiniser 2
 gutlike 3
@@ -4823,7 +4823,7 @@ gamer 6
 glairiest 2
 gladsomest 3
 globiocephalus 1
-guardee 6
+guardee 7
 gladwin 4
 gauffred 2
 gymnotoka 9
@@ -6245,7 +6245,7 @@ goateed 6
 guitarlike 5
 gregariousness 4
 guttural 2
-ghostiest 2
+ghostiest 3
 gconv 3
 grandniece 1
 gentle 1
@@ -6446,7 +6446,7 @@ goldener 6
 gypsyhead 4
 gidgee 5
 guary 1
-goldentop 1
+goldentop 2
 glochideous 1
 gorgonized 3
 governor 5
@@ -8007,7 +8007,7 @@ garmentless 4
 gasifiable 2
 gainer 1
 guttee 3
-glouts 1
+glouts 2
 goodhap 3
 galleyman 6
 gabblement 3
@@ -8935,7 +8935,7 @@ galantuomo 2
 gobang 2
 grete 5
 grainage 5
-ganglier 6
+ganglier 7
 giddies 7
 geoducks 4
 gemming 4
