@@ -5258,7 +5258,7 @@ flavorsome
 falda 1
 fossilage 2
 fills 2
-fstore 3
+fstore 4
 fissiped 2
 flavoured 2
 fondant 3
@@ -5335,7 +5335,7 @@ flayflint 3
 fleabag 5
 fusillade 6
 faintheart 1
-furciform 4
+furciform 5
 fleabags
 fireclay 2
 fluorites 3
