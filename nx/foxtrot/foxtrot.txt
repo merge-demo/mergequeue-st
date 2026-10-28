@@ -2651,7 +2651,7 @@ freshes 6
 fluocerite 3
 frumpling 1
 ferrumination 3
-fluviatic 1
+fluviatic 2
 fraters 2
 feedings 2
 fainaigue 4
@@ -5671,7 +5671,7 @@ flagleaf 2
 fatted 3
 fishnets 3
 finedraw 1
-fumet 1
+fumet 2
 fermium 3
 fawe 3
 fragility 2
@@ -6423,7 +6423,7 @@ flyboat 2
 flannelled 4
 fitchet 4
 forescene 4
-fairm 1
+fairm 2
 flaggier 1
 foliates 4
 fireflower 4
@@ -9017,7 +9017,7 @@ fourierism 1
 fourneau 4
 femes 3
 filly 1
-feltings 1
+feltings 2
 farcist 3
 flavine 4
 fourpenny 4
@@ -9109,7 +9109,7 @@ fribbleism 2
 fractionation 4
 forenent 1
 folding 2
-friesish 3
+friesish 4
 fenter 1
 forbruise 1
 foederis 4
@@ -10098,7 +10098,7 @@ fibrosis 2
 fablemonger 3
 faddish 1
 fait 2
-featherhead 2
+featherhead 3
 flabbiest 6
 feloniously 6
 familistical 4
@@ -10567,7 +10567,7 @@ frowners 2
 fatlike 5
 faciend 4
 freq 1
-frowsily 4
+frowsily 5
 footslogging
 famishment 2
 fixable 3
@@ -11587,7 +11587,7 @@ fundatrix 2
 feudee 3
 fanleaf 2
 federalization 4
-fruitlike 2
+fruitlike 3
 fthm 4
 fusionist 1
 forlanas 5
