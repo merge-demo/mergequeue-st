@@ -522,7 +522,7 @@ dalmatic 1
 dalt 2
 dalton 2
 denomination 1
-dermaskeleton
+dermaskeleton 1
 dama 2
 damageability 3
 damageably 1
@@ -5545,7 +5545,7 @@ drouthiness 4
 depends 5
 dallack 6
 dispersed 1
-dramatizable 3
+dramatizable 4
 dukeship 2
 dieters 3
 depeopled 2
@@ -7576,7 +7576,7 @@ danli 3
 distingu 1
 dancy 1
 debated 2
-diverging 1
+diverging 2
 detersion 1
 dingily 1
 deutoplastic 6
@@ -8468,7 +8468,7 @@ dapperest 1
 diaminogen 2
 downset
 directionize 5
-dodecyl 5
+dodecyl 6
 downgrades 2
 diamondbacked
 debaucher 1
@@ -8967,7 +8967,7 @@ disconanthous 1
 duodenotomy 1
 depopulators 3
 digastric 1
-disincarceration 2
+disincarceration 3
 decollate 3
 dismarry 3
 dorippid 2
@@ -12923,7 +12923,7 @@ disodium 2
 daunii
 decreation 4
 disdiazo 1
-dowment
+dowment 1
 deniability 3
 dimensionless 3
 dicycle
