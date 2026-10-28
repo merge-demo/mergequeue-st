@@ -11581,7 +11581,7 @@ cholecystenterostomy 2
 cholecystgastrostomy 2
 carburisation 1
 cholecystic
-cholecystis 4
+cholecystis 5
 complimenting 1
 cholecystitis 1
 cozies 1
@@ -11873,7 +11873,7 @@ chorai
 choral 1
 choralcelo
 causeway 2
-chorale
+chorale 1
 carmagnoles
 castration 1
 chorales
@@ -14176,7 +14176,7 @@ circumaviator
 cowlike 2
 circumaxial 1
 cobles 1
-circumaxillary
+circumaxillary 1
 circumbasal
 circumbendibus
 conception 2
@@ -15288,7 +15288,7 @@ copalchi 1
 clamouring
 collembolan 2
 clamourist 2
-coadmired
+coadmired 1
 cellaret
 congous
 clamourous 1
@@ -16760,7 +16760,7 @@ cursedest 2
 chalcophile
 cloudward 2
 calamiferous 1
-coactivity 1
+coactivity 2
 clouee
 culpon 2
 congested
@@ -21007,7 +21007,7 @@ calligram
 crypteronia 1
 curucanecan
 compte
-cantorship
+cantorship 1
 compted 1
 comptie
 compting 1
@@ -22847,7 +22847,7 @@ chaldee 1
 cytoblastematous 2
 consentive
 cardinalitian
-consentment
+consentment 1
 consents 1
 catchiness 1
 causticized 3
@@ -25935,7 +25935,7 @@ capitalization
 congas 1
 coeternally 3
 cortexes 1
-cortication
+cortication 1
 cortices
 corticiferous
 cordula 2
@@ -27374,7 +27374,7 @@ courses
 coursing
 court 2
 courtage
-climacterics
+climacterics 1
 courtal 1
 courtbred 3
 chattelization
