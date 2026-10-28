@@ -155,7 +155,7 @@ depasturable 2
 drugstore 3
 doltishly 1
 dareall 3
-designfully 3
+designfully 4
 dadoes 2
 deiparous
 demounted 2
@@ -3839,7 +3839,7 @@ deathfully 1
 doer 1
 deirid
 deis 3
-deisidaimonia
+deisidaimonia 1
 disquieting 1
 deism 1
 decentred 1
@@ -5571,7 +5571,7 @@ disserves
 dabble 1
 dichromatopsia 2
 depersonalise 5
-depersonalising
+depersonalising 1
 desponded 2
 diplomatology 2
 depersonalized 1
@@ -5850,7 +5850,7 @@ deontic 2
 disembargoed 4
 deodars
 diablene 2
-duffy 2
+duffy 3
 deprehend 2
 disprofit 4
 damsel
@@ -7709,7 +7709,7 @@ darwinism 2
 dermis 2
 devilfish 4
 decelerators 2
-detail
+detail 1
 deviling 2
 deeded 2
 devilishness
@@ -7803,7 +7803,7 @@ desensitizing 8
 duopod 2
 dishelmed 4
 discographies
-devolves 2
+devolves 3
 daylighted 1
 diplospondylic 2
 dispending 1
@@ -7988,7 +7988,7 @@ dezincifying 2
 discifloral 3
 deluders 1
 dezincking 2
-dioeciously
+dioeciously 1
 drouthiest 4
 dezincs
 damageable 1
@@ -8439,7 +8439,7 @@ dooxidize 1
 dextro 1
 decrowns 2
 daimonology 4
-decise 3
+decise 4
 deration 3
 didymis
 diamat 2
@@ -9182,7 +9182,7 @@ denazification 2
 demilance 2
 devilman 3
 ditriglyph 2
-dieb 2
+dieb 3
 dusterman 4
 delaine 1
 diebacks
@@ -9368,7 +9368,7 @@ dockages 4
 demonstrance
 dunlin 4
 depulse 4
-dottels 4
+dottels 5
 demasted 1
 dentirostres
 dautie 4
@@ -9983,7 +9983,7 @@ disopinion 2
 dimoric 1
 demigoddess 2
 demilitarization 2
-dotardism 3
+dotardism 4
 derv
 disconnectiveness 6
 dimorph 1
@@ -11116,7 +11116,7 @@ dyslectic
 doeg
 danite 2
 dogmatist 2
-defectibility 1
+defectibility 2
 devvel 1
 dyeline 1
 disavower 2
@@ -12856,7 +12856,7 @@ doryman 4
 developments 1
 decipher
 dispatchful 4
-devitrify 1
+devitrify 2
 diacoele 3
 darklier 1
 decalcify 1
@@ -12931,7 +12931,7 @@ disomatic 2
 doubtmonger 1
 dugout 2
 dermostosis
-degreeing 1
+degreeing 2
 docilities
 discolor 3
 disaffectedness 4
@@ -15047,7 +15047,7 @@ determinable
 doggoning
 detant
 dislady 1
-difunctional 1
+difunctional 2
 dogget 2
 doggrelize
 disprince 1
@@ -15613,7 +15613,7 @@ daggers 3
 diascordium
 dissembler 3
 departement 1
-directable
+directable 1
 doorstop 3
 devotionality 1
 disulfate
@@ -17061,7 +17061,7 @@ dressed 1
 disgarrison 1
 diphyes
 debbie 1
-disfame 5
+disfame 6
 drudgers 2
 doughtiest 2
 disputativeness 1
@@ -17527,7 +17527,7 @@ drudged 3
 diabolifuge 1
 dwarf 1
 depolish 2
-drudges 3
+drudges 4
 ditheists 2
 drudgism 3
 dispope 2
@@ -18247,7 +18247,7 @@ dentatocostate 2
 diamagnetometer 3
 detonatability 1
 deadlocks 1
-dermatorrhoea
+dermatorrhoea 1
 dode 1
 decurrent 4
 dunderfunk
