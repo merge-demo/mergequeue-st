@@ -7939,7 +7939,7 @@ costodiaphragmatic 1
 contes
 cf 3
 cfd 1
-ch
+ch 1
 cha 2
 capture
 colloquized 2
@@ -9225,7 +9225,7 @@ copperproof
 corrosionproof 3
 conceive 2
 corporeality 2
-chathamites 1
+chathamites 2
 chatoyant 2
 catholical 3
 chatons
@@ -24068,7 +24068,7 @@ caprimulgi 3
 cirrolite
 codfisheries 2
 convergence 2
-coiling 1
+coiling 2
 convergences 2
 comps
 convergency 1
@@ -29675,7 +29675,7 @@ cathars 4
 cornucopiate
 crofters
 cainozoic 1
-covering
+covering 1
 croyden 3
 croydon
 croiik
@@ -30577,7 +30577,7 @@ cashboy 1
 crepidula 2
 cubocuneiform
 concarnation 1
-cuboid
+cuboid 1
 conopholis 2
 cuboidal 1
 cuneocuboid
