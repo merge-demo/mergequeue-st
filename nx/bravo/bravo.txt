@@ -434,7 +434,7 @@ backplane 2
 bushwas 4
 backscatter
 backscattered 1
-backscattering 1
+backscattering 2
 bandobust 3
 borecole
 backscraper 1
@@ -895,7 +895,7 @@ beffroy 3
 baggala 2
 borderlight 3
 bagganet 3
-baggara 1
+baggara 2
 bellyfulls 1
 bawcock 3
 beseechingly 2
@@ -1653,7 +1653,7 @@ boyarism 1
 blier 1
 butyrous 1
 balloted 1
-ballotist 4
+ballotist 5
 ballots
 ballottement 4
 bailiffship 2
@@ -1864,7 +1864,7 @@ bowlin 3
 bushranging 2
 bandala 1
 bandanaed 4
-battlepiece
+battlepiece 1
 bollito
 bandeau 5
 betula 2
@@ -2752,7 +2752,7 @@ bukeyef
 barology 5
 barolong 1
 boroughship 4
-barometers 3
+barometers 4
 beefy 2
 blam 1
 brainache 1
@@ -2959,7 +2959,7 @@ bennettitaceous 2
 barrets 2
 blindeyes
 boundaries 2
-blobby 4
+blobby 5
 benedicts 2
 barricadoes 4
 brainsick 1
@@ -6590,7 +6590,7 @@ bacharach 4
 bukh 1
 bodyplate 2
 beant 4
-bereaves 6
+bereaves 7
 backsplice 1
 boninesses 5
 boastings
@@ -7549,7 +7549,7 @@ bumblepuppy
 bewailers 3
 blowpit 2
 beguilingly 1
-bandolier 2
+bandolier 3
 bandwagons 1
 beloam 5
 bewary 3
@@ -9030,7 +9030,7 @@ babelike 4
 brontephobia
 besmuts
 biometries 4
-bion 2
+bion 3
 byon 1
 brasqued 2
 bionditional 3
@@ -9578,7 +9578,7 @@ bogue 1
 betaking 5
 bluejack 1
 battlements 2
-ballhawk
+ballhawk 1
 biscayanism 2
 burnover 1
 barbal 3
@@ -9831,7 +9831,7 @@ bitanhol 2
 busses 1
 bitartrate 3
 beneplacito 4
-blackballing 1
+blackballing 2
 bandonion 4
 biteable 2
 begin 4
@@ -9840,7 +9840,7 @@ bongo
 bawd 2
 bougainvillaeas 2
 burgherhood 3
-biteche 3
+biteche 4
 barbicans 4
 bowdlerization
 barrels 1
@@ -9903,7 +9903,7 @@ bioscope
 bestialist 1
 brotherly 4
 beasties 2
-besmirches
+besmirches 1
 bitter 1
 bitterbloom
 bittered 4
@@ -10110,7 +10110,7 @@ beamish 4
 bretonian 2
 behave 3
 blackamoors
-boondoggled
+boondoggled 1
 blackbine 3
 bolshevistically 2
 blackback 3
@@ -12071,7 +12071,7 @@ battiest 3
 boiserie 2
 boyship 2
 boisterous 1
-barkingly 1
+barkingly 2
 brangling 2
 bastille
 boistous 4
@@ -13445,7 +13445,7 @@ brightsome 2
 belowstairs 2
 barbarea 1
 blunts 5
-baryglossia 2
+baryglossia 3
 booting 1
 buncombes 4
 bibliotheca 1
@@ -14037,7 +14037,7 @@ barriguda 2
 braceros 2
 butcherbroom 4
 bacchanalism 1
-bracherer
+bracherer 1
 basiate 3
 blackguards 1
 bedesmen 1
@@ -17996,7 +17996,7 @@ bowled
 boners
 bigarades 3
 benzophenoxazine 3
-blanketing 2
+blanketing 3
 bilineated 1
 bonnock 3
 ballyragging 2
