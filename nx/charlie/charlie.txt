@@ -451,7 +451,7 @@ communications
 cactoid 1
 combind 1
 crocodilean 2
-chesteine 1
+chesteine 2
 coonily 1
 cactus 1
 copying 1
@@ -1589,7 +1589,7 @@ cystitome
 callitris
 crenitic 1
 chaplanry 1
-cartographer
+cartographer 1
 callo 2
 crawlway
 cyders 2
@@ -3977,7 +3977,7 @@ cerulescent 1
 carburizer
 carburizes 1
 chattelize 1
-caecilian
+caecilian 1
 cruster
 chinee 1
 carcajou
@@ -5337,7 +5337,7 @@ cleanser 1
 cribrately 1
 ctenophora 3
 cassocked
-cultures
+cultures 1
 cassocks
 chamberlain 1
 cuspidated
@@ -11125,7 +11125,7 @@ curatolatry 1
 chivaree 1
 compear
 coupler 1
-chivareing 1
+chivareing 2
 chivarees
 chivari 3
 chivaris
@@ -14960,7 +14960,7 @@ citrination 3
 currachs
 cytopharynxes
 citrinin 1
-citrinins
+citrinins 1
 citrins
 coumarouna
 calceolately 1
@@ -19024,7 +19024,7 @@ collectors 4
 circumscissile
 crisped
 complementarity 2
-creedless 1
+creedless 2
 collegia
 collegialism 2
 churchmanly 2
@@ -20038,7 +20038,7 @@ cynophilic 2
 commencer
 commencing 1
 coloslossuses 3
-crim
+crim 1
 cheweler 3
 cinemelodrama
 cocorico 1
@@ -23381,7 +23381,7 @@ contactually 1
 ceratosaurus 1
 contagion
 contagioned 1
-computation 2
+computation 3
 ceramicite
 cooley 2
 cuculi 1
