@@ -2479,7 +2479,7 @@ argemone 2
 afterfeed 2
 aftertime 2
 armoured 1
-ackmen 1
+ackmen 2
 acanthocephali 1
 algonquin 3
 aluminized 2
@@ -12938,7 +12938,7 @@ araneiformes 3
 ambulate 1
 anglistics
 arryish
-anglogaea
+anglogaea 1
 anthemwise 3
 antennarius 2
 antiliturgically 1
@@ -21137,7 +21137,7 @@ arborary 2
 annexal 4
 ase 2
 asearch
-alhet 3
+alhet 4
 asecretory 2
 appositeness 1
 airth 2
