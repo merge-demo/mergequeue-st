@@ -6820,7 +6820,7 @@ cellmates 4
 cello
 chambermaid
 celloid
-chairmaker 1
+chairmaker 2
 cathodofluorescence 1
 celloidin 1
 constative 2
@@ -26616,7 +26616,7 @@ cystectomies 2
 coulombmeter
 coulombs 1
 coulter 1
-circumscription
+circumscription 1
 coumaphos 1
 coumaran 2
 coumaric 1
