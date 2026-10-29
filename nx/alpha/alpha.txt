@@ -2105,7 +2105,7 @@ affiliation
 amylohydrolytic 1
 antiputrefactive 2
 anammonid 2
-altitudinal 2
+altitudinal 3
 alined 1
 acheiria 3
 aboveboard
@@ -4370,7 +4370,7 @@ antialbumid 1
 anthranilic 2
 antihygienic 1
 ascript 1
-acetmethylanilide
+acetmethylanilide 1
 adrowse 2
 arecaine
 anniverse 1
@@ -9147,7 +9147,7 @@ abhorring 3
 alky
 aristogenetic 1
 anemometric 1
-antacid 1
+antacid 2
 alluvious 3
 ashrafi 1
 assortative 1
