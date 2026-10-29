@@ -554,7 +554,7 @@ feminie 1
 fallen 2
 falling 1
 faradized 7
-famine 2
+famine 3
 fll 3
 filiety 6
 folklorism 4
@@ -1845,7 +1845,7 @@ frictions 4
 fore 2
 fluoroid
 feastless 4
-fayettism 4
+fayettism 5
 feloid 1
 febrile 4
 forrue 2
@@ -8627,7 +8627,7 @@ fieldman 4
 frameshift 6
 fullfil 6
 flaskful 6
-fissionable
+fissionable 1
 fungating 4
 farmsteading 6
 forninst 2
