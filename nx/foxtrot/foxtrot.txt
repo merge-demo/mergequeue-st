@@ -2453,7 +2453,7 @@ fermentable 7
 fermentativeness 1
 faradize 1
 falus 7
-footbridges 3
+footbridges 4
 fermentescible
 filiform 4
 fielding 6
@@ -3318,7 +3318,7 @@ feture 4
 folletto 4
 flabbergastation 2
 fretfulness 4
-flexility
+flexility 1
 fracted 4
 fidejussor 5
 furfur 1
@@ -9206,7 +9206,7 @@ fiaschi 2
 florification 3
 feat
 foveole 2
-folded 2
+folded 3
 federations 7
 fadednyess 1
 figulines 5
@@ -10343,7 +10343,7 @@ fitten 1
 finary 3
 folksongs 2
 fanged 1
-fingerings 5
+fingerings 6
 fluormeter 3
 ferrates 1
 furculae 2
