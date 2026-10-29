@@ -66,7 +66,7 @@ facebar 3
 facebow 5
 fenchone 4
 faceharden 2
-flagships 2
+flagships 3
 flecken 2
 facellite 3
 ferrocyanide 5
@@ -2482,7 +2482,7 @@ foliously 1
 flabile 3
 foamlike 2
 fris 1
-factitiously 2
+factitiously 3
 flea 4
 fibrinoid 1
 fry 2
@@ -3091,7 +3091,7 @@ fantasia 3
 fiercehearted 2
 flintily 2
 frontispiece 2
-frontlessly 5
+frontlessly 6
 fortifyingly 5
 frozen 4
 frenching 4
@@ -3564,7 +3564,7 @@ flagellative 1
 foody 3
 funding 2
 forboding 2
-fairylands 5
+fairylands 6
 filched 2
 fellowmen 2
 frenchism 3
@@ -3876,7 +3876,7 @@ filleting 2
 feckless
 folcgemot 5
 figurato 1
-fionnuala 4
+fionnuala 5
 fanwe 2
 foregrounds 1
 frequencies 3
@@ -4789,7 +4789,7 @@ fargoing 2
 flageolets 2
 flagfishes 5
 ferine 3
-fubsy 6
+fubsy 7
 figurately 3
 fasciculus 4
 fissurellidae 4
@@ -5549,7 +5549,7 @@ fluemen
 floating 1
 fideicommissary 1
 fleshful 1
-favourite 3
+favourite 4
 furunculus 5
 favouredly 1
 foamily 3
@@ -8479,7 +8479,7 @@ foreboded 2
 forpine 5
 freethink 1
 fictitiously 5
-felonsetter 3
+felonsetter 4
 febronian 4
 fique 2
 flaucht 3
@@ -9281,7 +9281,7 @@ ficin 2
 feminate 4
 fissioning 4
 flopped 2
-flagellum 1
+flagellum 2
 furzetop 2
 fenagling 2
 femality 3
@@ -9847,7 +9847,7 @@ fret 3
 fusionism 3
 forisfamiliate 2
 fyrdung 2
-fatals 5
+fatals 6
 farrows
 feldspathic 2
 featheredge 5
@@ -10048,7 +10048,7 @@ flexitime 2
 finicky 1
 fowlpox 2
 fopped 1
-frypans 5
+frypans 6
 frillily 2
 falderal 6
 flammigerous 2
@@ -10365,7 +10365,7 @@ foss 4
 friseur 2
 forewarning 3
 fiaunt 2
-fraenula 6
+fraenula 7
 floodlighted 2
 fluoridized 2
 faceman 2
