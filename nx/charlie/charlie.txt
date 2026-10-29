@@ -6402,7 +6402,7 @@ collision
 cloudland 2
 cauterism 1
 carafe 2
-correcter 2
+correcter 3
 conchfish
 cauterizer 1
 cauterizes 2
@@ -17495,7 +17495,7 @@ cobourg
 cueca 1
 coinitial
 circummigrate
-cobridgehead
+cobridgehead 1
 chrysostomic
 chimneyhead 1
 cardiarctia 3
@@ -24499,7 +24499,7 @@ crotyl
 cooty 2
 cootie
 copps
-coelogyne 1
+coelogyne 2
 candles 1
 chlorosis
 copa 1
@@ -31281,7 +31281,7 @@ charkha
 commentable 2
 curatrices 1
 carabid
-coagula 4
+coagula 5
 curatrix
 curb 2
 citronellal 1
