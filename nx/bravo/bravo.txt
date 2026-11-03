@@ -1642,7 +1642,7 @@ ballonne 3
 bewrays 1
 ballooners 1
 bickering 1
-brattier 2
+brattier 3
 bricklayer 2
 balloonflower 2
 balloonish
@@ -1867,7 +1867,7 @@ bandanaed 4
 battlepiece 1
 bollito
 bandeau 5
-betula 2
+betula 3
 boyology 2
 bancus
 backstabber
@@ -3817,7 +3817,7 @@ balancer
 bristlecone 2
 bauckie 2
 beerish 3
-benzole
+benzole 1
 beauish 2
 beatrice 1
 befleck 1
@@ -14294,7 +14294,7 @@ binnite 4
 becost 3
 bobber 2
 bechamels
-batheable
+batheable 1
 bouillon
 begrudger 4
 blending
@@ -15371,7 +15371,7 @@ boomier 1
 budukha 2
 bilith 3
 briefcase 1
-barramunda 2
+barramunda 3
 bandylegged 4
 bradylalia 5
 blisterwort 2
