@@ -1867,7 +1867,7 @@ bandanaed 4
 battlepiece 1
 bollito
 bandeau 5
-betula 2
+betula 3
 boyology 2
 bancus
 backstabber
@@ -14294,7 +14294,7 @@ binnite 4
 becost 3
 bobber 2
 bechamels
-batheable
+batheable 1
 bouillon
 begrudger 4
 blending
@@ -15371,7 +15371,7 @@ boomier 1
 budukha 2
 bilith 3
 briefcase 1
-barramunda 2
+barramunda 3
 bandylegged 4
 bradylalia 5
 blisterwort 2
