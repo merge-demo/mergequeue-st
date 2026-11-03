@@ -14294,7 +14294,7 @@ binnite 4
 becost 3
 bobber 2
 bechamels
-batheable
+batheable 1
 bouillon
 begrudger 4
 blending
