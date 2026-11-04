@@ -10437,7 +10437,7 @@ diphysite 1
 dosimeters 1
 damask 3
 discolith 2
-devinct
+devinct 1
 disinflame 2
 dow 2
 douzainier 2
@@ -16680,7 +16680,7 @@ drainman 1
 disgross 2
 daiva 2
 drogoman 4
-degums 2
+degums 3
 dahabeah
 dattock 2
 drainpipes 5
