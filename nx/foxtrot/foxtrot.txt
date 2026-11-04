@@ -1945,7 +1945,7 @@ fonly 1
 flanchard 2
 furzier 2
 forworn 5
-flated 7
+flated 8
 formulization 1
 fishlet
 flagellantism 2
@@ -3105,7 +3105,7 @@ fipple 3
 flunkyism 7
 festoon 5
 fonds 3
-finned 2
+finned 3
 flowed 3
 fapesmo 1
 florences 5
@@ -3854,7 +3854,7 @@ forewarm 1
 formalisms 1
 fulgurous 1
 flet 4
-fleshpots
+fleshpots 1
 forewoman 3
 fieldball 3
 firmnesses 3
@@ -8037,7 +8037,7 @@ foredeep 2
 forespencer 2
 formols 4
 furrure 4
-fiz 3
+fiz 4
 feist 1
 finicality 3
 fontina 1
@@ -8104,7 +8104,7 @@ funic 5
 forestral 5
 forestries
 firebrats 5
-furnitures 6
+furnitures 7
 fumigating 1
 fiendfully 7
 ferrochromium 6
@@ -10675,7 +10675,7 @@ foremark 4
 frailties 1
 fusc 3
 frankness 4
-fruitfuller 1
+fruitfuller 2
 filtrability 1
 facultate 2
 fegatella 4
