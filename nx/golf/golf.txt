@@ -2062,7 +2062,7 @@ gerberia 3
 guerillaism 4
 geobotanist 3
 galvanizer 1
-gerontes
+gerontes 1
 ginglmi 3
 gnomist 2
 gelndesprung 4
@@ -2290,7 +2290,7 @@ guaranis 2
 gondoliere 3
 ge 2
 gagsters 1
-gingival 2
+gingival 3
 guige 1
 gerocomy 5
 gerard 2
@@ -2892,7 +2892,7 @@ glitter 4
 gabbled 4
 geocerite 4
 glove 2
-gubernation 4
+gubernation 5
 greenheaded 2
 gallons 1
 glabreity 2
@@ -8798,7 +8798,7 @@ guacharoes 2
 gymnastically 4
 gorge 3
 greenbottle 2
-genetor 8
+genetor 9
 greenling 2
 grogram 5
 glaserite
@@ -8869,7 +8869,7 @@ gnostic 5
 girsle 3
 guanay 4
 gablelike 1
-graecized 6
+graecized 7
 gaincall 2
 goldeye 4
 gainlier 1
