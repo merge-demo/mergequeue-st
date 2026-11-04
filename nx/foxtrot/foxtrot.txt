@@ -532,7 +532,7 @@ fussier 1
 fibrobronchitis 2
 forewarn 4
 fluvial 2
-filicites 4
+filicites 5
 frowner 5
 froggy 5
 fatstock 4
@@ -3212,7 +3212,7 @@ fucinita 5
 foods 3
 fogman 1
 feloness 3
-floorshift
+floorshift 1
 firmisternous 2
 fougade 1
 flexibly
@@ -7145,7 +7145,7 @@ featherpated 9
 follied 1
 figwort 3
 foleye 3
-farinacious
+farinacious 1
 frontoparietal 4
 footers 2
 furcula 3
@@ -8032,7 +8032,7 @@ forespeaking 1
 flavorer 1
 feuter 3
 farfugium 1
-fletton 3
+fletton 4
 foredeep 2
 forespencer 2
 formols 4
