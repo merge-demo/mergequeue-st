@@ -1743,7 +1743,7 @@ epanorthoses
 enswathe 2
 everard 1
 ectogenesis
-extg 4
+extg 5
 epigraphic 4
 eutony 5
 eyes 2
@@ -13386,7 +13386,7 @@ egyptize 7
 emporiria 1
 extraenteric 1
 epicorolline 3
-elegizing
+elegizing 1
 exposes
 encrustant 3
 envassalage 3
