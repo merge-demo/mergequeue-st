@@ -532,7 +532,7 @@ fussier 1
 fibrobronchitis 2
 forewarn 4
 fluvial 2
-filicites 4
+filicites 5
 frowner 5
 froggy 5
 fatstock 4
@@ -2460,7 +2460,7 @@ fielding 6
 falla 4
 fornax 3
 ferruginated 6
-flowable 2
+flowable 3
 fungal 3
 foliocellosis 1
 fairnesses 3
@@ -5848,7 +5848,7 @@ fattening 2
 fervidly 2
 firepower 4
 fierasfer 2
-flounders 2
+flounders 3
 flotas 3
 fulcrums 4
 flidge 4
@@ -6428,7 +6428,7 @@ flaggier 1
 foliates 4
 fireflower 4
 freshish 2
-facsimileing 2
+facsimileing 3
 foppish 1
 farset 3
 fluorimetric 1
@@ -6862,7 +6862,7 @@ flachery 4
 flittingly 2
 forgeman 1
 foliot 3
-floribunda 3
+floribunda 4
 forthby 3
 ferritungstite 3
 farewell 3
@@ -7145,7 +7145,7 @@ featherpated 9
 follied 1
 figwort 3
 foleye 3
-farinacious
+farinacious 1
 frontoparietal 4
 footers 2
 furcula 3
@@ -9073,7 +9073,7 @@ fidded 3
 fluffed 1
 filmier 1
 flaxwort 4
-fustian
+fustian 1
 fractus 4
 fusinite 1
 forwork 4
