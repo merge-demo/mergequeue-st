@@ -3743,7 +3743,7 @@ battlefronts 2
 bringall
 brucella 2
 barnstorms 3
-battler 1
+battler 2
 battleships
 blushiness 2
 battlesome 2
@@ -4006,7 +4006,7 @@ beslur 4
 bonyfish 5
 believer
 beacons 2
-buoyancy 4
+buoyancy 5
 beadeye 3
 beader 1
 bellmaker 3
@@ -5529,7 +5529,7 @@ broadloom 2
 bejant 3
 blintz 1
 bejel
-brawly 2
+brawly 3
 babist 6
 broth 1
 breeziest 2
@@ -9127,7 +9127,7 @@ bicalcarate
 blackthorns 2
 bombax 1
 biosystematy 2
-benzomorpholine
+benzomorpholine 1
 byssine 1
 bighted 1
 biosociological 3
@@ -9446,7 +9446,7 @@ betassel
 bookholder 1
 bulimulidae 2
 brunoniaceae 2
-banquo 1
+banquo 2
 burnetize 2
 bedirties 1
 bourride 3
@@ -11046,7 +11046,7 @@ bootstrap 2
 beclout 4
 basilemma 4
 bails 5
-between 4
+between 5
 bloats 1
 brachygnathous
 byelorussian 4
@@ -12058,7 +12058,7 @@ befrounce 2
 biflorous 4
 blindage 1
 boilerplate 1
-boilersmith 1
+boilersmith 2
 belch
 bladdernose 1
 boilover 2
@@ -15116,7 +15116,7 @@ baffles 3
 binocular
 brest 2
 barid 3
-breastplate 4
+breastplate 5
 bret 1
 bankrolls 2
 bretesse 3
@@ -16478,7 +16478,7 @@ brushwood 1
 brushwork 1
 burdock 3
 beecher 5
-brusker 2
+brusker 3
 brushlet
 bendayed 1
 burrhel 1
