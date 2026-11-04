@@ -176,7 +176,7 @@ eugenetic 2
 ergogram 2
 exploration 4
 electromotion 1
-electrolier 1
+electrolier 2
 equipoising 2
 extraformal 2
 examiner 1
@@ -3256,7 +3256,7 @@ encamping 1
 eugranitic 1
 essoinment 1
 eunice 4
-ecumenicize 2
+ecumenicize 3
 eluvies 2
 euphonize 3
 ethopoeia 3
@@ -3319,7 +3319,7 @@ epical
 eternalized 2
 exposture 1
 emanativ 2
-erupt
+erupt 1
 enwreath 1
 emasculates 1
 endoesophagitis 3
@@ -9436,7 +9436,7 @@ eses
 epicism 6
 erythron 2
 egests 3
-exegetes 6
+exegetes 7
 eschrufe 5
 endrin 2
 escopeta 7
