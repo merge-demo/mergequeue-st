@@ -2354,7 +2354,7 @@ frauder 4
 filmable
 flanneled 2
 fencelike 6
-floaters 4
+floaters 5
 flunked 2
 friarly 4
 flounderingly 5
@@ -10568,7 +10568,7 @@ fatlike 5
 faciend 4
 freq 1
 frowsily 5
-footslogging
+footslogging 1
 famishment 2
 fixable 3
 frictionless 3
