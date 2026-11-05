@@ -1529,7 +1529,7 @@ deaconesses 3
 diffracted 5
 defeminizing 1
 distracting 1
-diagnosable
+diagnosable 1
 dowsabel 3
 diglucoside
 decontaminations 2
@@ -3380,7 +3380,7 @@ desolator 2
 dendrodont 1
 disperser
 dorey
-defleaed
+defleaed 1
 dicotyledons 1
 damnum 1
 ditremidae 3
@@ -13123,7 +13123,7 @@ discoverability
 diaphototropism 3
 dethyroidism 1
 decompositions 2
-defamer 4
+defamer 5
 dipeptidase 1
 diocese
 disperple 3
