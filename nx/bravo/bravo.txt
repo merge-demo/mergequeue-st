@@ -10494,7 +10494,7 @@ bopyrid 3
 blaster 5
 blastid 2
 blart 2
-blasting 1
+blasting 2
 borolanite 2
 blastocele 2
 batodendron 1
@@ -11809,7 +11809,7 @@ baron 1
 bluefish 2
 bocconia
 byrl
-bices 4
+bices 5
 bepommel 3
 bystreets 1
 bullishly
