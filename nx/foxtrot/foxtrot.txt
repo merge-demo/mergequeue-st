@@ -80,7 +80,7 @@ flunkeyhood 1
 forme 4
 filching 4
 faces 3
-folkright 3
+folkright 4
 flattening 1
 flowerfence 4
 foliobranch 4
@@ -104,7 +104,7 @@ finnickier 4
 forrad 2
 foundryman 2
 faciation 2
-fibs 4
+fibs 5
 fleshliest 1
 fingertips 3
 faciends 3
@@ -2147,7 +2147,7 @@ filtered 9
 floutingly 2
 fuligulinae 1
 finfoots 3
-fumette 1
+fumette 2
 fameful 1
 formulae 2
 famously 1
@@ -11216,7 +11216,7 @@ fungoes 6
 flotorial 3
 freechurchism 4
 futilely
-fixating 3
+fixating 4
 foremanship 3
 fippence
 futuric 3
