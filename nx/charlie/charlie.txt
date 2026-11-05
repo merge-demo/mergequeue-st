@@ -6179,7 +6179,7 @@ cattleship
 carbines 1
 catullian
 clamshells 1
-coburghership 1
+coburghership 2
 commercials 1
 completedness 2
 catur 2
@@ -8414,7 +8414,7 @@ crookeder
 checkerboarded 1
 confiscator 2
 choribi
-cuttable
+cuttable 1
 chamoisite
 chamoline 1
 chamorro 2
@@ -13719,7 +13719,7 @@ communiqu 2
 cinchophen 1
 cretinoid 2
 cinchotine
-cullions 4
+cullions 5
 cincinnal
 cincinni 1
 cholesterate 1
