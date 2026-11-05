@@ -3158,7 +3158,7 @@ cornette
 capeline
 chondrocele 2
 capelins
-cliffing
+cliffing 1
 capella 1
 coatimondie 2
 closemouth 1
@@ -12503,7 +12503,7 @@ chromonematal
 cataphracti 1
 chromophage
 chromophane 2
-coopee
+coopee 1
 chromophil
 crimelessness 2
 chromeplating 1
@@ -17395,7 +17395,7 @@ careerist 1
 compile 1
 concussion
 christmas 1
-cistercian 1
+cistercian 2
 coemptionator 1
 castelli
 coauthority
@@ -22637,7 +22637,7 @@ cringer
 connexure 1
 crumbier 4
 connexus 1
-cosuggestion 1
+cosuggestion 2
 comperes
 clamjamphrie
 chinles 2
@@ -23466,7 +23466,7 @@ coalfishes 3
 calombo 1
 contemporarily 1
 contemporising 1
-contemporize 2
+contemporize 3
 contemporized
 contemptibility 6
 contemptible
@@ -24898,7 +24898,7 @@ counterprotest 1
 coffeecakes
 coalified
 coraggio 1
-correct
+correct 1
 coraise 1
 cashless 1
 contourne 3
@@ -25373,7 +25373,7 @@ corneas 2
 chiurm 2
 cheddaring
 cornel 1
-cornelia 1
+cornelia 2
 coner 2
 concessioner
 cornell
@@ -26407,7 +26407,7 @@ comfrey
 continuous
 cotenancy
 cotenant 1
-cotenants
+cotenants 1
 carbophilous
 chrismatories
 cotenure
@@ -27186,7 +27186,7 @@ carcasses 2
 cataspilite
 counterterrorism 1
 clasping 1
-counterterrorist
+counterterrorist 1
 countertheme 1
 counterthought 3
 counterthreat
@@ -27410,7 +27410,7 @@ cataclysmist 1
 cabinetmaker 1
 courtin 2
 catastatic
-courting 1
+courting 2
 courtly 1
 courtlier 1
 chow
@@ -28523,7 +28523,7 @@ coitus 1
 creddock 2
 chavicine 1
 carapaced 1
-credences
+credences 1
 coring 1
 credencive 2
 credenda
