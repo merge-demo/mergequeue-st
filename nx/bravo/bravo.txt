@@ -1428,7 +1428,7 @@ battable 3
 balefires 1
 bewreak 3
 barmbrack 5
-baleys 2
+baleys 3
 baleise 3
 bougainvillaea 1
 beslave 1
@@ -1467,7 +1467,7 @@ boycottism 1
 balistes 2
 battologized 3
 boilermaker 1
-balistid 1
+balistid 2
 bloodshedding 2
 bravadoed 1
 balistidae 1
@@ -1814,7 +1814,7 @@ burdie 1
 bamboula 2
 banterer 1
 boswellized 4
-bowmen 1
+bowmen 2
 balloonet 2
 bedsprings 2
 bambute 2
@@ -1877,7 +1877,7 @@ banderol 3
 befrets
 banderole 3
 bastardliness 4
-bindings
+bindings 1
 brigading 3
 banders 1
 broadlings 2
@@ -15588,7 +15588,7 @@ brique 2
 bucconasal 2
 bilbos 3
 bination 1
-barometer 3
+barometer 4
 beavers 1
 brewsterite 3
 barbacan 3
