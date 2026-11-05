@@ -7045,7 +7045,7 @@ caribes 2
 caisson 2
 chisedec 1
 centerable 1
-cutup
+cutup 1
 chumpivilca 1
 centerboard 2
 centerer
@@ -11240,7 +11240,7 @@ chloridated 2
 corbelling 3
 consuls 1
 chloride
-crocodiloid 1
+crocodiloid 2
 crackups 3
 calderon 4
 ceca 2
@@ -23578,7 +23578,7 @@ criollos 2
 cathead
 coalfish 3
 contact
-coteen 1
+coteen 2
 cionectomy 1
 cacopathy 1
 climature 1
@@ -29301,7 +29301,7 @@ cryptodeist 3
 cryptodynamic
 corcir 1
 cryptodira 1
-cryptodiran
+cryptodiran 1
 cryohydrate 1
 calcify 1
 cathetometer 1
