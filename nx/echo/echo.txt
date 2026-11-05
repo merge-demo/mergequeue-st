@@ -750,7 +750,7 @@ emotive 2
 enabling 2
 embryoctony 3
 equilibrist 4
-ecoute 4
+ecoute 5
 enforcive 6
 exscinding 2
 emotes 5
@@ -1792,7 +1792,7 @@ exoclinal 2
 exhorters 4
 een 3
 erodium 3
-effetely 6
+effetely 7
 enamors 1
 eroding 8
 encroached 6
@@ -11340,7 +11340,7 @@ evaporitic 2
 enforcively 3
 evapotranspiration 6
 ecaudata 6
-esiphonal
+esiphonal 1
 enthalpy
 ergatoid 2
 evenglow 4
@@ -12310,7 +12310,7 @@ ellagitannin 2
 epibolic 2
 exsequatur
 euploidy 3
-exempted
+exempted 1
 exemption 2
 essenhout 3
 entremess 2
