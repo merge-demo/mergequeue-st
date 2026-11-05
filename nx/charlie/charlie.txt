@@ -3158,7 +3158,7 @@ cornette
 capeline
 chondrocele 2
 capelins
-cliffing
+cliffing 1
 capella 1
 coatimondie 2
 closemouth 1
@@ -27186,7 +27186,7 @@ carcasses 2
 cataspilite
 counterterrorism 1
 clasping 1
-counterterrorist
+counterterrorist 1
 countertheme 1
 counterthought 3
 counterthreat
@@ -27410,7 +27410,7 @@ cataclysmist 1
 cabinetmaker 1
 courtin 2
 catastatic
-courting 1
+courting 2
 courtly 1
 courtlier 1
 chow
