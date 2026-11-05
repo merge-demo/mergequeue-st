@@ -3621,7 +3621,7 @@ claik
 carabines
 carabinier
 carabiniere
-carabinieri
+carabinieri 1
 cotrespasser 1
 choosable 1
 caraboa 1
@@ -12155,7 +12155,7 @@ chimere 1
 chria 1
 chris 1
 curding 1
-calibogus
+calibogus 1
 caraunda
 chrysalid 1
 coronet 2
@@ -27333,7 +27333,7 @@ cephalobranchiata
 comodo 2
 circumciser 1
 coupstick
-coupure 2
+coupure 3
 courage 2
 courageous 3
 courager
