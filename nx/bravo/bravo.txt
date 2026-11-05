@@ -11323,7 +11323,7 @@ baith 5
 boards 3
 bespoused
 blowtorches 2
-bromos
+bromos 1
 bossiness 5
 batteau 3
 blowups 1
@@ -15695,7 +15695,7 @@ broadcaster 4
 bullyragging 1
 bonnetieres
 baneberry 1
-bromeliaceous 1
+bromeliaceous 2
 bacteriologist 1
 brutage 1
 bayonet 2
