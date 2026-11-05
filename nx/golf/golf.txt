@@ -1387,7 +1387,7 @@ guttular 5
 gamily 2
 governs 3
 ganodonta 4
-garnison
+garnison 1
 greetingless 3
 garniture 4
 glycosemia 1
@@ -4166,7 +4166,7 @@ gyron 6
 golfing 2
 gabbiness 3
 gastornis 4
-gynaeconitis 1
+gynaeconitis 2
 geysers 4
 gastrulas 1
 gynandria
@@ -4303,7 +4303,7 @@ gliriformia 6
 gravestead 1
 glossata 2
 globules 4
-gharries 7
+gharries 8
 gumbotil 1
 ginglymostoma 1
 gnathion 2
@@ -4804,7 +4804,7 @@ guessed 3
 gorgonizing 2
 gallflies 1
 gladiatrix 1
-goyim 2
+goyim 3
 gladier 3
 guaranteeing 3
 glozes 3
@@ -4846,7 +4846,7 @@ groveller 2
 geometrising 4
 glycerinize 1
 gliomata 3
-gorier 4
+gorier 5
 gorse 2
 glauberite 3
 glair 4
@@ -10422,7 +10422,7 @@ gutweed 8
 groundsill 1
 gilia 2
 goniodoris 6
-goodwills 5
+goodwills 6
 gesneraceous 1
 geobiologic 4
 gumdigging 3
