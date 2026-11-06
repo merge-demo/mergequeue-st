@@ -753,7 +753,7 @@ equilibrist 4
 ecoute 5
 enforcive 6
 exscinding 2
-emotes 5
+emotes 6
 echinal 2
 euomphalid 2
 egger 2
@@ -1019,7 +1019,7 @@ edeodynia 2
 edeomania 3
 enhamper 4
 emberizinae 2
-enslavedness 1
+enslavedness 2
 elberta 1
 expeditions 4
 exadversum 3
@@ -3425,7 +3425,7 @@ eriometer 2
 episyllogism 5
 edeotomy 3
 eucirripedia 3
-ethmovomerine 2
+ethmovomerine 3
 embogue 1
 ennuyant 1
 ecalcavate 2
@@ -3812,7 +3812,7 @@ ecart 6
 escapology 1
 emerged 6
 edulcorated 1
-echinostomiasis 5
+echinostomiasis 6
 emergentness 1
 espriella 4
 estamene 2
@@ -3898,7 +3898,7 @@ executorship 1
 edentulous 4
 eels 2
 effodient 1
-exede
+exede 1
 enticeful 3
 examinability 2
 epiglottis 4
@@ -3937,7 +3937,7 @@ echinochrome 1
 evader 2
 enstate 6
 exportation 3
-emory 3
+emory 4
 exopathic 3
 escapologist
 enchodontoid 1
@@ -5684,7 +5684,7 @@ ensanguining 4
 excusability 3
 engage 2
 etymologic 3
-exampless 7
+exampless 8
 engineers 4
 engineless 3
 engineman 3
@@ -9382,7 +9382,7 @@ extraordinarily 6
 exactus 2
 entonic 3
 explainer 2
-excruciating 2
+excruciating 3
 endeavor 1
 expection 2
 electroretinographic 1
@@ -14132,7 +14132,7 @@ evokes 2
 equivorous 1
 existentialize 1
 eutrophy 2
-endosternite
+endosternite 1
 embusqu 4
 endosiphonal 1
 extensory 4
