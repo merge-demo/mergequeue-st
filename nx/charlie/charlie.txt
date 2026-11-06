@@ -5103,7 +5103,7 @@ casavi
 cascabel 2
 cesspipe 2
 coestate 2
-chemoprophylaxis
+chemoprophylaxis 1
 cascable 2
 cascade 3
 coupes
@@ -22756,7 +22756,7 @@ conquistadors
 cacodoxy 2
 clusteringly
 conringia 1
-clairsentience 1
+clairsentience 2
 consacre
 consanguine 1
 consanguinean
@@ -24842,7 +24842,7 @@ curlycue 2
 colourfast
 coquicken 4
 cartload
-contumax
+contumax 1
 coquille 2
 corrade 3
 conductivity
