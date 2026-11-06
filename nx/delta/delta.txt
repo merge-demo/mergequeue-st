@@ -3848,7 +3848,7 @@ dressages
 dismast 1
 discastle 1
 dictature 1
-dissect 3
+dissect 4
 disp 1
 dyscrasite 2
 deerdog 1
@@ -10377,7 +10377,7 @@ dfault 1
 deejays 2
 dioxane 2
 demonises 3
-dukedom 2
+dukedom 3
 droiture 1
 diplosphene 1
 deoxidator 2
@@ -11745,7 +11745,7 @@ dogblow 2
 disported 3
 debellate 1
 deoxidising 1
-disbalance 1
+disbalance 2
 disability 1
 discrested 2
 dowering 2
@@ -11864,7 +11864,7 @@ deathblow 4
 dehypnotized
 dragoonade 1
 daguerreotypic
-dialyser 2
+dialyser 3
 disdein
 dardani
 doubleheader 3
