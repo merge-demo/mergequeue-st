@@ -3224,7 +3224,7 @@ ballerinas
 baclava 2
 bravish
 basidiospore 2
-basidiosporous 1
+basidiosporous 2
 buckbush 2
 batiked 1
 bodiless 3
@@ -4899,7 +4899,7 @@ beebee 2
 bradystalsis 2
 bewpers
 backspier 3
-beechen
+beechen 1
 beechnut 1
 breakstone 1
 bloomage 1
@@ -6483,7 +6483,7 @@ backdown 3
 bepepper
 blandness 1
 ballat 3
-booley 1
+booley 2
 boltropes 2
 bronchopneumonic
 bephrase 2
@@ -9199,7 +9199,7 @@ blowback 2
 borohydride 1
 balladwise 1
 bromcamphor 1
-bruja 2
+bruja 3
 biotome
 brothered 3
 biotransformation 1
@@ -11078,7 +11078,7 @@ blocked
 blocker 3
 brid 2
 bankruptlike 1
-beguines 2
+beguines 3
 blockheadish 2
 blockheads 2
 bedrip 1
@@ -13633,7 +13633,7 @@ barra 4
 begladding 7
 binning 1
 beclouded 3
-blepharophyma
+blepharophyma 1
 blockaders 1
 brantail 2
 bibulosities 3
@@ -14749,7 +14749,7 @@ betrothal
 bocks 2
 biobibliographic 2
 bowpots
-bowlings 2
+bowlings 3
 brattled 2
 bogglers 2
 benumbment
