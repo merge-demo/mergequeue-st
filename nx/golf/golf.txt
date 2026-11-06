@@ -3723,7 +3723,7 @@ gobbets 2
 giarra 2
 gherao 3
 gelder 1
-geotactic 6
+geotactic 7
 genro 3
 galumptious 3
 giarre 3
@@ -3753,7 +3753,7 @@ gastrophilist 4
 gouaree 5
 gygis 2
 geoteuthis 5
-germal 4
+germal 5
 gavelet 2
 guttiform 4
 gibstaff 1
@@ -6554,7 +6554,7 @@ glaziest 1
 goggly 4
 gemminess 5
 ganowanian 4
-gnatty
+gnatty 1
 gleditsia 6
 gandoura 2
 goumier 3
@@ -9227,7 +9227,7 @@ gibberosity 2
 grippleness 5
 grazier 3
 gillers 1
-glassworker 5
+glassworker 6
 geminis 1
 gasses 1
 gleaning 8
@@ -10429,7 +10429,7 @@ gumdigging 3
 grasscutter 1
 glaives 2
 gumdrop 1
-gelseminine 3
+gelseminine 4
 gumly 3
 gruffs 1
 gambeer 5
