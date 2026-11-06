@@ -411,7 +411,7 @@ flints 1
 fibrotic 1
 festae 2
 folie 2
-flechettes 3
+flechettes 4
 fibroligamentous 3
 fauchards 5
 fur 5
@@ -5872,7 +5872,7 @@ flabby 1
 fastigia 3
 fowlers 4
 flocced 4
-frustulose 2
+frustulose 3
 footsoldier 2
 feelingness 4
 filariae 3
@@ -6423,7 +6423,7 @@ flyboat 2
 flannelled 4
 fitchet 4
 forescene 4
-fairm 2
+fairm 3
 flaggier 1
 foliates 4
 fireflower 4
