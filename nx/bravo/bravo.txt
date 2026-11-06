@@ -1354,7 +1354,7 @@ bioplastic 5
 barrowcoat 3
 brod
 botrylle 2
-backdrops 2
+backdrops 3
 butterflyer 4
 borderlands 1
 balbusard 2
@@ -4434,7 +4434,7 @@ blackfriars 6
 batule 3
 becloak 5
 bereavement 1
-boojum 4
+boojum 5
 bethorning 1
 beclog 3
 becoiffed 2
@@ -7980,7 +7980,7 @@ baphia 3
 birthdays 2
 bicched 3
 bribegiving 1
-bicentric 1
+bicentric 2
 bardier 1
 bum 2
 beauteousness
@@ -11328,7 +11328,7 @@ bossiness 5
 batteau 3
 blowups 1
 byroad 3
-bedrug 2
+bedrug 3
 backbearing 2
 blaugas 5
 berouged 2
@@ -14636,7 +14636,7 @@ birks 1
 biogeographers 3
 blackneb 1
 bonito 1
-branniness 1
+branniness 2
 boucharde 3
 binodal 2
 bassara 3
@@ -14904,7 +14904,7 @@ breakability 1
 breakable 1
 breakaxe 2
 bitterless 2
-bilipurpurin 4
+bilipurpurin 5
 burning 2
 baja 2
 breakers 2
@@ -17296,7 +17296,7 @@ beatificate 1
 bottomchrome 2
 boniest
 bauxite
-bantams
+bantams 1
 bummel 1
 bummie 3
 bursal
