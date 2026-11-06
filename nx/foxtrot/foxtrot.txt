@@ -7530,7 +7530,7 @@ forebody 2
 fibrosity 5
 flaser 2
 forsakers 2
-flentes 4
+flentes 5
 fretten 4
 fleshbrush 6
 frivoler 2
@@ -9043,7 +9043,7 @@ foelike 4
 feature 4
 foursquareness 4
 faustian 2
-fourteener
+fourteener 1
 froren 6
 flatirons 3
 furiously 4
