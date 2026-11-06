@@ -1073,7 +1073,7 @@ envolume 2
 elliptic 1
 ephahs
 edificed 3
-electrologic 4
+electrologic 5
 essayish 3
 edifying 4
 ectoblastic
@@ -6630,7 +6630,7 @@ enarthrodial 2
 enterorrhagia 1
 enterorrhaphy 2
 enhalo 3
-extradoses 2
+extradoses 3
 eutychianism 2
 electromotiv 3
 enchelycephali 2
@@ -9322,7 +9322,7 @@ extortioner 4
 endear 2
 earable 5
 eruptivity 1
-echinuliform 3
+echinuliform 4
 esbatement 5
 enlock 3
 ectomorphic 1
@@ -10410,7 +10410,7 @@ emeute 2
 ectocranial 4
 ensuite 1
 evacue 4
-endemiological
+endemiological 1
 electrotheraputical 2
 ecblastpsis 2
 epileptical 2
