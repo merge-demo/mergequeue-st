@@ -1415,7 +1415,7 @@ dacryocystalgia 6
 dispel 2
 downdale 3
 dismain 1
-demonomanie
+demonomanie 1
 dorsiflexor 1
 digitals 1
 delis 3
@@ -12425,7 +12425,7 @@ dichlone
 distemperature 5
 demonstrant 1
 dishwashings 1
-dibromobenzene 1
+dibromobenzene 2
 doglegged 3
 dard
 drissel 1
