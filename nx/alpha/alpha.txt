@@ -13050,7 +13050,7 @@ archly
 anhaemolytic 3
 agios 1
 antiprism 2
-ataraxics 1
+ataraxics 2
 anhalonin
 abow 2
 anhalonine
@@ -15337,7 +15337,7 @@ adapters 3
 amperages 1
 antihero 1
 amphoriskos 2
-azulejo 2
+azulejo 3
 antihierarchy 2
 akimbo 1
 aidless 2
@@ -19964,7 +19964,7 @@ armure 3
 armures
 arn 1
 antirachitic 1
-achromatinic
+achromatinic 1
 arnatto 1
 arugola 1
 ammonified 1
@@ -25283,7 +25283,7 @@ ammonifying
 acceded 1
 aulete 3
 azine 3
-atrypa 2
+atrypa 3
 azlon 1
 altered 2
 azobenzil
