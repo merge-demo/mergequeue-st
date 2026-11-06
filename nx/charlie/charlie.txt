@@ -464,7 +464,7 @@ cartages
 catheretic 1
 cancelable 2
 cacumination 1
-coleopterous
+coleopterous 1
 cacuminous
 cacur 2
 cad
@@ -1254,7 +1254,7 @@ camporees 2
 celibatist
 contender 1
 cauliferous 1
-calenda
+calenda 1
 counterfaller 1
 chlored 1
 cambrel 2
@@ -11050,7 +11050,7 @@ chisels
 chisled
 clarkeites 2
 conichalcite 2
-chistka
+chistka 1
 chit
 chitak 1
 cordoba 1
@@ -12350,7 +12350,7 @@ corticopeduncular 2
 chromaphore 1
 chromas 1
 coffeeweed 1
-cenote 2
+cenote 3
 chromate 1
 conjunction
 chromates
@@ -15178,7 +15178,7 @@ clair 1
 clairaudience 2
 countertug 2
 claire
-coloristic 2
+coloristic 3
 conditionalities 1
 conveyancing 2
 cornicle 2
@@ -23245,7 +23245,7 @@ christened
 curmudgeonery 1
 constructive
 constructively 2
-constructivist 1
+constructivist 2
 circumstantiable 1
 constructor
 catabolic
@@ -24585,7 +24585,7 @@ cutches
 coperta 1
 contermine 2
 chelidon 1
-cantate 2
+cantate 3
 cophosis
 copia 2
 clapped 1
@@ -25881,7 +25881,7 @@ chapper 1
 corruptress 1
 corrupts
 corsac 2
-corsacs
+corsacs 1
 connarus 1
 corsages 2
 corsairs 3
@@ -29025,7 +29025,7 @@ codiscoverer 1
 criminalism
 criminalistic 1
 countersecurity 1
-chesterlite 1
+chesterlite 2
 cyanogenic 1
 criminality 3
 circulatory
