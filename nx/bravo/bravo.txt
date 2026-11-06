@@ -2222,7 +2222,7 @@ bewilders 3
 bestove 3
 bromocyanid 1
 backflash 1
-briscola 3
+briscola 4
 blimpishness
 bararite 2
 barathea 1
@@ -3047,7 +3047,7 @@ beachhead 2
 bartonella 2
 backswordsman 2
 blepharedema
-bubba 1
+bubba 2
 bartramian 1
 banish 5
 beetmister 4
@@ -6633,7 +6633,7 @@ bumpily 2
 baseheartedness 3
 bagass 3
 bergman 3
-bergs
+bergs 1
 breastbone 1
 blackcap 2
 bordar 1
@@ -11778,7 +11778,7 @@ bobtail
 bobtailed 4
 bothria 1
 bobwhites 2
-bargees 1
+bargees 2
 becoom 3
 benevolentness 4
 biopyribole 2
