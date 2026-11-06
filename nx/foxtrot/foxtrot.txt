@@ -3277,7 +3277,7 @@ ferrites 1
 faunology 5
 fluidrams 2
 fieldpieces 4
-feudovassalism 6
+feudovassalism 7
 forefeet 1
 fungilliform 4
 fole 3
@@ -8972,7 +8972,7 @@ foundrous 3
 farhands 1
 fixated 4
 flotative 1
-flu 1
+flu 2
 fountain 3
 fragged 1
 fantastically 2
