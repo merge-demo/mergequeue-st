@@ -32,7 +32,7 @@ fieldmen 2
 fibrolitic 3
 feaked 4
 fibrocyst 2
-fabricates 4
+fabricates 5
 fabricator 2
 formularize 5
 flintless 2
@@ -66,7 +66,7 @@ facebar 3
 facebow 5
 fenchone 4
 faceharden 2
-flagships 3
+flagships 4
 flecken 2
 facellite 3
 ferrocyanide 5
@@ -2436,7 +2436,7 @@ freemasons 6
 fractur 1
 frizzle 1
 fingered 3
-frisco 9
+frisco 10
 farandola
 flutterable 2
 frazer 3
@@ -3364,7 +3364,7 @@ foveolate 1
 frostiness 5
 fascili 4
 foulnesses 5
-fieldleft 4
+fieldleft 5
 faxes 2
 ferrean
 fanioned 2
@@ -3512,7 +3512,7 @@ futtock 2
 fulgorid 6
 fusicladium 1
 fute 1
-fleetingly 3
+fleetingly 4
 figures 2
 feelingless 6
 foreact 4
@@ -6112,7 +6112,7 @@ fatheaded 1
 folksinging
 fundmongering 1
 freebies 2
-friation 5
+friation 6
 firestone 4
 fitchering 4
 flotson 1
@@ -6483,7 +6483,7 @@ foremessenger 2
 fluoroscoped 1
 furriers 4
 fingerfish 4
-flrie 1
+flrie 2
 flusteration 2
 festschrifts 6
 fakes 5
@@ -7187,7 +7187,7 @@ fulvescent 2
 floweriness
 foothot 2
 frowstily 2
-faraon 1
+faraon 2
 filibranchiate 1
 fele
 footie 7
@@ -7657,7 +7657,7 @@ fatiscent 3
 flames 4
 forefield 4
 foreorlop 3
-flimsilyst 3
+flimsilyst 4
 flustroid 2
 forefinger 6
 figary 3
@@ -9858,7 +9858,7 @@ fragmentary 3
 fattens 4
 foredooming 4
 fleck 3
-faddist 2
+faddist 3
 farmage 2
 foamy 2
 fretum 2
@@ -11054,7 +11054,7 @@ foresights 4
 fora 2
 filiferous 3
 frontignac 3
-fraction 4
+fraction 5
 fumarate 1
 fantasizing 4
 flammulated 3
@@ -11578,7 +11578,7 @@ faucet 2
 fibronucleated 2
 fluoric 4
 feu 4
-feuing 9
+feuing 10
 fluctigerous 1
 fusillading 2
 feuage 2
