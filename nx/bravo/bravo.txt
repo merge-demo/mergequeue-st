@@ -3224,7 +3224,7 @@ ballerinas
 baclava 2
 bravish
 basidiospore 2
-basidiosporous 1
+basidiosporous 2
 buckbush 2
 batiked 1
 bodiless 3
@@ -13633,7 +13633,7 @@ barra 4
 begladding 7
 binning 1
 beclouded 3
-blepharophyma
+blepharophyma 1
 blockaders 1
 brantail 2
 bibulosities 3
