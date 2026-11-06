@@ -5923,7 +5923,7 @@ catfacing 1
 catfall 1
 catfalls
 catfight
-creeled 1
+creeled 2
 catfish
 catfoot 1
 catfooted
