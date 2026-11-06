@@ -9,7 +9,7 @@ gunrooms 3
 gabber 4
 gabbers 2
 gobi 4
-grasswork 6
+grasswork 7
 gratuities 5
 gabelles 3
 greedsome 4
@@ -982,7 +982,7 @@ gundi 3
 gramercy
 greasebush 2
 glyconin 2
-gyrometer
+gyrometer 1
 glycogenesis 6
 gullably 2
 goldhammer 4
@@ -2178,7 +2178,7 @@ gravific 5
 granth 1
 grotty 3
 guinde 1
-genarchship 1
+genarchship 2
 giraffoid
 geoidal 2
 garmented 5
@@ -4927,7 +4927,7 @@ germanization 3
 genom 6
 ganof 3
 gurgoyl 3
-gastrelcosis 1
+gastrelcosis 2
 ghoom 1
 ginger 3
 grisliest 1
