@@ -1182,7 +1182,7 @@ academized
 acadialite 2
 alpenstocker 3
 acadie 3
-amorphic 1
+amorphic 2
 asramas 1
 airshed
 acalephoid 2
@@ -4129,7 +4129,7 @@ aedoeagi 1
 allocates 3
 admitters 3
 anahau 2
-admitting 2
+admitting 3
 admixed 3
 applausive
 abomasal
@@ -4696,7 +4696,7 @@ archibald 1
 aediles 2
 aknee 2
 airbursts 1
-aedileship
+aedileship 1
 anthropomorphitism
 asidehand 1
 atomerg 1
@@ -6539,7 +6539,7 @@ aquation 1
 affiancing 2
 animalian 2
 anthemed 3
-ahmed 1
+ahmed 2
 atrienses
 autoagglutinating 2
 asphalted 2
@@ -8842,7 +8842,7 @@ arthropyosis 1
 allobar 1
 allobaric 1
 ammonolyses
-adolescency
+adolescency 1
 anthophore 1
 allobrogical 1
 abidance
@@ -16098,7 +16098,7 @@ avitaminotic
 aerenchyma 1
 accumulatively 1
 antipool
-atomises
+atomises 1
 autoparasitism
 antiscientific 2
 ande 1
@@ -16905,7 +16905,7 @@ abridged
 apigenin 1
 apii
 apikores 2
-apprehender 2
+apprehender 3
 alluringness 2
 apimanias
 acocanthera
