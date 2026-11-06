@@ -3848,7 +3848,7 @@ dressages
 dismast 1
 discastle 1
 dictature 1
-dissect 3
+dissect 4
 disp 1
 dyscrasite 2
 deerdog 1
@@ -8364,7 +8364,7 @@ dinitrophenylhydrazine 3
 dobbins 3
 delocalizing
 darwinize 2
-digestant 2
+digestant 3
 dialysis
 digestional 3
 debauchedness 2
@@ -11864,7 +11864,7 @@ deathblow 4
 dehypnotized
 dragoonade 1
 daguerreotypic
-dialyser 2
+dialyser 3
 disdein
 dardani
 doubleheader 3
