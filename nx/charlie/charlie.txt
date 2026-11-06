@@ -2158,7 +2158,7 @@ chiloma
 coadjacence 1
 campesinos 1
 campestral 2
-camphane
+camphane 1
 camphanone 2
 camphene 1
 camphenes 1
@@ -4074,7 +4074,7 @@ cardiac 2
 cardiacal 1
 cestui
 cleronomy 1
-ciceronism 2
+ciceronism 3
 caliginous 2
 cardiacle
 cardiagra 2
@@ -5208,7 +5208,7 @@ cashierment 1
 cashkeeper 1
 crows 3
 clearest 2
-cashmere 3
+cashmere 4
 cashmeres
 conepates 2
 claudian 3
@@ -6229,7 +6229,7 @@ calycophorae 3
 caudatory 3
 cree 2
 clergies
-corbel 2
+corbel 3
 corticifugal 2
 caudebeck 1
 caudices 2
@@ -16121,7 +16121,7 @@ climaciaceae
 crawtae 1
 carabinero 1
 copple 2
-climaciaceous 2
+climaciaceous 3
 culturable
 climacter 1
 concrescence
@@ -20987,7 +20987,7 @@ colonoscopy 1
 compromission 2
 codiaceae 2
 compromit
-coronae
+coronae 1
 capeskins
 charbroil 1
 compromitment
@@ -22617,7 +22617,7 @@ connection 1
 connectival
 connective
 connectively 1
-clavichordists 1
+clavichordists 2
 convallariaceous
 catholicate
 connector 1
@@ -22771,7 +22771,7 @@ caligraphy 1
 conscience 3
 canalete
 canoeiro 1
-condivision
+condivision 1
 cydippid 2
 consciencelessly 2
 consciences 1
@@ -24055,7 +24055,7 @@ chainplate 2
 conventionize 1
 copperworks 1
 conidiophore
-conventions 2
+conventions 3
 coralwort 1
 convents 1
 conventual 2
@@ -28113,7 +28113,7 @@ caput 4
 craniniums 1
 craniocele 3
 cordial 1
-caunus
+caunus 1
 craniocerebral
 calligraphist 1
 counteracquittance
@@ -29475,7 +29475,7 @@ crystallize
 crystallizes 1
 calvinist
 chaldaism
-chati 2
+chati 3
 cannoning 1
 convertend 1
 crystallod
