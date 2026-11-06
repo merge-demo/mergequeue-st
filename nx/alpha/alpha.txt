@@ -6818,7 +6818,7 @@ allotriomorphic
 aircraftsman 1
 adsorptiveness 2
 aggro 1
-aircraftsmen
+aircraftsmen 1
 aircraftswoman 1
 amytal 1
 aircraftwoman
@@ -10309,7 +10309,7 @@ agathosma 1
 ammonocarbonic
 amenability
 atoll 2
-aftaba 1
+aftaba 2
 allocaffeine 1
 amenably 2
 aluminography
@@ -16820,7 +16820,7 @@ ancienter 1
 approve
 auxiliary
 ambrosiac 1
-aphra 2
+aphra 3
 aphrodesiac 1
 abastral 1
 autotypic 1
@@ -18193,7 +18193,7 @@ aberuncator
 aporphin 2
 allocatable 1
 antescript 1
-aconitic 5
+aconitic 6
 althea
 areel 1
 austrians 2
