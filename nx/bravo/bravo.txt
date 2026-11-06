@@ -1439,7 +1439,7 @@ bombastically 4
 boun 3
 balestra 3
 batoneer 3
-bops 3
+bops 4
 bedazzled
 bureaucratical
 bedye 1
@@ -1505,7 +1505,7 @@ bludgeoned 1
 beeches 3
 ball 2
 bushtit 3
-ballad 1
+ballad 2
 benzylic 2
 barillas
 beaters
@@ -6959,7 +6959,7 @@ bastillion
 bearherd 3
 bouchee 3
 breastful 1
-bedsite 1
+bedsite 2
 bestrid 2
 beslimes
 backsheesh
@@ -10096,7 +10096,7 @@ blaasop 3
 blockaded 5
 bedawee
 bodrag 1
-birlieman 4
+birlieman 5
 boxfish 1
 blabbered 2
 bewhiskered 4
@@ -15431,7 +15431,7 @@ basicytoparaplastin 4
 blackfish 2
 bombe 1
 baronetcy
-benzylidene
+benzylidene 1
 bannerlike 1
 becket 2
 brainwork 1
