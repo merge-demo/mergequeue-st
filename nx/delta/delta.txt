@@ -2397,7 +2397,7 @@ deciles 5
 dorsiparous 1
 deciliter 1
 druidry 4
-destituent 4
+destituent 5
 doodads 5
 dispelled
 decanonize 3
@@ -6832,7 +6832,7 @@ degenerates 2
 dextrocardial 2
 dendrograph 1
 desmodynia 3
-diazoamine
+diazoamine 1
 danuri 3
 desmogenous
 dispoint 3
@@ -16899,7 +16899,7 @@ dataria 2
 drona 3
 dumbs 2
 datedness 5
-dreadable 1
+dreadable 2
 directorial 3
 daftnesses 2
 dreaded 2
