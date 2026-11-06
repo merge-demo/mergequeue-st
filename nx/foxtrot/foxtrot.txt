@@ -37,7 +37,7 @@ fabricator 2
 formularize 5
 flintless 2
 furies 4
-farmscape 5
+farmscape 6
 flick 4
 fervently 4
 finically 3
@@ -3213,7 +3213,7 @@ foods 3
 fogman 1
 feloness 3
 floorshift 1
-firmisternous 2
+firmisternous 3
 fougade 1
 flexibly
 fb 2
@@ -5833,7 +5833,7 @@ forestallment 4
 fenestration 1
 flywinch
 fulfils 6
-flouncey 2
+flouncey 3
 footback 2
 forgrown 2
 filariid 2
@@ -9756,7 +9756,7 @@ freakful 1
 fermery 2
 fremd 2
 frenchly 3
-fafaronade
+fafaronade 1
 fissionability 3
 festinate 2
 fainting 1
@@ -11081,7 +11081,7 @@ frictionizing 4
 funambulatory 5
 fedia 5
 flamenship 4
-frontality 2
+frontality 3
 funambuloes 2
 functionated 1
 foster 2
