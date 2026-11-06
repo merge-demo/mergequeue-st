@@ -6818,7 +6818,7 @@ allotriomorphic
 aircraftsman 1
 adsorptiveness 2
 aggro 1
-aircraftsmen
+aircraftsmen 1
 aircraftswoman 1
 amytal 1
 aircraftwoman
@@ -8471,7 +8471,7 @@ alkalinized
 arite 2
 antilog 1
 avogram 1
-anticausotic
+anticausotic 1
 aschaffite 1
 adulatory
 apotheosizing 3
@@ -9204,7 +9204,7 @@ autoallogamous 2
 anstoss 2
 aetobatus 1
 almohades 2
-almon 1
+almon 2
 atheisms 3
 apothegm 1
 anga 3
@@ -24014,7 +24014,7 @@ antiproton 2
 align 1
 acetobacter 1
 autoclave 2
-allemands
+allemands 1
 aspheric 2
 autocollimators 3
 autocombustion 2
