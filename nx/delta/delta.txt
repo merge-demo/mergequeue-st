@@ -3229,7 +3229,7 @@ defend 2
 decolor 1
 dikast 2
 dolmenic 3
-demimondaine
+demimondaine 1
 dissentient
 distrainor 3
 defendant 1
@@ -17971,7 +17971,7 @@ dreamier 1
 distome 1
 dutifully 1
 demicanton 2
-detachability 1
+detachability 2
 deputationist 2
 dockage 1
 dissembled 3
