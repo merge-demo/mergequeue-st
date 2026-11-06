@@ -6513,7 +6513,7 @@ fip 10
 failsoft 4
 frapping 3
 ft 4
-forspread 5
+forspread 6
 foldskirt 5
 fortifying 3
 flexuousness 5
@@ -7055,7 +7055,7 @@ floriparous 6
 francis 1
 fulfilment 1
 frasco 5
-fimbriae 2
+fimbriae 3
 functioning 4
 foodful 5
 forniciform 5
