@@ -2082,7 +2082,7 @@ extrapolator 2
 effuse
 elastically 3
 eurycephalous 1
-edenite 2
+edenite 3
 exudes 1
 eesome 1
 emberiza 3
@@ -3778,7 +3778,7 @@ espigle 2
 explored 1
 emceeing 3
 escalader 1
-enquirer 5
+enquirer 6
 emcumbering 2
 electroneutral 3
 eclaircise 1
@@ -8058,7 +8058,7 @@ epipubis 1
 expostulations 2
 erminois 2
 esterifying 2
-electrophotomicrography
+electrophotomicrography 1
 epicoelia 2
 encephalothlipsis 4
 electrovection 3
@@ -8181,7 +8181,7 @@ elydoric 4
 exaltee 3
 epistases
 epistasies 2
-energy 2
+energy 3
 enhancers 1
 enrapturedly 1
 estreating 4
@@ -13827,7 +13827,7 @@ extortioners 2
 entomogenous 3
 elachista
 ethnicism 5
-exacuate 2
+exacuate 3
 encyclopedical 1
 egyptologist 4
 establishmentarianism
@@ -13948,7 +13948,7 @@ eliminatory
 entortill 2
 extorter 3
 ectoderm 3
-ecstatical 4
+ecstatical 5
 eburnated 4
 electee 3
 epimerizing 2
