@@ -1313,7 +1313,7 @@ bradycinesia 2
 biogasses 1
 bacao 3
 brochantite
-bury
+bury 1
 bedbug 2
 boleite 1
 bacterioprecipitin 1
@@ -5417,7 +5417,7 @@ beshine 3
 boarstaff 2
 bigarreau
 behaved 3
-bronchium 4
+bronchium 5
 behaver 3
 bicollateral 1
 behaving 2
@@ -18242,7 +18242,7 @@ butterflied 1
 bounteously 1
 balistarius
 besweatered 2
-butterflower 3
+butterflower 4
 bylined 2
 bleinerite 5
 battles 2
