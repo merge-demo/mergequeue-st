@@ -1348,7 +1348,7 @@ bacteriophagous
 bandwagon 1
 bobbles 4
 bethlehem 2
-bede
+bede 1
 bookdealer 2
 bioplastic 5
 barrowcoat 3
@@ -1602,7 +1602,7 @@ beknighting 3
 brummagem 1
 ballyhoo 1
 ballyrags 2
-bioelectrogenetic 3
+bioelectrogenetic 4
 belat 5
 ballised 2
 biradial 2
@@ -2604,7 +2604,7 @@ barytone 2
 barytons 1
 busing
 bowable
-bears 3
+bears 4
 barytophyllite 3
 blawed 1
 bridgelike 2
@@ -8141,7 +8141,7 @@ binucleate 1
 barble 3
 biding 2
 bidirectional 5
-biophagy 2
+biophagy 3
 bhumij 3
 beliefs 4
 bania 1
@@ -9865,7 +9865,7 @@ beryx 2
 based 3
 backswording 2
 bolelia 1
-balladry 2
+balladry 3
 bebleed 2
 beckoned 1
 brail 2
@@ -11590,7 +11590,7 @@ basophils 1
 biddy 2
 brierwood 1
 beth 2
-bestain 3
+bestain 4
 brightness 1
 byordinar 3
 blustering 1
@@ -16334,7 +16334,7 @@ broommaking 2
 bulimic 2
 bossing 2
 bifurcal 2
-bubonoceze 2
+bubonoceze 3
 brachyuranic 2
 bihari 3
 basson
@@ -16668,7 +16668,7 @@ bombazet 1
 buckberry 2
 boily 2
 bebaron 1
-bovey 2
+bovey 3
 bacchuslike 1
 buckboards 2
 bathycolpian
