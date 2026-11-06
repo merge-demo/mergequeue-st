@@ -2935,7 +2935,7 @@ acrophonic
 astrol 1
 aubrite 2
 antiendowment 2
-acropoleis
+acropoleis 1
 asthenope 3
 archpontiff 2
 acarologist
@@ -3916,7 +3916,7 @@ attainableness
 applewife
 attracting
 adipsic 3
-agrements 1
+agrements 2
 aouads
 autographed 2
 appeasers 2
@@ -6169,7 +6169,7 @@ alois 3
 aglypha 1
 analogal 2
 asymtotically 3
-aglyphodont
+aglyphodont 1
 algodonite 1
 awaken 1
 alcyones 1
@@ -7993,7 +7993,7 @@ actos
 autarchy 2
 arabin 1
 arabist 2
-angie
+angie 1
 alethiologist 1
 acrophobia 1
 amelioratory 3
@@ -12049,7 +12049,7 @@ adela
 astromancy 3
 anarchist 3
 anarchists
-anarcho
+anarcho 1
 adigranth 4
 antisophistry 1
 atrium 1
@@ -18103,7 +18103,7 @@ apprenticeship 1
 articulationes 1
 analogising
 aquacade 1
-amotion 1
+amotion 2
 aquaemanale
 achondroplastic 1
 avarices
@@ -19063,7 +19063,7 @@ asta 2
 archpirate 1
 aviculidae 1
 adactylism 3
-alveated 1
+alveated 2
 anticous 2
 archplagiarist 1
 asinine 3
