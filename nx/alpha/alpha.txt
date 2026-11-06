@@ -15337,7 +15337,7 @@ adapters 3
 amperages 1
 antihero 1
 amphoriskos 2
-azulejo 2
+azulejo 3
 antihierarchy 2
 akimbo 1
 aidless 2
@@ -19964,7 +19964,7 @@ armure 3
 armures
 arn 1
 antirachitic 1
-achromatinic
+achromatinic 1
 arnatto 1
 arugola 1
 ammonified 1
@@ -24459,7 +24459,7 @@ acropora 1
 autotetraploid
 assistanted 1
 anacruses 2
-autotetraploidy
+autotetraploidy 1
 aah 3
 autothaumaturgist
 appellatively 1
