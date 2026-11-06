@@ -2126,7 +2126,7 @@ blindish
 bardiest 3
 banqueting 4
 beseem 1
-buddhistic 4
+buddhistic 5
 besteer 1
 bladeless 2
 boguing 2
@@ -2188,7 +2188,7 @@ bandsaw 1
 bulling 1
 baptisms 2
 breakless 1
-badgers 4
+badgers 5
 baptistic 2
 barbasco 4
 breakbone 3
@@ -5621,7 +5621,7 @@ belaying
 bingo 4
 bogie 3
 belam 1
-bettas 3
+bettas 4
 brabblement 3
 birding 2
 beclamoring 1
@@ -9782,7 +9782,7 @@ basifugal
 buffered 1
 bistipulate 2
 bistort 1
-bistorts 2
+bistorts 3
 beetlehead 2
 bistred 2
 beknights 1
@@ -9846,7 +9846,7 @@ bowdlerization
 barrels 1
 balawa 6
 beamy 3
-biternately 1
+biternately 2
 blanketer 2
 babuls
 bressummer 2
@@ -16051,7 +16051,7 @@ bronchotyphus 1
 belucki
 begall 1
 benzaldoxime
-babe
+babe 1
 bronchotracheal 2
 bozos 1
 bespectacled 3
@@ -17083,7 +17083,7 @@ barcarole 5
 buttery 3
 brokerages 3
 bellonian
-bulldoggedness 1
+bulldoggedness 2
 bearder
 bulldogging 4
 bowly
