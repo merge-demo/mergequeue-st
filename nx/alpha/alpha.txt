@@ -1444,7 +1444,7 @@ aproned
 accessary 1
 aquaria 1
 accessaries 2
-anesthesiometer 1
+anesthesiometer 2
 accessarily 2
 autarkic 1
 amoebae
@@ -1662,7 +1662,7 @@ arsinoitherium 1
 argyrosis 1
 arricci 3
 accrescendo 1
-accretal 3
+accretal 4
 accretions 1
 awag 2
 according 1
@@ -1762,7 +1762,7 @@ accusatives 1
 arr 1
 avidly 2
 auricomous 3
-anglicanum
+anglicanum 1
 antediluvian 1
 adjutage 3
 aporia 2
@@ -8765,7 +8765,7 @@ alleviative
 antimaniacal
 antimacassars 1
 allegedly 2
-alleviatory 1
+alleviatory 2
 amolish
 asterophyllite 1
 adet
@@ -10291,7 +10291,7 @@ ameliorableness 2
 applemonger 2
 amylocellulose 2
 anhydrated
-acidific 4
+acidific 5
 ars
 ameliorates 1
 adenotyphoid 4
@@ -10474,7 +10474,7 @@ almah 1
 amethodically 1
 athalline 1
 arthrodire 1
-ametrope 3
+ametrope 4
 antshrike 1
 ametropia
 ametrous 2
@@ -18879,7 +18879,7 @@ aghastness 2
 archicerebrum
 archichlamydeae
 archidamus 5
-amninia 2
+amninia 3
 adherer 1
 anatropia 2
 archidiaconate 1
@@ -22422,7 +22422,7 @@ anagrammatise 2
 antiluetin 1
 astrologize 2
 advancers 3
-astromancer 2
+astromancer 3
 astromantic 1
 astromeda 2
 aflutter 2
