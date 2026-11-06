@@ -3848,7 +3848,7 @@ dressages
 dismast 1
 discastle 1
 dictature 1
-dissect 3
+dissect 4
 disp 1
 dyscrasite 2
 deerdog 1
@@ -11864,7 +11864,7 @@ deathblow 4
 dehypnotized
 dragoonade 1
 daguerreotypic
-dialyser 2
+dialyser 3
 disdein
 dardani
 doubleheader 3
@@ -16451,7 +16451,7 @@ dextrotartaric
 dichotomousness 3
 disgregated 2
 dates
-dolichocercic 2
+dolichocercic 3
 densimetric 2
 decidement 1
 dasypeltis 2
