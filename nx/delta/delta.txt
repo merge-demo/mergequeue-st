@@ -14565,7 +14565,7 @@ digitalein
 deckels 1
 desalinize 1
 dondine 4
-divisorial
+divisorial 1
 dreint 1
 diesinking
 deuteromyosinose 1
