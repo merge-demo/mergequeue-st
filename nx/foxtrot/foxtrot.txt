@@ -4356,7 +4356,7 @@ fillister 3
 focuser 4
 forfeitable 2
 fibroplastic 7
-flyte 5
+flyte 6
 foh 3
 figureheads 5
 flavo 1
@@ -5011,7 +5011,7 @@ familiarly 6
 fissive
 filmcard 2
 flaneur
-frescoes 4
+frescoes 5
 foremartyr 2
 filet 3
 fluctuable 1
@@ -11706,7 +11706,7 @@ fasciola 2
 fernsick
 frameless 3
 flaw 1
-fanfish 3
+fanfish 4
 foremasthand 2
 fiancailles 1
 frowns
