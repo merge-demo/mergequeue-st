@@ -5908,7 +5908,7 @@ adducing 1
 archprototype
 array 2
 agrionid
-archsnob 2
+archsnob 3
 agents 1
 ageometrical
 advisor 1
@@ -7362,7 +7362,7 @@ autotriploidy 2
 ah
 anagogies 1
 alveolus 3
-antistadholderian 1
+antistadholderian 2
 adiadochokinesia
 ariboflavinosis 1
 albarium 2
@@ -15510,7 +15510,7 @@ antiministerial 4
 antiministerially 1
 antigalactagogue 2
 aiming 1
-animize 3
+animize 4
 anandria 2
 affluentness
 anywhere
@@ -23757,7 +23757,7 @@ ausforming 1
 ajog 1
 arrent 1
 auslaute
-auspex 2
+auspex 3
 approvability 1
 anisopodous 1
 acetifier 1
@@ -24531,7 +24531,7 @@ auxanogram 1
 auxanometer 3
 aloins 4
 ayubite
-auxeses
+auxeses 1
 altercative
 antispreader 3
 aoristic
