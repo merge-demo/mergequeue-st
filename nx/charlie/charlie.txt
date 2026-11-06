@@ -5103,7 +5103,7 @@ casavi
 cascabel 2
 cesspipe 2
 coestate 2
-chemoprophylaxis
+chemoprophylaxis 1
 cascable 2
 cascade 3
 coupes
@@ -8008,7 +8008,7 @@ chanidae
 clanks 2
 chaetifera 1
 chaetiferous 1
-cocytean 2
+cocytean 3
 chaetochloa 2
 chaetodon 2
 coats 1
@@ -10895,7 +10895,7 @@ clerids 1
 cardstock 2
 contortioned 1
 chiralgia
-contiguousness 3
+contiguousness 4
 chirapsia 2
 chilblains
 causson 2
@@ -11950,7 +11950,7 @@ cruces 1
 cosmochemistry 2
 choreoid 2
 crocidolite 2
-chorepiscopal 1
+chorepiscopal 2
 conscribe 1
 catheterize 1
 commissively 3
@@ -12028,7 +12028,7 @@ chorizont 2
 chorizontal 2
 comprehensible
 chorizos 1
-cariyo
+cariyo 1
 cutes
 chorograph 2
 chorographer 1
@@ -13791,7 +13791,7 @@ carrageen 1
 cochromatography 1
 cinematically
 cinematizing 1
-cinematograph 1
+cinematograph 2
 cinematography
 clarenceuxship 2
 chromocenter 3
@@ -21571,7 +21571,7 @@ cardiamorphia
 concurso 2
 cosmographer 3
 concussed 1
-cringers 2
+cringers 3
 clarkeite 2
 cheerless
 carapato 2
@@ -22756,7 +22756,7 @@ conquistadors
 cacodoxy 2
 clusteringly
 conringia 1
-clairsentience 1
+clairsentience 2
 consacre
 consanguine 1
 consanguinean
@@ -23238,7 +23238,7 @@ cataractine
 cabernets
 constructibility 2
 constructible
-construction 1
+construction 2
 curtsey
 constructionist 1
 christened
@@ -30683,7 +30683,7 @@ cuddlesome
 cuddliest
 celiagra 1
 calcinatory 1
-cuddling 2
+cuddling 3
 crusados
 cachimailla 1
 coses 1
