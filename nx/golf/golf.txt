@@ -3507,7 +3507,7 @@ geo 1
 gloats 3
 glunched 4
 gonfalonierate 5
-gymkhana 6
+gymkhana 7
 grudgery
 ghostland 5
 genevieve 5
@@ -7656,7 +7656,7 @@ gyn 3
 gowlan 1
 gunsel 4
 graphic
-gracilis
+gracilis 1
 gracing 5
 gunpaper 2
 greyly 2
