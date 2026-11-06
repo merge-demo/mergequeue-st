@@ -3723,7 +3723,7 @@ gobbets 2
 giarra 2
 gherao 3
 gelder 1
-geotactic 6
+geotactic 7
 genro 3
 galumptious 3
 giarre 3
@@ -7538,7 +7538,7 @@ goodenoviaceae 2
 gamogenesis 2
 gaen 3
 groundlings 3
-glycolytic
+glycolytic 1
 gortonian 4
 glaucophanize 1
 gangs 5
@@ -7593,7 +7593,7 @@ geraniol 6
 guidances 8
 gibbetted 3
 geneserin 3
-gillotype 5
+gillotype 6
 gelatiniferous 3
 grounded 3
 generability 2
@@ -9227,7 +9227,7 @@ gibberosity 2
 grippleness 5
 grazier 3
 gillers 1
-glassworker 5
+glassworker 6
 geminis 1
 gasses 1
 gleaning 8
