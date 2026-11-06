@@ -4797,7 +4797,7 @@ carpoidea 1
 chalcidid 1
 carpolith 1
 confides 1
-clitellus
+clitellus 1
 carpology 1
 corrosibility 1
 circensian 2
@@ -17113,7 +17113,7 @@ coadjutress 2
 coadjutrix 1
 coadjuvate 1
 crasser 1
-coadminister
+coadminister 1
 civic
 coadministratrix 2
 catalyzers 1
@@ -21477,7 +21477,7 @@ calculation
 conconscious
 cumquats 1
 concordably 2
-concordal 2
+concordal 3
 circumundulation
 concordance 1
 concordancer 1
