@@ -5321,7 +5321,7 @@ displaced
 denticle 1
 desegmented
 dentifrice 2
-dentil 2
+dentil 3
 discussional 4
 dentiled 4
 dimin 3
@@ -8608,7 +8608,7 @@ deadbeat 1
 dehydrant 5
 drainless 6
 duckhouse 2
-dyarchies 2
+dyarchies 3
 distilling 1
 davis 3
 debugging 1
@@ -17837,7 +17837,7 @@ deputator 1
 dragging 1
 duckmeat 3
 duckpin 5
-dismayful
+dismayful 1
 desalinate
 diabolarch 1
 dower 2
