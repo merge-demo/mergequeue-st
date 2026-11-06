@@ -1985,7 +1985,7 @@ evictees 3
 emulsic 3
 equisonant 4
 endodontist 4
-eradiculose
+eradiculose 1
 elabrate 5
 endocrinotherapy 2
 erythrosine 1
@@ -2626,7 +2626,7 @@ eunuchising 2
 edh 3
 eupneic 2
 enchondromata 1
-electroresection 2
+electroresection 3
 epoptes 2
 expansion 2
 estadel
@@ -4732,7 +4732,7 @@ embrocate 4
 ergasterion 2
 enbusshe 2
 epicrisis 3
-edwardsia 4
+edwardsia 5
 euxine 3
 equulei 3
 enneahedra 3
@@ -5944,7 +5944,7 @@ egotism 5
 enjambements 2
 enigmata 5
 eassel 2
-eluvial 2
+eluvial 3
 exquisite 2
 embezzles 2
 etourderie 3
@@ -12379,7 +12379,7 @@ eseptate 4
 equilobate 1
 eupepsies 3
 edgeling 1
-exhibitors 3
+exhibitors 4
 endorsers 3
 excrescencies 1
 eucosmid 3
