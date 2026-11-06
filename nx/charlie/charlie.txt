@@ -16457,7 +16457,7 @@ clockless 3
 cuon 2
 clockmaking 2
 crewer
-clockwatcher 1
+clockwatcher 2
 cingulum
 clockwise
 clockworked 1
