@@ -2383,7 +2383,7 @@ bluelines 1
 bastinade
 belligerency 1
 bachelorlike
-barbula 2
+barbula 3
 bardiness 2
 barbulate 3
 barbulyie 5
@@ -6813,7 +6813,7 @@ boy 1
 bilic 3
 berwick 2
 bummaree 3
-bacteriaemia
+bacteriaemia 1
 burley
 baroi 3
 bes 1
