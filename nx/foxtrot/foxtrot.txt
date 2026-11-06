@@ -487,7 +487,7 @@ formicariidae 4
 foretokens 2
 frieseite 1
 fiumara 3
-forcleave 2
+forcleave 3
 fakery 3
 flaxweed 7
 funbre 6
@@ -6723,7 +6723,7 @@ fighters 10
 feast 1
 fellowships 5
 forelegs 5
-fogon 3
+fogon 4
 fogproof 4
 forstand 4
 fellator 6
@@ -10963,7 +10963,7 @@ fulminurate 1
 fess 3
 fulnesses 5
 flanconade 4
-forgetness 2
+forgetness 3
 furfuran 4
 fusoid 4
 forewit 4
