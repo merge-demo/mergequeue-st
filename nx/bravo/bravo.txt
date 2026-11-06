@@ -5961,7 +5961,7 @@ beltman
 belts
 boigid 2
 backstitches 2
-bloodspilling 1
+bloodspilling 2
 beadlike 1
 bionomy 4
 broads 3
@@ -8033,7 +8033,7 @@ bakehouses 4
 breathalyse 1
 blastomere 2
 breathiest 1
-bumping 1
+bumping 2
 bleakish 1
 brooming 2
 babble 2
@@ -8173,7 +8173,7 @@ blimpish 1
 beloeilite 4
 ballonet 1
 beardie 2
-bashers 1
+bashers 2
 brontophobia 1
 bash 1
 banishes 2
@@ -13687,7 +13687,7 @@ bodykins
 barathrum 1
 bourdons 4
 bourg 4
-befoolable
+befoolable 1
 bespawl
 bourgade 3
 beeped 2
@@ -17694,7 +17694,7 @@ blastema 2
 bidiurnal
 blarney 3
 brachioganoid
-basker 1
+basker 2
 banbury 1
 behove
 bracteolate 2
