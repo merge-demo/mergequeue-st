@@ -1354,7 +1354,7 @@ bioplastic 5
 barrowcoat 3
 brod
 botrylle 2
-backdrops 2
+backdrops 3
 butterflyer 4
 borderlands 1
 balbusard 2
@@ -4434,7 +4434,7 @@ blackfriars 6
 batule 3
 becloak 5
 bereavement 1
-boojum 4
+boojum 5
 bethorning 1
 beclog 3
 becoiffed 2
@@ -14636,7 +14636,7 @@ birks 1
 biogeographers 3
 blackneb 1
 bonito 1
-branniness 1
+branniness 2
 boucharde 3
 binodal 2
 bassara 3
