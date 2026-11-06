@@ -138,7 +138,7 @@ guelf 1
 gentlewomanly 1
 gigantology 3
 gaelic 1
-gs 4
+gs 5
 gallicole 2
 guy 4
 gentisin 1
@@ -317,7 +317,7 @@ galabeah 5
 gazolyte 3
 galabieh 2
 globulous 1
-galactagog 6
+galactagog 7
 goschens 3
 galvanoglyph 2
 gradualist 8
@@ -622,7 +622,7 @@ gramineal 3
 geodetic 2
 gweducs 2
 grottowork 1
-glutathione 1
+glutathione 2
 gallon
 gussying 2
 gonapophysis 2
@@ -634,7 +634,7 @@ gerodontia 6
 gasometry 2
 gaults 4
 gestatorial 5
-ghostlify 5
+ghostlify 6
 gnarled 2
 grueling 7
 grecophil 4
@@ -2257,7 +2257,7 @@ granulocytopoiesis 1
 geitonogamy 3
 gonostyle 4
 geomoroi 2
-grange 2
+grange 3
 granulosa 2
 gentilish 2
 gynarchy 5
@@ -2615,7 +2615,7 @@ glims
 gymnosophist 4
 genethlic 4
 glossopetra 5
-goatee 4
+goatee 5
 glossosteresis 4
 geoagronomic 5
 gastrolysis 5
@@ -2651,7 +2651,7 @@ geodiferous 3
 gabardines 1
 goggled 2
 gymnodont 1
-genic 4
+genic 5
 gradgrindian 2
 georgians 1
 geniculately 3
@@ -5389,7 +5389,7 @@ groceress 2
 groupageness 2
 geared 4
 gastroesophageal 4
-ghilzai 5
+ghilzai 6
 glyoxalic 3
 galliwasp 3
 guniter 5
@@ -6385,7 +6385,7 @@ glassworks 3
 gonotyl 4
 gracer 3
 gasterozooid 5
-geoponic 2
+geoponic 3
 goshenite 4
 ganefs 3
 goniotropous
@@ -8839,7 +8839,7 @@ gerful 1
 gangan
 gablock 4
 glaiket 4
-gasterophilus
+gasterophilus 1
 glycins 1
 gonogenesis 1
 gregariously 2
