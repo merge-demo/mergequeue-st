@@ -411,7 +411,7 @@ flints 1
 fibrotic 1
 festae 2
 folie 2
-flechettes 3
+flechettes 4
 fibroligamentous 3
 fauchards 5
 fur 5
@@ -1878,7 +1878,7 @@ flexional
 falsifies 3
 fizzwater 4
 frohlich 4
-fecundator 4
+fecundator 5
 foodless
 fuligula 1
 fallow 1
@@ -4167,7 +4167,7 @@ fiberglas 1
 fining 4
 filaria 3
 fucaceae 3
-fanos 3
+fanos 4
 fingent 2
 floodtime 2
 firebrick 3
@@ -5872,7 +5872,7 @@ flabby 1
 fastigia 3
 fowlers 4
 flocced 4
-frustulose 2
+frustulose 3
 footsoldier 2
 feelingness 4
 filariae 3
@@ -7602,7 +7602,7 @@ fandangos 6
 fleshquake 5
 ferrules 1
 foredefeated 7
-frankheartedness 4
+frankheartedness 5
 fatuity 7
 footslogs 3
 flacherie 2
@@ -11227,7 +11227,7 @@ farads 2
 firer 5
 failles 1
 flamethrowers 1
-fieldsman 4
+fieldsman 5
 fetoplacental 3
 footlers 3
 faradise
