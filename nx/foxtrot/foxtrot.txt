@@ -2879,7 +2879,7 @@ faeries 2
 forepreparation 2
 fetwa 3
 foreiron 4
-ferlies 4
+ferlies 5
 fetterlock 5
 flatfish 1
 forewing 5
@@ -8655,7 +8655,7 @@ forescript 2
 floury 2
 fluotantalic 3
 futility 4
-foredid 4
+foredid 5
 flecks 4
 fir 2
 fittings 3
@@ -11247,7 +11247,7 @@ flemished 4
 fluorescing 3
 funked 3
 finalism 2
-flatbrod 3
+flatbrod 4
 forbearable 2
 funky 3
 filter 3
