@@ -9,7 +9,7 @@ gunrooms 3
 gabber 4
 gabbers 2
 gobi 4
-grasswork 6
+grasswork 7
 gratuities 5
 gabelles 3
 greedsome 4
@@ -982,7 +982,7 @@ gundi 3
 gramercy
 greasebush 2
 glyconin 2
-gyrometer
+gyrometer 1
 glycogenesis 6
 gullably 2
 goldhammer 4
@@ -3539,7 +3539,7 @@ guidon 3
 glutinose 4
 gid 4
 galvanic
-gyrocar 3
+gyrocar 4
 greg 4
 gustus 2
 gyrochrome 5
@@ -4927,7 +4927,7 @@ germanization 3
 genom 6
 ganof 3
 gurgoyl 3
-gastrelcosis 1
+gastrelcosis 2
 ghoom 1
 ginger 3
 grisliest 1
@@ -4942,7 +4942,7 @@ gunhouse 3
 goiabada 1
 gravida 4
 glykopectic 4
-galleypot 3
+galleypot 4
 governesshood
 gynecide 3
 glaucousness 2
@@ -5339,7 +5339,7 @@ gloaters 3
 glistered 3
 grainland 2
 gigge 3
-gritrock 7
+gritrock 8
 guiltless 4
 gamma 2
 generalissima 5
@@ -10745,7 +10745,7 @@ gypsyisms 3
 glaciologists 4
 gnomonological 1
 gavage 2
-galloot 3
+galloot 4
 garnish
 gesticulatory 3
 gournard 1
@@ -10807,7 +10807,7 @@ gewgawy 1
 gestonie 2
 gibberella 2
 gabbroitic 3
-gibli 6
+gibli 7
 guttlers
 gainly
 gnamma
