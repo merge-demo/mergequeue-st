@@ -2158,7 +2158,7 @@ chiloma
 coadjacence 1
 campesinos 1
 campestral 2
-camphane
+camphane 1
 camphanone 2
 camphene 1
 camphenes 1
@@ -6229,7 +6229,7 @@ calycophorae 3
 caudatory 3
 cree 2
 clergies
-corbel 2
+corbel 3
 corticifugal 2
 caudebeck 1
 caudices 2
@@ -9183,7 +9183,7 @@ chastelain 1
 carritch 1
 catarrh
 carettochelydidae
-copied 2
+copied 3
 carbonylic 1
 chastener 1
 cashaw 1
@@ -13739,7 +13739,7 @@ cincture 1
 cinctured 1
 cinder
 cnemapophysis
-cindering
+cindering 1
 cinderman
 convocator 1
 contignation
@@ -18165,7 +18165,7 @@ coercivity
 coerebidae
 coerected 3
 coerecting 2
-coeruleolactite 2
+coeruleolactite 3
 cohost 2
 cancerin
 counterleague 2
@@ -20683,7 +20683,7 @@ ciminite 1
 calc 1
 carotin
 complementer 3
-cooniest 1
+cooniest 2
 caudotibial 1
 complementers 1
 camleted
@@ -20987,7 +20987,7 @@ colonoscopy 1
 compromission 2
 codiaceae 2
 compromit
-coronae
+coronae 1
 capeskins
 charbroil 1
 compromitment
@@ -22288,10 +22288,10 @@ cycas
 cockpits
 curiums
 conglobed 3
-conglobes 1
+conglobes 2
 conglomerate 4
 carolling 4
-cylices
+cylices 1
 calzoons
 conglomerating 1
 cochairing
@@ -22617,7 +22617,7 @@ connection 1
 connectival
 connective
 connectively 1
-clavichordists 1
+clavichordists 2
 convallariaceous
 catholicate
 connector 1
@@ -22771,7 +22771,7 @@ caligraphy 1
 conscience 3
 canalete
 canoeiro 1
-condivision
+condivision 1
 cydippid 2
 consciencelessly 2
 consciences 1
@@ -24055,7 +24055,7 @@ chainplate 2
 conventionize 1
 copperworks 1
 conidiophore
-conventions 2
+conventions 3
 coralwort 1
 convents 1
 conventual 2
@@ -29475,7 +29475,7 @@ crystallize
 crystallizes 1
 calvinist
 chaldaism
-chati 2
+chati 3
 cannoning 1
 convertend 1
 crystallod
