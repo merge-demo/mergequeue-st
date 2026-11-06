@@ -494,7 +494,7 @@ disrupter 1
 dozily
 dislustering
 dalibarda 3
-dismantler 2
+dismantler 3
 dalle
 deices 1
 diamylene 1
@@ -1248,7 +1248,7 @@ disemplane 2
 disobligation
 dateless 1
 datelessness 2
-denizate
+denizate 1
 disserve 2
 datelining 3
 datemark 1
@@ -2818,7 +2818,7 @@ disequalization 2
 decastellate 4
 draggle 1
 desidious
-decrypt
+decrypt 1
 decryption 1
 dasyus 2
 decrowning 2
@@ -4117,7 +4117,7 @@ doctrinization 1
 divagate 1
 disherit 2
 delisk 4
-delists 4
+delists 5
 delit 2
 demonstratorship 1
 dob 2
@@ -18518,7 +18518,7 @@ durances 2
 downcast 2
 divorced
 duraspinalis
-diacritic
+diacritic 1
 duration 1
 durations 2
 durbachite 5
