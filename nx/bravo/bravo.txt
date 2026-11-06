@@ -203,7 +203,7 @@ bioassays 2
 bigwigged 1
 bradyesthesia 4
 boutonnieres 1
-banditries
+banditries 1
 brainpower 4
 biofog 3
 bandicoot
@@ -744,7 +744,7 @@ bogwort 1
 badgerer
 blundersome 2
 booking 2
-banana 1
+banana 2
 bevined 2
 balada 1
 badgeringly 3
@@ -2126,7 +2126,7 @@ blindish
 bardiest 3
 banqueting 4
 beseem 1
-buddhistic 4
+buddhistic 5
 besteer 1
 bladeless 2
 boguing 2
@@ -2188,7 +2188,7 @@ bandsaw 1
 bulling 1
 baptisms 2
 breakless 1
-badgers 4
+badgers 5
 baptistic 2
 barbasco 4
 breakbone 3
@@ -5621,7 +5621,7 @@ belaying
 bingo 4
 bogie 3
 belam 1
-bettas 3
+bettas 4
 brabblement 3
 birding 2
 beclamoring 1
@@ -6399,7 +6399,7 @@ benzoinated 2
 borize 2
 blas 1
 brinishness 2
-burely 1
+burely 2
 benzonaphthol
 benzonitrile 1
 birdclapper 4
@@ -9404,7 +9404,7 @@ buriti
 baronetship 2
 bullyrook 1
 bulges 2
-blander
+blander 1
 birdless 2
 bimucronate 2
 balbutiate 3
@@ -9516,7 +9516,7 @@ biparental 1
 bigam 1
 borstals 2
 byrsonima 1
-birthed
+birthed 1
 budgerigars 1
 bakairi 6
 byrthynsak 2
@@ -9782,7 +9782,7 @@ basifugal
 buffered 1
 bistipulate 2
 bistort 1
-bistorts 2
+bistorts 3
 beetlehead 2
 bistred 2
 beknights 1
@@ -16051,7 +16051,7 @@ bronchotyphus 1
 belucki
 begall 1
 benzaldoxime
-babe
+babe 1
 bronchotracheal 2
 bozos 1
 bespectacled 3
@@ -17083,7 +17083,7 @@ barcarole 5
 buttery 3
 brokerages 3
 bellonian
-bulldoggedness 1
+bulldoggedness 2
 bearder
 bulldogging 4
 bowly
