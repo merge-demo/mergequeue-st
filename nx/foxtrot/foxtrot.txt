@@ -3994,7 +3994,7 @@ ferric 2
 furazolidone 5
 fender 5
 fluorosis 2
-fumblers 2
+fumblers 3
 foramina 3
 fishery 7
 fixups 4
@@ -7618,7 +7618,7 @@ fanciers 4
 flintworker 3
 forespeak 1
 freezable 3
-fervors 1
+fervors 2
 federating 1
 forril 4
 festino 3
@@ -11260,7 +11260,7 @@ funkiness 6
 fezzes 2
 forerunnings 2
 frontispieces 3
-fucivorous 2
+fucivorous 3
 funmaking 6
 flit 4
 flakeless 6
@@ -11444,7 +11444,7 @@ frailness 2
 founte 3
 fortunetell 3
 fluting 1
-fallibleness
+fallibleness 1
 frigidarium 2
 firebase 2
 fiducially 3
