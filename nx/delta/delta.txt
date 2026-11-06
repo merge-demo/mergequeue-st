@@ -1248,7 +1248,7 @@ disemplane 2
 disobligation
 dateless 1
 datelessness 2
-denizate
+denizate 1
 disserve 2
 datelining 3
 datemark 1
@@ -4117,7 +4117,7 @@ doctrinization 1
 divagate 1
 disherit 2
 delisk 4
-delists 4
+delists 5
 delit 2
 demonstratorship 1
 dob 2
