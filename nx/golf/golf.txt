@@ -1165,7 +1165,7 @@ genin 1
 genio 3
 gonimolobe 1
 gnawings 3
-greatish 2
+greatish 3
 galactometry 2
 gnetums 3
 guffin 5
@@ -4384,7 +4384,7 @@ gregarianism 2
 grazierdom 1
 grainsickness 1
 gosplan 1
-gammelost
+gammelost 1
 gunshots 3
 graminology
 gommelin 2
@@ -8625,7 +8625,7 @@ greenflies 3
 gamasidae 2
 gossameriness 4
 gametically 2
-genealogical 2
+genealogical 3
 gibbeting 3
 gaudeamuses 3
 geothermometer 2
@@ -9543,7 +9543,7 @@ ger 3
 gadaea 2
 gastrophthisis 4
 guanosine 4
-goldurn 3
+goldurn 4
 gastrocentrous 1
 greets 2
 geldability
