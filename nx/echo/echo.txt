@@ -811,7 +811,7 @@ ectype 3
 epicarpal 3
 enwrite 3
 erythrinidae 1
-eral 1
+eral 2
 excrescent 6
 extremest 4
 extradecretal 2
@@ -6673,7 +6673,7 @@ equines
 espaliers
 epithecal 1
 evaginable 1
-emunge 1
+emunge 2
 exstimulate 4
 exhumed 5
 eonism 6
@@ -10508,7 +10508,7 @@ exemplifying 3
 emmetropic 1
 etwee 2
 electricans 4
-esoanhydride
+esoanhydride 1
 extirpations 3
 exemplifications 3
 electrometry 2
@@ -12741,7 +12741,7 @@ exophasic 4
 embladder 6
 etchers 1
 exalted 1
-embloom
+embloom 1
 epibolism
 exenterating 6
 exophthalmus 2
