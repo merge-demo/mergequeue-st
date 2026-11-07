@@ -5698,7 +5698,7 @@ dithers 5
 diallel 1
 deconsider 2
 depoh 1
-decd 4
+decd 5
 depolarise 3
 dearies
 dehumidify
