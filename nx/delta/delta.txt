@@ -2702,7 +2702,7 @@ delectable 4
 duetto 3
 demove 1
 decorate 3
-decorating 2
+decorating 3
 daukin 2
 decuple 2
 dont 2
@@ -7510,7 +7510,7 @@ dehgan 1
 deuteranope 1
 deuteration 2
 denucleate 1
-demarcator 1
+demarcator 2
 desulfurized 2
 digitalizing 1
 disenchain 3
@@ -10624,7 +10624,7 @@ duncery 3
 divaricating 5
 demurrals 4
 disapprove 2
-decarbonize
+decarbonize 1
 dustcoat 3
 diploplaculate 3
 degarnish
