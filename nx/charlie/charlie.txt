@@ -290,7 +290,7 @@ caustify
 conchiform 2
 cachous 1
 cachrys
-cachua 1
+cachua 2
 calicoback
 cachuchas
 cachunde 2
@@ -3371,7 +3371,7 @@ caponized
 caponizer
 copyfitter 1
 caponizing 1
-caponniere 2
+caponniere 3
 caporal 2
 caporals
 condyle 1
@@ -8857,7 +8857,7 @@ chasmogamy
 companiable 2
 cycads
 charadrii
-charadriiformes
+charadriiformes 1
 charadrine
 charadriomorphae 1
 chingpaw 1
@@ -11329,7 +11329,7 @@ conged
 cubica 1
 chromicizing 1
 chloroforms
-chlorogenic
+chlorogenic 1
 chloroid 1
 crewless 1
 curably
@@ -11868,7 +11868,7 @@ choragi 2
 choragic 1
 choragion
 choristers
-calashes
+calashes 1
 chorai
 choral 1
 choralcelo
@@ -11951,7 +11951,7 @@ cosmochemistry 2
 choreoid 2
 crocidolite 2
 chorepiscopal 2
-conscribe 1
+conscribe 2
 catheterize 1
 commissively 3
 canoodling 3
@@ -12863,7 +12863,7 @@ churchgoers 1
 calorifacient 3
 churchy 1
 churchianity 2
-churchyard 1
+churchyard 2
 churchyards 1
 churching 6
 crabbedly 1
@@ -14477,7 +14477,7 @@ cirsotomy 1
 cirsotomies
 cirterion
 cyrtoceras 1
-chergui 2
+chergui 3
 courantos 1
 cyrtometer 1
 calcavella
@@ -15711,7 +15711,7 @@ clavicornes
 clavicotomy 1
 clavicular
 cadmium 1
-clavicularium 1
+clavicularium 2
 claviculate
 chrysohermidin 1
 chirotype 2
@@ -18495,7 +18495,7 @@ cronk 1
 curr 1
 coherence
 cataractal 1
-coherer 2
+coherer 3
 cumberworld
 cohering
 coheritor 2
@@ -19250,7 +19250,7 @@ colocephali 2
 clypeiform
 coryph 2
 colocynth
-connections 2
+connections 3
 crista
 colodyspepsia 1
 cuidado 2
@@ -23749,7 +23749,7 @@ contraoctave
 caste 1
 coyote 4
 crimped
-contraplete
+contraplete 1
 cataphoretically 1
 canulate 2
 cherogril 2
@@ -25233,7 +25233,7 @@ coachlet 1
 corymblike 1
 capitally
 codifiability 1
-cystidia
+cystidia 1
 cuffy
 creakingly 4
 chalastic 2
@@ -28168,7 +28168,7 @@ craniums 1
 crankcases
 cristy 1
 celebres 3
-cypre 3
+cypre 4
 colter
 cuckooed
 crosscutter 2
