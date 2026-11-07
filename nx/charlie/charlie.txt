@@ -4145,7 +4145,7 @@ clags 1
 cardiocarpum 2
 cardiocele 1
 chevronelly 2
-cardiocirrhosis 1
+cardiocirrhosis 2
 cacuminate 3
 consubsistency 1
 contrarieties 1
@@ -10587,7 +10587,7 @@ chillumchee
 countersubject 2
 cravenhearted 1
 copaibas 1
-conflating 2
+conflating 3
 coruscating 2
 camoca 1
 carburise
@@ -28159,7 +28159,7 @@ clamb 1
 countercheck
 cranioschisis 1
 cranioscopy 3
-chimerism
+chimerism 1
 chelonidae 1
 cameos
 craniotomy
@@ -30139,7 +30139,7 @@ coincidency
 crownwork
 crownwort
 crowshay
-cryocautery 1
+cryocautery 2
 crowstepped
 citee
 crowstone 1
