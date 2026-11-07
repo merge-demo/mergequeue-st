@@ -9955,7 +9955,7 @@ consumable 2
 chenopod 2
 colocasia 1
 catacombic
-criollo
+criollo 1
 chiro 4
 chenopods
 cajuputs 1
@@ -23122,7 +23122,7 @@ cowgate 1
 chkalik
 clysmian
 corymbs 1
-constablewick 2
+constablewick 3
 constabular 1
 constabularies 3
 comminute
@@ -24331,7 +24331,7 @@ coof
 cooghneiorvlt 3
 colalgia
 cooing
-cyclovertebral
+cyclovertebral 1
 conchie 1
 cooingly 3
 cottonpicking
