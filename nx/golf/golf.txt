@@ -479,7 +479,7 @@ gipsies 1
 galericulate 4
 groomers 3
 goudy 5
-germing 6
+germing 7
 gadding 2
 gasifiers 1
 geochronological 2
@@ -1030,7 +1030,7 @@ geodist 1
 grasp 2
 glinting 3
 gynaecology 6
-golp 3
+golp 4
 glanced 2
 glycohaemia 3
 groan 1
@@ -1288,7 +1288,7 @@ gnatsnapper 7
 ganges 5
 goosery 4
 granch 5
-giddying 2
+giddying 3
 gunnels 8
 gable 1
 ginkgo 5
@@ -4773,7 +4773,7 @@ gypaetus 3
 griffinism 3
 gynecidal 4
 garlicwort 5
-glades 1
+glades 2
 graupels 3
 grush 5
 generalidad 5
@@ -4841,7 +4841,7 @@ glagolic 2
 gorillian 4
 gethsemane 6
 glaieul 4
-geodal 4
+geodal 5
 groveller 2
 geometrising 4
 glycerinize 1
@@ -9307,7 +9307,7 @@ geodynamicist 2
 glummest 5
 grapeline 2
 grantha 1
-girnel 3
+girnel 4
 gallowglass 4
 gaure 1
 guttera 3
@@ -9552,7 +9552,7 @@ grouze 2
 gingeley 4
 glycans 2
 glume 2
-gastornithidae 3
+gastornithidae 4
 groved 1
 greenskeeper
 goggler 2
@@ -10282,7 +10282,7 @@ gaseosity 2
 grossularite 3
 galvanomagnet 2
 gigantically 3
-gorges
+gorges 1
 grather 3
 gossipped 1
 gridded 1
