@@ -1200,7 +1200,7 @@ fenders 3
 flexural 2
 flinched 4
 fatuities 4
-forethinking 3
+forethinking 4
 feodatory 2
 funnyman 5
 freieslebenite 2
@@ -1343,7 +1343,7 @@ fidate 4
 fruticeous 2
 flaxdrop 2
 filecard 4
-flenser 1
+flenser 2
 fullword 1
 filicology
 forspoke 2
@@ -3562,7 +3562,7 @@ forechoice 2
 ferroprussic 2
 flagellative 2
 foody 3
-funding 2
+funding 3
 forboding 2
 fairylands 6
 filched 2
@@ -5110,7 +5110,7 @@ falasha 2
 forebespeak 1
 fatherling 3
 fractionise
-funking
+funking 1
 fumant 2
 forbidding 2
 forthy 2
@@ -9343,7 +9343,7 @@ foremost 4
 fabrikoid 4
 fruticeta 4
 funfairs 1
-flukey 2
+flukey 3
 feis 4
 forsado 5
 fluidise 1
