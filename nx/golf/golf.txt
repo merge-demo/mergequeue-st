@@ -775,7 +775,7 @@ gres 3
 galvanotherapy 4
 goods 5
 gery 3
-geomorphic 3
+geomorphic 4
 gemologies 2
 galvanotropism 3
 guntub
@@ -6196,7 +6196,7 @@ gossipdom 3
 gamblesome 3
 grubbed 1
 gardener 2
-geomyidae 2
+geomyidae 3
 guahibo 3
 grimacier 4
 goatfishes 2
