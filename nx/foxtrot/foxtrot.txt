@@ -3038,7 +3038,7 @@ frenchen 5
 fissioned
 forensical
 felstones 5
-friendlies 6
+friendlies 7
 fibbers 2
 foremelt 6
 fustin 3
@@ -6106,7 +6106,7 @@ fortnights 4
 fervidity 1
 freighter
 frettation
-flatlanders
+flatlanders 1
 filical 4
 fatheaded 1
 folksinging
@@ -9260,7 +9260,7 @@ forsakes 3
 flattener 4
 feldspathose 3
 fretless 5
-flosh 1
+flosh 2
 fastigious 5
 fusing 4
 fragments 3
@@ -10891,7 +10891,7 @@ footholds 2
 fallings 4
 fossors 3
 flavor 3
-frowardly 4
+frowardly 5
 fon 3
 fustianist 3
 filigreing
