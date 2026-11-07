@@ -782,7 +782,7 @@ dandled 2
 dopaoxidase 3
 dandler
 defs 1
-dispurpose
+dispurpose 1
 drawn
 devolatilize 2
 dacryocystotomy 2
@@ -3501,7 +3501,7 @@ deflections 1
 delete 3
 deformations 3
 dicynodont
-deformedly 1
+deformedly 2
 dandily 5
 downfold
 deuterostomata 4
@@ -5089,7 +5089,7 @@ dextrosinistral 1
 dundee 4
 dopamine 2
 duenna 3
-disulphoxide
+disulphoxide 1
 discovers 2
 detachedly 1
 deadened
@@ -14721,7 +14721,7 @@ detained 3
 disfigurements 4
 decahedral 3
 doctorbird 2
-dekametre 3
+dekametre 4
 declinedness 2
 darnation
 dioptrically 4
@@ -18419,7 +18419,7 @@ duolog 1
 displeaser 1
 duologues 3
 doubtedly 4
-disembarkment 4
+disembarkment 5
 demilune 1
 demonstrable 1
 duopsonistic 2
