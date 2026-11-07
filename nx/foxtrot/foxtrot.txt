@@ -491,7 +491,7 @@ forcleave 3
 fakery 3
 flaxweed 7
 funbre 6
-frisch 6
+frisch 7
 fertilizing 5
 frenne 3
 filicite 2
@@ -816,7 +816,7 @@ forbecause 2
 fanon 3
 fronted 1
 felichthys 1
-fingermark 4
+fingermark 5
 funereally 3
 fashioner
 finestill 1
@@ -855,7 +855,7 @@ folliculose 2
 footworks 2
 feverfews 2
 forche 5
-fantastication 3
+fantastication 4
 forold 2
 faventine 8
 flamfew 4
@@ -2476,7 +2476,7 @@ fuddlement 2
 footscraper 5
 fermillet 6
 favonian 2
-floripondio 3
+floripondio 4
 frecket 3
 foliously 1
 flabile 3
@@ -6068,7 +6068,7 @@ featness 6
 flocculating 6
 frayn 4
 feezing 1
-floridity 3
+floridity 4
 floriscope 3
 fetterbush 2
 faba 1
@@ -6178,7 +6178,7 @@ fingerspin 3
 flowerwork 2
 finnicking 3
 flowingness 1
-facilitates 4
+facilitates 5
 fimetarious 2
 forcement 7
 funguslike 5
@@ -6902,7 +6902,7 @@ fp 3
 fow 3
 facelessness 2
 floatages 1
-fruity 4
+fruity 5
 fifes 2
 fleme 2
 felafel 2
@@ -8270,7 +8270,7 @@ forfoughten 3
 faltering 4
 forgat 1
 futuramic 5
-flavines 4
+flavines 5
 footwork 3
 flammivomous 3
 forgather 2
@@ -9564,7 +9564,7 @@ fattrels 6
 faithworthy
 frontways 4
 footling 1
-finiteness 4
+finiteness 5
 fringier 5
 finiglacial 4
 fiador 7
