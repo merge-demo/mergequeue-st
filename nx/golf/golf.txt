@@ -3497,7 +3497,7 @@ geums 1
 garmentworker 4
 ganglions 1
 gymnorhina 4
-geomagnetist 2
+geomagnetist 3
 gluconeogenesis 3
 grugru 1
 gunslinging 1
@@ -6153,7 +6153,7 @@ genovino 1
 gesan 4
 gazetteers 2
 groveling 7
-goal 5
+goal 6
 griffithite 2
 galactophore 2
 goniatite 3
