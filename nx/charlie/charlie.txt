@@ -722,7 +722,7 @@ cabdriver 1
 caftans
 caenogaean
 callant
-cag 2
+cag 3
 conchology 1
 cabooses 1
 cage 3
@@ -941,7 +941,7 @@ cakravartin
 calaba 1
 crawfoot
 coulees
-calabari
+calabari 1
 cornices
 collared
 colpotomy 1
@@ -7594,7 +7594,7 @@ cerebrose
 campanula 1
 chargers 2
 calathisci 1
-cerebrospinal 1
+cerebrospinal 2
 cipherer
 ceresin 1
 chaetotaxy 2
@@ -11278,7 +11278,7 @@ culicid
 chlorize 2
 cynocephalus
 chesterbed 2
-chlormethane
+chlormethane 1
 chrysidella 2
 chloroacetone
 childe 1
@@ -12638,7 +12638,7 @@ countable
 collocution
 cheney
 churchiest 2
-coriandrum 1
+coriandrum 2
 chroococcaceae
 cynanthropy 2
 chopines 1
@@ -12926,7 +12926,7 @@ clavus
 colorblindness
 carroming
 cucullus
-clodpolls 1
+clodpolls 2
 critism 1
 cleidocranial
 chute 1
@@ -14025,7 +14025,7 @@ cypraeiform 1
 confinement 4
 cypraeoid
 cypress
-courtesanry 1
+courtesanry 2
 cozeningly 1
 cavitation 1
 cypressed 1
@@ -19423,7 +19423,7 @@ coloristically 1
 cytophysiology
 cadded
 comer 2
-consulate 1
+consulate 2
 cheaping 2
 calcitonin 1
 chimaeridae
@@ -20573,7 +20573,7 @@ cosines
 checks 1
 compendency 2
 compendia 1
-correlativity 2
+correlativity 3
 celtophobe
 compendious 1
 compendium 2
@@ -20623,7 +20623,7 @@ competitors 1
 challengee 1
 competitrix 2
 cofounded 2
-curvilinearly
+curvilinearly 1
 compilations
 challenging 2
 compilator 1
@@ -20910,7 +20910,7 @@ carbarn 1
 cheesiness 1
 comprehender 2
 carnivallike 1
-comedos 1
+comedos 2
 comprehense 1
 cherkess
 comprehensibly 2
@@ -23136,7 +23136,7 @@ canvassed 1
 constantly
 constantness
 constitutionalization 2
-camorrista
+camorrista 1
 constat
 caretaken 3
 chuddahs 3
@@ -29110,7 +29110,7 @@ capriccettos 2
 crinitory
 craniota 1
 commercialise
-cicadae
+cicadae 1
 carryover 1
 capered 2
 curine 1
@@ -30191,7 +30191,7 @@ carbonising
 ceramist
 cerotype
 cornuses 2
-christ 2
+christ 3
 comandra 3
 chondroglossus 4
 cyanemia 2
