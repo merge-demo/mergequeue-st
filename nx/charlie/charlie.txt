@@ -22805,7 +22805,7 @@ contramarque
 consecrates 1
 clearage 3
 citrals 4
-coticular 1
+coticular 2
 clovers 2
 cabers 2
 consecrator
@@ -24717,7 +24717,7 @@ coppersmith 1
 comenic
 coppersmithing
 copperware 2
-copperwing
+copperwing 1
 cladodes 3
 coppices 1
 crepehanger 2
