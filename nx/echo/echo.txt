@@ -562,7 +562,7 @@ epigynum 2
 excision 1
 esophagoscopy 1
 eurypelma 8
-eurythermic 1
+eurythermic 2
 ecclesiastes 1
 electrostatically 1
 excommunicates 1
@@ -3015,7 +3015,7 @@ eviscerate 2
 eliquidate 3
 eudora 2
 extraclaustral 3
-elysiidae
+elysiidae 1
 elisor 4
 expeditor 1
 eyereach 1
@@ -3285,7 +3285,7 @@ endoproct 2
 eperlan 7
 elapidae 2
 eyeshades 4
-eremitish 1
+eremitish 2
 effeminization 2
 emailed 4
 equalise 2
@@ -3340,7 +3340,7 @@ erythrin
 executions 5
 equiangular 3
 exodromic 2
-emphemeralness 2
+emphemeralness 3
 expensefully 4
 ecdyses
 entitative 5
@@ -4788,7 +4788,7 @@ estrous 2
 excellences 2
 epigne 7
 ealdormen 4
-ephydriad 5
+ephydriad 6
 expertise
 emblematizing 2
 encourages 4
@@ -5341,7 +5341,7 @@ edges 1
 ethylidene 1
 ektene 2
 engorges 1
-envolupen 1
+envolupen 2
 eiders 2
 evocatory 3
 endotheliomas 2
@@ -5409,7 +5409,7 @@ equivocates 5
 er
 etatist 1
 epidia 1
-enema 3
+enema 4
 enthralment 4
 emblematicalness 1
 energesis 1
@@ -6907,7 +6907,7 @@ elicitate
 entoprocta 5
 embrocado 2
 entraining 1
-entrains 2
+entrains 3
 entrancedly 3
 entrancement 2
 elaphoglossum 1
@@ -6969,7 +6969,7 @@ estated 1
 emetines 1
 extradialectal 1
 entrike 5
-economising 4
+economising 5
 erythrochaete 5
 enactory 1
 embellished 6
@@ -8635,7 +8635,7 @@ emerging 4
 excretions 1
 equinumerally 4
 equinus 1
-ethrogs 1
+ethrogs 2
 enarration 2
 equipages 1
 etherialism 3
@@ -9755,7 +9755,7 @@ exp 2
 essoined 4
 embolemia 2
 eachwhere 4
-equitableness 2
+equitableness 3
 exfoliated 3
 equalisation
 ejectamenta 2
@@ -10319,7 +10319,7 @@ eupomatiaceae 3
 ethonomics 2
 epeirogenic 2
 epicalyxes 4
-encyclopaedical
+encyclopaedical 1
 eyas
 epipastic 4
 exporting 4
