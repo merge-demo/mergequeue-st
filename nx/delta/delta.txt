@@ -1311,7 +1311,7 @@ diastaltic 3
 decoloured 3
 daubreite 1
 degaussing 6
-dobsons 2
+dobsons 3
 dinitro 3
 densified 2
 dryermen 1
@@ -18037,7 +18037,7 @@ dulcification 1
 dropforging 1
 dislodgeable 2
 disseminator 1
-deporture
+deporture 1
 deployable 1
 dentelle
 dyers 3
