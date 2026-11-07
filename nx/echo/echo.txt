@@ -4141,7 +4141,7 @@ extracranial 3
 energids 2
 enslumber 1
 expungement 2
-erythrodermia 1
+erythrodermia 2
 externum 6
 encl 2
 encaustes 1
@@ -12461,7 +12461,7 @@ exigently 4
 exhilaratingly 2
 encasserole 1
 easting 3
-exhortations
+exhortations 1
 elatery 3
 eisegeses 1
 entomostracan 1
