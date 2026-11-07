@@ -85,7 +85,7 @@ bringers
 bulwarks 1
 baldachins 1
 babhan 2
-barkened 2
+barkened 3
 bespout 6
 becked 3
 bumpity 4
@@ -2707,7 +2707,7 @@ betweenbrain 1
 berrigan 2
 bicaudal 2
 beelzebub
-barneys 1
+barneys 2
 bourr 3
 beefiness 1
 barnyard
@@ -5756,7 +5756,7 @@ bretwaldaship 2
 bellacoola 2
 bungler
 balaghat 2
-biophysics 1
+biophysics 2
 beaverroot 4
 bellbinder 2
 booboisie 4
@@ -10424,7 +10424,7 @@ boneless
 bagmen 1
 baidya
 bullfinch 2
-barf 1
+barf 2
 blankness 2
 berskin 1
 blanks
@@ -11929,7 +11929,7 @@ baggily 2
 bogach 1
 becrush 3
 berth 2
-bushelwoman 3
+bushelwoman 4
 bruins 2
 barographs 3
 betutor 1
@@ -14223,7 +14223,7 @@ bebog
 boomboat 1
 bantin 4
 batters 2
-balladise
+balladise 1
 bleu 1
 bluebottles 2
 boutiques 3
@@ -16739,7 +16739,7 @@ bicameralist 1
 bucerotes
 bucku 3
 byrlawman
-babehood
+babehood 1
 buckwagon 4
 boodie
 buckwheatlike 1
