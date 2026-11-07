@@ -4044,7 +4044,7 @@ admeasurer 3
 adumbrant
 admeasuring
 adulterant
-allosterically
+allosterically 1
 amimide 2
 anthus 1
 acerola 1
@@ -6562,7 +6562,7 @@ anacrustic 1
 airward 2
 amicableness 4
 ahunt
-azocyclic 4
+azocyclic 5
 ahuula
 amatorially
 ahwal 1
@@ -8471,7 +8471,7 @@ alkalinized
 arite 2
 antilog 1
 avogram 1
-anticausotic 1
+anticausotic 2
 aschaffite 1
 adulatory
 apotheosizing 4
