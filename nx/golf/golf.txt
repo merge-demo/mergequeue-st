@@ -2405,7 +2405,7 @@ gype 3
 grograms 4
 glutch 1
 gunship 2
-grandpas 2
+grandpas 3
 gekkones 2
 gimels 4
 grillage 3
@@ -2598,7 +2598,7 @@ glees 2
 genethliacal 3
 gabelled 1
 glaciomarine 3
-givens 4
+givens 5
 granitize 3
 gruesomest 6
 grendel 3
@@ -2761,7 +2761,7 @@ guydom 4
 gloppen 1
 gramophonist 1
 gyne 1
-gershon 4
+gershon 5
 guzzledom 2
 gyges 4
 guemul 3
@@ -8447,7 +8447,7 @@ gauntree 5
 gedanken 4
 garlicky 3
 gratifiable 5
-guaco 2
+guaco 3
 gelsemium 3
 ghetchoo 4
 girondism 3
@@ -9489,7 +9489,7 @@ gossamery 2
 gae
 gonyaulax 2
 graceful
-guelphish 4
+guelphish 5
 grundlov 5
 group 3
 gland 3
