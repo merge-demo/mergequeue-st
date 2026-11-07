@@ -2633,7 +2633,7 @@ dumpcarts 1
 decreers 1
 decolours 2
 dornock 2
-decommissioned 2
+decommissioned 3
 discriminably 2
 decian
 dozers
@@ -2853,7 +2853,7 @@ depurant 1
 disgenius 1
 deepest 1
 denticles 3
-dictyopteris
+dictyopteris 1
 decumbent 2
 disfurnishment 1
 deistically 1
@@ -3830,7 +3830,7 @@ disinteresting 1
 dissceptred 3
 decorationist 3
 deionizer 4
-deipnophobia 2
+deipnophobia 3
 disembarkations 1
 dilutes 4
 disprized 3
@@ -9935,7 +9935,7 @@ dulcet 1
 dehorned
 dette 1
 dormins 2
-diminuendoes 4
+diminuendoes 5
 degu 1
 dowing 5
 dividant 1
@@ -14078,7 +14078,7 @@ dispace 3
 dialist 1
 dropman 2
 distribution
-decretum 3
+decretum 4
 dryopithecinae 3
 dispensable 2
 deluging
@@ -15561,7 +15561,7 @@ doodlebug 2
 doodlers
 doodlesack 4
 demeanors
-deconcatenate 1
+deconcatenate 2
 determinedly 1
 dool 1
 duumviri 2
