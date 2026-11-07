@@ -3511,7 +3511,7 @@ def 3
 dinitrotoluene 1
 demarcatordemarcators 2
 disapproving 5
-defrayable 3
+defrayable 4
 disembarrassment 1
 dismissable 3
 doom 2
@@ -6622,7 +6622,7 @@ dreamwhile 1
 desert 1
 darkroom 2
 deescalated 3
-deacidification 3
+deacidification 4
 denotational 1
 dissentism 1
 desorb 3
