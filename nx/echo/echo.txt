@@ -6245,7 +6245,7 @@ epicyte 2
 eradiating 1
 educate 3
 epigaster 3
-ethanes
+ethanes 1
 enrich 3
 enrichener 3
 ectopias 3
@@ -13174,7 +13174,7 @@ embolomycotic 2
 experimentist 5
 extracathedral 3
 emulsify 5
-epaulette 3
+epaulette 4
 epanaleptic 4
 experting 3
 ectally 5
@@ -13715,7 +13715,7 @@ emotionlessness 3
 etiotropic 2
 eurygnathic
 exterminatrix 3
-extraconscious
+extraconscious 1
 escarp
 earthing 1
 ewelease 2
