@@ -526,7 +526,7 @@ beckoners 3
 backstromite
 boart 1
 bu 4
-backtenter 1
+backtenter 2
 beggingwise 1
 blennioid 3
 backtracking 2
@@ -1850,7 +1850,7 @@ bananivorous 3
 banatite 2
 becharm 1
 blackjacking 1
-billycans 6
+billycans 7
 bioelectrical 3
 bancha 1
 bivial 4
@@ -2377,7 +2377,7 @@ bourignianist 1
 bagging 3
 boxboards
 barbotine 1
-bones 2
+bones 3
 butterless 3
 bluelines 1
 bastinade
@@ -5757,7 +5757,7 @@ bellacoola 2
 bungler
 balaghat 2
 biophysics 1
-beaverroot 3
+beaverroot 4
 bellbinder 2
 booboisie 4
 budgeree 2
@@ -11051,7 +11051,7 @@ bloats 1
 brachygnathous
 byelorussian 4
 berlin 2
-blob 4
+blob 5
 bimetallic 1
 bicentrically 1
 bigential
@@ -15798,7 +15798,7 @@ berberin 4
 baalish 3
 bilirubin 1
 brodyagi 4
-brodie
+brodie 1
 broeboe 3
 basiparachromatin 1
 broguer 2
@@ -15819,7 +15819,7 @@ bastide 2
 bullaria 1
 blare 3
 beshame 1
-baldness 1
+baldness 2
 broiling 3
 brokage 4
 brokages 1
@@ -16320,7 +16320,7 @@ brucellosis 2
 barely
 biolytic 3
 brucia 1
-brucin 2
+brucin 3
 brucine
 brucines 5
 bleachman 5
