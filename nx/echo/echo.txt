@@ -982,7 +982,7 @@ enquiring 3
 exorbital 1
 edaphosaurus 3
 explosibility 1
-encapsules 1
+encapsules 2
 eastlins 3
 euthanasic 3
 enterocinetic 3
@@ -3831,7 +3831,7 @@ entreasured 4
 emerizing 2
 engrieve 5
 emerods 1
-epitomator
+epitomator 1
 emersed 2
 estivator 2
 eggcupful 5
@@ -4485,7 +4485,7 @@ encephalomyocarditis 2
 emancipate 4
 enactive 3
 emerita 1
-ephorate 3
+ephorate 4
 encephalopathia 4
 ethynylation 1
 entoptoscope 2
@@ -5537,7 +5537,7 @@ enfiled 4
 evangel 1
 extratympanic 2
 empathetically 5
-enduringness 1
+enduringness 2
 estimably 4
 enrichment 2
 endogens 1
@@ -9603,7 +9603,7 @@ eternalise 4
 espada 1
 ethanethial 4
 esurine 2
-enlarging 5
+enlarging 6
 espadon 2
 effervescible 7
 ewer 1
@@ -12634,7 +12634,7 @@ eyeserver 2
 exploiture
 exocrines 3
 emanative 2
-enwheeling 2
+enwheeling 3
 epitonium 4
 ectethmoid 2
 endostoma 3
@@ -12655,7 +12655,7 @@ electrophore
 eranthemum 3
 extramurally 1
 emeus 6
-entorganism 2
+entorganism 3
 enigmatography 4
 equiaxial
 epexegeses 2
