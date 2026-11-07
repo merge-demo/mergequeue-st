@@ -3053,7 +3053,7 @@ cantraip
 cantraps
 chares
 curlyheads
-capitonidae
+capitonidae 1
 centrales 3
 cantrip 1
 cantus
@@ -6151,7 +6151,7 @@ cryptocarya 1
 cowpea 1
 copernicans 3
 celiotomy 1
-chimaeroidei 1
+chimaeroidei 2
 cornfactor
 cattycornered 2
 cattyman
@@ -13602,7 +13602,7 @@ cyme 2
 cymelet 2
 cimelium 1
 cymenes
-coproite 1
+coproite 2
 crankest 1
 chiffer 3
 cimices 1
@@ -15059,7 +15059,7 @@ combine 1
 carposperm
 clabber
 crossover
-cacoenthes
+cacoenthes 1
 clabbery
 cyrillic
 cyclazocine 1
@@ -20133,7 +20133,7 @@ ceratophyta
 commerge
 centifolious
 cristispira
-cribella 1
+cribella 2
 commigration 3
 crouke 1
 chrysalides 1
@@ -24389,7 +24389,7 @@ coolen 2
 cooler 2
 coolers 1
 crimpier 1
-caviling
+caviling 1
 cholinergic
 coolest
 cattleless 1
@@ -26355,7 +26355,7 @@ coccygomorphic 3
 chickening 1
 cystin 2
 costumer 3
-costumers 2
+costumers 3
 costumes
 costumic 1
 cabstand
