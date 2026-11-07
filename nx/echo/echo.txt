@@ -2416,7 +2416,7 @@ entophytal 1
 espinel 2
 eucalyptography 3
 erythematous 4
-euphausid 2
+euphausid 3
 epitaxial 2
 etherate 1
 earthnut 1
@@ -3017,7 +3017,7 @@ eudora 2
 extraclaustral 3
 elysiidae
 elisor 4
-expeditor
+expeditor 1
 eyereach 1
 ebenezer 1
 elitist 1
@@ -7160,7 +7160,7 @@ ephemeromorphic
 eupnoeas 3
 exudate 2
 enthronize 2
-estradiot 2
+estradiot 3
 eyalet 2
 enzootics 2
 euphonise 2
@@ -10418,7 +10418,7 @@ educators 2
 excrementitious 5
 extusion 2
 echinate 3
-ethrogim 10
+ethrogim 11
 ehatisaht 5
 etymic 2
 ergosterin 1
@@ -13939,7 +13939,7 @@ etheria 3
 esthesio 2
 extrameridional 4
 extrametrical 2
-eccl 3
+eccl 4
 extramission 1
 erythrism 1
 enhusk 3
