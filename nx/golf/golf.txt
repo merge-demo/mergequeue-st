@@ -775,7 +775,7 @@ gres 3
 galvanotherapy 4
 goods 5
 gery 3
-geomorphic 3
+geomorphic 4
 gemologies 2
 galvanotropism 3
 guntub
@@ -6039,7 +6039,7 @@ glasshouse 2
 geyerite 3
 grungy 1
 gyrencephalate 1
-grislier 2
+grislier 3
 glovemen 5
 gownsman 4
 gullishly 2
@@ -7105,7 +7105,7 @@ goosier 2
 germinational 2
 glucogene 1
 gestates 1
-gasterotrichan 5
+gasterotrichan 6
 granger 3
 gambrels 2
 gopherberry 7
