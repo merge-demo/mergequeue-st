@@ -3371,7 +3371,7 @@ caponized
 caponizer
 copyfitter 1
 caponizing 1
-caponniere 2
+caponniere 3
 caporal 2
 caporals
 condyle 1
@@ -5315,7 +5315,7 @@ catamenia 1
 cassiope
 curvette 2
 cassiopeia
-cuculus 1
+cuculus 2
 cassiopeian
 chlorohydroquinone 1
 cassiopeid 1
@@ -5816,7 +5816,7 @@ coeldership
 coyotillo 1
 catechumenal 2
 catechumenism 1
-cutthroats 3
+cutthroats 4
 concourses 2
 catechumens
 catechumenship
@@ -8857,7 +8857,7 @@ chasmogamy
 companiable 2
 cycads
 charadrii
-charadriiformes
+charadriiformes 1
 charadrine
 charadriomorphae 1
 chingpaw 1
@@ -11329,7 +11329,7 @@ conged
 cubica 1
 chromicizing 1
 chloroforms
-chlorogenic
+chlorogenic 1
 chloroid 1
 crewless 1
 curably
@@ -11951,7 +11951,7 @@ cosmochemistry 2
 choreoid 2
 crocidolite 2
 chorepiscopal 2
-conscribe 1
+conscribe 2
 catheterize 1
 commissively 3
 canoodling 3
@@ -11967,7 +11967,7 @@ cilician
 choriamb 2
 choriambic 1
 chorometry 2
-cozenage
+cozenage 1
 coaggregated
 confabulating 2
 confarreate 1
@@ -12863,7 +12863,7 @@ churchgoers 1
 calorifacient 3
 churchy 1
 churchianity 2
-churchyard 1
+churchyard 2
 churchyards 1
 churching 6
 crabbedly 1
@@ -18495,7 +18495,7 @@ cronk 1
 curr 1
 coherence
 cataractal 1
-coherer 2
+coherer 3
 cumberworld
 cohering
 coheritor 2
@@ -19250,7 +19250,7 @@ colocephali 2
 clypeiform
 coryph 2
 colocynth
-connections 2
+connections 3
 crista
 colodyspepsia 1
 cuidado 2
@@ -23749,7 +23749,7 @@ contraoctave
 caste 1
 coyote 4
 crimped
-contraplete
+contraplete 1
 cataphoretically 1
 canulate 2
 cherogril 2
@@ -23889,7 +23889,7 @@ conin 2
 coxcomically 2
 cananga
 conforming 1
-controversal 1
+controversal 2
 conduces 1
 compositeness
 cauterized
@@ -25233,7 +25233,7 @@ coachlet 1
 corymblike 1
 capitally
 codifiability 1
-cystidia
+cystidia 1
 cuffy
 creakingly 4
 chalastic 2
@@ -28168,7 +28168,7 @@ craniums 1
 crankcases
 cristy 1
 celebres 3
-cypre 3
+cypre 4
 colter
 cuckooed
 crosscutter 2
@@ -28702,7 +28702,7 @@ chromidiogamy 2
 contin 1
 creephole 1
 calcining 1
-clung 3
+clung 4
 crenothrix
 crenula 1
 connectible 1
