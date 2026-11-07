@@ -309,7 +309,7 @@ fewnesses 2
 flchette 4
 fplot 5
 fluxionary 3
-feods 3
+feods 4
 forces 7
 fail 4
 fireplough 4
@@ -740,7 +740,7 @@ fanatism 1
 fabricating 3
 farcilite 3
 flybelt 3
-frozenness 3
+frozenness 4
 fishgrass 6
 fluxions 3
 foreglimpse 1
@@ -1297,7 +1297,7 @@ famose 2
 flyable 4
 factionally 3
 frantically 1
-fumariaceous 1
+fumariaceous 2
 fluxible 3
 fatherly 4
 freud 1
@@ -1697,7 +1697,7 @@ forestep 2
 fasciolariidae 5
 flourless
 foodservices 4
-faviform 4
+faviform 5
 feasibly 1
 filiate 3
 fashionmonger 3
@@ -2769,7 +2769,7 @@ flanges 1
 fascisms 3
 ferrimagnet 4
 festy 2
-festilogies 4
+festilogies 5
 feddans 3
 festinance 4
 festoonery 1
@@ -4221,7 +4221,7 @@ finisher 2
 forum 1
 fallotomy 4
 firelight 2
-flab 2
+flab 3
 feistier 3
 frostbiting 3
 footsies 3
@@ -4250,7 +4250,7 @@ flatterers 5
 frenzying
 flossing 2
 fission 3
-fundamentalism 1
+fundamentalism 2
 forenoted 3
 foreyard
 fatless 3
@@ -5068,7 +5068,7 @@ fluorescence 5
 faky 3
 flapping 1
 frondivorous 2
-folders 6
+folders 7
 fiord 5
 fessely 4
 flumps 3
@@ -11492,7 +11492,7 @@ foredescribe 3
 farms 2
 facilities 5
 figural 6
-finnmarks 2
+finnmarks 3
 furthest 4
 flittering 4
 firmity 2
