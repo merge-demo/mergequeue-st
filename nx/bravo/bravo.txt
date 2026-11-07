@@ -539,7 +539,7 @@ betrayment 2
 backveld 1
 beruffled 2
 beech 1
-backbends
+backbends 1
 bayok 2
 blasthole 1
 bafflingness 2
@@ -15838,7 +15838,7 @@ brainlessness 1
 brokenheartedly 2
 binder
 buddha
-beggarwise 1
+beggarwise 2
 bibacious 4
 bullied 1
 beaconing 3
