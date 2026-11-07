@@ -411,7 +411,7 @@ flints 1
 fibrotic 1
 festae 2
 folie 2
-flechettes 4
+flechettes 5
 fibroligamentous 3
 fauchards 5
 fur 5
@@ -832,7 +832,7 @@ fustigated 1
 failsafe 3
 farforthly 3
 flexing 4
-fellness 3
+fellness 4
 farenheit 1
 fantasmal 3
 fundus 2
@@ -3350,7 +3350,7 @@ fluorescer 3
 fulmined 3
 fiedlerite 3
 flooding 2
-fiel 5
+fiel 6
 falconer 1
 forgetive 4
 firmisternia 1
@@ -3772,7 +3772,7 @@ filming 4
 firnification 3
 flannelling 2
 frugivora 4
-formativeness 1
+formativeness 2
 fortranh 4
 fiberware 2
 forebridge 3
@@ -4527,7 +4527,7 @@ fusser 3
 frugal 1
 forwardsearch 2
 fractionized 3
-formulate 2
+formulate 3
 felinophile 2
 filemarks 5
 franklinization 2
@@ -5230,7 +5230,7 @@ funguses 5
 fohn 2
 flews 3
 forecastles 1
-fulfil 2
+fulfil 3
 fourling 4
 fleas 2
 fluxroot 6
@@ -7386,7 +7386,7 @@ featous 3
 foobar 4
 fuage 4
 fotive 3
-florideae 2
+florideae 3
 fulling 1
 fenestellae 1
 festiveness 1
@@ -7548,7 +7548,7 @@ foams 4
 ferial
 ferrocyanhydric 3
 feazes 6
-foredesignment 1
+foredesignment 2
 foremostly 5
 forecastle 4
 fundament 5
@@ -9928,7 +9928,7 @@ feterita 3
 fluviomarine 6
 fosh
 felinophobe 5
-frickle 3
+frickle 4
 ferrel 6
 frontager 2
 furilic 1
@@ -10458,7 +10458,7 @@ fountainously 3
 firsts 4
 fusileers 2
 flandan 1
-fluorinated 4
+fluorinated 5
 frontlash 1
 flatmen 2
 fallowing 4
