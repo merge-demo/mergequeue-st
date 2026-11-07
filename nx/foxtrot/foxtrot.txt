@@ -3558,7 +3558,7 @@ fnese 4
 flailed 3
 filaricidal 1
 filariids 4
-forechoice 1
+forechoice 2
 ferroprussic 2
 flagellative 2
 foody 3
@@ -8515,7 +8515,7 @@ fierabras 4
 formatter 3
 frutage 3
 floridans 3
-flong 1
+flong 2
 flunkeyite 3
 fuzztail 2
 formularizing 3
@@ -11343,7 +11343,7 @@ fuseplug 6
 fashioners 1
 fallacy 1
 fricandel 2
-formalith 2
+formalith 3
 fulvene 6
 fertilisational 4
 forecastors 1
