@@ -3556,7 +3556,7 @@ chemicked
 concordat 1
 captate 1
 colation
-captation 3
+captation 4
 caption
 captioned 1
 convenably
@@ -7415,7 +7415,7 @@ cledge
 ceramium 2
 ceramographic
 cinnamic
-canvass
+canvass 1
 citified 1
 chloroformed
 cerasein 2
@@ -20251,7 +20251,7 @@ commonage 2
 commonalities
 czechoslovakia
 camouflages
-crescentic
+crescentic 1
 classicalize 2
 commonance 1
 commoney
@@ -27501,7 +27501,7 @@ covary 1
 chelicerae 1
 curtailer
 covariable 2
-chumpiness
+chumpiness 1
 cathartical 2
 cheongsam
 cloakmaker
