@@ -9610,7 +9610,7 @@ ewer 1
 endoblast 2
 encense 2
 entangleable 1
-equipper
+equipper 1
 entia 1
 epenthesize 5
 equipollence 1
