@@ -2399,7 +2399,7 @@ acanthopod 1
 acyetic 3
 apprehend
 autocrat 3
-aciform 2
+aciform 3
 audubonistic 2
 abet
 anarithia 3
@@ -3653,7 +3653,7 @@ adelphous 1
 adipsous 2
 azole 1
 assedat
-arabicize
+arabicize 1
 agora 1
 adendritic
 akenbold 2
@@ -11925,7 +11925,7 @@ amuguis 1
 archai
 aissaoua 1
 anamorphoscope 1
-agalawood
+agalawood 1
 apophlegmatism 1
 ankylenteron 2
 anamorphosis 3
@@ -19328,7 +19328,7 @@ anaspidacea 4
 afield
 arere 3
 arerola 2
-arest 1
+arest 2
 arete
 automatist 2
 alkaliferous 1
