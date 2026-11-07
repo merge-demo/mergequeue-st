@@ -411,7 +411,7 @@ flints 1
 fibrotic 1
 festae 2
 folie 2
-flechettes 4
+flechettes 5
 fibroligamentous 3
 fauchards 5
 fur 5
@@ -934,7 +934,7 @@ forkers 2
 fillagreed 4
 fardage 3
 farded 3
-foddering 4
+foddering 5
 foyers 2
 forride 2
 fictionization 4
@@ -1446,7 +1446,7 @@ flix
 flavorings 2
 fruiter 5
 favourable 3
-friedman 3
+friedman 4
 fundholder 3
 flamer 1
 foreshows 5
@@ -8590,7 +8590,7 @@ fortification 4
 flatweed 3
 formulated 3
 frigorify 5
-forgainst 1
+forgainst 2
 formulisation 5
 famulus 3
 forehard 4
