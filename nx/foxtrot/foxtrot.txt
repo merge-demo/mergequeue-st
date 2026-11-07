@@ -1139,7 +1139,7 @@ frays 3
 footfeed 4
 fascinator 1
 ferous 5
-familiarities 3
+familiarities 4
 flowerless 2
 flouters 2
 foveated 2
@@ -1834,7 +1834,7 @@ footwalk 1
 fritterers 5
 flexographic 5
 frostnipped 1
-fesels 3
+fesels 4
 firefly 7
 farcicality 3
 funambulate 3
@@ -3057,7 +3057,7 @@ fenestra 4
 fasciolidae
 foursquare 2
 fishier 2
-fibreless 4
+fibreless 5
 flatcar 1
 foregone 4
 ferrimagnetism 4
@@ -6719,7 +6719,7 @@ felted 1
 frounced 3
 fogo 6
 frescoists
-fighters 10
+fighters 11
 feast 1
 fellowships 5
 forelegs 5
@@ -10527,7 +10527,7 @@ frostings 5
 fanzine 6
 finises 1
 floggable 3
-floe
+floe 1
 freshment 4
 frillery 3
 favouringly 1
