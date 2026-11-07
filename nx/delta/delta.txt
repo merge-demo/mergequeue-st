@@ -533,7 +533,7 @@ damageous 4
 deaccessions 1
 dovyalis 1
 deliber
-decrown 1
+decrown 2
 dainty
 dao 1
 damagers
@@ -1081,7 +1081,7 @@ darrein 1
 devonite 3
 dorsomesal 4
 darsonval 2
-deontology 1
+deontology 2
 disbanding 1
 dartagnan 2
 darters 2
@@ -4069,7 +4069,7 @@ delimitating 4
 droghlin
 delimitation 1
 deviational
-displumed
+displumed 1
 departments
 dishonourably 3
 dissoluteness 4
@@ -4114,7 +4114,7 @@ disconanthae
 didrachmal
 dreikanters 2
 doctrinization 1
-divagate 1
+divagate 2
 disherit 2
 delisk 4
 delists 5
@@ -10875,7 +10875,7 @@ disjuncts 2
 desalting 3
 disculpate 1
 diruption 2
-dereference 2
+dereference 3
 deployed 5
 disable
 delusions 3
@@ -17916,7 +17916,7 @@ dolentissimo 3
 distritbute 2
 durgan 2
 dinks 3
-dayflowers 2
+dayflowers 3
 docible 3
 duellist
 diplomata 2
