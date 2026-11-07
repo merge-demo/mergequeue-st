@@ -4357,7 +4357,7 @@ acciaccature
 aeration 1
 aumbry 1
 aphetic 1
-adrift 1
+adrift 2
 azoimide 2
 antipopular
 acerbas 1
@@ -17727,7 +17727,7 @@ applicableness 3
 asilid
 aristarchian 1
 amylogenesis 1
-ambilaterality
+ambilaterality 1
 ambosexous 1
 archdespot 1
 applications 2
@@ -18541,7 +18541,7 @@ arboricoline 1
 anhelose 2
 arboricolous 2
 arboriculture 1
-abject 2
+abject 3
 ateknia 3
 arte 1
 annul 2
