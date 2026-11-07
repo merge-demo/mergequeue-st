@@ -3364,7 +3364,7 @@ acetite 4
 avalanching 1
 astrals 1
 asklent 4
-alumroot 1
+alumroot 2
 aggravation 2
 appassionato 1
 adagissimo 2
@@ -5584,7 +5584,7 @@ allamotti 2
 alives
 aftermark 2
 atenist
-auriculo 3
+auriculo 4
 antisialic 2
 aftermilk 3
 arteriovenous
@@ -11069,7 +11069,7 @@ aphanites
 aerobion 1
 agomphious
 adelphophagy
-agednesses
+agednesses 1
 amorphophallus 1
 armorician 2
 abnormalised
@@ -13385,7 +13385,7 @@ abrading 1
 antecedent 2
 anisostaminous
 anisostichous 2
-anisostomous
+anisostomous 1
 amlacra 1
 amphitheatral 2
 anencephalotrophia 1
@@ -23557,7 +23557,7 @@ atalaya 1
 aulae 2
 aetiophyllin 1
 aulical 2
-aulicism
+aulicism 1
 aries 1
 antaphroditic
 acetoxime 3
