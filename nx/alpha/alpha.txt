@@ -13570,7 +13570,7 @@ annotatively 2
 ablate
 apply 2
 adaptability 1
-albuminization 4
+albuminization 5
 annotator 4
 alasas 2
 aventine 2
@@ -15102,7 +15102,7 @@ antidivine
 asseverated 2
 assemblagist 1
 anagrammatized
-autopositive
+autopositive 1
 archmagirist
 assidually 1
 antidogmatist 1
@@ -18875,7 +18875,7 @@ archicantor
 artier 3
 abouts
 asphodeline 1
-aghastness 2
+aghastness 3
 archicerebrum
 archichlamydeae
 archidamus 5
@@ -24451,7 +24451,7 @@ argentol
 autosuppression 2
 autotelegraph 2
 autotelism
-antipharmic 1
+antipharmic 2
 appendiculariidae
 antiutilitarianism
 autoanticomplement 2
