@@ -3578,7 +3578,7 @@ enchantery 1
 emanent 1
 edifier 2
 electrolytical 2
-extracellularly 3
+extracellularly 4
 excelsin 1
 emydes 3
 eventerate 1
@@ -4521,7 +4521,7 @@ enchancement 2
 endogenic 1
 empeoplement 3
 enchanted
-eunuchise 5
+eunuchise 6
 euthycomic 1
 extraregular
 encephalola 2
@@ -6816,7 +6816,7 @@ emanations 7
 ermine 1
 exults 1
 epidermoidal 1
-exody 1
+exody 2
 educability 6
 entomologist 1
 entrap 2
