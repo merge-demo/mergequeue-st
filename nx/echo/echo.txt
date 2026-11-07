@@ -457,7 +457,7 @@ empasm 3
 extended 3
 endoconidium 2
 extorsion 2
-extrasensorial 3
+extrasensorial 4
 ecclesiastics 2
 encup 3
 expenditure 1
@@ -776,7 +776,7 @@ expensiveness 4
 electrobus 3
 exsuperance 1
 encaged 3
-exadverso 1
+exadverso 2
 endosulfan 3
 earthmaking 3
 exodus 3
@@ -899,7 +899,7 @@ eriodictyon 1
 ectotoxin 3
 exampled 4
 exegesist 4
-epilogistic 3
+epilogistic 4
 enteritidis 7
 echinoids 2
 extropical 1
@@ -1855,7 +1855,7 @@ extramorainic 4
 equivocatingly 2
 endaseh 2
 everting
-evechurr 2
+evechurr 3
 endocarps 4
 encomiast 1
 eyoty
@@ -2427,7 +2427,7 @@ ebonist
 electroencephalographical 1
 essentialize 4
 electionary 3
-evoker 3
+evoker 4
 electroendosmosis
 encipher 5
 epoist 1
@@ -4711,7 +4711,7 @@ extracardial 2
 encloister
 easternizing 2
 extend 1
-endosporously 3
+endosporously 4
 emeried 1
 epencephalon 4
 endemically 1
@@ -8447,7 +8447,7 @@ enhemospore 3
 escarmouche 3
 electrophotometry 4
 everness 4
-epileptoid 2
+epileptoid 3
 ergatandrous 4
 exterminators 2
 electrodissolution 3
@@ -11287,7 +11287,7 @@ extramental 3
 expirable 3
 evanishes 4
 enterostenosis 3
-extrapoetical 5
+extrapoetical 6
 estrogens 1
 enmass 2
 eschewal 2
@@ -11507,7 +11507,7 @@ erbium 2
 enlistees 7
 eidolic 1
 etchant 5
-electrophotometer 1
+electrophotometer 2
 electroconvulsive 1
 evigilation 1
 eleemosinar 5
@@ -11850,7 +11850,7 @@ equiproducing 4
 elecive
 eulogization 1
 eternalization 3
-epeirogenesis
+epeirogenesis 1
 excalceate 4
 emasculatory 2
 early 2
@@ -12316,7 +12316,7 @@ essenhout 3
 entremess 2
 errorless 1
 exemptions 2
-ephemerist 2
+ephemerist 3
 eviternal 1
 excerp 1
 exemptive 3
@@ -12359,7 +12359,7 @@ elaidate 1
 effigurate 1
 eulogizers 3
 erythroglucin 2
-effusiometer 1
+effusiometer 2
 emanators 2
 escaroles 1
 enstatite
