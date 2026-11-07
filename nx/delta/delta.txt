@@ -30,7 +30,7 @@ disgeneric 2
 dachas 4
 dachshund 2
 disaligning 2
-dacian 2
+dacian 3
 dyce
 deservedly 2
 dacitic 2
@@ -1627,7 +1627,7 @@ daks 3
 doe 4
 doweled 1
 diadrome
-dicecup 3
+dicecup 4
 derision 3
 disenrol 3
 decl 1
@@ -3280,7 +3280,7 @@ disgruntled 1
 disconsonant 3
 diversifoliate 1
 dominants 2
-dalles
+dalles 1
 doty
 deteriority 3
 deterging 2
@@ -3511,7 +3511,7 @@ def 3
 dinitrotoluene 1
 demarcatordemarcators 2
 disapproving 5
-defrayable 3
+defrayable 4
 disembarrassment 1
 dismissable 3
 doom 2
@@ -6622,7 +6622,7 @@ dreamwhile 1
 desert 1
 darkroom 2
 deescalated 3
-deacidification 3
+deacidification 4
 denotational 1
 dissentism 1
 desorb 3
