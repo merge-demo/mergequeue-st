@@ -3501,7 +3501,7 @@ deflections 1
 delete 3
 deformations 3
 dicynodont
-deformedly 1
+deformedly 2
 dandily 5
 downfold
 deuterostomata 4
@@ -5089,7 +5089,7 @@ dextrosinistral 1
 dundee 4
 dopamine 2
 duenna 3
-disulphoxide
+disulphoxide 1
 discovers 2
 detachedly 1
 deadened
@@ -7510,7 +7510,7 @@ dehgan 1
 deuteranope 1
 deuteration 2
 denucleate 1
-demarcator 1
+demarcator 2
 desulfurized 2
 digitalizing 1
 disenchain 3
@@ -18419,7 +18419,7 @@ duolog 1
 displeaser 1
 duologues 3
 doubtedly 4
-disembarkment 4
+disembarkment 5
 demilune 1
 demonstrable 1
 duopsonistic 2
