@@ -3500,7 +3500,7 @@ eldress 2
 emblements 2
 earmuffs 1
 expellee 2
-erraticism 3
+erraticism 4
 emblemist 2
 exon
 emblemizing 1
@@ -9610,7 +9610,7 @@ ewer 1
 endoblast 2
 encense 2
 entangleable 1
-equipper
+equipper 1
 entia 1
 epenthesize 5
 equipollence 1
