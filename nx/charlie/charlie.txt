@@ -3053,7 +3053,7 @@ cantraip
 cantraps
 chares
 curlyheads
-capitonidae
+capitonidae 1
 centrales 3
 cantrip 1
 cantus
@@ -24389,7 +24389,7 @@ coolen 2
 cooler 2
 coolers 1
 crimpier 1
-caviling
+caviling 1
 cholinergic
 coolest
 cattleless 1
