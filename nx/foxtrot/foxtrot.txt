@@ -4240,7 +4240,7 @@ fireplug 4
 firepot 1
 foreflank 2
 forebooms 3
-flots 3
+flots 4
 frangipanni 1
 floridians 2
 flaxbird 1
@@ -6306,7 +6306,7 @@ fob 5
 falerian
 foreparts 3
 flumes 3
-fluminous 2
+fluminous 3
 freak 1
 flummer 1
 farfels 7
@@ -10483,7 +10483,7 @@ fierasferidae 3
 fluxional 6
 frontspieces 1
 fleet
-fwd 3
+fwd 4
 fisted
 flche 2
 frontstall 6
@@ -11441,7 +11441,7 @@ frowstiest 2
 fettering 5
 forebemoaned 2
 frailness 2
-founte 3
+founte 4
 fortunetell 3
 fluting 1
 fallibleness 1
