@@ -1461,7 +1461,7 @@ biogen 1
 bathtubful 2
 botuliform 1
 balinghasay 2
-bromeosin 1
+bromeosin 2
 bridling 2
 boycottism 1
 balistes 2
@@ -4633,7 +4633,7 @@ beholdingness 3
 bulletproofed 2
 broadens 5
 bedehouse
-broadenings
+broadenings 1
 byrewards
 bullrushes 3
 bedehouses 3
@@ -4695,7 +4695,7 @@ bicrons 2
 bipartile
 breakthroughes 2
 babyishness 1
-broadcloth
+broadcloth 1
 butylenes 3
 bedimming 1
 borotungstic 2
@@ -12762,7 +12762,7 @@ bucorvinae 1
 bidree 2
 becloaked 2
 bioelectric 3
-bullneck 2
+bullneck 3
 bitstocks 2
 biparous 1
 boce
@@ -17145,7 +17145,7 @@ baselike 2
 bullier 2
 boreades 1
 borane 4
-beltir 3
+beltir 4
 backheel 1
 bodier 1
 bim 3
