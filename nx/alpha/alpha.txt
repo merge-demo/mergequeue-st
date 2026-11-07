@@ -1353,7 +1353,7 @@ atomized 2
 athanor
 acylating
 acaulescence 2
-amidships 1
+amidships 2
 acaulescent 1
 acauline
 acc 1
@@ -1717,7 +1717,7 @@ ambiguously
 aphidid 1
 abstention
 acculturation 1
-acculturize 4
+acculturize 5
 atmolysis 2
 anarchoindividualist 2
 ancienty
@@ -14958,7 +14958,7 @@ asphaltum 4
 anticlogging 2
 averroism 1
 anticoagulant 3
-anticoagulation
+anticoagulation 1
 anticoagulative 2
 acariasis 1
 ampliate 1
@@ -15580,7 +15580,7 @@ anthropophagi 5
 antiatheism 1
 aquaplanes 2
 antimonies 3
-aboves 1
+aboves 2
 abseil
 antimoniuret 5
 anatine 1
@@ -16544,7 +16544,7 @@ alkaptonuria 2
 antichoromanic 4
 aortoptosia
 aotes
-antianthrax 3
+antianthrax 4
 antioxygenation 1
 aoudad 1
 apabhramsa 1
@@ -18347,7 +18347,7 @@ acrobatic 1
 annulations
 ascidiozoa 5
 asperifolious 2
-anabaptistical
+anabaptistical 1
 alowe
 aragonspath
 araignee
@@ -22473,7 +22473,7 @@ astroscopy 2
 autocratorical 2
 astroscopus
 astrospectral 5
-acrasiaceae
+acrasiaceae 1
 adversion 1
 astrotheology 2
 anisostemonous 3
@@ -22807,7 +22807,7 @@ atloidean 1
 arousals 1
 astonished 1
 adsorbates
-apartments 2
+apartments 3
 atma
 atman 1
 acotyledon 4
@@ -25101,7 +25101,7 @@ aeolopantalon
 axiality 2
 anthropos 2
 axiate 1
-atmos 2
+atmos 3
 amphicondyla 2
 axiferous 1
 argumentation 4
