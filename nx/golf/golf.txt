@@ -2718,7 +2718,7 @@ gymnasisia 5
 gunfire 5
 gong 3
 gauger 3
-guestchamber 3
+guestchamber 4
 gorraf 1
 gipped 1
 gallused 5
@@ -7351,7 +7351,7 @@ glumpiness 2
 goosepimply 3
 glaucochroite
 gosports 5
-grainless 3
+grainless 4
 gossamered
 galega 4
 galloglass 3
