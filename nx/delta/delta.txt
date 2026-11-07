@@ -6621,7 +6621,7 @@ deperming 3
 dreamwhile 1
 desert 1
 darkroom 2
-deescalated 2
+deescalated 3
 deacidification 3
 denotational 1
 dissentism 1
@@ -15711,7 +15711,7 @@ deescalation
 disintegrates 1
 dewools 1
 disbuds 1
-deciduary
+deciduary 1
 doris 2
 diaxonic 4
 disyntheme 1
