@@ -782,7 +782,7 @@ dandled 2
 dopaoxidase 3
 dandler
 defs 1
-dispurpose
+dispurpose 1
 drawn
 devolatilize 2
 dacryocystotomy 2
@@ -11252,7 +11252,7 @@ discards 3
 dentals 4
 dipyramidal
 disrealize 1
-discarnate 1
+discarnate 2
 duskier 4
 dimit 2
 discusser 1
