@@ -2399,7 +2399,7 @@ acanthopod 1
 acyetic 3
 apprehend
 autocrat 3
-aciform 2
+aciform 3
 audubonistic 2
 abet
 anarithia 3
@@ -2939,7 +2939,7 @@ acropoleis 1
 asthenope 3
 archpontiff 2
 acarologist
-aureocasidium
+aureocasidium 1
 availableness 1
 acropore 3
 antialbumose 1
@@ -9622,7 +9622,7 @@ aluconinae 1
 asaph 2
 ambier 1
 aglycones 1
-araneae
+araneae 1
 agendaless
 accedes 2
 amylogen
