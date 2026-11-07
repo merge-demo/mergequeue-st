@@ -782,7 +782,7 @@ dandled 2
 dopaoxidase 3
 dandler
 defs 1
-dispurpose
+dispurpose 1
 drawn
 devolatilize 2
 dacryocystotomy 2
@@ -3100,7 +3100,7 @@ defalcating 2
 dipteral 3
 deaths 4
 defamation
-duckwife 4
+duckwife 5
 dingling 1
 detachableness 5
 decantation
@@ -6206,7 +6206,7 @@ dipsades 2
 disbenchment 2
 dactylopodite 4
 dermapterous
-dirgler 1
+dirgler 2
 dasypodoid 2
 delimited 1
 dialytically 4
