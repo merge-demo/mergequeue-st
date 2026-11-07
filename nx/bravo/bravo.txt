@@ -539,7 +539,7 @@ betrayment 2
 backveld 1
 beruffled 2
 beech 1
-backbends
+backbends 1
 bayok 2
 blasthole 1
 bafflingness 2
@@ -744,7 +744,7 @@ bogwort 1
 badgerer
 blundersome 2
 booking 2
-banana 2
+banana 3
 bevined 2
 balada 1
 badgeringly 3
@@ -1911,7 +1911,7 @@ batfowled 6
 beneficiated 3
 bailiary 1
 bryology 1
-bewend 2
+bewend 3
 borschts 2
 battutos
 bevies 1
@@ -5102,7 +5102,7 @@ backfatter 2
 brindled
 bowellike 1
 bejuco 3
-boatmaster 2
+boatmaster 3
 befittingness 3
 behoof 1
 boundedness 3
@@ -15838,7 +15838,7 @@ brainlessness 1
 brokenheartedly 2
 binder
 buddha
-beggarwise 1
+beggarwise 2
 bibacious 4
 bullied 1
 beaconing 3
@@ -18076,7 +18076,7 @@ bibliophily 1
 backrush 3
 brazilins
 but 1
-beroll 2
+beroll 3
 booklet 2
 buccally 2
 boatsman 1
