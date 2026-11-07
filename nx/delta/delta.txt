@@ -5698,7 +5698,7 @@ dithers 5
 diallel 1
 deconsider 2
 depoh 1
-decd 4
+decd 5
 depolarise 3
 dearies
 dehumidify
@@ -13975,7 +13975,7 @@ daubed 1
 distomes 2
 darbyism 3
 distomidae 3
-dubby 3
+dubby 4
 deturb 2
 doorposts
 derrid 1
