@@ -379,7 +379,7 @@ brachypodous 2
 birthrates
 bovarist
 bashkir 2
-bossy 1
+bossy 2
 borings 3
 backhoe 1
 bake 2
@@ -463,7 +463,7 @@ blaspheming 3
 bibliographic 2
 benzhydroxamic 2
 brontosauri 3
-borrel
+borrel 1
 backspaced 1
 backspacer 4
 bundist 1
@@ -2075,7 +2075,7 @@ bankrupt 5
 bosporan 2
 bibliomaniacal 2
 blurping 1
-burl 1
+burl 2
 bankruptism 2
 bankruptcy
 boltel 1
@@ -2851,7 +2851,7 @@ barrack 2
 briguer 1
 borh 3
 ballers 2
-barracking 4
+barracking 5
 birders 1
 blanchi
 biochemistry 2
@@ -4593,7 +4593,7 @@ beats 2
 bedazement 3
 bigeminate 1
 bedazzle 2
-blared
+blared 1
 bylina 2
 banters 1
 bilker 1
@@ -4745,7 +4745,7 @@ butcherliness 3
 badmash
 bangs 2
 bedlams
-bienseance
+bienseance 1
 buckpot 3
 bedlar 1
 bazoo 1
@@ -5826,7 +5826,7 @@ bracozzo 2
 bellyaching 1
 bizarrely 1
 baramin 3
-bostryx 3
+bostryx 4
 benevolences 1
 bemata
 beleaps 4
@@ -6615,7 +6615,7 @@ bergall 2
 bergamasche 3
 bergamask 2
 blastoma 3
-bobcat 4
+bobcat 5
 bronchia 1
 beezers
 bergaptene 3
@@ -10912,7 +10912,7 @@ backbencher 3
 bismuth 1
 bassus 3
 butterbush 3
-blindfoldedness 1
+blindfoldedness 2
 birdied 1
 brioche 4
 bemoon 3
@@ -11404,7 +11404,7 @@ bluebottle
 badinaged 2
 bouncily 3
 bitterworm 4
-babi 4
+babi 5
 build 2
 beside 2
 bibbed 2
@@ -13496,7 +13496,7 @@ benefic
 bradyseismism 1
 bevillain 2
 bioxide 2
-bebouldered 1
+bebouldered 2
 bricken 1
 barbaloin 1
 blennotorrhea 1
