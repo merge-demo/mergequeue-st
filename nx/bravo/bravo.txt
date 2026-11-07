@@ -1493,7 +1493,7 @@ byronize 2
 balking 2
 budgy 2
 boyarisms
-blighter
+blighter 1
 balkish 2
 bodaciously 3
 bahadurs 3
@@ -2584,7 +2584,7 @@ burling 4
 banzai 2
 baris 2
 bodefulness 1
-bromating 4
+bromating 5
 behowls 2
 babiroussa 3
 benzofuryl 1
@@ -8356,7 +8356,7 @@ benedictionale 2
 biopsies
 basin 1
 bedticks 3
-boring
+boring 1
 bradoon 2
 bights 1
 blickeys
@@ -10218,7 +10218,7 @@ bemuslined 2
 benty 1
 bryaceous 5
 breads 3
-britany 5
+britany 6
 backwort 2
 bootstraps 3
 bondhold
@@ -10870,7 +10870,7 @@ batton
 bouzouki 2
 bangtails 5
 britishers 4
-bribegiver 4
+bribegiver 5
 boatwise 3
 blimey 4
 braced 2
@@ -13346,7 +13346,7 @@ bridgeman 2
 botcheries 3
 botcherly 2
 bitterbump 3
-botchy
+botchy 1
 botchily
 becrimson 2
 botella 1
@@ -14955,7 +14955,7 @@ balantidium 3
 baldie 1
 bignonia 2
 begulfing 1
-bumpee 2
+bumpee 3
 bristol 2
 boozify 2
 breastie 1
