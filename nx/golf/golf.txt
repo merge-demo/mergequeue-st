@@ -3497,7 +3497,7 @@ geums 1
 garmentworker 4
 ganglions 1
 gymnorhina 4
-geomagnetist 2
+geomagnetist 3
 gluconeogenesis 3
 grugru 1
 gunslinging 1
@@ -5372,7 +5372,7 @@ grebo 2
 graduses
 gallywasp 2
 glyn 10
-galatotrophic 1
+galatotrophic 2
 gamogenetical 3
 groundflower 3
 gumchewer 2
@@ -5528,7 +5528,7 @@ gorses 3
 graysbies 1
 grammel 4
 glucine 3
-glochidiate 3
+glochidiate 4
 glucocorticoid 5
 gallery 2
 grained 4
@@ -6153,7 +6153,7 @@ genovino 1
 gesan 4
 gazetteers 2
 groveling 7
-goal 5
+goal 6
 griffithite 2
 galactophore 2
 goniatite 3
@@ -7827,7 +7827,7 @@ greeny 4
 grubworm 3
 gnaws 2
 gillstoup 1
-gauchely 3
+gauchely 4
 gingerwork 3
 glycolipine 3
 gargoylish 4
