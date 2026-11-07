@@ -3364,7 +3364,7 @@ acetite 4
 avalanching 1
 astrals 1
 asklent 4
-alumroot 1
+alumroot 2
 aggravation 2
 appassionato 1
 adagissimo 2
@@ -13385,7 +13385,7 @@ abrading 1
 antecedent 2
 anisostaminous
 anisostichous 2
-anisostomous
+anisostomous 1
 amlacra 1
 amphitheatral 2
 anencephalotrophia 1
@@ -19445,7 +19445,7 @@ archaecraniate 1
 allative 3
 anallantoidea 1
 archaeoceti 4
-attempting
+attempting 1
 adighe 1
 autonomically
 acaena 3
