@@ -8731,7 +8731,7 @@ ceint
 chaperno 1
 custodia 2
 caponising 1
-chicos
+chicos 1
 chaperonage 2
 chaperonless 1
 catesbeiana 1
@@ -9217,7 +9217,7 @@ chateaugray
 chateaus 1
 chateaux
 chatelain 1
-cordmaker
+cordmaker 1
 chatelaines
 centreless
 chemotherapists
@@ -9787,7 +9787,7 @@ cydon
 chellean 1
 cheloids 2
 cutinizing 1
-chelonia 1
+chelonia 2
 contrails
 chelonian 1
 cheloniidae 1
@@ -12466,7 +12466,7 @@ chromoctye
 chromodermatosis
 chromogen 1
 chromogene 2
-chromogenesis 1
+chromogenesis 2
 cingulate 1
 chamaecrista 1
 cranemanship 1
@@ -15635,7 +15635,7 @@ calver
 cappadochio 1
 cyanoacetic
 claughts 1
-confisticating 2
+confisticating 3
 claus
 catholically 2
 clausal 1
@@ -16186,7 +16186,7 @@ clinandrdria 1
 clinch 3
 cardiospermum 1
 considerations
-chromatocyte
+chromatocyte 1
 circuities 2
 clinched
 capitalism 1
@@ -24342,7 +24342,7 @@ carbureter 2
 chapeau
 creation 1
 crull
-creatable 3
+creatable 4
 classist 2
 coarrange 1
 cookeite 1
@@ -24927,7 +24927,7 @@ cuichunchulli
 criniferous 1
 charac 1
 caoutchouc
-corallium 4
+corallium 5
 carminatives 1
 caterans 3
 craniacromial 1
@@ -31274,7 +31274,7 @@ curation
 cutworks
 cenogenesis 2
 curative
-curativeness 1
+curativeness 2
 curatorium 1
 cystotrachelotomy 1
 charkha
@@ -31369,7 +31369,7 @@ cobwebbing 1
 curiage 1
 calcisponge 2
 cabalas 2
-curialistic
+curialistic 1
 crowberries 2
 cadmiferous
 cystoadenoma
