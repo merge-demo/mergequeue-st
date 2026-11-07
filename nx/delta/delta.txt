@@ -858,7 +858,7 @@ defix
 dubiosity 1
 devoicing 2
 decalcification 3
-dowered
+dowered 1
 deaerates 6
 disorchard 5
 defang 1
@@ -10641,7 +10641,7 @@ dainful 2
 disparpled 2
 dhuti 1
 dragonet 4
-decapitates
+decapitates 1
 diplopteryga 2
 deprecates 3
 dioti 5
@@ -11708,7 +11708,7 @@ dynodes 1
 darkening 3
 discard 1
 debtful 4
-disasinate 1
+disasinate 2
 discreeter
 dispensation 1
 datsuns 2
