@@ -273,10 +273,10 @@ fledges 8
 fungoids 2
 fragmentisation 5
 fraenums 5
-forebar
+forebar 1
 fistnotes
 flambeed 1
-floccular 2
+floccular 3
 floosies 2
 felicitations 2
 fiqh 3
@@ -1200,7 +1200,7 @@ fenders 3
 flexural 2
 flinched 4
 fatuities 4
-forethinking 4
+forethinking 5
 feodatory 2
 funnyman 5
 freieslebenite 2
@@ -3725,7 +3725,7 @@ foujdary 1
 fourierian 3
 flavorousness 3
 fluoroscopists 6
-fake 4
+fake 5
 fulcral 2
 forkiness 1
 flotilla 2
@@ -4287,7 +4287,7 @@ firmarii 4
 furmeties 1
 flunkeys 3
 forrader 3
-farhand 7
+farhand 8
 flutemouth 5
 forebodement 5
 forbearantly 1
@@ -4584,7 +4584,7 @@ fesswise 3
 fringilliformes 1
 foliages 2
 fissidens 4
-feetage 2
+feetage 3
 fossilify 3
 fisheye 2
 fieldstone 2
@@ -7267,7 +7267,7 @@ foeffment 1
 flares 5
 forecasts 2
 formiate 1
-fustet
+fustet 1
 floorboards 4
 fancysick
 federalise 1
@@ -8546,7 +8546,7 @@ farnovian 2
 fiuman 6
 fanaticising 1
 forbearance 2
-forminate 1
+forminate 2
 forming 1
 formless 3
 forwoden 4
@@ -9322,7 +9322,7 @@ forename 2
 footmenfootpad 2
 fungologist 4
 fumarine 3
-foldwards 4
+foldwards 5
 fasinite 3
 fogrum
 foldboats 3
@@ -9385,7 +9385,7 @@ fishless 5
 fetichistic 7
 felinities 1
 frothy 3
-fleawood 2
+fleawood 3
 fortypenny 2
 fecaloid 1
 fatuitousness 1
@@ -9625,7 +9625,7 @@ freebooting 5
 feltwork 2
 facete 2
 familia 1
-forensic 2
+forensic 3
 foxfires
 floreta 2
 frontopontine 3
@@ -10353,10 +10353,10 @@ frenziedness
 forleaving 1
 foundationless 4
 finfoot 3
-fervorlessness 1
+fervorlessness 2
 flarfishes 3
 fustilugs 2
-futurely 4
+futurely 5
 fingerleaf 2
 fingering 1
 forecourt 3
