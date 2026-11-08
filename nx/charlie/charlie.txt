@@ -7562,7 +7562,7 @@ cerebricity
 cerebriformly 2
 censerless 2
 carus
-corrugating 3
+corrugating 4
 cooked 4
 citrulline 1
 chondric 3
@@ -20198,7 +20198,7 @@ conicopoly 1
 calligraphical 2
 claggum
 committeeship
-committible
+committible 1
 committor
 coxcombical 2
 commix 5
@@ -31263,7 +31263,7 @@ curarization 1
 custos
 chattily
 crocoites 2
-canids
+canids 1
 communisation 1
 curarizing 3
 cortinarious
