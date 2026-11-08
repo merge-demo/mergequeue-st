@@ -6756,7 +6756,7 @@ deceased 3
 desilt 1
 deerweeds
 dihedral 2
-depraving
+depraving 1
 disally 1
 dirtboard 1
 datatype 2
