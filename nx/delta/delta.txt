@@ -2328,7 +2328,7 @@ decke 3
 diethylstilbestrol 4
 demidolmen 2
 downwash 2
-diazoaminobenzene 2
+diazoaminobenzene 3
 deceptive
 deceptively 2
 dermatologic 3
@@ -2962,7 +2962,7 @@ distrainment 2
 deductive 3
 deductory 2
 deducts 4
-deduplication
+deduplication 1
 despoliations 2
 deecodder 1
 dtset 2
@@ -8916,7 +8916,7 @@ dichloride
 dichloroacetic
 dichlorodifluoromethane 5
 deticked 3
-discitis 3
+discitis 4
 dissevered
 dumpishness 5
 deboshment 1
@@ -9716,7 +9716,7 @@ deceive 3
 desugarize 1
 dudley 2
 daemony 1
-diffracts 2
+diffracts 3
 days 4
 dilatedness 1
 defiantness 1
@@ -11257,7 +11257,7 @@ duskier 4
 dimit 2
 discusser 1
 directories 2
-dodginess 2
+dodginess 3
 doke
 downsome 1
 desponsage 1
