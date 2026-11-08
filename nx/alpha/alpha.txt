@@ -5097,7 +5097,7 @@ aerotaxis 4
 agacant 1
 autoecous 2
 argo 3
-ablush 2
+ablush 3
 aerotechnical 2
 alchera 3
 aerotherapeutics 2
@@ -9311,7 +9311,7 @@ along 2
 ambeer 1
 ataxiameter
 alongships 1
-abasements 1
+abasements 2
 alongshore
 archbishops
 alemana 2
@@ -10494,7 +10494,7 @@ aegle 2
 aphanisia
 antireactive 1
 achimenes 1
-acanthoma 2
+acanthoma 3
 aponogetonaceous 1
 amianthus 1
 arcform
@@ -13521,7 +13521,7 @@ apicifixed
 apse 3
 abanic 4
 annihilationist 2
-articulates
+articulates 1
 annihilationistic 3
 arrobas
 airproofs 1
