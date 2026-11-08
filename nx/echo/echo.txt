@@ -3407,7 +3407,7 @@ echiuroid 4
 embarks 3
 equipage 2
 exteroceptor 3
-elohist 2
+elohist 3
 em 2
 embarring 3
 elementoid 2
@@ -10112,7 +10112,7 @@ extrusible 3
 electrochemistry 4
 endorses 1
 ethereally 2
-entwined 6
+entwined 7
 emprosthotonos 3
 etherealness 3
 escherichia 2
