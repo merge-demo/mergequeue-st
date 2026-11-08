@@ -3500,7 +3500,7 @@ dreadfuls 1
 deflections 1
 delete 3
 deformations 3
-dicynodont
+dicynodont 1
 deformedly 2
 dandily 5
 downfold
@@ -9601,7 +9601,7 @@ dihedron 3
 dhootie 1
 dodecatemory
 diplobacterium
-disruption 1
+disruption 2
 dihybridism 1
 dihybrids 2
 disfunctions
