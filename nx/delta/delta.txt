@@ -328,7 +328,7 @@ dimeran 1
 dummyweed 1
 disarm 6
 deltaite 2
-denumberment 2
+denumberment 3
 damier 1
 depasturage 1
 desalted 2
@@ -6710,7 +6710,7 @@ disorganize 2
 disorderliness 3
 darnex 2
 diatribes
-desiderta 2
+desiderta 3
 diptycas 1
 duckmole 1
 designable 1
@@ -11700,7 +11700,7 @@ depersonalizes
 disburses
 discredit 1
 devocalizing 3
-discreditability
+discreditability 1
 dahabiya 3
 delist 1
 damianist 4
@@ -14716,7 +14716,7 @@ doblon
 dissymmettric 3
 dobos 1
 drumlier 1
-dactyloscopic 3
+dactyloscopic 4
 detained 3
 disfigurements 4
 decahedral 3
@@ -16741,7 +16741,7 @@ dioecious
 debridement 2
 dorrbeetle
 downlinking 4
-distributedly 1
+distributedly 2
 drammock 2
 drypoint 2
 disadvised 2
