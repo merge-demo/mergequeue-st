@@ -10437,7 +10437,7 @@ diphysite 1
 dosimeters 1
 damask 3
 discolith 2
-devinct 1
+devinct 2
 disinflame 2
 dow 2
 douzainier 2
@@ -18151,7 +18151,7 @@ deterrer 2
 devisors 2
 dictions 1
 debatable 2
-driveboat 3
+driveboat 4
 diiodo 3
 dardistan 1
 dardic 1
