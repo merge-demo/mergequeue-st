@@ -2542,7 +2542,7 @@ corporeal 1
 candlefishes
 collogued 1
 candleholder 3
-candlelighter
+candlelighter 1
 chaloth
 confraternities
 copiable 1
@@ -9876,7 +9876,7 @@ chemoreceptive 2
 chemoreceptivity 1
 coteller
 chapelgoer 1
-chemoreceptor 2
+chemoreceptor 3
 cryptographers 2
 childes
 crystallisation 3
@@ -18120,7 +18120,7 @@ coenotypic
 coenotrope 1
 coenthrone 1
 colatorium
-coleochaetaceae 1
+coleochaetaceae 2
 coequal 3
 coteful 1
 campman 1
@@ -24257,7 +24257,7 @@ candled 1
 caponised 3
 craped 1
 convolvulaceae 1
-convolvulaceous 1
+convolvulaceous 2
 convolvulad
 courser
 cosonant 2
@@ -24461,7 +24461,7 @@ coopering
 carved 1
 checksummed 2
 caroli 2
-core
+core 1
 coopers 1
 catnapers 2
 coops 1
@@ -26140,7 +26140,7 @@ cosmists 2
 comdt
 conveys 2
 cosmo 3
-cosmochemical 1
+cosmochemical 2
 consanguineal 1
 cheese 3
 cosmocracy 2

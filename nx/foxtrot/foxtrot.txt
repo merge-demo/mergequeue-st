@@ -410,7 +410,7 @@ festive 4
 flints 1
 fibrotic 2
 festae 2
-folie 2
+folie 3
 flechettes 5
 fibroligamentous 3
 fauchards 5
@@ -850,7 +850,7 @@ faltboats 4
 falconets 3
 forzando 1
 fireworks
-fimbriate 2
+fimbriate 3
 folliculose 2
 footworks 2
 feverfews 2
@@ -3632,7 +3632,7 @@ footmaker 6
 frisbees 3
 flook 3
 farmable 2
-fridstool 1
+fridstool 2
 flashing 6
 faintishness 1
 fielder 6
@@ -6449,7 +6449,7 @@ feltman 7
 fanflower 1
 footbaths 3
 forweary 3
-flummery 5
+flummery 6
 fidgeting 5
 filth 2
 folkcraft 1
