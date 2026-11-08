@@ -4762,7 +4762,7 @@ acrotisms
 alphard
 aeluropodous
 aenach 1
-aphrodistic 1
+aphrodistic 2
 addaxes 2
 affricate 3
 anticoagulator
@@ -14678,7 +14678,7 @@ antiangular
 autocarp 3
 antiannexation 1
 angioplany 4
-antiannexationist
+antiannexationist 1
 antianopheline 3
 akim 4
 antorbital
@@ -14958,7 +14958,7 @@ asphaltum 4
 anticlogging 2
 averroism 1
 anticoagulant 3
-anticoagulation 1
+anticoagulation 2
 anticoagulative 2
 acariasis 1
 ampliate 1
@@ -19677,7 +19677,7 @@ araroba 2
 affabrous
 amanuensis 1
 aristocratism
-aristocrats
+aristocrats 1
 adrectal 1
 aula 1
 anthericum 3
