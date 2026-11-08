@@ -481,7 +481,7 @@ beamroom 5
 beedged 3
 beestings 2
 brubu 2
-broomier 2
+broomier 3
 backspang 5
 browning 3
 betrend 3
@@ -5357,7 +5357,7 @@ blueweed 2
 besoothement 1
 biflecnode 1
 buyable 1
-bromobenzene 4
+bromobenzene 5
 barodynamic
 barbarisation 2
 burly 4
@@ -6420,7 +6420,7 @@ backcourt 1
 breastweed 2
 bluestem 2
 benzoquinoxaline 2
-balau 1
+balau 2
 benzosulfimide 1
 biophysiologist 1
 barbaresque 3
@@ -6773,7 +6773,7 @@ berrier 3
 berries 1
 bitterbur 2
 beaut 4
-buhls
+buhls 1
 barytosulphate 2
 badian 3
 bookery 2
@@ -7718,7 +7718,7 @@ bagleaves
 bulbotuber 3
 boomy 1
 besin 3
-behavioral 2
+behavioral 3
 bhangi 2
 bhara 3
 bevy 4
@@ -10933,7 +10933,7 @@ backscratcher 2
 blackamoor 4
 bumps
 biloquist
-biclinia 2
+biclinia 3
 barth 1
 bourrees 3
 blinkard 5
@@ -14253,7 +14253,7 @@ bradyseism 4
 brassware 4
 bombycinous 3
 briskets 2
-bradyseismical 2
+bradyseismical 3
 beccaficos 3
 bradysphygmia 1
 badrans 1
