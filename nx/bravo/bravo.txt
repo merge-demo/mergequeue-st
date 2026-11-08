@@ -193,7 +193,7 @@ beguiling 1
 bloodwood
 bees 1
 bushrope 2
-bookiness 1
+bookiness 2
 bestirred 1
 bemoanable 4
 bloodmobile
@@ -4080,7 +4080,7 @@ baragnosis 1
 blitzkrieged 3
 beams 4
 bean 1
-boldness
+boldness 1
 begottenness 3
 bedeafen 1
 beaner 1
@@ -4887,7 +4887,7 @@ beaded
 bedeswomen 1
 belavendered 4
 blanket 3
-boucl 1
+boucl 2
 ballot 2
 bedwarfing 2
 broadeners
@@ -5662,7 +5662,7 @@ bloodstones 1
 barques 3
 besped 1
 beldams 2
-bacchar 3
+bacchar 4
 bilify 3
 belderroot 1
 bodgie 2
@@ -6081,7 +6081,7 @@ basketful 2
 biochemistries 3
 benasty 4
 beholdable 3
-bedrift 5
+bedrift 6
 buccinidae 4
 bataan 6
 boarskin 2
@@ -7005,7 +7005,7 @@ blowlamp 2
 biznagas 2
 bookcraft 2
 bioplasms 3
-basing 3
+basing 4
 branchiostomidae 1
 ballpoints 2
 boardly 2
@@ -11707,7 +11707,7 @@ bacteriotrypsin
 bobbejaan 2
 bilin 1
 bucket
-bayogoula 2
+bayogoula 3
 bobbers 1
 bartlett 2
 bobby 3
@@ -12080,7 +12080,7 @@ backplate
 brinkmanship 1
 brunellia 1
 brocading 2
-bullfighters 3
+bullfighters 4
 brit 2
 bradycauma
 bulbilla 2
@@ -12532,7 +12532,7 @@ backdoor 2
 blazed 1
 bonfires 1
 benchy 2
-bongoes 2
+bongoes 3
 bypast 3
 bannimus 2
 beaus 1
@@ -16738,7 +16738,7 @@ bountyless 2
 bicameralist 1
 bucerotes
 bucku 3
-byrlawman
+byrlawman 1
 babehood 1
 buckwagon 4
 boodie
@@ -16968,7 +16968,7 @@ buildups
 bordure 1
 bespeakable
 bedwarmer 5
-brasseries 3
+brasseries 4
 backland
 briolettes 4
 beclowned 2
