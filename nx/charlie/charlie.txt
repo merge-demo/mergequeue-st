@@ -3809,7 +3809,7 @@ conrail
 carbodynamite
 carbohemoglobin 1
 calamodendron 2
-cribbling 1
+cribbling 2
 carbohydrase 3
 cannibalism 4
 cardioncus
@@ -7584,7 +7584,7 @@ cerebronic 2
 cerebroparietal 3
 cerebropedal
 coppy 1
-cerebropsychosis
+cerebropsychosis 1
 calade
 coincidentally 1
 cerebrosclerosis 2
@@ -9360,7 +9360,7 @@ chavantean 1
 chavel 2
 chavender 2
 confirmment
-compart 1
+compart 2
 chavicin 5
 chomp 2
 chiot 1
@@ -15452,7 +15452,7 @@ cenosite 1
 citronella 1
 clarion 3
 clarionet
-clarioning 3
+clarioning 4
 circuted
 clarissa 3
 cakier 3
@@ -20688,7 +20688,7 @@ caudotibial 1
 complementers 1
 camleted
 cauter
-cobreathe
+cobreathe 1
 complementoid
 cooperations 2
 chionididae 1
