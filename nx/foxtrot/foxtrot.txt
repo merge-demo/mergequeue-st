@@ -1659,7 +1659,7 @@ fluidizes 2
 fathometer 3
 frypan 2
 fellest 1
-firesafety 1
+firesafety 2
 flatworm 3
 folioing 4
 fleshless 1
@@ -2755,7 +2755,7 @@ fesses 2
 flaunche 2
 faultier 8
 festally 4
-foremasts 3
+foremasts 4
 festellae 3
 ficary 3
 faliscan 3
@@ -7948,7 +7948,7 @@ freeheartedness 2
 fractals 5
 foreshadow 3
 filibustering
-frisket 4
+frisket 5
 forgivenesses 2
 foreshadowed 4
 featherman 4
