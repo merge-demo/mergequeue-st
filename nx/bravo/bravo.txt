@@ -432,7 +432,7 @@ backpiece 1
 bolshevistic 4
 backplane 2
 bushwas 4
-backscatter
+backscatter 1
 backscattered 1
 backscattering 2
 bandobust 3
@@ -4520,7 +4520,7 @@ byrri 4
 bratina 1
 bro
 becudgeling 2
-bae 3
+bae 4
 bandolero 2
 bodenbenderite 3
 blankest 4
