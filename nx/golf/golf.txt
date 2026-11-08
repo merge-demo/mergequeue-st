@@ -3691,7 +3691,7 @@ graveldiver 2
 getatable 4
 gazoz 4
 goldfield 1
-generator 1
+generator 2
 gropingly 5
 germania 4
 giantkind 8
