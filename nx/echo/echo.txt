@@ -961,7 +961,7 @@ eastwards 1
 ethyl 3
 esoterics 4
 exhumes 2
-excavatory 1
+excavatory 2
 eumitosis 3
 exocardia 6
 emasculating 1
@@ -1241,7 +1241,7 @@ epidermatoid 2
 evaluation 1
 endopleuritic 3
 efflation 6
-enmanche
+enmanche 1
 eelfare 1
 encrinite
 emperors 2
@@ -3190,7 +3190,7 @@ ejaculum 1
 extraserous 2
 entomophagous 3
 episcopation 4
-enamoring 4
+enamoring 5
 esperantist 1
 enamelwork 1
 erosional 1
@@ -3407,7 +3407,7 @@ echiuroid 4
 embarks 3
 equipage 2
 exteroceptor 3
-elohist 2
+elohist 3
 em 2
 embarring 3
 elementoid 2
@@ -3559,7 +3559,7 @@ enshelter 4
 exceeder 4
 equoid
 epicureanism 1
-exothermally 3
+exothermally 4
 epidesmine 1
 emboscata 2
 exclusionary 2
@@ -3943,7 +3943,7 @@ escapologist
 enchodontoid 1
 emirate 1
 electromotive 4
-euxanthin
+euxanthin 1
 eohippus 4
 euskara 1
 extremistic 1
@@ -4262,7 +4262,7 @@ engs 1
 enhydra 1
 ethnobiological 1
 equiponderate 2
-excerpts 3
+excerpts 4
 edifyingly
 en 4
 enjoined 3
@@ -4593,7 +4593,7 @@ engaged 2
 etherealised 1
 enhydrite 7
 extratensive 2
-exteriorisation 8
+exteriorisation 9
 erythroxyline 1
 endarchies 2
 exuberantness 1
@@ -6680,7 +6680,7 @@ eonism 6
 exstill 1
 entete
 eurytherm 4
-epistrophy 1
+epistrophy 2
 enthelminthic 4
 echolocate 3
 effume 3
@@ -10112,7 +10112,7 @@ extrusible 3
 electrochemistry 4
 endorses 1
 ethereally 2
-entwined 6
+entwined 7
 emprosthotonos 3
 etherealness 3
 escherichia 2
