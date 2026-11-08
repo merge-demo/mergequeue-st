@@ -328,7 +328,7 @@ dimeran 1
 dummyweed 1
 disarm 6
 deltaite 2
-denumberment 2
+denumberment 3
 damier 1
 depasturage 1
 desalted 2
@@ -4783,7 +4783,7 @@ demolition 4
 dictyosiphonaceous 2
 dishonest 1
 dups
-despisers
+despisers 1
 donnot
 dismissingly 2
 diseases 4
@@ -6121,7 +6121,7 @@ dereferenced 3
 disfigures
 designees 10
 dereferencing 1
-disprove
+disprove 1
 deregulated
 dogface 1
 dacryocystotome 1
@@ -6710,7 +6710,7 @@ disorganize 2
 disorderliness 3
 darnex 2
 diatribes
-desiderta 2
+desiderta 3
 diptycas 1
 duckmole 1
 designable 1
@@ -10555,7 +10555,7 @@ deafens
 dafla 2
 diploe 2
 digestion 2
-didrachmas 6
+didrachmas 7
 dispend 3
 dependable 2
 debouched 3
@@ -10860,7 +10860,7 @@ damns
 drudging 2
 dirty 4
 donates
-denazifying 2
+denazifying 3
 dirtying 3
 drifts 3
 dyslogia
@@ -11700,7 +11700,7 @@ depersonalizes
 disburses
 discredit 1
 devocalizing 3
-discreditability
+discreditability 1
 dahabiya 3
 delist 1
 damianist 4
@@ -14716,7 +14716,7 @@ doblon
 dissymmettric 3
 dobos 1
 drumlier 1
-dactyloscopic 3
+dactyloscopic 4
 detained 3
 disfigurements 4
 decahedral 3
@@ -17000,7 +17000,7 @@ didepsid
 dree 3
 dreepy
 dayan 3
-drometer 2
+drometer 3
 disaffinity 3
 drencher 3
 disappearing 2
@@ -18294,7 +18294,7 @@ divot 2
 dorsimedian 2
 dunitic 2
 disputant 1
-dumbfounder
+dumbfounder 1
 deanery 1
 diagrammeter 2
 didinium 3
@@ -18381,7 +18381,7 @@ diallelon 2
 duodene 6
 duodenitis 2
 denominationalism 1
-dismantled 1
+dismantled 2
 departmentalizes 2
 downloaded 2
 duodenocholecystostomy 7
