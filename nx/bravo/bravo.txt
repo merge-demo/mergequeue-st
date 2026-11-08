@@ -207,7 +207,7 @@ banditries 1
 brainpower 4
 biofog 3
 bandicoot
-baccy
+baccy 1
 banishments 2
 bacciferous
 brookless 3
@@ -2542,7 +2542,7 @@ beflowers 2
 bariatrician 2
 banderilla 2
 bemused 2
-burmite
+burmite 1
 brillolette 1
 bronchostenosis 1
 bereaving 1
@@ -8338,7 +8338,7 @@ biggies 1
 bise 1
 biventral 4
 buttonholing 4
-biggish 2
+biggish 3
 bayadeer 1
 bepelt 1
 bigheaded 1
@@ -17204,7 +17204,7 @@ bulls 2
 baccillum 2
 brodee 1
 bullated 1
-bronchopneumonia
+bronchopneumonia 1
 boffo 1
 bejelling
 britishly 1
