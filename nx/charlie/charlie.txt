@@ -6825,7 +6825,7 @@ cathodofluorescence 1
 celloidin 1
 constative 2
 counterbalance 1
-cellose 1
+cellose 2
 cognizance 2
 coadunative 2
 counterreconnaissance 2
@@ -24461,7 +24461,7 @@ coopering
 carved 1
 checksummed 2
 caroli 2
-core
+core 1
 coopers 1
 catnapers 2
 coops 1
