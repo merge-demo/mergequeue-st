@@ -5410,7 +5410,7 @@ castes
 catapults 1
 chrysanthemin
 casteth 3
-crossbench 1
+crossbench 2
 castice
 castigable 2
 confederates 1
@@ -15610,7 +15610,7 @@ corvinae 2
 ceratodus
 criminologists
 chrysanisic 1
-chromograph 2
+chromograph 3
 coquin 1
 clattertraps
 cervicobasilar 1
@@ -16477,7 +16477,7 @@ clodhead
 clodhopper 1
 clodhoppers 1
 curettage 1
-clodhopping
+clodhopping 1
 chesoun 1
 canchi
 cryogenic 1
@@ -19717,7 +19717,7 @@ connoisseur
 commixed
 chowdering 2
 combfish 1
-comby 1
+comby 2
 cascado
 cryptomnesic 2
 cytozyme
@@ -20662,7 +20662,7 @@ complaint 1
 columning
 capibara 1
 counteranswer 2
-complaintiveness 4
+complaintiveness 5
 complaints 1
 cabinetmake
 complaisant 1
@@ -30315,7 +30315,7 @@ chooses 2
 congealability
 cabinetmakers 1
 creped
-clucks 1
+clucks 2
 crunchy
 counterintuitive
 crunchiest
@@ -30529,7 +30529,7 @@ cubers
 cubes 2
 cognatical 1
 chattering 1
-carotidal 1
+carotidal 2
 chitterlings 1
 corrumpable 1
 chayotes 2
