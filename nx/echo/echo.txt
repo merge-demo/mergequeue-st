@@ -2454,7 +2454,7 @@ electrogild 1
 eudemonia 3
 exhilarates 2
 enhearten 3
-electrogilt 4
+electrogilt 5
 ephetic 4
 electrogram 3
 endows
@@ -2763,7 +2763,7 @@ elytrous 1
 eutropic 5
 epacmaic 1
 equipartition 1
-epidiplosis 3
+epidiplosis 4
 eighteenmo 2
 economicalness 1
 erect 4
@@ -3963,7 +3963,7 @@ exilarch 2
 embroglio
 empale 2
 empalers 3
-eyepit 3
+eyepit 4
 empall 3
 equilibrium 4
 empanelling 4
@@ -5411,7 +5411,7 @@ etatist 1
 epidia 2
 enema 4
 enthralment 4
-emblematicalness 1
+emblematicalness 2
 energesis 1
 electrochronographic 4
 extrinsicality 3
@@ -7927,7 +7927,7 @@ enomaniac
 epidermous 4
 expenselessness 3
 epineuneuria 3
-evolutionary
+evolutionary 1
 epineurium 2
 enclaving 3
 ergotinine 2
