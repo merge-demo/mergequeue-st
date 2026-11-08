@@ -1659,7 +1659,7 @@ fluidizes 2
 fathometer 3
 frypan 2
 fellest 1
-firesafety 1
+firesafety 2
 flatworm 3
 folioing 4
 fleshless 1
@@ -3594,7 +3594,7 @@ flank 2
 fructification 1
 felinity 2
 floorway 3
-files 2
+files 3
 filesniff 5
 freijo 4
 fazing 3
@@ -4505,7 +4505,7 @@ flinder 3
 fontinalis 1
 fabulist 6
 fingernails 3
-fanout 1
+fanout 2
 flammule 3
 filleul 1
 fuddles 3
@@ -7948,7 +7948,7 @@ freeheartedness 2
 fractals 5
 foreshadow 3
 filibustering
-frisket 4
+frisket 5
 forgivenesses 2
 foreshadowed 4
 featherman 4
