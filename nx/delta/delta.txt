@@ -1062,7 +1062,7 @@ dehepatize 2
 destandardize 3
 diplohedral 3
 dishes
-diacodium 1
+diacodium 2
 deas 3
 disobliging 2
 dutra 1
@@ -4221,7 +4221,7 @@ detribalized 3
 debruising 3
 disyllabic 1
 dunal 2
-deadishly
+deadishly 1
 deutomalal 1
 deluges 1
 downswing 4
@@ -8820,7 +8820,7 @@ dibbled 4
 degame 1
 dybbuk 1
 dominantly
-dibbuks 1
+dibbuks 2
 dolomitise 1
 donzella 1
 diabolo 2
@@ -10526,7 +10526,7 @@ disbowels 3
 dialyzate
 demipagan
 disserviceableness 2
-ddname 1
+ddname 2
 doorsills
 diceratidae 3
 diazotate 2
@@ -12922,7 +12922,7 @@ desoxyribonucleic 3
 disodium 2
 daunii
 decreation 4
-disdiazo 1
+disdiazo 2
 dowment 1
 deniability 3
 dimensionless 3
