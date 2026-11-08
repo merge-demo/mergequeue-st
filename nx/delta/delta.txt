@@ -1774,7 +1774,7 @@ debriefs 2
 deathtrap 2
 devocalization 1
 drof
-deathward 4
+deathward 5
 ductility 1
 docent 2
 downlier 2
@@ -4660,7 +4660,7 @@ dropkicker 3
 decking 1
 declaration 2
 dewaxed 3
-drifting 1
+drifting 2
 disheveling 3
 ducklar 1
 demivambrace 2
@@ -5222,7 +5222,7 @@ daviely 4
 difficile 2
 dioptase
 drawbridges 2
-dialogistic 2
+dialogistic 3
 demarcations 1
 dorsel 4
 depauperized 2
@@ -7096,7 +7096,7 @@ darted 1
 diaphany 1
 damselfish 4
 demonial 2
-destrer 2
+destrer 3
 destressed 4
 decalescent 2
 degras
@@ -8711,7 +8711,7 @@ demonstrate 2
 decorousness
 demoting 1
 diathermies 2
-dendrophil 1
+dendrophil 2
 dispensatrix 2
 demisacrilege 2
 dirl
@@ -16569,7 +16569,7 @@ denar 2
 deteriorationist 3
 detractions 3
 duos 2
-daza
+daza 1
 disingenuity 3
 dosses 3
 draft
@@ -17256,7 +17256,7 @@ despising 1
 drivers 2
 drivership 2
 dmarche 2
-drives 2
+drives 3
 dredgings 3
 driveway
 decrepitation 1
