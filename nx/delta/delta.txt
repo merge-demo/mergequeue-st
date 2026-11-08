@@ -4660,7 +4660,7 @@ dropkicker 3
 decking 1
 declaration 2
 dewaxed 3
-drifting 1
+drifting 2
 disheveling 3
 ducklar 1
 demivambrace 2
@@ -7096,7 +7096,7 @@ darted 1
 diaphany 1
 damselfish 4
 demonial 2
-destrer 2
+destrer 3
 destressed 4
 decalescent 2
 degras
@@ -16569,7 +16569,7 @@ denar 2
 deteriorationist 3
 detractions 3
 duos 2
-daza
+daza 1
 disingenuity 3
 dosses 3
 draft
