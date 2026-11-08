@@ -5662,7 +5662,7 @@ bloodstones 1
 barques 3
 besped 1
 beldams 2
-bacchar 3
+bacchar 4
 bilify 3
 belderroot 1
 bodgie 2
@@ -6415,7 +6415,7 @@ banewort 3
 benzopyrazolone 4
 barquentine 3
 benzopyrene
-benzopyrylium 2
+benzopyrylium 3
 backcourt 1
 breastweed 2
 bluestem 2
@@ -11244,7 +11244,7 @@ bletia
 bisilicate 2
 blotty 3
 buckets
-bromate 2
+bromate 3
 barmskin 1
 bopyridae 4
 blottier
@@ -12080,7 +12080,7 @@ backplate
 brinkmanship 1
 brunellia 1
 brocading 2
-bullfighters 3
+bullfighters 4
 brit 2
 bradycauma
 bulbilla 2
