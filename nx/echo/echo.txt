@@ -2454,7 +2454,7 @@ electrogild 1
 eudemonia 3
 exhilarates 2
 enhearten 3
-electrogilt 4
+electrogilt 5
 ephetic 4
 electrogram 3
 endows
@@ -7927,7 +7927,7 @@ enomaniac
 epidermous 4
 expenselessness 3
 epineuneuria 3
-evolutionary
+evolutionary 1
 epineurium 2
 enclaving 3
 ergotinine 2
