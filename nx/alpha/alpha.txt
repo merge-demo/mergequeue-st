@@ -1439,7 +1439,7 @@ antibacteriolytic 1
 acceptress 2
 accepts
 attractants 5
-apellous 3
+apellous 4
 aproned
 accessary 1
 aquaria 1
@@ -5097,7 +5097,7 @@ aerotaxis 4
 agacant 1
 autoecous 2
 argo 3
-ablush 2
+ablush 3
 aerotechnical 2
 alchera 3
 aerotherapeutics 2
@@ -5942,7 +5942,7 @@ arri
 aftergrind 3
 actinomycetaceae 1
 ablute 2
-agglutinative 1
+agglutinative 2
 adamantine 3
 agglutinatively 2
 agamobium 1
@@ -21786,7 +21786,7 @@ argenticyanide 2
 alish 1
 apsidally
 amalaita
-assertress 3
+assertress 4
 annunciator 1
 athetesis 2
 asserts
