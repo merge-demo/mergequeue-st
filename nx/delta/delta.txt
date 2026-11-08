@@ -865,7 +865,7 @@ defang 1
 dankishness 3
 downbear 3
 discardable
-disprovement
+disprovement 1
 delesseria 1
 developability 2
 dorsoradial 5
@@ -1223,7 +1223,7 @@ dextrans 1
 datary 2
 dataries 4
 dendrium 2
-deinsularize 2
+deinsularize 3
 datasetname
 datcha
 disparison 2
@@ -4821,7 +4821,7 @@ durableness 1
 demonise 3
 dactyliotheca 1
 dodlet 3
-ductile 2
+ductile 3
 declive 5
 durrie
 depredationist 3
@@ -5538,7 +5538,7 @@ depended 2
 descends 2
 darker 1
 dolichopellic 1
-dependence 1
+dependence 2
 desensitizes 2
 dependingly 1
 drouthiness 4
@@ -5860,7 +5860,7 @@ depressed 4
 disaccustomed 2
 dandyisms 3
 dispender 2
-danicism 2
+danicism 3
 depressibilities
 deozonization 4
 desulphurizing 3
@@ -7849,7 +7849,7 @@ donnered 3
 duomos 1
 dukery 1
 disproving 1
-devove 2
+devove 3
 discombobulates 3
 dalcassian 4
 divergencies
@@ -11679,7 +11679,7 @@ dorms 3
 discoverer 1
 diabolised
 decancellation
-discoverture 1
+discoverture 2
 deplume
 discradle 1
 delfts
@@ -13461,7 +13461,7 @@ disrespect 2
 differentia
 disrespectable 2
 disrespecter 1
-disrespective
+disrespective 1
 decantherous 3
 dishabited 1
 disrest 2
@@ -14866,7 +14866,7 @@ dehortative 4
 doucepere 2
 disazo 1
 documents 3
-dowitcher 3
+dowitcher 4
 dolorifuge
 dependencies 2
 dawdled
