@@ -3446,7 +3446,7 @@ canyon 2
 caprifig
 caprifole 1
 caprifoliaceae 2
-caprifolium
+caprifolium 1
 capriform 1
 caprylic 2
 cymene 2
@@ -3842,7 +3842,7 @@ cowquake 2
 carbolize
 carbolized 1
 catamount 2
-carbolizes
+carbolizes 1
 carbolizing 1
 carmelite
 caladium
@@ -6225,7 +6225,7 @@ caudated
 chibcha 2
 chew 1
 caudation 1
-calycophorae 3
+calycophorae 4
 caudatory 3
 cree 2
 clergies
@@ -15581,7 +15581,7 @@ clathraceous 1
 clathraria 1
 clathrarian 2
 clathrate
-choose 1
+choose 2
 clathrinidae 1
 clamant 1
 clathroid 2
@@ -17046,7 +17046,7 @@ coacher
 counterdistinction 3
 conventually
 centrolepidaceae 1
-caprylin
+caprylin 1
 cornroot 1
 cibaria 3
 coperose
@@ -18757,7 +18757,7 @@ campodean
 cataracted 1
 colchicaceae 1
 coistrels 1
-cinnamal 1
+cinnamal 2
 colchicia 2
 centeredly 2
 cruche
