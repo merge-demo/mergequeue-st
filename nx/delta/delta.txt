@@ -1062,7 +1062,7 @@ dehepatize 2
 destandardize 3
 diplohedral 3
 dishes
-diacodium 1
+diacodium 2
 deas 3
 disobliging 2
 dutra 1
@@ -10526,7 +10526,7 @@ disbowels 3
 dialyzate
 demipagan
 disserviceableness 2
-ddname 1
+ddname 2
 doorsills
 diceratidae 3
 diazotate 2
@@ -14126,7 +14126,7 @@ dystrophia
 dystrophic 3
 dubbers 3
 disturb
-disturbance
+disturbance 1
 dominican 3
 divestitive 1
 demipronation 2
