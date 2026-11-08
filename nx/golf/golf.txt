@@ -3680,7 +3680,7 @@ gyse 3
 galvanoplastics 2
 granaries 4
 guttur 8
-guayacan 2
+guayacan 3
 graduations 4
 ghuz 4
 griffons 5
@@ -5180,7 +5180,7 @@ gaywing 5
 garnisheed 2
 gleeks 7
 glycemic 1
-geophytes 2
+geophytes 3
 gabbles 4
 groundline 3
 glottidean 2
@@ -5213,7 +5213,7 @@ grenade 5
 goatish 2
 gelsemiums 1
 glenohumeral 4
-genomes 4
+genomes 5
 grouted 6
 garnets 4
 grosgrained 5
@@ -7598,7 +7598,7 @@ gelatiniferous 3
 grounded 3
 generability 2
 grinagog 2
-gypsying
+gypsying 1
 gambet 3
 glacification 3
 ghastfulness
