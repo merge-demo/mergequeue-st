@@ -984,7 +984,7 @@ edaphosaurus 3
 explosibility 1
 encapsules 2
 eastlins 3
-euthanasic 3
+euthanasic 4
 enterocinetic 3
 epoxide 3
 eruditeness 3
@@ -1162,7 +1162,7 @@ eudiometric
 engrainedly 4
 egrimony 1
 erosible 1
-entitule 3
+entitule 4
 education 5
 edulcorating 2
 enscroll 2
@@ -3850,7 +3850,7 @@ effeminacy 3
 exallotriote 2
 expiatory 2
 escrows 2
-emyde 3
+emyde 4
 entarthrotic 3
 eysoge 2
 embolectomies 2
@@ -5465,7 +5465,7 @@ england 2
 enzymosis 4
 enervation 3
 ethnically 2
-ensnarers 2
+ensnarers 3
 encirclements 3
 enetophobia 1
 enfaces 1
@@ -6519,7 +6519,7 @@ endothelioma 1
 eclectic 3
 engroove 1
 entelechies 3
-entomologic 4
+entomologic 5
 engorging 1
 entendre 1
 epidermophytosis 2
@@ -8412,7 +8412,7 @@ etiolate 1
 eponymus 4
 ensand 2
 email 4
-epicier 2
+epicier 3
 emmenic 3
 elkhorn 2
 eroticomaniacal 1
@@ -9083,7 +9083,7 @@ exosmose 2
 enrockment 3
 empidonax 5
 escalloniaceae 1
-embadomonas 7
+embadomonas 8
 enlightens 1
 emigrate 3
 erythropia 3
@@ -11697,7 +11697,7 @@ eadish 3
 eudyptes 5
 exaggerate 3
 electrize 4
-eccentricity 3
+eccentricity 4
 electrocautery 4
 epididymectomy 2
 electrification 1
@@ -13323,7 +13323,7 @@ effuso 3
 exploratively 3
 ectrogeny 4
 eupterotidae 4
-estoile 2
+estoile 3
 empedoclean 4
 espousers 5
 efformation
