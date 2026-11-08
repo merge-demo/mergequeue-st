@@ -6420,7 +6420,7 @@ backcourt 1
 breastweed 2
 bluestem 2
 benzoquinoxaline 2
-balau 1
+balau 2
 benzosulfimide 1
 biophysiologist 1
 barbaresque 3
@@ -6773,7 +6773,7 @@ berrier 3
 berries 1
 bitterbur 2
 beaut 4
-buhls
+buhls 1
 barytosulphate 2
 badian 3
 bookery 2
@@ -9174,7 +9174,7 @@ betulinol 3
 biotical
 bobwhite 2
 bespreads 3
-beanstalks 2
+beanstalks 3
 bolshevized
 beguilingness 3
 booklouse
