@@ -2542,7 +2542,7 @@ corporeal 1
 candlefishes
 collogued 1
 candleholder 3
-candlelighter
+candlelighter 1
 chaloth
 confraternities
 copiable 1
@@ -24257,7 +24257,7 @@ candled 1
 caponised 3
 craped 1
 convolvulaceae 1
-convolvulaceous 1
+convolvulaceous 2
 convolvulad
 courser
 cosonant 2
