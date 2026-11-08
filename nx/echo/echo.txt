@@ -3907,7 +3907,7 @@ endexine 3
 emissory 4
 emitting 6
 entamebas 2
-electropathic 1
+electropathic 2
 effigy 4
 endocrinologies
 echocardiogram 2
@@ -7709,7 +7709,7 @@ empasma 2
 eggshells 1
 exarchy 5
 epicondylian 1
-executable 3
+executable 4
 epidiascope 2
 expectorants 3
 engraff 2
@@ -13250,7 +13250,7 @@ eternality 3
 eductor
 epiphytism 3
 exheredate 3
-ethanoyl 2
+ethanoyl 3
 excluders 2
 exoarteritis 1
 enchisel 4
