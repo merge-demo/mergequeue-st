@@ -17332,7 +17332,7 @@ coassessor 2
 chlorellaceae 1
 caravelle 1
 crownland
-chemigraph 1
+chemigraph 2
 coreceiver 1
 cimline 2
 coassist
@@ -20914,7 +20914,7 @@ comedos 2
 comprehense 1
 cherkess
 comprehensibly 2
-comprehensive
+comprehensive 1
 comprehensively 1
 comprehensiveness 1
 campership
@@ -31698,7 +31698,7 @@ cusped 1
 choriambus
 cuspid
 cuspidal
-cuspidate
+cuspidate 1
 chophouse 1
 custody 1
 cuspides
