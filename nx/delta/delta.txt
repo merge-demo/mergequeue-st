@@ -8431,7 +8431,7 @@ dorsiventrally 2
 ds 1
 degreed 1
 diamagnet 2
-diamagnetism 3
+diamagnetism 4
 dredging 1
 ditrochee 1
 deflexed 3
@@ -17175,7 +17175,7 @@ drunkenness 4
 dero 2
 decuries 1
 dipygi 2
-devarshi 1
+devarshi 2
 draegerman 2
 drillman 3
 discourser 3
