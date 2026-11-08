@@ -687,7 +687,7 @@ forebow 5
 fascioloid
 feminity 5
 farcial 6
-flapperhood 2
+flapperhood 3
 flunkies 1
 fingerboard 1
 flair 2
@@ -2257,7 +2257,7 @@ funnymen 5
 fathering
 fustee 2
 forerunning 2
-footfalls 1
+footfalls 2
 fledgeless 3
 forgetters 3
 fromfile
@@ -2666,7 +2666,7 @@ feckulence 6
 ferter 3
 felliducous 1
 fittyways 7
-flamb 4
+flamb 5
 fertile 2
 farcers
 falsely 7
@@ -4279,7 +4279,7 @@ filacer 2
 fleers 2
 fiancee 1
 follicule 1
-fibster 2
+fibster 3
 fenland 5
 fungology 5
 feudaries 4
@@ -4848,7 +4848,7 @@ franciscan 3
 froebelism 1
 footfall 2
 floor 2
-farmhouse 2
+farmhouse 3
 fickleness 3
 flagstick 2
 flagworm 4
@@ -5021,7 +5021,7 @@ frowsier 4
 feathers 1
 fundamentalistic 3
 faineantise 1
-falsificate 4
+falsificate 5
 firman 1
 fenianism 4
 flammation 3
@@ -6129,7 +6129,7 @@ faciata 6
 flourish 4
 fermion 2
 funambulism 2
-frostbow 2
+frostbow 3
 formamide 1
 fruitarianism 4
 formalities 3
@@ -7294,7 +7294,7 @@ forsaking 6
 fishyard 1
 footwarmers 3
 fibulocalcaneal 4
-fidelity 2
+fidelity 3
 fishmonger 3
 fozy 1
 flavobacteria 2
@@ -7679,7 +7679,7 @@ flambant 5
 foretopsail 3
 fermentability 1
 fittywise 5
-fiefdom 5
+fiefdom 6
 forsteal 2
 forecasting 1
 freeze 3
@@ -8254,7 +8254,7 @@ fruticulose 2
 florence 2
 fundulinae 5
 fringes 2
-fairyologist 5
+fairyologist 6
 furlanas 2
 fuder 3
 flaskets 4
@@ -8353,7 +8353,7 @@ fountaining 1
 fiscalism 3
 forhaile 2
 foreroyal 4
-fod 1
+fod 2
 fraughan 2
 fossilising 3
 fossilizable 7
@@ -10727,7 +10727,7 @@ footband 4
 forecar 3
 finnier 3
 fantasizes 2
-fleckless 5
+fleckless 6
 foxier 4
 fatherliness 3
 figent 5
