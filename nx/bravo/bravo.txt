@@ -4769,7 +4769,7 @@ bypasses 1
 bedrabbling 3
 bedrails 1
 binnacle
-bedral 1
+bedral 2
 boltwork 2
 bedraping 3
 bedread 1
@@ -7557,7 +7557,7 @@ bewaste
 beweary 2
 besottedness 2
 botflies 2
-brainworker
+brainworker 1
 banagos 2
 beweeper 2
 beneficent 3
@@ -13034,7 +13034,7 @@ baccillla 1
 bevomit 2
 borani 2
 borasca 5
-bemeet 1
+bemeet 2
 borassus 3
 blether 3
 bastardice 2
