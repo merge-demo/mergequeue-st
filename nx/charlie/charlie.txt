@@ -4744,7 +4744,7 @@ carpetmaking 2
 clubability 1
 captivation 2
 carpets 2
-chant 1
+chant 2
 concolorous
 carpetweb 3
 change 1
@@ -7350,7 +7350,7 @@ coquettishness
 cephalomant 2
 catlin 3
 cleansing 1
-cephalomere 3
+cephalomere 4
 cyclostylar
 cephalometric
 cephalonasal 1
@@ -15808,7 +15808,7 @@ clearinghouse
 congratulating 1
 chauffeur 2
 clearinghouses 1
-clearings 1
+clearings 2
 clearish 2
 cerealian
 cribrosity 1
@@ -22285,7 +22285,7 @@ cameleers 1
 congenerousness 1
 conglobe 1
 cycas
-cockpits
+cockpits 1
 curiums
 conglobed 3
 conglobes 2
@@ -29468,7 +29468,7 @@ coilyear 3
 constabless 2
 cyprinus
 coprides
-cherishingly
+cherishingly 1
 crystallizable
 crystallization 2
 crystallize
