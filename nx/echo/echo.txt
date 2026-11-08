@@ -821,7 +821,7 @@ epitheton 2
 elbowchair 2
 entrecote 1
 epop
-exulate 1
+exulate 2
 eloine 2
 ectiris 2
 etamines 1
@@ -1674,7 +1674,7 @@ envassal
 essentialist 2
 entoptically 1
 edibles 1
-electrothermancy 2
+electrothermancy 3
 ellan 2
 esophagi 7
 eddoes
@@ -2454,7 +2454,7 @@ electrogild 1
 eudemonia 3
 exhilarates 2
 enhearten 3
-electrogilt 4
+electrogilt 5
 ephetic 4
 electrogram 3
 endows
@@ -2763,7 +2763,7 @@ elytrous 1
 eutropic 5
 epacmaic 1
 equipartition 1
-epidiplosis 3
+epidiplosis 4
 eighteenmo 2
 economicalness 1
 erect 4
@@ -3659,7 +3659,7 @@ earlet 3
 endogonidium 4
 embright 2
 entombment 2
-euploids 3
+euploids 4
 eruptiveness 4
 exscinded 2
 eskers 2
@@ -3963,7 +3963,7 @@ exilarch 2
 embroglio
 empale 2
 empalers 3
-eyepit 3
+eyepit 4
 empall 3
 equilibrium 4
 empanelling 4
@@ -5411,7 +5411,7 @@ etatist 1
 epidia 2
 enema 4
 enthralment 4
-emblematicalness 1
+emblematicalness 2
 energesis 1
 electrochronographic 4
 extrinsicality 3
@@ -5791,7 +5791,7 @@ epicranius 4
 engouement 2
 ectropium 4
 engoument 4
-encounter 2
+encounter 3
 exanthema 1
 entification 1
 evade 3
@@ -6268,7 +6268,7 @@ eyeholes 2
 enterogram 3
 epochist 3
 enrollee 2
-extraorbitally 5
+extraorbitally 6
 excludes 3
 earmarking 2
 enrollers 5
@@ -7927,7 +7927,7 @@ enomaniac
 epidermous 4
 expenselessness 3
 epineuneuria 3
-evolutionary
+evolutionary 1
 epineurium 2
 enclaving 3
 ergotinine 2
@@ -9514,7 +9514,7 @@ equirotal
 educationese 4
 ea 5
 earthworm 1
-enteradenology 5
+enteradenology 6
 emboldened 5
 englutting
 eserine 1
@@ -9558,7 +9558,7 @@ emigrated 1
 expediente
 excurse 2
 esculent 3
-egocentristic 6
+egocentristic 7
 encephaloma 2
 enchasers 3
 esoethmoiditis 2
@@ -9679,7 +9679,7 @@ euphratean 3
 exship 4
 extima 2
 easing 3
-eventuated 1
+eventuated 2
 entoptoscopic 1
 eschaufe 1
 essay 1
@@ -9904,7 +9904,7 @@ exoculated 2
 effemination 2
 epidermatic
 expiatoriness 3
-economizer 2
+economizer 3
 etaballi 4
 epipterygoid 2
 exprimable 1
@@ -9952,7 +9952,7 @@ endophagy 1
 erythromelalgia 2
 esugarization
 endowers 4
-embosk 4
+embosk 5
 embarrassment
 electronography 3
 entonement 1
@@ -10234,7 +10234,7 @@ eclair 2
 elzevirian 1
 elaborates 4
 extruders 2
-evansite 4
+evansite 5
 epanorthosis 4
 errsyn 5
 embedded
@@ -11579,7 +11579,7 @@ exemptionist 1
 exsectile 2
 erethizon 2
 energeia 5
-estrange 4
+estrange 5
 endites 1
 evernia 3
 expressman 4
@@ -13526,7 +13526,7 @@ ephods 1
 energize 5
 eucalypti
 equianharmonic 4
-endymal 2
+endymal 3
 egocentricities 2
 edge 3
 erk 3
