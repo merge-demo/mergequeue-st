@@ -5151,7 +5151,7 @@ expanses 1
 endpaper 4
 endorser 4
 empathizing 6
-endolymphatic 1
+endolymphatic 2
 ectobatic 3
 electromagnetic 3
 eluviums 2
@@ -11347,7 +11347,7 @@ evenglow 4
 erenach 2
 eneid 2
 erudite 3
-encephalomeric
+encephalomeric 1
 eventual 1
 eozoic 3
 emusifying
