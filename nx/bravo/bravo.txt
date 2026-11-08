@@ -13679,7 +13679,7 @@ billboard 3
 bevelment 3
 bourasque
 ballarag 4
-belander 1
+belander 2
 birred 3
 blames 4
 bromethylene 4
@@ -15319,7 +15319,7 @@ bosk
 bullying 3
 belles 1
 bastian
-bridewell
+bridewell 1
 birdwitted 1
 bridewort 1
 bridge 2
