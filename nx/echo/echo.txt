@@ -4054,7 +4054,7 @@ enforcement 1
 encrusting 2
 eremian 3
 engross 8
-earle 4
+earle 5
 engrammatic 6
 eutherian 3
 ecthymata 6
@@ -4855,7 +4855,7 @@ evolves 5
 eyednesses
 enterocoelic 3
 exsanguination 2
-effatum 1
+effatum 2
 electrodialysis 6
 endable 4
 endamagement 2
@@ -7475,7 +7475,7 @@ ecuelle 3
 eulamellibranch 3
 eloiners 4
 epicardia
-eunuchoidism
+eunuchoidism 1
 eyebrow
 employs 1
 exocarp 2
@@ -9784,7 +9784,7 @@ ethylate 1
 ebracteolate 2
 enhanced 4
 escapade 5
-estaminet 2
+estaminet 3
 exergue 5
 emunctories 2
 exprobrate 1
