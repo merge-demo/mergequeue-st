@@ -1659,7 +1659,7 @@ fluidizes 2
 fathometer 3
 frypan 2
 fellest 1
-firesafety 1
+firesafety 2
 flatworm 3
 folioing 4
 fleshless 1
@@ -2755,7 +2755,7 @@ fesses 2
 flaunche 2
 faultier 8
 festally 4
-foremasts 3
+foremasts 4
 festellae 3
 ficary 3
 faliscan 3
@@ -3594,7 +3594,7 @@ flank 2
 fructification 1
 felinity 2
 floorway 3
-files 2
+files 3
 filesniff 5
 freijo 4
 fazing 3
@@ -4505,7 +4505,7 @@ flinder 3
 fontinalis 1
 fabulist 6
 fingernails 3
-fanout 1
+fanout 2
 flammule 3
 filleul 1
 fuddles 3
@@ -6369,7 +6369,7 @@ forementioned 8
 flang 2
 fullterm 1
 fluoran 4
-fennish 6
+fennish 7
 fluorane 2
 francois 2
 florentium 2
@@ -7614,7 +7614,7 @@ fluvialist 1
 fgn 3
 fructuarius 3
 funiculus 3
-fanciers 4
+fanciers 5
 flintworker 3
 forespeak 1
 freezable 3
@@ -7948,7 +7948,7 @@ freeheartedness 2
 fractals 5
 foreshadow 3
 filibustering
-frisket 4
+frisket 5
 forgivenesses 2
 foreshadowed 4
 featherman 4
@@ -9024,7 +9024,7 @@ fourpenny 4
 fernless
 fableist 3
 fabricate 3
-flabellarium 1
+flabellarium 2
 flutter 4
 fermila 1
 frowsiness 1
@@ -9049,7 +9049,7 @@ flatirons 3
 furiously 5
 forra 2
 firethorn
-fled 3
+fled 4
 fourther 4
 fouter 4
 foliator 1
