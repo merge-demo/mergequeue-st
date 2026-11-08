@@ -2426,7 +2426,7 @@ glacionatant 3
 gloaming 3
 gaiting 1
 gemot 1
-goniac 2
+goniac 3
 generatrix 2
 gabrielrache 1
 garbo 5
@@ -5045,7 +5045,7 @@ griffins 4
 goatherd 4
 gastroptosia 3
 glycan 2
-guilders 6
+guilders 7
 gravery 1
 glassmaking 5
 gunfought 1
@@ -7526,7 +7526,7 @@ gaet
 galilean 4
 gastromenia 3
 griffade 3
-gavelmen 2
+gavelmen 3
 glossodynia 2
 guttatim 4
 gill 3
@@ -8167,7 +8167,7 @@ granulization 1
 gliff 2
 ghastful 3
 gallicization 1
-gauntly 1
+gauntly 2
 graftages 3
 gloomless 2
 gooey 4
@@ -9058,7 +9058,7 @@ gilguy 3
 galoshes 1
 gateways 7
 gomasta 3
-gothlander 2
+gothlander 3
 gristbite 4
 grateful 3
 granulomatous 3
@@ -9731,7 +9731,7 @@ gagroot 4
 gablewise 4
 gambes 4
 gorged 4
-gastrodynia 1
+gastrodynia 2
 glutens 1
 glutethimide 3
 geophagies 3
@@ -9960,7 +9960,7 @@ glossmeter 3
 groundman 2
 guatibero
 grysbok 4
-grunswel
+grunswel 1
 glood 1
 glossematics 3
 guaza 1
