@@ -1314,7 +1314,7 @@ biogasses 1
 bacao 3
 brochantite
 bury 2
-bedbug 2
+bedbug 3
 boleite 1
 bacterioprecipitin 1
 beltings 2
@@ -2104,7 +2104,7 @@ bollixing 1
 benzpyrene 3
 bannat 1
 baulky 1
-bannerline 3
+bannerline 4
 bannerole 3
 blossomry 1
 bronchus 2
@@ -3586,7 +3586,7 @@ berkeleyite 3
 bien 1
 bollocks 1
 bathysophical 2
-bathysphere 2
+bathysphere 3
 bigmouths
 boliviano 1
 bathythermograph 4
@@ -9487,7 +9487,7 @@ biotope 1
 battlefront
 birodo 2
 bisulphide
-brittling
+brittling 1
 babingtonite 3
 biron 3
 byronesque 3
