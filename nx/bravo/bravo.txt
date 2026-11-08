@@ -3898,7 +3898,7 @@ bezels 1
 bodyhood
 bowsing 2
 bidding
-basifacial
+basifacial 1
 bawra 2
 blastoidea 2
 barklyite 2
@@ -4128,7 +4128,7 @@ balminess 1
 beslimer 2
 beards 4
 barbers
-birthroot
+birthroot 1
 bombazette 3
 bedrenched 2
 bras 3
@@ -5596,7 +5596,7 @@ basinasal 3
 boulanger 1
 bela 1
 beluchi 3
-burgonets 2
+burgonets 3
 bruscus
 belash 2
 blobbed 2
@@ -8327,7 +8327,7 @@ barbarous
 boastingly 2
 brahmani
 bonaght 3
-biliate 3
+biliate 4
 biggy 1
 biggie 1
 blepharoceridae 1
@@ -13503,7 +13503,7 @@ blennotorrhea 1
 brotherton 2
 becomes 2
 bookshelves 4
-boulter 4
+boulter 5
 botulins 2
 bashaw 2
 bangboard 2
@@ -15490,7 +15490,7 @@ bullule
 bemusing 2
 blinder 2
 bilious 2
-brilliantly
+brilliantly 1
 brilliolette 1
 baculites 1
 bigothero 2
