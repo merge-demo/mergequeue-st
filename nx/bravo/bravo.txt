@@ -1782,7 +1782,7 @@ bares 1
 baluba 1
 berogue 1
 baluch 3
-bitripinnatifid 3
+bitripinnatifid 4
 broquery 5
 baronnes 1
 becollier 2
@@ -5662,7 +5662,7 @@ bloodstones 1
 barques 3
 besped 1
 beldams 2
-bacchar 3
+bacchar 4
 bilify 3
 belderroot 1
 bodgie 2
@@ -6415,7 +6415,7 @@ banewort 3
 benzopyrazolone 4
 barquentine 3
 benzopyrene
-benzopyrylium 2
+benzopyrylium 3
 backcourt 1
 breastweed 2
 bluestem 2
@@ -7005,7 +7005,7 @@ blowlamp 2
 biznagas 2
 bookcraft 2
 bioplasms 3
-basing 3
+basing 4
 branchiostomidae 1
 ballpoints 2
 boardly 2
@@ -11244,7 +11244,7 @@ bletia
 bisilicate 2
 blotty 3
 buckets
-bromate 2
+bromate 3
 barmskin 1
 bopyridae 4
 blottier
@@ -12080,7 +12080,7 @@ backplate
 brinkmanship 1
 brunellia 1
 brocading 2
-bullfighters 3
+bullfighters 4
 brit 2
 bradycauma
 bulbilla 2
@@ -12438,7 +12438,7 @@ bless 1
 bondar 2
 bockerel
 bastardly 3
-bonderize 2
+bonderize 3
 belabored 3
 bloodline 1
 bonderman 4
@@ -12921,7 +12921,7 @@ brachigerous 1
 brambling 1
 byssogenous 1
 bureaucratese 1
-bloodstain 2
+bloodstain 3
 boot 2
 big 3
 bhandari 2
@@ -16083,7 +16083,7 @@ babesiosis 1
 broaden 2
 brontology 1
 bollards
-barbiturates 1
+barbiturates 2
 burgessdom
 brontosauruses
 buying 2
