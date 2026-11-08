@@ -14781,7 +14781,7 @@ cascan
 citizens
 cytoanalyzer
 cis 1
-copremia
+copremia 1
 cytoarchitectural 2
 cytoblast
 cytoblastema
@@ -15209,7 +15209,7 @@ chinaberry 3
 claystone
 curtained
 cynomoriaceous 1
-communist 1
+communist 2
 comping 1
 crutcher
 claith
@@ -20972,7 +20972,7 @@ compromise 4
 cryptophyte 1
 crowflower
 clistothecia 2
-cumbrian 2
+cumbrian 3
 comminister 4
 chessel 2
 citral 1
