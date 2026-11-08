@@ -1774,7 +1774,7 @@ debriefs 2
 deathtrap 2
 devocalization 1
 drof
-deathward 4
+deathward 5
 ductility 1
 docent 2
 downlier 2
@@ -5222,7 +5222,7 @@ daviely 4
 difficile 2
 dioptase
 drawbridges 2
-dialogistic 2
+dialogistic 3
 demarcations 1
 dorsel 4
 depauperized 2
@@ -17256,7 +17256,7 @@ despising 1
 drivers 2
 drivership 2
 dmarche 2
-drives 2
+drives 3
 dredgings 3
 driveway
 decrepitation 1
