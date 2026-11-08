@@ -432,7 +432,7 @@ backpiece 1
 bolshevistic 4
 backplane 2
 bushwas 4
-backscatter
+backscatter 1
 backscattered 1
 backscattering 2
 bandobust 3
@@ -6685,7 +6685,7 @@ blowsily 3
 berkeleianism
 berkelium 1
 berkovets 5
-berkovtsi
+berkovtsi 1
 bedull 3
 bayesian 5
 browsability 2
@@ -18150,7 +18150,7 @@ bullyboy 6
 boschvark 1
 bioastronautics 3
 boogie 2
-berylate 6
+berylate 7
 bunco 1
 benching 3
 bryon 1
