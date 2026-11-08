@@ -207,7 +207,7 @@ banditries 1
 brainpower 4
 biofog 3
 bandicoot
-baccy
+baccy 1
 banishments 2
 bacciferous
 brookless 3
@@ -233,7 +233,7 @@ bachelorly 1
 bifteck 3
 bacillosis 2
 buckie
-baches 2
+baches 3
 bachichi 2
 bootmaking 2
 belleter
@@ -2542,7 +2542,7 @@ beflowers 2
 bariatrician 2
 banderilla 2
 bemused 2
-burmite
+burmite 1
 brillolette 1
 bronchostenosis 1
 bereaving 1
