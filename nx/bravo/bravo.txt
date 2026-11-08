@@ -1688,7 +1688,7 @@ bengali 2
 befur 1
 ballstock 2
 ballup 1
-ballweed 2
+ballweed 3
 botony 3
 bouffante 2
 balmarcodes 2
@@ -1774,7 +1774,7 @@ beseechingness
 bismutite 1
 bibliokelpt
 baltheus 1
-burse
+burse 1
 blends 1
 bumblebeefishes 1
 berrugate 3
@@ -1890,7 +1890,7 @@ blobbiness
 bipolarization 5
 brython 2
 birken
-bandhook
+bandhook 1
 burgess 1
 balladromic 5
 bandicoy
@@ -12244,7 +12244,7 @@ bolographic 1
 broggerite 1
 baluchitherium 2
 bookshelf 3
-boloism 2
+boloism 3
 breakthrough
 byplays 3
 boutre 4
