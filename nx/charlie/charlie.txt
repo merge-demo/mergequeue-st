@@ -3416,7 +3416,7 @@ coagulatory 1
 caprella
 capreol 1
 commotional 2
-capreolar 2
+capreolar 3
 clamper 2
 canonizant 1
 capreolary 1
@@ -7584,7 +7584,7 @@ cerebronic 2
 cerebroparietal 3
 cerebropedal
 coppy 1
-cerebropsychosis
+cerebropsychosis 1
 calade
 coincidentally 1
 cerebrosclerosis 2
@@ -9360,7 +9360,7 @@ chavantean 1
 chavel 2
 chavender 2
 confirmment
-compart 1
+compart 2
 chavicin 5
 chomp 2
 chiot 1
@@ -9736,7 +9736,7 @@ chekan 1
 connatal 2
 cheke
 coffeetime 1
-cheken 1
+cheken 2
 curvacious 1
 chekhov
 colourable 2
@@ -21992,7 +21992,7 @@ confinity 1
 chivying 2
 californicus 1
 clitoromaniac 1
-croak
+croak 1
 corelative 4
 cytocyst 2
 confirmable
@@ -27466,7 +27466,7 @@ committing 3
 concertised 1
 conversaziones 3
 couthier 2
-couthless 1
+couthless 2
 couthly
 coutil
 coupleteer 1
