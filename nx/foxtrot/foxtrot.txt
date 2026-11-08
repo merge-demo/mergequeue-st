@@ -1754,7 +1754,7 @@ featherfew 3
 fluoridates 4
 featheriness 1
 frogface 1
-foreslack 2
+foreslack 3
 forsterite 4
 farfet 3
 farsalah 1
@@ -2891,7 +2891,7 @@ footwear 5
 frabjously 4
 foaled
 flowstone 4
-farcin
+farcin 1
 fackins 1
 firefighters 2
 fettucini 7
@@ -4718,7 +4718,7 @@ frumentarious 2
 flabbergast 4
 forkfuls 6
 feathermonger 4
-fratchety
+fratchety 1
 fijian 1
 fulgor 3
 ferrugineous 3
@@ -6131,7 +6131,7 @@ fermion 2
 funambulism 2
 frostbow 2
 formamide 1
-fruitarianism 3
+fruitarianism 4
 formalities 3
 fetterers 4
 flagilate 3
@@ -8094,7 +8094,7 @@ figuredly 4
 facetting 5
 folial 1
 forestful 6
-fellable 3
+fellable 4
 fascistically 1
 freezes 2
 forepost 5
@@ -8206,7 +8206,7 @@ foreview 4
 foregoes 5
 foederatus 3
 franzy 1
-fingerprinted 3
+fingerprinted 4
 fantailed 3
 fruitfullest 4
 fluffily 4
@@ -8578,7 +8578,7 @@ foreseeing 3
 foremisgiving 2
 fard 5
 fulgid 2
-farctate 5
+farctate 6
 flacourtia 1
 fished 3
 flapped 1
@@ -11448,7 +11448,7 @@ fallibleness 1
 frigidarium 2
 firebase 2
 fiducially 3
-fluviose 1
+fluviose 2
 falteringly 4
 furrily
 frigage 2
