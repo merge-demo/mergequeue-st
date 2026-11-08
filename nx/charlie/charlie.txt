@@ -3809,7 +3809,7 @@ conrail
 carbodynamite
 carbohemoglobin 1
 calamodendron 2
-cribbling 1
+cribbling 2
 carbohydrase 3
 cannibalism 4
 cardioncus
@@ -6316,7 +6316,7 @@ coextension 2
 candelas 1
 catochus
 coheaded 3
-cumberlandite 1
+cumberlandite 2
 cestos
 cetiosauria
 clarinda 1
@@ -20688,7 +20688,7 @@ caudotibial 1
 complementers 1
 camleted
 cauter
-cobreathe
+cobreathe 1
 complementoid
 cooperations 2
 chionididae 1
