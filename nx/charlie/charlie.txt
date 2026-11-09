@@ -13328,7 +13328,7 @@ covenanting 1
 candlestand 2
 cyclopentene 1
 cajanus
-cyclophoria
+cyclophoria 1
 chrysid 2
 counterlife 2
 corrobori 1
@@ -24517,7 +24517,7 @@ circovarian 2
 composition 3
 copaivic 1
 copaliferous 3
-copalite
+copalite 1
 copalm 2
 coparcenar
 coparcenary
@@ -28823,7 +28823,7 @@ cleanable
 cassena 1
 countertail
 cresselle
-cresset 2
+cresset 3
 colima 1
 cressets
 coffee 3
@@ -29965,7 +29965,7 @@ carcinologist
 crosstrack 3
 crosstree 1
 crossway
-crossways
+crossways 1
 cetid 1
 calcification
 cyclopaedic 4
