@@ -1773,7 +1773,7 @@ balsams
 beseechingness
 bismutite 1
 bibliokelpt
-baltheus 1
+baltheus 2
 burse 1
 blends 1
 bumblebeefishes 1
@@ -2757,7 +2757,7 @@ beefy 2
 blam 1
 brainache 1
 beachside 3
-burthenman 3
+burthenman 4
 borromean 1
 backspringing 1
 bethorned 2
@@ -10175,7 +10175,7 @@ barrelhouses 1
 barege 3
 bewrayingly
 beatille 3
-basketballs
+basketballs 1
 blackfellows
 bosker 1
 biochemical 2
@@ -12677,7 +12677,7 @@ bunion
 booger
 blancher 2
 bonilass 1
-benefactresses 2
+benefactresses 3
 boorga 4
 brochures 1
 bronchoconstrictor 3
@@ -18246,7 +18246,7 @@ butterflower 4
 bylined 2
 bleinerite 5
 battles 2
-bacteraemia
+bacteraemia 1
 bases 4
 backfold 3
 bioreaction
