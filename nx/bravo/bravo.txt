@@ -1982,7 +1982,7 @@ bosquets 3
 baahling 5
 beeway 4
 beworms 4
-bandwidth 3
+bandwidth 4
 bandworm 1
 blunderers 3
 boogiewoogie 1
@@ -3021,7 +3021,7 @@ boogyman
 barter
 blechnoid 1
 brilliancy 4
-blood 3
+blood 4
 bullace 1
 bartholomewtide 2
 bartisan 2
@@ -3383,7 +3383,7 @@ basques 3
 bass 3
 brans
 basiphobia 1
-besilver
+besilver 1
 buccheros 2
 branchiopulmonate 5
 bassalia 2
@@ -6145,7 +6145,7 @@ benighted 1
 butanolide 1
 beelzebul
 blanking 3
-blastide
+blastide 1
 bohor 3
 belonoid 4
 baske
@@ -7113,7 +7113,7 @@ bicarbs 1
 bespoke 3
 boethusian 1
 boss 4
-birdsong 2
+birdsong 3
 boldnesses 1
 basso 4
 bespotting 3
@@ -7556,7 +7556,7 @@ bewary 3
 bewaste
 beweary 2
 besottedness 2
-botflies 2
+botflies 3
 brainworker 1
 banagos 2
 beweeper 2
@@ -18330,7 +18330,7 @@ blennuria
 boobery 1
 beths 2
 brahmans 2
-brightens 2
+brightens 3
 breva 3
 brewst 2
 broths 4
