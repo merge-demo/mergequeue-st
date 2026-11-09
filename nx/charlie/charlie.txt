@@ -3175,7 +3175,7 @@ cachepots 2
 crosshatcher 1
 cowpox 1
 calibanism
-cofathership 1
+cofathership 2
 collagen 1
 caperingly
 cribbiter
@@ -4194,7 +4194,7 @@ cardiopathic
 chloanthite
 cardiopulmonary 1
 cardiorenal 1
-cardiorespiratory
+cardiorespiratory 1
 cardiorrhaphy 2
 cardiorrheuma 2
 celts 2
@@ -24180,7 +24180,7 @@ convictible 1
 carfax
 cantinier
 conviction
-convictional 1
+convictional 2
 civilizatory
 cibarium
 convictions 1
