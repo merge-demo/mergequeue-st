@@ -24517,7 +24517,7 @@ circovarian 2
 composition 3
 copaivic 1
 copaliferous 3
-copalite
+copalite 1
 copalm 2
 coparcenar
 coparcenary
@@ -29965,7 +29965,7 @@ carcinologist
 crosstrack 3
 crosstree 1
 crossway
-crossways
+crossways 1
 cetid 1
 calcification
 cyclopaedic 4
