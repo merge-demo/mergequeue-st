@@ -3969,7 +3969,7 @@ autarkik
 adjudicated 2
 apostrophied 2
 adjudication 1
-agglutinin
+agglutinin 1
 adjudicative 1
 aerostats 2
 alphean
@@ -5942,7 +5942,7 @@ arri
 aftergrind 3
 actinomycetaceae 1
 ablute 2
-agglutinative 2
+agglutinative 3
 adamantine 3
 agglutinatively 2
 agamobium 1
@@ -12254,7 +12254,7 @@ astronautical 1
 angelin 1
 allodge 1
 andaman 1
-autobiographic 4
+autobiographic 5
 anchieutectic 3
 abience
 arteriectasia 2
@@ -13033,7 +13033,7 @@ aporose 1
 antepone 1
 anticomplementary 2
 angust 1
-adrenine 4
+adrenine 5
 auronal
 angustirostrate
 admirator 1
@@ -14034,7 +14034,7 @@ alencon
 antitypic 4
 anticlassical 1
 antatrophic 1
-ante 1
+ante 2
 avener 1
 adenoviral 1
 alameda 2
@@ -14942,7 +14942,7 @@ anticly 4
 aegagropilae
 aeromotor 1
 abassi 1
-anticlimax 3
+anticlimax 4
 attroupement
 abret
 anticlines
@@ -17293,7 +17293,7 @@ aposiopesis 3
 americanize 1
 anaplasma 1
 arbalest
-acataposis 2
+acataposis 3
 anglicization 1
 ayins 1
 apositia
@@ -19664,7 +19664,7 @@ alfarga 3
 aristate 1
 ascesis
 aristeas 2
-alertness
+alertness 1
 aristeia 3
 acetanilide 2
 aristocracy 3
@@ -19828,7 +19828,7 @@ agoroth 2
 aethon 1
 animalization 4
 aginner
-armhole 1
+armhole 2
 agnomen 2
 afocal 1
 allotropes
@@ -20618,7 +20618,7 @@ apospories 2
 ammodytoid 2
 aswithe 1
 atestine 2
-aduncity 1
+aduncity 2
 arthroneuralgia 1
 aetiology
 arthropathic 2
@@ -20793,7 +20793,7 @@ angico
 assimilated 2
 autophobia
 alicant 3
-alienors
+alienors 1
 artlessness
 adverseness
 animalcule 2
@@ -24874,7 +24874,7 @@ aback 3
 avoutry
 antinodal 2
 arthroplasty 2
-anguishously 1
+anguishously 2
 autobiographically 1
 antejuramentum 1
 archplutocrat 1
