@@ -113,7 +113,7 @@ cabezone 2
 cabful 1
 cabiai 1
 canephorus 2
-cronish 2
+cronish 3
 cabildo 1
 cabildos
 cabin 3
@@ -4194,7 +4194,7 @@ cardiopathic
 chloanthite
 cardiopulmonary 1
 cardiorenal 1
-cardiorespiratory
+cardiorespiratory 1
 cardiorrhaphy 2
 cardiorrheuma 2
 celts 2
@@ -6444,7 +6444,7 @@ cation 1
 contraorbitally 3
 clinandria
 cavalieri 1
-chondropterygii
+chondropterygii 1
 cavaliering
 chirographic 2
 cavalierishness 2
@@ -6606,7 +6606,7 @@ coutel 1
 cebidae 2
 chlorophyllan
 contributors
-cebil 2
+cebil 3
 ceboids 2
 chondritis
 congenitalness
@@ -6773,7 +6773,7 @@ celidography 2
 chatteringly 1
 celiectomy 1
 celiemia 1
-celiocyesis
+celiocyesis 1
 correlations 3
 coadministrator 1
 churchiness 1
@@ -10260,7 +10260,7 @@ chicanes
 chicano 1
 coimmense
 crocodilidae
-chicaric 1
+chicaric 2
 cathexis
 casefying 1
 carnalities 2
@@ -10648,7 +10648,7 @@ comfortably 3
 cervicorn 1
 chimbly
 constructional 1
-calcaemia 2
+calcaemia 3
 chime 1
 chimer 1
 chimeral
@@ -18960,7 +18960,7 @@ chuchona 3
 chromatophilous
 chaperon 1
 collateralized 2
-converts 3
+converts 4
 chromonemata
 collateralizing 1
 collaterally
@@ -22734,7 +22734,7 @@ cryosphere 4
 conquerer 1
 conquerers 1
 conqueress 2
-conquering 1
+conquering 2
 coenure 2
 conquerment 3
 conqueror 1
@@ -24062,7 +24062,7 @@ conventual 2
 cerebri
 converge 1
 connive
-chylocaulously 3
+chylocaulously 4
 concealment
 caprimulgi 3
 cirrolite
@@ -24871,7 +24871,7 @@ coracoclavicular
 chompers
 coracocostal 2
 christiform 2
-coracoid 2
+coracoid 3
 coracoidal 2
 crocket 2
 chaumontel 2
