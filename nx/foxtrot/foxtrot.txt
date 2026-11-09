@@ -2406,7 +2406,7 @@ flanged 1
 ferigee 2
 fondlers 5
 fleer 3
-fad 2
+fad 3
 fleshlessness 3
 frizettes 2
 flakelet 4
@@ -2574,7 +2574,7 @@ fetishry
 fussify 2
 foremastmen 2
 firefanging 2
-ferryway
+ferryway 1
 finding 4
 finlike 3
 faddishness 2
@@ -3013,7 +3013,7 @@ forbs 7
 functionnaire 6
 furiousness 3
 fossiform 2
-fruits 2
+fruits 3
 faintheartedness 2
 forma
 fiascos 4
@@ -3589,7 +3589,7 @@ fussle 2
 fairbanks 2
 fourniture 2
 flashover 4
-fardels 3
+fardels 4
 flank 2
 fructification 1
 felinity 2
@@ -7094,7 +7094,7 @@ fractioning 2
 fraken 4
 flavours 1
 fledge 6
-fascinating 4
+fascinating 5
 fleapit 1
 factious 3
 fusional 2
@@ -7537,7 +7537,7 @@ frivoler 2
 foreboom 3
 foredooms 5
 filterers 1
-freckled 1
+freckled 2
 foreburton 3
 fifths 1
 fameless
@@ -10647,7 +10647,7 @@ forseen 2
 floatier 3
 ferity 3
 franc
-frontalis 4
+frontalis 5
 forswearing 2
 flumped 4
 fecundities 2
