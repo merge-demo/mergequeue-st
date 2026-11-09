@@ -136,7 +136,7 @@ costotransverse
 cabiria
 cabirian 1
 circumcised 2
-cabiric 1
+cabiric 2
 cataclysm
 cable 1
 cablecast 1
@@ -4828,7 +4828,7 @@ carposporangial
 catalase
 carlist 1
 carposporous
-carpsucker
+carpsucker 1
 cavalierish
 concaving
 connotive 2
@@ -8596,7 +8596,7 @@ cuissard 1
 changeovers 1
 chiefs 2
 changer
-columbic 2
+columbic 3
 crudwort 1
 changers 2
 clypei 1
@@ -17784,7 +17784,7 @@ coddlers 1
 coddles 1
 codebooks
 codebreaker 2
-codebtor
+codebtor 1
 conceptualizations 2
 codebtors 1
 carrotiness 1
