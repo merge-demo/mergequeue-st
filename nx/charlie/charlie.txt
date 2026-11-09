@@ -4194,7 +4194,7 @@ cardiopathic
 chloanthite
 cardiopulmonary 1
 cardiorenal 1
-cardiorespiratory
+cardiorespiratory 1
 cardiorrhaphy 2
 cardiorrheuma 2
 celts 2
@@ -6444,7 +6444,7 @@ cation 1
 contraorbitally 3
 clinandria
 cavalieri 1
-chondropterygii
+chondropterygii 1
 cavaliering
 chirographic 2
 cavalierishness 2
@@ -22734,7 +22734,7 @@ cryosphere 4
 conquerer 1
 conquerers 1
 conqueress 2
-conquering 1
+conquering 2
 coenure 2
 conquerment 3
 conqueror 1
