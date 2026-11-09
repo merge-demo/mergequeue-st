@@ -13403,7 +13403,7 @@ anywhen
 advertize
 ascill
 anywhence 2
-appurtenance
+appurtenance 1
 anywhither 2
 anywither
 anhalonium
@@ -15354,7 +15354,7 @@ arietation 1
 acroterion 3
 antihypochondriac 1
 annal
-anticoincidence 1
+anticoincidence 2
 agomphosis 2
 antihypophora 2
 acetopiperone 5
