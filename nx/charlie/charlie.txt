@@ -28823,7 +28823,7 @@ cleanable
 cassena 1
 countertail
 cresselle
-cresset 2
+cresset 3
 colima 1
 cressets
 coffee 3
@@ -29965,7 +29965,7 @@ carcinologist
 crosstrack 3
 crosstree 1
 crossway
-crossways
+crossways 1
 cetid 1
 calcification
 cyclopaedic 4
