@@ -739,7 +739,7 @@ footbreadth 2
 fanatism 1
 fabricating 3
 farcilite 3
-flybelt 3
+flybelt 4
 frozenness 4
 fishgrass 6
 fluxions 3
@@ -1620,7 +1620,7 @@ fazes 7
 fiard 2
 flophouse 4
 fied 3
-fizzing 5
+fizzing 6
 fellowless 3
 fipenny
 four 1
@@ -6865,7 +6865,7 @@ foliot 3
 floribunda 4
 forthby 3
 ferritungstite 3
-farewell 3
+farewell 4
 fiery 7
 flasks 4
 friability 2
