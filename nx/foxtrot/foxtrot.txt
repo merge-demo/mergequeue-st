@@ -3270,7 +3270,7 @@ fiddlecome 2
 fracedinous 4
 fiddlefaced 3
 fld 4
-fumous 2
+fumous 3
 fiddlerfish 1
 fraticellian 3
 ferrites 1
@@ -3504,7 +3504,7 @@ fisetin 3
 farness 2
 fermentology 4
 fraternity 4
-fleches 4
+fleches 5
 falcones 2
 fastigiate 3
 flotsam
@@ -4493,7 +4493,7 @@ fisnoga 2
 factorship 5
 flouncing
 felinae 2
-figurer
+figurer 1
 flattop 6
 forblow 4
 feebleheartedness 1
@@ -5331,7 +5331,7 @@ flightworthy 6
 fldxt 1
 frower 4
 featherweight 2
-flayflint 3
+flayflint 4
 fleabag 5
 fusillade 6
 faintheart 1
@@ -10101,7 +10101,7 @@ fait 2
 featherhead 3
 flabbiest 6
 feloniously 6
-familistical 4
+familistical 5
 fascinated 1
 figure 3
 faradonervous 3
