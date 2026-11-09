@@ -136,7 +136,7 @@ costotransverse
 cabiria
 cabirian 1
 circumcised 2
-cabiric 1
+cabiric 2
 cataclysm
 cable 1
 cablecast 1
@@ -1088,7 +1088,7 @@ calcicolous 1
 calcicosis
 collyrie 2
 calciferol 1
-calcified 1
+calcified 2
 counterboycott 1
 calcifying 1
 codelight 3
@@ -4828,7 +4828,7 @@ carposporangial
 catalase
 carlist 1
 carposporous
-carpsucker
+carpsucker 1
 cavalierish
 concaving
 connotive 2
@@ -8596,7 +8596,7 @@ cuissard 1
 changeovers 1
 chiefs 2
 changer
-columbic 2
+columbic 3
 crudwort 1
 changers 2
 clypei 1
@@ -10157,7 +10157,7 @@ chevrolets 1
 chlorodized 1
 chevron 1
 chiropatagium
-charioteer 3
+charioteer 4
 cronied 1
 chevronwise
 chevrotain 1
@@ -15812,7 +15812,7 @@ clearings 2
 clearish 2
 cerealian
 cribrosity 1
-clearsighted
+clearsighted 1
 carludovica 1
 coprostasia 2
 chien 2
@@ -17784,7 +17784,7 @@ coddlers 1
 coddles 1
 codebooks
 codebreaker 2
-codebtor
+codebtor 1
 conceptualizations 2
 codebtors 1
 carrotiness 1
@@ -19400,7 +19400,7 @@ chantable 1
 colorers
 cinerea
 carpocervical 1
-colorfastness 1
+colorfastness 2
 chailletiaceae
 chymifying 2
 colorful 1
