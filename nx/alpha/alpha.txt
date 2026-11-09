@@ -4702,7 +4702,7 @@ asidehand 1
 atomerg 1
 accessorii 2
 amphioxi 1
-anthrathiophene 4
+anthrathiophene 5
 aedilian 2
 appetently 1
 arillodes 3
@@ -6792,7 +6792,7 @@ avenue
 angerless 2
 airan
 airbills
-airboat
+airboat 1
 airboats 1
 anomal 1
 alters 3
@@ -7000,7 +7000,7 @@ aithochroi
 acceleratingly 3
 amrita 1
 alumnae 1
-assisters
+assisters 1
 ancone 1
 airts 1
 aquila 1
@@ -7733,7 +7733,7 @@ acidic 1
 apterygial
 accepted 1
 averroistic 1
-actualise 1
+actualise 2
 arthrolith 2
 administrants 2
 albumenize 3
@@ -10602,7 +10602,7 @@ agt
 aposematically
 alphamerical 3
 amygdal
-aludels 1
+aludels 2
 affectate 1
 amygdala 3
 antirobin 1
@@ -12321,7 +12321,7 @@ ancylostomiasis 2
 anemotactic
 adumbrations 2
 ancylus 2
-actinodrome
+actinodrome 1
 ancyrean 2
 affectedly 1
 ancistrocladaceous
@@ -13216,7 +13216,7 @@ achymous 1
 associatory 1
 amniotome 1
 approver 2
-allorrhythmic 1
+allorrhythmic 2
 animatedly 1
 angekok
 animating 3
@@ -14942,7 +14942,7 @@ anticly 4
 aegagropilae
 aeromotor 1
 abassi 1
-anticlimax 3
+anticlimax 4
 attroupement
 abret
 anticlines
@@ -15280,7 +15280,7 @@ ageusic
 antigambling 1
 antiganting 2
 audion
-aftersupper 1
+aftersupper 2
 advoyer
 arilloid 1
 aonach
@@ -16202,7 +16202,7 @@ astroalchemist 2
 aplustre 2
 aroras
 almsgiving 3
-agrestian
+agrestian 1
 afterimpression 1
 antispiritualism 2
 arf 3
@@ -17316,7 +17316,7 @@ apeirophobia 1
 autocollimator 3
 algaecide 1
 antiforeign
-apostatically
+apostatically 1
 appendicectasis 3
 abthain
 arguers 6
@@ -17424,7 +17424,7 @@ apotropaically 3
 asciferous 2
 autographism 2
 aftershave 2
-apotropous 1
+apotropous 2
 anthomedusan
 adoxies 2
 anodizing
@@ -17868,7 +17868,7 @@ antonomasy 2
 algraphy 2
 awan
 afterwash
-argininephosphoric
+argininephosphoric 1
 aleutite
 apprense 1
 acetylenic 1
@@ -18370,7 +18370,7 @@ arachnopia 1
 arakawaite 3
 archway 1
 attitudinarianism 3
-antiunionist 3
+antiunionist 4
 araliaceous 1
 algaroba
 abattis 2
@@ -19803,7 +19803,7 @@ atrail
 arrah 4
 alphabetology 1
 avanters 3
-ansa
+ansa 1
 armenic 4
 agapetidae 1
 axinomancy
@@ -20585,7 +20585,7 @@ administerings 2
 amniote
 androgonium 1
 arthrodirous
-aery 2
+aery 3
 atlantes 1
 architricline 2
 anurous
@@ -22521,7 +22521,7 @@ aggros 3
 autodidactically 2
 apeiron 1
 affectlessness 2
-atatschite
+atatschite 1
 angiospermous 1
 ataunto 2
 antelopian
