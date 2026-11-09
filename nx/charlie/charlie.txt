@@ -113,7 +113,7 @@ cabezone 2
 cabful 1
 cabiai 1
 canephorus 2
-cronish 2
+cronish 3
 cabildo 1
 cabildos
 cabin 3
@@ -4194,7 +4194,7 @@ cardiopathic
 chloanthite
 cardiopulmonary 1
 cardiorenal 1
-cardiorespiratory
+cardiorespiratory 1
 cardiorrhaphy 2
 cardiorrheuma 2
 celts 2
@@ -6444,7 +6444,7 @@ cation 1
 contraorbitally 3
 clinandria
 cavalieri 1
-chondropterygii
+chondropterygii 1
 cavaliering
 chirographic 2
 cavalierishness 2
@@ -6773,7 +6773,7 @@ celidography 2
 chatteringly 1
 celiectomy 1
 celiemia 1
-celiocyesis
+celiocyesis 1
 correlations 3
 coadministrator 1
 churchiness 1
@@ -22734,7 +22734,7 @@ cryosphere 4
 conquerer 1
 conquerers 1
 conqueress 2
-conquering 1
+conquering 2
 coenure 2
 conquerment 3
 conqueror 1
