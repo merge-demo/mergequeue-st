@@ -361,7 +361,7 @@ demonifuge 1
 defames 2
 daylights
 deutomalar 2
-desalters 2
+desalters 3
 dayman 2
 daric 3
 droughtiness
@@ -5426,7 +5426,7 @@ deregister
 demulsifier 2
 donation 2
 disenablement
-deorsum 3
+deorsum 4
 deossification 1
 deuterostomatous 3
 dissipates
@@ -7497,7 +7497,7 @@ doorwise 1
 degger
 dibase 2
 denitrify 1
-disentwine
+disentwine 1
 denda 2
 deusan 7
 dyscrasia
