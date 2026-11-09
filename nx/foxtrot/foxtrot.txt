@@ -267,7 +267,7 @@ footpounds 6
 firbolg 2
 fax 3
 flagarie 3
-fideism 3
+fideism 4
 fissle 6
 fledges 8
 fungoids 2
@@ -1878,7 +1878,7 @@ flexional 1
 falsifies 3
 fizzwater 4
 frohlich 4
-fecundator 5
+fecundator 6
 foodless
 fuligula 1
 fallow 1
@@ -3876,7 +3876,7 @@ filleting 2
 feckless
 folcgemot 6
 figurato 1
-fionnuala 5
+fionnuala 6
 fanwe 2
 foregrounds 1
 frequencies 3
@@ -10257,7 +10257,7 @@ frat 3
 fusils 1
 freakily 4
 flunkers 1
-fudge 3
+fudge 4
 frogmarch 3
 flowerful 2
 flossier
