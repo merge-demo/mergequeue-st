@@ -7135,7 +7135,7 @@ blotchiest 1
 blowy 2
 betongue 2
 besprinkle 2
-bandhor 3
+bandhor 4
 biaxial
 bonduc 1
 barret 6
@@ -7737,7 +7737,7 @@ britten 3
 bathyscaphe 1
 bravoite
 buxerry 1
-bhikshu 3
+bhikshu 4
 bullan
 barquantine 1
 breakover
@@ -10175,7 +10175,7 @@ barrelhouses 1
 barege 3
 bewrayingly
 beatille 3
-basketballs
+basketballs 1
 blackfellows
 bosker 1
 biochemical 2
@@ -10668,7 +10668,7 @@ bewash 2
 brunissure 3
 belt
 blearyeyedness 3
-bevel
+bevel 1
 blindly 2
 brotulid 3
 begarnish 2
