@@ -10464,7 +10464,7 @@ chelophore 1
 child 1
 childbearing 3
 circumspatial 1
-chippable 1
+chippable 2
 cerebrometer 1
 childcrowing 1
 childed 2
@@ -30105,7 +30105,7 @@ crowdle 1
 chromatrope
 cingulated 1
 crowed 2
-crower 4
+crower 5
 crowers 2
 conductors
 centuried
