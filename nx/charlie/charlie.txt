@@ -113,7 +113,7 @@ cabezone 2
 cabful 1
 cabiai 1
 canephorus 2
-cronish 2
+cronish 3
 cabildo 1
 cabildos
 cabin 3
@@ -486,7 +486,7 @@ centonical
 cadbait
 conjunctiveness 1
 crummock 2
-creepiest 2
+creepiest 3
 caddesse
 caddiced 1
 caddicefly 1
@@ -3275,7 +3275,7 @@ capitated 1
 croquette 2
 capitatim
 cputime
-capitation 1
+capitation 2
 casimere
 capitations 1
 cyclotomy
@@ -4194,7 +4194,7 @@ cardiopathic
 chloanthite
 cardiopulmonary 1
 cardiorenal 1
-cardiorespiratory
+cardiorespiratory 1
 cardiorrhaphy 2
 cardiorrheuma 2
 celts 2
@@ -4255,7 +4255,7 @@ carefullest
 chemosensitivities 1
 condensation
 characteristic 1
-coauthored
+coauthored 1
 cashel 1
 cursillo
 careless
@@ -6444,7 +6444,7 @@ cation 1
 contraorbitally 3
 clinandria
 cavalieri 1
-chondropterygii
+chondropterygii 1
 cavaliering
 chirographic 2
 cavalierishness 2
@@ -6606,7 +6606,7 @@ coutel 1
 cebidae 2
 chlorophyllan
 contributors
-cebil 2
+cebil 3
 ceboids 2
 chondritis
 congenitalness
@@ -6773,7 +6773,7 @@ celidography 2
 chatteringly 1
 celiectomy 1
 celiemia 1
-celiocyesis
+celiocyesis 1
 correlations 3
 coadministrator 1
 churchiness 1
@@ -10544,7 +10544,7 @@ chill 1
 cyclanthaceous
 chilla
 cerebric 1
-contort 2
+contort 3
 conter 1
 crinigerous 3
 carports 2
@@ -22734,7 +22734,7 @@ cryosphere 4
 conquerer 1
 conquerers 1
 conqueress 2
-conquering 1
+conquering 2
 coenure 2
 conquerment 3
 conqueror 1
