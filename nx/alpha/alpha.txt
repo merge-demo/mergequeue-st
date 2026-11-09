@@ -6438,7 +6438,7 @@ auriculariae 1
 agromyzid 2
 agron
 ascaricidal
-agronome 1
+agronome 2
 aortomalacia 2
 aspidocephali 2
 autoignition
@@ -6560,7 +6560,7 @@ ahull 2
 ascomata 1
 anacrustic 1
 airward 2
-amicableness 4
+amicableness 5
 ahunt
 azocyclic 5
 ahuula
@@ -7393,7 +7393,7 @@ additively
 apometabolic 2
 alberghi 1
 aplite 1
-albergo 3
+albergo 4
 arctically 1
 albert 1
 albertin 2
@@ -15218,7 +15218,7 @@ alunogen 1
 antifederalism 1
 assentient 2
 antifelony 3
-antarctalian
+antarctalian 1
 antiferromagnetism 2
 antifertility 3
 accreditation 1
