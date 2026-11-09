@@ -3589,7 +3589,7 @@ fussle 2
 fairbanks 2
 fourniture 2
 flashover 4
-fardels 3
+fardels 4
 flank 2
 fructification 1
 felinity 2
@@ -4835,7 +4835,7 @@ flinthead 2
 franchisers 2
 fleay 5
 fabricative 4
-fainer 4
+fainer 5
 foil 3
 finlet 2
 festinately 2
@@ -10647,7 +10647,7 @@ forseen 2
 floatier 3
 ferity 3
 franc
-frontalis 4
+frontalis 5
 forswearing 2
 flumped 4
 fecundities 2
