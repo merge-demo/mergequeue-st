@@ -2478,7 +2478,7 @@ dirigent 3
 deckhand
 duckwing 2
 deckle 4
-dulls
+dulls 1
 drumlin 1
 discal
 diatropism 1
@@ -6353,7 +6353,7 @@ destoolment 5
 dustmen 2
 diplotene
 disassociation 1
-dorsiventral 1
+dorsiventral 2
 distortedness
 derodidymus 4
 derog 2
@@ -9779,7 +9779,7 @@ deckpipe
 dysoxidize 2
 doodle 5
 dogmatiser
-dermatocyst 2
+dermatocyst 3
 detailedness 1
 daimones 3
 denumerable 1
@@ -15864,7 +15864,7 @@ deadpanning 2
 dosed 2
 deiseal
 deboning 1
-delighting 2
+delighting 3
 discounts 1
 doser 2
 datura
@@ -18215,7 +18215,7 @@ dumsola
 dedendum 3
 disdiaclastic 1
 distrust 2
-dunbird 2
+dunbird 3
 dermatoscopy 2
 disobedience
 diable
