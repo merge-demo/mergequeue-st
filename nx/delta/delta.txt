@@ -15123,7 +15123,7 @@ damaging 3
 disallows 1
 dullpate 1
 decayable
-demiofficial
+demiofficial 1
 dactylitic 3
 dysplastic 2
 doing 2
