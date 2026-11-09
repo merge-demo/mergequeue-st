@@ -6560,7 +6560,7 @@ ahull 2
 ascomata 1
 anacrustic 1
 airward 2
-amicableness 4
+amicableness 5
 ahunt
 azocyclic 5
 ahuula
@@ -12914,7 +12914,7 @@ angletouch
 abysses 2
 antiquarianly
 angletwitch 1
-allays
+allays 1
 anglewise 1
 avenger 1
 asteraceous 3
