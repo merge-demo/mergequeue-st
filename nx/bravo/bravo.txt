@@ -291,7 +291,7 @@ begrutch 1
 biolith 2
 booter 2
 benzacridine 1
-backslided 3
+backslided 4
 backberend 2
 backbite 2
 beeman 1
@@ -1625,7 +1625,7 @@ ballo 2
 brachydactylic
 blumea 1
 begluc 4
-banneret
+banneret 1
 brairding 4
 bestar 1
 bromoil
@@ -4273,7 +4273,7 @@ butting 1
 beaverize 3
 bacillariales
 beaverkin 1
-bosnian 1
+bosnian 2
 beaverskin 1
 beaverteen 3
 braidings 2
@@ -6547,7 +6547,7 @@ brustled 2
 becolor 2
 berated 1
 bushful
-blastospheric 3
+blastospheric 4
 berattle 1
 bakehead 2
 boatside 4
@@ -15257,7 +15257,7 @@ basifier 2
 bricking 2
 brickish 1
 brickkiln 1
-brewises 2
+brewises 3
 beglerbeg
 bricklayers 4
 backslide 1
@@ -16552,7 +16552,7 @@ botrydium 3
 bibliopolical 3
 boltin 2
 blackplate 1
-brachypinacoid 2
+brachypinacoid 3
 bleary 2
 brutishness 2
 brewed 1
