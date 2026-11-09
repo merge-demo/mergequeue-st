@@ -2182,7 +2182,7 @@ decoloration 1
 disturnpike 1
 darryl 1
 decarburise 4
-defalcator 4
+defalcator 5
 decarburising 1
 despiritualize 1
 differing 1
@@ -4660,7 +4660,7 @@ dropkicker 3
 decking 1
 declaration 2
 dewaxed 3
-drifting 2
+drifting 3
 disheveling 3
 ducklar 1
 demivambrace 2
@@ -8839,7 +8839,7 @@ disproportionates 2
 digressing
 dixit 1
 debilissima 4
-dibhole 4
+dibhole 5
 diadochian 4
 dioptry 2
 dualized 1
@@ -10090,7 +10090,7 @@ dinanderie 2
 disfrocks 3
 dissembles 2
 dobrao 4
-defraudation 3
+defraudation 4
 debruised 1
 disquiets 2
 deodar 1
@@ -12581,7 +12581,7 @@ dechenite
 disintoxication 4
 dankness 1
 depilator
-daud
+daud 1
 dysyntribite 2
 driftfish 4
 deadhearted 1
@@ -13348,7 +13348,7 @@ deflators 1
 disputatiously 2
 disputator
 disputeful 3
-dacrydium 1
+dacrydium 2
 disfeature 1
 deceitful 2
 disputer 3
