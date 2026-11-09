@@ -13403,7 +13403,7 @@ anywhen
 advertize
 ascill
 anywhence 2
-appurtenance
+appurtenance 1
 anywhither 2
 anywither
 anhalonium
@@ -20135,7 +20135,7 @@ adenodermia 2
 arraigns
 apharsathacites 1
 arraying 2
-areaway 2
+areaway 3
 arrays
 arrand 5
 arrangeable 2
@@ -22687,7 +22687,7 @@ aeronomic
 abjuratory 3
 acumen 1
 amphibolostylous 1
-apoise
+apoise 1
 anonymuncule 2
 atherurus
 accelerant 3
