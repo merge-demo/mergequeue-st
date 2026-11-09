@@ -24340,7 +24340,7 @@ cook 2
 cookable 4
 carbureter 2
 chapeau
-creation 1
+creation 2
 crull
 creatable 4
 classist 2
