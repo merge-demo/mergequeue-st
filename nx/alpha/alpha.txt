@@ -3999,7 +3999,7 @@ absinthes
 adjust 1
 animalculum 1
 abdal 3
-astre 2
+astre 3
 armozeen
 adjusting
 attuning 3
@@ -4201,7 +4201,7 @@ adon 1
 adonai 1
 adoniad 1
 agrarianize 1
-adonin
+adonin 1
 adonist 1
 arterialization 1
 albumoscope 1
@@ -4807,7 +4807,7 @@ astrometeorological 2
 aerations 5
 avaunt 1
 aftermath 1
-adenochondroma
+adenochondroma 1
 asterionella 1
 acarology 1
 anaretic
@@ -20867,7 +20867,7 @@ antick 2
 asa 1
 anticynically 1
 aneath 3
-asale 1
+asale 2
 asana 2
 aconitin 2
 arachnidism 1
