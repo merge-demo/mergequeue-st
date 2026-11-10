@@ -1387,7 +1387,7 @@ accelerators 2
 amlet 1
 aumbries 1
 accelerometer
-accelerometers 1
+accelerometers 2
 anticatholic 1
 anapaestical
 anticnemion 5
@@ -2313,7 +2313,7 @@ apsid
 anabas 2
 arsenicate 2
 areographer
-archegosaurus 1
+archegosaurus 2
 acichloride 2
 aciculae 3
 amended 1
@@ -4214,7 +4214,7 @@ adoperate
 ammonals 2
 anticrotalic 3
 adjag 1
-apoapsis 2
+apoapsis 3
 armorers 3
 acetoxyls 1
 anabaptistically 3
@@ -5764,7 +5764,7 @@ avoucher 1
 agrostographies 1
 augusta 2
 aminoacetone 1
-amentiferous 1
+amentiferous 2
 auxometer
 arteriostrepsis 1
 ascrive 1
@@ -7393,7 +7393,7 @@ additively
 apometabolic 2
 alberghi 1
 aplite 1
-albergo 4
+albergo 5
 arctically 1
 albert 1
 albertin 2
@@ -9696,7 +9696,7 @@ abandoned
 alumohydrocalcite 3
 aruspice 2
 alundum
-artiphyllous 3
+artiphyllous 4
 appendices 1
 arcadic 2
 abulyeit 1
@@ -12359,7 +12359,7 @@ analog
 andabatism 3
 antinous
 atheromatous
-anaclete 2
+anaclete 3
 agnes 2
 antipestilent
 authored 5
@@ -12995,7 +12995,7 @@ acutes 1
 arbitrations 1
 achromatising 2
 adjuvants 1
-apologetics 2
+apologetics 3
 axine 2
 angula 1
 aldus 1
@@ -15790,7 +15790,7 @@ aegirine 1
 antipestilently 2
 ablauts 2
 agonistical 1
-anvilled 2
+anvilled 3
 aviolite 1
 amidic 1
 antiphylloxeric 2
@@ -21549,7 +21549,7 @@ amalgamator 1
 arthemis
 archdean 1
 arrowroot 1
-asphodel 1
+asphodel 2
 aspy
 abilities 3
 aspidiaria 1
@@ -23027,7 +23027,7 @@ aeoline 1
 angiocarditis
 apelike 2
 abrim 1
-astringency
+astringency 1
 attributing 2
 atroscine 1
 atrous 1
@@ -23859,7 +23859,7 @@ autarchic 3
 arrowweed 2
 autarchically 1
 auxesis
-ashlaring 2
+ashlaring 3
 autarchies 1
 autarchist 2
 acalypterae
