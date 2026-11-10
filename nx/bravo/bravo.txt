@@ -3033,7 +3033,7 @@ buccinum 2
 branglement 1
 bopping 2
 burgesses 4
-bakership 3
+bakership 4
 bartizans 3
 bourkha 3
 beigel 1
@@ -6293,7 +6293,7 @@ benthoscope 1
 bulgar 1
 benthoses 1
 bacteriolysin 3
-backwashes 2
+backwashes 3
 blockhouses 3
 blastie 1
 bunomastodontidae 2
@@ -10470,7 +10470,7 @@ blackfigured 3
 blowth 2
 blarnid 1
 bayoneteer 2
-brachysclereid
+brachysclereid 1
 blashy 2
 brands 3
 bemas 3
@@ -16464,7 +16464,7 @@ bunkoed
 bluenoser 1
 bloodshotten 4
 bendys 2
-beggable 1
+beggable 2
 bejazz 2
 besmell 1
 brevetting
