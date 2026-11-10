@@ -497,7 +497,7 @@ abit 2
 agriculture 3
 abbreviate 3
 amylemia 3
-antiscriptural 1
+antiscriptural 2
 agedly 3
 abiuret
 abjectedness 1
@@ -1655,7 +1655,7 @@ amygdaline 1
 accreditations
 absentmindedness
 autogenuous 1
-alist
+alist 1
 alliably 1
 anticonscriptive
 arsinoitherium 1
@@ -5518,7 +5518,7 @@ afterburning 3
 abigail 1
 aftercareer 1
 aminoquinoline 1
-amethystine 1
+amethystine 2
 aftercast
 aftercataract 1
 aloe 1
@@ -10616,7 +10616,7 @@ ambulatoriums 1
 alcuinian
 archduchy 2
 aequian 1
-absorptiveness 1
+absorptiveness 2
 anophele 2
 amygdalin 2
 alterocentric 3
@@ -15973,7 +15973,7 @@ acquital 2
 aliasing 3
 antiquated 1
 anticreational 2
-anacreontic 3
+anacreontic 4
 aceanthrenequinone
 abundantia 3
 anaplasmoses 1
@@ -23619,7 +23619,7 @@ aimed 2
 auntish 1
 auntly 4
 academizing 2
-auntliest
+auntliest 1
 auntlike 1
 auntre 3
 acidemia 1
@@ -25213,7 +25213,7 @@ apostatise 3
 adight 1
 atomists 2
 atlas
-anticked
+anticked 1
 antienzymatic
 aficionada
 acoupe
