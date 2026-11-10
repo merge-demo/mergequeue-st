@@ -1405,7 +1405,7 @@ fiddled 5
 fisheries 2
 funis 5
 fattishness 2
-fother 8
+fother 9
 frimitts 2
 flings 3
 freewheel 3
@@ -6124,7 +6124,7 @@ flounce 2
 flounced 4
 flounder 3
 frowardness 1
-faraway
+faraway 1
 faciata 6
 flourish 4
 fermion 2
