@@ -3163,7 +3163,7 @@ capella 1
 coatimondie 2
 closemouth 1
 caper 2
-caperbush 2
+caperbush 3
 capercaillie 1
 chaulmoogric 2
 colored 2
@@ -4715,7 +4715,7 @@ catty
 caddow 3
 compatibles 1
 caudles
-cyathi 3
+cyathi 4
 costalgia
 chapmen 2
 chugalugging 2
@@ -6646,7 +6646,7 @@ cambering 3
 copepods 1
 cottiers
 cedilla
-cedillas
+cedillas 1
 ceding 1
 cosheath 3
 chromule
@@ -7154,7 +7154,7 @@ caracas 3
 centranth 1
 centrarchid 1
 centrarchoid 2
-clar 3
+clar 4
 compare
 centraxonial 1
 centre
@@ -15429,7 +15429,7 @@ cruzadoes 1
 clarifiant
 clarificant 1
 clarification 2
-clarifier 1
+clarifier 2
 clarifiers 3
 chiefry 1
 clarifying 1
@@ -19079,7 +19079,7 @@ callable 2
 camb 3
 colliflower 2
 cruset 2
-craker 2
+craker 3
 colligate 3
 colligating
 cookbook 2
@@ -27109,7 +27109,7 @@ causability 2
 counterscalloped 1
 carpent 3
 counterscarp 1
-counterscoff 1
+counterscoff 2
 conscionableness
 chints 1
 counterscrutiny 1
@@ -27446,7 +27446,7 @@ cacesthesis 1
 cozier
 capillament 1
 colauxe 1
-cousinhood 1
+cousinhood 2
 centesimation 2
 choroidea
 chlorosulphonic
