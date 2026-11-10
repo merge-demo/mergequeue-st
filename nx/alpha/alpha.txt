@@ -2334,7 +2334,7 @@ acetamid 3
 accessless 2
 acidiferous 1
 argil 2
-aneurin 1
+aneurin 2
 arbtrn 2
 axletrees 1
 adderfish 2
@@ -6216,7 +6216,7 @@ agnosia
 antimonic 2
 anisogamic 1
 anthraces 1
-ablactate
+ablactate 1
 agnostics 2
 anon 1
 apoplexy 1
@@ -7389,7 +7389,7 @@ albergatrice 1
 anthropobiologist 4
 alberge 2
 alternating
-additively
+additively 1
 apometabolic 2
 alberghi 1
 aplite 1
@@ -14960,7 +14960,7 @@ averroism 1
 anticoagulant 3
 anticoagulation 2
 anticoagulative 2
-acariasis 1
+acariasis 2
 ampliate 1
 acosmistic
 argental 1
@@ -15790,7 +15790,7 @@ aegirine 1
 antipestilently 2
 ablauts 2
 agonistical 1
-anvilled 2
+anvilled 3
 aviolite 1
 amidic 1
 antiphylloxeric 2
@@ -19244,7 +19244,7 @@ attractions
 antitarnish 3
 amaranthus
 abirritant 1
-autotypes 1
+autotypes 2
 areal 2
 albified
 areasoner 2
@@ -24954,7 +24954,7 @@ auribromide 1
 anovular 6
 awaruite 1
 awat 1
-atomizing 2
+atomizing 3
 awater 1
 allophite 2
 abfarad 2
