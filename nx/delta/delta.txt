@@ -510,7 +510,7 @@ dallier 3
 dup 4
 dextromanual 3
 dribs 3
-diminishingturns 2
+diminishingturns 3
 discustom
 dromotropic 1
 dinophilus
@@ -589,7 +589,7 @@ dwarfishness 1
 dysodyle
 dicyclopentadienyliron 2
 dehydroretinol 1
-dividedly 1
+dividedly 2
 develin 1
 drawboy 3
 devotionalism 1
@@ -3464,7 +3464,7 @@ defogged 2
 disyllable 2
 dormered 3
 drogh 1
-didelphous
+didelphous 1
 dorism 1
 defoil 2
 dorsobranchiata 3
@@ -3779,7 +3779,7 @@ dunno
 deific
 dhobey 2
 deification 3
-dressiness
+dressiness 1
 drepanididae 4
 describes 1
 diarrhoea
@@ -4704,7 +4704,7 @@ dagswain 4
 democrat 1
 dawdles 2
 douar 3
-dogbody 4
+dogbody 5
 depraves 2
 dsnames 1
 democratic 2
@@ -5841,7 +5841,7 @@ dryopians 1
 deforceor 5
 depredate 2
 depredated 1
-definitiveness 7
+definitiveness 8
 diagnoses 2
 deleting 3
 droshky 4
@@ -7390,7 +7390,7 @@ discount 4
 demoniacally
 demiadult 1
 daguerreotypist 2
-decenyl 2
+decenyl 3
 detonations 2
 dusking 2
 demean 3
@@ -10523,7 +10523,7 @@ defected 1
 dionysian 3
 dipleurulas 2
 disbowels 3
-dialyzate
+dialyzate 1
 demipagan
 disserviceableness 2
 ddname 2
@@ -11305,7 +11305,7 @@ discerpible 1
 discerpibleness 4
 distrainee 5
 discerption 3
-difficulties 1
+difficulties 2
 diggers 1
 duteously
 dischargeable
@@ -14595,7 +14595,7 @@ divorcible 2
 diminue 3
 dropheads
 demosthenic 1
-developmentary 2
+developmentary 3
 decupling 5
 divorcive 2
 dietal 1
@@ -15547,7 +15547,7 @@ donzel 1
 discovering 3
 doubt 1
 dinky 1
-divelled 1
+divelled 2
 diathermize 2
 donzels 2
 diazobenzene 1
@@ -15560,7 +15560,7 @@ democratism 1
 doodlebug 2
 doodlers
 doodlesack 4
-demeanors
+demeanors 1
 deconcatenate 2
 determinedly 1
 dool 1
@@ -15661,7 +15661,7 @@ didrachma 4
 defatted 1
 decollator 3
 doric 1
-dopped 4
+dopped 5
 deforced 1
 detractiveness 1
 debile 1
@@ -16844,7 +16844,7 @@ disallowances 1
 decapitable 3
 dissuited 1
 drawgate 4
-dividers
+dividers 1
 deuteride 3
 downsliding 1
 donations 2
