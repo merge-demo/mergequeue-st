@@ -6646,7 +6646,7 @@ cambering 3
 copepods 1
 cottiers
 cedilla
-cedillas
+cedillas 1
 ceding 1
 cosheath 3
 chromule
@@ -15429,7 +15429,7 @@ cruzadoes 1
 clarifiant
 clarificant 1
 clarification 2
-clarifier 1
+clarifier 2
 clarifiers 3
 chiefry 1
 clarifying 1
