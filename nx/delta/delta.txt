@@ -9414,7 +9414,7 @@ dredge 3
 dismountable
 diffusions
 diffusive 3
-diffusors
+diffusors 1
 dalan 2
 dentolingual 1
 diabolus 1
