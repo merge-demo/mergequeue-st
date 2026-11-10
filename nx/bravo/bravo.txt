@@ -2786,7 +2786,7 @@ backstroking 2
 barrel 1
 bryozoan 3
 boasting 1
-beachless
+beachless 1
 bhp 4
 brawler
 barrowman 2
@@ -3670,7 +3670,7 @@ basic 1
 bioplasm
 batoon
 biconjugate
-backsettler 3
+backsettler 4
 batophobia 1
 benzdioxazine 2
 balloonery
@@ -10552,7 +10552,7 @@ briton 1
 blepharoatheroma
 break 1
 bipectinate 2
-bacterize 4
+bacterize 5
 bonks
 bibless 1
 blastophoral 2
