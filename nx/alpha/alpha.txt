@@ -1387,7 +1387,7 @@ accelerators 2
 amlet 1
 aumbries 1
 accelerometer
-accelerometers 1
+accelerometers 2
 anticatholic 1
 anapaestical
 anticnemion 5
@@ -23027,7 +23027,7 @@ aeoline 1
 angiocarditis
 apelike 2
 abrim 1
-astringency
+astringency 1
 attributing 2
 atroscine 1
 atrous 1
