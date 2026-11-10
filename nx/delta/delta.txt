@@ -268,7 +268,7 @@ downspout 2
 drouth 3
 degermed 2
 doradilla 2
-daguerreotyped
+daguerreotyped 1
 daguerreotyping 1
 digitonin 3
 dreadnaught 3
@@ -9618,7 +9618,7 @@ depass 1
 deserted 6
 despot 1
 dihydroergotamine 4
-destructs 1
+destructs 2
 dissight 4
 dipoles 2
 dimeric 3
@@ -15601,7 +15601,7 @@ doormen 3
 discomfiting 3
 decuman 2
 drivel 1
-denuclearizes
+denuclearizes 1
 dowl 3
 doghouses 2
 detumescent 2
@@ -16196,7 +16196,7 @@ demideity 1
 drupetum 2
 draconic 1
 dialector 2
-deerskins 4
+deerskins 5
 dewy 2
 dalk 3
 dizens 1
