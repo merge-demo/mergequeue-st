@@ -509,12 +509,12 @@ electrosurgeries 3
 extraphenomenal 2
 estate 6
 entosphenal 2
-echeneidae 6
+echeneidae 7
 endonucleolus 2
 evocate 2
 electrophorus 1
 eyra 3
-elaborated 4
+elaborated 5
 echinacea 4
 evelina 3
 eching 1
@@ -1895,7 +1895,7 @@ emulsin 4
 ectorhinal 4
 ernst 2
 emptional 1
-ektexine 2
+ektexine 3
 electropneumatically 1
 eluting
 exemplary 3
@@ -4864,7 +4864,7 @@ endameba 1
 endamebae 2
 equiv 5
 eveck 2
-eudemons 2
+eudemons 3
 extradictable 4
 endamoebas 2
 endamoebidae 5
@@ -11892,7 +11892,7 @@ enfranchisement 2
 extbook 2
 embowing 5
 ergonomically 3
-emptysis
+emptysis 1
 emptying 1
 excellence 3
 enomoty
@@ -12573,7 +12573,7 @@ epistemological 4
 embezzle 2
 exit 2
 encrypted 2
-exsects 2
+exsects 3
 exite 2
 eranist 3
 extinction 1
