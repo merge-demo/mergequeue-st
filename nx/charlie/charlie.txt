@@ -99,7 +99,7 @@ cabdriving 4
 corydora
 cabecudo 1
 capellet 1
-cabeliau 2
+cabeliau 3
 cabestro 3
 crang 1
 cabestros 1
@@ -926,7 +926,7 @@ cushily 1
 cakette 1
 chaptalization 1
 cakewalked
-cakewalker 2
+cakewalker 3
 cakewalking 3
 caressant
 carnotite 1
@@ -7457,7 +7457,7 @@ ceratohyal
 consentaneously
 ceratohyoid 2
 cartellist 1
-ceratonia 1
+ceratonia 2
 cicerones 1
 counterbrace 1
 clinically 1
@@ -28370,7 +28370,7 @@ chaptalized 1
 cierzos 1
 contributing 3
 crawlers 4
-creamometer
+creamometer 1
 crawlier
 crawliest
 crawlspace 1
