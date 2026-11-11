@@ -2089,7 +2089,7 @@ adstringe 1
 achape 2
 acharya 2
 apatheia 3
-antimatrimonialist
+antimatrimonialist 1
 alopiidae
 acharne 2
 arrope 1
@@ -2203,7 +2203,7 @@ alinasal 1
 ambrosin 2
 achirite
 achkan 3
-alcovinometer 2
+alcovinometer 3
 acidhead
 aimfully 3
 achlorhydria 1
@@ -3719,7 +3719,7 @@ armeriaceae
 autodigestion 4
 abnegation
 adenophorous 1
-acephalite 2
+acephalite 3
 accumulative 2
 adenopodous 2
 adenosarcomata 1
@@ -7827,7 +7827,7 @@ academias
 aphidicide
 albolith 1
 aldazine 1
-antithrombic 2
+antithrombic 3
 aldoheptose
 antigalactic 1
 aldol 1
@@ -11079,7 +11079,7 @@ amorphousness 1
 alleluia 2
 affirmatory
 anguishes
-anthropometer 1
+anthropometer 2
 archegone 3
 amorphus 2
 amerindian 2
@@ -14621,7 +14621,7 @@ archsteward 3
 answering 2
 anilinctus 2
 anthropotheistic 1
-antonyms 3
+antonyms 4
 anthoceros
 antidiphtherin 2
 anticline
@@ -15853,7 +15853,7 @@ alinota 5
 antipyrine 1
 annuli 2
 aryballoi 2
-aliseptal 1
+aliseptal 2
 antipyrotic 1
 aglobulism 1
 antiplanet 4
@@ -17840,7 +17840,7 @@ autoalkylation 1
 acrotretidae
 abacate 2
 appraisive 1
-almique 1
+almique 2
 appreciated
 appreciatingly 4
 appreciativ 1
