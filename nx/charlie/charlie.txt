@@ -1565,7 +1565,7 @@ crystal 3
 calliphorid 2
 celosia
 calliphoridae
-culled
+culled 1
 calliphorine
 callirrhoe
 callisaurus
@@ -3807,7 +3807,7 @@ carboazotine 2
 curcuma 1
 conrail
 carbodynamite
-carbohemoglobin 1
+carbohemoglobin 2
 calamodendron 2
 cribbling 2
 carbohydrase 3
@@ -13222,7 +13222,7 @@ cyclicalness 1
 cyclide 1
 cubeb 3
 cyclindroid 2
-characterized
+characterized 1
 cupelled
 cyclism 1
 choanoflagellida 1
@@ -17983,7 +17983,7 @@ coelococcus 2
 charioteers 1
 comet
 claymores 1
-coeloma 1
+coeloma 2
 coelomata 1
 companies 1
 conservatrix 2
