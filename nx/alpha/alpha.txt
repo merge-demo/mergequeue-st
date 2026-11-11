@@ -724,7 +724,7 @@ american
 animadversion 3
 antiaesthetic 1
 aboulia
-anoli 1
+anoli 2
 acupuncturists
 aboulic 1
 amyloplastic 1
@@ -1638,7 +1638,7 @@ agrostologist 2
 aneling 1
 accouterment 1
 arsenotungstic 2
-acemetic
+acemetic 1
 attouchement
 accoutre
 aminobenzamide 4
@@ -4220,7 +4220,7 @@ acetoxyls 1
 anabaptistically 3
 amalgamatize
 amalgamable
-actinometer 2
+actinometer 3
 adoptedly 1
 archaeornithes 2
 adoptee 1
@@ -4792,7 +4792,7 @@ abaris 2
 aequi
 ausgespielt 3
 aranein 1
-albuminimetry
+albuminimetry 1
 allogamy 3
 attemperation 1
 aequor 6
@@ -7863,7 +7863,7 @@ auriculoid 1
 amarantus
 ale 2
 adoze 1
-arctia 2
+arctia 3
 alea 3
 aleak 3
 aleatory 1
@@ -8716,7 +8716,7 @@ allelotropic 1
 ately 2
 attendantly 1
 abbotcy
-allelotropism
+allelotropism 1
 applesauce 1
 alleluiah 1
 agers
@@ -11400,7 +11400,7 @@ amphora 3
 amphorae 2
 acappella
 algors 2
-abbreviation 3
+abbreviation 4
 alohas
 apiator
 aperitif
@@ -12309,7 +12309,7 @@ ancilla 2
 anticks 1
 ancylopod 2
 acneiform 3
-acrider 2
+acrider 3
 anatropous
 antiecclesiastic 3
 alnico 1
@@ -14527,7 +14527,7 @@ anthropoglot 1
 aburst 4
 anthospermum 1
 anoplotheroid
-anthropography
+anthropography 1
 antalkalies 2
 animatism 1
 acritochromacy 2
@@ -15327,14 +15327,14 @@ aminosis
 antihalation 2
 alcantarines
 aglycone 1
-absoluteness
+absoluteness 1
 antiharmonist 2
 antihelix
 aitiotropic
 archeol 2
 anthracite
 adapters 3
-amperages 1
+amperages 2
 antihero 2
 amphoriskos 2
 azulejo 2
@@ -17318,7 +17318,7 @@ algaecide 1
 antiforeign
 apostatically 1
 appendicectasis 3
-abthain
+abthain 1
 arguers 6
 atroce 3
 astomatal
@@ -17687,7 +17687,7 @@ applausively 2
 arced 2
 averages 1
 appleblossom 4
-appled 2
+appled 3
 arillodium 2
 airborne 2
 allopaths
@@ -18057,7 +18057,7 @@ aeonic 1
 adlet
 arrenotokous 4
 areolate 1
-apterial
+apterial 1
 apterygidae 2
 apterygiformes 1
 almsgiver 3
@@ -18389,7 +18389,7 @@ aficionado 2
 andromorphous 4
 araneoidea 2
 arangoes 3
-aranyaka 1
+aranyaka 2
 aranzada 2
 ambivalent 2
 asoak 1
@@ -20269,7 +20269,7 @@ adpromission 1
 aribin 1
 arrogation 3
 adenyls 1
-antiquarism 1
+antiquarism 2
 aleutian 1
 adsignification 2
 arroyos 1
@@ -20663,11 +20663,11 @@ arthrozoa 2
 amaine 1
 annunciates 1
 antiliturgy 1
-afflicts
+afflicts 1
 alumines 1
 airs 3
 artiad
-artichoke 1
+artichoke 2
 acidimetrical 1
 afghani 1
 aspirates 1
@@ -21811,7 +21811,7 @@ androgyny 2
 alcoholised 2
 assessment
 advowry 2
-aphacial 2
+aphacial 3
 assessors
 anthophile 1
 apotheose 1
@@ -22719,7 +22719,7 @@ athletes 3
 areologically 1
 achenodium 1
 agkistrodon
-arthrology 2
+arthrology 3
 antioptimistically 4
 archy 1
 agribusinesses 3
