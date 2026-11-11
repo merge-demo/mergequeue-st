@@ -6039,7 +6039,7 @@ catholicize 1
 corotating 1
 catholicness 2
 centricipital
-catholicoi
+catholicoi 1
 chawia
 cytomorphological
 crinivorous 1
@@ -7718,7 +7718,7 @@ certain 3
 cuteys
 certainness
 cormorant 3
-cetin 1
+cetin 2
 certainty 2
 certhia 1
 caryatidic 3
@@ -10366,7 +10366,7 @@ cahoots 2
 chief
 chiefery
 cyatholith
-chiefest 1
+chiefest 2
 complicant 1
 cervalet
 chiefish 1
@@ -14776,7 +14776,7 @@ citizenize
 citizenly
 citizenry 2
 callithump 1
-corruptibleness
+corruptibleness 1
 cascan
 citizens
 cytoanalyzer
