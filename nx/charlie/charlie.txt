@@ -99,7 +99,7 @@ cabdriving 4
 corydora
 cabecudo 1
 capellet 1
-cabeliau 2
+cabeliau 3
 cabestro 3
 crang 1
 cabestros 1
@@ -926,7 +926,7 @@ cushily 1
 cakette 1
 chaptalization 1
 cakewalked
-cakewalker 2
+cakewalker 3
 cakewalking 3
 caressant
 carnotite 1
@@ -3368,7 +3368,7 @@ coderives 3
 caponize 1
 crispate 2
 caponized
-caponizer
+caponizer 1
 copyfitter 1
 caponizing 1
 caponniere 3
@@ -4462,7 +4462,7 @@ circumfusion 3
 colubridae 1
 companionage
 corallic 1
-canarin 1
+canarin 2
 carl 2
 coprincipate 1
 caseates
@@ -7457,7 +7457,7 @@ ceratohyal
 consentaneously
 ceratohyoid 2
 cartellist 1
-ceratonia 1
+ceratonia 2
 cicerones 1
 counterbrace 1
 clinically 1
@@ -7619,7 +7619,7 @@ chrysoeriol 1
 content 2
 ceremonial
 chiquero
-ceremonialism
+ceremonialism 1
 ceremonialist 1
 ceremonialize 2
 clangingly 4
@@ -11982,7 +11982,7 @@ chorioallantoid
 chorioallantois
 centrifugation 2
 cornbread 1
-counterculturist 2
+counterculturist 3
 choriocarcinomas 2
 choriocele 2
 corked
@@ -16847,7 +16847,7 @@ clubfooted 1
 clubhand 1
 crouching 3
 clubhands 1
-cerebralgia 2
+cerebralgia 3
 clubhaul 1
 correctant
 cupflower
@@ -18989,7 +18989,7 @@ ciseleur
 culbut 3
 colleaguing
 collect 1
-certify
+certify 1
 collected 1
 cranberry
 ctenoidean 1
@@ -28370,7 +28370,7 @@ chaptalized 1
 cierzos 1
 contributing 3
 crawlers 4
-creamometer
+creamometer 1
 crawlier
 crawliest
 crawlspace 1
