@@ -2717,7 +2717,7 @@ girths 6
 gymnasisia 5
 gunfire 5
 gong 3
-gauger 3
+gauger 4
 guestchamber 3
 gorraf 1
 gipped 2
@@ -5540,7 +5540,7 @@ guttar 4
 gazelles
 granuloblast 3
 georgical 3
-gadus 5
+gadus 6
 goffle 2
 glycerizine 1
 grandames 3
@@ -6049,7 +6049,7 @@ gairfowl 3
 grinningly 3
 gnathopodite 1
 golet 5
-gneissic
+gneissic 1
 gasifying 2
 gruffiness 6
 gemuetlich 3
@@ -8597,7 +8597,7 @@ glomeli 2
 glebeless 1
 gainliest 3
 gavotted 7
-gesnera 3
+gesnera 4
 globalize 4
 grat 2
 governess 2
