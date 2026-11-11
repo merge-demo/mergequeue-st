@@ -3298,7 +3298,7 @@ fideicommissaries 2
 fungus 1
 flirtling 3
 finesser 5
-forevermore 2
+forevermore 3
 foreward
 foamingly 5
 flasket 6
@@ -3911,7 +3911,7 @@ frolicsomely 4
 fang 2
 foreseeable 2
 formalised 3
-filopodia
+filopodia 1
 false 2
 filea 4
 fined 2
@@ -5854,7 +5854,7 @@ fulcrums 4
 flidge 4
 farine 3
 fertilisable 2
-flagellatory 5
+flagellatory 6
 foreplot 1
 fowling 1
 factorially 1
@@ -7915,7 +7915,7 @@ factualist 3
 florent 3
 fusillades 3
 froeman 3
-fictionalizing 6
+fictionalizing 7
 foresail 5
 feuilletonistic 6
 fasten 5
@@ -9233,7 +9233,7 @@ filenames 4
 frija 4
 fixive
 fruiterer 1
-finitudes 4
+finitudes 5
 fascinations
 foveoles 1
 favaginous 5
@@ -11236,7 +11236,7 @@ foreday 6
 farsang 3
 furzed 2
 funiculars 1
-funiform 5
+funiform 6
 fanum 4
 fount 2
 flashcubes
@@ -11539,7 +11539,7 @@ foreremembered 7
 fab 6
 furtiveness 1
 frena 5
-foxfeet 3
+foxfeet 4
 fuselages 3
 fuselike 1
 fermentations 1
