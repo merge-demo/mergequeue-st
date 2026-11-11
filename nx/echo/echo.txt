@@ -2121,7 +2121,7 @@ etherealise 3
 epitria
 exoneration
 endleaf 3
-enfoil 2
+enfoil 3
 exterminatress 1
 enanthematous 1
 epoxy 1
@@ -3651,7 +3651,7 @@ earned 4
 enwheeled 3
 embrectomy 2
 elaidic 4
-emergency
+emergency 1
 epiphloedic 2
 embrica 1
 embryectomy 4
@@ -5574,7 +5574,7 @@ endoproctous 4
 entyloma 2
 emus 5
 europe 5
-epistemology 5
+epistemology 6
 explodable 3
 enteroscopy 3
 elysium 5
@@ -7409,7 +7409,7 @@ extrafocal 5
 equianchorate 1
 electronographic 2
 eyess 3
-extracivically
+extracivically 1
 ephetae 5
 effulged 2
 expiators 2
@@ -8200,7 +8200,7 @@ epistena 2
 electrodiplomatic 3
 episternal 2
 entoloma 2
-emaceration
+emaceration 1
 erucic 4
 enjoying 2
 entozoa 2
@@ -10801,7 +10801,7 @@ exflagellate 3
 endosporic 4
 eumycete 2
 eulogiums 4
-endogenicity 1
+endogenicity 2
 elaborating 4
 emoting 1
 euskera 1
@@ -12173,7 +12173,7 @@ emphysematous
 esclavage 4
 energise 1
 elasticin 4
-exuviating 1
+exuviating 2
 electroshock 2
 exploits 2
 epicly 2
@@ -12365,7 +12365,7 @@ escaroles 1
 enstatite
 exerted 4
 entangled 1
-eviscerations 3
+eviscerations 4
 evectant 2
 exertionless 2
 eschscholtzia 2
@@ -12507,7 +12507,7 @@ escheatable 2
 exility 3
 exanthem 2
 expedited 5
-educatory 2
+educatory 3
 enneadic 2
 electrifying 3
 electroosmosis 1
