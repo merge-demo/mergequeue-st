@@ -781,7 +781,7 @@ autogyro 1
 agnition 1
 accordatura 1
 angustiseptal
-asperation
+asperation 1
 apogalacteum 1
 abrasively 3
 antirevolutionaries
@@ -21216,7 +21216,7 @@ akolouthia 1
 authenticalness 2
 asklepios 2
 amidoxime 4
-alabarch 1
+alabarch 2
 academial
 ashimmer
 ambarella 1
