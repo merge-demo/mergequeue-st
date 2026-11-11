@@ -112,7 +112,7 @@ featheredges 3
 fluidization 4
 facient 3
 furaldehyde 2
-facilitate 2
+facilitate 3
 flocks 5
 facilitation 3
 fluosilicate 1
@@ -8839,7 +8839,7 @@ frontosphenoidal 2
 fulfills 2
 flancard 3
 fecundation 1
-foxie
+foxie 1
 fixedly 1
 firebombing 2
 forgers 1
@@ -10998,7 +10998,7 @@ firstborn 4
 finland 2
 firebolt 4
 fleshlier 6
-furmities 4
+furmities 5
 flatuous 3
 floricin 4
 fumatoria 1
