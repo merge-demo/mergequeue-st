@@ -5962,7 +5962,7 @@ belts
 boigid 2
 backstitches 2
 bloodspilling 2
-beadlike 1
+beadlike 2
 bionomy 4
 broads 3
 belute 7
@@ -10708,7 +10708,7 @@ brooches 1
 blandisher 1
 boutell 4
 buffle 1
-bacillogenous
+bacillogenous 1
 benton 2
 balanophora
 browpiece
