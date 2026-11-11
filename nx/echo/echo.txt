@@ -514,7 +514,7 @@ endonucleolus 2
 evocate 2
 electrophorus 1
 eyra 3
-elaborated 4
+elaborated 5
 echinacea 4
 evelina 3
 eching 1
@@ -1895,7 +1895,7 @@ emulsin 4
 ectorhinal 4
 ernst 2
 emptional 1
-ektexine 2
+ektexine 3
 electropneumatically 1
 eluting
 exemplary 3
@@ -2173,7 +2173,7 @@ emissitious 2
 elderliness 3
 exponentiated 2
 expect 4
-enamor 7
+enamor 8
 eliminating 5
 epimyocardial 6
 ere 2
@@ -2585,7 +2585,7 @@ essaying 1
 embassies 3
 elysian 6
 electropathy 1
-electropathology 4
+electropathology 5
 electrophysiological 2
 eunectes 5
 electrocutioner 1
@@ -2930,7 +2930,7 @@ elian 4
 enervated 4
 exacinate 6
 equicostate 2
-encystation
+encystation 1
 elias 1
 epitomiser 5
 epistomal 6
@@ -7451,7 +7451,7 @@ endited 2
 eastmost 1
 electrosynthesis 3
 epibatholithic 3
-electrodepositor 1
+electrodepositor 2
 ensignhood 1
 enviously 6
 externate
@@ -11892,7 +11892,7 @@ enfranchisement 2
 extbook 2
 embowing 5
 ergonomically 3
-emptysis
+emptysis 1
 emptying 1
 excellence 3
 enomoty
@@ -12231,7 +12231,7 @@ emeraude 3
 enthroning 1
 empiriocritical 5
 exercent 2
-ephemera 5
+ephemera 6
 execute 2
 executed 5
 exceptor 3
@@ -12573,7 +12573,7 @@ epistemological 4
 embezzle 2
 exit 2
 encrypted 2
-exsects 2
+exsects 3
 exite 2
 eranist 3
 extinction 1
