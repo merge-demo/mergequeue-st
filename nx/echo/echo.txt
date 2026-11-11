@@ -7105,7 +7105,7 @@ eucaryote
 equimolar 4
 eremophyte 2
 extraequilibrium 2
-enwallow
+enwallow 1
 excandescence 2
 earthshine 1
 endymion 6
@@ -10325,7 +10325,7 @@ epipastic 4
 exporting 4
 eroticist 2
 eclecticist 3
-extraquiz 3
+extraquiz 4
 epibole 1
 ethnogeographic 2
 extirpator 7
