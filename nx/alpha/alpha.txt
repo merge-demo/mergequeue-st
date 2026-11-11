@@ -368,7 +368,7 @@ aerophone 1
 abdicate 1
 aberrancy 2
 aberrantly 2
-aberrants
+aberrants 1
 aberrating 2
 astrogonic 1
 arrival 3
@@ -3856,7 +3856,7 @@ alcoranist 3
 accipitrary 2
 acaridea 2
 adiathetic
-adiating 1
+adiating 2
 addends 1
 adiation 1
 arugolas 1
@@ -7006,7 +7006,7 @@ airts 1
 aquila 1
 aitutakian 2
 algerine 3
-activize 1
+activize 2
 aminoplast 1
 avocationally 2
 atokal 2
@@ -7991,7 +7991,7 @@ acetphenetidin 2
 aletap 1
 actos
 autarchy 2
-arabin 1
+arabin 2
 arabist 2
 angie 1
 alethiologist 1
@@ -13160,7 +13160,7 @@ animadversional 4
 almuten 3
 animadverted 1
 animadverter 1
-analgene 2
+analgene 3
 anthracyl 1
 accretes 2
 allect 1
@@ -15992,7 +15992,7 @@ aughts 1
 acubens 1
 arecolidine 3
 albumenise 2
-autophonous
+autophonous 1
 aromatiser 4
 advisable 1
 atreus
@@ -19286,7 +19286,7 @@ arenilitic 3
 arenites 4
 anthraquinonyl
 alberca 1
-aristas 4
+aristas 5
 absentmindedly 1
 arenoid
 alation 1
@@ -21428,7 +21428,7 @@ archaeogeology 1
 animando
 aspartame 1
 anathematized 2
-atimy
+atimy 1
 aspect 1
 aspectable 6
 aspectant 4
@@ -24304,7 +24304,7 @@ auteur 4
 abacinate 1
 achafe 1
 autophon 2
-acronic 2
+acronic 3
 aftertaste 1
 althaein
 advenient 2
