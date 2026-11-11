@@ -2582,7 +2582,7 @@ fishponds
 feinting 2
 fumes 2
 forechase 3
-fogramity 2
+fogramity 3
 flongs 5
 ferrocyanate 1
 formicid 1
@@ -8524,7 +8524,7 @@ frontierman 1
 flustration 2
 frow 3
 figment
-flyting 5
+flyting 6
 forked 1
 formica 8
 foolishly 4
@@ -9407,7 +9407,7 @@ frying 4
 facesaving 4
 formularisation 4
 foretimed 5
-fritillaria 4
+fritillaria 5
 federator
 frigatoon 2
 fascinates 4
@@ -11619,7 +11619,7 @@ forewinning
 fulgour 1
 formulizer 1
 fragilely 5
-fermata 1
+fermata 2
 feedman 1
 fustics 4
 feinschmecker 2
