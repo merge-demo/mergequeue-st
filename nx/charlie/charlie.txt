@@ -1565,7 +1565,7 @@ crystal 3
 calliphorid 2
 celosia
 calliphoridae
-culled
+culled 1
 calliphorine
 callirrhoe
 callisaurus
@@ -1641,7 +1641,7 @@ cyathophylloid
 courtrooms 1
 collectibles 2
 calmed 2
-coazervation 3
+coazervation 4
 centrobaric 1
 crureus
 calmest 1
@@ -13222,7 +13222,7 @@ cyclicalness 1
 cyclide 1
 cubeb 3
 cyclindroid 2
-characterized
+characterized 1
 cupelled
 cyclism 1
 choanoflagellida 1
@@ -17147,7 +17147,7 @@ coagel 1
 contractibleness
 counterdemonstration 2
 chrysopee
-coeloms
+coeloms 1
 caftan
 customary 2
 countermount 1
@@ -17983,7 +17983,7 @@ coelococcus 2
 charioteers 1
 comet
 claymores 1
-coeloma 1
+coeloma 2
 coelomata 1
 companies 1
 conservatrix 2
@@ -19496,7 +19496,7 @@ centure
 chilblain 1
 colourless 1
 ceruleum
-colourman 1
+colourman 2
 colpenchyma 1
 closet 2
 colpindach 1
@@ -21107,7 +21107,7 @@ connivence 2
 conarial 2
 conarium
 champacol
-conationalistic 2
+conationalistic 3
 comelily 3
 curatic 1
 conations 1
@@ -22155,7 +22155,7 @@ cogitatively 3
 confraternal
 cigala 2
 confreres
-circumcorneal
+circumcorneal 1
 cupric 2
 crocheters
 colpeurynter 1
@@ -22212,7 +22212,7 @@ crematoriums 2
 cresotate 2
 connusable
 characterizer 2
-chigger
+chigger 1
 campanularian
 choicer
 cloxacillin 2
@@ -23941,7 +23941,7 @@ contusive 2
 conns 5
 cicadellidae
 conf 2
-chaffing 1
+chaffing 2
 clysmic 2
 conubium
 conularia 2
@@ -29460,7 +29460,7 @@ crystallisability 2
 caramel 1
 correctedness 1
 cueist
-circuiter
+circuiter 1
 candlewicking 3
 crystallising 1
 crystallites 1
@@ -30199,7 +30199,7 @@ craftily
 cryptocleidus 1
 cruciformity 1
 cruciformly 1
-crucily
+crucily 1
 cruck 1
 cyclize 1
 crud 2
