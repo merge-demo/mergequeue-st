@@ -265,7 +265,7 @@ gizmo 3
 glyph 2
 grapta 5
 grenada 3
-gnomon
+gnomon 1
 glauconiferous 4
 glomeroporphyritic 5
 groser 3
@@ -1313,7 +1313,7 @@ garget 3
 gibbousness 2
 goodie 2
 gamekeeping 3
-ginglymoid 2
+ginglymoid 3
 gateward
 gibbered 2
 gas 3
@@ -3501,7 +3501,7 @@ geomagnetist 2
 gluconeogenesis 4
 grugru 1
 gunslinging 1
-grinded 6
+grinded 7
 guideress 4
 geo 2
 gloats 3
@@ -5308,7 +5308,7 @@ gombeenism 6
 goofer 2
 gonopod 2
 generalisation 4
-goiters 2
+goiters 3
 gormands 3
 ganoses 2
 gipsyism 2
@@ -7816,7 +7816,7 @@ gemmative 6
 grudgeful 5
 guapena 4
 grayling 1
-galivanted 1
+galivanted 2
 guessers 2
 girnal 6
 glacial 2
@@ -8769,7 +8769,7 @@ gobbin 8
 germling 2
 gaypoo 3
 gladless 5
-gagged 1
+gagged 2
 gralloch 2
 gaged
 graminaceous 5
