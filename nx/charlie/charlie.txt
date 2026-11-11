@@ -5459,7 +5459,7 @@ clepes 3
 castoffs
 castoreum
 caftaned
-culverwort 1
+culverwort 2
 castra 3
 castrates 2
 covertical 1
@@ -10668,7 +10668,7 @@ coprolite 1
 compassless 3
 chymia 2
 chymics 2
-chymify 1
+chymify 2
 cobnuts 1
 confide
 cholinesterase 1
@@ -20839,7 +20839,7 @@ carded
 corbiestep
 cerealism
 concurred
-capacitors
+capacitors 1
 conspissate 1
 contentedness 1
 compos
