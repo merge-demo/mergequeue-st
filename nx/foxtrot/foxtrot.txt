@@ -3590,7 +3590,7 @@ fairbanks 2
 fourniture 2
 flashover 4
 fardels 4
-flank 2
+flank 3
 fructification 1
 felinity 2
 floorway 3
@@ -6121,7 +6121,7 @@ frightenedly 3
 foxtongue 2
 fenster 2
 flounce 2
-flounced 4
+flounced 5
 flounder 3
 frowardness 1
 faraway 1
@@ -7753,7 +7753,7 @@ frere 9
 foreshaft 5
 forelook 1
 femmes 2
-fauvist 6
+fauvist 7
 facer 1
 fanfaronade 3
 flower 7
@@ -8959,7 +8959,7 @@ fokker 4
 fluidic 1
 frontiers 3
 fantastico 4
-forethoughtful 4
+forethoughtful 5
 fivefoldness 3
 fosite 1
 foundrymen 2
