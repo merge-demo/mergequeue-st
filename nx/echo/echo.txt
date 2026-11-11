@@ -917,7 +917,7 @@ efreet 2
 ensisternal 1
 equipping
 endowments 3
-endorsements 3
+endorsements 4
 electrophoretic
 ectropion 5
 eluvia 4
@@ -1289,7 +1289,7 @@ equalized 2
 euripos 3
 excitometabolic 2
 effacers
-exhilarated
+exhilarated 1
 exumbrellar 4
 effect 2
 endocardiac
@@ -5368,7 +5368,7 @@ empathetic 4
 eightsman 3
 example 3
 elsewhither 2
-electronvolt
+electronvolt 1
 exegetical 1
 ergotization 3
 expendables 1
@@ -12022,7 +12022,7 @@ epithermally 2
 exclamatory 3
 exclaves 6
 excavational 1
-expensed 5
+expensed 6
 eryngium 1
 everyone 1
 enterfeat 4
