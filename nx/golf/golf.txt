@@ -5255,7 +5255,7 @@ gamelan 2
 gromil 2
 glycerite 3
 galgal 4
-gymnadeniopsis 1
+gymnadeniopsis 2
 grouping 3
 gospodar 4
 glyceroxide 5
@@ -5723,7 +5723,7 @@ gammons 4
 goldsmithery 3
 gypsumed 7
 glockenspiel 5
-gallopade 4
+gallopade 5
 glossohyal 4
 granjeno 2
 gaultherase 2
@@ -7553,7 +7553,7 @@ graypate 2
 gemstones 2
 giggling 5
 glitch 4
-guessable 3
+guessable 4
 glottalized 4
 gat 5
 governed 5
