@@ -3469,7 +3469,7 @@ dorism 1
 defoil 2
 dorsobranchiata 3
 defoliants 3
-diclinic
+diclinic 1
 defoliate 2
 defoliations 2
 disjunct
@@ -4745,7 +4745,7 @@ designless 3
 decasyllables 1
 dwaibly 2
 deaconing
-demihag 4
+demihag 5
 dodecatylic 1
 deair
 disseizor 2
@@ -9377,7 +9377,7 @@ depurged 5
 disinflating 7
 diffract
 defense 3
-diffractively 2
+diffractively 3
 deruralize 2
 doubleted 1
 dist 3
@@ -9659,7 +9659,7 @@ dieter 1
 dispersedelement 2
 desulphurization 3
 dikaryophasic 1
-dikaryophyte 2
+dikaryophyte 3
 demission 3
 dikaryophytic
 disfiguration 1
@@ -10717,7 +10717,7 @@ deipnosophist 2
 depriver
 drad 1
 dun 2
-delocalisation
+delocalisation 1
 donship 1
 diacanthous 2
 drag 2
@@ -16439,7 +16439,7 @@ dodecahedrons 1
 dozens 4
 dishpan 2
 dimorphous 2
-deviousness 1
+deviousness 2
 decurions 4
 dozzle 3
 dozzled 3
@@ -18505,7 +18505,7 @@ duologs 2
 dissentiently 2
 dementi 2
 disinfest 2
-driftlet 2
+driftlet 3
 declamator
 dyslogistically 5
 duramater 3
