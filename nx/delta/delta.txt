@@ -9725,7 +9725,7 @@ demultiplexes 2
 dab 1
 dodonaean 2
 deodaras 2
-delouse 2
+delouse 3
 dilater 2
 deforcement 2
 decussated 2
@@ -15520,7 +15520,7 @@ donkeyman 1
 draffman 7
 decahedra
 dessert 4
-directness 1
+directness 2
 duggler
 donkeywork 5
 dilator 2
@@ -15976,7 +15976,7 @@ dumfounds
 dd 1
 dermestidae 1
 ducato
-dammara
+dammara 1
 dottier 2
 dragonnade
 dia 2
