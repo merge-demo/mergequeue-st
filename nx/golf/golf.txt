@@ -475,7 +475,7 @@ glutoid 1
 galeorhinidae 5
 galere 4
 golpe 1
-gipsies 1
+gipsies 2
 galericulate 4
 groomers 3
 goudy 5
@@ -6317,7 +6317,7 @@ grail 2
 goosenecked 6
 geomance 5
 gemots
-gearings 3
+gearings 4
 genarchaship 2
 graptoloidea 3
 goatsucker 7
@@ -7749,7 +7749,7 @@ gamins 5
 grouf 4
 grufted 6
 grewsome 1
-gliomatous
+gliomatous 1
 generalism 4
 gyassa 1
 gelandelaufer 3
@@ -10074,7 +10074,7 @@ geoffroyin 3
 gonads 2
 gypsies 5
 grub 5
-guyot 2
+guyot 3
 griddle 1
 gibsons 2
 galahs 4
@@ -10120,7 +10120,7 @@ grocer 5
 glottologic 3
 gaby 2
 guglet 2
-goldenhair 3
+goldenhair 4
 gastriloquy 2
 gynecocracy 2
 galways 4
