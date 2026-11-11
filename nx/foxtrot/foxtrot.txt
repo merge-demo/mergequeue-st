@@ -47,7 +47,7 @@ figurette 4
 flatuosity 3
 fruited 2
 finds 2
-floorboard
+floorboard 1
 foolhardihood 4
 few 4
 feedway 3
@@ -633,7 +633,7 @@ fikey 5
 forwarding 1
 fimetic 7
 farrand 1
-featherbedding 3
+featherbedding 4
 farnesol 2
 flakage 3
 fluotitanic 3
@@ -1678,7 +1678,7 @@ fondlike 4
 frangible 2
 ferrament 3
 fleeching 3
-furnace 5
+furnace 6
 fingertip 7
 foreordaining 5
 forehandsel 3
@@ -1774,7 +1774,7 @@ foghorns 2
 feedbox 2
 futurology 6
 foreannounce 2
-fadingness 1
+fadingness 2
 filmiform 5
 femorococcygeal 2
 freewill 3
@@ -2618,7 +2618,7 @@ financiere 1
 filmed 3
 fooless 3
 fratchy 4
-farish 6
+farish 7
 formalistic
 fountainless 4
 frivol 3
@@ -6068,7 +6068,7 @@ featness 6
 flocculating 6
 frayn 4
 feezing 1
-floridity 4
+floridity 5
 floriscope 3
 fetterbush 2
 faba 1
@@ -6157,7 +6157,7 @@ fraughts 3
 furiosity 2
 ferrums
 fuses 1
-fewness 5
+fewness 6
 fcp 1
 fewneses
 flowcharted 3
@@ -6507,7 +6507,7 @@ filmlands 4
 frills 2
 falter 4
 facility 1
-forgie 5
+forgie 6
 farweltered 1
 fip 10
 failsoft 4
@@ -9438,7 +9438,7 @@ footgears 1
 firkins 5
 fantad 1
 flatways 4
-fecal 3
+fecal 4
 fileted 2
 fantastical 3
 facing 4
@@ -11657,7 +11657,7 @@ funerealness 1
 fusus 2
 feedlot 2
 fanion 1
-filoselle 5
+filoselle 6
 foretalking
 forcingly 5
 farasula 3
