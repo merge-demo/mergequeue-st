@@ -1148,7 +1148,7 @@ berne 2
 banquets 3
 babakoto 2
 backwall 3
-borates 3
+borates 4
 botete
 bankman 3
 bountree 1
@@ -1181,7 +1181,7 @@ birrs 2
 bupleurol 2
 bronzitite 3
 bile 1
-burgus 3
+burgus 4
 bradyphrasia 1
 blennoma 1
 bajarigar 3
@@ -3590,7 +3590,7 @@ bathysphere 3
 bigmouths
 boliviano 1
 bathythermograph 4
-bipartite 2
+bipartite 3
 bathmat
 bathmats 1
 broodsac 3
@@ -4129,7 +4129,7 @@ beslimer 2
 beards 4
 barbers 1
 birthroot 1
-bombazette 3
+bombazette 4
 bedrenched 2
 bras 3
 brachycera 2
@@ -8398,7 +8398,7 @@ baronetized
 byhand
 bicarpellate 1
 bija 2
-bijasal
+bijasal 1
 bijections 2
 bree 3
 bijou 1
@@ -9092,7 +9092,7 @@ breunnerite 2
 brittlewort 1
 bidented 2
 brown 4
-bandagist 3
+bandagist 4
 bicolours
 bays 2
 buzzwords 3
@@ -10430,7 +10430,7 @@ berskin 1
 blanks 1
 bargainable
 byrewoman
-boltmaking
+boltmaking 1
 beesting 1
 baritone 2
 broidery 2
@@ -11927,7 +11927,7 @@ bloodshedder 2
 basinasial 4
 baggily 3
 bogach 1
-becrush 3
+becrush 4
 berth 2
 bushelwoman 4
 bruins 2
@@ -12707,7 +12707,7 @@ bungarus 1
 beautifier
 boroughmongering 3
 benchless 1
-baldachini 3
+baldachini 4
 backhander 2
 bushmaster
 bibulously 3
@@ -14233,7 +14233,7 @@ bromohydrate
 bassia 1
 bronzes 3
 bisectional 1
-bradydactylia 3
+bradydactylia 4
 bisulfide
 bepowder 1
 belamour 1
@@ -15049,7 +15049,7 @@ brimfull 1
 basenji 5
 barelegged 5
 breechcloths 2
-biosatellite 3
+biosatellite 4
 benzdiazine 3
 barraters 2
 breedable
@@ -16866,7 +16866,7 @@ bigger 1
 buffing 4
 breards 1
 bufflehead 2
-breekums 2
+breekums 3
 bounders
 buffont 2
 bactericidally
@@ -18086,7 +18086,7 @@ bidi 1
 butadiyne 3
 beshout 1
 berthierite 1
-butane 3
+butane 4
 butanoic 1
 bismuthite 1
 burgage 5
