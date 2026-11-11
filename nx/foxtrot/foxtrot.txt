@@ -1774,7 +1774,7 @@ foghorns 2
 feedbox 2
 futurology 6
 foreannounce 2
-fadingness 1
+fadingness 2
 filmiform 5
 femorococcygeal 2
 freewill 3
@@ -2618,7 +2618,7 @@ financiere 1
 filmed 3
 fooless 3
 fratchy 4
-farish 6
+farish 7
 formalistic
 fountainless 4
 frivol 3
@@ -6068,7 +6068,7 @@ featness 6
 flocculating 6
 frayn 4
 feezing 1
-floridity 4
+floridity 5
 floriscope 3
 fetterbush 2
 faba 1
@@ -6157,7 +6157,7 @@ fraughts 3
 furiosity 2
 ferrums
 fuses 1
-fewness 5
+fewness 6
 fcp 1
 fewneses
 flowcharted 3
@@ -6957,14 +6957,14 @@ flub 3
 familistere 3
 ferthumlungur 5
 fobbing 2
-fumarase 6
+fumarase 7
 fibromatosis 3
 fauconnier
 ferrocyanic 2
 fisherpeople 6
 flaky 5
 fostership 2
-flusherman 5
+flusherman 6
 follily 3
 feeblemindedness 2
 fungivorous 1
@@ -7571,7 +7571,7 @@ fragor 2
 fernseed 5
 foreclosure 3
 fevering 4
-fodientia 2
+fodientia 3
 forecommend 2
 foreconclude 3
 flagonet 5
@@ -10771,7 +10771,7 @@ focuses 3
 flat 2
 felup 3
 fomentation 3
-friendships
+friendships 1
 fleeing 6
 flagstaves 3
 flirter 4
