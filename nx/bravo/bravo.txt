@@ -3577,7 +3577,7 @@ bathing
 bastinadoes 3
 beckoning
 bridgekeeper 3
-balon
+balon 1
 barricade 2
 byronish
 brushy
@@ -4617,7 +4617,7 @@ bellowing
 baric 3
 brachelytrous 1
 barbituism 3
-boanerges 1
+boanerges 2
 bouts 1
 beddingroll 3
 bubble 3
@@ -11262,7 +11262,7 @@ bertrand
 blotto 5
 byway 2
 bigwiggism 3
-botteghe 1
+botteghe 2
 betelnut
 biassed 5
 bloodguiltiness 1
@@ -13049,7 +13049,7 @@ bonded 1
 berger 1
 bordeaux 1
 blancard 1
-biennials 1
+biennials 2
 besteading 1
 blackberry
 bucking 1
