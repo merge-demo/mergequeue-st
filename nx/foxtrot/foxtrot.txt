@@ -79,7 +79,7 @@ facemark 8
 flunkeyhood 1
 forme 4
 filching 4
-faces 3
+faces 4
 folkright 4
 flattening 1
 flowerfence 4
@@ -630,7 +630,7 @@ fortitudinous 3
 fictionalization 3
 finickingly 4
 fikey 5
-forwarding 1
+forwarding 2
 fimetic 7
 farrand 1
 featherbedding 4
@@ -768,7 +768,7 @@ forecovert 2
 fecundize 2
 fluorines
 financing 2
-flunker 2
+flunker 3
 folkloric
 footworn 1
 fulmen 1
@@ -2412,7 +2412,7 @@ frizettes 2
 flakelet 4
 fistularia 3
 flavous 1
-filipuncture 5
+filipuncture 6
 felanders 1
 flytiers 1
 frenchness 2
@@ -4962,7 +4962,7 @@ fan 4
 facepiece 2
 floorages 1
 flamingant 4
-foremarch 3
+foremarch 4
 flaminical 5
 fomenters 5
 flowcharting 1
@@ -7864,7 +7864,7 @@ fellen 3
 findings 5
 foreplay 4
 feudally 5
-fratricides 5
+fratricides 6
 fencible 7
 flits 4
 frolicked 3
