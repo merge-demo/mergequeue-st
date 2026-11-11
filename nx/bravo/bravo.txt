@@ -9092,7 +9092,7 @@ breunnerite 2
 brittlewort 1
 bidented 2
 brown 4
-bandagist 3
+bandagist 4
 bicolours
 bays 2
 buzzwords 3
@@ -10430,7 +10430,7 @@ berskin 1
 blanks 1
 bargainable
 byrewoman
-boltmaking
+boltmaking 1
 beesting 1
 baritone 2
 broidery 2
