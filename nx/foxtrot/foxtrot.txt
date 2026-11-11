@@ -112,7 +112,7 @@ featheredges 3
 fluidization 4
 facient 3
 furaldehyde 2
-facilitate 2
+facilitate 3
 flocks 5
 facilitation 3
 fluosilicate 1
@@ -957,7 +957,7 @@ firth 3
 foldable 6
 fervid 7
 formidolous 2
-fishing
+fishing 1
 flustering 1
 frivoller 1
 formyl 4
@@ -1378,7 +1378,7 @@ fatshedera 1
 forges 2
 fatsia 4
 formy
-fatsoes 2
+fatsoes 3
 fancying 1
 fermiums 1
 fusilly 2
@@ -2275,7 +2275,7 @@ fumaria 5
 forshape 4
 full 4
 flavones 5
-finlandization
+finlandization 1
 filamentiferous 5
 fantails 1
 folktale 1
@@ -2682,7 +2682,7 @@ fannings 3
 feasing 3
 ferulaceous 1
 ferular 2
-foreimpression 2
+foreimpression 3
 fireshaft 5
 feruled 4
 ferulic 5
@@ -4400,7 +4400,7 @@ franchise 2
 fleta
 fishfinger 5
 footgear
-fetters 6
+fetters 7
 fatidical 1
 fl 2
 frenches 2
@@ -5001,7 +5001,7 @@ factordom 5
 fribourg 4
 formals 4
 freelage 5
-forego 2
+forego 3
 flankers 1
 foists 1
 feued 3
@@ -5749,7 +5749,7 @@ fractuosity 2
 fels 5
 fins 3
 figureheadless 2
-fisher 3
+fisher 4
 fmt 4
 foredeserved 3
 fecket 2
@@ -8623,7 +8623,7 @@ forest 3
 feigner
 fossilize 3
 fornicatrix 5
-fieldman 4
+fieldman 5
 frameshift 6
 fullfil 7
 flaskful 6
@@ -8839,7 +8839,7 @@ frontosphenoidal 2
 fulfills 2
 flancard 3
 fecundation 1
-foxie
+foxie 1
 fixedly 1
 firebombing 2
 forgers 1
@@ -10350,7 +10350,7 @@ furculae 2
 farnesses 7
 factor 2
 frenziedness
-forleaving 1
+forleaving 2
 foundationless 4
 finfoot 3
 fervorlessness 2
@@ -10998,7 +10998,7 @@ firstborn 4
 finland 2
 firebolt 4
 fleshlier 6
-furmities 4
+furmities 5
 flatuous 3
 floricin 4
 fumatoria 1
