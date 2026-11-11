@@ -15246,7 +15246,7 @@ dix 2
 drawoff 1
 dealbuminize 3
 dissectible 6
-durante 1
+durante 2
 dendroclastic 1
 disconcerted 1
 devant 1
@@ -15439,7 +15439,7 @@ duffing 1
 doublehandedness
 dopehead 1
 demonstratory 1
-dope
+dope 1
 divinities 2
 dressy 2
 derve
