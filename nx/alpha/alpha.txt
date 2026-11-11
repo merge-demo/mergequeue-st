@@ -781,7 +781,7 @@ autogyro 1
 agnition 1
 accordatura 1
 angustiseptal
-asperation
+asperation 1
 apogalacteum 1
 abrasively 3
 antirevolutionaries
@@ -2401,7 +2401,7 @@ apprehend
 autocrat 4
 aciform 3
 audubonistic 2
-abet
+abet 1
 anarithia 3
 anomie 1
 aftercare
@@ -4528,7 +4528,7 @@ adventitial 1
 anhydrating 2
 aerobiotically 2
 admiralty 1
-adventitiousness 1
+adventitiousness 2
 archdemon 2
 adventive 3
 adventively 1
@@ -5853,7 +5853,7 @@ aligner 2
 aisteoir 1
 agatized 1
 anuric 2
-agatizes
+agatizes 1
 agatizing 1
 agatoid 1
 arctan 3
@@ -6949,7 +6949,7 @@ antisepticized 3
 airspaces 1
 ancience 3
 alec 3
-airspeeds 1
+airspeeds 2
 adrent
 airt
 actionability
@@ -9234,7 +9234,7 @@ auctions 1
 audit 1
 abiologically 1
 arriviste 1
-antiknock
+antiknock 1
 almury 4
 alnage 1
 alnaschar
@@ -15163,7 +15163,7 @@ absents
 antiapoplectic
 antienthusiastic
 antienvironmentalism
-antienvironmentalists 3
+antienvironmentalists 4
 ataxonomic 1
 azimine
 antienzyme 1
@@ -20325,7 +20325,7 @@ automatization 4
 anarchic 3
 afley
 aeromedicine 1
-aseptol 3
+aseptol 4
 arrogate 4
 antenarial 1
 anemonal 1
@@ -21202,7 +21202,7 @@ ashamnu 2
 aggrandizers 1
 archilla
 amazonism 1
-albatas 3
+albatas 4
 amelia 1
 afterthoughted 1
 ashery
@@ -21216,7 +21216,7 @@ akolouthia 1
 authenticalness 2
 asklepios 2
 amidoxime 4
-alabarch 1
+alabarch 2
 academial
 ashimmer
 ambarella 1
@@ -22083,7 +22083,7 @@ anviltop
 arethuse 1
 aprons 1
 armied 1
-adhesives 1
+adhesives 2
 astereognosis 1
 arthrosporic
 aburban 3
