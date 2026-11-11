@@ -1026,7 +1026,7 @@ calathidia 1
 chamberlainship 2
 calathiform 1
 calathiscus 3
-calathos 2
+calathos 3
 crapshooter 2
 cyrilla
 capsulated 1
@@ -1316,7 +1316,7 @@ calibers 4
 colunar 2
 calibrated
 calibrater 1
-calibrates
+calibrates 1
 cloison
 catchwater 2
 calibrating 1
@@ -3614,7 +3614,7 @@ carabids 2
 cappy
 colorist 2
 chauri
-carabine 1
+carabine 2
 carabiner
 carabineros 1
 claik
@@ -8921,7 +8921,7 @@ chargeable
 ciphertext 1
 clements 1
 chargeably
-chargeant
+chargeant 1
 charged
 cupping 3
 chargee
@@ -11959,7 +11959,7 @@ cowhages 1
 chondroganoidei 1
 cane 2
 chores 3
-crwths
+crwths 1
 choreus 1
 choreutic
 chorial
@@ -15426,7 +15426,7 @@ claribella 1
 cellifugal
 chuddar
 cruzadoes 1
-clarifiant
+clarifiant 1
 clarificant 1
 clarification 2
 clarifier 2
@@ -15620,7 +15620,7 @@ cupressaceae
 carillonning 1
 claucht 1
 claude 2
-cochins 1
+cochins 2
 cholesterinemia 2
 claudetites 2
 coupleress
@@ -27742,7 +27742,7 @@ clinochlore 1
 cytidines 1
 coleus 2
 cowpoxes
-consortium
+consortium 1
 chuprassi 1
 champagnizing
 cowry 1
