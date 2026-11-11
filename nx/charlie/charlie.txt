@@ -2709,7 +2709,7 @@ clingfish
 canker
 cankerbird 1
 chaperone 1
-carriable
+carriable 1
 cankered 1
 codders 1
 cephalosporium 3
@@ -3652,7 +3652,7 @@ caracolling
 caracora 3
 caract 1
 caractacus
-caradoc 1
+caradoc 2
 carafes
 craspedote 2
 censors 1
@@ -6765,7 +6765,7 @@ celibacy
 crassly 1
 costard 2
 celibatic
-conducent 3
+conducent 4
 colonopexy 1
 coroun 1
 celibatory 2
@@ -9307,7 +9307,7 @@ castrate
 chullo 2
 chaulmaugra 2
 chaulmoogra 2
-choralist 4
+choralist 5
 cytodendrite 1
 chaumiere 2
 chauna 1
@@ -11883,7 +11883,7 @@ concio 1
 cassapanca
 chorals 1
 chomage
-chorasmian 1
+chorasmian 2
 crispiness
 chordaceae 1
 chordacentrous 4
@@ -24058,7 +24058,7 @@ conidiophore
 conventions 3
 coralwort 1
 convents 1
-conventual 2
+conventual 3
 cerebri
 converge 1
 connive
@@ -27026,7 +27026,7 @@ clericalism
 counterplay 1
 counterplayer 2
 carassow
-counterplead 1
+counterplead 2
 corrido 1
 conformance 2
 counterplotter
