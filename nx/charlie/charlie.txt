@@ -99,7 +99,7 @@ cabdriving 4
 corydora
 cabecudo 1
 capellet 1
-cabeliau 2
+cabeliau 3
 cabestro 3
 crang 1
 cabestros 1
@@ -3368,7 +3368,7 @@ coderives 3
 caponize 1
 crispate 2
 caponized
-caponizer
+caponizer 1
 copyfitter 1
 caponizing 1
 caponniere 3
@@ -28370,7 +28370,7 @@ chaptalized 1
 cierzos 1
 contributing 3
 crawlers 4
-creamometer
+creamometer 1
 crawlier
 crawliest
 crawlspace 1
