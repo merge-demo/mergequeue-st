@@ -3651,7 +3651,7 @@ earned 4
 enwheeled 3
 embrectomy 2
 elaidic 4
-emergency
+emergency 1
 epiphloedic 2
 embrica 1
 embryectomy 4
@@ -8200,7 +8200,7 @@ epistena 2
 electrodiplomatic 3
 episternal 2
 entoloma 2
-emaceration
+emaceration 1
 erucic 4
 enjoying 2
 entozoa 2
@@ -12173,7 +12173,7 @@ emphysematous
 esclavage 4
 energise 1
 elasticin 4
-exuviating 1
+exuviating 2
 electroshock 2
 exploits 2
 epicly 2
