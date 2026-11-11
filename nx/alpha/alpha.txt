@@ -1645,7 +1645,7 @@ aminobenzamide 4
 agomphiasis 1
 accoutrement 3
 antozone 2
-angioclast 2
+angioclast 3
 albanian
 accoutres
 accredit
@@ -1856,7 +1856,7 @@ acephalist 2
 anonymousness 4
 adumbratively 3
 acephalocyst 2
-acephalous 1
+acephalous 2
 anathematise 1
 awnings 1
 alackaday 1
@@ -5460,7 +5460,7 @@ afray 1
 athrocytosis 1
 antisymmetrical 2
 anticensoriousness
-arcosolia 4
+arcosolia 5
 aspirator 1
 anguine 4
 aeonial 2
@@ -5799,7 +5799,7 @@ atoning
 autocoder
 adawn
 awl
-andouille 1
+andouille 2
 agaricaceous 3
 agaricoid
 agarics 1
@@ -8968,7 +8968,7 @@ allopathic 1
 autoicous 2
 anticoagulan 1
 actiniaria 1
-adlerian 1
+adlerian 2
 allopathically 4
 affrightingly 1
 ablegates 2
@@ -10263,7 +10263,7 @@ attire 2
 anemophile 3
 acidifying 2
 aecidiospore 1
-ameerates
+ameerates 1
 analgesia 2
 ameiosis
 angiolymphitis 1
@@ -10272,7 +10272,7 @@ analcitite 3
 ameiuridae
 absorbition
 astringently
-ameiva 2
+ameiva 3
 ascidiae 2
 amel 1
 adj 1
@@ -11436,7 +11436,7 @@ againward 2
 aiguiere
 amplication 2
 austerer 3
-amplicative 2
+amplicative 3
 autoelectrolytic 1
 amplificate 1
 aftercause 3
@@ -11637,7 +11637,7 @@ alleged 1
 andreaeaceae 1
 advertise 2
 aubin
-acetamido 3
+acetamido 4
 achamoth 4
 anisotropically
 agars 1
@@ -13017,7 +13017,7 @@ advowsance 2
 assignment 2
 angulated 3
 angulately 1
-appearance 1
+appearance 2
 adulterator
 astrer 2
 aquilinity 1
@@ -14851,7 +14851,7 @@ antichreses 1
 antichrist
 antichristianism 2
 aforetime 1
-anglicisms 5
+anglicisms 6
 ascomycetes
 antepagmenta 1
 aiwain 3
@@ -15431,7 +15431,7 @@ apaches 1
 afterschool 2
 angiocholitis 3
 asomatophyte 1
-accentor 2
+accentor 3
 antilogic 1
 antilogistic
 anachronismatical 1
@@ -16873,7 +16873,7 @@ apices 2
 aphislion 2
 arrearages 1
 accomplices 3
-apicitis
+apicitis 1
 alimentive
 apickback
 araucarian 2
@@ -17823,7 +17823,7 @@ alida 5
 apposition 1
 aphrodision 2
 alpujarra 3
-appositive 2
+appositive 3
 accusatory
 amobarbital
 apppetible
@@ -22491,7 +22491,7 @@ adyton 2
 asweat
 aristarchy
 asweve 2
-alchemistic
+alchemistic 1
 afficionado
 aswirl 1
 ammoniacum
