@@ -3590,7 +3590,7 @@ fairbanks 2
 fourniture 2
 flashover 4
 fardels 4
-flank 2
+flank 3
 fructification 1
 felinity 2
 floorway 3
@@ -6121,7 +6121,7 @@ frightenedly 3
 foxtongue 2
 fenster 2
 flounce 2
-flounced 4
+flounced 5
 flounder 3
 frowardness 1
 faraway 1
@@ -8685,7 +8685,7 @@ filigraned 5
 futharks 1
 feet 1
 frustrable 1
-fuzes 5
+fuzes 6
 finites 3
 fytte 1
 farstepped 1
