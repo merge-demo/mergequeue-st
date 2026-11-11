@@ -3201,7 +3201,7 @@ calista
 cobb 2
 convictment 3
 cultivation 1
-cede
+cede 1
 cacochymic 3
 capeweed 1
 coverlet 1
@@ -8355,7 +8355,7 @@ chamaebatia
 chamaecranial 1
 cogons 3
 corkir
-chamaelirium
+chamaelirium 1
 chamaepericlymenum 1
 chamaephyte 3
 chamaesiphonales 1
