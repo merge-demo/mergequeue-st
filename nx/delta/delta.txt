@@ -2658,7 +2658,7 @@ decompoundly 1
 downstairs 1
 desmoma 1
 decompress 1
-decompresses 2
+decompresses 3
 detectaphone 2
 dingiest 2
 demiplacate
@@ -2730,7 +2730,7 @@ dacryelcosis
 daemonurgy 1
 darbies 2
 dematerialization 1
-decorticator
+decorticator 1
 diadelphia 1
 determinants 3
 dolichocephalous 3
@@ -5782,7 +5782,7 @@ drengh 3
 deploration 3
 disauthentic 4
 dextrocerebral
-depositors 4
+depositors 5
 dowel 2
 divestible 1
 dichotomously 4
@@ -17270,7 +17270,7 @@ driving 1
 drizzles
 drunkeries 2
 dacryolith 5
-dressmake 5
+dressmake 6
 dureresque 3
 drizzly 2
 drizzlier 1
@@ -17308,7 +17308,7 @@ drolleries 6
 darogah 3
 drollest 3
 decine 2
-dischase 1
+dischase 2
 demilion 2
 dermatophytosis 2
 delphinius
