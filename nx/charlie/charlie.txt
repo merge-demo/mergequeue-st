@@ -16457,7 +16457,7 @@ clockless 3
 cuon 2
 clockmaking 3
 crewer
-clockwatcher 3
+clockwatcher 4
 cingulum
 clockwise
 clockworked 1
@@ -29976,7 +29976,7 @@ cerebrology 2
 coccygotomy 1
 catapan 3
 crisle 3
-crosswiseness 2
+crosswiseness 3
 crostarie
 cajoler 1
 crotal
