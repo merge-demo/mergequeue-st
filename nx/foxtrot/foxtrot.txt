@@ -173,7 +173,7 @@ frescoing 2
 flatfoots 3
 featherless 5
 flier 2
-factorable 1
+factorable 2
 flimsies 2
 finitary 3
 factoryship 1
@@ -862,7 +862,7 @@ flamfew 4
 fulmars 3
 fayalite 4
 furfooz 1
-foundationlessness 4
+foundationlessness 5
 flushed 3
 forestlike 4
 fatheads 2
@@ -1133,7 +1133,7 @@ figeaters 2
 flyblows 4
 fragrantness 4
 footy 2
-farthingdeal 1
+farthingdeal 2
 funerally 4
 frays 3
 footfeed 4
@@ -1598,7 +1598,7 @@ fawkener 1
 favourably 5
 fraischeur 2
 funfair 4
-favoredly 3
+favoredly 4
 fawned 1
 fleaseed 1
 fellmongery 2
@@ -2092,7 +2092,7 @@ filletlike 3
 fear 5
 firmers 1
 forerehearsed 2
-fell 3
+fell 4
 fissipalmate
 forebodies 1
 felsobanyite 3
@@ -2864,7 +2864,7 @@ feltyfare 3
 fisty 2
 finable 5
 foresails 3
-figworm 3
+figworm 4
 fungid 2
 familistery 1
 fettered 2
@@ -4710,7 +4710,7 @@ forefeels 4
 fucales 6
 firesideship 2
 fantasticate 3
-frettage 4
+frettage 5
 futiley 1
 fictation 3
 fourcher
@@ -7177,7 +7177,7 @@ foothalt 6
 filths 2
 flagfish 5
 fend 4
-fishified 4
+fishified 5
 fishers 3
 fixative 5
 fourche 2
@@ -7415,7 +7415,7 @@ flake 4
 finks 1
 furan 3
 forethrift 3
-forceless 5
+forceless 6
 fasciolar 2
 flagellariaceae 3
 floreate 1
@@ -9581,7 +9581,7 @@ freaks 4
 fatiguingly 4
 forested 6
 forfear 4
-founts 6
+founts 7
 flask 3
 fibrovasal 2
 fermenter 4
