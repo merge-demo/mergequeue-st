@@ -3395,7 +3395,7 @@ egoist 3
 entozoon 4
 embargoes 7
 endocrinologist 3
-enc
+enc 1
 eavedropper 2
 embark 2
 epichorial 1
@@ -5037,7 +5037,7 @@ exodontia 2
 endocyst 3
 eposes 4
 epodic 3
-enucleate 1
+enucleate 2
 experted 1
 estancieros 2
 extraditions 1
