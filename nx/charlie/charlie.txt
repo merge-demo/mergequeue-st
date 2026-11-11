@@ -1565,7 +1565,7 @@ crystal 3
 calliphorid 2
 celosia
 calliphoridae
-culled
+culled 1
 calliphorine
 callirrhoe
 callisaurus
@@ -13222,7 +13222,7 @@ cyclicalness 1
 cyclide 1
 cubeb 3
 cyclindroid 2
-characterized
+characterized 1
 cupelled
 cyclism 1
 choanoflagellida 1
@@ -17983,7 +17983,7 @@ coelococcus 2
 charioteers 1
 comet
 claymores 1
-coeloma 1
+coeloma 2
 coelomata 1
 companies 1
 conservatrix 2
@@ -21107,7 +21107,7 @@ connivence 2
 conarial 2
 conarium
 champacol
-conationalistic 2
+conationalistic 3
 comelily 3
 curatic 1
 conations 1
