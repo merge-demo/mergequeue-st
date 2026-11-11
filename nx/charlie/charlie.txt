@@ -8915,7 +8915,7 @@ charette
 censers
 chemisms 3
 chargable 1
-combmaker
+combmaker 1
 charge 1
 chargeable
 ciphertext 1
