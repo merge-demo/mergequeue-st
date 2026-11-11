@@ -2709,7 +2709,7 @@ clingfish
 canker
 cankerbird 1
 chaperone 1
-carriable
+carriable 1
 cankered 1
 codders 1
 cephalosporium 3
@@ -3027,7 +3027,7 @@ cantling 2
 canto 2
 confederatism 2
 cortege 2
-colander
+colander 1
 cantonal 3
 cantonalism
 crapelike 2
@@ -3652,7 +3652,7 @@ caracolling
 caracora 3
 caract 1
 caractacus
-caradoc 1
+caradoc 2
 carafes
 craspedote 2
 censors 1
@@ -6639,7 +6639,7 @@ cedars
 cochairman 3
 ceded 1
 cinematic 3
-campana 1
+campana 2
 ceders
 confocally 1
 cambering 3
@@ -6765,7 +6765,7 @@ celibacy
 crassly 1
 costard 2
 celibatic
-conducent 3
+conducent 4
 colonopexy 1
 coroun 1
 celibatory 2
@@ -10543,7 +10543,7 @@ cymbocephaly 1
 chill 1
 cyclanthaceous
 chilla
-cerebric 1
+cerebric 2
 contort 3
 conter 1
 crinigerous 3
@@ -14392,7 +14392,7 @@ cupuliferae 4
 circumvest 1
 circumvoisin 1
 contrapletal 2
-circumvolution 1
+circumvolution 2
 curdler 4
 cyclospondylous 1
 circumvolve
@@ -25457,7 +25457,7 @@ contumaciousness 1
 cornmeals 1
 cornmuse
 corno 2
-collegians
+collegians 1
 chewet 1
 cornpipe 2
 cohert
@@ -29557,7 +29557,7 @@ criticizing 1
 criticship 1
 criticule 1
 critique 2
-cultivatable
+cultivatable 1
 cabals 1
 chopine 1
 colubriformia 2
@@ -30393,7 +30393,7 @@ chinovnik
 crustaceological 2
 crustaceologist 2
 cattishness
-clearstories 2
+clearstories 3
 continuateness 2
 crustaceorubrin 2
 cynology 2
