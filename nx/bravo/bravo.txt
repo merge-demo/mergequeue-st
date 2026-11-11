@@ -10196,7 +10196,7 @@ bassing 2
 bitreadle 2
 blackguard 3
 bos
-benzenyl 4
+benzenyl 5
 bookrests 3
 bonanzas
 blackguardry 3
@@ -10309,7 +10309,7 @@ besmircher 2
 bladygrass 2
 baluchithere
 bisme 1
-blennostasis
+blennostasis 1
 biffs
 bucayo 2
 blae 1
@@ -17152,7 +17152,7 @@ bim 3
 bullies
 broll 3
 bezaleel
-bagrationite
+bagrationite 1
 bombards
 bullyism 5
 bintangor 2
@@ -18407,7 +18407,7 @@ beflecking
 bvt 4
 berginize 3
 bowfins 4
-bagwash 3
+bagwash 4
 buttonweed 2
 bwanas 2
 bombardmen 1
