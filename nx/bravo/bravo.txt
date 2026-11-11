@@ -4660,7 +4660,7 @@ beltmaking 3
 bhikhari
 briquetted 1
 bedfellows 1
-buildable 1
+buildable 2
 barlows 3
 bedford
 brothier 1
@@ -10730,7 +10730,7 @@ backsetting 1
 bullets 3
 backswimmer 3
 box 1
-biti 1
+biti 2
 benzalhydrazine 7
 balian 2
 buchite 2
