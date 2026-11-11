@@ -1519,7 +1519,7 @@ eyeable 3
 egg 4
 ethmoid 1
 endosternum
-exradio 1
+exradio 2
 eucosmidae 2
 episcopised 3
 egoisticalness 4
@@ -3293,7 +3293,7 @@ exhibitively 4
 emanate 1
 ectopic 5
 ethnos 3
-entrepots 2
+entrepots 3
 exegetically 2
 epirrhematic 1
 eridanid 4
@@ -3722,7 +3722,7 @@ embrittling 5
 embryulcia 4
 embryulculci 5
 exercitorial 6
-ectoderms 2
+ectoderms 3
 extravagantness 2
 enfranchise 5
 erodability 4
@@ -4159,7 +4159,7 @@ encallow 4
 euterpe 3
 extraessentially 3
 exchangeable 3
-ephedra 3
+ephedra 4
 emphasizing 4
 emporeutic 2
 enaliosaur 1
@@ -4308,7 +4308,7 @@ enamorato 1
 extraordinariness 2
 enamorment 1
 endoute 1
-economize 2
+economize 3
 enterointestinal 2
 enterodynia 1
 enamour 2
@@ -5089,7 +5089,7 @@ exilic 3
 elegibility 1
 eigh 1
 eumerogenetic 3
-enteroparalysis 2
+enteroparalysis 3
 effluviate 5
 encryptions 2
 expression
@@ -5692,7 +5692,7 @@ ebauche 3
 epitheliolysis 5
 eudidymite 4
 egalites 2
-engineries 2
+engineries 3
 embrace 2
 eau 5
 educabilia 4
@@ -5917,7 +5917,7 @@ endolemma 4
 exudence 4
 erethismic 2
 enlinking 4
-explanator
+explanator 1
 ettled 1
 eczema 4
 enhypostatize 7
@@ -7589,7 +7589,7 @@ ellachick 2
 eccentricities 1
 elapse 1
 eoliths
-enterohelcosis 3
+enterohelcosis 4
 epiparodos 3
 epicortical 3
 enterostomy 8
@@ -8813,7 +8813,7 @@ entophytic 2
 equiprobabilist 3
 eternities 3
 egyptologic 3
-enjeopardy 3
+enjeopardy 4
 encrypt 4
 emptive 2
 euonymin 4
@@ -9000,7 +9000,7 @@ exorcized 1
 exponent 3
 erythritol 7
 expurgating 1
-echinulation 2
+echinulation 3
 ecclesiologic 2
 evertor 4
 electromyographic 1
@@ -11310,7 +11310,7 @@ eviscerating 1
 endoarteritis
 excoriation 6
 esophagodynia 1
-eccoproticophoric 1
+eccoproticophoric 2
 excursing 2
 endue 2
 eliquated 4
@@ -12624,7 +12624,7 @@ electrophoreses 1
 embossable 1
 exocoelic 1
 enharbour
-explant 2
+explant 3
 epicardium 5
 exocoelum 1
 epifascial 2
