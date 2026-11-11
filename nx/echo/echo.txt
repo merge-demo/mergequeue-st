@@ -3395,7 +3395,7 @@ egoist 3
 entozoon 4
 embargoes 7
 endocrinologist 3
-enc
+enc 1
 eavedropper 2
 embark 2
 epichorial 1
@@ -3651,7 +3651,7 @@ earned 4
 enwheeled 3
 embrectomy 2
 elaidic 4
-emergency
+emergency 1
 epiphloedic 2
 embrica 1
 embryectomy 4
@@ -5037,7 +5037,7 @@ exodontia 2
 endocyst 3
 eposes 4
 epodic 3
-enucleate 1
+enucleate 2
 experted 1
 estancieros 2
 extraditions 1
@@ -7928,7 +7928,7 @@ epidermous 4
 expenselessness 3
 epineuneuria 3
 evolutionary 1
-epineurium 2
+epineurium 3
 enclaving 3
 ergotinine 2
 endostea 1
@@ -8200,7 +8200,7 @@ epistena 2
 electrodiplomatic 3
 episternal 2
 entoloma 2
-emaceration
+emaceration 1
 erucic 4
 enjoying 2
 entozoa 2
@@ -9309,7 +9309,7 @@ estop 1
 erudition 2
 erinys 5
 eurythmic 1
-embittered 4
+embittered 5
 endosiphon 2
 encrusted 1
 erugos 3
@@ -9369,7 +9369,7 @@ embolies
 eucleid 3
 edifyingness 3
 ebdomade 2
-enteromesenteric 1
+enteromesenteric 2
 extensionalism
 enantiobiosis 3
 extemporiser 1
@@ -10654,7 +10654,7 @@ enfacement 3
 eudemonics 2
 endoappendicitis 4
 equivalencies 2
-enwall 2
+enwall 3
 epinephrine 1
 empurpling 3
 excamber 5
@@ -12173,7 +12173,7 @@ emphysematous
 esclavage 4
 energise 1
 elasticin 4
-exuviating 1
+exuviating 2
 electroshock 2
 exploits 2
 epicly 2
@@ -12815,7 +12815,7 @@ ensembles 2
 encounterable 1
 emancipative 1
 exospore 1
-endrumpf 1
+endrumpf 2
 egualmente
 epeiridae 4
 enthusiastical 3
@@ -14194,7 +14194,7 @@ eupanorthus 2
 exfetation 2
 enterococci 7
 ectosome
-esthetics 2
+esthetics 3
 epulation 3
 endlong 5
 equidistance 1
