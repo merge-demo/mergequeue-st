@@ -6901,7 +6901,7 @@ discolors 1
 dahabiyeh
 deadliest 3
 deficit 3
-desorption
+desorption 1
 drollist 2
 discocarpous 2
 decarburizing 1
@@ -8851,7 +8851,7 @@ dibranch 1
 duftery 2
 defiguration
 dozinesses 1
-dirge 5
+dirge 6
 dropperful 2
 dovens 3
 dibstone 1
@@ -9414,7 +9414,7 @@ dredge 3
 dismountable
 diffusions
 diffusive 3
-diffusors
+diffusors 1
 dalan 2
 dentolingual 1
 diabolus 1
@@ -10563,7 +10563,7 @@ decorticate 4
 despotist 3
 diplogenesis 2
 deseam 1
-dirges 1
+dirges 2
 doxographical 4
 dittology 5
 displants 1
@@ -13522,7 +13522,7 @@ denaturized 1
 dolesome
 draining 2
 dustcart
-diocletian 1
+diocletian 2
 diametrically 1
 duchesses 2
 demos 1
