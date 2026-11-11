@@ -4528,7 +4528,7 @@ adventitial 1
 anhydrating 2
 aerobiotically 2
 admiralty 1
-adventitiousness 1
+adventitiousness 2
 archdemon 2
 adventive 3
 adventively 1
@@ -5853,7 +5853,7 @@ aligner 2
 aisteoir 1
 agatized 1
 anuric 2
-agatizes
+agatizes 1
 agatizing 1
 agatoid 1
 arctan 3
@@ -6465,7 +6465,7 @@ attempering 2
 antefixa
 agrotype 2
 aurochloride 2
-anthotaxy
+anthotaxy 1
 anerly 1
 arguta 1
 aggravate
@@ -6949,7 +6949,7 @@ antisepticized 3
 airspaces 1
 ancience 3
 alec 3
-airspeeds 1
+airspeeds 2
 adrent
 airt
 actionability
@@ -7016,7 +7016,7 @@ apedom
 antineutrally 3
 accipitral 1
 arsenite 2
-apochromat
+apochromat 1
 ayuntamiento 1
 assentatious 1
 assaulters 2
@@ -8128,7 +8128,7 @@ artistry 1
 antimethodicalness 1
 absented 3
 asboline
-algarrobin 1
+algarrobin 2
 abrahamitic 1
 algas 4
 algate
@@ -10510,7 +10510,7 @@ anaxagorize 2
 annotating 2
 appearing 3
 anticlimactically
-amice
+amice 1
 anatriptic 2
 amicron
 algomian 2
@@ -11048,7 +11048,7 @@ amorettos
 attainer
 aphrolite 2
 aromatizing
-acheat 1
+acheat 2
 aoife 1
 atrichous 2
 adenophlegmon 2
@@ -14608,7 +14608,7 @@ auric 3
 anthropoidean 1
 anthropophilous 2
 afterdated 1
-anthropophobia 1
+anthropophobia 2
 anthroposociology 4
 altarlet 3
 adoretus
@@ -18564,7 +18564,7 @@ amidine 2
 arrises 2
 arborway
 arbota 1
-arbour 3
+arbour 4
 amazeful 1
 arboured 1
 abbate 2
@@ -20325,7 +20325,7 @@ automatization 4
 anarchic 3
 afley
 aeromedicine 1
-aseptol 3
+aseptol 4
 arrogate 4
 antenarial 1
 anemonal 1
@@ -21202,7 +21202,7 @@ ashamnu 2
 aggrandizers 1
 archilla
 amazonism 1
-albatas 3
+albatas 4
 amelia 1
 afterthoughted 1
 ashery
@@ -21585,7 +21585,7 @@ anhang 2
 anabiotic
 aspirer
 aspirers
-alliterator 1
+alliterator 2
 abboccato 2
 archprotopope 1
 aprilesque 1
@@ -24707,7 +24707,7 @@ aerobiotic
 arcadia
 amusedly
 acalephe 2
-averruncator 2
+averruncator 3
 arteriasis
 avers 1
 aversant
