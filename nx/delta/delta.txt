@@ -6623,7 +6623,7 @@ desert 1
 darkroom 2
 deescalated 3
 deacidification 4
-denotational 1
+denotational 2
 dissentism 1
 desorb 3
 defatigated 3
@@ -14218,7 +14218,7 @@ disutility 1
 dramatists 2
 dicer 2
 damage 1
-daboia 4
+daboia 5
 deodorizing 1
 defenselessly 2
 derotrematous 5
@@ -14870,7 +14870,7 @@ dowitcher 4
 dolorifuge
 dependencies 2
 dawdled 1
-decorously 2
+decorously 3
 dodder 2
 differingly 2
 dormancy 1
