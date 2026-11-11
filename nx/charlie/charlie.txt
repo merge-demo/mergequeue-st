@@ -3816,7 +3816,7 @@ cardioncus
 carbohydrate
 cardiotrophia
 cysticarpic
-carbohydraturia 1
+carbohydraturia 2
 chalkier
 chorioid
 cacochymical
@@ -11225,7 +11225,7 @@ confix
 christiania 1
 chlorenchyma
 coassistance 1
-chlorguanide
+chlorguanide 1
 crisps
 chlorhexidine
 coemperor
@@ -30898,7 +30898,7 @@ cultic 1
 chandelier 2
 caecity 2
 creatinuria
-cultigens
+cultigens 1
 cultish
 camera
 cerasin
