@@ -2089,7 +2089,7 @@ adstringe 1
 achape 2
 acharya 2
 apatheia 3
-antimatrimonialist
+antimatrimonialist 1
 alopiidae
 acharne 2
 arrope 1
@@ -2203,7 +2203,7 @@ alinasal 1
 ambrosin 2
 achirite
 achkan 3
-alcovinometer 2
+alcovinometer 3
 acidhead
 aimfully 3
 achlorhydria 1
@@ -3719,7 +3719,7 @@ armeriaceae
 autodigestion 4
 abnegation
 adenophorous 1
-acephalite 2
+acephalite 3
 accumulative 2
 adenopodous 2
 adenosarcomata 1
@@ -5167,7 +5167,7 @@ ahchoo 1
 aestus 3
 alamos
 abassin 1
-anend
+anend 1
 astragalectomy 2
 aether 1
 aromacity
@@ -7827,7 +7827,7 @@ academias
 aphidicide
 albolith 1
 aldazine 1
-antithrombic 2
+antithrombic 3
 aldoheptose
 antigalactic 1
 aldol 1
@@ -11079,7 +11079,7 @@ amorphousness 1
 alleluia 2
 affirmatory
 anguishes
-anthropometer 1
+anthropometer 2
 archegone 3
 amorphus 2
 amerindian 2
@@ -11182,7 +11182,7 @@ antirationality 3
 araeometer 3
 amphetamines 3
 abasgi 2
-antecedaneous 1
+antecedaneous 2
 actaeaceae 1
 amphiarthroses
 aphorisms
@@ -14314,7 +14314,7 @@ autocrator 1
 acipenseres
 alopias 2
 anthecologist
-antheia
+antheia 1
 alegars 2
 amphipodan 2
 anthelia 2
@@ -14621,7 +14621,7 @@ archsteward 3
 answering 2
 anilinctus 2
 anthropotheistic 1
-antonyms 3
+antonyms 4
 anthoceros
 antidiphtherin 2
 anticline
@@ -15853,7 +15853,7 @@ alinota 5
 antipyrine 1
 annuli 2
 aryballoi 2
-aliseptal 1
+aliseptal 2
 antipyrotic 1
 aglobulism 1
 antiplanet 4
@@ -17752,7 +17752,7 @@ amentia 1
 applique
 appliques 2
 antinarcotics 1
-assorters 1
+assorters 2
 annuloida 1
 apinae
 antidora 2
@@ -17840,7 +17840,7 @@ autoalkylation 1
 acrotretidae
 abacate 2
 appraisive 1
-almique 1
+almique 2
 appreciated
 appreciatingly 4
 appreciativ 1
