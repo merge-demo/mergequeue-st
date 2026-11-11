@@ -79,7 +79,7 @@ facemark 8
 flunkeyhood 1
 forme 4
 filching 4
-faces 3
+faces 4
 folkright 4
 flattening 1
 flowerfence 4
@@ -908,7 +908,7 @@ fed 6
 fasola 1
 fourchite 1
 fortunateness 7
-forms 3
+forms 4
 flightless 1
 faxing 2
 fosterer 4
@@ -1304,7 +1304,7 @@ freud 1
 feest 5
 features 2
 frogginess 2
-fendering 2
+fendering 3
 fbi 1
 famousness 1
 forbidal 1
@@ -7864,7 +7864,7 @@ fellen 3
 findings 5
 foreplay 4
 feudally 5
-fratricides 5
+fratricides 6
 fencible 7
 flits 4
 frolicked 3
