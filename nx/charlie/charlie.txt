@@ -72,7 +72,7 @@ corrosion 1
 creeping 2
 cabbagy 2
 cabbaging 3
-cabbala
+cabbala 1
 comprises 3
 cabbalahs
 cabbalas 1
@@ -7353,7 +7353,7 @@ cleansing 1
 cephalomere 4
 cyclostylar
 cephalometric
-cephalonasal 1
+cephalonasal 2
 cephalopathy 1
 cephalopharyngeal 1
 cephalophyma
@@ -8370,7 +8370,7 @@ chamberleted 1
 ceratorhine
 camanchaca 1
 chambers 2
-chambertin
+chambertin 1
 chambioa
 chambray
 copei
@@ -12283,7 +12283,7 @@ christen 2
 christendie
 christendom
 christener
-cleanhearted 2
+cleanhearted 3
 christening
 christens 1
 christhood 2
@@ -21530,7 +21530,7 @@ comblike
 concretor 2
 climes
 cupuliform 1
-cubital 2
+cubital 3
 cupromanganese 2
 concubinary 1
 coeducation 3
@@ -24492,7 +24492,7 @@ curves
 coosuc 1
 coot 2
 cootch 2
-corticin 1
+corticin 2
 cheeseburger 1
 cootfoot 1
 crotyl
@@ -28489,7 +28489,7 @@ cutability 1
 creativity 2
 clowns 1
 creatorhood 1
-creatotoxism
+creatotoxism 1
 cepheid 1
 columellae
 chrysophane 2
