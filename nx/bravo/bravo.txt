@@ -355,7 +355,7 @@ bequeath 2
 basseting 1
 benighter 2
 backfires
-brontolite 1
+brontolite 2
 boled 3
 brume 1
 bradypepsy 2
@@ -1446,7 +1446,7 @@ bedye 1
 brankier
 begroan 2
 bight 4
-bioclimatological 3
+bioclimatological 4
 bifid 3
 balibago 1
 beakier 3
@@ -1846,7 +1846,7 @@ bananaland 1
 blowen
 bluegum
 bridgewall 2
-bananivorous 3
+bananivorous 4
 banatite 2
 becharm 1
 blackjacking 1
@@ -3382,7 +3382,7 @@ basophilic 2
 basques 3
 bass 3
 brans
-basiphobia 1
+basiphobia 2
 besilver 1
 buccheros 2
 branchiopulmonate 5
@@ -8604,7 +8604,7 @@ bimillenial 1
 billiard 2
 bellyfull
 bioactivity 8
-bronchial
+bronchial 1
 bailout
 belatedly 2
 beeswinged 2
@@ -9185,7 +9185,7 @@ basics
 beefhead 2
 biogeographer 1
 biotypes 2
-browbeats 3
+browbeats 4
 brickred 2
 biotypic
 benzyls 1
@@ -9214,7 +9214,7 @@ boudoirs 1
 babblesome 2
 benzophenanthrazine 2
 balsaminaceous 2
-balladical 2
+balladical 3
 biparentally 1
 businesswoman 1
 bushelmen 4
@@ -12137,7 +12137,7 @@ baedekers 1
 bonesets 2
 balanops 2
 baalshem 3
-burbots
+burbots 1
 bedamp 4
 benzofluorene 2
 bannets 1
@@ -13819,7 +13819,7 @@ bramblebush 4
 blabberer 1
 butters 3
 biocides
-bywoner 2
+bywoner 3
 babesias 2
 bleachery 2
 bucephalus 3
@@ -17429,7 +17429,7 @@ bureaucracy 2
 buffoonism 2
 borzicactus 2
 barry 3
-brasset 1
+brasset 2
 bunkering 1
 blackouts 3
 bunkermen 1
@@ -17777,7 +17777,7 @@ basementless 2
 base 1
 braiders 2
 burrhead 2
-burrheaded 1
+burrheaded 2
 bedcovers 2
 biserrate
 burrheadedness 2
