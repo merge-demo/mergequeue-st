@@ -1148,7 +1148,7 @@ berne 2
 banquets 3
 babakoto 2
 backwall 3
-borates 3
+borates 4
 botete
 bankman 3
 bountree 1
@@ -1181,7 +1181,7 @@ birrs 2
 bupleurol 2
 bronzitite 3
 bile 1
-burgus 3
+burgus 4
 bradyphrasia 1
 blennoma 1
 bajarigar 3
@@ -5955,7 +5955,7 @@ benumbing 4
 battiness 2
 backrest 1
 beltless
-benchmarks 1
+benchmarks 2
 biauriculate 2
 beltman
 belts
@@ -9092,7 +9092,7 @@ breunnerite 2
 brittlewort 1
 bidented 2
 brown 4
-bandagist 3
+bandagist 4
 bicolours
 bays 2
 buzzwords 3
@@ -10430,7 +10430,7 @@ berskin 1
 blanks 1
 bargainable
 byrewoman
-boltmaking
+boltmaking 1
 beesting 1
 baritone 2
 broidery 2
@@ -11927,7 +11927,7 @@ bloodshedder 2
 basinasial 4
 baggily 3
 bogach 1
-becrush 3
+becrush 4
 berth 2
 bushelwoman 4
 bruins 2
@@ -12707,7 +12707,7 @@ bungarus 1
 beautifier
 boroughmongering 3
 benchless 1
-baldachini 3
+baldachini 4
 backhander 2
 bushmaster
 bibulously 3
@@ -13117,7 +13117,7 @@ bastinaded 1
 blowzier 2
 basilics 3
 brahui 2
-benchmen 5
+benchmen 6
 bregmatic 1
 boringness 2
 bilging 4
@@ -14074,7 +14074,7 @@ brachydactylism 2
 bottlebird 3
 bytime 1
 brachydodromous
-boc 2
+boc 3
 baylet 2
 bionomics 1
 boding 1
@@ -14366,7 +14366,7 @@ boxkeeper 4
 brahminists 4
 brahmoism
 brahmsian 2
-barbicanage
+barbicanage 1
 belemnid 3
 bahamian
 batocrinidae 1
@@ -15049,7 +15049,7 @@ brimfull 1
 basenji 5
 barelegged 5
 breechcloths 2
-biosatellite 3
+biosatellite 4
 benzdiazine 3
 barraters 2
 breedable
@@ -16866,7 +16866,7 @@ bigger 1
 buffing 4
 breards 1
 bufflehead 2
-breekums 2
+breekums 3
 bounders
 buffont 2
 bactericidally
@@ -18086,7 +18086,7 @@ bidi 1
 butadiyne 3
 beshout 1
 berthierite 1
-butane 3
+butane 4
 butanoic 1
 bismuthite 1
 burgage 5
