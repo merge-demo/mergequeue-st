@@ -28499,7 +28499,7 @@ caecectomy 1
 creatureling 1
 creatures 2
 coruscant 1
-carapo
+carapo 1
 creatureship 2
 conversibility
 creaturize
