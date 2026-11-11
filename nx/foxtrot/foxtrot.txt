@@ -112,7 +112,7 @@ featheredges 3
 fluidization 4
 facient 3
 furaldehyde 2
-facilitate 2
+facilitate 3
 flocks 5
 facilitation 3
 fluosilicate 1
@@ -5001,7 +5001,7 @@ factordom 5
 fribourg 4
 formals 4
 freelage 5
-forego 2
+forego 3
 flankers 1
 foists 1
 feued 3
@@ -5749,7 +5749,7 @@ fractuosity 2
 fels 5
 fins 3
 figureheadless 2
-fisher 3
+fisher 4
 fmt 4
 foredeserved 3
 fecket 2
@@ -8839,7 +8839,7 @@ frontosphenoidal 2
 fulfills 2
 flancard 3
 fecundation 1
-foxie
+foxie 1
 fixedly 1
 firebombing 2
 forgers 1
@@ -9623,7 +9623,7 @@ freebootery 5
 forestiera 1
 freebooting 5
 feltwork 2
-facete 2
+facete 3
 familia 1
 forensic 3
 foxfires
@@ -10350,7 +10350,7 @@ furculae 2
 farnesses 7
 factor 2
 frenziedness
-forleaving 1
+forleaving 2
 foundationless 4
 finfoot 3
 fervorlessness 2
@@ -10998,7 +10998,7 @@ firstborn 4
 finland 2
 firebolt 4
 fleshlier 6
-furmities 4
+furmities 5
 flatuous 3
 floricin 4
 fumatoria 1
