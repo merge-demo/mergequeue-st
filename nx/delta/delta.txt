@@ -3558,7 +3558,7 @@ dissheathe
 dehwar 1
 defuze 4
 dakoities
-dissociative
+dissociative 1
 degage 3
 degames 3
 deganglionate 1
@@ -9644,7 +9644,7 @@ dimidiating 2
 drinkables 1
 daidling 2
 diipenates 1
-diencephalons
+diencephalons 1
 defiliation 2
 dillies 1
 dicerion 3
@@ -16875,7 +16875,7 @@ discharity 1
 dozes 4
 depreciations 3
 dissyllabise 4
-diffidence 2
+diffidence 3
 demargarinate 4
 drawspring 2
 dispersible 1
