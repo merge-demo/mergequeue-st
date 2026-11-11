@@ -1749,7 +1749,7 @@ ada 1
 accursed 3
 amerikani
 accursedness
-aborter
+aborter 1
 aarrgh 1
 accurst 1
 authorisable 2
@@ -6424,7 +6424,7 @@ aparithmesis
 analytically 1
 agrodolce 3
 aliphatic 2
-agrogeology
+agrogeology 1
 aleucaemic 3
 agrogeological 2
 aurung 3
@@ -15302,7 +15302,7 @@ antigonon 4
 antigonorrheic 2
 afflue 3
 antigovernmentally 1
-antigrammatical
+antigrammatical 1
 aminoacetanilide 1
 arcadings 4
 anisotropal 2
