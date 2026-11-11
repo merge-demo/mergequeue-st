@@ -3807,7 +3807,7 @@ carboazotine 2
 curcuma 1
 conrail
 carbodynamite
-carbohemoglobin 1
+carbohemoglobin 2
 calamodendron 2
 cribbling 2
 carbohydrase 3
@@ -11273,7 +11273,7 @@ chloritic 1
 carlie 2
 continuities 2
 chloritization
-chloritize 1
+chloritize 2
 culicid
 chlorize 2
 cynocephalus
@@ -13222,7 +13222,7 @@ cyclicalness 1
 cyclide 1
 cubeb 3
 cyclindroid 2
-characterized
+characterized 1
 cupelled
 cyclism 1
 choanoflagellida 1
@@ -14746,7 +14746,7 @@ conirostres 4
 cladosiphonic 2
 coordinate
 curtsy 1
-coenamor
+coenamor 1
 coccinellid 2
 coalyards
 cocinero
@@ -17147,7 +17147,7 @@ coagel 1
 contractibleness
 counterdemonstration 2
 chrysopee
-coeloms
+coeloms 1
 caftan
 customary 2
 countermount 1
@@ -18184,7 +18184,7 @@ cyanopia 1
 coessentiality
 centerless
 coessentially 1
-cervulus 1
+cervulus 2
 coetaneous 1
 coeternal
 caribisi
@@ -22155,7 +22155,7 @@ cogitatively 3
 confraternal
 cigala 2
 confreres
-circumcorneal
+circumcorneal 1
 cupric 2
 crocheters
 colpeurynter 1
@@ -29543,7 +29543,7 @@ cocas
 criticastry 2
 criticisms
 chontal
-cousin
+cousin 1
 congenite 2
 canoeman
 criticiser 1
