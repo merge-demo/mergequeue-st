@@ -2558,7 +2558,7 @@ genearch 4
 gyrogonite 3
 gargling 3
 globiferous 2
-generant 4
+generant 5
 generate 5
 gaboons 4
 gypsiferous 5
@@ -4352,7 +4352,7 @@ gorget 2
 grandezza 3
 garnetiferous 3
 gearcases 3
-gongs 1
+gongs 2
 gorgoneum 1
 guestling 2
 gutted 3
@@ -5590,7 +5590,7 @@ globefish 2
 glochid 2
 geranial 3
 glick 1
-garnice 4
+garnice 5
 gra 3
 geophilidae 2
 gondolet 2
@@ -6507,7 +6507,7 @@ gorinesses 7
 grazing 3
 gymnasia 1
 groundage 4
-gospelmonger 2
+gospelmonger 3
 goniatitoid 2
 guanidins 2
 glycogenosis 4
