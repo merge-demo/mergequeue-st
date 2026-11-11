@@ -2076,7 +2076,7 @@ filibuster 3
 famishes 5
 fumage 3
 fructidor 5
-fusibleness
+fusibleness 1
 freeform 3
 fideistic 4
 fogle 2
@@ -2664,7 +2664,7 @@ fontanelle 2
 flashy 4
 feckulence 7
 ferter 3
-felliducous 1
+felliducous 2
 fittyways 7
 flamb 5
 fertile 2
@@ -3737,7 +3737,7 @@ fangotherapy 5
 fingallian 6
 ferromolybdenum 3
 fibers 3
-flambeing 3
+flambeing 4
 foreignism 2
 fertilizability 1
 funnily 4
@@ -4266,7 +4266,7 @@ fingerling 7
 fawnskin 2
 freudism 4
 fatiguability 2
-fulsomely 2
+fulsomely 3
 ferdwit 6
 fustians 4
 foiblesse 6
@@ -5401,7 +5401,7 @@ friending 2
 frigefact 3
 futurity 3
 fleabiting 2
-fledgeling 3
+fledgeling 4
 fiendhead 3
 formidably 2
 foxfinger 7
@@ -5619,7 +5619,7 @@ fucuses 4
 federal 5
 frontonasal
 frizel 2
-flageolet 1
+flageolet 2
 fascicled 5
 formerness 2
 fourgons 4
@@ -7093,7 +7093,7 @@ florigenic 5
 fractioning 2
 fraken 4
 flavours 1
-fledge 6
+fledge 7
 fascinating 5
 fleapit 1
 factious 4
@@ -7587,7 +7587,7 @@ fanal 2
 flung 2
 felicitous 3
 frontosquamosal 1
-folliful 4
+folliful 5
 frutescence 4
 flubs 3
 fogram 2
@@ -10592,7 +10592,7 @@ fresh 3
 falding 3
 fibration 6
 foreland 2
-fliping 4
+fliping 5
 farkleberries 2
 foughty 1
 foreloper 1
@@ -11716,7 +11716,7 @@ foredesign 3
 fosslology 1
 flighty 5
 flagellator 2
-folkland 8
+folkland 9
 fados 3
 feudalised 5
 forecool 3
