@@ -1927,7 +1927,7 @@ bandle 3
 blastoff 2
 bushcraft 2
 bandmaster 3
-brainsickly 3
+brainsickly 4
 bando 2
 besieger 4
 bodiced 2
@@ -2129,7 +2129,7 @@ beseem 1
 buddhistic 5
 besteer 1
 bladeless 2
-boguing 3
+boguing 4
 bulker
 billbeetle
 botoyan 2
@@ -4051,7 +4051,7 @@ burglarproofing 3
 buchu 1
 bom 4
 butled 2
-beamed 1
+beamed 2
 bedrock 1
 beamers 3
 bueno 4
@@ -5962,7 +5962,7 @@ belts
 boigid 2
 backstitches 2
 bloodspilling 2
-beadlike 1
+beadlike 2
 bionomy 4
 broads 3
 belute 7
@@ -10708,7 +10708,7 @@ brooches 1
 blandisher 1
 boutell 4
 buffle 1
-bacillogenous
+bacillogenous 1
 benton 2
 balanophora
 browpiece
@@ -13831,7 +13831,7 @@ bediapering
 boilers 3
 bowelled 3
 beardedness 2
-balatte 3
+balatte 4
 bashilange 1
 bulbuls
 bulbophyllum 1
@@ -17508,7 +17508,7 @@ beauseant 3
 biognosis 1
 burbot 3
 bleak 4
-bowsprit 2
+bowsprit 3
 beata 2
 bromopicrin 1
 bidenticulate 1
