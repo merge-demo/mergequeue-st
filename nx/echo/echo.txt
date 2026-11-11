@@ -3651,7 +3651,7 @@ earned 4
 enwheeled 3
 embrectomy 2
 elaidic 4
-emergency
+emergency 1
 epiphloedic 2
 embrica 1
 embryectomy 4
@@ -7409,7 +7409,7 @@ extrafocal 5
 equianchorate 1
 electronographic 2
 eyess 3
-extracivically
+extracivically 1
 ephetae 5
 effulged 2
 expiators 2
@@ -8200,7 +8200,7 @@ epistena 2
 electrodiplomatic 3
 episternal 2
 entoloma 2
-emaceration
+emaceration 1
 erucic 4
 enjoying 2
 entozoa 2
@@ -10801,7 +10801,7 @@ exflagellate 3
 endosporic 4
 eumycete 2
 eulogiums 4
-endogenicity 1
+endogenicity 2
 elaborating 4
 emoting 1
 euskera 1
@@ -12173,7 +12173,7 @@ emphysematous
 esclavage 4
 energise 1
 elasticin 4
-exuviating 1
+exuviating 2
 electroshock 2
 exploits 2
 epicly 2
@@ -12815,7 +12815,7 @@ ensembles 2
 encounterable 1
 emancipative 1
 exospore 1
-endrumpf 1
+endrumpf 2
 egualmente
 epeiridae 4
 enthusiastical 3
