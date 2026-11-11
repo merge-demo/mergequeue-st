@@ -1717,7 +1717,7 @@ calotermes 1
 calotype
 cosey 1
 cyclodiolefine 2
-contrasty 3
+contrasty 4
 calotypic 1
 calotypist 1
 crossbolt 3
@@ -3201,7 +3201,7 @@ calista
 cobb 2
 convictment 3
 cultivation 1
-cede
+cede 1
 cacochymic 3
 capeweed 1
 coverlet 1
@@ -8355,7 +8355,7 @@ chamaebatia
 chamaecranial 1
 cogons 3
 corkir
-chamaelirium
+chamaelirium 1
 chamaepericlymenum 1
 chamaephyte 3
 chamaesiphonales 1
@@ -13270,7 +13270,7 @@ cycloheximide 1
 chetverik
 communicants
 cataloguer 2
-chemiatry 1
+chemiatry 2
 cycloid 2
 coalternation 2
 cycloidean
@@ -14649,7 +14649,7 @@ cystopteris
 cystoptosis 1
 cystopus 3
 cystoradiography 1
-cragged
+cragged 1
 clethraceous 2
 cairo 1
 cistori 1
