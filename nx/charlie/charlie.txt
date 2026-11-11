@@ -1641,7 +1641,7 @@ cyathophylloid
 courtrooms 1
 collectibles 2
 calmed 2
-coazervation 3
+coazervation 4
 centrobaric 1
 crureus
 calmest 1
@@ -1794,7 +1794,7 @@ communised 1
 calvaire 1
 cordage 1
 calvary
-caffeate
+caffeate 1
 commerciality 1
 countergarrison 2
 curagh
@@ -22212,7 +22212,7 @@ crematoriums 2
 cresotate 2
 connusable
 characterizer 2
-chigger
+chigger 1
 campanularian
 choicer
 cloxacillin 2
@@ -23941,7 +23941,7 @@ contusive 2
 conns 5
 cicadellidae
 conf 2
-chaffing 1
+chaffing 2
 clysmic 2
 conubium
 conularia 2
@@ -29460,7 +29460,7 @@ crystallisability 2
 caramel 1
 correctedness 1
 cueist
-circuiter
+circuiter 1
 candlewicking 3
 crystallising 1
 crystallites 1
