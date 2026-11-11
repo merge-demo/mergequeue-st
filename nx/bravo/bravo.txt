@@ -2900,7 +2900,7 @@ biverbal 1
 beclatter 4
 bestride 4
 boxlike
-braked 1
+braked 2
 badinage 3
 barrater
 barratries
@@ -4660,7 +4660,7 @@ beltmaking 3
 bhikhari
 briquetted 1
 bedfellows 1
-buildable 1
+buildable 2
 barlows 3
 bedford
 brothier 1
@@ -7920,7 +7920,7 @@ brey 2
 blockhouse 5
 byron 5
 bibliophil 3
-benward 4
+benward 5
 barff 3
 bulbomembranous
 bilipyrrhin 1
@@ -14423,7 +14423,7 @@ blaw 2
 braininess 1
 basoga 2
 braining 2
-blobbing 2
+blobbing 3
 baken 4
 brothellike 3
 bacteroides 2
