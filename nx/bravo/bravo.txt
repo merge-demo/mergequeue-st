@@ -4251,7 +4251,7 @@ bedung 1
 begaud 1
 begat 2
 beardless 3
-beautified
+beautified 1
 bathomania 2
 bishopbird
 breadths 2
@@ -5023,7 +5023,7 @@ bedarkened 2
 boite
 beknave 4
 banqueteer 1
-braunschweiger
+braunschweiger 1
 byliners 1
 befriend 1
 beglic 2
@@ -10103,7 +10103,7 @@ bewhiskered 4
 blabbering 2
 blabbermouths 2
 blabbing 2
-blabmouth 1
+blabmouth 2
 bravadoism 1
 bludgeoneer 1
 beamish 4
@@ -11951,7 +11951,7 @@ brut 2
 bawke 2
 betweens
 begirdling 2
-boggard 1
+boggard 2
 blindfoldly 3
 bayou
 boggle 2
@@ -12733,7 +12733,7 @@ booklear 2
 brandishing 1
 booklore 1
 bhavan 1
-birdliming 2
+birdliming 3
 busters 6
 beheld
 biometrician 4
@@ -14981,7 +14981,7 @@ blither
 business 4
 breasts 3
 blash
-bevesselled 5
+bevesselled 6
 bewrap 1
 brevi 5
 blastful
@@ -15853,7 +15853,7 @@ belittled 2
 battiks 2
 broletti 2
 bi
-broletto 1
+broletto 2
 benzthiophen 3
 biders 2
 broncho 3
