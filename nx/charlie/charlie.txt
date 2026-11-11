@@ -1316,7 +1316,7 @@ calibers 4
 colunar 2
 calibrated
 calibrater 1
-calibrates
+calibrates 1
 cloison
 catchwater 2
 calibrating 1
@@ -3614,7 +3614,7 @@ carabids 2
 cappy
 colorist 2
 chauri
-carabine 1
+carabine 2
 carabiner
 carabineros 1
 claik
@@ -8921,7 +8921,7 @@ chargeable
 ciphertext 1
 clements 1
 chargeably
-chargeant
+chargeant 1
 charged
 cupping 3
 chargee
@@ -13898,7 +13898,7 @@ cinnamonic 1
 cinnamonlike 3
 chaffy 2
 chromophyl
-carpus
+carpus 1
 cinnamons 4
 cinnolin 2
 cynocephalous 1
@@ -25836,7 +25836,7 @@ corrosived 1
 corrosively
 corrosiveness
 corrosives
-chironomy
+chironomy 1
 calcars 1
 corrosivity 1
 colophonate 3
@@ -27742,7 +27742,7 @@ clinochlore 1
 cytidines 1
 coleus 2
 cowpoxes
-consortium
+consortium 1
 chuprassi 1
 champagnizing
 cowry 1
