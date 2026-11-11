@@ -2709,7 +2709,7 @@ clingfish
 canker
 cankerbird 1
 chaperone 1
-carriable
+carriable 1
 cankered 1
 codders 1
 cephalosporium 3
@@ -6765,7 +6765,7 @@ celibacy
 crassly 1
 costard 2
 celibatic
-conducent 3
+conducent 4
 colonopexy 1
 coroun 1
 celibatory 2
