@@ -10430,7 +10430,7 @@ berskin 1
 blanks 1
 bargainable
 byrewoman
-boltmaking
+boltmaking 1
 beesting 1
 baritone 2
 broidery 2
