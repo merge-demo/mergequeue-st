@@ -112,7 +112,7 @@ featheredges 3
 fluidization 4
 facient 3
 furaldehyde 2
-facilitate 2
+facilitate 3
 flocks 5
 facilitation 3
 fluosilicate 1
@@ -2101,7 +2101,7 @@ finetop
 fourpence 1
 frump 7
 favorless 4
-foins 6
+foins 7
 fleshen 3
 frument 2
 fayence 1
@@ -3553,7 +3553,7 @@ formularise 1
 filarian 7
 fattily 3
 formfeed 3
-fluoryl 3
+fluoryl 4
 fnese 4
 flailed 3
 filaricidal 1
@@ -4966,7 +4966,7 @@ foremarch 3
 flaminical 5
 fomenters 5
 flowcharting 1
-fintadores 5
+fintadores 6
 frenulum 3
 forehinting 2
 flyway 2
@@ -5001,7 +5001,7 @@ factordom 5
 fribourg 4
 formals 4
 freelage 5
-forego 2
+forego 3
 flankers 1
 foists 1
 feued 3
@@ -5755,7 +5755,7 @@ foredeserved 3
 fecket 2
 facultize 6
 fringepod 2
-flyspecking 6
+flyspecking 7
 folate 2
 forenoons 3
 flamboyantism 3
@@ -8839,7 +8839,7 @@ frontosphenoidal 2
 fulfills 2
 flancard 3
 fecundation 1
-foxie
+foxie 1
 fixedly 1
 firebombing 2
 forgers 1
@@ -9141,7 +9141,7 @@ forespeaker 5
 featy 4
 falsification 4
 flourisher 1
-firmance 3
+firmance 4
 furbishable 2
 foxly 1
 farth 4
@@ -10341,7 +10341,7 @@ flandowser 2
 felonries 3
 fitten 1
 finary 3
-folksongs 2
+folksongs 3
 fanged 1
 fingerings 6
 fluormeter 3
@@ -10350,7 +10350,7 @@ furculae 2
 farnesses 7
 factor 2
 frenziedness
-forleaving 1
+forleaving 2
 foundationless 4
 finfoot 3
 fervorlessness 2
@@ -10534,7 +10534,7 @@ favouringly 1
 frot 2
 froth 2
 formulatory
-fanman 2
+fanman 3
 fittingly 3
 forays 5
 flyback 3
@@ -10998,7 +10998,7 @@ firstborn 4
 finland 2
 firebolt 4
 fleshlier 6
-furmities 4
+furmities 5
 flatuous 3
 floricin 4
 fumatoria 1
