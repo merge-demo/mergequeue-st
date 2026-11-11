@@ -15663,7 +15663,7 @@ chiasmodontid 1
 cirrigrade
 clausule
 cheekily
-clausure
+clausure 1
 claut 1
 clavacin 1
 clavae 2
@@ -21381,7 +21381,7 @@ coydog 2
 concionatory
 cothurni 3
 combfishes 1
-conciseness 1
+conciseness 2
 clocks 1
 cosponsor
 concision
@@ -22241,7 +22241,7 @@ carkingly 1
 cynthian 3
 congenerous 2
 congeners 1
-coeffluent 3
+coeffluent 4
 congenial
 chemakuan 2
 commiserative
@@ -26364,7 +26364,7 @@ costumiere
 costumiers
 cinematize 1
 choreomania 1
-cardanic
+cardanic 1
 cosubject 2
 cashboxes
 cosubordinate
@@ -29505,7 +29505,7 @@ crystallose
 checkerboard 3
 coevality 2
 crystallurgy 3
-ceruminiferous 2
+ceruminiferous 3
 companion 2
 coroniform 1
 crushed 1
