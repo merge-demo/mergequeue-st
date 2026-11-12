@@ -2524,7 +2524,7 @@ fastballs 6
 frush 2
 flunky 2
 foulmouth 4
-formaldehyde
+formaldehyde 1
 feverlike 5
 frondescent 4
 ferrelling 2
@@ -2609,7 +2609,7 @@ feoffed 1
 fancily 1
 foresheet 1
 ferromanganese 4
-filagreed 1
+filagreed 2
 fameflower 3
 ferronatrite 1
 follis 4
@@ -5506,7 +5506,7 @@ fossed 2
 fretwork 1
 forbarred 2
 fratching 3
-foraged 3
+foraged 4
 fleshy 3
 fillet 5
 fettuccine 1
@@ -7015,7 +7015,7 @@ flexions
 fichtean 3
 filla 5
 frison 3
-fictionistic 1
+fictionistic 2
 fusees 4
 fichtelite 3
 floriferousness 2
@@ -7123,7 +7123,7 @@ flaglet 5
 frowning 1
 feh
 frigid 2
-foundress 2
+foundress 3
 feeder 4
 ferly 1
 flanging 2
@@ -7249,7 +7249,7 @@ filature 5
 fridays 2
 fleetings 1
 forel 5
-feudalising 3
+feudalising 4
 flanderkin 2
 fecial 1
 fiorded 4
@@ -9061,7 +9061,7 @@ foremistress 1
 feeling 4
 folliculate 3
 freakery 5
-filisters
+filisters 1
 finish 4
 flimflammer 3
 fistle 5
@@ -9971,7 +9971,7 @@ flanes 3
 falconry 4
 filoplumaceous 5
 furcular 4
-forkbeard 2
+forkbeard 3
 fleabane 2
 formated 4
 feceris 6
@@ -11253,7 +11253,7 @@ funky 3
 filter 3
 functional 3
 fylfot 2
-fornent 2
+fornent 3
 fabiform 1
 fatherkin 3
 funkiness 8
