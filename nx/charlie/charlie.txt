@@ -27893,7 +27893,7 @@ crabstick 1
 comeatable
 conquians
 crabut 4
-crabweed 1
+crabweed 2
 coreid 2
 crabwise 2
 crabwood 1
@@ -28442,7 +28442,7 @@ cotarnine
 chiefling 3
 creams 1
 cindery 1
-creance
+creance 1
 chabot
 creancer 1
 carpintero
