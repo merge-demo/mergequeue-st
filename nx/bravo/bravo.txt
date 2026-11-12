@@ -372,7 +372,7 @@ barwares 1
 breaststroke 2
 background 2
 backhand 3
-backhandedness 2
+backhandedness 3
 brinjarry 2
 brewery 1
 brachypodous 2
@@ -1062,7 +1062,7 @@ billons 2
 busway 4
 bustiest 1
 boyaus 2
-basanite 2
+basanite 3
 breenge 1
 bersil 4
 boroughmaster 3
@@ -11549,7 +11549,7 @@ blunnen 1
 blunt 2
 barristress 2
 befuddlements 3
-blunthearted 1
+blunthearted 2
 bonaire 2
 botanized 1
 biosystematist 2
