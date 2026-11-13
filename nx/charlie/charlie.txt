@@ -4442,7 +4442,7 @@ congregations 1
 caryopsis 1
 courthouses 2
 cariri
-caririan 2
+caririan 3
 commoner 1
 choke 4
 carisa 1
@@ -4790,7 +4790,7 @@ carpogam
 carpogamy 1
 chromatinic 1
 carpogenous
-crewels
+crewels 1
 choanoflagellata 2
 cowlings 1
 carpoidea 1
@@ -7608,7 +7608,7 @@ collarets
 cerements
 crestal 1
 cucuyo 1
-coiffing
+coiffing 1
 cyclings
 curettes
 concessionist 2
@@ -12129,7 +12129,7 @@ chows 1
 causer 1
 crambo 1
 chancellorate 1
-cursiveness 1
+cursiveness 2
 chowses 3
 chowtime
 cephalocele
@@ -12713,7 +12713,7 @@ chuddah
 courtesied 4
 countermarch
 cassone 1
-challengers
+challengers 1
 conventioneer
 clingingness
 countervail 1
@@ -21032,7 +21032,7 @@ culex 2
 compulsion 1
 compulsitor
 caramelan 1
-cypsela 3
+cypsela 4
 compunct 1
 crassilingual 2
 cystaster 2
