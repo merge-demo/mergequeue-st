@@ -3795,7 +3795,7 @@ carbazole
 carbeen 1
 cantorian 1
 carbide 2
-classicize 4
+classicize 5
 carbyl
 catchy 1
 cenacle
@@ -12952,7 +12952,7 @@ cia
 crystallised
 cyan 1
 cyanamid 2
-conspires
+conspires 1
 coaxially
 cyanate 2
 cyanates 1
@@ -31810,7 +31810,7 @@ cutgrass 2
 cyathia 3
 cuticolor
 cuticula 1
-credenzas 2
+credenzas 3
 cuticulate
 chrysothamnus
 codamine 4
