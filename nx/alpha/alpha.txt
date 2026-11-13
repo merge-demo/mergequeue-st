@@ -2074,7 +2074,7 @@ agglutinating 1
 acropathology 1
 amplexus 3
 aveny
-awakeable
+awakeable 1
 amritas 2
 amidoxy 2
 altarpiece 2
@@ -2302,7 +2302,7 @@ aquaplane 1
 armigeri 2
 antiager 2
 avatara 2
-axel 1
+axel 2
 ampherotoky
 achuete 1
 astrography 2
@@ -4874,7 +4874,7 @@ archlute 3
 antemeridian 1
 aeroboat 2
 alacrify
-allegory 1
+allegory 2
 aerobranchia 1
 alditol 2
 anglic 1
@@ -9252,7 +9252,7 @@ angles 2
 abscondedly 2
 alnuin
 alo 4
-alocasia 1
+alocasia 2
 aribine 2
 aretaics 1
 alodialism
@@ -9518,7 +9518,7 @@ aphengescope 4
 apritif 2
 acadian
 alternater 2
-alternatingly 2
+alternatingly 3
 aphrodite 3
 acinarious 2
 attemperate 2
@@ -15473,7 +15473,7 @@ antimechanistically 1
 aircrew 1
 antimechanization 2
 antimediaevalist
-antimediaevally 2
+antimediaevally 3
 antimedical 2
 aslantwise 1
 antimedicine 6
@@ -16054,7 +16054,7 @@ astelic
 adviceful 1
 antirepublicanism 2
 ampulla 2
-actionize
+actionize 1
 aubretias 1
 atmidalbumin
 anaphasic 1
@@ -18432,7 +18432,7 @@ araucariaceae 1
 actions 1
 antisepticising 4
 arawa 1
-arointing 1
+arointing 2
 amaryllid
 arawak 1
 ankh
@@ -19081,7 +19081,7 @@ aholt 3
 ambassadors 1
 apishness 2
 arthur 1
-allegoric
+allegoric 1
 arabine
 abderian 2
 antivenine 3
@@ -19399,7 +19399,7 @@ amphorophony
 allicins 1
 arkie 3
 allowance 4
-auspicating 2
+auspicating 3
 abuseful 1
 argentin 1
 anglicanism 2
@@ -21000,7 +21000,7 @@ ascertaining 1
 ametoecious 1
 ascertains 1
 ascendant 3
-arthropterous
+arthropterous 1
 ascescency 2
 ascescent
 asceses 2
@@ -22466,7 +22466,7 @@ anamnestically 2
 astrophysicists 3
 arisaema 2
 anthemideae 2
-aleurones 1
+aleurones 2
 astrophotographic 3
 astrophotometer
 astroscopy 2
