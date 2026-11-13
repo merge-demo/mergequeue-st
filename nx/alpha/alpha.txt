@@ -4337,7 +4337,7 @@ adrenochrome 1
 adrenocortical
 adrenosterone 1
 adrenocorticotrophic 3
-ammonolysis 1
+ammonolysis 2
 afterstain 1
 albuminosis
 adrenocorticotropic 3
@@ -10173,7 +10173,7 @@ altarwise 1
 ambrosine 2
 ambsace 1
 ambsaces 1
-acuation
+acuation 1
 ambulance 5
 apnoeal 2
 amoeboidism 2
@@ -21606,7 +21606,7 @@ angary 2
 allegorist 3
 annexes 3
 applicability 2
-aspredo 1
+aspredo 2
 antirickets 2
 agilities 3
 akasha
