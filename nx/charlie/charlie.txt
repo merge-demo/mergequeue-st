@@ -2367,7 +2367,7 @@ canalled
 canallers
 canals 1
 cylindrocellular 1
-cumin 2
+cumin 3
 calinda 1
 ccw
 carucate 1
@@ -5877,7 +5877,7 @@ catella
 ctenodactyl 2
 catena 2
 catenae
-catenane
+catenane 1
 catenarian 1
 catenas 1
 caudaite 4
@@ -8039,7 +8039,7 @@ chafed 4
 chafery 2
 chiles 2
 cagayan 3
-capitulum
+capitulum 1
 chaferies 2
 chafers 1
 caranx
@@ -10227,7 +10227,7 @@ cleruchic 1
 chiasms
 chiasmus 1
 coeline 2
-curacao 1
+curacao 2
 chiastoneural 1
 chiastoneury 2
 chalone
@@ -10937,7 +10937,7 @@ chirographers 2
 crl
 capituliform 1
 ceruleolactite 1
-consideratively
+consideratively 1
 chirography
 candlelighted 1
 chirographical 2
@@ -14680,7 +14680,7 @@ chirurgy
 calyxes 1
 cystourethrography
 cistron
-cypraea 2
+cypraea 3
 cassiduloidea 1
 cistronic 1
 cochon 5
@@ -26971,7 +26971,7 @@ castellated 1
 cotonier
 countermined 2
 countermission 1
-coinfeftment
+coinfeftment 1
 chromophor 2
 circumsciss 2
 carburizing
