@@ -6801,7 +6801,7 @@ affluents 1
 almagra 1
 amyelinic 3
 adipocerous 2
-adopt 3
+adopt 4
 airbrushing 1
 amitabha 1
 airburst 2
@@ -7559,7 +7559,7 @@ albuminoid 2
 abstract 2
 aurifying 1
 albuminometer 2
-acrostolium
+acrostolium 1
 alepot 1
 alloplasm 3
 alodiaries 1
@@ -7984,7 +7984,7 @@ amygdules
 alerting 1
 ales 2
 anion 1
-alesan 2
+alesan 3
 arenicolous 2
 alkalis
 acetphenetidin 2
@@ -23086,7 +23086,7 @@ attainted
 anticholagogue 2
 asepticized 1
 afferently 2
-acinar 1
+acinar 2
 adjoiningness 1
 acetol 1
 adenoma
