@@ -80,7 +80,7 @@ flunkeyhood 1
 forme 4
 filching 4
 faces 4
-folkright 4
+folkright 5
 flattening 1
 flowerfence 4
 foliobranch 4
@@ -898,7 +898,7 @@ fluosilicic 4
 flagless 2
 fimbrilliferous 4
 faradised 3
-furfural 1
+furfural 2
 fardo 1
 ferneries 1
 flyleaf 1
@@ -2899,7 +2899,7 @@ froglike 4
 farsightedly 2
 flows 3
 fouettes 3
-floorcloth
+floorcloth 1
 find 3
 fimbricate 2
 featuring 2
@@ -2909,7 +2909,7 @@ freetrader 6
 fomentations 1
 foregahger 1
 featherweights 2
-frumpiness 2
+frumpiness 3
 flaughts 5
 fruitester 2
 flutiest 4
@@ -3230,7 +3230,7 @@ fuchsone 3
 forefend 2
 festered 3
 falern 1
-forewarnings 3
+forewarnings 4
 foetors 3
 flameholder 4
 fictioner 4
@@ -6671,7 +6671,7 @@ fumigatory 1
 fica 2
 ferbams 3
 finewed
-faence 2
+faence 3
 fofarraw 2
 falderol 4
 fungicide 4
@@ -8282,7 +8282,7 @@ fesse 4
 forgeable 5
 forwaked 3
 flashtubes 3
-fillingness 3
+fillingness 4
 fibromyomatous 3
 forthcall 3
 forgetful 3
