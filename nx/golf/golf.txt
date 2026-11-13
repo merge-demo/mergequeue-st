@@ -2195,7 +2195,7 @@ goodbyes 2
 generosities 3
 gibby 4
 galactohemia 5
-gleit 2
+gleit 3
 glossopathy 4
 grounders 5
 globetrotting 8
@@ -2430,7 +2430,7 @@ goniac 3
 generatrix 2
 gabrielrache 1
 garbo 5
-gromwells 7
+gromwells 8
 garbure 4
 gemote 4
 genouillere 4
@@ -6150,7 +6150,7 @@ gauche
 goadsman 3
 grihastha 2
 genovino 1
-gesan 4
+gesan 5
 gazetteers 2
 groveling 7
 goal 6
@@ -10230,7 +10230,7 @@ guimbard 7
 gorsehatch 4
 geographics
 gershom 1
-gomontia 3
+gomontia 4
 geechee 5
 grabbled 4
 gonophore 5
