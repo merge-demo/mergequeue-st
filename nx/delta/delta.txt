@@ -3352,7 +3352,7 @@ domesticable 4
 datiscoside 2
 downweight 3
 dicot
-dayment
+dayment 1
 distressfulness
 dullery
 despecialize 3
