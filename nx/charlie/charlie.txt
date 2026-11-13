@@ -5877,7 +5877,7 @@ catella
 ctenodactyl 2
 catena 2
 catenae
-catenane
+catenane 1
 catenarian 1
 catenas 1
 caudaite 4
@@ -8039,7 +8039,7 @@ chafed 4
 chafery 2
 chiles 2
 cagayan 3
-capitulum
+capitulum 1
 chaferies 2
 chafers 1
 caranx
@@ -26971,7 +26971,7 @@ castellated 1
 cotonier
 countermined 2
 countermission 1
-coinfeftment
+coinfeftment 1
 chromophor 2
 circumsciss 2
 carburizing
