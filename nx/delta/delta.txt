@@ -3352,7 +3352,7 @@ domesticable 4
 datiscoside 2
 downweight 3
 dicot
-dayment
+dayment 1
 distressfulness
 dullery
 despecialize 3
@@ -6392,7 +6392,7 @@ disadvanced 2
 derride
 disleave 2
 derriere
-demonising 4
+demonising 5
 dactyli 1
 duster
 discriminatory 6
@@ -12833,7 +12833,7 @@ democratization 2
 dismasted 5
 derides 4
 denned 1
-disme
+disme 1
 decast 5
 dipteran 1
 dismembrator 2
@@ -13859,7 +13859,7 @@ displaces 2
 druggier
 donee 2
 distaves 2
-dioxide 3
+dioxide 4
 dreamlessly 1
 differency 2
 dystaxias 1
