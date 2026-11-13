@@ -3352,7 +3352,7 @@ domesticable 4
 datiscoside 2
 downweight 3
 dicot
-dayment
+dayment 1
 distressfulness
 dullery
 despecialize 3
@@ -6392,7 +6392,7 @@ disadvanced 2
 derride
 disleave 2
 derriere
-demonising 4
+demonising 5
 dactyli 1
 duster
 discriminatory 6
