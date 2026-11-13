@@ -4303,7 +4303,7 @@ enamelist 3
 enamelless
 emit 3
 enami 3
-enamorado 2
+enamorado 3
 enamorato 1
 extraordinariness 2
 enamorment 1
@@ -6196,7 +6196,7 @@ exhalations 3
 exhortator 2
 enorn 4
 enos 3
-egophony 1
+egophony 2
 epitapher
 eradiation 7
 enostosis 3
@@ -8103,7 +8103,7 @@ episcopate 4
 expulsions 1
 entosphere 1
 elaidinic 3
-episcopature 2
+episcopature 3
 eczemas 2
 emarcid 1
 emprosthotonus 3
@@ -8445,7 +8445,7 @@ enregiment 3
 ecyphellate 4
 enhemospore 3
 escarmouche 3
-electrophotometry 4
+electrophotometry 5
 everness 4
 epileptoid 3
 ergatandrous 4
@@ -8838,7 +8838,7 @@ epilegomenon 1
 eventuation 1
 encysting 1
 electrooptically 1
-erer 3
+erer 4
 erethisia 3
 excursively 7
 embossers 4
@@ -8883,7 +8883,7 @@ entelam 2
 experimentally 5
 emulatress 2
 ergoted 3
-explosible 2
+explosible 3
 encephalomalaxis 1
 ergotism 1
 ergotizing 2
@@ -10622,7 +10622,7 @@ electroendosmose 2
 electrotherapies 3
 endorse 3
 eucritic 1
-eudaemon
+eudaemon 1
 eurous 2
 enrange 4
 enmeshes 3
