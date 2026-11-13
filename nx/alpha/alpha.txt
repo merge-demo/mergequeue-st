@@ -2302,7 +2302,7 @@ aquaplane 1
 armigeri 2
 antiager 2
 avatara 2
-axel 1
+axel 2
 ampherotoky
 achuete 1
 astrography 2
@@ -4874,7 +4874,7 @@ archlute 3
 antemeridian 1
 aeroboat 2
 alacrify
-allegory 1
+allegory 2
 aerobranchia 1
 alditol 2
 anglic 1
@@ -19081,7 +19081,7 @@ aholt 3
 ambassadors 1
 apishness 2
 arthur 1
-allegoric
+allegoric 1
 arabine
 abderian 2
 antivenine 3
