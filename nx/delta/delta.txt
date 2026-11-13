@@ -1012,7 +1012,7 @@ doubleprecision 1
 dallies
 dark 3
 dinkeys 1
-darked 2
+darked 3
 diamine 2
 darkeys 1
 daneball 1
@@ -2480,7 +2480,7 @@ duckwing 2
 deckle 4
 dulls 1
 drumlin 1
-discal
+discal 1
 diatropism 1
 deferral 2
 duds 3
@@ -3855,7 +3855,7 @@ deerdog 1
 demihogshead 1
 damone 2
 dichocarpism 1
-dinobryon
+dinobryon 1
 deixis 2
 decreases 4
 diduce 2
@@ -7221,7 +7221,7 @@ disenchantingly 2
 detecter 2
 detecters 3
 decemvirate 3
-duffels 7
+duffels 8
 digitate
 decertify 4
 damnified
@@ -7358,7 +7358,7 @@ dwight 2
 dianil
 demasculinize 2
 datsun 2
-diplopias 2
+diplopias 3
 debatement 2
 deticker 3
 dogtoothing 1
@@ -8659,7 +8659,7 @@ diaspirin 1
 dossals
 dots 3
 debuting 1
-dispersant
+dispersant 1
 droumy 3
 downweigh 1
 discomposingly
@@ -11697,7 +11697,7 @@ dopamelanin 4
 dogfaces 4
 discreation 2
 depersonalizes
-disburses
+disburses 1
 discredit 1
 devocalizing 3
 discreditability 1
@@ -11929,7 +11929,7 @@ diesels 5
 disembodiment 4
 deducer 6
 disembogued 1
-diarian 1
+diarian 2
 deceases 2
 deliciate 1
 dictionaries 2
@@ -12891,7 +12891,7 @@ drawls 4
 dryope
 disnaturalization 1
 deviator 3
-dactylioglyphy 3
+dactylioglyphy 4
 dermaptera
 disnew 3
 drachmae 3
@@ -13131,7 +13131,7 @@ diadem 5
 deflourish 2
 didactive 1
 dispersedness 2
-detonates
+detonates 1
 desynonymization 1
 dispersers
 dreigh
@@ -17856,7 +17856,7 @@ depolarising
 dhunchee 2
 dislodge 1
 daydreamer 2
-disaccordant 2
+disaccordant 3
 dodecaphonically 3
 desalts
 ductilize
