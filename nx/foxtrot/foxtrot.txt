@@ -80,7 +80,7 @@ flunkeyhood 1
 forme 4
 filching 4
 faces 4
-folkright 4
+folkright 5
 flattening 1
 flowerfence 4
 foliobranch 4
@@ -2909,7 +2909,7 @@ freetrader 6
 fomentations 1
 foregahger 1
 featherweights 2
-frumpiness 2
+frumpiness 3
 flaughts 5
 fruitester 2
 flutiest 4
