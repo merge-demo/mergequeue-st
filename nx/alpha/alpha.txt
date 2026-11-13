@@ -1067,7 +1067,7 @@ auberge 1
 aeronautically
 alcoholophilia 3
 abri 3
-absurdity 1
+absurdity 2
 assonances 2
 angiohemophilia 1
 asimina 2
@@ -2074,7 +2074,7 @@ agglutinating 1
 acropathology 1
 amplexus 3
 aveny
-awakeable
+awakeable 1
 amritas 2
 amidoxy 2
 altarpiece 2
@@ -21000,7 +21000,7 @@ ascertaining 1
 ametoecious 1
 ascertains 1
 ascendant 3
-arthropterous
+arthropterous 1
 ascescency 2
 ascescent
 asceses 2
@@ -21606,7 +21606,7 @@ angary 2
 allegorist 3
 annexes 3
 applicability 2
-aspredo 1
+aspredo 2
 antirickets 2
 agilities 3
 akasha
