@@ -771,7 +771,7 @@ geometrically 2
 graywether 2
 glome 4
 gristmill 2
-gres 3
+gres 4
 galvanotherapy 4
 goods 6
 gery 3
@@ -1648,7 +1648,7 @@ gulfweed 4
 galeopithecus
 glycin 3
 globed 3
-gastroduodenitis 6
+gastroduodenitis 7
 guadua 5
 gastroduodenostomy 4
 gastritis 2
@@ -2406,7 +2406,7 @@ grograms 4
 glutch 1
 gunship 2
 grandpas 3
-gekkones 2
+gekkones 3
 gimels 4
 grillage 3
 graniferous 2
