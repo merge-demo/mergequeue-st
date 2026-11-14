@@ -2313,7 +2313,7 @@ enthetic
 exundation 4
 electroanesthesia 3
 electroballistics 3
-emetatrophia 2
+emetatrophia 3
 electrobath 3
 emplacements 7
 ethnologically 2
@@ -2718,7 +2718,7 @@ euphrates 3
 eyetooth 1
 electrostenolytic 2
 enceint 2
-equipotent 3
+equipotent 4
 electees 3
 edentate 3
 envoi
@@ -4979,7 +4979,7 @@ econometer 3
 eyr
 entreasure 1
 encaenia 2
-evens 5
+evens 6
 endophragmal 2
 equimolal 1
 entomb 3
@@ -7971,7 +7971,7 @@ employers 1
 eeriness 1
 eliminators
 emetin 2
-envapour
+envapour 1
 emigating 1
 expectorations 2
 endovasculitis 2
@@ -8827,7 +8827,7 @@ enkernel 1
 ecospecifically 1
 esthesiometer 1
 eremuri 4
-ethnoflora 2
+ethnoflora 3
 elaphodus 4
 enerve 2
 escharoid 6
