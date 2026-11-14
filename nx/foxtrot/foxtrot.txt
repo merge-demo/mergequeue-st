@@ -1262,7 +1262,7 @@ fossoria
 fluctuous 3
 feminophobe 4
 falconoid 3
-fop 8
+fop 9
 fleeced 4
 former 2
 frissons
@@ -2963,7 +2963,7 @@ fallostomy 1
 flagship 2
 fouquieriaceae 3
 fers 6
-freiezlebenhe 2
+freiezlebenhe 3
 foliar 3
 fiberize 2
 fewest 3
@@ -4105,7 +4105,7 @@ formal 1
 forgery 2
 fatalness 3
 fissipedal 6
-ferth 3
+ferth 4
 fiendful 2
 feuilletons 1
 frameworks
@@ -5681,7 +5681,7 @@ funeration 6
 fillebeg 2
 forbearant 3
 finite 3
-flancards
+flancards 1
 friended 6
 fuzz 2
 firking 1
@@ -8784,7 +8784,7 @@ functioned 2
 fth 5
 flavonols 1
 fortuitous 2
-furrieries 2
+furrieries 3
 flote 5
 fala 2
 featheriest 3
@@ -9240,7 +9240,7 @@ favaginous 5
 footled 6
 fries 1
 fragileness 1
-foreknown 1
+foreknown 2
 faceplate 2
 flubbing 3
 fucus 2
@@ -9334,7 +9334,7 @@ ferreiro 5
 fanning 3
 forcelet 6
 franchisees 3
-foulings
+foulings 1
 fertil 5
 flagons 1
 fordull 6
@@ -10729,7 +10729,7 @@ finnier 3
 fantasizes 3
 fleckless 6
 foxier 4
-fatherliness 3
+fatherliness 4
 figent 5
 flayed 3
 fitfully 4
@@ -11763,6 +11763,6 @@ forloin
 fellowred 2
 femalist 3
 fulminatory 5
-ferruginous 1
+ferruginous 2
 fascines 2
 flocculi 3
