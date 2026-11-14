@@ -2530,7 +2530,7 @@ buenos 2
 bassetite 1
 bottonhook 4
 buckler 1
-barguest 2
+barguest 3
 barguests
 buzylene 3
 baria 2
@@ -3081,7 +3081,7 @@ bannack 2
 blague
 bertholletia 1
 boilerworks 3
-bullary
+bullary 1
 breather 3
 blastplate 3
 bating 3
@@ -4614,7 +4614,7 @@ bedchairs 1
 brocaded 2
 buffers 3
 bellowing
-baric 3
+baric 4
 brachelytrous 1
 barbituism 3
 boanerges 2
@@ -13395,7 +13395,7 @@ bluenoses 4
 billsticker 3
 bandage 1
 benjamite 5
-bothriocephalus 5
+bothriocephalus 6
 brosimum 2
 becut
 bothrium 5
@@ -15521,7 +15521,7 @@ brims 2
 brindisi 2
 barbitalism
 bromo 2
-beignet
+beignet 1
 bihai 1
 bans
 bondless
