@@ -27550,7 +27550,7 @@ cover
 containable 2
 coverages 3
 coverall 1
-coveralled
+coveralled 1
 coveralls 1
 coils
 coverchief 3
