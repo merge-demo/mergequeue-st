@@ -5666,7 +5666,7 @@ fluidising 7
 fireable 6
 flimsiness 1
 fairleads 1
-flinch 7
+flinch 8
 flagleaf 2
 fatted 4
 fishnets 3
@@ -6283,7 +6283,7 @@ fakirism 4
 forceful 2
 fluidounce 8
 factory 3
-fluigram 1
+fluigram 2
 filestatus 3
 frankincensed 3
 forsakenly 4
@@ -7699,7 +7699,7 @@ fruition 5
 foreturn 1
 flotter 4
 furriness 2
-fallfishes 2
+fallfishes 3
 forspeak 2
 favourers 2
 forehoofs 4
