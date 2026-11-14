@@ -1117,7 +1117,7 @@ budges 3
 bastiles 1
 bairn 3
 bypassed 1
-bransolder
+bransolder 1
 bromius 4
 barless 3
 baseless 4
@@ -2011,7 +2011,7 @@ bombard 4
 ballocks 2
 basilicas 2
 bangkok 1
-bountied 4
+bountied 5
 bacteriogenous 1
 bangladesh
 bespatters 2
@@ -3249,7 +3249,7 @@ begunk
 beautifying 3
 bisalt
 bote 2
-blottesquely 2
+blottesquely 3
 babbling 2
 biotechnological 3
 basilic 2
@@ -13732,7 +13732,7 @@ balija
 bouldery 2
 bouser 3
 bousouki 3
-bousoukia 2
+bousoukia 3
 brunswick
 boustrophedon 1
 bloomer 3
