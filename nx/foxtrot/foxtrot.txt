@@ -4105,7 +4105,7 @@ formal 1
 forgery 2
 fatalness 3
 fissipedal 6
-ferth 3
+ferth 4
 fiendful 2
 feuilletons 1
 frameworks
@@ -5681,7 +5681,7 @@ funeration 6
 fillebeg 2
 forbearant 3
 finite 3
-flancards
+flancards 1
 friended 6
 fuzz 2
 firking 1
