@@ -831,7 +831,7 @@ choreograph
 cy 2
 clasts 1
 caiman 3
-counterplot
+counterplot 1
 carbocinchomeronic 1
 catachthonian 1
 cayman 6
@@ -1141,7 +1141,7 @@ chromatosphere 5
 calcite 1
 carollers
 cuppers 2
-cloddiness 2
+cloddiness 3
 calcitic
 calcitrant 2
 calcitrate 2
@@ -8483,7 +8483,7 @@ champleve 2
 cephalofacial
 chiselled
 compositionally 1
-congealedness 2
+congealedness 3
 corslet 3
 chanca 1
 clangoring 1
@@ -16331,7 +16331,7 @@ censorable 4
 capacitation 1
 cliquedom
 cliqueier
-cliqueyness 3
+cliqueyness 4
 cytome 1
 cliques 1
 collocalia 1
@@ -17707,7 +17707,7 @@ cocoach 1
 cte
 chessboards
 campuses
-cashier 4
+cashier 5
 cocoanut 1
 chasing 3
 cocoawood 1
@@ -19645,7 +19645,7 @@ colza
 coating
 computations
 colzas
-com 4
+com 5
 coma
 comprobate
 carillon 1
