@@ -3539,7 +3539,7 @@ forehearth 3
 formant 4
 frightful 3
 foulsome 3
-filamentary 4
+filamentary 5
 flannelleaves 6
 fishfall 3
 flagrancy 3
@@ -4813,7 +4813,7 @@ francisco 1
 fasciolaria 7
 fancifulness 3
 flinching 3
-floatiest
+floatiest 1
 fullwords 4
 faena
 fellowshipping 2
@@ -7306,7 +7306,7 @@ fourteenfold 2
 flubdubbery 3
 furled 1
 forelock 4
-fopperies 3
+fopperies 4
 fopperly 4
 fraternized 5
 formaldoxime 1
