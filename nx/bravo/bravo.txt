@@ -257,7 +257,7 @@ beroe 3
 bacilli 3
 bothros 3
 bacillian 3
-bacillicidal 1
+bacillicidal 2
 blepharophryplasty
 bacillicidic
 bacilliform 1
@@ -6669,7 +6669,7 @@ basiotribe 1
 bering 1
 burghs 3
 busto 3
-ballhausplatz
+ballhausplatz 1
 babbles
 berytidae 2
 bergh 5
@@ -9372,7 +9372,7 @@ beau 3
 backwood
 bluebush 2
 bottommost 1
-birded
+birded 1
 bisectrix 3
 birdfarm 1
 brike
