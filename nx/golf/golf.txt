@@ -1898,7 +1898,7 @@ gnomesque 3
 gear 4
 gravewards 4
 guideship 3
-galactosuria
+galactosuria 1
 goalkeepers 3
 greaseless 3
 gushy 2
@@ -3190,7 +3190,7 @@ gundelet 5
 gilgul 5
 goldenwing 1
 galoot 2
-ginnle 4
+ginnle 5
 getatability 4
 gally 3
 glyceryl 2
@@ -7419,7 +7419,7 @@ gunflints 3
 gelsemine 2
 gunnery 2
 grangerization 6
-gadean 6
+gadean 7
 geniohyoglossus 1
 grateless 1
 gaiety 2
@@ -7743,7 +7743,7 @@ geopolitic 3
 girning 5
 gunpowderous 2
 globus 4
-grizzliest 4
+grizzliest 5
 goldworker 1
 gamins 5
 grouf 5
