@@ -3557,7 +3557,7 @@ drawbeam 2
 dissheathe
 dehwar 1
 defuze 4
-dakoities
+dakoities 1
 dissociative 1
 degage 3
 degames 3
