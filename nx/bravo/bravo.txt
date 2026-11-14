@@ -5736,7 +5736,7 @@ backsight 3
 bandlimit 2
 belight 2
 baaed 3
-bulgaria 1
+bulgaria 2
 bulldozer 2
 belike 1
 bogeying 2
@@ -10976,7 +10976,7 @@ bookcase 2
 blissom 2
 balden 1
 buxomer
-blistered
+blistered 1
 bunodonta 2
 botaurinae 2
 blisteringly 1
@@ -14386,7 +14386,7 @@ brayera 1
 brayerin 2
 brionies 1
 brutedom 2
-burry 3
+burry 4
 braies 2
 bleeping 3
 busticate 2
@@ -15364,7 +15364,7 @@ bridie 5
 broughta
 bridle 4
 blackpot 4
-boredom 1
+boredom 2
 bridoons 5
 blurt 6
 boomier 1
@@ -15597,7 +15597,7 @@ brisker 3
 buttonmould
 biosystematic 4
 broadcasted 2
-bluehead
+bluehead 1
 bewilder
 bouget 1
 biliprasin 2
