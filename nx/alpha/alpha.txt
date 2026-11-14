@@ -5558,7 +5558,7 @@ aftergrief
 antiendotoxin 1
 aftergrowth 2
 antipathy 2
-acton 1
+acton 2
 argot 4
 aluco 2
 acetonylidene 3
@@ -8490,7 +8490,7 @@ alacreatinine 1
 alkalizer 2
 afforested 2
 alkaloid
-alkaloids 1
+alkaloids 2
 adoption
 alkalosis
 alkalurops 2
@@ -17408,7 +17408,7 @@ applot
 adiate 2
 antiarchi
 apothegmatist
-acy 2
+acy 3
 atriensis
 autocratically
 apotheosised
