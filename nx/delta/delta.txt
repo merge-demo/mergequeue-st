@@ -6290,7 +6290,7 @@ disload 2
 dermatozzoa 3
 dermatrophia 3
 disgrade 3
-dephlegmatory 4
+dephlegmatory 5
 dermenchysis 1
 delacrimation
 dermestid 2
@@ -10606,7 +10606,7 @@ drawfile
 diphtheritic 2
 diplonema 1
 deuteric 1
-detritus 1
+detritus 2
 dunnaged 2
 diplont 1
 delisting 3
@@ -14341,7 +14341,7 @@ decrial 1
 defervescent 3
 dittying 3
 denizen 2
-dandified
+dandified 1
 deuteranomaly 1
 disadvantages 4
 ditto
@@ -14617,7 +14617,7 @@ dyslalia 1
 divulger
 dianodal 3
 derisible 2
-doomstead
+doomstead 1
 discipliner 1
 divulsing 1
 divvy 1
