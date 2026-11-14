@@ -1037,7 +1037,7 @@ frontons 3
 farrage 2
 ferroelectricity 4
 fleawort 2
-furziest 1
+furziest 2
 farrago 4
 flyted 2
 folkmote 3
@@ -1341,7 +1341,7 @@ fishbones 1
 frundel 4
 fidate 5
 fruticeous 2
-flaxdrop 2
+flaxdrop 3
 filecard 4
 flenser 2
 fullword 1
@@ -1625,7 +1625,7 @@ fellowless 3
 fipenny
 four 1
 fdnames 3
-farmhands 5
+farmhands 6
 fundamentalists 2
 forthcut 3
 fluible 2
@@ -1673,7 +1673,7 @@ fearingly 4
 ferineness 2
 fearless 3
 freighted 1
-forehammer 3
+forehammer 4
 fondlike 4
 frangible 2
 ferrament 3
@@ -3621,7 +3621,7 @@ ferroinclave 1
 fence 1
 forehalf 6
 finial 3
-finfish 5
+finfish 6
 fimbristylis 2
 florally 3
 fuchsines 3
@@ -3908,7 +3908,7 @@ fitly 8
 fullage 3
 frostproof 4
 frolicsomely 4
-fang 2
+fang 3
 foreseeable 2
 formalised 3
 filopodia 1
@@ -4707,7 +4707,7 @@ fluidram 2
 forte 4
 formula 3
 forefeels 4
-fucales 6
+fucales 7
 firesideship 2
 fantasticate 3
 frettage 5
@@ -7603,7 +7603,7 @@ fleshquake 5
 ferrules 1
 foredefeated 7
 frankheartedness 5
-fatuity 7
+fatuity 8
 footslogs 3
 flacherie 2
 forjudgment 5
@@ -10111,7 +10111,7 @@ flyball 2
 foamiest 1
 factitiousness 6
 footnotes 3
-fetalism 3
+fetalism 4
 fuscescent 4
 flammability 2
 fellowed
@@ -10992,7 +10992,7 @@ fumaroidal 2
 faipule 1
 foreadapt 2
 forthright 2
-focaloid
+focaloid 1
 foremilk 5
 firstborn 4
 finland 2
