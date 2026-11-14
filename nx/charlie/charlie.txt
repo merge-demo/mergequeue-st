@@ -3809,7 +3809,7 @@ conrail
 carbodynamite
 carbohemoglobin 2
 calamodendron 2
-cribbling 2
+cribbling 3
 carbohydrase 3
 cannibalism 4
 cardioncus
@@ -7987,7 +7987,7 @@ csects
 chaconnes
 caudatolenticular 3
 countermovement
-cytozoa
+cytozoa 1
 codirectional 1
 chacte
 chad 1
@@ -11929,7 +11929,7 @@ choreguses 1
 cannabin
 choreic 1
 choreiform
-consension 2
+consension 3
 choreman
 choreodrama 2
 corkmaker 1
@@ -13228,7 +13228,7 @@ cyclism 1
 choanoflagellida 1
 cyclitic 1
 commesso 2
-cyclization
+cyclization 1
 cyclizes 1
 cauld 1
 cistrons 1
@@ -14917,7 +14917,7 @@ cytotactic 2
 cerebroganglion
 cytotaxis
 creosols
-cascadable 1
+cascadable 2
 cytotaxonomy
 conky 1
 claudius
@@ -17172,7 +17172,7 @@ cowhearted
 chains
 coagulation 2
 coagulative
-chrysophenine 1
+chrysophenine 2
 coagulator
 cozeys
 chemick
@@ -24955,7 +24955,7 @@ chan 2
 crowbill 1
 capitaling 1
 clemclemalats 2
-concentrating 3
+concentrating 4
 coots 1
 cubomedusae 2
 cibation
@@ -25861,7 +25861,7 @@ clawback
 corrupting 1
 chuser
 coolant 2
-corruptingly 3
+corruptingly 4
 cimicid 3
 circumflexes 1
 commissurotomy 2
@@ -28329,7 +28329,7 @@ circuitor 1
 crave 1
 craved
 craven 3
-cudbears 2
+cudbears 3
 churchmen
 clans
 coheretic
