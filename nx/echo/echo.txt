@@ -329,7 +329,7 @@ extramolecular 4
 empresse 1
 embleming 2
 enleaf 1
-epirogenic 2
+epirogenic 3
 exigible 3
 eaten 2
 eighty 3
@@ -2200,7 +2200,7 @@ epiglottiditis 3
 eggless 4
 encrisp 3
 eldest 2
-eventuate 2
+eventuate 3
 engulfment 3
 eldrich 1
 eldritch
@@ -2635,7 +2635,7 @@ exulting 3
 entad 4
 exemplarity 4
 epipodite 1
-ethnocentrism 3
+ethnocentrism 4
 endodynamomorphic
 electrosmosis 1
 excelling 1
@@ -7245,7 +7245,7 @@ emigres 1
 eristics 3
 etherealize 3
 emulous 2
-eimeria
+eimeria 1
 eurypygae 2
 enterpillar 3
 eat 1

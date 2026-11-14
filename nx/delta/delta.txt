@@ -991,7 +991,7 @@ dagos 2
 dargo 5
 ding
 dignitaries 2
-derequisition 3
+derequisition 4
 disproportionate 4
 drest 4
 darics 3
@@ -2253,7 +2253,7 @@ dustbox 1
 discolourization 3
 determinative 4
 decimals 3
-decelerates 1
+decelerates 2
 dimedon 3
 dentolabial 1
 decembrist 5
@@ -3327,7 +3327,7 @@ donated 6
 definiens 2
 diapnoe 2
 derencephalocele 2
-dolabre 1
+dolabre 2
 decigram 1
 dartrous 1
 definish 1
@@ -7225,7 +7225,7 @@ duffels 8
 digitate
 decertify 4
 damnified
-detection 1
+detection 2
 diamantiferous 2
 devoutly 2
 deadlight 2
@@ -9419,7 +9419,7 @@ dalan 2
 dentolingual 1
 diabolus 1
 diner 2
-destructors
+destructors 1
 diether
 disenroll 1
 disheathing
@@ -17811,7 +17811,7 @@ depa 2
 desoxyanisoin 1
 duckbill 4
 dossing 2
-dumpies 4
+dumpies 5
 duckblind 2
 duckboard 4
 doublehatching 2
@@ -17937,7 +17937,7 @@ diddles 1
 duennas 1
 datable
 dissonous 4
-duennaship
+duennaship 1
 duer
 duessa 3
 delayingly 1
@@ -18319,7 +18319,7 @@ demodulated 4
 detrains 1
 dialyzability 1
 didelph 2
-demijohn 3
+demijohn 4
 dingledangle 2
 disintegration 3
 dunner
