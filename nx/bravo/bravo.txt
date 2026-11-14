@@ -6744,7 +6744,7 @@ berossos 2
 beround 1
 bendability 2
 berreaves 2
-berret 1
+berret 2
 berrettas
 bloodred 2
 bhaktimarga 5
@@ -13198,7 +13198,7 @@ boschneger 2
 boneen
 brigue 1
 bisext 3
-brachystomata 1
+brachystomata 2
 bender
 begemmed 6
 boschveld 2
@@ -18249,7 +18249,7 @@ battles 2
 bacteraemia 1
 bases 4
 backfold 3
-bioreaction
+bioreaction 1
 bocci
 batement 2
 butteryfingered 3
