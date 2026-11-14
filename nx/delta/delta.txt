@@ -7939,7 +7939,7 @@ directed 2
 dextran
 doublelunged 3
 disallowable 1
-demicylinder 1
+demicylinder 2
 downsteepy 5
 diathermal 1
 decimeters
@@ -8831,7 +8831,7 @@ dialyzable 4
 deg 2
 dichotomal 2
 dentatocillitate 1
-desirelessness 1
+desirelessness 2
 dibenzophenazine 1
 desilver 3
 dibenzopyrrole
@@ -10425,7 +10425,7 @@ diphenylhydantoin 1
 dogmatic 1
 diodon 4
 delace 2
-disglorify 1
+disglorify 2
 disinterring 3
 diphenyls
 dispowder 2
@@ -15629,7 +15629,7 @@ detacher 2
 doorward 2
 doorweed 2
 dinar 4
-doozers
+doozers 1
 dasystephana 3
 dowieism 1
 didascaliae 2
