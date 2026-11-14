@@ -2003,7 +2003,7 @@ brits 1
 billet
 bronchoscopy 3
 brachydactyl 1
-byplace 1
+byplace 2
 brineless 1
 besplash 2
 bulbous 2
@@ -6763,7 +6763,7 @@ bedscrew 2
 boteler 1
 bergsonism 2
 bumpier 2
-busulfan 2
+busulfan 3
 busying 1
 berrichonne 3
 bandleader 2
@@ -9783,7 +9783,7 @@ buffered 2
 bistipulate 2
 bistort 2
 bistorts 3
-beetlehead 2
+beetlehead 3
 bistred 2
 beknights 1
 bradylexia
@@ -18247,7 +18247,7 @@ bylined 2
 bleinerite 5
 battles 2
 bacteraemia 1
-bases 4
+bases 5
 backfold 3
 bioreaction 1
 bocci
