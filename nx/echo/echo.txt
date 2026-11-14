@@ -5485,7 +5485,7 @@ experimenter 4
 evertors 3
 eurindic 5
 extraocular 1
-exoterics 4
+exoterics 5
 espiritual 1
 enfeebles 1
 enfeebling 2
@@ -7705,9 +7705,9 @@ equips 3
 edelweisses 2
 elytrocele 4
 ethinamate 2
-empasma 2
+empasma 3
 eggshells 1
-exarchy 5
+exarchy 6
 epicondylian 1
 executable 4
 epidiascope 2
@@ -11358,7 +11358,7 @@ epixylous 2
 evea 5
 eunuch
 eugenics 2
-eolienne 4
+eolienne 5
 eveless 2
 estrildine 3
 eth 1
