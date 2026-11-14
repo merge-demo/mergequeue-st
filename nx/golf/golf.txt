@@ -3357,7 +3357,7 @@ gondolier 2
 gnatling 2
 gorkun 2
 galbe 4
-glaciable
+glaciable 1
 gyroscopic 4
 gravy
 gentiles 5
@@ -8835,7 +8835,7 @@ gunslinger 1
 garbles
 guileful 5
 generable 7
-gerful 1
+gerful 2
 gangan 1
 gablock 4
 glaiket 4
