@@ -1134,7 +1134,7 @@ enrichments 2
 economizers 3
 estuaries
 enterobiasis 1
-edomitish
+edomitish 1
 eutomous 1
 exorbitate 2
 emphasizes 4
@@ -6311,7 +6311,7 @@ ensphered 2
 eyespot 2
 enseal 4
 estancias 2
-esophoric 1
+esophoric 2
 extrovertish 5
 epuloid 3
 enseated 4
@@ -6525,7 +6525,7 @@ entendre 1
 epidermophytosis 2
 extravagating 1
 exciter 6
-entente 1
+entente 2
 erythorbate 2
 ethnohistorian 2
 epipolism 2
@@ -6615,7 +6615,7 @@ epactal 5
 enterologic 4
 epanastrophe 3
 ethionamide
-exhaled
+exhaled 1
 enteromegalia 1
 enteroneuritis 1
 effectuates 2
