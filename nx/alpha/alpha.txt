@@ -5557,7 +5557,7 @@ afterglow
 aftergrief
 antiendotoxin 1
 aftergrowth 2
-antipathy 1
+antipathy 2
 acton 1
 argot 4
 aluco 2
@@ -6119,7 +6119,7 @@ anorchism
 anisochromatic 3
 anapaestic 2
 aviatrix 3
-appay
+appay 1
 askile 2
 aminopeptidase 1
 aminocaproic 1
@@ -14028,7 +14028,7 @@ antievolutional 2
 austenitized 1
 aryepiglottic 3
 ablatively 3
-antarctogaea 3
+antarctogaea 4
 amphitropal 4
 alencon
 antitypic 4
