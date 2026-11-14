@@ -2450,7 +2450,7 @@ frontwise 4
 faitery 2
 foreproduct 3
 fermentable 8
-fermentativeness 1
+fermentativeness 2
 faradize 1
 falus 8
 footbridges 4
@@ -4397,7 +4397,7 @@ fiancees 2
 fasels 4
 feirie 3
 franchise 2
-fleta
+fleta 1
 fishfinger 5
 footgear
 fetters 7
@@ -8894,7 +8894,7 @@ flickers 1
 fading 4
 fatty 4
 forebye 3
-facioscapulohumeral 3
+facioscapulohumeral 4
 foreigners 5
 frenzily 2
 flashers 3
