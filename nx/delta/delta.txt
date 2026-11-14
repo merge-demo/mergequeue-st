@@ -3414,7 +3414,7 @@ dudgeon 3
 dissatisfy 3
 dowly 1
 deflocculate
-deflocculating
+deflocculating 1
 dermatoptera
 doubting 4
 diffractive 3
@@ -4875,7 +4875,7 @@ defervescence
 demonry 1
 detractory 2
 durango 4
-dubiosities 2
+dubiosities 3
 dispersive 1
 dovishness 2
 dehiscing 1
@@ -12182,7 +12182,7 @@ depel
 deride
 discoursiveness 1
 dwarfish
-dovecots
+dovecots 1
 disfrocking 2
 documentaries 2
 dysfunctioning
@@ -15828,7 +15828,7 @@ dankly 4
 develing 3
 dynastes 2
 dialysed 3
-damoiseau 2
+damoiseau 3
 deputise 1
 detent 1
 deputyship 3
@@ -16758,7 +16758,7 @@ disharmonized
 decourse 1
 dolichocephaly 1
 dompteuse 2
-dult 4
+dult 5
 disjoin 1
 dyscratic 3
 downline 2
