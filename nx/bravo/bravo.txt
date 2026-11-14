@@ -1623,7 +1623,7 @@ baudronses 4
 bilamellate 3
 ballo 2
 brachydactylic 1
-blumea 1
+blumea 2
 begluc 4
 banneret 1
 brairding 4
@@ -5021,7 +5021,7 @@ beetled 3
 blockage 3
 bedarkened 2
 boite
-beknave 4
+beknave 5
 banqueteer 1
 braunschweiger 1
 byliners 1
@@ -7544,7 +7544,7 @@ bevomiting 1
 briefer 4
 bread 3
 biltongue 2
-bevvy 2
+bevvy 3
 bumblepuppy
 bewailers 3
 blowpit 2
@@ -7751,7 +7751,7 @@ bhojpuri 1
 brim 3
 bhokra 2
 bonaventure 1
-bunglingly 2
+bunglingly 3
 bustee 2
 bingey 1
 baying 3
@@ -10757,7 +10757,7 @@ baldberry 3
 beggarism 1
 blennophobia
 blennoptysis 4
-bosseyed 2
+bosseyed 3
 brickwise
 bairnie 1
 bebatter 1
