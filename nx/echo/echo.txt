@@ -662,7 +662,7 @@ embowment 2
 expand 2
 eubasidii 1
 elmiest 7
-enhance 3
+enhance 4
 envier 1
 eclogic 3
 egressor 1
@@ -2600,7 +2600,7 @@ excerpted 2
 elliptically 4
 exercitor 3
 enjelly 2
-epithelize
+epithelize 1
 exothecate 1
 electrophoretogram 4
 exturb 4
@@ -10021,7 +10021,7 @@ epikia
 endeavour 2
 exempting
 equalist 1
-endocrinism 4
+endocrinism 5
 endoperidial 4
 endogamous 2
 eterne 3
