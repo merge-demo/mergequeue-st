@@ -4865,7 +4865,7 @@ carry
 carriageable 1
 carriageful
 clachans
-carriages 2
+carriages 3
 crosstie 3
 carriagesmith 2
 cinchonicin
@@ -6020,7 +6020,7 @@ collatress
 contratempo
 champs
 courtesans
-cardinalated 3
+cardinalated 4
 cryptostomata 1
 calendarial 1
 catholicalness 2
@@ -12088,7 +12088,7 @@ chose 1
 chophouses
 coursed 1
 choses 3
-chott
+chott 1
 chunky
 complicators 1
 chou 2
@@ -14241,7 +14241,7 @@ creoles 1
 canhoop
 circumintestinal 1
 circumjacence 1
-circumjacency 2
+circumjacency 3
 circumjovial 1
 circumlitio
 circumlittoral 1
@@ -16707,7 +16707,7 @@ catechismal 1
 clothespins
 centroplasm 1
 clothespresses 3
-cire 3
+cire 4
 clothiers 2
 clothings 2
 catharpin
