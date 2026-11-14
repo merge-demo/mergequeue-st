@@ -11356,7 +11356,7 @@ bankable 1
 bricked 2
 bromegrass 2
 bluchers 2
-bloodhound 1
+bloodhound 2
 belouke
 bludgeon 3
 bludgeons 3
@@ -18412,5 +18412,5 @@ buttonweed 2
 bwanas 2
 bombardmen 1
 banned 2
-bxs 2
+bxs 3
 bached 4
