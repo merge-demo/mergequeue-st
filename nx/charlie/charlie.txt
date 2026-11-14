@@ -3039,7 +3039,7 @@ cantoning
 cantonize 2
 colectomy 4
 countergager 2
-cantoral
+cantoral 1
 cantoria
 cardsharps 1
 calabooses 1
@@ -4155,7 +4155,7 @@ conformable 2
 chiropractor
 cardiodynia
 coadjacent 3
-calfret
+calfret 1
 coalheugh
 cardiogram
 cardiographer 1
@@ -10576,7 +10576,7 @@ chillness 1
 crucifixes 2
 concremation 2
 celebrator 3
-chillroom
+chillroom 1
 chills 1
 chillsome 1
 countermove 1
@@ -14573,7 +14573,7 @@ cryptorchid
 catholicism 1
 cystidium 3
 candescent
-cenobite 1
+cenobite 2
 cyath
 cystiform
 clockmutch 2
@@ -25051,7 +25051,7 @@ cordilleras 1
 cordinar
 cordlessly 3
 crucifyfied
-cordlike
+cordlike 1
 configured 1
 cordobas
 cordon 2
@@ -25398,7 +25398,7 @@ cornetists 3
 cornets 2
 coquette
 cornetter
-carkled 2
+carkled 3
 cornetti 2
 cornettino 4
 cornettist 1
@@ -31609,7 +31609,7 @@ curve
 constructed 1
 curvedly 1
 capitoul 1
-curver 1
+curver 2
 chic 2
 curvesomeness 2
 cyclosporales 2
