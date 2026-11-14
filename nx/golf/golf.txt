@@ -899,7 +899,7 @@ gametocyst 4
 gametocyte 8
 gametogenic 4
 gooseflesh 1
-gueparde 1
+gueparde 2
 geognost 4
 grassfire 5
 gobioid 3
@@ -4908,7 +4908,7 @@ grafters 1
 goldhead 1
 genealogists 1
 goofballs 2
-growled 4
+growled 5
 guariba 4
 global 5
 genially 4
