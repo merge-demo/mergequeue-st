@@ -2253,7 +2253,7 @@ dustbox 1
 discolourization 3
 determinative 4
 decimals 3
-decelerates 1
+decelerates 2
 dimedon 3
 dentolabial 1
 decembrist 5
@@ -9419,7 +9419,7 @@ dalan 2
 dentolingual 1
 diabolus 1
 diner 2
-destructors
+destructors 1
 diether
 disenroll 1
 disheathing
@@ -18319,7 +18319,7 @@ demodulated 4
 detrains 1
 dialyzability 1
 didelph 2
-demijohn 3
+demijohn 4
 dingledangle 2
 disintegration 3
 dunner
