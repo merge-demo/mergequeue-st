@@ -3960,7 +3960,7 @@ bassette
 bunch
 bristols 1
 behelp 1
-bdellovibrio 2
+bdellovibrio 3
 brushbird 2
 bakerite
 butanes
@@ -11769,7 +11769,7 @@ bigeyes
 bacteriopurpurin 4
 barrens 3
 bucephala
-biology
+biology 1
 beringleted 3
 backed 1
 bobstays 1
