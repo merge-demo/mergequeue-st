@@ -2806,7 +2806,7 @@ etymol 2
 exampleless 1
 enalid 4
 ecodeme 4
-enhancive 2
+enhancive 3
 equatorially 4
 encephalon 2
 epipolic
@@ -5722,7 +5722,7 @@ engystomatidae 3
 enatic 5
 entamoeba 3
 etherol
-extinguish
+extinguish 1
 eke 3
 ephorus 5
 enticers 1
@@ -7977,7 +7977,7 @@ expectorations 2
 endovasculitis 2
 exsanguious 4
 exophoria 2
-euthenist 1
+euthenist 2
 equuleus 1
 ecliptic 3
 encoop 1
