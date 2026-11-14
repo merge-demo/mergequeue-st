@@ -457,7 +457,7 @@ cactus 2
 copying 1
 civilisable 3
 chancered
-cactuslike 1
+cactuslike 2
 cinclidotus 1
 cassavas 1
 cartages
@@ -10672,7 +10672,7 @@ chymify 2
 cobnuts 1
 confide
 cholinesterase 1
-chiminage 4
+chiminage 5
 chimla
 chimleys 1
 chain 1
