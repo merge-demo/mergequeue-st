@@ -3039,7 +3039,7 @@ cantoning
 cantonize 2
 colectomy 4
 countergager 2
-cantoral
+cantoral 1
 cantoria
 cardsharps 1
 calabooses 1
@@ -3151,7 +3151,7 @@ carbogelatin 1
 cape 1
 chequerboard
 capeadores 2
-capelan
+capelan 1
 chromid 2
 capelin 1
 cornette
@@ -4155,7 +4155,7 @@ conformable 2
 chiropractor
 cardiodynia
 coadjacent 3
-calfret
+calfret 1
 coalheugh
 cardiogram
 cardiographer 1
@@ -5380,7 +5380,7 @@ concessive 1
 casteless
 chifforobes
 chimerical 2
-citator 1
+citator 2
 chuckie
 castellany 3
 crizzling
@@ -10576,7 +10576,7 @@ chillness 1
 crucifixes 2
 concremation 2
 celebrator 3
-chillroom
+chillroom 1
 chills 1
 chillsome 1
 countermove 1
@@ -25398,7 +25398,7 @@ cornetists 3
 cornets 2
 coquette
 cornetter
-carkled 2
+carkled 3
 cornetti 2
 cornettino 4
 cornettist 1
@@ -30138,7 +30138,7 @@ complementing
 coincidency
 crownwork
 crownwort
-crowshay
+crowshay 1
 cryocautery 2
 crowstepped
 citee
