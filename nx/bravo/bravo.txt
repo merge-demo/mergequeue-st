@@ -9106,7 +9106,7 @@ bestrows
 befits 1
 blankminded 1
 buzzwigs 1
-burlier 1
+burlier 2
 boylikeness 3
 bioscopy 7
 bioscopic 1
@@ -11356,7 +11356,7 @@ bankable 1
 bricked 2
 bromegrass 2
 bluchers 2
-bloodhound 1
+bloodhound 2
 belouke
 bludgeon 3
 bludgeons 3
@@ -13076,7 +13076,7 @@ blizzard 2
 borecoles 3
 buddhic 3
 bored 1
-borsches
+borsches 1
 bierstubes 2
 boehmenist 2
 boreen 3
@@ -16975,7 +16975,7 @@ beclowned 2
 byss 1
 buys 2
 beshivering 4
-bul 2
+bul 3
 brittler 2
 babylonic 1
 binit 2
@@ -17963,7 +17963,7 @@ bemoult 2
 bronzelike 2
 bushwhacked 1
 beanball 1
-boheas 3
+boheas 4
 bellowsman 1
 busybody 2
 brachysm 4
@@ -18412,5 +18412,5 @@ buttonweed 2
 bwanas 2
 bombardmen 1
 banned 2
-bxs 2
+bxs 3
 bached 4
