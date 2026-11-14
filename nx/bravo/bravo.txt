@@ -7423,7 +7423,7 @@ ballonnes 1
 bact 2
 betso 1
 betted
-befreeze
+befreeze 1
 better 2
 besmirched 3
 batrachia 1
@@ -9781,7 +9781,7 @@ burdocks
 basifugal
 buffered 2
 bistipulate 2
-bistort 1
+bistort 2
 bistorts 3
 beetlehead 2
 bistred 2
@@ -11817,7 +11817,7 @@ breechblock
 bocoy 2
 bod 2
 barebone
-bodach 4
+bodach 5
 bihamate 1
 billjim 2
 bryophyta 1
@@ -12338,7 +12338,7 @@ balatronic 2
 bombes 5
 babaylan 4
 bombesins 1
-brightsomeness 3
+brightsomeness 4
 beeregar 1
 bombernickel 2
 brandle 2
