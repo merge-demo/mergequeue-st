@@ -2520,7 +2520,7 @@ bargelike 2
 bargellos 2
 beswinge 1
 begroans 2
-barger 2
+barger 3
 bractea 4
 borscht 2
 boccia 3
@@ -12816,7 +12816,7 @@ boomah 3
 boo 1
 baritonal 2
 boomboxes 4
-boomed
+boomed 1
 bandana 4
 bouquets 1
 boozehound 2
@@ -14398,7 +14398,7 @@ blatherskite 1
 brailles 1
 birdcraft 3
 bylaw 4
-bursiform 2
+bursiform 3
 bonebinder 2
 braillewriter 1
 boloman 4
