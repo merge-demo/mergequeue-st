@@ -3893,7 +3893,7 @@ farming
 footslogged 5
 febriferous 3
 fluidextract 3
-findable 2
+findable 3
 fruz 6
 familiarize
 function 1
@@ -7282,7 +7282,7 @@ freesheet 3
 figuring 4
 fiants 5
 freshment 1
-fibrilations 3
+fibrilations 4
 fossilism 3
 filefish 4
 frache 6
