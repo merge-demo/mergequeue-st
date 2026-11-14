@@ -3551,7 +3551,7 @@ captainry 1
 captainship 1
 counterpetition 1
 communistically 2
-chaotically 2
+chaotically 3
 chemicked
 concordat 1
 captate 1
@@ -4442,7 +4442,7 @@ congregations 1
 caryopsis 1
 courthouses 2
 cariri
-caririan 2
+caririan 3
 commoner 1
 choke 4
 carisa 1
@@ -6396,7 +6396,7 @@ cribbers 3
 cilantro 2
 cautery
 cauteries
-cauterisation 4
+cauterisation 5
 cauterise 3
 collision
 cloudland 2
@@ -7608,7 +7608,7 @@ collarets
 cerements
 crestal 1
 cucuyo 1
-coiffing
+coiffing 1
 cyclings
 curettes
 concessionist 2
@@ -10355,7 +10355,7 @@ colly 2
 cystinuria 3
 chics 2
 chide 1
-callid 1
+callid 2
 classing 3
 chided 1
 chiders 1
@@ -12713,7 +12713,7 @@ chuddah
 courtesied 4
 countermarch
 cassone 1
-challengers
+challengers 1
 conventioneer
 clingingness
 countervail 1
@@ -19682,7 +19682,7 @@ cowerer
 coquilla 2
 camarilla 1
 copintank
-catogene 2
+catogene 3
 canadianisms 2
 compendiousness
 claptrap 1
@@ -19861,7 +19861,7 @@ comfier 2
 calamites 2
 calamopitys 1
 chamaedaphne 1
-cohibitive
+cohibitive 1
 cuspidation 2
 comfiness
 coulometrically 1
