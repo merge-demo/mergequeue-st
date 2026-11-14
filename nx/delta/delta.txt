@@ -8683,7 +8683,7 @@ dichastasis 1
 deathrate 2
 depolarizing 2
 diethylethanolamine 2
-diastereoisomerism 2
+diastereoisomerism 3
 dodges
 druid 1
 dismayed 4
