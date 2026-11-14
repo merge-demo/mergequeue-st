@@ -604,7 +604,7 @@ gurnets 5
 gramaries 2
 gazophylacium 3
 gemmiparously 4
-glassed 4
+glassed 5
 gnaphalioid 5
 gallisin 2
 gillie 4
@@ -657,7 +657,7 @@ gravelish 1
 gangboard 6
 gamely 4
 gallows 5
-gonitis 6
+gonitis 7
 giddify 2
 geoaesthesia 5
 gravitic 3
@@ -4168,7 +4168,7 @@ gabbiness 3
 gastornis 4
 gynaeconitis 2
 geysers 4
-gastrulas 1
+gastrulas 2
 gynandria 2
 gladiators 6
 gunated 5
@@ -6074,7 +6074,7 @@ gramineous 2
 gneiss 4
 goosebeak 8
 gullibly 4
-gryphosaurus 4
+gryphosaurus 5
 gnessic 7
 gastromancy 5
 golcondas 4
@@ -8091,7 +8091,7 @@ gastrostomus 3
 gaslightness 6
 granitite 1
 geomagnetism 3
-ghain
+ghain 1
 genteelish 5
 gesning 5
 gentlewoman
