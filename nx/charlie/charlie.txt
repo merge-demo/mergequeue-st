@@ -3809,7 +3809,7 @@ conrail
 carbodynamite
 carbohemoglobin 2
 calamodendron 2
-cribbling 2
+cribbling 3
 carbohydrase 3
 cannibalism 4
 cardioncus
@@ -13228,7 +13228,7 @@ cyclism 1
 choanoflagellida 1
 cyclitic 1
 commesso 2
-cyclization
+cyclization 1
 cyclizes 1
 cauld 1
 cistrons 1
