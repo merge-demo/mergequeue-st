@@ -1689,7 +1689,7 @@ feased 3
 folic 2
 footmen 3
 fumigant 4
-fingrigo
+fingrigo 1
 foreshowing 2
 forprise 3
 fibrinoalbuminous 2
@@ -3900,7 +3900,7 @@ function 1
 findhorn 1
 filarees 3
 fine 1
-fineableness 2
+fineableness 3
 fumigators 2
 fusinist 4
 fluoridated 1
@@ -9356,7 +9356,7 @@ forgivingly 4
 filmstrip 2
 furlough 1
 fantasies 4
-feckfully 1
+feckfully 2
 footrest 1
 forzato 4
 finnicky 4
