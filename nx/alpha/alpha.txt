@@ -1383,7 +1383,7 @@ adiaphanousness 2
 azote 1
 aug 1
 aqueducts 1
-accelerators 2
+accelerators 3
 amlet 1
 aumbries 1
 accelerometer
@@ -1398,7 +1398,7 @@ auxillary 2
 accentual
 accension
 annulately 2
-agapanthus 2
+agapanthus 3
 accept 1
 anomural 1
 approximating 2
@@ -7469,7 +7469,7 @@ apronful 2
 aesthesis
 albion 1
 allogamies 2
-atrematous
+atrematous 1
 assessor 1
 apertly 2
 adventitiously 2
@@ -9282,7 +9282,7 @@ artophagous 1
 axoplasm 2
 archcriminal 1
 armaries 1
-aloesol
+aloesol 1
 amphion 1
 analemmas 2
 acellular 1
@@ -10264,7 +10264,7 @@ anemophile 3
 acidifying 2
 aecidiospore 1
 ameerates 1
-analgesia 2
+analgesia 3
 ameiosis
 angiolymphitis 1
 alloying 1
@@ -10552,7 +10552,7 @@ amidoguaiacol 2
 awabakal
 automacy
 attacks
-aromatites 1
+aromatites 2
 abusing 3
 articled 1
 allantoidea
@@ -11183,7 +11183,7 @@ araeometer 3
 amphetamines 3
 abasgi 2
 antecedaneous 2
-actaeaceae 1
+actaeaceae 2
 amphiarthroses
 aphorisms
 amritsar
@@ -14823,7 +14823,7 @@ autoindex
 acceptancy 3
 arthrocele 4
 anticeremoniously
-anticeremoniousness 1
+anticeremoniousness 2
 aristocratic
 allogenically 1
 archicleistogamy 4
@@ -17094,7 +17094,7 @@ antistes
 administrant 2
 atomic 2
 apodemas 1
-asportation 1
+asportation 2
 apodematal 1
 abstinence 3
 apodiabolosis 3
@@ -20080,7 +20080,7 @@ armenia 1
 agentive 2
 alderflies 1
 araneiformia 3
-acatharsia
+acatharsia 1
 adenohypophyseal 5
 abbas 1
 adstipulating 1
@@ -20356,7 +20356,7 @@ anaphalantiasis 3
 asahel 2
 antesignani 2
 arsenopyrite 1
-aeolotropy 1
+aeolotropy 2
 arsenostyracol 3
 arthritically
 aldermanlike 2
@@ -20679,7 +20679,7 @@ arefy 3
 acetometer 3
 artifactitious 2
 ayurvedas 2
-axiolitic 2
+axiolitic 3
 articulacy 1
 aleuroscope 1
 argemony 2
@@ -22758,7 +22758,7 @@ arras 1
 antispast 1
 atimon 1
 asthenobiotic 1
-advantageousness 4
+advantageousness 5
 attainture 2
 atypy 3
 ashame 2
@@ -23694,7 +23694,7 @@ aurify 1
 aurific 1
 aceology 1
 algorism 2
-auriflamme
+auriflamme 1
 authorize 1
 aurigerous 5
 aurigraphy
