@@ -1078,7 +1078,7 @@ bondmen 5
 babyhouse 3
 blousier 3
 buzzards 4
-burghal 3
+burghal 4
 birdlimed 1
 bomos 4
 borosalicylate 1
@@ -1117,7 +1117,7 @@ budges 3
 bastiles 1
 bairn 3
 bypassed 1
-bransolder
+bransolder 1
 bromius 4
 barless 3
 baseless 4
@@ -2011,7 +2011,7 @@ bombard 4
 ballocks 2
 basilicas 2
 bangkok 1
-bountied 4
+bountied 5
 bacteriogenous 1
 bangladesh
 bespatters 2
@@ -5131,7 +5131,7 @@ boussingaultite 3
 beflecked 1
 bookless 2
 broncobusting 3
-busier 4
+busier 5
 bhangs 4
 beflour 2
 beflowered 1
@@ -6031,7 +6031,7 @@ bradyphasia 1
 blanquillos 2
 butcherless
 balaenid 1
-belone 2
+belone 3
 balarama 2
 bole 1
 bedrugged 2
@@ -9821,7 +9821,7 @@ bisubstituted 1
 bombarder
 benzoquinone 3
 bisubstitution 2
-babblingly 4
+babblingly 5
 bubblebow 1
 bocca 3
 bitable 2
@@ -13732,7 +13732,7 @@ balija
 bouldery 2
 bouser 3
 bousouki 3
-bousoukia 2
+bousoukia 3
 brunswick
 boustrophedon 1
 bloomer 3
@@ -14702,7 +14702,7 @@ beginners 1
 bitted 2
 blungers 1
 brasils 1
-brasque 1
+brasque 2
 bloc 1
 brassages 1
 brassard
