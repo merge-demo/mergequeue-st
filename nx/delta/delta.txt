@@ -3557,7 +3557,7 @@ drawbeam 2
 dissheathe
 dehwar 1
 defuze 4
-dakoities
+dakoities 1
 dissociative 1
 degage 3
 degames 3
@@ -5851,7 +5851,7 @@ disembargoed 4
 deodars
 diablene 2
 duffy 3
-deprehend 2
+deprehend 3
 disprofit 4
 damsel
 diploptera 3
@@ -15572,7 +15572,7 @@ doomed 1
 doomer 2
 danakil 1
 decerning 2
-disconnections 3
+disconnections 4
 dissentaneousness 1
 digor 3
 doomsayer 2
@@ -17052,7 +17052,7 @@ dressier 2
 diva 1
 dullest 3
 daughters 3
-donned 4
+donned 5
 dipsosis 1
 dreamsily 1
 depressively 3
