@@ -3920,7 +3920,7 @@ begray 2
 bazars 1
 bint 3
 brockage
-bazooka
+bazooka 1
 blunge 2
 baumhauerite 4
 boychik 2
@@ -5774,7 +5774,7 @@ bursula 1
 bood 5
 bermudians 1
 biarticular 1
-bylining 1
+bylining 2
 bellboys
 belay 1
 belled 3
