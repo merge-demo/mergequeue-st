@@ -1678,7 +1678,7 @@ fondlike 4
 frangible 2
 ferrament 3
 fleeching 3
-furnace 6
+furnace 7
 fingertip 7
 foreordaining 5
 forehandsel 3
@@ -2025,7 +2025,7 @@ fullam 3
 farragoes 2
 fannell
 fireworky 4
-fractionizing 4
+fractionizing 5
 freshens 4
 fieldwards 2
 finestra 5
@@ -2368,7 +2368,7 @@ feres 4
 fatherlands 4
 floatstone 1
 fegs 2
-frolicky 1
+frolicky 2
 favoritism 3
 ferforth 6
 falconiformes 3
@@ -3526,7 +3526,7 @@ fly 2
 fissipalmation 3
 flexuoseness 6
 feud 3
-fitchets 4
+fitchets 5
 fidgeter 2
 floundering 3
 flicked 4
@@ -5694,7 +5694,7 @@ fiddlestring 6
 freestyle
 fishwife 2
 foreordinated 8
-flinkite 4
+flinkite 5
 fluffer 2
 fasnacht 7
 ferratin 5
@@ -8750,7 +8750,7 @@ fortieth 2
 feminisms 3
 forefended 4
 fortify 2
-footrill 2
+footrill 3
 fibroids 4
 favellidium 2
 flaxwench 5
