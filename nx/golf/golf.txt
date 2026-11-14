@@ -55,7 +55,7 @@ gedact 8
 gangue 6
 glaucolite 2
 guemal 3
-geometrine 4
+geometrine 5
 gelatinousness
 glucosidic 4
 goofball 3
@@ -1348,7 +1348,7 @@ galvanist 2
 geoside 3
 glomerulus 1
 galloner 3
-geikia 6
+geikia 7
 garnisheement 4
 glorifier 2
 gonochoristic 5
@@ -1456,7 +1456,7 @@ gaoler 7
 gerousia 4
 gove 3
 gynocardia 3
-gradualness 7
+gradualness 8
 gasboat 8
 giddiness
 gaselier 2
@@ -2752,7 +2752,7 @@ graduals 3
 gurr 6
 gemeinde 2
 gaunt 3
-growling 1
+growling 2
 gimmor 2
 gascoigny 5
 greatcoat 6
@@ -2940,7 +2940,7 @@ glitterance 4
 geogeny 1
 gerara 4
 grozart 4
-gullability 6
+gullability 7
 grogger 3
 gardenias 2
 geognosy 6
@@ -3086,7 +3086,7 @@ guaniferous 3
 glucina 4
 geopotential 7
 gelosin 2
-grassplot 9
+grassplot 10
 georgemas 3
 germanite 5
 gurgles 4
@@ -3161,7 +3161,7 @@ guerdoning 1
 gephyrea 4
 gwendolen 4
 gular 2
-gallomania 3
+gallomania 4
 gaudiness 2
 getup 2
 golilla 4
@@ -3209,7 +3209,7 @@ gametophytic 4
 grainedness 9
 genuses 2
 goldminer 3
-graywacke 1
+graywacke 2
 gruellers 2
 glucemia 3
 geosynclines 3
@@ -3530,7 +3530,7 @@ gharnao 6
 gilbertian 5
 glossa 2
 gambolled 1
-goniaster 4
+goniaster 5
 gnomelike 1
 gloryingly 3
 gregarinaria 1
@@ -4143,7 +4143,7 @@ gulflike 1
 gnomons 3
 geniculum 4
 gossy 4
-gymnotus 3
+gymnotus 4
 gutling 2
 geomagnetic 3
 gimped 4
@@ -4290,7 +4290,7 @@ gallacetophenone
 golfdom 2
 glittersome 4
 ganancial 3
-gigerium 1
+gigerium 2
 glycogeny 2
 gashy 4
 gelatiniser 2
@@ -4472,7 +4472,7 @@ gypster 3
 gamb 3
 grapey 2
 gomutis 1
-gambrel 3
+gambrel 4
 gills 7
 graminiform 1
 gerbille 3
@@ -4860,7 +4860,7 @@ glaired 2
 geomaly 7
 gangway 5
 guvacoline 4
-gidyea
+gidyea 1
 gogga 5
 giantize 3
 gallimatia 2
@@ -5894,7 +5894,7 @@ goitrous
 gaits 2
 gasogene 1
 goliardeys 3
-groveless 1
+groveless 2
 goldarn 4
 gilgames 3
 glebe 2
@@ -6308,7 +6308,7 @@ goldenpert 4
 gallivanters 3
 gebang 1
 gardevisure 2
-gobo 3
+gobo 4
 globins 3
 gaybine 2
 gobony 3
@@ -6325,7 +6325,7 @@ graplines 2
 gamic 2
 greentail 3
 gonake 2
-galore 5
+galore 6
 grotesqueries 4
 gradating 4
 goethian 2
@@ -6662,7 +6662,7 @@ gastroscopies 2
 golach 3
 gimlets 3
 gayway 7
-garce 4
+garce 5
 guarnieri 3
 gumboils 3
 gastropancreatic 3
@@ -6900,7 +6900,7 @@ ganglioform 2
 geographer 1
 geneserine 3
 gangliglia 3
-gestations 4
+gestations 5
 gunpoints 2
 grundyite 4
 galacthidrosis 1
@@ -7824,7 +7824,7 @@ gunung
 gleg 2
 grandevous 6
 greeny 4
-grubworm 3
+grubworm 4
 gnaws 2
 gillstoup 1
 gauchely 4
@@ -8727,7 +8727,7 @@ guttled
 guttling 1
 germiniparous 1
 greekize 2
-gavelling
+gavelling 1
 grammars 4
 gearing 3
 gastraeal 9
@@ -9902,7 +9902,7 @@ granulet 7
 gallop 2
 galiots 6
 groundnut 4
-gratulatorily 1
+gratulatorily 2
 genitory 3
 genevese 1
 girderless 5
@@ -10868,7 +10868,7 @@ gastropancreatitis 2
 graduation 6
 guaranteer 6
 graphidiaceae 4
-gastrulation 1
+gastrulation 2
 gils 6
 geodesist 2
 gyrophora 4
