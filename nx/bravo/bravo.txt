@@ -621,7 +621,7 @@ bostangi
 bastiment 2
 bacteriodiagnosis 1
 bromates 1
-benomyls 2
+benomyls 3
 behearse 1
 bacterid 3
 birdcages 3
@@ -1833,7 +1833,7 @@ blennocystitis 3
 becobweb 6
 beebreads 1
 bizardite 3
-bepurple
+bepurple 1
 banago 1
 buzzy 3
 brimming 1
@@ -5062,7 +5062,7 @@ bowfin 2
 bloodthirst 1
 befamilied 1
 biogeography
-bibracteolate 2
+bibracteolate 3
 bewith
 befeather 3
 becoming 2
@@ -5156,7 +5156,7 @@ boomorah 1
 blende 3
 broadside 2
 beggarer 2
-buccinatory 1
+buccinatory 2
 bagpod
 baffled 3
 bashment
@@ -6053,7 +6053,7 @@ butyral 1
 botaniser
 bemurmure 4
 bemurmuring 1
-befooled 3
+befooled 4
 bemuses 1
 belknap 2
 bol 3
@@ -7950,7 +7950,7 @@ bowlders 1
 bistoury 2
 buoyed 1
 blockwood 1
-bushido 3
+bushido 4
 buibui
 biblus 2
 boanbura
