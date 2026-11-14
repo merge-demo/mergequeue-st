@@ -171,7 +171,7 @@ bipacks
 bulwark 2
 boh 2
 begladded 1
-baccalaureate 1
+baccalaureate 2
 baccalaureates 1
 baccalaureus 3
 baccara 2
@@ -799,7 +799,7 @@ badnesses 3
 bradylogia 4
 bads 2
 bicetyl 3
-beeline
+beeline 1
 bibliotherapy 1
 bethorn 2
 blackout 2
@@ -9792,7 +9792,7 @@ baronetage 3
 belder 2
 beglitter 3
 basiating 5
-blemish 3
+blemish 4
 bemixing 2
 biophysicochemical
 backstretches 1
@@ -14018,7 +14018,7 @@ blendor 5
 bracae 2
 biblioclasm 3
 bothriums 2
-bracciale 1
+bracciale 2
 boobyish 1
 brace 3
 bruke 1
@@ -15149,7 +15149,7 @@ besmearer 2
 bizen 4
 breviloquent
 blimp 3
-bushhammer 4
+bushhammer 5
 breviradiate 2
 blithely 4
 bugeyed 1
@@ -16256,7 +16256,7 @@ berrypicking
 bestink 1
 buzzbomb 1
 bluejackets 2
-browned
+browned 1
 brecciate 2
 buscarl 1
 brandishers 3
