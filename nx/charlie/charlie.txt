@@ -9469,7 +9469,7 @@ check
 communizing
 checkage
 checkback
-checkbite 1
+checkbite 2
 checkbits
 checkbook 1
 counterbuff
@@ -16554,7 +16554,7 @@ cloistering
 cheeky 3
 comal 4
 culet 2
-croupes 2
+croupes 3
 chirm
 cloisterly
 carburization 2
@@ -22336,7 +22336,7 @@ congregable
 congreganist 2
 crooks
 congregant
-castanean
+castanean 1
 congregated 1
 christed 1
 cardiotoxic
@@ -24253,7 +24253,7 @@ collinear 1
 clippings
 callistemon
 contakia 3
-candled 1
+candled 2
 caponised 3
 craped 1
 convolvulaceae 1
