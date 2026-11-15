@@ -3848,7 +3848,7 @@ dressages
 dismast 1
 discastle 1
 dictature 1
-dissect 4
+dissect 5
 disp 1
 dyscrasite 2
 deerdog 1
@@ -17273,7 +17273,7 @@ dacryolith 5
 dressmake 6
 dureresque 3
 drizzly 2
-drizzlier 1
+drizzlier 2
 drizzliest 2
 diablery 2
 digresser 1
