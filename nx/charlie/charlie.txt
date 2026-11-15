@@ -11656,7 +11656,7 @@ charoset 1
 clethra
 cholesterinic 3
 cholesterol 1
-clepsydrae
+clepsydrae 1
 cholesterolemia 1
 cholesteroluria
 choletelin 4
@@ -16921,7 +16921,7 @@ clumpst
 clumse
 clumsy
 cloyer 2
-clumsiest
+clumsiest 1
 clumsily
 coenosteal
 choule
