@@ -3680,7 +3680,7 @@ dregginess
 dewlaps 1
 dollars 1
 dehache 1
-dehypnotize
+dehypnotize 1
 disorganising 2
 desuetude 1
 disburdening 2
@@ -4798,7 +4798,7 @@ descriptor 2
 defenestrates 1
 demonetize 3
 derotrema 3
-dextrous 2
+dextrous 3
 diethylstilboestrol 3
 dyscrasing 3
 dermatosis 3
@@ -5136,7 +5136,7 @@ denyer 4
 didromy 2
 demiurgically 3
 damia 5
-decarburation 1
+decarburation 2
 desertic 1
 denierer 1
 denigrates 3
@@ -17574,7 +17574,7 @@ decolour 3
 disassimilation 1
 dynamiter 3
 desisting 3
-drumline 1
+drumline 2
 depolarised 1
 disinflationary 2
 disappeared 3
