@@ -3783,7 +3783,7 @@ gameball 3
 gantlets 5
 gastroenterotomy 5
 giver 4
-ground 7
+ground 8
 gids 6
 garotte 4
 goodish 5
@@ -5216,7 +5216,7 @@ glenohumeral 4
 genomes 5
 grouted 6
 garnets 4
-grosgrained 6
+grosgrained 7
 guitarfish 2
 gliadine 2
 galvanism 3
@@ -9617,7 +9617,7 @@ grumium 4
 glaucodote 3
 geests 3
 goiter 4
-grizzlier 3
+grizzlier 4
 guarish 4
 gummite 6
 grandma
