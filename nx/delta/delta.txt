@@ -1982,7 +1982,7 @@ dopant 2
 discostate 2
 debuted 1
 desirable 3
-diced
+diced 1
 dermatoma 1
 drover 3
 demyelinate 2
@@ -2737,7 +2737,7 @@ dolichocephalous 3
 decorticosis 4
 decortization 2
 decorum 3
-disconsideration 2
+disconsideration 3
 dactylorhiza 1
 diamber 6
 dirige 2
@@ -3674,7 +3674,7 @@ dactylopterus
 daunting
 dictamnus 3
 degust
-degusted 2
+degusted 3
 disbowelled 2
 dregginess
 dewlaps 1
@@ -8429,7 +8429,7 @@ dorsocervically 2
 devotionalist 3
 dorsiventrally 2
 ds 1
-degreed 1
+degreed 2
 diamagnet 2
 diamagnetism 4
 dredging 1
@@ -18611,7 +18611,7 @@ desperadoism 1
 dustheap 2
 dedo 3
 daincha
-dustless 1
+dustless 2
 droguet 2
 diakonikon 2
 dustour
