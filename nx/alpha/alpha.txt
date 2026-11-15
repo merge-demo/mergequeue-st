@@ -2531,7 +2531,7 @@ agregation 1
 aforethought 1
 avile 2
 acocantherin
-awaredom
+awaredom 1
 acockbill
 alcoholizable 1
 antireduction
@@ -2870,7 +2870,7 @@ airworthier
 armorproof 1
 archostenosis
 autocamping 1
-acromicria 2
+acromicria 3
 aspersers 3
 athonite 3
 autodiagnosis 1
@@ -13753,7 +13753,7 @@ albinism
 asps 1
 anomaluridae 2
 archmonarchy 2
-alcoholomania 1
+alcoholomania 2
 augmenter 5
 antileak 1
 alibis 1
@@ -17567,7 +17567,7 @@ androspore 1
 antixerophthalmic 1
 appendency 1
 aquacultural 3
-appendicalgia 3
+appendicalgia 4
 antipodist 2
 ascii 1
 alienees 1

@@ -522,7 +522,7 @@ dalmatic 1
 dalt 3
 dalton 3
 denomination 1
-dermaskeleton 2
+dermaskeleton 3
 dama 2
 damageability 3
 damageably 1
@@ -17601,7 +17601,7 @@ drumroll 4
 drumrolls
 drums
 decalcifier 3
-drumstick 1
+drumstick 2
 detoxicant 1
 drunk 5
 desuperheater 2
