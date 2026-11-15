@@ -1458,7 +1458,7 @@ gove 3
 gynocardia 3
 gradualness 8
 gasboat 8
-giddiness
+giddiness 1
 gaselier 2
 glissading 3
 gastrophilus 2
@@ -3708,7 +3708,7 @@ gouges 2
 geckoes 6
 giantship 2
 glycolate 6
-gangerel 5
+gangerel 6
 garrafa 3
 gapping 6
 gastroesophagostomy 4
@@ -4442,7 +4442,7 @@ gyromele 4
 gangliitis 6
 gorgio 4
 groovy 2
-gays 3
+gays 4
 grubbers 3
 galactemia 4
 gawcey 1
@@ -10333,7 +10333,7 @@ gules 3
 gonoph 4
 gemmary 2
 glebal 2
-guarana 1
+guarana 2
 gaums 4
 gulfweeds 4
 greenlandish 2
