@@ -3670,7 +3670,7 @@ basic 1
 bioplasm 1
 batoon
 biconjugate
-backsettler 4
+backsettler 5
 batophobia 1
 benzdioxazine 2
 balloonery
@@ -13812,7 +13812,7 @@ bemaddening 5
 bedfellowship 2
 backtalk 1
 basquine 3
-baseplate
+baseplate 1
 bemuffle 1
 brachychronic 1
 bramblebush 4
