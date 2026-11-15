@@ -2382,7 +2382,7 @@ ethiopic 4
 ebriosity 4
 entomologize 1
 epitrochlea 3
-electrodes 4
+electrodes 5
 etherization 6
 elotherium 2
 esterling 2
@@ -5183,7 +5183,7 @@ etiotropically 2
 explodes 4
 endopathic 3
 endopelvic
-encyclopaedist
+encyclopaedist 1
 endoperidium 2
 endophagous 1
 ephebeion 1
@@ -8500,7 +8500,7 @@ enantiomorphism 1
 extratorrid 8
 ethmoiditis 4
 epiphysis 1
-elain 1
+elain 2
 effluvivia 1
 estheriidae 2
 esoterically 2
@@ -10047,7 +10047,7 @@ ethambutol 1
 exitial
 entamoebiasis 4
 epopoeist 1
-etceteras 2
+etceteras 3
 ethanediol
 ethanedithiol 2
 epicoeloma 1
@@ -13072,7 +13072,7 @@ enunciates 2
 eulogistically 2
 expeditiously 4
 erythrocarpous 2
-ecstasies 4
+ecstasies 5
 euge 3
 enterochirurgia 2
 expellees 4
