@@ -2059,7 +2059,7 @@ bv
 bank 1
 bankalachi 3
 bidactyl 1
-bethought 4
+bethought 5
 banky
 banknote 1
 bristly 3
@@ -4330,7 +4330,7 @@ beccabunga
 beefer 2
 blatch 1
 birrettas 4
-beccafico 3
+beccafico 4
 buttressing 2
 beccaficoes 2
 bealtuinn
@@ -14009,7 +14009,7 @@ breathers 2
 bowlegged 1
 bondable 1
 burmese 1
-brominize
+brominize 1
 bronstrops 2
 brabejum 3
 batonist 2
