@@ -1345,7 +1345,7 @@ flaxdrop 3
 filecard 4
 flenser 2
 fullword 1
-filicology
+filicology 1
 forspoke 2
 fishboat 3
 fatly 2
@@ -5790,7 +5790,7 @@ fluorocarbon 4
 faunated 5
 foreheads
 fulgurant 1
-fribble 2
+fribble 3
 family 2
 fevertwig 4
 flambee 3
@@ -8076,7 +8076,7 @@ flockmaster 3
 feyest 3
 flowerist 2
 frontward 4
-fellahs 3
+fellahs 4
 foreutter 2
 fennoman 1
 flash 4
@@ -9143,7 +9143,7 @@ falsification 4
 flourisher 1
 firmance 4
 furbishable 2
-foxly 1
+foxly 2
 farth 4
 flaith 4
 foreintend 1
@@ -10222,7 +10222,7 @@ farce 4
 foxchop
 fetologies 3
 furdel 1
-famines 2
+famines 3
 fending 5
 foggages 4
 faros 3
