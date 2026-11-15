@@ -2085,7 +2085,7 @@ floriculture 1
 fudger 1
 frightened 2
 floria 3
-foredefine 2
+foredefine 3
 fainty 2
 fesapo 4
 filletlike 3
@@ -3597,7 +3597,7 @@ floorway 3
 files 3
 filesniff 5
 freijo 4
-fazing 3
+fazing 4
 foreroom 2
 floatboard 1
 flowcontrol 3
@@ -10335,7 +10335,7 @@ fusilladed 1
 fromenties 5
 fogyishness 4
 fluorated
-floscularian 1
+floscularian 2
 faquirs 1
 flandowser 2
 felonries 3
