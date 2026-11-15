@@ -1922,7 +1922,7 @@ bandit 3
 beshrew 3
 bretwaldadom
 balant 1
-brooded 2
+brooded 3
 bandle 3
 blastoff 2
 bushcraft 2
@@ -3220,7 +3220,7 @@ bouteselle 2
 balneological 3
 bangwaketsi 2
 breadth 3
-ballerinas
+ballerinas 1
 baclava 2
 bravish
 basidiospore 2
@@ -4902,7 +4902,7 @@ backspier 3
 beechen 1
 beechnut 1
 breakstone 1
-bloomage 1
+bloomage 2
 backspeer 1
 bryanite 2
 bomarea 2
