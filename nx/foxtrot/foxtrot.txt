@@ -4563,7 +4563,7 @@ fisticuff 3
 familiarness 2
 fibrinolysis 3
 fratricide 3
-fisting 3
+fisting 4
 flattest 2
 frictionize 1
 frutices 4
@@ -10304,7 +10304,7 @@ felons 3
 fistinut 3
 frolic 3
 fanegas 4
-felstone 5
+felstone 6
 fluidglycerate
 forensics 3
 fistulatome 3
@@ -10650,7 +10650,7 @@ franc
 frontalis 5
 forswearing 2
 flumped 4
-fecundities 2
+fecundities 3
 fulfulde 2
 felids 1
 forwaste 1
@@ -11483,7 +11483,7 @@ figurational 4
 fevergum 5
 frowst 3
 fastgoing 2
-flays
+flays 1
 froggery 2
 formular 4
 fuzzle 5
