@@ -5638,7 +5638,7 @@ deplace 2
 dermatine 1
 devests 5
 dipl
-disrobe
+disrobe 1
 dentelliere 3
 dolorousness 3
 drumler 4
@@ -11026,7 +11026,7 @@ descriptive 2
 disappear 4
 divorcees 2
 disbowelling
-distended 4
+distended 5
 dullsville 1
 deadpan
 disappointedly 6
