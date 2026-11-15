@@ -1446,7 +1446,7 @@ environic 3
 emeline 2
 ergonomic 2
 ethiopian 5
-epanorthotic
+epanorthotic 1
 emunct 3
 exenteritis 1
 epipleural
@@ -2578,7 +2578,7 @@ eighteenthly
 ensnarl 4
 exudatory 1
 exhilarator 2
-erythroblastosis 5
+erythroblastosis 6
 emeraldine 3
 eirenicon 4
 essaying 1
@@ -3845,7 +3845,7 @@ emesis 2
 entrapment 4
 expectedness 1
 easiness 4
-exemplarily 2
+exemplarily 3
 effeminacy 3
 exallotriote 2
 expiatory 2
@@ -4243,7 +4243,7 @@ etherene 3
 esotrope 2
 echoless 3
 excruciatingly 1
-erysibe 2
+erysibe 3
 earjewel 2
 encephaloscopy 3
 emulsions 3
@@ -4559,7 +4559,7 @@ epilimnion 4
 echevin 3
 exeunt 4
 excellent 2
-exarchs 4
+exarchs 5
 egotists 3
 enchyma 1
 estheticism 3
@@ -9500,7 +9500,7 @@ ethnog
 esculin 1
 expatiate 5
 expansively 4
-essences 5
+essences 6
 eugenesis 3
 extrasolar 2
 exempt 2
@@ -10739,7 +10739,7 @@ entameba 3
 eaver 1
 enwraps 3
 exedra 4
-elicitory 3
+elicitory 4
 etherializing 1
 equiformal 3
 egriot 1
@@ -11719,7 +11719,7 @@ epileptologist 3
 ephraimitish 1
 epistemologically 2
 erythrolysin
-earscrew 1
+earscrew 2
 emphatic 2
 escolar 2
 enfolding 3
