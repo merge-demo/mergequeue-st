@@ -784,7 +784,7 @@ dandler
 defs 1
 dispurpose 1
 drawn
-devolatilize 2
+devolatilize 3
 dacryocystotomy 2
 diabolisation 4
 discute 8
@@ -8861,7 +8861,7 @@ depthwise 1
 diffeomorphism 3
 deflexure 2
 domiciliating 1
-dicacity
+dicacity 1
 deodorising 3
 dicaeidae 1
 dwarfed
