@@ -845,7 +845,7 @@ drizzling 3
 deteriorator 2
 duralumin 2
 duotone 2
-drynaria 1
+drynaria 2
 disenthronement 1
 decrudescence
 dank 3
@@ -2635,7 +2635,7 @@ decolours 2
 dornock 2
 decommissioned 4
 discriminably 2
-decian
+decian 1
 dozers
 deepens
 discernably 1
@@ -4406,7 +4406,7 @@ dithioic 1
 dolos 1
 desiccations
 diapyesis 3
-demesman 2
+demesman 3
 depravities 2
 disentitle
 doctrinalism 3
@@ -10730,7 +10730,7 @@ declared 1
 decarboxylize 1
 drainspout 1
 drools 2
-deconvolution 3
+deconvolution 4
 dipsomaniac 2
 dietotherapeutics 2
 dipsomaniacs 7
@@ -15537,7 +15537,7 @@ deathlessly 3
 dysfunctional
 discriminatingly 3
 donovan 4
-dons 3
+dons 4
 deltahedron 3
 donsie 4
 deflocculent
