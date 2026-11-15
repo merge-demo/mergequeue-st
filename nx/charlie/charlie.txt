@@ -1107,7 +1107,7 @@ crossbarred 2
 calcinate 1
 calcinator 1
 calcine 3
-coherently 1
+coherently 2
 candareen 1
 cytherea 1
 cheeser 1
@@ -5279,7 +5279,7 @@ cassation
 caveats 3
 cerin 1
 cassegrain 1
-chromomeric
+chromomeric 1
 cassegrainian
 casseroling 1
 carinule 1
@@ -6621,7 +6621,7 @@ cacafugo
 cecidomyiidae 2
 currieries 1
 cecilite
-contempt 1
+contempt 2
 continuative
 cecitis
 cecomorphic
@@ -7378,7 +7378,7 @@ craniograph
 campbellite 1
 cephalotaceae
 clunk
-chalaziferous 2
+chalaziferous 3
 cephalotaxus
 conventicles 2
 cephalothoraxes 3
@@ -10618,7 +10618,7 @@ collielike 2
 circumspection 1
 cashbook
 chylopoetic 2
-chylopoiesis 2
+chylopoiesis 3
 chilopsis 2
 coagulum
 chilostomatous 1
@@ -12706,7 +12706,7 @@ cirrocumular
 counterchanging
 chuckwalla
 chapeling
-cogovernment
+cogovernment 1
 chandler 2
 congenitally 2
 chuddah
@@ -13076,7 +13076,7 @@ cyathophyllum
 cyathus 1
 confest 2
 cibarial
-ceroxyle 3
+ceroxyle 4
 cibarian 2
 cibaries 2
 conyrine 2
@@ -15836,7 +15836,7 @@ cleavage 3
 cleavages
 cleaveful 1
 cleavelandite 1
-contentness 1
+contentness 2
 cleaver 2
 cleavers 1
 crusilee 2
@@ -17812,7 +17812,7 @@ counterlit
 counselling 2
 cacking 1
 codeine 1
-cryptopin
+cryptopin 1
 codeines
 codelinquency 2
 crypta 2
@@ -26002,7 +26002,7 @@ corvine
 couthie 1
 colonization
 corviser 1
-corvo 3
+corvo 4
 chapel 1
 chamade 1
 corvoid 1
@@ -26197,7 +26197,7 @@ candlewick 2
 cosmopolitanism
 carnivorous 1
 cosmopolitanization
-cosmopolitans 3
+cosmopolitans 4
 corned
 cosmopolitics 2
 cosmopolitism 2
@@ -28047,7 +28047,7 @@ carnalizing 1
 crambe
 crambes
 crambidae 2
-chemosynthetically 3
+chemosynthetically 4
 crambos 4
 crambus
 cramel 2
