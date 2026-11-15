@@ -27549,7 +27549,7 @@ creaturehood
 cover
 containable 2
 coverages 3
-coverall 1
+coverall 2
 coveralled 1
 coveralls 1
 coils
