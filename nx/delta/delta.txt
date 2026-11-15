@@ -3473,7 +3473,7 @@ diclinic 1
 defoliate 2
 defoliations 2
 disjunct
-debilitant
+debilitant 1
 dichroscope
 decelerating
 decompressed 3
@@ -10144,7 +10144,7 @@ destriers 1
 desilicating
 dusks 1
 dislip 1
-diluvian 1
+diluvian 2
 deadly 4
 dingdonged 4
 deltidia
@@ -10762,7 +10762,7 @@ differencing 2
 diver 3
 disadvantageous 1
 diquat 1
-decolorization 1
+decolorization 2
 deoxidized 1
 detachably
 dirdums 3
@@ -13527,7 +13527,7 @@ diametrically 1
 duchesses 2
 demos 1
 disseason 1
-disseat
+disseat 1
 disgood 3
 diphyodont 1
 donnism 2
@@ -14537,7 +14537,7 @@ dismembrated 1
 depicters
 duodenary 4
 detribalization
-divisa
+divisa 1
 dimethylketol
 directrixes 1
 downpouring 1
@@ -18659,7 +18659,7 @@ deridingly 1
 disseisor 3
 devitrification 2
 decolorize 2
-duvetynes
+duvetynes 1
 devaporation 1
 deflagrability 1
 daishikis 2
