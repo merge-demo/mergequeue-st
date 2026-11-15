@@ -29819,7 +29819,7 @@ cropplecrown 1
 crops
 cropshin 3
 cropsick
-cropweed
+cropweed 1
 calorimeters 1
 casekeeper 1
 criminalese
