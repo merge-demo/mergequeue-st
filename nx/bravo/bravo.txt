@@ -5025,7 +5025,7 @@ beknave 5
 banqueteer 1
 braunschweiger 1
 byliners 1
-befriend 1
+befriend 2
 beglic 2
 bloodletting
 bimodal 2
@@ -5725,7 +5725,7 @@ badman 1
 beliers 3
 belies 3
 believers 3
-benzotetrazine
+benzotetrazine 1
 beamful
 blankite 5
 budge 3
@@ -15509,7 +15509,7 @@ bodoni
 banding 1
 babyish 1
 brannerite
-batonnier 1
+batonnier 2
 bindheimite 3
 bystander 2
 brimly 2

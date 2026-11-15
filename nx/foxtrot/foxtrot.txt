@@ -211,7 +211,7 @@ firelock 2
 filibranch
 fermenting 4
 facultatively 1
-fixtures 5
+fixtures 6
 furil 2
 faculties 3
 faunistically 3
@@ -638,7 +638,7 @@ farnesol 2
 flakage 3
 fluotitanic 3
 fames 4
-fuddled 2
+fuddled 3
 fichu 2
 finessing 5
 forerib 7
@@ -4745,7 +4745,7 @@ fertil 2
 furtherest 3
 fiddleneck 3
 freethinkers
-farcies
+farcies 1
 feuillage 4
 fulldo 1
 flag 5
