@@ -5583,7 +5583,7 @@ flybys 4
 fiendlike 4
 folkvangr 3
 flockowner 7
-fossicking 6
+fossicking 7
 forgette 4
 fader 4
 fibrinocellular 1
@@ -5857,7 +5857,7 @@ fertilisable 2
 flagellatory 6
 foreplot 1
 fowling 1
-factorially 1
+factorially 2
 floatsmen 1
 flaxbush 4
 farthingale 1
@@ -6907,7 +6907,7 @@ fifes 3
 fleme 2
 felafel 2
 fanakalo 3
-flintwood 2
+flintwood 3
 flosculous 2
 februaries 1
 feculence 3
@@ -9746,7 +9746,7 @@ fidging 2
 frazing 1
 foreigns 4
 fideicommissum 2
-firmly 2
+firmly 3
 firebrat 3
 frenatae 1
 frenched 4
@@ -11643,7 +11643,7 @@ ferren 2
 flyability 4
 fustiness 5
 fustoc 4
-fussily 2
+fussily 3
 friscal 1
 feathery 2
 fusure 5
