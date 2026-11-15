@@ -741,7 +741,7 @@ cageless
 cagelike 1
 canorous 1
 cycloses 1
-cageman 1
+cageman 2
 caranda 1
 cager 2
 complexities
@@ -1771,7 +1771,7 @@ capybaras 1
 cecilia 2
 collectables 1
 calumniative 1
-coapprover 4
+coapprover 5
 cheremissian
 christless
 coyer 2
@@ -4492,7 +4492,7 @@ carlo 1
 courages 1
 carloading 1
 chinner 1
-combatants
+combatants 1
 cogways 2
 cytocide 1
 circumference
@@ -4751,7 +4751,7 @@ change 1
 comeliest 2
 cyclicality 1
 cyanogenamide 1
-coindicate
+coindicate 1
 carphiophiops 1
 carpholite 2
 ceiler 1
@@ -10655,7 +10655,7 @@ chimeral
 chanteys
 chimeric 1
 coptic 1
-calci 2
+calci 3
 cavies 2
 coagment 1
 cookbooks
@@ -10893,7 +10893,7 @@ clavate 1
 chiral 2
 clerids 1
 cardstock 2
-contortioned 1
+contortioned 2
 chiralgia
 contiguousness 4
 chirapsia 2
@@ -11189,7 +11189,7 @@ chlorambucil 1
 chloramin 1
 chloramphenicol 1
 caperwort 1
-chilopodous
+chilopodous 1
 chloranemia
 couchy
 chloranemic
@@ -11689,7 +11689,7 @@ chololithic 2
 cholones 2
 cholophaein 1
 coven 1
-cholophein
+cholophein 1
 cotemporarily 1
 chatterer
 chervils 3
@@ -20377,7 +20377,7 @@ conjee
 commutant 1
 commutated 2
 commutation 4
-commutatively
+commutatively 1
 carpogone 1
 commutativity 3
 commutator 4
@@ -29138,7 +29138,7 @@ crinolette 2
 chickenweed 2
 crinoline
 crinosity
-crinula 1
+crinula 2
 callitrichaceae 1
 cnemides 2
 cerat 3
