@@ -7106,7 +7106,7 @@ equimolar 4
 eremophyte 2
 extraequilibrium 2
 enwallow 1
-excandescence 2
+excandescence 3
 earthshine 1
 endymion 6
 empassion 1
@@ -9086,7 +9086,7 @@ escalloniaceae 1
 embadomonas 8
 enlightens 1
 emigrate 3
-erythropia 3
+erythropia 4
 enveil 2
 escrowee 4
 ecarte 1
@@ -11653,7 +11653,7 @@ economics 1
 ew 4
 errhines 1
 exacerbatingly
-expulses
+expulses 1
 enddamaged 3
 exactable 1
 exactas 2
