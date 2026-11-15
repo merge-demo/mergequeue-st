@@ -886,7 +886,7 @@ bauxites 2
 bicolour 4
 bagful
 baggagemaster 1
-bedamning 1
+bedamning 2
 brachydome 1
 baggager 1
 benzidin 1
@@ -3424,7 +3424,7 @@ burghership 1
 byrrus 4
 bedsores 5
 burion 1
-blushing 1
+blushing 2
 bulletmaker 2
 bastardism 3
 blather 1
