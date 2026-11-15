@@ -989,7 +989,7 @@ disimitate 2
 dargah 1
 dagos 2
 dargo 5
-ding
+ding 1
 dignitaries 2
 derequisition 4
 disproportionate 4
@@ -3848,7 +3848,7 @@ dressages
 dismast 1
 discastle 1
 dictature 1
-dissect 4
+dissect 5
 disp 1
 dyscrasite 2
 deerdog 1
@@ -7836,7 +7836,7 @@ dil 3
 devour 3
 devourers 2
 discourseless 3
-dependently 5
+dependently 6
 doers 2
 daylighting 1
 danziger
@@ -17273,7 +17273,7 @@ dacryolith 5
 dressmake 6
 dureresque 3
 drizzly 2
-drizzlier 1
+drizzlier 2
 drizzliest 2
 diablery 2
 digresser 1
