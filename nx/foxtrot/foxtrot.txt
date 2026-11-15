@@ -1434,7 +1434,7 @@ fractureproof 1
 filago 2
 fireside 5
 faubourgs 6
-focussing 2
+focussing 3
 fistulose 1
 forestial 4
 featly 4
@@ -6121,7 +6121,7 @@ frightenedly 3
 foxtongue 2
 fenster 2
 flounce 2
-flounced 5
+flounced 6
 flounder 3
 frowardness 1
 faraway 1
@@ -11200,7 +11200,7 @@ fridila 2
 fraughted 4
 forktail 2
 fundungi 2
-firewall 2
+firewall 3
 forcipal 2
 fireplugs 3
 felonwort 2

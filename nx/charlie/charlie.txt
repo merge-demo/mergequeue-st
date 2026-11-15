@@ -1846,7 +1846,7 @@ camailed
 calzada 2
 camaka 3
 camaldolese 1
-camaldolesian 1
+camaldolesian 2
 camaldule 2
 complecting
 camaldulian 2
@@ -4988,7 +4988,7 @@ comminate 1
 cartography 1
 cypseli
 cartographic
-cartographical
+cartographical 1
 cartographically 2
 carton 1
 cartoner 2
@@ -25147,7 +25147,7 @@ connotes
 chirotherium 2
 coinstantaneous
 corequisite
-corer 1
+corer 2
 corers
 cores 1
 carbonates
