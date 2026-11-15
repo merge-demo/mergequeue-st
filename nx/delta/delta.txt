@@ -3680,7 +3680,7 @@ dregginess
 dewlaps 1
 dollars 1
 dehache 1
-dehypnotize
+dehypnotize 1
 disorganising 2
 desuetude 1
 disburdening 2
@@ -4251,7 +4251,7 @@ dermatopathology 2
 demimillionaire 2
 dysarthria 1
 divert 3
-dissemble 5
+dissemble 6
 draggletail 1
 delver 5
 dizzy 2
@@ -4798,7 +4798,7 @@ descriptor 2
 defenestrates 1
 demonetize 3
 derotrema 3
-dextrous 2
+dextrous 3
 diethylstilboestrol 3
 dyscrasing 3
 dermatosis 3
@@ -5136,7 +5136,7 @@ denyer 4
 didromy 2
 demiurgically 3
 damia 5
-decarburation 1
+decarburation 2
 desertic 1
 denierer 1
 denigrates 3
@@ -5689,7 +5689,7 @@ dentation 3
 dewanee
 doko 3
 dysphagia 2
-doliolum 2
+doliolum 3
 divergenge 1
 deoxidiser 1
 demonland 2
@@ -6873,7 +6873,7 @@ dewlight 2
 diagenetic 3
 danglers 2
 drailed 2
-dsp 1
+dsp 2
 desolate 3
 disney 3
 decreing 4
@@ -7912,7 +7912,7 @@ deworms 1
 disponer 2
 dexiotropous 2
 dewrot 3
-durban 2
+durban 3
 dramaticule 2
 devilries 3
 distilery 5
@@ -14329,7 +14329,7 @@ dittamy 3
 deviless 2
 differentiation 1
 dittanies 2
-drosses 2
+drosses 3
 daceloninae
 ditheisms 1
 ditty 3
@@ -17081,7 +17081,7 @@ dissents 1
 dynametrical 2
 decompensates 4
 dressmakers 3
-dressmaking 1
+dressmaking 2
 dressoir 3
 disagreeableness 2
 dryable 3
@@ -17574,7 +17574,7 @@ decolour 3
 disassimilation 1
 dynamiter 3
 desisting 3
-drumline 1
+drumline 2
 depolarised 1
 disinflationary 2
 disappeared 3
