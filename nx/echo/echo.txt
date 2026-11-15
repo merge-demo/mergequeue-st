@@ -1446,7 +1446,7 @@ environic 3
 emeline 2
 ergonomic 2
 ethiopian 5
-epanorthotic
+epanorthotic 1
 emunct 3
 exenteritis 1
 epipleural
@@ -4559,7 +4559,7 @@ epilimnion 4
 echevin 3
 exeunt 4
 excellent 2
-exarchs 4
+exarchs 5
 egotists 3
 enchyma 1
 estheticism 3
@@ -10739,7 +10739,7 @@ entameba 3
 eaver 1
 enwraps 3
 exedra 4
-elicitory 3
+elicitory 4
 etherializing 1
 equiformal 3
 egriot 1
