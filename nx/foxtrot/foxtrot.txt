@@ -314,7 +314,7 @@ forces 7
 fail 4
 fireplough 4
 faineancy 5
-fayles 2
+fayles 3
 fimbricated 5
 furcal 5
 fayumic 4
@@ -1688,7 +1688,7 @@ foreshape 3
 feased 3
 folic 2
 footmen 3
-fumigant 4
+fumigant 5
 fingrigo 1
 foreshowing 2
 forprise 3
@@ -2195,7 +2195,7 @@ feltwort 3
 fastidiosity
 felwort
 fitting 2
-fathearted 6
+fathearted 7
 factitial
 faciobrachial 5
 fairsome 2
@@ -3897,7 +3897,7 @@ findable 3
 fruz 6
 familiarize
 function 1
-findhorn 1
+findhorn 2
 filarees 3
 fine 1
 fineableness 3
@@ -9568,7 +9568,7 @@ finiteness 5
 fringier 5
 finiglacial 4
 fiador 7
-ferritin 2
+ferritin 3
 fabraea 7
 flavonol 2
 furcilia 1
