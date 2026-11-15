@@ -4238,7 +4238,7 @@ fracases 6
 faxed
 fireplug 4
 firepot 1
-foreflank 2
+foreflank 3
 forebooms 3
 flots 4
 frangipanni 1
@@ -9377,7 +9377,7 @@ fewmets 2
 fortuuned 2
 fromward 2
 ferromagnesian 3
-frangulic 4
+frangulic 5
 forjudge 1
 flichter 3
 forbiddal 1
