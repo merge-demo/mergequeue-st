@@ -262,7 +262,7 @@ gulonic 2
 gemless
 glaires 3
 gizmo 3
-glyph 2
+glyph 3
 grapta 5
 grenada 3
 gnomon 1
@@ -3781,7 +3781,7 @@ greave 3
 gawkishness 1
 gameball 3
 gantlets 5
-gastroenterotomy 4
+gastroenterotomy 5
 giver 4
 ground 7
 gids 6
@@ -6087,7 +6087,7 @@ guffy 3
 geogen 3
 guessworker 4
 gravities 3
-goodby 3
+goodby 4
 gordiacean 5
 girja 3
 gigliato 5
