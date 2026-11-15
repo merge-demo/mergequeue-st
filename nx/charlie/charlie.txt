@@ -1396,7 +1396,7 @@ cessio
 consolable 1
 california 2
 californian
-chinos 2
+chinos 3
 chantages 1
 caliga 2
 caligate
@@ -4210,7 +4210,7 @@ countrywide
 carditises 3
 cardium
 chervante 1
-continual 1
+continual 2
 chopin 1
 chapbooks
 cardo 2
@@ -4842,7 +4842,7 @@ carr 1
 carrack 2
 cymulose
 cycling 1
-corallita
+corallita 1
 carracks 2
 conceitless 1
 carraway
@@ -8648,7 +8648,7 @@ curiousness
 capreomycin 2
 chanties 2
 chantilly 1
-conformity 1
+conformity 2
 connubially 3
 chantingly 1
 carman 2
@@ -9538,7 +9538,7 @@ conoy
 checkrowed
 checkrower 1
 checkrowing 1
-consummatively
+consummatively 1
 checkrows
 computational 3
 chapatty
@@ -9817,7 +9817,7 @@ corncake
 cyclostome
 chemicomineralogical
 carcinogenicity 1
-chemicophysical 1
+chemicophysical 2
 carbonized
 cleptomaniac 1
 creneling 2
@@ -12401,7 +12401,7 @@ confederater 1
 cnidophobia 2
 culebra 1
 chromatopsia
-chromatoptometer
+chromatoptometer 1
 chromatoptometry
 chromatoscopy 1
 chevalet
@@ -27408,7 +27408,7 @@ courtierly 2
 chuck
 cataclysmist 1
 cabinetmaker 1
-courtin 2
+courtin 3
 catastatic
 courting 2
 courtly 1
