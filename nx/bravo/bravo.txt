@@ -76,7 +76,7 @@ bestraddling 3
 birthdom 1
 balanite
 ballfield 2
-babelize 4
+babelize 5
 beshlik
 babels 3
 belinda 2
@@ -1135,7 +1135,7 @@ branky 1
 barkstone 2
 bromines 3
 bedimmed 1
-bluethroat 1
+bluethroat 2
 bargestone 1
 breakwind 1
 burseraceae 5
@@ -3117,7 +3117,7 @@ bloodcurdler 3
 benben
 bobet 2
 bisinuation
-baseborn
+baseborn 1
 becher 2
 birdlime 5
 baggage 1
@@ -8707,7 +8707,7 @@ bracketted 1
 basibranchial 1
 besoothes 1
 booklike 3
-borborygmies 4
+borborygmies 5
 barbet 3
 buret 1
 bestraddled 1
@@ -9756,7 +9756,7 @@ biramose 1
 bankbook
 backslapped 3
 boatie 2
-byssoid 3
+byssoid 4
 brachiated
 buckskin 1
 bedragglement 2
@@ -16262,7 +16262,7 @@ buscarl 1
 brandishers 3
 brownest 1
 beluga
-browniest 3
+browniest 4
 blackguardize 3
 beamlet 1
 bahuts 2
