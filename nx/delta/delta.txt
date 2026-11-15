@@ -367,7 +367,7 @@ daric 3
 droughtiness
 detruss 2
 daymares 3
-disseizes
+disseizes 1
 diarists 2
 discoloured 1
 dasher 2
@@ -4747,7 +4747,7 @@ dwaibly 2
 deaconing
 demihag 5
 dodecatylic 1
-deair
+deair 1
 disseizor 2
 diagonalize 3
 diemaker
@@ -6114,7 +6114,7 @@ debauch 4
 deploringly 4
 duncedom 1
 deft
-destigmatize 2
+destigmatize 3
 discostomatous 1
 derecho
 dereferenced 3
@@ -14400,7 +14400,7 @@ dolicholus
 divaricator 2
 divast 1
 doubtable 1
-divebomb 3
+divebomb 4
 dothidella
 dogmatists
 downstage 2
