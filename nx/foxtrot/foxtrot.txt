@@ -507,7 +507,7 @@ fioretti 5
 fumer 4
 firerooms 2
 flamers 3
-frowny 4
+frowny 5
 foresense 5
 falco 4
 fermentive 2
@@ -3226,7 +3226,7 @@ fictionalize 4
 fanjets 5
 friers 1
 frostwort 3
-fuchsone 3
+fuchsone 4
 forefend 2
 festered 3
 falern 1
@@ -3368,7 +3368,7 @@ fieldleft 5
 faxes 2
 ferrean 1
 fanioned 2
-folily 4
+folily 5
 feeless 4
 foreyards 2
 fastigate 1
@@ -4591,7 +4591,7 @@ fieldstone 2
 fistuca 2
 freest 4
 finement 4
-filmist 3
+filmist 4
 farragos 3
 forbbore 4
 forbled 3
