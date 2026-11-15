@@ -2261,7 +2261,7 @@ camshafts 1
 camstane 3
 coneine 1
 caval 1
-companionability
+companionability 1
 camstone 1
 canaliculization 1
 camuning
@@ -7370,7 +7370,7 @@ corporatist
 cephalopterus 1
 cephaloridine 2
 churruck 2
-confocal 2
+confocal 3
 cadus 1
 copecks
 cephalosome
@@ -21129,7 +21129,7 @@ chordacentrum 4
 concassation
 cherishers
 concatenate 2
-cubangle 1
+cubangle 2
 catadromous 3
 concatenated 1
 ceride 2
