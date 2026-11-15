@@ -1458,7 +1458,7 @@ gove 3
 gynocardia 3
 gradualness 8
 gasboat 8
-giddiness
+giddiness 1
 gaselier 2
 glissading 3
 gastrophilus 2
@@ -4442,7 +4442,7 @@ gyromele 4
 gangliitis 6
 gorgio 4
 groovy 2
-gays 3
+gays 4
 grubbers 3
 galactemia 4
 gawcey 1
