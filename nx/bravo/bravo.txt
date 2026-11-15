@@ -1922,7 +1922,7 @@ bandit 3
 beshrew 3
 bretwaldadom
 balant 1
-brooded 2
+brooded 3
 bandle 3
 blastoff 2
 bushcraft 2
@@ -5725,7 +5725,7 @@ badman 1
 beliers 3
 belies 3
 believers 3
-benzotetrazine
+benzotetrazine 1
 beamful
 blankite 5
 budge 3
