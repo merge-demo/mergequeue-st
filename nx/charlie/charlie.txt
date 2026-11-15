@@ -741,7 +741,7 @@ cageless
 cagelike 1
 canorous 1
 cycloses 1
-cageman 1
+cageman 2
 caranda 1
 cager 2
 complexities
@@ -11689,7 +11689,7 @@ chololithic 2
 cholones 2
 cholophaein 1
 coven 1
-cholophein
+cholophein 1
 cotemporarily 1
 chatterer
 chervils 3
@@ -15192,7 +15192,7 @@ conforms
 cade 3
 clairseach 3
 caplan
-cloisteral
+cloisteral 1
 cardiemphraxia 1
 compresses 1
 choosableness 3
@@ -16706,7 +16706,7 @@ cora 4
 catechismal 1
 clothespins
 centroplasm 1
-clothespresses 3
+clothespresses 4
 cire 4
 clothiers 2
 clothings 2
