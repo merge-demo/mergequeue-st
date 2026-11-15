@@ -753,7 +753,7 @@ fibroangioma 5
 ferv 2
 forelouper 8
 fanciful 4
-footbridge 5
+footbridge 6
 fanciless 8
 foliicolous 1
 forestaff 4
@@ -1206,7 +1206,7 @@ funnyman 5
 freieslebenite 2
 fortifications 6
 funkias 1
-formene 3
+formene 4
 furbishment 3
 flagellosis 3
 foredeem 4
@@ -4417,7 +4417,7 @@ fluigramme 1
 frogwort 1
 frenghi 1
 formel 7
-fraiser 6
+fraiser 7
 falsary 3
 flawier 3
 fovent 1
@@ -9204,7 +9204,7 @@ fads 3
 filariasis 5
 fiaschi 2
 florification 3
-feat
+feat 1
 foveole 2
 folded 3
 federations 8
@@ -11666,7 +11666,7 @@ futhorc 7
 fillowite 3
 forepale 3
 foxskins 3
-functionalized 5
+functionalized 6
 fluavil 2
 fructiform 2
 fresne 1
@@ -11706,7 +11706,7 @@ fasciola 2
 fernsick
 frameless 3
 flaw 1
-fanfish 5
+fanfish 6
 foremasthand 2
 fiancailles 1
 frowns
