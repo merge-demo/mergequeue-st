@@ -4040,7 +4040,7 @@ cholericness
 carcinophagous
 carcinopolypus 1
 chloroformization
-carcinosarcoma 1
+carcinosarcoma 2
 coloreds 3
 chloralide
 chinanta 1
@@ -11899,7 +11899,7 @@ chordee 2
 choriso 1
 cst 1
 contradictive 1
-chording 2
+chording 3
 chorditis 2
 circumferentor
 cecidomyian
@@ -12960,7 +12960,7 @@ contrail 2
 cubs 1
 cyanformate
 chockful 1
-chloropal 1
+chloropal 2
 consecution 1
 cyanhydrin 1
 cataphrygianism 1
@@ -13268,7 +13268,7 @@ cyclohexanone
 cyclohexyl 2
 cycloheximide 1
 chetverik
-communicants
+communicants 1
 cataloguer 2
 chemiatry 2
 cycloid 2
@@ -13793,7 +13793,7 @@ cinematically
 cinematizing 1
 cinematograph 2
 cinematography
-clarenceuxship 2
+clarenceuxship 3
 chromocenter 4
 culpably 1
 chkfil
@@ -21331,7 +21331,7 @@ conchoids 1
 communicableness 3
 conchol 1
 conchometer 3
-conchospiral
+conchospiral 1
 cowboys 1
 conchostraca 1
 corotated 4
@@ -25668,7 +25668,7 @@ clankum
 corsair
 cannula 1
 closestool
-corpulentness 1
+corpulentness 2
 converginerved 1
 corpuscularian 2
 confinedness
