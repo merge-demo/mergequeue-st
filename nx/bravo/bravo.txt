@@ -886,7 +886,7 @@ bauxites 2
 bicolour 4
 bagful
 baggagemaster 1
-bedamning 1
+bedamning 2
 brachydome 1
 baggager 1
 benzidin 1
@@ -3424,7 +3424,7 @@ burghership 1
 byrrus 4
 bedsores 5
 burion 1
-blushing 1
+blushing 2
 bulletmaker 2
 bastardism 3
 blather 1
@@ -12690,7 +12690,7 @@ boogies 1
 biotechnology 3
 bubbles 4
 burlecue 1
-bieennia 2
+bieennia 3
 boogum 3
 bolshevism
 blunderheaded 2
@@ -15328,7 +15328,7 @@ bighorn 3
 budtime 1
 bridgebuilder 2
 bridgehead 1
-bridgemaking 2
+bridgemaking 3
 blinis 2
 bayous 1
 bejan 1
