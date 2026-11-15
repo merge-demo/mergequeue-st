@@ -1602,7 +1602,7 @@ eradicated
 egress 6
 erizo 2
 epiblastic 2
-egressed 3
+egressed 4
 egresses 2
 exequial 1
 extraphysiological 3
@@ -8137,7 +8137,7 @@ excorticate
 electrostatic 2
 electrolysis 5
 extracollegiate 3
-entomophthoraceae 1
+entomophthoraceae 2
 eons 1
 epitendineum 1
 exergual
@@ -9017,7 +9017,7 @@ entria 4
 erigenia 5
 ephesine 1
 emlen 1
-eleoplast
+eleoplast 1
 endothermic 4
 exocyclic 2
 equiglacial 1
@@ -9147,7 +9147,7 @@ ectoenzyme 2
 ectocinerea 2
 encolor 4
 ergatomorphism 4
-ernes 1
+ernes 2
 erode 5
 eosinophilic 3
 erodent 2
@@ -11581,7 +11581,7 @@ erethizon 2
 energeia 5
 estrange 5
 endites 1
-evernia 3
+evernia 4
 expressman 4
 equipartisan 4
 evoking 4
