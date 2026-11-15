@@ -7378,7 +7378,7 @@ craniograph
 campbellite 1
 cephalotaceae
 clunk
-chalaziferous 2
+chalaziferous 3
 cephalotaxus
 conventicles 2
 cephalothoraxes 3
@@ -30156,7 +30156,7 @@ crozes
 crozing 1
 crpe
 crts 2
-coccinella
+coccinella 1
 cannstatt
 crubeen
 cruce
@@ -30579,7 +30579,7 @@ cubocuneiform
 concarnation 1
 cuboid 1
 conopholis 2
-cuboidal 2
+cuboidal 3
 cuneocuboid
 caldera 1
 cellarette 1
