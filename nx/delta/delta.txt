@@ -1504,7 +1504,7 @@ decidual 2
 dracma
 dc 3
 dcb 3
-depressure 3
+depressure 4
 deaccessioning 1
 dingbats 1
 draughts 3
@@ -4251,7 +4251,7 @@ dermatopathology 2
 demimillionaire 2
 dysarthria 1
 divert 3
-dissemble 5
+dissemble 6
 draggletail 1
 delver 5
 dizzy 2
@@ -6873,7 +6873,7 @@ dewlight 2
 diagenetic 3
 danglers 2
 drailed 2
-dsp 1
+dsp 2
 desolate 3
 disney 3
 decreing 4
@@ -7207,7 +7207,7 @@ dattos 2
 disafforest 5
 desulfurised 4
 doomsdays 1
-dehiscence 2
+dehiscence 3
 demultiplexing 2
 disinfecter
 detar
@@ -7912,7 +7912,7 @@ deworms 1
 disponer 2
 dexiotropous 2
 dewrot 3
-durban 2
+durban 3
 dramaticule 2
 devilries 3
 distilery 5
@@ -17081,7 +17081,7 @@ dissents 1
 dynametrical 2
 decompensates 4
 dressmakers 3
-dressmaking 1
+dressmaking 2
 dressoir 3
 disagreeableness 2
 dryable 3
