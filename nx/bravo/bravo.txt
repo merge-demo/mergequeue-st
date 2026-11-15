@@ -2865,7 +2865,7 @@ blanketless 2
 barrad 2
 bridebowl 2
 boskage
-biform
+biform 1
 bashawism 1
 bellmouth 1
 buddage 2
@@ -6451,7 +6451,7 @@ ballast
 bisulcate
 barouchet 2
 bulldogged 1
-biostratigraphy 1
+biostratigraphy 2
 borderings 2
 bergmannite 4
 bilati
