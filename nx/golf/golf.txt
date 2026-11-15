@@ -2709,7 +2709,7 @@ grenades 3
 gristmiller 3
 gliadins 4
 guillotine 9
-gunboats 5
+gunboats 6
 gaedelian 1
 grooms 2
 gentiopicrin
@@ -4182,7 +4182,7 @@ gunsling 3
 guimpes 3
 gasteralgia 5
 garrisoning 1
-glacier 6
+glacier 7
 gluttonise 3
 gynantherous 5
 gonadectomized 2
