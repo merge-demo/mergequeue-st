@@ -694,7 +694,7 @@ boiseries 3
 baculoid
 baculus 1
 badaga 2
-biorgan 3
+biorgan 4
 babbitting 3
 buncombe 2
 bunted 3
@@ -1667,7 +1667,7 @@ bandi 1
 bescurf 2
 barrowist 1
 bardesanism 2
-balusters 1
+balusters 2
 beclose
 barrulety 4
 bloodfin 3
@@ -8040,7 +8040,7 @@ babble 2
 bicolorous 2
 betrayal 2
 bicolors 2
-binna 1
+binna 2
 biconcave 1
 bidder 1
 bullescene 3
@@ -14586,7 +14586,7 @@ bailer 2
 branchman 3
 brandenburg 2
 brandenburger
-brandy
+brandy 1
 brosy 2
 bitty 2
 bambos 1
@@ -18352,7 +18352,7 @@ bucellas 2
 bipontine 2
 bensail 3
 braw 5
-bisectionally 3
+bisectionally 4
 buttwoman 2
 butterscotch 2
 buxaceous 2
