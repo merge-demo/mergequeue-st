@@ -1580,7 +1580,7 @@ dhanush 1
 demand
 disposition
 deadlines 2
-determinatively 2
+determinatively 3
 desitive
 disembody 2
 deflagrable 3
@@ -2037,7 +2037,7 @@ dehorning 1
 despised 2
 diverberate 2
 decahedron 3
-disclassify 2
+disclassify 3
 drearier
 degamis 1
 decahedrons 1
@@ -5138,7 +5138,7 @@ demiurgically 3
 damia 5
 decarburation 1
 desertic 1
-denierer
+denierer 1
 denigrates 3
 dipolarize 3
 denigrator 3
@@ -6233,7 +6233,7 @@ disown 4
 dialling 1
 distrainer 7
 dermatography 5
-dezincation
+dezincation 1
 diplonephridia 1
 dramatist 1
 dermatolysis
@@ -8743,7 +8743,7 @@ dot 3
 debadge 3
 diaporesis 1
 demimonk
-droningly 2
+droningly 3
 demonstratability 2
 decime 4
 distastefully 2
@@ -13367,7 +13367,7 @@ dayflower 3
 demonstrableness 3
 deadmen
 decurving 3
-disputisoun 2
+disputisoun 3
 duala 1
 disheartens 1
 distributively 3
@@ -15541,7 +15541,7 @@ dons 3
 deltahedron 3
 donsie 4
 deflocculent
-deathsmen
+deathsmen 1
 donum 1
 donzel 2
 discovering 3
