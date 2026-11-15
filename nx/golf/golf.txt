@@ -2709,7 +2709,7 @@ grenades 3
 gristmiller 3
 gliadins 4
 guillotine 9
-gunboats 5
+gunboats 6
 gaedelian 1
 grooms 2
 gentiopicrin
@@ -3417,7 +3417,7 @@ gerrhosauridae 4
 gila 2
 gestalt 3
 gestaltist
-gallicisms 1
+gallicisms 2
 gynecology 3
 grum 3
 gubernance 7
