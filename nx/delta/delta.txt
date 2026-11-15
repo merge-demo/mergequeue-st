@@ -1982,7 +1982,7 @@ dopant 2
 discostate 2
 debuted 1
 desirable 3
-diced
+diced 1
 dermatoma 1
 drover 3
 demyelinate 2
@@ -7172,7 +7172,7 @@ disgusts
 deedbox
 dosshouse 1
 desume 1
-disturbative 1
+disturbative 2
 dindles 3
 desuvre 1
 devoutful 1
@@ -8429,7 +8429,7 @@ dorsocervically 2
 devotionalist 3
 dorsiventrally 2
 ds 1
-degreed 1
+degreed 2
 diamagnet 2
 diamagnetism 4
 dredging 1
@@ -9926,7 +9926,7 @@ decimeter 2
 downcourt 3
 dodecatoic 1
 dipneustal 3
-dogmata 2
+dogmata 3
 diminisher 2
 dezinc 2
 diminishingly 3
@@ -16124,7 +16124,7 @@ dingee 4
 doomsday 2
 douping 3
 disperses 2
-deformity 2
+deformity 3
 deforcing 2
 dermamycosis 3
 dour 1
