@@ -4903,7 +4903,7 @@ beechen 1
 beechnut 1
 breakstone 1
 bloomage 2
-backspeer 1
+backspeer 2
 bryanite 2
 bomarea 2
 beechwood 1
@@ -6332,7 +6332,7 @@ baratte 2
 barristress 2
 benzanthracene 3
 boxboard 4
-bestowed 2
+bestowed 3
 bai 2
 balandra 1
 bibs
@@ -8281,7 +8281,7 @@ biogenesist 1
 butterflyfish 2
 biblists 2
 beak 2
-bookling 2
+bookling 3
 burden 5
 buccinal 3
 byzantinism 5
