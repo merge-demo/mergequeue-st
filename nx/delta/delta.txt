@@ -521,7 +521,7 @@ dalmanites 3
 dalmatic 1
 dalt 3
 dalton 3
-denomination 1
+denomination 2
 dermaskeleton 3
 dama 2
 damageability 3
@@ -652,7 +652,7 @@ disposals
 damnonians 4
 doomfully 1
 deflowers 1
-dioscorea
+dioscorea 1
 demiatheist 5
 dubiocrystalline 3
 dynatrons 2
@@ -1013,7 +1013,7 @@ dallies
 dark 3
 dinkeys 1
 darked 3
-diamine 2
+diamine 3
 darkeys 1
 daneball 1
 disruptions 3
@@ -17218,7 +17218,7 @@ drippers
 deddy
 doves 5
 differentiators 3
-drippier 2
+drippier 3
 damans 4
 detailedly 5
 deprecated 1
