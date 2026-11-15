@@ -1439,7 +1439,7 @@ antibacteriolytic 1
 acceptress 2
 accepts
 attractants 5
-apellous 5
+apellous 6
 aproned
 accessary 1
 aquaria 1
@@ -2531,7 +2531,7 @@ agregation 1
 aforethought 1
 avile 2
 acocantherin 1
-awaredom 1
+awaredom 2
 acockbill
 alcoholizable 1
 antireduction
@@ -7901,7 +7901,7 @@ alectoromancy 1
 amphibiological 2
 appointable 2
 anociassociation 2
-arrentable 2
+arrentable 3
 alectryomancy 1
 anaptotic 1
 alectrion
@@ -13861,7 +13861,7 @@ ambassadorship 3
 antiparalytic 3
 anorthographic
 axospermous 2
-anorthographical
+anorthographical 1
 antifelon 1
 alif
 ala
@@ -13990,7 +13990,7 @@ arblast
 algist 2
 apronlike 1
 aclidian 1
-antagonization
+antagonization 1
 aclu 3
 antiempiricism
 antagonizing 2
@@ -14870,7 +14870,7 @@ achordate 3
 antichthon 1
 abkhas
 antichthones 2
-acuan 2
+acuan 3
 acronymized 4
 ameban 2
 azoology
@@ -24757,7 +24757,7 @@ auscult 2
 aviations 5
 aviatoriality 1
 aviatress 1
-azotises 1
+azotises 2
 aviatrice 4
 amadan
 amar 3
