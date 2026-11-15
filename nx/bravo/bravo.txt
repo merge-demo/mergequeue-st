@@ -694,7 +694,7 @@ boiseries 3
 baculoid
 baculus 1
 badaga 2
-biorgan 3
+biorgan 4
 babbitting 3
 buncombe 2
 bunted 3
@@ -8040,7 +8040,7 @@ babble 2
 bicolorous 2
 betrayal 2
 bicolors 2
-binna 1
+binna 2
 biconcave 1
 bidder 1
 bullescene 3
@@ -14586,7 +14586,7 @@ bailer 2
 branchman 3
 brandenburg 2
 brandenburger
-brandy
+brandy 1
 brosy 2
 bitty 2
 bambos 1
