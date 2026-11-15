@@ -2709,7 +2709,7 @@ grenades 3
 gristmiller 3
 gliadins 4
 guillotine 9
-gunboats 5
+gunboats 6
 gaedelian 1
 grooms 2
 gentiopicrin
@@ -3122,7 +3122,7 @@ gypsywort
 geodesical 2
 geoscopic 4
 geosphere 8
-gapless 2
+gapless 3
 gastful 3
 guerilla 1
 geochronologist 5
@@ -3417,7 +3417,7 @@ gerrhosauridae 4
 gila 2
 gestalt 3
 gestaltist
-gallicisms 1
+gallicisms 2
 gynecology 3
 grum 3
 gubernance 7
@@ -9314,7 +9314,7 @@ guttera 3
 ghosted 6
 grogshop 3
 gigmaness 4
-geosyncline 4
+geosyncline 5
 gnathalgia 3
 guignol
 glopnen 5
