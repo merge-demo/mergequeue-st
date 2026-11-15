@@ -6242,7 +6242,7 @@ agon
 agonal 1
 athetize 1
 awardable 2
-aurorae 2
+aurorae 3
 azygoses 2
 ascendency 1
 angiomas 1
@@ -7146,7 +7146,7 @@ analecta 1
 arythmic 2
 aerostatical 1
 anuses
-androgynism
+androgynism 1
 akkadian 1
 akmite 1
 aftershock 4
@@ -7255,7 +7255,7 @@ aren 2
 antiwhite
 allotting 1
 antirevolutionary
-accresce
+accresce 1
 alamode 1
 ascogonidia 1
 applesnits 1
@@ -9272,7 +9272,7 @@ asaraceae 2
 abhorrent 2
 actuarially 1
 astrocytoma 2
-antipodes 2
+antipodes 3
 abrachia 4
 alodies 2
 atossa 3
@@ -10566,7 +10566,7 @@ authorisation 1
 annelides 4
 alloxuremia 1
 agua
-assimilator 2
+assimilator 3
 apollonia 3
 auguration 1
 acast 1
@@ -12399,7 +12399,7 @@ abruptly
 andirin 3
 athletic 1
 anopisthograph
-abscession
+abscession 1
 asimen 1
 alternativity 3
 adultly
@@ -14751,7 +14751,7 @@ antilemic 3
 antibiotically
 anthrohopobiological
 appointee 3
-antidiffuser 3
+antidiffuser 4
 acushla 1
 actorish
 attractableness 2
@@ -17082,7 +17082,7 @@ apodeictic 2
 aboideaux
 anosmic 1
 ailments 1
-apodeictically
+apodeictically 1
 accoucheurs 1
 ambrica 1
 apodeipnon 1
@@ -17959,7 +17959,7 @@ acidolysis 1
 aegagropila
 am 2
 approvance 4
-absolutes
+absolutes 1
 arsyl 2
 approvedly 3
 antiempirical 2
@@ -22350,7 +22350,7 @@ astrocytomas 1
 anagnost 5
 ascogonidium
 ashy 1
-anal
+anal 1
 anhaline 4
 asperger 1
 aplanat 2
@@ -24272,7 +24272,7 @@ antipacifism
 aquifoliaceae
 autonegation 1
 acclaimed 2
-alphitomancy 3
+alphitomancy 4
 autonomasy 4
 afeard 1
 airmen 1
