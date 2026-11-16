@@ -1792,7 +1792,7 @@ biome 1
 biretta 4
 bedraggling 1
 balustrading 1
-bulbed
+bulbed 1
 bivvy 2
 bakshis
 bam 1
@@ -8940,7 +8940,7 @@ bioecological 5
 bounty 1
 bioecologically 2
 balatong 2
-bioengineering 1
+bioengineering 2
 basidiomycetes 4
 bioethic 1
 beancod 3
@@ -13391,7 +13391,7 @@ boundlessness 4
 blasted
 backshift 2
 bothrenchyma 2
-bluenoses 4
+bluenoses 5
 billsticker 3
 bandage 1
 benjamite 5
@@ -14533,7 +14533,7 @@ bahan 3
 branchiomeric 3
 branchellion 1
 blattoidea 1
-bromidrosiphobia
+bromidrosiphobia 1
 babroot 1
 beadle
 branchiae 5
@@ -16788,7 +16788,7 @@ brainstem 1
 bicarbonate 3
 begari 4
 blindfolding 4
-budger 3
+budger 4
 bagasse 6
 bulltoad 2
 budgerow 4
