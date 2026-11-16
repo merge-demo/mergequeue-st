@@ -2755,7 +2755,7 @@ boroughship 4
 barometers 5
 beefy 2
 blam 1
-brainache 1
+brainache 2
 beachside 3
 burthenman 4
 borromean 1
@@ -3048,7 +3048,7 @@ bartonella 3
 backswordsman 3
 blepharedema
 bubba 3
-bartramian 2
+bartramian 3
 banish 7
 beetmister 4
 bliest 2
@@ -4910,7 +4910,7 @@ beechwood 1
 bright 2
 bourbons 3
 belaud 2
-blackeyes 3
+blackeyes 4
 bolderian 2
 biguttate 1
 bandurrias 3
@@ -8570,7 +8570,7 @@ biller
 blew 4
 blackeye
 brantcorn 3
-billeted
+billeted 1
 blushers 2
 bilabe 7
 bucklered
@@ -14697,7 +14697,7 @@ broilingly 2
 buffets 2
 babion 1
 brasilins 6
-bigotedness 1
+bigotedness 2
 beginners 1
 bitted 2
 blungers 1
