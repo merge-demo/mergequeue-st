@@ -5157,7 +5157,7 @@ blende 3
 broadside 2
 beggarer 2
 buccinatory 2
-bagpod
+bagpod 1
 baffled 3
 bashment
 bazookas
@@ -8555,7 +8555,7 @@ bejeweling 3
 barabra 3
 bo
 bunting 3
-bedder 2
+bedder 3
 bradycardia 2
 billabong 2
 billage 3
@@ -14834,7 +14834,7 @@ belletristic 3
 boildown 4
 brazilite 1
 besoil
-blotters 2
+blotters 3
 bichlorides 1
 buffed 2
 bloodweed 3
