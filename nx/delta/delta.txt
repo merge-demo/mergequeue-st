@@ -3972,7 +3972,7 @@ delegate 1
 doorsill 4
 dispossessory
 delegates 4
-delegateship
+delegateship 1
 darst
 digressiveness
 dibasicity 3
