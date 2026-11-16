@@ -363,7 +363,7 @@ from 2
 fieldfight 4
 froes 1
 fluorides 1
-faintly 5
+faintly 6
 ferrymen 3
 furoid 6
 fearer 6
@@ -1383,7 +1383,7 @@ fancying 1
 fermiums 1
 fusilly 2
 frequentage 4
-fatsos 2
+fatsos 3
 fossils 2
 fightwite 1
 femorofibular
@@ -6453,7 +6453,7 @@ flummery 6
 fidgeting 5
 filth 2
 folkcraft 1
-featliness 2
+featliness 3
 frenchize 3
 fordy 7
 fellatrix 1
@@ -11022,7 +11022,7 @@ fungiferous 3
 frigging 2
 freeport 4
 freshly 2
-frankability 1
+frankability 2
 filippic 4
 findy 5
 fortilage 4
