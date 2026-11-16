@@ -6091,7 +6091,7 @@ dropout
 dimission 3
 durgen 2
 dissolvable 2
-deckedout
+deckedout 1
 digestible 3
 derated
 diphtheroid 3
@@ -8600,7 +8600,7 @@ digitize 1
 decigramme 4
 dibatis 2
 dystaxia 2
-diapsida
+diapsida 1
 dyskinetic 2
 deathin 2
 dyarchy 3
