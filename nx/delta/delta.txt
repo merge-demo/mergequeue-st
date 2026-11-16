@@ -3972,7 +3972,7 @@ delegate 1
 doorsill 4
 dispossessory
 delegates 4
-delegateship
+delegateship 1
 darst
 digressiveness
 dibasicity 3
@@ -6866,7 +6866,7 @@ desmoscolecidae 2
 drossless 1
 desmosite 7
 desemer 2
-dispositor 1
+dispositor 2
 depictive 3
 desoeuvre 1
 dewlight 2
@@ -16120,7 +16120,7 @@ didynamy
 discrowned 2
 disharmonise 3
 doup 3
-dingee 4
+dingee 5
 doomsday 2
 douping 4
 disperses 2
