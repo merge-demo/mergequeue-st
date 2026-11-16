@@ -7456,7 +7456,7 @@ fulfillments 1
 forcipation 4
 flutelike 3
 forcipressure 4
-faulx 2
+faulx 3
 fenestrule 6
 frigidoreceptor 4
 foy 1
@@ -11185,7 +11185,7 @@ fremdness
 flyblowing 4
 fungian
 fondles 5
-felspar 3
+felspar 4
 fungibility 5
 fadeout 5
 fideists 5
