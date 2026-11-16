@@ -2236,7 +2236,7 @@ gigantoblast 1
 gunroom 1
 gladlier 2
 goodyship 4
-gammoning
+gammoning 1
 glazily
 gonofs 6
 greengage 2
@@ -2705,7 +2705,7 @@ gripeful 5
 groundberry 5
 gitoxin 5
 gorlois 4
-grenades 3
+grenades 4
 gristmiller 3
 gliadins 4
 guillotine 9
@@ -3014,7 +3014,7 @@ gadolinic 4
 gastromyces 4
 guido 5
 geometridae 1
-gangshag 2
+gangshag 3
 geometriform 3
 graminicolous 2
 gemmipares 5
@@ -5087,7 +5087,7 @@ glossate 2
 gregarinous 3
 glali 2
 gnatflower 3
-gaumed 2
+gaumed 3
 geraldine 3
 grumbly 2
 gallweed 3
@@ -6379,7 +6379,7 @@ garston 2
 gettings 1
 gohila 2
 gasproof 1
-guff 6
+guff 7
 gussied 5
 glassworks 3
 gonotyl 4
@@ -10196,7 +10196,7 @@ grindstone 5
 gitanemuk 1
 globalism 2
 garnishes 4
-gladdon 9
+gladdon 10
 goundou 3
 gimbaljawed 5
 granulocyte
