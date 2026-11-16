@@ -1831,7 +1831,7 @@ cann
 calzoneras
 calzones
 cannonry 2
-consigneeship 2
+consigneeship 3
 costocentral 2
 ciceronize
 coala 1
@@ -7790,7 +7790,7 @@ cemetaries
 cerviciplex
 cervicispinal 3
 cervicitis
-cervicoauricular 2
+cervicoauricular 3
 cobitis
 cervicobuccal
 cervicodynia 1
@@ -23601,7 +23601,7 @@ continued 2
 continuedness 1
 comprovincial
 continuer 1
-cytostome
+cytostome 1
 continuers 2
 corseleted 2
 columns 1
