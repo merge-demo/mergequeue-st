@@ -218,7 +218,7 @@ gags 7
 gambas 5
 gonoecium 4
 glycyrrhiza 1
-guarder 2
+guarder 3
 greatens 2
 gradefinder 4
 gratiano 1
@@ -232,7 +232,7 @@ gracelessness 11
 gangdom 1
 geostationary 3
 gloeocapsa 6
-ghettoes
+ghettoes 1
 gutsy 5
 glyptics 4
 gayyou 6
@@ -825,7 +825,7 @@ gnarring
 glycols 4
 gramp 1
 gephyrophobia 3
-gramary 1
+gramary 2
 gamblesomeness 3
 greenback 2
 genseng 2
@@ -1331,7 +1331,7 @@ gieing 4
 garroter 5
 gary 5
 goodness 3
-groundling 3
+groundling 4
 gignate 3
 ganoine 2
 goanese 11
@@ -1814,7 +1814,7 @@ glutenous 4
 generalcies 4
 gemmules 4
 gousty
-gadabout 2
+gadabout 3
 goloshes 6
 geographize 4
 gossypium 4
@@ -1826,7 +1826,7 @@ gerhardtite 2
 gregory 5
 grandfer 3
 gunfighting 2
-galerus 4
+galerus 5
 gateposts 4
 glossotomy 5
 gatewaying 3
@@ -2065,7 +2065,7 @@ galvanizer 1
 gerontes 1
 ginglmi 3
 gnomist 2
-gelndesprung 4
+gelndesprung 5
 gawkhammer 4
 gamophagy 2
 greasehorn 3
@@ -3420,7 +3420,7 @@ gestaltist
 gallicisms 2
 gynecology 3
 grum 3
-gubernance 7
+gubernance 8
 gaveler 1
 geometers 1
 gudgeons 2
@@ -3656,7 +3656,7 @@ goggling 4
 gorble 3
 guppy 1
 glossiphonia 3
-goes 2
+goes 3
 gabbling 7
 gaugership 4
 grumpier
@@ -4013,7 +4013,7 @@ gilttail 4
 gravelliness 3
 gentleman 5
 gurly 8
-gratifications 3
+gratifications 4
 gibboseness 3
 gim 3
 gambolling 3
@@ -5653,7 +5653,7 @@ gothites 1
 golliwog 6
 grizzler 2
 gaultheria 4
-gaudies 4
+gaudies 5
 galvanographic 7
 girland 6
 glandulous 7
@@ -5829,7 +5829,7 @@ glochidia 5
 germanism 3
 gendarmes 4
 guilds 3
-geroderma 3
+geroderma 4
 graffito 3
 glycolaldehyde 1
 galvanoplastic 3
@@ -7627,7 +7627,7 @@ glycosaemia 3
 gambians 3
 grab 4
 guanamine 5
-geminates 3
+geminates 4
 gullibility 3
 guarantied 5
 gopherman 1
@@ -8036,7 +8036,7 @@ gangsman 6
 grapnels 4
 gonidiose 1
 glaucine 2
-gunstocking 3
+gunstocking 4
 gata 4
 gunstock 6
 gossiper 3
@@ -9209,7 +9209,7 @@ groves 3
 grangerizer 8
 goffered 6
 gryde 4
-giust
+giust 1
 greenyard 1
 gripping 4
 gelandesprung 1
