@@ -5352,7 +5352,7 @@ commonty
 cassumunar 3
 cellarers
 cast
-castable
+castable 1
 castagnole
 castalian 2
 castalides 1
@@ -5777,7 +5777,7 @@ cabasset
 counterinsurgents 1
 catclaw
 cate 1
-cocitizen 1
+cocitizen 2
 catechesis 3
 catechetic 1
 congenator
@@ -18095,7 +18095,7 @@ compactile 1
 coenobitical 1
 carbinol
 coannexing 2
-coenocentrum 4
+coenocentrum 5
 celioscopy 2
 coenocytic 4
 carson 1
@@ -20038,7 +20038,7 @@ cynophilic 2
 commencer
 commencing 1
 coloslossuses 3
-crim 1
+crim 2
 cheweler 3
 cinemelodrama
 cocorico 1
