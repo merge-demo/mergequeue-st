@@ -3461,7 +3461,7 @@ boughpot 1
 bef 3
 bastite
 brushfire 2
-brigade 1
+brigade 2
 basto 3
 baguios 2
 bucklandite 1
@@ -5702,7 +5702,7 @@ belgrade 3
 bogwood 2
 buries 1
 bora 5
-butterback 5
+butterback 6
 birefracting 3
 backwasher 5
 belialic 1
@@ -8521,7 +8521,7 @@ braillist 3
 baccaras 1
 bronchotomist 3
 behale 4
-backboned 2
+backboned 3
 bacterioscopical 5
 bafaro 1
 baronne 6
@@ -17201,7 +17201,7 @@ bathylith 1
 battailant 2
 bullrush 1
 bulls 3
-baccillum 2
+baccillum 3
 brodee 1
 bullated 1
 bronchopneumonia
