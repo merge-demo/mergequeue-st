@@ -3608,7 +3608,7 @@ butchers 1
 balconet 3
 bathometry
 blockmaking 3
-bathool 3
+bathool 4
 balneary 1
 bathophobia
 buvette
@@ -7002,7 +7002,7 @@ behaviorism 1
 besnowing
 besognier 1
 blowlamp 2
-biznagas 2
+biznagas 3
 bookcraft 2
 bioplasms 3
 basing 4
@@ -16398,7 +16398,7 @@ byth 3
 brumous 2
 brumstane 3
 brunch 2
-brunched
+brunched 1
 brunching 4
 bostonian 4
 brushproof 1
