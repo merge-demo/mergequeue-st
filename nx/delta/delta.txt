@@ -6091,7 +6091,7 @@ dropout
 dimission 3
 durgen 2
 dissolvable 2
-deckedout
+deckedout 1
 digestible 3
 derated
 diphtheroid 3
