@@ -3409,7 +3409,7 @@ equipage 2
 exteroceptor 3
 elohist 3
 em 2
-embarring 3
+embarring 4
 elementoid 2
 ethnarchy 2
 enosises 2
@@ -12028,7 +12028,7 @@ everyone 1
 enterfeat 4
 exampleship 3
 essentials 5
-eigenspace 4
+eigenspace 5
 electrostrictive 2
 embolus 4
 equilibrize
@@ -12533,7 +12533,7 @@ electicism 1
 everyway 2
 exinguinal
 effare 2
-erythrean
+erythrean 1
 existimation
 embarcation 1
 electronervous 2
