@@ -5600,7 +5600,7 @@ afflux 3
 afterplanting 1
 absinthium 4
 acknew 1
-afterreckoning
+afterreckoning 1
 audiotypist 1
 auxofluor
 andiroba
@@ -7072,7 +7072,7 @@ alphabetism 1
 ake
 antitubercular 1
 aromaticness 1
-appraisingly
+appraisingly 1
 akebia 2
 actinia 2
 abjudicator 1
@@ -8856,7 +8856,7 @@ allocations
 amender 2
 adeptly 3
 adamastor 2
-anaphora 1
+anaphora 2
 aditus 2
 administered 2
 allocator 2
@@ -11298,7 +11298,7 @@ amphioxuses
 assemblymen
 antistalling 1
 amphiplatyan
-acknowledge
+acknowledge 1
 amphiploidy 1
 ascicidia
 ains 2
@@ -11826,7 +11826,7 @@ anthropophagous 2
 allargando 1
 apportion 2
 aslake 1
-anticephalalgic 1
+anticephalalgic 2
 analgias 2
 akeki 1
 analgic 2
@@ -12450,7 +12450,7 @@ androgamone 1
 agendums 3
 addulce
 amberina 1
-anticomplex 3
+anticomplex 4
 afflictions 1
 androgynal 2
 alterity 1
@@ -13443,7 +13443,7 @@ annalize 5
 ankush
 astringe 2
 archphylarch
-amorphism 2
+amorphism 3
 ankusha 2
 anomala
 anlace 1
@@ -14002,7 +14002,7 @@ aptyalism
 antaios 1
 antalgesic 3
 antalgics 3
-antalgol 3
+antalgol 4
 acraspeda 1
 allothigenetic
 adelea
@@ -20636,12 +20636,12 @@ arthropods 1
 arthrorheumatism 3
 acetates 2
 anaudic 1
-antiliberals
+antiliberals 1
 aquamanalia 1
 anserous
 acequias 1
 amynodon 1
-arthrosis
+arthrosis 1
 anapterygota
 aeromagnetic 3
 adderwort
