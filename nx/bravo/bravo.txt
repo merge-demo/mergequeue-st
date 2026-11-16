@@ -1557,7 +1557,7 @@ beeherd
 burger 3
 bersiamite 3
 bulbiform 3
-bdl
+bdl 1
 bouton 4
 backsword 3
 ballastic 4
@@ -3729,7 +3729,7 @@ batty 3
 bacbakiri 1
 barny 5
 brookflower 2
-beild 6
+beild 7
 battier 2
 brightest 2
 baddest 1
@@ -8988,7 +8988,7 @@ biographies 3
 boulangist
 boreable 4
 balei 1
-bummerish
+bummerish 1
 brattles
 bioherm 4
 besotting 4
@@ -12028,7 +12028,7 @@ bartholomean 2
 brawling
 boyau 3
 bilinigrin 1
-boyaux 3
+boyaux 4
 bronchostomies 4
 bertin
 bojite 1
