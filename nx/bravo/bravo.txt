@@ -3719,7 +3719,7 @@ bucketmaker 2
 beltis
 batterie 1
 breck 2
-batterman
+batterman 1
 blennemesis 3
 bullockman 3
 bepinch 1
@@ -6607,7 +6607,7 @@ beret 3
 brangler 3
 berets 3
 berewick 2
-bradyseismic
+bradyseismic 1
 breth
 biunity 3
 banquettes 3
@@ -11042,7 +11042,7 @@ bisaccate 5
 bloating
 burglarized 4
 beet 3
-bootstrap 2
+bootstrap 3
 beclout 5
 basilemma 4
 bails 5
@@ -14105,7 +14105,7 @@ brachygnathism
 bardlike 1
 bailieries 1
 blackberries 2
-barytine 2
+barytine 3
 boarders
 baseball 3
 brachygraphical 2
@@ -18218,7 +18218,7 @@ borated 3
 buttered 3
 beshadowing 5
 balkily 2
-brisken
+brisken 1
 bonhomous
 beyond 6
 butterfat 2
