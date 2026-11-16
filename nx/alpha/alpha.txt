@@ -10583,7 +10583,7 @@ amids 1
 apolarity 1
 aphids 3
 ascaris
-anotia
+anotia 1
 amidulin
 abnegating 3
 absinthiating 3
@@ -24467,7 +24467,7 @@ alfuro 2
 anthophilous 1
 arbitrable 2
 autotheist 2
-autotimer
+autotimer 1
 autotypography 2
 autotomise 2
 armbands 2
@@ -24672,7 +24672,7 @@ aveniform 2
 astatic 2
 anacamptic 5
 avenolith 1
-avshar 1
+avshar 2
 axiom
 alypine 2
 aspirants 2
