@@ -2233,7 +2233,7 @@ campos 1
 conuropsis
 circumfusile
 capotes 1
-campshed
+campshed 1
 corvets
 campsheeting 1
 campsite
@@ -12301,7 +12301,7 @@ condominial 2
 cumuliform
 christianite
 clothier 2
-christianizer 1
+christianizer 2
 christianizes
 christianly
 contraindicative 1
@@ -14312,7 +14312,7 @@ circumradius 2
 circumradiuses 2
 charitable 1
 claver 1
-conferring 1
+conferring 2
 cevadilla
 conamed 1
 circumrotate 3
@@ -27489,7 +27489,7 @@ chronicity 2
 covalences 1
 covalency
 carpoptosis 3
-coriander 2
+coriander 3
 covalent
 campephilus 1
 covalently
@@ -30943,7 +30943,7 @@ chainette 2
 cystoids
 coigns 1
 crotched 3
-culturize
+culturize 1
 cleanliness 2
 culturological 1
 culturologically 1
