@@ -2677,7 +2677,7 @@ deltoidei 3
 deconsecrate 4
 duels 2
 dareful 1
-deconsecrated 2
+deconsecrated 3
 demitrain 4
 deconsideration 1
 decontaminating 1
@@ -3615,7 +3615,7 @@ deglamorizing
 doubtlessly 1
 disrespectfulness 2
 deglazed 3
-discoblastic 2
+discoblastic 3
 disqualify 1
 deglazing 3
 duckling 1
@@ -6608,7 +6608,7 @@ domestications 3
 decontamination 1
 defibrinize 4
 doyley
-diaporthe 3
+diaporthe 4
 dermatrophy 2
 darkhearted 4
 dicarboxylate 2
