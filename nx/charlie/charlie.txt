@@ -11776,7 +11776,7 @@ chondromyces 1
 cissoids 5
 chukkas 2
 chondromyxosarcoma 1
-chondromucoid
+chondromucoid 1
 chondropharyngeus
 cataphysic 3
 carpale
@@ -26364,7 +26364,7 @@ costumiere
 costumiers
 cinematize 1
 choreomania 1
-cardanic 1
+cardanic 2
 cosubject 2
 cashboxes
 cosubordinate
