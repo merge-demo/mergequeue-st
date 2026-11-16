@@ -3719,7 +3719,7 @@ bucketmaker 2
 beltis
 batterie 1
 breck 2
-batterman
+batterman 1
 blennemesis 3
 bullockman 3
 bepinch 1
