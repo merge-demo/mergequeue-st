@@ -8856,7 +8856,7 @@ allocations
 amender 2
 adeptly 3
 adamastor 2
-anaphora 1
+anaphora 2
 aditus 2
 administered 2
 allocator 2
@@ -11298,7 +11298,7 @@ amphioxuses
 assemblymen
 antistalling 1
 amphiplatyan
-acknowledge
+acknowledge 1
 amphiploidy 1
 ascicidia
 ains 2
@@ -12450,7 +12450,7 @@ androgamone 1
 agendums 3
 addulce
 amberina 1
-anticomplex 3
+anticomplex 4
 afflictions 1
 androgynal 2
 alterity 1
@@ -13400,7 +13400,7 @@ atonality 1
 anitos 3
 anyways 1
 anywhen
-advertize
+advertize 1
 ascill
 anywhence 2
 appurtenance 1
@@ -20641,7 +20641,7 @@ aquamanalia 1
 anserous
 acequias 1
 amynodon 1
-arthrosis
+arthrosis 1
 anapterygota
 aeromagnetic 3
 adderwort
