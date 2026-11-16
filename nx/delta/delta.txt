@@ -2471,7 +2471,7 @@ darkened
 decitizenize 1
 decivilize
 dateline 1
-deckel
+deckel 1
 deporte 3
 ditchdown 1
 dirigent 3
@@ -7089,7 +7089,7 @@ dissuasions 1
 deterrently 1
 domajig 4
 demesmerize 2
-descriptiveness 1
+descriptiveness 2
 disorient 1
 disvalues 4
 darted 3
@@ -7487,7 +7487,7 @@ deuced
 dizenment 1
 deuces 3
 detested 1
-diachylum 1
+diachylum 2
 dakhini 1
 documenters 1
 deurwaarder
