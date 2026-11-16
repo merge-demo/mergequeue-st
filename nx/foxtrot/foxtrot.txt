@@ -313,7 +313,7 @@ feods 5
 forces 7
 fail 4
 fireplough 4
-faineancy 5
+faineancy 6
 fayles 3
 fimbricated 5
 furcal 5
@@ -810,7 +810,7 @@ floodlighting 3
 foveolarious 2
 frown 2
 felinely 2
-flummox 1
+flummox 2
 fannia 2
 forbecause 2
 fanon 3
@@ -2812,7 +2812,7 @@ festucine 2
 forelady 6
 flaxiest 4
 frightfully 7
-funli 3
+funli 4
 fumigation 4
 forehood 3
 firsthand 2
@@ -6187,7 +6187,7 @@ fog 3
 fadeaway 1
 frothier 1
 fluavile 7
-flubbed 3
+flubbed 4
 feudum 3
 foreread 5
 fairgoing 2
@@ -6583,7 +6583,7 @@ franseria 5
 friary 10
 flunkeyism 3
 feltness 2
-frounce 2
+frounce 3
 foamflower
 firework 3
 floriculturally 1
@@ -8535,7 +8535,7 @@ fitty 1
 formicate 3
 filix 5
 freeward 3
-ferruminated 1
+ferruminated 2
 foreadvertise 2
 formicine 6
 floormen 4
@@ -9633,7 +9633,7 @@ fizzed 5
 friableness 5
 frizzing 6
 fraternality 5
-fivestones 2
+fivestones 3
 ferrotyper 5
 floriken 4
 forhooy 5
@@ -11185,7 +11185,7 @@ fremdness
 flyblowing 4
 fungian
 fondles 5
-felspar 4
+felspar 5
 fungibility 5
 fadeout 5
 fideists 5
