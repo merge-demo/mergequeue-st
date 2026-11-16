@@ -1710,7 +1710,7 @@ glibber 3
 goric 2
 glass 1
 gave 3
-guesses 2
+guesses 3
 gamesman 1
 guernseys 1
 garnetwork 2
@@ -3187,7 +3187,7 @@ giron 2
 gap 3
 ghosty 6
 gundelet 5
-gilgul 5
+gilgul 6
 goldenwing 1
 galoot 2
 ginnle 5
@@ -3446,7 +3446,7 @@ gyrfalcon 2
 gleave 5
 goyin
 grot 2
-gestatory 1
+gestatory 2
 geriatric 6
 grivoise 1
 graphonomy 5
@@ -5703,7 +5703,7 @@ guttule 5
 gaslit 7
 ghillies 2
 glamberry 4
-gadroons 5
+gadroons 6
 glendale 3
 glossocele 3
 graian 3
@@ -9327,7 +9327,7 @@ glycerole 1
 germaniums 2
 goldenback 4
 gluier 2
-giggles 2
+giggles 3
 guaiasanol 5
 gamesome 3
 gauffre 2
