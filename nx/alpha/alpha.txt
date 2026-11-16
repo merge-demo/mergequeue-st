@@ -143,7 +143,7 @@ abated
 adenocarcinomatous 1
 apocrustic
 abater
-anaplasty 2
+anaplasty 3
 alanyl
 alcumy 2
 abating 1
@@ -241,7 +241,7 @@ aeroliths 2
 acroamatics 3
 absorptiometric 2
 abbott 2
-adenomyxoma 2
+adenomyxoma 3
 actable 2
 antileft 3
 apostate 3
@@ -2183,7 +2183,7 @@ alts 1
 adawlut 3
 arend 2
 apiculate 1
-achymia
+achymia 1
 acuminated 1
 azobenzol 2
 amphophilous 2
@@ -5379,7 +5379,7 @@ attestation 1
 abbasid 1
 aplacentalia 1
 afforesting
-autophotometry
+autophotometry 1
 anticogitative 2
 afformative 5
 affrayers 1
@@ -5729,7 +5729,7 @@ ajax
 angulatosinuous 1
 agalwoods 2
 arthrodial 1
-adiposes 1
+adiposes 2
 adulter 2
 agamemnon 1
 antiquely 2
@@ -6624,7 +6624,7 @@ acrasida 3
 aeolina
 antibaryon 1
 albi 1
-americanumancestors
+americanumancestors 1
 annite 1
 actinometers 3
 anaesthesiology 2
@@ -19547,7 +19547,7 @@ ariana 1
 alifs
 antinationalistically 3
 arguments
-amorosa 1
+amorosa 2
 auriculated 3
 argusianus 2
 arguslike 2
@@ -20111,7 +20111,7 @@ ametabolism 2
 approx 1
 arrayal 2
 archmystagogue 3
-actiniform 2
+actiniform 3
 arraign 1
 amaurosis 1
 agaricales 1
@@ -20563,7 +20563,7 @@ affrontingness 1
 abseiling 1
 allophytoid 1
 attritus 1
-anguishing 2
+anguishing 3
 auriculariales 1
 arthritis
 arthrobacterium 4
@@ -22681,7 +22681,7 @@ atherosclerosis 1
 advancer 2
 atherosclerotic 2
 acerbic 4
-absent 2
+absent 3
 angulation 3
 aeronomic
 abjuratory 3
