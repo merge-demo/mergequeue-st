@@ -24,7 +24,7 @@ flawy 6
 fashional 4
 fanciest 3
 furiouser 2
-febricula 4
+febricula 5
 freeman 6
 floodlet 2
 fourchee 1
@@ -859,7 +859,7 @@ fantastication 4
 forold 2
 faventine 8
 flamfew 4
-fulmars 3
+fulmars 4
 fayalite 4
 furfooz 1
 foundationlessness 5
@@ -2264,7 +2264,7 @@ fromfile
 fenchene 3
 favn 4
 fastigated 5
-ficoid 2
+ficoid 3
 facemaker 2
 facaded 5
 florentinism 4
@@ -10175,7 +10175,7 @@ falchions 8
 finalize 1
 fricatives 1
 fluid 5
-frivolousness 4
+frivolousness 5
 foray 2
 faunula 3
 felled 3
@@ -11673,7 +11673,7 @@ fresne 1
 frwy
 fluorochrome 4
 fibreboard 1
-faade 2
+faade 3
 ferrety 2
 futurama 2
 floodometer
