@@ -5157,7 +5157,7 @@ blende 3
 broadside 2
 beggarer 2
 buccinatory 2
-bagpod
+bagpod 1
 baffled 3
 bashment
 bazookas
@@ -7052,7 +7052,7 @@ blaming 2
 bedazzlement 2
 bespangling 1
 bespate 1
-brickbatted 1
+brickbatted 2
 basset 1
 biwa 2
 bezzant 2
@@ -8555,7 +8555,7 @@ bejeweling 3
 barabra 3
 bo
 bunting 3
-bedder 2
+bedder 3
 bradycardia 2
 billabong 2
 billage 3
@@ -17709,7 +17709,7 @@ bankeress 2
 boubou 2
 broach 1
 beefiest 1
-basilyst 3
+basilyst 4
 bicornes
 buyer 3
 burma 1
