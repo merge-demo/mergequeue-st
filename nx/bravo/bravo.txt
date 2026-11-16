@@ -965,7 +965,7 @@ brumby
 bahadur 1
 beverage 1
 bahay 3
-bahaist
+bahaist 1
 befurbelowed 2
 blocs 1
 bahamians 1
@@ -1557,7 +1557,7 @@ beeherd
 burger 3
 bersiamite 3
 bulbiform 3
-bdl
+bdl 1
 bouton 4
 backsword 3
 ballastic 4
@@ -4347,7 +4347,7 @@ bossdoms 1
 beche 1
 becheck
 befool 2
-bechic 5
+bechic 6
 bechignoned 3
 bacchanalize 3
 balzacian
@@ -6690,7 +6690,7 @@ bedull 3
 bayesian 5
 browsability 2
 bismuthine
-broomstaff 2
+broomstaff 3
 blitter 1
 balaamitical 2
 beeishness 2
