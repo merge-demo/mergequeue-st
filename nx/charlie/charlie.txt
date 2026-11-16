@@ -6395,7 +6395,7 @@ car
 cribbers 3
 cilantro 2
 cautery
-cauteries
+cauteries 1
 cauterisation 5
 cauterise 3
 collision
@@ -25531,7 +25531,7 @@ cespitose 1
 cochlitis 2
 coromell 2
 chronoscopv 2
-coronach 1
+coronach 2
 coronachs 1
 coronadite 2
 coronados 3
