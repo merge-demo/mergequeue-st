@@ -1768,7 +1768,7 @@ derogation
 deathtime 1
 diverticular 2
 diphenan 3
-dividend 1
+dividend 2
 diphyllobothrium 2
 debriefs 2
 deathtrap 2
@@ -7693,7 +7693,7 @@ disciplinary 2
 devildom 4
 druery 1
 drollingly 4
-displanted
+displanted 1
 dealerdom 1
 deviled
 dallis 1
