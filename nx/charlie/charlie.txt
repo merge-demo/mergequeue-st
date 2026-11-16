@@ -3333,7 +3333,7 @@ capnomor
 cirripede
 cowgram
 connivant 3
-celli
+celli 1
 colleri
 capo
 chaufers 3
@@ -7790,7 +7790,7 @@ cemetaries
 cerviciplex
 cervicispinal 3
 cervicitis
-cervicoauricular 2
+cervicoauricular 3
 cobitis
 cervicobuccal
 cervicodynia 1
@@ -14388,7 +14388,7 @@ ceriomyces 2
 callously 1
 citrus 2
 clicky 1
-cupuliferae 4
+cupuliferae 5
 circumvest 1
 circumvoisin 1
 contrapletal 2
@@ -23601,7 +23601,7 @@ continued 2
 continuedness 1
 comprovincial
 continuer 1
-cytostome
+cytostome 1
 continuers 2
 corseleted 2
 columns 1
