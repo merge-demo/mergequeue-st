@@ -1508,7 +1508,7 @@ galoped 4
 gavelage 3
 guiro 2
 giftwrap 7
-gripers 1
+gripers 2
 growed 5
 geez 4
 gilpy 5
@@ -4216,7 +4216,7 @@ gramineousness 2
 gaunty 3
 goon 2
 gantleting 5
-gramophones 5
+gramophones 6
 gusto 2
 gnabble 1
 garnishing 5
@@ -10535,7 +10535,7 @@ gentamicin 8
 gunge 7
 germinability 3
 gunjah 3
-gaucheries
+gaucheries 1
 genisaro 6
 glyceraldehyde 1
 granospherite 2
