@@ -286,7 +286,7 @@ boistously 3
 brachiocyllosis 1
 backarrows 2
 backbar 4
-bedright
+bedright 1
 begrutch 1
 biolith 2
 booter 2
@@ -1857,7 +1857,7 @@ bivial 4
 beslime 5
 bullose 2
 bialystoker 3
-bandaged 2
+bandaged 3
 bandaging 1
 berylloid
 bowlin 3
@@ -4459,7 +4459,7 @@ benegro
 billard 5
 bebopper 5
 blackrag 2
-batteler 5
+batteler 6
 behinds 3
 bailment
 beached 2
@@ -10892,7 +10892,7 @@ blindball 8
 bindable 2
 bangers 1
 boxball
-barracker 4
+barracker 5
 blooddrops 2
 buttals 2
 blasphemy
@@ -14031,7 +14031,7 @@ barrelfuls 2
 backbenchers 2
 boarishly 2
 bracery 1
-blankeel 1
+blankeel 2
 belaboured 3
 barriguda 2
 braceros 2
