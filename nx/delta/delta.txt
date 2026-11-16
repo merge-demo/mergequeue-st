@@ -6091,7 +6091,7 @@ dropout
 dimission 3
 durgen 2
 dissolvable 2
-deckedout
+deckedout 1
 digestible 3
 derated
 diphtheroid 3
@@ -8600,7 +8600,7 @@ digitize 1
 decigramme 4
 dibatis 2
 dystaxia 2
-diapsida
+diapsida 1
 dyskinetic 2
 deathin 2
 dyarchy 3
@@ -11080,7 +11080,7 @@ disarticulating 3
 disarticulation 6
 detruded 2
 disarticulator
-disasinize 3
+disasinize 4
 deliciously 5
 descriptors 4
 delphinoidine 2
@@ -11859,7 +11859,7 @@ dewier 1
 dopers 2
 diaconal 5
 doux 3
-dolci 3
+dolci 4
 deathblow 4
 dehypnotized
 dragoonade 1
@@ -13960,7 +13960,7 @@ discrepance 3
 drawtubes
 dacryadenalgia 1
 davenport 4
-dorsispinal 4
+dorsispinal 5
 defoam 3
 dunking 1
 districtly 2
