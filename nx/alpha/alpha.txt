@@ -2105,7 +2105,7 @@ affiliation
 amylohydrolytic 1
 antiputrefactive 2
 anammonid 2
-altitudinal 3
+altitudinal 4
 alined 1
 acheiria 3
 aboveboard
@@ -2654,7 +2654,7 @@ arriswise 2
 acquiesce 2
 almoin
 adrian 2
-addiction 1
+addiction 2
 apparatus 3
 acanthopterous 1
 armistice 1
@@ -14447,7 +14447,7 @@ amnemonic 3
 almugs 1
 amplexicauline 2
 anthracitic 1
-apprehensively
+apprehensively 1
 astragalocentral 1
 acclaims
 amoyese
@@ -21817,7 +21817,7 @@ anthophile 1
 apotheose 1
 animals 3
 antiquarium 2
-asseveration 1
+asseveration 2
 apaesthetic 1
 asseveratory 3
 asshead
