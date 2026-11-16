@@ -593,7 +593,7 @@ excommenge 1
 exostoses 2
 eciliate 2
 emporia 3
-emetics
+emetics 1
 eurypharynx 1
 euro 3
 eciton 5
@@ -9051,7 +9051,7 @@ extrality 1
 extravascular 1
 epenthesis 4
 editorialist 5
-erythrocytosis 7
+erythrocytosis 8
 embryogony 3
 enigmas 1
 ectasia 3
@@ -13567,7 +13567,7 @@ earthmaker 1
 exscissor 4
 eyass 2
 extrafloral 2
-epicentrums 6
+epicentrums 7
 exscriptural 2
 execrating 4
 extemporarily
