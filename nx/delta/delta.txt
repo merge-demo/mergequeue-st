@@ -2801,7 +2801,7 @@ duogravure 2
 decretorian 3
 dithymol 1
 defi 1
-declarator 4
+declarator 5
 decried 4
 desistive 1
 deerflys
@@ -10118,7 +10118,7 @@ dodecahedra 1
 dindon 1
 doodled 1
 dimidiated
-digestive
+digestive 1
 dirts 2
 dip 1
 disrooted 3
@@ -18619,7 +18619,7 @@ doctrinarian 2
 dorsalmost 1
 dustsheet 2
 djasakid
-dissonantly 2
+dissonantly 3
 dusttight 1
 dustuk 3
 decentring 1
