@@ -1120,7 +1120,7 @@ bypassed 1
 bransolder 1
 bromius 4
 barless 3
-baseless 4
+baseless 5
 bryophyte 2
 buxine 2
 bladish 2
@@ -6643,7 +6643,7 @@ bodegon 2
 beribanded 1
 birdy 2
 bargeboard 1
-barbarious
+barbarious 1
 beriberis 2
 bevesseled 2
 beerier 3
@@ -12078,7 +12078,7 @@ boistous 4
 boistousness 1
 backplate
 brinkmanship 1
-brunellia 1
+brunellia 2
 brocading 2
 bullfighters 4
 brit 2
