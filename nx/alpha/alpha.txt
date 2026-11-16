@@ -3326,7 +3326,7 @@ arpanet
 acutilingual 4
 axal 1
 acutilobate 1
-arterioarctia 1
+arterioarctia 2
 acutiplantar 1
 autoluminescence 3
 acrylate 1
@@ -4169,7 +4169,7 @@ adjudicates 1
 avell
 autobus 2
 antiphlogistin 2
-acylamino 1
+acylamino 2
 adnephrine 1
 anthracene 2
 atabal 1
@@ -8856,7 +8856,7 @@ allocations
 amender 2
 adeptly 3
 adamastor 2
-anaphora 1
+anaphora 2
 aditus 2
 administered 2
 allocator 2
@@ -11298,7 +11298,7 @@ amphioxuses
 assemblymen
 antistalling 1
 amphiplatyan
-acknowledge
+acknowledge 1
 amphiploidy 1
 ascicidia
 ains 2
@@ -13400,7 +13400,7 @@ atonality 1
 anitos 3
 anyways 1
 anywhen
-advertize
+advertize 1
 ascill
 anywhence 2
 appurtenance 1
@@ -20641,7 +20641,7 @@ aquamanalia 1
 anserous
 acequias 1
 amynodon 1
-arthrosis
+arthrosis 1
 anapterygota
 aeromagnetic 3
 adderwort
