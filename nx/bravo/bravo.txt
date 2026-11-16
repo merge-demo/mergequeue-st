@@ -1881,7 +1881,7 @@ bindings
 brigading 3
 banders 1
 broadlings 2
-befogging 1
+befogging 2
 barkinji 2
 bandfile 3
 burdon 3
@@ -2755,7 +2755,7 @@ boroughship 4
 barometers 5
 beefy 2
 blam 1
-brainache 1
+brainache 2
 beachside 3
 burthenman 4
 borromean 1
@@ -3048,7 +3048,7 @@ bartonella 3
 backswordsman 3
 blepharedema
 bubba 3
-bartramian 2
+bartramian 3
 banish 7
 beetmister 4
 bliest 2
@@ -13152,7 +13152,7 @@ beadman 5
 bube 2
 brucite 1
 borosalicylic 5
-borotungstate 2
+borotungstate 3
 borough 2
 biseriate 3
 boroughmonger 1
@@ -17545,7 +17545,7 @@ bassa 2
 bricklay 1
 bureaucratization 1
 breastpiece 2
-blepharoclonus
+blepharoclonus 1
 bureaucratizes 1
 bunging 1
 bicentenaries 2
@@ -18277,7 +18277,7 @@ berryman 3
 basque
 brickmason 6
 badan 1
-burweed 5
+burweed 6
 bins 4
 bencher
 butterworker 4
