@@ -4452,7 +4452,7 @@ bhili 1
 beribers 4
 beclothes 3
 blushwort 2
-bike 1
+bike 2
 buriels 4
 boomeranged 1
 benegro
@@ -5630,7 +5630,7 @@ baggages 2
 backlashing 1
 baptistery
 bima
-blarina
+blarina 1
 bridelike
 bronchostomy 2
 belate
@@ -11583,7 +11583,7 @@ blush 3
 blushed 4
 banga 2
 bandannas 3
-blushfully 3
+blushfully 4
 borophenol 1
 blushy 1
 basophils 1

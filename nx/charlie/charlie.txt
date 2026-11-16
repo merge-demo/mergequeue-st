@@ -3333,7 +3333,7 @@ capnomor
 cirripede
 cowgram
 connivant 3
-celli
+celli 1
 colleri
 capo
 chaufers 3
@@ -7790,7 +7790,7 @@ cemetaries
 cerviciplex
 cervicispinal 3
 cervicitis
-cervicoauricular 2
+cervicoauricular 3
 cobitis
 cervicobuccal
 cervicodynia 1
@@ -8474,7 +8474,7 @@ carberry 1
 celebrated
 championed
 championing
-championize 3
+championize 4
 caesium
 champions 1
 cytotaxonomic 1
