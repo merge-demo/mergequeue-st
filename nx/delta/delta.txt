@@ -721,7 +721,7 @@ dyspnoeas 3
 deadmelt 5
 doorplates 3
 danceability 4
-danceable
+danceable 1
 devitalised 1
 demoniacs
 danced 3
@@ -16627,7 +16627,7 @@ dragonesque 2
 daphnis 1
 distr 2
 dragonfishes 5
-dragonflies 2
+dragonflies 3
 didelphian 2
 dragonhood 3
 downily
