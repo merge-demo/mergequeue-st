@@ -1221,7 +1221,7 @@ fastbacks 4
 flagman 4
 faradism 5
 futteret 4
-fama 6
+fama 7
 favella 8
 forevouch 4
 footwall 4
@@ -5812,7 +5812,7 @@ fumeroot 2
 fastigium 5
 foreswearing 4
 filmer 4
-flittermouse 3
+flittermouse 4
 fellowship 3
 fathmur 5
 flitters 4
@@ -6690,7 +6690,7 @@ fogfruit 3
 fiddlededee 1
 fibrins 2
 fuzzes 2
-felicity 4
+felicity 5
 flatterable 1
 flintlock 1
 flouts 1
@@ -10043,7 +10043,7 @@ forerevelation 3
 fecundations 1
 foredeclare 2
 foxite 7
-frilled 3
+frilled 4
 flexitime 2
 finicky 3
 fowlpox 2
@@ -10356,7 +10356,7 @@ finfoot 3
 fervorlessness 2
 flarfishes 3
 fustilugs 2
-futurely 5
+futurely 6
 fingerleaf 2
 fingering 2
 forecourt 3
