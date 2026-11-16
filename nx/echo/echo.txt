@@ -339,7 +339,7 @@ enchantment
 electrocauterization 1
 epacridaceous 3
 espying 3
-emulsifier 2
+emulsifier 3
 epitaphless 1
 eavedrop 3
 eriophyidae 5
@@ -6683,7 +6683,7 @@ eurytherm 4
 epistrophy 3
 enthelminthic 4
 echolocate 3
-effume 3
+effume 4
 ectosomal
 extratarsal 2
 esthesioneurosis 2
