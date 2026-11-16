@@ -2399,7 +2399,7 @@ deciliter 1
 druidry 4
 destituent 5
 doodads 5
-dispelled
+dispelled 1
 decanonize 3
 donny 1
 dripstick 2
@@ -7893,7 +7893,7 @@ degrease 2
 discommon 1
 disrump 1
 decongested 2
-desecration 2
+desecration 3
 delphinite 4
 draconianism 1
 desperadoes
@@ -15359,7 +15359,7 @@ dorical 1
 demoralisation 2
 disappearance 2
 domiciled 1
-domestic
+domestic 1
 dissipator 4
 deities 2
 dearn 2
@@ -17683,7 +17683,7 @@ dialectally
 dorsalis 2
 detoxicating 2
 delivered 1
-decarbonizer 2
+decarbonizer 3
 diclinism 1
 dagame
 dioscorein
