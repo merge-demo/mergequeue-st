@@ -1557,7 +1557,7 @@ beeherd
 burger 3
 bersiamite 3
 bulbiform 3
-bdl
+bdl 1
 bouton 4
 backsword 3
 ballastic 4
@@ -8988,7 +8988,7 @@ biographies 3
 boulangist
 boreable 4
 balei 1
-bummerish
+bummerish 1
 brattles
 bioherm 4
 besotting 4
