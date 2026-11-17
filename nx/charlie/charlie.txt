@@ -1122,7 +1122,7 @@ calciobiotite 1
 calcioferrite 1
 ceratobranchial
 calcioscheelite
-calciovolborthite
+calciovolborthite 1
 calciphylactic 2
 calciphylaxis
 cabecera 2
@@ -19465,7 +19465,7 @@ configurational 1
 colourably
 cometical 1
 colouration 1
-colourational 3
+colourational 4
 cutitis 2
 crotchetiness 2
 coltpixie
@@ -22681,7 +22681,7 @@ collectedly 3
 conteur
 carless 1
 chambre 1
-craniopathy
+craniopathy 1
 coordinations 2
 compilement
 connubium 1
@@ -28688,7 +28688,7 @@ coplanar 2
 cannophori 1
 crenelee 1
 crenellated
-counterirritant 1
+counterirritant 2
 culets 3
 copeck 1
 cryochore 1
