@@ -5174,7 +5174,7 @@ cyphering 3
 caserne 1
 casernes 3
 costumery 2
-caserns 1
+caserns 2
 cases 2
 caseum 1
 cordis 1
@@ -5515,7 +5515,7 @@ codgers 1
 catabatic 1
 catabibazon
 catabolically
-confoundedness 2
+confoundedness 3
 chickenheartedly
 cabler
 commorancy 1
@@ -6645,7 +6645,7 @@ confocally 1
 cambering 3
 copepods 1
 cottiers
-cedilla
+cedilla 1
 cedillas 1
 ceding 1
 cosheath 3
@@ -6687,7 +6687,7 @@ copiability 3
 celtophobia 1
 couac 1
 chelidosaurus
-ceylonite 2
+ceylonite 3
 ceils
 compound 2
 counterquestion 1
@@ -8276,7 +8276,7 @@ carlism
 crummable 2
 chalicotheriidae 3
 cephalohumeralis 2
-chantress 1
+chantress 2
 courtyard 1
 coonskin 1
 complexity
@@ -8630,7 +8630,7 @@ chansonniers 2
 chantey
 counterlighted 1
 corrigiolaceae 1
-conspired
+conspired 1
 cestodaria
 chantepleure
 chanterelle 1
@@ -10135,7 +10135,7 @@ compagnie 2
 chevener
 cheventayn 2
 cheverel 2
-carcassed
+carcassed 1
 cardlike 2
 cheveret 1
 cheveril 1
@@ -10281,7 +10281,7 @@ chichevache 2
 cremating 3
 canthus 3
 chichicaste 2
-chontawood
+chontawood 1
 chichimec 1
 clerics 1
 chichipe
@@ -10347,7 +10347,7 @@ chicot 1
 chronaxy
 chicqued 1
 chicquer
-chicquest 1
+chicquest 2
 cooperite 1
 clay 1
 chicquing
@@ -10373,7 +10373,7 @@ chiefish 1
 chieftain 2
 chieftaincy 4
 chieftainry 1
-complexify
+complexify 1
 chalcosiderite 2
 chieftainries 2
 concludendi 1
@@ -28131,7 +28131,7 @@ crossly
 craniognosy 2
 coteries 2
 curved 3
-cento
+cento 1
 circumstance 2
 craniography 1
 clovered
@@ -31547,7 +31547,7 @@ cyriological 2
 cycliae 2
 curt 2
 curtailed 1
-curtailedly
+curtailedly 1
 curtailing
 calcimines
 cursores 1
