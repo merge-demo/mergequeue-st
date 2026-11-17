@@ -3940,7 +3940,7 @@ bchs 2
 ballotage 2
 bd 1
 boracium 3
-buttonholes 5
+buttonholes 6
 butternose 1
 bdellium
 balarao 1
@@ -14631,7 +14631,7 @@ bronchi 2
 brankursine 1
 branles 1
 blench 1
-belabors 2
+belabors 3
 birks 1
 biogeographers 3
 blackneb 1
