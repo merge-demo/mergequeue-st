@@ -6808,7 +6808,7 @@ airburst 2
 arresting 2
 angularity 3
 airbusses
-antibias
+antibias 1
 axometer 3
 archsacrificer 2
 arid 5
