@@ -1851,7 +1851,7 @@ gardenwise 3
 grabber 1
 gatherers 4
 gooma 1
-gamenesses 5
+gamenesses 6
 grecale 1
 grubstake 9
 gating 7
@@ -3260,7 +3260,7 @@ geomyid 6
 glancer 2
 glycosin 5
 grein 4
-glent 2
+glent 3
 grabbable 3
 glosseme 3
 geodic 6
@@ -7127,7 +7127,7 @@ gastrocystic 3
 goran 2
 gynecolatry 3
 gremio 3
-gagtooth 6
+gagtooth 7
 gorblin 1
 gorcocks 4
 gypsylike 1
@@ -9208,7 +9208,7 @@ generalizes 3
 groves 3
 grangerizer 8
 goffered 6
-gryde 4
+gryde 5
 giust 1
 greenyard 1
 gripping 4
@@ -9600,7 +9600,7 @@ graphite 4
 growliest 3
 gnathobdellida 3
 gunbarrel 4
-gelatinate 4
+gelatinate 5
 goitered 4
 gossipmonger 5
 gowns 3
