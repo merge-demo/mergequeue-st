@@ -2332,7 +2332,7 @@ azimech 3
 acidy
 acetamid 3
 accessless 2
-acidiferous 1
+acidiferous 2
 argil 2
 aneurin 2
 arbtrn 2
@@ -11799,7 +11799,7 @@ antar 4
 anosphrasia 2
 ablepharon 1
 axhammer 2
-anchietea 1
+anchietea 2
 antarctica
 analcimite
 authigene 2
@@ -17542,7 +17542,7 @@ apesthetize
 appellatived 1
 appellativeness 2
 arriccioci
-appellee
+appellee 1
 admittances 1
 appellor 3
 aminobenzene
@@ -20606,7 +20606,7 @@ aedegi 4
 alpestral 1
 adulators 4
 apantesis 3
-arthromeric 4
+arthromeric 5
 actiniferous 2
 afterplay 2
 adamantoma 5
@@ -20865,7 +20865,7 @@ abyssinians
 allecret 1
 antick 2
 asa 1
-anticynically 1
+anticynically 2
 aneath 3
 asale 2
 asana 2
