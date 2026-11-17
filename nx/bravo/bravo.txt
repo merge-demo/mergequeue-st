@@ -4658,7 +4658,7 @@ brunhild
 breakfastless 3
 beltmaking 3
 bhikhari
-briquetted 1
+briquetted 2
 bedfellows 1
 buildable 2
 barlows 3
@@ -8908,7 +8908,7 @@ biocycle 4
 biocycles 2
 biocidal
 bookcases 1
-bioclimatic 1
+bioclimatic 2
 bowwoman 4
 bioclimatician 1
 bathwater 2
