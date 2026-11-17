@@ -1877,7 +1877,7 @@ errata
 eximiousness 2
 exacta 2
 effectively 1
-encashes 3
+encashes 4
 evanescency 3
 eulogically 1
 epidictical 2
@@ -4649,7 +4649,7 @@ everybody 4
 ecstrophy 1
 esthematology 3
 epanaphora 2
-electromagnetism
+electromagnetism 1
 electroencephalographs 3
 egomania 4
 enmuffle 4
@@ -6234,7 +6234,7 @@ elderbrotherish
 exemplariness 3
 enrapted 3
 enrapts 1
-ethynyl 1
+ethynyl 2
 evestar 2
 experimentative 2
 elemong 4
@@ -9087,7 +9087,7 @@ embadomonas 8
 enlightens 1
 emigrate 3
 erythropia 4
-enveil 2
+enveil 3
 escrowee 4
 ecarte 1
 ephors 2
@@ -10156,7 +10156,7 @@ epicrates 2
 exsomatic 4
 edgier 3
 emmove 3
-earlyish
+earlyish 1
 egotist 4
 exhausts 2
 encroaching 4
@@ -11434,7 +11434,7 @@ ectethmoidal 6
 everywhen 1
 euahlayi 4
 escorting 4
-eicosane 2
+eicosane 3
 excalceation 1
 explorers 5
 eluctation 2
@@ -11880,7 +11880,7 @@ exceeded 2
 endosperm 1
 evanescent
 engrammes 3
-eucre 4
+eucre 5
 elusoriness 3
 ervenholder 5
 everwhich 5
@@ -12122,7 +12122,7 @@ emasculation
 effervescing 5
 emda 3
 enkidu 4
-excruciable 2
+excruciable 3
 excruciated 5
 eudesmol 2
 enframement 3
@@ -14015,7 +14015,7 @@ epitoniidae 4
 epitenon 2
 embargoist 3
 epicoracohumeral 1
-exaltate
+exaltate 1
 extralimital 5
 extrapolatory 3
 entemple 2
@@ -14196,7 +14196,7 @@ enterococci 7
 ectosome
 esthetics 3
 epulation 4
-endlong 5
+endlong 6
 equidistance 1
 enlists 2
 effecters 1
