@@ -6352,7 +6352,7 @@ given 1
 getspace 6
 goldspink 2
 glimmered 3
-goosegrass
+goosegrass 1
 gunmetals 6
 glucosone 4
 grouty 9
@@ -7396,7 +7396,7 @@ gossips 4
 gestor 2
 glomerule 2
 gilthead 1
-glyptograph 5
+glyptograph 6
 ganglioneuroma 3
 gallach 3
 gynostemia 5
@@ -9371,7 +9371,7 @@ goutiness
 glonoin 5
 gnomists 4
 garotes 4
-gumi 4
+gumi 5
 germanhood 7
 grannyknot 1
 gloved 3
@@ -9788,7 +9788,7 @@ gunnung 1
 graybearded 1
 grimacer 6
 gorce 4
-gluside 6
+gluside 7
 grandrelle 3
 grantor 4
 gue 4
