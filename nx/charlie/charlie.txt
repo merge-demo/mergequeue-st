@@ -27548,7 +27548,7 @@ coroplast
 creaturehood
 cover 1
 containable 2
-coverages 3
+coverages 4
 coverall 2
 coveralled 1
 coveralls 1
