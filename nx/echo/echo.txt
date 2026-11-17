@@ -3403,7 +3403,7 @@ embarkations 2
 epitomize 2
 eucharistized 2
 embarkment 4
-echiuroid 4
+echiuroid 5
 embarks 3
 equipage 2
 exteroceptor 3
@@ -6435,7 +6435,7 @@ encumberment 1
 exclude 2
 endometriosis 3
 embolismus
-eurypteroidea
+eurypteroidea 1
 ensoul 3
 ensouled 1
 evolutes 2
@@ -6786,7 +6786,7 @@ entomic 4
 emptins 4
 ectocarpales 2
 electrostatical 3
-examiningly 3
+examiningly 4
 entomical 3
 empoisoning 2
 electroimpulse
