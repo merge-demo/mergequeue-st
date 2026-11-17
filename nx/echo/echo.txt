@@ -1442,7 +1442,7 @@ esconson 3
 eelpout 2
 effort 2
 ethmovomer 4
-environic 3
+environic 4
 emeline 2
 ergonomic 3
 ethiopian 5
@@ -1508,7 +1508,7 @@ exaggeratedly 2
 everywhere 4
 etch 4
 extracalendar 5
-epembryonic 4
+epembryonic 5
 extraregarding 3
 ettarre 2
 egesta 2
@@ -5032,7 +5032,7 @@ enslavers 3
 exordium 2
 endochorion 2
 endochorionic
-engrains 2
+engrains 3
 exodontia 2
 endocyst 3
 eposes 4
@@ -9309,7 +9309,7 @@ estop 1
 erudition 2
 erinys 6
 eurythmic 1
-embittered 5
+embittered 6
 endosiphon 2
 encrusted 1
 erugos 3
@@ -9365,7 +9365,7 @@ embryogenic 1
 epoptic 2
 erythrolitmin 3
 eventail 2
-embolies
+embolies 1
 eucleid 3
 edifyingness 3
 ebdomade 2
@@ -10735,7 +10735,7 @@ ecologic 3
 euhyostylic 1
 eukairite 7
 enfavor 3
-entameba 3
+entameba 4
 eaver 1
 enwraps 3
 exedra 4
