@@ -4365,7 +4365,7 @@ frogfishes
 fathomed 3
 fishability 4
 flybook 1
-fixion 1
+fixion 2
 fishboats 3
 fonduk 4
 flubdubberies 5
@@ -9664,7 +9664,7 @@ flytime 4
 forlet 3
 freeholdership 3
 feeders 4
-falcata 2
+falcata 3
 ferias 5
 factorizing 3
 fortalice 2
@@ -11704,7 +11704,7 @@ foretellableness 2
 flugelhorn 2
 fasciola 2
 fernsick
-frameless 3
+frameless 4
 flaw 1
 fanfish 6
 foremasthand 2
