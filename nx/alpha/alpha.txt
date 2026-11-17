@@ -880,7 +880,7 @@ absconder 1
 agonizes
 archegoniate 1
 agha 1
-accurse 2
+accurse 3
 absconsa
 abscound 4
 aphakia
@@ -2102,7 +2102,7 @@ ache 2
 alkalinising 1
 artemisin 3
 affiliation
-amylohydrolytic 1
+amylohydrolytic 2
 antiputrefactive 2
 anammonid 2
 altitudinal 4
@@ -18901,7 +18901,7 @@ archiepiscopal 3
 automatons 2
 actification
 abridge
-archigastrula
+archigastrula 1
 archigonic 1
 autotomising 3
 addoom 2
@@ -24357,7 +24357,7 @@ asterochiton 2
 allopurinol 3
 autoregulative 2
 amylan 2
-activisms
+activisms 1
 arg 1
 archducal
 autorhythmus 1
