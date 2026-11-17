@@ -4839,7 +4839,7 @@ conjuror
 contrariantly 1
 coffea 2
 carr 1
-carrack 3
+carrack 4
 cymulose
 cycling 1
 corallita 1
@@ -6079,7 +6079,7 @@ catlings 2
 condescend 3
 cairds 1
 catlins 2
-craftsperson
+craftsperson 1
 cryptoporticus 1
 canephroi 1
 cantharidizing
@@ -6564,12 +6564,12 @@ caxtonian 1
 caza
 cazimi 3
 crossability 1
-confusticate 2
+confusticate 3
 chondrofetal 2
 cazique 1
 cyanhidrosis 1
 cb 1
-calamanco 3
+calamanco 4
 coeditorship
 cachemia 4
 coryphaeus 2
@@ -15994,7 +15994,7 @@ compromises 1
 covado 3
 cleromancy 3
 canniness 1
-clerstory 2
+clerstory 3
 clansmen 1
 cyamelid 1
 coolheadedness 3
@@ -17930,7 +17930,7 @@ coelacanthidae
 coelacanthous 2
 coelar 1
 coelastraceous 2
-canonics
+canonics 1
 coelata 2
 charring 1
 coelder
