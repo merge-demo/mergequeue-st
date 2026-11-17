@@ -818,7 +818,7 @@ genetta 2
 goldenrods 4
 gyppo 3
 gletty 5
-galoots 5
+galoots 6
 gasper 5
 granose 2
 gnarring
@@ -921,7 +921,7 @@ guidership 5
 gelsemiumia 1
 galt 2
 gorbet 4
-gated 2
+gated 3
 gnashes 1
 glycaemia 3
 grumousness 4
@@ -1894,7 +1894,7 @@ gastromycosis 4
 geal 3
 garnet 2
 gynecocratic 5
-gnomesque 3
+gnomesque 4
 gear 4
 gravewards 4
 guideship 3
@@ -3964,7 +3964,7 @@ ginnier 1
 graphitized 4
 gellert 4
 gastrogenous 2
-grounds 4
+grounds 5
 gilds 1
 gildship 4
 gutturals 2
@@ -5275,7 +5275,7 @@ gastropulmonic 6
 gingals 6
 glaived 3
 gourds 4
-gemmier 2
+gemmier 3
 gravures 3
 gallinaginous 2
 gonidia 2
@@ -7478,7 +7478,7 @@ guerdon 3
 gratulant 2
 germen 4
 goulash 4
-ghbor 1
+ghbor 2
 groundswells 2
 glub 2
 gelatines 3
@@ -9031,7 +9031,7 @@ grifting 1
 graving 6
 gritstone 6
 ghent 3
-gneissose 3
+gneissose 4
 geog 7
 gobletful 6
 gnathophorous 1
@@ -9479,7 +9479,7 @@ glandulosity 5
 genitalial 2
 glycose 4
 glossy 3
-ganser 2
+ganser 3
 gramophonic 5
 gleeishly 4
 gauffering 3
