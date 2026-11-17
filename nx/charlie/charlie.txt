@@ -2590,7 +2590,7 @@ conners 2
 candlewicks
 complementative 1
 candlewright 1
-candling 1
+candling 2
 cynically 2
 cringingly 1
 campaniles 3
@@ -3071,7 +3071,7 @@ comatic 1
 canun 2
 canvas 4
 chaffinches
-chiasmodon
+chiasmodon 1
 croppa 2
 clarino 1
 cycadeous 1
@@ -3277,7 +3277,7 @@ capitatim
 cputime 1
 capitation 2
 casimere
-capitations 1
+capitations 2
 cyclotomy
 cystenchyme
 capite 1
@@ -4865,7 +4865,7 @@ carry
 carriageable 1
 carriageful
 clachans
-carriages 4
+carriages 5
 crosstie 3
 carriagesmith 2
 cinchonicin
@@ -7403,7 +7403,7 @@ ceramal 1
 ceramals 1
 chacun 1
 choliambic 3
-caback 1
+caback 2
 cerambycid
 coruscations 1
 cerambycidae 2
@@ -7854,7 +7854,7 @@ cessor 1
 cesspit
 cesspits
 carey 1
-computerese
+computerese 1
 contrastment 2
 cesspools 1
 cineraceous 2
@@ -8461,7 +8461,7 @@ coquillage 1
 contrastively
 champian 2
 copyholder 2
-champignon 2
+champignon 3
 champignons
 culett 2
 caveat
@@ -14648,7 +14648,7 @@ cystoproctostomy 1
 cystopteris
 cystoptosis 1
 cystopus 3
-cystoradiography 1
+cystoradiography 2
 cragged 1
 clethraceous 2
 cairo 1
@@ -14690,7 +14690,7 @@ cistudo
 colonic
 criocephalus 2
 cistus 2
-cairns
+cairns 1
 citadel
 countersynod
 cytase 2
@@ -18724,7 +18724,7 @@ circumscribing
 cokuloris 4
 colaborer 1
 collectively 2
-civics 1
+civics 2
 colacobioses
 currishly 2
 cubbyyew 1
