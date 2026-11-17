@@ -4240,7 +4240,7 @@ fireplug 4
 firepot 1
 foreflank 3
 forebooms 3
-flots 4
+flots 5
 frangipanni 1
 floridians 2
 flaxbird 2
