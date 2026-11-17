@@ -4979,7 +4979,7 @@ econometer 3
 eyr
 entreasure 1
 encaenia 2
-evens 6
+evens 7
 endophragmal 2
 equimolal 1
 entomb 3
@@ -6062,7 +6062,7 @@ enlistments
 erasion 1
 elastomeric 6
 eranthis
-expostulated
+expostulated 1
 encomienda 4
 engraulis 3
 eugenic 3
@@ -6788,7 +6788,7 @@ ectocarpales 2
 electrostatical 3
 examiningly 4
 entomical 3
-empoisoning 2
+empoisoning 3
 electroimpulse
 entomol 3
 eyepopper 2
@@ -9547,7 +9547,7 @@ epithecia 4
 einsteinium 4
 esnecy 2
 extravagate 2
-epizoology 5
+epizoology 6
 esocataphoria 3
 estivation 1
 endocrinology 3
