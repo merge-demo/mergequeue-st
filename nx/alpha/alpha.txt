@@ -6857,7 +6857,7 @@ airfoils 1
 airglows
 airgraphics
 androcyte 2
-airhead 2
+airhead 3
 ashthroat 3
 ascula 3
 aquiculturist
@@ -7072,7 +7072,7 @@ alphabetism 1
 ake
 antitubercular 1
 aromaticness 1
-appraisingly
+appraisingly 1
 akebia 2
 actinia 2
 abjudicator 1
@@ -20848,7 +20848,7 @@ anhanga 1
 aile
 annectent
 academicals 1
-arfvedsonite
+arfvedsonite 1
 avulsed 2
 argufies 1
 armipotent
