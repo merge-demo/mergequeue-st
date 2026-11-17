@@ -6857,7 +6857,7 @@ airfoils 1
 airglows
 airgraphics
 androcyte 2
-airhead 2
+airhead 3
 ashthroat 3
 ascula 3
 aquiculturist
@@ -7072,7 +7072,7 @@ alphabetism 1
 ake
 antitubercular 1
 aromaticness 1
-appraisingly
+appraisingly 1
 akebia 2
 actinia 2
 abjudicator 1
@@ -20848,7 +20848,7 @@ anhanga 1
 aile
 annectent
 academicals 1
-arfvedsonite
+arfvedsonite 1
 avulsed 2
 argufies 1
 armipotent
@@ -22095,7 +22095,7 @@ achromatophilic
 abaculus
 antimonarchicalness 2
 alloclasite 1
-apoplexies 1
+apoplexies 2
 adduce 1
 asterisk 3
 antesunrise 3
@@ -22573,7 +22573,7 @@ archetypical 2
 affeeror 1
 agentess 1
 addicts 1
-anisoleucocytosis 2
+anisoleucocytosis 3
 ateliotic 3
 atelo 3
 atelocephalous 2
@@ -24228,7 +24228,7 @@ argumentative 2
 automaticity 1
 aperu
 antidogmatically 1
-allowing
+allowing 1
 automatin 3
 antepatriarchal
 antronasal 3
