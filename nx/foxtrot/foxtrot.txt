@@ -1231,7 +1231,7 @@ flatten 4
 filmdom 2
 frostier 7
 filariform 2
-familistic 8
+familistic 9
 fermentative 4
 frugalness 5
 franklin 2
@@ -6767,7 +6767,7 @@ felloe 2
 frayed 1
 fried 3
 feedwater 3
-formative
+formative 1
 fronded 3
 fissate 1
 focal 3
@@ -7862,7 +7862,7 @@ fudged 4
 fatiguable 1
 fellen 3
 findings 5
-foreplay 4
+foreplay 5
 feudally 6
 fratricides 7
 fencible 7
@@ -8795,7 +8795,7 @@ forbiddable 4
 flogged 7
 followership
 forester 1
-fossule 5
+fossule 6
 fiddlers 2
 forwardal 4
 fadable 5
@@ -11080,7 +11080,7 @@ flycatcher 2
 frictionizing 4
 funambulatory 5
 fedia 5
-flamenship 4
+flamenship 5
 frontality 3
 funambuloes 2
 functionated 1
