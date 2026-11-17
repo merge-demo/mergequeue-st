@@ -358,7 +358,7 @@ foreknowing 5
 faints 1
 forcedness 5
 franklandite 1
-frenuna 3
+frenuna 4
 from 2
 fieldfight 4
 froes 1
@@ -2092,7 +2092,7 @@ filletlike 3
 fear 5
 firmers 1
 forerehearsed 2
-fell 4
+fell 5
 fissipalmate
 forebodies 1
 felsobanyite 3
@@ -7721,7 +7721,7 @@ frayproof 4
 friend 2
 flexes 2
 firm 2
-fellmonger 1
+fellmonger 2
 frate 1
 fossa 2
 fidessa 3
@@ -9539,7 +9539,7 @@ forejudger 7
 forbreak 4
 forbidden 1
 floatman 5
-florets
+florets 1
 flowmeter 2
 fibdom 5
 functionalism 2
