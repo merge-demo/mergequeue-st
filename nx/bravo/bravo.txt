@@ -4768,7 +4768,7 @@ bedpost 1
 bypasses 1
 bedrabbling 3
 bedrails 1
-binnacle
+binnacle 1
 bedral 2
 boltwork 2
 bedraping 3
@@ -6049,7 +6049,7 @@ bemuddling 2
 bacteremia
 bemurmur 3
 bondwoman 1
-butyral 1
+butyral 2
 botaniser
 bemurmure 4
 bemurmuring 1
