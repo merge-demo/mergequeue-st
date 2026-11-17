@@ -1256,7 +1256,7 @@ disenter 2
 dentalise 1
 drink 3
 durational
-daterman
+daterman 1
 datil 1
 devotement 1
 dating 3
@@ -3473,7 +3473,7 @@ diclinic 1
 defoliate 2
 defoliations 2
 disjunct
-debilitant 1
+debilitant 2
 dichroscope
 decelerating
 decompressed 3
@@ -4209,7 +4209,7 @@ dopaminergic
 disputatious 2
 deuteragonist 3
 delthyrial 1
-destructible 2
+destructible 3
 dineros 2
 deltohedron 1
 dogvanes 3
@@ -13704,7 +13704,7 @@ deceivingly 2
 dissipaters 5
 digestedly 3
 danization
-disseating 2
+disseating 3
 dissociations 2
 denationalising 3
 distrail 2
