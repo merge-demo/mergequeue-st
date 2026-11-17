@@ -2668,7 +2668,7 @@ enfant 2
 eudaemonics 2
 engenderment 3
 exhort
-exdelicto 3
+exdelicto 4
 epispadia 3
 electrotherapeutical 2
 entrep 3
@@ -3090,7 +3090,7 @@ ellipsograph 2
 executiveness 1
 esemplastic 3
 ellipticity 3
-evergreen
+evergreen 1
 extemporize 1
 elliptograph 4
 elliptoid 2
@@ -4802,7 +4802,7 @@ embryogenetic
 enshrining 5
 engraven 4
 eria 1
-eupepticism 6
+eupepticism 7
 englished 1
 eulogizes 1
 encranial 2
@@ -8422,7 +8422,7 @@ eurystheus 4
 etym 3
 epigrammatical 2
 eryops 5
-embroidering 2
+embroidering 3
 epos 2
 encinas 2
 epizootic 3
@@ -9484,7 +9484,7 @@ escry 3
 escribientes 3
 escrime 3
 ephyrula 4
-enwwove 1
+enwwove 2
 embryoferous 5
 epiphanising 3
 escript 2
@@ -9745,7 +9745,7 @@ exigencies 3
 expeditation 4
 eightballs
 earthquave 2
-eumelanin 2
+eumelanin 3
 enneagon 4
 empoisoner 6
 embitterment 3
