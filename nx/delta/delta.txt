@@ -11320,7 +11320,7 @@ delimiter 2
 dischevel 1
 diter 1
 dentalization 3
-desex 3
+desex 4
 dissimulator 3
 disci 1
 diabases 5
