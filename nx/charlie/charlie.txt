@@ -4865,7 +4865,7 @@ carry
 carriageable 1
 carriageful
 clachans
-carriages 4
+carriages 5
 crosstie 3
 carriagesmith 2
 cinchonicin
@@ -7794,7 +7794,7 @@ cervicoauricular 3
 cobitis
 cervicobuccal
 cervicodynia 1
-cervicolabial 1
+cervicolabial 2
 cooeyed
 croh 2
 cervicomuscular 1
@@ -12324,7 +12324,7 @@ christies 1
 christlessness 1
 conductively
 christlike 1
-cinches
+cinches 1
 carafon 1
 christmasing 1
 christocentric 2
@@ -14648,7 +14648,7 @@ cystoproctostomy 1
 cystopteris
 cystoptosis 1
 cystopus 3
-cystoradiography 1
+cystoradiography 2
 cragged 1
 clethraceous 2
 cairo 1
@@ -17209,7 +17209,7 @@ candlesnuffer 1
 coalescent 2
 combustibility 1
 coalescing 1
-choya 1
+choya 2
 coalfield
 coalfitter
 cyanines 2
@@ -20582,7 +20582,7 @@ contenders
 counterterror 1
 coremia 1
 chalah 1
-compenetration 3
+compenetration 4
 compensated 1
 cerrero 1
 conglomerates 1
