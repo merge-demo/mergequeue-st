@@ -3122,7 +3122,7 @@ becher 2
 birdlime 5
 baggage 1
 baseburner
-basecourt 1
+basecourt 2
 betokener 3
 boosting 3
 boneset 2
@@ -11247,7 +11247,7 @@ buckets
 bromate 4
 barmskin 1
 bopyridae 4
-blottier
+blottier 1
 bemired 1
 beatably
 bibliophilistic 4
@@ -13837,7 +13837,7 @@ bulbuls
 bulbophyllum 2
 brephic 2
 burglarproofed 4
-bower 2
+bower 3
 backrests 1
 bowerbird 3
 blindness 2
