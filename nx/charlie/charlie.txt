@@ -2590,7 +2590,7 @@ conners 2
 candlewicks
 complementative 1
 candlewright 1
-candling 1
+candling 2
 cynically 2
 cringingly 1
 campaniles 3
@@ -3071,7 +3071,7 @@ comatic 1
 canun 2
 canvas 4
 chaffinches
-chiasmodon
+chiasmodon 1
 croppa 2
 clarino 1
 cycadeous 1
@@ -7854,7 +7854,7 @@ cessor 1
 cesspit
 cesspits
 carey 1
-computerese
+computerese 1
 contrastment 2
 cesspools 1
 cineraceous 2
@@ -18264,7 +18264,7 @@ cofferer
 countys 3
 coffering 2
 cancerite
-craziness 1
+craziness 2
 cadding 1
 cofferwork
 christology 3
@@ -18724,7 +18724,7 @@ circumscribing
 cokuloris 4
 colaborer 1
 collectively 2
-civics 1
+civics 2
 colacobioses
 currishly 2
 cubbyyew 1
@@ -28680,7 +28680,7 @@ canonicalize 2
 crenel 1
 chroococcus 1
 constantine 1
-coloniser 1
+coloniser 2
 contaminates 2
 constitutes 1
 corone
