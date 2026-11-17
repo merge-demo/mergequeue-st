@@ -6808,7 +6808,7 @@ airburst 2
 arresting 2
 angularity 3
 airbusses
-antibias
+antibias 1
 axometer 3
 archsacrificer 2
 arid 5
@@ -7561,7 +7561,7 @@ aurifying 1
 albuminometer 2
 acrostolium 1
 alepot 1
-alloplasm 3
+alloplasm 4
 alodiaries 1
 anoopsias 2
 albuminorrhea 3
@@ -11410,7 +11410,7 @@ amphore
 admedian 2
 aquifers 1
 antiplatelet
-amphoteric 2
+amphoteric 3
 antonina 1
 ampyxes 2
 abies 2
@@ -13549,7 +13549,7 @@ anthropopathy 4
 antefact
 aster 2
 appeasing
-avenin 2
+avenin 3
 acutenaculum 2
 autostandardization
 annoyer 2
@@ -16459,7 +16459,7 @@ antroscope 3
 areopagus 2
 antrotomy 2
 aspring 1
-alleviators 1
+alleviators 2
 assiduities 1
 alfirk 2
 atropic 1
