@@ -2332,7 +2332,7 @@ azimech 3
 acidy
 acetamid 3
 accessless 2
-acidiferous 1
+acidiferous 2
 argil 2
 aneurin 2
 arbtrn 2
@@ -2752,7 +2752,7 @@ autoplastically
 auctioning 3
 arquebus 3
 alcoholytic 3
-accreditment
+accreditment 1
 acetoxyphthalide
 acriflavin
 alepidote
@@ -4740,7 +4740,7 @@ abolishing 2
 aegina
 aeginetan 2
 aegipan 1
-agonisingly 2
+agonisingly 3
 aegisthus 4
 anthomyiidae 3
 anguillule 3
@@ -8101,7 +8101,7 @@ ambusher 1
 armoires 2
 attriutively 1
 alrune 3
-airworthy
+airworthy 1
 acidotic 1
 arithmetically
 amphide 1
@@ -17328,7 +17328,7 @@ adicea
 aumail 1
 apostatize 1
 apostaxis 2
-apostem 3
+apostem 4
 armigeral
 amorpha 1
 acetylsalicylic 2
