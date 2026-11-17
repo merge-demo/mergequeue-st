@@ -3594,7 +3594,7 @@ bipartite 3
 bathmat
 bathmats 1
 broodsac 3
-bereaven 1
+bereaven 2
 basion 2
 bathmism 1
 blencorn 3
@@ -4768,7 +4768,7 @@ bedpost 1
 bypasses 1
 bedrabbling 3
 bedrails 1
-binnacle
+binnacle 1
 bedral 2
 boltwork 2
 bedraping 3
@@ -5674,7 +5674,7 @@ belection 2
 brining 1
 belecture 1
 burbush 4
-belemnitic 2
+belemnitic 3
 bairnlier 2
 belemnoid 1
 bertat 2
@@ -6049,7 +6049,7 @@ bemuddling 2
 bacteremia
 bemurmur 3
 bondwoman 1
-butyral 1
+butyral 2
 botaniser
 bemurmure 4
 bemurmuring 1
@@ -8729,7 +8729,7 @@ brills 4
 bullethead 3
 betoss
 brachycephalies
-bottomry 1
+bottomry 2
 backlashed 2
 barhopping 1
 bimetals 1
@@ -9787,7 +9787,7 @@ beetlehead 3
 bistred 2
 beknights 1
 bradylexia
-biaxillary 4
+biaxillary 5
 baronetage 3
 belder 2
 beglitter 3
@@ -12219,7 +12219,7 @@ beginner 1
 bolloxes 2
 barfy 1
 bolls 3
-bunkum 1
+bunkum 2
 bollworm 1
 blizzardly
 bolo 1
@@ -12538,7 +12538,7 @@ bannimus 2
 beaus 1
 bedposts 3
 burseeds 2
-biham 2
+biham 3
 bonhomies 1
 boni 1
 bony
@@ -16206,7 +16206,7 @@ bramblier 3
 beadflush 1
 brachylogies
 brothering 6
-brotherred 1
+brotherred 2
 brailed 2
 buirdly 1
 birth
