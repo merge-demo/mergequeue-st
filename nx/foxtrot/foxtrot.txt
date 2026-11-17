@@ -6302,7 +6302,7 @@ flukeworm 3
 fetted 1
 follicle 3
 ferryhouse 6
-fob 6
+fob 7
 falerian
 foreparts 3
 flumes 3
@@ -8375,7 +8375,7 @@ factories 4
 fieldstrip 5
 forisfamiliation 3
 flashback 2
-fontlet 7
+fontlet 8
 ferrotyping 2
 firmament 2
 fatherlike 2
@@ -10684,7 +10684,7 @@ fowage 3
 fitzroy 3
 feltlike 2
 forblack 5
-flocculency 3
+flocculency 4
 fargood 3
 fivepence 2
 fitments 2
@@ -11341,7 +11341,7 @@ faujasite 5
 foalhood 3
 fuseplug 6
 fashioners 1
-fallacy 1
+fallacy 2
 fricandel 2
 formalith 3
 fulvene 6
