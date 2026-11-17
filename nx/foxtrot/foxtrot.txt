@@ -2524,7 +2524,7 @@ fastballs 7
 frush 2
 flunky 2
 foulmouth 4
-formaldehyde 1
+formaldehyde 2
 feverlike 5
 frondescent 4
 ferrelling 2
@@ -2794,7 +2794,7 @@ fanaloka 5
 forker 3
 flatly 3
 fluorimeter
-forgift 5
+forgift 6
 fistulized 5
 forbearer 1
 ftncmd
@@ -4231,7 +4231,7 @@ firepinks 3
 fiendishness 4
 fraist 3
 fussification 4
-faulkland 7
+faulkland 8
 foldstool
 flanky 1
 fracases 6
@@ -10522,7 +10522,7 @@ fluorate 3
 forwearying 1
 flegm 3
 fluitant 5
-fatness
+fatness 1
 frostings 5
 fanzine 6
 finises 1
