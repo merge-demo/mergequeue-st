@@ -1122,7 +1122,7 @@ calciobiotite 1
 calcioferrite 1
 ceratobranchial
 calcioscheelite
-calciovolborthite
+calciovolborthite 1
 calciphylactic 2
 calciphylaxis
 cabecera 2
@@ -6667,7 +6667,7 @@ cetologies 2
 cedrol 1
 corticiform 1
 cedrus
-crioceris
+crioceris 1
 cardiosymphysis 1
 cee 1
 ceibas 2
@@ -22258,7 +22258,7 @@ croisad 1
 chrysocale 1
 congeon 1
 chapaties 2
-congeree 2
+congeree 3
 consequentialness 1
 congery 2
 coloratura 1
@@ -26085,7 +26085,7 @@ christiad 2
 cosignatories
 centralist 2
 catiline 3
-cytitis 2
+cytitis 3
 complaisantness 1
 cosigned
 china 1
@@ -26676,7 +26676,7 @@ countenancer 1
 carbazine 1
 consensus 1
 contracapitalist 1
-clinopyramid 2
+clinopyramid 3
 counterabut 2
 charmeuse
 counteracted
@@ -27794,7 +27794,7 @@ crookneck 1
 chaetopterin
 coxcombic 3
 chondrus
-cordleaf
+cordleaf 1
 coxcombity 4
 cenobitical 3
 cytocentrum
