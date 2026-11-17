@@ -388,7 +388,7 @@ bemoans 1
 banjos 2
 backhouses 1
 baseballdom 1
-brachyurus
+brachyurus 1
 baht 2
 bullocky 3
 beri 2
@@ -5852,7 +5852,7 @@ barbermonger 3
 blacklisted 3
 boozily 2
 bellyland 1
-bellyman 4
+bellyman 5
 biunique 2
 biogenetical 2
 balopticon 1
@@ -7508,7 +7508,7 @@ brittonic
 bookbinder 4
 bardelle 1
 bedgery 1
-bevenom 1
+bevenom 2
 bever 1
 barleducs
 blemishment 2
@@ -10493,7 +10493,7 @@ blastemic 1
 bopyrid 3
 blaster 5
 blastid 2
-blart 2
+blart 3
 blasting 2
 borolanite 2
 blastocele 2
@@ -11536,7 +11536,7 @@ barotaxis 1
 betaxed 1
 bemurmurs 3
 blunged 2
-bourrasque 1
+bourrasque 2
 blunger
 blunk
 berrypicker
@@ -12005,7 +12005,7 @@ becker 1
 bay 2
 braula
 bidigitate 2
-bilirubinuria 2
+bilirubinuria 3
 bromeliad 2
 babysitting
 bunkhouse 1
@@ -13303,7 +13303,7 @@ berakes 1
 birdmen 3
 blennies 2
 botanic 3
-baltei 3
+baltei 4
 bobbery 2
 backlet 1
 botanica
@@ -17161,7 +17161,7 @@ bullion 1
 balkanization 3
 bullyrag 1
 butcherly
-bullyragger
+bullyragger 1
 booklice 2
 balantidial 2
 bayberries
