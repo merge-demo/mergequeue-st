@@ -5680,7 +5680,7 @@ cataplastic
 casten 1
 catapleiite 1
 catapulted 2
-catapultic 1
+catapultic 2
 catapultier 1
 colthood 2
 cataracts 1
@@ -7125,7 +7125,7 @@ cabalisms 2
 centrad 1
 central 1
 centraler 3
-cobblery 1
+cobblery 2
 chevelure 1
 cestraciontidae 1
 centralise 1
@@ -18456,7 +18456,7 @@ cograil 3
 chilipepper 2
 crestmoreite 2
 chaogenous 2
-coguarantor 2
+coguarantor 3
 cogway 2
 cerite 1
 cogweel 1
@@ -24316,7 +24316,7 @@ communicably 1
 cooches
 chondrophore
 cooed 3
-corrades
+corrades 1
 counterexample 2
 couthily
 cnidaria 1
@@ -30790,7 +30790,7 @@ childbeds
 climatologic 1
 culices 4
 cramble 2
-cytoparaplastin 1
+cytoparaplastin 2
 culicifugal
 culicifuge 2
 copelidine
