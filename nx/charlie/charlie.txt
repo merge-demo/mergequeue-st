@@ -13184,7 +13184,7 @@ clearskins 2
 cichlid
 cichlidae
 colocynthin 2
-collectability
+collectability 1
 cicisbeism 3
 cicisbeo
 cycl
@@ -25669,7 +25669,7 @@ corsair
 cannula 1
 closestool
 corpulentness 2
-converginerved 1
+converginerved 2
 corpuscularian 2
 confinedness
 completed 3
