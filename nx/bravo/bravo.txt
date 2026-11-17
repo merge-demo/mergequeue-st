@@ -189,7 +189,7 @@ bargainee 1
 bacchants
 bismanol
 bridleless 3
-beguiling 1
+beguiling 2
 bloodwood
 bees 1
 bushrope 2
@@ -5500,7 +5500,7 @@ backers 2
 becapping 3
 blacktongue 2
 beylic
-birdwoman 2
+birdwoman 3
 bowieful 3
 brechites 4
 briefly 3
@@ -5631,7 +5631,7 @@ backlashing 1
 baptistery
 bima
 blarina 1
-bridelike
+bridelike 1
 bronchostomy 2
 belate
 babbittess 2
@@ -11906,7 +11906,7 @@ borgh 3
 benic 1
 bockey 1
 bloodleaf 2
-bench 2
+bench 3
 blitzing 4
 bethumping 1
 brulyies 1
@@ -17524,7 +17524,7 @@ burdenous
 bleep 1
 bulbocapnine 4
 backwardly 2
-bides 2
+bides 3
 bibliotherapies 1
 botryoidally 2
 bee 2
