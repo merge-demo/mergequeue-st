@@ -8916,7 +8916,7 @@ censers
 chemisms 3
 chargable 1
 combmaker 1
-charge 1
+charge 2
 chargeable
 ciphertext 1
 clements 1
