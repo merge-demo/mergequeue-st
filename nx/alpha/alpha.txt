@@ -5819,7 +5819,7 @@ azotine 1
 antismog 1
 ashmen 3
 awacs 1
-apickaback
+apickaback 1
 auxilium 1
 ancestor 2
 affirmatives 1
@@ -8029,7 +8029,7 @@ arachidic 4
 antimicrobic 2
 argynnis 1
 aurigo 2
-aleuronic 1
+aleuronic 2
 aleurons 1
 alevin 3
 autocade 3
@@ -10154,7 +10154,7 @@ anthroposophical 4
 ambrain 1
 anguria 1
 antehuman 1
-apolog 1
+apolog 2
 ambreic 4
 archdiocese 3
 arthralgia 2
