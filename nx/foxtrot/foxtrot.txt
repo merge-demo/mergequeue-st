@@ -2563,7 +2563,7 @@ fleerer 2
 flimp 1
 ferricyanide 4
 fervency 1
-freshmanship 1
+freshmanship 2
 feedsman 2
 femorotibial 6
 fiduciaries 5
@@ -5600,7 +5600,7 @@ frapler 2
 floatable 6
 fiords 3
 ferfel 3
-fatties
+fatties 1
 flickermouse 3
 flannelmouthed 2
 flowery 3
