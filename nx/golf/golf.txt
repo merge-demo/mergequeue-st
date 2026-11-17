@@ -1765,7 +1765,7 @@ gasterosteid 4
 gynandrism 6
 gutterblood 5
 gelatinotype 2
-grippelike 1
+grippelike 2
 ghyll 2
 glutinate 3
 gestalten 5
@@ -6489,7 +6489,7 @@ gadwalls 3
 goll 4
 guddling 3
 genetic 2
-glaikitness 2
+glaikitness 3
 gariba 2
 galvanocautery 2
 golly 8
@@ -8800,7 +8800,7 @@ gorge 3
 greenbottle 2
 genetor 10
 greenling 2
-grogram 5
+grogram 6
 glaserite
 gatherable 5
 gentilism 2
