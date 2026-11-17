@@ -2257,7 +2257,7 @@ evenhand 1
 ethnarchies 2
 endothys
 electricize
-electriferous 4
+electriferous 5
 energumen 2
 epilating 2
 extortions 2
@@ -6098,7 +6098,7 @@ erminites 1
 elaterometer 2
 excavation 3
 elephantiases 2
-embelia 1
+embelia 2
 ereptic 1
 espringal 6
 enlodge 1
