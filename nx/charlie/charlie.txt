@@ -6079,7 +6079,7 @@ catlings 2
 condescend 3
 cairds 1
 catlins 2
-craftsperson
+craftsperson 1
 cryptoporticus 1
 canephroi 1
 cantharidizing
@@ -17068,7 +17068,7 @@ comptometer 1
 censorial 1
 coachsmith
 caponisation
-coachsmithing
+coachsmithing 1
 cumacea 1
 centrodesmose 5
 crambambulee
