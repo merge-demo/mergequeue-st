@@ -2542,7 +2542,7 @@ corporeal 1
 candlefishes
 collogued 1
 candleholder 3
-candlelighter 1
+candlelighter 2
 chaloth
 confraternities
 copiable 1
@@ -23859,7 +23859,7 @@ contributive
 callusing 3
 cointise 1
 contributorial 1
-contributories 2
+contributories 3
 contributorship
 civiler 2
 cryophorus 1
