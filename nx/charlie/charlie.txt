@@ -3513,7 +3513,7 @@ cons 1
 capsular 3
 capsulation 1
 collegatary
-chainomatic
+chainomatic 1
 chawbone 3
 capsulectomy 1
 chloroforming 2
@@ -8646,7 +8646,7 @@ chanticleers 2
 chantier 2
 curiousness
 capreomycin 2
-chanties 3
+chanties 4
 chantilly 1
 conformity 2
 connubially 3
@@ -12031,7 +12031,7 @@ chorizos 1
 cariyo 1
 cutes
 chorograph 2
-chorographer 1
+chorographer 2
 continuately 2
 chorographical 2
 criticizable 1
@@ -20530,7 +20530,7 @@ compassivity 1
 cwrite 1
 compatibility 1
 compatibilities 2
-cainism
+cainism 1
 condors 1
 clouts 1
 compatibleness 1
