@@ -1122,7 +1122,7 @@ calciobiotite 1
 calcioferrite 1
 ceratobranchial
 calcioscheelite
-calciovolborthite
+calciovolborthite 1
 calciphylactic 2
 calciphylaxis
 cabecera 2
@@ -28688,7 +28688,7 @@ coplanar 2
 cannophori 1
 crenelee 1
 crenellated
-counterirritant 1
+counterirritant 2
 culets 3
 copeck 1
 cryochore 1
