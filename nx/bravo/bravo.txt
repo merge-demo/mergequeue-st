@@ -1396,7 +1396,7 @@ beringed 3
 bruisewort 2
 blots 3
 baldhead 1
-bilestone 2
+bilestone 3
 baldheads 3
 bilcock 1
 borneols 4
@@ -5708,7 +5708,7 @@ backwasher 5
 belialic 1
 brimmered 2
 belie 4
-belied
+belied 1
 bridalty 2
 blatancy 3
 branle 3
@@ -15131,7 +15131,7 @@ brachymetropic 1
 betty 2
 brickwork 1
 blisterweed 2
-bradawl 2
+bradawl 3
 burbs 6
 breveting 1
 belauder 4
@@ -15213,7 +15213,7 @@ briarwood
 bribable 4
 bovinities 1
 bipinnaria 1
-bribees 1
+bribees 2
 bribeless 4
 briberies 2
 bicentennials 2
@@ -16722,7 +16722,7 @@ basilicae 3
 blowcase 1
 breithauptite 4
 biospheres 3
-bolyaian 1
+bolyaian 2
 bucks 2
 blinders 1
 bowyangs 1
