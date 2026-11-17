@@ -4898,7 +4898,7 @@ burglarproof 2
 beebee 2
 bradystalsis 2
 bewpers 1
-backspier 3
+backspier 4
 beechen 1
 beechnut 1
 breakstone 1
@@ -5631,7 +5631,7 @@ backlashing 1
 baptistery
 bima
 blarina 1
-bridelike
+bridelike 1
 bronchostomy 2
 belate
 babbittess 2
@@ -9370,7 +9370,7 @@ bushi 2
 blirt 3
 beau 3
 backwood
-bluebush 2
+bluebush 3
 bottommost 1
 birded 1
 bisectrix 3
@@ -11906,7 +11906,7 @@ borgh 3
 benic 1
 bockey 1
 bloodleaf 2
-bench 2
+bench 3
 blitzing 4
 bethumping 1
 brulyies 1
@@ -13768,7 +13768,7 @@ bouzoukia 1
 bouzoukis 1
 bloat 3
 burga 4
-bufflehorn 2
+bufflehorn 3
 bovaristic 3
 burgout 1
 bovate 2
