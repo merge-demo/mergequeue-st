@@ -1790,7 +1790,7 @@ buses 4
 bondstone 1
 biome 1
 biretta 4
-bedraggling 1
+bedraggling 2
 balustrading 1
 bulbed 1
 bivvy 2
@@ -7823,7 +7823,7 @@ began
 blackshirted 2
 belgravian 4
 biaxiality 1
-birdseyes 1
+birdseyes 2
 brooklyn 1
 bazaars 4
 bicephalous 2
@@ -9769,7 +9769,7 @@ biochemist 3
 brainwashed
 bacilliparous 3
 brahmsite 1
-bedeck 1
+bedeck 2
 bistephanic 2
 bastinades
 bistered 2
@@ -12534,7 +12534,7 @@ bonfires 1
 benchy 2
 bongoes 3
 bypast 3
-bannimus 2
+bannimus 3
 beaus 1
 bedposts 3
 burseeds 2
@@ -15075,7 +15075,7 @@ babushka 2
 breezeway 2
 bulbocapnin 2
 botel 6
-beastliness 2
+beastliness 3
 bowdlerise
 besanctify 5
 bedight 1
@@ -15098,7 +15098,7 @@ booster 3
 brehonship
 blinked 2
 bytownite 4
-butterflies 1
+butterflies 2
 blindism 1
 baldricks 2
 brushmaker
@@ -17510,7 +17510,7 @@ burbot 3
 bleak 4
 bowsprit 3
 beata 2
-bromopicrin 1
+bromopicrin 2
 bidenticulate 1
 bathukolpic 1
 bhang 1
