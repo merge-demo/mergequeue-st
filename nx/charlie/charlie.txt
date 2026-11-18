@@ -3620,7 +3620,7 @@ carabineros 1
 claik
 carabines
 carabinier 1
-carabiniere
+carabiniere 1
 carabinieri 1
 cotrespasser 2
 choosable 1
@@ -10973,7 +10973,7 @@ chiropody
 cheekish
 chiropodial 2
 chiropodic 1
-chiropodical 1
+chiropodical 2
 caphite 1
 cavascope 3
 canvaslike 1
