@@ -2538,7 +2538,7 @@ candleball
 candleberries 3
 candlebomb 2
 candlefish
-corporeal 1
+corporeal 2
 candlefishes
 collogued 1
 candleholder 3
@@ -26054,7 +26054,7 @@ citied
 contagionist 3
 coypu
 cosentiency
-consignor 2
+consignor 3
 cosentient
 crannoge 1
 cosettler 3
