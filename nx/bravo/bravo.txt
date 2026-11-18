@@ -516,7 +516,7 @@ blackacre 3
 biogenesis 5
 burbling 2
 backstops 3
-backstrapped 2
+backstrapped 3
 backstreet 3
 blastophoric 1
 bombsights 3
@@ -1241,7 +1241,7 @@ beds 1
 bittersweetness
 buxbaumia 4
 becreep 3
-beautician
+beautician 1
 baldachined
 beshiver
 beeswaxes 2
@@ -8360,7 +8360,7 @@ boring 3
 bradoon 3
 bights 1
 blickeys 2
-bown
+bown 1
 borasco 1
 bonamano 2
 bemuddled 3
@@ -13647,7 +13647,7 @@ bhoots 2
 blasphemes 1
 boundless 1
 bartizaned 1
-bounds 4
+bounds 5
 beggaress 1
 buttressless 2
 backspliced 5
