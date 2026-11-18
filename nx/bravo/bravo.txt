@@ -368,7 +368,7 @@ backgame 1
 backgammon
 board 1
 barbarical 4
-barwares 1
+barwares 2
 breaststroke 2
 background 3
 backhand 4
@@ -16986,7 +16986,7 @@ bulby 4
 bidens 1
 bulbier 5
 batrachoid 4
-biplanar 3
+biplanar 4
 bacteriotoxin 2
 bulbiest 3
 buettneria 2
