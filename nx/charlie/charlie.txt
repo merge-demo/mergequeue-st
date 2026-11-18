@@ -2538,7 +2538,7 @@ candleball
 candleberries 3
 candlebomb 2
 candlefish
-corporeal 1
+corporeal 2
 candlefishes
 collogued 1
 candleholder 3
