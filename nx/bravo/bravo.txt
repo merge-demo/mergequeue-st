@@ -5962,7 +5962,7 @@ belts
 boigid 2
 backstitches 2
 bloodspilling 2
-beadlike 2
+beadlike 3
 bionomy 5
 broads 3
 belute 7
@@ -10830,7 +10830,7 @@ blesser 5
 bowered
 blurb 2
 blastophyllum 1
-befriz 3
+befriz 4
 boxtree 4
 bawneen
 bider 1
