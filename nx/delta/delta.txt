@@ -1581,7 +1581,7 @@ demand
 disposition
 deadlines 2
 determinatively 3
-desitive
+desitive 1
 disembody 2
 deflagrable 3
 debateable 5
@@ -8120,7 +8120,7 @@ diacaustic 2
 diamminonitrate 4
 diapasons 1
 destitution 4
-dipsetic 2
+dipsetic 3
 dakotan 1
 devein 3
 displeasuring 2
