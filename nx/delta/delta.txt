@@ -1150,7 +1150,7 @@ depotentiate 4
 defilers 3
 decadarchy 3
 dashplate 1
-dropflower 2
+dropflower 3
 duracine 1
 dasyatis 1
 daylit 1
@@ -4058,7 +4058,7 @@ doublethought 1
 duskiness
 decreaseless 2
 disputatiousness 2
-discredence
+discredence 1
 delimitated 2
 disanswerable 1
 daalder 2
@@ -6194,7 +6194,7 @@ dawks
 deriver 2
 devotees 2
 disvaluation 1
-dawed
+dawed 1
 derma 5
 damascened 3
 dimiss
@@ -14582,7 +14582,7 @@ drying 2
 daydreamed 4
 discordantness 1
 dentalman
-duckeries 4
+duckeries 5
 diurn 1
 deoxyribonucleoprotein 1
 dismemberment
