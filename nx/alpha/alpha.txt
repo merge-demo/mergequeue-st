@@ -5638,7 +5638,7 @@ achromatium 3
 afterthought 1
 afterthoughts 2
 afterthrift
-apastron 2
+apastron 3
 armil 1
 anchoritically 2
 absorptivity
@@ -7861,7 +7861,7 @@ aflow 3
 acrylyl
 auriculoid 1
 amarantus
-ale 2
+ale 3
 adoze 2
 arctia 3
 alea 3
@@ -17100,7 +17100,7 @@ abstinence 3
 apodiabolosis 3
 arsenyl 4
 arithmetize
-apodictive
+apodictive 1
 aluminite 1
 apodyteria 2
 adverb 1
@@ -20482,7 +20482,7 @@ anticorrosively 2
 admov
 aristological 1
 asterospondylous 6
-athbash
+athbash 1
 arteriocapillary
 arteriogenesis 1
 arbitrer 3
