@@ -3623,7 +3623,7 @@ carabinier 1
 carabiniere 1
 carabinieri 1
 cotrespasser 2
-choosable 1
+choosable 2
 caraboa 1
 caaba
 cinques 2
@@ -14585,7 +14585,7 @@ cystis 1
 circulates 1
 cystitides
 cystitis 1
-chumped 2
+chumped 3
 coz 2
 carburant 3
 correlated 2
@@ -14857,7 +14857,7 @@ citrated
 cordages
 cyton 3
 cytone 1
-chorda 1
+chorda 2
 cadette 3
 chess 1
 cartmaker 1
@@ -16672,7 +16672,7 @@ coembody
 clostridian 1
 clostridium 1
 closure 2
-culveriner
+culveriner 1
 closuring
 clot 2
 centronucleus 1
@@ -23602,7 +23602,7 @@ continuedness 1
 comprovincial
 continuer 1
 cytostome
-continuers 2
+continuers 3
 corseleted 2
 columns 1
 continuingly
@@ -30172,7 +30172,7 @@ chokidar 1
 crucians 1
 cruciately 2
 cruciating 2
-costopulmonary 2
+costopulmonary 3
 concorder
 cruciation 3
 crucible 1
