@@ -3620,7 +3620,7 @@ carabineros 1
 claik
 carabines
 carabinier 1
-carabiniere
+carabiniere 1
 carabinieri 1
 cotrespasser 2
 choosable 1
@@ -6639,7 +6639,7 @@ cedars
 cochairman 3
 ceded 2
 cinematic 3
-campana 2
+campana 3
 ceders
 confocally 1
 cambering 3
@@ -7243,7 +7243,7 @@ catarinite 1
 cohobated 2
 centuple 1
 clematises 1
-centuples 2
+centuples 3
 codbank
 chaldese 2
 centuplicate 2
@@ -10973,7 +10973,7 @@ chiropody
 cheekish
 chiropodial 2
 chiropodic 1
-chiropodical 1
+chiropodical 2
 caphite 1
 cavascope 3
 canvaslike 1
@@ -18100,7 +18100,7 @@ celioscopy 2
 coenocytic 4
 carson 1
 coenodioecism 3
-coenoecic 1
+coenoecic 2
 coefficacy
 chousingha
 cryptococcic 1
@@ -28416,7 +28416,7 @@ catalecticant 4
 caesarize
 creaky 2
 cholestene 3
-creakiness
+creakiness 1
 creaking 2
 creambush
 creameries 1
@@ -28531,7 +28531,7 @@ confluently 1
 cassada 1
 credentialed 3
 countercampaign 1
-croomia 1
+croomia 2
 cueva 1
 cystines 2
 credentials
