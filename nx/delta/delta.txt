@@ -3175,7 +3175,7 @@ defectible
 dezincified 1
 distaff 1
 doltishness 2
-duelling 4
+duelling 5
 depolarizes 2
 dimitting 3
 defectless 2
@@ -4058,7 +4058,7 @@ doublethought 1
 duskiness
 decreaseless 2
 disputatiousness 2
-discredence
+discredence 1
 delimitated 2
 disanswerable 1
 daalder 2
@@ -6194,7 +6194,7 @@ dawks
 deriver 2
 devotees 2
 disvaluation 1
-dawed
+dawed 1
 derma 5
 damascened 3
 dimiss
