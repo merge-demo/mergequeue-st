@@ -13606,7 +13606,7 @@ coproite 2
 crankest 2
 chiffer 4
 cimices 1
-cimicide
+cimicide 1
 cene 2
 cimiciform 1
 chickens 1
@@ -17367,7 +17367,7 @@ coatdress 2
 conserve 1
 conveyorizer 1
 coated
-commensurations 1
+commensurations 2
 coatees
 clivises 1
 craythur
@@ -19867,7 +19867,7 @@ comfiness
 coulometrically 1
 comfit 1
 comfiture 1
-comfort
+comfort 1
 cryptoglaux
 comfortableness 2
 comfortation
@@ -26294,7 +26294,7 @@ crusader
 correctional
 costious 1
 collagenic 2
-costipulator 6
+costipulator 7
 costispinal 3
 cylindromata 2
 costiveness 1
@@ -31449,7 +31449,7 @@ collarino 3
 calcites 1
 currach
 curragh 1
-clearminded
+clearminded 1
 centavo
 currajong 1
 currans 3
