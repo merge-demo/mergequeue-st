@@ -191,7 +191,7 @@ fazenda 2
 factotum 4
 felsitic 2
 ferrihemoglobin 4
-frasier 2
+frasier 3
 factrix 4
 footmanship 2
 fanons 2
@@ -1081,7 +1081,7 @@ fleabites 7
 flatiron 1
 foretime 7
 fourierist 1
-farsightedness 1
+farsightedness 2
 flooring 3
 faciocervical 4
 foes 5
@@ -5030,7 +5030,7 @@ fallows 2
 flutes 1
 flatbeds 5
 flanneling 1
-floush 2
+floush 3
 fungoidal 3
 ferries 4
 fumatory 1
@@ -5898,7 +5898,7 @@ flockiest 3
 frankliniana 4
 forbysening 4
 fisherfolk 4
-faultfinding
+faultfinding 1
 fdname 3
 flockings 7
 fallouts 3
