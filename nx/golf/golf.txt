@@ -2186,7 +2186,7 @@ gooseskin 3
 goaves 3
 gemwork 1
 gastrolith
-gonoblastic
+gonoblastic 1
 gerastian 3
 galas 5
 gaster 3
@@ -4374,7 +4374,7 @@ glamours 5
 gazangabin 3
 ginseng 4
 globigerinidae 5
-gynura 3
+gynura 4
 goyazite 4
 gadsman 3
 glucuronide
@@ -9520,7 +9520,7 @@ granting 5
 guiltiness 2
 gainor 1
 gammaroid 2
-giddier 3
+giddier 4
 gentilitious 3
 gematrical 2
 graals
