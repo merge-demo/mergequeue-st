@@ -2518,7 +2518,7 @@ acnemia
 adiaphoral 2
 acnes 1
 aphrasia 1
-amperemeter 3
+amperemeter 4
 acnida 3
 arabizes
 airily 1
@@ -17057,7 +17057,7 @@ archchemic 1
 addy
 arthrotropic
 apocopes
-apocrenic
+apocrenic 1
 agatha 1
 apocryph 1
 anaplasia 1
@@ -21606,7 +21606,7 @@ angary 2
 allegorist 3
 annexes 3
 applicability 2
-aspredo 2
+aspredo 3
 antirickets 2
 agilities 4
 akasha
