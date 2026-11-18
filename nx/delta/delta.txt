@@ -7053,7 +7053,7 @@ destinezite 1
 driveable 5
 diglottist 4
 dessous 2
-devall 2
+devall 3
 doodad 1
 durst 1
 destabilization 3
@@ -7709,7 +7709,7 @@ darwinism 2
 dermis 2
 devilfish 4
 decelerators 2
-detail 1
+detail 2
 deviling 2
 deeded 2
 devilishness
@@ -12724,7 +12724,7 @@ dislluminate 3
 dubbings 5
 difference 1
 dale 1
-dislocability
+dislocability 1
 dosimetry 2
 dustcloth 1
 dehydratase 1
