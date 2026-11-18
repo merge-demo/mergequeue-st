@@ -5067,7 +5067,7 @@ chimu
 cuisten
 cytozoon
 carves 2
-carvestrene
+carvestrene 1
 carving
 cancerously 1
 curses 1
@@ -10943,7 +10943,7 @@ candlelighted 1
 chirographical 2
 chirolas 2
 chirology
-chirological
+chirological 1
 chirologically 1
 classicalness 5
 cartelism 1
@@ -14585,7 +14585,7 @@ cystis 1
 circulates 1
 cystitides
 cystitis 1
-chumped 2
+chumped 3
 coz 2
 carburant 3
 correlated 2
@@ -16672,7 +16672,7 @@ coembody
 clostridian 1
 clostridium 1
 closure 2
-culveriner
+culveriner 1
 closuring
 clot 2
 centronucleus 1
