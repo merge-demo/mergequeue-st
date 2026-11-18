@@ -3623,7 +3623,7 @@ carabinier 1
 carabiniere 1
 carabinieri 1
 cotrespasser 2
-choosable 1
+choosable 2
 caraboa 1
 caaba
 cinques 2
@@ -5067,7 +5067,7 @@ chimu
 cuisten
 cytozoon
 carves 2
-carvestrene
+carvestrene 1
 carving
 cancerously 1
 curses 1
@@ -10943,7 +10943,7 @@ candlelighted 1
 chirographical 2
 chirolas 2
 chirology
-chirological
+chirological 1
 chirologically 1
 classicalness 5
 cartelism 1
@@ -14585,7 +14585,7 @@ cystis 1
 circulates 1
 cystitides
 cystitis 1
-chumped 2
+chumped 3
 coz 2
 carburant 3
 correlated 2
@@ -14857,7 +14857,7 @@ citrated
 cordages
 cyton 3
 cytone 1
-chorda 1
+chorda 2
 cadette 3
 chess 1
 cartmaker 1
@@ -16672,7 +16672,7 @@ coembody
 clostridian 1
 clostridium 1
 closure 2
-culveriner
+culveriner 1
 closuring
 clot 2
 centronucleus 1
@@ -17980,7 +17980,7 @@ czechic
 carcinology
 chipboard 2
 coelococcus 2
-charioteers 1
+charioteers 2
 comet
 claymores 1
 coeloma 2
@@ -19192,7 +19192,7 @@ cumulation 1
 cervicofacial 1
 canty 2
 colloquizing 1
-commisce 3
+commisce 4
 colloququia
 cuminole 2
 cymbaeform
