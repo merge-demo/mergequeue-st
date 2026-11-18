@@ -3529,7 +3529,7 @@ capsuliform 1
 coverup 1
 capsuling 2
 clamer
-capsulizing
+capsulizing 1
 cabman 1
 cibola
 capsulogenous 3
@@ -7137,7 +7137,7 @@ conjugateness 2
 centrality 1
 cnicus 3
 canthi
-conusable 1
+conusable 2
 centralities 1
 croupy 1
 chaeta 1
@@ -16352,7 +16352,7 @@ clishmaclaver 1
 clysma
 cribral
 covenants 1
-cacophonies 2
+cacophonies 3
 clyssus 3
 cisele 2
 clyster 2
