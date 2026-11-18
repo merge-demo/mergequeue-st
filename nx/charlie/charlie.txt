@@ -2538,7 +2538,7 @@ candleball
 candleberries 3
 candlebomb 2
 candlefish
-corporeal 1
+corporeal 2
 candlefishes
 collogued 1
 candleholder 3
@@ -10502,7 +10502,7 @@ chileans
 chylemia
 chyles 2
 chiliadron
-chiliads 1
+chiliads 2
 calcaneocuboid 2
 connexity
 chiliahedron 1
@@ -13159,7 +13159,7 @@ cicatrisive
 cicatrizate 2
 canalize
 craniographer
-cicatrization 1
+cicatrization 2
 cott 1
 cicatrizer 2
 cicatrizing 1
@@ -18020,7 +18020,7 @@ cysteine
 compsilura 3
 coemploying
 cosustain
-calmy 3
+calmy 4
 cheesy 3
 coempting
 choledochotomies 3
@@ -19131,7 +19131,7 @@ commonalty 1
 collywobbles 1
 completeness 1
 chondriomite 1
-collobrierite 1
+collobrierite 2
 cateress
 collocated 1
 cord 2
@@ -19508,7 +19508,7 @@ colpohyperplasia 1
 canulating 4
 colpoperineoplasty 1
 colpoperineorrhaphy
-cantonment
+cantonment 1
 caledonian 1
 casimires 1
 cowpony 3
@@ -26054,7 +26054,7 @@ citied
 contagionist 3
 coypu
 cosentiency
-consignor 2
+consignor 3
 cosentient
 crannoge 1
 cosettler 3
@@ -26877,7 +26877,7 @@ carrom
 cavalero
 chugs
 chondroxiphoid
-counterfort 1
+counterfort 2
 cwm 1
 countergabion 1
 coccagee
