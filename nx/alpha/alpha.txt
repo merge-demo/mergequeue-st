@@ -7373,7 +7373,7 @@ alcoved
 animalise 2
 africander 1
 afford 2
-architectural 1
+architectural 2
 albe 2
 awmbrie 2
 ariole 2
@@ -7959,7 +7959,7 @@ aeolia
 acidoproteolytic 2
 abiogenesist 1
 alen 2
-alkaloidal
+alkaloidal 1
 alenge
 auantic 1
 alength 2
@@ -21462,7 +21462,7 @@ aspergillosis 1
 alabastra 1
 aspergillus
 asperifoliae 3
-asperity
+asperity 1
 anthrol
 attrib 1
 associationist 2
