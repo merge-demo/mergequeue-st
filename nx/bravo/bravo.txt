@@ -12426,7 +12426,7 @@ betsimisaraka 3
 behap 2
 backcast 1
 begloom 2
-bonbons
+bonbons 1
 batell 1
 barker 3
 bareboats 1
@@ -16137,7 +16137,7 @@ battling 2
 bicolor 3
 buoy 1
 burgoo
-brassier 2
+brassier 3
 breathful 2
 bundweed 5
 budget 2
@@ -17890,7 +17890,7 @@ beauship 2
 bivium 4
 boundable 1
 bushelers 2
-bankcard
+bankcard 1
 bescurvy 3
 bushelfuls 1
 belabour 2
