@@ -3620,7 +3620,7 @@ carabineros 1
 claik
 carabines
 carabinier 1
-carabiniere
+carabiniere 1
 carabinieri 1
 cotrespasser 2
 choosable 1
@@ -8071,7 +8071,7 @@ codiniac
 curries
 coracosteon 2
 continent
-convocating
+convocating 1
 carcer 2
 chaffron
 clamber
@@ -10973,7 +10973,7 @@ chiropody
 cheekish
 chiropodial 2
 chiropodic 1
-chiropodical 1
+chiropodical 2
 caphite 1
 cavascope 3
 canvaslike 1
@@ -18100,7 +18100,7 @@ celioscopy 2
 coenocytic 4
 carson 1
 coenodioecism 3
-coenoecic 1
+coenoecic 2
 coefficacy
 chousingha
 cryptococcic 1
@@ -19078,7 +19078,7 @@ crises
 callable 2
 camb 3
 colliflower 2
-cruset 2
+cruset 3
 craker 3
 colligate 4
 colligating
@@ -23704,7 +23704,7 @@ customizable
 cairene 1
 conjecturably 1
 contradictiously
-contradictiousness 1
+contradictiousness 2
 contradictiveness 1
 contradictory
 couxio 2
@@ -28413,7 +28413,7 @@ creaght 1
 crystallized
 creak
 catalecticant 4
-caesarize
+caesarize 1
 creaky 2
 cholestene 3
 creakiness 1
@@ -28531,7 +28531,7 @@ confluently 1
 cassada 1
 credentialed 3
 countercampaign 1
-croomia 1
+croomia 2
 cueva 1
 cystines 2
 credentials
