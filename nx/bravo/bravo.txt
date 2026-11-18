@@ -1790,7 +1790,7 @@ buses 4
 bondstone 1
 biome 1
 biretta 4
-bedraggling 1
+bedraggling 2
 balustrading 1
 bulbed 1
 bivvy 2
@@ -8154,7 +8154,7 @@ bidri 2
 barmaids 3
 basidigitale 3
 bieberite 2
-brocked 3
+brocked 4
 bespreading 3
 blossomed 2
 bloodroot 1
