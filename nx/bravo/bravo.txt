@@ -5962,7 +5962,7 @@ belts
 boigid 2
 backstitches 2
 bloodspilling 2
-beadlike 2
+beadlike 3
 bionomy 5
 broads 3
 belute 7
@@ -8021,7 +8021,7 @@ beslipper 2
 bespatterer 2
 bicircular 1
 bitemporal
-byname 5
+byname 6
 bobsleigh 2
 bick
 bicycler 5
@@ -8738,7 +8738,7 @@ bullishness 3
 babyfied
 brauneria 1
 barchans 2
-bimethyls 1
+bimethyls 2
 bimillionaire 3
 buoyancies
 battish 2
@@ -10830,7 +10830,7 @@ blesser 5
 bowered
 blurb 2
 blastophyllum 1
-befriz 3
+befriz 4
 boxtree 4
 bawneen
 bider 1

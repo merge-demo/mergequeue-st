@@ -3849,7 +3849,7 @@ caladium
 carboluria 2
 chrisma 1
 carbomethene 3
-carbomethoxy 1
+carbomethoxy 2
 carbomethoxyl
 carbon 1
 carbonaceous 2
@@ -24641,7 +24641,7 @@ clysis
 caudalward
 copyreading
 curiosos 1
-copyrightable
+copyrightable 1
 copyrighter 1
 copis 3
 cowling 2
@@ -28603,7 +28603,7 @@ creeps 4
 creese
 creeses 1
 colleague
-cinchonine 1
+cinchonine 2
 cogitos 2
 castrators
 chiefship 1
