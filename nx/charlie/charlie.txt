@@ -17335,7 +17335,7 @@ crownland
 chemigraph 2
 coreceiver 1
 cimline 2
-coassist
+coassist 1
 coassistant 3
 culpas 2
 cupola
