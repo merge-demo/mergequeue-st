@@ -2006,7 +2006,7 @@ brachydactyl 1
 byplace 2
 brineless 1
 besplash 2
-bulbous 2
+bulbous 3
 bombard 4
 ballocks 2
 basilicas 2
@@ -3850,7 +3850,7 @@ bundts 3
 blistery 3
 bulgur 2
 balsas 1
-bohireen
+bohireen 1
 bowdlerizations 4
 bavette 3
 baviaantje 2
@@ -16827,7 +16827,7 @@ bahamas
 buffalo 1
 buffalofish 3
 burglarised 1
-bonnyvis 1
+bonnyvis 2
 buffaloing 2
 biarcuated
 biflagellate 2
