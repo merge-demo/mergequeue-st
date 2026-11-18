@@ -153,7 +153,7 @@ gasthauser 3
 gail 4
 galactosyl 1
 galvanosurgery 2
-glacialize 6
+glacialize 7
 guesthouse 1
 gingerroot 6
 guaiaretic 3
@@ -4951,7 +4951,7 @@ ghouls 3
 giganticidal 4
 gruiformes 5
 gauls 4
-garridge
+garridge 1
 girasoles 6
 glyptological 6
 goldylocks 6
@@ -9285,7 +9285,7 @@ gigabyte 8
 gigglesome 1
 groceryman 2
 goitre 5
-giltcup 1
+giltcup 2
 grockle 5
 goidel 2
 gemauve 3
