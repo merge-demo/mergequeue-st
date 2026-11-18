@@ -28602,7 +28602,7 @@ creepmouse
 creeps 4
 creese
 creeses 1
-colleague
+colleague 1
 cinchonine 1
 cogitos 2
 castrators
