@@ -1984,7 +1984,7 @@ episternite 3
 evictees 3
 emulsic 3
 equisonant 4
-endodontist 4
+endodontist 5
 eradiculose 1
 elabrate 5
 endocrinotherapy 2
@@ -4632,7 +4632,7 @@ encyclopedia 1
 encyclopediacal 5
 equestrianship 1
 exceptionability 2
-evolutionize
+evolutionize 1
 everblooming 3
 endemics 2
 electromagnets
@@ -8516,7 +8516,7 @@ ecclesiasticize 2
 essentializing 3
 echinated 1
 embezzling 3
-eastlin 3
+eastlin 4
 etherify 5
 existing
 enviable 1
@@ -13477,7 +13477,7 @@ echinosphaeritidae 3
 expropriable 3
 endome 2
 expropriate 1
-egalitarian 1
+egalitarian 2
 elem
 evaluable 4
 epitomization 1
