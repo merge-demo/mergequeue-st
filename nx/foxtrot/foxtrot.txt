@@ -1032,7 +1032,7 @@ furriery 2
 fiberboard
 fids 1
 filazer 3
-ferriages 4
+ferriages 5
 frontons 3
 farrage 2
 ferroelectricity 5
@@ -2066,7 +2066,7 @@ fendillation 2
 favissae 2
 fusulas 3
 fieldfare 4
-frory 6
+frory 7
 forensically 1
 foys 4
 fwelling 2
@@ -4659,7 +4659,7 @@ faust 2
 fulani 2
 faeroe 2
 fells 2
-ferrotungsten 2
+ferrotungsten 3
 fulica 3
 flewit 2
 freety 5
@@ -5276,7 +5276,7 @@ frostbird 5
 fockle 3
 fabricable 2
 fomenter 3
-ferricyanate 3
+ferricyanate 4
 feelinglessly 2
 fibrilation 2
 flawedness 4
@@ -5653,7 +5653,7 @@ fondues 4
 fellowshiped 4
 fascism
 forums 2
-fortis 2
+fortis 3
 frumpiest 1
 fianchetto 3
 fie 5
@@ -6056,7 +6056,7 @@ fateful 3
 floriation 5
 freet 1
 fertilize 3
-flagrantness 4
+flagrantness 5
 frizz 1
 flunkeyize 4
 farting 5
@@ -8101,7 +8101,7 @@ forepost 5
 fessing 2
 falbala 5
 funic 6
-forestral 8
+forestral 9
 forestries
 firebrats 6
 furnitures 7
@@ -8607,7 +8607,7 @@ frightment 2
 fanfarons 2
 frownful 4
 foraminule 1
-featherer 4
+featherer 5
 frogtongue 3
 futurities 4
 fulgence 4
@@ -11630,7 +11630,7 @@ flecnode 3
 fibrous 2
 fylgja 2
 funestal 2
-finestiller 5
+finestiller 6
 forehew 3
 fustigatory 2
 fumy 4
