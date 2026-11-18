@@ -368,7 +368,7 @@ backgame 1
 backgammon
 board 1
 barbarical 4
-barwares 1
+barwares 2
 breaststroke 2
 background 3
 backhand 4
@@ -12429,7 +12429,7 @@ begloom 2
 bonbons 1
 batell 1
 barker 3
-bareboats 1
+bareboats 2
 bureaux 1
 banisterine 2
 bond 1
@@ -12517,7 +12517,7 @@ buxomest 3
 becarpeting 2
 broadness 2
 broncholith 3
-bilberries 1
+bilberries 2
 boneshaker 1
 bridesman 1
 bidets 2
@@ -16986,7 +16986,7 @@ bulby 4
 bidens 1
 bulbier 5
 batrachoid 4
-biplanar 3
+biplanar 4
 bacteriotoxin 2
 bulbiest 3
 buettneria 2
