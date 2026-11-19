@@ -1527,7 +1527,7 @@ curraghs 1
 calligrapha 1
 chemurgy 1
 colleens 1
-calligraphers
+calligraphers 1
 college 1
 calligraphy
 calligraphic
@@ -1878,7 +1878,7 @@ cysticle 3
 camaxtli 1
 clabularia 1
 camball 5
-cambarus 1
+cambarus 2
 cambered 1
 croc 1
 chamfrain 1
@@ -2913,7 +2913,7 @@ curatively 2
 cacaos
 cantabile 2
 chloralum 1
-clothesmonger 1
+clothesmonger 2
 chalcis 1
 cantabrian
 cantabrigian
@@ -3668,7 +3668,7 @@ carageens 1
 chromatography 1
 caraibe
 coachwhip 4
-caraipa
+caraipa 1
 chronometrical
 caraipi 1
 carlish 2
@@ -3811,7 +3811,7 @@ carbohemoglobin 2
 calamodendron 2
 cribbling 3
 carbohydrase 3
-cannibalism 4
+cannibalism 5
 cardioncus
 carbohydrate
 cardiotrophia
@@ -4285,7 +4285,7 @@ caretake 2
 caretakers
 caretaking 2
 chastisers 2
-chondrosteous 1
+chondrosteous 2
 caretook
 comfiest 2
 carets 1
@@ -7465,7 +7465,7 @@ cardamoms 1
 chlorophyl 1
 ceria
 ceratophyllaceous 1
-crinch 2
+crinch 3
 ceratophyllum 1
 colocephalous
 caneware 2
@@ -9108,7 +9108,7 @@ charterless 1
 chartermaster 3
 charters 2
 cryptograms
-cindered
+cindered 1
 chartist
 chartless 1
 caricatured 2
@@ -13722,7 +13722,7 @@ cinchotine
 cullions 4
 cincinnal
 cincinni 1
-cholesterate 1
+cholesterate 2
 cinclides
 compassionless 1
 camphire 3
@@ -14761,7 +14761,7 @@ chinantecs 4
 chaffed 2
 cladodontid 3
 cytioderm 2
-cityscapes 1
+cityscapes 2
 cytisine
 chamkanni
 couriers 1
@@ -20350,7 +20350,7 @@ cubitodigital 2
 communistery 2
 coeliomyalgia 2
 corynebacterial
-chita 2
+chita 3
 causelessly
 costlew 2
 communistic
@@ -24913,7 +24913,7 @@ clavodeltoid
 corallian 5
 crucilly 1
 corallidae 1
-corallidomous
+corallidomous 1
 congroid 2
 coralliform 2
 coralligena 1
@@ -24931,7 +24931,7 @@ corallium 5
 carminatives 1
 caterans 3
 craniacromial 2
-cephadia
+cephadia 1
 codices 1
 continuousness 3
 corallum 2
@@ -29251,7 +29251,7 @@ crypto
 cryptoagnostic 1
 coextended 1
 cynogenealogist
-cryptoanalytically
+cryptoanalytically 1
 cryptobranch 2
 cryptobranchia
 cryptobranchiata 3
@@ -30843,7 +30843,7 @@ committable
 culmiferous 2
 culminal 3
 culminate 1
-cryptoanalysis 1
+cryptoanalysis 2
 clops 3
 compounders 1
 cliqueiest
