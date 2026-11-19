@@ -1527,7 +1527,7 @@ curraghs 1
 calligrapha 1
 chemurgy 1
 colleens 1
-calligraphers
+calligraphers 1
 college 1
 calligraphy
 calligraphic
@@ -1878,7 +1878,7 @@ cysticle 3
 camaxtli 1
 clabularia 1
 camball 5
-cambarus 1
+cambarus 2
 cambered 1
 croc 1
 chamfrain 1
@@ -2913,7 +2913,7 @@ curatively 2
 cacaos
 cantabile 2
 chloralum 1
-clothesmonger 1
+clothesmonger 2
 chalcis 1
 cantabrian
 cantabrigian
@@ -30843,7 +30843,7 @@ committable
 culmiferous 2
 culminal 3
 culminate 1
-cryptoanalysis 1
+cryptoanalysis 2
 clops 3
 compounders 1
 cliqueiest
