@@ -2038,7 +2038,7 @@ fluoridation 4
 feigns 6
 flitch 4
 flamier 2
-farouche
+farouche 1
 feltwork 8
 falconet 3
 fourpounder 6
@@ -8802,7 +8802,7 @@ fadable 5
 forethought 4
 frenzic 3
 fleshiness 3
-felsosphaerite 4
+felsosphaerite 5
 forellenstein 6
 forwarded 4
 faceless 3
