@@ -4661,7 +4661,7 @@ decking 1
 declaration 2
 dewaxed 3
 drifting 3
-disheveling 3
+disheveling 4
 ducklar 1
 demivambrace 2
 dorsicollar 2
@@ -11623,7 +11623,7 @@ desmoscolex 2
 dotishness 4
 dialogged
 didest 3
-demiditone
+demiditone 1
 dishexecontahedroid 1
 discost 3
 dimorphite 2
