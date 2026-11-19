@@ -4904,7 +4904,7 @@ beechnut 1
 breakstone 1
 bloomage 2
 backspeer 2
-bryanite 2
+bryanite 3
 bomarea 2
 beechwood 1
 bright 2
@@ -7034,7 +7034,7 @@ buckskins
 bemuzzling 2
 bequeathing 1
 besot 3
-baronet 2
+baronet 3
 boodh 3
 boothian 1
 bridehouse
