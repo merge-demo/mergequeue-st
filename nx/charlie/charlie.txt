@@ -6907,7 +6907,7 @@ chymosins 3
 coaugment 5
 calorimetric
 cementatory 1
-chlorobromomethane 2
+chlorobromomethane 3
 curvirostres 1
 charros
 cementer 2
@@ -17599,7 +17599,7 @@ coccyzus 3
 cocco 2
 changar 1
 clallam 1
-coccobacilli
+coccobacilli 1
 cumins
 cupidity
 culrage
