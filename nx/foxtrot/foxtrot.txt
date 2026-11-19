@@ -5341,7 +5341,7 @@ fireclay 2
 fluorites 3
 feoffee 5
 fleadock 1
-fleahopper 5
+fleahopper 6
 fatiha 5
 flinger
 fimbrilla
@@ -7720,7 +7720,7 @@ fernier 5
 frayproof 4
 friend 2
 flexes 2
-firm 2
+firm 3
 fellmonger 2
 frate 1
 fossa 2
@@ -8916,7 +8916,7 @@ froghopper 5
 faulter 1
 foujdarry 3
 fibrousness 3
-foul 4
+foul 5
 frotted 2
 fogger 3
 finesse 2
@@ -11318,7 +11318,7 @@ fusspot 2
 firearm 6
 fulmicotton 1
 fatwa 3
-farse 5
+farse 6
 firedog 6
 formatted 3
 feverfew 5
