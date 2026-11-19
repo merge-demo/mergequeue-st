@@ -4946,7 +4946,7 @@ freights 3
 foder 5
 fevertwitch 6
 facedown 2
-fraunch 6
+fraunch 7
 flameout 3
 foreappoint 4
 fourflushers 3
@@ -8705,7 +8705,7 @@ fields 1
 fortaxed 3
 foederati 4
 foozled 3
-fanlike 4
+fanlike 5
 freelance 2
 flexuous 5
 frape 3
