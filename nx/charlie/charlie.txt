@@ -14830,7 +14830,7 @@ checkbird 2
 cytokinesis 2
 cytokinetic
 captan
-coradical
+coradical 1
 cytokinin 2
 cytol 3
 coziest
@@ -21451,7 +21451,7 @@ caseweed
 concocter 2
 counteraddress
 concoctions 1
-cornerpiece
+cornerpiece 1
 conspectuity
 calcination 1
 carotic
@@ -26270,7 +26270,7 @@ costar 1
 costarred 2
 continentaler
 chuffiness 1
-costata
+costata 1
 costated
 calotermitidae 1
 cloacas 2
