@@ -3314,7 +3314,7 @@ colourability 1
 calcino 1
 capitulate 2
 capitulates
-capitulator
+capitulator 1
 cystolithic 1
 crystalligerous 1
 crotchwood
@@ -14472,7 +14472,7 @@ counterpuncher 3
 cirsectomies 1
 cirsoid 2
 cirsophthalmia 1
-completable
+completable 1
 cirsotomy 1
 cirsotomies
 cirterion
@@ -27611,7 +27611,7 @@ coving 3
 carapus 1
 covinous
 charioteership 1
-covisitor 1
+covisitor 2
 conventicler
 covite 2
 covolume 1
