@@ -135,7 +135,7 @@ fumiferous 4
 flashforwards 3
 fictile 7
 flagellist 7
-feedhead 1
+feedhead 2
 fibre 3
 fossiled 2
 facsimiled 6
@@ -511,7 +511,7 @@ frowny 5
 foresense 6
 falco 4
 fermentive 2
-forgivableness 3
+forgivableness 4
 forepaled 1
 fetterless 3
 fustigating 8
@@ -1879,7 +1879,7 @@ falsifies 4
 fizzwater 6
 frohlich 4
 fecundator 6
-foodless
+foodless 1
 fuligula 1
 fallow 1
 fewer 3
