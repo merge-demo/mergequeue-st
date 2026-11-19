@@ -755,7 +755,7 @@ chasselas 1
 cages 2
 cocoa 2
 colonelship 1
-cagester 1
+cagester 2
 cogrediency 2
 chlornal 1
 collaborationist 1
@@ -6668,7 +6668,7 @@ cedrol 1
 corticiform 1
 cedrus
 crioceris 1
-cardiosymphysis 1
+cardiosymphysis 2
 cee 1
 ceibas 2
 coracomorphic
@@ -7059,7 +7059,7 @@ centering
 comminatory 1
 centermost 2
 cartilage
-cyclosporous 1
+cyclosporous 2
 centerpiece 4
 craizey 1
 combinedly 3
@@ -7390,7 +7390,7 @@ cephalotrocha
 cephalotus
 cephalous 2
 cephas
-conchucu 2
+conchucu 3
 cepheids 1
 cephen
 coastings 1
@@ -10496,7 +10496,7 @@ canities
 childwite
 chile
 chyle 2
-chileanization
+chileanization 1
 caballeria 1
 chileans
 chylemia
@@ -12106,7 +12106,7 @@ chous 2
 chouse
 choused 3
 cyanogenesis
-chousers
+chousers 1
 configurationist 2
 cuckquean
 crabbiness 1
@@ -12586,7 +12586,7 @@ chronocyclegraph
 chronocrator
 chronogeneous 2
 combinedness 2
-contagious
+contagious 1
 chronogram 2
 celestially 2
 chronogrammatic 2
@@ -18970,7 +18970,7 @@ collaterals 1
 canzone 1
 cohobating 2
 corved 1
-cham 1
+cham 2
 collates 1
 collations 1
 cumaru 1
