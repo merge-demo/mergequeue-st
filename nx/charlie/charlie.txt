@@ -7158,7 +7158,7 @@ clar 4
 compare
 centraxonial 1
 centre
-clinoaxis
+clinoaxis 1
 centreboard 1
 centred 2
 centref 2
