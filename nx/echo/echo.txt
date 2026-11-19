@@ -1037,7 +1037,7 @@ eringos 2
 exsheath 1
 edged 3
 eidolon 2
-edger
+edger 1
 edgeshot
 earthen 1
 embalmment 1
@@ -2134,7 +2134,7 @@ electropult 1
 erotica
 elation 1
 enrib 3
-effloresces 3
+effloresces 4
 extrapolar 3
 explanative 2
 externalism 7
@@ -13558,7 +13558,7 @@ eccles
 eyeshots 2
 eumolpides 1
 externomedian 2
-evillest 1
+evillest 2
 exscinds 3
 entailers 2
 epiphenomenally 2
