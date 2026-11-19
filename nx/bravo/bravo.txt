@@ -663,7 +663,7 @@ bacteriosolvent 2
 basat 2
 bromization 4
 breakshugh
-begalls
+begalls 1
 bacteriotherapeutic 2
 bechances 2
 boatmen 1
