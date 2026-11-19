@@ -15172,7 +15172,7 @@ cacothelin 1
 claimers 1
 claymore
 claims 1
-covenable 2
+covenable 3
 claypans 4
 clair 1
 clairaudience 2
@@ -27245,7 +27245,7 @@ coetus 1
 counterweigh 1
 counterweight 1
 counterweighted 2
-counterweights 1
+counterweights 2
 counterwheel 1
 counterwilling
 counterwitness 1
@@ -29405,7 +29405,7 @@ corbeille
 crazedness 2
 crypturi
 concertise 2
-courbash
+courbash 1
 carites
 clinorhombic
 cornels 1
