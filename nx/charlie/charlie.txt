@@ -7158,7 +7158,7 @@ clar 4
 compare
 centraxonial 1
 centre
-clinoaxis
+clinoaxis 1
 centreboard 1
 centred 2
 centref 2
@@ -24151,7 +24151,7 @@ choriocapillary 2
 caterership 3
 convertoplane 3
 chave 1
-crimples 2
+crimples 3
 convertor
 claybrained
 coenzymes
@@ -26176,7 +26176,7 @@ cloudlet 1
 cosmologically 1
 caudatum 1
 compages
-chiromancist 1
+chiromancist 2
 cercopidae 2
 cosmonautical
 countdowns
