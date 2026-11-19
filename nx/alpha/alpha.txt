@@ -14889,7 +14889,7 @@ anticyclogenesis 4
 anticyclolysis 1
 aliquant 1
 ameliorate 1
-aphotic 1
+aphotic 2
 anticyclone
 arthroempyema 1
 alkarsin
@@ -18815,7 +18815,7 @@ abjuring 1
 allomerization 1
 agoniatite 3
 archers
-acetonurometer 1
+acetonurometer 2
 arches 1
 albumosuria
 autonephrectomy 2
@@ -25212,7 +25212,7 @@ aardvarks
 apostatise 3
 adight 1
 atomists 2
-atlas
+atlas 1
 anticked 1
 antienzymatic
 aficionada
