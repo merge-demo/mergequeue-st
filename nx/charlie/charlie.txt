@@ -4825,7 +4825,7 @@ carport
 carpos 1
 chibouk 2
 carposporangial
-catalase
+catalase 1
 carlist 2
 carposporous
 carpsucker 1
