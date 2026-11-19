@@ -2038,7 +2038,7 @@ fluoridation 4
 feigns 6
 flitch 4
 flamier 2
-farouche
+farouche 1
 feltwork 8
 falconet 3
 fourpounder 6
@@ -2423,7 +2423,7 @@ fashionable 1
 fifie 5
 ferlying 6
 foiler 6
-ferling 6
+ferling 7
 frecklish 3
 flemishes 3
 furls 2
@@ -7738,7 +7738,7 @@ farcically 2
 fiddle 3
 florian 5
 falconlike 2
-fretty 4
+fretty 5
 furs 3
 forsaken 5
 flamelike 2
@@ -11756,7 +11756,7 @@ fenchol 4
 faultfinders 4
 fuzzier 5
 forstraught 1
-flipped 3
+flipped 4
 fertilitate 3
 fianna 4
 forloin 1
