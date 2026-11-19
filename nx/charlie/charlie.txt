@@ -1527,7 +1527,7 @@ curraghs 1
 calligrapha 1
 chemurgy 1
 colleens 1
-calligraphers
+calligraphers 1
 college 1
 calligraphy
 calligraphic
@@ -1878,7 +1878,7 @@ cysticle 3
 camaxtli 1
 clabularia 1
 camball 5
-cambarus 1
+cambarus 2
 cambered 1
 croc 1
 chamfrain 1
@@ -2913,7 +2913,7 @@ curatively 2
 cacaos
 cantabile 2
 chloralum 1
-clothesmonger 1
+clothesmonger 2
 chalcis 1
 cantabrian
 cantabrigian
@@ -3811,7 +3811,7 @@ carbohemoglobin 2
 calamodendron 2
 cribbling 3
 carbohydrase 3
-cannibalism 4
+cannibalism 5
 cardioncus
 carbohydrate
 cardiotrophia
@@ -9108,7 +9108,7 @@ charterless 1
 chartermaster 3
 charters 2
 cryptograms
-cindered
+cindered 1
 chartist
 chartless 1
 caricatured 2
@@ -14761,7 +14761,7 @@ chinantecs 4
 chaffed 2
 cladodontid 3
 cytioderm 2
-cityscapes 1
+cityscapes 2
 cytisine
 chamkanni
 couriers 1
@@ -24931,7 +24931,7 @@ corallium 5
 carminatives 1
 caterans 3
 craniacromial 2
-cephadia
+cephadia 1
 codices 1
 continuousness 3
 corallum 2
@@ -29251,7 +29251,7 @@ crypto
 cryptoagnostic 1
 coextended 1
 cynogenealogist
-cryptoanalytically
+cryptoanalytically 1
 cryptobranch 2
 cryptobranchia
 cryptobranchiata 3
@@ -30843,7 +30843,7 @@ committable
 culmiferous 2
 culminal 3
 culminate 1
-cryptoanalysis 1
+cryptoanalysis 2
 clops 3
 compounders 1
 cliqueiest
