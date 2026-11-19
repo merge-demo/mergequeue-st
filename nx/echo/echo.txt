@@ -122,7 +122,7 @@ eparch 2
 enterochlorophyll 4
 euphonised 5
 echinoderma 1
-earthboard 2
+earthboard 3
 etherolate 4
 exanthemata 1
 enantiomorphous 2
@@ -404,7 +404,7 @@ echowise 1
 essera 2
 exomphalus 4
 entocondyle 3
-elfish
+elfish 1
 exposits 5
 exacerbation 4
 eriphyle
@@ -4480,7 +4480,7 @@ encephalomyelitis 7
 entalent 5
 eery 2
 ectotheca 6
-erucin 4
+erucin 5
 encephalomyocarditis 2
 emancipate 5
 enactive 3
@@ -10473,7 +10473,7 @@ equilobed 3
 entities 3
 etiquette 2
 entocranial 5
-etiquettical 4
+etiquettical 5
 etna 1
 effortful 3
 etoile 2
@@ -12497,7 +12497,7 @@ eczematosis 4
 entomophthorous 3
 exiguously 1
 exilarchate 1
-extemporariness 2
+extemporariness 3
 expiated 4
 ethicality 3
 exilement 4
@@ -12998,7 +12998,7 @@ extroitive 1
 embathe 3
 explode 3
 etherous
-evanition 3
+evanition 4
 equanimously 4
 expecter 4
 expectingly 5
