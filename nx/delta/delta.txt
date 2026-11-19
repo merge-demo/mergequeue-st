@@ -3754,7 +3754,7 @@ distrustingly
 desmine
 disimbitter 3
 deia 3
-deadpanner
+deadpanner 1
 dyostyle 3
 dor 2
 dwale
@@ -4855,7 +4855,7 @@ deactivator 5
 drupose
 dismality 1
 dissimilation 1
-dissecting 2
+dissecting 3
 decocting 2
 discreditableness 2
 dishmonger 2
