@@ -1455,7 +1455,7 @@ adipofibroma 3
 axilemmata
 accessive
 anoplocephalic 3
-aurichalcum 2
+aurichalcum 3
 awlessness
 alg 2
 aaru 2
@@ -1563,7 +1563,7 @@ ahuatle 2
 anthroponomy 3
 armoric 3
 airborn 1
-accomplicity 2
+accomplicity 3
 asturian 2
 accomplisher 1
 angelican 1
@@ -3118,7 +3118,7 @@ averish 1
 aught 2
 apickpack 4
 aphanophyre
-alienable
+alienable 1
 aphacia 2
 antiamusement 3
 actinonema 1
@@ -4611,7 +4611,7 @@ advice 2
 advices
 affectional 3
 atomatic 2
-antas 1
+antas 2
 advisableness 4
 amidon 4
 adiaphorism 1
@@ -7854,7 +7854,7 @@ ausubos 1
 atrickle 1
 anomalonomy 6
 anglicism 1
-aldrovanda 1
+aldrovanda 2
 achromaturia 3
 adequative 1
 aflow 3
@@ -11985,7 +11985,7 @@ ancille 3
 aminta
 always 2
 archduchies 1
-attatches 2
+attatches 3
 amplificator 2
 amphisbaenid
 amalgamize 1
@@ -12841,7 +12841,7 @@ antihemolysin 5
 angioneurosis
 antifederalist 3
 autoexcitation 3
-angionoma 1
+angionoma 2
 aecidioform 2
 anglish 2
 awarder 2
@@ -14097,7 +14097,7 @@ antecornu
 antecourt 1
 araneidal 4
 antidoted 2
-antecubital
+antecubital 1
 antecurvature 1
 afshah 4
 academising 2
@@ -14345,7 +14345,7 @@ angiotensin
 arabesk 2
 antherozoid 2
 antherozooidal 1
-anthers 1
+anthers 2
 anisopogonous
 aliyas 1
 aglossal 1
@@ -14539,7 +14539,7 @@ anthropographic 2
 ascenseur
 adroitly
 anthropol 2
-anthropolatry 2
+anthropolatry 3
 antigraphy 1
 askesis 1
 anthropolatric 4
@@ -15607,7 +15607,7 @@ armory 1
 antimusically
 animalculous 2
 aceldama 2
-afront
+afront 1
 antimusicalness
 affrightedly 2
 areoles 3
@@ -16238,7 +16238,7 @@ araceous 2
 antistock 1
 acetylator 3
 antistreptococcin
-alligation 2
+alligation 3
 anicca 2
 antiauthoritarian
 aesthetically 3
@@ -16679,7 +16679,7 @@ antihumanism
 alioth 1
 antimosquito 2
 ammochryse 3
-anocithesia 1
+anocithesia 2
 aberrance 4
 apertures
 assisa 3
@@ -20718,7 +20718,7 @@ abumbral 4
 articulative 3
 anteroventrally 4
 alody 1
-agrostographic 2
+agrostographic 3
 agrosteral
 azeotropy
 aeroscopy 3
