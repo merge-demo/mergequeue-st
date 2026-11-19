@@ -135,7 +135,7 @@ fumiferous 4
 flashforwards 3
 fictile 7
 flagellist 7
-feedhead 1
+feedhead 2
 fibre 3
 fossiled 2
 facsimiled 6
@@ -511,7 +511,7 @@ frowny 5
 foresense 6
 falco 4
 fermentive 2
-forgivableness 3
+forgivableness 4
 forepaled 1
 fetterless 3
 fustigating 8
@@ -1322,7 +1322,7 @@ filmography 1
 falx 3
 fatiferous 3
 feaster 4
-flavorfully 4
+flavorfully 5
 florentine 1
 fearfuller 2
 fatigable 4
@@ -1448,7 +1448,7 @@ fruiter 5
 favourable 4
 friedman 4
 fundholder 3
-flamer 1
+flamer 2
 foreshows 5
 fabulate 3
 flytes 2
@@ -1879,7 +1879,7 @@ falsifies 4
 fizzwater 6
 frohlich 4
 fecundator 6
-foodless
+foodless 1
 fuligula 1
 fallow 1
 fewer 3
@@ -2027,7 +2027,7 @@ fannell
 fireworky 4
 fractionizing 5
 freshens 4
-fieldwards 2
+fieldwards 3
 finestra 5
 fathomage 5
 figurines 4
@@ -2681,7 +2681,7 @@ fantoccini 6
 fannings 3
 feasing 3
 ferulaceous 1
-ferular 2
+ferular 3
 foreimpression 3
 fireshaft 5
 feruled 4
@@ -2773,7 +2773,7 @@ festilogies 6
 feddans 3
 festinance 4
 festoonery 1
-fatima 2
+fatima 3
 foretellable 3
 fuddlebrained 1
 forgivingness 6
@@ -5499,7 +5499,7 @@ floey 4
 fenderless 3
 friezy 1
 fiduciarily 5
-fasts 6
+fasts 7
 fiant 7
 friseurs 3
 fossed 2
@@ -5769,7 +5769,7 @@ figmental 5
 folksay 1
 frise 4
 flocking
-froise 3
+froise 4
 fenmen 4
 flited 7
 frontate 4
@@ -11471,7 +11471,7 @@ furrowing 3
 forletting 1
 furrowlike 4
 forewish 1
-fiction 4
+fiction 5
 furcately 3
 fissury 3
 ferntickle 1
