@@ -633,7 +633,7 @@ fikey 6
 forwarding 2
 fimetic 7
 farrand 1
-featherbedding 4
+featherbedding 5
 farnesol 2
 flakage 3
 fluotitanic 3
@@ -6605,7 +6605,7 @@ feelies 3
 flagrante 1
 frogfish 11
 forestaffs 5
-forecondemn 1
+forecondemn 2
 forfending 4
 fogey 1
 foulbrood 3
@@ -9076,7 +9076,7 @@ flaxwort 4
 fustian 1
 fractus 5
 fusinite 1
-forwork 5
+forwork 6
 fricassee 7
 fiendship 2
 flintified 6
