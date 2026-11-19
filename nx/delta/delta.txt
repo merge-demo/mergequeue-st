@@ -1414,7 +1414,7 @@ deleted 4
 dacryocystalgia 6
 dispel 2
 downdale 3
-dismain 1
+dismain 2
 demonomanie 1
 dorsiflexor 1
 digitals 1
@@ -5750,7 +5750,7 @@ dallyman 2
 disoxygenate 3
 dainties 3
 dialog 1
-datableness
+datableness 1
 diaxial
 deceit 1
 distalwards 2
