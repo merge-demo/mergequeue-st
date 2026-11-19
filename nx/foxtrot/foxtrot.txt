@@ -3296,7 +3296,7 @@ framed 2
 fisherman 1
 fideicommissaries 2
 fungus 1
-flirtling 4
+flirtling 5
 finesser 5
 forevermore 3
 foreward
@@ -4155,7 +4155,7 @@ firebox 6
 flocculation 2
 fellowcraft 5
 floerkea
-fibrils 4
+fibrils 5
 faintness 3
 fluophosphate 4
 foreaccounting 1
@@ -9475,7 +9475,7 @@ flouriness 7
 frolicly 2
 forlore 3
 fulsomeness 4
-fenman
+fenman 1
 fausant 5
 forewomen 4
 filmslide 4
