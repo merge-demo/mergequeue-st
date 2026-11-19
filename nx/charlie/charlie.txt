@@ -3314,7 +3314,7 @@ colourability 1
 calcino 1
 capitulate 2
 capitulates
-capitulator
+capitulator 1
 cystolithic 1
 crystalligerous 1
 crotchwood
@@ -9323,7 +9323,7 @@ chaus
 cabbalistical 2
 cataian
 chapon 1
-cyclamin
+cyclamin 1
 constatory
 carpenterworm 1
 conserves
@@ -11411,7 +11411,7 @@ carib 2
 crayfish 3
 cgs
 cellulomonadeae 1
-cimmeria
+cimmeria 1
 chemotroph
 chlorpicrin 1
 chlorpromazine
@@ -14006,7 +14006,7 @@ cyphonism 1
 constrain 1
 celiorrhaphy 1
 caziques 1
-cargador 1
+cargador 2
 cyphosis 2
 compitum 2
 celtium 2
@@ -14472,7 +14472,7 @@ counterpuncher 3
 cirsectomies 1
 cirsoid 2
 cirsophthalmia 1
-completable
+completable 1
 cirsotomy 1
 cirsotomies
 cirterion
@@ -18957,7 +18957,7 @@ collatee 2
 collaterality 1
 curari
 chuchona 3
-chromatophilous
+chromatophilous 1
 chaperon 1
 collateralized 2
 converts 5
