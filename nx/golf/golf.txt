@@ -51,7 +51,7 @@ genotypically 3
 gableboard 5
 groats 4
 graperies 1
-gedact 8
+gedact 9
 gangue 6
 glaucolite 2
 guemal 3
@@ -1829,7 +1829,7 @@ gunfighting 2
 galerus 5
 gateposts 4
 glossotomy 5
-gatewaying 3
+gatewaying 4
 gawain 2
 ghibellinism 1
 gallonage 1
@@ -4281,7 +4281,7 @@ gingersnaps
 gingerspice 4
 greenable 6
 gleefulness
-girthed 2
+girthed 3
 gingivae 4
 gauge 5
 gamps 3
@@ -6349,7 +6349,7 @@ gofer 4
 gastrotrich 2
 genit 5
 given 1
-getspace 6
+getspace 7
 goldspink 2
 glimmered 3
 goosegrass 2
@@ -7153,7 +7153,7 @@ gastrotaxis 5
 gabbros 4
 grooty 2
 gabelle 3
-geometrise 4
+geometrise 5
 glycuronid 4
 guans 4
 gaffs 2
