@@ -8726,7 +8726,7 @@ combflower 4
 chapelries
 carrs 4
 cinerins 1
-chapelward 2
+chapelward 3
 ceint
 chaperno 1
 custodia 2
@@ -17774,7 +17774,7 @@ codamin 1
 coindwelling
 categorisation 1
 cardiography 1
-codas 1
+codas 2
 cardialgic 1
 coddy 3
 coddle 3
@@ -21877,7 +21877,7 @@ chirognostic 3
 counties 1
 counterbond 1
 cheddars
-congiary
+congiary 1
 coziness
 cancellarian
 confelicity 2
@@ -24672,7 +24672,7 @@ cerebrating 3
 copolymer 1
 copolymerization 3
 copolymerize 4
-cossas
+cossas 1
 cruciated 1
 copolymerized
 copolymerizing 3
@@ -27068,7 +27068,7 @@ counterpronunciamento 5
 counterpropaganda
 checklaton 1
 chalcotrichite
-counterpropagandize
+counterpropagandize 1
 counterprophet 3
 collegially 1
 conceptualization 2
