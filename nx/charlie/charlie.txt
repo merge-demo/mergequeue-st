@@ -14830,7 +14830,7 @@ checkbird 2
 cytokinesis 2
 cytokinetic
 captan
-coradical
+coradical 1
 cytokinin 2
 cytol 3
 coziest
