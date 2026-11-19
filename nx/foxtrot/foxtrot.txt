@@ -1676,7 +1676,7 @@ freighted 1
 forehammer 4
 fondlike 4
 frangible 2
-ferrament 3
+ferrament 4
 fleeching 3
 furnace 7
 fingertip 7
@@ -2344,7 +2344,7 @@ footstalk 5
 formalizing 4
 fer 1
 firecoat 5
-featherstitching 1
+featherstitching 2
 ferae 1
 fatal 5
 fairyship 4
@@ -2360,7 +2360,7 @@ friarly 5
 flounderingly 5
 funerary 5
 floorward 2
-ferr 5
+ferr 6
 favel 1
 femineity 2
 frightener 2
@@ -8068,7 +8068,7 @@ fieldie 4
 favoured 1
 fredricite
 forestation
-faceup
+faceup 1
 farriers 3
 fructiculture 3
 foresteep 2
@@ -8929,7 +8929,7 @@ fouled 5
 fancywork 5
 fling 2
 fatiloquent 3
-ferie 6
+ferie 7
 feedstuff 1
 forethough 4
 fidation 3
@@ -10090,7 +10090,7 @@ ferriferous 3
 foolheadedness
 falseness
 fireblende 9
-flushness 3
+flushness 4
 forecasted 4
 foeish 3
 fleshling 2
