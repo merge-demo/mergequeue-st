@@ -1527,7 +1527,7 @@ curraghs 1
 calligrapha 1
 chemurgy 1
 colleens 1
-calligraphers
+calligraphers 1
 college 1
 calligraphy
 calligraphic
@@ -1878,7 +1878,7 @@ cysticle 3
 camaxtli 1
 clabularia 1
 camball 5
-cambarus 1
+cambarus 2
 cambered 1
 croc 1
 chamfrain 1
@@ -9108,7 +9108,7 @@ charterless 1
 chartermaster 3
 charters 2
 cryptograms
-cindered
+cindered 1
 chartist
 chartless 1
 caricatured 2
