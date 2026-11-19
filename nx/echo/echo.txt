@@ -2122,7 +2122,7 @@ epitria
 exoneration
 endleaf 3
 enfoil 3
-exterminatress 1
+exterminatress 2
 enanthematous 1
 epoxy 1
 esophagostenosis 3
@@ -2158,7 +2158,7 @@ elfishness 4
 elcaja 1
 eld
 epimeritic 2
-effiguration 4
+effiguration 5
 expressed 4
 ethynes 2
 ejective 4
@@ -7975,7 +7975,7 @@ envapour 1
 emigating 1
 expectorations 2
 endovasculitis 2
-exsanguious 4
+exsanguious 5
 exophoria 2
 euthenist 2
 equuleus 1
@@ -9385,7 +9385,7 @@ explainer 2
 excruciating 4
 endeavor 1
 expection 2
-electroretinographic 1
+electroretinographic 2
 echeneid 5
 enantobiosis 1
 emulgens 4
@@ -11573,7 +11573,7 @@ errantness 6
 ennoy 5
 evocator 2
 evoe 5
-ensilaging 1
+ensilaging 2
 exoculating 4
 exemptionist 1
 exsectile 2
