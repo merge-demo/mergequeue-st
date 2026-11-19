@@ -11380,7 +11380,7 @@ dialogite 4
 drossing
 dastardy 2
 dockyard 2
-dissuader
+dissuader 1
 demivotary 4
 determinoid 1
 debug 1
