@@ -1488,7 +1488,7 @@ dawnstreak 3
 discriminative 1
 demophobe 3
 diffusor 1
-dasypaedal
+dasypaedal 1
 discolorated 1
 dazzler 2
 disillusions 4
@@ -13222,7 +13222,7 @@ dinnerless 4
 dyspnea 1
 distempered
 dyspneas 1
-ducat 2
+ducat 3
 determinator 1
 draftman 5
 desexualization 3
