@@ -13519,7 +13519,7 @@ coughroot 1
 craniad 2
 cylindroconoidal 3
 cylindrodendrite 1
-cylindrograph
+cylindrograph 1
 compilers
 chisel
 chrysocolla 1
@@ -15275,7 +15275,7 @@ coquita 3
 cfs 1
 caimito
 chathamite 1
-cupmaking 3
+cupmaking 4
 clamorousness 1
 corallite 2
 corgis
@@ -23097,7 +23097,7 @@ conspectus 4
 cullying 1
 colias
 conspectuses 4
-consperse 2
+consperse 3
 conspersion 1
 conspicuity 1
 crescentia 2
@@ -26966,7 +26966,7 @@ caloyers 2
 craggily
 countermigration 1
 chaudfroid
-celiomyomotomy
+celiomyomotomy 1
 castellated 1
 cotonier
 countermined 2
