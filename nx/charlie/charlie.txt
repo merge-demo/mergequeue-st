@@ -4285,7 +4285,7 @@ caretake 2
 caretakers
 caretaking 2
 chastisers 2
-chondrosteous 1
+chondrosteous 2
 caretook
 comfiest 2
 carets 1
@@ -24931,7 +24931,7 @@ corallium 5
 carminatives 1
 caterans 3
 craniacromial 2
-cephadia
+cephadia 1
 codices 1
 continuousness 3
 corallum 2
@@ -29251,7 +29251,7 @@ crypto
 cryptoagnostic 1
 coextended 1
 cynogenealogist
-cryptoanalytically
+cryptoanalytically 1
 cryptobranch 2
 cryptobranchia
 cryptobranchiata 3
