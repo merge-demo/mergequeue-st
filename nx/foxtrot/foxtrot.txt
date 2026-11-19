@@ -266,7 +266,7 @@ ford 4
 footpounds 7
 firbolg 2
 fax 3
-flagarie 3
+flagarie 4
 fideism 4
 fissle 7
 fledges 9
@@ -3305,7 +3305,7 @@ flasket 6
 foreconscious 2
 facewise 2
 ferrohydrocyanic 1
-flabellate
+flabellate 1
 fossilologist 2
 folklorist 3
 featherlessness 3
@@ -5665,7 +5665,7 @@ fulguration 6
 fluidising 7
 fireable 6
 flimsiness 2
-fairleads 1
+fairleads 2
 flinch 8
 flagleaf 2
 fatted 4
@@ -8916,7 +8916,7 @@ froghopper 5
 faulter 1
 foujdarry 3
 fibrousness 3
-foul 4
+foul 5
 frotted 2
 fogger 3
 finesse 2
@@ -11303,7 +11303,7 @@ fogy 3
 fiscalize 1
 flurrying 4
 farcing 8
-fourfold 2
+fourfold 3
 folletti 3
 falun 6
 fully 5
