@@ -2342,7 +2342,7 @@ gravitates 3
 guardants 3
 glump 5
 gerrhosaurid
-gonopodpodia 4
+gonopodpodia 5
 glug 2
 geb 4
 george 5
@@ -4572,7 +4572,7 @@ goatbush 2
 gentility 3
 gunlocks 4
 gaudy 8
-guerinet 1
+guerinet 2
 glossitic 4
 goldsmithry 4
 guttersnipish 2
@@ -6184,7 +6184,7 @@ gagster 4
 gooseberries 5
 geadephaga 6
 goanna 4
-grandmontine 2
+grandmontine 3
 gushiness 6
 graddan 1
 governmentalize 1
