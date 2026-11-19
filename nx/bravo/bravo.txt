@@ -888,7 +888,7 @@ bagful
 baggagemaster 1
 bedamning 2
 brachydome 1
-baggager 1
+baggager 2
 benzidin 1
 benzalcohol 3
 beffroy 3
@@ -17714,7 +17714,7 @@ bicornes 1
 buyer 3
 burma 2
 begazed 3
-bestead 2
+bestead 3
 bollard
 beshouts 2
 birling 1
