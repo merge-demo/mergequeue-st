@@ -2817,7 +2817,7 @@ blithefully 3
 buffaloback 5
 bedarken 4
 bruta
-beisa
+beisa 1
 biquadrate 3
 baroswitch 2
 bld 2
@@ -10009,7 +10009,7 @@ backseat 2
 blackwashing 1
 bizarrerie 1
 bield 3
-broody 1
+broody 2
 barbell 4
 bn 5
 baroscopical 1
@@ -14124,7 +14124,7 @@ babbage 2
 blasters 2
 butsudan 3
 brekkle 1
-bumbaze 5
+bumbaze 6
 brighteyes 3
 birdlore 2
 brachiosaur
@@ -14347,7 +14347,7 @@ brahmachari 3
 blacklist 3
 brahmana 1
 balloonful 3
-bookboard 2
+bookboard 3
 bikini 2
 bounciness 1
 brahmanism 2
@@ -16946,7 +16946,7 @@ bugs 4
 bugweed
 barometry 1
 blacktopped 2
-bugwort
+bugwort 1
 banca 4
 biographic 2
 baganda 1
