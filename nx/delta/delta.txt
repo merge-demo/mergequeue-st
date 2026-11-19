@@ -303,7 +303,7 @@ dealbate 1
 daybed 1
 devchar 1
 disembowelment 1
-disgruntling
+disgruntling 1
 dollfaced 2
 daybill 1
 disinteress 5
@@ -1874,7 +1874,7 @@ distensibilities 3
 dispunge 1
 dissimulation 1
 disunites 3
-desmectasia 1
+desmectasia 2
 dispirit 3
 dout 2
 deliverables 1
