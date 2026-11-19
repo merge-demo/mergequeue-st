@@ -888,7 +888,7 @@ bagful
 baggagemaster 1
 bedamning 2
 brachydome 1
-baggager 1
+baggager 2
 benzidin 1
 benzalcohol 3
 beffroy 3
@@ -7736,7 +7736,7 @@ bespangles 2
 britten 3
 bathyscaphe 1
 bravoite
-buxerry 2
+buxerry 3
 bhikshu 4
 bullan
 barquantine 1
