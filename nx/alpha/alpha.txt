@@ -2869,7 +2869,7 @@ antiaditis
 airworthier
 armorproof 1
 archostenosis
-autocamping 1
+autocamping 2
 acromicria 3
 aspersers 3
 athonite 3
@@ -9587,7 +9587,7 @@ altitudinarian 1
 antiriot 1
 abichite 2
 altogetherness 1
-angelizing 4
+angelizing 5
 antecaecal 4
 antivolition 2
 aglets 1
@@ -9924,7 +9924,7 @@ antiroyalist
 acromiosternal 2
 acceptive 1
 amateur 4
-antidotal 2
+antidotal 3
 arietid
 amateurishness 1
 aspergillaceae
@@ -22211,7 +22211,7 @@ astigmometer
 aglossa 4
 astigmometry 1
 alluviate
-algologist 1
+algologist 2
 aegritude
 apprecate 1
 atrophied 1
