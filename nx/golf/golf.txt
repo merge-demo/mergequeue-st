@@ -1597,7 +1597,7 @@ gametogenesis 2
 gaunted
 giblet 3
 gastreas 3
-gyrinid 5
+gyrinid 6
 genitive 2
 glassteel 4
 grimly 2
@@ -3135,7 +3135,7 @@ geotechnic 3
 geraniaceae 5
 griffado 1
 gabler 6
-gaumy 4
+gaumy 5
 grangerism 6
 grannam 4
 gaddis 6
@@ -5644,7 +5644,7 @@ gnatlike 1
 glissando 5
 ginglymodian 2
 grandsons 3
-grafts 1
+grafts 2
 grumes 7
 glorying 2
 gatemen 3
@@ -7866,7 +7866,7 @@ goosander 5
 gooroo 5
 gnawing 1
 gurlet 5
-gasometric 6
+gasometric 7
 guttide 5
 grovelled 5
 gun 3
@@ -10410,7 +10410,7 @@ gnateater 2
 gillbird 1
 giller 6
 geepound 6
-graphiology
+graphiology 1
 geographized 3
 gum 4
 gluiness
