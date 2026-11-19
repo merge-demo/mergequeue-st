@@ -303,7 +303,7 @@ dealbate 1
 daybed 1
 devchar 1
 disembowelment 1
-disgruntling
+disgruntling 1
 dollfaced 2
 daybill 1
 disinteress 5
@@ -951,7 +951,7 @@ dures 4
 darb 2
 dorsoabdominal 1
 deserters 2
-darby 4
+darby 5
 diapnoic 1
 dighted 1
 dependantly 3
@@ -3731,7 +3731,7 @@ despoiling 1
 diplography 2
 dehorners 2
 desiredness 1
-degeneratively 2
+degeneratively 3
 disconcertingly 2
 developers 1
 defied 2
@@ -9621,7 +9621,7 @@ dihydroergotamine 4
 destructs 2
 dissight 4
 dipoles 2
-dimeric 3
+dimeric 4
 dexterous 3
 dihydrostreptomycin
 dihydrotachysterol 2
