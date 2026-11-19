@@ -2543,7 +2543,7 @@ electrometer 5
 exstrophy 5
 earthgrubber
 electrometrical 1
-enchodontidae 3
+enchodontidae 4
 encopreses 2
 extremes 3
 enchanters
@@ -4080,7 +4080,7 @@ endosclerite 4
 entoilment 3
 emplaster 5
 enantiomer
-elevating
+elevating 1
 equiponderated 1
 emplastic 1
 emplastration 3
