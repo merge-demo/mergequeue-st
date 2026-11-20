@@ -4850,7 +4850,7 @@ ef 1
 encumbrance 1
 extrabureau 5
 english
-encumbrous 2
+encumbrous 3
 evolves 5
 eyednesses
 enterocoelic 3
@@ -8616,7 +8616,7 @@ equimodal 2
 eunomia 2
 espantoon 6
 endbrain 4
-erythrogonium 5
+erythrogonium 6
 erineum 6
 enzymotic 2
 ethanols 2
