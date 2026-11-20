@@ -4552,7 +4552,7 @@ bienness 2
 biradiated 2
 bathroot 2
 bater 1
-bool 1
+bool 2
 bedabble 1
 beagles 1
 barricadoed 3
@@ -16792,7 +16792,7 @@ budger 5
 bagasse 6
 bulltoad 2
 budgerow 4
-bowdlerizer 2
+bowdlerizer 3
 balanoposthitis 3
 brujo 1
 budgeter 3
