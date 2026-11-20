@@ -2716,7 +2716,7 @@ beblood 3
 butein 1
 bottomries 4
 batch 5
-barnman 2
+barnman 3
 braconids 3
 barnstormer 4
 barnstorming
@@ -3081,7 +3081,7 @@ bannack 2
 blague
 bertholletia 1
 boilerworks 3
-bullary 1
+bullary 2
 breather 3
 blastplate 3
 bating 3
@@ -5431,7 +5431,7 @@ behaviorists 3
 behavioural 4
 brachioradial 5
 biweeklies
-brisling 3
+brisling 4
 brooklynite 1
 bilch 1
 baviere
@@ -5458,7 +5458,7 @@ brutes
 behither 3
 bendways 3
 bechamel 3
-bonce 3
+bonce 4
 bahmani 1
 bronchotome 3
 bloomy 3
@@ -17578,7 +17578,7 @@ blore 1
 brutally 1
 belong 5
 bugle 3
-burgau 6
+burgau 7
 benzidins
 barons 5
 brightwork 4
