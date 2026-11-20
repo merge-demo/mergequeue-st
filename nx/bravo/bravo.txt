@@ -1077,7 +1077,7 @@ bolete 3
 bondmen 5
 babyhouse 3
 blousier 3
-buzzards 4
+buzzards 5
 burghal 4
 birdlimed 1
 bomos 4
@@ -1513,7 +1513,7 @@ bartholinitis
 beflounce 1
 beforetime 1
 ballade 3
-bespottedness
+bespottedness 1
 beglad 2
 bathyhyperesthesia
 bemadamed 3
@@ -6047,7 +6047,7 @@ bemuddlement 1
 bemuddles 4
 bemuddling 2
 bacteremia
-bemurmur 3
+bemurmur 4
 bondwoman 1
 butyral 2
 botaniser
@@ -7318,7 +7318,7 @@ bethankit
 bethel 1
 brehon 2
 blunter 1
-backage 4
+backage 5
 boletaceous 1
 bannet 1
 bugi 3
@@ -7407,7 +7407,7 @@ bedgown 1
 boatings 3
 betread 1
 barnier 1
-bawdily 2
+bawdily 3
 bathybius 1
 braveries 3
 betrothing 3
@@ -10190,7 +10190,7 @@ blackfishing 4
 bufferrers 2
 beroida 1
 bid 2
-badgering 2
+badgering 3
 binghi 1
 bassing 2
 bitreadle 2
@@ -15269,7 +15269,7 @@ bricklike 1
 blennoid 2
 bucketing 4
 balneal 3
-beardom 1
+beardom 2
 bestrewn 2
 benchers 3
 bridale
@@ -17446,7 +17446,7 @@ bunkie 1
 buffi 1
 boccies 2
 baltis 2
-bunking 2
+bunking 3
 babeldom 2
 browny 2
 bunnia 2
