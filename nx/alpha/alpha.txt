@@ -12490,7 +12490,7 @@ actinides 2
 argante 1
 androsphinx 1
 androsporangium 2
-autostethoscope 1
+autostethoscope 2
 arteriology
 androsterone 1
 androtomy 2
@@ -23476,7 +23476,7 @@ augerer 1
 antireformer 2
 augers
 auget
-autocomplexes
+autocomplexes 1
 augh 1
 algebraists 1
 astringer 3
