@@ -2285,7 +2285,7 @@ canacuas
 cucullaris 1
 cholecyst
 canadian
-coagulase 1
+coagulase 2
 canadianize 4
 compassionable 1
 catchwords
@@ -4128,7 +4128,7 @@ cory 2
 croslet
 cancans 2
 cardinalfishes 1
-casuist
+casuist 1
 capitate
 chughole 1
 cardinalis 1
@@ -7789,7 +7789,7 @@ cichloid 3
 cemetaries
 cerviciplex
 cervicispinal 3
-cervicitis
+cervicitis 1
 cervicoauricular 3
 cobitis
 cervicobuccal
@@ -24496,7 +24496,7 @@ corticin 2
 cheeseburger 1
 cootfoot 1
 crotyl
-cooty 2
+cooty 3
 cootie
 copps 1
 coelogyne 2
@@ -25065,7 +25065,7 @@ chere 2
 cordons
 cords 2
 craftmanship
-courteously 1
+courteously 2
 crosscourt
 costiferous 1
 celotex
@@ -25971,7 +25971,7 @@ cortisol 4
 cortisols
 cortlandtite
 comagistracy
-caulotaxy
+caulotaxy 1
 chechako 2
 corton 2
 cacoeconomy
@@ -29180,7 +29180,7 @@ chemawinite
 chalazae
 cryophyllite 1
 cryophyte 1
-criophore 1
+criophore 2
 crannogs 3
 cellarless 3
 chlordiazepoxide 2
