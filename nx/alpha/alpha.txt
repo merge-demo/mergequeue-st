@@ -91,7 +91,7 @@ accessional 1
 arruague 2
 abandonment 1
 accelerator 3
-antipriestcraft 1
+antipriestcraft 2
 abaptiston
 acknow 3
 annominate
@@ -804,7 +804,7 @@ abridgable
 anticlassicalist 3
 anisotropical 2
 antiscia 4
-aphanesite
+aphanesite 1
 abitibi
 abridgement 2
 anapeiratic 2
@@ -1151,7 +1151,7 @@ affixt 2
 anguliferous 1
 acacatechol 3
 acacia
-acacian 1
+acacian 2
 auditioning 2
 acacias
 apparitions 1
@@ -2739,7 +2739,7 @@ acridiidae 4
 allochiral 4
 amreetas 3
 ankylophobia 2
-acridity
+acridity 1
 aerobee 3
 acridities
 acrydium 3
@@ -4322,7 +4322,7 @@ adrenalin 2
 aparejo 1
 acquiesced 3
 adrenalize 3
-amianth 2
+amianth 3
 archconspirator
 anneslia 2
 acilius 1
@@ -8680,7 +8680,7 @@ aeolic 1
 allegresse 1
 allegrettos 1
 apasttra 4
-adobes 3
+adobes 4
 agaric 3
 annulosan 2
 africanization 2
@@ -8871,7 +8871,7 @@ allocatur 2
 acanthocephalan 2
 atumble 2
 astound 1
-albahaca
+albahaca 1
 assumable 3
 appercipient 1
 amethodical 2
@@ -8995,7 +8995,7 @@ allophylus 1
 angioblastic
 antennular 1
 astounding 2
-amphilogy 3
+amphilogy 4
 archdeanery 1
 arboreally 1
 allophones 1
@@ -9007,7 +9007,7 @@ appleroot 3
 ataghan 1
 arsnicker 1
 allose 2
-allosyndetic
+allosyndetic 1
 allosome 1
 allosteric
 axer 2
@@ -9236,7 +9236,7 @@ abiologically 1
 arriviste 1
 antiknock 1
 almury 4
-alnage 1
+alnage 2
 alnaschar
 aposiopestic
 astracism 2
@@ -10335,7 +10335,7 @@ atlantodidymus 5
 angulinerved
 aortostenosis 3
 arctic 2
-almanacs 1
+almanacs 2
 arsesmart 3
 ament 1
 adaunt 2
@@ -10359,7 +10359,7 @@ apterygote 2
 audaciously 2
 archivers 2
 agglutinator
-amerced 1
+amerced 2
 abkari
 acupressure 4
 abscam
@@ -11116,7 +11116,7 @@ amouli 2
 aeroplaner
 anathematiser 2
 apogeic 2
-amovable 1
+amovable 2
 acronarcotic 1
 abatic 4
 amove 1
@@ -11450,7 +11450,7 @@ antiplenist 1
 admirers 3
 airlight 3
 abody
-amps 2
+amps 3
 assigner
 approximant 1
 adversive 3
@@ -12803,7 +12803,7 @@ anasazi 5
 areality 1
 alternative 2
 applies 2
-angiocardiographies 2
+angiocardiographies 3
 anileness
 angiocarpic 4
 angiocarpous
@@ -13043,7 +13043,7 @@ angustisellate
 antispectroscopic 1
 accommodable 2
 alfridaric 2
-argals 1
+argals 2
 angwich
 aphorismic
 archly
@@ -15096,7 +15096,7 @@ affability 1
 antidiuretic
 adephagan 4
 anemopsis 1
-antipatriotism 1
+antipatriotism 2
 arthrocarcinoma 1
 antidivine
 asseverated 2
@@ -18334,7 +18334,7 @@ amphigonic 1
 arachnology 4
 ancistrocladus 1
 amoinder 3
-aristarch 2
+aristarch 3
 aradidae 1
 ashraf 2
 arage 1
@@ -19476,7 +19476,7 @@ arglebargle 2
 arglebargled 4
 allie 2
 arglebargling
-argled
+argled 1
 arcubalister 3
 antimedication 2
 accusant
@@ -21325,7 +21325,7 @@ aceanthrene 2
 atretic 1
 asymmetric
 antelocation
-acknowledgement 1
+acknowledgement 2
 asymmetries
 asymmetron 2
 afridi
@@ -21674,7 +21674,7 @@ aminoacetophenone 2
 afifi
 assaultable 4
 antimissioner 2
-astrospectroscopic 3
+astrospectroscopic 4
 antiquer 3
 assaulter 2
 attainably 3
@@ -22246,7 +22246,7 @@ astonishedly 1
 abnaki 2
 asterismal
 antiquing 2
-astonishingly 1
+astonishingly 2
 anaphia
 apologetic 2
 aspasia 1
