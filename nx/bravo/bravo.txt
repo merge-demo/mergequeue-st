@@ -1746,7 +1746,7 @@ botan 1
 borealis 1
 brachypyramid
 broon 1
-byline 1
+byline 2
 brawlis 1
 boutonniere 2
 breathiness 2
@@ -8010,7 +8010,7 @@ bathinette 1
 blastaea 4
 bedabbles 4
 burntly 3
-biciliated 2
+biciliated 3
 backwoodser 3
 bicylindrical 2
 beatus 2
@@ -8258,7 +8258,7 @@ bifurcating 1
 bergschrund 4
 bekilted 7
 benzophenone
-bourgeoise
+bourgeoise 1
 basketry 3
 biga 1
 bigae
@@ -8958,7 +8958,7 @@ barberess 1
 balked 7
 biogases 1
 bleachground 2
-beliked 3
+beliked 4
 biokinetics
 beautifiers 1
 beledgered 2
@@ -9202,7 +9202,7 @@ bromcamphor 1
 bruja 3
 biotome
 brothered 3
-biotransformation 1
+biotransformation 2
 birdnest 1
 biotron 1
 beauetry 2
@@ -9534,7 +9534,7 @@ birthnight 2
 birthplaces 1
 bogota 3
 blackened
-birthright 1
+birthright 2
 baffeta 2
 births 3
 birthstones
@@ -10541,7 +10541,7 @@ blastosphere 1
 balanus 1
 bromal 2
 buttonhold 3
-belligerent 4
+belligerent 5
 braise
 badasses 1
 blastula 3
@@ -12669,7 +12669,7 @@ bister 1
 boogeymen 1
 bane 2
 bellical 1
-buhrs 3
+buhrs 4
 bec
 branded 7
 bolivares 1
@@ -16300,7 +16300,7 @@ browsick 3
 browst 2
 barogram 1
 brickmaker 3
-bardash 2
+bardash 3
 brinjaul 2
 bottlehead 4
 browzer 4
@@ -16451,7 +16451,7 @@ bogy 1
 bumicky
 brushback
 butt 1
-bladesmith 1
+bladesmith 2
 buttonholder 1
 botas 2
 bouffage 2
@@ -17663,7 +17663,7 @@ bonier 1
 blithebread 2
 bringela 1
 barbettes 3
-biocentric 3
+biocentric 4
 bookkeeper 2
 burkha 4
 beplague 1
