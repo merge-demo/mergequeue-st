@@ -2019,7 +2019,7 @@ fours 3
 feeze 3
 fimicolous 3
 furmity 4
-forejudge 4
+forejudge 5
 fefnicute 5
 fullam 3
 farragoes 2
@@ -3634,7 +3634,7 @@ flook 3
 farmable 2
 fridstool 2
 flashing 6
-faintishness 1
+faintishness 2
 fielder 8
 floatsman 2
 froglets 5
@@ -7939,7 +7939,7 @@ foreseize 2
 flatteries 5
 fike 2
 fusilades 2
-firy 2
+firy 3
 fervorous 3
 federalisation 1
 fopdoodle 1
