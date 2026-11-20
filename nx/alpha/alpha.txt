@@ -843,7 +843,7 @@ abruptness 3
 apptd 2
 ambilogy 1
 algarot
-authoritatively 4
+authoritatively 5
 additur 1
 abstruse 3
 ammiral
@@ -1491,7 +1491,7 @@ acclimatisation 6
 affixable 4
 archaisms 2
 amortize 1
-acclimatise 6
+acclimatise 7
 acclimatiser 4
 acclimatising 1
 aegagrus 1
@@ -19163,7 +19163,7 @@ aggravated 2
 antispastic 3
 adjiger
 allentiac 1
-accessorized 4
+accessorized 5
 attendances 1
 abusable 2
 antepretonic
@@ -19518,7 +19518,7 @@ accelerated 2
 adward 1
 antimaterialism 1
 acetonic 3
-adventist
+adventist 1
 agrological 1
 anoles 1
 authenticness 3
@@ -20744,7 +20744,7 @@ antipragmatically
 arroya
 ambach 1
 artificialism 1
-amesaces 2
+amesaces 3
 artificialities 1
 artillery 2
 artilleries 2
@@ -24613,7 +24613,7 @@ aumaga
 ammobium 2
 ambergrease 1
 actinophryan
-apotheosize 2
+apotheosize 3
 amantadine 2
 associateship 2
 avalanches 1
