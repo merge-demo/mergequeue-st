@@ -2950,7 +2950,7 @@ bracketed 1
 barrelwise 1
 barretor 2
 bloodybones 2
-billowed 2
+billowed 3
 bonus 1
 beath 3
 battalias 2
@@ -11843,7 +11843,7 @@ bard 3
 briareus 3
 browbeater 1
 bulrushlike 2
-bootlegging
+bootlegging 1
 banking 5
 bodybuilding
 budgerigar 4
@@ -14967,7 +14967,7 @@ buccina 1
 birthy 3
 boccale 3
 bulter 4
-bushier
+bushier 1
 breastpin 1
 barleybreak 3
 basketing 2
