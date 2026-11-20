@@ -1846,7 +1846,7 @@ douzepers 4
 downwarp
 declinograph
 doorstead 3
-diacetamide
+diacetamide 1
 diiodide 3
 doughnut 2
 debellator 3
@@ -2798,7 +2798,7 @@ decretively 2
 discind 3
 deuteroglobulose 1
 duogravure 2
-decretorian 3
+decretorian 4
 dithymol 1
 defi 1
 declarator 5
@@ -5914,7 +5914,7 @@ duffer 1
 dayfly 4
 deprogrammed 2
 disedge 4
-drillstock 4
+drillstock 5
 dottling
 devonic 5
 dollish
@@ -6913,7 +6913,7 @@ despair 2
 delirous 1
 drunken 2
 dirgeful 2
-despairful
+despairful 1
 doctrinism 5
 diplegia 3
 diarthroses 2
@@ -6928,7 +6928,7 @@ despatches 1
 deoxidise 1
 dodded 2
 despatching 1
-disembarrassed 1
+disembarrassed 2
 dispute 3
 domineer 3
 despecificate
@@ -8749,7 +8749,7 @@ decime 4
 distastefully 2
 dentalgia
 demythologisation 1
-dichogamy 4
+dichogamy 5
 diatonic 3
 dungannonite 4
 diatreme 4
@@ -12059,7 +12059,7 @@ disentrail 1
 disentrainment 1
 disentrance 1
 depilatory 2
-distinctionless
+distinctionless 1
 defuzed 3
 disrank 1
 diamondback 3
