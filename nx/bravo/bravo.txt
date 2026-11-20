@@ -1172,7 +1172,7 @@ bridgeway 2
 bigbloom 3
 bedsteads 5
 ballasting 1
-balladized 4
+balladized 5
 baiza
 bespin 1
 beseech 1
@@ -6782,7 +6782,7 @@ brittles 2
 bin 1
 boeotia 3
 barnumize 2
-balize 2
+balize 3
 berhyme
 banjore 2
 brewing 3
@@ -8019,7 +8019,7 @@ bewilderedness 7
 borsht 2
 beslipper 2
 bespatterer 2
-bicircular 1
+bicircular 2
 bitemporal
 byname 5
 bobsleigh 2
@@ -10619,7 +10619,7 @@ blawing 2
 bidery 5
 blawn
 brigittine 1
-bajulate 1
+bajulate 2
 beardlessness 5
 bulbocodium
 boyars 3
@@ -12935,7 +12935,7 @@ bedlamise 3
 bundt 1
 bonhomie 2
 boothage 3
-boothale
+boothale 1
 baronetcies 3
 badge 1
 boccias 4
@@ -14913,7 +14913,7 @@ buffetings 1
 bastard 5
 breakfronts 3
 brighid 2
-butlerage 2
+butlerage 3
 breaking 1
 barkeep 6
 breakings 2
