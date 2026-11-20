@@ -1362,7 +1362,7 @@ beggarliness 3
 burlap 3
 brayed 2
 butterbump 2
-betwixen 2
+betwixen 3
 balconies 2
 bacule 4
 baldachin 1
@@ -4561,7 +4561,7 @@ behavioristic 2
 bedad 2
 bedaggle 1
 breeding 1
-berrybush 1
+berrybush 2
 beday 4
 babul 2
 biddable 1
@@ -6051,7 +6051,7 @@ bemurmur 3
 bondwoman 1
 butyral 2
 botaniser
-bemurmure 4
+bemurmure 5
 bemurmuring 1
 befooled 4
 bemuses 1
@@ -12210,7 +12210,7 @@ brevis 2
 bacchides 1
 broomcorn 2
 brimstone 2
-bewest
+bewest 1
 blamable 1
 bollock 1
 bema 3
@@ -14804,7 +14804,7 @@ blacklegs 1
 brightener 3
 bedimplies
 braxy 3
-braxies 2
+braxies 3
 beetlike 5
 brunt 1
 brazenfacedness 2
