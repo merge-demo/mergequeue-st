@@ -1663,7 +1663,7 @@ ballottines
 bathwort
 ballpark 1
 brasquing
-bandi 1
+bandi 2
 bescurf 2
 barrowist 1
 bardesanism 2
@@ -2716,7 +2716,7 @@ beblood 3
 butein 1
 bottomries 4
 batch 5
-barnman 2
+barnman 3
 braconids 3
 barnstormer 4
 barnstorming
@@ -3081,7 +3081,7 @@ bannack 2
 blague
 bertholletia 1
 boilerworks 3
-bullary 1
+bullary 2
 breather 3
 blastplate 3
 bating 3
@@ -3697,7 +3697,7 @@ brotulidae 4
 bagwomen 5
 befrilled 4
 braille
-bengals
+bengals 1
 bowlegs 2
 bisabol 3
 booklover 5
@@ -17578,7 +17578,7 @@ blore 1
 brutally 1
 belong 5
 bugle 3
-burgau 6
+burgau 7
 benzidins
 barons 5
 brightwork 4
