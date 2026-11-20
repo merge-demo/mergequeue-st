@@ -1006,7 +1006,7 @@ fulfill 1
 farmeress 5
 fireling 2
 flerrying 5
-farmerly 3
+farmerly 4
 forrel 1
 fletcherize 7
 folates 3
@@ -3259,7 +3259,7 @@ forthrightly 5
 faradizer 4
 flaught 8
 filbert 3
-freit
+freit 1
 furciferine 2
 fifteenthly 5
 fireburn 4
@@ -6063,7 +6063,7 @@ farting 5
 fungiform 2
 fenceful 6
 freebooted 1
-fraternate 3
+fraternate 4
 featness 6
 flocculating 6
 frayn 4
@@ -6187,7 +6187,7 @@ fog 3
 fadeaway 1
 frothier 1
 fluavile 7
-flubbed 4
+flubbed 5
 feudum 3
 foreread 5
 fairgoing 4
@@ -8564,7 +8564,7 @@ formosity 6
 fidley 3
 flailing 4
 facetiation 3
-firehall 6
+firehall 7
 falsie 4
 fraudproof 3
 fissiparous
