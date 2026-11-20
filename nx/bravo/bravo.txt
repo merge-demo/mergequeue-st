@@ -8213,7 +8213,7 @@ bifaces
 bootlicked 2
 bifara
 bootleger 2
-bedress 2
+bedress 3
 biff 5
 broadwayite 2
 bifilar 2
@@ -8954,7 +8954,7 @@ boogaloo 2
 boskiness 1
 bozzetto
 burnishment
-barberess
+barberess 1
 balked 7
 biogases 1
 bleachground 2
@@ -13254,7 +13254,7 @@ bossage
 bossdom 1
 boastful 2
 bructeri 1
-baromacrometer 1
+baromacrometer 2
 brislings 3
 bankshall 4
 boblet 2
