@@ -6074,7 +6074,7 @@ curatory
 candify 1
 catlike 1
 crowns
-catling 1
+catling 2
 catlings 2
 condescend 3
 cairds 1
@@ -25044,7 +25044,7 @@ cordiceps 3
 cordyceps 2
 communicator
 cordicole
-cordillera
+cordillera 1
 carbonizes 1
 cordilleran
 cordilleras 1
