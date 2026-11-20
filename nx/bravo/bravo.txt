@@ -891,7 +891,7 @@ brachydome 1
 baggager 2
 benzidin 1
 benzalcohol 3
-beffroy 3
+beffroy 4
 baggala 2
 borderlight 4
 bagganet 3
@@ -1931,7 +1931,7 @@ brainsickly 4
 bando 2
 besieger 4
 bodiced 2
-bareheaded
+bareheaded 1
 bubonalgia 1
 bandanas 3
 bergama 1
@@ -5407,7 +5407,7 @@ begulf 3
 blastomycotic 1
 begummed
 biolite 1
-bowldering
+bowldering 1
 bedin 2
 betwit 2
 behammer 1
@@ -6266,7 +6266,7 @@ binnacles 2
 benshee 1
 blepharitis 2
 benshi 1
-benson 5
+benson 6
 bardess 2
 briefs
 brandsolder 2
@@ -9735,7 +9735,7 @@ bicolored 4
 boondogglers 1
 bisques
 bacchanalianly 2
-bedpad 3
+bedpad 4
 betokening 2
 birdmouthed 2
 bacchante 1
@@ -12102,7 +12102,7 @@ bedell 2
 bartsia
 balmacaan 2
 biglenoid 2
-bolboxalis
+bolboxalis 1
 bummers 5
 blushingly 2
 biosatellites 3
@@ -13386,7 +13386,7 @@ bimillenniums 1
 buffoonery 2
 bare 3
 boondoggler 1
-buckety 2
+buckety 3
 boundlessness 4
 blasted
 backshift 2
@@ -16237,7 +16237,7 @@ bryologies 1
 breadstuffs
 brouhaha 3
 broussonetia
-browbeating
+browbeating 1
 bathmotropism
 baiter 1
 browden 2
@@ -18351,7 +18351,7 @@ bolita 2
 bucellas 2
 bipontine 2
 bensail 3
-braw 5
+braw 6
 bisectionally 4
 buttwoman 2
 butterscotch 2
