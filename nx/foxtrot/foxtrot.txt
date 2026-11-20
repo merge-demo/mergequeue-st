@@ -3558,7 +3558,7 @@ fnese 4
 flailed 3
 filaricidal 1
 filariids 4
-forechoice 2
+forechoice 3
 ferroprussic 3
 flagellative 2
 foody 3
@@ -10954,7 +10954,7 @@ fub 1
 foehn 5
 flexure 2
 field 4
-fetal 5
+fetal 6
 floorage 3
 fadridden 5
 fack 4
