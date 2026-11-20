@@ -2664,7 +2664,7 @@ earhead 2
 emborder 1
 electrotechnician 4
 exports 2
-enfant 2
+enfant 3
 eudaemonics 2
 engenderment 4
 exhort
@@ -13923,7 +13923,7 @@ espied 3
 eeyuck 3
 extragalactic 4
 enteraden 2
-extragastric
+extragastric 1
 elizabethan 1
 empressment 4
 epilimnial 1
