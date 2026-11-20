@@ -595,7 +595,7 @@ flavorless 1
 frighter 4
 fragaria 2
 floodways
-fleshes 6
+fleshes 7
 forehand 2
 folly 3
 farrantly 3
@@ -1004,7 +1004,7 @@ farinosel 4
 foussa 5
 fulfill 1
 farmeress 5
-fireling 2
+fireling 3
 flerrying 5
 farmerly 4
 forrel 1
@@ -1339,7 +1339,7 @@ fatiguesome 5
 fragmenting 1
 fishbones 1
 frundel 4
-fidate 5
+fidate 6
 fruticeous 2
 flaxdrop 4
 filecard 4
@@ -1937,7 +1937,7 @@ freight 3
 furling 5
 fileable 4
 friable 3
-froze 3
+froze 4
 floccule 9
 flaring 1
 finagling 3
@@ -2183,7 +2183,7 @@ fogyisms 4
 fadme 1
 foute 2
 flashet 3
-feltmaker 3
+feltmaker 4
 fiducia 3
 fats 1
 fratercula 4
@@ -3233,7 +3233,7 @@ falern 1
 forewarnings 5
 foetors 3
 flameholder 4
-fictioner 4
+fictioner 5
 furbisher 6
 foci 8
 forestay 4
@@ -3640,7 +3640,7 @@ floatsman 2
 froglets 5
 figurate 2
 forebitter 6
-facticide 6
+facticide 7
 fretsaws 3
 fiftieths 5
 fibrillar 5
@@ -4312,7 +4312,7 @@ fretworked 5
 fauces 1
 frailty 4
 ferrelled 1
-fluorins 2
+fluorins 3
 fellnesses 1
 fasteners 3
 foreleech 4
@@ -4390,7 +4390,7 @@ factually 6
 fraus 5
 feinschmeckers 6
 fishes 5
-flyaway 1
+flyaway 2
 frithwork 7
 fascistic
 fiancees 2
@@ -4437,7 +4437,7 @@ fleshpot 6
 fitnesses 5
 fellatio 6
 feetfirst 2
-flirtingly 2
+flirtingly 3
 fluency 3
 fingerlings 2
 fibroglioma 5
@@ -4651,7 +4651,7 @@ fractonimbus 6
 fivesome 4
 flaubertian 2
 flashproof 2
-famacide 5
+famacide 6
 frivoling 6
 futharcs 4
 filmgoer 5
@@ -5609,7 +5609,7 @@ flammulation 4
 froebelist 2
 frillier 3
 fanaticized 1
-forefeel 3
+forefeel 4
 fossilation 1
 formulary 2
 fuming 5
@@ -9593,7 +9593,7 @@ favouress 1
 fribbler 4
 fuseless 5
 frecklier 4
-feudalizing 3
+feudalizing 4
 findfault 2
 fullers 3
 foliated 2
@@ -9857,7 +9857,7 @@ firedamps 4
 fragmentary 3
 fattens 5
 foredooming 4
-fleck 4
+fleck 5
 faddist 3
 farmage 2
 foamy 3
@@ -10712,7 +10712,7 @@ fruitstalk 1
 fg 6
 fusel 4
 foreset 1
-foresheets 2
+foresheets 3
 fleuretty 2
 fortuneless 4
 fringilla 4
