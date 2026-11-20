@@ -1638,7 +1638,7 @@ agrostologist 2
 aneling 1
 accouterment 1
 arsenotungstic 2
-acemetic 1
+acemetic 2
 attouchement
 accoutre
 aminobenzamide 4
@@ -1733,7 +1733,7 @@ accumbent 3
 accumulating 3
 anthracomartian
 atomise
-agony
+agony 1
 agrestis 2
 artiest
 accumulation 3
@@ -7973,7 +7973,7 @@ aristippus 1
 aleppo
 alerce 1
 alerse
-agglutinates
+agglutinates 1
 alerta
 anorak
 annually 1
@@ -9256,7 +9256,7 @@ alocasia 2
 aribine 2
 aretaics 1
 alodialism
-aerophagist 1
+aerophagist 2
 alodialist
 autodialers 3
 archdeaconry 2
@@ -12391,7 +12391,7 @@ assisi
 andian
 automatable
 angakut
-anding 1
+anding 2
 angiosarcoma 1
 alternateness 2
 apophysial 1
@@ -12810,7 +12810,7 @@ angiocarpous
 anaunter
 apardon 1
 aubergine
-angiodermatitis 1
+angiodermatitis 2
 angiodiascopy 1
 allegiare
 angiogeny 1
@@ -13973,7 +13973,7 @@ antiprestidigitation 1
 adnex 2
 acetophenin 1
 anamniota 1
-aquarians 1
+aquarians 2
 anergic 1
 amzel 4
 antagonism 2
@@ -14263,7 +14263,7 @@ arent 2
 anisaldehyde 2
 arbuscula 1
 ananter 2
-anteroinferior
+anteroinferior 1
 askewgee 1
 antipart 2
 anterointernal 1
@@ -17347,7 +17347,7 @@ antagonist 2
 aglycosuric
 anatiferous 1
 apostleship 1
-abaisse 2
+abaisse 3
 apostleships 2
 appeacher
 agmas 2
@@ -18981,7 +18981,7 @@ ambagiousness
 alphabetary 1
 archaeostomatous 1
 ageratum 1
-archival
+archival 1
 atopic 2
 archiver 1
 archjockey 2
@@ -24585,7 +24585,7 @@ ammonea 3
 argentarius 3
 anachorism 6
 auxotonic 2
-annihilator
+annihilator 1
 auxotroph 5
 aul 2
 auxotrophy 1
