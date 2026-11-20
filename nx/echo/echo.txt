@@ -9019,7 +9019,7 @@ ephesine 1
 emlen 2
 eleoplast 1
 endothermic 4
-exocyclic 2
+exocyclic 3
 equiglacial 1
 episcenium
 eperotesis 1
@@ -11147,7 +11147,7 @@ everly 3
 exclaimer 1
 embanked 1
 eutrophication 4
-externalised 7
+externalised 8
 expiating 2
 eutropous 2
 evocation 2
