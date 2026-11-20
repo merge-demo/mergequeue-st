@@ -3970,7 +3970,7 @@ empanelling 5
 exoduses 8
 empanels
 enfamish 5
-ecumene 4
+ecumene 5
 emparchment 2
 exaltative 3
 enruin 5
@@ -5907,7 +5907,7 @@ enhelm 3
 elysia 2
 espalier 4
 effluviography 3
-enslaving
+enslaving 1
 educatee 2
 enjoyably 5
 enhypostasia 4
@@ -10285,7 +10285,7 @@ escorial 2
 emulsifiability 1
 ethylamine 2
 extralite 3
-epirote 1
+epirote 2
 elevatedly 4
 elapses
 emmer 2
