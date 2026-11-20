@@ -14883,7 +14883,7 @@ anticyclic 2
 arrondi 4
 accessioner
 alife
-anticyclical
+anticyclical 1
 amorously 1
 anticyclogenesis 4
 anticyclolysis 1
