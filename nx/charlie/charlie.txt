@@ -4593,7 +4593,7 @@ carnivals
 carnivoral
 carnivore 1
 carnivorism 1
-cordialness 2
+cordialness 3
 carnivorously 1
 comart 1
 carnivorousness 1
@@ -20907,7 +20907,7 @@ compregnate 1
 coart 2
 colonnades
 carbarn 1
-cheesiness 1
+cheesiness 2
 comprehender 2
 carnivallike 1
 comedos 2
@@ -31077,7 +31077,7 @@ countersunk 1
 cumulene 1
 cossacks 3
 clinked 2
-cynophile
+cynophile 1
 clearers 2
 ciselure
 cumuli
