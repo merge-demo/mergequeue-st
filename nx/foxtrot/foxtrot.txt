@@ -3634,7 +3634,7 @@ flook 3
 farmable 2
 fridstool 2
 flashing 6
-faintishness 1
+faintishness 2
 fielder 8
 floatsman 2
 froglets 5
