@@ -79,7 +79,7 @@ depressibility 5
 debilitating 2
 dactylion 2
 dobbin 3
-damning 4
+damning 5
 direcly 1
 deescalating 4
 dumb 4
@@ -536,7 +536,7 @@ deliber 1
 decrown 2
 dainty
 dao 1
-damagers
+damagers 1
 damalic
 dextrorotation 4
 demobilized 3
@@ -2534,7 +2534,7 @@ drailing 2
 declaredly 1
 declares 5
 disgout 1
-diplococcus
+diplococcus 1
 differently 2
 dwined 1
 declasses 5
@@ -3608,7 +3608,7 @@ distentions 3
 degerms 3
 dinus 3
 douzeper 1
-deontological 2
+deontological 3
 degging 1
 devices 1
 deglamorizing
