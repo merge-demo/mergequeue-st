@@ -2471,7 +2471,7 @@ coacervation
 cancrid 1
 cruzeiro 2
 capelline 3
-cancrine 2
+cancrine 3
 cicatrix
 carpers 1
 coffeeberry 1
@@ -7789,7 +7789,7 @@ cichloid 3
 cemetaries
 cerviciplex
 cervicispinal 3
-cervicitis
+cervicitis 1
 cervicoauricular 3
 cobitis
 cervicobuccal
@@ -25971,7 +25971,7 @@ cortisol 4
 cortisols
 cortlandtite
 comagistracy
-caulotaxy
+caulotaxy 1
 chechako 2
 corton 2
 cacoeconomy
