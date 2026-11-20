@@ -19305,7 +19305,7 @@ critically
 colonies 1
 colonisability 2
 colonisable 1
-clinid
+clinid 1
 consumingness 2
 colonisationist 3
 colonised 2
