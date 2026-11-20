@@ -3593,7 +3593,7 @@ fardels 4
 flank 3
 fructification 1
 felinity 2
-floorway 3
+floorway 4
 files 3
 filesniff 5
 freijo 5
@@ -4971,7 +4971,7 @@ frenulum 3
 forehinting 2
 flyway 2
 feebleheartedly 8
-flanch 3
+flanch 4
 farcemeat 1
 formalize 3
 ferrugination 5
@@ -5030,7 +5030,7 @@ fallows 2
 flutes 1
 flatbeds 5
 flanneling 1
-floush 3
+floush 4
 fungoidal 3
 ferries 5
 fumatory 1
