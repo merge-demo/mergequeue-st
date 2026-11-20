@@ -843,7 +843,7 @@ abruptness 3
 apptd 2
 ambilogy 1
 algarot
-authoritatively 4
+authoritatively 5
 additur 1
 abstruse 3
 ammiral
@@ -1735,7 +1735,7 @@ anthracomartian
 atomise
 agony 1
 agrestis 2
-artiest
+artiest 1
 accumulation 3
 aetat 1
 accumulativ 2
@@ -4541,7 +4541,7 @@ arundo 2
 adventured 2
 adventuresome 1
 agyrate 1
-aprocta 2
+aprocta 3
 adventuresomes
 adventuress 4
 adventuresses 3
@@ -5301,7 +5301,7 @@ anticlinal
 anapophysial
 ammonifier 2
 affine 1
-antiatheistically 3
+antiatheistically 4
 affined 1
 affinely 3
 acromiodeltoid 2
@@ -8362,7 +8362,7 @@ animadversive 2
 alimentariness
 alimentation 1
 alimentativeness
-arsenium 1
+arsenium 2
 alimented 2
 alimentic
 alabandite
@@ -9122,7 +9122,7 @@ animastic 2
 asterolepis
 allurement 2
 aerosat 2
-apprend
+apprend 1
 anemonin 2
 antitheologian 3
 abdicator 2
@@ -12195,7 +12195,7 @@ anthropophysite 3
 ailie 1
 aglobulia 2
 auxinic 1
-anatreptic
+anatreptic 1
 androdynamous 3
 agendas 2
 accoucheuse 2
@@ -17039,7 +17039,7 @@ automorphic 1
 apochromatism
 archimorula
 astrophotometry 2
-albus 5
+albus 6
 ascitic 1
 auriscalp 1
 apocynthion 2
@@ -19163,7 +19163,7 @@ aggravated 2
 antispastic 3
 adjiger
 allentiac 1
-accessorized 4
+accessorized 5
 attendances 1
 abusable 2
 antepretonic
@@ -19518,7 +19518,7 @@ accelerated 2
 adward 1
 antimaterialism 1
 acetonic 3
-adventist
+adventist 1
 agrological 1
 anoles 1
 authenticness 3
@@ -20873,7 +20873,7 @@ aconitin 2
 arachnidism 1
 avalvular 1
 arcate 2
-antiparasitically 1
+antiparasitically 2
 acetose 3
 ashiver
 atherosperma 1
@@ -21075,7 +21075,7 @@ anteposthumous
 architectures 3
 acalypha 2
 auricularia 1
-attachedly
+attachedly 1
 amblygon
 ascogone
 abstinency
@@ -24613,7 +24613,7 @@ aumaga
 ammobium 2
 ambergrease 1
 actinophryan
-apotheosize 2
+apotheosize 3
 amantadine 2
 associateship 2
 avalanches 1
@@ -24860,7 +24860,7 @@ ascidioida
 avolitional
 avouch 2
 avouchable 6
-atmosphere 2
+atmosphere 3
 anaptyxis 4
 alands 1
 animates 2
