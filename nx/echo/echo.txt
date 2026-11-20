@@ -9609,7 +9609,7 @@ effervescible 7
 ewer 1
 endoblast 2
 encense 2
-entangleable 2
+entangleable 3
 equipper 1
 entia 1
 epenthesize 5
@@ -11921,7 +11921,7 @@ ennui 3
 enunciatively 1
 epimenidean 4
 eucalyptic 3
-excalation
+excalation 1
 earlobes 6
 exceptiousness 3
 expectations 4
