@@ -167,7 +167,7 @@ backfield 3
 baccaceous
 bunchiest 2
 boroughwide
-bipacks
+bipacks 1
 bulwark 3
 boh 2
 begladded 1
@@ -1660,7 +1660,7 @@ bailiffship 2
 baronage 1
 byelorussians 1
 ballottines
-bathwort
+bathwort 1
 ballpark 1
 brasquing
 bandi 2
@@ -2183,7 +2183,7 @@ burnishes 2
 bediapered 1
 brutism 3
 baptising 3
-barleyhood 4
+barleyhood 5
 bandsaw 1
 bulling 2
 baptisms 2
@@ -8281,7 +8281,7 @@ biogenesist 2
 butterflyfish 2
 biblists 2
 beak 2
-bookling 2
+bookling 3
 burden 5
 buccinal 3
 byzantinism 5
@@ -10943,7 +10943,7 @@ blinkards 2
 benedictionary 2
 bowses 3
 basta 3
-bartonia 3
+bartonia 4
 brooms 2
 beadroll 2
 blinker 2
@@ -11767,7 +11767,7 @@ bowstring 2
 bobsleded 1
 bigeyes
 bacteriopurpurin 4
-barrens 3
+barrens 4
 bucephala
 biology 1
 beringleted 3
@@ -13614,7 +13614,7 @@ backstone 2
 boulimia 3
 berate 1
 bornyl 3
-bailiffry 3
+bailiffry 4
 biurate 4
 bodying 1
 besand 1
@@ -14433,7 +14433,7 @@ brainpan 1
 brainpans 1
 bandaid 2
 bisley 3
-bodeword 5
+bodeword 6
 blastulas 2
 blighting 2
 blabs 2
