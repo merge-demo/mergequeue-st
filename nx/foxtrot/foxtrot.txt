@@ -1937,7 +1937,7 @@ freight 3
 furling 5
 fileable 4
 friable 3
-froze 3
+froze 4
 floccule 9
 flaring 1
 finagling 3
@@ -5609,7 +5609,7 @@ flammulation 4
 froebelist 2
 frillier 3
 fanaticized 1
-forefeel 3
+forefeel 4
 fossilation 1
 formulary 2
 fuming 5
