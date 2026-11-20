@@ -1610,7 +1610,7 @@ accost 2
 arbuscule 1
 aecidium 1
 aristolochine 1
-antiketogenic 2
+antiketogenic 3
 anthrop 2
 amatorian 1
 accouche 1
@@ -5335,7 +5335,7 @@ axon 2
 astipulate 1
 astrid 1
 anatman 1
-americanoid
+americanoid 1
 affixed 2
 anoesia
 apophantic 3
@@ -8484,7 +8484,7 @@ antibug
 alkaliser 1
 adjoint
 angustate 3
-abdomens
+abdomens 1
 adaptable 1
 alacreatinine 1
 alkalizer 2
@@ -10416,7 +10416,7 @@ amphicarpa
 avocados 1
 aliment 2
 americophobe 2
-archikaryon 1
+archikaryon 2
 alberttype 3
 amerimnon 1
 analysing 3
@@ -19435,7 +19435,7 @@ anlaute 2
 aphelilions 1
 allottees 3
 archaean 1
-astrophysics 3
+astrophysics 4
 argify 2
 argyle 2
 autocarpian
