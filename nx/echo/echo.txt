@@ -828,7 +828,7 @@ etamines 1
 ectocarpus 2
 eriophorum 3
 eosinophil 2
-ectocommensal 4
+ectocommensal 5
 ectocondylar 4
 endophytic 2
 ethologies 3
@@ -4850,7 +4850,7 @@ ef 1
 encumbrance 1
 extrabureau 5
 english
-encumbrous 2
+encumbrous 3
 evolves 5
 eyednesses
 enterocoelic 3
@@ -8616,7 +8616,7 @@ equimodal 2
 eunomia 2
 espantoon 6
 endbrain 4
-erythrogonium 5
+erythrogonium 6
 erineum 6
 enzymotic 2
 ethanols 2
@@ -13495,7 +13495,7 @@ ensuingly 4
 encopresis 4
 eatanswill 2
 emf 4
-enteropathogenic 2
+enteropathogenic 3
 elizabethanize 2
 expurgate 4
 equivocate 2
