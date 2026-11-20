@@ -802,7 +802,7 @@ bicetyl 3
 beeline 1
 bibliotherapy 1
 bethorn 3
-blackout 2
+blackout 3
 basilidan 3
 building 4
 baedekerian 4
@@ -13664,7 +13664,7 @@ bhumidar 2
 bouquetiere 2
 bladder
 blab
-baud
+baud 1
 babery 1
 bande 2
 binocs 3
@@ -15984,7 +15984,7 @@ bethrall 3
 birota 1
 bronchoalveolar 1
 bronchoblennorrhea 1
-backwoodsmen
+backwoodsmen 1
 bedlamising 1
 bungee 1
 bogsucker 1
