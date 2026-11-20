@@ -843,7 +843,7 @@ abruptness 3
 apptd 2
 ambilogy 1
 algarot
-authoritatively 4
+authoritatively 5
 additur 1
 abstruse 3
 ammiral
@@ -856,7 +856,7 @@ apparelling 2
 asexualized 3
 absalom 4
 ambisinistrous
-absampere 3
+absampere 4
 alalunga 1
 awanting 5
 ambiguities 6
@@ -1491,7 +1491,7 @@ acclimatisation 6
 affixable 4
 archaisms 2
 amortize 1
-acclimatise 6
+acclimatise 7
 acclimatiser 4
 acclimatising 1
 aegagrus 1
@@ -3568,7 +3568,7 @@ addn 3
 acknowledgements
 addr 2
 allotheistic 1
-actinography 3
+actinography 4
 awner 1
 azores 2
 addressable
@@ -5489,7 +5489,7 @@ arrange 1
 archest 1
 abstractionism 1
 assegai 1
-afrikanderdom
+afrikanderdom 1
 ascher 1
 afrit 1
 attacher 1
@@ -6245,7 +6245,7 @@ awardable 2
 aurorae 3
 azygoses 2
 ascendency 1
-angiomas 1
+angiomas 2
 acetnaphthalide 1
 avirulent
 amazing 1
@@ -8322,7 +8322,7 @@ artefac 2
 aselli
 aliethmoid 2
 axonal 1
-abacay 1
+abacay 2
 auks 2
 applicatorily 1
 andropetalous 4
@@ -16311,7 +16311,7 @@ antiroyal 2
 aspire
 anthropophuism
 anthropologists 3
-advocatory
+advocatory 1
 anticipatorily
 absurdism
 antitoxic 1
@@ -18537,7 +18537,7 @@ addresses 3
 araneina
 acceptees 2
 austrophile
-arboricoline 1
+arboricoline 2
 anhelose 2
 arboricolous 2
 arboriculture 2
@@ -19518,7 +19518,7 @@ accelerated 2
 adward 1
 antimaterialism 1
 acetonic 3
-adventist
+adventist 1
 agrological 1
 anoles 1
 authenticness 3
@@ -20744,7 +20744,7 @@ antipragmatically
 arroya
 ambach 1
 artificialism 1
-amesaces 2
+amesaces 3
 artificialities 1
 artillery 2
 artilleries 2
@@ -21115,7 +21115,7 @@ ascribable 2
 ahum 1
 agrobiologically 3
 antidogmatical 1
-ascribe 1
+ascribe 2
 artificer 1
 ascriptions
 abuttal 3
@@ -23397,7 +23397,7 @@ adventurist 1
 aglossia 1
 audiencia
 aerobacters 1
-adient 2
+adient 3
 antimephitic 1
 antefix
 arteriopathy 1
@@ -24613,7 +24613,7 @@ aumaga
 ammobium 2
 ambergrease 1
 actinophryan
-apotheosize 2
+apotheosize 3
 amantadine 2
 associateship 2
 avalanches 1
