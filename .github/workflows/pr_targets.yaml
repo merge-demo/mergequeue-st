@@ -5,6 +5,7 @@ on: pull_request
 permissions:
   contents: read
   pull-requests: read
+  checks: read
 
 jobs:
   # The Dynamic CI fan-out gate, so compute_pr_targets can be set to Run Before Queue in Trunk (staging).
@@ -15,12 +16,8 @@ jobs:
     if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
     outputs:
       compute_pr_targets: ${{ steps.ci-filter.outputs.compute_pr_targets }}
+    # No checkout: a full-history clone of this repo outlasts the job, and the action reads the PR's files through the API.
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          filter: blob:none
-
       - name: Run Dynamic CI Filter
         id: ci-filter
         uses: trunk-io/dynamic-ci@v1
