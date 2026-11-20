@@ -682,7 +682,7 @@ abominators 1
 abomine 2
 abondance
 aimara
-abysmal
+abysmal 1
 apostrophation 1
 abonnement
 artesian
@@ -5439,7 +5439,7 @@ anacreon 1
 aflower 1
 appaume 2
 albuminised 1
-annexionist 2
+annexionist 3
 acrorhagus 2
 afluking 3
 adjutrix 2
@@ -18620,7 +18620,7 @@ archaeocyathidae
 automate 1
 agropyron 1
 automats 2
-alethiology 2
+alethiology 3
 antisepsis 1
 acarophilous 2
 acini 2
