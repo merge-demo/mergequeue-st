@@ -1145,7 +1145,7 @@ belonesite 1
 bairns 1
 bootful 3
 berne 3
-banquets 3
+banquets 4
 babakoto 2
 backwall 3
 borates 4
@@ -1974,7 +1974,7 @@ bisection 2
 bagnio 2
 balances 1
 bandstring
-bathymetric 5
+bathymetric 6
 brandishes 1
 bigeye 6
 believes 1
@@ -2583,7 +2583,7 @@ bronzesmith 5
 burling 4
 banzai 3
 baris 2
-bodefulness 1
+bodefulness 2
 bromating 5
 behowls 2
 babiroussa 3
@@ -2950,7 +2950,7 @@ bracketed 1
 barrelwise 1
 barretor 2
 bloodybones 2
-billowed 2
+billowed 3
 bonus 1
 beath 3
 battalias 2
@@ -3273,7 +3273,7 @@ binormal 3
 bitumens
 bolted 2
 basinal
-brazil 2
+brazil 3
 bushland 1
 broader 2
 boniform 4
@@ -11843,7 +11843,7 @@ bard 3
 briareus 3
 browbeater 1
 bulrushlike 2
-bootlegging
+bootlegging 1
 banking 5
 bodybuilding
 budgerigar 4
@@ -17471,7 +17471,7 @@ buntine 5
 brawlie 3
 bipinnatiparted 2
 buplever 3
-buprestidae 3
+buprestidae 4
 brutus 2
 backspins 4
 berzelianite 2
