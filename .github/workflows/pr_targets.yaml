@@ -2,11 +2,40 @@ name: Upload Impacted Targets
 run-name: pr targets for ${{ github.ref_name }}
 on: pull_request
 
+permissions:
+  contents: read
+  pull-requests: read
+
 jobs:
+  # The Dynamic CI fan-out gate, so compute_pr_targets can be set to Run Before Queue in Trunk (staging).
+  dynamic-ci-filter:
+    name: Dynamic CI Filter
+    runs-on: ubuntu-slim
+    timeout-minutes: 5
+    if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
+    outputs:
+      compute_pr_targets: ${{ steps.ci-filter.outputs.compute_pr_targets }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          filter: blob:none
+
+      - name: Run Dynamic CI Filter
+        id: ci-filter
+        uses: trunk-io/dynamic-ci@v1
+        with:
+          token: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+        env:
+          TRUNK_PUBLIC_API_ADDRESS: https://api.trunk-staging.io
+
   compute_pr_targets:
     name: compute_pr_targets
     runs-on: ubuntu-slim
-    if: ${{ !startsWith(github.event.pull_request.title, 'trunk-merge/') }}
+    needs: [dynamic-ci-filter]
+    if: >-
+      !cancelled() && !startsWith(github.event.pull_request.title, 'trunk-merge/') &&
+      needs.dynamic-ci-filter.outputs.compute_pr_targets != 'false'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -85,8 +114,8 @@ jobs:
         uses: trunk-io/merge-action@752cadfa168ce011c0fa396f4cbc6159ea445c02
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
-          steps.get-demo-config.outputs.build == 'bazel' &&
-          steps.quick-check.outputs.shortcut != 'true'
+          steps.get-demo-config.outputs.build == 'bazel' && steps.quick-check.outputs.shortcut !=
+          'true'
         with:
           trunk-token: ${{ steps.get-trunk-token.outputs.token }}
           bazel-workspace-path: bazel
@@ -98,8 +127,8 @@ jobs:
       - name: nx pr targets
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
-          steps.get-demo-config.outputs.build == 'nx' &&
-          steps.quick-check.outputs.shortcut != 'true'
+          steps.get-demo-config.outputs.build == 'nx' && steps.quick-check.outputs.shortcut !=
+          'true'
         uses: ./.github/actions/nx-pr-targets
         with:
           trunk-token: ${{ steps.get-trunk-token.outputs.token }}
@@ -110,8 +139,8 @@ jobs:
       - name: turbo pr targets
         if:
           steps.get-demo-config.outputs.mode == 'parallelqueue' &&
-          steps.get-demo-config.outputs.build == 'turbo' &&
-          steps.quick-check.outputs.shortcut != 'true'
+          steps.get-demo-config.outputs.build == 'turbo' && steps.quick-check.outputs.shortcut !=
+          'true'
         uses: ./.github/actions/turbo-pr-targets
         with:
           trunk-token: ${{ steps.get-trunk-token.outputs.token }}
