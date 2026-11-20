@@ -11,15 +11,17 @@ email = "bot@trunk.io"
 [test]
 flake_rate = 0.1
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "5m"
+sleep_for = "2m"
 
 [pullrequest]
-labels = ""                     # label to apply to pull request on creation (comma separated list)
+labels = "" # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 80         # target number of pull requests per hour
+requests_per_hour = 280 # target number of pull requests per hour
 run_generate_for = "30 minutes"
 change_code_path = "nx"
-protected_branches = ["main"] # set protected_branches to automate generation on one or many branches
+protected_branches = [
+  "main",
+] # set protected_branches to automate generation on one or many branches
 
 # how to distribute changes of impacted deps
 # 55% - 1 dep change
@@ -40,7 +42,7 @@ stacks_distribution = "0.75x1,0.20x2,0.05x3"
 logical_conflict_every = 90
 logical_conflict_file = "logical-conflict.txt"
 
-close_stale_after = "48 hours"
+close_stale_after = "12 hours"
 
 [merge]
 # trigger = "api"
