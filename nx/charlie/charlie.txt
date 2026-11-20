@@ -452,7 +452,7 @@ cactoid 1
 combind 1
 crocodilean 2
 chesteine 2
-coonily 1
+coonily 2
 cactus 3
 copying 1
 civilisable 3
@@ -2179,7 +2179,7 @@ campholic 2
 compilatory
 coleorhiza 3
 camphols
-contemnor 1
+contemnor 2
 centroids
 camphorated
 camphorates 2
@@ -4575,7 +4575,7 @@ carniferrin 1
 colorcast 2
 carnifex 2
 carnifexes 1
-cationic
+cationic 1
 centillionth 1
 carnification
 carnificial 3
@@ -6038,7 +6038,7 @@ ctenodontidae
 catholicize 2
 corotating 1
 catholicness 3
-centricipital 1
+centricipital 2
 catholicoi 1
 chawia 2
 cytomorphological
@@ -11470,7 +11470,7 @@ chocoan 2
 chocolate 4
 chocolatey 2
 chine 1
-chocolates 2
+chocolates 3
 chocolatiere 1
 concentred
 choctaw 1
@@ -14970,7 +14970,7 @@ cenobium 1
 climant 1
 carbonium
 concords 2
-citronalis 2
+citronalis 3
 comparison
 contraposed 1
 citronellol 1
@@ -18767,7 +18767,7 @@ colchicum 2
 catostomid 2
 clavichords
 colchis 1
-crispily
+crispily 1
 catadioptric 1
 cochaired 1
 chitty 1
@@ -25369,7 +25369,7 @@ corncutter 1
 corndodger 2
 cornea 1
 corneal 3
-corneas 2
+corneas 3
 chiurm 3
 cheddaring
 cornel 1
@@ -29948,7 +29948,7 @@ contrahent
 crossovers 2
 chokebore
 cardiataxia 1
-concern 1
+concern 2
 crosspath 4
 clawk 5
 crosspoint
@@ -30322,7 +30322,7 @@ crunchiest
 crunchiness 1
 crunching
 crunchingly 1
-crunchweed
+crunchweed 1
 causewayman
 crunkle 1
 cabombas 3
@@ -31574,7 +31574,7 @@ curtein 2
 chilion 1
 climbers 2
 curteous 2
-curter
+curter 1
 curtesies 1
 curtilage
 curtsied 2
@@ -31728,7 +31728,7 @@ consort 1
 cusswords 1
 calorizer 2
 capernoitie 2
-carian
+carian 1
 custerite
 custodee
 custodians
