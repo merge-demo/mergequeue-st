@@ -4825,7 +4825,7 @@ carport
 carpos 1
 chibouk 2
 carposporangial
-catalase
+catalase 1
 carlist 2
 carposporous
 carpsucker 1
@@ -10872,7 +10872,7 @@ cobishop 2
 cometic 1
 chloralose 1
 canzoni 2
-chippie
+chippie 1
 chippier 1
 chippies 1
 collyba
@@ -16943,7 +16943,7 @@ chartism
 clupeid
 cosignitary 1
 clupeids
-creatureliness 1
+creatureliness 2
 classis
 cachalot 1
 caviar 1
@@ -29954,7 +29954,7 @@ clawk 4
 crosspoint
 crossroad 1
 cokneyfy 3
-cobwebs 1
+cobwebs 2
 cardinals
 cammocky 1
 colyumist 3
