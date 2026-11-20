@@ -785,7 +785,7 @@ forcible 1
 frisk 6
 fowl 4
 fermate 3
-frizado 1
+frizado 2
 frowsy 4
 flypast 4
 forgedly 2
@@ -1628,7 +1628,7 @@ fdnames 3
 farmhands 6
 fundamentalists 2
 forthcut 3
-fluible 2
+fluible 3
 fireworm 5
 faddisms 3
 flamboyantly 4
@@ -2529,7 +2529,7 @@ feverlike 5
 frondescent 4
 ferrelling 3
 fluorine 6
-footropes 5
+footropes 6
 fiatconfirmatio 3
 fanam 5
 feeler 2
@@ -5261,7 +5261,7 @@ fills 3
 fstore 4
 fissiped 2
 flavoured 2
-fondant 3
+fondant 4
 flavourful 5
 flexionless 4
 fieldy 3
@@ -5812,7 +5812,7 @@ fumeroot 3
 fastigium 5
 foreswearing 4
 filmer 4
-flittermouse 4
+flittermouse 5
 fellowship 3
 fathmur 5
 flitters 5
@@ -7173,7 +7173,7 @@ fifteener 5
 fumarases 2
 foremind 1
 flukewort 1
-foothalt 7
+foothalt 8
 filths 2
 flagfish 5
 fend 4
@@ -7949,7 +7949,7 @@ fractals 5
 foreshadow 4
 filibustering
 frisket 5
-forgivenesses 2
+forgivenesses 3
 foreshadowed 4
 featherman 5
 frizer 5
@@ -9299,7 +9299,7 @@ fascinery
 frontispieced 4
 fraktur 2
 fasciolet 1
-fresnel 6
+fresnel 7
 flavoury 7
 foresentence 2
 fetishist 3
@@ -11489,7 +11489,7 @@ formular 4
 fuzzle 5
 ferrite 2
 foredescribe 4
-farms 2
+farms 3
 facilities 5
 figural 6
 finnmarks 3
