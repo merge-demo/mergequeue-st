@@ -1746,7 +1746,7 @@ botan 1
 borealis 1
 brachypyramid
 broon 1
-byline 1
+byline 2
 brawlis 1
 boutonniere 2
 breathiness 2
@@ -2705,7 +2705,7 @@ benightment
 barnbrack 2
 betweenbrain 1
 berrigan 2
-bicaudal 2
+bicaudal 3
 beelzebub
 barneys 2
 bourr 3
@@ -8752,7 +8752,7 @@ bimotors 1
 belonged 4
 bruisers 3
 bosc 3
-becrippling 3
+becrippling 4
 beagling 1
 behests 5
 behowling 1
@@ -9202,7 +9202,7 @@ bromcamphor 1
 bruja 3
 biotome
 brothered 3
-biotransformation 1
+biotransformation 2
 birdnest 1
 biotron 1
 beauetry 2
@@ -9708,7 +9708,7 @@ bismuthate
 becurl 3
 burhinus 1
 birchbark 2
-bismuthide 2
+bismuthide 3
 beneficing 3
 bezzled
 beeping
@@ -10541,7 +10541,7 @@ blastosphere 1
 balanus 1
 bromal 2
 buttonhold 3
-belligerent 4
+belligerent 5
 braise
 badasses 1
 blastula 3
@@ -12458,7 +12458,7 @@ b 1
 barde 2
 bells 1
 boukit 3
-bescrawl 1
+bescrawl 2
 booklists
 bisymmetrically 2
 bicameralism 1
@@ -14218,7 +14218,7 @@ bilification 3
 bald
 bullring 3
 bejelled 2
-bradyauxetically 1
+bradyauxetically 2
 bebog 1
 boomboat 1
 bantin 4
@@ -16451,7 +16451,7 @@ bogy 1
 bumicky
 brushback
 butt 1
-bladesmith 1
+bladesmith 2
 buttonholder 1
 botas 2
 bouffage 2
@@ -17084,7 +17084,7 @@ buttery 3
 brokerages 3
 bellonian
 bulldoggedness 3
-bearder
+bearder 1
 bulldogging 4
 bowly
 beadswoman 2
