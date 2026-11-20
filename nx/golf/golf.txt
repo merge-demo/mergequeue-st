@@ -3781,7 +3781,7 @@ greave 3
 gawkishness 1
 gameball 3
 gantlets 5
-gastroenterotomy 5
+gastroenterotomy 6
 giver 4
 ground 8
 gids 6
@@ -6685,7 +6685,7 @@ goosey 3
 goup 2
 galvayning 3
 geropiga 4
-gypsine
+gypsine 1
 gaolbird 3
 guid 1
 gonid 1
