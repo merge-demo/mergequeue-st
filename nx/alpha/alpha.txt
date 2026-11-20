@@ -8660,7 +8660,7 @@ asterias 2
 abrine
 accentuates 1
 antiexpressiveness 1
-antibishop 1
+antibishop 2
 agametes 2
 autistic 1
 anotropia 2
@@ -9173,7 +9173,7 @@ almandines 2
 aldime 1
 agalactous 3
 antiputrefaction 1
-averter 4
+averter 5
 animations 3
 apollonistic 1
 almemars 1
@@ -9643,7 +9643,7 @@ assument 1
 amygdaliform 1
 abominates 1
 arachnoid
-anaglyptography
+anaglyptography 1
 atonalist 1
 aluminate 4
 archicontinent
@@ -23476,7 +23476,7 @@ augerer 1
 antireformer 2
 augers
 auget
-autocomplexes
+autocomplexes 1
 augh 1
 algebraists 1
 astringer 3
@@ -23864,7 +23864,7 @@ autarchies 1
 autarchist 4
 acalypterae
 autarkies 2
-aeromaechanic 1
+aeromaechanic 2
 allosaurus 1
 anisostichus 2
 andoke 2
