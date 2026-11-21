@@ -3303,7 +3303,7 @@ enclose 2
 euplastic 1
 emanational 2
 extrapelvic 4
-enosist
+enosist 1
 eobiont 3
 enthraller 2
 emanatism 1
@@ -3657,7 +3657,7 @@ embrica 1
 embryectomy 5
 earlet 4
 endogonidium 5
-embright 2
+embright 3
 entombment 2
 euploids 4
 eruptiveness 4
@@ -4316,7 +4316,7 @@ enamouredness 3
 eneclann 5
 expostulator 2
 eulogistical 4
-espouse 2
+espouse 3
 espichellite 3
 espadrille 1
 enamours 3
@@ -6863,7 +6863,7 @@ exarchal 2
 esocidae 3
 elasticize 2
 escudos 2
-embonpoint 2
+embonpoint 3
 ephoric 3
 exuviable 2
 ebullitive 1
@@ -10266,7 +10266,7 @@ entrust 7
 earlap 3
 embroiled 2
 excluded 1
-enspangle 2
+enspangle 3
 effodientia 5
 elasticizer 3
 eulogium 6
@@ -10535,7 +10535,7 @@ eudaemony
 eurithermophilic 3
 eucharistic 3
 eucharistically 4
-ephthalite 4
+ephthalite 5
 enswathed 3
 eucharists 2
 exorcises 4
@@ -14082,7 +14082,7 @@ epilobiaceae 1
 encephalomata 6
 enfect 3
 effortfulness 2
-errantry 3
+errantry 4
 entoplastral 4
 epigastral 5
 embryoscopic 4
