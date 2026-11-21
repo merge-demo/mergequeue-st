@@ -167,7 +167,7 @@ backfield 3
 baccaceous
 bunchiest 2
 boroughwide
-bipacks
+bipacks 1
 bulwark 3
 boh 2
 begladded 1
@@ -307,7 +307,7 @@ benthamic 6
 brieflessness 3
 bannerless 3
 butterflying 3
-backbone
+backbone 1
 basal 1
 benzoid 4
 breakableness 3
@@ -1660,7 +1660,7 @@ bailiffship 2
 baronage 1
 byelorussians 1
 ballottines
-bathwort
+bathwort 1
 ballpark 1
 brasquing
 bandi 2
@@ -6414,7 +6414,7 @@ benzil 4
 banewort 3
 benzopyrazolone 4
 barquentine 4
-benzopyrene
+benzopyrene 1
 benzopyrylium 4
 backcourt 1
 breastweed 2
@@ -11361,7 +11361,7 @@ belouke
 bludgeon 3
 bludgeons 3
 bludger 2
-besoothe 3
+besoothe 4
 bescatter
 bewitchedness 1
 benmost 3
@@ -11690,7 +11690,7 @@ blazoners 1
 bosks 3
 boatward 1
 blackboys 1
-boatwright 3
+boatwright 4
 beanfest 5
 bob 2
 biennales
@@ -11767,7 +11767,7 @@ bowstring 2
 bobsleded 1
 bigeyes
 bacteriopurpurin 4
-barrens 3
+barrens 4
 bucephala
 biology 1
 beringleted 3
@@ -12197,7 +12197,7 @@ breek 2
 biasnesses 3
 beedi 5
 barbette 4
-baptist
+baptist 1
 barbarisms 3
 bolivians 2
 bolk 2
@@ -13305,7 +13305,7 @@ blennies 2
 botanic 3
 baltei 4
 bobbery 2
-backlet 1
+backlet 2
 botanica
 bandoleered 2
 bacteriologically 4
@@ -13614,7 +13614,7 @@ backstone 2
 boulimia 3
 berate 1
 bornyl 3
-bailiffry 3
+bailiffry 4
 biurate 4
 bodying 1
 besand 1
@@ -13908,7 +13908,7 @@ botanomancy 1
 bullionism 1
 bows 2
 bootlessness 2
-benzopyran 4
+benzopyran 5
 bankroll 3
 bodkinwise 6
 bacteriotherapy 6
@@ -17541,7 +17541,7 @@ basipoditic
 blowpoint 2
 burweeds 1
 barraged 2
-bassa 2
+bassa 3
 bricklay 1
 bureaucratization 1
 breastpiece 2
