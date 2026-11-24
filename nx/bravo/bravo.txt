@@ -1976,7 +1976,7 @@ balances 1
 bandstring
 bathymetric 6
 brandishes 1
-bigeye 6
+bigeye 7
 believes 1
 bosquets 3
 baahling 5
@@ -10345,7 +10345,7 @@ buxomness 2
 bottomried 1
 billot 2
 bounderish 2
-buffability 3
+buffability 4
 bamboozlers 1
 binarium 1
 boil 4
