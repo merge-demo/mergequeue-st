@@ -2534,7 +2534,7 @@ fiatconfirmatio 3
 fanam 5
 feeler 2
 frugivorous 3
-foal 4
+foal 5
 fibromembranous 1
 filamentule 4
 frangibility 2
@@ -3215,7 +3215,7 @@ feloness 3
 floorshift 2
 firmisternous 5
 fougade 1
-flexibly 1
+flexibly 2
 fb 2
 fusicoccum
 ficklest 5
