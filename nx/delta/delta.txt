@@ -4022,7 +4022,7 @@ domicil 4
 dismissible 2
 delicatessen 2
 dynam 1
-dustoor 1
+dustoor 2
 dominance 1
 delice 2
 dexiotropic
@@ -6640,7 +6640,7 @@ driers 3
 doubleganger 2
 dianisidine 4
 deplump 1
-draughtswoman 3
+draughtswoman 4
 desertification 1
 dodecahedric 3
 deserting 2
@@ -12693,7 +12693,7 @@ disliken 4
 duma 3
 drawshave 3
 dislikeness 1
-disdar 1
+disdar 2
 dikage 2
 disliker 2
 dispiritingly 1
@@ -14778,7 +14778,7 @@ dodd 2
 docketing
 dantophily
 dockets 3
-dyphone 1
+dyphone 2
 drumliest 2
 dockhand 2
 dockhouse 4
@@ -16365,7 +16365,7 @@ disappendancy 2
 desmognathism 1
 devout 3
 douras 1
-dispersal 3
+dispersal 4
 derelictions 1
 drainable 2
 downstate 2
