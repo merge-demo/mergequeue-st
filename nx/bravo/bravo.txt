@@ -1415,7 +1415,7 @@ bepraise 1
 bale 5
 babassu 4
 baleare 3
-bajonado 3
+bajonado 4
 backjoint
 balearica 2
 balebos
@@ -13397,7 +13397,7 @@ bandage 1
 benjamite 5
 bothriocephalus 6
 brosimum 2
-becut
+becut 1
 bothrium 5
 bromothymol 1
 beothuk 3
