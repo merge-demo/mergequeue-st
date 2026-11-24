@@ -9181,7 +9181,7 @@ booklouse
 bruted 3
 banksides 2
 biotins 3
-basics
+basics 1
 beefhead 2
 biogeographer 1
 biotypes 2
@@ -11095,7 +11095,7 @@ biomorphic 1
 builder 2
 billeter 3
 bedwarfs 1
-broil 2
+broil 3
 baobabs 6
 blockmaker 2
 bimmeler 2
