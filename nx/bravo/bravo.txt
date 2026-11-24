@@ -1858,7 +1858,7 @@ beslime 5
 bullose 3
 bialystoker 3
 bandaged 3
-bandaging 1
+bandaging 2
 berylloid
 bowlin 3
 bushranging 2
@@ -5405,7 +5405,7 @@ briquets
 babelic 4
 begulf 3
 blastomycotic 1
-begummed
+begummed 1
 biolite 1
 bowldering 1
 bedin 2
