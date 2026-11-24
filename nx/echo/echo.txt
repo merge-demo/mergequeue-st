@@ -2717,7 +2717,7 @@ estadal 1
 euphrates 3
 eyetooth 1
 electrostenolytic 2
-enceint 2
+enceint 3
 equipotent 4
 electees 3
 edentate 3
@@ -6339,7 +6339,7 @@ eruditely 3
 endoangiitis 4
 ellice 2
 enthrals
-evenfalls
+evenfalls 1
 endangiitis 4
 enshield 3
 endostitis 1
@@ -9669,7 +9669,7 @@ espouser 4
 espouses 2
 espousing 3
 esprit 3
-enterorrhexis 4
+enterorrhexis 5
 esq 7
 existence 6
 exurbs 2
@@ -11464,7 +11464,7 @@ extirpating 2
 encipherment 5
 elucidation 2
 emasculated 1
-engraving
+engraving 1
 evocated 3
 ectonephridium 5
 erinnic 3
