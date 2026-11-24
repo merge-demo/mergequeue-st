@@ -3556,7 +3556,7 @@ dermatotome 2
 drawbeam 2
 dissheathe
 dehwar 1
-defuze 4
+defuze 5
 dakoities 1
 dissociative 1
 degage 4
