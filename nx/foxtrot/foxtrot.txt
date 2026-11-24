@@ -3588,7 +3588,7 @@ flapjacks 1
 fussle 2
 fairbanks 4
 fourniture 2
-flashover 4
+flashover 5
 fardels 4
 flank 3
 fructification 1
@@ -4250,7 +4250,7 @@ flatterers 5
 frenzying 1
 flossing 2
 fission 5
-fundamentalism 2
+fundamentalism 3
 forenoted 3
 foreyard
 fatless 3
@@ -11518,7 +11518,7 @@ forgettingly 4
 fusariosis 1
 flypasts 1
 firebirds 1
-forethoughtless 1
+forethoughtless 2
 fuscin 3
 frictional 5
 fundamentally 3
@@ -11606,7 +11606,7 @@ faradic 6
 fargite 3
 fontinal 5
 fealty 2
-fol 2
+fol 3
 ferrado 3
 fraternal 4
 febrifugal 2
