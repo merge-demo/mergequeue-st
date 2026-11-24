@@ -21060,7 +21060,7 @@ airwaves 1
 asclepiadic 2
 autosender 2
 asclepian
-asclepidin
+asclepidin 1
 asclepidoid 2
 asclepin 1
 approacher 4
@@ -22098,7 +22098,7 @@ alloclasite 1
 apoplexies 2
 adduce 1
 asterisk 3
-antesunrise 3
+antesunrise 4
 artilleryman 1
 anteromedial 4
 arteriorrhagia 3
