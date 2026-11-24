@@ -4022,7 +4022,7 @@ domicil 4
 dismissible 2
 delicatessen 2
 dynam 1
-dustoor 1
+dustoor 2
 dominance 1
 delice 2
 dexiotropic
@@ -6640,7 +6640,7 @@ driers 3
 doubleganger 2
 dianisidine 4
 deplump 1
-draughtswoman 3
+draughtswoman 4
 desertification 1
 dodecahedric 3
 deserting 2
