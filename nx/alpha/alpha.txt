@@ -7706,7 +7706,7 @@ abbrev 1
 alcoholemia 1
 alcoholically 3
 appetition 2
-anaudia
+anaudia 1
 appendicocaecostomy 2
 autoprothesis
 autoconverter 1
@@ -10765,7 +10765,7 @@ abrazo 1
 aethalium 1
 amins 2
 anacrusis 1
-averting 2
+averting 3
 archivists 1
 arthropomatous 2
 auxotox 2
