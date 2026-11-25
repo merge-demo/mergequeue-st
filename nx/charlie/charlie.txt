@@ -9544,7 +9544,7 @@ computational 3
 chapatty
 checkstring
 cuissen 1
-checksum
+checksum 1
 construct
 checksumming
 castro
@@ -23852,7 +23852,7 @@ contribution 3
 chenier 1
 criterium
 cephalob 1
-conopophaga
+conopophaga 1
 contributional 1
 camelman
 contributive
