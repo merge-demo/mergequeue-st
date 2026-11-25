@@ -29820,7 +29820,7 @@ crops
 cropshin 3
 cropsick
 cropweed 1
-calorimeters 1
+calorimeters 2
 casekeeper 1
 criminalese
 cytons 1
