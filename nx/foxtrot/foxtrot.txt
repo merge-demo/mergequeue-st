@@ -371,7 +371,7 @@ filicauline 3
 fall 5
 forbid 3
 fairfieldite 4
-facets 1
+facets 2
 fancifully 3
 fairground 8
 fairy 4
@@ -2110,7 +2110,7 @@ fermentate 4
 fonding 2
 fluming
 feminist 2
-falcate 1
+falcate 2
 fibrocartilage 2
 fundraising 4
 flabbier 3
