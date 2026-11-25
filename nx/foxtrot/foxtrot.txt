@@ -371,7 +371,7 @@ filicauline 3
 fall 5
 forbid 3
 fairfieldite 4
-facets 1
+facets 2
 fancifully 3
 fairground 8
 fairy 4
@@ -572,7 +572,7 @@ fallowist 1
 foretasted 4
 fivefold 3
 floorless 5
-fellon 5
+fellon 6
 foreknows 4
 forpet 2
 fossilisation 3
@@ -1437,7 +1437,7 @@ faubourgs 6
 focussing 3
 fistulose 1
 forestial 4
-featly 4
+featly 5
 faulds 2
 faultfind 2
 fasciculite 2
@@ -2110,7 +2110,7 @@ fermentate 4
 fonding 2
 fluming
 feminist 2
-falcate 1
+falcate 2
 fibrocartilage 2
 fundraising 4
 flabbier 3
@@ -5871,7 +5871,7 @@ funebre 3
 flabby 1
 fastigia 4
 fowlers 5
-flocced 5
+flocced 6
 frustulose 3
 footsoldier 2
 feelingness 4

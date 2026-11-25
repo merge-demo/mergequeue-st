@@ -8279,7 +8279,7 @@ cephalohumeralis 2
 chantress 2
 courtyard 1
 coonskin 1
-complexity
+complexity 1
 carbure 3
 crestfallen
 corallet
@@ -13087,7 +13087,7 @@ cyberculture 4
 crore 2
 cybernate 1
 cybernating 2
-cusks 3
+cusks 4
 ceibos 1
 charming 2
 cg 3
@@ -26981,7 +26981,7 @@ cerebralist
 countermure 4
 carlylese 2
 countermutiny
-counternarrative
+counternarrative 1
 conceded
 chuntering 2
 calabaza

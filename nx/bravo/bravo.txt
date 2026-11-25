@@ -1147,7 +1147,7 @@ bootful 3
 berne 3
 banquets 4
 babakoto 2
-backwall 3
+backwall 4
 borates 4
 botete
 bankman 3
@@ -2741,7 +2741,7 @@ bubastite 1
 backward 2
 beltline 1
 bullbat 1
-brayers 2
+brayers 3
 bismutoplagionite 2
 barolo 1
 bm
@@ -3524,7 +3524,7 @@ bravissimo 4
 bogging 2
 bois
 bitterhearted 1
-bateau 3
+bateau 4
 bateleur 1
 brickel 4
 barbered
@@ -7377,7 +7377,7 @@ betis 2
 byproduct 3
 birdbath 1
 baze 5
-burleys 1
+burleys 2
 bourd 1
 braker 1
 busyworks 1
@@ -11312,7 +11312,7 @@ blowouts 1
 bolled 1
 bedels 1
 blows
-bleachability
+bleachability 1
 boneyard 2
 biologism 2
 bipunctate 2
@@ -12759,7 +12759,7 @@ bookseller 1
 bepreach 1
 burdalone 1
 bucorvinae 1
-bidree 3
+bidree 4
 becloaked 2
 bioelectric 3
 bullneck 3
@@ -12866,7 +12866,7 @@ boon
 brandenburgh 3
 brevifoliate 2
 bibliog 3
-blipped 1
+blipped 2
 boondoggling 4
 banishers 2
 babblish 2
@@ -14410,7 +14410,7 @@ braincase
 blastomycosis 2
 braincraft 6
 buckish 5
-birsle 1
+birsle 2
 bragozzo 4
 befan 1
 brainge 1
@@ -14949,7 +14949,7 @@ bootid 4
 bitthead 4
 breaster 2
 breastfast 1
-bura 4
+bura 5
 bearing 4
 balantidium 3
 baldie 1
@@ -16432,7 +16432,7 @@ bouffes 1
 beboss 1
 bitonal 2
 bruno 1
-barysphere 1
+barysphere 2
 bryanthus
 boroughs 1
 barmiest 3
