@@ -3401,7 +3401,7 @@ decolorisation 4
 disadorn 2
 deflector 4
 devitrifying 1
-deflesh 2
+deflesh 3
 deflexibility 1
 dysgenics 1
 diversely 3
@@ -10071,7 +10071,7 @@ demological 2
 dynamograph
 dauerschlaf 1
 dynamometamorphic 2
-disseverance
+disseverance 1
 dynamometrical 3
 dodipole
 dirls
