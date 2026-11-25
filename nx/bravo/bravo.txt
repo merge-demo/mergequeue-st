@@ -1147,7 +1147,7 @@ bootful 3
 berne 3
 banquets 4
 babakoto 2
-backwall 3
+backwall 4
 borates 4
 botete
 bankman 3
@@ -1356,7 +1356,7 @@ brod
 botrylle 2
 backdrops 3
 butterflyer 4
-borderlands 1
+borderlands 2
 balbusard 2
 beggarliness 3
 burlap 3
@@ -11231,7 +11231,7 @@ bestrapped 3
 blotchiness 3
 buckeye 2
 becudgeled
-beaker 1
+beaker 2
 boder 1
 burkes
 batterfang 2
@@ -11312,7 +11312,7 @@ blowouts 1
 bolled 1
 bedels 1
 blows
-bleachability
+bleachability 1
 boneyard 2
 biologism 2
 bipunctate 2
@@ -17396,7 +17396,7 @@ bungwall 2
 bagre 2
 bacillemia 1
 bejewels 1
-bunyah 2
+bunyah 3
 butoxyl 1
 balsamic 1
 bunyan
