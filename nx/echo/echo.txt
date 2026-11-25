@@ -1061,7 +1061,7 @@ elective 1
 euchred 2
 eisteddfodism 6
 edification 2
-exfigure 4
+exfigure 5
 ectoplasm 3
 exercise 3
 earock
@@ -4045,7 +4045,7 @@ epitheca 6
 elses 3
 enamelers 3
 empyreum 4
-exterminated
+exterminated 1
 empiricalness 3
 engorgement 1
 esquimau 3
@@ -4847,7 +4847,7 @@ electrostenolysis 2
 ensured 7
 entablements 2
 ef 1
-encumbrance 1
+encumbrance 2
 extrabureau 5
 english
 encumbrous 3
@@ -7464,7 +7464,7 @@ everywhence
 escarteled 2
 ephedras 2
 equiradial 2
-episomes 3
+episomes 4
 efficacity 2
 epidermically 4
 extinguised 1
@@ -8237,7 +8237,7 @@ exemplification 5
 epitaxies 3
 epitaxis 2
 ebonizes 1
-epidemicity 3
+epidemicity 4
 epigrammatized 2
 enlife
 ecophobia
