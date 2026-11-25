@@ -17380,7 +17380,7 @@ coatroom 2
 combinability 4
 coatrooms 3
 coattend 3
-coattending 1
+coattending 2
 conductivities 1
 cineangiocardiographic 2
 coattestator
