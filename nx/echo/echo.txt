@@ -981,7 +981,7 @@ excel 1
 enquiring 4
 exorbital 1
 edaphosaurus 4
-explosibility 1
+explosibility 2
 encapsules 3
 eastlins 3
 euthanasic 5
@@ -8213,7 +8213,7 @@ elementaloid 3
 epistolarian 1
 elderhood 3
 escribe 2
-epopoeia
+epopoeia 1
 epochal 3
 eure 3
 epigeic 4
@@ -13028,7 +13028,7 @@ expectorative 5
 ephebos 1
 equipollently 3
 extubate 2
-exhaustingly 4
+exhaustingly 5
 expostulatory
 estive 3
 expeded
