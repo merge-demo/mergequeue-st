@@ -11341,7 +11341,7 @@ enforcively 3
 evapotranspiration 6
 ecaudata 6
 esiphonal 1
-enthalpy
+enthalpy 1
 ergatoid 2
 evenglow 4
 erenach 2
