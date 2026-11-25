@@ -2741,7 +2741,7 @@ bubastite 1
 backward 2
 beltline 1
 bullbat 1
-brayers 2
+brayers 3
 bismutoplagionite 2
 barolo 1
 bm
@@ -14410,7 +14410,7 @@ braincase
 blastomycosis 2
 braincraft 6
 buckish 5
-birsle 1
+birsle 2
 bragozzo 4
 befan 1
 brainge 1
@@ -14949,7 +14949,7 @@ bootid 4
 bitthead 4
 breaster 2
 breastfast 1
-bura 4
+bura 5
 bearing 4
 balantidium 3
 baldie 1
