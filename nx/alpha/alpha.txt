@@ -4369,7 +4369,7 @@ adrogate
 antialbumid 1
 anthranilic 2
 antihygienic 2
-ascript 1
+ascript 2
 acetmethylanilide
 adrowse 2
 arecaine 2
@@ -6074,7 +6074,7 @@ agrionidae 2
 agility 2
 antemortal 4
 attorneyship 1
-abecedaire
+abecedaire 1
 acyesis 3
 aging
 arrgt
@@ -18457,7 +18457,7 @@ arbalestrier 1
 arbalists 1
 adventry 1
 abrenunciation 2
-ascorbic 1
+ascorbic 2
 arbela 2
 adeline 1
 antipendium 3
@@ -22801,7 +22801,7 @@ atlantosaurus 3
 atlases 2
 aguara 3
 annulling 2
-apropos 1
+apropos 2
 atloid 3
 atloidean 1
 arousals 1
