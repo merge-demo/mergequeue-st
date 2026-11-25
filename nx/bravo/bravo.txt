@@ -2110,7 +2110,7 @@ blossomry 1
 bronchus 2
 bcf 3
 baldest 3
-blesses 3
+blesses 4
 bannerols 2
 blackfly 1
 bannisters 1
@@ -5602,7 +5602,7 @@ belash 2
 blobbed 2
 bumbard 1
 bombloads 3
-blisters 1
+blisters 2
 brough 2
 bulletheaded 3
 battlement 3
@@ -10738,7 +10738,7 @@ bandfish 3
 baldfaced 2
 bogijiab 2
 brachistocephali 3
-boney 4
+boney 5
 byssus 2
 beaverboard 4
 balls
