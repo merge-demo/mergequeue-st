@@ -10061,7 +10061,7 @@ byzantine 3
 byzantinize
 barmecide 1
 bottlemaking
-blamability
+blamability 1
 bilander 1
 boomerang 2
 bizarreness 1
@@ -12630,7 +12630,7 @@ broomy 1
 bookbind 1
 boruca 4
 bronchocele 1
-beatniks 4
+beatniks 5
 bagels 3
 baguets 1
 beleaguerment 5
